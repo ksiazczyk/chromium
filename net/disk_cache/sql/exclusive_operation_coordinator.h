@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Exclusive operation coordinator
+// summary: Declares a coordinator that serializes normal operations by key and grants exclusive operations exclusive access to the resource.
+// ---
+
 #ifndef NET_DISK_CACHE_SQL_EXCLUSIVE_OPERATION_COORDINATOR_H_
 #define NET_DISK_CACHE_SQL_EXCLUSIVE_OPERATION_COORDINATOR_H_
 

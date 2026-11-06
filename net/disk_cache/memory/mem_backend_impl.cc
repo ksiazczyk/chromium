@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-memory cache backend implementation
+// summary: Implements MemBackendImpl, the memory-only cache backend, including default size calculation from system RAM, LRU eviction, and memory consumer registration.
+// ---
+
 #include "net/disk_cache/memory/mem_backend_impl.h"
 
 #include <algorithm>

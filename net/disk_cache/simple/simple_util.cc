@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Simple cache utility functions
+// summary: Implements entry hash key hashing, cache file naming, header and size calculations, and CRC-32 helpers for the simple backend.
+// ---
+
 #include "net/disk_cache/simple/simple_util.h"
 
 #include <string.h>

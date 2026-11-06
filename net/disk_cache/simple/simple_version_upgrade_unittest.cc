@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Simple cache version upgrade unit tests
+// summary: Unit tests verifying that the simple disk cache upgrades on-disk cache structures across versions, covering backward migration failures, experiment transitions, and encryption status handling.
+// ---
+
 #include "net/disk_cache/simple/simple_version_upgrade.h"
 
 #include <stdint.h>

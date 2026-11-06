@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stress cache support macros
+// summary: Defines STRESS_NOTREACHED and STRESS_DCHECK macros that enable extra integrity checks in stress_cache debug builds.
+// ---
+
 #ifndef NET_DISK_CACHE_BLOCKFILE_STRESS_SUPPORT_H_
 #define NET_DISK_CACHE_BLOCKFILE_STRESS_SUPPORT_H_
 

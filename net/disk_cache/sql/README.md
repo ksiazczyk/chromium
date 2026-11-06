@@ -1,3 +1,13 @@
+---
+type: readme
+title: SQL disk cache backend
+summary: Documents the SQL-based disk cache backend, its key classes, sharded persistence layer, and SQLite database schema.
+relations:
+  - references /net/disk_cache/disk_cache.h
+  - documents /net/disk_cache/sql/cache_entry_key.h
+  - documents /net/disk_cache/sql/entry_db_handle.h
+---
+
 # SQL disk cache backend
 
 This directory contains an experimental SQL-based implementation of the disk

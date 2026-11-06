@@ -4,6 +4,12 @@
 
 // Error codes reported by self tests or to UMA.
 
+// ---docerion
+// type: source
+// title: Disk cache error codes
+// summary: Lists error codes reported by the blockfile cache self tests or to UMA, such as invalid addresses and previous crashes.
+// ---
+
 #ifndef NET_DISK_CACHE_BLOCKFILE_ERRORS_H_
 #define NET_DISK_CACHE_BLOCKFILE_ERRORS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Disk cache backend unit tests
+// summary: Extensive unit test suite for the disk cache backends, covering blockfile, memory, simple, and SQL implementations.
+// ---
+
 #include <stdint.h>
 
 #include <algorithm>

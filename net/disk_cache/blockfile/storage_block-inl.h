@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StorageBlock template implementation
+// summary: Inline template implementations for StorageBlock covering load, store, hashing, and shared data buffers.
+// ---
+
 #ifndef NET_DISK_CACHE_BLOCKFILE_STORAGE_BLOCK_INL_H_
 #define NET_DISK_CACHE_BLOCKFILE_STORAGE_BLOCK_INL_H_
 

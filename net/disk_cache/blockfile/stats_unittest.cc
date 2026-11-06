@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for disk cache stats
+// summary: Tests Stats initialization, rejection of corrupt or short buffers, and counter serialization round trips.
+// ---
+
 #include "net/disk_cache/blockfile/stats.h"
 
 #include <algorithm>

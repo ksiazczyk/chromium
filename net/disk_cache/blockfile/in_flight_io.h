@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-flight asynchronous IO tracking header
+// summary: Declares BackgroundIO and InFlightIO classes that coordinate asynchronous IO operations, notifications, cancellation and callbacks for the blockfile cache.
+// ---
+
 #ifndef NET_DISK_CACHE_BLOCKFILE_IN_FLIGHT_IO_H_
 #define NET_DISK_CACHE_BLOCKFILE_IN_FLIGHT_IO_H_
 

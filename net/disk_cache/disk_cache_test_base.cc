@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Disk cache test fixture implementation
+// summary: Implements DiskCacheTest and DiskCacheTestWithCache fixtures that set up temporary cache directories and initialize backends for tests.
+// ---
+
 #include "net/disk_cache/disk_cache_test_base.h"
 
 #include <memory>

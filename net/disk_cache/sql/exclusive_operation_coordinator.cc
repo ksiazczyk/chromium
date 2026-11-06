@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Exclusive operation coordinator implementation
+// summary: Implements queuing of exclusive and per-key normal operations, recording operation delay in UMA histograms.
+// ---
+
 #include "net/disk_cache/sql/exclusive_operation_coordinator.h"
 
 #include <optional>

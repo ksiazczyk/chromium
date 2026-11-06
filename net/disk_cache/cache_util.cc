@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cache utility implementations
+// summary: Implements cache directory move, delete and cleanup helpers plus preferred cache size calculation for the disk cache.
+// ---
+
 #include "net/disk_cache/cache_util.h"
 
 #include <algorithm>

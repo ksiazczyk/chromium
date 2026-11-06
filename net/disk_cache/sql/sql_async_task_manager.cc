@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SqlAsyncTaskManager implementation
+// summary: Implements the manager that tracks pending asynchronous SQL backend tasks and runs a registered callback once all tasks have completed.
+// ---
+
 #include "net/disk_cache/sql/sql_async_task_manager.h"
 
 #include <utility>

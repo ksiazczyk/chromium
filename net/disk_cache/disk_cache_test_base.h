@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Disk cache test fixture declarations
+// summary: Declares DiskCacheTest and DiskCacheTestWithCache base classes providing cache setup, backend selection, and test configuration helpers.
+// ---
+
 #ifndef NET_DISK_CACHE_DISK_CACHE_TEST_BASE_H_
 #define NET_DISK_CACHE_DISK_CACHE_TEST_BASE_H_
 

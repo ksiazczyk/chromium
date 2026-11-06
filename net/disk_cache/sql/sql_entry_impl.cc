@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SQL cache entry implementation
+// summary: Implements the disk_cache::Entry interface for SQL-backed cache entries, handling data reads and writes, metadata updates, dooming, and write buffer flushing.
+// ---
+
 #include "net/disk_cache/sql/sql_entry_impl.h"
 
 #include "base/functional/callback_helpers.h"

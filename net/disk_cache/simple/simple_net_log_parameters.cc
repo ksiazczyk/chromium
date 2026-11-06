@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Simple cache net log parameters implementation
+// summary: Provides NetLog event parameter helpers that record Simple Cache entry construction and creation details such as entry hash and key.
+// ---
+
 #include "net/disk_cache/simple/simple_net_log_parameters.h"
 
 #include <utility>

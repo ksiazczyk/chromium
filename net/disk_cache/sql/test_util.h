@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test utility header for SQL query plans
+// summary: Declares GetQueryPlan, a test helper that executes EXPLAIN QUERY PLAN against a database via sqlite_dev_shell.
+// ---
+
 #ifndef NET_DISK_CACHE_SQL_TEST_UTIL_H_
 #define NET_DISK_CACHE_SQL_TEST_UTIL_H_
 

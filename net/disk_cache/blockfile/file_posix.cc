@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: POSIX implementation of the File class
+// summary: Implements synchronous and thread pool based asynchronous file IO for POSIX platforms, including length handling and test-only pending IO helpers.
+// ---
+
 #include "net/disk_cache/blockfile/file.h"
 
 #include <stdint.h>

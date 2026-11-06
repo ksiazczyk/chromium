@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock shared cache client remote implementation
+// summary: Implements a mock SharedCacheClientRemote with call counters and run loops for waiting on initialization and notifications in tests.
+// ---
+
 #include "net/disk_cache/sql/mock_shared_cache_client_remote.h"
 
 #include <utility>

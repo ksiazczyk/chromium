@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Simple cache version upgrade declarations
+// summary: Declares UpgradeSimpleCacheOnDisk, consistency result codes, index cleanup helpers and the FakeIndexData structure for cache upgrades.
+// ---
+
 #ifndef NET_DISK_CACHE_SIMPLE_SIMPLE_VERSION_UPGRADE_H_
 #define NET_DISK_CACHE_SIMPLE_SIMPLE_VERSION_UPGRADE_H_
 

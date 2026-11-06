@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cache utility unit tests
+// summary: Unit tests covering MoveCache, DeleteCache and CleanupDirectory behavior of the disk cache utilities.
+// ---
+
 #include "net/disk_cache/cache_util.h"
 
 #include <stdio.h>

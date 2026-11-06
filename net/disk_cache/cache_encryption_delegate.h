@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CacheEncryptionDelegate interface
+// summary: Declares the interface for initializing cache encryption and providing encrypted file operations and a cache entry hasher.
+// ---
+
 #ifndef NET_DISK_CACHE_CACHE_ENCRYPTION_DELEGATE_H_
 #define NET_DISK_CACHE_CACHE_ENCRYPTION_DELEGATE_H_
 

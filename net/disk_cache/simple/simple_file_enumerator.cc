@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SimpleFileEnumerator implementation
+// summary: Implements directory enumeration for the simple cache with an optimized POSIX path and a fallback for other platforms.
+// ---
+
 #include "net/disk_cache/simple/simple_file_enumerator.h"
 
 #include "base/files/file.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cache experiment groups
+// summary: Enumerates the experiment group identifiers used by the blockfile cache backend for field trials.
+// ---
+
 #ifndef NET_DISK_CACHE_BLOCKFILE_EXPERIMENTS_H_
 #define NET_DISK_CACHE_BLOCKFILE_EXPERIMENTS_H_
 

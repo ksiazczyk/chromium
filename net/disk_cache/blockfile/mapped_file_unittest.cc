@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MappedFile unit tests
+// summary: Unit tests verifying synchronous and asynchronous read and write behavior of MappedFile in the disk cache.
+// ---
+
 #include "net/disk_cache/blockfile/mapped_file.h"
 
 #include "base/files/file_path.h"

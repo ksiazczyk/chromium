@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Simple cache entry format implementation
+// summary: Implements constructors for the on-disk header and EOF structs, asserting they contain no implicit padding.
+// ---
+
 #include "net/disk_cache/simple/simple_entry_format.h"
 
 #include "base/containers/span.h"

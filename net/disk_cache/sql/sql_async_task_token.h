@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SqlAsyncTaskToken header
+// summary: Declares a token that keeps an asynchronous SQL backend task counted as pending until destroyed, then notifies the managing task runner.
+// ---
+
 #ifndef NET_DISK_CACHE_SQL_SQL_ASYNC_TASK_TOKEN_H_
 #define NET_DISK_CACHE_SQL_SQL_ASYNC_TASK_TOKEN_H_
 

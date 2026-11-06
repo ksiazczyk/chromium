@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS implementation of asynchronous File IO
+// summary: Implements the File class asynchronous read and write operations for iOS by posting IO work to background threads via the InFlightIO controller.
+// ---
+
 #include "net/disk_cache/blockfile/file.h"
 
 #include <limits.h>

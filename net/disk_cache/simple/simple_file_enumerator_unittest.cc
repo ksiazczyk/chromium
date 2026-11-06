@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SimpleFileEnumerator unit tests
+// summary: Tests SimpleFileEnumerator enumeration of test data, including error handling for missing directories.
+// ---
+
 #include "net/disk_cache/simple/simple_file_enumerator.h"
 
 #include "base/path_service.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cache entry implementation
+// summary: Implements the Entry interface for the blockfile backend, handling reads, writes, sparse data and buffering of entry data.
+// ---
+
 #include "net/disk_cache/blockfile/entry_impl.h"
 
 #include <algorithm>

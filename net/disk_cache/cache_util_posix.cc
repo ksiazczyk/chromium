@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: POSIX cache move implementation
+// summary: Implements MoveCache for POSIX platforms, moving cache items individually on ChromeOS to work around its encrypted filesystem.
+// ---
+
 #include "net/disk_cache/cache_util.h"
 
 #include "base/files/file_enumerator.h"

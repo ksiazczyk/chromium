@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EntryWriteBuffer unit tests
+// summary: Unit tests covering EntryWriteBuffer construction, move semantics, and handling of multiple buffers.
+// ---
+
 #include "net/disk_cache/sql/entry_write_buffer.h"
 
 #include <string>

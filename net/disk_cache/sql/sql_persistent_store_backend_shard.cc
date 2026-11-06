@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SQL backend shard implementation
+// summary: Implements BackendShard, which forwards cache operations to a Backend instance on a background task runner and maintains the shard's in-memory index.
+// ---
+
 #include "net/disk_cache/sql/sql_persistent_store_backend_shard.h"
 
 #include <set>

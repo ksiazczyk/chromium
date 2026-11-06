@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Disk cache NetLog parameters implementation
+// summary: Implements functions that build NetLog event parameters for disk cache entry creation, read/write operations, and sparse operations.
+// ---
+
 #include "net/disk_cache/net_log_parameters.h"
 
 #include <utility>

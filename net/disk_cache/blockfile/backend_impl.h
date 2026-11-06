@@ -4,6 +4,12 @@
 
 // See net/disk_cache/disk_cache.h for the public interface of the cache.
 
+// ---docerion
+// type: source
+// title: Blockfile cache backend class declaration
+// summary: Declares BackendImpl, which implements the Backend interface for a profile's cache, with backend flags and synchronous implementations of asynchronous entry operations.
+// ---
+
 #ifndef NET_DISK_CACHE_BLOCKFILE_BACKEND_IMPL_H_
 #define NET_DISK_CACHE_BLOCKFILE_BACKEND_IMPL_H_
 

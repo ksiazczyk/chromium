@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MappedFile load and store implementation
+// summary: Implements synchronous Load, Store and Preload operations of the memory-mapped cache file, with platform-specific parts handled in separate files.
+// ---
+
 #include "net/disk_cache/blockfile/mapped_file.h"
 
 #include <algorithm>

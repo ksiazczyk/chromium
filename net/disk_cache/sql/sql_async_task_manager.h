@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SqlAsyncTaskManager header
+// summary: Declares the manager that issues SqlAsyncTaskToken objects, counts pending asynchronous tasks, and lets tests wait until all operations finish.
+// ---
+
 #ifndef NET_DISK_CACHE_SQL_SQL_ASYNC_TASK_MANAGER_H_
 #define NET_DISK_CACHE_SQL_SQL_ASYNC_TASK_MANAGER_H_
 

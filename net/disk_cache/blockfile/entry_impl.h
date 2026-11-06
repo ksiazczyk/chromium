@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cache entry class declaration
+// summary: Declares EntryImpl, the blockfile cache entry class with operations for data reads, writes, dooming and rankings updates.
+// ---
+
 #ifndef NET_DISK_CACHE_BLOCKFILE_ENTRY_IMPL_H_
 #define NET_DISK_CACHE_BLOCKFILE_ENTRY_IMPL_H_
 

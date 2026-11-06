@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sparse entry control implementation
+// summary: Implements SparseControl, which manages sparse cache entries by tracking child entries, byte ranges and IO operations for the blockfile backend.
+// ---
+
 #include "net/disk_cache/blockfile/sparse_control.h"
 
 #include <stdint.h>

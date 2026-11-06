@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Simple cache backend implementation
+// summary: Implements the simple disk cache backend, covering initialization, on-disk structure checks, entry management, and doom handling.
+// ---
+
 #include "net/disk_cache/simple/simple_backend_impl.h"
 
 #include <algorithm>

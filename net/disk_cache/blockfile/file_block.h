@@ -4,6 +4,12 @@
 
 // See net/disk_cache/disk_cache.h for the public interface of the cache.
 
+// ---docerion
+// type: source
+// title: FileBlock interface for a data block on disk
+// summary: Defines the FileBlock interface exposing a data span and file offset for a single block stored in a file-block, simplifying loading and storing from disk.
+// ---
+
 #ifndef NET_DISK_CACHE_BLOCKFILE_FILE_BLOCK_H_
 #define NET_DISK_CACHE_BLOCKFILE_FILE_BLOCK_H_
 

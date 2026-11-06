@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Simple cache test utilities for corrupting entries
+// summary: Implements test helpers that create corrupt cache files or remove and corrupt key SHA-256 and stream length fields to exercise error paths.
+// ---
+
 #include "net/disk_cache/simple/simple_test_util.h"
 
 #include "base/containers/span.h"

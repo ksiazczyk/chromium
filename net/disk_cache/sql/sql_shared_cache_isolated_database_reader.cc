@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SQL shared cache isolated database reader implementation
+// summary: Implements a read-only reader that opens an isolated SQLite cache shard through the sandboxed VFS and fetches cached response headers and bodies.
+// ---
+
 #include "net/disk_cache/sql/sql_shared_cache_isolated_database_reader.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Disk cache fuzzer protobuf definitions
+// summary: Protobuf schema describing cache backends, cache types, and the fuzz commands that the disk cache fuzzer can execute.
+// ---
+
 syntax = "proto2";
 
 package disk_cache_fuzzer;

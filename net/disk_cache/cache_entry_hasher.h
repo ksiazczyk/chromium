@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CacheEntryHasher interface
+// summary: Declares an interface for hashing cache entry keys into 64-bit values used to locate entries on disk.
+// ---
+
 #ifndef NET_DISK_CACHE_CACHE_ENTRY_HASHER_H_
 #define NET_DISK_CACHE_CACHE_ENTRY_HASHER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SQL cache entry class declaration
+// summary: Declares SqlEntryImpl, the Entry implementation responsible for managing the data and metadata of a single entry in the SQL-based disk cache.
+// ---
+
 #ifndef NET_DISK_CACHE_SQL_SQL_ENTRY_IMPL_H_
 #define NET_DISK_CACHE_SQL_SQL_ENTRY_IMPL_H_
 

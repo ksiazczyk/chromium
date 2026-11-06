@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Disk cache backend creation
+// summary: Implements the disk cache entry points and CacheCreator, which selects and builds the appropriate cache backend with retries and cleanup tracking.
+// ---
+
 #include "net/disk_cache/disk_cache.h"
 
 #include <utility>

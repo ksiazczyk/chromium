@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SQL persistent store unit tests
+// summary: Extensive unit tests for SqlPersistentStore covering initialization, entry and blob operations, shared cache, and WAL mode configurations.
+// ---
+
 #include "net/disk_cache/sql/sql_persistent_store.h"
 
 #include <cstdint>

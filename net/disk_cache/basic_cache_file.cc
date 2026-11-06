@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Basic cache file implementation
+// summary: Implements BasicCacheFile, a thin wrapper around base::File providing read, write, and length operations for cache files.
+// ---
+
 #include "net/disk_cache/basic_cache_file.h"
 
 namespace disk_cache {

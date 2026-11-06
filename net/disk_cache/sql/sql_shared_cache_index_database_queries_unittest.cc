@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SQL shared cache index database queries unit test
+// summary: Unit test verifying that all shared cache index database queries produce the expected SQLite query plans against a temporary database.
+// ---
+
 #include "net/disk_cache/sql/sql_shared_cache_index_database_queries.h"
 
 #include <string_view>

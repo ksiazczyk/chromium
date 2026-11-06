@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows simple cache file deletion
+// summary: Implements SimpleCacheDeleteFile on Windows by renaming files to a random todelete_ name before deleting them.
+// ---
+
 #include "net/disk_cache/simple/simple_util.h"
 
 #include <windows.h>

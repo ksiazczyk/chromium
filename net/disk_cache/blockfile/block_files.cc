@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Block files implementation
+// summary: Implements BlockHeader allocation map operations and the BlockFiles class that manages the disk cache's block files, including creating, deleting and growing block storage.
+// ---
+
 #include "net/disk_cache/blockfile/block_files.h"
 
 #include <array>

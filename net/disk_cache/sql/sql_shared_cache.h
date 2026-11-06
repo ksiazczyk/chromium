@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SQL shared cache
+// summary: Declares SqlSharedCache, a reference-counted shared cache instance per NetworkIsolationKey managed by SqlSharedCacheManager.
+// ---
+
 #ifndef NET_DISK_CACHE_SQL_SQL_SHARED_CACHE_H_
 #define NET_DISK_CACHE_SQL_SQL_SHARED_CACHE_H_
 

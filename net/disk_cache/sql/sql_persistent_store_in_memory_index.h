@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SQL persistent store in-memory index
+// summary: Declares an in-memory index of SQL disk cache entries with fast lookups by cache key hash and resource ID, optimized to halve memory usage.
+// ---
+
 #ifndef NET_DISK_CACHE_SQL_SQL_PERSISTENT_STORE_IN_MEMORY_INDEX_H_
 #define NET_DISK_CACHE_SQL_SQL_PERSISTENT_STORE_IN_MEMORY_INDEX_H_
 

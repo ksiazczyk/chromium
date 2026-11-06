@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SQL shared cache index database implementation
+// summary: Implements the SQLite index database that maps NetworkIsolationKeys to unique integer IDs used to name per-NIK shared cache database files, with metrics and error handling.
+// ---
+
 #include "net/disk_cache/sql/sql_shared_cache_index_database.h"
 
 #include <string_view>

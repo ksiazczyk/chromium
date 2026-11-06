@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BackendMock declaration for the disk cache Backend interface
+// summary: Declares BackendMock, a Google Mock implementation of the disk cache Backend interface that mocks entry, doom, size and stats operations for tests.
+// ---
+
 #ifndef NET_DISK_CACHE_MOCK_MOCK_BACKEND_IMPL_H_
 #define NET_DISK_CACHE_MOCK_MOCK_BACKEND_IMPL_H_
 

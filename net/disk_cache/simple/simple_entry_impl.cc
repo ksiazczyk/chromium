@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Simple cache entry implementation
+// summary: Implements SimpleEntryImpl, coordinating entry operations, size limits, and histogram recording between the backend and worker threads.
+// ---
+
 #include "net/disk_cache/simple/simple_entry_impl.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SQL persistent store in-memory index implementation
+// summary: Implements the in-memory hash-to-resource index with 32-bit and 64-bit variants used by the SQL persistent store for fast entry lookups.
+// ---
+
 #include "net/disk_cache/sql/sql_persistent_store_in_memory_index.h"
 
 #include <limits>

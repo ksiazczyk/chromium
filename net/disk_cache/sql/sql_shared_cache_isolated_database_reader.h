@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SQL shared cache isolated database reader header
+// summary: Declares SqlSharedCacheIsolatedDatabaseReader, which gives renderer processes read-only access to a single isolated SQLite cache shard without IPC overhead.
+// ---
+
 #ifndef NET_DISK_CACHE_SQL_SQL_SHARED_CACHE_ISOLATED_DATABASE_READER_H_
 #define NET_DISK_CACHE_SQL_SQL_SHARED_CACHE_ISOLATED_DATABASE_READER_H_
 

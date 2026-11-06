@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Simple index unit tests
+// summary: Unit tests for EntryMetadata and SimpleIndex covering metadata values, serialization, disk writes, and index initialization behavior.
+// ---
+
 #include "net/disk_cache/simple/simple_index.h"
 
 #include <algorithm>

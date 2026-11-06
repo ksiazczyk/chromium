@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Indexed pair set unit tests
+// summary: Unit tests for insert, find, contains, remove, and clear behavior of the IndexedPairSet container.
+// ---
+
 #include "net/disk_cache/sql/indexed_pair_set.h"
 
 #include "testing/gmock/include/gmock/gmock.h"

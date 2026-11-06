@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SQL backend strong aliases
+// summary: Defines StrongAlias types for resource, shard, and shared cache identifiers plus URL hashes and memory entry data hints to prevent type confusion.
+// ---
+
 #ifndef NET_DISK_CACHE_SQL_SQL_BACKEND_ALIASES_H_
 #define NET_DISK_CACHE_SQL_SQL_BACKEND_ALIASES_H_
 

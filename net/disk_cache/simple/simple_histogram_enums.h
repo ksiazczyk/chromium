@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Simple cache histogram enums
+// summary: Defines enums used to report simple cache outcomes such as open, write, close, and file descriptor operations to histograms.
+// ---
+
 #ifndef NET_DISK_CACHE_SIMPLE_SIMPLE_HISTOGRAM_ENUMS_H_
 #define NET_DISK_CACHE_SIMPLE_SIMPLE_HISTOGRAM_ENUMS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EntryDbHandle implementation
+// summary: Implements the state transitions and accessors of EntryDbHandle, which tracks a cache entry's database resource ID or error.
+// ---
+
 #include "net/disk_cache/sql/entry_db_handle.h"
 
 namespace disk_cache {

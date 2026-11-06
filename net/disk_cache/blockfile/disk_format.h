@@ -42,6 +42,12 @@
 // being currently used, it means that the entry was not properly closed on a
 // previous run, so it is discarded.
 
+// ---docerion
+// type: source
+// title: Blockfile cache disk format
+// summary: Defines the on-disk format of the blockfile cache, including the index file header, version constants and LRU data structures.
+// ---
+
 #ifndef NET_DISK_CACHE_BLOCKFILE_DISK_FORMAT_H_
 #define NET_DISK_CACHE_BLOCKFILE_DISK_FORMAT_H_
 

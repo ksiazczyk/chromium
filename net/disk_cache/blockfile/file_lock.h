@@ -4,6 +4,12 @@
 
 // See net/disk_cache/disk_cache.h for the public interface of the cache.
 
+// ---docerion
+// type: source
+// title: FileLock for block file header corruption detection
+// summary: Declares FileLock, a lock living in a memory-mapped file header used to detect file corruption when a process crashes during an update.
+// ---
+
 #ifndef NET_DISK_CACHE_BLOCKFILE_FILE_LOCK_H_
 #define NET_DISK_CACHE_BLOCKFILE_FILE_LOCK_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EntryMock declaration for the disk cache Entry interface
+// summary: Declares EntryMock, a Google Mock implementation of the disk cache Entry interface that mocks read, write, sparse and doom operations for tests.
+// ---
+
 #ifndef NET_DISK_CACHE_MOCK_MOCK_ENTRY_IMPL_H_
 #define NET_DISK_CACHE_MOCK_MOCK_ENTRY_IMPL_H_
 

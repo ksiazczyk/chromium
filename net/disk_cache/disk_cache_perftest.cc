@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Disk cache performance tests
+// summary: Performance tests measuring cache entry read, write, hashing, and initialization times across backends, reporting metrics via PerfResultReporter.
+// ---
+
 #include "net/disk_cache/disk_cache.h"
 
 #include <array>

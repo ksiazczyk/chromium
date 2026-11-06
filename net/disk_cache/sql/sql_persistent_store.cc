@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SQL persistent store implementation
+// summary: Implements the SQL disk cache persistence layer, coordinating multiple sharded SQLite databases, eviction, and asynchronous entry operations.
+// ---
+
 #include "net/disk_cache/sql/sql_persistent_store.h"
 
 #include <algorithm>

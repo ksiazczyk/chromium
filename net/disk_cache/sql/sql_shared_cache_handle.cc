@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SQL shared cache handle implementation
+// summary: Implements SqlSharedCacheHandle, a ref-counted handle that keeps a SqlSharedCache alive via a weak pointer and provides checked access to it.
+// ---
+
 #include "net/disk_cache/sql/sql_shared_cache_handle.h"
 
 #include "net/disk_cache/sql/sql_shared_cache.h"

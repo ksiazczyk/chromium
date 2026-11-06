@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EntryDbHandle class declaration
+// summary: Declares a ref-counted handle that tracks a cache entry's ResId, creation state, doom status, and shared cache handles.
+// ---
+
 #ifndef NET_DISK_CACHE_SQL_ENTRY_DB_HANDLE_H_
 #define NET_DISK_CACHE_SQL_ENTRY_DB_HANDLE_H_
 

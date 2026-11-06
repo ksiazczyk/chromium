@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Simple index file loading and writing implementation
+// summary: Implements loading, validating, and writing of the Simple Cache index file, including pickle serialization and index state metrics.
+// ---
+
 
 #include "net/disk_cache/simple/simple_index_file.h"
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-flight asynchronous IO tracking implementation
+// summary: Implements BackgroundIO and InFlightIO to track asynchronous disk cache IO operations across worker and main threads and invoke completion callbacks.
+// ---
+
 #include "net/disk_cache/blockfile/in_flight_io.h"
 
 #include "base/functional/bind.h"

@@ -5,6 +5,12 @@
 // This is an internal class that handles the address of a cache record.
 // See net/disk_cache/disk_cache.h for the public interface of the cache.
 
+// ---docerion
+// type: source
+// title: Addr cache record address class
+// summary: Declares the Addr class that packs file type, block file selector, block number and file number into a single value used to locate cache records.
+// ---
+
 #ifndef NET_DISK_CACHE_BLOCKFILE_ADDR_H_
 #define NET_DISK_CACHE_BLOCKFILE_ADDR_H_
 

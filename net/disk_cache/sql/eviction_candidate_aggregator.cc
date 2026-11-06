@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Eviction candidate aggregator implementation
+// summary: Implements collection and aggregation of eviction candidates from cache shards, selecting entries to evict by sort value.
+// ---
+
 #include "net/disk_cache/sql/eviction_candidate_aggregator.h"
 
 #include <algorithm>

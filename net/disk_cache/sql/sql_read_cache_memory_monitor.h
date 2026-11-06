@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SQL read cache memory monitor
+// summary: Declares SqlReadCacheMemoryMonitor for limiting read cache buffer memory and MonitoredVectorIOBuffer, which releases tracked bytes when destroyed.
+// ---
+
 #ifndef NET_DISK_CACHE_SQL_SQL_READ_CACHE_MEMORY_MONITOR_H_
 #define NET_DISK_CACHE_SQL_SQL_READ_CACHE_MEMORY_MONITOR_H_
 

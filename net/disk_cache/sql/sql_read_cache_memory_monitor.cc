@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SQL read cache memory monitor implementation
+// summary: Implements a thread-safe monitor that limits memory used by read cache buffers and an IOBuffer that releases its bytes on destruction.
+// ---
+
 #include "net/disk_cache/sql/sql_read_cache_memory_monitor.h"
 
 #include <atomic>

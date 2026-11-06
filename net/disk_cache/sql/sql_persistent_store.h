@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SQL persistent store API
+// summary: Declares SqlPersistentStore, the main entry point of the SQL disk cache persistence layer that distributes operations across database shards by entry key.
+// ---
+
 #ifndef NET_DISK_CACHE_SQL_SQL_PERSISTENT_STORE_H_
 #define NET_DISK_CACHE_SQL_SQL_PERSISTENT_STORE_H_
 

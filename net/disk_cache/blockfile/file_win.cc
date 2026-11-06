@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows implementation of the File class
+// summary: Implements File IO on Windows using overlapped operations, an IO completion handler and a separate synchronous file handle for mixed mode.
+// ---
+
 #include "net/disk_cache/blockfile/file.h"
 
 #include <windows.h>

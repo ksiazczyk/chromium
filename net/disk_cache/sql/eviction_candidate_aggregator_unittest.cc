@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Eviction candidate aggregator unit tests
+// summary: Unit tests verifying that candidates are sorted by sort value and that enough candidates are selected to meet the eviction target.
+// ---
+
 #include "net/disk_cache/sql/eviction_candidate_aggregator.h"
 
 #include <vector>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SQL persistent store in-memory index unit tests
+// summary: Unit tests for the in-memory cache entry index covering insert, remove, clear, hints, and behavior across the 32-bit and 64-bit maps.
+// ---
+
 #include "net/disk_cache/sql/sql_persistent_store_in_memory_index.h"
 
 #include "net/base/features.h"

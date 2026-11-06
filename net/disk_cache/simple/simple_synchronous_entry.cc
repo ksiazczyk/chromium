@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Simple synchronous cache entry implementation
+// summary: Implements the synchronous Simple Cache entry that performs file I/O, integrity checks, prefetching, and histogram recording on worker threads.
+// ---
+
 #include "net/disk_cache/simple/simple_synchronous_entry.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Exclusive operation coordinator unit tests
+// summary: Unit tests covering exclusive operation ordering, serialization of same-key normal operations, and concurrency across different keys.
+// ---
+
 #include "net/disk_cache/sql/exclusive_operation_coordinator.h"
 
 #include <memory>

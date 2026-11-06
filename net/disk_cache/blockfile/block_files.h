@@ -4,6 +4,12 @@
 
 // See net/disk_cache/disk_cache.h for the public interface.
 
+// ---docerion
+// type: source
+// title: Block files class declarations
+// summary: Declares BlockHeader, an in-memory view of a block file header for allocating and releasing storage, and BlockFiles, which manages the set of open block files.
+// ---
+
 #ifndef NET_DISK_CACHE_BLOCKFILE_BLOCK_FILES_H_
 #define NET_DISK_CACHE_BLOCKFILE_BLOCK_FILES_H_
 

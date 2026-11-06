@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Post operation waiter header
+// summary: Declares SimplePostOperationWaiterTable, a ref-counted table queuing per-entry callbacks until operations such as doom complete.
+// ---
+
 #ifndef NET_DISK_CACHE_SIMPLE_POST_OPERATION_WAITER_H_
 #define NET_DISK_CACHE_SIMPLE_POST_OPERATION_WAITER_H_
 

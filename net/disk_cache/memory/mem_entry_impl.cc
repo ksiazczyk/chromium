@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-memory cache entry implementation
+// summary: Implements MemEntryImpl, handling parent and child entries, sparse data split into 4KB children, storage size accounting, and NetLog parameters.
+// ---
+
 #include "net/disk_cache/memory/mem_entry_impl.h"
 
 #include <algorithm>

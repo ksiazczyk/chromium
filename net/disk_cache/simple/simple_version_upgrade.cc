@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Simple cache on-disk version upgrade logic
+// summary: Upgrades and validates the simple cache's on-disk structure, including the fake index file, during cache initialization.
+// ---
+
 #include "net/disk_cache/simple/simple_version_upgrade.h"
 
 #include <cstring>

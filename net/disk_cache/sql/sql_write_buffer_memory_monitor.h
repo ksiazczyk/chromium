@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SqlWriteBufferMemoryMonitor class declaration
+// summary: Declares SqlWriteBufferMemoryMonitor and its ScopedReservation class for tracking and capping write buffer memory on a single sequence.
+// ---
+
 #ifndef NET_DISK_CACHE_SQL_SQL_WRITE_BUFFER_MEMORY_MONITOR_H_
 #define NET_DISK_CACHE_SQL_SQL_WRITE_BUFFER_MEMORY_MONITOR_H_
 

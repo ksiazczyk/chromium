@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SqlAsyncTaskToken implementation
+// summary: Implements the task token whose destructor notifies the manager of completion, tolerating cross-sequence destruction during shutdown.
+// ---
+
 #include "net/disk_cache/sql/sql_async_task_token.h"
 
 #include "base/check.h"

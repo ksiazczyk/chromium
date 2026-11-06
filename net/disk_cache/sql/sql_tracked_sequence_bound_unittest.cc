@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SqlTrackedSequenceBound unit tests
+// summary: Unit tests verifying async calls, argument passing and Then callbacks of SqlTrackedSequenceBound using a dummy backend and SqlAsyncTaskManager.
+// ---
+
 #include "net/disk_cache/sql/sql_tracked_sequence_bound.h"
 
 #include "base/run_loop.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SQL shared cache manager header
+// summary: Declares SqlSharedCacheManager, which maps NetworkIsolationKeys and database IDs to shared cache handles and coordinates their lifecycle.
+// ---
+
 #ifndef NET_DISK_CACHE_SQL_SQL_SHARED_CACHE_MANAGER_H_
 #define NET_DISK_CACHE_SQL_SQL_SHARED_CACHE_MANAGER_H_
 

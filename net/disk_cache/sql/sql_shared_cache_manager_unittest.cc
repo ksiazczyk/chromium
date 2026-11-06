@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SQL shared cache manager unit tests
+// summary: Unit tests for SqlSharedCacheManager covering cache lookup by NIK and database ID, resource deletion, and entry copying with WAL mode variants.
+// ---
+
 #include "net/disk_cache/sql/sql_shared_cache_manager.h"
 
 #include <memory>

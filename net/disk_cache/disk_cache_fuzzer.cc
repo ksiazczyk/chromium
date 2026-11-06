@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Disk cache libFuzzer target
+// summary: libFuzzer fuzz target that drives disk cache backends with protobuf-generated operation sequences to uncover crashes and bugs.
+// ---
+
 #include "net/disk_cache/disk_cache.h"
 
 #include <cinttypes>

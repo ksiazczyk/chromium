@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SimpleEntryOperation header
+// summary: Declares SimpleEntryOperation, which stores pending entry operations between issue and execution in the simple cache backend.
+// ---
+
 #ifndef NET_DISK_CACHE_SIMPLE_SIMPLE_ENTRY_OPERATION_H_
 #define NET_DISK_CACHE_SIMPLE_SIMPLE_ENTRY_OPERATION_H_
 
