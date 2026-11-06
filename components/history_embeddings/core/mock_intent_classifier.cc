@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock intent classifier implementation
+// summary: Implements a mock intent classifier that treats queries as answerable when they end with a question mark or start with question words.
+// ---
+
 #include "components/history_embeddings/core/mock_intent_classifier.h"
 
 #include "base/strings/string_util.h"

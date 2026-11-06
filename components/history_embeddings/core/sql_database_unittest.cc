@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: History Embeddings SQL database unit tests
+// summary: Unit tests for SqlDatabase covering adding, retrieving, iterating, and deleting URL passage and embedding data with mock data and test encryptors.
+// ---
+
 #include "components/history_embeddings/core/sql_database.h"
 
 #include <array>

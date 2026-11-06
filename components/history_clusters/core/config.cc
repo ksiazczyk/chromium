@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History clusters config implementation
+// summary: Implements the global Config singleton, populating Journeys and related clustering settings from feature flags, field trial parameters, and switches.
+// ---
+
 #include "components/history_clusters/core/config.h"
 
 #include <algorithm>

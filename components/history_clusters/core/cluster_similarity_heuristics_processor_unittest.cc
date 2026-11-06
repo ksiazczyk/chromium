@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cluster similarity heuristics processor unit tests
+// summary: Unit tests verifying that the similarity heuristics processor merges clusters with matching search terms or overlapping visits and records metrics.
+// ---
+
 #include "components/history_clusters/core/cluster_similarity_heuristics_processor.h"
 
 #include "base/run_loop.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the history_embeddings_proto library
+summary: GN build file that defines the history_embeddings_proto proto_library target compiling history_embeddings.proto with proto_in_dir set to the repository root.

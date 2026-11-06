@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Vector database interface for History Embeddings
+// summary: Declares VectorDatabase, ScoredUrl, SearchParams, and SearchInfo types used for embedding similarity search and word match scoring of history data.
+// ---
+
 #ifndef COMPONENTS_HISTORY_EMBEDDINGS_CORE_VECTOR_DATABASE_H_
 #define COMPONENTS_HISTORY_EMBEDDINGS_CORE_VECTOR_DATABASE_H_
 

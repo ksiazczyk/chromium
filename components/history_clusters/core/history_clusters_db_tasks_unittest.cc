@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: History clusters DB tasks unit tests
+// summary: Unit test verifying GetBeginTimeOnDayBoundary computes the expected 4AM day boundary begin times for various end times.
+// ---
+
 
 #include "components/history_clusters/core/history_clusters_db_tasks.h"
 

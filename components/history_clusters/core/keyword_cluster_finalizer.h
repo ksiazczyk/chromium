@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyword cluster finalizer header
+// summary: Declares the cluster finalizer that determines the set of keywords for a given cluster.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CLUSTERS_CORE_KEYWORD_CLUSTER_FINALIZER_H_
 #define COMPONENTS_HISTORY_CLUSTERS_CORE_KEYWORD_CLUSTER_FINALIZER_H_
 

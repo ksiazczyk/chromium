@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Noisy cluster finalizer unit tests
+// summary: Unit tests verifying clusters are filtered or kept based on the interesting-visits threshold and engagement scores.
+// ---
+
 #include "components/history_clusters/core/noisy_cluster_finalizer.h"
 
 #include "base/test/metrics/histogram_tester.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClusterProcessor abstract interface
+// summary: Declares the abstract interface for processors that perform operations such as combining or splitting clusters.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CLUSTERS_CORE_CLUSTER_PROCESSOR_H_
 #define COMPONENTS_HISTORY_CLUSTERS_CORE_CLUSTER_PROCESSOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cluster interaction state processor implementation
+// summary: Filters clusters by hidden and done search term interaction states and removes clusters left with empty visits.
+// ---
+
 #include "components/history_clusters/core/cluster_interaction_state_processor.h"
 #include <algorithm>
 #include <string>

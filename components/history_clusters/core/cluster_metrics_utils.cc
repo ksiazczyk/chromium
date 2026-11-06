@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cluster metrics enum string helpers
+// summary: Converts cluster, visit and related search action enums into strings used for histogram logging.
+// ---
+
 #include "components/history_clusters/core/cluster_metrics_utils.h"
 
 #include "base/notreached.h"

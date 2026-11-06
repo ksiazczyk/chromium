@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cluster metrics enums and recorder declarations
+// summary: Defines action enums, string conversion helpers and a scoped recorder for cluster filter metrics.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CLUSTERS_CORE_CLUSTER_METRICS_UTILS_H_
 #define COMPONENTS_HISTORY_CLUSTERS_CORE_CLUSTER_METRICS_UTILS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SimilarVisit struct
+// summary: Defines a SimilarVisit struct with hash and equality helpers used to dedupe cluster visits by title and normalized URL.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CLUSTERS_CORE_SIMILAR_VISIT_H_
 #define COMPONENTS_HISTORY_CLUSTERS_CORE_SIMILAR_VISIT_H_
 

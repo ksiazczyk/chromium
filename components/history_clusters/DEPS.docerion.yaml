@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for history clusters dependencies
+summary: Defines include rules that block subdirectories from depending on the history_clusters content layer unless explicitly allowed, preserving the layered component structure.

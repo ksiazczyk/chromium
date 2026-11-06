@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Context clusterer history service observer unit tests
+// summary: Unit tests for the context clusterer observer using mock history services, test optimization guide deciders, and template URL service fixtures.
+// ---
+
 #include "components/history_clusters/core/context_clusterer_history_service_observer.h"
 
 #include <optional>

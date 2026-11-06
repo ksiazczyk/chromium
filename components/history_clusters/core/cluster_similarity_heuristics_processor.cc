@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cluster similarity heuristics processor implementation
+// summary: Greedily merges clusters that share search terms or whose visits are a subset of another cluster's visits.
+// ---
+
 #include "components/history_clusters/core/cluster_similarity_heuristics_processor.h"
 
 #include <iterator>

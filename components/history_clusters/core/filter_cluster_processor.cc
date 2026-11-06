@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Filter cluster processor implementation
+// summary: Implements FilterClusterProcessor, removing clusters that fail filter parameters such as visit counts, images, categories, and search signals, while recording filter reason metrics.
+// ---
+
 #include "components/history_clusters/core/filter_cluster_processor.h"
 
 #include <iterator>

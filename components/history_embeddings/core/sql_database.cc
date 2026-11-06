@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SQL database for history embeddings storage
+// summary: Implements the SQLite storage of encrypted passages and embeddings blobs, including schema creation, indexes, and versioning.
+// ---
+
 #include "components/history_embeddings/core/sql_database.h"
 
 #include <algorithm>

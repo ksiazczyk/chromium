@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: On-device clustering utility unit tests
+// summary: Unit tests for clustering utilities, mainly merging duplicate visits into canonical visits with annotations and durations.
+// ---
+
 #include "components/history_clusters/core/on_device_clustering_util.h"
 
 #include "base/test/task_environment.h"

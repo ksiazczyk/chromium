@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Clustering test utilities implementation
+// summary: Implements clustering test helpers such as VisitResult comparison, cluster-to-result conversion, and factory functions for annotated and cluster visits.
+// ---
+
 #include "components/history_clusters/core/clustering_test_utils.h"
 
 #include <algorithm>

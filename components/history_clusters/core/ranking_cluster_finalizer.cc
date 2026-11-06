@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RankingClusterFinalizer implementation
+// summary: Implements a cluster finalizer that scores visits by duration and attributes such as bookmarks, search terms and URL-keyed images using smoothstep normalization.
+// ---
+
 #include "components/history_clusters/core/ranking_cluster_finalizer.h"
 
 #include "base/containers/adapters.h"

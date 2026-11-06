@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Passages utility unit tests
+// summary: Tests round-tripping passages protos through blob conversion and includes a disabled encryption and decryption microbenchmark.
+// ---
+
 #include "components/history_embeddings/core/passages_util.h"
 
 #include <memory>

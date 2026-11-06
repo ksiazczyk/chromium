@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Intent classifier interface
+// summary: Declares the ComputeIntentStatus enum and the IntentClassifier base class used to determine whether a query is answerable.
+// ---
+
 #ifndef COMPONENTS_HISTORY_EMBEDDINGS_CORE_INTENT_CLASSIFIER_H_
 #define COMPONENTS_HISTORY_EMBEDDINGS_CORE_INTENT_CLASSIFIER_H_
 

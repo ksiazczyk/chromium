@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Clusterer unit tests
+// summary: Unit tests covering initial cluster creation from visits, including ties by referring visit, opener visit precedence, and URL deduping behavior.
+// ---
+
 #include "components/history_clusters/core/clusterer.h"
 
 #include "base/test/task_environment.h"

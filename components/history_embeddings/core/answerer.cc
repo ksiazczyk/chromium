@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Answerer result and context implementation
+// summary: Implements AnswererResult construction, scroll-to-text fragment population from cited passages, and the Answerer context holder.
+// ---
+
 #include "components/history_embeddings/core/answerer.h"
 
 #include "base/strings/strcat.h"

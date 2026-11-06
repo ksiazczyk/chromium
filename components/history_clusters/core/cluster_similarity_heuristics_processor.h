@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cluster similarity heuristics processor header
+// summary: Declares ClusterSimilarityHeuristicsProcessor, a cluster processor that merges clusters sharing search terms or whose visits are subsets of another cluster.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CLUSTERS_CORE_CLUSTER_SIMILARITY_HEURISTICS_PROCESSOR_H_
 #define COMPONENTS_HISTORY_CLUSTERS_CORE_CLUSTER_SIMILARITY_HEURISTICS_PROCESSOR_H_
 

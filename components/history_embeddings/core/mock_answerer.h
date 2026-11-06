@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock answerer header
+// summary: Declares MockAnswerer, a test stub implementing the Answerer interface with model version and answer computation callbacks.
+// ---
+
 #ifndef COMPONENTS_HISTORY_EMBEDDINGS_CORE_MOCK_ANSWERER_H_
 #define COMPONENTS_HISTORY_EMBEDDINGS_CORE_MOCK_ANSWERER_H_
 

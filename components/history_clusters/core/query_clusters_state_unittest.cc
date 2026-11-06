@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: QueryClustersState unit tests
+// summary: Unit tests for QueryClustersState covering filter params for zero-state queries, cluster post-processing, and ungrouped visit handling using a mock history service.
+// ---
+
 #include "components/history_clusters/core/query_clusters_state.h"
 
 #include "base/feature_list.h"

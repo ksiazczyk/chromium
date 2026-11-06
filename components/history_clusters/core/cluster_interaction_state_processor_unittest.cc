@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cluster interaction state processor unit tests
+// summary: Tests filtering of clusters whose visits carry hidden or done search term interaction states.
+// ---
+
 #include "components/history_clusters/core/cluster_interaction_state_processor.h"
 #include <string>
 #include <vector>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History clusters feature flags
+// summary: Defines base::Feature flags and parameters for Journeys and history clusters, including omnibox provider, debug, internals page, and visit deduping features.
+// ---
+
 #include "components/history_clusters/core/features.h"
 
 #include "base/feature_list.h"

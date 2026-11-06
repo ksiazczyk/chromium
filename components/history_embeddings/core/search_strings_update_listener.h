@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search strings update listener header
+// summary: Declares a singleton listener holding filter word and stop word hashes supplied by the HistorySearchStrings component installer.
+// ---
+
 #ifndef COMPONENTS_HISTORY_EMBEDDINGS_CORE_SEARCH_STRINGS_UPDATE_LISTENER_H_
 #define COMPONENTS_HISTORY_EMBEDDINGS_CORE_SEARCH_STRINGS_UPDATE_LISTENER_H_
 

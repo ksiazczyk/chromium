@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for history embeddings content
+summary: Defines the content static library and unit_tests source set for the history embeddings service, listing sources, dependencies, and test data.

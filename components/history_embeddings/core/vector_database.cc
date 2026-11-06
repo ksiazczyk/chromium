@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Vector database implementation for History Embeddings
+// summary: Implements vector database search and scoring, including term counting in passages, word match boosting, and ScoredUrl and SearchParams behavior.
+// ---
+
 #include "components/history_embeddings/core/vector_database.h"
 
 #include <algorithm>

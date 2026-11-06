@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History clusters internals WebUI controller implementation
+// summary: Implements the WebUI controller for the history clusters internals page, setting up its data source and binding the Mojo page handler factory.
+// ---
+
 
 #include "components/history_clusters/history_clusters_internals/webui/history_clusters_internals_ui.h"
 

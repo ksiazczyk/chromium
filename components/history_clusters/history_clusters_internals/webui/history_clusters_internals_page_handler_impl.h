@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declaration of the history clusters internals page handler
+// summary: Declares the page handler class that observes the history clusters service and forwards log messages and cluster data to the internals page.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CLUSTERS_HISTORY_CLUSTERS_INTERNALS_WEBUI_HISTORY_CLUSTERS_INTERNALS_PAGE_HANDLER_IMPL_H_
 #define COMPONENTS_HISTORY_CLUSTERS_HISTORY_CLUSTERS_INTERNALS_WEBUI_HISTORY_CLUSTERS_INTERNALS_PAGE_HANDLER_IMPL_H_
 

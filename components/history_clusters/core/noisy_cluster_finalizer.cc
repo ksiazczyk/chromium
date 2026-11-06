@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Noisy cluster finalizer implementation
+// summary: Hides clusters from prominent UI surfaces when they contain too few interesting, non-noisy visits, recording filter metrics.
+// ---
+
 #include "components/history_clusters/core/noisy_cluster_finalizer.h"
 
 #include "components/history_clusters/core/cluster_metrics_utils.h"

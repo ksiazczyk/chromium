@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History clusters DB tasks header
+// summary: Declares GetAnnotatedVisitsToCluster, a history DB task that gathers annotated visits to cluster, including day boundary begin time logic.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CLUSTERS_CORE_HISTORY_CLUSTERS_DB_TASKS_H_
 #define COMPONENTS_HISTORY_CLUSTERS_CORE_HISTORY_CLUSTERS_DB_TASKS_H_
 

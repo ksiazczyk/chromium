@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: History embeddings service unit tests
+// summary: Unit tests for HistoryEmbeddingsService covering embeddings storage, search scoring, and query filtering using mock dependencies and test data files.
+// ---
+
 #include "components/history_embeddings/content/history_embeddings_service.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History embeddings search result implementation
+// summary: Implements word counting, scored URL row passage selection, and search result helpers such as cloning, continuation checks, and answer indexing.
+// ---
+
 #include "components/history_embeddings/core/history_embeddings_search.h"
 
 #include <algorithm>

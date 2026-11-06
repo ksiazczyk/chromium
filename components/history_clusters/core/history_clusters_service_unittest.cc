@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: History clusters service unit tests
+// summary: Unit tests for the history clusters service covering cluster queries, task behavior, and metrics using a fake clustering backend.
+// ---
+
 #include "components/history_clusters/core/history_clusters_service.h"
 
 #include <memory>

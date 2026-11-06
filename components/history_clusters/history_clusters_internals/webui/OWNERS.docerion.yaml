@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Ownership rules for Mojom files in the WebUI directory
+summary: Assigns the IPC security owners as required reviewers for changes to Mojom files in this directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Label cluster finalizer implementation
+// summary: Chooses a cluster label from the highest-scoring search terms or hostnames and records the label source.
+// ---
+
 #include "components/history_clusters/core/label_cluster_finalizer.h"
 
 #include <optional>

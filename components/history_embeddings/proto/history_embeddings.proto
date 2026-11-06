@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History embeddings protobuf message definitions
+// summary: Proto3 schema defining messages for stored passages, embedding vectors with passage word counts, word match boosting parameters, and word match boost test cases.
+// ---
+
 syntax = "proto3";
 
 option optimize_for = LITE_RUNTIME;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History clusters debug JSON builders
+// summary: Builds loggable JSON representations of annotated visits, clusters, and keyword maps for debugging the Journeys feature.
+// ---
+
 #include "history_clusters_debug_jsons.h"
 
 #include <string>

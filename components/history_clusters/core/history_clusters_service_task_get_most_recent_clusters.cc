@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Get most recent clusters task implementation
+// summary: Task that clusters unclustered visits via the clustering backend and then returns the most recent persisted clusters.
+// ---
+
 #include "history_clusters_service_task_get_most_recent_clusters.h"
 
 #include <utility>

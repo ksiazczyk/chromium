@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock intent classifier header
+// summary: Declares MockIntentClassifier, a test stub implementing the IntentClassifier interface for query intent computation.
+// ---
+
 #ifndef COMPONENTS_HISTORY_EMBEDDINGS_CORE_MOCK_INTENT_CLASSIFIER_H_
 #define COMPONENTS_HISTORY_EMBEDDINGS_CORE_MOCK_INTENT_CLASSIFIER_H_
 

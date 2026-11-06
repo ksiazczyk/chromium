@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History Clusters Internals page controller
+// summary: TypeScript controller that wires the page buttons to log collection, JSON dumps of context clusters, and keyword bag state printing.
+// ---
+
 import {$, getRequiredElement} from 'chrome://resources/js/util.js';
 
 import {HistoryClustersInternalsBrowserProxy} from './history_clusters_internals_browser_proxy.js';

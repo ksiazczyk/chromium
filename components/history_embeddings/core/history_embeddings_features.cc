@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History embeddings feature flags and parameters
+// summary: Defines the kHistoryEmbeddings and kHistoryEmbeddingsAnswers features along with field trial parameters such as thresholds, delays, and word counts.
+// ---
+
 #include "components/history_embeddings/core/history_embeddings_features.h"
 
 #include "base/feature_list.h"

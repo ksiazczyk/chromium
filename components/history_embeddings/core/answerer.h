@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Answerer interface and result declarations
+// summary: Declares the ComputeAnswerStatus enum, the AnswererResult struct with quality logging and text directives, and the Answerer base class.
+// ---
+
 #ifndef COMPONENTS_HISTORY_EMBEDDINGS_CORE_ANSWERER_H_
 #define COMPONENTS_HISTORY_EMBEDDINGS_CORE_ANSWERER_H_
 

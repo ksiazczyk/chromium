@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content visibility cluster finalizer implementation
+// summary: Implements a cluster finalizer that hides clusters from prominent UI surfaces when visit visibility scores fall below the configured threshold.
+// ---
+
 #include "components/history_clusters/core/content_visibility_cluster_finalizer.h"
 
 #include "components/history_clusters/core/cluster_metrics_utils.h"

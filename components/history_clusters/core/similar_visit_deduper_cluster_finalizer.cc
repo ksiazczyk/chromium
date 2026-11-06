@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SimilarVisitDeduperClusterFinalizer implementation
+// summary: Implements a cluster finalizer that merges duplicate similar visits into canonical visits and removes them from the cluster.
+// ---
+
 #include "components/history_clusters/core/similar_visit_deduper_cluster_finalizer.h"
 
 #include <algorithm>

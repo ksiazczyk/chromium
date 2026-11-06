@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Search strings update listener unit tests
+// summary: Verifies filter and stop word hashes load from test files and are preserved when bad, empty, or missing files arrive.
+// ---
+
 #include "components/history_embeddings/core/search_strings_update_listener.h"
 
 #include "base/files/file_path.h"

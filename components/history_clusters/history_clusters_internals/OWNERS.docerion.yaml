@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for history_clusters_internals
+summary: OWNERS file that delegates review ownership for the history_clusters_internals component to the shared ui/webui PLATFORM_OWNERS list.

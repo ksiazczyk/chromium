@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Noisy cluster finalizer header
+// summary: Declares a ClusterFinalizer subclass that hides single-visit clusters considered noisy from prominent UI surfaces.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CLUSTERS_CORE_NOISY_CLUSTER_FINALIZER_H_
 #define COMPONENTS_HISTORY_CLUSTERS_CORE_NOISY_CLUSTER_FINALIZER_H_
 

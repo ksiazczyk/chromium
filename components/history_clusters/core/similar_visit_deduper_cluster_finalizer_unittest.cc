@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SimilarVisitDeduperClusterFinalizer unit tests
+// summary: Unit tests for the similar visit deduper covering exact URL, normalized URL and title-based dedupe cases and foreground duration merging.
+// ---
+
 #include "components/history_clusters/core/similar_visit_deduper_cluster_finalizer.h"
 
 #include "base/test/task_environment.h"

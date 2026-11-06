@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clusterer implementation
+// summary: Implements initial cluster creation from visits, tying visits by referrer, opener, and similar URLs with navigation time and search term cutoffs.
+// ---
+
 #include "components/history_clusters/core/clusterer.h"
 
 #include <ranges>

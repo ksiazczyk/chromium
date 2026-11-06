@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History clusters types implementation
+// summary: Defines default constructors, destructors and assignment operators for the cluster query filter and incomplete visit context annotations types.
+// ---
+
 #include "components/history_clusters/core/history_clusters_types.h"
 
 namespace history_clusters {

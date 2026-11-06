@@ -1,0 +1,4 @@
+# Docerion header of history_clusters_internals.mojom.
+type: source
+title: Mojom interfaces for the history clusters internals page
+summary: Defines the PageHandlerFactory, PageHandler, and Page Mojo interfaces used for communication between the internals WebUI page and the browser.

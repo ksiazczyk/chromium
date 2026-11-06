@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestHistoryClustersService class declaration
+// summary: Declares a test-friendly HistoryClustersService fake with setters for Journeys visibility and per-call cluster responses.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CLUSTERS_CORE_TEST_HISTORY_CLUSTERS_SERVICE_H_
 #define COMPONENTS_HISTORY_CLUSTERS_CORE_TEST_HISTORY_CLUSTERS_SERVICE_H_
 

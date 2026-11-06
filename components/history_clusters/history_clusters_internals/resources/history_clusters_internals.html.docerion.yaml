@@ -1,0 +1,4 @@
+# Docerion header of history_clusters_internals.html.
+type: source
+title: History Clusters Internals debug logs page
+summary: HTML page of the History Clusters Internals WebUI that lists debug log messages and offers buttons to dump logs, context clusters JSON, and keyword bag state.

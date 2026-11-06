@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: History clusters core build targets
+summary: Defines the core static library sources and dependencies plus the unit test target for the history clusters component.

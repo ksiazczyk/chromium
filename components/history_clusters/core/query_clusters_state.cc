@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QueryClustersState implementation
+// summary: Implements the state object that queries the history clusters service, builds filter params from flags, and post-processes cluster batches with culling, sorting and related-search coalescing.
+// ---
+
 #include "components/history_clusters/core/query_clusters_state.h"
 
 #include <algorithm>

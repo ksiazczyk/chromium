@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock answerer implementation
+// summary: Provides a mock Answerer that returns a canned answer with configurable status and delay for local development and testing.
+// ---
+
 #include "components/history_embeddings/core/mock_answerer.h"
 
 #include "base/task/sequenced_task_runner.h"

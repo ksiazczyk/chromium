@@ -1,3 +1,9 @@
+---
+type: readme
+title: History clusters component overview
+summary: Explains that this directory implements the Chrome Memories history clustering service as a layered component to allow omnibox dependencies and iOS compatibility.
+---
+
 # //components/history_clusters
 
 Service implementation for Chrome Memories history clustering feature.

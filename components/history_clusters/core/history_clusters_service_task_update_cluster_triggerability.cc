@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Update cluster triggerability task implementation
+// summary: Implements a service task that fetches recent persisted clusters and updates their triggerability metadata, advancing the time threshold day by day until today.
+// ---
+
 #include "components/history_clusters/core/history_clusters_service_task_update_cluster_triggerability.h"
 
 #include <utility>

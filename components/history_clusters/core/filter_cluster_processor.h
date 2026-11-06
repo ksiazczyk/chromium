@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Filter cluster processor header
+// summary: Declares FilterClusterProcessor and the ClusterFilterReason enum used to remove clusters that do not match query filter parameters.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CLUSTERS_CORE_FILTER_CLUSTER_PROCESSOR_H_
 #define COMPONENTS_HISTORY_CLUSTERS_CORE_FILTER_CLUSTER_PROCESSOR_H_
 

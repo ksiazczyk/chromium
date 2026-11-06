@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SingleVisitClusterFinalizer unit tests
+// summary: Unit tests verifying that single-visit clusters are hidden, multi-visit clusters stay visible, and the filter histogram is recorded.
+// ---
+
 #include "components/history_clusters/core/single_visit_cluster_finalizer.h"
 
 #include "base/test/metrics/histogram_tester.h"

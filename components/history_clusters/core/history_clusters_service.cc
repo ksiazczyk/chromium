@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History clusters service implementation
+// summary: Implements the keyed service that manages clustering tasks, keyword caches, and Journeys enablement for history clusters.
+// ---
+
 #include "components/history_clusters/core/history_clusters_service.h"
 
 #include <algorithm>

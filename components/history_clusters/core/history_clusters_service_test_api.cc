@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: History clusters service test API implementation
+// summary: Provides hardcoded annotated test visits and helpers used to exercise the history clusters service in tests.
+// ---
+
 #include "components/history_clusters/core/history_clusters_service_test_api.h"
 
 #include "base/time/time.h"
