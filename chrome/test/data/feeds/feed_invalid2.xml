@@ -1,1 +1,7 @@
+<!--docerion
+type: test
+title: Garbage text as invalid feed
+summary: Plain-text garbage file used as an invalid feed in parser tests.
+-->
+
 This is a garbage feed.

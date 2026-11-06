@@ -1,0 +1,4 @@
+# Docerion header of popup.html.
+type: test
+title: Browser action popup test page
+summary: Simple HTML popup page with a red background shown by the test extension's browser action.

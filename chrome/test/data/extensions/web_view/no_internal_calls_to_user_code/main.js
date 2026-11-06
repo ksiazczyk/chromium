@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Webview test that taints prototypes to catch internal user code calls
+// summary: Overwrites Object, Array, String and DOM prototype members with failing functions so any webview internal call into user code fails the test.
+// ---
+
 'use strict';
 
 // Test that the webview JS implementation does not inadvertently call user

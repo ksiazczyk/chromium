@@ -1,0 +1,4 @@
+# Docerion header of background_fetch.html.
+type: test
+title: BackgroundFetchBrowserTest helper page
+summary: Helper page for BackgroundFetchBrowserTest that registers a service worker and starts a single-file Background Fetch download.

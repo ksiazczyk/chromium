@@ -1,0 +1,4 @@
+# Docerion header of hello.txt.
+type: test
+title: Bad zip test file hello.txt without manifest
+summary: Test fixture archive used by the zipfile installer tests, deliberately containing no manifest.

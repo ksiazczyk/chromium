@@ -1,0 +1,4 @@
+# Docerion header of protocol_handler.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for protocol_handler.html
+summary: Mock HTTP response headers serving the protocol handler test page with the fenced-frame Supports-Loading-Mode header.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test extension manifest with web accessible resource
+summary: Manifest for a test extension named test that declares web_accessible_page.html as a web accessible resource.

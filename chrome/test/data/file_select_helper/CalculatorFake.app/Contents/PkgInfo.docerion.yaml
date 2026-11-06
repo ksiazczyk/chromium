@@ -1,0 +1,4 @@
+# Docerion header of PkgInfo.
+type: test
+title: Fake Calculator app bundle PkgInfo
+summary: Standard macOS PkgInfo entry marking the fake Calculator bundle as an APPL package within the file selection test data.

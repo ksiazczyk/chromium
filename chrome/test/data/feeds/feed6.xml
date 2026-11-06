@@ -1,3 +1,9 @@
+<!--docerion
+type: test
+title: RSS feed followed by unbalanced HTML tags
+summary: RSS test feed with a valid item plus trailing unbalanced HTML closing tags to test malformed feed handling.
+-->
+
 <rss version="2.0"> 
 <channel> 
   <title>MyFeedTitle</title> 

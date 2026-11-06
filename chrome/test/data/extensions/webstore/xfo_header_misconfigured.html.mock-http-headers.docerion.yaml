@@ -1,0 +1,4 @@
+# Docerion header of xfo_header_misconfigured.html.mock-http-headers.
+type: test
+title: Mock HTTP headers with invalid X-Frame-Options
+summary: Mock HTTP response headers served with the misconfigured page, setting X-Frame-Options to the invalid value foo.

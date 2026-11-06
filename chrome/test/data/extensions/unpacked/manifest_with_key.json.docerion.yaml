@@ -1,0 +1,4 @@
+# Docerion header of manifest_with_key.json.
+type: test
+title: Unpacked extension manifest with key
+summary: Manifest fixture for an unpacked extension including a public key, used by Chrome extension tests.

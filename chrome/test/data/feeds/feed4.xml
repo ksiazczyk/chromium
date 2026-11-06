@@ -1,4 +1,10 @@
 <?xml version="1.0"?>
+<!--docerion
+type: test
+title: Feed with escaped script tags and special characters
+summary: Test feed whose title and content contain escaped script tags and special characters to exercise sanitization.
+-->
+
 <feed>
   <updated>2009-09-29T17:51:01Z</updated>
   <title>Title chars &lt;script&gt; %23 stop</title>

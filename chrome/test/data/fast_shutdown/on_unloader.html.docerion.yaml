@@ -1,0 +1,4 @@
+# Docerion header of on_unloader.html.
+type: test
+title: Unload handler test page
+summary: Test page that sets a cookie in its unload handler and opens the beforeunload page, exercising fast shutdown behavior.

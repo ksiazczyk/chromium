@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for second webstore update test extension
+summary: Manifest for a second test extension used in Chrome tests of extension updates from the webstore, pointing to the Google update service URL.

@@ -12,6 +12,12 @@
 // NOTE2: Apologies to other people putting things on chrome which aren't
 //        related and whose tests fail.
 
+// ---docerion
+// type: test
+// title: WebUI chrome API availability confidence check
+// summary: Browser test page that compares the chrome.* APIs exposed to WebUI against an expected list and reports any mismatch.
+// ---
+
 (function() {
 const expected = [
   'activityLogPrivate',

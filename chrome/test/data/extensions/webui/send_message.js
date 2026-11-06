@@ -4,6 +4,12 @@
 
 // out/Debug/browser_tests --gtest_filter=ExtensionWebUITest.SendMessage
 
+// ---docerion
+// type: test
+// title: WebUI sendMessage test page
+// summary: Browser test page that sends a chrome.test.sendMessage ping and verifies the pong reply.
+// ---
+
 (function() {
 if (!chrome || !chrome.test || !chrome.test.sendMessage) {
   console.error(

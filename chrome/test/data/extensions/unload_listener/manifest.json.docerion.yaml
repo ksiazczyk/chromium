@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Unload listener test extension manifest
+summary: Manifest describing a test extension named Unload listener that has an unload listener in a page.

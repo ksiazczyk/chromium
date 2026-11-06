@@ -1,0 +1,4 @@
+# Docerion header of title2.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for title2.html
+summary: Mock HTTP response headers that serve title2.html with the fenced-frame Supports-Loading-Mode header.

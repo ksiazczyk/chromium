@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Webview media access embedder test logic
+// summary: Creates the webview guest, allows the media permission request, and reports test pass or fail via Chrome test messages.
+// ---
+
 const embedder = {};
 embedder.tests = {};
 embedder.baseGuestURL = '';

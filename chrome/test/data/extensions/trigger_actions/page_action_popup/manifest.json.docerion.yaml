@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest of the page action popup test extension
+summary: Manifest declaring a page action with icon and popup, a background script, and tab and host permissions for the trigger actions test.

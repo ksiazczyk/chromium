@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content script that sends a cross-origin XHR
+// summary: Content script for a Chrome test extension that adds a button performing a cross-origin fetch and reports the result to the test via domAutomationController.
+// ---
+
 // Add a button to the page that can fetch a cross-origin file.
 const b = document.createElement('button');
 b.id = 'xhrButton';

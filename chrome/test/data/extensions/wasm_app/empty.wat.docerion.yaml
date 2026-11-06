@@ -1,0 +1,4 @@
+# Docerion header of empty.wat.
+type: test
+title: Minimal Wasm module in text format
+summary: Tiny WebAssembly text file defining an empty module, used as a minimal test fixture.

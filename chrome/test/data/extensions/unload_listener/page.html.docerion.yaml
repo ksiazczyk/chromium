@@ -1,0 +1,4 @@
+# Docerion header of page.html.
+type: test
+title: Unload listener test page
+summary: HTML page of the test extension that loads page.js to register unload event handlers.

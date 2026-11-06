@@ -1,0 +1,4 @@
+# Docerion header of popup.html.
+type: test
+title: Browser Action Popup test popup page
+summary: Popup page of the test extension that loads popup.js and shows simple placeholder text.

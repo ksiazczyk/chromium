@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Camo theme test extension manifest
+summary: Manifest for the camo theme test extension, defining theme colors, images and tints used as test data for Chrome extension theme support.

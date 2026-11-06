@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: HighDPI theme extension test manifest
+summary: Manifest for a test theme extension named HighDPI that maps theme frame and toolbar images to 100 and 200 percent scale assets for HiDPI browser tests.

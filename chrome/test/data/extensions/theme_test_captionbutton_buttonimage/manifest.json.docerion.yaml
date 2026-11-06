@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test extension manifest for caption button theme
+summary: Manifest for a test extension that supplies a theme with frame colors and a window control background image used in Chrome caption button tests.

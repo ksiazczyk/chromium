@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Navigate after resize guest script
+// summary: Guest page script that listens for messages and replies to dimension requests with the window's inner width and height.
+// ---
+
 let embedder = null;
 
 window.addEventListener('message', function(e) {

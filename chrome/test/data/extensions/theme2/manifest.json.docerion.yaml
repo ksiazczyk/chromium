@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Snowflake theme test extension manifest
+summary: Manifest for the snowflake test theme extension, defining theme colors, tints, and image paths used as test data in Chromium browser tests.

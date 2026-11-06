@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Grey NTP theme test extension manifest
+summary: Manifest for a minimal test theme extension that sets a grey new tab page background and an alternate NTP logo, used by Chrome extension tests.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Third webstore update test extension manifest
+summary: Manifest for a test extension used to verify extension updates from the Chrome Web Store.

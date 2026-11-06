@@ -1,0 +1,4 @@
+# Docerion header of on_before_unloader.html.
+type: test
+title: Beforeunload handler test page
+summary: Test page that registers an empty beforeunload event listener, used as fixture for Chrome fast shutdown tests.

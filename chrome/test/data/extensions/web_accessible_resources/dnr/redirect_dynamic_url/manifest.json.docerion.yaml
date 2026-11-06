@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test extension manifest with dynamic web accessible resource
+summary: Manifest for a test extension that exposes war.js with use_dynamic_url and enables a declarativeNetRequest ruleset for redirect testing.

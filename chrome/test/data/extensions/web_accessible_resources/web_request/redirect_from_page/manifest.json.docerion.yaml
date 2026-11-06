@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the redirect_from_page test extension
+summary: Manifest for the test extension declaring the background script, war.js as a web-accessible resource, and webRequest permissions for all URLs.

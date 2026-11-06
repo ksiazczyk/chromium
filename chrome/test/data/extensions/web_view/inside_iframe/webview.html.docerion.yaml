@@ -1,0 +1,4 @@
+# Docerion header of webview.html.
+type: test
+title: Iframe page hosting the webview tag container
+summary: HTML page loaded inside the iframe that provides the container div into which the webview tag is injected.

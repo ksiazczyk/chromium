@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test extension manifest for DNR redirect with query and ref
+summary: Manifest for a test extension that grants declarativeNetRequest permissions, exposes ok.html as a web accessible resource with a dynamic URL, and enables the rules_1.json ruleset.

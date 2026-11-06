@@ -5,6 +5,12 @@
 // out/Debug/browser_tests
 //     --gtest_filter=ExtensionWebUITest.ReceivesExtensionOptionsOnClose
 
+// ---docerion
+// type: test
+// title: Extension options close event test page
+// summary: Browser test page that embeds an extensionoptions element and reports when its onclose event fires.
+// ---
+
 (function() {
 if (!chrome || !chrome.test || !chrome.test.sendMessage) {
   console.error(

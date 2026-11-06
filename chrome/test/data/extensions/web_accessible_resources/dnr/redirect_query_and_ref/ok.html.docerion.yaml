@@ -1,0 +1,4 @@
+# Docerion header of ok.html.
+type: test
+title: Redirect target page ok.html
+summary: Minimal HTML page containing only "ok", serving as the redirect target that tests verify after the declarativeNetRequest rule fires.

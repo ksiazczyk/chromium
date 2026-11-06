@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test theme extension manifest for caption button frame color
+summary: Manifest for a test theme extension that sets frame and frame_inactive colors to exercise caption button frame color handling in Chrome browser tests.

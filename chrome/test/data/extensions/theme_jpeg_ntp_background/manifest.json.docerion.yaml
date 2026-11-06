@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Minimal theme test extension manifest
+summary: Manifest for a minimal test theme extension that sets an NTP background color and a JPEG background image.

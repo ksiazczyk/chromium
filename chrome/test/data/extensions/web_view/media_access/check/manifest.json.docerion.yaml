@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the webview media access check test app
+summary: Chrome platform app manifest declaring the webview permission and test.js as the background script for the media access check test.

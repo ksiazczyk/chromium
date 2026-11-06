@@ -1,0 +1,4 @@
+# Docerion header of messages.json.
+type: test
+title: Malay locale messages.json fixture with malformed content
+summary: Malformed Chrome extension messages.json for the Malay locale, used as test data for handling bad message files.

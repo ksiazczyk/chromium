@@ -1,0 +1,4 @@
+# Docerion header of set_cookie_header.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for set_cookie_header.html
+summary: Mock HTTP response headers that set a test cookie and declare fenced-frame support for the set_cookie_header page.

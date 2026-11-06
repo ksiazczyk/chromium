@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background script for Wasm extension test app
+// summary: Attempts to fetch and instantiate a WebAssembly module and reports success or failure to the browser test harness.
+// ---
+
 // Attempts to fetch and instantiate a simple Wasm module.
 async function instantiateFetch() {
   const bytes = await fetch('empty.wasm');

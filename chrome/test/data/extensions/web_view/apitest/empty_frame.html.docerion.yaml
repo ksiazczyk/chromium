@@ -1,0 +1,4 @@
+# Docerion header of empty_frame.html.
+type: test
+title: Empty frame test page
+summary: Minimal HTML fixture page with a hello paragraph used by the WebView extension API tests.

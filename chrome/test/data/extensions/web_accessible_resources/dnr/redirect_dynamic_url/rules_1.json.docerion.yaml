@@ -1,0 +1,4 @@
+# Docerion header of rules_1.json.
+type: test
+title: DNR ruleset redirecting requests to war.js
+summary: DeclarativeNetRequest ruleset that redirects XMLHttpRequests for english_page.html to the extension path /war.js.

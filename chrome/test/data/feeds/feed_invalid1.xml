@@ -1,0 +1,5 @@
+<!--docerion
+type: test
+title: Empty invalid feed file
+summary: Empty test file representing an invalid feed for parser error handling.
+-->

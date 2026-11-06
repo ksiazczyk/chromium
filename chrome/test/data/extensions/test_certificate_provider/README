@@ -1,3 +1,9 @@
+---
+type: readme
+title: Test certificate provider extension README
+summary: Describes a test extension that provides testing certificates and private keys to Chrome via the chrome.certificateProvider API, with cryptographic operations implemented by a C++ counterpart.
+---
+
 An extension that provides testing certificates and private keys to
 Chrome via the chrome.certificateProvider API.
 

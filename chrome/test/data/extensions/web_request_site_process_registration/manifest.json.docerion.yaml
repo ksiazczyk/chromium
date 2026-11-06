@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the webRequest blocking test extension
+summary: Manifest version 2 extension manifest granting webRequest permissions and exposing blocked.html as a web-accessible resource.

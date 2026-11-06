@@ -1,0 +1,4 @@
+# Docerion header of updatecheck_reply_update_1.json.
+type: test
+title: Update check reply with update test data (JSON)
+summary: Mock JSON update check reply for extension updater tests offering version 0.1 through a download and crx3 pipeline for v1.crx.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the Hello WebAssembly test app
+summary: Chrome App manifest version 2 that registers background.js for the WebAssembly test extension.

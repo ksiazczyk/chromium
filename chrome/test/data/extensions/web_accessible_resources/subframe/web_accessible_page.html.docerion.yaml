@@ -1,0 +1,4 @@
+# Docerion header of web_accessible_page.html.
+type: test
+title: Web accessible page test fixture
+summary: Empty HTML page fixture serving as the web accessible resource for the subframe extension test data.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Bad messages file extension test manifest
+summary: Test fixture manifest for an unpacked extension whose name uses a __MSG_application_title__ placeholder, used to verify locale handling when loading unpacked extensions.

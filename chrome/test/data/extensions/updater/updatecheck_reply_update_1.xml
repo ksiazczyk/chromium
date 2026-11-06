@@ -1,4 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
+<!--docerion
+type: test
+title: Update check reply with update test data (XML)
+summary: Mock XML update check reply for extension updater tests offering version 0.1 as a v1.crx package from a local download URL.
+-->
+
 <response protocol="3.1" server="prod">
   <daystart elapsed_days="4054" elapsed_seconds="61236"/>
   <app appid="aohghmighlieiainnegkcijnfilokake" cohort="" cohortname="" status="ok">

@@ -1,0 +1,4 @@
+# Docerion header of main.html.
+type: test
+title: Test page hosting a webview tag container
+summary: HTML page for the webview display:none src test that provides a container div and loads main.js.

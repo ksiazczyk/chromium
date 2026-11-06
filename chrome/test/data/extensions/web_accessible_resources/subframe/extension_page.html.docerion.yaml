@@ -1,0 +1,4 @@
+# Docerion header of extension_page.html.
+type: test
+title: Extension page test fixture
+summary: Empty HTML page fixture representing an extension page in the web accessible resources subframe test data.

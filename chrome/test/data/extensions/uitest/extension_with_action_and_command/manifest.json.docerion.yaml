@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for extension with action and command UI test
+summary: Manifest for a Chrome UI test extension fixture that pairs a browser action with a keyboard command shortcut for triggering it.

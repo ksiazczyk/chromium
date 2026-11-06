@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Embedder logic for denying webview media access requests
+// summary: Creates the webview guest, denies its media permission requests, and verifies denial results and exception behavior via post messages.
+// ---
+
 const embedder = {};
 embedder.tests = {};
 // These variables will be filled in chrome.test.getConfig() below.

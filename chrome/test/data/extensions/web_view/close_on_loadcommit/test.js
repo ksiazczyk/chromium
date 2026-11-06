@@ -1,6 +1,13 @@
 // Copyright 2013 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Close on loadcommit test background script
+// summary: Repeatedly creates and closes the app window to exercise webview close-on-loadcommit behavior, signaling LAUNCHED and done messages to the test harness.
+// ---
+
 let createCount = 0;
 
 const launchWindow = function() {

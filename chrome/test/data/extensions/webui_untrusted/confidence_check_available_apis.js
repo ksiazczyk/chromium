@@ -10,6 +10,12 @@
 //
 // NOTE: Of course, update this list if/when more APIs are made available.
 
+// ---docerion
+// type: test
+// title: Confidence check of chrome.* APIs available to untrusted WebUIs
+// summary: Browser test data asserting that untrusted WebUIs expose only the expected limited set of chrome.* APIs such as csi, loadTimes, runtime and test.
+// ---
+
 const expected = [
   // Deprecated proprietary Chrome APIs unrelated to Extensions.
   'csi',

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: NTP background snowflake theme manifest
+summary: Manifest for a test Chrome theme extension named NTP background snowflake theme that sets an NTP background image and custom frame and toolbar colors.

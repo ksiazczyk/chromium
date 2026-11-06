@@ -1,0 +1,4 @@
+# Docerion header of rules_1.json.
+type: test
+title: DNR ruleset redirecting example.com to ok.html with query and fragment
+summary: DeclarativeNetRequest ruleset with a main_frame redirect rule sending example.com requests to /ok.html?foo=bar#baz to test query and reference handling.

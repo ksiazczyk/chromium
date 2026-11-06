@@ -1,0 +1,4 @@
+# Docerion header of version.plist.
+type: test
+title: Fake Calculator app bundle version.plist
+summary: Property list holding build and version information for the fake Calculator app bundle used in file selection tests.

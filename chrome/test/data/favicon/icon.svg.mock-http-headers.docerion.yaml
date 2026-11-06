@@ -1,0 +1,4 @@
+# Docerion header of icon.svg.mock-http-headers.
+type: test
+title: Mock HTTP headers for icon.svg
+summary: Mock HTTP response headers that serve icon.svg with Content-Type image/svg+xml during tests.

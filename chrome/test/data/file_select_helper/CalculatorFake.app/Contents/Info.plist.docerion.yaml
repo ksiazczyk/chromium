@@ -1,0 +1,4 @@
+# Docerion header of Info.plist.
+type: test
+title: Fake Calculator app bundle Info.plist
+summary: Property list with the bundle metadata of the fake Calculator app used as test data for Chrome's file selection dialog tests.
