@@ -1,3 +1,9 @@
+---
+type: reference
+title: Supported projects of //net
+summary: Overviews the projects that consume the //net stack, such as Chrome, Chromium, Android WebView, content embedders, and Cronet, with their platforms and constraints.
+---
+
 # Supported Projects
 
 The `//net` stack is used on a variety of platforms and in a variety of open

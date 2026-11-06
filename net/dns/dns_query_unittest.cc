@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DnsQuery unit tests
+// summary: Unit tests for DnsQuery covering construction, independent copies, cloning with new IDs, EDNS0 OPT records, and raw packet parsing.
+// ---
+
 #include "net/dns/dns_query.h"
 
 #include <cstdint>

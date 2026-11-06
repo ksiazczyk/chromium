@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock Android DNS platform attempt delegate
+// summary: Implements a mock Android DNS platform attempt delegate that creates pipe file descriptors with and without unread data for use in tests.
+// ---
+
 #include "net/dns/mock_dns_platform_android_attempt_delegate.h"
 
 namespace net {

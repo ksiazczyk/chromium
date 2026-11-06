@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: mDNS record cache implementation
+// summary: Implements MDnsCache, storing mDNS records with expiration tracking, cleanup of expired entries, and an entry limit for overfill handling.
+// ---
+
 #include "net/dns/mdns_cache.h"
 
 #include <stdint.h>

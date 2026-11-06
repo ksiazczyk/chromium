@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DnsTransaction unit tests
+// summary: Unit tests for DnsTransaction covering UDP, TCP, and HTTPS transports, retransmission, server fallback, suffix search, and DoH probes.
+// ---
+
 #include "net/dns/dns_transaction.h"
 
 #include <stdint.h>

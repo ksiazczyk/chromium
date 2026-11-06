@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DnsUDPAttempt class declaration
+// summary: Declares the DnsUDPAttempt class, a DnsAttempt subclass performing DNS exchanges over a UDP transport with a state-machine IO loop.
+// ---
+
 #ifndef NET_DNS_DNS_UDP_ATTEMPT_H_
 #define NET_DNS_DNS_UDP_ATTEMPT_H_
 

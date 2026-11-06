@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DNS resolver reloading for POSIX
+// summary: Implements per-thread reloading of the system resolver state via res_ninit on POSIX systems, reacting to /etc/resolv.conf changes through NetworkChangeNotifier.
+// ---
+
 #include "net/dns/dns_reloader.h"
 
 #include "build/build_config.h"

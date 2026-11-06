@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Address sorter POSIX unit tests
+// summary: Unit tests for the POSIX address sorter, using a mock UDP client socket that maps destination addresses to source addresses.
+// ---
+
 #include "net/dns/address_sorter_posix.h"
 
 #include <memory>

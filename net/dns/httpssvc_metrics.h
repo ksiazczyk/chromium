@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTPSSVC metrics declarations
+// summary: Declares the HttpssvcDnsRcode enum and the HttpssvcMetrics helper for accumulating and recording UMA metrics for HTTPS RR DNS experiments.
+// ---
+
 #ifndef NET_DNS_HTTPSSVC_METRICS_H_
 #define NET_DNS_HTTPSSVC_METRICS_H_
 

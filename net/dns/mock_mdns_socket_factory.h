@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock mDNS socket factory for tests
+// summary: gmock-based mock MDnsSocketFactory and datagram server socket that simulate mDNS packet receives in tests.
+// ---
+
 #ifndef NET_DNS_MOCK_MDNS_SOCKET_FACTORY_H_
 #define NET_DNS_MOCK_MDNS_SOCKET_FACTORY_H_
 

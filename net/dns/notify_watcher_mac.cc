@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS Libnotify watcher implementation
+// summary: Implements NotifyWatcherMac, registering with Libnotify and invoking a callback when a notification arrives.
+// ---
+
 #include "net/dns/notify_watcher_mac.h"
 
 #include <notify.h>

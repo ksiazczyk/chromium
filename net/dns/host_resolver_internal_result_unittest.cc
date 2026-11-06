@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HostResolverInternalResult unit tests
+// summary: Tests deserialization of malformed values, cloning, property access, and serialization round-trips of the internal host resolver result types.
+// ---
+
 #include "net/dns/host_resolver_internal_result.h"
 
 #include <map>

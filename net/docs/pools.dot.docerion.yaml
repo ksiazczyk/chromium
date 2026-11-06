@@ -1,0 +1,4 @@
+# Docerion header of pools.dot.
+type: asset
+title: Socket pools class diagram source
+summary: Graphviz dot source describing the class relationships of the socket pool implementation, used to generate the pools.png diagram.

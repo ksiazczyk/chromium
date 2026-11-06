@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unimplemented platform DNS attempt factory declaration
+// summary: Declares a DnsPlatformAttemptFactory that always fails with NOTIMPLEMENTED, used when no platform DNS attempt support is available.
+// ---
+
 #ifndef NET_DNS_DNS_PLATFORM_ATTEMPT_FACTORY_NOT_IMPLEMENTED_H_
 #define NET_DNS_DNS_PLATFORM_ATTEMPT_FACTORY_NOT_IMPLEMENTED_H_
 

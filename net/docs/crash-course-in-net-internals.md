@@ -1,3 +1,11 @@
+---
+type: guide
+title: A crash course in debugging with Chrome net-internals
+summary: How-to guide for debugging network errors with Chrome's net-internals tool, explaining the Events view, sources and events, and offering practical debugging tips and tricks.
+relations:
+  - references /net/docs/life-of-a-url-request.md
+---
+
 # A Crash Course in Debugging with chrome://net-internals
 
 This document is intended to help get people started debugging network errors

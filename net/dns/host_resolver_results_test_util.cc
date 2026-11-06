@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Host resolver results test matchers
+// summary: Implements gmock matchers that compare host resolver endpoint and service endpoint results, including IP endpoint lists and connection metadata, in tests.
+// ---
+
 #include "net/dns/host_resolver_results_test_util.h"
 
 #include <ostream>

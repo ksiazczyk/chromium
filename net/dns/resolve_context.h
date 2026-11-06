@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ResolveContext class header
+// summary: Declares ResolveContext, per-URLRequestContext data used by HostResolver, including DoH status observers and server iterators.
+// ---
+
 #ifndef NET_DNS_RESOLVE_CONTEXT_H_
 #define NET_DNS_RESOLVE_CONTEXT_H_
 

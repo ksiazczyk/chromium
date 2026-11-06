@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia DNS config service header
+// summary: Declares the Fuchsia DnsConfigService stub that returns an empty config so the resolver falls back to getaddrinfo.
+// ---
+
 #ifndef NET_DNS_DNS_CONFIG_SERVICE_FUCHSIA_H_
 #define NET_DNS_DNS_CONFIG_SERVICE_FUCHSIA_H_
 

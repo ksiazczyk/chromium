@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows DNS config service unit tests
+// summary: Unit tests for parsing Windows search lists and converting adapter settings into DNS configuration.
+// ---
+
 #include "net/dns/dns_config_service_win.h"
 
 #include <optional>

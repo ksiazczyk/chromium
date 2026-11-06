@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DNS task results manager header
+// summary: Declares DnsTaskResultsManager, which tracks service endpoints, aliases, and HTTPS metadata during host resolution.
+// ---
+
 #ifndef NET_DNS_DNS_TASK_RESULTS_MANAGER_H_
 #define NET_DNS_DNS_TASK_RESULTS_MANAGER_H_
 

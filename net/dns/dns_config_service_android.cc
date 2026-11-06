@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android DNS config service implementation
+// summary: Reads Android system DNS servers, search suffixes, and DoT settings via the platform DNS server getter and reacts to network changes.
+// ---
+
 #include "net/dns/dns_config_service_android.h"
 
 #include <sys/system_properties.h>

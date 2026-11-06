@@ -1,3 +1,9 @@
+---
+type: reference
+title: Source Streams for Content Encodings
+summary: Explains how the network stack implements Content-Encoding support using composable source streams such as gzip, brotli, and zstd.
+---
+
 The network stack implements support for Content-Encodings using
 "source streams", which can be composed together and mutate all the incoming
 bytes from a URLRequestJob. Currently, the following streams are implemented:

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: POSIX address sorter implementation
+// summary: Implements RFC 3484 address sorting for POSIX platforms using policy tables, source address inspection and socket-based checks.
+// ---
+
 #include "net/dns/address_sorter_posix.h"
 
 #include <netinet/in.h>

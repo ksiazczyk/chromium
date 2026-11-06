@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HostResolverManager class declaration
+// summary: Declares HostResolverManager, the scheduler and controller of host resolution jobs, requests, and tasks behind per-context resolvers.
+// ---
+
 #ifndef NET_DNS_HOST_RESOLVER_MANAGER_H_
 #define NET_DNS_HOST_RESOLVER_MANAGER_H_
 

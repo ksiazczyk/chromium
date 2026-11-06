@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HostResolverManager unit tests
+// summary: Unit tests for HostResolverManager covering DNS tasks, caching, secure DNS fallback, mDNS, NAT64 and network change behavior.
+// ---
+
 #include "net/dns/host_resolver_manager_unittest.h"
 
 #include <algorithm>

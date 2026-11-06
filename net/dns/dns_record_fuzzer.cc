@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DNS record parser fuzzer
+// summary: LibFuzzer harness that parses arbitrary packets with DnsRecordParser and RecordParsed to stress DNS resource record parsing.
+// ---
+
 #include <fuzzer/FuzzedDataProvider.h>
 #include <stddef.h>
 #include <stdint.h>

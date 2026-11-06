@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HostCache class interface
+// summary: Declares HostCache, the cache used by HostResolver to map hostnames to resolved results, with lookup keys, staleness details, and persistence support.
+// ---
+
 #ifndef NET_DNS_HOST_CACHE_H_
 #define NET_DNS_HOST_CACHE_H_
 

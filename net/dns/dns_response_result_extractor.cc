@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DNS response result extractor implementation
+// summary: Extracts host resolver results from parsed DNS responses, including alias chains, SRV target sorting per RFC 2782, and HTTPS record metrics.
+// ---
+
 #include "net/dns/dns_response_result_extractor.h"
 
 #include <limits.h>

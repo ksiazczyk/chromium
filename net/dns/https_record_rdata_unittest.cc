@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HTTPS record RDATA unit tests
+// summary: Unit tests covering parsing of alias-form and service-form HTTPS records, including service parameters, unknown keys, and trust anchor handling.
+// ---
+
 #include "net/dns/https_record_rdata.h"
 
 #include <memory>

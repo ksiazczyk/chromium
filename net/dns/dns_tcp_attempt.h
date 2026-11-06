@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DnsTCPAttempt class declaration
+// summary: Declares the DnsTCPAttempt class, a DnsAttempt subclass performing DNS exchanges over a TCP transport with a state-machine IO loop.
+// ---
+
 #ifndef NET_DNS_DNS_TCP_ATTEMPT_H_
 #define NET_DNS_DNS_TCP_ATTEMPT_H_
 

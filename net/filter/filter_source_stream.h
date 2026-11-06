@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Filter source stream class declaration
+// summary: Declares FilterSourceStream, the base class for streams with an upstream, plus Content-Encoding parsing and decoding chain helpers.
+// ---
+
 #ifndef NET_FILTER_FILTER_SOURCE_STREAM_H_
 #define NET_FILTER_FILTER_SOURCE_STREAM_H_
 

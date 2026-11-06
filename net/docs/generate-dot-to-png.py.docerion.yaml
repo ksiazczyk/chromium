@@ -1,0 +1,4 @@
+# Docerion header of generate-dot-to-png.py.
+type: script
+title: Generate PNG diagrams from Graphviz dot sources
+summary: Regenerates the documentation diagrams by converting every .dot file in the directory to PNG with Graphviz and optimizing the output with optipng.

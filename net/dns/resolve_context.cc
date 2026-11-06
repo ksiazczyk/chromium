@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ResolveContext implementation
+// summary: Implements ResolveContext, the per-URLRequestContext resolver state with DoH server availability tracking, RTT metrics and host caching.
+// ---
+
 #include "net/dns/resolve_context.h"
 
 #include <algorithm>

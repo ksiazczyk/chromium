@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GzipSourceStream implementation
+// summary: Implements GzipSourceStream, which decodes gzip and deflate content encodings with zlib inflate, including zlib header sniffing and replay workarounds.
+// ---
+
 #include "net/filter/gzip_source_stream.h"
 
 #include <stdint.h>

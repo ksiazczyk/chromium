@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac DNS config watcher declarations
+// summary: Declares DnsConfigWatcher for watching and checking DNS configuration on macOS.
+// ---
+
 #ifndef NET_DNS_DNS_CONFIG_WATCHER_MAC_H_
 #define NET_DNS_DNS_CONFIG_WATCHER_MAC_H_
 

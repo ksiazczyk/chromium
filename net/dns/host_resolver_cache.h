@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HostResolverCache class interface
+// summary: Declares HostResolverCache, used by HostResolverManager to save previously resolved information, with wildcard lookups and stale result handling.
+// ---
+
 #ifndef NET_DNS_HOST_RESOLVER_CACHE_H_
 #define NET_DNS_HOST_RESOLVER_CACHE_H_
 

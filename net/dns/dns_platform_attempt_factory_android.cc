@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android platform DNS attempt factory
+// summary: Android implementation of DnsPlatformAttemptFactory that creates DnsPlatformAndroidAttempt objects, with a testing variant for delegate injection.
+// ---
+
 #include "net/dns/dns_platform_attempt_factory_android.h"
 
 #include <memory>

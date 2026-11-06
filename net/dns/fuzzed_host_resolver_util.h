@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuzzed host resolver declarations
+// summary: Declares CreateFuzzedContextHostResolver, which creates a fuzzer-driven host resolver that closely matches real resolver behavior.
+// ---
+
 #ifndef NET_DNS_FUZZED_HOST_RESOLVER_UTIL_H_
 #define NET_DNS_FUZZED_HOST_RESOLVER_UTIL_H_
 

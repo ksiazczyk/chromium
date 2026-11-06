@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GzipSourceStream unit tests
+// summary: Unit tests for GzipSourceStream covering gzip and deflate decoding with sync and async reads, varied buffer sizes, and header handling.
+// ---
+
 #include "net/filter/gzip_source_stream.h"
 
 #include <stdint.h>

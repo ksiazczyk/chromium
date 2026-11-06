@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HostResolverDnsTask unit tests
+// summary: Unit tests for HostResolverDnsTask, covering DNS transaction results, address sorting, fallback behavior, and platform attempt handling.
+// ---
+
 #include "net/dns/host_resolver_dns_task.h"
 
 #include <deque>

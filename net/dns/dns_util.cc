@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DNS utility implementations
+// summary: Implements DNS helpers including DoH provider matching from nameservers, name pointer creation, query type conversion, and field trial time deltas.
+// ---
+
 #include "net/dns/dns_util.h"
 
 #include <errno.h>

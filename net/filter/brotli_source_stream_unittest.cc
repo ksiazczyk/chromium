@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Brotli source stream unit tests
+// summary: Unit tests verifying Brotli decoding behavior across buffer sizes, extra data handling, and shared dictionary use.
+// ---
+
 #include "net/filter/brotli_source_stream.h"
 
 #include <stdint.h>

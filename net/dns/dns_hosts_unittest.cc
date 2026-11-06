@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for DNS hosts parsing
+// summary: Verifies hosts file parsing behavior including first-hit rules, malformed lines, hostname canonicalization, and per-platform comma handling.
+// ---
+
 #include "net/dns/dns_hosts.h"
 
 #include "base/containers/span.h"

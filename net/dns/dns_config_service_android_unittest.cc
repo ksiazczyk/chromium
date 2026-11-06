@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android DNS config service unit tests
+// summary: Unit tests for DnsConfigServiceAndroid using a mock DNS server getter and mock network change notifier, skipping pre-Android-M behavior.
+// ---
+
 #include "net/dns/dns_config_service_android.h"
 
 #include <memory>

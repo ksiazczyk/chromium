@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HostCache unit tests
+// summary: Unit and fuzz tests covering HostCache lookup, set, eviction, staleness, persistence, and value serialization behavior.
+// ---
+
 #include "net/dns/host_cache.h"
 
 #include <algorithm>

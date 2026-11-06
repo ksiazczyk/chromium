@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DNS utility unit tests
+// summary: Tests DoH upgrade server discovery from DoT hostnames and nameservers, template URL expansion, and DoH provider ID mapping for histograms.
+// ---
+
 #include "net/dns/dns_util.h"
 
 #include <string_view>

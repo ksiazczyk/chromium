@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: StaleHostResolver unit tests
+// summary: Unit tests for StaleHostResolver covering stale result delivery, cache usability rules, and fallback to network resolution.
+// ---
+
 #include "net/dns/stale_host_resolver.h"
 
 #include <memory>

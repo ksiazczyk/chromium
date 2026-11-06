@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for DoH attempt isolation info
+// summary: Checks that the DoH IsolationInfo is serializable and isolated from web requests through a dedicated network isolation partition.
+// ---
+
 #include "net/dns/dns_http_attempt.h"
 
 #include "base/values.h"

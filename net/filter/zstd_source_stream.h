@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Zstd source stream API
+// summary: Declares factory functions for creating Zstd decoding streams with or without a shared dictionary, plus the decoding status enum.
+// ---
+
 #ifndef NET_FILTER_ZSTD_SOURCE_STREAM_H_
 #define NET_FILTER_ZSTD_SOURCE_STREAM_H_
 

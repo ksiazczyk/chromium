@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RecordParsed unit tests
+// summary: Unit tests for RecordParsed covering single record parsing, mDNS cache flush bit comparison, and unknown rdata handling.
+// ---
+
 #include "net/dns/record_parsed.h"
 
 #include <memory>

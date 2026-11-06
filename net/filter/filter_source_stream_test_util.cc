@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Gzip compression test helper implementation
+// summary: Implements CompressGzip, which compresses data with zlib deflate, optionally adding gzip framing, for use in filter stream tests.
+// ---
+
 #include "net/filter/filter_source_stream_test_util.h"
 
 #include <stdint.h>

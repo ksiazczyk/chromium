@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DnsConfigService interface for system DNS settings
+// summary: Declares the platform-neutral service that reads and watches system DNS configuration and hosts files, including the Watcher and HostsReader base classes.
+// ---
+
 #ifndef NET_DNS_DNS_CONFIG_SERVICE_H_
 #define NET_DNS_DNS_CONFIG_SERVICE_H_
 

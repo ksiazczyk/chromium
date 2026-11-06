@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DNS OPT record rdata implementation
+// summary: Implements parsing and serialization of DNS OPT record data, including EDNS Extended DNS Error options and filtering details.
+// ---
+
 #include "net/dns/opt_record_rdata.h"
 
 #include <stddef.h>

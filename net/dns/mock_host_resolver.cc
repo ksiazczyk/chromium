@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock host resolver implementation
+// summary: Implements mock host resolvers, including a caching variant, that return configured addresses and endpoint results so tests avoid real DNS queries.
+// ---
+
 #include "net/dns/mock_host_resolver.h"
 
 #include <stdint.h>

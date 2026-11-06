@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS netinet/in_var compatibility structs
+// summary: Defines IPv6 address lifetime and interface statistics structs from netinet/in_var.h that are unavailable on iOS.
+// ---
+
 #ifndef NET_DNS_NETINET_IN_VAR_IOS_H_
 #define NET_DNS_NETINET_IN_VAR_IOS_H_
 

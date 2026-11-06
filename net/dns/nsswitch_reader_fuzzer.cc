@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fuzzer for NsswitchReader host parsing
+// summary: LLVM fuzz target that feeds arbitrary input to NsswitchReader's ReadAndParseHosts to exercise the parser.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

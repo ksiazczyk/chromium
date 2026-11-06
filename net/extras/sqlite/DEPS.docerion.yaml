@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for net/extras/sqlite
+summary: Defines the directories that files in net/extras/sqlite are allowed to include from.

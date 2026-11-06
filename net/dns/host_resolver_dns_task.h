@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HostResolverDnsTask class interface
+// summary: Declares HostResolverDnsTask, which resolves a hostname using DnsTransaction with separate A and AAAA transactions and a delegate for completion callbacks.
+// ---
+
 #ifndef NET_DNS_HOST_RESOLVER_DNS_TASK_H_
 #define NET_DNS_HOST_RESOLVER_DNS_TASK_H_
 

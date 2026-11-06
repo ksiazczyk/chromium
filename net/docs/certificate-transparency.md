@@ -1,3 +1,9 @@
+---
+type: reference
+title: Certificate Transparency
+summary: Explains Certificate Transparency in Chrome, covering how it works, policies for site operators and enterprises, and //net interfaces for developers.
+---
+
 # Certificate Transparency
 
 [TOC]

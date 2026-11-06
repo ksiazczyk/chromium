@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DnsAliasUtility unit tests
+// summary: Tests FixUpDnsAliases handling of invalid, duplicate, long, and empty alias sets.
+// ---
+
 #include "net/dns/dns_alias_utility.h"
 
 #include <string>

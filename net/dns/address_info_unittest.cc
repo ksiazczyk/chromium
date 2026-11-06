@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AddressInfo unit tests
+// summary: Unit tests for AddressInfo using a mock AddrInfoGetter that builds synthetic addrinfo lists with IP addresses and canonical names.
+// ---
+
 #include "net/dns/address_info.h"
 
 #include <stdint.h>

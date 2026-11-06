@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AddressSorter interface
+// summary: Declares the AddressSorter interface that orders address lists per RFC 3484 by likelihood of successful connection.
+// ---
+
 #ifndef NET_DNS_ADDRESS_SORTER_H_
 #define NET_DNS_ADDRESS_SORTER_H_
 

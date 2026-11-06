@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac DNS config watcher implementation
+// summary: Watches macOS DNS configuration via dnsinfo APIs loaded from libSystem and validates the resulting config.
+// ---
+
 #include "net/dns/dns_config_watcher_mac.h"
 
 #include <dlfcn.h>

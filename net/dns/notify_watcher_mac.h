@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS Libnotify watcher class declaration
+// summary: Declares NotifyWatcherMac, which watches a Libnotify key and delivers asynchronous notifications to a callback.
+// ---
+
 #ifndef NET_DNS_NOTIFY_WATCHER_MAC_H_
 #define NET_DNS_NOTIFY_WATCHER_MAC_H_
 

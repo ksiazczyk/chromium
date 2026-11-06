@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DnsUdpTracker header for DNS UDP port and ID entropy tracking
+// summary: Declares DnsUdpTracker, a session-wide tracker of DNS UDP queries, ports, and ID mismatches used to detect low entropy and inform fallback behavior.
+// ---
+
 #ifndef NET_DNS_DNS_UDP_TRACKER_H_
 #define NET_DNS_DNS_UDP_TRACKER_H_
 

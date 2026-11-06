@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Connect predictor LRU cache unit tests
+// summary: Unit tests covering IPv4, IPv6 and IPv4-mapped subnet masking, cache partitioning and eviction behavior of ConnectPredictorLRUCache.
+// ---
+
 #include "net/dns/connect_predictor_lru_cache.h"
 
 #include <optional>

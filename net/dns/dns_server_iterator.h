@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DNS server iterator header
+// summary: Declares DnsServerIterator and DohDnsServerIterator for choosing the next DNS or DoH server per query.
+// ---
+
 #ifndef NET_DNS_DNS_SERVER_ITERATOR_H_
 #define NET_DNS_DNS_SERVER_ITERATOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux DNS config service header
+// summary: Declares DnsConfigServiceLinux, which reads and watches Linux system DNS settings using resolv and nsswitch readers.
+// ---
+
 #ifndef NET_DNS_DNS_CONFIG_SERVICE_LINUX_H_
 #define NET_DNS_DNS_CONFIG_SERVICE_LINUX_H_
 

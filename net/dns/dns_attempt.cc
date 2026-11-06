@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DnsAttempt implementation
+// summary: Implements the DnsAttempt base class with DNS rcode to net error mapping, NetLog parameters, and the DNS transaction traffic annotation.
+// ---
+
 #include "net/dns/dns_attempt.h"
 
 #include <stdint.h>

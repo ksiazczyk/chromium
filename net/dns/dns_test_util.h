@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DNS test utilities header
+// summary: Header with fixed DNS query and response fixtures, mock client classes, and helper constants shared by the net DNS unit tests.
+// ---
+
 #ifndef NET_DNS_DNS_TEST_UTIL_H_
 #define NET_DNS_DNS_TEST_UTIL_H_
 

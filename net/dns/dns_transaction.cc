@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DnsTransaction implementation
+// summary: Implements DnsTransaction, a stub DNS resolver handling retransmissions, server fallback, suffix search, and classic, DoH, or platform attempts.
+// ---
+
 #include "net/dns/dns_transaction.h"
 
 #include <stdint.h>

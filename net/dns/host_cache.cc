@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HostCache implementation
+// summary: Implements the HostCache class that maps hostnames to resolved results, including serialization to values, lookup outcomes, and entry staleness tracking.
+// ---
+
 #include "net/dns/host_cache.h"
 
 #include <algorithm>

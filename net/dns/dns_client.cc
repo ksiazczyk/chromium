@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DnsClient implementation
+// summary: Implements DnsClient, managing built-in async resolver configuration including DoH upgrade, fallback, and nameserver state handling.
+// ---
+
 #include "net/dns/dns_client.h"
 
 #include <algorithm>

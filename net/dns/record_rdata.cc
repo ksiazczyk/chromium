@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RecordRdata implementation
+// summary: Implements RecordRdata subclasses for SRV, A, AAAA, CNAME and other DNS record types, with wire-format parsing and equality checks.
+// ---
+
 #include "net/dns/record_rdata.h"
 
 #include <algorithm>

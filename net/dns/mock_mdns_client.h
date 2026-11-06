@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock mDNS client header
+// summary: Declares gmock mocks for MDnsTransaction and MDnsClient, stubbing listener creation, transactions, and listening state for tests.
+// ---
+
 #ifndef NET_DNS_MOCK_MDNS_CLIENT_H_
 #define NET_DNS_MOCK_MDNS_CLIENT_H_
 

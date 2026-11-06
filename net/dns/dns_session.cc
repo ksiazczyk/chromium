@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DNS session implementation
+// summary: Implements DnsSession, providing random query IDs and shared state for DNS transactions.
+// ---
+
 #include "net/dns/dns_session.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HostResolverSystemTask for threaded system DNS resolution
+// summary: Declares HostResolverSystemTask, which runs system host resolution on a thread pool with configurable retry parameters and result caching for HostResolverManager and other consumers.
+// ---
+
 #ifndef NET_DNS_HOST_RESOLVER_SYSTEM_TASK_H_
 #define NET_DNS_HOST_RESOLVER_SYSTEM_TASK_H_
 

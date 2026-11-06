@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Loopback-only address detection API
+// summary: Declares RunHaveOnlyLoopbackAddressesJob, which reports whether only loopback addresses are routable and posts the result to a callback.
+// ---
+
 #ifndef NET_DNS_LOOPBACK_ONLY_H_
 #define NET_DNS_LOOPBACK_ONLY_H_
 

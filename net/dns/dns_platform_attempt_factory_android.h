@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android DNS attempt factory declaration
+// summary: Declares the Android-specific DnsPlatformAttemptFactory that builds DnsPlatformAndroidAttempt instances and supports mock delegates for testing.
+// ---
+
 #ifndef NET_DNS_DNS_PLATFORM_ATTEMPT_FACTORY_ANDROID_H_
 #define NET_DNS_DNS_PLATFORM_ATTEMPT_FACTORY_ANDROID_H_
 

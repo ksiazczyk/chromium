@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Brotli source stream disabled stub
+// summary: Provides stub factory functions that return null when Brotli support is excluded from the build.
+// ---
+
 #include "net/filter/brotli_source_stream.h"
 
 namespace net {

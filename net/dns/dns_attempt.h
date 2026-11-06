@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DnsAttempt interface
+// summary: Declares DnsAttempt, the base class for a single asynchronous DNS exchange, defining query, response, and NetLog accessors.
+// ---
+
 #ifndef NET_DNS_DNS_ATTEMPT_H_
 #define NET_DNS_DNS_ATTEMPT_H_
 

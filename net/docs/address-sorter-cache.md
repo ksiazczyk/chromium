@@ -1,3 +1,13 @@
+---
+type: plan
+title: Caching UDP connect() Results in AddressSorterPosix
+summary: Design document for caching UDP connect() results in AddressSorterPosix to reduce DNS resolution and connection latency on Android.
+relations:
+  - references /net/base/ip_address.h
+  - references /net/base/network_anonymization_key.h
+  - references /net/base/network_handle.h
+---
+
 # Caching UDP connect() Results in AddressSorterPosix
 
 ## Status

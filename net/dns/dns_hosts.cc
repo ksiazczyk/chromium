@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DNS hosts file parser implementation
+// summary: Implements parsing of hosts file contents into hostname-to-IP mappings, using a tokenizer that handles comments, whitespace and platform-specific comma modes.
+// ---
+
 #include "net/dns/dns_hosts.h"
 
 #include <string>

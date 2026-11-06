@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS code review owners
+summary: Lists the primary code owner for the net/dns directory and per-file ownership for stale_host_resolver files.

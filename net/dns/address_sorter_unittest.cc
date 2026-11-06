@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Address sorter unit tests
+// summary: Unit tests verifying that AddressSorter sorts IPv4 and IPv6 endpoints across Windows, POSIX and Fuchsia platforms.
+// ---
+
 #include "net/dns/address_sorter.h"
 
 #include "build/build_config.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: mDNS record cache interface
+// summary: Declares MDnsCache, a cache of mDNS records keyed by type, name, and optional value, with lookup, update, and expiration facilities.
+// ---
+
 #ifndef NET_DNS_MDNS_CACHE_H_
 #define NET_DNS_MDNS_CACHE_H_
 

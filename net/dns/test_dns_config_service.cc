@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestDnsConfigService test fakes
+// summary: Provides test DnsConfigService fakes that let tests inject DNS configs and hosts data without watching real system settings.
+// ---
+
 #include "net/dns/test_dns_config_service.h"
 
 #include <memory>

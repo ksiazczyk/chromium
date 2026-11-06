@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PreloadDecoder class header for decoding preload entries
+// summary: Declares the PreloadDecoder class with its BitReader and HuffmanDecoder helpers that clients subclass to read specific preloaded data entry types.
+// ---
+
 #ifndef NET_EXTRAS_PRELOAD_DATA_DECODER_H_
 #define NET_EXTRAS_PRELOAD_DATA_DECODER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DnsConfig implementation
+// summary: Implements DnsConfig, the DNS configuration value type with equality comparison and conversion to a dictionary for logging.
+// ---
+
 #include "net/dns/dns_config.h"
 
 #include <utility>

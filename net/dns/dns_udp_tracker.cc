@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DnsUdpTracker implementation
+// summary: Tracks recent UDP DNS queries, port reuse, and response ID mismatches to detect low port entropy and record related UMA metrics.
+// ---
+
 #include "net/dns/dns_udp_tracker.h"
 
 #include <algorithm>

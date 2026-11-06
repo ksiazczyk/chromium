@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows address sorter implementation
+// summary: Implements AddressSorter on Windows by asynchronously running the SIO_ADDRESS_LIST_SORT ioctl on a thread pool and converting the results.
+// ---
+
 #include "net/dns/address_sorter.h"
 
 #include <winsock2.h>

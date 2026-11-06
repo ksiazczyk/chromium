@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Filtering details URL generator header
+// summary: Declares a utility class that generates user-facing URLs for DNS filtering details based on the public resolver errors draft.
+// ---
+
 #ifndef NET_DNS_FILTERING_DETAILS_URL_GENERATOR_H_
 #define NET_DNS_FILTERING_DETAILS_URL_GENERATOR_H_
 

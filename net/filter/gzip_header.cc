@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GZipHeader parser implementation
+// summary: Implements the GZipHeader state machine that incrementally parses gzip headers per RFC 1952, validating magic bytes, flags, and optional fields.
+// ---
+
 #include "net/filter/gzip_header.h"
 
 #include <stdint.h>

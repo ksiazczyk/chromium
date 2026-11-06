@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StaleHostResolver class declaration
+// summary: Declares StaleHostResolver, a HostResolver wrapper that impatiently returns usable stale cache entries, with configurable StaleOptions.
+// ---
+
 #ifndef NET_DNS_STALE_HOST_RESOLVER_H_
 #define NET_DNS_STALE_HOST_RESOLVER_H_
 

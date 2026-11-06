@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mapped host resolver implementation
+// summary: Implements MappedHostResolver, rewriting host resolution requests through mapping rules before forwarding them to an underlying resolver.
+// ---
+
 #include "net/dns/mapped_host_resolver.h"
 
 #include <optional>

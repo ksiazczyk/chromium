@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DNS reloader declarations
+// summary: Declares EnsureDnsReloaderInit and DnsReloaderMaybeReload, used to initialize and reload the per-thread system resolver before DNS lookups.
+// ---
+
 #ifndef NET_DNS_DNS_RELOADER_H_
 #define NET_DNS_DNS_RELOADER_H_
 

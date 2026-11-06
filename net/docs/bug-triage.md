@@ -1,3 +1,12 @@
+---
+type: guide
+title: Chrome Network Bug Triage
+summary: Describes the Chrome network team's two-day bug triage rotation, covering untriaged bug review, feedback follow-up, priorities, and sheriff reports.
+relations:
+  - references /net/docs/bug-triage-labels.md
+  - references /net/docs/crash-course-in-net-internals.md
+---
+
 # Chrome Network Bug Triage
 
 The Chrome network team uses a two day bug triage rotation. The goal is to

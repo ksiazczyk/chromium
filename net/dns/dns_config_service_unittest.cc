@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DnsConfigService unit tests
+// summary: Unit tests for the base DnsConfigService watch, notification and invalidation behavior using a test service.
+// ---
+
 #include "net/dns/dns_config_service.h"
 
 #include <memory>

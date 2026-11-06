@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ParseDomainASCII Windows fuzzer
+// summary: LibFuzzer harness that feeds arbitrary input to net::internal::ParseDomainASCII and lowercases the result to catch crashes in Windows domain name parsing.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

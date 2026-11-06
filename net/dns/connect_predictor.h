@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Connect predictor interface
+// summary: Declares the ConnectPredictor interface that predicts the error and source address of UDP connect attempts to destination IPs, with cache partitions.
+// ---
+
 #ifndef NET_DNS_CONNECT_PREDICTOR_H_
 #define NET_DNS_CONNECT_PREDICTOR_H_
 

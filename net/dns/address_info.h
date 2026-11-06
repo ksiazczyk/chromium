@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AddressInfo class declaration
+// summary: Declares AddressInfo and AddrInfoGetter, encapsulating getaddrinfo calls and the resulting addrinfo data structure.
+// ---
+
 #ifndef NET_DNS_ADDRESS_INFO_H_
 #define NET_DNS_ADDRESS_INFO_H_
 

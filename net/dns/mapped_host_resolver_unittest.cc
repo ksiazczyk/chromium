@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mapped host resolver tests
+// summary: Unit tests verifying hostname remapping, exclusion, and failure behavior of MappedHostResolver using a mock resolver.
+// ---
+
 #include "net/dns/mapped_host_resolver.h"
 
 #include <memory>

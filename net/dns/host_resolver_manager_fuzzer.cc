@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Host resolver manager fuzzer
+// summary: Fuzzer that drives host resolution with fuzzed parameters, randomly starting, waiting on, and cancelling resolver requests.
+// ---
+
 #include <fuzzer/FuzzedDataProvider.h>
 #include <stddef.h>
 #include <stdint.h>

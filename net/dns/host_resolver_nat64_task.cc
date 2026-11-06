@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HostResolverNat64Task implementation
+// summary: Implements the NAT64 task that probes DNS64 support by resolving ipv4only.arpa and synthesizes IPv4-embedded IPv6 addresses per RFC 6052.
+// ---
+
 #include "net/dns/host_resolver_nat64_task.h"
 
 #include <algorithm>

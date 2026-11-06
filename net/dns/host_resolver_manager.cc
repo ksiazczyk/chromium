@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Host resolver manager implementation
+// summary: Implements HostResolverManager, which schedules host resolution jobs and dispatches system, DNS, mDNS, and NAT64 tasks.
+// ---
+
 #include "net/dns/host_resolver_manager.h"
 
 #include <algorithm>

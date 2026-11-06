@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DNS name conversion and validation utilities
+// summary: Implements conversion between dotted-form DNS names and network wire format, plus validation of DNS names and record names.
+// ---
+
 #include "net/dns/dns_names_util.h"
 
 #include <cstddef>

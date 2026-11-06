@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HostResolverCache unit tests
+// summary: Unit and fuzz tests for HostResolverCache covering caching results, staleness, expiration, and wildcard lookup matching.
+// ---
+
 #include "net/dns/host_resolver_cache.h"
 
 #include <memory>

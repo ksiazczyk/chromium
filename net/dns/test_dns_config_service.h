@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test implementations of DnsConfigService
+// summary: Declares test fakes for DnsConfigService that let tests trigger config and hosts notifications manually, including a hosts-reading variant with an injectable DnsHostsParser.
+// ---
+
 #ifndef NET_DNS_TEST_DNS_CONFIG_SERVICE_H_
 #define NET_DNS_TEST_DNS_CONFIG_SERVICE_H_
 

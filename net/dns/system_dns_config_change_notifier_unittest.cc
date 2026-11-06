@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SystemDnsConfigChangeNotifier unit tests
+// summary: Unit tests using a fake DnsConfigService to verify observer notifications, sequencing, and config refresh behavior of the notifier.
+// ---
+
 #include "net/dns/system_dns_config_change_notifier.h"
 
 #include <optional>

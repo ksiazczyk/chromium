@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Host resolver internal result test matchers
+// summary: Implements gmock matchers that verify the base and subtype properties of internal host resolver results in tests.
+// ---
+
 #include "net/dns/host_resolver_internal_result_test_util.h"
 
 #include <map>

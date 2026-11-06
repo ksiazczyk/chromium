@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: mDNS record cache tests
+// summary: Unit tests for MDnsCache covering record updates, expiration, goodbye packets, and differing capitalization of record names.
+// ---
+
 #include "net/dns/mdns_cache.h"
 
 #include <algorithm>

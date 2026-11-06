@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SerialWorker class declaration
+// summary: Declares SerialWorker, a base class that executes jobs serially on a thread pool, returns results on the origin thread, and supports retry backoff.
+// ---
+
 #ifndef NET_DNS_SERIAL_WORKER_H_
 #define NET_DNS_SERIAL_WORKER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SQLite persistent shared dictionary store implementation
+// summary: Implements the SQLite-backed persistent store for Shared Dictionary metadata, including schema creation, eviction, and metrics.
+// ---
+
 #include "net/extras/sqlite/sqlite_persistent_shared_dictionary_store.h"
 
 #include "base/byte_size.h"

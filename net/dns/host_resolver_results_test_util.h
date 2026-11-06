@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Host resolver results test matcher declarations
+// summary: Declares the ExpectEndpointResult and ExpectServiceEndpoint gmock matchers plus stream operators for asserting host resolver results in tests.
+// ---
+
 #ifndef NET_DNS_HOST_RESOLVER_RESULTS_TEST_UTIL_H_
 #define NET_DNS_HOST_RESOLVER_RESULTS_TEST_UTIL_H_
 

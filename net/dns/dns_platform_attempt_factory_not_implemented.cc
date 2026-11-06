@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unimplemented platform DNS attempt factory
+// summary: Stub DnsPlatformAttemptFactory whose CreateDnsPlatformAttempt always fails with NOTREACHED for platforms without platform DNS support.
+// ---
+
 #include "net/dns/dns_platform_attempt_factory_not_implemented.h"
 
 #include "net/base/network_handle.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: mDNS client unit tests
+// summary: Unit tests for the mDNS client implementation, exercising packet parsing, listeners, and transactions using sample mDNS packets and mock socket factories.
+// ---
+
 #include <memory>
 #include <utility>
 #include <vector>

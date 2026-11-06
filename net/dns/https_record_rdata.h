@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTPS record RDATA class declarations
+// summary: Declares HttpsRecordRdata with alias-form and service-form variants for parsing HTTPS DNS records and exposing their service parameters and compatibility checks.
+// ---
+
 #ifndef NET_DNS_HTTPS_RECORD_RDATA_H_
 #define NET_DNS_HTTPS_RECORD_RDATA_H_
 

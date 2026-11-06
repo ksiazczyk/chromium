@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedDictionaryInfo class declaration
+// summary: Declares SharedDictionaryInfo, which holds metadata of a shared dictionary stored in a SQLite database for the compression dictionary transport feature.
+// ---
+
 #ifndef NET_EXTRAS_SHARED_DICTIONARY_SHARED_DICTIONARY_INFO_H_
 #define NET_EXTRAS_SHARED_DICTIONARY_SHARED_DICTIONARY_INFO_H_
 

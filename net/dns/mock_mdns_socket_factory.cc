@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock mDNS socket factory implementation
+// summary: Implements mock datagram server sockets and a socket factory that simulate mDNS packet sends and receives during tests.
+// ---
+
 #include "net/dns/mock_mdns_socket_factory.h"
 
 #include <algorithm>

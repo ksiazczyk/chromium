@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Connect predictor LRU cache header
+// summary: Declares ConnectPredictorLRUCache, an LRU-cached ConnectPredictor that observes network changes and clears its predictions accordingly.
+// ---
+
 #ifndef NET_DNS_CONNECT_PREDICTOR_LRU_CACHE_H_
 #define NET_DNS_CONNECT_PREDICTOR_LRU_CACHE_H_
 

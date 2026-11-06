@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DNS OPT record rdata declarations
+// summary: Declares OptRecordRdata and its EDE option classes for EDNS OPT records per RFC 6891 and RFC 8914 error codes.
+// ---
+
 #ifndef NET_DNS_OPT_RECORD_RDATA_H_
 #define NET_DNS_OPT_RECORD_RDATA_H_
 

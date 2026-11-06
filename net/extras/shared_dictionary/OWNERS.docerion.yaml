@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file delegating to net/shared_dictionary
+summary: Delegates code ownership of this directory to the owners defined in net/shared_dictionary/OWNERS.

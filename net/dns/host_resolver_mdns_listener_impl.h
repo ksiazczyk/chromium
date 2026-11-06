@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MDNS listener declarations
+// summary: Declares HostResolverMdnsListenerImpl, an intermediary between the HostResolver mDNS listener API and the underlying MDnsClient listener.
+// ---
+
 #ifndef NET_DNS_HOST_RESOLVER_MDNS_LISTENER_IMPL_H_
 #define NET_DNS_HOST_RESOLVER_MDNS_LISTENER_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Host resolver internal result test matcher declarations
+// summary: Declares gmock matcher functions for asserting data, metadata, error, and alias host resolver internal results in tests.
+// ---
+
 #ifndef NET_DNS_HOST_RESOLVER_INTERNAL_RESULT_TEST_UTIL_H_
 #define NET_DNS_HOST_RESOLVER_INTERNAL_RESULT_TEST_UTIL_H_
 

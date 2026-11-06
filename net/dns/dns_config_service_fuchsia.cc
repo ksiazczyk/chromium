@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia DNS config service stub
+// summary: Stub DnsConfigService for Fuchsia whose read and watch methods are unimplemented, so DNS resolution falls back to getaddrinfo.
+// ---
+
 #include "net/dns/dns_config_service_fuchsia.h"
 
 #include <memory>

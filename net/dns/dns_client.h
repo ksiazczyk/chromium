@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DnsClient interface
+// summary: Declares DnsClient, the entry point for HostResolverManager to configure and query the built-in asynchronous DNS resolver.
+// ---
+
 #ifndef NET_DNS_DNS_CLIENT_H_
 #define NET_DNS_DNS_CLIENT_H_
 

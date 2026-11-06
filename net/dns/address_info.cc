@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AddressInfo implementation
+// summary: Implements the AddressInfo wrapper around getaddrinfo results, including iteration, canonical name lookup and address list creation.
+// ---
+
 #include "net/dns/address_info.h"
 
 #include <memory>

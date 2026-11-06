@@ -1,3 +1,13 @@
+---
+type: guide
+title: //net Code Reviews
+summary: Documents the responsibilities of //net code reviewers, covering feature flags, code coverage, types, standards, security, performance, and layering.
+relations:
+  - references /base/containers/span.h
+  - references /docs/code_reviews.md
+  - references /docs/flag_guarding_guidelines.md
+---
+
 # //net Code Reviews
 
 This page documents responsibilities of //net code reviewers. For the general

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RecordRdata class header
+// summary: Declares the RecordRdata base class and typed subclasses for DNS record rdata such as SRV, A, AAAA and CNAME.
+// ---
+
 #ifndef NET_DNS_RECORD_RDATA_H_
 #define NET_DNS_RECORD_RDATA_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTPSSVC metrics implementation
+// summary: Implements HttpssvcMetrics, which aggregates DNS resolve times and RCODE outcomes from HTTPS RR experiments and records them as UMA histograms on destruction.
+// ---
+
 #include "net/dns/httpssvc_metrics.h"
 
 #include <algorithm>

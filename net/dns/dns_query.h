@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DnsQuery wire-format DNS query class
+// summary: Declares DnsQuery, an object representing an on-the-wire DNS query message with ID cloning, raw packet parsing, OPT record support, and padding strategies for encrypted queries per RFC 8467.
+// ---
+
 #ifndef NET_DNS_DNS_QUERY_H_
 #define NET_DNS_DNS_QUERY_H_
 

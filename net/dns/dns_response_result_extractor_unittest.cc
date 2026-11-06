@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DNS response result extractor unit tests
+// summary: Unit tests verifying extraction of A, AAAA, HTTPS, alias, and malformed records from DNS responses.
+// ---
+
 #include "net/dns/dns_response_result_extractor.h"
 
 #include <algorithm>

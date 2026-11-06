@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service endpoint request declarations
+// summary: Declares HostResolverManager::ServiceEndpointRequestImpl, the implementation of HostResolver::ServiceEndpointRequest for endpoint lookups.
+// ---
+
 #ifndef NET_DNS_HOST_RESOLVER_MANAGER_SERVICE_ENDPOINT_REQUEST_IMPL_H_
 #define NET_DNS_HOST_RESOLVER_MANAGER_SERVICE_ENDPOINT_REQUEST_IMPL_H_
 

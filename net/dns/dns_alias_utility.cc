@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DNS alias utility implementation
+// summary: Implements FixUpDnsAliases, which canonicalizes and filters DNS alias hostnames, rejecting invalid, IP-address, and oversized entries.
+// ---
+
 #include "net/dns/dns_alias_utility.h"
 
 #include <set>

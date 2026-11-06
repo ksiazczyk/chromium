@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Filter source stream implementation
+// summary: Implements the base class for content-decoding streams, parsing Content-Encoding headers and chaining decoding streams.
+// ---
+
 #include "net/filter/filter_source_stream.h"
 
 #include <ranges>

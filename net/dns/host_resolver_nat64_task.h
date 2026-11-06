@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HostResolverNat64Task class declaration
+// summary: Declares HostResolverNat64Task, which converts an IPv4 address literal to an IPv4-embedded IPv6 address and falls back to the original address when no DNS64 is found.
+// ---
+
 #ifndef NET_DNS_HOST_RESOLVER_NAT64_TASK_H_
 #define NET_DNS_HOST_RESOLVER_NAT64_TASK_H_
 

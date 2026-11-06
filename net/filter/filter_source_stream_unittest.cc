@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FilterSourceStream unit tests
+// summary: Unit tests for FilterSourceStream, covering data filtering with various buffer sizes, read patterns, and stream behaviors in Chromium's network stack.
+// ---
+
 #include "net/filter/filter_source_stream.h"
 
 #include <stdint.h>
