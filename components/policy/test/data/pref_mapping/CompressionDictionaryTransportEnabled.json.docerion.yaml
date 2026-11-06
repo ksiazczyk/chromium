@@ -1,0 +1,4 @@
+# Docerion header of CompressionDictionaryTransportEnabled.json.
+type: test
+title: CompressionDictionaryTransportEnabled policy pref mapping test data
+summary: Test data verifying the CompressionDictionaryTransportEnabled policy maps to the net.compression_dictionary_transport_enabled pref on desktop and ChromeOS platforms.

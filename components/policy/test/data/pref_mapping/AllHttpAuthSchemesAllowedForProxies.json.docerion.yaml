@@ -1,0 +1,4 @@
+# Docerion header of AllHttpAuthSchemesAllowedForProxies.json.
+type: test
+title: AllHttpAuthSchemesAllowedForProxies pref mapping test data
+summary: Test data verifying that the AllHttpAuthSchemesAllowedForProxies policy maps to the auth.http_auth_allowed_for_proxies pref stored in local state.

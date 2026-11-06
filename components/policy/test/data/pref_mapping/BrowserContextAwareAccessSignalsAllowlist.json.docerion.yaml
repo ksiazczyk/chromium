@@ -1,0 +1,4 @@
+# Docerion header of BrowserContextAwareAccessSignalsAllowlist.json.
+type: test
+title: BrowserContextAwareAccessSignalsAllowlist pref mapping test data
+summary: Test data mapping the BrowserContextAwareAccessSignalsAllowlist policy to the device trust browser origins pref, currently disabled as flaky.

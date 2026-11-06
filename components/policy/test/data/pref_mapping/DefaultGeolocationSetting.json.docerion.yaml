@@ -1,0 +1,4 @@
+# Docerion header of DefaultGeolocationSetting.json.
+type: test
+title: DefaultGeolocationSetting policy pref mapping test data
+summary: Test data mapping the DefaultGeolocationSetting policy to the geolocation content setting pref across win, linux, mac, chromeos, android and fuchsia.

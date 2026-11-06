@@ -1,0 +1,4 @@
+# Docerion header of CalendarIntegrationEnabled.json.
+type: test
+title: CalendarIntegrationEnabled pref mapping test data
+summary: Test fixture mapping the CalendarIntegrationEnabled policy to the ash.calendar_integration_enabled pref on ChromeOS with true and false values.

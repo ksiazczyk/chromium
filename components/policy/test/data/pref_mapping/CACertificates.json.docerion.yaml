@@ -1,0 +1,4 @@
+# Docerion header of CACertificates.json.
+type: test
+title: CACertificates pref mapping test data
+summary: Test fixture mapping the CACertificates policy to the certificates.ca_certificates pref with single and multiple certificate lists for the pref mapping test.

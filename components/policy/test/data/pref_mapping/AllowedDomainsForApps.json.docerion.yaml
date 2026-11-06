@@ -1,0 +1,4 @@
+# Docerion header of AllowedDomainsForApps.json.
+type: test
+title: AllowedDomainsForApps policy pref mapping test data
+summary: Test data mapping the AllowedDomainsForApps policy to the settings.allowed_domains_for_apps pref across six platforms, testing a comma-separated domain list value.

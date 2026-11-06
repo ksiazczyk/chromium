@@ -1,0 +1,4 @@
+# Docerion header of AuthNegotiateDelegateAllowlist.json.
+type: test
+title: AuthNegotiateDelegateAllowlist pref mapping test data
+summary: Test data mapping the AuthNegotiateDelegateAllowlist policy to the auth.negotiate_delegate_whitelist local state pref across desktop and mobile platforms.

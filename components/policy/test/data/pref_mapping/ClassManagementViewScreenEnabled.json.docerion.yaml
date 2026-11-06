@@ -1,0 +1,4 @@
+# Docerion header of ClassManagementViewScreenEnabled.json.
+type: test
+title: ClassManagementViewScreenEnabled pref mapping test data
+summary: Test data mapping the ClassManagementViewScreenEnabled policy to the view_screen_setting pref.

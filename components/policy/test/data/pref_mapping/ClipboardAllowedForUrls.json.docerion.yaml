@@ -1,0 +1,4 @@
+# Docerion header of ClipboardAllowedForUrls.json.
+type: test
+title: ClipboardAllowedForUrls pref mapping test
+summary: Simple policy pref mapping test for ClipboardAllowedForUrls, verifying the managed clipboard allowed URLs pref default and a URL pattern value.

@@ -1,0 +1,4 @@
+# Docerion header of DeviceAttributesBlockedForOrigins.json.
+type: test
+title: DeviceAttributesBlockedForOrigins pref mapping test data
+summary: Defines the ChromeOS pref mapping test for DeviceAttributesBlockedForOrigins, mapping it to the managed blocked origins pref with sample origin values.

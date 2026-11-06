@@ -1,0 +1,4 @@
+# Docerion header of AlternateErrorPagesEnabled.json.
+type: test
+title: AlternateErrorPagesEnabled policy pref mapping test data
+summary: Test data checking that the AlternateErrorPagesEnabled policy maps to the alternate_error_pages.enabled preference across all supported platforms.

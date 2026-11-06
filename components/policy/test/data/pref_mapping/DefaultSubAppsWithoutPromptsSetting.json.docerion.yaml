@@ -1,0 +1,4 @@
+# Docerion header of DefaultSubAppsWithoutPromptsSetting.json.
+type: test
+title: DefaultSubAppsWithoutPromptsSetting pref mapping test data
+summary: Test data verifying that the DefaultSubAppsWithoutPromptsSetting policy maps to the sub_apps_without_prompts content setting pref on ChromeOS, Linux, Mac, and Windows.

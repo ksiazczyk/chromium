@@ -1,0 +1,4 @@
+# Docerion header of BrowserSwitcherUseIeSitelist.json.
+type: test
+title: BrowserSwitcherUseIeSitelist policy pref mapping test
+summary: Windows-only policy pref mapping test data verifying BrowserSwitcherUseIeSitelist maps to the browser_switcher.use_ie_sitelist preference.

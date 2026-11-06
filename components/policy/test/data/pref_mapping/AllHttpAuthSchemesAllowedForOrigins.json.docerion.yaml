@@ -1,0 +1,4 @@
+# Docerion header of AllHttpAuthSchemesAllowedForOrigins.json.
+type: test
+title: AllHttpAuthSchemesAllowedForOrigins pref mapping test data
+summary: Test data verifying that the AllHttpAuthSchemesAllowedForOrigins policy maps to the auth.http_auth_allowed_for_origins pref stored in local state.

@@ -1,0 +1,4 @@
+# Docerion header of DefaultNotificationsSetting.json.
+type: test
+title: DefaultNotificationsSetting pref mapping test data
+summary: Test data mapping the DefaultNotificationsSetting policy to the notifications content setting preference, with values to test across six platforms including Android and Fuchsia.

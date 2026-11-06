@@ -1,0 +1,4 @@
+# Docerion header of AudioCaptureAllowedUrls.json.
+type: test
+title: AudioCaptureAllowedUrls pref mapping test data
+summary: Simple policy pref mapping test data for the AudioCaptureAllowedUrls policy and the hardware.audio_capture_allowed_urls pref.

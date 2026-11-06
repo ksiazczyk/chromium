@@ -1,0 +1,4 @@
+# Docerion header of AllowedInputMethods.json.
+type: test
+title: AllowedInputMethods policy pref mapping test data
+summary: ChromeOS test data checking that the AllowedInputMethods policy maps to the settings.language.allowed_input_methods preference.

@@ -1,0 +1,4 @@
+# Docerion header of CloudReportingEnabled.json.
+type: test
+title: CloudReportingEnabled pref mapping test data
+summary: Test data verifying that CloudReportingEnabled maps to the enterprise_reporting.chrome_cloud_reporting pref in local state with true and false values.

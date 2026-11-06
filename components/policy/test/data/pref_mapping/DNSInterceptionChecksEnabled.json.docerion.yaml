@@ -1,0 +1,4 @@
+# Docerion header of DNSInterceptionChecksEnabled.json.
+type: test
+title: DNSInterceptionChecksEnabled pref mapping test data
+summary: Test data verifying that the DNSInterceptionChecksEnabled policy maps to the browser.dns_interception_checks_enabled local state preference across desktop platforms and Fuchsia.

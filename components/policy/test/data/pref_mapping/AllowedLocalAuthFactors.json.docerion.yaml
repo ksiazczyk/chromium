@@ -1,0 +1,4 @@
+# Docerion header of AllowedLocalAuthFactors.json.
+type: test
+title: AllowedLocalAuthFactors policy pref mapping test data
+summary: ChromeOS test data covering the default value and several policy values for the AllowedLocalAuthFactors policy and its ash.local_auth_factors.enabled_factors preference.

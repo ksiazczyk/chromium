@@ -1,0 +1,4 @@
+# Docerion header of BrowserSwitcherUrlList.json.
+type: test
+title: BrowserSwitcherUrlList policy pref mapping test
+summary: Policy pref mapping test data verifying BrowserSwitcherUrlList maps to the browser_switcher.url_list preference using a sample domain list.

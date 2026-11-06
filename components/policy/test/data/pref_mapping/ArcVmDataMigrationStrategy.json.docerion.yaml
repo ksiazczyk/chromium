@@ -1,0 +1,4 @@
+# Docerion header of ArcVmDataMigrationStrategy.json.
+type: test
+title: ArcVmDataMigrationStrategy pref mapping test data
+summary: Simple policy pref mapping test data for the ArcVmDataMigrationStrategy policy and the arc.vm_data_migration_strategy pref on ChromeOS.

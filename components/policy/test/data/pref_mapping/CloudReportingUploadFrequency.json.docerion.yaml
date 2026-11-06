@@ -1,0 +1,4 @@
+# Docerion header of CloudReportingUploadFrequency.json.
+type: test
+title: CloudReportingUploadFrequency pref mapping test data
+summary: Test data verifying that CloudReportingUploadFrequency values map to the enterprise_reporting.upload_frequency pref in local state.

@@ -1,0 +1,4 @@
+# Docerion header of AllowExcludeDisplayInMirrorMode.json.
+type: test
+title: AllowExcludeDisplayInMirrorMode policy pref mapping test data
+summary: Test data mapping the AllowExcludeDisplayInMirrorMode policy to the settings.display.allow_exclude_display_in_mirror_mode pref on ChromeOS, with true and false values to test.

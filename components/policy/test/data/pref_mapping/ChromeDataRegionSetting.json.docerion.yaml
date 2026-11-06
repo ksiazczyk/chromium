@@ -1,0 +1,4 @@
+# Docerion header of ChromeDataRegionSetting.json.
+type: test
+title: ChromeDataRegionSetting policy pref mapping test data
+summary: Test data covering user and machine cloud policy mappings for the chrome_data_region_setting pref, including out-of-bounds values and platform-source cases.

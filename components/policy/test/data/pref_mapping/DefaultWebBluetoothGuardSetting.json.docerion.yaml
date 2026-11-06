@@ -1,0 +1,4 @@
+# Docerion header of DefaultWebBluetoothGuardSetting.json.
+type: test
+title: DefaultWebBluetoothGuardSetting pref mapping test data
+summary: Test data verifying that the DefaultWebBluetoothGuardSetting policy maps to the web_bluetooth_guard content setting pref across six platforms.

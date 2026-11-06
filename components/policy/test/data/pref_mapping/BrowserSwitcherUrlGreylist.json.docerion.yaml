@@ -1,0 +1,4 @@
+# Docerion header of BrowserSwitcherUrlGreylist.json.
+type: test
+title: BrowserSwitcherUrlGreylist policy pref mapping test
+summary: Policy pref mapping test data verifying BrowserSwitcherUrlGreylist maps to the browser_switcher.url_greylist preference using a sample domain list.

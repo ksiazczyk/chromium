@@ -1,0 +1,4 @@
+# Docerion header of AllowScreenWakeLocks.json.
+type: test
+title: AllowScreenWakeLocks policy pref mapping test data
+summary: Test data mapping the AllowScreenWakeLocks policy to the power.allow_screen_wake_locks pref on ChromeOS, with true and false values to test.

@@ -1,0 +1,4 @@
+# Docerion header of BrowserSwitcherChromeParameters.json.
+type: test
+title: BrowserSwitcherChromeParameters pref mapping test data
+summary: Windows-only test data verifying that the BrowserSwitcherChromeParameters policy maps to the browser_switcher.chrome_parameters pref.

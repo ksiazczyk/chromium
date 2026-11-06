@@ -1,0 +1,4 @@
+# Docerion header of DefaultPrinterSelection.json.
+type: test
+title: DefaultPrinterSelection pref mapping test data
+summary: Test data mapping the DefaultPrinterSelection policy to the default destination selection rules preference, testing a local printer name pattern.

@@ -1,0 +1,4 @@
+# Docerion header of DefaultSearchProviderKeyword.json.
+type: test
+title: DefaultSearchProviderKeyword pref mapping test data
+summary: Test data placeholder recording that the DefaultSearchProviderKeyword policy has no pref mapping test because its complex mapping is covered by the PolicyTest.DefaultSearchProvider browser test.

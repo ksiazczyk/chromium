@@ -1,0 +1,4 @@
+# Docerion header of DeviceChargingSoundsEnabled.json.
+type: test
+title: DeviceChargingSoundsEnabled pref mapping test data
+summary: Test data mapping the DeviceChargingSoundsEnabled policy to the ash.charging_sounds.enabled pref on ChromeOS.

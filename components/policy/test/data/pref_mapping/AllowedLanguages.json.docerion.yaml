@@ -1,0 +1,4 @@
+# Docerion header of AllowedLanguages.json.
+type: test
+title: AllowedLanguages policy pref mapping test data
+summary: ChromeOS test data checking that the AllowedLanguages policy maps to the intl.allowed_languages preference.

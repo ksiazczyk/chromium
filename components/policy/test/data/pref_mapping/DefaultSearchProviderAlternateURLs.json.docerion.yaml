@@ -1,0 +1,4 @@
+# Docerion header of DefaultSearchProviderAlternateURLs.json.
+type: test
+title: DefaultSearchProviderAlternateURLs pref mapping test placeholder
+summary: Placeholder noting that no simple pref mapping test exists for the DefaultSearchProviderAlternateURLs policy and pointing to the PolicyTest.DefaultSearchProvider browser test.

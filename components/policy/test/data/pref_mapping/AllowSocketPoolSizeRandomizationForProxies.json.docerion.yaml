@@ -1,0 +1,4 @@
+# Docerion header of AllowSocketPoolSizeRandomizationForProxies.json.
+type: test
+title: AllowSocketPoolSizeRandomizationForProxies pref mapping test data
+summary: Test data mapping the AllowSocketPoolSizeRandomizationForProxies policy to the net.allow_socket_pool_size_randomization_for_proxies pref in local_state across five platforms.

@@ -1,0 +1,4 @@
+# Docerion header of AllowScreenLock.json.
+type: test
+title: AllowScreenLock policy pref mapping test data
+summary: Test data mapping the AllowScreenLock policy to the allow_screen_lock pref on ChromeOS, with true and false values to test.

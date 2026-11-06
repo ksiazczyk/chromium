@@ -1,0 +1,4 @@
+# Docerion header of CrostiniArcAdbSideloadingAllowed.json.
+type: test
+title: CrostiniArcAdbSideloadingAllowed pref mapping test data
+summary: Test data for the simple policy pref mapping test, mapping the CrostiniArcAdbSideloadingAllowed policy to the crostini ARC ADB sideloading pref on ChromeOS.

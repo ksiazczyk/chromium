@@ -1,0 +1,4 @@
+# Docerion header of DeviceEphemeralUsersEnabled.json.
+type: test
+title: DeviceEphemeralUsersEnabled pref mapping test data
+summary: Declares no pref mapping test for the DeviceEphemeralUsersEnabled policy because it maps into CrosSettings.

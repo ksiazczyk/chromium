@@ -1,0 +1,4 @@
+# Docerion header of DefaultWindowManagementSetting.json.
+type: test
+title: DefaultWindowManagementSetting pref mapping test data
+summary: Test data verifying that the DefaultWindowManagementSetting policy maps to the window_management content setting pref on desktop platforms and ChromeOS.

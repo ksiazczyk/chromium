@@ -1,0 +1,4 @@
+# Docerion header of DeviceAutofillSAMLUsername.json.
+type: test
+title: DeviceAutofillSAMLUsername pref mapping test data
+summary: Test data mapping the DeviceAutofillSAMLUsername policy to the saml.UrlParameterToAutofillSAMLUsername local state pref on ChromeOS.

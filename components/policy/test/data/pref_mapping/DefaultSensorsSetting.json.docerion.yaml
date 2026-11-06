@@ -1,0 +1,4 @@
+# Docerion header of DefaultSensorsSetting.json.
+type: test
+title: DefaultSensorsSetting pref mapping test data
+summary: Policy pref mapping test cases for the DefaultSensorsSetting policy across all platforms, checking the sensors content setting default and its Allow, Block and Ask values.

@@ -1,0 +1,4 @@
+# Docerion header of DevToolsGenAiSettings.json.
+type: test
+title: DevToolsGenAiSettings policy pref mapping test data
+summary: Test data checking that the DevToolsGenAiSettings policy maps to the devtools.gen_ai_settings pref, including an enterprise default, across major desktop platforms.

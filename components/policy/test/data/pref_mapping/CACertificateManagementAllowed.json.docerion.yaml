@@ -1,0 +1,4 @@
+# Docerion header of CACertificateManagementAllowed.json.
+type: test
+title: CACertificateManagementAllowed pref mapping test data
+summary: Test fixture mapping the CACertificateManagementAllowed policy to the ca_certificate_management_allowed pref with values 0, 1 and 2 for the pref mapping test.

@@ -1,0 +1,4 @@
+# Docerion header of CursorHighlightEnabled.json.
+type: test
+title: CursorHighlightEnabled pref mapping test data
+summary: Test data verifying that the CursorHighlightEnabled policy maps to the settings.a11y.cursor_highlight accessibility preference on ChromeOS with true and false values.

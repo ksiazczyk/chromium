@@ -1,0 +1,4 @@
+# Docerion header of AbusiveExperienceInterventionEnforce.json.
+type: test
+title: AbusiveExperienceInterventionEnforce policy pref mapping test data
+summary: Test data verifying the AbusiveExperienceInterventionEnforce policy maps to its preference with a true default on supported platforms.

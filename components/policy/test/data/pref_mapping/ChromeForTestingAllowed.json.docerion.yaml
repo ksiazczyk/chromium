@@ -1,0 +1,4 @@
+# Docerion header of ChromeForTestingAllowed.json.
+type: test
+title: ChromeForTestingAllowed policy pref mapping test data
+summary: Test data checking the ChromeForTestingAllowed policy maps to the chrome_for_testing.allowed pref in local_state.

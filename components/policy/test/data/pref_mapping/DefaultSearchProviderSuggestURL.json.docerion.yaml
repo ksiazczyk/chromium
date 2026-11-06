@@ -1,0 +1,4 @@
+# Docerion header of DefaultSearchProviderSuggestURL.json.
+type: test
+title: DefaultSearchProviderSuggestURL pref mapping test data
+summary: Test data placeholder recording that the DefaultSearchProviderSuggestURL policy has no pref mapping test because its complex mapping is covered by the PolicyTest.DefaultSearchProvider browser test.

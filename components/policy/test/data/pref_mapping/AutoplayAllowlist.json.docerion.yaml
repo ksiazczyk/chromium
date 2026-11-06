@@ -1,0 +1,4 @@
+# Docerion header of AutoplayAllowlist.json.
+type: test
+title: AutoplayAllowlist pref mapping test data
+summary: Test data verifying that the AutoplayAllowlist policy maps to the media.autoplay_whitelist pref with example domain URL patterns.

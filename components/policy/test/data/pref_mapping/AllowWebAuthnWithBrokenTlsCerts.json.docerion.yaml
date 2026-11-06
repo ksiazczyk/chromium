@@ -1,0 +1,4 @@
+# Docerion header of AllowWebAuthnWithBrokenTlsCerts.json.
+type: test
+title: AllowWebAuthnWithBrokenTlsCerts pref mapping test data
+summary: Test data mapping the AllowWebAuthnWithBrokenTlsCerts policy to the webauthn.allow_with_broken_certs pref across six platforms, with true and false values to test.

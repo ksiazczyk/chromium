@@ -1,0 +1,4 @@
+# Docerion header of DeviceChromeVariations.json.
+type: test
+title: DeviceChromeVariations pref mapping test data
+summary: Test data mapping the DeviceChromeVariations policy to the device_variations_restrictions_by_policy pref on ChromeOS.

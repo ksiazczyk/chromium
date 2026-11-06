@@ -1,0 +1,4 @@
+# Docerion header of DeviceAuthenticationFlowAutoReloadInterval.json.
+type: test
+title: DeviceAuthenticationFlowAutoReloadInterval pref mapping test data
+summary: Defines the ChromeOS pref mapping test for DeviceAuthenticationFlowAutoReloadInterval, stored in local_state with default 0 and sample interval values.

@@ -1,0 +1,4 @@
+# Docerion header of BackForwardCacheForWebSocketsAllowed.json.
+type: test
+title: BackForwardCacheForWebSocketsAllowed pref mapping test data
+summary: Test data verifying that the BackForwardCacheForWebSocketsAllowed policy maps to the policy.back_forward_cache_for_web_sockets_allowed pref with true and false values.

@@ -1,0 +1,4 @@
+# Docerion header of AutomaticDownloadsBlockedForUrls.json.
+type: test
+title: AutomaticDownloadsBlockedForUrls pref mapping test data
+summary: Test data verifying that the AutomaticDownloadsBlockedForUrls policy maps to the managed_automatic_downloads_blocked_for_urls pref with example URL patterns across desktop and Android platforms.

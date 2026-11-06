@@ -1,0 +1,4 @@
+# Docerion header of ArcGoogleLocationServicesEnabled.json.
+type: test
+title: ArcGoogleLocationServicesEnabled pref mapping test data
+summary: Policy pref mapping test data checking how the ArcGoogleLocationServicesEnabled policy affects the arc.location_service.enabled pref on ChromeOS, noting PrivacyHub makes it obsolete.

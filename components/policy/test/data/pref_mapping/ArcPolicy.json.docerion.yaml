@@ -1,0 +1,4 @@
+# Docerion header of ArcPolicy.json.
+type: test
+title: ArcPolicy pref mapping test data
+summary: Test data placeholder explaining that the ArcPolicy policy has no pref mapping test because its value is sent to the ARC side via mojo.

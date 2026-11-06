@@ -1,0 +1,4 @@
+# Docerion header of BrowserLegacyExtensionPointsBlocked.json.
+type: test
+title: BrowserLegacyExtensionPointsBlocked pref mapping test data
+summary: Windows-only test data verifying that the BrowserLegacyExtensionPointsBlocked policy maps to the block_browser_legacy_extension_points pref.

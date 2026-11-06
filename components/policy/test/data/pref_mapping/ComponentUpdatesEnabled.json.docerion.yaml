@@ -1,0 +1,4 @@
+# Docerion header of ComponentUpdatesEnabled.json.
+type: test
+title: ComponentUpdatesEnabled policy pref mapping test data
+summary: Test data verifying the ComponentUpdatesEnabled policy maps to the component_updates.component_updates_enabled pref in local state across all supported platforms.

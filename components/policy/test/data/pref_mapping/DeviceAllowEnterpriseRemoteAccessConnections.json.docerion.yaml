@@ -1,0 +1,4 @@
+# Docerion header of DeviceAllowEnterpriseRemoteAccessConnections.json.
+type: test
+title: DeviceAllowEnterpriseRemoteAccessConnections pref mapping placeholder
+summary: Placeholder test data noting that DeviceAllowEnterpriseRemoteAccessConnections is not mapped to prefs and its value is read directly in ChromeOS code.

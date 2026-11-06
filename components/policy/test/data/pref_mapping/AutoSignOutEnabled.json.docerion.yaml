@@ -1,0 +1,4 @@
+# Docerion header of AutoSignOutEnabled.json.
+type: test
+title: AutoSignOutEnabled policy pref mapping test data
+summary: Test data verifying that the AutoSignOutEnabled policy maps to the auto_sign_out_enabled preference on ChromeOS.

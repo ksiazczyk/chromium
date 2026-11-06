@@ -1,0 +1,4 @@
+# Docerion header of DefaultFileSystemReadGuardSetting.json.
+type: test
+title: DefaultFileSystemReadGuardSetting pref mapping test data
+summary: Policy pref mapping test data verifying the DefaultFileSystemReadGuardSetting policy controls the file system read guard default content setting.

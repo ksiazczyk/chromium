@@ -1,0 +1,4 @@
+# Docerion header of DefaultLocalFontsSetting.json.
+type: test
+title: DefaultLocalFontsSetting policy pref mapping test data
+summary: Test data mapping the DefaultLocalFontsSetting policy to the local_fonts content setting pref across win, linux, mac, chromeos and fuchsia.

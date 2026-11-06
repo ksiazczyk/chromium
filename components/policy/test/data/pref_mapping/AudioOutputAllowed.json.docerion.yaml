@@ -1,0 +1,4 @@
+# Docerion header of AudioOutputAllowed.json.
+type: test
+title: AudioOutputAllowed pref mapping test data
+summary: Simple policy pref mapping test data for the AudioOutputAllowed policy and the local_state pref hardware.audio_output_enabled on ChromeOS.

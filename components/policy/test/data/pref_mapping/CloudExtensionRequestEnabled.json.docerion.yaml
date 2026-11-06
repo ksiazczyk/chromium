@@ -1,0 +1,4 @@
+# Docerion header of CloudExtensionRequestEnabled.json.
+type: test
+title: CloudExtensionRequestEnabled pref mapping tests
+summary: Policy pref mapping tests for CloudExtensionRequestEnabled, covering cloud-only application, CloudReportingEnabled conditions, and missing Android coverage.

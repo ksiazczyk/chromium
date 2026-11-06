@@ -1,0 +1,4 @@
+# Docerion header of BackForwardCacheEnabled.json.
+type: test
+title: BackForwardCacheEnabled pref mapping test data
+summary: Test data verifying that the BackForwardCacheEnabled policy maps to the policy.back_forward_cache_enabled pref in local state on Android.

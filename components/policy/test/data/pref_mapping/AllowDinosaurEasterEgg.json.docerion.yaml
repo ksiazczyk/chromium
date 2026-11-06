@@ -1,0 +1,4 @@
+# Docerion header of AllowDinosaurEasterEgg.json.
+type: test
+title: AllowDinosaurEasterEgg pref mapping test data
+summary: Test data verifying that the AllowDinosaurEasterEgg policy maps to the allow_dinosaur_easter_egg pref, including the enterprise user default.

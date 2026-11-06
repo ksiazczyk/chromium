@@ -1,0 +1,4 @@
+# Docerion header of BruschettaVMConfiguration.json.
+type: test
+title: BruschettaVMConfiguration policy pref mapping test
+summary: ChromeOS policy pref mapping test data covering BruschettaVMConfiguration schema validation, enabled-state downgrades and vTPM policy action mapping.

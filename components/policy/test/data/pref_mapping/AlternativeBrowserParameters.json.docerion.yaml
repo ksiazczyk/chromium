@@ -1,0 +1,4 @@
+# Docerion header of AlternativeBrowserParameters.json.
+type: test
+title: AlternativeBrowserParameters policy pref mapping test data
+summary: Test data checking that the AlternativeBrowserParameters policy maps to the browser_switcher.alternative_browser_parameters preference.

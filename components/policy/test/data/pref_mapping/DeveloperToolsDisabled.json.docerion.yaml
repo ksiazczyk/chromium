@@ -1,0 +1,4 @@
+# Docerion header of DeveloperToolsDisabled.json.
+type: test
+title: DeveloperToolsDisabled pref mapping test data
+summary: Specifies pref mapping tests for the DeveloperToolsDisabled policy, verifying devtools.availability values when the policy is unset, false, or true.

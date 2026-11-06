@@ -1,0 +1,4 @@
+# Docerion header of CookiesSessionOnlyForUrls.json.
+type: test
+title: CookiesSessionOnlyForUrls pref mapping test data
+summary: Test data for the simple policy pref mapping test, mapping the CookiesSessionOnlyForUrls policy to the profile.managed_cookies_sessiononly_for_urls pref on all supported platforms.

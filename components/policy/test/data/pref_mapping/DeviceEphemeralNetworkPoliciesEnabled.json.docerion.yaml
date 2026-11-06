@@ -1,0 +1,4 @@
+# Docerion header of DeviceEphemeralNetworkPoliciesEnabled.json.
+type: test
+title: DeviceEphemeralNetworkPoliciesEnabled pref mapping test data
+summary: Defines a simple policy pref mapping test for the DeviceEphemeralNetworkPoliciesEnabled policy on ChromeOS, checking the local state pref with true and false values.

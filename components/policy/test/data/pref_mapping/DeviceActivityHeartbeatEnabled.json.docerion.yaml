@@ -1,0 +1,4 @@
+# Docerion header of DeviceActivityHeartbeatEnabled.json.
+type: test
+title: DeviceActivityHeartbeatEnabled pref mapping placeholder
+summary: Placeholder test data explaining that no pref mapping test exists for DeviceActivityHeartbeatEnabled because the policy maps into CrosSettings.

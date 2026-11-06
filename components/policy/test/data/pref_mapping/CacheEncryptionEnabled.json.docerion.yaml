@@ -1,0 +1,4 @@
+# Docerion header of CacheEncryptionEnabled.json.
+type: test
+title: CacheEncryptionEnabled pref mapping test data
+summary: Test fixture mapping the CacheEncryptionEnabled policy to the enterprise_connectors.cache_encryption_enabled pref with true and false values.

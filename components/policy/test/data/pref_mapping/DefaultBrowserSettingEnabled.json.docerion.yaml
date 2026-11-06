@@ -1,0 +1,4 @@
+# Docerion header of DefaultBrowserSettingEnabled.json.
+type: test
+title: DefaultBrowserSettingEnabled pref mapping test data
+summary: Policy pref mapping test data verifying the DefaultBrowserSettingEnabled policy maps to the local state default browser pref on desktop platforms.

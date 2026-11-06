@@ -1,0 +1,4 @@
+# Docerion header of AccessControlAllowMethodsInCORSPreflightSpecConformant.json.
+type: test
+title: AccessControlAllowMethodsInCORSPreflightSpecConformant pref mapping test data
+summary: Test data verifying the CORS preflight spec conformance policy maps to its preference with a true default across platforms.

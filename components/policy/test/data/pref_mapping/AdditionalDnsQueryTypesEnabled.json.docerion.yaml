@@ -1,0 +1,4 @@
+# Docerion header of AdditionalDnsQueryTypesEnabled.json.
+type: test
+title: AdditionalDnsQueryTypesEnabled policy pref mapping test data
+summary: Test data verifying the additional DNS query types policy maps to an async DNS local state preference across platforms.

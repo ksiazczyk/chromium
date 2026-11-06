@@ -1,0 +1,4 @@
+# Docerion header of DeviceDisplayResolution.json.
+type: test
+title: DeviceDisplayResolution pref mapping test data
+summary: Declares no pref mapping test for the DeviceDisplayResolution policy because it maps into CrosSettings.

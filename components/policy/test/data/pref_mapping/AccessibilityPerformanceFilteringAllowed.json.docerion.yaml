@@ -1,0 +1,4 @@
+# Docerion header of AccessibilityPerformanceFilteringAllowed.json.
+type: test
+title: AccessibilityPerformanceFilteringAllowed policy pref mapping test data
+summary: Android-only test data verifying the accessibility performance filtering policy maps to a local state preference.

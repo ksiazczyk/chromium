@@ -1,0 +1,4 @@
+# Docerion header of AttestationExtensionAllowlist.json.
+type: test
+title: AttestationExtensionAllowlist pref mapping test data
+summary: Policy pref mapping test data verifying the AttestationExtensionAllowlist policy populates the attestation.extension_allowlist pref on ChromeOS, including filtering of invalid entries.

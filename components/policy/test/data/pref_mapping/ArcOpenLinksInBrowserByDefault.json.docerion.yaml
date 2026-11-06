@@ -1,0 +1,4 @@
+# Docerion header of ArcOpenLinksInBrowserByDefault.json.
+type: test
+title: ArcOpenLinksInBrowserByDefault pref mapping test data
+summary: Simple policy pref mapping test data for the ArcOpenLinksInBrowserByDefault policy and the arc.open_links_in_browser_by_default pref on ChromeOS.

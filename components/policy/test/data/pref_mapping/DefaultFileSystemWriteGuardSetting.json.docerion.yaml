@@ -1,0 +1,4 @@
+# Docerion header of DefaultFileSystemWriteGuardSetting.json.
+type: test
+title: DefaultFileSystemWriteGuardSetting policy pref mapping test data
+summary: Test data mapping the DefaultFileSystemWriteGuardSetting policy to the file_system_write_guard content setting pref across win, linux, mac, chromeos and fuchsia.

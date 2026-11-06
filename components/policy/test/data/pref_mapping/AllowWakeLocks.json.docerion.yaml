@@ -1,0 +1,4 @@
+# Docerion header of AllowWakeLocks.json.
+type: test
+title: AllowWakeLocks policy pref mapping test data
+summary: Test data mapping the AllowWakeLocks policy to the power.allow_wake_locks pref on ChromeOS, with true and false values to test.

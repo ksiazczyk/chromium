@@ -1,0 +1,4 @@
+# Docerion header of AutoplayAllowed.json.
+type: test
+title: AutoplayAllowed pref mapping test data
+summary: Test data verifying that the AutoplayAllowed policy maps to the media.autoplay_allowed pref with true and false values across supported platforms.

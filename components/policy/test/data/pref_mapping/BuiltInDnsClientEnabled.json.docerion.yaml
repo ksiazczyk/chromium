@@ -1,0 +1,4 @@
+# Docerion header of BuiltInDnsClientEnabled.json.
+type: test
+title: BuiltInDnsClientEnabled pref mapping test data
+summary: Test fixture mapping the BuiltInDnsClientEnabled policy to the async_dns.enabled local state pref, with per-OS default values for the simple policy pref mapping test.

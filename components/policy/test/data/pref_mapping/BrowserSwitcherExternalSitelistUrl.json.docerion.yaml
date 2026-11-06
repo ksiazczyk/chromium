@@ -1,0 +1,4 @@
+# Docerion header of BrowserSwitcherExternalSitelistUrl.json.
+type: test
+title: BrowserSwitcherExternalSitelistUrl policy pref mapping test
+summary: Policy pref mapping test data checking that BrowserSwitcherExternalSitelistUrl sets the browser_switcher.external_sitelist_url preference on Windows, Linux, Mac and Fuchsia.

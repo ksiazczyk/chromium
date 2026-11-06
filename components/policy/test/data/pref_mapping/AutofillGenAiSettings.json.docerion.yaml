@@ -1,0 +1,4 @@
+# Docerion header of AutofillGenAiSettings.json.
+type: test
+title: AutofillGenAiSettings policy pref mapping test data
+summary: Test data verifying how the AutofillGenAiSettings policy maps to autofill preferences and interacts with the GeminiSettings and GenAiDefaultSettings policies.

@@ -1,0 +1,4 @@
+# Docerion header of AccessibilityShortcutsEnabled.json.
+type: test
+title: AccessibilityShortcutsEnabled policy pref mapping test data
+summary: ChromeOS-only test data verifying the accessibility shortcuts policy maps to its preference and can be recommended.

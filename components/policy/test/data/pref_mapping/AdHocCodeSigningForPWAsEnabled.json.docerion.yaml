@@ -1,0 +1,4 @@
+# Docerion header of AdHocCodeSigningForPWAsEnabled.json.
+type: test
+title: AdHocCodeSigningForPWAsEnabled policy pref mapping test data
+summary: macOS-only test data verifying the ad hoc code signing for PWAs policy maps to a local state web apps preference.

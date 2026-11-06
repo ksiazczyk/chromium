@@ -1,0 +1,4 @@
+# Docerion header of AllowedDomainsForAppsList.json.
+type: test
+title: AllowedDomainsForAppsList policy pref mapping test data
+summary: Test data verifying that the AllowedDomainsForAppsList policy maps to the settings.allowed_domains_for_apps preference across Windows, Linux, Mac, ChromeOS, Android and Fuchsia.

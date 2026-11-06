@@ -1,0 +1,4 @@
+# Docerion header of BrowserGuestModeEnabled.json.
+type: test
+title: BrowserGuestModeEnabled pref mapping test data
+summary: Test data mapping the BrowserGuestModeEnabled policy to the profile.browser_guest_enabled local state pref on desktop platforms.

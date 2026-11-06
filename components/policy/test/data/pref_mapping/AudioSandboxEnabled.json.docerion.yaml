@@ -1,0 +1,4 @@
+# Docerion header of AudioSandboxEnabled.json.
+type: test
+title: AudioSandboxEnabled pref mapping test data
+summary: States that the AudioSandboxEnabled policy has no pref mapping test because it is applied directly through the policy service.

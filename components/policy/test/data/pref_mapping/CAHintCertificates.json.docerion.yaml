@@ -1,0 +1,4 @@
+# Docerion header of CAHintCertificates.json.
+type: test
+title: CAHintCertificates pref mapping test data
+summary: Test fixture mapping the CAHintCertificates policy to the certificates.ca_hint_certificates pref with single and multiple certificate lists.

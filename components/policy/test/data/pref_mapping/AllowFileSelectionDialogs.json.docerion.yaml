@@ -1,0 +1,4 @@
+# Docerion header of AllowFileSelectionDialogs.json.
+type: test
+title: AllowFileSelectionDialogs policy pref mapping test data
+summary: Test data mapping the AllowFileSelectionDialogs policy to the select_file_dialogs.allowed and download.prompt_for_download prefs across Windows, Mac, Linux, Fuchsia and Android.

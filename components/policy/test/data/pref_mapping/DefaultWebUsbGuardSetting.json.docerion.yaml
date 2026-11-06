@@ -1,0 +1,4 @@
+# Docerion header of DefaultWebUsbGuardSetting.json.
+type: test
+title: DefaultWebUsbGuardSetting pref mapping test data
+summary: Test data verifying that the DefaultWebUsbGuardSetting policy maps to the web_usb_guard content setting pref across six platforms.

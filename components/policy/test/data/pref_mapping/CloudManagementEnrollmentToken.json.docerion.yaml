@@ -1,0 +1,4 @@
+# Docerion header of CloudManagementEnrollmentToken.json.
+type: test
+title: CloudManagementEnrollmentToken pref mapping entry
+summary: Policy pref mapping entry for CloudManagementEnrollmentToken noting no test exists because the policy is used directly and not mapped to a pref.

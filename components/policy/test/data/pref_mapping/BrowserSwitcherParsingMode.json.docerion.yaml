@@ -1,0 +1,4 @@
+# Docerion header of BrowserSwitcherParsingMode.json.
+type: test
+title: BrowserSwitcherParsingMode policy pref mapping test
+summary: Policy pref mapping test data verifying BrowserSwitcherParsingMode maps to the browser_switcher.parsing_mode preference with values 0 and 1.

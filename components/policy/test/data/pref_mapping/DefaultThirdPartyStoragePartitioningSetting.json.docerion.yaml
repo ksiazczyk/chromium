@@ -1,0 +1,4 @@
+# Docerion header of DefaultThirdPartyStoragePartitioningSetting.json.
+type: test
+title: DefaultThirdPartyStoragePartitioningSetting pref mapping test data
+summary: Test data entry stating that the DefaultThirdPartyStoragePartitioningSetting policy was removed, so no pref mapping test applies.

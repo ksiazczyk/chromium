@@ -1,0 +1,4 @@
+# Docerion header of CertificateTransparencyEnforcementDisabledForUrls.json.
+type: test
+title: CertificateTransparencyEnforcementDisabledForUrls pref mapping test data
+summary: Test data checking the CertificateTransparencyEnforcementDisabledForUrls policy maps to the certificate_transparency.excluded_hosts pref across supported platforms.

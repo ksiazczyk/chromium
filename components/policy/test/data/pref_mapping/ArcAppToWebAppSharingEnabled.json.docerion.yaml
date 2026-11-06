@@ -1,0 +1,4 @@
+# Docerion header of ArcAppToWebAppSharingEnabled.json.
+type: test
+title: ArcAppToWebAppSharingEnabled pref mapping test data
+summary: Test data verifying that the ArcAppToWebAppSharingEnabled policy maps to the generated_webapks_enabled pref on ChromeOS.

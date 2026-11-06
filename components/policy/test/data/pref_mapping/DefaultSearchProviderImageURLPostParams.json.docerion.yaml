@@ -1,0 +1,4 @@
+# Docerion header of DefaultSearchProviderImageURLPostParams.json.
+type: test
+title: DefaultSearchProviderImageURLPostParams pref mapping test placeholder
+summary: Placeholder noting that no simple pref mapping test exists for the DefaultSearchProviderImageURLPostParams policy and pointing to the PolicyTest.DefaultSearchProvider browser test.

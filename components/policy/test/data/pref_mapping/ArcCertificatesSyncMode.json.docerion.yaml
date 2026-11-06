@@ -1,0 +1,4 @@
+# Docerion header of ArcCertificatesSyncMode.json.
+type: test
+title: ArcCertificatesSyncMode pref mapping test data
+summary: Test data placeholder for the ArcCertificatesSyncMode policy that currently only records a TODO to add the missing test case.

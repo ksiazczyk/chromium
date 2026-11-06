@@ -1,0 +1,4 @@
+# Docerion header of AutoLaunchProtocolsFromOrigins.json.
+type: test
+title: AutoLaunchProtocolsFromOrigins pref mapping test data
+summary: Test data mapping the AutoLaunchProtocolsFromOrigins policy to the protocol handler auto launch pref, keeping only entries with valid protocols and origins.

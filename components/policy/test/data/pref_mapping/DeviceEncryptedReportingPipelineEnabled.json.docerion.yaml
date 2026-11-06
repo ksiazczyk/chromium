@@ -1,0 +1,4 @@
+# Docerion header of DeviceEncryptedReportingPipelineEnabled.json.
+type: test
+title: DeviceEncryptedReportingPipelineEnabled pref mapping test data
+summary: Declares no pref mapping test for the DeviceEncryptedReportingPipelineEnabled policy because it maps into CrosSettings.

@@ -1,0 +1,4 @@
+# Docerion header of AndroidEntraSsoEnabled.json.
+type: test
+title: AndroidEntraSsoEnabled pref mapping test data
+summary: Test data verifying that the AndroidEntraSsoEnabled policy maps to the auth.android_entra_sso_enabled local state pref on Android.

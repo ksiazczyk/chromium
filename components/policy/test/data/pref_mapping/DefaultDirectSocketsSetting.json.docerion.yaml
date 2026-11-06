@@ -1,0 +1,4 @@
+# Docerion header of DefaultDirectSocketsSetting.json.
+type: test
+title: DefaultDirectSocketsSetting pref mapping test data
+summary: Policy pref mapping test data verifying the DefaultDirectSocketsSetting policy controls the direct sockets default content setting on desktop platforms.

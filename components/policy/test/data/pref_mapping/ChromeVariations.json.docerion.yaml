@@ -1,0 +1,4 @@
+# Docerion header of ChromeVariations.json.
+type: test
+title: ChromeVariations pref mapping test data
+summary: Test data mapping the ChromeVariations policy to the variations_restrictions_by_policy pref in local state with values 0 to 2.

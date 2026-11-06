@@ -1,0 +1,4 @@
+# Docerion header of ArcBackupRestoreServiceEnabled.json.
+type: test
+title: ArcBackupRestoreServiceEnabled pref mapping test data
+summary: Test data with multiple cases checking how the ArcBackupRestoreServiceEnabled policy values affect the arc.backup_restore.enabled pref on ChromeOS.

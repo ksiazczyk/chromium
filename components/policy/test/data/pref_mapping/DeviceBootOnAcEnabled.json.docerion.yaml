@@ -1,0 +1,4 @@
+# Docerion header of DeviceBootOnAcEnabled.json.
+type: test
+title: DeviceBootOnAcEnabled pref mapping test data
+summary: Test data mapping the DeviceBootOnAcEnabled policy to the ash.power.boot_on_ac_enabled pref on ChromeOS.

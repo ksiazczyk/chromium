@@ -1,0 +1,4 @@
+# Docerion header of BatterySaverModeAvailability.json.
+type: test
+title: BatterySaverModeAvailability pref mapping test data
+summary: Test data mapping BatterySaverModeAvailability policy values to battery saver prefs, with separate expectations for ChromeOS and other platforms.

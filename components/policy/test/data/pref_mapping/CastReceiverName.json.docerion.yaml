@@ -1,0 +1,4 @@
+# Docerion header of CastReceiverName.json.
+type: test
+title: CastReceiverName missing pref mapping test note
+summary: Placeholder recording that the CastReceiverName policy has no pref mapping test because it maps into CrosSettings.

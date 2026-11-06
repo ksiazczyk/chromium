@@ -1,0 +1,4 @@
+# Docerion header of BlockThirdPartyCookies.json.
+type: test
+title: BlockThirdPartyCookies pref mapping test data
+summary: Test data mapping the BlockThirdPartyCookies policy to the profile.cookie_controls_mode pref, covering enforced values and the unset default.

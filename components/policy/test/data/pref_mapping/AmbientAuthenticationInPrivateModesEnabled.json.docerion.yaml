@@ -1,0 +1,4 @@
+# Docerion header of AmbientAuthenticationInPrivateModesEnabled.json.
+type: test
+title: AmbientAuthenticationInPrivateModesEnabled pref mapping test data
+summary: Test data verifying that the AmbientAuthenticationInPrivateModesEnabled policy maps to the auth.ambient_auth_in_private_modes local state pref on Windows, Linux, Mac, ChromeOS and Fuchsia.

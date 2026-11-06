@@ -1,0 +1,4 @@
+# Docerion header of CAPlatformIntegrationEnabled.json.
+type: test
+title: CAPlatformIntegrationEnabled pref mapping test data
+summary: Test fixture mapping the CAPlatformIntegrationEnabled policy to the certificates.ca_platform_integration_enabled pref with true and false values.

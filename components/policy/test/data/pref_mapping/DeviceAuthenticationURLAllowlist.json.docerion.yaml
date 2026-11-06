@@ -1,0 +1,4 @@
+# Docerion header of DeviceAuthenticationURLAllowlist.json.
+type: test
+title: DeviceAuthenticationURLAllowlist pref mapping test data
+summary: Defines the ChromeOS signin profile pref mapping test for DeviceAuthenticationURLAllowlist, mapping it to policy.url_allowlist with sample URL values.

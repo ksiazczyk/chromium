@@ -1,0 +1,4 @@
+# Docerion header of BuiltInAIAPIsEnabled.json.
+type: test
+title: BuiltInAIAPIsEnabled policy pref mapping test
+summary: Policy pref mapping test data verifying BuiltInAIAPIsEnabled maps to the policy.built_in_ai_apis_enabled preference with true and false values.

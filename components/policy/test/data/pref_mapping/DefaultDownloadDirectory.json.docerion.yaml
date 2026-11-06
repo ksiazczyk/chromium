@@ -1,0 +1,4 @@
+# Docerion header of DefaultDownloadDirectory.json.
+type: test
+title: DefaultDownloadDirectory pref mapping test data
+summary: Policy pref mapping test data checking the DefaultDownloadDirectory policy sets the download and save file directory prefs, including recommended and mandatory cases.

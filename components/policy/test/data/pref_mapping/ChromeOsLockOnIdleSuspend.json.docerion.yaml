@@ -1,0 +1,4 @@
+# Docerion header of ChromeOsLockOnIdleSuspend.json.
+type: test
+title: ChromeOsLockOnIdleSuspend policy pref mapping test data
+summary: Test data checking the ChromeOsLockOnIdleSuspend policy maps to the settings.enable_screen_lock pref on ChromeOS and can be recommended.

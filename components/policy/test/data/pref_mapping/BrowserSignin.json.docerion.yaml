@@ -1,0 +1,4 @@
+# Docerion header of BrowserSignin.json.
+type: test
+title: BrowserSignin pref mapping test data
+summary: Test data with multiple cases checking how BrowserSignin policy values set signin and force-browser-signin prefs on desktop platforms and Android.

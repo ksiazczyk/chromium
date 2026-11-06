@@ -1,0 +1,4 @@
+# Docerion header of CloudManagementEnrollmentMandatory.json.
+type: test
+title: CloudManagementEnrollmentMandatory pref mapping test
+summary: Simple policy pref mapping test for CloudManagementEnrollmentMandatory, checking the local_state pref default and true/false values on desktop platforms.

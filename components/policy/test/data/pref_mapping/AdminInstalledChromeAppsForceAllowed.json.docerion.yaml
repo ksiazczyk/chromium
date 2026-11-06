@@ -1,0 +1,4 @@
+# Docerion header of AdminInstalledChromeAppsForceAllowed.json.
+type: test
+title: AdminInstalledChromeAppsForceAllowed pref mapping test data
+summary: Test data verifying that the AdminInstalledChromeAppsForceAllowed policy maps to the admin_installed_chrome_apps_force_allowed pref on ChromeOS.

@@ -1,0 +1,4 @@
+# Docerion header of ContentTransferEnablementStatus.json.
+type: test
+title: ContentTransferEnablementStatus policy pref mapping test data
+summary: ChromeOS test data verifying the ContentTransferEnablementStatus policy maps to the ash.graduation.enablement_status pref with enablement and date values.

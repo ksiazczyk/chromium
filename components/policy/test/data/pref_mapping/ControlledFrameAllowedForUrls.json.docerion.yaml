@@ -1,0 +1,4 @@
+# Docerion header of ControlledFrameAllowedForUrls.json.
+type: test
+title: ControlledFrameAllowedForUrls policy pref mapping test data
+summary: Test data verifying the ControlledFrameAllowedForUrls policy maps to the profile.managed_controlled_frame_allowed_for_urls pref on desktop platforms.

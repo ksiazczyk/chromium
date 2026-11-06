@@ -1,0 +1,4 @@
+# Docerion header of AutofillSettings.json.
+type: test
+title: AutofillSettings policy pref mapping test data
+summary: Test data verifying that the AutofillSettings policy maps URL patterns and blocked autofill types to the autofill.types_blocked preference.

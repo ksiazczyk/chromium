@@ -1,0 +1,4 @@
+# Docerion header of DefaultCookiesSetting.json.
+type: test
+title: DefaultCookiesSetting pref mapping test data
+summary: Policy pref mapping test data verifying the DefaultCookiesSetting policy controls the cookies default content setting across supported platforms.

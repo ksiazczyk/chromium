@@ -1,0 +1,4 @@
+# Docerion header of DeviceBatteryChargeCustomStopCharging.json.
+type: test
+title: DeviceBatteryChargeCustomStopCharging pref mapping test data
+summary: Test data mapping the DeviceBatteryChargeCustomStopCharging policy to the ash.power.battery_charge_custom_stop_charging pref on ChromeOS.

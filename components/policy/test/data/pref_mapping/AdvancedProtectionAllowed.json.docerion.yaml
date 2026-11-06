@@ -1,0 +1,4 @@
+# Docerion header of AdvancedProtectionAllowed.json.
+type: test
+title: AdvancedProtectionAllowed pref mapping test data
+summary: Test data verifying that the AdvancedProtectionAllowed policy maps to the safebrowsing.advanced_protection_allowed pref on desktop platforms and ChromeOS.

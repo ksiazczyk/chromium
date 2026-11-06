@@ -1,0 +1,4 @@
+# Docerion header of BrowserSwitcherEnabled.json.
+type: test
+title: BrowserSwitcherEnabled pref mapping test data
+summary: Test data verifying that the BrowserSwitcherEnabled policy maps to the browser_switcher.enabled pref on desktop platforms.

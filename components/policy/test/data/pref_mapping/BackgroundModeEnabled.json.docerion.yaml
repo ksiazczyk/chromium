@@ -1,0 +1,4 @@
+# Docerion header of BackgroundModeEnabled.json.
+type: test
+title: BackgroundModeEnabled pref mapping test data
+summary: Test data verifying that the BackgroundModeEnabled policy maps to the background_mode.enabled pref in local state, is recommendable, and applies on Windows and Linux.

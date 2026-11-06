@@ -1,0 +1,4 @@
+# Docerion header of AutoOpenFileTypes.json.
+type: test
+title: AutoOpenFileTypes policy pref mapping test data
+summary: Test data checking that the AutoOpenFileTypes policy maps to the download.extensions_to_open_by_policy preference and filters out invalid extension values.

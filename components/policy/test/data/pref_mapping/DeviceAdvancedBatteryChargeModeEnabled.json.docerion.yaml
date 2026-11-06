@@ -1,0 +1,4 @@
+# Docerion header of DeviceAdvancedBatteryChargeModeEnabled.json.
+type: test
+title: DeviceAdvancedBatteryChargeModeEnabled pref mapping test data
+summary: Defines pref mapping tests for DeviceAdvancedBatteryChargeModeEnabled, verifying the ash.power.advanced_battery_charge_mode_enabled local state pref on ChromeOS.

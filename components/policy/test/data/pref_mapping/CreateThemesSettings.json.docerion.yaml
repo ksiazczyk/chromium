@@ -1,0 +1,4 @@
+# Docerion header of CreateThemesSettings.json.
+type: test
+title: CreateThemesSettings pref mapping test data
+summary: Test data for the simple policy pref mapping test, mapping the CreateThemesSettings policy to the wallpaper search enterprise policy pref on desktop platforms.

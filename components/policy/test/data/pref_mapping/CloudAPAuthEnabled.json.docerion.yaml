@@ -1,0 +1,4 @@
+# Docerion header of CloudAPAuthEnabled.json.
+type: test
+title: CloudAPAuthEnabled pref mapping test
+summary: Simple policy pref mapping test for CloudAPAuthEnabled on Windows, checking the local_state pref auth.cloud_ap_auth.enabled with values 0 and 1.

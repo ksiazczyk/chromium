@@ -1,0 +1,4 @@
+# Docerion header of DefaultControlledFrameSetting.json.
+type: test
+title: DefaultControlledFrameSetting pref mapping test data
+summary: Policy pref mapping test data verifying the DefaultControlledFrameSetting policy controls the controlled frame default content setting.

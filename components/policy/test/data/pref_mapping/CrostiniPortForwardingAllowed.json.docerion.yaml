@@ -1,0 +1,4 @@
+# Docerion header of CrostiniPortForwardingAllowed.json.
+type: test
+title: CrostiniPortForwardingAllowed pref mapping test data
+summary: Test data verifying that the CrostiniPortForwardingAllowed policy maps to the crostini.port_forwarding_allowed_by_policy preference on ChromeOS with true and false values.

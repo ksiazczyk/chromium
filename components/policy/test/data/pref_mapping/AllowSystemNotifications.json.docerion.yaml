@@ -1,0 +1,4 @@
+# Docerion header of AllowSystemNotifications.json.
+type: test
+title: AllowSystemNotifications policy pref mapping test data
+summary: Test data mapping the AllowSystemNotifications policy to the system_notifications.allowed pref on Linux, with true and false values to test.

@@ -1,0 +1,4 @@
+# Docerion header of AutomaticFullscreenAllowedForUrls.json.
+type: test
+title: AutomaticFullscreenAllowedForUrls pref mapping test data
+summary: Test data verifying that the AutomaticFullscreenAllowedForUrls policy maps to the managed_automatic_fullscreen_allowed_for_urls pref, using isolated app and Google domain URL patterns.

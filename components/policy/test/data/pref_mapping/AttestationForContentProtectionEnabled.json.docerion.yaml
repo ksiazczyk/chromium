@@ -1,0 +1,4 @@
+# Docerion header of AttestationForContentProtectionEnabled.json.
+type: test
+title: AttestationForContentProtectionEnabled pref mapping test data
+summary: Test data placeholder explaining that the AttestationForContentProtectionEnabled policy maps into CrosSettings and therefore has no pref mapping test.

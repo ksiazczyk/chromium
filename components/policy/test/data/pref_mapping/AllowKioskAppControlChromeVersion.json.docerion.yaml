@@ -1,0 +1,4 @@
+# Docerion header of AllowKioskAppControlChromeVersion.json.
+type: test
+title: AllowKioskAppControlChromeVersion missing test note
+summary: Test data entry stating that no pref mapping test exists for AllowKioskAppControlChromeVersion because the policy is read directly by the update engine daemon.

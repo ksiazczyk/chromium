@@ -1,0 +1,4 @@
+# Docerion header of BrowserSwitcherKeepLastChromeTab.json.
+type: test
+title: BrowserSwitcherKeepLastChromeTab policy pref mapping test
+summary: Policy pref mapping test data verifying BrowserSwitcherKeepLastChromeTab maps to the browser_switcher.keep_last_tab preference with true and false values.

@@ -1,0 +1,4 @@
+# Docerion header of DeviceChannelDowngradeBehavior.json.
+type: test
+title: DeviceChannelDowngradeBehavior pref mapping test data
+summary: Marks the DeviceChannelDowngradeBehavior policy as lacking a pref mapping test because it maps into CrosSettings.

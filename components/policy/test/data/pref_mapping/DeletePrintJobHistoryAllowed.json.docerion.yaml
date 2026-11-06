@@ -1,0 +1,4 @@
+# Docerion header of DeletePrintJobHistoryAllowed.json.
+type: test
+title: DeletePrintJobHistoryAllowed pref mapping test data
+summary: Test data verifying that the DeletePrintJobHistoryAllowed policy maps to the printing.delete_print_job_history_allowed pref on ChromeOS.

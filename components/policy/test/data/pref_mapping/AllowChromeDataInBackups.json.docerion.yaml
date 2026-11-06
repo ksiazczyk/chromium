@@ -1,0 +1,4 @@
+# Docerion header of AllowChromeDataInBackups.json.
+type: test
+title: AllowChromeDataInBackups missing test note
+summary: Test data entry recording that no pref mapping test exists for AllowChromeDataInBackups because the policy maps to an iOS-specific preference.

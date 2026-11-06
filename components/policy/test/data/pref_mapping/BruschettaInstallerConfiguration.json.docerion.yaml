@@ -1,0 +1,4 @@
+# Docerion header of BruschettaInstallerConfiguration.json.
+type: test
+title: BruschettaInstallerConfiguration policy pref mapping test
+summary: ChromeOS policy pref mapping test data checking BruschettaInstallerConfiguration pref values, rejection of non-HTTPS learn-more URLs and default behaviour.

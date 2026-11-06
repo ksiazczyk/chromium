@@ -1,0 +1,4 @@
+# Docerion header of DeviceBatteryChargeCustomStartCharging.json.
+type: test
+title: DeviceBatteryChargeCustomStartCharging pref mapping test data
+summary: Test data mapping the DeviceBatteryChargeCustomStartCharging policy to the ash.power.battery_charge_custom_start_charging pref on ChromeOS.

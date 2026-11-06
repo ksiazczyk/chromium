@@ -1,0 +1,4 @@
+# Docerion header of ClientCertificateManagementAllowed.json.
+type: test
+title: ClientCertificateManagementAllowed pref mapping test
+summary: Simple policy pref mapping test for ClientCertificateManagementAllowed on ChromeOS, testing values 0 to 2 for the client_certificate_management_allowed pref.

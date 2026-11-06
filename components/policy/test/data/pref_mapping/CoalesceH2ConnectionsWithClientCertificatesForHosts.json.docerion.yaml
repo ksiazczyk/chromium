@@ -1,0 +1,4 @@
+# Docerion header of CoalesceH2ConnectionsWithClientCertificatesForHosts.json.
+type: test
+title: Pref mapping test data for H2 coalescing with client certificates
+summary: Test data mapping a policy to the H2 coalescing hosts list stored in local state, checking an example host value across all supported platforms.

@@ -1,0 +1,4 @@
+# Docerion header of BrowserLabsEnabled.json.
+type: test
+title: BrowserLabsEnabled pref mapping test data
+summary: Test data verifying that the BrowserLabsEnabled policy maps to the browser_labs_enabled pref on desktop platforms and ChromeOS.

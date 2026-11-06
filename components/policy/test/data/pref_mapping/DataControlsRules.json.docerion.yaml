@@ -1,0 +1,4 @@
+# Docerion header of DataControlsRules.json.
+type: test
+title: DataControlsRules pref mapping test data
+summary: Test data verifying that the DataControlsRules policy maps to the data_controls.rules preference with a sample clipboard blocking rule across several platforms.
