@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: config
+title: Caret Browsing extension manifest
+summary: Manifest for the Caret Browsing extension defining its localized name and description, version 1.1.0, background service worker, action icon and extension icons.

@@ -4,6 +4,12 @@
 
 /* main controls */
 
+/*docerion
+type: source
+title: Color enhancer extension setup page stylesheet
+summary: Stylesheet for the setup page of the Chromium color enhancer accessibility extension, laying out controls, swatches, and collapsible setup panels.
+*/
+
 th, td {
   text-align: center;
 }

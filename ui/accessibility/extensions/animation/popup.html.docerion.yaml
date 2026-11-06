@@ -1,0 +1,4 @@
+# Docerion header of popup.html.
+type: source
+title: Animation policy popup page
+summary: Popup interface with radio buttons letting the user choose an animation policy setting of allowed, once or none.

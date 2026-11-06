@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared settings and storage helpers
+// summary: Provides shared localStorage helpers for enablement, keyboard action, and default or per-site color scheme settings.
+// ---
+
 var DEFAULT_SCHEME = 3;
 var MAX_SCHEME = 5;
 

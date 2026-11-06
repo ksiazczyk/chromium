@@ -1,0 +1,4 @@
+# Docerion header of accessibility_extensions_strings_fr.xtb.
+type: data
+title: Accessibility extensions strings (French)
+summary: French translation bundle supplying localized strings for the accessibility extensions, covering caret browsing, animation settings and image alt text labels.

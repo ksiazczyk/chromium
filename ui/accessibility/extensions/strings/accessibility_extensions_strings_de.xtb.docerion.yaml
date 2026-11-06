@@ -1,0 +1,4 @@
+# Docerion header of accessibility_extensions_strings_de.xtb.
+type: data
+title: Accessibility extensions strings (German)
+summary: German translation bundle providing localized UI strings for Chrome accessibility extensions, including caret browsing, color adjustment, and image alt text viewer.

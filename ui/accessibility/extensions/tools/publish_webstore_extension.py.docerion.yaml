@@ -1,0 +1,4 @@
+# Docerion header of publish_webstore_extension.py.
+type: script
+title: Publish accessibility extensions to the Chrome Web Store
+summary: Command-line script that zips an unpacked extension, generates a webstore manifest, and uploads or publishes it to the Chrome Web Store.

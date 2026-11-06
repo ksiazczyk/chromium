@@ -1,0 +1,4 @@
+# Docerion header of README.chromium.
+type: readme
+title: Accessibility extensions README
+summary: Explains what the accessibility extensions are, how to build and test them, and how to publish updates to the Chrome Web Store.

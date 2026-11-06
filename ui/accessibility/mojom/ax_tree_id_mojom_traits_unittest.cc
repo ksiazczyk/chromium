@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AXTreeID Mojo traits unit tests
+// summary: Tests round-trip serialization and deserialization of empty, unknown, and token-based ui::AXTreeID values via Mojo.
+// ---
+
 #include "ui/accessibility/mojom/ax_tree_id_mojom_traits.h"
 #include "mojo/public/cpp/test_support/test_utils.h"
 #include "testing/gtest/include/gtest/gtest.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AXEventIntent Mojo traits unit tests
+// summary: Unit tests verifying round-trip serialization of ui::AXEventIntent through the Mojo EventIntent message for editing and selection intents.
+// ---
+
 #include "ui/accessibility/mojom/ax_event_intent_mojom_traits.h"
 
 #include "mojo/public/cpp/test_support/test_utils.h"

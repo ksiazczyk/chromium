@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXUpdatesAndEvents Mojo traits implementation
+// summary: Implements deserialization of AXUpdatesAndEvents Mojom structs into the ui::AXUpdatesAndEvents C++ type.
+// ---
+
 #include "ui/accessibility/mojom/ax_updates_and_events_mojom_traits.h"
 
 #include "ui/accessibility/mojom/ax_event_mojom_traits.h"

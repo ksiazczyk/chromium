@@ -1,0 +1,4 @@
+# Docerion header of ax_assistant_structure.mojom.
+type: source
+title: ax_assistant_structure.mojom
+summary: Defines Mojo structs for the assistant view tree, nodes, extra context and the combined AssistantStructure.

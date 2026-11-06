@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: High contrast extension shared storage and scheme helpers
+// summary: Shared helpers for the high contrast extension that manage enabled state, keyboard action, and default or per-site color schemes in chrome.storage.
+// ---
+
 export const MIN_SCHEME: number = 0;
 export const DEFAULT_SCHEME: number = 3;
 export const MAX_SCHEME: number = 5;

@@ -1,0 +1,4 @@
+# Docerion header of webstore_extension_util.py.
+type: source
+title: Chrome Web Store API utilities
+summary: Utility module handling OAuth authentication and upload, status, and publish requests against the Chrome Web Store API.

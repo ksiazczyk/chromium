@@ -1,0 +1,4 @@
+# Docerion header of ax_updates_and_events.mojom.
+type: source
+title: AXUpdatesAndEvents Mojom struct definition
+summary: Defines a struct bundling a tree ID with accessibility tree updates and events so they can be moved rather than copied.

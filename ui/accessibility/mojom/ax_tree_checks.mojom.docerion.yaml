@@ -1,0 +1,4 @@
+# Docerion header of ax_tree_checks.mojom.
+type: source
+title: AXTreeChecks Mojom struct definition
+summary: Defines the ax.mojom AXTreeChecks struct with a node count field, mirroring ui::AXTreeChecks for accessibility tree validation data.

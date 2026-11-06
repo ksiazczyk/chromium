@@ -1,0 +1,4 @@
+# Docerion header of accessibility_extensions_strings.grd.
+type: config
+title: Accessibility extensions string definitions
+summary: Grit resource file defining the localized messages for the accessibility extensions and the per-language messages.json outputs generated for each locale.

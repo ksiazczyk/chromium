@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Color enhancer popup logic
+// summary: Handles popup interactions, swatch-based setup steps and communication of settings to the background.
+// ---
+
 class Popup {
   constructor() {
     this.site;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Color enhancer background service worker
+// summary: Extension background script that injects color filter scripts into tabs and keeps tab settings in sync with stored values.
+// ---
+
 importScripts('./common.js', './cvd_type.js', './storage.js');
 Storage.initialize();
 

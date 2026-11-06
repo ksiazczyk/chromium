@@ -1,0 +1,4 @@
+# Docerion header of ax_location_and_scroll_updates.mojom.
+type: source
+title: AX location and scroll updates Mojom structs
+summary: Defines Mojom structs describing accessibility object location changes and scroll position changes grouped in AXLocationAndScrollUpdates.

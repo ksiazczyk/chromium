@@ -1,6 +1,13 @@
 // Copyright 2018 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: AXRelativeBounds Mojo StructTraits implementation
+// summary: Implements Mojo StructTraits that serialize and deserialize ui::AXRelativeBounds, handling its offset container id, bounds and optional transform.
+// ---
+
 #include "ui/accessibility/mojom/ax_relative_bounds_mojom_traits.h"
 
 namespace mojo {

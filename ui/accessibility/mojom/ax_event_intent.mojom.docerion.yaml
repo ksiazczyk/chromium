@@ -1,0 +1,4 @@
+# Docerion header of ax_event_intent.mojom.
+type: source
+title: AXEventIntent Mojom struct definition
+summary: Defines the ax.mojom EventIntent struct carrying accessibility command, input event type, text boundary and move direction for Mojo IPC.

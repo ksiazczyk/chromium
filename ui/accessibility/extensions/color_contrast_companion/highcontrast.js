@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: High contrast filter and CSS definitions
+// summary: Defines SVG filters and CSS templates for the high contrast color schemes handled by the extension.
+// ---
+
 var mode;
 var enabled = false;
 var scheme = '';

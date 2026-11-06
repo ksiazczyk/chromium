@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: config
+title: Color Contrast Companion extension manifest
+summary: Chrome extension manifest declaring the background script, browser action icons, permissions, and version 0.0.5.

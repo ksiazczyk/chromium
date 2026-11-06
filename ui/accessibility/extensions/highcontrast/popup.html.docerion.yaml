@@ -1,0 +1,4 @@
+# Docerion header of popup.html.
+type: source
+title: High contrast popup page
+summary: Popup page for the high contrast extension offering a toggle and radio buttons for normal, increased contrast, grayscale, inverted, and yellow-on-black schemes.

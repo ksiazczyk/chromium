@@ -1,0 +1,4 @@
+# Docerion header of ax_mode.mojom.
+type: reference
+title: AXMode Mojom struct definition
+summary: Defines the Mojo AXMode struct that carries bit-field flags controlling how much information the Chrome accessibility engine serializes.

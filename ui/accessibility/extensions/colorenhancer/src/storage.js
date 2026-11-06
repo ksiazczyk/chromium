@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension settings storage
+// summary: Wraps chrome.storage to cache and persist delta, severity, type, axis, simulate and enable values.
+// ---
+
 /**
  * Class to handle both storing values using the chrome.storage API, and
  * fetching/caching values that have been stored that way.

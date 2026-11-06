@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contrast analysis window logic
+// summary: Implements zooming of the screenshot, picking foreground and background pixels, and computing the WCAG contrast ratio.
+// ---
+
 var maxScale = 32;
 
 var scale = 4;

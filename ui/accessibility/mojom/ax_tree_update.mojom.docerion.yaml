@@ -1,0 +1,4 @@
+# Docerion header of ax_tree_update.mojom.
+type: source
+title: AXTreeUpdate Mojom struct definition
+summary: Defines the AXTreeUpdate Mojom struct carrying tree data, node lists, and event metadata for accessibility tree updates.

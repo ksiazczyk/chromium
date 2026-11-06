@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Assistant structure Mojom traits implementation
+// summary: Implements deserialization of AssistantTree and AssistantNode Mojo data, validating child indices to avoid cycles.
+// ---
+
 #include "ui/accessibility/mojom/ax_assistant_structure_mojom_traits.h"
 
 #include "mojo/public/cpp/base/string16_mojom_traits.h"

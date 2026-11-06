@@ -1,0 +1,4 @@
+# Docerion header of accessibility_extensions_strings_sr.xtb.
+type: data
+title: Accessibility extensions strings (Serbian, Cyrillic script)
+summary: Serbian Cyrillic translation bundle with localized UI strings for Chrome accessibility extensions, covering caret browsing, color filters, and alt text viewing.

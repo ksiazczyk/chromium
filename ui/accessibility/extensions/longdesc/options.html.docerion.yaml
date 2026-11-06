@@ -1,0 +1,4 @@
+# Docerion header of options.html.
+type: source
+title: Longdesc options page
+summary: Options page markup with a checkbox that lets users toggle borders around images with long descriptions.

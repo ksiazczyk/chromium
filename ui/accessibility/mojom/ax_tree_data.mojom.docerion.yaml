@@ -1,0 +1,4 @@
+# Docerion header of ax_tree_data.mojom.
+type: source
+title: AXTreeData Mojom struct definition
+summary: Defines the ax.mojom AXTreeData struct with tree ids, document metadata, focus and selection fields, mirroring ui::AXTreeData.

@@ -1,0 +1,4 @@
+# Docerion header of accessibility_extensions_strings_el.xtb.
+type: data
+title: Accessibility extensions strings (Greek)
+summary: Greek translation bundle with localized UI strings for Chrome accessibility extensions, covering caret browsing, color adjustment, animation policy, and image alt text viewer.

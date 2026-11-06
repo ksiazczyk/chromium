@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: High contrast extension service worker
+// summary: Service worker that injects the content script into open tabs on install and handles global and per-site toggle commands.
+// ---
+
 import {getDefaultScheme, getEnabled, getSiteScheme, isMacOS, MIN_SCHEME, setEnabled, setSiteScheme, siteFromUrl,} from './common.js';
 
 const injectContentScripts = async(): Promise<void> => {

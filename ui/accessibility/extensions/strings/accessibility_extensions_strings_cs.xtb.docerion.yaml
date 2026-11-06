@@ -1,0 +1,4 @@
+# Docerion header of accessibility_extensions_strings_cs.xtb.
+type: data
+title: Accessibility extensions strings (Czech)
+summary: Czech translation bundle with localized UI strings for Chrome accessibility extensions, including caret browsing, color filters, animation settings, and image alt text viewer.

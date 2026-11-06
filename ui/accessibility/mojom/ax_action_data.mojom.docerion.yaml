@@ -1,0 +1,4 @@
+# Docerion header of ax_action_data.mojom.
+type: source
+title: ax_action_data.mojom
+summary: Defines the Mojo struct AXActionData representing an accessibility action and its associated arguments.

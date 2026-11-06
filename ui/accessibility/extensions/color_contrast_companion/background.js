@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background script for screen capture
+// summary: Captures the desktop screen via chrome.desktopCapture and opens the contrast analysis popup with the resulting screenshot.
+// ---
+
 var stream = null;
 var ui = null;
 

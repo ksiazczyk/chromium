@@ -1,0 +1,4 @@
+# Docerion header of accessibility_extensions_strings_zh-TW.xtb.
+type: data
+title: Accessibility extensions strings in Traditional Chinese (zh-TW)
+summary: XML translation bundle with Traditional Chinese strings for accessibility extension features such as caret browsing, color adjustment and the alt text viewer.

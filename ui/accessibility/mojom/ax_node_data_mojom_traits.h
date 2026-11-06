@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXNodeData Mojom traits header
+// summary: Declares Mojo StructTraits mapping ui::AXNodeData and ui::AXBitset bool attributes to their ax.mojom message fields.
+// ---
+
 #ifndef UI_ACCESSIBILITY_MOJOM_AX_NODE_DATA_MOJOM_TRAITS_H_
 #define UI_ACCESSIBILITY_MOJOM_AX_NODE_DATA_MOJOM_TRAITS_H_
 

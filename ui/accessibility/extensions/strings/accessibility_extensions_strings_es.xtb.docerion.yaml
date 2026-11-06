@@ -1,0 +1,4 @@
+# Docerion header of accessibility_extensions_strings_es.xtb.
+type: data
+title: Accessibility extensions strings (Spanish)
+summary: Spanish translation bundle providing localized UI strings for Chrome accessibility extensions, covering caret browsing, color adjustment, animation policy, and image alt text viewer.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXEvent Mojo traits header
+// summary: Declares the Mojo StructTraits specialization mapping ui::AXEvent fields such as event type, id, origin and intents to the AXEvent message.
+// ---
+
 #ifndef UI_ACCESSIBILITY_MOJOM_AX_EVENT_MOJOM_TRAITS_H_
 #define UI_ACCESSIBILITY_MOJOM_AX_EVENT_MOJOM_TRAITS_H_
 

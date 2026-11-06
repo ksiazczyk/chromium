@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Matrix3x3 class
+// summary: Represents 3x3 matrices with construction, arithmetic operations and SVG matrix string output for the color filters.
+// ---
+
 /** Class that represents a 3x3 matrix. */
 class Matrix3x3 {
   /** @private */

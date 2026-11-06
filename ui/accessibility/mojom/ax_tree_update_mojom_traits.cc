@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXTreeUpdate Mojo traits implementation
+// summary: Implements deserialization of AXTreeUpdate Mojom structs into the ui::AXTreeUpdate C++ type.
+// ---
+
 #include "ui/accessibility/mojom/ax_tree_update_mojom_traits.h"
 
 namespace mojo {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AXTreeData Mojo traits serialization unit test
+// summary: Unit test that serializes and deserializes a fully populated ui::AXTreeData over Mojo and asserts every field round-trips unchanged.
+// ---
+
 #include "ui/accessibility/mojom/ax_tree_data_mojom_traits.h"
 #include "mojo/public/cpp/test_support/test_utils.h"
 #include "testing/gtest/include/gtest/gtest.h"

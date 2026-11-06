@@ -1,0 +1,4 @@
+# Docerion header of ax_event.mojom.
+type: source
+title: ax_event.mojom
+summary: Defines the Mojo struct AXEvent carrying an accessibility event type, source, intents and request id.

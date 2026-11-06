@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Color vision deficiency filter engine
+// summary: Implements CVD simulation and correction matrices and applies SVG color matrix filters to pages.
+// ---
+
 class CVD {
   constructor() {
     /** @private {number} */

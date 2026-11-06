@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: config
+title: Color Enhancer extension manifest
+summary: Chrome extension manifest defining the Color Enhancer extension's metadata, permissions, background service worker, popup, and content scripts.

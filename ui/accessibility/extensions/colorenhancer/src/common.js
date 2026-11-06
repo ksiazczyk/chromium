@@ -5,6 +5,12 @@
 // TODO(wnwen): Move most of these functions to their own page rather than
 //     common, which should be shared with content script.
 
+// ---docerion
+// type: source
+// title: Common utilities for the color enhancer extension
+// summary: Shared helper class offering DOM lookup, site extraction from URLs, disallowed URL checks and debug logging.
+// ---
+
 class Common {
   /**
    * TODO(wnwen): Remove this and use actual web API.

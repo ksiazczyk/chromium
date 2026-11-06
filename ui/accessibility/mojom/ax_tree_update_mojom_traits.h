@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXTreeUpdate Mojo traits header
+// summary: Declares StructTraits exposing ui::AXTreeUpdate fields to the AXTreeUpdate Mojom DataView for serialization.
+// ---
+
 #ifndef UI_ACCESSIBILITY_MOJOM_AX_TREE_UPDATE_MOJOM_TRAITS_H_
 #define UI_ACCESSIBILITY_MOJOM_AX_TREE_UPDATE_MOJOM_TRAITS_H_
 

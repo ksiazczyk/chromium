@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn accessibility mojom build configuration
+summary: GN build file defining the accessibility mojom bindings target, its sources, typemaps and dependencies.

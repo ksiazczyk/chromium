@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS review rules for mojom and traits files
+summary: Delegates review of mojom, mojom traits and typemap files in this directory to the IPC security owners.
