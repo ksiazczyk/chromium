@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UnexportableKeyTaskManager implementation
+// summary: Implements UnexportableKeyTaskManager, scheduling slow hardware key tasks with retries and reporting result and retry metrics.
+// ---
+
 #include "components/unexportable_keys/unexportable_key_task_manager.h"
 
 #include <memory>

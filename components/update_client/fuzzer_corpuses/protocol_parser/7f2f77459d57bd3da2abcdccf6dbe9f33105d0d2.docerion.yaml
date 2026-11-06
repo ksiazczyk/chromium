@@ -1,0 +1,4 @@
+# Docerion header of 7f2f77459d57bd3da2abcdccf6dbe9f33105d0d2.
+type: data
+title: Protocol parser fuzzer seed response
+summary: Fuzzer corpus seed containing a sample update protocol 3.1 response with a noupdate updatecheck used as valid parser input.

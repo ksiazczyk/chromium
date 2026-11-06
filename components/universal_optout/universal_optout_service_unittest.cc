@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Universal Opt Out service unit tests
+// summary: Unit tests for UniversalOptOutService covering eligibility from location history and account capabilities, feature parameters, geo overrides, and toggle state metrics.
+// ---
+
 #include "components/universal_optout/universal_optout_service.h"
 
 #include <memory>

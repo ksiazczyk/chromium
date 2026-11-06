@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proxied unexportable key service implementation
+// summary: Implements UnexportableKeyServiceProxied, forwarding key operations to a remote Mojo service and caching key metadata to support synchronous getters.
+// ---
+
 #include "components/unexportable_keys/mojom/unexportable_key_service_proxied.h"
 
 #include <cstdint>

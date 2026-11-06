@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Undo manager implementation
+// summary: Implements UndoGroup and UndoManager, including action grouping, suspension of undo tracking, and localized undo and redo labels.
+// ---
+
 #include "components/undo/undo_manager.h"
 
 #include <memory>

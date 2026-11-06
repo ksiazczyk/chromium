@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TaskSendPing task class declaration
+// summary: Declares the TaskSendPing task, which sends a one-off ping for a CRX component and reports completion or cancellation via callback.
+// ---
+
 #ifndef COMPONENTS_UPDATE_CLIENT_TASK_SEND_PING_H_
 #define COMPONENTS_UPDATE_CLIENT_TASK_SEND_PING_H_
 

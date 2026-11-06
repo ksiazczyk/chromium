@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Persisted Data Implementation
+// summary: Implements PersistedData, storing per-component update state such as roll call dates, cohorts, versions, fingerprints, and update throttling in preferences.
+// ---
+
 #include "components/update_client/persisted_data.h"
 
 #include <memory>

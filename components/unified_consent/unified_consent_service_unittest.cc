@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unified consent service unit tests
+// summary: Unit tests for UnifiedConsentService covering sync state transitions that enable or disable URL-keyed anonymized data collection, sign-in and sign-out flows, and ChromeOS migration.
+// ---
+
 #include "components/unified_consent/unified_consent_service.h"
 
 #include <map>

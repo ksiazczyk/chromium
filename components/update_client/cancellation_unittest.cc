@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cancellation unit tests
+// summary: Unit tests for the Cancellation class covering cancel callbacks, cancelling after registration, clearing, replacement of callbacks, and cancelled state checks.
+// ---
+
 #include "components/update_client/cancellation.h"
 
 #include "base/test/bind.h"

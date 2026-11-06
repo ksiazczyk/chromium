@@ -1,0 +1,4 @@
+# Docerion header of 82e93965bf304af1f407a14cf4e0303a20d74fe8.
+type: data
+title: 'Protocol serializer fuzzer seed: request with domain-joined flag'
+summary: Fuzzer corpus seed holding a serialized update request JSON with domainjoined and extra parameters but no app entries.

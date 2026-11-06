@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Update engine class declaration
+// summary: Declares UpdateEngine, which handles updates for a group of components sequentially while different groups run concurrently, with update, check, ping, and cancel APIs.
+// ---
+
 #ifndef COMPONENTS_UPDATE_CLIENT_UPDATE_ENGINE_H_
 #define COMPONENTS_UPDATE_CLIENT_UPDATE_ENGINE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Delivery Optimization downloader unit tests
+// summary: Unit tests for the Windows Delivery Optimization downloader, including stale download cleanup and retention of recent downloads.
+// ---
+
 #include "components/update_client/delivery_optimization_downloader_win.h"
 
 #include <objbase.h>

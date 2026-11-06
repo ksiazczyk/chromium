@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Universal Opt Out service implementation
+// summary: Implements the UniversalOptOutService that tracks location history over sliding windows and determines user eligibility for Universal Opt Out, using prefs, variations, and signin identity.
+// ---
+
 #include "components/universal_optout/universal_optout_service.h"
 
 #include <algorithm>

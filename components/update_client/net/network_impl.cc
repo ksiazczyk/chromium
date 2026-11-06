@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Update client network fetcher implementation
+// summary: Implements NetworkFetcherImpl, sending POST requests and downloading files via SimpleURLLoader for the component and extension updaters, with a traffic annotation.
+// ---
+
 #include "components/update_client/net/network_impl.h"
 
 #include <stddef.h>

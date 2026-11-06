@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PersistedData interface for update client preference data
+// summary: Declares PersistedData, a PrefService-backed store for per-component update data such as last check dates, install dates, cohorts, and ping freshness tokens.
+// ---
+
 #ifndef COMPONENTS_UPDATE_CLIENT_PERSISTED_DATA_H_
 #define COMPONENTS_UPDATE_CLIENT_PERSISTED_DATA_H_
 

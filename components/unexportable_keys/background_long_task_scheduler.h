@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background long task scheduler
+// summary: Declares a scheduler that runs long blocking background tasks one at a time with priorities, cancellation, and retry support.
+// ---
+
 #ifndef COMPONENTS_UNEXPORTABLE_KEYS_BACKGROUND_LONG_TASK_SCHEDULER_H_
 #define COMPONENTS_UNEXPORTABLE_KEYS_BACKGROUND_LONG_TASK_SCHEDULER_H_
 

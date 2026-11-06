@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unified consent service implementation
+// summary: Implements the keyed service that manages user consent, enabling or disabling URL-keyed anonymized data collection based on sync state transitions such as sign-in, history opt-in, and passphrase state.
+// ---
+
 #include "components/unified_consent/unified_consent_service.h"
 
 #include "base/check_op.h"

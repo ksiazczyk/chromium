@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for universal_optout
+summary: Lists the allowed include paths for the component, with extra rules permitting metrics and variations includes in unit tests.

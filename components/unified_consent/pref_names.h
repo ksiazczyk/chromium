@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unified consent preference name constants header
+// summary: Declares preference name constants for the unified consent migration state and the URL-keyed anonymized data collection setting, with guidance to use the consent helper instead of reading directly.
+// ---
+
 #ifndef COMPONENTS_UNIFIED_CONSENT_PREF_NAMES_H_
 #define COMPONENTS_UNIFIED_CONSENT_PREF_NAMES_H_
 

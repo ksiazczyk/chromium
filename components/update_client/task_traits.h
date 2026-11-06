@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Task traits for update_client thread pool tasks
+// summary: Defines constexpr base::TaskTraits constants for tasks posted from update_client, including background downloader and decompression traits.
+// ---
+
 #ifndef COMPONENTS_UPDATE_CLIENT_TASK_TRAITS_H_
 #define COMPONENTS_UPDATE_CLIENT_TASK_TRAITS_H_
 

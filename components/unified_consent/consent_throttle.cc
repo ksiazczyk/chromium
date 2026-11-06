@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConsentThrottle implementation
+// summary: Implements queuing of consent requests during helper initialization, fulfilling them on state change or after a timeout.
+// ---
+
 #include <algorithm>
 
 #include "components/unified_consent/consent_throttle.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock unexportable key service declaration
+// summary: Declares MockUnexportableKeyService, a GoogleMock subclass of UnexportableKeyService with mockable methods for key generation, signing, certification, deletion and key queries.
+// ---
+
 #ifndef COMPONENTS_UNEXPORTABLE_KEYS_MOCK_UNEXPORTABLE_KEY_SERVICE_H_
 #define COMPONENTS_UNEXPORTABLE_KEYS_MOCK_UNEXPORTABLE_KEY_SERVICE_H_
 

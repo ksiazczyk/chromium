@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows BITS background downloader class declaration
+// summary: Declares the Windows BackgroundDownloader that adapts the CrxDownloader interface to the BITS service with timer-driven polling.
+// ---
+
 #ifndef COMPONENTS_UPDATE_CLIENT_BACKGROUND_DOWNLOADER_WIN_H_
 #define COMPONENTS_UPDATE_CLIENT_BACKGROUND_DOWNLOADER_WIN_H_
 

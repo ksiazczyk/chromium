@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: JSON protocol parser unit tests
+// summary: Unit tests verifying parsing of valid and malformed JSON update responses, including hashes, sizes, and missing fields.
+// ---
+
 #include "components/update_client/protocol_parser_json.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UnzipChromiumFactory header
+// summary: Declares UnzipChromiumFactory, whose callback supplies a Mojo Unzipper remote used to create Unzipper instances for the update client.
+// ---
+
 #ifndef COMPONENTS_UPDATE_CLIENT_UNZIP_UNZIP_IMPL_H_
 #define COMPONENTS_UPDATE_CLIENT_UNZIP_UNZIP_IMPL_H_
 

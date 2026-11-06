@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Disk space check operation implementation
+// summary: Implements a pre-download disk space check that estimates required space for the update pipeline and fails with a disk-full error when space is insufficient.
+// ---
+
 #include "components/update_client/op_space_check.h"
 
 #include <stdint.h>

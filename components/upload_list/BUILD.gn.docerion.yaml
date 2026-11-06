@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Upload list build targets
+summary: Defines the upload_list static library and the unit_tests source set with their sources and dependencies for the GN build.

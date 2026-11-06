@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL Strip Handler Interface
+// summary: Defines the abstract URLStripHandler interface for stripping URL parameters that are not useful for disambiguating URLs.
+// ---
+
 #ifndef COMPONENTS_URL_DEDUPLICATION_URL_STRIP_HANDLER_H_
 #define COMPONENTS_URL_DEDUPLICATION_URL_STRIP_HANDLER_H_
 

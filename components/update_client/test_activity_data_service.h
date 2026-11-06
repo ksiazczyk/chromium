@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestActivityDataService class declaration
+// summary: Declares a test double for ActivityDataService that stores active bits and day counters in memory for update_client unit tests.
+// ---
+
 #ifndef COMPONENTS_UPDATE_CLIENT_TEST_ACTIVITY_DATA_SERVICE_H_
 #define COMPONENTS_UPDATE_CLIENT_TEST_ACTIVITY_DATA_SERVICE_H_
 

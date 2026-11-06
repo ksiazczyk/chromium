@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Update checker implementation for server update checks
+// summary: Implements UpdateChecker, which builds and sends update check requests to the update server and handles responses, errors, and fallback URLs.
+// ---
+
 #include "components/update_client/update_checker.h"
 
 #include <algorithm>

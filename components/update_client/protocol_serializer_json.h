@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JSON protocol serializer class declaration
+// summary: Declares ProtocolSerializerJSON, which serializes protocol requests to JSON, and the component-updater compat protocols command-line switch.
+// ---
+
 #ifndef COMPONENTS_UPDATE_CLIENT_PROTOCOL_SERIALIZER_JSON_H_
 #define COMPONENTS_UPDATE_CLIENT_PROTOCOL_SERIALIZER_JSON_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background task type histogram suffix implementation
+// summary: Maps BackgroundTaskType values such as key generation, signing and deletion to histogram suffix strings for metrics reporting.
+// ---
+
 #include "components/unexportable_keys/background_task_type.h"
 
 #include <string_view>

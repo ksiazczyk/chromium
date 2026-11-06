@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TextLogUploadList implementation
+// summary: Implements loading and parsing of upload logs in CSV or line-based JSON format, including time-range checks used when clearing entries.
+// ---
+
 #include "components/upload_list/text_log_upload_list.h"
 
 #include <algorithm>

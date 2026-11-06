@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Install operation implementation
+// summary: Implements the CRX install operation, unpacking and installing a downloaded CRX with optional caching, progress callbacks, and event reporting.
+// ---
+
 #include "components/update_client/op_install.h"
 
 #include <stdint.h>

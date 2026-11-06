@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background task priority enum definition
+// summary: Defines the ordered BackgroundTaskPriority enum for the unexportable key task manager, from internal minimum priority to user blocking, and declares its histogram suffix conversion.
+// ---
+
 #ifndef COMPONENTS_UNEXPORTABLE_KEYS_BACKGROUND_TASK_PRIORITY_H_
 #define COMPONENTS_UNEXPORTABLE_KEYS_BACKGROUND_TASK_PRIORITY_H_
 

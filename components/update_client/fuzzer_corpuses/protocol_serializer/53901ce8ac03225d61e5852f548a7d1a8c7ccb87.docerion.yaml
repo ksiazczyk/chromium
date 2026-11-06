@@ -1,0 +1,4 @@
+# Docerion header of 53901ce8ac03225d61e5852f548a7d1a8c7ccb87.
+type: data
+title: 'Protocol serializer fuzzer seed: minimal request without apps'
+summary: Fuzzer corpus seed holding a minimal serialized update request JSON without app entries for the protocol serializer.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Space Check Operation Unit Tests
+// summary: Unit tests verifying SpaceCheckOperation for full and diff updates with sufficient and insufficient disk space, including the emitted download error ping events.
+// ---
+
 #include "components/update_client/op_space_check.h"
 
 #include <stdint.h>

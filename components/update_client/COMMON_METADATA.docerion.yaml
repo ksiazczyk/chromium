@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Common metadata for the update client directory
+summary: Declares the bug tracker component, team email, and public buganizer component used for the update_client directory.

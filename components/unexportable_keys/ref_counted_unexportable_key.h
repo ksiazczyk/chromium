@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ref-counted wrappers for unexportable keys
+// summary: Declares RefCountedUnexportableSigningKey and RefCountedUnexportableAttestationKey, ref-counted wrappers around crypto keys that carry a unique id for fast comparison.
+// ---
+
 #ifndef COMPONENTS_UNEXPORTABLE_KEYS_REF_COUNTED_UNEXPORTABLE_KEY_H_
 #define COMPONENTS_UNEXPORTABLE_KEYS_REF_COUNTED_UNEXPORTABLE_KEY_H_
 

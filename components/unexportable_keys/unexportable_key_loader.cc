@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unexportable key loader implementation
+// summary: Implements UnexportableKeyLoader, which generates or unwraps a signing key via UnexportableKeyService and invokes queued callbacks once the key is loaded.
+// ---
+
 #include "components/unexportable_keys/unexportable_key_loader.h"
 
 #include <memory>

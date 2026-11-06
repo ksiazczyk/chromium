@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test configurator for update client unit tests
+// summary: Declares a Configurator test double with fixed component keys, update URLs, and delays used by update client unit tests.
+// ---
+
 #ifndef COMPONENTS_UPDATE_CLIENT_TEST_CONFIGURATOR_H_
 #define COMPONENTS_UPDATE_CLIENT_TEST_CONFIGURATOR_H_
 

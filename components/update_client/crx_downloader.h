@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrxDownloader chain-of-responsibility download interface
+// summary: Defines the CrxDownloader interface for downloading CRX components, retrying across fallback URLs and chaining successor downloaders until one succeeds.
+// ---
+
 #ifndef COMPONENTS_UPDATE_CLIENT_CRX_DOWNLOADER_H_
 #define COMPONENTS_UPDATE_CLIENT_CRX_DOWNLOADER_H_
 

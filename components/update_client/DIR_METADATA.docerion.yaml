@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for update client
+summary: Points the update_client directory to the shared COMMON_METADATA settings for tracking and ownership metadata.

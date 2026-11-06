@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URLDeduplicationHelper implementation
+// summary: Computes URL deduplication keys by applying strip handlers and strategy-based replacements such as prefix removal and clearing URL parts.
+// ---
+
 #include "components/url_deduplication/url_deduplication_helper.h"
 
 #include <memory>

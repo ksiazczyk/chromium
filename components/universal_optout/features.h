@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Universal Opt-Out feature declarations (features.h)
+// summary: Declares feature flags, field trial parameters and helper functions for Universal Opt-Out rollout and platform-specific eligibility.
+// ---
+
 #ifndef COMPONENTS_UNIVERSAL_OPTOUT_FEATURES_H_
 #define COMPONENTS_UNIVERSAL_OPTOUT_FEATURES_H_
 

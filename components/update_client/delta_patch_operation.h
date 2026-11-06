@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeltaPatchOperation class declaration
+// summary: Declares DeltaPatchOperation, which encapsulates cache lookup, patching, verification, and event reporting for puffin or zucchini delta updates.
+// ---
+
 #ifndef COMPONENTS_UPDATE_CLIENT_DELTA_PATCH_OPERATION_H_
 #define COMPONENTS_UPDATE_CLIENT_DELTA_PATCH_OPERATION_H_
 

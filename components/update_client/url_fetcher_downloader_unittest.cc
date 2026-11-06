@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UrlFetcherDownloader unit tests
+// summary: Unit tests for UrlFetcherDownloader, including download cancellation behavior via a stub network fetcher that completes with ERR_ABORTED.
+// ---
+
 #include "components/update_client/url_fetcher_downloader.h"
 
 #include <memory>

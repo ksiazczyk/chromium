@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cancellation class declaration
+// summary: Declares the Cancellation class used to interrupt and tear down ongoing update_client work in an orderly way.
+// ---
+
 #ifndef COMPONENTS_UPDATE_CLIENT_CANCELLATION_H_
 #define COMPONENTS_UPDATE_CLIENT_CANCELLATION_H_
 

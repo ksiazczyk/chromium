@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Protocol parser fuzzer
+// summary: Fuzz target that feeds arbitrary input to the JSON protocol parser to check parsing robustness.
+// ---
+
 #include "components/update_client/protocol_parser.h"
 
 #include <fuzzer/FuzzedDataProvider.h>

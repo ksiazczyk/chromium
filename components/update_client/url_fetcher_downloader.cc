@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL fetcher CRX downloader implementation
+// summary: Implements a CRX downloader that fetches update files to a temporary directory via NetworkFetcher, handling progress, cancellation, and error reporting.
+// ---
+
 #include "components/update_client/url_fetcher_downloader.h"
 
 #include <stdint.h>

@@ -1,0 +1,4 @@
+# Docerion header of 12ec209260d35248c3b28ba7417e013f2f2323f5.
+type: data
+title: 'Protocol serializer fuzzer seed: full update request with apps'
+summary: Fuzzer corpus seed holding a serialized update request JSON that exercises app, event, ping, and package fields of the protocol serializer.

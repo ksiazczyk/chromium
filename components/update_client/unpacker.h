@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CRX unpacker class for component updates
+// summary: Declares the Unpacker class that verifies CRX signatures, unzips component packages, and reports results through a callback.
+// ---
+
 #ifndef COMPONENTS_UPDATE_CLIENT_UNPACKER_H_
 #define COMPONENTS_UPDATE_CLIENT_UNPACKER_H_
 

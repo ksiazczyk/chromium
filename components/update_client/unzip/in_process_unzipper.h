@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-process unzipper factory header
+// summary: Declares InProcessUnzipperFactory, which creates an in-process Unzipper for testing environments or runtimes where multiprocess or Mojo is infeasible.
+// ---
+
 #ifndef COMPONENTS_UPDATE_CLIENT_UNZIP_IN_PROCESS_UNZIPPER_H_
 #define COMPONENTS_UPDATE_CLIENT_UNZIP_IN_PROCESS_UNZIPPER_H_
 

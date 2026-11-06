@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Update client utility declarations
+// summary: Declares update client helpers for CRX component ids, file hash verification, brand and installer attribute validation, manifest reading, and architecture detection.
+// ---
+
 #ifndef COMPONENTS_UPDATE_CLIENT_UTILS_H_
 #define COMPONENTS_UPDATE_CLIENT_UTILS_H_
 

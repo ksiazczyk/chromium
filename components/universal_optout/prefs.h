@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Universal Opt-Out preference keys (prefs.h)
+// summary: Defines preference key constants for eligibility history, overall eligibility state and the settings toggle, plus the registration function.
+// ---
+
 #ifndef COMPONENTS_UNIVERSAL_OPTOUT_PREFS_H_
 #define COMPONENTS_UNIVERSAL_OPTOUT_PREFS_H_
 

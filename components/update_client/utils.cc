@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Update client utility functions
+// summary: Implements helper utilities for the update client, such as file deletion, CRX id derivation, SHA-256 hash verification, and brand and installer attribute validation.
+// ---
+
 #include "components/update_client/utils.h"
 
 #include <stddef.h>

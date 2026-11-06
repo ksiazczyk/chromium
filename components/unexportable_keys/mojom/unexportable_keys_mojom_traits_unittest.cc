@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unexportable keys Mojo traits unit tests
+// summary: Unit tests that verify round-trip serialization of signature algorithms, background task priorities, signing and attestation key IDs, and attestation statements via Mojo traits.
+// ---
+
 #include "components/unexportable_keys/mojom/unexportable_keys_mojom_traits.h"
 
 #include "base/unguessable_token.h"

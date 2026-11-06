@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Update pipeline creation interface
+// summary: Declares MakePipeline, which builds the ordered operation pipeline that downloads, verifies, and installs a component update while reporting state and events.
+// ---
+
 #ifndef COMPONENTS_UPDATE_CLIENT_PIPELINE_H_
 #define COMPONENTS_UPDATE_CLIENT_PIPELINE_H_
 

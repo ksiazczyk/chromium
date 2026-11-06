@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UnexportableKeyLoader unit tests
+// summary: Unit tests for UnexportableKeyLoader covering synchronous and asynchronous key loading from wrapped keys, new key generation, and error states.
+// ---
+
 #include "components/unexportable_keys/unexportable_key_loader.h"
 
 #include <optional>

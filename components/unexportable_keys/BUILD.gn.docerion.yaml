@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Unexportable keys build targets
+summary: GN build file defining the unexportable_keys component, its test support sources, and unit test targets with their dependencies.

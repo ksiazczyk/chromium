@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Action runner unit tests
+// summary: Verifies that RunAction reports failure and skips the handler when the action file path is missing.
+// ---
+
 #include "components/update_client/action_runner.h"
 
 #include <string>

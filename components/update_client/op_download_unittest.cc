@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Download operation unit tests
+// summary: Unit tests for the download operation that use fake downloader chains to verify success, failure, cancellation, and metrics reporting.
+// ---
+
 #include "components/update_client/op_download.h"
 
 #include <stdint.h>

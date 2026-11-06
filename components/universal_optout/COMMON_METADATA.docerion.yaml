@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Common metadata for the universal_optout component
+summary: Declares the Privacy monorail component, team email address and public Buganizer component for this directory.

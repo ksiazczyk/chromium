@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS delegating to components/undo
+summary: Points to the components/undo OWNERS file so that directory inherits its ownership and review rules.

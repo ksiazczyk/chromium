@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Timed callback utility for update client
+// summary: Defines MakeTimedCallback, a template that wraps a callback with a timeout so the wrapped callback runs exactly once, either on call or on timeout.
+// ---
+
 #ifndef COMPONENTS_UPDATE_CLIENT_TIMED_CALLBACK_H_
 #define COMPONENTS_UPDATE_CLIENT_TIMED_CALLBACK_H_
 

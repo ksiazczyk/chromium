@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Update client error enums
+// summary: Defines error enums for update client operations, covering download, unpack, install, and service errors used in pings and UMA logging.
+// ---
+
 #ifndef COMPONENTS_UPDATE_CLIENT_UPDATE_CLIENT_ERRORS_H_
 #define COMPONENTS_UPDATE_CLIENT_UPDATE_CLIENT_ERRORS_H_
 

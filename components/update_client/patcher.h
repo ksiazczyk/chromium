@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Patcher Interface
+// summary: Defines the abstract Patcher and PatcherFactory interfaces for applying puffpatch and zucchini delta patches with a completion callback.
+// ---
+
 #ifndef COMPONENTS_UPDATE_CLIENT_PATCHER_H_
 #define COMPONENTS_UPDATE_CLIENT_PATCHER_H_
 

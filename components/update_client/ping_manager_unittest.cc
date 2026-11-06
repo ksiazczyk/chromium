@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for PingManager ping sending
+// summary: Parameterized tests verifying that PingManager sends correctly serialized pings for various components, languages, and events over intercepted network requests.
+// ---
+
 #include "components/update_client/ping_manager.h"
 
 #include <initializer_list>

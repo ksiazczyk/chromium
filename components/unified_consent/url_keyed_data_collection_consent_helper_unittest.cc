@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: URL-keyed data collection consent helper unit tests
+// summary: Unit tests verifying anonymized and personalized URL-keyed data collection consent helpers, covering consent state transitions and observer state-change notifications.
+// ---
+
 #include "components/unified_consent/url_keyed_data_collection_consent_helper.h"
 
 #include <vector>

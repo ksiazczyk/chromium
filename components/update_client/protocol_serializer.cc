@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Protocol serializer implementation
+// summary: Builds update protocol requests from client state, including OS, hardware, and updater attributes, plus extra update check headers.
+// ---
+
 #include "components/update_client/protocol_serializer.h"
 
 #include <stddef.h>

@@ -1,0 +1,4 @@
+# Docerion header of unexportable_key_service.mojom.
+type: source
+title: Mojom interface for the unexportable key service
+summary: Defines enums, structs, and the UnexportableKeyService interface for generating, loading, signing, certifying, and deleting unexportable keys over Mojo.

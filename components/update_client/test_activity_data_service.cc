@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestActivityDataService implementation
+// summary: Implements an in-memory ActivityDataService for tests, with helpers to synchronously set date-last data and read active bits from PersistedData.
+// ---
+
 #include "components/update_client/test_activity_data_service.h"
 
 #include <set>

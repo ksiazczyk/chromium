@@ -1,0 +1,4 @@
+# Docerion header of 7353c2d34a737bac0ea9dcb9a85cb768e4cfe914.
+type: data
+title: 'Protocol serializer fuzzer seed: four update request variants'
+summary: Fuzzer corpus seed combining four serialized update request JSON lines covering app, event, and domain-joined request variants.

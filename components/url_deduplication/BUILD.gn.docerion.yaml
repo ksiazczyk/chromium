@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the URL deduplication component
+summary: Defines the url_deduplication static library and its unit test source set, including source files and dependencies.

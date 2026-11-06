@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows Delivery Optimization downloader
+// summary: Implements a CrxDownloader adapter for the Windows Delivery Optimization service, chained ahead of BITS and the URL fetcher, with polling and stale download cleanup.
+// ---
+
 #include "components/update_client/delivery_optimization_downloader_win.h"
 
 #include <objbase.h>

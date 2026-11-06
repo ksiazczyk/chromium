@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Bug tracker metadata for the undo component
+summary: Maps the undo component to the Internals monorail component and a public Buganizer component for issue tracking.

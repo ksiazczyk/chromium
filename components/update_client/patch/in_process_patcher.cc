@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-process patcher implementation
+// summary: Implements an in-process Patcher that applies puffin and zucchini patches directly through library calls, created by InProcessPatcherFactory.
+// ---
+
 #include "components/update_client/patch/in_process_patcher.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL-keyed data collection consent helper header
+// summary: Declares the consent helper class with factory methods for checking anonymized, personalized, and bookmarks URL-keyed data collection consent, plus observer registration.
+// ---
+
 #ifndef COMPONENTS_UNIFIED_CONSENT_URL_KEYED_DATA_COLLECTION_CONSENT_HELPER_H_
 #define COMPONENTS_UNIFIED_CONSENT_URL_KEYED_DATA_COLLECTION_CONSENT_HELPER_H_
 

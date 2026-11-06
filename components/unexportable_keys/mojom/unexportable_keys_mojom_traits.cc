@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unexportable keys Mojo traits implementation
+// summary: Implements Mojo EnumTraits and StructTraits conversions between crypto and unexportable_keys types such as signature algorithms, task priorities, service errors, key IDs and attestation statements.
+// ---
+
 #include "components/unexportable_keys/mojom/unexportable_keys_mojom_traits.h"
 
 #include "base/notreached.h"

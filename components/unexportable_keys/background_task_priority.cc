@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background task priority histogram suffix implementation
+// summary: Maps BackgroundTaskPriority values to histogram suffix strings used for metrics reporting in the unexportable keys component.
+// ---
+
 #include "components/unexportable_keys/background_task_priority.h"
 
 #include <string_view>

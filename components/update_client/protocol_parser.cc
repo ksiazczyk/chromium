@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Protocol parser base implementation
+// summary: Implements the base ProtocolParser, handling parse setup, result storage, and error accumulation for update responses.
+// ---
+
 #include "components/update_client/protocol_parser.h"
 
 #include <string>

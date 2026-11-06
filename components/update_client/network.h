@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Update client network fetcher interface
+// summary: Declares the NetworkFetcher and NetworkFetcherFactory interfaces for posting update requests and downloading files, along with related HTTP header constants.
+// ---
+
 #ifndef COMPONENTS_UPDATE_CLIENT_NETWORK_H_
 #define COMPONENTS_UPDATE_CLIENT_NETWORK_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cancellation implementation
+// summary: Implements the Cancellation helper that runs registered interrupt closures when update operations are cancelled.
+// ---
+
 #include "components/update_client/cancellation.h"
 
 #include <utility>

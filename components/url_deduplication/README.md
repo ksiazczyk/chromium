@@ -1,3 +1,12 @@
+---
+type: readme
+title: URL Deduplication Component
+summary: Describes the component that deduplicates similar URLs and links to the DeduplicationStrategy and URLStripHandler interfaces.
+relations:
+  - documents /components/url_deduplication/deduplication_strategy.h
+  - documents /components/url_deduplication/url_strip_handler.h
+---
+
 # URL Deduplication Component
 
 Component that facilitates deduplication of similar urls based on a deduplication strategy for

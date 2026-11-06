@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Configurator interface for updater behavior
+// summary: Declares the abstract Configurator interface controlling component updater behavior, including check delays, update and ping URLs, product and channel info, and factory accessors.
+// ---
+
 #ifndef COMPONENTS_UPDATE_CLIENT_CONFIGURATOR_H_
 #define COMPONENTS_UPDATE_CLIENT_CONFIGURATOR_H_
 

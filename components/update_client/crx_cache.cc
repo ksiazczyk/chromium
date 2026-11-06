@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CRX cache implementation
+// summary: Implements the filesystem-backed CrxCache, storing files by hash with a metadata.json index and deleting files in the cache directory that lack metadata entries.
+// ---
+
 #include "components/update_client/crx_cache.h"
 
 #include <map>

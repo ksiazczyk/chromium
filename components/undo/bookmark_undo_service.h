@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BookmarkUndoService class declaration
+// summary: Declares BookmarkUndoService, a profile-owned KeyedService that observes BookmarkModel changes and exposes an UndoManager for undoing them.
+// ---
+
 #ifndef COMPONENTS_UNDO_BOOKMARK_UNDO_SERVICE_H_
 #define COMPONENTS_UNDO_BOOKMARK_UNDO_SERVICE_H_
 

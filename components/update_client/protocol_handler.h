@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Protocol handler factory interface
+// summary: Declares the abstract factory for creating update protocol parsers and serializers, with a JSON-specific implementation.
+// ---
+
 #ifndef COMPONENTS_UPDATE_CLIENT_PROTOCOL_HANDLER_H_
 #define COMPONENTS_UPDATE_CLIENT_PROTOCOL_HANDLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ConsentThrottle unit tests
+// summary: Verifies synchronous answers for initialized helpers, expiry of queued requests after timeout, and fulfillment on initialization.
+// ---
+
 #include "components/unified_consent/consent_throttle.h"
 #include <memory>
 

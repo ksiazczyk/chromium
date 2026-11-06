@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Update pipeline implementation for component operations
+// summary: Implements the Pipeline class and MakePipeline, sequencing download, patch, verify, and install operations for an update with fallback and cancellation support.
+// ---
+
 #include "components/update_client/pipeline.h"
 
 #include <stdint.h>

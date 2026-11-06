@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Delta patch operation implementation
+// summary: Implements the common logic for applying delta patches, handling CRX cache lookups, background patching, verification, cleanup, and event pings.
+// ---
+
 #include "components/update_client/delta_patch_operation.h"
 
 #include <stdint.h>

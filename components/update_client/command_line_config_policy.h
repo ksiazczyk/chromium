@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CommandLineConfigPolicy interface
+// summary: Declares an interface that supplies command-line-derived settings like background downloads, delta updates, pings, test requests, URL override, and initial delay to the configurator.
+// ---
+
 #ifndef COMPONENTS_UPDATE_CLIENT_COMMAND_LINE_CONFIG_POLICY_H_
 #define COMPONENTS_UPDATE_CLIENT_COMMAND_LINE_CONFIG_POLICY_H_
 

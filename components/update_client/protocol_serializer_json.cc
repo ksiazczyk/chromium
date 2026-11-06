@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JSON protocol serializer implementation
+// summary: Serializes update check protocol requests into the JSON wire format, including updater, hardware, OS, and app attributes.
+// ---
+
 #include "components/update_client/protocol_serializer_json.h"
 
 #include <memory>

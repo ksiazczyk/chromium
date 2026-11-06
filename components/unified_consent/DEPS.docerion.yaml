@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the unified_consent directory
+summary: Lists the Chromium components whose headers this directory is allowed to depend on.

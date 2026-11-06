@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UnexportableKeyServiceImpl unit tests
+// summary: Extensive unit tests for UnexportableKeyServiceImpl covering key generation, wrapped key import, signing, attestation, and spare key pool metrics.
+// ---
+
 #include "components/unexportable_keys/unexportable_key_service_impl.h"
 
 #include <cstdint>

@@ -1,3 +1,9 @@
+---
+type: readme
+title: Unified Consent component overview
+summary: Explains that the component provides a keyed service managing user consent, plus prefs and APIs for features to check consent.
+---
+
 The Unified Consent component contains the browser keyed service that
 manages user consent when the Unified Consent feature is enabled. It also
 holds the prefs and the APIs allowing the various Chromium features to verify if

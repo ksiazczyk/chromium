@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DocsURLStripHandler class declaration
+// summary: Declares a URLStripHandler implementation that removes extra parameters from Google Docs URLs.
+// ---
+
 #ifndef COMPONENTS_URL_DEDUPLICATION_DOCS_URL_STRIP_HANDLER_H_
 #define COMPONENTS_URL_DEDUPLICATION_DOCS_URL_STRIP_HANDLER_H_
 

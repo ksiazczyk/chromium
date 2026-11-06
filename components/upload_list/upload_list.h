@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UploadList interface and UploadInfo struct
+// summary: Declares the abstract UploadList API and the UploadInfo struct describing uploaded client-side data files, their states and metadata.
+// ---
+
 #ifndef COMPONENTS_UPLOAD_LIST_UPLOAD_LIST_H_
 #define COMPONENTS_UPLOAD_LIST_UPLOAD_LIST_H_
 

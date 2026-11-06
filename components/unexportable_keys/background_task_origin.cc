@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background task origin histogram suffix implementation
+// summary: Maps BackgroundTaskOrigin enum values such as refresh token binding and DBSC to histogram suffix strings for metrics reporting.
+// ---
+
 #include "components/unexportable_keys/background_task_origin.h"
 
 #include <string_view>

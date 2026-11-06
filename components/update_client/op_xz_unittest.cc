@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: XZ Operation Unit Tests
+// summary: Parameterized unit tests covering successful xz decoding, bad patch handling, and cancellation of XzOperation in both foreground and background scenarios.
+// ---
+
 #include "components/update_client/op_xz.h"
 
 #include <string>

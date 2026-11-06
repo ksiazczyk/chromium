@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Zucchini Patch Operation Declaration
+// summary: Declares ZucchiniOperation, which applies a zucchini patch and posts the patched file path or an error to the callback, deleting the patch file in either case.
+// ---
+
 #ifndef COMPONENTS_UPDATE_CLIENT_OP_ZUCCHINI_H_
 #define COMPONENTS_UPDATE_CLIENT_OP_ZUCCHINI_H_
 

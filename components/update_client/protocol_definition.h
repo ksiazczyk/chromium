@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Update protocol definitions
+// summary: Defines constants, event and result codes, and data structures for update protocol requests, including hardware, OS, updater, and app fields.
+// ---
+
 #ifndef COMPONENTS_UPDATE_CLIENT_PROTOCOL_DEFINITION_H_
 #define COMPONENTS_UPDATE_CLIENT_PROTOCOL_DEFINITION_H_
 

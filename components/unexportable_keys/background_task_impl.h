@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background task template implementation
+// summary: Template class implementing BackgroundTask with task and reply callbacks, retry limits, and elapsed-time tracking.
+// ---
+
 #ifndef COMPONENTS_UNEXPORTABLE_KEYS_BACKGROUND_TASK_IMPL_H_
 #define COMPONENTS_UNEXPORTABLE_KEYS_BACKGROUND_TASK_IMPL_H_
 

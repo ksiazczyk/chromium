@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Update client GN build targets
+summary: Defines the GN build targets for the update client library, including its network, unzip, and patch implementations and their dependencies.

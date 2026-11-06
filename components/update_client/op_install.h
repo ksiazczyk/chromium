@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Install operation declaration
+// summary: Declares InstallOperation, which installs a CRX file, optionally placing it in the CRX cache, and returns a cancellation callback.
+// ---
+
 #ifndef COMPONENTS_UPDATE_CLIENT_OP_INSTALL_H_
 #define COMPONENTS_UPDATE_CLIENT_OP_INSTALL_H_
 

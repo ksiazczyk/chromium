@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for update check extra request headers
+// summary: Tests building of the X-Goog-Update extra request headers, including app id joining and the 30-id limit.
+// ---
+
 #include "components/update_client/protocol_serializer.h"
 
 #include <string>

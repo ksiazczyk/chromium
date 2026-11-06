@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TaskCheckForUpdate task implementation
+// summary: Implements the update_client task that asks the update engine to check a single CRX id for updates, with support for cancellation and completion callbacks.
+// ---
+
 #include "components/update_client/task_check_for_update.h"
 
 #include <string>

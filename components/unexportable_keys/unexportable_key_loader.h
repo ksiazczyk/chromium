@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UnexportableKeyLoader header
+// summary: Declares UnexportableKeyLoader, a single-use helper that creates or restores an unexportable signing key and invokes registered callbacks once the key is loaded.
+// ---
+
 #ifndef COMPONENTS_UNEXPORTABLE_KEYS_UNEXPORTABLE_KEY_LOADER_H_
 #define COMPONENTS_UNEXPORTABLE_KEYS_UNEXPORTABLE_KEY_LOADER_H_
 

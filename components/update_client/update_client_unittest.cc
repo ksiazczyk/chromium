@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Update client unit tests
+// summary: Unit tests for the update client, covering update checks, downloads, installers, pings, and component state transitions using mock helpers and a test configurator.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

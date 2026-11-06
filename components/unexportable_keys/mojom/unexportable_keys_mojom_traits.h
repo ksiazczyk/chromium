@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unexportable keys Mojo traits declarations
+// summary: Declares Mojo EnumTraits and StructTraits specializations that map unexportable_keys and crypto types to their Mojom equivalents for serialization over IPC.
+// ---
+
 #ifndef COMPONENTS_UNEXPORTABLE_KEYS_MOJOM_UNEXPORTABLE_KEYS_MOJOM_TRAITS_H_
 #define COMPONENTS_UNEXPORTABLE_KEYS_MOJOM_UNEXPORTABLE_KEYS_MOJOM_TRAITS_H_
 

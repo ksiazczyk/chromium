@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the undo component
+summary: Defines the static library for the undo component and the unit test source set, listing their sources and dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Action runner header
+// summary: Declares RunAction, which executes an action for an installed file and returns a cancellation callback.
+// ---
+
 #ifndef COMPONENTS_UPDATE_CLIENT_ACTION_RUNNER_H_
 #define COMPONENTS_UPDATE_CLIENT_ACTION_RUNNER_H_
 

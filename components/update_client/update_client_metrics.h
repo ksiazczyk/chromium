@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Update client metrics declarations
+// summary: Declares functions for recording update client metrics such as download times, CUP validation results, and downloader outcomes.
+// ---
+
 #ifndef COMPONENTS_UPDATE_CLIENT_UPDATE_CLIENT_METRICS_H_
 #define COMPONENTS_UPDATE_CLIENT_UPDATE_CLIENT_METRICS_H_
 

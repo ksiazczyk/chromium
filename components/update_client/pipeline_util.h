@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Update operation event helper declarations
+// summary: Declares MakeSimpleOperationEvent overloads that turn pipeline operation results and categorized errors into simple protocol event dictionaries.
+// ---
+
 #ifndef COMPONENTS_UPDATE_CLIENT_PIPELINE_UTIL_H_
 #define COMPONENTS_UPDATE_CLIENT_PIPELINE_UTIL_H_
 

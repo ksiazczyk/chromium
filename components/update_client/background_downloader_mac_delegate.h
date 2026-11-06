@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS download delegate declarations
+// summary: Declares the UpdateClientDownloadDelegate NSURLSession delegate and URL helpers used by the macOS background downloader.
+// ---
+
 #ifndef COMPONENTS_UPDATE_CLIENT_BACKGROUND_DOWNLOADER_MAC_DELEGATE_H_
 #define COMPONENTS_UPDATE_CLIENT_BACKGROUND_DOWNLOADER_MAC_DELEGATE_H_
 

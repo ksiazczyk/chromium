@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ref-counted unexportable keys
+// summary: Unit tests verifying that ref-counted signing and attestation key wrappers expose the wrapped key and a non-empty unique id.
+// ---
+
 #include "components/unexportable_keys/ref_counted_unexportable_key.h"
 
 #include <memory>

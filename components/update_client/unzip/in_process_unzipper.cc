@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-process unzipper implementation for update client
+// summary: Implements the in-process Unzipper and its factory, unzipping archives directly through the zip library and decoding Xz files without Mojo abstractions.
+// ---
+
 #include "components/update_client/unzip/in_process_unzipper.h"
 
 #include <utility>

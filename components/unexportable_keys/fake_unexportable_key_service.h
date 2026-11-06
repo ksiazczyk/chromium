@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake unexportable key service class declaration
+// summary: Declares FakeUnexportableKeyService, a test fake of UnexportableKeyService whose methods all fail with an error result.
+// ---
+
 #ifndef COMPONENTS_UNEXPORTABLE_KEYS_FAKE_UNEXPORTABLE_KEY_SERVICE_H_
 #define COMPONENTS_UNEXPORTABLE_KEYS_FAKE_UNEXPORTABLE_KEY_SERVICE_H_
 

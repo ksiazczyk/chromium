@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the unified_consent directory
+summary: Lists the Chromium code owners responsible for reviewing changes in this directory.

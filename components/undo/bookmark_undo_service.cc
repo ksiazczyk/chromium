@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark undo service implementation
+// summary: Implements undo and redo operations for bookmark additions, removals, moves, edits and reorders within the BookmarkUndoService.
+// ---
+
 #include "components/undo/bookmark_undo_service.h"
 
 #include <stddef.h>

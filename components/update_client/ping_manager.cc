@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PingManager implementation for sending update events
+// summary: Implements PingManager, which serializes component update events into a protocol request and sends the resulting ping to the configured update server URLs.
+// ---
+
 #include "components/update_client/ping_manager.h"
 
 #include <memory>

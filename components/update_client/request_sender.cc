@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Request sender implementation
+// summary: Implements sending update check requests to a list of URLs with CUP signing, URL fallback, and retry-after handling.
+// ---
+
 #include "components/update_client/request_sender.h"
 
 #include <stdint.h>

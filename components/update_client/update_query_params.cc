@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Update query parameters generation
+// summary: Builds the URL query parameters for update requests, deriving OS, architecture, and product identifiers from build configuration and branding flags.
+// ---
+
 #include "components/update_client/update_query_params.h"
 
 #include "base/check.h"

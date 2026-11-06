@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Protocol request structure definitions
+// summary: Defines constructors and destructors for the protocol request structs such as OS, Updater, UpdateCheck, Data, Ping, App, and Request used in update requests.
+// ---
+
 #include "components/update_client/protocol_definition.h"
 
 #include <string>

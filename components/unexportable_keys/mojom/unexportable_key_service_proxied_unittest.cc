@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the proxied unexportable key service
+// summary: Tests UnexportableKeyServiceProxied behavior for key generation, loading, signing, certification, deletion, and error handling over a mock Mojo connection.
+// ---
+
 #include "components/unexportable_keys/mojom/unexportable_key_service_proxied.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for unexportable key identifiers
+// summary: Unit tests covering default construction, conversion rules between signing and attestation key ids, equality semantics and hash map integration.
+// ---
+
 #include "components/unexportable_keys/unexportable_key_id.h"
 
 #include <concepts>

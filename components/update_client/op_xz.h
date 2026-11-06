@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XZ Decode Operation Declaration
+// summary: Declares XzOperation, which decodes the streams of an xz file and posts the resulting file path or an error to the callback, deleting the input file in either case.
+// ---
+
 #ifndef COMPONENTS_UPDATE_CLIENT_OP_XZ_H_
 #define COMPONENTS_UPDATE_CLIENT_OP_XZ_H_
 

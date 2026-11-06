@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unified consent metrics implementation
+// summary: Records UMA histograms for the Make Searches and Browsing Better setting on profile load and for sync data types turned off during the advanced sync opt-in flow.
+// ---
+
 #include "components/unified_consent/unified_consent_metrics.h"
 
 #include <utility>

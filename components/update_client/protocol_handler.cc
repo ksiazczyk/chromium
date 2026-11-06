@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JSON protocol handler factory
+// summary: Implements the JSON protocol handler factory that creates the update protocol parser and serializer instances.
+// ---
+
 #include "components/update_client/protocol_handler.h"
 
 #include "components/update_client/protocol_parser_json.h"

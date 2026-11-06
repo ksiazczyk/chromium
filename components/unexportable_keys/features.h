@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unexportable keys feature flag declarations
+// summary: Declares feature flags controlling software-backed keys for manual testing, garbage collection and deletion of obsolete keys, and in-memory spare key pooling.
+// ---
+
 #ifndef COMPONENTS_UNEXPORTABLE_KEYS_FEATURES_H_
 #define COMPONENTS_UNEXPORTABLE_KEYS_FEATURES_H_
 

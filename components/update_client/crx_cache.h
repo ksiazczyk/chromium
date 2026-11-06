@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CRX cache interface
+// summary: Declares the CrxCache class, a filesystem-backed cache keyed by hash that keeps one cached element per app ID and supports put, get by hash, and removal operations.
+// ---
+
 #ifndef COMPONENTS_UPDATE_CLIENT_CRX_CACHE_H_
 #define COMPONENTS_UPDATE_CLIENT_CRX_CACHE_H_
 

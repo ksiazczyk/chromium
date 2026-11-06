@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Universal Opt-Out feature flags and parameters (features.cc)
+// summary: Defines base::Feature flags and field trial parameters controlling Universal Opt-Out rollout, target locations and eligibility windows.
+// ---
+
 #include "components/universal_optout/features.h"
 
 #include <string>

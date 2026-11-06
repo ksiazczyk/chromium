@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Internal UpdateClient implementation header
+// summary: Declares UpdateClientImpl, the internal class managing task queues, observers, pending cancellations, and update engine interaction.
+// ---
+
 #ifndef COMPONENTS_UPDATE_CLIENT_UPDATE_CLIENT_INTERNAL_H_
 #define COMPONENTS_UPDATE_CLIENT_UPDATE_CLIENT_INTERNAL_H_
 

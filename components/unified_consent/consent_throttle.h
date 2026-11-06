@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConsentThrottle class declaration
+// summary: Declares a throttle that holds consent requests while the consent helper initializes and answers them synchronously once ready.
+// ---
+
 #ifndef COMPONENTS_UNIFIED_CONSENT_CONSENT_THROTTLE_H_
 #define COMPONENTS_UNIFIED_CONSENT_CONSENT_THROTTLE_H_
 

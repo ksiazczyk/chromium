@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: URL loader POST interceptor implementation for update client tests
+// summary: Implements a test helper that intercepts POST requests, counts and captures them, and serves canned responses from a queue of expectations.
+// ---
+
 #include "components/update_client/net/url_loader_post_interceptor.h"
 
 #include <stddef.h>

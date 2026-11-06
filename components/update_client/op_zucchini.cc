@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Zucchini Patch Operation Implementation
+// summary: Implements ZucchiniOperation, which applies a zucchini delta patch through a DeltaPatchOperation using the patcher and crx cache while emitting zucchini events.
+// ---
+
 #include "components/update_client/op_zucchini.h"
 
 #include <string>

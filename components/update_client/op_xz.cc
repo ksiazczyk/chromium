@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XZ Decode Operation Implementation
+// summary: Implements XzOperation, which decodes xz streams to a destination file via the unzipper, deletes the input file, and reports operation events or unpack errors.
+// ---
+
 #include <memory>
 #include <optional>
 #include <string>

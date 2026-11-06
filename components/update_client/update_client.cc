@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Update client implementation
+// summary: Implements the UpdateClient facade, wiring the update engine, ping manager, and task queueing for install and update operations.
+// ---
+
 #include "components/update_client/update_client.h"
 
 #include <algorithm>

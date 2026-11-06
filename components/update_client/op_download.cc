@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download operation implementation
+// summary: Implements the CRX download operation, choosing between background and direct downloads and reporting download events, metrics, and errors.
+// ---
+
 #include "components/update_client/op_download.h"
 
 #include <stdint.h>

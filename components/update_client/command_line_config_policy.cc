@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Command line config policy implementation
+// summary: Implements default values of the CommandLineConfigPolicy interface, such as background downloads, delta updates, pings, test requests, URL override, and initial delay.
+// ---
+
 #include "components/update_client/command_line_config_policy.h"
 
 #include "base/time/time.h"

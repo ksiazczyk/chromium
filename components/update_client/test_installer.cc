@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test installer implementations for update client tests
+// summary: Implements TestInstaller, ReadOnlyTestInstaller, and VersionedTestInstaller that simulate component installation in update client tests.
+// ---
+
 #include "components/update_client/test_installer.h"
 
 #include <optional>

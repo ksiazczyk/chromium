@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UnexportableKeyServiceImpl implementation
+// summary: Implements UnexportableKeyService, including spare key pool management with delayed replenishment and UMA metrics for hardware-backed key operations.
+// ---
+
 #include "components/unexportable_keys/unexportable_key_service_impl.h"
 
 #include <algorithm>

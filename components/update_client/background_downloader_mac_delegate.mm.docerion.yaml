@@ -1,0 +1,4 @@
+# Docerion header of background_downloader_mac_delegate.mm.
+type: source
+title: macOS download delegate implementation
+summary: Implements the NSURLSession download delegate that moves finished downloads into the download cache and reports progress and metrics.

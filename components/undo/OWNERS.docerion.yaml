@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners of the undo component
+summary: Lists mastiz@chromium.org as the code owner for the undo component.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TaskUpdate task class declaration
+// summary: Declares the TaskUpdate task for updating a group of CRXs, with flags for foreground and install flows and a cancellation callback.
+// ---
+
 #ifndef COMPONENTS_UPDATE_CLIENT_TASK_UPDATE_H_
 #define COMPONENTS_UPDATE_CLIENT_TASK_UPDATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo-based unzipper implementation for update client
+// summary: Implements UnzipperImpl and UnzipChromiumFactory, which unzip and decode Xz files by delegating to the Mojo unzip service obtained via a callback.
+// ---
+
 #include "components/update_client/unzip/unzip_impl.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DocsURLStripHandler unit tests
+// summary: Tests that extra parameters are stripped from Google Docs URLs and that non-docs URLs are left empty.
+// ---
+
 #include "components/url_deduplication/docs_url_strip_handler.h"
 
 #include <memory>
