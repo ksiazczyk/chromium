@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for vector icons
+summary: Declares the allowed dependency include rules, permitting base, skia, and ui/gfx headers in this directory.

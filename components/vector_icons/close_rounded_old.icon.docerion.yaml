@@ -1,0 +1,4 @@
+# Docerion header of close_rounded_old.icon.
+type: asset
+title: Old rounded close icon
+summary: Legacy close icon definition with rounded corners, providing 32x32 stroke and 16x16 variants for 1x scale factor devices.

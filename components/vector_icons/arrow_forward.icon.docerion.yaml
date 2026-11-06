@@ -1,0 +1,4 @@
+# Docerion header of arrow_forward.icon.
+type: asset
+title: Forward arrow vector icon
+summary: Defines the forward arrow vector icon as path drawing commands on a 24dp canvas for Chrome's native UI.

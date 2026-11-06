@@ -1,0 +1,4 @@
+# Docerion header of fingerprint.icon.
+type: asset
+title: Fingerprint icon
+summary: Defines vector path data for the fingerprint icon used in Chrome UI.

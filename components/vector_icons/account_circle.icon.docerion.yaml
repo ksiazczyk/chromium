@@ -1,0 +1,4 @@
+# Docerion header of account_circle.icon.
+type: asset
+title: account_circle.icon
+summary: Vector icon definition drawing the account circle glyph using path commands on a 24dp canvas.

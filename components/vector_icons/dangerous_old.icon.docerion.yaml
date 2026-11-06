@@ -1,0 +1,4 @@
+# Docerion header of dangerous_old.icon.
+type: asset
+title: Old-style dangerous vector icon
+summary: Defines the old-style dangerous warning icon paths at 20 dp for Chrome UI.

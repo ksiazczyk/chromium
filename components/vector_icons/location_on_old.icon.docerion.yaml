@@ -1,0 +1,4 @@
+# Docerion header of location_on_old.icon.
+type: asset
+title: Legacy location on icon
+summary: Keeps the legacy 2015 pre-refresh location on icon path data, including a 16x16 canvas variant.

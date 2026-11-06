@@ -1,0 +1,4 @@
+# Docerion header of add_old.icon.
+type: asset
+title: Add icon, old variant
+summary: Defines vector path data for the legacy 16 pixel plus (add) icon.

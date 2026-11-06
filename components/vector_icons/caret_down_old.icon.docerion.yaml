@@ -1,0 +1,4 @@
+# Docerion header of caret_down_old.icon.
+type: asset
+title: Caret down vector icon (legacy)
+summary: Legacy stroke-based caret down icon definition providing two canvas variants, 32px and 16px, optimized for different scale factors.

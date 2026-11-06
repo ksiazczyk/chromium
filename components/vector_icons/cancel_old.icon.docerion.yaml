@@ -1,0 +1,4 @@
+# Docerion header of cancel_old.icon.
+type: asset
+title: Cancel vector icon (legacy)
+summary: Legacy vector icon definition of a circular cancel glyph on a 24x24 canvas, kept for the pre-refresh Chrome UI.

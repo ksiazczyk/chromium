@@ -1,0 +1,4 @@
+# Docerion header of lock_old.icon.
+type: asset
+title: Legacy lock icon
+summary: Keeps the legacy 2015 padlock icon path data from the pre-refresh Chrome UI.

@@ -1,0 +1,4 @@
+# Docerion header of cancel_filled.icon.
+type: asset
+title: Cancel filled vector icon
+summary: Vector icon definition drawing a filled cancel (X in a circle) glyph on a 24x24 canvas with nonzero fill rule for Chrome's UI.

@@ -1,0 +1,4 @@
+# Docerion header of certificate_old.icon.
+type: asset
+title: Certificate icon, old variant
+summary: Vector icon definition drawing a certificate glyph on a 20px canvas for Chrome's UI, kept as the legacy old variant.

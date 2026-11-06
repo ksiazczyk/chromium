@@ -1,0 +1,4 @@
+# Docerion header of cardboard_old.icon.
+type: asset
+title: Cardboard vector icon (legacy)
+summary: Legacy vector icon definition of the cardboard VR viewer glyph on a 20x20 canvas, kept for the pre-refresh Chrome UI.

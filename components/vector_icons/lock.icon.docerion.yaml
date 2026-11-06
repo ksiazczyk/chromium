@@ -1,0 +1,4 @@
+# Docerion header of lock.icon.
+type: asset
+title: Lock icon
+summary: Defines the vector path data for the outline padlock icon on a 24x24 canvas used in Chrome UI.

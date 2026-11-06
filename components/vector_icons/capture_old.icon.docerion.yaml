@@ -1,0 +1,4 @@
+# Docerion header of capture_old.icon.
+type: asset
+title: Capture vector icon (legacy)
+summary: Legacy vector icon definition of the capture glyph on a 20x20 canvas, used by the older Chrome UI.

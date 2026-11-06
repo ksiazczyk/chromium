@@ -1,0 +1,4 @@
+# Docerion header of info.icon.
+type: asset
+title: Info vector icon
+summary: Defines the vector path data for the 16 dp circular info icon used in Chrome UI.

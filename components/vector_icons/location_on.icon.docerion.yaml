@@ -1,0 +1,4 @@
+# Docerion header of location_on.icon.
+type: asset
+title: Location on icon
+summary: Defines the vector path data for the location pin (location on) icon on a 16x16 canvas used in Chrome UI.

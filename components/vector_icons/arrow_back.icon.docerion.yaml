@@ -1,0 +1,4 @@
+# Docerion header of arrow_back.icon.
+type: asset
+title: Back arrow vector icon
+summary: Defines the back arrow vector icon as path drawing commands on a 24dp canvas for Chrome's native UI.

@@ -1,0 +1,4 @@
+# Docerion header of location_off.icon.
+type: asset
+title: Location off icon
+summary: Defines the vector path data for the crossed-out location pin (location off) icon on a 20x20 canvas used in Chrome UI.

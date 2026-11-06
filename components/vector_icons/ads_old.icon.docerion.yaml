@@ -1,0 +1,4 @@
+# Docerion header of ads_old.icon.
+type: asset
+title: Ads vector icon, legacy variant
+summary: Defines the older ads vector icon as path drawing commands on a 16dp canvas.

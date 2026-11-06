@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: script
+# title: Vector icon aggregation script
+# summary: Build-time Python tool that reads .icon files and compiles them into C++ vector icon source and header files for Chrome.
+# ---
+
 import fileinput  # noqa: F401
 import glob  # noqa: F401
 import optparse
