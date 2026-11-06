@@ -1,0 +1,4 @@
+# Docerion header of aria-columnheader-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for aria-columnheader test
+summary: Expected Windows accessibility tree snapshot for the aria-columnheader test, showing column header, row and cell roles in a grid.

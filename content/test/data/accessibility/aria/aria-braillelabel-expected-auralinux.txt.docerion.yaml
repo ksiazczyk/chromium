@@ -1,0 +1,4 @@
+# Docerion header of aria-braillelabel-expected-auralinux.txt.
+type: test
+title: aria-braillelabel expected output for Linux accessibility
+summary: Expected Linux accessibility tree snapshot showing the braillelabel property on a check box element.

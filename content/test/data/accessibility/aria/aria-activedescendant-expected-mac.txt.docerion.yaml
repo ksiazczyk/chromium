@@ -1,0 +1,4 @@
+# Docerion header of aria-activedescendant-expected-mac.txt.
+type: test
+title: aria-activedescendant expected Mac tree
+summary: Expected Mac accessibility tree for the aria-activedescendant test with an AXMenu and its items.

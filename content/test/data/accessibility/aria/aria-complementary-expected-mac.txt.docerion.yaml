@@ -1,0 +1,4 @@
+# Docerion header of aria-complementary-expected-mac.txt.
+type: test
+title: aria-complementary expected macOS output
+summary: Expected macOS accessibility tree output for the ARIA complementary role test page.

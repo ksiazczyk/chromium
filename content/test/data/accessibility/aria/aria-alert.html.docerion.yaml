@@ -1,0 +1,4 @@
+# Docerion header of aria-alert.html.
+type: test
+title: aria-alert test page
+summary: HTML test page with a paragraph using role="alert" to verify alert role exposure, with per-platform allow comments for expected properties.

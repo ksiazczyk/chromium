@@ -14,6 +14,12 @@
      element unfocusable per HTML, and the target validation rejects
      non-focusable elements. This test asserts that end-to-end. -->
 
+<!--docerion
+type: test
+title: aria-actions visibility-hidden test page
+summary: Web test page checking that aria-actions targets hidden via visibility are dropped from the host's serialized action list.
+-->
+
 <!-- Case 1: visible target — expect the action to appear on the host. -->
 <div role="group" id="visible-host" aria-actions="visible-target">
   Host with visible target

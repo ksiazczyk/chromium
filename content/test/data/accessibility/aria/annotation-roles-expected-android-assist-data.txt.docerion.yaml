@@ -1,0 +1,4 @@
+# Docerion header of annotation-roles-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for annotation roles test
+summary: Expected Android assist data snapshot for the annotation roles accessibility test, showing comment, suggestion and mark roles in a WebView tree.

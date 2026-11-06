@@ -1,0 +1,4 @@
+# Docerion header of annotation-roles-expected-mac.txt.
+type: test
+title: Expected macOS accessibility output for annotation roles test
+summary: Expected macOS accessibility output for the annotation roles test with comment, suggestion and highlight roles.

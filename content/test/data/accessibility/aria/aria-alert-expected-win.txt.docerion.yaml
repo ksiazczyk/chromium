@@ -1,0 +1,4 @@
+# Docerion header of aria-alert-expected-win.txt.
+type: test
+title: aria-alert expected Windows accessibility tree
+summary: Expected Windows accessibility tree output for the ARIA alert role test, listing alert, live and atomic properties.

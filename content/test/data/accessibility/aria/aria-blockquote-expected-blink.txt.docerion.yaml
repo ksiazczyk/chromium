@@ -1,0 +1,4 @@
+# Docerion header of aria-blockquote-expected-blink.txt.
+type: test
+title: aria-blockquote expected Blink accessibility tree
+summary: Expected Blink internal accessibility tree for the aria blockquote test with the blockquote node and static text.

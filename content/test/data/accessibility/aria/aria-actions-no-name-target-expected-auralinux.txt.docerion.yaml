@@ -1,0 +1,4 @@
+# Docerion header of aria-actions-no-name-target-expected-auralinux.txt.
+type: test
+title: aria-actions no-name-target expected Linux output
+summary: Expected AT-SPI accessibility tree for the aria-actions no-name-target test, showing custom actions on tabs, panels and buttons on Linux.

@@ -1,0 +1,4 @@
+# Docerion header of aria-current-expected-auralinux.txt.
+type: test
+title: Expected Linux tree for aria-current
+summary: Expected Linux accessibility tree showing current states for elements with various aria-current values.

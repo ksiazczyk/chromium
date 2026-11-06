@@ -1,0 +1,4 @@
+# Docerion header of aria-col-row-index-undefined-expected-auralinux.txt.
+type: test
+title: Expected Linux tree for aria-col-row-index-undefined
+summary: Expected Linux ATK accessibility tree snapshot for the aria-col-row-index-undefined test with table cell row and column coordinates.

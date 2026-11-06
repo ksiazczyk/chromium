@@ -1,0 +1,4 @@
+# Docerion header of aria-col-row-index-undefined-expected-mac.txt.
+type: test
+title: Expected macOS tree for aria-col-row-index-undefined
+summary: Expected macOS accessibility tree snapshot for the aria-col-row-index-undefined test with AX cell row and column index attributes.

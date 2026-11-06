@@ -1,0 +1,4 @@
+# Docerion header of aria-actions-prohibited-roles-expected-mac.txt.
+type: test
+title: aria-actions-prohibited-roles expected output for macOS
+summary: Expected macOS accessibility tree for the aria-actions test checking that roles prohibiting actions do not expose them, while allowed button and link hosts do.

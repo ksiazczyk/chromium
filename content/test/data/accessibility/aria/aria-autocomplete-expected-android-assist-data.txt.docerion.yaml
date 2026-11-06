@@ -1,0 +1,4 @@
+# Docerion header of aria-autocomplete-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for the aria-autocomplete test
+summary: Expected Android assist data snapshot describing how combobox and text inputs with various aria-autocomplete values are exposed to assist technology.

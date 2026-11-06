@@ -1,0 +1,4 @@
+# Docerion header of aria-columnheader-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for aria-columnheader
+summary: Expected Android assist data output for the aria-columnheader test showing a grid with column headers Browser and Rendering Engine.

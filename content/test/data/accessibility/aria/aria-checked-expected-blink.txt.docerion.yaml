@@ -1,0 +1,4 @@
+# Docerion header of aria-checked-expected-blink.txt.
+type: test
+title: Aria checked expected Blink accessibility tree
+summary: Expected Blink internal accessibility tree snapshot for the aria-checked test covering true, false, and mixed checked states.

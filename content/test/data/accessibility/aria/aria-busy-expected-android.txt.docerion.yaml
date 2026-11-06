@@ -1,0 +1,4 @@
+# Docerion header of aria-busy-expected-android.txt.
+type: test
+title: aria-busy expected Android accessibility tree
+summary: Expected Android accessibility tree snapshot for the aria-busy test page, verifying live region and busy state exposure on log elements.

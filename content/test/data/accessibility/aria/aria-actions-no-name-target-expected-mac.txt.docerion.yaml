@@ -1,0 +1,4 @@
+# Docerion header of aria-actions-no-name-target-expected-mac.txt.
+type: test
+title: aria-actions-no-name-target expected output for macOS
+summary: Expected macOS accessibility tree for the aria-actions test where action targets lack accessible names, listing custom action names only for named targets.

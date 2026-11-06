@@ -1,0 +1,4 @@
+# Docerion header of aria-braillelabel-expected-win.txt.
+type: test
+title: aria-braillelabel expected output for Windows
+summary: Expected Windows accessibility tree snapshot showing the braillelabel property on a checkable element.

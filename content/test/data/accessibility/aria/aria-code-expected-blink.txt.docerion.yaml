@@ -1,0 +1,4 @@
+# Docerion header of aria-code-expected-blink.txt.
+type: test
+title: aria-code expected accessibility tree for Blink
+summary: Expected Blink accessibility tree output for the aria code role test, showing code elements with and without accessible names.

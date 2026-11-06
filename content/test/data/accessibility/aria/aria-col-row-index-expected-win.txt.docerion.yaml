@@ -1,0 +1,4 @@
+# Docerion header of aria-col-row-index-expected-win.txt.
+type: test
+title: Expected Windows tree for aria-col-row-index
+summary: Expected Windows MSAA and IAccessible2 accessibility tree snapshot for the aria-col-row-index test with row and column index properties.

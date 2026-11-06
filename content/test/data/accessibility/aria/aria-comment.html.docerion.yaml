@@ -1,0 +1,4 @@
+# Docerion header of aria-comment.html.
+type: test
+title: aria-comment
+summary: Test page exercising the comment role via element nesting, aria-owns and aria-level hierarchies plus aria-posinset and aria-setsize.

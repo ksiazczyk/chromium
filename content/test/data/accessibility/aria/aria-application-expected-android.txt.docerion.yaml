@@ -1,0 +1,4 @@
+# Docerion header of aria-application-expected-android.txt.
+type: test
+title: aria-application expected Android accessibility tree
+summary: Expected Android accessibility tree for the ARIA application role test, showing the WebView and a view with application role description.

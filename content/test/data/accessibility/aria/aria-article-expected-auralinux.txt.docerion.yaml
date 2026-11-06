@@ -1,0 +1,4 @@
+# Docerion header of aria-article-expected-auralinux.txt.
+type: test
+title: ARIA article expected Aura Linux output
+summary: Expected Aura Linux accessibility tree output for the ARIA article role test.

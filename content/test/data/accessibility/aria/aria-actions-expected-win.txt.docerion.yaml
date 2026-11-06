@@ -1,0 +1,4 @@
+# Docerion header of aria-actions-expected-win.txt.
+type: test
+title: Expected Windows IA2 accessibility tree for aria-actions
+summary: Expected MSAA/IA2 tree snapshot for the aria-actions test on Windows, showing page tabs with actions and toggle button states.

@@ -1,0 +1,4 @@
+# Docerion header of aria-button-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for the aria-button test
+summary: Expected Blink accessibility tree snapshot for the aria-button test page covering role=button, aria-pressed and aria-haspopup variants.

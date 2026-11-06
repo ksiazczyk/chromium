@@ -1,0 +1,4 @@
+# Docerion header of aria-blockquote-expected-mac.txt.
+type: test
+title: aria-blockquote expected macOS accessibility tree
+summary: Expected macOS accessibility tree for the aria blockquote test, listing the blockquote group and static text value.

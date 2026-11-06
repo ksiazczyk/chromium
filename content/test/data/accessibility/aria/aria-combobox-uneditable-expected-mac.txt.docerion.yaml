@@ -1,0 +1,4 @@
+# Docerion header of aria-combobox-uneditable-expected-mac.txt.
+type: test
+title: Expected Mac output for uneditable ARIA combobox
+summary: Expected macOS accessibility tree with AX attributes for the uneditable ARIA combobox test page.

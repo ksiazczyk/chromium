@@ -1,0 +1,4 @@
+# Docerion header of aria-code-expected-android-external.txt.
+type: test
+title: Aria code expected Android external view
+summary: Expected Android external accessibility tree snapshot for the aria code role test with actions and supplemental descriptions.

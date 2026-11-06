@@ -1,0 +1,4 @@
+# Docerion header of aria-actions-visibility-hidden-expected-uia-win.txt.
+type: test
+title: aria-actions visibility-hidden expected UIA-Win tree
+summary: Expected UIA-Win accessibility tree for the aria-actions visibility-hidden test, showing actions dropped for hidden targets.

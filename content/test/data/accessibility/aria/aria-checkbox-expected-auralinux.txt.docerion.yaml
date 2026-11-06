@@ -1,0 +1,4 @@
+# Docerion header of aria-checkbox-expected-auralinux.txt.
+type: test
+title: aria-checkbox expected AuraLinux tree
+summary: Expected AuraLinux accessibility tree snapshot for the aria-checkbox test page, including checked and indeterminate states.

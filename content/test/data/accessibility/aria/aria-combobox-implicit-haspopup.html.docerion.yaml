@@ -1,0 +1,4 @@
+# Docerion header of aria-combobox-implicit-haspopup.html.
+type: test
+title: ARIA combobox implicit haspopup test page
+summary: HTML test page with several combobox elements used to verify implicit haspopup accessibility behavior across platforms.

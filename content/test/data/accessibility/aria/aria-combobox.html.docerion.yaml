@@ -1,0 +1,4 @@
+# Docerion header of aria-combobox.html.
+type: test
+title: aria-combobox
+summary: Test page with combobox inputs using aria-owns, aria-activedescendant and listbox, grid and treegrid targets, with platform-specific accessibility annotations.

@@ -1,0 +1,4 @@
+# Docerion header of aria-col-row-index-undefined-expected-android-external.txt.
+type: test
+title: Expected Android external dump for aria-col-row-index-undefined
+summary: Expected Android external accessibility snapshot for the aria-col-row-index-undefined test with collection item row and column positions.

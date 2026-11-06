@@ -1,0 +1,4 @@
+# Docerion header of aria-button-expected-android-assist-data.txt.
+type: test
+title: aria-button expected Android assist data
+summary: Expected Android assist data snapshot for the aria-button test page, listing button roles, states, and HTML attribute info.

@@ -1,0 +1,4 @@
+# Docerion header of aria-button-expected-android-external.txt.
+type: test
+title: aria-button expected Android external tree
+summary: Expected external Android accessibility tree snapshot for the aria-button test, covering actions, roles, and popup button descriptions.

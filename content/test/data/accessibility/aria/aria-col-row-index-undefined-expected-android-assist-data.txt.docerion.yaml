@@ -1,0 +1,4 @@
+# Docerion header of aria-col-row-index-undefined-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for aria-col-row-index-undefined
+summary: Expected Android assist data snapshot for the aria-col-row-index-undefined test, showing aria-rowindex and aria-colindex values on views.

@@ -1,0 +1,4 @@
+# Docerion header of aria-alert-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for aria alert
+summary: Expected Android assist structure output for a page using the ARIA alert role.

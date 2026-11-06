@@ -1,0 +1,4 @@
+# Docerion header of aria-code-expected-mac.txt.
+type: test
+title: aria-code expected accessibility tree for macOS
+summary: Expected macOS AX accessibility tree output for the aria code role test, showing code groups and static text values.

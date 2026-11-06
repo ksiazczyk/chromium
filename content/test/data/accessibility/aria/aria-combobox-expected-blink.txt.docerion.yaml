@@ -1,0 +1,4 @@
+# Docerion header of aria-combobox-expected-blink.txt.
+type: test
+title: ARIA combobox expected accessibility tree (Blink)
+summary: Expected Blink accessibility tree snapshot for ARIA combobox test cases covering text fields with combobox roles, listbox options, grids and treegrids.

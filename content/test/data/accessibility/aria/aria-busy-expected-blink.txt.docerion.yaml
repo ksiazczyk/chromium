@@ -1,0 +1,4 @@
+# Docerion header of aria-busy-expected-blink.txt.
+type: test
+title: aria-busy expected Blink accessibility tree
+summary: Expected Blink internal accessibility tree snapshot for the aria-busy test, covering busy and container live busy flags.

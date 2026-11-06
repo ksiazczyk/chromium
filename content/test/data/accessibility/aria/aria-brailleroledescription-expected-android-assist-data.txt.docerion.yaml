@@ -1,0 +1,4 @@
+# Docerion header of aria-brailleroledescription-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for aria-brailleroledescription
+summary: Expected Android assist-data accessibility tree snapshot verifying how aria-brailleroledescription is exposed on checkbox elements.

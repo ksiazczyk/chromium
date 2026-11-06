@@ -1,0 +1,4 @@
+# Docerion header of aria-brailleroledescription-expected-mac.txt.
+type: test
+title: Expected Mac tree for aria-brailleroledescription
+summary: Expected macOS accessibility tree snapshot verifying AXBrailleRoleDescription exposure on checkbox elements.

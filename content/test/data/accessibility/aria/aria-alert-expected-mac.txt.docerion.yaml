@@ -1,0 +1,4 @@
+# Docerion header of aria-alert-expected-mac.txt.
+type: test
+title: Expected macOS output for aria alert
+summary: Expected macOS AX accessibility tree output for a page using the ARIA alert role.

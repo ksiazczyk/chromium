@@ -1,0 +1,4 @@
+# Docerion header of aria-checked-expected-win.txt.
+type: test
+title: Aria checked expected Windows accessibility tree
+summary: Expected Windows IAccessible2 accessibility tree snapshot for the aria-checked test with checked, unchecked, and mixed states.

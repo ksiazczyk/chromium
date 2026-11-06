@@ -1,0 +1,4 @@
+# Docerion header of aria-code-expected-android.txt.
+type: test
+title: Aria code expected Android accessibility tree
+summary: Expected Android accessibility tree snapshot for the aria code role test listing code elements and their names.

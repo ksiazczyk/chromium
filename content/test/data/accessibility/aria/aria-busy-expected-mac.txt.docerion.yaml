@@ -1,0 +1,4 @@
+# Docerion header of aria-busy-expected-mac.txt.
+type: test
+title: aria-busy expected macOS accessibility tree
+summary: Expected macOS AX tree snapshot for the aria-busy test, verifying AXARIABusy state and log subroles.

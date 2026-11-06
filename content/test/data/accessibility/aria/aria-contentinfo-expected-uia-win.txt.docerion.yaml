@@ -1,0 +1,4 @@
+# Docerion header of aria-contentinfo-expected-uia-win.txt.
+type: test
+title: Expected UIA Windows output for the ARIA contentinfo test
+summary: Expected Windows UIA accessibility tree output for the ARIA contentinfo role test page.

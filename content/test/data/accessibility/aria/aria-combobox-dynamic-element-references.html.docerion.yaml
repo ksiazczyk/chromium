@@ -1,0 +1,4 @@
+# Docerion header of aria-combobox-dynamic-element-references.html.
+type: test
+title: ARIA combobox dynamic element references test page
+summary: HTML test page exercising a combobox whose active descendant option is created at runtime and referenced through ARIA element reflection.

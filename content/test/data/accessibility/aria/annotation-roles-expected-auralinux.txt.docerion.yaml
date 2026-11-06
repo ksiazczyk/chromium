@@ -1,0 +1,4 @@
+# Docerion header of annotation-roles-expected-auralinux.txt.
+type: test
+title: Expected Linux accessibility output for annotation roles test
+summary: Expected Linux accessibility tree for the annotation roles test with comment, suggestion and mark roles.

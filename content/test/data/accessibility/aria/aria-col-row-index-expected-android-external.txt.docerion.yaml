@@ -1,0 +1,4 @@
+# Docerion header of aria-col-row-index-expected-android-external.txt.
+type: test
+title: aria-col-row-index expected Android external accessibility tree
+summary: Expected Android external accessibility snapshot for the aria-colindex and aria-rowindex table test page.

@@ -19,6 +19,12 @@
      The two control rows at the end (button and link) are NOT
      prohibited; they should expose the actions normally. -->
 
+<!--docerion
+type: test
+title: ARIA actions prohibited roles test page
+summary: Accessibility test page verifying that aria-actions is suppressed on the 15 roles prohibited by the ARIA spec while remaining exposed on button and link control rows.
+-->
+
 <button id="ok">OK</button>
 
 <div role="caption" tabindex="0" aria-actions="ok">caption host</div>

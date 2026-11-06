@@ -1,0 +1,4 @@
+# Docerion header of aria-autocomplete-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for the aria-autocomplete test
+summary: Expected Android accessibility tree snapshot for editable text fields carrying the aria-autocomplete attribute with inline, list, both and none values.

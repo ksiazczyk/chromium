@@ -1,0 +1,4 @@
+# Docerion header of aria-caption-expected-mac.txt.
+type: test
+title: ARIA caption expected accessibility tree for Mac
+summary: Expected Mac accessibility tree snapshot for the aria-caption test, describing the AX roles produced by a div with role caption.

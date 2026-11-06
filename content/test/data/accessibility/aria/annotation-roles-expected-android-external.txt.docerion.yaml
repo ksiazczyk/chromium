@@ -1,0 +1,4 @@
+# Docerion header of annotation-roles-expected-android-external.txt.
+type: test
+title: Expected Android external output for annotation roles test
+summary: Expected Android external accessibility output for the annotation roles test, with role descriptions for comment, suggestion and highlight.

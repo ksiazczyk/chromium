@@ -1,0 +1,4 @@
+# Docerion header of aria-contentinfo-expected-auralinux.txt.
+type: test
+title: Expected AuraLinux output for the ARIA contentinfo test
+summary: Expected AuraLinux accessibility tree output for the ARIA contentinfo role test page.

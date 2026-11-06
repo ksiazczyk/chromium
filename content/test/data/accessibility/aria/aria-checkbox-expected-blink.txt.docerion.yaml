@@ -1,0 +1,4 @@
+# Docerion header of aria-checkbox-expected-blink.txt.
+type: test
+title: aria-checkbox expected Blink tree
+summary: Expected Blink internal accessibility tree snapshot for the aria-checkbox test page with checkbox checked states.

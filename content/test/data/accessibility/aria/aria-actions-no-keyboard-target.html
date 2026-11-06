@@ -16,6 +16,12 @@
      carries an accessible name and a click handler so it passes the
      prior two filters; these scenarios isolate the keyboard check. -->
 
+<!--docerion
+type: test
+title: aria-actions no-keyboard-target test page
+summary: HTML test page verifying that aria-actions targets that are not keyboard accessible, such as role buttons without tabindex, are dropped from actions.
+-->
+
 <!-- Mixed: a native button (kept) and a span with a click listener
      but no focusable role and no tabindex (dropped). -->
 <div role="group" id="mixed-host" aria-actions="native-button clickable-span">

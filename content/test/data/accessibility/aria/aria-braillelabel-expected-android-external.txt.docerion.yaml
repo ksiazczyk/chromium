@@ -1,0 +1,4 @@
+# Docerion header of aria-braillelabel-expected-android-external.txt.
+type: test
+title: aria-braillelabel expected output for Android external
+summary: Expected Android external accessibility snapshot showing the braille label exposed on a checkbox via the bundle data.

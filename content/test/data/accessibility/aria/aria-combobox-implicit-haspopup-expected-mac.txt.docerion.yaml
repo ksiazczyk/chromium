@@ -1,0 +1,4 @@
+# Docerion header of aria-combobox-implicit-haspopup-expected-mac.txt.
+type: test
+title: Implicit haspopup combobox expected macOS tree
+summary: Expected macOS AX accessibility tree for the implicit haspopup combobox test listing combo boxes and their contained text.

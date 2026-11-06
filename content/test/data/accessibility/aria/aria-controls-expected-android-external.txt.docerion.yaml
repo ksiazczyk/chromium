@@ -1,0 +1,4 @@
+# Docerion header of aria-controls-expected-android-external.txt.
+type: test
+title: Expected Android external output for aria-controls test
+summary: Expected Android external accessibility tree snapshot for the aria-controls menu test with collection and menu item details.

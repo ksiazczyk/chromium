@@ -1,0 +1,4 @@
+# Docerion header of aria-caption-expected-win.txt.
+type: test
+title: ARIA caption expected accessibility tree for Windows
+summary: Expected Windows accessibility tree snapshot for the aria-caption test, listing the IA2 roles and xml-roles attribute for a div with role caption.

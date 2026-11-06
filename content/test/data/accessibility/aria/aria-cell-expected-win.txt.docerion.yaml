@@ -1,0 +1,4 @@
+# Docerion header of aria-cell-expected-win.txt.
+type: test
+title: ARIA cell expected Windows accessibility tree
+summary: Expected Windows accessibility tree for the aria-cell test, mapping ARIA table roles to ROLE_SYSTEM roles with xml-roles attributes.

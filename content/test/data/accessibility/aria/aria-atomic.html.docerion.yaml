@@ -1,0 +1,4 @@
+# Docerion header of aria-atomic.html.
+type: test
+title: aria-atomic test page
+summary: HTML test page verifying aria-atomic on live regions, including implicit atomic behavior for alert and status roles.

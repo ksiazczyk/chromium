@@ -1,0 +1,4 @@
+# Docerion header of aria-actions-no-click-target-expected-mac.txt.
+type: test
+title: Expected macOS tree for ARIA actions without click target
+summary: Expected macOS AX tree snapshot for the no-click-target test, showing groups with and without custom actions such as Save and Run.

@@ -1,0 +1,4 @@
+# Docerion header of aria-atomic-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for aria-atomic test
+summary: Expected Android assist accessibility output for the aria-atomic test page, listing live region roles, text, and HTML info.

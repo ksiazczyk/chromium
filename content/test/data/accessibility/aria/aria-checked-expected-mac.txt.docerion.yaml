@@ -1,0 +1,4 @@
+# Docerion header of aria-checked-expected-mac.txt.
+type: test
+title: Aria checked expected macOS accessibility tree
+summary: Expected macOS AX accessibility tree snapshot for the aria-checked test with checkbox AXValue values 1, 0, and 2.

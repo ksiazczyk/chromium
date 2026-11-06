@@ -1,0 +1,4 @@
+# Docerion header of aria-braillelabel-expected-android.txt.
+type: test
+title: aria-braillelabel expected output for Android
+summary: Expected Android accessibility tree snapshot for a checkbox element with an aria-braillelabel attribute.

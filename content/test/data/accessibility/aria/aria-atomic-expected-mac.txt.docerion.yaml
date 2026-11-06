@@ -1,0 +1,4 @@
+# Docerion header of aria-atomic-expected-mac.txt.
+type: test
+title: Expected Mac output for aria-atomic test
+summary: Expected macOS AXTree output for the aria-atomic test page listing AXARIAAtomic values for log, alert, and status roles.

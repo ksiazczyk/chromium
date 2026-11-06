@@ -1,0 +1,4 @@
+# Docerion header of aria-activedescendant-target-id-change-expected-blink.txt.
+type: test
+title: Expected Blink tree for aria-activedescendant target ID change
+summary: Expected Blink accessibility tree snapshots for a test that moves the aria-activedescendant reference by changing element IDs.

@@ -1,0 +1,4 @@
+# Docerion header of aria-button-expected-win.txt.
+type: test
+title: Expected Windows IA2 accessibility tree for the aria-button test
+summary: Expected Windows IA2 accessibility tree snapshot for the aria-button test page covering push buttons, toggle buttons and menu buttons.

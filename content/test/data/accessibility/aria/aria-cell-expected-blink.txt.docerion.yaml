@@ -1,0 +1,4 @@
+# Docerion header of aria-cell-expected-blink.txt.
+type: test
+title: ARIA cell expected Blink accessibility tree
+summary: Expected Blink internal accessibility tree for the aria-cell test, listing table, row, column header and cell nodes with their static text.

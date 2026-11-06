@@ -1,0 +1,4 @@
+# Docerion header of aria-complementary-expected-win.txt.
+type: test
+title: aria-complementary expected Windows output
+summary: Expected Windows accessibility tree output for the ARIA complementary role test page.

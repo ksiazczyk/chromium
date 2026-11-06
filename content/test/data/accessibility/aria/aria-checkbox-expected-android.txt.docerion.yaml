@@ -1,0 +1,4 @@
+# Docerion header of aria-checkbox-expected-android.txt.
+type: test
+title: aria-checkbox expected Android tree
+summary: Expected Android accessibility tree snapshot for the aria-checkbox test page with checkbox names and checked states.

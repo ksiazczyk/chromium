@@ -1,0 +1,4 @@
+# Docerion header of aria-col-attr-expected-uia-win.txt.
+type: test
+title: aria-col-attr expected UIA Windows accessibility tree
+summary: Expected UIA accessibility tree snapshot on Windows for the aria-colcount and aria-colindex grid test page.

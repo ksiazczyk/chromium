@@ -1,0 +1,4 @@
+# Docerion header of aria-busy-expected-auralinux.txt.
+type: test
+title: aria-busy expected Linux accessibility tree
+summary: Expected Linux accessibility tree snapshot for the aria-busy test, checking busy state and live region properties on log roles and sections.

@@ -1,0 +1,4 @@
+# Docerion header of aria-actions-no-keyboard-target-expected-blink.txt.
+type: test
+title: aria-actions no-keyboard-target expected Blink output
+summary: Expected Blink internal accessibility tree for the aria-actions no-keyboard-target test, listing nodes with hasActions and actionsIds attributes.

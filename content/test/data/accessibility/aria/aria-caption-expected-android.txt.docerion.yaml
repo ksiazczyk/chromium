@@ -1,0 +1,4 @@
+# Docerion header of aria-caption-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for the aria-caption test
+summary: Expected Android accessibility tree snapshot for the aria-caption test page showing a caption role view named Caption.

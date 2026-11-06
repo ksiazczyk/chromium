@@ -1,0 +1,4 @@
+# Docerion header of aria-col-attr-expected-mac.txt.
+type: test
+title: aria-col-attr expected Mac accessibility tree
+summary: Expected macOS accessibility tree snapshot for the aria-colcount and aria-colindex grid test page.

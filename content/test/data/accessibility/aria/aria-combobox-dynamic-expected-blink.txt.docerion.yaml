@@ -1,0 +1,4 @@
+# Docerion header of aria-combobox-dynamic-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for dynamic ARIA combobox
+summary: Expected Blink accessibility tree snapshot after a listbox option is dynamically appended to the combobox test page.

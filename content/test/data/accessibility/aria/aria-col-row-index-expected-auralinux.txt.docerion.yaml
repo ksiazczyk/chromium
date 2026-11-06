@@ -1,0 +1,4 @@
+# Docerion header of aria-col-row-index-expected-auralinux.txt.
+type: test
+title: aria-col-row-index expected Linux accessibility tree
+summary: Expected Linux accessibility tree snapshot for the aria-colindex and aria-rowindex table test page.

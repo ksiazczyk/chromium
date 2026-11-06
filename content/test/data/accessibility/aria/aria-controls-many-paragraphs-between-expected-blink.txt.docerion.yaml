@@ -1,0 +1,4 @@
+# Docerion header of aria-controls-many-paragraphs-between-expected-blink.txt.
+type: test
+title: Expected Blink tree for aria-controls with many paragraphs between
+summary: Expected Blink accessibility tree snapshot for the aria-controls test where buttons control paragraphs separated by many filler paragraphs.

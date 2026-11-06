@@ -1,0 +1,4 @@
+# Docerion header of aria-columnheader-expected-auralinux.txt.
+type: test
+title: Expected Linux tree for aria-columnheader
+summary: Expected Linux ATK accessibility tree for the aria-columnheader test with column header and table cell details.

@@ -1,0 +1,4 @@
+# Docerion header of aria-current-expected-blink.txt.
+type: test
+title: Expected Blink tree for aria-current
+summary: Expected Blink accessibility tree showing ariaCurrentState values for links, headings, spans and paragraphs.

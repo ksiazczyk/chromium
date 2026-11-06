@@ -1,0 +1,4 @@
+# Docerion header of aria-combobox-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for ARIA combobox
+summary: Expected Android accessibility tree snapshot for the ARIA combobox test covering combobox, listbox, grid and treegrid roles.

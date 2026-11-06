@@ -1,0 +1,4 @@
+# Docerion header of aria-columnheader-expected-android.txt.
+type: test
+title: Expected Android tree for aria-columnheader
+summary: Expected Android accessibility tree for the aria-columnheader test showing table_header collection items in a grid.

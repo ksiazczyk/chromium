@@ -1,0 +1,4 @@
+# Docerion header of aria-banner-expected-mac.txt.
+type: test
+title: aria-banner expected macOS accessibility tree
+summary: Expected macOS accessibility tree for the aria banner test, with the banner landmark subrole and static text value.

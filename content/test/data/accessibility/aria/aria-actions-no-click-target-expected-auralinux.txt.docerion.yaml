@@ -1,0 +1,4 @@
+# Docerion header of aria-actions-no-click-target-expected-auralinux.txt.
+type: test
+title: Expected Linux AT-SPI tree for ARIA actions without click target
+summary: Expected AT-SPI tree snapshot for the no-click-target actions test, listing hosts and buttons with their available actions on Linux.

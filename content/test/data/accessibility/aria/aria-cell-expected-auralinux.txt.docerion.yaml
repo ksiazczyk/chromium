@@ -1,0 +1,4 @@
+# Docerion header of aria-cell-expected-auralinux.txt.
+type: test
+title: ARIA cell expected Linux accessibility output
+summary: Expected Linux AT-SPI accessibility tree for the aria-cell test, describing table rows, column headers and cells with spans and header counts.

@@ -1,0 +1,4 @@
+# Docerion header of aria-brailleroledescription-expected-android-external.txt.
+type: test
+title: Expected Android external output for aria-brailleroledescription
+summary: Expected Android external accessibility tree snapshot verifying braille role description exposure on checkbox elements.

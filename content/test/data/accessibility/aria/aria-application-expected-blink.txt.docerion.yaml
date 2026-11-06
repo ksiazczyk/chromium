@@ -1,0 +1,4 @@
+# Docerion header of aria-application-expected-blink.txt.
+type: test
+title: aria-application expected Blink accessibility tree
+summary: Expected Blink internal accessibility tree for the ARIA application role test, showing an application node inside an ignored generic container.
