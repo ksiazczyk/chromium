@@ -1,0 +1,4 @@
+# Docerion header of name-text-label-embedded-menu-expected-blink.txt.
+type: test
+title: Expected Blink name for text label with embedded menu
+summary: Expected Blink accessibility output for a text input whose label embeds a menu role widget.

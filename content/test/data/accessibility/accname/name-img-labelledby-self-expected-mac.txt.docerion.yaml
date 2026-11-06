@@ -1,0 +1,4 @@
+# Docerion header of name-img-labelledby-self-expected-mac.txt.
+type: test
+title: Expected Mac name for img labelled by itself
+summary: Expected AXImage description and title on macOS for an image whose aria-labelledby references only itself.

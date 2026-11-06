@@ -1,0 +1,4 @@
+# Docerion header of name-text-spinbutton-valuetext-in-label-expected-mac.txt.
+type: test
+title: Expected Mac result for name-text-spinbutton-valuetext-in-label
+summary: Expected macOS accessibility output asserting the text field title is 'silly Monday' when the label contains a spinbutton with aria-valuetext.

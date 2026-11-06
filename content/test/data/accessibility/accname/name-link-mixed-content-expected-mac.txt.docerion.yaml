@@ -1,0 +1,4 @@
+# Docerion header of name-link-mixed-content-expected-mac.txt.
+type: test
+title: Expected Mac name for link with mixed content
+summary: Expected Mac accessibility output for the link name computed from mixed content.

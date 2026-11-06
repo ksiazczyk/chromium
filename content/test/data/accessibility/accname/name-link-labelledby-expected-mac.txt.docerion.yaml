@@ -1,0 +1,4 @@
+# Docerion header of name-link-labelledby-expected-mac.txt.
+type: test
+title: Expected Mac output for link named by labelledby
+summary: Expected macOS accessibility output for a link whose name comes from an aria-labelledby related element.

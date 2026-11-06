@@ -1,0 +1,4 @@
+# Docerion header of name-text-title-value-expected-blink.txt.
+type: test
+title: Expected Blink result for name-text-title-value
+summary: Expected Blink output asserting a text field's accessible name is 'silly' taken from its title attribute.

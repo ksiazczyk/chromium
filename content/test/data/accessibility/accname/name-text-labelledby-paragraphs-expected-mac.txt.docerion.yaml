@@ -1,0 +1,4 @@
+# Docerion header of name-text-labelledby-paragraphs-expected-mac.txt.
+type: test
+title: Expected Mac result for name from multiple labelled paragraphs
+summary: Expected macOS accessibility result for the input labelled by three paragraphs.

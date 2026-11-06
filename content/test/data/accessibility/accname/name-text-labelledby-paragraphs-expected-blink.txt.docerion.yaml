@@ -1,0 +1,4 @@
+# Docerion header of name-text-labelledby-paragraphs-expected-blink.txt.
+type: test
+title: Expected Blink result for name from multiple labelled paragraphs
+summary: Expected Blink accessible name result for an input labelled by three separate paragraph elements.

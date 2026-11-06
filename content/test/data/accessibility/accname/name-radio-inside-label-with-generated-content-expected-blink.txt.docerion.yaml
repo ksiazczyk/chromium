@@ -1,0 +1,4 @@
+# Docerion header of name-radio-inside-label-with-generated-content-expected-blink.txt.
+type: test
+title: Expected Blink output for radio name inside label with generated content
+summary: Expected Blink accessibility output for a radio button nested inside a label that uses CSS generated content.

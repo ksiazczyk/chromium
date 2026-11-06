@@ -1,0 +1,4 @@
+# Docerion header of name-radio-css-after-in-label-expected-blink.txt.
+type: test
+title: Expected Blink output for radio button named via label with CSS after
+summary: Expected Blink accessibility output for a radio button whose accessible name comes from a related label, expecting the name 'fancy fruit'.

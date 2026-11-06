@@ -1,0 +1,4 @@
+# Docerion header of name-link-multiple-sources-expected-mac.txt.
+type: test
+title: Expected Mac name for link with multiple label sources
+summary: Expected Mac accessibility output for a link whose name is taken from a related element among multiple label sources.

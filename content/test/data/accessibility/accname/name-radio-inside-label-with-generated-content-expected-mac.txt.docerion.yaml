@@ -1,0 +1,4 @@
+# Docerion header of name-radio-inside-label-with-generated-content-expected-mac.txt.
+type: test
+title: Expected Mac output for radio name inside label with generated content
+summary: Expected macOS accessibility output for a radio button nested inside a label that uses CSS generated content.

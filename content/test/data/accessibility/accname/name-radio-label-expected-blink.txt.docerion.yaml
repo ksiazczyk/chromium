@@ -1,0 +1,4 @@
+# Docerion header of name-radio-label-expected-blink.txt.
+type: test
+title: Blink expected output for radio button label
+summary: Expected Blink accessibility output for a radio button named by its associated label element.

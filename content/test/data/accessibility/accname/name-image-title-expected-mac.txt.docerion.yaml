@@ -1,0 +1,4 @@
+# Docerion header of name-image-title-expected-mac.txt.
+type: test
+title: Expected Mac output for name-image-title accessibility test
+summary: Expected macOS accessibility output for the image input title test, describing an AXButton with description and title 'foo'.

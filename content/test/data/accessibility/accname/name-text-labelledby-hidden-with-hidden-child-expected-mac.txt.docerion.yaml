@@ -1,0 +1,4 @@
+# Docerion header of name-text-labelledby-hidden-with-hidden-child-expected-mac.txt.
+type: test
+title: Expected Mac result for labelledby hidden element with hidden child
+summary: Expected macOS accessibility result for the hidden labelledby test with a hidden child.

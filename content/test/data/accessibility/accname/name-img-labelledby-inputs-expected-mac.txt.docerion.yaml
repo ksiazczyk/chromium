@@ -1,0 +1,4 @@
+# Docerion header of name-img-labelledby-inputs-expected-mac.txt.
+type: test
+title: Expected Mac output for image labelled by inputs
+summary: Expected macOS accessibility output for an image labelled by the values of three text inputs.

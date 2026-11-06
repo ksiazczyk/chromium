@@ -1,0 +1,4 @@
+# Docerion header of name-img-with-label-labels-itself-expected-blink.txt.
+type: test
+title: Expected Blink output for image labeled by itself
+summary: Expected Blink accessibility output for an image whose aria-labelledby attribute references the image itself.

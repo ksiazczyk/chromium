@@ -1,0 +1,4 @@
+# Docerion header of name-link-labelledby-self-and-paragraph-expected-mac.txt.
+type: test
+title: Expected Mac name for link labelled by self and paragraph
+summary: Expected Mac accessibility output asserting the AXLink description and title are 'Tag foo' for the self-and-paragraph labelling case.

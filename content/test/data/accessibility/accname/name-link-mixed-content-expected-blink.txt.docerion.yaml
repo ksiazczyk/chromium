@@ -1,0 +1,4 @@
+# Docerion header of name-link-mixed-content-expected-blink.txt.
+type: test
+title: Expected Blink name for link with mixed content
+summary: Expected Blink output for a link name computed from mixed content, including a comment on spacing per the accname spec issue.

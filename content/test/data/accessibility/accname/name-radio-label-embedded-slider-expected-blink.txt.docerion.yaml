@@ -1,0 +1,4 @@
+# Docerion header of name-radio-label-embedded-slider-expected-blink.txt.
+type: test
+title: Blink expected output for radio label with embedded slider
+summary: Expected Blink accessibility output for a radio button named by a label containing an embedded slider element.

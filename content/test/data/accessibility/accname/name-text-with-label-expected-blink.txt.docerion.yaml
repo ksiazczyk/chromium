@@ -1,0 +1,4 @@
+# Docerion header of name-text-with-label-expected-blink.txt.
+type: test
+title: Expected Blink name for text input with label
+summary: Expected accname test result for Blink showing a text field named from a related label element.

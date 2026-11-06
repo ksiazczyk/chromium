@@ -1,0 +1,4 @@
+# Docerion header of name-text-with-value-labels-img-with-label-expected-mac.txt.
+type: test
+title: Expected Mac name for image labelled by input value with aria-label
+summary: Expected accname test result for macOS for the image labelled by an input value together with an aria-label.

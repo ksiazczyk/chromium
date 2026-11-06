@@ -1,0 +1,4 @@
+# Docerion header of name-text-labelledby-aria-hidden-different-visibility-types-expected-mac.txt.
+type: test
+title: Mac expected result for labelledby aria-hidden visibility test
+summary: Expected AXTextField title output for the labelledby test with aria-hidden and different visibility types on macOS.

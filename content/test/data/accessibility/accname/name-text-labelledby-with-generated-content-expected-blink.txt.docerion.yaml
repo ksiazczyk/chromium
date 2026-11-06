@@ -1,0 +1,4 @@
+# Docerion header of name-text-labelledby-with-generated-content-expected-blink.txt.
+type: test
+title: Expected Blink result for name-text-labelledby-with-generated-content
+summary: Expected accessible name output on the Blink engine for a text field labelled by elements with CSS generated content, asserting the name 'onetwothree four'.

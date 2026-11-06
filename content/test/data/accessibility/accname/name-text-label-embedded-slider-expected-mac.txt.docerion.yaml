@@ -1,0 +1,4 @@
+# Docerion header of name-text-label-embedded-slider-expected-mac.txt.
+type: test
+title: Expected Mac name for text input label with embedded slider
+summary: Expected AXTitle result on macOS for the text input whose label embeds a slider role input.

@@ -1,0 +1,4 @@
+# Docerion header of name-reset-button-expected-mac.txt.
+type: test
+title: Expected Mac result for reset button name
+summary: Expected AX API accessible name result for a reset button named from its contents on macOS.

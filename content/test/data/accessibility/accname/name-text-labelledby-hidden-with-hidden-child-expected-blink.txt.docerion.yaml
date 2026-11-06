@@ -1,0 +1,4 @@
+# Docerion header of name-text-labelledby-hidden-with-hidden-child-expected-blink.txt.
+type: test
+title: Expected Blink result for labelledby hidden element with hidden child
+summary: Expected Blink result for the hidden labelledby test with a hidden child, noting the spec interpretation is under discussion in w3c/accname issue 57.

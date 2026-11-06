@@ -1,0 +1,4 @@
+# Docerion header of name-img-multiple-sources-some-empty-expected-blink.txt.
+type: test
+title: Expected Blink name for img with some empty name sources
+summary: Expected accessible name result on Blink when some of the image's name sources contribute no text.

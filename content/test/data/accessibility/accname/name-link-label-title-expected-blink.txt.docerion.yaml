@@ -1,0 +1,4 @@
+# Docerion header of name-link-label-title-expected-blink.txt.
+type: test
+title: Expected Blink output for link with aria-label and title
+summary: Expected Blink output showing aria-label taking precedence over the title attribute for a link's accessible name.

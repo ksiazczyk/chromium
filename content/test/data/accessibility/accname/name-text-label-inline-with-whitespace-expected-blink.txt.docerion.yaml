@@ -1,0 +1,4 @@
+# Docerion header of name-text-label-inline-with-whitespace-expected-blink.txt.
+type: test
+title: Blink expected result for name-text-label inline whitespace test
+summary: Expected Blink accessibility output for the inline whitespace variant of the name-text-label test, expecting the computed name '123 45'.

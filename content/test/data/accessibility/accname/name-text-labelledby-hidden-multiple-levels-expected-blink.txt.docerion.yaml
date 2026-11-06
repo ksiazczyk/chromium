@@ -1,0 +1,4 @@
+# Docerion header of name-text-labelledby-hidden-multiple-levels-expected-blink.txt.
+type: test
+title: Expected Blink result for labelledby hidden multiple levels name test
+summary: Expected accessible name result for the hidden labelledby multiple-levels test on the Blink platform.

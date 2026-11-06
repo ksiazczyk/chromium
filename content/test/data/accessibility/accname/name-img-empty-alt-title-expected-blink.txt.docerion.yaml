@@ -1,0 +1,4 @@
+# Docerion header of name-img-empty-alt-title-expected-blink.txt.
+type: test
+title: Expected Blink output for name-img-empty-alt-title
+summary: Expected Blink accessibility output for an image with an explicitly empty alt attribute and a title, showing an empty name from attribute.

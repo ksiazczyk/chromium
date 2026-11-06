@@ -1,0 +1,4 @@
+# Docerion header of name-img-multiple-sources-expected-blink.txt.
+type: test
+title: Expected Blink name for img with multiple name sources
+summary: Expected accessible name result on Blink for an image whose name is combined from several related elements.

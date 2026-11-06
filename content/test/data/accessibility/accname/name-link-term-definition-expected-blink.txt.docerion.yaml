@@ -1,0 +1,4 @@
+# Docerion header of name-link-term-definition-expected-blink.txt.
+type: test
+title: Blink expected name for link with term definition content
+summary: Expected accessible name for a link whose contents are a definition list, in the Blink accessibility output format.

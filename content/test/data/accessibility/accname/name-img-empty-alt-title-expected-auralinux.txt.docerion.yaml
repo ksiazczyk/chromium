@@ -1,0 +1,4 @@
+# Docerion header of name-img-empty-alt-title-expected-auralinux.txt.
+type: test
+title: Expected AuRALinux output for name-img-empty-alt-title
+summary: Expected Linux accessibility output for an image with empty alt text and a title, including name, description and description-from tooltip.

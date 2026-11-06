@@ -1,0 +1,4 @@
+# Docerion header of name-radio-spinbutton-valuenow-in-label-expected-blink.txt.
+type: test
+title: Expected Blink result for radio name from spinbutton valuenow in label
+summary: Expected accessible name result for the spinbutton valuenow label test on the Blink platform.

@@ -1,0 +1,4 @@
+# Docerion header of name-text-label-with-readonly-input-expected-mac.txt.
+type: test
+title: Mac expected result for name-text-label with readonly input test
+summary: Expected macOS accessibility output for the readonly input variant of the name-text-label test, expecting AXTitle 'foo bar baz'.

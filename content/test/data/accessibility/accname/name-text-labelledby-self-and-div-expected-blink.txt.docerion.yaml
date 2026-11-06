@@ -1,0 +1,4 @@
+# Docerion header of name-text-labelledby-self-and-div-expected-blink.txt.
+type: test
+title: Expected Blink result for name-text-labelledby-self-and-div
+summary: Expected accessible name output on the Blink engine for a text field labelled by itself and a div, asserting the name 'foo bar'.

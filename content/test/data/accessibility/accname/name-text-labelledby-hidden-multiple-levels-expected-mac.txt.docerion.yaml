@@ -1,0 +1,4 @@
+# Docerion header of name-text-labelledby-hidden-multiple-levels-expected-mac.txt.
+type: test
+title: Expected Mac result for labelledby hidden multiple levels name test
+summary: Expected macOS accessibility result for the hidden labelledby multiple-levels name test.

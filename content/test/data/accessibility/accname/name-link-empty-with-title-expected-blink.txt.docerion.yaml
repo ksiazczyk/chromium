@@ -1,0 +1,4 @@
+# Docerion header of name-link-empty-with-title-expected-blink.txt.
+type: test
+title: Expected Blink output for link name from title
+summary: Expected Blink accessibility output for a link with no text whose accessible name comes from its title attribute.

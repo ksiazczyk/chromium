@@ -1,0 +1,4 @@
+# Docerion header of name-img-label-alt-title-expected-blink.txt.
+type: test
+title: Expected Blink output for name-img-label-alt-title
+summary: Expected Blink accessibility output for an image with alt text 'label', showing the accessible name taken from the attribute.

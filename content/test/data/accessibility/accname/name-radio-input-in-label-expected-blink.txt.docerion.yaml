@@ -1,0 +1,4 @@
+# Docerion header of name-radio-input-in-label-expected-blink.txt.
+type: test
+title: Expected Blink output for radio name with input inside label
+summary: Expected Blink accessibility output for a radio button whose label contains a text input contributing its value to the name.

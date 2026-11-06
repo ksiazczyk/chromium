@@ -1,0 +1,4 @@
+# Docerion header of name-text-dynamic-labelledby-expected-blink.txt.
+type: test
+title: Expected Blink output for dynamic labelledby name test
+summary: Expected accessibility tree output on Blink for the name-text-dynamic-labelledby test, showing a text field named via aria-labelledby.

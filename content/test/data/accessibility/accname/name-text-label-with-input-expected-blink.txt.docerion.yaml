@@ -1,0 +1,4 @@
+# Docerion header of name-text-label-with-input-expected-blink.txt.
+type: test
+title: Blink expected result for name-text-label with input test
+summary: Expected Blink accessibility output for the name-text-label-with-input test, noting it must match the readonly input expectation.

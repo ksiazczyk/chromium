@@ -1,0 +1,4 @@
+# Docerion header of name-radio-input-in-label-expected-mac.txt.
+type: test
+title: Expected Mac output for radio name with input inside label
+summary: Expected macOS accessibility output for a radio button whose label contains a text input contributing its value to the name.

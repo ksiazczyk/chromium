@@ -1,0 +1,4 @@
+# Docerion header of name-img-labelledby-self-and-two-inputs-expected-mac.txt.
+type: test
+title: Expected Mac name for img labelled by self and two inputs
+summary: Expected AXImage title on macOS for the image labelled by itself and two text inputs.

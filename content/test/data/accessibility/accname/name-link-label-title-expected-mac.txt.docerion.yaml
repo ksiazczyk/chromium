@@ -1,0 +1,4 @@
+# Docerion header of name-link-label-title-expected-mac.txt.
+type: test
+title: Expected Mac output for link with aria-label and title
+summary: Expected macOS accessibility output for a link that has both aria-label and title attributes.

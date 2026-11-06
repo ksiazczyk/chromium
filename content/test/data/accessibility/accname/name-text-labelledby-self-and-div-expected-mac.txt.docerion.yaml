@@ -1,0 +1,4 @@
+# Docerion header of name-text-labelledby-self-and-div-expected-mac.txt.
+type: test
+title: Expected Mac result for name-text-labelledby-self-and-div
+summary: Expected macOS accessibility output for a text field labelled by itself and a div, asserting the AXTitle 'foo bar'.

@@ -1,0 +1,4 @@
+# Docerion header of name-img-labelledby-self-and-input-expected-blink.txt.
+type: test
+title: Expected Blink output for image labelled by itself and an input
+summary: Expected Blink accessibility output for an image labelled by itself and a text input.

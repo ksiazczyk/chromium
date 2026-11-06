@@ -1,0 +1,4 @@
+# Docerion header of name-radio-label-embedded-menu-expected-blink.txt.
+type: test
+title: Expected accessible name for radio with embedded menu on Blink
+summary: Expected accessible name result for the radio label embedded menu test on the Blink accessibility platform.

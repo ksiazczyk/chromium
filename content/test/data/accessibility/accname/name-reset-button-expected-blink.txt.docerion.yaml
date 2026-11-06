@@ -1,0 +1,4 @@
+# Docerion header of name-reset-button-expected-blink.txt.
+type: test
+title: Expected Blink result for reset button name
+summary: Expected accessible name result for a reset button named from its contents on the Blink platform.

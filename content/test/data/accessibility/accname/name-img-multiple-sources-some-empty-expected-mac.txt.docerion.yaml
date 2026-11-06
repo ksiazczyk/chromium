@@ -1,0 +1,4 @@
+# Docerion header of name-img-multiple-sources-some-empty-expected-mac.txt.
+type: test
+title: Expected Mac output for image name from multiple sources with some empty
+summary: Expected macOS accessibility output for an image whose accessible name is computed from multiple sources, some of which are empty.

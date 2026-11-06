@@ -1,0 +1,4 @@
+# Docerion header of name-text-with-label-expected-mac.txt.
+type: test
+title: Expected Mac name for text input with label
+summary: Expected accname test result for macOS showing an AXTextField with title 'States:'.

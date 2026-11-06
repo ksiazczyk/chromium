@@ -1,0 +1,4 @@
+# Docerion header of name-img-with-label-labels-itself-expected-mac.txt.
+type: test
+title: Expected Mac output for image labeled by itself
+summary: Expected macOS accessibility output for an image whose aria-labelledby attribute references the image itself.

@@ -1,0 +1,4 @@
+# Docerion header of name-img-empty-alt-title-expected-win.txt.
+type: test
+title: Expected Windows output for name-img-empty-alt-title
+summary: Expected Windows accessibility output for an image with empty alt text and a title, with role, name, description and description-from tooltip.
