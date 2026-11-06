@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the batch upload promo directory
+summary: Points to the desktop signin owners and assigns IPC security owners with no-parent review rules for Mojom files.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Icon and image URL utilities for WebUI
+// summary: Utilities that build CSS urls, scale-factor image-sets, file type icons and favicon URLs for WebUI resources across supported platform scale factors.
+// ---
+
 import {isAndroid, isIOS} from './platform.js';
 
 /**

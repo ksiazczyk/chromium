@@ -27,6 +27,12 @@
 //
 // NOTE: <action-link> and document.createElement('action-link') don't work.
 
+// ---docerion
+// type: source
+// title: ActionLink custom element
+// summary: Defines an ActionLink element extending HTMLAnchorElement for in-page actions, handling keyboard activation, disabled state, and focus styling.
+// ---
+
 export class ActionLink extends HTMLAnchorElement {
   private boundOnKeyDown_: ((e: KeyboardEvent) => void)|null = null;
   private boundOnMouseDown_: (() => void)|null = null;

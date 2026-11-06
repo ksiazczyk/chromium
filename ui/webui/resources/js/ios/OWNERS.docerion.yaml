@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners delegation to iOS OWNERS
+summary: Owners file that delegates code ownership of this directory to the reviewers listed in the iOS OWNERS file.

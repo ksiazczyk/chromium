@@ -11,6 +11,12 @@
  * calling Function.bind.
  */
 
+// ---docerion
+// type: source
+// title: EventTracker listener management
+// summary: Provides an EventTracker class that records added DOM event listeners so they can be selectively or fully removed without keeping original binding details.
+// ---
+
 export class EventTracker {
   private listeners_: EventTrackerEntry[] = [];
 

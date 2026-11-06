@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Tracked element mojo bindings build definition
+summary: GN build file that defines the mojo_bindings target generating bindings for tracked_element.mojom, built via the WebUI resources mojo setup so other WebUI components can share it.

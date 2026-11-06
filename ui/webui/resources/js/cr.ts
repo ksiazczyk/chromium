@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI chrome.send and listener helpers
+// summary: Implements sendWithPromise, webUIResponse, and WebUI listener registration for promise-based communication between WebUI pages and C++ handlers.
+// ---
+
 import {assert} from './assert.js';
 import {PromiseResolver} from './promise_resolver.js';
 

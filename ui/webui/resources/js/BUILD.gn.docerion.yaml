@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for WebUI JS resources
+summary: Defines the build_webui target that compiles the shared WebUI TypeScript files, mojo bindings, and TypeScript configuration into bundled resources.

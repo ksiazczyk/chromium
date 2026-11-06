@@ -1,0 +1,4 @@
+# Docerion header of browser_command.mojom.
+type: source
+title: browser_command.mojom
+summary: Defines the Command enum, ClickInfo struct, and CommandHandlerFactory and CommandHandler interfaces for browser commands sent by NTP promos and What's New.

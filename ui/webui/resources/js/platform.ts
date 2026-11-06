@@ -4,6 +4,12 @@
 
 /* @fileoverview Utilities for determining the current platform. */
 
+// ---docerion
+// type: source
+// title: Platform detection utility flags
+// summary: Exports boolean flags that detect the current platform, including Mac, Windows, ChromeOS, Linux, Android and iOS, from navigator data and build-time expressions.
+// ---
+
 /** Whether we are using a Mac or not. */
 export const isMac = /Mac/.test(navigator.platform);
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TrackedElementProxyImpl mojo proxy singleton
+// summary: Singleton proxy exposing the TrackedElementHandler remote and a TrackedElementManager callback router, with helpers for instance replacement and generated secondary identifiers.
+// ---
+
 import type {TrackedElementHandlerInterface, TrackedElementHandlerRemote} from '//resources/mojo/ui/webui/resources/js/tracked_element/tracked_element.mojom-webui.js';
 import {TrackedElementHandler, TrackedElementManagerCallbackRouter} from '//resources/mojo/ui/webui/resources/js/tracked_element/tracked_element.mojom-webui.js';
 

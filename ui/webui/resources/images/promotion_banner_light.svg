@@ -1,3 +1,9 @@
+<!--docerion
+type: asset
+title: Promotion banner illustration (light theme)
+summary: Light-theme 180 by 90 SVG banner illustration with layered blue shapes and a browser window graphic, used in promotion UI.
+-->
+
 <svg width="180" height="90" viewBox="0 0 180 90" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g clip-path="url(#clip0_470_9987)">
 <path d="M80.4487 8.68598C85.1497 3.91096 92.8503 3.91096 97.5513 8.68598L195.898 108.581C203.366 116.167 197.992 129 187.347 129H-9.34653C-19.9922 129 -25.3665 116.167 -17.8978 108.581L80.4487 8.68598Z" fill="#D2E3FC"/>

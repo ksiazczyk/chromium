@@ -16,6 +16,12 @@
 // chrome://webui-test/ data source only exists in a testing context, so using
 // this script in production will result in a failed network request.
 
+// ---docerion
+// type: source
+// title: WebUI test module loader helper
+// summary: Helper script that loads a JavaScript module test into a WebUI page by first loading the Mocha adapter and then the requested test module, and is meant for testing contexts only.
+// ---
+
 import {loadMochaAdapter, loadTestModule} from './test_loader_util.js';
 
 async function main() {

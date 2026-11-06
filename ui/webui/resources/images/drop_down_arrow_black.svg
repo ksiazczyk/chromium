@@ -1,1 +1,7 @@
+<!--docerion
+type: asset
+title: Black drop-down arrow icon
+summary: Tiny black SVG triangle used as a drop-down arrow in select controls.
+-->
+
 <svg xmlns="http://www.w3.org/2000/svg" width="6" height="3"><path d="M0 0h6L3 3"/></svg>

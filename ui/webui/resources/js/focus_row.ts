@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FocusRow keyboard navigation for element rows
+// summary: TypeScript class that manages focus across horizontally arranged elements, cycling with arrow keys and Home/End while tracking focusable item types via a delegate.
+// ---
+
 // clang-format off
 import {assert, assertInstanceof} from './assert.js';
 import {EventTracker} from './event_tracker.js';

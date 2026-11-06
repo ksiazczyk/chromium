@@ -5,6 +5,12 @@
 // Note: This polyfill API should stay in sync with the IDL definitions in
 // third_party/blink/renderer/core/mojo/mojo.idl
 
+// ---docerion
+// type: source
+// title: Mojo API polyfill for iOS WebUI
+// summary: JavaScript polyfill of the Mojo API for iOS WebUI, implementing message pipe creation, interface binding, handle management, and signal watching over native messaging.
+// ---
+
 // eslint-disable-next-line no-var
 var Mojo = Mojo || {};
 Mojo.nextAvailableHandleId = Mojo.nextAvailableHandleId || 1;

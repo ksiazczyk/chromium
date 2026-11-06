@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrRouter URL routing singleton
+// summary: Provides a CrRouter singleton that tracks path, query, and hash changes, dispatches events, and manages browser history with a dwell-time replace policy.
+// ---
+
 import {assert} from './assert.js';
 
 function safeDecodeURIComponent(s: string): string {

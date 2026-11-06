@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DOM and string utility functions
+// summary: Collection of general helpers such as element lookup, deep active element, RTL detection, URL params, transition end events, HTML escaping, and one-shot listeners.
+// ---
+
 import {assert} from './assert.js';
 
 /**

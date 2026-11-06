@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FocusOutlineManager for keyboard-only focus outlines
+// summary: TypeScript class that toggles a CSS class on a document so focus outlines appear only for keyboard navigation, with a per-document singleton accessor.
+// ---
+
 /**
  * The class name to set on the document element.
  */

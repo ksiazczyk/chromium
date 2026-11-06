@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserCommandProxy TypeScript proxy
+// summary: Singleton TypeScript proxy that exposes the Mojo CommandHandler remote for sending browser commands to the browser and receiving responses.
+// ---
+
 import {CommandHandlerFactory, CommandHandlerRemote} from '../browser_command.mojom-webui.js';
 
 /**

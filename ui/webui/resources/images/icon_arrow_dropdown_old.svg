@@ -1,1 +1,7 @@
+<!--docerion
+type: asset
+title: Legacy dropdown arrow icon
+summary: Older variant of the dropdown arrow icon with a hard-coded gray fill and a simple chevron shape.
+-->
+
 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="#5F6368"><path d="m7 10 5 5 5-5z"/></svg>

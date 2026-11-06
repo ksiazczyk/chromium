@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search highlight utilities
+// summary: Utilities that apply, remove, and manage yellow highlight wrappers and search bubbles around search matches in WebUI pages.
+// ---
+
 import {assert} from './assert.js';
 
 const WRAPPER_CSS_CLASS: string = 'search-highlight-wrapper';

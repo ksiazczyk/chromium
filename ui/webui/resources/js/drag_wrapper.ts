@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DragWrapper drag-and-drop helper
+// summary: Provides a DragWrapper class that simplifies HTML5 drag-and-drop by tracking nested drag enter and leave events and delegating to a delegate interface.
+// ---
+
 /**
  * @fileoverview DragWrapper
  * A class for simplifying HTML5 drag and drop. Classes should use this to

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTML subset parser and innerHTML sanitizer
+// summary: Parses and sanitizes a restricted HTML subset using tag and attribute allow-lists, exposing sanitizeInnerHtml through a Trusted Types policy where supported.
+// ---
+
 import {assert, assertNotReached} from './assert.js';
 
 export interface SanitizeInnerHtmlOpts {

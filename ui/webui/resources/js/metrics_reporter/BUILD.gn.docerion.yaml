@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for metrics_reporter Mojo bindings
+summary: Defines the mojom build target that generates Mojo bindings for the metrics reporter, served as part of the WebUI JavaScript resources.

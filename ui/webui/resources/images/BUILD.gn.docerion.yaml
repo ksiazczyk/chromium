@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for WebUI images
+summary: GN build configuration that lists the folder's SVG and PNG images and generates the webui_images .grdp resource bundle for WebUI.

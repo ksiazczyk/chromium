@@ -19,6 +19,12 @@
  * change if the page is re-opened later.
  */
 
+// ---docerion
+// type: source
+// title: Deprecated JavaScript loadTimeData singleton
+// summary: Deprecated JavaScript version of the loadTimeData singleton kept only for code not yet using JS modules; new code should use load_time_data.ts instead.
+// ---
+
 /** @type {!LoadTimeData} */
 // eslint-disable-next-line no-var
 var loadTimeData;

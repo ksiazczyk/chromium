@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for browser_command Mojo bindings
+summary: Build configuration that defines the mojom target generating Mojo bindings for the browser command interface, served as part of the shared WebUI JavaScript resources.

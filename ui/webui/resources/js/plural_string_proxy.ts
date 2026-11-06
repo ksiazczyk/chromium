@@ -6,6 +6,12 @@
  * @fileoverview A helper object used to get a pluralized string.
  */
 
+// ---docerion
+// type: source
+// title: Plural string proxy helper
+// summary: Helper object that fetches pluralized message strings from the browser via promise messages, including two-message tuples joined with a comma or periods.
+// ---
+
 // clang-format off
 import {sendWithPromise} from './cr.js';
 // clang-format on

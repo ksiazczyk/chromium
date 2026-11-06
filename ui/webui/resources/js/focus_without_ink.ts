@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Focus helper that suppresses Polymer ink ripples
+// summary: Helper that focuses an element while suppressing the Polymer ripple effect when focus was triggered by pointer input rather than the keyboard.
+// ---
+
 import {assert} from './assert.js';
 
 

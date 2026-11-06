@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Assertion helper functions
+// summary: Exports assert, assertInstanceof, assertNotReached, assertNotReachedCase, and assertNonNull functions for runtime and compile-time invariant checks.
+// ---
+
 /**
  * Verify |value| is truthy.
  * @param value A value to check for truthiness. Note that this
