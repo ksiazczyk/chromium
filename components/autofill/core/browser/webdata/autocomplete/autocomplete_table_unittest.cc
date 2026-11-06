@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autocomplete table unit tests
+// summary: Unit tests for the AutocompleteTable WebDatabase table, verifying autocomplete entry storage, counts, and date handling.
+// ---
+
 #include "components/autofill/core/browser/webdata/autocomplete/autocomplete_table.h"
 
 #include <string>

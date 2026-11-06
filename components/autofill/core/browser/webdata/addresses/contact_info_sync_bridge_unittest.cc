@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Contact info sync bridge unit tests
+// summary: Unit tests for the contact info sync bridge that converts between AutofillProfile entries and CONTACT_INFO sync data in the web database.
+// ---
+
 #include "components/autofill/core/browser/webdata/addresses/contact_info_sync_bridge.h"
 
 #include <memory>

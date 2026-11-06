@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Form data header
+// summary: Declares FormData, the autofill representation of a web form and its fields used in renderer-browser communication, including child frame metadata.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_COMMON_FORM_DATA_H_
 #define COMPONENTS_AUTOFILL_CORE_COMMON_FORM_DATA_H_
 

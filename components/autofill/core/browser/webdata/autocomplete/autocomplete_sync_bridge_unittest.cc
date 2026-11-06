@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autocomplete sync bridge unit tests
+// summary: Unit tests for the autocomplete sync bridge covering metadata loading, merge, incremental sync changes, and entity data handling.
+// ---
+
 #include "components/autofill/core/browser/webdata/autocomplete/autocomplete_sync_bridge.h"
 
 #include <algorithm>

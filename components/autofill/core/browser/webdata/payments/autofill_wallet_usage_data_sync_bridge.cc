@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill wallet usage data sync bridge implementation
+// summary: Implements the sync bridge that applies remote autofill wallet usage data changes to the local web database.
+// ---
+
 #include "components/autofill/core/browser/webdata/payments/autofill_wallet_usage_data_sync_bridge.h"
 
 #include <algorithm>

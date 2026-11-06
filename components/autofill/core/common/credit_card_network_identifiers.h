@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credit card network identifier constants
+// summary: Defines string identifiers for credit card networks such as Visa, Mastercard, and Amex, used to select card icon resources.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_COMMON_CREDIT_CARD_NETWORK_IDENTIFIERS_H_
 #define COMPONENTS_AUTOFILL_CORE_COMMON_CREDIT_CARD_NETWORK_IDENTIFIERS_H_
 

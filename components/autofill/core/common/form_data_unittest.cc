@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FormData unit tests
+// summary: Unit tests verifying that FormData pickle serialization and deserialization work across all historical format versions.
+// ---
+
 #include "components/autofill/core/common/form_data.h"
 
 #include <stddef.h>

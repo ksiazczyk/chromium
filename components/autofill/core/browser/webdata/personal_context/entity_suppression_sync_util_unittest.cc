@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Entity suppression sync util unit tests
+// summary: Unit tests verifying round-trip conversion of entity suppression entries, preservation of unknown protobuf fields from base specifics, and creation of EntityData from specifics.
+// ---
+
 #include "components/autofill/core/browser/webdata/personal_context/entity_suppression_sync_util.h"
 
 #include <array>

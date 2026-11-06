@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contact info sync conversion utilities implementation
+// summary: Implements conversion between AutofillProfile objects and ContactInfoSpecifics protobuf messages, including record type and verification status mapping.
+// ---
+
 #include "components/autofill/core/browser/webdata/addresses/contact_info_sync_util.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autocomplete sync bridge implementation
+// summary: Implements the DataTypeSyncBridge that syncs local autocomplete entries with the server via AutofillSpecifics, including storage keys and change processing.
+// ---
+
 #include "components/autofill/core/browser/webdata/autocomplete/autocomplete_sync_bridge.h"
 
 #include <stdint.h>

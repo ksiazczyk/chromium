@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Form and field signature calculation implementation
+// summary: Implements calculation of form and field signatures, including digit stripping and alternative signatures, for identifying autofill web forms.
+// ---
+
 #include "components/autofill/core/common/signatures.h"
 
 #include <string_view>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill LogBuffer implementation
+// summary: Implements the LogBuffer class for Autofill logging, building a DOM-like tree of dictionary values from tags, text nodes and fragments.
+// ---
+
 #include "components/autofill/core/common/logging/log_buffer.h"
 
 #include <string>

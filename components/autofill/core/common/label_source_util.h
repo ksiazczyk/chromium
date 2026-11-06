@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Label source utility declarations
+// summary: Declares functions that stringify form field label sources for persisted logs and rank label quality relative to placeholders.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_COMMON_LABEL_SOURCE_UTIL_H_
 #define COMPONENTS_AUTOFILL_CORE_COMMON_LABEL_SOURCE_UTIL_H_
 

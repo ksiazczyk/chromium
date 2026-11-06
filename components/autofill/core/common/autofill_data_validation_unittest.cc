@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill data validation unit tests
+// summary: Unit tests verifying that form fields and form data with unique global IDs are valid and that duplicates are rejected as invalid.
+// ---
+
 #include "components/autofill/core/common/autofill_data_validation.h"
 
 #include "base/test/metrics/histogram_tester.h"

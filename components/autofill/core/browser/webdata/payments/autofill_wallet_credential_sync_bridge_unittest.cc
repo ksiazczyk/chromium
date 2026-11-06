@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AutofillWalletCredentialSyncBridge unit tests
+// summary: Unit tests for the wallet credential sync bridge covering merge, incremental sync changes, and server CVC storage in the payments autofill table.
+// ---
+
 #include "components/autofill/core/browser/webdata/payments/autofill_wallet_credential_sync_bridge.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill command-line switch declarations
+// summary: Declares the Autofill command-line switch constants that are defined in the corresponding implementation file.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_COMMON_AUTOFILL_SWITCHES_H_
 #define COMPONENTS_AUTOFILL_CORE_COMMON_AUTOFILL_SWITCHES_H_
 

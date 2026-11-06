@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test matchers for autofill tests
+// summary: Provides gmock helper matchers SaveArgPtr and LazyRef for capturing and matching callback arguments in autofill tests.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_COMMON_TEST_MATCHERS_H_
 #define COMPONENTS_AUTOFILL_CORE_COMMON_TEST_MATCHERS_H_
 

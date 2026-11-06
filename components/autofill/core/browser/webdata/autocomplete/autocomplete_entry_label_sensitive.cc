@@ -6,6 +6,12 @@
 // replace existing autocomplete_entry_label.cc. Label sensitive prefix should
 // be dropped everywhere.
 
+// ---docerion
+// type: source
+// title: Label-sensitive autocomplete entry implementation
+// summary: Implements AutocompleteKeyLabelSensitive and AutocompleteEntryLabelSensitive, adding a label field and intended to eventually replace the existing entry classes.
+// ---
+
 #include "components/autofill/core/browser/webdata/autocomplete/autocomplete_entry_label_sensitive.h"
 
 #include <string>

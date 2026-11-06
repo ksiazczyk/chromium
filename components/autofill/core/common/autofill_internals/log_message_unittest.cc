@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit test for LogMessage serialization
+// summary: Verifies that streaming a LogMessage into a LogBuffer produces the expected JSON structure with message attribute and text child.
+// ---
+
 #include "components/autofill/core/common/autofill_internals/log_message.h"
 
 #include <optional>

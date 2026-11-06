@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payments sync client tag utilities implementation
+// summary: Implements extraction of unhashed client tags from autofill wallet and valuable sync specifics, handling card, address, customer data, token, and payment instrument types.
+// ---
+
 #include "components/autofill/core/browser/webdata/payments/payments_sync_util.h"
 
 #include <string>

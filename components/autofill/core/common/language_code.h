@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LanguageCode strong alias definition
+// summary: Defines a lightweight LanguageCode strong alias for lowercase language codes, covering special cases such as zh-CN and undetermined languages.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_COMMON_LANGUAGE_CODE_H_
 #define COMPONENTS_AUTOFILL_CORE_COMMON_LANGUAGE_CODE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Autofill AI entity sync utilities
+// summary: Unit tests verifying conversion of Autofill AI entity instances and metadata to and from sync protobuf specifics, including unknown-field handling.
+// ---
+
 #include "components/autofill/core/browser/webdata/autofill_ai/entity_sync_util.h"
 
 #include "base/i18n/time_formatting.h"

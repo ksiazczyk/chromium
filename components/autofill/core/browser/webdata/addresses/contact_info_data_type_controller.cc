@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contact info sync data type controller
+// summary: Implements the syncer data type controller for CONTACT_INFO, checking preconditions such as managed account status and passphrase usage before enabling contact info sync.
+// ---
+
 #include "components/autofill/core/browser/webdata/addresses/contact_info_data_type_controller.h"
 
 #include <memory>

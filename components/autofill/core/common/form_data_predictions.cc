@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FormDataPredictions implementation
+// summary: Implements the constructors, assignment operators and destructor of the FormDataPredictions structure.
+// ---
+
 #include "components/autofill/core/common/form_data_predictions.h"
 
 namespace autofill {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill data validation implementation
+// summary: Implements sanity checks for strings, URLs, form fields, form data, and password fill data, enforcing the maximum size constants.
+// ---
+
 #include "components/autofill/core/common/autofill_data_validation.h"
 
 #include <algorithm>

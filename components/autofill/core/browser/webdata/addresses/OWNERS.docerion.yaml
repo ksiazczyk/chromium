@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the addresses autofill webdata folder
+summary: Delegates ownership of sync and type controller files in this directory to the components/sync owners.

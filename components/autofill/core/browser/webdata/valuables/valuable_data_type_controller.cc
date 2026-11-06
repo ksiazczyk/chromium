@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill valuable data type controller implementation
+// summary: Implements the sync data type controller for autofill valuables, forcing metadata to be cleared whenever sync is stopped.
+// ---
+
 #include "components/autofill/core/browser/webdata/valuables/valuable_data_type_controller.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payments autofill table implementation
+// summary: Implements the SQLite web database table storing payments autofill data such as credit cards, IBANs and offers.
+// ---
+
 #include "components/autofill/core/browser/webdata/payments/payments_autofill_table.h"
 
 #include <stdint.h>

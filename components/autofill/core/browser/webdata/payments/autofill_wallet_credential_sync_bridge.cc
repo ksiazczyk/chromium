@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillWalletCredentialSyncBridge implementation
+// summary: Implements the sync bridge that applies autofill wallet credential changes, including server CVC data, between the local web database and the Chrome sync server.
+// ---
+
 #include "components/autofill/core/browser/webdata/payments/autofill_wallet_credential_sync_bridge.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrintWrapper stream operator utilities
+// summary: Provides the PrintWrapper template to add operator<< overloads for types like optional, enums, bool and url::Origin without clashing with existing overloads.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_COMMON_LOGGING_STREAM_OPERATOR_UTIL_H_
 #define COMPONENTS_AUTOFILL_CORE_COMMON_LOGGING_STREAM_OPERATOR_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Save password progress logger unit tests
+// summary: Unit tests verifying that the save password progress logger formats logs correctly and scrubs sensitive URL and element ID data.
+// ---
+
 #include "components/autofill/core/common/save_password_progress_logger.h"
 
 #include <stddef.h>

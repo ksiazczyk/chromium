@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Contact info local data batch uploader unit tests
+// summary: Unit tests covering local data descriptions, ordering by frequency, eligibility checks, and migration triggering for contact info profiles.
+// ---
+
 #include "components/autofill/core/browser/webdata/addresses/contact_info_local_data_batch_uploader.h"
 
 #include "base/test/bind.h"

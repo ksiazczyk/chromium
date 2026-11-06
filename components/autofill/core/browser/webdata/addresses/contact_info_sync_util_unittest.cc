@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Contact info sync utilities unit tests
+// summary: Unit tests verifying conversion of AutofillProfile objects to and from ContactInfoSpecifics protobufs, including field and verification status handling.
+// ---
+
 #include "components/autofill/core/browser/webdata/addresses/contact_info_sync_util.h"
 
 #include "base/feature_list.h"

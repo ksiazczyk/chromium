@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LogBuffer header with HTML-like tag helpers
+// summary: Declares the LogBuffer class and tag helper structs such as Tag, CTag, Attrib and Br used to build structured Autofill log messages.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_COMMON_LOGGING_LOG_BUFFER_H_
 #define COMPONENTS_AUTOFILL_CORE_COMMON_LOGGING_LOG_BUFFER_H_
 

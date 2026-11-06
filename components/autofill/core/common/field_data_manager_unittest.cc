@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Field data manager unit tests
+// summary: Unit tests for FieldDataManager covering value updates, null-value updates, value matching, and clearing of field data.
+// ---
+
 #include "components/autofill/core/common/field_data_manager.h"
 
 #include "base/strings/utf_string_conversions.h"

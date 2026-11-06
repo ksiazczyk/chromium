@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill form test matcher implementation
+// summary: Implements gtest matchers that compare FormFieldData fields against a CommonFieldDescription for autofill tests.
+// ---
+
 #include "components/autofill/core/common/test_utils/autofill_form_test_util.h"
 
 namespace autofill::test {

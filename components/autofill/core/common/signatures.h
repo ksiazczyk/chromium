@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Form and field signature header
+// summary: Declares form and field signature types plus functions to calculate and hash signatures for autofill forms and fields.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_COMMON_SIGNATURES_H_
 #define COMPONENTS_AUTOFILL_CORE_COMMON_SIGNATURES_H_
 

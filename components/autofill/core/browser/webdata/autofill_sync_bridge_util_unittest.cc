@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for AreAnyItemsDifferent
+// summary: Tests the sync bridge comparison helper with comparison operators, Compare methods, unique pointers and serialized items.
+// ---
+
 #include "components/autofill/core/browser/webdata/autofill_sync_bridge_util.h"
 
 #include <compare>

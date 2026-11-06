@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credit card number validation
+// summary: Implements credit card number validation via the Luhn check, network-specific length rules, and formatted display of card numbers.
+// ---
+
 #include "components/autofill/core/common/credit_card_number_validation.h"
 
 #include <stddef.h>

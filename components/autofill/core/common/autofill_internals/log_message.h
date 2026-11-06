@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill log message enum and template macros
+// summary: Header defining the LogMessage enum via the AUTOFILL_LOG_MESSAGE_TEMPLATES macro, listing message types for form parsing, imports, submissions, and credit card upload used by Autofill internals logging.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_COMMON_AUTOFILL_INTERNALS_LOG_MESSAGE_H_
 #define COMPONENTS_AUTOFILL_CORE_COMMON_AUTOFILL_INTERNALS_LOG_MESSAGE_H_
 

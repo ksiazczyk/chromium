@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password form fill data implementation
+// summary: Implements password fill data structures, including TriggeringField and PasswordSuggestionRequest, and MaybeClearPasswordValues for clearing password values.
+// ---
+
 #include "components/autofill/core/common/password_form_fill_data.h"
 
 #include <tuple>

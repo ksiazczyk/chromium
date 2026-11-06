@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill wallet sync bridge unit tests
+// summary: Unit tests for the autofill wallet sync bridge that applies synced wallet payment data to the local database.
+// ---
+
 #include "components/autofill/core/browser/webdata/payments/autofill_wallet_sync_bridge.h"
 
 #include <stddef.h>

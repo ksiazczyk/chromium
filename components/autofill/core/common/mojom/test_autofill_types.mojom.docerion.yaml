@@ -1,0 +1,4 @@
+# Docerion header of test_autofill_types.mojom.
+type: test
+title: Test mojom interface for autofill traits
+summary: Defines a TypeTraitsTest Mojo interface used to round-trip autofill types in the traits unit tests.

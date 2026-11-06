@@ -6,6 +6,12 @@
 // existing autocomplete_table_unittest.cc. The "LabelSensitive" suffix should
 // be dropped everywhere.
 
+// ---docerion
+// type: test
+// title: Label-sensitive autocomplete table unit tests
+// summary: Unit tests for the label-sensitive autocomplete table, covering entry storage, retrieval, and removal behavior in the WebDatabase.
+// ---
+
 #include "components/autofill/core/browser/webdata/autocomplete/autocomplete_table_label_sensitive.h"
 
 #include <string>

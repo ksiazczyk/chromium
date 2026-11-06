@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the address autofill table
+// summary: Tests reading and writing autofill profiles in the web database for local and account record types, including name and contact fields.
+// ---
+
 #include "components/autofill/core/browser/webdata/addresses/address_autofill_table.h"
 
 #include <memory>

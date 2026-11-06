@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill mojom traits implementation
+// summary: Implements Mojo StructTraits Read functions that deserialize Mojo data into native autofill C++ types.
+// ---
+
 #include "components/autofill/core/common/mojom/autofill_types_mojom_traits.h"
 
 #include <variant>

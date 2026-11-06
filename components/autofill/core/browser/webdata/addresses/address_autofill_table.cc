@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Address autofill table implementation
+// summary: Implements the SQLite tables that store address autofill profiles and their type tokens, including schema creation and migrations.
+// ---
+
 #include "components/autofill/core/browser/webdata/addresses/address_autofill_table.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Payments sync bridge test utilities
+// summary: Provides helpers that create test payment data models and autofill wallet sync specifics for sync bridge tests.
+// ---
+
 #include "components/autofill/core/browser/webdata/payments/payments_sync_bridge_test_util.h"
 
 #include "base/strings/string_number_conversions.h"

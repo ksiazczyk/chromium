@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Autofill payments OWNERS
+summary: OWNERS file that includes the autofill payments owners and assigns per-file review of sync code to the components/sync owners.

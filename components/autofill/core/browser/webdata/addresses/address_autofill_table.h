@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Address autofill table class declaration
+// summary: Declares AddressAutofillTable, which manages the address autofill tables of the web database and their documented schemas.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_WEBDATA_ADDRESSES_ADDRESS_AUTOFILL_TABLE_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_WEBDATA_ADDRESSES_ADDRESS_AUTOFILL_TABLE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill clock implementation
+// summary: Implements AutofillClock::Now, returning the injected test clock time or the default system clock.
+// ---
+
 #include "components/autofill/core/common/autofill_clock.h"
 
 #include "base/check.h"

@@ -1,6 +1,13 @@
 // Copyright 2022 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Implementation of autocomplete attribute parsing
+// summary: Implements parsing of HTML autocomplete attributes into sections, modes, type hints and field types for autofill.
+// ---
+
 #include "components/autofill/core/common/autocomplete_parsing_util.h"
 
 #include <vector>

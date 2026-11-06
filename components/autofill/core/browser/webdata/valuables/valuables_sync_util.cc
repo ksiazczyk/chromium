@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Valuables sync utility implementation
+// summary: Implements conversions between loyalty cards, valuable metadata and sync protobuf specifics, including trimming supported fields for caching.
+// ---
+
 #include "components/autofill/core/browser/webdata/valuables/valuables_sync_util.h"
 
 #include <memory>

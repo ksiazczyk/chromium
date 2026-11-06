@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contact info local data batch uploader declarations
+// summary: Declares the batch uploader that lists local profiles eligible for migration to account storage and triggers their migration through the AddressDataManager.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_WEBDATA_ADDRESSES_CONTACT_INFO_LOCAL_DATA_BATCH_UPLOADER_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_WEBDATA_ADDRESSES_CONTACT_INFO_LOCAL_DATA_BATCH_UPLOADER_H_
 

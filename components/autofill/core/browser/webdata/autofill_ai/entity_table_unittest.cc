@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Autofill AI entity table
+// summary: Unit tests verifying that the entity database tables correctly persist, update and load entity instances, attributes and metadata.
+// ---
+
 #include "components/autofill/core/browser/webdata/autofill_ai/entity_table.h"
 
 #include <memory>

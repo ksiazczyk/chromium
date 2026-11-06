@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AutofillWebDataServiceTestHelper implementation
+// summary: Implements a test helper that sets up an in-memory web database and Autofill web data service and waits until pending tasks finish.
+// ---
+
 #include "components/autofill/core/browser/webdata/autofill_webdata_service_test_helper.h"
 
 #include "base/functional/callback_helpers.h"

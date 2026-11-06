@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Log message to string and LogBuffer serialization
+// summary: Implements LogMessageToString and LogMessageValue for the Autofill LogMessage enum and streams log messages into a LogBuffer as HTML-like div elements.
+// ---
+
 #include "components/autofill/core/common/autofill_internals/log_message.h"
 
 #include "base/logging.h"

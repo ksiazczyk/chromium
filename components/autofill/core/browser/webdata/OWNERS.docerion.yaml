@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the autofill webdata directory
+summary: Names the domain expert for reviews and points to the parent components/autofill OWNERS file for simple reviews.

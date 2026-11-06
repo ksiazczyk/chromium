@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SQLite table for Autofill AI entities
+// summary: Implements the WebDatabase tables that store Autofill AI entity instances, their encrypted attributes and usage metadata in SQLite.
+// ---
+
 #include "components/autofill/core/browser/webdata/autofill_ai/entity_table.h"
 
 #include <stdint.h>

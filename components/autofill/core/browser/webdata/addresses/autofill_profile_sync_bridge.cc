@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill profile sync bridge implementation
+// summary: Implements the sync bridge that propagates local autofill profiles to the sync server and applies remote profile changes.
+// ---
+
 #include "components/autofill/core/browser/webdata/addresses/autofill_profile_sync_bridge.h"
 
 #include <memory>

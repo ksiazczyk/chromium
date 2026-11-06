@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Payments autofill table unit tests
+// summary: Unit tests for the payments autofill database table covering storage and retrieval of payment data.
+// ---
+
 #include "components/autofill/core/browser/webdata/payments/payments_autofill_table.h"
 
 #include <algorithm>

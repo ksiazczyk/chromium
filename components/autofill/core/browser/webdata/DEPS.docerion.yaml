@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the autofill webdata directory
+summary: Defines include rules that allow dependencies on components/sync within this directory.

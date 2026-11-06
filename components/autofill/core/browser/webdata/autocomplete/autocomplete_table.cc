@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autocomplete table implementation
+// summary: Implements the SQLite-backed autocomplete history table with operations to add form values, query entries by prefix, and remove entries by time range.
+// ---
+
 #include "components/autofill/core/browser/webdata/autocomplete/autocomplete_table.h"
 
 #include <stddef.h>
