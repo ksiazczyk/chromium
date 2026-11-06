@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device attestation result types header
+// summary: Defines enterprise namespace structs BlobGenerationResult and AttestationResult, including an IsSuccess helper that serves as the single definition of attestation success.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_DEVICE_ATTESTATION_COMMON_DEVICE_ATTESTATION_TYPES_H_
 #define COMPONENTS_ENTERPRISE_DEVICE_ATTESTATION_COMMON_DEVICE_ATTESTATION_TYPES_H_
 

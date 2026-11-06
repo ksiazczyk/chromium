@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Reporting event proto helpers unit tests
+// summary: Unit tests for the reporting event proto helpers, covering event result strings, password breach, password reuse, and password changed events.
+// ---
+
 #include "components/enterprise/connectors/core/reporting_utils.h"
 
 #include "components/enterprise/common/proto/synced/browser_events.pb.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for connectors internals utilities
+// summary: Unit tests covering timestamp formatting, policy level conversion and device trust and signals reporting state creation helpers.
+// ---
+
 #include "components/enterprise/connectors/core/connectors_internals_utils.h"
 
 #include <memory>

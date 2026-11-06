@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CloudBinaryUploadServiceBase implementation
+// summary: Implements CloudBinaryUploadServiceBase, which uploads files and data to Safe Browsing scan endpoints and manages authorization, timeouts, and verdict retrieval.
+// ---
+
 #include "components/enterprise/connectors/core/cloud_content_scanning/cloud_binary_upload_service_base.h"
 
 #include <string_view>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform-agnostic Data Controls warning dialog declaration
+// summary: Declares the base class for dialogs warning users about actions blocked by Data Controls rules, with dialog types for clipboard actions.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_DATA_CONTROLS_CORE_BROWSER_DATA_CONTROLS_DIALOG_H_
 #define COMPONENTS_ENTERPRISE_DATA_CONTROLS_CORE_BROWSER_DATA_CONTROLS_DIALOG_H_
 

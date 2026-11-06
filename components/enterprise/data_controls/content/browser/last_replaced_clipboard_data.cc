@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of last replaced clipboard data tracking
+// summary: Implements storage of clipboard data replaced by Data Controls rules, listing available MIME types and an observer that binds pending data to clipboard sequence numbers.
+// ---
+
 #include "components/enterprise/data_controls/content/browser/last_replaced_clipboard_data.h"
 
 #include "ui/base/clipboard/clipboard.h"

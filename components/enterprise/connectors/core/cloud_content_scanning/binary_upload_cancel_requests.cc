@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BinaryUploadCancelRequests implementation
+// summary: Implements the BinaryUploadCancelRequests class that stores the user action id used to cancel matching upload requests.
+// ---
+
 #include "components/enterprise/connectors/core/cloud_content_scanning/binary_upload_cancel_requests.h"
 
 namespace enterprise_connectors {

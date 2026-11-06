@@ -1,0 +1,4 @@
+# Docerion header of device_trust_connector.html.
+type: source
+title: Device Trust connector panel template
+summary: HTML template showing Device Trust enablement, key manager state, consent details, and signals with a copy button.

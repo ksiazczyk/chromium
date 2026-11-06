@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DependencyFactory interface for lazy-loading policy dependencies
+// summary: Declares an abstract enterprise_core factory interface that lazily provides the user's CloudPolicyManager.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_CORE_DEPENDENCY_FACTORY_H_
 #define COMPONENTS_ENTERPRISE_CORE_DEPENDENCY_FACTORY_H_
 

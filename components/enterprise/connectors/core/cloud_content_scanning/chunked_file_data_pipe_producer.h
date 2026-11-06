@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChunkedFileDataPipeProducer class declaration
+// summary: Declares ChunkedFileDataPipeProducer, a helper that reads regular or obfuscated files sequentially in 512KB chunks on a background sequence for cloud scanning uploads.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_CONNECTORS_CORE_CLOUD_CONTENT_SCANNING_CHUNKED_FILE_DATA_PIPE_PRODUCER_H_
 #define COMPONENTS_ENTERPRISE_CONNECTORS_CORE_CLOUD_CONTENT_SCANNING_CHUNKED_FILE_DATA_PIPE_PRODUCER_H_
 

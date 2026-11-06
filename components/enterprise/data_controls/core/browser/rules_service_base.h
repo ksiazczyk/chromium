@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data Controls rules service base interface
+// summary: Declares the platform-agnostic keyed service interface for checking restrictions from the DataControlsRules policy and tracking its updates.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_DATA_CONTROLS_CORE_BROWSER_RULES_SERVICE_BASE_H_
 #define COMPONENTS_ENTERPRISE_DATA_CONTROLS_CORE_BROWSER_RULES_SERVICE_BASE_H_
 

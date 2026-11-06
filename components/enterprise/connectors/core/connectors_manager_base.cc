@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the base enterprise connectors manager
+// summary: Implements caching and lookup of analysis and reporting connector settings from policy preferences, including network request analysis settings.
+// ---
+
 #include "components/enterprise/connectors/core/connectors_manager_base.h"
 
 #include "base/feature_list.h"

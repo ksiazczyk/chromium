@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Analysis settings test utilities
+// summary: Provides JSON policy settings strings and helper functions used by analysis connector tests.
+// ---
+
 #include "components/enterprise/connectors/core/analysis_test_utils.h"
 
 #include "base/json/json_reader.h"

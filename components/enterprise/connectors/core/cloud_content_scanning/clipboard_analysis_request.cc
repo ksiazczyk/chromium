@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClipboardAnalysisRequest implementation
+// summary: Implements ClipboardAnalysisRequest, a binary upload request that supplies clipboard text or image bytes as data for cloud content scanning and tracks crash keys.
+// ---
+
 #include "components/enterprise/connectors/core/cloud_content_scanning/clipboard_analysis_request.h"
 
 #include "components/enterprise/connectors/core/cloud_content_scanning/binary_upload_service.h"

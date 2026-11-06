@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the base enterprise connectors service
+// summary: Implements DM token checks and settings lookup for real-time URL checks and reporting connectors on top of ConnectorsManagerBase.
+// ---
+
 #include "components/enterprise/connectors/core/connectors_service_base.h"
 
 #include "base/feature_list.h"

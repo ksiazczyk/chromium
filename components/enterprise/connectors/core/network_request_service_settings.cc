@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network request service settings implementation
+// summary: Parses the OnNetworkRequestEnterpriseConnector policy into audit domain lists and tags and computes matching network request analysis settings.
+// ---
+
 #include "components/enterprise/connectors/core/network_request_service_settings.h"
 
 #include "base/notreached.h"

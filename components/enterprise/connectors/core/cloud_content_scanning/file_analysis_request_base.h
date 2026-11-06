@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileAnalysisRequestBase class header
+// summary: Declares FileAnalysisRequestBase, a BinaryUploadRequest that obtains scan data from a file's contents with result caching, virtual file support, and cancellation
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_CONNECTORS_CORE_CLOUD_CONTENT_SCANNING_FILE_ANALYSIS_REQUEST_BASE_H_
 #define COMPONENTS_ENTERPRISE_CONNECTORS_CORE_CLOUD_CONTENT_SCANNING_FILE_ANALYSIS_REQUEST_BASE_H_
 

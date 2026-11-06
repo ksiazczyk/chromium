@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network request service settings unit tests
+// summary: Unit tests verifying that NetworkRequestServiceSettings returns expected analysis settings for matching tab and request domains across data regions.
+// ---
+
 #include "components/enterprise/connectors/core/network_request_service_settings.h"
 
 #include "base/json/json_reader.h"

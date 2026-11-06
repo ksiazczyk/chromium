@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BinaryUploadRequest implementation
+// summary: Implements BinaryUploadRequest, building ContentAnalysisRequest protos and managing data for file, page, string and network request scans.
+// ---
+
 #include "components/enterprise/connectors/core/cloud_content_scanning/binary_upload_request.h"
 
 #include <algorithm>

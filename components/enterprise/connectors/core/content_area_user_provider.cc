@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content area user provider implementation
+// summary: Implements helpers that resolve the active Gaia user email from tab or frame URLs on Google and Workspace domains using the identity manager.
+// ---
+
 #include "components/enterprise/connectors/core/content_area_user_provider.h"
 
 #include <array>

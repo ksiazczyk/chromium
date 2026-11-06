@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockContentAnalysisInfoBase for tests
+// summary: Declares MockContentAnalysisInfoBase, a gmock implementation of ContentAnalysisInfoBase that stubs request initialization and scan metadata accessors for tests.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_CONNECTORS_CORE_CLOUD_CONTENT_SCANNING_MOCK_CONTENT_ANALYSIS_INFO_H_
 #define COMPONENTS_ENTERPRISE_CONNECTORS_CORE_CLOUD_CONTENT_SCANNING_MOCK_CONTENT_ANALYSIS_INFO_H_
 

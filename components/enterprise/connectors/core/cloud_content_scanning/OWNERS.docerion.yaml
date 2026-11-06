@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for cloud content scanning
+summary: Lists required reviewers from Safe Browsing and Chrome Enterprise Premium for significant changes in this directory, with an alias for trivial reviews.

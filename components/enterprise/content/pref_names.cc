@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Copy prevention preference name constants
+// summary: Defines the preference name and field name constants used by the copy prevention settings policy in the enterprise content component.
+// ---
+
 #include "components/enterprise/content/pref_names.h"
 
 namespace enterprise {

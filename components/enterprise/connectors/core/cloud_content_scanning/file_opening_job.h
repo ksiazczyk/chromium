@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileOpeningJob class header
+// summary: Declares FileOpeningJob, a ref-counted job that opens files for multiple scan requests in parallel and supports non-blocking cancellation signals
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_CONNECTORS_CORE_CLOUD_CONTENT_SCANNING_FILE_OPENING_JOB_H_
 #define COMPONENTS_ENTERPRISE_CONNECTORS_CORE_CLOUD_CONTENT_SCANNING_FILE_OPENING_JOB_H_
 

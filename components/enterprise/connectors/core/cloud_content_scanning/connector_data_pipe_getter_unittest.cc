@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Connector data pipe getter unit tests
+// summary: Tests the data pipe getter body generation for files, shared memory pages, and obfuscated chunked content.
+// ---
+
 #include "components/enterprise/connectors/core/cloud_content_scanning/connector_data_pipe_getter.h"
 
 #include <memory>

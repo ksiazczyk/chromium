@@ -1,0 +1,4 @@
+# Docerion header of managed_client_certificate.html.
+type: source
+title: Managed client certificate template
+summary: HTML template for the managed client certificate section, showing enabled policy levels and dynamically added managed identities.

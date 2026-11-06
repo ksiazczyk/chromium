@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Main app element for the connectors internals page
+// summary: Defines the connectors-internals-app custom element that renders the tabs root or a disabled message depending on context.
+// ---
+
 import '/strings.m.js';
 import './connectors_tabs.js';
 

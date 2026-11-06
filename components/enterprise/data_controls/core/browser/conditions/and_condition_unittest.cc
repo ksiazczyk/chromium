@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AndCondition unit tests
+// summary: Unit tests verifying that AndCondition rejects empty input and triggers correctly across combinations of true and false sub-conditions.
+// ---
+
 #include "components/enterprise/data_controls/core/browser/conditions/and_condition.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

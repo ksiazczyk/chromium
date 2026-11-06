@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Device attestation component build targets
+summary: Defines GN build targets for the device attestation component, including platform-specific sources for Android and iOS plus a test_support target.

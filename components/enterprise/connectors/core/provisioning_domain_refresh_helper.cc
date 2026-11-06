@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Provisioning domain refresh helper implementation
+// summary: Implements a helper that force-refreshes provisioning domain configs on the enterprise proxy service and resolves pending callbacks on completion or timeout.
+// ---
+
 #include "components/enterprise/connectors/core/provisioning_domain_refresh_helper.h"
 
 #if BUILDFLAG(ENTERPRISE_PROXY)

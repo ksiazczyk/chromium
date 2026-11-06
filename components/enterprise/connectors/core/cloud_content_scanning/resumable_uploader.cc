@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Resumable upload request implementation
+// summary: Implements ResumableUploadRequest, uploading scan metadata and file, page or image content with the resumable upload protocol via X-Goog-Upload headers.
+// ---
+
 #include "components/enterprise/connectors/core/cloud_content_scanning/resumable_uploader.h"
 
 #include <memory>

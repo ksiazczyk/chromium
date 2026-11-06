@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AttributesCondition unit tests
+// summary: Unit tests verifying parsing and evaluation of source and destination attributes conditions, including rejection of invalid JSON inputs and URL patterns.
+// ---
+
 #include "components/enterprise/data_controls/core/browser/conditions/attributes_condition.h"
 
 #include <vector>

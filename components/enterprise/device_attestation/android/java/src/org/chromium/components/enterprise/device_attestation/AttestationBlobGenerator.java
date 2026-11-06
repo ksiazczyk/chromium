@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AttestationBlobGenerator
+// summary: Entry point for attestation blob generation that loads a downstream delegate via ServiceLoader and forwards content-binding hashes, returning an error result when no delegate is available.
+// ---
+
 package org.chromium.components.enterprise.device_attestation;
 
 import org.jni_zero.CalledByNative;

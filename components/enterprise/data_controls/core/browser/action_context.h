@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Action source and destination structs for Data Controls rules
+// summary: Declares structs describing the source and destination of a data action, including tab URLs, clipboard, Gemini agent and ChromeOS components.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_DATA_CONTROLS_CORE_BROWSER_ACTION_CONTEXT_H_
 #define COMPONENTS_ENTERPRISE_DATA_CONTROLS_CORE_BROWSER_ACTION_CONTEXT_H_
 

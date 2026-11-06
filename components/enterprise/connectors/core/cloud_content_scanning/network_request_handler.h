@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkRequestHandler declaration
+// summary: Declares NetworkRequestHandler, which handles audit-only cloud scanning and reporting of a single network request body under the OnNetworkRequestEnterpriseConnector policy.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_CONNECTORS_CORE_CLOUD_CONTENT_SCANNING_NETWORK_REQUEST_HANDLER_H_
 #define COMPONENTS_ENTERPRISE_CONNECTORS_CORE_CLOUD_CONTENT_SCANNING_NETWORK_REQUEST_HANDLER_H_
 

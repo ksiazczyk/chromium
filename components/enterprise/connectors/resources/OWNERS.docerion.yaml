@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS pointer to enterprise connectors owners
+summary: Redirects ownership for this resources folder to the chrome browser enterprise connectors OWNERS file.

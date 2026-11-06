@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Allowed include rules for the data protection component
+summary: Lists allowed include paths for the data protection component, covering base i18n, enterprise connectors, keyed services, safe browsing, network, and URL code.

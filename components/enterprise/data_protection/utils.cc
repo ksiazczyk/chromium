@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data protection URL settings and watermark utilities
+// summary: Implements helpers that derive URL settings from safe browsing lookup responses, building watermark text and formatting timestamps with timezones.
+// ---
+
 #include "components/enterprise/data_protection/utils.h"
 
 #include "base/feature_list.h"

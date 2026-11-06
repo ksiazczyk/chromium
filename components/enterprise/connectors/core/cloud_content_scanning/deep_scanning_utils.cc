@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Deep scanning utilities implementation
+// summary: Implements helpers for reporting deep scanning verdicts, crash keys, unscanned reasons, and upload result classification.
+// ---
+
 #include "components/enterprise/connectors/core/cloud_content_scanning/deep_scanning_utils.h"
 
 #include "base/logging.h"

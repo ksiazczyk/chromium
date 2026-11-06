@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the data controls browser directory
+summary: Defines the allowed include paths for keyed services, content browser APIs, and clipboard utilities within this directory.

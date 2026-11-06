@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Connector data pipe getter
+// summary: Declares the mojom DataPipeGetter implementation that supplies file or page data for multipart and resumable scan uploads.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_CONNECTORS_CORE_CLOUD_CONTENT_SCANNING_CONNECTOR_DATA_PIPE_GETTER_H_
 #define COMPONENTS_ENTERPRISE_CONNECTORS_CORE_CLOUD_CONTENT_SCANNING_CONNECTOR_DATA_PIPE_GETTER_H_
 

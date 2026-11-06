@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Realtime reporting client base implementation
+// summary: Implements the base reporting client that initializes cloud policy clients and uploads Safe Browsing, SaaS usage, and browser launch events to the reporting server.
+// ---
+
 #include "components/enterprise/connectors/core/realtime_reporting_client_base.h"
 
 #include <algorithm>

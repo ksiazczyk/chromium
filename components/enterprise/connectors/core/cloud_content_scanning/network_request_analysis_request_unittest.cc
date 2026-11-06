@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NetworkRequestAnalysisRequest unit tests
+// summary: Unit tests for NetworkRequestAnalysisRequest verifying body size computation and scan results for empty, file, and chunked data pipe request bodies.
+// ---
+
 #include "components/enterprise/connectors/core/cloud_content_scanning/network_request_analysis_request.h"
 
 #include <limits>

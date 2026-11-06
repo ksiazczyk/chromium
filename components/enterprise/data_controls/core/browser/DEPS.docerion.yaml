@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the Data Controls browser directory
+summary: Defines allowed include dependencies such as keyed services, URL matcher, clipboard and re2 for the Data Controls browser code.

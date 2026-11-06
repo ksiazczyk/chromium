@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reporting event router implementation
+// summary: Implements the router that collects safe browsing, download, and data control events and forwards them to the realtime reporting client based on enabled settings.
+// ---
+
 #include "components/enterprise/connectors/core/reporting_event_router.h"
 
 #include <algorithm>

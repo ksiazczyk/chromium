@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise Connectors policy handler class declaration
+// summary: Declares EnterpriseConnectorsPolicyHandler, a schema policy handler for Enterprise Connectors policies that maps policy settings and scope to prefs.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_CONNECTORS_CORE_ENTERPRISE_CONNECTORS_POLICY_HANDLER_H_
 #define COMPONENTS_ENTERPRISE_CONNECTORS_CORE_ENTERPRISE_CONNECTORS_POLICY_HANDLER_H_
 

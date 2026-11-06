@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the base connectors manager
+// summary: Unit tests verifying caching and dynamic updates of reporting and network request connector policy preferences.
+// ---
+
 #include "components/enterprise/connectors/core/connectors_manager_base.h"
 
 #include "base/json/json_reader.h"

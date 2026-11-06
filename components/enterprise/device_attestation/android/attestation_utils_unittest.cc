@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for attestation hash creation
+// summary: Unit tests verifying CreateAttestationHashes output for standard, empty, and partially empty inputs against expected Base64-encoded SHA-256 hash values.
+// ---
+
 #include "components/enterprise/device_attestation/android/attestation_utils.h"
 
 #include <string>

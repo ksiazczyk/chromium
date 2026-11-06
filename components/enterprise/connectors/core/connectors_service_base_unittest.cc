@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Connectors service base unit tests
+// summary: Unit tests verifying DM token retrieval, real-time URL check policy handling and analysis settings behavior of ConnectorsServiceBase.
+// ---
+
 #include "components/enterprise/connectors/core/connectors_service_base.h"
 
 #include "base/json/json_reader.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClipboardRequestHandler implementation
+// summary: Implements ClipboardRequestHandler, which creates clipboard analysis requests, handles scan responses, and reports warning bypasses for paste actions.
+// ---
+
 #include "components/enterprise/connectors/core/cloud_content_scanning/clipboard_request_handler.h"
 
 #include "base/logging.h"

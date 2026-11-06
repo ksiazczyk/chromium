@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of connectors internals page utilities
+// summary: Implements conversion and formatting helpers that turn certificate, key and reporting state into Mojo structs for the connectors internals page.
+// ---
+
 #include "components/enterprise/connectors/core/connectors_internals_utils.h"
 
 #include "base/base64url.h"

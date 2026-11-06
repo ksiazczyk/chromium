@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android attestation client implementation
+// summary: Implements AndroidAttestationClient, dispatching attestation blob generation to Java via JNI on a background thread pool and returning the result through a callback.
+// ---
+
 #include "components/enterprise/device_attestation/android/android_attestation_client.h"
 
 #include "base/android/jni_android.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AttestationServiceIOS interface header
+// summary: Declares the AttestationServiceIOS interface for retrieving device attestation snapshots on iOS, including error codes, content bindings, and initialization and snapshot callbacks.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_DEVICE_ATTESTATION_IOS_ATTESTATION_SERVICE_IOS_H_
 #define COMPONENTS_ENTERPRISE_DEVICE_ATTESTATION_IOS_ATTESTATION_SERVICE_IOS_H_
 

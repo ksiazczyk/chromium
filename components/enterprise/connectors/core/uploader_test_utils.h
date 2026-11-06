@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Uploader test utilities header
+// summary: Declares test helpers for extracting upload request bodies from connector data pipes and network resource request bodies.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_CONNECTORS_CORE_UPLOADER_TEST_UTILS_H_
 #define COMPONENTS_ENTERPRISE_CONNECTORS_CORE_UPLOADER_TEST_UTILS_H_
 

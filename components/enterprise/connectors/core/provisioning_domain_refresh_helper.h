@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Provisioning domain refresh helper declaration
+// summary: Declares a helper that manages refreshing provisioning domain configs on EnterpriseProxyService and resolves pending callbacks when the refresh completes or times out.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_CONNECTORS_CORE_PROVISIONING_DOMAIN_REFRESH_HELPER_H_
 #define COMPONENTS_ENTERPRISE_CONNECTORS_CORE_PROVISIONING_DOMAIN_REFRESH_HELPER_H_
 

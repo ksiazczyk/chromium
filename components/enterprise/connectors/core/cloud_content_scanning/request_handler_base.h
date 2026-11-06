@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RequestHandlerBase abstract class for deep scanning
+// summary: Declares the abstract RequestHandlerBase interface that subclasses implement to upload content for deep scanning and report warning bypasses.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_CONNECTORS_CORE_CLOUD_CONTENT_SCANNING_REQUEST_HANDLER_BASE_H_
 #define COMPONENTS_ENTERPRISE_CONNECTORS_CORE_CLOUD_CONTENT_SCANNING_REQUEST_HANDLER_BASE_H_
 

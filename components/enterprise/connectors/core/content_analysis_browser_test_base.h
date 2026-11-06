@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content analysis browser test base header
+// summary: Declares a base class for browser tests that set up an embedded test server expecting content analysis requests and returning responses.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_CONNECTORS_CORE_CONTENT_ANALYSIS_BROWSER_TEST_BASE_H_
 #define COMPONENTS_ENTERPRISE_CONNECTORS_CORE_CONTENT_ANALYSIS_BROWSER_TEST_BASE_H_
 

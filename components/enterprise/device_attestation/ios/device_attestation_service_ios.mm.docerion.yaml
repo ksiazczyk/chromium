@@ -1,0 +1,4 @@
+# Docerion header of device_attestation_service_ios.mm.
+type: source
+title: DeviceAttestationServiceIOS implementation
+summary: Implements the iOS device attestation service, hashing request payloads, timestamps, and nonces into content bindings and generating versioned binding strings from profile reports.

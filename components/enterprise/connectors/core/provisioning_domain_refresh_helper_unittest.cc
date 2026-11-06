@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Provisioning domain refresh helper unit tests
+// summary: Unit tests covering null service, successful refresh, timeout, and multiple concurrent callers of the provisioning domain refresh helper.
+// ---
+
 #include "components/enterprise/connectors/core/provisioning_domain_refresh_helper.h"
 
 #include <utility>

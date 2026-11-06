@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise interstitial utility declarations
+// summary: Declares GetUrlFilteringCustomMessage, which returns the admin-specified custom message from RTLookup responses for enterprise interstitial pages.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_CONNECTORS_CORE_ENTERPRISE_INTERSTITIAL_UTIL_H_
 #define COMPONENTS_ENTERPRISE_CONNECTORS_CORE_ENTERPRISE_INTERSTITIAL_UTIL_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the enterprise connectors directory
+summary: Lists the code owners and review alias for the connectors directory, with per-file rules sending mojom reviews to the IPC security owners.

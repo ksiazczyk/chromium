@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data Controls policy handler class declaration
+// summary: Declares DataControlsPolicyHandler, a schema-validating policy handler that checks Data Controls policies and applies their settings to preferences.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_DATA_CONTROLS_CORE_BROWSER_DATA_CONTROLS_POLICY_HANDLER_H_
 #define COMPONENTS_ENTERPRISE_DATA_CONTROLS_CORE_BROWSER_DATA_CONTROLS_POLICY_HANDLER_H_
 

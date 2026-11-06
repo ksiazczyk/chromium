@@ -1,0 +1,4 @@
+# Docerion header of signals_reporting.html.
+type: source
+title: User signals reporting template
+summary: HTML template for the user signals reporting section showing policy status, upload timestamps, collection capability, and signals JSON.

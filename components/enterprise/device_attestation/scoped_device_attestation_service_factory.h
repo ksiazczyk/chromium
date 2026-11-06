@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped device attestation service factory header
+// summary: Declares ScopedDeviceAttestationServiceFactory, a test helper that mocks device attestation and exposes the expected fake blob and content binding version.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_DEVICE_ATTESTATION_SCOPED_DEVICE_ATTESTATION_SERVICE_FACTORY_H_
 #define COMPONENTS_ENTERPRISE_DEVICE_ATTESTATION_SCOPED_DEVICE_ATTESTATION_SERVICE_FACTORY_H_
 

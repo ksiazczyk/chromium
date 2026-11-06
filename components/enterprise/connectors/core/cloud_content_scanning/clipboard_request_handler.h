@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClipboardRequestHandler class declaration
+// summary: Declares ClipboardRequestHandler, which manages a ClipboardAnalysisRequest and reporting for a single paste action, supporting text and image types and a test factory.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_CONNECTORS_CORE_CLOUD_CONTENT_SCANNING_CLIPBOARD_REQUEST_HANDLER_H_
 #define COMPONENTS_ENTERPRISE_CONNECTORS_CORE_CLOUD_CONTENT_SCANNING_CLIPBOARD_REQUEST_HANDLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped device attestation service factory implementation
+// summary: Implements a scoped test factory that swaps in a mock device attestation service returning a hardcoded fake attestation blob and content binding version.
+// ---
+
 #include "components/enterprise/device_attestation/scoped_device_attestation_service_factory.h"
 
 #include <utility>

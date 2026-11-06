@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device attestation metrics implementation
+// summary: Implements UMA histogram logging for attestation blob requests, results, latency, and blob size.
+// ---
+
 #include "components/enterprise/device_attestation/device_attestation_metrics.h"
 
 #include "base/metrics/histogram_functions.h"

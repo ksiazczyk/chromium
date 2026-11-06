@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Component string and proto mapping functions
+// summary: Maps component strings to the Component enum and to DLP protobuf values for restricted ChromeOS destinations.
+// ---
+
 #include "components/enterprise/data_controls/core/browser/component.h"
 
 #include <string_view>

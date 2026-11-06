@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for last replaced clipboard data
+// summary: Verifies that replaced clipboard data, available types, and restriction levels are tracked, merged, and prioritized correctly across clipboard sequence number changes.
+// ---
+
 #include "components/enterprise/data_controls/content/browser/last_replaced_clipboard_data.h"
 
 #include "testing/gmock/include/gmock/gmock.h"

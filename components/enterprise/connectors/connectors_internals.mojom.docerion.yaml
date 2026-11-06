@@ -1,0 +1,4 @@
+# Docerion header of connectors_internals.mojom.
+type: source
+title: Mojo definitions for the connectors internals interface
+summary: Mojo IDL source defining enums and structs for key manager status, device trust connector state, and client certificate identity metadata used by the internals UI.

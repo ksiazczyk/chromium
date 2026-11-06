@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service provider configuration declarations
+// summary: Declares structs for supported tags, analysis and reporting configs, and the service provider map used by enterprise connectors.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_CONNECTORS_CORE_SERVICE_PROVIDER_CONFIG_H_
 #define COMPONENTS_ENTERPRISE_CONNECTORS_CORE_SERVICE_PROVIDER_CONFIG_H_
 

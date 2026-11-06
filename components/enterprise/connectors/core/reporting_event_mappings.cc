@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reporting event case mappings
+// summary: Maps reporting event cases to UMA metric names and event name strings used for payload size metrics and event identification.
+// ---
+
 #include "components/enterprise/connectors/core/reporting_event_mappings.h"
 
 #include <string>

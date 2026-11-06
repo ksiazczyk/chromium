@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Data Controls policy handler unit tests
+// summary: Unit tests for the Data Controls policy handler, covering schema validation and mapping of DataControlsRules policies into preference values.
+// ---
+
 #include "components/enterprise/data_controls/core/browser/data_controls_policy_handler.h"
 
 #include <memory>

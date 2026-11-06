@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Analysis settings test utility declarations
+// summary: Declares test parameters, settings strings, test URLs, and helper functions for setting and clearing analysis connector prefs in tests.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_CONNECTORS_CORE_ANALYSIS_TEST_UTILS_H_
 #define COMPONENTS_ENTERPRISE_CONNECTORS_CORE_ANALYSIS_TEST_UTILS_H_
 

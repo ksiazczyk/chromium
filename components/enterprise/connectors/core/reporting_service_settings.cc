@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reporting service settings implementation
+// summary: Parses connector policy settings into reporting service settings, resolving the service provider and enabled or opt-in events.
+// ---
+
 #include "components/enterprise/connectors/core/reporting_service_settings.h"
 
 #include "base/logging.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android attestation client class declaration
+// summary: Declares the AndroidAttestationClient class that asynchronously generates device attestation blobs on Android through the Java attestation APIs via JNI.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_DEVICE_ATTESTATION_ANDROID_ANDROID_ATTESTATION_CLIENT_H_
 #define COMPONENTS_ENTERPRISE_DEVICE_ATTESTATION_ANDROID_ANDROID_ATTESTATION_CLIENT_H_
 

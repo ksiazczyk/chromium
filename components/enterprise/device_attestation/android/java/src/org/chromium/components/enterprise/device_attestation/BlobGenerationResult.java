@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BlobGenerationResult
+// summary: Result object holding a generated attestation blob or an error message, with getters exposed to native code via CalledByNative annotations.
+// ---
+
 package org.chromium.components.enterprise.device_attestation;
 
 import org.jni_zero.CalledByNative;

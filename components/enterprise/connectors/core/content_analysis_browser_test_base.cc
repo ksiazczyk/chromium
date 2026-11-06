@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content analysis browser test base implementation
+// summary: Implements embedded test server handling that parses and validates multipart and resumable content analysis requests during browser tests.
+// ---
+
 #include "components/enterprise/connectors/core/content_analysis_browser_test_base.h"
 
 #include <algorithm>

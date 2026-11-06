@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data protection URL lookup service header
+// summary: Declares the DataProtectionUrlLookupService keyed service, its verdict cache types, and lookup callback used to scope URL verdicts to a profile.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_DATA_PROTECTION_DATA_PROTECTION_URL_LOOKUP_SERVICE_H_
 #define COMPONENTS_ENTERPRISE_DATA_PROTECTION_DATA_PROTECTION_URL_LOOKUP_SERVICE_H_
 

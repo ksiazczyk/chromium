@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Connector upload request
+// summary: Declares the upload request class supporting string, file, page, image, and network request data sources, plus a test factory.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_CONNECTORS_CORE_CLOUD_CONTENT_SCANNING_CONNECTOR_UPLOAD_REQUEST_H_
 #define COMPONENTS_ENTERPRISE_CONNECTORS_CORE_CLOUD_CONTENT_SCANNING_CONNECTOR_UPLOAD_REQUEST_H_
 

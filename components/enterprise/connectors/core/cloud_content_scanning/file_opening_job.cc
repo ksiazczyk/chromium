@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File opening job implementation
+// summary: Implements FileOpeningJob, which opens multiple files concurrently via base::PostJob with configurable thread limits, cancellation handling, and blocking duration metrics
+// ---
+
 #include "components/enterprise/connectors/core/cloud_content_scanning/file_opening_job.h"
 
 #include "base/command_line.h"

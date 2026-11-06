@@ -1,0 +1,4 @@
+# Docerion header of connectors_tabs.html.
+type: source
+title: Tabs template for the connectors list
+summary: HTML template with styles for the dynamically added connector tabs and a message shown when no connectors are displayable.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Realtime reporting test server implementation
+// summary: Implements a fake embedded server that parses and records realtime reporting event uploads, such as login, password breach, and interstitial events, for integration tests.
+// ---
+
 #include "components/enterprise/connectors/core/realtime_reporting_test_server.h"
 
 #include <optional>

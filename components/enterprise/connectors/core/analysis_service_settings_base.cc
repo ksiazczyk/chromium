@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Analysis service settings base implementation
+// summary: Implements parsing of analysis connector policy settings, including service provider data, URL patterns, block behavior, and custom messages.
+// ---
+
 #include "components/enterprise/connectors/core/analysis_service_settings_base.h"
 
 #include "base/logging.h"

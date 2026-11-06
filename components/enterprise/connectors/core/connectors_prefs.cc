@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Registration of enterprise connector preferences
+// summary: Defines pref name constants and registers profile and local state preferences for enterprise connector policies.
+// ---
+
 #include "components/enterprise/connectors/core/connectors_prefs.h"
 
 #include <algorithm>

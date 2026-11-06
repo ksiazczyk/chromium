@@ -1,0 +1,4 @@
+# Docerion header of provisioning_domain_config.html.
+type: source
+title: Provisioning domain configurations template
+summary: HTML template for the provisioning domain configurations section with a refresh routes button, status text, and a list of PvD configs.

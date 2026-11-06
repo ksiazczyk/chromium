@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL settings and watermark helper declarations
+// summary: Declares the UrlSettings struct and helper functions for extracting watermark text, screenshot permissions, and timestamp formatting from lookup responses.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_DATA_PROTECTION_UTILS_H_
 #define COMPONENTS_ENTERPRISE_DATA_PROTECTION_UTILS_H_
 

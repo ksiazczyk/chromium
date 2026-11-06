@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android device attestation service implementation
+// summary: Implements the Android device attestation service, building versioned content binding strings, hashing report data, invoking the attestation client, and recording latency metrics.
+// ---
+
 #include "components/enterprise/device_attestation/android/device_attestation_service_android.h"
 
 #include <type_traits>

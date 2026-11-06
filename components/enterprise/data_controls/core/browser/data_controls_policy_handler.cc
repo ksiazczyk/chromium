@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy handler applying Data Controls rules to preferences
+// summary: Implements the schema-validating policy handler that validates Data Controls rules and applies them to browser preferences.
+// ---
+
 #include "components/enterprise/data_controls/core/browser/data_controls_policy_handler.h"
 
 #include "base/numerics/safe_conversions.h"

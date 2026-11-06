@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Ownership pointer to the browser data protection OWNERS
+summary: Delegates code ownership to the OWNERS file of chrome/browser/enterprise/data_protection.

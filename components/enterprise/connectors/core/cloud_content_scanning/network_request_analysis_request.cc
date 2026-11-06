@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkRequestAnalysisRequest implementation
+// summary: Implements NetworkRequestAnalysisRequest, which computes the size of a network request body and supplies its data for cloud content analysis while enforcing upload size limits.
+// ---
+
 #include "components/enterprise/connectors/core/cloud_content_scanning/network_request_analysis_request.h"
 
 #include <algorithm>

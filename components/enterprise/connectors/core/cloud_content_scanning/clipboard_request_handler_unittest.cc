@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ClipboardRequestHandler unit tests
+// summary: Unit tests for ClipboardRequestHandler covering text paste requests, deep scanning uploads, and completion results using a test subclass and mocked dependencies.
+// ---
+
 #include "components/enterprise/connectors/core/cloud_content_scanning/clipboard_request_handler.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AttestationBlobGeneratorDelegate
+// summary: Interface for attestation blob generation implemented downstream for Google Chrome, defining generate methods that take request, timestamp, and nonce hashes plus an optional flow name.
+// ---
+
 package org.chromium.components.enterprise.device_attestation;
 
 import org.chromium.build.annotations.NullMarked;

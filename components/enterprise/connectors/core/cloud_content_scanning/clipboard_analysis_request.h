@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClipboardAnalysisRequest class declaration
+// summary: Declares ClipboardAnalysisRequest, a BinaryUploadRequest that provides clipboard text or image data to scan and stores the upload result state.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_CONNECTORS_CORE_CLOUD_CONTENT_SCANNING_CLIPBOARD_ANALYSIS_REQUEST_H_
 #define COMPONENTS_ENTERPRISE_CONNECTORS_CORE_CLOUD_CONTENT_SCANNING_CLIPBOARD_ANALYSIS_REQUEST_H_
 

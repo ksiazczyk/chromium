@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Copy prevention settings policy handler unit tests
+// summary: Unit tests verifying validation and application of the CopyPreventionSettings policy, covering valid policies, default minimum data size, and invalid inputs.
+// ---
+
 #include "components/enterprise/content/copy_prevention_settings_policy_handler.h"
 
 #include "base/json/json_reader.h"

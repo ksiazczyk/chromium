@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android device attestation service class declaration
+// summary: Declares DeviceAttestationServiceAndroid, which provides the Android attestation service and generates versioned content binding strings from profile report requests.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_DEVICE_ATTESTATION_ANDROID_DEVICE_ATTESTATION_SERVICE_ANDROID_H_
 #define COMPONENTS_ENTERPRISE_DEVICE_ATTESTATION_ANDROID_DEVICE_ATTESTATION_SERVICE_ANDROID_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of ActionSource and ActionDestination emptiness checks
+// summary: Implements the empty() checks that determine whether an action source or destination carries any Data Controls context.
+// ---
+
 #include "components/enterprise/data_controls/core/browser/action_context.h"
 
 namespace data_controls {

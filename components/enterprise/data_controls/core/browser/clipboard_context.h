@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClipboardContext interface for clipboard data metadata
+// summary: Declares an interface representing clipboard data and metadata used to evaluate DataControlsRules policy on clipboard interactions.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_DATA_CONTROLS_CORE_BROWSER_CLIPBOARD_CONTEXT_H_
 #define COMPONENTS_ENTERPRISE_DATA_CONTROLS_CORE_BROWSER_CLIPBOARD_CONTEXT_H_
 

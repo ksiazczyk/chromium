@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Component enum of restricted ChromeOS data destinations
+// summary: Defines the Component enum listing ChromeOS destinations such as ARC, Crostini, USB, Drive and OneDrive restricted by data leak prevention rules.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_DATA_CONTROLS_CORE_BROWSER_COMPONENT_H_
 #define COMPONENTS_ENTERPRISE_DATA_CONTROLS_CORE_BROWSER_COMPONENT_H_
 

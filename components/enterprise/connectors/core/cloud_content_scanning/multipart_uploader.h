@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MultipartUploadRequest declaration
+// summary: Declares MultipartUploadRequest, a ConnectorUploadRequest that uploads data, files, or page regions with metadata via the multipart protocol, plus factory helpers for creating requests.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_CONNECTORS_CORE_CLOUD_CONTENT_SCANNING_MULTIPART_UPLOADER_H_
 #define COMPONENTS_ENTERPRISE_CONNECTORS_CORE_CLOUD_CONTENT_SCANNING_MULTIPART_UPLOADER_H_
 

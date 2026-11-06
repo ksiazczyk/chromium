@@ -1,0 +1,4 @@
+# Docerion header of index.html.
+type: source
+title: Connectors Internals page HTML shell
+summary: HTML entry point for the Connectors Internals WebUI page that hosts the connectors-internals-app element and loads the app module script.

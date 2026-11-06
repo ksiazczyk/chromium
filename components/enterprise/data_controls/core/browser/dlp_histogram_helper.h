@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DLP histogram name constants and helpers
+// summary: Declares UMA histogram name suffix constants for DLP events such as blocks, warnings and reported restrictions, plus helper functions to record them.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_DATA_CONTROLS_CORE_BROWSER_DLP_HISTOGRAM_HELPER_H_
 #define COMPONENTS_ENTERPRISE_DATA_CONTROLS_CORE_BROWSER_DLP_HISTOGRAM_HELPER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network request service settings declaration
+// summary: Declares NetworkRequestServiceSettings, which resolves analysis settings for the OnNetworkRequestEnterpriseConnector policy based on tab and request URLs.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_CONNECTORS_CORE_NETWORK_REQUEST_SERVICE_SETTINGS_H_
 #define COMPONENTS_ENTERPRISE_CONNECTORS_CORE_NETWORK_REQUEST_SERVICE_SETTINGS_H_
 

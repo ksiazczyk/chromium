@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkRequestAnalysisRequest declaration
+// summary: Declares NetworkRequestAnalysisRequest, a BinaryUploadRequest that obtains scan data from a network::ResourceRequestBody and caches the computed body size and result.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_CONNECTORS_CORE_CLOUD_CONTENT_SCANNING_NETWORK_REQUEST_ANALYSIS_REQUEST_H_
 #define COMPONENTS_ENTERPRISE_CONNECTORS_CORE_CLOUD_CONTENT_SCANNING_NETWORK_REQUEST_ANALYSIS_REQUEST_H_
 
