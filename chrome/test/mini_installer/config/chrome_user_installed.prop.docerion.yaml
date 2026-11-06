@@ -1,0 +1,4 @@
+# Docerion header of chrome_user_installed.prop.
+type: test
+title: Chrome user-level installed expected state
+summary: Specifies the files and registry entries expected after a user-level Chrome installation, including uninstall strings and update keys.

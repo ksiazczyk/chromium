@@ -8,6 +8,12 @@
 //
 // Example usage: sb_sigutil --executable=blah.exe --output=siginfo.pb
 
+// ---docerion
+// type: source
+// title: sb_sigutil command-line signature extraction tool
+// summary: Command-line tool that uses BinaryFeatureExtractor to read signature information from an executable and write it as an encoded ClientDownloadRequest_SignatureInfo protobuf.
+// ---
+
 #include <string>
 
 #include "base/command_line.h"

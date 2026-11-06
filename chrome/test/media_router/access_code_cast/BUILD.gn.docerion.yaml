@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Access code cast integration tests build file
+summary: GN build file defining the testonly access_code_cast_integration_base static library with its sources and dependencies for access code cast integration tests.

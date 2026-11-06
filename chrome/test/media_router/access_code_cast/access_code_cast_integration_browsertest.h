@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Access code cast integration browser test base class
+// summary: Declares the AccessCodeCastIntegrationBrowserTest base class that sets up the access code cast dialog, identity environment and test helpers for subclasses.
+// ---
+
 #ifndef CHROME_TEST_MEDIA_ROUTER_ACCESS_CODE_CAST_ACCESS_CODE_CAST_INTEGRATION_BROWSERTEST_H_
 #define CHROME_TEST_MEDIA_ROUTER_ACCESS_CODE_CAST_ACCESS_CODE_CAST_INTEGRATION_BROWSERTEST_H_
 

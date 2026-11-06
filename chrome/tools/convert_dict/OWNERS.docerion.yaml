@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for convert_dict
+summary: Delegates ownership and review of this directory to the spellcheck component's OWNERS file.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media Router dialog basic integration UI browser test
+// summary: Contains the MANUAL_Dialog_Basic browser test verifying Cast dialog behavior when starting casting and reopening the dialog.
+// ---
+
 #include "base/time/time.h"
 #include "build/build_config.h"
 #include "chrome/browser/ui/media_router/media_router_ui_helper.h"

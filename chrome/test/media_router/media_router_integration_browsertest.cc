@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media Router integration browser test base implementation
+// summary: Implements the shared MediaRouterIntegrationBrowserTest base class with helpers for sessions, routes, and UI interaction in Media Router browser tests.
+// ---
+
 #include "chrome/test/media_router/media_router_integration_browsertest.h"
 
 #include <memory>

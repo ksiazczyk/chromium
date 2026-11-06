@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the payments test support library
+summary: Defines the test_support static library with payments test sources and platform-specific dependencies for Android and desktop.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Interactive feature promo test internal header
+// summary: Declares InteractiveFeaturePromoTestPrivate, the internal helper managing mock trackers, promo results, and service overrides for tests.
+// ---
+
 #ifndef CHROME_TEST_USER_EDUCATION_INTERACTIVE_FEATURE_PROMO_TEST_INTERNAL_H_
 #define CHROME_TEST_USER_EDUCATION_INTERACTIVE_FEATURE_PROMO_TEST_INTERNAL_H_
 

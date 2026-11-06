@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Bug tracking metadata for convert_dict
+summary: Maps the directory to the Internals Monorail component and a public Buganizer component for issue tracking.

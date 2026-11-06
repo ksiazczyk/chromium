@@ -1,3 +1,11 @@
+---
+type: data
+title: dPWA Critical User Journey Enums Table
+summary: Defines the enum values available for dPWA critical user journey actions and journeys, parsed from the Enums Table by the test framework.
+relations:
+  - references /chrome/browser/web_applications/docs/integration-testing-framework.md
+---
+
 # Critical User Journey Action Catalog for the dPWA product
 
 This file catalogs all of the actions that can be used to build critical user journeys for the dPWA product.

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Property dictionary walker
+# summary: Traverses property dictionaries to verify or clean file, process, and registry expectations, evaluating conditional entries along the way.
+# ---
+
 import logging
 import sys
 

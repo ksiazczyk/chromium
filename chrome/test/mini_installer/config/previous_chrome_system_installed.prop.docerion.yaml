@@ -1,0 +1,4 @@
+# Docerion header of previous_chrome_system_installed.prop.
+type: test
+title: Previous system-level Chrome installed state property file
+summary: Property file asserting a previous-version system-level Chrome install by checking program files and machine registry entries.

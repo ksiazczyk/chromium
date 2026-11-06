@@ -1,0 +1,4 @@
+# Docerion header of create_zip.py.
+type: script
+title: Packaging script for the mini_installer test zip
+summary: Packages the mini_installer test suite, optional installers, and chromedriver into a distributable zip for manual testers.

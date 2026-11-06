@@ -1,3 +1,9 @@
+---
+type: readme
+title: Media Router test resources README
+summary: Explains how to create JSON test data files that inject test data, such as available sinks and route results, before running Media Router integration tests.
+---
+
 The document shows how to create a test data file which is used for the
 integration test to inject test data before running test.
 ----------------------------------------------------------------------------

@@ -1,0 +1,4 @@
+# Docerion header of echo.test-mojom.
+type: test
+title: Echo test Mojom interface
+summary: Defines a test.mojom Echo interface whose EchoString method returns the input string, used for testing Mojom bindings.

@@ -5,6 +5,12 @@
 // These tests focus on Wasm out of bounds behavior to make sure trap-based
 // bounds checks work when integrated with all of Chrome.
 
+// ---docerion
+// type: test
+// title: Wasm trap handler browser tests
+// summary: Browser tests verifying WebAssembly trap-based out-of-bounds bounds checks and recovered trap counts across supported Chrome platforms.
+// ---
+
 #include <tuple>
 
 #include "base/base_switches.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BrowserUser implementation
+// summary: Implements a family-member browser user that signs in and out and exposes supervised user services for live tests.
+// ---
+
 #include "chrome/test/supervised_user/browser_user.h"
 
 #include <string_view>

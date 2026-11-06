@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PaymentRequest platform browser test base implementation
+// summary: Implements shared setup for PaymentRequest browser tests, including an HTTPS test server, navigation, payment app installation and manifest downloader faking.
+// ---
+
 #include "chrome/test/payments/payment_request_platform_browsertest_base.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BrowserUser class declaration
+// summary: Declares a browser user abstraction representing a parent or child family member in supervised user live tests.
+// ---
+
 #ifndef CHROME_TEST_SUPERVISED_USER_BROWSER_USER_H_
 #define CHROME_TEST_SUPERVISED_USER_BROWSER_USER_H_
 

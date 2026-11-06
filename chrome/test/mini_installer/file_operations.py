@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: File expectation validators
+# summary: Defines validators and cleanup helpers that assert files or directories exist or are absent during installer tests.
+# ---
+
 import logging
 import os
 import shutil

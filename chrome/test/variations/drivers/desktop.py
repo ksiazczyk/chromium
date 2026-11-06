@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Desktop driver factory for variations tests
+# summary: Defines the desktop driver factory that launches Chrome via ChromeDriver with variation seed options, crash dump handling, and retry and timeout logic.
+# ---
+
 import attr
 import logging
 import os

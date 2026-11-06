@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hunspell reader implementation
+// summary: Implements helpers for reading Hunspell files, including line reading, whitespace and BOM trimming, and comment stripping.
+// ---
+
 #include "chrome/tools/convert_dict/hunspell_reader.h"
 
 #include <stddef.h>

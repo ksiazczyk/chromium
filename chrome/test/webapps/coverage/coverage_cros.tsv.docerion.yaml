@@ -1,0 +1,4 @@
+# Docerion header of coverage_cros.tsv.
+type: data
+title: ChromeOS web app test coverage matrix
+summary: Generated TSV listing web app install, launch and update test scenarios for ChromeOS with emoji-marked full and partial coverage (60% full, 74% partial).

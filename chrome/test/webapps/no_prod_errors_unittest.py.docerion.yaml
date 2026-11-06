@@ -1,0 +1,4 @@
+# Docerion header of no_prod_errors_unittest.py.
+type: test
+title: Test asserting the framework generator produces no output
+summary: Runs the coverage generator with output suppressed and asserts stdout stays empty, ensuring no test additions or removals are required.

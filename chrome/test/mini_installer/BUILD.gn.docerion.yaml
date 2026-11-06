@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for mini_installer tests
+summary: Defines the mini_installer_tests target with its data files and an action that zips the test suite for distribution on Windows.

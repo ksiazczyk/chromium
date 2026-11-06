@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Payment request test controller desktop implementation
+// summary: Desktop implementation of the payment request test controller that connects PaymentRequest observers and payment UI events to the shared test controller for browser tests.
+// ---
+
 #include "base/check.h"
 #include "base/location.h"
 #include "base/memory/raw_ptr.h"

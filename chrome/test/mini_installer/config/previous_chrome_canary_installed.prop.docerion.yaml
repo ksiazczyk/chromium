@@ -1,0 +1,4 @@
+# Docerion header of previous_chrome_canary_installed.prop.
+type: test
+title: Previous Chrome Canary installed state property file
+summary: Property file asserting a previous-version Chrome Canary (SXS) install by checking application files and user registry entries.

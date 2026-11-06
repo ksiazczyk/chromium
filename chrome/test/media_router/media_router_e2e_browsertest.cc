@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chromecast E2E browser test base implementation
+// summary: Implements the end-to-end browser test base that discovers sinks on a real Chromecast device and creates and stops media routes.
+// ---
+
 #include "chrome/test/media_router/media_router_e2e_browsertest.h"
 
 #include <memory>

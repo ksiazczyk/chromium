@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for V8 browser tests
+summary: GN build file defining the browser_tests source set that builds the Wasm trap handler browser test with Chrome test dependencies.

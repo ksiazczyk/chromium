@@ -1,0 +1,4 @@
+# Docerion header of models.py.
+type: source
+title: Data model classes for the web app testing framework
+summary: Defines enums and classes such as Action, CoverageTest, ActionNode and TestPlatform used to process web app testing framework data.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for variations desktop smoke tests
+summary: Defines GN targets and data dependencies for building and running the variations desktop smoke tests via pytest.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the V8 test directory
+summary: Lists the email addresses of the owners responsible for changes in the chrome/test/v8 directory.

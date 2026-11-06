@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the sniffer tool
+summary: Lists thestig@chromium.org as the owner responsible for this directory.

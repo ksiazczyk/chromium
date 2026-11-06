@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build configuration for convert_dict
+summary: Defines GN build targets for the convert_dict library, its unit tests, and the convert_dict executable, including test data dependencies.

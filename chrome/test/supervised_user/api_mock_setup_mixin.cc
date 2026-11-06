@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Kids Management API mock setup mixin implementation
+// summary: Implements a browser test mixin that serves a mocked Kids Management API on an embedded test server and waits for family member preferences.
+// ---
+
 #include "chrome/test/supervised_user/api_mock_setup_mixin.h"
 
 #include <map>

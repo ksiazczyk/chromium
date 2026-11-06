@@ -1,6 +1,13 @@
 # Copyright 2021 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: test
+# title: Argument parser for mini_installer tests
+# summary: Provides the argparse argument parser for the test suite, based on typ, with options for installer, chromedriver, and config paths.
+# ---
+
 """argparse.ArgumentParser for the mini_installer test suite.
 
 The provided parser is based on that created by typ.

@@ -1,0 +1,4 @@
+# Docerion header of tests_change_for_deletion_addition_mac_win.txt.
+type: test
+title: Expected test change for deletion and addition on Mac and Windows
+summary: Expected instruction text for creating a new test file when tests are deleted and added on Mac and Windows.

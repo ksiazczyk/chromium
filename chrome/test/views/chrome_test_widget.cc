@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome test widget implementation
+// summary: Implements ChromeTestWidget with a default TestThemeProvider and support for swapping the theme provider.
+// ---
+
 #include "chrome/test/views/chrome_test_widget.h"
 
 #include <memory>

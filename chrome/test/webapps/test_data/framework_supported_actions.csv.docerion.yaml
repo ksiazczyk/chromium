@@ -1,0 +1,4 @@
+# Docerion header of framework_supported_actions.csv.
+type: test
+title: Framework supported actions per platform
+summary: Test fixture CSV listing which web app integration test actions are supported on Mac, Windows, Linux and ChromeOS.

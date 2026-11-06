@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for tracing tools
+summary: Declares the issue tracker routing for the tracing tools directory, mapping it to the Speed>Tracing monorail component and a Buganizer component.

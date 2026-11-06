@@ -1,6 +1,13 @@
 # Copyright 2016 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: script
+# title: Update Chrome's lastrun Registry Value
+# summary: Updates Chrome's lastrun registry value for the current user under HKCU to the current time, a helper for the mini installer tests.
+# ---
+
 """Updates Chrome's "lastrun" value for the current user in HKCU."""
 
 import optparse

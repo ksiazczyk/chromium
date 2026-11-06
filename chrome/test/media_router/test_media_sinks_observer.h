@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test media sinks observer header
+// summary: Declares TestMediaSinksObserver, a MediaSinksObserver test double that records sink query results for verification.
+// ---
+
 #ifndef CHROME_TEST_MEDIA_ROUTER_TEST_MEDIA_SINKS_OBSERVER_H_
 #define CHROME_TEST_MEDIA_ROUTER_TEST_MEDIA_SINKS_OBSERVER_H_
 

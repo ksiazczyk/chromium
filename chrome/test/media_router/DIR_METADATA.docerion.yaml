@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Media Router test directory tracker metadata
+summary: Specifies the Monorail and Buganizer components used for issues filed against the Media Router test directory.

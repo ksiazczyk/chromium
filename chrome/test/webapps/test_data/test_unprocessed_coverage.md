@@ -1,3 +1,9 @@
+---
+type: test
+title: Unprocessed test coverage scenarios
+summary: Markdown describing unprocessed test scenarios per platform and how many processed tests each should generate.
+---
+
 # Tests for all platforms.
 # This test should generate 4 processed tests:
 | MWLC | changes | checks |

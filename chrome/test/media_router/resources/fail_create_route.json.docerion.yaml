@@ -1,0 +1,4 @@
+# Docerion header of fail_create_route.json.
+type: test
+title: Test data for create route failure
+summary: JSON test data that makes the createRoute API fail with the error message Unknown sink.

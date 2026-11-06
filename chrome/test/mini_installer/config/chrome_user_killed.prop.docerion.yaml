@@ -1,0 +1,4 @@
+# Docerion header of chrome_user_killed.prop.
+type: test
+title: Chrome user killed state property file
+summary: Property file asserting the user-level Chrome update registry key exists with an empty pv value, representing a killed install state.

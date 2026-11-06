@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock BrowserUserEducationInterface for tests
+// summary: Declares a gmock mock of BrowserUserEducationInterface that fakes feature promo, new badge, and user education context behavior for browser tests.
+// ---
+
 #ifndef CHROME_TEST_USER_EDUCATION_MOCK_BROWSER_USER_EDUCATION_INTERFACE_H_
 #define CHROME_TEST_USER_EDUCATION_MOCK_BROWSER_USER_EDUCATION_INTERFACE_H_
 

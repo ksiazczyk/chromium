@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Interactive feature promo test common implementation
+// summary: Implements constructors and helpers for the tracker mode structs shared by the interactive feature promo test classes.
+// ---
+
 #include "chrome/test/user_education/interactive_feature_promo_test_common.h"
 
 #include <vector>

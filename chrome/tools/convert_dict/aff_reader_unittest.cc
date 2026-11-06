@@ -5,6 +5,12 @@
 // When understanding these test cases, the nuspell docs are a useful reference:
 //   https://github.com/nuspell/nuspell/wiki/Affix-File-Format
 
+// ---docerion
+// type: test
+// title: Unit tests for AffReader
+// summary: Tests AffReader parsing of affix flags, prefix and suffix rules, indexed affixes, replacements, and other commands using sample .aff test files.
+// ---
+
 #include "testing/gtest/include/gtest/gtest.h"
 
 #include "base/files/file_path.h"

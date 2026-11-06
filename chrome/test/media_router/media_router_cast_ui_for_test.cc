@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cast dialog test UI helper implementation
+// summary: Implements a test helper that drives the Cast dialog in browser tests, including showing the dialog, casting to sinks, and waiting for sink events.
+// ---
+
 #include "chrome/test/media_router/media_router_cast_ui_for_test.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android implementation of the PaymentRequest test controller
+// summary: Implements the test controller for Android, registering native observers and bridging UI actions to the Java payment request test support.
+// ---
+
 #include "chrome/test/payments/payment_request_test_controller.h"
 
 #include "base/functional/bind.h"

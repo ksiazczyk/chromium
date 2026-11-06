@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Default web apps test fixture
+// summary: Default generated browser test fixture whose deliberately split CheckB call tests test ID generation, disabled on Windows.
+// ---
+
 #if BUILDFLAG(IS_WIN)
 #define MAYBE_WAI_3Chicken_1Chicken_2ChickenGreen \
   DISABLED_WAI_3Chicken_1Chicken_2ChickenGreen

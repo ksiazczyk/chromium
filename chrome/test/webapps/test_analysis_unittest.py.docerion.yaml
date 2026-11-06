@@ -1,0 +1,4 @@
+# Docerion header of test_analysis_unittest.py.
+type: test
+title: Unit tests for test analysis functions
+summary: Exercises test analysis and file reading helpers against test data, covering parameterized test expansion, partitioning and test comparison output.

@@ -1,0 +1,4 @@
+# Docerion header of expected_coverage_cros.tsv.
+type: test
+title: Expected coverage for ChromeOS web app tests
+summary: Generated expected coverage matrix for ChromeOS web app integration tests, listing state change and check action combinations with coverage markers.

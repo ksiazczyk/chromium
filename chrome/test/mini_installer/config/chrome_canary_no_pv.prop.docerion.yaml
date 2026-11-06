@@ -1,0 +1,4 @@
+# Docerion header of chrome_canary_no_pv.prop.
+type: test
+title: Chrome Canary missing pv version check
+summary: Asserts that the Chrome Canary update registry key exists without a pv version value during mini_installer tests.

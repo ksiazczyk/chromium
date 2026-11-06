@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners reference for the payments test directory
+summary: Delegates code ownership of this directory to the payments component's OWNERS file.

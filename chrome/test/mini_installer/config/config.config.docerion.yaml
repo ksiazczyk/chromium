@@ -1,0 +1,4 @@
+# Docerion header of config.config.
+type: test
+title: Mini installer test state configuration
+summary: Configuration mapping named mini_installer test states to combinations of .prop files describing per-channel Chrome install conditions.

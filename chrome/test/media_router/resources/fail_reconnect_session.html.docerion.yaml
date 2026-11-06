@@ -1,0 +1,4 @@
+# Docerion header of fail_reconnect_session.html.
+type: test
+title: MR Integration fail reconnect test page
+summary: Test page that loads common.js and defines a check to verify reconnecting a session fails with the error Unknown route.

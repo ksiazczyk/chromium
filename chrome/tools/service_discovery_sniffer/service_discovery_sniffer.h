@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service discovery sniffer header
+// summary: Declares ServicePrinter and ServiceTypePrinter classes that resolve and print local discovery service updates to the console.
+// ---
+
 #ifndef CHROME_TOOLS_SERVICE_DISCOVERY_SNIFFER_SERVICE_DISCOVERY_SNIFFER_H_
 #define CHROME_TOOLS_SERVICE_DISCOVERY_SNIFFER_SERVICE_DISCOVERY_SNIFFER_H_
 

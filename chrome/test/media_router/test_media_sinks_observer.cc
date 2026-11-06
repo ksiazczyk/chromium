@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test media sinks observer implementation
+// summary: Implements TestMediaSinksObserver, storing received sinks in a name-to-sink map for verification in Media Router tests.
+// ---
+
 #include <string>
 #include <utility>
 

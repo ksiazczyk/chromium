@@ -1,0 +1,4 @@
+# Docerion header of generate_framework_tests_and_coverage.py.
+type: script
+title: Generator for framework tests and coverage files
+summary: Reads framework inputs and generates browser test definitions and per-platform coverage files for the web app testing framework.

@@ -1,0 +1,4 @@
+# Docerion header of basic_test.html.
+type: test
+title: MR Integration basic test page
+summary: Basic Media Router integration test page that loads common.js and plays a bigbuck.webm video element for casting.

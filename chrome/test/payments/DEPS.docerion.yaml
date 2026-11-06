@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the payments test directory
+summary: Lists the dependencies that files in chrome/test/payments are allowed to include, such as payments, webauthn and ARC overlay components.

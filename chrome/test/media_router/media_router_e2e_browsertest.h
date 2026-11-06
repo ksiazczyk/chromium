@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chromecast E2E browser test base declaration
+// summary: Declares the Chromecast end-to-end browser test base class and documents the command line needed to run these tests against a real device.
+// ---
+
 #ifndef CHROME_TEST_MEDIA_ROUTER_MEDIA_ROUTER_E2E_BROWSERTEST_H_
 #define CHROME_TEST_MEDIA_ROUTER_MEDIA_ROUTER_E2E_BROWSERTEST_H_
 

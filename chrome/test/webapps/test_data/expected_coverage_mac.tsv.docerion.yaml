@@ -1,0 +1,4 @@
+# Docerion header of expected_coverage_mac.tsv.
+type: test
+title: Expected coverage for Mac web app tests
+summary: Generated expected coverage matrix for Mac web app integration tests, listing state change and check action combinations with partial coverage.

@@ -1,0 +1,4 @@
+# Docerion header of graph_analysis_unittest.py.
+type: test
+title: Unit tests for graph analysis functions
+summary: Verifies framework test generation by building action graphs from test data files and comparing generated tests against expected per-platform files.

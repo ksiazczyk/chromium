@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AffReader implementation for .aff files
+// summary: Implements parsing of Hunspell affix files, extracting encoding, affix groups and rules, replacements, comments, and other commands.
+// ---
+
 #include "chrome/tools/convert_dict/aff_reader.h"
 
 #include <stddef.h>

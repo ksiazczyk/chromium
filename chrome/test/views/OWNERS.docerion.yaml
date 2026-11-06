@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for views tests
+summary: Delegates ownership to ui/views/OWNERS with a per-file rule routing accessibility check changes to the views accessibility owners.

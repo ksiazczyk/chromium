@@ -1,0 +1,4 @@
+# Docerion header of chrome-process-identifier.sh.
+type: script
+title: Identify running Chrome process types
+summary: Shell utility that inspects /proc to list running Chrome processes and identify their types and sandbox status on Linux.

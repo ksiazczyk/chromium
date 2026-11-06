@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: Ruff lint configuration for the webapps test directory
+# summary: Extends the repository root Ruff configuration with settings for this directory's Python code.
+# ---
+
 extend = "../../.ruff.toml"
 indent-width = 4

@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: Ruff lint configuration for mini_installer tests
+# summary: Extends the repository-wide Ruff lint configuration for the mini_installer test directory.
+# ---
+
 extend = "../../.ruff.toml"
 indent-width = 4

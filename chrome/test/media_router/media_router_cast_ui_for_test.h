@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cast dialog test UI helper declaration
+// summary: Declares MediaRouterCastUiForTest, a Cast dialog observer used to control and inspect the Cast UI during browser tests.
+// ---
+
 #ifndef CHROME_TEST_MEDIA_ROUTER_MEDIA_ROUTER_CAST_UI_FOR_TEST_H_
 #define CHROME_TEST_MEDIA_ROUTER_MEDIA_ROUTER_CAST_UI_FOR_TEST_H_
 

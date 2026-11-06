@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Interactive feature promo test internal implementation
+// summary: Implements the private test internals that configure trackers, clocks, and session state for interactive feature promo tests.
+// ---
+
 #include "chrome/test/user_education/interactive_feature_promo_test_internal.h"
 
 #include <memory>

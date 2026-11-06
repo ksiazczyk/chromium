@@ -1,0 +1,4 @@
+# Docerion header of chrome_system_not_installed.prop.
+type: test
+title: Chrome system-level not installed expected state
+summary: Defines the absent files, services, and forbidden registry entries expected when system-level Chrome is not installed.

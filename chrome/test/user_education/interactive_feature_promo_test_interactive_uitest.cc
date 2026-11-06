@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Interactive UI tests for feature promo framework
+// summary: Contains interactive UI browser tests that exercise the feature promo test framework, including promo checks across browser contexts.
+// ---
+
 #include "base/feature_list.h"
 #include "base/test/bind.h"
 #include "chrome/browser/ui/browser_element_identifiers.h"

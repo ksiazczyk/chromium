@@ -1,3 +1,8 @@
+---
+type: test
+title: Test action definitions
+summary: Markdown table defining check, state change and parameterized actions used by the web app integration testing infrastructure tests.
+---
 
 | #Name | Arguments | OutputActions | ID | 
 | --- | --- | --- | --- |

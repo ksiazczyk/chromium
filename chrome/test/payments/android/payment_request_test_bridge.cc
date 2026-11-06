@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Payment Request test bridge implementation for Android
+// summary: Implements the JNI bridge that lets browser-side tests set delegates and native observers on Android PaymentRequest and interact with the payment handler UI.
+// ---
+
 #include "chrome/test/payments/android/payment_request_test_bridge.h"
 
 #include "base/android/jni_string.h"

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Shared helpers for variations test utilities
+# summary: Provides gsutil lookup, host platform detection, Chrome version checks and timeout and retry decorators for variations tests.
+# ---
+
 import functools
 import logging
 import os

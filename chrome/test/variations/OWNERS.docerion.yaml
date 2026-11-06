@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the variations tests directory
+summary: Delegates ownership of the variations test directory to the owners of base/metrics.

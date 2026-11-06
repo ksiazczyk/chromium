@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Interactive feature promo test API header
+// summary: Declares InteractiveFeaturePromoTestApi, a Kombucha-based test base class for testing User Education promos with mock or real trackers.
+// ---
+
 #ifndef CHROME_TEST_USER_EDUCATION_INTERACTIVE_FEATURE_PROMO_TEST_H_
 #define CHROME_TEST_USER_EDUCATION_INTERACTIVE_FEATURE_PROMO_TEST_H_
 

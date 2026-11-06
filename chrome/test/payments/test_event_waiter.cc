@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Payment test event waiter implementation
+// summary: Implements the event waiter that verifies payment test events arrive in the expected order and provides stream output for TestEvent names.
+// ---
+
 #include "chrome/test/payments/test_event_waiter.h"
 
 #include <iostream>

@@ -1,0 +1,4 @@
+# Docerion header of webforms_extractor.py.
+type: script
+title: Extract registration forms from HTML files
+summary: Strips non-form elements such as scripts and event handlers from downloaded pages, leaving only forms for autofill tests.

@@ -1,0 +1,4 @@
+# Docerion header of generate_framework_tests_and_coverage_unittest.py.
+type: test
+title: Unit tests for the framework test generator
+summary: Checks that generated coverage output matches expected files and that no test changes are required.

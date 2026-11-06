@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: 'OWNERS: supervised user test owners'
+summary: Delegates code ownership for this test directory to the shared supervised user OWNERS file.

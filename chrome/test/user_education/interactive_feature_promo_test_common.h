@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared definitions for interactive feature promo tests
+// summary: Defines shared types for interactive feature promo tests, including tracker modes, clock modes, and initial session state options.
+// ---
+
 #ifndef CHROME_TEST_USER_EDUCATION_INTERACTIVE_FEATURE_PROMO_TEST_COMMON_H_
 #define CHROME_TEST_USER_EDUCATION_INTERACTIVE_FEATURE_PROMO_TEST_COMMON_H_
 

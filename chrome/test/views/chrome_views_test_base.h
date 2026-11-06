@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome views test base header
+// summary: Declares a base class for Chrome views unit tests that adjusts dependencies where they differ from non-Chrome views.
+// ---
+
 #ifndef CHROME_TEST_VIEWS_CHROME_VIEWS_TEST_BASE_H_
 #define CHROME_TEST_VIEWS_CHROME_VIEWS_TEST_BASE_H_
 

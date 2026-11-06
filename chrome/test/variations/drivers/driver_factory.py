@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Base driver factory for variations tests
+# summary: Implements the base DriverFactory that manages ChromeDriver services, session folders, default Chrome options, and waiting for browser windows.
+# ---
+
 import functools
 import logging
 import os

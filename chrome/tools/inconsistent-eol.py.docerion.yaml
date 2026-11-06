@@ -1,0 +1,4 @@
+# Docerion header of inconsistent-eol.py.
+type: script
+title: Find and fix inconsistent line endings
+summary: Script that detects and normalizes files with mixed CRLF, CR, and LF line endings using dos2unix and unix2dos.

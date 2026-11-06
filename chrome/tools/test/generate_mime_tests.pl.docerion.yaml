@@ -1,0 +1,4 @@
+# Docerion header of generate_mime_tests.pl.
+type: script
+title: MIME type layout test generator
+summary: Perl script that generates HTML files used to test MIME type handling with the layout test framework into a given target path.

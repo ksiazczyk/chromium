@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Media Router browser tests build configuration
+summary: GN build file defining the Media Router browser test targets, their dependencies, test support sources, and copied browser test resources.

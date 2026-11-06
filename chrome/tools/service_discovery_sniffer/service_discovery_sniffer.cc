@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service discovery sniffer implementation
+// summary: Implements printers that watch and resolve local discovery services and a main function that listens for mDNS services of a given type.
+// ---
+
 #include "chrome/tools/service_discovery_sniffer/service_discovery_sniffer.h"
 
 #include <memory>

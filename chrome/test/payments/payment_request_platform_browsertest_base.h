@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PaymentRequest platform browser test base class
+// summary: Declares the base class shared by Android and desktop PaymentRequest browser tests, with navigation, installation and observer hooks.
+// ---
+
 #ifndef CHROME_TEST_PAYMENTS_PAYMENT_REQUEST_PLATFORM_BROWSERTEST_BASE_H_
 #define CHROME_TEST_PAYMENTS_PAYMENT_REQUEST_PLATFORM_BROWSERTEST_BASE_H_
 

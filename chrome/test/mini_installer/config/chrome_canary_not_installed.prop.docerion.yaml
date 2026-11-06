@@ -1,0 +1,4 @@
+# Docerion header of chrome_canary_not_installed.prop.
+type: test
+title: Chrome Canary not installed state expectations
+summary: Verifies that Chrome Canary files and registry entries are absent after uninstallation in mini_installer tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Supervision mixin for supervised user browser tests
+// summary: Declares the SupervisionMixin browser test mixin that controls user supervision status, sign-in modes and FakeGaia responses for supervised user tests.
+// ---
+
 #ifndef CHROME_TEST_SUPERVISED_USER_SUPERVISION_MIXIN_H_
 #define CHROME_TEST_SUPERVISED_USER_SUPERVISION_MIXIN_H_
 

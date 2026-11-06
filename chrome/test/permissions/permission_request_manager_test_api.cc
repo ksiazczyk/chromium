@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PermissionRequestManagerTestApi implementation
+// summary: Implements the test API that wraps PermissionRequestManager to add simple permission requests, set the request origin, get the prompt bubble widget, and simulate web contents destruction.
+// ---
+
 #include "chrome/test/permissions/permission_request_manager_test_api.h"
 
 #include <memory>

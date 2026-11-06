@@ -1,0 +1,4 @@
+# Docerion header of ZIP_README.txt.
+type: readme
+title: README for the zipped mini_installer test package
+summary: Explains how to obtain, package, and run the zipped mini_installer tests for manual testers who lack access to the source code.

@@ -1,0 +1,4 @@
+# Docerion header of generate_gtest_filter_for_added_tests.py.
+type: script
+title: Gtest filter generator for newly added tests
+summary: Uses git diffs to find newly added WebAppIntegration tests and prints the gtest filters needed to run them.

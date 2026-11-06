@@ -1,0 +1,4 @@
+# Docerion header of models_unittest.py.
+type: test
+title: Unit tests for testing framework data models
+summary: Checks TestPlatform helpers for parsing platform characters, deriving platforms from browsertest filenames, and building test fixture suffixes.

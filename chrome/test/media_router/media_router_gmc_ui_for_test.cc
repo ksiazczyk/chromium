@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Global Media Controls dialog test UI helper
+// summary: Implements a test helper that drives the Global Media Controls cast dialog in browser tests, with several sink operations not yet implemented.
+// ---
+
 #include "chrome/test/media_router/media_router_gmc_ui_for_test.h"
 
 #include "base/notimplemented.h"
