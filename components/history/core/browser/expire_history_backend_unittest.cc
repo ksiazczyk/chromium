@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ExpireHistoryBackend unit tests
+// summary: Unit tests covering history expiration, URL deletion, favicon expiry, and deletion notifications for the expiration backend.
+// ---
+
 #include "components/history/core/browser/expire_history_backend.h"
 
 #include <stddef.h>

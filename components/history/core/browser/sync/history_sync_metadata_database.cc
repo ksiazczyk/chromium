@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History sync metadata database implementation
+// summary: Implements storage of history sync metadata in the SQL database, including the entity metadata table and the data type state kept in the MetaTable.
+// ---
+
 #include "components/history/core/browser/sync/history_sync_metadata_database.h"
 
 #include <memory>

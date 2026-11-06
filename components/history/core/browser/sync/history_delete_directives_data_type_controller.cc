@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History delete directives data type controller implementation
+// summary: Implements the sync data type controller for history delete directives, which stops and clears data when full encryption is enabled and delegates to the history service's syncable service.
+// ---
+
 #include "components/history/core/browser/sync/history_delete_directives_data_type_controller.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadRow struct declaration
+// summary: Declares the DownloadRow struct holding download metadata such as paths, URL chain, times, state, danger type, and identifiers for the history database.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CORE_BROWSER_DOWNLOAD_ROW_H_
 #define COMPONENTS_HISTORY_CORE_BROWSER_DOWNLOAD_ROW_H_
 

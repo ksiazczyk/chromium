@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: History sync directory metadata
+summary: Points the history sync directory to the shared metadata mixins of the components/sync directory.

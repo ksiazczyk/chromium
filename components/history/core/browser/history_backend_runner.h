@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HistoryBackendRunner class header
+// summary: Declares HistoryBackendRunner, which manages the backend task runner and schedules or defers HistoryBackend initialization.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CORE_BROWSER_HISTORY_BACKEND_RUNNER_H_
 #define COMPONENTS_HISTORY_CORE_BROWSER_HISTORY_BACKEND_RUNNER_H_
 

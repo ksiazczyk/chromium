@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for history core test support library
+summary: GN build file that defines the testonly static library bundling history unit test support sources and their dependencies.

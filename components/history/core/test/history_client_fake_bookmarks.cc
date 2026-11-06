@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake bookmarks history client implementation
+// summary: Implements a fake HistoryClient with an in-memory bookmark database used to exercise bookmark-related history behavior in tests.
+// ---
+
 #include "components/history/core/test/history_client_fake_bookmarks.h"
 
 #include <map>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HistoryBackend unit tests
+// summary: Extensive unit tests that call HistoryBackend directly to cover visits, favicons, deletions, clusters, and related backend behavior.
+// ---
+
 #include "components/history/core/browser/history_backend.h"
 
 #include <stddef.h>

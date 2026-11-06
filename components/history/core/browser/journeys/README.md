@@ -1,3 +1,12 @@
+---
+type: readme
+title: History Journeys Component
+summary: Documents the journeys subsystem covering server-generated journey storage in SQLite, read-only sync integration, visit resolution, and the HistoryService query APIs.
+relations:
+  - documents /components/history/core/browser/journeys/journey_data_type_controller.h
+  - documents /components/history/core/browser/journeys/journey_row.h
+---
+
 # History Journeys Component
 
 [TOC]

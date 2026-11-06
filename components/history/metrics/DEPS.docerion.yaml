@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for history metrics
+summary: Dependency allowlist permitting includes from components/pref_registry and components/sync_preferences within this directory.

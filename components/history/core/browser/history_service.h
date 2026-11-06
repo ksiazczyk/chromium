@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HistoryService class header
+// summary: Declares the HistoryService keyed service that records page titles, visit times, favicons, and download information and exposes history queries and management APIs.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CORE_BROWSER_HISTORY_SERVICE_H_
 #define COMPONENTS_HISTORY_CORE_BROWSER_HISTORY_SERVICE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyword search term utilities for autocomplete and Most Visited
+// summary: Declares helpers to extract, rank, and normalize keyword search terms, including a frecency score and duplicate-visit threshold, for omnibox autocomplete and Most Visited tiles.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CORE_BROWSER_KEYWORD_SEARCH_TERM_UTIL_H_
 #define COMPONENTS_HISTORY_CORE_BROWSER_KEYWORD_SEARCH_TERM_UTIL_H_
 

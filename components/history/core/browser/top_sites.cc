@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TopSites base class implementation
+// summary: Implements observer registration and loaded/changed notifications for the TopSites most-visited sites base class, plus the PrepopulatedPage struct.
+// ---
+
 #include "components/history/core/browser/top_sites.h"
 
 #include "base/observer_list.h"

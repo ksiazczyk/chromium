@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Visit annotations database interface
+// summary: Declares the VisitAnnotationsDatabase class for adding, updating, querying and deleting visit content and context annotations and clusters keyed by visit ID.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CORE_BROWSER_VISIT_ANNOTATIONS_DATABASE_H_
 #define COMPONENTS_HISTORY_CORE_BROWSER_VISIT_ANNOTATIONS_DATABASE_H_
 

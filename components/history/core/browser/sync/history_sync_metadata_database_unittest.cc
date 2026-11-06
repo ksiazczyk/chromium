@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History sync metadata database unit tests
+// summary: Unit tests for the history sync metadata database, covering storage key and timestamp conversion, empty state validity, and storing and reading metadata.
+// ---
+
 #include "components/history/core/browser/sync/history_sync_metadata_database.h"
 
 #include "base/files/file_path.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeywordID type alias
+// summary: Defines the KeywordID alias for TemplateURLID, identifying a keyword associated with a URL and a search term, with zero as the invalid value.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CORE_BROWSER_KEYWORD_ID_H_
 #define COMPONENTS_HISTORY_CORE_BROWSER_KEYWORD_ID_H_
 

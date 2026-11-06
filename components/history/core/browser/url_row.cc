@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URLRow implementation
+// summary: Implements the URLRow data type and visit content model annotations, including category merging and visibility score logic.
+// ---
+
 #include "components/history/core/browser/url_row.h"
 
 #include <algorithm>

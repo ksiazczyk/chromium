@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History backend class declaration
+// summary: Declares the HistoryBackend class and helpers that run the history system on a background thread, including queued database tasks and URL formatting utilities.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CORE_BROWSER_HISTORY_BACKEND_H_
 #define COMPONENTS_HISTORY_CORE_BROWSER_HISTORY_BACKEND_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadSliceInfo implementation
+// summary: Implements DownloadSliceInfo constructors and equality comparison for download slice records.
+// ---
+
 #include "components/history/core/browser/download_slice_info.h"
 
 #include "components/history/core/browser/download_constants.h"

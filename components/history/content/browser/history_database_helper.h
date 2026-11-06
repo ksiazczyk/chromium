@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History database params helper header
+// summary: Declares HistoryDatabaseParamsForPath, which returns history database parameters for a given history directory and channel.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CONTENT_BROWSER_HISTORY_DATABASE_HELPER_H_
 #define COMPONENTS_HISTORY_CONTENT_BROWSER_HISTORY_DATABASE_HELPER_H_
 

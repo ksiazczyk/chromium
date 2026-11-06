@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyword search term scoring utilities
+// summary: Computes frecency scores for keyword search term visits and aggregates visits into unique search terms for use as prefix and zero-prefix autocomplete suggestions.
+// ---
+
 #include "components/history/core/browser/keyword_search_term_util.h"
 
 #include <algorithm>

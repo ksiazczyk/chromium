@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: History component issue tracker metadata
+summary: Maps the history component to the Monorail component UI>Browser>History and a public Buganizer component ID.

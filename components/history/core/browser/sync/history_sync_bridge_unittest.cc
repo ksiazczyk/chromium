@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History sync bridge unit tests
+// summary: Unit tests for the history sync bridge, covering merging full sync data, incremental changes, conflict resolution, deletions, and specifics creation with a test history backend.
+// ---
+
 #include "components/history/core/browser/sync/history_sync_bridge.h"
 
 #include <map>

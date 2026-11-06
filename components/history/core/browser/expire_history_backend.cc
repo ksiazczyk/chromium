@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History expiration backend implementation
+// summary: Implements history expiration, including readers for all visits and auto-subframe visits and deletion of expired history entries.
+// ---
+
 #include "components/history/core/browser/expire_history_backend.h"
 
 #include <stddef.h>

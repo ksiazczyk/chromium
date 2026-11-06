@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TopSitesBackend class declaration
+// summary: Declares TopSitesBackend, the service used by TopSites to run top sites database interactions on the DB thread with callbacks and delta updates.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CORE_BROWSER_TOP_SITES_BACKEND_H_
 #define COMPONENTS_HISTORY_CORE_BROWSER_TOP_SITES_BACKEND_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TopSitesObserver interface
+// summary: Defines an observer interface for TopSites notifications such as loading and changes to most visited, blocked, or forced URLs.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CORE_BROWSER_TOP_SITES_OBSERVER_H_
 #define COMPONENTS_HISTORY_CORE_BROWSER_TOP_SITES_OBSERVER_H_
 

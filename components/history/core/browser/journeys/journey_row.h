@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JourneyRow storage model
+// summary: Defines the persisted journey record structs that reference history visits by timestamp, along with continuation queries and titled collections of history entries.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CORE_BROWSER_JOURNEYS_JOURNEY_ROW_H_
 #define COMPONENTS_HISTORY_CORE_BROWSER_JOURNEYS_JOURNEY_ROW_H_
 

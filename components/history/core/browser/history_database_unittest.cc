@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HistoryDatabase unit tests
+// summary: Unit tests for the history database, covering migration of legacy starred-URL databases and cluster database metrics reporting under a feature flag.
+// ---
+
 #include "components/history/core/browser/history_database.h"
 
 #include "base/files/file_path.h"

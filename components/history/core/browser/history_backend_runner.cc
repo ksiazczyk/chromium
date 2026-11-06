@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History backend runner implementation
+// summary: Implements HistoryBackendRunner, which schedules or defers HistoryBackend initialization on a sequenced task runner and releases the backend on destruction.
+// ---
+
 #include "components/history/core/browser/history_backend_runner.h"
 
 #include <utility>

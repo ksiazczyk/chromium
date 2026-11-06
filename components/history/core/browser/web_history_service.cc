@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebHistoryService implementation
+// summary: Implements the keyed service that queries and deletes a signed-in user's synced history on Google servers, handling access tokens, requests, and sync state.
+// ---
+
 #include "components/history/core/browser/web_history_service.h"
 
 #include <memory>

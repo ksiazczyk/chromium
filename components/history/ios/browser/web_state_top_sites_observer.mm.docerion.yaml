@@ -1,0 +1,4 @@
+# Docerion header of web_state_top_sites_observer.mm.
+type: source
+title: Web state TopSites observer implementation
+summary: Implements the observer that reports committed navigation URLs to TopSites and removes itself when the web state is destroyed.

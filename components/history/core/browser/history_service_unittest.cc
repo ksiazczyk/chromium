@@ -17,6 +17,12 @@
 //    has no logic in the getter except threading stuff, which we don't want
 //    to run.
 
+// ---docerion
+// type: test
+// title: HistoryService unit tests
+// summary: 'Unit tests for HistoryService in two styles: full asynchronous service tests on a background backend thread and simpler synchronous direct backend tests.'
+// ---
+
 #include "components/history/core/browser/history_service.h"
 
 #include <stdint.h>

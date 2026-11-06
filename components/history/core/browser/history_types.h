@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History data type definitions
+// summary: Defines core history data types, visit source enums, ID aliases, and structures like VisitRow and QueryResults shared across the history component.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CORE_BROWSER_HISTORY_TYPES_H_
 #define COMPONENTS_HISTORY_CORE_BROWSER_HISTORY_TYPES_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Segment scorer unit tests
+// summary: Tests ranking of named segment usage scenarios under different recency factor and parameter configurations of the segment scorer.
+// ---
+
 #include "components/history/core/browser/segment_scorer.h"
 
 #include <limits.h>

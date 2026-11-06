@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: History service test helpers implementation
+// summary: Provides helpers to create a HistoryService for tests and to block until pending history requests have been processed.
+// ---
+
 #include "components/history/core/test/history_service_test_util.h"
 
 #include "base/files/file_path.h"

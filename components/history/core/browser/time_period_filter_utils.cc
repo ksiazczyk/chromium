@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Time period filter options implementation
+// summary: Computes predefined time period filter options such as all time, yesterday, this week, last week, and two weeks ago for the history page, gated by a feature flag.
+// ---
+
 #include "components/history/core/browser/time_period_filter_utils.h"
 
 #include <utility>

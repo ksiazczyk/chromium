@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for history content browser
+summary: Defines the browser static library and the unit_tests source set with their sources and dependencies for the history content browser component.

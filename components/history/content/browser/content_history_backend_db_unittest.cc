@@ -17,6 +17,12 @@
 //    has no logic in the getter except threading stuff, which we don't want
 //    to run.
 
+// ---docerion
+// type: test
+// title: History backend database unit tests
+// summary: Unit tests for the content history backend database, notably checking that download interrupt reason values remain backwards compatible with persisted values.
+// ---
+
 #include <stddef.h>
 
 #include <array>

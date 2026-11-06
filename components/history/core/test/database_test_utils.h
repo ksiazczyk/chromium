@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: History database test utilities declarations
+// summary: Declares helpers for obtaining the history test data directory and creating a test database from a SQL golden file.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CORE_TEST_DATABASE_TEST_UTILS_H_
 #define COMPONENTS_HISTORY_CORE_TEST_DATABASE_TEST_UTILS_H_
 

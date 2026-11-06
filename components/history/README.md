@@ -1,3 +1,13 @@
+---
+type: readme
+title: History Component
+summary: 'Describes the component that manages visited URL history and its three services: HistoryService, WebHistoryService, and BrowsingHistoryService.'
+relations:
+  - documents /components/history/core/browser/browsing_history_service.h
+  - documents /components/history/core/browser/history_service.h
+  - documents /components/history/core/browser/web_history_service.h
+---
+
 # History Component
 
 Component that manages visited URLs history.

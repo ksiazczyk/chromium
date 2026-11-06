@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Visit tracker interface
+// summary: Declares VisitTracker, which tracks history transitions between pages to chain visits and set transition types; the class is not thread safe.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CORE_BROWSER_VISIT_TRACKER_H__
 #define COMPONENTS_HISTORY_CORE_BROWSER_VISIT_TRACKER_H__
 

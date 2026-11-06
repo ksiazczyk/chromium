@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS rules for the browser directory
+summary: Grants per-file ownership for BUILD.gn so any committer can approve additions or renames of build files in this directory.

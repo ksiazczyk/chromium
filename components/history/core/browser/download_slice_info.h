@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadSliceInfo struct declaration
+// summary: Declares the DownloadSliceInfo struct describing a slice of a download file with download id, offset, received bytes, and finished flag.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CORE_BROWSER_DOWNLOAD_SLICE_INFO_H_
 #define COMPONENTS_HISTORY_CORE_BROWSER_DOWNLOAD_SLICE_INFO_H_
 

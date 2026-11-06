@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-memory history database class declaration
+// summary: Declares InMemoryDatabase, a URLDatabase subclass providing a fast in-memory cache of typed URLs and search terms for synchronous inline autocomplete.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CORE_BROWSER_IN_MEMORY_DATABASE_H_
 #define COMPONENTS_HISTORY_CORE_BROWSER_IN_MEMORY_DATABASE_H_
 

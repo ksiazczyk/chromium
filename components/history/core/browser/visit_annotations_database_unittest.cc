@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the visit annotations database
+// summary: Unit tests verifying add, update, query and delete operations for visit content and context annotations and clusters in an in-memory database.
+// ---
+
 #include "components/history/core/browser/visit_annotations_database.h"
 
 #include <string>

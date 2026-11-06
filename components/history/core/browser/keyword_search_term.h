@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyword search term data structures
+// summary: Declares the KeywordSearchTermVisit and KeywordSearchTermRow structs and the enumerators used by URLDatabase to iterate keyword search term visits and rows.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CORE_BROWSER_KEYWORD_SEARCH_TERM_H_
 #define COMPONENTS_HISTORY_CORE_BROWSER_KEYWORD_SEARCH_TERM_H_
 

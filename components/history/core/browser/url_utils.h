@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL utility functions declaration
+// summary: Declares URL helper functions for scheme, host, and port comparison, path prefix checks, HTTP and HTTPS toggling, and TopHosts canonicalization.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CORE_BROWSER_URL_UTILS_H_
 #define COMPONENTS_HISTORY_CORE_BROWSER_URL_UTILS_H_
 

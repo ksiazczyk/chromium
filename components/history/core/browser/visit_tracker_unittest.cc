@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VisitTracker unit tests
+// summary: Unit tests verifying that VisitTracker computes referring visit IDs correctly across main-frame, subframe, multi-process, and back/forward navigations and process removal.
+// ---
+
 #include "components/history/core/browser/visit_tracker.h"
 
 #include "base/containers/span.h"

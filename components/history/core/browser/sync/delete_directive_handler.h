@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeleteDirectiveHandler class declaration
+// summary: Declares DeleteDirectiveHandler, which propagates history delete directives to sync and processes incoming directives to remove matching local visits.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CORE_BROWSER_SYNC_DELETE_DIRECTIVE_HANDLER_H_
 #define COMPONENTS_HISTORY_CORE_BROWSER_SYNC_DELETE_DIRECTIVE_HANDLER_H_
 

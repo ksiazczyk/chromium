@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Domain diversity reporter unit tests
+// summary: Unit tests verifying the reporter's daily scheduling, timestamp prefs, and histogram output using a configurable test clock and a test history service.
+// ---
+
 #include "components/history/metrics/domain_diversity_reporter.h"
 
 #include "base/feature_list.h"

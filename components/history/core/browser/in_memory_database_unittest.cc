@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: In-memory database unit tests
+// summary: Unit tests for InMemoryDatabase covering initialization from empty and on-disk history databases and copying of typed URLs and keyword search terms.
+// ---
+
 #include "components/history/core/browser/in_memory_database.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: History service query unit tests
+// summary: Unit tests for HistoryService query functionality, verifying result ordering, text matching, and hostname-based history queries against seeded visit data.
+// ---
+
 #include <stddef.h>
 
 #include <array>

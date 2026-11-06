@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Google thumbnail test helper
+// summary: Declares CreateGoogleThumbnailForTest, which returns a gfx::Image built from embedded Google thumbnail data for tests.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CORE_TEST_THUMBNAIL_H_
 #define COMPONENTS_HISTORY_CORE_TEST_THUMBNAIL_H_
 

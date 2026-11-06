@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BrowsingHistoryService unit tests
+// summary: Unit tests for BrowsingHistoryService covering local and remote history queries, entry merging, and deletion behavior using fake history and sync services.
+// ---
+
 #include "components/history/core/browser/browsing_history_service.h"
 
 #include <utility>

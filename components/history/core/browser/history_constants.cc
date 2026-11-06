@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History constants definitions
+// summary: Defines history database filenames, the maximum title change count, and the title setting window used by the history component.
+// ---
+
 #include "components/history/core/browser/history_constants.h"
 
 #include "base/files/file_path.h"

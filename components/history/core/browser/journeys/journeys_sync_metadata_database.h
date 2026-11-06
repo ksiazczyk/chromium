@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Journeys sync metadata database interface
+// summary: Declares JourneysSyncMetadataDatabase, a SyncMetadataStore that maintains per-journey entity metadata and data type state in SQLite.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CORE_BROWSER_JOURNEYS_JOURNEYS_SYNC_METADATA_DATABASE_H_
 #define COMPONENTS_HISTORY_CORE_BROWSER_JOURNEYS_JOURNEYS_SYNC_METADATA_DATABASE_H_
 

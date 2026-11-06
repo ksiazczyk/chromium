@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS dependency rules for the history core component
+summary: Defines include rules that forbid dependencies on //content and components/history/content while allowing selected component dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History expiration backend declaration
+// summary: Declares ExpireHistoryBackend, which periodically expires old history and handles URL, time-range, and visit-specific deletions.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CORE_BROWSER_EXPIRE_HISTORY_BACKEND_H_
 #define COMPONENTS_HISTORY_CORE_BROWSER_EXPIRE_HISTORY_BACKEND_H_
 

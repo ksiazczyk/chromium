@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TopSitesImpl unit tests
+// summary: Unit tests for TopSitesImpl covering most visited URL queries, blocked URLs, prepopulated pages, and update behavior using test history service helpers.
+// ---
+
 #include "components/history/core/browser/top_sites_impl.h"
 
 #include <stddef.h>

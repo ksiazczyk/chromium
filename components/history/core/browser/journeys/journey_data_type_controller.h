@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JourneyDataTypeController declaration
+// summary: Declares the data type controller for syncer::JOURNEY, wiring the history service delegate and precondition handling through a shared history controller helper.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CORE_BROWSER_JOURNEYS_JOURNEY_DATA_TYPE_CONTROLLER_H_
 #define COMPONENTS_HISTORY_CORE_BROWSER_JOURNEYS_JOURNEY_DATA_TYPE_CONTROLLER_H_
 

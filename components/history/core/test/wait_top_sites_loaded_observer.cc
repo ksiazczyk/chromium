@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WaitTopSitesLoadedObserver implementation
+// summary: Implements a TopSites observer test helper that runs a nested loop until TopSites reports it has finished loading, quitting immediately when already loaded.
+// ---
+
 #include "components/history/core/test/wait_top_sites_loaded_observer.h"
 
 #include "components/history/core/browser/top_sites.h"

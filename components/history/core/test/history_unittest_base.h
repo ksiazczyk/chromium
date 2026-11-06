@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: History unit test base class
+// summary: Declares HistoryUnitTestBase, a gtest base class providing a static method to execute a SQL script file against a database file.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CORE_TEST_HISTORY_UNITTEST_BASE_H_
 #define COMPONENTS_HISTORY_CORE_TEST_HISTORY_UNITTEST_BASE_H_
 

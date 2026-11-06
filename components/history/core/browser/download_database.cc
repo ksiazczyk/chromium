@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadDatabase implementation
+// summary: Implements the downloads table of the history database, including row queries, updates, and schema migrations that add new download columns.
+// ---
+
 #include "components/history/core/browser/download_database.h"
 
 #include <inttypes.h>

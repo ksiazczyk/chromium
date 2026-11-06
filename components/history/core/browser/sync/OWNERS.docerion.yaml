@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: History sync directory owners
+summary: Delegates code ownership review for this directory to the components/sync OWNERS file.

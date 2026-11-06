@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake web history service declarations
+// summary: Declares FakeWebHistoryService, a test fake for WebHistoryService supporting fake synced visits and emulated responses.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CORE_TEST_FAKE_WEB_HISTORY_SERVICE_H_
 #define COMPONENTS_HISTORY_CORE_TEST_FAKE_WEB_HISTORY_SERVICE_H_
 

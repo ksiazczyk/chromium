@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VisitedLinkDatabase implementation
+// summary: Implements SQLite-backed storage for triple-key partitioned visited link rows, including row lookup, visit count updates, table dropping, and enumeration.
+// ---
+
 #include "components/history/core/browser/visited_link_database.h"
 
 #include "base/logging.h"

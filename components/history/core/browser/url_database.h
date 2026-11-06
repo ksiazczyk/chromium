@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URLDatabase class declaration
+// summary: Declares the URLDatabase class encapsulating an SQL database of URL information with lookup, add, update, and delete operations.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CORE_BROWSER_URL_DATABASE_H_
 #define COMPONENTS_HISTORY_CORE_BROWSER_URL_DATABASE_H_
 

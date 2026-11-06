@@ -17,6 +17,12 @@
 //    has no logic in the getter except threading stuff, which we don't want
 //    to run.
 
+// ---docerion
+// type: test
+// title: History backend database unit tests
+// summary: Unit tests for the history backend and its database, covering downloads, clearing browsing data, and WAL mode behavior.
+// ---
+
 #include <stdint.h>
 
 #include <cstdint>

@@ -1,3 +1,12 @@
+---
+type: readme
+title: Core History Component
+summary: Explains the cross-platform core history component, its databases and services, and how to fix iOS-simulator and content layering issues.
+relations:
+  - references /components/history/README.md
+  - references /components/history/core/DEPS
+---
+
 ## Core History Component
 
 Code in components/history/core is cross-platform. The core/ directory defines

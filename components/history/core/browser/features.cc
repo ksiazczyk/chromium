@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History feature flags and parameters
+// summary: Defines base::Feature flags and FeatureParam defaults for history features such as Organic Repeatable Queries and Most Visited Tiles scoring.
+// ---
+
 #include "components/history/core/browser/features.h"
 
 #include "build/build_config.h"

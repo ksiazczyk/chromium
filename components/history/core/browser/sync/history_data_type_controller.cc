@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HistoryDataTypeController implementation
+// summary: Implements the HISTORY data type controller, obtaining delegates from HistoryService and enforcing preconditions such as passphrase encryption.
+// ---
+
 #include "components/history/core/browser/sync/history_data_type_controller.h"
 
 #include <memory>

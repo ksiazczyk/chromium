@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebContents history context helper implementation
+// summary: Implements ContextIDForWebContents by attaching a WebContentsContext user data object that binds a history Context to a WebContents.
+// ---
+
 #include "components/history/content/browser/history_context_helper.h"
 
 #include "content/public/browser/web_contents.h"

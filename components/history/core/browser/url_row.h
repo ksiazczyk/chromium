@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URLRow class declaration
+// summary: Declares URLRow holding per-URL history data such as title, visit and typed counts, plus visit content annotation types.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CORE_BROWSER_URL_ROW_H_
 #define COMPONENTS_HISTORY_CORE_BROWSER_URL_ROW_H_
 

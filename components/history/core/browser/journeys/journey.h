@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Journey data structures
+// summary: Defines the fully resolved journey model structs, including visits with URLs and titles, visit collections, and continuation queries, for UI and downstream consumption.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CORE_BROWSER_JOURNEYS_JOURNEY_H_
 #define COMPONENTS_HISTORY_CORE_BROWSER_JOURNEYS_JOURNEY_H_
 

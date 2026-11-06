@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test history backend for sync class declaration
+// summary: Declares the in-memory test double of HistoryBackendForSync used in history sync unit tests, including call counters and content annotation helpers.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CORE_BROWSER_SYNC_TEST_HISTORY_BACKEND_FOR_SYNC_H_
 #define COMPONENTS_HISTORY_CORE_BROWSER_SYNC_TEST_HISTORY_BACKEND_FOR_SYNC_H_
 

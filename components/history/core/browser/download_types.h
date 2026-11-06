@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download type declarations
+// summary: Declares DownloadState, DownloadDangerType, DownloadInterruptReason, and DownloadId with serialization helpers for the download database.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CORE_BROWSER_DOWNLOAD_TYPES_H_
 #define COMPONENTS_HISTORY_CORE_BROWSER_DOWNLOAD_TYPES_H_
 

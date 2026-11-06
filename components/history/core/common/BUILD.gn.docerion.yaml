@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for history core common library
+summary: GN build file that defines the static library target for history core common, listing the preference name sources and depending on //base.

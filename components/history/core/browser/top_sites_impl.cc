@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TopSitesImpl implementation
+// summary: Implements the TopSites service logic, including most visited URL queries, blocked URL preferences, update scheduling, and history service integration.
+// ---
+
 #include "components/history/core/browser/top_sites_impl.h"
 
 #include <stdint.h>

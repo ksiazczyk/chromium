@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VisitedLinkDatabase interface
+// summary: Declares the SQLite database class that stores :visited links partitioned by link URL, top-level URL, and frame URL, with row CRUD and enumeration APIs.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CORE_BROWSER_VISITED_LINK_DATABASE_H_
 #define COMPONENTS_HISTORY_CORE_BROWSER_VISITED_LINK_DATABASE_H_
 

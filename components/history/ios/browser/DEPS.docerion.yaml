@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the browser directory
+summary: Grants this directory permission to include headers from ios/web/public.

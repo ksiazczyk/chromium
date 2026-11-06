@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Visit database implementation
+// summary: Implements the visit database that stores and queries URL visits in SQLite, including origin and host search bounds and page transition handling.
+// ---
+
 #include "components/history/core/browser/visit_database.h"
 
 #include <stddef.h>

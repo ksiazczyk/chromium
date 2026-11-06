@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SegmentScorer class declaration
+// summary: Declares a scoring function for history database segments with pluggable recency weighting factors and a daily visit count cap to limit single-day outliers.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CORE_BROWSER_SEGMENT_SCORER_H_
 #define COMPONENTS_HISTORY_CORE_BROWSER_SEGMENT_SCORER_H_
 

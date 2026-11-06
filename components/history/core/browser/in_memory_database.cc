@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-memory history database implementation
+// summary: Implements InMemoryDatabase, opening an in-memory SQLite database and populating it with typed URLs and keyword search terms from the main history database.
+// ---
+
 #include "components/history/core/browser/in_memory_database.h"
 
 #include <memory>

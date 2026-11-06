@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web contents top sites observer unit tests
+// summary: Unit tests verifying that the observer reports main-frame navigation commits to TopSites while ignoring navigations inside fenced frames.
+// ---
+
 #include "components/history/content/browser/web_contents_top_sites_observer.h"
 
 #include "base/task/cancelable_task_tracker.h"

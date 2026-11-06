@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TopSitesDatabase class declaration
+// summary: Declares the TopSitesDatabase class for initializing, querying, and updating the top sites table, including rank helpers and testing hooks.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CORE_BROWSER_TOP_SITES_DATABASE_H_
 #define COMPONENTS_HISTORY_CORE_BROWSER_TOP_SITES_DATABASE_H_
 
