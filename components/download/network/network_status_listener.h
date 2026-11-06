@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network status listener base class interface
+// summary: Defines the NetworkStatusListener base class and its observer interface for monitoring and propagating network connection type changes.
+// ---
+
 #ifndef COMPONENTS_DOWNLOAD_NETWORK_NETWORK_STATUS_LISTENER_H_
 #define COMPONENTS_DOWNLOAD_NETWORK_NETWORK_STATUS_LISTENER_H_
 

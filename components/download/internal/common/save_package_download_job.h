@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Save package download job class declaration
+// summary: Declares SavePackageDownloadJob, a DownloadJob subclass that identifies save-package downloads.
+// ---
+
 #ifndef COMPONENTS_DOWNLOAD_INTERNAL_COMMON_SAVE_PACKAGE_DOWNLOAD_JOB_H_
 #define COMPONENTS_DOWNLOAD_INTERNAL_COMMON_SAVE_PACKAGE_DOWNLOAD_JOB_H_
 

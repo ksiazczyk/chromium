@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for download database protos
+summary: Defines GN proto_library targets that build the download source and download entry protobuf definitions for the download database component.

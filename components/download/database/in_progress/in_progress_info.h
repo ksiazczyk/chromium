@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InProgressInfo struct for download resumption
+// summary: Declares the InProgressInfo struct with request, response, destination, and state fields used to reconstruct an interrupted download item for resumption.
+// ---
+
 #ifndef COMPONENTS_DOWNLOAD_DATABASE_IN_PROGRESS_IN_PROGRESS_INFO_H_
 #define COMPONENTS_DOWNLOAD_DATABASE_IN_PROGRESS_IN_PROGRESS_INFO_H_
 

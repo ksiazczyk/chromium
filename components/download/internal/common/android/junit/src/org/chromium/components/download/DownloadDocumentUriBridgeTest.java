@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DownloadDocumentUriBridgeTest
+// summary: Robolectric unit tests for DownloadDocumentUriBridge, covering document URI detection for null, malformed, non-content, MediaStore and SAF URIs plus rename input validation.
+// ---
+
 package org.chromium.components.download;
 
 import static org.junit.Assert.assertFalse;

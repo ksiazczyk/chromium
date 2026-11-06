@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the iOS background download service
+// summary: Tests BackgroundDownloadServiceImpl using a mock task helper, file monitor, store, and client to verify download lifecycle, start results, and completion metrics.
+// ---
+
 #include "components/download/internal/background_service/ios/background_download_service_impl.h"
 
 #include <memory>

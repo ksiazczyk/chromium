@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download statistics recording
+// summary: Records UMA histograms for download counts, interrupt reasons, content disposition parsing results, bandwidth, and connection types with per-source suffixes.
+// ---
+
 #include "components/download/public/common/download_stats.h"
 
 #include <map>

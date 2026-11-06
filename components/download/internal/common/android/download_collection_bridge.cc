@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadCollectionBridge native implementation
+// summary: Implements the native side of the Android download collection bridge, creating, moving, publishing, opening, and deleting intermediate content URIs for downloads via JNI.
+// ---
+
 #include "components/download/internal/common/android/download_collection_bridge.h"
 
 #include <set>

@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: COMMON_METADATA for the download component
+summary: Chromium metadata file assigning the download component to the UI>Browser>Downloads monorail component and Buganizer component 1457176.

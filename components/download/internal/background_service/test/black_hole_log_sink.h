@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Black hole log sink header
+// summary: Declares a no-op LogSink that discards all download service logging callbacks in tests.
+// ---
+
 #ifndef COMPONENTS_DOWNLOAD_INTERNAL_BACKGROUND_SERVICE_TEST_BLACK_HOLE_LOG_SINK_H_
 #define COMPONENTS_DOWNLOAD_INTERNAL_BACKGROUND_SERVICE_TEST_BLACK_HOLE_LOG_SINK_H_
 

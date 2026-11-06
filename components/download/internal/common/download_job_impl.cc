@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadJobImpl implementation
+// summary: Implements DownloadJobImpl, a DownloadJob variant that reports parallelizability from a constructor-supplied flag.
+// ---
+
 #include "components/download/internal/common/download_job_impl.h"
 
 namespace download {

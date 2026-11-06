@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Download utils unit tests
+// summary: Tests for download utility functions, including server response handling for range requests, resource request header construction, and content disposition detection.
+// ---
+
 #include "components/download/public/common/download_utils.h"
 
 #include <optional>

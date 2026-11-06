@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background download test base header
+// summary: Declares a shared test harness with an embedded test server, captured request, and temp directory for background download tests.
+// ---
+
 #ifndef COMPONENTS_DOWNLOAD_INTERNAL_BACKGROUND_SERVICE_TEST_BACKGROUND_DOWNLOAD_TEST_BASE_H_
 #define COMPONENTS_DOWNLOAD_INTERNAL_BACKGROUND_SERVICE_TEST_BACKGROUND_DOWNLOAD_TEST_BASE_H_
 

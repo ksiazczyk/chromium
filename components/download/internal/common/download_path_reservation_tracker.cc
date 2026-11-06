@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download path reservation tracker
+// summary: Tracks reserved download target paths so concurrent downloads avoid filename conflicts, updating or revoking reservations as download items change.
+// ---
+
 #include "components/download/public/common/download_path_reservation_tracker.h"
 
 #include <stddef.h>

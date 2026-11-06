@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Entry implementation with equality and memory estimation
+// summary: Implements Entry constructors, equality comparison across scheduling and request parameters, and memory usage estimation for a scheduled download.
+// ---
+
 #include "components/download/internal/background_service/entry.h"
 
 #include "base/trace_event/memory_usage_estimator.h"

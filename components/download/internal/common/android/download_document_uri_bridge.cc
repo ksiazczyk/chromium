@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadDocumentUriBridge native implementation
+// summary: Implements download operations for Android Storage Access Framework document URIs, including moving, deleting, opening, renaming, and display name lookup.
+// ---
+
 #include "components/download/internal/common/android/download_document_uri_bridge.h"
 
 #include <string>

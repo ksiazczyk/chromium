@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkStatusListenerAndroid implementation
+// summary: Implements the Android network status listener, forwarding Java-side network change notifications and connection type queries to native observers via JNI.
+// ---
+
 #include "components/download/network/android/network_status_listener_android.h"
 
 #include "base/android/jni_android.h"

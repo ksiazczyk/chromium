@@ -1,0 +1,4 @@
+# Docerion header of download_internals.html.
+type: source
+title: Download Internals WebUI page
+summary: HTML page for the Download Internals debug interface that offers a form to start downloads and displays service state, entry requests, and completed, failed, and in-progress downloads.

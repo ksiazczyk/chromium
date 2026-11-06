@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for iOS background download service
+summary: Defines the background_service source set and its unit tests for the iOS background download component, with dependencies on download common, storage, and public targets.

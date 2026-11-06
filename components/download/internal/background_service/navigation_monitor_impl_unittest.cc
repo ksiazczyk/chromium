@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for NavigationMonitorImpl
+// summary: Unit tests verifying navigation monitoring behavior, including observer notifications, timeouts, and completion delays with a mock time task runner.
+// ---
+
 #include "base/memory/raw_ptr.h"
 #include "components/download/internal/background_service/navigation_monitor_impl.h"
 

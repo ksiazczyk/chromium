@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BaseFile download file writing implementation
+// summary: Implements BaseFile, which writes download data to disk and handles hashing, renaming, cancellation, and platform-specific file operations.
+// ---
+
 #include "components/download/public/common/base_file.h"
 
 #include <memory>

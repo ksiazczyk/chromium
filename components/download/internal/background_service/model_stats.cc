@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Model statistics logging
+// summary: Logs UMA histograms for model operation results and database record counts by entry state for the background download service.
+// ---
+
 #include "components/download/internal/background_service/model_stats.h"
 
 #include "base/metrics/histogram_functions.h"

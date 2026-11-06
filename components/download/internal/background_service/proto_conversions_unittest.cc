@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for download service proto conversions
+// summary: Round-trip tests verifying state, client, and scheduling parameter conversions between internal types and protobuf.
+// ---
+
 #include "components/download/internal/background_service/proto_conversions.h"
 
 #include <memory>

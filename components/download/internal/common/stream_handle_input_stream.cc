@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stream handle input stream implementation
+// summary: Implements StreamHandleInputStream, which reads download data from a Mojo data pipe supplied by a DownloadStreamHandle and tracks completion status.
+// ---
+
 #include "components/download/public/common/stream_handle_input_stream.h"
 
 #include "base/containers/span.h"

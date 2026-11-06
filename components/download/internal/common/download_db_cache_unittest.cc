@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DownloadDBCache unit tests
+// summary: Unit tests for DownloadDBCache using a fake LevelDB database and mock download items to verify entry loading, updates, and cleanup behavior.
+// ---
+
 #include "components/download/internal/common/download_db_cache.h"
 
 #include <memory>

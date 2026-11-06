@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Parallel download job class header
+// summary: Declares ParallelDownloadJob, a DownloadJobImpl subclass that creates concurrent range requests to fetch different parts of a file using workers keyed by byte offset.
+// ---
+
 #ifndef COMPONENTS_DOWNLOAD_INTERNAL_COMMON_PARALLEL_DOWNLOAD_JOB_H_
 #define COMPONENTS_DOWNLOAD_INTERNAL_COMMON_PARALLEL_DOWNLOAD_JOB_H_
 

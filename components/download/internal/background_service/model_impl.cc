@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ModelImpl implementation for the download service
+// summary: Implements the Model interface, managing download entries in memory and persisting them through a Store with callbacks for initialization, add, update, and remove operations.
+// ---
+
 #include "components/download/internal/background_service/model_impl.h"
 
 #include <map>

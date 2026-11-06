@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadNamespace string conversions
+// summary: Implements conversions between the DownloadNamespace enum and its string representation used for classifying downloads.
+// ---
+
 #include "components/download/database/download_namespace.h"
 
 namespace download {

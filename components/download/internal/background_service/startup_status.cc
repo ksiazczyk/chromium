@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Startup status tracking implementation
+// summary: Implements helpers that track whether download service components finished initialization successfully.
+// ---
+
 #include "components/download/internal/background_service/startup_status.h"
 
 #include "base/check.h"

@@ -21,6 +21,12 @@
 //      * Download file is renamed to its final name, and possibly
 //        auto-opened.
 
+// ---docerion
+// type: source
+// title: DownloadItemImpl implementation
+// summary: Implements the DownloadItemImpl class that drives a download's state transitions from creation through completion, including file renaming, interruption handling, and observer notifications.
+// ---
+
 #include "components/download/public/common/download_item_impl.h"
 
 #include <memory>

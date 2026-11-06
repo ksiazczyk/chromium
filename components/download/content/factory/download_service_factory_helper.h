@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download service factory helper declarations
+// summary: Declares functions to build a persistent background download service and an in-memory variant used in incognito mode without disk persistence.
+// ---
+
 #ifndef COMPONENTS_DOWNLOAD_CONTENT_FACTORY_DOWNLOAD_SERVICE_FACTORY_HELPER_H_
 #define COMPONENTS_DOWNLOAD_CONTENT_FACTORY_DOWNLOAD_SERVICE_FACTORY_HELPER_H_
 

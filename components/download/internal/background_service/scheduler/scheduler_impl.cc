@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SchedulerImpl implementation
+// summary: Implements the download scheduler by creating platform background tasks from entry states and selecting the next entry to process, with round-robin load balancing between download clients.
+// ---
+
 #include "components/download/internal/background_service/scheduler/scheduler_impl.h"
 
 #include "components/download/internal/background_service/client_set.h"

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the background download service
+summary: Defines allowed include dependencies for the directory, blocking content includes and permitting base, net, network services, leveldb_proto, and storage.

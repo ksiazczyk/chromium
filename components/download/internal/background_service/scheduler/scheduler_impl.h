@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SchedulerImpl class declaration
+// summary: Declares the SchedulerImpl class, which schedules platform background tasks from download entry states, polls the next entry per scheduling parameters and device status, and balances load across clients.
+// ---
+
 #ifndef COMPONENTS_DOWNLOAD_INTERNAL_BACKGROUND_SERVICE_SCHEDULER_SCHEDULER_IMPL_H_
 #define COMPONENTS_DOWNLOAD_INTERNAL_BACKGROUND_SERVICE_SCHEDULER_SCHEDULER_IMPL_H_
 

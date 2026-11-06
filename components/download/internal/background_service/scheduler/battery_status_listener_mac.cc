@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac battery status listener implementation
+// summary: Implements the Mac BatteryStatusListener, which currently always reports a full battery and unknown power status.
+// ---
+
 #include "components/download/internal/background_service/scheduler/battery_status_listener_mac.h"
 
 namespace download {

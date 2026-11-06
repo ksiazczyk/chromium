@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BatteryStatusListenerAndroid
+// summary: Java helper class, owned by native code, that queries the Android battery percentage through a sticky battery-changed broadcast and exposes it to native code via JNI.
+// ---
+
 package org.chromium.components.download.internal;
 
 import android.content.Intent;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadItemImplDelegate default implementation
+// summary: Provides the default DownloadItemImplDelegate with no-op embedder hooks and assertions that the delegate outlives all attached download items.
+// ---
+
 #include "components/download/public/common/download_item_impl_delegate.h"
 
 #include "base/check_op.h"

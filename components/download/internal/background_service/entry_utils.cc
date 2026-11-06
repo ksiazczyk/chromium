@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Entry utility functions for metadata and scheduling criteria
+// summary: Implements entry utilities that count live entries per client, map entries to client metadata, derive scheduling criteria, rank entries and build download metadata.
+// ---
+
 #include "components/download/internal/background_service/entry_utils.h"
 
 #include <algorithm>

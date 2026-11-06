@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for download_internals WebUI
+summary: GN build configuration that builds the download_internals WebUI resources, listing static and TypeScript files plus Lit and WebUI dependencies via build_webui.

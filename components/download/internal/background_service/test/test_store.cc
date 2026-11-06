@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test store implementation
+// summary: Implements an in-memory fake Store for tests that records updated and removed entries and can trigger init, hard recovery, update and remove callbacks with a configurable result.
+// ---
+
 #include "components/download/internal/background_service/test/test_store.h"
 
 #include <memory>

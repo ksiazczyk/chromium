@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL loader factory provider implementation
+// summary: Implements URLLoaderFactoryProvider, which wraps and hands out a shared URLLoader factory for download tasks and provides a null instance with task runner deletion.
+// ---
+
 #include "components/download/public/common/url_loader_factory_provider.h"
 
 #include "components/download/public/common/download_task_runner.h"

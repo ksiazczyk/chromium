@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: In-memory download driver unit tests
+// summary: Unit tests for InMemoryDownloadDriver using fake in-memory downloads and noop factories to verify driver behavior and client notifications.
+// ---
+
 #include "components/download/internal/background_service/in_memory_download_driver.h"
 
 #include <memory>

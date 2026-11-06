@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadBlockageStatus implementation
+// summary: Implements the DownloadBlockageStatus helper, initializing its blockage flags and reporting whether a download is currently blocked.
+// ---
+
 #include "components/download/internal/background_service/download_blockage_status.h"
 
 namespace download {

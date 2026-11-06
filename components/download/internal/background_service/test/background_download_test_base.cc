@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background download test base implementation
+// summary: Implements a shared test harness that starts an embedded test server and serves default and not-found HTTP responses for background download tests.
+// ---
+
 #include "components/download/internal/background_service/test/background_download_test_base.h"
 
 #include "base/functional/callback_helpers.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Simple download manager coordinator implementation
+// summary: Implements SimpleDownloadManagerCoordinator, which delegates download requests and forwards events between observers and an underlying SimpleDownloadManager.
+// ---
+
 #include "components/download/public/common/simple_download_manager_coordinator.h"
 
 #include <utility>

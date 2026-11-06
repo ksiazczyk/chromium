@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadDBCache class declaration
+// summary: Declares the DownloadDBCache class, which caches and updates metadata of all in-progress downloads via a DownloadDB and observes download items.
+// ---
+
 #ifndef COMPONENTS_DOWNLOAD_INTERNAL_COMMON_DOWNLOAD_DB_CACHE_H_
 #define COMPONENTS_DOWNLOAD_INTERNAL_COMMON_DOWNLOAD_DB_CACHE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DownloadDBImpl unit tests
+// summary: Unit tests for DownloadDBImpl covering successful and failed initialization, entry loading, key handling, and destroy-and-reinitialize behavior using a fake proto database.
+// ---
+
 #include "components/download/database/download_db_impl.h"
 
 #include <algorithm>

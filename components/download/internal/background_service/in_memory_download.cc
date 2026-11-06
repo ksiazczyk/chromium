@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-memory download implementation
+// summary: Implements InMemoryDownloadImpl, which sends a network request and stores download data in blob storage for incognito downloads that must not persist to disk.
+// ---
+
 #include "components/download/internal/background_service/in_memory_download.h"
 
 #include <memory>

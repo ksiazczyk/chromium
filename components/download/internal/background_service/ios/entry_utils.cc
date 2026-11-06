@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download entry to metadata mapping utilities
+// summary: Maps download entries to per-client DownloadMetaData, deriving current size from the proto database record because iOS lacks a download history database.
+// ---
+
 #include "components/download/internal/background_service/ios/entry_utils.h"
 
 #include "components/download/internal/background_service/entry.h"

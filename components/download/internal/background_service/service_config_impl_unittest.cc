@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for service configuration
+// summary: Verifies that ServiceConfigImpl returns the configured download limits and file keep-alive time.
+// ---
+
 #include "components/download/internal/background_service/service_config_impl.h"
 #include "components/download/internal/background_service/config.h"
 #include "testing/gtest/include/gtest/gtest.h"

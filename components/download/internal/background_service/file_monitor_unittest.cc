@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FileMonitor unit tests
+// summary: Unit tests for FileMonitorImpl covering deletion of unknown files, cleanup of completed entry files, and hard recovery using a temporary download directory.
+// ---
+
 #include <algorithm>
 #include <optional>
 

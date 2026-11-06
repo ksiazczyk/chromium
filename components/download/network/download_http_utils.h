@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download HTTP request header utilities declarations
+// summary: Declares functions to parse a single HTTP byte range from request headers and to validate download request headers.
+// ---
+
 #ifndef COMPONENTS_DOWNLOAD_NETWORK_DOWNLOAD_HTTP_UTILS_H_
 #define COMPONENTS_DOWNLOAD_NETWORK_DOWNLOAD_HTTP_UTILS_H_
 

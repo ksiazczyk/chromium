@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SchedulerImpl unit tests
+// summary: Unit tests for SchedulerImpl covering polling order, rescheduling of background tasks, and load balancing between download clients using a mocked TaskScheduler.
+// ---
+
 #include "components/download/internal/background_service/scheduler/scheduler_impl.h"
 
 #include <stdint.h>

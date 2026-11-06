@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: In-memory download unit tests
+// summary: Unit tests for InMemoryDownload, verifying response headers, URL chain, blob handling and completion callbacks using a mock delegate and a test URL loader factory.
+// ---
+
 #include "components/download/internal/background_service/in_memory_download.h"
 
 #include <memory>

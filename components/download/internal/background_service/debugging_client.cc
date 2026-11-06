@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DebuggingClient implementation for download service
+// summary: Implements DebuggingClient, an empty download client whose callback methods do nothing, intended for use by debugging layers such as the WebUI.
+// ---
+
 #include "components/download/internal/background_service/debugging_client.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download task runner setup
+// summary: Provides lazily initialized task runners for download, IO, and database work, using a COM STA runner on Windows and accessors with test overrides.
+// ---
+
 #include "components/download/public/common/download_task_runner.h"
 
 #include "base/lazy_instance.h"

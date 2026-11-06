@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download internals browser proxy
+// summary: TypeScript browser proxy defining service entry, driver, and request enums and interfaces, plus methods to fetch service status, list downloads, and start a download.
+// ---
+
 import {sendWithPromise} from 'chrome://resources/js/cr.js';
 
 /**

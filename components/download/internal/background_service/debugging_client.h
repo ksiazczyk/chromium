@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DebuggingClient declaration for download service
+// summary: Declares DebuggingClient, an empty Client implementation meant to be used by debugging layers like the WebUI.
+// ---
+
 #ifndef COMPONENTS_DOWNLOAD_INTERNAL_BACKGROUND_SERVICE_DEBUGGING_CLIENT_H_
 #define COMPONENTS_DOWNLOAD_INTERNAL_BACKGROUND_SERVICE_DEBUGGING_CLIENT_H_
 

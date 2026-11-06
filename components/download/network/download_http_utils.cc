@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download HTTP range header utilities implementation
+// summary: Implements parsing and validation of HTTP Range request headers, accepting only a single byte range for download requests.
+// ---
+
 #include "components/download/network/download_http_utils.h"
 
 #include "net/http/http_byte_range.h"

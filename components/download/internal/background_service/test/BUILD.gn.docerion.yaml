@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Test support build target for download internal tests
+summary: Defines the test_support source set listing mock and helper sources with visibility and dependencies for background download unit tests.

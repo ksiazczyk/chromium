@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock controller implementation
+// summary: Implements a mock Controller that stores the init callback and can trigger init completion in download tests.
+// ---
+
 #include "components/download/internal/background_service/test/mock_controller.h"
 
 namespace download {

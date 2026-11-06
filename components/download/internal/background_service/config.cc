@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download service configuration with Finch parameters
+// summary: Implements Configuration, providing default values for download limits, timing, and battery settings and loading overrides from Finch experiment parameters.
+// ---
+
 #include "components/download/internal/background_service/config.h"
 
 #include <string>

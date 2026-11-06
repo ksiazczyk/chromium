@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadDB base implementation
+// summary: Implements the DownloadDB interface with default no-op storage behavior whose initialize, add and load callbacks simply report success.
+// ---
+
 #include "components/download/database/download_db.h"
 
 #include "base/functional/callback.h"

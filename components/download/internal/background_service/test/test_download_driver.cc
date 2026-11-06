@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test download driver implementation
+// summary: Implements a fake DownloadDriver that simulates content layer download logic, keeps driver entries in memory and notifies the client of update, failure and success events.
+// ---
+
 #include "components/download/internal/background_service/test/test_download_driver.h"
 
 #include "base/files/file_path.h"

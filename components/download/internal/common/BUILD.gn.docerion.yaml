@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Download component internal build rules
+summary: GN build file defining the internal source set, platform-specific sources, and dependencies for the download component's common implementation.

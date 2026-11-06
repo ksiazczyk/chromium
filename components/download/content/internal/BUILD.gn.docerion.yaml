@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for download internal
+summary: GN build file defining the internal download source set and its unit test target, with visibility rules and dependencies on content, net and download components.

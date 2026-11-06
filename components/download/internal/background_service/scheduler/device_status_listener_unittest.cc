@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DeviceStatusListener unit tests
+// summary: Unit tests for DeviceStatusListener covering battery and network status changes, start delays, and observer notifications.
+// ---
+
 #include "components/download/internal/background_service/scheduler/device_status_listener.h"
 
 #include <memory>

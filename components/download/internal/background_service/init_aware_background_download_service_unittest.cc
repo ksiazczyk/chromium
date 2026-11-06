@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Init-aware background download service unit tests
+// summary: Unit tests verifying status pass-through, that API calls are held back before startup completes, and that service request metrics are logged.
+// ---
+
 #include "components/download/internal/background_service/init_aware_background_download_service.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Parallel download job implementation
+// summary: Implements ParallelDownloadJob, which schedules delayed parallel range requests, manages per-slice workers, and handles pause, resume, and cancellation of the download.
+// ---
+
 #include "components/download/internal/common/parallel_download_job.h"
 
 #include <algorithm>

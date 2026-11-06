@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DriverEntry struct implementation
+// summary: Implements DriverEntry constructors and destructor, initializing default download state values such as state, paused, done and byte counts.
+// ---
+
 #include "components/download/internal/background_service/driver_entry.h"
 
 #include "net/http/http_response_headers.h"

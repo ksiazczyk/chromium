@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download internals page controller
+// summary: Main TypeScript controller that renders tables of ongoing entries, finished downloads, and service requests, and updates the UI in response to browser proxy events.
+// ---
+
 // <if expr="is_ios">
 import 'chrome://resources/js/ios/web_ui.js';
 

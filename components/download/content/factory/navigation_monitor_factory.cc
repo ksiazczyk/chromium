@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigation monitor factory implementation
+// summary: Implements the singleton keyed service factory that builds a NavigationMonitorImpl instance for each SimpleFactoryKey.
+// ---
+
 #include "components/download/content/factory/navigation_monitor_factory.h"
 
 #include "base/no_destructor.h"

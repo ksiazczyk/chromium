@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL download request handle implementation
+// summary: Implements UrlDownloadRequestHandle, which holds a weak pointer to a UrlDownloadHandler plus its task runner and supports move construction and assignment.
+// ---
+
 #include "components/download/public/common/url_download_request_handle.h"
 #include "base/functional/bind.h"
 #include "base/task/sequenced_task_runner.h"

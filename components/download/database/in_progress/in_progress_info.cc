@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InProgressInfo implementation
+// summary: Implements InProgressInfo constructors, destructor, and equality operator comparing all fields of the persisted in-progress download state.
+// ---
+
 #include "components/download/database/in_progress/in_progress_info.h"
 
 namespace download {

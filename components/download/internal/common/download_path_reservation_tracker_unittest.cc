@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Download path reservation tracker unit tests
+// summary: Unit tests for the download path reservation tracker, covering path validation, filename conflict actions, and reservation behavior across platforms including Android.
+// ---
+
 #include "components/download/public/common/download_path_reservation_tracker.h"
 
 #include <stddef.h>

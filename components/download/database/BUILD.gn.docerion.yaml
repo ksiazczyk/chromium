@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Download database GN build definition
+summary: GN build file defining the database source set and its unit tests, with dependencies on leveldb_proto, download protos, net and network mojom.

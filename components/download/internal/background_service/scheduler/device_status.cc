@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceStatus and Criteria implementation
+// summary: Implements DeviceStatus::MeetsCondition and Criteria, checking battery and network requirements against download scheduling parameters.
+// ---
+
 #include "components/download/internal/background_service/scheduler/device_status.h"
 
 namespace download {

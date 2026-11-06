@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkConnectionTracker-based network status listener interface
+// summary: Declares NetworkStatusListenerImpl, the default NetworkStatusListener implementation backed by network::NetworkConnectionTracker.
+// ---
+
 #ifndef COMPONENTS_DOWNLOAD_NETWORK_NETWORK_STATUS_LISTENER_IMPL_H_
 #define COMPONENTS_DOWNLOAD_NETWORK_NETWORK_STATUS_LISTENER_IMPL_H_
 

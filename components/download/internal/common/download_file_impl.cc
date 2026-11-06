@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadFileImpl implementation
+// summary: Implements the core download file writer, including source stream handling, hashing, rename retries, and platform-specific behaviors such as Android publishing.
+// ---
+
 #include "components/download/public/common/download_file_impl.h"
 
 #include <algorithm>

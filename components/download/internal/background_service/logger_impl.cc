@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Logger implementation
+// summary: Implements the download service Logger, serializing service status, entries, driver states and results into values and notifying registered observers.
+// ---
+
 #include "components/download/internal/background_service/logger_impl.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DriverEntry struct snapshotting download driver states
+// summary: Defines the DriverEntry struct, a snapshot of a download's state including GUID, progress, resumability, file paths, blob handle, response headers, URL chain and content hash.
+// ---
+
 #ifndef COMPONENTS_DOWNLOAD_INTERNAL_BACKGROUND_SERVICE_DRIVER_ENTRY_H_
 #define COMPONENTS_DOWNLOAD_INTERNAL_BACKGROUND_SERVICE_DRIVER_ENTRY_H_
 

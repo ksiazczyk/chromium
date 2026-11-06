@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BackgroundNetworkStatusListener
+// summary: Android network listener that observes connectivity changes via the Chromium network API and forwards them to observers on the main thread while running on a background thread.
+// ---
+
 package org.chromium.components.download;
 
 import android.os.Handler;

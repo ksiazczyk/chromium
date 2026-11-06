@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadDBEntry struct
+// summary: Declares the DownloadDBEntry struct representing one entry in the DownloadDB, holding an optional DownloadInfo and a GUID accessor.
+// ---
+
 #ifndef COMPONENTS_DOWNLOAD_DATABASE_DOWNLOAD_DB_ENTRY_H_
 #define COMPONENTS_DOWNLOAD_DATABASE_DOWNLOAD_DB_ENTRY_H_
 

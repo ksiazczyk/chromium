@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BlobTaskProxy class declaration
+// summary: Declares a proxy for blob-related tasks that is created on the main thread, performs work on the IO thread, and is destroyed on the IO thread.
+// ---
+
 #ifndef COMPONENTS_DOWNLOAD_INTERNAL_BACKGROUND_SERVICE_BLOB_TASK_PROXY_H_
 #define COMPONENTS_DOWNLOAD_INTERNAL_BACKGROUND_SERVICE_BLOB_TASK_PROXY_H_
 

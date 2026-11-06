@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Download component GN build file
+summary: GN build file that aggregates unit test targets from the download component's subdirectories and packages the gtest filter as test data.

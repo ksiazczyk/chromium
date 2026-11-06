@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download worker implementation
+// summary: Implements DownloadWorker, which sends range requests on the IO thread to fetch slices of a file during parallel downloads and reports resulting input streams to its delegate.
+// ---
+
 #include "components/download/internal/common/download_worker.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Context menu download creation
+// summary: Implements CreateContextMenuDownload, which builds download URL parameters with referrer, cache and prompt settings for downloads started from a context menu on Android.
+// ---
+
 #include "components/download/content/public/context_menu_download.h"
 
 #include "base/android/device_info.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileMonitor implementation
+// summary: Implements download file cleanup, creating the download directory with ChromeOS-specific permissions and deleting unknown or obsolete files on the file thread with UMA logging.
+// ---
+
 #include "components/download/internal/background_service/file_monitor_impl.h"
 
 #include "base/debug/alias.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ClientSet unit tests
+// summary: Unit tests verifying client lookup and registered client retrieval, including the automatically added debugging client.
+// ---
+
 #include "components/download/internal/background_service/client_set.h"
 
 #include <algorithm>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for download internal common
+summary: Chromium DEPS file listing the include rules and allowed dependencies for sources in the download internal common directory.

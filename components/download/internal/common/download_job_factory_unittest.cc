@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DownloadJobFactory unit tests
+// summary: Unit tests for DownloadJobFactory verifying that parallel jobs are created when all conditions are met and skipped for service worker or obfuscated downloads.
+// ---
+
 #include "components/download/public/common/download_job_factory.h"
 
 #include <memory>

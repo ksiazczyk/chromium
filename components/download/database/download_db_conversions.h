@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download DB proto conversions
+// summary: Declares static conversion helpers between DownloadDBEntry, DownloadEntry, InProgressInfo, UkmInfo, DownloadInfo and their protobuf messages.
+// ---
+
 #ifndef COMPONENTS_DOWNLOAD_DATABASE_DOWNLOAD_DB_CONVERSIONS_H_
 #define COMPONENTS_DOWNLOAD_DATABASE_DOWNLOAD_DB_CONVERSIONS_H_
 

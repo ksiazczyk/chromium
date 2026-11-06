@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for DownloadStore
+// summary: Unit tests for DownloadStore covering initialization, entry loading, updates, removal and hard recovery using a fake LevelDB proto database.
+// ---
+
 #include "components/download/internal/background_service/download_store.h"
 
 #include <algorithm>

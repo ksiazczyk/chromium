@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkStatusListenerAndroid
+// summary: JNI bridge between the native download network status listener and the Android implementation, managing a singleton helper that queries network state on a background thread.
+// ---
+
 package org.chromium.components.download;
 
 import android.os.Handler;

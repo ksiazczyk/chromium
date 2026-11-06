@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadCollectionBridge
+// summary: Publishes download files to the Android public download collection, creating pending MediaStore sessions and intermediate URIs with duplicate-name handling.
+// ---
+
 package org.chromium.components.download;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

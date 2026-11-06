@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NavigationMonitorImpl implementation
+// summary: Implements NavigationMonitor, tracking navigation start and end events and notifying observers after configurable completion and timeout delays.
+// ---
+
 #include "components/download/internal/background_service/navigation_monitor_impl.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download interrupt reason conversion utilities
+// summary: Converts file, network, and Mojo network request status errors into the corresponding download interrupt reasons for the download system.
+// ---
+
 #include "components/download/public/common/download_interrupt_reasons_utils.h"
 
 #include "base/notreached.h"

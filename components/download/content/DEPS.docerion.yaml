@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Download content component DEPS include rules
+summary: Defines the include rules specifying which directories and headers the download content component is allowed to depend on, such as keyed_service, leveldb_proto, content, base, and network services.

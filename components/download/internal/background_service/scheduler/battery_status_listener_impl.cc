@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BatteryStatusListenerImpl implementation
+// summary: Implements the default BatteryStatusListener using base::PowerMonitor, with throttled battery percentage queries and observer notifications.
+// ---
+
 #include "components/download/internal/background_service/scheduler/battery_status_listener_impl.h"
 
 #include "components/download/internal/background_service/scheduler/device_status.h"

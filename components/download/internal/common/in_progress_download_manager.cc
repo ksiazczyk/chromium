@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-progress download manager implementation
+// summary: Implements InProgressDownloadManager, which creates and restores in-progress download items from the download database and starts or manages URL downloads for them.
+// ---
+
 #include "components/download/public/common/in_progress_download_manager.h"
 
 #include <optional>
