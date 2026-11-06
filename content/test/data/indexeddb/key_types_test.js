@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IndexedDB key types test script
+// summary: Tests storing and reading valid keys of all types, rejecting invalid keys with DataError, and checking key ordering via indexedDB.cmp.
+// ---
+
 function test() {
   indexedDBTest(prepareDatabase, testValidKeys);
 }

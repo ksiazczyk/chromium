@@ -1,0 +1,4 @@
+# Docerion header of bucket_durability_override.html.
+type: test
+title: Transaction durability overrides bucket durability in IndexedDB
+summary: Test verifying that a strict durability transaction inside a relaxed storage bucket is overridden, with the mock backend failing strict transactions.

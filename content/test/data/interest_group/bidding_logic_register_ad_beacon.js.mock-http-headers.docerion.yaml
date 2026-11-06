@@ -1,0 +1,4 @@
+# Docerion header of bidding_logic_register_ad_beacon.js.mock-http-headers.
+type: test
+title: Mock HTTP headers for register_ad_beacon bidding logic
+summary: Supplies HTTP response headers marking the register_ad_beacon bidding script as allowed for ad auctions.

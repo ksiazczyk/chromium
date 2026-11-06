@@ -1,0 +1,4 @@
+# Docerion header of bidding_logic_invalid_ad_url.js.mock-http-headers.
+type: test
+title: Mock HTTP headers for invalid ad URL bidding logic
+summary: Mock HTTP response headers served with the bidding logic that returns an invalid ad URL.

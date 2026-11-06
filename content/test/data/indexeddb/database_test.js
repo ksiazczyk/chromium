@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IndexedDB object store creation and deletion test
+// summary: Test script that creates an employees object store, checks database and store properties, then deletes the store.
+// ---
+
 'use strict';
 
 async function test() {

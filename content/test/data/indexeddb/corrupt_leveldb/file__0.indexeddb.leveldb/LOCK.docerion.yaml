@@ -1,0 +1,4 @@
+# Docerion header of LOCK.
+type: test
+title: LevelDB LOCK file
+summary: Empty LevelDB lock file guarding database access in the corrupt IndexedDB test fixture.

@@ -1,0 +1,4 @@
+# Docerion header of migration_database_generator.html.
+type: test
+title: IDB Database generator
+summary: Interactive page that builds an IndexedDB database with indexes and blob data, storing three user-selected files for use in migration browser tests.

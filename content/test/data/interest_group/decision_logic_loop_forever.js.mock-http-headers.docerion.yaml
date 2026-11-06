@@ -1,0 +1,4 @@
+# Docerion header of decision_logic_loop_forever.js.mock-http-headers.
+type: test
+title: Loop forever decision logic mock HTTP headers
+summary: 'Mock HTTP response headers that serve the infinite-loop decision logic with Ad-Auction-Allowed: true.'

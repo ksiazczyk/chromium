@@ -1,0 +1,4 @@
+# Docerion header of generate-test-wbns.sh.
+type: script
+title: Generate Web Bundle test files from HAR recordings
+summary: Shell script that builds the .wbn web bundle test files from the auction HAR files using gen-bundle.

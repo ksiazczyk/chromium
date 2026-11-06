@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Seller decision logic validating absent direct-from-seller signals
+// summary: Test seller decision logic that validates directFromSellerSignals are null and enables component auctions when auctionSignals allow them.
+// ---
+
 function scoreAd(
     adMetadata, bid, auctionConfig, trustedScoringSignals,
     browserSignals, directFromSellerSignals) {

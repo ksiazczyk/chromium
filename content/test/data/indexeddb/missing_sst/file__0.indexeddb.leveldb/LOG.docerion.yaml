@@ -1,0 +1,4 @@
+# Docerion header of LOG.
+type: test
+title: LevelDB recovery log
+summary: Records LevelDB recovery activity from January 2013, including log recovery and level-0 table compaction, in the IndexedDB missing SST test data.

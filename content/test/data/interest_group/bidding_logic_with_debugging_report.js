@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bidding logic with debugging reports
+// summary: Test generateBid script that bids and sends forDebuggingOnly loss and win debug reports during the auction.
+// ---
+
 // Basic generate bid script that offers a bid of 1 using the first ad's
 // `renderURL` and, if present, the first adComponent's `renderURL`.
 function generateBid(

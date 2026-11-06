@@ -1,0 +1,4 @@
+# Docerion header of bidding_argument_validator.js.mock-http-headers.
+type: test
+title: Mock HTTP headers for bidding_argument_validator.js
+summary: Mock HTTP response headers served with the bidding argument validator script, marking the ad auction as allowed via Ad-Auction-Allowed.

@@ -1,0 +1,4 @@
+# Docerion header of page_with_custom_ad_auction_result_header2.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for second custom ad auction result header page
+summary: Mock HTTP response template for the second test page, exposing ad auction headers with placeholders for status, headers and redirects.

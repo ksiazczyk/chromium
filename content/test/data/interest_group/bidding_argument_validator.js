@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bidding script validating auction arguments
+// summary: Test bidding script whose generateBid and reportWin validate interest group and auction argument fields before returning a bid of 2.
+// ---
+
 function generateBid(
     interestGroup, auctionSignals, perBuyerSignals, trustedBiddingSignals,
     browserSignals, directFromSellerSignals) {

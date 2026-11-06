@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File slice Blob storage regression test for bug 369670458
+// summary: Adds a sliced File to an IndexedDB object store in a readwrite transaction and completes only if no abort or error occurs.
+// ---
+
 'use strict';
 
 let connection;

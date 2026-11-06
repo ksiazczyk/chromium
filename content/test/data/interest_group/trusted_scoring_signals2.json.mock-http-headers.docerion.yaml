@@ -1,0 +1,4 @@
+# Docerion header of trusted_scoring_signals2.json.mock-http-headers.
+type: test
+title: Trusted scoring signals 2 mock HTTP headers
+summary: Mock HTTP response headers for the second trusted scoring signals fixture, setting data version 5678.

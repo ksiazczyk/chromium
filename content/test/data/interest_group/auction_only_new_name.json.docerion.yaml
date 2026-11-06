@@ -1,0 +1,4 @@
+# Docerion header of auction_only_new_name.json.
+type: test
+title: Auction-only new name JSON test data
+summary: JSON payload containing a secret field used as test data for the auction-only new name scenario.

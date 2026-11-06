@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Blob survival across database deletion test script
+// summary: Test script that writes a blob, deletes and recreates the database, and verifies the blob and new data remain readable.
+// ---
+
 'use strict';
 
 const DB_NAME = 'db-restores-from-zygotic-state';

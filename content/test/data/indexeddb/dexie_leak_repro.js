@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dexie connection leak reproduction test
+// summary: Reproduces Dexie-style IndexedDB connection leaks by opening sequential and concurrent connections while retaining references to prevent garbage collection.
+// ---
+
 // Keep references to prevent GC (mimicking Dexie's connection leak)
 let leakedConnections = [];
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IndexedDB cursor test logic
+// summary: JavaScript test that populates an object store, opens a cursor over a key range, checks direction, key and value, then opens an empty cursor.
+// ---
+
 function emptyCursorSuccess()
 {
   debug('Empty cursor opened successfully.');

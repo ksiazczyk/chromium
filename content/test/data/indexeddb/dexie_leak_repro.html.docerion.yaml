@@ -1,0 +1,4 @@
+# Docerion header of dexie_leak_repro.html.
+type: test
+title: IndexedDB deduplication repro
+summary: HTML harness for the IndexedDB deduplication leak reproduction test.

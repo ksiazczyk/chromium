@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IndexedDB index test script
+// summary: Tests creating a unique index, iterating object and key cursors, and reading entries through an IndexedDB index.
+// ---
+
 function onCursor()
 {
   var cursor = event.target.result;

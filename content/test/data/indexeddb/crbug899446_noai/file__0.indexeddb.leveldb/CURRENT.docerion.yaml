@@ -1,0 +1,4 @@
+# Docerion header of CURRENT.
+type: test
+title: LevelDB CURRENT file
+summary: Names the manifest file that the LevelDB database in this IndexedDB test fixture currently uses.

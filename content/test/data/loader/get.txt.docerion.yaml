@@ -1,0 +1,4 @@
+# Docerion header of get.txt.
+type: test
+title: Empty GET request target
+summary: Empty text file used as a target for GET requests in loader tests.

@@ -1,0 +1,4 @@
+# Docerion header of CURRENT.
+type: data
+title: LevelDB CURRENT manifest pointer
+summary: Points to the current manifest file of the LevelDB database stored as an IndexedDB test fixture.

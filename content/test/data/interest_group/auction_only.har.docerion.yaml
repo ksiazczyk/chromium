@@ -1,0 +1,4 @@
+# Docerion header of auction_only.har.
+type: test
+title: Auction-only HAR mock response
+summary: HAR archive defining a mock response for the bundled interest group JSON with FLEDGE auction-only headers.

@@ -6,6 +6,12 @@
 // Write a blob, and while that is ongoing, read from another object store and
 // make sure that the read transaction commits first.
 
+// ---docerion
+// type: test
+// title: Concurrent blob write and read regression test
+// summary: Regression test for crbug.com/475947902 that writes a blob while reading another object store and checks the read transaction commits first.
+// ---
+
 function upgradeCallback(db) {
   deleteAllObjectStores(db);
   db.createObjectStore('storeWithBlobs', {autoIncrement: true});

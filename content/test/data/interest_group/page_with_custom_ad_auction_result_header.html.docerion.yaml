@@ -1,0 +1,4 @@
+# Docerion header of page_with_custom_ad_auction_result_header.html.
+type: test
+title: Page with custom ad auction result header
+summary: Test page served with mock HTTP headers to exercise custom Ad-Auction-Result header handling in ad auction tests.

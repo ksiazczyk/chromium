@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Component auction component decision argument validator
+// summary: Test seller worklet for component auctions that validates ad metadata, bid, auction config, and signals passed to scoreAd and reportResult.
+// ---
+
 function scoreAd(adMetadata, bid, auctionConfig, trustedScoringSignals,
                  browserSignals, directFromSellerSignals) {
   validateAdMetadata(adMetadata);

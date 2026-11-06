@@ -1,0 +1,4 @@
+# Docerion header of CURRENT.
+type: test
+title: LevelDB CURRENT file in IndexedDB test fixture
+summary: LevelDB CURRENT file naming the active manifest (MANIFEST-000001) for the IndexedDB database stored as test data for crbug 899446.

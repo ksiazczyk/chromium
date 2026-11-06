@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared helpers for IndexedDB tests
+// summary: Provides debug, pass/fail reporting, unexpected callback handlers, shouldBe-style assertions, and indexedDBTest setup used by the IndexedDB test pages.
+// ---
+
 function debug(message)
 {
   var span = document.createElement("span");

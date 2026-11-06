@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IndexedDB endless transaction loop test
+// summary: Runs an endless loop of get requests inside a readwrite transaction to keep the transaction active indefinitely.
+// ---
+
 function test()
 {
   // Do not use indexedDBTest() - need to specify the database name

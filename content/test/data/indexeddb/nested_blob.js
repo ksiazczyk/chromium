@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IndexedDB nested blob regression test
+// summary: Regression test for crbug.com/392376370 that reads an IDB blob, wraps it in another blob, forces GC, and re-reads it to catch a renderer crash.
+// ---
+
 const DB = 'db';
 const STORE = 'store';
 const DATA = 'data';

@@ -1,0 +1,4 @@
+# Docerion header of database_callbacks_first.html.
+type: test
+title: Database callbacks first navigation page
+summary: HTML page that opens an IndexedDB connection, garbage-collects the request and navigates to the second page to test callbacks after detachment.

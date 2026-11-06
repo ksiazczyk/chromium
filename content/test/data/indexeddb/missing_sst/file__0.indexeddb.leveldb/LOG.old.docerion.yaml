@@ -1,0 +1,4 @@
+# Docerion header of LOG.old.
+type: test
+title: Previous LevelDB recovery log
+summary: Earlier LevelDB operational log recording recovery and compaction steps from January 2013 in the IndexedDB missing SST test data.

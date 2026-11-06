@@ -1,0 +1,4 @@
+# Docerion header of db_restores_from_zygotic_state.html.
+type: test
+title: Test that a blob reference survives database deletion
+summary: HTML harness that loads the script testing whether a blob reference survives deletion of its IndexedDB database.

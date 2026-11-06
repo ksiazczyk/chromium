@@ -1,0 +1,4 @@
+# Docerion header of LOCK.
+type: test
+title: LevelDB LOCK file
+summary: Empty LevelDB lock file that the database holds while open, kept as part of the migration test data.

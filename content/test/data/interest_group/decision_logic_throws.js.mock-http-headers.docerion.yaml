@@ -1,0 +1,4 @@
+# Docerion header of decision_logic_throws.js.mock-http-headers.
+type: test
+title: Mock HTTP headers for decision_logic_throws.js
+summary: Mock HTTP response headers serving decision_logic_throws.js with a 200 status, JavaScript content type, and Ad-Auction-Allowed set to true.

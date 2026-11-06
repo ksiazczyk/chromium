@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bidding logic using WASM helper
+// summary: Test generateBid script that bids through a WASM helper expected to multiply the bid by four, for Protected Audience auction tests.
+// ---
+
 // A generate bid script that offers a bid of 2 passed through a "multiply by 4"
 // WASM helper, using the first ad's `renderURL`.
 function generateBid(

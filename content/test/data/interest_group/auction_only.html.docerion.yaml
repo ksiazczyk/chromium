@@ -1,0 +1,4 @@
+# Docerion header of auction_only.html.
+type: test
+title: Auction-only web bundle test page
+summary: Test page that loads the auction_only web bundle to serve the interest group JSON with auction-only signals.

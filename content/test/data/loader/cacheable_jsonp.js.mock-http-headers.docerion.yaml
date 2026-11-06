@@ -1,0 +1,4 @@
+# Docerion header of cacheable_jsonp.js.mock-http-headers.
+type: test
+title: Mock HTTP headers for cacheable JSONP script
+summary: Mock HTTP response headers giving the cacheable JSONP script a 200 status, JavaScript content type and one-hour cache.

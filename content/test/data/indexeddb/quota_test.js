@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IndexedDB quota enforcement test script
+// summary: Test script that writes randomized data in transactions until QuotaExceededError, checking storage estimate, usage and quota along the way.
+// ---
+
 function test() {
   if (navigator.storage) {
     window.jsTestIsAsync = true;

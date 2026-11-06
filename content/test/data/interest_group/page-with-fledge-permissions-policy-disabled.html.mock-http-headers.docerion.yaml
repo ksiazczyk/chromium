@@ -1,0 +1,4 @@
+# Docerion header of page-with-fledge-permissions-policy-disabled.html.mock-http-headers.
+type: test
+title: Mock HTTP headers disabling FLEDGE permissions policy
+summary: Provides mock HTTP response headers that disable join-ad-interest-group and run-ad-auction via Permissions-Policy.

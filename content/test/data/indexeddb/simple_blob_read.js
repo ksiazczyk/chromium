@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IndexedDB blob write and read-back verification test
+// summary: Writes a Blob into an IndexedDB object store, then reopens the database and reads the blob back to verify its contents.
+// ---
+
 const DB = 'db';
 const STORE = 'store';
 const DATA = 'blob value';

@@ -1,0 +1,4 @@
+# Docerion header of delete_over_quota.html.
+type: test
+title: IDB test that origins over quota aren't trapped
+summary: Test page verifying that an origin over quota gets QuotaExceededError on writes but can still delete and read records.

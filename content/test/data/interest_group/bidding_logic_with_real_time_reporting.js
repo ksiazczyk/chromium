@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bidding logic with real-time reporting
+// summary: Test generateBid script that bids and contributes to a real-time reporting histogram during the auction.
+// ---
+
 // Basic generate bid script that offers a bid of 1 using the first ad's
 // `renderURL`.
 function generateBid(

@@ -1,0 +1,4 @@
+# Docerion header of auction_only_new_name.wbn.mock-http-headers.
+type: test
+title: Mock HTTP headers for auction_only_new_name.wbn
+summary: Mock HTTP response headers serving auction_only_new_name.wbn as an application/webbundle with cross-origin access allowed.

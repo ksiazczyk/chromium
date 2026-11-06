@@ -1,0 +1,4 @@
+# Docerion header of CURRENT.
+type: test
+title: LevelDB CURRENT file
+summary: LevelDB pointer file naming the current manifest (MANIFEST-000001) for the IndexedDB migration test database.

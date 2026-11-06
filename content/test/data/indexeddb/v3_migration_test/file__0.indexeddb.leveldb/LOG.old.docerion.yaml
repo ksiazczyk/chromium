@@ -1,0 +1,4 @@
+# Docerion header of LOG.old.
+type: test
+title: LevelDB LOG.old file
+summary: Empty previous LevelDB log file retained alongside the current log in the migration test data.

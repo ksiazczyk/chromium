@@ -8,6 +8,12 @@
  * closed.
  */
 
+// ---docerion
+// type: test
+// title: IndexedDB blocked transaction commit behavior test
+// summary: Test verifying that blocked readwrite transactions commit or abort as expected when a tab is force closed, including explicitly committed transactions.
+// ---
+
 function test() {
   if (document.location.hash === '#tab1') {
     setUpBlockedTransactions();

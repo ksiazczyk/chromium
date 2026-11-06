@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Deprecated render URL replacements validator decision logic
+// summary: Seller worklet test script whose scoreAd validates deprecatedRenderURLReplacements against expected values and controls component auctions.
+// ---
+
 function scoreAd(
     adMetadata, bid, auctionConfig, trustedScoringSignals,
     browserSignals) {

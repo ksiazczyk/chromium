@@ -1,0 +1,4 @@
+# Docerion header of LOCK.
+type: test
+title: LevelDB LOCK file in IndexedDB test fixture
+summary: Empty LevelDB lock file guarding the IndexedDB test database directory included as test data for crbug 899446.

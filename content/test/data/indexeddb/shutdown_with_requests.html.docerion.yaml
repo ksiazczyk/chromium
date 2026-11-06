@@ -1,0 +1,4 @@
+# Docerion header of shutdown_with_requests.html.
+type: test
+title: IndexedDB shutdown test page
+summary: HTML test page that populates an object store with data and indexes inline to exercise IndexedDB versus V8 shutdown ordering.

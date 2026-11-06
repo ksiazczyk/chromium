@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Buyer reportWin script that loops forever
+// summary: Buyer auction script whose reportWin enters an endless loop to test that the reportWin reporting timeout works as expected.
+// ---
+
 function generateBid(interestGroup, auctionSignals, perBuyerSignals,
                      trustedBiddingSignals, browserSignals) {
   const ad = interestGroup.ads[0];

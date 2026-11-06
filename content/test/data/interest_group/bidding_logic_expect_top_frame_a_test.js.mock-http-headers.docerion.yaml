@@ -1,0 +1,4 @@
+# Docerion header of bidding_logic_expect_top_frame_a_test.js.mock-http-headers.
+type: test
+title: Mock HTTP headers for top-frame a.test bidding logic
+summary: Mock HTTP response headers served with the bidding logic that expects the top frame to be a.test.

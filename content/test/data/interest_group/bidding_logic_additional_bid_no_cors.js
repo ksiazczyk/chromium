@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Additional bid reporting script without CORS
+// summary: Variant of the additional bid reporting script whose name indicates it is served without CORS headers for cross-origin test cases.
+// ---
+
 
 function reportWin(auctionSignals, perBuyerSignals, sellerSignals,
                    browserSignals) {

@@ -1,0 +1,4 @@
+# Docerion header of decision_simple_direct_from_seller_signals_validator.js.mock-http-headers.
+type: test
+title: Mock HTTP headers for decision logic validator
+summary: Supplies mock HTTP response headers, including Ad-Auction-Allowed, for serving the decision logic validator script in tests.

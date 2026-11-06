@@ -1,0 +1,4 @@
+# Docerion header of bucket_durability_strict.html.
+type: test
+title: Strict bucket durability respected in IndexedDB transaction
+summary: Test verifying that a strict durability storage bucket causes IndexedDB transactions to abort with UnknownError under the failing mock backend.

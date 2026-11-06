@@ -1,0 +1,4 @@
+# Docerion header of v3_migration_test.html.
+type: test
+title: IDB test for migration from schema v3
+summary: HTML test that reads and verifies a database created by migration_database_generator.html, checking row fields and blob or file contents after migration from schema v3.

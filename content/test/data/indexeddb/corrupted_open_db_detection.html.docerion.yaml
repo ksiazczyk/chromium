@@ -1,0 +1,4 @@
+# Docerion header of corrupted_open_db_detection.html.
+type: test
+title: Corrupted open database detection test, part 1 of 2
+summary: Runs IndexedDB corruption scenarios such as failed LevelDB gets, commit failures, and cursor iteration to verify errors on a corrupted open database are handled.

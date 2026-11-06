@@ -1,0 +1,4 @@
+# Docerion header of auction_only_new_name.har.
+type: test
+title: Auction-only new name HAR fixture
+summary: HAR recording that serves auction_only_in_bundle.json with Ad-Auction-Only and Ad-Auction-Allowed headers for the new name auction-only scenario.

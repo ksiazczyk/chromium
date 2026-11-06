@@ -1,0 +1,4 @@
+# Docerion header of bidding_logic_with_real_time_reporting.js.mock-http-headers.
+type: test
+title: Mock HTTP headers for bidding_logic_with_real_time_reporting.js
+summary: Mock HTTP response headers that serve the real-time-reporting bidding script as JavaScript with Ad-Auction-Allowed set to true.

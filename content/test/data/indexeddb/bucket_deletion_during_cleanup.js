@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Storage bucket deletion during database cleanup test
+// summary: Test that opens a storage bucket, writes and clears IndexedDB data, then closes the database and deletes the bucket to verify deletion succeeds during cleanup.
+// ---
+
 async function test() {
   try {
     const bucket = await navigator.storageBuckets.open('test-bucket');

@@ -1,0 +1,4 @@
+# Docerion header of 7.
+type: test
+title: IndexedDB v3 migration test blob 7
+summary: Blob fixture containing the text 'testData2' for the IndexedDB v3 migration test.

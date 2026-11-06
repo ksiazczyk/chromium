@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IndexedDB callback accounting regression test
+// summary: Runs a long-lived transaction loop while opening a second database to check IndexedDB callback accounting behavior.
+// ---
+
 function test()
 {
   var dbbase = "callback_accounting_";

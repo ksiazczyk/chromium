@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IndexedDB version change blocked test
+// summary: JavaScript test that prepares the version-change-blocked database and, from two tabs, checks that a version change is blocked while another connection is open.
+// ---
+
 function test()
 {
   if (document.location.hash === '#tab1') {

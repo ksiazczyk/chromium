@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Seller decision logic with real-time reporting contributions
+// summary: Test seller decision logic whose scoreAd contributes bid-based buckets to the real-time reporting histogram and whose reportResult sends the seller report.
+// ---
+
 function scoreAd(
     adMetadata, bid, auctionConfig, trustedScoringSignals, browserSignals) {
   realTimeReporting.contributeToHistogram(

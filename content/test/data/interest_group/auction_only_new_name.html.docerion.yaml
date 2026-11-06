@@ -1,0 +1,4 @@
+# Docerion header of auction_only_new_name.html.
+type: test
+title: Page with subresource bundle auction-only signals
+summary: Test page that embeds auction_only_new_name.wbn as a web bundle providing the auction-only auction_only_in_bundle.json resource.

@@ -1,0 +1,4 @@
+# Docerion header of auction_only.json.
+type: test
+title: Auction-only test JSON payload
+summary: Simple JSON payload served as the auction-only interest group resource in the web bundle tests.

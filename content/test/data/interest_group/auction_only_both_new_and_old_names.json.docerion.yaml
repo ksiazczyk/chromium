@@ -1,0 +1,4 @@
+# Docerion header of auction_only_both_new_and_old_names.json.
+type: test
+title: Test JSON payload for new and old header names
+summary: Simple JSON payload served as the interest group resource in the dual header-name web bundle test.

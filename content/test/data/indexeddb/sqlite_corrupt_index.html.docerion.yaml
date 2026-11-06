@@ -1,0 +1,4 @@
+# Docerion header of sqlite_corrupt_index.html.
+type: test
+title: IndexedDB SQLite corrupt index recovery test
+summary: HTML harness page that loads common.js and sqlite_corrupt_index.js to run the corrupt index recovery test.

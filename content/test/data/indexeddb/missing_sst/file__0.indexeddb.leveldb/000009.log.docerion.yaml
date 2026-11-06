@@ -1,0 +1,4 @@
+# Docerion header of 000009.log.
+type: test
+title: Empty LevelDB write-ahead log
+summary: Empty write-ahead log of the LevelDB database used as test data for the IndexedDB missing SST file scenario.

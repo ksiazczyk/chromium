@@ -1,0 +1,4 @@
+# Docerion header of bidding_logic_with_size.js.mock-http-headers.
+type: test
+title: Mock HTTP headers for bidding_logic_with_size.js
+summary: Mock HTTP response headers that serve the sized bidding script as JavaScript with Ad-Auction-Allowed set to true.

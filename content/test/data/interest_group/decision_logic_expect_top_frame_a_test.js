@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Decision logic expecting top frame a.test
+// summary: Seller worklet test script that throws unless the top window hostname is a.test and reports the seller auction result.
+// ---
+
 function scoreAd(
     adMetadata, bid, auctionConfig, trustedScoringSignals, browserSignals) {
   if (browserSignals.topWindowHostname != 'a.test')

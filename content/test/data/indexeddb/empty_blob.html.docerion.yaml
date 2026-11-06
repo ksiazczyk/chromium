@@ -1,0 +1,4 @@
+# Docerion header of empty_blob.html.
+type: test
+title: IDB test that we can store and retrieve an empty blob
+summary: Browser test storing and retrieving an empty Blob and an empty File in IndexedDB, checking size, name, type and deletion.

@@ -1,0 +1,4 @@
+# Docerion header of bidding_logic_use_wasm.js.mock-http-headers.
+type: test
+title: Mock HTTP headers for bidding_logic_use_wasm.js
+summary: Mock HTTP response headers that serve the WASM bidding script as JavaScript with Ad-Auction-Allowed set to true.

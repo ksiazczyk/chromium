@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IndexedDB non-blocking transaction test
+// summary: Opens the doesnt-hang-test database and runs a readwrite transaction to completion without blocking or hanging.
+// ---
+
 function test()
 {
   // Do not use indexedDBTest() - need to re-use previous database.

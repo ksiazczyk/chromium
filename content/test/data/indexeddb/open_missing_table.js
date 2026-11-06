@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IndexedDB open missing table test script
+// summary: Test script that opens 'database-basics' and asserts total data loss with a message about missing files, an upgradeneeded event and empty object stores.
+// ---
+
 function test() {
   request = indexedDB.open('database-basics');
   request.onupgradeneeded = upgradeNeeded;

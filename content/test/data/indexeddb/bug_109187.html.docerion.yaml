@@ -1,0 +1,4 @@
+# Docerion header of bug_109187.html.
+type: test
+title: IndexedDB regression test page for bug 109187
+summary: HTML harness that loads common.js and the bug 109187 script to run the multiEntry index regression test on load.

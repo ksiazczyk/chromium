@@ -7,6 +7,12 @@
 // by way of the renderer dropping the mojo connection. Success occurs if the
 // browser doesn't crash.
 
+// ---docerion
+// type: test
+// title: getAll with destroyed connection regression test for bug 346955148
+// summary: Queues getAll requests behind many strict-durability writes, drops the Mojo connection, and passes if the browser does not crash.
+// ---
+
 'use strict';
 
 let connection;

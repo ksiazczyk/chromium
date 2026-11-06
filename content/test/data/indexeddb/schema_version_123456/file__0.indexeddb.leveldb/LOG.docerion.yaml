@@ -1,0 +1,4 @@
+# Docerion header of LOG.
+type: test
+title: LevelDB LOG file
+summary: LevelDB housekeeping log recording a delete operation performed on 17 October 2012.

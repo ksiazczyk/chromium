@@ -1,0 +1,4 @@
+# Docerion header of subframe-a.html.
+type: test
+title: Subframe A test page
+summary: Minimal HTML page with a single paragraph, serving as a subframe target for inner text extraction tests.

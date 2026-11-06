@@ -1,0 +1,4 @@
+# Docerion header of decision_logic_expect_top_frame_a_test.js.mock-http-headers.
+type: test
+title: Top frame a.test decision logic mock HTTP headers
+summary: 'Mock HTTP response headers that serve the top-frame a.test decision logic with Ad-Auction-Allowed: true.'

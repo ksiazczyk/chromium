@@ -1,0 +1,4 @@
+# Docerion header of fill_quota.html.
+type: test
+title: IDB test that origins over quota aren't trapped Part 1 / 2
+summary: Browser test writing transactions until quota is exceeded, checking that origins over quota are not trapped and abort with QuotaExceededError.

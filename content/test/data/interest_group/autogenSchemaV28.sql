@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: Interest group storage schema v28 SQL dump
+-- summary: Auto-generated SQL dump of the interest group storage database schema version 28 with sample interest group and history rows for tests.
+-- ---
+
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;
 CREATE TABLE meta(key LONGVARCHAR NOT NULL UNIQUE PRIMARY KEY, value LONGVARCHAR);

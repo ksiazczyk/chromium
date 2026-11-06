@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Basic interest group bidding script
+// summary: Test bidding script that bids 1 on the first ad, reports the win, registers an auction win beacon, and contributes a Private Aggregation histogram.
+// ---
+
 // Basic generate bid script that offers a bid of 1 using the first ad's
 // `renderURL` and, if present, the first adComponent's `renderURL`.
 function generateBid(interestGroup, auctionSignals, perBuyerSignals,

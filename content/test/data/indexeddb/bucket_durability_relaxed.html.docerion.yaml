@@ -1,0 +1,4 @@
+# Docerion header of bucket_durability_relaxed.html.
+type: test
+title: Relaxed bucket durability respected in IndexedDB transaction
+summary: Test verifying that a relaxed durability storage bucket allows IndexedDB transactions to succeed while the mock backend fails strict transactions.

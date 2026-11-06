@@ -1,0 +1,4 @@
+# Docerion header of decision_logic_register_ad_beacon.js.mock-http-headers.
+type: test
+title: Register ad beacon decision logic mock HTTP headers
+summary: 'Mock HTTP response headers that serve the ad beacon registration decision logic with Ad-Auction-Allowed: true.'

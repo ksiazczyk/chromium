@@ -7,6 +7,12 @@
 // quota_test.js, with the difference being that this test commit()s
 // transactions.
 
+// ---docerion
+// type: test
+// title: Quota exceeded commit regression test for bug 1203335
+// summary: Writes randomized data in explicitly committed transactions until quota is exceeded and asserts the abort reports QuotaExceededError.
+// ---
+
 function test() {
   if (navigator.storage) {
     window.jsTestIsAsync = true;

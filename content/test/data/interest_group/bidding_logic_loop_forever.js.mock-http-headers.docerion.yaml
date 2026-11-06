@@ -1,0 +1,4 @@
+# Docerion header of bidding_logic_loop_forever.js.mock-http-headers.
+type: test
+title: Mock HTTP headers for endless-loop bidding logic
+summary: Mock HTTP response headers served with the endless-loop bidding logic script during timeout tests.

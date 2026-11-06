@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bidding logic reporting to interest group name
+// summary: Test bidder worklet that reports a debug auction win and sends its win report to the destination encoded in the interest group name.
+// ---
+
 function generateBid(
     interestGroup, auctionSignals, perBuyerSignals, trustedBiddingSignals,
     browserSignals) {

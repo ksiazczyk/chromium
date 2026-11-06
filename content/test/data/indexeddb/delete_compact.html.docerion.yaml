@@ -1,0 +1,4 @@
+# Docerion header of delete_compact.html.
+type: test
+title: IDB test that database deletion triggers a compaction
+summary: Test page that fills a database with data and purges it via hash navigation so a browser test can verify deletion triggers compaction.

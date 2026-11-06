@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bidding logic registering ad beacons
+// summary: Test bidder worklet that bids 1 on the first ad and registers click and top-navigation ad beacons in reportWin.
+// ---
+
 // Basic generate bid script that offers a bid of 1 using the first ad's
 // `renderURL` and, if present, the first adComponent's `renderURL`.
 function generateBid(interestGroup, auctionSignals, perBuyerSignals,
