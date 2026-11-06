@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordIssueGroup interface header
+// summary: Declares a data model grouping password issues with an optional header text for display.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_PASSWORD_PASSWORD_ISSUES_PASSWORD_ISSUE_GROUP_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_PASSWORD_PASSWORD_ISSUES_PASSWORD_ISSUE_GROUP_H_
 

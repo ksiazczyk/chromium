@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Passwords in other apps build targets (BUILD.gn)
+summary: Defines GN source sets and dependencies for the passwords in other apps UI, coordinator, unit tests, and Earl Grey test support.

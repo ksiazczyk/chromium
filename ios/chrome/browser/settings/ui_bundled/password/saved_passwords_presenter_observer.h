@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Saved passwords presenter observer bridge header
+// summary: Declares an Objective-C protocol and a C++ bridge that forwards SavedPasswordsPresenter change events to a delegate observer.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_PASSWORD_SAVED_PASSWORDS_PRESENTER_OBSERVER_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_PASSWORD_SAVED_PASSWORDS_PRESENTER_OBSERVER_H_
 

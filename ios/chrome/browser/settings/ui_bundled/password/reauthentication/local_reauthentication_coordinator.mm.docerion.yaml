@@ -1,0 +1,4 @@
+# Docerion header of local_reauthentication_coordinator.mm.
+type: source
+title: Local reauthentication coordinator implementation
+summary: Implements the reauthentication coordinator, tracking authentication state across scene foreground and background transitions.

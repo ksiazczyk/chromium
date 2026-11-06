@@ -1,0 +1,4 @@
+# Docerion header of family_picker_view_controller_unittest.mm.
+type: test
+title: Family picker view controller unit tests
+summary: Unit tests verifying the family picker view controller's recipient list content, cell text and accessory view selection behavior.

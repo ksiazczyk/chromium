@@ -1,0 +1,4 @@
+# Docerion header of table_view_stacked_details_item_unittest.mm.
+type: test
+title: Stacked details item unit tests
+summary: Unit tests verifying cell configuration, accessibility label content, reconfiguration with varying detail counts, and reuse clearing behavior.

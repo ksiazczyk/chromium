@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordIssue interface header
+// summary: Declares the PasswordIssue model exposing credential website, username, favicon URL and compromised details.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_PASSWORD_PASSWORD_ISSUES_PASSWORD_ISSUE_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_PASSWORD_PASSWORD_ISSUES_PASSWORD_ISSUE_H_
 

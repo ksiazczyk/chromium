@@ -1,0 +1,4 @@
+# Docerion header of sharing_status_coordinator.mm.
+type: source
+title: Sharing status coordinator implementation
+summary: Implements the coordinator that builds the sharing status view controller and mediator and handles presentation and dismissal.

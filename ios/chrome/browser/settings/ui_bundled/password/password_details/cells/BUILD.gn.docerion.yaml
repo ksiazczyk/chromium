@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for password details cells
+summary: GN build file defining the cells source set and its unit test target with their dependencies for the stacked details table view item.

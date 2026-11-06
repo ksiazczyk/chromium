@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Widget promo instructions coordinator header
+// summary: Header declaring the coordinator that presents the widget promo instructions screen and its delegate protocol.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_PASSWORD_WIDGET_PROMO_INSTRUCTIONS_WIDGET_PROMO_INSTRUCTIONS_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_PASSWORD_WIDGET_PROMO_INSTRUCTIONS_WIDGET_PROMO_INSTRUCTIONS_COORDINATOR_H_
 

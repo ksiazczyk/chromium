@@ -1,0 +1,4 @@
+# Docerion header of local_reauthentication_coordinator_unittest.mm.
+type: test
+title: Local reauthentication coordinator unit tests
+summary: Unit tests for the local reauthentication coordinator using fake reauthentication services, OCMock and a fake delegate.

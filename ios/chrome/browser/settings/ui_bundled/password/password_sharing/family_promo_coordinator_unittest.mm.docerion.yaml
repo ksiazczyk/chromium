@@ -1,0 +1,4 @@
+# Docerion header of family_promo_coordinator_unittest.mm.
+type: test
+title: Family promo coordinator unit tests
+summary: Unit tests verifying that the family promo coordinator opens the correct family creation and management URLs and logs the expected metrics.

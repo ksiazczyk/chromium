@@ -1,0 +1,4 @@
+# Docerion header of family_promo_view_controller.mm.
+type: source
+title: FamilyPromoViewController implementation
+summary: Builds the family promo bottom sheet, styling the subtitle link and handling link taps.

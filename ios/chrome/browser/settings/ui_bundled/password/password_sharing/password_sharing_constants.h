@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password sharing constants header
+// summary: Declares accessibility identifiers for the family picker, family promo, password picker and sharing status views, plus family group and learn-more URLs.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_PASSWORD_PASSWORD_SHARING_PASSWORD_SHARING_CONSTANTS_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_PASSWORD_PASSWORD_SHARING_PASSWORD_SHARING_CONSTANTS_H_
 

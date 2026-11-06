@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the password_checkup directory
+summary: Grants the directory include access to push notification UI and safety check notification utility code.

@@ -1,0 +1,4 @@
+# Docerion header of sharing_status_mediator_unittest.mm.
+type: test
+title: Sharing status mediator unit tests
+summary: Unit tests for SharingStatusMediator using a fake consumer to verify sender and recipient images and text are set correctly.

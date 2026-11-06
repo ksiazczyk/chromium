@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password settings metrics utilities
+// summary: Defines the IOSDeleteAllSavedCredentialsActions enum used to log whether the delete-all saved credentials confirmation dialog was confirmed or cancelled to iOS histograms.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_PASSWORD_PASSWORD_SETTINGS_PASSWORD_SETTINGS_METRICS_UTILS_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_PASSWORD_PASSWORD_SETTINGS_PASSWORD_SETTINGS_METRICS_UTILS_H_
 

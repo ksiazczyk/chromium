@@ -1,0 +1,4 @@
+# Docerion header of family_picker_view_controller.mm.
+type: source
+title: Family picker view controller implementation
+summary: Implements the family picker table view that lists family members, lets the user select eligible recipients, and updates the share button state.

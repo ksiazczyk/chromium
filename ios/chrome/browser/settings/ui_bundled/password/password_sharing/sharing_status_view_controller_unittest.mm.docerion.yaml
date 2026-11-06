@@ -1,0 +1,4 @@
+# Docerion header of sharing_status_view_controller_unittest.mm.
+type: test
+title: Sharing status view controller unit tests
+summary: Unit tests for SharingStatusViewController verifying the cancel flow updates the title and logs the cancel user action metric.

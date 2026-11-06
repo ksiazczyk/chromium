@@ -1,0 +1,4 @@
+# Docerion header of recipient_info.mm.
+type: source
+title: Recipient info model implementation
+summary: Converts password_manager::RecipientInfo data into the iOS display model, including a default profile icon placeholder.

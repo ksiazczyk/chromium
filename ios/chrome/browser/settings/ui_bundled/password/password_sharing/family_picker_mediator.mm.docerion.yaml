@@ -1,0 +1,4 @@
+# Docerion header of family_picker_mediator.mm.
+type: source
+title: Family picker mediator implementation
+summary: Fetches recipient profile pictures and updates the consumer with recipient display data.

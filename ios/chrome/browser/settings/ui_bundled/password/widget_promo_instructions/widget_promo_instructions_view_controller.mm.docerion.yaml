@@ -1,0 +1,4 @@
+# Docerion header of widget_promo_instructions_view_controller.mm.
+type: source
+title: Widget promo instructions view controller implementation
+summary: Implementation of the view controller displaying the widget promo instructions with an image and confirmation alert content.

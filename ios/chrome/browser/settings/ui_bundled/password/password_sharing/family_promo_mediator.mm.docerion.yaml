@@ -1,0 +1,4 @@
+# Docerion header of family_promo_mediator.mm.
+type: source
+title: FamilyPromoMediator implementation
+summary: Supplies the title and subtitle strings for the family promo based on the promo type.

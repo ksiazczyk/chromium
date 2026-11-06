@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Password sharing build targets
+summary: Defines GN source sets and dependencies for the iOS password sharing coordinators, mediators and UI.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Password sharing resources build definition
+summary: GN build rule bundling the password sharing family promo asset catalog images into the iOS app resources.

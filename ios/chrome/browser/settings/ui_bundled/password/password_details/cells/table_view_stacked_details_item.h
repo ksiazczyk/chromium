@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stacked details table view item and cell declarations
+// summary: Header declaring TableViewStackedDetailsItem, a model for a table view cell that shows a title with multiple detail labels, and the TableViewStackedDetailsCell class.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_PASSWORD_PASSWORD_DETAILS_CELLS_TABLE_VIEW_STACKED_DETAILS_ITEM_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_PASSWORD_PASSWORD_DETAILS_CELLS_TABLE_VIEW_STACKED_DETAILS_ITEM_H_
 

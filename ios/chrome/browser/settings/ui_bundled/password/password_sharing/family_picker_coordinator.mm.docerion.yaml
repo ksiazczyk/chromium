@@ -1,0 +1,4 @@
+# Docerion header of family_picker_coordinator.mm.
+type: source
+title: Family picker coordinator implementation
+summary: Implements presentation of the family recipient picker, including navigation back and dismissal handling.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passwords settings commands protocol
+// summary: Declares the PasswordsSettingsCommands protocol used to show password checkup, credential details, the add password sheet, and delete confirmation dialogs.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_PASSWORD_PASSWORDS_SETTINGS_COMMANDS_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_PASSWORD_PASSWORDS_SETTINGS_COMMANDS_H_
 

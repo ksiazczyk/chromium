@@ -1,0 +1,4 @@
+# Docerion header of DEPS.gn.
+type: config
+title: DEPS include rules for password details
+summary: Grants this directory permission to include components/crash/core/common/crash_key.h.

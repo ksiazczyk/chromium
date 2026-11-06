@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passwords table view accessibility constants header
+// summary: Declares accessibility identifiers, widget promo image helpers, a Trusted Vault promo histogram enum, and section identifiers for the password settings table views.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_PASSWORD_PASSWORDS_TABLE_VIEW_CONSTANTS_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_PASSWORD_PASSWORDS_TABLE_VIEW_CONSTANTS_H_
 

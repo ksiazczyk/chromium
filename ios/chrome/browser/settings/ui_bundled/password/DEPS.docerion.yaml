@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the password settings folder
+summary: Grants the password settings folder access to trusted vault constants, device reauth model, and password exporter coordinator headers.

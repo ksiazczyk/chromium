@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sharing status view controller presentation delegate
+// summary: Declares the delegate protocol for SharingStatusViewController covering dismissal, starting password sharing, and change-password link taps.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_PASSWORD_PASSWORD_SHARING_SHARING_STATUS_VIEW_CONTROLLER_PRESENTATION_DELEGATE_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_PASSWORD_PASSWORD_SHARING_SHARING_STATUS_VIEW_CONTROLLER_PRESENTATION_DELEGATE_H_
 

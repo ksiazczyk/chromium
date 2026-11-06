@@ -1,0 +1,4 @@
+# Docerion header of local_reauthentication_view_controller.mm.
+type: source
+title: Local reauthentication view controller implementation
+summary: Implements the reauthentication view controller, triggering local authentication and recording success or failure events.

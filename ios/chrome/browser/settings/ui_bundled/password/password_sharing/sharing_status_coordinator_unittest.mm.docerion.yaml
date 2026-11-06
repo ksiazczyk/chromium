@@ -1,0 +1,4 @@
+# Docerion header of sharing_status_coordinator_unittest.mm.
+type: test
+title: Sharing status coordinator unit tests
+summary: Unit tests for SharingStatusCoordinator verifying the change-password link redirect and password sharing user action metrics.

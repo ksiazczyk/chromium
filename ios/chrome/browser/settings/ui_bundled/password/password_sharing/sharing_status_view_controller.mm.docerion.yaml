@@ -1,0 +1,4 @@
+# Docerion header of sharing_status_view_controller.mm.
+type: source
+title: Sharing status view controller implementation
+summary: Implements the sharing status screen with profile image animations, progress bar, favicons, and cancel or success status display.
