@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HardwareDisplayPlaneManager implementation
+// summary: Implements HardwareDisplayPlaneManager, which discovers and tracks DRM planes and CRTC state, including color management, for display commits.
+// ---
+
 #include "ui/ozone/platform/drm/gpu/hardware_display_plane_manager.h"
 
 #include <drm_fourcc.h>

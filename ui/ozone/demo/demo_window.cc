@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DemoWindow implementation
+// summary: Implements the demo window that creates a platform window via the Ozone platform, handles events such as the Q quit key, and starts the renderer when a widget is available.
+// ---
+
 #include "ui/ozone/demo/demo_window.h"
 
 #include <utility>

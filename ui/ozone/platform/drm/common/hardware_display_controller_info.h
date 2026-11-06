@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HardwareDisplayControllerInfo declaration
+// summary: Declares the class representing the connector, CRTC, EDID, and tile information needed to initialize and configure a native display.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_DRM_COMMON_HARDWARE_DISPLAY_CONTROLLER_INFO_H_
 #define UI_OZONE_PLATFORM_DRM_COMMON_HARDWARE_DISPLAY_CONTROLLER_INFO_H_
 

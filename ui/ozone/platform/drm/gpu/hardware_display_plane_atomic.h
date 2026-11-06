@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HardwareDisplayPlaneAtomic class declaration
+// summary: Declares HardwareDisplayPlaneAtomic, a HardwareDisplayPlane subclass that stages plane properties for atomic commits and disables planes.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_DRM_GPU_HARDWARE_DISPLAY_PLANE_ATOMIC_H_
 #define UI_OZONE_PLATFORM_DRM_GPU_HARDWARE_DISPLAY_PLANE_ATOMIC_H_
 

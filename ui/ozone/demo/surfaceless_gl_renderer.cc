@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Surfaceless GL renderer with overlay plane support
+// summary: Renders GL frames into native pixmap framebuffers and schedules primary and overlay planes through an Ozone presenter with overlay candidate checking.
+// ---
+
 
 #include "ui/ozone/demo/surfaceless_gl_renderer.h"
 

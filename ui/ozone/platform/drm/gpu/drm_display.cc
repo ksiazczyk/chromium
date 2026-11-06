@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DrmDisplay implementation
+// summary: Implements DrmDisplay, managing DRM connector modes, privacy screen properties, HDCP state, and color-related operations for a connected display.
+// ---
+
 #include "ui/ozone/platform/drm/gpu/drm_display.h"
 
 #include <xf86drm.h>

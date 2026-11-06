@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DRM device generator interface
+// summary: Declares the DrmDeviceGenerator abstract factory that creates DrmDevice instances for a given device path and file descriptor.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_DRM_GPU_DRM_DEVICE_GENERATOR_H_
 #define UI_OZONE_PLATFORM_DRM_GPU_DRM_DEVICE_GENERATOR_H_
 

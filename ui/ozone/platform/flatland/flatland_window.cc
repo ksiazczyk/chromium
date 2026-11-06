@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Flatland window implementation
+// summary: Implements the FlatlandWindow PlatformWindow, creating Scenic views and handling bounds, focus, pointer input, and view insets for the Flatland Ozone platform.
+// ---
+
 #include "ui/ozone/platform/flatland/flatland_window.h"
 
 #include <fidl/fuchsia.ui.pointer/cpp/hlcpp_conversion.h>

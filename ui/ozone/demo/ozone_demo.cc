@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ozone demo entry point
+// summary: Main entry point for the Ozone demo executable, initializing the Ozone platform, Mojo, and a window manager with a simple renderer factory, and printing command-line usage options.
+// ---
+
 #include <iostream>
 #include <memory>
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageFlipWatchdog header
+// summary: Declares the page flip watchdog class with constants for modeset timeout, history size, and plane assignment flake and failure thresholds.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_DRM_GPU_PAGE_FLIP_WATCHDOG_H_
 #define UI_OZONE_PLATFORM_DRM_GPU_PAGE_FLIP_WATCHDOG_H_
 

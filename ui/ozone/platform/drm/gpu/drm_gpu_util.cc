@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DRM GPU utility functions implementation
+// summary: Implements DRM GPU helpers that enumerate CRTC-connector permutations and build or parse gamma LUT, color matrix, and damage clip blobs.
+// ---
+
 #include "ui/ozone/platform/drm/gpu/drm_gpu_util.h"
 
 #include <fcntl.h>

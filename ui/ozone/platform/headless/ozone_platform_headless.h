@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Headless Ozone platform interface
+// summary: Declares the OzonePlatformHeadless interface with access to the headless window manager and the CreateOzonePlatformHeadless constructor hook.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_HEADLESS_OZONE_PLATFORM_HEADLESS_H_
 #define UI_OZONE_PLATFORM_HEADLESS_OZONE_PLATFORM_HEADLESS_H_
 

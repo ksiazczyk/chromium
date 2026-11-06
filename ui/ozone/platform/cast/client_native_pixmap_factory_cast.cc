@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast client native pixmap factory implementation
+// summary: Implements a dummy client native pixmap factory for Cast whose pixmap objects exist only to plumb overlay frames through without being used.
+// ---
+
 #include "ui/ozone/platform/cast/client_native_pixmap_factory_cast.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DrmThread unit tests
+// summary: Unit tests verifying that DrmThread runs posted tasks only after a graphics device becomes ready and handles overlay capability checks on destroyed windows.
+// ---
+
 #include "ui/ozone/platform/drm/gpu/drm_thread.h"
 
 #include <utility>

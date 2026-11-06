@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Ozone DRM platform build configuration
+summary: Defines GN build targets and dependencies for the ChromeOS-only Ozone DRM platform, including the gbm source set with its common, GPU, and host sources.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HostCursorProxy class declaration
+// summary: Declares a DrmCursorProxy that sends mouse pointer control messages via Mojo IPC from the browser or mus-ws process to a less privileged GPU process.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_DRM_HOST_HOST_CURSOR_PROXY_H_
 #define UI_OZONE_PLATFORM_DRM_HOST_HOST_CURSOR_PROXY_H_
 

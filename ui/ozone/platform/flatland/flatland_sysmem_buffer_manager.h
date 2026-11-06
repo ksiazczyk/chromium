@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FlatlandSysmemBufferManager class declaration
+// summary: Declares FlatlandSysmemBufferManager, which manages sysmem buffer collections and connections to the sysmem and Flatland allocator services.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_FLATLAND_FLATLAND_SYSMEM_BUFFER_MANAGER_H_
 #define UI_OZONE_PLATFORM_FLATLAND_FLATLAND_SYSMEM_BUFFER_MANAGER_H_
 

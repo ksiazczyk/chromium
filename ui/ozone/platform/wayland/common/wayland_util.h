@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland platform utility function declarations
+// summary: Declares shared Wayland helpers for hit-test direction, buffer drawing, output transforms, coordinate translation, and root window lookup used across the Wayland host code.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_COMMON_WAYLAND_UTIL_H_
 #define UI_OZONE_PLATFORM_WAYLAND_COMMON_WAYLAND_UTIL_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Headless Ozone platform build file
+summary: GN build file defining the headless Ozone platform source set, its dependencies, and a test target with conditionally included Vulkan sources.

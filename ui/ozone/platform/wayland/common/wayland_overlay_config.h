@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland overlay config structure declaration
+// summary: Declares WaylandOverlayConfig, holding z-order, transform, blending, buffer ID, crop and damage regions, fences, color space, and HDR metadata for overlay planes.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_COMMON_WAYLAND_OVERLAY_CONFIG_H_
 #define UI_OZONE_PLATFORM_WAYLAND_COMMON_WAYLAND_OVERLAY_CONFIG_H_
 

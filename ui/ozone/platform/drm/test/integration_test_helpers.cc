@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DRM driver lookup helper for integration tests
+// summary: Implements FindDrmDriverOrDie, which scans /dev/dri/card devices to find a DRM driver by name and returns its path and file descriptor for tests.
+// ---
+
 #include "ui/ozone/platform/drm/test/integration_test_helpers.h"
 
 #include <fcntl.h>

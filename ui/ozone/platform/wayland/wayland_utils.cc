@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland platform utils implementation
+// summary: Implements the WaylandUtils class, providing native window icon lookup, the WM window class name, and forwarding of unhandled key events to the Wayland keyboard.
+// ---
+
 #include "ui/ozone/platform/wayland/wayland_utils.h"
 
 #include "ui/gfx/image/image_skia.h"

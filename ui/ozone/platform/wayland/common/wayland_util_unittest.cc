@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Wayland utility functions
+// summary: Unit test verifying that wl::CreateRectsFromSkPath converts rounded and shaped Skia paths into the expected lists of rectangles.
+// ---
+
 #include "ui/ozone/platform/wayland/common/wayland_util.h"
 
 #include <memory>

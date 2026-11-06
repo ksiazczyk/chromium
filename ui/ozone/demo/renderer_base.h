@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RendererBase class declaration
+// summary: Declares the RendererBase class holding the widget, size, and animation iteration state shared by demo renderers.
+// ---
+
 #ifndef UI_OZONE_DEMO_RENDERER_BASE_H_
 #define UI_OZONE_DEMO_RENDERER_BASE_H_
 

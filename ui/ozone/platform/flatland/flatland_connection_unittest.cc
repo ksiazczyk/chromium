@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Flatland connection unit tests
+// summary: Unit tests exercising FlatlandConnection initialization, basic Present behavior, and present credit handling against a fake Flatland service.
+// ---
+
 #include "ui/ozone/platform/flatland/flatland_connection.h"
 
 #include <fuchsia/scenic/scheduling/cpp/fidl.h>

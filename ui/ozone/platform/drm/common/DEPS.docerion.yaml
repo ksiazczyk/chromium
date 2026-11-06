@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the DRM common directory
+summary: DEPS file defining which headers the DRM ozone common code may include, with extra allowances letting unit tests use fake DRM device helpers.

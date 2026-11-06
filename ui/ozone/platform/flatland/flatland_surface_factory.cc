@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FlatlandSurfaceFactory implementation
+// summary: Implements the Flatland surface factory, providing EGL bindings, creating surfaces and canvases, and initializing the sysmem buffer manager and GPU host connection.
+// ---
+
 #include "ui/ozone/platform/flatland/flatland_surface_factory.h"
 
 #include <lib/sys/cpp/component_context.h>

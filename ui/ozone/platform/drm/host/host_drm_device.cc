@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HostDrmDevice implementation
+// summary: Implements the GpuThreadAdapter by forwarding display and window requests to the DRM device connector, managing connection state, and notifying GPU thread observers.
+// ---
+
 #include "ui/ozone/platform/drm/host/host_drm_device.h"
 
 #include <memory>

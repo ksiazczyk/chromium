@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DrmDisplayHostManager class declaration
+// summary: Declares DrmDisplayHostManager, which observes device events and GPU thread state to manage displays and relay display control and configuration results.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_DRM_HOST_DRM_DISPLAY_HOST_MANAGER_H_
 #define UI_OZONE_PLATFORM_DRM_HOST_DRM_DISPLAY_HOST_MANAGER_H_
 

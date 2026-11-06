@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HardwareDisplayPlaneManagerAtomic class declaration
+// summary: Declares HardwareDisplayPlaneManagerAtomic, which commits planes and CRTC state via DRM atomic requests and supports seamless mode testing.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_DRM_GPU_HARDWARE_DISPLAY_PLANE_MANAGER_ATOMIC_H_
 #define UI_OZONE_PLATFORM_DRM_GPU_HARDWARE_DISPLAY_PLANE_MANAGER_ATOMIC_H_
 

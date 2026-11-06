@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland client helper templates
+// summary: Provides wl namespace helper templates to get the version of Wayland objects and bind registry objects with type casting.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_COMMON_WAYLAND_H_
 #define UI_OZONE_PLATFORM_WAYLAND_COMMON_WAYLAND_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Vulkan overlay renderer implementation
+// summary: Sets up a Vulkan device queue, render pass, and buffers, then renders and submits frames to an Ozone overlay surface with presentation feedback handling.
+// ---
+
 
 #include "ui/ozone/demo/vulkan_overlay_renderer.h"
 

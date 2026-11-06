@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DrmNativeDisplayDelegate implementation
+// summary: Implements the NativeDisplayDelegate that forwards display queries and configuration calls to DrmDisplayHostManager and the per-display host objects.
+// ---
+
 #include "ui/ozone/platform/drm/host/drm_native_display_delegate.h"
 
 #include <utility>

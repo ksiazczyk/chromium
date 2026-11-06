@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland client native pixmap factory header
+// summary: Declares the CreateClientNativePixmapFactoryWayland hook used by the Ozone constructor list to create the Wayland pixmap factory.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_CLIENT_NATIVE_PIXMAP_FACTORY_WAYLAND_H_
 #define UI_OZONE_PLATFORM_WAYLAND_CLIENT_NATIVE_PIXMAP_FACTORY_WAYLAND_H_
 

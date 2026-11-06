@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overlay manager for the Cast Ozone platform
+// summary: Implements OverlayManagerCast, which creates an OverlayCandidatesCast instance that reports no overlay support for the Cast Ozone platform.
+// ---
+
 #include "ui/ozone/platform/cast/overlay_manager_cast.h"
 
 #include <memory>

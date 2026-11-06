@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page flip request
+// summary: Aggregates DRM page flip callbacks and signals presentation feedback with VSync and hardware clock flags once all pending flips complete.
+// ---
+
 #include "ui/ozone/platform/drm/gpu/page_flip_request.h"
 
 #include <utility>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for Ozone DRM Mojom bindings
+summary: Defines the Mojom bindings target for the Ozone DRM platform, listing device_cursor.mojom and drm_device.mojom as sources with their public dependencies.

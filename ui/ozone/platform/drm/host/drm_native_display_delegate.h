@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DrmNativeDisplayDelegate class declaration
+// summary: Declares a display::NativeDisplayDelegate implementation that forwards display configuration, HDCP, color calibration, privacy screen, and observer requests to DrmDisplayHostManager.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_DRM_HOST_DRM_NATIVE_DISPLAY_DELEGATE_H_
 #define UI_OZONE_PLATFORM_DRM_HOST_DRM_NATIVE_DISPLAY_DELEGATE_H_
 

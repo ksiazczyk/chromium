@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Wayland platform code owners
+summary: Lists code owners for the Wayland Ozone platform directory, with specific owners for graphics, input method, and window management areas.

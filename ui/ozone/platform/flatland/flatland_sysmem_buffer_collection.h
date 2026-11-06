@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FlatlandSysmemBufferCollection class declaration
+// summary: Declares FlatlandSysmemBufferCollection, which wraps a sysmem buffer collection and VkBufferCollectionFUCHSIA to create native pixmaps or VkImages.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_FLATLAND_FLATLAND_SYSMEM_BUFFER_COLLECTION_H_
 #define UI_OZONE_PLATFORM_FLATLAND_FLATLAND_SYSMEM_BUFFER_COLLECTION_H_
 

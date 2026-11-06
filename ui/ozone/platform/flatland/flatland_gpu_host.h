@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Flatland GPU host class declaration
+// summary: Declares FlatlandGpuHost, the browser process object that exchanges Flatland resources and view tokens with the GPU process over mojo.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_FLATLAND_FLATLAND_GPU_HOST_H_
 #define UI_OZONE_PLATFORM_FLATLAND_FLATLAND_GPU_HOST_H_
 

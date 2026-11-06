@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DrmDisplayHostManager implementation
+// summary: Implements display device management, including opening and authenticating DRM devices, mapping sysfs paths, and processing display hotplug events sequentially.
+// ---
+
 #include "ui/ozone/platform/drm/host/drm_display_host_manager.h"
 
 #include <fcntl.h>

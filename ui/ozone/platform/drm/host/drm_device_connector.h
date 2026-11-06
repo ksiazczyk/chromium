@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DrmDeviceConnector class declaration
+// summary: Declares DrmDeviceConnector, which sets up the mojo pipes connecting the Viz host to the DRM service, including a single-threaded connection path.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_DRM_HOST_DRM_DEVICE_CONNECTOR_H_
 #define UI_OZONE_PLATFORM_DRM_HOST_DRM_DEVICE_CONNECTOR_H_
 

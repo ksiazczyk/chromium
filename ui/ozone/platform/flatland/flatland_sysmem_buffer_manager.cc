@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FlatlandSysmemBufferManager implementation
+// summary: Implements FlatlandSysmemBufferManager, which creates and imports sysmem buffer collections and registers scanout buffers with the Flatland allocator.
+// ---
+
 #include "ui/ozone/platform/flatland/flatland_sysmem_buffer_manager.h"
 
 #include <zircon/rights.h>

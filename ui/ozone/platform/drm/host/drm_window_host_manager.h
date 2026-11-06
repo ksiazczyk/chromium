@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DrmWindowHostManager class declaration
+// summary: Declares a manager responsible for keeping the mapping between allocated accelerated widgets and DrmWindowHost instances, including event grabber and cursor update state.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_DRM_HOST_DRM_WINDOW_HOST_MANAGER_H_
 #define UI_OZONE_PLATFORM_DRM_HOST_DRM_WINDOW_HOST_MANAGER_H_
 

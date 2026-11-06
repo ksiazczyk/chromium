@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Flatland include rules
+summary: Defines include rules allowing this directory to use viz common resources, gpu IPC, mojo, ANGLE Fuchsia EGL, and Skia headers.

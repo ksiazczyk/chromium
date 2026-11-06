@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Headless surface factory implementation
+// summary: Implements the headless surface factory, including a FileSurface that writes rendered frames as PNG files, plus GL, SwiftShader, and Vulkan support.
+// ---
+
 #include "ui/ozone/platform/headless/headless_surface_factory.h"
 
 #include <memory>

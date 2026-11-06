@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FlatlandSysmemBufferManager unit tests
+// summary: Unit tests for FlatlandSysmemBufferManager that use a fake Flatland allocator to verify collection registration, lookup and duplicate rejection.
+// ---
+
 #include "ui/ozone/platform/flatland/flatland_sysmem_buffer_manager.h"
 
 #include <fuchsia/sysmem2/cpp/fidl.h>

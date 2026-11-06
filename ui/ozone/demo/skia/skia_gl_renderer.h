@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skia GL renderer class declaration
+// summary: Declares the SkiaGlRenderer class, which renders demo frames with Skia over a GL surface and supports a deferred display list render thread.
+// ---
+
 #ifndef UI_OZONE_DEMO_SKIA_SKIA_GL_RENDERER_H_
 #define UI_OZONE_DEMO_SKIA_SKIA_GL_RENDERER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Wayland platform include rules
+summary: Declares allowed include rules for the Wayland Ozone platform directory, permitting device event log, Mojo, Wayland, and UI dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DrmGpuUtil unit tests
+// summary: Unit tests for the DRM GPU utility helpers, verifying CRTC-connector permutation generation against a fake DRM device.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_DRM_GPU_DRM_GPU_UTIL_UNITTEST_CC_
 #define UI_OZONE_PLATFORM_DRM_GPU_DRM_GPU_UTIL_UNITTEST_CC_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Cast Ozone platform build targets
+summary: GN build file defining the cast source set with its sources, defines, linked libraries and dependencies for the Cast Ozone platform.

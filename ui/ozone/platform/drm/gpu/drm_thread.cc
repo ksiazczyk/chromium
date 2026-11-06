@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DrmThread implementation
+// summary: Implements the DRM thread that owns DRM-related state and performs buffer creation, display configuration, and cursor operations off the GPU main thread.
+// ---
+
 #include "ui/ozone/platform/drm/gpu/drm_thread.h"
 
 #include <gbm.h>

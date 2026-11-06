@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RendererBase implementation
+// summary: Implements the shared renderer base, computing an animated fraction over 240 steps used to drive the demo's color animation.
+// ---
+
 #include "ui/ozone/demo/renderer_base.h"
 
 #include <numbers>

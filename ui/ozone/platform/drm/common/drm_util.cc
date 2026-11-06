@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DRM display utility implementation
+// summary: Implements helpers that enumerate DRM connectors and CRTCs, compute refresh rates, and map DRM properties and modes to Chromium display types.
+// ---
+
 #include "ui/ozone/platform/drm/common/drm_util.h"
 
 #include <drm_fourcc.h>

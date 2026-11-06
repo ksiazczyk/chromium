@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FlatlandScreen class declaration
+// summary: Declares the PlatformScreen implementation for Flatland that reports a single default display and manages display observers.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_FLATLAND_FLATLAND_SCREEN_H_
 #define UI_OZONE_PLATFORM_FLATLAND_FLATLAND_SCREEN_H_
 

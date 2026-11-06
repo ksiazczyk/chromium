@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skia GL renderer implementation
+// summary: Implements the Skia GL renderer that draws demo frames through a Skia GPU surface on a GL context, with optional deferred display list rendering.
+// ---
+
 #include "ui/ozone/demo/skia/skia_gl_renderer.h"
 
 #include <memory>

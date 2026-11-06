@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GbmSurfaceFactory class declaration
+// summary: Declares the GBM surface factory interface for creating GL and Vulkan implementations, native pixmaps, overlay surfaces, and per-widget surface registration.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_DRM_GPU_GBM_SURFACE_FACTORY_H_
 #define UI_OZONE_PLATFORM_DRM_GPU_GBM_SURFACE_FACTORY_H_
 

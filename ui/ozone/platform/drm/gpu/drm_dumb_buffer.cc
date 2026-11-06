@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DrmDumbBuffer implementation
+// summary: Implements DrmDumbBuffer, which allocates or imports DRM dumb buffers, maps them, and wraps the pixel memory in a Skia surface for drawing.
+// ---
+
 #include "ui/ozone/platform/drm/gpu/drm_dumb_buffer.h"
 
 #include <drm_fourcc.h>

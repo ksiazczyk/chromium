@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DrmWindowHostManager implementation
+// summary: Implements allocation and mapping of accelerated widgets to host windows, event grabbing, window lookup by location, and mouse-over tracking for the DRM host.
+// ---
+
 #include "ui/ozone/platform/drm/host/drm_window_host_manager.h"
 
 #include "base/check.h"

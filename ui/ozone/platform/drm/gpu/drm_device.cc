@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DRM device implementation
+// summary: Implements DrmDevice, processing DRM flip and vblank events, managing page flip callbacks, and committing atomic or legacy display properties.
+// ---
+
 #include "ui/ozone/platform/drm/gpu/drm_device.h"
 
 #include <fcntl.h>

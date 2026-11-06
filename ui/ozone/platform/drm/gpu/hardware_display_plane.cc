@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HardwareDisplayPlane implementation
+// summary: Implements HardwareDisplayPlane, parsing DRM plane properties, supported formats, format modifiers and cursor sizes, with tracing and property dumping.
+// ---
+
 #include "ui/ozone/platform/drm/gpu/hardware_display_plane.h"
 
 #include <drm_fourcc.h>

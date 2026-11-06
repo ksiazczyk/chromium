@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Flatland connection class declaration
+// summary: Declares FlatlandConnection, which safely owns the Flatland FIDL channel, limits Present calls via credits, and tracks pending presents and release fences.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_FLATLAND_FLATLAND_CONNECTION_H_
 #define UI_OZONE_PLATFORM_FLATLAND_FLATLAND_CONNECTION_H_
 

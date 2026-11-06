@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GbmPixmap implementation
+// summary: Implements a NativePixmap backed by a GBM buffer, exposing dmabuf plane details and scheduling scanout overlay planes through the surface factory.
+// ---
+
 #include "ui/ozone/platform/drm/gpu/gbm_pixmap.h"
 
 #include <gbm.h>

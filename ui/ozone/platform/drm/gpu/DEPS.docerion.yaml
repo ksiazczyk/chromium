@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the DRM GPU directory
+summary: Defines allowed include paths for the Ozone DRM GPU directory, permitting DRM common, GPU, and mojom headers plus libdrm fourcc and viz resource headers.

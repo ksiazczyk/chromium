@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TileProperty struct for tiled displays
+// summary: Defines a struct describing properties of a tiled display, including group ID, tile size, tile layout dimensions, tile location, and scale-to-fit behavior.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_DRM_COMMON_TILE_PROPERTY_H_
 #define UI_OZONE_PLATFORM_DRM_COMMON_TILE_PROPERTY_H_
 

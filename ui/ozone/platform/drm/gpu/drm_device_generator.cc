@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DRM device generator implementation
+// summary: Provides the constructor and destructor for the abstract DrmDeviceGenerator factory base class.
+// ---
+
 #include "ui/ozone/platform/drm/gpu/drm_device_generator.h"
 
 #include <utility>

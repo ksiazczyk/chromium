@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DRM overlay manager implementation
+// summary: Implements the DRM overlay manager that validates overlay configurations, caches results in an MRU cache, and prioritizes displays that require overlays.
+// ---
+
 #include "ui/ozone/platform/drm/gpu/drm_overlay_manager.h"
 
 #include <algorithm>

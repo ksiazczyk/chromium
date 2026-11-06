@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Legacy hardware display plane manager header
+// summary: Declares HardwareDisplayPlaneManagerLegacy, the legacy DRM implementation of the plane manager commit, plane assignment and CRTC state interface.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_DRM_GPU_HARDWARE_DISPLAY_PLANE_MANAGER_LEGACY_H_
 #define UI_OZONE_PLATFORM_DRM_GPU_HARDWARE_DISPLAY_PLANE_MANAGER_LEGACY_H_
 

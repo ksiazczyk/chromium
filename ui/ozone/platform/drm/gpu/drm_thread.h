@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DrmThread class declaration
+// summary: Declares DrmThread, a dedicated thread holding all DRM state and implementing the DeviceCursor and DrmDevice Mojo interfaces for the Ozone DRM platform.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_DRM_GPU_DRM_THREAD_H_
 #define UI_OZONE_PLATFORM_DRM_GPU_DRM_THREAD_H_
 

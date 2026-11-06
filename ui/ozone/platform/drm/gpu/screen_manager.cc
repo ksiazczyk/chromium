@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScreenManager implementation
+// summary: Implements tracking and configuration of active DRM display controllers, including modeset buffer preparation, window mapping, and tracing support.
+// ---
+
 #include "ui/ozone/platform/drm/gpu/screen_manager.h"
 
 #include <xf86drmMode.h>

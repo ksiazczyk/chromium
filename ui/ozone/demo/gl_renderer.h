@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlRenderer class declaration
+// summary: Declares the GlRenderer class, a RendererBase that renders frames through a GL context and GL surface.
+// ---
+
 #ifndef UI_OZONE_DEMO_GL_RENDERER_H_
 #define UI_OZONE_DEMO_GL_RENDERER_H_
 

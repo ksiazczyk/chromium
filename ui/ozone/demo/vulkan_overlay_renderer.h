@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VulkanOverlayRenderer class declaration
+// summary: Declares the Vulkan overlay renderer, its Buffer class wrapping Vulkan images and pixmaps, and frame submission and presentation callbacks.
+// ---
+
 #ifndef UI_OZONE_DEMO_VULKAN_OVERLAY_RENDERER_H_
 #define UI_OZONE_DEMO_VULKAN_OVERLAY_RENDERER_H_
 

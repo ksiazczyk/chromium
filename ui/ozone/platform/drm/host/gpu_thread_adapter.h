@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GpuThreadAdapter interface
+// summary: Defines the abstract interface host components use to send display management, HDCP, color adjustment, and window lifecycle requests to a GPU process or thread.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_DRM_HOST_GPU_THREAD_ADAPTER_H_
 #define UI_OZONE_PLATFORM_DRM_HOST_GPU_THREAD_ADAPTER_H_
 

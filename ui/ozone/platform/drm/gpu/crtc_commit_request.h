@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CRTC commit request class declaration
+// summary: Declares CrtcCommitRequest, a container holding CRTC id, connector, mode, origin, plane list, overlays, and VRR flag for a modeset commit.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_DRM_GPU_CRTC_COMMIT_REQUEST_H_
 #define UI_OZONE_PLATFORM_DRM_GPU_CRTC_COMMIT_REQUEST_H_
 

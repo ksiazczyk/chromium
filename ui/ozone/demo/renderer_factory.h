@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RendererFactory interface for the Ozone demo
+// summary: Defines the abstract RendererFactory interface with Initialize and CreateRenderer methods for creating demo renderers.
+// ---
+
 #ifndef UI_OZONE_DEMO_RENDERER_FACTORY_H_
 #define UI_OZONE_DEMO_RENDERER_FACTORY_H_
 

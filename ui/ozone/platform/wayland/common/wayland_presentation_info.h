@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland presentation info struct header
+// summary: Defines the wl::WaylandPresentationInfo struct that pairs a Wayland frame ID with a gfx::PresentationFeedback for presentation-time feedback.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_COMMON_WAYLAND_PRESENTATION_INFO_H_
 #define UI_OZONE_PLATFORM_WAYLAND_COMMON_WAYLAND_PRESENTATION_INFO_H_
 

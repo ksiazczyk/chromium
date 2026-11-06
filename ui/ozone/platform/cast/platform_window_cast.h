@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform window for the Cast Ozone platform
+// summary: Declares PlatformWindowCast, a StubWindow and PlatformEventDispatcher that forwards platform events for the Cast Ozone platform.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_CAST_PLATFORM_WINDOW_CAST_H_
 #define UI_OZONE_PLATFORM_CAST_PLATFORM_WINDOW_CAST_H_
 

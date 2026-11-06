@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WindowManager class declaration
+// summary: Declares the WindowManager class, a display observer that manages demo windows and tracks display configuration state.
+// ---
+
 #ifndef UI_OZONE_DEMO_WINDOW_MANAGER_H_
 #define UI_OZONE_DEMO_WINDOW_MANAGER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FlatlandSurface unit tests
+// summary: Unit tests for FlatlandSurface that verify Flatland view and transform graphs, image properties and overlay plane presentation using a fake Flatland.
+// ---
+
 #include "ui/ozone/platform/flatland/flatland_surface.h"
 
 #include <fuchsia/ui/composition/cpp/fidl.h>

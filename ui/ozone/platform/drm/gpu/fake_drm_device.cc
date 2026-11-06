@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeDrmDevice implementation
+// summary: Implements an in-memory fake DRM device that simulates CRTCs, connectors, planes, and atomic commits so unit tests run without real DRM calls.
+// ---
+
 #include "ui/ozone/platform/drm/gpu/fake_drm_device.h"
 
 #include <algorithm>

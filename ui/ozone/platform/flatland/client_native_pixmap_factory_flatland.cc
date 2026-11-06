@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Flatland client native pixmap factory implementation
+// summary: Implements the Fuchsia client native pixmap factory, mapping and unmapping VMO-backed pixmap planes into the process address space with cache and page handling.
+// ---
+
 #include "ui/ozone/platform/flatland/client_native_pixmap_factory_flatland.h"
 
 #include <lib/zx/vmar.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FlatlandSysmemNativePixmap implementation
+// summary: Implements FlatlandSysmemNativePixmap, a gfx::NativePixmap backed by a sysmem buffer collection, exposing handles and overlay plane support.
+// ---
+
 #include "ui/ozone/platform/flatland/flatland_sysmem_native_pixmap.h"
 
 #include "base/fuchsia/fuchsia_logging.h"

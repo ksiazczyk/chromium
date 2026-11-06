@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SoftwareRenderer class declaration
+// summary: Declares the software renderer that draws frames on an Ozone canvas using a repeating timer driven by the vsync period.
+// ---
+
 #ifndef UI_OZONE_DEMO_SOFTWARE_RENDERER_H_
 #define UI_OZONE_DEMO_SOFTWARE_RENDERER_H_
 

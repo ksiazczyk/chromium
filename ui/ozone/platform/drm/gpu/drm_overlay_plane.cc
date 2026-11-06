@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DrmOverlayPlane implementation
+// summary: Implements the DrmOverlayPlane struct, including constructors, ordering comparison, primary plane lookup, cloning, and perfetto tracing support.
+// ---
+
 #include "ui/ozone/platform/drm/gpu/drm_overlay_plane.h"
 
 #include <stddef.h>

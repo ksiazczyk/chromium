@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EGL-based GL implementation for Cast Ozone
+// summary: Implements GLOzoneEglCast, handling hardware initialization, display creation and resizing, EGL display termination and GL surface creation.
+// ---
+
 #include "ui/ozone/platform/cast/gl_ozone_egl_cast.h"
 
 #include <EGL/egl.h>

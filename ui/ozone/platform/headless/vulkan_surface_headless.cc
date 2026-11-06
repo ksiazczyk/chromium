@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Headless Vulkan surface creation
+// summary: Creates a Vulkan surface for a headless window via the VK_EXT_headless_surface extension and wraps it in a VulkanSurfaceHeadless.
+// ---
+
 #include "ui/ozone/platform/headless/vulkan_surface_headless.h"
 
 #include "base/logging.h"

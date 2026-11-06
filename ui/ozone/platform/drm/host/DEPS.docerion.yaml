@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the DRM host directory
+summary: Defines include rules allowing dependencies on ui/display and the DRM common, host, and mojom subdirectories while blocking other DRM platform paths.

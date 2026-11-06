@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast EGL GL surface implementation
+// summary: Implements the Cast native view EGL surface with a fixed vsync interval, display resizing, EGL config selection and optional triple buffering.
+// ---
+
 #include "ui/ozone/platform/cast/gl_surface_cast.h"
 
 #include <memory>

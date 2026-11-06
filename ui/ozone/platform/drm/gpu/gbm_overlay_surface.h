@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GbmOverlaySurface class declaration
+// summary: Declares the GbmOverlaySurface OverlaySurface subclass that queues unsubmitted, submitted and presented frames for a DRM window with page flip tracking.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_DRM_GPU_GBM_OVERLAY_SURFACE_H_
 #define UI_OZONE_PLATFORM_DRM_GPU_GBM_OVERLAY_SURFACE_H_
 

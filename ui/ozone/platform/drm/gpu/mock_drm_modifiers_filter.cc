@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock DRM modifiers filter implementation
+// summary: Implements a mock DRM modifiers filter that returns the intersection of requested and supported buffer format modifiers for unit tests.
+// ---
+
 #include "ui/ozone/platform/drm/gpu/mock_drm_modifiers_filter.h"
 
 namespace ui {

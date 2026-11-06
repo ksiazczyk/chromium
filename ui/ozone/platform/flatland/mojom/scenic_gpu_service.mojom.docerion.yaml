@@ -1,0 +1,4 @@
+# Docerion header of scenic_gpu_service.mojom.
+type: source
+title: ScenicGpuService Mojom interface
+summary: Defines the GPU process service for presenting to Scenic, initialized with a remote ScenicGpuHost from the browser.

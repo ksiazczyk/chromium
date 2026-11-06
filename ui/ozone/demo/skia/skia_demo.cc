@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ozone Skia demo entry point
+// summary: Entry point for the Ozone Skia demo that initializes the Ozone platform, logging, and Mojo, then runs the window manager with the Skia renderer factory.
+// ---
+
 #include <iostream>
 #include <memory>
 

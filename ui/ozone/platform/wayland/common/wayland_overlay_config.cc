@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland overlay config implementation
+// summary: Implements WaylandOverlayConfig constructors and assignment, converting overlay plane data, fences, buffer IDs, and scale factors into overlay settings.
+// ---
+
 #include "ui/ozone/platform/wayland/common/wayland_overlay_config.h"
 
 #include <optional>

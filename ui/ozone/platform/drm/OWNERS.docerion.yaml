@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the Ozone DRM platform
+summary: Lists the code owners responsible for reviewing changes to the Ozone DRM platform, with a dedicated owner for HDR and high-bit depth topics.

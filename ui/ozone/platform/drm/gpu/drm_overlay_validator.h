@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DrmOverlayValidator class declaration
+// summary: Declares DrmOverlayValidator, which tests whether overlay surface candidates can be promoted to overlay composition without failing a page flip.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_DRM_GPU_DRM_OVERLAY_VALIDATOR_H_
 #define UI_OZONE_PLATFORM_DRM_GPU_DRM_OVERLAY_VALIDATOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DRM display utility declarations
+// summary: Declares functions for parsing native display configurations plus constants and mappings for DRM properties such as HDCP, privacy screen, color space, and VRR.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_DRM_COMMON_DRM_UTIL_H_
 #define UI_OZONE_PLATFORM_DRM_COMMON_DRM_UTIL_H_
 

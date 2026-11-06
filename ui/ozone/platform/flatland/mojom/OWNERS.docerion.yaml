@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS review rules for Flatland Mojom files
+summary: Per-file ownership rules requiring IPC security owner review for mojom, mojom traits, and typemap files in this directory.

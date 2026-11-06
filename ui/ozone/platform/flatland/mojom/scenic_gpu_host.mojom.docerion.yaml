@@ -1,0 +1,4 @@
+# Docerion header of scenic_gpu_host.mojom.
+type: source
+title: ScenicGpuHost Mojom interface
+summary: Defines the browser process interface that lets the GPU process attach a surface view to a window's scene graph for presentation to Scenic.

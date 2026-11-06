@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FlatlandSysmemNativePixmap class declaration
+// summary: Declares FlatlandSysmemNativePixmap, a gfx::NativePixmap implementation that references a FlatlandSysmemBufferCollection and its handle.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_FLATLAND_FLATLAND_SYSMEM_NATIVE_PIXMAP_H_
 #define UI_OZONE_PLATFORM_FLATLAND_FLATLAND_SYSMEM_NATIVE_PIXMAP_H_
 

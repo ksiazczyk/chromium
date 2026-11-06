@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HardwareDisplayPlaneAtomic implementation
+// summary: Implements HardwareDisplayPlaneAtomic, assigning plane properties including rotation, color space, damage and fences for atomic DRM commits.
+// ---
+
 #include "ui/ozone/platform/drm/gpu/hardware_display_plane_atomic.h"
 
 #include <drm_fourcc.h>

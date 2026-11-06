@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for HardwareDisplayControllerInfo
+// summary: GoogleTest suite checking connector, CRTC, EDID parser, and tile property behavior of HardwareDisplayControllerInfo with a fake DRM device and sample EDID data.
+// ---
+
 #include "ui/ozone/platform/drm/common/hardware_display_controller_info.h"
 
 #include <xf86drm.h>

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for issue tracking
+summary: Maps the DRM platform directory to the OS>Systems>Display monorail component for bug routing.

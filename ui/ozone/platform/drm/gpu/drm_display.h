@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DrmDisplay class header
+// summary: Declares DrmDisplay, which wraps DRM CRTC-connector pairs and exposes modes, origin, HDCP, privacy screen, and color calibration operations.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_DRM_GPU_DRM_DISPLAY_H_
 #define UI_OZONE_PLATFORM_DRM_GPU_DRM_DISPLAY_H_
 

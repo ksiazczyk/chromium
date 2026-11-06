@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Surfaceless Skia GL renderer implementation
+// summary: Implements the surfaceless Skia GL renderer that renders into native pixmap buffers presented via a presenter, including overlay plane support.
+// ---
+
 
 #include "ui/ozone/demo/skia/skia_surfaceless_gl_renderer.h"
 

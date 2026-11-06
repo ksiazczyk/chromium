@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Legacy hardware display plane manager implementation
+// summary: Implements the hardware display plane manager using legacy DRM modesetting, handling CRTC commits, page flips and serial plane fence waits without overlay support.
+// ---
+
 #include "ui/ozone/platform/drm/gpu/hardware_display_plane_manager_legacy.h"
 
 #include <errno.h>

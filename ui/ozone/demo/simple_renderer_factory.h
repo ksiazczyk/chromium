@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SimpleRendererFactory class declaration
+// summary: Declares the SimpleRendererFactory with a renderer type enum and members for GL display and optional Vulkan implementation.
+// ---
+
 #ifndef UI_OZONE_DEMO_SIMPLE_RENDERER_FACTORY_H_
 #define UI_OZONE_DEMO_SIMPLE_RENDERER_FACTORY_H_
 

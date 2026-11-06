@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland object traits and deleters implementation
+// summary: Implements version-aware deleters for Wayland protocol objects, the CanBind version check, and object trait definitions for many Wayland interfaces.
+// ---
+
 #include "ui/ozone/platform/wayland/common/wayland_object.h"
 
 #include <alpha-compositing-unstable-v1-client-protocol.h>

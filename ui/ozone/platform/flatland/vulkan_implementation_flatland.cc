@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Flatland Vulkan implementation
+// summary: Implements VulkanImplementationFlatland, setting up Vulkan instances, required Fuchsia device extensions, and GPU memory buffer import for the Flatland platform.
+// ---
+
 #include "ui/ozone/platform/flatland/vulkan_implementation_flatland.h"
 
 #include <lib/zx/channel.h>

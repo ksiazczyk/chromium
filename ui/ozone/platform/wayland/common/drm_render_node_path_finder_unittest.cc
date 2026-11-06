@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for DRM render node path finder
+// summary: Tests SelectRenderNodeFromCandidates behavior, covering empty candidate lists, preferred driver selection, vendor priority order, and fallback choices.
+// ---
+
 #include "ui/ozone/platform/wayland/common/drm_render_node_path_finder.h"
 
 #include <vector>

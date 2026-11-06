@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HardwareDisplayController unit tests
+// summary: Unit tests for HardwareDisplayController covering modesetting, page flips, overlays, rotation and fences using fake and mock DRM devices.
+// ---
+
 #include "ui/ozone/platform/drm/gpu/hardware_display_controller.h"
 
 #include <drm_fourcc.h>

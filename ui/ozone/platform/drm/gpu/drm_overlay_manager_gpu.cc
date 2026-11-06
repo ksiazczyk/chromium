@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU-process DRM overlay manager implementation
+// summary: Implements the GPU-process overlay manager, posting overlay validation and hardware capability requests to the DRM thread through DrmThreadProxy.
+// ---
+
 #include "ui/ozone/platform/drm/gpu/drm_overlay_manager_gpu.h"
 
 #include <utility>

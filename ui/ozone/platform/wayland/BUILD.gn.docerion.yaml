@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Wayland Ozone platform build configuration
+summary: GN build file defining source sets and dependencies for the Wayland Ozone platform, covering common, GPU, and host components.

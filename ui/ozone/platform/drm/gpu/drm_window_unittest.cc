@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DrmWindow unit tests
+// summary: Unit tests covering DrmWindow cursor rendering, bounds updates, and page flip submission against a fake DRM device and mock GBM device.
+// ---
+
 #include "ui/ozone/platform/drm/gpu/drm_window.h"
 
 #include <drm_fourcc.h>

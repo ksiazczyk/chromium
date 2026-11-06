@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeDrmDeviceGenerator class declaration
+// summary: Declares the DrmDeviceGenerator subclass that creates fake DRM devices for unit tests.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_DRM_GPU_FAKE_DRM_DEVICE_GENERATOR_H_
 #define UI_OZONE_PLATFORM_DRM_GPU_FAKE_DRM_DEVICE_GENERATOR_H_
 

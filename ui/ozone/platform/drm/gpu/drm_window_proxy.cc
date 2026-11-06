@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DrmWindowProxy implementation
+// summary: Forwards window page flip requests and GPU fence support queries from the UI thread to the DrmThread task runner.
+// ---
+
 #include "ui/ozone/platform/drm/gpu/drm_window_proxy.h"
 
 #include <utility>

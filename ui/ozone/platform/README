@@ -1,3 +1,9 @@
+---
+type: readme
+title: Ozone platform implementations overview
+summary: Describes the directory as containing Ozone platform implementations of the ui/ozone/public interfaces for Chromium and points to docs/ozone_overview.md for details.
+---
+
 This directory contains implementations of platforms. Each platform implements
 the interfaces from ui/ozone/public for the rest of chromium.
 

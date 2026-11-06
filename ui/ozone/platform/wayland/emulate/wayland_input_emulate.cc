@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland input emulation implementation
+// summary: Implements WaylandInputEmulate, which uses the ui-controls Wayland protocol extension to emulate keyboard, pointer, and touch events for interactive_ui_tests, queueing pending requests when windows await buffer commits.
+// ---
+
 #include "ui/ozone/platform/wayland/emulate/wayland_input_emulate.h"
 
 #include <ui-controls-unstable-v2-client-protocol.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DRM wrapper implementation
+// summary: Implements DrmWrapper, wrapping libdrm calls for device initialization, dumb buffers, CRTCs, connectors, cursors, and property blob management.
+// ---
+
 #include "ui/ozone/platform/drm/common/drm_wrapper.h"
 
 #include <fcntl.h>

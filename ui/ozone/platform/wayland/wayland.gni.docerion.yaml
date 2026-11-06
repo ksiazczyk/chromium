@@ -1,0 +1,4 @@
+# Docerion header of wayland.gni.
+type: config
+title: Wayland build arguments
+summary: GN declare_args file defining build options for the Wayland platform, such as GBM/dmabuf support and bundled Weston or Mutter builds.

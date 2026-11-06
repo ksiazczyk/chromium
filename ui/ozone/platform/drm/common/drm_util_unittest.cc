@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for DRM display utilities
+// summary: GoogleTest suite verifying display mode extraction, CRTC selection, and tile property handling in drm_util using fake DRM devices.
+// ---
+
 #include "ui/ozone/platform/drm/common/drm_util.h"
 
 #include <drm_fourcc.h>

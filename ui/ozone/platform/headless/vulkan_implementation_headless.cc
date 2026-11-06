@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Headless Vulkan implementation
+// summary: Implements Vulkan support for the headless Ozone platform, initializing the Vulkan instance and creating headless surfaces, fences and images.
+// ---
+
 #include "ui/ozone/platform/headless/vulkan_implementation_headless.h"
 
 #include <optional>

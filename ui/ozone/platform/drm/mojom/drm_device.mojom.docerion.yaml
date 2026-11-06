@@ -1,0 +1,4 @@
+# Docerion header of drm_device.mojom.
+type: source
+title: DrmDevice Mojo interface for display management
+summary: Defines the DrmDevice Mojo interface implemented by the viz process on CrOS for managing DRM displays, covering window buffers, display configuration, HDCP state, and color calibration.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU-process DRM overlay manager declaration
+// summary: Declares DrmOverlayManagerGpu, a DrmOverlayManager that runs in the GPU process and posts overlay validation requests to the DRM thread.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_DRM_GPU_DRM_OVERLAY_MANAGER_GPU_H_
 #define UI_OZONE_PLATFORM_DRM_GPU_DRM_OVERLAY_MANAGER_GPU_H_
 

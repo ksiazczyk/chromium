@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FlatlandSurfaceCanvas unit tests
+// summary: Unit tests that verify FlatlandSurfaceCanvas rendering and scene graph output using fake Flatland, sysmem allocators, and FIDL matchers.
+// ---
+
 #include "ui/ozone/platform/flatland/flatland_surface_canvas.h"
 
 #include <fuchsia/sysmem/cpp/fidl.h>

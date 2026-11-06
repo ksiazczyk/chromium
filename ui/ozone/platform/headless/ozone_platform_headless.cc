@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Headless Ozone platform implementation
+// summary: Implements the headless Ozone platform, wiring up stub surface factory, cursor, input, screen, event source and headless window creation.
+// ---
+
 #include "ui/ozone/platform/headless/ozone_platform_headless.h"
 
 #include <memory>

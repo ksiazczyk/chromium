@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DRM client native pixmap factory implementation
+// summary: Implements the DRM client native pixmap factory hook by delegating creation to the dmabuf-based client native pixmap factory.
+// ---
+
 #include "ui/ozone/platform/drm/client_native_pixmap_factory_drm.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HardwareDisplayPlaneManagerAtomic implementation
+// summary: Implements the atomic variant of HardwareDisplayPlaneManager, building atomic DRM requests for CRTC, connector and plane commits with fence handling.
+// ---
+
 #include "ui/ozone/platform/drm/gpu/hardware_display_plane_manager_atomic.h"
 
 #include <sync/sync.h>

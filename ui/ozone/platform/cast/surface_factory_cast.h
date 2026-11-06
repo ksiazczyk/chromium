@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Surface factory for the Cast Ozone platform
+// summary: Declares SurfaceFactoryCast, a SurfaceFactoryOzone subclass exposing allowed GL implementations, GL Ozone selection, canvases, and native pixmaps.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_CAST_SURFACE_FACTORY_CAST_H_
 #define UI_OZONE_PLATFORM_CAST_SURFACE_FACTORY_CAST_H_
 

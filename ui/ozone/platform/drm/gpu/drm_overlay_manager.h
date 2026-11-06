@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DRM overlay manager class declaration
+// summary: Declares DrmOverlayManager, an Ozone overlay manager extension that queries DRM devices for overlay support and keeps an MRU cache of recent configurations.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_DRM_GPU_DRM_OVERLAY_MANAGER_H_
 #define UI_OZONE_PLATFORM_DRM_GPU_DRM_OVERLAY_MANAGER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Flatland directory owners
+summary: Delegates ownership review of this directory to the owners listed in build/fuchsia/OWNERS.

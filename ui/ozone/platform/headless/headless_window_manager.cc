@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Headless window manager implementation
+// summary: Implements the headless Ozone window manager that registers, removes and looks up HeadlessWindow instances and finds the accelerated widget at a screen point.
+// ---
+
 #include "ui/ozone/platform/headless/headless_window_manager.h"
 
 #include "ui/gfx/geometry/rect.h"

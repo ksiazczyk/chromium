@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageFlipWatchdog implementation
+// summary: Implements a watchdog that tracks page flip success and failure history and crashes the GPU process when plane assignment flakes or failures exceed thresholds.
+// ---
+
 #include "ui/ozone/platform/drm/gpu/page_flip_watchdog.h"
 
 #include <cstdint>

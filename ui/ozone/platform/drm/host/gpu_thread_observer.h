@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GpuThreadObserver interface
+// summary: Declares an observer interface notified when the GPU process is launched, when the GPU thread implementation becomes ready, and when it retires.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_DRM_HOST_GPU_THREAD_OBSERVER_H_
 #define UI_OZONE_PLATFORM_DRM_HOST_GPU_THREAD_OBSERVER_H_
 

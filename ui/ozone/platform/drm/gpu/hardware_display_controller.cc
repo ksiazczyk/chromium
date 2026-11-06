@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HardwareDisplayController implementation
+// summary: Implements the hardware display controller that manages CRTCs, modesets, page flips, cursor buffers, and overlay plane commits on DRM devices.
+// ---
+
 #include "ui/ozone/platform/drm/gpu/hardware_display_controller.h"
 
 #include <drm.h>

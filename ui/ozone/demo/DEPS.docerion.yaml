@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Ozone demo include rules
+summary: Specifies allowed include paths for the Ozone demo directory, granting access to tracing, viz shared image format, Mojo embedder, and GL headers.

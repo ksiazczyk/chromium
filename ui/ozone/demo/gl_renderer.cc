@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GL renderer implementation
+// summary: Implements the GL renderer that creates a GL context, clears the surface with an animated color, and swaps buffers synchronously or asynchronously.
+// ---
+
 #include "ui/ozone/demo/gl_renderer.h"
 
 #include <memory>

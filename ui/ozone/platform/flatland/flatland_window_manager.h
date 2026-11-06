@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Flatland window manager class declaration
+// summary: Declares FlatlandWindowManager, which maps integer window IDs used as AcceleratedWidget values to FlatlandWindow instances and is owned by OzonePlatformFlatland.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_FLATLAND_FLATLAND_WINDOW_MANAGER_H_
 #define UI_OZONE_PLATFORM_FLATLAND_FLATLAND_WINDOW_MANAGER_H_
 

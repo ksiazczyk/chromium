@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VulkanImplementationGbm header for GBM Vulkan support
+// summary: Declares the VulkanImplementationGbm class, a GBM-based gpu::VulkanImplementation for the Ozone DRM platform that initializes Vulkan instances, creates surfaces and images, and manages fences and external semaphores.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_DRM_GPU_VULKAN_IMPLEMENTATION_GBM_H_
 #define UI_OZONE_PLATFORM_DRM_GPU_VULKAN_IMPLEMENTATION_GBM_H_
 

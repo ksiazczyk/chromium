@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HeadlessWindow class declaration
+// summary: Declares the HeadlessWindow class, a PlatformWindow implementation for the headless Ozone platform with window state and activation tracking.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_HEADLESS_HEADLESS_WINDOW_H_
 #define UI_OZONE_PLATFORM_HEADLESS_HEADLESS_WINDOW_H_
 

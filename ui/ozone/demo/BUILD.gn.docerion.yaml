@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Ozone demo GN build configuration
+summary: Defines GN build targets for the Ozone demo, including the ozone_demo and skia_demo executables and the shared ozone_demo_lib source set.

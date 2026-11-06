@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DrmOverlayValidator unit tests
+// summary: Unit tests for DrmOverlayValidator that exercise page flip testing of overlay plane configurations using a fake DRM device and mock GBM device.
+// ---
+
 #include "ui/ozone/platform/drm/gpu/drm_overlay_validator.h"
 
 #include <drm_fourcc.h>
