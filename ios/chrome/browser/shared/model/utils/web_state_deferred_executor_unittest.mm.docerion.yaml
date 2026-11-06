@@ -1,0 +1,4 @@
+# Docerion header of web_state_deferred_executor_unittest.mm.
+type: test
+title: WebStateDeferredExecutor unit tests
+summary: Unit tests verifying that WebStateDeferredExecutor invokes its completion immediately for loaded web states, and after force-realizing and loading unrealized ones, including failure on aborted loads.

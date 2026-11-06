@@ -1,0 +1,4 @@
+# Docerion header of list_model_collapse_unittest.mm.
+type: test
+title: Unit tests for ListModel section collapsing
+summary: Tests section collapsing behavior of ListModel, including default values, collapsing all or some sections and removing collapsed sections.

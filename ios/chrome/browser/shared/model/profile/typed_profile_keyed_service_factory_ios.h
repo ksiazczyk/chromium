@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TypedProfileKeyedServiceFactoryIOS template class header
+// summary: Declares a C++ template helper that automates boilerplate for factories owning and associating KeyedService instances with ProfileIOS objects in Chrome on iOS.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_MODEL_PROFILE_TYPED_PROFILE_KEYED_SERVICE_FACTORY_IOS_H_
 #define IOS_CHROME_BROWSER_SHARED_MODEL_PROFILE_TYPED_PROFILE_KEYED_SERVICE_FACTORY_IOS_H_
 

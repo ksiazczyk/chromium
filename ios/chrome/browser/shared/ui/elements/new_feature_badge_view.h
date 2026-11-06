@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: New feature badge view header
+// summary: Declares NewFeatureBadgeView, a badge combining a blue seal icon and a centered letter label to indicate new features.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_UI_ELEMENTS_NEW_FEATURE_BADGE_VIEW_H_
 #define IOS_CHROME_BROWSER_SHARED_UI_ELEMENTS_NEW_FEATURE_BADGE_VIEW_H_
 

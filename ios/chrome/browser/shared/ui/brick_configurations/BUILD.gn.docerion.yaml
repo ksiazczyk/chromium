@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the brick_configurations source set
+summary: GN build file defining the brick_configurations source set with the animation and title brick configuration sources.

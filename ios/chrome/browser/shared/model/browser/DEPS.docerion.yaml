@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the browser model directory
+summary: Restricts allowed includes for this directory to the ios/chrome/browser/main/model path.

@@ -1,0 +1,4 @@
+# Docerion header of new_feature_badge_view.mm.
+type: source
+title: New feature badge view implementation
+summary: Implements the new feature badge view with a seal icon, a localized heavy-weight label, and a configurable badge color.

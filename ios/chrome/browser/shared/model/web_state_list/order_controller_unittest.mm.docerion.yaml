@@ -1,0 +1,4 @@
+# Docerion header of order_controller_unittest.mm.
+type: test
+title: Unit tests for OrderController
+summary: Tests OrderController insertion and active index logic using a fake source with pinned tabs, openers, and collapsed groups.

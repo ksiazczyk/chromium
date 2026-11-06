@@ -1,0 +1,4 @@
+# Docerion header of pref_backed_boolean.mm.
+type: source
+title: PrefBackedBoolean implementation
+summary: Implements PrefBackedBoolean with a BooleanPrefMember to read, write, and observe a boolean preference and notify its observer.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AnimatedPromoConfiguration header
+// summary: Declares AnimatedPromoConfiguration, which bundles animation, button stack, and title brick configurations plus an optional under-title view.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_UI_ANIMATED_PROMO_ANIMATED_PROMO_CONFIGURATION_H_
 #define IOS_CHROME_BROWSER_SHARED_UI_ANIMATED_PROMO_ANIMATED_PROMO_CONFIGURATION_H_
 

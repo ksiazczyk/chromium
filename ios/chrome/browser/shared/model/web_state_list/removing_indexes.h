@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RemovingIndexes interface
+// summary: Declares a class storing indexes scheduled for removal in a WebStateList and computing adjusted indexes and ranges after removal.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_MODEL_WEB_STATE_LIST_REMOVING_INDEXES_H_
 #define IOS_CHROME_BROWSER_SHARED_MODEL_WEB_STATE_LIST_REMOVING_INDEXES_H_
 

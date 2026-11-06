@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome overlay window header
+// summary: Declares ChromeOverlayWindow, the main application UIWindow that hosts the UI, displays overlays, and reports size class changes to metrics and crash keys.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_UI_CHROME_OVERLAY_WINDOW_CHROME_OVERLAY_WINDOW_H_
 #define IOS_CHROME_BROWSER_SHARED_UI_CHROME_OVERLAY_WINDOW_CHROME_OVERLAY_WINDOW_H_
 

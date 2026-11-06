@@ -1,0 +1,4 @@
+# Docerion header of browser_list_observer_bridge.mm.
+type: source
+title: BrowserListObserverBridge implementation
+summary: Implements BrowserListObserverBridge, forwarding browser added, removed and shutdown events to the Objective-C observer when it responds to the selectors.

@@ -1,0 +1,4 @@
+# Docerion header of crossfade_label_unittest.mm.
+type: test
+title: Crossfade label unit tests
+summary: Unit tests verifying label color and alpha at each step of the crossfade setup, animation, and cleanup.

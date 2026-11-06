@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ApplicationContext interface
+// summary: Declares the abstract ApplicationContext class giving access to application-wide services such as local state, network context, locale storage, and metrics.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_MODEL_APPLICATION_CONTEXT_APPLICATION_CONTEXT_H_
 #define IOS_CHROME_BROWSER_SHARED_MODEL_APPLICATION_CONTEXT_APPLICATION_CONTEXT_H_
 

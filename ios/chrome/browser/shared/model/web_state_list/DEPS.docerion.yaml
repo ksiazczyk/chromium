@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for web_state_list
+summary: Specifies allowed include dependencies for the directory, permitting snapshots model headers and saved tab groups UI in tab_group.mm.

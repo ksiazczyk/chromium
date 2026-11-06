@@ -1,0 +1,4 @@
+# Docerion header of tab_utils.mm.
+type: source
+title: Tab utilities implementation for web state search and pinning
+summary: Implements tab utilities that locate web states by identifier and pinned state, record pin and unpin user metrics, and move web states to insertion params.

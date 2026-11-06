@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OrderControllerSourceFromWebStateList interface
+// summary: Declares a concrete OrderControllerSource that queries data from a genuine WebStateList.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_MODEL_WEB_STATE_LIST_ORDER_CONTROLLER_SOURCE_FROM_WEB_STATE_LIST_H_
 #define IOS_CHROME_BROWSER_SHARED_MODEL_WEB_STATE_LIST_ORDER_CONTROLLER_SOURCE_FROM_WEB_STATE_LIST_H_
 

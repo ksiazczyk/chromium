@@ -1,0 +1,4 @@
+# Docerion header of tab_group_utils_unittest.mm.
+type: test
+title: TabGroup utilities unit tests
+summary: Unit tests for tab group utility functions using test browsers, profiles, and web state lists across regular and incognito modes.

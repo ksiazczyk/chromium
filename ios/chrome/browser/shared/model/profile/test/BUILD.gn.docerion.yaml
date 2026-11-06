@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for iOS profile test support
+summary: Defines the testonly test and unit_tests source sets for the iOS profile test helpers and lists their build dependencies.

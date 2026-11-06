@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declarations for registering and migrating browser prefs
+// summary: Declares functions to register local state and profile prefs and to migrate obsolete local state, profile, and NSUserDefault prefs.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_MODEL_PREFS_BROWSER_PREFS_H_
 #define IOS_CHROME_BROWSER_SHARED_MODEL_PREFS_BROWSER_PREFS_H_
 

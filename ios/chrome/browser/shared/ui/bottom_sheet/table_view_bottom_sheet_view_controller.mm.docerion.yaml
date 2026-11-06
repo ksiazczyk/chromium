@@ -1,0 +1,4 @@
+# Docerion header of table_view_bottom_sheet_view_controller.mm.
+type: source
+title: Table view bottom sheet view controller implementation
+summary: Implements table view setup, minimized and expanded height constraints, cell reconfiguration and button margin adjustments.

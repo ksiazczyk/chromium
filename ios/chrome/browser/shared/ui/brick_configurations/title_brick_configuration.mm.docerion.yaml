@@ -1,0 +1,4 @@
+# Docerion header of title_brick_configuration.mm.
+type: source
+title: TitleBrickConfiguration implementation
+summary: Implements TitleBrickConfiguration without additional behavior beyond the declared properties.

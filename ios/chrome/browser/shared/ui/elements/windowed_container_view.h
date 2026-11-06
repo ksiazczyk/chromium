@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WindowedContainerView header
+// summary: Declares WindowedContainerView, a hidden zero-sized view that attaches itself to the application key window to host offscreen subviews.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_UI_ELEMENTS_WINDOWED_CONTAINER_VIEW_H_
 #define IOS_CHROME_BROWSER_SHARED_UI_ELEMENTS_WINDOWED_CONTAINER_VIEW_H_
 

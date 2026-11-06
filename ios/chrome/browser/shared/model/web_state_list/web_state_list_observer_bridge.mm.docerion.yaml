@@ -1,0 +1,4 @@
+# Docerion header of web_state_list_observer_bridge.mm.
+type: source
+title: WebStateListObserverBridge implementation
+summary: Implements the bridge that forwards C++ WebStateList observer callbacks to a matching Objective-C WebStateListObserving delegate via selectors.

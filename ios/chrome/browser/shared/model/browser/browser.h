@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser class interface for a multi-tab window model
+// summary: Declares the Browser class, the model for a window containing multiple tabs, with browser types, accessors, and inactive browser management.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_MODEL_BROWSER_BROWSER_H_
 #define IOS_CHROME_BROWSER_SHARED_MODEL_BROWSER_BROWSER_H_
 

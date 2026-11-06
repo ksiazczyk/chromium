@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extended touch target button interface
+// summary: Declares a UIButton subclass whose touch target extends beyond its bounds in a circle, defaulting to a 44 point diameter per Apple guidelines.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_UI_ELEMENTS_EXTENDED_TOUCH_TARGET_BUTTON_H_
 #define IOS_CHROME_BROWSER_SHARED_UI_ELEMENTS_EXTENDED_TOUCH_TARGET_BUTTON_H_
 

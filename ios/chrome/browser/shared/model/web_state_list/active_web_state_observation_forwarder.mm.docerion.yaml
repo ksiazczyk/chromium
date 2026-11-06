@@ -1,0 +1,4 @@
+# Docerion header of active_web_state_observation_forwarder.mm.
+type: source
+title: ActiveWebStateObservationForwarder implementation
+summary: Implements the forwarder by observing the WebStateList and re-attaching the WebState observation whenever the active WebState changes.

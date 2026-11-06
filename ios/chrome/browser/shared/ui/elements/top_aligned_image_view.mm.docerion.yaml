@@ -1,0 +1,4 @@
+# Docerion header of top_aligned_image_view.mm.
+type: source
+title: TopAlignedImageView implementation
+summary: Implements TopAlignedImageView layout logic that sizes and positions the inner image view to fill from the top for landscape and portrait images.

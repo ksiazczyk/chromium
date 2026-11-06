@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProfileAttributesIOS implementation
+// summary: Implements ProfileAttributesIOS, converting profile attributes such as authentication info, session-scoped prefs and notification permissions to and from dictionary storage.
+// ---
+
 #include "ios/chrome/browser/shared/model/profile/profile_attributes_ios.h"
 
 #include "base/check.h"

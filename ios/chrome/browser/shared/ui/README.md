@@ -1,3 +1,9 @@
+---
+type: readme
+title: Shared UI folder
+summary: Explains that this folder holds code shared by all UI features and when code should be added here.
+---
+
 # Shared UI folder
 
 This folder only contains the code shared by all the UI features. It

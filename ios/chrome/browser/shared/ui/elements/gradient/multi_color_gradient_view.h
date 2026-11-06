@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MultiColorGradientView interface
+// summary: Declares MultiColorGradientView, a UIView supporting two or more gradient colors with custom stop locations and layer types.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_UI_ELEMENTS_GRADIENT_MULTI_COLOR_GRADIENT_VIEW_H_
 #define IOS_CHROME_BROWSER_SHARED_UI_ELEMENTS_GRADIENT_MULTI_COLOR_GRADIENT_VIEW_H_
 

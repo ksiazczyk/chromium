@@ -1,0 +1,4 @@
+# Docerion header of activity_overlay_egtest_util.mm.
+type: test
+title: Activity overlay Earl Grey test helper implementation
+summary: Waits until the activity overlay accessibility element is no longer visible before the test continues.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Animated promo animation color utilities header
+// summary: Declares helper functions that configure Lottie animation colors by keypath for semantic colors and light and dark mode variants.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_UI_ANIMATED_PROMO_ANIMATED_PROMO_UTILS_H_
 #define IOS_CHROME_BROWSER_SHARED_UI_ANIMATED_PROMO_ANIMATED_PROMO_UTILS_H_
 

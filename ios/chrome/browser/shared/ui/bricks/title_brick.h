@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TitleBrick header
+// summary: Declares TitleBrick, a view that stacks centered title and subtitle labels from a TitleBrickConfiguration.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_UI_BRICKS_TITLE_BRICK_H_
 #define IOS_CHROME_BROWSER_SHARED_UI_BRICKS_TITLE_BRICK_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the list_model library and unit tests
+summary: Defines the list_model source_set and the testonly unit_tests target with their sources and dependencies for the GN build.

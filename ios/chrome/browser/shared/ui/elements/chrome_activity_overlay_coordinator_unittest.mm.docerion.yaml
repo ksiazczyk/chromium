@@ -1,0 +1,4 @@
+# Docerion header of chrome_activity_overlay_coordinator_unittest.mm.
+type: test
+title: Chrome activity overlay coordinator unit tests
+summary: Tests that starting and stopping the activity overlay coordinator presents and dismisses the overlay view.

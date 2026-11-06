@@ -1,0 +1,4 @@
+# Docerion header of image_names.mm.
+type: source
+title: Definitions of branded and custom image name constants
+summary: Defines the image name NSString constants, mapping branded and Chromium asset names for banners, promos, logos, and icons.

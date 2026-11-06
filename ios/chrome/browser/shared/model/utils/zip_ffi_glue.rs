@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Rust FFI glue for in-memory ZIP extraction
+// summary: cxx bridge exposing a Rust function that unzips a ZIP archive in memory, returning extracted file contents or an error string to C++ callers.
+// ---
+
 use anyhow::Result;
 use cxx::{CxxString, CxxVector};
 use std::io::{Cursor, Read};

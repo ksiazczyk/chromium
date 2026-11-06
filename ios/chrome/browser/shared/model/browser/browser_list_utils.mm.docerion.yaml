@@ -1,0 +1,4 @@
+# Docerion header of browser_list_utils.mm.
+type: source
+title: Browser list utilities implementation
+summary: Implements GetMostActiveSceneBrowser and GetVisibleBrowser by inspecting scene activation levels and browser providers in the BrowserList.

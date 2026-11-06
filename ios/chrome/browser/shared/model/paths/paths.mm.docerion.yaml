@@ -1,0 +1,4 @@
+# Docerion header of paths.mm.
+type: source
+title: Implementation of the Chrome on iOS path provider
+summary: Implements the PathProvider that resolves each declared path key, creates directories where needed, registers the provider, and supplies GetUserCacheDirectory for profile cache lookup.

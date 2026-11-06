@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for shared iOS UI elements
+summary: GN build file defining source sets for shared UI elements, the activity overlay, constants, unit tests and Earl Grey test support.

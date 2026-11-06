@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserObserverBridge header
+// summary: Declares the BrowserObserving protocol and a bridge that forwards Browser events such as destruction to Objective-C observers.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_MODEL_BROWSER_BROWSER_OBSERVER_BRIDGE_H_
 #define IOS_CHROME_BROWSER_SHARED_MODEL_BROWSER_BROWSER_OBSERVER_BRIDGE_H_
 

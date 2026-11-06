@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestProfileIOS test implementation of ProfileIOS
+// summary: Declares TestProfileIOS, a ProfileIOS implementation for tests, with helpers for registering testing keyed-service factories.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_MODEL_PROFILE_TEST_TEST_PROFILE_IOS_H_
 #define IOS_CHROME_BROWSER_SHARED_MODEL_PROFILE_TEST_TEST_PROFILE_IOS_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of chrome_overlay_window_unittest.mm.
+type: test
+title: Chrome overlay window unit tests
+summary: Unit tests verifying that the overlay container stays on top, overlays are ordered by window level, deactivation removes overlays, and container visibility updates.

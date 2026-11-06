@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Super G icon sizes and GWithPointSize declaration
+// summary: Declares the SuperGSize enum of supported point sizes and the GWithPointSize function that returns the gradient Super G icon image.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_UI_IMAGE_G_WITH_POINT_SIZE_H_
 #define IOS_CHROME_BROWSER_SHARED_UI_IMAGE_G_WITH_POINT_SIZE_H_
 

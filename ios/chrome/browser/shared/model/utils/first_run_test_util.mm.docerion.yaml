@@ -1,0 +1,4 @@
+# Docerion header of first_run_test_util.mm.
+type: source
+title: First run test helper implementation
+summary: Manipulates the first run sentinel and recency defaults so tests can simulate first run states.

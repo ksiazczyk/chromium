@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GradientView interface for two-color gradients
+// summary: Declares GradientView, a UIView showing an axial two-color gradient with configurable start and end points.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_UI_ELEMENTS_GRADIENT_GRADIENT_VIEW_H_
 #define IOS_CHROME_BROWSER_SHARED_UI_ELEMENTS_GRADIENT_GRADIENT_VIEW_H_
 

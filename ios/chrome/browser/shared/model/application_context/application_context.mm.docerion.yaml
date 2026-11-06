@@ -1,0 +1,4 @@
+# Docerion header of application_context.mm.
+type: source
+title: ApplicationContext global instance
+summary: Implements storage of the global ApplicationContext instance and the GetApplicationContext accessor used across the iOS app.

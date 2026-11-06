@@ -1,0 +1,4 @@
+# Docerion header of layout_brick.mm.
+type: source
+title: LayoutBrick implementation
+summary: Implements LayoutBrick's contentStackWithSubviews, building a vertical stack view with 16pt spacing.

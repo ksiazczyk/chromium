@@ -1,0 +1,4 @@
+# Docerion header of pref_backed_string_unittest.mm.
+type: test
+title: PrefBackedString unit tests
+summary: Unit tests verifying that PrefBackedString reads and writes string preferences correctly and notifies its observer only when the value actually changes.

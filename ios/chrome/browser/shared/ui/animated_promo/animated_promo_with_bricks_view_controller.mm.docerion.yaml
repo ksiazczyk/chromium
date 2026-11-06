@@ -1,0 +1,4 @@
+# Docerion header of animated_promo_with_bricks_view_controller.mm.
+type: source
+title: AnimatedPromoWithBricksViewController implementation
+summary: Implements the brick-based promo view controller, building the animation, title, and content stack from an AnimatedPromoConfiguration.

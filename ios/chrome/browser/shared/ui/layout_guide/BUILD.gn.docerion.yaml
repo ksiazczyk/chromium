@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for layout guide
+summary: Defines the layout_guide and layout_guide_swift source sets, their header sources and dependencies for the GN build.

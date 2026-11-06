@@ -1,0 +1,4 @@
+# Docerion header of incognito_session_tracker_unittest.mm.
+type: test
+title: IncognitoSessionTracker unit tests
+summary: Unit tests verifying that IncognitoSessionTracker reports and signals changes in open off-the-record tabs across profiles.

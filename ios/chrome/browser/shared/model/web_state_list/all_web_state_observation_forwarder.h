@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AllWebStateObservationForwarder class declaration
+// summary: Declares AllWebStateObservationForwarder, which forwards WebStateObserver callbacks for every WebState in a WebStateList.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_MODEL_WEB_STATE_LIST_ALL_WEB_STATE_OBSERVATION_FORWARDER_H_
 #define IOS_CHROME_BROWSER_SHARED_MODEL_WEB_STATE_LIST_ALL_WEB_STATE_OBSERVATION_FORWARDER_H_
 

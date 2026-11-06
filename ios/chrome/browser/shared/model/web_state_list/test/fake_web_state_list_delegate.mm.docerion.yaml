@@ -1,0 +1,4 @@
+# Docerion header of fake_web_state_list_delegate.mm.
+type: test
+title: Fake WebStateList delegate implementation
+summary: Implements the fake WebStateList delegate, optionally forcing WebStates to be realized when activated.

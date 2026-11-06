@@ -1,0 +1,4 @@
+# Docerion header of web_state_deferred_executor.mm.
+type: source
+title: WebStateDeferredExecutor implementation
+summary: Implements deferred web state loading and realization using observation, timeout timers, and delegate notifications.

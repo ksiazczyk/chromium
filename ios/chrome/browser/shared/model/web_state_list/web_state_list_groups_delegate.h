@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebStateList groups delegate interface
+// summary: Declares a delegate interface for tab group handling, deciding whether empty groups are deleted and supplying a web state to add to a kept empty group.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_MODEL_WEB_STATE_LIST_WEB_STATE_LIST_GROUPS_DELEGATE_H_
 #define IOS_CHROME_BROWSER_SHARED_MODEL_WEB_STATE_LIST_WEB_STATE_LIST_GROUPS_DELEGATE_H_
 

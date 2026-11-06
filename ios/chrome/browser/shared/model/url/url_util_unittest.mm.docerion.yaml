@@ -1,0 +1,4 @@
+# Docerion header of url_util_unittest.mm.
+type: test
+title: Unit tests for iOS URL utilities
+summary: Tests URL classification helpers including external file references, downloaded files, shareability, chrome scheme checks, and bundle URL schemes.

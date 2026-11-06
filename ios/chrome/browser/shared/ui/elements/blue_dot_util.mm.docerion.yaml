@@ -1,0 +1,4 @@
+# Docerion header of blue_dot_util.mm.
+type: source
+title: Blue dot utility implementation
+summary: Implements layer masking and layout of a blue dot indicator anchored to a button's top trailing corner with RTL support.

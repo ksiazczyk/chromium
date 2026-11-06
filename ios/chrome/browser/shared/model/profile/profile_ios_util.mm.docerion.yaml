@@ -1,0 +1,4 @@
+# Docerion header of profile_ios_util.mm.
+type: source
+title: ProfileIOS personal profile utility implementation
+summary: Implements IsPersonalProfile by comparing the profile name with the personal profile name from the profile attributes storage.

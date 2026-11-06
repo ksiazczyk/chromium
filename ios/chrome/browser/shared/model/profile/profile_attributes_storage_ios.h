@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProfileAttributesStorageIOS class header
+// summary: Declares ProfileAttributesStorageIOS, which stores profile information in local preferences and offers lookup, update and iteration APIs with observer support.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_MODEL_PROFILE_PROFILE_ATTRIBUTES_STORAGE_IOS_H_
 #define IOS_CHROME_BROWSER_SHARED_MODEL_PROFILE_PROFILE_ATTRIBUTES_STORAGE_IOS_H_
 

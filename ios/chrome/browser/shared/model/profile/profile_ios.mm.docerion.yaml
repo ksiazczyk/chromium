@@ -1,0 +1,4 @@
+# Docerion header of profile_ios.mm.
+type: source
+title: ProfileIOS implementation
+summary: Implements ProfileIOS core methods including profile lookup from BrowserState or WebUI, preferences access, off-the-record state paths, and request context creation.

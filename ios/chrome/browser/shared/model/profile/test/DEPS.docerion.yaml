@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the profile test directory
+summary: Lists the headers and directories that the iOS profile test support code is allowed to include.

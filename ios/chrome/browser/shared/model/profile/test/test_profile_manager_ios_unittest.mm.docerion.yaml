@@ -1,0 +1,4 @@
+# Docerion header of test_profile_manager_ios_unittest.mm.
+type: test
+title: Unit tests for TestProfileManagerIOS
+summary: Verifies profile manager construction, adding profiles with a builder, and adding managed profiles for a Gaia ID.

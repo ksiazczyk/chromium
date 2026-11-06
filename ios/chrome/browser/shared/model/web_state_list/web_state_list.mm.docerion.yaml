@@ -1,0 +1,4 @@
+# Docerion header of web_state_list.mm.
+type: source
+title: WebStateList implementation
+summary: Implements WebStateList operations including insertion, detachment, closing, batch operations, and observer notifications for the iOS tab model.

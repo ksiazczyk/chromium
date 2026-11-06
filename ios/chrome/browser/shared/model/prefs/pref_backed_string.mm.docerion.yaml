@@ -1,0 +1,4 @@
+# Docerion header of pref_backed_string.mm.
+type: source
+title: PrefBackedString implementation
+summary: Implements PrefBackedString, an observable NSString property backed by a PrefService string preference that notifies its observer whenever the preference value changes.

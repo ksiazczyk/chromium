@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NotificationObserverBridge header
+// summary: Declares an Objective-C class that observes NSNotifications from C++ via a callback without needing manual unregistration.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_MODEL_UTILS_NOTIFICATION_OBSERVER_BRIDGE_H_
 #define IOS_CHROME_BROWSER_SHARED_MODEL_UTILS_NOTIFICATION_OBSERVER_BRIDGE_H_
 

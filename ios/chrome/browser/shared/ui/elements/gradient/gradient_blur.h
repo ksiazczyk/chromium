@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GradientBlur interface for gradient-masked blur
+// summary: Declares GradientBlur, a UIVisualEffectView whose blur is masked by a gradient scrim and modulated by an effect percentage.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_UI_ELEMENTS_GRADIENT_GRADIENT_BLUR_H_
 #define IOS_CHROME_BROWSER_SHARED_UI_ELEMENTS_GRADIENT_GRADIENT_BLUR_H_
 

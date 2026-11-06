@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Utilities for moving tabs between browsers
+// summary: Declares helpers to move tabs between browsers and to find the browser and index containing a given tab identifier.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_MODEL_WEB_STATE_LIST_BROWSER_UTIL_H_
 #define IOS_CHROME_BROWSER_SHARED_MODEL_WEB_STATE_LIST_BROWSER_UTIL_H_
 

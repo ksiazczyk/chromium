@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS Chrome preference name constants
+// summary: Header declaring the constant names of preferences used across iOS Chrome, covering features such as profiles, notifications, app bar settings, and browser state.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_MODEL_PREFS_PREF_NAMES_H_
 #define IOS_CHROME_BROWSER_SHARED_MODEL_PREFS_PREF_NAMES_H_
 

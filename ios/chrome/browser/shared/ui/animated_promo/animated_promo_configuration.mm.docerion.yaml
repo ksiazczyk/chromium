@@ -1,0 +1,4 @@
+# Docerion header of animated_promo_configuration.mm.
+type: source
+title: AnimatedPromoConfiguration implementation
+summary: Implements the designated initializer of AnimatedPromoConfiguration, storing the animation, button stack, and title configurations.

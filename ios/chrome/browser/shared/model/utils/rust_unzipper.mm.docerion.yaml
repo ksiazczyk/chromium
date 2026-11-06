@@ -1,0 +1,4 @@
+# Docerion header of rust_unzipper.mm.
+type: source
+title: Rust unzipper implementation
+summary: Implements asynchronous in-memory unzipping by calling the Rust unzip FFI on a background thread and converting results to NSData arrays or NSError objects.

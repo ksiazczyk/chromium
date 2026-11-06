@@ -1,0 +1,4 @@
+# Docerion header of animation_brick_configuration.mm.
+type: source
+title: AnimationBrickConfiguration implementation
+summary: Implements AnimationBrickConfiguration and defaults useLegacyDarkMode to YES for legacy dark mode animation lookup.

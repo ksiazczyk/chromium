@@ -1,0 +1,4 @@
+# Docerion header of animated_promo_view_controller.mm.
+type: source
+title: AnimatedPromoViewController implementation
+summary: Implements AnimatedPromoViewController, laying out the animation and alert screen and adapting to size class and dark mode changes.

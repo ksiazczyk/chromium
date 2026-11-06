@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declarations of branded and custom image name constants
+// summary: Declares NSString constants for Chrome-branded, Chromium, and custom image names, selected via the IOS_USE_BRANDED_ASSETS build flag.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_UI_IMAGE_IMAGE_NAMES_H_
 #define IOS_CHROME_BROWSER_SHARED_UI_IMAGE_IMAGE_NAMES_H_
 

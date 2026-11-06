@@ -1,0 +1,4 @@
+# Docerion header of crossfade_label.mm.
+type: source
+title: Crossfade label implementation
+summary: Implements crossfade setup, animation, and cleanup using an overlay label copy added to the superview.

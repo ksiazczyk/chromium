@@ -1,0 +1,4 @@
+# Docerion header of web_state_opener_unittest.mm.
+type: test
+title: WebStateOpener unit tests
+summary: Unit tests verifying WebStateOpener construction with a null opener, a default navigation index taken from the opener, and an explicit navigation index.

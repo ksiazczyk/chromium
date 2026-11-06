@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeBrowserObserver test helper header
+// summary: Declares FakeBrowserObserver, a BrowserObserver test double that observes a browser and records whether BrowserDestroyed was received.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_MODEL_BROWSER_TEST_FAKE_BROWSER_OBSERVER_H_
 #define IOS_CHROME_BROWSER_SHARED_MODEL_BROWSER_TEST_FAKE_BROWSER_OBSERVER_H_
 

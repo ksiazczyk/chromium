@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProfileKeyedServiceFactoryIOS implementation
+// summary: Implements ProfileKeyedServiceFactoryIOS behavior for testing factories, dependencies, profile preference registration, and service creation per profile.
+// ---
+
 #include "ios/chrome/browser/shared/model/profile/profile_keyed_service_factory_ios.h"
 
 #include "base/check.h"

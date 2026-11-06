@@ -1,0 +1,4 @@
+# Docerion header of test_profile_manager_ios.mm.
+type: test
+title: TestProfileManagerIOS implementation
+summary: Implements TestProfileManagerIOS, managing test profiles, profile attributes storage, and the account profile mapper.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ProfileAttributesIOS unit tests
+// summary: Unit tests covering ProfileAttributesIOS factory methods, authentication info, attached Gaia IDs, active time, session-scoped prefs and storage access.
+// ---
+
 #include "ios/chrome/browser/shared/model/profile/profile_attributes_ios.h"
 
 #include <string_view>

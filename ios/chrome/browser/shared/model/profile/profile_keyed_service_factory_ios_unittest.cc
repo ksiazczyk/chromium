@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ProfileKeyedServiceFactoryIOS unit tests
+// summary: Parameterized tests that exercise a dummy keyed service factory across profile selection, service creation, and testing creation traits.
+// ---
+
 #include "ios/chrome/browser/shared/model/profile/profile_keyed_service_factory_ios.h"
 
 #include <string_view>

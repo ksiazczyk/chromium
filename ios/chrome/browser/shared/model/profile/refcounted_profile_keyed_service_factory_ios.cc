@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Refcounted profile keyed service factory implementation
+// summary: Implements RefcountedProfileKeyedServiceFactoryIOS, wiring refcounted keyed service factories to profiles, testing factories, and dependency registration.
+// ---
+
 #include "ios/chrome/browser/shared/model/profile/refcounted_profile_keyed_service_factory_ios.h"
 
 #include "base/check.h"

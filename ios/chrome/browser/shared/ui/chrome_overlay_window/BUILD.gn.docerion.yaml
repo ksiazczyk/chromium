@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Chrome overlay window build configuration
+summary: Defines the chrome_overlay_window source set and its unit test target, listing sources, dependencies, and the UIKit framework for the iOS Chromium build.

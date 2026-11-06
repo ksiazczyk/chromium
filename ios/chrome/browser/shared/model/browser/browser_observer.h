@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserObserver interface
+// summary: Defines the BrowserObserver interface for objects interested in Browser events, notably a callback invoked when the Browser is destroyed.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_MODEL_BROWSER_BROWSER_OBSERVER_H_
 #define IOS_CHROME_BROWSER_SHARED_MODEL_BROWSER_BROWSER_OBSERVER_H_
 

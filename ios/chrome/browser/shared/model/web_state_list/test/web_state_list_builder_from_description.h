@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebStateList builder from description helper
+// summary: Declares a test helper that builds a WebStateList from a compact string description of pinned tabs, active tab and tab groups, and maps identifiers to tabs and groups.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_MODEL_WEB_STATE_LIST_TEST_WEB_STATE_LIST_BUILDER_FROM_DESCRIPTION_H_
 #define IOS_CHROME_BROWSER_SHARED_MODEL_WEB_STATE_LIST_TEST_WEB_STATE_LIST_BUILDER_FROM_DESCRIPTION_H_
 

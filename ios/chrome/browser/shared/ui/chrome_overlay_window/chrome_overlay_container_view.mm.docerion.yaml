@@ -1,0 +1,4 @@
+# Docerion header of chrome_overlay_container_view.mm.
+type: source
+title: Chrome overlay container view implementation
+summary: Implements ChromeOverlayContainerView by overriding hitTest so the container itself never intercepts touches and only subviews handle them.

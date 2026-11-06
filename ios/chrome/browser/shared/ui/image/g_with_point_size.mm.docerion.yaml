@@ -1,0 +1,4 @@
+# Docerion header of g_with_point_size.mm.
+type: source
+title: GWithPointSize implementation loading branded Super G icons
+summary: Implements GWithPointSize by loading the branded Super G icon image for the requested size when branded assets are enabled, otherwise returning nil.

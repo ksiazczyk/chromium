@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserUserData template base class header
+// summary: Defines a template base class for objects attached to and scoped to a Browser's lifetime, with helpers to create, retrieve, and remove such instances.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_MODEL_BROWSER_BROWSER_USER_DATA_H_
 #define IOS_CHROME_BROWSER_SHARED_MODEL_BROWSER_BROWSER_USER_DATA_H_
 

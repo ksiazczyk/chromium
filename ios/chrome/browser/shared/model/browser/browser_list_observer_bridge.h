@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserListObserverBridge header
+// summary: Declares the BrowserListObserver Objective-C protocol and a C++ bridge that forwards BrowserList events to an observer the bridge does not own.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_MODEL_BROWSER_BROWSER_LIST_OBSERVER_BRIDGE_H_
 #define IOS_CHROME_BROWSER_SHARED_MODEL_BROWSER_BROWSER_LIST_OBSERVER_BRIDGE_H_
 

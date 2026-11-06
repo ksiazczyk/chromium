@@ -1,0 +1,4 @@
+# Docerion header of mutable_profile_attributes_storage_ios_unittest.mm.
+type: test
+title: MutableProfileAttributesStorageIOS unit tests
+summary: Unit tests covering adding profiles, marking profiles for deletion and attribute handling in the mutable profile attributes storage.

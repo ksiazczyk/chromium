@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crossfade label interface
+// summary: Declares a UILabel subclass that crossfades with an overlaid copy to animate normally non-animatable attributes such as text color.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_UI_ELEMENTS_CROSSFADE_LABEL_H_
 #define IOS_CHROME_BROWSER_SHARED_UI_ELEMENTS_CROSSFADE_LABEL_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of browser_util.mm.
+type: source
+title: Browser tab moving utilities implementation
+summary: Implements helpers to move tabs between browsers, including snapshot migration and reordering within the same WebStateList.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build config for shared UI branded assets
+summary: Defines GN targets and a build flag that selects branded asset sources for the shared UI code.

@@ -1,0 +1,4 @@
+# Docerion header of list_item_unittest.mm.
+type: test
+title: Unit tests for ListItem accessors
+summary: Verifies that ListItem initializes with the given type and that the type can be changed through the Controller category setter.

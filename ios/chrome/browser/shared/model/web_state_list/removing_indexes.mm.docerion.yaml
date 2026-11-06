@@ -1,0 +1,4 @@
+# Docerion header of removing_indexes.mm.
+type: source
+title: RemovingIndexes implementation
+summary: Implements the RemovingIndexes class with storage variants that track removed tab indexes and remap indexes and tab group ranges after removal.

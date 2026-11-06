@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for profile model sources
+summary: Defines source_set targets and dependencies for the profile, features, keyed service factory, incognito session tracker, utils and unit tests.

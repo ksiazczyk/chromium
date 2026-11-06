@@ -1,0 +1,4 @@
+# Docerion header of windowed_container_view_unittest.mm.
+type: test
+title: WindowedContainerView unit tests
+summary: Unit tests verifying that WindowedContainerView adds itself hidden to the key window and resigns the first responder status of its subviews.

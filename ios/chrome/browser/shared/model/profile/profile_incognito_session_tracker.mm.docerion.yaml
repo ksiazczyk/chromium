@@ -1,0 +1,4 @@
+# Docerion header of profile_incognito_session_tracker.mm.
+type: source
+title: ProfileIncognitoSessionTracker implementation
+summary: Implements ProfileIncognitoSessionTracker by observing the BrowserList and incognito WebStateLists to report changes in open off-the-record tab presence.

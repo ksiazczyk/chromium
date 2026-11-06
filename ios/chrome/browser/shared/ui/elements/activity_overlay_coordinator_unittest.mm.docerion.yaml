@@ -1,0 +1,4 @@
+# Docerion header of activity_overlay_coordinator_unittest.mm.
+type: test
+title: Activity overlay coordinator unit tests
+summary: Verifies that starting and stopping the coordinator presents and dismisses the activity overlay view.

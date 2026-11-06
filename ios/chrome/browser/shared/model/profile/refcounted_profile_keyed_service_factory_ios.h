@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RefcountedProfileKeyedServiceFactoryIOS interface
+// summary: Declares RefcountedProfileKeyedServiceFactoryIOS, a ProfileIOS-specific base class for refcounted keyed service factories with trait-based configuration.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_MODEL_PROFILE_REFCOUNTED_PROFILE_KEYED_SERVICE_FACTORY_IOS_H_
 #define IOS_CHROME_BROWSER_SHARED_MODEL_PROFILE_REFCOUNTED_PROFILE_KEYED_SERVICE_FACTORY_IOS_H_
 

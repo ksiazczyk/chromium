@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the browser model directory
+summary: Defines GN source sets for the browser model, its utilities, and unit tests, listing sources and dependencies for each.
