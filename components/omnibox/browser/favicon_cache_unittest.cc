@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FaviconCache unit tests
+// summary: Unit tests for the omnibox favicon cache, covering synchronous delivery, pending callback coalescing, and cache invalidation via mocked FaviconService responses.
+// ---
+
 #include "components/omnibox/browser/favicon_cache.h"
 
 #include "base/functional/bind.h"

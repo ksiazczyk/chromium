@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote suggestions service implementation
+// summary: Implements fetching omnibox suggestions from a search provider's suggest endpoint, including request building, metrics logging, and response handling for search, zero-suggest, and related request types.
+// ---
+
 #include "components/omnibox/browser/remote_suggestions_service.h"
 
 #include <map>

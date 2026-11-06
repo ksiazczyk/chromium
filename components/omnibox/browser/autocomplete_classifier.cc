@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autocomplete classifier implementation
+// summary: Implements omnibox input classification and computes the default set of autocomplete providers per platform and feature flags.
+// ---
+
 #include "components/omnibox/browser/autocomplete_classifier.h"
 
 #include <utility>

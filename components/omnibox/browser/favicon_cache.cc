@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox favicon cache
+// summary: Caches favicons for omnibox suggestions, fetching them by page or icon URL via the favicon service with an LRU cache sized to avoid refetches while the user types.
+// ---
+
 #include "components/omnibox/browser/favicon_cache.h"
 
 #include <tuple>

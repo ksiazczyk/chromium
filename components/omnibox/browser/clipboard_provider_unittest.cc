@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Clipboard provider unit tests
+// summary: Unit tests for ClipboardProvider that set fake clipboard URL, text, and image content and verify the resulting autocomplete matches and suppression behavior.
+// ---
+
 #include "components/omnibox/browser/clipboard_provider.h"
 
 #include <memory>

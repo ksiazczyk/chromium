@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Most Visited Sites autocomplete provider header
+// summary: Declares MostVisitedSitesProvider, an AutocompleteProvider that serves most frequently visited URLs as zero-prefix suggestions.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_MOST_VISITED_SITES_PROVIDER_H_
 #define COMPONENTS_OMNIBOX_BROWSER_MOST_VISITED_SITES_PROVIDER_H_
 

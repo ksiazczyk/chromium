@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Base search provider unit tests
+// summary: Unit tests for BaseSearchProvider covering search suggestion creation, prefetch and prerender flags, and match handling with a mock provider client.
+// ---
+
 #include "components/omnibox/browser/base_search_provider.h"
 
 #include <algorithm>

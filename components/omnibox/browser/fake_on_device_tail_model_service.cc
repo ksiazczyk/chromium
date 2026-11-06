@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake on-device tail model service implementation
+// summary: Implements a fake on-device tail model service that lazily creates the model task runner and executor when the omnibox tail suggest model is updated.
+// ---
+
 #include "components/omnibox/browser/fake_on_device_tail_model_service.h"
 
 #include <utility>

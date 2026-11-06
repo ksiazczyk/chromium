@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: history_fuzzy_provider_unittest.cc
+// summary: Unit tests verifying the fuzzy matching correction algorithm, including tolerance schedules and trie lookups for corrected inputs.
+// ---
+
 
 #include "components/omnibox/browser/history_fuzzy_provider.h"
 

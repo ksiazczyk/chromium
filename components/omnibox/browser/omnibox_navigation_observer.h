@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox navigation observer interface
+// summary: Declares the OmniboxNavigationObserver interface that lets embedders monitor omnibox navigations and detect pending loads.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_OMNIBOX_NAVIGATION_OBSERVER_H_
 #define COMPONENTS_OMNIBOX_BROWSER_OMNIBOX_NAVIGATION_OBSERVER_H_
 

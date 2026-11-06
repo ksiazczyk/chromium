@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shortcuts database header
+// summary: Declares the ShortcutsDatabase class and shortcut data structures for persisting previously selected omnibox entries in SQLite.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_SHORTCUTS_DATABASE_H_
 #define COMPONENTS_OMNIBOX_BROWSER_SHORTCUTS_DATABASE_H_
 

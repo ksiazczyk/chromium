@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutocompleteSchemeClassifier interface
+// summary: Declares an interface letting embedders classify omnibox input as URL or query based on an explicitly typed scheme other than http, https or file.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_AUTOCOMPLETE_SCHEME_CLASSIFIER_H_
 #define COMPONENTS_OMNIBOX_BROWSER_AUTOCOMPLETE_SCHEME_CLASSIFIER_H_
 

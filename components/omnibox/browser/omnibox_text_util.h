@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox text utility header
+// summary: Declares omnibox text helpers for stripping JavaScript schemas, sanitizing text for paste, and adjusting copied text with URL detection for the clipboard.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_OMNIBOX_TEXT_UTIL_H_
 #define COMPONENTS_OMNIBOX_BROWSER_OMNIBOX_TEXT_UTIL_H_
 

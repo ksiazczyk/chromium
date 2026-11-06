@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote suggestions service
+// summary: Declares RemoteSuggestionsService, a keyed service that fetches suggestions from a search provider's suggest endpoint, with request type and event enums used by several omnibox providers.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_REMOTE_SUGGESTIONS_SERVICE_H_
 #define COMPONENTS_OMNIBOX_BROWSER_REMOTE_SUGGESTIONS_SERVICE_H_
 

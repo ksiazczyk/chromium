@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake autocomplete provider client for tests
+// summary: Declares a fully operational AutocompleteProviderClient for tests, supplying prefs, history, bookmarks, tab groups, shortcuts and suggestion services.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_FAKE_AUTOCOMPLETE_PROVIDER_CLIENT_H_
 #define COMPONENTS_OMNIBOX_BROWSER_FAKE_AUTOCOMPLETE_PROVIDER_CLIENT_H_
 

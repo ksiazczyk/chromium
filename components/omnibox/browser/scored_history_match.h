@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scored history match
+// summary: Declares the ScoredHistoryMatch struct, which extends history matches with relevance scores, URL matching signals, and scoring signal types for omnibox history suggestions.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_SCORED_HISTORY_MATCH_H_
 #define COMPONENTS_OMNIBOX_BROWSER_SCORED_HISTORY_MATCH_H_
 

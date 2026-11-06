@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: History provider unit tests
+// summary: Unit tests for the omnibox HistoryProvider autocomplete base class, currently containing only a placeholder creation test built on a fake provider client and history service.
+// ---
+
 #include <memory>
 
 #include "base/strings/utf_string_conversions.h"

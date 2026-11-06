@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-memory URL index implementation
+// summary: Implements the in-memory index of history URLs, including scheme allowlist initialization and background tasks that rebuild index data from the history database.
+// ---
+
 #include "components/omnibox/browser/in_memory_url_index.h"
 
 #include <inttypes.h>

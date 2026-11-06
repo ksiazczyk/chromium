@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Brave Search suggestion parser implementation
+// summary: Implements parsing of Brave Search rich suggest responses, mapping entity, calculator, and other vertical suggestions into autocomplete results with image and answer handling.
+// ---
+
 #include "components/omnibox/browser/brave_search_suggestion_parser.h"
 
 #include <optional>

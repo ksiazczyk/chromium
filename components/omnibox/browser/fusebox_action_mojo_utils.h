@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FuseboxAction conversion header
+// summary: Declares SyncFuseboxActionProtoToMojo, which converts FuseboxAction protos into FuseboxAction Mojo objects.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_FUSEBOX_ACTION_MOJO_UTILS_H_
 #define COMPONENTS_OMNIBOX_BROWSER_FUSEBOX_ACTION_MOJO_UTILS_H_
 

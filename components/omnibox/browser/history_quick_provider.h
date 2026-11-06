@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HistoryQuickProvider class declaration
+// summary: Declares the HistoryQuickProvider autocomplete provider, which quickly supplies matching suggestions from recently or frequently visited history sites.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_HISTORY_QUICK_PROVIDER_H_
 #define COMPONENTS_OMNIBOX_BROWSER_HISTORY_QUICK_PROVIDER_H_
 

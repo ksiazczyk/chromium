@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutocompleteControllerConfig struct
+// summary: Defines a struct of constant settings such as provider types, stop timer duration, and ML scoring toggles used to configure AutocompleteController behavior per embedder.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_AUTOCOMPLETE_CONTROLLER_CONFIG_H_
 #define COMPONENTS_OMNIBOX_BROWSER_AUTOCOMPLETE_CONTROLLER_CONFIG_H_
 

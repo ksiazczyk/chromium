@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Remote suggestions service unit tests
+// summary: Unit tests for RemoteSuggestionsService verifying request URLs and parameters, observer notifications, and response handling with a test URL loader factory.
+// ---
+
 #include "components/omnibox/browser/remote_suggestions_service.h"
 
 #include <memory>

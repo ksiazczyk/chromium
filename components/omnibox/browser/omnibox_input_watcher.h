@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox input watcher header
+// summary: Declares OmniboxInputWatcher, a KeyedService that observes omnibox input and notifies observers, part of the Omnibox Extensions API.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_OMNIBOX_INPUT_WATCHER_H_
 #define COMPONENTS_OMNIBOX_BROWSER_OMNIBOX_INPUT_WATCHER_H_
 

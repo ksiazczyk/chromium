@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark scoring signals annotator implementation
+// summary: Implements BookmarkScoringSignalsAnnotator, filling eligible autocomplete matches with bookmark-derived scoring signals such as title match positions and bookmark counts per URL.
+// ---
+
 #include "components/omnibox/browser/bookmark_scoring_signals_annotator.h"
 
 #include <algorithm>

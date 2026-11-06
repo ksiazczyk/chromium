@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark provider implementation
+// summary: Implements the autocomplete provider that suggests bookmarks matching the user's input using the bookmark model's query matching and scoring logic.
+// ---
+
 #include "components/omnibox/browser/bookmark_provider.h"
 
 #include <stddef.h>

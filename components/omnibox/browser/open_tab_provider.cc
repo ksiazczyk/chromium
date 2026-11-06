@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Open tab provider implementation
+// summary: Implements an autocomplete provider that matches omnibox input against open browser tabs, scoring matches by title and URL terms with Android-specific handling.
+// ---
+
 #include "components/omnibox/browser/open_tab_provider.h"
 
 #include <algorithm>

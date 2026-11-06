@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unit tests for the AIM eligibility service
+// summary: Tests AIM eligibility service behavior using mock services, histogram testers, and identity and network test environments.
+// ---
+
 #include "components/omnibox/browser/aim_eligibility_service.h"
 
 #include <memory>

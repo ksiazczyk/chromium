@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search suggestion parser declaration
+// summary: Declares the SearchSuggestionParser and its Result classes used to turn remote Suggest responses into relevance-ranked autocomplete results.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_SEARCH_SUGGESTION_PARSER_H_
 #define COMPONENTS_OMNIBOX_BROWSER_SEARCH_SUGGESTION_PARSER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake autocomplete controller header
+// summary: Declares a fake autocomplete controller and observer used to simulate autocomplete passes and verify notifications and stops in tests.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_FAKE_AUTOCOMPLETE_CONTROLLER_H_
 #define COMPONENTS_OMNIBOX_BROWSER_FAKE_AUTOCOMPLETE_CONTROLLER_H_
 

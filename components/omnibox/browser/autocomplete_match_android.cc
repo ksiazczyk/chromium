@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android JNI support for AutocompleteMatch
+// summary: Builds Java objects from AutocompleteMatch data so the Android UI can display omnibox suggestions.
+// ---
+
 #include "components/omnibox/browser/autocomplete_match.h"
 
 #include <vector>

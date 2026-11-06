@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shortcuts database implementation
+// summary: Implements the SQLite-backed shortcuts database with schema versioning, corruption recovery and shortcut add, update and delete operations.
+// ---
+
 #include "components/omnibox/browser/shortcuts_database.h"
 
 #include <string>

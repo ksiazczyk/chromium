@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox field trial implementation
+// summary: Implements omnibox field trial helpers, parsing variation parameters for HUP scoring buckets, ML config, and other experiment settings.
+// ---
+
 #include "components/omnibox/browser/omnibox_field_trial.h"
 
 #include <algorithm>

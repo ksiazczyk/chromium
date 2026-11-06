@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-memory URL index header
+// summary: Declares InMemoryURLIndex, a keyed service that keeps an indexed portion of the URL history database in memory for fast omnibox lookups and inline autocomplete.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_IN_MEMORY_URL_INDEX_H_
 #define COMPONENTS_OMNIBOX_BROWSER_IN_MEMORY_URL_INDEX_H_
 

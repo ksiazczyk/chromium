@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: History test utility implementation
+// summary: Implements a helper that fills a history service's database with fake URL rows and corresponding typed and link visits for use in omnibox tests.
+// ---
+
 #include "components/omnibox/browser/history_test_util.h"
 
 #include <memory>

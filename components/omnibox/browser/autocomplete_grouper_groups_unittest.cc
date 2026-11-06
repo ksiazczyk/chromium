@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for autocomplete grouper groups
+// summary: Verifies that Group enforces per-GroupId limits, total limits, and default-match restrictions when adding autocomplete matches.
+// ---
+
 #include "components/omnibox/browser/autocomplete_grouper_groups.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

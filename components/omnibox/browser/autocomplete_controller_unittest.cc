@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AutocompleteController unit tests
+// summary: Unit tests for AutocompleteController behavior, covering result updates, searchbox stats, session state, and match handling with fake providers and clients.
+// ---
+
 #include "components/omnibox/browser/autocomplete_controller.h"
 
 #include <memory>

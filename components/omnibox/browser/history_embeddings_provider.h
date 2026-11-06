@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: history_embeddings_provider.h
+// summary: Declares the HistoryEmbeddingsProvider class, its match and answer creation helpers, and state for starter pack keyword handling.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_HISTORY_EMBEDDINGS_PROVIDER_H_
 #define COMPONENTS_OMNIBOX_BROWSER_HISTORY_EMBEDDINGS_PROVIDER_H_
 

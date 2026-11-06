@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: In-memory URL index types unit tests
+// summary: Unit tests for string-to-word splitting, word start offsets, and the match sorting and deoverlapping helpers of the in-memory URL index types.
+// ---
+
 #include "components/omnibox/browser/in_memory_url_index_types.h"
 
 #include <stddef.h>

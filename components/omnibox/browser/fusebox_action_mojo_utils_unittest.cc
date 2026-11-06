@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fusebox action Mojo utils unit tests
+// summary: Unit tests verifying that FuseboxAction protobuf fields convert correctly to Mojo structs, covering enum mappings and null handling for missing fields.
+// ---
+
 #include "components/omnibox/browser/fusebox_action_mojo_utils.h"
 
 #include <sstream>

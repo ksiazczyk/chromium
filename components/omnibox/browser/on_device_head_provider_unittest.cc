@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: On-device head provider unit tests
+// summary: Tests the on-device head provider using a fake client plus test head and tail models, covering suggestion flow and model updates.
+// ---
+
 #include "components/omnibox/browser/on_device_head_provider.h"
 
 #include <memory>

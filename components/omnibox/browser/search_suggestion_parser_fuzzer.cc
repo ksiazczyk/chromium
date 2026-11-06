@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Search suggestion parser fuzzer
+// summary: Fuzz target that feeds arbitrary JSON payloads into SearchSuggestionParser to verify robust parsing of Suggest responses.
+// ---
+
 #include "components/omnibox/browser/search_suggestion_parser.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: On-device tail model executor unit tests
+// summary: Unit tests exercising beam search, caching, and tokenization behavior of the tail model executor using test model files and metadata.
+// ---
+
 #include "components/omnibox/browser/on_device_tail_model_executor.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Searchbox utilities header
+// summary: Declares omnibox searchbox helpers including keyword label names and an interaction metrics tracker for focus and navigation logging.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_SEARCHBOX_UTILS_H_
 #define COMPONENTS_OMNIBOX_BROWSER_SEARCHBOX_UTILS_H_
 

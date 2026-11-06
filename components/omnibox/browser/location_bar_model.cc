@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Location bar model base implementation
+// summary: Implements LocationBarModel's unowned user data handling so consecutive models replace each other in a window's user data host.
+// ---
+
 #include "components/omnibox/browser/location_bar_model.h"
 
 DEFINE_USER_DATA(LocationBarModel);

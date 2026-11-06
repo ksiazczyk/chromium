@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Enterprise search aggregator provider unit tests
+// summary: Unit tests for the enterprise search aggregator provider, covering request handling, response parsing, caching and histogram logging.
+// ---
+
 #include "components/omnibox/browser/enterprise_search_aggregator_provider.h"
 
 #include <algorithm>

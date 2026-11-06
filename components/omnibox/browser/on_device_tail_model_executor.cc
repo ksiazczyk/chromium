@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: On-device tail model executor implementation
+// summary: Implements the TFLite-based tail suggest executor that runs a beam search over an LSTM model to generate query completions for a typed prefix.
+// ---
+
 #include "components/omnibox/browser/on_device_tail_model_executor.h"
 
 #include <cmath>

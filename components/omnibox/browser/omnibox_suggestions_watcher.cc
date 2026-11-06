@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox suggestions watcher implementation
+// summary: Implements the OmniboxSuggestionsWatcher KeyedService, managing an observer list and notifying observers when extension omnibox suggestions are ready or the default suggestion changes.
+// ---
+
 #include "omnibox_suggestions_watcher.h"
 #include "base/observer_list.h"
 #include "build/build_config.h"

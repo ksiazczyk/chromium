@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise search aggregator suggestions service implementation
+// summary: Implements the keyed service that builds JSON request bodies and sends authenticated suggestion requests to the enterprise search aggregator endpoint.
+// ---
+
 #include "components/omnibox/browser/enterprise_search_aggregator_suggestions_service.h"
 
 #include <memory>

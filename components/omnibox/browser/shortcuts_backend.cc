@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shortcuts backend implementation
+// summary: Implements the omnibox shortcuts backend that adds, updates, expires and deletes shortcuts in the database on background threads.
+// ---
+
 #include "components/omnibox/browser/shortcuts_backend.h"
 
 #include <stddef.h>

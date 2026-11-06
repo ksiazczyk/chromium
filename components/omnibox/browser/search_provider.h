@@ -8,6 +8,12 @@
 // history, and search suggestions.  An instance of it gets created and
 // managed by the autocomplete controller.
 
+// ---docerion
+// type: source
+// title: Search provider class declaration
+// summary: Declares the SearchProvider autocomplete provider responsible for search suggestions, search history, and keyword verbatim matches.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_SEARCH_PROVIDER_H_
 #define COMPONENTS_OMNIBOX_BROWSER_SEARCH_PROVIDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Most Visited Sites autocomplete provider implementation
+// summary: Implements the autocomplete provider that turns most visited sites into zero-prefix omnibox suggestions, with blocklisting, deduping, and metrics.
+// ---
+
 #include "components/omnibox/browser/most_visited_sites_provider.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Location bar model implementation unit tests
+// summary: Unit tests for LocationBarModelImpl using test and mock delegates to verify URL formatting, elision, security display, and contextual tasks behavior.
+// ---
+
 #include "components/omnibox/browser/location_bar_model_impl.h"
 
 #include "base/strings/utf_string_conversions.h"

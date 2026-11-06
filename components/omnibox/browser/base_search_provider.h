@@ -6,6 +6,12 @@
 // providers. Search provider and zero suggest provider both use it for common
 // functionality.
 
+// ---docerion
+// type: source
+// title: Base search provider class declaration
+// summary: Declares the abstract base class shared by search-based autocomplete providers such as the search provider and zero suggest provider.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_BASE_SEARCH_PROVIDER_H_
 #define COMPONENTS_OMNIBOX_BROWSER_BASE_SEARCH_PROVIDER_H_
 

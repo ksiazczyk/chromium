@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shortcuts backend header
+// summary: Declares the ShortcutsBackend keyed service managing shortcut database access, observer notifications and the shortcut lookup map.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_SHORTCUTS_BACKEND_H_
 #define COMPONENTS_OMNIBOX_BROWSER_SHORTCUTS_BACKEND_H_
 

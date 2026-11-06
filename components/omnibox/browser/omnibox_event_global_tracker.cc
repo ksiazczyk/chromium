@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox event global tracker implementation
+// summary: Implements the OmniboxEventGlobalTracker singleton that notifies registered observers when a URL is opened from the omnibox.
+// ---
+
 #include "components/omnibox/browser/omnibox_event_global_tracker.h"
 
 #include "base/memory/singleton.h"

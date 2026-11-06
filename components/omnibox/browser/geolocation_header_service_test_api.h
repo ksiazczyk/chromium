@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Geolocation header service test API
+// summary: Test helper exposing GeolocationHeaderService internals such as cached location, location age, and binding state for use in unit tests.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_GEOLOCATION_HEADER_SERVICE_TEST_API_H_
 #define COMPONENTS_OMNIBOX_BROWSER_GEOLOCATION_HEADER_SERVICE_TEST_API_H_
 

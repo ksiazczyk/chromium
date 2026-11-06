@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autocomplete enums for stop reasons and keyword state
+// summary: Defines enums describing why autocomplete is stopped (clobbered, interaction, inactivity) and the omnibox keyword mode state.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_AUTOCOMPLETE_ENUMS_H_
 #define COMPONENTS_OMNIBOX_BROWSER_AUTOCOMPLETE_ENUMS_H_
 

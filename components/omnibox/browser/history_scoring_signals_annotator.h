@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HistoryScoringSignalsAnnotator class declaration
+// summary: Declares the HistoryScoringSignalsAnnotator, which adds history-based scoring signals like typed count and title match length to eligible autocomplete suggestions.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_HISTORY_SCORING_SIGNALS_ANNOTATOR_H_
 #define COMPONENTS_OMNIBOX_BROWSER_HISTORY_SCORING_SIGNALS_ANNOTATOR_H_
 

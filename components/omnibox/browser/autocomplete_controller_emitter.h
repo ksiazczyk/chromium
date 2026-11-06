@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autocomplete controller emitter header
+// summary: Declares a KeyedService that observes multiple autocomplete controller instances and forwards their notifications to its own observers, bridging the omnibox internals WebUI page with controller usages on Views, NTP and Android.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_AUTOCOMPLETE_CONTROLLER_EMITTER_H_
 #define COMPONENTS_OMNIBOX_BROWSER_AUTOCOMPLETE_CONTROLLER_EMITTER_H_
 

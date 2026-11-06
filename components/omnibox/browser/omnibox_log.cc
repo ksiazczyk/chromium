@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox log implementation
+// summary: Implements the OmniboxLog constructor and destructor, initializing fields that describe an omnibox interaction for metrics logging.
+// ---
+
 #include "components/omnibox/browser/omnibox_log.h"
 
 #include "components/omnibox/browser/autocomplete_match.h"

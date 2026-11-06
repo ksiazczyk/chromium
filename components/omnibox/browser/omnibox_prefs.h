@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox prefs header
+// summary: Declares omnibox preference registration functions, the SuggestionGroupVisibility enum, and zero-suggest cache helpers.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_OMNIBOX_PREFS_H_
 #define COMPONENTS_OMNIBOX_BROWSER_OMNIBOX_PREFS_H_
 

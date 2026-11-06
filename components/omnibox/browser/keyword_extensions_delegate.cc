@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyword extensions delegate dummy implementation
+// summary: Provides the no-op default implementation of KeywordExtensionsDelegate used when extension keyword support is unavailable.
+// ---
+
 #include "components/omnibox/browser/keyword_extensions_delegate.h"
 
 KeywordExtensionsDelegate::KeywordExtensionsDelegate(

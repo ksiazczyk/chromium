@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bookmark scoring signals annotator unit tests
+// summary: Unit tests for BookmarkScoringSignalsAnnotator that verify bookmark-derived scoring signals on URL suggestions using a fake provider client, history service, and bookmark model.
+// ---
+
 #include "components/omnibox/browser/bookmark_scoring_signals_annotator.h"
 
 #include <memory>

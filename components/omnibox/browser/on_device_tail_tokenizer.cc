@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: On-device tail tokenizer implementation
+// summary: Implements vocabulary loading and string-to-token-ID mapping for the on-device tail suggest model, including control tokens and ambiguous token handling.
+// ---
+
 #include "components/omnibox/browser/on_device_tail_tokenizer.h"
 
 #include <algorithm>

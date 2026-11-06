@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: history_embeddings_provider.cc
+// summary: Implements the omnibox autocomplete provider that queries history embeddings search and turns results and generated answers into matches.
+// ---
+
 #include "history_embeddings_provider.h"
 
 #include <algorithm>

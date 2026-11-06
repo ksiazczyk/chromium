@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Document provider unit tests
+// summary: Unit tests for DocumentProvider using a fake subclass to exercise eligibility rules, response parsing, deduping URLs, backoff, and match updates.
+// ---
+
 #include "components/omnibox/browser/document_provider.h"
 
 #include <algorithm>

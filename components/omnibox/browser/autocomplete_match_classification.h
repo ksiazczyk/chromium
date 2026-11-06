@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autocomplete match classification declarations
+// summary: Declares functions that find term matches and build classifications for styling omnibox suggestion text.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_AUTOCOMPLETE_MATCH_CLASSIFICATION_H_
 #define COMPONENTS_OMNIBOX_BROWSER_AUTOCOMPLETE_MATCH_CLASSIFICATION_H_
 

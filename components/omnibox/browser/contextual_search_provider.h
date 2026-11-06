@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual search provider header
+// summary: Declares the ContextualSearchProvider class, an autocomplete provider for searches based on page context, mainly invoked via the '@page' keyword mode.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_CONTEXTUAL_SEARCH_PROVIDER_H_
 #define COMPONENTS_OMNIBOX_BROWSER_CONTEXTUAL_SEARCH_PROVIDER_H_
 

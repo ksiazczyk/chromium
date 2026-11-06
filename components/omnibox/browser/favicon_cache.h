@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FaviconCache header
+// summary: Declares FaviconCache, an LRU cache of favicons keyed by page and icon URL that serves omnibox suggestions synchronously and invalidates entries on history updates.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_FAVICON_CACHE_H_
 #define COMPONENTS_OMNIBOX_BROWSER_FAVICON_CACHE_H_
 

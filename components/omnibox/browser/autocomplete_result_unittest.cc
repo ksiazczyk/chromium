@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for AutocompleteResult
+// summary: Unit tests covering AutocompleteResult behavior such as match limits, grouping, tail suggestion culling, deduplication and feature-driven limits.
+// ---
+
 #include "components/omnibox/browser/autocomplete_result.h"
 
 #include <stddef.h>

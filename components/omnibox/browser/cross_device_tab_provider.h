@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cross-device tab autocomplete provider header
+// summary: Declares the CrossDeviceTabProvider class that suggests tabs from other devices, including its eligibility enum, timestamp-based activation criteria, and interaction metric recording.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_CROSS_DEVICE_TAB_PROVIDER_H_
 #define COMPONENTS_OMNIBOX_BROWSER_CROSS_DEVICE_TAB_PROVIDER_H_
 

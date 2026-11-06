@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local history zero suggest provider class declaration
+// summary: Declares LocalHistoryZeroSuggestProvider, an autocomplete provider returning zero-prefix query suggestions from local history when Google is the default search engine.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_LOCAL_HISTORY_ZERO_SUGGEST_PROVIDER_H_
 #define COMPONENTS_OMNIBOX_BROWSER_LOCAL_HISTORY_ZERO_SUGGEST_PROVIDER_H_
 

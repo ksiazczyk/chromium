@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HistoryScoringSignalsAnnotator unit tests
+// summary: Unit tests for the HistoryScoringSignalsAnnotator that fill a test history database with URLs and keyword search terms and verify annotation of autocomplete results.
+// ---
+
 #include "components/omnibox/browser/history_scoring_signals_annotator.h"
 
 #include "base/test/task_environment.h"

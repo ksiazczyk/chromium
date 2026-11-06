@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutocompleteResult implementation
+// summary: Implements the AutocompleteResult class that aggregates, dedupes, groups and ranks omnibox suggestions from all providers, including platform-specific limits and pedal actions.
+// ---
+
 #include "components/omnibox/browser/autocomplete_result.h"
 
 #include <algorithm>

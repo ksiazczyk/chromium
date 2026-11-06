@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Geolocation header service header
+// summary: Declares the GeolocationHeaderService KeyedService and outcome enums for generating the X-Geo header after permission checks for DSE navigations.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_GEOLOCATION_HEADER_SERVICE_H_
 #define COMPONENTS_OMNIBOX_BROWSER_GEOLOCATION_HEADER_SERVICE_H_
 

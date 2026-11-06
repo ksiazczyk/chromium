@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension suggestion implementation
+// summary: Implements constructors and destructors for the ExtensionSuggestion struct and its Action action-button struct.
+// ---
+
 #include "components/omnibox/browser/extension_suggestion.h"
 
 ExtensionSuggestion::Action::Action(std::string name,

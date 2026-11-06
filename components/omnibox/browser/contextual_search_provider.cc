@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual search provider implementation
+// summary: Implements the ContextualSearchProvider, which fetches page-context search suggestions from the remote suggest server and builds Lens entrypoint actions and the omnibox toolbelt.
+// ---
+
 #include "components/omnibox/browser/contextual_search_provider.h"
 
 #include <stddef.h>

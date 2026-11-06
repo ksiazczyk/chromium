@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: On-device model update listener unit tests
+// summary: Unit tests verifying that the listener records the head model directory and filename when a model update is reported.
+// ---
+
 #include "components/omnibox/browser/on_device_model_update_listener.h"
 
 #include "base/files/file_path.h"

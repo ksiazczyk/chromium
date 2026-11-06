@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History URL provider implementation
+// summary: Implements the omnibox autocomplete provider that ranks and returns URL suggestions from browsing history, comparing typed counts, visit recency, and match quality.
+// ---
+
 #include "components/omnibox/browser/history_url_provider.h"
 
 #include <algorithm>

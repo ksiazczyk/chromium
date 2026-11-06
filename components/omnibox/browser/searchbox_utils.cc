@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Searchbox utility functions
+// summary: Provides omnibox helper utilities including interaction metrics tracking and generation of .com navigation matches.
+// ---
+
 #include "components/omnibox/browser/searchbox_utils.h"
 
 #include <string>

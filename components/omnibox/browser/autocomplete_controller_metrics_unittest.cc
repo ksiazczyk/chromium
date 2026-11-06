@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AutocompleteControllerMetrics unit tests
+// summary: Unit tests verifying the timing and change metrics logged by AutocompleteControllerMetrics using fake delayed providers and histogram testers.
+// ---
+
 #include "components/omnibox/browser/autocomplete_controller_metrics.h"
 
 #include <algorithm>

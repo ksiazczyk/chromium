@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HistoryQuickProvider unit tests
+// summary: Extensive unit tests for the HistoryQuickProvider covering history-based autocomplete matching, keyword mode, and history deletion notifications with test history services.
+// ---
+
 #include "components/omnibox/browser/history_quick_provider.h"
 
 #include <stddef.h>

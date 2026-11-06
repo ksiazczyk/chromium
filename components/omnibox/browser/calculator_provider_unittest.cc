@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Calculator provider unit tests
+// summary: Unit tests for CalculatorProvider that simulate search provider results and verify calculator match caching, deduplication, and calculator mode behavior.
+// ---
+
 #include "components/omnibox/browser/calculator_provider.h"
 
 #include <memory>

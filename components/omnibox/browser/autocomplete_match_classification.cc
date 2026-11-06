@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autocomplete match classification helpers
+// summary: Computes ACMatchClassifications that style matched terms and formatted strings in omnibox suggestion text.
+// ---
+
 #include "autocomplete_match_classification.h"
 
 #include <string>

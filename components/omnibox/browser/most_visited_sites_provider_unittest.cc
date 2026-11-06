@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Most Visited Sites provider unit tests
+// summary: Unit tests for MostVisitedSitesProvider covering tile suggestions, blocklisted URLs, duplicates, open-tab deduping, and metrics using fake TopSites.
+// ---
+
 #include "components/omnibox/browser/most_visited_sites_provider.h"
 
 #include <list>

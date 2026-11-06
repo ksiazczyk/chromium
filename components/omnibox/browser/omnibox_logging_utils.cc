@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox logging utilities implementation
+// summary: Implements helpers that log omnibox metrics such as focus-to-open-time histograms, shown actions, and IPv4 parts counts.
+// ---
+
 #include "components/omnibox/browser/omnibox_logging_utils.h"
 
 #include "base/metrics/histogram_functions.h"

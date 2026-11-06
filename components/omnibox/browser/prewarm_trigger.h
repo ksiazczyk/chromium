@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prewarm trigger enum
+// summary: Defines the PrewarmTrigger enum marking whether an omnibox prewarm was triggered by zero suggest on the NTP or by user interaction.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_PREWARM_TRIGGER_H_
 #define COMPONENTS_OMNIBOX_BROWSER_PREWARM_TRIGGER_H_
 

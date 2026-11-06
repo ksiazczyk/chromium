@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake on-device tail model service for tests
+// summary: Declares a fake OnDeviceTailModelService used by tests in place of the real on-device tail suggest model service.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_FAKE_ON_DEVICE_TAIL_MODEL_SERVICE_H_
 #define COMPONENTS_OMNIBOX_BROWSER_FAKE_ON_DEVICE_TAIL_MODEL_SERVICE_H_
 

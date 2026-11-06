@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search scoring signals annotator implementation
+// summary: Annotates autocomplete matches with Search scoring signals such as suggest relevance, verbatim, navigation-suggest, and calculator flags.
+// ---
+
 #include "components/omnibox/browser/search_scoring_signals_annotator.h"
 
 #include "components/omnibox/browser/autocomplete_input.h"

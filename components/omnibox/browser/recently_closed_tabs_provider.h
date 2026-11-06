@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recently closed tabs autocomplete provider
+// summary: Declares an autocomplete provider that suggests recently closed tabs read from the TabRestoreService, currently enabled only for the Android Tab Search overlay.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_RECENTLY_CLOSED_TABS_PROVIDER_H_
 #define COMPONENTS_OMNIBOX_BROWSER_RECENTLY_CLOSED_TABS_PROVIDER_H_
 

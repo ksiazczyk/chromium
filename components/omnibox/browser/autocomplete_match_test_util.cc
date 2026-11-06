@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AutocompleteMatch test match factories
+// summary: Provides factory functions that build representative AutocompleteMatch objects for omnibox tests.
+// ---
+
 #include "components/omnibox/browser/autocomplete_match_test_util.h"
 
 #include <utility>

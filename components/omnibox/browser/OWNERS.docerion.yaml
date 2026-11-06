@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for omnibox browser
+summary: Assigns per-file owners, delegating Mojom files to security owners and Brave Search suggestion parsers to a named owner.

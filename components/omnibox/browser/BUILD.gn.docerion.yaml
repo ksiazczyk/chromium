@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the omnibox browser component
+summary: Defines GN build targets for the omnibox browser, including aggregated vector icons, buildflag headers, and proto libraries.

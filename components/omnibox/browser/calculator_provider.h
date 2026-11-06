@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Calculator provider header
+// summary: Declares the CalculatorProvider class, which caches recent calculator matches from the search provider and displays them while the user is likely still in calculator mode.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_CALCULATOR_PROVIDER_H_
 #define COMPONENTS_OMNIBOX_BROWSER_CALCULATOR_PROVIDER_H_
 

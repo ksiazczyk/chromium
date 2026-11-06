@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Location bar model implementation class declaration
+// summary: Declares LocationBarModelImpl, the toolbar and autocomplete edit model that populates its state from the current navigation entry via a delegate.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_LOCATION_BAR_MODEL_IMPL_H_
 #define COMPONENTS_OMNIBOX_BROWSER_LOCATION_BAR_MODEL_IMPL_H_
 

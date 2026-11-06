@@ -1,0 +1,4 @@
+# Docerion header of fusebox_action.mojom.
+type: source
+title: FuseboxAction Mojo definitions
+summary: Defines Mojo enums and the FuseboxAction struct carrying optional client behavior and configuration applied when a user accepts a Fusebox suggestion.

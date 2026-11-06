@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HistoryQuickProvider performance tests
+// summary: Performance tests that populate history with variations of a popular URL and time HistoryQuickProvider autocomplete runs using the perf result reporter.
+// ---
+
 #include <array>
 
 

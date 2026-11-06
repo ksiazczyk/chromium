@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake autocomplete scoring model service for tests
+// summary: Declares a fake AutocompleteScoringModelService that returns site engagement scores so tests run without a real ML scoring model.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_FAKE_AUTOCOMPLETE_SCORING_MODEL_SERVICE_H_
 #define COMPONENTS_OMNIBOX_BROWSER_FAKE_AUTOCOMPLETE_SCORING_MODEL_SERVICE_H_
 

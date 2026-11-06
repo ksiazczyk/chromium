@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock unscoped extension provider delegate header
+// summary: Declares a GMock mock of UnscopedExtensionProviderDelegate that fakes Start, Stop, and DeleteSuggestion for omnibox unit tests.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_MOCK_UNSCOPED_EXTENSION_PROVIDER_DELEGATE_H_
 #define COMPONENTS_OMNIBOX_BROWSER_MOCK_UNSCOPED_EXTENSION_PROVIDER_DELEGATE_H_
 

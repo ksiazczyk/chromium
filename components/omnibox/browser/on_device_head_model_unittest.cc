@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: On-device head model unit tests
+// summary: Tests prefix suggestion lookup against a multilingual test head model, covering matches, no-match cases and result limits.
+// ---
+
 #include "components/omnibox/browser/on_device_head_model.h"
 
 #include "base/files/file_path.h"

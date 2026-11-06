@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Document autocomplete provider implementation
+// summary: Implements the feature-flagged autocomplete provider that fetches personalized Drive document suggestions for signed-in users, including eligibility logging, caching, deduping, and request timing metrics.
+// ---
+
 #include "components/omnibox/browser/document_provider.h"
 
 #include <stddef.h>

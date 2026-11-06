@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Document suggestions service header
+// summary: Declares DocumentSuggestionsService, a KeyedService that fetches remote document suggestions, observing identity manager changes and exposing request creation and stop callbacks.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_DOCUMENT_SUGGESTIONS_SERVICE_H_
 #define COMPONENTS_OMNIBOX_BROWSER_DOCUMENT_SUGGESTIONS_SERVICE_H_
 

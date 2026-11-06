@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutocompleteProviderClient default implementations
+// summary: Provides default implementations of AutocompleteProviderClient accessors that return null services or disabled feature states.
+// ---
+
 #include "components/omnibox/browser/autocomplete_provider_client.h"
 
 #include "base/notreached.h"

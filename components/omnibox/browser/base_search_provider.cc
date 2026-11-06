@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base search provider implementation
+// summary: Implements shared functionality for search-based autocomplete providers, including suggestion image validation, on-device tail suggestions, and match deduplication.
+// ---
+
 #include "components/omnibox/browser/base_search_provider.h"
 
 #include <stddef.h>

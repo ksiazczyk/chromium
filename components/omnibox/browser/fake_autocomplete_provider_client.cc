@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake autocomplete provider client implementation
+// summary: Implements a fully operational AutocompleteProviderClient for tests, wiring up prefs, history, bookmarks, shortcuts, zero suggest and other services with test doubles.
+// ---
+
 #include "components/omnibox/browser/fake_autocomplete_provider_client.h"
 
 #include <memory>

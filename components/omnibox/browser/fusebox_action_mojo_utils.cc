@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FuseboxAction proto-to-Mojo conversion
+// summary: Converts a FuseboxAction proto message into the corresponding Mojo struct, validating enum values and failing on unknown ones.
+// ---
+
 #include "components/omnibox/browser/fusebox_action_mojo_utils.h"
 
 #include "base/notreached.h"

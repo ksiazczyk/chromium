@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AutocompleteMatch test utility declarations
+// summary: Declares factory functions for constructing various AutocompleteMatch variants used in omnibox tests.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_AUTOCOMPLETE_MATCH_TEST_UTIL_H_
 #define COMPONENTS_OMNIBOX_BROWSER_AUTOCOMPLETE_MATCH_TEST_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History scoring signals annotator implementation
+// summary: Annotates autocomplete URL and search suggestions with history-derived scoring signals such as typed count, visit count, elapsed time since last visit, and title match length.
+// ---
+
 #include "components/omnibox/browser/history_scoring_signals_annotator.h"
 
 #include <string>

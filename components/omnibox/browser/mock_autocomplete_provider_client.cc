@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock autocomplete provider client implementation
+// summary: Implements the mock autocomplete provider client, wiring a test URL loader factory and suggestion services for provider tests.
+// ---
+
 #include "components/omnibox/browser/mock_autocomplete_provider_client.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Geolocation header service unit tests
+// summary: Unit tests covering X-Geo header generation, location priming, permission and granularity handling, and related histogram outcomes.
+// ---
+
 #include "components/omnibox/browser/geolocation_header_service.h"
 
 #include <memory>

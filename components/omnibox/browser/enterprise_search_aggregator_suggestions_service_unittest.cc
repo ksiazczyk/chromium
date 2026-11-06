@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Enterprise search aggregator suggestions service unit tests
+// summary: Unit tests for the suggestions service, verifying request creation, access token fetching and variation ID headers with a test URL loader factory.
+// ---
+
 #include "components/omnibox/browser/enterprise_search_aggregator_suggestions_service.h"
 
 #include <optional>

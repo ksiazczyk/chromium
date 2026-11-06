@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Inline autocompletion utility unit tests
+// summary: Unit tests verifying FindAtWordbreak finds wordbreak occurrences, skips matches before the start offset, and returns npos when none exist.
+// ---
+
 #include "components/omnibox/browser/inline_autocompletion_util.h"
 
 #include <stddef.h>

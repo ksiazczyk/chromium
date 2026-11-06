@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Searchbox utils unit tests
+// summary: Unit tests for searchbox utilities covering opening matches with dispositions and actions plus interaction metric tracking.
+// ---
+
 #include "components/omnibox/browser/searchbox_utils.h"
 
 #include <memory>

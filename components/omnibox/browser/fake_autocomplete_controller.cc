@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake autocomplete controller implementation
+// summary: Implements a fake autocomplete controller with fake providers that simulates autocomplete, sync and expire passes for tests.
+// ---
+
 #include "components/omnibox/browser/fake_autocomplete_controller.h"
 
 #include <memory>

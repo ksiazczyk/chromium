@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: On-device tail tokenizer header
+// summary: Declares the tokenizer that maps raw strings to tokens and IDs for the tail suggest model based on a vocabulary file, with prefix tokenization support.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_ON_DEVICE_TAIL_TOKENIZER_H_
 #define COMPONENTS_OMNIBOX_BROWSER_ON_DEVICE_TAIL_TOKENIZER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoring functor
+// summary: Declares a for_each helper functor that scores how similar input and suggestion text are based on matched characters and match position.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_SCORING_FUNCTOR_H_
 #define COMPONENTS_OMNIBOX_BROWSER_SCORING_FUNCTOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android JNI bindings for AutocompleteResult
+// summary: Implements the Android-specific parts of AutocompleteResult, building Java match arrays and verifying native/Java match coherency with crash-key diagnostics.
+// ---
+
 #include "components/omnibox/browser/autocomplete_result.h"
 
 #include <stdint.h>

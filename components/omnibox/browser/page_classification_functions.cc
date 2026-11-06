@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Page classification functions implementation
+// summary: Implements helper predicates that classify omnibox page classifications such as NTP, search results, Lens, composebox, and Android surfaces.
+// ---
+
 #include "components/omnibox/browser/page_classification_functions.h"
 
 #include "base/check.h"

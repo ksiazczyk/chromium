@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox field trial header
+// summary: Declares the OmniboxFieldTrial namespace and HUPScoringParams structures used to customize omnibox scoring and experiment behavior.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_OMNIBOX_FIELD_TRIAL_H_
 #define COMPONENTS_OMNIBOX_BROWSER_OMNIBOX_FIELD_TRIAL_H_
 

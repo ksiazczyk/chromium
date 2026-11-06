@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scored history match implementation
+// summary: Implements scoring of history-based omnibox matches, including precomputed topicality and recency score tables and the final relevancy calculation.
+// ---
+
 #include "components/omnibox/browser/scored_history_match.h"
 
 #include <math.h>

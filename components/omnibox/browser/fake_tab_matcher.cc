@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake tab matcher implementation
+// summary: Implements a fake TabMatcher that matches URLs by a configurable substring and returns a set list of open tabs for tests.
+// ---
+
 #include <string>
 
 #include "components/omnibox/browser/fake_tab_matcher.h"
