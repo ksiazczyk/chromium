@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Usage stats and remote event logging permissions
+// summary: Declares functions that determine whether any managed app enables usage stats and whether the updater may send remote event logs.
+// ---
+
 #ifndef CHROME_UPDATER_USAGE_STATS_PERMISSIONS_H_
 #define CHROME_UPDATER_USAGE_STATS_PERMISSIONS_H_
 

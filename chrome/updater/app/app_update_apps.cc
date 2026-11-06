@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Update-all-apps app implementation
+// summary: Implements the app that updates all registered applications through the update service and prints per-app progress and results to the console.
+// ---
+
 #include "chrome/updater/app/app_update_apps.h"
 
 #include <stdio.h>

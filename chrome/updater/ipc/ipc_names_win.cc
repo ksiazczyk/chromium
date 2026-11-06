@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows IPC server name implementation
+// summary: Constructs Windows Mojo server names for the update services from the product name, install scope, service kind, and version.
+// ---
+
 #include "chrome/updater/ipc/ipc_names.h"
 
 #include <optional>

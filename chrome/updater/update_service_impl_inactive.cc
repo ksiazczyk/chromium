@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Inactive update service implementation
+// summary: Provides an UpdateService that logs and returns inactive results for all operations when the updater is not active.
+// ---
+
 #include "chrome/updater/update_service_impl_inactive.h"
 
 #include <string>

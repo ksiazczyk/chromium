@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Updater event history logging API
+// summary: Declares the fluent builder API for recording updater events in the history log, following the schema defined in docs/updater/history_log.md.
+// ---
+
 #ifndef CHROME_UPDATER_EVENT_HISTORY_H_
 #define CHROME_UPDATER_EVENT_HISTORY_H_
 

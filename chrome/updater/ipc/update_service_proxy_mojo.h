@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo update service proxy declaration
+// summary: Declares UpdateServiceProxyMojoImpl, the Mojo-based implementation of UpdateServiceProxyImpl that connects to the active updater instance server.
+// ---
+
 #ifndef CHROME_UPDATER_IPC_UPDATE_SERVICE_PROXY_MOJO_H_
 #define CHROME_UPDATER_IPC_UPDATE_SERVICE_PROXY_MOJO_H_
 

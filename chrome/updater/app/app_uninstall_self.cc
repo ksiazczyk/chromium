@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Self-uninstall app
+// summary: Implements AppUninstallSelf, which acquires the setup lock, checks the user scope, and uninstalls the current updater instance.
+// ---
+
 #include "chrome/updater/app/app_uninstall_self.h"
 
 #include <memory>

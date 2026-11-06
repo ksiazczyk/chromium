@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Updater prefs interfaces
+// summary: Declares local and global prefs interfaces plus factories for opening updater prefs and committing pending writes.
+// ---
+
 #ifndef CHROME_UPDATER_PREFS_H_
 #define CHROME_UPDATER_PREFS_H_
 

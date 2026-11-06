@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metainstaller tag data structures
+// summary: Defines TagArgs, AppArgs, and RuntimeModeArgs structures holding attributes parsed from metainstaller tags, plus helper declarations.
+// ---
+
 #ifndef CHROME_UPDATER_TAG_H_
 #define CHROME_UPDATER_TAG_H_
 

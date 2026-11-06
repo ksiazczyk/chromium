@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Updater main entry point
+// summary: Implements UpdaterMain, initializing crash reporting and logging and dispatching updater command-line apps such as install, update, uninstall, and server modes.
+// ---
+
 #include "chrome/updater/updater.h"
 
 #include <algorithm>

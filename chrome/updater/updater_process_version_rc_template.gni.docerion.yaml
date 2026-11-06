@@ -1,0 +1,4 @@
+# Docerion header of updater_process_version_rc_template.gni.
+type: config
+title: GN template for updater version RC resources
+summary: GN build template that generates Windows .rc version resources for updater binaries with product name, CPU, and debug suffix details.

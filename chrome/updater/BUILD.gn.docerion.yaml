@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Updater GN build targets
+summary: Defines the GN build targets, platform-specific dependencies, tests, and license generation actions for the Chromium updater on Windows, macOS, and Linux.

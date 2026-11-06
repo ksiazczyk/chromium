@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for COM validation helpers
+// summary: Unit tests for the COM validation helpers, covering app IDs, versions, paths, and other registration parameters.
+// ---
+
 #include "chrome/updater/app/server/win/com_classes_util.h"
 
 #include <optional>

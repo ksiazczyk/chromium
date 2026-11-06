@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Out-of-process patcher factory header
+// summary: Declares OutOfProcessPatcherFactory, which creates an update_client patcher that performs patching in a separate process.
+// ---
+
 #ifndef CHROME_UPDATER_OUT_OF_PROCESS_PATCHER_H_
 #define CHROME_UPDATER_OUT_OF_PROCESS_PATCHER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Updater IPC unit tests for server stubs
+// summary: Unit tests that verify the updater's Mojo IPC server stubs forward RPC calls, app states, and update states correctly between client and server processes.
+// ---
+
 #include <algorithm>
 #include <memory>
 #include <string>

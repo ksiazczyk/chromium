@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Internal update service implementation header
+// summary: Declares UpdateServiceInternalImpl, the sequence-bound implementation of the internal updater service.
+// ---
+
 #ifndef CHROME_UPDATER_UPDATE_SERVICE_INTERNAL_IMPL_H_
 #define CHROME_UPDATER_UPDATE_SERVICE_INTERNAL_IMPL_H_
 

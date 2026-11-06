@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: POSIX activity file path unit tests
+// summary: Unit tests verifying GetActiveFile builds expected active file paths and rejects traversal components, absolute paths, and subdirectories.
+// ---
+
 #include <optional>
 #include <string>
 

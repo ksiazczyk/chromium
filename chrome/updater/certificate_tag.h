@@ -11,6 +11,12 @@
 //
 // The library supports PE32 exe files and MSI files.
 
+// ---docerion
+// type: source
+// title: Certificate tag interface
+// summary: Declares the BinaryInterface for reading and setting tags in Authenticode-signed PE and MSI binaries without invalidating their signatures.
+// ---
+
 #ifndef CHROME_UPDATER_CERTIFICATE_TAG_H_
 #define CHROME_UPDATER_CERTIFICATE_TAG_H_
 

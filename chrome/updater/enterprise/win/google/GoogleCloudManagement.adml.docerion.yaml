@@ -1,0 +1,4 @@
+# Docerion header of GoogleCloudManagement.adml.
+type: config
+title: Cloud Management group policy ADML string resources
+summary: Supplies the display strings and presentation resources for the Google Cloud Management enrollment group policies on Windows.

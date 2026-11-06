@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Event logger unit tests
+// summary: Unit tests for the remote event logging delegate, covering cookie extraction and event transmission against an embedded test server.
+// ---
+
 #include "chrome/updater/event_logger.h"
 
 #include <iostream>

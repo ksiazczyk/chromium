@@ -1,0 +1,4 @@
+# Docerion header of usage_stats_permissions_mac.mm.
+type: source
+title: macOS implementation of usage stats permissions
+summary: macOS implementation that inspects crashpad database settings to decide whether apps enable usage stats and remote event logging.

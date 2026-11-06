@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Updater configurator implementation
+// summary: Implements the updater Configurator, wiring prefs, policy, persisted data, network factories, and event logging for update_client.
+// ---
+
 #include "chrome/updater/configurator.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows IPC security implementation
+// summary: Implements Windows IPC security with DACL-protected named pipes, caller classification by token integrity level, and endpoint options per updater scope.
+// ---
+
 #include "chrome/updater/ipc/ipc_security.h"
 
 #include <windows.h>

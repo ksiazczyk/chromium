@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Updater IPC DEPS include rules
+summary: Defines include rules allowing updater IPC test and mock files to depend on third_party/ocmock.

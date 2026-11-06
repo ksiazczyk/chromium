@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UpdateServiceStub implementation
+// summary: Implements the Mojo IPC server stub that forwards updater RPCs such as Update, Install, RunInstaller, and policy calls to an underlying UpdateService.
+// ---
+
 #include "chrome/updater/app/server/update_service_stub.h"
 
 #include <memory>

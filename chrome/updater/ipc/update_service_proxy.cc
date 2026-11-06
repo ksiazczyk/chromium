@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UpdateServiceProxy implementation with RPC retry logic
+// summary: Implements UpdateServiceProxy, which forwards UpdateService calls such as GetVersion, FetchPolicies, and update operations to the platform proxy with retry logic.
+// ---
+
 #include "chrome/updater/ipc/update_service_proxy.h"
 
 #include <memory>

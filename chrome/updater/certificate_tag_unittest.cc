@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Certificate tag unit tests
+// summary: Tests tag round-tripping and tag area sizing for signed PE executables and MSI files.
+// ---
+
 #include "chrome/updater/certificate_tag.h"
 
 #include <stddef.h>

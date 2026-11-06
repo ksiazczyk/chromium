@@ -1,0 +1,4 @@
+# Docerion header of branding.gni.
+type: config
+title: Updater branding configuration
+summary: GN configuration that sets branding variables like product names, app IDs, COM class GUIDs, and URLs for Chromium updater builds.

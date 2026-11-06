@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Update service proxy factory declarations
+// summary: Declares factory functions that create UpdateService and UpdateServiceInternal proxies, including Mojo-based variants on Windows.
+// ---
+
 #ifndef CHROME_UPDATER_SERVICE_PROXY_FACTORY_H_
 #define CHROME_UPDATER_SERVICE_PROXY_FACTORY_H_
 

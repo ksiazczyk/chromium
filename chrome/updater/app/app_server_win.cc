@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows implementation of the updater app server
+// summary: Implements the Windows COM server for the updater, including class factory registration, registry and ACL handling, repair, and uninstall logic.
+// ---
+
 #include "chrome/updater/app/app_server_win.h"
 
 #include <regstr.h>

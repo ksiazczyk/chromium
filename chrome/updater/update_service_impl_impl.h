@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UpdateServiceImplImpl class declaration
+// summary: Declares UpdateServiceImplImpl, the active UpdateService implementation that sequences update, install, and policy tasks on a single thread.
+// ---
+
 #ifndef CHROME_UPDATER_UPDATE_SERVICE_IMPL_IMPL_H_
 #define CHROME_UPDATER_UPDATE_SERVICE_IMPL_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS package tag interface
+// summary: Declares PkgTagError codes and a factory that parses a macOS .pkg (XAR) file into a BinaryInterface.
+// ---
+
 #ifndef CHROME_UPDATER_PKG_TAG_H_
 #define CHROME_UPDATER_PKG_TAG_H_
 

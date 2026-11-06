@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UpdateServiceInternalProxyImpl abstract base class
+// summary: Declares the abstract UpdateServiceInternalProxyImpl base class defining the Run and Hello RPC interfaces for platform implementations.
+// ---
+
 #ifndef CHROME_UPDATER_IPC_UPDATE_SERVICE_INTERNAL_PROXY_IMPL_H_
 #define CHROME_UPDATER_IPC_UPDATE_SERVICE_INTERNAL_PROXY_IMPL_H_
 

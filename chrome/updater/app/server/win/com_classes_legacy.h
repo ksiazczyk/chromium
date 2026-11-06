@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Legacy COM class declarations and IDispatchImpl helper
+// summary: Declares the IDispatchImpl template and legacy COM classes provided for backward compatibility with Google Update.
+// ---
+
 #ifndef CHROME_UPDATER_APP_SERVER_WIN_COM_CLASSES_LEGACY_H_
 #define CHROME_UPDATER_APP_SERVER_WIN_COM_CLASSES_LEGACY_H_
 

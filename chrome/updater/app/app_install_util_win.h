@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows install completion utilities declarations
+// summary: Declares the completion code priority table and helper functions for determining priority and launching post-install command lines on Windows.
+// ---
+
 #ifndef CHROME_UPDATER_APP_APP_INSTALL_UTIL_WIN_H_
 #define CHROME_UPDATER_APP_APP_INSTALL_UTIL_WIN_H_
 

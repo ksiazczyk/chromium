@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows health checks for qualifying update service
+// summary: Provides the Windows updater qualification health check, which always succeeds.
+// ---
+
 #include "chrome/updater/update_service_internal_impl_qualifying.h"
 
 #include "chrome/updater/updater_scope.h"

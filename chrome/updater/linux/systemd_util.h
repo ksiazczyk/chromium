@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Systemd utility declarations for the updater
+// summary: Declares the SystemdService class and functions to install, uninstall, and detect systemd units that activate the updater service.
+// ---
+
 #ifndef CHROME_UPDATER_LINUX_SYSTEMD_UTIL_H_
 #define CHROME_UPDATER_LINUX_SYSTEMD_UTIL_H_
 

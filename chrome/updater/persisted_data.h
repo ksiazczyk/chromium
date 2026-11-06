@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Persisted data header
+// summary: Declares PersistedData, which stores updater metadata that outlives updater processes via the PrefService.
+// ---
+
 #ifndef CHROME_UPDATER_PERSISTED_DATA_H_
 #define CHROME_UPDATER_PERSISTED_DATA_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux application installer implementation
+// summary: Linux implementation of the application installer that launches installer processes and returns default values for string and version lookups.
+// ---
+
 #include "chrome/updater/installer.h"
 
 #include <optional>

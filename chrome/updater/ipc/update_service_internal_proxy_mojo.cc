@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo implementation of the update service internal proxy
+// summary: Implements the Mojo-based internal proxy that lazily connects to the active updater server over a named channel and dispatches Run and Hello calls with disconnect handling.
+// ---
+
 #include "chrome/updater/ipc/update_service_internal_proxy_mojo.h"
 
 #include <memory>

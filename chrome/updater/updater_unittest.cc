@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for updater exit code and Windows privileges
+// summary: Unit tests checking the updater exits with code 0 when run with --test and that Windows debug privileges are available to the test process.
+// ---
+
 #include "base/base_paths.h"
 #include "base/command_line.h"
 #include "base/files/file_path.h"

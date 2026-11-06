@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Systemd unit installation and activation socket handling
+// summary: Implements installing, uninstalling, and checking systemd service and socket units, plus accepting connections on the activation socket.
+// ---
+
 #include "chrome/updater/linux/systemd_util.h"
 
 #include <fcntl.h>

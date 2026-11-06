@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UpdateService interface
+// summary: Defines the cross-platform UpdateService interface for version queries, policy fetches, app registration, updates, installs, and updater state.
+// ---
+
 #ifndef CHROME_UPDATER_UPDATE_SERVICE_H_
 #define CHROME_UPDATER_UPDATE_SERVICE_H_
 

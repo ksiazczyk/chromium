@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Qualifying update service internal implementation
+// summary: Implements the qualifying variant of the internal update service, running platform health checks and registering a qualification app to verify updater health.
+// ---
+
 #include "chrome/updater/update_service_internal_impl_qualifying.h"
 
 #include <string>

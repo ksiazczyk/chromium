@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: External constants overrider declarations
+// summary: Declares the ExternalConstantsOverrider class and the helper that locates the developer override file path.
+// ---
+
 #ifndef CHROME_UPDATER_EXTERNAL_CONSTANTS_OVERRIDE_H_
 #define CHROME_UPDATER_EXTERNAL_CONSTANTS_OVERRIDE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Branded updater constants
+// summary: Defines branded constants such as updater app IDs, usage stats environment variables, the setup mutex, and the product ID sent to the update server.
+// ---
+
 #ifndef CHROME_UPDATER_BRANDED_CONSTANTS_H_
 #define CHROME_UPDATER_BRANDED_CONSTANTS_H_
 

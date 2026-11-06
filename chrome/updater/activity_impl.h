@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Activity implementation header
+// summary: Declares GetActiveBit and ClearActiveBit functions that report and reset per-app activity state for the updater.
+// ---
+
 #ifndef CHROME_UPDATER_ACTIVITY_IMPL_H_
 #define CHROME_UPDATER_ACTIVITY_IMPL_H_
 

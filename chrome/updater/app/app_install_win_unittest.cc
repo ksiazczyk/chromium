@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows app install progress unit tests
+// summary: Unit tests for the Windows install progress forwarder, verifying that install progress callbacks reach the target observer and are buffered until a target is set.
+// ---
+
 #include <windows.h>
 
 #include <shlobj.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Change owners task Windows implementation
+// summary: Windows variant of the change owners task that performs no ownership changes and immediately runs the completion callback.
+// ---
+
 #include "chrome/updater/change_owners_task.h"
 
 #include <utility>

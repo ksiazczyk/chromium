@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Updater IPC support implementation
+// summary: Initializes Mojo IPC support for the updater by configuring the Mojo embedder and running a dedicated IO thread for IPC.
+// ---
+
 #include "chrome/updater/ipc/ipc_support.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Updater include dependency rules
+summary: Lists the directories the updater may include from and forbids ICU dependencies to keep the metainstaller binary small.

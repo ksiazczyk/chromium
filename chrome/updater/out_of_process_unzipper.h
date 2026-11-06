@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Out-of-process unzipper header
+// summary: Declares OutOfProcessUnzipper and its factory, which run unzip and Xz decode operations in a separate process.
+// ---
+
 #ifndef CHROME_UPDATER_OUT_OF_PROCESS_UNZIPPER_H_
 #define CHROME_UPDATER_OUT_OF_PROCESS_UNZIPPER_H_
 

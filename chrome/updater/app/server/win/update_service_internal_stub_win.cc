@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UpdateServiceInternalStubWin implementation
+// summary: Implements the Windows stub that forwards UpdateServiceInternal calls to an implementation, running task start and end listeners around each call.
+// ---
+
 #include "chrome/updater/app/server/win/update_service_internal_stub_win.h"
 
 #include "base/functional/bind.h"

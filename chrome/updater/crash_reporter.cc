@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crash reporter implementation
+// summary: Starts the Crashpad handler process with annotations, log attachments, and the crash upload URL for the updater.
+// ---
+
 #include "chrome/updater/crash_reporter.h"
 
 #include <stdint.h>

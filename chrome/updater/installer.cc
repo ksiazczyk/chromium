@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Installer implementation
+// summary: Implements the Installer class and AppInfo that manage installation of a single application, including version and metadata lookups.
+// ---
+
 #include "chrome/updater/installer.h"
 
 #include <stdint.h>

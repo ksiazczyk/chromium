@@ -1,0 +1,4 @@
+# Docerion header of updater_version.h.in.
+type: config
+title: Updater version header template
+summary: Template header defining updater version string constants that are filled in with version numbers at build time.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS app server factory and repair
+// summary: Repairs the macOS updater by reinstalling Keystone ksadmin shims when missing and provides the factory that creates the POSIX app server.
+// ---
+
 #import "chrome/updater/app/app_server_posix.h"
 
 #include <optional>

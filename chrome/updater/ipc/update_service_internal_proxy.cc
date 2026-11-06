@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Update service internal proxy with RPC retry logic
+// summary: Implements UpdateServiceInternalProxy, which forwards Run and Hello RPC calls to a platform-specific proxy and retries them up to three times on error.
+// ---
+
 #include "chrome/updater/ipc/update_service_internal_proxy.h"
 
 #include <optional>

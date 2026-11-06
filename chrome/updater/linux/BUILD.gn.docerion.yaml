@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Linux updater build targets
+summary: Defines GN targets that build the Linux updater executable, its test binary, and the updater.zip artifact.

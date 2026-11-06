@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Qualifying update service internal header
+// summary: Declares the platform-specific health check hook and the factory for the qualifying internal update service.
+// ---
+
 #ifndef CHROME_UPDATER_UPDATE_SERVICE_INTERNAL_IMPL_QUALIFYING_H_
 #define CHROME_UPDATER_UPDATE_SERVICE_INTERNAL_IMPL_QUALIFYING_H_
 

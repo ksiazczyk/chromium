@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Update service implementation internals
+// summary: Implements the active updater's UpdateService, adapting update_client errors and components and running periodic tasks such as update checks, installs, and cleanup.
+// ---
+
 #include "chrome/updater/update_service_impl_impl.h"
 
 #include <stdint.h>

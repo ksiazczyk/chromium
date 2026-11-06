@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Updater scope determination
+// summary: Determines whether the updater runs per-user or per-system from command line switches, tag arguments, and process location.
+// ---
+
 #include "chrome/updater/get_updater_scope.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AutoRunOnOsUpgradeTask unit tests
+// summary: Unit tests that simulate an OS upgrade and verify registered app commands run for the affected app on Windows.
+// ---
+
 #include "chrome/updater/auto_run_on_os_upgrade_task.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cleanup task implementation
+// summary: Cleans up obsolete files, updater versions older than the deletion threshold, and leftover update_client temp directories.
+// ---
+
 #include "chrome/updater/cleanup_task.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Updater recovery app implementation
+// summary: Implements the recovery app that records registered apps, reinstalls the updater, and re-registers the recorded apps after the reinstall.
+// ---
+
 #include "chrome/updater/app/app_recover.h"
 
 #include <string>

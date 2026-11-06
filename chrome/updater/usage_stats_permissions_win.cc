@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Usage stats permissions for Windows
+// summary: Windows implementation that reads ClientState registry keys to determine whether installed apps enable usage stats and remote event logging for the updater.
+// ---
+
 #include "chrome/updater/usage_stats_permissions.h"
 
 #include <wchar.h>

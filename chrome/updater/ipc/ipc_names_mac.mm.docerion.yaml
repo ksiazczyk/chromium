@@ -1,0 +1,4 @@
+# Docerion header of ipc_names_mac.mm.
+type: source
+title: macOS IPC server name implementation
+summary: Builds macOS Mojo server names for the update services from the bundle identifier, updater version, and updater scope.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows IPC security unit tests
+// summary: Unit tests verifying Windows IPC endpoint options follow the requested scope and callers are classified by integrity level.
+// ---
+
 #include "chrome/updater/ipc/ipc_security.h"
 
 #include <windows.h>

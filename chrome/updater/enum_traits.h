@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe enum cast traits
+// summary: Defines EnumTraits and CheckedCastToEnum for safely converting integers to enum values within declared bounds.
+// ---
+
 #ifndef CHROME_UPDATER_ENUM_TRAITS_H_
 #define CHROME_UPDATER_ENUM_TRAITS_H_
 

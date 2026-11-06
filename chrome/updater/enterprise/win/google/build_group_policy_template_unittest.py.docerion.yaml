@@ -1,0 +1,4 @@
+# Docerion header of build_group_policy_template_unittest.py.
+type: test
+title: Gold-file comparison test for policy template generation
+summary: Generates ADM, ADMX, and ADML files from test app definitions and compares them against reference gold files to verify template generation.

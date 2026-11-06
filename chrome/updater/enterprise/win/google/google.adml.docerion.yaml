@@ -1,0 +1,4 @@
+# Docerion header of google.adml.
+type: config
+title: Google policy category ADML string resource
+summary: Provides the string for the shared Google policy category used by the Google Update and Cloud Management ADMX templates.

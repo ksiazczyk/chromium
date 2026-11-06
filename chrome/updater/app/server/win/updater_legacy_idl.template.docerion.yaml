@@ -1,0 +1,4 @@
+# Docerion header of updater_legacy_idl.template.
+type: source
+title: Updater legacy Omaha IDL template
+summary: IDL template with backward-compatible Omaha 3 public COM interfaces copied from omaha3_idl.idl, covering update states, app versions, and web clients.

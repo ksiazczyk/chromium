@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UpdateServiceStubWin class declaration
+// summary: Declares UpdateServiceStubWin, which forwards client UpdateService calls to an implementation and invokes task start and end listeners around each call.
+// ---
+
 #ifndef CHROME_UPDATER_APP_SERVER_WIN_UPDATE_SERVICE_STUB_WIN_H_
 #define CHROME_UPDATER_APP_SERVER_WIN_UPDATE_SERVICE_STUB_WIN_H_
 

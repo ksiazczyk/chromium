@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo update service internal proxy header
+// summary: Declares UpdateServiceInternalProxyMojoImpl, the Mojo implementation of the internal proxy with lazy connection setup and Windows COM server lifetime handling.
+// ---
+
 #ifndef CHROME_UPDATER_IPC_UPDATE_SERVICE_INTERNAL_PROXY_MOJO_H_
 #define CHROME_UPDATER_IPC_UPDATE_SERVICE_INTERNAL_PROXY_MOJO_H_
 

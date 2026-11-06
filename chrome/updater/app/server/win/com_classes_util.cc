@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: COM caller and parameter validation helpers
+// summary: Implements helpers that check COM caller privileges and validate strings, app IDs, versions, and paths passed over COM.
+// ---
+
 #include "chrome/updater/app/server/win/com_classes_util.h"
 
 #include <stddef.h>

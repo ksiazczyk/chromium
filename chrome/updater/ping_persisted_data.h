@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ping persisted data header
+// summary: Declares a factory for a lightweight persisted data object with few dependencies, used solely for standalone pings.
+// ---
+
 #ifndef CHROME_UPDATER_PING_PERSISTED_DATA_H_
 #define CHROME_UPDATER_PING_PERSISTED_DATA_H_
 

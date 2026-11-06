@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remove uninstalled apps task declaration
+// summary: Declares the RemoveUninstalledAppsTask class that determines why installed apps should be unregistered from the updater.
+// ---
+
 #ifndef CHROME_UPDATER_REMOVE_UNINSTALLED_APPS_TASK_H_
 #define CHROME_UPDATER_REMOVE_UNINSTALLED_APPS_TASK_H_
 

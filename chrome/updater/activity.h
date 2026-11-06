@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Activity data service header
+// summary: Declares the ActivityDataService class that implements the update_client activity interface using an updater scope.
+// ---
+
 #ifndef CHROME_UPDATER_ACTIVITY_H_
 #define CHROME_UPDATER_ACTIVITY_H_
 

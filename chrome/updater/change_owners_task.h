@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Change owners task header
+// summary: Declares MakeChangeOwnersTask, a factory that builds a callback task for a given updater scope and persisted data.
+// ---
+
 #ifndef CHROME_UPDATER_CHANGE_OWNERS_TASK_H_
 #define CHROME_UPDATER_CHANGE_OWNERS_TASK_H_
 

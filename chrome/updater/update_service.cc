@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UpdateService state formatting and comparison
+// summary: Implements stream output and equality comparison for UpdateService::UpdateState, formatting states, versions, and error categories.
+// ---
+
 #include "chrome/updater/update_service.h"
 
 #include <stdint.h>

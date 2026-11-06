@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prefs unit tests
+// summary: Unit tests that verify committing pending pref writes and persisted data behavior, including Windows registry checks.
+// ---
+
 #include "chrome/updater/prefs.h"
 
 #include <memory>

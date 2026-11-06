@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows implementation of the remove uninstalled apps task
+// summary: Implements uninstall detection on Windows by checking the app's Clients registry key in both 32-bit and 64-bit registry views.
+// ---
+
 #include "chrome/updater/remove_uninstalled_apps_task.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Internal update service interface
+// summary: Defines UpdateServiceInternal, a version-matched interface for same-installation callers to run periodic tasks and wake the updater.
+// ---
+
 #ifndef CHROME_UPDATER_UPDATE_SERVICE_INTERNAL_H_
 #define CHROME_UPDATER_UPDATE_SERVICE_INTERNAL_H_
 

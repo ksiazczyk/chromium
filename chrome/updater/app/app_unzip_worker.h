@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the updater unzip worker app
+// summary: Declares MakeAppUnzipWorker, the factory that creates the unzip worker app.
+// ---
+
 #ifndef CHROME_UPDATER_APP_APP_UNZIP_WORKER_H_
 #define CHROME_UPDATER_APP_APP_UNZIP_WORKER_H_
 

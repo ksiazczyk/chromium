@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux app server factory and repair
+// summary: Adds a Linux AppServerPosix variant that enables a systemd service during active duty, defines repair as a no-op, and creates the app server.
+// ---
+
 #include "chrome/updater/app/app_server_posix.h"
 
 #include "base/memory/scoped_refptr.h"

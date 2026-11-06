@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux updater setup and uninstall implementation
+// summary: Implements install, candidate promotion, and uninstall routines for the Chromium updater on Linux, including binary copying, permissions, hard links, and systemd unit handling.
+// ---
+
 #include <stdio.h>
 #include <unistd.h>
 

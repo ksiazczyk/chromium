@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App install flow declarations
+// summary: Declares the AppInstallController interface and the AppInstall class that set up the updater and install an application while displaying a progress UI.
+// ---
+
 #ifndef CHROME_UPDATER_APP_APP_INSTALL_H_
 #define CHROME_UPDATER_APP_APP_INSTALL_H_
 

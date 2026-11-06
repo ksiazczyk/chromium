@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote event logging delegate header
+// summary: Declares the RemoteLoggingDelegate for the updater telemetry logger and a helper for extracting event logging cookies from Set-Cookie headers.
+// ---
+
 #ifndef CHROME_UPDATER_EVENT_LOGGER_H_
 #define CHROME_UPDATER_EVENT_LOGGER_H_
 

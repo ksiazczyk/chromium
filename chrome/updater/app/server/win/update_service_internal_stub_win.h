@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UpdateServiceInternalStubWin class declaration
+// summary: Declares UpdateServiceInternalStubWin, which receives client calls and delegates them to an UpdateServiceInternal implementation with task listeners.
+// ---
+
 #ifndef CHROME_UPDATER_APP_SERVER_WIN_UPDATE_SERVICE_INTERNAL_STUB_WIN_H_
 #define CHROME_UPDATER_APP_SERVER_WIN_UPDATE_SERVICE_INTERNAL_STUB_WIN_H_
 

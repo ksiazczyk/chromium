@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for updater app utility functions
+// summary: Declares helpers for identifying updater app IDs, event logging permission exemptions, and self-uninstall decisions.
+// ---
+
 #ifndef CHROME_UPDATER_APP_APP_UTILS_H_
 #define CHROME_UPDATER_APP_APP_UTILS_H_
 

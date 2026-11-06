@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WRL COM class registrations
+// summary: Registers the updater's COM classes with WRL factories, grouped into ActiveSystem, ActiveUser, InternalSystem, and InternalUser server processes.
+// ---
+
 #include <wrl/module.h>
 
 #include "chrome/updater/app/server/win/com_classes.h"

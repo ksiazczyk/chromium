@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS IPC security implementation
+// summary: Implements macOS IPC security by trusting connections from the audit token's effective user ID and configuring endpoint options.
+// ---
+
 #include "chrome/updater/ipc/ipc_security.h"
 
 #include <bsm/libbsm.h>

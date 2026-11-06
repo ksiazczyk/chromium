@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows install progress forwarding declarations
+// summary: Declares AppInstallProgressForwarder, which replays progress calls to a replaceable target, and HandleInstallResult for mapping update states to completion info.
+// ---
+
 #ifndef CHROME_UPDATER_APP_APP_INSTALL_WIN_INTERNAL_H_
 #define CHROME_UPDATER_APP_APP_INSTALL_WIN_INTERNAL_H_
 

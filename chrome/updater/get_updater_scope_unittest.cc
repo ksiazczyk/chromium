@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GetUpdaterScopeForCommandLine unit tests
+// summary: Unit tests verifying how updater scope and prefers-user behavior are derived from command line switches and tag arguments.
+// ---
+
 #include "chrome/updater/get_updater_scope.h"
 
 #include <string>

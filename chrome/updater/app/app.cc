@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Updater App base class implementation
+// summary: Implements the updater App base class, running the main-sequence runloop, dispatching the first task, and handling shutdown with an exit code.
+// ---
+
 #include "chrome/updater/app/app.h"
 
 #include <utility>

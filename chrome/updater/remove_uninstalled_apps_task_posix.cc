@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: POSIX implementation of the remove uninstalled apps task
+// summary: Implements uninstall detection on POSIX systems by checking whether the app's existence check path is missing or owned by root.
+// ---
+
 #include "chrome/updater/remove_uninstalled_apps_task.h"
 
 #include <sys/stat.h>

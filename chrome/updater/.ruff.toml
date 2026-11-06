@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: Ruff lint configuration for the updater
+# summary: Extends the repository-level Ruff linter configuration and sets the indentation width for Python code in the updater directory.
+# ---
+
 extend = "../.ruff.toml"
 indent-width = 4

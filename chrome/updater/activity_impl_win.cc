@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows activity bit implementation
+// summary: Implements reading and clearing the active bit on Windows through registry values under HKCU and HKU, including low integrity keys.
+// ---
+
 #include <string>
 
 #include "base/functional/function_ref.h"

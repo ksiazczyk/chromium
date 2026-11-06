@@ -1,0 +1,4 @@
+# Docerion header of updater.gni.
+type: config
+title: Updater GN build constraints
+summary: GN build configuration defining updater_assert_no_deps to forbid updater targets from depending on libaom and ui/base.

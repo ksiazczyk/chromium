@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Update service dialer Windows unit tests
+// summary: Unit tests verifying that the Windows dialer prefers the admin-protected named pipe and applies the correct fallback and rejection behavior when connecting to the updater server.
+// ---
+
 #include "chrome/updater/ipc/update_service_dialer_win.h"
 
 #include <windows.h>

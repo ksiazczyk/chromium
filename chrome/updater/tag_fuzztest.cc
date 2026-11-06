@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tag parsing fuzz tests
+// summary: Fuzz tests for the updater tag parser, generating tag strings from known and arbitrary keys and values to exercise the Parse function.
+// ---
+
 #include <stdint.h>
 
 #include <iterator>

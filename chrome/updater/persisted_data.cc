@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Persisted data implementation
+// summary: Implements persistence of updater state such as product versions, brand codes, cohorts, and existence checker paths in a PrefService.
+// ---
+
 #include "chrome/updater/persisted_data.h"
 
 #include <stdint.h>

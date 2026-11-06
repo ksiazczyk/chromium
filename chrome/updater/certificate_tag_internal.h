@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Internal certificate tag structures
+// summary: Internal declarations for PE binary tag handling plus packed MSI header and directory entry structures used by the tagging library.
+// ---
+
 #ifndef CHROME_UPDATER_CERTIFICATE_TAG_INTERNAL_H_
 #define CHROME_UPDATER_CERTIFICATE_TAG_INTERNAL_H_
 

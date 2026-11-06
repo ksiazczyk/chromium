@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network worker app unit tests
+// summary: Multiprocess unit tests for the network worker app, exercising Mojo-based fetch and download flows against an embedded test server.
+// ---
+
 #include "chrome/updater/app/app_net_worker.h"
 
 #include <stddef.h>

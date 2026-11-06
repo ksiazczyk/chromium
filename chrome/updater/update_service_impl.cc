@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UpdateServiceImpl implementation
+// summary: Implements UpdateServiceImpl, gating operations on EULA acceptance and OEM mode before delegating to UpdateServiceImplImpl.
+// ---
+
 #include "chrome/updater/update_service_impl.h"
 
 #include <string>

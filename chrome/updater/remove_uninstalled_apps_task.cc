@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remove uninstalled apps task
+// summary: Implements a task that detects uninstalled apps, removes them from registration and sends uninstall pings.
+// ---
+
 #include "chrome/updater/remove_uninstalled_apps_task.h"
 
 #include <optional>

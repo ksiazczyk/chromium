@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo implementation of the update service proxy
+// summary: Implements the Mojo-based update service proxy that connects to the active updater server over named Mojo IPC and forwards UpdateService calls.
+// ---
+
 #include "chrome/updater/ipc/update_service_proxy_mojo.h"
 
 #include <memory>

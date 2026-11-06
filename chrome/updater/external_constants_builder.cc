@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: External constants builder implementation
+// summary: Implements the builder that writes dev-mode override values for external constants to the JSON overrides file.
+// ---
+
 #include "chrome/updater/external_constants_builder.h"
 
 #include <stdint.h>

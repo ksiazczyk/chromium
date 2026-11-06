@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Updater configurator class declaration
+// summary: Declares the Configurator class providing update_client configuration such as URLs, delays, factories, and policy access.
+// ---
+
 #ifndef CHROME_UPDATER_CONFIGURATOR_H_
 #define CHROME_UPDATER_CONFIGURATOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Enum traits unit tests
+// summary: Tests that CheckedCastToEnum returns in-range enum values and rejects out-of-range integers.
+// ---
+
 #include "chrome/updater/enum_traits.h"
 
 #include <ostream>

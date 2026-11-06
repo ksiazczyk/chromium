@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tag argument name constants
+// summary: Defines the string constants for tag and app arguments recognized by the updater tag parser, such as bundlename, usagestats, and appguid.
+// ---
+
 #ifndef CHROME_UPDATER_TAG_INTERNAL_H_
 #define CHROME_UPDATER_TAG_INTERNAL_H_
 

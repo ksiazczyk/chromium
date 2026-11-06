@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for Google Update group policy templates
+summary: Defines GN actions to generate the GoogleUpdate ADM/ADMX/ADML templates and to copy and zip the Google and Google Cloud Management policy files on Windows.

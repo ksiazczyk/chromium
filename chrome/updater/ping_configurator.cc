@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ping configurator implementation
+// summary: Implements a lightweight update_client Configurator used for standalone pings, with minimal dependencies and NOTREACHED for unused methods.
+// ---
+
 #include "chrome/updater/ping_configurator.h"
 
 #include <memory>

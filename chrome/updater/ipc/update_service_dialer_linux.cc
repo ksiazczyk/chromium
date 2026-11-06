@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux update service dialer
+// summary: Starts the Linux update service by connecting to its systemd activation socket or launching the updater executable.
+// ---
+
 #include "chrome/updater/ipc/update_service_dialer.h"
 
 #include <stdio.h>

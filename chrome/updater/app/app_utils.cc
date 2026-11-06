@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Updater app utility functions
+// summary: Implements helpers that recognize updater and companion app IDs, remote event logging exemptions, and whether the updater should uninstall itself.
+// ---
+
 #include "chrome/updater/app/app_utils.h"
 
 #include <algorithm>

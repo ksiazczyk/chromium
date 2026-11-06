@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Updater server app header
+// summary: Declares the AppServer class, the base for the updater server process that manages active and candidate versions, RPC duty, and idle shutdown.
+// ---
+
 #ifndef CHROME_UPDATER_APP_APP_SERVER_H_
 #define CHROME_UPDATER_APP_APP_SERVER_H_
 

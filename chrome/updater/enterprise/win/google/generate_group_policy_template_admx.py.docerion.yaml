@@ -1,0 +1,4 @@
+# Docerion header of generate_group_policy_template_admx.py.
+type: source
+title: Google Update ADMX/ADML group policy template generator
+summary: Generates the Google Update ADMX and ADML group policy templates, defining namespaces, categories, and policies for updater settings.

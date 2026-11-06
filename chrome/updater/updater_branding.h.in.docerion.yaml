@@ -1,0 +1,4 @@
+# Docerion header of updater_branding.h.in.
+type: config
+title: Updater branding header template
+summary: Template header defining branding macros such as browser name, app IDs, URLs, and identifiers that are substituted at build time.

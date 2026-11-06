@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Activity data service implementation
+// summary: Implements the activity data service that reads and clears per-app active bits on a background thread and reports unknown day-since values.
+// ---
+
 #include "chrome/updater/activity.h"
 
 #include <set>

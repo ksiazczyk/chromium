@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote event logging implementation
+// summary: Implements the telemetry logger delegate that uploads Omaha usage stats events to the server, handling logging cookies, metadata, and cooldowns.
+// ---
+
 #include "chrome/updater/event_logger.h"
 
 #include <stdint.h>

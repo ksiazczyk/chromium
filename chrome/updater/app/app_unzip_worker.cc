@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unzip worker app implementation
+// summary: Implements the unzip worker app, which hosts the unzipper Mojo service over a passed platform channel and shuts down when unzipping finishes.
+// ---
+
 #include "chrome/updater/app/app_unzip_worker.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: External constants overrider implementation
+// summary: Implements the overrider that loads developer overrides from overrides.json on top of the defaults and restricts overridden URLs to localhost.
+// ---
+
 #include "chrome/updater/external_constants_override.h"
 
 #include <stdint.h>

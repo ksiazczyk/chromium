@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Updater scoped lock creation
+// summary: Creates platform-specific named system locks that prevent concurrent updater processes on Linux, macOS, and Windows.
+// ---
+
 #include "chrome/updater/lock.h"
 
 #include <memory>

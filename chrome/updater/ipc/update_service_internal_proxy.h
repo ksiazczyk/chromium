@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UpdateServiceInternalProxy interface header
+// summary: Declares UpdateServiceInternalProxy, a retrying wrapper around the platform-specific internal updater proxy for Run and Hello calls.
+// ---
+
 #ifndef CHROME_UPDATER_IPC_UPDATE_SERVICE_INTERNAL_PROXY_H_
 #define CHROME_UPDATER_IPC_UPDATE_SERVICE_INTERNAL_PROXY_H_
 

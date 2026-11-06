@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for updater version resource original filenames
+// summary: Unit tests verifying the OriginalFilename version resource of updater executables and DLLs on Windows.
+// ---
+
 #include <string>
 #include <vector>
 

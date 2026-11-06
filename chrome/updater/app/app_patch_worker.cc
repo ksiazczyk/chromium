@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Patch worker app implementation
+// summary: Implements the patch worker app, which hosts the file patcher service over a Mojo platform channel and shuts down once patching completes.
+// ---
+
 #include "chrome/updater/app/app_patch_worker.h"
 
 #include <memory>

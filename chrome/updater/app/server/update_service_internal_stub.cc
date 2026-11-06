@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UpdateServiceInternalStub implementation
+// summary: Implements the internal Mojo IPC stub that runs a NamedMojoIpcServer and forwards Run and Hello calls to the updater's UpdateServiceInternal.
+// ---
+
 #include "chrome/updater/app/server/update_service_internal_stub.h"
 
 #include <iterator>

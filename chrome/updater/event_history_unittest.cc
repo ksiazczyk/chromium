@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Event history unit tests
+// summary: Unit tests for the updater event history logging API, verifying event serialization, log fields, and log file behavior.
+// ---
+
 #include "chrome/updater/event_history.h"
 
 #include <stddef.h>

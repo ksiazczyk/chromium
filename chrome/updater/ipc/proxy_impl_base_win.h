@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base class for Windows COM proxy implementations
+// summary: Template base for Windows COM proxy implementations that create and query updater server interfaces for user and system installs.
+// ---
+
 #ifndef CHROME_UPDATER_IPC_PROXY_IMPL_BASE_WIN_H_
 #define CHROME_UPDATER_IPC_PROXY_IMPL_BASE_WIN_H_
 
