@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Open extension strings build rules
+summary: GN build file defining a grit_strings target that compiles the branded open extension string resources and emits a branded strings header for iOS.

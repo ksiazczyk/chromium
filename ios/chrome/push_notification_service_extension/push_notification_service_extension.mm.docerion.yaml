@@ -1,0 +1,4 @@
+# Docerion header of push_notification_service_extension.mm.
+type: source
+title: PushNotificationServiceExtension implementation
+summary: Implements the notification service extension by passing the request content unchanged to the content handler.

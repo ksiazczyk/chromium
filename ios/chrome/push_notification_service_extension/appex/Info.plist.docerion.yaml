@@ -1,0 +1,4 @@
+# Docerion header of Info.plist.
+type: config
+title: Info.plist for the push notification service extension appex
+summary: Property list declaring the appex bundle metadata, extension point identifier, principal class, and build-time substitutions for the push notification service extension.

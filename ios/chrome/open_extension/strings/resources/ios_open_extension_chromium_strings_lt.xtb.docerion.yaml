@@ -1,0 +1,4 @@
+# Docerion header of ios_open_extension_chromium_strings_lt.xtb.
+type: data
+title: Open extension Chromium strings (Lithuanian)
+summary: Lithuanian translation bundle for the iOS open extension, covering the link-handling error message, the open-in-Chromium action and the OK button.

@@ -1,0 +1,4 @@
+# Docerion header of push_notification_service_extension.appex.entitlements.
+type: config
+title: Push notification service extension entitlements (external)
+summary: Entitlements plist for the external push notification service extension, defining its application identifier and granting access to the Chrome and common app groups.

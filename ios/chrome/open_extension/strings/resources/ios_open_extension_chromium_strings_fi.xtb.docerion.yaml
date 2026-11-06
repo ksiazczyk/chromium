@@ -1,0 +1,4 @@
+# Docerion header of ios_open_extension_chromium_strings_fi.xtb.
+type: data
+title: Finnish (fi) Chromium strings for the iOS open extension
+summary: Xtb translation bundle with Finnish strings for the iOS open extension, covering the link-processing error, the open-in-Chromium action and an OK button.

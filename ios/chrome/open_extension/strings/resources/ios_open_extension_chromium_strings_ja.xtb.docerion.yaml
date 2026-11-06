@@ -1,0 +1,4 @@
+# Docerion header of ios_open_extension_chromium_strings_ja.xtb.
+type: data
+title: Chromium open extension strings in Japanese
+summary: XML translation bundle with Japanese strings for the iOS open extension, covering the link-handling error, open-in-Chromium action, and OK button.

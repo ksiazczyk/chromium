@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Open extension appex build targets
+summary: Defines GN targets for the open_extension app extension bundle, including Info.plist tweaks, entitlements compilation, privacy manifest bundling, and dependencies.

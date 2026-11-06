@@ -1,0 +1,4 @@
+# Docerion header of Info.plist.
+type: config
+title: Open extension appex Info.plist
+summary: Declares metadata for the open-in-Chrome iOS app extension, including its bundle identity, URL-based share extension activation rule, and principal class.

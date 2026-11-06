@@ -1,0 +1,4 @@
+# Docerion header of ios_open_extension_chromium_strings_zh-TW.xtb.
+type: data
+title: iOS open extension Chromium strings (zh-TW)
+summary: XML translation bundle with Traditional Chinese strings for the iOS open extension Chromium UI, covering the link error, open-in-Chromium and OK messages.

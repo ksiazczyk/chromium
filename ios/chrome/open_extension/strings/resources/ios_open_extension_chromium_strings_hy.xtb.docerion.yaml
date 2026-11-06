@@ -1,0 +1,4 @@
+# Docerion header of ios_open_extension_chromium_strings_hy.xtb.
+type: data
+title: Chromium open extension strings in Armenian
+summary: XML translation bundle with Armenian strings for the iOS open extension, covering the link-handling error, open-in-Chromium action, and OK button.
