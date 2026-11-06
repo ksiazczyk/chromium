@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: getVolumeList API test background script
+// summary: Runs a browser test that calls chrome.fileSystem.getVolumeList and asserts the expected volume IDs and writability flags, including read-only and writable test volumes.
+// ---
+
 chrome.test.runTests([
   function getVolumeList() {
     chrome.fileSystem.getVolumeList(

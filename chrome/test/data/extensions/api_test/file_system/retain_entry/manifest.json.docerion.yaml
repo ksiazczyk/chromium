@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the chrome.fileSystem.retainEntry test app
+summary: Declares the test Chrome app with the fileSystem permission and background.js as its background script.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test that getWritableEntry rejects the file system root
+// summary: Chooses a writable file entry and asserts that requesting a writable entry for the file system root fails with 'Invalid parameters'.
+// ---
+
 chrome.test.runTests([
   function getWritableEntry() {
     chrome.fileSystem.chooseEntry(chrome.test.callbackPass(function(entry) {

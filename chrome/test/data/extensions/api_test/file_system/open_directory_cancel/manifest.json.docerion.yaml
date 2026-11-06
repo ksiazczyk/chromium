@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the chrome.fileSystem open cancel test app
+summary: Extension manifest declaring a test app with the fileSystem directory permission for the cancelled directory selection test.

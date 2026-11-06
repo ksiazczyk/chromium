@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: getDisplayPath prettify test
+// summary: Runs a test that chooses an entry and asserts its display path starts with the home directory indicator and contains the file name.
+// ---
+
 chrome.test.runTests([
   function getDisplayPath() {
     chrome.fileSystem.chooseEntry(chrome.test.callbackPass(function(entry) {

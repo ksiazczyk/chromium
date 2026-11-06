@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the requestFileSystem writable test app
+summary: Extension manifest declaring the fileSystem requestFileSystem and write permissions required by the kiosk test app.

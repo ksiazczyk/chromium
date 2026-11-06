@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the chrome.fileSystem.restoreEntry test app
+summary: Chrome app manifest declaring the background script and fileSystem write and directory permissions needed for the restoreEntry test.

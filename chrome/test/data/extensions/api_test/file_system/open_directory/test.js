@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for chrome.fileSystem.chooseEntry opening a directory
+// summary: Runs tests for directory access without write permission, checking reading entries and that removing, copying, moving and creating files fail.
+// ---
+
 // Testing with directory access, but no write permission.
 chrome.test.runTests([
   function openFile() {

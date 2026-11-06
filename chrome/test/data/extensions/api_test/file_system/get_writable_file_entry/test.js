@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test for chrome.fileSystem.getWritableEntry permission behavior
+// summary: Runs a browser test that chooses a file entry and verifies getWritableEntry fails without the fileSystem.write permission.
+// ---
+
 chrome.test.runTests([
   function getWritableEntry() {
     chrome.fileSystem.chooseEntry(chrome.test.callbackPass(function(entry) {

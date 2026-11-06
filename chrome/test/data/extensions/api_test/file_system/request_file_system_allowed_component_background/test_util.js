@@ -5,6 +5,12 @@
 // This is a duplicate of the file test_util in
 // chrome/test/data/extensions/api_test/file_system
 
+// ---docerion
+// type: test
+// title: Shared utility for checking file system entries
+// summary: Provides checkEntry, which asserts an entry's name, writability and read and write behavior for the file system API tests; duplicated from the parent test directory.
+// ---
+
 function checkEntry(entry, expectedName, isNew, shouldBeWritable) {
   chrome.test.assertEq(expectedName, entry.name);
 

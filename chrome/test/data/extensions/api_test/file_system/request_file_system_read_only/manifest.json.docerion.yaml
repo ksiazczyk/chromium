@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the requestFileSystem read-only test app
+summary: Chrome app manifest declaring the fileSystem requestFileSystem permission and kiosk settings for the read-only test.

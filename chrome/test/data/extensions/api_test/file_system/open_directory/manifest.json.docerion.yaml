@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the chrome.fileSystem openDirectory test app
+summary: Chrome app manifest that defines the test app and requests the fileSystem directory permission for the openDirectory API test.

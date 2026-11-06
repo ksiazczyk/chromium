@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: chrome.fileSystem.restoreEntry API test
+// summary: Verifies isRestorable and restoreEntry for a valid retained entry ID and checks that an unknown ID fails with an error.
+// ---
+
 chrome.test.runTests([
   function restoreEntryWorks() {
     const id = 'magic id';

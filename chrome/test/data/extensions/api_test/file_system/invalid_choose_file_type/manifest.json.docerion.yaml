@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the chrome.fileSystem invalid choose file type test
+summary: Manifest of the test app declaring the background script and fileSystem permission for the invalid chooseFile type test.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test app manifest
+summary: Manifest for the Chrome app that tests chrome.fileSystem.chooseEntry opening multiple existing files, requesting fileSystem permissions.

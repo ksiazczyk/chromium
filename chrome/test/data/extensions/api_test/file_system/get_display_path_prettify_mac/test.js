@@ -3,6 +3,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: getDisplayPath prettify test on Mac
+// summary: Chrome test verifying that getDisplayPath strips the .localized suffix so the displayed path ends with /test/gold.txt.
+// ---
+
 chrome.test.runTests([
   function getDisplayPath() {
     chrome.fileSystem.chooseFile(chrome.test.callbackPass(function(entry) {

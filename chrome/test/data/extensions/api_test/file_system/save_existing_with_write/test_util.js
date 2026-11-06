@@ -5,6 +5,12 @@
 // This is a duplicate of the file test_util in
 // chrome/test/data/extensions/api_test/file_system
 
+// ---docerion
+// type: test
+// title: Utility for checking file entry contents and writability
+// summary: Provides checkEntry, which asserts an entry's name, verifies its contents can be read, and tests whether writing to it succeeds.
+// ---
+
 function checkEntry(entry, expectedName, isNew, shouldBeWritable) {
   chrome.test.assertEq(expectedName, entry.name);
   // Test that the file can be read.

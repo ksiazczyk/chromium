@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the chrome.fileSystem save new file test
+summary: Defines the test app with the fileSystem write permission needed to save a new file via chooseFile.

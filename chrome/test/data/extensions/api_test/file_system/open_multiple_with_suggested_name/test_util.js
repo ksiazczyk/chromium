@@ -5,6 +5,12 @@
 // This is a duplicate of the file test_util in
 // chrome/test/data/extensions/api_test/file_system
 
+// ---docerion
+// type: test
+// title: Shared helpers to verify file entry contents and writability
+// summary: Provides checkEntry to assert an entry's name, readability and write permissions for the chrome.fileSystem API tests.
+// ---
+
 function checkEntry(entry, expectedName, isNew, shouldBeWritable) {
   chrome.test.assertEq(expectedName, entry.name);
   // Test that the file can be read.

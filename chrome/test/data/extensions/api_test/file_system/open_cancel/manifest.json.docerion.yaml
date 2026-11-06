@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the chrome.fileSystem open cancel test app
+summary: Declares the packaged test app with its background script and fileSystem permission used to test cancelling chooseEntry.

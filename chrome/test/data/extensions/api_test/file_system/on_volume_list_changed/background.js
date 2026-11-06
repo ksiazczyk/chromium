@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background script for the onVolumeListChanged API test
+// summary: Runs chrome.test checks that a newly mounted volume emits onVolumeListChanged and that getVolumeList reflects the updated volume count.
+// ---
+
 function runTests() {
   chrome.test.runTests([
     function onVolumeListChanged() {

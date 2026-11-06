@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the requestFileSystem not-allowed component test app
+summary: Declares the Chrome App fixture with the fileSystem requestFileSystem permission used to test non-whitelisted components.

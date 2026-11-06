@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for chrome.fileSystem.retainEntry and restoreEntry
+// summary: Runs the retainEntryWorks test, retaining and restoring a directory entry across windows and verifying restorability and contents.
+// ---
+
 chrome.test.runTests([
   function retainEntryWorks() {
     chrome.app.window.create(

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: chooseEntry multiple files test
+// summary: Runs the test that opens two existing files with chrome.fileSystem.chooseEntry using acceptsMultiple and verifies entry names in sort order.
+// ---
+
 chrome.test.runTests([
   function openFile() {
     chrome.fileSystem.chooseEntry(

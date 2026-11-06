@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the requestFileSystem background page test app
+summary: Chrome app manifest declaring the background script, kiosk-only mode, and fileSystem requestFileSystem and write permissions needed by the test.
