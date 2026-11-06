@@ -1,0 +1,4 @@
+# Docerion header of shopping_persisted_data_tab_helper.mm.
+type: source
+title: ShoppingPersistedDataTabHelper implementation
+summary: Implements the shopping persisted data tab helper, retrieving product info from ShoppingService, qualifying and formatting price drops, and logging histograms.

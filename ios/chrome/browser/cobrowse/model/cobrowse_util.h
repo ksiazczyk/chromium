@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cobrowse eligibility utility functions
+// summary: Declares helper functions that check whether AIM Cobrowse and its Web Selection Search feature are enabled and the user is eligible.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_COBROWSE_MODEL_COBROWSE_UTIL_H_
 #define IOS_CHROME_BROWSER_COBROWSE_MODEL_COBROWSE_UTIL_H_
 

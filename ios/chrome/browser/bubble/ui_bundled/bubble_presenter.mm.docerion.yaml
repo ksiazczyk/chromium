@@ -1,0 +1,4 @@
+# Docerion header of bubble_presenter.mm.
+type: source
+title: BubblePresenter implementation
+summary: Implements eligibility, presentation and dismissal tracking for the different in-product help bubbles.

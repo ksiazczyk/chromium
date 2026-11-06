@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Price alerts eligibility utilities
+// summary: Declares functions that check whether price alerts are eligible for a profile or for the profile owning a web state.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_COMMERCE_MODEL_PRICE_ALERT_UTIL_H_
 #define IOS_CHROME_BROWSER_COMMERCE_MODEL_PRICE_ALERT_UTIL_H_
 

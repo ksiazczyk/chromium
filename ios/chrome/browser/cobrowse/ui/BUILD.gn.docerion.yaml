@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Cobrowse UI build targets
+summary: Defines GN source sets for the Assistant AIM UI, its constants, unit tests and Earl Grey tests with their dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AimCobrowseJavaScriptFeature header
+// summary: Declares the JavaScript feature that allows native code to communicate with the AIM Cobrowse page.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_COBROWSE_MODEL_AIM_COBROWSE_JAVA_SCRIPT_FEATURE_H_
 #define IOS_CHROME_BROWSER_COBROWSE_MODEL_AIM_COBROWSE_JAVA_SCRIPT_FEATURE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of toolbar_swipe_gesture_in_product_help_view.mm.
+type: source
+title: Toolbar swipe gesture in-product help view implementation
+summary: Implements the toolbar swipe IPH bubble, including gesture indicator animation and layout constraints.

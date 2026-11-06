@@ -1,0 +1,4 @@
+# Docerion header of bubble_view_controller.mm.
+type: source
+title: BubbleViewController implementation
+summary: Implements BubbleViewController, building the appropriate bubble view type and handling its display, dismissal, and animations.

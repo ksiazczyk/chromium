@@ -1,0 +1,4 @@
+# Docerion header of signin_promo_catalog_view_controller.mm.
+type: source
+title: Signin promo catalog view controller implementation
+summary: Implements the signin promo catalog screen with switches for compact style, close button visibility and a fake account.

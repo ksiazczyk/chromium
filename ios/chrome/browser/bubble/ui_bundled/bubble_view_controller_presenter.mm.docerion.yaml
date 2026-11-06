@@ -1,0 +1,4 @@
+# Docerion header of bubble_view_controller_presenter.mm.
+type: source
+title: BubbleViewControllerPresenter implementation
+summary: Implements bubble presentation and dismissal via timers, tap, pan, and swipe gesture recognizers, engagement tracking, and UMA metrics for the iOS bubble UI.

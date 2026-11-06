@@ -1,0 +1,4 @@
+# Docerion header of assistant_aim_view_controller.mm.
+type: source
+title: Assistant AIM view controller implementation
+summary: Implements the Assistant AIM UI, laying out the header, web state view, and input plate, and managing history, zero state, and gesture-driven sheet behavior.

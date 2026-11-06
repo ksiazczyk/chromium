@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AIM SRP debugger URL parameter cell interface
+// summary: Declares a table view cell that displays and edits URL query parameters in the AIM SRP debugger.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_COBROWSE_DEBUGGER_AIM_SRP_DEBUGGER_URL_PARAM_CELL_H_
 #define IOS_CHROME_BROWSER_COBROWSE_DEBUGGER_AIM_SRP_DEBUGGER_URL_PARAM_CELL_H_
 

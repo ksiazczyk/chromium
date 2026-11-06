@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the catalogs UI source set
+summary: Defines the ui source set listing the catalog view controller sources and their build dependencies.

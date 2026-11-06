@@ -1,0 +1,4 @@
+# Docerion header of data_sharing_tab_helper.mm.
+type: source
+title: DataSharingTabHelper implementation for share URL interception
+summary: Implements the iOS tab helper that intercepts data sharing share URL navigations, notifies its delegate, and closes WebStates left empty after interception.

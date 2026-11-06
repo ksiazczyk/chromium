@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for bubble model sources and unit tests
+summary: Defines GN build targets for the bubble model source set and its unit tests, listing sources and dependencies.

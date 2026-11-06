@@ -1,0 +1,4 @@
+# Docerion header of gesture_in_product_help_gesture_recognizer.mm.
+type: source
+title: Custom swipe gesture recognizer implementation
+summary: Implements swipe recognition with angle, distance, and edge-start thresholds so the gesture in-product help view reacts faster than the default recognizer.

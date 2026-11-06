@@ -1,0 +1,4 @@
+# Docerion header of session_proto_db_factory_unittest.mm.
+type: test
+title: Session proto database factory unit tests
+summary: Tests that the factory returns a database per non-incognito profile, reuses it for the same profile and returns none for incognito.

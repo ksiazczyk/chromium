@@ -1,0 +1,4 @@
+# Docerion header of ios_collaboration_controller_delegate_unittest.mm.
+type: test
+title: iOS collaboration controller delegate unit tests
+summary: Unit tests for the iOS collaboration controller delegate that use fake collaboration, ShareKit, tab group and sync services to exercise collaboration flows.

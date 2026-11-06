@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for collaboration infobar
+summary: Defines the infobar source set and the unit_tests target with their sources and dependencies for the collaboration messaging infobar code.

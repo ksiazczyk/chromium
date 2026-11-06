@@ -1,0 +1,4 @@
+# Docerion header of ios_collaboration_controller_delegate.mm.
+type: source
+title: iOS collaboration controller delegate implementation
+summary: Implements the iOS collaboration controller delegate, wiring sign-in coordinators, ShareKit flows, tab group services and dialogs for collaboration flows.

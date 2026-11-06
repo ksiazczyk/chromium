@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BubbleViewControllerPresenter Subclassing category header
+// summary: Exposes internal properties and helper methods of BubbleViewControllerPresenter for use by its subclasses, including frame calculation, configuration, and VoiceOver registration.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BUBBLE_UI_BUNDLED_BUBBLE_VIEW_CONTROLLER_PRESENTER_SUBCLASSING_H_
 #define IOS_CHROME_BROWSER_BUBBLE_UI_BUNDLED_BUBBLE_VIEW_CONTROLLER_PRESENTER_SUBCLASSING_H_
 

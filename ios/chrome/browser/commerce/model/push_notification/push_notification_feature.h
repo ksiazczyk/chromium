@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Price tracking and notification feature checks header
+// summary: Declares functions that report whether price tracking with ShoppingService and price drop push notifications are enabled for a profile.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_COMMERCE_MODEL_PUSH_NOTIFICATION_PUSH_NOTIFICATION_FEATURE_H_
 #define IOS_CHROME_BROWSER_COMMERCE_MODEL_PUSH_NOTIFICATION_PUSH_NOTIFICATION_FEATURE_H_
 

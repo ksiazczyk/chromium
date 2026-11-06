@@ -1,0 +1,4 @@
+# Docerion header of guided_tour_bubble_view_controller_presentation_controller.mm.
+type: source
+title: Guided tour bubble presentation controller implementation
+summary: Implements the dimmed background with a spotlight cutout around the anchor view for the guided tour bubble.

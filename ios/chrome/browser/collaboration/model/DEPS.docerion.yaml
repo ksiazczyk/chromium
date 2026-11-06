@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for collaboration model
+summary: Specifies the directories that collaboration model code and its tests are allowed to include from.

@@ -1,0 +1,4 @@
+# Docerion header of guided_tour_bubble_view_controller_presenter.mm.
+type: source
+title: Guided tour bubble view controller presenter implementation
+summary: Implements presenting and dismissing the guided tour bubble and maps guided tour steps to page control pages.

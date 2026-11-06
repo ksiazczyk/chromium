@@ -1,0 +1,4 @@
+# Docerion header of cobrowse_context.mm.
+type: source
+title: CobrowseContext implementation
+summary: Implements CobrowseContext, building AI Mode search URLs with query parameters such as q, mtid, mstk, and csuir.

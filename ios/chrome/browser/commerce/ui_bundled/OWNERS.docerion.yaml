@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS code ownership reference
+summary: Points to the persisted_state_db OWNERS file that lists the code owners for this directory.

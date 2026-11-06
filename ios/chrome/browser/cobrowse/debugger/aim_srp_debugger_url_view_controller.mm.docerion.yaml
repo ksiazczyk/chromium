@@ -1,0 +1,4 @@
+# Docerion header of aim_srp_debugger_url_view_controller.mm.
+type: source
+title: AIM SRP debugger URL view controller implementation
+summary: Implements the debugger screen that lists the AIM URL's components and query items in a table view with edit, done, cancel and close actions.

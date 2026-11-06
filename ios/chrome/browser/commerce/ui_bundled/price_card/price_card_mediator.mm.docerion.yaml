@@ -1,0 +1,4 @@
+# Docerion header of price_card_mediator.mm.
+type: source
+title: PriceCardMediator implementation
+summary: Implements fetching price drop data from the shopping tab helper, supplying price cards for tabs and logging price drop metrics.

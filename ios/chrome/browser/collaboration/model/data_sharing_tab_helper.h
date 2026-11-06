@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataSharingTabHelper declaration
+// summary: Declares a web state tab helper that intercepts navigations to data sharing URLs.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_COLLABORATION_MODEL_DATA_SHARING_TAB_HELPER_H_
 #define IOS_CHROME_BROWSER_COLLABORATION_MODEL_DATA_SHARING_TAB_HELPER_H_
 

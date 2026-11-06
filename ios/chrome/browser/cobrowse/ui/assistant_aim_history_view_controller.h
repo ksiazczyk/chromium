@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Assistant AIM history view controller interface
+// summary: Declares the view controller presenting AI Mode history, with delegate callbacks for dismissal and task selection.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_COBROWSE_UI_ASSISTANT_AIM_HISTORY_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_COBROWSE_UI_ASSISTANT_AIM_HISTORY_VIEW_CONTROLLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CollaborationServiceFactory declaration
+// summary: Declares the profile-keyed factory that creates CollaborationService instances for iOS profiles.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_COLLABORATION_MODEL_COLLABORATION_SERVICE_FACTORY_H_
 #define IOS_CHROME_BROWSER_COLLABORATION_MODEL_COLLABORATION_SERVICE_FACTORY_H_
 

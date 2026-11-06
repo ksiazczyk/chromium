@@ -1,0 +1,4 @@
+# Docerion header of aim_srp_debugger_breadcrumbs_view_controller.mm.
+type: source
+title: AimSRPDebuggerBreadcrumbsViewController implementation
+summary: Implements the breadcrumbs view controller and its event cell showing direction icon, timestamp, event name and payload for logged AIM SRP messages.

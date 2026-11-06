@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PriceNotificationsTabHelper class header
+// summary: Declares the tab helper that initiates price tracking in-product help when users visit price-trackable pages.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_COMMERCE_MODEL_PRICE_NOTIFICATIONS_PRICE_NOTIFICATIONS_TAB_HELPER_H_
 #define IOS_CHROME_BROWSER_COMMERCE_MODEL_PRICE_NOTIFICATIONS_PRICE_NOTIFICATIONS_TAB_HELPER_H_
 

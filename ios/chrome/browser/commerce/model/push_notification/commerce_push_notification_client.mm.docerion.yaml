@@ -1,0 +1,4 @@
+# Docerion header of commerce_push_notification_client.mm.
+type: source
+title: CommercePushNotificationClient implementation
+summary: Implements handling of commerce price drop notifications, including Visit site and Untrack price actions, payload parsing, and profile resolution.

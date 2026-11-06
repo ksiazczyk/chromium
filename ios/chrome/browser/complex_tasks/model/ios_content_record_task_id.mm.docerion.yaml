@@ -1,0 +1,4 @@
+# Docerion header of ios_content_record_task_id.mm.
+type: source
+title: IOSContentRecordTaskId implementation
+summary: Implements the constructor, copy constructor and destructor of the IOSContentRecordTaskId class.

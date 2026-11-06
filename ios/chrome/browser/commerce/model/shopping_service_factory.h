@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShoppingServiceFactory header
+// summary: Declares ShoppingServiceFactory, a profile-keyed service factory that owns and creates ShoppingService instances for iOS Chrome profiles.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_COMMERCE_MODEL_SHOPPING_SERVICE_FACTORY_H_
 #define IOS_CHROME_BROWSER_COMMERCE_MODEL_SHOPPING_SERVICE_FACTORY_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of messaging_backend_service_factory_unittest.mm.
+type: test
+title: Messaging backend service factory unit tests
+summary: Unit tests verifying the messaging backend service is created for regular profiles and returns nil for incognito profiles.

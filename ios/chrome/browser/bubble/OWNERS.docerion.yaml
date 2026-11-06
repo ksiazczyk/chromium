@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the bubble directory
+summary: Lists the email addresses of the code owners responsible for the ios/chrome/browser/bubble directory.

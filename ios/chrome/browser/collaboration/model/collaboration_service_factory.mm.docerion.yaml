@@ -1,0 +1,4 @@
+# Docerion header of collaboration_service_factory.mm.
+type: source
+title: CollaborationServiceFactory implementation
+summary: Builds a real or empty CollaborationService depending on the data sharing feature state and whether the profile is incognito.

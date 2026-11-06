@@ -1,0 +1,4 @@
+# Docerion header of messaging_backend_service_bridge.mm.
+type: source
+title: Messaging backend service bridge implementation
+summary: Forwards messaging backend service events to the Objective-C observer by invoking the corresponding protocol selectors.

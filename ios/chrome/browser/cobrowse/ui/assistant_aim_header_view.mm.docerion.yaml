@@ -1,0 +1,4 @@
+# Docerion header of assistant_aim_header_view.mm.
+type: source
+title: Assistant AIM header view implementation
+summary: Implements the cobrowse header view with title label, close, history, new thread and context menu buttons and glass styling.

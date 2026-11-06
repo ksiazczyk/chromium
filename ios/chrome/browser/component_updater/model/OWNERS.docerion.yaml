@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file delegating to shared component updater owners
+summary: Points to the shared chrome browser component updater OWNERS file for review ownership.

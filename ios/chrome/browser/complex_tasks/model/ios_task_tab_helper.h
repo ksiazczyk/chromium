@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IOSTaskTabHelper class header
+// summary: Declares IOSTaskTabHelper, a WebStateObserver tab helper that tracks task IDs for navigations and their relationships to group user history.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_COMPLEX_TASKS_MODEL_IOS_TASK_TAB_HELPER_H_
 #define IOS_CHROME_BROWSER_COMPLEX_TASKS_MODEL_IOS_TASK_TAB_HELPER_H_
 

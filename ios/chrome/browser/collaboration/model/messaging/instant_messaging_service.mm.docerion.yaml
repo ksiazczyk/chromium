@@ -1,0 +1,4 @@
+# Docerion header of instant_messaging_service.mm.
+type: source
+title: Instant messaging service implementation
+summary: Implements instant message handling by showing and clearing collaboration group infobars and the out-of-date version infobar.

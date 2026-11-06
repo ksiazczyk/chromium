@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Price card include rules
+summary: Defines the allowed include dependencies for the price card directory, permitting the tab switcher tab utilities header.

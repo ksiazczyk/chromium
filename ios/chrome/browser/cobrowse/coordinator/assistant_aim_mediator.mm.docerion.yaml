@@ -1,0 +1,4 @@
+# Docerion header of assistant_aim_mediator.mm.
+type: source
+title: AssistantAIMMediator implementation
+summary: Implements AI Mode mediator behavior for web state navigation, frame messaging, network reconnection, and metrics recording.

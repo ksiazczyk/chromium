@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Assistant AIM header view interface
+// summary: Declares the Assistant AIM header view and its delegate protocol for close, back, history, new thread and log request actions.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_COBROWSE_UI_ASSISTANT_AIM_HEADER_VIEW_H_
 #define IOS_CHROME_BROWSER_COBROWSE_UI_ASSISTANT_AIM_HEADER_VIEW_H_
 

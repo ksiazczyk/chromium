@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the cobrowse coordinator
+summary: Defines the coordinator source set and its unit test target, listing sources and dependencies for the AI Mode assistant code.

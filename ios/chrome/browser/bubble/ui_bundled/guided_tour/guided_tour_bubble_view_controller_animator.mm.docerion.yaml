@@ -1,0 +1,4 @@
+# Docerion header of guided_tour_bubble_view_controller_animator.mm.
+type: source
+title: Guided tour bubble view controller animator implementation
+summary: Implements the fade and spring animation used when the guided tour bubble is presented or dismissed.

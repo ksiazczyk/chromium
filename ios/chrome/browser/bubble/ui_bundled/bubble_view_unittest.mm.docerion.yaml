@@ -1,0 +1,4 @@
+# Docerion header of bubble_view_unittest.mm.
+type: test
+title: BubbleView unit tests
+summary: Unit tests covering BubbleView sizing with short and long text, accessibility labels, and the presence and behavior of close and next buttons.

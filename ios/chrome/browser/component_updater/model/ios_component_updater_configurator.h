@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS component updater configurator header
+// summary: Declares MakeIOSComponentUpdaterConfigurator, the factory that creates the update_client configurator for iOS.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_COMPONENT_UPDATER_MODEL_IOS_COMPONENT_UPDATER_CONFIGURATOR_H_
 #define IOS_CHROME_BROWSER_COMPONENT_UPDATER_MODEL_IOS_COMPONENT_UPDATER_CONFIGURATOR_H_
 

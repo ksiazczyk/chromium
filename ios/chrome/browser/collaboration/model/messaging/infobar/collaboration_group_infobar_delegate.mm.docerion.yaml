@@ -1,0 +1,4 @@
+# Docerion header of collaboration_group_infobar_delegate.mm.
+type: source
+title: Collaboration group infobar delegate implementation
+summary: Implements the collaboration group infobar delegate, resolving the target browser from message attributions and handling tab reopening and group management actions.

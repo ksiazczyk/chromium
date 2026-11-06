@@ -1,0 +1,4 @@
+# Docerion header of aim_srp_debugger_url_param_cell.mm.
+type: source
+title: AIM SRP debugger URL parameter cell implementation
+summary: Implements the query parameter cell with a key text field and value text view arranged in a horizontal stack view.

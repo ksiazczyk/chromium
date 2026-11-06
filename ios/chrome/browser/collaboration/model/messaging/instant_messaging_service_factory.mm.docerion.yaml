@@ -1,0 +1,4 @@
+# Docerion header of instant_messaging_service_factory.mm.
+type: source
+title: Instant messaging service factory implementation
+summary: Builds the instant messaging service only when shared tab group join and collaboration messaging features are enabled.

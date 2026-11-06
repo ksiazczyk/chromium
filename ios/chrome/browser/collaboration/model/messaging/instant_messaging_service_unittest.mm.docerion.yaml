@@ -1,0 +1,4 @@
+# Docerion header of instant_messaging_service_unittest.mm.
+type: test
+title: Instant messaging service unit tests
+summary: Tests instant message infobar display and versioning message controller behavior using mock services and test profiles.

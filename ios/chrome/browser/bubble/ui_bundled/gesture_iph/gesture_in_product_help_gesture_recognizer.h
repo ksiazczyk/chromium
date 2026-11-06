@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Custom swipe gesture recognizer for gesture IPH view
+// summary: Declares a pan gesture recognizer that detects swipes in an expected direction, with bidirectional and edge-swipe options for the IPH view.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BUBBLE_UI_BUNDLED_GESTURE_IPH_GESTURE_IN_PRODUCT_HELP_GESTURE_RECOGNIZER_H_
 #define IOS_CHROME_BROWSER_BUBBLE_UI_BUNDLED_GESTURE_IPH_GESTURE_IN_PRODUCT_HELP_GESTURE_RECOGNIZER_H_
 

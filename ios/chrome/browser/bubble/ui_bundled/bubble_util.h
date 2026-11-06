@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bubble geometry utilities header
+// summary: Declares bubble_util functions that compute a bubble's anchor point, maximum size, frame, and alignment offset for positioning relative to a target UI element.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BUBBLE_UI_BUNDLED_BUBBLE_UTIL_H_
 #define IOS_CHROME_BROWSER_BUBBLE_UI_BUNDLED_BUBBLE_UTIL_H_
 

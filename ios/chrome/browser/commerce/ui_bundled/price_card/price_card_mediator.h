@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PriceCardMediator interface
+// summary: Declares the mediator implementing PriceCardDataSource, price card item creation helpers and price drop metrics logging.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_COMMERCE_UI_BUNDLED_PRICE_CARD_PRICE_CARD_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_COMMERCE_UI_BUNDLED_PRICE_CARD_PRICE_CARD_MEDIATOR_H_
 

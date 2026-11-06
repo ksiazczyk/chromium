@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AIMSRPDebuggerFullURLCell interface
+// summary: Declares a table view cell that displays and edits the full URL in the AIM SRP debugger.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_COBROWSE_DEBUGGER_AIM_SRP_DEBUGGER_FULL_URL_CELL_H_
 #define IOS_CHROME_BROWSER_COBROWSE_DEBUGGER_AIM_SRP_DEBUGGER_FULL_URL_CELL_H_
 

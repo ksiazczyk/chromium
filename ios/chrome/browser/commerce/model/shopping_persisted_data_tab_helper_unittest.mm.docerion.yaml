@@ -1,0 +1,4 @@
+# Docerion header of shopping_persisted_data_tab_helper_unittest.mm.
+type: test
+title: ShoppingPersistedDataTabHelper unit tests
+summary: Unit tests for ShoppingPersistedDataTabHelper covering price drop qualification thresholds, currency formatting, and metrics logging using a mock shopping service.

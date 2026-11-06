@@ -1,0 +1,4 @@
+# Docerion header of assistant_aim_metrics_recorder.mm.
+type: source
+title: AssistantAIMMetricsRecorder implementation
+summary: Implements session lifecycle tracking and UMA histogram logging for Assistant AIM bottom sheet engagement, time spent, and interactions.

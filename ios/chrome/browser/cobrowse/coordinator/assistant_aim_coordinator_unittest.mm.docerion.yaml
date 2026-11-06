@@ -1,0 +1,4 @@
+# Docerion header of assistant_aim_coordinator_unittest.mm.
+type: test
+title: Unit tests for AssistantAIMCoordinator
+summary: Exercises the AI Mode coordinator with mock eligibility, authentication, and sync services plus mocked command handlers.

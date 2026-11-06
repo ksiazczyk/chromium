@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared Tab Groups feature check declarations
+// summary: Declares functions that report whether joining or creating shared tab groups is enabled for a given collaboration service.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_COLLABORATION_MODEL_FEATURES_H_
 #define IOS_CHROME_BROWSER_COLLABORATION_MODEL_FEATURES_H_
 

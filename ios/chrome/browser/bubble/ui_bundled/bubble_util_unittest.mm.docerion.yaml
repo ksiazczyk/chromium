@@ -1,0 +1,4 @@
+# Docerion header of bubble_util_unittest.mm.
+type: test
+title: Bubble geometry unit tests
+summary: Unit tests verifying the bubble_util anchor point, maximum size, frame, and alignment offset calculations across alignments, arrow directions, and RTL settings.

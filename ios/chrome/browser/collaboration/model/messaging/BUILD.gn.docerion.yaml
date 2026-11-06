@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definitions for collaboration messaging
+summary: Defines the source sets and dependencies for the iOS collaboration messaging services and their unit tests.

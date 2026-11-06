@@ -1,0 +1,4 @@
+# Docerion header of aim_cobrowse_javascript_test.mm.
+type: test
+title: Aim Cobrowse JavaScript API tests
+summary: Verifies that the __gAimCobrowse API and its sendWebToNative function are registered on the window.

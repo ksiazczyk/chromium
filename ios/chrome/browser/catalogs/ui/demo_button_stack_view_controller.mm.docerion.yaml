@@ -1,0 +1,4 @@
+# Docerion header of demo_button_stack_view_controller.mm.
+type: source
+title: Demo button stack view controller implementation
+summary: Populates the demo button stack content with a label, image and optionally scrollable content.

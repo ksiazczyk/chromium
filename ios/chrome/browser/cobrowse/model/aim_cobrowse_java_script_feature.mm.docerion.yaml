@@ -1,0 +1,4 @@
+# Docerion header of aim_cobrowse_java_script_feature.mm.
+type: source
+title: AimCobrowseJavaScriptFeature implementation
+summary: Implements native-to-web message sending and web-to-native script message handling for the AIM Cobrowse feature.

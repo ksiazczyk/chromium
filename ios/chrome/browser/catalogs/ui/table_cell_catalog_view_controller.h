@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Table cell catalog view controller header
+// summary: Declares a debug-only settings screen that catalogs the table view cells used by the app.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CATALOGS_UI_TABLE_CELL_CATALOG_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_CATALOGS_UI_TABLE_CELL_CATALOG_VIEW_CONTROLLER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for collaboration infobar
+summary: Restricts includes in this folder to the iOS Chrome infobars model and URL loading model directories.

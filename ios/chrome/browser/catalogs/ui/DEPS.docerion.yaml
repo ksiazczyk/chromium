@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the catalogs UI directory
+summary: Declares the include paths that files in the catalogs UI directory are allowed to depend on.

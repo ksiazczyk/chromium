@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AssistantAimTabHelper header
+// summary: Declares a tab helper that manages the web-to-native handshake and handles AIM Cobrowse script messages via a callback.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_COBROWSE_MODEL_ASSISTANT_AIM_TAB_HELPER_H_
 #define IOS_CHROME_BROWSER_COBROWSE_MODEL_ASSISTANT_AIM_TAB_HELPER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of assistant_aim_history_view_controller.mm.
+type: source
+title: Assistant AIM history view controller implementation
+summary: Implements the AI Mode history list using a diffable data source collection view plus a signed-out zero state.

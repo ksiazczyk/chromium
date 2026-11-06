@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CobrowseBrowserAgent class declaration
+// summary: Declares the browser agent that manages the cobrowse session, UI state provider, and CobrowseTabHelper delegate.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_COBROWSE_MODEL_COBROWSE_BROWSER_AGENT_H_
 #define IOS_CHROME_BROWSER_COBROWSE_MODEL_COBROWSE_BROWSER_AGENT_H_
 

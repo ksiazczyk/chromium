@@ -1,0 +1,4 @@
+# Docerion header of price_card_item.mm.
+type: source
+title: PriceCardItem implementation
+summary: Implements the PriceCardItem designated initializer that stores the current and previous price strings.

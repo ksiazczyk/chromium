@@ -1,0 +1,4 @@
+# Docerion header of assistant_aim_egtest.mm.
+type: test
+title: Assistant AIM Earl Grey tests
+summary: Earl Grey integration tests exercising the Assistant AIM container detents, simulated search pages and thread interactions.

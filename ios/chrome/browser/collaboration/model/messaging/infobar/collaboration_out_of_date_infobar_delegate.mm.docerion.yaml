@@ -1,0 +1,4 @@
+# Docerion header of collaboration_out_of_date_infobar_delegate.mm.
+type: source
+title: Collaboration out-of-date infobar delegate implementation
+summary: Implements the out-of-date infobar delegate that prompts users to update the app via the App Store when shared tab groups support is outdated.

@@ -1,0 +1,4 @@
+# Docerion header of aim_srp_debugger_event_unittest.mm.
+type: test
+title: AimSRPDebuggerEvent unit tests
+summary: Unit tests verifying that AimSRPDebuggerEvent correctly parses all types of incoming and outgoing AIM communication messages.

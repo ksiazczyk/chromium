@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for bubble UI
+summary: Defines GN source sets and dependencies for the bubble UI, bubble view and constants targets.

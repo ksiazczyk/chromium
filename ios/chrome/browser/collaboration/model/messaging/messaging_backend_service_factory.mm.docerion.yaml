@@ -1,0 +1,4 @@
+# Docerion header of messaging_backend_service_factory.mm.
+type: source
+title: Messaging backend service factory implementation
+summary: Implements the iOS profile-keyed factory that builds the collaboration messaging backend service, wiring tab group, data sharing, identity, and instant messaging dependencies.

@@ -1,0 +1,4 @@
+# Docerion header of aim_srp_message_logger.mm.
+type: source
+title: AIM SRP message logger implementation
+summary: Implements the message logger, wrapping lens protocol messages into debugger events and supporting event clearing.

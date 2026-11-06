@@ -1,0 +1,4 @@
+# Docerion header of assistant_aim_coordinator.mm.
+type: source
+title: AssistantAIMCoordinator implementation
+summary: Implements the AI Mode coordinator, wiring the assistant container UI, mediator, composebox input plate, commands, and metrics.

@@ -1,0 +1,4 @@
+# Docerion header of cobrowse_util_unittest.mm.
+type: test
+title: Unit tests for AIM cobrowse eligibility utilities
+summary: Unit tests verifying cobrowse eligibility logic across feature flag combinations, incognito profiles, and disabled services.

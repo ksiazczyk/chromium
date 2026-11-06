@@ -1,0 +1,4 @@
+# Docerion header of cobrowse_tab_helper.mm.
+type: source
+title: CobrowseTabHelper implementation
+summary: Implements the cobrowse tab helper, showing or hiding the assistant on navigation and visibility changes and syncing AIM URL context.

@@ -1,0 +1,4 @@
+# Docerion header of cobrowse_tab_helper_unittest.mm.
+type: test
+title: CobrowseTabHelper unit tests
+summary: Unit tests for the cobrowse tab helper covering assistant triggering, hiding, and context updates during navigation.

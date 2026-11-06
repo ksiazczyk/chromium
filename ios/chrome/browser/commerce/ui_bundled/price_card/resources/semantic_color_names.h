@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Price card semantic color name declarations
+// summary: Declares the constant naming the color used for the previous price text when price drops are shown in the Tab Switching UI.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_COMMERCE_UI_BUNDLED_PRICE_CARD_RESOURCES_SEMANTIC_COLOR_NAMES_H_
 #define IOS_CHROME_BROWSER_COMMERCE_UI_BUNDLED_PRICE_CARD_RESOURCES_SEMANTIC_COLOR_NAMES_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of price_card_view.mm.
+type: source
+title: PriceCardView implementation
+summary: Implements the price card UI with current and previous price labels, strikethrough styling and Auto Layout constraints.

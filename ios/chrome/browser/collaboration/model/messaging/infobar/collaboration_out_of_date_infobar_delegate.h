@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Collaboration out-of-date infobar delegate header
+// summary: Declares the delegate that shows an out-of-date shared tab groups message in an infobar with an update button.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_COLLABORATION_MODEL_MESSAGING_INFOBAR_COLLABORATION_OUT_OF_DATE_INFOBAR_DELEGATE_H_
 #define IOS_CHROME_BROWSER_COLLABORATION_MODEL_MESSAGING_INFOBAR_COLLABORATION_OUT_OF_DATE_INFOBAR_DELEGATE_H_
 
