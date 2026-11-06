@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Battery service dependency rules
+summary: Declares allowed include directories such as chromeos/dbus, components/dbus, dbus and ui/gfx/win for code in the battery service folder.

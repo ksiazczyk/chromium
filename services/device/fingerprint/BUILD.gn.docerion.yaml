@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Fingerprint component build definition
+summary: GN build rules for the fingerprint component, selecting ChromeOS or default platform sources and their dependencies.

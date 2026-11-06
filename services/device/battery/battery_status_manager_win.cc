@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows battery status manager implementation
+// summary: Implements the Windows battery status manager, observing power notifications through a singleton window and converting SYSTEM_POWER_STATUS to web battery status.
+// ---
+
 #include "services/device/battery/battery_status_manager_win.h"
 
 #include <memory>

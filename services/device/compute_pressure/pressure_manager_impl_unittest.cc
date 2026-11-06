@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PressureManagerImpl unit tests
+// summary: Unit tests for PressureManagerImpl that exercise client binding, pressure update delivery and probe behavior using fake CPU probes and a fake pressure client.
+// ---
+
 #include "services/device/compute_pressure/pressure_manager_impl.h"
 
 #include <memory>

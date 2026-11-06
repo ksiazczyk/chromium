@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SnooperNode unit tests
+// summary: Unit tests verifying SnooperNode recording, resampling, channel mixing and synchronization across many input and output audio parameter combinations.
+// ---
+
 #include "services/audio/snooper_node.h"
 
 #include <algorithm>

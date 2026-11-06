@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OutputGlitchCounter implementation
+// summary: Tracks missed audio callbacks during output sessions and reports glitch statistics to UMA histograms, separated by mixing state and latency type.
+// ---
+
 #include "services/audio/output_glitch_counter.h"
 
 #include <string>

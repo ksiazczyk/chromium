@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncReader for low-latency audio output via sync socket
+// summary: Declares SyncReader, an OutputController::SyncReader that uses shared memory and a sync socket to transfer audio packets between the audio service and the mojo client process.
+// ---
+
 #ifndef SERVICES_AUDIO_SYNC_READER_H_
 #define SERVICES_AUDIO_SYNC_READER_H_
 

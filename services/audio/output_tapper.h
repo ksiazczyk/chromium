@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Output tapper header
+// summary: Declares OutputTapper, which manages reference-signal listening for AEC and reacts to output device changes.
+// ---
+
 #ifndef SERVICES_AUDIO_OUTPUT_TAPPER_H_
 #define SERVICES_AUDIO_OUTPUT_TAPPER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cert verifier service factory implementation
+// summary: Implements CertVerifierServiceFactoryImpl, which creates cert verifier services and applies updates for CRL sets, CT logs, network time, and the Chrome root store.
+// ---
+
 #include "services/cert_verifier/cert_verifier_service_factory.h"
 
 #include <map>

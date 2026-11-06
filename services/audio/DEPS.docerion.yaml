@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Audio service include rules
+summary: Defines the directories the audio service may include from, with an extra rule allowing unit tests to include flatbuffers.

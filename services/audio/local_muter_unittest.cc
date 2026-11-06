@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LocalMuter unit tests
+// summary: Tests that LocalMuter mutes existing and joining group members, unmutes on destruction, and runs the callback when the last mojo binding is lost.
+// ---
+
 #include "services/audio/local_muter.h"
 
 #include <memory>

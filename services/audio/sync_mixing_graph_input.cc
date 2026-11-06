@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncMixingGraphInput implementation
+// summary: Implements a mixing graph input that pulls audio from a source callback, using a FIFO to handle frames-per-buffer mismatches.
+// ---
+
 #include "services/audio/sync_mixing_graph_input.h"
 
 #include "base/trace_event/trace_event.h"

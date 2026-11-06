@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BatteryMonitorFactory
+// summary: Factory that creates BatteryMonitor implementations, subscribes them to battery status changes, and starts or stops the underlying BatteryStatusManager.
+// ---
+
 package org.chromium.device.battery;
 
 import org.chromium.base.ThreadUtils;

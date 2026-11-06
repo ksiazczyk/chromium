@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceListenerOutputStream implementation
+// summary: Implements an AudioOutputStream wrapper that forwards calls to a wrapped stream and reports output device changes via a callback.
+// ---
+
 #include "services/audio/device_listener_output_stream.h"
 
 #include "base/functional/bind.h"

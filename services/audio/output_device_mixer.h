@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OutputDeviceMixer interface
+// summary: Interface for a per-device mixer that manages playback of all audio outputs to one output device and exposes the rendered mix to listeners via ReferenceOutput.
+// ---
+
 #ifndef SERVICES_AUDIO_OUTPUT_DEVICE_MIXER_H_
 #define SERVICES_AUDIO_OUTPUT_DEVICE_MIXER_H_
 

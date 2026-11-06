@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PressureManagerImpl implementation
+// summary: Implements the mojom::PressureManager service, binding clients and managing real and virtual pressure sources.
+// ---
+
 #include "services/device/compute_pressure/pressure_manager_impl.h"
 
 #include <memory>

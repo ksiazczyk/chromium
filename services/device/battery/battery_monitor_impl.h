@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BatteryMonitorImpl class declaration
+// summary: Declares BatteryMonitorImpl, a self-owned mojo receiver that handles status queries and forwards battery status changes to clients.
+// ---
+
 #ifndef SERVICES_DEVICE_BATTERY_BATTERY_MONITOR_IMPL_H_
 #define SERVICES_DEVICE_BATTERY_BATTERY_MONITOR_IMPL_H_
 

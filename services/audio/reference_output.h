@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reference output interface
+// summary: Defines the ReferenceOutput interface letting listeners read audio played by a reference output stream on a realtime thread.
+// ---
+
 #ifndef SERVICES_AUDIO_REFERENCE_OUTPUT_H_
 #define SERVICES_AUDIO_REFERENCE_OUTPUT_H_
 

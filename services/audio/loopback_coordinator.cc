@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoopbackCoordinator implementation
+// summary: Implements LoopbackCoordinator membership tracking with observer notifications and group-matching or excluding observers for loopback sources.
+// ---
+
 #include "services/audio/loopback_coordinator.h"
 
 #include "base/check.h"

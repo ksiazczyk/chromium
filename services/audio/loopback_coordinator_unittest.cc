@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LoopbackCoordinator unit tests
+// summary: Verifies observer notifications on member changes, member iteration, and group observer filtering for LoopbackCoordinator.
+// ---
+
 #include "services/audio/loopback_coordinator.h"
 
 #include <set>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for cert_verifier
+summary: Lists the include rules that allow the cert_verifier directory to depend on net, crypto, mojo, certificate transparency, and network service headers.

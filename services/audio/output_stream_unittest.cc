@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Output stream unit tests
+// summary: Unit tests for OutputStream using mock streams, observers, and callbacks to verify stream creation and state handling.
+// ---
+
 #include "services/audio/output_stream.h"
 
 #include <utility>

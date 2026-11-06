@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Processing audio FIFO header
+// summary: Declares ProcessingAudioFifo, a ring buffer that offloads audio processing to a dedicated real-time thread shared between capture and processing sequences.
+// ---
+
 #ifndef SERVICES_AUDIO_PROCESSING_AUDIO_FIFO_H_
 #define SERVICES_AUDIO_PROCESSING_AUDIO_FIFO_H_
 

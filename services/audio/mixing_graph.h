@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MixingGraph interface
+// summary: Declares the mixing graph that combines multiple audio source callbacks into a single mixed output source, with inputs for volume and start/stop control.
+// ---
+
 #ifndef SERVICES_AUDIO_MIXING_GRAPH_H_
 #define SERVICES_AUDIO_MIXING_GRAPH_H_
 

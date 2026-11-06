@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake ML model handles class declarations
+// summary: Declares fake MlModelHandle classes with optional on-destroy notification for testing ML model handling.
+// ---
+
 #ifndef SERVICES_AUDIO_TEST_FAKE_ML_MODEL_HANDLES_H_
 #define SERVICES_AUDIO_TEST_FAKE_ML_MODEL_HANDLES_H_
 

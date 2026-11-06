@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BatteryMonitor mojo interface implementation
+// summary: Implements the BatteryMonitor mojo interface, subscribing to BatteryStatusService updates and reporting battery status to connected clients.
+// ---
+
 #include "services/device/battery/battery_monitor_impl.h"
 
 #include <utility>

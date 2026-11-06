@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Device service build targets
+summary: GN build file defining the Device Service library, binder overrides component, and test targets with their platform-conditional dependencies.

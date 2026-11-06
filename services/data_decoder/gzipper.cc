@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gzipper implementation
+// summary: Implements deflate, inflate, gzip compress, and uncompress operations backed by zlib.
+// ---
+
 #include "services/data_decoder/gzipper.h"
 
 #include "base/containers/span.h"

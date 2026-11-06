@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VoiceIsolationHandler class declaration
+// summary: Declares VoiceIsolationHandler, which routes captured audio through the voice isolation pipeline and manages asynchronous component initialization with a model handle.
+// ---
+
 #ifndef SERVICES_AUDIO_VOICE_ISOLATION_HANDLER_H_
 #define SERVICES_AUDIO_VOICE_ISOLATION_HANDLER_H_
 

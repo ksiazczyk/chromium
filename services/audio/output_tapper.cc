@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Output tapper implementation
+// summary: Implements OutputTapper, which starts and stops listening to an output device's reference signal for echo cancellation.
+// ---
+
 #include "services/audio/output_tapper.h"
 
 #include "base/logging.h"

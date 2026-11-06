@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InputSyncWriter unit tests
+// summary: Unit tests for InputSyncWriter using mocked sync sockets and glitch counters to verify shared memory writes, overflow FIFO behavior, and consumer read confirmations.
+// ---
+
 #include "services/audio/input_sync_writer.h"
 
 #include <stddef.h>

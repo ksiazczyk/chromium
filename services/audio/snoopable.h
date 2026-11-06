@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Snoopable interface
+// summary: Defines the Snoopable interface and Snooper class for read-only monitoring of audio data flowing through a group member.
+// ---
+
 #ifndef SERVICES_AUDIO_SNOOPABLE_H_
 #define SERVICES_AUDIO_SNOOPABLE_H_
 

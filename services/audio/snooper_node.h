@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SnooperNode header
+// summary: Declares the thread-safe SnooperNode class that buffers audio on one thread and re-renders it in another format with clock drift correction.
+// ---
+
 #ifndef SERVICES_AUDIO_SNOOPER_NODE_H_
 #define SERVICES_AUDIO_SNOOPER_NODE_H_
 

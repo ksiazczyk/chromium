@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Linux battery status manager
+// summary: Unit tests that exercise the Linux battery status manager against mocked D-Bus buses, object proxies and battery properties.
+// ---
+
 #include "services/device/battery/battery_status_manager_linux.h"
 
 #include <limits>

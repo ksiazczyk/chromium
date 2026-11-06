@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for cert verifier integration tests
+summary: Grants the cert verifier integration tests directory permission to include headers from services/network.

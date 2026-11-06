@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeConsumer class declaration
+// summary: Declares a test helper that records audio signals and analyzes silence and amplitude, and can save recordings as WAV.
+// ---
+
 #ifndef SERVICES_AUDIO_TEST_FAKE_CONSUMER_H_
 #define SERVICES_AUDIO_TEST_FAKE_CONSUMER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OutputDeviceMixerImpl header
+// summary: Declares OutputDeviceMixerImpl, which renders managed output streams independently or as a single mixed stream while listeners are attached to the reference signal.
+// ---
+
 #ifndef SERVICES_AUDIO_OUTPUT_DEVICE_MIXER_IMPL_H_
 #define SERVICES_AUDIO_OUTPUT_DEVICE_MIXER_IMPL_H_
 

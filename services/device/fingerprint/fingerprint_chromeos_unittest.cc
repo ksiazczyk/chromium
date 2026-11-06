@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeOS fingerprint unit tests
+// summary: Tests FingerprintChromeOS behavior using a fake biod client and a fake fingerprint observer to simulate biod signals.
+// ---
+
 #include "services/device/fingerprint/fingerprint_chromeos.h"
 
 #include <utility>

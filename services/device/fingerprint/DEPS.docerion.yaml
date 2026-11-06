@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Directory include rules
+summary: Allows includes from the chromeos and dbus directories for code in the fingerprint service directory.

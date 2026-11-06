@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DelayBuffer unit tests
+// summary: Unit tests verifying DelayBuffer frame limits, gap handling, and silence reads outside the recorded range.
+// ---
+
 #include "services/audio/delay_buffer.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Output controller implementation
+// summary: Implements control of an audio output stream with play, pause, and stop operations plus error, power, and glitch statistics logging.
+// ---
+
 #include "services/audio/output_controller.h"
 
 #include <inttypes.h>

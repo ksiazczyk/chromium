@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Structured headers parser header
+// summary: Declares StructuredHeadersParserImpl, the Mojo service for parsing structured header items, lists and dictionaries.
+// ---
+
 #ifndef SERVICES_DATA_DECODER_STRUCTURED_HEADERS_PARSER_IMPL_H_
 #define SERVICES_DATA_DECODER_STRUCTURED_HEADERS_PARSER_IMPL_H_
 

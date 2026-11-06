@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Image decoder service implementation
+// summary: Implements the Mojo ImageDecoder interface, decoding images and animations through Blink and shrinking or discarding results that exceed a maximum byte size.
+// ---
+
 #include "services/data_decoder/image_decoder_impl.h"
 
 #include <string.h>

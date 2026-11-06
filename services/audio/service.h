@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio service header
+// summary: Declares the audio Service class implementing mojom::AudioService with AudioManager ownership abstraction and mojo interface binding.
+// ---
+
 #ifndef SERVICES_AUDIO_SERVICE_H_
 #define SERVICES_AUDIO_SERVICE_H_
 

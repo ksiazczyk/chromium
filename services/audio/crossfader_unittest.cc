@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Crossfader unit tests
+// summary: Unit tests verifying the crossfade window shape, complementary fade gains, and safe aliasing of the destination buffer.
+// ---
+
 #include "services/audio/crossfader.h"
 
 #include <algorithm>

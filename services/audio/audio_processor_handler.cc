@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioProcessorHandler implementation
+// summary: Implements the handler that drives WebRTC audio processing, including ML residual echo estimation and voice isolation routing, in the audio service.
+// ---
+
 #include "services/audio/audio_processor_handler.h"
 
 #include <algorithm>

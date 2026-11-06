@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cert verifier service implementation
+// summary: Implements the Mojo CertVerifierService, handling verification requests, graceful cancellation on client disconnect, and updates to verifier data.
+// ---
+
 #include "services/cert_verifier/cert_verifier_service.h"
 
 #include "base/functional/bind.h"

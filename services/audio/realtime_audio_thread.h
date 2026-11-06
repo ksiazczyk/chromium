@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Realtime audio thread header
+// summary: Declares RealtimeAudioThread, a simple thread class with a configurable realtime thread period for Mac.
+// ---
+
 #ifndef SERVICES_AUDIO_REALTIME_AUDIO_THREAD_H_
 #define SERVICES_AUDIO_REALTIME_AUDIO_THREAD_H_
 

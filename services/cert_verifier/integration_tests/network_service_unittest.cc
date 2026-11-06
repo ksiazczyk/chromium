@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NetworkService unit tests with cert verifier service
+// summary: Unit tests that set up a NetworkService with a cert verifier service and load URLs over an embedded test server to verify certificate verification integration.
+// ---
+
 #include <memory>
 
 #include "base/feature_list.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Gzipper unit tests
+// summary: Tests deflate and inflate plus gzip compress and uncompress round trips and size limit handling.
+// ---
+
 #include "services/data_decoder/gzipper.h"
 
 #include <optional>

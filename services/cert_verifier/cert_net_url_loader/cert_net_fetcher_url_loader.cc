@@ -56,6 +56,12 @@
 //   * Signals completion of requests through RequestCore's WaitableEvent.
 //   * Attaches requests to Jobs for the purpose of de-duplication
 
+// ---docerion
+// type: source
+// title: CertNetFetcherURLLoader implementation
+// summary: Implements CertNetFetcherURLLoader, a net::CertNetFetcher that fetches CA issuer, CRL and OCSP URLs through a URLLoaderFactory with blocking requests, timeouts and job de-duplication.
+// ---
+
 #include "services/cert_verifier/cert_net_url_loader/cert_net_fetcher_url_loader.h"
 
 #include <algorithm>

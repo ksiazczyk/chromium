@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocalMuter class declaration
+// summary: Declares LocalMuter, a media::mojom::LocalMuter implementation that mutes a group of loopback streams, mutes new members, and holds its mojo bindings.
+// ---
+
 #ifndef SERVICES_AUDIO_LOCAL_MUTER_H_
 #define SERVICES_AUDIO_LOCAL_MUTER_H_
 

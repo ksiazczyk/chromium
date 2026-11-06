@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Owning audio manager accessor implementation
+// summary: Implements OwningAudioManagerAccessor, lazily creating an AudioManager with a realtime worker thread and hang monitoring.
+// ---
+
 #include "services/audio/owning_audio_manager_accessor.h"
 
 #include <memory>

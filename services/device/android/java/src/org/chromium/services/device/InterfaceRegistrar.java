@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InterfaceRegistrar
+// summary: Java class that creates a Mojo interface registry for a native handle and registers the BatteryMonitor and NfcProvider interfaces on Android.
+// ---
+
 package org.chromium.services.device;
 
 import org.jni_zero.CalledByNative;

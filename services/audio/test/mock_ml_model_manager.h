@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockMlModelManager gmock of MlModelManager
+// summary: Declares a gmock mock of MlModelManager whose unconfigured GetModel returns nullptr so test fixtures opt in to model behavior with ON_CALL.
+// ---
+
 #ifndef SERVICES_AUDIO_TEST_MOCK_ML_MODEL_MANAGER_H_
 #define SERVICES_AUDIO_TEST_MOCK_ML_MODEL_MANAGER_H_
 

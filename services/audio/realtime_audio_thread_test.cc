@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Realtime audio thread tests
+// summary: Tests starting, stopping and destroying RealtimeAudioThread and verifying the realtime period on Apple platforms.
+// ---
+
 #include "services/audio/realtime_audio_thread.h"
 
 #include <cstring>

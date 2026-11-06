@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InProcessAudioManagerAccessor implementation
+// summary: Implements an AudioManagerAccessor that returns a pointer to an existing AudioManager for the in-process audio service.
+// ---
+
 #include "services/audio/in_process_audio_manager_accessor.h"
 
 #include "base/task/single_thread_task_runner.h"

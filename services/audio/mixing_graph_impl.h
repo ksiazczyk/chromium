@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mixing graph implementation header
+// summary: Declares MixingGraphImpl, which manages audio converters keyed by sample rate and channel setup to mix inputs into a single output stream.
+// ---
+
 #ifndef SERVICES_AUDIO_MIXING_GRAPH_IMPL_H_
 #define SERVICES_AUDIO_MIXING_GRAPH_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LoopbackMixin unit tests
+// summary: Tests LoopbackMixin creation conditions and audio mixing behavior using a mock loopback signal provider.
+// ---
+
 #include "services/audio/loopback_mixin.h"
 
 #include <memory>

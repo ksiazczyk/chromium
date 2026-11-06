@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio sandbox hook declaration for Linux
+// summary: Declares AudioPreSandboxHook, which sets up allowed commands and filesystem permissions for the sandboxed audio service process on Linux.
+// ---
+
 #ifndef SERVICES_AUDIO_AUDIO_SANDBOX_HOOK_LINUX_H_
 #define SERVICES_AUDIO_AUDIO_SANDBOX_HOOK_LINUX_H_
 

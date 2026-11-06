@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Output glitch counter header
+// summary: Declares OutputGlitchCounter, a class that logs audio output glitch data at 10-second intervals for use by SyncReader.
+// ---
+
 #ifndef SERVICES_AUDIO_OUTPUT_GLITCH_COUNTER_H_
 #define SERVICES_AUDIO_OUTPUT_GLITCH_COUNTER_H_
 

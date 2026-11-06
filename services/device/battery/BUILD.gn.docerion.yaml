@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Battery service build configuration
+summary: GN build rules for the battery source set, selecting platform-specific battery status manager sources and dependencies per operating system.

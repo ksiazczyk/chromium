@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InProcessAudioManagerAccessor class declaration
+// summary: Declares an AudioManagerAccessor holding a pointer to an externally owned AudioManager for in-process audio service use.
+// ---
+
 #ifndef SERVICES_AUDIO_IN_PROCESS_AUDIO_MANAGER_ACCESSOR_H_
 #define SERVICES_AUDIO_IN_PROCESS_AUDIO_MANAGER_ACCESSOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeOutputStream test double for audio output streams
+// summary: Header for a test-only fake acting as an AudioStreamFactory and AudioOutputStream that intercepts stream creation and lets tests drive rendering synchronously via SyncReader while capturing output.
+// ---
+
 #ifndef SERVICES_AUDIO_TEST_FAKE_OUTPUT_STREAM_H_
 #define SERVICES_AUDIO_TEST_FAKE_OUTPUT_STREAM_H_
 

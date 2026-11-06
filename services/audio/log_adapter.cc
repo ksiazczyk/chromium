@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LogAdapter implementation
+// summary: Implements LogAdapter, forwarding media::AudioLog events such as created, started, stopped, volume changes, and errors to a remote mojo AudioLog.
+// ---
+
 #include "services/audio/log_adapter.h"
 
 #include <utility>

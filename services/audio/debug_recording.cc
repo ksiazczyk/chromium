@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Debug recording implementation
+// summary: Implements the DebugRecording mojo interface that enables and disables audio and AEC dump debug recording through a file provider.
+// ---
+
 #include "services/audio/debug_recording.h"
 
 #include <memory>

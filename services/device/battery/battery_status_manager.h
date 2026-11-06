@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BatteryStatusManager interface declaration
+// summary: Defines the platform-specific BatteryStatusManager interface for starting and stopping listeners that report battery status changes.
+// ---
+
 #ifndef SERVICES_DEVICE_BATTERY_BATTERY_STATUS_MANAGER_H_
 #define SERVICES_DEVICE_BATTERY_BATTERY_STATUS_MANAGER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS battery status manager
+// summary: Implements BatteryStatusManager for ChromeOS by observing power manager DBus updates and mapping them to mojo battery status values.
+// ---
+
 #include "services/device/battery/battery_status_manager.h"
 
 #include <memory>

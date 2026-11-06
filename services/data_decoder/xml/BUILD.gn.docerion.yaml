@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn targets for the Rust XML parser library
+summary: Defines the rust_static_library target for the Rust XML parser crate and the C++ source set of FFI DOM builder helpers, with visibility and dependency rules.

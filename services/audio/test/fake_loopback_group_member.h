@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeLoopbackGroupMember class declaration
+// summary: Declares a LoopbackSource fake that generates per-channel sine wave tones for loopback audio tests.
+// ---
+
 #ifndef SERVICES_AUDIO_TEST_FAKE_LOOPBACK_GROUP_MEMBER_H_
 #define SERVICES_AUDIO_TEST_FAKE_LOOPBACK_GROUP_MEMBER_H_
 

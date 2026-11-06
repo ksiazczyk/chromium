@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OutputDeviceMixerManager unit tests
+// summary: Unit tests for OutputDeviceMixerManager covering stream creation, reserved and physical device IDs, device changes and listener management with mock audio managers.
+// ---
+
 #include "services/audio/output_device_mixer_manager.h"
 
 #include <optional>

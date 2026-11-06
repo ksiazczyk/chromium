@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OutputDeviceMixerManager header
+// summary: Declares OutputDeviceMixerManager, which creates output streams and per-device mixers on demand and forwards device change notifications to the mixers.
+// ---
+
 #ifndef SERVICES_AUDIO_OUTPUT_DEVICE_MIXER_MANAGER_H_
 #define SERVICES_AUDIO_OUTPUT_DEVICE_MIXER_MANAGER_H_
 

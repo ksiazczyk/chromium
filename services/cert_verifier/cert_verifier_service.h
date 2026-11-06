@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cert verifier service interface
+// summary: Declares CertVerifierServiceImpl, the Mojo implementation of the cert verifier service that wraps a net::CertVerifier and deletes itself on receiver disconnection.
+// ---
+
 #ifndef SERVICES_CERT_VERIFIER_CERT_VERIFIER_SERVICE_H_
 #define SERVICES_CERT_VERIFIER_CERT_VERIFIER_SERVICE_H_
 

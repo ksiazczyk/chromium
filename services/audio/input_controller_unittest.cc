@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InputController unit tests
+// summary: Unit tests for InputController covering stream creation, mute state, delay metrics, and voice isolation using mock audio managers, streams, and processors.
+// ---
+
 #include "services/audio/input_controller.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoopbackMixin class declaration
+// summary: Declares LoopbackMixin and its factory for restrict-own-audio loopback mixing of system loopback output with a capture stream.
+// ---
+
 #ifndef SERVICES_AUDIO_LOOPBACK_MIXIN_H_
 #define SERVICES_AUDIO_LOOPBACK_MIXIN_H_
 

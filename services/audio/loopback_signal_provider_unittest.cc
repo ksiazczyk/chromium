@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LoopbackSignalProvider unit tests
+// summary: Unit tests that simulate audio sources playing and verify the loopback signal provider pulls, delays and mixes the source audio correctly.
+// ---
+
 #include "services/audio/loopback_signal_provider.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests comparing the Rust and libxml2 XML parsers
+// summary: Verifies that the Rust parser produces the same documents and errors as the legacy libxml2-based parser across a range of XML inputs.
+// ---
+
 #include <memory>
 #include <optional>
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LogAdapter class declaration
+// summary: Declares LogAdapter, which wraps a mojo Remote to media::mojom::AudioLog into the media::AudioLog interface for the audio service.
+// ---
+
 #ifndef SERVICES_AUDIO_LOG_ADAPTER_H_
 #define SERVICES_AUDIO_LOG_ADAPTER_H_
 

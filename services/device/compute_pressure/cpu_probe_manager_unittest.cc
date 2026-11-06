@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CpuProbeManager unit tests
+// summary: Unit tests for CpuProbeManager covering sampling behavior with fake CPU probes and varying response delays.
+// ---
+
 #include "services/device/compute_pressure/cpu_probe_manager.h"
 
 #include <cstddef>

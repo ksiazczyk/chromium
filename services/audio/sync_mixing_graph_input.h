@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncMixingGraphInput header
+// summary: Declares SyncMixingGraphInput, a MixingGraph::Input that supplies audio to the mixing graph with volume control and glitch tracking.
+// ---
+
 #ifndef SERVICES_AUDIO_SYNC_MIXING_GRAPH_INPUT_H_
 #define SERVICES_AUDIO_SYNC_MIXING_GRAPH_INPUT_H_
 

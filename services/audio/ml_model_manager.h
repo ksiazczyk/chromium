@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ML model manager
+// summary: Declares the MlModelManager interface and its Mojo-backed implementation that serves TFLite model handles to audio service components.
+// ---
+
 #ifndef SERVICES_AUDIO_ML_MODEL_MANAGER_H_
 #define SERVICES_AUDIO_ML_MODEL_MANAGER_H_
 

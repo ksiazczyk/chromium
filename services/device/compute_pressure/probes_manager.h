@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProbesManager class header
+// summary: Declares the ProbesManager class that manages CPU probes and associated pressure client remotes for the Compute Pressure API.
+// ---
+
 #ifndef SERVICES_DEVICE_COMPUTE_PRESSURE_PROBES_MANAGER_H_
 #define SERVICES_DEVICE_COMPUTE_PRESSURE_PROBES_MANAGER_H_
 

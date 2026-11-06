@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Output glitch counter unit tests
+// summary: Unit tests verifying OutputGlitchCounter histogram reporting of missed callbacks for mixing and non-mixing streams.
+// ---
+
 #include "services/audio/output_glitch_counter.h"
 
 #include <memory>

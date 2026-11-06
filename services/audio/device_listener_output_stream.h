@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceListenerOutputStream class declaration
+// summary: Declares a wrapper around AudioOutputStream that listens for device change events and forwards them on the audio manager thread.
+// ---
+
 #ifndef SERVICES_AUDIO_DEVICE_LISTENER_OUTPUT_STREAM_H_
 #define SERVICES_AUDIO_DEVICE_LISTENER_OUTPUT_STREAM_H_
 

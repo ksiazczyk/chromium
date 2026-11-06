@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioManagerPowerUser helper header
+// summary: Declares a helper class that exposes protected AudioManager APIs such as device IDs and stream parameters to the audio service.
+// ---
+
 #ifndef SERVICES_AUDIO_AUDIO_MANAGER_POWER_USER_H_
 #define SERVICES_AUDIO_AUDIO_MANAGER_POWER_USER_H_
 

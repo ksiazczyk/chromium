@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CertNetFetcherURLLoader class declaration
+// summary: Declares CertNetFetcherURLLoader, a CertNetFetcher that issues certificate-related URL fetches via a URLLoaderFactory and must be shut down on its creation thread.
+// ---
+
 #ifndef SERVICES_CERT_VERIFIER_CERT_NET_URL_LOADER_CERT_NET_FETCHER_URL_LOADER_H_
 #define SERVICES_CERT_VERIFIER_CERT_NET_URL_LOADER_CERT_NET_FETCHER_URL_LOADER_H_
 

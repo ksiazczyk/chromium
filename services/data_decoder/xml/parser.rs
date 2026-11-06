@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Rust XML parser that builds a C++ DOM via FFI
+// summary: Parses XML bytes and strings with xml-rs and constructs the C++ DOM through the FFI, enforcing a maximum depth and namespace declaration compatibility rules.
+// ---
+
 #![forbid(unsafe_code)]
 
 use crate::cxx::ffi::Node;

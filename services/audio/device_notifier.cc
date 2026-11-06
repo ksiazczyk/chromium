@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceNotifier implementation
+// summary: Implements a Mojo service that publishes audio device change notifications from SystemMonitor to registered listeners.
+// ---
+
 #include "services/audio/device_notifier.h"
 
 #include <utility>

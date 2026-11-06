@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Image decoder service header
+// summary: Declares ImageDecoderImpl, the Mojo ImageDecoder implementation that decodes encoded images and animations.
+// ---
+
 #ifndef SERVICES_DATA_DECODER_IMAGE_DECODER_IMPL_H_
 #define SERVICES_DATA_DECODER_IMAGE_DECODER_IMPL_H_
 

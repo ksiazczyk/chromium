@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InputStream unit tests
+// summary: Unit tests for InputStream using mock stream clients, observers, and audio streams to verify creation, recording, volume, and error handling.
+// ---
+
 #include "services/audio/input_stream.h"
 
 #include <atomic>

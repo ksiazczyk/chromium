@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio service factory header
+// summary: Declares factory functions that create embedded or standalone instances of the audio service living in the current process.
+// ---
+
 #ifndef SERVICES_AUDIO_SERVICE_FACTORY_H_
 #define SERVICES_AUDIO_SERVICE_FACTORY_H_
 

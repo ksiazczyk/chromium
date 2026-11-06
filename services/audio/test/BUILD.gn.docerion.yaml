@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Audio service test support build file
+summary: GN build file defining the testonly test_support source set that bundles the fakes and mocks for audio service tests.

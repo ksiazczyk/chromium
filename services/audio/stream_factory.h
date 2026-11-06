@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StreamFactory header
+// summary: Declares the StreamFactory class providing the AudioStreamFactory interface for creating and managing audio streams over Mojo.
+// ---
+
 #ifndef SERVICES_AUDIO_STREAM_FACTORY_H_
 #define SERVICES_AUDIO_STREAM_FACTORY_H_
 

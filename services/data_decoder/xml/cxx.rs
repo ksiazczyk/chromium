@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CXX bridge between the Rust parser and the C++ XML DOM
+// summary: Declares the cxx FFI bridge exposing C++ Node creation and mutation functions to Rust and the Rust decode_xml_bytes and decode_xml_str functions to C++.
+// ---
+
 #[cxx::bridge(namespace=data_decoder::xml::ffi)]
 pub mod ffi {
     unsafe extern "C++" {

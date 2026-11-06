@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoopbackSource interface
+// summary: Defines a minimal interface combining snoopable signal access and mute control for audio outputs that act as loopback sources.
+// ---
+
 #ifndef SERVICES_AUDIO_LOOPBACK_SOURCE_H_
 #define SERVICES_AUDIO_LOOPBACK_SOURCE_H_
 

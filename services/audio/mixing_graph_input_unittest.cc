@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mixing graph input unit tests
+// summary: Tests that verify mixed output data from mixing graph inputs using predictable sample and callback counter sources.
+// ---
+
 #include <algorithm>
 #include <array>
 #include <limits>

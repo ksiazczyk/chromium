@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device service test base class
+// summary: Declares DeviceServiceTestBase, a GoogleTest fixture that sets up a DeviceService instance with test network and geolocation dependencies for device service tests.
+// ---
+
 #ifndef SERVICES_DEVICE_DEVICE_SERVICE_TEST_BASE_H_
 #define SERVICES_DEVICE_DEVICE_SERVICE_TEST_BASE_H_
 

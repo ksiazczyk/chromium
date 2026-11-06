@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Android battery service build definition
+summary: GN build file defining the battery_monitor_java Android library target, listing its Java sources and dependencies for the device battery service.

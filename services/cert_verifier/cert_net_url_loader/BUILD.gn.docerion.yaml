@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for cert_net_url_loader
+summary: Defines the cert_net_url_loader component, its unit test target, and the test_support source set with their GN dependencies.

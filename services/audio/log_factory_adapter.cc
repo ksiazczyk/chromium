@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LogFactoryAdapter implementation
+// summary: Implements LogFactoryAdapter, queuing audio log creation requests until a mojo log factory is set and falling back to a fake factory when the queue limit is exceeded.
+// ---
+
 #include "services/audio/log_factory_adapter.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cert verifier service factory interface
+// summary: Declares CertVerifierServiceFactoryImpl, the Mojo factory that instantiates cert verifier services and handles root store, CRL set, and CT policy updates.
+// ---
+
 #ifndef SERVICES_CERT_VERIFIER_CERT_VERIFIER_SERVICE_FACTORY_H_
 #define SERVICES_CERT_VERIFIER_CERT_VERIFIER_SERVICE_FACTORY_H_
 

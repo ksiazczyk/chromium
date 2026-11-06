@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Testing API binder declarations
+// summary: Declares global accessors for TestingApi and SystemInfo binder callbacks so test environments can inject implementations into the audio service.
+// ---
+
 #ifndef SERVICES_AUDIO_TESTING_API_BINDER_H_
 #define SERVICES_AUDIO_TESTING_API_BINDER_H_
 

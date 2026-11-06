@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockStreamFactory and MockReceiverAudioOutputStream headers
+// summary: Declares gmock mocks for media::mojom::AudioOutputStream and the audio stream factory, capturing created streams and callbacks for use in audio service tests.
+// ---
+
 #ifndef SERVICES_AUDIO_TEST_MOCK_STREAM_FACTORY_H_
 #define SERVICES_AUDIO_TEST_MOCK_STREAM_FACTORY_H_
 

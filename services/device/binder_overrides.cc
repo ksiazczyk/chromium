@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Binder overrides implementation
+// summary: Implements accessors returning the binder callbacks that override binding of device service Mojo interfaces such as geolocation, pressure, time zone, NFC, and USB.
+// ---
+
 #include "services/device/binder_overrides.h"
 
 #include "base/no_destructor.h"

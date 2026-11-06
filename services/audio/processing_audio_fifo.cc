@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Processing audio FIFO implementation
+// summary: Implements ProcessingAudioFifo, buffering captured audio for a processing thread and reporting FIFO usage and overrun stats.
+// ---
+
 #include "services/audio/processing_audio_fifo.h"
 
 #include "base/metrics/histogram_functions.h"

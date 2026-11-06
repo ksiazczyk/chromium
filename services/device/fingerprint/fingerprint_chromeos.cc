@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS fingerprint implementation
+// summary: Implements the Fingerprint Mojo interface on ChromeOS by communicating with the biod daemon over D-Bus and converting D-Bus types to Mojo types.
+// ---
+
 #include "services/device/fingerprint/fingerprint_chromeos.h"
 
 #include <string.h>

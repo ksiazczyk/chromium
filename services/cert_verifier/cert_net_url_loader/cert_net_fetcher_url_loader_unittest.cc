@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CertNetFetcherURLLoader unit tests
+// summary: Unit tests for CertNetFetcherURLLoader covering successful, failing and hanging certificate URL fetches using an embedded test server and mock loaders.
+// ---
+
 #include "services/cert_verifier/cert_net_url_loader/cert_net_fetcher_url_loader.h"
 
 #include <memory>
