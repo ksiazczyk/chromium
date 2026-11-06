@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SystemLocationProvider unit tests
+// summary: Tests the system location provider's request handling, permission gating, WiFi and cell tower usage and retry behavior against a fake geolocation API.
+// ---
+
 #include "chromeos/ash/components/geolocation/system_location_provider.h"
 
 #include <stddef.h>

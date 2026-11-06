@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dimension canonicalization header
+// summary: Declares the CanonicalizeDimension helper used to normalize demo mode dimension values.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DEMO_MODE_UTILS_DIMENSIONS_UTILS_H_
 #define CHROMEOS_ASH_COMPONENTS_DEMO_MODE_UTILS_DIMENSIONS_UTILS_H_
 

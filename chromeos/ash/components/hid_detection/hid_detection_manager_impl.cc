@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HID detection manager implementation
+// summary: Concrete manager that tracks connected input devices via the device service and coordinates Bluetooth HID pairing status.
+// ---
+
 #include "chromeos/ash/components/hid_detection/hid_detection_manager_impl.h"
 
 #include "base/no_destructor.h"

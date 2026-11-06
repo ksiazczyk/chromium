@@ -1,0 +1,4 @@
+# Docerion header of enhanced_network_tts.mojom.
+type: source
+title: Enhanced network TTS Mojom interface definitions
+summary: Defines Mojo interfaces and structs for fetching Google network-based text-to-speech audio data, used by Select-to-speak through a JS extension.

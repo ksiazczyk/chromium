@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enhanced network TTS constants (enhanced_network_tts_constants.h)
+// summary: Declares constants for the enhanced network TTS engine, including response size limits, speech rate bounds, API key header, and ReadAloud server URL and request keys.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_ENHANCED_NETWORK_TTS_ENHANCED_NETWORK_TTS_CONSTANTS_H_
 #define CHROMEOS_ASH_COMPONENTS_ENHANCED_NETWORK_TTS_ENHANCED_NETWORK_TTS_CONSTANTS_H_
 

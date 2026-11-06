@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Human presence build targets
+summary: GN build file defining the human_presence static library and its unit test source set with their sources and dependencies.

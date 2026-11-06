@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DriveFS pinning manager implementation
+// summary: Implements the DriveFS pinning manager that sets up bulk pinning of Drive files for offline availability, tracking progress, free space, and metrics.
+// ---
+
 #include "chromeos/ash/components/drivefs/drivefs_pinning_manager.h"
 
 #include <iomanip>

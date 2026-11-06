@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothHidDetectorImpl class declaration
+// summary: Declares the concrete BluetoothHidDetector that observes Bluetooth system properties and handles discovery and pairing Mojo delegates.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_HID_DETECTION_BLUETOOTH_HID_DETECTOR_IMPL_H_
 #define CHROMEOS_ASH_COMPONENTS_HID_DETECTION_BLUETOOTH_HID_DETECTOR_IMPL_H_
 

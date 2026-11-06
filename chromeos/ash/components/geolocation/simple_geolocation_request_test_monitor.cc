@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SimpleGeolocationRequestTestMonitor implementation
+// summary: Implements the default no-op hooks of the test monitor that observes geolocation request creation and start.
+// ---
+
 #include "chromeos/ash/components/geolocation/simple_geolocation_request_test_monitor.h"
 
 namespace ash {

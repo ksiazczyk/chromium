@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Human presence configuration unit tests
+// summary: Tests feature config parsing for empty parameters, unrecognized filter types, and basic and consecutive-results filter configurations.
+// ---
+
 #include "chromeos/ash/components/human_presence/human_presence_configuration.h"
 
 #include <optional>

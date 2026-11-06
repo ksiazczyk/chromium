@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Early prefs OWNERS file
+summary: Delegates code ownership of the early_prefs component to the osauth component's OWNERS file.

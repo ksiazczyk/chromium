@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DriveFsAuth unit tests
+// summary: Unit tests for DriveFsAuth covering token retrieval, caching, expiry, auth errors, and timeout behavior using a mock identity test environment.
+// ---
+
 #include "chromeos/ash/components/drivefs/drivefs_auth.h"
 
 #include "base/functional/bind.h"

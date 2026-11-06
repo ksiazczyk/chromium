@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UserDataAuthClient unit tests
+// summary: Unit tests for UserDataAuthClient using mock D-Bus bus and object proxy, verifying method calls, proto parsing and signal observers.
+// ---
+
 #include "chromeos/ash/components/dbus/userdataauth/userdataauth_client.h"
 
 #include <string>

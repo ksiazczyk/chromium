@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DriveFS file metadata type utilities
+// summary: Header with inline helpers to classify DriveFS file metadata types as files, directories, hosted, or local objects.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DRIVEFS_DRIVEFS_UTIL_H_
 #define CHROMEOS_ASH_COMPONENTS_DRIVEFS_DRIVEFS_UTIL_H_
 

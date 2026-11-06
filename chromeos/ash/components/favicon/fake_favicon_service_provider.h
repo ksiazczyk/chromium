@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake favicon service provider for tests
+// summary: Declares a test FaviconServiceProvider that maps account IDs to explicitly registered FaviconService instances and installs itself process-wide.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_FAVICON_FAKE_FAVICON_SERVICE_PROVIDER_H_
 #define CHROMEOS_ASH_COMPONENTS_FAVICON_FAKE_FAVICON_SERVICE_PROVIDER_H_
 

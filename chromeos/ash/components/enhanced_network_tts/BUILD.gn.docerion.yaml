@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Enhanced network TTS component build file (BUILD.gn)
+summary: Defines the enhanced_network_tts component sources and dependencies plus the unit_tests source_set for Chrome OS Ash.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothHidDetector base class implementation
+// summary: Implements shared BluetoothHidDetector methods, including pairing state structs and the start/stop detection lifecycle.
+// ---
+
 #include "chromeos/ash/components/hid_detection/bluetooth_hid_detector.h"
 
 #include "ash/constants/ash_features.h"

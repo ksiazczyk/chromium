@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the desk sync service provider library
+summary: Defines a static_library target for desk_sync_service_provider with its public header, sources and a //base dependency, asserting a ChromeOS build.

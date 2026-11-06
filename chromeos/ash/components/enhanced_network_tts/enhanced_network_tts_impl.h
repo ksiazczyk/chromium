@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enhanced network TTS engine class header (enhanced_network_tts_impl.h)
+// summary: Declares the EnhancedNetworkTtsImpl singleton that binds the mojom receiver, queues server requests, and delivers audio responses for Chrome OS Select-to-Speak.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_ENHANCED_NETWORK_TTS_ENHANCED_NETWORK_TTS_IMPL_H_
 #define CHROMEOS_ASH_COMPONENTS_ENHANCED_NETWORK_TTS_ENHANCED_NETWORK_TTS_IMPL_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the fwupd directory
+summary: Sets allowed include dependencies for the fwupd directory, with extra rules for test and fake files.

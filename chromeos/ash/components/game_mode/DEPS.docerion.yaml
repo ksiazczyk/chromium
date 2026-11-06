@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for game_mode
+summary: Defines allowed include dependencies for the game_mode component, with TODOs to resolve //ash and ARC dependencies.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the default_pinned_apps library
+summary: Defines the default_pinned_apps static library target with its sources and build dependencies on Ash, ARC, file manager, and content browser code.

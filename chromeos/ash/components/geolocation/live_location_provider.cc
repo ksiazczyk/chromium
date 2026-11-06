@@ -3,6 +3,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LiveLocationProvider implementation
+// summary: Implements LiveLocationProvider by forwarding each location request to the internal LocationFetcher to initiate a fresh Geolocation API request.
+// ---
+
 #include "chromeos/ash/components/geolocation/live_location_provider.h"
 
 #include "chromeos/ash/components/geolocation/location_fetcher.h"

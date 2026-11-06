@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DiskMountManager implementation
+// summary: Implements disk mounting, unmounting, formatting, and renaming logic that interacts with the cros-disks D-Bus service and notifies observers.
+// ---
+
 #include "chromeos/ash/components/disks/disk_mount_manager.h"
 
 #include <fcntl.h>

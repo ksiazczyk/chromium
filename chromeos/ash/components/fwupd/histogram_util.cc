@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Firmware update histogram helpers implementation
+// summary: Emits ChromeOS.FirmwareUpdateUi histograms for device and update counts, install results, and device request durations.
+// ---
+
 #include "chromeos/ash/components/fwupd/histogram_util.h"
 
 #include <string>

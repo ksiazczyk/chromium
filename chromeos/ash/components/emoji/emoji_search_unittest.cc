@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Emoji search unit tests
+// summary: Unit tests for emoji search that use a fake resource bundle to verify emoji, symbol, and emoticon results in different locales.
+// ---
+
 #include "chromeos/ash/components/emoji/emoji_search.h"
 
 #include "base/containers/span.h"

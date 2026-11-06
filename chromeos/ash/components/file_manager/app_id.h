@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File manager app ID constants
+// summary: Declares constants for the file manager app ID, the System Web App ID, and the image loader extension ID.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_FILE_MANAGER_APP_ID_H_
 #define CHROMEOS_ASH_COMPONENTS_FILE_MANAGER_APP_ID_H_
 

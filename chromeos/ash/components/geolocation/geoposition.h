@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Geoposition struct for Google Maps Geolocation API responses
+// summary: Defines the Geoposition struct holding latitude, longitude, accuracy, error details and a status enum that represents a Google Maps Geolocation API response.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_GEOLOCATION_GEOPOSITION_H_
 #define CHROMEOS_ASH_COMPONENTS_GEOLOCATION_GEOPOSITION_H_
 

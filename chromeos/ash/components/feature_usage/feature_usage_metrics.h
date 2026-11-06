@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeatureUsageMetrics class declaration
+// summary: Declares the FeatureUsageMetrics helper class and its Delegate interface for unified tracking of ChromeOS feature usage events.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_FEATURE_USAGE_FEATURE_USAGE_METRICS_H_
 #define CHROMEOS_ASH_COMPONENTS_FEATURE_USAGE_FEATURE_USAGE_METRICS_H_
 

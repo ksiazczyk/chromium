@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Geoposition struct implementation
+// summary: Implements validity checks and debug string formatting for the Geoposition struct holding latitude, longitude, accuracy, and error status.
+// ---
+
 #include "chromeos/ash/components/geolocation/geoposition.h"
 
 #include <array>

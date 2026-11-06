@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake disk mount manager implementation
+// summary: Implements FakeDiskMountManager, a test double for DiskMountManager that records mount, unmount and remount requests and simulates successful mount events.
+// ---
+
 #include "chromeos/ash/components/disks/fake_disk_mount_manager.h"
 
 #include <utility>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for default_pinned_apps
+summary: Declares the allowed include rules for the component, with TODOs noting unwanted dependencies on //ash and //chromeos/ash/experiences.

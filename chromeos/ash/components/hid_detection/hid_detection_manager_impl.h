@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HID detection manager implementation header
+// summary: Declares HidDetectionManagerImpl, which uses InputDeviceManager and BluetoothHidDetectorImpl to detect and connect HIDs.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_HID_DETECTION_HID_DETECTION_MANAGER_IMPL_H_
 #define CHROMEOS_ASH_COMPONENTS_HID_DETECTION_HID_DETECTION_MANAGER_IMPL_H_
 

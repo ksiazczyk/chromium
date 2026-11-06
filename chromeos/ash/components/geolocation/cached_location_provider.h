@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cached location provider class declaration
+// summary: Declares a location provider that caches coarse and precise geolocation results, throttles API requests, and reuses cached data when wireless signals are unchanged.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_GEOLOCATION_CACHED_LOCATION_PROVIDER_H_
 #define CHROMEOS_ASH_COMPONENTS_GEOLOCATION_CACHED_LOCATION_PROVIDER_H_
 

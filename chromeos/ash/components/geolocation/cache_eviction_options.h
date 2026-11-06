@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cache eviction strategy declarations
+// summary: Declares eviction strategy enums and classes that decide when cached geolocation positions become invalid based on network scan overlap.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_GEOLOCATION_CACHE_EVICTION_OPTIONS_H_
 #define CHROMEOS_ASH_COMPONENTS_GEOLOCATION_CACHE_EVICTION_OPTIONS_H_
 

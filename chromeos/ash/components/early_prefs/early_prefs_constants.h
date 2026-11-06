@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Early prefs constants
+// summary: Declares constants for the early prefs file name, histogram name and JSON schema keys shared by the reader and writer.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_EARLY_PREFS_EARLY_PREFS_CONSTANTS_H_
 #define CHROMEOS_ASH_COMPONENTS_EARLY_PREFS_EARLY_PREFS_CONSTANTS_H_
 

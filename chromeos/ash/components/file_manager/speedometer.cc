@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Speedometer implementation
+// summary: Implements the Speedometer class, which samples transferred bytes and estimates remaining operation time via linear interpolation.
+// ---
+
 #include "chromeos/ash/components/file_manager/speedometer.h"
 
 #include <algorithm>

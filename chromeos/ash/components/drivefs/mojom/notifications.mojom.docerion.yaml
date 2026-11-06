@@ -1,0 +1,4 @@
+# Docerion header of notifications.mojom.
+type: source
+title: DriveFS notification Mojo types
+summary: Defines the extensible DriveFsNotification union and related structs for notifications sent from DriveFS to Chrome, such as deleted mirrored downloads.

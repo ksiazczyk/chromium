@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VirtualFileProviderClient DBus client implementation
+// summary: Implements the real DBus client that calls the VirtualFileProvider service's GenerateVirtualFileId and OpenFileById methods and manages the global instance lifecycle.
+// ---
+
 #include "chromeos/ash/components/dbus/virtual_file_provider/virtual_file_provider_client.h"
 
 #include <utility>

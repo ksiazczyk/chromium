@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the campaigns configuration provider
+// summary: Implements feature engagement configuration for the growth framework, including allowed event prefixes and a debug clear-events switch.
+// ---
+
 #include "chromeos/ash/components/growth/campaigns_configuration_provider.h"
 
 #include <cstring>

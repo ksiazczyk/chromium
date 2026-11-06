@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for growth dependencies
+summary: Lists allowed include paths for the growth component, with extra rules for unit test files.

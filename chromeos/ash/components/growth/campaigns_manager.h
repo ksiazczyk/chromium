@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Campaigns manager interface
+// summary: Declares the CampaignsManager class, its observer interface and APIs for loading campaigns, querying slots, tracking state and performing actions.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_GROWTH_CAMPAIGNS_MANAGER_H_
 #define CHROMEOS_ASH_COMPONENTS_GROWTH_CAMPAIGNS_MANAGER_H_
 

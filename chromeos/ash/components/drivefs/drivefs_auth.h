@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DriveFsAuth class header
+// summary: Declares the DriveFsAuth class and its delegate interface for obtaining access tokens for the DriveFS daemon from Chrome identity services.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DRIVEFS_DRIVEFS_AUTH_H_
 #define CHROMEOS_ASH_COMPONENTS_DRIVEFS_DRIVEFS_AUTH_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTP auth dialog class declaration
+// summary: Declares HttpAuthDialog, a LoginDelegate that shows username and password prompts for HTTP auth challenges, with enablement control, observers, and test hooks.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_HTTP_AUTH_DIALOG_HTTP_AUTH_DIALOG_H_
 #define CHROMEOS_ASH_COMPONENTS_HTTP_AUTH_DIALOG_HTTP_AUTH_DIALOG_H_
 

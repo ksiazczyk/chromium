@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the emoji component
+summary: Defines GN build targets for the emoji component, including Mojo bindings, unit tests, and actions that generate emoji, emoticon, and symbol ordering data.

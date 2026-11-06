@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Early prefs writer implementation
+// summary: Implements serialization of user prefs and policies into the early prefs file using ImportantFileWriter with change detection and pending write commits.
+// ---
+
 #include "chromeos/ash/components/early_prefs/early_prefs_writer.h"
 
 #include <memory>

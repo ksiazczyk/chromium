@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock disk mount manager header
+// summary: Declares MockDiskMountManager, a gmock-based DiskMountManager mock with methods to notify mount events, set default replies, and manage fake disk entries.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DISKS_MOCK_DISK_MOUNT_MANAGER_H_
 #define CHROMEOS_ASH_COMPONENTS_DISKS_MOCK_DISK_MOUNT_MANAGER_H_
 

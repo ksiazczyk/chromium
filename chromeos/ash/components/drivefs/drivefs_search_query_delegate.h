@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DriveFsSearchQueryDelegate interface
+// summary: Declares the delegate interface for DriveFsSearchQuery, providing offline status, shared-with-me cache updates, and Mojo query binding.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DRIVEFS_DRIVEFS_SEARCH_QUERY_DELEGATE_H_
 #define CHROMEOS_ASH_COMPONENTS_DRIVEFS_DRIVEFS_SEARCH_QUERY_DELEGATE_H_
 

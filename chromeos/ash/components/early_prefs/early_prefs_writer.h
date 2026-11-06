@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EarlyPrefsWriter class declaration
+// summary: Declares the EarlyPrefsWriter class for storing user prefs and policies, resetting prefs and committing pending writes.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_EARLY_PREFS_EARLY_PREFS_WRITER_H_
 #define CHROMEOS_ASH_COMPONENTS_EARLY_PREFS_EARLY_PREFS_WRITER_H_
 

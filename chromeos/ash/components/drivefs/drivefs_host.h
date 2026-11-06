@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DriveFsHost header
+// summary: Declares the DriveFsHost class, sync status and state types, and the delegate interface for hosting and observing a DriveFS mount.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DRIVEFS_DRIVEFS_HOST_H_
 #define CHROMEOS_ASH_COMPONENTS_DRIVEFS_DRIVEFS_HOST_H_
 

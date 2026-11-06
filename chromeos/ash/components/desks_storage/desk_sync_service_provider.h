@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeskSyncServiceProvider interface
+// summary: Declares an abstract provider that returns the desks_storage::DeskSyncService for a given AccountId so ChromeOS callers avoid depending on //chrome's profile-keyed factory.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DESKS_STORAGE_DESK_SYNC_SERVICE_PROVIDER_H_
 #define CHROMEOS_ASH_COMPONENTS_DESKS_STORAGE_DESK_SYNC_SERVICE_PROVIDER_H_
 

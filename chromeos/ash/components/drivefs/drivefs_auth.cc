@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DriveFsAuth access token implementation
+// summary: Implements DriveFsAuth, which fetches and caches OAuth access tokens for DriveFS via the signin IdentityManager with timeout and error handling.
+// ---
+
 #include "chromeos/ash/components/drivefs/drivefs_auth.h"
 
 #include "base/check_deref.h"

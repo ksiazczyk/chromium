@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DriveFsSearchQuery implementation
+// summary: Implements a single paginated search query to DriveFS, adjusting queries for offline mode and caching shared-with-me results.
+// ---
+
 #include "chromeos/ash/components/drivefs/drivefs_search_query.h"
 
 #include <optional>

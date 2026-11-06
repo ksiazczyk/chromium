@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for HID detection dependencies
+summary: Restricts includes to the Bluetooth config service and ash public headers, with extra allowances for unit test files.

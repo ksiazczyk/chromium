@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Campaigns manager unit tests
+// summary: Unit tests for CampaignsManager covering campaign loading, parsing, targeting and synthetic trial registration using a mock client and test campaigns files.
+// ---
+
 #include "chromeos/ash/components/growth/campaigns_manager.h"
 
 #include <memory>

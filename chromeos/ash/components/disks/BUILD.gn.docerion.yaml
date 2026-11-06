@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the disks component
+summary: Defines the disks component, a test support source set with fake and mock disk mount managers, and the unit test targets for the ash disks code.

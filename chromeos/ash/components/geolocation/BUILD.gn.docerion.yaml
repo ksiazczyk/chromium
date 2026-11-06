@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Geolocation component build configuration
+summary: Defines the GN build targets for the ChromeOS Ash geolocation component, its unit tests, and test support sources.

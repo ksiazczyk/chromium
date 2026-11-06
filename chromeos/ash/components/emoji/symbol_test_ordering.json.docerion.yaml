@@ -1,0 +1,4 @@
+# Docerion header of symbol_test_ordering.json.
+type: data
+title: Symbol emoji test ordering data
+summary: JSON fixture listing grouped symbol emoji with names and search-only variants used to check emoji picker ordering.

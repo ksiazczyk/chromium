@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for BluetoothHidDetectorImpl
+// summary: Tests the Bluetooth HID detector implementation using fake Bluetooth config services, covering discovery, pairing and status change behavior.
+// ---
+
 #include "chromeos/ash/components/hid_detection/bluetooth_hid_detector_impl.h"
 
 #include "ash/constants/ash_features.h"

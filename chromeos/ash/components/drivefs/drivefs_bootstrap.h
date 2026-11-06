@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DriveFS bootstrap connection header
+// summary: Declares DriveFsBootstrapListener and DriveFsConnection, which await the DriveFS process connection and manage the Mojo bootstrap channel.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DRIVEFS_DRIVEFS_BOOTSTRAP_H_
 #define CHROMEOS_ASH_COMPONENTS_DRIVEFS_DRIVEFS_BOOTSTRAP_H_
 

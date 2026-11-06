@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default pinned apps implementation
+// summary: Returns the app IDs pinned by default on ChromeOS, adding Google-branded AI apps and using a separate ARC-based list for tablet form factor.
+// ---
+
 #include "chromeos/ash/components/default_pinned_apps/default_pinned_apps.h"
 
 #include "ash/constants/ash_switches.h"

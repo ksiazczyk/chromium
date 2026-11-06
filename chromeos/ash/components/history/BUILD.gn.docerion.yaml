@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build configuration for the history_service_provider component
+summary: Defines the GN build target for the history_service_provider component, listing its public header, sources, defines, and dependency on //base.

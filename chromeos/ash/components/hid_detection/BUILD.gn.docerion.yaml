@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the HID detection component
+summary: Defines the hid_detection static library, test_support and unit_tests targets with their sources and dependencies.

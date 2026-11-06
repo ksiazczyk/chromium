@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HistoryServiceProvider implementation
+// summary: Implements the process-wide HistoryServiceProvider singleton, tracking the single instance and returning it via Get().
+// ---
+
 #include "chromeos/ash/components/history/history_service_provider.h"
 
 #include "base/check.h"

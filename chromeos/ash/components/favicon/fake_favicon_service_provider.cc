@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake favicon service provider implementation
+// summary: Implements the test fake that stores FaviconService instances per account ID and returns them via Find.
+// ---
+
 #include "chromeos/ash/components/favicon/fake_favicon_service_provider.h"
 
 #include "base/check.h"

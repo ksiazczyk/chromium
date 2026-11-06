@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GIF Tenor API fetcher unit tests
+// summary: Unit tests that verify parsing of Tenor API category and GIF responses using fake JSON payloads and a test URL loader factory.
+// ---
+
 #include "gif_tenor_api_fetcher.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for CryptohomeMiscClient
+// summary: Unit tests that exercise CryptohomeMiscClient against a mock D-Bus bus and object proxy, verifying request and reply handling.
+// ---
+
 #include "chromeos/ash/components/dbus/userdataauth/cryptohome_misc_client.h"
 
 #include <string>

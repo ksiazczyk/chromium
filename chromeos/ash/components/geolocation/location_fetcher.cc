@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocationFetcher implementation for Geolocation API requests
+// summary: Implements the Google Maps Geolocation API client, gathering Wi-Fi and cell tower scan data and issuing SimpleGeolocationRequest calls with response handling.
+// ---
+
 #include "chromeos/ash/components/geolocation/location_fetcher.h"
 
 #include <algorithm>

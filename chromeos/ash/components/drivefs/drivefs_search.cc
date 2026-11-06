@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DriveFsSearch implementation
+// summary: Implements DriveFsSearch, which creates and runs DriveFS search queries and tracks offline state and the shared-with-me query cache TTL.
+// ---
+
 #include "chromeos/ash/components/drivefs/drivefs_search.h"
 
 #include <memory>

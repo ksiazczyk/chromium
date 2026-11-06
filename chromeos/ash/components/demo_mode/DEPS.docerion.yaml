@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Demo mode include rules
+summary: Lists the include rules that allow dependencies on base, ICU, install_attributes and power DBus within the demo_mode directory.

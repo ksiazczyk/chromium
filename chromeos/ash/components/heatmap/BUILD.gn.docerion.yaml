@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Heatmap BUILD.gn build configuration
+summary: Defines the heatmap source set and unit test target with their sources and dependencies for the ChromeOS ash heatmap component.

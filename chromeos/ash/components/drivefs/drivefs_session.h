@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DriveFsSession class declaration
+// summary: Declares DriveFsSession, which represents a single Drive mount session, and the DiskMounter utility for disk mounting.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DRIVEFS_DRIVEFS_SESSION_H_
 #define CHROMEOS_ASH_COMPONENTS_DRIVEFS_DRIVEFS_SESSION_H_
 

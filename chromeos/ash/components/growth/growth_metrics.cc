@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Growth metrics implementation
+// summary: Records UMA histograms for campaigns manager errors, campaign fetches by slot, and component download, parse, and match durations.
+// ---
+
 #include "chromeos/ash/components/growth/growth_metrics.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GeopositionContext struct with Wi-Fi and cell tower data
+// summary: Declares the move-only GeopositionContext struct that carries observed Wi-Fi access points and cell towers used for geocoding requests.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_GEOLOCATION_GEOPOSITION_CONTEXT_H_
 #define CHROMEOS_ASH_COMPONENTS_GEOLOCATION_GEOPOSITION_CONTEXT_H_
 

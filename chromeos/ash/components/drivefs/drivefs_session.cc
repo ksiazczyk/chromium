@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DriveFsSession implementation
+// summary: Implements DriveFsSession and DiskMounter to mount DriveFS through DiskMountManager with mount timeout and failure handling.
+// ---
+
 #include "chromeos/ash/components/drivefs/drivefs_session.h"
 
 #include <utility>

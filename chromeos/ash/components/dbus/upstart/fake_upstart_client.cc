@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Upstart client implementation
+// summary: Implements a fake UpstartClient that simulates job start and stop calls, supports injectable result callbacks and records Upstart operations for tests.
+// ---
+
 #include "chromeos/ash/components/dbus/upstart/fake_upstart_client.h"
 
 #include <algorithm>

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Bug tracker metadata for geolocation
+summary: Maps the geolocation directory to Monorail and Buganizer components for issue tracking and routing.

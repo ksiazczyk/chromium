@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothHidDetectorImpl implementation using CrosBluetoothConfig
+// summary: Implements Bluetooth HID detection via CrosBluetoothConfig, mapping device types, managing the pairing queue and handling pairing delegates.
+// ---
+
 #include "chromeos/ash/components/hid_detection/bluetooth_hid_detector_impl.h"
 
 #include "ash/public/cpp/bluetooth_config_service.h"

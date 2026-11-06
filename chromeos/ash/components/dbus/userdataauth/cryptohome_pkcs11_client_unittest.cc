@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for CryptohomePkcs11Client
+// summary: Unit tests that exercise CryptohomePkcs11Client using a mock D-Bus bus and proxy, including malformed response handling.
+// ---
+
 #include "chromeos/ash/components/dbus/userdataauth/cryptohome_pkcs11_client.h"
 
 #include <string>

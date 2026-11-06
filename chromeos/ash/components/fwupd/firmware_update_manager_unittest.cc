@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for FirmwareUpdateManager
+// summary: Unit tests covering firmware update manager behavior, including device updates, downloads, notifications, and histogram emissions.
+// ---
+
 #include "chromeos/ash/components/fwupd/firmware_update_manager.h"
 
 #include <cstdint>

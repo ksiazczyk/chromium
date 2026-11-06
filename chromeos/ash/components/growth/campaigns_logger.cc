@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Campaigns logger implementation
+// summary: Implements the CampaignsLogger singleton that records growth campaign logs in memory and forwards them to LOG, SYSLOG or VLOG output.
+// ---
+
 #include "chromeos/ash/components/growth/campaigns_logger.h"
 
 #include <sstream>

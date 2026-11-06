@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DiskMountManager unit tests
+// summary: Unit tests for DiskMountManager covering mounting, unmounting, formatting, and observer notifications using a fake cros-disks client.
+// ---
+
 #include "chromeos/ash/components/disks/disk_mount_manager.h"
 
 #include <stddef.h>

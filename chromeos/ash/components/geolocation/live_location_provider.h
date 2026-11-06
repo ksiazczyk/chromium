@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LiveLocationProvider for real-time location requests
+// summary: Declares a LocationProvider subclass that forwards every RequestLocation call to the LocationFetcher so the latest possible location reading is delivered.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_GEOLOCATION_LIVE_LOCATION_PROVIDER_H_
 #define CHROMEOS_ASH_COMPONENTS_GEOLOCATION_LIVE_LOCATION_PROVIDER_H_
 

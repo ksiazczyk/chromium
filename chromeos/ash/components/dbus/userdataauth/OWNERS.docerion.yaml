@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the userdataauth directory
+summary: Lists the directory owners and routes changes to fake_userdataauth_client files to the login lock owners.

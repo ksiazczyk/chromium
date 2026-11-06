@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build configuration for the input_method component
+summary: Defines the build setup for the component and asserts that only ChromeOS builds may depend on //chromeos/ash.

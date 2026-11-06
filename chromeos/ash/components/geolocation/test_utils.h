@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Geolocation test utilities header
+// summary: Declares shared test constants, sample request bodies and the GeolocationApiInterceptor used to fake geolocation server responses in tests.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_GEOLOCATION_TEST_UTILS_H_
 #define CHROMEOS_ASH_COMPONENTS_GEOLOCATION_TEST_UTILS_H_
 

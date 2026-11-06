@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the userdataauth D-Bus clients
+summary: Defines the userdataauth component, its test_support static library, and the proto_library target compiling the UserDataAuth cryptohome protobufs.

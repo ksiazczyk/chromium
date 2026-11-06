@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake CryptohomeMiscClient for tests
+// summary: Provides a fake CryptohomeMiscClient with stubbed replies and controllable service availability for use in tests.
+// ---
+
 #include "chromeos/ash/components/dbus/userdataauth/fake_cryptohome_misc_client.h"
 
 #include "base/compiler_specific.h"

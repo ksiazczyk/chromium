@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DiskMountManager header
+// summary: Declares the DiskMountManager interface for interacting with cros-disks, including observer event types, callbacks, and collections of disks and mount points.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DISKS_DISK_MOUNT_MANAGER_H_
 #define CHROMEOS_ASH_COMPONENTS_DISKS_DISK_MOUNT_MANAGER_H_
 

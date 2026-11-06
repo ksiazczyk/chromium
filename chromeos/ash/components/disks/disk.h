@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Disk class header
+// summary: Declares the Disk class representing a detected or mounted disk, with accessors for device paths, labels, vendor and product data, sizes, and mount state.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DISKS_DISK_H_
 #define CHROMEOS_ASH_COMPONENTS_DISKS_DISK_H_
 

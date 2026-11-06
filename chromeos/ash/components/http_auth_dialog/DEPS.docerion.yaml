@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for http_auth_dialog
+summary: DEPS file listing the headers and directories that the http_auth_dialog component is allowed to include from other parts of the codebase.

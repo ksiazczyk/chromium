@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Disk class implementation
+// summary: Implements the Disk class, building disk objects from DiskInfo data and providing a builder pattern for constructing disks in tests.
+// ---
+
 #include "chromeos/ash/components/disks/disk.h"
 
 #include <utility>

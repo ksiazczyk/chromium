@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cached location provider implementation
+// summary: Implements the cached location provider with rate limiting, Haversine distance checks, and UMA histograms for eviction strategy field trials.
+// ---
+
 #include "chromeos/ash/components/geolocation/cached_location_provider.h"
 
 #include <algorithm>

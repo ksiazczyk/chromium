@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock disk mount manager implementation
+// summary: Implements MockDiskMountManager with gmock default actions plus helpers to create and remove fake disk entries for mounted devices.
+// ---
+
 #include "chromeos/ash/components/disks/mock_disk_mount_manager.h"
 
 #include <stdint.h>

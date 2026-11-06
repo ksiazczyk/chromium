@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Campaigns matcher implementation
+// summary: Implements matching of growth campaigns against device, session, demo mode, user, event and runtime targeting criteria to select campaigns per slot.
+// ---
+
 #include "chromeos/ash/components/growth/campaigns_matcher.h"
 
 #include <algorithm>

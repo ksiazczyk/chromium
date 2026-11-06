@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for demo_mode
+summary: Applies the shared COMMON_METADATA settings to the demo_mode directory via a mixin reference.

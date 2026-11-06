@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: drivefs directory metadata
+summary: Points the drivefs directory to the shared file_manager COMMON_METADATA mixins for Chromium directory metadata.

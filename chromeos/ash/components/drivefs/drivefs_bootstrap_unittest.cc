@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DriveFS bootstrap unit tests
+// summary: Unit tests for the DriveFS bootstrap connection, verifying Mojo channel setup, initialization, and disconnect handling with mocked listeners.
+// ---
+
 #include "chromeos/ash/components/drivefs/drivefs_bootstrap.h"
 
 #include <memory>

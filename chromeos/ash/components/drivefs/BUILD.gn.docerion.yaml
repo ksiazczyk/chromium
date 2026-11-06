@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: drivefs GN build configuration
+summary: Defines the GN targets for the drivefs component, listing its sources, dependencies, test support, and unit test targets.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LocationFetcher unit tests
+// summary: Unit tests for LocationFetcher covering successful responses, retries and Wi-Fi or cell tower scan data using a mocked Geolocation API interceptor and test URL loader factory.
+// ---
+
 #include "chromeos/ash/components/geolocation/location_fetcher.h"
 
 #include "base/functional/bind.h"

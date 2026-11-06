@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeatureUsageMetrics implementation
+// summary: Implements periodic reporting of eligible, accessible and enabled events plus usage and usetime recording to ChromeOS.FeatureUsage histograms.
+// ---
+
 #include "chromeos/ash/components/feature_usage/feature_usage_metrics.h"
 
 #include <optional>

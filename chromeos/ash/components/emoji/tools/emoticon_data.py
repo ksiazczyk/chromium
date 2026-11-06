@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: script
+# title: Emoticon data generation script
+# summary: Converts emoticon metadata JSON into grouped emoticon data for the emoji picker, filtering characters that do not render on ChromeOS.
+# ---
+
 import argparse
 import json
 import os
