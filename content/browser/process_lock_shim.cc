@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: C++ shim for Rust FFI access to ProcessLock
+// summary: Implements helper functions that let Rust code create, clone, stringify and query ProcessLock objects across the FFI boundary.
+// ---
+
 #include "content/browser/process_lock_shim.h"
 
 #include "url/gurl.h"

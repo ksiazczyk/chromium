@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser startup helpers for field trials and thread pool
+// summary: Initializes field trials and the feature list from command-line switches and starts the browser thread pool with platform-specific thread sizing.
+// ---
+
 #include "content/browser/startup_helper.h"
 
 #include <algorithm>

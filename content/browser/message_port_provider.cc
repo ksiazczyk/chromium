@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Message port provider implementation
+// summary: Implements the MessagePortProvider API that lets embedders post messages and transferable ports to frames, including Android JNI support.
+// ---
+
 #include "content/public/browser/message_port_provider.h"
 
 #include <optional>

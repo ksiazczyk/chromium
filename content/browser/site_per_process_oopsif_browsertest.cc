@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Site per process OOPIF browser tests
+// summary: Browser tests for out-of-process iframe behaviors such as base URL inheritance limits and session history restoration of about:blank subframes.
+// ---
+
 #include "base/strings/stringprintf.h"
 #include "base/strings/utf_string_conversions.h"
 #include "content/browser/process_lock.h"

@@ -1,6 +1,13 @@
 // Copyright 2017 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Isolated origin pattern and utility declarations
+// summary: Declares IsolatedOriginPattern for wildcard and exact isolated origin patterns and IsolatedOriginUtil helpers for matching and validating isolated origins.
+// ---
+
 #ifndef CONTENT_BROWSER_ISOLATED_ORIGIN_UTIL_H_
 #define CONTENT_BROWSER_ISOLATED_ORIGIN_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Site per process scrolling browser tests
+// summary: Browser tests verifying scrolling across cross-origin frames using synthetic scroll gestures, including after cross-origin navigation.
+// ---
+
 #include "base/strings/string_number_conversions.h"
 #include "base/strings/stringprintf.h"
 #include "base/task/single_thread_task_runner.h"

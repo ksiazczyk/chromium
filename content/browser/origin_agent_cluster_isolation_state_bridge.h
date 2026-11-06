@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Origin agent cluster isolation state bridge declarations
+// summary: Declares helper functions translating between the C++ OriginAgentClusterIsolationState and its Rust FFI enum representation.
+// ---
+
 #ifndef CONTENT_BROWSER_ORIGIN_AGENT_CLUSTER_ISOLATION_STATE_BRIDGE_H_
 #define CONTENT_BROWSER_ORIGIN_AGENT_CLUSTER_ISOLATION_STATE_BRIDGE_H_
 

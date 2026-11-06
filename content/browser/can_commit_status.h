@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CanCommitStatus enum
+// summary: Defines an enum used by commit checks to indicate whether a URL and origin combination may be committed to a specific process.
+// ---
+
 #ifndef CONTENT_BROWSER_CAN_COMMIT_STATUS_H_
 #define CONTENT_BROWSER_CAN_COMMIT_STATUS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FindInPageClient class declaration
+// summary: Declares the per-frame FindInPage client, owned by FindRequestManager, that tracks the frame's current find match count.
+// ---
+
 #ifndef CONTENT_BROWSER_FIND_IN_PAGE_CLIENT_H_
 #define CONTENT_BROWSER_FIND_IN_PAGE_CLIENT_H_
 

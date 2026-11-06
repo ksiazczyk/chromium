@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebExposedIsolationInfo header
+// summary: Declares the WebExposedIsolationInfo class modeling cross-origin and isolated application isolation levels for process allocation and feature gating.
+// ---
+
 #ifndef CONTENT_BROWSER_WEB_EXPOSED_ISOLATION_INFO_H_
 #define CONTENT_BROWSER_WEB_EXPOSED_ISOLATION_INFO_H_
 

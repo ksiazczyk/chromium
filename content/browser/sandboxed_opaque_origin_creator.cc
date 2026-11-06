@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sandboxed opaque origin creator implementation
+// summary: Creates nonce-based opaque origins for sandboxed frames, restricted to RenderFrameHostImpl and tests through pass-key parameters.
+// ---
+
 #include "content/browser/sandboxed_opaque_origin_creator.h"
 
 #include "base/types/pass_key.h"

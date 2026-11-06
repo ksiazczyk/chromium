@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the content browser module
+summary: GN build file defining source sets, Rust crates, fuzzer targets and dependencies for the content browser process code.

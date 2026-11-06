@@ -1,0 +1,4 @@
+# Docerion header of pointer_lock_browsertest_mac.mm.
+type: test
+title: Mac pointer lock browser test mocks
+summary: Provides a macOS mock render widget host view and installs the creation hooks needed by pointer lock browser tests.

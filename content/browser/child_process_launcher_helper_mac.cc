@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS child process launcher helper
+// summary: macOS implementation that launches child processes with Mach port rendezvous and caches serialized sandbox policies per sandbox type.
+// ---
+
 #include "content/browser/child_process_launcher_helper.h"
 
 #include "base/apple/mach_port_rendezvous.h"

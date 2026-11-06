@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Origin agent cluster isolation state
+// summary: Implements OriginAgentClusterIsolationState, which tracks logical and process isolation status for origin-keyed agent clusters.
+// ---
+
 #include "content/browser/origin_agent_cluster_isolation_state.h"
 
 #include "base/feature_list.h"

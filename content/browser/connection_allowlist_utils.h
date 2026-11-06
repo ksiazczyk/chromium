@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for connection allowlist utilities
+// summary: Declares helpers for evaluating Connection-Allowlist response headers and policies for redirects, URLs, workers, and WebRTC access.
+// ---
+
 #ifndef CONTENT_BROWSER_CONNECTION_ALLOWLIST_UTILS_H_
 #define CONTENT_BROWSER_CONNECTION_ALLOWLIST_UTILS_H_
 

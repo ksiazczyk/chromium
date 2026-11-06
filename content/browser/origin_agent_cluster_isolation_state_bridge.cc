@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Origin agent cluster isolation state Rust bridge
+// summary: Converts C++ OriginAgentClusterIsolationState values to and from the Rust FFI enum used by the child process security policy.
+// ---
+
 #include "content/browser/origin_agent_cluster_isolation_state_bridge.h"
 
 #include "base/notreached.h"

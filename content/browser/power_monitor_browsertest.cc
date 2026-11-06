@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Power monitor browser tests
+// summary: Browser tests verifying that power state changes propagate to renderer and other child processes via mocked power monitor bindings.
+// ---
+
 #include <utility>
 
 #include "base/functional/bind.h"

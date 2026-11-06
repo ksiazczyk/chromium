@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Child process launcher helper core implementation
+// summary: Implements the core ChildProcessLauncherHelper that launches child processes asynchronously, records launch-time histograms and passes shared memory handles at launch.
+// ---
+
 #include "content/browser/child_process_launcher_helper.h"
 
 #include <optional>

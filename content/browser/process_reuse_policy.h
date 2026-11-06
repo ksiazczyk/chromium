@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProcessReusePolicy enum for renderer process selection
+// summary: Defines the ProcessReusePolicy enum describing how RenderProcessHosts are chosen and reused for SiteInstances, frames and workers.
+// ---
+
 #ifndef CONTENT_BROWSER_PROCESS_REUSE_POLICY_H_
 #define CONTENT_BROWSER_PROCESS_REUSE_POLICY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data URL loader factory header
+// summary: 'Declares the self-deleting URLLoaderFactory for data: URLs, including single-use creation for URLs exceeding the GURL serialization limit.'
+// ---
+
 #ifndef CONTENT_BROWSER_DATA_URL_LOADER_FACTORY_H_
 #define CONTENT_BROWSER_DATA_URL_LOADER_FACTORY_H_
 

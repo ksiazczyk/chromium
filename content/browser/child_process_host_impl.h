@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Child process host interface
+// summary: Declares ChildProcessHostImpl, which provides common functionality for hosting a child process and processing IPC messages between host and child.
+// ---
+
 #ifndef CONTENT_BROWSER_CHILD_PROCESS_HOST_IMPL_H_
 #define CONTENT_BROWSER_CHILD_PROCESS_HOST_IMPL_H_
 

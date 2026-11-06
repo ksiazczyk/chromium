@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Back/forward cache internal browser tests
+// summary: Browser tests for internal back/forward cache behavior including cache flushing, renderer crashes, proxies and navigation internals.
+// ---
+
 #include "base/command_line.h"
 #include "base/functional/bind.h"
 #include "base/memory/raw_ptr.h"

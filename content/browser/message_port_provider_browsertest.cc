@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Message port provider browser tests
+// summary: Browser tests verifying that MessagePortProvider can post string and array buffer messages to the main frame with the expected origins.
+// ---
+
 #include "base/functional/bind.h"
 #include "base/strings/strcat.h"
 #include "base/strings/utf_string_conversions.h"

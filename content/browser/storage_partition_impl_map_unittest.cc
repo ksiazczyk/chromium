@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Storage partition map unit tests
+// summary: Unit tests verifying garbage collection of inactive storage partition directories and cleanup of legacy WebSQL database directories when partitions are created.
+// ---
+
 #include "content/browser/storage_partition_impl_map.h"
 
 #include <unordered_set>

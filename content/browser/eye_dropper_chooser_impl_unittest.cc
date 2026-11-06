@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EyeDropperChooserImpl unit tests
+// summary: Unit tests covering eye dropper chooser behavior, including rejection of a second concurrent eye dropper and user activation handling, using fake eye dropper delegates.
+// ---
+
 #include "content/browser/eye_dropper_chooser_impl.h"
 
 #include <memory>

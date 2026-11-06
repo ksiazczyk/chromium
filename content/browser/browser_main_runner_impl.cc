@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser main runner implementation
+// summary: Implements BrowserMainRunnerImpl, which initializes, runs and shuts down the browser main loop with platform-specific setup.
+// ---
+
 #include "content/browser/browser_main_runner_impl.h"
 
 #include <memory>

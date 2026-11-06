@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Zoom browser tests
+// summary: Browser tests checking page zoom behavior, including subframe zoom consistency with main frames across navigations.
+// ---
+
 #include <vector>
 
 #include "base/memory/raw_ptr.h"

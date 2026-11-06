@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserThreadImpl implementation
+// summary: Implements browser thread state tracking and task runner access for the UI and IO browser threads in the content layer.
+// ---
+
 #include "content/browser/browser_thread_impl.h"
 
 #include <array>

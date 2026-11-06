@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Storage partition map header
+// summary: Declares StoragePartitionImplMap, a SupportsUserData map from StoragePartitionConfig to partition implementations with asynchronous deletion and garbage collection APIs.
+// ---
+
 #ifndef CONTENT_BROWSER_STORAGE_PARTITION_IMPL_MAP_H_
 #define CONTENT_BROWSER_STORAGE_PARTITION_IMPL_MAP_H_
 

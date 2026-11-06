@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux sandbox IPC handler implementation
+// summary: Implements the sandbox IPC handler thread that polls the browser socket and dispatches child requests like shared memory segments and local time handling.
+// ---
+
 #include "content/browser/sandbox_ipc_linux.h"
 
 #include <fcntl.h>

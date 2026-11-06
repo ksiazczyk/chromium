@@ -1,0 +1,4 @@
+# Docerion header of theme_helper_mac.mm.
+type: source
+title: Mac theme helper implementation
+summary: Objective-C++ implementation of ThemeHelperMac that reads macOS system colors and scrollbar settings and forwards them to renderer processes.

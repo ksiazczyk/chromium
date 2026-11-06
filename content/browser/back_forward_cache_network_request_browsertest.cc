@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Back/forward cache network request browser tests
+// summary: Browser tests covering back/forward cache behavior around network activity, such as in-flight fetches during freezing and redirects that evict a cached page.
+// ---
+
 #include "content/browser/back_forward_cache_browsertest.h"
 
 #include "base/strings/string_number_conversions.h"

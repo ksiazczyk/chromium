@@ -1,0 +1,4 @@
+# Docerion header of browser_task_traits_nocompile.nc.
+type: test
+title: Browser task traits no-compile tests
+summary: No-compile test suite verifying that BrowserTaskTraits rejects multiple traits of the same type at compile time.

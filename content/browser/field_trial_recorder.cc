@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FieldTrialRecorder implementation
+// summary: Browser-side Mojo service that activates a field trial in the browser process when a renderer reports that the trial has been activated.
+// ---
+
 #include "content/browser/field_trial_recorder.h"
 
 #include <memory>

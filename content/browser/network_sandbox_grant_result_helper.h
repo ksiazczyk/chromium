@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network sandbox grant result helper header
+// summary: Declares ProcessSandboxGrantResult, which processes a sandbox grant result and updates network context parameters accordingly.
+// ---
+
 #ifndef CONTENT_BROWSER_NETWORK_SANDBOX_GRANT_RESULT_HELPER_H_
 #define CONTENT_BROWSER_NETWORK_SANDBOX_GRANT_RESULT_HELPER_H_
 

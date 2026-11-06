@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Storage partition implementation unit tests
+// summary: Unit tests for StoragePartitionImpl covering DOM storage, code caching, cookies, and storage partition behavior in the browser process.
+// ---
+
 #include "content/browser/storage_partition_impl.h"
 
 #include <stddef.h>

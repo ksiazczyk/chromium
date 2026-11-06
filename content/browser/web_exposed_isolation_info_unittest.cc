@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebExposedIsolationInfo unit tests
+// summary: Unit tests covering creation, equality, ordering, and compatibility behavior of WebExposedIsolationInfo values.
+// ---
+
 #include "content/browser/web_exposed_isolation_info.h"
 
 #include <sstream>

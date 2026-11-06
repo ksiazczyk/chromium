@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Storage partition implementation
+// summary: Implements StoragePartitionImpl, the browser-side storage partition that wires up services such as IndexedDB, service workers, cache storage, blobs and code caches.
+// ---
+
 #include "content/browser/storage_partition_impl.h"
 
 #include <stdint.h>

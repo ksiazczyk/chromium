@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SiteInstanceGroup class header
+// summary: Declares SiteInstanceGroup, one renderer process's view of a browsing context group's frame trees, used for painting, input, and cross-group communication.
+// ---
+
 #ifndef CONTENT_BROWSER_SITE_INSTANCE_GROUP_H_
 #define CONTENT_BROWSER_SITE_INSTANCE_GROUP_H_
 

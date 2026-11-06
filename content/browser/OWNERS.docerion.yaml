@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for content/browser
+summary: Lists directory owners and per-file review rules, including security, sandbox and network specialist reviewers.

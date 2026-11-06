@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Startup task runner implementation
+// summary: Implements StartupTaskRunner, which runs browser startup tasks inline or one at a time on the UI thread, tracking blocking durations and reporting completion.
+// ---
+
 #include "content/browser/startup_task_runner.h"
 
 #include "base/functional/bind.h"

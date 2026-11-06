@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserContext implementation
+// summary: Implements the public BrowserContext API, delegating to BrowserContextImpl for storage partitions, downloads, permissions and prefetch services.
+// ---
+
 #include "content/public/browser/browser_context.h"
 
 #include <stddef.h>

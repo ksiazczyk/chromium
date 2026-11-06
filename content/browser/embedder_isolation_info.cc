@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Embedder isolation info implementation
+// summary: Implements EmbedderIsolationInfo factory methods and debug output for embedder-imposed process isolation modes such as PDF, unique instance, and privileged.
+// ---
+
 #include "content/browser/embedder_isolation_info.h"
 
 #include <cinttypes>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Byte stream implementation
+// summary: Implements ByteStreamWriter and ByteStreamReader for transferring buffered bytes between a source and sink on different task runners with flow control.
+// ---
+
 #include "content/browser/byte_stream.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Child process launcher interface
+// summary: Declares ChildProcessLauncher, launch result codes and RenderProcessPriority for launching and prioritizing child processes.
+// ---
+
 #ifndef CONTENT_BROWSER_CHILD_PROCESS_LAUNCHER_H_
 #define CONTENT_BROWSER_CHILD_PROCESS_LAUNCHER_H_
 

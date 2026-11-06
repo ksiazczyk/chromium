@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sandboxed opaque origin creator unit tests
+// summary: Unit tests verifying that sandboxed frame opaque origins vary with nonce and tuple and preserve precursor tuples for various URLs.
+// ---
+
 #include "content/browser/sandboxed_opaque_origin_creator.h"
 
 #include "base/unguessable_token.h"

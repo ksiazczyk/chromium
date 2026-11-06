@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network service instance implementation
+// summary: Implements creation, configuration, shutdown and restart of the browser's network service instance, including HTTP cache directory setup and net logging.
+// ---
+
 #include "content/browser/network_service_instance_impl.h"
 
 #include <stdint.h>

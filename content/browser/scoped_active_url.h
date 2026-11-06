@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped active URL header
+// summary: Declares ScopedActiveURL, an RAII helper recording the active URL and top origin as crash keys for frames, proxies, and views.
+// ---
+
 #ifndef CONTENT_BROWSER_SCOPED_ACTIVE_URL_H_
 #define CONTENT_BROWSER_SCOPED_ACTIVE_URL_H_
 

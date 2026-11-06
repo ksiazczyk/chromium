@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FindRequestManager implementation
+// summary: Implements coordination of find-in-page requests and replies across frames of a WebContents, including inner WebContentses.
+// ---
+
 #include "content/browser/find_request_manager.h"
 
 #include <algorithm>

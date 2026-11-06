@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FindInPageClient implementation
+// summary: Implements the per-frame find-in-page Mojo client that reports match counts and active match updates to FindRequestManager.
+// ---
+
 #include "content/browser/find_in_page_client.h"
 
 #include <utility>

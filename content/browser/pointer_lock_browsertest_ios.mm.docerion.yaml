@@ -1,0 +1,4 @@
+# Docerion header of pointer_lock_browsertest_ios.mm.
+type: test
+title: iOS pointer lock browser test mocks
+summary: Provides an iOS mock render widget host view and installs the creation hooks needed by pointer lock browser tests.

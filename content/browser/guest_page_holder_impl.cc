@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Guest page holder implementation
+// summary: Implements GuestPageHolderImpl, which hosts a guest frame tree attached to an owner WebContents with navigation, audio, and delegate plumbing.
+// ---
+
 #include "content/browser/guest_page_holder_impl.h"
 
 #include "base/notimplemented.h"

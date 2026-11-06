@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Form controls rendering browser tests
+// summary: Pixel browser tests comparing rendered form controls against per-platform baseline screenshots across graphics backends.
+// ---
+
 #include <optional>
 
 #include "base/files/file_util.h"

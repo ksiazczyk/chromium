@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Byte stream unit tests
+// summary: Unit tests covering byte stream writing, reading, pushback behavior, buffered byte accounting and callback handling.
+// ---
+
 #include "content/browser/byte_stream.h"
 
 #include <stddef.h>

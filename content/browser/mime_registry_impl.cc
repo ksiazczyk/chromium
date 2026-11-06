@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MIME registry Mojo service implementation
+// summary: Implements the blink MimeRegistry Mojo service that resolves file extensions to MIME types and rejects extensions with a leading dot.
+// ---
+
 #include "content/browser/mime_registry_impl.h"
 
 #include "base/files/file_path.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Embedder isolation info unit tests
+// summary: Unit tests verifying EmbedderIsolationInfo mode semantics, equality grouping by feature id, distinctness from other modes, and debug strings.
+// ---
+
 #include "content/browser/embedder_isolation_info.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

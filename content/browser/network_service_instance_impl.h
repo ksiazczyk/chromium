@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network service instance header
+// summary: Declares network service lifecycle helpers, HTTP cache subdirectory constants and handlers for network service process restarts.
+// ---
+
 #ifndef CONTENT_BROWSER_NETWORK_SERVICE_INSTANCE_IMPL_H_
 #define CONTENT_BROWSER_NETWORK_SERVICE_INSTANCE_IMPL_H_
 

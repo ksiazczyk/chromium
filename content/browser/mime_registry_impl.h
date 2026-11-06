@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MIME registry Mojo service header
+// summary: Declares MimeRegistryImpl, the browser-side implementation of the blink MimeRegistry Mojo interface for extension to MIME type lookup.
+// ---
+
 #ifndef CONTENT_BROWSER_MIME_REGISTRY_IMPL_H_
 #define CONTENT_BROWSER_MIME_REGISTRY_IMPL_H_
 

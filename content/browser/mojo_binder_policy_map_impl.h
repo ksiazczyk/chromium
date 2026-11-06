@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MojoBinderPolicyMapImpl header
+// summary: Declares MojoBinderPolicyMapImpl, which stores Mojo binder policies and looks them up by interface name with defaults.
+// ---
+
 #ifndef CONTENT_BROWSER_MOJO_BINDER_POLICY_MAP_IMPL_H_
 #define CONTENT_BROWSER_MOJO_BINDER_POLICY_MAP_IMPL_H_
 

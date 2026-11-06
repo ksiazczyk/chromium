@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HostZoomMapImpl unit tests
+// summary: Unit tests for HostZoomMapImpl verifying zoom level storage and lookup by host and scheme, enumeration of all zoom levels, and last-modified timestamps.
+// ---
+
 
 #include "content/browser/host_zoom_map_impl.h"
 

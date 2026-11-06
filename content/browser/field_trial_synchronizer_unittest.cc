@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FieldTrialSynchronizer unit tests
+// summary: Unit tests verifying that field trial activations and runtime overrides are correctly reflected in the persistent system profile.
+// ---
+
 #include "content/browser/field_trial_synchronizer.h"
 
 #include <memory>

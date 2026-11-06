@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sandbox support Mojo service header
+// summary: Declares the SandboxSupportImpl Mojo service that performs privileged operations on behalf of sandboxed child processes on the IO thread.
+// ---
+
 #ifndef CONTENT_BROWSER_SANDBOX_SUPPORT_IMPL_H_
 #define CONTENT_BROWSER_SANDBOX_SUPPORT_IMPL_H_
 

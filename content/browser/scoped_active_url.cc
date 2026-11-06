@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped active URL implementation
+// summary: Sets the active URL and top origin crash keys on construction and resets them to empty on destruction.
+// ---
+
 #include "content/browser/scoped_active_url.h"
 
 #include "content/browser/renderer_host/frame_tree.h"

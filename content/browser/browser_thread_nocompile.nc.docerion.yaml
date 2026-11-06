@@ -1,0 +1,4 @@
+# Docerion header of browser_thread_nocompile.nc.
+type: test
+title: BrowserThread no-compile tests
+summary: No-compile test suite verifying that unguarded access to UI-thread-guarded members and functions produces expected compiler errors.

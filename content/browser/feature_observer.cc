@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeatureObserver implementation
+// summary: Implements the browser-side FeatureObserver that notifies a client when a frame starts or stops using observed features via per-type Mojo receiver sets.
+// ---
+
 #include "content/browser/feature_observer.h"
 
 #include "content/public/browser/content_browser_client.h"

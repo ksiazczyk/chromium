@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser URL handler implementation
+// summary: Implements URL rewriting handlers, including view-source handling, debug URLs, and reverse rewriting for redirects.
+// ---
+
 #include "content/browser/browser_url_handler_impl.h"
 
 #include <stddef.h>

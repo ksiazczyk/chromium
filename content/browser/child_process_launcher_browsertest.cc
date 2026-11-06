@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Child process launcher browser test
+// summary: Browser test simulating a child process spawn failure and verifying navigation recovery once the process launches correctly.
+// ---
+
 #include "base/command_line.h"
 #include "base/memory/raw_ptr.h"
 #include "build/build_config.h"

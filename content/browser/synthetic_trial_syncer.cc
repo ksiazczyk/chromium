@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Synthetic trial syncer for child processes
+// summary: Implements SyntheticTrialSyncer, which propagates synthetic field trial group updates to renderer and other child processes over Mojo.
+// ---
+
 #include "content/public/browser/synthetic_trial_syncer.h"
 
 #include "base/functional/bind.h"

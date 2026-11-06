@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for network context client file upload handling
+// summary: Unit tests covering file upload request handling, including access grants, valid and invalid files, and async uploads.
+// ---
+
 #include <string_view>
 
 #include "base/compiler_specific.h"

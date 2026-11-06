@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Back/forward cache browser tests
+// summary: Large browser test suite for the back/forward cache covering metrics, disabling reasons, navigation throttles and related browser internals.
+// ---
+
 #include "content/browser/back_forward_cache_browsertest.h"
 
 #include <algorithm>

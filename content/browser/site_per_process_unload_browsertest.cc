@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Site per process unload browser tests
+// summary: Browser tests for unload and pagehide handling of cross-origin subframes, covering detachment, navigation, and related crash scenarios.
+// ---
+
 #include <algorithm>
 #include <list>
 #include <memory>

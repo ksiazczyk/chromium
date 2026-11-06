@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UKM internals WebUI controller
+// summary: Implements the WebUI controller and message handler for the UKM internals debug page, registering its HTML resources and serving structured UKM debug data to JavaScript on request.
+// ---
+
 #include "content/browser/ukm_internals_ui.h"
 
 #include <stddef.h>

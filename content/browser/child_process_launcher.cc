@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Child process launcher implementation
+// summary: Implements ChildProcessLauncher, launching sandboxed child processes with Mojo invitations, shared memory regions and process priority tracing.
+// ---
+
 #include "content/browser/child_process_launcher.h"
 
 #include <optional>

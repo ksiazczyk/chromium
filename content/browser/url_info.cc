@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UrlInfo implementation
+// summary: Implements the UrlInfo struct that pairs a URL with isolation and sandbox state used for SiteInstance and process allocation decisions.
+// ---
+
 #include "content/browser/url_info.h"
 
 #include <sstream>

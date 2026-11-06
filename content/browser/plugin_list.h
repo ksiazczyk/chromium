@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Plugin list header
+// summary: Declares the PluginList singleton that manages the list of internal plugins and provides plugin lookup by URL and MIME type.
+// ---
+
 #ifndef CONTENT_BROWSER_PLUGIN_LIST_H_
 #define CONTENT_BROWSER_PLUGIN_LIST_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserContextImpl implementation
+// summary: Implements content-internal BrowserContext behavior such as storage partition shutdown, BTM cleanup and media performance history access.
+// ---
+
 #include "content/browser/browser_context_impl.h"
 
 #include <utility>

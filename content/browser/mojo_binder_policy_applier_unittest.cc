@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MojoBinderPolicyApplier unit tests
+// summary: Unit tests verifying how MojoBinderPolicyApplier grants, defers, cancels and flags binder requests under its different modes.
+// ---
+
 #include "content/browser/mojo_binder_policy_applier.h"
 
 #include "base/functional/callback.h"

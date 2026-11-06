@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Site per process mixed content browser tests
+// summary: Browser tests verifying mixed content blocking and upgrading in out-of-process iframes under strict content security policies.
+// ---
+
 #include "base/strings/utf_string_conversions.h"
 #include "build/build_config.h"
 #include "content/browser/site_per_process_browsertest.h"

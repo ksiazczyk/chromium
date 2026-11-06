@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Global Privacy Control DevTools override implementation
+// summary: Implements storing, resetting, and reading the DevTools Global Privacy Control override and syncing renderer preferences across all WebContents.
+// ---
+
 #include "content/browser/global_privacy_control_util.h"
 
 #include <atomic>

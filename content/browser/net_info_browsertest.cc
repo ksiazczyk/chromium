@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NetInfo browser test for network quality estimates
+// summary: Browser test verifying NetInfo attributes such as RTT and downlink bandwidth reported through the network quality observer against expected values.
+// ---
+
 #include <cmath>  // For std::modf.
 #include <map>
 #include <string>

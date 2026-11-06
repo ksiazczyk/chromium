@@ -1,0 +1,4 @@
+# Docerion header of sandbox_support_mac_impl.mm.
+type: source
+title: Mac sandbox support implementation
+summary: Implements the Mac part of SandboxSupportImpl, returning system colors by duplicating the theme helper's shared color map region.

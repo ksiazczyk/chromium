@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Host zoom level context header
+// summary: Declares HostZoomLevelContext, which pairs a HostZoomMap with a ZoomLevelDelegate for a storage partition and must be destroyed on the UI thread.
+// ---
+
 #ifndef CONTENT_BROWSER_HOST_ZOOM_LEVEL_CONTEXT_H_
 #define CONTENT_BROWSER_HOST_ZOOM_LEVEL_CONTEXT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserMain entry point
+// summary: Defines BrowserMain, the main routine that initializes, runs and shuts down the browser process via BrowserMainRunnerImpl.
+// ---
+
 #include "content/browser/browser_main.h"
 
 #include <memory>

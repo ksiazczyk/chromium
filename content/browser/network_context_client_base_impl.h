@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network context client file upload helper declaration
+// summary: Declares the helper method that NetworkContext::OnFileUploadRequested uses to implement file upload request handling.
+// ---
+
 #ifndef CONTENT_BROWSER_NETWORK_CONTEXT_CLIENT_BASE_IMPL_H_
 #define CONTENT_BROWSER_NETWORK_CONTEXT_CLIENT_BASE_IMPL_H_
 

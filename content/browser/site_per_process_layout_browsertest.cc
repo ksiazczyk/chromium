@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Site per process layout browser tests
+// summary: Browser tests for layout, device scale factor, and viewport intersection behavior of cross-process child frames.
+// ---
+
 #include <optional>
 
 #include "base/json/json_reader.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Storage partition implementation header
+// summary: Declares StoragePartitionImpl and its per-partition storage service contexts, observers and Mojo interfaces for the content browser layer.
+// ---
+
 #ifndef CONTENT_BROWSER_STORAGE_PARTITION_IMPL_H_
 #define CONTENT_BROWSER_STORAGE_PARTITION_IMPL_H_
 

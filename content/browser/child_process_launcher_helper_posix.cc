@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: POSIX child process launcher helper implementation
+// summary: Implements shared POSIX helpers that build the default file descriptor mapping and open files to be shared with launched child processes.
+// ---
+
 #include "content/browser/child_process_launcher_helper_posix.h"
 
 #include <variant>

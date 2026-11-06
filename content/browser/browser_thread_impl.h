@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserThreadImpl header
+// summary: Declares BrowserThreadImpl, a scoped object mapping a SingleThreadTaskRunner to a BrowserThread ID with shutdown handling.
+// ---
+
 #ifndef CONTENT_BROWSER_BROWSER_THREAD_IMPL_H_
 #define CONTENT_BROWSER_BROWSER_THREAD_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Site per process sad frame browser tests
+// summary: Browser tests covering sad frame display, visibility metrics, and reload behavior when out-of-process subframes crash in site-isolated pages.
+// ---
+
 #include "content/browser/site_per_process_browsertest.h"
 
 #include "build/build_config.h"

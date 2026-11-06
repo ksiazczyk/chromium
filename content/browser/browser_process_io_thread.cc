@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser process IO thread implementation
+// summary: Implements the browser process IO thread, covering COM initialization, hang watching and network service cleanup on shutdown.
+// ---
+
 #include "content/browser/browser_process_io_thread.h"
 
 #include "base/clang_profiling_buildflags.h"

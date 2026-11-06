@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: After startup task testing helper header
+// summary: Declares SetBrowserStartupIsCompleteForTesting, an indirection to ContentBrowserClient for marking browser startup complete in tests.
+// ---
+
 #ifndef CONTENT_BROWSER_AFTER_STARTUP_TASK_UTILS_H_
 #define CONTENT_BROWSER_AFTER_STARTUP_TASK_UTILS_H_
 

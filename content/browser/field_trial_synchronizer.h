@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FieldTrialSynchronizer class declaration
+// summary: Declares FieldTrialSynchronizer, an observer of FieldTrialList, VariationsIdsProvider and runtime overrides that keeps renderers in sync with field trials.
+// ---
+
 #ifndef CONTENT_BROWSER_FIELD_TRIAL_SYNCHRONIZER_H_
 #define CONTENT_BROWSER_FIELD_TRIAL_SYNCHRONIZER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Theme helper class declaration
+// summary: Declares ThemeHelper, a singleton NativeThemeObserver that monitors system color changes and notifies renderer processes.
+// ---
+
 #ifndef CONTENT_BROWSER_THEME_HELPER_H_
 #define CONTENT_BROWSER_THEME_HELPER_H_
 

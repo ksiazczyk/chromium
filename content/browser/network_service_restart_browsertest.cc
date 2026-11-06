@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network service restart browser tests
+// summary: Browser tests verifying that cookies, URL loaders, service workers and shared workers behave correctly across network service crashes and restarts.
+// ---
+
 #include "base/files/file_util.h"
 #include "base/functional/bind.h"
 #include "base/functional/callback.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Plugin service implementation
+// summary: Implements PluginServiceImpl, the browser-side plugin service that registers plugins, applies filters and answers plugin queries via PluginList.
+// ---
+
 #include "content/browser/plugin_service_impl.h"
 
 #include <string>

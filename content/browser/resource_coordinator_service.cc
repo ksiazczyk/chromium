@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory instrumentation registry accessor
+// summary: Provides the singleton memory instrumentation registry used by the resource coordinator service for memory dumps.
+// ---
+
 #include "content/public/browser/resource_coordinator_service.h"
 
 #include "base/trace_event/memory_dump_manager.h"

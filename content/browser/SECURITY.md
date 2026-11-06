@@ -1,3 +1,9 @@
+---
+type: note
+title: Nested message loop mechanism and re-entrancy
+summary: Documents how nested message loops and COM pumping can re-enter browser UI code and destroy objects still in use.
+---
+
 # Nested Message Loop Mechanism
 
 ## Overview

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebKit regression browser tests
+// summary: Browser tests ensuring content_shell does not crash on aborted async scripts, bad XSLT imports, and prerender link handling.
+// ---
+
 #include "base/functional/bind.h"
 #include "content/browser/web_contents/web_contents_impl.h"
 #include "content/public/browser/web_contents.h"

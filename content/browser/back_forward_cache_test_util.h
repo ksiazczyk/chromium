@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Back/forward cache metrics test matcher header
+// summary: Declares BackForwardCacheMetricsTestMatcher, a helper class providing Expect* methods for asserting back/forward cache metrics in browser tests.
+// ---
+
 #ifndef CONTENT_BROWSER_BACK_FORWARD_CACHE_TEST_UTIL_H_
 #define CONTENT_BROWSER_BACK_FORWARD_CACHE_TEST_UTIL_H_
 

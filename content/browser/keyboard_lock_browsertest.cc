@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Keyboard lock browser tests
+// summary: Browser tests for the Keyboard Lock API covering key locking and unlocking, invalid key codes, fullscreen and cross-origin iframe scenarios, and related metrics.
+// ---
+
 #include "content/browser/keyboard_lock_browsertest.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Worker renderer preferences update helper
+// summary: Applies embedder renderer preferences for workers and overrides the Global Privacy Control setting from DevTools when set.
+// ---
+
 #include "content/browser/renderer_preferences_util.h"
 
 #include <optional>

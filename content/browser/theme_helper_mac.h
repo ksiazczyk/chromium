@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac theme helper class declaration
+// summary: Declares ThemeHelperMac, which monitors macOS appearance changes and shares the system color table with sandboxed child processes via shared memory.
+// ---
+
 #ifndef CONTENT_BROWSER_THEME_HELPER_MAC_H_
 #define CONTENT_BROWSER_THEME_HELPER_MAC_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Do Not Track browser tests
+// summary: Browser tests checking that the DNT header is sent or omitted depending on the Do Not Track renderer preference.
+// ---
+
 #include "base/barrier_closure.h"
 #include "base/functional/bind.h"
 #include "base/memory/raw_ptr.h"

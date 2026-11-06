@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UrlInfo declaration
+// summary: Declares UrlInfo, a struct packaging a GURL with isolation state needed for SiteInstance and process selection during navigation.
+// ---
+
 #ifndef CONTENT_BROWSER_URL_INFO_H_
 #define CONTENT_BROWSER_URL_INFO_H_
 

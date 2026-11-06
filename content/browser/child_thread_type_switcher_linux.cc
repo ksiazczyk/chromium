@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Child thread type switcher for Linux
+// summary: Browser-side implementation that applies thread type changes for sandboxed child processes, translating PID-namespace thread ids to host ids.
+// ---
+
 #include "content/browser/child_thread_type_switcher_linux.h"
 
 #include <vector>

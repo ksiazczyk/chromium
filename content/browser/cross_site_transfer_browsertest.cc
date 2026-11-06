@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cross-site transfer browser tests
+// summary: Browser tests covering renderer transfers during cross-process navigations, including entry replacement and cancellation of transfer requests.
+// ---
+
 #include <memory>
 
 #include "base/command_line.h"

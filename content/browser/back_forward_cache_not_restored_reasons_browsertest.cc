@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Back/forward cache not-restored reasons browser tests
+// summary: Browser tests for back/forward cache NotRestoredReasons reporting, checking when reasons are reported, reset per navigation, and how detailed origin details are matched.
+// ---
+
 #include <optional>
 
 #include "base/values.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SiteInstanceGroup implementation
+// summary: Implements SiteInstanceGroup, binding SiteInstances to a renderer process and tracking active frame and keep-alive counts with observer notifications.
+// ---
+
 #include "content/browser/site_instance_group.h"
 
 #include "base/auto_reset.h"

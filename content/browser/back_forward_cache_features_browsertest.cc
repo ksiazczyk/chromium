@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Back/forward cache feature browser tests
+// summary: Browser tests checking how web platform features and APIs such as Bluetooth, sensors, HID and media interact with the back/forward cache.
+// ---
+
 #include <algorithm>
 
 #include "base/strings/string_number_conversions.h"

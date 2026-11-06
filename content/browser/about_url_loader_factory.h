@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AboutURLLoaderFactory class declaration
+// summary: 'Declares the URLLoaderFactory for about: URLs, which treats every request from web content as about:blank.'
+// ---
+
 #ifndef CONTENT_BROWSER_ABOUT_URL_LOADER_FACTORY_H_
 #define CONTENT_BROWSER_ABOUT_URL_LOADER_FACTORY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserInterfaceBrokerImpl template header
+// summary: Template implementation of blink's BrowserInterfaceBroker that binds renderer-requested interfaces, with optional binder policy deferral.
+// ---
+
 #ifndef CONTENT_BROWSER_BROWSER_INTERFACE_BROKER_IMPL_H_
 #define CONTENT_BROWSER_BROWSER_INTERFACE_BROKER_IMPL_H_
 

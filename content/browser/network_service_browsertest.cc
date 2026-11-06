@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network service browser tests
+// summary: Browser tests for the network service covering URL loading, cookies, disk cache experiments, SSL key logging and OS crypt encryption integration.
+// ---
+
 #include "services/network/network_service.h"
 
 #include <array>

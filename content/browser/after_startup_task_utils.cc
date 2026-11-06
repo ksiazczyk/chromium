@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser startup completion test helper
+// summary: Helper that marks browser startup as complete for testing and forwards the signal to the registered ContentBrowserClient.
+// ---
+
 #include "content/browser/after_startup_task_utils.h"
 
 #include "content/browser/scheduler/browser_task_executor.h"

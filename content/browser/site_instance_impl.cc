@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SiteInstanceImpl implementation
+// summary: Implements SiteInstanceImpl, managing default SiteInstances, process assignment, and site isolation decisions for navigations in the browser process.
+// ---
+
 #include "content/browser/site_instance_impl.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser startup helper declarations
+// summary: Declares helpers to set up field trials and the feature list and to start the browser thread pool.
+// ---
+
 #ifndef CONTENT_BROWSER_STARTUP_HELPER_H_
 #define CONTENT_BROWSER_STARTUP_HELPER_H_
 

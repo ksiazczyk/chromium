@@ -1,0 +1,4 @@
+# Docerion header of native_profiling.pdl.
+type: reference
+title: NativeProfiling protocol definition
+summary: Defines the experimental NativeProfiling protocol domain with a command to dump profiling data for all processes.

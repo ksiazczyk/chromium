@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser startup data implementation header
+// summary: Declares StartupDataImpl, which holds the browser IO thread, Mojo IPC support, and the background tracing manager during startup.
+// ---
+
 #ifndef CONTENT_BROWSER_STARTUP_DATA_IMPL_H_
 #define CONTENT_BROWSER_STARTUP_DATA_IMPL_H_
 

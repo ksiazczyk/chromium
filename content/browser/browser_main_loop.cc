@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser main loop implementation
+// summary: Implements the browser process main loop, initializing threads, subsystems such as GPU and network, and the main message loop.
+// ---
+
 #include "content/browser/browser_main_loop.h"
 
 #include <stddef.h>

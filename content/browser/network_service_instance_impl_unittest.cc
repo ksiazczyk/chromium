@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network service instance unit tests
+// summary: Unit tests for the network service instance, including a regression test for a network context creation race during browser shutdown and cache directory checks.
+// ---
+
 #include "content/browser/network_service_instance_impl.h"
 
 #include <stdint.h>

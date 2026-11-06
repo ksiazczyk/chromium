@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Navigation browser tests
+// summary: Large browser test suite covering navigation behavior in the content layer, including commits, URL handling and frame navigation.
+// ---
+
 #include <stdint.h>
 
 #include <array>

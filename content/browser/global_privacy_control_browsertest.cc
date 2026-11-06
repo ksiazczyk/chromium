@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Global Privacy Control browser tests
+// summary: Parameterized browser tests checking navigator.globalPrivacyControl and the Sec-GPC header in dedicated, shared, and service workers under the force feature.
+// ---
+
 #include "base/command_line.h"
 #include "base/rand_util.h"
 #include "base/test/metrics/histogram_tester.h"

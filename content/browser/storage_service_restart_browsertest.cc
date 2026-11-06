@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Storage Service restart browser tests
+// summary: Browser tests verifying that the Storage Service can be force-crashed and reconnected, and that DOM and session storage recover afterwards.
+// ---
+
 #include <tuple>
 
 #include "base/run_loop.h"

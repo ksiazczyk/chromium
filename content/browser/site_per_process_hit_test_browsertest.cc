@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Site per process hit test browser tests
+// summary: Browser tests for input hit testing, synthetic gestures, cursors, and touch handling across out-of-process iframes.
+// ---
+
 #include <algorithm>
 #include <memory>
 #include <optional>

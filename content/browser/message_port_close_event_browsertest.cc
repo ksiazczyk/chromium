@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MessagePortCloseEvent browser tests
+// summary: Browser tests verifying that the MessagePortCloseEvent fires when a renderer crashes or a page is evicted from the back/forward cache.
+// ---
+
 #include "base/test/scoped_feature_list.h"
 #include "content/browser/renderer_host/render_frame_host_impl.h"
 #include "content/browser/web_contents/web_contents_impl.h"

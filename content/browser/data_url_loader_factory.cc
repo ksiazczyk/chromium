@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data URL loader factory
+// summary: 'Implements a self-deleting URLLoaderFactory that builds and streams responses for data: URLs over Mojo data pipes.'
+// ---
+
 #include "content/browser/data_url_loader_factory.h"
 
 #include <string_view>

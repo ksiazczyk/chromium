@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: POSIX file descriptor info unit tests
+// summary: Unit tests verifying descriptor transfer, sharing, ownership, and ID adjustment in PosixFileDescriptorInfoImpl.
+// ---
+
 #include "content/browser/posix_file_descriptor_info_impl.h"
 
 #include <fcntl.h>

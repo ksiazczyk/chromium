@@ -1,0 +1,4 @@
+# Docerion header of child_process_launcher_helper_tvos.mm.
+type: source
+title: tvOS child process launcher helper stub
+summary: Placeholder tvOS implementation whose launcher methods are all NOTREACHED until tvOS actually requires child process launching functionality.
