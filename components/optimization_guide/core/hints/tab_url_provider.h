@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab URL Provider Interface
+// summary: Defines an interface for retrieving URLs of the user's active tabs, sorted by descending time since last shown, for hints processing.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CORE_HINTS_TAB_URL_PROVIDER_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CORE_HINTS_TAB_URL_PROVIDER_H_
 

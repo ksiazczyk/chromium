@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prediction model fetch timer implementation
+// summary: Implements PredictionModelFetchTimer, which schedules the first, registration-triggered, and periodic fetching of prediction models with retry and backoff handling.
+// ---
+
 #include "components/optimization_guide/core/delivery/prediction_model_fetch_timer.h"
 
 #include "base/rand_util.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Hints manager unit tests
+// summary: Unit tests for HintsManager covering bloom filters, fetch scheduling, decisions, sign-in identity, and pref-based hint state.
+// ---
+
 #include "components/optimization_guide/core/hints/hints_manager.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Optimization Guide permissions utility implementation
+// summary: Implements checks for whether a user may fetch from the remote Optimization Guide Service based on consent, incognito state and API key configuration.
+// ---
+
 #include "components/optimization_guide/core/optimization_guide_permissions_util.h"
 
 #include <memory>

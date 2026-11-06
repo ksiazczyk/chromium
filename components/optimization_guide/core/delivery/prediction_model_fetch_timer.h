@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prediction model fetch timer header
+// summary: Declares PredictionModelFetchTimer and its state enum for scheduling initial and periodic prediction model fetches from the Optimization Guide Service.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CORE_DELIVERY_PREDICTION_MODEL_FETCH_TIMER_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CORE_DELIVERY_PREDICTION_MODEL_FETCH_TIMER_H_
 

@@ -1,3 +1,9 @@
+---
+type: readme
+title: Optimization Guide Hints
+summary: Overview of the hints component of the Optimization Guide, explaining how hints are fetched, cached, and managed and how consumers use OptimizationGuideDecider.
+---
+
 # Optimization Guide Hints
 
 This directory contains the implementation of the hints component of the

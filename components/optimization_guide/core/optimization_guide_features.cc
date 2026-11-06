@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Optimization Guide feature flags implementation
+// summary: Implements feature flags, command-line switches and parameter helpers controlling Optimization Guide behavior such as hints, model execution and logging.
+// ---
+
 #include "components/optimization_guide/core/optimization_guide_features.h"
 
 #include <algorithm>

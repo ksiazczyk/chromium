@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URLPatternWithWildcards header
+// summary: Declares the URLPatternWithWildcards class, which parses URL patterns containing '*' wildcards and matches them against URL strings.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CORE_HINTS_URL_PATTERN_WITH_WILDCARDS_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CORE_HINTS_URL_PATTERN_WITH_WILDCARDS_H_
 

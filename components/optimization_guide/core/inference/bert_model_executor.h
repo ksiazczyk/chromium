@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BertModelExecutor class declaration
+// summary: Declares a model executor that runs BERT models and returns classification categories for a text string input.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CORE_INFERENCE_BERT_MODEL_EXECUTOR_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CORE_INFERENCE_BERT_MODEL_EXECUTOR_H_
 

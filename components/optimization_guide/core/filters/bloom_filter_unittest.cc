@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BloomFilter unit tests (bloom_filter_unittest.cc)
+// summary: Unit tests covering BloomFilter add and contains behavior, bit counts, false positives, all-set filters, and size validation.
+// ---
+
 #include "components/optimization_guide/core/filters/bloom_filter.h"
 
 #include <stdint.h>

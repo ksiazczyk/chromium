@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BloomFilter class declaration (bloom_filter.h)
+// summary: Declares the BloomFilter class for tracking a set of strings, defined to be compatible with OptimizationGuide hints.proto data.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CORE_FILTERS_BLOOM_FILTER_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CORE_FILTERS_BLOOM_FILTER_H_
 

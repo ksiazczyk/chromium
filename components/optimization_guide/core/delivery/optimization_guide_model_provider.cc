@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Optimization Guide model provider implementation
+// summary: Implements OptimizationGuideModelProviderObservation, a scoped helper that registers and unregisters model observers with the model provider.
+// ---
+
 #include "components/optimization_guide/core/delivery/optimization_guide_model_provider.h"
 
 namespace optimization_guide {

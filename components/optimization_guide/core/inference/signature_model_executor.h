@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signature model executor header
+// summary: Declares SignatureModelExecutor, a BaseModelExecutor that runs inference via TfLite signature runners and maps input and output tensors by name instead of by index.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CORE_INFERENCE_SIGNATURE_MODEL_EXECUTOR_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CORE_INFERENCE_SIGNATURE_MODEL_EXECUTOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Model store metadata entry unit tests
+// summary: Unit tests for the model store ledger and metadata entries, covering cache key mappings, expiry times and purging of stored model metadata.
+// ---
+
 #include "components/optimization_guide/core/delivery/model_store_metadata_entry.h"
 
 #include "base/files/file_path.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the TFLite model executor
+// summary: Unit tests for TFLiteModelExecutor covering model loading and unloading, preloading, execution status metrics, batching, and cancellation using a simple test TFLite model.
+// ---
+
 #include "base/path_service.h"
 #include "base/strings/strcat.h"
 #include "base/task/sequenced_task_runner.h"

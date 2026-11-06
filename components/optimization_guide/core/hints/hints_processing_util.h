@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hints processing utilities header
+// summary: Declares helpers for optimization type names, page hint lookup, host hashing, and URL validation for URL-keyed hints.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CORE_HINTS_HINTS_PROCESSING_UTIL_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CORE_HINTS_HINTS_PROCESSING_UTIL_H_
 

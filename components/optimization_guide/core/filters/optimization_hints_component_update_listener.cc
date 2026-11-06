@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OptimizationHintsComponentUpdateListener implementation
+// summary: Implements the singleton listener that tracks the current Optimization Hints component, records version metrics, and notifies observers only when a newer version arrives.
+// ---
+
 #include "components/optimization_guide/core/filters/optimization_hints_component_update_listener.h"
 
 #include "base/metrics/histogram_functions.h"

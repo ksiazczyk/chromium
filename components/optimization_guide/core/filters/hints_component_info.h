@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HintsComponentInfo struct (hints_component_info.h)
+// summary: Defines a struct holding the version and file path of an optimization hints component received from the components server.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CORE_FILTERS_HINTS_COMPONENT_INFO_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CORE_FILTERS_HINTS_COMPONENT_INFO_H_
 

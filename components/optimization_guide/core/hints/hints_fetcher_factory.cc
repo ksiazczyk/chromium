@@ -1,6 +1,13 @@
 // Copyright 2020 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Hints fetcher factory implementation
+// summary: Implements the factory that builds HintsFetcher instances for the Optimization Guide service and supports overriding the service URL in tests.
+// ---
+
 #include "components/optimization_guide/core/hints/hints_fetcher_factory.h"
 
 #include "components/optimization_guide/core/hints/hints_fetcher.h"

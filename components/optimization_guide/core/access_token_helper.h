@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Access token helper header
+// summary: Declares HandleTokenRequestFlow and the OptimizationGuideAccessTokenResult enum used to request primary account access tokens asynchronously.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CORE_ACCESS_TOKEN_HELPER_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CORE_ACCESS_TOKEN_HELPER_H_
 

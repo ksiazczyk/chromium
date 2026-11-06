@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExecutionStatus enum for model execution
+// summary: Defines the ExecutionStatus enum used for UMA logging of model execution outcomes, including success, pending, and error states.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CORE_INFERENCE_EXECUTION_STATUS_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CORE_INFERENCE_EXECUTION_STATUS_H_
 

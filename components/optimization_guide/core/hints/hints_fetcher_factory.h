@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hints fetcher factory header
+// summary: Declares HintsFetcherFactory, which creates HintsFetcher instances and lets tests override fetcher creation and the Optimization Guide service URL.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CORE_HINTS_HINTS_FETCHER_FACTORY_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CORE_HINTS_HINTS_FETCHER_FACTORY_H_
 

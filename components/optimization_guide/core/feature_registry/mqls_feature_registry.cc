@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MQLS feature registry implementation
+// summary: Implements MqlsFeatureMetadata and the MqlsFeatureRegistry singleton that stores metadata for Model Quality Logging Service features and looks them up by logging feature case.
+// ---
+
 #include "components/optimization_guide/core/feature_registry/mqls_feature_registry.h"
 
 #include "base/no_destructor.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Noisy metrics recorder implementation
+// summary: Implements bit-flipping noise for metrics by randomly flipping bits of a metric value with a given probability before recording.
+// ---
+
 #include "components/optimization_guide/core/noisy_metrics_recorder.h"
 
 #include <cmath>

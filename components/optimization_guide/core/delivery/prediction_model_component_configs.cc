@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prediction model component configs implementation
+// summary: Implements component configurations, including component names and public key hashes, for delivering prediction models via the Component Updater.
+// ---
+
 #include "components/optimization_guide/core/delivery/prediction_model_component_configs.h"
 
 #include <algorithm>

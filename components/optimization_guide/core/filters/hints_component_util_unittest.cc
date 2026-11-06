@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Hints component utility unit tests (hints_component_util_unittest.cc)
+// summary: Tests hints component processing for invalid versions, paths, and files, plus successful configuration parsing and filter creation.
+// ---
+
 #include "components/optimization_guide/core/filters/hints_component_util.h"
 
 #include <string>

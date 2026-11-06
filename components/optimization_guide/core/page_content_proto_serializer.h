@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SecurityOriginSerializer for serializing url::Origin into a proto
+// summary: Declares SecurityOriginSerializer, which serializes a url::Origin, including opaque origins, into a SecurityOrigin proto without depending on content/.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CORE_PAGE_CONTENT_PROTO_SERIALIZER_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CORE_PAGE_CONTENT_PROTO_SERIALIZER_H_
 

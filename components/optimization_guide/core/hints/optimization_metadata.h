@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Optimization metadata header
+// summary: Declares OptimizationMetadata, which holds optional Any and loading predictor metadata attached to an Optimization Guide optimization and parses it into proto messages.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CORE_HINTS_OPTIMIZATION_METADATA_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CORE_HINTS_OPTIMIZATION_METADATA_H_
 

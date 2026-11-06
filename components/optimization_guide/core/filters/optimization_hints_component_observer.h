@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OptimizationHintsComponentObserver interface
+// summary: Declares the observer interface notified when a new Optimization Hints component becomes available for processing, with calls made on the UI thread.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CORE_FILTERS_OPTIMIZATION_HINTS_COMPONENT_OBSERVER_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CORE_FILTERS_OPTIMIZATION_HINTS_COMPONENT_OBSERVER_H_
 

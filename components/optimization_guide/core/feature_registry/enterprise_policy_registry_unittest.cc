@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Enterprise policy registry unit tests
+// summary: Unit tests verifying that registered enterprise policy prefs default to kAllow and that GetValue returns the current policy setting from the pref service.
+// ---
+
 #include "components/optimization_guide/core/feature_registry/enterprise_policy_registry.h"
 
 #include "components/optimization_guide/core/model_execution/model_execution_prefs.h"

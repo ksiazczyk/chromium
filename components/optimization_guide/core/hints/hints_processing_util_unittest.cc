@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Hints processing utilities unit tests
+// summary: Tests FindPageHintForURL wildcard pattern matching and IsValidURLForURLKeyedHint rejection of file, chrome, localhost, and private addresses.
+// ---
+
 #include "components/optimization_guide/core/hints/hints_processing_util.h"
 
 #include "components/optimization_guide/core/hints/store_update_data.h"

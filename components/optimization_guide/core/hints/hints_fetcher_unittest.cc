@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Hints fetcher unit tests
+// summary: Unit tests for HintsFetcher that verify hint requests to the Optimization Guide service, covered host expiry prefs, and optional disk persistence.
+// ---
+
 #include "components/optimization_guide/core/hints/hints_fetcher.h"
 
 #include <memory>

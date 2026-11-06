@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prediction model fetcher implementation header
+// summary: Declares PredictionModelFetcherImpl, which performs asynchronous network fetches of prediction models using a SimpleURLLoader.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CORE_DELIVERY_PREDICTION_MODEL_FETCHER_IMPL_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CORE_DELIVERY_PREDICTION_MODEL_FETCHER_IMPL_H_
 

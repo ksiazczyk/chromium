@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prediction model store implementation
+// summary: Implements PredictionModelStore, managing on-disk storage, validation, and cleanup of prediction model directories and metadata.
+// ---
+
 #include "components/optimization_guide/core/delivery/prediction_model_store.h"
 
 #include "base/command_line.h"

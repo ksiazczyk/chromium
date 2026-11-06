@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockOptimizationGuideDecider header
+// summary: Declares a gmock mock of OptimizationGuideDecider with mocked methods for registering optimization types and making synchronous and on-demand decisions.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CORE_HINTS_MOCK_OPTIMIZATION_GUIDE_DECIDER_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CORE_HINTS_MOCK_OPTIMIZATION_GUIDE_DECIDER_H_
 

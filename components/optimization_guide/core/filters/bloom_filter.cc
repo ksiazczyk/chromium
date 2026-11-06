@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bloom filter implementation (bloom_filter.cc)
+// summary: Implements the BloomFilter class with MurmurHash3-based Add and Contains operations compatible with the server hints proto.
+// ---
+
 #include "components/optimization_guide/core/filters/bloom_filter.h"
 
 #include <stddef.h>

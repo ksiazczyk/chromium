@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Optimization target model observer interface
+// summary: Defines the observer interface notified when a model for an optimization target is updated or removed from the on-device store.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CORE_DELIVERY_OPTIMIZATION_TARGET_MODEL_OBSERVER_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CORE_DELIVERY_OPTIMIZATION_TARGET_MODEL_OBSERVER_H_
 

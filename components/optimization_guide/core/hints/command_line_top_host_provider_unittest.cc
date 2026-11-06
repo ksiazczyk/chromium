@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CommandLineTopHostProvider unit tests
+// summary: Unit tests for CommandLineTopHostProvider covering creation only when the override switch has hosts and the returned top host list.
+// ---
+
 #include "components/optimization_guide/core/hints/command_line_top_host_provider.h"
 
 #include <memory>

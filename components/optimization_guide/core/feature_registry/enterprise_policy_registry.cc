@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise policy registry implementation
+// summary: Implements the EnterprisePolicyRegistry singleton that collects enterprise policy prefs for model execution features and registers them into the pref service with a kAllow default.
+// ---
+
 #include "components/optimization_guide/core/feature_registry/enterprise_policy_registry.h"
 
 #include <string_view>

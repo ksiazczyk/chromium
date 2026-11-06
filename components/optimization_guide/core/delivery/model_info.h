@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ModelInfo struct for prediction models
+// summary: Declares the ModelInfo struct holding a prediction model's file path, additional files, version and metadata, plus off-thread model loading and verification.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CORE_DELIVERY_MODEL_INFO_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CORE_DELIVERY_MODEL_INFO_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page content proto serializer implementation
+// summary: Implements serialization of URL origins, including opaque origins with nonces, into optimization guide SecurityOrigin protos.
+// ---
+
 #include "components/optimization_guide/core/page_content_proto_serializer.h"
 
 #include "base/unguessable_token.h"

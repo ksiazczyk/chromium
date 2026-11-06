@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Optimization guide utilities implementation
+// summary: Implements optimization guide utilities such as feature name lookup, host validation for remote fetching, client origin info, and request authorization headers.
+// ---
+
 #include "components/optimization_guide/core/optimization_guide_util.h"
 
 #include "base/containers/flat_set.h"

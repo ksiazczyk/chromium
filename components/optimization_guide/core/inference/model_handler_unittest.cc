@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Model handler unit tests
+// summary: Unit tests covering ModelHandler observer registration, model file updates, and execution behavior using test doubles and a sample TFLite model.
+// ---
+
 #include "base/path_service.h"
 #include "base/strings/strcat.h"
 #include "base/task/cancelable_task_tracker.h"

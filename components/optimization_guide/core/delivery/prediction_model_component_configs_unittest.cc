@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Prediction model component configs unit tests
+// summary: Unit tests verifying component config lookup and target list behavior when the component delivery feature is enabled or disabled.
+// ---
+
 #include "components/optimization_guide/core/delivery/prediction_model_component_configs.h"
 
 #include "base/strings/string_number_conversions.h"

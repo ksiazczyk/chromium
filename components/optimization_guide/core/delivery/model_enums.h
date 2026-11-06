@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prediction model store removal reason enum
+// summary: Defines the PredictionModelStoreModelRemovalReason enum listing the reasons a prediction model is removed from the model store, kept in sync with enums.xml.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CORE_DELIVERY_MODEL_ENUMS_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CORE_DELIVERY_MODEL_ENUMS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BertModelExecutor implementation
+// summary: Implements BERT model execution with TFLite Support's BertNLClassifier, building the classifier from a model file and classifying text input.
+// ---
+
 #include "components/optimization_guide/core/inference/bert_model_executor.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile download service tracker interface
+// summary: Declares an interface that returns the background download service to use for optimization guide model downloads on behalf of profiles.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CORE_DELIVERY_PROFILE_DOWNLOAD_SERVICE_TRACKER_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CORE_DELIVERY_PROFILE_DOWNLOAD_SERVICE_TRACKER_H_
 

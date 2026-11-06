@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Push Notification Manager Implementation
+// summary: Implements handling of pushed hint notifications by validating payloads, recording metrics, and dispatching them to observers while removing stale stored hints.
+// ---
+
 #include "components/optimization_guide/core/hints/push_notification_manager.h"
 
 #include "base/functional/callback_helpers.h"

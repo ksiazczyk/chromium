@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prediction model component update listener implementation
+// summary: Implements PredictionModelComponentUpdateListener, which tracks component updater updates for prediction models, loads them in the background, and notifies observers via the OptimizationGuideModelProvider interface.
+// ---
+
 #include "components/optimization_guide/core/delivery/prediction_model_component_update_listener.h"
 
 #include <optional>

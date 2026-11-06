@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MQLS feature registry unit tests
+// summary: Unit tests covering feature registration, field-trial-controlled logging enablement, and the ActorLogin exception to the enterprise policy requirement.
+// ---
+
 #include "components/optimization_guide/core/feature_registry/mqls_feature_registry.h"
 
 #include "base/feature_list.h"

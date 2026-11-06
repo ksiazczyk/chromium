@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InsertionOrderedSet unit tests
+// summary: Unit tests covering insertion of single, distinct and duplicate elements plus empty and clear behavior of the insertion ordered set container.
+// ---
+
 #include "components/optimization_guide/core/hints/insertion_ordered_set.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

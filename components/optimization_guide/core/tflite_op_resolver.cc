@@ -1,6 +1,13 @@
 // Copyright 2021 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: TFLite built-in operator registration for Chromium's TFLite build
+// summary: Registers the built-in TFLite operators supported by Chromium's TFLite build with version ranges tied to ModelEngineVersion entries in models.proto.
+// ---
+
 #include "components/optimization_guide/core/tflite_op_resolver.h"
 
 #include "components/optimization_guide/core/optimization_guide_features.h"

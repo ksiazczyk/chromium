@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Optimization Guide store unit tests
+// summary: Unit tests for OptimizationGuideStore covering initialization, metadata schema handling, and component and fetched hint storage using a fake database.
+// ---
+
 #include "components/optimization_guide/core/hints/optimization_guide_store.h"
 
 #include <optional>

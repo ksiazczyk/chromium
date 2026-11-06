@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Push Notification Manager Unit Tests
+// summary: Unit tests covering push notification dispatch, observer payload delivery, metrics recording, and stale hint removal through a test delegate.
+// ---
+
 #include "components/optimization_guide/core/hints/push_notification_manager.h"
 
 #include "base/test/metrics/histogram_tester.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Optimization Guide navigation data unit tests
+// summary: Unit tests verifying that OptimizationGuideNavigationData records UKM metrics for registered optimization types, fetch attempt status, and fetch latency.
+// ---
+
 #include "components/optimization_guide/core/hints/optimization_guide_navigation_data.h"
 
 #include <memory>

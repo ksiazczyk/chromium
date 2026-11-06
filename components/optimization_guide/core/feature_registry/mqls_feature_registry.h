@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MQLS feature registry declarations
+// summary: Declares MqlsFeatureMetadata holding name, enterprise policy, field trial feature, and user feedback callback for MQLS logging, plus the MqlsFeatureRegistry singleton.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CORE_FEATURE_REGISTRY_MQLS_FEATURE_REGISTRY_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CORE_FEATURE_REGISTRY_MQLS_FEATURE_REGISTRY_H_
 

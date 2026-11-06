@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Store Update Data Interface
+// summary: Declares StoreUpdateData, which collects hint entries and metadata for updating the Optimization Guide store from component or fetched hint updates.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CORE_HINTS_STORE_UPDATE_DATA_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CORE_HINTS_STORE_UPDATE_DATA_H_
 

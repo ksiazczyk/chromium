@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestHintsComponentCreator implementation
+// summary: Implements the testing helper that builds hints component configurations with page hints and bloom filters and writes them to temporary files for tests.
+// ---
+
 #include "components/optimization_guide/core/filters/test_hints_component_creator.h"
 
 #include <memory>

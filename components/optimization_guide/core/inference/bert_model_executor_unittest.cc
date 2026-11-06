@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for BertModelExecutor
+// summary: Tests loading valid and invalid BERT models through BertModelHandler and verifies execution fails for an invalid model.
+// ---
+
 #include "base/path_service.h"
 #include "base/test/scoped_feature_list.h"
 #include "base/test/task_environment.h"

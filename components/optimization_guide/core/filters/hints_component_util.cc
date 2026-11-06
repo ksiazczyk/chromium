@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hints component processing utilities (hints_component_util.cc)
+// summary: Implements processing of hints component files into Configuration protos and builds Bloom filters and regexp lists for optimization filters.
+// ---
+
 #include "components/optimization_guide/core/filters/hints_component_util.h"
 
 #include <string>

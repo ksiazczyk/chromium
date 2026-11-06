@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Optimization Guide hints preference registration
+// summary: Defines and registers profile preferences tracking hints fetch attempts, successfully fetched hosts, pending processing versions, and previously registered optimization types.
+// ---
+
 #include "components/optimization_guide/core/hints/prefs.h"
 
 #include "base/time/time.h"

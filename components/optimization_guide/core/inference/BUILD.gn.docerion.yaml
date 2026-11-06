@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the inference library
+summary: Defines GN targets for the TFLite op resolver, the inference static library, test support, and unit tests in the optimization guide inference directory.

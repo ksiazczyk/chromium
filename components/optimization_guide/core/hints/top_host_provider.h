@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TopHostProvider interface
+// summary: Defines the abstract TopHostProvider interface for querying the list of top hosts for a user.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CORE_HINTS_TOP_HOST_PROVIDER_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CORE_HINTS_TOP_HOST_PROVIDER_H_
 

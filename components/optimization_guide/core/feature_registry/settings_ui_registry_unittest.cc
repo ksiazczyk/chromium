@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for SettingsUiRegistry
+// summary: Verifies that features registered with SettingsUiRegistry can be retrieved by feature key and that unregistered keys return null, with the register test disabled on iOS.
+// ---
+
 #include "components/optimization_guide/core/feature_registry/settings_ui_registry.h"
 
 #include "components/optimization_guide/core/feature_registry/feature_keys.h"

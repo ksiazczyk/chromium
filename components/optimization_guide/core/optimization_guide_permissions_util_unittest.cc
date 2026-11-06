@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Optimization guide permissions util unit tests
+// summary: Unit tests verifying that users are only permitted to fetch from the remote optimization guide when URL-keyed anonymized data collection is enabled.
+// ---
+
 #include "components/optimization_guide/core/optimization_guide_permissions_util.h"
 
 #include "base/command_line.h"

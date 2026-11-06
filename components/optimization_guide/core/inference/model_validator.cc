@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Model validator implementation
+// summary: Implements ModelValidatorHandler and ModelValidatorExecutor, which load delivered models, execute them, and self-delete after validation completes.
+// ---
+
 #include "components/optimization_guide/core/inference/model_validator.h"
 
 #include <memory>

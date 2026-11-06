@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Optimization Guide logger implementation
+// summary: Implements a singleton logger that records Optimization Guide debug log messages and notifies observers for display in the internals page.
+// ---
+
 #include "components/optimization_guide/core/optimization_guide_logger.h"
 
 #include "base/command_line.h"

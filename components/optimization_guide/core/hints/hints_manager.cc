@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hints manager implementation
+// summary: Implements HintsManager, which coordinates hint fetching, caching, batch updates for tabs and top hosts, and optimization decisions.
+// ---
+
 #include "components/optimization_guide/core/hints/hints_manager.h"
 
 #include <cstddef>

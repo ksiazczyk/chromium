@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Prediction model override unit tests
+// summary: Tests parsing of the model override command-line switch, covering invalid inputs, relative paths, and valid entries with metadata.
+// ---
+
 #include "components/optimization_guide/core/delivery/prediction_model_override.h"
 
 #include <algorithm>

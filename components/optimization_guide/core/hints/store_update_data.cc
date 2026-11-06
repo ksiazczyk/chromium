@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Store Update Data Implementation
+// summary: Implements creation of component and fetched hint update data, building store entries with metadata, key prefixes, and expiry times for the Optimization Guide store.
+// ---
+
 #include "components/optimization_guide/core/hints/store_update_data.h"
 
 #include "base/memory/ptr_util.h"

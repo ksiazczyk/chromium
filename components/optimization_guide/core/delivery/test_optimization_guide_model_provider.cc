@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test optimization guide model provider implementation
+// summary: Implements a no-op OptimizationGuideModelProvider test double for unit testing features that rely on the Optimization Guide.
+// ---
+
 #include "components/optimization_guide/core/delivery/test_optimization_guide_model_provider.h"
 
 namespace optimization_guide {

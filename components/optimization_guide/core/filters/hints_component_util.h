@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hints component utility declarations (hints_component_util.h)
+// summary: Declares ProcessHintsComponent and ProcessOptimizationFilter plus result enums, UMA hooks, and server bloom filter size limits.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CORE_FILTERS_HINTS_COMPONENT_UTIL_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CORE_FILTERS_HINTS_COMPONENT_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Model validator unit tests
+// summary: Unit tests that run model validation on test model files and verify observer registration and histogram behavior.
+// ---
+
 #include "components/optimization_guide/core/inference/model_validator.h"
 
 #include "base/files/file_util.h"

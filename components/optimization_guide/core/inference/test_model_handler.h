@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test model handler declaration
+// summary: Declares TestModelHandler, a ModelHandler test double that wraps TestModelExecutor for float model inference in unit tests.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CORE_INFERENCE_TEST_MODEL_HANDLER_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CORE_INFERENCE_TEST_MODEL_HANDLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Model store metadata entry implementation
+// summary: Implements prefs-backed metadata entries for models on disk, client and server cache key handling, and a switch to purge the model and features store.
+// ---
+
 #include "components/optimization_guide/core/delivery/model_store_metadata_entry.h"
 
 #include <vector>

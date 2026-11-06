@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Optimization guide prefs implementation
+// summary: Implements pref name lookup and registration for the user opt-in state of user-visible optimization guide features such as Compose and WallpaperSearch.
+// ---
+
 #include "components/optimization_guide/core/optimization_guide_prefs.h"
 
 #include "components/optimization_guide/core/feature_registry/feature_keys.h"

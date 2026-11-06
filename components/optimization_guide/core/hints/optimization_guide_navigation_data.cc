@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Optimization Guide navigation data implementation
+// summary: Implements OptimizationGuideNavigationData, which tracks per-navigation hints fetch timing and status and records Optimization Guide UKM metrics on destruction.
+// ---
+
 #include "components/optimization_guide/core/hints/optimization_guide_navigation_data.h"
 
 #include "base/base64.h"

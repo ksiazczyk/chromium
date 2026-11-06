@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prediction model download manager implementation
+// summary: Implements PredictionModelDownloadManager, which downloads prediction model CRX files, verifies and unzips them, and reports download states and statuses.
+// ---
+
 #include "components/optimization_guide/core/delivery/prediction_model_download_manager.h"
 
 #include "base/base_switches.h"
