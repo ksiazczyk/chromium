@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VulkanImplementationMac implementation
+// summary: Implements the macOS Vulkan backend, initializing a Vulkan instance with Metal surface extensions and returning stubs or failures for unsupported operations like view surfaces and GPU memory buffer imports.
+// ---
+
 #include "gpu/vulkan/mac/vulkan_implementation_mac.h"
 
 #include "base/check.h"

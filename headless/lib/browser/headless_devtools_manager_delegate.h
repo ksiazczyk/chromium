@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Headless DevTools manager delegate header
+// summary: Declares the HeadlessDevToolsManagerDelegate class that routes DevTools commands and manages targets and browser contexts for headless sessions.
+// ---
+
 #ifndef HEADLESS_LIB_BROWSER_HEADLESS_DEVTOOLS_MANAGER_DELEGATE_H_
 #define HEADLESS_LIB_BROWSER_HEADLESS_DEVTOOLS_MANAGER_DELEGATE_H_
 

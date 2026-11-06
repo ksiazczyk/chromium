@@ -1,0 +1,4 @@
+# Docerion header of blank.html.
+type: test
+title: Blank HTML page
+summary: Minimal blank HTML page used as an empty test fixture.

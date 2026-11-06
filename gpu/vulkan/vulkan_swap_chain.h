@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Vulkan swap chain class declarations
+// summary: Declares VulkanSwapChain and its ScopedWrite helper for acquiring, writing and presenting swap chain images with semaphore synchronization.
+// ---
+
 #ifndef GPU_VULKAN_VULKAN_SWAP_CHAIN_H_
 #define GPU_VULKAN_VULKAN_SWAP_CHAIN_H_
 

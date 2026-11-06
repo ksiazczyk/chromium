@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Presubmit checks for Vulkan function pointer bindings
+# summary: Presubmit script that verifies generated Vulkan function pointer files match the output of generate_bindings.py.
+# ---
+
 """Enforces Vulkan function pointer autogen matches script output.
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

@@ -1,0 +1,4 @@
+# Docerion header of no_origin_trial.html.
+type: test
+title: No origin trial token page
+summary: Empty test page whose title indicates it serves without an origin trial token.

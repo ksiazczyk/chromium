@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WGPU callback adapters for base callbacks
+// summary: Header defining heap-allocated WGPUOnceCallback and WGPURepeatingCallback templates that adapt Chromium base callbacks for use as WGPU C API callbacks with void* userdata.
+// ---
+
 #ifndef GPU_WEBGPU_CALLBACK_H_
 #define GPU_WEBGPU_CALLBACK_H_
 

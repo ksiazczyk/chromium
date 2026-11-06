@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Vulkan surface and swap chain tests
+// summary: Tests Vulkan surface initialization, reshaping and repeated swap chain buffer presentation through the BasicVulkanTest fixture.
+// ---
+
 #include <memory>
 #include <optional>
 

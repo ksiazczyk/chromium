@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HeadlessBrowserImpl unit tests
+// summary: Unit tests verifying headless user agent metadata fields, HeadlessChrome brand version lists, and blank client hint values under the UA override feature.
+// ---
+
 #include "headless/lib/browser/headless_browser_impl.h"
 
 #include "base/test/scoped_command_line.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserHandler class declaration
+// summary: Declares BrowserHandler, which implements the Browser::Backend interface for window and dock tile commands.
+// ---
+
 #ifndef HEADLESS_LIB_BROWSER_PROTOCOL_BROWSER_HANDLER_H_
 #define HEADLESS_LIB_BROWSER_PROTOCOL_BROWSER_HANDLER_H_
 

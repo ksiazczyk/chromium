@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Headless DevTools HTTP handler startup
+// summary: Starts and stops the local DevTools HTTP handler on the loopback interface, using TCP server socket factories for a configured port or an inherited socket descriptor.
+// ---
+
 #include "headless/lib/browser/headless_devtools.h"
 
 #include <memory>

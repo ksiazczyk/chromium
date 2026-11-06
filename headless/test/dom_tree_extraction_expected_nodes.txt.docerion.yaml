@@ -1,0 +1,4 @@
+# Docerion header of dom_tree_extraction_expected_nodes.txt.
+type: test
+title: Expected DOM tree nodes for extraction test
+summary: Expected DOM node snapshot data used to verify headless DOM tree extraction test results.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the headless renderer
+summary: Defines the directories that code in headless/lib/renderer may include from, such as printing, blink public, media base and V8 headers.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VulkanImplementationAndroid class declaration
+// summary: Header declaring the Android-specific VulkanImplementation subclass covering surfaces, fences, semaphores, and hardware buffer images.
+// ---
+
 #ifndef GPU_VULKAN_ANDROID_VULKAN_IMPLEMENTATION_ANDROID_H_
 #define GPU_VULKAN_ANDROID_VULKAN_IMPLEMENTATION_ANDROID_H_
 

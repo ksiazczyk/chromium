@@ -1,0 +1,4 @@
+# Docerion header of centered_blue_box.html.
+type: test
+title: Centered blue box test page
+summary: Test page that draws a blue box centered within a 300x300 body.

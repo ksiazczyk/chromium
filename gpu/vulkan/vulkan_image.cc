@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Vulkan image implementation
+// summary: Implements VulkanImage creation from plain allocations, external memory and GPU memory buffer handles, with multi-plane image support.
+// ---
+
 #include "gpu/vulkan/vulkan_image.h"
 
 #include <vulkan/vulkan.h>

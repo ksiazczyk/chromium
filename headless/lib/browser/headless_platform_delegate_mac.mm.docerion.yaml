@@ -1,0 +1,4 @@
+# Docerion header of headless_platform_delegate_mac.mm.
+type: source
+title: Mac implementation of HeadlessPlatformDelegate
+summary: Implements the macOS platform delegate, setting up the headless screen, geolocation, popup suppression, process activity and NSView bounds handling.

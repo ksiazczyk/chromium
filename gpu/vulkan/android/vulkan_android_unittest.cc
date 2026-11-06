@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android Vulkan implementation unit tests
+// summary: gtest fixture testing sync FD semaphore export/import and Vulkan image creation from Android hardware buffers.
+// ---
+
 #include <android/hardware_buffer.h>
 #include <sys/eventfd.h>
 

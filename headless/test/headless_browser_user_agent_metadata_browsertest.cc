@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Headless browser user agent metadata browser tests
+// summary: Browser tests verifying navigator.userAgentData and CDP-based overriding of UserAgentMetadata in headless Chrome.
+// ---
+
 #include <string>
 
 #include "base/memory/raw_ptr.h"

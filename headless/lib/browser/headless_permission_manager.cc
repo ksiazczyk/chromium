@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HeadlessPermissionManager implementation
+// summary: Implements the headless permission manager, answering every permission request with ASK as if the user closed the prompt without deciding.
+// ---
+
 #include "headless/lib/browser/headless_permission_manager.h"
 
 #include "base/functional/callback.h"

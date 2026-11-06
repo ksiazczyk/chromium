@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HeadlessRequestContextManager class declaration
+// summary: Declares HeadlessRequestContextManager, which creates and configures network contexts for headless browser contexts, including the system context.
+// ---
+
 #ifndef HEADLESS_LIB_BROWSER_HEADLESS_REQUEST_CONTEXT_MANAGER_H_
 #define HEADLESS_LIB_BROWSER_HEADLESS_REQUEST_CONTEXT_MANAGER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window state to protocol conversion helpers
+// summary: Converts between HeadlessWindowState values and DevTools protocol Target window state strings in both directions.
+// ---
+
 #include "headless/public/headless_window_state.h"
 
 #include "base/containers/flat_map.h"

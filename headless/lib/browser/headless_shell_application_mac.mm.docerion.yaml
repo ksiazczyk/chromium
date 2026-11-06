@@ -1,0 +1,4 @@
+# Docerion header of headless_shell_application_mac.mm.
+type: source
+title: HeadlessShellCrApplication implementation
+summary: Implements the headless shell Mac application class, always reporting no send event handling and forwarding native event processor observer notifications.

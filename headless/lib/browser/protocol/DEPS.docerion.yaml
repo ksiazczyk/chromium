@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the headless protocol directory
+summary: Restricts includes in the protocol directory, allowing crdtp for JSON/CBOR conversion and print_to_pdf for page_handler.

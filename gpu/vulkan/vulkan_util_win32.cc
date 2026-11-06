@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Win32 Vulkan semaphore handle utilities
+// summary: Implements importing and exporting Vulkan semaphores via Win32 handles for opaque WIN32 external semaphore handle types.
+// ---
+
 #include "gpu/vulkan/vulkan_util.h"
 
 #include <tuple>

@@ -1,0 +1,4 @@
+# Docerion header of badging_api.html.
+type: test
+title: Badging API test page
+summary: Test page that calls navigator.setAppBadge and navigator.clearAppBadge to exercise the Badging API.

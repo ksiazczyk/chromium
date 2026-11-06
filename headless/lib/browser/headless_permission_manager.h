@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HeadlessPermissionManager class declaration
+// summary: Declares HeadlessPermissionManager, a permission controller delegate that leaves all permissions in the ASK state for headless mode.
+// ---
+
 #ifndef HEADLESS_LIB_BROWSER_HEADLESS_PERMISSION_MANAGER_H_
 #define HEADLESS_LIB_BROWSER_HEADLESS_PERMISSION_MANAGER_H_
 

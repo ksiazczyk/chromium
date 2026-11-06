@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Headless browser context implementation
+// summary: Implements the headless browser context, wiring storage, request context, permission and client hints delegates, and web contents lifecycle.
+// ---
+
 #include "headless/lib/browser/headless_browser_context_impl.h"
 
 #include <memory>

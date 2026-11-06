@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Vulkan fence helper header
+// summary: Declares VulkanFenceHelper and FenceHandle for registering fences and enqueueing cleanup tasks tied to submitted GPU work.
+// ---
+
 #ifndef GPU_VULKAN_VULKAN_FENCE_HELPER_H_
 #define GPU_VULKAN_VULKAN_FENCE_HELPER_H_
 

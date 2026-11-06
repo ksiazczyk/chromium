@@ -4,6 +4,12 @@
 //
 // This file defines some helper functions for Vulkan API.
 
+// ---docerion
+// type: source
+// title: Vulkan helper function declarations
+// summary: Declares helper functions for the Vulkan API covering semaphore submission, external semaphore import and export, version formatting and queue hooks.
+// ---
+
 #ifndef GPU_VULKAN_VULKAN_UTIL_H_
 #define GPU_VULKAN_VULKAN_UTIL_H_
 

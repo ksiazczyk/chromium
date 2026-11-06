@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Android Vulkan build targets
+summary: GN build file defining the vulkan_android component and the vk_tests unit test target for Android Vulkan support.

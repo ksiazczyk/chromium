@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Headless DevTools manager delegate implementation
+// summary: Implements the DevTools manager delegate for headless mode, handling DevTools commands, creating new targets and managing browser contexts for clients.
+// ---
+
 #include "headless/lib/browser/headless_devtools_manager_delegate.h"
 
 #include "base/containers/span.h"

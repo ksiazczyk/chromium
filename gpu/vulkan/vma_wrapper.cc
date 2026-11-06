@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Vulkan Memory Allocator wrapper implementation
+// summary: Implements the gpu::vma wrapper around the Vulkan Memory Allocator library, creating allocators and managing image, buffer and device memory allocations.
+// ---
+
 
 #include "gpu/vulkan/vma_wrapper.h"
 

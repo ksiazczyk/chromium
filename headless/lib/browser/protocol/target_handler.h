@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TargetHandler header for the Target protocol domain
+// summary: Declares the TargetHandler class, which implements the Target DevTools domain backend for creating and closing headless browser targets.
+// ---
+
 #ifndef HEADLESS_LIB_BROWSER_PROTOCOL_TARGET_HANDLER_H_
 #define HEADLESS_LIB_BROWSER_PROTOCOL_TARGET_HANDLER_H_
 

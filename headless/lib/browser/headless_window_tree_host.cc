@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HeadlessWindowTreeHost implementation
+// summary: Implements the headless aura WindowTreeHost that manages the compositor, focus client and window bounds without dispatching native platform events.
+// ---
+
 #include "headless/lib/browser/headless_window_tree_host.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Headless utility DEPS include rules
+summary: Defines include rules allowing the headless utility process to depend on the print compositor component and content public utility APIs.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HeadlessBrowserContextOptions class declaration
+// summary: Declares the HeadlessBrowserContextOptions class, which resolves browser context options with fallback to default HeadlessBrowser options when unset.
+// ---
+
 #ifndef HEADLESS_LIB_BROWSER_HEADLESS_BROWSER_CONTEXT_OPTIONS_H_
 #define HEADLESS_LIB_BROWSER_HEADLESS_BROWSER_CONTEXT_OPTIONS_H_
 

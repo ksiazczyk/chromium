@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Vulkan helper utilities implementation
+// summary: Implements Vulkan helper functions for semaphore submit and wait operations, external semaphore creation and import, and thread-safe queue hooks.
+// ---
+
 #include "gpu/vulkan/vulkan_util.h"
 
 #include <algorithm>

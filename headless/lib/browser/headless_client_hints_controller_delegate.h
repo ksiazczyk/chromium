@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HeadlessClientHintsControllerDelegate class declaration
+// summary: Declares the headless client hints controller delegate, modeled on the mock implementation, managing persisted hints, additional hints, and viewport size.
+// ---
+
 #ifndef HEADLESS_LIB_BROWSER_HEADLESS_CLIENT_HINTS_CONTROLLER_DELEGATE_H_
 #define HEADLESS_LIB_BROWSER_HEADLESS_CLIENT_HINTS_CONTROLLER_DELEGATE_H_
 

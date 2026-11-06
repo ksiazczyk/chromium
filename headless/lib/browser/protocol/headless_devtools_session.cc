@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HeadlessDevToolsSession implementation
+// summary: Dispatches incoming CDP commands to the registered domain handlers and forwards responses and notifications to the trusted client.
+// ---
+
 #include "headless/lib/browser/protocol/headless_devtools_session.h"
 
 #include "base/command_line.h"

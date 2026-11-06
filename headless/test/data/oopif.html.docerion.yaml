@@ -1,0 +1,4 @@
+# Docerion header of oopif.html.
+type: test
+title: Out-of-process iframe test page
+summary: Page that script-loads oopif_frame.html from a b.com origin to exercise out-of-process iframe behavior.

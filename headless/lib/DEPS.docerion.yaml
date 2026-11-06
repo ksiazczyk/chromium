@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for headless lib dependencies
+summary: Defines per-file include exceptions in a DEPS file, allowing specific headless sources to depend on geolocation, bluetooth, origin trials, GPU, and preference components.

@@ -1,0 +1,4 @@
+# Docerion header of blue_page.html.
+type: test
+title: Blue page test page
+summary: Test page whose body background color is blue.

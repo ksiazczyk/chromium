@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Vulkan queue lock implementation
+// summary: Implements VulkanQueueLock, which locks the Vulkan queue through ANGLE EGL calls when available and otherwise falls back to a base lock.
+// ---
+
 #include "gpu/vulkan/vulkan_queue_lock.h"
 
 #include "ui/gl/gl_angle_util_vulkan.h"

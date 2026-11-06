@@ -1,0 +1,4 @@
+# Docerion header of blue_box.html.
+type: test
+title: Blue box test page
+summary: Test page that draws a 100x100 blue box at a fixed position on a 300x300 body.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Vulkan crash key definitions
+// summary: Defines crash reporter key strings that record the Vulkan API version and physical device vendor, driver, type and name for crash reports.
+// ---
+
 #include "gpu/vulkan/vulkan_crash_keys.h"
 
 namespace gpu {

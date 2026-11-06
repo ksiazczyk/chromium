@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Headless field trials declarations
+// summary: Declares helpers to check whether field trials are enabled via command line switch and to initialize metrics state and field trials for headless mode.
+// ---
+
 #ifndef HEADLESS_LIB_BROWSER_HEADLESS_FIELD_TRIALS_H_
 #define HEADLESS_LIB_BROWSER_HEADLESS_FIELD_TRIALS_H_
 

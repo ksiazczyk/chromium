@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: POSIX signal handling for browser shutdown
+// summary: Implements POSIX-specific main parts that catch SIGINT, SIGTERM, and SIGHUP through a signal pipe to shut the headless browser down gracefully.
+// ---
+
 #include "headless/lib/browser/headless_browser_main_parts.h"
 
 #include <errno.h>

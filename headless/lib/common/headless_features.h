@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Headless features declarations
+// summary: Declares the exported kVirtualTime feature and documents that virtual time suppresses audio decoding so video playback stays deterministic.
+// ---
+
 #ifndef HEADLESS_LIB_COMMON_HEADLESS_FEATURES_H_
 #define HEADLESS_LIB_COMMON_HEADLESS_FEATURES_H_
 

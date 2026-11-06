@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HeadlessWindowParentingClient class header
+// summary: Declares the HeadlessWindowParentingClient that supplies the root window as the default parent for aura windows in headless mode.
+// ---
+
 #ifndef HEADLESS_LIB_BROWSER_HEADLESS_WINDOW_PARENTING_CLIENT_H_
 #define HEADLESS_LIB_BROWSER_HEADLESS_WINDOW_PARENTING_CLIENT_H_
 

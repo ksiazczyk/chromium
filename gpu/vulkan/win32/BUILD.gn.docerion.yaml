@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the Vulkan Win32 component
+summary: GN build file defining the vulkan_win32 component, its sources, the VK_USE_PLATFORM_WIN32_KHR define, and dependencies on base and gpu/vulkan.

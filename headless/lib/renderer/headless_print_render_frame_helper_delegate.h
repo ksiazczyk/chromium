@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Headless print render frame helper delegate declaration
+// summary: Declares the delegate for PrintRenderFrameHelper that customizes printing behavior in headless mode.
+// ---
+
 #ifndef HEADLESS_LIB_RENDERER_HEADLESS_PRINT_RENDER_FRAME_HELPER_DELEGATE_H_
 #define HEADLESS_LIB_RENDERER_HEADLESS_PRINT_RENDER_FRAME_HELPER_DELEGATE_H_
 

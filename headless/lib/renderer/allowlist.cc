@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Allowlist implementation
+// summary: Implements the Allowlist class, parsing a comma-separated list with wildcard and '-'-prefixed entries to decide whether a given string is allowed.
+// ---
+
 #include "headless/lib/renderer/allowlist.h"
 
 #include "base/check.h"

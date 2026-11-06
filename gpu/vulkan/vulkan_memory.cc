@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VulkanMemory implementation
+// summary: Allocates and frees VkDeviceMemory, finds suitable memory type indices, and exports external memory handles on POSIX.
+// ---
+
 #include "gpu/vulkan/vulkan_memory.h"
 
 #include <vulkan/vulkan.h>

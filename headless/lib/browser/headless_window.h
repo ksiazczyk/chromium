@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HeadlessWindow class header
+// summary: Declares the HeadlessWindow class that manages headless window visibility, bounds and window state with a delegate for change notifications.
+// ---
+
 #ifndef HEADLESS_LIB_BROWSER_HEADLESS_WINDOW_H_
 #define HEADLESS_LIB_BROWSER_HEADLESS_WINDOW_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HeadlessDevToolsSession class declaration
+// summary: Declares the DevTools session that wires domain handlers and implements the FrontendChannel for sending protocol responses.
+// ---
+
 #ifndef HEADLESS_LIB_BROWSER_PROTOCOL_HEADLESS_DEVTOOLS_SESSION_H_
 #define HEADLESS_LIB_BROWSER_PROTOCOL_HEADLESS_DEVTOOLS_SESSION_H_
 

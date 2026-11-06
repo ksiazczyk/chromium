@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Headless print render frame helper delegate implementation
+// summary: Implements the headless print delegate, disabling print preview and controlling tagged PDF generation for headless PDF printing.
+// ---
+
 #include "headless/lib/renderer/headless_print_render_frame_helper_delegate.h"
 #include "base/command_line.h"
 #include "components/headless/command_handler/headless_command_switches.h"

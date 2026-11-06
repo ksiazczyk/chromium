@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build file for the vulkan_init component
+summary: Defines the vulkan_init component with vulkan_factory sources and platform-conditional dependencies for Android, Ozone, Win32, and Apple builds.

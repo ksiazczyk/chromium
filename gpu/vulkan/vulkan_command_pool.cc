@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Vulkan command pool implementation
+// summary: Implements VulkanCommandPool, which creates and destroys a VkCommandPool and produces primary and secondary command buffers for a device queue.
+// ---
+
 #include "gpu/vulkan/vulkan_command_pool.h"
 
 #include "base/logging.h"

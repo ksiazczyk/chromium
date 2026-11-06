@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: POSIX Vulkan semaphore handle utilities
+// summary: Implements importing and exporting Vulkan semaphores as POSIX file descriptors, including sync FD and opaque FD external handle support.
+// ---
+
 #include "gpu/vulkan/vulkan_util.h"
 
 #include "base/logging.h"

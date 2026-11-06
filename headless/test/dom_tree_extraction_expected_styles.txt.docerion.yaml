@@ -1,0 +1,4 @@
+# Docerion header of dom_tree_extraction_expected_styles.txt.
+type: test
+title: Expected DOM styles for extraction test
+summary: Expected computed style values used as reference output for the headless DOM tree extraction test.

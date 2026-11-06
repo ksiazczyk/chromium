@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HeadlessBrowserImpl class declaration
+// summary: Declares the HeadlessBrowserImpl class implementing the HeadlessBrowser API for browser contexts, web contents, DevTools, compositor access, and shutdown.
+// ---
+
 #ifndef HEADLESS_LIB_BROWSER_HEADLESS_BROWSER_IMPL_H_
 #define HEADLESS_LIB_BROWSER_HEADLESS_BROWSER_IMPL_H_
 

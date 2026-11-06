@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HeadlessClientHintsControllerDelegate implementation
+// summary: Implements the headless client hints delegate, persisting and allowing client hints while unconditionally disabling network-quality-dependent hints.
+// ---
+
 #include "headless/lib/browser/headless_client_hints_controller_delegate.h"
 
 #include "base/feature_list.h"

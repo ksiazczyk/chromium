@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HeadlessScreenOrientationDelegate implementation
+// summary: Implements the headless screen orientation delegate, translating orientation lock requests into display orientation values and updating screen size accordingly.
+// ---
+
 #include "headless/lib/browser/headless_screen_orientation_delegate.h"
 
 #include "base/check_deref.h"

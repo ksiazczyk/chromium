@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Vulkan device queue header
+// summary: Declares the VulkanDeviceQueue class that manages a Vulkan physical device, queue, enabled extensions and memory allocator for GPU work.
+// ---
+
 #ifndef GPU_VULKAN_VULKAN_DEVICE_QUEUE_H_
 #define GPU_VULKAN_VULKAN_DEVICE_QUEUE_H_
 

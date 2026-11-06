@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Vulkan tests dependency rules
+summary: Defines include rules granting the Vulkan tests directory access to ui/events/platform and ui/platform_window.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HeadlessWindow implementation for visibility, bounds and state
+// summary: Implements the HeadlessWindow class that manages headless window visibility, bounds and window state transitions, notifying a delegate of changes.
+// ---
+
 #include "headless/lib/browser/headless_window.h"
 
 #include "ui/display/screen.h"

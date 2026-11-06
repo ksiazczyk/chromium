@@ -1,0 +1,4 @@
+# Docerion header of blocked.html.
+type: test
+title: Blocked content test page
+summary: Test page that renders a Blocked content heading.

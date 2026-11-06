@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HeadlessCrashReporterClient class declaration
+// summary: Declares the HeadlessCrashReporterClient extending crash_reporter::CrashReporterClient with a configurable crash dumps directory and platform-specific dump location handling.
+// ---
+
 #ifndef HEADLESS_LIB_HEADLESS_CRASH_REPORTER_CLIENT_H_
 #define HEADLESS_LIB_HEADLESS_CRASH_REPORTER_CLIENT_H_
 

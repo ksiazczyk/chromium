@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HeadlessContentMainDelegate class declaration
+// summary: Declares the exported HeadlessContentMainDelegate with content main hooks, client factories, logging and crash reporter initialization, and the virtual time feature.
+// ---
+
 #ifndef HEADLESS_LIB_HEADLESS_CONTENT_MAIN_DELEGATE_H_
 #define HEADLESS_LIB_HEADLESS_CONTENT_MAIN_DELEGATE_H_
 

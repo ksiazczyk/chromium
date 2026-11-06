@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Vulkan surface class declarations
+// summary: Declares the VulkanSurface class that wraps a VkSurfaceKHR for presenting swap chain images with format selection, reshape and presentation callbacks.
+// ---
+
 #ifndef GPU_VULKAN_VULKAN_SURFACE_H_
 #define GPU_VULKAN_VULKAN_SURFACE_H_
 

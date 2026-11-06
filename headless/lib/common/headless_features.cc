@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Headless features implementation
+// summary: Defines the kVirtualTime base feature for the headless library, disabled by default.
+// ---
+
 #include "headless/lib/common/headless_features.h"
 
 namespace headless::features {

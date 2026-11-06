@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Vulkan Memory Allocator wrapper declarations
+// summary: Declares the gpu::vma functions wrapping Vulkan Memory Allocator operations such as allocator creation, buffer and image allocation, mapping and budget queries.
+// ---
+
 #ifndef GPU_VULKAN_VMA_WRAPPER_H_
 #define GPU_VULKAN_VMA_WRAPPER_H_
 

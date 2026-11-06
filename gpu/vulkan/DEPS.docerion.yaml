@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for gpu/vulkan dependencies
+summary: Specifies allowed header include rules for the gpu/vulkan directory and per-file exceptions for Skia headers.

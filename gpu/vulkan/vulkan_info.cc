@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VulkanInfo implementation
+// summary: Implements VulkanInfo and VulkanPhysicalDeviceInfo, including validation of enabled instance extensions against the available set.
+// ---
+
 #include "gpu/vulkan/vulkan_info.h"
 
 #include <string_view>

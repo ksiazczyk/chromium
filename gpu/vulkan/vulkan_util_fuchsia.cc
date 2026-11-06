@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia Vulkan semaphore utilities
+// summary: Implements Fuchsia-specific Vulkan semaphore import and export through Zircon event handles plus opaque external semaphore helper functions.
+// ---
+
 #include "gpu/vulkan/vulkan_util.h"
 
 #include "base/logging.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HeadlessHandler header for the HeadlessExperimental protocol domain
+// summary: Declares the HeadlessHandler class, which implements the HeadlessExperimental DevTools domain backend for begin frames and screenshots in the headless browser.
+// ---
+
 #ifndef HEADLESS_LIB_BROWSER_PROTOCOL_HEADLESS_HANDLER_H_
 #define HEADLESS_LIB_BROWSER_PROTOCOL_HEADLESS_HANDLER_H_
 

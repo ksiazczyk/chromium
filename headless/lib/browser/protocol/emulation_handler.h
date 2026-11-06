@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EmulationHandler class declaration
+// summary: Declares EmulationHandler, which implements the Emulation::Backend interface for screen info and screen management commands.
+// ---
+
 #ifndef HEADLESS_LIB_BROWSER_PROTOCOL_EMULATION_HANDLER_H_
 #define HEADLESS_LIB_BROWSER_PROTOCOL_EMULATION_HANDLER_H_
 

@@ -1,3 +1,9 @@
+---
+type: readme
+title: Headless Chromium
+summary: Explains how to run and use headless Chromium via the DevTools protocol or Node.js, with links to design docs and resources.
+---
+
 # Headless Chromium
 
 Headless Chromium allows running Chromium in a headless/server environment.

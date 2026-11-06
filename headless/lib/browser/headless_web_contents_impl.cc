@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HeadlessWebContentsImpl implementation
+// summary: Implements the headless web contents, covering window setup, navigation, visibility and bounds, begin frame control, screenshot capture, and renderer preferences.
+// ---
+
 #include "headless/lib/browser/headless_web_contents_impl.h"
 
 #include <memory>

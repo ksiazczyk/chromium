@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HeadlessBrowserContextOptions implementation
+// summary: Implements per-browser-context option accessors that fall back to browser-level defaults for settings like user agent, proxy, window size, and font hinting.
+// ---
+
 #include "headless/lib/browser/headless_browser_context_options.h"
 
 #include <string>

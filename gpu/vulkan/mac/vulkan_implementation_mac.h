@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VulkanImplementationMac class declaration
+// summary: Declares the VulkanImplementationMac class, which overrides the VulkanImplementation interface for macOS and owns a VulkanInstance member.
+// ---
+
 #ifndef GPU_VULKAN_MAC_VULKAN_IMPLEMENTATION_MAC_H_
 #define GPU_VULKAN_MAC_VULKAN_IMPLEMENTATION_MAC_H_
 

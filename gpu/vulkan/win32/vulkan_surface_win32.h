@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VulkanSurfaceWin32 class declaration
+// summary: Declares VulkanSurfaceWin32, a VulkanSurface that wraps a Win32 child window and its shared message-loop thread for Vulkan presentation.
+// ---
+
 #ifndef GPU_VULKAN_WIN32_VULKAN_SURFACE_WIN32_H_
 #define GPU_VULKAN_WIN32_VULKAN_SURFACE_WIN32_H_
 

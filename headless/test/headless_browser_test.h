@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HeadlessBrowserTest base class header
+// summary: Declares the HeadlessBrowserTest base class for tests that require a full headless browser instance.
+// ---
+
 #ifndef HEADLESS_TEST_HEADLESS_BROWSER_TEST_H_
 #define HEADLESS_TEST_HEADLESS_BROWSER_TEST_H_
 

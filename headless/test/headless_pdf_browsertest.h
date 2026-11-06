@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Headless PDF browser test base class header
+// summary: Declares HeadlessPDFBrowserTestBase with hooks for print-to-PDF parameters and PDF result handling.
+// ---
+
 #ifndef HEADLESS_TEST_HEADLESS_PDF_BROWSERTEST_H_
 #define HEADLESS_TEST_HEADLESS_PDF_BROWSERTEST_H_
 

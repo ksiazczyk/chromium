@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Headless compositor browser tests
+// summary: Browser tests running compositor and virtual-time rendering scripts with BeginFrameControl switches enabled.
+// ---
+
 #include "headless/test/headless_protocol_browsertest.h"
 
 #include "build/build_config.h"

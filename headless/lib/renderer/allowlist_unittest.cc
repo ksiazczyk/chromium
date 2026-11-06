@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Allowlist unit tests
+// summary: Unit tests covering empty, trivial, wildcard, negative-entry and ordering behavior of the Allowlist class.
+// ---
+
 #include "headless/lib/renderer/allowlist.h"
 
 #include "testing/gmock/include/gmock/gmock.h"

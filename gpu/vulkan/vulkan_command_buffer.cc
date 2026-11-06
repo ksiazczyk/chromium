@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Vulkan command buffer implementation
+// summary: Implements VulkanCommandBuffer, covering submission, waits, image layout transitions, buffer-image copies and pipeline stage and access flag helpers.
+// ---
+
 #include "gpu/vulkan/vulkan_command_buffer.h"
 
 #include "base/logging.h"

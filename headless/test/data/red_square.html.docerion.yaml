@@ -1,0 +1,4 @@
+# Docerion header of red_square.html.
+type: test
+title: Red square print test page
+summary: Test page rendering a red square sized to the page with zero margins, likely for print or screenshot checks.

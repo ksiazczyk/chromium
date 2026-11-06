@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Headless browser context browser tests
+// summary: Browser tests verifying headless browser context behavior, including cookie isolation between contexts.
+// ---
+
 #include <memory>
 
 #include "base/files/file_util.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Headless content renderer client declaration
+// summary: Declares HeadlessContentRendererClient with overrides for video decoder support, audio track suppression, frame creation and URL loader throttle providers.
+// ---
+
 #ifndef HEADLESS_LIB_RENDERER_HEADLESS_CONTENT_RENDERER_CLIENT_H_
 #define HEADLESS_LIB_RENDERER_HEADLESS_CONTENT_RENDERER_CLIENT_H_
 

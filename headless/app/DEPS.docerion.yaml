@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Headless app include rules
+summary: Defines the allowed include directories for code in the headless app directory.

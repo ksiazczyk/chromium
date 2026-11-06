@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skia Vulkan memory allocator implementation
+// summary: Implements Skia's VulkanMemoryAllocator interface on top of the Vulkan Memory Allocator for image and buffer memory.
+// ---
+
 #include "gpu/vulkan/skia_vk_memory_allocator_impl.h"
 
 #include <vk_mem_alloc.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HeadlessBrowserImpl implementation
+// summary: Implements the headless browser core, covering options, user agent metadata, browser context management, prefs, and platform-specific OS crypt setup.
+// ---
+
 #include "headless/lib/browser/headless_browser_impl.h"
 
 #include <string>

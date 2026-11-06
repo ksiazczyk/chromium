@@ -1,0 +1,4 @@
+# Docerion header of features.gni.
+type: config
+title: Vulkan feature build arguments
+summary: Declares GN build arguments that enable the experimental Vulkan backend and SwiftShader Vulkan support.

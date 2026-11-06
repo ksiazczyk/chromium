@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Native window helper for Vulkan tests
+// summary: Creates and tracks platform windows through Ozone so Vulkan tests can obtain accelerated widgets for surfaces.
+// ---
+
 #include "gpu/vulkan/tests/native_window.h"
 
 #include "base/containers/flat_map.h"

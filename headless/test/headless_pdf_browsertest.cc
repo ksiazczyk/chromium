@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Headless PDF browser test base implementation
+// summary: Implements HeadlessPDFBrowserTestBase, which navigates a page and prints it to PDF via the DevTools protocol.
+// ---
+
 #include "headless/test/headless_pdf_browsertest.h"
 
 #include <optional>

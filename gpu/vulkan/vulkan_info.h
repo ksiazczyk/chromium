@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VulkanInfo data structures header
+// summary: Declares VulkanPhysicalDeviceInfo and VulkanInfo structs holding API version, extensions, layers, and physical device properties.
+// ---
+
 #ifndef GPU_VULKAN_VULKAN_INFO_H_
 #define GPU_VULKAN_VULKAN_INFO_H_
 

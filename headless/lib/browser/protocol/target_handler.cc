@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TargetHandler implementation for target creation and closing
+// summary: Implements the Target DevTools domain handler, creating and closing headless targets, including hidden background targets with window state validation.
+// ---
+
 #include "headless/lib/browser/protocol/target_handler.h"
 
 #include <ranges>

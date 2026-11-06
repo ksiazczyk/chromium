@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for headless command line switch handling
+// summary: Declares HandleCommandLineSwitches, which applies command line switches to HeadlessBrowser options.
+// ---
+
 #ifndef HEADLESS_LIB_BROWSER_COMMAND_LINE_HANDLER_H_
 #define HEADLESS_LIB_BROWSER_COMMAND_LINE_HANDLER_H_
 

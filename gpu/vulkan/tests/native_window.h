@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Native window helper header
+// summary: Declares the CreateNativeWindow and DestroyNativeWindow helpers used by Vulkan tests to manage test windows.
+// ---
+
 #ifndef GPU_VULKAN_TESTS_NATIVE_WINDOW_H_
 #define GPU_VULKAN_TESTS_NATIVE_WINDOW_H_
 

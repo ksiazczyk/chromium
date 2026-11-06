@@ -1,0 +1,4 @@
+# Docerion header of headless_screen_mac.mm.
+type: source
+title: HeadlessScreenMac implementation
+summary: macOS Objective-C++ implementation that swizzles [NSScreen frame] to reflect the headless display configuration and resolves nearest displays via NSView hierarchies.

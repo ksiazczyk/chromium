@@ -3,6 +3,12 @@
  * found in the LICENSE file.
  */
 
+/*docerion
+type: test
+title: DOM tree test stylesheet
+summary: Stylesheet for DOM tree tests that loads the Ahem font and defines red and green color classes.
+*/
+
 @font-face {
   font-family: 'ahem';
   src: url(Ahem.ttf);

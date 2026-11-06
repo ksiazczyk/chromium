@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for headless
+summary: Points the headless directory metadata at the shared COMMON_METADATA file.

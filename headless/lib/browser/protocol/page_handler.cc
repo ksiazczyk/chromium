@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageHandler implementation with PrintToPDF support
+// summary: Implements the Page DevTools domain handler, wiring its dispatcher and handling PrintToPDF requests through the headless print manager when printing is enabled.
+// ---
+
 #include "headless/lib/browser/protocol/page_handler.h"
 
 #include <variant>
