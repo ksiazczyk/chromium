@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabStripServiceTracker interface
+// summary: Interface used by the aggregator to discover TabStripService instances and be notified when services are added or removed.
+// ---
+
 #ifndef COMPONENTS_BROWSER_APIS_TAB_STRIP_AGGREGATION_TAB_STRIP_SERVICE_TRACKER_H_
 #define COMPONENTS_BROWSER_APIS_TAB_STRIP_AGGREGATION_TAB_STRIP_SERVICE_TRACKER_H_
 

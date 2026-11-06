@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for event filters
+// summary: Verifies that the event filter functions return only the matching event types from a mixed list of tab strip events.
+// ---
+
 #include "components/browser_apis/tab_strip/utilities/event_filters.h"
 
 #include "base/strings/string_number_conversions.h"

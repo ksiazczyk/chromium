@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Tab strip observation build targets
+summary: GN build file defining the observation source set and its unit test target for the tab strip API.

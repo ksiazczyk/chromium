@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Split tab visual data Mojo traits header
+// summary: Declares Mojo enum and struct traits that map native split tab layout and visual data to the tab strip API Mojom types.
+// ---
+
 #ifndef COMPONENTS_BROWSER_APIS_TAB_STRIP_TYPES_SPLIT_TAB_VISUAL_DATA_MOJOM_TRAITS_H_
 #define COMPONENTS_BROWSER_APIS_TAB_STRIP_TYPES_SPLIT_TAB_VISUAL_DATA_MOJOM_TRAITS_H_
 

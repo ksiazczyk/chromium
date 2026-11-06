@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Injector wiring toy tab strip adapters
+// summary: Implements the Injector that wires toy adapters and the event bridge to a ToyTabStrip.
+// ---
+
 #include "components/browser_apis/tab_strip/testing/injector.h"
 
 namespace tabs_api::testing {

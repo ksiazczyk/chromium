@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync internals message handler implementation
+// summary: Implements the shared message handler that serves the sync-internals debug page, exchanging sync status, protocol events, invalidations and entity counts between the browser and the WebUI.
+// ---
+
 #include "components/browser_sync/sync_internals_message_handler.h"
 
 #include <utility>

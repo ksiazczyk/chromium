@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for browser_actuator transport
+summary: GN build file defining the transport source_set of wire-format-agnostic transport seams and the testonly unit_tests target for the delegate tests.

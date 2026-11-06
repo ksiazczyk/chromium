@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab drag session implementation
+// summary: Implements the platform-agnostic tab drag session, handling input capture, window moves, detach, and reattach.
+// ---
+
 #include "components/browser_apis/tab_drag/sessions/tab_drag_session.h"
 
 #include "base/check_deref.h"

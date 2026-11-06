@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Control transport handler implementation
+// summary: Processes control commands to close channels or sessions and acknowledge session starts, and defines the factory that creates the handler.
+// ---
+
 #include "components/browser_actuator/internal/control_transport_handler.h"
 
 #include <string_view>

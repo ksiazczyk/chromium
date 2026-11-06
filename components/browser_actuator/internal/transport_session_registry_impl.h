@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Transport session registry class declaration
+// summary: Declares TransportSessionRegistryImpl, which manages the lifecycle of active transport sessions on behalf of the transport channel.
+// ---
+
 #ifndef COMPONENTS_BROWSER_ACTUATOR_INTERNAL_TRANSPORT_SESSION_REGISTRY_IMPL_H_
 #define COMPONENTS_BROWSER_ACTUATOR_INTERNAL_TRANSPORT_SESSION_REGISTRY_IMPL_H_
 

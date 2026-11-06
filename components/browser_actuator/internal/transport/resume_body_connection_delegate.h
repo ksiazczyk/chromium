@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ResumeBodyConnectionDelegate header
+// summary: Declares a StreamConnectionDelegate decorator that supplies the per-attempt resume request body through a BodyProvider callback, replacing payload-based resume tracking.
+// ---
+
 #ifndef COMPONENTS_BROWSER_ACTUATOR_INTERNAL_TRANSPORT_RESUME_BODY_CONNECTION_DELEGATE_H_
 #define COMPONENTS_BROWSER_ACTUATOR_INTERNAL_TRANSPORT_RESUME_BODY_CONNECTION_DELEGATE_H_
 

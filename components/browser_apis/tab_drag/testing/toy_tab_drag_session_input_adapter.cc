@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ToyTabDragSessionInputAdapter implementation
+// summary: Implements a toy input capture adapter that tracks capture state and lets tests inject synthetic tab drag input events via SendToyEvent.
+// ---
+
 #include "components/browser_apis/tab_drag/testing/toy_tab_drag_session_input_adapter.h"
 
 #include <utility>

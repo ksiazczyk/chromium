@@ -1,0 +1,4 @@
+# Docerion header of tab_strip_api.mojom.
+type: reference
+title: TabStripService Mojo interface definition
+summary: Defines the TabStripService Mojo interface for reading, creating, closing, activating, selecting and moving tabs, plus the update stream contract.

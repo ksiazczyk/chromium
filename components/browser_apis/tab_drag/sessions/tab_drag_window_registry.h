@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab drag window registry class declaration
+// summary: Declares TabDragWindowRegistry, which registers and unregisters window adapters and resolves them by ID or native window handle.
+// ---
+
 #ifndef COMPONENTS_BROWSER_APIS_TAB_DRAG_SESSIONS_TAB_DRAG_WINDOW_REGISTRY_H_
 #define COMPONENTS_BROWSER_APIS_TAB_DRAG_SESSIONS_TAB_DRAG_WINDOW_REGISTRY_H_
 

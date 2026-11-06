@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group visual data Mojo traits header
+// summary: Declares Mojo struct traits for serializing native tab group visual data, covering title, color and collapsed state.
+// ---
+
 #ifndef COMPONENTS_BROWSER_APIS_TAB_STRIP_TYPES_TAB_GROUP_VISUAL_DATA_MOJOM_TRAITS_H_
 #define COMPONENTS_BROWSER_APIS_TAB_STRIP_TYPES_TAB_GROUP_VISUAL_DATA_MOJOM_TRAITS_H_
 

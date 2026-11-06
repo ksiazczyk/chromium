@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab strip service implementation
+// summary: Implements the tab strip service, using sessions to suppress re-entrant events and replay recorded mutations before broadcasting to observers.
+// ---
+
 #include "components/browser_apis/tab_strip/tab_strip_service_impl.h"
 
 #include <algorithm>

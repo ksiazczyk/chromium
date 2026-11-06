@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toy tab strip service tracker implementation
+// summary: Implements a test service tracker that stores tab strip services and runs callbacks when services are added or removed.
+// ---
+
 #include "components/browser_apis/tab_strip/testing/toy_tab_strip_service_tracker.h"
 
 #include <ranges>

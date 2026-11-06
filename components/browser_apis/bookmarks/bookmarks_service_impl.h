@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BookmarksServiceImpl class header
+// summary: Declares BookmarksServiceImpl, which implements BookmarksService and BookmarksViewObserver to serve bookmark queries and mutations over Mojo.
+// ---
+
 #ifndef COMPONENTS_BROWSER_APIS_BOOKMARKS_BOOKMARKS_SERVICE_IMPL_H_
 #define COMPONENTS_BROWSER_APIS_BOOKMARKS_BOOKMARKS_SERVICE_IMPL_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Browser APIs dependency allowlist
+summary: DEPS file listing the include rules that define which directories the browser_apis component may depend on, such as mojo, net, skia, ui/gfx and tabs-related components.

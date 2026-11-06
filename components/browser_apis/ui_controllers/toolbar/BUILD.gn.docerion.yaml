@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn
+summary: Defines GN targets for generating Mojo bindings of the toolbar mojom files plus the IconHandle types source set and its unit tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser sync switches and feature flags
+// summary: Declares command-line switches and feature parameters for the browser sync component, covering the local sync backend and migration of syncing users to the signed-in state.
+// ---
+
 #ifndef COMPONENTS_BROWSER_SYNC_BROWSER_SYNC_SWITCHES_H_
 #define COMPONENTS_BROWSER_SYNC_BROWSER_SYNC_SWITCHES_H_
 

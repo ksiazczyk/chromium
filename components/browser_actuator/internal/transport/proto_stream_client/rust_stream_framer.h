@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RustStreamFramer interface
+// summary: Declares RustStreamFramer, a pimpl-wrapped StreamFramer backed by the pure-Rust stream_body_parser crate via the cxx bridge.
+// ---
+
 #ifndef COMPONENTS_BROWSER_ACTUATOR_INTERNAL_TRANSPORT_PROTO_STREAM_CLIENT_RUST_STREAM_FRAMER_H_
 #define COMPONENTS_BROWSER_ACTUATOR_INTERNAL_TRANSPORT_PROTO_STREAM_CLIENT_RUST_STREAM_FRAMER_H_
 

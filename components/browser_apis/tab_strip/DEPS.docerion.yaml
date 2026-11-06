@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for tab strip component dependencies
+summary: Lists the include rules allowing the tab strip component to depend on split tabs, tab groups, tabs, mojo, gfx, color and url.

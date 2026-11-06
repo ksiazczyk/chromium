@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Injector providing toy tab strip adapters
+// summary: Declares an Injector that supplies toy browser, model, translation and event bridge adapters for tab strip API testing.
+// ---
+
 #ifndef COMPONENTS_BROWSER_APIS_TAB_STRIP_TESTING_INJECTOR_H_
 #define COMPONENTS_BROWSER_APIS_TAB_STRIP_TESTING_INJECTOR_H_
 

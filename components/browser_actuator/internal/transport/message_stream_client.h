@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MessageStreamClient interface
+// summary: Wire-format-agnostic interface for a long-lived server-to-client message stream, with observer callbacks and connect, disconnect, and connection-state lifecycle control.
+// ---
+
 #ifndef COMPONENTS_BROWSER_ACTUATOR_INTERNAL_TRANSPORT_MESSAGE_STREAM_CLIENT_H_
 #define COMPONENTS_BROWSER_ACTUATOR_INTERNAL_TRANSPORT_MESSAGE_STREAM_CLIENT_H_
 

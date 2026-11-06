@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sync to sign-in migration unit tests
+// summary: Unit tests for MaybeMigrateSyncingUserToSignedIn, covering synchronous and asynchronous migration of syncing users to signed-in state under various feature flag settings.
+// ---
+
 #include "components/browser_sync/sync_to_signin_migration.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the ActiveDevicesProviderImpl class
+// summary: Declares ActiveDevicesProviderImpl, which provides active device information for sync invalidation optimization via the DeviceInfoTracker.
+// ---
+
 #ifndef COMPONENTS_BROWSER_SYNC_ACTIVE_DEVICES_PROVIDER_IMPL_H_
 #define COMPONENTS_BROWSER_SYNC_ACTIVE_DEVICES_PROVIDER_IMPL_H_
 

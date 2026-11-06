@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ToyTabDragSessionListener implementation
+// summary: Implements a toy session listener that records session start, target change, move, detach, drop and cancelled events for test verification.
+// ---
+
 #include "components/browser_apis/tab_drag/testing/toy_tab_drag_session_listener.h"
 
 #include "components/browser_apis/tab_drag/tab_drag_types.h"

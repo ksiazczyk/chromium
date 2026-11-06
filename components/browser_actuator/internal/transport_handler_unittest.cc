@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Transport handler base class unit tests
+// summary: Unit tests verifying that TransportHandler delegates upstream message sending to its session and reports a disconnection error when no session is attached.
+// ---
+
 #include "components/browser_actuator/public/transport_handler.h"
 
 #include <string_view>

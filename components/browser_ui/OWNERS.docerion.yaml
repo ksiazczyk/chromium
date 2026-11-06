@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Browser UI code owners
+summary: OWNERS file listing the code owners of the browser_ui component and delegating ownership of XML and GN layout files to the Android layout owners.

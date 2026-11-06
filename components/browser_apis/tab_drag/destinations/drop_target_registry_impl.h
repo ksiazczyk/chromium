@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DropTargetRegistryImpl class declaration
+// summary: Declares the concrete DropTargetRegistry that stores drop targets by ID, generates IDs, and exposes a testing-only target count.
+// ---
+
 #ifndef COMPONENTS_BROWSER_APIS_TAB_DRAG_DESTINATIONS_DROP_TARGET_REGISTRY_IMPL_H_
 #define COMPONENTS_BROWSER_APIS_TAB_DRAG_DESTINATIONS_DROP_TARGET_REGISTRY_IMPL_H_
 

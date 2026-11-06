@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DropTargetRegistryImpl implementation
+// summary: Implements the drop target registry with Mojo-backed registration lifetime, hit testing against cached bounds, and bounds updates.
+// ---
+
 #include "components/browser_apis/tab_drag/destinations/drop_target_registry_impl.h"
 
 #include <memory>

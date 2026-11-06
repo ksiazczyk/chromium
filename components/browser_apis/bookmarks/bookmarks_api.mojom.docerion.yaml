@@ -1,0 +1,4 @@
+# Docerion header of bookmarks_api.mojom.
+type: reference
+title: Bookmarks Mojo API definition
+summary: Specifies the bookmarks service Mojo interface, node structs, snapshot and event types for API clients.

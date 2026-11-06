@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Common sync controller builder implementation
+// summary: Implements CommonControllerBuilder, which instantiates DataTypeController instances for most sync data types such as autofill, history, passwords, and shared tab groups.
+// ---
+
 #include "components/browser_sync/common_controller_builder.h"
 
 #include <memory>

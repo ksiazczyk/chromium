@@ -1,0 +1,4 @@
+# Docerion header of tab_strip_api_data_model.mojom.
+type: reference
+title: Tab strip data model Mojo structs
+summary: Defines the Mojo structs for tab strip nodes such as Tab, Window, TabGroup, SplitTab and the Container tree used for snapshots.

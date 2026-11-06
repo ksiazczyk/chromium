@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabStripApiBatchedObserver interface
+// summary: Declares a checked observer interface that receives batched tab strip events for direct observation.
+// ---
+
 #ifndef COMPONENTS_BROWSER_APIS_TAB_STRIP_OBSERVATION_TAB_STRIP_API_BATCHED_OBSERVER_H_
 #define COMPONENTS_BROWSER_APIS_TAB_STRIP_OBSERVATION_TAB_STRIP_API_BATCHED_OBSERVER_H_
 

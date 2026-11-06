@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser actuator service implementation
+// summary: Implements the browser actuator service, wiring a proto stream client with OAuth and network traffic annotations to create the transport channel.
+// ---
+
 #include "components/browser_actuator/internal/browser_actuator_service_impl.h"
 
 #include <memory>

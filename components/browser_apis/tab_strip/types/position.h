@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Position type for tab strip API
+// summary: Declares tabs_api::Position, an ephemeral index and path pair used to determine a node's position within the TabstripModel.
+// ---
+
 #ifndef COMPONENTS_BROWSER_APIS_TAB_STRIP_TYPES_POSITION_H_
 #define COMPONENTS_BROWSER_APIS_TAB_STRIP_TYPES_POSITION_H_
 

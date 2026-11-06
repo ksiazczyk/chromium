@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DropTargetRegistryImpl unit tests
+// summary: Unit tests covering drop target registration, unregistering via receiver destruction, and hit testing by point and window.
+// ---
+
 #include "components/browser_apis/tab_drag/destinations/drop_target_registry_impl.h"
 
 #include <memory>

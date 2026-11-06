@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TransportSessionRegistryImpl unit tests
+// summary: Unit tests for the transport session registry covering session creation, lookup, destruction, weak pointers, and concurrent session limits.
+// ---
+
 #include "components/browser_actuator/internal/transport_session_registry_impl.h"
 
 #include <memory>

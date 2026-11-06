@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for proto_stream_client
+summary: Grants this directory include access to mojo public cpp system, net and url headers.

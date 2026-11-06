@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab strip service Mojo traits unit tests
+// summary: Unit tests verifying serialize and deserialize round trips for node IDs, paths, positions, tab group and split tab visual data, and images.
+// ---
+
 #include "components/browser_apis/tab_strip/tab_strip_api.mojom.h"
 #include "components/browser_apis/tab_strip/types/image_mojom_traits.h"
 #include "components/browser_apis/tab_strip/types/node_id_mojom_traits.h"

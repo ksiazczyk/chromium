@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the tab drag component
+summary: Lists component owners and requires IPC security owner approval for changes to Mojom files.

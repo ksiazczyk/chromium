@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Node ID class for the tab tree
+// summary: Defines the tabs_api NodeId type that identifies windows, content tabs and collections in the tab tree, to be obtained from the tab service.
+// ---
+
 #ifndef COMPONENTS_BROWSER_APIS_TAB_STRIP_TYPES_NODE_ID_H_
 #define COMPONENTS_BROWSER_APIS_TAB_STRIP_TYPES_NODE_ID_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for tab strip utilities
+summary: GN build file defining the utilities source set and its unit test target, listing sources and dependencies for the tab strip API utilities.

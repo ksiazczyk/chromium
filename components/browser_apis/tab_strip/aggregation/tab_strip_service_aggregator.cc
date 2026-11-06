@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabStripServiceAggregator implementation
+// summary: Implements the aggregator that uses a tracker to find tab strip services, subscribes to them, and forwards their tab events to a callback.
+// ---
+
 #include "components/browser_apis/tab_strip/aggregation/tab_strip_service_aggregator.h"
 
 #include "components/browser_apis/tab_strip/tab_strip_service.h"

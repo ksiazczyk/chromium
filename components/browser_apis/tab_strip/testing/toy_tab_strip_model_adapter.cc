@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toy tab strip model adapter implementation
+// summary: Implements the TabStripModelAdapter interface over the toy tab strip, covering tab queries, activation, moves, topology, selection and group visuals.
+// ---
+
 #include "components/browser_apis/tab_strip/testing/toy_tab_strip_model_adapter.h"
 
 #include <utility>

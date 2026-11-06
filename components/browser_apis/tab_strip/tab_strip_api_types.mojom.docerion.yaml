@@ -1,0 +1,4 @@
+# Docerion header of tab_strip_api_types.mojom.
+type: reference
+title: Tab strip API core types
+summary: Defines the NodeId, Path, Position and TabFieldMask types that identify and locate nodes in the tab strip tree.

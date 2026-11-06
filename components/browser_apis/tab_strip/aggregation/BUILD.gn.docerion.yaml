@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for tab strip aggregation
+summary: GN build file defining the aggregation source set and its unit test target together with their component dependencies.

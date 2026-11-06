@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Toy tab drag window adapter test fake
+// summary: Header for a toy TabDragWindowAdapter fake that simulates window detach, move loop, and tab migration behavior with controllable results for tab drag tests.
+// ---
+
 #ifndef COMPONENTS_BROWSER_APIS_TAB_DRAG_TESTING_TOY_TAB_DRAG_WINDOW_ADAPTER_H_
 #define COMPONENTS_BROWSER_APIS_TAB_DRAG_TESTING_TOY_TAB_DRAG_WINDOW_ADAPTER_H_
 

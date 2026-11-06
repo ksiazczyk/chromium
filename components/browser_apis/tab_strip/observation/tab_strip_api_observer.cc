@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabStripApiObserver event dispatch implementation
+// summary: Implements OnTabEvents to dispatch batched tab events to event-specific observer methods.
+// ---
+
 #include "components/browser_apis/tab_strip/observation/tab_strip_api_observer.h"
 
 namespace tabs_api::observation {

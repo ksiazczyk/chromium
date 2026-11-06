@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Path Mojo traits implementation
+// summary: Implements deserialization of Mojo Path data into the native tabs_api::Path type.
+// ---
+
 #include "components/browser_apis/tab_strip/types/path_mojom_traits.h"
 
 bool mojo::StructTraits<MojoPathDataView, NativePath>::Read(

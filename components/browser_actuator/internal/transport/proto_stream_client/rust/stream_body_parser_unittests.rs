@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the StreamBody parser
+// summary: gtest unit tests covering message framing, status delivery and last-wins semantics, keep-alive counting, and malformed or over-limit input handling of the StreamBody parser.
+// ---
+
 chromium::import! {
     "//components/browser_actuator/internal/transport/proto_stream_client:stream_body_parser";
 }

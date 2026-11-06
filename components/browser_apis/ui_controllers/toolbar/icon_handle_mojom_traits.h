@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IconHandle Mojo traits declaration
+// summary: Declares StructTraits mapping toolbar_ui_api::IconHandle to its Mojo wire representation.
+// ---
+
 #ifndef COMPONENTS_BROWSER_APIS_UI_CONTROLLERS_TOOLBAR_ICON_HANDLE_MOJOM_TRAITS_H_
 #define COMPONENTS_BROWSER_APIS_UI_CONTROLLERS_TOOLBAR_ICON_HANDLE_MOJOM_TRAITS_H_
 

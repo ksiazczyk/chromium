@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Browser actuator internal build targets
+summary: Defines GN source sets for the browser actuator internals, including metrics utils, features, session stream recorder, the core implementation, and unit tests.

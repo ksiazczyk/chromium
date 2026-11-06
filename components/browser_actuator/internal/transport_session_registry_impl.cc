@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Transport session registry implementation
+// summary: Implements the session registry that creates, looks up and destroys transport sessions, enforcing a configurable concurrent session limit with histogram metrics.
+// ---
+
 #include "components/browser_actuator/internal/transport_session_registry_impl.h"
 
 #include <utility>

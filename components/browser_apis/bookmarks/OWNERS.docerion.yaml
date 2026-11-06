@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Ownership rules for the bookmarks browser API directory
+summary: Points to the parent OWNERS file and requires security owners for Mojom files.

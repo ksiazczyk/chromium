@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ProtoStreamClient unit tests
+// summary: Tests connection lifecycle, reconnect, deferred teardown, HTTP rejection and observer notification ordering using mock delegates and framers.
+// ---
+
 #include "components/browser_actuator/internal/transport/proto_stream_client/proto_stream_client.h"
 
 #include <memory>

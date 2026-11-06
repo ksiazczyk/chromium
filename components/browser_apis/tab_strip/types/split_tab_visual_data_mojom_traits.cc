@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Split tab visual data Mojo traits
+// summary: Implements Mojo enum and struct traits converting split tab layout and split ratio data between Mojom and native types.
+// ---
+
 #include "components/browser_apis/tab_strip/types/split_tab_visual_data_mojom_traits.h"
 
 MojoSplitLayout mojo::EnumTraits<MojoSplitLayout, NativeSplitLayout>::ToMojom(

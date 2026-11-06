@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StreamFramer interface for framing byte streams into messages
+// summary: Declares the StreamFramer interface that splits untrusted connection byte chunks into completed message payloads and a terminal status, plus a factory so each reconnect gets a fresh framer.
+// ---
+
 #ifndef COMPONENTS_BROWSER_ACTUATOR_INTERNAL_TRANSPORT_STREAM_FRAMER_H_
 #define COMPONENTS_BROWSER_ACTUATOR_INTERNAL_TRANSPORT_STREAM_FRAMER_H_
 

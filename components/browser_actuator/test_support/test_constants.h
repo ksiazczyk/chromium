@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test-only payload and factory constants
+// summary: Defines standard test-only PayloadType and FactoryId constants for browser actuator tests.
+// ---
+
 #ifndef COMPONENTS_BROWSER_ACTUATOR_TEST_SUPPORT_TEST_CONSTANTS_H_
 #define COMPONENTS_BROWSER_ACTUATOR_TEST_SUPPORT_TEST_CONSTANTS_H_
 

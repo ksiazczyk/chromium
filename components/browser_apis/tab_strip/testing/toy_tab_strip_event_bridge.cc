@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toy tab strip event bridge implementation
+// summary: Implements the event bridge that clones tab strip events and forwards them to registered event observers for the toy tab strip test harness.
+// ---
+
 #include "components/browser_apis/tab_strip/testing/toy_tab_strip_event_bridge.h"
 
 namespace tabs_api::testing {

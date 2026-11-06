@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sync internals message handler unit tests
+// summary: Unit tests for SyncInternalsMessageHandler using mock delegates, sync service, invalidations service, and fake user event service to verify WebUI message handling.
+// ---
+
 #include "components/browser_sync/sync_internals_message_handler.h"
 
 #include <functional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BookmarksViewObserver interface header
+// summary: Declares the BookmarksViewObserver interface with callbacks for bookmark events and for the observed view being deleted.
+// ---
+
 #ifndef COMPONENTS_BROWSER_APIS_BOOKMARKS_BOOKMARKS_VIEW_OBSERVER_H_
 #define COMPONENTS_BROWSER_APIS_BOOKMARKS_BOOKMARKS_VIEW_OBSERVER_H_
 

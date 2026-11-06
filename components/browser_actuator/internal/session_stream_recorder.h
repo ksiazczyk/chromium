@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session stream recorder
+// summary: Declares the per-session message recorder, its observer interface, and the metadata and snapshot structs used for diagnostic dumps.
+// ---
+
 #ifndef COMPONENTS_BROWSER_ACTUATOR_INTERNAL_SESSION_STREAM_RECORDER_H_
 #define COMPONENTS_BROWSER_ACTUATOR_INTERNAL_SESSION_STREAM_RECORDER_H_
 

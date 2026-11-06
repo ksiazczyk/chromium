@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake protobuf stream server implementation
+// summary: Implements the fake streaming server, encoding StreamBody messages, keep-alives, and rpc.Status trailers onto a Mojo data pipe for transport tests.
+// ---
+
 #include "components/browser_actuator/internal/transport/test_support/fake_proto_stream_server.h"
 
 #include <cstdint>

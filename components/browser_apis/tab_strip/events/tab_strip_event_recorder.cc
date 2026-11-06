@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab strip event recorder implementation
+// summary: Implements the event recorder's passthrough and recording modes, buffering incoming events and notifying clients via callback.
+// ---
+
 #include "components/browser_apis/tab_strip/events/tab_strip_event_recorder.h"
 
 namespace tabs_api::events {

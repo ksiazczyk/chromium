@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RustStreamFramer implementation
+// summary: Bridges the Rust StreamBody parser to the StreamFramer interface, converting feed results into messages, status and failure flags.
+// ---
+
 #include "components/browser_actuator/internal/transport/proto_stream_client/rust_stream_framer.h"
 
 #include <string>

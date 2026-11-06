@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Transport channel unit tests
+// summary: Unit tests exercising channel connection state, downstream message routing, and session registry behavior using fake stream clients and mock handlers.
+// ---
+
 #include "components/browser_actuator/internal/transport_channel_impl.h"
 
 #include <cstddef>

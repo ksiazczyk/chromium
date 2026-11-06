@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ToyTabDragSessionListener header
+// summary: Declares ToyTabDragSessionListener, a test double of TabDragSessionListener that records tab drag session events for assertions.
+// ---
+
 #ifndef COMPONENTS_BROWSER_APIS_TAB_DRAG_TESTING_TOY_TAB_DRAG_SESSION_LISTENER_H_
 #define COMPONENTS_BROWSER_APIS_TAB_DRAG_TESTING_TOY_TAB_DRAG_SESSION_LISTENER_H_
 

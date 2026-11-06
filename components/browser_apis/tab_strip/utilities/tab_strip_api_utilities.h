@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Helper declarations for TabStripService API clients
+// summary: Declares update mask field names and helper functions for extracting node IDs, resolving tab group IDs, and merging tab group visual data.
+// ---
+
 #ifndef COMPONENTS_BROWSER_APIS_TAB_STRIP_UTILITIES_TAB_STRIP_API_UTILITIES_H_
 #define COMPONENTS_BROWSER_APIS_TAB_STRIP_UTILITIES_TAB_STRIP_API_UTILITIES_H_
 

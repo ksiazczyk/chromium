@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync engine factory header
+// summary: Declares SyncEngineFactoryImpl, the browser_sync implementation of SyncEngineFactory that creates sync engines and handles transport data cleanup per account.
+// ---
+
 #ifndef COMPONENTS_BROWSER_SYNC_SYNC_ENGINE_FACTORY_IMPL_H_
 #define COMPONENTS_BROWSER_SYNC_SYNC_ENGINE_FACTORY_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo traits for image conversion to data URLs
+// summary: Implements StructTraits that convert native Skia images to PNG data URLs and decode incoming data URLs back into gfx::ImageSkia for the tab strip API.
+// ---
+
 #include "components/browser_apis/tab_strip/types/image_mojom_traits.h"
 
 #include "base/base64.h"

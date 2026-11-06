@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Transport channel class declaration
+// summary: Declares the concrete transport channel that owns the downstream stream client and session registry and demuxes messages between them.
+// ---
+
 #ifndef COMPONENTS_BROWSER_ACTUATOR_INTERNAL_TRANSPORT_CHANNEL_IMPL_H_
 #define COMPONENTS_BROWSER_ACTUATOR_INTERNAL_TRANSPORT_CHANNEL_IMPL_H_
 

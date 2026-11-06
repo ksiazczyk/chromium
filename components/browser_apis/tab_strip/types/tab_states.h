@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabStates struct header
+// summary: Defines a TabStates struct holding is_active and is_selected flags for the tab strip API types namespace.
+// ---
+
 #ifndef COMPONENTS_BROWSER_APIS_TAB_STRIP_TYPES_TAB_STATES_H_
 #define COMPONENTS_BROWSER_APIS_TAB_STRIP_TYPES_TAB_STATES_H_
 

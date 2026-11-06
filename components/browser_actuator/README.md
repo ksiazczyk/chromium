@@ -1,3 +1,11 @@
+---
+type: readme
+title: Browser Actuator
+summary: Explains the layered browser actuator component, its public, internal, and test support organization, and how to build and run its unit tests.
+relations:
+  - references /tools/autotest.py
+---
+
 # Browser Actuator
 
 `//components/browser_actuator` is a layered Chromium component that provides

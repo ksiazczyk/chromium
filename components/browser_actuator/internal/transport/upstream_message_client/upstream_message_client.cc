@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UpstreamMessageClient implementation
+// summary: Implements sending upstream actuator messages by packing protobuf payloads into request envelopes and posting them with OAuth-authenticated EndpointFetcher requests.
+// ---
+
 #include "components/browser_actuator/internal/transport/upstream_message_client/upstream_message_client.h"
 
 #include <string>

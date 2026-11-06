@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Tab strip adapters build definition
+summary: GN build file that defines the adapters source_set listing the adapter headers and its public dependencies on the tab strip mojom, types, and tabs targets.

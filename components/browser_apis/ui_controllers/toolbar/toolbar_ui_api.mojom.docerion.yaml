@@ -1,0 +1,4 @@
+# Docerion header of toolbar_ui_api.mojom.
+type: source
+title: Toolbar UI API Mojo interfaces
+summary: Defines the ToolbarUIService and ToolbarUIObserver Mojo interfaces that let the toolbar WebUI communicate with the browser, covering state updates, focus requests, context menus, and overflow menu items.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WaitFor condition helper implementation
+// summary: Implements WaitFor, which runs the run loop until a condition is met, re-evaluating after each task with a task budget so tests fail instead of hanging under mock time.
+// ---
+
 #include "components/browser_actuator/internal/transport/test_support/wait_for.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock message stream client implementation
+// summary: Provides constructor and destructor definitions for the mock message stream client and observer test doubles.
+// ---
+
 #include "components/browser_actuator/internal/transport/test_support/mock_message_stream_client.h"
 
 namespace browser_actuator {

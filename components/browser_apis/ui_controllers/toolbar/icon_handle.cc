@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IconHandle implementation
+// summary: Implements the IconHandle class, including constructors, assignment, and handle ID retrieval with null handling.
+// ---
+
 #include "components/browser_apis/ui_controllers/toolbar/icon_handle.h"
 
 #include <cstdint>

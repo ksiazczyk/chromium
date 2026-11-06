@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ToyDropTarget header
+// summary: Declares ToyDropTarget, a test double implementing mojom::DropTarget that stores received drag events so tests can inspect and clear them.
+// ---
+
 #ifndef COMPONENTS_BROWSER_APIS_TAB_DRAG_TESTING_TOY_DROP_TARGET_H_
 #define COMPONENTS_BROWSER_APIS_TAB_DRAG_TESTING_TOY_DROP_TARGET_H_
 

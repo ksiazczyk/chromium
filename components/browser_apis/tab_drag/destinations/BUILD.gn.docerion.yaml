@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for tab drag destinations
+summary: Defines GN source sets for the drop target headers, implementation, and unit tests together with their build dependencies.

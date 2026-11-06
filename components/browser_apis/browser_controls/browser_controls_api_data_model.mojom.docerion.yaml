@@ -1,0 +1,4 @@
+# Docerion header of browser_controls_api_data_model.mojom.
+type: source
+title: EventDispositionFlag Mojo data model
+summary: Defines the EventDispositionFlag enum of event flags such as mouse buttons and modifier keys used by the browser controls API.

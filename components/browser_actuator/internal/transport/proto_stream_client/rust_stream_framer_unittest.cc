@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RustStreamFramer unit tests
+// summary: Tests FFI conversion of StreamBody framing into FeedResult, including status and failure cases, and fuzzes the parser through the production framer surface.
+// ---
+
 #include "components/browser_actuator/internal/transport/proto_stream_client/rust_stream_framer.h"
 
 #include <cstdint>

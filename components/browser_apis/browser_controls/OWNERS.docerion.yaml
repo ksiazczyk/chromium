@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for browser_controls
+summary: Lists code owners for the browser_controls directory and sets per-file owner rules requiring security review for mojom files.

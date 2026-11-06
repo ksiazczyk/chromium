@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Transport channel implementation
+// summary: Implements the shared transport channel that routes downstream stream messages to sessions and dispatches upstream sends via the message client.
+// ---
+
 #include "components/browser_actuator/internal/transport_channel_impl.h"
 
 #include <cstdint>

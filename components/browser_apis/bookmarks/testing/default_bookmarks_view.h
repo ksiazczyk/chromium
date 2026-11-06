@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DefaultBookmarksView class declaration
+// summary: Declares DefaultBookmarksView, a BookmarksView and BookmarkModelObserver implementation that forwards operations directly to BookmarkModel, intended for tests without a merged view.
+// ---
+
 #ifndef COMPONENTS_BROWSER_APIS_BOOKMARKS_TESTING_DEFAULT_BOOKMARKS_VIEW_H_
 #define COMPONENTS_BROWSER_APIS_BOOKMARKS_TESTING_DEFAULT_BOOKMARKS_VIEW_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ToyDropTargetRegistry implementation
+// summary: Implements a toy DropTargetRegistry that fakes registration and hit testing against configurable toy target and source windows.
+// ---
+
 #include "components/browser_apis/tab_drag/testing/toy_drop_target_registry.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OAuth stream connection delegate implementation
+// summary: Implements the delegate that mints a primary-account OAuth access token, attaches it as a bearer header, and retries once with a fresh token on 401.
+// ---
+
 #include "components/browser_actuator/internal/transport/oauth/oauth_stream_connection_delegate.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ToyTabDragWindowAdapter implementation
+// summary: Implements ToyTabDragWindowAdapter, a fake window adapter with fixed bounds that registers and unregisters itself in a TabDragWindowRegistry.
+// ---
+
 #include "components/browser_apis/tab_drag/testing/toy_tab_drag_window_adapter.h"
 
 #include "components/browser_apis/tab_drag/sessions/tab_drag_window_registry.h"

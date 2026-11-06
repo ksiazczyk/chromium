@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TypeScript converter between NodeId mojom and string tokens
+// summary: Implements a TypeScript type mapper that encodes and decodes NodeId values between mojom structs and colon-separated string tokens.
+// ---
+
 import type {NodeIdDataView, NodeIdTypeMapper} from './tab_strip_api_types.mojom-converters.js';
 import type {NodeId_Type} from './tab_strip_api_types.mojom-webui.js';
 

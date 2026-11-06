@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Transport message observer interface
+// summary: Defines an observer interface letting diagnostic consumers watch whole upstream transport envelopes, explicitly not part of message delivery.
+// ---
+
 #ifndef COMPONENTS_BROWSER_ACTUATOR_INTERNAL_TRANSPORT_MESSAGE_OBSERVER_H_
 #define COMPONENTS_BROWSER_ACTUATOR_INTERNAL_TRANSPORT_MESSAGE_OBSERVER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabStripModelAdapter interface for tab strip model operations
+// summary: Abstract adapter that proxies a subset of tab strip model operations, such as moving, closing, and selecting tabs and updating groups, so fakes can be used in tests.
+// ---
+
 #ifndef COMPONENTS_BROWSER_APIS_TAB_STRIP_ADAPTERS_TAB_STRIP_MODEL_ADAPTER_H_
 #define COMPONENTS_BROWSER_APIS_TAB_STRIP_ADAPTERS_TAB_STRIP_MODEL_ADAPTER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser actuator integration tests
+// summary: Integration test that exercises the browser actuator service, transport sessions, handlers, and downstream message flows end to end.
+// ---
+
 #include <memory>
 #include <string>
 #include <string_view>

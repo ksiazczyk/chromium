@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Common sync controller builder header
+// summary: Declares CommonControllerBuilder, a class that assembles sync DataTypeController instances for data types supported across major platforms after dependencies are injected via setters.
+// ---
+
 #ifndef COMPONENTS_BROWSER_SYNC_COMMON_CONTROLLER_BUILDER_H_
 #define COMPONENTS_BROWSER_SYNC_COMMON_CONTROLLER_BUILDER_H_
 

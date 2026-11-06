@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bookmark UUID mapper unit tests
+// summary: Tests API UUID derivation, explicit overrides and uniqueness for nodes sharing native UUIDs across storages.
+// ---
+
 #include "components/browser_apis/bookmarks/bookmark_uuid_mapper.h"
 
 #include <string>

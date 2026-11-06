@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ToyDropTargetRegistry header
+// summary: Declares ToyDropTargetRegistry, a test fake of DropTargetRegistry with fixed target and source IDs and settable toy window adapters.
+// ---
+
 #ifndef COMPONENTS_BROWSER_APIS_TAB_DRAG_TESTING_TOY_DROP_TARGET_REGISTRY_H_
 #define COMPONENTS_BROWSER_APIS_TAB_DRAG_TESTING_TOY_DROP_TARGET_REGISTRY_H_
 

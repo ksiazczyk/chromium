@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock stream connection delegate implementation
+// summary: Provides constructor and destructor definitions for the mock stream connection delegate.
+// ---
+
 #include "components/browser_actuator/internal/transport/test_support/mock_stream_connection_delegate.h"
 
 namespace browser_actuator {

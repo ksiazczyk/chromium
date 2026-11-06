@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event broadcaster implementation for tab strip observers
+// summary: Implements the broadcaster that converts internal tab strip events into Mojo events and delivers them to batched observers.
+// ---
+
 #include "components/browser_apis/tab_strip/event_broadcaster.h"
 
 #include "components/browser_apis/tab_strip/observation/tab_strip_api_batched_observer.h"

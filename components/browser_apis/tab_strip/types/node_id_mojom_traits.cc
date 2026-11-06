@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo traits implementation for node IDs
+// summary: Implements enum and struct traits that map the native NodeId type and value to and from their Mojo representations.
+// ---
+
 #include "components/browser_apis/tab_strip/types/node_id_mojom_traits.h"
 
 MojoNodeIdType mojo::EnumTraits<MojoNodeIdType, NativeNodeType>::ToMojom(

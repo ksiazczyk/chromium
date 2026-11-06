@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DropTargetRegistry interface
+// summary: Declares the abstract DropTargetRegistry interface for registering, unregistering, and locating drop targets during tab drags.
+// ---
+
 #ifndef COMPONENTS_BROWSER_APIS_TAB_DRAG_DESTINATIONS_DROP_TARGET_REGISTRY_H_
 #define COMPONENTS_BROWSER_APIS_TAB_DRAG_DESTINATIONS_DROP_TARGET_REGISTRY_H_
 

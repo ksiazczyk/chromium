@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock transport handler factory implementation
+// summary: Implements factory ID and supported payload type accessors for MockTransportHandlerFactory.
+// ---
+
 #include "components/browser_actuator/test_support/mock_transport_handler_factory.h"
 
 namespace browser_actuator {

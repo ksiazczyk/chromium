@@ -1,3 +1,9 @@
+---
+type: readme
+title: Browser UI component README
+summary: Explains that the browser_ui component provides modularized build targets for common browser UI elements, currently containing Android code used by Chrome.
+---
+
 The browser_ui component consists of modularized build targets for common
 UI elements that are useful for building a browser. Currently it contains
 Android code that is used by Chrome.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ResumeBodyConnectionDelegate implementation
+// summary: Implements the resume-body delegate, returning a provider-supplied serialized WatchSessionsRequest as the protobuf upload body and forwarding other calls to the inner delegate.
+// ---
+
 #include "components/browser_actuator/internal/transport/resume_body_connection_delegate.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark UUID mapper class declaration
+// summary: Declares the identity tuple and mapper that give every bookmark node a unique, session-stable API UUID.
+// ---
+
 #ifndef COMPONENTS_BROWSER_APIS_BOOKMARKS_BOOKMARK_UUID_MAPPER_H_
 #define COMPONENTS_BROWSER_APIS_BOOKMARKS_BOOKMARK_UUID_MAPPER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the oauth directory
+summary: Grants the oauth directory include access to signin public components, gaia, and net.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Position unit tests
+// summary: Unit tests verifying equality comparison of tabs_api::Position objects with different indices and paths.
+// ---
+
 #include "components/browser_apis/tab_strip/types/position.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

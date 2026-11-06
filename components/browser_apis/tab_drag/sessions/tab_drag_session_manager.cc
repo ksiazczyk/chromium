@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab drag session manager implementation
+// summary: Implements the browser-wide manager that starts, owns, and safely destroys the active tab drag session.
+// ---
+
 #include "components/browser_apis/tab_drag/sessions/tab_drag_session_manager.h"
 
 #include "base/check.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StreamConnectionDelegate interface
+// summary: Strategy interface for preparing stream connection requests, carrying resume state, and deciding HTTP-failure retry policy, plus a pass-through default delegate.
+// ---
+
 #ifndef COMPONENTS_BROWSER_ACTUATOR_INTERNAL_TRANSPORT_STREAM_CONNECTION_DELEGATE_H_
 #define COMPONENTS_BROWSER_ACTUATOR_INTERNAL_TRANSPORT_STREAM_CONNECTION_DELEGATE_H_
 

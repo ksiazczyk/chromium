@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for tab ID utilities
+// summary: Tests path validation, content and collection type checks, and native ID conversion, including invalid argument error cases.
+// ---
+
 #include "components/browser_apis/tab_strip/utilities/tab_id_utils.h"
 
 #include "components/browser_apis/tab_strip/types/node_id.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event filter declarations for tab strip events
+// summary: Declares filter functions that return non-owning pointers to specific tab strip event types extracted from an event list.
+// ---
+
 #ifndef COMPONENTS_BROWSER_APIS_TAB_STRIP_UTILITIES_EVENT_FILTERS_H_
 #define COMPONENTS_BROWSER_APIS_TAB_STRIP_UTILITIES_EVENT_FILTERS_H_
 

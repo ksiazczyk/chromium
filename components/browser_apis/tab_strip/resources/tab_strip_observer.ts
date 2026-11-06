@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: TabStripObserver interface
+// summary: Defines the TabStripObserver interface with callbacks for tabs created, nodes closed, data changed, collection created and node moved events.
+// ---
+
 import type {OnCollectionCreatedEvent, OnDataChangedEvent, OnNodeMovedEvent, OnNodesClosedEvent, OnTabsCreatedEvent} from './tab_strip_api_events.mojom-webui.js';
 
 // Interface based tab strip observer. Clients are strongly recommended to

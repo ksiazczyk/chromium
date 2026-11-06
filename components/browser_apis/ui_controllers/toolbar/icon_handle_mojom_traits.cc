@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IconHandle Mojo traits implementation
+// summary: Implements StructTraits for serializing IconHandle, always returning a null handle when reading from Mojo.
+// ---
+
 #include "components/browser_apis/ui_controllers/toolbar/icon_handle_mojom_traits.h"
 
 namespace mojo {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync to signed-in migration header
+// summary: Declares functions and enums for migrating the primary account from syncing to signed-in, including synchronous and asynchronous entry points and migration status queries.
+// ---
+
 #ifndef COMPONENTS_BROWSER_SYNC_SYNC_TO_SIGNIN_MIGRATION_H_
 #define COMPONENTS_BROWSER_SYNC_SYNC_TO_SIGNIN_MIGRATION_H_
 

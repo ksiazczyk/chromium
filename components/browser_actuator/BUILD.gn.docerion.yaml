@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Browser Actuator unit tests build target
+summary: Defines the unit_tests group that aggregates internal, public, and Rust gtest test targets for the browser actuator component.

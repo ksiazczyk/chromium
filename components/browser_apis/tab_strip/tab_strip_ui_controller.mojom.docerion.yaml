@@ -1,0 +1,4 @@
+# Docerion header of tab_strip_ui_controller.mojom.
+type: source
+title: TabStripUIController Mojo interface
+summary: Defines the TabStripUIController Mojo interface for presentation-side actions such as launching a tab's context menu.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build file for the browser_sync component
+summary: GN build configuration defining the browser_sync and switches static libraries plus the unit_tests target, with their sources and dependency lists.
