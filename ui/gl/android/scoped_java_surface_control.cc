@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped Java SurfaceControl wrapper implementation
+// summary: Implements a move-only wrapper around a Java SurfaceControl that optionally releases it on destruction and can create a gfx SurfaceControl surface.
+// ---
+
 #include "ui/gl/android/scoped_java_surface_control.h"
 
 #include <utility>

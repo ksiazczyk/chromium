@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GL share group implementation
+// summary: Implements GLShareGroup, tracking GL contexts that share an ID namespace and exposing a shared context handle.
+// ---
+
 #include "ui/gl/gl_share_group.h"
 
 #include "base/check.h"

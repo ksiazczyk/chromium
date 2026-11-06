@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GLFenceNV class header
+// summary: Declares the GLFenceNV class, a GLFence implementation based on the NV fence extension, listing reset, completion, wait, and invalidation methods.
+// ---
+
 #ifndef UI_GL_GL_FENCE_NV_H_
 #define UI_GL_GL_FENCE_NV_H_
 

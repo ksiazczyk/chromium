@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EGL display initialization and ANGLE backend selection
+// summary: Determines which EGL display types, including ANGLE backends such as D3D11, Vulkan, Metal and OpenGL, to initialize based on support and command line flags.
+// ---
+
 #include "ui/gl/init/gl_display_initializer.h"
 
 #include <algorithm>

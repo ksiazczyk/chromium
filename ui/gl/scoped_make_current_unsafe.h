@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedMakeCurrentUnsafe class declaration
+// summary: Declares ScopedMakeCurrentUnsafe, a variant of ScopedMakeCurrent that stores raw pointers, so clients must keep the context and surface alive.
+// ---
+
 #ifndef UI_GL_SCOPED_MAKE_CURRENT_UNSAFE_H_
 #define UI_GL_SCOPED_MAKE_CURRENT_UNSAFE_H_
 

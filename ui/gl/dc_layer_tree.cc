@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DCLayerTree implementation
+// summary: Implements DCLayerTree, which manages a tree of DirectComposition visuals and swap chains, presenting overlay layers and performing composition commits.
+// ---
+
 #include "ui/gl/dc_layer_tree.h"
 
 #include <d3d11_1.h>

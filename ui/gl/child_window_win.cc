@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChildWindowWin implementation for DirectComposition child windows
+// summary: Implements creation of a hidden Windows popup parent and a transparent child window that DirectComposition renders into, owned by the rendering process.
+// ---
+
 #include "ui/gl/child_window_win.h"
 
 #include "base/at_exit.h"

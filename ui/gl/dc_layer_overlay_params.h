@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DCLayerOverlayParams struct declaration
+// summary: Declares DCLayerOverlayParams describing overlay quads with image, damage, transform, clip, opacity, and video parameters for DirectComposition overlays.
+// ---
+
 #ifndef UI_GL_DC_LAYER_OVERLAY_PARAMS_H_
 #define UI_GL_DC_LAYER_OVERLAY_PARAMS_H_
 

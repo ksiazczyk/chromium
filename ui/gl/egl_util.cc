@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EGL error and debug message utilities implementation
+// summary: Implements EGL error code to string conversion, last-error lookup, and an EGL debug message callback that logs driver messages.
+// ---
+
 #include "ui/gl/egl_util.h"
 
 #include "build/build_config.h"

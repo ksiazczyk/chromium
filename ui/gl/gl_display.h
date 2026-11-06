@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GL display class and display type declarations
+// summary: Declares the GLDisplay and GLDisplayEGL classes, EGLDisplayPlatform, and the DisplayType enum used to select ANGLE and EGL display backends.
+// ---
+
 #ifndef UI_GL_GL_DISPLAY_H_
 #define UI_GL_GL_DISPLAY_H_
 

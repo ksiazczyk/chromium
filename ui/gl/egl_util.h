@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EGL error and debug message utility declarations
+// summary: Declares EGL utility functions that convert EGL error codes to strings and log EGL driver debug messages.
+// ---
+
 #ifndef UI_GL_EGL_UTIL_H_
 #define UI_GL_EGL_UTIL_H_
 

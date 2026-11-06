@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for ui/gtk
+summary: Lists the directory owners plus per-file owners for the build file and input-related GTK sources.

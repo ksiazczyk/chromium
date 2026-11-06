@@ -4,6 +4,12 @@
 
 // This file contains some useful utilities for the ui/gl classes.
 
+// ---docerion
+// type: source
+// title: GL utility implementations for ui/gl
+// summary: Implements ui/gl utilities such as simulated GPU crash and hang, workaround handling, passthrough command decoder selection, and swap chain buffer labeling.
+// ---
+
 #include "ui/gl/gl_utils.h"
 
 #include "base/command_line.h"

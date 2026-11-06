@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARB sync fence class declaration
+// summary: Declares GLFenceARB, a GLFence subclass backed by GL ARB sync objects with wait, completion, and invalidation operations.
+// ---
+
 #ifndef UI_GL_GL_FENCE_ARB_H_
 #define UI_GL_GL_FENCE_ARB_H_
 

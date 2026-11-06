@@ -1,0 +1,4 @@
+# Docerion header of features.gni.
+type: config
+title: ui/gl GN build feature arguments
+summary: GN build arguments for ui/gl controlling static ANGLE linking, Dawn and SwiftShader support, Dawn test binaries, and the validating command decoder.

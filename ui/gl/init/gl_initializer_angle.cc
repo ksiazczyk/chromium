@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Static ANGLE EGL initializer
+// summary: Registers ANGLE's internal eglGetProcAddress as the GL get-proc-address function for statically linked ANGLE.
+// ---
+
 #include "ui/gl/init/gl_initializer.h"
 
 #include <EGL/egl.h>

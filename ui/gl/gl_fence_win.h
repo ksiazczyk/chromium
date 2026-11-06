@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GLFenceWin class header
+// summary: Declares the GLFenceWin class, a GLFence implementation using D3D11 fences, with factory methods for GPU fence creation and handle-based construction.
+// ---
+
 #ifndef UI_GL_GL_FENCE_WIN_H_
 #define UI_GL_GL_FENCE_WIN_H_
 

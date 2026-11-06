@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DCOMPSurfaceProxy interface declaration
+// summary: Declares DCOMPSurfaceProxy, an abstract ref-counted interface exposing a Direct Composition surface's size, handle, rect, and parent window.
+// ---
+
 #ifndef UI_GL_DCOMP_SURFACE_PROXY_H_
 #define UI_GL_DCOMP_SURFACE_PROXY_H_
 

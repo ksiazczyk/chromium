@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stub GL context declaration
+// summary: Declares GLContextStub, a do-nothing GL context for unit tests with configurable extensions, version string, and stub API usage.
+// ---
+
 #ifndef UI_GL_GL_CONTEXT_STUB_H_
 #define UI_GL_GL_CONTEXT_STUB_H_
 

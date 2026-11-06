@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ozone GL factory implementation
+// summary: Implements the GL factory for Ozone platforms by delegating context and surface creation to the Ozone GL interface, with stub fallbacks.
+// ---
+
 #include "ui/gl/init/gl_factory.h"
 
 #include "base/check.h"

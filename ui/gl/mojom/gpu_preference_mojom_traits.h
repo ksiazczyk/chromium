@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GpuPreference Mojom traits header
+// summary: Defines inline EnumTraits converting gl::GpuPreference to and from its gl.mojom counterpart.
+// ---
+
 #ifndef UI_GL_MOJOM_GPU_PREFERENCE_MOJOM_TRAITS_H_
 #define UI_GL_MOJOM_GPU_PREFERENCE_MOJOM_TRAITS_H_
 

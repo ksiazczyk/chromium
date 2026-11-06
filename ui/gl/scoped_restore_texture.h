@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedRestoreTexture class declaration
+// summary: Declares ScopedRestoreTexture, which restores the previous texture binding on destruction and can bind a new texture at construction.
+// ---
+
 #ifndef UI_GL_SCOPED_RESTORE_TEXTURE_H_
 #define UI_GL_SCOPED_RESTORE_TEXTURE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for ui/gl
+summary: Sets allowed include dependencies for the directory and grants per-file exceptions for ANGLE, DirectComposition, and test code.

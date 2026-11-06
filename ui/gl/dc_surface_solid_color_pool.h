@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DCSurfaceSolidColorPool class declaration
+// summary: Declares DCSurfaceSolidColorPool, a SolidColorPoolBase that produces recolorable IDCompositionSurface entries backed by an ID3D11Device for Direct Composition.
+// ---
+
 #ifndef UI_GL_DC_SURFACE_SOLID_COLOR_POOL_H_
 #define UI_GL_DC_SURFACE_SOLID_COLOR_POOL_H_
 

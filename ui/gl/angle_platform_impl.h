@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ANGLE platform integration declarations
+// summary: Declares functions to initialize and reset the ANGLE platform integration and to post worker tasks for ANGLE.
+// ---
+
 #ifndef UI_GL_ANGLE_PLATFORM_IMPL_H_
 #define UI_GL_ANGLE_PLATFORM_IMPL_H_
 

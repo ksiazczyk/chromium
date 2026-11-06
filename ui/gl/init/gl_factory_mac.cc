@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS GL factory implementation
+// summary: Implements the GL factory for macOS, preferring ANGLE Metal and SwiftShader and creating EGL contexts plus offscreen and stub surfaces.
+// ---
+
 #include "ui/gl/init/gl_factory.h"
 
 #include "base/check_op.h"

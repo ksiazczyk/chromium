@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EGL timestamp query client interface
+// summary: Declares the EGLTimestampClient interface for checking EGL timestamp support and querying frame presentation time, composite interval, and presentation flags.
+// ---
+
 #ifndef UI_GL_EGL_TIMESTAMPS_H_
 #define UI_GL_EGL_TIMESTAMPS_H_
 

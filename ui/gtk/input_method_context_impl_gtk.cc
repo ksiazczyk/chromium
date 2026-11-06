@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GTK input method context implementation
+// summary: Implements a Linux input method context backed by GTK IM, translating Chromium key events into GdkEventKey and handling composition text.
+// ---
+
 #include "ui/gtk/input_method_context_impl_gtk.h"
 
 #include <cstddef>

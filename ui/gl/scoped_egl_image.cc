@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EGL image creation and destruction helpers
+// summary: Implements MakeScopedEGLImage and traits that create and destroy EGLImageKHR handles on the GL display, logging errors on failure.
+// ---
+
 #include "ui/gl/scoped_egl_image.h"
 
 #include "base/logging.h"

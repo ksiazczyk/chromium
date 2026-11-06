@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android GL initializer implementation
+// summary: Implements Android GL initialization by loading libGLESv2 and libEGL, setting up bindings, and initializing or shutting down the EGL display.
+// ---
+
 #include "ui/gl/init/gl_initializer.h"
 
 #include "base/base_paths.h"

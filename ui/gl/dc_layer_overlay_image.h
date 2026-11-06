@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DCLayerOverlayImage class declaration
+// summary: Declares DCLayerOverlayImage, which holds the DirectComposition content needed to update the DComp layer tree, such as video textures, pixmaps, or surface proxies.
+// ---
+
 #ifndef UI_GL_DC_LAYER_OVERLAY_IMAGE_H_
 #define UI_GL_DC_LAYER_OVERLAY_IMAGE_H_
 

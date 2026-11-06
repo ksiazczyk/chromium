@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DCompPresenter implementation
+// summary: Implements the DirectComposition presenter that owns the DComp layer tree, presents frames, and translates commit error reasons for logging.
+// ---
+
 #include "ui/gl/dcomp_presenter.h"
 
 #include <winerror.h>

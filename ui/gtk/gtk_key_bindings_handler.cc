@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GTK key bindings handler implementation
+// summary: Translates key events into text edit commands using the configured GTK key theme, including Emacs bindings.
+// ---
+
 #include "ui/gtk/gtk_key_bindings_handler.h"
 
 #include <array>

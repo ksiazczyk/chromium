@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped Java SurfaceControl wrapper declarations
+// summary: Declares the ScopedJavaSurfaceControl class wrapping a Java SurfaceControl with optional release-on-destroy and surface creation support.
+// ---
+
 #ifndef UI_GL_ANDROID_SCOPED_JAVA_SURFACE_CONTROL_H_
 #define UI_GL_ANDROID_SCOPED_JAVA_SURFACE_CONTROL_H_
 

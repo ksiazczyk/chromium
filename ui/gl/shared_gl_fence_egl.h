@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared EGL fence for multiple GL consumers
+// summary: Declares SharedGLFenceEGL, a ref-counted wrapper that shares an EGL fence among consumers of the same GL context and skips redundant ServerWait calls.
+// ---
+
 #ifndef UI_GL_SHARED_GL_FENCE_EGL_H_
 #define UI_GL_SHARED_GL_FENCE_EGL_H_
 

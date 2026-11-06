@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GTK native color mixer implementation
+// summary: Adds GTK theme colors to Chromium's color provider, deriving core UI colors from GTK style context lookups.
+// ---
+
 #include "ui/gtk/gtk_color_mixers.h"
 
 #include "base/strings/strcat.h"

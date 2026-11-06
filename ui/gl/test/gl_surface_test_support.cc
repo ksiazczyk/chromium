@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GLSurfaceTestSupport implementation for GL test initialization
+// summary: Implements static helpers that initialize GL one-off with software, hardware, mock, stub, or null ANGLE bindings and shut GL down for surface tests.
+// ---
+
 #include "ui/gl/test/gl_surface_test_support.h"
 
 #include <vector>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GLSurfaceEGLSurfaceControl unit tests
+// summary: Unit tests verifying YUV and RGB source crop alignment in GLSurfaceEGLSurfaceControl, including HDR formats and behavior when the YUV alignment feature is disabled.
+// ---
+
 #include "ui/gl/gl_surface_egl_surface_control.h"
 
 #include <android/hardware_buffer.h>

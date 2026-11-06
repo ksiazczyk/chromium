@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Stub GL API with canned return values
+// summary: Implements a stub GL API returning fixed values so GPU unit tests and fuzzers can run without a real GL implementation.
+// ---
+
 #include "ui/gl/gl_stub_api.h"
 
 namespace gl {

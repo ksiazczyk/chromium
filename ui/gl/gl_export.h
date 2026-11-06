@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GL_EXPORT macro definitions for shared library builds
+// summary: Defines the GL_EXPORT macro to handle DLL import and export of the ui/gl library across Windows, POSIX, and non-component builds.
+// ---
+
 #ifndef UI_GL_GL_EXPORT_H_
 #define UI_GL_GL_EXPORT_H_
 

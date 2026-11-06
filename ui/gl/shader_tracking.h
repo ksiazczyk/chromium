@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShaderTracking class declaration
+// summary: Declares the ShaderTracking singleton, which stores and returns the current shader pair guarded by a lock.
+// ---
+
 #ifndef UI_GL_SHADER_TRACKING_H_
 #define UI_GL_SHADER_TRACKING_H_
 

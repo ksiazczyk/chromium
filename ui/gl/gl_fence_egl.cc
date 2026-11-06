@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GLFenceEGL implementation
+// summary: Implements GLFenceEGL, which creates EGL sync fences (preferring ANGLE global fence sync) and provides completion checks, client and server waits, and i965 driver workarounds.
+// ---
+
 #include "ui/gl/gl_fence_egl.h"
 
 #include "base/memory/ptr_util.h"

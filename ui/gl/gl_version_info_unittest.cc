@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for GL version info parsing
+// summary: Unit tests verifying that GL version strings and ANGLE renderer strings are parsed into the expected version, ES level, and driver vendor data.
+// ---
+
 #include "ui/gl/gl_version_info.h"
 
 #include <array>

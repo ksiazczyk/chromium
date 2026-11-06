@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for ui/gl
+summary: Lists code owners for the directory, with per-file owners for Ozone, Surface Control, and Windows Direct Composition work.

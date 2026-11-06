@@ -4,6 +4,12 @@
 
 // This file contains some useful utilities for the ui/gl classes.
 
+// ---docerion
+// type: source
+// title: GL utility declarations for ui/gl
+// summary: Declares ui/gl helpers for GPU workarounds, command decoder selection, display lookup by GPU preference, and Windows swap chain labeling.
+// ---
+
 #ifndef UI_GL_GL_UTILS_H_
 #define UI_GL_GL_UTILS_H_
 

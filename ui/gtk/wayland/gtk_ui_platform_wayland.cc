@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland implementation of the GTK UI platform
+// summary: Implements GtkUiPlatform for Wayland, setting the GDK backend, wiring transient parent windows via exported handles, and defining scaling and input-method behavior.
+// ---
+
 #include "ui/gtk/wayland/gtk_ui_platform_wayland.h"
 
 #include "base/command_line.h"

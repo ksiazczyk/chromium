@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedMakeCurrentUnsafe implementation
+// summary: Implements ScopedMakeCurrentUnsafe, which makes a GL context current and restores the previous one without holding references to context or surface.
+// ---
+
 #include "ui/gl/scoped_make_current_unsafe.h"
 
 #include "base/check.h"

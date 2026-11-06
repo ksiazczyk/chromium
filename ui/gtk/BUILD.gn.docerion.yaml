@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the GTK UI component
+summary: Defines GN targets, pkg-config settings, GTK stub generation and dependencies for building the GTK UI library on Linux and Chrome OS.

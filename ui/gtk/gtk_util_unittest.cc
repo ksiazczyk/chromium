@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GTK utility unit tests
+// summary: Tests font scale derivation from gtk-xft-dpi, fatal GDK error message detection, and the GTK log writer shutdown callback behavior.
+// ---
+
 #include "ui/gtk/gtk_util.h"
 
 #include <glib.h>

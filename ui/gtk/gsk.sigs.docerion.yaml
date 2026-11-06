@@ -1,0 +1,4 @@
+# Docerion header of gsk.sigs.
+type: data
+title: GSK API signatures for GTK stub generation
+summary: Lists GSK render node function signatures used to generate stubs for GTK 4 rendering operations.

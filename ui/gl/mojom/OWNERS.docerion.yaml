@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS rules for the gl mojom directory
+summary: Per-file ownership rules delegating review of Mojom and Mojom traits files to the IPC security owners.

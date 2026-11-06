@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GTK settings provider header
+// summary: Declares SettingsProviderGtk and its FrameActionSettingWatcher, which observe GTK settings signals for button ordering and titlebar window frame actions.
+// ---
+
 #ifndef UI_GTK_SETTINGS_PROVIDER_GTK_H_
 #define UI_GTK_SETTINGS_PROVIDER_GTK_H_
 

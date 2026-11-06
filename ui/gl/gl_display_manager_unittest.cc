@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GLDisplayManager unit tests
+// summary: Unit tests verifying single-GPU, dual-GPU, and GPU removal behavior of the EGL display manager.
+// ---
+
 #include "ui/gl/gl_display_manager.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

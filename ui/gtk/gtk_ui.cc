@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GTK Linux UI implementation
+// summary: Implements the LinuxUI interface with GTK, providing theming, fonts, input methods, printing, and file dialogs.
+// ---
+
 #include "ui/gtk/gtk_ui.h"
 
 #include <cairo.h>

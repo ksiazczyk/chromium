@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ozone EGL display utility implementation
+// summary: Implements GLDisplayEglUtilOzone by forwarding EGL display attributes, alpha and buffer size choices, and Vulkan display overrides to the Ozone platform.
+// ---
+
 #include "ui/gl/init/gl_display_egl_util_ozone.h"
 
 #include "base/no_destructor.h"

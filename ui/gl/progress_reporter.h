@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Progress reporter interface for watchdog delay
+// summary: Defines an interface used by ContextGroup and GrGLInterface to report execution progress and delay the watchdog timeout, plus a scoped helper that reports on scope exit.
+// ---
+
 #ifndef UI_GL_PROGRESS_REPORTER_H_
 #define UI_GL_PROGRESS_REPORTER_H_
 

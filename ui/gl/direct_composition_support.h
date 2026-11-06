@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Direct Composition support API declarations
+// summary: Declares functions for initializing Direct Composition, retrieving global D3D and DComp devices, and querying overlay and swap chain support.
+// ---
+
 #ifndef UI_GL_DIRECT_COMPOSITION_SUPPORT_H_
 #define UI_GL_DIRECT_COMPOSITION_SUPPORT_H_
 

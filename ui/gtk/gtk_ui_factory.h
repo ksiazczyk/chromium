@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GtkUi factory header
+// summary: Declares BuildGtkUi, the sole symbol exported from the GTK component and the access point to the GTK desktop system.
+// ---
+
 #ifndef UI_GTK_GTK_UI_FACTORY_H_
 #define UI_GTK_GTK_UI_FACTORY_H_
 

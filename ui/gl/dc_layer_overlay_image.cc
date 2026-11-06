@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DCLayerOverlayImage implementation
+// summary: Implements DCLayerOverlayImage constructors and destructor for overlay images backed by D3D11 video textures, shared-memory pixmaps, or DirectComposition content.
+// ---
+
 #include "ui/gl/dc_layer_overlay_image.h"
 
 #include <unknwn.h>

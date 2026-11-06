@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Direct Composition support detection implementation
+// summary: Implements detection and global state for Direct Composition capabilities such as overlays, Auto HDR, decode swap chains, and AMD HDR hardware offload.
+// ---
+
 #include "ui/gl/direct_composition_support.h"
 
 #include <d3d11on12.h>

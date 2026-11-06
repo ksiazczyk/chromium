@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Generic OS compositor overlay layer tree
+// summary: Declares OsCompositorTreeBase, a generic template that incrementally maintains a platform OS compositor tree from topologically sorted overlay layer parameters.
+// ---
+
 #ifndef UI_GL_OS_COMPOSITOR_TREE_BASE_H_
 #define UI_GL_OS_COMPOSITOR_TREE_BASE_H_
 

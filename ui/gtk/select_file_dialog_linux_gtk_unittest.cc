@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GTK file selection dialog unit tests
+// summary: Unit tests for SelectFileDialogLinuxGtk verifying that dialog creation is deferred until the activation key is released and that accept responses are ignored during a 500ms cooldown.
+// ---
+
 #include "ui/gtk/select_file_dialog_linux_gtk.h"
 
 #include <gtk/gtk.h>

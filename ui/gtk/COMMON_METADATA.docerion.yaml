@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Common Buganizer metadata for ui/gtk
+summary: Sets the public Buganizer component ID used for issue tracking across the ui/gtk directory.

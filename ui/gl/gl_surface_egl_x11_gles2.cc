@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EGL GL surface for X11 GLES2 implementation
+// summary: Implements the GLES2 X11 EGL surface, creating a child window and choosing a matching EGL config.
+// ---
+
 #include "ui/gl/gl_surface_egl_x11_gles2.h"
 
 #include "ui/base/x/x11_util.h"

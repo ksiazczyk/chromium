@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Per-file owners for Ozone GL files
+summary: Lists Chromium owners responsible for changes to files matching *_ozone* in this directory.

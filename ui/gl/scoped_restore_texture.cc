@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedRestoreTexture implementation
+// summary: Implements ScopedRestoreTexture, which saves the current texture binding for a target and restores it when the object is destroyed.
+// ---
+
 #include "ui/gl/scoped_restore_texture.h"
 
 #include "base/notreached.h"

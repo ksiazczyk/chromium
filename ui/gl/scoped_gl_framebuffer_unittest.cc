@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ScopedGLFramebuffer
+// summary: Verifies with mock GL bindings that the scoped framebuffer wrapper deletes framebuffers on scope exit, skips invalid IDs, and that the creation helper works.
+// ---
+
 #include "ui/gl/scoped_gl_framebuffer.h"
 
 #include <memory>

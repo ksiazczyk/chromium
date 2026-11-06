@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped GL texture deletion traits
+// summary: Implements traits that delete a GL texture on the current context when the scoped texture wrapper is released.
+// ---
+
 #include "ui/gl/scoped_gl_texture.h"
 
 #include "base/check.h"

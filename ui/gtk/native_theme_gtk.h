@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GTK native theme class declaration
+// summary: Declares NativeThemeGtk, a NativeThemeBase singleton that renders Chrome UI elements such as menus and frame areas with GTK styling.
+// ---
+
 #ifndef UI_GTK_NATIVE_THEME_GTK_H_
 #define UI_GTK_NATIVE_THEME_GTK_H_
 

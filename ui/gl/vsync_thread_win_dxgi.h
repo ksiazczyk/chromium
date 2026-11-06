@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DXGI VSync thread class declaration
+// summary: Declares VSyncThreadWinDXGI, the VSyncThreadWin subclass that waits on DXGI output vblank and holds the primary DXGI output.
+// ---
+
 #ifndef UI_GL_VSYNC_THREAD_WIN_DXGI_H_
 #define UI_GL_VSYNC_THREAD_WIN_DXGI_H_
 

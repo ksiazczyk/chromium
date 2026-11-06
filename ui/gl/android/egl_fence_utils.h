@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EGL fence utilities declarations
+// summary: Declares gl::CreateEglFenceAndExportFd and gl::InsertEglFenceAndWait for EGL native fence synchronization on Android.
+// ---
+
 #ifndef UI_GL_ANDROID_EGL_FENCE_UTILS_H_
 #define UI_GL_ANDROID_EGL_FENCE_UTILS_H_
 

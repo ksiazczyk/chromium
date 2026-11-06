@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped ANativeWindow wrapper declarations
+// summary: Declares the move-only ScopedANativeWindow class with Wrap and Adopt ownership semantics for ANativeWindow pointers.
+// ---
+
 #ifndef UI_GL_ANDROID_SCOPED_A_NATIVE_WINDOW_H_
 #define UI_GL_ANDROID_SCOPED_A_NATIVE_WINDOW_H_
 

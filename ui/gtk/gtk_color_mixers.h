@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GTK color mixer declarations
+// summary: Declares AddGtkNativeColorMixer, which registers the GTK system theme mixer with a ui::ColorProvider.
+// ---
+
 #ifndef UI_GTK_GTK_COLOR_MIXERS_H_
 #define UI_GTK_GTK_COLOR_MIXERS_H_
 

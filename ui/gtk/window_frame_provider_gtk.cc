@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GTK window frame provider implementation
+// summary: Implements WindowFrameProviderGtk, rendering GTK-themed window frame bitmaps and metrics via GTK CSS contexts and caching them per scale factor for painting.
+// ---
+
 #include "ui/gtk/window_frame_provider_gtk.h"
 
 #include "base/logging.h"

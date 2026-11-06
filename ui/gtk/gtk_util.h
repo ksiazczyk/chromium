@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GTK utility functions header
+// summary: Declares GTK helpers such as CairoSurface, GtkCssContext, button layout parsing, and aura window transient parent management.
+// ---
+
 #ifndef UI_GTK_GTK_UTIL_H_
 #define UI_GTK_GTK_UTIL_H_
 

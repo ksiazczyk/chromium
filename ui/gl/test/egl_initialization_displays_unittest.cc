@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EGL initialization displays unit tests
+// summary: Unit tests verifying which EGL displays are returned for ANGLE renderer selection, workarounds like disabling D3D11, and default versus explicit renderer flags.
+// ---
+
 #include <algorithm>
 
 #include "base/command_line.h"

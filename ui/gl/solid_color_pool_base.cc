@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SolidColorPoolBase implementation
+// summary: Implements the SolidColorPoolBase resource pool that caches, reuses, and trims DirectComposition content filled with a solid color, tracking per-frame stats.
+// ---
+
 #include "ui/gl/solid_color_pool_base.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ozone utility helpers for GL initialization
+// summary: Header with inline helpers to access the Ozone surface factory and query or retrieve the GLOzone instance for the current or a given GL implementation.
+// ---
+
 #ifndef UI_GL_INIT_OZONE_UTIL_H_
 #define UI_GL_INIT_OZONE_UTIL_H_
 

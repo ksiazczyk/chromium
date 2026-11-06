@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GTK color mixer unit tests
+// summary: Tests that GTK-derived colors keep text readable on native and Material surfaces across Adwaita light and dark themes.
+// ---
+
 #include "ui/gtk/gtk_color_mixers.h"
 
 #include <glib-object.h>

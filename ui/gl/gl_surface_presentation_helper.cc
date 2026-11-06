@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GL surface presentation helper implementation
+// summary: Implements tracking of pending frames and reporting of presentation timestamps via GPU timers, fences, or EGL timestamps.
+// ---
+
 #include "ui/gl/gl_surface_presentation_helper.h"
 
 #include <utility>

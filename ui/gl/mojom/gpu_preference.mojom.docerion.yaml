@@ -1,0 +1,4 @@
+# Docerion header of gpu_preference.mojom.
+type: source
+title: GpuPreference Mojom enum
+summary: Defines the Mojom GpuPreference enum mirroring gl::GpuPreference with none, default, low-power, and high-performance values.

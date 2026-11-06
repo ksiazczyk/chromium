@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Header for the GPUTimingFake test helper
+// summary: Declares GPUTimingFake, a test helper that fakes GL timer queries, tracks query results, and sets expectations for timestamp and elapsed-time query calls.
+// ---
+
 #ifndef UI_GL_GPU_TIMING_FAKE_H_
 #define UI_GL_GPU_TIMING_FAKE_H_
 

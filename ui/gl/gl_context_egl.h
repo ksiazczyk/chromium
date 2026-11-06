@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EGL GL context declaration
+// summary: Declares GLContextEGL, the EGL implementation of a GL context, with methods for making current, reset status, visibility, and texture sharing.
+// ---
+
 #ifndef UI_GL_GL_CONTEXT_EGL_H_
 #define UI_GL_GL_CONTEXT_EGL_H_
 

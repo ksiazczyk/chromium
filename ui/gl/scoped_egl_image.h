@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped EGL image RAII wrapper
+// summary: Declares a ScopedGeneric wrapper for EGLImageKHR handles and a helper that creates one from a context, target, client buffer, and attributes.
+// ---
+
 #ifndef UI_GL_SCOPED_EGL_IMAGE_H_
 #define UI_GL_SCOPED_EGL_IMAGE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Display initialization API declarations
+// summary: Declares functions for computing EGL init displays for testing, getting display initialization parameters, and initializing an EGL display.
+// ---
+
 #ifndef UI_GL_INIT_GL_DISPLAY_INITIALIZER_H_
 #define UI_GL_INIT_GL_DISPLAY_INITIALIZER_H_
 

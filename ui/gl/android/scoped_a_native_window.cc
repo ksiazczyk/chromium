@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped ANativeWindow wrapper implementation
+// summary: Implements a move-only RAII wrapper that acquires and releases Android ANativeWindow objects, including creation from a Java Surface.
+// ---
+
 #include "ui/gl/android/scoped_a_native_window.h"
 
 #include <android/native_window_jni.h>

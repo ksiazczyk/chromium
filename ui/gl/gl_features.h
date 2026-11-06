@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GL feature flag declarations
+// summary: Declares features namespace functions and feature flags controlling vsync, command decoder choice, ANGLE validation, SwiftShader, WARP, and software GL fallback.
+// ---
+
 #ifndef UI_GL_GL_FEATURES_H_
 #define UI_GL_GL_FEATURES_H_
 

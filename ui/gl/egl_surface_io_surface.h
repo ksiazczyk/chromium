@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedEGLSurfaceIOSurface class declaration
+// summary: Declares the ScopedEGLSurfaceIOSurface helper that creates an EGL PBuffer for an IOSurface and binds or unbinds it to an EGL texture.
+// ---
+
 #ifndef UI_GL_EGL_SURFACE_IO_SURFACE_H_
 #define UI_GL_EGL_SURFACE_IO_SURFACE_H_
 

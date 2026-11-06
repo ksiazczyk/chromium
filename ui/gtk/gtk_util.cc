@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GTK utility functions implementation
+// summary: Implements GTK helpers including cached style color lookups, GskRenderNode traversal, transient parent handling, and Cairo surface rendering.
+// ---
+
 #include "ui/gtk/gtk_util.h"
 
 #include <glib.h>

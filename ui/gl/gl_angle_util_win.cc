@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ANGLE D3D11 device query helper implementation
+// summary: Implements a Windows helper that retrieves the D3D11 device object from ANGLE via EGL device queries.
+// ---
+
 #include "ui/gl/gl_angle_util_win.h"
 
 #include <objbase.h>

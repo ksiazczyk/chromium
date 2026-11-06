@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU delegated ink point renderer class declaration
+// summary: Declares DelegatedInkPointRendererGpu, which manages delegated ink trails via DirectComposition, creates ink overlays, and exposes test hooks.
+// ---
+
 #ifndef UI_GL_DELEGATED_INK_POINT_RENDERER_GPU_H_
 #define UI_GL_DELEGATED_INK_POINT_RENDERER_GPU_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows GL initializer implementation
+// summary: Implements Windows-specific GL initialization, loading the D3D compiler DLL and ANGLE libglesv2 and libegl libraries, with static or dynamic ANGLE support.
+// ---
+
 #include "ui/gl/init/gl_initializer.h"
 
 #include <dwmapi.h>

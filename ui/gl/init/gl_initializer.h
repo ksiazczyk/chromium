@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform GL initializer interface
+// summary: Declares platform-dependent one-off GL initialization, static binding setup, and shutdown functions used by the GL factory layer.
+// ---
+
 #ifndef UI_GL_INIT_GL_INITIALIZER_H_
 #define UI_GL_INIT_GL_INITIALIZER_H_
 

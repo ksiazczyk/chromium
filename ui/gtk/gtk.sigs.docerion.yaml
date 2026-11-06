@@ -1,0 +1,4 @@
+# Docerion header of gtk.sigs.
+type: data
+title: GTK function signatures
+summary: Lists GTK function declarations used to generate dynamic-loading stubs and to declare GTK symbols for the ui/gtk component.

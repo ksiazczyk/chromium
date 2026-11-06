@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EGL GL surface class declarations
+// summary: Declares GLSurfaceEGL and NativeViewGLSurfaceEGL, EGL surfaces bound to native views, with platform-specific variants for Android and swap timestamp support.
+// ---
+
 #ifndef UI_GL_GL_SURFACE_EGL_H_
 #define UI_GL_GL_SURFACE_EGL_H_
 

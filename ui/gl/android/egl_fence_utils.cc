@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EGL fence utilities implementation
+// summary: Implements helpers that create an EGL fence and export its file descriptor, and that insert an EGL fence and wait on an acquired fence fd.
+// ---
+
 #include "ui/gl/android/egl_fence_utils.h"
 
 #include "ui/gl/gl_fence_android_native_fence_sync.h"

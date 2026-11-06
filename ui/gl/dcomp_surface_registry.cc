@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DCOMPSurfaceRegistry implementation
+// summary: Implements the DCOMPSurfaceRegistry singleton that registers, unregisters, and takes ownership of Direct Composition surface handles by token.
+// ---
+
 #include "ui/gl/dcomp_surface_registry.h"
 
 #include "base/check.h"

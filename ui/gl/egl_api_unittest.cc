@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the EGL API implementation
+// summary: Tests the EGL API wrapper using fake EGL driver functions to verify extension string handling, disabled extensions, and display initialization.
+// ---
+
 #include <memory>
 
 #include "base/memory/raw_ptr.h"

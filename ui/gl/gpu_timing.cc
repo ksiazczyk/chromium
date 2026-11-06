@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU timer query implementation
+// summary: Implements GPU timing support, including elapsed-time and timestamp queries, disjoint handling, offset calculation, and query result tracking for GL contexts.
+// ---
+
 #include "ui/gl/gpu_timing.h"
 
 #include <utility>

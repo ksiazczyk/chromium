@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GTK print dialog implementation
+// summary: Implements the GTK print dialog, including paper size matching, print job handling, and sending documents to the selected printer.
+// ---
+
 #include "ui/gtk/printing/print_dialog_gtk.h"
 
 #include <algorithm>

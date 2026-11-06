@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GLSurface base class implementation
+// summary: Implements the base GLSurface class with default surface behavior, current-surface tracking, vsync accessors, and weak pointer support.
+// ---
+
 #include "ui/gl/gl_surface.h"
 
 #include "base/check.h"

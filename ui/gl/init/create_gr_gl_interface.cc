@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skia GrGLInterface creation from GL bindings
+// summary: Builds a GrGLInterface for Skia from the current GL bindings, including EGL-based fence sync emulation for platforms lacking GL fences.
+// ---
+
 #include "ui/gl/init/create_gr_gl_interface.h"
 
 #include "base/feature_list.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Presenter base class default implementations
+// summary: Implements default Presenter behavior, reporting overlay plane, CA layer, and DC layer scheduling as unsupported and providing a basic resize implementation.
+// ---
+
 #include "ui/gl/presenter.h"
 
 #include "base/notimplemented.h"

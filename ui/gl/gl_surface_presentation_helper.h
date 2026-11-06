@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GL surface presentation helper class declaration
+// summary: Declares GLSurfacePresentationHelper, which manages and invokes presentation callbacks for GLSurface implementations.
+// ---
+
 #ifndef UI_GL_GL_SURFACE_PRESENTATION_HELPER_H_
 #define UI_GL_GL_SURFACE_PRESENTATION_HELPER_H_
 

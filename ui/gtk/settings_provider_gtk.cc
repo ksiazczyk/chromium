@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GTK settings provider implementation
+// summary: Implements SettingsProviderGtk, watching GTK settings to map the decoration button layout and titlebar click actions to window frame actions for GtkUi.
+// ---
+
 #include "ui/gtk/settings_provider_gtk.h"
 
 #include "base/functional/bind.h"

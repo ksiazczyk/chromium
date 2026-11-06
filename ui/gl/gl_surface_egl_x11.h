@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EGL GL surface for X11 native views (header)
+// summary: Declares NativeViewGLSurfaceEGLX11, an EGL surface bound to an X11 window with event and vsync handling.
+// ---
+
 #ifndef UI_GL_GL_SURFACE_EGL_X11_H_
 #define UI_GL_GL_SURFACE_EGL_X11_H_
 

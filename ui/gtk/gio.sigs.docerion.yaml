@@ -1,0 +1,4 @@
+# Docerion header of gio.sigs.
+type: data
+title: GIO API signatures for GTK stub generation
+summary: Lists GIO function signatures used to generate stubs for dynamically loaded GIO functions.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GLSurfaceOverlay class declaration
+// summary: Declares GLSurfaceOverlay, which stores overlay plane properties and schedules the plane at swap time.
+// ---
+
 #ifndef UI_GL_GL_SURFACE_OVERLAY_H_
 #define UI_GL_GL_SURFACE_OVERLAY_H_
 

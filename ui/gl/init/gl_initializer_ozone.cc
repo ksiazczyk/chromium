@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ozone GL initializer implementation
+// summary: Implements Linux Ozone-specific GL initialization, delegating display setup, static binding, and shutdown to the platform's GLOzone when available.
+// ---
+
 #include "ui/gl/init/gl_initializer.h"
 
 #include "base/check_op.h"

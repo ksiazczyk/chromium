@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GTK file selection dialog implementation
+// summary: Implements SelectFileDialogLinuxGtk, a modal GTK dialog for choosing files or folders, with preview images, file type filters, and deferred opening while an activation key is held.
+// ---
+
 #include "ui/gtk/select_file_dialog_linux_gtk.h"
 
 #include <glib/gi18n.h>

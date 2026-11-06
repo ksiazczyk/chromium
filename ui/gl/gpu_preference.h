@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU preference and display key enums
+// summary: Defines the GpuPreference enum for choosing low-power or high-performance GPUs on dual-GPU systems and a DisplayKey enum for keying EGL displays per GPU.
+// ---
+
 #ifndef UI_GL_GPU_PREFERENCE_H_
 #define UI_GL_GPU_PREFERENCE_H_
 

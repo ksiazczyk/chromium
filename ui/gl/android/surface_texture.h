@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SurfaceTexture class declaration
+// summary: Declares the gl::SurfaceTexture class, a ref-counted C++ bridge that lets native Chromium code call into Android's Java SurfaceTexture and create native render surfaces.
+// ---
+
 #ifndef UI_GL_ANDROID_SURFACE_TEXTURE_H_
 #define UI_GL_ANDROID_SURFACE_TEXTURE_H_
 

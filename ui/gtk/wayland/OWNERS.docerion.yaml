@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the Wayland GTK UI directory
+summary: Lists hidehiko@chromium.org as the owner for input-related changes, referring other changes to owners in the parent directory.

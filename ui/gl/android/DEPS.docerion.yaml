@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for ui/gl/android
+summary: Defines include rules allowing code in ui/gl/android to include the gl_jni_headers directory.

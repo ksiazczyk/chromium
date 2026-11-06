@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DCLayerTree and VideoProcessorWrapper declarations
+// summary: Declares DCLayerTree, which manages DirectComposition visuals and associated swap chains for overlay layers, plus VideoProcessorWrapper caching video processors.
+// ---
+
 #ifndef UI_GL_DC_LAYER_TREE_H_
 #define UI_GL_DC_LAYER_TREE_H_
 

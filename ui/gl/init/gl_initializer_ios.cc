@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS GL initializer implementation
+// summary: Implements iOS-specific GL initialization, setting up EGL/ANGLE or mock and stub bindings and shutting down the GL display platform.
+// ---
+
 #include "ui/gl/init/gl_initializer.h"
 
 #include "base/logging.h"

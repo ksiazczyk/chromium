@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GL implementation selection and helpers
+// summary: Implements GLImplementationParts validation, allowed-implementation checks, and GL/ANGLE name mappings used to initialize Chromium's GL stack.
+// ---
+
 #include "ui/gl/gl_implementation.h"
 
 #include <stddef.h>

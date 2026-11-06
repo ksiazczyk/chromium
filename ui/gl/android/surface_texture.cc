@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SurfaceTexture wrapper implementation
+// summary: Implements the SurfaceTexture wrapper around ChromeSurfaceTexture, resolving ANGLE native texture IDs and creating native windows from the texture.
+// ---
+
 #include "ui/gl/android/surface_texture.h"
 
 #include "base/android/jni_android.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GL GLApi implementation
+// summary: Implements the GL API wrapper layer for Chromium's GL stack, including texture internal format mapping across ES versions and state tracking for bound contexts.
+// ---
+
 #include "ui/gl/gl_gl_api_implementation.h"
 
 #include <array>

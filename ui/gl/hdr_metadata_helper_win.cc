@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows HDR display metadata helper implementation
+// summary: Implements a Windows helper that enumerates monitors via DXGI, caches HDR10 display metadata, picks the brightest monitor, and converts gfx HDR metadata to DXGI format.
+// ---
+
 #include "ui/gl/hdr_metadata_helper_win.h"
 
 #include "base/compiler_specific.h"

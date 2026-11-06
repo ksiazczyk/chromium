@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS GL initializer implementation
+// summary: Implements macOS-specific GL initialization, loading ANGLE libGLESv2 and libEGL dylibs from the bundle or executable directory and binding EGL.
+// ---
+
 #include "ui/gl/init/gl_initializer.h"
 
 #include "base/apple/bundle_locations.h"

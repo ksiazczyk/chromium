@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EGL GL surface implementation
+// summary: Implements EGL-backed GL surfaces, including EGL config selection, sync-control vsync providers, swap timestamp handling, and Android emulator workarounds.
+// ---
+
 #include "ui/gl/gl_surface_egl.h"
 
 #include <stddef.h>

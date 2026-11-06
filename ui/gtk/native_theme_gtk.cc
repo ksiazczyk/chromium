@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GTK native theme painting implementation
+// summary: Implements NativeThemeGtk, painting menu backgrounds, separators, item backgrounds and frame areas by rendering GTK widgets into bitmaps.
+// ---
+
 #include "ui/gtk/native_theme_gtk.h"
 
 #include <algorithm>

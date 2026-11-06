@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GL tracing GUID helpers implementation
+// summary: Implements helper functions that build memory allocator dump GUIDs for GL textures, buffers, and renderbuffers used in tracing.
+// ---
+
 #include "ui/gl/trace_util.h"
 
 #include "base/format_macros.h"

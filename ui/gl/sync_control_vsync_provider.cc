@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncControlVSyncProvider implementation
+// summary: Implements SyncControlVSyncProvider, which computes vsync timebase and interval from sync control values on Linux and ChromeOS while filtering noisy readings.
+// ---
+
 #include "ui/gl/sync_control_vsync_provider.h"
 
 #include <math.h>

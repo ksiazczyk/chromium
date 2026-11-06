@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SwapChainPresenter implementation
+// summary: Implements SwapChainPresenter, which manages D3D11 swap chains and DirectComposition visuals for overlay layers, including video presentation modes, HDR, and protected content.
+// ---
+
 #include "ui/gl/swap_chain_presenter.h"
 
 #include <d3d11_4.h>

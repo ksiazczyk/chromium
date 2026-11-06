@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit test launcher main for the GL test suite
+// summary: Defines the GlTestSuite and main entry point that set up the task environment, mock Mac application, and Ozone single-process mode, then launch GL unit tests.
+// ---
+
 #include <memory>
 
 #include "base/functional/bind.h"

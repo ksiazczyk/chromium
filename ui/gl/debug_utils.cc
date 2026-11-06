@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D3D11 and DXGI debug name utilities
+// summary: Implements SetDebugName helpers that attach debug names to D3D11 device child and DXGI objects via SetPrivateData for ETW debugging.
+// ---
+
 #include "ui/gl/debug_utils.h"
 
 #include <d3d11.h>

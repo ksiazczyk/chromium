@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DXGI VSync thread implementation
+// summary: Implements the DXGI variant of the vsync thread that waits for vblank on the monitor's DXGI output, including a workaround for Windows SV3 per-monitor refresh rates.
+// ---
+
 #include "ui/gl/vsync_thread_win_dxgi.h"
 
 #include "base/logging.h"

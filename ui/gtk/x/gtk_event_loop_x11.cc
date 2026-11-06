@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GTK X11 event loop implementation
+// summary: Implements GtkEventLoopX11, translating GDK key events into X11 key events and enqueueing them so the X11-based event loop can handle them under GTK3 and GTK4.
+// ---
+
 #include "ui/gtk/x/gtk_event_loop_x11.h"
 
 #include <xcb/xcb.h>

@@ -1,0 +1,4 @@
+# Docerion header of gl_display_egl.mm.
+type: source
+title: Apple Metal shared event support for EGL display
+summary: Apple-specific Objective-C++ implementation of GLDisplayEGL Metal shared event creation and waiting via the EGL_ANGLE_metal_shared_event_sync extension.

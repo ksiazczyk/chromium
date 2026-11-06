@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android GL factory implementation
+// summary: Implements the GL factory for Android, creating EGL-based contexts and surfaces and listing allowed GL implementations such as ANGLE GLES and Vulkan.
+// ---
+
 #include "ui/gl/init/gl_factory.h"
 
 #include "base/check_op.h"
