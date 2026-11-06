@@ -1,0 +1,4 @@
+# Docerion header of serverauth.test.
+type: test
+title: 'serverauth.test: server auth verification failure'
+summary: Test case expecting verification to fail under the server auth key purpose because the intermediate's EKU excludes server auth.

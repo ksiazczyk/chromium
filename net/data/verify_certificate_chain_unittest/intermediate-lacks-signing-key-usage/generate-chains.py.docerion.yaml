@@ -1,0 +1,4 @@
+# Docerion header of generate-chains.py.
+type: script
+title: Generate certificate chain with intermediate lacking signing key usage
+summary: Python script that generates a test certificate chain whose intermediate certificate lacks the keyCertSign key usage bit.

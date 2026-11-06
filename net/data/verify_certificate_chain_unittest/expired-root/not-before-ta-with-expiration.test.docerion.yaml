@@ -1,0 +1,4 @@
+# Docerion header of not-before-ta-with-expiration.test.
+type: test
+title: Expired root not-before with trusted anchor with expiration
+summary: Test case verifying the chain at a time before the root's notBefore with TRUSTED_ANCHOR_WITH_EXPIRATION trust, expecting a Time is before notBefore error on the root.

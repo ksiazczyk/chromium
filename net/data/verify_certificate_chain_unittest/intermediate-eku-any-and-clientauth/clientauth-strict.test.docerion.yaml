@@ -1,0 +1,4 @@
+# Docerion header of clientauth-strict.test.
+type: test
+title: 'clientauth-strict.test: chain verification test for strict client auth'
+summary: Defines a verify_certificate_chain unittest case that validates the chain under strict client auth checking and expects no errors.

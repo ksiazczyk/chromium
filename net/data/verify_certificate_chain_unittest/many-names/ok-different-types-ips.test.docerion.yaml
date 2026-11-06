@@ -1,0 +1,4 @@
+# Docerion header of ok-different-types-ips.test.
+type: test
+title: ok-different-types-ips chain test
+summary: Test case expecting the ok-different-types-ips certificate chain to verify successfully with no errors.

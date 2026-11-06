@@ -1,0 +1,4 @@
+# Docerion header of main.test.
+type: test
+title: Test expectations for basic-constraints-pathlen-0-self-issued
+summary: Test case file specifying the chain.pem input, trusted anchor, and expected successful verification for the pathlen-0 self-issued intermediate scenario.

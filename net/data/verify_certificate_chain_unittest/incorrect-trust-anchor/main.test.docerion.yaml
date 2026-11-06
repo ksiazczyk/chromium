@@ -1,0 +1,4 @@
+# Docerion header of main.test.
+type: test
+title: Incorrect trust anchor test case
+summary: Test definition expecting a VerifySignedData error for the intermediate when the chain is verified with the wrong trusted anchor.

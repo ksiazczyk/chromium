@@ -1,0 +1,4 @@
+# Docerion header of redirect-to-invalid-url.html.
+type: data
+title: Redirect to invalid URL HTML fixture
+summary: Response body served for the test where a redirect targets an invalid URL.

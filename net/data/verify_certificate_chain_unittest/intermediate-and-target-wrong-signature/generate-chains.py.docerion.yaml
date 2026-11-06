@@ -1,0 +1,4 @@
+# Docerion header of generate-chains.py.
+type: script
+title: Certificate chain generator for wrong intermediate and target signatures
+summary: Generates a certificate chain where both the intermediate and target certificates are signed with the wrong keys, producing chain.pem for the verify_certificate_chain unittest.

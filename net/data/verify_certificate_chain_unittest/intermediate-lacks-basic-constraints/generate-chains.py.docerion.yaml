@@ -1,0 +1,4 @@
+# Docerion header of generate-chains.py.
+type: script
+title: Certificate chain generator for intermediate lacking basic constraints
+summary: Python script that generates a test certificate chain where the intermediate certificate has no basic constraints extension yet issues an end-entity certificate.

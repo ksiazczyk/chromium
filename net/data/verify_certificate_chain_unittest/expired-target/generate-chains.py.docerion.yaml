@@ -1,0 +1,4 @@
+# Docerion header of generate-chains.py.
+type: script
+title: Expired target certificate chain generator
+summary: Generates a certificate chain whose target certificate has a shorter validity range than the root and intermediate, for expired-target verification tests.

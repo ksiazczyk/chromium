@@ -1,3 +1,9 @@
+---
+type: readme
+title: Certificate chain verification test data directory guide
+summary: Documents the layout of the verify_certificate_chain_unittest test data, including generate-chains.py scripts, keys, .pem chains, and the key/value format of .test expectation files.
+---
+
 This directory contains test data for verifying certificate chains.
 
 Tests are grouped into directories that contain the keys, python to generate

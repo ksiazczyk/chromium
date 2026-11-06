@@ -1,0 +1,4 @@
+# Docerion header of sha1-eku-any.test.
+type: test
+title: SHA-1 chain, any EKU test expectations
+summary: Defines a chain verification test expecting the SHA-1 nsSGC chain to validate successfully when any extended key usage is allowed.

@@ -1,0 +1,4 @@
+# Docerion header of gzip-encoded.mock-http-headers.
+type: data
+title: gzip-encoded mock HTTP headers
+summary: Mock HTTP headers declaring gzip Content-Encoding for compressed response tests.

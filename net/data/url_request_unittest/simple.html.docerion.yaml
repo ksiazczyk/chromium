@@ -1,0 +1,4 @@
+# Docerion header of simple.html.
+type: data
+title: simple.html
+summary: Minimal HTML response body used as a simple fixture in the URLRequest unit tests.

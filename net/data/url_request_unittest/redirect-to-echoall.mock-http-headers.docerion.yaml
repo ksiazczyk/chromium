@@ -1,0 +1,4 @@
+# Docerion header of redirect-to-echoall.mock-http-headers.
+type: data
+title: Redirect to echoall mock HTTP headers
+summary: Mock HTTP headers issuing a 302 redirect to the /echoall/ path.

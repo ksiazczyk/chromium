@@ -1,0 +1,4 @@
+# Docerion header of redirect307-to-https.
+type: data
+title: Redirect 307 to HTTPS response body
+summary: Body served by the mock HTTP server for the URLRequest unit test covering a 307 redirect to an HTTPS URL.

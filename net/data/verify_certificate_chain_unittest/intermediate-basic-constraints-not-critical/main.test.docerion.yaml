@@ -1,0 +1,4 @@
+# Docerion header of main.test.
+type: test
+title: Test case for non-critical intermediate basic constraints chain
+summary: Test definition specifying the chain, trusted anchor, server auth key purpose, and expected errors for verifying a chain with a non-critical intermediate Basic Constraints extension.

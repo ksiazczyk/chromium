@@ -1,0 +1,4 @@
+# Docerion header of redundant-ca.cnf.
+type: config
+title: Redundant CA OpenSSL configuration
+summary: OpenSSL configuration for the default test root CA, specifying signing policy and extensions for end-entity, intermediate, and CRL signing used in redundant test chains.

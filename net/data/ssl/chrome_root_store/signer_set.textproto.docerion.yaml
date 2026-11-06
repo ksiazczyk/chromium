@@ -1,0 +1,4 @@
+# Docerion header of signer_set.textproto.
+type: data
+title: Signer set definition
+summary: Text-format protobuf defining the operators, trusted log issuers, and mirrors that make up the signer set used to generate Chrome's signer set include.

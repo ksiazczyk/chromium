@@ -1,0 +1,4 @@
+# Docerion header of google.pem_pkcs7.p7b.
+type: data
+title: Google test certificate in PEM PKCS7 format
+summary: Google certificate chain wrapped in PEM-encoded PKCS7 format, used to test parsing of different certificate container formats.

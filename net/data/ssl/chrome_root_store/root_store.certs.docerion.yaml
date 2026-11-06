@@ -1,0 +1,4 @@
+# Docerion header of root_store.certs.
+type: data
+title: Chrome root store certificates
+summary: PEM-encoded root certificates referenced by root_store.textproto, each prefixed with its SHA-256 hash and kept in matching order.

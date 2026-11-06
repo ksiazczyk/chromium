@@ -1,0 +1,4 @@
+# Docerion header of serverauth-strict.test.
+type: test
+title: 'serverauth-strict.test: chain verification test for strict server auth'
+summary: Defines a verify_certificate_chain unittest case for strict server auth, expecting a warning and an error that the intermediate EKU lacks server auth.

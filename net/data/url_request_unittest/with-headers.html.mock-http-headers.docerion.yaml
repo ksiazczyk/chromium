@@ -1,0 +1,4 @@
+# Docerion header of with-headers.html.mock-http-headers.
+type: data
+title: with-headers.html.mock-http-headers
+summary: Mock HTTP response headers with Cache-Control, an ISO-8859-1 charset, and repeated X-Multiple-Entries header values.

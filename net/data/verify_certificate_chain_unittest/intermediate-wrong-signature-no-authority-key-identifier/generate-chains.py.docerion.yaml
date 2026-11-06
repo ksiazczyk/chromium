@@ -1,0 +1,4 @@
+# Docerion header of generate-chains.py.
+type: script
+title: Generator for wrong-signature intermediate chain without authorityKeyIdentifier
+summary: Python script that generates a certificate chain whose intermediate is signed by a different key and omits the authorityKeyIdentifier extension, for use as verify_certificate_chain unittest input.

@@ -1,0 +1,4 @@
+# Docerion header of redirect302-to-echo-cacheable.
+type: data
+title: Redirect 302 to echo cacheable body fixture
+summary: Placeholder response body served for the cacheable 302 redirect-to-echo case in URLRequest unit tests.

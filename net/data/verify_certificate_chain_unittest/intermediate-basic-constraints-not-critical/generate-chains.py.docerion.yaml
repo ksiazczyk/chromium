@@ -1,0 +1,4 @@
+# Docerion header of generate-chains.py.
+type: script
+title: Generator for intermediate with non-critical basic constraints chain
+summary: Python script that generates a certificate chain whose intermediate has a Basic Constraints extension not marked as critical, for use in certificate verification tests.

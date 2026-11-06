@@ -1,0 +1,4 @@
+# Docerion header of additional.certs.
+type: data
+title: Additional certificates for the Chrome root store
+summary: PEM certificates referenced by the root store, annotated with trust list sources, SHA-256 hashes, and subject details.

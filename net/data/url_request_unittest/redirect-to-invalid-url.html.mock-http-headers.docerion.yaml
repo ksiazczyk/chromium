@@ -1,0 +1,4 @@
+# Docerion header of redirect-to-invalid-url.html.mock-http-headers.
+type: data
+title: Redirect to invalid URL mock HTTP headers
+summary: Mock HTTP headers issuing a 302 redirect to an invalid URL with embedded credentials.

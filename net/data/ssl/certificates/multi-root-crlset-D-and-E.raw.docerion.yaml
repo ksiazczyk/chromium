@@ -1,0 +1,4 @@
+# Docerion header of multi-root-crlset-D-and-E.raw.
+type: data
+title: CRLSet blocking root SPKIs D and E
+summary: CRLSet test fixture with sequence 1 that blocks two root SPKIs, used in multi-root revocation test scenarios.

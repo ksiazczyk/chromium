@@ -1,3 +1,11 @@
+---
+type: readme
+title: Certificate Blocklist
+summary: Documents the certificates and public keys blocked in Chromium-based products, explains how to add entries via SHA-256 hashes, and records compromises, misissuances, and key leaks by CA.
+relations:
+  - references /net/cert/cert_verify_proc_blocklist.inc
+---
+
 # Certificate Blocklist
 
 This directory contains a number of certificates and public keys which are

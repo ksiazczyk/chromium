@@ -1,0 +1,4 @@
+# Docerion header of generate-chains.py.
+type: script
+title: Chain generator for pathlen-0 self-issued intermediate test
+summary: Python script that generates a certificate chain where an intermediate with pathlen=0 is followed by a self-issued intermediate, writing the result to chain.pem.

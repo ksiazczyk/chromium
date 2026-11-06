@@ -1,0 +1,4 @@
+# Docerion header of sha1-eku-clientAuth-strict.test.
+type: test
+title: SHA-1 chain, strict client auth test expectations
+summary: Defines a chain verification test expecting an error because the intermediate's extended key usage lacks client auth under strict client auth policy.

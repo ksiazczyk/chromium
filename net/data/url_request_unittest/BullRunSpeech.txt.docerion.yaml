@@ -1,0 +1,4 @@
+# Docerion header of BullRunSpeech.txt.
+type: data
+title: Bull Run speech text fixture
+summary: Text of Theodore Roosevelt's 1912 Bull Run speech, used as a large payload in URLRequest unit tests.

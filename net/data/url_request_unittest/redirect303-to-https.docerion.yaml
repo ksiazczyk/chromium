@@ -1,0 +1,4 @@
+# Docerion header of redirect303-to-https.
+type: data
+title: Redirect 303 to HTTPS response body
+summary: Body served by the mock HTTP server for the URLRequest unit test covering a 303 redirect to an HTTPS URL.

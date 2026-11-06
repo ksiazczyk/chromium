@@ -1,0 +1,4 @@
+# Docerion header of generate-chains.py.
+type: script
+title: Expired-root certificate chain generator
+summary: Generates a certificate chain whose root has a shorter validity range than the intermediate and target, for use in verify_certificate_chain unit tests.

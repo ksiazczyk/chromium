@@ -1,0 +1,4 @@
+# Docerion header of test_store.textproto.
+type: test
+title: Chrome Root Store test trust anchors
+summary: Defines test trust anchors and additional certificates for exercising Chrome Root Store verification behavior in tests.

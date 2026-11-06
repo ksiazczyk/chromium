@@ -1,0 +1,4 @@
+# Docerion header of generate_2_client_certs_1_key.sh.
+type: script
+title: PKCS#12 client certificate generator
+summary: Creates a PKCS#12 file containing one private key and two client certificates signed by a generated test CA.

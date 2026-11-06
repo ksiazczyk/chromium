@@ -1,0 +1,4 @@
+# Docerion header of not-before.test.
+type: test
+title: 'Expired intermediate: time before notBefore test'
+summary: Test case verifying that chain validation at a time before the intermediate's notBefore reports a 'Time is before notBefore' error.

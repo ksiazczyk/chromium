@@ -1,0 +1,4 @@
+# Docerion header of generate-test-certs.sh.
+type: script
+title: Test certificate generator
+summary: Generates a set of test root, intermediate and end-entity certificates, including ones for testing intermediate fetching via AIA.

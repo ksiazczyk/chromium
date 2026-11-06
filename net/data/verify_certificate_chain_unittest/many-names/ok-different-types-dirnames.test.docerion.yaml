@@ -1,0 +1,4 @@
+# Docerion header of ok-different-types-dirnames.test.
+type: test
+title: ok-different-types-dirnames chain test
+summary: Test case expecting the ok-different-types-dirnames certificate chain to verify successfully with no errors.

@@ -1,0 +1,4 @@
+# Docerion header of main.test.
+type: test
+title: Test expectations for intermediate lacking signing key usage
+summary: Test case file specifying that verifying chain.pem must fail with an error that the keyCertSign bit is not set on the intermediate.

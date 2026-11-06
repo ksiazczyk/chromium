@@ -1,3 +1,9 @@
+---
+type: guide
+title: Testing the Chrome Root Store and Certificate Verifier
+summary: Manual test steps for verifying the Chrome Root Store and certificate verifier on Windows, macOS, and Android.
+---
+
 # Testing the Chrome Root Store and Certificate Verifier
 Last updated: September 1, 2022
 

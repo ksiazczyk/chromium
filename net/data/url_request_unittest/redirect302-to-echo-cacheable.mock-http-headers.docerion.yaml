@@ -1,0 +1,4 @@
+# Docerion header of redirect302-to-echo-cacheable.mock-http-headers.
+type: data
+title: Redirect 302 to echo cacheable mock HTTP headers
+summary: Mock HTTP response headers answering a 302 redirect to /echo with a cache-control max-age for caching tests.

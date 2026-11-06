@@ -1,0 +1,4 @@
+# Docerion header of redirect-to-data.html.mock-http-headers.
+type: data
+title: Redirect to data URL mock HTTP headers
+summary: Mock HTTP headers issuing a 302 redirect whose Location is a data:text/html URL.

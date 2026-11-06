@@ -1,0 +1,4 @@
+# Docerion header of hsts-headers.html.
+type: data
+title: HSTS headers test page
+summary: Placeholder HTML body for the HSTS headers test; the behavior lives in the mock headers file.

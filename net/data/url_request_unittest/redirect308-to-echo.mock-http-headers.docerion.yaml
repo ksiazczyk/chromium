@@ -1,0 +1,4 @@
+# Docerion header of redirect308-to-echo.mock-http-headers.
+type: data
+title: Redirect 308 to echo mock HTTP headers
+summary: Mock HTTP response headers sending a 308 status with a Location of /echo for URLRequest redirect unit tests.

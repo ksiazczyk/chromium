@@ -1,0 +1,4 @@
+# Docerion header of sha1-eku-serverAuth.test.
+type: test
+title: SHA-1 chain, server auth test expectations
+summary: Defines a chain verification test expecting only a warning about Netscape Server Gated Crypto when the SHA-1 chain is used for server authentication.

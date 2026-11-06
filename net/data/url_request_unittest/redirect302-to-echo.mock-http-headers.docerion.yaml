@@ -1,0 +1,4 @@
+# Docerion header of redirect302-to-echo.mock-http-headers.
+type: data
+title: Redirect 302 to echo mock HTTP headers
+summary: Mock HTTP response headers that answer with a 302 redirect to /echo for URLRequest unit tests.

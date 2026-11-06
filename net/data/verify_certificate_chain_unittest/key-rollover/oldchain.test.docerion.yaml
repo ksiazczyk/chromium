@@ -1,0 +1,4 @@
+# Docerion header of oldchain.test.
+type: test
+title: Old chain test case
+summary: Defines the old chain, trusted anchor, verification time and key purpose, with no expected errors, for the certificate chain verifier unit test.

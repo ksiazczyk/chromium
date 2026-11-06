@@ -1,0 +1,4 @@
+# Docerion header of main.test.
+type: test
+title: Test expectations for SHA1-signed intermediate chain
+summary: Defines verification inputs and the expected error, an unacceptable signature algorithm, for the chain with an intermediate signed using SHA1.

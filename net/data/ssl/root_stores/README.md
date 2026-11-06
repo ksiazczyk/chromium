@@ -1,3 +1,9 @@
+---
+type: readme
+title: Root Stores
+summary: Explains the root store data format and the sources of trust anchors for Android, macOS, Mozilla NSS, and Windows, plus how the generated files are updated.
+---
+
 # Root Stores
 
 This directory contains information about the contents of various platforms'

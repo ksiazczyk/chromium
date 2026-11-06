@@ -1,0 +1,4 @@
+# Docerion header of generate-chains.py.
+type: script
+title: Many-names certificate chain generator
+summary: Python script that generates certificate chains with large numbers of name constraints and subject alternative names for the many-names certificate verification tests.

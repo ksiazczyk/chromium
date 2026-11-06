@@ -1,0 +1,4 @@
+# Docerion header of ok-different-types-dns.test.
+type: test
+title: ok-different-types-dns chain test
+summary: Test case expecting the ok-different-types-dns certificate chain to verify successfully with no errors.

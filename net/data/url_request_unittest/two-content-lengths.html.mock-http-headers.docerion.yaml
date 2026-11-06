@@ -1,0 +1,4 @@
+# Docerion header of two-content-lengths.html.mock-http-headers.
+type: data
+title: two-content-lengths.html.mock-http-headers
+summary: Mock HTTP response headers that include two conflicting Content-Length entries for header handling tests.

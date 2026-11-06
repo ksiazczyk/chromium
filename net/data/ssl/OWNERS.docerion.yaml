@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for net/data/ssl
+summary: Delegates review ownership of the net/data/ssl directory to the owners defined in net/cert/OWNERS and net/ssl/OWNERS.

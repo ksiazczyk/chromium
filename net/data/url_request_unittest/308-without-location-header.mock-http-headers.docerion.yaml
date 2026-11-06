@@ -1,0 +1,4 @@
+# Docerion header of 308-without-location-header.mock-http-headers.
+type: data
+title: 308 without Location header mock HTTP headers
+summary: Mock HTTP headers returning 308 Resume Incomplete without a Location header for redirect handling tests.

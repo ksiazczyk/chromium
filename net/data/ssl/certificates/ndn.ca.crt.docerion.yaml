@@ -1,0 +1,4 @@
+# Docerion header of ndn.ca.crt.
+type: data
+title: New Dream Network CA root certificate
+summary: New Dream Network Certificate Authority root certificate, an X.509 v1 certificate omitting the version field, used to test default version handling.

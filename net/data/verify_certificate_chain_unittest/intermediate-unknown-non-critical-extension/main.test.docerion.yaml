@@ -1,0 +1,4 @@
+# Docerion header of main.test.
+type: test
+title: Test case for chain with unknown non-critical intermediate extension
+summary: Test definition that verifies the chain.pem certificate chain with a trusted anchor and server auth purpose yields no expected errors.

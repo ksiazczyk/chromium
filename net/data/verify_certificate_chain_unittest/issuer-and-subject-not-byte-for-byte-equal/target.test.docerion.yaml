@@ -1,0 +1,4 @@
+# Docerion header of target.test.
+type: test
+title: Target test parameters for issuer-and-subject-not-byte-for-byte-equal chain
+summary: Test parameters verifying a target certificate chain with expected user-constrained policy set and no errors in the issuer-and-subject scenario.

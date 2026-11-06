@@ -1,0 +1,4 @@
+# Docerion header of newchain.test.
+type: test
+title: New chain test case
+summary: Defines the new chain, trusted anchor, verification time and key purpose, with no expected errors, for the certificate chain verifier unit test.

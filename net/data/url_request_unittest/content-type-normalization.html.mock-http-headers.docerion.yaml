@@ -1,0 +1,4 @@
+# Docerion header of content-type-normalization.html.mock-http-headers.
+type: data
+title: Content-Type normalization mock HTTP headers
+summary: Mock HTTP headers with irregular Content-Type casing and spacing to exercise header normalization.

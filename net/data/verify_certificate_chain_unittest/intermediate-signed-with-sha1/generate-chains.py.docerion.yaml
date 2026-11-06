@@ -1,0 +1,4 @@
+# Docerion header of generate-chains.py.
+type: script
+title: Generate certificate chain with intermediate signed using SHA1
+summary: Python script that generates a test certificate chain whose intermediate certificate uses a SHA1 signature algorithm for certificate verification tests.

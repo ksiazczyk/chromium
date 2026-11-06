@@ -1,0 +1,4 @@
+# Docerion header of redirect301-to-https.
+type: data
+title: Redirect 301 to HTTPS body fixture
+summary: Placeholder response body served for the 301 redirect-to-HTTPS case in URLRequest unit tests.

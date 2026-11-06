@@ -1,0 +1,4 @@
+# Docerion header of client-certs.cnf.
+type: config
+title: OpenSSL configuration for client certificate generation
+summary: OpenSSL configuration with request and extension sections for generating SSL client authentication test certificates.

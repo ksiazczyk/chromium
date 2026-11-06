@@ -1,0 +1,4 @@
+# Docerion header of not-after.test.
+type: test
+title: 'Verification test: time after target notAfter'
+summary: Defines a chain verification scenario expecting a 'Time is after notAfter' error when the target certificate has expired.

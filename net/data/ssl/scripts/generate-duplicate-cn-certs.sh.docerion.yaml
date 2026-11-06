@@ -1,0 +1,4 @@
+# Docerion header of generate-duplicate-cn-certs.sh.
+type: script
+title: Generator for duplicate common name test certificates
+summary: Shell script generating two certificate chains that share a key and common name but differ in organization, to test unique certificate nicknames.

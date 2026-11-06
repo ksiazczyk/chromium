@@ -1,0 +1,4 @@
+# Docerion header of generate-chains.py.
+type: script
+title: Incorrect trust anchor chain generator
+summary: Python script that generates a certificate chain whose saved root is a bogus self-signed certificate unrelated to the key that actually signed the intermediate.

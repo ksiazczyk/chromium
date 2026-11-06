@@ -1,0 +1,4 @@
+# Docerion header of redirect-test.html.
+type: data
+title: Redirect test HTML fixture
+summary: Response body served for the URLRequest redirect test that follows a 302 to with-headers.html.

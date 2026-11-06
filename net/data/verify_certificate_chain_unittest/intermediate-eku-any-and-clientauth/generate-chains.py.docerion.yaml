@@ -1,0 +1,4 @@
+# Docerion header of generate-chains.py.
+type: script
+title: Certificate chain generator for the EKU any and clientAuth tests
+summary: Python script that generates a root, an intermediate with clientAuth plus anyExtendedKeyUsage, and a target with serverAuth plus clientAuth, writing chain.pem.
