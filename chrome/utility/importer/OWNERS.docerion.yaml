@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Import directory owners and review rules
+summary: Assigns per-file owners for NSS decryption logic and routes mojom file changes to IPC security owners.

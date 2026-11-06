@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safari importer class header
+// summary: Declares the SafariImporter class, an Importer subclass that imports bookmarks and history from Safari on macOS using a given ~/Library directory path.
+// ---
+
 #ifndef CHROME_UTILITY_IMPORTER_SAFARI_IMPORTER_H_
 #define CHROME_UTILITY_IMPORTER_SAFARI_IMPORTER_H_
 

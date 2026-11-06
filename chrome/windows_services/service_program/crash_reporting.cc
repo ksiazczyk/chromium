@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crash reporting client implementation
+// summary: Implements the crashpad client for service programs, covering crash database locations, stats consent from the registry and crash key updates.
+// ---
+
 #include "chrome/windows_services/service_program/crash_reporting.h"
 
 #include <objidl.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NSS decryptor Windows header
+// summary: Declares the Windows NSSDecryptor class along with NSS library types and function pointer typedefs for Firefox password decryption.
+// ---
+
 #ifndef CHROME_UTILITY_IMPORTER_NSS_DECRYPTOR_WIN_H_
 #define CHROME_UTILITY_IMPORTER_NSS_DECRYPTOR_WIN_H_
 

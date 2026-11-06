@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session registry header
+// summary: Declares SessionRegistry, a process-global registry allowing only one active tracing session and monitoring its client process for termination.
+// ---
+
 #ifndef CHROME_WINDOWS_SERVICES_ELEVATED_TRACING_SERVICE_SESSION_REGISTRY_H_
 #define CHROME_WINDOWS_SERVICES_ELEVATED_TRACING_SERVICE_SESSION_REGISTRY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test DIB creation helper
+// summary: Header providing CreateTestDIB24, an inline helper that creates 24 bpp DIB sections for pixel-level checks in UI tests.
+// ---
+
 #ifndef CHROME_UPDATER_WIN_UI_UI_TEST_UTIL_H_
 #define CHROME_UPDATER_WIN_UI_UI_TEST_UTIL_H_
 

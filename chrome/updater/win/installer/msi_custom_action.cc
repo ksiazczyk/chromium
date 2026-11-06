@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MSI custom action implementation
+// summary: Implements MSI custom actions that read tag information from the installer and surface the last installer result as a UI string.
+// ---
+
 #include "chrome/updater/win/installer/msi_custom_action.h"
 
 #include <windows.h>

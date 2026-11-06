@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: External process importer bridge implementation
+// summary: Implements the importer bridge that sends bookmarks, favicons, history and other import data in chunks over IPC to the browser process.
+// ---
+
 #include "chrome/utility/importer/external_process_importer_bridge.h"
 
 #include <algorithm>

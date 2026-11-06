@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows COM service runner implementation
+// summary: Implements the Service class that runs a Windows service hosting a COM server, handling SCM handshake, control requests, and interactive console mode.
+// ---
+
 #include "chrome/windows_services/service_program/service.h"
 
 #include <objidl.h>

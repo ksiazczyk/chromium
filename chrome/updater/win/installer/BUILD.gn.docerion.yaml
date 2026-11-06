@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the Windows updater installer
+summary: Defines GN targets for the installer library, MSI custom action DLL, runtime deps, and installer archive generation used by the Windows updater build.

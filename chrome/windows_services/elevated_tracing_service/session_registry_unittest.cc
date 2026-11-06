@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Session registry unit tests
+// summary: Tests that only one session can be registered at a time and that client termination clears the session so a new one can register.
+// ---
+
 #include "chrome/windows_services/elevated_tracing_service/session_registry.h"
 
 #include <windows.h>

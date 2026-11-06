@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Firefox importer
+// summary: Declares FirefoxImporter, the importer for Mozilla Firefox profiles that reads bookmarks, favicons, history and other data from places databases.
+// ---
+
 #ifndef CHROME_UTILITY_IMPORTER_FIREFOX_IMPORTER_H_
 #define CHROME_UTILITY_IMPORTER_FIREFOX_IMPORTER_H_
 

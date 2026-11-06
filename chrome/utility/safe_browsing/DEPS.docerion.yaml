@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for safe_browsing utility
+summary: Defines allowed include paths for the directory, covering sandbox, zlib, safe browsing, lzma, unrar and maldoca dependencies.

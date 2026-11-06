@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HFS+ filesystem iterator interface
+// summary: Declares HFSIterator, a read-only iterator over files in an HFS+ or HFSX filesystem, noting deliberate limitations such as no journal replay or resource fork access.
+// ---
+
 #ifndef CHROME_UTILITY_SAFE_BROWSING_MAC_HFS_H_
 #define CHROME_UTILITY_SAFE_BROWSING_MAC_HFS_H_
 

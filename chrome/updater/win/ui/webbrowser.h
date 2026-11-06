@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MSHTML WebBrowser control wrapper header
+// summary: Declares the WebBrowser class that wraps the MSHTML WebBrowser control for navigation, script evaluation, and window management.
+// ---
+
 #ifndef CHROME_UPDATER_WIN_UI_WEBBROWSER_H_
 #define CHROME_UPDATER_WIN_UI_WEBBROWSER_H_
 

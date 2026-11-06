@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Updater installer main entry point
+// summary: Windows wWinMain entry point that sets up the exit manager and runs the updater installer main routine.
+// ---
+
 #include <windows.h>
 
 #include <string>

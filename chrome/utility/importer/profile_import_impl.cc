@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile import Mojo service implementation
+// summary: Implements the ProfileImport Mojo service, running the importer on a worker thread and reporting progress back to the browser process.
+// ---
+
 #include "chrome/utility/importer/profile_import_impl.h"
 
 #include <memory>

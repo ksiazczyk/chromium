@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service delegate interface
+// summary: Defines the ServiceDelegate interface used to customize event logging, class factories, and run behavior of a Windows COM service.
+// ---
+
 #ifndef CHROME_WINDOWS_SERVICES_SERVICE_PROGRAM_SERVICE_DELEGATE_H_
 #define CHROME_WINDOWS_SERVICES_SERVICE_PROGRAM_SERVICE_DELEGATE_H_
 

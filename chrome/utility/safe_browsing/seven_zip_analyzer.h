@@ -5,6 +5,12 @@
 // This file contains the 7z file analysis implementation for download
 // protection, which runs in a sandboxed utility process.
 
+// ---docerion
+// type: source
+// title: SevenZipAnalyzer for 7z download protection analysis
+// summary: Declares SevenZipAnalyzer, which analyzes 7z archives for download protection in a sandboxed utility process.
+// ---
+
 #ifndef CHROME_UTILITY_SAFE_BROWSING_SEVEN_ZIP_ANALYZER_H_
 #define CHROME_UTILITY_SAFE_BROWSING_SEVEN_ZIP_ANALYZER_H_
 

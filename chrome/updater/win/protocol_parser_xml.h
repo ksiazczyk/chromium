@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XML protocol parser for offline installers
+// summary: Declares ProtocolParserXML, which parses offline installer XML manifests into apps, manifests, data, and system requirements.
+// ---
+
 #ifndef CHROME_UPDATER_WIN_PROTOCOL_PARSER_XML_H_
 #define CHROME_UPDATER_WIN_PROTOCOL_PARSER_XML_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Installer configuration parsing implementation
+// summary: Implements the Configuration class that reads command-line switches such as --system-level and --cleanup plus the GoogleUpdateIsMachine environment variable.
+// ---
+
 #include "chrome/updater/win/installer/configuration.h"
 
 #include <windows.h>

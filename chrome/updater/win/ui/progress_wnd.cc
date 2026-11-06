@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Progress window implementation
+// summary: Implements the Win32 progress window for the updater installer, including dark and high-contrast mode subclassing, bitmap statics, and app completion UI.
+// ---
+
 #include "chrome/updater/win/ui/progress_wnd.h"
 
 #include <windows.h>

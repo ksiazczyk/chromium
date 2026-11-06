@@ -1,3 +1,9 @@
+---
+type: readme
+title: Elevated Tracing Service
+summary: Explains the Windows service that turns system-wide ETW events into Perfetto trace events, covering installation, process lifecycle and session activation.
+---
+
 # Elevated Tracing Service
 
 [TOC]

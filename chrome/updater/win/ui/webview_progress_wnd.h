@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Webview progress window header
+// summary: Declares the WebviewProgressWnd class, an HTML/JS/CSS based progress window that extends AppInstallProgress with callbacks for checking, downloading, installing, and completion events.
+// ---
+
 #ifndef CHROME_UPDATER_WIN_UI_WEBVIEW_PROGRESS_WND_H_
 #define CHROME_UPDATER_WIN_UI_WEBVIEW_PROGRESS_WND_H_
 

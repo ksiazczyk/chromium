@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows updater setup utility implementation
+// summary: Implements helpers for the Windows updater setup, including scheduled task lookup, COM interface and typelib registration, and wake task unregistration.
+// ---
+
 #include "chrome/updater/win/setup/setup_util.h"
 
 #include <windows.h>

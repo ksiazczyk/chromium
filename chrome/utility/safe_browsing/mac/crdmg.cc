@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SafeDMG command-line tool
+// summary: Implements crdmg, a sandboxed utility that lists or extracts the contents of untrusted DMG files.
+// ---
+
 #include <errno.h>
 #include <fcntl.h>
 #include <limits.h>

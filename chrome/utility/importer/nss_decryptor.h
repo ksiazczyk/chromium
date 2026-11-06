@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NSS decryptor platform selector
+// summary: Header that includes the Windows or system NSS implementation of NSSDecryptor depending on the build platform.
+// ---
+
 #ifndef CHROME_UTILITY_IMPORTER_NSS_DECRYPTOR_H_
 #define CHROME_UTILITY_IMPORTER_NSS_DECRYPTOR_H_
 

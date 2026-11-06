@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped impersonation class
+// summary: Declares a scoped helper that impersonates a user token for its lifetime on Windows.
+// ---
+
 #ifndef CHROME_UPDATER_WIN_SCOPED_IMPERSONATION_H_
 #define CHROME_UPDATER_WIN_SCOPED_IMPERSONATION_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UDIF disk image parser header
+// summary: Declares UDIFParser, which parses Universal Disk Image Format (DMG) files to expose partition names, types, sizes and data streams for Safe Browsing analysis.
+// ---
+
 #ifndef CHROME_UTILITY_SAFE_BROWSING_MAC_UDIF_H_
 #define CHROME_UTILITY_SAFE_BROWSING_MAC_UDIF_H_
 

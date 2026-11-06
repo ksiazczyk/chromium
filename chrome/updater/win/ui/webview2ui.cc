@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebView2 UI wrapper implementation
+// summary: Implements asynchronous WebView2 environment and controller creation, navigation, script execution, and event handler registration and cleanup.
+// ---
+
 #include "chrome/updater/win/ui/webview2ui.h"
 
 #include <windows.h>

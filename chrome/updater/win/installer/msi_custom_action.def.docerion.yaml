@@ -1,0 +1,4 @@
+# Docerion header of msi_custom_action.def.
+type: config
+title: MSI custom action DLL exports
+summary: Module definition file listing the exported custom action entry points for the MSI custom action DLL.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the WebView2 progress window
+// summary: Verifies the embedded progress page loads and that initialization fails when the WebView2 runtime is missing, enabling UI fallback.
+// ---
+
 #include "chrome/updater/win/ui/webview2_progress_wnd.h"
 
 #include <windows.h>

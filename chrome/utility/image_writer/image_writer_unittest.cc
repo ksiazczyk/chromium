@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ImageWriter unit tests
+// summary: GTest suite for the image writer utility that checks write, verify, and error paths using temporary files and mock progress handlers.
+// ---
+
 #include <stdint.h>
 #include <string.h>
 

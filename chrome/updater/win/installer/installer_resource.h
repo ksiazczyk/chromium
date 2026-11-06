@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Installer resource ID definitions
+// summary: Defines Windows resource identifiers for the mini installer icon and logo bitmap used by the installer resources.
+// ---
+
 #ifndef CHROME_UPDATER_WIN_INSTALLER_INSTALLER_RESOURCE_H_
 #define CHROME_UPDATER_WIN_INSTALLER_INSTALLER_RESOURCE_H_
 

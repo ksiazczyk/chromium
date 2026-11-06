@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for Windows updater test targets
+summary: GN build file defining test-only source sets and the updater_test_process executable for the Windows updater test helpers.

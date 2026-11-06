@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows updater setup implementation
+// summary: Implements the updater installation flow, copying setup files into the versioned install directory and creating registry keys via work items.
+// ---
+
 #include "chrome/updater/win/setup/win_setup.h"
 
 #include <shlobj.h>

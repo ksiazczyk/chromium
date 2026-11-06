@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CompleteWnd completion dialog implementation
+// summary: Implements the completion window that shows success or error text, an optional get-help link, and a close button for the updater UI.
+// ---
+
 #include "chrome/updater/win/ui/complete_wnd.h"
 
 #include <string>

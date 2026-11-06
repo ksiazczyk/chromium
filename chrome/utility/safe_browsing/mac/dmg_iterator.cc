@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DMG iterator implementation
+// summary: Implements iteration over concrete files in the HFS+ and HFSX partitions of a DMG file.
+// ---
+
 #include "chrome/utility/safe_browsing/mac/dmg_iterator.h"
 
 #include <memory>

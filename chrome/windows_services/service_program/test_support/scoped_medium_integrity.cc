@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedMediumIntegrity implementation
+// summary: Impersonates a medium integrity LUA token for the current thread during tests and reverts to self on destruction.
+// ---
+
 #include "chrome/windows_services/service_program/test_support/scoped_medium_integrity.h"
 
 #include <windows.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PE resource class declaration
+// summary: Declares PEResource, a helper for finding a Windows PE resource by name and type and writing its contents to disk.
+// ---
+
 #ifndef CHROME_UPDATER_WIN_INSTALLER_PE_RESOURCE_H_
 #define CHROME_UPDATER_WIN_INSTALLER_PE_RESOURCE_H_
 

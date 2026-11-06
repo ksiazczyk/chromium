@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service delegate class declaration
+// summary: Declares the Delegate class extending ServiceDelegate with class factory creation, logging hooks and IPC support members.
+// ---
+
 #ifndef CHROME_WINDOWS_SERVICES_ELEVATED_TRACING_SERVICE_ELEVATED_TRACING_SERVICE_DELEGATE_H_
 #define CHROME_WINDOWS_SERVICES_ELEVATED_TRACING_SERVICE_ELEVATED_TRACING_SERVICE_DELEGATE_H_
 

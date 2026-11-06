@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for installer configuration parsing
+// summary: Tests that --cleanup selects the CLEANUP operation and that --system-level and the GoogleUpdateIsMachine variable control the system-level flag.
+// ---
+
 #include "chrome/updater/win/installer/configuration.h"
 
 #include <memory>

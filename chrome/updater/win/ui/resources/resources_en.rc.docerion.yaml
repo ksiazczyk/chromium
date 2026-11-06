@@ -1,0 +1,4 @@
+# Docerion header of resources_en.rc.
+type: source
+title: Updater UI Windows resource script (English)
+summary: Windows resource script that binds icons and bitmaps and lays out the updater progress and install-stopped dialogs in English.

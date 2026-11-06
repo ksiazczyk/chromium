@@ -1,3 +1,9 @@
+<!--docerion
+type: source
+title: Enterprise standalone installer WiX definition
+summary: WiX source defining the MSI package for the enterprise standalone updater installer, including upgrade, uninstall, and custom action logic.
+-->
+
 <Wix xmlns="http://wixtoolset.org/schemas/v4/wxs">
   <?define Copyright = '$(var.ProductOriginalVersionString) Copyright $(var.ProductBuildYear) $(var.CompanyFullName)'?>
   <?define UpdateKeyPath = 'SOFTWARE\$(var.CompanyName)\Update'?>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmarks file importer class declaration
+// summary: Declares the BookmarksFileImporter class that imports favorites from a bookmarks HTML file using a Mojo bookmark HTML parser.
+// ---
+
 #ifndef CHROME_UTILITY_IMPORTER_BOOKMARKS_FILE_IMPORTER_H_
 #define CHROME_UTILITY_IMPORTER_BOOKMARKS_FILE_IMPORTER_H_
 

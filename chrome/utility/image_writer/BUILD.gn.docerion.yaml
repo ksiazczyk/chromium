@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Image writer build targets (BUILD.gn)
+summary: Defines the image_writer source set with platform-specific sources and a unit_tests target for the Chrome utility image writer.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service integration implementation
+// summary: Implements GetStorageDirBasename, building the storage directory name from the product path name and install suffix.
+// ---
+
 #include "chrome/windows_services/elevated_tracing_service/service_integration.h"
 
 #include <string_view>

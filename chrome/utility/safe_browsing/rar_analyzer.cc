@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RAR archive analyzer implementation
+// summary: Implements RAR analysis for download protection, extracting entries via unrar, tracking encryption status and reporting analysis results.
+// ---
+
 #include "chrome/utility/safe_browsing/rar_analyzer.h"
 
 #include <memory>

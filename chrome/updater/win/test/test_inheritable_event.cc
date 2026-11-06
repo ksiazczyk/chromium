@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Inheritable waitable event creation
+// summary: Implements creation of a Windows waitable event with an inheritable handle for use in updater tests.
+// ---
+
 #include "chrome/updater/win/test/test_inheritable_event.h"
 
 #include <windows.h>

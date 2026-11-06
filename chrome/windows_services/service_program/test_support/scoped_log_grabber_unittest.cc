@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unit tests for ScopedLogGrabber
+// summary: Multiprocess tests verifying that log messages from child processes are captured and emitted to the test process's stderr.
+// ---
+
 #include "chrome/windows_services/service_program/test_support/scoped_log_grabber.h"
 
 #include <windows.h>

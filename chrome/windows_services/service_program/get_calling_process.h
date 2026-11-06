@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GetCallingProcess declaration
+// summary: Declares GetCallingProcess, which returns a base::Process for the caller of an inbound RPC call with the requested access rights.
+// ---
+
 #ifndef CHROME_WINDOWS_SERVICES_SERVICE_PROGRAM_GET_CALLING_PROCESS_H_
 #define CHROME_WINDOWS_SERVICES_SERVICE_PROGRAM_GET_CALLING_PROCESS_H_
 

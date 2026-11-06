@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Safe Browsing utility build targets
+summary: GN build file defining the safe_browsing source set with platform-specific and unrar-conditional sources and dependencies.

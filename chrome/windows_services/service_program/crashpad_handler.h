@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crashpad handler process entry declaration
+// summary: Declares RunAsCrashpadHandlerIfRequired, which returns the exit code when the process runs as a crashpad handler and nullopt otherwise.
+// ---
+
 #ifndef CHROME_WINDOWS_SERVICES_SERVICE_PROGRAM_CRASHPAD_HANDLER_H_
 #define CHROME_WINDOWS_SERVICES_SERVICE_PROGRAM_CRASHPAD_HANDLER_H_
 

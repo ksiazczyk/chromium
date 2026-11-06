@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DMG analyzer implementation
+// summary: Analyzes DMG archives for Safe Browsing, hashing files and extracting Mach-O binary features.
+// ---
+
 #include "chrome/utility/safe_browsing/mac/dmg_analyzer.h"
 
 #include <stddef.h>

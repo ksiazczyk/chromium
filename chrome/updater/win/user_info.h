@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows user and SID helper interface
+// summary: Declares functions to get process user details, check for NT AUTHORITY\SYSTEM, and read the impersonating thread's user SID.
+// ---
+
 #ifndef CHROME_UPDATER_WIN_USER_INFO_H_
 #define CHROME_UPDATER_WIN_USER_INFO_H_
 

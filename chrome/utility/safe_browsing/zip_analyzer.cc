@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ZIP analyzer implementation for download protection
+// summary: Implements ZipAnalyzer, extracting ZIP entries and reporting encryption, paths and file results for Safe Browsing download protection.
+// ---
+
 #include "chrome/utility/safe_browsing/zip_analyzer.h"
 
 #include <stddef.h>

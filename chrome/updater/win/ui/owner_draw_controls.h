@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Owner-drawn UI controls declaration
+// summary: Declares tracked and caption buttons plus the owner-drawn title bar used to render the updater's custom window chrome.
+// ---
+
 #ifndef CHROME_UPDATER_WIN_UI_OWNER_DRAW_CONTROLS_H_
 #define CHROME_UPDATER_WIN_UI_OWNER_DRAW_CONTROLS_H_
 

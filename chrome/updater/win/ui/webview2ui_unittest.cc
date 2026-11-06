@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the WebView2 UI wrapper
+// summary: Tests that WebView2 creation fails synchronously without a parent window or without the WebView2 runtime installed.
+// ---
+
 #include "chrome/updater/win/ui/webview2ui.h"
 
 #include <windows.h>

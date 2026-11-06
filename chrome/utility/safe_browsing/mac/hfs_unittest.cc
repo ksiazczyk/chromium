@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the HFS+ filesystem iterator
+// summary: Verifies HFSIterator against HFS+ and HFSX test images, checking directory and file paths, case sensitivity, and reading file data forks.
+// ---
+
 #include "chrome/utility/safe_browsing/mac/hfs.h"
 
 #include <libkern/OSByteOrder.h>

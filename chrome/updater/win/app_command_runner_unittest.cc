@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App command runner unit tests
+// summary: Unit tests for AppCommandRunner covering command format validation, registry loading, and process execution using registry overrides and a temp directory.
+// ---
+
 #include "chrome/updater/win/app_command_runner.h"
 
 #include <windows.h>

@@ -1,0 +1,4 @@
+# Docerion header of msi_from_standalone.py.
+type: source
+title: MSI builder for standalone installers
+summary: Python script that wraps a supplied offline or standalone installer into an enterprise MSI using WiX, generating stable name-based GUIDs and build defines.

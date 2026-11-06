@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DMG iterator class declaration
+// summary: Declares DMGIterator, which provides iterator access to files inside UDIF/DMG images.
+// ---
+
 #ifndef CHROME_UTILITY_SAFE_BROWSING_MAC_DMG_ITERATOR_H_
 #define CHROME_UTILITY_SAFE_BROWSING_MAC_DMG_ITERATOR_H_
 

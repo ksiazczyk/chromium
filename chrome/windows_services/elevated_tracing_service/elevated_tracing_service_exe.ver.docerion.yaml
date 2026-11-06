@@ -1,0 +1,4 @@
+# Docerion header of elevated_tracing_service_exe.ver.
+type: config
+title: Version resource values for the executable
+summary: Supplies the internal name and original filename used to generate the executable's version resource.

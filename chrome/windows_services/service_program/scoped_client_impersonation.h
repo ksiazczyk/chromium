@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped client impersonation header
+// summary: Declares ScopedClientImpersonation, a helper for temporarily impersonating the COM client during a server call.
+// ---
+
 #ifndef CHROME_WINDOWS_SERVICES_SERVICE_PROGRAM_SCOPED_CLIENT_IMPERSONATION_H_
 #define CHROME_WINDOWS_SERVICES_SERVICE_PROGRAM_SCOPED_CLIENT_IMPERSONATION_H_
 

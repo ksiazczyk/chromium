@@ -1,0 +1,4 @@
+# Docerion header of resources.grh.
+type: source
+title: Updater UI resource identifiers
+summary: Defines numeric resource IDs for icons, bitmaps, dialogs, controls, WebView2 pages, and updater typelibs.

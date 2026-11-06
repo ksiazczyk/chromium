@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service integration header
+// summary: Declares GetStorageDirBasename, which names the directory under C:\Windows\SystemTemp holding persistent state such as crashpad databases.
+// ---
+
 #ifndef CHROME_WINDOWS_SERVICES_ELEVATED_TRACING_SERVICE_SERVICE_INTEGRATION_H_
 #define CHROME_WINDOWS_SERVICES_ELEVATED_TRACING_SERVICE_SERVICE_INTEGRATION_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Import directory include dependency rules
+summary: Defines the include rules listing which components the importer utility code is allowed to depend on.

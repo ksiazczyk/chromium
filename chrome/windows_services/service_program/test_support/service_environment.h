@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ServiceEnvironment test helper header
+// summary: Declares ServiceEnvironment, an RAII class that installs a test service with given name, executable, switches, and COM class and interface IDs, and exposes access to the running service and log callbacks.
+// ---
+
 #ifndef CHROME_WINDOWS_SERVICES_SERVICE_PROGRAM_TEST_SUPPORT_SERVICE_ENVIRONMENT_H_
 #define CHROME_WINDOWS_SERVICES_SERVICE_PROGRAM_TEST_SUPPORT_SERVICE_ENVIRONMENT_H_
 

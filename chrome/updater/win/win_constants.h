@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows registry and updater constants
+// summary: Defines registry keys, value names, environment variables, and OEM audit-mode constants used by the Windows updater.
+// ---
+
 #ifndef CHROME_UPDATER_WIN_WIN_CONSTANTS_H_
 #define CHROME_UPDATER_WIN_WIN_CONSTANTS_H_
 

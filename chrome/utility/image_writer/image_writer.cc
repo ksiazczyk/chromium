@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Image writer write and verify logic
+// summary: Implements chunked writing and verification of a disk image to a device, with progress reporting, cancellation, and error handling.
+// ---
+
 #include "chrome/utility/image_writer/image_writer.h"
 
 #include <string.h>

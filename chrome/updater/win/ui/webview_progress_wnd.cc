@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Webview progress window implementation
+// summary: Implements a webview-based installer progress window that renders an embedded HTML page with a progress bar and cancel button, and forwards update events to the page via JavaScript.
+// ---
+
 #include "chrome/updater/win/ui/webview_progress_wnd.h"
 
 #include <string>

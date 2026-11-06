@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Main for the updater test process executable
+// summary: Entry point of updater_test_process that handles switches to sleep, signal or wait on events, and exit with a given code during tests.
+// ---
+
 #include <windows.h>
 
 #include <shlobj.h>

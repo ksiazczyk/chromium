@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing ZIP writer delegate interface
+// summary: Defines SafeBrowsingZipWriterDelegate, an interface for writing extracted ZIP entries with disk error and file length reporting.
+// ---
+
 #ifndef CHROME_UTILITY_SAFE_BROWSING_ZIP_WRITER_DELEGATE_H_
 #define CHROME_UTILITY_SAFE_BROWSING_ZIP_WRITER_DELEGATE_H_
 

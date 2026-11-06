@@ -1,0 +1,4 @@
+# Docerion header of sign.py.
+type: source
+title: Updater metainstaller signing utility
+summary: Python utility that signs the updater metainstaller and can package and sign offline installers, applying tag and manifest replacements.

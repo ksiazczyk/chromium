@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Archive analyzer base implementation
+// summary: Implements the ArchiveAnalyzer base class, creating analyzers per archive type and handling nested archive recursion and result updates.
+// ---
+
 #include "chrome/utility/safe_browsing/archive_analyzer.h"
 
 #include "base/feature_list.h"

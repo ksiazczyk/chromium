@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Updater UI resources build file
+summary: Defines GN targets that bundle the updater Windows UI resources and generate embedded localized installer strings.

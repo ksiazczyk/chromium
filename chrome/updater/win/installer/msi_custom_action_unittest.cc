@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MSI custom action unit tests
+// summary: Parameterized tests for MSI tag extraction and installer result handling using a mocked MSI handle and tagged MSI test files.
+// ---
+
 #include "chrome/updater/win/installer/msi_custom_action.h"
 
 #include <string>

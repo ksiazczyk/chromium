@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Edge database reader class declarations
+// summary: Declares classes for opening Edge ESE databases, enumerating table rows, and retrieving column values through the Jet/ESent API.
+// ---
+
 #ifndef CHROME_UTILITY_IMPORTER_EDGE_DATABASE_READER_WIN_H_
 #define CHROME_UTILITY_IMPORTER_EDGE_DATABASE_READER_WIN_H_
 

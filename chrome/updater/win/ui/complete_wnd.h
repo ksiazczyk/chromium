@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CompleteWnd completion dialog class declaration
+// summary: Declares the CompleteWnd dialog class and its CompleteWndEvents sink interface for displaying update completion or error results.
+// ---
+
 #ifndef CHROME_UPDATER_WIN_UI_COMPLETE_WND_H_
 #define CHROME_UPDATER_WIN_UI_COMPLETE_WND_H_
 

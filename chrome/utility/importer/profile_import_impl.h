@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile import Mojo service header
+// summary: Declares ProfileImportImpl, the utility-process handler for profile import requests received over Mojo.
+// ---
+
 #ifndef CHROME_UTILITY_IMPORTER_PROFILE_IMPORT_IMPL_H_
 #define CHROME_UTILITY_IMPORTER_PROFILE_IMPORT_IMPL_H_
 

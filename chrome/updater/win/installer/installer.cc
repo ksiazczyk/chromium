@@ -11,6 +11,12 @@
 // LZMA file, which is further compressed as one file, and inserted as a
 // binary resource in the resource section of the setup program.
 
+// ---docerion
+// type: source
+// title: Main implementation of the Windows updater mini installer
+// summary: Implements the setup executable that unpacks archived resources, extracts the tag, shows a splash screen, and runs updater.exe with install flags.
+// ---
+
 #include "chrome/updater/win/installer/installer.h"
 
 #include <shellapi.h>

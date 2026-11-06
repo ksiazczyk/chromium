@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedMockContext implementation
+// summary: Installs a mock IServerSecurity COM call context so production code calling CoImpersonateClient succeeds under test.
+// ---
+
 #include "chrome/windows_services/service_program/test_support/scoped_mock_context.h"
 
 #include <objbase.h>

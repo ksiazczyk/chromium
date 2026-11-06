@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crashpad handler process entry
+// summary: Runs the current process as a crashpad handler when the command line specifies the crashpad-handler process type.
+// ---
+
 #include "chrome/windows_services/service_program/crashpad_handler.h"
 
 #include "base/command_line.h"

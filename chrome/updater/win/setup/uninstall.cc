@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows updater uninstall implementation
+// summary: Implements updater uninstallation by deleting COM servers, services, interfaces, client state keys, and other registry and filesystem remnants.
+// ---
+
 #include "chrome/updater/win/setup/uninstall.h"
 
 #include <windows.h>

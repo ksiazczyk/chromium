@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome content utility client implementation
+// summary: Implements the Chrome utility process client, setting up profilers and registering main and IO thread services.
+// ---
+
 #include "chrome/utility/chrome_content_utility_client.h"
 
 #include <stddef.h>

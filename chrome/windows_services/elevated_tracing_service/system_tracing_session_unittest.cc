@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: System tracing session unit tests
+// summary: Unit tests verifying the service delegate's event log values, that COM aggregation is rejected, and that AcceptInvitation validates its arguments.
+// ---
+
 #include "chrome/windows_services/elevated_tracing_service/system_tracing_session.h"
 
 #include <stdint.h>

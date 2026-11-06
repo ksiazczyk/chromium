@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Inheritable waitable event declaration
+// summary: Declares CreateInheritableEvent, which creates a waitable event whose handle can be inherited by child processes.
+// ---
+
 #ifndef CHROME_UPDATER_WIN_TEST_TEST_INHERITABLE_EVENT_H_
 #define CHROME_UPDATER_WIN_TEST_TEST_INHERITABLE_EVENT_H_
 

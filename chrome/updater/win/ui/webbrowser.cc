@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MSHTML WebBrowser control wrapper implementation
+// summary: Implements a window-hosted MSHTML WebBrowser control that supports navigation, JavaScript evaluation, and title and size updates.
+// ---
+
 #include "chrome/updater/win/ui/webbrowser.h"
 
 #include <wrl/client.h>

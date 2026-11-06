@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WRL module helpers declaration
+// summary: Declares CreateWrlModule for the process-wide out-of-process WRL module and SetModuleReleasedCallback for shutdown hooks.
+// ---
+
 #ifndef CHROME_WINDOWS_SERVICES_SERVICE_PROGRAM_PROCESS_WRL_MODULE_H_
 #define CHROME_WINDOWS_SERVICES_SERVICE_PROGRAM_PROCESS_WRL_MODULE_H_
 

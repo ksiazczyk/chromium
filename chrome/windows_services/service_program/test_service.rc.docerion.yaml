@@ -1,0 +1,4 @@
+# Docerion header of test_service.rc.
+type: source
+title: Test service resource script
+summary: Visual C++ resource script that embeds the test service type library into the test service binary.

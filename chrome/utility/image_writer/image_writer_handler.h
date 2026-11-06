@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Removable storage writer Mojo handler header
+// summary: Declares ImageWriterHandler, which receives write and verify requests over Mojo and forwards status messages back to the client.
+// ---
+
 #ifndef CHROME_UTILITY_IMAGE_WRITER_IMAGE_WRITER_HANDLER_H_
 #define CHROME_UTILITY_IMAGE_WRITER_IMAGE_WRITER_HANDLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Edge importer for Windows
+// summary: Declares EdgeImporter, which imports favorites and favicons from Microsoft Edge's Spartan database on Windows.
+// ---
+
 #ifndef CHROME_UTILITY_IMPORTER_EDGE_IMPORTER_WIN_H_
 #define CHROME_UTILITY_IMPORTER_EDGE_IMPORTER_WIN_H_
 

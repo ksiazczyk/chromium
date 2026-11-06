@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Process watcher unit tests
+// summary: Tests that ProcessWatcher runs its callback when the watched child process exits and does not run it when the watcher is destroyed first.
+// ---
+
 #include "chrome/windows_services/elevated_tracing_service/process_watcher.h"
 
 #include "base/run_loop.h"

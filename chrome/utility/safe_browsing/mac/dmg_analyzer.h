@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DMG analyzer class declaration
+// summary: Declares DMGAnalyzer, an ArchiveAnalyzer that inspects DMG files and reports archive results.
+// ---
+
 #ifndef CHROME_UTILITY_SAFE_BROWSING_MAC_DMG_ANALYZER_H_
 #define CHROME_UTILITY_SAFE_BROWSING_MAC_DMG_ANALYZER_H_
 

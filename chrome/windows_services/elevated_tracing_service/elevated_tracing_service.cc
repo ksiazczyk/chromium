@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service executable entry point
+// summary: Implements wWinMain that runs the elevated tracing service through ServiceProgramMain with the service delegate.
+// ---
+
 #include "chrome/windows_services/elevated_tracing_service/elevated_tracing_service_delegate.h"
 #include "chrome/windows_services/service_program/service_program_main.h"
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GetCallingProcess implementation
+// summary: Implements GetCallingProcess, which returns the process making an inbound RPC call or the current process for local calls.
+// ---
+
 #include "chrome/windows_services/service_program/get_calling_process.h"
 
 #include <windows.h>

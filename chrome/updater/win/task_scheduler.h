@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows Task Scheduler interface
+// summary: Declares TaskScheduler, a wrapper for creating, verifying, and deleting Windows scheduled tasks with configurable triggers.
+// ---
+
 #ifndef CHROME_UPDATER_WIN_TASK_SCHEDULER_H_
 #define CHROME_UPDATER_WIN_TASK_SCHEDULER_H_
 

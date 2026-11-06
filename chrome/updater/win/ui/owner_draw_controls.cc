@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Owner-drawn UI controls implementation
+// summary: Implements owner-drawn controls such as caption buttons and the custom title bar, including GDI painting, hover tracking, and theming.
+// ---
+
 #include "chrome/updater/win/ui/owner_draw_controls.h"
 
 #include <windows.h>

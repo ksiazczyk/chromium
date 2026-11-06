@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UI utility functions implementation
+// summary: Implements Win32 UI helpers such as process window enumeration, icon alpha extraction, and scoped GDI object selection for updater windows.
+// ---
+
 #include "chrome/updater/win/ui/ui_util.h"
 
 #include <windows.h>

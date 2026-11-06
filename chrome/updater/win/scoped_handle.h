@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped Windows handle wrappers
+// summary: Defines RAII wrappers for Windows file and kernel HANDLE values based on ScopedGeneric.
+// ---
+
 #ifndef CHROME_UPDATER_WIN_SCOPED_HANDLE_H_
 #define CHROME_UPDATER_WIN_SCOPED_HANDLE_H_
 

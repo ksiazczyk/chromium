@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Progress window class header
+// summary: Declares ProgressWnd and its event sink, defining app messages for logo bitmaps and WebView2 creation failures plus the progress window interface.
+// ---
+
 #ifndef CHROME_UPDATER_WIN_UI_PROGRESS_WND_H_
 #define CHROME_UPDATER_WIN_UI_PROGRESS_WND_H_
 

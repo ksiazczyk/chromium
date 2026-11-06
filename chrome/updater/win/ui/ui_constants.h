@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UI color constants
+// summary: Defines light and dark mode color constants for the updater UI, including accent, caption button, progress bar, and GDS button color tokens.
+// ---
+
 #ifndef CHROME_UPDATER_WIN_UI_UI_CONSTANTS_H_
 #define CHROME_UPDATER_WIN_UI_UI_CONSTANTS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service program entry point header
+// summary: Declares ServiceProgramMain, the entry point that Windows service executables must call from wWinMain with a custom delegate.
+// ---
+
 #ifndef CHROME_WINDOWS_SERVICES_SERVICE_PROGRAM_SERVICE_PROGRAM_MAIN_H_
 #define CHROME_WINDOWS_SERVICES_SERVICE_PROGRAM_SERVICE_PROGRAM_MAIN_H_
 

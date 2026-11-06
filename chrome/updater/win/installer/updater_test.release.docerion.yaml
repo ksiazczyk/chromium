@@ -1,0 +1,4 @@
+# Docerion header of updater_test.release.
+type: config
+title: Updater test release file manifest
+summary: Lists the files packaged into the updater test installer archive, renaming updater_test.exe to updater.exe.

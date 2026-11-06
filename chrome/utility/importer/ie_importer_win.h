@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Internet Explorer importer header for Windows
+// summary: Declares IEImporter, which imports favorites, history, search engines and homepage settings from Internet Explorer on Windows.
+// ---
+
 #ifndef CHROME_UTILITY_IMPORTER_IE_IMPORTER_WIN_H_
 #define CHROME_UTILITY_IMPORTER_IE_IMPORTER_WIN_H_
 

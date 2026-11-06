@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageWriter class header
+// summary: Declares the ImageWriter class that manages write and verify operations on the utility thread and communicates status through the handler.
+// ---
+
 #ifndef CHROME_UTILITY_IMAGE_WRITER_IMAGE_WRITER_H_
 #define CHROME_UTILITY_IMAGE_WRITER_IMAGE_WRITER_H_
 

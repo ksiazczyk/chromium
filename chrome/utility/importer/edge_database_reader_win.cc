@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Edge ESE database reader implementation
+// summary: Implements reading of Edge ESE database column values and Jet error messages used when importing data from Microsoft Edge.
+// ---
+
 #include "chrome/utility/importer/edge_database_reader_win.h"
 
 #include <windows.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HFS+ filesystem iterator implementation for DMG analysis
+// summary: Implements HFSIterator and related streams that walk an HFS+ or HFSX volume inside a DMG, reading the catalog and file data forks for Safe Browsing analysis.
+// ---
+
 
 #include "chrome/utility/safe_browsing/mac/hfs.h"
 

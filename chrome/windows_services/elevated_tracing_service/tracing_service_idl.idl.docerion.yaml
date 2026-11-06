@@ -1,0 +1,4 @@
+# Docerion header of tracing_service_idl.idl.
+type: source
+title: Tracing service COM interface definitions
+summary: Defines the ISystemTraceSession COM interface, per-Chrome-flavor derived IIDs, service error HRESULTs, and the SystemTraceSession type library.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Win32 dialog and window helper header
+// summary: Declares window helpers, a DialogImpl class for template-backed dialogs, a SubclassedWindow helper, and updater-local message-map macros complementing ui/gfx/win/msg_util.h.
+// ---
+
 #ifndef CHROME_UPDATER_WIN_UI_WINDOW_IMPL_H_
 #define CHROME_UPDATER_WIN_UI_WINDOW_IMPL_H_
 

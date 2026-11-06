@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Service program build configuration
+summary: Defines GN source sets and build configs for the service program framework, with variants for services with and without a crashpad handler.

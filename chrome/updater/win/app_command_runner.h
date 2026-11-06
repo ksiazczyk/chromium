@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App command runner interface
+// summary: Declares AppCommandRunner, which loads registry command lines, runs them with substitutions, and monitors process exit codes and output.
+// ---
+
 #ifndef CHROME_UPDATER_WIN_APP_COMMAND_RUNNER_H_
 #define CHROME_UPDATER_WIN_APP_COMMAND_RUNNER_H_
 

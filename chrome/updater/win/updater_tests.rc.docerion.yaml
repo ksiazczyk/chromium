@@ -1,0 +1,4 @@
+# Docerion header of updater_tests.rc.
+type: source
+title: Windows resource script for updater tests
+summary: Resource script for the updater test binaries that includes the English UI resources.

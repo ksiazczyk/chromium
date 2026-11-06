@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Offline manifest utilities
+// summary: Locates and parses offline manifests to extract install commands, system requirements, installer paths, and install data for offline updates.
+// ---
+
 #include "chrome/updater/win/manifest_util.h"
 
 #include <stdint.h>

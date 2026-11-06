@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NSS decryptor shared logic
+// summary: Implements shared NSSDecryptor logic for decrypting Firefox stored passwords and building imported password forms.
+// ---
+
 #include "chrome/utility/importer/nss_decryptor.h"
 
 #include <stddef.h>

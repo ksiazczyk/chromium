@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WRL module helpers implementation
+// summary: Implements CreateWrlModule and SetModuleReleasedCallback, managing the process-wide out-of-proc WRL module and its release callback.
+// ---
+
 #include "chrome/windows_services/service_program/process_wrl_module.h"
 
 #include <wrl/module.h>

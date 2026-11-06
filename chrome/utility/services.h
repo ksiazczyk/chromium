@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Utility process service registration declarations
+// summary: Declares helpers that hook out-of-process service implementations into the utility process service factory.
+// ---
+
 #ifndef CHROME_UTILITY_SERVICES_H_
 #define CHROME_UTILITY_SERVICES_H_
 

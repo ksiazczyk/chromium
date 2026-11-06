@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for offline manifest utilities
+// summary: Tests reading install commands from offline manifests, including fallback installer lookup and unsafe path handling.
+// ---
+
 #include "chrome/updater/win/manifest_util.h"
 
 #include <string>

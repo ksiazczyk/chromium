@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Read stream implementations for files and memory buffers
+// summary: Implements FileReadStream and MemoryReadStream with read and seek support, plus helpers to read an entire stream or copy it to a file.
+// ---
+
 #include "chrome/utility/safe_browsing/mac/read_stream.h"
 
 #include <string.h>

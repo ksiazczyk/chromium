@@ -42,6 +42,12 @@
 //   [State][4][Exited with code 23.]
 // ```
 
+// ---docerion
+// type: script
+// title: Legacy on-demand updater client script
+// summary: Windows Script Host script that drives the legacy IGoogleUpdate3Web and IAppCommandWeb interfaces to check for updates, install, update, or launch app commands.
+// ---
+
 // Operations.
 var CHECK_FOR_UPDATE = 0;
 var INSTALL = 1;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedInstallService implementation
+// summary: Installs a Windows service for tests via an InstallServiceWorkItem, rolls it back on destruction, and can return the running service process.
+// ---
+
 #include "chrome/windows_services/service_program/test_support/scoped_install_service.h"
 
 #include <windows.h>

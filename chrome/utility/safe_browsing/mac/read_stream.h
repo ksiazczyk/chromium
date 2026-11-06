@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Byte stream reading interface
+// summary: Defines the ReadStream interface with Read, ReadExact, and Seek, plus file and memory implementations and stream copy helpers.
+// ---
+
 #ifndef CHROME_UTILITY_SAFE_BROWSING_MAC_READ_STREAM_H_
 #define CHROME_UTILITY_SAFE_BROWSING_MAC_READ_STREAM_H_
 

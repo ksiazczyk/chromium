@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the safe_browsing utility directory
+summary: Lists the directory owner and defers to the components/safe_browsing OWNERS file for additional reviewers.

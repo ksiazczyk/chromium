@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedMockContext test helper header
+// summary: Declares ScopedMockContext, an RAII helper that installs a mock IServerSecurity implementation so code under test can successfully call CoImpersonateClient.
+// ---
+
 #ifndef CHROME_WINDOWS_SERVICES_SERVICE_PROGRAM_TEST_SUPPORT_SCOPED_MOCK_CONTEXT_H_
 #define CHROME_WINDOWS_SERVICES_SERVICE_PROGRAM_TEST_SUPPORT_SCOPED_MOCK_CONTEXT_H_
 

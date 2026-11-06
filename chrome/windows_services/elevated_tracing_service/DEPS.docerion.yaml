@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the elevated tracing service
+summary: Defines the include paths that code in the elevated tracing service directory is allowed to depend on.

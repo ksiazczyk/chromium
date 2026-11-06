@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for updater UI utilities
+// summary: Tests UI utility helpers such as dark color detection, badge and logo geometry, system dark mode detection, and icon handling.
+// ---
+
 #include "chrome/updater/win/ui/ui_util.h"
 
 #include <windows.h>

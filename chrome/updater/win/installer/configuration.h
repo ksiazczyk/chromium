@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Configuration class interface for the installer
+// summary: Declares the Configuration class that stores the installer operation, system-level flag, and invalid switch state derived from the command line.
+// ---
+
 #ifndef CHROME_UPDATER_WIN_INSTALLER_CONFIGURATION_H_
 #define CHROME_UPDATER_WIN_INSTALLER_CONFIGURATION_H_
 
