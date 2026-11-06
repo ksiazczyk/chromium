@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Debugger OOPIF auto-attach WAR bypass test background script
+// summary: Extension service worker test that attaches the debugger to a page, auto-attaches to an OOPIF subframe, and asserts that navigating to a restricted extension URL is rejected.
+// ---
+
 const protocolVersion = '1.3';
 
 import {openTab} from '/_test_resources/test_util/tabs_util.js';

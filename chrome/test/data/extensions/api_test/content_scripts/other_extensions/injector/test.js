@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content script self-injection test
+// summary: Chrome test that loads another extension's frame and fails or succeeds based on whether the injected content script changed its content.
+// ---
+
 chrome.test.runTests([function contentSelfInjectTest() {
   window.addEventListener('message', function(event) {
     const msg = event.data;

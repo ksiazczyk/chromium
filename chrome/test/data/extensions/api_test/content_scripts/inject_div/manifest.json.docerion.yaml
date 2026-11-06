@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Inject div test extension manifest
+summary: Manifest for the content scripts API test extension that injects a div, running script.js in all frames at document_end.

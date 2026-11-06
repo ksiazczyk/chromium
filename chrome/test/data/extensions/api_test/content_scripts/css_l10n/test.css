@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+/*docerion
+type: test
+title: InsertCSS test CSS with text color message
+summary: CSS file injected through chrome.tabs.insertCSS that sets the paragraph color to the __MSG_text_color__ message value for localization testing.
+*/
+
 p {
   color: __MSG_text_color__;
 }

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the debugger empty URL access test extension
+summary: Manifest version 2 extension manifest granting debugger and tabs permissions for the empty URL attach test.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the COEP frame test extension
+summary: Manifest v2 extension manifest declaring a content script for hello.html plus the web-accessible resources iframe.html and script.js used by the COEP frame test.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content script that should run twice
+// summary: Test content script that appends an 'injected-twice' div to verify the script runs twice when matched by multiple content script rules.
+// ---
+
 // NOTE: This needs to be `var` since it's exercising whether this
 // script gets injected multiple times, and a `let` would interfere with
 // multiple injection -- throwing an error and making it seem like the

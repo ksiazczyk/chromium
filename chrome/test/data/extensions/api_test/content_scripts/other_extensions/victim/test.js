@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Victim extension content test
+// summary: Test that succeeds when content is unchanged and fails when injected content from another extension is detected.
+// ---
+
 chrome.test.runTests([function contentTest() {
   window.addEventListener('message', function(event) {
     const msg = event.data;

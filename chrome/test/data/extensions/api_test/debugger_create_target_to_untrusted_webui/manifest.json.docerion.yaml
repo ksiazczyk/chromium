@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the debugger Target.createTarget test extension
+summary: Manifest version 2 definition for the test extension, granting the debugger permission and loading background.js to run the API test.

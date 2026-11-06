@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the content script blob fetch test extension
+summary: Manifest v2 extension manifest registering the persistent background test page and the content script used by the blob fetch API test.

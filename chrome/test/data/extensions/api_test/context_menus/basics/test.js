@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the chrome.contextMenus API
+// summary: Service worker test script that exercises creating, updating, removing, and parenting context menu items, including type and context variants and promise-based error cases.
+// ---
+
 const assertNoLastError = chrome.test.assertNoLastError;
 const inServiceWorker = 'ServiceWorkerGlobalScope' in self;
 let currentId = 1;

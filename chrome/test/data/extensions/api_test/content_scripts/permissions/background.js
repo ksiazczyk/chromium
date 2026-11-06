@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content scripts permissions test background script
+// summary: Background script for the content scripts permissions API test that verifies optional host permissions control content script injection into existing and new tabs.
+// ---
+
 const assertEq = chrome.test.assertEq;
 const assertTrue = chrome.test.assertTrue;
 const pass = chrome.test.callbackPass;

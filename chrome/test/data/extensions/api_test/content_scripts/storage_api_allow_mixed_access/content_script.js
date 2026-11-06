@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content script storage access level tests
+// summary: Runs tests from a content script verifying that untrusted-access storage areas allow get, set, remove, clear, and getBytesInUse, while trusted-only areas reject access.
+// ---
+
 // The extension set the access level to TRUSTED_AND_UNTRUSTED_CONTEXTS for the
 // `local` storage area, while setting `sync`, `session`, and `managed` to the
 // `TRUSTED_CONTEXTS` access level.

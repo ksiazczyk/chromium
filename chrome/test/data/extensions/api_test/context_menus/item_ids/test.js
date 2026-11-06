@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Context menus item ID tests
+// summary: Runs chrome.test cases verifying string IDs, parent IDs, duplicate ID collisions, and integer versus string ID handling for chrome.contextMenus.
+// ---
+
 const inServiceWorker = 'ServiceWorkerGlobalScope' in self;
 
 chrome.test.runTests([

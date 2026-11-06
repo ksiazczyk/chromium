@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the debugger forbidden URL navigation test extension
+summary: Declares the test extension used by the debugger API test, requesting the debugger permission and loading the background test script.

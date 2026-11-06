@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for the contextual tasks API test directory
+summary: Directory metadata that mixes in the shared component metadata for the contextual tasks extension API test folder.

@@ -1,0 +1,4 @@
+# Docerion header of iframe.html.
+type: test
+title: Iframe HTML fixture for the COEP frame test
+summary: Minimal HTML page served as a web-accessible resource that loads script.js inside the iframe created by the content script.

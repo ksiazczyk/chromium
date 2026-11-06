@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Debugger auto-attach permissions test background script
+// summary: Extension background script that attaches the debugger with auto-attach enabled and verifies attaching to a target in another tab fails with a 'Not allowed' error.
+// ---
+
 const protocolVersion = '1.3';
 
 chrome.test.getConfig(config => chrome.test.runTests([

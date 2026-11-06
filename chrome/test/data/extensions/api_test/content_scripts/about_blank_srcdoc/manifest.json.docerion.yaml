@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test extension manifest for about:blank and about:srcdoc content scripts
+summary: Manifest of the test extension declaring content scripts with match_about_blank and all_frames enabled to verify injection into about:blank and about:srcdoc frames.

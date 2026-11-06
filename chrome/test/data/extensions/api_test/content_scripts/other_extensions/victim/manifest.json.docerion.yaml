@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Victim extension manifest
+summary: Manifest for the victim extension used to test whether another extension can inject its script.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab context menu test background script
+// summary: Background script of the test extension that creates a context menu item with the tab context and verifies the click event payload.
+// ---
+
 chrome.test.runTests([
   async function createTabContextMenu() {
     const eventPromise = chrome.test.listenOnce(chrome.contextMenus.onClicked);

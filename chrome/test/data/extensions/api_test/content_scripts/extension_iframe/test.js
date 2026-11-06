@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background test runner for iframe messaging
+// summary: Background script that runs the browser test, asserts the success message from the content script and opens the test server page.
+// ---
+
 chrome.test.runTests([
   // Tests receiving a request from a content script and responding.
   function onRequest() {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background test runner for about:blank iframe injection
+// summary: Background page script running chrome.test cases that verify content scripts are not injected into about:blank, srcdoc, and nested frames.
+// ---
+
 function checkFirstMessageEquals(expectedRequest) {
   return function(request) {
     if (request !== expectedRequest) {

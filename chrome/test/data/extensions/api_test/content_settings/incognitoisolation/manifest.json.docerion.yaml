@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Content settings incognito test extension manifest
+summary: Manifest for the test extension that sets and checks content settings permissions in incognito mode with split incognito behavior.

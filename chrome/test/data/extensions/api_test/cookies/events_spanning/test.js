@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cookies API test for onChanged events in incognito spanning mode
+// summary: Service worker test that sets and removes a cookie on a.com and verifies the onChanged event reports the correct cause and store ID in spanning split mode.
+// ---
+
 // Expiration is capped at 400 days in the future, so we use 100 days here.
 const TEST_EXPIRATION_DATE = Math.round(Date.now() / 1000) + 100 * 24 * 60 * 60;
 

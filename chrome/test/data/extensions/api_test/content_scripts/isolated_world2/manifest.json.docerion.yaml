@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Isolated world 2 test extension manifest
+summary: Manifest for the isolated world 2 test extension, which together with isolated world 1 checks that scripts from different extensions run in different worlds.

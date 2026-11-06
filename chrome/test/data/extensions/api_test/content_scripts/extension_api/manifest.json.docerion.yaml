@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Content Script API Tests manifest
+summary: Manifest for the test extension, granting storage permission and injecting functions.js and events.js into the matching test pages.

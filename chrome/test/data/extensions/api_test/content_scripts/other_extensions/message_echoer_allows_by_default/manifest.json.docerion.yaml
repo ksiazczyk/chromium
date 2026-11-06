@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest of the message echoer allows-by-default test extension
+summary: Manifest defining the test extension with a fixed ID, used to verify content scripts can message extensions lacking a custom externally_connectable value.

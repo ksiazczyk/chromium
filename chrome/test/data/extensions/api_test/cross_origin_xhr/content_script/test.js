@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test runner for cross-origin XHR from content scripts
+// summary: Browser test that opens a localhost tab, sends URLs to the injected content script, and asserts load or error responses for allowed and disallowed requests.
+// ---
+
 // Tab where the content script has been injected.
 let testTabId;
 

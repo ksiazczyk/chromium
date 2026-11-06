@@ -1,0 +1,4 @@
+# Docerion header of oopif.html.
+type: test
+title: Out-of-process iframe test page
+summary: Test page that embeds a cross-site iframe pointing to oopif_frame.html, used for out-of-process iframe debugger tests.

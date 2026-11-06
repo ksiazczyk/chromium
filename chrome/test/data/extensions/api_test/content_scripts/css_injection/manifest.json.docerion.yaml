@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: CSS injection test extension manifest
+summary: Manifest for the CSS Injection Test extension that injects content_styles.css into all pages except the extensions test file to verify CSS injection.

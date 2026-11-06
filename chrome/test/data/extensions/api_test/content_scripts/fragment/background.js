@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background page for the content script fragment navigation test
+// summary: Background page that drives the browser test, navigating a tab to a fragment and failing if the content script reports being re-injected.
+// ---
+
 let failed = false;
 
 function didFail() {

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the New Tab Page injector test extension
+summary: Manifest v2 extension manifest declaring content scripts, a persistent background page, and permissions for the NTP injection test.

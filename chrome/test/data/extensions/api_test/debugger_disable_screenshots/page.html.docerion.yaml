@@ -1,0 +1,4 @@
+# Docerion header of page.html.
+type: test
+title: Debugger test page
+summary: Minimal HTML page that serves as the tab target for the debugger attach tests in this API test.

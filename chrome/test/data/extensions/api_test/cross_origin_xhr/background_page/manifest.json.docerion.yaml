@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Cross-origin XHR test extension manifest
+summary: Manifest for the cross-origin XHR test extension, declaring the background page and permissions for allowed origins and subdomains.

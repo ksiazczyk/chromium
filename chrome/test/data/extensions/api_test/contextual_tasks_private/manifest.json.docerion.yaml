@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: contextualTasksPrivate test extension manifest
+summary: Manifest for the contextualTasksPrivate test extension, declaring its permissions and a module service worker used by the API browser tests.

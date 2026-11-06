@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for storage API default access test extension
+summary: Manifest for the test extension that registers the background service worker and injects the content and listener scripts to exercise storage API default access.

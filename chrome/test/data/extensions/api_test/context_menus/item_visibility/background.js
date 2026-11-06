@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background script for contextMenus visible property test
+// summary: Extension background script that wraps chrome.contextMenus create and update calls in promises to test the visible property in an API test.
+// ---
+
 let nextId = 1;
 
 function create(createProperties) {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Debugger MV3 background service worker tests
+// summary: Service worker running chrome.debugger API tests that check console event ordering and that tracing data from unattached tabs is not leaked to untrusted debugger sessions.
+// ---
+
 import {openTab} from '/_test_resources/test_util/tabs_util.js';
 
 const protocolVersion = '1.3';

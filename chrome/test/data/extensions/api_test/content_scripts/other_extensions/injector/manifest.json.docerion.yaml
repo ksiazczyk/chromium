@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Injector extension manifest
+summary: Manifest for the content_script_extension_injector test extension, registering the background script and the inject.js content script.

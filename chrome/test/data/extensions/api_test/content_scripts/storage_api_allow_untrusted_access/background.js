@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background service worker tests for storage untrusted access
+// summary: Runs tests that verify setAccessLevel is exposed for all storage areas, grants untrusted access to each area, and checks content scripts receive onChanged events.
+// ---
+
 import {openTab} from '/_test_resources/test_util/tabs_util.js';
 
 async function testSetAndGetValue(area) {

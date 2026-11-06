@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the main world content script test extension
+summary: Manifest V3 extension manifest declaring content scripts injected into the MAIN and ISOLATED worlds for the injection API test.

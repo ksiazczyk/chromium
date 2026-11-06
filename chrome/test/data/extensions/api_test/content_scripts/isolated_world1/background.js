@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background script driving the isolated world extension test
+// summary: Extension background script that opens a test page, injects the reporting script, and asserts the reported value equals 2 to pass the test.
+// ---
+
 chrome.runtime.onConnect.addListener(function(port) {
   chrome.test.log('got connect');
   port.onMessage.addListener(function(msg) {

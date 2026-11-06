@@ -2,5 +2,11 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Victim extension background script
+// summary: Background script of the victim test extension that opens the test page in a new tab.
+// ---
+
 // This extension just injects script into another one.
 chrome.tabs.create({url: 'test.html'});

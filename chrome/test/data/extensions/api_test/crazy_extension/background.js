@@ -5,6 +5,12 @@
 // This test is for bizarre things that extensions probably will do. We just
 // need to ensure that behaviour is predictable.
 
+// ---docerion
+// type: test
+// title: Crazy extension background test script
+// summary: Runs browser tests asserting predictable, crash-free behavior when an extension accesses iframes and the chrome.app API after frames are removed.
+// ---
+
 chrome.test.runTests([
   function accessNonexistentIframe() {
     const iframe = document.createElement('iframe');

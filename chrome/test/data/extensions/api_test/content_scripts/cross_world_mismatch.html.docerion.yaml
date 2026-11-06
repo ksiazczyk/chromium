@@ -1,0 +1,4 @@
+# Docerion header of cross_world_mismatch.html.
+type: test
+title: Cross world mismatch test page
+summary: Test page that registers a service worker, preloads the extension resource injected.js from the main world, and relays which script contents were fetched back to the browser test.

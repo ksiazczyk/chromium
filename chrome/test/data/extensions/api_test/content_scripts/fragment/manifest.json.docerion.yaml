@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the content script fragment navigation test extension
+summary: Manifest version 2 extension manifest registering the background page, tabs permission, and content script used by the fragment navigation test.

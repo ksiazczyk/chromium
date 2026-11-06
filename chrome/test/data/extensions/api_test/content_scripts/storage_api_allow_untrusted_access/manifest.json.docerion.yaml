@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test extension manifest for storage untrusted access
+summary: Manifest for the test extension declaring the module background service worker, storage permission, and the content scripts used by the untrusted access tests.

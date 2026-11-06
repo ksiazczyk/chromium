@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the CSS localization test extension
+summary: Test extension manifest that registers the background script and injects style.css as a content script to exercise CSS message localization.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background script for the view-source content scripts test
+// summary: Extension test background script that opens a view-source page and fails if a content script sends a message, verifying content scripts do not run there.
+// ---
+
 chrome.test.runTests([
   function noContentScriptsInViewSource() {
     chrome.runtime.onMessage.addListener(function(

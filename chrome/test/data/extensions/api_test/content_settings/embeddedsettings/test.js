@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Embedded settings content settings API test
+// summary: Runs Chrome extension API tests that set embedded content setting patterns for cookies and location, verifying behavior when permission delegation is enabled or disabled.
+// ---
+
 const cs = chrome.contentSettings;
 let delegation;
 

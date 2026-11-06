@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content script tests for storage API default access
+// summary: Verifies from a content script that sync and local storage are accessible by default while session storage rejects get, set, clear, and setAccessLevel calls.
+// ---
+
 // `session` doesn't have storage access by default. All other storage areas are
 // accessible.
 const accessibleStorageAreas = ['sync', 'local'];

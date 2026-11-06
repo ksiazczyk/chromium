@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Debugger attach to blob URLs API test
+// summary: Extension API test that opens a test page, embeds a fetched PDF as a blob URL object, and verifies chrome.debugger can attach to and detach from the tab.
+// ---
+
 import {openTab} from '/_test_resources/test_util/tabs_util.js';
 
 const protocolVersion = '1.3';

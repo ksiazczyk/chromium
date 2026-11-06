@@ -6,6 +6,12 @@
 // So we should receive two "all_frames" messages, and one "top_frame_only"
 // messages.
 
+// ---docerion
+// type: test
+// title: Background test counting content script messages
+// summary: Background page test that counts incoming messages and succeeds when two 'all_frames' and one 'top_frame_only' message arrive after opening a page with an iframe.
+// ---
+
 let numAllFramesMessages = 0;
 let numTopFrameOnlyMessages = 0;
 

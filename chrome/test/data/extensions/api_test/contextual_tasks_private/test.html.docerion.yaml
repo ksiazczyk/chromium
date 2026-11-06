@@ -1,0 +1,4 @@
+# Docerion header of test.html.
+type: test
+title: contextualTasksPrivate test page
+summary: HTML page for the contextualTasksPrivate extension API test that loads the test script as a module.

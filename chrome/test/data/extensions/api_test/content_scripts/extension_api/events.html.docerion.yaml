@@ -1,0 +1,4 @@
+# Docerion header of events.html.
+type: test
+title: Events test page
+summary: Empty HTML page that the content script matches against for the events part of the content script API test.

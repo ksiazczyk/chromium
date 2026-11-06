@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the content script host permissions test extension
+summary: Manifest version 2 extension declaring tabs and b.com permissions plus content scripts used to verify that content scripts do not match host permissions.

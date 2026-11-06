@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the debugger blob URL test extension
+summary: Manifest for the test extension declaring debugger, tabs, and scripting permissions, host permissions for a.com, and a module service worker background.

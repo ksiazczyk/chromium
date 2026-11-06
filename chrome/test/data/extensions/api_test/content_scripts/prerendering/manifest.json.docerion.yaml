@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the content script prerendering test extension
+summary: Manifest of the content_script_prerendering test extension declaring the background test script, permissions, and content script rules covering all_frames and match_about_blank.

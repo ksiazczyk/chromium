@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for duplicate content script injection test
+summary: Extension manifest defining content scripts with overlapping URL matches to verify that a script is not injected twice for overlapping rules.

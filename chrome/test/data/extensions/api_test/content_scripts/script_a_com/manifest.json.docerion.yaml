@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Script a.com test extension manifest
+summary: Manifest for the Script a.com test extension that injects script.js into all frames of matching pages at document start.

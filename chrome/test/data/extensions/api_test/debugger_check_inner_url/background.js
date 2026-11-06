@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Debugger API test background script
+// summary: Test background script that attaches the debugger to a tab and its cross-origin subframe and verifies navigation to a blob URL is rejected or detaches the debugger.
+// ---
+
 const protocolVersion = '1.3';
 const DETACHED_WHILE_HANDLING = 'Detached while handling command.';
 

@@ -1,0 +1,4 @@
+# Docerion header of worker.html.
+type: test
+title: Worker page for debugger file access test
+summary: HTML page that loads the worker creation script so the test can attach the debugger to a spawned worker.

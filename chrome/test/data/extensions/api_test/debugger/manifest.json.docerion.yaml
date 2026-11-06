@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: config
+title: Debugger test extension manifest
+summary: Manifest for the Debugger test extension, granting tabs and debugger permissions and registering background.js as the background script.

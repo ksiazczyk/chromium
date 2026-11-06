@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content script reporting parent or child frame
+// summary: Content script for the about:blank iframe test that sends a message indicating whether it runs in the top-level frame or a child frame.
+// ---
+
 // Use onload event to make sure that the messages are first dispatched in
 // frames, and then in the top-level frame. This requires document_start or
 // document_end.

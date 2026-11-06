@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for contextMenus event page test extension
+summary: Manifest for the test extension that verifies chrome.contextMenus ID behavior in event pages, loading test.js as a non-persistent background script.

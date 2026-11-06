@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Storage API mixed access tests in background service worker
+// summary: Runs extension tests that verify setAccessLevel exposure, storage set and get in the background, and that content scripts only receive onChanged events for untrusted storage areas.
+// ---
+
 import {openTab} from '/_test_resources/test_util/tabs_util.js';
 
 async function testSetAndGetValue(area) {

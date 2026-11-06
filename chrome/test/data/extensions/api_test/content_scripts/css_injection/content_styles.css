@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: test
+title: Content styles for CSS injection test
+summary: CSS rules injected by the test extension that set blue backgrounds on the body and test divs to verify content script CSS injection.
+*/
+
 body {
   background-color: blue;
 }

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Detach during evaluation test extension manifest
+summary: Manifest for the test extension that runs detach.js and detach2.js at document_end to verify content scripts detaching their window during evaluation do not crash.

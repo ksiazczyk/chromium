@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Cross origin XHR to file URLs with no background page manifest
+summary: Manifest for a Chrome extension API regression test that checks cross-origin XHR access to file URLs without a background page.

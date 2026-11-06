@@ -6,6 +6,12 @@
 // Run with browser_tests
 //     --gtest_filter=ExtensionApiTest.ContentSettingsGetResourceIdentifiers
 
+// ---docerion
+// type: test
+// title: Content Settings GetResourceIdentifiers API Test
+// summary: Browser test that checks chrome.contentSettings getResourceIdentifiers returns the expected resource identifiers for each content type, including the Foo and Bar plugins.
+// ---
+
 Object.prototype.forEach = function(f) {
   for (const key in this) {
     if (this.hasOwnProperty(key)) {

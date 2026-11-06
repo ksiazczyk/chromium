@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Debugger attach to empty URLs test background script
+// summary: Extension background script that runs a browser test attaching the debugger to a page with empty-URL frames and then detaching.
+// ---
+
 const protocolVersion = '1.3';
 
 chrome.test.getConfig(config => chrome.test.runTests([

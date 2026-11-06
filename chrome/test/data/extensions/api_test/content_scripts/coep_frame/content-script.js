@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content script for COEP frame test extension
+// summary: Injects an iframe loading the extension's iframe.html and verifies that a no-cors cross-origin fetch without CORP headers is blocked under COEP, marking the page PASSED or FAILED.
+// ---
+
 (async () => {
   try {
     const iframe = document.createElement('iframe');

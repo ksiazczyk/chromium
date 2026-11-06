@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for cross-origin XHR test without file access
+summary: Extension manifest granting <all_urls> permission but no file access, setting up the background page for the cross-origin XHR API test.

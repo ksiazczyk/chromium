@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the isolated world test extension
+summary: Manifest version 2 extension manifest registering the background and content scripts used by the isolated world API test.

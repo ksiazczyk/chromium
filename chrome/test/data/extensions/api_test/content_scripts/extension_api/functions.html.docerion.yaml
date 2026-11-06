@@ -1,0 +1,4 @@
+# Docerion header of functions.html.
+type: test
+title: Functions test page
+summary: Empty HTML page that the content script matches against for the functions part of the content script API test.

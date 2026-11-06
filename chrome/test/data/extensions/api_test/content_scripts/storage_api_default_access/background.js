@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background service worker tests for storage API default access
+// summary: Runs chrome.test checks that the background service worker can set and get values in session, local, and sync storage and that content scripts miss session onChanged events under trusted-only access.
+// ---
+
 import {openTab} from '/_test_resources/test_util/tabs_util.js';
 
 async function testSetAndGetValue(area) {

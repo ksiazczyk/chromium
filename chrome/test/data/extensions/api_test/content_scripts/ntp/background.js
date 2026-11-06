@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background script for the NTP injection test
+// summary: Extension background script that opens a new tab page and verifies that injecting script.js into it fails with the expected error.
+// ---
+
 // The NTP may take different forms, depending on the OS.
 const newTabUrls = [
   'chrome://newtab/',

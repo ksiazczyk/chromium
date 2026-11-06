@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: contextMenus event page ID tests
+// summary: Runs chrome.test checks that string IDs work for chrome.contextMenus.create in event pages while generated IDs and onclick parameters fail with the expected errors.
+// ---
+
 chrome.test.runTests([
   function stringID() {
     const id1 =

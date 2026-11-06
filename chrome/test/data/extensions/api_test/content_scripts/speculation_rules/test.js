@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser test asserting prerendering from injected speculation rules
+// summary: Background service worker that navigates to the test page, listens for content script messages, and asserts the injected speculation rules prerender title1.html.
+// ---
+
 let testServerPort = 0;
 
 function getUrl(path) {

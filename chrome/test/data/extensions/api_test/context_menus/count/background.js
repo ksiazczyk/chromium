@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Context menus item count limit test background script
+// summary: Extension service worker test that creates 1000 context menu items and verifies that creating one more fails with the maximum-items error.
+// ---
+
 // See MenuManager::kMaxItemsPerExtension.
 const maxMenuItems = 1000;
 

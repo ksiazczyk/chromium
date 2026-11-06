@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: config
+title: Test extension manifest for mixed storage access
+summary: Manifest for the test extension that registers the background service worker and injects the content scripts used by the mixed storage access tests.

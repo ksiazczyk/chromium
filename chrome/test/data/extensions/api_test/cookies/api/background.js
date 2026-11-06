@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cookies API test background service worker
+// summary: Background script of the chrome.cookies browser test extension that defines test URLs and cookies and exercises the cookies API, including partitioned cookies.
+// ---
+
 const TEST_DOMAIN = 'cookies.com';
 const TEST_PATH = '/auth';
 const TEST_HOST = `www.chrome_extensions.${TEST_DOMAIN}`;

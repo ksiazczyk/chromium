@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for content settings unsupported default settings test extension
+summary: Manifest for the Chrome test extension that exercises unsupported default content settings via the contentSettings API.

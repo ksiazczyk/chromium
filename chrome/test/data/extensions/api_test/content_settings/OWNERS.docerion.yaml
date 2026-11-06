@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Delegates code ownership for this extension content_settings test data directory to the API implementation's OWNERS file.

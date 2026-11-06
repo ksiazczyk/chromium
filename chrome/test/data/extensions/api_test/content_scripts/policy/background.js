@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content scripts policy test background script
+// summary: Background script for the content_scripts/policy extension API test that opens a tab on a policy-blocked host and asserts script injection fails.
+// ---
+
 const pass = chrome.test.callbackPass;
 const callbackFail = chrome.test.callbackFail;
 const listenForever = chrome.test.listenForever;

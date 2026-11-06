@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background script setting cookies for the document cookie test
+// summary: Sets several cookies with different modifiers via document.cookie and opens tab.html so the test can read them back.
+// ---
+
 // Ensure we started with an empty profile.
 chrome.test.assertEq(document.cookie, '');
 

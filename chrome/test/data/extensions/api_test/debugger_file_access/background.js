@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Debugger file access test background script
+// summary: Runs chrome.test cases that verify chrome.debugger attach behavior for file URLs, MHTML pages, and blob workers with and without file scheme access.
+// ---
+
 // Helper to open file URL and load it.
 async function openFileUrlAndLoad(url) {
   return new Promise((resolve) => {
