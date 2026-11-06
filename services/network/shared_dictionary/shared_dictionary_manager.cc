@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedDictionaryManager implementation
+// summary: Implements SharedDictionaryManager factory methods for in-memory and on-disk managers plus preloaded dictionary tracking and storage caching.
+// ---
+
 #include "services/network/shared_dictionary/shared_dictionary_manager.h"
 
 #include <algorithm>

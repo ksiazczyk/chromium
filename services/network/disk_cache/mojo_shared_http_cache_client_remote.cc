@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo shared HTTP cache client remote implementation
+// summary: Implements MojoSharedHttpCacheClientRemote, forwarding shared HTTP cache client initialization and resource-added notifications over Mojo with disconnect handling.
+// ---
+
 #include "services/network/disk_cache/mojo_shared_http_cache_client_remote.h"
 
 #include <utility>

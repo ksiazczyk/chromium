@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Operation timing Trust Tokens request helper wrapper implementation
+// summary: Implements a wrapper that forwards Trust Tokens operations to an inner request helper while recording timing metrics for the begin and finalize phases.
+// ---
+
 #include "services/network/trust_tokens/operation_timing_request_helper_wrapper.h"
 
 #include "net/http/http_request_headers.h"

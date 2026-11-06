@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Trust token operation metrics recorder unit tests
+// summary: Unit tests verifying histogram samples for successful and failed begin and finalize phases of Trust Tokens operations.
+// ---
+
 #include "services/network/trust_tokens/trust_token_operation_metrics_recorder.h"
 
 #include "base/strings/string_util.h"

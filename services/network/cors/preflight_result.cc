@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CORS preflight result implementation
+// summary: Implements the PreflightResult class that parses CORS-preflight response headers, checks allowed methods and headers, and computes cache expiry times.
+// ---
+
 #include "services/network/cors/preflight_result.h"
 
 #include <string>

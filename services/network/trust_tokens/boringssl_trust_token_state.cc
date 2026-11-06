@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BoringSSL Trust Token state implementation
+// summary: Implements creation of the BoringSSL Trust Tokens client state, validating the issuer-configured batch size and wrapping a TRUST_TOKEN_CLIENT context.
+// ---
+
 #include "services/network/trust_tokens/boringssl_trust_token_state.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Encrypted cache entry hasher declaration
+// summary: Declares a cache entry hasher that salts cache key hashes with a primary key to hide URLs and prevent hash collisions.
+// ---
+
 #ifndef SERVICES_NETWORK_ENTERPRISE_ENCRYPTION_ENCRYPTED_CACHE_ENTRY_HASHER_H_
 #define SERVICES_NETWORK_ENTERPRISE_ENCRYPTION_ENCRYPTED_CACHE_ENTRY_HASHER_H_
 

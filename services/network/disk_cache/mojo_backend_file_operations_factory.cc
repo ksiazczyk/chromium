@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo backend file operations factory implementation
+// summary: Implements a backend file operations factory that creates bound and unbound MojoBackendFileOperations instances from a remote Mojo factory.
+// ---
+
 #include "services/network/disk_cache/mojo_backend_file_operations_factory.h"
 
 #include "base/task/sequenced_task_runner.h"

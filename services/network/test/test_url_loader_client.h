@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestURLLoaderClient header
+// summary: Declares TestURLLoaderClient, a mojom::URLLoaderClient that records loader callbacks and exposes accessors and RunUntil helpers for unittests.
+// ---
+
 #ifndef SERVICES_NETWORK_TEST_TEST_URL_LOADER_CLIENT_H_
 #define SERVICES_NETWORK_TEST_TEST_URL_LOADER_CLIENT_H_
 

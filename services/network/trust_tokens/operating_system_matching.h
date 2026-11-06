@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trust Tokens operating system matching header
+// summary: Declares IsCurrentOperatingSystem, a helper that lets Trust Tokens logic compare an issuer-provided OS value against the current operating system.
+// ---
+
 #ifndef SERVICES_NETWORK_TRUST_TOKENS_OPERATING_SYSTEM_MATCHING_H_
 #define SERVICES_NETWORK_TRUST_TOKENS_OPERATING_SYSTEM_MATCHING_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Throttling network transaction factory class declaration
+// summary: Declares an HttpTransactionFactory that wraps another factory to add network throttling via ThrottlingNetworkInterceptor.
+// ---
+
 #ifndef SERVICES_NETWORK_THROTTLING_THROTTLING_NETWORK_TRANSACTION_FACTORY_H_
 #define SERVICES_NETWORK_THROTTLING_THROTTLING_NETWORK_TRANSACTION_FACTORY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-memory shared dictionary manager header
+// summary: Declares SharedDictionaryManagerInMemory, the manager variant that stores all dictionary information in memory with cache size and count limits and eviction methods.
+// ---
+
 #ifndef SERVICES_NETWORK_SHARED_DICTIONARY_SHARED_DICTIONARY_MANAGER_IN_MEMORY_H_
 #define SERVICES_NETWORK_SHARED_DICTIONARY_SHARED_DICTIONARY_MANAGER_IN_MEMORY_H_
 

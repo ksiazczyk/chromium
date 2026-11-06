@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestNetworkContextClient header
+// summary: Declares a basic NetworkContextClient implementation for unit tests with toggles for invalid upload files and ignoring the last upload file.
+// ---
+
 #ifndef SERVICES_NETWORK_TEST_TEST_NETWORK_CONTEXT_CLIENT_H_
 #define SERVICES_NETWORK_TEST_TEST_NETWORK_CONTEXT_CLIENT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network service test utilities implementation
+// summary: Implements helpers to read request upload data, build URL response heads with cookies, and create NetworkContextParams configured for testing.
+// ---
+
 #include "services/network/test/test_utils.h"
 
 #include "base/strings/stringprintf.h"

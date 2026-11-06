@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CORS URL loader factory implementation
+// summary: Implements the factory that creates CORS-capable URL loaders and validates request parameters such as Trust Tokens and CORS-exempt headers.
+// ---
+
 #include "services/network/cors/cors_url_loader_factory.h"
 
 #include <optional>

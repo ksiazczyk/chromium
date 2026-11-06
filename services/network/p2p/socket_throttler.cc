@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: P2P message throttler implementation
+// summary: Implements the P2P message throttler that rate-limits outgoing ICE messages using a WebRTC data rate limiter.
+// ---
+
 #include "services/network/p2p/socket_throttler.h"
 
 #include <memory>

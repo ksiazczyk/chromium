@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: P2P directory include rules
+summary: Defines allowed include dependencies for the p2p network service directory, permitting webrtc components and rtc_base/media headers.

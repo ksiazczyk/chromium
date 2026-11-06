@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Trust Tokens issue tracker metadata
+summary: Maps the directory to the Internals>Network>PrivateTokens monorail component and a Buganizer component ID.

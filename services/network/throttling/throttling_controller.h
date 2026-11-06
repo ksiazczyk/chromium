@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThrottlingController class header
+// summary: Declares ThrottlingController, which manages throttling profiles and interceptors, matching URL patterns to NetworkConditions for network emulation.
+// ---
+
 #ifndef SERVICES_NETWORK_THROTTLING_THROTTLING_CONTROLLER_H_
 #define SERVICES_NETWORK_THROTTLING_THROTTLING_CONTROLLER_H_
 

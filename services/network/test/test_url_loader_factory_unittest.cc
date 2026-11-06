@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestURLLoaderFactory unit tests
+// summary: Unit tests covering TestURLLoaderFactory behavior, including AddResponse variants, HTTP status codes, and multiple requests to the same URL.
+// ---
+
 #include "services/network/test/test_url_loader_factory.h"
 
 #include "base/byte_size.h"

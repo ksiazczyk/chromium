@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestSocketBrokerImpl implementation
+// summary: Implements TestSocketBrokerImpl, letting tests configure whether socket creation attempts fail with ERR_CONNECTION_FAILED.
+// ---
+
 #include "services/network/test/test_socket_broker_impl.h"
 
 #include "base/functional/bind.h"

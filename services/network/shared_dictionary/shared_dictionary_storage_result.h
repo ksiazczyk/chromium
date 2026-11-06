@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared dictionary storage result enum
+// summary: Defines the SharedDictionaryStorageResult enum used for UMA logging to Net.SharedDictionaryOnDisk.StorageResult.
+// ---
+
 #ifndef SERVICES_NETWORK_SHARED_DICTIONARY_SHARED_DICTIONARY_STORAGE_RESULT_H_
 #define SERVICES_NETWORK_SHARED_DICTIONARY_SHARED_DICTIONARY_STORAGE_RESULT_H_
 

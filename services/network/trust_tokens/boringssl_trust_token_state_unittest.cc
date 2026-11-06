@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BoringSSL Trust Token state unit tests
+// summary: Unit tests for BoringsslTrustTokenState::Create covering valid, zero, maximal, oversized, and negative batch sizes plus context retrieval.
+// ---
+
 #include "services/network/trust_tokens/boringssl_trust_token_state.h"
 
 #include "testing/gmock/include/gmock/gmock.h"

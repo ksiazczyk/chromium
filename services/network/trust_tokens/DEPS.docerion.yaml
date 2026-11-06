@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Trust Tokens include rules
+summary: DEPS include rules allowing the directory to depend on CBOR, SQLite proto, protobuf, and SQL components.

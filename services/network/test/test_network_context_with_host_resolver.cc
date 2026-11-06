@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestNetworkContextWithHostResolver implementation
+// summary: Implements a TestNetworkContext extension that resolves hosts through a supplied net::HostResolver and reports results back to the ResolveHostClient.
+// ---
+
 #include "services/network/test/test_network_context_with_host_resolver.h"
 
 #include <memory>

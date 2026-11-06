@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trust Tokens type conversion utilities implementation
+// summary: Implements conversions between protobuf Timestamps and base::Time plus string serialization of Trust Token operation types and protocol versions.
+// ---
+
 #include "services/network/trust_tokens/types.h"
 
 #include "base/json/values_util.h"

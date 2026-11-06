@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestDataPipeGetter implementation
+// summary: Implements a test DataPipeGetter that writes a given string into a mojo data pipe, with options to simulate start errors or early pipe closure.
+// ---
+
 #include "services/network/test/test_data_pipe_getter.h"
 
 #include <algorithm>

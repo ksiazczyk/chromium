@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BoringSSL Trust Token redemption cryptographer implementation
+// summary: Implements the Trust Tokens redemption operation by canonicalizing client data and invoking BoringSSL redemption methods.
+// ---
+
 #include "services/network/trust_tokens/boringssl_trust_token_redemption_cryptographer.h"
 
 #include <optional>

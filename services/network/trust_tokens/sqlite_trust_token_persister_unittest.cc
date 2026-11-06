@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SQLite Trust Token persister unit tests
+// summary: Tests the SQLite Trust Tokens persister by writing issuer config, reinitializing from disk, and reading it back, plus creating a persister in a nonexistent directory.
+// ---
+
 #include "services/network/trust_tokens/sqlite_trust_token_persister.h"
 
 #include <memory>

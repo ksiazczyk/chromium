@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CORS URL loader implementation
+// summary: Implements the network service URL loader that enforces the fetch CORS protocol, including preflight decisions, redirects and response handling.
+// ---
+
 #include "services/network/cors/cors_url_loader.h"
 
 #include <algorithm>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for network service tests
+summary: Grants trust_token_request_handler.cc an include exception for components/cbor within the network service test directory.

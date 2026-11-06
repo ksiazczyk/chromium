@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CORS preflight controller unit tests
+// summary: Unit tests for the CORS preflight controller, verifying preflight request creation, response access checks, and loader factory integration.
+// ---
+
 #include "services/network/cors/preflight_controller.h"
 
 #include <memory>

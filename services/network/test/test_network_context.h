@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestNetworkContext header
+// summary: Declares a no-op mojom::NetworkContext implementation that tests can subclass to create specialized mocks or fakes.
+// ---
+
 #ifndef SERVICES_NETWORK_TEST_TEST_NETWORK_CONTEXT_H_
 #define SERVICES_NETWORK_TEST_TEST_NETWORK_CONTEXT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CORS URL loader test utilities implementation
+// summary: Implements test doubles and helpers, including a test URL loader factory, used by the CORS loader unit tests.
+// ---
+
 #include "services/network/cors/cors_url_loader_test_util.h"
 
 #include "base/functional/bind.h"

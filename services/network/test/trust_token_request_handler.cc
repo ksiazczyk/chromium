@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Trust Tokens test request handler implementation
+// summary: Implements server-side Trust Tokens issuance and redemption logic with configurable keys, batch sizes, and forced failure outcomes for tests.
+// ---
+
 #include "services/network/test/trust_token_request_handler.h"
 
 #include <optional>

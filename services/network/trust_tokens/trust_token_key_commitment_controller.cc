@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trust Tokens key commitment controller implementation
+// summary: Implements TrustTokenKeyCommitmentController, which fetches an issuer's key commitment from its .well-known path and reports success, parse, redirect, or network errors.
+// ---
+
 #include "services/network/trust_tokens/trust_token_key_commitment_controller.h"
 
 #include <memory>

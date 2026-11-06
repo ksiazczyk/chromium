@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Trust token request redemption helper unit tests
+// summary: Unit tests for the redemption helper, verifying issuer limits, redemption record caching, refresh policies, and cryptographic redemption flows with mocked components.
+// ---
+
 #include "services/network/trust_tokens/trust_token_request_redemption_helper.h"
 
 #include <memory>

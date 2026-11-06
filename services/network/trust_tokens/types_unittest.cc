@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Trust Tokens type conversion unit tests
+// summary: Unit test verifying the roundtrip between base::Time and protobuf Timestamp conversions in the Trust Tokens type utilities.
+// ---
+
 #include "services/network/trust_tokens/types.h"
 #include "base/time/time.h"
 #include "services/network/trust_tokens/proto/public.pb.h"

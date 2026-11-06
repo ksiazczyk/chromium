@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SCTAuditingReporter implementation
+// summary: Implements sending a single SCT auditing report to the server, with retry backoff and hashdance lookup query handling.
+// ---
+
 #include "services/network/sct_auditing/sct_auditing_reporter.h"
 
 #include <optional>

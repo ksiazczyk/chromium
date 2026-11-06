@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trust token operation metrics recorder header
+// summary: Declares a recorder class for timing and success metrics of a single Trust Tokens operation and a helper for logging net error codes.
+// ---
+
 #ifndef SERVICES_NETWORK_TRUST_TOKENS_TRUST_TOKEN_OPERATION_METRICS_RECORDER_H_
 #define SERVICES_NETWORK_TRUST_TOKENS_TRUST_TOKEN_OPERATION_METRICS_RECORDER_H_
 

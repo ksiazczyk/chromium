@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trust token request redemption helper header
+// summary: Declares the redemption helper that redeems a single trust token for a top-level origin, including its Cryptographer and KeyPairGenerator interfaces mirroring the BoringSSL API.
+// ---
+
 #ifndef SERVICES_NETWORK_TRUST_TOKENS_TRUST_TOKEN_REQUEST_REDEMPTION_HELPER_H_
 #define SERVICES_NETWORK_TRUST_TOKENS_TRUST_TOKEN_REQUEST_REDEMPTION_HELPER_H_
 

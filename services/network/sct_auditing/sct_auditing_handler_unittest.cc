@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SCTAuditingHandler unit tests
+// summary: Unit tests for SCTAuditingHandler covering report enqueueing, persistence, deserialization and popular SCT handling.
+// ---
+
 #include "services/network/sct_auditing/sct_auditing_handler.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Redemption record expiry delegate unit tests
+// summary: Unit tests covering record expiry when key commitments are absent, keys do not match, or the record's lifetime has elapsed.
+// ---
+
 #include "services/network/trust_tokens/expiry_inspecting_record_expiry_delegate.h"
 
 #include <vector>

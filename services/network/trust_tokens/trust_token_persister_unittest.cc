@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Trust token persister unit tests
+// summary: Unit tests for the in-memory and SQLite trust token persisters, covering storage, key and time-filtered deletion matchers.
+// ---
+
 #include "services/network/trust_tokens/trust_token_persister.h"
 
 #include <cstdint>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OSCryptCacheEncryptionDelegate class declaration
+// summary: Declares the net::CacheEncryptionDelegate implementation that obtains cache encryption keys asynchronously through a Mojo CacheEncryptionProvider using OSCrypt.
+// ---
+
 #ifndef SERVICES_NETWORK_ENTERPRISE_ENCRYPTION_OS_CRYPT_CACHE_ENCRYPTION_DELEGATE_H_
 #define SERVICES_NETWORK_ENTERPRISE_ENCRYPTION_OS_CRYPT_CACHE_ENCRYPTION_DELEGATE_H_
 

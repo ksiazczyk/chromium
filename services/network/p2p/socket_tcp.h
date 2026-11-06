@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: P2P TCP socket header
+// summary: Declares P2PSocketTcpBase with read and write handling, send buffers, and hooks for TCP P2P socket variants.
+// ---
+
 #ifndef SERVICES_NETWORK_P2P_SOCKET_TCP_H_
 #define SERVICES_NETWORK_P2P_SOCKET_TCP_H_
 

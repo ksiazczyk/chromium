@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CORS URL loader Timing-Allow-Origin unit tests
+// summary: Unit tests verifying Timing-Allow-Origin checks pass on same-origin redirects and fail on cross-origin resources and navigations.
+// ---
+
 #include <optional>
 #include <string>
 #include <vector>

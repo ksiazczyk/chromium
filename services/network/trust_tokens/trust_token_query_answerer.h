@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trust token query answerer header
+// summary: Declares TrustTokenQueryAnswerer, a class bound to a top frame origin that answers HasTrustTokens and HasRedemptionRecord queries against the token store.
+// ---
+
 #ifndef SERVICES_NETWORK_TRUST_TOKENS_TRUST_TOKEN_QUERY_ANSWERER_H_
 #define SERVICES_NETWORK_TRUST_TOKENS_TRUST_TOKEN_QUERY_ANSWERER_H_
 

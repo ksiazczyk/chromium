@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared dictionary storage base implementation
+// summary: Implements the SharedDictionaryStorage base class, parsing Use-As-Dictionary headers, computing expiration times, and creating dictionary writers for responses.
+// ---
+
 #include "services/network/shared_dictionary/shared_dictionary_storage.h"
 
 #include <algorithm>

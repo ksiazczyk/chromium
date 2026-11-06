@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-memory shared dictionary storage implementation
+// summary: Implements the in-memory storage, matching dictionaries for URLs and destinations, deleting expired entries, and clearing data by time range.
+// ---
+
 #include "services/network/shared_dictionary/shared_dictionary_storage_in_memory.h"
 
 #include <list>

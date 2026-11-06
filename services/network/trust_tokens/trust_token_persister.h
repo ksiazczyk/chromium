@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trust token persister interface
+// summary: Defines the TrustTokenPersister interface for a backing store of Trust Tokens state, covering issuer, toplevel, and issuer-toplevel pair configs and deletion.
+// ---
+
 #ifndef SERVICES_NETWORK_TRUST_TOKENS_TRUST_TOKEN_PERSISTER_H_
 #define SERVICES_NETWORK_TRUST_TOKENS_TRUST_TOKEN_PERSISTER_H_
 

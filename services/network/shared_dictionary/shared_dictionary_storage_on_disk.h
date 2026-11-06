@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: On-disk shared dictionary storage header
+// summary: Declares SharedDictionaryStorageOnDisk and WrappedDictionaryInfo for dictionaries persisted in the SQLite persistent shared dictionary store.
+// ---
+
 #ifndef SERVICES_NETWORK_SHARED_DICTIONARY_SHARED_DICTIONARY_STORAGE_ON_DISK_H_
 #define SERVICES_NETWORK_SHARED_DICTIONARY_SHARED_DICTIONARY_STORAGE_ON_DISK_H_
 

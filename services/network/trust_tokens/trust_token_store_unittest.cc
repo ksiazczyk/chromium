@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Trust token store unit tests
+// summary: Unit tests for TrustTokenStore covering issuance and redemption timestamps, rate limits, record expiry, and data deletion using an in-memory persister and mock time.
+// ---
+
 #include "services/network/trust_tokens/trust_token_store.h"
 
 #include <map>

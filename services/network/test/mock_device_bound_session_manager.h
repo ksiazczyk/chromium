@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock device bound session manager header
+// summary: Declares a gmock-based mock of mojom::DeviceBoundSessionManager covering session creation, deletion, observation and prewarming for tests.
+// ---
+
 #ifndef SERVICES_NETWORK_TEST_MOCK_DEVICE_BOUND_SESSION_MANAGER_H_
 #define SERVICES_NETWORK_TEST_MOCK_DEVICE_BOUND_SESSION_MANAGER_H_
 

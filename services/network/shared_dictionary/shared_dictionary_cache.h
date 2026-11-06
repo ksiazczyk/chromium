@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedDictionaryCache class declaration
+// summary: Declares an LRU memory cache for SharedDictionary instances keyed by unguessable cache tokens, currently limited to document-like requests.
+// ---
+
 #ifndef SERVICES_NETWORK_SHARED_DICTIONARY_SHARED_DICTIONARY_CACHE_H_
 #define SERVICES_NETWORK_SHARED_DICTIONARY_SHARED_DICTIONARY_CACHE_H_
 

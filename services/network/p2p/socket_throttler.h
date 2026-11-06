@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: P2P message throttler header
+// summary: Declares the P2P message throttler class used to drop packets that exceed the configured send bandwidth.
+// ---
+
 #ifndef SERVICES_NETWORK_P2P_SOCKET_THROTTLER_H_
 #define SERVICES_NETWORK_P2P_SOCKET_THROTTLER_H_
 

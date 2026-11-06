@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TrustTokenKeyCommitmentController unit tests
+// summary: Unit tests covering key commitment request creation, redirect handling, response parsing, and error paths of TrustTokenKeyCommitmentController using test URL loader factories.
+// ---
+
 #include "services/network/trust_tokens/trust_token_key_commitment_controller.h"
 
 #include <memory>

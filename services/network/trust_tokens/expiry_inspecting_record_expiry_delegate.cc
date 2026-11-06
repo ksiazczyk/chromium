@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Redemption record expiry delegate implementation
+// summary: Implements expiry checks that mark redemption records expired when their verification key is missing from issuer key commitments or their lifetime has elapsed.
+// ---
+
 #include "services/network/trust_tokens/expiry_inspecting_record_expiry_delegate.h"
 
 #include <algorithm>

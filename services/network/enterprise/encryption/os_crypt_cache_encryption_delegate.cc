@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OSCryptCacheEncryptionDelegate implementation
+// summary: Implements the cache encryption delegate that decrypts the primary key via OSCrypt and provides encrypted backend file operations and cache entry hasher factories.
+// ---
+
 #include "services/network/enterprise/encryption/os_crypt_cache_encryption_delegate.h"
 
 #include <memory>

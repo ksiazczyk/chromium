@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trust Tokens type conversion utilities header
+// summary: Declares utility functions for Trust Tokens type conversion, including Timestamp and base::Time conversions and serialization of operation types and protocol versions.
+// ---
+
 #ifndef SERVICES_NETWORK_TRUST_TOKENS_TYPES_H_
 #define SERVICES_NETWORK_TRUST_TOKENS_TYPES_H_
 

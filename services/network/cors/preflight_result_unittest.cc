@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CORS preflight result unit tests
+// summary: Unit tests covering PreflightResult method and header allow-list checks, credential modes, wildcard handling, and cache expiry behavior.
+// ---
+
 #include "services/network/cors/preflight_result.h"
 
 #include "base/check_deref.h"

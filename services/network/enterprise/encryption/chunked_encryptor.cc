@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chunked AES-GCM-SIV encryptor implementation
+// summary: Implements cache file header creation and parsing with HKDF key derivation plus chunked AES-256-GCM-SIV encryption and decryption for the enterprise disk cache.
+// ---
+
 #include "services/network/enterprise/encryption/chunked_encryptor.h"
 
 #include "base/check.h"

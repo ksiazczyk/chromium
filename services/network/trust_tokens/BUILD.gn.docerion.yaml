@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Trust Tokens build configuration
+summary: GN build file defining the trust_tokens source set together with test support and unit test targets for the Trust Tokens implementation.

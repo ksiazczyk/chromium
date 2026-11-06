@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockURLLoaderClient gmock header
+// summary: Declares a gmock implementation of network::mojom::URLLoaderClient that mocks response, redirect, progress and completion callbacks for tests.
+// ---
+
 #ifndef SERVICES_NETWORK_TEST_MOCK_URL_LOADER_CLIENT_H_
 #define SERVICES_NETWORK_TEST_MOCK_URL_LOADER_CLIENT_H_
 

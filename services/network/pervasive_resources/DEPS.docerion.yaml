@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the pervasive resources directory
+summary: Grants shared_resource_checker.cc permission to include the third-party zstd library.

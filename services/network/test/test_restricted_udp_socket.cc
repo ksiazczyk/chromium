@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestRestrictedUDPSocket implementation
+// summary: Implements a restricted UDP socket test wrapper that forwards group, receive, and send calls to an underlying TestUDPSocket using test traffic annotations.
+// ---
+
 #include "services/network/test/test_restricted_udp_socket.h"
 
 #include "base/notimplemented.h"

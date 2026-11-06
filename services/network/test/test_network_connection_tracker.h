@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestNetworkConnectionTracker header
+// summary: Declares a NetworkConnectionTracker subclass for unit tests to set the network connection type and control whether responses are synchronous or asynchronous.
+// ---
+
 #ifndef SERVICES_NETWORK_TEST_TEST_NETWORK_CONNECTION_TRACKER_H_
 #define SERVICES_NETWORK_TEST_TEST_NETWORK_CONNECTION_TRACKER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestSharedURLLoaderFactory implementation
+// summary: Implements a fully functioning SharedURLLoaderFactory backed by a real NetworkContext and URLLoader for use in unittests with a real IO thread.
+// ---
+
 #include "services/network/test/test_shared_url_loader_factory.h"
 
 #include "base/notreached.h"

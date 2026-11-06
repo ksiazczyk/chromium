@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Trust Tokens embedded test server handler registration
+// summary: Registers Trust Tokens issuance, redemption, and signed request verification endpoints on an embedded test server so browser tests can share the setup.
+// ---
+
 #include "services/network/test/trust_token_test_server_handler_registration.h"
 
 #include <memory>

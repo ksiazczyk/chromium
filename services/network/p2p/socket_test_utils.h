@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: P2P socket test utilities header
+// summary: Declares fake socket, delegate and client classes plus test addresses shared by the P2P socket unit tests.
+// ---
+
 #ifndef SERVICES_NETWORK_P2P_SOCKET_TEST_UTILS_H_
 #define SERVICES_NETWORK_P2P_SOCKET_TEST_UTILS_H_
 

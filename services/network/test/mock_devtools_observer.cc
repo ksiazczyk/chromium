@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock DevTools observer implementation
+// summary: Implements a mock DevToolsObserver that records raw request and response cookies, headers, CORS preflight and local network events for test assertions.
+// ---
+
 #include "services/network/test/mock_devtools_observer.h"
 
 #include "base/run_loop.h"

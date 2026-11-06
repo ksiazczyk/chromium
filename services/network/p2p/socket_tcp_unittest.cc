@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: P2P TCP socket unit tests
+// summary: Unit tests for the TCP and STUN TCP P2P socket implementations, covering connection setup and packet sending and receiving through fake sockets.
+// ---
+
 #include "services/network/p2p/socket_tcp.h"
 
 #include <stddef.h>

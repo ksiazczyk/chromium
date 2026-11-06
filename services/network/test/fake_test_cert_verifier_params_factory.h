@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake cert verifier params factory header
+// summary: Declares a fake cert verifier service factory that accepts all certificates, simplifying NetworkContext setup in tests that do not exercise cert verification.
+// ---
+
 #ifndef SERVICES_NETWORK_TEST_FAKE_TEST_CERT_VERIFIER_PARAMS_FACTORY_H_
 #define SERVICES_NETWORK_TEST_FAKE_TEST_CERT_VERIFIER_PARAMS_FACTORY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestNetworkQualityTracker header
+// summary: Declares a test version of NetworkQualityTracker that works without the network service instance.
+// ---
+
 #ifndef SERVICES_NETWORK_TEST_TEST_NETWORK_QUALITY_TRACKER_H_
 #define SERVICES_NETWORK_TEST_TEST_NETWORK_QUALITY_TRACKER_H_
 

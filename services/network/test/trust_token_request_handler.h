@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Trust Tokens test request handler header
+// summary: Declares a thread-safe handler encapsulating server-side Trust Tokens issuance, redemption, and signed request verification for use in tests.
+// ---
+
 #ifndef SERVICES_NETWORK_TEST_TRUST_TOKEN_REQUEST_HANDLER_H_
 #define SERVICES_NETWORK_TEST_TRUST_TOKEN_REQUEST_HANDLER_H_
 

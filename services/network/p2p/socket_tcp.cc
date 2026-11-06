@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: P2P TCP socket implementation
+// summary: Implements TCP-based P2P sockets, including TLS and pseudo-TLS variants, with packet framing, sending, and port restriction checks.
+// ---
+
 #include "services/network/p2p/socket_tcp.h"
 
 #include <stddef.h>

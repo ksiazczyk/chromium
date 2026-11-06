@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SCTAuditingCache implementation
+// summary: Implements the shared cache that builds SCT auditing reports, deduplicates them by SCT hash and samples which reports to send.
+// ---
+
 #include "services/network/sct_auditing/sct_auditing_cache.h"
 
 #include <algorithm>

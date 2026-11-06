@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trust token key filtering implementation
+// summary: Implements removal of expired verification keys and retention of the soonest-to-expire keys up to a given count, with deterministic tie-breaking.
+// ---
+
 #include "services/network/trust_tokens/trust_token_key_filtering.h"
 
 #include <algorithm>

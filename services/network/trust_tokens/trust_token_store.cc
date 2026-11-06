@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trust token store implementation
+// summary: Implements persistent Trust Tokens protocol state, translating issuance, redemption, and signing operations into key-value storage with rate limit and record expiry checks.
+// ---
+
 #include "services/network/trust_tokens/trust_token_store.h"
 
 #include <algorithm>

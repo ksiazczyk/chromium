@@ -1,3 +1,9 @@
+---
+type: readme
+title: SCT Auditing
+summary: Explains Chrome's SCT auditing implementation and the roles of the cache, handler and reporter components, plus how auditing is enabled.
+---
+
 # SCT Auditing
 
 `//services/network/sct_auditing` contains the core of Chrome's implementation

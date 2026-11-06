@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ResourceSchedulerClient class header
+// summary: Declares the ref-counted ResourceSchedulerClient that represents a scheduler client and exposes ScheduleRequest and ReprioritizeRequest methods.
+// ---
+
 #ifndef SERVICES_NETWORK_RESOURCE_SCHEDULER_RESOURCE_SCHEDULER_CLIENT_H_
 #define SERVICES_NETWORK_RESOURCE_SCHEDULER_RESOURCE_SCHEDULER_CLIENT_H_
 

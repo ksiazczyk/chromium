@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Disk-backed shared dictionary implementation
+// summary: Implements SharedDictionaryOnDisk, which loads dictionary data from a disk cache entry and records open and read latency histograms.
+// ---
+
 #include "services/network/shared_dictionary/shared_dictionary_on_disk.h"
 
 #include <string>

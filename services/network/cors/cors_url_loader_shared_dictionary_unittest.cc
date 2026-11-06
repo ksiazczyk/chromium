@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CORS URL loader shared dictionary unit tests
+// summary: Unit tests for CORS URL loading behavior when shared dictionaries are enabled, covering secure and insecure origins.
+// ---
+
 #include "base/test/scoped_feature_list.h"
 #include "mojo/public/cpp/system/data_pipe_utils.h"
 #include "net/cert/cert_status_flags.h"

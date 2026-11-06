@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Trust Tokens client data canonicalization unit tests
+// summary: Tests that timestamps before the Unix epoch are rejected and that serialized redemption client data round-trips with the expected timestamp and origin fields.
+// ---
+
 #include "services/network/trust_tokens/trust_token_client_data_canonicalization.h"
 
 #include "base/containers/span.h"

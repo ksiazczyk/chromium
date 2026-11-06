@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared resource checker implementation
+// summary: Implements matching of requests against pervasive resource patterns, limiting matches per hour and enforcing cookie, gesture, and load-flag conditions.
+// ---
+
 #include "services/network/pervasive_resources/shared_resource_checker.h"
 
 #include <string_view>

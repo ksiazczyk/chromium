@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: P2P socket test utilities implementation
+// summary: Implements fake sockets, delegates and clients used as shared helpers by the P2P socket unit tests.
+// ---
+
 #include "services/network/p2p/socket_test_utils.h"
 
 #include <stddef.h>

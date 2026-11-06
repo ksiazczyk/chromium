@@ -1,3 +1,11 @@
+---
+type: readme
+title: Compression dictionary transport with Shared Brotli
+summary: Explains the shared dictionary implementation with a class overview, dictionary storage flow, size limitations, feature flags and related links.
+relations:
+  - documents /services/network/shared_dictionary/shared_dictionary_data_pipe_writer.cc
+---
+
 # Compression dictionary transport with Shared Brotli
 
 This directory contains the implementation for Compression Dictionary Transport

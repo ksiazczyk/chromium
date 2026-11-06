@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedDictionaryAccessChecker class declaration
+// summary: Declares the checker that decides if shared dictionary use is allowed and asynchronously reports usage so the browser can show site data UI.
+// ---
+
 #ifndef SERVICES_NETWORK_SHARED_DICTIONARY_SHARED_DICTIONARY_ACCESS_CHECKER_H_
 #define SERVICES_NETWORK_SHARED_DICTIONARY_SHARED_DICTIONARY_ACCESS_CHECKER_H_
 

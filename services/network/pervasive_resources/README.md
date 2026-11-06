@@ -1,3 +1,9 @@
+---
+type: readme
+title: Cache sharing for extremely-pervasive resources
+summary: Explains the feature, how the pervasive resource list is generated, and the criteria and expiration rules for using the single-keyed HTTP cache.
+---
+
 # Cache sharing for extremely-pervasive resources
 
 This directory contains the core of the logic for determining if a request is for a pervasive resource as part of the implementation for cache sharing for extremely-pervasive resources.

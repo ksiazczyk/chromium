@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: In-memory shared dictionary writer unit tests
+// summary: Unit tests for SharedDictionaryWriterInMemory covering simple and multiple writes, aborts, and error results.
+// ---
+
 #include "services/network/shared_dictionary/shared_dictionary_writer_in_memory.h"
 
 #include "base/functional/callback_helpers.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TrustTokenKeyCommitmentParser unit tests
+// summary: Unit and fuzz tests verifying the key commitment parser accepts valid JSON commitments and rejects empty, malformed, non-dictionary, or type-unsafe inputs.
+// ---
+
 #include "services/network/trust_tokens/trust_token_key_commitment_parser.h"
 
 #include "base/base64.h"

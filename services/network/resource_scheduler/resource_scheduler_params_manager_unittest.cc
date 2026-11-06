@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Resource scheduler params manager unit tests
+// summary: Unit tests verifying that ResourceSchedulerParamsManager reads experiment configurations and returns correct parameters for each effective connection type.
+// ---
+
 #include "services/network/resource_scheduler/resource_scheduler_params_manager.h"
 
 #include <map>

@@ -1,3 +1,9 @@
+---
+type: readme
+title: Resource Scheduler
+summary: Explains the purpose and design of the resource scheduler, which orders HTTP request dispatch so low priority resources do not contend with high priority ones.
+---
+
 # Resource Scheduler
 
 Resource scheduler controls the loading of the webpages by scheduling the order in which the HTTP requests are dispatched on the network. It ensures that the loading of lower priority resources (e.g., XHRs, images) does not slow down the loading of the higher priority resources (e.g., HTML, CSS, render blocking JavaScript) while ensuring the maximum usage of the available network resources.

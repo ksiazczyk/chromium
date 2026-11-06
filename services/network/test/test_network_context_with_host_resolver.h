@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestNetworkContextWithHostResolver header
+// summary: Declares a TestNetworkContext subclass with built-in host resolution via a provided net::HostResolver for use in tests.
+// ---
+
 #ifndef SERVICES_NETWORK_TEST_TEST_NETWORK_CONTEXT_WITH_HOST_RESOLVER_H_
 #define SERVICES_NETWORK_TEST_TEST_NETWORK_CONTEXT_WITH_HOST_RESOLVER_H_
 

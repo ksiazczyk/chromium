@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkConditions implementation
+// summary: Implements the NetworkConditions class that stores desired network emulation settings such as offline mode, latency, throughput, packet loss, and packet reordering.
+// ---
+
 #include "services/network/throttling/network_conditions.h"
 
 #include <algorithm>

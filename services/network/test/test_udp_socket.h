@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestUDPSocket header
+// summary: Declares TestUDPSocket, a no-op implementation of the UDPSocket Mojo interface useful as a base for specialized test mocks and fakes.
+// ---
+
 #ifndef SERVICES_NETWORK_TEST_TEST_UDP_SOCKET_H_
 #define SERVICES_NETWORK_TEST_TEST_UDP_SOCKET_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestUDPSocket implementation
+// summary: Implements a no-op mojom::UDPSocket whose methods are NOTIMPLEMENTED, serving as a base to override with specialized mocks or fakes.
+// ---
+
 #include "services/network/test/test_udp_socket.h"
 
 #include "base/notimplemented.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trust Token URL loader interceptor implementation
+// summary: Implements the interceptor that manages Trust Token operations for a URL request, creating helpers via the factory, adjusting load flags, and handling the begin and finalize phases.
+// ---
+
 #include "services/network/trust_tokens/trust_token_url_loader_interceptor.h"
 
 #include <utility>

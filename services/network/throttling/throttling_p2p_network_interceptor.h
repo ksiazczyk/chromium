@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Throttling P2P network interceptor class declaration
+// summary: Declares an interceptor that applies simulated network conditions to registered P2PSocketUdp sockets for WebRTC traffic.
+// ---
+
 #ifndef SERVICES_NETWORK_THROTTLING_THROTTLING_P2P_NETWORK_INTERCEPTOR_H_
 #define SERVICES_NETWORK_THROTTLING_THROTTLING_P2P_NETWORK_INTERCEPTOR_H_
 

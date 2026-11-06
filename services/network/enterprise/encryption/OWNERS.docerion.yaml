@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the enterprise encryption directory
+summary: Lists the primary owner and the review group responsible for approving changes to the enterprise encryption code.

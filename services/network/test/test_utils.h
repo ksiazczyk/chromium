@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network service test utilities header
+// summary: Declares test helpers for reading upload data, creating URL response heads, adding cookies, and building NetworkContextParams for testing.
+// ---
+
 #ifndef SERVICES_NETWORK_TEST_TEST_UTILS_H_
 #define SERVICES_NETWORK_TEST_TEST_UTILS_H_
 

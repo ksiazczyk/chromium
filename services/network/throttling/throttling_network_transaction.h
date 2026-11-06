@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Throttling network transaction class declaration
+// summary: Declares ThrottlingNetworkTransaction, an HttpTransaction wrapper that applies throttling to network requests and can fail with ERR_INTERNET_DISCONNECTED.
+// ---
+
 #ifndef SERVICES_NETWORK_THROTTLING_THROTTLING_NETWORK_TRANSACTION_H_
 #define SERVICES_NETWORK_THROTTLING_THROTTLING_NETWORK_TRANSACTION_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Trust Tokens test utilities declarations
+// summary: Declares shared Trust Tokens test helpers such as the request helper test fixture, URLRequest maker mixin, and structures for serializing Trust Tokens parameters in tests.
+// ---
+
 #ifndef SERVICES_NETWORK_TEST_TRUST_TOKEN_TEST_UTIL_H_
 #define SERVICES_NETWORK_TEST_TRUST_TOKEN_TEST_UTIL_H_
 

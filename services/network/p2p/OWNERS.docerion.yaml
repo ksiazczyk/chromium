@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: P2P directory owners
+summary: Lists the code owners responsible for reviewing changes to the p2p network service directory.

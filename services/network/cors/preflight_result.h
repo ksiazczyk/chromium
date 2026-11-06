@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CORS preflight result class header
+// summary: Declares the PreflightResult class that holds CORS-preflight results and provides access checks for methods, headers, credentials, and cache expiry.
+// ---
+
 #ifndef SERVICES_NETWORK_CORS_PREFLIGHT_RESULT_H_
 #define SERVICES_NETWORK_CORS_PREFLIGHT_RESULT_H_
 

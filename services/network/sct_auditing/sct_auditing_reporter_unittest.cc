@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SCTAuditingReporter unit tests
+// summary: Unit tests for SCTAuditingReporter covering report delivery, retry behavior, lookup query results, and hashdance metadata handling using a test network context.
+// ---
+
 #include "services/network/sct_auditing/sct_auditing_reporter.h"
 
 #include <utility>

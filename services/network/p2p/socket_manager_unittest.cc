@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: P2P socket manager unit tests
+// summary: Unit tests for P2PSocketManager covering network list notifications and socket creation under port restrictions.
+// ---
+
 #include "services/network/p2p/socket_manager.h"
 
 #include "base/functional/callback_helpers.h"

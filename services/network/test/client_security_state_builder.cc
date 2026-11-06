@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Client security state builder implementation
+// summary: Implements a fluent builder that assembles network::mojom::ClientSecurityState values for use in network service tests.
+// ---
+
 #include "services/network/test/client_security_state_builder.h"
 
 #include "services/network/public/cpp/cross_origin_embedder_policy.h"

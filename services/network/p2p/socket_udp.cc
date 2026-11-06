@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: P2P UDP socket implementation
+// summary: Implements the UDP P2P socket, handling packet send and receive batching, transient errors, ToS and ECN options, and throttling.
+// ---
+
 #include "services/network/p2p/socket_udp.h"
 
 #include <tuple>

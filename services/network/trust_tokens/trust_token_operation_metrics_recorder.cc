@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trust token operation metrics recorder implementation
+// summary: Records timing and success histograms for Trust Tokens operations, covering begin, finalize, server, and total times plus net error logging.
+// ---
+
 #include <string_view>
 
 #include "services/network/trust_tokens/trust_token_operation_metrics_recorder.h"

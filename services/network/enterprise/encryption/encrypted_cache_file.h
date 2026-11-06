@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EncryptedCacheFile class declaration
+// summary: Declares the EncryptedCacheFile decorator of disk_cache::CacheFile that adds chunk-based encryption, along with decryption failure reason and source enums.
+// ---
+
 #ifndef SERVICES_NETWORK_ENTERPRISE_ENCRYPTION_ENCRYPTED_CACHE_FILE_H_
 #define SERVICES_NETWORK_ENTERPRISE_ENCRYPTION_ENCRYPTED_CACHE_FILE_H_
 

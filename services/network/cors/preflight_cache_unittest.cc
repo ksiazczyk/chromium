@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CORS preflight cache unit tests
+// summary: Unit tests for the CORS preflight cache, covering entry insertion, lookup, expiry, per-site eviction, and cache clearing behavior.
+// ---
+
 #include "services/network/cors/preflight_cache.h"
 
 #include <stddef.h>

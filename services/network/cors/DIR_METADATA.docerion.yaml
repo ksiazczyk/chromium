@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the CORS network service folder
+summary: Specifies the Chromium issue tracker components (Blink>SecurityFeature>CORS) used for bugs in this directory.

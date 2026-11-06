@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Throttling directory DEPS include rules
+summary: Defines include dependency rules for the throttling directory, allowing includes from third_party/webrtc.

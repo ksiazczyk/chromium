@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DNS lookup test utilities implementation
+// summary: Implements DnsLookupResult and BlockingDnsLookup, which performs a host resolution through a NetworkContext and blocks until it completes.
+// ---
+
 #include "services/network/test/test_dns_util.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedDictionaryAccessChecker implementation
+// summary: Checks whether a network transaction may write or read a shared dictionary based on cookie settings and reports the access to the browser process.
+// ---
+
 #include "services/network/shared_dictionary/shared_dictionary_access_checker.h"
 
 #include "net/base/isolation_info.h"
