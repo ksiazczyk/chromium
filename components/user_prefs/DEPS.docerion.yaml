@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for user_prefs
+summary: Restricts include dependencies for the component, blocking content and iOS layers while allowing components/prefs.

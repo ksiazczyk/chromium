@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Help bubble factory registry
+// summary: Declares HelpBubbleFactoryRegistry, which manages framework-specific bubble factories, creates bubbles, and tracks open bubbles per element context.
+// ---
+
 #ifndef COMPONENTS_USER_EDUCATION_COMMON_HELP_BUBBLE_HELP_BUBBLE_FACTORY_REGISTRY_H_
 #define COMPONENTS_USER_EDUCATION_COMMON_HELP_BUBBLE_HELP_BUBBLE_FACTORY_REGISTRY_H_
 

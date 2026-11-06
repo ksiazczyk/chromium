@@ -1,3 +1,13 @@
+---
+type: guide
+title: Getting Started with User Education
+summary: Entry point for implementing user education journeys, linking to feature promos, tutorials and help bubble documentation.
+relations:
+  - references /components/user_education/custom-help-bubbles.md
+  - references /components/user_education/feature-promos.md
+  - references /components/user_education/help-bubbles.md
+---
+
 # Getting started with User Education
 
 User Education is currently supported on Desktop Chrome and ChromeOS, with

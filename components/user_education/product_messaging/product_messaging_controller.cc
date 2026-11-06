@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Product messaging controller implementation
+// summary: Implements the multi-lane message queue, handle lifecycle, and superseded notifications that coordinate which spontaneous product message is shown.
+// ---
+
 #include "components/user_education/product_messaging/product_messaging_controller.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock anchor element provider implementation
+// summary: Implements the constructor and destructor of the MockAnchorElementProvider test double.
+// ---
+
 #include "components/user_education/test/mock_anchor_element_provider.h"
 
 namespace user_education::test {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedTypedData test helper
+// summary: Template that temporarily replaces typed data in an unowned typed data collection while in scope, then restores the original value; intended for tests.
+// ---
+
 #ifndef COMPONENTS_USER_EDUCATION_COMMON_FEATURE_PROMO_IMPL_SCOPED_TYPED_DATA_H_
 #define COMPONENTS_USER_EDUCATION_COMMON_FEATURE_PROMO_IMPL_SCOPED_TYPED_DATA_H_
 

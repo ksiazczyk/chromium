@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for user education views
+summary: Defines GN build targets for the user education views library, including the views source set, test support utilities, and unit tests with their platform-specific dependencies.

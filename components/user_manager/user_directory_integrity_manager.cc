@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User directory integrity manager implementation
+// summary: Implements tracking of incomplete user creation in local state so that misconfigured user directories left by crashes can be detected and cleaned up.
+// ---
+
 #include "components/user_manager/user_directory_integrity_manager.h"
 
 #include <optional>

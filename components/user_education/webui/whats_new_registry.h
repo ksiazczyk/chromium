@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: What's New registry and module declarations
+// summary: Declares the WhatsNewModule, WhatsNewEdition and WhatsNewRegistry classes plus feature parameters that control customization and surveys for the What's New page.
+// ---
+
 #ifndef COMPONENTS_USER_EDUCATION_WEBUI_WHATS_NEW_REGISTRY_H_
 #define COMPONENTS_USER_EDUCATION_WEBUI_WHATS_NEW_REGISTRY_H_
 

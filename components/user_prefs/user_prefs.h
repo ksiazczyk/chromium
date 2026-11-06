@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserPrefs class header
+// summary: Declares the UserPrefs API for attaching and retrieving the PrefService associated with a given user context.
+// ---
+
 #ifndef COMPONENTS_USER_PREFS_USER_PREFS_H_
 #define COMPONENTS_USER_PREFS_USER_PREFS_H_
 

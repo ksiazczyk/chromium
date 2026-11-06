@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Help bubble factory registry implementation
+// summary: Implements the factory registry that creates help bubbles via registered factories, tracks open bubbles, and handles closing, focus, and anchor bounds notifications.
+// ---
+
 #include "components/user_education/common/help_bubble/help_bubble_factory_registry.h"
 
 #include <memory>

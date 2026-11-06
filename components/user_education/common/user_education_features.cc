@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User education feature flags and parameters
+// summary: Implements default values and accessors for user education rate limiting, promo timeouts, snooze limits, and NTP browser promo parameters.
+// ---
+
 #include "components/user_education/common/user_education_features.h"
 
 #include "base/command_line.h"

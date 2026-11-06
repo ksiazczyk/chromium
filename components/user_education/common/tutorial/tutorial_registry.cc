@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TutorialRegistry implementation
+// summary: Implements the tutorial registry map, supporting lookup, listing, adding, and test-only removal of tutorial descriptions by identifier.
+// ---
+
 #include "components/user_education/common/tutorial/tutorial_registry.h"
 
 #include <algorithm>

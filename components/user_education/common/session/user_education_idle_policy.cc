@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User education idle policy implementation
+// summary: Implements UserEducationIdlePolicy, which decides when a new user education session starts based on idle time between sessions and minimum valid session length.
+// ---
+
 #include "components/user_education/common/session/user_education_idle_policy.h"
 
 #include "base/time/time.h"

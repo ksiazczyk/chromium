@@ -1,3 +1,12 @@
+---
+type: guide
+title: WebUI HelpBubble backend implementation guide
+summary: Describes how to implement the backend for WebUI help bubbles by linking HTML elements to element identifiers for feature promos and tutorials, and notes limitations.
+relations:
+  - references /chrome/browser/chrome_browser_interface_binders.cc
+  - references /chrome/browser/ui/browser_element_identifiers.h
+  - references /components/user_education/common/feature_promo/feature_promo_controller.h
+---
 
 # WebUI HelpBubble Implementation (Backend)
 

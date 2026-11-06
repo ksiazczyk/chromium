@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserManager base class implementation
+// summary: Implements the UserManager singleton, its account data structures, and registration of user-related local state and profile preferences.
+// ---
+
 #include "components/user_manager/user_manager.h"
 
 #include "base/logging.h"

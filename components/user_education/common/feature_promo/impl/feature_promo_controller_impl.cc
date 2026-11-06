@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feature promo controller implementation
+// summary: Implements FeaturePromoControllerImpl, managing display of in-product help promos with queueing, demo mode support, context resolution, and promo lifecycle handling.
+// ---
+
 #include "components/user_education/common/feature_promo/impl/feature_promo_controller_impl.h"
 
 #include <memory>

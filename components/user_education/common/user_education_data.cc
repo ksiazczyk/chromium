@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User education data structure implementations
+// summary: Implements constructors and assignment for promo, session, policy and NTP data structs plus stream output for feature promo closed reasons.
+// ---
+
 #include "components/user_education/common/user_education_data.h"
 
 namespace user_education {

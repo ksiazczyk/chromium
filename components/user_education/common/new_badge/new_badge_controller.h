@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: New badge controller interface
+// summary: Declares the NewBadgeController interface and its implementation for showing and tracking "New" badges, including a test lock to disable badges in pixel tests.
+// ---
+
 #ifndef COMPONENTS_USER_EDUCATION_COMMON_NEW_BADGE_NEW_BADGE_CONTROLLER_H_
 #define COMPONENTS_USER_EDUCATION_COMMON_NEW_BADGE_NEW_BADGE_CONTROLLER_H_
 

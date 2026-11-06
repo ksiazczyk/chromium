@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User education metadata struct
+// summary: Defines the Metadata struct recording launch milestone, owners, required features, and platforms for user education experiences.
+// ---
+
 #ifndef COMPONENTS_USER_EDUCATION_COMMON_USER_EDUCATION_METADATA_H_
 #define COMPONENTS_USER_EDUCATION_COMMON_USER_EDUCATION_METADATA_H_
 

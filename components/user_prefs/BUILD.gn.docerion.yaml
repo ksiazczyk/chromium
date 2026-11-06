@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for user_prefs
+summary: Defines the user_prefs component sources and a testonly unit_tests source set together with their build dependencies.

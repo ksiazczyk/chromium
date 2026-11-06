@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Product messaging controller class declaration
+// summary: Declares the controller that queues product messages, plus the handle and callback types used to show messages and react to higher-priority ones.
+// ---
+
 #ifndef COMPONENTS_USER_EDUCATION_PRODUCT_MESSAGING_PRODUCT_MESSAGING_CONTROLLER_H_
 #define COMPONENTS_USER_EDUCATION_PRODUCT_MESSAGING_PRODUCT_MESSAGING_CONTROLLER_H_
 

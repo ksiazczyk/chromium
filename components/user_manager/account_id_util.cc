@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccountId dictionary serialization implementation
+// summary: Implements loading, matching, and storing AccountId values in dictionaries using email, GAIA ID, and account type fields.
+// ---
+
 #include "components/user_manager/account_id_util.h"
 
 #include <optional>

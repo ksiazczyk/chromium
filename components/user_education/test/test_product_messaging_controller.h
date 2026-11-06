@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test product message helper for messaging controller tests
+// summary: Declares TestProductMessage, a test helper that requests a product message slot and holds the handle until Release is called.
+// ---
+
 #ifndef COMPONENTS_USER_EDUCATION_TEST_TEST_PRODUCT_MESSAGING_CONTROLLER_H_
 #define COMPONENTS_USER_EDUCATION_TEST_TEST_PRODUCT_MESSAGING_CONTROLLER_H_
 

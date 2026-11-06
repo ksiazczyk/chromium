@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feature promo precondition implementation
+// summary: Implements base, caching, callback-based, and forwarding feature promo precondition classes plus precondition list checking logic.
+// ---
+
 #include "components/user_education/common/feature_promo/feature_promo_precondition.h"
 
 #include "base/check.h"

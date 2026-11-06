@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedUserManager test helper header
+// summary: Declares TypedScopedUserManager, a helper that swaps the global UserManager singleton for a given instance during unit tests and restores the original on destruction.
+// ---
+
 #ifndef COMPONENTS_USER_MANAGER_SCOPED_USER_MANAGER_H_
 #define COMPONENTS_USER_MANAGER_SCOPED_USER_MANAGER_H_
 

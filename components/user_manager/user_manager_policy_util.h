@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device-local account type conversion header
+// summary: Declares DeviceLocalAccountTypeToUserType, which converts policy device-local account types into user_manager UserType values.
+// ---
+
 #ifndef COMPONENTS_USER_MANAGER_USER_MANAGER_POLICY_UTIL_H_
 #define COMPONENTS_USER_MANAGER_USER_MANAGER_POLICY_UTIL_H_
 

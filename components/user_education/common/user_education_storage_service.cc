@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User education storage service implementation
+// summary: Implements the time provider and base storage service helpers for snooze counts, session numbers, and keyed promo data.
+// ---
+
 #include "components/user_education/common/user_education_storage_service.h"
 
 #include "base/feature_list.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User education metadata implementation
+// summary: Implements constructors and move semantics for the Metadata struct that describes user education experiences.
+// ---
+
 #include "components/user_education/common/user_education_metadata.h"
 
 #include <string>

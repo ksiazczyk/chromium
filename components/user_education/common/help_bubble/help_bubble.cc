@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Help bubble base class implementation
+// summary: Implements the HelpBubble lifecycle base class, including closing callbacks, ScopedNotifyOnClosed notification, and default anchor and bounds behavior.
+// ---
+
 #include "components/user_education/common/help_bubble/help_bubble.h"
 
 #include "base/notreached.h"

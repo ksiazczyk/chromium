@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feature promo specification implementation
+// summary: Implements feature promo specification creation and the allowlists for legal notices, actionable alerts, keyed notices, custom UI, and legacy promos.
+// ---
+
 #include "components/user_education/common/feature_promo/feature_promo_specification.h"
 
 #include <string>

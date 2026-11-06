@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for AccountId utilities
+// summary: Tests loading, matching, and storing of AccountId values from dictionaries, covering Google accounts with and without GAIA IDs.
+// ---
+
 #include "components/user_manager/account_id_util.h"
 
 #include <memory>

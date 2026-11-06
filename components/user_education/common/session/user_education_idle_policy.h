@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User education idle policy class declaration
+// summary: Declares UserEducationIdlePolicy, which determines session activity and new-session timing from idle and active periods using configurable time thresholds.
+// ---
+
 #ifndef COMPONENTS_USER_EDUCATION_COMMON_SESSION_USER_EDUCATION_IDLE_POLICY_H_
 #define COMPONENTS_USER_EDUCATION_COMMON_SESSION_USER_EDUCATION_IDLE_POLICY_H_
 

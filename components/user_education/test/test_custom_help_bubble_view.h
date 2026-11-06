@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test custom help bubble view for user education tests
+// summary: Declares TestCustomHelpBubbleView, a bubble dialog delegate with element-identified cancel, dismiss, action and snooze buttons for use in tests.
+// ---
+
 #ifndef COMPONENTS_USER_EDUCATION_TEST_TEST_CUSTOM_HELP_BUBBLE_VIEW_H_
 #define COMPONENTS_USER_EDUCATION_TEST_TEST_CUSTOM_HELP_BUBBLE_VIEW_H_
 

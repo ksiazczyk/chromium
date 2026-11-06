@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for user education common
+summary: Defines the source sets, public dependencies and dependencies that build the user education common component, including feature promo, help bubble, tutorial and new badge code.

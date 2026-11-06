@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: New badge controller unit tests
+// summary: Unit tests for NewBadgeControllerImpl covering badge display rules, feature usage tracking, and policy behavior using mock and configurable test policies.
+// ---
+
 #include "components/user_education/common/new_badge/new_badge_controller.h"
 
 #include "base/feature_list.h"

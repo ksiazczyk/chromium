@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Help bubble views unit tests
+// summary: Unit tests for HelpBubbleViews covering custom bubble creation, anchoring, and element tracker behavior using a themed test widget.
+// ---
+
 #include "components/user_education/views/help_bubble_views.h"
 
 #include <memory>

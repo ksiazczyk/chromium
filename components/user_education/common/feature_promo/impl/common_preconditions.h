@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Common feature promo precondition declarations
+// summary: Declares reusable feature promo precondition classes covering feature enablement, tracker initialization, engagement criteria, context validity, anchor elements, lifecycle, and session policy.
+// ---
+
 #ifndef COMPONENTS_USER_EDUCATION_COMMON_FEATURE_PROMO_IMPL_COMMON_PRECONDITIONS_H_
 #define COMPONENTS_USER_EDUCATION_COMMON_FEATURE_PROMO_IMPL_COMMON_PRECONDITIONS_H_
 

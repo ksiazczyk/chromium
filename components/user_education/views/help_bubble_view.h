@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Help bubble dialog view declaration
+// summary: Declares HelpBubbleView and the internal HelpBubbleAnchorParams struct used to anchor in-product help bubbles to Views elements.
+// ---
+
 #ifndef COMPONENTS_USER_EDUCATION_VIEWS_HELP_BUBBLE_VIEW_H_
 #define COMPONENTS_USER_EDUCATION_VIEWS_HELP_BUBBLE_VIEW_H_
 

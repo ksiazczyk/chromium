@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: UserManager GN build targets
+summary: Defines GN build targets for the user_manager component, including common, multi_user, test_support, and unit_tests targets with their sources and dependencies.

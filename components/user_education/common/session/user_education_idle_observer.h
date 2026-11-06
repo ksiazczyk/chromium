@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User education idle observer class declaration
+// summary: Declares the UserEducationIdleObserver interface for observing system or application idle state, with virtual methods intended to be overridden for testing.
+// ---
+
 #ifndef COMPONENTS_USER_EDUCATION_COMMON_SESSION_USER_EDUCATION_IDLE_OBSERVER_H_
 #define COMPONENTS_USER_EDUCATION_COMMON_SESSION_USER_EDUCATION_IDLE_OBSERVER_H_
 

@@ -1,3 +1,9 @@
+---
+type: readme
+title: UserManager
+summary: Describes the UserManager interface for managing ChromeOS users and the UserDirectoryIntegrityManager that handles incomplete onboarding leaving encrypted home directories without auth factors.
+---
+
 # UserManager
 
 This directory contains files for managing ChromeOS users. Historically,

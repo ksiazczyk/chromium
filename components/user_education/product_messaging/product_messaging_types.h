@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Product messaging types and message key declarations
+// summary: Defines the ProductMessageType enum, the ProductMessageKey identifier class, and macros for declaring unique product message keys in the user education component.
+// ---
+
 #ifndef COMPONENTS_USER_EDUCATION_PRODUCT_MESSAGING_PRODUCT_MESSAGING_TYPES_H_
 #define COMPONENTS_USER_EDUCATION_PRODUCT_MESSAGING_PRODUCT_MESSAGING_TYPES_H_
 

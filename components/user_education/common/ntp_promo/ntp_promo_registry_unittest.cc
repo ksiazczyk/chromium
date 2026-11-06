@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NTP promo registry unit tests
+// summary: Unit tests verifying promo registration, ordering, duplicate rejection and clearing behaviour of the New Tab Page promo registry.
+// ---
+
 #include "components/user_education/common/ntp_promo/ntp_promo_registry.h"
 
 #include "base/functional/callback_helpers.h"

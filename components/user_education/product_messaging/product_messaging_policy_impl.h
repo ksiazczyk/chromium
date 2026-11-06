@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Product messaging policy implementation declaration
+// summary: Declares ProductMessagingPolicyImpl with setters for self-blocking, ignore, equivalent, blocked-by, and show-after rules.
+// ---
+
 #ifndef COMPONENTS_USER_EDUCATION_PRODUCT_MESSAGING_PRODUCT_MESSAGING_POLICY_IMPL_H_
 #define COMPONENTS_USER_EDUCATION_PRODUCT_MESSAGING_PRODUCT_MESSAGING_POLICY_IMPL_H_
 

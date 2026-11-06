@@ -1,3 +1,13 @@
+---
+type: readme
+title: Product Messaging Controller
+summary: Describes the profile-level controller that mediates spontaneous UI messaging and explains how to onboard new systems and create, show, and supersede messages.
+relations:
+  - documents /components/user_education/product_messaging/product_messaging_controller.h
+  - references /components/user_education/product_messaging/OWNERS
+  - references /components/user_education/product_messaging/product_messaging_types.h
+---
+
 # Product Messaging Controller
 
 This is a profile-level controller which mediates spontaneous UI throughout

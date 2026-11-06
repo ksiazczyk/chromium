@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FeaturePromoQueue unit tests
+// summary: Unit tests for the feature promo queue, verifying queuing behavior, preconditions, and result callbacks for feature promos.
+// ---
+
 #include "components/user_education/common/feature_promo/impl/feature_promo_queue.h"
 
 #include "base/feature_list.h"

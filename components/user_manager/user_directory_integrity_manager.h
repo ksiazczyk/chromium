@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User directory integrity manager interface
+// summary: Declares UserDirectoryIntegrityManager, which records new user creation in local state and detects or cleans up misconfigured users after incomplete logins.
+// ---
+
 #ifndef COMPONENTS_USER_MANAGER_USER_DIRECTORY_INTEGRITY_MANAGER_H_
 #define COMPONENTS_USER_MANAGER_USER_DIRECTORY_INTEGRITY_MANAGER_H_
 

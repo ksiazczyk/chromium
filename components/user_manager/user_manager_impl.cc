@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserManagerImpl implementation
+// summary: Implements the concrete UserManager logic for loading users, device-local accounts, owner tracking, metrics, and multi-user sign-in policy.
+// ---
+
 #include "components/user_manager/user_manager_impl.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Floating WebUI help bubble factory class declaration
+// summary: Declares FloatingWebUIHelpBubbleFactory, a Views-based factory for help bubbles attached to non-tab WebUI surfaces.
+// ---
+
 #ifndef COMPONENTS_USER_EDUCATION_WEBUI_FLOATING_WEBUI_HELP_BUBBLE_FACTORY_H_
 #define COMPONENTS_USER_EDUCATION_WEBUI_FLOATING_WEBUI_HELP_BUBBLE_FACTORY_H_
 

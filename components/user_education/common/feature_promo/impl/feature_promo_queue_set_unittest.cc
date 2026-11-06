@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FeaturePromoQueueSet unit tests
+// summary: Unit tests for the feature promo queue set, covering priority-based queuing, preconditions, and timeouts for feature promos.
+// ---
+
 #include "components/user_education/common/feature_promo/impl/feature_promo_queue_set.h"
 
 #include <map>

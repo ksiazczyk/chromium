@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for common feature promo preconditions
+// summary: Unit tests verifying common feature promo preconditions, including tracker initialization outcomes, engagement criteria checks, context validity, and anchor element behavior.
+// ---
+
 #include "components/user_education/common/feature_promo/impl/common_preconditions.h"
 
 #include <memory>

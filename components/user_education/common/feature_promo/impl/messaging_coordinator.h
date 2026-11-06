@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MessagingCoordinator class declaration
+// summary: Declares MessagingCoordinator, which coordinates feature promos with the product messaging controller to acquire priority handles and handle preemption.
+// ---
+
 #ifndef COMPONENTS_USER_EDUCATION_COMMON_FEATURE_PROMO_IMPL_MESSAGING_COORDINATOR_H_
 #define COMPONENTS_USER_EDUCATION_COMMON_FEATURE_PROMO_IMPL_MESSAGING_COORDINATOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HelpBubbleDelegate interface
+// summary: Declares an interface through which apps supply help bubble typography contexts, color IDs, and pane navigation accelerators.
+// ---
+
 #ifndef COMPONENTS_USER_EDUCATION_VIEWS_HELP_BUBBLE_DELEGATE_H_
 #define COMPONENTS_USER_EDUCATION_VIEWS_HELP_BUBBLE_DELEGATE_H_
 

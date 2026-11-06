@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Common feature promo precondition implementations
+// summary: Implements standard feature promo preconditions such as feature enabled state, Feature Engagement Tracker initialization, engagement criteria, context validity, anchor element, lifecycle, and session policy.
+// ---
+
 #include "components/user_education/common/feature_promo/impl/common_preconditions.h"
 
 #include <memory>

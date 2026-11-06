@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: New badge policy interface
+// summary: Declares NewBadgePolicy, which defines when a "New" badge can be shown and records related metrics, with limits sourced from feature parameters.
+// ---
+
 #ifndef COMPONENTS_USER_EDUCATION_COMMON_NEW_BADGE_NEW_BADGE_POLICY_H_
 #define COMPONENTS_USER_EDUCATION_COMMON_NEW_BADGE_NEW_BADGE_POLICY_H_
 

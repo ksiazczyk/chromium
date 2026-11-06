@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: New badge specification implementation
+// summary: Implements constructors and move operations for NewBadgeSpecification, which pairs a feature with its badge metadata.
+// ---
+
 #include "components/user_education/common/new_badge/new_badge_specification.h"
 
 #include <utility>

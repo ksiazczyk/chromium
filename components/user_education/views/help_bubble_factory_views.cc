@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Views help bubble factory implementation
+// summary: Implements creation of help bubbles for Views-tracked elements, wiring menu event relays, pane navigation accelerators, and platform default shadows.
+// ---
+
 #include "components/user_education/views/help_bubble_factory_views.h"
 
 #include <memory>

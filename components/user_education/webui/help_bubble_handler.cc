@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Help bubble handler implementation
+// summary: Implements the browser-side handler that communicates with the WebUI help bubble client, mapping arrows and element identifiers for display in WebUI.
+// ---
+
 #include "components/user_education/webui/help_bubble_handler.h"
 
 #include <memory>

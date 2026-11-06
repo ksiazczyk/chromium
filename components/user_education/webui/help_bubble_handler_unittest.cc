@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the help bubble handler
+// summary: Unit tests for the WebUI help bubble handler using a mock help bubble client to verify bubble display, focus, and close behavior.
+// ---
+
 #include "components/user_education/webui/help_bubble_handler.h"
 
 #include <memory>

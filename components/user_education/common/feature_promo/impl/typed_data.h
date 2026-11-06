@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TypedData base classes
+// summary: Defines TypedDataBase and TypedData<T> for storing typed data in collections retrievable via TypedIdentifier, used by the feature promo implementation.
+// ---
+
 #ifndef COMPONENTS_USER_EDUCATION_COMMON_FEATURE_PROMO_IMPL_TYPED_DATA_H_
 #define COMPONENTS_USER_EDUCATION_COMMON_FEATURE_PROMO_IMPL_TYPED_DATA_H_
 

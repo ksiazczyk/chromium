@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock feature promo controller implementation
+// summary: Implements the MockFeaturePromoController stubs and the FeaturePromoParamsMatcher used to match promo parameters by feature.
+// ---
+
 #include "components/user_education/test/mock_feature_promo_controller.h"
 
 namespace user_education::test {

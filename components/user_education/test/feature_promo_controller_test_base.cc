@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Feature promo controller test base implementation
+// summary: Implements the FeaturePromoControllerTestBase fixture, wiring mock trackers, storage, and help bubble factories for promo controller tests.
+// ---
+
 #include "components/user_education/test/feature_promo_controller_test_base.h"
 
 #include <memory>

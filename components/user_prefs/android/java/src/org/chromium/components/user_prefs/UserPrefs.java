@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserPrefs helper for retrieving PrefService
+// summary: Java helper that returns the PrefService for a given BrowserContextHandle via JNI, mirroring the C++ UserPrefs class and supporting test overrides.
+// ---
+
 package org.chromium.components.user_prefs;
 
 import androidx.annotation.VisibleForTesting;

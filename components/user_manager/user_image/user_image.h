@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserImage class declaration for user profile images
+// summary: Declares the UserImage wrapper that stores a still image plus a web-compatible bytes representation, with image formats, special type values, and accessors for URL, file path, and safety.
+// ---
+
 #ifndef COMPONENTS_USER_MANAGER_USER_IMAGE_USER_IMAGE_H_
 #define COMPONENTS_USER_MANAGER_USER_IMAGE_USER_IMAGE_H_
 

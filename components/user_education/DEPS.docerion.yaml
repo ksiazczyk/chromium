@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: User Education dependency rules
+summary: Specifies the allowed include rules for dependencies of the user_education component.

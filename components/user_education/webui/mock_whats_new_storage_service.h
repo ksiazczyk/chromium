@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock Whats New storage service for tests
+// summary: Defines a GMock mock of WhatsNewStorageService so unit tests can stub module, edition and version data reads and writes.
+// ---
+
 #ifndef COMPONENTS_USER_EDUCATION_WEBUI_MOCK_WHATS_NEW_STORAGE_SERVICE_H_
 #define COMPONENTS_USER_EDUCATION_WEBUI_MOCK_WHATS_NEW_STORAGE_SERVICE_H_
 

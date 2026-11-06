@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for product messaging
+summary: Lists the Chromium developers responsible for reviewing changes in the product messaging directory.

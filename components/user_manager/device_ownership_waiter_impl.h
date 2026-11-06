@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceOwnershipWaiterImpl class declaration
+// summary: Declares DeviceOwnershipWaiterImpl, the production DeviceOwnershipWaiter that delays a callback until device ownership has been fetched.
+// ---
+
 #ifndef COMPONENTS_USER_MANAGER_DEVICE_OWNERSHIP_WAITER_IMPL_H_
 #define COMPONENTS_USER_MANAGER_DEVICE_OWNERSHIP_WAITER_IMPL_H_
 

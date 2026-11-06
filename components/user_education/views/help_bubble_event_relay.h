@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Help bubble event relay declarations
+// summary: Declares relay classes that forward captured events to help bubble buttons, with a menu-specific processor for bubbles anchored to menu items.
+// ---
+
 #ifndef COMPONENTS_USER_EDUCATION_VIEWS_HELP_BUBBLE_EVENT_RELAY_H_
 #define COMPONENTS_USER_EDUCATION_VIEWS_HELP_BUBBLE_EVENT_RELAY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Help bubble interface
+// summary: Declares the HelpBubble interface for the lifecycle of IPH and tutorial bubbles, with close reasons, accessibility focus, bounds, and closing or closed callbacks.
+// ---
+
 #ifndef COMPONENTS_USER_EDUCATION_COMMON_HELP_BUBBLE_HELP_BUBBLE_H_
 #define COMPONENTS_USER_EDUCATION_COMMON_HELP_BUBBLE_HELP_BUBBLE_H_
 

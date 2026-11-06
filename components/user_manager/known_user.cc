@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KnownUser implementation
+// summary: Implements per-user preference storage in local state, covering SAML flags, device IDs, onboarding state, PIN settings, auth factor caches and other known-user properties.
+// ---
+
 #include "components/user_manager/known_user.h"
 
 #include <stddef.h>

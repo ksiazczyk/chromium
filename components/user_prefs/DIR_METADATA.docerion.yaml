@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA tracker and team metadata
+summary: Declares the component's Monorail component, team email, and public Buganizer component ID.

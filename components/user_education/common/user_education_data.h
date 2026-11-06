@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User education data types for promo state
+// summary: Defines the FeaturePromoClosedReason enum and structs holding promo dismissal, snooze, session and keyed show data persisted by user education.
+// ---
+
 #ifndef COMPONENTS_USER_EDUCATION_COMMON_USER_EDUCATION_DATA_H_
 #define COMPONENTS_USER_EDUCATION_COMMON_USER_EDUCATION_DATA_H_
 

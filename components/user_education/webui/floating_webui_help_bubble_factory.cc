@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Floating WebUI help bubble factory implementation
+// summary: Implements a help bubble factory that anchors floating Views help bubbles to WebUI elements, extracting the host WebView and notifying the handler.
+// ---
+
 #include "components/user_education/webui/floating_webui_help_bubble_factory.h"
 
 #include "components/user_education/views/help_bubble_factory_views.h"

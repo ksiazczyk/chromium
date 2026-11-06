@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: What's New registry feature parameter unit tests
+// summary: Unit tests verifying that WhatsNewRegistry reads customization and survey field trial parameters for enabled modules and editions.
+// ---
+
 #include <memory>
 
 #include "base/feature_list.h"

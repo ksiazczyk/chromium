@@ -1,0 +1,4 @@
+# Docerion header of help_bubble_factory_mac_unittest.mm.
+type: test
+title: Mac help bubble factory unit tests
+summary: Unit tests verifying help bubble creation and placement for macOS menu items, including submenu anchoring and window level behavior.

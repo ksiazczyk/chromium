@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User class implementation
+// summary: Implements the User model, initializing display names, images and managed or affiliated state per user type and providing accessors for account, name and image data.
+// ---
+
 #include "components/user_manager/user.h"
 
 #include <stddef.h>

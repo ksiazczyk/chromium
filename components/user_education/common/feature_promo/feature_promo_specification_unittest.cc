@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Feature promo specification unit tests
+// summary: Unit tests covering bubble arrow settings, rotating promo overrides, and anchor element behavior of feature promo specifications.
+// ---
+
 #include "components/user_education/common/feature_promo/feature_promo_specification.h"
 
 #include "base/feature_list.h"

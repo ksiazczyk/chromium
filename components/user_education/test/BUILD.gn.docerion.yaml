@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for user education test support
+summary: Defines the testonly source_set bundling mocks and test utilities for the user education component, with views-specific sources gated behind toolkit_views.

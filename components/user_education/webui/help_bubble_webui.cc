@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI help bubble implementation
+// summary: Implements HelpBubbleWebUI and HelpBubbleFactoryWebUI, which create and manage help bubbles shown within WebUI pages via the handler.
+// ---
+
 #include "components/user_education/webui/help_bubble_webui.h"
 
 #include "components/user_education/webui/help_bubble_handler.h"

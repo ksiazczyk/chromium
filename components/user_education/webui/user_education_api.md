@@ -1,3 +1,13 @@
+---
+type: guide
+title: User Education API for WebUI
+summary: Explains how WebUI pages set up and use the User Education Mojo handler for promos and New badges, including testing for bundled and unbundled WebUI.
+relations:
+  - references /chrome/browser/chrome_browser_interface_binders_webui_parts_desktop.cc
+  - references /chrome/browser/ui/user_education/browser_user_education_interface.h
+  - references /chrome/browser/ui/webui/user_education_internals/user_education_internals_ui.h
+---
+
 # User Education API for WebUI
 
 This folder provides WebUI pages with a Mojo interface that provides a subset of

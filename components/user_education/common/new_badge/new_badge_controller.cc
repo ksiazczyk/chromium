@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: New badge controller implementation
+// summary: Implements the controller that decides when to show "New" badges, initializing badge data and recording feature usage through the policy and storage service.
+// ---
+
 #include "components/user_education/common/new_badge/new_badge_controller.h"
 
 #include "base/auto_reset.h"

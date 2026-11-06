@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Highlighting simple menu model delegate class declaration
+// summary: Declares HighlightingSimpleMenuModelDelegate, a SimpleMenuModel::Delegate base class supporting user education highlighting and holding the promo handle while the menu is open.
+// ---
+
 #ifndef COMPONENTS_USER_EDUCATION_COMMON_MENU_HIGHLIGHTING_SIMPLE_MENU_MODEL_DELEGATE_H_
 #define COMPONENTS_USER_EDUCATION_COMMON_MENU_HIGHLIGHTING_SIMPLE_MENU_MODEL_DELEGATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: What's New registry unit tests
+// summary: Unit tests covering registration of What's New modules and editions, active command and feature name computation, and storage service interactions.
+// ---
+
 #include "components/user_education/webui/whats_new_registry.h"
 
 #include <algorithm>

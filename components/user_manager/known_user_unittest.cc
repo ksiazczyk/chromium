@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: KnownUser unit tests
+// summary: Unit tests for KnownUser preference access, covering finding and setting prefs and behaviour for ephemeral Gaia users with a testing pref service and session environment.
+// ---
+
 #include "components/user_manager/known_user.h"
 
 #include <memory>

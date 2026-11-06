@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tutorial framework unit tests
+// summary: Unit tests covering tutorial building, running, branching, restarting, and metrics using test help bubbles, element identifiers, and interaction sequence test utilities.
+// ---
+
 #include "components/user_education/common/tutorial/tutorial.h"
 
 #include <optional>

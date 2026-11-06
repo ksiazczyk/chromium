@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeUserManager implementation
+// summary: Implements a barebones fake UserManager that marks users logged in, tracks primary and active users, and supports switching the active user.
+// ---
+
 #include "components/user_manager/fake_user_manager.h"
 
 #include <memory>

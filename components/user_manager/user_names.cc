@@ -1,6 +1,13 @@
 // Copyright 2014 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Special user names and account IDs implementation
+// summary: Implements constants and a singleton holding special account IDs for stub, sign-in, guest, and demo users, plus canonicalization of user IDs for the user manager.
+// ---
+
 #include "components/user_manager/user_names.h"
 
 #include "base/memory/singleton.h"

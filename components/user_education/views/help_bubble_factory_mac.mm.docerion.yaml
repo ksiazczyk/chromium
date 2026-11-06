@@ -1,0 +1,4 @@
+# Docerion header of help_bubble_factory_mac.mm.
+type: source
+title: Mac help bubble factory implementation
+summary: Implements macOS help bubble creation, adjusting anchor placement for menu items and raising the bubble window above native menus when the feature is enabled.

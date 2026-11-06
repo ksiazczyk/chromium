@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User education idle observer implementation
+// summary: Implements the base UserEducationIdleObserver class, which monitors application idle state and notifies registered callbacks when the last active time changes.
+// ---
+
 #include "components/user_education/common/session/user_education_idle_observer.h"
 
 #include "components/user_education/common/user_education_storage_service.h"

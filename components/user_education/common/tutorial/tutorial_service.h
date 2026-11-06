@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TutorialService class declaration
+// summary: Declares the profile-based service that runs the current tutorial, exposing start, cancel, restart, logging, and bubble accessors for tests.
+// ---
+
 #ifndef COMPONENTS_USER_EDUCATION_COMMON_TUTORIAL_TUTORIAL_SERVICE_H_
 #define COMPONENTS_USER_EDUCATION_COMMON_TUTORIAL_TUTORIAL_SERVICE_H_
 

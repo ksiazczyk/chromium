@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Feature promo controller test fixture declaration
+// summary: Declares a base test fixture for FeaturePromoController that mocks or fakes the surrounding user education systems, including test promo controller wrappers.
+// ---
+
 #ifndef COMPONENTS_USER_EDUCATION_TEST_FEATURE_PROMO_CONTROLLER_TEST_BASE_H_
 #define COMPONENTS_USER_EDUCATION_TEST_FEATURE_PROMO_CONTROLLER_TEST_BASE_H_
 

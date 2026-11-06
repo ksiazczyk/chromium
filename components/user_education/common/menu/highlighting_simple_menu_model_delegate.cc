@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Highlighting simple menu model delegate implementation
+// summary: Implements the highlighting menu model delegate, reporting the alerted element identifier, releasing the promo handle when the menu closes, and setting the highlight via a pass-key-protected method.
+// ---
+
 #include "components/user_education/common/menu/highlighting_simple_menu_model_delegate.h"
 
 namespace user_education {

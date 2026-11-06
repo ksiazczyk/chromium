@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: New badge label class declaration
+// summary: Declares a views::Label subclass that can display a New badge next to its text to draw attention to new Chrome features.
+// ---
+
 #ifndef COMPONENTS_USER_EDUCATION_VIEWS_NEW_BADGE_LABEL_H_
 #define COMPONENTS_USER_EDUCATION_VIEWS_NEW_BADGE_LABEL_H_
 

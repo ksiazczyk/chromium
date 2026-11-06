@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the common anchor element provider
+// summary: Tests that AnchorElementProviderCommon finds visible elements by identifier and context and honors custom anchor element filters.
+// ---
+
 #include "components/user_education/common/anchor_element_provider.h"
 
 #include "base/test/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WhatsNewStorageService virtual interface
+// summary: Declares the whats_new::WhatsNewStorageService interface that supplies the WhatsNewRegistry with storage for enabled modules, shown editions, and version page usage.
+// ---
+
 #ifndef COMPONENTS_USER_EDUCATION_WEBUI_WHATS_NEW_STORAGE_SERVICE_H_
 #define COMPONENTS_USER_EDUCATION_WEBUI_WHATS_NEW_STORAGE_SERVICE_H_
 

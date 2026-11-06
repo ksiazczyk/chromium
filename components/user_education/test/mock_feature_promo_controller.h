@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock feature promo controller declaration
+// summary: Declares a gmock mock of FeaturePromoController and a matcher helper for FeaturePromoParams for use in unit tests.
+// ---
+
 #ifndef COMPONENTS_USER_EDUCATION_TEST_MOCK_FEATURE_PROMO_CONTROLLER_H_
 #define COMPONENTS_USER_EDUCATION_TEST_MOCK_FEATURE_PROMO_CONTROLLER_H_
 

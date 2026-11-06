@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default product messaging policy implementation
+// summary: Implements the policy rules and provides CreateDefault with self-blocking and equivalent type settings for standard message types.
+// ---
+
 #include "components/user_education/product_messaging/product_messaging_policy_impl.h"
 
 #include <algorithm>

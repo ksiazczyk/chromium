@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test user education storage service declaration
+// summary: Declares TestUserEducationStorageService, an in-memory version of UserEducationStorageService that stores promo, session, policy and related data in maps for testing.
+// ---
+
 #ifndef COMPONENTS_USER_EDUCATION_TEST_TEST_USER_EDUCATION_STORAGE_SERVICE_H_
 #define COMPONENTS_USER_EDUCATION_TEST_TEST_USER_EDUCATION_STORAGE_SERVICE_H_
 

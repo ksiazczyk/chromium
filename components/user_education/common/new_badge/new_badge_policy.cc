@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: New badge policy implementation
+// summary: Implements NewBadgePolicy rules for when a "New" badge may be shown, based on show and use counts, display window, and new-profile grace period, plus metrics recording.
+// ---
+
 #include "components/user_education/common/new_badge/new_badge_policy.h"
 
 #include <algorithm>

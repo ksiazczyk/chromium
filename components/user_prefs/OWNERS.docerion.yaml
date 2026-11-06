@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS referencing prefs owners
+summary: Points to components/prefs/OWNERS as the owner list for this directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Typed data collection implementation for feature promos
+// summary: Implements OwnedTypedDataCollection and UnownedTypedDataCollection, which store, append, and look up typed data entries for the feature promo system.
+// ---
+
 #include "components/user_education/common/feature_promo/impl/typed_data_collection.h"
 
 #include <ranges>

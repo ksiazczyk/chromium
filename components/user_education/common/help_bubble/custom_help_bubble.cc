@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Custom help bubble UI implementation
+// summary: Implements CustomHelpBubbleUi, which relays user actions from custom bubble UI to observers, and the CustomHelpBubble wrapper that holds a weak pointer to that UI.
+// ---
+
 #include "components/user_education/common/help_bubble/custom_help_bubble.h"
 
 #include "base/logging.h"

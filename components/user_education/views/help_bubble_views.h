@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Views help bubble declaration
+// summary: Declares HelpBubbleViews and CustomHelpBubbleViews, Views-specific help bubble implementations with anchor tracking and accelerator handling.
+// ---
+
 #ifndef COMPONENTS_USER_EDUCATION_VIEWS_HELP_BUBBLE_VIEWS_H_
 #define COMPONENTS_USER_EDUCATION_VIEWS_HELP_BUBBLE_VIEWS_H_
 

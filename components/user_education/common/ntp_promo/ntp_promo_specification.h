@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTP promo specification class declaration
+// summary: Declares the promo content and specification classes, including eligibility, show and action callbacks for New Tab Page promos.
+// ---
+
 #ifndef COMPONENTS_USER_EDUCATION_COMMON_NTP_PROMO_NTP_PROMO_SPECIFICATION_H_
 #define COMPONENTS_USER_EDUCATION_COMMON_NTP_PROMO_NTP_PROMO_SPECIFICATION_H_
 

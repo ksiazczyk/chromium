@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tracked element attention state utilities
+// summary: Implements functions that apply or remove ink drop attention state on a tracked view when an attention host is available.
+// ---
+
 #include "components/user_education/views/toggle_tracked_element_attention_utils.h"
 #include "ui/views/animation/ink_drop.h"
 #include "ui/views/animation/ink_drop_host.h"
