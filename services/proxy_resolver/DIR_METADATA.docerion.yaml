@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Proxy resolver bug tracking metadata
+summary: Maps the directory to the Internals>Network>Proxy monorail component and a public Buganizer component for issue routing.

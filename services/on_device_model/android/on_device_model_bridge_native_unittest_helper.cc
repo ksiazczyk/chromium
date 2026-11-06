@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Native unit test helper for the on-device model bridge
+// summary: Implements the native side of the JNI test helper that sets up default or mock AiCore factories and triggers downloader callbacks during tests.
+// ---
+
 #include "services/on_device_model/android/on_device_model_bridge_native_unittest_helper.h"
 
 #include "base/android/jni_android.h"

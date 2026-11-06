@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for GlobalDumpGraphConverter
+// summary: Unit tests verifying that GlobalDumpGraphConverter correctly converts process dumps, nodes, entries, and ownership edges from Perfetto graphs to Chromium graphs.
+// ---
+
 #include "services/resource_coordinator/memory_instrumentation/global_dump_graph_converter.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

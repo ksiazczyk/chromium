@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Interceptable pref filter unit tests
+// summary: Unit tests verifying that FilterOnLoad interception works and that a callback deleting the filter during load is handled safely.
+// ---
+
 #include "services/preferences/tracked/interceptable_pref_filter.h"
 
 #include <string>

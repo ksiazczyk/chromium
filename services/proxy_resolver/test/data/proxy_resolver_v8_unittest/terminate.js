@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PAC test script that hangs to test execution termination
+// summary: PAC test data that loops forever for the 'hang' host to verify the resolver terminates long-running or stuck scripts.
+// ---
+
 function FindProxyForURL(url, host) {
   if (host != 'hang')
     return 'PROXY ' + host + ':88';

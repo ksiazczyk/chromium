@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pref hash calculator implementation
+// summary: Implements calculation and validation of preference value authenticators, including legacy HMACs and OS-encrypted SHA256 hashes, with normalization of empty values.
+// ---
+
 #include "services/preferences/tracked/pref_hash_calculator.h"
 
 #include <stdint.h>

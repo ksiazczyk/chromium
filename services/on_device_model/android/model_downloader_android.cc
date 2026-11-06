@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android model downloader implementation
+// summary: Implements ModelDownloaderAndroid, driving model downloads and status checks through Java and logging download result histograms.
+// ---
+
 #include "services/on_device_model/android/model_downloader_android.h"
 
 #include "base/android/jni_android.h"

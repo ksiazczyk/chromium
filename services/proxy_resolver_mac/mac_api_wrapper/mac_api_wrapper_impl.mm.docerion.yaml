@@ -1,0 +1,4 @@
+# Docerion header of mac_api_wrapper_impl.mm.
+type: source
+title: MacAPIWrapperImpl Objective-C++ implementation
+summary: Implements MacAPIWrapperImpl by calling SCDynamicStoreCopyProxies and CFNetworkCopyProxiesForURL, converting WebSocket URLs to http or https before resolution.

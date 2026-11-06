@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ProxyHostResolverCache unit tests
+// summary: Tests cache lookups, key matching, TTL expiry and eviction of oldest entries using mock time.
+// ---
+
 #include "services/proxy_resolver/proxy_host_resolver_cache.h"
 
 #include "base/test/task_environment.h"

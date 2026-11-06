@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ProxyResolverV8Tracing unit tests
+// summary: Unit tests for ProxyResolverV8Tracing that load PAC scripts from test data and verify proxy resolution, DNS behavior, alerts, errors, and cancellation using mock bindings and a mock host resolver.
+// ---
+
 #include "services/proxy_resolver/proxy_resolver_v8_tracing.h"
 
 #include <array>

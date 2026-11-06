@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AiCoreSessionBackend interface for on-device model sessions
+// summary: Backend interface for on-device model sessions that generates text and reports token sizes, implemented by the downstream dependency.
+// ---
+
 package org.chromium.on_device_model;
 
 import org.chromium.build.annotations.NullMarked;

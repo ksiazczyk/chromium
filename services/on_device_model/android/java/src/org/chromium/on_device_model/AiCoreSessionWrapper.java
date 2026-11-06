@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JNI wrapper for the AiCore session backend
+// summary: Wrapper around AiCoreSessionBackend that handles JNI calls from native code and forwards generation responses and token size results back.
+// ---
+
 package org.chromium.on_device_model;
 
 import org.jni_zero.CalledByNative;

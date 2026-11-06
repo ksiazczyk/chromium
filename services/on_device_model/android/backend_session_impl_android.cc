@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android backend session implementation
+// summary: Implements BackendSession on Android by bridging mojom session calls to the Java AiCore session wrapper.
+// ---
+
 #include "services/on_device_model/android/backend_session_impl_android.h"
 
 #include <algorithm>

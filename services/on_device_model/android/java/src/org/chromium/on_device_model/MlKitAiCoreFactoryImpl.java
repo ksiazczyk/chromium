@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MLKit AiCore factory implementation
+// summary: Factory that creates MLKit-based session and model downloader backends and lazily initializes MLKit once.
+// ---
+
 package org.chromium.on_device_model;
 
 import com.google.mlkit.common.MlKit;

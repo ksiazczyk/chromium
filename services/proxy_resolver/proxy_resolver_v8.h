@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProxyResolverV8 class header
+// summary: Declares ProxyResolverV8, a synchronous resolver that evaluates PAC scripts with V8, its JSBindings interface for DNS, alert, and error handling, and heap usage queries.
+// ---
+
 #ifndef SERVICES_PROXY_RESOLVER_PROXY_RESOLVER_V8_H_
 #define SERVICES_PROXY_RESOLVER_PROXY_RESOLVER_V8_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Resource coordinator GN build targets
+summary: Defines the GN source sets for the resource coordinator service, listing memory instrumentation library sources, public dependencies, and unit test sources.

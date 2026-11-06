@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Windows system proxy resolver
+// summary: Unit tests for WindowsSystemProxyResolverImpl covering WinHttp status handling and proxy resolution behavior with an injectable wrapper.
+// ---
+
 #include "services/proxy_resolver_win/windows_system_proxy_resolver_impl.h"
 
 #include <windows.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passage embeddings service implementation
+// summary: Implements the PassageEmbeddingsService mojo interface, creating the embedder on an updateable background task runner and loading models.
+// ---
+
 #include "services/passage_embeddings/passage_embeddings_service.h"
 
 #include <utility>

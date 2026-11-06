@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Bug tracker metadata for the preferences service
+summary: Maps the directory to the Internals>Preferences>Service monorail component and Buganizer component 1456864 for issue tracking.

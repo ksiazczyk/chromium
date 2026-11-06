@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MacAPIWrapperImpl production implementation header
+// summary: Declares MacAPIWrapperImpl, the production MacAPIWrapper that makes actual system calls to the SystemConfiguration and CFNetwork frameworks.
+// ---
+
 #ifndef SERVICES_PROXY_RESOLVER_MAC_MAC_API_WRAPPER_MAC_API_WRAPPER_IMPL_H_
 #define SERVICES_PROXY_RESOLVER_MAC_MAC_API_WRAPPER_MAC_API_WRAPPER_IMPL_H_
 

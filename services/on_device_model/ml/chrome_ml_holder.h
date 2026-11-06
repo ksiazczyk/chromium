@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeMLHolder header for the ChromeML shared library
+// summary: Encapsulates the loaded ChromeML shared library and exposes its API functions to callers while keeping the library loaded for the holder's lifetime.
+// ---
+
 #ifndef SERVICES_ON_DEVICE_MODEL_ML_CHROME_ML_HOLDER_H_
 #define SERVICES_ON_DEVICE_MODEL_ML_CHROME_ML_HOLDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tracked preference helper implementation
+// summary: Implements reset decision logic and UMA histogram reporting for tracked preference validation outcomes across HMAC and encrypted value states.
+// ---
+
 #include "services/preferences/tracked/tracked_preference_helper.h"
 
 #include "base/check.h"

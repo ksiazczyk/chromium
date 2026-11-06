@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PAC JavaScript utility library macro
+// summary: Defines the PAC_JS_LIBRARY macro embedding JavaScript helper functions for PAC scripts, extracted from Mozilla's ProxyAutoConfig implementation.
+// ---
+
 #ifndef SERVICES_PROXY_RESOLVER_PAC_JS_LIBRARY_H_
 #define SERVICES_PROXY_RESOLVER_PAC_JS_LIBRARY_H_
 

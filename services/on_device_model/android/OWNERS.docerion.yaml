@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the Android on-device model directory
+summary: Lists directory owners and routes mojom file changes to IPC security owners.

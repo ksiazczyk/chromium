@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android backend model implementation header
+// summary: Declares BackendModelImplAndroid, the Android BackendModel that creates sessions per model execution feature.
+// ---
+
 #ifndef SERVICES_ON_DEVICE_MODEL_ANDROID_BACKEND_MODEL_IMPL_ANDROID_H_
 #define SERVICES_ON_DEVICE_MODEL_ANDROID_BACKEND_MODEL_IMPL_ANDROID_H_
 

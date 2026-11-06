@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: On-device model service header
+// summary: Declares the OnDeviceModelService class implementing the mojom service for model loading, capability queries, and safety model handling.
+// ---
+
 #ifndef SERVICES_ON_DEVICE_MODEL_ON_DEVICE_MODEL_SERVICE_H_
 #define SERVICES_ON_DEVICE_MODEL_ON_DEVICE_MODEL_SERVICE_H_
 

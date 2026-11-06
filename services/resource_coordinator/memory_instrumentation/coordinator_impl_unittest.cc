@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Coordinator implementation unit tests
+// summary: Unit tests for CoordinatorImpl covering client registration and global, per-PID, and trace-appended memory dump requests.
+// ---
+
 #include "services/resource_coordinator/memory_instrumentation/coordinator_impl.h"
 
 #include <memory>

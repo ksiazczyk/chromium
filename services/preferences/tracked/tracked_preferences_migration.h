@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tracked preferences migration header
+// summary: Declares SetupTrackedPreferencesMigration, which wires on-load interceptors to migrate preferences between unprotected and protected stores before handing them back.
+// ---
+
 #ifndef SERVICES_PREFERENCES_TRACKED_TRACKED_PREFERENCES_MIGRATION_H_
 #define SERVICES_PREFERENCES_TRACKED_TRACKED_PREFERENCES_MIGRATION_H_
 

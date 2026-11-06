@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake ChromeML accessor header
+// summary: Declares GetFakeChromeML, exposing a fake ChromeML instance for on-device model testing.
+// ---
+
 #ifndef SERVICES_ON_DEVICE_MODEL_FAKE_ON_DEVICE_MODEL_FAKE_H_
 #define SERVICES_ON_DEVICE_MODEL_FAKE_ON_DEVICE_MODEL_FAKE_H_
 

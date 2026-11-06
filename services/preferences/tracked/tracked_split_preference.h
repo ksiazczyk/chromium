@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tracked split preference class declaration
+// summary: Declares TrackedSplitPreference, a tracked dictionary preference whose top-level entries are each tracked and enforced independently.
+// ---
+
 #ifndef SERVICES_PREFERENCES_TRACKED_TRACKED_SPLIT_PREFERENCE_H_
 #define SERVICES_PREFERENCES_TRACKED_TRACKED_SPLIT_PREFERENCE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefHashStoreImpl implementation
+// summary: Implements the preference hash store, including transaction handling, encrypted hash storage, super HMAC verification, and weak hash reporting.
+// ---
+
 #include "services/preferences/tracked/pref_hash_store_impl.h"
 
 #include <stddef.h>

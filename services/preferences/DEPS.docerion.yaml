@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the preferences service
+summary: Defines the include rules for the preferences service directory, allowing dependencies on components/prefs.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the Android on-device model service
+summary: GN build file defining the Android on-device model source sets, Java library, and unit test targets.

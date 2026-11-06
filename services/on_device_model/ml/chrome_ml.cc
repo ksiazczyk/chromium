@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeML implementation with GPU error handling
+// summary: Implements the ChromeML wrapper, including fatal GPU error reporting, crash keys, and histograms for the on-device model library.
+// ---
+
 #include "services/on_device_model/ml/chrome_ml.h"
 
 #include <memory>

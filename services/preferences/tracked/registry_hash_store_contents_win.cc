@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows registry hash store contents
+// summary: Implements a registry-backed hash store on Windows that reads, writes, and clears preference MACs under HKEY_CURRENT_USER.
+// ---
+
 #include "services/preferences/tracked/registry_hash_store_contents_win.h"
 
 #include <windows.h>

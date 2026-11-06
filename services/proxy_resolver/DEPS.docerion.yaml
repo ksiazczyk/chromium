@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Proxy resolver include rules
+summary: Restricts allowed includes in this directory to net, gin, v8, network public headers, and V8 context snapshot buildflags.

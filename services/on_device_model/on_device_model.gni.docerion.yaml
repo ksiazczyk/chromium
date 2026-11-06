@@ -1,0 +1,4 @@
+# Docerion header of on_device_model.gni.
+type: config
+title: On-device model build configuration
+summary: GN build arguments that control when the on-device model service, constraint code, ChromeOS model service, and MLKit-based AICore access are enabled across platforms.

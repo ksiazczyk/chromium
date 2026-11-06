@@ -1,0 +1,4 @@
+# Docerion header of test_bundle_data.globlist.
+type: config
+title: Proxy resolver test bundle data glob list
+summary: Glob patterns that the update script uses to regenerate the test bundle data filelist for proxy resolver tests.

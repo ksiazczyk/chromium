@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Directory include rules
+summary: Lists the additional include paths allowed for code in this directory, such as UKM test support, Perfetto, and tracing public headers.

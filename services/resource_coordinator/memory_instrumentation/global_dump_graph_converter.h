@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlobalDumpGraphConverter class header
+// summary: Declares the GlobalDumpGraphConverter class that converts Perfetto GlobalNodeGraph objects into the Chromium GlobalDumpGraph type for memory dump processing.
+// ---
+
 #ifndef SERVICES_RESOURCE_COORDINATOR_MEMORY_INSTRUMENTATION_GLOBAL_DUMP_GRAPH_CONVERTER_H_
 #define SERVICES_RESOURCE_COORDINATOR_MEMORY_INSTRUMENTATION_GLOBAL_DUMP_GRAPH_CONVERTER_H_
 

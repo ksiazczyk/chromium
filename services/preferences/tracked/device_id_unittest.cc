@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Machine ID unit tests
+// summary: Tests that GetDeterministicMachineSpecificId is deterministic and returns the status expected for the current platform.
+// ---
+
 #include "services/preferences/tracked/device_id.h"
 
 #include "build/build_config.h"

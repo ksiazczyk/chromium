@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web bundle URL loader factory implementation
+// summary: Implements a URLLoaderFactory that intercepts subresource Web Bundle fetches, validates serving constraints, and serves bundled exchanges to renderers via Mojo data pipes.
+// ---
+
 #include "services/network/web_bundle/web_bundle_url_loader_factory.h"
 
 #include <algorithm>

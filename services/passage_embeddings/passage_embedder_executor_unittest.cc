@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Passage embedder executor unit tests
+// summary: Unit tests for the History and Gemma model executors, covering input formatting, signature selection and embedding execution with dummy TFLite models.
+// ---
+
 #include "services/passage_embeddings/passage_embedder_executor.h"
 
 #include <memory>

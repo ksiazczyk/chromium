@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe JNI callback helper
+// summary: Helper that runs JNI callbacks from any thread only while the native object has not been destroyed.
+// ---
+
 package org.chromium.on_device_model;
 
 import androidx.annotation.GuardedBy;

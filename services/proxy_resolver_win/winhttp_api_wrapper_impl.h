@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WinHTTP API wrapper implementation header
+// summary: Declares WinHttpAPIWrapperImpl and the ScopedIEConfig RAII helper for managing WINHTTP_CURRENT_USER_IE_PROXY_CONFIG memory.
+// ---
+
 #ifndef SERVICES_PROXY_RESOLVER_WIN_WINHTTP_API_WRAPPER_IMPL_H_
 #define SERVICES_PROXY_RESOLVER_WIN_WINHTTP_API_WRAPPER_IMPL_H_
 

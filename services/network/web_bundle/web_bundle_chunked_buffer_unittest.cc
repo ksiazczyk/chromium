@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebBundleChunkedBuffer unit tests
+// summary: Unit tests for WebBundleChunkedBuffer covering chunks, empty buffers, reads at various offsets, and data source behavior.
+// ---
+
 #include "services/network/web_bundle/web_bundle_chunked_buffer.h"
 
 #include "base/check.h"

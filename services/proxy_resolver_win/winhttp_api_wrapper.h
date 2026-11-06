@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WinHTTP API wrapper interface
+// summary: Defines the abstract WinHttpAPIWrapper interface so WinHTTP calls can be mocked out for testing.
+// ---
+
 #ifndef SERVICES_PROXY_RESOLVER_WIN_WINHTTP_API_WRAPPER_H_
 #define SERVICES_PROXY_RESOLVER_WIN_WINHTTP_API_WRAPPER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for mac_api_wrapper
+summary: Defines the mac_api_wrapper source set with its sources, dependencies on base, net and url, and the linked macOS frameworks.

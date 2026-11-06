@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BertSafetyModel implementation
+// summary: Implements the BERT text safety model that loads a TFLite NL classifier and language detection model and serves safety classification and language detection over Mojo.
+// ---
+
 #include "services/on_device_model/safety/bert_safety_model.h"
 
 #include "base/metrics/histogram_functions.h"

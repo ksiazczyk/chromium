@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: On-device model service implementation
+// summary: Implements the OnDeviceModelService mojom service that loads models and text safety models through the backend and reports device and performance capabilities.
+// ---
+
 #include "services/on_device_model/on_device_model_service.h"
 
 #include "base/feature_list.h"

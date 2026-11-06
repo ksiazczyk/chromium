@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebBundleManager header
+// summary: Declares WebBundleManager, which manages the lifetime of WebBundleURLLoaderFactory objects and per-process memory quota for Web Bundles.
+// ---
+
 #ifndef SERVICES_NETWORK_WEB_BUNDLE_WEB_BUNDLE_MANAGER_H_
 #define SERVICES_NETWORK_WEB_BUNDLE_WEB_BUNDLE_MANAGER_H_
 

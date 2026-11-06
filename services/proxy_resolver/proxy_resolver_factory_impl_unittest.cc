@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ProxyResolverFactoryImpl unit tests
+// summary: Tests the Mojo proxy resolver factory with a fake V8 tracing factory, covering resolver creation, error reporting and destruction events.
+// ---
+
 #include "services/proxy_resolver/proxy_resolver_factory_impl.h"
 
 #include <optional>

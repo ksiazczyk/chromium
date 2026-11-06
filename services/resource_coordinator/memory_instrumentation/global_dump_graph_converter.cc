@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlobalDumpGraphConverter implementation
+// summary: Implements conversion of Perfetto GlobalNodeGraph memory dump graphs into Chromium GlobalDumpGraph, copying process dumps, shared memory graphs, nodes, entries and edges.
+// ---
+
 #include "services/resource_coordinator/memory_instrumentation/global_dump_graph_converter.h"
 
 #include <list>

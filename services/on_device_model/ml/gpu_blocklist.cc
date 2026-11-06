@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU blocklist checks for on-device model execution
+// summary: Checks GPU adapters against a configurable blocklist and reports device info and blocked reasons for on-device model execution.
+// ---
+
 #include "services/on_device_model/ml/gpu_blocklist.h"
 
 #include "base/compiler_specific.h"

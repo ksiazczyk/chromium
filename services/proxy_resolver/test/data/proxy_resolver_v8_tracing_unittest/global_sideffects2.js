@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: PAC test script with global state side effects (2)
+// summary: Test fixture PAC script that resolves different hosts depending on the value of a global iteration counter.
+// ---
+
 var g_iteration = 0;
 
 function FindProxyForURL(url, host) {

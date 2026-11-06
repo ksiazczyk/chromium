@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tool call, response and declaration structs for ChromeML
+// summary: Declares ToolCall, ToolResponse and ToolDeclaration structs that carry tool invocation requests, execution results and client-provided tool schemas.
+// ---
+
 #ifndef SERVICES_ON_DEVICE_MODEL_ML_CHROME_ML_TOOL_TYPES_H_
 #define SERVICES_ON_DEVICE_MODEL_ML_CHROME_ML_TOOL_TYPES_H_
 

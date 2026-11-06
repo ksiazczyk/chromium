@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passage embeddings op resolver header
+// summary: Declares HistoryOpResolver and GemmaOpResolver, TFLite op resolvers that configure delegates for the embeddings models.
+// ---
+
 #ifndef SERVICES_PASSAGE_EMBEDDINGS_PASSAGE_EMBEDDINGS_OP_RESOLVER_H_
 #define SERVICES_PASSAGE_EMBEDDINGS_PASSAGE_EMBEDDINGS_OP_RESOLVER_H_
 

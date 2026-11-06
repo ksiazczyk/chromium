@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Android backend model implementation
+// summary: Unit tests for BackendModelImplAndroid covering session creation, generation, and metrics via a native Java test helper.
+// ---
+
 #include "services/on_device_model/android/backend_model_impl_android.h"
 
 #include <variant>

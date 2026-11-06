@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hash store contents interface
+// summary: Defines the abstract HashStoreContents interface giving access to preference authenticators, store version, and super authenticators for a preference hash store.
+// ---
+
 #ifndef SERVICES_PREFERENCES_TRACKED_HASH_STORE_CONTENTS_H_
 #define SERVICES_PREFERENCES_TRACKED_HASH_STORE_CONTENTS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: On-device model Mojom implementation header
+// summary: Declares OnDeviceModelMojomImpl, a self-owned mojom OnDeviceModel implementation that manages sessions, pending tasks, adaptations, post-processors, and idle timers.
+// ---
+
 #ifndef SERVICES_ON_DEVICE_MODEL_ON_DEVICE_MODEL_MOJOM_IMPL_H_
 #define SERVICES_ON_DEVICE_MODEL_ON_DEVICE_MODEL_MOJOM_IMPL_H_
 

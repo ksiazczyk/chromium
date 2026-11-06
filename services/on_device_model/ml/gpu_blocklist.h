@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU blocklist interface and blocked reason types
+// summary: Declares the GpuBlockedReason enum, DeviceInfo struct and QueryDeviceInfo function used to evaluate GPU support for the on-device model.
+// ---
+
 #ifndef SERVICES_ON_DEVICE_MODEL_ML_GPU_BLOCKLIST_H_
 #define SERVICES_ON_DEVICE_MODEL_ML_GPU_BLOCKLIST_H_
 

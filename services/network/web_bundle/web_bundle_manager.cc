@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebBundleManager implementation
+// summary: Implements WebBundleManager, which creates WebBundleURLLoaderFactory instances, handles pending subresource loaders, and tracks per-process memory quota.
+// ---
+
 #include "services/network/web_bundle/web_bundle_manager.h"
 
 #include <algorithm>

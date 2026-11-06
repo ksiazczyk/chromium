@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Termination test PAC script for proxy resolver V8 tracing tests
+// summary: PAC test fixture that resolves two hosts and then hangs in an infinite loop unless the resolver abandons and terminates the script.
+// ---
+
 var g_iteration = 0;
 
 function FindProxyForURL(url, host) {

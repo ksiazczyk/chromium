@@ -1,5 +1,11 @@
 // Try resolving hostnames containing non-ASCII characters.
 
+// ---docerion
+// type: test
+// title: PAC test script for international domain names
+// summary: PAC script that resolves a non-ASCII hostname to verify the bindings receive its punycode equivalent.
+// ---
+
 function FindProxyForURL(url, host) {
   // This international hostname has a non-ASCII character. It is represented
   // in punycode as 'xn--bcher-kva.ch'

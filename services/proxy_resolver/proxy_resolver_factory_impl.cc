@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProxyResolverFactoryImpl implementation
+// summary: Implements the mojom::ProxyResolverFactory service, creating V8 tracing proxy resolvers from PAC scripts and binding them over Mojo.
+// ---
+
 #include "services/proxy_resolver/proxy_resolver_factory_impl.h"
 
 #include <string>

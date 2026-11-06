@@ -1,6 +1,12 @@
 // Return a single-proxy result, which encodes ALL the arguments that were
 // passed to FindProxyForURL().
 
+// ---docerion
+// type: test
+// title: Passthrough PAC script echoing URL and host
+// summary: Returns a single-proxy result encoding the arguments passed to FindProxyForURL, letting tests verify how inputs reach the script.
+// ---
+
 function FindProxyForURL(url, host) {
   if (arguments.length != 2) {
     throw "Wrong number of arguments passed to FindProxyForURL!";

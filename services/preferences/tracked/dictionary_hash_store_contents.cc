@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dictionary-backed hash store contents
+// summary: Implements HashStoreContents on top of a dictionary value, storing and retrieving individual and super authenticators for tracked preferences.
+// ---
+
 #include "services/preferences/tracked/dictionary_hash_store_contents.h"
 
 #include <ostream>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS stub for GPU device info queries
+// summary: Provides an iOS-specific QueryDeviceInfo implementation that always reports the GPU as not blocked.
+// ---
+
 #include "services/on_device_model/ml/gpu_blocklist.h"
 
 namespace ml {

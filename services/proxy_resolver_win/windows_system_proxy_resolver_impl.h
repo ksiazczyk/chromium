@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows system proxy resolver class declaration
+// summary: Declares WindowsSystemProxyResolverImpl, a mojo service that resolves proxies on Windows using WinHttp APIs and manages request lifetimes.
+// ---
+
 #ifndef SERVICES_PROXY_RESOLVER_WIN_WINDOWS_SYSTEM_PROXY_RESOLVER_IMPL_H_
 #define SERVICES_PROXY_RESOLVER_WIN_WINDOWS_SYSTEM_PROXY_RESOLVER_IMPL_H_
 

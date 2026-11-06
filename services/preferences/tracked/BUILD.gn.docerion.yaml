@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Tracked preferences build targets
+summary: GN build file defining the tracked preferences source set, its unit tests, and the features target, with platform-specific sources for Windows and Mac.

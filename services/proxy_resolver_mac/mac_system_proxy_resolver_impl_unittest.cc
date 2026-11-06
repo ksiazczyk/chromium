@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Mac system proxy resolver
+// summary: Tests MacSystemProxyResolverImpl using mock CFNetwork proxy dictionaries covering direct, host-port, and PAC URL and JavaScript proxy entries.
+// ---
+
 #include "services/proxy_resolver_mac/mac_system_proxy_resolver_impl.h"
 
 #include <CFNetwork/CFNetwork.h>

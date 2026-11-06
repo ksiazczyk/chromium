@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Constraint factory implementation using llguidance tokenizers
+// summary: Implements ConstraintFactory, copying tokenizer parameters and creating llguidance-based tokenizers and constraints for on-device model responses.
+// ---
+
 #include "services/on_device_model/ml/constraint_factory.h"
 
 #include <memory>

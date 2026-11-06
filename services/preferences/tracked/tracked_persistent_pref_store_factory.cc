@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tracked persistent preference store factory
+// summary: Creates the tracked persistent preference store, splitting protected and unprotected preferences and wiring up hash stores, filters and registry stores on Windows.
+// ---
+
 #include "services/preferences/tracked/tracked_persistent_pref_store_factory.h"
 
 #include <memory>

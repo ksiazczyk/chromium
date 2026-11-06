@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: test
+title: Proxy resolver test bundle data build file
+summary: Defines the iOS test_bundle_data target that bundles proxy resolver test data files listed in the filelist for unit tests.

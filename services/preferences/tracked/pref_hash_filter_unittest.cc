@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PrefHashFilter unit tests
+// summary: Unit tests for the preference hash filter covering tracked preference validation, enforcement levels, type mismatches, and reset behavior.
+// ---
+
 #include "services/preferences/tracked/pref_hash_filter.h"
 
 #include <stddef.h>

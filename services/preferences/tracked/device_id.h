@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Machine-specific ID interface
+// summary: Declares GetDeterministicMachineSpecificId, which populates a deterministic ID for the current machine and reports failure or lack of support.
+// ---
+
 #ifndef SERVICES_PREFERENCES_TRACKED_DEVICE_ID_H_
 #define SERVICES_PREFERENCES_TRACKED_DEVICE_ID_H_
 

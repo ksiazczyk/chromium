@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeML session accessor implementation
+// summary: Implements conversion of mojom inputs such as text, audio and tool calls into ChromeML inputs and drives session operations like append, generate and scoring.
+// ---
+
 #include "services/on_device_model/ml/session_accessor.h"
 
 #include <optional>

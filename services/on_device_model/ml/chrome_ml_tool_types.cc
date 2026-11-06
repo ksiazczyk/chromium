@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tool call type implementations for ChromeML
+// summary: Defines default constructors, destructors and copy/move operators for the ToolCall, ToolResponse and ToolDeclaration structs.
+// ---
+
 #include "services/on_device_model/ml/chrome_ml_tool_types.h"
 
 namespace ml {

@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: PAC test script with global state side effects (4)
+// summary: Test fixture PAC script that repeatedly queries the local IP address before resolving a host tied to the iteration count.
+// ---
+
 var g_iteration = 0;
 
 function FindProxyForURL(url, host) {

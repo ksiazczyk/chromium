@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HostResolverMojo unit tests
+// summary: Tests HostResolverMojo request handling, caching, and error and disconnect paths using a mock mojo resolver impl.
+// ---
+
 #include "services/proxy_resolver/host_resolver_mojo.h"
 
 #include <memory>

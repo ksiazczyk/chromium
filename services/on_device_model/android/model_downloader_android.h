@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android model downloader header
+// summary: Declares ModelDownloaderAndroid with download failure reasons, model status values, and callbacks for Android model downloads.
+// ---
+
 #ifndef SERVICES_ON_DEVICE_MODEL_ANDROID_MODEL_DOWNLOADER_ANDROID_H_
 #define SERVICES_ON_DEVICE_MODEL_ANDROID_MODEL_DOWNLOADER_ANDROID_H_
 

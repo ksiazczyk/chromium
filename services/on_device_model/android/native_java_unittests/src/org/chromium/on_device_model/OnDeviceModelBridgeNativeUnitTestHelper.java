@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: OnDeviceModelBridgeNativeUnitTestHelper
+// summary: Java helper with a mock AiCoreSession backend that native unit tests invoke to verify the on-device model JNI bridge and response handling.
+// ---
+
 package org.chromium.on_device_model;
 
 import static org.junit.Assert.assertEquals;

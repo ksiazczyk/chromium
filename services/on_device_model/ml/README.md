@@ -1,3 +1,9 @@
+---
+type: readme
+title: ChromeML interface directory overview
+summary: Explains that this directory holds the Chrome-facing interface to the ChromeML shared library and states its dependency restrictions.
+---
+
 This directory defines the Chrome-facing interface to the ChromeML shared
 library, along with client-side types to simplify its usage.
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android backend model implementation
+// summary: Implements the Android BackendModel that creates on-device model sessions, with adaptation and post-processor loading left unimplemented.
+// ---
+
 #include "services/on_device_model/android/backend_model_impl_android.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome graph processor header
+// summary: Declares ChromeGraphProcessor, a wrapper around Perfetto's GraphProcessor that handles input and output conversions for Chromium memory graph creation.
+// ---
+
 #ifndef SERVICES_RESOURCE_COORDINATOR_MEMORY_INSTRUMENTATION_CHROME_GRAPH_PROCESSOR_H_
 #define SERVICES_RESOURCE_COORDINATOR_MEMORY_INSTRUMENTATION_CHROME_GRAPH_PROCESSOR_H_
 

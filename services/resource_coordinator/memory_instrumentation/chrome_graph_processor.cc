@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome graph processor implementation
+// summary: Implements ChromeGraphProcessor, converting process memory dumps and running Perfetto graph operations to build a global memory node graph.
+// ---
+
 #include "services/resource_coordinator/memory_instrumentation/chrome_graph_processor.h"
 
 #include <list>

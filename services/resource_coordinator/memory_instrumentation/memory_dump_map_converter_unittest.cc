@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for MemoryDumpMapConverter
+// summary: Unit tests verifying that MemoryDumpMapConverter converts process memory dumps, allocator nodes, entries, and ownership edges into Perfetto structures.
+// ---
+
 #include "services/resource_coordinator/memory_instrumentation/memory_dump_map_converter.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

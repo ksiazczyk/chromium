@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloaderResponder interface for download status callbacks
+// summary: Responder interface that backends use to report model availability, download progress, failure reasons and status check results.
+// ---
+
 package org.chromium.on_device_model;
 
 import org.chromium.build.annotations.NullMarked;

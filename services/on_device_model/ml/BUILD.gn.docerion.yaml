@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn targets for the ChromeML interface
+summary: Defines GN source sets and components that build the Chrome-facing ChromeML shared library interface and its dependencies.

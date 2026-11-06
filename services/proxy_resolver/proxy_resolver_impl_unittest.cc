@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ProxyResolverImpl unit tests
+// summary: Unit tests for ProxyResolverImpl using a mock ProxyResolverV8Tracing and a test request client to verify Mojo proxy resolution results, DNS handling, and connection errors.
+// ---
+
 #include "services/proxy_resolver/proxy_resolver_impl.h"
 
 #include <algorithm>

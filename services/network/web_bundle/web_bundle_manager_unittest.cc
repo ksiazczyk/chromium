@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebBundleManager unit tests
+// summary: Unit tests for WebBundleManager covering factory creation, subresource requests, bundle errors, and memory quota limits.
+// ---
+
 #include "services/network/web_bundle/web_bundle_manager.h"
 
 #include "base/functional/callback_helpers.h"

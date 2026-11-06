@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefHashStore default transaction overload
+// summary: Defines the one-argument BeginTransaction overload that delegates to the two-argument version with a null encryptor for backward compatibility.
+// ---
+
 #include "services/preferences/tracked/pref_hash_store.h"
 
 #include "services/preferences/tracked/hash_store_contents.h"

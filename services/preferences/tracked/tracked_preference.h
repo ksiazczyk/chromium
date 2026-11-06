@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tracked preference interface
+// summary: Defines the TrackedPreference interface for validating preference values, updating hash store entries and reporting results according to policy.
+// ---
+
 #ifndef SERVICES_PREFERENCES_TRACKED_TRACKED_PREFERENCE_H_
 #define SERVICES_PREFERENCES_TRACKED_TRACKED_PREFERENCE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the safety directory
+summary: Lists allowed dependencies on optimization guide, translate language detection, tensorflow-text, and tflite_support for this directory.

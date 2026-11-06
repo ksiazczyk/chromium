@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: PAC test script combining DNS and IP lookups
+// summary: Test fixture PAC script that resolves several hosts and local IP addresses and returns a proxy string built from the joined results.
+// ---
+
 var g_iteration = 0;
 
 function FindProxyForURL(url, host) {

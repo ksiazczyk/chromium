@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for passage embeddings
+summary: Lists the include paths allowed for code in the passage_embeddings service directory, covering optimization guide, on-device model, and TFLite headers.

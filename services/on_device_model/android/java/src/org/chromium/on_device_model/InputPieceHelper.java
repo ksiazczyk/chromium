@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Helper for creating InputPiece objects from native code
+// summary: JNI helper that constructs InputPiece mojom objects from either a token integer or a text string for native callers.
+// ---
+
 package org.chromium.on_device_model;
 
 import org.jni_zero.CalledByNative;

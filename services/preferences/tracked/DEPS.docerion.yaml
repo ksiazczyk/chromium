@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Tracked preferences include rules
+summary: DEPS file listing the directories that code in the tracked preferences directory is allowed to include from.

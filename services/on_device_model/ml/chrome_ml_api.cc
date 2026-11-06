@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeML API platform file constant
+// summary: Defines the Windows invalid platform file constant used by the ChromeML C API.
+// ---
+
 #include "services/on_device_model/ml/chrome_ml_api.h"
 
 #if defined(_WIN32)

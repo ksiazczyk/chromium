@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeMLHolder native library loader
+// summary: Loads the ChromeML native library, resolves GetChromeMLAPIV2, and creates a ChromeMLHolder with the selected backend mode.
+// ---
+
 #include "services/on_device_model/ml/chrome_ml_holder.h"
 
 #include <optional>

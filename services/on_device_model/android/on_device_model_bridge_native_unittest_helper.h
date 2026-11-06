@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Native unit test helper header for the on-device model bridge
+// summary: Declares the test helper and settings classes used to drive and verify Java AiCore session and downloader behavior from native unit tests.
+// ---
+
 #ifndef SERVICES_ON_DEVICE_MODEL_ANDROID_ON_DEVICE_MODEL_BRIDGE_NATIVE_UNITTEST_HELPER_H_
 #define SERVICES_ON_DEVICE_MODEL_ANDROID_ON_DEVICE_MODEL_BRIDGE_NATIVE_UNITTEST_HELPER_H_
 

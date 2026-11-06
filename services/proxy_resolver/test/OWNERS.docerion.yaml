@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Proxy resolver test directory owners
+summary: Per-file OWNERS rule that allows anyone to update the test bundle data filelist.

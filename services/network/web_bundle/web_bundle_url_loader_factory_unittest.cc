@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web bundle URL loader factory unit tests
+// summary: Unit tests for the Web Bundle URL loader factory covering bundle parsing, serving constraints, cross-origin resource handling, and memory quota behavior.
+// ---
+
 #include "services/network/web_bundle/web_bundle_url_loader_factory.h"
 
 #include "base/base64.h"

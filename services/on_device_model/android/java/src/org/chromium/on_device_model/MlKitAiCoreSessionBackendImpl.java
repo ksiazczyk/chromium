@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MLKit session backend
+// summary: Implements the AiCore session backend using MLKit Prompt APIs to handle streaming text generation and token counting.
+// ---
+
 package org.chromium.on_device_model;
 
 import com.google.common.util.concurrent.FutureCallback;

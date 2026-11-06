@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo host resolver interface
+// summary: Declares HostResolverMojo, a ProxyHostResolver that converts requests to mojo types and forwards them to an injected Impl.
+// ---
+
 #ifndef SERVICES_PROXY_RESOLVER_HOST_RESOLVER_MOJO_H_
 #define SERVICES_PROXY_RESOLVER_HOST_RESOLVER_MOJO_H_
 

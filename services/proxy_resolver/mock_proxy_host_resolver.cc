@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock proxy host resolver implementation
+// summary: Implements mock and hanging ProxyHostResolver fakes that return canned DNS results or hang until cancelled for use in tests.
+// ---
+
 #include "services/proxy_resolver/mock_proxy_host_resolver.h"
 
 #include "base/check.h"

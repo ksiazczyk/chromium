@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WinHTTP API wrapper implementation
+// summary: Implements WinHttpAPIWrapperImpl with real WinHttp calls, handling session handles, callbacks, timeouts, and proxy result retrieval.
+// ---
+
 #include "services/proxy_resolver_win/winhttp_api_wrapper_impl.h"
 
 #include <string>

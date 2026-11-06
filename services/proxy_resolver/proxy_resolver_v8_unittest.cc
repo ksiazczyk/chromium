@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ProxyResolverV8 unit tests
+// summary: Unit tests for ProxyResolverV8 that run PAC scripts from test data with mock JavaScript bindings to verify DNS operations, alerts, errors, and script termination behavior.
+// ---
+
 #include "services/proxy_resolver/proxy_resolver_v8.h"
 
 #include <array>

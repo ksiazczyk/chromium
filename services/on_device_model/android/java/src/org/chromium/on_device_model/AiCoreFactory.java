@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AiCoreFactory interface for creating on-device model backends
+// summary: Factory interface that creates AiCore session and model downloader backends, and is null when the AiCore API is not available.
+// ---
+
 package org.chromium.on_device_model;
 
 import org.chromium.build.annotations.NullMarked;
