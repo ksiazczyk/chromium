@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Potentially trustworthy origin checks implementation
+// summary: Implements checks for whether origins and URLs are potentially trustworthy, including validation of wildcard hostname patterns for the secure origin allowlist.
+// ---
+
 #include "net/base/is_potentially_trustworthy.h"
 
 #include <algorithm>

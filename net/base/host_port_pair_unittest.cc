@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HostPortPair unit tests
+// summary: Unit tests for parsing, string conversion, IPv6 bracket handling, comparison, and construction of HostPortPair from various sources.
+// ---
+
 #include "net/base/host_port_pair.h"
 
 #include <optional>

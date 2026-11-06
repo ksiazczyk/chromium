@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SchemeHostPortMatcher unit tests
+// summary: Unit tests covering parsing of multiple rules, rejection of bad inputs, and that the matcher does not mimic proxy host matching rules.
+// ---
+
 #include "net/base/scheme_host_port_matcher.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

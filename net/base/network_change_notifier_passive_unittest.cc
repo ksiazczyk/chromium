@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Passive network change notifier unit tests
+// summary: Tests that IP address, connection type and max bandwidth changes are relayed to registered observers with a test DNS config service.
+// ---
+
 #include "net/base/network_change_notifier_passive.h"
 
 #include <utility>

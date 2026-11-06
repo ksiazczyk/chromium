@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network cost change notifier unit tests
+// summary: Unit tests for NetworkCostChangeNotifierWin using a fake network cost manager to simulate unknown, unmetered, and metered connection costs.
+// ---
+
 #include "net/base/network_cost_change_notifier_win.h"
 
 #include "base/run_loop.h"

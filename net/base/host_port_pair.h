@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HostPortPair class interface
+// summary: Declares HostPortPair, a host and port value type with conversions to and from URLs, endpoints, strings, and base::Value.
+// ---
+
 #ifndef NET_BASE_HOST_PORT_PAIR_H_
 #define NET_BASE_HOST_PORT_PAIR_H_
 

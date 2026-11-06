@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network stack feature flag definitions
+// summary: Defines base::Feature flags and parameters for the Chromium network stack, covering async DNS, HTTPS/SVCB record usage, connection retries, and related behaviors.
+// ---
+
 #include "net/base/features.h"
 
 #include <string>

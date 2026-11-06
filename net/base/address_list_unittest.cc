@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AddressList unit tests
+// summary: Tests AddressList creation from addrinfo and IP address lists, copying, port handling and DNS alias management.
+// ---
+
 #include "net/base/address_list.h"
 
 #include <stdint.h>

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for net/base
+summary: Assigns per-file owners for Fuchsia-related files and routes MIME sniffer changes to security owners.

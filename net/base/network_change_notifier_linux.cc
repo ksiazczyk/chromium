@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux NetworkChangeNotifier implementation
+// summary: Implements the Linux network change notifier, running AddressTrackerLinux on a blocking thread to detect netlink-based connection and IP address changes.
+// ---
+
 #include "net/base/network_change_notifier_linux.h"
 
 #include <string>

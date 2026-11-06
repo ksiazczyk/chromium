@@ -1,0 +1,4 @@
+# Docerion header of platform_mime_util_apple.mm.
+type: source
+title: Apple platform MIME utility implementation
+summary: Apple implementation of PlatformMimeUtil using UniformTypeIdentifiers to resolve MIME types and extensions on iOS and macOS.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoadTimingInfo structure
+// summary: Defines the LoadTimingInfo struct recording request timing events such as DNS lookup, connection, SSL handshake, and header receipt, aligned with resource timing specs.
+// ---
+
 #ifndef NET_BASE_LOAD_TIMING_INFO_H_
 #define NET_BASE_LOAD_TIMING_INFO_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ConnectionEndpointMetadata unit tests
+// summary: Verifies that ConnectionEndpointMetadata instances with differing fields remain distinct when stored in a std::set.
+// ---
+
 #include "net/base/connection_endpoint_metadata.h"
 
 #include <set>

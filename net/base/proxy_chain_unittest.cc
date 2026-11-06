@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Proxy chain unit tests
+// summary: Tests ProxyChain construction, equality, debug strings, scheme host and port parsing, and pickling behavior.
+// ---
+
 #include "net/base/proxy_chain.h"
 
 #include <array>

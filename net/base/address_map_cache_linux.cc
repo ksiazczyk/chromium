@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AddressMapCacheLinux implementation
+// summary: Thread-safe cache of the Linux address map and online links, supporting initial snapshots and atomic diff updates.
+// ---
+
 #include "net/base/address_map_cache_linux.h"
 
 #include <linux/rtnetlink.h>

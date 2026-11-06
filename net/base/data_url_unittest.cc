@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Data URL unit tests
+// summary: Unit tests verifying DataURL::Parse results across MIME type, charset and feature flag combinations.
+// ---
+
 #include "net/base/data_url.h"
 
 #include "base/command_line.h"

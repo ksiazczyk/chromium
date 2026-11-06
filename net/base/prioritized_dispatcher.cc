@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prioritized dispatcher implementation
+// summary: Implements a priority-based job dispatcher that starts queued jobs while enforcing per-priority limits on running jobs.
+// ---
+
 #include "net/base/prioritized_dispatcher.h"
 
 #include <ostream>

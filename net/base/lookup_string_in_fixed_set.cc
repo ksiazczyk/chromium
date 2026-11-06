@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fixed set string lookup
+// summary: Implements DAFSA-based membership, prefix and suffix lookups in compile-time fixed string sets such as registry-controlled domains.
+// ---
+
 #include "net/base/lookup_string_in_fixed_set.h"
 
 #include <stddef.h>

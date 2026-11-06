@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IP address utility unit tests
+// summary: Unit tests verifying conversion of IPAddress objects to platform in_addr and in6_addr socket address structures.
+// ---
+
 #include "net/base/ip_address_util.h"
 
 #if BUILDFLAG(IS_WIN)

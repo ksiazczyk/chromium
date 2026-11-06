@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Net error helper implementations
+// summary: Implements error-to-string conversion and classification helpers such as IsCertificateError and FileErrorToNetError for network error codes.
+// ---
+
 #include "net/base/net_errors.h"
 
 #include <string>

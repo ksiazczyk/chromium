@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Privacy mode enum
+// summary: Defines PrivacyMode, corresponding to the fetch spec credentials mode for cookies, client certificates and HTTP auth credentials.
+// ---
+
 #ifndef NET_BASE_PRIVACY_MODE_H_
 #define NET_BASE_PRIVACY_MODE_H_
 

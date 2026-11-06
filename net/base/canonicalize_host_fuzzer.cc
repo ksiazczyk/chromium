@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fuzzer for host canonicalization
+// summary: Fuzz target that feeds arbitrary input bytes to net::CanonicalizeHost to exercise host canonicalization robustness.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

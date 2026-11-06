@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AddressList class declaration
+// summary: Declares the AddressList class that stores IP endpoints with DNS aliases and provides list construction and manipulation helpers.
+// ---
+
 #ifndef NET_BASE_ADDRESS_LIST_H_
 #define NET_BASE_ADDRESS_LIST_H_
 

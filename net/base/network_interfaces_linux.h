@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux network interfaces internals header
+// summary: Declares internal helpers for enumerating Linux network interfaces and deriving the Wi-Fi SSID from an interface list, shared with address_tracker_linux and tests.
+// ---
+
 #ifndef NET_BASE_NETWORK_INTERFACES_LINUX_H_
 #define NET_BASE_NETWORK_INTERFACES_LINUX_H_
 

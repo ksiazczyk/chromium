@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoadFlagsToString implementation
+// summary: Implements LoadFlagsToString, converting a load flag bitmask into a readable pipe-separated string of LOAD_* flag names.
+// ---
+
 #include "net/base/load_flags_to_string.h"
 
 #include <bit>

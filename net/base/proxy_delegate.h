@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proxy delegate interface
+// summary: Declares the ProxyDelegate interface for hooking into proxy resolution, tunnel request headers and proxy fallback handling.
+// ---
+
 #ifndef NET_BASE_PROXY_DELEGATE_H_
 #define NET_BASE_PROXY_DELEGATE_H_
 

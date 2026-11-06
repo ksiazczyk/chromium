@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MIME sniffer unit tests
+// summary: Unit tests covering sniffable URL schemes, X-Content-Type-Options handling and boundary conditions of MIME type sniffing.
+// ---
+
 #include "net/base/mime_sniffer.h"
 
 #include <string>

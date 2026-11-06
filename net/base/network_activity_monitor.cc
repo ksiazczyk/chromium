@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network activity monitor implementation
+// summary: Implements global thread-safe counters that track bytes received from the network across all sockets, using relaxed atomic increments plus a reset hook for testing.
+// ---
+
 #include "net/base/network_activity_monitor.h"
 
 #include <atomic>

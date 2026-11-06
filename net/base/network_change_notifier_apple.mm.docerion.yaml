@@ -1,0 +1,4 @@
+# Docerion header of network_change_notifier_apple.mm.
+type: source
+title: Apple network change notifier implementation
+summary: Implements the Apple network change notifier with Network.framework path monitoring, SCDynamicStore primary interface lookups, and iOS telephony integration.

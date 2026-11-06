@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passive network change notifier header
+// summary: Declares NetworkChangeNotifierPassive, which receives DNS, IP address, connection type and subtype updates from an external owner and notifies observers.
+// ---
+
 #ifndef NET_BASE_NETWORK_CHANGE_NOTIFIER_PASSIVE_H_
 #define NET_BASE_NETWORK_CHANGE_NOTIFIER_PASSIVE_H_
 

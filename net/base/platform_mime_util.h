@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform MIME utility interface
+// summary: Declares PlatformMimeUtil, the platform-specific interface for mapping between MIME types and filename extensions.
+// ---
+
 #ifndef NET_BASE_PLATFORM_MIME_UTIL_H_
 #define NET_BASE_PLATFORM_MIME_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network change notifier Linux unit tests
+// summary: Unit tests for the Linux network change notifier, using a dummy netlink socket and mocked D-Bus portal bus to stay hermetic.
+// ---
+
 #include "net/base/network_change_notifier_linux.h"
 
 #include <sys/socket.h>

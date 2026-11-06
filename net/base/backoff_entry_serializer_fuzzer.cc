@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fuzzer for BackoffEntry serializer round trips
+// summary: libFuzzer harness that deserializes and reserializes BackoffEntry data from protobuf-generated input to check round-trip properties of the serializer.
+// ---
+
 #include "net/base/backoff_entry_serializer.h"
 
 #include <stddef.h>

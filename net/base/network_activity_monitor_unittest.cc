@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network activity monitor unit tests
+// summary: Unit tests verifying byte counting and thread-safe concurrent increments of the network activity monitor across multiple worker threads.
+// ---
+
 #include "net/base/network_activity_monitor.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows network interfaces implementation
+// summary: Implements Windows network interface enumeration, including dynamic WLAN API loading and connection attribute queries for Wi-Fi SSID detection.
+// ---
+
 #include "net/base/network_interfaces_win.h"
 
 #include <algorithm>

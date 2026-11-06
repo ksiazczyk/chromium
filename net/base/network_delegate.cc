@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkDelegate notification forwarding implementation
+// summary: Implements NetworkDelegate's Notify methods, which validate parameters and forward network stack events to the private virtual hooks.
+// ---
+
 #include "net/base/network_delegate.h"
 
 #include <algorithm>

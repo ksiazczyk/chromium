@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Port utility API declarations
+// summary: Declares functions for checking port validity, well-known ports, scheme-specific allowances, and scoped port exceptions.
+// ---
+
 #ifndef NET_BASE_PORT_UTIL_H_
 #define NET_BASE_PORT_UTIL_H_
 

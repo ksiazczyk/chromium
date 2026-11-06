@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConnectionMigrationInformation implementation
+// summary: Implements constructors and subtraction for the connection migration network event count tracking struct.
+// ---
+
 #include "net/base/connection_migration_information.h"
 
 #include <stdint.h>

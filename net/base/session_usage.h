@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionUsage enum
+// summary: Defines an enum distinguishing destination versus proxy sessions for QUIC and SPDY session keys.
+// ---
+
 #ifndef NET_BASE_SESSION_USAGE_H_
 #define NET_BASE_SESSION_USAGE_H_
 

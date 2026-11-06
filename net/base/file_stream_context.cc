@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileStream context implementation
+// summary: Implements the platform-independent parts of FileStream::Context, including orphaning and posting async open, close, seek, and file info work to a task runner.
+// ---
+
 #include "net/base/file_stream_context.h"
 
 #include <utility>

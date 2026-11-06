@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux portal network monitor implementation
+// summary: Implements a D-Bus client for the org.freedesktop.portal.NetworkMonitor portal that reports connection cost changes to the Linux network change notifier.
+// ---
+
 #include "net/base/network_change_notifier_linux_portal.h"
 
 #include <dbus/dbus.h>

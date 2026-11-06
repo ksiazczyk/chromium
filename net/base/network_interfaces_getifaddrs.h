@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: getifaddrs network interfaces header
+// summary: Declares IfaddrsToNetworkInterfaceList and the IPAttributesGetter interface used to build network interface lists from getifaddrs results.
+// ---
+
 #ifndef NET_BASE_NETWORK_INTERFACES_GETIFADDRS_H_
 #define NET_BASE_NETWORK_INTERFACES_GETIFADDRS_H_
 

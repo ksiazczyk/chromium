@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Address family unit tests
+// summary: Tests GetAddressFamily and ToAddressFamily conversions for IPv4, IPv6 and unspecified address families.
+// ---
+
 #include "net/base/address_family.h"
 
 #include "net/base/ip_address.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL filter matching implementation
+// summary: Implements URL filtering that matches a URL against sets of origins or registrable domains.
+// ---
+
 #include "net/base/does_url_match_filter.h"
 
 #include <string_view>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AddressTrackerLinux unit tests
+// summary: Unit tests covering AddressTrackerLinux message handling, tracking mode, and address map cache behavior.
+// ---
+
 #include "net/base/address_tracker_linux.h"
 
 #include <linux/if.h>

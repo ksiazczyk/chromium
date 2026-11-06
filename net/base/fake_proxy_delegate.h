@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeProxyDelegate header
+// summary: Declares a minimal fake ProxyDelegate for testing that tracks call counts and last arguments of proxy resolution callbacks.
+// ---
+
 #ifndef NET_BASE_FAKE_PROXY_DELEGATE_H_
 #define NET_BASE_FAKE_PROXY_DELEGATE_H_
 

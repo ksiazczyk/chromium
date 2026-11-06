@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network interfaces core implementation
+// summary: Implements the NetworkInterface struct, ScopedWifiOptions destructor and GetHostName for the cross-platform network interface API.
+// ---
+
 #include "net/base/network_interfaces.h"
 
 #include "base/logging.h"

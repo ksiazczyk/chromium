@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Filename utilities for file URLs and download names
+// summary: 'Declares helpers that convert between file paths and file: URLs and generate safe suggested filenames from URLs, Content-Disposition headers, MIME types, and defaults.'
+// ---
+
 #ifndef NET_BASE_FILENAME_UTIL_H_
 #define NET_BASE_FILENAME_UTIL_H_
 

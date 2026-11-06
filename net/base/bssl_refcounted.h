@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BsslRefcounted copyable BoringSSL wrapper
+// summary: Declares a template wrapper that adds copy semantics to BoringSSL's non-copyable scopers by forwarding to bssl::UpRef.
+// ---
+
 #ifndef NET_BASE_BSSL_REFCOUNTED_H_
 #define NET_BASE_BSSL_REFCOUNTED_H_
 

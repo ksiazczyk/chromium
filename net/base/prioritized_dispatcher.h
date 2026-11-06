@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prioritized dispatcher API declarations
+// summary: Declares a non-thread-safe dispatcher that orders jobs by priority and FIFO, with limits, cancellation, and priority changes.
+// ---
+
 #ifndef NET_BASE_PRIORITIZED_DISPATCHER_H_
 #define NET_BASE_PRIORITIZED_DISPATCHER_H_
 

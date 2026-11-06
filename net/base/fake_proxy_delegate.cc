@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeProxyDelegate implementation
+// summary: Implements a minimal fake ProxyDelegate that counts and records proxy resolution, fallback, and retry callbacks for use in tests.
+// ---
+
 #include "net/base/fake_proxy_delegate.h"
 
 #include "net/http/http_request_headers.h"

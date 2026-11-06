@@ -25,6 +25,12 @@
 
 // LINT.IfChange
 
+// ---docerion
+// type: source
+// title: Network error code list
+// summary: Enumerates all network error codes via the NET_ERROR macro, grouped into ranges for system, connection, certificate, HTTP, cache, and DNS errors.
+// ---
+
 // An asynchronous IO operation is not yet complete.  This usually does not
 // indicate a fatal error.  Typically this error will be generated as a
 // notification to wait for some external notification that the IO operation

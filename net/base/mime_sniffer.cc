@@ -83,6 +83,12 @@
 // Note that our definition of HTML payload is much stricter than IE's
 // definition and roughly the same as Firefox's definition.
 
+// ---docerion
+// type: source
+// title: MIME type sniffer implementation
+// summary: Implements Chromium's MIME type sniffing from content bytes, URL and Content-Type hints, documenting browser compatibility and security trade-offs.
+// ---
+
 #include "net/base/mime_sniffer.h"
 
 #include <stdint.h>

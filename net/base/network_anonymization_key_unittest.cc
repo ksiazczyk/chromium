@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network anonymization key unit tests
+// summary: Unit tests covering empty key properties, creation from network isolation keys, cross-site behavior, hashing, and isolation partition values.
+// ---
+
 #include "net/base/network_anonymization_key.h"
 
 #include <optional>

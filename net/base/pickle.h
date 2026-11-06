@@ -55,6 +55,12 @@
 //  - std::variant
 //  - enums
 
+// ---docerion
+// type: source
+// title: Pickle serialization helpers
+// summary: Header providing WriteToPickle and ReadValueFromPickle templates to serialize and deserialize supported types to and from base::Pickle.
+// ---
+
 #ifndef NET_BASE_PICKLE_H_
 #define NET_BASE_PICKLE_H_
 

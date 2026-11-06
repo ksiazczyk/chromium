@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Load timing info test utilities
+// summary: Implements assertion helpers that validate connect and load timing values in network stack tests.
+// ---
+
 #include "net/base/load_timing_info_test_util.h"
 
 #include "net/base/load_timing_info.h"

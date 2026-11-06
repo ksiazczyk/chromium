@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataURL class header
+// summary: Declares the DataURL class with Parse and BuildResponse methods for handling RFC 2397 data URLs.
+// ---
+
 #ifndef NET_BASE_DATA_URL_H_
 #define NET_BASE_DATA_URL_H_
 

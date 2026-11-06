@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Apple build flags for NetworkChangeNotifier
+// summary: Defines a compile-time flag that selects the legacy SCNetworkReachability notifier on Apple platforms when the newer NetworkPathMonitor API is unavailable.
+// ---
+
 #ifndef NET_BASE_NETWORK_CHANGE_NOTIFIER_APPLE_BUILDFLAGS_H_
 #define NET_BASE_NETWORK_CHANGE_NOTIFIER_APPLE_BUILDFLAGS_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for net/base dependencies
+summary: Grants net/base access to generated grit headers through include rules.

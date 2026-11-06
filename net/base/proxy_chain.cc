@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proxy chain implementation
+// summary: Implements ProxyChain, an ordered chain of proxy servers with pickling, splitting, prefixing and IP Protection support.
+// ---
+
 #include "net/base/proxy_chain.h"
 
 #include <algorithm>

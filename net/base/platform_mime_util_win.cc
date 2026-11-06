@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows platform MIME utility implementation
+// summary: Implements PlatformMimeUtil on Windows by looking up MIME types and preferred extensions in the HKEY_CLASSES_ROOT registry.
+// ---
+
 #include "net/base/platform_mime_util.h"
 
 #include <windows.h>

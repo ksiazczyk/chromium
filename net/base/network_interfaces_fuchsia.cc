@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia network interfaces implementation
+// summary: Implements network interface enumeration on Fuchsia by converting netstack interface properties into NetworkInterfaceList entries and checking routability.
+// ---
+
 #include "net/base/network_interfaces_fuchsia.h"
 
 #include <fuchsia/net/interfaces/cpp/fidl.h>

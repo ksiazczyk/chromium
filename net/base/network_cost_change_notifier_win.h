@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkCostChangeNotifierWin class declaration
+// summary: Declares NetworkCostChangeNotifierWin, a Windows helper that tracks connection cost changes off the UI thread using base::SequenceBound and COM STA.
+// ---
+
 #ifndef NET_BASE_NETWORK_COST_CHANGE_NOTIFIER_WIN_H_
 #define NET_BASE_NETWORK_COST_CHANGE_NOTIFIER_WIN_H_
 

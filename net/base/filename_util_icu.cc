@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ICU-based filename utilities implementation
+// summary: Implements the filename_util APIs using ICU to replace illegal characters and normalize names, including ChromeOS-specific filename encoding normalization.
+// ---
+
 #include "net/base/filename_util.h"
 
 #include <string>

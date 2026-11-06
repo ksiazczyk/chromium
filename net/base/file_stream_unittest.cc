@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FileStream unit tests
+// summary: Unit tests covering FileStream open, close, seek, read, write, and named pipe behavior across platforms using temporary files and test callbacks.
+// ---
+
 #include "net/base/file_stream.h"
 
 #include <string>

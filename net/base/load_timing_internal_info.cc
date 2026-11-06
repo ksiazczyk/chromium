@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Load timing internal info implementation
+// summary: Implements constructors and equality operators for internal load timing and QUIC reuse detail structures.
+// ---
+
 #include "net/base/load_timing_internal_info.h"
 
 namespace net {

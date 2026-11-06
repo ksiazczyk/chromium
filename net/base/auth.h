@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auth challenge and credentials declarations
+// summary: Declares AuthChallengeInfo, AuthCredentials and the AuthState enum used to describe authentication challenges, credentials and authentication states.
+// ---
+
 #ifndef NET_BASE_AUTH_H__
 #define NET_BASE_AUTH_H__
 

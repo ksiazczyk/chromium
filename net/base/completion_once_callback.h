@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Deprecated completion once-callback type aliases
+// summary: Defines deprecated net callback aliases wrapping base::OnceCallback for reporting network error codes or byte counts.
+// ---
+
 #ifndef NET_BASE_COMPLETION_ONCE_CALLBACK_H_
 #define NET_BASE_COMPLETION_ONCE_CALLBACK_H_
 

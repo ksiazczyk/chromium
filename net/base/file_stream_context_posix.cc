@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileStream context POSIX implementation
+// summary: Implements POSIX-specific FileStream::Context read, write, and seek operations via base::File, including macOS file descriptor guarding.
+// ---
+
 #include "net/base/file_stream_context.h"
 
 #include <errno.h>

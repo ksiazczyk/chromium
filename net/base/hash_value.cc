@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HashValue implementation
+// summary: Implements the HashValue class, including parsing and serialization of sha256/ prefixed base64 hash strings and comparison operators.
+// ---
+
 #include "net/base/hash_value.h"
 
 #include <stdlib.h>

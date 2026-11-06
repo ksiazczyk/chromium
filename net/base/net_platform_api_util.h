@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Net platform API string-span helpers
+// summary: Declares helpers for exchanging C-style strings with platform APIs using spans, including copying with a nul terminator and extracting string views.
+// ---
+
 #ifndef NET_BASE_NET_PLATFORM_API_UTIL_H_
 #define NET_BASE_NET_PLATFORM_API_UTIL_H_
 

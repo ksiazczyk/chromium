@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Potentially trustworthy origin checks header
+// summary: Declares IsOriginPotentiallyTrustworthy, IsUrlPotentiallyTrustworthy, and the SecureOriginAllowlist class for managing trusted origin allowlists.
+// ---
+
 #ifndef NET_BASE_IS_POTENTIALLY_TRUSTWORTHY_H_
 #define NET_BASE_IS_POTENTIALLY_TRUSTWORTHY_H_
 

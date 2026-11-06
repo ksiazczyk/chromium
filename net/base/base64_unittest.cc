@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for SimdutfBase64Decode
+// summary: Tests the simdutf-backed Base64 decoder in strict and forgiving modes, covering padding, whitespace handling, and invalid-input cases.
+// ---
+
 #include "net/base/base64.h"
 
 #include "base/base64.h"

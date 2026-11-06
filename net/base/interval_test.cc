@@ -9,6 +9,12 @@
 // Author: Will Neveitt (wneveitt@google.com)
 // ----------------------------------------------------------------------
 
+// ---docerion
+// type: test
+// title: Interval class unit tests
+// summary: Unit tests for the Interval class covering construction, setters, spanning union, intersection and comparison behavior.
+// ---
+
 #include "net/base/interval.h"
 
 #include "net/test/gtest_util.h"

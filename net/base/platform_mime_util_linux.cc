@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux and Android platform MIME utility implementation
+// summary: Linux and Android implementation of PlatformMimeUtil using the XDG mime database or the Android network library for MIME lookups.
+// ---
+
 #include "net/base/platform_mime_util.h"
 
 #include <string>

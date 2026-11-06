@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unix socket address utilities for POSIX
+// summary: Fills sockaddr structures for Unix domain sockets, including abstract namespace support on Linux.
+// ---
+
 #include "net/base/sockaddr_util_posix.h"
 
 #include <stddef.h>

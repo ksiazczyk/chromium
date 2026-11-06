@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chunked upload data stream implementation
+// summary: Implements a push-based UploadDataStream that buffers appended chunks and serves reads until all data is appended and consumed.
+// ---
+
 #include "net/base/chunked_upload_data_stream.h"
 
 #include "base/check_op.h"

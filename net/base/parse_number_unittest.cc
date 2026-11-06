@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ParseNumber unit tests
+// summary: Unit tests for ParseInt32/64 and ParseUint32/64 covering valid, invalid, strict, overflow, and underflow inputs across all parse formats.
+// ---
+
 #include "net/base/parse_number.h"
 
 #include <limits>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SchemeHostPortMatcher implementation
+// summary: Implements SchemeHostPortMatcher, evaluating an ordered list of include and exclude rules against URLs and serializing the rule list to a string.
+// ---
+
 #include "net/base/scheme_host_port_matcher.h"
 
 #include <ranges>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ConnectionEndpointMetadata gmock test matcher
+// summary: Provides a gmock matcher helper for asserting on ConnectionEndpointMetadata fields in tests.
+// ---
+
 #include "net/base/connection_endpoint_metadata_test_util.h"
 
 #include <ostream>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows network change notifier unit tests
+// summary: Tests the Windows network change notifier with a test subclass that stubs Windows networking APIs and a fake network cost manager.
+// ---
+
 #include "net/base/network_change_notifier_win.h"
 
 #include <memory>

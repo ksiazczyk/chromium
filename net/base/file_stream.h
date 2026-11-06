@@ -7,6 +7,12 @@
 // Note that even when used asynchronously, only one operation is supported at
 // a time.
 
+// ---docerion
+// type: source
+// title: FileStream interface
+// summary: Declares FileStream, an interface for reading and writing files synchronously or asynchronously with seek support, allowing only one operation at a time.
+// ---
+
 #ifndef NET_BASE_FILE_STREAM_H_
 #define NET_BASE_FILE_STREAM_H_
 

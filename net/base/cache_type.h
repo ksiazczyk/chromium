@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cache type and backend enumerations
+// summary: Defines the CacheType enum for cache backing stores such as disk, memory, and code caches, plus the BackendType enum for disk cache backends.
+// ---
+
 #ifndef NET_BASE_CACHE_TYPE_H_
 #define NET_BASE_CACHE_TYPE_H_
 

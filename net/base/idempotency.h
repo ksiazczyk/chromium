@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Idempotency enum
+// summary: Defines the Idempotency enum indicating whether a request is safe for 0-RTT, with a generated Java counterpart.
+// ---
+
 #ifndef NET_BASE_IDEMPOTENCY_H_
 #define NET_BASE_IDEMPOTENCY_H_
 

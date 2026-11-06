@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RandIntCallback typedef header
+// summary: Defines the RandIntCallback typedef as a repeating callback that returns a random integer within a range.
+// ---
+
 #ifndef NET_BASE_RAND_CALLBACK_H_
 #define NET_BASE_RAND_CALLBACK_H_
 

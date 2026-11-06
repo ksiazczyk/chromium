@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fixed set lookup fuzzer
+// summary: LibFuzzer entry point that exercises LookupStringInFixedSet against the effective TLD DAFSA graph.
+// ---
+
 #include "net/base/lookup_string_in_fixed_set.h"
 
 #include <stddef.h>

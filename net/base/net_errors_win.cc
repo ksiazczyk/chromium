@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows system error mapping
+// summary: Maps Winsock and Windows system error codes to Chromium network error codes in MapSystemError for Windows.
+// ---
+
 #include "net/base/net_errors.h"
 
 #include <winsock2.h>

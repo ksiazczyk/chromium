@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConnectionEndpointMetadata struct declaration
+// summary: Declares the metadata struct describing connection endpoints, with ALPNs, ECH config, target name and trust anchor IDs.
+// ---
+
 #ifndef NET_BASE_CONNECTION_ENDPOINT_METADATA_H_
 #define NET_BASE_CONNECTION_ENDPOINT_METADATA_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Registry-controlled domain constants
+// summary: Defines the DomainRuleTag enum and EnumSet used for tags encoded in registry-controlled domain DAFSA data.
+// ---
+
 #ifndef NET_BASE_REGISTRY_CONTROLLED_DOMAIN_CONSTANTS_H_
 #define NET_BASE_REGISTRY_CONTROLLED_DOMAIN_CONSTANTS_H_
 

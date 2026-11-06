@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File path and URL conversion utilities
+// summary: Converts between file paths and file URLs, handling percent-encoding, UNC paths, and platform-specific rules to avoid spoofing risks.
+// ---
+
 #include "net/base/filename_util.h"
 
 #include <set>

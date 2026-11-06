@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Pickle serialization unit tests
+// summary: Unit tests checking WriteToPickle and ReadValueFromPickle round trips across many types and compatibility with base::Pickle methods.
+// ---
+
 #include "net/base/pickle.h"
 
 #include <stddef.h>

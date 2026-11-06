@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Load flags enum definition
+// summary: Defines the net LOAD_* enum of request load flags by expanding the load flag macro list, intended to be OR'd together.
+// ---
+
 #ifndef NET_BASE_LOAD_FLAGS_H_
 #define NET_BASE_LOAD_FLAGS_H_
 

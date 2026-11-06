@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proxy delegate default override
+// summary: Provides the default ProxyDelegate implementation of CanFalloverToNextProxyOverride, which by default applies no override.
+// ---
+
 #include "net/base/proxy_delegate.h"
 
 #include <optional>

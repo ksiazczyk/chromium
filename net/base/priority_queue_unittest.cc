@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Priority queue unit tests
+// summary: Tests insertion, clearing, pointer comparison and ordering behavior of the net priority queue across several queue layouts.
+// ---
+
 #include "net/base/priority_queue.h"
 
 #include <array>

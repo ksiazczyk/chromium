@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NET_EXPORT macro definitions
+// summary: Defines NET_EXPORT and NET_EXPORT_PRIVATE macros controlling symbol visibility and export of the net module in component builds.
+// ---
+
 #ifndef NET_BASE_NET_EXPORT_H_
 #define NET_BASE_NET_EXPORT_H_
 

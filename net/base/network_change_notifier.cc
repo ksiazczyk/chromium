@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network change notifier implementation
+// summary: Implements the process-wide singleton that monitors system network changes and notifies registered observers, wiring platform-specific notifier backends.
+// ---
+
 #include "net/base/network_change_notifier.h"
 
 #include <limits>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: getifaddrs network interfaces implementation
+// summary: Implements GetNetworkList via the getifaddrs API for Mac, iOS, Fuchsia and Android, including macOS ioctl-based IP attribute and interface type lookup.
+// ---
+
 #include "net/base/network_interfaces_getifaddrs.h"
 
 #include <ifaddrs.h>

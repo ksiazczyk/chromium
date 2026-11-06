@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Apple network config watcher implementation
+// summary: Implements a notifier thread that registers with macOS SystemConfiguration and relays network configuration changes to a delegate.
+// ---
+
 #include "net/base/network_config_watcher_apple.h"
 
 #include <algorithm>

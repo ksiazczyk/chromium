@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SchemeHostPortMatcherRule implementation
+// summary: Implements parsing of raw rule strings and evaluation of hostname pattern, IP host and CIDR block matcher rules.
+// ---
+
 #include "net/base/scheme_host_port_matcher_rule.h"
 
 #include "base/strings/pattern.h"

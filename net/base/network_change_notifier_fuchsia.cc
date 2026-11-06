@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia NetworkChangeNotifier implementation
+// summary: Implements the Fuchsia network change notifier, using a fuchsia.net.interfaces watcher to track interface changes and notify observers of IP address and connection changes.
+// ---
+
 #include "net/base/network_change_notifier_fuchsia.h"
 
 #include <fuchsia/net/interfaces/cpp/fidl.h>

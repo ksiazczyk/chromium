@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HostMappingRules class interface
+// summary: Declares the HostMappingRules class for remapping or excluding hostnames and ports based on pattern rules.
+// ---
+
 #ifndef NET_BASE_HOST_MAPPING_RULES_H_
 #define NET_BASE_HOST_MAPPING_RULES_H_
 

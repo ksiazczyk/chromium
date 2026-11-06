@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IPAddress class declarations
+// summary: Declares IPAddressBytes and IPAddress for representing and manipulating IPv4 and IPv6 addresses.
+// ---
+
 #ifndef NET_BASE_IP_ADDRESS_H_
 #define NET_BASE_IP_ADDRESS_H_
 

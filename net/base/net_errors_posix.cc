@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: POSIX system error mapping
+// summary: Maps POSIX errno values to Chromium network error codes in MapSystemError for POSIX platforms.
+// ---
+
 #include "net/base/net_errors.h"
 
 #include <errno.h>

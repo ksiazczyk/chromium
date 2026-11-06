@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network change notifier unit tests
+// summary: Tests max bandwidth ranges per connection type and connection type derivation from network interface lists.
+// ---
+
 #include "net/base/network_change_notifier.h"
 
 #include "base/run_loop.h"

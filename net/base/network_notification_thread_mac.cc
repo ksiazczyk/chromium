@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS network notification thread implementation
+// summary: Implements a lazily created UI-message-pump thread on macOS and exposes its task runner for network notification APIs that require a CFRunLoop.
+// ---
+
 #include "net/base/network_notification_thread_mac.h"
 
 #include "base/message_loop/message_pump_type.h"

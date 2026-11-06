@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HashValue class for SHA-256 hashes
+// summary: Defines the HashValue class for SHA-256 hash values used for public-key pins, with string serialization and comparison operators.
+// ---
+
 #ifndef NET_BASE_HASH_VALUE_H_
 #define NET_BASE_HASH_VALUE_H_
 

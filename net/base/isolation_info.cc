@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IsolationInfo implementation
+// summary: Implements IsolationInfo, validating and storing request context data such as frame origins, SiteForCookies, nonces, and network isolation partitions.
+// ---
+
 #include "net/base/isolation_info.h"
 
 #include <cstddef>

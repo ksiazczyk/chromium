@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RequestPriority enum for network request prioritization
+// summary: Defines the RequestPriority enum, priority size constants and the default incremental flag used to prioritize network requests in Chromium.
+// ---
+
 #ifndef NET_BASE_REQUEST_PRIORITY_H_
 #define NET_BASE_REQUEST_PRIORITY_H_
 

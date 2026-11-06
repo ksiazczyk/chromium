@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux NetworkChangeNotifier class declaration
+// summary: Declares the Linux NetworkChangeNotifier class, including test constructors, netlink socket injection, and D-Bus portal monitor support.
+// ---
+
 #ifndef NET_BASE_NETWORK_CHANGE_NOTIFIER_LINUX_H_
 #define NET_BASE_NETWORK_CHANGE_NOTIFIER_LINUX_H_
 

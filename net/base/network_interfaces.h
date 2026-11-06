@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network interfaces public API
+// summary: Declares the NetworkInterface struct, IP address attributes, GetNetworkList, GetWifiSSID and WiFi options used to enumerate host network interfaces.
+// ---
+
 #ifndef NET_BASE_NETWORK_INTERFACES_H_
 #define NET_BASE_NETWORK_INTERFACES_H_
 

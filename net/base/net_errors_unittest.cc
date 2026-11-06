@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Net error unit tests
+// summary: Unit tests verifying IsCertificateError, IsClientCertificateError, and IsOkOrDefinedError classifications of network error codes.
+// ---
+
 #include "net/base/net_errors.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

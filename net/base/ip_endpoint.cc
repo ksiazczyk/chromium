@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IPEndPoint implementation
+// summary: Implements the IPEndPoint class representing an IP address and port, including sockaddr conversion, value serialization, and IPv6 scope ID handling.
+// ---
+
 #include "net/base/ip_endpoint.h"
 
 #include <string.h>

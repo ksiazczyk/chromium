@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProxyServer class header
+// summary: Declares the immutable ProxyServer class that encodes a proxy's scheme, host and port, with scheme checks, default ports and pickle persistence.
+// ---
+
 #ifndef NET_BASE_PROXY_SERVER_H_
 #define NET_BASE_PROXY_SERVER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DoesUrlMatchFilter utility header
+// summary: Declares a utility that reports whether a URL matches given sets of origins or registrable domains, with configurable match polarity.
+// ---
+
 #ifndef NET_BASE_DOES_URL_MATCH_FILTER_H_
 #define NET_BASE_DOES_URL_MATCH_FILTER_H_
 

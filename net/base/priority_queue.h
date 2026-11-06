@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Priority queue header
+// summary: Declares a priority queue ordered by priority then FIFO that supports erasing elements and stable pointers to entries.
+// ---
+
 #ifndef NET_BASE_PRIORITY_QUEUE_H_
 #define NET_BASE_PRIORITY_QUEUE_H_
 

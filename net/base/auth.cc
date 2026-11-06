@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auth challenge and credentials implementation
+// summary: Implements AuthChallengeInfo and AuthCredentials, which represent HTTP authentication challenges and username/password credentials in the network stack.
+// ---
+
 #include "net/base/auth.h"
 
 namespace net {

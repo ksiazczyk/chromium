@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Net error declarations
+// summary: Declares the net Error enum built from net_error_list.h and helper functions for error classification and mapping.
+// ---
+
 #ifndef NET_BASE_NET_ERRORS_H__
 #define NET_BASE_NET_ERRORS_H__
 

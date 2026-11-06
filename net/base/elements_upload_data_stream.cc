@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ElementsUploadDataStream implementation
+// summary: Implements a non-chunked upload data stream that initializes and reads from a sequence of upload element readers.
+// ---
+
 #include "net/base/elements_upload_data_stream.h"
 
 #include <utility>

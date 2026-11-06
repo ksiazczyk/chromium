@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proxy server implementation
+// summary: Implements ProxyServer construction, host and port canonicalization, scheme validation and pickling of proxy servers.
+// ---
+
 #include "net/base/proxy_server.h"
 
 #include <stdint.h>

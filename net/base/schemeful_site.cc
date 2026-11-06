@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SchemefulSite implementation
+// summary: Implements SchemefulSite, computing a scheme plus registrable domain site from an origin per the HTML spec's obtain-a-site algorithm.
+// ---
+
 #include "net/base/schemeful_site.h"
 
 #include <string_view>

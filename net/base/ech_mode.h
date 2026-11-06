@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EchMode enum for Encrypted Client Hello
+// summary: Defines the EchMode enum specifying disabled, opportunistic, and strict Encrypted Client Hello behavior for TLS connections.
+// ---
+
 #ifndef NET_BASE_ECH_MODE_H_
 #define NET_BASE_ECH_MODE_H_
 

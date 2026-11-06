@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileStream implementation
+// summary: Implements the FileStream class, adapting internal context results to expected-based callbacks for asynchronous open, close, seek, read, write, and file info operations.
+// ---
+
 #include "net/base/file_stream.h"
 
 #include <utility>

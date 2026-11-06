@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows network change notifier header
+// summary: Declares NetworkChangeNotifierWin, which watches for address changes on Windows and computes connection type and cost.
+// ---
+
 #ifndef NET_BASE_NETWORK_CHANGE_NOTIFIER_WIN_H_
 #define NET_BASE_NETWORK_CHANGE_NOTIFIER_WIN_H_
 

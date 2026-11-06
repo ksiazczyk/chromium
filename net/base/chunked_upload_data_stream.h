@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chunked upload data stream interface
+// summary: Declares ChunkedUploadDataStream and its Writer class for safely appending chunked upload data to requests.
+// ---
+
 #ifndef NET_BASE_CHUNKED_UPLOAD_DATA_STREAM_H_
 #define NET_BASE_CHUNKED_UPLOAD_DATA_STREAM_H_
 

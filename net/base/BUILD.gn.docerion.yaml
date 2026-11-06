@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build configuration for net/base
+summary: Defines GN build targets for net/base, including Android Java features, shared constants and the registry-controlled-domains source set.

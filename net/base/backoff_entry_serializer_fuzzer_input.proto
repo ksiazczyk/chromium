@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Protobuf input schema for the serializer fuzzer
+// summary: Protobuf definition of the fuzzer input, including BackoffEntry policy fields and a serialized entry, kept aligned with net::BackoffEntry::Policy.
+// ---
+
 syntax = "proto2";
 
 package fuzz_proto;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock network change notifier implementation
+// summary: Implements a mock NetworkChangeNotifier that lets tests simulate connection changes and network notifications deterministically.
+// ---
+
 #include "net/base/mock_network_change_notifier.h"
 
 #include <utility>

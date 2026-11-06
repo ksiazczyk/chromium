@@ -1,0 +1,4 @@
+# Docerion header of canonicalize_host_fuzzer.dict.
+type: test
+title: Fuzzer dictionary for host canonicalization
+summary: Dictionary of host-related tokens such as dots and IPv6 brackets used as fuzzing hints by the canonicalize host fuzzer.

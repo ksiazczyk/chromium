@@ -1,0 +1,4 @@
+# Docerion header of dir_header.html.
+type: source
+title: Directory listing page template
+summary: HTML and JavaScript template for directory listing pages, rendering sortable file rows with size and date columns.

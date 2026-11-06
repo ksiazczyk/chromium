@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkIsolationPartition enum
+// summary: Defines the NetworkIsolationPartition enum that further partitions network state for use cases such as Protected Audience worklets, FedCM, DNS over HTTPS, and SharedWorkers.
+// ---
+
 #ifndef NET_BASE_NETWORK_ISOLATION_PARTITION_H_
 #define NET_BASE_NETWORK_ISOLATION_PARTITION_H_
 

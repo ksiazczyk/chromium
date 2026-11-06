@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fixed set lookup unit tests
+// summary: Unit tests verifying DAFSA lookups across graphs using one, two and three byte offsets.
+// ---
+
 #include "net/base/lookup_string_in_fixed_set.h"
 
 #include <cstdint>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network interfaces unit tests
+// summary: Cross-platform unit tests exercising GetNetworkList, GetWifiSSID, and GetHostName, with platform-specific checks for Windows and POSIX interface names.
+// ---
+
 #include "net/base/network_interfaces.h"
 
 #include <ostream>

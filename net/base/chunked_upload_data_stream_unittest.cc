@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChunkedUploadDataStream unit tests
+// summary: Unit tests for the chunked upload data stream, covering data appended before or after init and read attempts.
+// ---
+
 #include "net/base/chunked_upload_data_stream.h"
 
 #include <memory>

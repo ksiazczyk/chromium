@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Address tracker netlink test utilities implementation
+// summary: Implements helpers that build netlink address, link and wireless messages for AddressTrackerLinux tests.
+// ---
+
 #include "net/base/address_tracker_linux_test_util.h"
 
 #include <linux/if.h>

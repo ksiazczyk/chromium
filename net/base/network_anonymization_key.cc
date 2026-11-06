@@ -1,6 +1,13 @@
 // Copyright 2022 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Network anonymization key implementation
+// summary: Implements NetworkAnonymizationKey, which partitions shared network state by top frame site, cross-site flag, nonce, and network isolation partition.
+// ---
+
 #include "net/base/network_anonymization_key.h"
 
 #include <atomic>

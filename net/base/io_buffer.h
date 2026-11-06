@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IOBuffer class declarations
+// summary: Declares reference-counted data buffers used as sources and destinations for asynchronous read and write operations, with ownership rules documented.
+// ---
+
 #ifndef NET_BASE_IO_BUFFER_H_
 #define NET_BASE_IO_BUFFER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MIME sniffer performance test
+// summary: Measures the throughput of the LooksLikeBinary check on representative plain text to benchmark MIME sniffer performance.
+// ---
+
 #include "net/base/mime_sniffer.h"
 
 #include <vector>

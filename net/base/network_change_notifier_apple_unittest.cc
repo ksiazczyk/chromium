@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Apple NetworkChangeNotifier unit tests
+// summary: Unit tests for the Apple network change notifier that simulate SCNetworkStore callbacks and verify IP address and connection change notifications.
+// ---
+
 #include "net/base/network_change_notifier_apple.h"
 
 #include <optional>

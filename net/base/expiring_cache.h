@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExpiringCache template header
+// summary: Template cache where every entry carries an explicit expiration policy and expired items are removed first, with pluggable comparison and eviction.
+// ---
+
 #ifndef NET_BASE_EXPIRING_CACHE_H_
 #define NET_BASE_EXPIRING_CACHE_H_
 

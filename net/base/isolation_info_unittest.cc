@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IsolationInfo unit tests
+// summary: Unit tests verifying IsolationInfo creation, consistency, debug strings, and request-type behavior for network isolation and anonymization keys.
+// ---
+
 #include "net/base/isolation_info.h"
 
 #include <iostream>

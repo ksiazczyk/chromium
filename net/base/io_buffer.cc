@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IOBuffer implementation
+// summary: Implements reference-counted IO buffer classes such as IOBufferWithSize, VectorIOBuffer, StringIOBuffer, DrainableIOBuffer and GrowableIOBuffer for asynchronous I/O.
+// ---
+
 #include "net/base/io_buffer.h"
 
 #include <utility>

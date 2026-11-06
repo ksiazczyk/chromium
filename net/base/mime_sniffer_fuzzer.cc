@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fuzzer for MIME sniffing functions
+// summary: Fuzzes SniffMimeType and SniffMimeTypeFromLocalData with random URLs, type hints and content to find crashes in the sniffer.
+// ---
+
 #include "net/base/mime_sniffer.h"
 
 #include <stddef.h>

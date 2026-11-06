@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Filename utilities unit tests
+// summary: Unit tests covering file URL to path conversion, suggested filename generation, and safe versus unsafe portable path component checks.
+// ---
+
 #include "net/base/filename_util.h"
 
 #include "base/files/file_path.h"

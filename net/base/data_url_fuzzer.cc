@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Data URL fuzzer
+// summary: Fuzz target that checks DataURL::Parse and DataURL::BuildResponse succeed and fail on exactly the same inputs.
+// ---
+
 #include "net/base/data_url.h"
 
 #include <fuzzer/FuzzedDataProvider.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network stack string conversion interface
+// summary: Declares functions to convert text from a given charset to UTF-8 or UTF-16, with normalization, substitutions and locale-based uppercasing.
+// ---
+
 #ifndef NET_BASE_NET_STRING_UTIL_H__
 #define NET_BASE_NET_STRING_UTIL_H__
 

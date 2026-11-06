@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Proxy string utilities unit tests
+// summary: Unit tests for proxy URI and PAC string parsing, covering schemes, ports, IPv6 canonicalization and invalid inputs.
+// ---
+
 #include "net/base/proxy_string_util.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia interface properties wrapper
+// summary: Declares the internal InterfaceProperties wrapper that validates and updates Fuchsia netstack interface properties, plus connection type conversion helpers.
+// ---
+
 #ifndef NET_BASE_NETWORK_INTERFACES_FUCHSIA_H_
 #define NET_BASE_NETWORK_INTERFACES_FUCHSIA_H_
 
