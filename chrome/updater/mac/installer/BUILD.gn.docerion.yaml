@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the macOS metainstaller
+summary: Defines the updater.zip resource built from the updater app bundle and the metainstaller executable that embeds the zip in a __updater_zip section.

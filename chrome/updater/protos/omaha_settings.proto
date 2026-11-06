@@ -14,6 +14,12 @@
 //   3) Update the copyright section.
 //
 
+// ---docerion
+// type: source
+// title: Omaha settings proto definitions
+// summary: Proto2 definitions of Omaha update and install policy settings, with enums and messages describing application update, install, and rollback configuration.
+// ---
+
 syntax = "proto2";
 option optimize_for = LITE_RUNTIME;
 package wireless_android_enterprise_devicemanagement;

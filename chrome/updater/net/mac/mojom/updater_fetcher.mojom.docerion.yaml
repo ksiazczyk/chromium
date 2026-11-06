@@ -1,0 +1,4 @@
+# Docerion header of updater_fetcher.mojom.
+type: source
+title: Updater fetch service Mojom definitions
+summary: Defines Mojo IPC interfaces for the macOS updater network service, including FetchService for POST requests and downloads plus observer callback interfaces.

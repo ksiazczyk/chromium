@@ -1,0 +1,4 @@
+# Docerion header of mac_path_util.mm.
+type: source
+title: macOS library folder path implementation
+summary: Implements macOS library folder and install directory lookups for user and system updater scopes.

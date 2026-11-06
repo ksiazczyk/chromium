@@ -1,0 +1,4 @@
+# Docerion header of server.mm.
+type: source
+title: Privileged helper server implementation
+summary: Implements the privileged helper server, setting up the XPC listener, keep-alive and task accounting, and removal of the helper's launchd files.

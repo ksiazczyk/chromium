@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: POSIX updater utility implementations
+// summary: Implements POSIX helpers for deleting install folders and copying directories with configurable permissions on Linux and macOS.
+// ---
+
 #include "chrome/updater/util/posix_util.h"
 
 #include <fcntl.h>

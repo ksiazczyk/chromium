@@ -1,0 +1,4 @@
+# Docerion header of Info.plist.
+type: config
+title: Keystone bundle Info.plist
+summary: macOS bundle property list defining the Keystone updater bundle identity, version, and build-time substitution variables.

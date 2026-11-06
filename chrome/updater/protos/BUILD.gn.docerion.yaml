@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for updater Omaha protos
+summary: GN build configuration that wraps the updater's Omaha proto files in a proto_library target and exposes them as the omaha_proto group with protobuf dependencies.

@@ -1,0 +1,4 @@
+# Docerion header of mac_util.mm.
+type: source
+title: macOS updater utility implementations
+summary: Implements macOS updater helpers such as Gatekeeper prewarming, quarantine attribute removal, launchd domains, and Application Support path lookups.

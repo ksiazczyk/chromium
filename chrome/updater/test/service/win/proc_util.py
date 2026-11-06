@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Windows process utilities
+# summary: Utilities that get the active terminal session ID and list process PIDs by image name using the tasklist command.
+# ---
+
 import csv
 import logging
 import subprocess

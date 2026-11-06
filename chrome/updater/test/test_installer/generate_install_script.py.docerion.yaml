@@ -1,0 +1,4 @@
+# Docerion header of generate_install_script.py.
+type: script
+title: Generate an app install script
+summary: Writes an executable bash script that runs a given command with app ID, company, and version arguments for test installs.

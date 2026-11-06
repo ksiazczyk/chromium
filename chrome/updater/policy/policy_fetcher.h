@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PolicyFetcher interface declaration
+// summary: Declares the PolicyFetcher interface and a factory for an out-of-process fetcher that delegates policy fetch tasks to the enterprise companion app.
+// ---
+
 #ifndef CHROME_UPDATER_POLICY_POLICY_FETCHER_H_
 #define CHROME_UPDATER_POLICY_POLICY_FETCHER_H_
 

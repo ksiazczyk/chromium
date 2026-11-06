@@ -1,0 +1,4 @@
+# Docerion header of .install.sh.
+type: script
+title: macOS updater install script
+summary: Shell script called by the updater to install a new application version from a mounted DMG, with documented exit codes and environment sanitization.

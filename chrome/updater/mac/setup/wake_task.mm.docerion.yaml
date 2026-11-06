@@ -1,0 +1,4 @@
+# Docerion header of wake_task.mm.
+type: source
+title: Wake task launchd plist creation for the macOS updater
+summary: Implements CreateWakeLaunchdPlist, which builds the launchd plist dictionary for the updater wake task, including program arguments, hourly start interval, session type, and associated bundle identifiers per scope.

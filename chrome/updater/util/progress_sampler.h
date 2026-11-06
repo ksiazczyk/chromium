@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Progress sampler declarations for the updater
+// summary: Declares the ProgressSampler class, which estimates remaining operation time from samples kept within a configurable time range.
+// ---
+
 #ifndef CHROME_UPDATER_UTIL_PROGRESS_SAMPLER_H_
 #define CHROME_UPDATER_UTIL_PROGRESS_SAMPLER_H_
 

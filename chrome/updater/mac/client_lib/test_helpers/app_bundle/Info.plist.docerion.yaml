@@ -1,0 +1,4 @@
+# Docerion header of Info.plist.
+type: config
+title: Info.plist for the registration test app bundle
+summary: macOS property list defining bundle identity and metadata for the registration test app, including its bundle identifier and app transport security settings.

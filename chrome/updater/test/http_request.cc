@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test HTTP request helpers implementation
+// summary: Implements a test HTTP request wrapper that decodes gzip content and renders printable request content for logging.
+// ---
+
 #include "chrome/updater/test/http_request.h"
 
 #include <stddef.h>

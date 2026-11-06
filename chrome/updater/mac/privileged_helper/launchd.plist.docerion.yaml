@@ -1,0 +1,4 @@
+# Docerion header of launchd.plist.
+type: config
+title: Privileged helper launchd plist
+summary: launchd property list template that registers the privileged helper as a Mach service daemon under its bundle ID.

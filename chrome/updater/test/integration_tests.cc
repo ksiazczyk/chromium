@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Updater integration tests
+// summary: Implements integration tests for the Chrome updater, covering install, update, and uninstall flows with an embedded test server, policy setup, and request expectations.
+// ---
+
 #include <stdint.h>
 
 #include <memory>

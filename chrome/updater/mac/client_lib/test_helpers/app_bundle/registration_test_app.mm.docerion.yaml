@@ -1,0 +1,4 @@
+# Docerion header of registration_test_app.mm.
+type: test
+title: Registration test app exercising CRURegistration
+summary: Objective-C++ executable of the test app bundle that drives CRURegistration install and register operations, with defined modes and exit codes for integration testing.

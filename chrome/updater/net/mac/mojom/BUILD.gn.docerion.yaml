@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for updater mojom bindings
+summary: Defines the GN build target that generates Mojo bindings for updater_fetcher.mojom with dependencies on mojo base and URL mojom types.

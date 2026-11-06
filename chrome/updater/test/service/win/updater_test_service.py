@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Updater test Windows service
+# summary: Windows service that hosts an XML-RPC server on port 9090 to support browser updater tests.
+# ---
+
 import logging
 import os
 import sys

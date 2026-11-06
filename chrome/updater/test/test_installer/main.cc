@@ -7,6 +7,12 @@
 // extracted to a temp folder and executed with the matching interpreter.
 // All command lines arguments are forwarded to the child process.
 
+// ---docerion
+// type: source
+// title: Test meta-installer that runs embedded scripts
+// summary: Windows executable source that extracts SCRIPT resources from itself and runs them with the matching interpreter, forwarding all arguments.
+// ---
+
 #include <windows.h>
 
 #include <optional>

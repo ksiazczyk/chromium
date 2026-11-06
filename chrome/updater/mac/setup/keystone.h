@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keystone setup interface
+// summary: Declares functions to install and uninstall Keystone, create legacy plist files, and migrate apps from Keystone's ticket store.
+// ---
+
 #ifndef CHROME_UPDATER_MAC_SETUP_KEYSTONE_H_
 #define CHROME_UPDATER_MAC_SETUP_KEYSTONE_H_
 

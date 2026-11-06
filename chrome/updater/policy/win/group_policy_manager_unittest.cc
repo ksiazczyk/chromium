@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Group policy manager unit tests
+// summary: Unit tests for GroupPolicyManager that use registry overrides to verify policy reading and behavior when no policies are set.
+// ---
+
 #include "chrome/updater/policy/win/group_policy_manager.h"
 
 #include <optional>

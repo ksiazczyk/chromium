@@ -1,0 +1,4 @@
+# Docerion header of Info.plist.
+type: config
+title: Privileged helper bundle Info.plist
+summary: macOS bundle property list defining the updater privileged helper's identifier, name, and the browser bundle identifiers authorized to connect to it.

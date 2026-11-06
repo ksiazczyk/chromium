@@ -1,0 +1,4 @@
+# Docerion header of chunk_queue.mm.
+type: source
+title: ChunkQueue implementation for chunked data consumption
+summary: Implements ChunkQueue push and consume logic that walks NSData byte ranges, tracks read offsets, and supports partial or blocked consumption.

@@ -1,0 +1,4 @@
+# Docerion header of setup_unittest.mm.
+type: test
+title: Mac updater setup unit tests
+summary: Unit tests that build a test app bundle and use a test DMG to exercise the Mac updater installation flow.

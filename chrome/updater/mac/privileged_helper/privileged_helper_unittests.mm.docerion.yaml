@@ -1,0 +1,4 @@
+# Docerion header of privileged_helper_unittests.mm.
+type: test
+title: Privileged helper signature unit tests
+summary: Unit test verifying that VerifyUpdaterSignature accepts the production updater bundle and rejects an unsigned test bundle under Google Chrome branding.

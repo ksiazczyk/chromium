@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Objective-C interface for the managed preferences policy manager
+// summary: Declares CRUManagedPreferencePolicyManager, which exposes global and per-app update policies read from a managed preferences updatePolicies dictionary, with a plist example.
+// ---
+
 #ifndef CHROME_UPDATER_POLICY_MAC_MANAGED_PREFERENCE_POLICY_MANAGER_IMPL_H_
 #define CHROME_UPDATER_POLICY_MAC_MANAGED_PREFERENCE_POLICY_MANAGER_IMPL_H_
 

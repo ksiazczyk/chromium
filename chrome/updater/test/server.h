@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped test server header
+// summary: Declares ScopedServer, which sets request expectations and exposes URLs for update, download, crash, and device management endpoints.
+// ---
+
 #ifndef CHROME_UPDATER_TEST_SERVER_H_
 #define CHROME_UPDATER_TEST_SERVER_H_
 

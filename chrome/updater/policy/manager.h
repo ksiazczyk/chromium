@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PolicyManagerInterface declaration
+// summary: Declares the PolicyManagerInterface implemented by policy managers such as Group Policy and device management, along with UpdatesSuppressedTimes.
+// ---
+
 #ifndef CHROME_UPDATER_POLICY_MANAGER_H_
 #define CHROME_UPDATER_POLICY_MANAGER_H_
 

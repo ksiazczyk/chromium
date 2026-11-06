@@ -1,0 +1,4 @@
+# Docerion header of CRURegistrationTestPaths.m.
+type: source
+title: Test-build path constants for CRURegistration
+summary: Supplies test variants of CRUArchiveBasename and CRUInstallerAppBasename used by integration test builds.

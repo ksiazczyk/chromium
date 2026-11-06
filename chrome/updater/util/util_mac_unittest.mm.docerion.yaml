@@ -1,0 +1,4 @@
+# Docerion header of util_mac_unittest.mm.
+type: test
+title: macOS unit tests for recursive file permission setting
+summary: macOS unit tests verifying that SetFilePermissionsRecursive normalizes permissions on files, directories, and symlinks.

@@ -11,6 +11,12 @@
 //        "option java_enable_dual_generate_mutable_api = true;"
 //   3) Update the copyright section.
 
+// ---docerion
+// type: source
+// title: MessageSet proto definition
+// summary: Defines the proto2 MessageSet message with wire-format extensions, manually tweaked from Google's source for Chromium's Lite Runtime use.
+// ---
+
 syntax = "proto2";
 option optimize_for = LITE_RUNTIME;
 package proto2.bridge;

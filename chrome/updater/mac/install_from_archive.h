@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Install-from-archive interface and error codes
+// summary: Header declaring InstallFromArchive for DMG, Zip, and app installs plus the InstallErrors enum used by the macOS updater.
+// ---
+
 #ifndef CHROME_UPDATER_MAC_INSTALL_FROM_ARCHIVE_H_
 #define CHROME_UPDATER_MAC_INSTALL_FROM_ARCHIVE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of signing_sources.gni.
+type: config
+title: Updater signing source list
+summary: GN variable listing the updater signing script sources, replacing the Mac installer signing files that the updater overrides.

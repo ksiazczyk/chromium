@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Group policy manager implementation for the Windows updater
+// summary: Implements GroupPolicyManager for Windows, loading updater policies from the registry and acquiring the group policy critical section on managed devices.
+// ---
+
 #include "chrome/updater/policy/win/group_policy_manager.h"
 
 #include <userenv.h>

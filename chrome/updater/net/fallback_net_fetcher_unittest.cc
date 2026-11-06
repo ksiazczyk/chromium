@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for FallbackNetFetcher
+// summary: Unit tests using fake fetchers to verify fallback behavior for post requests and file downloads on errors.
+// ---
+
 #include "chrome/updater/net/fallback_net_fetcher.h"
 
 #include <stdint.h>

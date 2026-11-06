@@ -1,0 +1,4 @@
+# Docerion header of .install.sh.
+type: script
+title: Mac updater install helper script
+summary: Shell script that scans the installed updater app with gktool and launches its main executable with server arguments during installation.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows unit test utilities for the updater
+// summary: Implements Windows-specific helpers for updater tests, creating and deleting app client and command registry keys and setting up test services and events.
+// ---
+
 #include "chrome/updater/test/unit_test_util_win.h"
 
 #include <windows.h>

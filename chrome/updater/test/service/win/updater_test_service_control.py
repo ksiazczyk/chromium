@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Updater test service control helper for Windows
+# summary: Controls the UpdaterTestService Windows service for updater tests, handling service status checks, command execution, and pywin32/vpython environment setup.
+# ---
+
 import contextlib
 import logging
 import os

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform policy manager factory stub
+// summary: Provides a CreatePlatformPolicyManager implementation that returns null on platforms other than Windows and macOS.
+// ---
+
 #include "chrome/updater/policy/platform_policy_manager.h"
 
 #include <optional>

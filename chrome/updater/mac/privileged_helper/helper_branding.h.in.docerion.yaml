@@ -1,0 +1,4 @@
+# Docerion header of helper_branding.h.in.
+type: config
+title: Updater helper branding header template
+summary: Template header that provides updater helper branding values such as the bundle ID, filled in by the build system.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped test server implementation
+// summary: Implements ScopedServer, an embedded test server that registers expected updater requests and serves canned responses during tests.
+// ---
+
 #include "chrome/updater/test/server.h"
 
 #include <algorithm>

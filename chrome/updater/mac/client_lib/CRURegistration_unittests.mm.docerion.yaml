@@ -1,0 +1,4 @@
+# Docerion header of CRURegistration_unittests.mm.
+type: test
+title: Unit tests for CRURegistration and CRUAsyncTaskRunner
+summary: GoogleTest-based unit tests covering registration initialization, asynchronous task output handling, and work queue behavior.

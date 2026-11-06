@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wake task launchd plist interface
+// summary: Declares CreateWakeLaunchdPlist, which builds the launchd plist dictionary for the updater's wake task.
+// ---
+
 #ifndef CHROME_UPDATER_MAC_SETUP_WAKE_TASK_H_
 #define CHROME_UPDATER_MAC_SETUP_WAKE_TASK_H_
 

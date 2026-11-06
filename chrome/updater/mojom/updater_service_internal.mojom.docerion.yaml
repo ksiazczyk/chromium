@@ -1,0 +1,4 @@
+# Docerion header of updater_service_internal.mojom.
+type: source
+title: Internal updater service Mojom interface
+summary: Defines the UpdateServiceInternal Mojom interface allowing same-version updater components to wake the service and trigger update checks.

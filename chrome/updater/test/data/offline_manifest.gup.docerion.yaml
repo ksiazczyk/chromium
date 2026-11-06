@@ -1,0 +1,4 @@
+# Docerion header of offline_manifest.gup.
+type: test
+title: Offline update manifest template for updater tests
+summary: Google Update protocol response template with placeholders, used as an offline manifest in updater tests.

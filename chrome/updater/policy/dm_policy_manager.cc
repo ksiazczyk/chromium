@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device management policy manager implementation
+// summary: Implements DMPolicyManager, which translates Omaha settings from device management storage into updater policy values for managed machines.
+// ---
+
 #include "chrome/updater/policy/dm_policy_manager.h"
 
 #include <memory>

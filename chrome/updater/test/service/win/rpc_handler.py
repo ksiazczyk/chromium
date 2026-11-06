@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Updater test service RPC handler
+# summary: Server-side XML-RPC handler that runs commands as SYSTEM or standard user and answers UAC prompts on behalf of updater tests.
+# ---
+
 import logging
 import os
 import subprocess

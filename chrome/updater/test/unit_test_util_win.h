@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows unit test utilities header for the updater
+// summary: Declares Windows-specific test helpers for updater tests, including registry key creation, cmd.exe setup, service management, and test event creation.
+// ---
+
 #ifndef CHROME_UPDATER_TEST_UNIT_TEST_UTIL_WIN_H_
 #define CHROME_UPDATER_TEST_UNIT_TEST_UTIL_WIN_H_
 

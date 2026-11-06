@@ -1,0 +1,4 @@
+# Docerion header of ksinstall.mm.
+type: source
+title: ksinstall uninstall tool implementation
+summary: Implements the ksinstall app that handles the --uninstall switch by deleting the Keystone bundle for the user or system scope.

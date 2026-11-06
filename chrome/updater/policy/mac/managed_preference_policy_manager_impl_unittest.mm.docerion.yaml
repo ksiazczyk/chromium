@@ -1,0 +1,4 @@
+# Docerion header of managed_preference_policy_manager_impl_unittest.mm.
+type: test
+title: Unit tests for the managed preferences policy manager implementation
+summary: Verifies parsing of global and app-level policy values, covering empty dictionaries, missing global policies, and invalid or unexpected policy settings.

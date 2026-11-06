@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Updater policy service combining policy managers
+// summary: Implements PolicyService, which orders platform, DM, external constants, and default policy managers by priority, resolves conflicts, and aggregates effective policy values.
+// ---
+
 #include "chrome/updater/policy/service.h"
 
 #include <algorithm>

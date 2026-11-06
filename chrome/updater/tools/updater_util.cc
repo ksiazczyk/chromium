@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Updater util command-line tool
+// summary: Implements the updater util tool for listing apps, updates, and policies, triggering updates, and unpacking CRX files.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

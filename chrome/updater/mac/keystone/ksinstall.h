@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ksinstall declarations header
+// summary: Declares the entry function for the ksinstall uninstall tool.
+// ---
+
 #ifndef CHROME_UPDATER_MAC_KEYSTONE_KSINSTALL_H_
 #define CHROME_UPDATER_MAC_KEYSTONE_KSINSTALL_H_
 

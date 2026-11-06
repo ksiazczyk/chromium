@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: script
+# title: Build tool to embed version and product name in install scripts
+# summary: Python build helper that substitutes version and product name placeholders into an output script and marks it executable.
+# ---
+
 import optparse
 import os
 import sys

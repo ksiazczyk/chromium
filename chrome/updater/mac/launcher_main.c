@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS updater launcher with hardened process spawning
+// summary: Implements the launcher main that starts the updater service with security checks, environment isolation, and special handling for setuid and test contexts.
+// ---
+
 // This is C code and has minimal dependencies, so it cannot use C++ safety
 // utilities like base::span or the UNSAFE_TODO macro. As a consequence, this
 // pragma cannot be removed.

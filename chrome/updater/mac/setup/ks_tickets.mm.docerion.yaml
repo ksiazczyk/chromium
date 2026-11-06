@@ -1,0 +1,4 @@
+# Docerion header of ks_tickets.mm.
+type: source
+title: Keystone ticket store decoding implementation
+summary: Implements secure decoding of Keystone ticket stores and ticket attributes such as tags, brands, versions, and cohorts.

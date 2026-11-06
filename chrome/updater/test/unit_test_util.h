@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit test utility declarations
+// summary: Declares helpers to find, wait for, and kill processes, plus logging, policy service, and file cleanup utilities for updater tests.
+// ---
+
 #ifndef CHROME_UPDATER_TEST_UNIT_TEST_UTIL_H_
 #define CHROME_UPDATER_TEST_UNIT_TEST_UTIL_H_
 

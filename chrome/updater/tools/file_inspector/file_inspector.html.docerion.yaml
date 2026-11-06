@@ -1,0 +1,4 @@
+# Docerion header of file_inspector.html.
+type: source
+title: File Inspector tool page
+summary: HTML page of the File Inspector tool, which shows hex dumps and structural insights for updater binary files such as ZIP archives and Zucchini patch files.

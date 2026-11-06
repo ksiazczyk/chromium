@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Run a command as the standard user
+# summary: Command-line tool that runs a given command as the non-elevated standard user through the updater test service and reports its output and exit code.
+# ---
+
 """Run the given command as the standard user.
 
 All arguments provided to this program will be used to reconstruct the command

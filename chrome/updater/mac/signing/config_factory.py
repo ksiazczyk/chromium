@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Signing config and invoker factory
+# summary: Factory that returns the code sign config class and selects the internal or standard invoker class used by the updater signing script.
+# ---
+
 
 def get_class():
     """Returns the subclass of |model.CodeSignConfig| to use."""

@@ -1,0 +1,4 @@
+# Docerion header of launcher_version.h.in.
+type: config
+title: Launcher version header template
+summary: Template header that defines the product version macro with placeholders substituted at build time.

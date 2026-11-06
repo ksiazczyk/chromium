@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--docerion
+type: source
+title: WiX definition for the test MSI installer
+summary: WiX source defining the test MSI product, which writes installer result, error, UI string, and launch command values to the registry.
+-->
+
 <Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
   <Product Id='$(var.MsiProductId)'
            Language="1033"

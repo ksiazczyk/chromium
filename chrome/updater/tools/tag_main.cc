@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tag tool for reading and writing binary tag strings
+// summary: Implements the tag command-line tool that reads or injects tag strings into updater binaries such as exe, msi, and pkg files.
+// ---
+
 #include <stdlib.h>
 
 #include <iostream>

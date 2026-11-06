@@ -1,0 +1,4 @@
+# Docerion header of main.mm.
+type: source
+title: macOS metainstaller entry point
+summary: Extracts the embedded updater.zip from the __updater_zip Mach-O section into a temp directory and runs the updater executable from it.

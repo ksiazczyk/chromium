@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit test launcher entry point
+// summary: Entry point that initializes the updater unit test suite, fixes process priorities, and sets up Windows symbol paths for test runs.
+// ---
+
 #include <stdlib.h>
 
 #include <string_view>

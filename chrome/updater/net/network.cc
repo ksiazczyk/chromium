@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoggingNetworkFetcher implementation
+// summary: Implements a NetworkFetcher wrapper that records post request start and end events, including errors and base64-encoded responses, to event history.
+// ---
+
 #include "chrome/updater/net/network.h"
 
 #include <stdint.h>

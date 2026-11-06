@@ -1,0 +1,4 @@
+# Docerion header of managed_preference_policy_manager_impl.mm.
+type: source
+title: Managed preferences policy parsing for the Mac updater
+summary: Parses the updatePolicies dictionary from macOS managed preferences and translates managed preference update values into the updater's device management policy values.

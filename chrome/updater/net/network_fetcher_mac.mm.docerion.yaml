@@ -1,0 +1,4 @@
+# Docerion header of network_fetcher_mac.mm.
+type: source
+title: macOS network fetcher using NSURLSession
+summary: Implements the updater's network fetcher on macOS with NSURLSession and a Mojo-based updater fetcher, including fallback and file fetcher integration.

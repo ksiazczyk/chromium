@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Updater test DEPS include rules
+summary: Configures include rules for the updater test directory, allowing test code to access base/i18n unlike production code.

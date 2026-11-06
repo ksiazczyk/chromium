@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the registration test app bundle
+summary: Defines GN targets that tweak the Info.plist, bundle the updater.zip resource, and build the testonly registration test macOS app bundle.

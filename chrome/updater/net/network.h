@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network fetcher factory and logging fetcher header
+// summary: Declares NetworkFetcherFactory for creating platform network fetchers and LoggingNetworkFetcher for updater event logging.
+// ---
+
 #ifndef CHROME_UPDATER_NET_NETWORK_H_
 #define CHROME_UPDATER_NET_NETWORK_H_
 

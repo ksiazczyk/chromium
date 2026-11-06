@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Updater path utility header
+// summary: Declares install directory and log path functions shared across platforms, exporting macOS-specific paths on Mac builds.
+// ---
+
 #ifndef CHROME_UPDATER_UTIL_PATH_UTIL_H_
 #define CHROME_UPDATER_UTIL_PATH_UTIL_H_
 

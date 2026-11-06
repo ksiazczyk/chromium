@@ -1,0 +1,4 @@
+# Docerion header of wake_task_unittest.mm.
+type: test
+title: Wake task launchd plist change detector unit test
+summary: Unit test asserting the wake task launchd plist matches expected user and system scope values, acting as a change detector to avoid plist changes that would make macOS notify users about new background tasks.

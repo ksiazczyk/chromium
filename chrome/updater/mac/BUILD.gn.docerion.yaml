@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definitions for the macOS updater
+summary: GN build file defining macOS updater targets such as app bundles, launcher, privileged helper, install scripts, and signing.

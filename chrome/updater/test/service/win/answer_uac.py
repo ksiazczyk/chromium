@@ -1,6 +1,13 @@
 # Copyright 2021 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: test
+# title: UAC prompt answering command
+# summary: Standalone command that accepts or denies upcoming Windows UAC prompts, with configurable per-prompt actions and timeout.
+# ---
+
 """A simple command to answer UAC prompt.
 
 To interact with UAC, we create this standalone program so that the process

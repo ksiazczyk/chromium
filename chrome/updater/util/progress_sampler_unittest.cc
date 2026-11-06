@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the progress sampler
+// summary: Unit tests verifying sample handling, average speed, and remaining time calculations of the ProgressSampler.
+// ---
+
 #include "chrome/updater/util/progress_sampler.h"
 
 #include <optional>

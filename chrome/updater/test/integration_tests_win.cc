@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows integration tests
+// summary: Implements Windows-specific updater integration tests, covering COM server classes, registry state, scheduled tasks, and installation status checks.
+// ---
+
 #include "chrome/updater/test/integration_tests_win.h"
 
 #include <inttypes.h>

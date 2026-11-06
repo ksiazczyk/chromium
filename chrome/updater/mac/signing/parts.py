@@ -1,6 +1,13 @@
 # Copyright 2020 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Updater app bundle signing parts
+# summary: Defines the nested code parts of the updater app bundle, such as Keystone helpers and the outer app, and signs and verifies them in order.
+# ---
+
 """
 The parts module defines the various binary pieces of the Updater application
 bundle that need to be signed, as well as providing a function to sign them.

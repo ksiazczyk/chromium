@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default policy manager and suppressed update times
+// summary: Implements UpdatesSuppressedTimes helpers and DefaultValuesPolicyManager, which returns default policy values when no other policy manager applies.
+// ---
+
 #include "chrome/updater/policy/manager.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkStreamFetcher declaration for Mojo downloads
+// summary: Declares NetworkStreamFetcher, a thread-safe fetcher that streams a URL download into a Mojo data pipe with response-started and completion callbacks.
+// ---
+
 #ifndef CHROME_UPDATER_NET_NETWORK_FILE_FETCHER_H_
 #define CHROME_UPDATER_NET_NETWORK_FILE_FETCHER_H_
 

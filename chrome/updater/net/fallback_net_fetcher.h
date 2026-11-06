@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FallbackNetFetcher header
+// summary: Declares FallbackNetFetcher, an update_client NetworkFetcher wrapper that falls back between fetchers when one encounters an error.
+// ---
+
 #ifndef CHROME_UPDATER_NET_FALLBACK_NET_FETCHER_H_
 #define CHROME_UPDATER_NET_FALLBACK_NET_FETCHER_H_
 

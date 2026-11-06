@@ -1,0 +1,4 @@
+# Docerion header of CRURegistrationPaths.m.
+type: source
+title: Branded archive and installer name constants for CRURegistration
+summary: Defines CRUArchiveBasename and CRUInstallerAppBasename from branded product name constants for production builds.

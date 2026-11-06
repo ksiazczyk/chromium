@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for updater Mojom targets
+summary: GN build configuration that defines the mojom target compiling the updater service Mojom sources together with their dependencies.

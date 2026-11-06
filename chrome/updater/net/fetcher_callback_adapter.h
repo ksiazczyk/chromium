@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fetcher callback adapter header
+// summary: Declares factory functions that create Mojo observers forwarding response, progress, and completion events for post requests and downloads.
+// ---
+
 #ifndef CHROME_UPDATER_NET_FETCHER_CALLBACK_ADAPTER_H_
 #define CHROME_UPDATER_NET_FETCHER_CALLBACK_ADAPTER_H_
 

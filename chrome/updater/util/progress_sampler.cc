@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the updater progress sampler
+// summary: Implements the ProgressSampler class, which tracks timed samples to estimate remaining time for operations such as downloads or installs.
+// ---
+
 #include "chrome/updater/util/progress_sampler.h"
 
 #include <stdint.h>

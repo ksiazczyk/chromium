@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows utility declarations for the updater
+// summary: Declares Windows-specific updater helpers including GUID formatting, scoped service handles, process filters, and COM classes with dynamic IIDs.
+// ---
+
 #ifndef CHROME_UPDATER_UTIL_WIN_UTIL_H_
 #define CHROME_UPDATER_UTIL_WIN_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test launcher path constants
+// summary: Defines test-build bundle and executable paths with the _test suffix and disables signing checks for the macOS updater launcher.
+// ---
+
 #include "chrome/updater/mac/launcher_constants.h"
 
 #include <stdbool.h>

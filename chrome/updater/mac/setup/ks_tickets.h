@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keystone ticket classes interface
+// summary: Declares Objective-C classes for Keystone tickets, ticket stores, and path existence checkers used to read legacy ticket data.
+// ---
+
 #ifndef CHROME_UPDATER_MAC_SETUP_KS_TICKETS_H_
 #define CHROME_UPDATER_MAC_SETUP_KS_TICKETS_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of ksadmin.mm.
+type: source
+title: ksadmin tool implementation
+summary: Implements the ksadmin compatibility tool for registering apps and managing Keystone tickets through the updater service.

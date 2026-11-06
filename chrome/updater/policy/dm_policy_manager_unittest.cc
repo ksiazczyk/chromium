@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DMPolicyManager unit tests
+// summary: Unit tests for DMPolicyManager, verifying policy values parsed from device management responses, including a captured Mac policy response.
+// ---
+
 #include "chrome/updater/policy/dm_policy_manager.h"
 
 #include <stdint.h>

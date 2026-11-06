@@ -1,3 +1,13 @@
+---
+type: readme
+title: Chrome updater test data README
+summary: Documents the updater test data files, including the self-update signing key, signed executables, procmon configuration, and test installer directories.
+relations:
+  - documents /chrome/updater/test/data/selfupdate_test_key.der
+  - documents /chrome/updater/test/data/signed.exe
+  - documents /chrome/updater/test/data/signed.exe.gz
+---
+
 # selfupdate\_test\_key.der
 A DER-formatted PKCS #8 PrivateKeyInfo for an RSA key used to sign the self-
 update CRX used in integration tests. You can regenerate it by running:

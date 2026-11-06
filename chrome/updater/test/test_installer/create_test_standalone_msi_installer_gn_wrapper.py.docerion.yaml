@@ -1,0 +1,4 @@
+# Docerion header of create_test_standalone_msi_installer_gn_wrapper.py.
+type: script
+title: GN wrapper for sign.py
+summary: Runs sign.py under vpython3 so GN can invoke it and resedit works when creating the standalone MSI installer.

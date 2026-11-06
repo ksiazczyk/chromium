@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Linux integration tests
+// summary: Linux-specific integration test helpers for the updater, covering install paths, uninstallation, systemd unit cleanup, and process waiting.
+// ---
+
 #include <algorithm>
 #include <optional>
 #include <string>

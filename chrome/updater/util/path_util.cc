@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Updater log path helpers
+// summary: Implements cross-platform helpers that derive the updater log and history log file paths from the install directory.
+// ---
+
 #include "chrome/updater/util/path_util.h"
 
 #include <optional>

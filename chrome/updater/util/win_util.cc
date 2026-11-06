@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows utility implementations for the updater
+// summary: Implements Windows-specific updater helpers such as COM client handling, process filtering, service names, and registry or security descriptor operations.
+// ---
+
 #include "base/win/win_util.h"
 
 #include <windows.h>
