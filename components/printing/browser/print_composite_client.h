@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrintCompositeClient class header
+// summary: Declares the PrintCompositeClient class that manages print composite requests, cross-process subframe printing, and page or document composition via the print compositor service.
+// ---
+
 #ifndef COMPONENTS_PRINTING_BROWSER_PRINT_COMPOSITE_CLIENT_H_
 #define COMPONENTS_PRINTING_BROWSER_PRINT_COMPOSITE_CLIENT_H_
 

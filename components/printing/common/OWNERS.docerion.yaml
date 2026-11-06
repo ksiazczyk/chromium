@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for printing common
+summary: Sets per-file ownership, delegating message headers, mojom files, and param traits to the IPC security owners.

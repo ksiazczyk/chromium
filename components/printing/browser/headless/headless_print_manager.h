@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HeadlessPrintManager class declaration
+// summary: Declares HeadlessPrintManager, a WebContentsUserData PrintManager for headless Chrome that exposes only PrintToPdf functionality.
+// ---
+
 #ifndef COMPONENTS_PRINTING_BROWSER_HEADLESS_HEADLESS_PRINT_MANAGER_H_
 #define COMPONENTS_PRINTING_BROWSER_HEADLESS_HEADLESS_PRINT_MANAGER_H_
 

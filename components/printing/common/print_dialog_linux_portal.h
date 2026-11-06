@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrintDialogLinuxPortal class declaration
+// summary: Declares PrintDialogLinuxPortal, a PrintDialogLinuxInterface implementation that shows the print dialog via the XDG Print Portal and falls back to another dialog when the portal is unavailable.
+// ---
+
 #ifndef COMPONENTS_PRINTING_COMMON_PRINT_DIALOG_LINUX_PORTAL_H_
 #define COMPONENTS_PRINTING_COMMON_PRINT_DIALOG_LINUX_PORTAL_H_
 

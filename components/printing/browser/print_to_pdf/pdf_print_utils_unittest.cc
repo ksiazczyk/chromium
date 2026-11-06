@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PDF print utils unit tests
+// summary: Tests page range parsing, covering open-ended ranges, multiple ranges, whitespace, and syntax or validity errors.
+// ---
+
 #include "components/printing/browser/print_to_pdf/pdf_print_utils.h"
 
 #include "components/printing/browser/print_to_pdf/pdf_print_result.h"

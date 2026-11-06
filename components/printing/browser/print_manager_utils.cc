@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print manager utilities implementation
+// summary: Implements helpers that create the print composite client when OOPIF printing is enabled and convert PrintSettings into mojom PrintParams.
+// ---
+
 #include "components/printing/browser/print_manager_utils.h"
 
 #include "components/printing/browser/print_composite_client.h"

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners file for the headless printing directory
+summary: OWNERS file that delegates code ownership of the headless printing directory to another OWNERS file.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cloud print CDD conversion implementation
+// summary: Implements conversion of printer semantic capabilities and defaults into cloud printer description (CDD) values, including paper, duplex, and capability mappings.
+// ---
+
 #include "components/printing/common/cloud_print_cdd_conversion.h"
 
 #include <stddef.h>

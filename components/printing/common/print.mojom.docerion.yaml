@@ -1,0 +1,4 @@
+# Docerion header of print.mojom.
+type: source
+title: Printing Mojo IPC interface definitions
+summary: Defines Mojo structs and interfaces for printing, covering preview requests, printed frame content, and render parameters.

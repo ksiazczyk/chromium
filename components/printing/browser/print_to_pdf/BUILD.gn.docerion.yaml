@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Print to PDF GN build definition
+summary: Defines the print_to_pdf static library sources, dependencies, and the unit_tests source_set target.

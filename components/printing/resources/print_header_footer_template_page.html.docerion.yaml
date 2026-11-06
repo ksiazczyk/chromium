@@ -1,0 +1,4 @@
+# Docerion header of print_header_footer_template_page.html.
+type: source
+title: Print header and footer template page
+summary: HTML template that lays out printable headers and footers with date, title, URL and page numbers, hiding elements that intersect the page margins.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Printing component DEPS include rules
+summary: Defines the allowed include dependencies for the printing component, permitting common, IPC, printing, Blink public, accessibility, and gfx headers.

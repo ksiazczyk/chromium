@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Print to PDF include rules
+summary: Declares the allowed directory dependencies for code in the print_to_pdf component.

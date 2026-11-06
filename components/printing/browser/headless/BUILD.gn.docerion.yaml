@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Headless printing static library build definition
+summary: GN build file defining the headless static library target with the print manager sources and its printing-related dependencies.

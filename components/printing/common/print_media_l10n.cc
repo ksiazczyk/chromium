@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print media size localization implementation
+// summary: Maps paper sizes in microns to localized PWG vendor IDs, display names and sort groups, generating sensible names for sizes without a known mapping.
+// ---
+
 #include "components/printing/common/print_media_l10n.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux print dialog factory implementation
+// summary: Creates Linux print dialogs, selecting the XDG portal dialog or the toolkit dialog based on build flags and feature state.
+// ---
+
 #include "components/printing/common/print_dialog_linux_factory.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux print dialog factory header
+// summary: Declares PrintDialogLinuxFactory, which supplies print dialog instances to PrintingContextLinux on Linux.
+// ---
+
 #ifndef COMPONENTS_PRINTING_COMMON_PRINT_DIALOG_LINUX_FACTORY_H_
 #define COMPONENTS_PRINTING_COMMON_PRINT_DIALOG_LINUX_FACTORY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test content renderer client declaration for printing tests
+// summary: Declares PrintTestContentRendererClient, a ContentRendererClient that attaches PrintRenderFrameHelper to render frames for printing tests.
+// ---
+
 #ifndef COMPONENTS_PRINTING_TEST_PRINT_TEST_CONTENT_RENDERER_CLIENT_H_
 #define COMPONENTS_PRINTING_TEST_PRINT_TEST_CONTENT_RENDERER_CLIENT_H_
 

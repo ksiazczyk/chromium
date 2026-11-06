@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Printing test support build file
+summary: Defines the test_support static library that bundles the printing mock printer and test renderer client sources with their dependencies.
