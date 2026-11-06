@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastContentGpuClient implementation
+// summary: Implements the Cast GPU client, binding the video geometry setter and connecting it to the underlay overlay strategy after compositor thread creation.
+// ---
+
 #include "chromecast/gpu/cast_content_gpu_client.h"
 
 #include "base/memory/ptr_util.h"

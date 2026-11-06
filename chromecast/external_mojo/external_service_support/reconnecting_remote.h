@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReconnectingRemote Mojo remote wrapper
+// summary: Header-only ReconnectingRemote template that wraps a Mojo Remote with automatic reconnection, reconnect observers and optional local implementation injection.
+// ---
+
 #ifndef CHROMECAST_EXTERNAL_MOJO_EXTERNAL_SERVICE_SUPPORT_RECONNECTING_REMOTE_H_
 #define CHROMECAST_EXTERNAL_MOJO_EXTERNAL_SERVICE_SUPPORT_RECONNECTING_REMOTE_H_
 

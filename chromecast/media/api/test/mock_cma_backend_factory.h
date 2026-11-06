@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock CMA backend factory header
+// summary: Declares a gmock mock of CmaBackendFactory with mocked CreateBackend and GetMediaTaskRunner methods for use in tests.
+// ---
+
 #ifndef CHROMECAST_MEDIA_API_TEST_MOCK_CMA_BACKEND_FACTORY_H_
 #define CHROMECAST_MEDIA_API_TEST_MOCK_CMA_BACKEND_FACTORY_H_
 

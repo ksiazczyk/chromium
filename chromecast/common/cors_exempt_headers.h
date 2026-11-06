@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CORS exempt headers interface
+// summary: Declares functions that return the legacy CORS-exempt header list and test whether a header is CORS exempt.
+// ---
+
 #ifndef CHROMECAST_COMMON_CORS_EXEMPT_HEADERS_H_
 #define CHROMECAST_COMMON_CORS_EXEMPT_HEADERS_H_
 

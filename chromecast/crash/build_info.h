@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Build version string helper declarations
+// summary: Declares helpers that return readable version strings and the eng or user build variant used in crash reports.
+// ---
+
 #ifndef CHROMECAST_CRASH_BUILD_INFO_H_
 #define CHROMECAST_CRASH_BUILD_INFO_H_
 

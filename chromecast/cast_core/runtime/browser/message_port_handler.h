@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MessagePortHandler class header
+// summary: Declares MessagePortHandler, which bridges a single message port channel with the Cast Core gRPC API.
+// ---
+
 #ifndef CHROMECAST_CAST_CORE_RUNTIME_BROWSER_MESSAGE_PORT_HANDLER_H_
 #define CHROMECAST_CAST_CORE_RUNTIME_BROWSER_MESSAGE_PORT_HANDLER_H_
 

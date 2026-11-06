@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crash utility functions implementation
+// summary: Implements helpers for checking minidump directory space, running the dumpstate utility, and requesting uploads of crash dumps.
+// ---
+
 #include "chromecast/crash/linux/crash_util.h"
 
 #include <string>

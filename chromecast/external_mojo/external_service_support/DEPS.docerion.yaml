@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for external service support
+summary: Lists the additional directories, such as crash reporting, Mojo embedder, tracing, and Perfetto, that code in this directory may include.

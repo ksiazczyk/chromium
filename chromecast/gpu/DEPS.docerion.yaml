@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Chromecast GPU include rules
+summary: DEPS file listing the allowed include paths for the chromecast/gpu directory, such as viz components and content public APIs.

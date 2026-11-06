@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastContentGpuClient class declaration
+// summary: Declares the CastContentGpuClient class extending content::ContentGpuClient with a PostCompositorThreadCreated hook for Chromecast GPU behavior.
+// ---
+
 #ifndef CHROMECAST_GPU_CAST_CONTENT_GPU_CLIENT_H_
 #define CHROMECAST_GPU_CAST_CONTENT_GPU_CLIENT_H_
 

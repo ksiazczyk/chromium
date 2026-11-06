@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast Core runtime application service implementation
+// summary: Implements the browser-side runtime application service, managing content windows, visibility, message ports, and streaming config for Cast Core applications.
+// ---
+
 #include "chromecast/cast_core/runtime/browser/runtime_application_service_impl.h"
 
 #include <string>

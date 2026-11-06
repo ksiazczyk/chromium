@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastWindowTreeHostAura implementation
+// summary: Implements an Aura window tree host for Chromecast that filters input events and applies Starboard size and rotation transforms while updating display metrics.
+// ---
+
 #include "chromecast/graphics/cast_window_tree_host_aura.h"
 
 #include "base/functional/bind.h"

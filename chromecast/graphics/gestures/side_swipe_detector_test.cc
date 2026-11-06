@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SideSwipeDetector unit tests
+// summary: Unit tests for the side swipe detector using a mock gesture handler and Aura test utilities to simulate touch drags from screen edges.
+// ---
+
 #include "chromecast/graphics/gestures/side_swipe_detector.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastCrashStorageImplFuchsia class declaration
+// summary: Declares CastCrashStorageImplFuchsia, the Fuchsia CastCrashStorage implementation that manages app and session annotations.
+// ---
+
 #ifndef CHROMECAST_CRASH_FUCHSIA_CAST_CRASH_STORAGE_IMPL_FUCHSIA_H_
 #define CHROMECAST_CRASH_FUCHSIA_CAST_CRASH_STORAGE_IMPL_FUCHSIA_H_
 

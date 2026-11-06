@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Chromecast media include rules
+summary: Lists the directories and headers that code under chromecast/media is allowed to include from.

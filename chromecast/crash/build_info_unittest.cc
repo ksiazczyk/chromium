@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for build version strings
+// summary: Tests truncation of incremental build revisions and eng/user variant detection for crash version strings.
+// ---
+
 #include "chromecast/crash/build_info.h"
 
 #include <string>

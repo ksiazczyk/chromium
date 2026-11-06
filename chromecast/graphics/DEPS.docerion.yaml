@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for chromecast graphics
+summary: Defines the allowed include directories for the chromecast/graphics sources, covering UI, aura, viz and starboard event dependencies.

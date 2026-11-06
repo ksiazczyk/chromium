@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastWindowManagerAura header
+// summary: Declares CastWindowManagerAura, the Aura implementation of the Chromecast window manager interface.
+// ---
+
 #ifndef CHROMECAST_GRAPHICS_CAST_WINDOW_MANAGER_AURA_H_
 #define CHROMECAST_GRAPHICS_CAST_WINDOW_MANAGER_AURA_H_
 

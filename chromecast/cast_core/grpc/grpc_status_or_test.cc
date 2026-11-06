@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GrpcStatusOr tests
+// summary: Unit tests for GrpcStatusOr constructors, move semantics, accessors, emplace and string conversion.
+// ---
+
 #include "chromecast/cast_core/grpc/grpc_status_or.h"
 
 #include "chromecast/cast_core/grpc/status_matchers.h"

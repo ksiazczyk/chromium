@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App state tracker implementation
+// summary: Stores the last launched, current and previous Cast app IDs and Stadia session ID and mirrors them into crash storage.
+// ---
+
 #include "chromecast/crash/app_state_tracker.h"
 
 #include "base/no_destructor.h"

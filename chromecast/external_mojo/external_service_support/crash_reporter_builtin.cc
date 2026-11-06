@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Built-in crash reporter implementation
+// summary: Implements a Breakpad-based crash reporter client that enables stack dumping, writes crash dumps, and requests their upload for external service processes.
+// ---
+
 #include "base/debug/stack_trace.h"
 #include "base/no_destructor.h"
 #include "base/time/time.h"

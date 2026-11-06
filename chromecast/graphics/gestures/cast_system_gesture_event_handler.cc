@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast system gesture event handler implementation
+// summary: Implements a root-window event handler that forwards tap down and tap gesture events to the cast system gesture dispatcher.
+// ---
+
 #include "chromecast/graphics/gestures/cast_system_gesture_event_handler.h"
 
 #include <deque>

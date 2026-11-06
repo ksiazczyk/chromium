@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default graphics properties implementation
+// summary: Default GraphicsPropertiesShlib that reports 1080p desktop window support from command-line arguments and rejects other resolutions.
+// ---
+
 #include <algorithm>
 #include <string>
 #include <vector>

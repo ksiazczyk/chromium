@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chromium service wrapper implementation
+// summary: Implements ChromiumServiceWrapper and helpers that forward service_manager::Service interface binding and connector requests to external Mojo processes.
+// ---
+
 #include "chromecast/external_mojo/external_service_support/chromium_service.h"
 
 #include <utility>

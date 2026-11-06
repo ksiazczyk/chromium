@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default user agent implementation
+// summary: Default implementation that returns the device user agent suffix from a build flag and the embedder's Chromium user agent.
+// ---
+
 #include "chromecast/common/user_agent.h"
 
 #include "chromecast/chromecast_buildflags.h"

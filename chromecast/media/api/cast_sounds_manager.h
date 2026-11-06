@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastSoundsManager interface
+// summary: Declares the thread-safe CastSoundsManager interface for adding, playing and stopping sounds by key, with multichannel and repeat options.
+// ---
+
 #ifndef CHROMECAST_MEDIA_API_CAST_SOUNDS_MANAGER_H_
 #define CHROMECAST_MEDIA_API_CAST_SOUNDS_MANAGER_H_
 

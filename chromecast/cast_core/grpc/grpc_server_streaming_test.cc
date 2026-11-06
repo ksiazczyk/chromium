@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: gRPC server streaming tests
+// summary: Unit tests covering successful and failing server streaming gRPC calls against a local GrpcServer instance.
+// ---
+
 #include "base/files/scoped_temp_dir.h"
 #include "base/rand_util.h"
 #include "base/strings/stringprintf.h"

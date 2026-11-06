@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crash utility functions header
+// summary: Declares the CrashUtil class with helpers for crash collection, dumpstate output, upload requests, and test callbacks.
+// ---
+
 #ifndef CHROMECAST_CRASH_LINUX_CRASH_UTIL_H_
 #define CHROMECAST_CRASH_LINUX_CRASH_UTIL_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of screenshot.html.
+type: test
+title: Synchronized screenshot test with canvas
+summary: HTML test page that draws a solid RGB color onto a 256x256 canvas and shows the color value as text, used for synchronized screenshot testing.

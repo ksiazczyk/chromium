@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GrpcHandler implementation
+// summary: Implements the GrpcHandler constructor and destructor that bind a server reactor tracker.
+// ---
+
 #include "chromecast/cast_core/grpc/grpc_handler.h"
 
 #include "base/check.h"

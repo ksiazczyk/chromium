@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Chromecast GPU build target definition
+summary: GN build file defining the chromecast gpu source set with its source files and dependencies on base, viz, and content.

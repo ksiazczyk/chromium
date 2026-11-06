@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GrpcServer generic gRPC server header
+// summary: Declares a generic gRPC server that registers handler classes by full RPC name and dispatches incoming requests to them.
+// ---
+
 #ifndef CHROMECAST_CAST_CORE_GRPC_GRPC_SERVER_H_
 #define CHROMECAST_CAST_CORE_GRPC_GRPC_SERVER_H_
 

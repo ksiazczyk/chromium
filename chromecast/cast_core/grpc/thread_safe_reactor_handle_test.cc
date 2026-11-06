@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Thread-safe reactor handle unit tests
+// summary: Unit tests covering deadlock avoidance, reactor destruction before writes, repeated writes, and pointer comparison for ThreadSafeReactorHandle.
+// ---
+
 #include "chromecast/cast_core/grpc/thread_safe_reactor_handle.h"
 
 #include <vector>

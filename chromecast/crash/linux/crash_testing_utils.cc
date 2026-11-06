@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crash testing utilities implementation
+// summary: Implements helpers to parse, write, create, and clear crash lockfiles and metadata files, used to support crash handling tests.
+// ---
+
 #include "chromecast/crash/linux/crash_testing_utils.h"
 
 #include <utility>

@@ -1,0 +1,4 @@
+# Docerion header of run_cast_integration_test.py.
+type: script
+title: Cast integration test runner
+summary: Entry point script that runs the cast core integration tests through the telemetry browser test runner.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Thread-safe gRPC reactor handle
+// summary: Header defining a ref-counted, lock-protected handle that lets gRPC and main threads share a reactor pointer without use-after-free races.
+// ---
+
 #ifndef CHROMECAST_CAST_CORE_GRPC_THREAD_SAFE_REACTOR_HANDLE_H_
 #define CHROMECAST_CAST_CORE_GRPC_THREAD_SAFE_REACTOR_HANDLE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MessagePortServiceGrpc class header
+// summary: Declares the gRPC-based MessagePortService implementation that manages message port channels for Cast Core.
+// ---
+
 #ifndef CHROMECAST_CAST_CORE_RUNTIME_BROWSER_MESSAGE_PORT_SERVICE_GRPC_H_
 #define CHROMECAST_CAST_CORE_RUNTIME_BROWSER_MESSAGE_PORT_SERVICE_GRPC_H_
 

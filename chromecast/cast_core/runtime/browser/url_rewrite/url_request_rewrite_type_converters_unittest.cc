@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: URL request rewrite type converters unit tests
+// summary: Unit tests verifying each rewrite type converts correctly from protobuf to Mojo and passes rule validation.
+// ---
+
 #include "chromecast/cast_core/runtime/browser/url_rewrite/url_request_rewrite_type_converters.h"
 
 #include <optional>

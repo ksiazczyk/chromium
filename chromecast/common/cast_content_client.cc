@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast content client implementation
+// summary: Implements the cast shell content client, providing localized strings and resources, additional schemes, interface binders, and Widevine CDM registration across platforms.
+// ---
+
 #include "chromecast/common/cast_content_client.h"
 
 #include <stdint.h>

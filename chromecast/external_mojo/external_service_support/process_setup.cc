@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Common process initialization for external Mojo processes
+// summary: Initializes locale, command line, logging, feature lists and the crash reporter for external Mojo processes.
+// ---
+
 #include "chromecast/external_mojo/external_service_support/process_setup.h"
 
 #include <locale.h>

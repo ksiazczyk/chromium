@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: gRPC message port service for Cast Core
+// summary: Implements the MessagePortService interface over gRPC, routing messages to per-channel handlers and managing port registration and removal.
+// ---
+
 #include "chromecast/cast_core/runtime/browser/message_port_service_grpc.h"
 
 #include <sstream>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QueryableDataHostFuchsia class declaration
+// summary: Declares the Fuchsia queryable data host that sends queryable data through FIDL to the Cast Runner.
+// ---
+
 #ifndef CHROMECAST_FUCHSIA_QUERYABLE_DATA_HOST_FUCHSIA_H_
 #define CHROMECAST_FUCHSIA_QUERYABLE_DATA_HOST_FUCHSIA_H_
 

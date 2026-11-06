@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Activity URL filter declaration
+// summary: Declares ActivityUrlFilter, which takes a list of whitelisted URL regular expressions and reports whether a given URL matches any of them.
+// ---
+
 #ifndef CHROMECAST_COMMON_ACTIVITY_URL_FILTER_H_
 #define CHROMECAST_COMMON_ACTIVITY_URL_FILTER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of constants.mojom.
+type: source
+title: Chromecast mojom service name constants
+summary: Declares service name constants for the Chromecast, content browser, and standalone Cast Browser services.

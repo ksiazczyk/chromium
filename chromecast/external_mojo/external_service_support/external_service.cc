@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExternalService implementation
+// summary: Implements the ExternalService class that binds incoming Mojo interfaces and exposes a receiver for external (non-Chromium) Mojo services.
+// ---
+
 #include "chromecast/external_mojo/external_service_support/external_service.h"
 
 #include "base/logging.h"

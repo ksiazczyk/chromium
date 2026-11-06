@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SynchronizedMinidumpManager class header
+// summary: Declares the abstract SynchronizedMinidumpManager base class that serializes minidump handling via a lockfile and exposes protected methods for querying and updating dump metadata.
+// ---
+
 #ifndef CHROMECAST_CRASH_LINUX_SYNCHRONIZED_MINIDUMP_MANAGER_H_
 #define CHROMECAST_CRASH_LINUX_SYNCHRONIZED_MINIDUMP_MANAGER_H_
 

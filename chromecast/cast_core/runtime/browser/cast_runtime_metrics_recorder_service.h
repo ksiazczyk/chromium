@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast runtime metrics recorder service header
+// summary: Declares CastRuntimeMetricsRecorderService, a timer-driven service that periodically reports collected metrics to Cast Core.
+// ---
+
 #ifndef CHROMECAST_CAST_CORE_RUNTIME_BROWSER_CAST_RUNTIME_METRICS_RECORDER_SERVICE_H_
 #define CHROMECAST_CAST_CORE_RUNTIME_BROWSER_CAST_RUNTIME_METRICS_RECORDER_SERVICE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: gMock matchers for gRPC statuses
+// summary: Declares the StatusIs matcher and SFINAE helpers that resolve code and message from various status types in tests.
+// ---
+
 #ifndef CHROMECAST_CAST_CORE_GRPC_STATUS_MATCHERS_H_
 #define CHROMECAST_CAST_CORE_GRPC_STATUS_MATCHERS_H_
 

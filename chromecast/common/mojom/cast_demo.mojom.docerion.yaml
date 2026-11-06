@@ -1,0 +1,4 @@
+# Docerion header of cast_demo.mojom.
+type: source
+title: CastDemo mojom interface
+summary: Defines the Cast Demo retail interface for metrics events, store details, volume control, and WiFi configuration.

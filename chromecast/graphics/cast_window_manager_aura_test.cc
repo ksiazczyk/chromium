@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CastWindowManagerAura unit tests
+// summary: Unit tests for the Aura-based Cast window manager covering initial window IDs, keyboard input delivery, focus tracking, and window z-ordering.
+// ---
+
 #include "chromecast/graphics/cast_window_manager_aura.h"
 
 #include <memory>

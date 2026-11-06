@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for URL rewrite converters
+summary: GN build file defining the url_rewrite source set and its unit test target, listing sources and dependencies.

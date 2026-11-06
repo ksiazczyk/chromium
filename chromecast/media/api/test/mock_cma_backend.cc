@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock CMA backend implementation
+// summary: Implements constructors and destructors for MockCmaBackend and its nested decoder delegate, audio decoder, and video decoder classes.
+// ---
+
 #include "chromecast/media/api/test/mock_cma_backend.h"
 
 namespace chromecast {

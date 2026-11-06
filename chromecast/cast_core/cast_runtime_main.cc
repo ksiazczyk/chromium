@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast runtime main entry point
+// summary: Entry point that runs the Cast shell by wiring CastMainDelegate into Chromium's content main.
+// ---
+
 #include "chromecast/app/cast_main_delegate.h"
 #include "content/public/app/content_main.h"
 

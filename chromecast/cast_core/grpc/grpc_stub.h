@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GrpcStub template for gRPC client stubs
+// summary: Template class that wraps a gRPC service stub with copy/move support and creates unary or streaming client calls.
+// ---
+
 #ifndef CHROMECAST_CAST_CORE_GRPC_GRPC_STUB_H_
 #define CHROMECAST_CAST_CORE_GRPC_GRPC_STUB_H_
 

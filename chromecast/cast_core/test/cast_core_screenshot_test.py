@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Cast core screenshot tests
+# summary: Telemetry browser test suite that flings YouTube videos to a Cast receiver and verifies rendering correctness via screenshots.
+# ---
+
 import os
 import random
 import sys

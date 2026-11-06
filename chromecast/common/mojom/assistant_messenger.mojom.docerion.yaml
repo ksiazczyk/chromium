@@ -1,0 +1,4 @@
+# Docerion header of assistant_messenger.mojom.
+type: source
+title: AssistantMessenger mojom interfaces
+summary: Defines the messaging protocol between the Assistant service and Cast app web clients through message pipes.

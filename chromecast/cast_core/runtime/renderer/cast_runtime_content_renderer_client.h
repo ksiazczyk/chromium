@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast runtime content renderer client header
+// summary: Declares CastRuntimeContentRendererClient, extending CastContentRendererClient with cast streaming resource provider support.
+// ---
+
 #ifndef CHROMECAST_CAST_CORE_RUNTIME_RENDERER_CAST_RUNTIME_CONTENT_RENDERER_CLIENT_H_
 #define CHROMECAST_CAST_CORE_RUNTIME_RENDERER_CAST_RUNTIME_CONTENT_RENDERER_CLIENT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Queryable data class declaration
+// summary: Declares QueryableData, a browser- and renderer-side store of key/value data exposed to applications via JS APIs.
+// ---
+
 #ifndef CHROMECAST_COMMON_QUERYABLE_DATA_H_
 #define CHROMECAST_COMMON_QUERYABLE_DATA_H_
 

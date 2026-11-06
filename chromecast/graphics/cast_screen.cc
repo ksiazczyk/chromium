@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastScreen display implementation
+// summary: Implements CastScreen, handling display changes and overriding or restoring primary display settings such as bounds, scale factor and rotation.
+// ---
+
 #include "chromecast/graphics/cast_screen.h"
 
 #include <stdint.h>

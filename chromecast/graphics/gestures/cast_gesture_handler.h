@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastGestureHandler interface and swipe enums
+// summary: Defines the CastGestureHandler interface with priority levels plus enums for side-swipe origins and events used by Cast root-window gesture handling.
+// ---
+
 #ifndef CHROMECAST_GRAPHICS_GESTURES_CAST_GESTURE_HANDLER_H_
 #define CHROMECAST_GRAPHICS_GESTURES_CAST_GESTURE_HANDLER_H_
 

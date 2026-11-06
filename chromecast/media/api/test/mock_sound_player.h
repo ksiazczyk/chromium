@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock sound player header
+// summary: Declares a gmock mock of SoundPlayer with mocked Play, PlayAudioData, PlayAtTime, PlayAudioDataAtTime, and Stop methods for tests.
+// ---
+
 #ifndef CHROMECAST_MEDIA_API_TEST_MOCK_SOUND_PLAYER_H_
 #define CHROMECAST_MEDIA_API_TEST_MOCK_SOUND_PLAYER_H_
 

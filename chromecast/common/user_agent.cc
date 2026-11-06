@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast user agent string construction
+// summary: Implements GetUserAgent and GetChromeKeyString, combining the Chromium user agent with the CrKey token and a device-specific suffix.
+// ---
+
 #include "chromecast/common/user_agent.h"
 
 #include <string>

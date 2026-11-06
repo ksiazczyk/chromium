@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the crash directory (DEPS)
+summary: Grants the crash directory access to components/crash/core/common, GPU crash keys and third_party/breakpad.

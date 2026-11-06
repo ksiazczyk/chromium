@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SynchronizedMinidumpManager implementation
+// summary: Implements file-lock-based synchronized access to the minidumps directory, including lockfile and metadata handling and crash upload rate limiting.
+// ---
+
 #include "chromecast/crash/linux/synchronized_minidump_manager.h"
 
 #include <errno.h>

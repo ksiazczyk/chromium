@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the gRPC directory
+summary: Grants include access to Cast Core common protos and gRPC source headers for this directory.

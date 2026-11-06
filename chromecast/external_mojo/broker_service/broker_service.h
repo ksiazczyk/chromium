@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Broker service header
+// summary: Declares the BrokerService class, a Mojo service that allows external-process Mojo services to interoperate with cast_shell services.
+// ---
+
 #ifndef CHROMECAST_EXTERNAL_MOJO_BROKER_SERVICE_BROKER_SERVICE_H_
 #define CHROMECAST_EXTERNAL_MOJO_BROKER_SERVICE_BROKER_SERVICE_H_
 

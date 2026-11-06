@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cast runtime metrics test helpers header
+// summary: Declares test helpers for reading histogram bucket counts and parsing serialized Cast event protos in tests.
+// ---
+
 #ifndef CHROMECAST_CAST_CORE_RUNTIME_BROWSER_CAST_RUNTIME_METRICS_TEST_HELPERS_H_
 #define CHROMECAST_CAST_CORE_RUNTIME_BROWSER_CAST_RUNTIME_METRICS_TEST_HELPERS_H_
 

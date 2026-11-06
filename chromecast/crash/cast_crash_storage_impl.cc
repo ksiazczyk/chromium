@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default CastCrashStorageImpl crash key implementation
+// summary: Implements CastCrashStorage by writing app and Stadia session identifiers into the crash reporter crash keys.
+// ---
+
 #include "chromecast/crash/cast_crash_storage_impl.h"
 
 #include <string_view>

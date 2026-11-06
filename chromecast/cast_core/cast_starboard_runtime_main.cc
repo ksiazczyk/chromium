@@ -9,6 +9,12 @@
 // Also contains logic for parsing chromium args passed as JSON (used by some
 // partner platforms).
 
+// ---docerion
+// type: source
+// title: Starboard Cast runtime entry point
+// summary: Entry point for the Starboard Cast runtime that parses JSON command-line arguments, handles HOME overrides, and forks a loggy logging process when enabled.
+// ---
+
 #include "chromecast/cast_core/cast_starboard_runtime_main.h"
 
 #include <optional>

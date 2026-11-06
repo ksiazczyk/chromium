@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feature constants definitions
+// summary: Defines string constants naming Cast feature flags and Cast Core application extra features such as codecs and permissions.
+// ---
+
 #include "chromecast/common/feature_constants.h"
 
 namespace chromecast {

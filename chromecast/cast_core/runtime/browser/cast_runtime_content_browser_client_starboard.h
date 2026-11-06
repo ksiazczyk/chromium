@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the Starboard content browser client
+// summary: Declares CastRuntimeContentBrowserClientStarboard, adding Starboard CDM factories and a web contents observer that focuses loaded pages for input.
+// ---
+
 #ifndef CHROMECAST_CAST_CORE_RUNTIME_BROWSER_CAST_RUNTIME_CONTENT_BROWSER_CLIENT_STARBOARD_H_
 #define CHROMECAST_CAST_CORE_RUNTIME_BROWSER_CAST_RUNTIME_CONTENT_BROWSER_CLIENT_STARBOARD_H_
 

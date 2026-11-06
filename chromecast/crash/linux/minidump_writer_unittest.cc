@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MinidumpWriter unit tests
+// summary: Unit tests for MinidumpWriter, covering minidump path validation, successful writes, and attachment handling using a fake generator and temporary home directory.
+// ---
+
 #include "chromecast/crash/linux/minidump_writer.h"
 
 #include <fstream>

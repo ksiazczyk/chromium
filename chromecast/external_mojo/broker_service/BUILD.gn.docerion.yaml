@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Broker service build file
+summary: Defines the broker_service source_set with its sources and dependencies for the Chromium build.

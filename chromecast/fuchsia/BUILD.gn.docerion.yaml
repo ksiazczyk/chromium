@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Chromecast Fuchsia build targets
+summary: GN build file defining a cast_source_set for the Fuchsia queryable data host sources with dependencies on base, activity, and queryable data.

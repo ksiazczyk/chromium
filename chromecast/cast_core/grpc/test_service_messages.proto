@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test service protobuf messages
+// summary: Defines TestRequest and TestResponse protobuf messages used by the gRPC test service.
+// ---
+
 syntax = "proto3";
 
 package cast.utils;

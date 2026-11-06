@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CastFocusClientAura tests
+// summary: Aura-based tests covering focusable windows, child focus and z-order behavior of CastFocusClientAura.
+// ---
+
 #include "chromecast/graphics/cast_focus_client_aura.h"
 
 #include <memory>

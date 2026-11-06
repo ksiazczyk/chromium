@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for CastCrashStorageImplFuchsia
+// summary: Unit tests verifying that app and Stadia session annotations are upserted to a mock Fuchsia ComponentDataRegister service.
+// ---
+
 #include "chromecast/crash/fuchsia/cast_crash_storage_impl_fuchsia.h"
 
 #include <fuchsia/feedback/cpp/fidl.h>

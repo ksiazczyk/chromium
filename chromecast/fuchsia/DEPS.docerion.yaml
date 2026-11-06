@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Chromecast Fuchsia include rules
+summary: DEPS file granting the chromecast/fuchsia directory access to headers from chromecast/activity and chromecast/common.

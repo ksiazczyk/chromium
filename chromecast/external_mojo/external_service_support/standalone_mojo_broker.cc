@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Standalone Mojo broker process entry point
+// summary: Entry point for the standalone Mojo broker process, initializing Mojo IPC support and running the external Mojo broker.
+// ---
+
 #include <memory>
 #include <string>
 #include <vector>

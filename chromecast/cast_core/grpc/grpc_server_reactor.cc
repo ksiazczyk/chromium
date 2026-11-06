@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: gRPC server reactor standard errors
+// summary: Defines shared standard gRPC error statuses returned when reads or writes fail on the server side.
+// ---
+
 #include "chromecast/cast_core/grpc/grpc_server_reactor.h"
 
 #include "base/no_destructor.h"

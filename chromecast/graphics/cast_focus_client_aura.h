@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastFocusClientAura class declaration
+// summary: Declares CastFocusClientAura, an Aura focus and activation client that tracks focusable windows and notifies focus change observers.
+// ---
+
 #ifndef CHROMECAST_GRAPHICS_CAST_FOCUS_CLIENT_AURA_H_
 #define CHROMECAST_GRAPHICS_CAST_FOCUS_CLIENT_AURA_H_
 

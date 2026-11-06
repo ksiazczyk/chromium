@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DumpInfo unit tests
+// summary: Unit tests validating DumpInfo JSON parsing, checking which field combinations and time formats make a dump entry valid or invalid.
+// ---
+
 #include <time.h>
 
 #include "base/time/time.h"

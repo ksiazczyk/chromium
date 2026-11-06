@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastWindowManager interface
+// summary: Declares the CastWindowManager interface for adding top-level windows, z-ordering, event injection, and touch and gesture handling.
+// ---
+
 #ifndef CHROMECAST_GRAPHICS_CAST_WINDOW_MANAGER_H_
 #define CHROMECAST_GRAPHICS_CAST_WINDOW_MANAGER_H_
 

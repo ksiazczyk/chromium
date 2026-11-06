@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cast display scale unit tests
+// summary: Unit tests verifying GetDeviceScaleFactor for standard 16x9 resolutions from 720p to 4320p and for nonstandard resolutions.
+// ---
+
 #include "chromecast/graphics/cast_display_util.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

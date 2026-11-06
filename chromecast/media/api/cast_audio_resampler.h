@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastAudioResampler interface
+// summary: Declares the CastAudioResampler interface for resampling planar float audio between sample rates, with flush and buffering support.
+// ---
+
 #ifndef CHROMECAST_MEDIA_API_CAST_AUDIO_RESAMPLER_H_
 #define CHROMECAST_MEDIA_API_CAST_AUDIO_RESAMPLER_H_
 

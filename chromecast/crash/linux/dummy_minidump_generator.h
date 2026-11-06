@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dummy minidump generator header
+// summary: Declares a MinidumpGenerator subclass that relocates an existing minidump file for further uploading.
+// ---
+
 #ifndef CHROMECAST_CRASH_LINUX_DUMMY_MINIDUMP_GENERATOR_H_
 #define CHROMECAST_CRASH_LINUX_DUMMY_MINIDUMP_GENERATOR_H_
 

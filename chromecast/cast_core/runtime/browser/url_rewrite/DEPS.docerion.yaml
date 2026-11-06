@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for url_rewrite
+summary: Restricts includes in this folder to the url_rewrite components, Mojo public bindings, and third_party cast_core.

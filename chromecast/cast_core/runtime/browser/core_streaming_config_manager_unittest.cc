@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CoreStreamingConfigManager unit tests
+// summary: Tests that CoreStreamingConfigManager parses AV settings messages into streaming receiver configs and notifies config observers.
+// ---
+
 #include "chromecast/cast_core/runtime/browser/core_streaming_config_manager.h"
 
 #include <algorithm>

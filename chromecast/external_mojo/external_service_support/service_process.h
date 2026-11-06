@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ServiceProcess entrypoint for external Mojo processes
+// summary: Declares the ServiceProcess entrypoint interface used by standalone_service_main.cc to create external Mojo service processes.
+// ---
+
 #ifndef CHROMECAST_EXTERNAL_MOJO_EXTERNAL_SERVICE_SUPPORT_SERVICE_PROCESS_H_
 #define CHROMECAST_EXTERNAL_MOJO_EXTERNAL_SERVICE_SUPPORT_SERVICE_PROCESS_H_
 

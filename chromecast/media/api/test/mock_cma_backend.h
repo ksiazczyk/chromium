@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock CMA backend header
+// summary: Declares a gmock mock of CmaBackend with mocked decoder delegate, audio and video decoder, and playback control methods for tests.
+// ---
+
 #ifndef CHROMECAST_MEDIA_API_TEST_MOCK_CMA_BACKEND_H_
 #define CHROMECAST_MEDIA_API_TEST_MOCK_CMA_BACKEND_H_
 

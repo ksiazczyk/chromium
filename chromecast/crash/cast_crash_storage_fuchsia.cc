@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia CastCrashStorage instance provider
+// summary: Supplies the Fuchsia-specific CastCrashStorageImplFuchsia instance for crash key storage on Fuchsia platforms.
+// ---
+
 #include <lib/sys/cpp/component_context.h>
 
 #include "base/fuchsia/process_context.h"

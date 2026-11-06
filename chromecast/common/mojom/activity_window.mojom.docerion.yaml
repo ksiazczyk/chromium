@@ -1,0 +1,4 @@
+# Docerion header of activity_window.mojom.
+type: source
+title: ActivityWindow mojom interface
+summary: Defines a simplified window interface that lets allow-listed Cast web apps show or hide their own activity window.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LibcurlWrapper dynamic libcurl binding implementation
+// summary: Implements a wrapper that dynamically loads libcurl via dlopen and performs multipart HTTP uploads of crash dumps.
+// ---
+
 #include "chromecast/crash/libcurl_wrapper.h"
 
 #include <dlfcn.h>

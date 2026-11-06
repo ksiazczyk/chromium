@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Cast Core BUILD.gn build targets
+summary: Defines GN build targets for the Cast Web Runtime, including simple and Starboard runtime executables, libraries, and the child log process.

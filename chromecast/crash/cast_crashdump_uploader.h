@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastCrashdumpUploader class declaration
+// summary: Declares CastCrashdumpData and CastCrashdumpUploader for collecting crash report parameters and uploading minidumps.
+// ---
+
 #ifndef CHROMECAST_CRASH_CAST_CRASHDUMP_UPLOADER_H_
 #define CHROMECAST_CRASH_CAST_CRASHDUMP_UPLOADER_H_
 

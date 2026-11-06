@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CoreRuntimeStarboardMain entry point declaration
+// summary: Declares the exported CoreRuntimeStarboardMain entry point and documents constraints OEM code must follow when calling it.
+// ---
+
 #ifndef CHROMECAST_CAST_CORE_CAST_STARBOARD_RUNTIME_MAIN_H_
 #define CHROMECAST_CAST_CORE_CAST_STARBOARD_RUNTIME_MAIN_H_
 

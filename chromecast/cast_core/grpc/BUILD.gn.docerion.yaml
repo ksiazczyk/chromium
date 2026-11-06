@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the Cast Core gRPC library
+summary: Defines GN source sets for the gRPC library, status matchers, unit tests, test support and test proto services.

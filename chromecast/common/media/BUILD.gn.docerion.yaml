@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the cast media source set
+summary: Defines the cast_source_set build target that compiles the Cast media DRM bridge client sources on Android with their dependencies.

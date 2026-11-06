@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GrpcHandler base class for server reactors
+// summary: Base class for gRPC server reactor handlers that tracks active reactors for shutdown reporting and creates reactors.
+// ---
+
 #ifndef CHROMECAST_CAST_CORE_GRPC_GRPC_HANDLER_H_
 #define CHROMECAST_CAST_CORE_GRPC_GRPC_HANDLER_H_
 

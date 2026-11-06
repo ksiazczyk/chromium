@@ -1,0 +1,4 @@
+# Docerion header of js_channel.mojom.
+type: source
+title: JavaScript channel Mojo interfaces
+summary: Defines JsChannel, JsChannelClient and JsChannelBindingProvider interfaces for posting JavaScript messages to the browser and managing channel bindings.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MinidumpWriter implementation
+// summary: Implements writing a minidump under a directory lock, running the dumpstate callback, copying attachments, and adding a DumpInfo entry to the lockfile.
+// ---
+
 #include "chromecast/crash/linux/minidump_writer.h"
 
 #include "base/files/file_util.h"

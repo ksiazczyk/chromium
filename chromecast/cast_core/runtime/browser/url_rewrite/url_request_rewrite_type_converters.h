@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL request rewrite type converters header
+// summary: Declares the one-way Mojo TypeConverter from cast::v2 UrlRequestRewriteRules protobuf to url_rewrite Mojo rewrite rules.
+// ---
+
 #ifndef CHROMECAST_CAST_CORE_RUNTIME_BROWSER_URL_REWRITE_URL_REQUEST_REWRITE_TYPE_CONVERTERS_H_
 #define CHROMECAST_CAST_CORE_RUNTIME_BROWSER_URL_REWRITE_URL_REQUEST_REWRITE_TYPE_CONVERTERS_H_
 

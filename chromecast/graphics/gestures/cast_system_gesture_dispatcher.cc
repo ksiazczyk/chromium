@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast system gesture dispatcher implementation
+// summary: Implements the dispatcher that routes side swipes and taps to the highest-priority handler and redirects gestures to root UI after repeated swipes within a timeout.
+// ---
+
 #include "chromecast/graphics/gestures/cast_system_gesture_dispatcher.h"
 
 #include "base/logging.h"

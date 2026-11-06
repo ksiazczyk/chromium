@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast content client declaration
+// summary: Declares CastContentClient, the content::ContentClient implementation for the cast shell covering resources, schemes, binders, and content decryption modules.
+// ---
+
 #ifndef CHROMECAST_COMMON_CAST_CONTENT_CLIENT_H_
 #define CHROMECAST_COMMON_CAST_CONTENT_CLIENT_H_
 

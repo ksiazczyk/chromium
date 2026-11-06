@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MinidumpWriter class header
+// summary: Declares the MinidumpWriter class and Attachment struct for generating minidumps with synchronized access to the minidumps directory.
+// ---
+
 #ifndef CHROMECAST_CRASH_LINUX_MINIDUMP_WRITER_H_
 #define CHROMECAST_CRASH_LINUX_MINIDUMP_WRITER_H_
 

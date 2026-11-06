@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crash key name declarations
+// summary: Declares cross-platform crash key name constants shared by Cast crash reporting implementations.
+// ---
+
 #ifndef CHROMECAST_CRASH_CAST_CRASH_KEYS_H_
 #define CHROMECAST_CRASH_CAST_CRASH_KEYS_H_
 

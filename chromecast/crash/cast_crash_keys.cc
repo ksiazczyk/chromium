@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crash key name constants
+// summary: Defines the shared crash key names for last, current and previous apps and the Stadia session ID.
+// ---
+
 #include "chromecast/crash/cast_crash_keys.h"
 
 namespace chromecast {

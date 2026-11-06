@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Runtime service class declaration
+// summary: Declares RuntimeServiceImpl, the gRPC RuntimeService for Cast Core, with handlers for application lifecycle, heartbeats and the metrics recorder.
+// ---
+
 #ifndef CHROMECAST_CAST_CORE_RUNTIME_BROWSER_RUNTIME_SERVICE_IMPL_H_
 #define CHROMECAST_CAST_CORE_RUNTIME_BROWSER_RUNTIME_SERVICE_IMPL_H_
 

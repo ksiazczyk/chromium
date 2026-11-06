@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MinidumpParams struct header
+// summary: Defines the MinidumpParams struct holding crash report metadata like process uptime, app names, release version, crash reason, and JS exception details.
+// ---
+
 #ifndef CHROMECAST_CRASH_LINUX_MINIDUMP_PARAMS_H_
 #define CHROMECAST_CRASH_LINUX_MINIDUMP_PARAMS_H_
 

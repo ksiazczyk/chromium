@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast Core command-line switch constants
+// summary: Declares switch names for the Cast Core runtime ID, gRPC endpoints, TCP/IP transport, and runtime auth token.
+// ---
+
 #ifndef CHROMECAST_CAST_CORE_CAST_CORE_SWITCHES_H_
 #define CHROMECAST_CAST_CORE_CAST_CORE_SWITCHES_H_
 

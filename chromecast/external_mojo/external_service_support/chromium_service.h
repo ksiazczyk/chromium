@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chromium service wrapper header
+// summary: Declares ChromiumServiceWrapper and factory helpers for running Chromium ServiceManager-based services in external, non-Chromium processes.
+// ---
+
 #ifndef CHROMECAST_EXTERNAL_MOJO_EXTERNAL_SERVICE_SUPPORT_CHROMIUM_SERVICE_H_
 #define CHROMECAST_EXTERNAL_MOJO_EXTERNAL_SERVICE_SUPPORT_CHROMIUM_SERVICE_H_
 

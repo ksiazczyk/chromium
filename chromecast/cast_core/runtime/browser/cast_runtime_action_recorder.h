@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the Cast runtime user action recorder
+// summary: Declares CastRuntimeActionRecorder, which records user action events from construction until TakeEvents hands them to Cast Core.
+// ---
+
 #ifndef CHROMECAST_CAST_CORE_RUNTIME_BROWSER_CAST_RUNTIME_ACTION_RECORDER_H_
 #define CHROMECAST_CAST_CORE_RUNTIME_BROWSER_CAST_RUNTIME_ACTION_RECORDER_H_
 

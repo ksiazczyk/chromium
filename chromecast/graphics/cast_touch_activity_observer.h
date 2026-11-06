@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastTouchActivityObserver interface
+// summary: Declares the CastTouchActivityObserver interface notified when touch input is disabled or touch events occur while input is gated.
+// ---
+
 #ifndef CHROMECAST_GRAPHICS_CAST_TOUCH_ACTIVITY_OBSERVER_H_
 #define CHROMECAST_GRAPHICS_CAST_TOUCH_ACTIVITY_OBSERVER_H_
 

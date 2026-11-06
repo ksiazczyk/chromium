@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GrpcServerReactor base class
+// summary: Declares a base class for gRPC server reactors that handles request deserialization and response serialization and writing.
+// ---
+
 #ifndef CHROMECAST_CAST_CORE_GRPC_GRPC_SERVER_REACTOR_H_
 #define CHROMECAST_CAST_CORE_GRPC_GRPC_SERVER_REACTOR_H_
 

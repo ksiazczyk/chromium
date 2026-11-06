@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SoundPlayer interface for playing sounds
+// summary: Interface for playing sound resources or audio data, optionally repeated or at a given timestamp, and stopping playback by resource ID or sound key.
+// ---
+
 #ifndef CHROMECAST_MEDIA_API_SOUND_PLAYER_H_
 #define CHROMECAST_MEDIA_API_SOUND_PLAYER_H_
 

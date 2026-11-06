@@ -1,0 +1,4 @@
+# Docerion header of core_runtime_starboard.sym.
+type: config
+title: Core runtime Starboard symbol export list
+summary: Linker version script that exports CoreRuntimeStarboardMain and keeps all other symbols local for the core runtime Starboard binary.

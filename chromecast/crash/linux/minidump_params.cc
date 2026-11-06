@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MinidumpParams implementation
+// summary: Implements the MinidumpParams constructors that initialize crash report metadata fields such as process uptime, app names, and release version.
+// ---
+
 #include "chromecast/crash/linux/minidump_params.h"
 
 namespace chromecast {

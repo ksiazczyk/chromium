@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BitstreamAudioCodecsInfo mojom traits header
+// summary: C++ StructTraits header that serializes BitstreamAudioCodecsInfo between mojo messages and the native chromecast type.
+// ---
+
 #ifndef CHROMECAST_COMMON_MOJOM_APPLICATION_MEDIA_CAPABILITIES_MOJOM_TRAITS_H_
 #define CHROMECAST_COMMON_MOJOM_APPLICATION_MEDIA_CAPABILITIES_MOJOM_TRAITS_H_
 

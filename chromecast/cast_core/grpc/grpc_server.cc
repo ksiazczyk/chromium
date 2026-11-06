@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GrpcServer implementation
+// summary: Implements starting and shutting down the gRPC server, including endpoint parsing and pending reactor cancellation on stop.
+// ---
+
 #include "chromecast/cast_core/grpc/grpc_server.h"
 
 #include <algorithm>

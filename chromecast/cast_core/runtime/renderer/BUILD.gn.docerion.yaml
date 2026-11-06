@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build config for Cast Core renderer
+summary: Defines the renderer and renderer_simple source sets with their sources and dependencies for the Cast Core runtime renderer.

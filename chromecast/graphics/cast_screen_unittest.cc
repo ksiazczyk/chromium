@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CastScreen unit tests
+// summary: Unit tests verifying that overriding and restoring CastScreen primary display settings notifies display observers with the expected metrics.
+// ---
+
 #include "chromecast/graphics/cast_screen.h"
 
 #include "testing/gmock/include/gmock/gmock.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastCrashStorageImplFuchsia implementation
+// summary: Implements Fuchsia crash storage by upserting app and Stadia session annotations through the Fuchsia feedback ComponentDataRegister service.
+// ---
+
 #include "chromecast/crash/fuchsia/cast_crash_storage_impl_fuchsia.h"
 
 #include <fuchsia/feedback/cpp/fidl.h>

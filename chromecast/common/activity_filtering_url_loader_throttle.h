@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Activity URL filtering throttle declaration
+// summary: Declares ActivityFilteringURLLoaderThrottle, a blink URLLoaderThrottle that monitors requests from third-party JavaScript in Activities and blocks them by URL whitelisting.
+// ---
+
 #ifndef CHROMECAST_COMMON_ACTIVITY_FILTERING_URL_LOADER_THROTTLE_H_
 #define CHROMECAST_COMMON_ACTIVITY_FILTERING_URL_LOADER_THROTTLE_H_
 

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: config
+# title: Cast test project configuration
+# summary: Defines the Chromium telemetry configuration that registers the cast core test directory as the top-level and benchmark directory.
+# ---
+
 import os
 import sys
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Queryable data implementation
+// summary: Implements the QueryableData registry that registers, stores, and queries key/value pairs exposed to applications.
+// ---
+
 #include "chromecast/common/queryable_data.h"
 
 #include <utility>

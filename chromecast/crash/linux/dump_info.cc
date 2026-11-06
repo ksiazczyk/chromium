@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DumpInfo implementation
+// summary: Implements parsing and serialization of crash dump metadata entries, including app names, versions, attachments, and extra info.
+// ---
+
 #include "chromecast/crash/linux/dump_info.h"
 
 #include <errno.h>

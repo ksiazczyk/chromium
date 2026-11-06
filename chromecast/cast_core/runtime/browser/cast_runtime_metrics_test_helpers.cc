@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cast runtime metrics test helpers implementation
+// summary: Provides test helpers that look up histogram bucket counts for a value and parse serialized Cast event protos.
+// ---
+
 #include "chromecast/cast_core/runtime/browser/cast_runtime_metrics_test_helpers.h"
 
 namespace chromecast {

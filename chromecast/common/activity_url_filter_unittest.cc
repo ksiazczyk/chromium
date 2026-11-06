@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ActivityUrlFilter whitelist matching
+// summary: gtest tests verifying that ActivityUrlFilter accepts whitelisted URL patterns and rejects URLs that do not match.
+// ---
+
 #include "chromecast/common/activity_url_filter.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App state tracker interface
+// summary: Declares the AppStateTracker static API for recording and querying current, previous and launched app IDs and the Stadia session ID.
+// ---
+
 #ifndef CHROMECAST_CRASH_APP_STATE_TRACKER_H_
 #define CHROMECAST_CRASH_APP_STATE_TRACKER_H_
 

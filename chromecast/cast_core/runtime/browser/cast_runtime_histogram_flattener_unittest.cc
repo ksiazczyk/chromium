@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cast runtime histogram flattener unit tests
+// summary: Unit tests verifying histogram delta collection for empty, boolean, linear, percentage and enumeration histograms in an isolated recorder.
+// ---
+
 #include "chromecast/cast_core/runtime/browser/cast_runtime_histogram_flattener.h"
 
 #include <memory>

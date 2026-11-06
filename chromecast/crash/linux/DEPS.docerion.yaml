@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for chromecast/crash/linux
+summary: Defines the allowed include dependencies for the Chromecast Linux crash handling code, such as crashpad, metrics, and prefs.

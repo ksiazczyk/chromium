@@ -1,3 +1,12 @@
+---
+type: readme
+title: Cast Web Runtime introduction and local testing
+summary: Introduces the Cast Web Runtime and gives Googler-only instructions for building, running, and troubleshooting it locally.
+relations:
+  - references /components/metrics/metrics_state_manager.cc
+  - references /chromecast/cast_core/BUILD.gn
+---
+
 # Introduction
 
 This directory defines the Cast Web Runtime, an implementation of the

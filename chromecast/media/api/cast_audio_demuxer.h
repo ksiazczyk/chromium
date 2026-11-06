@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastAudioDemuxer interface
+// summary: Declares CastAudioDemuxer, which demuxes an audio container into config and buffers for the CMA backend with delegate callbacks.
+// ---
+
 #ifndef CHROMECAST_MEDIA_API_CAST_AUDIO_DEMUXER_H_
 #define CHROMECAST_MEDIA_API_CAST_AUDIO_DEMUXER_H_
 

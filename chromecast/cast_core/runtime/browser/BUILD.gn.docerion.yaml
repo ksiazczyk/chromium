@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the Cast Core runtime browser
+summary: Defines GN source sets for the Cast Core runtime browser, including metrics recorder, runtime service, and browser client targets with their dependencies.

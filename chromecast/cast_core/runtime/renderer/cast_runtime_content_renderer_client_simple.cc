@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Simple factory for Cast runtime renderer client
+// summary: Provides the CastContentRendererClient::Create factory that returns a CastRuntimeContentRendererClient instance.
+// ---
+
 #include "chromecast/cast_core/runtime/renderer/cast_runtime_content_renderer_client.h"
 
 #include <memory>

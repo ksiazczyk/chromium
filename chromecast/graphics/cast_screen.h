@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'CastScreen: minimal display::Screen for Chromecast'
+// summary: Declares CastScreen, Chromecast's minimal display::Screen implementation with primary display settings override and restore support.
+// ---
+
 #ifndef CHROMECAST_GRAPHICS_CAST_SCREEN_H_
 #define CHROMECAST_GRAPHICS_CAST_SCREEN_H_
 
