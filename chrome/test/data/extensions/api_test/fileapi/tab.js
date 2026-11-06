@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab script verifying shared filesystem access in the chrome.fileapi test
+// summary: Runs chrome.test checks in the tab, verifying the same filesystem image is accessible and cleaning up the created directory.
+// ---
+
 let fileSystem = null;
 
 function errorCallback(error) {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for copying entries in a service worker file system
+// summary: Runs chrome.test cases verifying that copying a file succeeds to a new destination and fails with InvalidModificationError when the destination exists.
+// ---
+
 import {catchError, mountTestFileSystem} from '/_test_resources/api_test/file_system_provider/service_worker/helpers.js';
 // For shared constants.
 import {TestFileSystemProvider} from '/_test_resources/api_test/file_system_provider/service_worker/provider.js';

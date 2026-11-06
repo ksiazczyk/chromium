@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: chrome.identity JS bindings tests for getRedirectURL
+// summary: Browser test that checks the chrome.identity JS bindings exist and verifies getRedirectURL output for paths, no path, and empty path.
+// ---
+
 const assertEq = chrome.test.assertEq;
 const assertTrue = chrome.test.assertTrue;
 const fail = chrome.test.fail;

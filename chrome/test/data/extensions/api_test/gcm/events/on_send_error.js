@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: on_send_error event test
+// summary: Listens for chrome.gcm.onSendError events and validates error details such as messageId, errorMessage, and totalMessages before succeeding.
+// ---
+
 onload = function() {
   chrome.test.runTests([
     function onSendError() {

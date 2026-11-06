@@ -1,0 +1,4 @@
+# Docerion header of stub.html.
+type: test
+title: Stub page for the unresponsive extension tests
+summary: Minimal stub HTML page opened in tabs and windows by the test cases to check notification behavior during configuration.

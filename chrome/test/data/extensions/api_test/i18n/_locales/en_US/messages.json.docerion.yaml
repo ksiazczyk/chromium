@@ -1,0 +1,4 @@
+# Docerion header of messages.json.
+type: test
+title: en_US locale messages for i18n API test
+summary: Defines English (en_US) messages, including placeholders and double dollar-sign cases, used as test data for the Chrome extension i18n API tests.

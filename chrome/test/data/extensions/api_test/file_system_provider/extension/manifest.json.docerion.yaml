@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for fileSystemProvider mount extension test
+summary: Manifest for a test extension that verifies chrome.fileSystemProvider.mount() works when invoked from an extension.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Generic MIME handler fallback test script
+// summary: Aborts MIME handling and falls back to the native handler when the frame is top-level or when the host page sends an abort message.
+// ---
+
 // When the embedder is the primary main frame, the OOPIF template is
 // the top frame and there is no host page to coordinate with -- just
 // auto-abort. When the embedder is an iframe, defer to the host page

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: on_message event test
+// summary: Registers a chrome.gcm.onMessage listener and verifies four message variants, checking from, collapseKey, and data payload fields before succeeding.
+// ---
+
 onload = function() {
   chrome.test.runTests([
     function onMessage() {

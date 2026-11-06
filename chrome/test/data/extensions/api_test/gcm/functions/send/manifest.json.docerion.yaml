@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: GCM send API test extension manifest
+summary: Manifest for the test extension used in browser tests of the chrome.gcm.send API, granting the gcm permission and loading send.js as a non-persistent background script.

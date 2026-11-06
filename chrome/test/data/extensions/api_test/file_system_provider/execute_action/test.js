@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for executing file system provider actions
+// summary: Runs chrome.test cases that execute an existing custom action successfully and verify failure handling for an unknown action via onExecuteActionRequested.
+// ---
+
 'use strict';
 
 let testUtil;

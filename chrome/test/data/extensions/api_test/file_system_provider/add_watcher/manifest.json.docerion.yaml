@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the fileSystemProvider addWatcher API test extension
+summary: Chrome extension manifest that defines the test app, its key, and fileSystemProvider permissions used by the onAddWatcherRequested browser test.

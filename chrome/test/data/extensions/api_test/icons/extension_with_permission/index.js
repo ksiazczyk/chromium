@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension icon loading test page script
+// summary: Loads extension icons at several sizes through the extension-icon scheme and checks their rendered dimensions, reporting success or failure via the document title.
+// ---
+
 const TEST_CASES = [
   // Tests loading a standard 128px icon.
   {

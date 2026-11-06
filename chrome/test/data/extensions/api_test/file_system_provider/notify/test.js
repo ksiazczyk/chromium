@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for chrome.fileSystemProvider.notify watcher events
+// summary: JavaScript test cases that add watchers, dispatch change notifications and verify directory changed events and watcher tags via chrome.test.
+// ---
+
 'use strict';
 
 let testUtil;

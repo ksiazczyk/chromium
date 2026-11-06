@@ -1,0 +1,4 @@
+# Docerion header of stub.html.
+type: test
+title: HTML stub for the provider test extension
+summary: Minimal HTML stub page shipped alongside the test extension's provider files.

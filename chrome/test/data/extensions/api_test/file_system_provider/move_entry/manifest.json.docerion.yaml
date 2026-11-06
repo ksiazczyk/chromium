@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the fileSystemProvider moveEntry test extension
+summary: Chrome extension manifest declaring permissions, file system provider capabilities, and the test.js background script for the onMoveEntryRequested API test.

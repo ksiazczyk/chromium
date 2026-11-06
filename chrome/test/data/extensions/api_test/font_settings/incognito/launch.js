@@ -5,6 +5,12 @@
 // Font settings API test for split mode (in incognito context)
 // Run with browser_tests --gtest_filter=ExtensionApiTest.FontSettingsIncognito
 
+// ---docerion
+// type: test
+// title: Font settings API incognito split mode tests
+// summary: Browser test script verifying the fontSettings API in an incognito context, checking that regular settings cannot be modified while reads and getFontList succeed.
+// ---
+
 const fs = chrome.fontSettings;
 
 const CONTROLLABLE_BY_THIS_EXTENSION = 'controllable_by_this_extension';

@@ -5,6 +5,12 @@
 // i18n api test
 // browser_tests.exe --gtest_filter=ExtensionApiTest.I18N --lib=browser_tests
 
+// ---docerion
+// type: test
+// title: chrome.i18n API browser test
+// summary: Browser test that verifies chrome.i18n behavior for getAcceptLanguages, getMessage, getUILanguage, and detectLanguage via chrome.test assertions.
+// ---
+
 const testCallback = chrome.test.testCallback;
 const callbackPass = chrome.test.callbackPass;
 

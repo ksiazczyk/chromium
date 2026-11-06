@@ -1,0 +1,4 @@
+# Docerion header of test.html.
+type: test
+title: HTML harness for the remove watcher test
+summary: Loads test.js as a module to run the remove watcher browser test.

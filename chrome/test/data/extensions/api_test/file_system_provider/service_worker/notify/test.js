@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for chrome.fileSystemProvider.notify
+// summary: Runs chrome.test cases that add a watcher and verify notify events and tag updates triggered from the service worker and the foreground page.
+// ---
+
 import {catchError, mountTestFileSystem, promisifyWithLastError, Queue, remoteProvider} from '/_test_resources/api_test/file_system_provider/service_worker/helpers.js';
 // For shared constants.
 import {TestFileSystemProvider} from '/_test_resources/api_test/file_system_provider/service_worker/provider.js';

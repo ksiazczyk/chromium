@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for unresponsive fileSystemProvider onConfigureRequested
+// summary: Runs chrome.test cases verifying that an unresponsive onConfigureRequested handler lets users abort via notification without UI and succeeds when a tab or window is open.
+// ---
+
 import {catchError, getVolumeInfo, promisifyWithLastError, ProviderProxy} from '/_test_resources/api_test/file_system_provider/service_worker/helpers.js';
 import {TestFileSystemProvider} from '/_test_resources/api_test/file_system_provider/service_worker/provider.js';
 

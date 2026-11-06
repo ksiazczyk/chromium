@@ -1,0 +1,4 @@
+# Docerion header of two_iframes_same_url.html.
+type: test
+title: Two Iframes Same URL
+summary: Test page with two same-URL PDF iframes that aborts one handler and keeps the other to verify per-frame fallback state.

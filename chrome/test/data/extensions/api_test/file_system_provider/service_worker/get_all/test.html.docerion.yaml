@@ -1,0 +1,4 @@
+# Docerion header of test.html.
+type: test
+title: HTML host page for the getAll test
+summary: Loads test.js as a module so the browser test runs in the extension's page.

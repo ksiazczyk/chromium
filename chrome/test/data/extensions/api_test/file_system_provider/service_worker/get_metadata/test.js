@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for fileSystemProvider getMetadata in service workers
+// summary: Runs chrome.test cases that read file and directory metadata via the test file system provider, checking sizes, modification times, error cases, and requested fields.
+// ---
+
 import {catchError, getMetadata, mountTestFileSystem, promisifyWithLastError, remoteProvider} from '/_test_resources/api_test/file_system_provider/service_worker/helpers.js';
 // For shared constants.
 import {TestFileSystemProvider} from '/_test_resources/api_test/file_system_provider/service_worker/provider.js';

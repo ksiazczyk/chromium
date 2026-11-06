@@ -5,6 +5,12 @@
 // History api test for Chrome.
 // browser_tests.exe --gtest_filter=HistoryExtensionApiTest.MiscSearch
 
+// ---docerion
+// type: test
+// title: chrome.history misc_search API test
+// summary: Browser test run as HistoryExtensionApiTest.MiscSearch that verifies chrome.history.search, covering basic search and maxResults-scoped search against populated history.
+// ---
+
 
 const SCRIPT_URL = '_test_resources/api_test/history/regular/common.js';
 const loadScript = chrome.test.loadScript(SCRIPT_URL);

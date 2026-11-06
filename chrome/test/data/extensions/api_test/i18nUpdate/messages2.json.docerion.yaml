@@ -1,0 +1,4 @@
+# Docerion header of messages2.json.
+type: test
+title: Updated i18n test messages fixture
+summary: Messages JSON supplying an updated testMessage value used to verify i18n message updates in the extension test.

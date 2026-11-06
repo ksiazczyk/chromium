@@ -1,6 +1,13 @@
 // Copyright 2022 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Test file system provider for service worker extension tests
+// summary: Mock file system provider used by the service worker API tests, simulating files, directories, actions, and blocking or error-prone open and read operations.
+// ---
+
 import {promisifyWithLastError, Queue} from '/_test_resources/api_test/file_system_provider/service_worker/helpers.js';
 
 /**

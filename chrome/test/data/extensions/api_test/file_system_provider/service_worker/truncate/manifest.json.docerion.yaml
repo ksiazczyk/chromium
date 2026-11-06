@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the onTruncateRequested service worker test extension
+summary: Extension manifest declaring the fileSystemProvider permissions, device source capabilities, and the sw.js module service worker for the truncate API test.

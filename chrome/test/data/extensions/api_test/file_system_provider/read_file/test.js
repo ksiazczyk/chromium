@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test for chrome.fileSystemProvider.onReadFileRequested
+// summary: Browser test that simulates a file system provider handling open and read requests, covering chunked reads, access-denied errors, and aborting of long reads.
+// ---
+
 'use strict';
 
 let testUtil;

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: glicPrivate test extension manifest
+summary: Manifest for the glicPrivate test extension, declaring glicPrivate permissions and a module service worker background page.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test cases for unresponsive onConfigureRequested handling
+// summary: Runs browser test cases verifying how configuration requests behave when the extension handler is unresponsive, with and without open UI.
+// ---
+
 'use strict';
 
 let testUtil;

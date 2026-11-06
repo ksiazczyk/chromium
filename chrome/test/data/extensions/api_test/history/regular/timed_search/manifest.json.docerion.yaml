@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: chrome.history test extension manifest
+summary: Manifest for the timed_search browser test extension, declaring the chrome.history permission and the timed_search.js service worker background.

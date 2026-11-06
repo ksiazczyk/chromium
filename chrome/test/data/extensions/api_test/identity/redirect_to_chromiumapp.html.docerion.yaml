@@ -1,0 +1,4 @@
+# Docerion header of redirect_to_chromiumapp.html.
+type: test
+title: Redirect target placeholder page
+summary: Minimal placeholder page served as the target of redirects to chromiumapp.org in identity API tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: chrome.hid API test background script
+// summary: Background script for the chrome.hid browser test app that enumerates and connects to mocked HID devices and exercises API behaviors such as filters, report IDs and send/receive.
+// ---
+
 const kInvalidDeviceId = -1;
 const kInvalidConnectionId = -1;
 

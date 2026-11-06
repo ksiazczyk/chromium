@@ -1,0 +1,4 @@
+# Docerion header of test.html.
+type: test
+title: HTML harness loading the move entry test script
+summary: Minimal HTML page that loads test.js as a module so the browser test can run.

@@ -1,0 +1,4 @@
+# Docerion header of index.html.
+type: test
+title: Test page for the extension icon API test
+summary: Minimal HTML page that loads index.js to run the extension icon browser test.

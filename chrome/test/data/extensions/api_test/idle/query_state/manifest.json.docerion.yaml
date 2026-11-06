@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the chrome.idle.queryState extension test
+summary: Manifest for the chrome.idle.queryState API test extension, registering test.js as a service worker and requesting the idle permission.

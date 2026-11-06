@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GCM send message default TTL test
+// summary: Extension test script that sends a GCM message without a TTL to verify the default TTL behavior.
+// ---
+
 const MESSAGE = {
   messageId: 'message-id',
   destinationId: 'destination-id',

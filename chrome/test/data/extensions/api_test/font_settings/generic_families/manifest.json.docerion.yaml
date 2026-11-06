@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Font Settings API test extension manifest
+summary: Manifest for the Font Settings API browser test extension, registering test.js as a service worker and requesting the fontSettings permission.

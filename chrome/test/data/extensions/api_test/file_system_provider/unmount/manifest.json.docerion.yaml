@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the fileSystemProvider.unmount test extension
+summary: Chrome extension manifest declaring the permissions, file system provider capabilities, and background script used by the unmount API test.

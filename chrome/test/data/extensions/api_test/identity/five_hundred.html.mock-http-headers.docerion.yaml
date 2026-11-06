@@ -1,0 +1,4 @@
+# Docerion header of five_hundred.html.mock-http-headers.
+type: test
+title: Mock headers for 500 error response
+summary: Mock HTTP response headers that deliver five_hundred.html with a 500 Internal Server Error status for identity API tests.

@@ -1,0 +1,4 @@
+# Docerion header of redirect_to_chromiumapp.html.mock-http-headers.
+type: test
+title: Mock headers for chromiumapp redirect
+summary: Mock HTTP response headers that answer with a 302 redirect to the chromiumapp.org callback URL for identity API tests.

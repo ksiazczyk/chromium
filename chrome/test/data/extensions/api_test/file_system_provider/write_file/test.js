@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: fileSystemProvider onWriteFileRequested API test
+// summary: Registers provider event handlers that simulate writing file contents and tests success, error, and unresponsive-provider scenarios.
+// ---
+
 'use strict';
 
 let testUtil;

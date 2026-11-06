@@ -5,6 +5,12 @@
 // History api test for Chrome.
 // browser_tests.exe --gtest_filter=HistoryExtensionApiTest.SearchAfterAdd
 
+// ---docerion
+// type: test
+// title: chrome.history search after add test
+// summary: Browser test that clears history, adds a URL via chrome.history.addUrl, and verifies it appears in chrome.history.search results.
+// ---
+
 const SCRIPT_URL = '_test_resources/api_test/history/regular/common.js';
 const loadScript = chrome.test.loadScript(SCRIPT_URL);
 

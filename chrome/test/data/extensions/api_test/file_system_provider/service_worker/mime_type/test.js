@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for MIME type based file task handling
+// summary: Browser tests verifying that a file with a custom MIME type appears in the task list and launches its handler app, while a file without a MIME type gets no tasks.
+// ---
+
 import {mountTestFileSystem, promisifyWithLastError, remoteProvider} from '/_test_resources/api_test/file_system_provider/service_worker/helpers.js';
 
 /**

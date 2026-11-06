@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test script for unresponsive onConfigureRequested
+// summary: Registers a delayed configure-request handler and runs test cases verifying abort notifications and window behavior when the app is unresponsive.
+// ---
+
 'use strict';
 
 let testUtil;

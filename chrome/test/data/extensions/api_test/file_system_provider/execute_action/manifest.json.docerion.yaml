@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the onExecuteActionRequested API test extension
+summary: Manifest defining the test extension that exercises chrome.fileSystemProvider.onExecuteActionRequested, with fileSystemProvider and fileManagerPrivate permissions and test.js as background script.

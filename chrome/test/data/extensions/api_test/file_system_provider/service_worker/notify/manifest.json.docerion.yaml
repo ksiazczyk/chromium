@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the fileSystemProvider.notify service worker test extension
+summary: Manifest.json defining the test extension chrome.fileSystemProvider.notify with fileSystemProvider permissions and a module service worker sw.js.

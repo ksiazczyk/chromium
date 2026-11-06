@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest of the fullscreen no-permission API test app
+summary: Declares a Chrome app with no permissions that is used to verify fullscreen access is denied to apps lacking the permission.

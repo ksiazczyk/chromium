@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GCM send function browser test
+// summary: Runs chrome.test scenarios that verify successful and failed chrome.gcm.send calls across TTL, message ID, destination ID, data key, and message size validation rules.
+// ---
+
 function createMessage() {
   return {
     messageId: 'message-id',

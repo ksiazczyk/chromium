@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for removing file system provider entry watchers
+// summary: Runs chrome.test cases that add and remove entry watchers and verify removal behavior, including non-existing and error-returning provider cases.
+// ---
+
 import {catchError, getAllFsInfos, mountTestFileSystem, promisifyWithLastError, remoteProvider} from '/_test_resources/api_test/file_system_provider/service_worker/helpers.js';
 import {TestFileSystemProvider} from '/_test_resources/api_test/file_system_provider/service_worker/provider.js';
 

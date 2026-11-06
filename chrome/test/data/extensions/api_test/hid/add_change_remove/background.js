@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HID add/change/remove test background script
+// summary: Background script for a browser test extension that listens for chrome.hid device added, changed, and removed events and reports results via test messages.
+// ---
+
 let deviceId = null;
 
 const onDeviceChanged = (response) => {

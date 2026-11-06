@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the fileSystemProvider big file test
+summary: Manifest for a Chrome extension used to test reading very large files with chrome.fileSystemProvider.

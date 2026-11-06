@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MIME handler API test script
+// summary: Runs chrome.test checks on mimeHandler.getStreamInfo, setMimeHandlerOptions and fetching the PDF stream, including header and magic-number assertions.
+// ---
+
 chrome.test.runTests([
   async function getStreamInfoAndFetchStream() {
     const info = await chrome.mimeHandler.getStreamInfo();

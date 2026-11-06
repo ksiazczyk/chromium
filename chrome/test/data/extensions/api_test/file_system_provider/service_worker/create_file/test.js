@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for creating files via fileSystemProvider
+// summary: Runs chrome.test cases verifying that creating a new file succeeds, non-exclusive creation of an existing file succeeds, and exclusive creation fails with InvalidModificationError.
+// ---
+
 import {catchError, mountTestFileSystem, remoteProvider} from '/_test_resources/api_test/file_system_provider/service_worker/helpers.js';
 
 /**

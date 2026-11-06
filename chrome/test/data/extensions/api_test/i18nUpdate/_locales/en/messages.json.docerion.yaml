@@ -1,0 +1,4 @@
+# Docerion header of messages.json.
+type: test
+title: i18n update test locale messages (en)
+summary: Defines the testMessage string used by the i18n update extension API test for the English locale.

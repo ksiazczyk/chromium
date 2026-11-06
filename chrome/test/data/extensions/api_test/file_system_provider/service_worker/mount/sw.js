@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker entry for the fileSystemProvider mount test
+// summary: Service worker that starts the shared fileSystemProvider test provider via serviceWorkerMain for the mount test.
+// ---
+
 import {serviceWorkerMain} from '/_test_resources/api_test/file_system_provider/service_worker/provider.js';
 
 serviceWorkerMain(self);

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test extension manifest with geolocation permission
+summary: Manifest for the geolocation access API test extension, declaring a background script and the geolocation permission.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for chrome.fileSystemProvider.onCreateDirectoryRequested
+// summary: Browser test that simulates directory creation in a mounted file system provider, checking successful creation and the error case when the directory already exists.
+// ---
+
 'use strict';
 
 let testUtil;

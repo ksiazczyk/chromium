@@ -1,0 +1,4 @@
+# Docerion header of stub.html.
+type: test
+title: Stub page for the unresponsive app test
+summary: Minimal HTML stub page opened as an app window by the test to check behavior when a window is present during configuration.

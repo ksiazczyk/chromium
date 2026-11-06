@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Help app test extension manifest
+summary: Manifest for a fake Chrome OS Help test extension, defining its name, version, key and incognito behavior for API tests.

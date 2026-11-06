@@ -1,6 +1,13 @@
 // Copyright 2022 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Service worker tests for chrome.fileSystemProvider.onReadFileRequested
+// summary: Runs chrome.test cases covering successful file reads, opened file limits, read errors, and aborting reads via the file system provider API.
+// ---
+
 import {catchError, mountTestFileSystem, openFile, readTextFromBlob, remoteProvider, startReadTextFromBlob} from '/_test_resources/api_test/file_system_provider/service_worker/helpers.js';
 // For shared constants.
 import {TestFileSystemProvider} from '/_test_resources/api_test/file_system_provider/service_worker/provider.js';

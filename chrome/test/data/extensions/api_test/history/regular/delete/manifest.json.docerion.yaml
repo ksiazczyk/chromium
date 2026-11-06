@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: chrome.history delete test extension manifest
+summary: Manifest for the chrome.history delete test extension, granting the history permission and registering delete.js as its service worker.

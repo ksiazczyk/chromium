@@ -1,6 +1,13 @@
 // Copyright 2022 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Tests for reading directory entries via fileSystemProvider in a service worker
+// summary: Mounts a test file system, adds sample files and directories, and verifies successful readEntries results plus a NotFoundError when reading a non-existent directory.
+// ---
+
 import {catchError, mountTestFileSystem, remoteProvider} from '/_test_resources/api_test/file_system_provider/service_worker/helpers.js';
 
 const TESTING_HELLO_DIR = Object.freeze({

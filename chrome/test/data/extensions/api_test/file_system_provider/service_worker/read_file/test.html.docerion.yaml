@@ -1,0 +1,4 @@
+# Docerion header of test.html.
+type: test
+title: HTML harness loading the read file test
+summary: Minimal HTML page that loads the test script as a module for the browser test harness.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Evil edge-case tests for fileSystemProvider onReadFileRequested
+// summary: Browser test script that exercises chrome.fileSystemProvider.onReadFileRequested with hostile cases such as oversized chunks, invalid callbacks, negative sizes and relative paths.
+// ---
+
 'use strict';
 
 let testUtil;

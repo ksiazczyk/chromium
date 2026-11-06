@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the fileSystemProvider onDeleteEntryRequested test extension
+summary: Manifest defining the test extension that exercises chrome.fileSystemProvider.onDeleteEntryRequested, including its permissions and test.js background script.

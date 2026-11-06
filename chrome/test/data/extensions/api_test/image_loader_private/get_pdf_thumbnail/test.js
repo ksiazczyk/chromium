@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for chrome.imageLoaderPrivate.getPdfThumbnail
+// summary: Runs browser tests covering successful PDF thumbnail retrieval, utility sandbox handling, nonexistent files, and wrong URL schemes.
+// ---
+
 function testGetPdfThumbnail() {
   chrome.imageLoaderPrivate.getPdfThumbnail(
       'filesystem:chrome-extension://dflhahjnheihhcfhnhcflfdgacjoocip/' +

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test extension manifest for onConfigureRequested
+summary: Manifest for the test extension used by the fileSystemProvider configure API test, declaring configurable provider capabilities, permissions, and the background test script.

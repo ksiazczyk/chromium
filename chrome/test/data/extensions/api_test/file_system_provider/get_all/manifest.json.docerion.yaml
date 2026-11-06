@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the chrome.fileSystemProvider.getAll test extension
+summary: Manifest defining the test app used to exercise chrome.fileSystemProvider.getAll(), including its permissions, file system provider capabilities, and test.js background script.

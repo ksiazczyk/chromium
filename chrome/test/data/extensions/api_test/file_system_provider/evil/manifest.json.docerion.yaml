@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for fileSystemProvider evil edge-case test extension
+summary: Chrome extension manifest declaring the evil edge-case test extension for chrome.fileSystemProvider.onReadFileRequested, its permissions and background script.

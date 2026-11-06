@@ -1,0 +1,4 @@
+# Docerion header of test.html.
+type: test
+title: HTML harness for the thumbnail API test
+summary: Loads test.js as a module so the thumbnail API browser test can run.

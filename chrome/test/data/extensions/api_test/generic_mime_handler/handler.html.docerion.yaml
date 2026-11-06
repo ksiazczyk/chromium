@@ -1,0 +1,4 @@
+# Docerion header of handler.html.
+type: test
+title: PDF Handler
+summary: Handler page that loads handler.js for the generic MIME handler extension test.

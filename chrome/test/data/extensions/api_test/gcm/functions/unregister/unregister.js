@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GCM unregister API browser tests
+// summary: Runs chrome.test cases that register sender IDs, call chrome.gcm.unregister, and verify success plus server error handling.
+// ---
+
 chrome.test.runTests([
   function testUnregister() {
     const senderIds = ['Sender1', 'Sender2'];

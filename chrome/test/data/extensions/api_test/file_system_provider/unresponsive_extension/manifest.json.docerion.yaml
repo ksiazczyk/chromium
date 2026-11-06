@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the unresponsive onConfigureRequested test extension
+summary: Manifest defining a test extension whose unresponsive fileSystemProvider configuration handler is exercised by the API tests.

@@ -1,0 +1,4 @@
+# Docerion header of handler.html.
+type: test
+title: Generic MIME Handler Embeddable Test
+summary: HTML page of the embeddable MIME handler test extension that loads handler.js for the browser test.

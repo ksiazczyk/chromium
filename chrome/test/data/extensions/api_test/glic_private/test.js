@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: glicPrivate API test runner
+// summary: Browser test script for the chrome.glicPrivate API that dispatches test cases by mode, covering states such as fully enabled, disabled, invoke, and account mismatch.
+// ---
+
 import {openTab} from '/_test_resources/test_util/tabs_util.js';
 
 (async () => {

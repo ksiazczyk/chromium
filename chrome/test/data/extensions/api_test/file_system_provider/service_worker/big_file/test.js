@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser test reading a big file past the 32-bit offset
+// summary: Browser test that mounts the test file system and reads a file at an offset beyond the unsigned 32-bit maximum, verifying onReadFileRequested receives the correct offset.
+// ---
+
 import {mountTestFileSystem, openFile, readTextFromBlob, remoteProvider} from '/_test_resources/api_test/file_system_provider/service_worker/helpers.js';
 // For shared constants.
 import {TestFileSystemProvider} from '/_test_resources/api_test/file_system_provider/service_worker/provider.js';

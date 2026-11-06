@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the chrome.i18n API test extension
+summary: Manifest v3 extension manifest that sets up the chrome.i18n end-to-end browser test with a test.js service worker and an a.js content script.

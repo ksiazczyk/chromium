@@ -5,6 +5,12 @@
 // History api test for Chrome.
 // browser_tests.exe --gtest_filter=HistoryApiTest.DeleteProhibited
 
+// ---docerion
+// type: test
+// title: Browser test that history deletion is prohibited
+// summary: Runs chrome.history deleteUrl, deleteRange and deleteAll tests that expect an error and verify no history items are removed.
+// ---
+
 const PROHIBITED_ERR = 'Browsing history is not allowed to be deleted.';
 
 function deleteProhibitedTestVerification() {

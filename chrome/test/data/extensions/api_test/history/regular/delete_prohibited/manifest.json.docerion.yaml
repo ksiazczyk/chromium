@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the delete prohibited history test extension
+summary: Manifest v3 fixture declaring the chrome.history permission and a service worker background that runs the delete prohibited test.
