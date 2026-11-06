@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DRM GPU utility function declarations
+// summary: Declares controller configuration parameters and helper functions for DRM properties, gamma LUT and color matrix blobs, and CRTC-connector permutations.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_DRM_GPU_DRM_GPU_UTIL_H_
 #define UI_OZONE_PLATFORM_DRM_GPU_DRM_GPU_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ozone platform implementation for Cast
+// summary: Implements OzonePlatformCast, wiring up surface factory, overlay manager, input, and window support for Cast devices via the CastEglPlatform interface.
+// ---
+
 #include "ui/ozone/platform/cast/ozone_platform_cast.h"
 
 #include <memory>

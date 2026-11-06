@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FlatlandGpuService implementation
+// summary: Implements the GPU-process mojo service that fuses the ScenicGpuHost remote and receiver so the browser and GPU process can exchange Flatland resources.
+// ---
+
 #include "ui/ozone/platform/flatland/flatland_gpu_service.h"
 
 #include "base/functional/bind.h"

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the DRM platform test directory
+summary: Defines include rules for the DRM platform test directory, allowing third_party/libdrm and the ui_controls_aura test header.

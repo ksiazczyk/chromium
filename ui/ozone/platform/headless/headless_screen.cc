@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Headless screen implementation
+// summary: Implements the headless PlatformScreen, building the display list from the --ozone-override-screen-size and --screen-info command line switches.
+// ---
+
 #include "ui/ozone/platform/headless/headless_screen.h"
 
 #include <string_view>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock DRM device header
+// summary: Declares MockDrmDevice, a gmockable FakeDrmDevice subclass providing a stub GBM device and mockable CommitProperties for tests.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_DRM_GPU_MOCK_DRM_DEVICE_H_
 #define UI_OZONE_PLATFORM_DRM_GPU_MOCK_DRM_DEVICE_H_
 

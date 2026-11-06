@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DRM device class declaration
+// summary: Declares DrmDevice, a thread-safe DRM wrapper that schedules page flips, commits properties, and owns the plane manager and GBM device.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_DRM_GPU_DRM_DEVICE_H_
 #define UI_OZONE_PLATFORM_DRM_GPU_DRM_DEVICE_H_
 

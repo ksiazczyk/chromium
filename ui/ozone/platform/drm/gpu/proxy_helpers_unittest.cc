@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Proxy helpers unit tests
+// summary: Unit tests verifying that PostSyncTask and the safe callback helpers deliver callbacks on the correct thread across a simulated DRM thread.
+// ---
+
 #include "ui/ozone/platform/drm/gpu/proxy_helpers.h"
 
 #include <memory>

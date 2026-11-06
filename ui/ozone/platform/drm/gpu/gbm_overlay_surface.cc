@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GbmOverlaySurface implementation
+// summary: Implements the GBM overlay surface that submits overlay plane frames via DRM page flips and routes submission, presentation and release callbacks.
+// ---
+
 #include "ui/ozone/platform/drm/gpu/gbm_overlay_surface.h"
 
 #include <unistd.h>

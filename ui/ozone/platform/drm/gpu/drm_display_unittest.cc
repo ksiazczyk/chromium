@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DrmDisplay unit tests
+// summary: Unit tests for DrmDisplay built on a fake DRM device, covering display info construction, tiled displays, and display mode handling.
+// ---
+
 #include "ui/ozone/platform/drm/gpu/drm_display.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CRTC controller implementation
+// summary: Implements CrtcController, which assigns overlay planes, queries format modifiers, handles tiled offsets, and sets or moves the hardware cursor for a CRTC.
+// ---
+
 #include "ui/ozone/platform/drm/gpu/crtc_controller.h"
 
 #include <memory>

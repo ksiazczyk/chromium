@@ -1,0 +1,4 @@
+# Docerion header of device_cursor.mojom.
+type: source
+title: DeviceCursor Mojo interface definition
+summary: Defines the DeviceCursor Mojo interface that sets and moves cursor bitmaps on a window for a Mojo-enabled Ozone DRM platform.

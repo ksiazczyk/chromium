@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Surfaceless Skia GL renderer class declaration
+// summary: Declares the SurfacelessSkiaGlRenderer, a SkiaGlRenderer subclass that renders into buffers presented by a GL presenter with overlay support.
+// ---
+
 #ifndef UI_OZONE_DEMO_SKIA_SKIA_SURFACELESS_GL_RENDERER_H_
 #define UI_OZONE_DEMO_SKIA_SKIA_SURFACELESS_GL_RENDERER_H_
 

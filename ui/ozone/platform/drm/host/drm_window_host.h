@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DrmWindowHost class declaration
+// summary: Declares DrmWindowHost, a PlatformWindow and PlatformEventDispatcher that synchronizes window state between the browser and GPU processes using a shared widget handle.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_DRM_HOST_DRM_WINDOW_HOST_H_
 #define UI_OZONE_PLATFORM_DRM_HOST_DRM_WINDOW_HOST_H_
 

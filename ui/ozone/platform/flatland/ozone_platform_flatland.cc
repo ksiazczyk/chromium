@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Flatland Ozone platform implementation
+// summary: Implements OzonePlatformFlatland, wiring together the surface factory, GPU host and service, window manager, input, cursor, and overlay components of the Flatland platform.
+// ---
+
 #include "ui/ozone/platform/flatland/ozone_platform_flatland.h"
 
 #include <fidl/fuchsia.ui.views/cpp/hlcpp_conversion.h>

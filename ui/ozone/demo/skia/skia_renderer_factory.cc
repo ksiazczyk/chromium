@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skia renderer factory implementation
+// summary: Implements the renderer factory that initializes GL and creates either a surfaceless or a regular Skia GL renderer for demo windows.
+// ---
+
 #include "ui/ozone/demo/skia/skia_renderer_factory.h"
 
 #include <memory>

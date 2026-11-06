@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DrmThreadProxy implementation
+// summary: Implements DrmThreadProxy, which starts the DRM thread with a GBM device generator and posts buffer creation and overlay capability requests to it.
+// ---
+
 #include "ui/ozone/platform/drm/gpu/drm_thread_proxy.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DrmCursor implementation
+// summary: Implements cursor state management for the DRM Ozone platform, using an injected proxy to send cursor set, move, show, and hide commands across UI and evdev threads.
+// ---
+
 #include "ui/ozone/platform/drm/host/drm_cursor.h"
 
 #include <memory>

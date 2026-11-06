@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Flatland GPU host implementation
+// summary: Implements the browser-side GPU platform support host that binds the Scenic GPU service over mojo and attaches surface viewport tokens to Flatland windows.
+// ---
+
 #include "ui/ozone/platform/flatland/flatland_gpu_host.h"
 
 #include <inttypes.h>

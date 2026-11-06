@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared display type aliases
+// summary: Header defining type aliases such as MovableDisplaySnapshots, EventPropertyMap, and EDID-to-snapshot maps shared across the DRM ozone platform code.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_DRM_COMMON_DISPLAY_TYPES_H_
 #define UI_OZONE_PLATFORM_DRM_COMMON_DISPLAY_TYPES_H_
 

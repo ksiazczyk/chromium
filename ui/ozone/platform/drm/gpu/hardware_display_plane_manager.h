@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HardwareDisplayPlaneManager class declaration
+// summary: Declares HardwareDisplayPlaneManager and HardwareDisplayPlaneList, managing DRM planes, CRTC properties and per-display color management state.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_DRM_GPU_HARDWARE_DISPLAY_PLANE_MANAGER_H_
 #define UI_OZONE_PLATFORM_DRM_GPU_HARDWARE_DISPLAY_PLANE_MANAGER_H_
 

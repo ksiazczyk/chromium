@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DrmDeviceConnector implementation
+// summary: Implements the GpuPlatformSupportHost glue that binds the DrmDevice mojo interface when the GPU service launches and notifies HostDrmDevice on channel loss.
+// ---
+
 #include "ui/ozone/platform/drm/host/drm_device_connector.h"
 
 #include <utility>

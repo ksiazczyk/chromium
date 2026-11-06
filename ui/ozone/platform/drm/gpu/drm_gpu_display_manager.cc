@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DrmGpuDisplayManager implementation
+// summary: Implements DrmGpuDisplayManager, which refreshes connected displays, takes or relinquishes display control, and applies configuration, HDCP, and color settings.
+// ---
+
 #include "ui/ozone/platform/drm/gpu/drm_gpu_display_manager.h"
 
 #include <stddef.h>

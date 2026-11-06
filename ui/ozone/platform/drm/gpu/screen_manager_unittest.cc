@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScreenManager unit tests
+// summary: Unit tests for ScreenManager covering display controller configuration, window mapping, and modeset behavior using a fake DRM device and mock GBM device.
+// ---
+
 #include "ui/ozone/platform/drm/gpu/screen_manager.h"
 
 #include <drm_fourcc.h>

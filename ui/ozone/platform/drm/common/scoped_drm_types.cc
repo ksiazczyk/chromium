@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped DRM type deleters implementation
+// summary: Implements deleter functors that free DRM mode resources such as connectors, CRTCs, encoders, planes, properties, and framebuffers for use with unique_ptr wrappers.
+// ---
+
 #include "ui/ozone/platform/drm/common/scoped_drm_types.h"
 
 #include <stdint.h>  // required by xf86drmMode.h

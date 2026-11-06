@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HostCursorProxy implementation
+// summary: Implements mouse pointer control by routing CursorSet and Move calls over Mojo IPC to either the main UI thread or evdev thread DeviceCursor remotes.
+// ---
+
 #include "ui/ozone/platform/drm/host/host_cursor_proxy.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DRM render node path finder class declaration
+// summary: Declares DrmRenderNodePathFinder and DrmRenderNodeCandidate for locating a DRM render node device and selecting the best candidate path.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_COMMON_DRM_RENDER_NODE_PATH_FINDER_H_
 #define UI_OZONE_PLATFORM_WAYLAND_COMMON_DRM_RENDER_NODE_PATH_FINDER_H_
 

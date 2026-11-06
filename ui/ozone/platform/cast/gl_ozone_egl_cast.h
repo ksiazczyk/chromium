@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GLOzoneEglCast class declaration
+// summary: Declares the EGL GL implementation class for the Cast Ozone platform, including surface creation, native window and display resize methods.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_CAST_GL_OZONE_EGL_CAST_H_
 #define UI_OZONE_PLATFORM_CAST_GL_OZONE_EGL_CAST_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Flatland overlay manager class declaration
+// summary: Declares OverlayManagerFlatland, an OverlayManagerOzone that creates overlay candidate evaluators for the Flatland platform.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_FLATLAND_OVERLAY_MANAGER_FLATLAND_H_
 #define UI_OZONE_PLATFORM_FLATLAND_OVERLAY_MANAGER_FLATLAND_H_
 

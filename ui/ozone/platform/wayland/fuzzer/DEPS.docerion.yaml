@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the Wayland fuzzer
+summary: Restricts includes in the Wayland fuzzer directory, allowing only the mojo/core/embedder dependency.

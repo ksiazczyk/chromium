@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DrmWindowHost implementation
+// summary: Implements the host-side platform window for the Ozone DRM platform, dispatching platform events and propagating window state, capture, and cursor changes to the GPU process.
+// ---
+
 #include "ui/ozone/platform/drm/host/drm_window_host.h"
 
 #include "base/functional/bind.h"

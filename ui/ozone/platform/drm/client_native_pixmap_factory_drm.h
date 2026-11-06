@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DRM client native pixmap factory header
+// summary: Declares the CreateClientNativePixmapFactoryDrm constructor hook used by the Ozone platform constructor list.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_DRM_CLIENT_NATIVE_PIXMAP_FACTORY_DRM_H_
 #define UI_OZONE_PLATFORM_DRM_CLIENT_NATIVE_PIXMAP_FACTORY_DRM_H_
 

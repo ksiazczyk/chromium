@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FlatlandSysmemBufferCollection implementation
+// summary: Implements FlatlandSysmemBufferCollection, including sysmem buffer layout calculation, Vulkan buffer collection setup and native pixmap creation.
+// ---
+
 #include "ui/ozone/platform/flatland/flatland_sysmem_buffer_collection.h"
 
 #include <fuchsia/sysmem/cpp/fidl.h>

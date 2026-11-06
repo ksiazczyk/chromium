@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window manager implementation for Ozone demo
+// summary: Implements WindowManager, which configures displays via NativeDisplayDelegate and creates demo windows for each display, with a fallback test window.
+// ---
+
 #include "ui/ozone/demo/window_manager.h"
 
 #include <memory>

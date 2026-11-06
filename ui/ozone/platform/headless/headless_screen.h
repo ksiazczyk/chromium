@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HeadlessScreen class declaration
+// summary: Declares the HeadlessScreen class, which implements PlatformScreen and the HeadlessScreenManager delegate for display management in the headless platform.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_HEADLESS_HEADLESS_SCREEN_H_
 #define UI_OZONE_PLATFORM_HEADLESS_HEADLESS_SCREEN_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GBM Vulkan implementation
+// summary: Implements Vulkan support over GBM for the DRM Ozone platform, initializing the Vulkan instance and managing external fences and device extensions.
+// ---
+
 #include "ui/ozone/platform/drm/gpu/vulkan_implementation_gbm.h"
 
 #include <memory>

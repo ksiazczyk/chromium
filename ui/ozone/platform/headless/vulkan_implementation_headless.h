@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Headless Vulkan implementation declaration
+// summary: Declares VulkanImplementationHeadless, the gpu::VulkanImplementation for headless mode covering instance setup, surfaces and device extensions.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_HEADLESS_VULKAN_IMPLEMENTATION_HEADLESS_H_
 #define UI_OZONE_PLATFORM_HEADLESS_VULKAN_IMPLEMENTATION_HEADLESS_H_
 

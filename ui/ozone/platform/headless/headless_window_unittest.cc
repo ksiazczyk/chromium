@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HeadlessWindow destruction regression tests
+// summary: Unit tests verifying HeadlessWindow does not crash when a delegate observer synchronously destroys the window during fullscreen or window-state-change callbacks.
+// ---
+
 #include "ui/ozone/platform/headless/headless_window.h"
 
 #include <memory>

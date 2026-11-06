@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DRM overlay candidates implementation
+// summary: Implements the Ozone overlay candidates interface by delegating overlay support checks and hardware capability observation to the DRM overlay manager.
+// ---
+
 #include "ui/ozone/platform/drm/gpu/drm_overlay_candidates.h"
 
 #include "media/media_buildflags.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DRM device manager implementation
+// summary: Implements DrmDeviceManager, which adds and removes DRM devices and maps accelerated widgets to their DRM device, falling back to the primary device.
+// ---
+
 #include "ui/ozone/platform/drm/gpu/drm_device_manager.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GbmSurfaceless class declaration
+// summary: Declares the GbmSurfaceless presenter that draws directly through NativePixmap buffers with pending frame queues and fence-based synchronization.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_DRM_GPU_GBM_SURFACELESS_H_
 #define UI_OZONE_PLATFORM_DRM_GPU_GBM_SURFACELESS_H_
 

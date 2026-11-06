@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DRM overlay candidates class declaration
+// summary: Declares DrmOverlayCandidates, an OverlayCandidatesOzone implementation that forwards overlay decisions to DrmOverlayManager for a widget.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_DRM_GPU_DRM_OVERLAY_CANDIDATES_H_
 #define UI_OZONE_PLATFORM_DRM_GPU_DRM_OVERLAY_CANDIDATES_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Flatland directory metadata
+summary: Points the directory's metadata to the common Fuchsia metadata mixins in build/fuchsia/COMMON_METADATA.

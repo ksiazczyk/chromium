@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Headless window implementation
+// summary: Implements the headless PlatformWindow, handling bounds, visibility, capture, fullscreen, maximize, minimize, restore, and activation state changes.
+// ---
+
 #include "ui/ozone/platform/headless/headless_window.h"
 
 #include <string>

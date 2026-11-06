@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Surface factory for the Cast Ozone platform
+// summary: Implements SurfaceFactoryCast, providing EGL GL support, a dummy software canvas for headless mode, and stub native pixmap creation for Cast.
+// ---
+
 #include "ui/ozone/platform/cast/surface_factory_cast.h"
 
 #include <memory>

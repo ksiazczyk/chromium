@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VKMS-based DRM display integration tests
+// summary: Contains gtest cases that use the VKMS virtual DRM driver to exercise display configuration, page flips, and buffer recreation via the DRM thread proxy.
+// ---
+
 #include <vector>
 
 #include "base/run_loop.h"

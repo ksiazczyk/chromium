@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DrmFramebuffer implementation
+// summary: Implements DrmFramebuffer, registering buffers with the KMS API via AddFramebuffer2, including an opaque-format workaround for some display controllers.
+// ---
+
 #include "ui/ozone/platform/drm/gpu/drm_framebuffer.h"
 
 #include <algorithm>

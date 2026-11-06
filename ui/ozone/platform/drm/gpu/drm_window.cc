@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DrmWindow implementation
+// summary: Implements the GPU-side window object that ties drawing surfaces to display controllers and manages bounds, the hardware cursor, and page flip scheduling.
+// ---
+
 #include "ui/ozone/platform/drm/gpu/drm_window.h"
 
 #include <stddef.h>

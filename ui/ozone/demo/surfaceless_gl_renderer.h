@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SurfacelessGlRenderer class declaration
+// summary: Declares the surfaceless GL renderer, including its BufferWrapper class for pixmap-backed buffers and overlay plane state.
+// ---
+
 #ifndef UI_OZONE_DEMO_SURFACELESS_GL_RENDERER_H_
 #define UI_OZONE_DEMO_SURFACELESS_GL_RENDERER_H_
 

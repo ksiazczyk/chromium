@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DrmFramebuffer class header
+// summary: Declares DrmFramebuffer, a scanout-capable DRM buffer abstraction with framebuffer IDs, pixel formats, format modifiers, and size accessors.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_DRM_GPU_DRM_FRAMEBUFFER_H_
 #define UI_OZONE_PLATFORM_DRM_GPU_DRM_FRAMEBUFFER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wayland buffer manager unit tests
+// summary: Unit tests for the Wayland buffer manager covering buffer creation, submission, presentation feedback, and dmabuf handling across GPU and host processes.
+// ---
+
 #include <drm_fourcc.h>
 #include <errno.h>
 #include <overlay-prioritizer-client-protocol.h>

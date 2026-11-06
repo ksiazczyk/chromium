@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform window for the Cast Ozone platform
+// summary: Implements PlatformWindowCast, a stub window that computes an accelerated widget from bounds and dispatches platform events to its delegate.
+// ---
+
 #include "ui/ozone/platform/cast/platform_window_cast.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DrmCursor class and DrmCursorProxy interface
+// summary: Declares DrmCursor, which manages cursor state and semantics as a CursorDelegateEvdev, plus the DrmCursorProxy interface used to communicate with the GPU process or thread.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_DRM_HOST_DRM_CURSOR_H_
 #define UI_OZONE_PLATFORM_DRM_HOST_DRM_CURSOR_H_
 

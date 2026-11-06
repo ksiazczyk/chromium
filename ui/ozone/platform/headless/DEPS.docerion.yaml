@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Headless Ozone platform include rules
+summary: DEPS file listing the include dependencies allowed for code in the headless Ozone platform directory, such as Skia and headless display utilities.

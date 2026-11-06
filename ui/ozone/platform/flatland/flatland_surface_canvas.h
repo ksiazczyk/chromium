@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FlatlandSurfaceCanvas class declaration
+// summary: Declares the SurfaceOzoneCanvas implementation for Flatland windows using three shared-memory frame buffers with release fences and dirty regions.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_FLATLAND_FLATLAND_SURFACE_CANVAS_H_
 #define UI_OZONE_PLATFORM_FLATLAND_FLATLAND_SURFACE_CANVAS_H_
 

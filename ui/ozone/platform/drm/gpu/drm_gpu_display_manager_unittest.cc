@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DrmGpuDisplayManager unit tests
+// summary: Unit tests for the DRM GPU display manager, exercising display configuration with fake DRM devices, mock EDID monitor data, and histogram and feature testing.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_DRM_GPU_DRM_GPU_DISPLAY_MANAGER_UNITTEST_CC_
 #define UI_OZONE_PLATFORM_DRM_GPU_DRM_GPU_DISPLAY_MANAGER_UNITTEST_CC_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Flatland Ozone platform build configuration
+summary: GN build file defining the flatland source set and its unit test target, listing sources, defines, and dependencies for the Fuchsia Flatland Ozone platform.

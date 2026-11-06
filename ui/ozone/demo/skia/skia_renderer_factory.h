@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skia renderer factory class declaration
+// summary: Declares the SkiaRendererFactory, which initializes GL and creates Skia-based renderers for the Ozone demo.
+// ---
+
 #ifndef UI_OZONE_DEMO_SKIA_SKIA_RENDERER_FACTORY_H_
 #define UI_OZONE_DEMO_SKIA_SKIA_RENDERER_FACTORY_H_
 

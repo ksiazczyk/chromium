@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ozone Wayland platform implementation
+// summary: Implements the OzonePlatformWayland class, wiring up the Wayland connection, cursor, clipboard, input method, buffer manager, and GPU platform support.
+// ---
+
 #include "ui/ozone/platform/wayland/ozone_platform_wayland.h"
 
 #include <memory>

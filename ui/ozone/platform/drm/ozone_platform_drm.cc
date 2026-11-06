@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OzonePlatformDrm platform implementation
+// summary: Implements the OzonePlatformDrm class, wiring surface factory, overlay manager, cursor, input, and DRM GPU and host components for the ChromeOS DRM platform.
+// ---
+
 #include "ui/ozone/platform/drm/ozone_platform_drm.h"
 
 #include <gbm.h>

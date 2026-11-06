@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DRM render node handle class declaration
+// summary: Declares DrmRenderNodeHandle, a wrapper around a DRM render node device file descriptor with initialization and descriptor-passing methods.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_COMMON_DRM_RENDER_NODE_HANDLE_H_
 #define UI_OZONE_PLATFORM_WAYLAND_COMMON_DRM_RENDER_NODE_HANDLE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overlay manager for the Cast Ozone platform
+// summary: Declares the OverlayManagerCast class, an OverlayManagerOzone subclass that creates overlay candidates for the Cast Ozone platform.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_CAST_OVERLAY_MANAGER_CAST_H_
 #define UI_OZONE_PLATFORM_CAST_OVERLAY_MANAGER_CAST_H_
 

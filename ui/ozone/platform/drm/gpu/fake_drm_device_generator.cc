@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeDrmDeviceGenerator implementation
+// summary: Creates FakeDrmDevice instances backed by a mock GBM device so tests can obtain fake DRM devices.
+// ---
+
 #include "ui/ozone/platform/drm/gpu/fake_drm_device_generator.h"
 
 #include "ui/gfx/linux/test/mock_gbm_device.h"

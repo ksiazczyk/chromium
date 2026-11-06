@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GbmSurfaceFactory unit tests
+// summary: Unit tests verifying that CreateNativePixmapFromHandle accepts protected pixmaps only when their size and format match the requested parameters.
+// ---
+
 #include "ui/ozone/platform/drm/gpu/gbm_surface_factory.h"
 
 #include "base/functional/bind.h"

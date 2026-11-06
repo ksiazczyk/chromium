@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScreenManager header
+// summary: Declares the ScreenManager responsible for registering display controllers, configuring displays, and mapping controllers to DRM windows.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_DRM_GPU_SCREEN_MANAGER_H_
 #define UI_OZONE_PLATFORM_DRM_GPU_SCREEN_MANAGER_H_
 

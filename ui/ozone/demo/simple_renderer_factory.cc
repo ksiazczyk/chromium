@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Simple renderer factory choosing GL, software, or Vulkan
+// summary: Initializes GL, software, or Vulkan rendering based on command-line switches and creates the matching renderer, including surfaceless GL and Vulkan overlay variants.
+// ---
+
 #include "ui/ozone/demo/simple_renderer_factory.h"
 
 #include <memory>

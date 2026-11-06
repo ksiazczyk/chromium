@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the Cast Ozone platform
+summary: Restricts includes in the cast platform directory to Chromecast base, switches, build flags and public headers.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Flatland window manager implementation
+// summary: Implements FlatlandWindowManager, mapping window IDs to FlatlandWindow instances and creating the platform screen for the Flatland Ozone platform.
+// ---
+
 #include "ui/ozone/platform/flatland/flatland_window_manager.h"
 
 #include <lib/sys/cpp/component_context.h>

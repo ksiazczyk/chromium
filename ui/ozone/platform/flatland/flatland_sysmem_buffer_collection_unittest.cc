@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FlatlandSysmemBufferCollection unit tests
+// summary: Unit tests for FlatlandSysmemBufferCollection using mock Vulkan APIs and synthetic sysmem buffer collection info to verify pixmap creation and validation.
+// ---
+
 #include "ui/ozone/platform/flatland/flatland_sysmem_buffer_collection.h"
 
 #include <fuchsia/sysmem2/cpp/fidl.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FlatlandSurfaceFactory class declaration
+// summary: Declares the Ozone surface factory for the Flatland platform, providing GL, Vulkan, canvas and native pixmap creation plus surface registration per widget.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_FLATLAND_FLATLAND_SURFACE_FACTORY_H_
 #define UI_OZONE_PLATFORM_FLATLAND_FLATLAND_SURFACE_FACTORY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WaylandUtils class declaration for the Ozone Wayland platform
+// summary: Declares WaylandUtils, a PlatformUtils implementation tied to a WaylandConnection, with helpers for window icons, WM window class names, and unhandled key events.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_WAYLAND_UTILS_H_
 #define UI_OZONE_PLATFORM_WAYLAND_WAYLAND_UTILS_H_
 

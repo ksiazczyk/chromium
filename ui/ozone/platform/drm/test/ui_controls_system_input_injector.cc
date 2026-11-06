@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: System input injector for UI controls in DRM tests
+// summary: Implements a UIControlsAura that injects keyboard and mouse input at evdev level through the Ozone SystemInputInjector for test automation.
+// ---
+
 #include "ui/ozone/platform/drm/test/ui_controls_system_input_injector.h"
 
 #include "base/functional/callback.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Flatland connection implementation
+// summary: Implements the FlatlandConnection helper that connects to fuchsia.ui.composition.Flatland and manages Present calls, present credits, and frame presentation callbacks.
+// ---
+
 #include "ui/ozone/platform/flatland/flatland_connection.h"
 
 #include <lib/sys/cpp/component_context.h>

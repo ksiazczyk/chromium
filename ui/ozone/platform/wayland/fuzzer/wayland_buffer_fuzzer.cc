@@ -5,6 +5,12 @@
 // This fuzzer tests browser-side implementation of
 // ozone::mojom::WaylandConnection.
 
+// ---docerion
+// type: source
+// title: Wayland buffer fuzzer for Ozone Wayland connection
+// summary: Fuzzer that tests the browser-side implementation of ozone::mojom::WaylandConnection using a mock window delegate and a test Wayland server.
+// ---
+
 #include <drm_fourcc.h>
 #include <fuzzer/FuzzedDataProvider.h>
 #include <stddef.h>

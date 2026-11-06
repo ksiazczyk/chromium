@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FlatlandSurface implementation
+// summary: Implements Flatland surface presentation, converting overlay transforms to Flatland orientation and flip properties and managing image pipe resources for window textures.
+// ---
+
 #include "ui/ozone/platform/flatland/flatland_surface.h"
 
 #include <lib/sys/cpp/component_context.h>

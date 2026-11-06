@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HardwareDisplayController class declaration
+// summary: Declares HardwareDisplayController, which pairs CRTC, encoder and connector to handle modesetting and scanout for DRM display hardware in the Ozone platform.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_DRM_GPU_HARDWARE_DISPLAY_CONTROLLER_H_
 #define UI_OZONE_PLATFORM_DRM_GPU_HARDWARE_DISPLAY_CONTROLLER_H_
 

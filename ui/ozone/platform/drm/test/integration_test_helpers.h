@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Header for DRM integration test helpers
+// summary: Declares the PathAndFd alias and the FindDrmDriverOrDie function used by DRM integration tests to locate a named DRM driver.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_DRM_TEST_INTEGRATION_TEST_HELPERS_H_
 #define UI_OZONE_PLATFORM_DRM_TEST_INTEGRATION_TEST_HELPERS_H_
 

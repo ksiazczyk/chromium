@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DrmDisplayHost class declaration
+// summary: Declares DrmDisplayHost, a GpuThreadObserver wrapping a display snapshot with callbacks for HDCP state and related display configuration operations.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_DRM_HOST_DRM_DISPLAY_HOST_H_
 #define UI_OZONE_PLATFORM_DRM_HOST_DRM_DISPLAY_HOST_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DrmOverlayValidator implementation
+// summary: Implements DrmOverlayValidator, which tests overlay configurations by building GBM-backed DRM framebuffers and performing page flip tests.
+// ---
+
 #include "ui/ozone/platform/drm/gpu/drm_overlay_validator.h"
 
 #include <memory>

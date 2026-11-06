@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VulkanRenderer class declaration
+// summary: Declares the VulkanRenderer class and its Framebuffer helper for rendering Ozone demo windows with Vulkan surfaces and command buffers.
+// ---
+
 #ifndef UI_OZONE_DEMO_VULKAN_RENDERER_H_
 #define UI_OZONE_DEMO_VULKAN_RENDERER_H_
 

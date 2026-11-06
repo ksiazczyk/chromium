@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CRTC commit request implementation
+// summary: Implements CrtcCommitRequest, describing enable, disable, and detach-plane requests for a single CRTC modeset, with perfetto tracing support.
+// ---
+
 #include "ui/ozone/platform/drm/gpu/crtc_commit_request.h"
 #include "third_party/perfetto/include/perfetto/tracing/traced_value.h"
 #include "ui/ozone/platform/drm/gpu/drm_gpu_util.h"

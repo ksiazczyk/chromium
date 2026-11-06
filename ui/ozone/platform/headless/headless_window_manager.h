@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Headless window manager class declaration
+// summary: Declares the HeadlessWindowManager class, which tracks headless platform windows by widget id and resolves the widget at a given screen point.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_HEADLESS_HEADLESS_WINDOW_MANAGER_H_
 #define UI_OZONE_PLATFORM_HEADLESS_HEADLESS_WINDOW_MANAGER_H_
 

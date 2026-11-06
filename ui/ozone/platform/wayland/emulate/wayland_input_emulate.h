@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WaylandInputEmulate class declaration
+// summary: Declares the WaylandInputEmulate class, a WaylandProxy delegate that emulates keyboard, pointer, and touch input for interactive_ui_tests via the ui-controls protocol extension and must not be linked into production code.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_EMULATE_WAYLAND_INPUT_EMULATE_H_
 #define UI_OZONE_PLATFORM_WAYLAND_EMULATE_WAYLAND_INPUT_EMULATE_H_
 

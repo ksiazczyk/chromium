@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland platform utility function implementations
+// summary: Implements shared Wayland helpers such as mapping hit-test values to resize edges, drawing bitmaps into SHM buffers, reading file descriptors, and translating bounds between windows.
+// ---
+
 
 #include "ui/ozone/platform/wayland/common/wayland_util.h"
 

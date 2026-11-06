@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland object wrapper declarations
+// summary: Declares the wl::Object unique-pointer wrapper, the ObjectTraits template, CanBind, and macros for declaring traits of Wayland protocol types.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_COMMON_WAYLAND_OBJECT_H_
 #define UI_OZONE_PLATFORM_WAYLAND_COMMON_WAYLAND_OBJECT_H_
 

@@ -1,3 +1,11 @@
+---
+type: readme
+title: Wayland Ozone platform overview
+summary: Explains Chrome's Wayland client implementation in Ozone, describing the gpu/ and host/ subdirectories and the buffer submission flow between browser and GPU processes.
+relations:
+  - references /docs/ozone_overview.md
+---
+
 See [Ozone
 Overview](https://source.chromium.org/chromium/chromium/src/+/main:docs/ozone_overview.md)
 for high-level summary.

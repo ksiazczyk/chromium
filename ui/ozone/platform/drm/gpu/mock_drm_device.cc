@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock DRM device implementation
+// summary: Implements MockDrmDevice, a gmock-based DRM device that defaults to FakeDrmDevice behavior for atomic commit testing.
+// ---
+
 #include "ui/ozone/platform/drm/gpu/mock_drm_device.h"
 
 #include "ui/gfx/linux/gbm_device.h"

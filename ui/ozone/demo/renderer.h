@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Renderer interface
+// summary: Defines the abstract Renderer interface with an Initialize method that all demo renderers implement.
+// ---
+
 #ifndef UI_OZONE_DEMO_RENDERER_H_
 #define UI_OZONE_DEMO_RENDERER_H_
 

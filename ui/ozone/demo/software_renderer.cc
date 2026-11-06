@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Software renderer drawing animated frames via Skia
+// summary: Renders animated color frames through an Ozone software canvas, presents them, and updates vsync parameters from the vsync provider.
+// ---
+
 #include "ui/ozone/demo/software_renderer.h"
 
 #include <memory>

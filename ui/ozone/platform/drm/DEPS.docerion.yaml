@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the DRM platform directory
+summary: Declares the allowed include dependencies for the DRM platform directory, covering Mojo, service manager, viz mojom, ui/base build flags, and display util.

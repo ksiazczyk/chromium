@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Vulkan implementation for the Flatland Ozone platform
+// summary: Declares VulkanImplementationFlatland, a gpu::VulkanImplementation subclass that creates Vulkan surfaces and images using the Flatland surface factory and sysmem buffer manager on Fuchsia.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_FLATLAND_VULKAN_IMPLEMENTATION_FLATLAND_H_
 #define UI_OZONE_PLATFORM_FLATLAND_VULKAN_IMPLEMENTATION_FLATLAND_H_
 

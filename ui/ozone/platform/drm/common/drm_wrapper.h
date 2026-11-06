@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DrmWrapper interface declaration
+// summary: Declares DrmWrapper, a tight interface around DRM calls so production code talks to libdrm while unit tests can stub the implementation.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_DRM_COMMON_DRM_WRAPPER_H_
 #define UI_OZONE_PLATFORM_DRM_COMMON_DRM_WRAPPER_H_
 

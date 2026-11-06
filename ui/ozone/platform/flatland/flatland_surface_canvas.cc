@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FlatlandSurfaceCanvas implementation
+// summary: Implements the software canvas surface for Flatland with triple-buffered shared-memory frames, dirty-region copying, and a VSync provider.
+// ---
+
 #include "ui/ozone/platform/flatland/flatland_surface_canvas.h"
 
 #include <fuchsia/sysmem2/cpp/fidl.h>

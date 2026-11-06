@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FlatlandSurface class declaration
+// summary: Declares the PlatformWindowSurface holder for Flatland resources that presents textures through an image pipe and creates views attachable to the scene graph.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_FLATLAND_FLATLAND_SURFACE_H_
 #define UI_OZONE_PLATFORM_FLATLAND_FLATLAND_SURFACE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for Ozone GL unittests
+summary: Defines the ozone_gl_unittests test target, listing the native pixmap binding test source and its base, gfx, gl, and ozone dependencies.

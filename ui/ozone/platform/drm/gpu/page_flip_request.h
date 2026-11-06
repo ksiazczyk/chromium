@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageFlipRequest header
+// summary: Declares a ref-counted request that aggregates DRM page flip callbacks and signals the swap completion callback once all flips have returned.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_DRM_GPU_PAGE_FLIP_REQUEST_H_
 #define UI_OZONE_PLATFORM_DRM_GPU_PAGE_FLIP_REQUEST_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FlatlandScreen implementation
+// summary: Implements PlatformScreen for Flatland with a single default 1280x720 display and stubbed cursor and widget lookup pending platform screen APIs.
+// ---
+
 #include "ui/ozone/platform/flatland/flatland_screen.h"
 
 #include "base/notimplemented.h"

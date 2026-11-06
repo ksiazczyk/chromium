@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DrmWindowProxy class declaration
+// summary: Declares the per-window proxy that dispatches page flip and fence queries to DrmThread on its task runner.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_DRM_GPU_DRM_WINDOW_PROXY_H_
 #define UI_OZONE_PLATFORM_DRM_GPU_DRM_WINDOW_PROXY_H_
 

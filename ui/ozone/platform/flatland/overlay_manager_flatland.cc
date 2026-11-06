@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Flatland overlay manager implementation
+// summary: Implements OverlayManagerFlatland, providing overlay candidates that check whether Flatland sysmem native pixmaps support overlay planes.
+// ---
+
 #include "ui/ozone/platform/flatland/overlay_manager_flatland.h"
 
 #include "ui/gfx/overlay_transform.h"

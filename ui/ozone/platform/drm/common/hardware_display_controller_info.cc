@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HardwareDisplayControllerInfo implementation
+// summary: Implements the per-display info class, including EDID parsing, nonprimary tile info acquisition, and lookup of display modes by size.
+// ---
+
 #include "ui/ozone/platform/drm/common/hardware_display_controller_info.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GbmSurfaceless implementation
+// summary: Implements the surfaceless GL presenter for the GBM Ozone platform, scheduling overlay planes, managing EGL and GPU fences, and driving page flip presentation.
+// ---
+
 #include "ui/ozone/platform/drm/gpu/gbm_surfaceless.h"
 
 #include <memory>
