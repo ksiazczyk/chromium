@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Credential provider extension appex build targets
+summary: GN build file defining the credential_provider_extension appex bundle, its entitlements, Info.plist tweaks, variants and optional privacy manifest.

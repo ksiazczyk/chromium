@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Testing category for credential details view controller
+// summary: Exposes the private passkey creation date formatting method of CredentialDetailsViewController for tests.
+// ---
+
 #ifndef IOS_CHROME_CREDENTIAL_PROVIDER_EXTENSION_UI_CREDENTIAL_DETAILS_VIEW_CONTROLLER_TESTING_H_
 #define IOS_CHROME_CREDENTIAL_PROVIDER_EXTENSION_UI_CREDENTIAL_DETAILS_VIEW_CONTROLLER_TESTING_H_
 

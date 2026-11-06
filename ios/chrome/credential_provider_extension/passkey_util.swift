@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Swift PRF helpers for passkey requests
+// summary: Swift classes and Objective-C extensions that wrap PRF extension inputs and outputs for passkey assertion and registration credentials.
+// ---
+
 import AuthenticationServices
 import CryptoKit
 import Foundation

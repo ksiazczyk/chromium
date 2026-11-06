@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Credential provider extension UI build configuration
+summary: Defines the GN source sets, dependencies, and frameworks for the credential provider extension UI targets.

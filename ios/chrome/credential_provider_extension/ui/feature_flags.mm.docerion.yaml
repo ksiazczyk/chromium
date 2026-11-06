@@ -1,0 +1,4 @@
+# Docerion header of feature_flags.mm.
+type: source
+title: Feature flags implementation
+summary: Reads feature flag values such as automatic passkey upgrade and password sync from the app group user defaults shared with the main Chrome app.

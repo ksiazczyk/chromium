@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account verification provider protocol
+// summary: Declares the AccountVerificationProvider protocol and class used to validate accounts in the credential provider extension.
+// ---
+
 #ifndef IOS_CHROME_CREDENTIAL_PROVIDER_EXTENSION_ACCOUNT_VERIFICATION_PROVIDER_H_
 #define IOS_CHROME_CREDENTIAL_PROVIDER_EXTENSION_ACCOUNT_VERIFICATION_PROVIDER_H_
 

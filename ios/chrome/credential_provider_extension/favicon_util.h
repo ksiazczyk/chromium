@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Favicon fetching utility interface
+// summary: Declares FetchFaviconAsync, which loads favicon attributes for a given favicon and delivers them to a completion block.
+// ---
+
 #ifndef IOS_CHROME_CREDENTIAL_PROVIDER_EXTENSION_FAVICON_UTIL_H_
 #define IOS_CHROME_CREDENTIAL_PROVIDER_EXTENSION_FAVICON_UTIL_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of font_provider.mm.
+type: source
+title: Branded font provider implementation
+summary: Returns the system default font at the requested size, since Chromium bundles no branded fonts.

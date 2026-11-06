@@ -1,0 +1,4 @@
+# Docerion header of passkey_util_unittest.mm.
+type: test
+title: Passkey utility unit tests
+summary: Unit tests validating passkey assertion and creation outputs, authenticator data, signatures and PRF extension handling using test credentials and trusted vault keys.

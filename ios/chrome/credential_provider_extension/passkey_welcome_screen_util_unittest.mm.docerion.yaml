@@ -1,0 +1,4 @@
+# Docerion header of passkey_welcome_screen_util_unittest.mm.
+type: test
+title: Passkey welcome screen utility unit tests
+summary: Unit tests checking that welcome screen strings are correct for the enrollment, fix degraded recoverability and reauthentication purposes.

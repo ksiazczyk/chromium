@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigation item title view factory declaration
+// summary: Declares a function that creates a branded title view for the keychain navigation controller.
+// ---
+
 #ifndef IOS_CHROME_CREDENTIAL_PROVIDER_EXTENSION_UI_CREATE_NAVIGATION_ITEM_TITLE_VIEW_H_
 #define IOS_CHROME_CREDENTIAL_PROVIDER_EXTENSION_UI_CREATE_NAVIGATION_ITEM_TITLE_VIEW_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of passkey_request_details.mm.
+type: source
+title: Passkey request details implementation
+summary: Implements the PasskeyRequestDetails class that holds passkey request parameters such as client data hash, user verification, relying party and allowed credentials, plus password matching logic.

@@ -1,0 +1,4 @@
+# Docerion header of passkey_error_alert_view_controller_unittest.mm.
+type: test
+title: Passkey error alert view controller unit tests
+summary: Unit tests verifying that the passkey error alert view controller shows the expected image, title, subtitle and button text for each error type.

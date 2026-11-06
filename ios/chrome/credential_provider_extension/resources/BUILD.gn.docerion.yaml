@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for credential provider extension resources
+summary: GN build file that bundles the MainInterface storyboard and its compiled nib files into the credential provider extension bundle.

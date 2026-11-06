@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the credential provider extension
+summary: Defines GN build targets, sources, dependencies, and localized string generation for the credential provider extension.

@@ -1,0 +1,4 @@
+# Docerion header of reauthentication_handler.mm.
+type: source
+title: Reauthentication handler implementation
+summary: Implements reauthentication for credential access, showing a set-passcode alert with a help link and opening URLs through app group commands when biometrics are unavailable.

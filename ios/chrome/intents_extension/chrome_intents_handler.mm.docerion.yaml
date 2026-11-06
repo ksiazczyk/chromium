@@ -1,0 +1,4 @@
+# Docerion header of chrome_intents_handler.mm.
+type: source
+title: ChromeIntentsHandler implementation of Chrome Siri intents
+summary: Implements resolution and handling for Chrome's Siri Shortcut intents, including opening tabs, adding bookmarks, clearing browsing data, and managing settings.

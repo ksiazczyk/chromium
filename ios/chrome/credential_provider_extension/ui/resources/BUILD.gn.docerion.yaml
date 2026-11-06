@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Credential provider extension UI resources build definition
+summary: GN build target that bundles the asset catalog images, icons and symbol sets used by the iOS Chrome credential provider extension UI.

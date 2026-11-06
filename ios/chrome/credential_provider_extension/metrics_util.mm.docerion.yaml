@@ -1,0 +1,4 @@
+# Docerion header of metrics_util.mm.
+type: source
+title: Metrics utility implementation
+summary: Increments metric counts stored in the app group shared user defaults for UMA keys and histogram buckets.

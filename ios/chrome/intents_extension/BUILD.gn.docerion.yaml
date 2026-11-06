@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the intents extension
+summary: Defines the intents source_set listing the Chrome intents handler sources, framework links, and a dependency on ios/chrome/common/intents.

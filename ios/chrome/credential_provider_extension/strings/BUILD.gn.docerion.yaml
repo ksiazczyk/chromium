@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Credential provider extension strings build configuration
+summary: GN build rules that run GRIT to generate localized string resources for the iOS credential provider extension from the GRD source file.

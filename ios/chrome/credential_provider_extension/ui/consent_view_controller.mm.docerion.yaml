@@ -1,0 +1,4 @@
+# Docerion header of consent_view_controller.mm.
+type: source
+title: Consent view controller implementation
+summary: Builds the consent screen with branded subtitle text, caption label, and a dismiss button.

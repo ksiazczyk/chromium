@@ -1,0 +1,4 @@
+# Docerion header of favicon_util.mm.
+type: source
+title: Favicon fetching utility implementation
+summary: Implements FetchFaviconAsync by securely unarchiving favicon attributes from the shared app group folder on a low-priority background queue.

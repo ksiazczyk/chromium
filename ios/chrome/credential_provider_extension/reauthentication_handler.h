@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reauthentication handler interface
+// summary: Declares the ReauthenticationHandler class that verifies user access to passkeys or passwords and can present a dialog reminding the user to set a passcode.
+// ---
+
 #ifndef IOS_CHROME_CREDENTIAL_PROVIDER_EXTENSION_REAUTHENTICATION_HANDLER_H_
 #define IOS_CHROME_CREDENTIAL_PROVIDER_EXTENSION_REAUTHENTICATION_HANDLER_H_
 

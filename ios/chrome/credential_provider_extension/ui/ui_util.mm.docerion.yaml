@@ -1,0 +1,4 @@
+# Docerion header of ui_util.mm.
+type: source
+title: Credential provider extension UI utilities
+summary: Implements helper functions for the credential provider extension UI, including localized service identifier prompts and SF Symbol icons for password visibility, info, and error actions.

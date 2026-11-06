@@ -1,0 +1,4 @@
+# Docerion header of multi_profile_passkey_creation_view_controller.mm.
+type: source
+title: Multi-profile passkey creation view controller implementation
+summary: Implements the confirmation screen showing account email and favicon for agreeing to create a passkey in the selected account.

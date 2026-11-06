@@ -1,0 +1,4 @@
+# Docerion header of Info.plist.
+type: config
+title: Info.plist for the Chrome intents extension appex
+summary: Declares bundle metadata and the supported Siri intents, extension point, and principal class for the Chrome intents service extension.

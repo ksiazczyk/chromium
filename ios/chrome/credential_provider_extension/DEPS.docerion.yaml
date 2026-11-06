@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the extension
+summary: Lists the include rules specifying which Chromium components and directories this extension may depend on.

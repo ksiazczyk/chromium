@@ -1,0 +1,4 @@
+# Docerion header of create_navigation_item_title_view_unittest.mm.
+type: source
+title: Unit tests for navigation item title view creation
+summary: Verifies that creating the navigation item title view with a branded font returns a non-nil view.

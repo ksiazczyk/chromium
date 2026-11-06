@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for the intents extension appex
+summary: Defines GN targets that tweak the Info.plist, compile entitlements, and build the intents_extension appex bundle for Chrome iOS.

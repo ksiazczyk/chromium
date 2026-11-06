@@ -1,0 +1,4 @@
+# Docerion header of Info.plist.
+type: config
+title: Credential provider extension Info.plist
+summary: Property list declaring the extension's bundle identity and its credential provider capabilities for passwords, passkeys and configuration UI.

@@ -1,0 +1,4 @@
+# Docerion header of account_verification_provider.mm.
+type: source
+title: Account verification provider implementation
+summary: Implements the default account verification behavior that always returns a nil validation ID and a valid status.
