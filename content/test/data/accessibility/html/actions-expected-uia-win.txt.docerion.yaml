@@ -1,0 +1,4 @@
+# Docerion header of actions-expected-uia-win.txt.
+type: test
+title: Actions test expected UIA Windows tree
+summary: Expected Windows UIA accessibility tree snapshot for the actions HTML test page, showing a slider and an edit field.

@@ -1,0 +1,4 @@
+# Docerion header of a-with-img-expected-win.txt.
+type: test
+title: Expected Windows MSAA accessibility tree for a-with-img
+summary: Expected Windows IAccessible2 tree snapshot for the a-with-img test page, describing link and graphic roles for anchors containing images.

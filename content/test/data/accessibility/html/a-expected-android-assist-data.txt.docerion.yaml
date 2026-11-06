@@ -1,0 +1,4 @@
+# Docerion header of a-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for anchor link test
+summary: Expected Android assist data snapshot for the anchor link test page, recording text sizes, styles, colors and HTML tag information of the link nodes.

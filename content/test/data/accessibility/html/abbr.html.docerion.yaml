@@ -1,0 +1,4 @@
+# Docerion header of abbr.html.
+type: test
+title: abbr accessibility test page
+summary: HTML test page containing an abbr element with a title, used to verify accessibility tree output across platforms.

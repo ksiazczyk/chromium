@@ -1,0 +1,4 @@
+# Docerion header of area-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for area element test
+summary: Expected Android WebView accessibility tree for the HTML area element test, with a skip note that editable_text should not appear for area elements.

@@ -1,0 +1,4 @@
+# Docerion header of audio.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for audio test page
+summary: Mock HTTP response headers served for the audio test page, returning 200 OK with a fenced-frame Supports-Loading-Mode header.

@@ -1,0 +1,4 @@
+# Docerion header of a-empty-placeholder-expected-android.txt.
+type: test
+title: Expected Android tree for empty placeholder link test
+summary: Expected Android accessibility tree snapshot for the empty placeholder HTML test page, describing the WebView hierarchy and the valid ARIA link node.

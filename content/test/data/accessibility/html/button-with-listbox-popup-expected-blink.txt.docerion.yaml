@@ -1,0 +1,4 @@
+# Docerion header of button-with-listbox-popup-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for button with listbox popup
+summary: Expected Blink accessibility tree snapshot for the button-with-listbox-popup test page, including popup button, list box and option static texts.

@@ -1,0 +1,4 @@
+# Docerion header of abbr-expected-uia-win.txt.
+type: test
+title: Expected Windows UIA accessibility tree for abbr test
+summary: Expected Windows UIA accessibility tree snapshot for the abbr HTML test with document, group and text nodes.

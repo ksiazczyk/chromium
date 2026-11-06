@@ -1,0 +1,4 @@
+# Docerion header of article-expected-fuchsia.txt.
+type: test
+title: Expected Fuchsia accessibility output for the article element test
+summary: Expected Fuchsia accessibility tree snapshot for the article element test page with focus, visibility and static text labels.

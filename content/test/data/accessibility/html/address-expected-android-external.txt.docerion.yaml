@@ -1,0 +1,4 @@
+# Docerion header of address-expected-android-external.txt.
+type: test
+title: Address test expected Android external tree
+summary: Expected Android external accessibility tree snapshot for the address HTML test page with contact information text.

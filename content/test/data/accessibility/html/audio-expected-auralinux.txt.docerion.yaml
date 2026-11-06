@@ -1,0 +1,4 @@
+# Docerion header of audio-expected-auralinux.txt.
+type: test
+title: Expected Linux accessibility tree for audio test
+summary: Expected Linux accessibility tree output for the audio element test page, covering audio, sliders, mute and more-options buttons.

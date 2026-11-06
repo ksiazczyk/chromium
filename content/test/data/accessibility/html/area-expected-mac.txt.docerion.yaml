@@ -1,0 +1,4 @@
+# Docerion header of area-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for area element test
+summary: Expected macOS accessibility tree for the HTML area element test, showing an AXLink named pipe1 inside a group representing the image map.

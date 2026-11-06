@@ -1,0 +1,4 @@
+# Docerion header of button-name-calc-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility tree for button name calculation
+summary: Expected Android external accessibility tree snapshot for the button name calculation test, listing buttons with text, tooltips, hints and actions.

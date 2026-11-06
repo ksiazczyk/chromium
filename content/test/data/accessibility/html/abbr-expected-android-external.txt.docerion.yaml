@@ -1,0 +1,4 @@
+# Docerion header of abbr-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility tree for abbr
+summary: Expected Android external-format accessibility snapshot for the abbr test page, listing focusable actions and chrome roles for the paragraph and abbreviation.

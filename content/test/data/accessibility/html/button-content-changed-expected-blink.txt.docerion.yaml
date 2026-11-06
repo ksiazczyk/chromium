@@ -1,0 +1,4 @@
+# Docerion header of button-content-changed-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for button content change test
+summary: Expected Blink accessibility tree snapshot showing buttons whose text content changed from Before to After via textContent and data updates.

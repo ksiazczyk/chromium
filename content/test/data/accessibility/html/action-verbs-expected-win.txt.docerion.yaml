@@ -1,0 +1,4 @@
+# Docerion header of action-verbs-expected-win.txt.
+type: test
+title: Action verbs expected Windows IA2 tree
+summary: Expected Windows MSAA/IA2 accessibility tree dump for the action verbs test page, listing roles, states and default actions such as press, jump, check and activate.

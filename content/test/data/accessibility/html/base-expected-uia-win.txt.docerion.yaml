@@ -1,0 +1,4 @@
+# Docerion header of base-expected-uia-win.txt.
+type: test
+title: base expected accessibility output for Windows UIA
+summary: Expected Windows UIA accessibility result for the base element test page, containing a skip marker for an unmapped element.

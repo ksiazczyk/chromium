@@ -1,0 +1,4 @@
+# Docerion header of a-name-expected-auralinux.txt.
+type: test
+title: Expected Auralinux tree for a-name accessibility test
+summary: Expected Linux assistive technology tree snapshot for the a-name test page.

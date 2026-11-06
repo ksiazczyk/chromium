@@ -1,0 +1,4 @@
+# Docerion header of a-no-text-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for a-no-text
+summary: Expected Android accessibility tree for the a-no-text test page, showing link views with image children for anchors that contain no text.

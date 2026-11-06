@@ -1,0 +1,4 @@
+# Docerion header of button-with-listbox-popup-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for button with listbox popup
+summary: Expected Android accessibility tree snapshot for the button-with-listbox-popup test page, listing a popup button and three listbox options.

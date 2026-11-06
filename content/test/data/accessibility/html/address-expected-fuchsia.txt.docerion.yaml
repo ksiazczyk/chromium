@@ -1,0 +1,4 @@
+# Docerion header of address-expected-fuchsia.txt.
+type: test
+title: Address element expected accessibility tree for Fuchsia
+summary: Expected Fuchsia accessibility tree output for the address element test page.

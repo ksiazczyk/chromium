@@ -1,0 +1,4 @@
+# Docerion header of blockquote-expected-auralinux.txt.
+type: test
+title: Auralinux expected tree for blockquote accessibility test
+summary: Expected Linux (auralinux) accessibility tree snapshot for the blockquote HTML test with block quote and static text nodes.

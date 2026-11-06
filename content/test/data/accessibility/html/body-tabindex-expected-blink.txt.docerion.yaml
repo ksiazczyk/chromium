@@ -1,0 +1,4 @@
+# Docerion header of body-tabindex-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for body tabindex test
+summary: Expected Blink accessibility tree for the body tag with tabindex test page, including paragraph and static text nodes.

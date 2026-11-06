@@ -1,0 +1,4 @@
+# Docerion header of action-verbs-expected-fuchsia.txt.
+type: test
+title: Action verbs expected Fuchsia accessibility tree
+summary: Expected Fuchsia accessibility tree dump for the action verbs test page, showing roles, labels, checked states and available actions per element.

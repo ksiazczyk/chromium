@@ -1,0 +1,4 @@
+# Docerion header of article-expected-blink.txt.
+type: test
+title: Expected Blink accessibility output for the article element test
+summary: Expected Blink internal accessibility tree snapshot for the article element test page with article and static text nodes.

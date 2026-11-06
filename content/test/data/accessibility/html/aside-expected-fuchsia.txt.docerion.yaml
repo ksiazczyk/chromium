@@ -1,0 +1,4 @@
+# Docerion header of aside-expected-fuchsia.txt.
+type: test
+title: Expected Fuchsia accessibility tree for aside element test
+summary: Expected Fuchsia accessibility tree snapshot for the aside element test page with paragraph and static text nodes.

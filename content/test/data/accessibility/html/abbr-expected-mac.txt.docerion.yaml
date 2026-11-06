@@ -1,0 +1,4 @@
+# Docerion header of abbr-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for abbr test
+summary: Expected macOS accessibility tree snapshot for the abbr HTML test showing the abbreviation group and static text.

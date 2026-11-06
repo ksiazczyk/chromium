@@ -1,0 +1,4 @@
+# Docerion header of abbr-expected-fuchsia.txt.
+type: test
+title: Expected Fuchsia accessibility tree for abbr test
+summary: Expected Fuchsia accessibility tree snapshot for the abbr HTML test showing how the abbreviation element is exposed.

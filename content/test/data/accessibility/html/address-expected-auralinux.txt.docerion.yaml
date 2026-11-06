@@ -1,0 +1,4 @@
+# Docerion header of address-expected-auralinux.txt.
+type: test
+title: Address test expected Aura Linux tree
+summary: Expected Aura Linux accessibility tree snapshot for the address HTML test page with contact information text.

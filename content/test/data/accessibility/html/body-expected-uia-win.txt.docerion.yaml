@@ -1,0 +1,4 @@
+# Docerion header of body-expected-uia-win.txt.
+type: test
+title: Expected Windows UIA accessibility tree for body tag test
+summary: Expected UIA accessibility tree for the body tag test page on Windows, with document, group and text elements.

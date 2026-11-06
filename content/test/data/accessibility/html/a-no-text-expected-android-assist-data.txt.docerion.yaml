@@ -1,0 +1,4 @@
+# Docerion header of a-no-text-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for a-no-text test
+summary: Expected Android assist-data snapshot for the a-no-text HTML test page with links containing only images.

@@ -1,0 +1,4 @@
+# Docerion header of bdo-expected-fuchsia.txt.
+type: test
+title: Fuchsia expected tree for bdo accessibility test
+summary: Expected Fuchsia accessibility tree snapshot for the bdo HTML test, listing static text labels for LTR and RTL content.

@@ -1,0 +1,4 @@
+# Docerion header of article-expected-android.txt.
+type: test
+title: Expected Android accessibility output for the article element test
+summary: Expected Android accessibility tree snapshot for the article element test page showing the article role description and name.

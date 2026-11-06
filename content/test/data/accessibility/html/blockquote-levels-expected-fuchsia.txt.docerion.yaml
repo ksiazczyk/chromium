@@ -1,0 +1,4 @@
+# Docerion header of blockquote-levels-expected-fuchsia.txt.
+type: test
+title: Blockquote levels expected accessibility tree for Fuchsia
+summary: Expected Fuchsia accessibility tree dump for the blockquote-levels test, listing nested blockquote nodes with static text labels.

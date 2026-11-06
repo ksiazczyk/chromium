@@ -1,0 +1,4 @@
+# Docerion header of actions-expected-blink.txt.
+type: test
+title: Actions test expected Blink accessibility tree
+summary: Expected Blink accessibility tree snapshot for the actions HTML test page, showing a slider and a text field with their actions.

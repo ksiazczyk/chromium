@@ -1,0 +1,4 @@
+# Docerion header of aside-inside-section-role-generic-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for aside inside section with role generic
+summary: Expected Blink internal accessibility tree for asides inside a section with presentational and generic roles.

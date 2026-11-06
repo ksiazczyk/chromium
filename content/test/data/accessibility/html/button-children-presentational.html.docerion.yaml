@@ -1,0 +1,4 @@
+# Docerion header of button-children-presentational.html.
+type: test
+title: Accessibility test page for button children with presentational roles
+summary: HTML test page with buttons containing plain text, divs, spans and role=presentation or role=none children to test their accessibility exposure.

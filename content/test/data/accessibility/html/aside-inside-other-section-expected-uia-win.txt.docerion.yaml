@@ -1,0 +1,4 @@
+# Docerion header of aside-inside-other-section-expected-uia-win.txt.
+type: test
+title: Aside inside other section expected UIA tree on Windows
+summary: Expected UI Automation tree snapshot for the aside-inside-other-section HTML test on Windows with complementary groups named aside.

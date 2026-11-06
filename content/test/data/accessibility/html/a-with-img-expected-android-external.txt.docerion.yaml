@@ -1,0 +1,4 @@
+# Docerion header of a-with-img-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility tree for a-with-img test
+summary: Expected Android external accessibility snapshot for the a-with-img test page with links containing images, including actions and bundle details.

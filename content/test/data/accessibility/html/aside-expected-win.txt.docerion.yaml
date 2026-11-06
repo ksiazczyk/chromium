@@ -1,0 +1,4 @@
+# Docerion header of aside-expected-win.txt.
+type: test
+title: Aside expected IA2 accessibility tree on Windows
+summary: Expected IAccessible2 tree snapshot for the HTML aside element test on Windows, including landmark, heading and static text roles.

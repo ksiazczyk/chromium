@@ -1,0 +1,4 @@
+# Docerion header of button-children-presentational-expected-mac.txt.
+type: test
+title: Expected Mac accessibility tree for button children presentational test
+summary: Expected macOS accessibility tree snapshot listing buttons with plain text, div, span, presentation and none role children.

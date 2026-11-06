@@ -1,0 +1,4 @@
+# Docerion header of button-name-calc-expected-mac.txt.
+type: test
+title: Button name calculation expected accessibility tree for macOS
+summary: Expected macOS accessibility tree for the button name calculation test, listing AXButton titles, help text and custom content.

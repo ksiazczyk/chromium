@@ -1,0 +1,4 @@
+# Docerion header of area-expected-uia-win.txt.
+type: test
+title: Expected Windows UIA accessibility tree for area element test
+summary: Expected Windows UIA accessibility tree for the HTML area element test, showing a hyperlink named pipe1 inside a document named pipe.

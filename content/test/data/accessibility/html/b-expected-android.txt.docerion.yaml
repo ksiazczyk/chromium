@@ -1,0 +1,4 @@
+# Docerion header of b-expected-android.txt.
+type: test
+title: Expected Android output marking the bold text test as skipped
+summary: Marks the bold text accessibility test as skipped on Android because the page has no accessible object.

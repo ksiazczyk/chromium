@@ -1,0 +1,4 @@
+# Docerion header of abbr-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for abbr
+summary: Expected Android accessibility tree snapshot for the abbr test page, showing text views around a view named 'World Health Organization'.

@@ -1,0 +1,4 @@
+# Docerion header of aria-menu-items-expected-android.txt.
+type: test
+title: Expected Android accessibility output for the ARIA menu items test
+summary: Expected Android accessibility tree snapshot for the ARIA menu items test page, listing menu items with roles, names and checked states.

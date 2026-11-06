@@ -1,0 +1,4 @@
+# Docerion header of blockquote-expected-blink.txt.
+type: test
+title: Blockquote expected Blink accessibility tree
+summary: Expected Blink accessibility tree snapshot for the blockquote HTML test, listing blockquote and static text nodes with their names.

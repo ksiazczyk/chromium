@@ -1,0 +1,4 @@
+# Docerion header of abbr-expected-auralinux.txt.
+type: test
+title: Expected auralinux accessibility tree for abbr
+summary: Expected auralinux accessibility tree snapshot for the abbr test page, showing a paragraph of static text containing the WHO abbreviation.

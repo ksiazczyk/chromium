@@ -1,0 +1,4 @@
+# Docerion header of button-name-calc-expected-auralinux.txt.
+type: test
+title: Button name calculation expected accessibility tree for Aura Linux
+summary: Expected accessibility tree snapshot for the button name calculation test on Aura Linux, listing computed button names, descriptions and child nodes.

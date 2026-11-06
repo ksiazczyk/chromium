@@ -1,0 +1,4 @@
+# Docerion header of aside-inside-section-role-generic.html.
+type: test
+title: Aside inside section with role generic accessibility test
+summary: HTML test page checking how the aside element is exposed when nested in sections with presentation and generic roles, with platform allow-list comments.

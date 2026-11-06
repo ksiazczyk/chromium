@@ -1,0 +1,4 @@
+# Docerion header of button-name-calc-expected-win.txt.
+type: test
+title: Button name calculation expected accessibility tree for Windows
+summary: Expected MSAA and IA2 accessibility tree for the button name calculation test on Windows, listing push button roles, names and descriptions.

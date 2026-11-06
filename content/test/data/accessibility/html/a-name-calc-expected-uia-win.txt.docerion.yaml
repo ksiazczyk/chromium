@@ -1,0 +1,4 @@
+# Docerion header of a-name-calc-expected-uia-win.txt.
+type: test
+title: Expected UIA Win tree for a-name-calc accessibility test
+summary: Expected UIA Windows accessibility tree snapshot for the a-name-calc anchor name computation test.

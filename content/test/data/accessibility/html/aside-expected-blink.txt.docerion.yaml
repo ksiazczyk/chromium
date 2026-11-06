@@ -1,0 +1,4 @@
+# Docerion header of aside-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for aside element test
+summary: Expected Blink internal accessibility tree snapshot for the aside element test page, including complementary landmarks and headings.

@@ -1,0 +1,4 @@
+# Docerion header of br-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for the br test
+summary: Expected Android WebView accessibility tree snapshot for the br line-break test, listing text views and newline nodes.

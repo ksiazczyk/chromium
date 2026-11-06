@@ -1,0 +1,4 @@
+# Docerion header of blockquote-expected-win.txt.
+type: test
+title: Blockquote expected Windows accessibility tree
+summary: Expected Windows MSAA/IA2 accessibility tree snapshot for the blockquote HTML test, with block quote, paragraph and static text roles.

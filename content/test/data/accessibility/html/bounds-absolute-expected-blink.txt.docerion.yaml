@@ -1,0 +1,4 @@
+# Docerion header of bounds-absolute-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for absolute bounds test
+summary: Expected Blink accessibility tree with size and location details for the absolutely positioned dialog and buttons test page.

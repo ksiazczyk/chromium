@@ -1,0 +1,4 @@
+# Docerion header of a-expected-fuchsia.txt.
+type: test
+title: Expected Fuchsia accessibility tree for anchor link test
+summary: Expected Fuchsia accessibility tree snapshot for the anchor link test page, showing a focusable link with static text labels and default action.

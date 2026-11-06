@@ -1,0 +1,4 @@
+# Docerion header of a-nested-structure-expected-auralinux.txt.
+type: test
+title: Expected Aura Linux accessibility tree for a-nested-structure test
+summary: Expected Aura Linux accessibility tree for the a-nested-structure HTML test page with a link wrapping a heading and list.

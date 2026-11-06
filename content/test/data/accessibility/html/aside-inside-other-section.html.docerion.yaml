@@ -1,0 +1,4 @@
+# Docerion header of aside-inside-other-section.html.
+type: test
+title: HTML test page for asides inside article and section
+summary: HTML test page rendering named and unnamed aside elements inside article and section, with platform-specific accessibility test directives.

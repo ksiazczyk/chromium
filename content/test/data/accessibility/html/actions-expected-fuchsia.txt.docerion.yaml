@@ -1,0 +1,4 @@
+# Docerion header of actions-expected-fuchsia.txt.
+type: test
+title: Actions test expected Fuchsia accessibility tree
+summary: Expected Fuchsia accessibility tree snapshot for the actions HTML test page, showing a slider and a text field with set-value actions.

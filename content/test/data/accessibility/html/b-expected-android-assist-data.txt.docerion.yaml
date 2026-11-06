@@ -1,0 +1,4 @@
+# Docerion header of b-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for the bold text accessibility test
+summary: Expected Android accessibility tree output with assist data for the HTML test page rendering a paragraph with bold text.

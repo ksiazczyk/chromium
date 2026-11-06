@@ -1,0 +1,4 @@
+# Docerion header of aria-menu-items-expected-blink.txt.
+type: test
+title: Expected Blink accessibility output for the ARIA menu items test
+summary: Expected Blink internal accessibility tree snapshot for the ARIA menu items test page, including menu item roles, names and checked states.

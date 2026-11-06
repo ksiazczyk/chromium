@@ -1,0 +1,4 @@
+# Docerion header of area-expected-auralinux.txt.
+type: test
+title: Expected Linux accessibility tree for area element test
+summary: Expected Linux assistive technology tree for the HTML area element test, showing an image map named pipe containing a link named pipe1.

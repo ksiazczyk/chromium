@@ -1,0 +1,4 @@
+# Docerion header of a-name-expected-uia-win.txt.
+type: test
+title: Expected UIA Win tree for a-name accessibility test
+summary: Expected UIA Windows accessibility tree snapshot for the a-name test page.

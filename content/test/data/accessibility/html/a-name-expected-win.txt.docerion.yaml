@@ -1,0 +1,4 @@
+# Docerion header of a-name-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for a-name test
+summary: Expected Windows accessibility tree output for the a-name HTML test page covering named anchors and links.

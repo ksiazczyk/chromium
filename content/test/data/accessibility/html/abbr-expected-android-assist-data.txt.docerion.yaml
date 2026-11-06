@@ -1,0 +1,4 @@
+# Docerion header of abbr-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for abbr
+summary: Expected Android assist data snapshot for the abbr test page, showing an abbreviation view titled 'World Health Organization' wrapping the text 'WHO'.

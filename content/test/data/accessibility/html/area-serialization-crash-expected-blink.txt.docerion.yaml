@@ -1,0 +1,4 @@
+# Docerion header of area-serialization-crash-expected-blink.txt.
+type: test
+title: Expected Blink tree for area serialization crash test
+summary: Expected Blink accessibility tree for the area serialization crash test, showing a body containing static text named done.

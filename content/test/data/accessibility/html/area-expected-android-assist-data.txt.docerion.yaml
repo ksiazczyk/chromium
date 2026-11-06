@@ -1,0 +1,4 @@
+# Docerion header of area-expected-android-assist-data.txt.
+type: test
+title: Area element expected Android assist data tree
+summary: Expected Android assist data accessibility output for the image map area test page.

@@ -1,0 +1,4 @@
+# Docerion header of bounds-fixed-expected-blink.txt.
+type: test
+title: Bounds fixed expected Blink accessibility tree
+summary: Expected Blink accessibility tree for the bounds-fixed test, listing sizes and clipped bounds of a fixed-position dialog and its buttons.

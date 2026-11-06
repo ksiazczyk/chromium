@@ -1,0 +1,4 @@
+# Docerion header of audio-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility tree for audio test
+summary: Expected Android accessibility tree in external format for the audio element test page, listing focusable controls such as play, mute and the time scrubber.

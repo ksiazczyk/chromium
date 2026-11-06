@@ -1,0 +1,4 @@
+# Docerion header of a-onclick-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for a-onclick
+summary: Expected Android accessibility tree for the a-onclick test page, showing links with onclick handlers and a link without an event handler.

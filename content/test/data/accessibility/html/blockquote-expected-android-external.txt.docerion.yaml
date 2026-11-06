@@ -1,0 +1,4 @@
+# Docerion header of blockquote-expected-android-external.txt.
+type: test
+title: Android external expected tree for blockquote accessibility test
+summary: Expected Android external accessibility tree snapshot for the blockquote HTML test with blockquote and paragraph roles.

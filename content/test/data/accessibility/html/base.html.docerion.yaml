@@ -1,0 +1,4 @@
+# Docerion header of base.html.
+type: test
+title: base element accessibility test page
+summary: HTML test page with a base element pointing to chromium.org, used as input for accessibility tests.

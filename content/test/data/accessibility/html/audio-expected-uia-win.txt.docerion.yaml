@@ -1,0 +1,4 @@
+# Docerion header of audio-expected-uia-win.txt.
+type: test
+title: Expected Windows UIA accessibility tree for audio test
+summary: Expected Windows UI Automation tree for the audio element test page, including localized control types and slider range values.

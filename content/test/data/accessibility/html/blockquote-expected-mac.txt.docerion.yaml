@@ -1,0 +1,4 @@
+# Docerion header of blockquote-expected-mac.txt.
+type: test
+title: Blockquote expected macOS accessibility tree
+summary: Expected macOS AX accessibility tree snapshot for the blockquote HTML test, with AXGroup and AXStaticText nodes for two blockquotes.

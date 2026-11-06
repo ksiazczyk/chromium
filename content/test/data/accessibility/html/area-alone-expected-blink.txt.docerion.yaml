@@ -1,0 +1,4 @@
+# Docerion header of area-alone-expected-blink.txt.
+type: test
+title: Area-alone expected Blink accessibility tree
+summary: Expected Blink accessibility tree showing that unused area elements are not rendered in the hierarchy.

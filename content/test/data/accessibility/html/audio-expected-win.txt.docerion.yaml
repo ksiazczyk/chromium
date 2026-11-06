@@ -1,0 +1,4 @@
+# Docerion header of audio-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for audio test
+summary: Expected Windows IA2 and MSAA accessibility tree for the audio element test page with roles, states and descriptions.

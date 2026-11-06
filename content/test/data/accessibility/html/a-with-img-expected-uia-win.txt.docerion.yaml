@@ -1,0 +1,4 @@
+# Docerion header of a-with-img-expected-uia-win.txt.
+type: test
+title: Expected UIA Windows accessibility tree for a-with-img
+summary: Expected Windows UI Automation tree snapshot for the a-with-img test page, listing hyperlinks and the images and text they contain.

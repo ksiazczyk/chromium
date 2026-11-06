@@ -1,0 +1,4 @@
+# Docerion header of body-expected-auralinux.txt.
+type: test
+title: Body expected accessibility tree for Aura Linux
+summary: Expected Aura Linux accessibility tree for the body tag test, with document, paragraph and static text nodes.

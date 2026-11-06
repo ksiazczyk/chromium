@@ -1,0 +1,4 @@
+# Docerion header of area-expected-android-external.txt.
+type: test
+title: Area element expected Android external accessibility tree
+summary: Expected Android external accessibility output for the image map area test page.

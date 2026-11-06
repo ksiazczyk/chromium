@@ -1,0 +1,4 @@
+# Docerion header of a-name-calc-expected-fuchsia.txt.
+type: test
+title: a name calc expected Fuchsia accessibility tree
+summary: Expected Fuchsia accessibility tree for the a-name-calc accessible name calculation test page.

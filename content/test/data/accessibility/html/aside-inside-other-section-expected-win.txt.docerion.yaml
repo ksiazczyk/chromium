@@ -1,0 +1,4 @@
+# Docerion header of aside-inside-other-section-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for aside inside other section
+summary: Expected Windows accessibility tree output for a page testing named and unnamed aside elements inside article and section elements.

@@ -1,0 +1,4 @@
+# Docerion header of a-with-before-expected-fuchsia.txt.
+type: test
+title: Expected Fuchsia accessibility tree for a-with-before test
+summary: Expected Fuchsia accessibility tree snapshot for the a-with-before test page showing a link with CSS before content.

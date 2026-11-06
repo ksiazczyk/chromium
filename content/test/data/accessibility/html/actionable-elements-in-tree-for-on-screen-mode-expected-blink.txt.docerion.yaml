@@ -1,0 +1,4 @@
+# Docerion header of actionable-elements-in-tree-for-on-screen-mode-expected-blink.txt.
+type: test
+title: Actionable elements in tree for on-screen mode expected Blink tree
+summary: Expected Blink accessibility tree for the on-screen mode test, showing which offscreen, disabled and clickable elements remain actionable in the tree.

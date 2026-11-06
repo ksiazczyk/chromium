@@ -1,0 +1,4 @@
+# Docerion header of accordion-expected-mac.txt.
+type: test
+title: Accordion expected macOS accessibility tree
+summary: Expected macOS AX API accessibility tree snapshot of the accordion test page, used as the pass criterion in accessibility tests.

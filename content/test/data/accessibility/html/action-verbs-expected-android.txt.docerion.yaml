@@ -1,0 +1,4 @@
+# Docerion header of action-verbs-expected-android.txt.
+type: test
+title: Action verbs expected Android accessibility tree
+summary: Expected Android accessibility tree snapshot of the action-verbs test page, used as the pass criterion in accessibility tests.

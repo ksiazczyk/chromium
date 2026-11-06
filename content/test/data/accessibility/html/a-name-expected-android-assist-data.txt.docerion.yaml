@@ -1,0 +1,4 @@
+# Docerion header of a-name-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for a-name accessibility test
+summary: Expected Android assist data output describing named anchors and links for the a-name accessibility test page.

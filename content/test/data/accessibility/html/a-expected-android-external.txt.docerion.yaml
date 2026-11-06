@@ -1,0 +1,4 @@
+# Docerion header of a-expected-android-external.txt.
+type: test
+title: Expected Android external tree for anchor link test
+summary: Expected Android external-format accessibility tree for the anchor link test page, including link actions, clickable scores and the target URL.

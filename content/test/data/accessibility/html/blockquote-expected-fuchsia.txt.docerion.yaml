@@ -1,0 +1,4 @@
+# Docerion header of blockquote-expected-fuchsia.txt.
+type: test
+title: Blockquote expected Fuchsia accessibility tree
+summary: Expected Fuchsia accessibility tree snapshot for the blockquote HTML test, describing paragraph and static text nodes for two blockquotes.

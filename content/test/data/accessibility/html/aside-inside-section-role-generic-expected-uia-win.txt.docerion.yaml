@@ -1,0 +1,4 @@
+# Docerion header of aside-inside-section-role-generic-expected-uia-win.txt.
+type: test
+title: Expected Windows UIA tree for aside inside section with role generic
+summary: Expected Windows UIA accessibility tree for asides inside a section with presentational and generic roles.

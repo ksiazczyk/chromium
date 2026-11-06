@@ -1,0 +1,4 @@
+# Docerion header of audio-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for audio test
+summary: Expected Android accessibility tree snapshot for the audio element test page with buttons, seek bar and media controls.

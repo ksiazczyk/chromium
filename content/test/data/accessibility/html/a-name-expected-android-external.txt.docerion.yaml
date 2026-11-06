@@ -1,0 +1,4 @@
+# Docerion header of a-name-expected-android-external.txt.
+type: test
+title: Expected Android external output for a-name accessibility test
+summary: Expected external Android accessibility output for the a-name test, covering named anchors and links with href.

@@ -1,0 +1,4 @@
+# Docerion header of aside-expected-mac.txt.
+type: test
+title: Aside expected Mac accessibility tree
+summary: Expected macOS accessibility tree snapshot for the HTML aside element test, showing complementary and main landmarks with headings and static text.

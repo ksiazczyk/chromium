@@ -1,0 +1,4 @@
+# Docerion header of audio-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for audio test
+summary: Expected macOS AX accessibility tree for the audio element test page, marked as skipped via a bug reference comment.
