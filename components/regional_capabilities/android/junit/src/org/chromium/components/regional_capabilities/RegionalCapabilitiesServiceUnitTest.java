@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RegionalCapabilitiesService unit tests
+// summary: JUnit tests for the Android RegionalCapabilitiesService that mock its JNI natives and verify the isInEeaCountry check delegates to the native layer.
+// ---
+
 package org.chromium.components.regional_capabilities;
 
 import static org.junit.Assert.assertTrue;

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for regional capabilities
+summary: Sets allowed include rules for the directory, with specific exceptions for tests and particular source files.

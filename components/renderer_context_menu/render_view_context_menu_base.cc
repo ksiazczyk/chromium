@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Render view context menu base implementation
+// summary: Implements RenderViewContextMenuBase, including adding content custom context menu items with depth and item count limits and command ID range handling.
+// ---
+
 #include "components/renderer_context_menu/render_view_context_menu_base.h"
 
 #include <algorithm>

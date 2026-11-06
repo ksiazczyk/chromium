@@ -1,0 +1,4 @@
+# Docerion header of override_ns_next_step_frame_hit_test.mm.
+type: source
+title: NSNextStepFrame hit test override implementation
+summary: Implements the swizzled -[NSNextStepFrame _hitTestForEvent:] so right mouse-down events in fullscreen reach Chrome's content view on macOS 26.

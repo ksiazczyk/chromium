@@ -1,0 +1,4 @@
+# Docerion header of text_input_host.mojom.
+type: source
+title: TextInputHost Mojo interface
+summary: Defines the Mojo interface exposing a focused view's text input client to its NSView, covering selection, composition text, attributed substrings, and text edit commands.

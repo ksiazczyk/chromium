@@ -1,0 +1,4 @@
+# Docerion header of native_widget_mac_overlay_nswindow_unittests.mm.
+type: test
+title: NativeWidgetMacOverlayNSWindow unit tests
+summary: Unit tests verifying that only the allowed NSWindow collection behaviors can be set on NativeWidgetMacOverlayNSWindow.

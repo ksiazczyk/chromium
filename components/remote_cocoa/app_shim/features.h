@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote Cocoa app shim feature flags
+// summary: Declares base::Feature flags that control macOS fullscreen, toolbar, and window move-loop behavior in the remote Cocoa app shim.
+// ---
+
 #ifndef COMPONENTS_REMOTE_COCOA_APP_SHIM_FEATURES_H_
 #define COMPONENTS_REMOTE_COCOA_APP_SHIM_FEATURES_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NativeWidgetNSWindowHost helper interface
+// summary: Declares a helper interface for the NativeWidgetNSWindowHost Mojo API, exposing accessibility, key events, quicklook text, drag-drop, and text input.
+// ---
+
 #ifndef COMPONENTS_REMOTE_COCOA_APP_SHIM_NATIVE_WIDGET_NS_WINDOW_HOST_HELPER_H_
 #define COMPONENTS_REMOTE_COCOA_APP_SHIM_NATIVE_WIDGET_NS_WINDOW_HOST_HELPER_H_
 

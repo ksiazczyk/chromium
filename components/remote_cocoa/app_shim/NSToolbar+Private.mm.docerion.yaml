@@ -1,0 +1,4 @@
+# Docerion header of NSToolbar+Private.mm.
+type: source
+title: Implementation of the private NSToolbar category
+summary: Implements the private NSToolbar category returning the backing toolbar view, working around an AppKit bug.

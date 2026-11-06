@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for remote_cocoa common
+summary: Sets directory owners and requires security-owner review for changes to mojom and mojom traits files.

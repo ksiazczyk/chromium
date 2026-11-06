@@ -1,0 +1,4 @@
+# Docerion header of context_menu_runner.mm.
+type: source
+title: Context menu runner implementation
+summary: Implements ContextMenuRunner, building an NSMenu from a Mojo menu model and updating, canceling, or closing the menu as needed.

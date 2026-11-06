@@ -1,0 +1,4 @@
+# Docerion header of cr_application.mm.
+type: source
+title: CrApplication implementation
+summary: Implements CrApplication with hardened sendAction and event handling, crash key reporting, and workarounds for Dock menu and macOS crashes.

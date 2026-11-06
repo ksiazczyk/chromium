@@ -1,0 +1,4 @@
+# Docerion header of native_widget_mac_overlay_nswindow.mm.
+type: source
+title: NativeWidgetMacOverlayNSWindow implementation
+summary: Implements NativeWidgetMacOverlayNSWindow, restricting allowed NSWindow collection behaviors and adding a debug color painting method for immersive fullscreen overlays.

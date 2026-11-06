@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Context menu delegate implementation
+// summary: Implements ContextMenuDelegate by attaching the delegate to WebContents user data and providing lookup and cleanup via FromWebContents.
+// ---
+
 #include "components/renderer_context_menu/context_menu_delegate.h"
 
 #include <memory>

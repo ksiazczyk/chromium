@@ -1,0 +1,4 @@
+# Docerion header of views_nswindow_delegate.mm.
+type: source
+title: Views NSWindow delegate implementation
+summary: Implements the NSWindow delegate for bridged native widgets, covering cursor updates, window ordering, system color and space changes, and aspect-ratio-constrained resizing.

@@ -1,0 +1,4 @@
+# Docerion header of native_widget_ns_window_host.mojom.
+type: source
+title: NativeWidgetNSWindowHost Mojo interface
+summary: Defines the Mojo interface through which an NSWindow in a separate process interacts with a NativeWidgetMac, covering visibility, event dispatch, hit testing, and window state messaging.

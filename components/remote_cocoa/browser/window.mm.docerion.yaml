@@ -1,0 +1,4 @@
+# Docerion header of window.mm.
+type: source
+title: Native window mapping implementation
+summary: Implements the native window mapping registry backing the lookup helpers for application hosts, window bridges and Mojo interfaces.

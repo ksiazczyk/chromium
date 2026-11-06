@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Regional capabilities metrics unit tests
+// summary: Verifies active regional program histogram recording across empty, default, mixed, and per-profile cases.
+// ---
+
 #include "components/regional_capabilities/regional_capabilities_metrics.h"
 
 #include "base/test/metrics/histogram_tester.h"

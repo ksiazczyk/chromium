@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for remote_cocoa common Mojo targets
+summary: Defines the Mojo bindings target listing the remote_cocoa .mojom sources, gfx::Font typemaps, and the font traits unit test source set.

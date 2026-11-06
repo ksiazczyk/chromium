@@ -1,0 +1,4 @@
+# Docerion header of select_file_dialog_bridge.mm.
+type: source
+title: Select file dialog bridge implementation
+summary: Implements the NSSavePanel-based file dialog, including the file type accessory view, extension dropdown handling, and panel completion callbacks.

@@ -1,0 +1,4 @@
+# Docerion header of alert.mojom.
+type: source
+title: Alert dialog Mojo interface
+summary: Defines the AlertBridge interface and parameters for showing native macOS alert dialogs and reporting their disposition.

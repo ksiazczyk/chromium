@@ -1,0 +1,4 @@
+# Docerion header of mojo_menu_model.mm.
+type: source
+title: Mojo menu model implementation
+summary: Implements MojoMenuModel, translating Mojo menu items into ui::MenuModel queries and reporting activated commands back to the menu host.

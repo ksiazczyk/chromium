@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenderViewContextMenuProxy interface
+// summary: Defines the interface observers use to control a RenderViewContextMenu, adding menu items and updating item text, status, and icons while the menu is showing.
+// ---
+
 #ifndef COMPONENTS_RENDERER_CONTEXT_MENU_RENDER_VIEW_CONTEXT_MENU_PROXY_H_
 #define COMPONENTS_RENDERER_CONTEXT_MENU_RENDER_VIEW_CONTEXT_MENU_PROXY_H_
 

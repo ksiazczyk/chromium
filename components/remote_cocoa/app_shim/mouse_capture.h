@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CocoaMouseCapture header for macOS mouse capture
+// summary: Declares CocoaMouseCapture, which captures mouse events on macOS to support menu widgets such as combo boxes, mimicking Windows SetCapture.
+// ---
+
 #ifndef COMPONENTS_REMOTE_COCOA_APP_SHIM_MOUSE_CAPTURE_H_
 #define COMPONENTS_REMOTE_COCOA_APP_SHIM_MOUSE_CAPTURE_H_
 

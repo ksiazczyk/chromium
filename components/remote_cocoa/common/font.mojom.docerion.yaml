@@ -1,0 +1,4 @@
+# Docerion header of font.mojom.
+type: source
+title: Font Mojo definitions for gfx::Font
+summary: Defines enums and a Font struct that let a gfx::Font be passed over Mojo so remote_cocoa can render text with browser-chosen fonts.

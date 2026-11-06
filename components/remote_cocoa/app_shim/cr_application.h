@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrApplication NSApplication subclass header
+// summary: Declares CrApplication, an NSApplication subclass conforming to CrAppProtocol and CrAppControlProtocol for the Mac app shim.
+// ---
+
 #ifndef COMPONENTS_REMOTE_COCOA_APP_SHIM_CR_APPLICATION_H_
 #define COMPONENTS_REMOTE_COCOA_APP_SHIM_CR_APPLICATION_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Regional capabilities preferences implementation
+// summary: Registers country ID profile preferences and provides a non-zero seed for shuffling choice screen elements.
+// ---
+
 #include "components/regional_capabilities/regional_capabilities_prefs.h"
 
 #include <cstdint>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Regional capabilities country ID holder header
+// summary: Declares the CountryIdHolder class that guards country ID access behind a CountryAccessKey and approval process.
+// ---
+
 #ifndef COMPONENTS_REGIONAL_CAPABILITIES_REGIONAL_CAPABILITIES_COUNTRY_ID_H_
 #define COMPONENTS_REGIONAL_CAPABILITIES_REGIONAL_CAPABILITIES_COUNTRY_ID_H_
 

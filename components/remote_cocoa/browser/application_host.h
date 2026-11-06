@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ApplicationHost browser-side class header
+// summary: Declares the browser-side ApplicationHost class corresponding to the NSApplication of an app shim process, with observers and a Mojo Application binding.
+// ---
+
 #ifndef COMPONENTS_REMOTE_COCOA_BROWSER_APPLICATION_HOST_H_
 #define COMPONENTS_REMOTE_COCOA_BROWSER_APPLICATION_HOST_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Context menu runner interface
+// summary: Declares ContextMenuRunner, which shows Mojo-driven context menus in a native NSWindow and supports canceling and updating menu items.
+// ---
+
 #ifndef COMPONENTS_REMOTE_COCOA_APP_SHIM_CONTEXT_MENU_RUNNER_H_
 #define COMPONENTS_REMOTE_COCOA_APP_SHIM_CONTEXT_MENU_RUNNER_H_
 

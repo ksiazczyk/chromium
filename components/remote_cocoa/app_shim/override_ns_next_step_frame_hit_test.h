@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NSNextStepFrame hit test override declarations
+// summary: Declares an AppKit method override that restores right-click context menus on the fullscreen tab strip under macOS 26.
+// ---
+
 #ifndef COMPONENTS_REMOTE_COCOA_APP_SHIM_OVERRIDE_NS_NEXT_STEP_FRAME_HIT_TEST_H_
 #define COMPONENTS_REMOTE_COCOA_APP_SHIM_OVERRIDE_NS_NEXT_STEP_FRAME_HIT_TEST_H_
 

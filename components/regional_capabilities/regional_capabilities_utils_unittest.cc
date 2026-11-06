@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Regional capabilities utilities unit tests
+// summary: Unit tests for prepopulated engine retrieval and scoped test overrides in the regional capabilities utilities.
+// ---
+
 #include "components/regional_capabilities/regional_capabilities_utils.h"
 
 #include "base/test/gtest_util.h"

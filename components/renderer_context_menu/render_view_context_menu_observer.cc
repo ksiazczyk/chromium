@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenderViewContextMenuObserver default method implementations
+// summary: Implements default no-op return values for the RenderViewContextMenuObserver interface methods covering command support, checked, and enabled queries.
+// ---
+
 #include "components/renderer_context_menu/render_view_context_menu_observer.h"
 
 bool RenderViewContextMenuObserver::IsCommandIdSupported(int command_id) {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Select file dialog bridge declarations
+// summary: Declares SelectFileDialogBridge, which bridges the mojo SelectFileDialog interface to the Cocoa NSSavePanel for file open and save dialogs.
+// ---
+
 #ifndef COMPONENTS_REMOTE_COCOA_APP_SHIM_SELECT_FILE_DIALOG_BRIDGE_H_
 #define COMPONENTS_REMOTE_COCOA_APP_SHIM_SELECT_FILE_DIALOG_BRIDGE_H_
 

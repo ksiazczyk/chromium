@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EEA choice countries ID set
+// summary: Defines a compile-time set of country IDs for EEA and associated territories used by the search engine choice program.
+// ---
+
 #ifndef COMPONENTS_REGIONAL_CAPABILITIES_EEA_COUNTRIES_IDS_H_
 #define COMPONENTS_REGIONAL_CAPABILITIES_EEA_COUNTRIES_IDS_H_
 

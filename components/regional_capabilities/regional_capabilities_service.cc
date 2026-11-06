@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Regional capabilities service implementation
+// summary: Implements the keyed service that manages profile country state and search engine choice capabilities, including persisted country ID migration and metrics.
+// ---
+
 #include "components/regional_capabilities/regional_capabilities_service.h"
 
 #include <algorithm>

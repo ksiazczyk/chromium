@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NSView ID generator header
+// summary: Declares GetNewNSViewId and the invalid NSView ID constant used with scoped NSView ID mappings in app shim processes.
+// ---
+
 #ifndef COMPONENTS_REMOTE_COCOA_BROWSER_NS_VIEW_IDS_H_
 #define COMPONENTS_REMOTE_COCOA_BROWSER_NS_VIEW_IDS_H_
 

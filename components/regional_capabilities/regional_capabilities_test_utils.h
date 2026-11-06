@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Regional capabilities test utilities header
+// summary: Declares the fake regional capabilities client, service factory helpers, and histogram expectation utilities for tests.
+// ---
+
 #ifndef COMPONENTS_REGIONAL_CAPABILITIES_REGIONAL_CAPABILITIES_TEST_UTILS_H_
 #define COMPONENTS_REGIONAL_CAPABILITIES_REGIONAL_CAPABILITIES_TEST_UTILS_H_
 

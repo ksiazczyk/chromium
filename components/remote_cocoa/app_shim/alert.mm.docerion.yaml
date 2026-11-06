@@ -1,0 +1,4 @@
+# Docerion header of alert.mm.
+type: source
+title: AlertBridge implementation for AppKit alerts and sheets
+summary: Implements AlertBridge and its helper to show blocking AppKit alerts with text fields, RTL fixes and truncation of long messages.

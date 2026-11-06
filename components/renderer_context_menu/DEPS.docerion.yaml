@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for renderer context menu
+summary: Specifies the directories and headers that code in the renderer_context_menu component is allowed to include, such as content, ui, and the context menu mojom.

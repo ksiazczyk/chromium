@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Headless NSWindow info struct
+// summary: Defines NativeWidgetMacNSWindowHeadlessInfo, holding headless window state, visibility, key status, and restored or headless bounds.
+// ---
+
 #ifndef COMPONENTS_REMOTE_COCOA_APP_SHIM_NATIVE_WIDGET_MAC_NSWINDOW_HEADLESS_H_
 #define COMPONENTS_REMOTE_COCOA_APP_SHIM_NATIVE_WIDGET_MAC_NSWINDOW_HEADLESS_H_
 

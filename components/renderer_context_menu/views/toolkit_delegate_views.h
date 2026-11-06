@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ToolkitDelegateViews class declaration
+// summary: Declares the ToolkitDelegateViews class, a RenderViewContextMenuBase::ToolkitDelegate that manages menu adapter, runner, and item view for context menus.
+// ---
+
 #ifndef COMPONENTS_RENDERER_CONTEXT_MENU_VIEWS_TOOLKIT_DELEGATE_VIEWS_H_
 #define COMPONENTS_RENDERER_CONTEXT_MENU_VIEWS_TOOLKIT_DELEGATE_VIEWS_H_
 

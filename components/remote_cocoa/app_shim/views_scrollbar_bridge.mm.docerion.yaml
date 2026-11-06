@@ -1,0 +1,4 @@
+# Docerion header of views_scrollbar_bridge.mm.
+type: source
+title: Views scrollbar bridge implementation
+summary: Implements ViewsScrollbarBridge by observing NSPreferredScrollerStyleDidChangeNotification and notifying its delegate of scroller style changes.

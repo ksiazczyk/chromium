@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo menu model interface
+// summary: Declares MojoMenuModel, a ui::MenuModel that wraps a list of Mojo menu items for display by MenuControllerCocoa in the app shim.
+// ---
+
 #ifndef COMPONENTS_REMOTE_COCOA_APP_SHIM_MOJO_MENU_MODEL_H_
 #define COMPONENTS_REMOTE_COCOA_APP_SHIM_MOJO_MENU_MODEL_H_
 

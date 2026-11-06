@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ToolkitDelegateViews implementation for Views context menus
+// summary: Implements the Views toolkit delegate that initializes, runs, cancels, and rebuilds renderer context menus using views::MenuModelAdapter and views::MenuRunner.
+// ---
+
 #include "components/renderer_context_menu/views/toolkit_delegate_views.h"
 
 #include <memory>

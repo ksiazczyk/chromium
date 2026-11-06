@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NSView identifier mapping declarations
+// summary: Declares functions and a scoped class mapping NSViews to 64-bit identifiers for lookup in the app shim process.
+// ---
+
 #ifndef COMPONENTS_REMOTE_COCOA_APP_SHIM_NS_VIEW_IDS_H_
 #define COMPONENTS_REMOTE_COCOA_APP_SHIM_NS_VIEW_IDS_H_
 

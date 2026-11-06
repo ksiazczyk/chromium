@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ApplicationBridge interface bridging Mojo to NSApplication
+// summary: Declares ApplicationBridge, the root Mojo interface bridging remote Cocoa requests to NSApplication, NSWindow and NSView creation.
+// ---
+
 #ifndef COMPONENTS_REMOTE_COCOA_APP_SHIM_APPLICATION_BRIDGE_H_
 #define COMPONENTS_REMOTE_COCOA_APP_SHIM_APPLICATION_BRIDGE_H_
 

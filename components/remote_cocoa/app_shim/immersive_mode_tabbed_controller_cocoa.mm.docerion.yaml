@@ -1,0 +1,4 @@
+# Docerion header of immersive_mode_tabbed_controller_cocoa.mm.
+type: source
+title: Tabbed immersive mode controller implementation
+summary: Implements the tabbed immersive fullscreen controller, managing the tab titlebar view, traffic lights, and tab window z-order during fullscreen.

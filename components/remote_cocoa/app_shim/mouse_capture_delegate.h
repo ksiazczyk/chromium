@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CocoaMouseCapture delegate interface
+// summary: Defines the CocoaMouseCaptureDelegate interface for receiving captured events, handling capture loss, and providing the associated NSWindow.
+// ---
+
 #ifndef COMPONENTS_REMOTE_COCOA_APP_SHIM_MOUSE_CAPTURE_DELEGATE_H_
 #define COMPONENTS_REMOTE_COCOA_APP_SHIM_MOUSE_CAPTURE_DELEGATE_H_
 

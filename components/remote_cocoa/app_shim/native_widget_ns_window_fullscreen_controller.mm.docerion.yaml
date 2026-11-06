@@ -1,0 +1,4 @@
+# Docerion header of native_widget_ns_window_fullscreen_controller.mm.
+type: source
+title: Fullscreen transition controller implementation
+summary: Implements fullscreen enter and exit state transitions for bridged NSWindows, including deferred window closes and fake fullscreen for testing.

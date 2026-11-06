@@ -1,0 +1,4 @@
+# Docerion header of menu.mojom.
+type: source
+title: Menu Mojo definitions and interfaces
+summary: Defines menu item structures and the Menu and MenuHost interfaces for building and interacting with native macOS menus.

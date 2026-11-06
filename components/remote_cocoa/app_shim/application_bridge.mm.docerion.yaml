@@ -1,0 +1,4 @@
+# Docerion header of application_bridge.mm.
+type: source
+title: ApplicationBridge implementation for widget and view creation
+summary: Implements ApplicationBridge, creating alert bridges, native widget NSWindow bridges and content NSViews over Mojo.

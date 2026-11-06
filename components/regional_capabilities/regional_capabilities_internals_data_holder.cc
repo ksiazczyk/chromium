@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Regional capabilities internals data holder implementation
+// summary: Builds the key-value data shown on the regional capabilities internals page, including active program and country codes.
+// ---
+
 #include "components/regional_capabilities/regional_capabilities_internals_data_holder.h"
 
 #include "base/check_is_test.h"

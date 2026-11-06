@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedCGWindowID registry implementation
+// summary: Implements the ScopedCGWindowID registry that maps CG window IDs to frame sink IDs and notifies observers of destruction and mouse moves.
+// ---
+
 #include "components/remote_cocoa/browser/scoped_cg_window_id.h"
 
 #include <map>

@@ -1,0 +1,4 @@
+# Docerion header of immersive_mode_controller_cocoa.mm.
+type: source
+title: Immersive mode controller implementation for macOS fullscreen
+summary: Implements the macOS immersive fullscreen controller, mapping AppKit fullscreen windows to overlay windows and handling toolbar reveal and visibility.

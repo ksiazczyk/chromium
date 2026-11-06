@@ -1,0 +1,4 @@
+# Docerion header of browser_native_widget_window_mac.mm.
+type: source
+title: BrowserNativeWidgetWindow implementation
+summary: Implements BrowserNativeWidgetWindow and its frame class, overriding titlebar height, corner radius, and traffic light behavior for macOS browser windows.

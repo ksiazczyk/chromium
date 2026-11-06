@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS rule requiring review for new usages
+summary: Sets new_usages_require_review to true so that new usages in the access directory require review.

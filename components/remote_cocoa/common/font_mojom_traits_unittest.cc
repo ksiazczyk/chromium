@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for font Mojo traits serialization
+// summary: Verifies that various gfx::Font instances round-trip correctly through Mojo serialization using the font traits.
+// ---
+
 #include "components/remote_cocoa/common/font.mojom.h"
 #include "components/remote_cocoa/common/font_mojom_traits.h"
 #include "mojo/public/cpp/test_support/test_utils.h"

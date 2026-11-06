@@ -1,0 +1,4 @@
+# Docerion header of application.mojom.
+type: source
+title: Application Mojo interface for the Cocoa app shim
+summary: Defines the Application interface through which the browser creates Cocoa alerts, windows, views and media controls in the app shim process.

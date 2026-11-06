@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Private NSToolbar category interface for toolbar view access
+// summary: Declares a private NSToolbar category exposing the view that backs the toolbar.
+// ---
+
 #ifndef COMPONENTS_REMOTE_COCOA_APP_SHIM_NSTOOLBAR_PRIVATE_H_
 #define COMPONENTS_REMOTE_COCOA_APP_SHIM_NSTOOLBAR_PRIVATE_H_
 
