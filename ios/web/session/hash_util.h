@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hash helper templates for session objects
+// summary: Header providing ComputeHash and Hasher specialisations for hashing session values such as certificates, hash values and tuples.
+// ---
+
 #ifndef IOS_WEB_SESSION_HASH_UTIL_H_
 #define IOS_WEB_SESSION_HASH_UTIL_H_
 

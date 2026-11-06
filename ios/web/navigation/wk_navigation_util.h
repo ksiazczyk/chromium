@@ -15,6 +15,12 @@
 // navigations. See "Handling App-specific URLs" section in
 // go/bling-navigation-experiment for more details.
 
+// ---docerion
+// type: source
+// title: WKNavigation utility header
+// summary: Declares utility functions and constants for magic URLs used by NavigationManagerImpl, including restore session URLs and placeholder navigations.
+// ---
+
 #ifndef IOS_WEB_NAVIGATION_WK_NAVIGATION_UTIL_H_
 #define IOS_WEB_NAVIGATION_WK_NAVIGATION_UTIL_H_
 

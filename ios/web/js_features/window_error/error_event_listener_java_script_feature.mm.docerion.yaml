@@ -1,0 +1,4 @@
+# Docerion header of error_event_listener_java_script_feature.mm.
+type: source
+title: ErrorEventListenerJavaScriptFeature implementation
+summary: Implements the error event listener feature, injecting the error script into an isolated content world at document start so all errors are reported once.

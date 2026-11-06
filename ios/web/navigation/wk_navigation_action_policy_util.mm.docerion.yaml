@@ -1,0 +1,4 @@
+# Docerion header of wk_navigation_action_policy_util.mm.
+type: source
+title: WKNavigationActionPolicy utilities implementation
+summary: Defines the allow-and-block-universal-links policy and returns it when universal link blocking in off-the-record mode is enabled via build flags and feature flag.

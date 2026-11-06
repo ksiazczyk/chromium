@@ -1,0 +1,4 @@
+# Docerion header of web_frame_impl.mm.
+type: source
+title: WebFrameImpl implementation
+summary: Implements JavaScript execution and function calls in web frames, including error caching, logging and content world support.

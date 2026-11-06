@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NavigationContextImpl interface
+// summary: Declares the navigation context class tracking URL, commit state, errors and response headers.
+// ---
+
 #ifndef IOS_WEB_NAVIGATION_NAVIGATION_CONTEXT_IMPL_H_
 #define IOS_WEB_NAVIGATION_NAVIGATION_CONTEXT_IMPL_H_
 

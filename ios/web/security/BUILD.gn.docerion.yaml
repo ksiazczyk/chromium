@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for ios/web/security
+summary: Defines the security source set and the testonly unittests target with their sources and dependencies for the iOS web security module.

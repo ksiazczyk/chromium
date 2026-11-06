@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for web providers
+summary: Defines the providers group plus the navigation and cobalt source sets with their sources, dependencies, and frameworks for the iOS web provider layer.

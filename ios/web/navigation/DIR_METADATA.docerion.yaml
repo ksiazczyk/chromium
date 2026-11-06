@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for navigation bug tracking
+summary: Maps the navigation directory to the UI>Browser>Navigation monorail component and a Buganizer component ID.

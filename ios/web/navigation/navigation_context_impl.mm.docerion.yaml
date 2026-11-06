@@ -1,0 +1,4 @@
+# Docerion header of navigation_context_impl.mm.
+type: source
+title: NavigationContextImpl implementation
+summary: Implements navigation context creation, unique IDs, setters and pending item ownership.

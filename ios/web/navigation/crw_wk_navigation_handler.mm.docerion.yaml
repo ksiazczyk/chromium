@@ -1,0 +1,4 @@
+# Docerion header of crw_wk_navigation_handler.mm.
+type: source
+title: CRWWKNavigationHandler implementation
+summary: Implements WKWebView navigation delegate callbacks covering policy decisions, certificate errors, HTTPS upgrades, authentication, downloads, and error pages.

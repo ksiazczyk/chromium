@@ -1,0 +1,4 @@
+# Docerion header of error_page_loaded.html.
+type: source
+title: Error page loaded redirect handler
+summary: Error page that reads the failed URL from query parameters and reloads it, while avoiding a double navigation the first time the page is shown.

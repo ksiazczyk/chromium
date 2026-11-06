@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Context menu params utilities declaration
+// summary: Declares ContextMenuParamsFromElementDictionary, which builds ContextMenuParams from an element value dictionary.
+// ---
+
 #ifndef IOS_WEB_JS_FEATURES_CONTEXT_MENU_CONTEXT_MENU_PARAMS_UTILS_H_
 #define IOS_WEB_JS_FEATURES_CONTEXT_MENU_CONTEXT_MENU_PARAMS_UTILS_H_
 

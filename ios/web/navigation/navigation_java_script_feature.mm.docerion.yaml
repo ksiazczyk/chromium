@@ -1,0 +1,4 @@
+# Docerion header of navigation_java_script_feature.mm.
+type: source
+title: NavigationJavaScriptFeature implementation
+summary: Handles navigation messages from injected JavaScript such as hashchange and history push or replace state, forwarding them to the web controller.

@@ -1,0 +1,4 @@
+# Docerion header of scoped_wk_script_message_handler_unittest.mm.
+type: test
+title: Scoped WK script message handler unit tests
+summary: Unit tests covering message delivery, content world scoping, and asynchronous reply handling for scoped WKScriptMessageHandler registrations.

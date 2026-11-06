@@ -1,0 +1,4 @@
+# Docerion header of wk_web_view_security_util.mm.
+type: source
+title: WKWebView security utility implementation
+summary: Implements certificate and trust creation from SecCertificate chains and maps WKWebView SSL error codes to net certificate statuses.

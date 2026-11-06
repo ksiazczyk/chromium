@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the error_page source set
+summary: GN build file defining the error_page source set, listing its header and implementation sources and its dependencies on base, navigation utilities, and JS messaging.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Script error message handler JavaScript feature header
+// summary: Declares a JavaScript feature that listens for WindowErrorResultHandler script messages and runs a callback with details of each received error.
+// ---
+
 #ifndef IOS_WEB_JS_FEATURES_WINDOW_ERROR_SCRIPT_ERROR_MESSAGE_HANDLER_JAVA_SCRIPT_FEATURE_H_
 #define IOS_WEB_JS_FEATURES_WINDOW_ERROR_SCRIPT_ERROR_MESSAGE_HANDLER_JAVA_SCRIPT_FEATURE_H_
 

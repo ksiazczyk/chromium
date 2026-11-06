@@ -1,0 +1,4 @@
+# Docerion header of page_script_util_unittest.mm.
+type: test
+title: Page script utility unit tests
+summary: Unit tests verifying that scripts inject only once and that private scripts are skipped on origins outside the allowed filter.

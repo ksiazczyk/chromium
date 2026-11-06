@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NavigationManagerDelegate interface
+// summary: Declares the delegate interface through which the navigation manager hands off navigation flow steps like loading items, reloading and SSL status updates.
+// ---
+
 #ifndef IOS_WEB_NAVIGATION_NAVIGATION_MANAGER_DELEGATE_H_
 #define IOS_WEB_NAVIGATION_NAVIGATION_MANAGER_DELEGATE_H_
 

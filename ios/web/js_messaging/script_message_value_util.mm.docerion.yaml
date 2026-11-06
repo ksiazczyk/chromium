@@ -1,0 +1,4 @@
+# Docerion header of script_message_value_util.mm.
+type: source
+title: ScriptMessageValue utility implementation
+summary: Converts Objective-C strings, numbers, booleans, dictionaries and arrays into corresponding ScriptMessageValue instances.

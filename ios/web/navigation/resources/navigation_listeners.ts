@@ -6,6 +6,12 @@
  * @fileoverview Navigation listener to report hash change.
  */
 
+// ---docerion
+// type: source
+// title: Hash change navigation listener
+// summary: JavaScript listener that reports hashchange events to the native code through the NavigationEventMessage handler.
+// ---
+
 import {gCrWeb} from '//ios/web/public/js_messaging/resources/gcrweb.js';
 import {sendWebKitMessage} from '//ios/web/public/js_messaging/resources/utils.js';
 

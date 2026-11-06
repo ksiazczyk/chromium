@@ -1,0 +1,4 @@
+# Docerion header of clipboard_js_unittest.mm.
+type: test
+title: Clipboard JavaScript unit tests
+summary: Runs the clipboard and paste handler scripts in a web view to test navigator.clipboard read and write promise behavior over HTTPS.

@@ -1,0 +1,4 @@
+# Docerion header of wk_http_system_cookie_store_unittest.mm.
+type: test
+title: Unit tests for WKHTTPSystemCookieStore
+summary: Runs the shared SystemCookieStore test suite against WKHTTPSystemCookieStore using an off-the-record fake browser state.

@@ -1,0 +1,4 @@
+# Docerion header of web_js_error_report_processor.mm.
+type: source
+title: Web JavaScript error report processor implementation
+summary: Builds JavaScript error reports with standard parameters and experiment IDs and uploads them to the crash report endpoint, logging upload results to histograms.

@@ -1,0 +1,4 @@
+# Docerion header of wk_cookie_util_unittest.mm.
+type: test
+title: Unit test for WKCookieStoreForBrowserState
+summary: Verifies that WKCookieStoreForBrowserState returns a valid WKHTTPCookieStore instance for a browser state.

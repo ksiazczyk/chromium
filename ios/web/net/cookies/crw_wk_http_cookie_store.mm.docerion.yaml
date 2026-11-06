@@ -1,0 +1,4 @@
+# Docerion header of crw_wk_http_cookie_store.mm.
+type: source
+title: CRWWKHTTPCookieStore implementation with cookie caching
+summary: Implements the caching WKHTTPCookieStore wrapper, including callback prioritization and the SkipCookieCaching feature experiment.

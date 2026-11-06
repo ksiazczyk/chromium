@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JavaScriptFeatureManager header
+// summary: Declares JavaScriptFeatureManager, which configures JavaScriptFeatures for a BrowserState by placing them in the page content world or an isolated world.
+// ---
+
 #ifndef IOS_WEB_JS_MESSAGING_JAVA_SCRIPT_FEATURE_MANAGER_H_
 #define IOS_WEB_JS_MESSAGING_JAVA_SCRIPT_FEATURE_MANAGER_H_
 

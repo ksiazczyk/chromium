@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SynthesizedSessionRestore declaration
+// summary: Declares a function that generates an NSData blob similar to WKWebView's interaction state for native session restore.
+// ---
+
 #ifndef IOS_WEB_NAVIGATION_SYNTHESIZED_SESSION_RESTORE_H_
 #define IOS_WEB_NAVIGATION_SYNTHESIZED_SESSION_RESTORE_H_
 

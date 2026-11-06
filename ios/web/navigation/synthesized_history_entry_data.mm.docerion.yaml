@@ -1,0 +1,4 @@
+# Docerion header of synthesized_history_entry_data.mm.
+type: source
+title: SynthesizedHistoryEntryData implementation
+summary: Encodes session history entry data, including sequence numbers and the referrer URL, into a packed NSData blob matching WebKit's format.

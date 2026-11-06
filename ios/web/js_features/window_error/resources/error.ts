@@ -6,6 +6,12 @@
  * @fileoverview Error listener to report error details to the native app.
  */
 
+// ---docerion
+// type: source
+// title: Window error listener reporting JS errors to the native app
+// summary: TypeScript module that listens for window error events and sends error line numbers and messages to the native iOS app via WebKit messaging, skipping CrWebError instances to avoid duplicate reports.
+// ---
+
 import {CrWebError} from '//ios/web/public/js_messaging/resources/gcrweb_error.js';
 import {sendWebKitMessage} from '//ios/web/public/js_messaging/resources/utils.js';
 

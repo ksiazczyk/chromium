@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for window_error
+summary: Grants the window_error directory permission to include headers from components/variations.

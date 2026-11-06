@@ -1,0 +1,4 @@
+# Docerion header of proto_util.mm.
+type: source
+title: HTTP header protobuf conversion implementation
+summary: Converts HTTP request headers between NSDictionary and protobuf HttpHeaderListStorage representations.

@@ -1,0 +1,4 @@
+# Docerion header of crw_ssl_status_updater.mm.
+type: source
+title: CRWSSLStatusUpdater implementation
+summary: Implements SSL status updates for navigation items, computing security style and certificate status asynchronously from trust and host.

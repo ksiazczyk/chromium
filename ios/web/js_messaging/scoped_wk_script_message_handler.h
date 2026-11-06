@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped WK script message handler declarations
+// summary: Declares ScopedWKScriptMessageHandler, which registers and unregisters WKScriptMessageHandler callbacks, including reply-capable handlers, on a WKUserContentController.
+// ---
+
 #ifndef IOS_WEB_JS_MESSAGING_SCOPED_WK_SCRIPT_MESSAGE_HANDLER_H_
 #define IOS_WEB_JS_MESSAGING_SCOPED_WK_SCRIPT_MESSAGE_HANDLER_H_
 

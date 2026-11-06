@@ -1,0 +1,4 @@
+# Docerion header of origin_filter.mm.
+type: source
+title: Origin filter origin list mapping
+summary: Maps web::OriginFilter enum values to the corresponding allowed origin lists, including Cobalt and Google Search origins.

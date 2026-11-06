@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for iOS web session certificate code
+summary: Defines the session, hash_util and unittests source sets with their sources and dependencies for the iOS web session directory.

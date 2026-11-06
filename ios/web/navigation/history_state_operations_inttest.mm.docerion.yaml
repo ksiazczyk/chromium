@@ -1,0 +1,4 @@
+# Docerion header of history_state_operations_inttest.mm.
+type: test
+title: History state operations integration tests
+summary: Integration tests for HTML5 window.history pushState and replaceState behavior in WKWebView.

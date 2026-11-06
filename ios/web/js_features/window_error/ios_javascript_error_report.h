@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IOSJavaScriptErrorReport struct declaration
+// summary: Defines the struct carrying API name, error message, stack trace, page URL, crash keys, and source system for JavaScript error reports sent from iOS.
+// ---
+
 #ifndef IOS_WEB_JS_FEATURES_WINDOW_ERROR_IOS_JAVASCRIPT_ERROR_REPORT_H_
 #define IOS_WEB_JS_FEATURES_WINDOW_ERROR_IOS_JAVASCRIPT_ERROR_REPORT_H_
 

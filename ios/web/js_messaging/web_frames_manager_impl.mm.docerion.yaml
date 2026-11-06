@@ -1,0 +1,4 @@
+# Docerion header of web_frames_manager_impl.mm.
+type: source
+title: WebFramesManagerImpl implementation
+summary: Implements web frame registration and removal with main frame tracking and observer notifications.

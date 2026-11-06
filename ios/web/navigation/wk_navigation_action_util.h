@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigation action initiation type utilities header
+// summary: Declares an enum and helper functions that determine whether a WKNavigationAction was initiated by the user or by script.
+// ---
+
 #ifndef IOS_WEB_NAVIGATION_WK_NAVIGATION_ACTION_UTIL_H_
 #define IOS_WEB_NAVIGATION_WK_NAVIGATION_ACTION_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for CertHostPair
+// summary: Unit tests covering CertHostPair construction and comparison ordering across different certificates and hosts.
+// ---
+
 #include "ios/web/security/cert_host_pair.h"
 
 #include "net/test/cert_test_util.h"

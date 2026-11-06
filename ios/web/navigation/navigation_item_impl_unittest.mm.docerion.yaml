@@ -1,0 +1,4 @@
+# Docerion header of navigation_item_impl_unittest.mm.
+type: test
+title: NavigationItemImpl unit tests
+summary: Unit tests for NavigationItemImpl covering cloning, HTTP request headers, debug description and related item state behavior.

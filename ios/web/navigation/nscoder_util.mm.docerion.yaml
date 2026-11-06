@@ -1,0 +1,4 @@
+# Docerion header of nscoder_util.mm.
+type: source
+title: NSCoder string encoding helper implementation
+summary: Implements encoding and decoding of std::string values through the NSCoder byte APIs.

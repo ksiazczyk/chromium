@@ -1,0 +1,4 @@
+# Docerion header of context_menu_params_utils.mm.
+type: source
+title: Context menu params utilities implementation
+summary: Converts an element dictionary into ContextMenuParams, mapping href, src, title, alt, text and surrounding text fields.

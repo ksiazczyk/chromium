@@ -1,0 +1,4 @@
+# Docerion header of web_cobalt.mm.
+type: source
+title: Cobalt provider stubs
+summary: Implements no-op Cobalt provider functions for WKWebView configuration and returns an empty Cobalt origin list.

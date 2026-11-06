@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Constants for clipboard JavaScript messages
+// summary: Declares command strings and message body keys shared between the injected clipboard JavaScript and the native script message handler.
+// ---
+
 #ifndef IOS_WEB_JS_FEATURES_CLIPBOARD_CLIPBOARD_CONSTANTS_H_
 #define IOS_WEB_JS_FEATURES_CLIPBOARD_CLIPBOARD_CONSTANTS_H_
 

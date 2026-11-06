@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContextMenuJavaScriptFeature class declaration
+// summary: Declares a JavaScript feature that retrieves details of the DOM element at a given point and reports them via callback.
+// ---
+
 #ifndef IOS_WEB_JS_FEATURES_CONTEXT_MENU_CONTEXT_MENU_JAVA_SCRIPT_FEATURE_H_
 #define IOS_WEB_JS_FEATURES_CONTEXT_MENU_CONTEXT_MENU_JAVA_SCRIPT_FEATURE_H_
 

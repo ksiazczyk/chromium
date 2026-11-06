@@ -1,0 +1,4 @@
+# Docerion header of script_message_list_value_impl_unittest.mm.
+type: test
+title: ScriptMessageListValue unit tests
+summary: Unit tests covering empty, size, front, back and iteration behavior of ScriptMessageListValue for empty and populated NSArray inputs.

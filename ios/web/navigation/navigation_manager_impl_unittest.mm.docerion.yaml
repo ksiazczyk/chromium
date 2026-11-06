@@ -1,0 +1,4 @@
+# Docerion header of navigation_manager_impl_unittest.mm.
+type: test
+title: NavigationManagerImpl unit tests
+summary: Extensive unit tests for the navigation manager using mock delegates, fake back-forward lists and URL rewriters.

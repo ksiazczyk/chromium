@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CertHostPair class declaration
+// summary: Declares CertHostPair, a certificate-host pair with a less-than operator so it can serve as a key in ordered containers.
+// ---
+
 #ifndef IOS_WEB_SECURITY_CERT_HOST_PAIR_H_
 #define IOS_WEB_SECURITY_CERT_HOST_PAIR_H_
 

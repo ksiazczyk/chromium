@@ -1,0 +1,4 @@
+# Docerion header of navigation_manager_util_unittest.mm.
+type: test
+title: Unit tests for navigation manager utility functions
+summary: Tests GetItemWithUniqueID, GetCommittedItemWithUniqueID and GetCommittedItemIndexWithUniqueID using a fake back-forward list and navigation manager.

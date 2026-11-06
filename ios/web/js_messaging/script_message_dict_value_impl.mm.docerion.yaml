@@ -1,0 +1,4 @@
+# Docerion header of script_message_dict_value_impl.mm.
+type: source
+title: Script message dictionary value implementation
+summary: Implements ScriptMessageDictValue accessors that type-check NSDictionary entries and return optional bool, int, double, string, dict, and list values.

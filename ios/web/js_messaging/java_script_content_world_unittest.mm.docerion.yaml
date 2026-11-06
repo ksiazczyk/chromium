@@ -1,0 +1,4 @@
+# Docerion header of java_script_content_world_unittest.mm.
+type: test
+title: JavaScript content world unit tests
+summary: Unit tests verifying that JavaScript features are added to page, isolated, and all content worlds with the expected injected scripts.

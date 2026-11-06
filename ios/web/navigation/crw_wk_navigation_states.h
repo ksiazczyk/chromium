@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CRWWKNavigationStates interface
+// summary: Declares a class that stores states and navigation contexts for in-flight WKWebView navigations.
+// ---
+
 #ifndef IOS_WEB_NAVIGATION_CRW_WK_NAVIGATION_STATES_H_
 #define IOS_WEB_NAVIGATION_CRW_WK_NAVIGATION_STATES_H_
 

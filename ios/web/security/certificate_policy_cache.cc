@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of CertificatePolicyCache
+// summary: Implements the per-host certificate policy cache that allows certs for hosts and queries policies on the IO thread.
+// ---
+
 #include "ios/web/public/security/certificate_policy_cache.h"
 
 #include "base/check_op.h"

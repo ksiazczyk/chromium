@@ -1,0 +1,4 @@
+# Docerion header of script_message.mm.
+type: source
+title: Script message implementation
+summary: Implements the ScriptMessage class holding the message body plus user interaction, frame, request URL, and security origin metadata.

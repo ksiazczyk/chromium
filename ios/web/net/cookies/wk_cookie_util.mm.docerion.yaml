@@ -1,0 +1,4 @@
+# Docerion header of wk_cookie_util.mm.
+type: source
+title: WKCookieStoreForBrowserState implementation
+summary: Returns the WKHTTPCookieStore from the WKWebViewConfigurationProvider associated with the given BrowserState.

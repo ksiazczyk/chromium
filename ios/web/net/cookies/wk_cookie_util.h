@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WKCookieStoreForBrowserState utility declaration
+// summary: Declares WKCookieStoreForBrowserState, which returns the WKHTTPCookieStore for a given BrowserState, ephemeral when off the record.
+// ---
+
 #ifndef IOS_WEB_NET_COOKIES_WK_COOKIE_UTIL_H_
 #define IOS_WEB_NET_COOKIES_WK_COOKIE_UTIL_H_
 

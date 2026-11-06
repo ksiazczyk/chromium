@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NavigationInitiationType enum
+// summary: Defines how pending navigations are initiated, either by the browser or by the renderer.
+// ---
+
 #ifndef IOS_WEB_NAVIGATION_NAVIGATION_INITIATION_TYPE_H_
 #define IOS_WEB_NAVIGATION_NAVIGATION_INITIATION_TYPE_H_
 

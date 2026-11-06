@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web view web state map header
+// summary: Declares functions to associate WKWebView instances with WebState objects and to look up the WebState for a given web view.
+// ---
+
 #ifndef IOS_WEB_JS_MESSAGING_WEB_VIEW_WEB_STATE_MAP_H_
 #define IOS_WEB_JS_MESSAGING_WEB_VIEW_WEB_STATE_MAP_H_
 

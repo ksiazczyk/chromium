@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SSLStatus unit tests
+// summary: Tests default values and the Equals method of the SSLStatus class across different content status flags and copies.
+// ---
+
 #include "ios/web/public/security/ssl_status.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

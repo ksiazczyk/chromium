@@ -15,6 +15,12 @@
  * be rejected, and only then will the promise for B be settled.
  */
 
+// ---docerion
+// type: source
+// title: Clipboard API override script for native approval
+// summary: Overrides navigator.clipboard methods to intercept calls, queue them sequentially, and request native browser approval before settling clipboard read and write promises.
+// ---
+
 import {sendDidFinishClipboardReadMessage} from '//ios/web/js_features/clipboard/resources/clipboard_util.js';
 import {CrWebApi, gCrWeb} from '//ios/web/public/js_messaging/resources/gcrweb.js';
 import {sendWebKitMessage} from '//ios/web/public/js_messaging/resources/utils.js';

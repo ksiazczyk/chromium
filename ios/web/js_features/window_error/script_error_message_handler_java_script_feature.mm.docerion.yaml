@@ -1,0 +1,4 @@
+# Docerion header of script_error_message_handler_java_script_feature.mm.
+type: source
+title: Script error message handler implementation
+summary: Parses window error script messages into ScriptErrorDetails, reports them via the error report processor when logging is enabled, and invokes the callback.

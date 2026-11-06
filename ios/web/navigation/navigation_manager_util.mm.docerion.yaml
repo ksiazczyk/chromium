@@ -1,0 +1,4 @@
+# Docerion header of navigation_manager_util.mm.
+type: source
+title: Navigation manager utility for finding items by unique ID
+summary: Implements helpers that locate pending or committed navigation items and their index in a NavigationManagerImpl by navigation item unique ID.

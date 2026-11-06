@@ -1,0 +1,4 @@
+# Docerion header of java_script_content_world.mm.
+type: source
+title: JavaScript content world implementation
+summary: Implements JavaScriptContentWorld, injecting feature scripts into the WKUserContentController and converting and dispatching WKScriptMessages to features.

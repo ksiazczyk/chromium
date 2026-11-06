@@ -1,0 +1,4 @@
+# Docerion header of clipboard_java_script_feature.mm.
+type: source
+title: ClipboardJavaScriptFeature implementation
+summary: Implements handling of clipboard read and write commands, records data controls metrics, and notifies the delegate when a clipboard read finishes.

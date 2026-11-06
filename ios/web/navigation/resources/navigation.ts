@@ -6,6 +6,12 @@
  * @fileoverview Navigation related APIs.
  */
 
+// ---docerion
+// type: source
+// title: Navigation history state messaging
+// summary: JavaScript that intercepts history pushState and replaceState and queues navigation event messages for the native iOS code, handling serialization errors.
+// ---
+
 import {gCrWeb} from '//ios/web/public/js_messaging/resources/gcrweb.js';
 import {sendWebKitMessage} from '//ios/web/public/js_messaging/resources/utils.js';
 

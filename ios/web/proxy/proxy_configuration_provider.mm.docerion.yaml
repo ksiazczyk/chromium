@@ -1,0 +1,4 @@
+# Docerion header of proxy_configuration_provider.mm.
+type: source
+title: Proxy configuration provider mapping rules to Network.framework
+summary: Applies per-BrowserState proxy rules as native Network.framework HTTP CONNECT configurations, handling bypass domains and skipping unsupported proxy schemes.

@@ -1,0 +1,4 @@
+# Docerion header of context_menu_java_script_feature.mm.
+type: source
+title: ContextMenuJavaScriptFeature implementation
+summary: Implements element lookup at a point, script injection into frames and handling of find-element result messages.

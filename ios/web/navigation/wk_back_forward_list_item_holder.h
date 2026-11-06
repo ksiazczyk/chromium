@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WKBackForwardListItemHolder class header
+// summary: Declares a holder attached to NavigationItem that preserves the WKBackForwardListItem plus navigation type, HTTP method and MIME type needed for native WKWebView navigation.
+// ---
+
 #ifndef IOS_WEB_NAVIGATION_WK_BACK_FORWARD_LIST_ITEM_HOLDER_H_
 #define IOS_WEB_NAVIGATION_WK_BACK_FORWARD_LIST_ITEM_HOLDER_H_
 

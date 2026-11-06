@@ -7,6 +7,12 @@
  * imported by other clipboard-related scripts.
  */
 
+// ---docerion
+// type: source
+// title: Shared clipboard utility library
+// summary: Shared helper library for clipboard-related scripts that notifies the native ClipboardHandler when a clipboard read has finished.
+// ---
+
 import {gCrWeb} from '//ios/web/public/js_messaging/resources/gcrweb.js';
 import {sendWebKitMessage} from '//ios/web/public/js_messaging/resources/utils.js';
 

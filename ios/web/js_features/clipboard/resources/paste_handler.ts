@@ -8,6 +8,12 @@
  * recreation to ensure the event listener is always attached.
  */
 
+// ---docerion
+// type: source
+// title: Paste event notification script
+// summary: Attaches a document paste event listener that notifies the browser after the pasted content has been inserted into the DOM.
+// ---
+
 import {sendDidFinishClipboardReadMessage} from '//ios/web/js_features/clipboard/resources/clipboard_util.js';
 
 document.addEventListener('paste', () => {

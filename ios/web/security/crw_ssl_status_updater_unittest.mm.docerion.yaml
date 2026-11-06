@@ -1,0 +1,4 @@
+# Docerion header of crw_ssl_status_updater_unittest.mm.
+type: test
+title: CRWSSLStatusUpdater unit tests
+summary: Unit tests for the SSL status updater using a fake data source, OCMock delegate, and test certificates to verify status change behavior.

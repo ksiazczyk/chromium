@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for ios/web/net
+summary: GN build file defining the net source set for ios/web, listing the cookie notification bridge sources and their dependencies.

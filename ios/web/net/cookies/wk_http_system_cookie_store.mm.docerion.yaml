@@ -1,0 +1,4 @@
+# Docerion header of wk_http_system_cookie_store.mm.
+type: source
+title: WKHTTPSystemCookieStore implementation
+summary: Implements the WKHTTPCookieStore-backed system cookie store with RFC6265 filtering, sorting and cancellable cross-sequence tasks.

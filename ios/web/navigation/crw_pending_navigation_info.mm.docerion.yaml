@@ -1,0 +1,4 @@
+# Docerion header of crw_pending_navigation_info.mm.
+type: source
+title: CRWPendingNavigationInfo implementation
+summary: Implements CRWPendingNavigationInfo, defaulting the navigation type to WKNavigationTypeOther on initialization.

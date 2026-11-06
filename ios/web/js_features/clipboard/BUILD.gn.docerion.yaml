@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the clipboard feature
+summary: GN build file defining the clipboard source set, TypeScript compilation of the clipboard and paste handler scripts, and the unit test target.

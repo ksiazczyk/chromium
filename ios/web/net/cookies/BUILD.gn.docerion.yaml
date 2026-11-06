@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the iOS web cookies source set
+summary: Defines the cookies source_set, listing its dependencies and the cookie store source files for the iOS web build.

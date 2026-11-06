@@ -1,0 +1,4 @@
+# Docerion header of java_script_feature_manager_unittest.mm.
+type: test
+title: JavaScriptFeatureManager unit tests
+summary: Unit tests verifying that JavaScriptFeatureManager adds feature user scripts with the expected injection time, frame targeting and content world.

@@ -1,0 +1,4 @@
+# Docerion header of scoped_wk_script_message_handler.mm.
+type: source
+title: Scoped WK script message handler implementation
+summary: Implements scoped registration of script message handlers with optional content worlds and asynchronous reply support for JavaScript messages.

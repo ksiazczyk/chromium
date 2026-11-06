@@ -1,0 +1,4 @@
+# Docerion header of url_schemes.mm.
+type: source
+title: Web scheme registration
+summary: Registers standard and secure URL schemes from the web client and locks the scheme registries to prevent later modification.

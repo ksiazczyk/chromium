@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CRWWebViewNavigationObserverDelegate protocol
+// summary: Declares the delegate protocol for navigation observer callbacks about document URL changes, page changes, and same-document navigations.
+// ---
+
 #ifndef IOS_WEB_NAVIGATION_CRW_WEB_VIEW_NAVIGATION_OBSERVER_DELEGATE_H_
 #define IOS_WEB_NAVIGATION_CRW_WEB_VIEW_NAVIGATION_OBSERVER_DELEGATE_H_
 

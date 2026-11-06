@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TimeSmoother class declaration
+// summary: Declares a helper class that smooths out runs of duplicate timestamps while still allowing time to jump backwards.
+// ---
+
 #ifndef IOS_WEB_NAVIGATION_TIME_SMOOTHER_H_
 #define IOS_WEB_NAVIGATION_TIME_SMOOTHER_H_
 

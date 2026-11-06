@@ -1,0 +1,4 @@
+# Docerion header of script_message_list_value_impl.mm.
+type: source
+title: ScriptMessageListValue implementation
+summary: Implements ScriptMessageListValue and its iterator, wrapping an NSArray of script message data with size, front, back and iteration access.

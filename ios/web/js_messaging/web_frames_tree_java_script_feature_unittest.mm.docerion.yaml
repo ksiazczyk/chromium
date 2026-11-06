@@ -1,0 +1,4 @@
+# Docerion header of web_frames_tree_java_script_feature_unittest.mm.
+type: test
+title: Web frames tree JavaScript feature unit tests
+summary: Tests that registration messages are filtered from the content world and that script reinjection preserves the parent child token across document recreation.

@@ -1,0 +1,4 @@
+# Docerion header of context_menu_java_script_feature_unittest.mm.
+type: test
+title: ContextMenuJavaScriptFeature unit tests
+summary: Tests fetching link and image element details at a point and verifying the resulting ContextMenuParams.

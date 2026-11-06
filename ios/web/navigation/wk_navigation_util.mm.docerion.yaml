@@ -1,0 +1,4 @@
+# Docerion header of wk_navigation_util.mm.
+type: source
+title: WKNavigation utility implementation
+summary: Implements session restoration size limits, the Referer header name, and checks for which URLs need a user agent type.

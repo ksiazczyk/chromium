@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of CertPolicy
+// summary: Implements CertPolicy, which records allowed certificate error statuses and checks whether a given cert error is permitted.
+// ---
+
 #include "ios/web/public/security/cert_policy.h"
 
 #include "net/cert/x509_certificate.h"

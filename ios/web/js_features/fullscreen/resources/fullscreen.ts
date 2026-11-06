@@ -6,6 +6,12 @@
  * @fileoverview Reports viewport details to the app.
  */
 
+// ---docerion
+// type: source
+// title: Fullscreen viewport reporting script
+// summary: TypeScript script for the iOS fullscreen feature that reads the viewport meta tag and reports viewport-fit cover status and changes to the app via a MutationObserver.
+// ---
+
 import {gCrWeb} from '//ios/web/public/js_messaging/resources/gcrweb.js';
 import {sendWebKitMessage} from '//ios/web/public/js_messaging/resources/utils.js';
 

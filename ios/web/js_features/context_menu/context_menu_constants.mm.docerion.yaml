@@ -1,0 +1,4 @@
+# Docerion header of context_menu_constants.mm.
+type: source
+title: Context menu constant string values
+summary: Defines the string values for the context menu element dictionary keys declared in the constants header.
