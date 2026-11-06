@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crash reporter breadcrumb observer implementation
+// summary: Concatenates breadcrumb events newest-first into a crash key string so recent breadcrumbs are attached to crash reports.
+// ---
+
 #include "components/breadcrumbs/core/crash_reporter_breadcrumb_observer.h"
 
 #include <numeric>

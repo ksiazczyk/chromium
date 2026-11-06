@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the SQL opt-out blocklist
+summary: Grants this directory permission to include headers from the //sql component.

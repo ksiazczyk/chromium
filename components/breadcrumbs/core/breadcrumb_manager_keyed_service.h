@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Breadcrumb manager keyed service header
+// summary: Declares a keyed service that logs breadcrumb events tagged with an identifier for the associated browser's browsing mode.
+// ---
+
 #ifndef COMPONENTS_BREADCRUMBS_CORE_BREADCRUMB_MANAGER_KEYED_SERVICE_H_
 #define COMPONENTS_BREADCRUMBS_CORE_BREADCRUMB_MANAGER_KEYED_SERVICE_H_
 

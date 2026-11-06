@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for managed bookmarks
+summary: Specifies allowed include rules granting access to policy constants and the policy browser and common directories.

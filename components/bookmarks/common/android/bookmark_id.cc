@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JNI implementation for BookmarkId
+// summary: Implements JNI functions that read the id and type of a Java BookmarkId and create new BookmarkId objects from C++.
+// ---
+
 #include "components/bookmarks/common/android/bookmark_id.h"
 
 // Must come after all headers that specialize FromJniType() / ToJniType().

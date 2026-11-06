@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing triggered popup blocker header
+// summary: Declares SafeBrowsingTriggeredPopupBlocker, a WebContents observer that applies stronger popup blocking for navigations flagged as abusive by Safe Browsing.
+// ---
+
 #ifndef COMPONENTS_BLOCKED_CONTENT_SAFE_BROWSING_TRIGGERED_POPUP_BLOCKER_H_
 #define COMPONENTS_BLOCKED_CONTENT_SAFE_BROWSING_TRIGGERED_POPUP_BLOCKER_H_
 

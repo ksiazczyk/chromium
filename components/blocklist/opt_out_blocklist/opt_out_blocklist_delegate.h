@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OptOutBlocklistDelegate interface
+// summary: Declares the OptOutBlocklistDelegate interface for reacting to blocklist events such as newly blocklisted hosts, user status changes, and cleared blocklists.
+// ---
+
 #ifndef COMPONENTS_BLOCKLIST_OPT_OUT_BLOCKLIST_OPT_OUT_BLOCKLIST_DELEGATE_H_
 #define COMPONENTS_BLOCKLIST_OPT_OUT_BLOCKLIST_OPT_OUT_BLOCKLIST_DELEGATE_H_
 

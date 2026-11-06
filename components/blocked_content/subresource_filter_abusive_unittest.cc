@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Subresource filter abusive interaction tests
+// summary: Parameterized tests of the interaction between subresource filter enforcement and abusive-experience popup blocking across warn and enforce levels.
+// ---
+
 #include <algorithm>
 
 #include "base/check_op.h"

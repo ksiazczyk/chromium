@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Popup blocker interface
+// summary: Declares the PopupBlockType enum and functions for classifying dispositions and blocking or allowing popup requests.
+// ---
+
 #ifndef COMPONENTS_BLOCKED_CONTENT_POPUP_BLOCKER_H_
 #define COMPONENTS_BLOCKED_CONTENT_POPUP_BLOCKER_H_
 

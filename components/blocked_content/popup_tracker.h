@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Popup tracker header
+// summary: Header for PopupTracker, which tracks new popups and logs metrics on the visibility time of the first document in the popup.
+// ---
+
 #ifndef COMPONENTS_BLOCKED_CONTENT_POPUP_TRACKER_H_
 #define COMPONENTS_BLOCKED_CONTENT_POPUP_TRACKER_H_
 

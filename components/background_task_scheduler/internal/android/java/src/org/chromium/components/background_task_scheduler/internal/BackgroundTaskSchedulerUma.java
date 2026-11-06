@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BackgroundTaskSchedulerUma
+// summary: Helper that reports and caches UMA metrics for background task scheduling, cancellation and completion events.
+// ---
+
 package org.chromium.components.background_task_scheduler.internal;
 
 import android.content.SharedPreferences;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Model loader implementation
+// summary: Implements loading of bookmark files, including reading, decryption, JSON deserialization, secondary file verification and backup handling on background threads.
+// ---
+
 #include "components/bookmarks/browser/model_loader.h"
 
 #include <optional>

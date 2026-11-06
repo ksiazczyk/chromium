@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TaskInfoBridge
+// summary: Converts native task info parameters into Java TaskInfo objects, building periodic and one-off timing info for scheduled tasks.
+// ---
+
 package org.chromium.components.background_task_scheduler.internal;
 
 import android.os.PersistableBundle;

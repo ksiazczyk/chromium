@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for bookmarks test support
+summary: Defines the testonly source set bundling bookmark test helpers, mocks, and clients together with their build dependencies.

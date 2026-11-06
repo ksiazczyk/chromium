@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestPopupNavigationDelegate test header
+// summary: Declares a test PopupNavigationDelegate subclass with a ResultHolder struct that stores results of navigation and popup-blocking calls.
+// ---
+
 #ifndef COMPONENTS_BLOCKED_CONTENT_TEST_TEST_POPUP_NAVIGATION_DELEGATE_H_
 #define COMPONENTS_BLOCKED_CONTENT_TEST_TEST_POPUP_NAVIGATION_DELEGATE_H_
 

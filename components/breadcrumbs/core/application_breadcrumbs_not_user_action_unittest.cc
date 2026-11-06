@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Not-user-triggered actions array unit tests
+// summary: Unit tests checking that the generated kNotUserTriggeredActions array has the expected size, string lengths, and sorted order for binary search.
+// ---
+
 #include <algorithm>
 #include <string>
 #include <vector>

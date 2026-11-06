@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark permanent folder UUID constants
+// summary: Defines predefined UUIDs for permanent bookmark folders such as root, bookmark bar, other, mobile, managed and shopping collection, which must stay stable for sync.
+// ---
+
 #include "components/bookmarks/browser/bookmark_uuids.h"
 
 namespace bookmarks {

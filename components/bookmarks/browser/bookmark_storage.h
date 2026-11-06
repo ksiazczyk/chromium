@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark storage class interface
+// summary: Declares BookmarkStorage, which schedules and performs background writes of selected permanent bookmark nodes to plaintext or encrypted files.
+// ---
+
 #ifndef COMPONENTS_BOOKMARKS_BROWSER_BOOKMARK_STORAGE_H_
 #define COMPONENTS_BOOKMARKS_BROWSER_BOOKMARK_STORAGE_H_
 

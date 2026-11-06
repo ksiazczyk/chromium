@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the managed bookmarks policy handler
+// summary: Unit tests verifying that the ManagedBookmarks policy is validated, filtered, and correctly applied to the managed bookmarks preferences.
+// ---
+
 #include "components/bookmarks/managed/managed_bookmarks_policy_handler.h"
 
 #include <memory>

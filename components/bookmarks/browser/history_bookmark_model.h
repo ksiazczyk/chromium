@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History bookmark model interface
+// summary: Interface used by history to check whether a URL is bookmarked and to retrieve the unique set of bookmarked URLs and titles on a background thread.
+// ---
+
 #ifndef COMPONENTS_BOOKMARKS_BROWSER_HISTORY_BOOKMARK_MODEL_H_
 #define COMPONENTS_BOOKMARKS_BROWSER_HISTORY_BOOKMARK_MODEL_H_
 

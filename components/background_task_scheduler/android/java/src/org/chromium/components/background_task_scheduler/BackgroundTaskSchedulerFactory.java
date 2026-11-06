@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Factory for the background task scheduler
+// summary: Factory that provides the BackgroundTaskScheduler instance, registers the task factory, and exposes the UMA reporter with test overrides.
+// ---
+
 package org.chromium.components.background_task_scheduler;
 
 import org.chromium.base.ResettersForTesting;

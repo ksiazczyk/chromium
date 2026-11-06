@@ -15,6 +15,12 @@ This file contains 10 actions total, 7 of which are user-triggered and 3 of
 which are not. The longest action name is 65 characters.
 -->
 
+<!--docerion
+type: test
+title: Test data for the not-user-triggered actions script
+summary: XML fixture with ten hardcoded actions, seven user-triggered and three not, used to test that the not-user-triggered actions script parses actions XML correctly.
+-->
+
 <actions>
 
 <action name="TestAction">

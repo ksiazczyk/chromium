@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BackgroundTaskSchedulerFactoryInternal
+// summary: Factory that provides a single shared BackgroundTaskScheduler instance and supports overriding it for tests.
+// ---
+
 package org.chromium.components.background_task_scheduler.internal;
 
 import org.chromium.base.ResettersForTesting;

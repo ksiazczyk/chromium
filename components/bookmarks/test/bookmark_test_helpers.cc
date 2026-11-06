@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bookmark model test helpers implementation
+// summary: Implements helpers that wait for bookmark model loading and build or parse compact string representations of bookmark hierarchies in tests.
+// ---
+
 #include "components/bookmarks/test/bookmark_test_helpers.h"
 
 #include <stddef.h>

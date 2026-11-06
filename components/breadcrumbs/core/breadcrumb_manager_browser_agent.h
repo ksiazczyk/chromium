@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser agent breadcrumb logging class declaration
+// summary: Declares BreadcrumbManagerBrowserAgent, a base class that logs tab activity for a browser instance via a platform-specific logging hook.
+// ---
+
 #ifndef COMPONENTS_BREADCRUMBS_CORE_BREADCRUMB_MANAGER_BROWSER_AGENT_H_
 #define COMPONENTS_BREADCRUMBS_CORE_BREADCRUMB_MANAGER_BROWSER_AGENT_H_
 

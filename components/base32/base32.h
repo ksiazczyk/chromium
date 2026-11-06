@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base32 public API header
+// summary: Declares the Base32Encode and Base32Decode functions, the padding policy enum, and the internal C++ and Rust implementations exposed for testing.
+// ---
+
 #ifndef COMPONENTS_BASE32_BASE32_H_
 #define COMPONENTS_BASE32_BASE32_H_
 

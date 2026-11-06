@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Breadcrumb manager unit tests
+// summary: Tests event logging, maximum event limits, timestamp formatting and previous session event handling in BreadcrumbManager.
+// ---
+
 #include "components/breadcrumbs/core/breadcrumb_manager.h"
 
 #include <string>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for blocked_content
+summary: GN build rules defining the blocked_content source set, Android extras, test support and unit test targets.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Application breadcrumbs logger class declaration
+// summary: Declares ApplicationBreadcrumbsLogger, which listens for application-wide events such as user actions and memory pressure and logs them as breadcrumbs.
+// ---
+
 #ifndef COMPONENTS_BREADCRUMBS_CORE_APPLICATION_BREADCRUMBS_LOGGER_H_
 #define COMPONENTS_BREADCRUMBS_CORE_APPLICATION_BREADCRUMBS_LOGGER_H_
 

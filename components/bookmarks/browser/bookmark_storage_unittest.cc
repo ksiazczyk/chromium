@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for bookmark storage
+// summary: Tests saving bookmarks to plaintext and encrypted files across encryption stages, covering file contents, backups and histogram reporting.
+// ---
+
 #include "components/bookmarks/browser/bookmark_storage.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base32 C++ implementation
+// summary: Implements RFC 4648 base32 encoding and decoding in C++, with helpers that map the padding policy to the Rust implementation.
+// ---
+
 #include "components/base32/base32.h"
 
 #include <stddef.h>

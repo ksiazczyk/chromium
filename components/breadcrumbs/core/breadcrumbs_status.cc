@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Breadcrumbs enablement status logic
+// summary: Implements channel-based random enablement rates, Local State prefs with re-randomization, and forced on/off modes that decide whether breadcrumbs logging is active.
+// ---
+
 #include "components/breadcrumbs/core/breadcrumbs_status.h"
 
 #include <atomic>

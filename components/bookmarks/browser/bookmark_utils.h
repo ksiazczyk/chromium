@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark utility functions interface
+// summary: Declares shared bookmark utilities for UI and indexing systems, including cloning, clipboard copy, query fields and recently used folders.
+// ---
+
 #ifndef COMPONENTS_BOOKMARKS_BROWSER_BOOKMARK_UTILS_H_
 #define COMPONENTS_BOOKMARKS_BROWSER_BOOKMARK_UTILS_H_
 

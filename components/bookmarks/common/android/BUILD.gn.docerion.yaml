@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the Android bookmarks component
+summary: Defines the native source set, Java library, JNI header generation, and Java enum generation targets for the bookmarks Android component.

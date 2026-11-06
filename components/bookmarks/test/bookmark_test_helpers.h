@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bookmark model test helpers
+// summary: Declares test helpers for waiting on bookmark model loads and converting bookmark node hierarchies to and from a compact string format.
+// ---
+
 #ifndef COMPONENTS_BOOKMARKS_TEST_BOOKMARK_TEST_HELPERS_H_
 #define COMPONENTS_BOOKMARKS_TEST_BOOKMARK_TEST_HELPERS_H_
 

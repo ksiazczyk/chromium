@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Managed bookmarks policy handler header
+// summary: Declares ManagedBookmarksPolicyHandler, a schema-validating policy handler that converts the ManagedBookmarks policy into preferences.
+// ---
+
 #ifndef COMPONENTS_BOOKMARKS_MANAGED_MANAGED_BOOKMARKS_POLICY_HANDLER_H_
 #define COMPONENTS_BOOKMARKS_MANAGED_MANAGED_BOOKMARKS_POLICY_HANDLER_H_
 

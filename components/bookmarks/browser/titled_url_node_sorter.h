@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TitledUrlNodeSorter interface header
+// summary: Interface for sorting a set of matched titled URL nodes into an implementation-specific ordered result list.
+// ---
+
 #ifndef COMPONENTS_BOOKMARKS_BROWSER_TITLED_URL_NODE_SORTER_H_
 #define COMPONENTS_BOOKMARKS_BROWSER_TITLED_URL_NODE_SORTER_H_
 

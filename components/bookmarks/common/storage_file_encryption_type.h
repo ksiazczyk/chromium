@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Storage file encryption type enum for bookmarks
+// summary: Defines the StorageFileEncryptionType enum class distinguishing clear-text and encrypted bookmarks data files.
+// ---
+
 #ifndef COMPONENTS_BOOKMARKS_COMMON_STORAGE_FILE_ENCRYPTION_TYPE_H_
 #define COMPONENTS_BOOKMARKS_COMMON_STORAGE_FILE_ENCRYPTION_TYPE_H_
 

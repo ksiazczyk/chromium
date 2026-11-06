@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: List item position enum
+// summary: Declares the ListItemPosition enum backing a histogram, used by framebust and popup UI to identify clicked elements.
+// ---
+
 #ifndef COMPONENTS_BLOCKED_CONTENT_LIST_ITEM_POSITION_H_
 #define COMPONENTS_BLOCKED_CONTENT_LIST_ITEM_POSITION_H_
 

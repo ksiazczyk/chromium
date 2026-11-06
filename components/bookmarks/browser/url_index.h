@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UrlIndex class header for bookmark URL indexing
+// summary: Declares the UrlIndex class, an internal BookmarkModel helper that owns URL bookmark nodes, orders them by URL for lookup, and documents its thread-safety and locking requirements.
+// ---
+
 #ifndef COMPONENTS_BOOKMARKS_BROWSER_URL_INDEX_H_
 #define COMPONENTS_BOOKMARKS_BROWSER_URL_INDEX_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UrlLoadStats struct for bookmark UMA statistics
+// summary: Declares a struct collecting URL bookmark counts and usage metrics such as days since added, used, or saved, for UMA logging.
+// ---
+
 #ifndef COMPONENTS_BOOKMARKS_COMMON_URL_LOAD_STATS_H_
 #define COMPONENTS_BOOKMARKS_COMMON_URL_LOAD_STATS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test background task factory
+// summary: Test BackgroundTaskFactory that returns a TestBackgroundTask for the TEST task ID during unit testing.
+// ---
+
 package org.chromium.components.background_task_scheduler.internal;
 
 import org.chromium.components.background_task_scheduler.BackgroundTask;

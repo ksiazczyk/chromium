@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Application breadcrumbs logger unit tests
+// summary: Unit tests verifying that user actions are logged while non-user-triggered and InProductHelp actions are skipped, and that memory pressure is recorded.
+// ---
+
 #include "components/breadcrumbs/core/application_breadcrumbs_logger.h"
 
 #include "base/containers/circular_deque.h"

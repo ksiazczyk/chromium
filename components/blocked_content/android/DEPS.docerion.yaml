@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for blocked content Android
+summary: Lists the include dependencies allowed for the blocked content Android directory.

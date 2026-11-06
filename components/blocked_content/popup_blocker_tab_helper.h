@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Popup blocker tab helper header
+// summary: Per-tab helper that tracks blocked popup requests and shows them when the user clicks through, logging popup blocker actions to a histogram.
+// ---
+
 #ifndef COMPONENTS_BLOCKED_CONTENT_POPUP_BLOCKER_TAB_HELPER_H_
 #define COMPONENTS_BLOCKED_CONTENT_POPUP_BLOCKER_TAB_HELPER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for managed bookmarks
+summary: Defines the managed bookmarks static library and its unit test source set, listing sources and GN build dependencies.

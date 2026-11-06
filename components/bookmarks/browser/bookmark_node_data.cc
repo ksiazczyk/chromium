@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BookmarkNodeData implementation
+// summary: Implements BookmarkNodeData serialization to and from pickles plus clipboard reading and writing for dragged or copied bookmark nodes.
+// ---
+
 #include "components/bookmarks/browser/bookmark_node_data.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OptOutBlocklistItem class declaration
+// summary: Declares OptOutBlocklistItem, which stores recent opt out history for a single host and evaluates blocklist state against a threshold and duration.
+// ---
+
 #ifndef COMPONENTS_BLOCKLIST_OPT_OUT_BLOCKLIST_OPT_OUT_BLOCKLIST_ITEM_H_
 #define COMPONENTS_BLOCKLIST_OPT_OUT_BLOCKLIST_OPT_OUT_BLOCKLIST_ITEM_H_
 

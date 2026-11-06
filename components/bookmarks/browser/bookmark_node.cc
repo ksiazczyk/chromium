@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BookmarkNode implementation
+// summary: Implements the BookmarkNode class that stores a bookmark entry's title, URL, UUID, favicon and meta info, sanitizing invalid whitespace characters from titles.
+// ---
+
 #include "components/bookmarks/browser/bookmark_node.h"
 
 #include <map>

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the base32 directory
+summary: Lists dcheng@chromium.org and gab@chromium.org as code owners for review of changes in this directory.

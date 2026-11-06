@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: External UMA reporting helper for the task scheduler
+// summary: Abstract helper that lets external code report UMA metrics for background tasks and defines constants for all background task IDs.
+// ---
+
 package org.chromium.components.background_task_scheduler;
 
 import androidx.annotation.VisibleForTesting;

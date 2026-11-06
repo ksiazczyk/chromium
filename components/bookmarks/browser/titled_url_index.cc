@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Titled URL index implementation
+// summary: Implements an index over bookmark titles and URLs that returns sorted matches for queries, including term extraction, normalization and match positions.
+// ---
+
 #include "components/bookmarks/browser/titled_url_index.h"
 
 #include <stdint.h>

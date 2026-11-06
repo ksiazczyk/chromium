@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Popup blocked helper implementation
+// summary: Implements helpers to show all blocked popups and to check whether popup settings are policy-managed.
+// ---
+
 #include "components/blocked_content/android/popup_blocked_helper.h"
 #include "components/blocked_content/popup_blocker_tab_helper.h"
 #include "url/gurl.h"

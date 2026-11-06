@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the background task scheduler component
+summary: Lists the code owners for the component and notes that everyone may add new TaskIds while structural changes need owner approval.

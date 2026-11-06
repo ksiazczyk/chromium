@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Breadcrumb persistent storage manager header
+// summary: Declares a manager that persists breadcrumb events to disk and restores previous session events into the manager.
+// ---
+
 #ifndef COMPONENTS_BREADCRUMBS_CORE_BREADCRUMB_PERSISTENT_STORAGE_MANAGER_H_
 #define COMPONENTS_BREADCRUMBS_CORE_BREADCRUMB_PERSISTENT_STORAGE_MANAGER_H_
 

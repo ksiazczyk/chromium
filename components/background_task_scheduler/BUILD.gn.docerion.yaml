@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build configuration for the background task scheduler component
+summary: GN build file defining native and Java targets for the background task scheduler component, including its public library, factory and Android Java targets.

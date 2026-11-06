@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Popup opener tab helper implementation
+// summary: Implements PopupOpenerTabHelper, tracking user gestures and tab visibility to log UKM metrics about pages that open popups.
+// ---
+
 #include "components/blocked_content/popup_opener_tab_helper.h"
 
 #include <utility>

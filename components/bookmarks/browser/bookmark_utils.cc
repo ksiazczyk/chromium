@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark utility functions implementation
+// summary: Implements helpers for cloning, copying, searching and querying bookmarks, including recently modified and recently used folder logic.
+// ---
+
 #include "components/bookmarks/browser/bookmark_utils.h"
 
 #include <stdint.h>

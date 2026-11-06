@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TaskParameters struct definition
+// summary: Defines the TaskParameters struct that carries the task ID and caller extras passed to a BackgroundTask when it is invoked.
+// ---
+
 #ifndef COMPONENTS_BACKGROUND_TASK_SCHEDULER_TASK_PARAMETERS_H_
 #define COMPONENTS_BACKGROUND_TASK_SCHEDULER_TASK_PARAMETERS_H_
 

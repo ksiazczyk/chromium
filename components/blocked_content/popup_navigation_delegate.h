@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Popup navigation delegate interface
+// summary: Delegate interface letting embedders represent blocked popup navigations so they can be recovered when the user clicks through.
+// ---
+
 #ifndef COMPONENTS_BLOCKED_CONTENT_POPUP_NAVIGATION_DELEGATE_H_
 #define COMPONENTS_BLOCKED_CONTENT_POPUP_NAVIGATION_DELEGATE_H_
 

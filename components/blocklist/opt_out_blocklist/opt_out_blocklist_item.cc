@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OptOutBlocklistItem implementation
+// summary: Implements OptOutBlocklistItem, which maintains a bounded history of opt out records and determines whether an item is currently blocklisted.
+// ---
+
 #include "components/blocklist/opt_out_blocklist/opt_out_blocklist_item.h"
 
 #include <algorithm>

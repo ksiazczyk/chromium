@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark bar visibility state enum
+// summary: Defines the BookmarkBarVisibilityState enum for showing the bookmark bar always, only on the new tab page, or never, persisted in a syncable pref.
+// ---
+
 #ifndef COMPONENTS_BOOKMARKS_COMMON_BOOKMARK_BAR_VISIBILITY_STATE_H_
 #define COMPONENTS_BOOKMARKS_COMMON_BOOKMARK_BAR_VISIBILITY_STATE_H_
 

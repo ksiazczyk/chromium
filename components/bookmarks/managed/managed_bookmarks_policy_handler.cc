@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Managed bookmarks policy handler implementation
+// summary: Implements the policy handler that validates the ManagedBookmarks policy, filters bookmark entries, and writes the folder name and bookmark list preferences.
+// ---
+
 #include "components/bookmarks/managed/managed_bookmarks_policy_handler.h"
 
 #include <utility>

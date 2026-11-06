@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test popup navigation delegate implementation
+// summary: Implements a test PopupNavigationDelegate that records navigation and popup-blocked calls in a ResultHolder for unit tests.
+// ---
+
 #include "components/blocked_content/test/test_popup_navigation_delegate.h"
 
 namespace blocked_content {

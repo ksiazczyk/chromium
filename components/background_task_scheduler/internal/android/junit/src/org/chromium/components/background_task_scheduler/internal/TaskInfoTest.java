@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TaskInfo unit tests
+// summary: Robolectric unit tests checking TaskInfo timing windows, expiration behavior, and parameters for one-off and periodic background tasks.
+// ---
+
 package org.chromium.components.background_task_scheduler.internal;
 
 import static org.junit.Assert.assertEquals;

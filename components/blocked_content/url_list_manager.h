@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL list manager header
+// summary: Declares UrlListManager, an observer-list helper that tracks blocked URLs to drive the redirect and popup blocked UIs.
+// ---
+
 #ifndef COMPONENTS_BLOCKED_CONTENT_URL_LIST_MANAGER_H_
 #define COMPONENTS_BLOCKED_CONTENT_URL_LIST_MANAGER_H_
 

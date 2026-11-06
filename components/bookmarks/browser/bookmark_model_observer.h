@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BookmarkModelObserver interface header
+// summary: Declares BookmarkModelObserver, the observer interface for model events such as load, node add, move, remove, change and favicon updates.
+// ---
+
 #ifndef COMPONENTS_BOOKMARKS_BROWSER_BOOKMARK_MODEL_OBSERVER_H_
 #define COMPONENTS_BOOKMARKS_BROWSER_BOOKMARK_MODEL_OBSERVER_H_
 

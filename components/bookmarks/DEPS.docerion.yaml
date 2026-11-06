@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Bookmarks component include rules
+summary: Defines the allowed include dependencies for the bookmarks component, with a special include rule for the unit test file.

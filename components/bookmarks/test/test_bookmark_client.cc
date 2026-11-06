@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test bookmark client implementation
+// summary: Implements TestBookmarkClient, which creates test bookmark models and simulates favicons, managed nodes, sync metadata, and metrics behavior.
+// ---
+
 #include "components/bookmarks/test/test_bookmark_client.h"
 
 #include <stddef.h>

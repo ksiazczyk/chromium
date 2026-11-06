@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OptOutBlocklist implementation
+// summary: Implements the OptOutBlocklist that records opt out entries, loads data from an optional backing store, and reports whether hosts and types are blocklisted.
+// ---
+
 #include "components/blocklist/opt_out_blocklist/opt_out_blocklist.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Popup blocked message delegate implementation
+// summary: Shows the popup blocked message UI on Android and handles allowing popups and respecting policy restrictions.
+// ---
+
 #include "components/blocked_content/android/popup_blocked_message_delegate.h"
 
 #include "components/blocked_content/android/popup_blocked_helper.h"

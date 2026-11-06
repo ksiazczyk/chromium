@@ -4,6 +4,13 @@ Copyright 2024 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: config
+title: Android manifest for the background task scheduler
+summary: Declares the component's BackgroundTaskJobService and BackgroundTaskBroadcastReceiver as non-exported Android application components.
+-->
+
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
   package="org.chromium.components.background_task_scheduler">
   <application>

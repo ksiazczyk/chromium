@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the bookmarks browser component
+summary: GN build file defining the bookmarks browser static library, test support, and unit test targets, including platform-specific Mac, iOS, and Views sources.

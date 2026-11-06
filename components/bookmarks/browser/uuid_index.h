@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UuidIndex set of bookmark nodes keyed by UUID
+// summary: Defines transparent hash and equality functors comparing BookmarkNode instances by UUID and a UuidIndex unordered_set alias for UUID-based bookmark lookup.
+// ---
+
 #ifndef COMPONENTS_BOOKMARKS_BROWSER_UUID_INDEX_H_
 #define COMPONENTS_BOOKMARKS_BROWSER_UUID_INDEX_H_
 

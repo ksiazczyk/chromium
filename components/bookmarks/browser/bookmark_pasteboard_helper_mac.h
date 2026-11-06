@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac bookmark pasteboard helper declaration
+// summary: Declares functions to write, read and detect bookmark elements on an NSPasteboard, used by macOS bookmark drag, copy and paste.
+// ---
+
 #ifndef COMPONENTS_BOOKMARKS_BROWSER_BOOKMARK_PASTEBOARD_HELPER_MAC_H_
 #define COMPONENTS_BOOKMARKS_BROWSER_BOOKMARK_PASTEBOARD_HELPER_MAC_H_
 

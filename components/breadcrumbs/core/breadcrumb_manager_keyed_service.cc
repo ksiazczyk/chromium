@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Breadcrumb manager keyed service implementation
+// summary: Implements BreadcrumbManagerKeyedService, which prefixes events with the browsing mode marker and forwards them to the BreadcrumbManager.
+// ---
+
 #include "components/breadcrumbs/core/breadcrumb_manager_keyed_service.h"
 
 #include "base/strings/stringprintf.h"

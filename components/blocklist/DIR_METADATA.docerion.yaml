@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Blocklist component directory metadata
+summary: Maps the blocklist directory to the Blink>Previews Monorail component and Buganizer component 1456413 for issue tracking.

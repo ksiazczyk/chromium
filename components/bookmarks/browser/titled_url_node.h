@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TitledUrlNode interface header
+// summary: Interface for objects exposing a title and URL so they can be indexed and searched by TitledUrlIndex.
+// ---
+
 #ifndef COMPONENTS_BOOKMARKS_BROWSER_TITLED_URL_NODE_H_
 #define COMPONENTS_BOOKMARKS_BROWSER_TITLED_URL_NODE_H_
 

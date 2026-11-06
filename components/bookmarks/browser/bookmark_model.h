@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BookmarkModel class header
+// summary: Declares BookmarkModel, a directed acyclic graph of bookmark URLs and folders with asynchronous loading, querying and observer support.
+// ---
+
 #ifndef COMPONENTS_BOOKMARKS_BROWSER_BOOKMARK_MODEL_H_
 #define COMPONENTS_BOOKMARKS_BROWSER_BOOKMARK_MODEL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NativeBackgroundTask base class with native initialization
+// summary: Abstract BackgroundTask base class that ensures tasks run only after Chrome's native library is loaded, supporting minimal and full browser modes.
+// ---
+
 package org.chromium.components.background_task_scheduler;
 
 import android.app.Notification;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TitledUrlMatch implementation
+// summary: Implements helpers to extract offsets from and replace offsets in title and URL match positions.
+// ---
+
 #include "components/bookmarks/browser/titled_url_match.h"
 
 #include <string>

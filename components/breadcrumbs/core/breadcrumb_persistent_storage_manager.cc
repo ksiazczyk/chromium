@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Breadcrumb persistent storage manager implementation
+// summary: Writes breadcrumb events to a file on disk, reads previous session events and throttles writes to limit disk access.
+// ---
+
 
 #include "components/breadcrumbs/core/breadcrumb_persistent_storage_manager.h"
 

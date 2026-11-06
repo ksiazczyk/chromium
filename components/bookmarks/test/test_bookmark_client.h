@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test bookmark client
+// summary: Declares TestBookmarkClient, a BookmarkClient test double offering model creation, favicon simulation, managed nodes, and sync metadata controls.
+// ---
+
 #ifndef COMPONENTS_BOOKMARKS_TEST_TEST_BOOKMARK_CLIENT_H_
 #define COMPONENTS_BOOKMARKS_TEST_TEST_BOOKMARK_CLIENT_H_
 

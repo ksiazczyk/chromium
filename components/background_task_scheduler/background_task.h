@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BackgroundTask C++ interface for background task callbacks
+// summary: Defines the BackgroundTask interface that tasks implement to receive start and stop callbacks from the scheduler in reduced or full browser mode.
+// ---
+
 #ifndef COMPONENTS_BACKGROUND_TASK_SCHEDULER_BACKGROUND_TASK_H_
 #define COMPONENTS_BACKGROUND_TASK_SCHEDULER_BACKGROUND_TASK_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Managed bookmark utility implementation
+// summary: Implements helpers that determine whether a permanent bookmark node is a standard permanent node or the enterprise-managed node.
+// ---
+
 #include "components/bookmarks/managed/managed_bookmark_util.h"
 
 #include "components/bookmarks/browser/bookmark_node.h"

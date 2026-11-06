@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TaskInfo structures for background task scheduling
+// summary: Defines the TaskInfo, PeriodicInfo and OneOffInfo structs that describe background task scheduling requests, including timing, network and charging requirements.
+// ---
+
 #ifndef COMPONENTS_BACKGROUND_TASK_SCHEDULER_TASK_INFO_H_
 #define COMPONENTS_BACKGROUND_TASK_SCHEDULER_TASK_INFO_H_
 

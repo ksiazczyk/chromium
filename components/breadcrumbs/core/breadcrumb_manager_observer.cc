@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Breadcrumb manager observer implementation
+// summary: Implements the breadcrumb manager observer base class, which observes the shared BreadcrumbManager instance.
+// ---
+
 #include "components/breadcrumbs/core/breadcrumb_manager_observer.h"
 
 namespace breadcrumbs {

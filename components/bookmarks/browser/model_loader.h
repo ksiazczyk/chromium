@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Model loader interface
+// summary: Declares ModelLoader, which tracks loading of the BookmarkModel from local, syncable and account bookmark files with optional encryption support.
+// ---
+
 #ifndef COMPONENTS_BOOKMARKS_BROWSER_MODEL_LOADER_H_
 #define COMPONENTS_BOOKMARKS_BROWSER_MODEL_LOADER_H_
 

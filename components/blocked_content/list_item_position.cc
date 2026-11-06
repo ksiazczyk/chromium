@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: List item position implementation
+// summary: Implements GetListItemPositionFromDistance, mapping an element's distance and list size to a ListItemPosition value.
+// ---
+
 #include "components/blocked_content/list_item_position.h"
 #include "base/check_op.h"
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark undo provider interface
+// summary: Defines the interface for restoring previously removed bookmark nodes at a given parent and index, providing undo support.
+// ---
+
 #ifndef COMPONENTS_BOOKMARKS_BROWSER_BOOKMARK_UNDO_PROVIDER_H_
 #define COMPONENTS_BOOKMARKS_BROWSER_BOOKMARK_UNDO_PROVIDER_H_
 

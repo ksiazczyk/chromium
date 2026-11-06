@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bookmark encryption stage test feature setup
+// summary: Implements feature list initialization for bookmark encryption stages, enabling or disabling the kEncryptBookmarks feature according to the given stage.
+// ---
+
 #include "components/bookmarks/test/bookmark_test_with_encryption_stages.h"
 
 #include "base/test/scoped_feature_list.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BackgroundTaskSchedulerImpl unit tests
+// summary: Robolectric unit tests covering successful scheduling, failed scheduling, and cancellation of background tasks through the scheduler implementation.
+// ---
+
 package org.chromium.components.background_task_scheduler.internal;
 
 import static org.mockito.ArgumentMatchers.eq;

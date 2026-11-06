@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for base32
+summary: Grants the base32 directory permission to include headers from third_party/fuzztest.

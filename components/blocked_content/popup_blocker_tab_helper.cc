@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Popup blocker tab helper
+// summary: Per-tab helper that stores blocked popups, reports metrics, manages notifications and clears state on main frame navigations.
+// ---
+
 #include "components/blocked_content/popup_blocker_tab_helper.h"
 
 #include <iterator>

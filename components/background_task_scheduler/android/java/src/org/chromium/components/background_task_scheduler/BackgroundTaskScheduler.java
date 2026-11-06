@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BackgroundTaskScheduler interface for background jobs
+// summary: Interface for scheduling and cancelling background jobs backed by the Android JobScheduler, obtained via BackgroundTaskSchedulerFactory.
+// ---
+
 package org.chromium.components.background_task_scheduler;
 
 import android.content.Context;

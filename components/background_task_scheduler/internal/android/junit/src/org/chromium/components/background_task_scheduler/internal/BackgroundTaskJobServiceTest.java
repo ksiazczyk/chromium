@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BackgroundTaskJobService unit tests
+// summary: Robolectric unit tests verifying that BackgroundTaskJobService starts one-off and periodic tasks and respects deadlines before running them.
+// ---
+
 package org.chromium.components.background_task_scheduler.internal;
 
 import static org.junit.Assert.assertFalse;

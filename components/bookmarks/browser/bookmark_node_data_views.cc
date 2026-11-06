@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Views implementation of BookmarkNodeData drag data
+// summary: Implements writing and reading BookmarkNodeData in OSExchangeData for Views-based drag and drop, including pickled bookmark entries.
+// ---
+
 #include "components/bookmarks/browser/bookmark_node_data.h"
 
 #include "base/check.h"

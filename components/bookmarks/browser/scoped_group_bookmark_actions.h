@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped group bookmark actions header
+// summary: Declares ScopedGroupBookmarkActions, an RAII scope that groups a set of bookmark changes into a single undoable action.
+// ---
+
 #ifndef COMPONENTS_BOOKMARKS_BROWSER_SCOPED_GROUP_BOOKMARK_ACTIONS_H_
 #define COMPONENTS_BOOKMARKS_BROWSER_SCOPED_GROUP_BOOKMARK_ACTIONS_H_
 

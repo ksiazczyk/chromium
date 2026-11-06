@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native task scheduler bridge header
+// summary: Declares NativeTaskScheduler, a BackgroundTaskScheduler subclass that forwards scheduling calls to Java.
+// ---
+
 #ifndef COMPONENTS_BACKGROUND_TASK_SCHEDULER_INTERNAL_ANDROID_NATIVE_TASK_SCHEDULER_H_
 #define COMPONENTS_BACKGROUND_TASK_SCHEDULER_INTERNAL_ANDROID_NATIVE_TASK_SCHEDULER_H_
 

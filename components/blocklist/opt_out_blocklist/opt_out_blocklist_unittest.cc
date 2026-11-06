@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OptOutBlocklist unit tests
+// summary: Unit tests for OptOutBlocklist using a test delegate and store to verify entry handling, delegate notifications, and blocklist clearing.
+// ---
+
 #include "components/blocklist/opt_out_blocklist/opt_out_blocklist.h"
 
 #include <algorithm>

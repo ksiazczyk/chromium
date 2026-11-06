@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab helper for logging breadcrumb events
+// summary: Logs breadcrumb events for tab navigations, page loads, security state changes, infobars, scrolling and zooming.
+// ---
+
 #include "components/breadcrumbs/core/breadcrumb_manager_tab_helper.h"
 
 #include "base/format_macros.h"

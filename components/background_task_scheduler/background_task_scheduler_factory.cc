@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the BackgroundTaskScheduler factory
+// summary: Implements the scheduler factory, returning the native task scheduler singleton on Android and nullptr on other platforms.
+// ---
+
 #include "components/background_task_scheduler/background_task_scheduler_factory.h"
 
 #include "build/build_config.h"

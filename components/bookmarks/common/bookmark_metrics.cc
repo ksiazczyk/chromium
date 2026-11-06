@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark metrics recording implementation
+// summary: Implements UMA recording of bookmark additions, removals, opens, moves, and storage statistics with storage state and encryption type suffixes.
+// ---
+
 #include "components/bookmarks/common/bookmark_metrics.h"
 
 #include <string>

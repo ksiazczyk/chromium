@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BackgroundTaskBroadcastReceiver
+// summary: Leftover BroadcastReceiver that logs an error because AlarmManager-based background tasks are no longer supported.
+// ---
+
 package org.chromium.components.background_task_scheduler.internal;
 
 import android.content.BroadcastReceiver;

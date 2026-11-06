@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OptOutStore interface for blocklist opt-out persistence
+// summary: Defines the abstract OptOutStore interface that stores opt-out entries per host, asynchronously loads the blocklist data via a callback, and clears stored history between two times.
+// ---
+
 #ifndef COMPONENTS_BLOCKLIST_OPT_OUT_BLOCKLIST_OPT_OUT_STORE_H_
 #define COMPONENTS_BLOCKLIST_OPT_OUT_BLOCKLIST_OPT_OUT_STORE_H_
 
