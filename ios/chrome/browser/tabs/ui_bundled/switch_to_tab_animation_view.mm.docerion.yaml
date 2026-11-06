@@ -1,0 +1,4 @@
+# Docerion header of switch_to_tab_animation_view.mm.
+type: source
+title: switch_to_tab_animation_view.mm
+summary: Implements the horizontal slide animation between the current and new tab views, handling left and right directions for RTL layouts.

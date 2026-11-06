@@ -1,0 +1,4 @@
+# Docerion header of tab_groups_panel_out_of_date_message_cell.mm.
+type: source
+title: Tab groups panel out-of-date message cell implementation
+summary: Implements the out-of-date message cell with a text label, update and close buttons, layout constraints and accessibility actions.

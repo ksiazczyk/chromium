@@ -1,0 +1,4 @@
+# Docerion header of query_title_server_util.mm.
+type: test
+title: Query title test server utility
+summary: Registers an embedded test server handler that serves pages whose title and body echo the URL query, for use in tab switcher tests.

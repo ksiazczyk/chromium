@@ -1,0 +1,4 @@
+# Docerion header of create_tab_group_coordinator.mm.
+type: source
+title: Create tab group coordinator implementation
+summary: Implements the coordinator that wires the creation mediator and view controller, handling dismissal, transitions and new-tab insertion for tab groups.

@@ -1,0 +1,4 @@
+# Docerion header of tab_group_mediator_unittest.mm.
+type: test
+title: Tab group mediator unit tests
+summary: Unit tests for the tab group mediator covering group updates, sync and sharing behavior using mock and fake services.

@@ -1,0 +1,4 @@
+# Docerion header of text_classifier_model_service_factory.mm.
+type: source
+title: TextClassifierModelServiceFactory implementation
+summary: Implements the text classifier model service factory, creating the service only when optimization target prediction is enabled.

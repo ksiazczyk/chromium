@@ -1,0 +1,4 @@
+# Docerion header of features.mm.
+type: source
+title: Inactive tabs feature flag implementation
+summary: Implements the inactivity threshold logic, honoring test and demo flags and the user preference setting.

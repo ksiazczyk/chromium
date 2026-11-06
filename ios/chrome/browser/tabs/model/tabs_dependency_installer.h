@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tabs dependency installer interface
+// summary: Observer interface for classes that install and uninstall per-WebState dependencies as WebStates are inserted, removed, deleted, or activated in a browser's WebStateList.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TABS_MODEL_TABS_DEPENDENCY_INSTALLER_H_
 #define IOS_CHROME_BROWSER_TABS_MODEL_TABS_DEPENDENCY_INSTALLER_H_
 

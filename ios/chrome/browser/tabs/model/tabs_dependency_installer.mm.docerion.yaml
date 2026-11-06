@@ -1,0 +1,4 @@
+# Docerion header of tabs_dependency_installer.mm.
+type: source
+title: Tabs dependency installer implementation
+summary: Implements TabsDependencyInstaller with a helper that observes the WebStateList and unrealized WebStates, forwarding events to the owning installer.

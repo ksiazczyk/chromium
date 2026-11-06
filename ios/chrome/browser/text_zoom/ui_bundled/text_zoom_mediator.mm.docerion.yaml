@@ -1,0 +1,4 @@
+# Docerion header of text_zoom_mediator.mm.
+type: source
+title: Text zoom mediator implementation
+summary: Implements the text zoom mediator, observing web state changes and applying reader mode or web page font size changes for zoom actions.

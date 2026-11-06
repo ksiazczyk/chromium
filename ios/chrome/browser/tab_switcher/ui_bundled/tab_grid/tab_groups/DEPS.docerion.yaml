@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Tab groups include rules
+summary: Chromium DEPS file restricting which directories the tab_groups code may include, with special rules for app interface test files.

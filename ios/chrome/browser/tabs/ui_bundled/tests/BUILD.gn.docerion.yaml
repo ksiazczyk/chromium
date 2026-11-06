@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for distant tabs test support
+summary: Defines test-only source sets for a fake distant tab, the DistantTabsAppInterface app support, and its Earl Grey test support stub.

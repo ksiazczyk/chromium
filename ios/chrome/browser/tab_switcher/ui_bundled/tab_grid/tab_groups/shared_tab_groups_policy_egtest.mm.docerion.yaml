@@ -1,0 +1,4 @@
+# Docerion header of shared_tab_groups_policy_egtest.mm.
+type: test
+title: Shared tab groups policy Earl Grey tests
+summary: Earl Grey test checking that a managed account policy can disable joining and sharing shared tab groups.

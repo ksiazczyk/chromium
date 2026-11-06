@@ -1,0 +1,4 @@
+# Docerion header of create_tab_group_mediator_unittest.mm.
+type: test
+title: Create tab group mediator unit tests
+summary: Unit tests for CreateTabGroupMediator covering delegate notification when an edited group is deleted or externally mutated.

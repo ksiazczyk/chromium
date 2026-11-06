@@ -1,0 +1,4 @@
+# Docerion header of fake_tab_collection_consumer.mm.
+type: test
+title: Fake tab collection consumer implementation
+summary: Implements the fake tab collection consumer, recording grid item changes and inactive tab info for tests.

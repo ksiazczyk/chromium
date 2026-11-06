@@ -1,0 +1,4 @@
+# Docerion header of text_zoom_view_controller.mm.
+type: source
+title: TextZoomViewController implementation
+summary: Implements the text zoom overlay view with close, reset, increment, and decrement buttons, including layout constraints and accessibility identifiers for iPhone and iPad.

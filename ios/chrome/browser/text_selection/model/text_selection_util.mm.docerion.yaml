@@ -1,0 +1,4 @@
+# Docerion header of text_selection_util.mm.
+type: source
+title: Text selection feature parameter definitions
+summary: Defines the string values of the text classifier feature parameter names and the force-allow-domain-for-entity-selection command-line switch.

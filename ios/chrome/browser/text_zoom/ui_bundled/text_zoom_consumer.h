@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Text zoom consumer protocol header
+// summary: Declares the TextZoomConsumer protocol with methods to enable or disable zoom in, zoom out, and reset zoom actions.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TEXT_ZOOM_UI_BUNDLED_TEXT_ZOOM_CONSUMER_H_
 #define IOS_CHROME_BROWSER_TEXT_ZOOM_UI_BUNDLED_TEXT_ZOOM_CONSUMER_H_
 

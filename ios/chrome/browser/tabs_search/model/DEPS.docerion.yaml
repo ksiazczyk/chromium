@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for tabs search model
+summary: Specifies allowed include dependencies for the tabs search model directory, with temporary exceptions for the service header.

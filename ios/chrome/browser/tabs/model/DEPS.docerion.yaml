@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Tabs model include dependency rules
+summary: Specifies allowed include paths for the tabs model directory, with extra allowances for tab_helper_util.mm.

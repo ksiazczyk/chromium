@@ -1,0 +1,4 @@
+# Docerion header of ios_synced_window_delegate_getter.mm.
+type: source
+title: Synced window delegates getter implementation
+summary: Implements the synced window delegates getter, mapping regular and inactive browsers to their synced window delegates.

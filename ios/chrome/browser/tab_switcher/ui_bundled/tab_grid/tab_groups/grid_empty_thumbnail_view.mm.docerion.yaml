@@ -1,0 +1,4 @@
+# Docerion header of grid_empty_thumbnail_view.mm.
+type: source
+title: Grid empty thumbnail view implementation
+summary: Implements the empty thumbnail placeholder bars with portrait, centered, and landscape layout constraints.

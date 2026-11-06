@@ -1,0 +1,4 @@
+# Docerion header of tab_grid_top_toolbar.mm.
+type: source
+title: TabGridTopToolbar implementation
+summary: Implements TabGridTopToolbar, laying out and enabling its buttons, search bar and background according to mode, page and scroll state.

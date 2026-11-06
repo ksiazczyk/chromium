@@ -1,0 +1,4 @@
+# Docerion header of tab_groups_panel_item.mm.
+type: source
+title: Tab groups panel item implementation
+summary: Implements construction, equality and hashing for Tab Groups panel items.

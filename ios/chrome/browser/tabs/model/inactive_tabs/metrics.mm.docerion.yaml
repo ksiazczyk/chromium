@@ -1,0 +1,4 @@
+# Docerion header of metrics.mm.
+type: source
+title: Inactive tabs metrics definition
+summary: Defines the constant for the IOS.InactiveTabs.Settings.Threshold histogram name.

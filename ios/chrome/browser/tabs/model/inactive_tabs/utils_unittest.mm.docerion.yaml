@@ -1,0 +1,4 @@
+# Docerion header of utils_unittest.mm.
+type: test
+title: Inactive tabs utils unit tests
+summary: Unit tests for moving tabs between active and inactive browsers, including histogram verification.

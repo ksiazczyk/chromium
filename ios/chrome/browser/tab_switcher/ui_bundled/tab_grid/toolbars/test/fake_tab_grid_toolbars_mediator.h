@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake tab grid toolbars mediator interface
+// summary: Declares FakeTabGridToolbarsMediator, a fake implementing GridToolbarsMutator that stores received toolbar values for test verification.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TAB_SWITCHER_UI_BUNDLED_TAB_GRID_TOOLBARS_TEST_FAKE_TAB_GRID_TOOLBARS_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_TAB_SWITCHER_UI_BUNDLED_TAB_GRID_TOOLBARS_TEST_FAKE_TAB_GRID_TOOLBARS_MEDIATOR_H_
 

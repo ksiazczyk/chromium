@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Inactive tabs GN build targets
+summary: Defines source sets and dependencies for the inactive tabs features, metrics, utils and their unit tests.

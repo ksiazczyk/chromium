@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TextClassifierUtil header
+// summary: Declares a utility that reports whether entity detection is allowed for a URL in a given web state.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TEXT_SELECTION_MODEL_TEXT_CLASSIFIER_UTIL_H_
 #define IOS_CHROME_BROWSER_TEXT_SELECTION_MODEL_TEXT_CLASSIFIER_UTIL_H_
 

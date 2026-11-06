@@ -1,3 +1,9 @@
+---
+type: reference
+title: Tab lifecycle
+summary: Explains how a WebState is created and how AttachTabHelpers attaches tab helpers to it during the tab lifecycle.
+---
+
 # `Tab` lifecycle
 
 `Tab` is a virtual concept that refers to the` WebState` UI. A `WebState` is created then it's 

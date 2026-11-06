@@ -1,0 +1,4 @@
+# Docerion header of text_classifier_model_service_fake.mm.
+type: test
+title: TextClassifierModelServiceFake implementation
+summary: Implements the fake text classifier model service and provides a testing factory that builds it for a profile.

@@ -1,0 +1,4 @@
+# Docerion header of tab_grid_page_control.mm.
+type: source
+title: TabGridPageControl implementation
+summary: Implements the slider page control, including segment layout, drag and tap events, and RTL-aware layout guides.

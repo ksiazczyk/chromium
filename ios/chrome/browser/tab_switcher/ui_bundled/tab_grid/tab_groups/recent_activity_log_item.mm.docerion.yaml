@@ -1,0 +1,4 @@
+# Docerion header of recent_activity_log_item.mm.
+type: source
+title: Recent activity log item implementation
+summary: Implements equality and hashing for the log item based on the activity metadata identifier.

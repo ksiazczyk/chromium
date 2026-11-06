@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local session event router for session sync
+// summary: Declares IOSChromeLocalSessionEventRouter, which drives session sync by observing web state events across browsers.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TABS_MODEL_IOS_CHROME_LOCAL_SESSION_EVENT_ROUTER_H_
 #define IOS_CHROME_BROWSER_TABS_MODEL_IOS_CHROME_LOCAL_SESSION_EVENT_ROUTER_H_
 

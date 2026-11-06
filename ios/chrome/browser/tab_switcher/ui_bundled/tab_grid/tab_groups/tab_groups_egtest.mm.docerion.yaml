@@ -1,0 +1,4 @@
+# Docerion header of tab_groups_egtest.mm.
+type: test
+title: Tab groups Earl Grey tests
+summary: Earl Grey UI tests covering tab group creation, renaming, sharing, closing and related tab grid behaviors.

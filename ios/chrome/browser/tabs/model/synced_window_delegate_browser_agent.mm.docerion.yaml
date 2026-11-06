@@ -1,0 +1,4 @@
+# Docerion header of synced_window_delegate_browser_agent.mm.
+type: source
+title: SyncedWindowDelegateBrowserAgent implementation
+summary: Implements the synced window delegate, creating and removing synced tab delegates for web states and reporting tab counts and session IDs.

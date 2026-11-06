@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TipsManagerIOS class declaration
+// summary: Declares TipsManagerIOS, the iOS implementation of the segmentation platform TipsManager that coordinates in-product tips in Chrome iOS.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TIPS_MANAGER_MODEL_TIPS_MANAGER_IOS_H_
 #define IOS_CHROME_BROWSER_TIPS_MANAGER_MODEL_TIPS_MANAGER_IOS_H_
 

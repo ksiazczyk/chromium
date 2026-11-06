@@ -1,0 +1,4 @@
+# Docerion header of tab_group_snapshots_view.mm.
+type: source
+title: Tab group snapshots view implementation
+summary: Implements the snapshot view that arranges group tab views in stacked lines and configures their snapshots and favicons.

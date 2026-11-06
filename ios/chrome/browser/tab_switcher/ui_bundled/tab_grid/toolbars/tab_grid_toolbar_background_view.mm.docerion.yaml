@@ -1,0 +1,4 @@
+# Docerion header of tab_grid_toolbar_background_view.mm.
+type: source
+title: Tab grid toolbar background view implementation
+summary: Implements the toolbar background view with gradient and blur layers whose alpha fades as the tab grid scrolls toward its edge.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Toolbars include rules
+summary: Chromium DEPS file restricting includes in this directory to the page action menu entrypoint view header.

@@ -1,0 +1,4 @@
+# Docerion header of tab_grid_animation_parameters.mm.
+type: source
+title: Tab grid animation parameters implementation
+summary: Implements the designated initializer of TabGridAnimationParameters, assigning all animation input values.

@@ -1,0 +1,4 @@
+# Docerion header of tab_grid_toolbars_mediator.mm.
+type: source
+title: TabGridToolbarsMediator implementation
+summary: Implements TabGridToolbarsMediator, applying toolbar configurations and observing WebStateList and tab grid mode changes to update toolbar buttons.

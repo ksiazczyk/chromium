@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabHelperAttacher header
+// summary: Declares a declarative builder class for conditionally attaching tab helpers to a WebState.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TABS_MODEL_TAB_HELPER_ATTACHER_H_
 #define IOS_CHROME_BROWSER_TABS_MODEL_TAB_HELPER_ATTACHER_H_
 

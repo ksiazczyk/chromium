@@ -1,0 +1,4 @@
+# Docerion header of shared_tab_groups_panel_egtest.mm.
+type: test
+title: Shared tab groups panel Earl Grey tests
+summary: Earl Grey tests verifying shared groups displayed in the tab groups panel, including owner and non-owner cases.

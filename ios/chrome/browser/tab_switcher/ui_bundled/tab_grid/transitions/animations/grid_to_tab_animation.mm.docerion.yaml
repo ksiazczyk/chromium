@@ -1,0 +1,4 @@
+# Docerion header of grid_to_tab_animation.mm.
+type: source
+title: Grid to tab animation implementation
+summary: Implements the grid-to-tab transition using toolbar and content snapshots, a corner-radius mask, scaling and a grid blur effect.

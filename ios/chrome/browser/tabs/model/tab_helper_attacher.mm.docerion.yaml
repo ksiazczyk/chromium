@@ -1,0 +1,4 @@
+# Docerion header of tab_helper_attacher.mm.
+type: source
+title: TabHelperAttacher implementation
+summary: Implements the TabHelperAttacher constructor that records the profile and filter flags used when attaching tab helpers.

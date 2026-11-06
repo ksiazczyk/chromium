@@ -1,0 +1,4 @@
+# Docerion header of fake_tab_grid_toolbars_mediator.mm.
+type: test
+title: Fake tab grid toolbars mediator implementation
+summary: Implements the fake mediator by recording toolbar configuration, delegate, button enabled state, and incognito background visibility set during tests.

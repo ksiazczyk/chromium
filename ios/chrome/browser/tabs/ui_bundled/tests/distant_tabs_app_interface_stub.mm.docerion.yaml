@@ -1,0 +1,4 @@
+# Docerion header of distant_tabs_app_interface_stub.mm.
+type: test
+title: DistantTabsAppInterface Earl Grey stub
+summary: Registers a stub of DistantTabsAppInterface for the Earl Grey test support target via GREY_STUB_CLASS_IN_APP_MAIN_QUEUE.

@@ -1,0 +1,4 @@
+# Docerion header of tab_grid_toolbars_configuration.mm.
+type: source
+title: Tab grid toolbars configuration implementation
+summary: Implements the toolbars configuration, including a factory method returning a configuration with all buttons disabled for a given page.

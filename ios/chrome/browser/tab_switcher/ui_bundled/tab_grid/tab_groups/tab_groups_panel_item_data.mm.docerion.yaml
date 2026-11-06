@@ -1,0 +1,4 @@
+# Docerion header of tab_groups_panel_item_data.mm.
+type: source
+title: TabGroupsPanelItemData implementation
+summary: Implements the TabGroupsPanelItemData class that holds data for items shown in the Tab Groups panel.

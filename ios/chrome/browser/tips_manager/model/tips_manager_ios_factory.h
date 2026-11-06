@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TipsManagerIOSFactory class declaration
+// summary: Declares TipsManagerIOSFactory, a typed profile-keyed service factory that owns TipsManagerIOS instances and associates them with profiles.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TIPS_MANAGER_MODEL_TIPS_MANAGER_IOS_FACTORY_H_
 #define IOS_CHROME_BROWSER_TIPS_MANAGER_MODEL_TIPS_MANAGER_IOS_FACTORY_H_
 

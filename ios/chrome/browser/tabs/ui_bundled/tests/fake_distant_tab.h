@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeDistantTab header
+// summary: Declares FakeDistantTab, an object holding a tab title and URL used to populate distant sessions, with a helper to create tabs for a server URL.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TABS_UI_BUNDLED_TESTS_FAKE_DISTANT_TAB_H_
 #define IOS_CHROME_BROWSER_TABS_UI_BUNDLED_TESTS_FAKE_DISTANT_TAB_H_
 

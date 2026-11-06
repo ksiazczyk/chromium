@@ -1,0 +1,4 @@
+# Docerion header of tips_manager_ios_factory.mm.
+type: source
+title: TipsManagerIOSFactory implementation
+summary: Implements the factory that builds TipsManagerIOS instances per profile and registers the tips manager profile preferences.

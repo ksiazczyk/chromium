@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab sync utility header
+// summary: Declares GetLastActiveDistantTab, which returns the most recently active synced distant tab used below a time threshold.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TABS_MODEL_TAB_SYNC_UTIL_H_
 #define IOS_CHROME_BROWSER_TABS_MODEL_TAB_SYNC_UTIL_H_
 

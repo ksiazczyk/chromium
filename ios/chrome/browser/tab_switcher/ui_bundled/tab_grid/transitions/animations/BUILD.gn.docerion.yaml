@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Tab grid animations build configuration
+summary: Defines the animations source set and unit tests with their sources and dependencies for the iOS tab grid transition animations.

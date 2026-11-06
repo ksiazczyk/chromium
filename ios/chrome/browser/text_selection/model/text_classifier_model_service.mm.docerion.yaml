@@ -1,0 +1,4 @@
+# Docerion header of text_classifier_model_service.mm.
+type: source
+title: TextClassifierModelService implementation
+summary: Implements the text classifier model service, observing optimization guide model updates and tracking the text classifier model path.

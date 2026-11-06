@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for text selection model
+summary: Defines GN source sets and dependencies for the text classifier model service, utilities, and test support in the iOS text selection model directory.

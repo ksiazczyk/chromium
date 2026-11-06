@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for text selection model
+summary: Specifies allowed include rules for the text selection model directory, permitting the optimization guide model folder.

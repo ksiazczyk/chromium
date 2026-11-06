@@ -1,0 +1,4 @@
+# Docerion header of tab_groups_panel_coordinator.mm.
+type: source
+title: Tab groups panel coordinator implementation
+summary: Implements the Tab Groups panel coordinator, wiring collaboration, sharing and face pile handling for shared groups.

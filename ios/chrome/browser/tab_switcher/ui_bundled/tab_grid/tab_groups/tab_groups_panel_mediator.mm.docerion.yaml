@@ -1,0 +1,4 @@
+# Docerion header of tab_groups_panel_mediator.mm.
+type: source
+title: TabGroupsPanelMediator implementation
+summary: Implements the Tab Groups panel mediator, handling synced group updates, deletion, sharing state, messages and toolbar configuration.

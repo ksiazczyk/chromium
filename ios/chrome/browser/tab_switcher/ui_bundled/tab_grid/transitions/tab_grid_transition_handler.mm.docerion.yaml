@@ -1,0 +1,4 @@
+# Docerion header of tab_grid_transition_handler.mm.
+type: source
+title: TabGridTransitionHandler implementation
+summary: Implements TabGrid-to-browser transitions with full, reduced motion, or disabled animation modes.

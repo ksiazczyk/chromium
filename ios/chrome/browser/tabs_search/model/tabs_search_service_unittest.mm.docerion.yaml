@@ -1,0 +1,4 @@
+# Docerion header of tabs_search_service_unittest.mm.
+type: test
+title: TabsSearchService unit tests
+summary: Unit tests verifying search results across regular and incognito browsers, recently closed tabs, and remote tabs.

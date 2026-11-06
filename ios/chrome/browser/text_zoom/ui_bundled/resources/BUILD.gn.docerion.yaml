@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Text zoom resources BUILD.gn
+summary: GN build file that declares the text zoom asset catalog images (zoom in and zoom out icons) as bundle resources for the iOS Chrome text zoom UI.

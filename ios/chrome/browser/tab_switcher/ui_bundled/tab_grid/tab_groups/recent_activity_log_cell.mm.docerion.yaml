@@ -1,0 +1,4 @@
+# Docerion header of recent_activity_log_cell.mm.
+type: source
+title: Recent activity log cell implementation
+summary: Implements the recent activity log cell layout with avatar container, labels and favicon view.

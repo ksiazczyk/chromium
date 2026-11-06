@@ -1,0 +1,4 @@
+# Docerion header of tab_grid_toolbar_scrolling_background.mm.
+type: source
+title: Tab grid toolbar scrolling background implementation
+summary: Implements the paging background that stacks incognito, regular, and tab groups backgrounds and updates or hides them per page and scroll state.

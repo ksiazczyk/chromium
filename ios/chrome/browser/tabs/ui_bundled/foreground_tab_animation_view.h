@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: foreground_tab_animation_view.h
+// summary: Declares ForegroundTabAnimationView, which animates a new foreground tab's content scaling up while the previous tab's background fades.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TABS_UI_BUNDLED_FOREGROUND_TAB_ANIMATION_VIEW_H_
 #define IOS_CHROME_BROWSER_TABS_UI_BUNDLED_FOREGROUND_TAB_ANIMATION_VIEW_H_
 

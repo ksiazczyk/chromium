@@ -1,0 +1,4 @@
+# Docerion header of tab_group_coordinator.mm.
+type: source
+title: Tab group coordinator implementation
+summary: Implements the tab group coordinator, handling presentation, sharing and collaboration flows, user education and last-tab-closed alerts.

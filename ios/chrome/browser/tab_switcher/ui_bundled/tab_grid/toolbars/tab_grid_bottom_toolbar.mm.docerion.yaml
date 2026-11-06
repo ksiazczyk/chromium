@@ -1,0 +1,4 @@
+# Docerion header of tab_grid_bottom_toolbar.mm.
+type: source
+title: TabGridBottomToolbar implementation
+summary: Implements the bottom toolbar layout, button handling, backgrounds and keyboard command actions for the tab grid.

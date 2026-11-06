@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Text zoom mediator header
+// summary: Declares TextZoomMediator, which handles text zoom commands and observes the web state list and distilled page preferences.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TEXT_ZOOM_UI_BUNDLED_TEXT_ZOOM_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_TEXT_ZOOM_UI_BUNDLED_TEXT_ZOOM_MEDIATOR_H_
 

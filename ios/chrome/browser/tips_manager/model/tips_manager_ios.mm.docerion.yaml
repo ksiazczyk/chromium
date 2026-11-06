@@ -1,0 +1,4 @@
+# Docerion header of tips_manager_ios.mm.
+type: source
+title: TipsManagerIOS implementation
+summary: Implements TipsManagerIOS::HandleInteraction for tip interactions, currently a stub pending implementation.

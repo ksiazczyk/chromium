@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Query title test server utility declaration
+// summary: Declares helpers to register a /querytitle handler and build its URL on an embedded test server.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TAB_SWITCHER_UI_BUNDLED_TEST_QUERY_TITLE_SERVER_UTIL_H_
 #define IOS_CHROME_BROWSER_TAB_SWITCHER_UI_BUNDLED_TEST_QUERY_TITLE_SERVER_UTIL_H_
 

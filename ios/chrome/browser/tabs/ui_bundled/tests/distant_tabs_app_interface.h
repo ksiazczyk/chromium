@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DistantTabsAppInterface header
+// summary: Declares DistantTabsAppInterface, an app interface that adds a fake foreign session with given tabs to the fake sync server used by tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TABS_UI_BUNDLED_TESTS_DISTANT_TABS_APP_INTERFACE_H_
 #define IOS_CHROME_BROWSER_TABS_UI_BUNDLED_TESTS_DISTANT_TABS_APP_INTERFACE_H_
 

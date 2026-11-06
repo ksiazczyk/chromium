@@ -1,0 +1,4 @@
+# Docerion header of shared_tab_groups_egtest.mm.
+type: test
+title: Shared tab groups Earl Grey tests
+summary: Earl Grey integration tests covering shared tab group flows such as sharing, joining, managing, and activity logs in the tab grid.
