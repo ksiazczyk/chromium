@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android overlay base class implementation
+// summary: Implements AndroidOverlay callback management for surface destruction and overlay deletion notifications.
+// ---
+
 #include "media/base/android/android_overlay.h"
 
 namespace media {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VideoDecoderConfig unit tests
+// summary: Unit tests verifying alpha mode handling, profile setting, and config matching including spatial format projection for VideoDecoderConfig.
+// ---
+
 #include "media/base/limits.h"
 #include "media/base/media_util.h"
 #include "media/base/video_decoder_config.h"

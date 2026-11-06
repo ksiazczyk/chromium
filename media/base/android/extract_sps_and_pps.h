@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SPS and PPS extraction declaration
+// summary: Declares ExtractSpsAndPps, which extracts H.264 SPS and PPS lists from AVCC data with Annex B framing.
+// ---
+
 #ifndef MEDIA_BASE_ANDROID_EXTRACT_SPS_AND_PPS_H_
 #define MEDIA_BASE_ANDROID_EXTRACT_SPS_AND_PPS_H_
 

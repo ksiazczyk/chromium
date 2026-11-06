@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoColorSpace class header
+// summary: Defines the VideoColorSpace class per ISO 23001-8 with primary, transfer and matrix enums and gfx color space conversion helpers.
+// ---
+
 #ifndef MEDIA_BASE_VIDEO_COLOR_SPACE_H_
 #define MEDIA_BASE_VIDEO_COLOR_SPACE_H_
 

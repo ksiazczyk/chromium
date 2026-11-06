@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OffloadingAudioEncoder implementation
+// summary: Implements an audio encoder wrapper that posts initialize, encode, and flush calls to a dedicated work runner and routes callbacks back to the caller's runner.
+// ---
+
 #include "media/base/offloading_audio_encoder.h"
 
 #include "base/task/bind_post_task.h"

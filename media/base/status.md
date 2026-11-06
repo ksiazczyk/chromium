@@ -1,3 +1,11 @@
+---
+type: reference
+title: TypedStatus<T> usage documentation
+summary: Documents how to define, construct, test, and serialize TypedStatus statuses, including mojo and UKM setup and design decisions.
+relations:
+  - documents /media/base/status.h
+---
+
 # TypedStatus<T>
 
 The purpose of TypedStatus is to provide a thin wrapper around return-value

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TypedStatus template and StatusData declarations
+// summary: Declares the TypedStatus template, traits concepts, and StatusData used for media error status handling with causes and data.
+// ---
+
 #ifndef MEDIA_BASE_STATUS_H_
 #define MEDIA_BASE_STATUS_H_
 

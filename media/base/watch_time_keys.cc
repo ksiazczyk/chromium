@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Watch time metric key definitions
+// summary: Defines the UMA histogram name strings for audio, video, background, HDR, and muted watch time metrics across playback types.
+// ---
+
 #include "media/base/watch_time_keys.h"
 
 #include "base/notreached.h"

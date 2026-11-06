@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MetadataTrack header
+// summary: Declares the MetadataTrack class, which caches metadata from a timed metadata track in an IntervalMap and attaches it to decoder buffers by timestamp.
+// ---
+
 #ifndef MEDIA_BASE_METADATA_TRACK_H_
 #define MEDIA_BASE_METADATA_TRACK_H_
 

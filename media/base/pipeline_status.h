@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pipeline status codes and statistics header
+// summary: Declares pipeline status error codes logged to UMA, PipelineStatistics, and helpers for converting statuses to strings.
+// ---
+
 #ifndef MEDIA_BASE_PIPELINE_STATUS_H_
 #define MEDIA_BASE_PIPELINE_STATUS_H_
 

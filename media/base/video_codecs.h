@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video codec and profile enums
+// summary: Defines the VideoCodec and VideoCodecProfile enums with log-stable values, plus codec name lookup functions for the media stack.
+// ---
+
 #ifndef MEDIA_BASE_VIDEO_CODECS_H_
 #define MEDIA_BASE_VIDEO_CODECS_H_
 

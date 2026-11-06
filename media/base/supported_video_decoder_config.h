@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Supported video decoder config declaration
+// summary: Declares SupportedVideoDecoderConfig, a struct describing a range of supported video decoder configurations, plus a helper to check whether a config matches.
+// ---
+
 #ifndef MEDIA_BASE_SUPPORTED_VIDEO_DECODER_CONFIG_H_
 #define MEDIA_BASE_SUPPORTED_VIDEO_DECODER_CONFIG_H_
 

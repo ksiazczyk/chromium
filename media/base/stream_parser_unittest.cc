@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for StreamParser buffer queue merging
+// summary: Tests merging of audio and video buffer queues with decode timestamp ordering and buffer generation helpers.
+// ---
+
 #include "media/base/stream_parser.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaTracks implementation
+// summary: Implements the MediaTracks container that adds audio and video tracks with their decoder configs and looks up configs by stream ID.
+// ---
+
 #include "media/base/media_tracks.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockMediaCodecBridge implementation
+// summary: Implements MockMediaCodecBridge defaults for dequeue calls plus helpers to accept one input, produce one output, and create mock video decoders.
+// ---
+
 #include "media/base/android/mock_media_codec_bridge.h"
 
 #include "base/strings/stringprintf.h"

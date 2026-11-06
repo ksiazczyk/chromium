@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Internal MimeUtil header
+// summary: Declares the internal MimeUtil class with its codec enum, platform info structure and methods for MIME type, codec and format support checks.
+// ---
+
 #ifndef MEDIA_BASE_MIME_UTIL_INTERNAL_H_
 #define MEDIA_BASE_MIME_UTIL_INTERNAL_H_
 

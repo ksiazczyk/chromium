@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StreamParserBuffer and DecodeTimestamp declarations
+// summary: Declares StreamParserBuffer and the DecodeTimestamp type that distinguishes decode timestamps from presentation timestamps.
+// ---
+
 #ifndef MEDIA_BASE_STREAM_PARSER_BUFFER_H_
 #define MEDIA_BASE_STREAM_PARSER_BUFFER_H_
 

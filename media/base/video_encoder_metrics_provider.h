@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video encoder metrics provider interface
+// summary: Defines an abstract provider interface for reporting video encoder metrics such as codec profile, encoded frame counts, and errors.
+// ---
+
 #ifndef MEDIA_BASE_VIDEO_ENCODER_METRICS_PROVIDER_H_
 #define MEDIA_BASE_VIDEO_ENCODER_METRICS_PROVIDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video codec string parsers
+// summary: Parses codec strings such as VP9, HEVC, AVC, AV1 and Dolby Vision variants into profiles, color spaces and chroma sampling information.
+// ---
+
 #include "media/base/video_codec_string_parsers.h"
 
 #include <array>

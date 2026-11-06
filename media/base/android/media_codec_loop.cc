@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaCodecLoop implementation
+// summary: Implements the MediaCodecLoop driver that polls MediaCodec buffers, manages state transitions, and handles key waiting, flushing, and idle timers.
+// ---
+
 #include "media/base/android/media_codec_loop.h"
 
 #include "base/functional/bind.h"

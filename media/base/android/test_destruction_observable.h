@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DestructionObservable test helper declaration
+// summary: Declares DestructionObservable and DestructionObserver classes for setting lifetime expectations such as ExpectDestruction in unit tests.
+// ---
+
 #ifndef MEDIA_BASE_ANDROID_TEST_DESTRUCTION_OBSERVABLE_H_
 #define MEDIA_BASE_ANDROID_TEST_DESTRUCTION_OBSERVABLE_H_
 

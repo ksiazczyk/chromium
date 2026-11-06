@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SimpleWatchTimer implementation
+// summary: Implements SimpleWatchTimer, which polls playback time every 750 ms and fires a tick callback roughly once per second of active watch time.
+// ---
+
 #include "media/base/simple_watch_timer.h"
 
 #include "base/location.h"

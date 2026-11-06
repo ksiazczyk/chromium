@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media test data utilities implementation
+// summary: Implements helpers for media tests, including mime type lookup for test files, reading test files into DecoderBuffers, and test key lookup.
+// ---
+
 
 #include "media/base/test_data_util.h"
 

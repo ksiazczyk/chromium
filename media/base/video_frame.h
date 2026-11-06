@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoFrame class header
+// summary: Declares the ref-counted media::VideoFrame class with plane enums, storage types, sync token client, and factory methods for video frames.
+// ---
+
 #ifndef MEDIA_BASE_VIDEO_FRAME_H_
 #define MEDIA_BASE_VIDEO_FRAME_H_
 

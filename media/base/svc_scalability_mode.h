@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SVC scalability mode enum and helpers
+// summary: Defines the SVCScalabilityMode enum aligned with the WebRTC-SVC spec and declares functions to resolve and name scalability modes.
+// ---
+
 #ifndef MEDIA_BASE_SVC_SCALABILITY_MODE_H_
 #define MEDIA_BASE_SVC_SCALABILITY_MODE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MetadataTrack implementation
+// summary: Implements caching of timed metadata such as AGTM HDR metadata from a metadata track and attaching it to the decoder buffers of a referencing render track.
+// ---
+
 #include "media/base/metadata_track.h"
 
 #include <algorithm>

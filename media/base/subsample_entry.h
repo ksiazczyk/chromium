@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SubsampleEntry struct for subsample encryption
+// summary: Defines the SubsampleEntry struct holding clear and encrypted byte counts and declares helpers to verify and build subsample entries.
+// ---
+
 #ifndef MEDIA_BASE_SUBSAMPLE_ENTRY_H_
 #define MEDIA_BASE_SUBSAMPLE_ENTRY_H_
 

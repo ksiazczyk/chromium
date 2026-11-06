@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ordered coalescing ranges container template
+// summary: Defines a template for ordered [start,end) ranges that coalesce overlaps, useful for tracking buffered bytes or times in media playback.
+// ---
+
 #ifndef MEDIA_BASE_RANGES_H_
 #define MEDIA_BASE_RANGES_H_
 

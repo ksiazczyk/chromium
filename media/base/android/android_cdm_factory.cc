@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android CDM factory implementation
+// summary: Implements the Android content decryption module factory, creating MediaDrmBridge-based CDMs or an AesDecryptor for external clear key testing.
+// ---
+
 #include "media/base/android/android_cdm_factory.h"
 
 #include "base/feature_list.h"

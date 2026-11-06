@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaTracks container header
+// summary: Declares the MediaTracks class, which holds a collection of MediaTrack objects and maps stream IDs to audio and video decoder configurations.
+// ---
+
 #ifndef MEDIA_BASE_MEDIA_TRACKS_H_
 #define MEDIA_BASE_MEDIA_TRACKS_H_
 

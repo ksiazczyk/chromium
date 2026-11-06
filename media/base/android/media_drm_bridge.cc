@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaDrmBridge implementation
+// summary: Implements a content decryption module on top of the Android MediaDrm API, including session handling, key requests and provisioning.
+// ---
+
 
 #include "media/base/android/media_drm_bridge.h"
 

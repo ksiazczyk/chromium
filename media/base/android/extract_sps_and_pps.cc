@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SPS and PPS extraction from AVCC
+// summary: Parses an AVCDecoderConfigurationRecord and extracts SPS and PPS NAL units prefixed with Annex B start codes.
+// ---
+
 #include "media/base/android/extract_sps_and_pps.h"
 
 #include <array>

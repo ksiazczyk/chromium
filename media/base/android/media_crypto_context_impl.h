@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaCryptoContextImpl header
+// summary: Declares MediaCryptoContextImpl, which delegates MediaCrypto readiness callbacks to the MediaDrmBridge that owns it.
+// ---
+
 #ifndef MEDIA_BASE_ANDROID_MEDIA_CRYPTO_CONTEXT_IMPL_H_
 #define MEDIA_BASE_ANDROID_MEDIA_CRYPTO_CONTEXT_IMPL_H_
 

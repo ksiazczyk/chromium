@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Picture-in-picture events info implementation
+// summary: Implements string conversion helpers for auto picture-in-picture reasons and diagnostic info used in logging and debugging.
+// ---
+
 #include "media/base/picture_in_picture_events_info.h"
 
 #include <array>

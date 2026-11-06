@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Renderer base class implementation
+// summary: Implements GetRendererName mapping RendererType values to UMA-safe names and provides default no-op Renderer methods such as SetCdm and track change handling.
+// ---
+
 #include "media/base/renderer.h"
 #include "base/logging.h"
 

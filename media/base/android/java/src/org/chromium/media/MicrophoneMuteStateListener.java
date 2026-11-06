@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MicrophoneMuteStateListener
+// summary: Registers a broadcast receiver that listens for system microphone mute changes and invokes a callback with the current mute state.
+// ---
+
 package org.chromium.media;
 
 import android.content.BroadcastReceiver;

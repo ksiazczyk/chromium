@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for supported media types
+// summary: Tests decoder and encoder support decisions for many codecs, profiles, color spaces and transfer functions across build configurations.
+// ---
+
 #include "media/base/supported_types.h"
 
 #include "base/test/scoped_feature_list.h"

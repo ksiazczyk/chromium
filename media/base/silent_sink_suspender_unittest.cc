@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SilentSinkSuspender unit tests
+// summary: Unit tests verifying SilentSinkSuspender passthrough behavior and its suspend and resume transitions between real and fake audio sinks.
+// ---
+
 #include "media/base/silent_sink_suspender.h"
 
 #include "base/memory/scoped_refptr.h"

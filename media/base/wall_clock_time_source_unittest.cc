@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WallClockTimeSource unit tests
+// summary: Unit tests verifying initial state, media time setting, playback rate changes, and ticking behavior of WallClockTimeSource using a fake tick clock.
+// ---
+
 #include "media/base/wall_clock_time_source.h"
 
 #include <memory>

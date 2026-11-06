@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaCodecLoop driver declarations
+// summary: Declares MediaCodecLoop, a single-threaded driver that owns a MediaCodecBridge and exchanges input and output buffers with a client for decoding.
+// ---
+
 #ifndef MEDIA_BASE_ANDROID_MEDIA_CODEC_LOOP_H_
 #define MEDIA_BASE_ANDROID_MEDIA_CODEC_LOOP_H_
 

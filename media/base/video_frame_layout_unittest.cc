@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Video frame layout unit tests
+// summary: Unit tests for VideoFrameLayout creation with strides, explicit planes and multi-planar variants across pixel formats such as I420 and NV12.
+// ---
+
 #include "media/base/video_frame_layout.h"
 
 #include <stddef.h>

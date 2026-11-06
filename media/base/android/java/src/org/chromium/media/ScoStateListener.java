@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScoStateListener
+// summary: Android broadcast receiver that tracks Bluetooth SCO audio state changes and invokes a callback on the main thread when SCO is enabled or disabled.
+// ---
+
 package org.chromium.media;
 
 import android.content.BroadcastReceiver;

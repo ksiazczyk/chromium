@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MetadataTrack unit tests
+// summary: Unit tests covering metadata insertion, attachment, missing metadata handling, metadata arriving after buffers, reordered buffers and reset behavior of MetadataTrack.
+// ---
+
 #include "media/base/metadata_track.h"
 
 #include "base/time/time.h"

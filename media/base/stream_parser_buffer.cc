@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StreamParserBuffer implementation
+// summary: Implements creation of StreamParserBuffer instances and decode timestamp handling for parsed media buffers.
+// ---
+
 #include "media/base/stream_parser_buffer.h"
 
 #include <algorithm>

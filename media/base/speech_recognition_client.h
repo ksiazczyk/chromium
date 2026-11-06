@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SpeechRecognitionClient interface for audio caption transcription
+// summary: Interface for a speech recognition client that transcribes audio buffers into captions.
+// ---
+
 #ifndef MEDIA_BASE_SPEECH_RECOGNITION_CLIENT_H_
 #define MEDIA_BASE_SPEECH_RECOGNITION_CLIENT_H_
 

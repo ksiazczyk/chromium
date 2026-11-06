@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaDrmStorageBridge implementation
+// summary: Implements the native MediaDrmStorageBridge that forwards Java calls for provisioning and persistent session data to the MediaDrmStorage implementation.
+// ---
+
 #include "media/base/android/media_drm_storage_bridge.h"
 
 #include <memory>

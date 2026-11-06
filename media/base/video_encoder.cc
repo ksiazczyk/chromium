@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video encoder helper implementation
+// summary: Implements video encoder helpers such as default bitrate scaling, drop frame threshold, software encoding thread counts, and quantizer conversions.
+// ---
+
 #include "media/base/video_encoder.h"
 
 #include <algorithm>

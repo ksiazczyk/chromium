@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Physical display size compatibility helper
+// summary: Retrieves the real physical display size on Android TV devices where display modes are misreported.
+// ---
+
 package org.chromium.media;
 
 import android.annotation.SuppressLint;

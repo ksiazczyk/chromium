@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IPC enum traits macros for media base types
+// summary: Defines IPC enum traits with maximum values for many media base enums, including codecs, buffering state, CDM types, demuxer stream status, pipeline status and video types.
+// ---
+
 #ifndef MEDIA_BASE_IPC_MEDIA_PARAM_TRAITS_MACROS_H_
 #define MEDIA_BASE_IPC_MEDIA_PARAM_TRAITS_MACROS_H_
 

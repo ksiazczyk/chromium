@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Supported media types API declaration
+// summary: Declares functions reporting supported audio and video types for decoders and encoders, with default variants and profile update hooks.
+// ---
+
 #ifndef MEDIA_BASE_SUPPORTED_TYPES_H_
 #define MEDIA_BASE_SUPPORTED_TYPES_H_
 

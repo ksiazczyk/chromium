@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock media pipeline filters implementation
+// summary: Implements gmock classes for media pipeline components, including MockPipeline, MockDemuxer, MockDemuxerStream, and mock audio and video decoders, encoders, and renderers.
+// ---
+
 #include "media/base/mock_filters.h"
 
 #include "base/check_op.h"

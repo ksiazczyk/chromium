@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video facing mode and capture observer header
+// summary: Defines the VideoFacingMode enum for video capture facing direction and the VideoCaptureObserver interface for capture start and stop events.
+// ---
+
 #ifndef MEDIA_BASE_VIDEO_FACING_H_
 #define MEDIA_BASE_VIDEO_FACING_H_
 

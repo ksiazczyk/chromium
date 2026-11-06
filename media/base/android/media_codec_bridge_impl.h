@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaCodecBridgeImpl and VideoCodecConfig declarations
+// summary: Declares MediaCodecBridgeImpl, the JNI-backed MediaCodec bridge, and VideoCodecConfig holding codec, surface, crypto, and HDR metadata settings.
+// ---
+
 #ifndef MEDIA_BASE_ANDROID_MEDIA_CODEC_BRIDGE_IMPL_H_
 #define MEDIA_BASE_ANDROID_MEDIA_CODEC_BRIDGE_IMPL_H_
 

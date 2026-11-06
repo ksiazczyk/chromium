@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the reentrancy checker
+// summary: GTest suite verifying that the non-reentrant scope macro permits normal use and reports death on reentrant use when DCHECKs are enabled.
+// ---
+
 #include "media/base/reentrancy_checker.h"
 
 #include "base/check_op.h"

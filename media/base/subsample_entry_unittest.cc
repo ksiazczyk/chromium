@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for SubsampleEntry verification
+// summary: Tests VerifySubsamplesMatchSize with empty, single, multiple and overflow-sized subsample entries.
+// ---
+
 #include "media/base/subsample_entry.h"
 
 #include <limits>

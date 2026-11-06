@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video frame layout header
+// summary: Declares the VideoFrameLayout class describing format, coded size, plane strides, offsets, buffer alignment and modifiers for hardware video frame buffers.
+// ---
+
 #ifndef MEDIA_BASE_VIDEO_FRAME_LAYOUT_H_
 #define MEDIA_BASE_VIDEO_FRAME_LAYOUT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TimeDeltaInterpolator header
+// summary: Declares TimeDeltaInterpolator, which interpolates between two TimeDeltas based on wall clock time and the current playback rate.
+// ---
+
 #ifndef MEDIA_BASE_TIME_DELTA_INTERPOLATOR_H_
 #define MEDIA_BASE_TIME_DELTA_INTERPOLATOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock video renderer sink header
+// summary: Declares MockVideoRendererSink, a gmock stub of VideoRendererSink that mocks Start, Stop, and PaintSingleFrame for tests.
+// ---
+
 #ifndef MEDIA_BASE_MOCK_VIDEO_RENDERER_SINK_H_
 #define MEDIA_BASE_MOCK_VIDEO_RENDERER_SINK_H_
 

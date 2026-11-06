@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaTrack implementation
+// summary: Implements the MediaTrack class, converting track, video, and audio kinds to strings and creating audio and video track objects.
+// ---
+
 #include "media/base/media_track.h"
 
 #include "base/notreached.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media pipeline implementation
+// summary: Implements PipelineImpl, the state machine that drives demuxer and renderer start, seek, suspend, resume, stop, and CDM attachment operations.
+// ---
+
 #include "media/base/pipeline_impl.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped async trace utility
+// summary: Defines a utility class that starts and stops asynchronous Perfetto trace events for media, media stream, and video/image capture categories.
+// ---
+
 #ifndef MEDIA_BASE_SCOPED_ASYNC_TRACE_H_
 #define MEDIA_BASE_SCOPED_ASYNC_TRACE_H_
 

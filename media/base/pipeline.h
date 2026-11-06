@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media pipeline interface
+// summary: Defines the Pipeline interface and its Client callbacks for errors, metadata, buffering state, duration changes, and audio/video configuration changes during playback.
+// ---
+
 #ifndef MEDIA_BASE_PIPELINE_H_
 #define MEDIA_BASE_PIPELINE_H_
 

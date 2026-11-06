@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoFrameConverter class header
+// summary: Declares the thread-safe VideoFrameConverter class that converts and scales video frames across many supported input and output pixel formats.
+// ---
+
 #ifndef MEDIA_BASE_VIDEO_FRAME_CONVERTER_H_
 #define MEDIA_BASE_VIDEO_FRAME_CONVERTER_H_
 

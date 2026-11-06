@@ -30,6 +30,12 @@
 // This class is not inherently thread-safe. Concurrent access must be
 // externally serialized.
 
+// ---docerion
+// type: source
+// title: SeekableBuffer for backward and forward seeking
+// summary: Declares a buffer that supports backward and forward seeking with configurable capacities, used as a backend cache for media data such as network downloads.
+// ---
+
 #ifndef MEDIA_BASE_SEEKABLE_BUFFER_H_
 #define MEDIA_BASE_SEEKABLE_BUFFER_H_
 

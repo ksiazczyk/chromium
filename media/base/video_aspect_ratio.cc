@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video aspect ratio implementation
+// summary: Implements pixel and display aspect ratio handling, computing natural display sizes from visible rectangles with overflow and validity checks.
+// ---
+
 #include "media/base/video_aspect_ratio.h"
 
 #include <cmath>

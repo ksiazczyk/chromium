@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock audio renderer sink implementation
+// summary: Implements MockAudioRendererSink, a gmock audio renderer sink with configurable device ID, output status, and audio parameters for media tests.
+// ---
+
 #include "media/base/mock_audio_renderer_sink.h"
 
 #include "base/functional/bind.h"

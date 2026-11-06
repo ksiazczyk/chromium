@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaDrmBridge
+// summary: Wraps the Android MediaDrm class, managing multiple DRM sessions, MediaCrypto creation, provisioning, and error handling for media decoders.
+// ---
+
 package org.chromium.media;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

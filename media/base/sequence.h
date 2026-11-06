@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sequence range utilities for media
+// summary: Declares C++ range helpers such as Concat and Singlet for building and iterating over combined sequences in media code.
+// ---
+
 #ifndef MEDIA_BASE_SEQUENCE_H_
 #define MEDIA_BASE_SEQUENCE_H_
 

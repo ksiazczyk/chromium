@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaTrack class header
+// summary: Declares the MediaTrack class with audio/video track types, kind, label, and language aliases, plus factory methods for creating tracks.
+// ---
+
 #ifndef MEDIA_BASE_MEDIA_TRACK_H_
 #define MEDIA_BASE_MEDIA_TRACK_H_
 

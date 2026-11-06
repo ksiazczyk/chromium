@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video bitrate allocation implementation
+// summary: Implements per-layer video bitrate allocation across spatial and temporal layers, tracking sum and peak bitrates with checked arithmetic.
+// ---
+
 #include "video_bitrate_allocation.h"
 
 #include <array>

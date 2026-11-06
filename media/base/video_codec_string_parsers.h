@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video codec string parsers header
+// summary: Declares functions to parse VP9, AV1, AVC, HEVC and Dolby Vision codec ID strings into VideoType, including legacy avc1 translation.
+// ---
+
 #ifndef MEDIA_BASE_VIDEO_CODEC_STRING_PARSERS_H_
 #define MEDIA_BASE_VIDEO_CODEC_STRING_PARSERS_H_
 

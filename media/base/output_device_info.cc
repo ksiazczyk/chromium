@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OutputDeviceInfo implementation
+// summary: Implements constructors and a human-readable string form for audio output device information such as device id, status, and output parameters.
+// ---
+
 #include "media/base/output_device_info.h"
 
 #include <sstream>

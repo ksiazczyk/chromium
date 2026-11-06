@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video frame metadata implementation
+// summary: Implements VideoFrameMetadata and CaptureMetadata, merging capture, decode, region capture and rendering related metadata fields from a source metadata object.
+// ---
+
 #include "media/base/video_frame_metadata.h"
 
 #include <stdint.h>

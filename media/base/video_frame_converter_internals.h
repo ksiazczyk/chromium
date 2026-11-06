@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video frame converter internals header
+// summary: Declares VideoFrame wrappers around libyuv conversion, scaling, plane splitting and merging routines, noting which methods do not support scaling.
+// ---
+
 #ifndef MEDIA_BASE_VIDEO_FRAME_CONVERTER_INTERNALS_H_
 #define MEDIA_BASE_VIDEO_FRAME_CONVERTER_INTERNALS_H_
 

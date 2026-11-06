@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for SupportedAudioDecoderConfig
+// summary: Tests construction with arguments plus codec and profile mismatch comparisons for SupportedAudioDecoderConfig.
+// ---
+
 #include "media/base/supported_audio_decoder_config.h"
 
 #include "media/base/audio_codecs.h"

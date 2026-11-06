@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WatchTimeKey enum and metric constants
+// summary: Declares the WatchTimeKey enum plus constants for watch time, underflow count, and mean time between rebuffers UMA metric names.
+// ---
+
 #ifndef MEDIA_BASE_WATCH_TIME_KEYS_H_
 #define MEDIA_BASE_WATCH_TIME_KEYS_H_
 

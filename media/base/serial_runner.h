@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SerialRunner for sequential callback execution
+// summary: Declares SerialRunner, a helper that runs a series of bound closures or status callbacks in order on the calling thread with cancellation support.
+// ---
+
 #ifndef MEDIA_BASE_SERIAL_RUNNER_H_
 #define MEDIA_BASE_SERIAL_RUNNER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WaitAndReplaceSyncTokenClient implementation
+// summary: Implements a GPU sync token client that generates and waits on sync tokens through the command buffer interface, with optional raster access callbacks.
+// ---
+
 #include "media/base/wait_and_replace_sync_token_client.h"
 #include "gpu/command_buffer/client/interface_base.h"
 

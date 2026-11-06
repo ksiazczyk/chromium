@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TimeDeltaInterpolator implementation
+// summary: Implements TimeDeltaInterpolator, which interpolates media time from a tick clock, playback rate, and lower and upper time bounds.
+// ---
+
 #include "media/base/time_delta_interpolator.h"
 
 #include <stdint.h>

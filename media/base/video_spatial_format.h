@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video spatial format types
+// summary: Defines the VideoStereoMode and VideoProjectionType enums and the VideoSpatialFormat struct describing stereoscopic and VR video layouts.
+// ---
+
 #ifndef MEDIA_BASE_VIDEO_SPATIAL_FORMAT_H_
 #define MEDIA_BASE_VIDEO_SPATIAL_FORMAT_H_
 

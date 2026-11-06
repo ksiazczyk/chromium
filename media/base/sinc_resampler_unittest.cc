@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SincResampler unit tests
+// summary: Unit tests covering SincResampler chunked resampling, priming, flushing, and resampling behavior against mock input sources.
+// ---
+
 #include "media/base/sinc_resampler.h"
 
 #include <memory>

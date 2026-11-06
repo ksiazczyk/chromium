@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WallClockTimeSource implementation
+// summary: Implements a time source that interpolates current media time from the system tick clock and playback rate, with optional coarse time resolution.
+// ---
+
 #include "media/base/wall_clock_time_source.h"
 
 #include <algorithm>

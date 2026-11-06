@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WaitAndReplaceSyncTokenClient class header
+// summary: Declares a VideoFrame sync token client that generates and waits on GPU sync tokens through a GPU interface or callback.
+// ---
+
 #ifndef MEDIA_BASE_WAIT_AND_REPLACE_SYNC_TOKEN_CLIENT_H_
 #define MEDIA_BASE_WAIT_AND_REPLACE_SYNC_TOKEN_CLIENT_H_
 

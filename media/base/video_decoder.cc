@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoDecoder base implementation
+// summary: Implements default VideoDecoder behavior and calculation of recommended video decode thread counts based on command line and CPU cores.
+// ---
+
 #include "media/base/video_decoder.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media test helpers header
+// summary: Declares media test helpers including WaitableMessageLoopEvent, expected callbacks, and TestVideoConfig presets for video decoder configurations.
+// ---
+
 #ifndef MEDIA_BASE_TEST_HELPERS_H_
 #define MEDIA_BASE_TEST_HELPERS_H_
 

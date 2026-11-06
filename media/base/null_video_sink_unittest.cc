@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NullVideoSink unit tests
+// summary: Tests sink startup, stop callbacks, background rendering mode, and duplicate frame suppression using mock render callbacks and a test tick clock.
+// ---
+
 #include <memory>
 
 #include "base/functional/bind.h"

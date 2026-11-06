@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaDrmBridgeFactory implementation
+// summary: Implements a CDM factory that creates MediaDrmBridge instances for Android key systems, resolving security levels and storage initialization before MediaDrm construction.
+// ---
+
 #include "media/base/android/media_drm_bridge_factory.h"
 
 #include "base/functional/bind.h"

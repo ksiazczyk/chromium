@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Internal MimeUtil implementation
+// summary: Implements the internal MimeUtil class, including codec string to codec mappings and platform-specific codec support logic for media MIME type handling.
+// ---
+
 #include "media/base/mime_util_internal.h"
 
 #include "base/command_line.h"

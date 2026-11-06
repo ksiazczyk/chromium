@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NullVideoSink class declaration
+// summary: Declares a VideoRendererSink that drives periodic Render callbacks at a fixed interval or back to back in clockless mode.
+// ---
+
 #ifndef MEDIA_BASE_NULL_VIDEO_SINK_H_
 #define MEDIA_BASE_NULL_VIDEO_SINK_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockMediaCryptoContext implementation
+// summary: Implements MockMediaCryptoContext, capturing the MediaCrypto ready callback and optionally exposing itself as the media crypto context.
+// ---
+
 #include "media/base/android/mock_media_crypto_context.h"
 
 #include "base/test/gmock_move_support.h"

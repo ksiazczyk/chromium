@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android audio manager JNI bridge
+// summary: Exposes Android audio device information, channel layouts and sampling rates to native media code via JNI.
+// ---
+
 package org.chromium.media;
 
 import android.content.ContentResolver;

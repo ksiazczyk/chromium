@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockMediaCryptoContext class declaration
+// summary: Declares MockMediaCryptoContext, a gmock CdmContext and MediaCryptoContext used to stub MediaCrypto readiness in Android media tests.
+// ---
+
 #ifndef MEDIA_BASE_ANDROID_MOCK_MEDIA_CRYPTO_CONTEXT_H_
 #define MEDIA_BASE_ANDROID_MOCK_MEDIA_CRYPTO_CONTEXT_H_
 

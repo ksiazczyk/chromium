@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tuneable implementation
+// summary: Implements the Tuneable template, fetching Finch field trial parameters clamped to hardcoded min, default, and max values.
+// ---
+
 #include "media/base/tuneable.h"
 
 #include <algorithm>

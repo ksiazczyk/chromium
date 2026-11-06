@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for Android media
+summary: Defines the Android media source set, unit tests, test support library, and JNI header generation targets for the //media component.

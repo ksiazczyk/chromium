@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MultiChannelResampler implementation
+// summary: Implements multi-channel audio sample rate conversion by wrapping a SincResampler per channel and feeding input data through a read callback.
+// ---
+
 #include "media/base/multi_channel_resampler.h"
 
 #include <algorithm>

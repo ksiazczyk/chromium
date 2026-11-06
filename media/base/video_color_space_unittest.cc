@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VideoColorSpace unit tests
+// summary: Tests VideoColorSpace validity, HDR detection and guessing of gfx color spaces from partial or invalid video color space data.
+// ---
+
 #include "media/base/video_color_space.h"
 #include "testing/gtest/include/gtest/gtest.h"
 #include "ui/gfx/color_space.h"

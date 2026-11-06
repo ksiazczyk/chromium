@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaCryptoContext implementation
+// summary: Implements MediaCryptoContext by forwarding MediaCrypto readiness callbacks to an owned MediaDrmBridge instance.
+// ---
+
 #include "media/base/android/media_crypto_context_impl.h"
 
 #include "media/base/android/media_drm_bridge.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock media log header
+// summary: Declares MockMediaLog with matchers and EXPECT_MEDIA_LOG macros for asserting on media log strings and properties in tests.
+// ---
+
 #ifndef MEDIA_BASE_MOCK_MEDIA_LOG_H_
 #define MEDIA_BASE_MOCK_MEDIA_LOG_H_
 

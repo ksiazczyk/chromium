@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RendererFactorySelector unit tests
+// summary: Tests factory selection for single, multiple, and conditional factories, including base renderer type switching.
+// ---
+
 #include <memory>
 
 #include "base/functional/bind.h"

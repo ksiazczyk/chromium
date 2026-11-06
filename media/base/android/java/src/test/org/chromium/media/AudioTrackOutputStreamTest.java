@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AudioTrackOutputStreamTest
+// summary: Robolectric tests for AudioTrackOutputStream, using an observable AudioTrack stub to verify audio buffer writes including partial-write handling.
+// ---
+
 package org.chromium.media;
 
 import static com.google.common.truth.Truth.assertThat;

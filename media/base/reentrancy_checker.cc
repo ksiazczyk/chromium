@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NonReentrantScope implementation
+// summary: Implements NonReentrantScope, which acquires a lock non-reentrantly and aborts if the scope is reentered.
+// ---
+
 #include "media/base/reentrancy_checker.h"
 
 namespace media {

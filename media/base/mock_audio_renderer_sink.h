@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock audio renderer sink header
+// summary: Declares MockAudioRendererSink, a gmock implementation of SwitchableAudioRendererSink that stubs start, stop, play, volume, and device switching in tests.
+// ---
+
 #ifndef MEDIA_BASE_MOCK_AUDIO_RENDERER_SINK_H_
 #define MEDIA_BASE_MOCK_AUDIO_RENDERER_SINK_H_
 

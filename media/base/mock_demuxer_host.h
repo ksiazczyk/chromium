@@ -2,6 +2,13 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 //
+
+// ---docerion
+// type: source
+// title: Mock demuxer host header
+// summary: Declares MockDemuxerHost, a gmock stub of DemuxerHost that mocks buffered range changes, duration updates, and demuxer errors.
+// ---
+
 #ifndef MEDIA_BASE_MOCK_DEMUXER_HOST_H_
 #define MEDIA_BASE_MOCK_DEMUXER_HOST_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaFormatColorSpace struct declaration
+// summary: Declares a struct mapping Chromium color space values to the integer color fields accepted by Android's MediaFormat, with helpers for Rec709 and HDR10.
+// ---
+
 #ifndef MEDIA_BASE_ANDROID_MEDIA_FORMAT_COLOR_SPACE_H_
 #define MEDIA_BASE_ANDROID_MEDIA_FORMAT_COLOR_SPACE_H_
 

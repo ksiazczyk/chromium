@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OffloadingAudioEncoder class declaration
+// summary: Declares an AudioEncoder wrapper that offloads synchronous software encoding work from the main thread to a dedicated task runner.
+// ---
+
 #ifndef MEDIA_BASE_OFFLOADING_AUDIO_ENCODER_H_
 #define MEDIA_BASE_OFFLOADING_AUDIO_ENCODER_H_
 

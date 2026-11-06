@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Video codec string parsers unit tests
+// summary: Unit tests verifying parsing of new-style and legacy VP9, AV1, AVC and HEVC codec strings, including profiles, levels and bit depths.
+// ---
+
 #include "media/base/video_codec_string_parsers.h"
 
 #include "base/containers/flat_set.h"

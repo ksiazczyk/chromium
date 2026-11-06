@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaCodecBridge
+// summary: Wraps Android MediaCodec to adapt its API for native callers, supporting synchronous and asynchronous operation and translating crypto exceptions into status codes.
+// ---
+
 package org.chromium.media;
 
 import android.annotation.SuppressLint;

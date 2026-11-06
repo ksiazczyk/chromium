@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaDrmBridgeClient implementation
+// summary: Stores and retrieves the global MediaDrmBridgeClient that embedders register for customized Android media handling.
+// ---
+
 #include "media/base/android/media_drm_bridge_client.h"
 
 #include "base/check.h"

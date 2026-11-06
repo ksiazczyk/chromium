@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS rules for media param traits files
+summary: Assigns per-file ownership of param traits files to the IPC security owners with no parent lookup, reflecting their security sensitivity.

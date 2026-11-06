@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockAndroidOverlay implementation
+// summary: Implements MockAndroidOverlay, a gmock-based AndroidOverlay test double that dispatches overlay ready, failed, surface-destroyed and power-efficiency callbacks.
+// ---
+
 #include "media/base/android/mock_android_overlay.h"
 
 #include <memory>

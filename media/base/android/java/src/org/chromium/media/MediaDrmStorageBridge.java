@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaDrmStorageBridge
+// summary: Bridges persistent origin-isolated MediaDrm license information between Java and native code, supporting load, save, clear, and provisioning callbacks.
+// ---
+
 package org.chromium.media;
 
 import org.jni_zero.CalledByNative;

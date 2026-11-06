@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sample format enum and helpers
+// summary: Defines the SampleFormat enum with per-channel byte and bit sizes plus helpers to classify sample formats.
+// ---
+
 #ifndef MEDIA_BASE_SAMPLE_FORMAT_H_
 #define MEDIA_BASE_SAMPLE_FORMAT_H_
 

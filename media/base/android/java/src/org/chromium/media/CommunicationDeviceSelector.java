@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Communication device selector base class
+// summary: Abstract base for selecting the Android communication audio device using synthetic device IDs.
+// ---
+
 package org.chromium.media;
 
 import android.media.AudioDeviceInfo;

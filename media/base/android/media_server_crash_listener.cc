@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaServerCrashListener implementation
+// summary: Implements a JNI-backed listener that uses a watchdog Android MediaPlayer to detect MediaServer crashes and notify clients on a given task runner.
+// ---
+
 #include "media/base/android/media_server_crash_listener.h"
 
 #include "base/android/jni_android.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockMediaCodecBridge class declaration
+// summary: Declares MockMediaCodecBridge, a gmock stand-in for MediaCodecBridge with mocked queue, dequeue, surface and codec-info methods and drain-state helpers.
+// ---
+
 #ifndef MEDIA_BASE_ANDROID_MOCK_MEDIA_CODEC_BRIDGE_H_
 #define MEDIA_BASE_ANDROID_MOCK_MEDIA_CODEC_BRIDGE_H_
 

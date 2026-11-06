@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NullVideoSink implementation
+// summary: Implements a video renderer sink that periodically invokes a render callback on a task runner, optionally clockless, and forwards new frames to a callback.
+// ---
+
 #include "media/base/null_video_sink.h"
 
 #include "base/functional/bind.h"

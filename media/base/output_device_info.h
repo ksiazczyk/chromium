@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio output device info and status enum
+// summary: Defines the OutputDeviceInfo class and OutputDeviceStatus enum describing audio output device switching results returned by renderer sinks.
+// ---
+
 #ifndef MEDIA_BASE_OUTPUT_DEVICE_INFO_H_
 #define MEDIA_BASE_OUTPUT_DEVICE_INFO_H_
 

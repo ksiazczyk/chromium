@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Video bitrate allocation unit tests
+// summary: Tests construction modes, setting and getting layer bitrates, sum computation and peak bitrate validation rules.
+// ---
+
 #include <set>
 
 #include "media/base/video_bitrate_allocation.h"

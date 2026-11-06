@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaCodecDirection enum
+// summary: Defines the MediaCodecDirection enum distinguishing decoder and encoder MediaCodec instances.
+// ---
+
 #ifndef MEDIA_BASE_ANDROID_MEDIA_CODEC_DIRECTION_H_
 #define MEDIA_BASE_ANDROID_MEDIA_CODEC_DIRECTION_H_
 

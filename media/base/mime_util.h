@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MIME utility public API header
+// summary: Declares functions for checking supported media MIME types and formats, splitting and stripping codec strings, and parsing video and audio codec strings.
+// ---
+
 #ifndef MEDIA_BASE_MIME_UTIL_H_
 #define MEDIA_BASE_MIME_UTIL_H_
 

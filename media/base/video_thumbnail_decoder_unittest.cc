@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Video thumbnail decoder unit tests
+// summary: Unit tests for VideoThumbnailDecoder using a mock video decoder to verify frame delivery on success and multiple outputs.
+// ---
+
 #include "media/base/video_thumbnail_decoder.h"
 
 #include <memory>

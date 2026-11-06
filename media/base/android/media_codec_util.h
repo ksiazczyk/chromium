@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaCodecUtil helper declarations
+// summary: Declares MediaCodecUtil static helpers for MIME type mapping, video buffer size estimation, decoder availability, and codec profile level queries.
+// ---
+
 #ifndef MEDIA_BASE_ANDROID_MEDIA_CODEC_UTIL_H_
 #define MEDIA_BASE_ANDROID_MEDIA_CODEC_UTIL_H_
 

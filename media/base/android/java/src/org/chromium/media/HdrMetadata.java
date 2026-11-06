@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HDR static metadata JNI bridge
+// summary: Builds HDR static info from native metadata values and adds it to an Android MediaFormat.
+// ---
+
 package org.chromium.media;
 
 import android.media.MediaFormat;

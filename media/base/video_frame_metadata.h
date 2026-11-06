@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video frame metadata header
+// summary: Defines the VideoFrameMetadata and CaptureMetadata structs holding capture counters, update rects, region capture bounds, protection and timing information for video frames.
+// ---
+
 #ifndef MEDIA_BASE_VIDEO_FRAME_METADATA_H_
 #define MEDIA_BASE_VIDEO_FRAME_METADATA_H_
 
