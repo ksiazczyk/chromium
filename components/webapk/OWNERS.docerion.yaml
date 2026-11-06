@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file delegating to chrome/android/webapk
+summary: Owners file that delegates code ownership to the owners list of chrome/android/webapk.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebBundleBuilder Unit Tests
+// summary: Unit tests verifying that WebBundleBuilder writes bundles of the correct size and byte-for-byte matches expected test data files.
+// ---
+
 #include "components/web_package/web_bundle_builder.h"
 
 #include <string_view>

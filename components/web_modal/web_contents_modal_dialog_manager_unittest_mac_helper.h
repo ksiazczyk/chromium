@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mac test helper for fake native windows in dialog manager tests
+// summary: Declares helpers that create and tear down fake gfx::NativeWindow objects for web contents modal dialog manager unit tests on Mac.
+// ---
+
 #ifndef COMPONENTS_WEB_MODAL_WEB_CONTENTS_MODAL_DIALOG_MANAGER_UNITTEST_MAC_HELPER_H_
 #define COMPONENTS_WEB_MODAL_WEB_CONTENTS_MODAL_DIALOG_MANAGER_UNITTEST_MAC_HELPER_H_
 

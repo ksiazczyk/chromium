@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web Bundle utility functions implementation
+// summary: Implements helpers that build HTTP response headers from bundle responses and validate uuid-in-package URLs.
+// ---
+
 #include "components/web_package/web_bundle_utils.h"
 
 #include <optional>

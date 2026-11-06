@@ -1,3 +1,13 @@
+---
+type: readme
+title: Signed Web Bundles (components/web_package/signed_web_bundles)
+summary: Overview of Signed Web Bundles, covering Integrity Block v2 multi-signature verification, the three-step parsing flow, and SignedWebBundleId types.
+relations:
+  - references /components/web_package/signed_web_bundles/AGENTS.md
+  - references /components/web_package/README.md
+  - references /components/webapps/isolated_web_apps/README.md
+---
+
 # Signed Web Bundles (`components/web_package/signed_web_bundles`)
 
 This directory contains code related to _Signed Web Bundles_ (`.swbn`). Signed

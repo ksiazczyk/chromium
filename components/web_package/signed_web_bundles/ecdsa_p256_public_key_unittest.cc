@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for EcdsaP256PublicKey
+// summary: Unit tests verifying that EcdsaP256PublicKey::Create accepts valid keys and rejects wrong lengths and invalid key bytes.
+// ---
+
 #include "components/web_package/signed_web_bundles/ecdsa_p256_public_key.h"
 
 #include <array>

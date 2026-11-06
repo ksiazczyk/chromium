@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wallet metrics header
+// summary: Declares walletable pass funnel event enums and logging functions for opt-in, save, and network request metrics in the wallet::metrics namespace.
+// ---
+
 #ifndef COMPONENTS_WALLET_CORE_BROWSER_METRICS_WALLET_METRICS_H_
 #define COMPONENTS_WALLET_CORE_BROWSER_METRICS_WALLET_METRICS_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: WebAPK component metadata
+summary: Shared metadata for the WebAPK component, setting the monorail component, team email and Buganizer component ID.

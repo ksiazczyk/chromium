@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ECDSA P-256 public key implementation
+// summary: Implements EcdsaP256PublicKey::Create, validating byte length and parsing the key via the crypto keypair utilities.
+// ---
+
 #include "components/web_package/signed_web_bundles/ecdsa_p256_public_key.h"
 
 #include <algorithm>

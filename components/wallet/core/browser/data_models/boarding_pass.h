@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Boarding pass data model declaration
+// summary: Declares the BoardingPass struct holding airline, flight code, origin, destination, date, passenger name and barcode, with parsing from a WalletBarcode.
+// ---
+
 #ifndef COMPONENTS_WALLET_CORE_BROWSER_DATA_MODELS_BOARDING_PASS_H_
 #define COMPONENTS_WALLET_CORE_BROWSER_DATA_MODELS_BOARDING_PASS_H_
 

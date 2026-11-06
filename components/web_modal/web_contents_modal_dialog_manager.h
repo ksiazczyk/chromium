@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web contents modal dialog manager class declaration
+// summary: Declares the per-WebContents manager for web contents modal dialogs, including its observer interface, TestApi, and delegate and dialog management methods.
+// ---
+
 #ifndef COMPONENTS_WEB_MODAL_WEB_CONTENTS_MODAL_DIALOG_MANAGER_H_
 #define COMPONENTS_WEB_MODAL_WEB_CONTENTS_MODAL_DIALOG_MANAGER_H_
 

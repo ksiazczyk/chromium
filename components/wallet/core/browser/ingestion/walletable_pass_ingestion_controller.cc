@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Walletable pass ingestion controller implementation
+// summary: Implements the ingestion controller, coordinating allowlist registration, page content annotation, barcode detection, model-based pass extraction, and consent and save bubble flows.
+// ---
+
 #include "components/wallet/core/browser/ingestion/walletable_pass_ingestion_controller.h"
 
 #include "base/barrier_closure.h"

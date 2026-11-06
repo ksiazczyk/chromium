@@ -1,3 +1,13 @@
+---
+type: guide
+title: Web Packaging Component Agent Guidelines
+summary: Agent-facing guidelines for the web_package component, listing canonical docs, security invariants such as Rust-only CBOR parsing, and commands for tests and gn checks.
+relations:
+  - references /components/web_package/README.md
+  - references /components/web_package/signed_web_bundles/AGENTS.md
+  - references /components/web_package/signed_web_bundles/README.md
+---
+
 # Web Packaging Component (`components/web_package`)
 
 **Parent:** [WebApps Guidelines](/components/webapps/AGENTS.md)

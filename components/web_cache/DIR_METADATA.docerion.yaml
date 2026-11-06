@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Bug tracker metadata for the web_cache component
+summary: Specifies the Monorail and Buganizer components used for filing issues against the web_cache directory.

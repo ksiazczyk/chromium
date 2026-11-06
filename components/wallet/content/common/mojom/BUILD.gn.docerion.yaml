@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for wallet mojom bindings
+summary: GN build file defining a mojom target that compiles image_extractor.mojom and depends on the skia public mojom bindings.

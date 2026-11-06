@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Walletable pass client interface
+// summary: Interface embedders implement to give the wallet component access to browser services such as the Optimization Guide, preferences, identity, strike database, and consent and save bubbles.
+// ---
+
 #ifndef COMPONENTS_WALLET_CORE_BROWSER_INGESTION_WALLETABLE_PASS_CLIENT_H_
 #define COMPONENTS_WALLET_CORE_BROWSER_INGESTION_WALLETABLE_PASS_CLIENT_H_
 

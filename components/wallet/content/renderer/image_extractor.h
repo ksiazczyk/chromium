@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageExtractor class declaration for wallet renderer
+// summary: Declares the ImageExtractor class, a RenderFrame-attached Mojo receiver that extracts images from img and canvas elements on request from the browser process.
+// ---
+
 #ifndef COMPONENTS_WALLET_CONTENT_RENDERER_IMAGE_EXTRACTOR_H_
 #define COMPONENTS_WALLET_CONTENT_RENDERER_IMAGE_EXTRACTOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UpsertPrivatePassRequest implementation
+// summary: Implements the wallet request that upserts private passes, building EES proto tokenization headers and including consent session IDs for new passes.
+// ---
+
 #include "components/wallet/core/browser/network/upsert_private_pass_request.h"
 
 #include "base/check.h"

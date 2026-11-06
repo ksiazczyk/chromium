@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Modal dialog manager delegate default implementations
+// summary: Provides default implementations of the modal dialog manager delegate methods, returning no dialog host and reporting the web contents as visible.
+// ---
+
 #include "components/web_modal/web_contents_modal_dialog_manager_delegate.h"
 
 #include <string.h>

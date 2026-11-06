@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GetUnmaskedPassRequest class declaration
+// summary: Declares the WalletRequest subclass that retrieves an unmasked private pass for a given pass ID.
+// ---
+
 #ifndef COMPONENTS_WALLET_CORE_BROWSER_NETWORK_GET_UNMASKED_PASS_REQUEST_H_
 #define COMPONENTS_WALLET_CORE_BROWSER_NETWORK_GET_UNMASKED_PASS_REQUEST_H_
 

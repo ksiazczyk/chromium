@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for WalletHttpClientImpl
+// summary: Unit tests covering content-type headers, URL construction, OAuth token fetching, metrics, and response handling of WalletHttpClientImpl with a test URL loader factory.
+// ---
+
 #include "components/wallet/core/browser/network/wallet_http_client_impl.h"
 
 #include "base/strings/string_util.h"

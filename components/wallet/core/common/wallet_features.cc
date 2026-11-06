@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wallet feature flag definitions
+// summary: Defines base::Feature flags and string parameters controlling the Wallet API, private pass saving, and walletable pass detection including a country allowlist.
+// ---
+
 #include "components/wallet/core/common/wallet_features.h"
 
 namespace wallet::features {

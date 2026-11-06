@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web Bundle Parser Implementation
+// summary: Implements the WebBundleParser Mojom interface, reading bundle metadata and exchanges from a data source and delegating low-level CBOR parsing to Rust.
+// ---
+
 #include "components/web_package/web_bundle_parser.h"
 
 #include <algorithm>

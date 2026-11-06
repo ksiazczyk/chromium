@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the client directory
+summary: Specifies include rules that allow this directory to depend on ui/android and components/browser_ui/settings/android.

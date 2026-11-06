@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Walletable pass barcode detector implementation
+// summary: Extracts images via the ImageExtractor mojo service and detects barcodes through the shape detection service, mapping formats and handling disconnects.
+// ---
+
 #include "components/wallet/content/browser/walletable_pass_barcode_detector_impl.h"
 
 #include "base/barrier_callback.h"

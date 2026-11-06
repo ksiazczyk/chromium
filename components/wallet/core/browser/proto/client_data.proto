@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client data protocol buffer
+// summary: Defines the ClientData message carrying serialized Chrome-specific client data attached to passes.
+// ---
+
 syntax = "proto2";
 
 package wallet;

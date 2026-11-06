@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crate root of signed_web_bundles_rust
+// summary: Declares the no_std crate modules and re-exports the public API for integrity block parsing, signature verification, and related types.
+// ---
+
 #![no_std]
 #![forbid(unsafe_code)]
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EulaAcceptedNotifier unit tests
+// summary: Tests EULA already accepted, not accepted, and accepted after an initial check, using a testing pref service and observer callback.
+// ---
+
 #include "components/web_resource/eula_accepted_notifier.h"
 
 #include <memory>

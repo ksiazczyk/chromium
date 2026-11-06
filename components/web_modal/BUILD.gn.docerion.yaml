@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the web_modal component
+summary: GN build file defining the web_modal component, a test_support library, and the unit_tests target with their dependencies.

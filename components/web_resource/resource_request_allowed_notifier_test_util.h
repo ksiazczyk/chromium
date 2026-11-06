@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test utility for ResourceRequestAllowedNotifier
+// summary: Declares TestRequestAllowedNotifier, a test subclass that exposes EULA notifier injection and allowed-state overrides for higher-level service tests.
+// ---
+
 #ifndef COMPONENTS_WEB_RESOURCE_RESOURCE_REQUEST_ALLOWED_NOTIFIER_TEST_UTIL_H_
 #define COMPONENTS_WEB_RESOURCE_RESOURCE_REQUEST_ALLOWED_NOTIFIER_TEST_UTIL_H_
 

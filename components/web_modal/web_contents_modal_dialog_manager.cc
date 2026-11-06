@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web contents modal dialog manager implementation
+// summary: Implements the per-WebContents modal dialog manager, handling dialog showing, closing, host updates, observer notification, and interaction blocking.
+// ---
+
 #include "components/web_modal/web_contents_modal_dialog_manager.h"
 
 #include <algorithm>

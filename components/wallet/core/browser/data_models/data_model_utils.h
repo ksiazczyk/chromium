@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data model utilities declaration
+// summary: Declares the PassCategoryToString helper that returns the string name of a wallet pass category.
+// ---
+
 #ifndef COMPONENTS_WALLET_CORE_BROWSER_DATA_MODELS_DATA_MODEL_UTILS_H_
 #define COMPONENTS_WALLET_CORE_BROWSER_DATA_MODELS_DATA_MODEL_UTILS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ed25519 signature wrapper class
+// summary: Declares the Ed25519Signature class, a 64-byte signature wrapper with factory functions and a Verify method against a message and public key.
+// ---
+
 #ifndef COMPONENTS_WEB_PACKAGE_SIGNED_WEB_BUNDLES_ED25519_SIGNATURE_H_
 #define COMPONENTS_WEB_PACKAGE_SIGNED_WEB_BUNDLES_ED25519_SIGNATURE_H_
 

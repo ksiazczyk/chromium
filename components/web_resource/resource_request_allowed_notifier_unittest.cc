@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ResourceRequestAllowedNotifier
+// summary: Unit tests verifying EULA acceptance and network connection handling in ResourceRequestAllowedNotifier using mocked notifiers and a test connection tracker.
+// ---
+
 #include "base/memory/ptr_util.h"
 #include "base/memory/raw_ptr.h"
 #include "base/run_loop.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ECDSA P-256 key pair implementation for signed web bundle tests
+// summary: Implements creation of random ECDSA P-256 key pairs and message signing with a fixed test-only nonce, optionally corrupting signatures to produce invalid ones.
+// ---
+
 #include "components/web_package/test_support/signed_web_bundles/ecdsa_p256_key_pair.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signed Web Bundle signature verifier class
+// summary: Declares the verifier that checks a Signed Web Bundle's integrity block signatures and reports typed errors on failure.
+// ---
+
 #ifndef COMPONENTS_WEB_PACKAGE_SIGNED_WEB_BUNDLES_SIGNED_WEB_BUNDLE_SIGNATURE_VERIFIER_H_
 #define COMPONENTS_WEB_PACKAGE_SIGNED_WEB_BUNDLES_SIGNED_WEB_BUNDLE_SIGNATURE_VERIFIER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Walletable pass ingestion utils declaration
+// summary: Declares ExtractWalletPassFromProto, which converts a walletable pass proto into a WalletPass with an optional barcode.
+// ---
+
 #ifndef COMPONENTS_WALLET_CORE_BROWSER_INGESTION_WALLETABLE_PASS_INGESTION_UTILS_H_
 #define COMPONENTS_WALLET_CORE_BROWSER_INGESTION_WALLETABLE_PASS_INGESTION_UTILS_H_
 

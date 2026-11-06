@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for wallet content browser
+summary: Restricts allowed includes for the folder, with a specific rule for the ingestion controller's page content header.

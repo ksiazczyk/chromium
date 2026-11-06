@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for web_resource dependencies
+summary: Restricts dependencies to pref_registry, prefs, and network public headers, and forbids content because web_resource is used on iOS.

@@ -1,0 +1,4 @@
+# Docerion header of web_bundle_parser.mojom.
+type: source
+title: Web bundle parser Mojom interfaces
+summary: Defines Mojo interfaces and structs for parsing Web Bundles, including the parser factory, data source, and integrity block types.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Walletable pass save strike database by host implementation
+// summary: Implements GetId for the by-host save strike database, joining the pass category and host into an ID separated by a semicolon.
+// ---
+
 #include "components/wallet/core/browser/strike_databases/walletable_pass_save_strike_database_by_host.h"
 
 #include <string>

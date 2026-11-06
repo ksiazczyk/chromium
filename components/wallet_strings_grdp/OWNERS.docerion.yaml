@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file pointing to wallet component owners
+summary: Points to the parent components/wallet OWNERS file so review ownership is inherited for this directory.

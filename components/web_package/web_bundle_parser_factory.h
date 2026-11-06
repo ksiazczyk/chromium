@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebBundleParserFactory class declaration
+// summary: Declares the WebBundleParserFactory Mojo interface implementation for obtaining parsers for data sources and binding file data sources.
+// ---
+
 #ifndef COMPONENTS_WEB_PACKAGE_WEB_BUNDLE_PARSER_FACTORY_H_
 #define COMPONENTS_WEB_PACKAGE_WEB_BUNDLE_PARSER_FACTORY_H_
 

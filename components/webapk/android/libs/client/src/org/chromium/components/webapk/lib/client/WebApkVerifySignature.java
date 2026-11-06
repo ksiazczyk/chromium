@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebApkVerifySignature
+// summary: Parses the APK zip structure and verifies the WebAPK signature read from the zip comment against a provided public key.
+// ---
+
 package org.chromium.components.webapk.lib.client;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

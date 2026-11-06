@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ed25519 signature unit tests
+// summary: Unit tests for Ed25519Signature covering creation from vectors and arrays, equality comparison, invalid lengths, and signature verification.
+// ---
+
 #include "components/web_package/signed_web_bundles/ed25519_signature.h"
 
 #include <algorithm>

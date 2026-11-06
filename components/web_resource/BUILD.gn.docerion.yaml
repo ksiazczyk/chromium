@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the web_resource component
+summary: GN build file defining the web_resource static library, a test_support target, and unit_tests with their sources and dependencies.

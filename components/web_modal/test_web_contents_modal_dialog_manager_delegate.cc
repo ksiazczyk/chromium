@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test modal dialog manager delegate implementation
+// summary: Implements the test delegate used by unit tests, returning configurable blocked state, visibility, and dialog host values for web contents modal dialogs.
+// ---
+
 #include "components/web_modal/test_web_contents_modal_dialog_manager_delegate.h"
 
 #include "content/public/browser/web_contents.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web cache manager unit tests
+// summary: Unit tests verifying renderer registration and removal, cache clearing only for ready processes, and observation of pre-existing render process hosts.
+// ---
+
 #include "components/web_cache/browser/web_cache_manager.h"
 
 #include "content/public/test/mock_render_process_host.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ed25519 public key wrapper class
+// summary: Declares the Ed25519PublicKey class, which wraps a 32-byte Ed25519 public key and validates its length on creation for safe use with BoringSSL.
+// ---
+
 #ifndef COMPONENTS_WEB_PACKAGE_SIGNED_WEB_BUNDLES_ED25519_PUBLIC_KEY_H_
 #define COMPONENTS_WEB_PACKAGE_SIGNED_WEB_BUNDLES_ED25519_PUBLIC_KEY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Walletable pass ingestion utils implementation
+// summary: Implements conversion of walletable pass protos into WalletPass data models for loyalty cards, event passes, and transit tickets, optionally attaching a detected barcode.
+// ---
+
 #include "components/wallet/core/browser/ingestion/walletable_pass_ingestion_utils.h"
 
 #include <string>

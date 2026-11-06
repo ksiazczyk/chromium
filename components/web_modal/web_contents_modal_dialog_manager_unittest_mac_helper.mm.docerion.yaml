@@ -1,0 +1,4 @@
+# Docerion header of web_contents_modal_dialog_manager_unittest_mac_helper.mm.
+type: test
+title: Unit test helper for fake native windows on macOS
+summary: Provides macOS test helpers that create and tear down fake native windows used by web modal unit tests.

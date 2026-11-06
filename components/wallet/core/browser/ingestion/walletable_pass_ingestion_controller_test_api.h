@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Walletable pass ingestion controller test API
+// summary: Test API exposing internal controller operations such as allowlist lookup, extraction, and bubble display so unit tests can drive the detection flow.
+// ---
+
 #ifndef COMPONENTS_WALLET_CORE_BROWSER_INGESTION_WALLETABLE_PASS_INGESTION_CONTROLLER_TEST_API_H_
 #define COMPONENTS_WALLET_CORE_BROWSER_INGESTION_WALLETABLE_PASS_INGESTION_CONTROLLER_TEST_API_H_
 

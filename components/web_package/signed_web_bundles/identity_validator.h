@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Identity validator class declaration
+// summary: Declares the IdentityValidator singleton interface for validating web bundle identity against public keys, with hooks for testing.
+// ---
+
 #ifndef COMPONENTS_WEB_PACKAGE_SIGNED_WEB_BUNDLES_IDENTITY_VALIDATOR_H_
 #define COMPONENTS_WEB_PACKAGE_SIGNED_WEB_BUNDLES_IDENTITY_VALIDATOR_H_
 

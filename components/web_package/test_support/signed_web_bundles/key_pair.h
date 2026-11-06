@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Key pair variant alias for signed web bundle tests
+// summary: Defines the KeyPair variant over Ed25519 and ECDSA P-256 test key pairs plus a KeyPairs vector alias.
+// ---
+
 #ifndef COMPONENTS_WEB_PACKAGE_TEST_SUPPORT_SIGNED_WEB_BUNDLES_KEY_PAIR_H_
 #define COMPONENTS_WEB_PACKAGE_TEST_SUPPORT_SIGNED_WEB_BUNDLES_KEY_PAIR_H_
 

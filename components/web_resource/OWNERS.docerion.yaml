@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the web_resource directory
+summary: Lists achuith@chromium.org and inherits owners from components/variations for code review routing.

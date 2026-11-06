@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebBundleSigner test helper header
+// summary: Declares a test-only WebBundleSigner class that signs unsigned web bundles with Ed25519 or ECDSA P-256 key pairs and can inject integrity block and signature errors for testing.
+// ---
+
 #ifndef COMPONENTS_WEB_PACKAGE_TEST_SUPPORT_SIGNED_WEB_BUNDLES_WEB_BUNDLE_SIGNER_H_
 #define COMPONENTS_WEB_PACKAGE_TEST_SUPPORT_SIGNED_WEB_BUNDLES_WEB_BUNDLE_SIGNER_H_
 

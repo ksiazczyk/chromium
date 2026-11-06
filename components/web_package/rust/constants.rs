@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web Bundle parser constants
+// summary: Defines size limits, magic and version bytes, buffer sizes, and section names used when parsing Web Bundle CBOR structures.
+// ---
+
 /// The number of bytes used to specify the length of the web bundle.
 /// https://www.ietf.org/archive/id/draft-ietf-wpack-bundled-responses-01.html#name-trailing-length
 pub const TRAILING_LENGTH_NUM_BYTES: usize = 8;

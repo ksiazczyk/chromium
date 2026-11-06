@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web bundle parser Mojom traits unit tests
+// summary: Unit tests verifying round-trip serialization of Ed25519 public keys and signatures through Mojo.
+// ---
+
 #include <utility>
 
 #include "base/containers/span.h"

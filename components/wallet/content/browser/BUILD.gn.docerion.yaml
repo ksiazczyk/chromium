@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for wallet content browser
+summary: Defines the static library and unit test source set for the walletable pass browser code and its dependencies.

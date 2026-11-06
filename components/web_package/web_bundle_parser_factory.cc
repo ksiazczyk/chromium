@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebBundleParserFactory implementation
+// summary: Implements the parser factory, including a file-backed bundle data source and Mojo binding of parsers and data sources.
+// ---
+
 #include "components/web_package/web_bundle_parser_factory.h"
 
 #include <optional>

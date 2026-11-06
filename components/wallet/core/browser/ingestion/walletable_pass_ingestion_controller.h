@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Walletable pass ingestion controller class declaration
+// summary: Declares the controller that detects walletable passes on a web page, matching URLs against pass category allowlists and driving extraction and save flows.
+// ---
+
 #ifndef COMPONENTS_WALLET_CORE_BROWSER_INGESTION_WALLETABLE_PASS_INGESTION_CONTROLLER_H_
 #define COMPONENTS_WALLET_CORE_BROWSER_INGESTION_WALLETABLE_PASS_INGESTION_CONTROLLER_H_
 

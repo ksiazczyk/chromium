@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the walletable pass barcode detector
+// summary: Tests barcode detection using mock image extractor and barcode detector mojo services injected into the implementation.
+// ---
+
 #include "components/wallet/content/browser/walletable_pass_barcode_detector_impl.h"
 
 #include "base/functional/callback.h"

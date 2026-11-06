@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for web cache browser
+summary: Specifies the allowed include rules for the directory, covering content browser APIs, Mojo bindings, service manager, and Blink public headers.

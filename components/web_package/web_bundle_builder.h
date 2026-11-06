@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebBundleBuilder Class Declaration
+// summary: Declares the WebBundleBuilder class for constructing Web Bundles in memory, with methods for exchanges, index entries, sections, and the primary URL.
+// ---
+
 #ifndef COMPONENTS_WEB_PACKAGE_WEB_BUNDLE_BUILDER_H_
 #define COMPONENTS_WEB_PACKAGE_WEB_BUNDLE_BUILDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageExtractor implementation for wallet renderer
+// summary: Implements the Mojo ImageExtractor service that extracts up to ten images from img and canvas elements of a page, filtering by size and aspect ratio for barcode detection.
+// ---
+
 #include "components/wallet/content/renderer/image_extractor.h"
 
 #include <algorithm>

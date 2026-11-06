@@ -1,3 +1,13 @@
+---
+type: guide
+title: Signed Web Bundles Agent Guidelines
+summary: Agent-facing guidelines for the directory, covering canonical docs, security and domain invariants, and unit test and gn check commands.
+relations:
+  - part_of /components/web_package/AGENTS.md
+  - part_of /components/webapps/AGENTS.md
+  - references /components/web_package/signed_web_bundles/README.md
+---
+
 # Signed Web Bundles (`components/web_package/signed_web_bundles`)
 
 **Parent:** [Web Packaging Guidelines](/components/web_package/AGENTS.md) · [WebApps Guidelines](/components/webapps/AGENTS.md)

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ECDSA P-256 SHA-256 signature implementation
+// summary: Implements creation with length checks and verification of ECDSA P-256 SHA-256 signatures, delegating crypto to the Rust crate.
+// ---
+
 #include "components/web_package/signed_web_bundles/ecdsa_p256_sha256_signature.h"
 
 #include <algorithm>

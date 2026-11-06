@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Integrity block format constants
+// summary: Defines magic and version bytes, attribute names, and key and signature length constants used when parsing signed web bundle integrity blocks.
+// ---
+
 pub const MAGIC_BYTES: &[u8] = b"\xF0\x9F\x96\x8B\xF0\x9F\x93\xA6";
 pub const V2_VERSION_BYTES: &[u8] = b"2b\0\0";
 pub const WEB_BUNDLE_ID_ATTRIBUTE_NAME: &str = "webBundleId";

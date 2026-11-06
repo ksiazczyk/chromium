@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebBundleParser unit tests
+// summary: Extensive unit tests covering parsing of integrity blocks, metadata, and responses for unsigned and signed web bundles using test data files.
+// ---
+
 #include "components/web_package/web_bundle_parser.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Signed web bundle ID unit tests
+// summary: Unit tests verifying that SignedWebBundleId::Create accepts valid Ed25519, ECDSA P-256 and proxy mode IDs and rejects malformed ones.
+// ---
+
 #include "components/web_package/signed_web_bundles/signed_web_bundle_id.h"
 
 #include <algorithm>

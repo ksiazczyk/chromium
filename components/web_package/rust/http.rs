@@ -7,6 +7,12 @@
 //! (https://www.rfc-editor.org/rfc/rfc9112.html, HTTP/1.1), and RFC 9113
 //! (https://www.rfc-editor.org/rfc/rfc9113.html, HTTP/2).
 
+// ---docerion
+// type: source
+// title: HTTP field validation helpers per RFC 9110, 9112 and 9113
+// summary: Provides byte-level checks for HTTP delimiters, token characters, header names and header values used to validate Web Bundle response headers.
+// ---
+
 // RFC 5234 Appendix B.1 Core Rules (https://www.rfc-editor.org/rfc/rfc5234#appendix-B.1):
 //
 // HTAB           =  %x09

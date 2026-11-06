@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ModalDialogHost interface and observer
+// summary: Declares the ModalDialogHost interface for positioning and parenting modal dialogs, together with its ModalDialogHostObserver.
+// ---
+
 #ifndef COMPONENTS_WEB_MODAL_MODAL_DIALOG_HOST_H_
 #define COMPONENTS_WEB_MODAL_MODAL_DIALOG_HOST_H_
 

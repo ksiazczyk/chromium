@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the web cache renderer
+summary: Specifies the directories that code in the web cache renderer component may include, covering content public APIs, Mojo, service manager and Blink headers.

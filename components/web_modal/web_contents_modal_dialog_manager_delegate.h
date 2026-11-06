@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web contents modal dialog manager delegate interface
+// summary: Defines the delegate interface used by the modal dialog manager to block web contents interaction, obtain the dialog host, and check web contents visibility.
+// ---
+
 #ifndef COMPONENTS_WEB_MODAL_WEB_CONTENTS_MODAL_DIALOG_MANAGER_DELEGATE_H_
 #define COMPONENTS_WEB_MODAL_WEB_CONTENTS_MODAL_DIALOG_MANAGER_DELEGATE_H_
 

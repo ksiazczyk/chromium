@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Signed web bundle integrity block unit tests
+// summary: Unit tests covering SignedWebBundleIntegrityBlock creation, including invalid size, empty signature stack and valid single-signature cases.
+// ---
+
 #include "components/web_package/signed_web_bundles/signed_web_bundle_integrity_block.h"
 
 #include <utility>

@@ -5,6 +5,12 @@
 // This is the browser side of the cache manager, handling required clearing of
 // the renderer-side cache.
 
+// ---docerion
+// type: source
+// title: Browser-side web cache manager class declaration
+// summary: Declares the WebCacheManager singleton, which tracks render process hosts with Mojo remotes and clears renderer in-memory caches on demand.
+// ---
+
 #ifndef COMPONENTS_WEB_CACHE_BROWSER_WEB_CACHE_MANAGER_H_
 #define COMPONENTS_WEB_CACHE_BROWSER_WEB_CACHE_MANAGER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for WebAPK proto targets
+summary: GN build configuration defining proto and Java proto library targets for the WebAPK protocol buffer on Android.

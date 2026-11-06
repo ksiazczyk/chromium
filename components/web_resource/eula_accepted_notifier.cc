@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EULA accepted notifier implementation
+// summary: Implements a notifier that checks the EULA accepted local state pref and notifies an observer when accepted, created only on ChromeOS, Android, and iOS.
+// ---
+
 #include "components/web_resource/eula_accepted_notifier.h"
 
 #include "base/check.h"

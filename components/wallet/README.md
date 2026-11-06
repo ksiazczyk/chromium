@@ -1,3 +1,9 @@
+---
+type: readme
+title: Wallet component README
+summary: Describes the wallet layered component and outlines its directory structure, including core and content subdirectories.
+---
+
 # Wallet
 
 Wallet is a [layered

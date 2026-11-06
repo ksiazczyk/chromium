@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for wallet features and prefs
+summary: Defines the features and prefs source sets for the wallet common component with dependencies on base and the pref_registry component.

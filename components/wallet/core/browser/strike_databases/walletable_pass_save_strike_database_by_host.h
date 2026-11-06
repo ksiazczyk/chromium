@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Walletable pass save strike database by host header
+// summary: Declares a history-clearable strike database for walletable pass saves keyed by host, with limits of 200 entities, 3 strikes, and 180-day expiry.
+// ---
+
 #ifndef COMPONENTS_WALLET_CORE_BROWSER_STRIKE_DATABASES_WALLETABLE_PASS_SAVE_STRIKE_DATABASE_BY_HOST_H_
 #define COMPONENTS_WALLET_CORE_BROWSER_STRIKE_DATABASES_WALLETABLE_PASS_SAVE_STRIKE_DATABASE_BY_HOST_H_
 

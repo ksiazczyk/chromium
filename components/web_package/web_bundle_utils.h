@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web Bundle utility functions declaration
+// summary: Declares helpers for creating resource responses from bundle responses, nosniff header checks, uuid-in-package URL validation, and a per-process memory limit.
+// ---
+
 #ifndef COMPONENTS_WEB_PACKAGE_WEB_BUNDLE_UTILS_H_
 #define COMPONENTS_WEB_PACKAGE_WEB_BUNDLE_UTILS_H_
 

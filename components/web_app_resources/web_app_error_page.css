@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Web app error page styles
+summary: Defines the styling of the web app error page, including light and dark color scheme support and layout for the app icon and error message.
+*/
+
 :root {
   --dark-color: rgb(31, 31, 31);
   --light-color: rgb(227, 227, 227);

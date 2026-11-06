@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UpsertPublicPassRequest class declaration
+// summary: Declares UpsertPublicPassRequest, a WalletRequest that serializes a public Pass and handles the upsert response for the Wallet backend.
+// ---
+
 #ifndef COMPONENTS_WALLET_CORE_BROWSER_NETWORK_UPSERT_PUBLIC_PASS_REQUEST_H_
 #define COMPONENTS_WALLET_CORE_BROWSER_NETWORK_UPSERT_PUBLIC_PASS_REQUEST_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the web_modal component
+summary: Specifies the directories that web_modal code may include from, such as content/public/browser and ui/gfx.

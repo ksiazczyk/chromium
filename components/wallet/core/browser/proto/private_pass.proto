@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Private pass protocol buffer
+// summary: Defines the PrivatePass message for identity documents such as driver licenses, passports, ID cards, redress and known traveler numbers.
+// ---
+
 syntax = "proto2";
 
 package wallet;

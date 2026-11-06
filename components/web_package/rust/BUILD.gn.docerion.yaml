@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build configuration for web_package_rust
+summary: Defines the rust_static_library targets for the web_package_rust crate and its gtest unit tests, including C++ binding generation and the CBOR dependency.

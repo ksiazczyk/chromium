@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Integrity block parser implementation
+// summary: Implements parsing of signed web bundle integrity blocks, converting Rust-parsed signature stack entries into mojom structures.
+// ---
+
 #include "components/web_package/signed_web_bundles/integrity_block_parser.h"
 
 #include <string>

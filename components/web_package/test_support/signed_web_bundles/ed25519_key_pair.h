@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ed25519 test key pair declarations
+// summary: Declares the Ed25519KeyPair struct and SignMessage helper for generating and signing with Ed25519 keys in tests.
+// ---
+
 #ifndef COMPONENTS_WEB_PACKAGE_TEST_SUPPORT_SIGNED_WEB_BUNDLES_ED25519_KEY_PAIR_H_
 #define COMPONENTS_WEB_PACKAGE_TEST_SUPPORT_SIGNED_WEB_BUNDLES_ED25519_KEY_PAIR_H_
 

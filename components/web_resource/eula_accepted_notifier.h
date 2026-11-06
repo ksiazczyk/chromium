@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EulaAcceptedNotifier class declaration
+// summary: Declares a helper class for querying the EULA accepted state and receiving a notification once the EULA has been accepted.
+// ---
+
 #ifndef COMPONENTS_WEB_RESOURCE_EULA_ACCEPTED_NOTIFIER_H_
 #define COMPONENTS_WEB_RESOURCE_EULA_ACCEPTED_NOTIFIER_H_
 

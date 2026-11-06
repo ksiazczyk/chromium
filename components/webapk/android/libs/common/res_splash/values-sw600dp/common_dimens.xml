@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: WebAPK splash screen dimension values for tablets
+summary: Defines tablet-specific (sw600dp) dimension values for the WebAPK splash screen, including splash offset, title margin, and minimum image size.
+-->
+
 <resources>
     <dimen name="webapp_splash_offset">48dp</dimen>
     <dimen name="webapp_splash_large_title_margin_bottom">8dp</dimen>

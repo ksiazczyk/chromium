@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signed web bundle integrity block class declaration
+// summary: Declares the SignedWebBundleIntegrityBlock class wrapping size, signature stack, web bundle ID and attributes CBOR of a signed web bundle.
+// ---
+
 #ifndef COMPONENTS_WEB_PACKAGE_SIGNED_WEB_BUNDLES_SIGNED_WEB_BUNDLE_INTEGRITY_BLOCK_H_
 #define COMPONENTS_WEB_PACKAGE_SIGNED_WEB_BUNDLES_SIGNED_WEB_BUNDLE_INTEGRITY_BLOCK_H_
 

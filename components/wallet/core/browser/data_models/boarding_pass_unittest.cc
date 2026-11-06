@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Boarding pass parsing unit tests
+// summary: Unit tests verifying BCBP barcode parsing, including valid passes, year rollover around New Year, and leap year Julian day handling using time clock overrides.
+// ---
+
 #include "components/wallet/core/browser/data_models/boarding_pass.h"
 
 #include <string_view>

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata mixin reference
+summary: Directory metadata that applies the shared WebAPK COMMON_METADATA mixin to this folder.

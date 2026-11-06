@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for walletable permission utils
+// summary: Tests opt-in status behavior for signed-out users, null identity manager, default values, set and get round trips, and account switching using a test pref service and identity environment.
+// ---
+
 #include "components/wallet/core/browser/walletable_permission_utils.h"
 
 #include "base/test/scoped_feature_list.h"

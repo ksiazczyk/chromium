@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the signed web bundles Rust crate
+summary: Defines the signed_web_bundles_rust static library with generated C++ bindings and its gtest unit test target, listing sources and dependencies.

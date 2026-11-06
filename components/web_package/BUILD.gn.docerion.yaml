@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN Build Targets for the Web Package Component
+summary: Defines GN source sets, a static library, and unit test targets for the component, including the Rust-backed parser implementation and Mojom mapped types.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GeoIP country code type alias
+// summary: Defines GeoIpCountryCode, a strong alias for uppercase ISO 3166-1 alpha-2 country codes estimated by the VariationsService.
+// ---
+
 #ifndef COMPONENTS_WALLET_CORE_BROWSER_DATA_MODELS_COUNTRY_TYPE_H_
 #define COMPONENTS_WALLET_CORE_BROWSER_DATA_MODELS_COUNTRY_TYPE_H_
 

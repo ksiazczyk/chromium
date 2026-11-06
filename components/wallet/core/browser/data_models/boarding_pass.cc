@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Boarding pass BCBP barcode parsing implementation
+// summary: Implements BoardingPass::FromBarcode, parsing BCBP barcode strings into flight details and inferring the flight date from the Julian day with year rollover and leap year handling.
+// ---
+
 #include "components/wallet/core/browser/data_models/boarding_pass.h"
 
 #include <string_view>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Walletable pass ingestion controller unit tests
+// summary: Unit tests for the ingestion controller covering allowlist matching, extraction, strike databases, metrics, and bubble behavior using mocked clients and services.
+// ---
+
 #include "components/wallet/core/browser/ingestion/walletable_pass_ingestion_controller.h"
 
 #include <memory>

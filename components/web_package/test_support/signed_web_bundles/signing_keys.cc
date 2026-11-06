@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default hardcoded signing keys for tests
+// summary: Provides hardcoded Ed25519 and ECDSA P-256 key pairs and derives their default signed web bundle IDs for use in tests.
+// ---
+
 #include "components/web_package/test_support/signed_web_bundles/signing_keys.h"
 
 #include <cstdint>

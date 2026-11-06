@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the web_modal component
+summary: Points to the ui/views OWNERS file and lists wittman@chromium.org as an owner for review routing.

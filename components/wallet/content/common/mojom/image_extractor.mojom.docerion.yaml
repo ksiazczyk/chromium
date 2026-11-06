@@ -1,0 +1,4 @@
+# Docerion header of image_extractor.mojom.
+type: source
+title: Mojom interface for wallet image extraction
+summary: Defines the ImageExtractionOptions struct and the ImageExtractor interface used to extract page images such as payment QR codes for walletable passes.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for wallet renderer image extraction
+summary: Defines GN source_set targets for the wallet renderer image extractor and its browser tests, listing their sources and dependencies.
