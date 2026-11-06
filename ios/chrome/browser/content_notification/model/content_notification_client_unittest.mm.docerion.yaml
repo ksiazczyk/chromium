@@ -1,0 +1,4 @@
+# Docerion header of content_notification_client_unittest.mm.
+type: source
+title: ContentNotificationClient unit tests
+summary: Tests the content notification client using a fake service, test profiles, and OCMock.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentSuggestionsCoordinator header
+// summary: Declares the coordinator that manages the suggestions UI, exposing the Magic Stack collection view, delegates, and refresh and presentation controls.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_COORDINATOR_CONTENT_SUGGESTIONS_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_COORDINATOR_CONTENT_SUGGESTIONS_COORDINATOR_H_
 

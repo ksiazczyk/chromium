@@ -1,0 +1,4 @@
+# Docerion header of composebox_ipad_presentation_controller.mm.
+type: source
+title: Composebox iPad presentation controller implementation
+summary: Implements the iPad composebox presentation with a tap-to-dismiss dimming view, layout guide anchoring and presented view frame calculation.

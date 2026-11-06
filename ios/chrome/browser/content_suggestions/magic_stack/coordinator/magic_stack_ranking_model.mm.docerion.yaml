@@ -1,0 +1,4 @@
+# Docerion header of magic_stack_ranking_model.mm.
+type: source
+title: MagicStackRankingModel implementation
+summary: Implements Magic Stack module ranking logic, including preference observation, commerce signals, and engagement metrics.

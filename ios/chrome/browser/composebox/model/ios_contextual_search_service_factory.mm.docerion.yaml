@@ -1,0 +1,4 @@
+# Docerion header of ios_contextual_search_service_factory.mm.
+type: source
+title: Contextual search service factory implementation
+summary: Implements the profile-keyed factory that builds IOSContextualSearchService instances using signin, variations, search engine, and locale dependencies.

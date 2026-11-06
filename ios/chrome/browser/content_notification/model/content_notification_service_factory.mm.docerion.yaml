@@ -1,0 +1,4 @@
+# Docerion header of content_notification_service_factory.mm.
+type: source
+title: ContentNotificationServiceFactory implementation
+summary: Builds the per-profile ContentNotificationService, wiring identity manager, account manager, and SSO service into the provider configuration.

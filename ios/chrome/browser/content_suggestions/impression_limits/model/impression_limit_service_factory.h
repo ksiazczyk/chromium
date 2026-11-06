@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Impression limit service factory declaration
+// summary: Declares the profile-keyed factory that owns ImpressionLimitService instances.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_IMPRESSION_LIMITS_MODEL_IMPRESSION_LIMIT_SERVICE_FACTORY_H_
 #define IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_IMPRESSION_LIMITS_MODEL_IMPRESSION_LIMIT_SERVICE_FACTORY_H_
 

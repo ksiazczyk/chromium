@@ -1,0 +1,4 @@
+# Docerion header of composebox_constants.mm.
+type: source
+title: composebox_constants.mm
+summary: Defines the composebox constants, including an attachment limit of 10 and a 100 MB maximum file attachment size.

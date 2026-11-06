@@ -1,0 +1,4 @@
+# Docerion header of composebox_mode_holder.mm.
+type: source
+title: Composebox mode holder implementation
+summary: Holds the current composebox mode and notifies registered observers whenever the mode changes.

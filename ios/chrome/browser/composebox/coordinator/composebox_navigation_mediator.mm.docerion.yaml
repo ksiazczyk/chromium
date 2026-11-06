@@ -1,0 +1,4 @@
+# Docerion header of composebox_navigation_mediator.mm.
+type: source
+title: Composebox navigation mediator implementation
+summary: Loads composebox URL parameters through the URL loading browser agent, deferring JavaScript URLs to the delegate and dismissing the composebox afterwards.

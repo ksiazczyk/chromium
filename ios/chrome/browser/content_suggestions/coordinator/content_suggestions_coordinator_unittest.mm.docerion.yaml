@@ -1,0 +1,4 @@
+# Docerion header of content_suggestions_coordinator_unittest.mm.
+type: test
+title: ContentSuggestionsCoordinator unit tests
+summary: Unit tests for the content suggestions coordinator, covering ephemeral card impression logging with mock services and test profiles.

@@ -1,0 +1,4 @@
+# Docerion header of composebox_present_animator.mm.
+type: source
+title: Composebox present animator implementation
+summary: Implements the composebox presentation animation, morphing the entrypoint view into the input plate with reduced motion and fallback transition paths.

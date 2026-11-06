@@ -1,0 +1,4 @@
+# Docerion header of composebox_input_item_view_unittest.mm.
+type: test
+title: Composebox input item view unit tests
+summary: Unit tests for the input item view covering accessibility label formatting and Large Content Viewer behavior for image and tab chips.

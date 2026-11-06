@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Composebox query contextualizer delegate bridge header
+// summary: Declares a bridge that forwards QueryContextualizer delegate callbacks to an Objective-C protocol for tab context and session handling.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_COMPOSEBOX_COORDINATOR_COMPOSEBOX_QUERY_CONTEXTUALIZER_DELEGATE_BRIDGE_H_
 #define IOS_CHROME_BROWSER_COMPOSEBOX_COORDINATOR_COMPOSEBOX_QUERY_CONTEXTUALIZER_DELEGATE_BRIDGE_H_
 

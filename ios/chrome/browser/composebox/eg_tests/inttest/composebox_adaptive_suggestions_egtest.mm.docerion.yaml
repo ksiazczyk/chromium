@@ -1,0 +1,4 @@
+# Docerion header of composebox_adaptive_suggestions_egtest.mm.
+type: test
+title: Composebox adaptive suggestions Earl Grey test case
+summary: Earl Grey test case verifying that composebox adaptive suggestions keep high-ranked URL suggestions visible above search suggestions.

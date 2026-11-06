@@ -1,0 +1,4 @@
+# Docerion header of composebox_favicons_accordion_view.mm.
+type: source
+title: Composebox favicons accordion view implementation
+summary: Implements the overlapping favicon stack with an overflow count badge, loading indicator and large content viewer support.

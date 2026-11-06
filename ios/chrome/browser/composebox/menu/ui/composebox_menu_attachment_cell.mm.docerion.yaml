@@ -1,0 +1,4 @@
+# Docerion header of composebox_menu_attachment_cell.mm.
+type: source
+title: Composebox menu attachment cell implementation
+summary: Implements the attachment cell with pointer interaction highlight, large content viewer support, and disabled state handling.

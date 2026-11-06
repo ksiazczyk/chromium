@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS contextual search service header
+// summary: Declares IOSContextualSearchService, the iOS-specific implementation of the contextual search service with its constructor and controller override.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_COMPOSEBOX_MODEL_IOS_CONTEXTUAL_SEARCH_SERVICE_H_
 #define IOS_CHROME_BROWSER_COMPOSEBOX_MODEL_IOS_CONTEXTUAL_SEARCH_SERVICE_H_
 

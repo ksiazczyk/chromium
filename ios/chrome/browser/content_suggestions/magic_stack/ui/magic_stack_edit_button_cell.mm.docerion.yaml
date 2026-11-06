@@ -1,0 +1,4 @@
+# Docerion header of magic_stack_edit_button_cell.mm.
+type: source
+title: Magic Stack edit button cell implementation
+summary: Implements the edit button cell, building a circular symbol button themed for New Tab Page color palettes and image backgrounds.

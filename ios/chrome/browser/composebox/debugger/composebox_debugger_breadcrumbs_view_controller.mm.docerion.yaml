@@ -1,0 +1,4 @@
+# Docerion header of composebox_debugger_breadcrumbs_view_controller.mm.
+type: source
+title: Composebox debugger breadcrumbs view controller implementation
+summary: Implements the breadcrumbs table view, showing event descriptions and metadata in reverse chronological order.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentSuggestionsDelegate protocol header
+// summary: Declares the protocol for relaying content suggestions events and actions, such as sharing, customization menus, and NTP bypass state, to the new tab page.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_COORDINATOR_CONTENT_SUGGESTIONS_DELEGATE_H_
 #define IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_COORDINATOR_CONTENT_SUGGESTIONS_DELEGATE_H_
 

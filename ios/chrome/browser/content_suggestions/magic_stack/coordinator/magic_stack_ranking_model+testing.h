@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MagicStackRankingModel testing category header
+// summary: Exposes internal state of MagicStackRankingModel, such as price drop counts, for use in unit tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_MAGIC_STACK_COORDINATOR_MAGIC_STACK_RANKING_MODEL_TESTING_H_
 #define IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_MAGIC_STACK_COORDINATOR_MAGIC_STACK_RANKING_MODEL_TESTING_H_
 

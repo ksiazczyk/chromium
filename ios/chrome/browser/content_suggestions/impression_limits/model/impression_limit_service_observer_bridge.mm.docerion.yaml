@@ -1,0 +1,4 @@
+# Docerion header of impression_limit_service_observer_bridge.mm.
+type: source
+title: Impression limit service observer bridge implementation
+summary: Implements the observer bridge, forwarding untracked URL events to the Objective-C delegate.

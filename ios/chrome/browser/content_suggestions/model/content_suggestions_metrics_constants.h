@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content suggestions metrics constants header
+// summary: Declares action name constants, persisted enums, and histogram name constants used for content suggestions metrics.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_MODEL_CONTENT_SUGGESTIONS_METRICS_CONSTANTS_H_
 #define IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_MODEL_CONTENT_SUGGESTIONS_METRICS_CONSTANTS_H_
 

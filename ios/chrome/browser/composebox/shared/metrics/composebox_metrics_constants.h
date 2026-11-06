@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Composebox metrics enum constants
+// summary: Declares enums for AI mode activation sources, attachment button types, autocomplete request types, drag-and-drop types, and picker outcomes used in composebox metrics.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_COMPOSEBOX_SHARED_METRICS_COMPOSEBOX_METRICS_CONSTANTS_H_
 #define IOS_CHROME_BROWSER_COMPOSEBOX_SHARED_METRICS_COMPOSEBOX_METRICS_CONSTANTS_H_
 

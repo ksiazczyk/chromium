@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for Magic Stack ranking model
+summary: Defines the ranking_model source_set with its sources and dependencies for the Magic Stack ranking model.

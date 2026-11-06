@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentNotificationNAUConfiguration class header
+// summary: Declares the ContentNotificationNAUConfiguration class that stores the notification, action type, content, and settings action needed to send a Notification Action Upload.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTENT_NOTIFICATION_MODEL_CONTENT_NOTIFICATION_NAU_CONFIGURATION_H_
 #define IOS_CHROME_BROWSER_CONTENT_NOTIFICATION_MODEL_CONTENT_NOTIFICATION_NAU_CONFIGURATION_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LevelUpView header
+// summary: Declares LevelUpView, the dedicated UIView for the Level Up card in the NTP Magic Stack, initialized from a LevelUpConfig.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_LEVEL_UP_UI_LEVEL_UP_VIEW_H_
 #define IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_LEVEL_UP_UI_LEVEL_UP_VIEW_H_
 

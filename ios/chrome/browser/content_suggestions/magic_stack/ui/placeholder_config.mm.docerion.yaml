@@ -1,0 +1,4 @@
+# Docerion header of placeholder_config.mm.
+type: source
+title: PlaceholderConfig implementation for Magic Stack placeholder module
+summary: Implements the PlaceholderConfig class that identifies itself as a placeholder ContentSuggestionsModuleType for the Magic Stack UI.

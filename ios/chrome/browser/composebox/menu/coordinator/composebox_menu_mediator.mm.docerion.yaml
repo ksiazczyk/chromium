@@ -1,0 +1,4 @@
+# Docerion header of composebox_menu_mediator.mm.
+type: source
+title: Composebox menu mediator implementation
+summary: Implements processing of image, file, Drive, and tab selections into attachment updates for the composebox menu consumer.

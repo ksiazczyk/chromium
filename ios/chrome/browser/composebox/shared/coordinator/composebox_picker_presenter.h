@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Composebox picker presenter header
+// summary: Declares ComposeboxPickerPresenter with delegate and data source protocols for presenting camera, gallery, tab, file and Drive pickers.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_COMPOSEBOX_SHARED_COORDINATOR_COMPOSEBOX_PICKER_PRESENTER_H_
 #define IOS_CHROME_BROWSER_COMPOSEBOX_SHARED_COORDINATOR_COMPOSEBOX_PICKER_PRESENTER_H_
 

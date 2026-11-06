@@ -1,0 +1,4 @@
+# Docerion header of content_notification_nau_configuration.mm.
+type: source
+title: ContentNotificationNAUConfiguration implementation
+summary: Implements the NAU configuration class, resolving notification content from either a full UNNotification or a standalone UNNotificationContent object.

@@ -1,0 +1,4 @@
+# Docerion header of composebox_debugger_coordinator.mm.
+type: source
+title: Composebox debugger coordinator implementation
+summary: Implements the floating options button, tab picker event logging, and AIM debugger presentation behind an omnibox debugging flag.

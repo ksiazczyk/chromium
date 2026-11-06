@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: App bundle promo resources build definition
+summary: GN build rule that bundles the asset catalog images and metadata for the app bundle promo UI in iOS content suggestions.

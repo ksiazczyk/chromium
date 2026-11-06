@@ -1,0 +1,4 @@
+# Docerion header of content_suggestions_metrics_recorder.mm.
+type: source
+title: ContentSuggestionsMetricsRecorder implementation
+summary: Implements the recorder that logs content suggestions metrics such as module engagement, tile impressions, and tab resumption events.

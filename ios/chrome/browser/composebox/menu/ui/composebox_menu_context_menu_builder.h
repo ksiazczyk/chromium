@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Composebox menu context menu builder interface
+// summary: Declares a builder that creates a UIMenu for the contextual composebox menu from the given input state.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_COMPOSEBOX_MENU_UI_COMPOSEBOX_MENU_CONTEXT_MENU_BUILDER_H_
 #define IOS_CHROME_BROWSER_COMPOSEBOX_MENU_UI_COMPOSEBOX_MENU_CONTEXT_MENU_BUILDER_H_
 

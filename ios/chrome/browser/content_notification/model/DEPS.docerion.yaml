@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for content notification model
+summary: Restricts which headers and directories this folder may include during dependency checks.

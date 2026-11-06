@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: composebox_availability.h
+// summary: Declares MaybeShowComposebox and ShowComposebox functions that present the composebox for a given browser.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_COMPOSEBOX_COORDINATOR_COMPOSEBOX_AVAILABILITY_H_
 #define IOS_CHROME_BROWSER_COMPOSEBOX_COORDINATOR_COMPOSEBOX_AVAILABILITY_H_
 

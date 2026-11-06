@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Composebox menu attachment view interface
+// summary: Declares a button representing an individual attachment method in the attachment carousel.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_COMPOSEBOX_MENU_UI_COMPOSEBOX_MENU_ATTACHMENT_VIEW_H_
 #define IOS_CHROME_BROWSER_COMPOSEBOX_MENU_UI_COMPOSEBOX_MENU_ATTACHMENT_VIEW_H_
 

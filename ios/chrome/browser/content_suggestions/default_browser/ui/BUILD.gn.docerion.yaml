@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Default Browser UI build target
+summary: Defines the GN source_set for the Default Browser UI, listing its sources, dependencies on content suggestions and shared UI targets, and the UIKit framework.

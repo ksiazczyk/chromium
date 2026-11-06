@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Magic Stack context menu interaction handler interface
+// summary: Declares a handler that manages context menu interactions on Magic Stack modules.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_MAGIC_STACK_UI_MAGIC_STACK_CONTEXT_MENU_INTERACTION_HANDLER_H_
 #define IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_MAGIC_STACK_UI_MAGIC_STACK_CONTEXT_MENU_INTERACTION_HANDLER_H_
 

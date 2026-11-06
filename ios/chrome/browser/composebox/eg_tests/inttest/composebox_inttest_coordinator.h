@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Composebox inttest coordinator declaration
+// summary: Declares a ChromeCoordinator subclass that presents composebox UI elements for integration tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_COMPOSEBOX_EG_TESTS_INTTEST_COMPOSEBOX_INTTEST_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_COMPOSEBOX_EG_TESTS_INTTEST_COMPOSEBOX_INTTEST_COORDINATOR_H_
 

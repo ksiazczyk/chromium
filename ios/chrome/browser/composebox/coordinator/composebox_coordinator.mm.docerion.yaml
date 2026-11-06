@@ -1,0 +1,4 @@
+# Docerion header of composebox_coordinator.mm.
+type: source
+title: Composebox coordinator implementation
+summary: Implements the coordinator that presents and manages the composebox UI, including animations, entrypoints, mode holder, navigation mediator, and debugger integration.

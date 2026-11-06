@@ -1,0 +1,4 @@
+# Docerion header of composebox_dismiss_animator.mm.
+type: source
+title: Composebox dismiss animator implementation
+summary: Implements the composebox dismissal animation, including reduced motion handling and shared element morphing back to the entrypoint.

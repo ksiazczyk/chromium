@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: composebox_constants.h
+// summary: Declares constants for prompt attachment limits and the maximum allowed file attachment size in the composebox.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_COMPOSEBOX_COORDINATOR_COMPOSEBOX_CONSTANTS_H_
 #define IOS_CHROME_BROWSER_COMPOSEBOX_COORDINATOR_COMPOSEBOX_CONSTANTS_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of composebox_ui_input_state.mm.
+type: source
+title: Composebox UI input state implementation
+summary: Implements the UI input state availability checks, including a global testing override that makes all tools, models and attachments accessible.

@@ -1,0 +1,4 @@
+# Docerion header of composebox_ui_util.mm.
+type: source
+title: Composebox UI util implementation
+summary: Maps omnibox icon resource IDs to SF Symbol images, including branded handling for the Drive icon.

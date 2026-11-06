@@ -1,0 +1,4 @@
+# Docerion header of content_notification_client.mm.
+type: source
+title: ContentNotificationClient implementation
+summary: Handles content notification interactions, feedback actions, metrics, and NAU delivery for iOS Chrome.

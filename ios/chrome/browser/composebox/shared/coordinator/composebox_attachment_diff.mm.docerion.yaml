@@ -1,0 +1,4 @@
+# Docerion header of composebox_attachment_diff.mm.
+type: source
+title: Composebox attachment tab diff implementation
+summary: Implements ComputeTabDiff using std::set_difference to derive added and removed tab IDs for composebox attachments.

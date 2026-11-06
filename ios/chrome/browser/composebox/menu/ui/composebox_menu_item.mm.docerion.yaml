@@ -1,0 +1,4 @@
+# Docerion header of composebox_menu_item.mm.
+type: source
+title: Composebox menu item implementation
+summary: Implements ComposeboxMenuItem initializers, equality, and hashing, and reports whether an item is an attachment type such as tabs, camera, gallery, files, or Drive.

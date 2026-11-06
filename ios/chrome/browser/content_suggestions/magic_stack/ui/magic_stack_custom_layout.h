@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Magic Stack custom collection view layout header
+// summary: Declares MagicStackCustomLayout, a compositional collection view layout providing horizontal paging and section sizing for the Magic Stack.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_MAGIC_STACK_UI_MAGIC_STACK_CUSTOM_LAYOUT_H_
 #define IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_MAGIC_STACK_UI_MAGIC_STACK_CUSTOM_LAYOUT_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of app_bundle_promo_config.mm.
+type: source
+title: AppBundlePromoConfig implementation
+summary: Implements AppBundlePromoConfig with localized title and description, icon sizing, module type, and tap handling that notifies the audience.

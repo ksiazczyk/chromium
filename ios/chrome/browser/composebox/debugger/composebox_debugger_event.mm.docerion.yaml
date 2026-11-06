@@ -1,0 +1,4 @@
+# Docerion header of composebox_debugger_event.mm.
+type: source
+title: Composebox debugger event descriptions
+summary: Maps debugger element and event enums to human-readable descriptions and metadata strings.

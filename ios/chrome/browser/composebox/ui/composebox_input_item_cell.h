@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Composebox input item cell interface
+// summary: Declares a collection view cell that displays a ComposeboxInputItem, with a delegate notified when the close button is tapped.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_COMPOSEBOX_UI_COMPOSEBOX_INPUT_ITEM_CELL_H_
 #define IOS_CHROME_BROWSER_COMPOSEBOX_UI_COMPOSEBOX_INPUT_ITEM_CELL_H_
 

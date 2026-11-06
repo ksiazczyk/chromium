@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS contextual search service implementation
+// summary: Implements IOSContextualSearchService, an iOS subclass of ContextualSearchService that creates the iOS composebox query controller.
+// ---
+
 #include "ios/chrome/browser/composebox/model/ios_contextual_search_service.h"
 
 #include "components/contextual_search/internal/ios/composebox_query_controller_ios.h"

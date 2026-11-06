@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Content suggestions metrics build targets
+summary: GN build file defining the metrics_recorder and metrics_constants source sets with their sources and dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Composebox metrics recorder interface
+// summary: Declares the ComposeboxMetricsRecorder Objective-C interface with methods for recording attachment, tool, model, and navigation metrics.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_COMPOSEBOX_SHARED_METRICS_COMPOSEBOX_METRICS_RECORDER_H_
 #define IOS_CHROME_BROWSER_COMPOSEBOX_SHARED_METRICS_COMPOSEBOX_METRICS_RECORDER_H_
 

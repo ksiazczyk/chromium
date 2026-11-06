@@ -1,0 +1,4 @@
+# Docerion header of composebox_app_interface.mm.
+type: source
+title: Composebox app interface implementation
+summary: Implements ComposeboxAppInterface methods that set mock eligibility returns, enable tools, and read the last sent AIM query text.

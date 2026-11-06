@@ -1,0 +1,4 @@
+# Docerion header of level_up_view.mm.
+type: source
+title: LevelUpView implementation
+summary: Builds the Level Up card UI with icon container, labels, and progress bar, applying NTP colors, accessibility, and tap handling to show Level Up.

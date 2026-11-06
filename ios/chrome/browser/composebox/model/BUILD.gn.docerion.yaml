@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Composebox model BUILD.gn build definition
+summary: Defines the model and test_support source sets with their sources and dependencies for the iOS composebox contextual search code.

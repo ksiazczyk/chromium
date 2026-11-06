@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the default browser coordinator
+summary: Defines the coordinator source_set listing the mediator sources, its dependencies on base, prefs, UI and commands targets, and the UIKit framework.

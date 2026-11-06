@@ -1,0 +1,4 @@
+# Docerion header of composebox_menu_shared_tabs_view_controller.mm.
+type: source
+title: Composebox menu shared tabs view controller implementation
+summary: Builds the shared tabs sheet UI with a navigation bar, close button, disclaimer text view, and a diffable data source collection view of shared tabs.

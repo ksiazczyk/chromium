@@ -1,0 +1,4 @@
+# Docerion header of consent_auditor_factory.mm.
+type: source
+title: ConsentAuditorFactory implementation
+summary: Builds per-profile ConsentAuditorImpl instances with a consent sync bridge, the application locale, and a default clock.

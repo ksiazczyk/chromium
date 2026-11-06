@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Composebox attachment tab diff header
+// summary: Declares the TabDiff struct and ComputeTabDiff function that compute added and removed tab IDs between attachment sets.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_COMPOSEBOX_SHARED_COORDINATOR_COMPOSEBOX_ATTACHMENT_DIFF_H_
 #define IOS_CHROME_BROWSER_COMPOSEBOX_SHARED_COORDINATOR_COMPOSEBOX_ATTACHMENT_DIFF_H_
 

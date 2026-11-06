@@ -1,0 +1,4 @@
+# Docerion header of content_suggestions_metrics_constants.mm.
+type: source
+title: Content suggestions metrics constants implementation
+summary: Defines the string values of the action names and histogram names used by content suggestions metrics logging.

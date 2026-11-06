@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Composebox snackbar presenter interface
+// summary: Declares the ComposeboxSnackbarPresenter interface for showing attachment limit and error snackbars in the Composebox feature.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_COMPOSEBOX_SHARED_UI_COMPOSEBOX_SNACKBAR_PRESENTER_H_
 #define IOS_CHROME_BROWSER_COMPOSEBOX_SHARED_UI_COMPOSEBOX_SNACKBAR_PRESENTER_H_
 

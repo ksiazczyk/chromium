@@ -1,0 +1,4 @@
+# Docerion header of composebox_metrics_recorder.mm.
+type: source
+title: Composebox metrics recorder implementation
+summary: Implements the composebox metrics recorder, mapping enum values to histogram names and delegating to the contextual search metrics recorder.

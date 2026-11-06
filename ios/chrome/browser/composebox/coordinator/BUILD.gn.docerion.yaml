@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Composebox coordinator BUILD.gn
+summary: GN build file defining source sets and dependencies for the composebox coordinator, availability, and input plate targets.

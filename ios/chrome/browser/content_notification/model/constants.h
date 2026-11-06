@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content notification pref key constants header
+// summary: Declares preference keys for content notification enrollment eligibility such as price tracking, feed activity, and new user status.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTENT_NOTIFICATION_MODEL_CONSTANTS_H_
 #define IOS_CHROME_BROWSER_CONTENT_NOTIFICATION_MODEL_CONSTANTS_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of app_bundle_promo_mediator.mm.
+type: source
+title: App Bundle Promo mediator implementation
+summary: Implements the mediator, observing the Chrome Tips preference to remove the module and forwarding promo selection and App Store presentation actions.

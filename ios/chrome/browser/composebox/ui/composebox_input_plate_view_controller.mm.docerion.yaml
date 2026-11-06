@@ -1,0 +1,4 @@
+# Docerion header of composebox_input_plate_view_controller.mm.
+type: source
+title: Composebox input plate view controller implementation
+summary: Implements the composebox input plate view controller, managing the text input, mode pills, attachment buttons and the carousel of attached input items.

@@ -1,0 +1,4 @@
+# Docerion header of composebox_view_controller.mm.
+type: source
+title: Composebox view controller implementation
+summary: Implements the composebox container view controller, covering close button styling, adaptive layout constraints, scroll blur effects and the incognito view.

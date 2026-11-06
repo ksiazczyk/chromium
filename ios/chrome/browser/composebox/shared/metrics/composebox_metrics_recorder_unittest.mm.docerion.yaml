@@ -1,0 +1,4 @@
+# Docerion header of composebox_metrics_recorder_unittest.mm.
+type: test
+title: Composebox metrics recorder unit tests
+summary: Unit tests verifying that the composebox metrics recorder emits the expected Omnibox.MobileFusebox and ContextualSearch histogram values.

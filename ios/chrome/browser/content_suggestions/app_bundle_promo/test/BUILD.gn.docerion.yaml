@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for App Bundle promo Earl Grey tests
+summary: Defines the eg2_tests source set for the App Bundle promo Earl Grey tests, listing its sources, dependencies and frameworks.

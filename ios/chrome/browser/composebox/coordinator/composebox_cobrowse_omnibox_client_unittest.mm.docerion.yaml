@@ -1,0 +1,4 @@
+# Docerion header of composebox_cobrowse_omnibox_client_unittest.mm.
+type: test
+title: composebox_cobrowse_omnibox_client_unittest.mm
+summary: Unit tests verifying that OnAutocompleteAccept combines typed text with inline autocompletion before notifying the delegate.

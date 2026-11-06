@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for Composebox EG tests
+summary: Grants the eg_tests directory include access to ios/chrome/browser/aim/model via DEPS include rules.

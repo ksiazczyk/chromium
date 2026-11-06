@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Composebox coordinator DEPS include rules
+summary: Defines the allowed include paths for the composebox coordinator directory, covering omnibox, cobrowse, Lens, and related dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Composebox menu item interface
+// summary: Declares the ComposeboxMenuItem model class representing a menu entry with title, image, type, subtitle, and favicons, plus an accessibility identifier helper.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_COMPOSEBOX_MENU_UI_COMPOSEBOX_MENU_ITEM_H_
 #define IOS_CHROME_BROWSER_COMPOSEBOX_MENU_UI_COMPOSEBOX_MENU_ITEM_H_
 

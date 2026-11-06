@@ -1,0 +1,4 @@
+# Docerion header of composebox_availability.mm.
+type: source
+title: composebox_availability.mm
+summary: Implements showing the composebox by dispatching browser coordinator commands through the command dispatcher.

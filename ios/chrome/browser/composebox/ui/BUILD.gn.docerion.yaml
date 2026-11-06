@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Composebox UI build targets
+summary: GN build file defining the source sets, sources and dependencies for the composebox UI, favicons accordion, ui_util and state targets.

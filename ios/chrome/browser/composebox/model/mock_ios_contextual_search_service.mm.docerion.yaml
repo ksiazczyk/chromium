@@ -1,0 +1,4 @@
+# Docerion header of mock_ios_contextual_search_service.mm.
+type: test
+title: Mock iOS contextual search service implementation
+summary: Implements the mock contextual search service with a mock session handle and controller that simulate upload success for EG tests.

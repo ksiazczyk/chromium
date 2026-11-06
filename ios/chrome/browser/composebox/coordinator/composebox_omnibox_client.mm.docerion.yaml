@@ -1,0 +1,4 @@
+# Docerion header of composebox_omnibox_client.mm.
+type: source
+title: Composebox omnibox client implementation
+summary: Implements the composebox omnibox client, wiring autocomplete, bookmarks, search engines, prerendering, and feature engagement to the composebox UI.

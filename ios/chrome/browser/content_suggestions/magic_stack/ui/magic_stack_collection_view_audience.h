@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Magic Stack collection view audience protocol
+// summary: Defines the audience protocol for edit button taps, ephemeral card visibility, and top module impressions.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_MAGIC_STACK_UI_MAGIC_STACK_COLLECTION_VIEW_AUDIENCE_H_
 #define IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_MAGIC_STACK_UI_MAGIC_STACK_COLLECTION_VIEW_AUDIENCE_H_
 

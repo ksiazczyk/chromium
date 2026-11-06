@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Composebox navigation mediator header
+// summary: Declares the composebox navigation mediator and its delegate protocol for loading URLs and handling JavaScript URLs.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_COMPOSEBOX_COORDINATOR_COMPOSEBOX_NAVIGATION_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_COMPOSEBOX_COORDINATOR_COMPOSEBOX_NAVIGATION_MEDIATOR_H_
 

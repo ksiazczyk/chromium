@@ -1,0 +1,4 @@
+# Docerion header of magic_stack_custom_layout.mm.
+type: source
+title: Magic Stack custom collection view layout implementation
+summary: Implements the Magic Stack compositional layout with horizontal paging, module width computation, and special sizing for the edit button section.

@@ -1,0 +1,4 @@
+# Docerion header of content_settings_observer_bridge.mm.
+type: source
+title: Content settings observer bridge implementation
+summary: Implements the ContentSettingsObserverBridge, observing a HostContentSettingsMap and forwarding OnContentSettingChanged callbacks to the Objective-C observer.

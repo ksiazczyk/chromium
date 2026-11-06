@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for composebox integration tests
+summary: Grants the composebox integration test directory include access to ios/chrome/browser/autocomplete/model.

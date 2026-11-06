@@ -1,0 +1,4 @@
+# Docerion header of composebox_ui_config.mm.
+type: source
+title: Composebox UI config implementation
+summary: Implements the composebox UI config, combining server-provided labels and icons with local fallback strings for tools, models and attachments.

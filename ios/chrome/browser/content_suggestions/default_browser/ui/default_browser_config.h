@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default Browser view configuration item
+// summary: Declares DefaultBrowserConfig, an IconDetailViewConfig item that carries the command handler for user actions on the Default Browser view.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_DEFAULT_BROWSER_UI_DEFAULT_BROWSER_CONFIG_H_
 #define IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_DEFAULT_BROWSER_UI_DEFAULT_BROWSER_CONFIG_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentNotificationConfiguration class header
+// summary: Declares a configuration object holding identity, account manager, and SSO services used by ContentNotificationService.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTENT_NOTIFICATION_MODEL_CONTENT_NOTIFICATION_CONFIGURATION_H_
 #define IOS_CHROME_BROWSER_CONTENT_NOTIFICATION_MODEL_CONTENT_NOTIFICATION_CONFIGURATION_H_
 

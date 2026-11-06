@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Composebox debugger logger protocol
+// summary: Declares the ComposeboxDebuggerLogger protocol for logging composebox debugger events.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_COMPOSEBOX_DEBUGGER_COMPOSEBOX_DEBUGGER_LOGGER_H_
 #define IOS_CHROME_BROWSER_COMPOSEBOX_DEBUGGER_COMPOSEBOX_DEBUGGER_LOGGER_H_
 

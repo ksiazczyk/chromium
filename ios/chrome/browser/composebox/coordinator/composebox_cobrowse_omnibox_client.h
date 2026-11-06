@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: composebox_cobrowse_omnibox_client.h
+// summary: Declares ComposeboxCobrowseOmniboxClient, an OmniboxClientIOS subclass supplying omnibox state for the composebox cobrowse mode.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_COMPOSEBOX_COORDINATOR_COMPOSEBOX_COBROWSE_OMNIBOX_CLIENT_H_
 #define IOS_CHROME_BROWSER_COMPOSEBOX_COORDINATOR_COMPOSEBOX_COBROWSE_OMNIBOX_CLIENT_H_
 

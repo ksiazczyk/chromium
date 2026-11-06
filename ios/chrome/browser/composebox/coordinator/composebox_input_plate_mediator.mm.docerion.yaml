@@ -1,0 +1,4 @@
+# Docerion header of composebox_input_plate_mediator.mm.
+type: source
+title: Composebox input plate mediator implementation
+summary: Implements the input plate mediator, handling attachment uploads, input state, contextual search context, Lens inputs, and metrics for the composebox.

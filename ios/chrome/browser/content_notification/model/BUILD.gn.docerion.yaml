@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for content notification model
+summary: Defines GN source sets and dependencies for the iOS content notification service, client, configuration, util, constants, and unit tests.

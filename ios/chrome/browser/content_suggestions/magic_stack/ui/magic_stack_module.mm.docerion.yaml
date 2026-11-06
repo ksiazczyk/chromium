@@ -1,0 +1,4 @@
+# Docerion header of magic_stack_module.mm.
+type: source
+title: Magic Stack module config base class implementation
+summary: Implements equality, hashing, content comparison, and copying for the MagicStackModule base config class.

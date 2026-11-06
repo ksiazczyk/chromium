@@ -1,0 +1,4 @@
+# Docerion header of magic_stack_module_contents_factory.mm.
+type: source
+title: MagicStackModuleContentsFactory implementation
+summary: Implements the module contents factory, mapping each ContentSuggestionsModuleType to its view such as most visited tiles, safety check, shop card, or set up list.

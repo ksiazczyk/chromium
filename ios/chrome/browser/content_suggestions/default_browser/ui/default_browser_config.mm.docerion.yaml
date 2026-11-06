@@ -1,0 +1,4 @@
+# Docerion header of default_browser_config.mm.
+type: source
+title: Default Browser view configuration implementation
+summary: Implements DefaultBrowserConfig with localized title and description, a Chrome symbol icon, accessibility identifiers, and tap handling that forwards to the command handler.

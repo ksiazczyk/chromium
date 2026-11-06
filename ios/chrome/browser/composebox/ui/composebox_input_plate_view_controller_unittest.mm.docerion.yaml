@@ -1,0 +1,4 @@
+# Docerion header of composebox_input_plate_view_controller_unittest.mm.
+type: test
+title: Composebox input plate view controller unit tests
+summary: Unit tests verifying Large Content Viewer support for the plus, AI Mode and image generation buttons and send button enablement based on item states.

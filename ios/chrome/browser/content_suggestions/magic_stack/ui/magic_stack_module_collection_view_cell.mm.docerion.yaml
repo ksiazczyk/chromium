@@ -1,0 +1,4 @@
+# Docerion header of magic_stack_module_collection_view_cell.mm.
+type: source
+title: Magic Stack module collection view cell implementation
+summary: Implements the module cell with card background, context menu interaction, reuse handling, and subview alpha animation driven by layout attributes.

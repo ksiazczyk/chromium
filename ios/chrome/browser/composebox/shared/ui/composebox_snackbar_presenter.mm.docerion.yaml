@@ -1,0 +1,4 @@
+# Docerion header of composebox_snackbar_presenter.mm.
+type: source
+title: Composebox snackbar presenter implementation
+summary: Implements ComposeboxSnackbarPresenter, showing localized snackbars for attachment and tab limits and dismissing them via the snackbar handler.

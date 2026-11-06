@@ -1,0 +1,4 @@
+# Docerion header of composebox_menu_view_controller_unittest.mm.
+type: test
+title: Composebox menu view controller unit tests
+summary: Unit tests for the composebox menu view controller, covering shared tabs cell configuration, layout across device widths, and large content viewer interaction.

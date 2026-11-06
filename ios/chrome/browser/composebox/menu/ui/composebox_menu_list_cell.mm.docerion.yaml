@@ -1,0 +1,4 @@
+# Docerion header of composebox_menu_list_cell.mm.
+type: source
+title: Composebox menu list cell implementation
+summary: Rounds the preferred cell height up to the nearest point to break fractional rounding loops that can cause recursive layout crashes.

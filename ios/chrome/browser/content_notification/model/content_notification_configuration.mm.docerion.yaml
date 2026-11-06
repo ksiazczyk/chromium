@@ -1,0 +1,4 @@
+# Docerion header of content_notification_configuration.mm.
+type: source
+title: ContentNotificationConfiguration implementation
+summary: Implements the ContentNotificationConfiguration Objective-C class declared in the matching header.

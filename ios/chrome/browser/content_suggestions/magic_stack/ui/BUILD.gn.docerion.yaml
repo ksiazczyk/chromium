@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Magic Stack UI build definitions
+summary: GN build file defining the ui, public, and cells source sets with their sources and dependencies for the Magic Stack UI.

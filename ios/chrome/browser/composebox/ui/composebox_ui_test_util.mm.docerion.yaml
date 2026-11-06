@@ -1,0 +1,4 @@
+# Docerion header of composebox_ui_test_util.mm.
+type: test
+title: Composebox UI test util implementation
+summary: Implements a helper that checks whether a view carries a UILargeContentViewerInteraction, for use in tests.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Composebox integration test build rules
+summary: Defines GN source sets for the composebox integration test coordinator, the Earl Grey test case, and the app and test support code.

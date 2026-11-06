@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the content settings model target
+summary: Defines the GN source_set for the iOS content settings model, listing the observer bridge and factory sources together with their base, components, prefs, and profile dependencies.

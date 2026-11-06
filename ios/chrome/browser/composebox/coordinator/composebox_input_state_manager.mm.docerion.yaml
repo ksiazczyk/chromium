@@ -1,0 +1,4 @@
+# Docerion header of composebox_input_state_manager.mm.
+type: source
+title: Composebox input state manager implementation
+summary: Implements the input state manager, mapping server model modes to composebox options, recording metrics, and handling Drive disclaimer verification.

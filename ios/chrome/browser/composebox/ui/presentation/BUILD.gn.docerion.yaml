@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Composebox presentation build definition
+summary: Defines the presentation source_set, listing the animator and presentation controller sources and their build dependencies.

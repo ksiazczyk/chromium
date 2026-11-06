@@ -1,0 +1,4 @@
+# Docerion header of composebox_query_contextualizer_delegate_bridge.mm.
+type: source
+title: Composebox query contextualizer delegate bridge implementation
+summary: Implements the query contextualizer delegate bridge, forwarding tab URL, session, and page context requests to the Objective-C delegate.

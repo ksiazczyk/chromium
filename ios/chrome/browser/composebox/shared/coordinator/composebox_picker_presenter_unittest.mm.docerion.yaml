@@ -1,0 +1,4 @@
+# Docerion header of composebox_picker_presenter_unittest.mm.
+type: test
+title: Composebox picker presenter unit tests
+summary: Unit tests for ComposeboxPickerPresenter covering picker presentation, Drive picker responses and metrics using fakes and OCMock.

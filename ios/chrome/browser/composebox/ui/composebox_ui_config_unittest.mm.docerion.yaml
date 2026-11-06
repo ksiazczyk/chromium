@@ -1,0 +1,4 @@
+# Docerion header of composebox_ui_config_unittest.mm.
+type: test
+title: Composebox UI config unit tests
+summary: Unit tests verifying that the UI config returns correct localized fallback and server-configured labels, hints and icons for tools and models.

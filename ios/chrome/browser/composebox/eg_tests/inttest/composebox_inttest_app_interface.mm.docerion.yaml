@@ -1,0 +1,4 @@
+# Docerion header of composebox_inttest_app_interface.mm.
+type: source
+title: Composebox inttest app interface implementation
+summary: Implements the composebox inttest app interface, exposing the integration test coordinator to test code.

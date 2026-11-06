@@ -1,0 +1,4 @@
+# Docerion header of composebox_menu_coordinator.mm.
+type: source
+title: Composebox menu coordinator implementation
+summary: Implements presentation and dismissal of the composebox menu bottom sheet, handling attachments, pickers, tab removal, and snackbar commands.

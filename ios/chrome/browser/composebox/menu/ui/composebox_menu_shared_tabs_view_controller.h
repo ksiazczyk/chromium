@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Composebox menu shared tabs view controller interface
+// summary: Declares a view controller that lists shared tabs in a sheet, with a delegate for tapping disclaimer links and removing tabs.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_COMPOSEBOX_MENU_UI_COMPOSEBOX_MENU_SHARED_TABS_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_COMPOSEBOX_MENU_UI_COMPOSEBOX_MENU_SHARED_TABS_VIEW_CONTROLLER_H_
 

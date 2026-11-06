@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Edit button config interface
+// summary: Declares EditButtonConfig, representing the Magic Stack edit button item in the diffable data source.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_MAGIC_STACK_UI_EDIT_BUTTON_CONFIG_H_
 #define IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_MAGIC_STACK_UI_EDIT_BUTTON_CONFIG_H_
 

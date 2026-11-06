@@ -1,0 +1,4 @@
+# Docerion header of composebox_input_item_view.mm.
+type: source
+title: Composebox input item view implementation
+summary: Implements the input item view, rendering icons, previews, and titles for image, file, tab, and Drive chips with Large Content Viewer support.
