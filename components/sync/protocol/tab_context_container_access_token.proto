@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab context container access token protobuf
+// summary: Defines the TabContextContainerAccessToken protobuf wrapping a name, encrypted container key and expiration time for tab context containers.
+// ---
+
 syntax = "proto2";
 
 option java_multiple_files = true;

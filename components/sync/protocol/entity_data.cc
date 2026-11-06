@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EntityData implementation
+// summary: Implements the EntityData sync entity container, including debug dictionary conversion, memory usage estimation, and test printing support.
+// ---
+
 #include "components/sync/protocol/entity_data.h"
 
 #include <optional>

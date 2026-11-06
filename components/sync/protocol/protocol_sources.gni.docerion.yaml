@@ -1,0 +1,4 @@
+# Docerion header of protocol_sources.gni.
+type: config
+title: Sync protocol source list for GN
+summary: GN import list enumerating the .proto files that make up the sync protocol sources for the build.

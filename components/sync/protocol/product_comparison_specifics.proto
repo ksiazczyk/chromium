@@ -6,6 +6,12 @@
 // If you change or add any fields in this file, update proto_visitors.h and
 // potentially proto_enum_conversions.{h, cc}.
 
+// ---docerion
+// type: source
+// title: Product comparison sync protocol specifics
+// summary: Defines protobuf messages for product comparison sync entities, comparison items, and their ordering data.
+// ---
+
 syntax = "proto2";
 
 option java_multiple_files = true;

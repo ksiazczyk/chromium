@@ -5,6 +5,12 @@
 // If you change or add any fields in this file, update proto_visitors.h and
 // potentially proto_enum_conversions.{h, cc}.
 
+// ---docerion
+// type: source
+// title: Autofill entity suppression sync protobuf
+// summary: Defines protobuf messages describing suppressed autofill entities, including the entity suppression key, GUID, schema version and creation time.
+// ---
+
 syntax = "proto2";
 
 option java_multiple_files = true;

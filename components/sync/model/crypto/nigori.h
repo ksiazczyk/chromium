@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nigori protocol class declaration
+// summary: Declares the Nigori class, a partial implementation of the Nigori protocol for securely storing secrets in the cloud, exposing key derivation, encryption, decryption and key export APIs.
+// ---
+
 #ifndef COMPONENTS_SYNC_MODEL_CRYPTO_NIGORI_H_
 #define COMPONENTS_SYNC_MODEL_CRYPTO_NIGORI_H_
 

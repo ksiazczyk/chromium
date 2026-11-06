@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the sync model component
+summary: Defines the static library target for the sync model component, listing its source files and build dependencies such as base, sync engine and leveldatabase.

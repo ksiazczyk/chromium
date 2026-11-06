@@ -7,6 +7,12 @@
 // If you change or add any fields in this file, update proto_visitors.h and
 // potentially proto_enum_conversions.{h, cc}.
 
+// ---docerion
+// type: source
+// title: Printer sync protocol specifics
+// summary: Defines protobuf messages for synced printer records, including PPD references, URIs, and make-and-model metadata.
+// ---
+
 syntax = "proto2";
 
 option java_multiple_files = true;

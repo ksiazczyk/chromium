@@ -7,6 +7,12 @@
 // If you change or add any fields in this file, update proto_visitors.h and
 // potentially proto_enum_conversions.{h, cc}.
 
+// ---docerion
+// type: source
+// title: Workspace Desk Sync Protocol Datatype Extension
+// summary: Defines the protobuf message for syncing saved workspace desks on Chrome OS, covering desk metadata, apps, window states, and device information.
+// ---
+
 syntax = "proto2";
 
 option java_multiple_files = true;

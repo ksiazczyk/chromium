@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncEntity sync protocol message definition
+// summary: Defines the SyncEntity protobuf message representing a synced item, with IDs, versions, timestamps and specifics used in commits and GetUpdates responses.
+// ---
+
 syntax = "proto2";
 
 option java_multiple_files = true;

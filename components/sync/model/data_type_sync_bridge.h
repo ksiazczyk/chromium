@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataTypeSyncBridge interface header
+// summary: Defines the interface data types implement to receive sync updates and metadata changes through a DataTypeLocalChangeProcessor.
+// ---
+
 #ifndef COMPONENTS_SYNC_MODEL_DATA_TYPE_SYNC_BRIDGE_H_
 #define COMPONENTS_SYNC_MODEL_DATA_TYPE_SYNC_BRIDGE_H_
 

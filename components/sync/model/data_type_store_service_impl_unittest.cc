@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DataTypeStoreServiceImpl unit tests
+// summary: Unit tests for DataTypeStoreServiceImpl, covering store factories that outlive the service and the use of isolated storage types.
+// ---
+
 #include "components/sync/model/data_type_store_service_impl.h"
 
 #include <memory>

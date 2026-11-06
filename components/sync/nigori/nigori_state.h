@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nigori state declaration
+// summary: Declares NigoriState, holding the cryptographer, passphrase type, keystore keys and cross-user sharing key state for the Nigori data type.
+// ---
+
 #ifndef COMPONENTS_SYNC_NIGORI_NIGORI_STATE_H_
 #define COMPONENTS_SYNC_NIGORI_NIGORI_STATE_H_
 

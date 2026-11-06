@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncMetadataStoreChangeList implementation
+// summary: Implements the MetadataChangeList wrapper that applies metadata changes directly to a SyncMetadataStore and reports the first error encountered.
+// ---
+
 #include "components/sync/model/sync_metadata_store_change_list.h"
 
 #include <utility>

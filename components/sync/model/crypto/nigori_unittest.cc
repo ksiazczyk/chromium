@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Nigori unit tests
+// summary: Unit tests for the Nigori implementation, checking key name derivation, encryption with varying IVs and decryption of golden ciphertexts under different feature flags.
+// ---
+
 #include "components/sync/model/crypto/nigori.h"
 
 #include <memory>

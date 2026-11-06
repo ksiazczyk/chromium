@@ -4,6 +4,12 @@
 //
 // Protocol messages used only for testing.
 
+// ---docerion
+// type: test
+// title: Test protocol messages
+// summary: Defines protobuf messages used only for testing, such as UnknownFieldsTestA and UnknownFieldsTestB for unknown field handling.
+// ---
+
 syntax = "proto2";
 
 option java_multiple_files = true;

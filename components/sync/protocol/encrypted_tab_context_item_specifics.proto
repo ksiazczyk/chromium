@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Encrypted tab context item sync specifics
+// summary: Defines protobuf messages for encrypted tab context items, covering plaintext content serialization and the encrypted payload referencing its container.
+// ---
+
 syntax = "proto2";
 
 option java_multiple_files = true;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrossUserSharingKeys implementation
+// summary: Implements a versioned set of cross-user sharing X25519 key pairs with proto serialization and deserialization.
+// ---
+
 #include "components/sync/nigori/cross_user_sharing_keys.h"
 
 #include <algorithm>

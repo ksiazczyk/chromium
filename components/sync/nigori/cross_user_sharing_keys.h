@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrossUserSharingKeys class declaration
+// summary: Declares a versioned collection of cross-user sharing public-private key pairs with proto conversion and cloning support.
+// ---
+
 #ifndef COMPONENTS_SYNC_NIGORI_CROSS_USER_SHARING_KEYS_H_
 #define COMPONENTS_SYNC_NIGORI_CROSS_USER_SHARING_KEYS_H_
 

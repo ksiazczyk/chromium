@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncableServiceBasedBridge implementation
+// summary: Implements a DataTypeSyncBridge that adapts legacy SyncableService data types, persisting entities in a data type store.
+// ---
+
 #include "components/sync/model/syncable_service_based_bridge.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync proto to value conversion declarations
+// summary: Declares per-message functions that convert sync protocol buffers to base::Value dictionaries, kept in sync with the proto files.
+// ---
+
 #ifndef COMPONENTS_SYNC_PROTOCOL_PROTO_VALUE_CONVERSIONS_H_
 #define COMPONENTS_SYNC_PROTOCOL_PROTO_VALUE_CONVERSIONS_H_
 

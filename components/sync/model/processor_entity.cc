@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Processor entity implementation
+// summary: Implements ProcessorEntity, managing per-entity sync metadata, cached commit data, remote update recording, and asynchronous attachment file deletion.
+// ---
+
 #include "components/sync/model/processor_entity.h"
 
 #include <utility>

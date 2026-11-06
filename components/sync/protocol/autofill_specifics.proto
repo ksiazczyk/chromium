@@ -7,6 +7,12 @@
 // If you change or add any fields in this file, update proto_visitors.h and
 // potentially proto_enum_conversions.{h, cc}.
 
+// ---docerion
+// type: source
+// title: Autofill profile sync protobuf
+// summary: Defines protobuf messages for autofill sync data, notably AutofillProfileSpecifics with name fields, verification statuses and usage metadata.
+// ---
+
 syntax = "proto2";
 
 option java_multiple_files = true;

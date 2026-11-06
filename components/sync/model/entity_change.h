@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EntityChange class declaration
+// summary: Declares the EntityChange class representing a single sync entity change with a storage key, change type and entity data, plus the EntityChangeList typedef.
+// ---
+
 #ifndef COMPONENTS_SYNC_MODEL_ENTITY_CHANGE_H_
 #define COMPONENTS_SYNC_MODEL_ENTITY_CHANGE_H_
 

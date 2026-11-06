@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataTypeStoreBase implementation
+// summary: Implements DataTypeStoreBase::WriteBatch helpers for creating and transferring metadata change lists in sync data type stores.
+// ---
+
 #include "components/sync/model/data_type_store_base.h"
 
 #include "components/sync/model/in_memory_metadata_change_list.h"

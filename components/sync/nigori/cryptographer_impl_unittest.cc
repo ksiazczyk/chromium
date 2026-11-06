@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CryptographerImpl unit tests
+// summary: Unit tests covering key emplacement, default encryption key selection, encryption and decryption, and cross-user sharing key handling in CryptographerImpl.
+// ---
+
 #include "components/sync/nigori/cryptographer_impl.h"
 
 #include <utility>

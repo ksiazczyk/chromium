@@ -7,6 +7,12 @@
 // If you change or add any fields in this file, update proto_visitors.h and
 // potentially proto_enum_conversions.{h, cc}.
 
+// ---docerion
+// type: source
+// title: Typed URL sync protocol datatype
+// summary: Defines the protobuf message for syncing typed URL history entries, including visit timestamps, transitions and auto-complete hiding.
+// ---
+
 syntax = "proto2";
 
 option java_multiple_files = true;

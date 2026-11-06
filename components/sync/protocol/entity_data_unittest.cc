@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EntityData unit tests
+// summary: Unit tests verifying EntityData deletion detection and that attachment metadata round-trips through its protobuf representation.
+// ---
+
 #include "components/sync/protocol/entity_data.h"
 
 #include "base/test/protobuf_matchers.h"

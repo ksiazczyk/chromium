@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DataTypeStoreBackend unit tests
+// summary: Unit tests for DataTypeStoreBackend covering record writes and reads, prefix filtering, deleted records, and persistence across backend recreation.
+// ---
+
 #include "components/sync/model/data_type_store_backend.h"
 
 #include <utility>

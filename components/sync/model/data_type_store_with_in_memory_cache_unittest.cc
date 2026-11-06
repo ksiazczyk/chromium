@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DataTypeStoreWithInMemoryCache unit tests
+// summary: Unit tests for DataTypeStoreWithInMemoryCache, covering creation and loading of empty and populated stores plus write batch behavior.
+// ---
+
 #include "components/sync/model/data_type_store_with_in_memory_cache.h"
 
 #include <memory>

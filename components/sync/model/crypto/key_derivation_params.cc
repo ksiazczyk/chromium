@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeyDerivationParams implementation for PBKDF2 and scrypt methods
+// summary: Implements KeyDerivationParams constructors and factory methods for PBKDF2 and scrypt key derivation with an associated scrypt salt.
+// ---
+
 #include "components/sync/model/crypto/key_derivation_params.h"
 
 #include "base/check_op.h"

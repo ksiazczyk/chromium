@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the sync model directory
+summary: Specifies the allowed include dependencies for the sync model directory, including keyed_service, prefs, sync base, engine, protocol and leveldatabase.

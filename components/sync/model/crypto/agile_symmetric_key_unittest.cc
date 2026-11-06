@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for AgileSymmetricKey encryption and proto round trips
+// summary: Tests AgileSymmetricKey key size validation, random key creation, encryption and decryption failure cases, and proto round trips.
+// ---
+
 #include "components/sync/model/crypto/agile_symmetric_key.h"
 
 #include <string>

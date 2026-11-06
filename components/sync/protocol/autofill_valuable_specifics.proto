@@ -5,6 +5,12 @@
 // If you change or add any fields in this file, update proto_visitors.h and
 // potentially proto_enum_conversions.{h, cc}.
 
+// ---docerion
+// type: source
+// title: Autofill valuable sync protobuf
+// summary: Defines protobuf messages for Google Wallet valuables such as loyalty cards, vehicle registrations and flight reservations synced through autofill.
+// ---
+
 syntax = "proto2";
 
 option java_multiple_files = true;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data Type State Helper Implementation
+// summary: Implements syncer helper functions that classify DataTypeState initial sync states as done or at least partially done.
+// ---
+
 #include "components/sync/protocol/data_type_state_helper.h"
 
 #include "components/sync/protocol/data_type_state.pb.h"

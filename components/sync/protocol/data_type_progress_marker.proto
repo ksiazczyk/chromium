@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data Type Progress Marker Protos
+// summary: Defines protobufs for per-datatype sync progress markers, datatype contexts, and garbage collection directives exchanged with the sync server.
+// ---
+
 syntax = "proto2";
 
 option java_multiple_files = true;

@@ -5,6 +5,12 @@
 // If you change or add any fields in this file, update proto_visitors.h and
 // potentially proto_enum_conversions.{h, cc}.
 
+// ---docerion
+// type: source
+// title: AI thread sync specifics
+// summary: Proto definition of AiThreadSpecifics, which syncs the latest snapshot of a conversation thread used with AI features, including type, title and last turn time.
+// ---
+
 syntax = "proto2";
 
 option java_multiple_files = true;

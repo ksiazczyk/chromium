@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Processor entity
+// summary: Declares ProcessorEntity, a helper used by ClientTagBasedDataTypeProcessor to track each entity's metadata, unsynced state, and pending commits.
+// ---
+
 #ifndef COMPONENTS_SYNC_MODEL_PROCESSOR_ENTITY_H_
 #define COMPONENTS_SYNC_MODEL_PROCESSOR_ENTITY_H_
 

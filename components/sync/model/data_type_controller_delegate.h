@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataTypeControllerDelegate interface
+// summary: Declares the interface for communication between DataTypeController and a data type, covering sync start, stop, debugging and metadata operations.
+// ---
+
 #ifndef COMPONENTS_SYNC_MODEL_DATA_TYPE_CONTROLLER_DELEGATE_H_
 #define COMPONENTS_SYNC_MODEL_DATA_TYPE_CONTROLLER_DELEGATE_H_
 

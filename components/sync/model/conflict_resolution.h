@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Conflict resolution enum and metrics declaration
+// summary: Defines the ConflictResolution enum persisted to logs and declares the function that records conflict outcomes when applying remote updates.
+// ---
+
 #ifndef COMPONENTS_SYNC_MODEL_CONFLICT_RESOLUTION_H_
 #define COMPONENTS_SYNC_MODEL_CONFLICT_RESOLUTION_H_
 

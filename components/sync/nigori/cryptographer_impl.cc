@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptographerImpl implementation
+// summary: Implements the cryptographer that manages Nigori keys, a key bag, a default encryption key, and cross-user sharing keys for encrypting and decrypting sync data.
+// ---
+
 #include "components/sync/nigori/cryptographer_impl.h"
 
 #include <utility>

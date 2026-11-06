@@ -5,6 +5,12 @@
 // If you change or add any fields in this file, update proto_visitors.h and
 // potentially proto_enum_conversions.{h, cc}.
 
+// ---docerion
+// type: source
+// title: Autofill wallet usage sync protobuf
+// summary: Defines the AutofillWalletUsageSpecifics protobuf capturing virtual card usage per merchant, including instrument ID, card last four digits and merchant details.
+// ---
+
 syntax = "proto2";
 
 option java_multiple_files = true;

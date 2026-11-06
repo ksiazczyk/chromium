@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataTypeSyncBridge base implementation
+// summary: Implements default DataTypeSyncBridge behavior such as conflict resolution, capability flags, and handling of failed commit attempts.
+// ---
+
 #include "components/sync/model/data_type_sync_bridge.h"
 
 #include <utility>

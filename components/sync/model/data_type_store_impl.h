@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataTypeStoreImpl class declaration
+// summary: Declares DataTypeStoreImpl, which handles store initialization and threading between the frontend sequence and the blocking LevelDB backend.
+// ---
+
 #ifndef COMPONENTS_SYNC_MODEL_DATA_TYPE_STORE_IMPL_H_
 #define COMPONENTS_SYNC_MODEL_DATA_TYPE_STORE_IMPL_H_
 

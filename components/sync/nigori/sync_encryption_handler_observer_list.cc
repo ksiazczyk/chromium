@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync encryption handler observer list implementation
+// summary: Implements SyncEncryptionHandlerObserverList, which broadcasts sync encryption events such as passphrase, trusted vault key, keystore key, and cryptographer changes to registered observers.
+// ---
+
 #include "components/sync/nigori/sync_encryption_handler_observer_list.h"
 
 #include <algorithm>

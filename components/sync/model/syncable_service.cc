@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncableService implementation
+// summary: Provides default SyncableService method implementations for initial sync, browser shutdown, staying stopped, and client tag support.
+// ---
+
 #include "components/sync/model/syncable_service.h"
 
 namespace syncer {

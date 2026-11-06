@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ClientTagBasedDataTypeProcessor unit tests
+// summary: Unit tests for the client-tag-based data type processor covering activation, commits, remote updates, conflict resolution and error reporting.
+// ---
+
 #include "components/sync/model/client_tag_based_data_type_processor.h"
 
 #include <stddef.h>

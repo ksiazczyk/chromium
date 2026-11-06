@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataTypeStoreBackend class declaration
+// summary: Declares DataTypeStoreBackend, a ref-counted class that performs LevelDB operations for sync data type stores on a single bound sequence.
+// ---
+
 #ifndef COMPONENTS_SYNC_MODEL_DATA_TYPE_STORE_BACKEND_H_
 #define COMPONENTS_SYNC_MODEL_DATA_TYPE_STORE_BACKEND_H_
 

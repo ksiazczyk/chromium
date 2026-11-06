@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sync encryption handler observer list unit tests
+// summary: Unit tests verifying that SyncEncryptionHandlerObserverList notifies observers of passphrase, trusted vault key, keystore key, encrypted types, cryptographer, and passphrase type events.
+// ---
+
 #include "components/sync/nigori/sync_encryption_handler_observer_list.h"
 
 #include <memory>

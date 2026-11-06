@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncMetadataStoreChangeList header
+// summary: Declares a thin wrapper around SyncMetadataStore implementing the MetadataChangeList interface with error callback handling.
+// ---
+
 #ifndef COMPONENTS_SYNC_MODEL_SYNC_METADATA_STORE_CHANGE_LIST_H_
 #define COMPONENTS_SYNC_MODEL_SYNC_METADATA_STORE_CHANGE_LIST_H_
 

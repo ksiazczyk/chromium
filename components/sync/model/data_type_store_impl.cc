@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataTypeStoreImpl implementation
+// summary: Implements DataTypeStore by posting LevelDB operations to a backend task runner and replying on the frontend sequence for sync data type stores.
+// ---
+
 #include "components/sync/model/data_type_store_impl.h"
 
 #include <map>

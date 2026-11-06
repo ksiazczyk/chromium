@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncChange class header
+// summary: Declares the SyncChange class representing an add, update, or delete of a sync entity, used by the SyncableService API.
+// ---
+
 #ifndef COMPONENTS_SYNC_MODEL_SYNC_CHANGE_H_
 #define COMPONENTS_SYNC_MODEL_SYNC_CHANGE_H_
 

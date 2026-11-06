@@ -8,6 +8,12 @@
 // potentially proto_enum_conversions.{h, cc}. If you add new Specifics proto,
 // also update proto_value_conversions.{h, cc}.
 
+// ---docerion
+// type: source
+// title: Sync Client-Server Protocol Definition
+// summary: Defines the core protobuf protocol for communication between the sync client and server, including commits, get updates and client configuration.
+// ---
+
 syntax = "proto2";
 
 option java_multiple_files = true;

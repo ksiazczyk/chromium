@@ -5,6 +5,12 @@
 // If you change or add any fields in this file, update proto_visitors.h and
 // potentially proto_enum_conversions.{h, cc}.
 
+// ---docerion
+// type: source
+// title: History journey sync specifics
+// summary: Defines sync specifics for history journeys, including history entries, collections, and continuation queries.
+// ---
+
 syntax = "proto2";
 
 option java_multiple_files = true;

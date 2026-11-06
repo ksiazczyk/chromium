@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataTypeStoreBase class declaration
+// summary: Declares the base class for LevelDB-based sync storage layers, defining the Record and WriteBatch types used by data type stores.
+// ---
+
 #ifndef COMPONENTS_SYNC_MODEL_DATA_TYPE_STORE_BASE_H_
 #define COMPONENTS_SYNC_MODEL_DATA_TYPE_STORE_BASE_H_
 

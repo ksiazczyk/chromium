@@ -5,6 +5,12 @@
 // If you change or add any fields in this file, update proto_visitors.h and
 // potentially proto_enum_conversions.{h, cc}.
 
+// ---docerion
+// type: source
+// title: Account settings sync specifics
+// summary: Proto definition of AccountSettingSpecifics, the sync data type that carries user account settings as bool, string or int values.
+// ---
+
 syntax = "proto2";
 
 option java_multiple_files = true;

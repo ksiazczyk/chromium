@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AgileSymmetricKey header for agile symmetric encryption
+// summary: Declares the AgileSymmetricKey class, an AEAD-based symmetric key supporting random creation, legacy Nigori wrapping, proto conversion, encryption and decryption.
+// ---
+
 #ifndef COMPONENTS_SYNC_MODEL_CRYPTO_AGILE_SYMMETRIC_KEY_H_
 #define COMPONENTS_SYNC_MODEL_CRYPTO_AGILE_SYMMETRIC_KEY_H_
 

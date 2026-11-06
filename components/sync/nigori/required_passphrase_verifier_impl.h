@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RequiredPassphraseVerifierImpl header
+// summary: Declares RequiredPassphraseVerifierImpl, which validates decryption passphrases and bootstrap tokens against pending encrypted keys.
+// ---
+
 #ifndef COMPONENTS_SYNC_NIGORI_REQUIRED_PASSPHRASE_VERIFIER_IMPL_H_
 #define COMPONENTS_SYNC_NIGORI_REQUIRED_PASSPHRASE_VERIFIER_IMPL_H_
 

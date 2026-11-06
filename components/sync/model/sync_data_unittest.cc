@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SyncData unit tests
+// summary: Unit tests covering SyncData creation for local deletes, local data, and remote data, plus validity and accessor checks.
+// ---
+
 #include "components/sync/model/sync_data.h"
 
 #include <memory>

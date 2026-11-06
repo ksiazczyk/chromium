@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build config for the nigori static library
+summary: Defines the nigori static library sources and its build dependencies for the Chromium GN build system.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AttachmentMetadata implementation
+// summary: Implements the AttachmentMetadata class, converting attachment metadata to and from its protobuf form and estimating memory usage.
+// ---
+
 #include "components/sync/protocol/attachment_metadata.h"
 
 #include <cstddef>

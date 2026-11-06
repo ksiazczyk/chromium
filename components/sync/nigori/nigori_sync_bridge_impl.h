@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NigoriSyncBridgeImpl header
+// summary: Declares NigoriSyncBridgeImpl, the USS implementation of SyncEncryptionHandler that holds Nigori state and serves observers, passphrase, and keystore key operations.
+// ---
+
 #ifndef COMPONENTS_SYNC_NIGORI_NIGORI_SYNC_BRIDGE_IMPL_H_
 #define COMPONENTS_SYNC_NIGORI_NIGORI_SYNC_BRIDGE_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nigori state implementation
+// summary: Implements NigoriState conversions between local proto and NigoriSpecifics, including passphrase type and key derivation parameter handling.
+// ---
+
 #include "components/sync/nigori/nigori_state.h"
 
 #include <cstdint>

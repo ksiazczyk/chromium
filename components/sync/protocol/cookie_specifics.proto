@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cookie Sync Specifics
+// summary: Defines the protobuf message representing a single cookie for the cookie sync datatype, mirroring the fields of net::CanonicalCookie.
+// ---
+
 syntax = "proto2";
 
 option java_multiple_files = true;

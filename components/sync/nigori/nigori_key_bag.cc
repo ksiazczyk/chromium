@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nigori key bag implementation
+// summary: Implements NigoriKeyBag, a set of Nigori keys supporting addition, export, proto conversion, encryption and decryption of sync data.
+// ---
+
 #include "components/sync/nigori/nigori_key_bag.h"
 
 #include <utility>

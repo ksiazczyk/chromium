@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataTypeStoreWithInMemoryCache class header
+// summary: Declares a DataTypeStore wrapper that keeps an in-memory cache of all data for commit-only data types, with explicit instantiations for proto entry types.
+// ---
+
 #ifndef COMPONENTS_SYNC_MODEL_DATA_TYPE_STORE_WITH_IN_MEMORY_CACHE_H_
 #define COMPONENTS_SYNC_MODEL_DATA_TYPE_STORE_WITH_IN_MEMORY_CACHE_H_
 

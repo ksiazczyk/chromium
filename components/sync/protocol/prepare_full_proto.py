@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: script
+# title: Full proto preparation script
+# summary: Python tool that transforms proto files into full-runtime versions by removing LITE_RUNTIME, uncommenting copybara blocks, and rewriting local imports.
+# ---
+
 import os
 import re
 import sys

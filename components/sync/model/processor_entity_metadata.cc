@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Processor entity metadata implementation
+// summary: Implements ProcessorEntityMetadata, including validity checks, sequence number handling, server version tracking, and specifics hash comparisons.
+// ---
+
 #include "components/sync/model/processor_entity_metadata.h"
 
 #include <utility>

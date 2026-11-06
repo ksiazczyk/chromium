@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncChange implementation
+// summary: Implements SyncChange, which pairs a change type such as add, update or delete with SyncData and provides string conversion for logging.
+// ---
+
 #include "components/sync/model/sync_change.h"
 
 #include <ostream>

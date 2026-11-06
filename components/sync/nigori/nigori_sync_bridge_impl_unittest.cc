@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NigoriSyncBridgeImpl unit tests
+// summary: Unit tests for NigoriSyncBridgeImpl covering passphrase handling, keystore keys, cross-user sharing public keys, and Nigori specifics merging.
+// ---
+
 #include "components/sync/nigori/nigori_sync_bridge_impl.h"
 
 #include <utility>

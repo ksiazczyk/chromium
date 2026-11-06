@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataBatch interface for reading entity data
+// summary: Defines the DataBatch interface the processor uses to read storage key and entity data pairs requested from the service.
+// ---
+
 #ifndef COMPONENTS_SYNC_MODEL_DATA_BATCH_H_
 #define COMPONENTS_SYNC_MODEL_DATA_BATCH_H_
 

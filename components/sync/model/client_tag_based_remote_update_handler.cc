@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClientTagBasedRemoteUpdateHandler implementation
+// summary: Implements processing of incremental updates from the sync server, applying entity changes to the bridge and resolving conflicts with pending commits.
+// ---
+
 #include "components/sync/model/client_tag_based_remote_update_handler.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncChangeProcessor interface
+// summary: Defines the interface for services that process incoming lists of sync changes and report model errors.
+// ---
+
 #ifndef COMPONENTS_SYNC_MODEL_SYNC_CHANGE_PROCESSOR_H_
 #define COMPONENTS_SYNC_MODEL_SYNC_CHANGE_PROCESSOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataTypeLocalChangeProcessor interface
+// summary: Declares the interface used by DataTypeSyncBridge to inform sync of local changes, including put, delete, storage key and entity tracking operations.
+// ---
+
 #ifndef COMPONENTS_SYNC_MODEL_DATA_TYPE_LOCAL_CHANGE_PROCESSOR_H_
 #define COMPONENTS_SYNC_MODEL_DATA_TYPE_LOCAL_CHANGE_PROCESSOR_H_
 

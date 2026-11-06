@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrossUserSharingPublicKey implementation
+// summary: Implements import, raw key access and cloning for a 32-byte X25519 cross-user sharing public key.
+// ---
+
 #include "components/sync/nigori/cross_user_sharing_public_key.h"
 
 #include <array>

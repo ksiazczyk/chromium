@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nigori key bag class declaration
+// summary: Declares NigoriKeyBag, a set of Nigori keys (keybag) with methods to add, export, clone, encrypt and decrypt sync data.
+// ---
+
 #ifndef COMPONENTS_SYNC_NIGORI_NIGORI_KEY_BAG_H_
 #define COMPONENTS_SYNC_NIGORI_NIGORI_KEY_BAG_H_
 

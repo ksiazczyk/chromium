@@ -5,6 +5,12 @@
 // If you change or add any fields in this file, update proto_visitors.h and
 // potentially proto_enum_conversions.{h, cc}.
 
+// ---docerion
+// type: source
+// title: Entity metadata sync protobuf
+// summary: Defines the EntityMetadata protobuf storing per-entity sync state such as server ID, commit versions, specifics hashes, and unique positions.
+// ---
+
 syntax = "proto2";
 
 package sync_pb;

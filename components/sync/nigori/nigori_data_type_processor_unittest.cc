@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NigoriDataTypeProcessor unit tests
+// summary: Unit tests exercising NigoriDataTypeProcessor sync connection, commit and update handling, and metadata behavior using a mock sync bridge and commit queue.
+// ---
+
 #include "components/sync/nigori/nigori_data_type_processor.h"
 
 #include <memory>

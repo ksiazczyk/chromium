@@ -8,6 +8,12 @@
 // This descriptor isn't intended to fully describe the schema, just keep track
 // of which major changes have been applied.
 
+// ---docerion
+// type: source
+// title: Data Type Store Schema Descriptor
+// summary: Defines a protobuf that records the schema version of the user-visible sync data type store to track major schema changes.
+// ---
+
 syntax = "proto2";
 
 option java_multiple_files = true;

@@ -7,6 +7,12 @@
 // If you change or add any fields in this file, update proto_visitors.h and
 // potentially proto_enum_conversions.{h, cc}.
 
+// ---docerion
+// type: source
+// title: Sessions Sync Protocol Definition
+// summary: Defines the protobuf schema for the sessions sync datatype, covering session headers, windows, tabs and navigation data across devices.
+// ---
+
 syntax = "proto2";
 
 package sync_pb;

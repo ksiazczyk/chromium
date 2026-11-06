@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nigori storage interface
+// summary: Declares the NigoriStorage interface for atomically storing, restoring and clearing Nigori local data on disk.
+// ---
+
 #ifndef COMPONENTS_SYNC_NIGORI_NIGORI_STORAGE_H_
 #define COMPONENTS_SYNC_NIGORI_NIGORI_STORAGE_H_
 

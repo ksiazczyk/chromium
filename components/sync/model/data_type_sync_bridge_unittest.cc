@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DataTypeSyncBridge unit tests
+// summary: Unit tests for DataTypeSyncBridge defaults, verifying that conflict resolution prefers remote data unless the remote entity is deleted.
+// ---
+
 #include "components/sync/model/data_type_sync_bridge.h"
 
 #include <utility>

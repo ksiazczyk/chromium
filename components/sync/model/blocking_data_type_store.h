@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BlockingDataTypeStore interface
+// summary: Declares BlockingDataTypeStore, a synchronous API for a LevelDB-backed persistence layer with data and metadata read, write and delete operations.
+// ---
+
 #ifndef COMPONENTS_SYNC_MODEL_BLOCKING_DATA_TYPE_STORE_H_
 #define COMPONENTS_SYNC_MODEL_BLOCKING_DATA_TYPE_STORE_H_
 

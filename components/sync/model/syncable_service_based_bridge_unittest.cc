@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SyncableServiceBasedBridge unit tests
+// summary: Unit tests covering the SyncableServiceBasedBridge adapter, including merge, incremental updates, and conflict resolution behavior.
+// ---
+
 #include "components/sync/model/syncable_service_based_bridge.h"
 
 #include <string_view>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark model metadata proto
+// summary: Defines protobuf messages for persisting and loading bookmark sync metadata, including per-bookmark entity metadata, data type state and reupload counters.
+// ---
+
 syntax = "proto2";
 
 package sync_pb;

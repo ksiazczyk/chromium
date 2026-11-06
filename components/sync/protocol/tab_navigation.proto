@@ -5,6 +5,12 @@
 // If you change or add any fields in this file, update proto_visitors.h and
 // potentially proto_enum_conversions.{h, cc}.
 
+// ---docerion
+// type: source
+// title: Tab navigation protobuf message
+// summary: Defines the TabNavigation protobuf describing a navigation with URL, title, transition type, timestamps and deprecated legacy fields.
+// ---
+
 syntax = "proto2";
 
 package sync_pb;

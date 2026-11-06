@@ -7,6 +7,12 @@
 // If you change or add any fields in this file, update proto_visitors.h and
 // potentially proto_enum_conversions.{h, cc}.
 
+// ---docerion
+// type: source
+// title: UniquePosition protobuf representation
+// summary: Defines the protobuf representation of the UniquePosition class used to order sync items lexicographically, with legacy and compressed encodings.
+// ---
+
 syntax = "proto2";
 
 option java_multiple_files = true;

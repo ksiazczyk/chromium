@@ -7,6 +7,12 @@
 // If you change or add any fields in this file, update proto_visitors.h and
 // potentially proto_enum_conversions.{h, cc}.
 
+// ---docerion
+// type: source
+// title: Extension setting sync specifics
+// summary: Defines the protobuf message for syncing extension settings, keyed by extension ID and setting key with a JSON-serialized value.
+// ---
+
 syntax = "proto2";
 
 option java_multiple_files = true;

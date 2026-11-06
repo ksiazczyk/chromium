@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PendingLocalNigoriCommit implementation
+// summary: Implements pending local Nigori changes such as custom passphrase setting, keystore initialization, and cross-user sharing key pair creation or repair.
+// ---
+
 #include "components/sync/nigori/pending_local_nigori_commit.h"
 
 #include <utility>

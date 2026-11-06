@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Agile encryption keys sync proto
+// summary: Proto definition of agile symmetric key messages that wrap legacy Nigori, AES-256-GCM and ChaCha20-Poly1305 keys for sync encryption.
+// ---
+
 syntax = "proto2";
 
 option java_multiple_files = true;

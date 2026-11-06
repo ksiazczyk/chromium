@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync proto to value conversion implementations
+// summary: Implements functions that serialize sync protocol buffer messages into base::Value dictionaries using a field visitor.
+// ---
+
 #include "components/sync/protocol/proto_value_conversions.h"
 
 #include <stdint.h>

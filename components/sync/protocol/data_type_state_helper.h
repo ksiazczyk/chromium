@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data Type State Helper Header
+// summary: Declares syncer helper functions for interpreting DataTypeState initial sync state values.
+// ---
+
 #ifndef COMPONENTS_SYNC_PROTOCOL_DATA_TYPE_STATE_HELPER_H_
 #define COMPONENTS_SYNC_PROTOCOL_DATA_TYPE_STATE_HELPER_H_
 

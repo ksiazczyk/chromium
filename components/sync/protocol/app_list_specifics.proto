@@ -7,6 +7,12 @@
 // If you change or add any fields in this file, update proto_visitors.h and
 // potentially proto_enum_conversions.{h, cc}.
 
+// ---docerion
+// type: source
+// title: App list sync specifics
+// summary: Proto definition of AppListSpecifics, the sync data type for app launcher items such as apps, folders, page breaks and icon colors.
+// ---
+
 syntax = "proto2";
 
 option java_multiple_files = true;

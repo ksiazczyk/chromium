@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataTypeActivationRequest struct declaration
+// summary: Declares the state passed from DataTypeController to the delegate during data type activation, including error handler, account and sync mode.
+// ---
+
 #ifndef COMPONENTS_SYNC_MODEL_DATA_TYPE_ACTIVATION_REQUEST_H_
 #define COMPONENTS_SYNC_MODEL_DATA_TYPE_ACTIVATION_REQUEST_H_
 

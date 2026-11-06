@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Model error class and error type enum
+// summary: Declares the ModelError object and an enum of per-datatype sync error types whose numeric values are persisted to logs via enums.xml.
+// ---
+
 #ifndef COMPONENTS_SYNC_MODEL_MODEL_ERROR_H_
 #define COMPONENTS_SYNC_MODEL_MODEL_ERROR_H_
 

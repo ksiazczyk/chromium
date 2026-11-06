@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ForwardingDataTypeControllerDelegate implementation
+// summary: Implements a DataTypeControllerDelegate that forwards sync lifecycle, debugging and histogram calls to another delegate without task posting.
+// ---
+
 #include "components/sync/model/forwarding_data_type_controller_delegate.h"
 
 #include <utility>

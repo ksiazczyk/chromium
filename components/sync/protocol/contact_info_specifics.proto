@@ -5,6 +5,12 @@
 // If you change or add any fields in this file, update proto_visitors.h and
 // potentially proto_enum_conversions.{h, cc}.
 
+// ---docerion
+// type: source
+// title: Contact info specifics proto
+// summary: Defines the sync datatype for contact info profiles, including address fields, verification statuses and token quality observations.
+// ---
+
 syntax = "proto2";
 
 option java_multiple_files = true;

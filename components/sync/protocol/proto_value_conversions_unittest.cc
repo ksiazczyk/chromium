@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Proto value conversions unit tests
+// summary: Unit tests verifying that each sync data type specifics message converts to a base::Value with the expected structure.
+// ---
+
 #include "components/sync/protocol/proto_value_conversions.h"
 
 #include <memory>

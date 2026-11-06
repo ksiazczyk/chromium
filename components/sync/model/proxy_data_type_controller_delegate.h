@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProxyDataTypeControllerDelegate class declaration
+// summary: Declares a DataTypeControllerDelegate implementation that forwards calls via posted tasks to a delegate on a different sequence, typically from the UI thread.
+// ---
+
 #ifndef COMPONENTS_SYNC_MODEL_PROXY_DATA_TYPE_CONTROLLER_DELEGATE_H_
 #define COMPONENTS_SYNC_MODEL_PROXY_DATA_TYPE_CONTROLLER_DELEGATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EntityChange implementation
+// summary: Implements factory methods of the EntityChange class that create add, update and delete changes for sync entities, including deleted collaboration membership changes.
+// ---
+
 #include "components/sync/model/entity_change.h"
 
 #include <utility>

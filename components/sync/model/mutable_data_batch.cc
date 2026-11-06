@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mutable data batch implementation
+// summary: Implements MutableDataBatch, storing storage key and EntityData pairs and returning them in insertion order through HasNext and Next.
+// ---
+
 #include "components/sync/model/mutable_data_batch.h"
 
 #include "base/check.h"

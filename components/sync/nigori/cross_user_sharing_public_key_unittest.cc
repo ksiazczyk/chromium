@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CrossUserSharingPublicKey unit tests
+// summary: Tests public key import validation for wrong lengths, raw key retrieval and cloning behavior.
+// ---
+
 #include "components/sync/nigori/cross_user_sharing_public_key.h"
 
 #include <vector>

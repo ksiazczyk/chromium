@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClientTagBasedDataTypeProcessor implementation
+// summary: Implements the client-tag-based data type processor that tracks entity metadata and coordinates commits and updates between the sync and model sequences.
+// ---
+
 #include "components/sync/model/client_tag_based_data_type_processor.h"
 
 #include <optional>

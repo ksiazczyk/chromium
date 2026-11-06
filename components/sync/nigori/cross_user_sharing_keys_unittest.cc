@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CrossUserSharingKeys unit tests
+// summary: Tests creation, proto round-trips, handling of malformed protos, cloning and key-pair management of CrossUserSharingKeys.
+// ---
+
 #include "components/sync/nigori/cross_user_sharing_keys.h"
 
 #include <vector>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InMemoryMetadataChangeList unit tests
+// summary: Unit tests verifying that InMemoryMetadataChangeList correctly transfers, drops and overrides data type state and per-entity metadata changes.
+// ---
+
 #include "components/sync/model/in_memory_metadata_change_list.h"
 
 #include "base/test/protobuf_matchers.h"

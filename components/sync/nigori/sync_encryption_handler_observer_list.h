@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync encryption handler observer list header
+// summary: Declares SyncEncryptionHandlerObserverList, a helper wrapper that broadcasts sync encryption status updates to registered observers while bypassing Observer inheritance clashes.
+// ---
+
 #ifndef COMPONENTS_SYNC_NIGORI_SYNC_ENCRYPTION_HANDLER_OBSERVER_LIST_H_
 #define COMPONENTS_SYNC_NIGORI_SYNC_ENCRYPTION_HANDLER_OBSERVER_LIST_H_
 

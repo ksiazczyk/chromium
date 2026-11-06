@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InMemoryMetadataChangeList implementation
+// summary: Implements an in-memory MetadataChangeList that records metadata and data type state changes and can transfer them to another list or drop them.
+// ---
+
 #include "components/sync/model/in_memory_metadata_change_list.h"
 
 #include <memory>

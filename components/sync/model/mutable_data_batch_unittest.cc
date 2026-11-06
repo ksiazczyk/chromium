@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mutable data batch unit tests
+// summary: Unit tests covering Put, HasNext, and Next behavior of MutableDataBatch, including interleaved puts and reuse of the same storage key.
+// ---
+
 #include "components/sync/model/mutable_data_batch.h"
 
 #include "base/memory/ptr_util.h"
