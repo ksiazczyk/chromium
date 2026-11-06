@@ -2,6 +2,12 @@
 /// Use of this source code is governed by a BSD-style license that can be
 /// found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Invalid credentials view controller interface
+// summary: Declares a table view controller that lists credential errors encountered during data import.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DATA_IMPORT_UI_DATA_IMPORT_INVALID_CREDENTIALS_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_DATA_IMPORT_UI_DATA_IMPORT_INVALID_CREDENTIALS_VIEW_CONTROLLER_H_
 

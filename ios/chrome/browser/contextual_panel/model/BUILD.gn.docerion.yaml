@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for contextual panel model
+summary: Defines GN source sets for the contextual panel model implementation, public headers and unit tests with their dependencies.

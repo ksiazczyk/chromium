@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credential Provider Promo Mediator interface
+// summary: Declares the mediator that manages the credential provider promo state, checks display conditions and registers the promo with the PromosManager.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CREDENTIAL_PROVIDER_PROMO_UI_BUNDLED_CREDENTIAL_PROVIDER_PROMO_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_CREDENTIAL_PROVIDER_PROMO_UI_BUNDLED_CREDENTIAL_PROVIDER_PROMO_MEDIATOR_H_
 

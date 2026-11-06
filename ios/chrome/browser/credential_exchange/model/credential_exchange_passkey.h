@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CredentialExchangePasskey interface
+// summary: Declares the Objective-C data model for a passkey credential exchanged with the OS Credential Exchange library.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CREDENTIAL_EXCHANGE_MODEL_CREDENTIAL_EXCHANGE_PASSKEY_H_
 #define IOS_CHROME_BROWSER_CREDENTIAL_EXCHANGE_MODEL_CREDENTIAL_EXCHANGE_PASSKEY_H_
 

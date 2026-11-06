@@ -1,0 +1,4 @@
+# Docerion header of sample_panel_model_unittest.mm.
+type: test
+title: SamplePanelModel unit tests
+summary: Unit tests verifying that SamplePanelModel returns the expected sample configuration for regular web states and nothing on the new tab page.

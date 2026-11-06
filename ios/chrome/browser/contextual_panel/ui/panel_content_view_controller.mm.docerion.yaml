@@ -1,0 +1,4 @@
+# Docerion header of panel_content_view_controller.mm.
+type: source
+title: PanelContentViewController implementation
+summary: Implements the Contextual Panel content UI with a collection view, close button, drag handle, and visibility time metrics.

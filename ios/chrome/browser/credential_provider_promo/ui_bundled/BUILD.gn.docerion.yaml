@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Credential provider promo build configuration
+summary: Defines coordinator, UI, and unit test source sets with their dependencies and frameworks for the iOS credential provider promo.

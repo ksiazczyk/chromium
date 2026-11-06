@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data sharing service factory header
+// summary: Declares the profile-keyed factory that creates DataSharingService instances on iOS and exposes a default testing factory.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DATA_SHARING_MODEL_DATA_SHARING_SERVICE_FACTORY_H_
 #define IOS_CHROME_BROWSER_DATA_SHARING_MODEL_DATA_SHARING_SERVICE_FACTORY_H_
 

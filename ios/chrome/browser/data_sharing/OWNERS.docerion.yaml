@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Data sharing OWNERS file
+summary: Delegates code review ownership of this directory to the owners listed in components/data_sharing/OWNERS.

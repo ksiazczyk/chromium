@@ -1,0 +1,4 @@
+# Docerion header of sample_panel_model_factory.mm.
+type: source
+title: SamplePanelModelFactory implementation
+summary: Implements SamplePanelModelFactory, building a new SamplePanelModel instance for each profile.

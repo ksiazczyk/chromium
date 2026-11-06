@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Credential provider model build configuration
+summary: Defines GN build targets, buildflags and dependencies for the iOS credential provider model sources and unit tests.

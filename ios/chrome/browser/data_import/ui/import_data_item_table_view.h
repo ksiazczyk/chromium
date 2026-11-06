@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Import data item table view interface
+// summary: Declares a self-sizing table view that displays and tracks import data items during import.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DATA_IMPORT_UI_IMPORT_DATA_ITEM_TABLE_VIEW_H_
 #define IOS_CHROME_BROWSER_DATA_IMPORT_UI_IMPORT_DATA_ITEM_TABLE_VIEW_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of crash_loop_detection_util.mm.
+type: source
+title: Crash loop detection utility implementation
+summary: Implements failed startup attempt counting persisted in NSUserDefaults so crashes during startup can be detected as a crash loop.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS data sharing SDK delegate header
+// summary: Declares DataSharingSDKDelegateIOS, which gives the data sharing service access to group operations through the ShareKit service.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DATA_SHARING_MODEL_DATA_SHARING_SDK_DELEGATE_IOS_H_
 #define IOS_CHROME_BROWSER_DATA_SHARING_MODEL_DATA_SHARING_SDK_DELEGATE_IOS_H_
 

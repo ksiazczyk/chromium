@@ -1,0 +1,4 @@
+# Docerion header of contextual_panel_item_configuration.mm.
+type: source
+title: Contextual panel item configuration implementation
+summary: Defines relevance constants and checks for showing large entrypoints and entrypoint in-product help.

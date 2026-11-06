@@ -1,0 +1,4 @@
+# Docerion header of breadcrumb_manager_tab_helper_unittest.mm.
+type: test
+title: Breadcrumb manager tab helper unit tests
+summary: Unit tests verifying that the tab helper logs events to the breadcrumb manager and assigns unique identifiers per WebState.

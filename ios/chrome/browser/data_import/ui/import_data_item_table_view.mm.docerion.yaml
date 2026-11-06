@@ -1,0 +1,4 @@
+# Docerion header of import_data_item_table_view.mm.
+type: source
+title: Import data item table view implementation
+summary: Implements the import data screen table with icons, counts and states for each import item type.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Data import UI build configuration
+summary: Defines GN source sets and dependencies for the data import UI, credential cell configuration, and UI utils targets.

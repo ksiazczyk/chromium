@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Contextual panel entrypoint UI dependency rules
+summary: Lists the allowed includes for files in the contextual panel entrypoint UI directory.

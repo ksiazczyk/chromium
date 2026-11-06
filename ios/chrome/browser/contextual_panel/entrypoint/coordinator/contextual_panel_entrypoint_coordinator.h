@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual Panel Entrypoint coordinator interface
+// summary: Declares the ContextualPanelEntrypointCoordinator, a ChromeCoordinator that handles entrypoint commands and exposes its view controller and delegates.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTEXTUAL_PANEL_ENTRYPOINT_COORDINATOR_CONTEXTUAL_PANEL_ENTRYPOINT_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_CONTEXTUAL_PANEL_ENTRYPOINT_COORDINATOR_CONTEXTUAL_PANEL_ENTRYPOINT_COORDINATOR_H_
 

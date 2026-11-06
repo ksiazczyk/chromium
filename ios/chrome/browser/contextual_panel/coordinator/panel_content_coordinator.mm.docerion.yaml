@@ -1,0 +1,4 @@
+# Docerion header of panel_content_coordinator.mm.
+type: source
+title: Panel content coordinator implementation
+summary: Implements the panel content coordinator, building modulators and a mediator from cached item configurations.

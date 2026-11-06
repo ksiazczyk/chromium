@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CredentialExportViewController interface
+// summary: Declares the table view controller that lets users select credentials for export, with presentation delegate and favicon provider properties.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CREDENTIAL_EXCHANGE_UI_CREDENTIAL_EXPORT_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_CREDENTIAL_EXCHANGE_UI_CREDENTIAL_EXPORT_VIEW_CONTROLLER_H_
 

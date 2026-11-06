@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ApplicationBreadcrumbsLogger class header
+// summary: Declares the iOS application breadcrumbs logger that records application-wide events such as device orientation changes.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CRASH_REPORT_MODEL_BREADCRUMBS_APPLICATION_BREADCRUMBS_LOGGER_H_
 #define IOS_CHROME_BROWSER_CRASH_REPORT_MODEL_BREADCRUMBS_APPLICATION_BREADCRUMBS_LOGGER_H_
 

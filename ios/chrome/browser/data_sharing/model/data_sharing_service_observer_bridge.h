@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data sharing service observer bridge header
+// summary: Declares an Objective-C delegate protocol and a C++ bridge that forwards DataSharingService observer events to it.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DATA_SHARING_MODEL_DATA_SHARING_SERVICE_OBSERVER_BRIDGE_H_
 #define IOS_CHROME_BROWSER_DATA_SHARING_MODEL_DATA_SHARING_SERVICE_OBSERVER_BRIDGE_H_
 

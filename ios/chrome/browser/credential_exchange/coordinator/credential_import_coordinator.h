@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CredentialImportCoordinator interface
+// summary: Declares the CredentialImportCoordinator class and its delegate protocol for driving the import flow using an OS-provided UUID token.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CREDENTIAL_EXCHANGE_COORDINATOR_CREDENTIAL_IMPORT_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_CREDENTIAL_EXCHANGE_COORDINATOR_CREDENTIAL_IMPORT_COORDINATOR_H_
 

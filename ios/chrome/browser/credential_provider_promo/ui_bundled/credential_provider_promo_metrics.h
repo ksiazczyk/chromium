@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Credential Provider Promo metrics interface
+// summary: Declares histogram names, the promo action enum and functions to record impression and action metrics for the credential provider promo.
+// ---
+
 #import "ios/chrome/browser/credential_provider_promo/ui_bundled/credential_provider_promo_constants.h"
 
 #ifndef IOS_CHROME_BROWSER_CREDENTIAL_PROVIDER_PROMO_UI_BUNDLED_CREDENTIAL_PROVIDER_PROMO_METRICS_H_

@@ -1,0 +1,4 @@
+# Docerion header of crash_loop_detection_util_unittest.mm.
+type: test
+title: Crash loop detection utility unit tests
+summary: Unit tests verifying the failed startup attempt count used for crash loop detection, covering increment, reset and full cycle behavior.

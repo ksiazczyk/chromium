@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for crash report model
+summary: Defines source sets, unit test, and crashpad fuzzer targets for the iOS crash report model, listing sources and dependencies.

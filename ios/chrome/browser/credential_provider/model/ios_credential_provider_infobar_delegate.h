@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credential provider infobar delegate header
+// summary: Declares the confirm infobar delegate shown after a passkey is saved to an account, with an action to open passkey details in settings.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CREDENTIAL_PROVIDER_MODEL_IOS_CREDENTIAL_PROVIDER_INFOBAR_DELEGATE_H_
 #define IOS_CHROME_BROWSER_CREDENTIAL_PROVIDER_MODEL_IOS_CREDENTIAL_PROVIDER_INFOBAR_DELEGATE_H_
 

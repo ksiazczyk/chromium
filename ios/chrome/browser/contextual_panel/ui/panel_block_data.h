@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Panel block data header
+// summary: Declares PanelBlockData, which pairs a block type with a cell registration for displaying an info block in the panel UI.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTEXTUAL_PANEL_UI_PANEL_BLOCK_DATA_H_
 #define IOS_CHROME_BROWSER_CONTEXTUAL_PANEL_UI_PANEL_BLOCK_DATA_H_
 

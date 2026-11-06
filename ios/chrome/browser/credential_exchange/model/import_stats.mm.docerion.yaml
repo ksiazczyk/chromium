@@ -1,0 +1,4 @@
+# Docerion header of import_stats.mm.
+type: source
+title: ImportStats implementation
+summary: Implements the ImportStats class that stores per-type credential counts received during import.

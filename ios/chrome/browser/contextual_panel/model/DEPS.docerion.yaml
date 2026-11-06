@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for contextual panel model
+summary: Declares allowed include rules, permitting imports from the iOS price insights model directory.

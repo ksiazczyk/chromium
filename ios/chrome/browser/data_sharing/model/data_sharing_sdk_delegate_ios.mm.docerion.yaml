@@ -1,0 +1,4 @@
+# Docerion header of data_sharing_sdk_delegate_ios.mm.
+type: source
+title: iOS data sharing SDK delegate implementation
+summary: Implements DataSharingSDKDelegateIOS by forwarding read, leave, delete, and lookup calls to ShareKitService configurations.

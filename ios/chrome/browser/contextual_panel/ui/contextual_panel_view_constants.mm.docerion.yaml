@@ -1,0 +1,4 @@
+# Docerion header of contextual_panel_view_constants.mm.
+type: source
+title: Contextual panel view constants implementation
+summary: Defines the panel content gesture recognizer name constant declared in the matching header.

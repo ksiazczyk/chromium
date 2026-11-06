@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Panel block modulator base class header
+// summary: Declares PanelBlockModulator, the base class for modulators that display Contextual Panel info blocks.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTEXTUAL_PANEL_COORDINATOR_PANEL_BLOCK_MODULATOR_H_
 #define IOS_CHROME_BROWSER_CONTEXTUAL_PANEL_COORDINATOR_PANEL_BLOCK_MODULATOR_H_
 

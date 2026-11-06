@@ -1,0 +1,4 @@
+# Docerion header of crash_reporter_url_observer.mm.
+type: source
+title: Crash reporter URL observer implementation
+summary: Implements the URL observer that writes loaded and pending URLs into crash keys and syncs the first URL with PreviousSessionInfo.

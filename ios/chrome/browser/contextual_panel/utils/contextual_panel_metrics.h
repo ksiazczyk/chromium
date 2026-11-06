@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual panel metrics enums
+// summary: Header defining enums for Contextual Panel UMA histograms covering model relevance, info block impressions, dismissal reasons, entrypoint interactions, and IPH dismissal reasons.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTEXTUAL_PANEL_UTILS_CONTEXTUAL_PANEL_METRICS_H_
 #define IOS_CHROME_BROWSER_CONTEXTUAL_PANEL_UTILS_CONTEXTUAL_PANEL_METRICS_H_
 

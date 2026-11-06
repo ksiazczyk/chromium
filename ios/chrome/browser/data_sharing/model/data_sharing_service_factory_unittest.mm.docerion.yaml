@@ -1,0 +1,4 @@
+# Docerion header of data_sharing_service_factory_unittest.mm.
+type: test
+title: Data sharing service factory unit tests
+summary: Verifies that the factory returns a real service when the feature is enabled and an empty service when disabled or in incognito.

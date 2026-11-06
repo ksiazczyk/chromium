@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Contextual panel coordinator BUILD.gn build targets
+summary: Defines the GN source sets and dependencies for the contextual panel coordinator and its public panel block modulator targets.

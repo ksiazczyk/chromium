@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS share URL interception context declaration
+// summary: Declares the iOS-specific ShareURLInterceptionContext struct that holds a weak pointer to the browser so intercepted share URLs can be opened in the correct window.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DATA_SHARING_MODEL_IOS_SHARE_URL_INTERCEPTION_CONTEXT_H_
 #define IOS_CHROME_BROWSER_DATA_SHARING_MODEL_IOS_SHARE_URL_INTERCEPTION_CONTEXT_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the Contextual Panel entrypoint coordinator
+summary: Defines GN source sets for the coordinator, constants, and unit tests of the Contextual Panel entrypoint, listing their sources and dependencies.

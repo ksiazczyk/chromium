@@ -1,0 +1,4 @@
+# Docerion header of features.mm.
+type: source
+title: Credential provider feature flag definitions
+summary: Defines the credential provider passkey Large Blob and refactored AddCredentials features with their default enabled or disabled states.

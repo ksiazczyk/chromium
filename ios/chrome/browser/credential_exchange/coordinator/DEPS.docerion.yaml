@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the credential exchange coordinator
+summary: Lists the allowed dependency include rules for code in the credential exchange coordinator directory.

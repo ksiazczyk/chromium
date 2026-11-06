@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Credential provider test utility functions
+// summary: Declares test helpers that set the favicon folder URL and adjust or reset the maximum number of stored favicons in tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CREDENTIAL_PROVIDER_MODEL_CREDENTIAL_PROVIDER_TEST_UTIL_H_
 #define IOS_CHROME_BROWSER_CREDENTIAL_PROVIDER_MODEL_CREDENTIAL_PROVIDER_TEST_UTIL_H_
 

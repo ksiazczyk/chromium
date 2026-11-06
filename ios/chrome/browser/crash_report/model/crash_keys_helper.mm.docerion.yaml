@@ -1,0 +1,4 @@
+# Docerion header of crash_keys_helper.mm.
+type: source
+title: Crash keys helper implementation
+summary: Implements crash key helpers with boolean, integer, and counter key classes that sync values to crashpad and previous session info.

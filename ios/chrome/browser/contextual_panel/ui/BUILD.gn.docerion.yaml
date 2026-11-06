@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the contextual panel UI
+summary: Defines GN source sets for the contextual panel UI implementation, public constants and cells, and Earl Grey EG2 tests with their dependencies.

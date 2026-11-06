@@ -1,0 +1,4 @@
+# Docerion header of metrics_util.mm.
+type: source
+title: Import metrics utility implementation
+summary: Logs received credential counts to IOS.CredentialExchange.CredentialsReceivedCount histograms for each credential data type.

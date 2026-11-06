@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crash helper interface
+// summary: Declares the crash_helper namespace API for starting crash handlers, uploading pending reports, and managing recovery-mode uploads.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CRASH_REPORT_MODEL_CRASH_HELPER_H_
 #define IOS_CHROME_BROWSER_CRASH_REPORT_MODEL_CRASH_HELPER_H_
 

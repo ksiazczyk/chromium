@@ -1,0 +1,4 @@
+# Docerion header of crash_reporter_breadcrumb_observer_unittest.mm.
+type: test
+title: Crash reporter breadcrumb observer unit tests
+summary: Unit tests verifying that breadcrumb events from BreadcrumbManagerKeyedService are attached to crash reports and truncated at the maximum data length.

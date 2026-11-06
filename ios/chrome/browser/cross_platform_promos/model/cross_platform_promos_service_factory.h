@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrossPlatformPromosServiceFactory header
+// summary: Declares a profile-keyed service factory that owns CrossPlatformPromosService instances and associates them with iOS Chrome profiles.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CROSS_PLATFORM_PROMOS_MODEL_CROSS_PLATFORM_PROMOS_SERVICE_FACTORY_H_
 #define IOS_CHROME_BROWSER_CROSS_PLATFORM_PROMOS_MODEL_CROSS_PLATFORM_PROMOS_SERVICE_FACTORY_H_
 

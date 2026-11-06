@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CredentialImporter interface for credential exchange import
+// summary: Declares the CredentialImporter class and its delegate protocol for importing passwords and passkeys via the FIDO Credential Exchange Format on iOS.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CREDENTIAL_EXCHANGE_MODEL_CREDENTIAL_IMPORTER_H_
 #define IOS_CHROME_BROWSER_CREDENTIAL_EXCHANGE_MODEL_CREDENTIAL_IMPORTER_H_
 

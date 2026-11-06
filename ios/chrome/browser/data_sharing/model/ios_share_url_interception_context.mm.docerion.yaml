@@ -1,0 +1,4 @@
+# Docerion header of ios_share_url_interception_context.mm.
+type: source
+title: iOS share URL interception context implementation
+summary: Implements the IOSShareURLInterceptionContext constructor and destructor, storing a weak pointer to the browser used for share URL interception.

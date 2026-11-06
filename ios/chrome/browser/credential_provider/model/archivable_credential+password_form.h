@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArchivableCredential PasswordForm category header
+// summary: Declares a category on ArchivableCredential for converting between credentials and password forms.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CREDENTIAL_PROVIDER_MODEL_ARCHIVABLE_CREDENTIAL_PASSWORD_FORM_H_
 #define IOS_CHROME_BROWSER_CREDENTIAL_PROVIDER_MODEL_ARCHIVABLE_CREDENTIAL_PASSWORD_FORM_H_
 

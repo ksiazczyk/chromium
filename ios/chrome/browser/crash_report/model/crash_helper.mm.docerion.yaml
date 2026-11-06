@@ -1,0 +1,4 @@
+# Docerion header of crash_helper.mm.
+type: source
+title: Crash helper implementation
+summary: Implements iOS crash handling with upload kill switches, intermediate dump processing, safe mode report handling, and freeze detector cache cleanup.

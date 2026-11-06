@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the iOS data sharing model
+summary: Restricts the dependencies that files in the iOS data sharing model directory are allowed to include.

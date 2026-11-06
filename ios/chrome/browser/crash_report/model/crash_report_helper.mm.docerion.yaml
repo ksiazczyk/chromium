@@ -1,0 +1,4 @@
+# Docerion header of crash_report_helper.mm.
+type: source
+title: Crash report helper implementation
+summary: Implements a tab state observer that records loaded URLs and PDF document usage into crash keys for inclusion in crash reports.

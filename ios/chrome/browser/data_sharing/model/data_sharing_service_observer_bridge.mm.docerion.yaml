@@ -1,0 +1,4 @@
+# Docerion header of data_sharing_service_observer_bridge.mm.
+type: source
+title: Data sharing service observer bridge implementation
+summary: Forwards data sharing service observer callbacks such as group changes and destruction to the Objective-C delegate.

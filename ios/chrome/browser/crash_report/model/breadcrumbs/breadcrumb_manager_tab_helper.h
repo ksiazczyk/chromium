@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Breadcrumb manager tab helper
+// summary: Declares a WebState tab helper that logs breadcrumb events for a tab, including navigation, page load, security state and scroll events.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CRASH_REPORT_MODEL_BREADCRUMBS_BREADCRUMB_MANAGER_TAB_HELPER_H_
 #define IOS_CHROME_BROWSER_CRASH_REPORT_MODEL_BREADCRUMBS_BREADCRUMB_MANAGER_TAB_HELPER_H_
 

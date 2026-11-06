@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for credential exchange coordinators
+summary: Defines the import_coordinator and export_coordinator source sets with their sources, dependencies, and frameworks for the credential exchange flow.

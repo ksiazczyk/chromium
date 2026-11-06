@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for iOS breadcrumbs sources and tests
+summary: Defines GN source sets for the breadcrumbs browser agent, tab helper, keyed service factory, application logger, and their unit tests.

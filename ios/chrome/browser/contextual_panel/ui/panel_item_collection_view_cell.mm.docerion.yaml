@@ -1,0 +1,4 @@
+# Docerion header of panel_item_collection_view_cell.mm.
+type: source
+title: PanelItemCollectionViewCell implementation
+summary: Implements the panel item cell, recording its appearance time to report the elapsed time since it appeared.

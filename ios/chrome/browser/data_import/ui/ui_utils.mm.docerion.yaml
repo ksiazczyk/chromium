@@ -1,0 +1,4 @@
+# Docerion header of ui_utils.mm.
+type: source
+title: Data import UI utils implementation
+summary: Returns separator insets for data import table views depending on multi-selection mode.

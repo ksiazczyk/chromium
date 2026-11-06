@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Import stage transition handler protocol
+// summary: Declares a consumer protocol for advancing to the next import stage and resetting the flow for reasons like user cancellation or blocked data.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DATA_IMPORT_UI_DATA_IMPORT_IMPORT_STAGE_TRANSITION_HANDLER_H_
 #define IOS_CHROME_BROWSER_DATA_IMPORT_UI_DATA_IMPORT_IMPORT_STAGE_TRANSITION_HANDLER_H_
 

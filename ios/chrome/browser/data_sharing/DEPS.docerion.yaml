@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Data sharing DEPS include rules
+summary: Defines include dependencies for the data_sharing directory, allowing includes from components/data_sharing.

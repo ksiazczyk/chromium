@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Migratable sync service coordinator factory header
+// summary: Declares MigratableSyncServiceCoordinatorFactory, a typed profile-keyed service factory for MigratableSyncServiceCoordinator on iOS.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DATA_SHARING_MODEL_MIGRATION_MIGRATABLE_SYNC_SERVICE_COORDINATOR_FACTORY_H_
 #define IOS_CHROME_BROWSER_DATA_SHARING_MODEL_MIGRATION_MIGRATABLE_SYNC_SERVICE_COORDINATOR_FACTORY_H_
 

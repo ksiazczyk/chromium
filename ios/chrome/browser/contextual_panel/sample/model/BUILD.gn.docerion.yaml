@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Sample panel model BUILD.gn
+summary: Defines GN build targets for the sample contextual panel model sources and its unit tests with their dependencies.

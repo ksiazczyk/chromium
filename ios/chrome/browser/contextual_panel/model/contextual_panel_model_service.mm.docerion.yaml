@@ -1,0 +1,4 @@
+# Docerion header of contextual_panel_model_service.mm.
+type: source
+title: Contextual panel model service implementation
+summary: Implements the contextual panel model service, storing the model map and clearing it on shutdown.

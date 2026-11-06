@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CredentialImportManager Swift import handler
+// summary: Imports credentials through ASCredentialImportManager and translates them into exchange model objects with import stats.
+// ---
+
 import AuthenticationServices
 import Foundation
 

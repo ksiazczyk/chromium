@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credential conflict resolution view controller delegate protocol
+// summary: Declares a delegate protocol handling cancellation and completion of the credential conflict resolution screen.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DATA_IMPORT_UI_DATA_IMPORT_CREDENTIAL_CONFLICT_RESOLUTION_VIEW_CONTROLLER_DELEGATE_H_
 #define IOS_CHROME_BROWSER_DATA_IMPORT_UI_DATA_IMPORT_CREDENTIAL_CONFLICT_RESOLUTION_VIEW_CONTROLLER_DELEGATE_H_
 

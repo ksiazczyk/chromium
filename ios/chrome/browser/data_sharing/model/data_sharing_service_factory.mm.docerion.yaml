@@ -1,0 +1,4 @@
+# Docerion header of data_sharing_service_factory.mm.
+type: source
+title: Data sharing service factory implementation
+summary: Builds a real or empty data sharing service depending on feature flags, incognito state, and tests hooks.

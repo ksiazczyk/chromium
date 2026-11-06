@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for personal collaboration data
+summary: Defines the GN source_set for the personal collaboration data service factory, listing its sources, dependencies and the Foundation framework.

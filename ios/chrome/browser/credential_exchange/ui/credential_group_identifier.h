@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CredentialGroupIdentifier interface
+// summary: Declares a stable identifier wrapper around an affiliated credential group for use with a diffable table view data source.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CREDENTIAL_EXCHANGE_UI_CREDENTIAL_GROUP_IDENTIFIER_H_
 #define IOS_CHROME_BROWSER_CREDENTIAL_EXCHANGE_UI_CREDENTIAL_GROUP_IDENTIFIER_H_
 

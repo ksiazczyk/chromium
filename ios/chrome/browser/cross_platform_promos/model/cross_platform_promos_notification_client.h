@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrossPlatformPromosNotificationClient class declaration
+// summary: Declares a push notification client that recognizes and handles cross-platform promo notifications.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CROSS_PLATFORM_PROMOS_MODEL_CROSS_PLATFORM_PROMOS_NOTIFICATION_CLIENT_H_
 #define IOS_CHROME_BROWSER_CROSS_PLATFORM_PROMOS_MODEL_CROSS_PLATFORM_PROMOS_NOTIFICATION_CLIENT_H_
 

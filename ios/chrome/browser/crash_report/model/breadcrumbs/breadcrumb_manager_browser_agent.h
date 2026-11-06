@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BreadcrumbManagerBrowserAgent class header
+// summary: Declares the browser agent that logs browser-level breadcrumb events such as overlay presentations and web state list changes.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CRASH_REPORT_MODEL_BREADCRUMBS_BREADCRUMB_MANAGER_BROWSER_AGENT_H_
 #define IOS_CHROME_BROWSER_CRASH_REPORT_MODEL_BREADCRUMBS_BREADCRUMB_MANAGER_BROWSER_AGENT_H_
 

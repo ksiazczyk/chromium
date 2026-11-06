@@ -2,6 +2,12 @@
 /// Use of this source code is governed by a BSD-style license that can be
 /// found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credential conflict resolution view controller interface
+// summary: Declares a table view controller that lists credential import conflicts and lets the user resolve them before continuing.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DATA_IMPORT_UI_DATA_IMPORT_CREDENTIAL_CONFLICT_RESOLUTION_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_DATA_IMPORT_UI_DATA_IMPORT_CREDENTIAL_CONFLICT_RESOLUTION_VIEW_CONTROLLER_H_
 

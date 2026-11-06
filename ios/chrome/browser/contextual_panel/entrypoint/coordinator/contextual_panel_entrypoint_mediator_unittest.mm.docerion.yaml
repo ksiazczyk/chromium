@@ -1,0 +1,4 @@
+# Docerion header of contextual_panel_entrypoint_mediator_unittest.mm.
+type: test
+title: Contextual Panel Entrypoint mediator unit tests
+summary: Unit tests for the entrypoint mediator using fake consumers, delegates, and feature engagement trackers to verify entrypoint behavior and metrics.

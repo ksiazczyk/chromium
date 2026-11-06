@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crash keys helper interface
+// summary: Declares functions that set crash keys recording app state such as background status, memory warnings, tab counts, and device orientation.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CRASH_REPORT_MODEL_CRASH_KEYS_HELPER_H_
 #define IOS_CHROME_BROWSER_CRASH_REPORT_MODEL_CRASH_KEYS_HELPER_H_
 

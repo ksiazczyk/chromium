@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credential import consumer protocol
+// summary: Declares the consumer protocol that feeds the import UI with the import data item, signed-in user email, exporter display name, and import stage transitions.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CREDENTIAL_EXCHANGE_UI_CREDENTIAL_IMPORT_CONSUMER_H_
 #define IOS_CHROME_BROWSER_CREDENTIAL_EXCHANGE_UI_CREDENTIAL_IMPORT_CONSUMER_H_
 

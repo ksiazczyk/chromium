@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Contextual panel utils build target
+summary: GN build file defining the utils source set that contains the contextual panel metrics header and depends on //base.

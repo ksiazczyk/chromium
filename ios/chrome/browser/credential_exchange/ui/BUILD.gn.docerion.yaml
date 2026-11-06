@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for credential exchange UI
+summary: Defines the source sets, dependencies and unit test target for the credential exchange UI in the GN build.
