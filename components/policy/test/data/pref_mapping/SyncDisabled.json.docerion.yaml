@@ -1,0 +1,4 @@
+# Docerion header of SyncDisabled.json.
+type: test
+title: SyncDisabled pref mapping test
+summary: Test fixture verifying the SyncDisabled policy sets the sync.managed pref, covering enabled, disabled, and unset policy cases on all platforms.

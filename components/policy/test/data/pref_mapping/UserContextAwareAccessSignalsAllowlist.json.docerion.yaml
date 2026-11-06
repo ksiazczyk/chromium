@@ -1,0 +1,4 @@
+# Docerion header of UserContextAwareAccessSignalsAllowlist.json.
+type: test
+title: UserContextAwareAccessSignalsAllowlist pref mapping test
+summary: Policy pref mapping test verifying that UserContextAwareAccessSignalsAllowlist populates the enterprise_connectors.device_trust_user.origins pref on Windows, Linux, Mac, ChromeOS and Android.

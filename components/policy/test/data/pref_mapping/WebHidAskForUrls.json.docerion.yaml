@@ -1,0 +1,4 @@
+# Docerion header of WebHidAskForUrls.json.
+type: test
+title: WebHidAskForUrls pref mapping test data
+summary: JSON test data verifying that the WebHidAskForUrls policy maps to the profile.managed_web_hid_ask_for_urls pref with URL pattern values.

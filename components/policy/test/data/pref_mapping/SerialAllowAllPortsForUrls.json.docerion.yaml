@@ -1,0 +1,4 @@
+# Docerion header of SerialAllowAllPortsForUrls.json.
+type: test
+title: SerialAllowAllPortsForUrls pref mapping test data
+summary: Test data checking that the SerialAllowAllPortsForUrls policy maps to the serial_allow_all_ports_for_urls local state preference with URL values.

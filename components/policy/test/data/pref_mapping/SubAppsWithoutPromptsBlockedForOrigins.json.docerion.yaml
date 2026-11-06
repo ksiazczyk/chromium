@@ -1,0 +1,4 @@
+# Docerion header of SubAppsWithoutPromptsBlockedForOrigins.json.
+type: test
+title: SubAppsWithoutPromptsBlockedForOrigins pref mapping test
+summary: Test fixture checking that the SubAppsWithoutPromptsBlockedForOrigins policy sets the managed_sub_apps_without_prompts_blocked_for_origins pref on ChromeOS, Linux, Mac, and Windows.

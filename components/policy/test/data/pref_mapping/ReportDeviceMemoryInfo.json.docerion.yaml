@@ -1,0 +1,4 @@
+# Docerion header of ReportDeviceMemoryInfo.json.
+type: test
+title: ReportDeviceMemoryInfo pref mapping test data
+summary: Test fixture noting that the ReportDeviceMemoryInfo policy has no pref mapping test because it maps into CrosSettings.

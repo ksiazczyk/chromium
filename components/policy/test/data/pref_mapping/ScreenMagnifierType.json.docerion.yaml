@@ -1,0 +1,4 @@
+# Docerion header of ScreenMagnifierType.json.
+type: test
+title: ScreenMagnifierType policy pref mapping test data
+summary: Policy pref mapping test data checking how the ScreenMagnifierType policy controls ChromeOS magnifier prefs, including recommended values and out-of-range handling.

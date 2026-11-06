@@ -1,0 +1,4 @@
+# Docerion header of UsbDetachableAllowlist.json.
+type: test
+title: UsbDetachableAllowlist missing pref mapping test note
+summary: Placeholder noting no pref mapping test exists for UsbDetachableAllowlist because the policy maps into CrosSettings.

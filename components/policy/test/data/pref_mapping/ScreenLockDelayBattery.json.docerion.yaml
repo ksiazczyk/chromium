@@ -1,0 +1,4 @@
+# Docerion header of ScreenLockDelayBattery.json.
+type: test
+title: ScreenLockDelayBattery pref mapping test data
+summary: Policy pref mapping test data checking the default and a set value of the power.battery_screen_lock_delay_ms pref for the ScreenLockDelayBattery policy.

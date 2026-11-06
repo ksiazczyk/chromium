@@ -1,0 +1,4 @@
+# Docerion header of WebRtcLocalIpsAllowedUrls.json.
+type: test
+title: WebRtcLocalIpsAllowedUrls pref mapping test data
+summary: Test data verifying that the WebRtcLocalIpsAllowedUrls policy maps to the webrtc.local_ips_allowed_urls pref with URL pattern values.

@@ -1,0 +1,4 @@
+# Docerion header of RequiredClientCertificateForUser.json.
+type: test
+title: RequiredClientCertificateForUser pref mapping test
+summary: ChromeOS pref mapping test verifying the RequiredClientCertificateForUser policy sets the user pref with several client certificate profile variants.

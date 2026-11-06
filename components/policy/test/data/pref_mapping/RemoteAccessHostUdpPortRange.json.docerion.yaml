@@ -1,0 +1,4 @@
+# Docerion header of RemoteAccessHostUdpPortRange.json.
+type: test
+title: RemoteAccessHostUdpPortRange
+summary: Test data noting that no preference mapping test exists for the RemoteAccessHostUdpPortRange policy because it is handled by the CRD host rather than the browser.

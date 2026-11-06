@@ -1,0 +1,4 @@
+# Docerion header of SystemProxySettings.json.
+type: test
+title: SystemProxySettings pref mapping test
+summary: Placeholder test entry explaining that SystemProxySettings has no pref mapping test because the policy maps into CrosSettings.

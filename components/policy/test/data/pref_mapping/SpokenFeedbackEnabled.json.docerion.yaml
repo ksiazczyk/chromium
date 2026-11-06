@@ -1,0 +1,4 @@
+# Docerion header of SpokenFeedbackEnabled.json.
+type: test
+title: SpokenFeedbackEnabled policy pref mapping test data
+summary: Simple test data mapping the SpokenFeedbackEnabled policy to the settings.accessibility preference on ChromeOS.

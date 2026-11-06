@@ -1,0 +1,4 @@
+# Docerion header of VirtualMachinesAllowed.json.
+type: test
+title: VirtualMachinesAllowed pref mapping test data
+summary: Policy pref mapping test data noting that VirtualMachinesAllowed maps into CrosSettings, so no simple pref mapping test applies.

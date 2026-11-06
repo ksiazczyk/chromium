@@ -1,0 +1,4 @@
+# Docerion header of UnifiedDesktopEnabledByDefault.json.
+type: test
+title: UnifiedDesktopEnabledByDefault policy pref mapping test data
+summary: Test data verifying that the UnifiedDesktopEnabledByDefault policy maps to the settings.display.unified_desktop_enabled_by_default pref with default false on ChromeOS.

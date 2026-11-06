@@ -1,0 +1,4 @@
+# Docerion header of VideoCaptureAllowedUrls.json.
+type: test
+title: VideoCaptureAllowedUrls policy pref mapping test data
+summary: Maps the VideoCaptureAllowedUrls policy to the hardware.video_capture_allowed_urls preference, testing a URL pattern value list.

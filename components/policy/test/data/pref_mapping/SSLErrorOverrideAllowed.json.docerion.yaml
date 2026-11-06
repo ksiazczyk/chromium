@@ -1,0 +1,4 @@
+# Docerion header of SSLErrorOverrideAllowed.json.
+type: test
+title: SSLErrorOverrideAllowed policy pref mapping test data
+summary: Test data verifying the SSLErrorOverrideAllowed policy maps to the ssl.error_override_allowed pref across desktop and mobile platforms.

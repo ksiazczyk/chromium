@@ -1,0 +1,4 @@
+# Docerion header of VmManagementCliAllowed.json.
+type: test
+title: VmManagementCliAllowed pref mapping test data
+summary: ChromeOS-only pref mapping test verifying the crostini.vm_management_cli_allowed_by_policy pref with true and false values against its default.

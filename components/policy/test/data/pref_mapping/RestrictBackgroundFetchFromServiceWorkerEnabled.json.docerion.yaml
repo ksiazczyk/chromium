@@ -1,0 +1,4 @@
+# Docerion header of RestrictBackgroundFetchFromServiceWorkerEnabled.json.
+type: test
+title: RestrictBackgroundFetchFromServiceWorkerEnabled pref mapping test data
+summary: Test data verifying that the policy maps to the policy.restrict_background_fetch_from_service_worker_enabled preference with true and false values on win, linux, mac, chromeos and android.

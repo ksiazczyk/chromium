@@ -1,0 +1,4 @@
+# Docerion header of SideSearchEnabled.json.
+type: test
+title: SideSearchEnabled policy pref mapping test data
+summary: Test data verifying that the SideSearchEnabled policy maps to the side_search.enabled preference on desktop platforms.

@@ -1,0 +1,4 @@
+# Docerion header of WebRtcDiagnosticLogCollectionAllowedForOrigins.json.
+type: test
+title: WebRtcDiagnosticLogCollectionAllowedForOrigins pref mapping test data
+summary: Test data verifying that the WebRtcDiagnosticLogCollectionAllowedForOrigins policy maps to the webrtc.diagnostic_log_collection_allowed_for_origins pref.

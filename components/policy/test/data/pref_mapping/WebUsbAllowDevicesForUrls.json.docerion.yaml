@@ -1,0 +1,4 @@
+# Docerion header of WebUsbAllowDevicesForUrls.json.
+type: test
+title: WebUsbAllowDevicesForUrls pref mapping test data
+summary: Policy pref mapping test data verifying that WebUsbAllowDevicesForUrls sets the profile.managed_web_usb_allow_devices_for_urls preference with device and URL values.

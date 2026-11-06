@@ -1,0 +1,4 @@
+# Docerion header of ScreenCaptureWithoutGestureAllowedForOrigins.json.
+type: test
+title: ScreenCaptureWithoutGestureAllowedForOrigins pref mapping test data
+summary: Policy pref mapping test data verifying ScreenCaptureWithoutGestureAllowedForOrigins sets the media.screen_capture_without_gesture_allowed_for_origins pref.

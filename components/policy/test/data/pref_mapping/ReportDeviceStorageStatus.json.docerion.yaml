@@ -1,0 +1,4 @@
+# Docerion header of ReportDeviceStorageStatus.json.
+type: test
+title: ReportDeviceStorageStatus
+summary: Pref mapping test data for the ReportDeviceStorageStatus policy, noting that no test case exists because the policy maps into CrosSettings.

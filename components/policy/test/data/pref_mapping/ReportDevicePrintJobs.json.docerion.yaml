@@ -1,0 +1,4 @@
+# Docerion header of ReportDevicePrintJobs.json.
+type: test
+title: ReportDevicePrintJobs pref mapping test data
+summary: Pref mapping test data stating that the ReportDevicePrintJobs policy maps into CrosSettings, so no pref mapping test applies.

@@ -1,0 +1,4 @@
+# Docerion header of UserAgentReduction.json.
+type: test
+title: UserAgentReduction removed policy test placeholder
+summary: Placeholder noting no pref mapping test exists for UserAgentReduction because the policy was removed.

@@ -1,0 +1,4 @@
+# Docerion header of WindowPlacementAllowedForUrls.json.
+type: test
+title: WindowPlacementAllowedForUrls policy pref mapping test data
+summary: Test fixture verifying that the WindowPlacementAllowedForUrls policy sets the managed window management allowed-for-URLs pref on win, linux, mac, chromeos and fuchsia.

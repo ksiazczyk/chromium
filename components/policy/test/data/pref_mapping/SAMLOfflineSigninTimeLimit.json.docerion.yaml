@@ -1,0 +1,4 @@
+# Docerion header of SAMLOfflineSigninTimeLimit.json.
+type: test
+title: SAMLOfflineSigninTimeLimit policy pref mapping test data
+summary: Policy pref mapping test cases for SAMLOfflineSigninTimeLimit on ChromeOS, covering set values, clamping below the minimum and the 14-day default.

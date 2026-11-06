@@ -1,0 +1,4 @@
+# Docerion header of SmsMessagesAllowed.json.
+type: test
+title: SmsMessagesAllowed policy pref mapping test data
+summary: Policy pref mapping test data checking that the ChromeOS SmsMessagesAllowed policy sets the multidevice.sms_connect_allowed pref, false by default for enterprise users.

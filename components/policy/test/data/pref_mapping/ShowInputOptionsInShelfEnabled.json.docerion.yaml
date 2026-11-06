@@ -1,0 +1,4 @@
+# Docerion header of ShowInputOptionsInShelfEnabled.json.
+type: test
+title: ShowInputOptionsInShelfEnabled policy pref mapping test data
+summary: Test data verifying that the ShowInputOptionsInShelfEnabled policy maps to the settings.language.ime_menu_activated preference on ChromeOS.

@@ -1,0 +1,4 @@
+# Docerion header of ScreenDimDelayBattery.json.
+type: test
+title: ScreenDimDelayBattery pref mapping test data
+summary: Policy pref mapping test data verifying ScreenDimDelayBattery sets the power.battery_screen_dim_delay_ms pref, including clamping negative values to zero.

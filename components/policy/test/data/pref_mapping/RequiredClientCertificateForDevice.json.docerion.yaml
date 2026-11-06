@@ -1,0 +1,4 @@
+# Docerion header of RequiredClientCertificateForDevice.json.
+type: test
+title: RequiredClientCertificateForDevice pref mapping test
+summary: ChromeOS pref mapping test verifying the RequiredClientCertificateForDevice policy sets the local state pref with a client certificate profile value.

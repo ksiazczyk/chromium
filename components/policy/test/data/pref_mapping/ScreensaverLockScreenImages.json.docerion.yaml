@@ -1,0 +1,4 @@
+# Docerion header of ScreensaverLockScreenImages.json.
+type: test
+title: ScreensaverLockScreenImages policy pref mapping test data
+summary: Simple policy pref mapping test data for the managed screensaver image list pref on ChromeOS.

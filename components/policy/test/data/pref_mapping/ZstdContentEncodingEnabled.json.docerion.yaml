@@ -1,0 +1,4 @@
+# Docerion header of ZstdContentEncodingEnabled.json.
+type: test
+title: ZstdContentEncodingEnabled deprecated policy note
+summary: Placeholder test data recording that the ZstdContentEncodingEnabled policy is deprecated and therefore has no pref mapping test.

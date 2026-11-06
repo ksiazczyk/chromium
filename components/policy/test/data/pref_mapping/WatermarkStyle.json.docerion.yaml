@@ -1,0 +1,4 @@
+# Docerion header of WatermarkStyle.json.
+type: test
+title: WatermarkStyle pref mapping test data
+summary: Pref mapping tests for the WatermarkStyle policy, checking fill opacity, outline opacity, font size and timestamp timezone prefs and their defaults.

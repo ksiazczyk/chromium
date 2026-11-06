@@ -1,0 +1,4 @@
+# Docerion header of ScreenCaptureAllowedByOrigins.json.
+type: test
+title: ScreenCaptureAllowedByOrigins pref mapping test data
+summary: Policy pref mapping test data verifying ScreenCaptureAllowedByOrigins sets the hardware.screen_capture_allowed_by_origins pref with URL pattern values.

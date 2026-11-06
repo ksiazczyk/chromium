@@ -1,0 +1,4 @@
+# Docerion header of UsageTimeLimit.json.
+type: test
+title: UsageTimeLimit policy pref mapping test data
+summary: Test data verifying the UsageTimeLimit policy maps weekly time usage quotas to the screen_time.limit pref on ChromeOS.

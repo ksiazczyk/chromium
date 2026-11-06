@@ -1,0 +1,4 @@
+# Docerion header of SafeBrowsingProxiedRealTimeChecksAllowed.json.
+type: test
+title: SafeBrowsingProxiedRealTimeChecksAllowed pref mapping test data
+summary: Simple policy pref mapping test checking the safebrowsing.hash_prefix_real_time_checks_allowed_by_policy pref for true and false values.

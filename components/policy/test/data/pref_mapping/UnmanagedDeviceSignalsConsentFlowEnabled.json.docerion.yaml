@@ -1,0 +1,4 @@
+# Docerion header of UnmanagedDeviceSignalsConsentFlowEnabled.json.
+type: test
+title: UnmanagedDeviceSignalsConsentFlowEnabled policy pref mapping test data
+summary: Test data verifying that the UnmanagedDeviceSignalsConsentFlowEnabled policy maps to the device_signals.consent_collection_enabled pref on desktop, with no ChromeOS test yet.

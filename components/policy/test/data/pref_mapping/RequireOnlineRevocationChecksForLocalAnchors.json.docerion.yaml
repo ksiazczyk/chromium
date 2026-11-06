@@ -1,0 +1,4 @@
+# Docerion header of RequireOnlineRevocationChecksForLocalAnchors.json.
+type: test
+title: RequireOnlineRevocationChecksForLocalAnchors pref mapping test
+summary: Pref mapping test for the RequireOnlineRevocationChecksForLocalAnchors policy on Windows, Linux, Mac, ChromeOS and Fuchsia, checking the local state pref ssl.rev_checking.required_for_local_anchors.

@@ -1,0 +1,4 @@
+# Docerion header of WallpaperImage.json.
+type: test
+title: WallpaperImage pref mapping test data
+summary: Placeholder test data explaining that no pref mapping test exists for WallpaperImage because external data policies are not yet supported.

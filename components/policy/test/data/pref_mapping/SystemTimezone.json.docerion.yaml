@@ -1,0 +1,4 @@
+# Docerion header of SystemTimezone.json.
+type: test
+title: SystemTimezone pref mapping placeholder
+summary: Placeholder noting that the SystemTimezone policy has no pref mapping test because it maps into CrosSettings.

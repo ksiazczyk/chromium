@@ -1,0 +1,4 @@
+# Docerion header of SystemFeaturesDisableList.json.
+type: test
+title: SystemFeaturesDisableList pref mapping test
+summary: Test fixture verifying the ChromeOS SystemFeaturesDisableList policy maps to local state prefs including the policy.system_features_disable_list value.

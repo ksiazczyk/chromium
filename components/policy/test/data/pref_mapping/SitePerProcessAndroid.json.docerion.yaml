@@ -1,0 +1,4 @@
+# Docerion header of SitePerProcessAndroid.json.
+type: test
+title: SitePerProcessAndroid policy pref mapping test data
+summary: Test data noting that the SitePerProcessAndroid policy has no common pref mapping test because trybots override the pref default with a command-line flag.

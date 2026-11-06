@@ -1,0 +1,4 @@
+# Docerion header of ShowDisplaySizeScreenEnabled.json.
+type: test
+title: ShowDisplaySizeScreenEnabled policy pref mapping test data
+summary: Test data mapping the ShowDisplaySizeScreenEnabled policy to the ash.display_size_screen_oobe_enabled preference on ChromeOS.

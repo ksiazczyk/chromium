@@ -1,0 +1,4 @@
+# Docerion header of SigninAllowed.json.
+type: test
+title: SigninAllowed policy pref mapping test data
+summary: Test data verifying that the SigninAllowed policy maps to the signin.allowed_on_next_startup preference, with the Android case noted as a missing test.

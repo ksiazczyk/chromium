@@ -1,0 +1,4 @@
+# Docerion header of ReportDeviceBluetoothInfo.json.
+type: test
+title: ReportDeviceBluetoothInfo pref mapping test data
+summary: Test data entry explaining that the ReportDeviceBluetoothInfo policy has no pref mapping test because it maps into CrosSettings.

@@ -1,0 +1,4 @@
+# Docerion header of SharedArrayBufferUnrestrictedAccessAllowed.json.
+type: test
+title: SharedArrayBufferUnrestrictedAccessAllowed policy pref mapping test data
+summary: Test fixture verifying the SharedArrayBufferUnrestrictedAccessAllowed policy toggles the matching profile pref on desktop and ChromeOS platforms.

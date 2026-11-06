@@ -1,0 +1,4 @@
+# Docerion header of SecurityTokenSessionNotificationSeconds.json.
+type: test
+title: SecurityTokenSessionNotificationSeconds pref mapping test data
+summary: Test data checking that the SecurityTokenSessionNotificationSeconds policy sets the corresponding local state notification seconds preference on ChromeOS.

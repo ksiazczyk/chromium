@@ -1,0 +1,4 @@
+# Docerion header of UserPrintersAllowed.json.
+type: test
+title: UserPrintersAllowed policy pref mapping test data
+summary: Maps the UserPrintersAllowed policy to the native_printing.user_native_printers_allowed preference for ChromeOS policy pref mapping tests.

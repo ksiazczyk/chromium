@@ -1,0 +1,4 @@
+# Docerion header of ThirdPartyAiChatSettings.json.
+type: test
+title: ThirdPartyAiChatSettings policy pref mapping test data
+summary: Test data for the policy pref mapping test that maps the ThirdPartyAiChatSettings policy to the omnibox.third_party_ai_chat_settings preference.

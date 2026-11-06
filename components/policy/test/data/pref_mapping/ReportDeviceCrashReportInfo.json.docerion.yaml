@@ -1,0 +1,4 @@
+# Docerion header of ReportDeviceCrashReportInfo.json.
+type: test
+title: ReportDeviceCrashReportInfo pref mapping test data
+summary: Test fixture noting that the ReportDeviceCrashReportInfo policy has no pref mapping test because it maps into CrosSettings.

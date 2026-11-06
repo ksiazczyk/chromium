@@ -1,0 +1,4 @@
+# Docerion header of SignedHTTPExchangeEnabled.json.
+type: test
+title: SignedHTTPExchangeEnabled policy pref mapping test data
+summary: Test data verifying that the SignedHTTPExchangeEnabled policy maps to the web_package.signed_exchange.enabled preference on desktop platforms.

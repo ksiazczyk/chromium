@@ -1,0 +1,4 @@
+# Docerion header of ReportDevicePeripherals.json.
+type: test
+title: ReportDevicePeripherals pref mapping test data
+summary: Pref mapping test data stating that the ReportDevicePeripherals policy maps into CrosSettings, so no pref mapping test applies.

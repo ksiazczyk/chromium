@@ -1,0 +1,4 @@
+# Docerion header of ScreenLockDelayAC.json.
+type: test
+title: ScreenLockDelayAC pref mapping test data
+summary: Policy pref mapping test data checking the default and a set value of the power.ac_screen_lock_delay_ms pref for the ScreenLockDelayAC policy.

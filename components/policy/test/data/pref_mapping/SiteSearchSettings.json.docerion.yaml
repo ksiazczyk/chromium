@@ -1,0 +1,4 @@
+# Docerion header of SiteSearchSettings.json.
+type: test
+title: SiteSearchSettings policy pref mapping test data
+summary: Test data noting that the SiteSearchSettings policy has no common pref mapping test due to its complex timestamp-based mapping, covered by OmniboxViewTest browser tests instead.

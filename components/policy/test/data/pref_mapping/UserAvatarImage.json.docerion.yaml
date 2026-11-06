@@ -1,0 +1,4 @@
+# Docerion header of UserAvatarImage.json.
+type: test
+title: UserAvatarImage pref mapping test placeholder
+summary: Placeholder recording that no pref mapping test exists for the UserAvatarImage policy because external data policies are not yet supported.

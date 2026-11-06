@@ -1,0 +1,4 @@
+# Docerion header of ReportMachineIDData.json.
+type: test
+title: ReportMachineIDData
+summary: Pref mapping test data for the ReportMachineIDData policy, noting that no test case exists yet per TODO crbug.com/40768762.

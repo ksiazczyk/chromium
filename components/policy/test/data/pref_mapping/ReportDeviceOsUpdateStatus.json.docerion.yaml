@@ -1,0 +1,4 @@
+# Docerion header of ReportDeviceOsUpdateStatus.json.
+type: test
+title: ReportDeviceOsUpdateStatus pref mapping test data
+summary: Pref mapping test data stating that the ReportDeviceOsUpdateStatus policy maps into CrosSettings, so no pref mapping test applies.

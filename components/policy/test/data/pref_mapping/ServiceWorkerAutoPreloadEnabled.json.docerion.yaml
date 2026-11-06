@@ -1,0 +1,4 @@
+# Docerion header of ServiceWorkerAutoPreloadEnabled.json.
+type: test
+title: ServiceWorkerAutoPreloadEnabled policy pref mapping test data
+summary: Test fixture verifying the ServiceWorkerAutoPreloadEnabled policy toggles the worker.service_worker_auto_preload_enabled pref between true and false.

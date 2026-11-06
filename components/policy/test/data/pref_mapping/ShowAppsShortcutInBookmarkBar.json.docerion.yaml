@@ -1,0 +1,4 @@
+# Docerion header of ShowAppsShortcutInBookmarkBar.json.
+type: test
+title: ShowAppsShortcutInBookmarkBar policy pref mapping test data
+summary: Test data mapping the ShowAppsShortcutInBookmarkBar policy to the bookmark_bar.show_apps_shortcut preference on Windows, Linux, Mac and Fuchsia.

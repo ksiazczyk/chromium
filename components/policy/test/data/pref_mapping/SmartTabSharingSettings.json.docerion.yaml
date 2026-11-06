@@ -1,0 +1,4 @@
+# Docerion header of SmartTabSharingSettings.json.
+type: test
+title: SmartTabSharingSettings policy pref mapping test data
+summary: Policy pref mapping test data verifying that the SmartTabSharingSettings policy values map to the contextual_tasks.smart_tab_sharing_settings pref on Linux, Mac, Windows and ChromeOS.

@@ -1,0 +1,4 @@
+# Docerion header of ReportDeviceNetworkInterfaces.json.
+type: test
+title: ReportDeviceNetworkInterfaces pref mapping test data
+summary: Pref mapping test data stating that the ReportDeviceNetworkInterfaces policy maps into CrosSettings, so no pref mapping test applies.

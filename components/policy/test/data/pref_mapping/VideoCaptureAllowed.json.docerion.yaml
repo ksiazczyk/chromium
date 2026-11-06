@@ -1,0 +1,4 @@
+# Docerion header of VideoCaptureAllowed.json.
+type: test
+title: VideoCaptureAllowed policy pref mapping test data
+summary: Maps the VideoCaptureAllowed policy to the hardware.video_capture_enabled preference for policy pref mapping tests on desktop, ChromeOS and Fuchsia.

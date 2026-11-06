@@ -1,0 +1,4 @@
+# Docerion header of SandboxExternalProtocolBlocked.json.
+type: test
+title: SandboxExternalProtocolBlocked pref mapping test data
+summary: Simple policy pref mapping test checking the profile.sandbox_external_protocol_blocked pref for true and false values.

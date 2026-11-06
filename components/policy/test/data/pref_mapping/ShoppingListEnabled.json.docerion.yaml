@@ -1,0 +1,4 @@
+# Docerion header of ShoppingListEnabled.json.
+type: test
+title: ShoppingListEnabled policy pref mapping test data
+summary: Test data mapping the ShoppingListEnabled policy to the shopping_list_enabled preference across Windows, Linux, Mac, Android and ChromeOS.

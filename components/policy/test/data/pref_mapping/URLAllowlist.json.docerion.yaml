@@ -1,0 +1,4 @@
+# Docerion header of URLAllowlist.json.
+type: test
+title: URLAllowlist policy pref mapping test data
+summary: Test data verifying that the URLAllowlist policy maps to the policy.url_allowlist pref, empty by default, across all supported platforms.

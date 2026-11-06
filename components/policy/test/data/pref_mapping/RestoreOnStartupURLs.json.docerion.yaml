@@ -1,0 +1,4 @@
+# Docerion header of RestoreOnStartupURLs.json.
+type: test
+title: RestoreOnStartupURLs policy pref mapping test data
+summary: Test data verifying that the RestoreOnStartupURLs policy maps to the session.startup_urls preference, using chromium.org as a test value across major platforms.

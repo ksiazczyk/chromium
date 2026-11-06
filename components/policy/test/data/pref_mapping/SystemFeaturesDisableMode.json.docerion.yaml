@@ -1,0 +1,4 @@
+# Docerion header of SystemFeaturesDisableMode.json.
+type: test
+title: SystemFeaturesDisableMode pref mapping test
+summary: Test fixture verifying the ChromeOS SystemFeaturesDisableMode policy maps to the policy.system_features_disable_mode pref in local state.

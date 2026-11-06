@@ -1,0 +1,4 @@
+# Docerion header of ReportDeviceAppInfo.json.
+type: test
+title: ReportDeviceAppInfo pref mapping test data
+summary: Test data entry explaining that the ReportDeviceAppInfo policy has no pref mapping test because it maps into CrosSettings.

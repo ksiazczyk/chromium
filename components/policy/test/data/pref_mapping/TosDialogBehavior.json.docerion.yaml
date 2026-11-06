@@ -1,0 +1,4 @@
+# Docerion header of TosDialogBehavior.json.
+type: test
+title: TosDialogBehavior policy pref mapping test data
+summary: Test data for the policy pref mapping test that maps the TosDialogBehavior policy to the policy.cct_tos_dialog_behavior local state preference on Android.

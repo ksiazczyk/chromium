@@ -1,0 +1,4 @@
+# Docerion header of SuggestedContentEnabled.json.
+type: test
+title: SuggestedContentEnabled pref mapping test
+summary: Test fixture verifying the SuggestedContentEnabled policy maps to the settings.suggested_content_enabled pref on ChromeOS and can also be set as a recommended policy.

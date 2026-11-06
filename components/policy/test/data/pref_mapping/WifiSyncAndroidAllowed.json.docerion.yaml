@@ -1,0 +1,4 @@
+# Docerion header of WifiSyncAndroidAllowed.json.
+type: test
+title: WifiSyncAndroidAllowed pref mapping test data
+summary: ChromeOS test data mapping the WifiSyncAndroidAllowed policy to the wifi_sync.allowed preference, including its enterprise default value.

@@ -1,0 +1,4 @@
+# Docerion header of ReportDeviceNetworkConfiguration.json.
+type: test
+title: ReportDeviceNetworkConfiguration pref mapping test data
+summary: Test fixture noting that the ReportDeviceNetworkConfiguration policy has no pref mapping test because it maps into CrosSettings.

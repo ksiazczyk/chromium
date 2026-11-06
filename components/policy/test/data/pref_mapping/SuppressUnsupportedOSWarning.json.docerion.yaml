@@ -1,0 +1,4 @@
+# Docerion header of SuppressUnsupportedOSWarning.json.
+type: test
+title: SuppressUnsupportedOSWarning pref mapping test
+summary: Test fixture verifying the SuppressUnsupportedOSWarning policy maps to the browser.suppress_unsupported_os_warning pref in local state on five platforms.

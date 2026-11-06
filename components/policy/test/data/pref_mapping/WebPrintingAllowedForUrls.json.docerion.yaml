@@ -1,0 +1,4 @@
+# Docerion header of WebPrintingAllowedForUrls.json.
+type: test
+title: WebPrintingAllowedForUrls pref mapping test data
+summary: ChromeOS test data verifying that the WebPrintingAllowedForUrls policy maps to the profile.managed_web_printing_allowed_for_urls pref.

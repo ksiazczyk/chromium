@@ -1,0 +1,4 @@
+# Docerion header of VirtualKeyboardFeatures.json.
+type: test
+title: VirtualKeyboardFeatures policy pref mapping test data
+summary: Maps the ChromeOS VirtualKeyboardFeatures policy to the settings.a11y.virtual_keyboard_features preference with a dictionary of keyboard feature flags.

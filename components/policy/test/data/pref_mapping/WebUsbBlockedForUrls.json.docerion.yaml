@@ -1,0 +1,4 @@
+# Docerion header of WebUsbBlockedForUrls.json.
+type: test
+title: WebUsbBlockedForUrls pref mapping test data
+summary: Test data mapping the WebUsbBlockedForUrls policy to the profile.managed_web_usb_blocked_for_urls preference with a URL pattern value.

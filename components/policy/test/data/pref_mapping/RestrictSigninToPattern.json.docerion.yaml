@@ -1,0 +1,4 @@
+# Docerion header of RestrictSigninToPattern.json.
+type: test
+title: RestrictSigninToPattern pref mapping test data
+summary: Test data verifying that the policy maps to the google.services.username_pattern local state preference using a google.com email pattern on win, mac, linux and fuchsia.

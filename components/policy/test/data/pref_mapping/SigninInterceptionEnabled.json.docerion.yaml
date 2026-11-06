@@ -1,0 +1,4 @@
+# Docerion header of SigninInterceptionEnabled.json.
+type: test
+title: SigninInterceptionEnabled policy pref mapping test data
+summary: Policy pref mapping test data checking that the SigninInterceptionEnabled policy sets the signin.interception_enabled pref on Windows, Linux, Mac and Fuchsia.

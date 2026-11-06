@@ -1,0 +1,4 @@
+# Docerion header of TotalMemoryLimitMb.json.
+type: test
+title: TotalMemoryLimitMb policy pref mapping test data
+summary: Test data for the policy pref mapping test that maps the TotalMemoryLimitMb policy to the total_memory_limit_mb local state preference on Windows and Mac.

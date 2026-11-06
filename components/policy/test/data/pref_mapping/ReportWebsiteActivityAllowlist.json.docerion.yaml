@@ -1,0 +1,4 @@
+# Docerion header of ReportWebsiteActivityAllowlist.json.
+type: test
+title: ReportWebsiteActivityAllowlist pref mapping test
+summary: ChromeOS pref mapping test verifying the ReportWebsiteActivityAllowlist policy sets reporting.report_website_activity_allowlist with URL pattern values.

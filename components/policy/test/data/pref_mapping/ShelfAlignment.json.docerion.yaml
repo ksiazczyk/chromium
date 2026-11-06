@@ -1,0 +1,4 @@
+# Docerion header of ShelfAlignment.json.
+type: test
+title: ShelfAlignment policy pref mapping test data
+summary: Test data mapping the ShelfAlignment policy to the shelf_alignment_local preference on ChromeOS with the Left value to verify.

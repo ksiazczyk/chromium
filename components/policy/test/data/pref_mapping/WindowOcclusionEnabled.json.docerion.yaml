@@ -1,0 +1,4 @@
+# Docerion header of WindowOcclusionEnabled.json.
+type: test
+title: WindowOcclusionEnabled policy pref mapping test data
+summary: Test fixture checking that the WindowOcclusionEnabled policy maps to the native window occlusion enabled pref in local state on Windows with true and false values.

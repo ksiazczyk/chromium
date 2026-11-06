@@ -1,0 +1,4 @@
+# Docerion header of SecurityTokenSessionBehavior.json.
+type: test
+title: SecurityTokenSessionBehavior pref mapping test data
+summary: Test data checking that the SecurityTokenSessionBehavior policy sets the security_token_session_behavior local state preference on ChromeOS.

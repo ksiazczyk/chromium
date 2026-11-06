@@ -1,0 +1,4 @@
+# Docerion header of SharedWorkerBlobURLFixEnabled.json.
+type: test
+title: SharedWorkerBlobURLFixEnabled policy pref mapping test data
+summary: Test fixture verifying the SharedWorkerBlobURLFixEnabled policy toggles the worker.shared_worker_blob_url_fix_enabled pref between true and false.

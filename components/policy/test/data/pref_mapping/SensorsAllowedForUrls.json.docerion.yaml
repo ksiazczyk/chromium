@@ -1,0 +1,4 @@
+# Docerion header of SensorsAllowedForUrls.json.
+type: test
+title: SensorsAllowedForUrls pref mapping test data
+summary: Test data checking that the SensorsAllowedForUrls policy maps to the managed_sensors_allowed_for_urls preference with URL patterns.

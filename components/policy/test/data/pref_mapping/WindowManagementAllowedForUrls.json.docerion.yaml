@@ -1,0 +1,4 @@
+# Docerion header of WindowManagementAllowedForUrls.json.
+type: test
+title: WindowManagementAllowedForUrls pref mapping test data
+summary: Policy pref mapping test data verifying that WindowManagementAllowedForUrls sets the profile.managed_window_management_allowed_for_urls preference.

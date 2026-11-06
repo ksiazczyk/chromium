@@ -1,0 +1,4 @@
+# Docerion header of UptimeLimit.json.
+type: test
+title: UptimeLimit policy pref mapping test data
+summary: Test data checking the UptimeLimit policy sets automatic_reboot.uptime_limit on ChromeOS, including clamping of values below 3,600.

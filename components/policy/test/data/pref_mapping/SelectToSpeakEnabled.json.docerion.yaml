@@ -1,0 +1,4 @@
+# Docerion header of SelectToSpeakEnabled.json.
+type: test
+title: SelectToSpeakEnabled pref mapping test data
+summary: Test data verifying the SelectToSpeakEnabled policy maps to the settings.a11y.select_to_speak accessibility preference on ChromeOS.

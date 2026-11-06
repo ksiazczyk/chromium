@@ -1,0 +1,4 @@
+# Docerion header of ShowCastIconInToolbar.json.
+type: test
+title: ShowCastIconInToolbar policy pref mapping test data
+summary: Test data mapping the ShowCastIconInToolbar policy to the media_router.show_cast_icon_in_toolbar preference across five platforms.

@@ -1,0 +1,4 @@
+# Docerion header of TouchVirtualKeyboardEnabled.json.
+type: test
+title: TouchVirtualKeyboardEnabled policy pref mapping test data
+summary: Test data for the policy pref mapping test that maps the TouchVirtualKeyboardEnabled policy to the ui.touch_virtual_keyboard_enabled preference on ChromeOS.

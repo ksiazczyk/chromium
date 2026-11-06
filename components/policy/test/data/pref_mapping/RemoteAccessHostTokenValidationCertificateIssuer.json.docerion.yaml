@@ -1,0 +1,4 @@
+# Docerion header of RemoteAccessHostTokenValidationCertificateIssuer.json.
+type: test
+title: RemoteAccessHostTokenValidationCertificateIssuer
+summary: Test data noting that no preference mapping test exists for the RemoteAccessHostTokenValidationCertificateIssuer policy because it was deprecated in M127.

@@ -1,0 +1,4 @@
+# Docerion header of WebAppInstallForceList.json.
+type: test
+title: WebAppInstallForceList policy pref mapping test data
+summary: Test data verifying the WebAppInstallForceList policy maps to the profile.web_app.install.forcelist pref with its app entries.

@@ -1,0 +1,4 @@
+# Docerion header of TryOnYouSettings.json.
+type: test
+title: TryOnYouSettings policy pref mapping test data
+summary: Test data verifying that the TryOnYouSettings policy maps to the indigo.policy pref with default 0 and enterprise default 1 on desktop platforms.

@@ -1,0 +1,4 @@
+# Docerion header of WebAppInstallByUserEnabled.json.
+type: test
+title: WebAppInstallByUserEnabled policy pref mapping test data
+summary: Test data verifying the WebAppInstallByUserEnabled policy maps to the profile.web_app.install_by_user_enabled and sync.apps prefs.

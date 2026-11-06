@@ -1,0 +1,4 @@
+# Docerion header of UrlKeyedAnonymizedDataCollectionEnabled.json.
+type: test
+title: UrlKeyedAnonymizedDataCollectionEnabled pref mapping test data
+summary: Test data verifying the UrlKeyedAnonymizedDataCollectionEnabled policy toggles the url_keyed_anonymized_data_collection.enabled pref across platforms.

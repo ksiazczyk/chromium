@@ -1,0 +1,4 @@
+# Docerion header of ScrollToTextFragmentEnabled.json.
+type: test
+title: ScrollToTextFragmentEnabled policy pref mapping test data
+summary: Simple policy pref mapping test data for the scroll to text fragment enabled pref across all supported platforms.

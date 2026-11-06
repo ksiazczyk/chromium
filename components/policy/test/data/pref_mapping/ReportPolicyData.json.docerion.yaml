@@ -1,0 +1,4 @@
+# Docerion header of ReportPolicyData.json.
+type: test
+title: ReportPolicyData
+summary: Pref mapping test data for the ReportPolicyData policy, noting that no test case exists yet per TODO crbug.com/40768762.

@@ -1,0 +1,4 @@
+# Docerion header of VirtualKeyboardResizesLayoutByDefault.json.
+type: test
+title: VirtualKeyboardResizesLayoutByDefault policy pref mapping test data
+summary: Maps the Android VirtualKeyboardResizesLayoutByDefault policy to the virtual_keyboard_resizes_layout_by_default preference.

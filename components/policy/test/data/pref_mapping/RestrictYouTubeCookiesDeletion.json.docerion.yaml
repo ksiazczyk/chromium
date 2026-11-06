@@ -1,0 +1,4 @@
+# Docerion header of RestrictYouTubeCookiesDeletion.json.
+type: test
+title: RestrictYouTubeCookiesDeletion pref mapping test data
+summary: Test data verifying that the policy maps to the restrict_youtube_cookies_deletion preference with true and false values across win, linux, mac, chromeos and fuchsia.

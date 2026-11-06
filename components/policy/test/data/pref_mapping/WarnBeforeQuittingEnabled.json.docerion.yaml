@@ -1,0 +1,4 @@
+# Docerion header of WarnBeforeQuittingEnabled.json.
+type: test
+title: WarnBeforeQuittingEnabled pref mapping test data
+summary: Mac-only pref mapping test for the browser.confirm_to_quit local state pref, marked as recommendable.

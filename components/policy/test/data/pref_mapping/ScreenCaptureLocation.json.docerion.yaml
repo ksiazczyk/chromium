@@ -1,0 +1,4 @@
+# Docerion header of ScreenCaptureLocation.json.
+type: test
+title: ScreenCaptureLocation pref mapping test data
+summary: Policy pref mapping test data verifying ScreenCaptureLocation sets the ash.capture_mode.policy_save_path pref on ChromeOS and its default when unset.

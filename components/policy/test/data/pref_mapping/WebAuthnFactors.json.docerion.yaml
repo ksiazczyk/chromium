@@ -1,0 +1,4 @@
+# Docerion header of WebAuthnFactors.json.
+type: test
+title: WebAuthnFactors policy pref mapping test data
+summary: Test data verifying the WebAuthnFactors policy maps to the authfactors.restrictions.webauthn pref on ChromeOS, including QuickUnlockModeAllowlist fallback.

@@ -1,0 +1,4 @@
+# Docerion header of TLS13EarlyDataEnabled.json.
+type: test
+title: TLS13EarlyDataEnabled pref mapping test data
+summary: Test data mapping the TLS13EarlyDataEnabled policy to the ssl.tls13_early_data_enabled pref in local state across all supported platforms.

@@ -1,0 +1,4 @@
+# Docerion header of UserPluginVmAllowed.json.
+type: test
+title: UserPluginVmAllowed pref mapping test placeholder
+summary: Placeholder recording that no pref mapping test exists for UserPluginVmAllowed because the policy was deprecated in M152.

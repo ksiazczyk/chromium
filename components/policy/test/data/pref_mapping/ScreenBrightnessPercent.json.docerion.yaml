@@ -1,0 +1,4 @@
+# Docerion header of ScreenBrightnessPercent.json.
+type: test
+title: ScreenBrightnessPercent pref mapping test data
+summary: Policy pref mapping test data verifying ScreenBrightnessPercent sets the AC and battery screen brightness prefs and falls back to their default values when unset.

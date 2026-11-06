@@ -1,0 +1,4 @@
+# Docerion header of ScreensaverLockScreenImageDisplayIntervalSeconds.json.
+type: test
+title: ScreensaverLockScreenImageDisplayIntervalSeconds pref mapping test data
+summary: Simple policy pref mapping test data for the managed screensaver image display interval pref on ChromeOS.

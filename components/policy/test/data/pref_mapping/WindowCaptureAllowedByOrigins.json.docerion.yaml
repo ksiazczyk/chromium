@@ -1,0 +1,4 @@
+# Docerion header of WindowCaptureAllowedByOrigins.json.
+type: test
+title: WindowCaptureAllowedByOrigins pref mapping test data
+summary: Test data mapping the WindowCaptureAllowedByOrigins policy to the hardware.window_capture_allowed_by_origins preference with origin list values.

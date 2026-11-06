@@ -1,0 +1,4 @@
+# Docerion header of SafeSitesFilterBehavior.json.
+type: test
+title: SafeSitesFilterBehavior pref mapping test data
+summary: Simple policy pref mapping test checking the policy.safe_sites_filter_behavior pref and its default value.

@@ -1,0 +1,4 @@
+# Docerion header of ScreenOffDelayBattery.json.
+type: test
+title: ScreenOffDelayBattery policy pref mapping test data
+summary: Policy pref mapping test data verifying the ScreenOffDelayBattery policy sets the ChromeOS battery screen off delay pref.

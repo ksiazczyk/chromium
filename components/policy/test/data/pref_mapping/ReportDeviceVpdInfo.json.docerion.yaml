@@ -1,0 +1,4 @@
+# Docerion header of ReportDeviceVpdInfo.json.
+type: test
+title: ReportDeviceVpdInfo
+summary: Pref mapping test data for the ReportDeviceVpdInfo policy, noting that no test case exists because the policy maps into CrosSettings.

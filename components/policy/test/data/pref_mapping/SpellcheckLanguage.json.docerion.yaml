@@ -1,0 +1,4 @@
+# Docerion header of SpellcheckLanguage.json.
+type: test
+title: SpellcheckLanguage policy pref mapping test data
+summary: Test cases for the SpellcheckLanguage policy covering defaults, SpellcheckEnabled precedence, invalid value filtering, language transforms and whitespace trimming.

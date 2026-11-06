@@ -1,0 +1,4 @@
+# Docerion header of SystemUse24HourClock.json.
+type: test
+title: SystemUse24HourClock pref mapping placeholder
+summary: Placeholder noting that the SystemUse24HourClock policy has no pref mapping test because it maps into CrosSettings.

@@ -1,0 +1,4 @@
+# Docerion header of SafeBrowsingForTrustedSourcesEnabled.json.
+type: test
+title: SafeBrowsingForTrustedSourcesEnabled policy pref mapping test data
+summary: Windows-only test data verifying the SafeBrowsingForTrustedSourcesEnabled policy maps to the safebrowsing_for_trusted_sources_enabled pref.

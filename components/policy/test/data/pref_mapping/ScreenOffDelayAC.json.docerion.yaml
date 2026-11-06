@@ -1,0 +1,4 @@
+# Docerion header of ScreenOffDelayAC.json.
+type: test
+title: ScreenOffDelayAC policy pref mapping test data
+summary: Policy pref mapping test data verifying the ScreenOffDelayAC policy sets the ChromeOS AC screen off delay pref, including negative value clamping and deprecated policy precedence.

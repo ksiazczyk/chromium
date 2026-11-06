@@ -1,0 +1,4 @@
+# Docerion header of VoiceTypingSettings.json.
+type: test
+title: VoiceTypingSettings pref mapping test data
+summary: Pref mapping test for browser.voice_typing_settings across Windows, Linux, Mac and ChromeOS, including the enterprise default of 1.

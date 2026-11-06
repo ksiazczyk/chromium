@@ -1,0 +1,4 @@
+# Docerion header of VpnConfigAllowed.json.
+type: test
+title: VpnConfigAllowed pref mapping test data
+summary: ChromeOS-only pref mapping test verifying the vpn_config_allowed pref with true and false values against its default.

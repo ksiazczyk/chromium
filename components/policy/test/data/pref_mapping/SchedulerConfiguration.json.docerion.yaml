@@ -1,0 +1,4 @@
+# Docerion header of SchedulerConfiguration.json.
+type: test
+title: SchedulerConfiguration pref mapping test data
+summary: Policy pref mapping test data checking that the SchedulerConfiguration policy sets the chromeos.scheduler_configuration pref to performance or conservative on ChromeOS.

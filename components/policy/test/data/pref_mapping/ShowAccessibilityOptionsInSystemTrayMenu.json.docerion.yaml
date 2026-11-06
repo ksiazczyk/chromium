@@ -1,0 +1,4 @@
+# Docerion header of ShowAccessibilityOptionsInSystemTrayMenu.json.
+type: test
+title: ShowAccessibilityOptionsInSystemTrayMenu policy pref mapping test data
+summary: Test data mapping the ShowAccessibilityOptionsInSystemTrayMenu policy to the settings.a11y.enable_menu preference on ChromeOS.

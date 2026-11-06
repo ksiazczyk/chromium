@@ -1,0 +1,4 @@
+# Docerion header of TranslatorAPIAllowed.json.
+type: test
+title: TranslatorAPIAllowed policy pref mapping test data
+summary: Test data verifying that the TranslatorAPIAllowed policy maps to the on_device_translation.translator_api_allowed pref with default true on desktop platforms.

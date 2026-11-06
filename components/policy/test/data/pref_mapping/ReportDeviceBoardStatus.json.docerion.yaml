@@ -1,0 +1,4 @@
+# Docerion header of ReportDeviceBoardStatus.json.
+type: test
+title: ReportDeviceBoardStatus pref mapping test data
+summary: Test data entry explaining that the ReportDeviceBoardStatus policy has no pref mapping test because it maps into CrosSettings.

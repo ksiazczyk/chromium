@@ -1,0 +1,4 @@
+# Docerion header of RestoreOnStartup.json.
+type: test
+title: RestoreOnStartup policy pref mapping test data
+summary: Test data verifying that the RestoreOnStartup policy maps to the session.restore_on_startup preference for values 1 through 6 across win, linux, mac, chromeos and fuchsia.
