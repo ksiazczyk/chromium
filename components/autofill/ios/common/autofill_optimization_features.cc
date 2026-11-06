@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill optimization feature flag definitions
+// summary: Defines disabled-by-default base features that optimize form extraction and form mutation tracking for iOS Autofill.
+// ---
+
 #include "components/autofill/ios/common/autofill_optimization_features.h"
 
 namespace autofill::features {

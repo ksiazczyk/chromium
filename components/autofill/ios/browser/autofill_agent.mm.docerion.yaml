@@ -1,0 +1,4 @@
+# Docerion header of autofill_agent.mm.
+type: source
+title: AutofillAgent implementation
+summary: Implements the iOS autofill agent, handling form suggestions, filling, metrics, and snackbar UI.

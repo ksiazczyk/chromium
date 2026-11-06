@@ -7,6 +7,12 @@
  * by generating a unique ID and sending it to the browser from each frame.
  */
 
+// ---docerion
+// type: source
+// title: Child frame registration library
+// summary: Identifies parent and child frame relationships by generating unique remote tokens and registering them with the browser.
+// ---
+
 import {CHILD_FRAME_REMOTE_TOKEN_ATTRIBUTE} from '//components/autofill/ios/form_util/resources/fill_constants.js';
 import {CrWebApi, gCrWeb} from '//ios/web/public/js_messaging/resources/gcrweb.js';
 import {generateRandomId, sendWebKitMessage} from '//ios/web/public/js_messaging/resources/utils.js';

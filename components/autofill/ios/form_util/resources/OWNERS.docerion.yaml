@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for autofill iOS form util resources
+summary: Delegates review ownership for trivial or mechanical JS, CSS and HTML changes to the platform owners.

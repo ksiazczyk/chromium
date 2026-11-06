@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test form activity observer header
+// summary: Header for a test FormActivityObserver that records document submission, form activity and form removal events for use in iOS autofill unit tests.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_IOS_FORM_UTIL_TEST_FORM_ACTIVITY_OBSERVER_H_
 #define COMPONENTS_AUTOFILL_IOS_FORM_UTIL_TEST_FORM_ACTIVITY_OBSERVER_H_
 

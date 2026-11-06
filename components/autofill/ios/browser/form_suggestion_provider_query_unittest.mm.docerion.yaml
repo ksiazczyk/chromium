@@ -1,0 +1,4 @@
+# Docerion header of form_suggestion_provider_query_unittest.mm.
+type: test
+title: FormSuggestionProviderQuery unit tests
+summary: Unit tests verifying that FormSuggestionProviderQuery correctly identifies focus-type queries for obfuscated password fields and text input activity.

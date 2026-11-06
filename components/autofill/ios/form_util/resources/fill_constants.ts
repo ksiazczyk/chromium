@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill fill constants
+// summary: Defines shared constants, global type extensions and DOM attribute names used by autofill form extraction and filling scripts.
+// ---
+
 // Add type extensions needed for other scripts defining the fill namespace.
 declare global {
   // Defines an additional property, `angular`, on the Window object.

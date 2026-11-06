@@ -1,0 +1,4 @@
+# Docerion header of form_fetch_batcher.mm.
+type: source
+title: Form fetch batcher implementation
+summary: Implements scheduled and immediate batches of form extraction requests, applying form name filters and recording batch size metrics.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for iOS autofill browser
+summary: Lists the directories that code in the iOS autofill browser folder is allowed to include from.

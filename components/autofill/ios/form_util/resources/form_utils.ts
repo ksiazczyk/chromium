@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Form and field identifier utilities
+// summary: Provides utilities to derive stable form and field identifiers, look up elements from those identifiers, and report detected form submissions to the browser.
+// ---
+
 import {RENDERER_ID_NOT_SET} from '//components/autofill/ios/form_util/resources/fill_constants.js';
 import {isFormControlElement} from '//components/autofill/ios/form_util/resources/fill_element_inference_util.js';
 import {getUniqueID} from '//components/autofill/ios/form_util/resources/fill_util.js';

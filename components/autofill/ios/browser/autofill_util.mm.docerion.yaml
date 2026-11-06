@@ -1,0 +1,4 @@
+# Docerion header of autofill_util.mm.
+type: source
+title: iOS autofill utility implementation
+summary: Implements iOS autofill utilities including form data extraction from JSON, child frame token parsing, JavaScript execution helpers, and context security checks.

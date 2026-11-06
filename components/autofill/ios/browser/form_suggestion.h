@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Form suggestion header
+// summary: Declares FormSuggestion, the model for a user-selectable form field suggestion, plus metadata, IPH feature, and icon type enums.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_IOS_BROWSER_FORM_SUGGESTION_H_
 #define COMPONENTS_AUTOFILL_IOS_BROWSER_FORM_SUGGESTION_H_
 

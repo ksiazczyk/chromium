@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Form field label inference
+// summary: Infers labels for form control elements from siblings, tables, lists and other surrounding DOM structures.
+// ---
+
 import type {FormControlElement} from '//components/autofill/ios/form_util/resources/fill_constants.js';
 import * as inferenceUtil from '//components/autofill/ios/form_util/resources/fill_element_inference_util.js';
 import {ancestorTagNames, buildInferredLabelIfValid, findChildText, findChildTextWithIgnoreList, isTraversableContainerElement} from '//components/autofill/ios/form_util/resources/fill_element_inference_util.js';

@@ -1,0 +1,4 @@
+# Docerion header of programmatic_form_submission_handler_java_script_feature.mm.
+type: source
+title: Programmatic form submission handler JavaScript feature implementation
+summary: Implements the programmatic form submission handler, injecting a page-content-world script and delegating messages to FormActivityTabHelper.

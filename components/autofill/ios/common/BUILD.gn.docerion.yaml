@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for iOS Autofill common source sets
+summary: Defines GN source sets for the iOS Autofill common code and their dependencies on base, autofill core common, and iOS web JS messaging.

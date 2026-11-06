@@ -1,0 +1,4 @@
+# Docerion header of suggestion_controller_java_script_feature.mm.
+type: source
+title: SuggestionControllerJavaScriptFeature implementation
+summary: Implements JavaScript invocations to select next or previous form fields and to report whether previous and next elements exist in a frame.

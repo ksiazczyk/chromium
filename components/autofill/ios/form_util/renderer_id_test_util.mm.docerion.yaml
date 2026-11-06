@@ -1,0 +1,4 @@
+# Docerion header of renderer_id_test_util.mm.
+type: test
+title: Renderer ID test utility implementation
+summary: Creates the renderer_id_test JavaScript feature injected into the isolated world for renderer ID tests.

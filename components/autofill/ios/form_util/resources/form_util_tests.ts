@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Form util test API registration
+// summary: Registers a testing-only CrWebApi that exposes form utility functions such as formSubmitted and unique ID helpers to native-side tests.
+// ---
+
 import {formSubmitted} from '//components/autofill/ios/form_util/resources/fill_web_form.js';
 import {getIframeElements} from '//components/autofill/ios/form_util/resources/form_utils.js';
 import {getElementByUniqueID, setUniqueIDIfNeeded} from '//components/autofill/ios/form_util/resources/renderer_id.js';

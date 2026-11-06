@@ -1,0 +1,4 @@
+# Docerion header of autofill_util_unittest.mm.
+type: source
+title: Autofill utility unit tests
+summary: Unit tests for iOS autofill utilities covering form data extraction with and without full URLs, field ID parsing, and related helper behavior.

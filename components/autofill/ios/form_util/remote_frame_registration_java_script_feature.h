@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote frame registration JavaScript feature header
+// summary: Declares the JavaScript feature that injects a script for registering frames with remote frame tokens.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_IOS_FORM_UTIL_REMOTE_FRAME_REGISTRATION_JAVA_SCRIPT_FEATURE_H_
 #define COMPONENTS_AUTOFILL_IOS_FORM_UTIL_REMOTE_FRAME_REGISTRATION_JAVA_SCRIPT_FEATURE_H_
 

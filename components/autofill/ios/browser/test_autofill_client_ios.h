@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestAutofillClientIOS test support header
+// summary: Defines a test-only mixin and TestAutofillClientIOS variant that associates a test autofill client with a WebState so FromWebState lookups succeed in tests.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_IOS_BROWSER_TEST_AUTOFILL_CLIENT_IOS_H_
 #define COMPONENTS_AUTOFILL_IOS_BROWSER_TEST_AUTOFILL_CLIENT_IOS_H_
 

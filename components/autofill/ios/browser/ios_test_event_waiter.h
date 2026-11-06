@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IOSTestEventWaiter test helper
+// summary: Template helper that lets iOS tests wait for expected events to occur within a timeout using the NSRunLoop.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_IOS_BROWSER_IOS_TEST_EVENT_WAITER_H_
 #define COMPONENTS_AUTOFILL_IOS_BROWSER_IOS_TEST_EVENT_WAITER_H_
 

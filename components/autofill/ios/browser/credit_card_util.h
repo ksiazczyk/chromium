@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credit card utility header
+// summary: Declares helper functions that expose credit card name, nickname, CVC, expiration date, and locality as NSString values for iOS autofill.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_IOS_BROWSER_CREDIT_CARD_UTIL_H_
 #define COMPONENTS_AUTOFILL_IOS_BROWSER_CREDIT_CARD_UTIL_H_
 

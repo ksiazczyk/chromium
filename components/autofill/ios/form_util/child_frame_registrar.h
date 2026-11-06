@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Child frame registrar for autofill frame tokens
+// summary: Declares a per-web-state registrar that maps remote frame tokens to local frames and notifies observers of double registrations.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_IOS_FORM_UTIL_CHILD_FRAME_REGISTRAR_H_
 #define COMPONENTS_AUTOFILL_IOS_FORM_UTIL_CHILD_FRAME_REGISTRAR_H_
 

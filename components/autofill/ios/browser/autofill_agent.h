@@ -1,6 +1,13 @@
 // Copyright 2013 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: AutofillAgent class header
+// summary: Declares the iOS AutofillAgent that reads forms, retrieves suggestions, and fills forms on user interaction.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_IOS_BROWSER_AUTOFILL_AGENT_H_
 #define COMPONENTS_AUTOFILL_IOS_BROWSER_AUTOFILL_AGENT_H_
 

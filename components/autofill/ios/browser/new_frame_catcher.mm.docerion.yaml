@@ -1,0 +1,4 @@
+# Docerion header of new_frame_catcher.mm.
+type: test
+title: NewFrameCatcher implementation
+summary: Implements NewFrameCatcher, recording the frame ID whenever a new web frame becomes available.

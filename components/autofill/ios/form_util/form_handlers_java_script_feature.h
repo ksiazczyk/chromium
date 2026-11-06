@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Form handlers JavaScript feature header
+// summary: Declares the JavaScript feature that registers form listeners enabling autofill and keyboard dismissal on iOS.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_IOS_FORM_UTIL_FORM_HANDLERS_JAVA_SCRIPT_FEATURE_H_
 #define COMPONENTS_AUTOFILL_IOS_FORM_UTIL_FORM_HANDLERS_JAVA_SCRIPT_FEATURE_H_
 

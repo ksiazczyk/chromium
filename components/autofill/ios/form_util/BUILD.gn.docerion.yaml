@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: iOS autofill form_util build targets
+summary: Defines GN source sets, TypeScript/JavaScript compilation targets and dependencies for the iOS autofill form_util module.

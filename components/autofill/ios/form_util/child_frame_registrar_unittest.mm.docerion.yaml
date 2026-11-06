@@ -1,0 +1,4 @@
+# Docerion header of child_frame_registrar_unittest.mm.
+type: test
+title: Child frame registrar unit tests
+summary: Tests frame token registration and lookup, rejection of malformed messages and cleanup of stale local frame tokens.

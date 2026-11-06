@@ -10,6 +10,12 @@
 
 // Requires functions from child_frame_registration_lib.ts.
 
+// ---docerion
+// type: source
+// title: Remote frame token registration
+// summary: Registers a remote frame token on pageshow so the browser layer can map page content world frames to isolated content world frames after navigation.
+// ---
+
 import {registerSelfWithRemoteToken} from '//components/autofill/ios/form_util/resources/child_frame_registration_lib.js';
 import {getOrCreateRemoteFrameToken} from '//components/autofill/ios/form_util/resources/fill_util.js';
 

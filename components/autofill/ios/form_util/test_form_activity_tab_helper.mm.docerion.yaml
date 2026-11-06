@@ -1,0 +1,4 @@
+# Docerion header of test_form_activity_tab_helper.mm.
+type: test
+title: Test form activity tab helper implementation
+summary: Implementation of the test tab helper that forwards simulated form events to the observers attached to a web state's form activity tab helper.

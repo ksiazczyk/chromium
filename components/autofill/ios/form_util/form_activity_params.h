@@ -1,6 +1,13 @@
 // Copyright 2017 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Form activity parameter structures
+// summary: Defines structs describing form activity, including activity and field type enums, with parsing of form events from JavaScript script messages.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_IOS_FORM_UTIL_FORM_ACTIVITY_PARAMS_H_
 #define COMPONENTS_AUTOFILL_IOS_FORM_UTIL_FORM_ACTIVITY_PARAMS_H_
 

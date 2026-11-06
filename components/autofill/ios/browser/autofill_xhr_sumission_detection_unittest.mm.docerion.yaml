@@ -1,0 +1,4 @@
+# Docerion header of autofill_xhr_sumission_detection_unittest.mm.
+type: source
+title: XHR form submission detection tests
+summary: Tests asynchronous form submission detection in AutofillDriverIOS using fake web frames, a recording autofill manager, and histogram verification.

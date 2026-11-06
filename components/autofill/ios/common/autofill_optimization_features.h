@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill optimization feature flag declarations
+// summary: Declares iOS Autofill optimization features that speed up form element traversal and mutation tracking via DOM subset processing and diffing.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_IOS_COMMON_AUTOFILL_OPTIMIZATION_FEATURES_H_
 #define COMPONENTS_AUTOFILL_IOS_COMMON_AUTOFILL_OPTIMIZATION_FEATURES_H_
 

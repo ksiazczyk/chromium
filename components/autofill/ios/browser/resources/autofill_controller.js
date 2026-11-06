@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill controller for iOS
+// summary: Installs autofill management functions on __gCrWeb, scanning the DOM to extract and fill web forms and reporting fill events to the native handler.
+// ---
+
 import * as fill_constants from '//components/autofill/ios/form_util/resources/fill_constants.js';
 import * as inferenceUtil from '//components/autofill/ios/form_util/resources/fill_element_inference_util.js';
 import * as fillUtil from '//components/autofill/ios/form_util/resources/fill_util.js';

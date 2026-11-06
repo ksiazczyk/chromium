@@ -1,0 +1,4 @@
+# Docerion header of autofill_manager_observer_bridge.mm.
+type: source
+title: Autofill manager observer bridge implementation
+summary: Implements the bridge that dispatches AutofillManager lifecycle, field type, and form submission callbacks to the adopting Objective-C observer when it responds to each selector.

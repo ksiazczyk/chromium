@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NewFrameCatcher test helper
+// summary: Test observer that captures the ID of the latest new web frame reported by a WebFramesManager.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_IOS_BROWSER_NEW_FRAME_CATCHER_H_
 #define COMPONENTS_AUTOFILL_IOS_BROWSER_NEW_FRAME_CATCHER_H_
 

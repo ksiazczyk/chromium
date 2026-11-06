@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill form fill utilities
+// summary: Defines form and field data classes plus utilities for extracting, sanitizing and setting form element values for autofill.
+// ---
+
 import * as fillConstants from '//components/autofill/ios/form_util/resources/fill_constants.js';
 import * as inferenceUtil from '//components/autofill/ios/form_util/resources/fill_element_inference_util.js';
 import {findChildText, hasTagName, isFormControlElement, isSelectElement} from '//components/autofill/ios/form_util/resources/fill_element_inference_util.js';

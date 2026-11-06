@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS credit card save metrics declarations
+// summary: Declares enums and logging functions for credit card and CVC save prompt metrics on iOS, covering prompt results, overlay types, and fix flow variants.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_IOS_BROWSER_CREDIT_CARD_SAVE_METRICS_IOS_H_
 #define COMPONENTS_AUTOFILL_IOS_BROWSER_CREDIT_CARD_SAVE_METRICS_IOS_H_
 

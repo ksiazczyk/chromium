@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FormSuggestionProvider protocol for web form suggestions
+// summary: Declares the FormSuggestionProvider protocol that supplies user-selectable suggestions for web form input fields and handles user interaction with those suggestions.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_IOS_BROWSER_FORM_SUGGESTION_PROVIDER_H_
 #define COMPONENTS_AUTOFILL_IOS_BROWSER_FORM_SUGGESTION_PROVIDER_H_
 

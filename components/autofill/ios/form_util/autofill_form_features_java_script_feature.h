@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill form features JavaScript feature header
+// summary: Declares the JavaScript feature class that communicates autofill form feature flags to the renderer.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_IOS_FORM_UTIL_AUTOFILL_FORM_FEATURES_JAVA_SCRIPT_FEATURE_H_
 #define COMPONENTS_AUTOFILL_IOS_FORM_UTIL_AUTOFILL_FORM_FEATURES_JAVA_SCRIPT_FEATURE_H_
 

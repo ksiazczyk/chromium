@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fill utilities test API
+// summary: Registers a testing-only web API that exposes fill utility functions to native-side tests.
+// ---
+
 import {registerAllChildFrames} from '//components/autofill/ios/form_util/resources/child_frame_registration_test.js';
 import * as elementInferenceUtil from '//components/autofill/ios/form_util/resources/fill_element_inference.js';
 import * as inferenceUtil from '//components/autofill/ios/form_util/resources/fill_element_inference_util.js';

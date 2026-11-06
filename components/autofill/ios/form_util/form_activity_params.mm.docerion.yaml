@@ -1,0 +1,4 @@
+# Docerion header of form_activity_params.mm.
+type: source
+title: Form activity parameters implementation
+summary: Implements parsing of form activity parameters, mapping JavaScript message fields to activity and field type enums.

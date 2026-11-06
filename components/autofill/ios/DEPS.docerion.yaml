@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for iOS autofill
+summary: Defines the allowed include dependencies for the iOS autofill component, permitting google_apis/gaia, ios/testing, and ios/web/public.

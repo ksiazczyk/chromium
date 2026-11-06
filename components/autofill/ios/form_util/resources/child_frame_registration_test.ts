@@ -7,6 +7,12 @@
  * Requires functions in child_frame_registration_lib.ts.
  */
 
+// ---docerion
+// type: test
+// title: Child frame registration test helpers
+// summary: Provides test access to the child frame registration library, registering all child frames for testing from the C++ layer.
+// ---
+
 import {processChildFrameMessage, registerChildFrame} from '//components/autofill/ios/form_util/resources/child_frame_registration_lib.js';
 
 /**

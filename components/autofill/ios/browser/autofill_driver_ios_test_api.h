@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AutofillDriverIOS test API
+// summary: Test API header exposing testing operations for AutofillDriverIOS, such as injecting a custom autofill manager.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_IOS_BROWSER_AUTOFILL_DRIVER_IOS_TEST_API_H_
 #define COMPONENTS_AUTOFILL_IOS_BROWSER_AUTOFILL_DRIVER_IOS_TEST_API_H_
 

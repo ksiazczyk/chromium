@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SuggestionControllerJavaScriptFeature header
+// summary: Declares a JavaScript feature for focusing next and previous focusable form elements in web frames and querying their presence asynchronously.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_IOS_BROWSER_SUGGESTION_CONTROLLER_JAVA_SCRIPT_FEATURE_H_
 #define COMPONENTS_AUTOFILL_IOS_BROWSER_SUGGESTION_CONTROLLER_JAVA_SCRIPT_FEATURE_H_
 

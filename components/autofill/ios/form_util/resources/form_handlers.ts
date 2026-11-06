@@ -8,6 +8,12 @@
  * Autofill keyboard accessory.
  */
 
+// ---docerion
+// type: source
+// title: Form handlers for iOS autofill
+// summary: Adds form-related DOM listeners and message batching that enable autofill and keyboard dismissal on iOS, communicating with the FormHandlersMessage browser handler.
+// ---
+
 import {processChildFrameMessage} from '//components/autofill/ios/form_util/resources/child_frame_registration_lib.js';
 import {HAS_BEEN_PASSWORD_SYMBOL} from '//components/autofill/ios/form_util/resources/fill_constants.js';
 import {isAutofillableElement} from '//components/autofill/ios/form_util/resources/fill_element_inference_util.js';

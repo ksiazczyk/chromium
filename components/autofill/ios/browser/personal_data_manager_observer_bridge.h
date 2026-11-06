@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PersonalDataManagerObserverBridge header
+// summary: Declares an Objective-C protocol and a C++ bridge class that forwards PersonalDataManager change notifications to an Objective-C delegate.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_IOS_BROWSER_PERSONAL_DATA_MANAGER_OBSERVER_BRIDGE_H_
 #define COMPONENTS_AUTOFILL_IOS_BROWSER_PERSONAL_DATA_MANAGER_OBSERVER_BRIDGE_H_
 

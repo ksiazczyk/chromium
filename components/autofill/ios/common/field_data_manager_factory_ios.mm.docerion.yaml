@@ -1,0 +1,4 @@
+# Docerion header of field_data_manager_factory_ios.mm.
+type: source
+title: FieldDataManager factory implementation for iOS web frames
+summary: Implements the FieldDataManager factory, creating a frame-scoped holder and returning plain or retainable FieldDataManager pointers.

@@ -1,0 +1,4 @@
+# Docerion header of child_frame_registrar.mm.
+type: source
+title: Child frame registrar implementation
+summary: Implements remote-to-local frame token mapping, spoofing detection on double registration and pending callback handling.

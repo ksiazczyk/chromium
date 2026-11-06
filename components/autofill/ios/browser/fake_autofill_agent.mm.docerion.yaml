@@ -1,0 +1,4 @@
+# Docerion header of fake_autofill_agent.mm.
+type: test
+title: Fake autofill agent implementation
+summary: Implements the fake autofill agent, storing and returning suggestions per form and field to stub suggestion fetching in tests.

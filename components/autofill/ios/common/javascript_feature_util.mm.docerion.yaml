@@ -1,0 +1,4 @@
+# Docerion header of javascript_feature_util.mm.
+type: source
+title: Autofill JavaScript content world utility implementation
+summary: Returns the isolated content world to use for Autofill JavaScript features on iOS.

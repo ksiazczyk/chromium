@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill manager observer bridge header
+// summary: Declares an Objective-C protocol and a C++ bridge class that forwards AutofillManager observer events such as state changes and form submissions to Objective-C code.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_IOS_BROWSER_AUTOFILL_MANAGER_OBSERVER_BRIDGE_H_
 #define COMPONENTS_AUTOFILL_IOS_BROWSER_AUTOFILL_MANAGER_OBSERVER_BRIDGE_H_
 

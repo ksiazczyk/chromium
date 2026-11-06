@@ -1,0 +1,4 @@
+# Docerion header of autofill_agent_unittest.mm.
+type: test
+title: AutofillAgent unit tests
+summary: Unit tests for the iOS AutofillAgent covering suggestion handling and form filling behavior.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Suggestion controller for iOS autofill
+// summary: Installs suggestion management functions on __gCrWeb, locating form elements and computing tab order for autofill suggestion handling.
+// ---
+
 import {getFormElementFromIdentifier} from '//components/autofill/ios/form_util/resources/form_utils.js';
 import {CrWebApi, gCrWeb} from '//ios/web/public/js_messaging/resources/gcrweb.js';
 /**

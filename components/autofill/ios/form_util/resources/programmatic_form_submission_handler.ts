@@ -10,6 +10,12 @@
 
 // Requires functions from fill.ts, form.ts, and autofill_form_features.ts.
 
+// ---docerion
+// type: source
+// title: Programmatic form submission handler
+// summary: Hooks HTMLFormElement.submit so programmatic submissions are reported to the native ProgrammaticFormSubmissionHandlerMessage handler before the original submit runs.
+// ---
+
 import {formSubmitted} from '//components/autofill/ios/form_util/resources/fill_web_form.js';
 import {reportDetectedFormSubmission} from '//components/autofill/ios/form_util/resources/form_utils.js';
 

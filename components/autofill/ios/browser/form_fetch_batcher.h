@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Form fetch batcher header
+// summary: Declares FormFetchBatcher, a controller that batches recurrent form extraction requests on a web frame with optional form name filtering.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_IOS_BROWSER_FORM_FETCH_BATCHER_H_
 #define COMPONENTS_AUTOFILL_IOS_BROWSER_FORM_FETCH_BATCHER_H_
 

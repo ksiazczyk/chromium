@@ -1,0 +1,4 @@
+# Docerion header of form_suggestion.mm.
+type: source
+title: Form suggestion implementation
+summary: Implements FormSuggestion initializers and properties holding value, icon, type, payload, metadata, and provider for form suggestions.
