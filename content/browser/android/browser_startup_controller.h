@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser startup controller header
+// summary: Declares Android browser startup functions that report startup completion timings and decide whether the GPU process should start during browser startup.
+// ---
+
 #ifndef CONTENT_BROWSER_ANDROID_BROWSER_STARTUP_CONTROLLER_H_
 #define CONTENT_BROWSER_ANDROID_BROWSER_STARTUP_CONTROLLER_H_
 

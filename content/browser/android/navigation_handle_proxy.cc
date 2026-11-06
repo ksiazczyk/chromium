@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NavigationHandle JNI proxy implementation
+// summary: Implements the proxy that pushes navigation state, response headers, redirects and completion events from the C++ NavigationHandle to its Java counterpart.
+// ---
+
 #include "content/browser/android/navigation_handle_proxy.h"
 
 #include "base/android/jni_android.h"

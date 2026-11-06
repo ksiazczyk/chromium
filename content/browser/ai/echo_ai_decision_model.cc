@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Echo AI decision model implementation
+// summary: Implements a deterministic mock AIDecisionModel that returns fixed confidence labels and probabilities for boolean, choice, and score questions in web platform tests.
+// ---
+
 #include "content/browser/ai/echo_ai_decision_model.h"
 
 #include <algorithm>

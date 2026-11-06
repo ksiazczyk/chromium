@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aura Linux browser accessibility state implementation
+// summary: Detects the Orca screen reader on Linux by scanning /proc process command lines off-thread and enables screen reader accessibility mode when Orca is found.
+// ---
+
 #include "content/browser/accessibility/browser_accessibility_state_impl_auralinux.h"
 
 #include <dirent.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web Contents Accessibility Base Header
+// summary: Declares WebContentsAccessibilityBase, which bridges BrowserAccessibilityManagerAndroid and the Java accessibility layer.
+// ---
+
 #ifndef CONTENT_BROWSER_ACCESSIBILITY_WEB_CONTENTS_ACCESSIBILITY_BASE_H_
 #define CONTENT_BROWSER_ACCESSIBILITY_WEB_CONTENTS_ACCESSIBILITY_BASE_H_
 

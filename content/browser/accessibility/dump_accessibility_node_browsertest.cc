@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Accessibility node dump browser tests
+// summary: Browser tests that dump accessibility node properties for ARIA and HTML pages using property filters and compare them to expectation files.
+// ---
+
 #include "base/command_line.h"
 #include "base/files/file_util.h"
 #include "base/strings/escape.h"

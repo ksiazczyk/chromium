@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Render widget host connector implementation
+// summary: Keeps content-layer objects connected to the active RenderWidgetHostViewAndroid across view changes and destruction.
+// ---
+
 #include "content/browser/android/render_widget_host_connector.h"
 
 #include "base/memory/raw_ptr.h"

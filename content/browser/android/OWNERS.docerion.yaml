@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the Android content browser directory
+summary: Lists the code owners for review approval and delegates per-file ownership for the IME adapter and NFC host files.

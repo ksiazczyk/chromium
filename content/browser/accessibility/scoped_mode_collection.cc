@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped mode collection implementation
+// summary: Implements a collection of ScopedAccessibilityMode instances that recomputes the union of their accessibility mode flags and notifies a delegate on changes.
+// ---
+
 #include "content/browser/accessibility/scoped_mode_collection.h"
 
 #include <algorithm>

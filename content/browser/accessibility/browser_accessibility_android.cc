@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserAccessibilityAndroid implementation
+// summary: Implements the Android-specific accessibility node class, mapping Chromium accessibility nodes to Android accessibility properties and events.
+// ---
+
 #include "content/browser/accessibility/browser_accessibility_android.h"
 
 #include <algorithm>

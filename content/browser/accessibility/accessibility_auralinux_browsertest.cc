@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Aura Linux accessibility browser tests
+// summary: Browser tests verifying Linux accessibility through ATK, covering text boundary offsets, focus and editable states.
+// ---
+
 #include <atk/atk.h>
 
 #include <string>

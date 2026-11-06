@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia accessibility tree formatter implementation
+// summary: Implements the Fuchsia accessibility tree formatter, converting Fuchsia semantics roles, actions, and attributes into readable tree dumps.
+// ---
+
 #include "content/browser/accessibility/accessibility_tree_formatter_fuchsia.h"
 
 #include "base/notimplemented.h"

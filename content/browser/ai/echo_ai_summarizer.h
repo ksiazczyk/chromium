@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EchoAISummarizer class declaration
+// summary: Declares EchoAISummarizer, a test AISummarizer implementation that echoes the prompt text back for testing.
+// ---
+
 #ifndef CONTENT_BROWSER_AI_ECHO_AI_SUMMARIZER_H_
 #define CONTENT_BROWSER_AI_ECHO_AI_SUMMARIZER_H_
 

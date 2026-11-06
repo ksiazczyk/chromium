@@ -1,0 +1,4 @@
+# Docerion header of ax_tree_formatter_mac_browsertest.mm.
+type: test
+title: AXTreeFormatterMac browser tests
+summary: Browser tests that check the formatted macOS accessibility tree output, including property and node filters and script-based inspection.

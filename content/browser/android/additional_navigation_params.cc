@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JNI implementation of additional navigation params
+// summary: Creates and reads the Java AdditionalNavigationParams object that carries the initiator frame token, process ID and native initiator navigation state across navigations.
+// ---
+
 #include "content/browser/android/additional_navigation_params.h"
 
 #include "base/android/jni_string.h"

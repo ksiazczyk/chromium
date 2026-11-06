@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Render accessibility host implementation
+// summary: Handles accessibility messages from the renderer, validating node IDs and forwarding them to RenderFrameHostImpl on the UI thread so large deserialization does not block it.
+// ---
+
 #include "content/browser/accessibility/render_accessibility_host.h"
 
 #include <atomic>

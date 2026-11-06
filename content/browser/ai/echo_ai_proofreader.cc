@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Echo AI proofreader implementation
+// summary: Implements a mock proofreader that streams the input text back prefixed with a model-unavailable notice for proofreading tests.
+// ---
+
 #include "content/browser/ai/echo_ai_proofreader.h"
 
 #include <optional>

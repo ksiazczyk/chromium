@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AndroidBatteryMetrics class header
+// summary: Declares the AndroidBatteryMetrics class plus its performance scenario tracker and per-subsystem energy consumed tracker for battery usage reporting.
+// ---
+
 #ifndef CONTENT_BROWSER_ANDROID_BATTERY_METRICS_H_
 #define CONTENT_BROWSER_ANDROID_BATTERY_METRICS_H_
 

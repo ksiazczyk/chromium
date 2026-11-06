@@ -1,0 +1,4 @@
+# Docerion header of browser_accessibility_state_impl_mac.mm.
+type: source
+title: macOS browser accessibility state implementation
+summary: macOS accessibility state implementation that monitors VoiceOver via key-value observing, reacts to accessibility display option changes, and records VoiceOver histograms.

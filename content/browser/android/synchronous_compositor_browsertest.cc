@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Synchronous compositor browser test
+// summary: Browser tests for the Android synchronous compositor covering client lifecycle and render widget host view reuse during navigation.
+// ---
+
 #include "content/public/browser/android/synchronous_compositor.h"
 
 #include "base/command_line.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows UIA text range provider browser tests
+// summary: Browser tests for the Windows UI Automation TextRangeProvider, verifying text range and selection behavior of accessibility nodes.
+// ---
+
 #include "ui/accessibility/platform/ax_platform_node_textrangeprovider_win.h"
 
 #include "base/command_line.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BackForwardCache metrics browser tests
+// summary: Browser tests verifying back/forward cache metrics such as UKM entries and histograms with the cache enabled and disabled.
+// ---
+
 #include "content/browser/back_forward_cache/back_forward_cache_metrics.h"
 
 #include "base/functional/bind.h"

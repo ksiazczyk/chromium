@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android Text Formatting Metrics Implementation
+// summary: Records UMA histograms for Android accessibility text formatting durations, text length, and range counts.
+// ---
+
 #include "content/browser/accessibility/text_formatting_metrics_android.h"
 
 #include "base/metrics/histogram_macros.h"

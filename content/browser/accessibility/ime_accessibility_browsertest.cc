@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IME accessibility browser test
+// summary: Parameterized browser test checking accessibility node attributes when IME composition text is set on editable text fields.
+// ---
+
 #include <string>
 #include <vector>
 

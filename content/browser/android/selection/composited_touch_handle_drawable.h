@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Composited touch handle drawable header
+// summary: Declares the cc layer-backed TouchHandleDrawable implementation used to render text selection handles on Android.
+// ---
+
 #ifndef CONTENT_BROWSER_ANDROID_SELECTION_COMPOSITED_TOUCH_HANDLE_DRAWABLE_H_
 #define CONTENT_BROWSER_ANDROID_SELECTION_COMPOSITED_TOUCH_HANDLE_DRAWABLE_H_
 

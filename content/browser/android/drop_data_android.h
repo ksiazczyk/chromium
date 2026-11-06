@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drop data Android helper declarations
+// summary: Declares helpers to convert DropData to Java, populate drop data from Android drag events, and parse custom data JSON.
+// ---
+
 #ifndef CONTENT_BROWSER_ANDROID_DROP_DATA_ANDROID_H_
 #define CONTENT_BROWSER_ANDROID_DROP_DATA_ANDROID_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the java bridge directory
+summary: Lists the code owner responsible for reviewing changes to the Android Java bridge directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXStyleData implementation
+// summary: Implements AXStyleData helpers, including a debug string representation of text styling ranges used for testing.
+// ---
+
 #include "content/browser/accessibility/ax_style_data.h"
 
 #include "base/strings/strcat.h"

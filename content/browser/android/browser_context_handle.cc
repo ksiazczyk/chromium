@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserContextHandle JNI implementation
+// summary: Provides a JNI helper that converts a Java browser context handle into a native BrowserContext pointer.
+// ---
+
 #include "content/public/browser/android/browser_context_handle.h"
 
 #include "base/android/jni_android.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Back/forward cache core implementation
+// summary: Implements storing, restoring and evicting pages in the back/forward cache, including cache size limits, feature parameters and metrics hooks.
+// ---
+
 #include "content/browser/back_forward_cache/back_forward_cache_impl.h"
 
 #include <algorithm>

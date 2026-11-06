@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows UIA platform node browser tests
+// summary: Browser tests for the Windows accessibility platform node, covering UIA properties and IAccessible and IAccessible2 interfaces.
+// ---
+
 #include "ui/accessibility/platform/ax_platform_node_win.h"
 
 #include "base/test/metrics/histogram_tester.h"

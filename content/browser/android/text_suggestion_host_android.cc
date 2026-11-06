@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Text suggestion host implementation for Android
+// summary: Implements the Android text suggestion host that applies spell check and text suggestions and controls suggestion popups via JNI and mojo.
+// ---
+
 #include "content/browser/android/text_suggestion_host_android.h"
 
 #include "base/android/jni_android.h"

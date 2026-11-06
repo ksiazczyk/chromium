@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the content browser AI directory
+summary: Defines allowed header include rules for the content browser AI directory, permitting locale util, optimization guide features, and download observer mojom headers.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dialog-based Android overlay implementation
+// summary: Native counterpart of the Java DialogOverlayImpl that creates and manages dialog-based Android overlays for video playback.
+// ---
+
 #include "content/browser/android/dialog_overlay_impl.h"
 
 #include <variant>

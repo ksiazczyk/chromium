@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped accessibility mode browser tests
+// summary: Browser tests for ScopedAccessibilityMode instances vended by BrowserAccessibilityState, covering mode changes across WebContents and browser contexts.
+// ---
+
 #include "content/public/browser/scoped_accessibility_mode.h"
 
 #include <memory>

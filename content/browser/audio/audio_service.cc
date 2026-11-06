@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser-side audio service implementation
+// summary: Implements the content browser audio service, launching it in or out of process and binding Mojo SystemInfo and stream factory interfaces on the UI thread.
+// ---
+
 #include "content/public/browser/audio_service.h"
 
 #include "base/auto_reset.h"

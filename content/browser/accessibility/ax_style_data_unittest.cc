@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AXStyleData unit tests
+// summary: Unit tests verifying that AXStyleData::AddRange records style ranges such as links, text sizes, colors, fonts and locales correctly.
+// ---
+
 #include "content/browser/accessibility/ax_style_data.h"
 
 #include "testing/gmock/include/gmock/gmock.h"

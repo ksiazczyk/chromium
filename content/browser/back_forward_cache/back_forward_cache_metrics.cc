@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BackForwardCache metrics implementation
+// summary: Implements recording of UKM and histogram metrics for history navigations, including not-restored reasons and eviction outcomes.
+// ---
+
 #include "content/browser/back_forward_cache/back_forward_cache_metrics.h"
 
 #include "base/debug/crash_logging.h"

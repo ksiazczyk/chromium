@@ -1,3 +1,12 @@
+---
+type: readme
+title: Content Accessibility Support
+summary: Overview of content-layer accessibility, covering AXMode flags, process-wide and targeted accessibility, data flow and progressive accessibility.
+relations:
+  - references /docs/accessibility/overview.md
+  - references /ui/accessibility/ax_mode.h
+---
+
 # Content Accessibility Support
 
 An overview of key concepts and features of accessibility (AX) support for a

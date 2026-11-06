@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android overscroll controller implementation
+// summary: Implements Android overscroll effects, managing the edge glow and pull-to-refresh behavior for gestures.
+// ---
+
 #include "content/browser/android/overscroll_controller_android.h"
 
 #include "base/command_line.h"

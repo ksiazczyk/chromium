@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Select popup browser test
+// summary: Browser test verifying that the Android select popup drops its mojo client when system UI popups are disallowed by the content browser client.
+// ---
+
 #include "content/browser/android/select_popup.h"
 
 #include "base/run_loop.h"

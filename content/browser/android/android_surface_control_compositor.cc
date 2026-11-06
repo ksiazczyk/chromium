@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Compositor backed by Android SurfaceControl
+// summary: Sets up a display client and frame sink that render a layer tree into a Java SurfaceControl surface, handling GPU surface registration, initialization and resizing.
+// ---
+
 #include "content/browser/android/android_surface_control_compositor.h"
 
 #include <utility>

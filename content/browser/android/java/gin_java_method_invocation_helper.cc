@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GinJavaMethodInvocationHelper implementation
+// summary: Implements invoking Java methods from JavaScript, resolving object references in arguments, blocking getClass access, and packaging results.
+// ---
+
 #include "content/browser/android/java/gin_java_method_invocation_helper.h"
 
 #include <unistd.h>

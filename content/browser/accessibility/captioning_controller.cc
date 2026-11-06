@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android captioning controller implementation
+// summary: Bridges Android system captioning settings into web preferences, applying text track styles with !important for the current WebContents.
+// ---
+
 #include "content/browser/accessibility/captioning_controller.h"
 
 #include "base/android/jni_string.h"

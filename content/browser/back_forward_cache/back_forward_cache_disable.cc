@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Back-forward cache disable reason helpers
+// summary: Maps content-specific disable reason IDs to readable strings and builds the corresponding BackForwardCache DisabledReason values.
+// ---
+
 #include "content/browser/back_forward_cache/back_forward_cache_disable.h"
 
 #include "content/public/browser/back_forward_cache.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JavaType header
+// summary: Declares the JavaType struct describing Java value types, including JNI naming, signatures, and inner types for arrays.
+// ---
+
 #ifndef CONTENT_BROWSER_ANDROID_JAVA_JAVA_TYPE_H_
 #define CONTENT_BROWSER_ANDROID_JAVA_JAVA_TYPE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aura Linux Orca process detection declaration
+// summary: Declares a helper that identifies the Orca screen reader process from the contents of a process's /proc cmdline or comm files.
+// ---
+
 #ifndef CONTENT_BROWSER_ACCESSIBILITY_BROWSER_ACCESSIBILITY_STATE_IMPL_AURALINUX_H_
 #define CONTENT_BROWSER_ACCESSIBILITY_BROWSER_ACCESSIBILITY_STATE_IMPL_AURALINUX_H_
 

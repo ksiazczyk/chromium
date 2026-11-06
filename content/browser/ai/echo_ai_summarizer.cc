@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EchoAISummarizer implementation
+// summary: Implements EchoAISummarizer by streaming the input back with a model-unavailable notice and measuring usage as input plus context size.
+// ---
+
 #include "content/browser/ai/echo_ai_summarizer.h"
 
 #include <optional>

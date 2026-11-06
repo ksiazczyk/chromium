@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserAccessibilityManagerAndroid implementation
+// summary: Implements the Android accessibility tree manager, including selection position re-anchoring, movement granularity and event handling.
+// ---
+
 #include "content/browser/accessibility/browser_accessibility_manager_android.h"
 
 #include <optional>

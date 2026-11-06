@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AndroidBatteryMetrics implementation
+// summary: Records Android battery and energy consumption metrics, sliced by loading and input scenarios and classified into subsystems such as CPU, GPU and display.
+// ---
+
 #include "content/browser/android/battery_metrics.h"
 
 #include "base/android/application_status_listener.h"

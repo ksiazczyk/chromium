@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Back-forward cache document eligibility result implementation
+// summary: Implements the result type that records why a document cannot be stored in the back/forward cache, with human-readable reason strings and tracing support.
+// ---
+
 #include "content/browser/back_forward_cache/back_forward_cache_can_store_document_result.h"
 
 #include <inttypes.h>

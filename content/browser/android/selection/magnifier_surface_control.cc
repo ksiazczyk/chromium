@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Magnifier surface control implementation
+// summary: Implements the Android selection magnifier as an Android Surface Control with zoom layer, rounded corners, gradient shadows and JNI bindings.
+// ---
+
 #include "content/browser/android/selection/magnifier_surface_control.h"
 
 #include <algorithm>

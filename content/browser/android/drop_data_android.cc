@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drag and drop data conversion for Android
+// summary: Converts browser DropData into its Java equivalent, including text, URLs, image bytes, and custom data, for Android drag and drop.
+// ---
+
 #include "content/browser/android/drop_data_android.h"
 
 #include "base/android/jni_android.h"

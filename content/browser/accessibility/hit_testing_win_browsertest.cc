@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows accessibility hit testing browser test
+// summary: Windows browser test verifying accHitTest and UI Automation hit testing through IAccessible and UIA provider interfaces.
+// ---
+
 #include <objbase.h>
 
 #include <wrl/client.h>

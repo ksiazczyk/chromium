@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EchoAIRewriter implementation
+// summary: Implements EchoAIRewriter by streaming the input back with a model-unavailable notice and measuring usage as input plus context size.
+// ---
+
 #include "content/browser/ai/echo_ai_rewriter.h"
 
 #include "mojo/public/cpp/bindings/remote.h"

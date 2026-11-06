@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android tracing controller header
+// summary: Declares TracingControllerAndroid, the native counterpart of the Java tracing controller for starting, stopping and querying traces.
+// ---
+
 #ifndef CONTENT_BROWSER_ANDROID_TRACING_CONTROLLER_ANDROID_H_
 #define CONTENT_BROWSER_ANDROID_TRACING_CONTROLLER_ANDROID_H_
 

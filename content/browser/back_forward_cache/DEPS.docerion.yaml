@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for back_forward_cache metrics
+summary: Grants back_forward_cache_metrics.cc an include dependency on the components back-forward cache disabled reason ID header.

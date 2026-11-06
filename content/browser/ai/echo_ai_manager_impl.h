@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Echo AI manager header
+// summary: Declares EchoAIManagerImpl, a test AIManager that creates echo sessions with default parameters and a small 1000-token context to simulate overflow scenarios.
+// ---
+
 #ifndef CONTENT_BROWSER_AI_ECHO_AI_MANAGER_IMPL_H_
 #define CONTENT_BROWSER_AI_ECHO_AI_MANAGER_IMPL_H_
 

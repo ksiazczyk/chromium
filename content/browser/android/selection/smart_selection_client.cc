@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Smart selection client implementation
+// summary: Implements the native side of SmartSelectionClient, asynchronously retrieving text surrounding the current selection from the focused frame and returning it to Java.
+// ---
+
 #include "content/browser/android/selection/smart_selection_client.h"
 
 #include "base/android/jni_android.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AndroidSurfaceControlCompositor class header
+// summary: Declares a class that manages the Viz compositor and display lifecycle for Android native overlay windows, including GPU surface registration and layer tree handling.
+// ---
+
 #ifndef CONTENT_BROWSER_ANDROID_ANDROID_SURFACE_CONTROL_COMPOSITOR_H_
 #define CONTENT_BROWSER_ANDROID_ANDROID_SURFACE_CONTROL_COMPOSITOR_H_
 

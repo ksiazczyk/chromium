@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Accessibility mode browser test
+// summary: Browser test that verifies how accessibility modes are toggled and applied to WebContents and their accessibility managers.
+// ---
+
 #include "base/test/run_until.h"
 #include "base/test/scoped_run_loop_timeout.h"
 #include "build/build_config.h"

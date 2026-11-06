@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for the content browser AI directory
+summary: Points the content browser AI directory to the shared Blink renderer AI metadata mixins for bug tracking and review routing.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Audio directory owners
+summary: OWNERS file that delegates code ownership of the content browser audio directory to the owners of services/audio.

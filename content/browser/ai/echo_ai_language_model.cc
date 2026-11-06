@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Echo AI language model implementation
+// summary: Implements the test-only echo language model that streams prompt text back, measures token usage, and generates mock tool calls triggered by special input prefixes.
+// ---
+
 #include "content/browser/ai/echo_ai_language_model.h"
 
 #include <optional>

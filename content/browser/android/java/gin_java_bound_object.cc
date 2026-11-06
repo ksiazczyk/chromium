@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GinJavaBoundObject implementation
+// summary: Implements the ref-counted wrapper exposing an injected Java object to JavaScript, with method lookup, getClass detection, and class reflection.
+// ---
+
 #include "content/browser/android/java/gin_java_bound_object.h"
 
 #include "base/android/jni_android.h"

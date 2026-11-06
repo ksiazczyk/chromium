@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Render widget host connector header
+// summary: Declares RenderWidgetHostConnector, a base class tying content objects to RenderWidgetHostViewAndroid.
+// ---
+
 #ifndef CONTENT_BROWSER_ANDROID_RENDER_WIDGET_HOST_CONNECTOR_H_
 #define CONTENT_BROWSER_ANDROID_RENDER_WIDGET_HOST_CONNECTOR_H_
 

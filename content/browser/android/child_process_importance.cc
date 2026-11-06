@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Child process importance helpers
+// summary: Implements Android child process importance stream output and maps base process priorities to importance levels, checking SDK support for not-perceptible bindings.
+// ---
+
 #include "content/public/browser/android/child_process_importance.h"
 
 #include <ostream>

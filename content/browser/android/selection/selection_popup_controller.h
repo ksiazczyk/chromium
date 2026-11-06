@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Selection popup controller header
+// summary: Declares the controller that connects render widget hosts to the Java selection popup, handling selection events, menus and touch handle rects.
+// ---
+
 #ifndef CONTENT_BROWSER_ANDROID_SELECTION_SELECTION_POPUP_CONTROLLER_H_
 #define CONTENT_BROWSER_ANDROID_SELECTION_SELECTION_POPUP_CONTROLLER_H_
 

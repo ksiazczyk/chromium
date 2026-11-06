@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JavaScript injector header
+// summary: Declares JavascriptInjector, a WebContentsUserData that manages Java objects injected into web pages via the Java bridge.
+// ---
+
 #ifndef CONTENT_BROWSER_ANDROID_JAVASCRIPT_INJECTOR_H_
 #define CONTENT_BROWSER_ANDROID_JAVASCRIPT_INJECTOR_H_
 

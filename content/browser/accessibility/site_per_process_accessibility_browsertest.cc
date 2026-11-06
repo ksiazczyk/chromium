@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Site per process accessibility browser tests
+// summary: Browser tests checking accessibility behavior for cross-site iframes under site-per-process isolation, such as cross-process iframe accessibility trees.
+// ---
+
 #include "base/command_line.h"
 #include "base/strings/utf_string_conversions.h"
 #include "build/build_config.h"

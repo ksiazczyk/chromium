@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Text suggestion host Mojo implementation for Android
+// summary: Implements the Android TextSuggestionHost Mojo interface by forwarding suggestion menu and timer calls to TextSuggestionHostAndroid.
+// ---
+
 #include "content/browser/android/text_suggestion_host_mojo_impl_android.h"
 
 #include "content/browser/android/text_suggestion_host_android.h"

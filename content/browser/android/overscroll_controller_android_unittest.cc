@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android overscroll controller unit tests
+// summary: Unit tests for the Android overscroll controller using mock compositor, glow, and refresh effects.
+// ---
+
 #include "content/browser/android/overscroll_controller_android.h"
 
 #include <memory>

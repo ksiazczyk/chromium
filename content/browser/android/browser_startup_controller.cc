@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserStartupController JNI implementation
+// summary: Implements JNI bindings for Android browser startup, including startup completion callbacks, GPU process decisions and command line flag setup.
+// ---
+
 #include "content/browser/android/browser_startup_controller.h"
 
 #include "base/android/jni_android.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page JNI proxy header
+// summary: Declares PageProxy, the JNI bridge between the C++ Page and the Java Page classes.
+// ---
+
 #ifndef CONTENT_BROWSER_ANDROID_PAGE_PROXY_H_
 #define CONTENT_BROWSER_ANDROID_PAGE_PROXY_H_
 

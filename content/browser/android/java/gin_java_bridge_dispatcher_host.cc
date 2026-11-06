@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GinJavaBridgeDispatcherHost implementation
+// summary: Implements the browser-side host that injects named Java objects into a WebContents and routes method invocations over Mojo.
+// ---
+
 #include "content/browser/android/java/gin_java_bridge_dispatcher_host.h"
 
 #include <utility>

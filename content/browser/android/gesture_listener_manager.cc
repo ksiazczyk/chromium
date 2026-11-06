@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gesture listener manager implementation
+// summary: Implements the native gesture listener manager that maps Blink gesture events to Android gesture types and notifies the Java side.
+// ---
+
 #include "content/browser/android/gesture_listener_manager.h"
 
 #include <memory>

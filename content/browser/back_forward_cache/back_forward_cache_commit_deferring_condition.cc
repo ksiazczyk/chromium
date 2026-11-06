@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Commit deferring condition for back/forward cache restores
+// summary: Defers committing a navigation served from the back/forward cache until the cached entry is confirmed or evicted, then resumes or cancels the commit.
+// ---
+
 #include "content/browser/back_forward_cache/back_forward_cache_commit_deferring_condition.h"
 
 #include "base/memory/ptr_util.h"

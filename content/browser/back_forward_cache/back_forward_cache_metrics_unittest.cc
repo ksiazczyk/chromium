@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BackForwardCache metrics unit tests
+// summary: Unit tests verifying BackForwardCacheMetrics histogram and UKM reporting using simulated navigations and a mock tick clock.
+// ---
+
 #include "content/browser/back_forward_cache/back_forward_cache_metrics.h"
 
 #include "base/sanitizer_buildflags.h"

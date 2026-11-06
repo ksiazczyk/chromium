@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android WebKit shared timer suspension JNI implementation
+// summary: Implements JNI entry points to suspend and resume WebKit shared timers across renderer processes, tracking which processes were suspended.
+// ---
+
 #include <jni.h>
 
 #include <set>

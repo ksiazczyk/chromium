@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Load URL params JNI helper
+// summary: Provides a JNI function that checks whether a URL supplied from Java uses the data scheme.
+// ---
+
 #include <jni.h>
 
 #include "base/android/jni_string.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android UI event handler header
+// summary: Declares ContentUiEventHandler, a class owned by WebContentsViewAndroid that handles UI events requiring access to the Java layer.
+// ---
+
 #ifndef CONTENT_BROWSER_ANDROID_CONTENT_UI_EVENT_HANDLER_H_
 #define CONTENT_BROWSER_ANDROID_CONTENT_UI_EVENT_HANDLER_H_
 

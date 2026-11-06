@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Spare renderer priority enum
+// summary: Defines an enum describing the outcome of spare renderer priority updates, generated as a Java enum for the content browser.
+// ---
+
 #ifndef CONTENT_BROWSER_ANDROID_SPARE_RENDERER_PRIORITY_H_
 #define CONTENT_BROWSER_ANDROID_SPARE_RENDERER_PRIORITY_H_
 

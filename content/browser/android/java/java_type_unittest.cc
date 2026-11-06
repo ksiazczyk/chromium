@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: JavaType unit tests
+// summary: Unit tests verifying JavaType creation from binary names and JNI name and signature output for scalar and array types.
+// ---
+
 #include "content/browser/android/java/java_type.h"
 
 #include <stddef.h>

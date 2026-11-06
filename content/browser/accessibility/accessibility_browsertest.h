@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Accessibility browser test fixture header
+// summary: Declares a browser test fixture that enables web accessibility and provides helpers to load sample pages and form fields.
+// ---
+
 #include <optional>
 #include <string>
 

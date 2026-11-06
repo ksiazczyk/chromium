@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BackgroundSyncNetworkObserverAndroid implementation
+// summary: Implements an Android background sync network observer that attaches a Java observer and forwards connection type changes to the sync callback.
+// ---
+
 #include "content/browser/android/background_sync_network_observer_android.h"
 
 #include "base/functional/bind.h"

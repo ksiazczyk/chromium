@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the content browser AI directory
+summary: Delegates ownership of the content browser AI directory to the owners listed in chrome/browser/ai/OWNERS.

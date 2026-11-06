@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser test for additional navigation params lifetime
+// summary: Browser test verifying that the initiator frame token and process ID remain extractable after the initiator frame detaches, while the params keep the policy container host alive.
+// ---
+
 #include "content/browser/android/additional_navigation_params.h"
 
 #include "base/android/jni_android.h"

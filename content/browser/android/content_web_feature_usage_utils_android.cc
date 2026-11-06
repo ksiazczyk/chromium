@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web feature usage logging JNI bridge
+// summary: JNI bridge that logs a web feature for the current page's primary main frame via the content browser client.
+// ---
+
 #include "base/android/jni_android.h"
 #include "content/browser/web_contents/web_contents_android.h"
 #include "content/public/browser/content_browser_client.h"

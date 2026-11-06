@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input token forwarder manager implementation
+// summary: Implements the singleton that forwards Viz input transfer tokens to Java when the GPU process runs in process.
+// ---
+
 #include "content/browser/android/input_token_forwarder_manager.h"
 
 #include "base/android/jni_android.h"

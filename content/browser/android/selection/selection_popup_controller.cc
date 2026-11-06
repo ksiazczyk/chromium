@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Selection popup controller implementation
+// summary: Implements the native side of the Android selection popup controller, managing selection menus, touch handle drawables, magnifier support and select-around-caret adjustments.
+// ---
+
 #include "content/browser/android/selection/selection_popup_controller.h"
 
 #include <cstdlib>

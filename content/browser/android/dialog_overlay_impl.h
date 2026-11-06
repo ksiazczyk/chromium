@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DialogOverlayImpl class header
+// summary: Declares the DialogOverlayImpl class, which observes window, view, and WebContents events to keep dialog overlays in sync.
+// ---
+
 #ifndef CONTENT_BROWSER_ANDROID_DIALOG_OVERLAY_IMPL_H_
 #define CONTENT_BROWSER_ANDROID_DIALOG_OVERLAY_IMPL_H_
 

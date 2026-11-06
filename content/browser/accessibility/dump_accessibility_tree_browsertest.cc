@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dump accessibility tree browser test
+// summary: Implements the accessibility tree dump browser test, enabling Blink accessibility features and comparing serialized platform trees against expected baselines.
+// ---
+
 #include "content/browser/accessibility/dump_accessibility_tree_browsertest.h"
 
 #include <set>

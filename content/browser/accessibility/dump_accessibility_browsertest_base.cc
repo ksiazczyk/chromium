@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dump accessibility browser test base implementation
+// summary: Implements the shared base class that loads HTML test pages, dumps accessibility data as text and compares it with expectation files.
+// ---
+
 #include "content/browser/accessibility/dump_accessibility_browsertest_base.h"
 
 #include <optional>

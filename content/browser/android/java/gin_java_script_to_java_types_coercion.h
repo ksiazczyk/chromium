@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JavaScript to Java type coercion header
+// summary: Declares CoerceJavaScriptValueToJavaValue and ReleaseJavaValueIfRequired for converting JavaScript values to Java types.
+// ---
+
 #ifndef CONTENT_BROWSER_ANDROID_JAVA_GIN_JAVA_SCRIPT_TO_JAVA_TYPES_COERCION_H_
 #define CONTENT_BROWSER_ANDROID_JAVA_GIN_JAVA_SCRIPT_TO_JAVA_TYPES_COERCION_H_
 

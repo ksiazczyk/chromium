@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Privacy Sandbox Ads APIs browser tests
+// summary: Browser tests verifying that Privacy Sandbox ads APIs such as browsing topics, runAdAuction, and fenced frames are exposed under the M1 override feature.
+// ---
+
 #include <vector>
 
 #include "base/strings/strcat.h"

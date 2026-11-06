@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content URL loader factory implementation for Android
+// summary: Implements the Chromium URLLoaderFactory for the Android content scheme, handling Range headers, MIME type resolution, and file data pipes.
+// ---
+
 #include "content/browser/android/content_url_loader_factory.h"
 
 #include <limits>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Java feature map for content features
+// summary: Registers content, blink, media, input and accessibility features exposed to Java through the ContentFeatureMap API on Android.
+// ---
+
 #include "base/android/feature_map.h"
 #include "base/feature_list.h"
 #include "base/no_destructor.h"

@@ -1,6 +1,13 @@
 // Copyright 2022 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Web message payload Java conversion
+// summary: Converts web message payloads such as strings, ArrayBuffers and SharedArrayBuffers between Java and Blink representations in the browser process.
+// ---
+
 #include "content/public/browser/android/message_payload.h"
 
 #include <android/sharedmem.h>

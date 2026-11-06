@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser accessibility state unit tests
+// summary: Unit tests for the browser accessibility state covering AX mode change notifications, platform activation filtering, and scoped accessibility mode behavior.
+// ---
+
 #include "content/browser/accessibility/browser_accessibility_state_impl.h"
 
 #include "base/memory/raw_ptr.h"

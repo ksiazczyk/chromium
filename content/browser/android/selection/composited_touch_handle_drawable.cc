@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Composited touch handle drawable implementation
+// summary: Implements a touch handle drawable backed by a cc slim UI resource layer, handling orientation, mirroring, alpha and positioning for Android selection handles.
+// ---
+
 #include "content/browser/android/selection/composited_touch_handle_drawable.h"
 
 #include <algorithm>

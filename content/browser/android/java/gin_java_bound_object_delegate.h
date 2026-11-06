@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GinJavaBoundObjectDelegate class declaration
+// summary: Declares an adapter implementing the invocation helper's ObjectDelegate interface on top of a GinJavaBoundObject.
+// ---
+
 #ifndef CONTENT_BROWSER_ANDROID_JAVA_GIN_JAVA_BOUND_OBJECT_DELEGATE_H_
 #define CONTENT_BROWSER_ANDROID_JAVA_GIN_JAVA_BOUND_OBJECT_DELEGATE_H_
 

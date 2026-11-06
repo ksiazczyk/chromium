@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IME text span JNI conversion header
+// summary: Declares ToImeTextSpanJniArray, which converts Mojo IME text spans to their Java JNI equivalent.
+// ---
+
 #ifndef CONTENT_BROWSER_ANDROID_IME_TEXT_SPAN_H_
 #define CONTENT_BROWSER_ANDROID_IME_TEXT_SPAN_H_
 

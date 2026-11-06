@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Synchronous compositor sync call bridge declaration
+// summary: Declares the sync call bridge that lets the UI thread block until the renderer processes begin frames and delivers compositor frames for WebView.
+// ---
+
 #ifndef CONTENT_BROWSER_ANDROID_SYNCHRONOUS_COMPOSITOR_SYNC_CALL_BRIDGE_H_
 #define CONTENT_BROWSER_ANDROID_SYNCHRONOUS_COMPOSITOR_SYNC_CALL_BRIDGE_H_
 

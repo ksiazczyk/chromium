@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AndroidBatteryMetrics unit tests
+// summary: Unit tests for the performance scenario tracker and energy consumed tracker of AndroidBatteryMetrics, covering scenario precedence and delta computation.
+// ---
+
 #include "content/browser/android/battery_metrics.h"
 
 #include "testing/gmock/include/gmock/gmock.h"

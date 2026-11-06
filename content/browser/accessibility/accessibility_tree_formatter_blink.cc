@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Blink accessibility tree formatter
+// summary: Serializes Blink accessibility nodes and their attributes into a dictionary tree for inspection and test expectations.
+// ---
+
 #include "content/browser/accessibility/accessibility_tree_formatter_blink.h"
 
 #include <cmath>

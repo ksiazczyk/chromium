@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android tracing controller implementation
+// summary: Implements the native methods of TracingControllerAndroid.java, starting and stopping Perfetto tracing sessions and streaming trace data to Java.
+// ---
+
 #include "content/browser/android/tracing_controller_android.h"
 
 #include <string>

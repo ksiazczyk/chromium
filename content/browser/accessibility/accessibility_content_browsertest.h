@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Accessibility content browser test fixture header
+// summary: Declares a content browser test fixture with helpers to load accessibility trees and access web contents, managers and root nodes.
+// ---
+
 #ifndef CONTENT_BROWSER_ACCESSIBILITY_ACCESSIBILITY_CONTENT_BROWSERTEST_H_
 #define CONTENT_BROWSER_ACCESSIBILITY_ACCESSIBILITY_CONTENT_BROWSERTEST_H_
 

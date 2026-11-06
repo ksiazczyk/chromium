@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JavaMethod wrapper header
+// summary: Declares JavaMethod, a single-thread wrapper around java.lang.reflect.Method exposing parameter types and the JNI method ID.
+// ---
+
 #ifndef CONTENT_BROWSER_ANDROID_JAVA_JAVA_METHOD_H_
 #define CONTENT_BROWSER_ANDROID_JAVA_JAVA_METHOD_H_
 

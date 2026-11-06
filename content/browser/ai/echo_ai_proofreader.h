@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EchoAIProofreader class declaration
+// summary: Declares EchoAIProofreader, a test AIProofreader implementation that echoes the prompt text back to the caller.
+// ---
+
 #ifndef CONTENT_BROWSER_AI_ECHO_AI_PROOFREADER_H_
 #define CONTENT_BROWSER_AI_ECHO_AI_PROOFREADER_H_
 

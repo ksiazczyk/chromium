@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Accessibility browser test fixture implementation
+// summary: Implements the shared accessibility browser test fixture that loads sample pages, input fields and paragraphs for tests.
+// ---
+
 #include "content/browser/accessibility/accessibility_browsertest.h"
 
 #include "base/check.h"

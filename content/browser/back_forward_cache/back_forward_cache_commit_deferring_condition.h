@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Back/forward cache commit deferring condition declaration
+// summary: Declares a commit deferring condition that waits for renderers to disable JS eviction before a cached page is committed.
+// ---
+
 #ifndef CONTENT_BROWSER_BACK_FORWARD_CACHE_BACK_FORWARD_CACHE_COMMIT_DEFERRING_CONDITION_H_
 #define CONTENT_BROWSER_BACK_FORWARD_CACHE_BACK_FORWARD_CACHE_COMMIT_DEFERRING_CONDITION_H_
 
