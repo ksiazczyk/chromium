@@ -1,0 +1,4 @@
+# Docerion header of moving_window.html.
+type: test
+title: Moving Window Benchmark Scenario
+summary: HTML scenario with a terminal window moving in a circular path over a static desktop to test localized region updates and active map logic.

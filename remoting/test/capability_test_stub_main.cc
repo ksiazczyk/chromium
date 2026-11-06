@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Capability test stub entry point
+// summary: Test-only binary that simulates EvaluateCapabilityLocally() with test, crash, and success behaviors selected via the evaluate-type command-line switch.
+// ---
+
 #include <iostream>
 
 #include "base/command_line.h"

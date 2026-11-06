@@ -1,0 +1,4 @@
+# Docerion header of remoting_strings_sr-Latn.xtb.
+type: data
+title: Serbian (Latin) translations for Chrome Remote Desktop strings
+summary: Translation bundle with Serbian Latin-script UI strings for the remoting host and client, covering connections, permissions, and error messages.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake test token storage header
+// summary: Declares FakeTestTokenStorage, which stubs the token storage API with fake data to remove file system dependencies when testing.
+// ---
+
 #ifndef REMOTING_TEST_FAKE_TEST_TOKEN_STORAGE_H_
 #define REMOTING_TEST_FAKE_TEST_TOKEN_STORAGE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of remoting_strings_sl.xtb.
+type: data
+title: Slovenian translations for Chrome Remote Desktop strings
+summary: Translation bundle with Slovenian UI strings for the remoting host and client, covering connections, permissions, and error messages.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Entry point for the it2me CLI host tool
+// summary: Main function that initializes Chromium base, thread pool and mojo infrastructure, then starts the It2MeCliHost.
+// ---
+
 #include "base/at_exit.h"
 #include "base/command_line.h"
 #include "base/message_loop/message_pump_type.h"

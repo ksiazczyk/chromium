@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RGBValue struct declaration
+// summary: Declares a simple struct holding red, green and blue byte values that defaults to black.
+// ---
+
 #ifndef REMOTING_TEST_RGB_VALUE_H_
 #define REMOTING_TEST_RGB_VALUE_H_
 

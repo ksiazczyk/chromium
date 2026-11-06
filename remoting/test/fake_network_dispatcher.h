@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake network dispatcher for remoting tests
+// summary: Declares FakeNetworkDispatcher, a test helper that routes packets between fake network nodes and allocates unique IP addresses.
+// ---
+
 #ifndef REMOTING_TEST_FAKE_NETWORK_DISPATCHER_H_
 #define REMOTING_TEST_FAKE_NETWORK_DISPATCHER_H_
 

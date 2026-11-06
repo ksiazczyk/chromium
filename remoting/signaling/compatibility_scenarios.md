@@ -1,3 +1,13 @@
+---
+type: reference
+title: CRD signaling compatibility and test scenarios
+summary: Specification of CRD signaling wire formats, field mappings, and golden test scenarios across Chromium, web, and Android implementations.
+relations:
+  - references /remoting/signaling/jingle_message_proto_converter_unittest.cc
+  - references /remoting/signaling/jingle_message_xml_converter_unittest.cc
+  - references /remoting/signaling/jingle_message_struct_converter_unittest.cc
+---
+
 # Chrome Remote Desktop (CRD) Signaling Compatibility & Test Scenarios
 
 ## 1. Overview & Architectural Principle

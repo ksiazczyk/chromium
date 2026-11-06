@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Jingle message XML converter
+// summary: Implements conversion between Jingle messages and their XML stanza representations for XMPP signaling.
+// ---
+
 #include "remoting/signaling/jingle_message_xml_converter.h"
 
 #include <memory>

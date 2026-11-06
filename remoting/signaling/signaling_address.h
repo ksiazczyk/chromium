@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SignalingAddress class
+// summary: Represents a Chromoting endpoint address and its routing channel, with helpers to create, parse and write FTL and XMPP addresses in stanzas.
+// ---
+
 #ifndef REMOTING_SIGNALING_SIGNALING_ADDRESS_H_
 #define REMOTING_SIGNALING_SIGNALING_ADDRESS_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of frame_generator.py.
+type: script
+title: Headless Chrome frame generator script
+summary: Standalone Python tool that drives headless Chrome over the DevTools protocol to render scenarios deterministically and capture PNG frame sequences.

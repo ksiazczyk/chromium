@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake network manager header for tests
+// summary: Declares FakeNetworkManager, a fake webrtc NetworkManager that always returns one interface with the IP address given in the constructor.
+// ---
+
 #ifndef REMOTING_TEST_FAKE_NETWORK_MANAGER_H_
 #define REMOTING_TEST_FAKE_NETWORK_MANAGER_H_
 

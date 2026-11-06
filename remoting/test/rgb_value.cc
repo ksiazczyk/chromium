@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RGBValue implementation
+// summary: Implements the constructors and destructor of the RGBValue struct used to store RGB colors in remoting tests.
+// ---
+
 #include "remoting/test/rgb_value.h"
 
 namespace remoting {

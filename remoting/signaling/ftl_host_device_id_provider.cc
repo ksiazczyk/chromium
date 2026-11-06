@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FtlHostDeviceIdProvider implementation
+// summary: Implements FtlHostDeviceIdProvider, building a chromoting host device ID with a platform-specific prefix such as crd-win-host- or crd-mac-host-.
+// ---
+
 #include "remoting/signaling/ftl_host_device_id_provider.h"
 
 #include "build/build_config.h"

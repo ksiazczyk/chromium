@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Corp messaging playground header
+// summary: Declares the CorpMessagingPlayground class that drives interactive testing of the corp messaging client, including burst and ping-pong state.
+// ---
+
 #ifndef REMOTING_TEST_CORP_MESSAGING_PLAYGROUND_H_
 #define REMOTING_TEST_CORP_MESSAGING_PLAYGROUND_H_
 

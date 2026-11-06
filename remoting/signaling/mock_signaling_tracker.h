@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockSignalingTracker declaration
+// summary: Declares a gmock-based MockSignalingTracker that stubs the SignalingTracker interface for tests.
+// ---
+
 #ifndef REMOTING_SIGNALING_MOCK_SIGNALING_TRACKER_H_
 #define REMOTING_SIGNALING_MOCK_SIGNALING_TRACKER_H_
 

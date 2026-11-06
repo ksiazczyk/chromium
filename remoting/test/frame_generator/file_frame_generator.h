@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileFrameGenerator header
+// summary: Declares a FrameGenerator that reads PNG files named frame_0000.png onward from a directory and stops when a file is missing.
+// ---
+
 #ifndef REMOTING_TEST_FRAME_GENERATOR_FILE_FRAME_GENERATOR_H_
 #define REMOTING_TEST_FRAME_GENERATOR_FILE_FRAME_GENERATOR_H_
 

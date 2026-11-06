@@ -1,0 +1,4 @@
+# Docerion header of remoting_strings_ko.xtb.
+type: data
+title: Korean remoting UI strings
+summary: Korean translation bundle with localized UI strings for the remoting application, covering connection, host, and permission messages.

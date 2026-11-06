@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Remote connection observer interface
+// summary: Defines observer callbacks for connection state changes, readiness, route changes, capabilities, pairing responses and host extension messages.
+// ---
+
 #ifndef REMOTING_TEST_REMOTE_CONNECTION_OBSERVER_H_
 #define REMOTING_TEST_REMOTE_CONNECTION_OBSERVER_H_
 

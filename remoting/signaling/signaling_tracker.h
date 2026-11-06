@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SignalingTracker interface
+// summary: Interface for tracking signaling activity, intended for telemetry and debugging, with a callback invoked when signaling activity is detected.
+// ---
+
 #ifndef REMOTING_SIGNALING_SIGNALING_TRACKER_H_
 #define REMOTING_SIGNALING_SIGNALING_TRACKER_H_
 

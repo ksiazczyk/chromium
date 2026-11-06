@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FtlSupportHostDeviceIdProvider implementation
+// summary: Provides FTL device IDs for remote support hosts by prefixing the given device ID with crd-it2me-host-.
+// ---
+
 #include "remoting/signaling/ftl_support_host_device_id_provider.h"
 
 namespace remoting {

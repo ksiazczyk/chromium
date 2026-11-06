@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VideoFrameWriter interface
+// summary: Declares VideoFrameWriter, a helper class that dumps webrtc desktop frames to disk and highlights rectangles in frames for test debugging.
+// ---
+
 #ifndef REMOTING_TEST_VIDEO_FRAME_WRITER_H_
 #define REMOTING_TEST_VIDEO_FRAME_WRITER_H_
 

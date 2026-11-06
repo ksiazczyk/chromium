@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake network dispatcher implementation
+// summary: Implements a fake network dispatcher that allocates unique local addresses and delivers packets between test network nodes, posting across threads as needed.
+// ---
+
 #include "remoting/test/fake_network_dispatcher.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake port allocator implementation for tests
+// summary: Implements FakePortAllocator and FakePortAllocatorFactory, which build ICE port allocator sessions without real network access for tests.
+// ---
+
 #include "remoting/test/fake_port_allocator.h"
 
 #include <memory>

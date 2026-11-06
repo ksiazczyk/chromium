@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signaling ID utilities
+// summary: Declares helpers for normalizing signaling IDs, canonicalizing emails, splitting email and resource parts and validating FTL signaling IDs.
+// ---
+
 #ifndef REMOTING_SIGNALING_SIGNALING_ID_UTIL_H_
 #define REMOTING_SIGNALING_SIGNALING_ID_UTIL_H_
 

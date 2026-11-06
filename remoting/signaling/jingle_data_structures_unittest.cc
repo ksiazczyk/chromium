@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Jingle data structures unit tests
+// summary: Unit tests for Jingle message data structures, verifying XML parsing and formatting round-trips.
+// ---
+
 #include "remoting/signaling/jingle_data_structures.h"
 
 #include <stddef.h>

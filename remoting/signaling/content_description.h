@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentDescription class header
+// summary: Declares ContentDescription, which wraps Jingle authentication details for signaling session content.
+// ---
+
 #ifndef REMOTING_SIGNALING_CONTENT_DESCRIPTION_H_
 #define REMOTING_SIGNALING_CONTENT_DESCRIPTION_H_
 

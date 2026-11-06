@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake FTL signal strategy implementation
+// summary: Stub FtlSignalStrategy implementation that connects immediately and accepts all messages without real network communication.
+// ---
+
 #include "remoting/signaling/fake_ftl_signal_strategy.h"
 
 #include <utility>

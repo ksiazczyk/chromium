@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Remoting signaling build targets
+summary: GN build file defining the signaling static library, test support library, and unit test targets for remoting signaling.

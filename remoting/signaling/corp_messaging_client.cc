@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Corp messaging client implementation
+// summary: Implements a client that sends and receives Chrome Remote Desktop signaling messages over the Corp messaging API using protobuf HTTP requests and streaming.
+// ---
+
 #include "remoting/signaling/corp_messaging_client.h"
 
 #include <memory>

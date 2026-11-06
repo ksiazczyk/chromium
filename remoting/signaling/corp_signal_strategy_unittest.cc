@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Corp signal strategy unit tests
+// summary: Unit tests for CorpSignalStrategy using a fake messaging client to verify connection, messaging, and listener behavior.
+// ---
+
 #include "remoting/signaling/corp_signal_strategy.h"
 
 #include <memory>

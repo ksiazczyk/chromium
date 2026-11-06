@@ -1,0 +1,4 @@
+# Docerion header of remoting_strings_ca.xtb.
+type: data
+title: Catalan remoting strings translation bundle
+summary: XML translation bundle with Catalan translations of Chrome Remote Desktop UI strings used by the remoting module.

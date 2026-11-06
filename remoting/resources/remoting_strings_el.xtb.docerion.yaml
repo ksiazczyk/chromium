@@ -1,0 +1,4 @@
+# Docerion header of remoting_strings_el.xtb.
+type: data
+title: Greek remoting strings translation bundle
+summary: XML translation bundle with Greek translations of Chrome Remote Desktop UI strings used by the remoting module.

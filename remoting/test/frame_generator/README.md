@@ -1,3 +1,11 @@
+---
+type: readme
+title: Frame Generator Tool
+summary: Documents the Headless Chrome frame generator used to stress-test and benchmark video encoders, covering usage, arguments and rules for adding scenarios.
+relations:
+  - documents /remoting/test/frame_generator/frame_generator.py
+---
+
 # Frame Generator Tool
 
 This directory contains a standalone tool for generating synthetic frame

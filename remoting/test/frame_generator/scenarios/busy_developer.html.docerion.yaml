@@ -1,0 +1,4 @@
+# Docerion header of busy_developer.html.
+type: test
+title: Busy Developer Benchmark Scenario
+summary: HTML scenario simulating a high-activity developer desktop with scrolling background code, moving shapes, and a moving, scrolling terminal window for encoder benchmarking.

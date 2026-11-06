@@ -1,0 +1,4 @@
+# Docerion header of remoting_strings.grd.
+type: config
+title: GRIT definition for remoting strings
+summary: GRIT XML file declaring localized pak outputs per platform and language for the remoting string resources.

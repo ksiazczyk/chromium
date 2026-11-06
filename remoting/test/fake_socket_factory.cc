@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake packet socket factory implementation for tests
+// summary: Implements FakePacketSocketFactory, which simulates UDP and TCP sockets with configurable bandwidth, latency and packet drop for tests.
+// ---
+
 #include "remoting/test/fake_socket_factory.h"
 
 #include <algorithm>

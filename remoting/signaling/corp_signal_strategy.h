@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Corp signal strategy header
+// summary: Declares CorpSignalStrategy, a SignalStrategy implementation backed by the Corp messaging service.
+// ---
+
 #ifndef REMOTING_SIGNALING_CORP_SIGNAL_STRATEGY_H_
 #define REMOTING_SIGNALING_CORP_SIGNAL_STRATEGY_H_
 

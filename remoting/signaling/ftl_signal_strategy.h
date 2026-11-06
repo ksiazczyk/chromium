@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FtlSignalStrategy header
+// summary: Declares the FtlSignalStrategy class, which implements SignalStrategy using the FTL messaging service and supports FTL listeners and dual XML/protobuf signaling.
+// ---
+
 #ifndef REMOTING_SIGNALING_FTL_SIGNAL_STRATEGY_H_
 #define REMOTING_SIGNALING_FTL_SIGNAL_STRATEGY_H_
 

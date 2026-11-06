@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scrolling test frame generator declaration
+// summary: Declares ScrollFrameGenerator, which produces scrolling desktop frames and supplies input event timestamps.
+// ---
+
 #ifndef REMOTING_TEST_SCROLL_FRAME_GENERATOR_H_
 #define REMOTING_TEST_SCROLL_FRAME_GENERATOR_H_
 

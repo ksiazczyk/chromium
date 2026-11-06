@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SignalStrategy interface
+// summary: Abstract signaling connection interface defining connection states, error codes, listener callbacks and methods for sending Jingle messages and replies.
+// ---
+
 #ifndef REMOTING_SIGNALING_SIGNAL_STRATEGY_H_
 #define REMOTING_SIGNALING_SIGNAL_STRATEGY_H_
 

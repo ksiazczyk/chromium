@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FTL services context
+// summary: Declares FtlServicesContext, a utility class for creating context objects used when connecting to the FTL backend.
+// ---
+
 #ifndef REMOTING_SIGNALING_FTL_SERVICES_CONTEXT_H_
 #define REMOTING_SIGNALING_FTL_SERVICES_CONTEXT_H_
 

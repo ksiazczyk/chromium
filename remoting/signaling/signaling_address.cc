@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SignalingAddress implementation
+// summary: Implements SignalingAddress parsing and channel detection, classifying addresses as XMPP, FTL or CORP based on domain and resource prefixes.
+// ---
+
 #include "remoting/signaling/signaling_address.h"
 
 #include <string.h>

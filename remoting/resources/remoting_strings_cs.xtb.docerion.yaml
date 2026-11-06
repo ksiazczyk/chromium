@@ -1,0 +1,4 @@
+# Docerion header of remoting_strings_cs.xtb.
+type: data
+title: Czech remoting strings translation bundle
+summary: XML translation bundle with Czech translations of Chrome Remote Desktop UI strings used by the remoting module.

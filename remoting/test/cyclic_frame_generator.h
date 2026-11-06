@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cyclic frame generator header
+// summary: Declares a frame generator that cycles reference frames and simulates cursor blinking to approximate a real desktop video stream in tests.
+// ---
+
 #ifndef REMOTING_TEST_CYCLIC_FRAME_GENERATOR_H_
 #define REMOTING_TEST_CYCLIC_FRAME_GENERATOR_H_
 

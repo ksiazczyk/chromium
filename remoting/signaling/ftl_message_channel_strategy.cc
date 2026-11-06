@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FtlMessageChannelStrategy implementation
+// summary: Implements FtlMessageChannelStrategy, which handles FTL ReceiveMessagesResponse streams, dispatching inbox messages and detecting pongs to mark the channel active.
+// ---
+
 #include "remoting/signaling/ftl_message_channel_strategy.h"
 
 #include <utility>

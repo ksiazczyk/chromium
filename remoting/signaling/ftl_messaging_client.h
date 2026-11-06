@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FTL messaging client
+// summary: Declares the FtlMessagingClient class for sending and receiving messages via the FTL API with streaming support.
+// ---
+
 #ifndef REMOTING_SIGNALING_FTL_MESSAGING_CLIENT_H_
 #define REMOTING_SIGNALING_FTL_MESSAGING_CLIENT_H_
 

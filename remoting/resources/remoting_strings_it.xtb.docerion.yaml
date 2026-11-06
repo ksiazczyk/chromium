@@ -1,0 +1,4 @@
+# Docerion header of remoting_strings_it.xtb.
+type: data
+title: Italian UI strings for Chrome Remote Desktop
+summary: Italian translation bundle with localized Chrome Remote Desktop interface strings such as connection errors, prompts, and setup messages.

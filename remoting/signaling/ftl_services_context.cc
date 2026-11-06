@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FTL services context implementation
+// summary: Implements helpers for FTL connections such as backoff policy, server endpoint, IDs, and request headers.
+// ---
+
 #include "remoting/signaling/ftl_services_context.h"
 
 #include "base/uuid.h"

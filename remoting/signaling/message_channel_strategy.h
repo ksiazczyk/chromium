@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MessageChannelStrategy interface
+// summary: Defines the interface for use-case specific logic used by MessageChannel, such as creating the stream channel and providing the inactivity timeout.
+// ---
+
 #ifndef REMOTING_SIGNALING_MESSAGE_CHANNEL_STRATEGY_H_
 #define REMOTING_SIGNALING_MESSAGE_CHANNEL_STRATEGY_H_
 

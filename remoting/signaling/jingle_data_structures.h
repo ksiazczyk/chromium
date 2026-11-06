@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Jingle data structures header
+// summary: Defines JabberId, SessionDescription, JingleAuthentication and ICE transport structures used by Jingle signaling messages.
+// ---
+
 #ifndef REMOTING_SIGNALING_JINGLE_DATA_STRUCTURES_H_
 #define REMOTING_SIGNALING_JINGLE_DATA_STRUCTURES_H_
 

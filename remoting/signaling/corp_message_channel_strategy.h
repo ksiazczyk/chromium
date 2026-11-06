@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CorpMessageChannelStrategy class header
+// summary: Declares CorpMessageChannelStrategy, the MessageChannelStrategy implementation for the Corp messaging service.
+// ---
+
 #ifndef REMOTING_SIGNALING_CORP_MESSAGE_CHANNEL_STRATEGY_H_
 #define REMOTING_SIGNALING_CORP_MESSAGE_CHANNEL_STRATEGY_H_
 

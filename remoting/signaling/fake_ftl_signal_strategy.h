@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake FTL signal strategy header
+// summary: Declares FakeFtlSignalStrategy, a stub FtlSignalStrategy that fakes the signaling interface without network communication.
+// ---
+
 #ifndef REMOTING_SIGNALING_FAKE_FTL_SIGNAL_STRATEGY_H_
 #define REMOTING_SIGNALING_FAKE_FTL_SIGNAL_STRATEGY_H_
 

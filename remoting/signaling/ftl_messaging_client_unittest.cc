@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FTL messaging client unit tests
+// summary: Unit tests for FtlMessagingClient covering message sending, receiving, and acknowledgment using fake HTTP responders.
+// ---
+
 #include "remoting/signaling/ftl_messaging_client.h"
 
 #include <algorithm>

@@ -1,0 +1,4 @@
+# Docerion header of remoting_strings_da.xtb.
+type: data
+title: Danish remoting strings translation bundle
+summary: XML translation bundle with Danish translations of Chrome Remote Desktop UI strings used by the remoting module.

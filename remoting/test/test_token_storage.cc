@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestTokenStorage implementation
+// summary: Implements on-disk token storage that persists refresh tokens, access tokens, scopes, user email and device ID in a user specific JSON file.
+// ---
+
 #include "remoting/test/test_token_storage.h"
 
 #include <optional>

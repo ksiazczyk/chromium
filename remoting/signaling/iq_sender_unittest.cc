@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IqSender unit tests
+// summary: Unit tests for IqSender covering IQ sending, response delivery, timeouts and JID normalization.
+// ---
+
 #include "remoting/signaling/iq_sender.h"
 
 #include <memory>

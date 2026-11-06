@@ -1,0 +1,4 @@
+# Docerion header of remoting_strings_si.xtb.
+type: data
+title: Sinhala translations for Chrome Remote Desktop strings
+summary: Translation bundle with Sinhala UI strings for the remoting host and client, covering connections, permissions, and error messages.

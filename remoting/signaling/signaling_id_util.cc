@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signaling ID utilities implementation
+// summary: Implements helpers for normalizing signaling IDs, canonicalizing email addresses, splitting resource suffixes and validating FTL signaling IDs.
+// ---
+
 #include "remoting/signaling/signaling_id_util.h"
 
 #include <stddef.h>

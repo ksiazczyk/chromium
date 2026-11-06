@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SessionAuthzPlayground class header
+// summary: Declares the SessionAuthzPlayground class that exercises session authorization token generation, verification and host reauthorization for Chrome Remote Desktop.
+// ---
+
 #ifndef REMOTING_TEST_SESSION_AUTHZ_PLAYGROUND_H_
 #define REMOTING_TEST_SESSION_AUTHZ_PLAYGROUND_H_
 

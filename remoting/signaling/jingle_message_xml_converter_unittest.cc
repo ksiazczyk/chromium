@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Jingle message XML converter unit tests
+// summary: Unit tests verifying XML conversion of Jingle messages and replies with element comparison helpers.
+// ---
+
 #include "remoting/signaling/jingle_message_xml_converter.h"
 
 #include <memory>

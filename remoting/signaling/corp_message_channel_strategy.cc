@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CorpMessageChannelStrategy implementation
+// summary: Implements the Corp message channel strategy, handling channel open, active, and peer messages for Corp signaling.
+// ---
+
 #include "remoting/signaling/corp_message_channel_strategy.h"
 
 #include <utility>

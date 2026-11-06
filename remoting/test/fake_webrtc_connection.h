@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake WebRTC connection for remoting tests
+// summary: Declares a fake connection that drives a WebrtcTransport and handles transport events such as connecting, data channels and media streams.
+// ---
+
 #ifndef REMOTING_TEST_FAKE_WEBRTC_CONNECTION_H_
 #define REMOTING_TEST_FAKE_WEBRTC_CONNECTION_H_
 

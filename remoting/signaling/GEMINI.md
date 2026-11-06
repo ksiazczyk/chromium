@@ -1,3 +1,13 @@
+---
+type: guide
+title: Remoting signaling instructions
+summary: Instructions and architecture overview for working in remoting/signaling, covering signal strategies, Jingle conversions, and message channels.
+relations:
+  - references /remoting/base/internal_headers.h
+  - references /remoting/signaling/jingle_data_structures.h
+  - references /remoting/signaling/jingle_message_struct_converter.cc
+---
+
 # Remoting Signaling Instructions
 
 Instructions for working in `//remoting/signaling`.

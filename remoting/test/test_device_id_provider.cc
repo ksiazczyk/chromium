@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestDeviceIdProvider implementation
+// summary: Implements a device ID provider that generates a random FTL device ID prefixed for tests and reuses it via the token storage.
+// ---
+
 #include "remoting/test/test_device_id_provider.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeSignalStrategy implementation
+// summary: Implements FakeSignalStrategy, an in-memory signal strategy that pairs two peers and can simulate message reordering, errors, and two-stage connects for tests.
+// ---
+
 #include "remoting/signaling/fake_signal_strategy.h"
 
 #include <utility>

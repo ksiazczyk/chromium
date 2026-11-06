@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake packet socket factory header for tests
+// summary: Declares FakePacketSocketFactory, a test packet socket factory that simulates bandwidth, latency and out-of-order packet delivery.
+// ---
+
 #ifndef REMOTING_TEST_FAKE_SOCKET_FACTORY_H_
 #define REMOTING_TEST_FAKE_SOCKET_FACTORY_H_
 

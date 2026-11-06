@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Jingle data structures implementation
+// summary: Implements JingleMessage payload handling, action name mapping and related signaling data structures for remoting.
+// ---
+
 #include "remoting/signaling/jingle_data_structures.h"
 
 #include <memory>

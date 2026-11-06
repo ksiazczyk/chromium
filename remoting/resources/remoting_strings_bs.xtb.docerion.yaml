@@ -1,0 +1,4 @@
+# Docerion header of remoting_strings_bs.xtb.
+type: data
+title: Bosnian remoting strings translation bundle
+summary: XML translation bundle with Bosnian translations of Chrome Remote Desktop UI strings used by the remoting module.

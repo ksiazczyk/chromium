@@ -1,0 +1,4 @@
+# Docerion header of low_motion.html.
+type: test
+title: Low Motion Benchmark Scenario
+summary: HTML scenario with a deterministic, slow-scrolling text UI serving as a baseline for rate-control stability and quality-per-bitrate measurements.

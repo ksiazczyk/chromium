@@ -1,0 +1,4 @@
+# Docerion header of remoting_strings_hr.xtb.
+type: data
+title: Croatian UI strings for Chrome Remote Desktop
+summary: Croatian translation bundle with localized Chrome Remote Desktop interface strings such as connection errors, prompts, and setup messages.

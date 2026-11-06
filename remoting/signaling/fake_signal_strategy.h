@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeSignalStrategy class declaration
+// summary: Declares FakeSignalStrategy, a test SignalStrategy implementation that connects to a peer instance and can simulate reordering, sign-in errors, and staged connects.
+// ---
+
 #ifndef REMOTING_SIGNALING_FAKE_SIGNAL_STRATEGY_H_
 #define REMOTING_SIGNALING_FAKE_SIGNAL_STRATEGY_H_
 

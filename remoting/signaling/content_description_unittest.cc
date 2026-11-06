@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ContentDescription unit tests
+// summary: Unit test verifying that a ContentDescription can be formatted to XML and parsed back successfully.
+// ---
+
 #include "remoting/signaling/content_description.h"
 
 #include <string>

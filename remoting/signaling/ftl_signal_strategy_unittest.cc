@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FtlSignalStrategy unit tests
+// summary: Unit tests for FtlSignalStrategy covering XML, protobuf and dual-format signaling messages, sign-in flows and message delivery.
+// ---
+
 #include "remoting/signaling/ftl_signal_strategy.h"
 
 #include <memory>

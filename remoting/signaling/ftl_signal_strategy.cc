@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FtlSignalStrategy implementation
+// summary: Implements the SignalStrategy interface on top of the FTL messaging service, handling OAuth sign-in, registration, and sending and receiving Jingle and FTL messages.
+// ---
+
 #include "remoting/signaling/ftl_signal_strategy.h"
 
 #include <utility>

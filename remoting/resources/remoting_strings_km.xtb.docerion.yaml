@@ -1,0 +1,4 @@
+# Docerion header of remoting_strings_km.xtb.
+type: data
+title: Khmer remoting UI strings
+summary: Khmer translation bundle with localized UI strings for the remoting application, covering connection, host, and permission messages.

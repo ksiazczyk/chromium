@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DifferFrameGenerator header
+// summary: Declares a FrameGenerator wrapper that calculates the updated region by comparing the current frame with the previous one.
+// ---
+
 #ifndef REMOTING_TEST_FRAME_GENERATOR_DIFFER_FRAME_GENERATOR_H_
 #define REMOTING_TEST_FRAME_GENERATOR_DIFFER_FRAME_GENERATOR_H_
 
