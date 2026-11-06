@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Simple Popup Action test extension manifest
+summary: Manifest for the Simple Popup Action test extension that registers popup.html as the default popup for DevTools extension tests.

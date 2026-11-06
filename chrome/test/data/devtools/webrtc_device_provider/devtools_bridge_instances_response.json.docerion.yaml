@@ -1,0 +1,4 @@
+# Docerion header of devtools_bridge_instances_response.json.
+type: test
+title: DevTools bridge instances response test data
+summary: Sample clouddevices devices list response describing a Chrome DevTools Bridge device, used as test data for the WebRTC device provider.

@@ -1,0 +1,4 @@
+# Docerion header of mixed_script_in_iframe.html.
+type: test
+title: Mixed content iframe test page
+summary: Test page that embeds mixed_script.html in an iframe for iframe-based mixed content tests.

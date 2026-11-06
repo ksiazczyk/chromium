@@ -1,0 +1,4 @@
+# Docerion header of empty.html.
+type: test
+title: Empty test page
+summary: Empty HTML page serving as a minimal DevTools test fixture.

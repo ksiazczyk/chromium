@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: web_request test extension manifest
+summary: Manifest for a test extension named web_request that requests the webRequest permission, used as test data for DevTools extension tests.

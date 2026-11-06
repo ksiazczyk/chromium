@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Devtools API availability test
+// summary: Verifies that the expected chrome.devtools APIs exist and reports PASS or FAIL into the inspected window console.
+// ---
+
 function output(msg) {
   chrome.devtools.inspectedWindow.eval("console.log(unescape('" +
       escape(msg) + "'));")

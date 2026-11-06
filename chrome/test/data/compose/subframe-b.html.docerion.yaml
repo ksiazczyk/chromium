@@ -1,0 +1,4 @@
+# Docerion header of subframe-b.html.
+type: test
+title: Subframe B test page
+summary: HTML test page with a paragraph and an iframe that embeds subframe-a.html for nested frame testing.

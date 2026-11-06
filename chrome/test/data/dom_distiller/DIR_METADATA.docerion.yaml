@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for dom_distiller test data
+summary: Directory metadata that reuses the common mixins from the dom_distiller component for this test data folder.

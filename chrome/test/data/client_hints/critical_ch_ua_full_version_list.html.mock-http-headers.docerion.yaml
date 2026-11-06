@@ -1,0 +1,4 @@
+# Docerion header of critical_ch_ua_full_version_list.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for critical CH full version list test
+summary: Mock HTTP response headers that advertise sec-ch-ua-full-version-list and sec-ch-dpr via Accept-CH and mark sec-ch-ua-full-version-list as Critical-CH for the paired test page.

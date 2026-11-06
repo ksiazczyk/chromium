@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the DevTools force update test extension
+summary: Manifest v3 definition of the test extension wiring devtools.html as the devtools page and background.js as the service worker.

@@ -1,0 +1,4 @@
+# Docerion header of Local State.
+type: test
+title: Local State test fixture
+summary: Sample Chromium Local State preferences file with profile info, user experience metrics and a variations seed for diagnostics mode tests.

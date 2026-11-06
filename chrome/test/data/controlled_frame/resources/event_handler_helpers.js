@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Controlled Frame event handler test helpers
+// summary: Helpers to register and unregister event handlers in both styles and to record and verify WebRequest event sequences during tests.
+// ---
+
 // Listing all the event handlers:
 const EventHandlers = [
   // For Type 1 - 'addEventListener(EVENT, FUNC)'

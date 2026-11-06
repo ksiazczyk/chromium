@@ -1,0 +1,4 @@
+# Docerion header of oopif-input.html.
+type: test
+title: OOPIF input host page
+summary: Host page embedding a cross-origin iframe for out-of-process iframe input testing.

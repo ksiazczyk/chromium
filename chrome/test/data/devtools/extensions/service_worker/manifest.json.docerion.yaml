@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test service worker extension manifest
+summary: Manifest for a minimal Chrome extension used in DevTools tests, registering service_worker.js as its MV3 background service worker.

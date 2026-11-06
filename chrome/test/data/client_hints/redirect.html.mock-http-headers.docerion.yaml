@@ -1,0 +1,4 @@
+# Docerion header of redirect.html.mock-http-headers.
+type: test
+title: Redirect mock HTTP headers
+summary: Mock HTTP headers responding with a 302 redirect to accept_ch_empty.html for client hints redirect tests.

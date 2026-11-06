@@ -5,6 +5,12 @@
 // Based on
 // //extensions/test/data/web_view/no_internal_calls_to_user_code/main.js.
 
+// ---docerion
+// type: test
+// title: Prototype tainting script for Controlled Frame tests
+// summary: Overwrites Object and DOM prototype properties and methods to throw, verifying Controlled Frame internals never call user-overridden code.
+// ---
+
 // These are needed for the test itself, so keep a reference to the real method.
 EventTarget.prototype.savedAddEventListener =
     EventTarget.prototype.addEventListener;

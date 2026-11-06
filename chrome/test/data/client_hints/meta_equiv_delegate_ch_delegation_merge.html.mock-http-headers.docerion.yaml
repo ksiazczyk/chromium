@@ -1,0 +1,4 @@
+# Docerion header of meta_equiv_delegate_ch_delegation_merge.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for delegation merge test
+summary: Mock HTTP response headers setting Accept-CH and Permissions-Policy values used with the Delegate-CH delegation merge test page.

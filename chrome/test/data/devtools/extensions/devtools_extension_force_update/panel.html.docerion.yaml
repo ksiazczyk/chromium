@@ -1,0 +1,4 @@
+# Docerion header of panel.html.
+type: test
+title: Panel HTML for the force update test extension
+summary: HTML page of the TestPanel that loads panel.js.

@@ -1,0 +1,4 @@
+# Docerion header of extension_resource.html.
+type: test
+title: Extension resource page HTML for the force update test
+summary: HTML page of the extension resource that loads extension_resource.js.

@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: test
+title: Port forwarding test stylesheet
+summary: Stylesheet for the port forwarding test page that sets a 100px left margin on the body.
+*/
+
 body {
     margin-left: 100px;
 }

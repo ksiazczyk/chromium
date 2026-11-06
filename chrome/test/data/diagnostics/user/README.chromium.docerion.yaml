@@ -1,0 +1,4 @@
+# Docerion header of README.chromium.
+type: readme
+title: Diagnostics user test data README
+summary: Explains that the directory contains a dummy user home used to run unit tests for Chromium diagnostics mode.

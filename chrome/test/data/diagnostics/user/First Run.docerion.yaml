@@ -1,0 +1,4 @@
+# Docerion header of First Run.
+type: test
+title: First Run marker file
+summary: Empty First Run marker included in the dummy user home used by Chromium diagnostics mode unit tests.

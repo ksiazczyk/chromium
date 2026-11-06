@@ -1,0 +1,4 @@
+# Docerion header of host.html.
+type: test
+title: Host page embedding a webview
+summary: HTML page shown in the app window that embeds a webview loading inline HTML content for DevTools extension testing.

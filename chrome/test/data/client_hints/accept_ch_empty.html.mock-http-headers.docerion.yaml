@@ -1,0 +1,4 @@
+# Docerion header of accept_ch_empty.html.mock-http-headers.
+type: test
+title: accept_ch_empty mock HTTP headers
+summary: Mock HTTP response with an empty Accept-CH header, so no client hints are enabled for the paired page.

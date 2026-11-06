@@ -5,6 +5,12 @@
 // META script=resources/controlled_frame_helpers.js
 // META script=resources/event_handler_helpers.js
 
+// ---docerion
+// type: test
+// title: Controlled Frame WebRequest core event tests
+// summary: Tests core WebRequest event sequences for normal requests and redirects and checks the details exposed on completed events.
+// ---
+
 promise_test(async (test) => {
   const controlledframe = await createControlledFrame('/simple.html');
   controlledframe.stop();

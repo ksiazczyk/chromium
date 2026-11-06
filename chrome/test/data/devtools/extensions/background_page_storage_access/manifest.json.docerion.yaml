@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for background page storage access test extension
+summary: Manifest V2 definition of the test extension, declaring the background script and storage permission for DevTools storage access testing.

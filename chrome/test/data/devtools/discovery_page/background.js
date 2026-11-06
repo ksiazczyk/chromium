@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Discovery page embeddability test script
+// summary: Browser test script that fetches the remote debugger host and asserts the DevTools discovery page responds with X-Frame-Options DENY so it cannot be embedded.
+// ---
+
 var REMOTE_DEBUGGER_HOST = 'localhost:9222';
 
 chrome.test.runTests([

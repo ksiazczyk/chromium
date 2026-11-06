@@ -6,6 +6,12 @@
 
 // Tests for Controlled Frame navigation-related APIs.
 
+// ---docerion
+// type: test
+// title: Controlled Frame navigation API tests
+// summary: Tests navigation APIs including back, forward, go, canGoBack and canGoForward across successive frame navigations.
+// ---
+
 promise_test(async (test) => {
   let controlledFrame = await createControlledFrame('/simple.html');
   assert_false(await controlledFrame.canGoBack());

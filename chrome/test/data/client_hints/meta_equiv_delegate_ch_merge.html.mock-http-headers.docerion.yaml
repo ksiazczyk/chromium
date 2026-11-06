@@ -1,0 +1,4 @@
+# Docerion header of meta_equiv_delegate_ch_merge.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for meta tag merge test
+summary: Mock HTTP response headers with an Accept-CH header used together with the Delegate-CH meta tag merge test page.

@@ -1,0 +1,4 @@
+# Docerion header of expected_properties.json.
+type: test
+title: Expected Controlled Frame properties list
+summary: JSON list of property and method names expected on the Controlled Frame element, used to check its API surface in tests.

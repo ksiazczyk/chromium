@@ -1,0 +1,4 @@
+# Docerion header of content_index.html.
+type: test
+title: ContentIndexBrowserTest helper page
+summary: HTML helper page for Content Index browser tests that loads the shared test scripts and embeds the iframe helper page.

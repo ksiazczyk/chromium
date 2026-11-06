@@ -1,0 +1,4 @@
+# Docerion header of regress-crbug-1270184.html.
+type: test
+title: Regression page for crbug 1270184
+summary: Regression test page with a srcdoc iframe whose unload handler calls document.open, reproducing crbug 1270184.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Simple content script test extension manifest
+summary: Manifest for a test extension with a content script matching all HTTP pages and storage permission, used as DevTools test data.

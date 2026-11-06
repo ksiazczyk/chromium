@@ -1,0 +1,4 @@
+# Docerion header of indexed-affix.aff.
+type: test
+title: Continuation class test fixture
+summary: Test affix file exercising continuation classes, where an affix declares that it may be followed by another affix.

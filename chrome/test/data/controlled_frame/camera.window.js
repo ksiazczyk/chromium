@@ -4,6 +4,12 @@
 
 // META script=resources/controlled_frame_helpers.js
 
+// ---docerion
+// type: test
+// title: Controlled Frame camera permission tests
+// summary: Tests that a media permission request is surfaced to the embedder and granting it lets getUserMedia acquire video tracks inside the frame.
+// ---
+
 promise_setup(async () => {
   await test_driver.set_permission({ name: "camera" }, "granted");
 });

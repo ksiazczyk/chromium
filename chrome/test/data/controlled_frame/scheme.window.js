@@ -4,6 +4,12 @@
 
 // META script=resources/controlled_frame_helpers.js
 
+// ---docerion
+// type: test
+// title: Controlled Frame disallowed URL scheme tests
+// summary: Verifies that navigating to disallowed schemes fires loadabort with ERR_DISALLOWED_URL_SCHEME and redirects to about:blank without crashing.
+// ---
+
 const makeBadSchemeCheck = function(test, badURL) {
   return new Promise((resolve, reject) => {
     try {

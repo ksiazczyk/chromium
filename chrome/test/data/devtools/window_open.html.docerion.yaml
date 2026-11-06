@@ -1,0 +1,4 @@
+# Docerion header of window_open.html.
+type: test
+title: Page with a debugger statement for window.open tests
+summary: Minimal test page containing a debugger statement, used with window.open scenarios in DevTools tests.

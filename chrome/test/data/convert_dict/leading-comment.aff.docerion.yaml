@@ -1,0 +1,4 @@
+# Docerion header of leading-comment.aff.
+type: test
+title: Leading comment test fixture
+summary: Test affix file with a leading comment containing the word Foobar, to check comment handling.

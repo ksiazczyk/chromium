@@ -1,0 +1,4 @@
+# Docerion header of critical_ch_ua_full_version.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for critical_ch_ua_full_version.html
+summary: Mock response headers advertising and requiring sec-ch-ua-full-version via Accept-CH and Critical-CH.

@@ -1,0 +1,4 @@
+# Docerion header of basic.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for basic.html
+summary: Mock HTTP response headers serving basic.html as text/html in client hints tests.

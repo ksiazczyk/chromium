@@ -1,0 +1,4 @@
+# Docerion header of iframe.html.
+type: test
+title: Iframe test page
+summary: Simple page containing iframe content used as a DevTools test fixture.

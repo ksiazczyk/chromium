@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the On Clicked Action Event Dispatcher test extension
+summary: Manifest version 3 manifest registering the background service worker and action used by the DevTools extension on-clicked test.

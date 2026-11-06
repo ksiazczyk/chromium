@@ -1,0 +1,4 @@
+# Docerion header of other-commands.aff.
+type: test
+title: Unknown commands test fixture
+summary: Test affix file using commands the parser does not know about, to check unknown-command handling.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DevTools can-inspect-URL test driver
+// summary: Test driver that navigates the inspected tab to a target URL and verifies DevTools loses access to restricted pages, reporting PASS or FAIL.
+// ---
+
 function output(msg) {
   top.postMessage({testOutput: msg}, '*');
 }

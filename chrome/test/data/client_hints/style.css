@@ -3,6 +3,13 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file.
  */
+
+/*docerion
+type: test
+title: Style CSS fixture with nested import
+summary: CSS fixture that imports nested_style.css from my-site-c.com and sets the body font size, used in client hints tests.
+*/
+
 @import url(https://my-site-c.com:44444/nested_style.css);
 
 body {

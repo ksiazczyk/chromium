@@ -1,0 +1,4 @@
+# Docerion header of edit_context_selection.html.
+type: test
+title: EditContext selection test page for dictation
+summary: Test page that attaches an EditContext to a canvas, updates its selection bounds, and mirrors the selected text in an iframe to exercise dictation selection handling.

@@ -1,0 +1,4 @@
+# Docerion header of oopif_frame.html.
+type: test
+title: OOPIF frame content with a red inspected div
+summary: Simple frame page containing a large red div used as the cross-origin iframe content for out-of-process iframe tests.

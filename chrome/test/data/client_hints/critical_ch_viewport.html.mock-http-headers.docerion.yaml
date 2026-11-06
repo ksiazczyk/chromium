@@ -1,0 +1,4 @@
+# Docerion header of critical_ch_viewport.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for critical CH viewport test
+summary: Mock HTTP response headers that advertise viewport-width and viewport-height client hints via Accept-CH and mark them as Critical-CH for the paired test page.

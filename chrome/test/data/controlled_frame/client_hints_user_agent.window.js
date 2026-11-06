@@ -4,6 +4,12 @@
 
 // META script=resources/controlled_frame_helpers.js
 
+// ---docerion
+// type: test
+// title: Controlled Frame Client Hints user-agent brand tests
+// summary: Tests that the ControlledFrame brand appears in navigator.userAgentData and can be toggled on and off with setClientHintsUABrandEnabled.
+// ---
+
 
 const getControlledFrameClientHintsUserAgent =
     async function(controlledFrame) {

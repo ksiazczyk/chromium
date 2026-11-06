@@ -1,0 +1,4 @@
+# Docerion header of popup.html.
+type: test
+title: Popup Action test extension popup page
+summary: Popup page of the Simple Popup Action test extension, showing a Popup! heading and loading popup.js during DevTools extension tests.
