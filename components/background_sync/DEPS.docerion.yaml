@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the background_sync directory
+summary: Lists the include rules that allow dependencies on content settings, permissions, keep-alive registry, content and blink headers.

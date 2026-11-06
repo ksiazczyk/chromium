@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA referencing shared metadata mixins
+summary: Applies the COMMON_METADATA mixins from the background_sync directory to this folder.

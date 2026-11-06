@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Back-forward cache include dependency rules
+summary: Specifies allowed include dependencies for the back_forward_cache component, permitting content/public/browser and blink common headers.

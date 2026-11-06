@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BackgroundSyncControllerImpl class declaration
+// summary: Declares the KeyedService implementing content::BackgroundSyncController, with field trial parameter names and registration and completion notification overrides.
+// ---
+
 #ifndef COMPONENTS_BACKGROUND_SYNC_BACKGROUND_SYNC_CONTROLLER_IMPL_H_
 #define COMPONENTS_BACKGROUND_SYNC_BACKGROUND_SYNC_CONTROLLER_IMPL_H_
 

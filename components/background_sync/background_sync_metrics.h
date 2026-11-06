@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BackgroundSyncMetrics class declaration
+// summary: Declares the UI-thread BackgroundSyncMetrics helper that records UKM events for background sync registration and completion.
+// ---
+
 #ifndef COMPONENTS_BACKGROUND_SYNC_BACKGROUND_SYNC_METRICS_H_
 #define COMPONENTS_BACKGROUND_SYNC_BACKGROUND_SYNC_METRICS_H_
 

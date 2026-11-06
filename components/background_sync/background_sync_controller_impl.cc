@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BackgroundSyncControllerImpl implementation
+// summary: Implements the browser-side Background Sync controller, applying field trial parameters and unregistering periodic sync when content settings change.
+// ---
+
 #include "components/background_sync/background_sync_controller_impl.h"
 
 #include "base/metrics/field_trial_params.h"

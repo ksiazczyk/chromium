@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Background Fetch directory metadata
+summary: Points to the shared COMMON_METADATA mixins from content/browser/background_fetch for this directory's metadata.

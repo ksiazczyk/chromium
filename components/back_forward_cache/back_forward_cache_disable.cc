@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Back-forward cache disable reason helpers implementation
+// summary: Implements helpers that map DisabledReasonId values to debug and NotRestoredReasons report strings and construct content::BackForwardCache::DisabledReason objects.
+// ---
+
 #include "components/back_forward_cache/back_forward_cache_disable.h"
 
 #include "content/public/browser/back_forward_cache.h"

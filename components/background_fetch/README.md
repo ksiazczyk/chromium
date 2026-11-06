@@ -1,3 +1,11 @@
+---
+type: readme
+title: Background Fetch component overview
+summary: Explains that the component implements BackgroundFetchDelegate on top of DownloadService, with embedders providing the UI via BackgroundFetchDelegateBase specializations.
+relations:
+  - references /content/public/browser/background_fetch_delegate.h
+---
+
 # Background Fetch
 
 This component contains code which implements [BackgroundFetchDelegate](content/public/browser/background_fetch_delegate.h)

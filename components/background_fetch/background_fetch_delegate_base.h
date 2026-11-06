@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background Fetch delegate base header
+// summary: Declares the BackgroundFetchDelegateBase class implementing BackgroundFetchDelegate via BackgroundDownloadService, shared by multiple embedders with their own UI.
+// ---
+
 #ifndef COMPONENTS_BACKGROUND_FETCH_BACKGROUND_FETCH_DELEGATE_BASE_H_
 #define COMPONENTS_BACKGROUND_FETCH_BACKGROUND_FETCH_DELEGATE_BASE_H_
 

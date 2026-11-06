@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background Fetch download client header
+// summary: Declares the DownloadClient class, a DownloadService client used by Background Fetch that mostly forwards calls to BackgroundFetchDelegateBase.
+// ---
+
 #ifndef COMPONENTS_BACKGROUND_FETCH_DOWNLOAD_CLIENT_H_
 #define COMPONENTS_BACKGROUND_FETCH_DOWNLOAD_CLIENT_H_
 
