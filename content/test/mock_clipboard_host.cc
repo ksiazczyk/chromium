@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock clipboard host implementation
+// summary: Implements a mock ClipboardHost that stores clipboard data and tracks read calls for tests.
+// ---
+
 #include "content/test/mock_clipboard_host.h"
 
 #include <algorithm>

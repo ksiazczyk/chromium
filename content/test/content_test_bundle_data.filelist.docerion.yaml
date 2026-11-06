@@ -1,0 +1,4 @@
+# Docerion header of content_test_bundle_data.filelist.
+type: config
+title: iOS content test bundle file list
+summary: Generated list of data files packaged into the iOS content test bundle, including third-party ARIA practices resources; not to be edited by hand.

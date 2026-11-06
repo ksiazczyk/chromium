@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestBackgroundSyncProxy class header
+// summary: Declares a test BackgroundSyncProxy exposing timers so tests can inspect and trigger delayed sync processing tasks.
+// ---
+
 #ifndef CONTENT_TEST_TEST_BACKGROUND_SYNC_PROXY_H_
 #define CONTENT_TEST_TEST_BACKGROUND_SYNC_PROXY_H_
 

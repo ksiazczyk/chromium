@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Stub RenderWidgetHostOwnerDelegate header
+// summary: Declares a stub RenderWidgetHostOwnerDelegate with no-op overrides of focus, mouse, zoom, and preference methods for tests.
+// ---
+
 #ifndef CONTENT_TEST_STUB_RENDER_WIDGET_HOST_OWNER_DELEGATE_H_
 #define CONTENT_TEST_STUB_RENDER_WIDGET_HOST_OWNER_DELEGATE_H_
 

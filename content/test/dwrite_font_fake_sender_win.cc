@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake DWrite font collection sender for Windows tests
+// summary: Implements FakeFontCollection and helpers that fake the DWriteFontProxy Mojo interface with a seeded font collection for Windows font proxy tests.
+// ---
+
 #include "content/test/dwrite_font_fake_sender_win.h"
 
 #include <dwrite.h>

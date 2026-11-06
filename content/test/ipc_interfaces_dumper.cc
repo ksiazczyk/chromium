@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IPC interfaces dumper test helpers
+// summary: Implements test helpers that collect the bound Mojo interfaces of render frame and render process hosts for testing.
+// ---
+
 #include "content/public/test/ipc_interfaces_dumper.h"
 
 #include "content/browser/renderer_host/render_frame_host_impl.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentBrowserTestBase setup implementation
+// summary: Implements SetUpOnMainThread for ContentBrowserTestBase by starting the embedded test server and mapping all hosts to localhost.
+// ---
+
 #include "content/test/content_browser_test_base.h"
 
 #include "net/dns/mock_host_resolver.h"

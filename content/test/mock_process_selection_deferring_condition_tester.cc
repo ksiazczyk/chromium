@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Mock process selection deferring condition tester implementation
+// summary: Implements a mock ProcessSelectionDeferringCondition and tester that observe and control navigation deferring conditions in tests.
+// ---
+
 #include "content/test/mock_process_selection_deferring_condition_tester.h"
 
 #include <utility>

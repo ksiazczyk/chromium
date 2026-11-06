@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock SSL host state delegate implementation
+// summary: Implements a mock SSLHostStateDelegate that tracks per-host certificate exceptions, insecure content, HTTP allowances and HTTPS enforcement for tests.
+// ---
+
 #include "content/test/mock_ssl_host_state_delegate.h"
 
 #include "base/functional/callback.h"

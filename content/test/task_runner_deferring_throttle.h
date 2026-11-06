@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TaskRunnerDeferringThrottle header
+// summary: Declares a test navigation throttle that defers navigations via an async task on a supplied task runner, with overridable resume behavior.
+// ---
+
 #ifndef CONTENT_TEST_TASK_RUNNER_DEFERRING_THROTTLE_H_
 #define CONTENT_TEST_TASK_RUNNER_DEFERRING_THROTTLE_H_
 

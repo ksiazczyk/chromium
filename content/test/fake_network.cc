@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeNetwork test network mock implementation
+// summary: Implements FakeNetwork, which serves canned HTTP responses to URL requests so tests can mock network activity with default or per-URL responses.
+// ---
+
 #include "content/test/fake_network.h"
 
 #include "base/byte_size.h"

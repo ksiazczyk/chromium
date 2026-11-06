@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock platform notification service implementation
+// summary: Implements a mock platform notification service that tracks persistent and non-persistent notifications for content tests.
+// ---
+
 #include "content/test/mock_platform_notification_service.h"
 
 #include <set>

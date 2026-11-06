@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake DWrite font collection sender header
+// summary: Declares FakeFont and FakeFontCollection, which emulate the DWriteFontProxy Mojo interface and track sent messages for Windows font proxy tests.
+// ---
+
 #ifndef CONTENT_TEST_DWRITE_FONT_FAKE_SENDER_WIN_H_
 #define CONTENT_TEST_DWRITE_FONT_FAKE_SENDER_WIN_H_
 

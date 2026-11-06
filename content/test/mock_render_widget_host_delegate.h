@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock render widget host delegate for content tests
+// summary: Header defining a mock RenderWidgetHostDelegate that records keyboard, mouse and gesture events and lets tests configure event handling, focus and fullscreen behavior.
+// ---
+
 #ifndef CONTENT_TEST_MOCK_RENDER_WIDGET_HOST_DELEGATE_H_
 #define CONTENT_TEST_MOCK_RENDER_WIDGET_HOST_DELEGATE_H_
 

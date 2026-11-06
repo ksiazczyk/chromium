@@ -1,0 +1,4 @@
+# Docerion header of echo.test-mojom.
+type: test
+title: Echo test Mojo interface
+summary: Defines a content.mojom Echo interface that echoes back a passed-in string, for use in tests.

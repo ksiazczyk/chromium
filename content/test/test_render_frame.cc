@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestRenderFrame implementation
+// summary: Implements a test RenderFrameImpl with a mock frame host, stub mojo receivers and helpers to simulate navigations in RenderViewTests.
+// ---
+
 #include "content/test/test_render_frame.h"
 
 #include <optional>

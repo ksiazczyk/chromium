@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake renderer compositor frame sink implementation
+// summary: Implements a fake CompositorFrameSinkClient that records frame acknowledgements and reclaimed resources for renderer tests.
+// ---
+
 #include "content/test/fake_renderer_compositor_frame_sink.h"
 
 namespace content {

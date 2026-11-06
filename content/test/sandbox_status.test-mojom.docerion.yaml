@@ -1,0 +1,4 @@
+# Docerion header of sandbox_status.test-mojom.
+type: test
+title: Sandbox status test Mojom interface
+summary: Defines the SandboxStatusService Mojom interface used to test the Linux sandbox, returning a sandbox status bitmask and whether Seccomp-BPF started.

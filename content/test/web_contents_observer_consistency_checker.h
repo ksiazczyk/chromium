@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebContentsObserverConsistencyChecker declaration
+// summary: Declares a WebContentsObserver that validates the contract between WebContents and its observers and is installed automatically on WebContents in tests.
+// ---
+
 #ifndef CONTENT_TEST_WEB_CONTENTS_OBSERVER_CONSISTENCY_CHECKER_H_
 #define CONTENT_TEST_WEB_CONTENTS_OBSERVER_CONSISTENCY_CHECKER_H_
 

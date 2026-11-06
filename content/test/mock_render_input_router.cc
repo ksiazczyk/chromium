@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock render input router implementation
+// summary: Implements a mock RenderInputRouter that records forwarded touch and gesture events and sniffs touch acks for tests.
+// ---
+
 #include "content/test/mock_render_input_router.h"
 
 #include "base/task/single_thread_task_runner.h"

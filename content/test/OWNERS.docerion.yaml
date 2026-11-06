@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners for content test files
+summary: Ownership rules for content test files, delegating per-file review to owners of the related browser, renderer, accessibility, and platform code.

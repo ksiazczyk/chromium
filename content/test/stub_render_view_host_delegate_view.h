@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Stub RenderViewHostDelegateView for tests
+// summary: Declares a stub subclass of RenderViewHostDelegateView whose methods are all no-op stubs for use in tests.
+// ---
+
 #ifndef CONTENT_TEST_STUB_RENDER_VIEW_HOST_DELEGATE_VIEW_H_
 #define CONTENT_TEST_STUB_RENDER_VIEW_HOST_DELEGATE_VIEW_H_
 

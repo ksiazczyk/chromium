@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock widget implementation
+// summary: Implements a mock blink Widget mojom receiver that records visual properties, screen rects, touch actions and shown or hidden state for tests.
+// ---
+
 #include "content/test/mock_widget.h"
 
 namespace content {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock reduce accept-language controller delegate
+// summary: Declares a mock ReduceAcceptLanguageControllerDelegate for testing reduced Accept-Language persistence.
+// ---
+
 #ifndef CONTENT_TEST_MOCK_REDUCE_ACCEPT_LANGUAGE_CONTROLLER_DELEGATE_H_
 #define CONTENT_TEST_MOCK_REDUCE_ACCEPT_LANGUAGE_CONTROLLER_DELEGATE_H_
 

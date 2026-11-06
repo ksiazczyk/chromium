@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test page broadcast implementation
+// summary: Implements a mostly no-op test blink::mojom::PageBroadcast receiver that immediately runs callbacks and can be extended with functionality as needed.
+// ---
+
 #include "content/test/test_page_broadcast.h"
 
 #include "third_party/blink/public/mojom/frame/frame.mojom.h"

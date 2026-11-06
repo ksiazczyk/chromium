@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestBackgroundSyncContext class header
+// summary: Declares TestBackgroundSyncContext, a BackgroundSyncContextImpl subclass for unit tests that creates a test BackgroundSyncManager.
+// ---
+
 #ifndef CONTENT_TEST_TEST_BACKGROUND_SYNC_CONTEXT_H_
 #define CONTENT_TEST_TEST_BACKGROUND_SYNC_CONTEXT_H_
 

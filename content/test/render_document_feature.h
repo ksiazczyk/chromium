@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RenderDocument feature test helper declarations
+// summary: Declares functions to enable the RenderDocument feature in tests, list its level values, and map level names to test-parameter-safe names.
+// ---
+
 #ifndef CONTENT_TEST_RENDER_DOCUMENT_FEATURE_H_
 #define CONTENT_TEST_RENDER_DOCUMENT_FEATURE_H_
 

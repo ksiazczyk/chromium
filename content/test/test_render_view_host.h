@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestRenderViewHost testing framework header
+// summary: Declares a testing framework that mocks the RenderProcessHost layer so tests can exercise RenderViewHost, WebContentsImpl and NavigationController without a real renderer.
+// ---
+
 #ifndef CONTENT_TEST_TEST_RENDER_VIEW_HOST_H_
 #define CONTENT_TEST_TEST_RENDER_VIEW_HOST_H_
 

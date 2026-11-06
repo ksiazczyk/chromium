@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestBlinkWebUnitTestSupport implementation
+// summary: Implements Blink platform test support, initializing V8, schedulers, and locale resources for content unit tests.
+// ---
+
 #include "content/test/test_blink_web_unit_test_support.h"
 
 #include <memory>

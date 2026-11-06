@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test page broadcast header
+// summary: Declares TestPageBroadcast, a test blink::mojom::PageBroadcast implementation bound to an associated Mojo receiver with FlushForTesting support.
+// ---
+
 #ifndef CONTENT_TEST_TEST_PAGE_BROADCAST_H_
 #define CONTENT_TEST_TEST_PAGE_BROADCAST_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockKeyboard test interface header
+// summary: Declares a pseudo keyboard device for RenderViewTest cases that maps keyboard layout, key code and modifiers to Unicode characters.
+// ---
+
 #ifndef CONTENT_TEST_MOCK_KEYBOARD_H_
 #define CONTENT_TEST_MOCK_KEYBOARD_H_
 

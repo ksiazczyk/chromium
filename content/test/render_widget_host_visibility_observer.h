@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Render widget host visibility observer header
+// summary: Declares a RenderWidgetHostObserver test helper that blocks via a run loop until widget visibility matches an expected state.
+// ---
+
 #ifndef CONTENT_TEST_RENDER_WIDGET_HOST_VISIBILITY_OBSERVER_H_
 #define CONTENT_TEST_RENDER_WIDGET_HOST_VISIBILITY_OBSERVER_H_
 

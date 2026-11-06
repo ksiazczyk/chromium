@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestRenderFrameHost unit tests
+// summary: Unit tests checking that loading events simulated by NavigationSimulator and TestRenderFrameHost match real callback ordering for cross- and same-document navigations.
+// ---
+
 #include "content/test/test_render_frame_host.h"
 
 #include <string>

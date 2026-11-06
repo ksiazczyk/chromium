@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GPU browsertest helpers header
+// summary: Declares browser test helpers for establishing a GPU channel connection and creating a ContextProviderCommandBuffer from it.
+// ---
+
 #ifndef CONTENT_TEST_GPU_BROWSERTEST_HELPERS_H_
 #define CONTENT_TEST_GPU_BROWSERTEST_HELPERS_H_
 

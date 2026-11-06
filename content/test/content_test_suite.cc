@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content test suite implementation
+// summary: Implements the content unit test suite, initializing the test environment and enabling or disabling field trials for content_unittests.
+// ---
+
 #include "content/test/content_test_suite.h"
 
 #include "base/base_paths.h"

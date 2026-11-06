@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FrameHostInterceptor header
+// summary: Declares a WebContentsObserver that lets unit and browser tests intercept FrameHost calls such as BeginNavigation just before they reach the implementation.
+// ---
+
 #ifndef CONTENT_TEST_FRAME_HOST_INTERCEPTOR_H_
 #define CONTENT_TEST_FRAME_HOST_INTERCEPTOR_H_
 

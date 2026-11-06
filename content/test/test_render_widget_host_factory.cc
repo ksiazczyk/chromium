@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestRenderWidgetHostFactory implementation
+// summary: Implements a scoped factory that creates TestRenderWidgetHost instances while registered with the RenderWidgetHostFactory.
+// ---
+
 #include "content/test/test_render_widget_host_factory.h"
 
 #include "content/test/test_render_widget_host.h"

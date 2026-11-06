@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestRenderFrameHost implementation
+// summary: Implements a test RenderFrameHostImpl with navigation simulation, commit parameter capture and test URL loader wiring for content unit tests.
+// ---
+
 #include "content/test/test_render_frame_host.h"
 
 #include <algorithm>

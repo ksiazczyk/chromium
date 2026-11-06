@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test page implementation
+// summary: Implements TestPage, a PageImpl subclass that lets tests override and update a page's manifest URL.
+// ---
+
 #include "content/test/test_page.h"
 
 #include "content/browser/renderer_host/render_frame_host_delegate.h"

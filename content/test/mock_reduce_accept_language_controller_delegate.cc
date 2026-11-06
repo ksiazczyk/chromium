@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock reduce accept-language controller delegate implementation
+// summary: Implements a mock delegate that stores user accept languages and per-origin reduced languages for tests.
+// ---
+
 #include "content/test/mock_reduce_accept_language_controller_delegate.h"
 
 #include <string_view>

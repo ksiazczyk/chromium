@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fenced frame test utilities implementation
+// summary: Implements fenced frame test helpers such as root FrameTreeNode lookup, shared storage URN mapping simulation, mapping result observation, and a FencedFrameURLMapping test peer.
+// ---
+
 #include "content/test/fenced_frame_test_utils.h"
 
 #include "base/location.h"

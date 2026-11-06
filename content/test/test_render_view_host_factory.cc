@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestRenderViewHostFactory implementation
+// summary: Implements a scoped factory that creates TestRenderViewHosts and installs test render process and agent scheduling group factories while in scope.
+// ---
+
 #include "content/test/test_render_view_host_factory.h"
 
 #include "content/browser/renderer_host/agent_scheduling_group_host.h"

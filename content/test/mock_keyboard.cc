@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockKeyboard platform-independent implementation
+// summary: Implements the platform-independent part of a mock keyboard that maps layout, key code and modifiers to Unicode characters, with the real logic on Windows.
+// ---
+
 #include "content/test/mock_keyboard.h"
 
 #include "base/check.h"

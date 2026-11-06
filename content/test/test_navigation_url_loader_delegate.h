@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test navigation URL loader delegate header
+// summary: Declares TestNavigationURLLoaderDelegate, a test NavigationURLLoaderDelegate that monitors navigation progress in the network stack and waits for events.
+// ---
+
 #ifndef CONTENT_TEST_TEST_NAVIGATION_URL_LOADER_DELEGATE_H_
 #define CONTENT_TEST_TEST_NAVIGATION_URL_LOADER_DELEGATE_H_
 

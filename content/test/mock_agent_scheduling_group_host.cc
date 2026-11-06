@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock agent scheduling group host implementation
+// summary: Implements a mock AgentSchedulingGroupHost and a factory that creates it for use in content tests.
+// ---
+
 #include <memory>
 
 #include "content/test/mock_agent_scheduling_group_host.h"

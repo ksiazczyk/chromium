@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockCommitDeferringCondition implementation for navigation tests
+// summary: Implements a mock CommitDeferringCondition plus wrapper and installer helpers to control and observe navigation commit deferral in content tests.
+// ---
+
 #include "content/test/mock_commit_deferring_condition.h"
 
 #include "content/browser/renderer_host/navigation_request.h"

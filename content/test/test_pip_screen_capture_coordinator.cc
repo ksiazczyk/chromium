@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestPipScreenCaptureCoordinator implementation
+// summary: Implements a simple test PipScreenCaptureCoordinator that tracks screen capture exclusion state and notifies registered exclusion observers.
+// ---
+
 #include "content/test/test_pip_screen_capture_coordinator.h"
 
 namespace content {

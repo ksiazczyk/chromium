@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SandboxStatusService implementation
+// summary: Implements a self-owned Mojo service that reports the Linux sandbox status and whether seccomp BPF is running, for use in content tests.
+// ---
+
 #include "content/test/sandbox_status_service.h"
 
 #include "mojo/public/cpp/bindings/self_owned_receiver.h"

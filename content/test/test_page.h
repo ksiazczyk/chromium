@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test page header
+// summary: Declares TestPage, a PageImpl test subclass that overrides manifest URL retrieval and updates for testing.
+// ---
+
 #ifndef CONTENT_TEST_TEST_PAGE_H_
 #define CONTENT_TEST_TEST_PAGE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Top frame origin population browser tests
+// summary: Browser tests verifying that the top frame origin field is correctly populated on subresource requests from top-level and nested frames.
+// ---
+
 #include "base/test/bind.h"
 #include "base/test/task_environment.h"
 #include "content/public/test/browser_test.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentBrowserTestBase base class for content browser tests
+// summary: Declares a generic base class for content-internal browser tests with helpers for web contents, main frames, and frame hosts.
+// ---
+
 #ifndef CONTENT_TEST_CONTENT_BROWSER_TEST_BASE_H_
 #define CONTENT_TEST_CONTENT_BROWSER_TEST_BASE_H_
 

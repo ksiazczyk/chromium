@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for content tests
+summary: DEPS include rules for content/test, allowing test utilities to access content internals and specific component and service dependencies.

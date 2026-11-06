@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FrameHostInterceptor implementation
+// summary: Implements interception of mojom::FrameHost messages dispatched to a RenderFrameHostImpl so tests can scrutinize or alter navigation parameters before dispatch.
+// ---
+
 #include "content/test/frame_host_interceptor.h"
 
 #include <utility>

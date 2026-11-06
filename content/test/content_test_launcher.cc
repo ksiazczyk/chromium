@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content test launcher main
+// summary: Entry point that launches content browser tests via the base test launcher, with a content shell delegate and platform-specific setup.
+// ---
+
 #include "base/base_paths.h"
 #include "base/command_line.h"
 #include "base/i18n/icu_util.h"

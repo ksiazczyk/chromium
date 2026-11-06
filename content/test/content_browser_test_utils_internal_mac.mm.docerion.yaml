@@ -1,0 +1,4 @@
+# Docerion header of content_browser_test_utils_internal_mac.mm.
+type: test
+title: Mac popup mouse event routing test helper
+summary: Mac-specific helper that routes mouse events to the popup render widget view for use in browser tests.

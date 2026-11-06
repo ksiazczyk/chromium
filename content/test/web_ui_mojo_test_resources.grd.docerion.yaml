@@ -1,0 +1,4 @@
+# Docerion header of web_ui_mojo_test_resources.grd.
+type: config
+title: WebUI Mojo test resources definition
+summary: Grit resource list bundling the HTML and JavaScript test pages used by WebUI Mojo and managed interface tests in content_browsertests.

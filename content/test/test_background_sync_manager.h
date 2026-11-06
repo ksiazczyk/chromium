@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestBackgroundSyncManager class header
+// summary: Declares a test BackgroundSyncManager letting unit tests control backend delays, corruption, and the firing of sync events.
+// ---
+
 #ifndef CONTENT_TEST_TEST_BACKGROUND_SYNC_MANAGER_H_
 #define CONTENT_TEST_TEST_BACKGROUND_SYNC_MANAGER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock speech recognition event listener
+// summary: Header defining a GMock SpeechRecognitionEventListener that mocks recognition start and end, audio and sound events, results, errors and audio level changes.
+// ---
+
 #ifndef CONTENT_TEST_MOCK_SPEECH_RECOGNITION_EVENT_LISTENER_H_
 #define CONTENT_TEST_MOCK_SPEECH_RECOGNITION_EVENT_LISTENER_H_
 

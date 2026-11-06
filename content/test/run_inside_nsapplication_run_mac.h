@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mac NSApplication run test helper header
+// summary: Declares RunInsideNSApplicationRun, which runs a closure synchronously inside -[NSApplication run] so NSApp.running is true as in production UI code.
+// ---
+
 #ifndef CONTENT_TEST_RUN_INSIDE_NSAPPLICATION_RUN_MAC_H_
 #define CONTENT_TEST_RUN_INSIDE_NSAPPLICATION_RUN_MAC_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockOverscrollRefreshHandlerAndroid implementation
+// summary: Implements a mock Android overscroll refresh handler that signals pull-to-refresh updates and ends so tests can synchronize on them.
+// ---
+
 #include "content/test/mock_overscroll_refresh_handler_android.h"
 
 #include "content/public/test/test_utils.h"

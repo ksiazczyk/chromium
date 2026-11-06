@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Internal browser test utilities header
+// summary: Declares internal helper functions and classes for content module browser tests, such as NavigateFrameToURL and iframe creation utilities.
+// ---
+
 #ifndef CONTENT_TEST_CONTENT_BROWSER_TEST_UTILS_INTERNAL_H_
 #define CONTENT_TEST_CONTENT_BROWSER_TEST_UTILS_INTERNAL_H_
 

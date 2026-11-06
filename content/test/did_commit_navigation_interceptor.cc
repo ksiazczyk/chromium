@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DidCommitNavigationInterceptor test support implementation
+// summary: Implements a WebContentsObserver that intercepts DidCommitNavigation processing in RenderFrameHostImpl so tests can inspect or alter commit parameters.
+// ---
+
 #include "content/test/did_commit_navigation_interceptor.h"
 
 #include "base/memory/raw_ptr.h"

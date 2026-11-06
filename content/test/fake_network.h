@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeNetwork test network mock header
+// summary: Declares FakeNetwork, a URLLoaderInterceptor helper returning default or per-URL canned responses to mock network activity in tests.
+// ---
+
 #ifndef CONTENT_TEST_FAKE_NETWORK_H_
 #define CONTENT_TEST_FAKE_NETWORK_H_
 

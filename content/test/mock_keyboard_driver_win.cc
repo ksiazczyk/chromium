@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockKeyboardDriverWin implementation
+// summary: Implements the Windows platform-dependent keyboard driver that switches layouts and key states and maps key codes to Unicode characters for tests.
+// ---
+
 #include "content/test/mock_keyboard_driver_win.h"
 
 #include <stddef.h>

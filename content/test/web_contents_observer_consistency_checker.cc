@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebContentsObserver consistency checker implementation
+// summary: Implements a WebContentsObserver that CHECKs the consistency of observer callbacks to find bugs in the content layer during tests.
+// ---
+
 #include "content/test/web_contents_observer_consistency_checker.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestNavigationURLLoader class header
+// summary: Declares a test NavigationURLLoader used to simulate network stack responses in navigation tests.
+// ---
+
 #ifndef CONTENT_TEST_TEST_NAVIGATION_URL_LOADER_H_
 #define CONTENT_TEST_TEST_NAVIGATION_URL_LOADER_H_
 

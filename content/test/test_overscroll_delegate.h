@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test overscroll delegate header
+// summary: Declares TestOverscrollDelegate, an OverscrollControllerDelegate test double exposing overscroll modes, delta caps and completion callbacks.
+// ---
+
 #ifndef CONTENT_TEST_TEST_OVERSCROLL_DELEGATE_H_
 #define CONTENT_TEST_TEST_OVERSCROLL_DELEGATE_H_
 

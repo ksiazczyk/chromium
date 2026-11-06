@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake renderer compositor frame sink for tests
+// summary: Declares a fake CompositorFrameSinkClient given to RenderWidgetHost tests in place of the real renderer compositor frame sink, tracking acks and reclaimed resources.
+// ---
+
 #ifndef CONTENT_TEST_FAKE_RENDERER_COMPOSITOR_FRAME_SINK_H_
 #define CONTENT_TEST_FAKE_RENDERER_COMPOSITOR_FRAME_SINK_H_
 
