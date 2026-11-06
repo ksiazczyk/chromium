@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing ruleset publisher implementation
+// summary: Implements SafeBrowsingRulesetPublisher, which sends the subresource filter ruleset file to renderer processes over a Mojo interface.
+// ---
+
 #include "components/subresource_filter/content/browser/safe_browsing_ruleset_publisher.h"
 
 #include <memory>

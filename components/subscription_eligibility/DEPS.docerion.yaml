@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the subscription eligibility component
+summary: Allows the component to include headers from internal subscription eligibility, keyed service core, pref registry, prefs, and sync preferences.

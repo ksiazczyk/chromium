@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the ruleset_converter tool
+summary: Defines the source sets, dependencies, and unit test targets for the ruleset_converter support code and its tests.

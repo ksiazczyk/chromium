@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Throttle manager test support header
+// summary: Declares ThrottleManagerTestSupport, which wires up required dependencies of ContentSubresourceFilterThrottleManager for unittests.
+// ---
+
 #ifndef COMPONENTS_SUBRESOURCE_FILTER_CONTENT_BROWSER_THROTTLE_MANAGER_TEST_SUPPORT_H_
 #define COMPONENTS_SUBRESOURCE_FILTER_CONTENT_BROWSER_THROTTLE_MANAGER_TEST_SUPPORT_H_
 

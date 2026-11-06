@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Subresource filter throttle manager unit tests
+// summary: Extensive unit tests for the throttle manager covering activation decisions, UI action logging, and child frame navigation filtering behavior.
+// ---
+
 #include "components/subresource_filter/content/browser/content_subresource_filter_throttle_manager.h"
 
 #include <map>

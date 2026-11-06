@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Verified ruleset dealer implementation
+// summary: Implements VerifiedRulesetDealer, which verifies ruleset integrity by checksum before handing out memory-mapped rulesets, plus its sequenced task runner handle.
+// ---
+
 #include "components/subresource_filter/core/browser/verified_ruleset_dealer.h"
 
 #include <utility>

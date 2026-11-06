@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Common subresource filter feature definitions
+// summary: Defines the kAdTagging and kSubresourceFilterPrewarm base features for the subresource filter component.
+// ---
+
 #include "components/subresource_filter/core/common/common_features.h"
 
 namespace subresource_filter {

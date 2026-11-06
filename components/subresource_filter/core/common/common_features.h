@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Common subresource filter feature declarations
+// summary: Declares base features for ad tagging, delaying unsafe ads, and prewarming, along with delay parameter constants.
+// ---
+
 #ifndef COMPONENTS_SUBRESOURCE_FILTER_CORE_COMMON_COMMON_FEATURES_H_
 #define COMPONENTS_SUBRESOURCE_FILTER_CORE_COMMON_COMMON_FEATURES_H_
 

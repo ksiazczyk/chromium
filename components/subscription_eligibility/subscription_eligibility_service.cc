@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Subscription Eligibility Service Implementation
+// summary: Implements the service that reads the AI subscription tier and benefits prefs, supports a command-line tier override, and notifies observers of changes.
+// ---
+
 #include "components/subscription_eligibility/subscription_eligibility_service.h"
 
 #include <string>

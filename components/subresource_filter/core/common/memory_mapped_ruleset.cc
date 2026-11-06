@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory-mapped ruleset implementation
+// summary: Implements creation of memory-mapped ruleset files, including a testing hook to simulate memory map failures.
+// ---
+
 #include "components/subresource_filter/core/common/memory_mapped_ruleset.h"
 
 #include <utility>

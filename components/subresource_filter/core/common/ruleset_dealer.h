@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RulesetDealer class header
+// summary: Declares RulesetDealer, which lazily memory-maps the subresource filtering ruleset file and shares one cached instance across call sites in a process.
+// ---
+
 #ifndef COMPONENTS_SUBRESOURCE_FILTER_CORE_COMMON_RULESET_DEALER_H_
 #define COMPONENTS_SUBRESOURCE_FILTER_CORE_COMMON_RULESET_DEALER_H_
 

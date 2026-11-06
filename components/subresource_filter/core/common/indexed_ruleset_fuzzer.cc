@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Indexed ruleset fuzzer
+// summary: Fuzzes indexed ruleset construction and URL matching by interpreting random input as an unindexed ruleset plus a URL to check.
+// ---
+
 #include "components/subresource_filter/core/common/indexed_ruleset.h"
 
 #include <fuzzer/FuzzedDataProvider.h>

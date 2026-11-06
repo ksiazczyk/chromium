@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing page activation throttle implementation
+// summary: Implements the navigation throttle that activates subresource filtering on page loads matching the SUBRESOURCE_FILTER Safe Browsing list, with metrics and UKM.
+// ---
+
 #include "components/subresource_filter/content/browser/safe_browsing_page_activation_throttle.h"
 
 #include <algorithm>

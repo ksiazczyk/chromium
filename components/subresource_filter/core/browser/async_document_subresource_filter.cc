@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Async document subresource filter implementation
+// summary: Implements activation state computation from rulesets and the asynchronous wrapper that owns a document subresource filter on a dedicated task runner.
+// ---
+
 #include "components/subresource_filter/core/browser/async_document_subresource_filter.h"
 
 #include <string_view>

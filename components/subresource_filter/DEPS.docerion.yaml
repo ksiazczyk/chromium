@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Subresource Filter Include Dependencies
+summary: Specifies allowed include dependencies for the subresource_filter component, with special include rules for fuzzing-related code.

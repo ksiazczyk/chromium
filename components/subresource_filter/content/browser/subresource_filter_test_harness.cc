@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SubresourceFilterTestHarness implementation
+// summary: Implements SubresourceFilterTestHarness, a RenderViewHostTestHarness-based unit test harness that sets up the ruleset service, prefs, a fake Safe Browsing database and navigation simulation.
+// ---
+
 #include "components/subresource_filter/content/browser/subresource_filter_test_harness.h"
 
 #include <memory>

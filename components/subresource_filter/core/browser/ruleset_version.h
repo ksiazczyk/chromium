@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ruleset version header
+// summary: Declares structures describing unindexed and indexed ruleset versions, including preference storage and filter tagging.
+// ---
+
 #ifndef COMPONENTS_SUBRESOURCE_FILTER_CORE_BROWSER_RULESET_VERSION_H_
 #define COMPONENTS_SUBRESOURCE_FILTER_CORE_BROWSER_RULESET_VERSION_H_
 

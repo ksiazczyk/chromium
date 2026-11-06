@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native implementation of the ads blocked dialog
+// summary: Implements the C++ side of the Android ads blocked dialog, creating the Java dialog over JNI and forwarding show, dismiss and click callbacks.
+// ---
+
 #include "components/subresource_filter/android/ads_blocked_dialog.h"
 
 #include <stdint.h>

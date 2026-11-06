@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Safe Browsing database manager header
+// summary: Declares a test database manager that allows any URL to be configured as blocklisted for testing, with helpers to add or remove URLs and simulate timeouts.
+// ---
+
 #ifndef COMPONENTS_SUBRESOURCE_FILTER_CONTENT_BROWSER_FAKE_SAFE_BROWSING_DATABASE_MANAGER_H_
 #define COMPONENTS_SUBRESOURCE_FILTER_CONTENT_BROWSER_FAKE_SAFE_BROWSING_DATABASE_MANAGER_H_
 

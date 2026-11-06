@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Style rule matcher class declaration
+// summary: Declares StyleRuleMatcher, which finds domain-specific and global filterlist selectors for a document by origin, class, and ID.
+// ---
+
 #ifndef COMPONENTS_SUBRESOURCE_FILTER_CORE_COMMON_STYLE_RULE_MATCHER_H_
 #define COMPONENTS_SUBRESOURCE_FILTER_CORE_COMMON_STYLE_RULE_MATCHER_H_
 

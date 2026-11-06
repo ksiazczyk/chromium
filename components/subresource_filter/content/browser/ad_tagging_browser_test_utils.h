@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ad tagging browser test utilities header
+// summary: Declares browser test helpers for creating frames via src attributes or ad scripts and asserting the ad evidence associated with frames.
+// ---
+
 #ifndef COMPONENTS_SUBRESOURCE_FILTER_CONTENT_BROWSER_AD_TAGGING_BROWSER_TEST_UTILS_H_
 #define COMPONENTS_SUBRESOURCE_FILTER_CONTENT_BROWSER_AD_TAGGING_BROWSER_TEST_UTILS_H_
 

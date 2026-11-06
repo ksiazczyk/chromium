@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SubresourceFilterTestHarness class header
+// summary: Declares SubresourceFilterTestHarness, a unit test harness for the subresource filtering component providing navigation simulation, disallowed subframe creation and configuration accessors.
+// ---
+
 #ifndef COMPONENTS_SUBRESOURCE_FILTER_CONTENT_BROWSER_SUBRESOURCE_FILTER_TEST_HARNESS_H_
 #define COMPONENTS_SUBRESOURCE_FILTER_CONTENT_BROWSER_SUBRESOURCE_FILTER_TEST_HARNESS_H_
 

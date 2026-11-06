@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Subresource filter browser utilities implementation
+// summary: Implements helpers for inheriting activation from opener or parent frames and identifying subresource filter roots.
+// ---
+
 #include "components/subresource_filter/content/browser/utils.h"
 
 #include "base/check.h"

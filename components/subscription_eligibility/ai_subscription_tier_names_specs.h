@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Placeholder AI subscription tier names for non-branded builds
+// summary: Defines placeholder short and full tier name maps for non-branded builds, replaced by branded names in Google Chrome builds.
+// ---
+
 #ifndef COMPONENTS_SUBSCRIPTION_ELIGIBILITY_AI_SUBSCRIPTION_TIER_NAMES_SPECS_H_
 #define COMPONENTS_SUBSCRIPTION_ELIGIBILITY_AI_SUBSCRIPTION_TIER_NAMES_SPECS_H_
 

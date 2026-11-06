@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Subresource filter agent implementation
+// summary: Implements the renderer-side agent that sets up the subresource filter for document loads and reports ad frame evidence and statistics to the browser.
+// ---
+
 #include "components/subresource_filter/content/renderer/subresource_filter_agent.h"
 
 #include <utility>

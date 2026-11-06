@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActivationScope enum
+// summary: Defines the ActivationScope enum controlling where the Safe Browsing Subresource Filter triggers, such as no sites, activation list, or all sites.
+// ---
+
 #ifndef COMPONENTS_SUBRESOURCE_FILTER_CORE_COMMON_ACTIVATION_SCOPE_H_
 #define COMPONENTS_SUBRESOURCE_FILTER_CORE_COMMON_ACTIVATION_SCOPE_H_
 

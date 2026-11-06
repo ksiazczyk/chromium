@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Subresource Filter Directory Metadata
+summary: Directory metadata file that reuses the common metadata for the subresource_filter folder via a mixin.

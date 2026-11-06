@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for rule canonicalization
+// summary: Tests default rule values, URL pattern and domain list canonicalization, and rule to-string output.
+// ---
+
 #include "components/subresource_filter/tools/rule_parser/rule.h"
 
 #include <stddef.h>

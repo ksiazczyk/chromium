@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Safe Browsing child navigation throttle unit tests
+// summary: Unit tests for SafeBrowsingChildNavigationThrottle covering subframe blocking decisions and subframe filtering delay histograms.
+// ---
+
 #include "components/subresource_filter/content/browser/safe_browsing_child_navigation_throttle.h"
 
 #include <memory>

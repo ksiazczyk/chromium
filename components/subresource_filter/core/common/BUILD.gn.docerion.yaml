@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for subresource_filter core common
+summary: Defines the common static library, test support, unit test, and fuzzer targets for the subresource_filter core common component.

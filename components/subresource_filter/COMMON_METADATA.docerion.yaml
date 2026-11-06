@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Subresource Filter Common Metadata
+summary: Defines the Monorail component and Buganizer component ID used for bug tracking in the subresource_filter directory.

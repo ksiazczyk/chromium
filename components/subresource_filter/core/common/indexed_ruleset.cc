@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Indexed ruleset implementation
+// summary: Implements the flatbuffer ruleset indexer and verification, including checksum validation, URL rule serialization, and Blink-compatible style rule hashing.
+// ---
+
 #include "components/subresource_filter/core/common/indexed_ruleset.h"
 
 #include <algorithm>

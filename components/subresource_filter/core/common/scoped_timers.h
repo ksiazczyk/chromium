@@ -13,6 +13,12 @@
 //
 // TODO(pkalinnikov): Consider moving this file to "base/metrics/".
 
+// ---docerion
+// type: source
+// title: Scoped timer utilities
+// summary: Provides scoped timer templates that measure a scope's duration and report it via configurable export callbacks, with thread-time variants.
+// ---
+
 #ifndef COMPONENTS_SUBRESOURCE_FILTER_CORE_COMMON_SCOPED_TIMERS_H_
 #define COMPONENTS_SUBRESOURCE_FILTER_CORE_COMMON_SCOPED_TIMERS_H_
 

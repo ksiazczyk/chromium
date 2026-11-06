@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Command line entry point of ruleset_converter
+// summary: Parses command line switches and drives conversion of subresource filter rulesets between the supported formats.
+// ---
+
 #include <iostream>
 #include <string_view>
 

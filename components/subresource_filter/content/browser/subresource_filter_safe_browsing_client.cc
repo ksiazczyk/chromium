@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SubresourceFilterSafeBrowsingClient implementation
+// summary: Implements SubresourceFilterSafeBrowsingClient, which issues Safe Browsing URL checks for a navigation and reports check results to the page activation throttle.
+// ---
+
 #include "components/subresource_filter/content/browser/subresource_filter_safe_browsing_client.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedRule implementation
+// summary: Implements ScopedRule validity checks, subdomain rule detection, and conversion of flat URL rules back to filterlist strings.
+// ---
+
 #include "components/subresource_filter/core/common/scoped_rule.h"
 
 #include "components/subresource_filter/core/common/memory_mapped_ruleset.h"

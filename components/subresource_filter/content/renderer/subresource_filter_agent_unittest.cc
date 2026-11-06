@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for SubresourceFilterAgent
+// summary: GMock-based unit tests exercising the subresource filter agent with mocked Blink dependencies, covering activation, ad frame tagging and load statistics.
+// ---
+
 #include "components/subresource_filter/content/renderer/subresource_filter_agent.h"
 
 #include <memory>

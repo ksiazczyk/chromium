@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Filter utilities header
+// summary: Declares ToElementType, which converts a network RequestDestination into an ElementType for use by the document subresource filter.
+// ---
+
 #ifndef COMPONENTS_SUBRESOURCE_FILTER_CONTENT_RENDERER_FILTER_UTILS_H_
 #define COMPONENTS_SUBRESOURCE_FILTER_CONTENT_RENDERER_FILTER_UTILS_H_
 

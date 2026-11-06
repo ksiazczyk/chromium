@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RulesetPublisher unit tests
+// summary: Unit tests verifying ruleset file opening, version publishing, and distribution of rulesets to existing and future renderer processes.
+// ---
+
 #include "components/subresource_filter/content/browser/ruleset_publisher.h"
 
 #include <stddef.h>

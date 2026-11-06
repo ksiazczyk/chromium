@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Load policy enum
+// summary: Defines the LoadPolicy enum describing filter decisions for resource loads, from explicit allow to disallow, plus a stricter-policy helper.
+// ---
+
 #ifndef COMPONENTS_SUBRESOURCE_FILTER_CORE_COMMON_LOAD_POLICY_H_
 #define COMPONENTS_SUBRESOURCE_FILTER_CORE_COMMON_LOAD_POLICY_H_
 

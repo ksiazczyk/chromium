@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Subresource filter features test support implementation
+// summary: Implements ScopedSubresourceFilterConfigurator, which temporarily overrides the active subresource filter configuration while a test-scoped instance exists.
+// ---
+
 #include "components/subresource_filter/core/browser/subresource_filter_features_test_support.h"
 
 #include <memory>

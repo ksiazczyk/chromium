@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Subresource filter web contents helper implementation
+// summary: Implements the per-WebContents helper that creates throttle managers for pages and routes subresource filter events to the right page, including fenced frame handling.
+// ---
+
 #include "components/subresource_filter/content/browser/content_subresource_filter_web_contents_helper.h"
 
 #include <memory>

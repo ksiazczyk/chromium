@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Subresource filter content settings manager implementation
+// summary: Manages per-site content settings and metadata for subresource filtering, including site allowlisting and smart UI display timing.
+// ---
+
 #include "components/subresource_filter/content/browser/subresource_filter_content_settings_manager.h"
 
 #include <optional>

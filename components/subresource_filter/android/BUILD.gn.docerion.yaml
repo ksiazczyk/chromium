@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Subresource filter Android build configuration
+summary: GN build file defining JNI headers, the Android Java library, Robolectric tests, native sources and resources for the subresource filter component.

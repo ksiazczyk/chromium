@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActivationDecision enum
+// summary: Defines the append-only ActivationDecision enum backing a UMA histogram, covering outcomes such as activated, disabled, allowlisted, and forced activation.
+// ---
+
 #ifndef COMPONENTS_SUBRESOURCE_FILTER_CORE_COMMON_ACTIVATION_DECISION_H_
 #define COMPONENTS_SUBRESOURCE_FILTER_CORE_COMMON_ACTIVATION_DECISION_H_
 

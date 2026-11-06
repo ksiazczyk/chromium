@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Browser subresource filter build definition
+summary: GN build file defining the browser static library, test support library and unit test targets for the subresource filter core browser code.

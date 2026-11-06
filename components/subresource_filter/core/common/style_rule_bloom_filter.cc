@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Style rule bloom filter implementation
+// summary: Implements a two-index bloom filter over a byte span for style rule hashes, plus a builder that sizes and populates the filter.
+// ---
+
 #include "components/subresource_filter/core/common/style_rule_bloom_filter.h"
 
 #include <algorithm>

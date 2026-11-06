@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RulesetFormat enum of supported formats
+// summary: Enumerates the supported ruleset serialization formats and declares the ParseFlag helper for parsing format names.
+// ---
+
 #ifndef COMPONENTS_SUBRESOURCE_FILTER_TOOLS_RULESET_CONVERTER_RULESET_FORMAT_H_
 #define COMPONENTS_SUBRESOURCE_FILTER_TOOLS_RULESET_CONVERTER_RULESET_FORMAT_H_
 

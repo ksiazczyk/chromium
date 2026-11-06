@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Subresource filter observer manager implementation
+// summary: Implements the WebContents-scoped manager that registers SubresourceFilterObservers and notifies them of filtering events.
+// ---
+
 #include "components/subresource_filter/content/browser/subresource_filter_observer_manager.h"
 
 #include "base/observer_list.h"

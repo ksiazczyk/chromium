@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Subresource filter file name constants
+// summary: Defines file and directory name constants used when storing indexed and unindexed rulesets and licenses on disk.
+// ---
+
 #include "components/subresource_filter/core/browser/subresource_filter_constants.h"
 
 #include <string_view>

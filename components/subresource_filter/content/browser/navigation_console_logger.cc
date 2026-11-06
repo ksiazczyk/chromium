@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigation console logger implementation
+// summary: Implements a static API that queues console messages during a root frame navigation and logs them to the console once the navigation successfully commits.
+// ---
+
 #include "components/subresource_filter/content/browser/navigation_console_logger.h"
 
 #include "base/check.h"

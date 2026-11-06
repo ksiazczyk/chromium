@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ruleset test utility declarations
+// summary: Declares TestRulesetContents and ScopedTempRulesetFile helpers plus rule equality functions used by ruleset converter unit tests.
+// ---
+
 #ifndef COMPONENTS_SUBRESOURCE_FILTER_TOOLS_RULESET_CONVERTER_RULESET_TEST_UTIL_H_
 #define COMPONENTS_SUBRESOURCE_FILTER_TOOLS_RULESET_CONVERTER_RULESET_TEST_UTIL_H_
 

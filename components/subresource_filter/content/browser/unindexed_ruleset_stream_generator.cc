@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unindexed ruleset stream generator implementation
+// summary: Creates a protobuf input stream for unindexed ruleset data from either a file on disk or a resource bundle ID.
+// ---
+
 #include "components/subresource_filter/content/browser/unindexed_ruleset_stream_generator.h"
 
 #include "base/check.h"

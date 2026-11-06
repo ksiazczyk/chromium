@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content activation list utilities implementation
+// summary: Implements mapping of Safe Browsing threat types and subresource filter matches to activation lists, prioritizing BETTER_ADS over ABUSIVE and setting warning flags.
+// ---
+
 #include "components/subresource_filter/content/browser/content_activation_list_utils.h"
 
 #include "base/check.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Indexed ruleset unit tests
+// summary: Unit tests verifying URL rule matching, allowlisting, document deactivation, and style rule behavior of the indexed ruleset matcher.
+// ---
+
 #include "components/subresource_filter/core/common/indexed_ruleset.h"
 
 #include <memory>

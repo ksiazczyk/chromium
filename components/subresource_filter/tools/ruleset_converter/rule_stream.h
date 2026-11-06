@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Interfaces for rule input and output streams
+// summary: Declares RuleInputStream and RuleOutputStream interfaces plus TransferRules, which moves rules between streams with optional Chrome version filtering.
+// ---
+
 #ifndef COMPONENTS_SUBRESOURCE_FILTER_TOOLS_RULESET_CONVERTER_RULE_STREAM_H_
 #define COMPONENTS_SUBRESOURCE_FILTER_TOOLS_RULESET_CONVERTER_RULE_STREAM_H_
 

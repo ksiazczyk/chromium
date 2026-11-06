@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ads blocked message delegate header
+// summary: Declares the Android delegate that shows ads-blocked message bubbles and dialogs for a WebContents after the user proceeds past a Safe Browsing warning.
+// ---
+
 #ifndef COMPONENTS_SUBRESOURCE_FILTER_CONTENT_BROWSER_ADS_BLOCKED_MESSAGE_DELEGATE_H_
 #define COMPONENTS_SUBRESOURCE_FILTER_CONTENT_BROWSER_ADS_BLOCKED_MESSAGE_DELEGATE_H_
 

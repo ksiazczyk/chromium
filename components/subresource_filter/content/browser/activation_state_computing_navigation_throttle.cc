@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Activation state computing navigation throttle implementation
+// summary: Implements a navigation throttle that computes the subresource filter activation state for root and child frame navigations and defers them until ruleset computation completes.
+// ---
+
 #include "components/subresource_filter/content/browser/activation_state_computing_navigation_throttle.h"
 
 #include <string_view>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Subscription Eligibility Prefs Implementation
+// summary: Registers the syncable profile preferences for the AI subscription tier and the subscription benefits list.
+// ---
+
 #include "components/subscription_eligibility/subscription_eligibility_prefs.h"
 
 #include "components/pref_registry/pref_registry_syncable.h"

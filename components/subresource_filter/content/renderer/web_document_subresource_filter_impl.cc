@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebDocumentSubresourceFilter implementation
+// summary: Implements the Blink-facing subresource filter that computes load policies for resource, WebSocket and WebTransport requests using the memory-mapped ruleset.
+// ---
+
 #include "components/subresource_filter/content/renderer/web_document_subresource_filter_impl.h"
 
 #include <memory>

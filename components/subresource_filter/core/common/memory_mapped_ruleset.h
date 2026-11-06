@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory-mapped ruleset header
+// summary: Declares a reference-counted wrapper around a memory-mapped ruleset file providing safe read-only access to its data.
+// ---
+
 #ifndef COMPONENTS_SUBRESOURCE_FILTER_CORE_COMMON_MEMORY_MAPPED_RULESET_H_
 #define COMPONENTS_SUBRESOURCE_FILTER_CORE_COMMON_MEMORY_MAPPED_RULESET_H_
 

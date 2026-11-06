@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test ruleset publisher implementation
+// summary: Implements a testing helper that indexes and publishes rulesets through the RulesetService and waits for distribution.
+// ---
+
 #include "components/subresource_filter/content/browser/test_ruleset_publisher.h"
 
 #include "base/functional/callback.h"

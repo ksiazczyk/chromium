@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Request destination to element type conversion
+// summary: Implements ToElementType, mapping network request destinations to url_pattern_index element types used by the subresource filter's load policy.
+// ---
+
 #include "components/subresource_filter/content/renderer/filter_utils.h"
 
 #include "components/url_pattern_index/proto/rules.pb.h"

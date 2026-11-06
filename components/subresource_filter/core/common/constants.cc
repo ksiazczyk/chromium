@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing ruleset config constants
+// summary: Defines the Safe Browsing ruleset configuration with filter tag, top level directory, and UMA tag values.
+// ---
+
 #include "components/subresource_filter/core/common/constants.h"
 
 #include <string_view>

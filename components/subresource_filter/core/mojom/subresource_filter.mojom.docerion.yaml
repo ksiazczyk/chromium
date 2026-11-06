@@ -1,0 +1,4 @@
+# Docerion header of subresource_filter.mojom.
+type: source
+title: Subresource filter Mojo interface definitions
+summary: Defines Mojo enums and structs for subresource filter activation levels, disabled reasons, ads violations, activation state, and document load statistics.

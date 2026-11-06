@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FilterTool implementation
+// summary: Implements the FilterTool class, which matches a memory-mapped ruleset against requests and writes blocked or allowed results and rule match counts to an output stream.
+// ---
+
 #include "components/subresource_filter/tools/filter_tool.h"
 
 #include <algorithm>

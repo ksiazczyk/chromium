@@ -1,0 +1,4 @@
+# Docerion header of generate_ads_hosts.sh.
+type: script
+title: Generate ads hosts CSV from top site ads.txt files
+summary: Shell script that downloads ads.txt from the top 1000 CrUX websites, extracts ad tech domains, and writes them with occurrence counts to ads_hosts.csv.

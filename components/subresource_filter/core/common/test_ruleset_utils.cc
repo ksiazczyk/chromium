@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test ruleset rule factory implementation
+// summary: Implements factories for blocklist, allowlist, suffix, subdomain, document-scoped, and style rules used to build test rulesets.
+// ---
+
 #include "components/subresource_filter/core/common/test_ruleset_utils.h"
 
 #include <string_view>

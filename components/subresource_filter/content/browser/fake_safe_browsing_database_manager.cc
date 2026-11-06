@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Safe Browsing database manager implementation
+// summary: Implements a fake Safe Browsing database manager for tests that lets URLs be configured as blocklisted and can simulate timeouts or synchronous failures for subresource filter checks.
+// ---
+
 #include "components/subresource_filter/content/browser/fake_safe_browsing_database_manager.h"
 
 #include "base/check.h"

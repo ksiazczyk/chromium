@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ruleset service configuration struct
+// summary: Defines the RulesetConfig struct holding filter tag, top-level directory, and UMA tag used to configure a RulesetService instance.
+// ---
+
 #ifndef COMPONENTS_SUBRESOURCE_FILTER_CORE_COMMON_RULESET_CONFIG_H_
 #define COMPONENTS_SUBRESOURCE_FILTER_CORE_COMMON_RULESET_CONFIG_H_
 

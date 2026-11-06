@@ -1,0 +1,4 @@
+# Docerion header of derive_filterlist.sh.
+type: script
+title: Derive a smaller filter list from EasyList and EasyPrivacy
+summary: Shell script that builds a reduced filter list by dropping the least frequently used rules, based on subresource requests from top websites, as part of the filterlist generation process.

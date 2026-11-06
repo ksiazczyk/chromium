@@ -1,0 +1,4 @@
+# Docerion header of indexed_ruleset.fbs.
+type: source
+title: IndexedRuleset flatbuffer schema
+summary: FlatBuffers schema defining the top-level IndexedRuleset table with blocklist, allowlist, deactivation and style rule indexes plus a unique ruleset ID.

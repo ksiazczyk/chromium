@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RulesetService implementation
+// summary: Implements indexing of downloaded subresource filtering rules, versioned on-disk storage with sentinel-file crash protection, and ruleset publishing.
+// ---
+
 #include "components/subresource_filter/content/browser/ruleset_service.h"
 
 #include <limits>

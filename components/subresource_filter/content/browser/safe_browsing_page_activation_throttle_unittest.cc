@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Safe Browsing page activation throttle unit tests
+// summary: Unit tests covering page activation decisions, Safe Browsing checks, histograms and UKM for the subresource filter's Safe Browsing page activation throttle.
+// ---
+
 #include "components/subresource_filter/content/browser/safe_browsing_page_activation_throttle.h"
 
 #include <memory>

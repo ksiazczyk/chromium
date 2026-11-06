@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActivationList logging implementation
+// summary: Implements the stream output operator that prints ActivationList enum values for logging purposes.
+// ---
+
 #include "components/subresource_filter/core/common/activation_list.h"
 
 #include <ostream>

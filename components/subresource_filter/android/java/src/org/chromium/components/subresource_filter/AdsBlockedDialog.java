@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AdsBlockedDialog
+// summary: Java half of the ads blocked dialog that shows a modal dialog when ads are blocked and forwards learn-more and allow-ads clicks to native code.
+// ---
+
 package org.chromium.components.subresource_filter;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

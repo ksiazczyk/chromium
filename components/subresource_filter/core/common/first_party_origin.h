@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: First-party origin class
+// summary: Declares FirstPartyOrigin, which encapsulates a document's first-party origin and provides fast cached third-partiness checks for URLs.
+// ---
+
 #ifndef COMPONENTS_SUBRESOURCE_FILTER_CORE_COMMON_FIRST_PARTY_ORIGIN_H_
 #define COMPONENTS_SUBRESOURCE_FILTER_CORE_COMMON_FIRST_PARTY_ORIGIN_H_
 

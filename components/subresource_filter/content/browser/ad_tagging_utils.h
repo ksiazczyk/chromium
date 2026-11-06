@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ad tagging load policy interpretation header
+// summary: Declares InterpretLoadPolicyAsEvidence, converting an optional load policy result into the FilterListResult value for frame ad tagging evidence.
+// ---
+
 #ifndef COMPONENTS_SUBRESOURCE_FILTER_CONTENT_BROWSER_AD_TAGGING_UTILS_H_
 #define COMPONENTS_SUBRESOURCE_FILTER_CONTENT_BROWSER_AD_TAGGING_UTILS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Document subresource filter implementation
+// summary: Implements per-document filtering of subresource loads, evaluating ruleset matches and recording load statistics and wall and CPU duration metrics.
+// ---
+
 #include "components/subresource_filter/core/common/document_subresource_filter.h"
 
 #include <memory>

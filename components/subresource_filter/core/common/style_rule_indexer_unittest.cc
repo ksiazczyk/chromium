@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Style rule indexer unit tests
+// summary: Unit tests covering style rule indexing, including empty selectors, global exclusions, excluded domains, and selector sharing.
+// ---
+
 #include "components/subresource_filter/core/common/style_rule_indexer.h"
 
 #include "components/subresource_filter/core/common/flat/style_rule_index_generated.h"

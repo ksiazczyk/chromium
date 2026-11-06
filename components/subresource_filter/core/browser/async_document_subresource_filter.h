@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Async document subresource filter header
+// summary: Declares the asynchronous wrapper around DocumentSubresourceFilter, its initialization parameters and load policy callback types.
+// ---
+
 #ifndef COMPONENTS_SUBRESOURCE_FILTER_CORE_BROWSER_ASYNC_DOCUMENT_SUBRESOURCE_FILTER_H_
 #define COMPONENTS_SUBRESOURCE_FILTER_CORE_BROWSER_ASYNC_DOCUMENT_SUBRESOURCE_FILTER_H_
 

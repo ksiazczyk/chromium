@@ -1,0 +1,4 @@
+# Docerion header of style_rule_index.fbs.
+type: source
+title: StyleRuleIndex flatbuffer schema
+summary: FlatBuffers schema defining StyleRuleIndex, which maps domains, classes and IDs to style selector indices via sorted lookup maps and a bloom filter for fast rejection.

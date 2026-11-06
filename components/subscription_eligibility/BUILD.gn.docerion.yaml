@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the subscription eligibility component
+summary: Defines the subscription_eligibility, tier_names, and unit_tests source sets with their sources and dependencies for the GN build.

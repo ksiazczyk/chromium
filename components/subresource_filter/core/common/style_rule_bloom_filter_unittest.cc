@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Style rule bloom filter unit tests
+// summary: Tests bloom filter empty-data fallback, builder sizing, absence of false negatives, and the expected false positive rate.
+// ---
+
 #include "components/subresource_filter/core/common/style_rule_bloom_filter.h"
 
 #include <algorithm>

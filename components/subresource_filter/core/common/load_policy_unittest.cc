@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Load policy unit tests
+// summary: Unit tests for MoreRestrictiveLoadPolicy covering combinations of allow, would-disallow, and disallow policies.
+// ---
+
 #include "components/subresource_filter/core/common/load_policy.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

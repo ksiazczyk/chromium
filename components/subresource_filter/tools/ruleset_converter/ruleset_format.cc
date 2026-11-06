@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Parsing of ruleset format names
+// summary: Maps format name strings such as filter-list, proto, and unindexed-ruleset to RulesetFormat enum values.
+// ---
+
 #include "components/subresource_filter/tools/ruleset_converter/ruleset_format.h"
 
 #include "base/strings/string_number_conversions.h"

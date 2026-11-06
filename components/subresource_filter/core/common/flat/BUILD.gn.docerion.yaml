@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the flat indexed ruleset
+summary: GN build file defining the flatbuffer target that compiles indexed_ruleset.fbs and style_rule_index.fbs, depending on the url_pattern_index flatbuffers.

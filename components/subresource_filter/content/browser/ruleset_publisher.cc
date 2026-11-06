@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ruleset publisher implementation
+// summary: Implements publishing new subresource filter ruleset versions to all render processes and opening and setting ruleset files through the verified ruleset dealer.
+// ---
+
 #include "components/subresource_filter/content/browser/ruleset_publisher.h"
 
 #include <utility>

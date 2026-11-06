@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Style rule indexer class declaration
+// summary: Declares StyleRuleIndexer, which builds a flatbuffer index of style rules from protobuf rules, mapping selectors, domains, classes, and IDs.
+// ---
+
 #ifndef COMPONENTS_SUBRESOURCE_FILTER_CORE_COMMON_STYLE_RULE_INDEXER_H_
 #define COMPONENTS_SUBRESOURCE_FILTER_CORE_COMMON_STYLE_RULE_INDEXER_H_
 

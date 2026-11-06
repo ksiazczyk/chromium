@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Subresource filter web contents helper header
+// summary: Declares ContentSubresourceFilterWebContentsHelper, which manages throttle manager lifetimes per WebContents and routes subresource filter events to pages.
+// ---
+
 #ifndef COMPONENTS_SUBRESOURCE_FILTER_CONTENT_BROWSER_CONTENT_SUBRESOURCE_FILTER_WEB_CONTENTS_HELPER_H_
 #define COMPONENTS_SUBRESOURCE_FILTER_CONTENT_BROWSER_CONTENT_SUBRESOURCE_FILTER_WEB_CONTENTS_HELPER_H_
 

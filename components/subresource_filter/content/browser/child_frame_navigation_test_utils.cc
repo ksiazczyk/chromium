@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Child frame navigation test utilities
+// summary: Provides navigation simulation helpers and a reusable test harness for exercising child frame navigation filtering throttles in unit tests.
+// ---
+
 #include "components/subresource_filter/content/browser/child_frame_navigation_test_utils.h"
 
 #include <memory>

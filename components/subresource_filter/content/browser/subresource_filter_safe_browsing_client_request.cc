@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SubresourceFilterSafeBrowsingClientRequest implementation
+// summary: Implements SubresourceFilterSafeBrowsingClientRequest, a scoped Safe Browsing database check with a five-second timeout that reports threat results back to the client.
+// ---
+
 #include "components/subresource_filter/content/browser/subresource_filter_safe_browsing_client_request.h"
 
 #include <utility>

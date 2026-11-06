@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TestSubresourceFilterObserver implementation
+// summary: Implements TestSubresourceFilterObserver, which records page activations, child frame load policies, ad frames and Safe Browsing checks for use in subresource filtering tests.
+// ---
+
 #include "components/subresource_filter/content/browser/subresource_filter_observer_test_utils.h"
 
 #include "base/check.h"

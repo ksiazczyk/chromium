@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Subscription Eligibility Metrics Util Unit Tests
+// summary: Unit tests verifying ComputeAiSubscriptionTierStatus maps sets of profile subscription tiers to the correct AiSubscriptionTierStatus values.
+// ---
+
 #include "components/subscription_eligibility/subscription_eligibility_metrics_util.h"
 
 #include <set>

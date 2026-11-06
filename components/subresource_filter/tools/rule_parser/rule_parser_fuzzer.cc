@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fuzzer harness for the rule parser
+// summary: Feeds random length strings from FuzzedDataProvider into RuleParser::Parse to fuzz the EasyList rule parsing code.
+// ---
+
 #include "components/subresource_filter/tools/rule_parser/rule_parser.h"
 
 #include <fuzzer/FuzzedDataProvider.h>

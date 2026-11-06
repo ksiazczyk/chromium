@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Copying file stream class declarations
+// summary: Declares CopyingFileInputStream and CopyingFileOutputStream adapters exposing base::File reads and writes through protobuf copying stream interfaces.
+// ---
+
 #ifndef COMPONENTS_SUBRESOURCE_FILTER_CORE_COMMON_COPYING_FILE_STREAM_H_
 #define COMPONENTS_SUBRESOURCE_FILTER_CORE_COMMON_COPYING_FILE_STREAM_H_
 

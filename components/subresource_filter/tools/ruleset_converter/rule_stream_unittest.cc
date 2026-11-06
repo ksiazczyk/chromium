@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for rule streams
+// summary: Verifies reading, writing, and Chrome version filtering of URL and style rules through the rule stream classes.
+// ---
+
 #include "components/subresource_filter/tools/ruleset_converter/rule_stream.h"
 
 #include <algorithm>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Subresource filter browser DEPS include rules
+summary: Lists the include directories allowed for the subresource filter browser component, covering content settings, safe browsing, messages, metrics, and related dependencies.
