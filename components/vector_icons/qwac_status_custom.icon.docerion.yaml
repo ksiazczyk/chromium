@@ -1,0 +1,4 @@
+# Docerion header of qwac_status_custom.icon.
+type: source
+title: QWAC status vector icon
+summary: Vector icon definition for a QWAC certificate status indicator, drawn as path commands on a 20x20 canvas.

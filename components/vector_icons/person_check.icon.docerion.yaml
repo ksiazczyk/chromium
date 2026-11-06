@@ -1,0 +1,4 @@
+# Docerion header of person_check.icon.
+type: asset
+title: Person with checkmark icon
+summary: Vector path definition for a person icon with a checkmark, drawn with the Chromium icon DSL on a 20x20 canvas.

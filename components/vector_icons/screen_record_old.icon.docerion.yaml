@@ -1,0 +1,4 @@
+# Docerion header of screen_record_old.icon.
+type: asset
+title: Screen record icon, old style
+summary: Defines the pre-refresh vector drawing commands for the screen record icon on a 24dp canvas.

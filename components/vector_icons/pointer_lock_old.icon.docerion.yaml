@@ -1,0 +1,4 @@
+# Docerion header of pointer_lock_old.icon.
+type: asset
+title: Pointer lock vector icon (old)
+summary: Defines the vector path data for the old-style pointer-lock icon used in Chrome's UI, drawn on a 960-unit canvas.

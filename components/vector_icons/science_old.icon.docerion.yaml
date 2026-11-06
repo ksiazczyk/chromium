@@ -1,0 +1,4 @@
+# Docerion header of science_old.icon.
+type: asset
+title: Science icon, old style
+summary: Defines pre-refresh science icon paths at 24, 20 and 16dp canvas sizes for Chrome UI.

@@ -1,0 +1,4 @@
+# Docerion header of screen_record.icon.
+type: asset
+title: Screen record icon
+summary: Defines the vector drawing commands for the screen record icon on a 24dp canvas for Chrome UI.

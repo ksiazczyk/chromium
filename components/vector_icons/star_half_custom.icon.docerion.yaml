@@ -1,0 +1,4 @@
+# Docerion header of star_half_custom.icon.
+type: asset
+title: Half star vector icon with custom color
+summary: Vector icon definition for a half-filled star on a 13dp canvas, using a custom grey path color for the unfilled half.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for components/version_info
+summary: DEPS file allowing specific includes for strings, Android JNI bridge, and ui/base while forbidding dependencies on //content for iOS compatibility.

@@ -1,0 +1,4 @@
+# Docerion header of videogame_asset_filled.icon.
+type: asset
+title: Filled videogame asset icon
+summary: Filled 24dp variant of the videogame asset vector icon defined with Skia path commands.

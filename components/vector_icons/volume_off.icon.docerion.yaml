@@ -1,0 +1,4 @@
+# Docerion header of volume_off.icon.
+type: asset
+title: Volume off vector icon
+summary: Defines path commands for the muted speaker icon on a 20x20 canvas for Chrome's native UI.

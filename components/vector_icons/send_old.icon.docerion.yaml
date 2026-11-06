@@ -1,0 +1,4 @@
+# Docerion header of send_old.icon.
+type: asset
+title: Send icon, legacy variant
+summary: Vector icon definition drawing the legacy send (paper plane) glyph on a 20dp canvas.

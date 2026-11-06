@@ -1,0 +1,4 @@
+# Docerion header of printer_old.icon.
+type: asset
+title: Printer vector icon (old)
+summary: Defines the vector path data for the old-style printer icon used in Chrome's UI, drawn on a 960-unit canvas.

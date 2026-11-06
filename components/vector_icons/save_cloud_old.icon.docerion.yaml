@@ -1,0 +1,4 @@
+# Docerion header of save_cloud_old.icon.
+type: asset
+title: Save cloud icon, old style
+summary: Defines the pre-refresh vector drawing commands for the save-to-cloud icon on a 20dp canvas.

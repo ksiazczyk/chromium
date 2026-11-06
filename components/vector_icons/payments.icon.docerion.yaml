@@ -1,0 +1,4 @@
+# Docerion header of payments.icon.
+type: asset
+title: Payments icon
+summary: Vector path definition for the payments icon, drawn with the Chromium icon DSL on a 24x24 canvas.

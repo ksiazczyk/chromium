@@ -1,0 +1,4 @@
+# Docerion header of screen_share.icon.
+type: source
+title: Screen share icon
+summary: Vector path definition for the 16 dp screen share icon showing a monitor with an upload arrow, used to generate Chrome UI icon assets.

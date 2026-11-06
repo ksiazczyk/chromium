@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Version info umbrella header
+// summary: Forwarding header that pulls in the base version_info API together with the user-agent variant for consumers of this component.
+// ---
+
 #ifndef COMPONENTS_VERSION_INFO_VERSION_INFO_H_
 #define COMPONENTS_VERSION_INFO_VERSION_INFO_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of photo_spark.icon.
+type: asset
+title: Photo with spark vector icon
+summary: Defines the vector path data for the photo-with-spark icon used in Chromium's native UI, drawn on a 20dp canvas.

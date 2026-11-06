@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for visibility_timer
+summary: Lists the Chromium developers responsible for reviewing changes to the visibility_timer component.

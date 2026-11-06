@@ -1,0 +1,4 @@
+# Docerion header of IDS_VERSION_UI_VARIATIONS_SOURCE_NAME.png.sha1.
+type: data
+title: IDS_VERSION_UI_VARIATIONS_SOURCE_NAME image SHA-1 hash
+summary: Stores the SHA-1 checksum of the IDS_VERSION_UI_VARIATIONS_SOURCE_NAME context image used to support UI string translation.

@@ -1,0 +1,4 @@
+# Docerion header of skip_previous_old.icon.
+type: asset
+title: Legacy skip previous vector icon
+summary: Legacy vector icon definition for the skip-previous media control, retained for the pre-refresh Chrome UI.

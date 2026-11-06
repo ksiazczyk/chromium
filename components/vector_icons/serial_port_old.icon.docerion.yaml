@@ -1,0 +1,4 @@
+# Docerion header of serial_port_old.icon.
+type: asset
+title: Serial port icon (legacy variant)
+summary: Vector icon definition drawing a serial port glyph on a 24dp canvas in the pre-refresh style.

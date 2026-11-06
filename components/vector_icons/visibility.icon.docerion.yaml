@@ -1,0 +1,4 @@
+# Docerion header of visibility.icon.
+type: asset
+title: Visibility vector icon
+summary: Defines path commands for the eye-shaped visibility icon drawn on a 24x24 canvas for Chrome's native UI.

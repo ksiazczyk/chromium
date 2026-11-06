@@ -1,0 +1,4 @@
+# Docerion header of person_text_old.icon.
+type: asset
+title: Person with text vector icon (old)
+summary: Defines the vector path data for the old person-with-text icon used in Chromium's native UI, drawn on a 24dp canvas.

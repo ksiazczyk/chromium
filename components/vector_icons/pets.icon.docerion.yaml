@@ -1,0 +1,4 @@
+# Docerion header of pets.icon.
+type: asset
+title: Pets vector icon
+summary: Defines the vector path data for the pets (paw) icon used in Chromium's native UI, drawn on a 24dp canvas.

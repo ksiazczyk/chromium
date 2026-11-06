@@ -1,0 +1,4 @@
+# Docerion header of replay_old.icon.
+type: asset
+title: Replay icon, old style
+summary: Defines the vector drawing commands for the replay icon in the pre-Chrome-refresh style on a 24dp canvas.

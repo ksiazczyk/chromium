@@ -1,0 +1,4 @@
+# Docerion header of view_in_ar_off.icon.
+type: asset
+title: View in AR off icon
+summary: Defines the crossed-out view in AR vector icon on a 20dp canvas for the off state.

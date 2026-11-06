@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VisibilityTimerTabHelper unit tests
+// summary: Unit tests using mock time to verify tasks fire only after continuous visible time and that additional queued tasks stay dormant until earlier ones complete.
+// ---
+
 #include "components/visibility_timer/visibility_timer_tab_helper.h"
 
 #include "base/test/bind.h"

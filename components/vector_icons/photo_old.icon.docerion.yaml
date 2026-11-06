@@ -1,0 +1,4 @@
+# Docerion header of photo_old.icon.
+type: asset
+title: Photo vector icon (old)
+summary: Defines the vector path data for the legacy photo icon kept for older UI variants, drawn on an 18dp canvas.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VisibilityTimerTabHelper class declaration
+// summary: Declares a WebContentsObserver tab helper for posting tasks that run only after a consecutive visible duration, with later tasks queued in a dormant state.
+// ---
+
 #ifndef COMPONENTS_VISIBILITY_TIMER_VISIBILITY_TIMER_TAB_HELPER_H_
 #define COMPONENTS_VISIBILITY_TIMER_VISIBILITY_TIMER_TAB_HELPER_H_
 

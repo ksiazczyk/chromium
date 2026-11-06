@@ -1,0 +1,4 @@
+# Docerion header of vector_icons.cc.template.
+type: source
+title: Template for vector_icons.cc generation
+summary: C++ template consumed by the icon aggregation script to generate vector_icons.cc with the icon definitions.

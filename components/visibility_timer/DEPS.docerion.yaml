@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for visibility_timer
+summary: Declares the allowed include rules, permitting content public browser and test headers within the visibility_timer component.
