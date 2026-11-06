@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touch emulator implementation
+// summary: Implements touch emulation that converts mouse, wheel and keyboard events into touch and gesture events, with pinch and injection modes.
+// ---
+
 #include "content/browser/renderer_host/input/touch_emulator_impl.h"
 
 #include <memory>

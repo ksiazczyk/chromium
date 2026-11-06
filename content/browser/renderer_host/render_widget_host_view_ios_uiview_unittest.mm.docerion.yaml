@@ -1,0 +1,4 @@
+# Docerion header of render_widget_host_view_ios_uiview_unittest.mm.
+type: test
+title: Unit tests for RenderWidgetUIView character input and selection
+summary: Unit tests for the iOS RenderWidgetUIView covering character insertion rules, modifier key handling and selection move, extend and delete commands.

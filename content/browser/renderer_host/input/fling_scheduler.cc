@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FlingScheduler implementation
+// summary: Schedules and progresses fling animations for a render widget host by observing compositor animation steps across platforms.
+// ---
+
 #include "content/browser/renderer_host/input/fling_scheduler.h"
 
 #include "build/build_config.h"

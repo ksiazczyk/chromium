@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock TF handwriting interfaces for Shell Handwriting tests
+// summary: Declares gmock-based mocks of Windows ITf interfaces such as ITfThreadMgr and ITfHandwriting used to test Shell Handwriting support.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_INPUT_MOCK_TFHANDWRITING_H_
 #define CONTENT_BROWSER_RENDERER_HOST_INPUT_MOCK_TFHANDWRITING_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebInputEventUtil unit tests
+// summary: Unit tests verifying the conversion of MotionEvent and gesture data into Blink WebTouchEvent and scroll update events.
+// ---
+
 #include <stddef.h>
 
 #include <numbers>

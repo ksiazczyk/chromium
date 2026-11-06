@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock input disposition handler implementation
+// summary: Implements a mock InputDispositionHandler that records input event acknowledgements and supports followup events for input router tests.
+// ---
+
 #include "content/browser/renderer_host/input/mock_input_disposition_handler.h"
 
 #include "base/functional/bind.h"

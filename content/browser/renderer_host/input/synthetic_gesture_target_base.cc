@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Synthetic gesture target base implementation
+// summary: Implements the base synthetic gesture target that validates and dispatches web touch, mouse, wheel and gesture events to the platform.
+// ---
+
 #include "content/browser/renderer_host/input/synthetic_gesture_target_base.h"
 
 #include "base/check.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Touch emulator implementation unit tests
+// summary: Unit tests for TouchEmulatorImpl that verify emulated touch and gesture events generated from mouse input, including modifier handling and touch acknowledgements.
+// ---
+
 #include "content/browser/renderer_host/input/touch_emulator_impl.h"
 
 #include <stddef.h>

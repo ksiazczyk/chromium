@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac render widget host view test factory declaration
+// summary: Declares test factory functions for creating RenderWidgetHostViewMac in tests, plus helpers to access its browser compositor and set cached screen info.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_TEST_RENDER_WIDGET_HOST_VIEW_MAC_FACTORY_H_
 #define CONTENT_BROWSER_RENDERER_HOST_TEST_RENDER_WIDGET_HOST_VIEW_MAC_FACTORY_H_
 

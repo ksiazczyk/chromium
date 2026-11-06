@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenderWidgetHostViewAura implementation
+// summary: Implements the Aura desktop browser-side view for rendered widgets, handling events, cursor, clipboard, accessibility, text input, and delegated compositing.
+// ---
+
 #include "content/browser/renderer_host/render_widget_host_view_aura.h"
 
 #include <limits>

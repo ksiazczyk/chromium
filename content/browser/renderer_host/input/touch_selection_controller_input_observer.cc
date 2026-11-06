@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touch selection controller input observer
+// summary: Observes touchscreen gesture events and forwards taps, long presses, and scrolls to the touch selection controller, including swipe-to-move-cursor acknowledgements.
+// ---
+
 #include "content/browser/renderer_host/input/touch_selection_controller_input_observer.h"
 
 #include "content/browser/renderer_host/render_widget_host_view_base.h"

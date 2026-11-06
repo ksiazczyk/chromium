@@ -1,0 +1,4 @@
+# Docerion header of render_widget_host_view_mac_editcommand_helper_unittest.mm.
+type: test
+title: RenderWidgetHostViewMac edit command helper unit tests
+summary: Unit tests verifying that RenderWidgetHostViewMac responds to Cocoa edit command selectors and forwards edit commands to the render widget host delegate.

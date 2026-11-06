@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InputTransferHandlerAndroid unit tests
+// summary: Unit tests for InputTransferHandlerAndroid covering touch transfer to Viz, sequence consumption and drop behavior using fake clients and mock JNI delegates.
+// ---
+
 #include "content/browser/renderer_host/input/input_transfer_handler_android.h"
 
 #include <atomic>

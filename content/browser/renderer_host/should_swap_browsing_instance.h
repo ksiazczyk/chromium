@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShouldSwapBrowsingInstance enum
+// summary: Defines the histogram enum of reasons why a navigation may or may not swap the BrowsingInstance, with values that must not be renumbered.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_SHOULD_SWAP_BROWSING_INSTANCE_H_
 #define CONTENT_BROWSER_RENDERER_HOST_SHOULD_SWAP_BROWSING_INSTANCE_H_
 

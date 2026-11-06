@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenderWidgetHostImpl implementation
+// summary: Core implementation of the browser-side host for a renderer widget, managing input routing, compositing, visual properties, and renderer communication.
+// ---
+
 #include "content/browser/renderer_host/render_widget_host_impl.h"
 
 #include <math.h>

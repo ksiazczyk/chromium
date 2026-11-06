@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Renderer sandboxed process launcher delegate implementation
+// summary: Implements the delegate for launching sandboxed renderer processes, covering zygote use, macOS CPU mitigations, and Windows sandbox configurations for JIT and PDF renderers.
+// ---
+
 #include "content/browser/renderer_host/renderer_sandboxed_process_launcher_delegate.h"
 
 #include <string_view>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TransientAllowPopup unit tests
+// summary: Unit tests verifying activation, time-based expiration, repeated activation and deactivation of the transient popup state using mock time.
+// ---
+
 #include "content/browser/renderer_host/transient_allow_popup.h"
 
 #include "base/test/task_environment.h"

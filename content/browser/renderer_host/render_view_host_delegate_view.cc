@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenderViewHostDelegateView implementation
+// summary: Implements default stubs of RenderViewHostDelegateView for browser control heights, overscroll handling, and gesture event acknowledgement.
+// ---
+
 #include "content/browser/renderer_host/render_view_host_delegate_view.h"
 
 #include "build/build_config.h"

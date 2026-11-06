@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: View transition browser tests
+// summary: Browser tests covering view transition opt-in state, snapshot capture, and navigation cancellation during same-origin navigations.
+// ---
+
 #include "base/test/scoped_feature_list.h"
 #include "base/test/test_future.h"
 #include "base/trace_event/trace_config.h"

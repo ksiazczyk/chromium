@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenderWidgetHostFactory implementation
+// summary: Implements the factory that creates RenderWidgetHostImpl instances, using a globally registered factory when present or the default creation path otherwise.
+// ---
+
 #include "content/browser/renderer_host/render_widget_host_factory.h"
 
 #include <memory>

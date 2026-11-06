@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Event latency Aura browser tests
+// summary: Browser tests checking that EventLatency histogram metrics are reported for input events such as key presses on Aura.
+// ---
+
 #include "base/test/metrics/histogram_tester.h"
 #include "content/browser/renderer_host/render_widget_host_impl.h"
 #include "content/public/browser/render_view_host.h"

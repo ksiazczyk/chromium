@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedViewTransitionResources implementation
+// summary: Implements lifetime management for cross-document view transition textures held by the browser, delaying renderer process shutdown until the resources are captured.
+// ---
+
 #include "content/browser/renderer_host/scoped_view_transition_resources.h"
 
 #include "components/viz/host/host_frame_sink_manager.h"

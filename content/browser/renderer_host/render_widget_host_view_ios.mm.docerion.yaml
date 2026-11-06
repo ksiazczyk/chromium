@@ -1,0 +1,4 @@
+# Docerion header of render_widget_host_view_ios.mm.
+type: source
+title: RenderWidgetHostViewIOS implementation for iOS
+summary: Implements the browser-side iOS render widget host view, managing the native UIView, gesture detection, screen information and browser compositor for displaying web content.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ViewTransitionCommitDeferringCondition implementation
+// summary: Implements a commit deferring condition that pauses navigation commit to capture a view transition snapshot, with eligibility checks for same-origin navigations.
+// ---
+
 #include "content/browser/renderer_host/view_transition_commit_deferring_condition.h"
 
 #include "base/memory/ptr_util.h"

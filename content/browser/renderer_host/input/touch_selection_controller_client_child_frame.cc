@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Child frame touch selection controller client implementation
+// summary: Implements the touch selection controller client for cross-process child frames, clamping and transforming selection bounds into root coordinate space.
+// ---
+
 #include "content/browser/renderer_host/input/touch_selection_controller_client_child_frame.h"
 
 #include <algorithm>

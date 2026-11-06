@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Compositor event ack browser tests
+// summary: Browser tests verifying compositor-thread event acknowledgment when renderer main-thread listeners block wheel and touch events.
+// ---
+
 #include <tuple>
 #include <utility>
 

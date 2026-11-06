@@ -1,0 +1,4 @@
+# Docerion header of render_widget_host_view_mac.mm.
+type: source
+title: RenderWidgetHostViewMac implementation
+summary: Implements the macOS render widget host view, handling Cocoa events, gestures, text input, accessibility and browser compositor integration.

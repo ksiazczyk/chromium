@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mouse wheel rails filter for Mac
+// summary: Declares a filter that locks Mac mouse wheel scrolling to a horizontal or vertical axis by updating the rails mode.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_INPUT_MOUSE_WHEEL_RAILS_FILTER_MAC_H_
 #define CONTENT_BROWSER_RENDERER_HOST_INPUT_MOUSE_WHEEL_RAILS_FILTER_MAC_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TextInputClientMac header for synchronous renderer IME IPC
+// summary: Declares TextInputClientMac, a singleton that performs timeout-guarded synchronous IPC to the renderer for the macOS NSTextInputClient API plus async dictionary lookups.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_TEXT_INPUT_CLIENT_MAC_H_
 #define CONTENT_BROWSER_RENDERER_HOST_TEXT_INPUT_CLIENT_MAC_H_
 

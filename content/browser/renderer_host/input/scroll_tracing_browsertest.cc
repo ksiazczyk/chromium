@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scroll tracing browser tests
+// summary: Browser tests validating scroll-related UKM entries and tracing metrics produced during synthetic scroll gestures.
+// ---
+
 #include <memory>
 #include <string_view>
 

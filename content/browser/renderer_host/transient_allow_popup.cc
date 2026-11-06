@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TransientAllowPopup implementation for timed popup permission
+// summary: Implements TransientAllowPopup, a time-limited activation state that permits popups until its expiry time passes.
+// ---
+
 #include "content/browser/renderer_host/transient_allow_popup.h"
 
 namespace content {

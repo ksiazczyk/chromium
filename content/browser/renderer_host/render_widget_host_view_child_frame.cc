@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenderWidgetHostViewChildFrame implementation
+// summary: Implements the widget host view for out-of-process child frames, handling frame sinks, input routing, touch selection, and visual properties.
+// ---
+
 #include "content/browser/renderer_host/render_widget_host_view_child_frame.h"
 
 #include <algorithm>

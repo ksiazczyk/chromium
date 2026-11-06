@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Synthetic Gesture Target for Android
+// summary: Android synthetic gesture target that injects synthetic touch, mouse, wheel and gesture events into the platform via JNI and tracks vsync parameters.
+// ---
+
 #include "content/browser/renderer_host/input/synthetic_gesture_target_android.h"
 
 #include "base/trace_event/trace_event.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RenderWidgetHostViewAura browser tests
+// summary: Browser tests for the Aura widget host view covering keyboard input, stale content on eviction, and platform-specific behavior on Windows and ChromeOS.
+// ---
+
 #include "content/browser/renderer_host/render_widget_host_view_aura.h"
 
 #include "base/functional/bind.h"

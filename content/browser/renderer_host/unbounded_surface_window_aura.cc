@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UnboundedSurfaceWindowAura implementation
+// summary: Implements the Aura version of UnboundedSurfaceWindow, managing window bounds, frame sinks, input event routing, and a debug border for unbounded element surfaces.
+// ---
+
 #include "content/browser/renderer_host/unbounded_surface_window_aura.h"
 
 #include "base/check.h"

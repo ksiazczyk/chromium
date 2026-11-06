@@ -1,0 +1,4 @@
+# Docerion header of test_render_widget_host_view_ios_factory.mm.
+type: source
+title: iOS render widget host view test factory implementation
+summary: Implements the iOS test factory that creates RenderWidgetHostViewIOS instances and exposes their browser compositor for testing.

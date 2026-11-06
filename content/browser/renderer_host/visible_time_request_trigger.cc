@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VisibleTimeRequestTrigger implementation
+// summary: Implements recording of content-to-visible time events and handing the accumulated request off for latency measurement.
+// ---
+
 #include "content/browser/renderer_host/visible_time_request_trigger.h"
 
 #include <algorithm>

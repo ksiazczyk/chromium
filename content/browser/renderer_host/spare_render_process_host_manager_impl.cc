@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Spare render process host manager implementation
+// summary: Manages warmup, reuse, and destruction of spare renderer processes, including memory-pressure killing, Android memory thresholds, and UMA metrics for spare renderer usage.
+// ---
+
 #include "content/browser/renderer_host/spare_render_process_host_manager_impl.h"
 
 #include <algorithm>

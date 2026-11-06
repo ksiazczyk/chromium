@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Main thread event queue browser tests
+// summary: Browser test checking mouse and touch event queuing on the main thread, using a janky page and synthetic scroll gestures to observe event delivery.
+// ---
+
 #include <array>
 #include <tuple>
 #include <utility>

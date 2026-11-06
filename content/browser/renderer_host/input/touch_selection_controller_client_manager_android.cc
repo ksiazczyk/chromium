@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android touch selection controller client manager implementation
+// summary: Implements the Android touch selection client manager, delegating selection updates, caret movement, and context menus to the active client.
+// ---
+
 #include "content/browser/renderer_host/input/touch_selection_controller_client_manager_android.h"
 
 #include "content/browser/renderer_host/render_widget_host_view_android.h"

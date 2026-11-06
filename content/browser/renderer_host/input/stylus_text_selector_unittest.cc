@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Stylus Text Selector Unit Tests
+// summary: Unit tests for StylusTextSelector covering text selection triggering by tool type and button state, plus drag and tap gesture handling.
+// ---
+
 #include "content/browser/renderer_host/input/stylus_text_selector.h"
 
 #include <memory>

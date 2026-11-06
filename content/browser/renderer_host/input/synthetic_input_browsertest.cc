@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Synthetic input browser tests
+// summary: Browser tests for synthetic gestures, verifying that destroying a render widget host during an ongoing gesture causes no lifetime issues.
+// ---
+
 #include <memory>
 #include <tuple>
 

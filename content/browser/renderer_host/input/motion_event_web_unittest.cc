@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MotionEventWeb unit tests
+// summary: Unit tests verifying that MotionEventWeb preserves tool type, tilt, orientation, twist and tangential pressure across WebTouchEvent conversions.
+// ---
+
 #include "content/browser/renderer_host/input/motion_event_web.h"
 
 #include <stddef.h>

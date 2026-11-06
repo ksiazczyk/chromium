@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mouse wheel rails filter unit tests for Mac
+// summary: Unit tests verifying rails mode locking, re-railing, diagonal scrolling, and gesture reset behavior for Mac mouse wheel events.
+// ---
+
 #include "content/browser/renderer_host/input/mouse_wheel_rails_filter_mac.h"
 #include "testing/gtest/include/gtest/gtest.h"
 

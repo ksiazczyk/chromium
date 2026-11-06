@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: View transition opt-in state implementation
+// summary: Implements per-document browser-side storage of a document's same-origin opt-in for cross-document view transitions as DocumentUserData.
+// ---
+
 #include "content/browser/renderer_host/view_transition_opt_in_state.h"
 
 namespace content {

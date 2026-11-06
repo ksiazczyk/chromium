@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RenderWidgetHostViewAura unit tests
+// summary: Extensive unit tests for the Aura widget host view covering begin frames, surface ID allocation, overscroll, text input, and event handling with test doubles.
+// ---
+
 #include "content/browser/renderer_host/render_widget_host_view_aura.h"
 
 #include <stddef.h>

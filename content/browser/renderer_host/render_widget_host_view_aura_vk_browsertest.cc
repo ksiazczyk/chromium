@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RenderWidgetHostViewAura virtual keyboard browser tests
+// summary: Browser tests verifying virtual keyboard policy and visibility request handling through TextInputManager for the Aura widget host view.
+// ---
+
 #include "base/memory/raw_ptr.h"
 #include "base/observer_list.h"
 #include "build/build_config.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows virtual keyboard controller implementation
+// summary: Implements showing, hiding and inset handling for the Windows on-screen keyboard in response to taps on editable fields in a RenderWidgetHostViewAura.
+// ---
+
 #include "content/browser/renderer_host/virtual_keyboard_controller_win.h"
 
 #include "base/trace_event/trace_event.h"

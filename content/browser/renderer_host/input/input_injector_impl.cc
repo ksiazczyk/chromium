@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputInjector implementation
+// summary: Implements the InputInjector Mojo service by queuing synthetic scroll, drag, pinch, tap, and pointer-action gestures on the widget host view.
+// ---
+
 #include "content/browser/renderer_host/input/input_injector_impl.h"
 
 #include <memory>

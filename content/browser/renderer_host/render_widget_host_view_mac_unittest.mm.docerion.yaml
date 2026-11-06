@@ -1,0 +1,4 @@
+# Docerion header of render_widget_host_view_mac_unittest.mm.
+type: test
+title: RenderWidgetHostViewMac unit tests
+summary: Extensive unit tests for the Mac render widget host view covering input events, text input and IME, visibility, and compositor behavior.

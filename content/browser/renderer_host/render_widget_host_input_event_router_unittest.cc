@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RenderWidgetHostInputEventRouter unit tests
+// summary: Unit tests for the input event router, verifying that mouse, wheel, touch, and pinch-zoom events target the correct widget view across nested frames.
+// ---
+
 #include "components/input/render_widget_host_input_event_router.h"
 
 #include <memory>

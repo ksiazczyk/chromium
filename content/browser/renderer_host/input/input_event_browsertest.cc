@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Input event browser tests
+// summary: Browser tests that dispatch synthetic input events and verify event counts and timestamps on a test page.
+// ---
+
 #include <tuple>
 
 #include "base/command_line.h"

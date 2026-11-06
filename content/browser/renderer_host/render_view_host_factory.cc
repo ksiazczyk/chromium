@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenderViewHostFactory implementation
+// summary: Implements creation of RenderViewHosts through the registered factory or the default RenderViewHostImpl, plus factory registration.
+// ---
+
 #include "content/browser/renderer_host/render_view_host_factory.h"
 
 #include <memory>

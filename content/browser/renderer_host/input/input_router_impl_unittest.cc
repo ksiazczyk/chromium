@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InputRouterImpl unit tests
+// summary: Extensive unit tests for the input router covering mouse, touch, keyboard, gesture, and wheel event dispatch and acknowledgment.
+// ---
+
 #include "components/input/input_router_impl.h"
 
 #include <math.h>

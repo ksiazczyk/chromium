@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scroll behavior browser tests
+// summary: Browser tests verifying that in-progress smooth scrolls stop when interrupted by instant, touch, or wheel scrolls on main frames and subframes.
+// ---
+
 #include <memory>
 #include <tuple>
 

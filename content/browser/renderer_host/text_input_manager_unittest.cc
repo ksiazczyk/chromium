@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for TextInputManager state updates
+// summary: Tests TextInputManager behaviour such as Windows custom password flag handling and clamping of out-of-bounds IME composition character bounds.
+// ---
+
 #include "content/browser/renderer_host/text_input_manager.h"
 
 #include "base/command_line.h"

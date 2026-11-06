@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Spare render process host manager class declaration
+// summary: Declares SpareRenderProcessHostManagerImpl with observer and warmup APIs, spare renderer dispatch and no-spare-reason enums, and memory pressure feature flags.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_SPARE_RENDER_PROCESS_HOST_MANAGER_IMPL_H_
 #define CONTENT_BROWSER_RENDERER_HOST_SPARE_RENDER_PROCESS_HOST_MANAGER_IMPL_H_
 

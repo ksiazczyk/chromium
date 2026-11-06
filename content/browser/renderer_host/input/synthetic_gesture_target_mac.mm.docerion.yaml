@@ -1,0 +1,4 @@
+# Docerion header of synthetic_gesture_target_mac.mm.
+type: source
+title: Mac synthetic gesture target implementation
+summary: Implements the macOS synthetic gesture target, including a synthetic Cocoa pinch event object used to inject zoom gestures.

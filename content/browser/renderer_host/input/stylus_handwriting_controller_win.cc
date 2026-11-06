@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows stylus handwriting controller implementation
+// summary: Implements the controller that initializes the Windows Shell Handwriting API and manages stylus writing sessions per build version.
+// ---
+
 #include "content/browser/renderer_host/input/stylus_handwriting_controller_win.h"
 
 #include "base/functional/callback_helpers.h"

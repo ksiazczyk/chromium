@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac mouse wheel rails filter
+// summary: Implements axis railing for Mac trackpad wheel events, locking scrolling to the dominant axis with hysteresis unless movement is clearly diagonal.
+// ---
+
 #include "content/browser/renderer_host/input/mouse_wheel_rails_filter_mac.h"
 
 using blink::WebInputEvent;

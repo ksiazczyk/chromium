@@ -1,0 +1,4 @@
+# Docerion header of test_render_widget_host_view_mac_factory.mm.
+type: test
+title: Test factory for RenderWidgetHostViewMac on macOS
+summary: Provides test-only helpers that create a RenderWidgetHostViewMac and expose its browser compositor and screen infos for testing.

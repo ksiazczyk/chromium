@@ -1,3 +1,9 @@
+---
+type: readme
+title: Renderer Host Input
+summary: Describes browser-side input event handling and how TouchpadPinchEventQueue offers cancelable wheel events for touchpad pinch zooming.
+---
+
 # Renderer Host Input
 
 This directory contains browser side input event handling code.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenderWidgetHostDelegate default implementations
+// summary: Implements the default behavior of the RenderWidgetHostDelegate interface, returning safe defaults for input handling, accessibility, display mode, and pointer lock queries.
+// ---
+
 #include "content/browser/renderer_host/render_widget_host_delegate.h"
 
 #include "build/build_config.h"

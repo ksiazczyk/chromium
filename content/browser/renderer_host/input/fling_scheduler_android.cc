@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android fling scheduler implementation
+// summary: Implements Android fling progress scheduling by observing the root window and compositor, falling back to host BeginFrames when no compositor exists.
+// ---
+
 #include "content/browser/renderer_host/input/fling_scheduler_android.h"
 
 #include "build/build_config.h"

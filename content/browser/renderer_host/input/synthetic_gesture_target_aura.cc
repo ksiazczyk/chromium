@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Synthetic Gesture Target for Aura
+// summary: Aura synthetic gesture target that converts web touch and mouse events into ui::Event objects and injects them into the Aura event dispatcher.
+// ---
+
 #include "content/browser/renderer_host/input/synthetic_gesture_target_aura.h"
 
 #include <stddef.h>

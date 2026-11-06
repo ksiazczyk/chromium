@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UnboundedSurfaceWindow Android implementation
+// summary: Android implementation of unbounded surface windows that creates a popup window, manages frame sink registration and routes input to the target view.
+// ---
+
 #include "content/browser/renderer_host/unbounded_surface_window_android.h"
 
 #include <cmath>

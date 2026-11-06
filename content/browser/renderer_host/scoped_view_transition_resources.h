@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedViewTransitionResources class declaration
+// summary: Declares the class that owns view transition resources during navigation handoff between renderer, browser, and GPU processes and can delay process shutdown.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_SCOPED_VIEW_TRANSITION_RESOURCES_H_
 #define CONTENT_BROWSER_RENDERER_HOST_SCOPED_VIEW_TRANSITION_RESOURCES_H_
 
