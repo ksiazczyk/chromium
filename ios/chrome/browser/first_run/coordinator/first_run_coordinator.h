@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FirstRunCoordinator interface
+// summary: Declares the coordinator that presents first run screens and its delegate protocol.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_FIRST_RUN_COORDINATOR_FIRST_RUN_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_FIRST_RUN_COORDINATOR_FIRST_RUN_COORDINATOR_H_
 

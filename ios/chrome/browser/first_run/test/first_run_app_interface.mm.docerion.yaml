@@ -1,0 +1,4 @@
+# Docerion header of first_run_app_interface.mm.
+type: test
+title: First Run app interface implementation
+summary: Implements FirstRunAppInterface by reading the metrics reporting enabled pref from the application context.

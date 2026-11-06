@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the Interactive Lens first run UI
+summary: Declares the allowed dependency directories for this folder, covering the bubble UI and lens overlay UI modules.

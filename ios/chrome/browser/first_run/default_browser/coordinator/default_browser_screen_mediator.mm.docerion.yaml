@@ -1,0 +1,4 @@
+# Docerion header of default_browser_screen_mediator.mm.
+type: source
+title: Default browser screen mediator implementation
+summary: Implements the mediator that records TOS and UMA link taps and persists EULA acceptance and metrics reporting preferences in local state.

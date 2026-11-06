@@ -1,0 +1,4 @@
+# Docerion header of first_run_metrics.mm.
+type: source
+title: First run metrics histogram name definitions
+summary: Defines the histogram name constants for the first run stage and default browser promo segmentation and switcher metrics.

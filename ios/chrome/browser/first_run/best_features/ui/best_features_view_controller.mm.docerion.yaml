@@ -1,0 +1,4 @@
+# Docerion header of best_features_view_controller.mm.
+type: source
+title: Best Features view controller implementation
+summary: Implements the Best Features screen, building a table view of feature items with a promo-style header, logo, and localized title and subtitle.

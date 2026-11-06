@@ -1,0 +1,4 @@
+# Docerion header of best_features_constants.mm.
+type: source
+title: Best Features accessibility constants implementation
+summary: Defines the Best Features cell accessibility identifier prefix string.

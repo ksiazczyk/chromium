@@ -1,0 +1,4 @@
+# Docerion header of test_favicon_loader.mm.
+type: test
+title: Test FaviconLoader implementation
+summary: Implements TestFaviconLoader, which synchronously answers all favicon requests with a default favicon image.

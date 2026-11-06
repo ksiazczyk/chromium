@@ -1,0 +1,4 @@
+# Docerion header of ios_tracker_session_controller_unittest.mm.
+type: test
+title: iOS tracker session controller unit tests
+summary: Tests that tracker sessions reset only after the maximum session duration has elapsed.

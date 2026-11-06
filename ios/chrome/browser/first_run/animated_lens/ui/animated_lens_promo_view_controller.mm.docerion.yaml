@@ -1,0 +1,4 @@
+# Docerion header of animated_lens_promo_view_controller.mm.
+type: source
+title: Animated Lens promo view controller implementation
+summary: Implements the animated Lens promo view controller, creating a looping Lottie tutorial animation, localized title, subtitle and button strings, and adapting colors for light and dark mode.

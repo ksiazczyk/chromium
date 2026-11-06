@@ -1,0 +1,4 @@
+# Docerion header of enterprise_loading_screen_egtest.mm.
+type: test
+title: Enterprise loading screen Earl Grey tests
+summary: Earl Grey tests verifying the enterprise loading screen during first run with valid and invalid enrollment tokens.

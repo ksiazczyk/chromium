@@ -1,0 +1,4 @@
+# Docerion header of find_tab_helper.mm.
+type: source
+title: FindTabHelper implementation
+summary: Implements FindTabHelper lifecycle and find actions, including fullscreen forcing, response delegation, search term persistence and dismissal on navigation or hiding.

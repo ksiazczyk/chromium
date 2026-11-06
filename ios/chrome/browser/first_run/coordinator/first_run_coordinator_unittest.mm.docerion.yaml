@@ -1,0 +1,4 @@
+# Docerion header of first_run_coordinator_unittest.mm.
+type: test
+title: FirstRunCoordinator unit tests
+summary: Tests first run coordinator behavior including device switcher segmentation and screen sequencing.

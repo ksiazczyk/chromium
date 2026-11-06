@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FindInPageModel header
+// summary: Declares the FindInPageModel class that stores the Find in Page query string, match count, current match index and the content offset for the highlighted match.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_FIND_IN_PAGE_MODEL_FIND_IN_PAGE_MODEL_H_
 #define IOS_CHROME_BROWSER_FIND_IN_PAGE_MODEL_FIND_IN_PAGE_MODEL_H_
 

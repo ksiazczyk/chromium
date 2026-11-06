@@ -1,0 +1,4 @@
+# Docerion header of omnibox_position_choice_view_controller.mm.
+type: source
+title: Omnibox position choice view controller implementation
+summary: Implements the first-run screen that lets users choose between the top and bottom omnibox position using option views and haptic feedback.

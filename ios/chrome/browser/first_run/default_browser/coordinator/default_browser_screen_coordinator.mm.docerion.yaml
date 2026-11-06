@@ -1,0 +1,4 @@
+# Docerion header of default_browser_screen_coordinator.mm.
+type: source
+title: Default browser screen coordinator implementation
+summary: Implements the coordinator that shows the static or animated default browser promo and chains TOS, UMA and instructions bottom sheet flows with metrics logging.

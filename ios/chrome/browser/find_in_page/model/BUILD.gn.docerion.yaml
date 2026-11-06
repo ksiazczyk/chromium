@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Find in Page model GN build file
+summary: Defines GN source sets for the iOS Find in Page model, its Earl Grey test targets, and unit tests with their dependencies.

@@ -1,0 +1,4 @@
+# Docerion header of default_browser_screen_view_controller.mm.
+type: source
+title: DefaultBrowserScreenViewController implementation
+summary: Implements the default browser promo screen with banner image, localized title and subtitle, instruction steps, and disclaimer generation.

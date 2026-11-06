@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Omnibox position choice coordinator build definition
+summary: Defines the coordinator source_set and its dependencies for the omnibox position choice screen.

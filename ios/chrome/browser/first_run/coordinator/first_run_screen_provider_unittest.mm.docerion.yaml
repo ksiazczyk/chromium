@@ -1,0 +1,4 @@
+# Docerion header of first_run_screen_provider_unittest.mm.
+type: test
+title: FirstRunScreenProvider Unit Tests
+summary: Unit tests verifying the first run screen sequence produced by FirstRunScreenProvider, including fallback behavior when the search engine choice screen is required.

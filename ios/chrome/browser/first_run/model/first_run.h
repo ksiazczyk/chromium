@@ -4,6 +4,12 @@
 
 // This file contains the iOS equivalent of FirstRun.
 
+// ---docerion
+// type: source
+// title: FirstRun class interface for iOS first run handling
+// summary: Declares the FirstRun class that manages first run detection, sentinel file operations, and profile preferences.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_FIRST_RUN_MODEL_FIRST_RUN_H_
 #define IOS_CHROME_BROWSER_FIRST_RUN_MODEL_FIRST_RUN_H_
 

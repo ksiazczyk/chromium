@@ -1,0 +1,4 @@
+# Docerion header of tos_coordinator.mm.
+type: source
+title: TOS coordinator implementation
+summary: Implements the coordinator that loads the Terms of Service page in a WKWebView and shows a No Internet alert when loading fails.

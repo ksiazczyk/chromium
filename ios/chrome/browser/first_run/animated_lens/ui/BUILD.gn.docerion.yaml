@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the animated Lens promo UI source set
+summary: GN build definition for the animated Lens promo UI, listing the view controller sources, UIKit framework, and string, animation and common UI dependency targets.

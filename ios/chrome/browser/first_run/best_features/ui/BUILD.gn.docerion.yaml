@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Best Features UI GN build file
+summary: Defines the constants and UI source sets with their dependencies for the Best Features first-run screen.

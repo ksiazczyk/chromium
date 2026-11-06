@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IOSChromeFaviconLoaderFactory header
+// summary: Declares the typed profile-keyed service factory that owns FaviconLoader instances per ProfileIOS and provides a default testing factory.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_FAVICON_MODEL_IOS_CHROME_FAVICON_LOADER_FACTORY_H_
 #define IOS_CHROME_BROWSER_FAVICON_MODEL_IOS_CHROME_FAVICON_LOADER_FACTORY_H_
 

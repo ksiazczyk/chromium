@@ -1,0 +1,4 @@
+# Docerion header of omnibox_position_choice_coordinator.mm.
+type: source
+title: Omnibox position choice coordinator implementation
+summary: Presents the omnibox position choice view controller, notifies the Tips Manager of the display, and dismisses the screen on user actions.

@@ -1,0 +1,4 @@
+# Docerion header of best_features_cell.mm.
+type: source
+title: Best Features table view cell implementation
+summary: Implements the Best Features cell layout with an icon background, text labels, and stack view.

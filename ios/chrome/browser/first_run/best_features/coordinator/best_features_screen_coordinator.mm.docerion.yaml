@@ -1,0 +1,4 @@
+# Docerion header of best_features_screen_coordinator.mm.
+type: source
+title: Best Features Screen Coordinator Implementation
+summary: Implements the Best Features Screen coordinator, handling variation and sign-in checks, metrics, and presentation of the screen and its detail coordinator.

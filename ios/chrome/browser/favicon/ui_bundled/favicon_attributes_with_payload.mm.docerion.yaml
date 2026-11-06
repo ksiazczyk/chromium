@@ -1,0 +1,4 @@
+# Docerion header of favicon_attributes_with_payload.mm.
+type: source
+title: FaviconAttributesWithPayload implementation
+summary: Implements the FaviconAttributesWithPayload class, adding no behavior beyond its declared properties.

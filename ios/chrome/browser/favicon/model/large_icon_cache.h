@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LargeIconCache header
+// summary: Declares the KeyedService LRU cache storing most recently used LargeIconResult entries per URL so iOS can load icons immediately on page load.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_FAVICON_MODEL_LARGE_ICON_CACHE_H_
 #define IOS_CHROME_BROWSER_FAVICON_MODEL_LARGE_ICON_CACHE_H_
 

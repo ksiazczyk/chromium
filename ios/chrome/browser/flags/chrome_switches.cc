@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Definitions of iOS Chrome command-line switches
+// summary: Defines the string constants for the command-line switches used by iOS Chrome.
+// ---
+
 #include "ios/chrome/browser/flags/chrome_switches.h"
 
 namespace switches {

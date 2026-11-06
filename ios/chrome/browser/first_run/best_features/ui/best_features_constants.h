@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Best Features accessibility constants interface
+// summary: Declares the accessibility identifier prefix constant used by Best Features cells.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_FIRST_RUN_BEST_FEATURES_UI_BEST_FEATURES_CONSTANTS_H_
 #define IOS_CHROME_BROWSER_FIRST_RUN_BEST_FEATURES_UI_BEST_FEATURES_CONSTANTS_H_
 

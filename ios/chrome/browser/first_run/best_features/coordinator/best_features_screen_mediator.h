@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Best Features Screen Mediator Header
+// summary: Declares the mediator that supplies Best Features items to the screen consumer using segmentation and shopping services.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_FIRST_RUN_BEST_FEATURES_COORDINATOR_BEST_FEATURES_SCREEN_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_FIRST_RUN_BEST_FEATURES_COORDINATOR_BEST_FEATURES_SCREEN_MEDIATOR_H_
 

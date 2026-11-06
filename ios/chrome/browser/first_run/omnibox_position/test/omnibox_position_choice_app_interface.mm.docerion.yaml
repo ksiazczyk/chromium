@@ -1,0 +1,4 @@
+# Docerion header of omnibox_position_choice_app_interface.mm.
+type: test
+title: Omnibox position choice app interface implementation
+summary: Implements the test helper that shows the omnibox position choice screen through the active browser's coordinator commands.

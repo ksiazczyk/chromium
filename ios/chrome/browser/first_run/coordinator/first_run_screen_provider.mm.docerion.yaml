@@ -1,0 +1,4 @@
+# Docerion header of first_run_screen_provider.mm.
+type: source
+title: FirstRunScreenProvider implementation
+summary: Builds the first run screen sequence based on feature variations, sign-in state, and regional settings.

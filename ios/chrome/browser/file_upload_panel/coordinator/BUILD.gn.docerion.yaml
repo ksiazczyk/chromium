@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: File upload panel coordinator BUILD.gn
+summary: Defines the source_set and unit_tests build targets with their dependencies for the iOS file upload panel coordinator.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FaviconAttributesWithPayload interface
+// summary: Declares a FaviconAttributes subclass that carries an icon type payload created by mediators and consumed by UI elements.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_FAVICON_UI_BUNDLED_FAVICON_ATTRIBUTES_WITH_PAYLOAD_H_
 #define IOS_CHROME_BROWSER_FAVICON_UI_BUNDLED_FAVICON_ATTRIBUTES_WITH_PAYLOAD_H_
 

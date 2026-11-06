@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: First Run Earl Grey test build targets
+summary: Defines GN source sets for first run Earl Grey tests and the app interface support used by them.

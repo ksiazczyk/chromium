@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TOSViewController interface for the first-run Terms of Service
+// summary: Declares the TOSViewController interface and its presentation delegate protocol used to display and close the Terms of Service view.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_FIRST_RUN_TOS_UI_TOS_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_FIRST_RUN_TOS_UI_TOS_VIEW_CONTROLLER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of tracker_factory.mm.
+type: source
+title: Tracker factory implementation
+summary: Implements TrackerFactory, building the feature engagement Tracker per profile and redirecting incognito profiles to the regular tracker.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: test
+title: Build targets for default browser Earl Grey tests
+summary: GN build file defining the eg2_tests target and its dependencies for the default browser screen Earl Grey tests.

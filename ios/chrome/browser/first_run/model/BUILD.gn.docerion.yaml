@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the first run model source set
+summary: Defines the model source set listing the first run sources and their build dependencies.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Find in Page model dependency rules
+summary: Restricts the includes allowed in the Find in Page model directory to a specific list of Chrome iOS headers.

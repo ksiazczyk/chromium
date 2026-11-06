@@ -1,0 +1,4 @@
+# Docerion header of best_features_carousel_view_controller.mm.
+type: source
+title: Best Features carousel view controller implementation
+summary: Implements the swipeable feature promo carousel with page control, page data source, and current index tracking.

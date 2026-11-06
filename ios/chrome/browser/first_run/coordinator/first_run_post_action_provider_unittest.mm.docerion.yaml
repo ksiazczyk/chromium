@@ -1,0 +1,4 @@
+# Docerion header of first_run_post_action_provider_unittest.mm.
+type: test
+title: FirstRunPostActionProvider unit tests
+summary: Tests post-first-run screen skipping for the Gemini promo and guided tour conditions.

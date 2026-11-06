@@ -1,0 +1,4 @@
+# Docerion header of omnibox_position_choice_mediator.mm.
+type: source
+title: Omnibox position choice mediator implementation
+summary: Tracks the selected omnibox toolbar position and writes it to local state preferences when saved.

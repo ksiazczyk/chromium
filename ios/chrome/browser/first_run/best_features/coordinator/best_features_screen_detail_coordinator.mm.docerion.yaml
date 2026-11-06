@@ -1,0 +1,4 @@
+# Docerion header of best_features_screen_detail_coordinator.mm.
+type: source
+title: Best Features Screen Detail Coordinator Implementation
+summary: Implements the Best Features detail screen coordinator, presenting carousel or screenshot views and an instructions bottom sheet for feature actions.

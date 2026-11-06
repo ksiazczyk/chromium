@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for omnibox position tests
+summary: DEPS file restricting includes in the omnibox position test directory, allowing the promos manager model.

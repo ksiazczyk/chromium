@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test FaviconLoader stub declaration
+// summary: Declares TestFaviconLoader, a FaviconLoader test double that returns the same favicon image for every request.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_FAVICON_MODEL_TEST_FAVICON_LOADER_H_
 #define IOS_CHROME_BROWSER_FAVICON_MODEL_TEST_FAVICON_LOADER_H_
 

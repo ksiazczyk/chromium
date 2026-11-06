@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for default browser test directory
+summary: Specifies the headers and directories that files in the default browser test directory are allowed to include.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Large icon cache unit tests
+// summary: Unit tests for LargeIconCache covering empty cache lookups, storing and retrieving bitmap and fallback icon results, and overwriting cached entries.
+// ---
+
 #include "ios/chrome/browser/favicon/model/large_icon_cache.h"
 
 #include "components/favicon_base/fallback_icon_style.h"

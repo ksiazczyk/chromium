@@ -1,0 +1,4 @@
+# Docerion header of omnibox_position_egtest.mm.
+type: test
+title: Omnibox position choice Earl Grey tests
+summary: Earl Grey test case verifying the omnibox position choice screen, covering selection of the top and bottom address bar options.

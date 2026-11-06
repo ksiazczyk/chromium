@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Best Features view controller interface
+// summary: Declares the promo-style view controller that presents the Best Features fullscreen sheet in the First Run Experience with a table view of highlighted features.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_FIRST_RUN_BEST_FEATURES_UI_BEST_FEATURES_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_FIRST_RUN_BEST_FEATURES_UI_BEST_FEATURES_VIEW_CONTROLLER_H_
 

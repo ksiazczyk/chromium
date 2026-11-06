@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS tracker session controller declaration
+// summary: Declares IOSTrackerSessionController, an iOS-specific SessionController injected into the feature engagement tracker.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_FEATURE_ENGAGEMENT_MODEL_IOS_TRACKER_SESSION_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_FEATURE_ENGAGEMENT_MODEL_IOS_TRACKER_SESSION_CONTROLLER_H_
 

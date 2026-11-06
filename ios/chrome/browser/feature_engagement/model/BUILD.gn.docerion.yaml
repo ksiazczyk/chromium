@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Feature engagement model GN build targets
+summary: Defines source sets and dependencies for the feature engagement model, event exporter and their unit and Earl Grey tests.

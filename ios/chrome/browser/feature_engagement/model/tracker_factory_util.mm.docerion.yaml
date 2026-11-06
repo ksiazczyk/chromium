@@ -1,0 +1,4 @@
+# Docerion header of tracker_factory_util.mm.
+type: source
+title: Tracker factory utility implementation
+summary: Creates the feature engagement Tracker, applying demo mode overrides and wiring storage paths, event exporter, and session controller.

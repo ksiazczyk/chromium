@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default browser screen mediator header
+// summary: Declares the mediator that supplies the default browser promo with the UMA reporting choice and TOS and UMA link tap state.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_FIRST_RUN_DEFAULT_BROWSER_COORDINATOR_DEFAULT_BROWSER_SCREEN_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_FIRST_RUN_DEFAULT_BROWSER_COORDINATOR_DEFAULT_BROWSER_SCREEN_MEDIATOR_H_
 

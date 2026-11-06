@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: First run coordinator build targets
+summary: Defines GN source sets and dependencies for the first run coordinator and its unit tests.

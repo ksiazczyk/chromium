@@ -1,0 +1,4 @@
+# Docerion header of find_in_page_controller.mm.
+type: source
+title: Find in Page controller implementation
+summary: Implements the Find in Page controller, wiring the web FindInPageManager, shared search term storage, and UKM metric logging.

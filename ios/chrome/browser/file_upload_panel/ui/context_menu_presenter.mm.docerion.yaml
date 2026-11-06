@@ -1,0 +1,4 @@
+# Docerion header of context_menu_presenter.mm.
+type: source
+title: ContextMenuPresenter implementation
+summary: Implements context menu presentation by forwarding UIContextMenuInteraction delegate callbacks through a hidden button added to the root view.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS Include Rules for Best Features Coordinator
+summary: Declares the allowed include directories for code in the Best Features coordinator directory.

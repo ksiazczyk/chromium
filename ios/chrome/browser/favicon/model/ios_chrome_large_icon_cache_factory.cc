@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IOSChromeLargeIconCacheFactory implementation
+// summary: Creates a LargeIconCache instance per profile with its own incognito instance through the typed profile-keyed service factory.
+// ---
+
 #include "ios/chrome/browser/favicon/model/ios_chrome_large_icon_cache_factory.h"
 
 #include "ios/chrome/browser/favicon/model/large_icon_cache.h"

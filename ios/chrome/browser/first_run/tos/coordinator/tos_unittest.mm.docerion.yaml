@@ -1,0 +1,4 @@
+# Docerion header of tos_unittest.mm.
+type: test
+title: TOS coordinator unit tests
+summary: Unit tests verifying that navigation errors while loading the Terms of Service page invoke the failedToLoad handler.

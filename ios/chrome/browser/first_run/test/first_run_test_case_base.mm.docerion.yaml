@@ -1,0 +1,4 @@
+# Docerion header of first_run_test_case_base.mm.
+type: test
+title: First Run test case base implementation
+summary: Implements shared first run test setup, teardown, app relaunch, and screen verification helpers.

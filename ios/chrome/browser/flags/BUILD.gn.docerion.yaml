@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the flags source set
+summary: Defines the flags source set with its sources and the many component dependencies needed to build iOS Chrome flag handling.

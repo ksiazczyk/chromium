@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declarations of iOS Chrome command-line switches
+// summary: Declares the iOS Chrome command-line switch constants together with comments describing each switch's purpose.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_FLAGS_CHROME_SWITCHES_H_
 #define IOS_CHROME_BROWSER_FLAGS_CHROME_SWITCHES_H_
 

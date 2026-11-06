@@ -1,0 +1,4 @@
+# Docerion header of about_flags.mm.
+type: source
+title: Implementation of about:flags for iOS Chrome
+summary: Implements the iOS flag entry list and logic that applies experimental settings and selected flags to the command line.

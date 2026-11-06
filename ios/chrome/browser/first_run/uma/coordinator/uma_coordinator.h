@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UMACoordinator interface and delegate protocol
+// summary: Declares the UMACoordinator class and its delegate protocol for presenting the UMA reporting dialog during the first run experience.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_FIRST_RUN_UMA_COORDINATOR_UMA_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_FIRST_RUN_UMA_COORDINATOR_UMA_COORDINATOR_H_
 

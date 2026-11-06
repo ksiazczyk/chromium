@@ -1,0 +1,4 @@
+# Docerion header of favicon_client_impl.mm.
+type: source
+title: FaviconClientImpl implementation
+summary: Implements the favicon client, supplying favicons for native Chrome URLs from bundled resources.

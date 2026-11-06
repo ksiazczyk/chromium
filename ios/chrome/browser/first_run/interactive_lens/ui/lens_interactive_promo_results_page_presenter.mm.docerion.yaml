@@ -1,0 +1,4 @@
+# Docerion header of lens_interactive_promo_results_page_presenter.mm.
+type: source
+title: Lens interactive promo results page presenter implementation
+summary: Implements presenting, readjusting and dismissing the fixed-height Lens results bottom sheet for the interactive first run promo.

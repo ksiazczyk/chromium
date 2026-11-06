@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the Interactive Lens promo coordinator
+summary: GN build file defining the coordinator source_set with its sources, dependencies, and the UIKit framework for the Interactive Lens first run promo.

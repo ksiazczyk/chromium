@@ -1,0 +1,4 @@
+# Docerion header of feature_highlight_screenshot_view_controller.mm.
+type: source
+title: Feature highlight screenshot view controller implementation
+summary: Implements the screenshot-based feature highlight screen, configuring actions per First Run variation and logging navigation metrics.

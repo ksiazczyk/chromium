@@ -1,0 +1,4 @@
+# Docerion header of animated_lens_promo_egtest.mm.
+type: test
+title: Animated Lens promo Earl Grey UI tests
+summary: Earl Grey UI tests that launch first run with the BestOfAppFRE feature and verify first run stage histogram metrics for the Animated Lens promo.

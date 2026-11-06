@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileUploadPanelPickerResultLoader header
+// summary: Declares a class that loads file representations for PHPickerResult objects and reports the resulting file URLs through a callback.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_FILE_UPLOAD_PANEL_COORDINATOR_FILE_UPLOAD_PANEL_PICKER_RESULT_LOADER_H_
 #define IOS_CHROME_BROWSER_FILE_UPLOAD_PANEL_COORDINATOR_FILE_UPLOAD_PANEL_PICKER_RESULT_LOADER_H_
 

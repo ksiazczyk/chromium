@@ -1,0 +1,4 @@
+# Docerion header of constants.mm.
+type: source
+title: Find bar text field notification constant definitions
+summary: Defines the NSString values for the find bar text field notification name constants declared in the header.

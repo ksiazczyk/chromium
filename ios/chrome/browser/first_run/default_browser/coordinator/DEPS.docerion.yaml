@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the default browser coordinator
+summary: Specifies the include rules allowing this directory to depend on default browser, feature engagement, instructions bottom sheet and policy code.

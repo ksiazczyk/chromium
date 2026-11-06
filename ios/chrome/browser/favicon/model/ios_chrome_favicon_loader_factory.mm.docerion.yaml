@@ -1,0 +1,4 @@
+# Docerion header of ios_chrome_favicon_loader_factory.mm.
+type: source
+title: IOSChromeFaviconLoaderFactory implementation
+summary: Builds FaviconLoaderImpl instances per profile from the profile's LargeIconService and declares a dependency on the large icon service factory.

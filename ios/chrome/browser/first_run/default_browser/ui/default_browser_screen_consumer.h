@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DefaultBrowserScreenConsumer protocol
+// summary: Defines the DefaultBrowserScreenConsumer protocol and the screen intent enum controlling promo disclaimers for terms of service and metric reporting.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_FIRST_RUN_DEFAULT_BROWSER_UI_DEFAULT_BROWSER_SCREEN_CONSUMER_H_
 #define IOS_CHROME_BROWSER_FIRST_RUN_DEFAULT_BROWSER_UI_DEFAULT_BROWSER_SCREEN_CONSUMER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: test
+title: BUILD.gn for Best Features screen Earl Grey tests
+summary: Defines the eg2_tests source set with its sources and dependencies for the Best Features screen Earl Grey tests.

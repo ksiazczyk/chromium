@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for Best Features tests
+summary: Sets include rules for the test directory, allowing imports from ios/chrome/browser/signin/model.

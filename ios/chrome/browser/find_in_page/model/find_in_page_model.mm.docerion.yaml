@@ -1,0 +1,4 @@
+# Docerion header of find_in_page_model.mm.
+type: source
+title: FindInPageModel implementation
+summary: Implements FindInPageModel, updating the query, match count, current index and point when find results change.

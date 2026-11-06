@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: test
+title: Build rules for omnibox position choice tests
+summary: Defines test-only GN source sets for the omnibox position choice Earl Grey tests, including app interface support and the eg2 test target.

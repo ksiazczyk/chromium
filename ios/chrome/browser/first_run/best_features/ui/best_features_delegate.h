@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Best Features delegate protocol
+// summary: Declares a protocol extending the promo style delegate to report taps on Best Features items.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_FIRST_RUN_BEST_FEATURES_UI_BEST_FEATURES_DELEGATE_H_
 #define IOS_CHROME_BROWSER_FIRST_RUN_BEST_FEATURES_UI_BEST_FEATURES_DELEGATE_H_
 

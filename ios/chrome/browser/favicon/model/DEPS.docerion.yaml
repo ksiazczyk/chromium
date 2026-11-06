@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Favicon model include rules
+summary: Declares the allowed directory dependencies for code in the favicon model folder.

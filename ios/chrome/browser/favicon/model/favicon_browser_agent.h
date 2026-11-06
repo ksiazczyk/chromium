@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FaviconBrowserAgent class declaration
+// summary: Declares a browser agent that prepares WebStates to fetch their favicons after session restoration.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_FAVICON_MODEL_FAVICON_BROWSER_AGENT_H_
 #define IOS_CHROME_BROWSER_FAVICON_MODEL_FAVICON_BROWSER_AGENT_H_
 

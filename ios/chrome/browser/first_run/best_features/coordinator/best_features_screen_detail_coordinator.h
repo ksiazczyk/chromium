@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Best Features Screen Detail Coordinator Header
+// summary: Declares the coordinator that presents feature-specific Best Features detail screens, including carousel support and presentation source enum.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_FIRST_RUN_BEST_FEATURES_COORDINATOR_BEST_FEATURES_SCREEN_DETAIL_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_FIRST_RUN_BEST_FEATURES_COORDINATOR_BEST_FEATURES_SCREEN_DETAIL_COORDINATOR_H_
 

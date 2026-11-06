@@ -1,0 +1,4 @@
+# Docerion header of first_run_without_search_engine_choice_egtest.mm.
+type: test
+title: First Run without search engine choice Earl Grey tests
+summary: Earl Grey tests covering first run sign-in, sync, and default browser screens without the search engine choice screen.

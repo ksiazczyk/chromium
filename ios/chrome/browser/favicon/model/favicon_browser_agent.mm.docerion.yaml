@@ -1,0 +1,4 @@
+# Docerion header of favicon_browser_agent.mm.
+type: source
+title: FaviconBrowserAgent implementation
+summary: Implements the browser agent, starting favicon fetches for WebStates inserted into the tab model.

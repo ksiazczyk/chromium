@@ -1,0 +1,4 @@
+# Docerion header of guided_tour_coordinator.mm.
+type: source
+title: Guided tour coordinator implementation
+summary: Implements the guided tour coordinator, presenting rich bubble spotlights anchored to NTP and tab grid UI elements for each tour step.

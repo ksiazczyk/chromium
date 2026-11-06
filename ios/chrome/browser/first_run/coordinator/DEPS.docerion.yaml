@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: First run coordinator include rules
+summary: Lists the headers and modules that the first run coordinator directory is allowed to include.

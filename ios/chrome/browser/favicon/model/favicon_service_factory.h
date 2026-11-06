@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FaviconServiceFactory header for iOS
+// summary: Declares the singleton factory that owns FaviconService instances keyed to ProfileIOS and exposes profile lookup and default testing factory methods.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_FAVICON_MODEL_FAVICON_SERVICE_FACTORY_H_
 #define IOS_CHROME_BROWSER_FAVICON_MODEL_FAVICON_SERVICE_FACTORY_H_
 

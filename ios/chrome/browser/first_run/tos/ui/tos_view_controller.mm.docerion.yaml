@@ -1,0 +1,4 @@
+# Docerion header of tos_view_controller.mm.
+type: source
+title: TOSViewController implementation for the first-run Terms of Service
+summary: Implements the ToS view controller, configuring the navigation bar with a Done button and closing the screen through its delegate.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FindTabHelper header
+// summary: Declares the per-WebState FindTabHelper that instantiates the FindInPageController and exposes start, continue, stop and UI-active APIs for native Find in Page.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_FIND_IN_PAGE_MODEL_FIND_TAB_HELPER_H_
 #define IOS_CHROME_BROWSER_FIND_IN_PAGE_MODEL_FIND_TAB_HELPER_H_
 

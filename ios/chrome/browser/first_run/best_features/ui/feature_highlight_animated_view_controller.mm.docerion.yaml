@@ -1,0 +1,4 @@
+# Docerion header of feature_highlight_animated_view_controller.mm.
+type: source
+title: Feature highlight animated view controller implementation
+summary: Implements the animated feature promo screen, playing a looping Lottie animation with light and dark mode color support.

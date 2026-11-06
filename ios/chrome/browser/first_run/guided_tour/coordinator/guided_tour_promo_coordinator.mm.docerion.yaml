@@ -1,0 +1,4 @@
+# Docerion header of guided_tour_promo_coordinator.mm.
+type: source
+title: Guided tour promo coordinator implementation
+summary: Implements the promo coordinator, presenting the promo view controller as a medium-detent sheet and forwarding button taps to its delegate.

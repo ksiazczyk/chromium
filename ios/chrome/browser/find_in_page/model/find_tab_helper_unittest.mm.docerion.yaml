@@ -1,0 +1,4 @@
+# Docerion header of find_tab_helper_unittest.mm.
+type: test
+title: FindTabHelper unit tests
+summary: Unit tests for FindTabHelper verifying that IOS.FindInPageSearchMatches UKM entries are recorded only when the Find UI is active during dismiss or stop.

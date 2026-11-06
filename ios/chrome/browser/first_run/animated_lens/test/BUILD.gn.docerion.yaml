@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: test
+title: BUILD.gn for Animated Lens promo Earl Grey tests
+summary: Defines the eg2 test source set for the Animated Lens promo Earl Grey tests, listing its sources, dependencies and frameworks.

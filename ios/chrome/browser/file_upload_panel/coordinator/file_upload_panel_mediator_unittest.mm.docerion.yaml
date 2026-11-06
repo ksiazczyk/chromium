@@ -1,0 +1,4 @@
+# Docerion header of file_upload_panel_mediator_unittest.mm.
+type: test
+title: FileUploadPanelMediator unit tests
+summary: Unit tests for FileUploadPanelMediator covering camera availability, accepted types, and panel behavior when the controller is destroyed.

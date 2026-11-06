@@ -1,0 +1,4 @@
+# Docerion header of favicon_loader_impl_unittest.mm.
+type: test
+title: FaviconLoaderImpl unit tests
+summary: Parameterized unit tests for FaviconLoaderImpl using a fake LargeIconService for page and icon URLs.

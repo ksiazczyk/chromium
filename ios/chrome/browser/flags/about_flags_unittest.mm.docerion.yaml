@@ -1,0 +1,4 @@
+# Docerion header of about_flags_unittest.mm.
+type: test
+title: Unit tests for iOS about:flags
+summary: Verifies flag metadata, owners, alphabetical ordering, never-expire rules, and conversion of flags to command-line switches.

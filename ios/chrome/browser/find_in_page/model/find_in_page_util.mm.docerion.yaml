@@ -1,0 +1,4 @@
+# Docerion header of find_in_page_util.mm.
+type: source
+title: Find in Page utility implementation
+summary: Implements IsFindNavigatorVisibleInTab, checking the Reader Mode web state when active before querying the tab helper for find UI state.
