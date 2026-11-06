@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Embedder test logic for denied webview geolocation permission
+// summary: Sets up a webview guest and verifies that geolocation access is denied both when the embedder calls deny() and when it calls allow() on the permission request.
+// ---
+
 var embedder = {};
 embedder.test = {};
 embedder.baseGuestURL = '';

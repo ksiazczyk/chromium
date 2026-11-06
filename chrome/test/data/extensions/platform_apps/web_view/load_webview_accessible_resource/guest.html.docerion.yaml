@@ -1,0 +1,4 @@
+# Docerion header of guest.html.
+type: test
+title: Guest page loading a webview accessible test image
+summary: Guest page shown inside the webview that displays a test image from the extension's accessible resources.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the webview geolocation platform app test
+summary: Manifest version 2 platform app manifest granting geolocation and webview permissions and running test.js as the background script.

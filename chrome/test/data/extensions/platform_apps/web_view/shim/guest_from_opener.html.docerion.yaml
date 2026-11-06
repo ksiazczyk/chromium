@@ -1,0 +1,4 @@
+# Docerion header of guest_from_opener.html.
+type: test
+title: Guest that opens a new window
+summary: Test guest page that opens a new window via window.open of its own URI when loaded in a webview.

@@ -1,3 +1,9 @@
+---
+type: readme
+title: Web Speech API test for guest inside platform app
+summary: Explains that the platform app holds the audioCapture permission and can grant speech recognition access to its webview guests.
+---
+
 Web Speech API test for guest inside platform app.
 
 This platform app has "audioCapture" permission and hence can

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Injected communication channel script variant
+// summary: Injected guest script variant that answers connect_request messages with a connected_response to the embedder.
+// ---
+
 var embedder = null;
 
 function reportConnected_request() {

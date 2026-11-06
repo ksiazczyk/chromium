@@ -1,0 +1,4 @@
+# Docerion header of subframe_with_webview.html.
+type: test
+title: Subframe page embedding a webview
+summary: Page meant to run as a subframe that embeds a webview element for new window test scenarios.

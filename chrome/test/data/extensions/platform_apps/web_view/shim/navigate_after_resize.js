@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Guest navigation after resize script
+// summary: Guest page script that listens for dimension requests and reports window inner sizes back to the embedder.
+// ---
+
 var embedder = null;
 var LOG = function(msg) { window.console.log(msg); };
 

@@ -1,0 +1,4 @@
+# Docerion header of guest.html.
+type: test
+title: Webview IME test guest page
+summary: Guest page loaded inside the webview that hosts an input box and reports focus and input events to the parent window via postMessage.

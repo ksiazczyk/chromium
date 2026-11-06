@@ -1,0 +1,4 @@
+# Docerion header of guest_noreferrer.html.
+type: test
+title: Guest that opens a new window via noreferrer link
+summary: Test guest page that clicks a rel=noreferrer, target=_blank link on load.

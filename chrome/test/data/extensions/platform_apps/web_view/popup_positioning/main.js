@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Webview popup positioning test logic
+// summary: Drives the test by loading guest.html in the webview, exchanging connect messages with it, and running the basic and moved-webview popup positioning cases.
+// ---
+
 var LOG = function(var_args) {
   window.console.log.apply(window.console, arguments);
 };

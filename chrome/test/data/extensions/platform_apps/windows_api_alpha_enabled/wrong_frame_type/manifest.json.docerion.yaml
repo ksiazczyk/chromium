@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for alphaEnabled wrong frame type test app
+summary: Manifest for the test app declaring the app.window.alpha permission and the background script that drives the alphaEnabled tests.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test app manifest with app.window.alpha permission
+summary: Manifest for the test platform app that grants the app.window.alpha permission used by the alphaEnabled window tests.

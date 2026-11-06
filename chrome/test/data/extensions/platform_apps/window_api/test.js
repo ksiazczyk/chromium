@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Window API browser test script
+// summary: Browser test script covering the chrome.app.window API, with helpers for bounds assertions, fuzzy equality, and waiting for window loads.
+// ---
+
 var callbackPass = chrome.test.callbackPass;
 var callbackFail = chrome.test.callbackFail;
 var defaultFuzzFactor = 1;

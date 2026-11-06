@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Embedder script for webview geolocation cancel request test
+// summary: Sets up a webview guest, intercepts geolocation permission requests, and runs the Chrome test covering cancellation of a pending geolocation permission from an iframe.
+// ---
+
 var embedder = {};
 embedder.baseGuestURL = '';
 embedder.guestURL = '';

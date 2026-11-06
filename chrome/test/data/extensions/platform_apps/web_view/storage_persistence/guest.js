@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Guest cookie handling script
+// summary: Handles messages in the guest webview to set cookies expiring tomorrow and to return the guest's cookies to the requesting window.
+// ---
+
 // Date of tomorrow
 function tomorrow() {
   var date = new Date(Date.now());

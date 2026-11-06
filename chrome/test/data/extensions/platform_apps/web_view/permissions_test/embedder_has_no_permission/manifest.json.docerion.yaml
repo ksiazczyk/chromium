@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: 'manifest.json: platform app manifest for webview permissions test'
+summary: Manifest for the test platform app that declares the webview permission and uses test.js as its background script.

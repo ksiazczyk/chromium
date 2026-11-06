@@ -1,0 +1,4 @@
+# Docerion header of embedder.html.
+type: test
+title: Embedder page with a webview element
+summary: Embedder page containing a webview element and deliberately no scripts, so the browser creates the script context needed for the test.

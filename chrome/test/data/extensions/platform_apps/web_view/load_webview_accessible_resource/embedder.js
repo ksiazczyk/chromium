@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Webview accessible resource test logic
+// summary: Implements the test cases that load, reload, navigate, and fetch accessible and inaccessible resources in the webview, reporting pass or fail via chrome.test messages.
+// ---
+
 var embedder = {};
 embedder.guestURL = '';
 

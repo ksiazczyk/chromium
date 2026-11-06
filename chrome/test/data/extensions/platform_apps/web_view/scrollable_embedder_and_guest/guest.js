@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Guest page script handling embedder messages
+// summary: Script for the guest page that connects to the embedder and sets the root overflow to hidden when the set_overflow_hidden app command arrives.
+// ---
+
 var LOG = function(msg) {
   window.console.log(msg);
 };

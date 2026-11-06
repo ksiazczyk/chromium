@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Webview no-permission test app manifest
+summary: Manifest for the test app that checks <webview> elements lack an API without the webview permission.

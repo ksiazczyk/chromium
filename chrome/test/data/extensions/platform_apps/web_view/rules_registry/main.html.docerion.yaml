@@ -1,0 +1,4 @@
+# Docerion header of main.html.
+type: test
+title: Webview rules registry test app page
+summary: HTML page of the test app that hosts the webview container element and loads the main test script.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Simple webview test app script
+// summary: Creates a webview with a data URL guest and sends test messages for loadstop, loadabort, and new window attach events.
+// ---
+
 function CreateWebViewAndGuest(callback) {
   var webview = document.createElement('webview');
   webview.allowtransparency = true;

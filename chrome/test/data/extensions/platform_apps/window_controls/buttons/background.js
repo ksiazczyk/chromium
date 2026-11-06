@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Window controls test app background script
+// summary: Background script for the window controls test app that opens a frameless window and sends test messages on load and window close.
+// ---
+
 chrome.app.runtime.onLaunched.addListener(function() {
   chrome.app.window.create('index.html', {
     'left': 10,

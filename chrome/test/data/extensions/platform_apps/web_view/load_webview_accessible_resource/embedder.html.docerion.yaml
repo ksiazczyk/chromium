@@ -1,0 +1,4 @@
+# Docerion header of embedder.html.
+type: test
+title: Embedder page hosting the test webview
+summary: HTML page containing a webview element in partition foo that loads the embedder test script.

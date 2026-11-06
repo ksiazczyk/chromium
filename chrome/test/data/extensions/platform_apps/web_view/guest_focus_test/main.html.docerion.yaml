@@ -1,0 +1,4 @@
+# Docerion header of main.html.
+type: test
+title: Embedder page for the webview guest focus test
+summary: Embedder app page providing a focusable text input and a container element that hosts the webview tag.

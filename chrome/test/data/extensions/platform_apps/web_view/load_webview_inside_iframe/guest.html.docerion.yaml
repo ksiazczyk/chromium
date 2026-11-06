@@ -1,0 +1,4 @@
+# Docerion header of guest.html.
+type: test
+title: Guest page replying to the test message
+summary: Guest page that answers the TEST_START message with TEST_PASSED to signal the webview loaded correctly.

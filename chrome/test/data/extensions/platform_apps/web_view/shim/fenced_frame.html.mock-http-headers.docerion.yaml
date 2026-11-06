@@ -1,0 +1,4 @@
+# Docerion header of fenced_frame.html.mock-http-headers.
+type: test
+title: Fenced frame mock HTTP headers
+summary: Mock HTTP response headers that enable fenced-frame loading for the fenced frame test page.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the alphaEnabled test app with alpha permission
+summary: Chrome app manifest declaring the app.window.alpha permission and background script used by the alphaEnabled window tests.

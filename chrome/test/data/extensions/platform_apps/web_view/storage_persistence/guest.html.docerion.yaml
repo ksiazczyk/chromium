@@ -1,0 +1,4 @@
+# Docerion header of guest.html.
+type: test
+title: Guest page for the webview storage persistence test
+summary: HTML page served by the test server as guest content for the WebViewTest.StoragePersistence test, loading the guest messaging and cookie scripts.

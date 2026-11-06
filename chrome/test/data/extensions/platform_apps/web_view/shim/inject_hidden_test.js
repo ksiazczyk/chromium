@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Injected visibility state test script
+// summary: Injected guest script that replies to visibilityState-request messages with the document's visibility state.
+// ---
+
 window.addEventListener('message', function(e) {
   var response = '';
   var data = JSON.parse(e.data);

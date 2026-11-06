@@ -5,6 +5,12 @@
 // See chrome/browser/extensions/web_view_interactive_browsertest.cc
 // (WebViewInteractiveTest, PointerLock) for documentation on this test.
 
+// ---docerion
+// type: test
+// title: Guest script handling pointer lock events
+// summary: Locks the mouse on button clicks and reports lock, unlock, error, and mouse-move events to the embedder via postMessage, flagging failures if the pointer escapes the target.
+// ---
+
 function LockMouse(element) {
   element.requestPointerLock = element.requestPointerLock;
   element.requestPointerLock();

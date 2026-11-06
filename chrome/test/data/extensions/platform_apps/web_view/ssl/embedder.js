@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Embedder script for the webview SSL test app
+// summary: Embedder page script that creates a webview guest, loads guest URLs, and sends test messages such as GuestAddedToDom and EmbedderLoaded.
+// ---
+
 var webview;
 
 window.createGuest = function() {

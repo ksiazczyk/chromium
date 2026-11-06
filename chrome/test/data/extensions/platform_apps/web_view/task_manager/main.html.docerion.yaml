@@ -1,0 +1,4 @@
+# Docerion header of main.html.
+type: test
+title: Main page for webview task manager test
+summary: Host page of the test app that provides the webview container element and loads main.js.

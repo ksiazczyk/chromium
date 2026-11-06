@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the cross origin isolation test app
+summary: Manifest version 2 app manifest registering background.js and setting require-corp COEP and same-origin COOP values.

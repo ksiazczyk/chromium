@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test logic injecting a webview tag into the iframe
+// summary: Injects a webview tag into the iframe's document, navigates it to a data URL, and sends LAUNCHED or FAILURE messages to chrome.test.
+// ---
+
 var startTest = function() {
   var iframe = document.querySelector('iframe');
   var iframeWindow = iframe.contentWindow;

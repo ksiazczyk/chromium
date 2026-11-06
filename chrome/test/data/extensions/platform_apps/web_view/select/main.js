@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Webview select test app main script
+// summary: Creates a webview guest page containing a styled select element and reports load success or failure via chrome.test messages.
+// ---
+
 function CreateWebViewAndGuest() {
   var webview = document.createElement('webview');
   webview.allowtransparency = true;

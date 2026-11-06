@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Embedder logic for webview speech recognition tests
+// summary: Creates a webview guest, injects guest.js, handles media permission requests, and verifies speech recognition outcomes for the allow and deny test cases.
+// ---
+
 var LOG = function(msg) {
   window.console.log(msg);
 };

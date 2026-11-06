@@ -1,0 +1,4 @@
+# Docerion header of guest.html.
+type: test
+title: Guest page for the webview scroll bubbling test
+summary: Guest page loaded inside the webview, with a scrollable body of repeated test content used to exercise scroll behavior.

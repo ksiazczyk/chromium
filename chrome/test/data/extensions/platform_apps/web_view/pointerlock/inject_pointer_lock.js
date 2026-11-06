@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Injected guest script for pointer lock
+// summary: Script injected into the webview guest that requests pointer lock and reports acquired and lost lock events to the embedder.
+// ---
+
 var embedder = null;
 window.addEventListener('message', function(e) {
   var data = JSON.parse(e.data);

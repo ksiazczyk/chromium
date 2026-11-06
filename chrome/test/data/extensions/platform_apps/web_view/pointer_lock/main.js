@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Embedder script for pointer lock permission requests
+// summary: Loads the guest in a webview and handles successive pointer lock permission requests with allow, deny, and validation paths while relaying guest messages to chrome.test.
+// ---
+
 // See chrome/browser/extensions/web_view_interactive_browsertest.cc
 // (WebViewInteractiveTest, PointerLock) for documentation on this test.
 var requestCount = 0;

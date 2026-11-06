@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Webview disabled prerenderer test manifest
+summary: Manifest for the webview disabled prerenderer test app, declaring the webview permission and test.js as background script.

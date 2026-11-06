@@ -1,0 +1,4 @@
+# Docerion header of guest.html.
+type: test
+title: Guest page for webview task manager test
+summary: Minimal guest page titled 'WebViewed test content' that is loaded inside a webview by the task manager test app.

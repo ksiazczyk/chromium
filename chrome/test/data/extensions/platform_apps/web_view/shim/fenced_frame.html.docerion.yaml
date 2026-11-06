@@ -1,0 +1,4 @@
+# Docerion header of fenced_frame.html.
+type: test
+title: Fenced frame test page
+summary: Simple page shown inside a fenced frame during webview shim tests.

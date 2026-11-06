@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: config
+title: Test app manifest with audioCapture and webview permissions
+summary: Chrome app manifest granting audioCapture and webview permissions and registering test.js as the background script.

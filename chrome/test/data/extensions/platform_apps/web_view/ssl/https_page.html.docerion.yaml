@@ -1,0 +1,4 @@
+# Docerion header of https_page.html.
+type: test
+title: HTTPS guest page fixture
+summary: HTTPS page fixture loaded in the webview guest for the SSL error behavior test.

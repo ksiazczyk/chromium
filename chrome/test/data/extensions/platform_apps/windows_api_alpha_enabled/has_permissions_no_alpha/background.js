@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AlphaEnabled window tests with alpha permission but no platform support
+// summary: Runs chrome.app.window tests asserting that alphaEnabled is false when the app.window.alpha permission is set but the system lacks transparency support.
+// ---
+
 function testAlphaEnabled(testId, setOption, setValue, expectedValue) {
   var createOptions = { frame: 'none' };
   if (setOption)

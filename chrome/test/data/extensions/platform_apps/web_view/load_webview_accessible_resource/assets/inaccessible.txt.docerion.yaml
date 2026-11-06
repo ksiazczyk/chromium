@@ -1,0 +1,4 @@
+# Docerion header of inaccessible.txt.
+type: test
+title: Inaccessible webview test resource
+summary: Plain text fixture representing a resource that is not webview accessible in the load_webview_accessible_resource test.

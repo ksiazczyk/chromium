@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the webview guest focus test app
+summary: Chrome app manifest declaring the webview permission, the test.js background script, and partition1 access to the guest resources.

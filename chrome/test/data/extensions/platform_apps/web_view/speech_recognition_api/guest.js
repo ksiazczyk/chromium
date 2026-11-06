@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Guest-side speech recognition runner
+// summary: Script injected into the webview guest that runs webkitSpeechRecognition and reports onstart, onerror, and onresult events back to the embedder.
+// ---
+
 var LOG = function(msg) {
   window.console.log(msg);
 };

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Window API platform app test manifest
+summary: Manifest for the platform app fixture that exercises the window API, registering test.js as the background script for browser tests.

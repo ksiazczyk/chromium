@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Injected communication channel script
+// summary: Injected guest script that listens for connect messages and reports back to the embedder via postMessage.
+// ---
+
 var embedder = null;
 
 function reportConnected() {

@@ -5,6 +5,12 @@
 // See chrome/browser/extensions/web_view_interactive_browsertest.cc
 // (WebViewInteractiveTest, PointerLockFocus) for documentation on this test.
 
+// ---docerion
+// type: test
+// title: Guest page script for pointer lock messaging
+// summary: Script for the guest page that locks the pointer on button click and notifies the embedder about locked and unlocked events via postMessage.
+// ---
+
 function LockMouse(element) {
   element.requestPointerLock = element.requestPointerLock;
   element.requestPointerLock();

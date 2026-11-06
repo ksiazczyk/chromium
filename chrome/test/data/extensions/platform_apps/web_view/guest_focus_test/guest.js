@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Guest-side messaging script for the webview focus test
+// summary: Guest script that creates a blob object URL, receives the embedder's connect message, and replies with connected via postMessage.
+// ---
+
 var LOG = function(msg) {
   window.console.log(msg);
 };

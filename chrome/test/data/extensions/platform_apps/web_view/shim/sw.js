@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker fetch interception
+// summary: Service worker that intercepts fetch events and serves streamed or cached HTML responses for deterministic webview tests.
+// ---
+
 self.addEventListener('install', e => {
   self.skipWaiting();
 });

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the webview geolocation cancel request test app
+summary: Platform app manifest declaring geolocation and webview permissions and test.js as the background script for the cancel request test.

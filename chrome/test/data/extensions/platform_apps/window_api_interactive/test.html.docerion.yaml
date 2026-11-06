@@ -1,0 +1,4 @@
+# Docerion header of test.html.
+type: test
+title: Window API Interactive Tests HTML Page
+summary: Empty HTML page titled Window API Interactive Tests that serves as the content loaded into app windows created by the test script.

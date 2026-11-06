@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Embedder logic for the webview guest focus test
+// summary: Creates the webview with partition1, loads guest.html, relays guest console messages, and signals WebViewTest.LAUNCHED once connected.
+// ---
+
 var LOG = function(msg) {
     window.console.log(msg);
 };

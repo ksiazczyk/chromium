@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Guest script reporting wheel events
+// summary: Listens for wheel events in the guest page and signals the embedder once the compositor is aware of the listener, before the pinch sequence runs.
+// ---
+
 var parentWindow = null;
 
 window.onload = () => {

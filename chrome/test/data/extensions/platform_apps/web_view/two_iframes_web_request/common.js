@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Webview webRequest test helper
+// summary: Defines runWebRequestTest, which installs onBeforeRequest listeners on a webview, navigates to a test page and reports ready, success or failure to the C++ test runner.
+// ---
+
 // This function adds onBeforeRequest listeners to the contained webview
 // and navigates to the test file supplied, which must be in the test
 // app's directory. It sends |readyMsg| after the listeners are installed,

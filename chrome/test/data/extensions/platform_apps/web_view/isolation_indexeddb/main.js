@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web view IndexedDB isolation test driver
+// summary: Test driver that loads webview guests, sends IndexedDB verification steps via postMessage, and checks the responses returned by each guest.
+// ---
+
 var LOG = function(msg) {
   window.console.log(msg);
 };

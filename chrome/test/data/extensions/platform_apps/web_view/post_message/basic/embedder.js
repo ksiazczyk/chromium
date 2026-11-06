@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Embedder script for the webview postMessage test
+// summary: Drives the browser test by loading the guest page in a webview, posting a ping message and verifying the pong reply and its source via chrome.test.
+// ---
+
 var webview = null;
 
 var LOG = function(msg) {

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the webview pointer lock test app
+summary: Chrome app manifest declaring the webview permission and test.js as the background script for the pointer lock pending test.

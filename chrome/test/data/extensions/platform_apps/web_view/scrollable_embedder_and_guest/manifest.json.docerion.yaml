@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the webview scroll bubbling test app
+summary: Chrome app manifest declaring the webview permission, the background test script, and a partition exposing the guest resources.
