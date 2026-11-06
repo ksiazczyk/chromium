@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Keyword mode manager tests
+// summary: WebUI test suite verifying keyword mode entry, exit, model changes and clearing behavior of the KeywordModeManager.
+// ---
+
 import 'chrome://new-tab-page/strings.m.js';
 
 import {KeywordModeEntryMethod, KeywordModeManager} from '//resources/cr_components/searchbox/keyword_mode_manager.js';

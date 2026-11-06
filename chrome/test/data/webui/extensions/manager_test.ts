@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extensions manager tests
+// summary: WebUI test suite for the extensions manager element, checking item list visibility on install and uninstall events, splitting of extensions and apps, and page switching.
+// ---
+
 import type {ChromeEvent} from '/tools/typescript/definitions/chrome_event.js';
 import type {ExtensionsManagerElement} from 'chrome://extensions/extensions.js';
 import {getToastManager, navigation, Page, Service} from 'chrome://extensions/extensions.js';

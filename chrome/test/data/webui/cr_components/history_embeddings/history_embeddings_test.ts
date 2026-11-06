@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: History embeddings element tests
+// summary: Tests the history embeddings search element with mocked browser handlers, covering search results, answer status, feedback options, and behavior with answers enabled or disabled.
+// ---
+
 import 'chrome://history/strings.m.js';
 import 'chrome://resources/cr_components/history_embeddings/history_embeddings.js';
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Zero state promo browser test harness
+// summary: C++ WebUI mocha browser test that runs the zero state promo app test suites under different IPH feature variants, including chips UI V1 to V3 and plain link UI.
+// ---
+
 #include "chrome/common/webui_url_constants.h"
 #include "chrome/test/base/web_ui_mocha_browser_test.h"
 #include "components/feature_engagement/public/feature_constants.h"

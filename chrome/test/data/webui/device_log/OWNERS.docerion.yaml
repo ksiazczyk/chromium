@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for device log WebUI tests
+summary: Lists the owners for the device log WebUI test directory and delegates to the device/fido owners.

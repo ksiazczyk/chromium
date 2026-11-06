@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: cr-toggle element tests
+// summary: WebUI tests verifying checked state, pointer and keyboard interaction, and ARIA attributes of the cr-toggle element.
+// ---
+
 // clang-format off
 import 'chrome://resources/cr_elements/cr_toggle/cr_toggle.js';
 

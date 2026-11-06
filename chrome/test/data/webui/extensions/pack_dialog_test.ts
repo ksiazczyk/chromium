@@ -4,6 +4,12 @@
 
 /** @fileoverview Suite of tests for extension-pack-dialog. */
 
+// ---docerion
+// type: test
+// title: Extension pack dialog tests
+// summary: WebUI test suite for the extension pack dialog covering root and key file selection, packing and success alerts via a mock delegate.
+// ---
+
 import 'chrome://extensions/extensions.js';
 
 import type {ExtensionsPackDialogElement, PackDialogDelegate} from 'chrome://extensions/extensions.js';

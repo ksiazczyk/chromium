@@ -4,6 +4,12 @@
 
 /** @fileoverview Suite of tests for extension-keyboard-shortcuts. */
 
+// ---docerion
+// type: test
+// title: Extension keyboard shortcuts element tests
+// summary: WebUI test suite for the extensions keyboard shortcuts page, verifying command card layout, shortcut inputs, scope selectors, and dropdown visibility.
+// ---
+
 import 'chrome://extensions/extensions.js';
 
 import type {ExtensionsKeyboardShortcutsElement} from 'chrome://extensions/extensions.js';

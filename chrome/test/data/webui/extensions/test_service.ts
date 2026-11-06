@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test service mock for extensions WebUI tests
+// summary: Fake implementation of the extensions Service interface that records method calls and offers configurable responses and fake events for use in WebUI tests.
+// ---
+
 import type {ServiceInterface} from 'chrome://extensions/extensions.js';
 import {FakeChromeEvent} from 'chrome://webui-test/fake_chrome_event.js';
 import {TestBrowserProxy} from 'chrome://webui-test/test_browser_proxy.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: iron-list focus tests
+// summary: Verifies how iron-list preserves or drops item focus when list entries are removed, with and without preserveFocus enabled.
+// ---
+
 // clang-format off
 import 'chrome://resources/polymer/v3_0/iron-list/iron-list.js';
 

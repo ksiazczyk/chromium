@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Item list tests
+// summary: Tests the extensions item list, including case-insensitive filtering, empty states, and no-search-results display.
+// ---
+
 /** @fileoverview Suite of tests for extensions-item-list. */
 import 'chrome://extensions/extensions.js';
 

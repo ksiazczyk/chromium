@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Default browser modal tests without illustration
+// summary: WebUI test suite verifying layout, button clicks, and the sticky modal try-again flow of the default browser modal when no settings illustration is shown.
+// ---
+
 import 'chrome://default-browser-modal/app.js';
 
 import type {DefaultBrowserModalAppElement} from 'chrome://default-browser-modal/app.js';

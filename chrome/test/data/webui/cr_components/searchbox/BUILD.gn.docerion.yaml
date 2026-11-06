@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Searchbox WebUI tests BUILD.gn
+summary: Defines the GN build target that bundles the searchbox WebUI test suites with their TypeScript dependencies and path mappings.

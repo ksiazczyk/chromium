@@ -7,6 +7,12 @@
  * These are run as part of interactive_ui_tests.
  */
 
+// ---docerion
+// type: test
+// title: Extension options dialog tests
+// summary: Interactive test verifying the extension options dialog opens and closes correctly and restores focus to the options button.
+// ---
+
 import 'chrome://extensions/extensions.js';
 
 import {getDeepActiveElement} from 'chrome://resources/js/util.js';

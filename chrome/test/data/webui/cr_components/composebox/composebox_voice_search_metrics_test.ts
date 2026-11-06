@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Composebox voice search metrics tests
+// summary: Tests that composebox voice search records the expected metrics, including error counts and actions, using a fake metrics implementation.
+// ---
+
 import 'chrome://contextual-tasks/strings.m.js';
 import 'chrome://resources/cr_components/composebox/composebox_voice_search.js';
 

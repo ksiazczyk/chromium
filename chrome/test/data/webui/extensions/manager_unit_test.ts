@@ -8,6 +8,12 @@
  * chrome.developerPrivate API.
  */
 
+// ---docerion
+// type: test
+// title: Extensions manager unit tests
+// summary: Unit test suite for the extensions manager that uses a mock service instead of the real developerPrivate API, covering item ordering and related behavior.
+// ---
+
 import type {ExtensionsManagerElement} from 'chrome://extensions/extensions.js';
 import {navigation, Page, Service} from 'chrome://extensions/extensions.js';
 import {getDeepActiveElement} from 'chrome://resources/js/util.js';

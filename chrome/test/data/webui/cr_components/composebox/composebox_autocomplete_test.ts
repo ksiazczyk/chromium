@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Composebox autocomplete tests
+// summary: Tests composebox autocomplete behavior with mocked searchbox and composebox handlers, covering match rendering, input state, and metrics.
+// ---
+
 import 'chrome://contextual-tasks/strings.m.js';
 import './test_composebox_mixin.js';
 

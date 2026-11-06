@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeOS color provider CSS colors WebUI test
+// summary: ChromeOS variant of the color provider CSS test that verifies reference, system, and legacy color set variables are present in the loaded theme colors stylesheet.
+// ---
+
 import {assertNotEquals} from 'chrome://webui-test/chai_assert.js';
 
 suite('ColorProviderCSSColorsTest', function() {

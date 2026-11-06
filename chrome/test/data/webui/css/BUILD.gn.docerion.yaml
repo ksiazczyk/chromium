@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn
+summary: GN build definition that assembles the WebUI CSS test target, listing the TypeScript test files, the C++ browser test harness, and ChromeOS-only additions.

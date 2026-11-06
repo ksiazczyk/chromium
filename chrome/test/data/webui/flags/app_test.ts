@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Flags app WebUI tests
+// summary: WebUI tests for the flags app element, covering feature search, reset all, restart prompts, and import and export of flag settings.
+// ---
+
 import 'chrome://flags/app.js';
 
 import type {FlagsAppElement} from 'chrome://flags/app.js';

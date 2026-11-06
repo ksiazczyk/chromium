@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Async map directive tests
+// summary: Test suite for the asyncMap Lit directive, verifying incremental rendering of list items in a test parent element.
+// ---
+
 /** @fileoverview Suite of tests for the RepeatDirective class. */
 import 'chrome://extensions/extensions.js';
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Most visited test support helpers
+// summary: Shared test utilities for the most visited WebUI tests, providing element queries, keyboard events, style and focus assertions.
+// ---
+
 import 'chrome://new-tab-page/strings.m.js';
 
 import {getDeepActiveElement} from 'chrome://resources/js/util.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Help bubble mixin test suite
+// summary: WebUI test suite verifying help bubble mixin behavior for the Polymer and Lit test elements, including tracked element visibility and custom events.
+// ---
+
 import 'chrome://resources/cr_components/help_bubble/help_bubble.js';
 import './help_bubble_mixin_lit_test_element.js';
 import './help_bubble_mixin_test_element.js';

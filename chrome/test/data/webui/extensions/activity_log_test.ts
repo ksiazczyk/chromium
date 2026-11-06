@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Activity log tests
+// summary: Test suite for the extensions-activity-log element, covering back navigation and tab transitions between history and stream views.
+// ---
+
 import type {ActivityLogExtensionPlaceholder, ExtensionsActivityLogElement} from 'chrome://extensions/extensions.js';
 import {navigation, Page} from 'chrome://extensions/extensions.js';
 import {assertDeepEquals, assertEquals} from 'chrome://webui-test/chai_assert.js';

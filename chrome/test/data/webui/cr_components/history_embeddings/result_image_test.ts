@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Result image element tests
+// summary: Tests the history embeddings result image element, verifying the default SVG placeholder and image requests made through the page image service proxy.
+// ---
+
 import 'chrome://history/strings.m.js';
 import 'chrome://resources/cr_components/history_embeddings/result_image.js';
 

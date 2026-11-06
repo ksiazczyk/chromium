@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cluster element WebUI tests
+// summary: Tests the history-cluster element with a mocked page handler, covering visit data rendering and the hide, remove, and open actions fired from the cluster menu.
+// ---
+
 import 'chrome://history/strings.m.js';
 import 'chrome://resources/cr_components/history_clusters/cluster.js';
 

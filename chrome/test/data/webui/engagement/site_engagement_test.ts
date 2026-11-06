@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Site engagement WebUI test suite
+// summary: TypeScript tests verifying that the site engagement page loads origins, rounds scores to two decimals, applies score changes, and can include WebUI pages in the list.
+// ---
+
 import 'chrome://site-engagement/app.js';
 
 import type {SiteEngagementAppElement} from 'chrome://site-engagement/app.js';

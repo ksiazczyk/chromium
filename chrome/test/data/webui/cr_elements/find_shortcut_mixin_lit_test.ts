@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FindShortcutMixinLit tests
+// summary: WebUI test suite for FindShortcutMixinLit covering Ctrl+F and slash shortcut handling, manual listening, and modal context behavior.
+// ---
+
 // clang-format off
 import 'chrome://resources/cr_elements/cr_dialog/cr_dialog.js';
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: cr-slider element tests
+// summary: WebUI tests covering keyboard, pointer, and value change behavior of the cr-slider element.
+// ---
+
 // clang-format off
 import 'chrome://resources/cr_elements/cr_slider/cr_slider.js';
 

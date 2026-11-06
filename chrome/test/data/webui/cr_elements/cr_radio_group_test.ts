@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: cr-radio-group WebUI tests
+// summary: WebUI test suite for the cr-radio-group element, covering selection changes, keyboard navigation, focus management, and event propagation to parents.
+// ---
+
 import 'chrome://resources/cr_elements/cr_radio_group/cr_radio_group.js';
 import 'chrome://resources/cr_elements/cr_radio_button/cr_radio_button.js';
 

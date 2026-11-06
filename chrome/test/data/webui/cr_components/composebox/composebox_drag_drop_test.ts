@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Composebox drag and drop tests
+// summary: Tests the drag-and-drop handler and composebox file drop behavior using cross-platform mock drag events and a mock drag-and-drop host.
+// ---
+
 import 'chrome://contextual-tasks/strings.m.js';
 import './test_composebox_mixin.js';
 import 'chrome://resources/cr_components/composebox/file_carousel.js';

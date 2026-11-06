@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Engagement WebUI tests build definition
+summary: GN build file that assembles the C++ and TypeScript files into the engagement WebUI test target, with TypeScript path mappings and dependencies.

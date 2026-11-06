@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CrSelectableMixin tests
+// summary: WebUI tests verifying item tracking, selection events, and selected attribute handling of the CrSelectableMixin.
+// ---
+
 // clang-format off
 import {CrSelectableMixin} from 'chrome://resources/cr_elements/cr_selectable_mixin.js';
 import {html, CrLitElement} from 'chrome://resources/lit/v3_0/lit.rollup.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Searchbox icon tests
+// summary: WebUI test suite for the cr-searchbox-icon element, covering favicon URLs, image encoding and accessibility attributes.
+// ---
+
 import 'chrome://new-tab-page/new_tab_page.js';
 
 import {SearchboxBrowserProxy} from 'chrome://new-tab-page/new_tab_page.js';

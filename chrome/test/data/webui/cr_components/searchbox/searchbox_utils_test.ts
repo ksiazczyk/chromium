@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Searchbox utils unit tests
+// summary: Unit tests for searchbox utility functions covering JavaScript schema stripping, paste text sanitization, performance marks, and paint callbacks.
+// ---
+
 import {afterNextPaint, announce, markOnce, sanitizeTextForPaste, stripJavascriptSchemas} from '//resources/cr_components/searchbox/utils.js';
 import type {AriaNotificationOptions} from '//resources/cr_components/searchbox/utils.js';
 import {assertEquals, assertFalse, assertTrue} from 'chrome://webui-test/chai_assert.js';

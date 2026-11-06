@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Drive Picker untrusted app WebUI test
+// summary: Mocha tests verifying the untrusted Drive Picker app element attaches and loads a Consent Kit URL into its iframe via the browser proxy.
+// ---
+
 import 'chrome-untrusted://drive-picker-host/app.js';
 
 import type {DrivePickerHostUntrustedAppElement} from 'chrome-untrusted://drive-picker-host/app.js';

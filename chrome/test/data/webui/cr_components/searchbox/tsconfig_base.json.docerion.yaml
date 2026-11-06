@@ -1,0 +1,4 @@
+# Docerion header of tsconfig_base.json.
+type: config
+title: TypeScript config for searchbox tests
+summary: TypeScript compiler configuration for the searchbox test folder, extending the shared base config and adding test-related type definitions.

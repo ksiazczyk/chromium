@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Searchbox selection mixin tests
+// summary: WebUI test suite for SearchboxSelectionMixin, covering selection equality, available selections and keyboard navigation.
+// ---
+
 import {createActionForTesting, createAutocompleteMatch, createAutocompleteResultForTesting, createMatchKeywordModelForTesting} from 'chrome://resources/cr_components/searchbox/searchbox_browser_proxy.js';
 import {kDefaultSelection} from 'chrome://resources/cr_components/searchbox/searchbox_match.js';
 import {SearchboxSelectionMixin, selectionIsNativelySupported, selectionsEqual} from 'chrome://resources/cr_components/searchbox/searchbox_selection_mixin.js';

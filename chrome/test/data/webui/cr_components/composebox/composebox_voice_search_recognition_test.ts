@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Composebox voice search recognition tests
+// summary: Tests speech recognition handling in composebox voice search, covering recognition results, errors and related UI transitions.
+// ---
+
 import 'chrome://contextual-tasks/strings.m.js';
 import './test_composebox_mixin.js';
 import 'chrome://resources/cr_components/composebox/composebox_voice_search.js';

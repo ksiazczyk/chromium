@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Deprecated flags page WebUI tests
+// summary: WebUI tests for the deprecated flags page, verifying deprecated feature requests and the localized page strings.
+// ---
+
 import 'chrome://flags/app.js';
 
 import type {FlagsAppElement} from 'chrome://flags/app.js';

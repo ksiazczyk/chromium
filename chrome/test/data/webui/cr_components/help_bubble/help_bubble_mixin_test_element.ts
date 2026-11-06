@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Polymer test element for help bubble mixin
+// summary: Defines a Polymer test element applying the help bubble mixin, with title, paragraph, list, and custom anchor elements for testing.
+// ---
+
 import './help_bubble_mixin_test_container.js';
 
 import {HelpBubbleMixin} from 'chrome://resources/cr_components/help_bubble/help_bubble_mixin.js';

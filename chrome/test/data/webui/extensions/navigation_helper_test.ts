@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extensions navigation helper tests
+// summary: Test suite for the extensions navigation helper, verifying history state handling and URL-to-page-state conversions for all extensions pages.
+// ---
+
 import type {PageState} from 'chrome://extensions/extensions.js';
 import {Dialog, NavigationHelper, Page} from 'chrome://extensions/extensions.js';
 import {assertDeepEquals, assertEquals, assertTrue} from 'chrome://webui-test/chai_assert.js';

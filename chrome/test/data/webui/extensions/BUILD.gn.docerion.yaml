@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for extensions WebUI tests
+summary: Defines the GN build target that compiles the Chrome extensions WebUI TypeScript and C++ test files together with their TypeScript dependencies and type definitions.

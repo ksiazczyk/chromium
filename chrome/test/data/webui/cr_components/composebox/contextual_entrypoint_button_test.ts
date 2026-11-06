@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Contextual entrypoint button tests
+// summary: WebUI tests for the composebox contextual entrypoint button, covering click events, description visibility and narrow-window media query behavior.
+// ---
+
 import 'chrome://contextual-tasks/strings.m.js';
 import 'chrome://resources/cr_components/composebox/contextual_entrypoint_button.js';
 

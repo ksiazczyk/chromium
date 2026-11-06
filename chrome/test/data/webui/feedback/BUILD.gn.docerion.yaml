@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Feedback WebUI tests GN build file
+summary: Defines the build target for the feedback WebUI test suite, listing the C++ browser test and TypeScript test files with path mappings and dependencies.

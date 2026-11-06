@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: cr-input element tests
+// summary: WebUI tests for the cr-input element covering attribute support, placeholder and label binding, tabindex handling, and value behavior.
+// ---
+
 // clang-format off
 import 'chrome://resources/cr_elements/cr_input/cr_input.js';
 

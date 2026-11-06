@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: cr-toolbar-search-field tests
+// summary: WebUI test suite for the cr-toolbar-search-field element covering search events, narrow mode, clear button behavior, and slotted suffix elements.
+// ---
+
 // clang-format off
 import 'chrome://resources/cr_elements/cr_toolbar/cr_toolbar_search_field.js';
 

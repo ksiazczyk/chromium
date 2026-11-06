@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Activity log history item tests
+// summary: Test suite for the activity-log-history-item element, checking expansion behavior and per-URL activity counts.
+// ---
+
 import 'chrome://extensions/extensions.js';
 
 import type {ActivityGroup, ActivityLogHistoryItemElement} from 'chrome://extensions/extensions.js';

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the discards WebUI tests
+summary: Delegates ownership of the discards WebUI test directory to the resource coordinator OWNERS file.

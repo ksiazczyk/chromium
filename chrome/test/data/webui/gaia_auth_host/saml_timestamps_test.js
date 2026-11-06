@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SAML timestamp decoding tests
+// summary: Tests decoding SAML timestamps given as Unix seconds or milliseconds, NTFS filetime, and ISO 8601, including invalid and edge-case values.
+// ---
+
 import {decodeTimestamp} from 'chrome://chrome-signin/gaia_auth_host/saml_timestamps.js';
 import {assertEquals, assertTrue} from 'chrome://webui-test/chai_assert.js';
 

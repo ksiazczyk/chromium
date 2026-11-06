@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test browser proxy for default browser modal
+// summary: Mock browser proxy and page handler that record Mojo calls so the default browser modal WebUI tests can simulate backend responses.
+// ---
+
 import type {BrowserProxy} from 'chrome://default-browser-modal/browser_proxy.js';
 import type {PageHandlerInterface, PageRemote} from 'chrome://default-browser-modal/default_browser_modal.mojom-webui.js';
 import {PageCallbackRouter} from 'chrome://default-browser-modal/default_browser_modal.mojom-webui.js';

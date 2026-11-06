@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Flags WebUI tests build definition
+summary: GN build configuration that assembles the WebUI test target for the flags page, listing the TypeScript test files and their build dependencies.

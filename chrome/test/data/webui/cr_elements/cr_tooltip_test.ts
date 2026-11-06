@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: cr-tooltip tests
+// summary: WebUI test suite for the cr-tooltip element covering target selection, show and hide animations, hover behavior, and manual mode.
+// ---
+
 // clang-format off
 import {html, CrLitElement} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 

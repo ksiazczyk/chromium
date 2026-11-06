@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Data sharing WebUI tests OWNERS
+summary: Points to the OWNERS file of the data sharing resources directory for review ownership of these tests.

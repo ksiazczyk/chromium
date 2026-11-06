@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Feature showcase WebUI tests build file
+summary: GN build file that sets up the feature showcase WebUI test target with its TypeScript and C++ test sources and dependencies.

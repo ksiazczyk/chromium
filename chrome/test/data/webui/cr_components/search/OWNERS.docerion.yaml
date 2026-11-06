@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for search component tests
+summary: Delegates review ownership of these tests to the OWNERS file of the search cr_components in ui/webui/resources.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Color provider CSS colors WebUI test
+// summary: WebUI test that loads the theme colors stylesheet and verifies UI and Chrome color set variables are queryable, including RGB variable generation behavior for true, false, and invalid parameter values.
+// ---
+
 import {assertEquals, assertNotEquals} from 'chrome://webui-test/chai_assert.js';
 
 suite('ColorProviderCSSColorsTest', function() {

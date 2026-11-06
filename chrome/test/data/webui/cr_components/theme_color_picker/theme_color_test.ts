@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Theme color element tests
+// summary: WebUI tests verifying that the theme color element renders background and foreground colors and supports checked, unchecked, and hidden background states.
+// ---
+
 import 'chrome://resources/cr_components/theme_color_picker/theme_color.js';
 
 import type {ThemeColorElement} from 'chrome://resources/cr_components/theme_color_picker/theme_color.js';

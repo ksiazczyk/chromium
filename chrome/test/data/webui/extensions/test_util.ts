@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared test utilities for extensions UI tests
+// summary: Common helpers for extension UI tests, providing click and event listener mocks plus a mock item delegate implementing ItemDelegate.
+// ---
+
 /** @fileoverview Common utilities for extension ui tests. */
 import type {ItemDelegate} from 'chrome://extensions/extensions.js';
 import {createDummyExtensionInfo} from 'chrome://extensions/extensions.js';

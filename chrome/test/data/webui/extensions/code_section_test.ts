@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Code section tests
+// summary: Test suite for the extensions-code-section element, covering code highlighting, layout and line number truncation for long sources.
+// ---
+
 /** @fileoverview Suite of tests for extensions-code-section. */
 import 'chrome://extensions/extensions.js';
 

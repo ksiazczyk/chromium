@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for theme color picker WebUI tests
+summary: Defines the GN build target that assembles the WebUI tests for the theme color picker components, listing test files and TypeScript dependencies.

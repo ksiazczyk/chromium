@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Searchbox mixin tests
+// summary: Large WebUI test suite for SearchboxMixin, covering dropdown, input, compose button, keyword mode and selection behavior.
+// ---
+
 import 'chrome://new-tab-page/strings.m.js';
 import 'chrome://resources/cr_components/searchbox/searchbox_compose_button.js';
 import 'chrome://resources/cr_components/searchbox/searchbox_dropdown.js';

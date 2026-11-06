@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: System info WebUI tests
+// summary: Mocha tests for the system info dialog, verifying the system information request and page title using sample system log entries.
+// ---
+
 import 'chrome://feedback/system_info_app.js';
 import 'chrome://feedback/strings.m.js';
 

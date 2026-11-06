@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Searchbox test utilities
+// summary: Shared helpers and mocks for searchbox WebUI tests, including style assertions, attribute change waits, and a mock input state.
+// ---
+
 import {createAutocompleteMatch, createFormattedString, createSuggestTemplateInfo as createSuggestTemplateInfoBase} from '//resources/cr_components/searchbox/searchbox_browser_proxy.js';
 import type {SearchboxIconElement} from '//resources/cr_components/searchbox/searchbox_icon.js';
 import type {AutocompleteMatch} from '//resources/mojo/components/omnibox/browser/searchbox.mojom-webui.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Discards WebUI TypeScript tests
+// summary: Mocha tests verifying tab sort functions, duration-to-string formatting and pluralization helpers of the discards WebUI.
+// ---
+
 import {durationToString, maybeMakePlural} from 'chrome://discards/discards.js';
 import type {TabDiscardsInfo} from 'chrome://discards/discards.mojom-webui.js';
 import {CanFreeze} from 'chrome://discards/discards.mojom-webui.js';

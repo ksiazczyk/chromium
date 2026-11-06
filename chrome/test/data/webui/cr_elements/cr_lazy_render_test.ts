@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: cr-lazy-render element tests
+// summary: WebUI tests for the Polymer cr-lazy-render element covering deferred stamping and one-way and two-way data binding.
+// ---
+
 // clang-format off
 import 'chrome://resources/cr_elements/cr_lazy_render/cr_lazy_render.js';
 import 'chrome://resources/cr_elements/cr_checkbox/cr_checkbox.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: cr-grid focus tests
+// summary: WebUI tests for keyboard focus navigation in the cr-grid element, including arrow key movement, wrap-around, and RTL layouts.
+// ---
+
 import 'chrome://resources/cr_elements/cr_grid/cr_grid.js';
 
 import type {CrGridElement} from 'chrome://resources/cr_elements/cr_grid/cr_grid.js';

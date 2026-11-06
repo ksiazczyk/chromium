@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Lit test container element for help bubble mixin tests
+// summary: Defines a Lit custom sub-element that serves as a container with a child element inside the Lit help bubble mixin test host.
+// ---
+
 import {CrLitElement, html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 // Custom sub-element to be used in the Lit version of the test help bubble

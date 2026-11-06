@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AI mode button tests
+// summary: WebUI tests for the composebox AI mode button covering activation events, titles and aria labels, and mode switching between exit and send states.
+// ---
+
 import 'chrome://resources/cr_components/composebox/composebox_aim_button.js';
 
 import type {ComposeboxAimButtonElement} from 'chrome://resources/cr_components/composebox/composebox_aim_button.js';

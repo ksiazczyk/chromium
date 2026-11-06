@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Error console tests
+// summary: Tests the extensions error console, verifying the single error layout and active error stack display.
+// ---
+
 import 'chrome://extensions/extensions.js';
 
 import {assertEquals, assertTrue} from 'chrome://webui-test/chai_assert.js';

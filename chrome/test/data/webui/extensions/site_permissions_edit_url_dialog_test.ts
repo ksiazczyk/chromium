@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Edit URL dialog tests
+// summary: WebUI test suite for the site permissions edit URL dialog covering input validation, editing sites and pattern generation.
+// ---
+
 /** @fileoverview Suite of tests for site-permissions-edit-url-dialog. */
 import 'chrome://extensions/extensions.js';
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: I18nMixin unit tests
+// summary: Tests the Polymer i18n mixin, covering i18n, i18nAdvanced, i18nDynamic and i18nExists behavior including rejection of unsafe HTML strings.
+// ---
+
 import {I18nMixin} from 'chrome://resources/cr_elements/i18n_mixin.js';
 import {loadTimeData} from 'chrome://resources/js/load_time_data.js';
 import {PolymerElement} from 'chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js';

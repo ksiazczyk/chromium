@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for the cr-chip element
+// summary: Verifies the cr-chip element's selected and disabled states and its ripple behavior.
+// ---
+
 // clang-format off
 import 'chrome://resources/cr_elements/cr_chip/cr_chip.js';
 

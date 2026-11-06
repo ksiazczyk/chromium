@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: cr-feedback-buttons element tests
+// summary: WebUI tests for the cr-feedback-buttons element covering label setup, thumbs up/down icon toggling, and selection change events.
+// ---
+
 import 'chrome://resources/cr_elements/cr_feedback_buttons/cr_feedback_buttons.js';
 
 import type {CrFeedbackButtonsElement} from 'chrome://resources/cr_elements/cr_feedback_buttons/cr_feedback_buttons.js';

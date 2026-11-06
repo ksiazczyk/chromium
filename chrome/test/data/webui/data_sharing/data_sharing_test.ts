@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Data sharing WebUI flow tests
+// summary: Mocha tests for the data sharing WebUI app covering invite, join, manage, delete and close flows with mocked proxies.
+// ---
+
 import 'chrome-untrusted://data-sharing/data_sharing_app.js';
 
 import type {BrowserProxy} from 'chrome-untrusted://data-sharing/browser_proxy.js';

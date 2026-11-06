@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Drive Picker WebUI tests build configuration
+summary: GN build file that defines the Drive Picker host WebUI test target, listing C++ and TypeScript test files, TS path mappings and dependencies.

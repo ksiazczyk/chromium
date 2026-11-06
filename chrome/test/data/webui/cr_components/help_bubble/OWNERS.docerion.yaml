@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners file for help bubble tests
+summary: Delegates review ownership for this test directory to the help bubble component's OWNERS file.

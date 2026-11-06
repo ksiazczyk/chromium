@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Horizontal carousel element WebUI tests
+// summary: Tests the horizontal-carousel element, verifying that forward and back navigation buttons appear and toggle as the carousel is resized and scrolled.
+// ---
+
 import 'chrome://resources/cr_components/history_clusters/horizontal_carousel.js';
 
 import type {HorizontalCarouselElement} from 'chrome://resources/cr_components/history_clusters/horizontal_carousel.js';

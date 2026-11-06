@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for cr_elements WebUI tests
+summary: GN build configuration that assembles the TypeScript and C++ test files for the cr_elements WebUI test target, with platform-conditional files and TypeScript dependencies.

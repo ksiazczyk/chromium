@@ -12,6 +12,12 @@
  * under the unsupported feature tab.
  */
 
+// ---docerion
+// type: test
+// title: Flags URL fragment highlighting tests
+// summary: WebUI tests verifying that an experiment referenced in the URL fragment is highlighted under the supported or unsupported features tab.
+// ---
+
 import 'chrome://flags/app.js';
 
 import type {FlagsAppElement} from 'chrome://flags/app.js';

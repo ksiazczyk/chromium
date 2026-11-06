@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Localized link element tests
+// summary: Mocha tests for the localized-link element covering link placement within localized strings, populated hrefs, and link click behavior.
+// ---
+
 import '//resources/cr_components/localized_link/localized_link.js';
 
 import type {LocalizedLinkElement} from '//resources/cr_components/localized_link/localized_link.js';

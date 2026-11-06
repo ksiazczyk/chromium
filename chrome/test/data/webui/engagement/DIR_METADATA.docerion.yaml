@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Engagement WebUI test directory metadata
+summary: Points the engagement WebUI test directory to the shared COMMON_METADATA mixins of the engagement browser resources.

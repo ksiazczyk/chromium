@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Extensions zero state test directory metadata
+summary: Directory metadata assigning the Platform>Extensions monorail component, team email, and Buganizer component for this test directory.

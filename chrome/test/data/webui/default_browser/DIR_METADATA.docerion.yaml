@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Default browser test metadata
+summary: Metadata file assigning the default browser WebUI tests to the UI>Browser>TopChrome component and the top-chrome desktop UI team.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Discards WebUI Mocha browser test
+// summary: C++ browser test that enables the internal-only flag, loads the discards WebUI page, and runs its Mocha JavaScript test suite.
+// ---
+
 #include "chrome/browser/browser_process.h"
 #include "chrome/common/webui_url_constants.h"
 #include "chrome/test/base/web_ui_mocha_browser_test.h"

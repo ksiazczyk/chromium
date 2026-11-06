@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Check mark wrapper element tests
+// summary: WebUI tests verifying that the check mark wrapper element renders its SVG check mark when checked and hides it when unchecked.
+// ---
+
 import 'chrome://resources/cr_components/theme_color_picker/check_mark_wrapper.js';
 
 import type {CheckMarkWrapperElement} from 'chrome://resources/cr_components/theme_color_picker/check_mark_wrapper.js';

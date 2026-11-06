@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: cr-textarea focus tests
+// summary: WebUI tests for cr-textarea covering value binding, labels, disabled state, focus and invalid styling, and autogrow.
+// ---
+
 import 'chrome://resources/cr_elements/cr_textarea/cr_textarea.js';
 
 import type {CrTextareaElement} from 'chrome://resources/cr_elements/cr_textarea/cr_textarea.js';

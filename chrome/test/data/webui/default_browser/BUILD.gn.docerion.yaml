@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: test
+title: Default browser WebUI tests build definition
+summary: GN build file that defines the WebUI test target for the default browser modal, listing the TypeScript test files, path mappings, and build dependencies.

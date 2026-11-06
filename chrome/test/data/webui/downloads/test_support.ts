@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Downloads test support helpers
+// summary: Provides FakePageHandler, TestIconLoader and createDownload helpers used by the downloads WebUI tests.
+// ---
+
 import type {IconLoader, MojomData, PageHandlerInterface} from 'chrome://downloads/downloads.js';
 import {DangerType, SafeBrowsingState, State, TailoredWarningType} from 'chrome://downloads/downloads.js';
 import {TestBrowserProxy} from 'chrome://webui-test/test_browser_proxy.js';

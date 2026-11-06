@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Runtime host permissions tests
+// summary: WebUI test suite for the runtime host permissions element covering host access modes, host lists and enhanced site controls.
+// ---
+
 import 'chrome://extensions/extensions.js';
 
 import type {ExtensionsRuntimeHostPermissionsElement} from 'chrome://extensions/extensions.js';

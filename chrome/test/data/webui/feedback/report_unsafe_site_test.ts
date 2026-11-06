@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Report unsafe site WebUI tests
+// summary: Mocha tests for the report unsafe site dialog, verifying UI display, cancel and send button behavior, disabled states, and the screenshot checkbox.
+// ---
+
 import 'chrome://feedback/report_unsafe_site/report_unsafe_site_app.js';
 
 import {browserProxyFactory, PageHandlerRemote} from 'chrome://feedback/report_unsafe_site.mojom-webui.js';

@@ -4,6 +4,12 @@
 
 /** @fileoverview Suite of tests for extension-item. */
 
+// ---docerion
+// type: test
+// title: Extension item tests
+// summary: Tests the extension item element, covering visibility of normal and developer elements, error buttons, and store item details.
+// ---
+
 import type {CrIconElement, ExtensionsItemElement} from 'chrome://extensions/extensions.js';
 import {navigation, Page} from 'chrome://extensions/extensions.js';
 import {loadTimeData} from 'chrome://resources/js/load_time_data.js';

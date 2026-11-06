@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CSS WebUI browser test harness
+// summary: C++ browser test that runs the text defaults and color provider CSS mocha suites, including a ChromeOS-only color set variant.
+// ---
+
 #include "base/test/scoped_feature_list.h"
 #include "build/build_config.h"
 #include "chrome/test/base/web_ui_mocha_browser_test.h"

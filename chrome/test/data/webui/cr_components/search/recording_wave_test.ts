@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Recording wave element WebUI tests
+// summary: Test suite verifying the recording-wave element's initial state, audio listening toggling, bar rendering, and dark theme color behavior.
+// ---
+
 import 'chrome://resources/cr_components/search/recording_wave.js';
 
 import {AudioProcessor} from 'chrome://resources/cr_components/search/audio_processor.service.js';

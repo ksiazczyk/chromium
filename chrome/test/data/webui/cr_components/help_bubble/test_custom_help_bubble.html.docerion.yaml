@@ -1,0 +1,4 @@
+# Docerion header of test_custom_help_bubble.html.
+type: test
+title: Test page for custom help bubble
+summary: Minimal HTML page that loads the custom help bubble test module and hosts the test-custom-help-bubble element for WebUI tests.

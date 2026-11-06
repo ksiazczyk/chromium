@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Flags WebUI tests metadata
+summary: Metadata file that applies the shared WebUI COMMON_METADATA mixins to the flags test folder.

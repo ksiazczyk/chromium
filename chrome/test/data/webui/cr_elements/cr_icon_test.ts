@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: cr-icon element tests
+// summary: WebUI tests for the cr-icon element covering SVG rendering via cr-iconset and error handling for unknown iconsets.
+// ---
+
 import '//resources/cr_elements/cr_icon/cr_icon.js';
 import '//resources/cr_elements/cr_icon/cr_iconset.js';
 import '//resources/cr_elements/icons.html.js';

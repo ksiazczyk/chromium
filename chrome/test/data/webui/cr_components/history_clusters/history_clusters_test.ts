@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: History clusters element WebUI tests
+// summary: Tests the HistoryClustersElement using mocked page handler and image service proxies to verify cluster query results, empty-state attributes, and related behaviors.
+// ---
+
 import 'chrome://history/strings.m.js';
 
 import {HistoryClustersElement} from 'chrome://resources/cr_components/history_clusters/clusters.js';

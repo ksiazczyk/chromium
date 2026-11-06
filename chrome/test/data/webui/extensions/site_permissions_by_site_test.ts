@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Site permissions by site tests
+// summary: WebUI test suite for the site permissions by site view covering close navigation and site group updates on settings changes.
+// ---
+
 /** @fileoverview Suite of tests for extension-site-permissions-all-sites. */
 import 'chrome://extensions/extensions.js';
 

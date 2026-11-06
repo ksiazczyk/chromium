@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: cr_components WebUI browser tests
+// summary: C++ browser test harness that runs the WebUI Mocha suites for cr_components such as color change listener, managed dialog, help bubble, and searchbox.
+// ---
+
 #include "chrome/common/webui_url_constants.h"
 #include "chrome/test/base/web_ui_mocha_browser_test.h"
 #include "components/contextual_tasks/public/features.h"

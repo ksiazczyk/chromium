@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill metadata WebUI tests
+// summary: Mocha tests for the autofill metadata dialog, checking dialog argument requests, the page title, and parsing of form signature entries.
+// ---
+
 import 'chrome://feedback/autofill_metadata_app.js';
 import 'chrome://feedback/strings.m.js';
 

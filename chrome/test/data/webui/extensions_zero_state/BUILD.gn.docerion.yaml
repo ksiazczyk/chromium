@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Extensions zero state WebUI tests build definition
+summary: GN build rules that assemble the WebUI test targets for the extensions zero state promo, wiring the TypeScript tests, C++ browser tests, and TS dependencies.

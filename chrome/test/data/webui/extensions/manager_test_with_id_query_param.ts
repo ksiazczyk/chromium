@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extensions manager ID query parameter tests
+// summary: WebUI test suite verifying URL navigation with an extension ID query parameter, including detail view routing and activity log fallback behavior.
+// ---
+
 import 'chrome://extensions/extensions.js';
 
 import type {ExtensionsManagerElement} from 'chrome://extensions/extensions.js';

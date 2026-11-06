@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for history clusters WebUI tests
+summary: Points this test directory's Chromium metadata to the shared history_clusters component metadata via a mixin.

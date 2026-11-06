@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Downloads WebUI tests directory metadata
+summary: Points the downloads test directory to the shared COMMON_METADATA mixins of the downloads resources.

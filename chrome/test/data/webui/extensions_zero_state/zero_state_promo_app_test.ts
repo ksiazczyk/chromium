@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Zero state promo app WebUI tests
+// summary: TypeScript mocha tests for the extensions zero state promo app, checking chip visibility, Web Store link clicks, and help bubble user actions with test proxies.
+// ---
+
 import 'chrome://extensions-zero-state/zero_state_promo_app.js';
 
 import {browserProxyFactory as zeroStatePromoProxyFactory, WebStoreLinkClicked} from 'chrome://extensions-zero-state/zero_state_promo.mojom-webui.js';

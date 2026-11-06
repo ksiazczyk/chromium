@@ -8,6 +8,12 @@
  * chrome.developerPrivate API.
  */
 
+// ---docerion
+// type: test
+// title: Extensions manager unit tests with activity log flag
+// summary: Unit test suite verifying the activity log view updates and remains tied to the selected extension when the activity log flag is enabled.
+// ---
+
 import 'chrome://extensions/extensions.js';
 
 import type {ExtensionsManagerElement} from 'chrome://extensions/extensions.js';
