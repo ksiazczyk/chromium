@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChosenObjectInfo
+// summary: Serializable data object describing an object such as a USB device that an origin was granted access to, including origin, name, managed state and revoke support.
+// ---
+
 package org.chromium.components.browser_ui.site_settings;
 
 import androidx.annotation.VisibleForTesting;

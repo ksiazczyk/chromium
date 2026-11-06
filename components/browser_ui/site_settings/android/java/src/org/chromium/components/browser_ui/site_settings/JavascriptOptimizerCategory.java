@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JavaScript optimizer site settings category
+// summary: SiteSettingsCategory subclass handling the JavaScript optimizer toggle, including OS-provided blocking and restrictions on adding exceptions.
+// ---
+
 package org.chromium.components.browser_ui.site_settings;
 
 import android.content.Context;

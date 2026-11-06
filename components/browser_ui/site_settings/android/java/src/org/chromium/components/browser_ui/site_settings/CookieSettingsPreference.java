@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Third-party cookies radio group preference
+// summary: Custom radio group preference that lets users allow or block third-party cookies on the site settings cookies subpage and reports the selected state.
+// ---
+
 package org.chromium.components.browser_ui.site_settings;
 
 import static org.chromium.build.NullUtil.assertNonNull;

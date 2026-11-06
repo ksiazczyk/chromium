@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Site settings directory owners
+summary: Lists the code owners responsible for reviewing changes and notes which owners can approve mechanical changes.

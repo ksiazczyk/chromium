@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StorageAccessWebsitePreference
+// summary: Preference row for an embedded Storage Access permission that shows the embedder site's favicon and URL with an icon to reset the permission.
+// ---
+
 package org.chromium.components.browser_ui.site_settings;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

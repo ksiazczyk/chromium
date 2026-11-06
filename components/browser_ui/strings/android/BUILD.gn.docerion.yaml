@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for Android browser UI strings
+summary: Defines the java_strings_grd target that builds browser_ui_strings.grd together with the site_settings.grdp part and per-locale xtb translations into Android string resources.

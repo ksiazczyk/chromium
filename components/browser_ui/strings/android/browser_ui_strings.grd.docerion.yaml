@@ -1,0 +1,4 @@
+# Docerion header of browser_ui_strings.grd.
+type: data
+title: Android browser UI strings resource
+summary: GRIT resource file holding user-facing Android browser UI string messages and defining translated outputs for a large set of locales.

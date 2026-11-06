@@ -7,6 +7,12 @@ found in the LICENSE file.
 
 <!-- Layout used by the TriStatePermissionPreference. -->
 
+<!--docerion
+type: source
+title: Tri-state permission preference layout
+summary: Android layout for TriStatePermissionPreference offering radio choices between quiet, CPSS, and loud permission behavior.
+-->
+
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"

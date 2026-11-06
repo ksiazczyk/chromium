@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: All sites preferences screen v2
+summary: Android preference screen XML for the all-sites settings page, containing a link preference to the Clear Browsing Data dialog.
+-->
+
 <PreferenceScreen
     xmlns:android="http://schemas.android.com/apk/res/android">
     <!-- Link to the Clear Browsing Data dialog. -->

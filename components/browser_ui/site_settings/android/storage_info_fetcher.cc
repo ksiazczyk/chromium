@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Storage info fetcher implementation
+// summary: Fetches per-host storage usage from the quota manager and clears storage for a host, posting work between IO and UI threads.
+// ---
+
 #include "components/browser_ui/site_settings/android/storage_info_fetcher.h"
 
 #include "base/functional/bind.h"

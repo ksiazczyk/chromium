@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebsiteAddressTest
+// summary: JUnit tests for the WebsiteAddress class, checking origin, host and title parsing for HTTP, HTTPS, host-only and wildcard subdomain addresses, plus equality, hashing and comparison behavior.
+// ---
+
 package org.chromium.components.browser_ui.site_settings;
 
 import static org.hamcrest.CoreMatchers.equalTo;

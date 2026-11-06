@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SiteSettingsCategory
+// summary: Defines the site settings category types and maps them to preference keys, content settings types and related UI behavior.
+// ---
+
 package org.chromium.components.browser_ui.site_settings;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

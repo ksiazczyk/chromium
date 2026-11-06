@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AllSiteSettings
+// summary: Settings fragment listing all sites, launching per-site settings when one is selected, with support for search, storage display and clear browsing data actions.
+// ---
+
 package org.chromium.components.browser_ui.site_settings;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

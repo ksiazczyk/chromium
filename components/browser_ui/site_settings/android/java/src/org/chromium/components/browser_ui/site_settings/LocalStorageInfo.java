@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local storage info for a site origin
+// summary: Represents local storage data for an origin, exposing its size and clearing cookie and local storage data via the website preference bridge.
+// ---
+
 package org.chromium.components.browser_ui.site_settings;
 
 import androidx.annotation.VisibleForTesting;

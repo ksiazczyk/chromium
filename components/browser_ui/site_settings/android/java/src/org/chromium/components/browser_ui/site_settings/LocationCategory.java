@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Geolocation site settings category
+// summary: Models the device location category in site settings, including OS permission state and warnings for precise versus approximate location mismatches.
+// ---
+
 package org.chromium.components.browser_ui.site_settings;
 
 import android.content.Context;

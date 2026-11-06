@@ -6,6 +6,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Site settings menu ID resource
+summary: Android resource file declaring the menu_id_site_settings_help ID used by the site settings menu.
+-->
+
 <resources>
     <item type="id" name="menu_id_site_settings_help" />
 </resources>

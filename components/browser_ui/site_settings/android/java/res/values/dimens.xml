@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Site settings dialog dimension values
+summary: Android resource file defining dimension values such as dialog message padding and radio button sizes used by the site settings UI.
+-->
+
 <resources>
     <dimen name="dialog_message_padding_top">16dp</dimen>
     <dimen name="dialog_message_padding_bottom">8dp</dimen>

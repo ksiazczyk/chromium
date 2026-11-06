@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Grouped websites preferences screen layout
+summary: Android preference screen XML for a website group's settings, showing site list, storage usage with clear-data control, related sites, and a reset-group button.
+-->
+
 <PreferenceScreen
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared dictionary information for an origin
+// summary: Represents shared dictionary storage for a frame origin and top-level site, exposing its size and clearing it via the preference bridge.
+// ---
+
 package org.chromium.components.browser_ui.site_settings;
 
 import org.chromium.build.annotations.NullMarked;

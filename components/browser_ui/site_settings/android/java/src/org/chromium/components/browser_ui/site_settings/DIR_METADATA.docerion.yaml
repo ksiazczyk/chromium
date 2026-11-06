@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for site settings component
+summary: Chromium metadata file mapping this directory to the UI>Browser>SiteSettings monorail component and a Buganizer component ID.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Request desktop site metrics recorder
+// summary: Records histograms when users add or change domain or subdomain level Request Desktop Site settings in site settings.
+// ---
+
 package org.chromium.components.browser_ui.site_settings;
 
 import static org.chromium.components.browser_ui.site_settings.WebsiteAddress.ANY_SUBDOMAIN_PATTERN;

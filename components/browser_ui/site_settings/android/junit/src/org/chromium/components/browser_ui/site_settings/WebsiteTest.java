@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Website unit tests
+// summary: Unit tests for Website checking creation of content setting exceptions for HTTPS and chrome-extension origins.
+// ---
+
 package org.chromium.components.browser_ui.site_settings;
 
 import org.junit.Assert;

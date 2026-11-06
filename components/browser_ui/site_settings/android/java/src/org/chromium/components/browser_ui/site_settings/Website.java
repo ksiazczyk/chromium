@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Website
+// summary: Model of a website origin and embedder that aggregates its permission exceptions, storage, cookies and chosen object permissions.
+// ---
+
 package org.chromium.components.browser_ui.site_settings;
 
 import static org.chromium.build.NullUtil.assertNonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Website preference bridge JNI implementation
+// summary: Implements the JNI bridge exposing native content settings, permissions, cookie, and storage data to the Java site settings UI.
+// ---
+
 #include <jni.h>
 
 #include <algorithm>

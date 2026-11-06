@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Storage info fetcher class declaration
+// summary: Declares StorageInfoFetcher, a ref-counted helper that asynchronously fetches website storage usage and clears storage per host.
+// ---
+
 #ifndef COMPONENTS_BROWSER_UI_SITE_SETTINGS_ANDROID_STORAGE_INFO_FETCHER_H_
 #define COMPONENTS_BROWSER_UI_SITE_SETTINGS_ANDROID_STORAGE_INFO_FETCHER_H_
 

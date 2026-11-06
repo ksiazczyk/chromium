@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Site settings common metadata
+summary: Defines the monorail component and public Buganizer component ID used for bug tracking in the site settings directory.

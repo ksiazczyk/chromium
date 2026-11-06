@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Geolocation setting value holder
+// summary: Immutable holder for approximate and precise geolocation content settings received from native code via JNI.
+// ---
+
 package org.chromium.components.browser_ui.site_settings;
 
 import org.jni_zero.CalledByNative;

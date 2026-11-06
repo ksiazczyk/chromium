@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for browser UI strings
+summary: Lists directory owners and asks contributors to check for duplicate strings and to prefer generalizing existing strings before adding new ones.

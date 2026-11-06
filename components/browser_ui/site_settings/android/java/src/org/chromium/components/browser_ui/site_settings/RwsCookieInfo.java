@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Related Website Sets cookie information
+// summary: Holds Related Website Sets membership for a website, grouped by domain, to display and delete cookies for the whole set.
+// ---
+
 package org.chromium.components.browser_ui.site_settings;
 
 import com.google.common.collect.ImmutableList;
