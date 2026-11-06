@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V4 GetHash protocol manager header
+// summary: Declares the V4 GetHash protocol manager, including FullHashInfo, full hash cache structures, and callbacks for full hash lookups against Safe Browsing servers.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CORE_BROWSER_DB_V4_GET_HASH_PROTOCOL_MANAGER_H_
 #define COMPONENTS_SAFE_BROWSING_CORE_BROWSER_DB_V4_GET_HASH_PROTOCOL_MANAGER_H_
 

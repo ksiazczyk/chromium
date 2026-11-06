@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test Safe Browsing database manager header
+// summary: Declares TestSafeBrowsingDatabaseManager, a non-abstract database manager for tests that overrides only the functions actually called and complains otherwise.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CORE_BROWSER_DB_TEST_DATABASE_MANAGER_H_
 #define COMPONENTS_SAFE_BROWSING_CORE_BROWSER_DB_TEST_DATABASE_MANAGER_H_
 

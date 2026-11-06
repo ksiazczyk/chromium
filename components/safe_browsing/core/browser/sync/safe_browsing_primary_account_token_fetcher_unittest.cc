@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Safe Browsing primary account token fetcher
+// summary: Tests token fetch success, failure, consent levels, and destruction from within callbacks using a mock identity environment.
+// ---
+
 #include "components/safe_browsing/core/browser/sync/safe_browsing_primary_account_token_fetcher.h"
 #include <memory>
 

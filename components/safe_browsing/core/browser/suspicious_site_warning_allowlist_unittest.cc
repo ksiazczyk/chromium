@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Suspicious site warning allowlist unit tests
+// summary: Tests allowing, revoking, 30-day expiration, and clearing of suspicious site warning allowlist entries, including clearing by time range.
+// ---
+
 #include "components/safe_browsing/core/browser/suspicious_site_warning_allowlist.h"
 
 #include <memory>

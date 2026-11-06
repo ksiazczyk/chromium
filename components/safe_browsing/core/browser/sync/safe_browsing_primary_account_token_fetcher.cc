@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing primary account token fetcher implementation
+// summary: Implements fetching OAuth access tokens for the primary account on behalf of Safe Browsing requests, with timeout and error handling.
+// ---
+
 #include "components/safe_browsing/core/browser/sync/safe_browsing_primary_account_token_fetcher.h"
 
 #include "base/functional/bind.h"

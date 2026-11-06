@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Allowlist checker client header
+// summary: Declares AllowlistCheckerClient, a simplified interface for CSD allowlist URL lookups with callback and timeout handling.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CORE_BROWSER_DB_ALLOWLIST_CHECKER_CLIENT_H_
 #define COMPONENTS_SAFE_BROWSING_CORE_BROWSER_DB_ALLOWLIST_CHECKER_CLIENT_H_
 

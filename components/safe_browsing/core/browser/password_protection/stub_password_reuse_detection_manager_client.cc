@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Stub password reuse detection manager client implementation
+// summary: Implements trivial no-op stub methods of the reuse detection client interface, providing a base for mock and test clients.
+// ---
+
 #include "components/safe_browsing/core/browser/password_protection/stub_password_reuse_detection_manager_client.h"
 namespace safe_browsing {
 

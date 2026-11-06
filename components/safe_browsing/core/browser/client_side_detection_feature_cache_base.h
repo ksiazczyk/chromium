@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client side detection feature cache header
+// summary: Declares the cache class storing phishing verdicts and debugging metadata per URL.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CORE_BROWSER_CLIENT_SIDE_DETECTION_FEATURE_CACHE_BASE_H_
 #define COMPONENTS_SAFE_BROWSING_CORE_BROWSER_CLIENT_SIDE_DETECTION_FEATURE_CACHE_BASE_H_
 

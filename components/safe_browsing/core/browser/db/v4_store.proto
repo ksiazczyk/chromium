@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: reference
+// title: V4 store file format proto
+// summary: Protobuf schema defining HashFile and V4StoreFileFormat messages that are serialized to disk as Safe Browsing hash-prefix store files.
+// ---
+
 syntax = "proto2";
 
 import "safebrowsing.proto";

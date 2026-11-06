@@ -4,6 +4,12 @@
 
 // Design doc: go/design-doc-v4store
 
+// ---docerion
+// type: source
+// title: V4 store header
+// summary: Declares V4Store, its factory, store write result and V5-to-V4 migration enums, and helpers for managing Safe Browsing hash-prefix stores.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CORE_BROWSER_DB_V4_STORE_H_
 #define COMPONENTS_SAFE_BROWSING_CORE_BROWSER_DB_V4_STORE_H_
 

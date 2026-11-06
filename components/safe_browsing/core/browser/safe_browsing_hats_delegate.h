@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing HaTS delegate interface
+// summary: Defines the SafeBrowsingHatsDelegate interface for launching red warning surveys and the survey data types used with the HaTS service.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CORE_BROWSER_SAFE_BROWSING_HATS_DELEGATE_H_
 #define COMPONENTS_SAFE_BROWSING_CORE_BROWSER_SAFE_BROWSING_HATS_DELEGATE_H_
 

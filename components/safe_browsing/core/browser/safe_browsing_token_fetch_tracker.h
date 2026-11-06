@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing token fetch tracker header
+// summary: Declares the helper that tracks pending access token fetches for SafeBrowsingTokenFetcher implementations and times them out.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CORE_BROWSER_SAFE_BROWSING_TOKEN_FETCH_TRACKER_H_
 #define COMPONENTS_SAFE_BROWSING_CORE_BROWSER_SAFE_BROWSING_TOKEN_FETCH_TRACKER_H_
 

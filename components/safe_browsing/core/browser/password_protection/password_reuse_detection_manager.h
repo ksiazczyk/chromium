@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password reuse detection manager class declaration
+// summary: Declares PasswordReuseDetectionManager, which buffers keystrokes and checks typed or pasted text for reuse of protected passwords, one instance per WebContents.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CORE_BROWSER_PASSWORD_PROTECTION_PASSWORD_REUSE_DETECTION_MANAGER_H_
 #define COMPONENTS_SAFE_BROWSING_CORE_BROWSER_PASSWORD_PROTECTION_PASSWORD_REUSE_DETECTION_MANAGER_H_
 

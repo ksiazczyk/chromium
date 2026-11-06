@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tailored security service implementation
+// summary: Implements the service that queries Google servers for the user's tailored security account opt-in and notifies observers of changes.
+// ---
+
 #include "components/safe_browsing/core/browser/tailored_security_service/tailored_security_service.h"
 
 #include <memory>

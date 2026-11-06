@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing ping manager
+// summary: Declares PingManager, a keyed service that reports Safe Browsing statistics and threat details to Google's servers, with a report persister helper.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CORE_BROWSER_PING_MANAGER_H_
 #define COMPONENTS_SAFE_BROWSING_CORE_BROWSER_PING_MANAGER_H_
 

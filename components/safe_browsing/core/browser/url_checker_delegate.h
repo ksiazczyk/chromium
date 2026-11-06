@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UrlCheckerDelegate interface
+// summary: Declares the delegate interface through which the URL checker and resource throttles hand embedder-specific operations such as interstitial display, allowlisting, and skip decisions.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CORE_BROWSER_URL_CHECKER_DELEGATE_H_
 #define COMPONENTS_SAFE_BROWSING_CORE_BROWSER_URL_CHECKER_DELEGATE_H_
 

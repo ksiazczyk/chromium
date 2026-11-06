@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SafeBrowsingUrlCheckerImpl class declaration
+// summary: Declares the Mojo-backed SafeBrowsingUrlCheckerImpl that checks URLs and redirects against Safe Browsing blocklists, defaulting to safe on timeout and showing interstitials for threats.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CORE_BROWSER_SAFE_BROWSING_URL_CHECKER_IMPL_H_
 #define COMPONENTS_SAFE_BROWSING_CORE_BROWSER_SAFE_BROWSING_URL_CHECKER_IMPL_H_
 

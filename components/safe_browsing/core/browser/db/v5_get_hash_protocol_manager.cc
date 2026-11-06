@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V5 GetHash protocol manager implementation
+// summary: Implements the V5 Safe Browsing GetHash protocol manager, including backoff policy, request handling, caching, and threat detail filtering for local checks.
+// ---
+
 #include "components/safe_browsing/core/browser/db/v5_get_hash_protocol_manager.h"
 
 #include <algorithm>

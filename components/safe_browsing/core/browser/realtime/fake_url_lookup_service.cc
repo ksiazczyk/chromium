@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake real-time URL lookup service implementation
+// summary: Implements a fake RealTimeUrlLookupServiceBase with stubbed responses and test values for use in tests.
+// ---
+
 #include "components/safe_browsing/core/browser/realtime/fake_url_lookup_service.h"
 
 #include "base/functional/callback_helpers.h"

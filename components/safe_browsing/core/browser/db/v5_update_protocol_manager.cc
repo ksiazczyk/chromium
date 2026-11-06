@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V5 update protocol manager implementation
+// summary: Implements the V5 update protocol manager that fetches Safe Browsing list updates from Google servers using exponential backoff with jitter.
+// ---
+
 #include "components/safe_browsing/core/browser/db/v5_update_protocol_manager.h"
 
 #include <optional>

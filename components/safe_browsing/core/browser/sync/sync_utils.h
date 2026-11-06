@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncUtils header with Safe Browsing signin and sync helpers
+// summary: Declares the SyncUtils class with static methods that check whether signin and sync are set up for Safe Browsing token fetches, whether history sync is enabled, and whether the primary account is signed in.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CORE_BROWSER_SYNC_SYNC_UTILS_H_
 #define COMPONENTS_SAFE_BROWSING_CORE_BROWSER_SYNC_SYNC_UTILS_H_
 

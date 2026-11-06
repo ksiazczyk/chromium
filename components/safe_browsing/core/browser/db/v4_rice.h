@@ -5,6 +5,12 @@
 // Rice-Golomb decoder for blocklist updates.
 // Details at: https://en.wikipedia.org/wiki/Golomb_coding
 
+// ---docerion
+// type: source
+// title: V4 Rice-Golomb decoder header
+// summary: Declares V4RiceDecoder and the V4DecodeResult enum used to decode Rice-encoded integers and hash prefixes in blocklist updates.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CORE_BROWSER_DB_V4_RICE_H_
 #define COMPONENTS_SAFE_BROWSING_CORE_BROWSER_DB_V4_RICE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SBDatabase class declaration
+// summary: Declares SBDatabase, the manager of SBStore instances holding hash prefixes, plus lookup result types, readiness callbacks and a test database factory.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CORE_BROWSER_DB_SB_DATABASE_H_
 #define COMPONENTS_SAFE_BROWSING_CORE_BROWSER_DB_SB_DATABASE_H_
 

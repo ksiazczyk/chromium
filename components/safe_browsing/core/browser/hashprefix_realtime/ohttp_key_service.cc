@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OHTTP key service implementation
+// summary: Implements the OHTTP key service that fetches, caches, and refreshes oblivious HTTP public keys used by hash real-time lookups.
+// ---
+
 #include "components/safe_browsing/core/browser/hashprefix_realtime/ohttp_key_service.h"
 
 #include <optional>

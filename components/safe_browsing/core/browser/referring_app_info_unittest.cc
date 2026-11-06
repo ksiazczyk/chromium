@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Referring app info unit tests
+// summary: Unit tests verifying ReferringAppInfo presence checks, result enum mapping and proto construction for referring apps and WebAPKs.
+// ---
+
 #include "components/safe_browsing/core/browser/referring_app_info.h"
 
 #include "components/safe_browsing/core/common/proto/csd.pb.h"

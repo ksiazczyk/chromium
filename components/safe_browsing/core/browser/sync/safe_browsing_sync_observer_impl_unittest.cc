@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Safe Browsing sync observer
+// summary: Verifies observer callbacks fire on sign-in and sign-out changes and covers null sync service and null callback cases.
+// ---
+
 #include "components/safe_browsing/core/browser/sync/safe_browsing_sync_observer_impl.h"
 
 #include "base/functional/bind.h"

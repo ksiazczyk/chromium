@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Real-time URL lookup service base implementation
+// summary: Implements the shared base for real-time Safe Browsing URL lookups, covering request sending, DNS resolution, backoff, caching, timeouts and UMA metrics.
+// ---
+
 #include "components/safe_browsing/core/browser/realtime/url_lookup_service_base.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ClientSidePhishingModel unit tests
+// summary: Unit tests for the client-side phishing model, covering model updates, metadata versions, and shared memory access.
+// ---
+
 #include "components/safe_browsing/core/browser/client_side_phishing_model.h"
 
 #include <string>

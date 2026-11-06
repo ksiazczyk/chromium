@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome enterprise real-time URL lookup service class declaration
+// summary: Declares ChromeEnterpriseRealTimeUrlLookupService, the enterprise-specific subclass of the base real-time URL lookup service.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CORE_BROWSER_REALTIME_CHROME_ENTERPRISE_URL_LOOKUP_SERVICE_H_
 #define COMPONENTS_SAFE_BROWSING_CORE_BROWSER_REALTIME_CHROME_ENTERPRISE_URL_LOOKUP_SERVICE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: V5 embedded test server utilities header
+// summary: Declares helpers that redirect V5 Safe Browsing requests to an embedded test server with configurable responses, delays, and cookies.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CORE_BROWSER_DB_V5_EMBEDDED_TEST_SERVER_UTIL_H_
 #define COMPONENTS_SAFE_BROWSING_CORE_BROWSER_DB_V5_EMBEDDED_TEST_SERVER_UTIL_H_
 

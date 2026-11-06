@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing WebUI log message implementation
+// summary: Implements CrSBLogMessage, forwarding streamed log messages to the WebUIInfoSingleton.
+// ---
+
 #include "components/safe_browsing/core/browser/web_ui/cr_safe_browsing_log.h"
 
 #include "components/safe_browsing/core/browser/web_ui/web_ui_info_singleton.h"

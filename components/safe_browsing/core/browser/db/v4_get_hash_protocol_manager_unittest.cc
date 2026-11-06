@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: V4 GetHash protocol manager unit tests
+// summary: Unit tests for V4GetHashProtocolManager covering full-hash requests, response parsing, metadata handling, and error cases using a test URL loader factory.
+// ---
+
 #include "components/safe_browsing/core/browser/db/v4_get_hash_protocol_manager.h"
 
 #include <memory>

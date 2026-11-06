@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing protocol manager utilities header
+// summary: Declares shared types and helpers for Safe Browsing v4/v5 protocol calls, such as threat types, hash prefix sizes and report URLs.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CORE_BROWSER_DB_SB_PROTOCOL_MANAGER_UTIL_H_
 #define COMPONENTS_SAFE_BROWSING_CORE_BROWSER_DB_SB_PROTOCOL_MANAGER_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing sync utilities for signin and sync checks
+// summary: Provides helpers that check primary account sign-in, token fetch eligibility, and whether history sync is enabled.
+// ---
+
 #include "components/safe_browsing/core/browser/sync/sync_utils.h"
 
 #include "components/signin/public/base/consent_level.h"

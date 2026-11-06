@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V5 store header
+// summary: Declares the V5Store class and result enums for v4-to-v5 migration, store reads and writes, and extensions blocklist conversion.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CORE_BROWSER_DB_V5_STORE_H_
 #define COMPONENTS_SAFE_BROWSING_CORE_BROWSER_DB_V5_STORE_H_
 

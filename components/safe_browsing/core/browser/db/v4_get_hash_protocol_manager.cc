@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V4 GetHash protocol manager implementation
+// summary: Implements the V4 GetHash protocol manager that requests full hashes for prefixes, caches responses, and records result, parsing, and cache-hit histograms.
+// ---
+
 #include "components/safe_browsing/core/browser/db/v4_get_hash_protocol_manager.h"
 
 #include <algorithm>

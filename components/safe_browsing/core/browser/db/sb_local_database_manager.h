@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SBLocalDatabaseManager class declaration
+// summary: Declares SBLocalDatabaseManager, the interface between Safe Browsing protocol managers and the local database of downloaded updates.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CORE_BROWSER_DB_SB_LOCAL_DATABASE_MANAGER_H_
 #define COMPONENTS_SAFE_BROWSING_CORE_BROWSER_DB_SB_LOCAL_DATABASE_MANAGER_H_
 

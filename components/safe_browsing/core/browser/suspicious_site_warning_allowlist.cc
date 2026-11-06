@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Suspicious site warning allowlist implementation
+// summary: Implements storing, checking, revoking, and clearing local allowlist entries for hosts a user marked as safe on suspicious site warnings, backed by HostContentSettingsMap.
+// ---
+
 #include "components/safe_browsing/core/browser/suspicious_site_warning_allowlist.h"
 
 #include <utility>

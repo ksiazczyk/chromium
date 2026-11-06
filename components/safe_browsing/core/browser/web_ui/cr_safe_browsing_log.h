@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing WebUI logging helpers
+// summary: Declares CrSBLogMessage and CrSBLogVoidify classes used by the CRSBLOG macro to stream messages.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CORE_BROWSER_WEB_UI_CR_SAFE_BROWSING_LOG_H_
 #define COMPONENTS_SAFE_BROWSING_CORE_BROWSER_WEB_UI_CR_SAFE_BROWSING_LOG_H_
 

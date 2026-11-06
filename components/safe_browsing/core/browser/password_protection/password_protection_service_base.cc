@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password protection service base implementation
+// summary: Implements the per-profile service that sends password protection pings, caches verdicts and records security events.
+// ---
+
 #include "components/safe_browsing/core/browser/password_protection/password_protection_service_base.h"
 
 #include <stddef.h>

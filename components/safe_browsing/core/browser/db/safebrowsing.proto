@@ -5,6 +5,12 @@
 // This file includes Safe Browsing V4 API blocklist request and response
 // protocol buffers. They should be kept in sync with the server implementation.
 
+// ---docerion
+// type: source
+// title: Safe Browsing V4 protocol buffer definitions
+// summary: Defines Safe Browsing V4 protocol buffers for threat list update and threat match requests and responses, kept in sync with the server implementation.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

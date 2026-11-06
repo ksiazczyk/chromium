@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: V4 store fuzzer
+// summary: LibFuzzer harness that builds hash prefix maps from fuzzed input and calls V4Store::MergeUpdate to uncover bugs in update merging.
+// ---
+
 #include "components/safe_browsing/core/browser/db/v4_store.h"
 
 #include <stdint.h>

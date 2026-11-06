@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Safe Browsing test utilities header
+// summary: Declares mock stores, store factories and helpers used by Safe Browsing database and protocol tests.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CORE_BROWSER_DB_SB_TEST_UTIL_H_
 #define COMPONENTS_SAFE_BROWSING_CORE_BROWSER_DB_SB_TEST_UTIL_H_
 

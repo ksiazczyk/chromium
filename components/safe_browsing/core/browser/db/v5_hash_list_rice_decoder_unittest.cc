@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: V5 hash list Rice decoder unit tests
+// summary: Unit tests verifying Rice decoding of 32-, 64-, and 128-bit hash list additions and removals.
+// ---
+
 #include "components/safe_browsing/core/browser/db/v5_hash_list_rice_decoder.h"
 
 #include <string>

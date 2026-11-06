@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password protection request implementation
+// summary: Implements a request that checks unfamiliar login forms and password reuse events against Safe Browsing and handles responses.
+// ---
+
 #include "components/safe_browsing/core/browser/password_protection/password_protection_request.h"
 
 #include <cstddef>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SBDatabase unit tests
+// summary: Unit tests for SBDatabase that use fake V4 and V5 stores to exercise store creation, full hash lookups, updates and checksum verification.
+// ---
+
 #include "components/safe_browsing/core/browser/db/sb_database.h"
 
 #include <optional>

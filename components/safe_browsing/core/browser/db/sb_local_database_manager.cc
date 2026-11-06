@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SBLocalDatabaseManager implementation
+// summary: Implements SBLocalDatabaseManager, which connects Safe Browsing protocol managers to the local on-disk database and handles URL, download and extension checks.
+// ---
+
 #include "components/safe_browsing/core/browser/db/sb_local_database_manager.h"
 
 #include <algorithm>

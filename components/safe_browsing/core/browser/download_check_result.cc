@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download check result to string conversion
+// summary: Implements DownloadCheckResultToString, mapping each download check result enum value to its string name.
+// ---
+
 #include "components/safe_browsing/core/browser/download_check_result.h"
 
 namespace safe_browsing {

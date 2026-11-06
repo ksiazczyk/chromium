@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: V5 search hashes util unit tests
+// summary: Unit tests for Safe Browsing V5 search hashes utilities, covering request URL construction, cache hits and misses, and response parsing error handling.
+// ---
+
 #include "components/safe_browsing/core/browser/db/v5_search_hashes_util.h"
 
 #include <string>

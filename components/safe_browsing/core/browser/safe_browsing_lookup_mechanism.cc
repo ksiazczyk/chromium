@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing lookup mechanism implementation
+// summary: Implements the base lookup mechanism class, managing start and complete check callbacks and logging hash database fallback metrics.
+// ---
+
 #include "components/safe_browsing/core/browser/safe_browsing_lookup_mechanism.h"
 
 #include "base/metrics/histogram_functions.h"

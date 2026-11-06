@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SBProtocolConfig implementation
+// summary: Implements SBProtocolConfig and a helper that builds the config from the client name, Google API key and Chrome version number.
+// ---
+
 #include "components/safe_browsing/core/browser/db/sb_protocol_config.h"
 
 #include <string>

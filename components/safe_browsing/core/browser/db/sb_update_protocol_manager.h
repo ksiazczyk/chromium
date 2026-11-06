@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing V4/V5 update protocol manager header
+// summary: Declares SBUpdateProtocolManager, which schedules and handles SafeBrowsing V4/V5 update requests to fetch hash prefixes for configured lists from Google's servers.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CORE_BROWSER_DB_SB_UPDATE_PROTOCOL_MANAGER_H_
 #define COMPONENTS_SAFE_BROWSING_CORE_BROWSER_DB_SB_UPDATE_PROTOCOL_MANAGER_H_
 

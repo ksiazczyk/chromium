@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the tailored security service directory
+summary: Specifies the additional directories that files in this folder are allowed to include from.

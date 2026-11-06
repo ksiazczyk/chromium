@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing protocol config struct
+// summary: Defines the SBProtocolConfig struct holding client name, API key, version and update settings passed to Safe Browsing protocol managers.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CORE_BROWSER_DB_SB_PROTOCOL_CONFIG_H_
 #define COMPONENTS_SAFE_BROWSING_CORE_BROWSER_DB_SB_PROTOCOL_CONFIG_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Safe Browsing token fetch tracker unit tests
+// summary: Unit tests verifying token fetch tracking, multiple requests, timeout behavior, and safe destruction of the tracker.
+// ---
+
 #include "components/safe_browsing/core/browser/safe_browsing_token_fetch_tracker.h"
 #include <memory>
 

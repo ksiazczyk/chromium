@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hash prefix list implementation
+// summary: Implements a single-prefix-size hash prefix list for the V5 Safe Browsing store, handling disk reads, buffered writes, and memory-mapped prefix views.
+// ---
+
 #include "components/safe_browsing/core/browser/db/hash_prefix_list.h"
 
 #include <optional>

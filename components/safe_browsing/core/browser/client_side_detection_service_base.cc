@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client side detection service implementation
+// summary: Implements the service managing the phishing model, report limits and verdict caching.
+// ---
+
 #include "components/safe_browsing/core/browser/client_side_detection_service_base.h"
 
 #include <algorithm>

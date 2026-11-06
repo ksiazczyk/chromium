@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V5 store implementation
+// summary: Implements the Safe Browsing V5 store, including reading and writing store files, applying updates, and recording UMA metrics for store operations.
+// ---
+
 #include "components/safe_browsing/core/browser/db/v5_store.h"
 
 #include <optional>

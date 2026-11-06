@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Verdict cache manager unit tests
+// summary: Unit tests covering caching, lookup and expiry of PhishGuard and real-time URL verdicts in VerdictCacheManager.
+// ---
+
 #include "components/safe_browsing/core/browser/verdict_cache_manager.h"
 
 #include "base/base64.h"

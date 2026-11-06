@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Password protection include rules
+summary: Specifies which headers and directories the password protection code is allowed to include.

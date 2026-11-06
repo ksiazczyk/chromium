@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUIInfoSingletonEventObserverImpl serializing events for the UI handler
+// summary: Implements the WebUI event observer by serializing Safe Browsing pings, responses and events and sending them to the UI handler as named update events.
+// ---
+
 #include "components/safe_browsing/core/browser/web_ui/web_ui_info_singleton_event_observer_impl.h"
 
 #include "components/safe_browsing/core/browser/web_ui/safe_browsing_ui_util.h"

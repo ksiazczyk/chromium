@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test Safe Browsing token fetcher implementation
+// summary: Implements a fake token fetcher for tests that records Start calls and runs the stored access token callback, including on destruction.
+// ---
+
 #include "components/safe_browsing/core/browser/test_safe_browsing_token_fetcher.h"
 
 namespace safe_browsing {

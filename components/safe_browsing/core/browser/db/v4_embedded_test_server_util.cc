@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: V4 embedded test server helpers
+// summary: Provides helpers that redirect Safe Browsing V4 requests to an embedded test server and answer full hash requests with predetermined threat matches and delays.
+// ---
+
 #include "components/safe_browsing/core/browser/db/v4_embedded_test_server_util.h"
 
 #include <memory>

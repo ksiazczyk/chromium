@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credit card form event logging
+// summary: Computes and logs sparse histograms for credit card form events that may trigger client-side detection pings.
+// ---
+
 #include "components/safe_browsing/core/browser/credit_card_form_event.h"
 
 #include <optional>

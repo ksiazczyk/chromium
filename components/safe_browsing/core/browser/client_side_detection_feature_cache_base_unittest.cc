@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the client side detection feature cache
+// summary: Verifies cache capacity eviction, verdict size accounting and debugging metadata handling.
+// ---
+
 #include "components/safe_browsing/core/browser/client_side_detection_feature_cache_base.h"
 
 #include <memory>

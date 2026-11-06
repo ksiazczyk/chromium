@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL loader factory params helper implementation
+// summary: Creates URLLoaderFactoryParams for Safe Browsing with the browser process ID, trusted flag set, and ORB disabled.
+// ---
+
 #include "components/safe_browsing/core/browser/utils/url_loader_factory_params.h"
 
 #include "services/network/public/mojom/network_context.mojom.h"

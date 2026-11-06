@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for Safe Browsing realtime
+summary: Defines GN static_library targets for the policy engine and the real-time URL lookup services, listing their sources and dependencies.

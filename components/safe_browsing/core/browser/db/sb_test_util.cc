@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Safe Browsing test utilities implementation
+// summary: Implements test doubles such as TestV4Store, TestV5Store and a test protocol config used by Safe Browsing database tests.
+// ---
+
 #include "components/safe_browsing/core/browser/db/sb_test_util.h"
 
 #include <algorithm>

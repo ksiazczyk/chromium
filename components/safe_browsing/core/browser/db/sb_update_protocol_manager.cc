@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing update protocol manager implementation
+// summary: Implements SBUpdateProtocolManager, which schedules Safe Browsing list update requests with randomized intervals and error backoff.
+// ---
+
 #include "components/safe_browsing/core/browser/db/sb_update_protocol_manager.h"
 
 #include <optional>

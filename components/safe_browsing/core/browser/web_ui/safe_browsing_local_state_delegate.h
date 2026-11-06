@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing local state delegate interface
+// summary: Interface giving Safe Browsing WebUI code access to the local state preference service.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CORE_BROWSER_WEB_UI_SAFE_BROWSING_LOCAL_STATE_DELEGATE_H_
 #define COMPONENTS_SAFE_BROWSING_CORE_BROWSER_WEB_UI_SAFE_BROWSING_LOCAL_STATE_DELEGATE_H_
 

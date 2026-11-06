@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Safe Browsing database manager header
+// summary: Declares FakeSafeBrowsingDatabaseManager, a test support class that lets features test their interaction with Safe Browsing using configured dangerous URLs.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CORE_BROWSER_DB_FAKE_DATABASE_MANAGER_H_
 #define COMPONENTS_SAFE_BROWSING_CORE_BROWSER_DB_FAKE_DATABASE_MANAGER_H_
 

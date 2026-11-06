@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hash prefix container implementation
+// summary: Implements buffered file writing and memory-mapped file management for Safe Browsing hash prefix stores, including write error handling and metrics logging.
+// ---
+
 #include "components/safe_browsing/core/browser/db/hash_prefix_container.h"
 
 #include <optional>

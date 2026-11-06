@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build configuration for hash real time service
+summary: Defines the GN build targets for the hash real time service library and its unit tests, listing their sources and dependencies.

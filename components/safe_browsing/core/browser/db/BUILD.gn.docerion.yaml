@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Safe Browsing database build configuration
+summary: Defines GN build targets for the Safe Browsing database, including proto libraries, the database manager, protocol managers, and shared desktop and mobile groups.

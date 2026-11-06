@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing sync observer header
+// summary: Declares SafeBrowsingSyncObserverImpl, which watches the sync service and reports history sync state changes.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CORE_BROWSER_SYNC_SAFE_BROWSING_SYNC_OBSERVER_IMPL_H_
 #define COMPONENTS_SAFE_BROWSING_CORE_BROWSER_SYNC_SAFE_BROWSING_SYNC_OBSERVER_IMPL_H_
 

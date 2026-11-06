@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Hash real time service unit tests
+// summary: Unit tests for HashRealTimeService covering lookup behavior, OHTTP request handling, backoff, and response metrics using test network contexts.
+// ---
+
 #include "components/safe_browsing/core/browser/hashprefix_realtime/hash_realtime_service.h"
 
 #include <memory>

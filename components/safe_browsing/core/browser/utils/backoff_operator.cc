@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BackoffOperator implementation
+// summary: Implements exponential backoff tracking for failing requests, entering and clearing backoff mode based on consecutive failures and successes.
+// ---
+
 #include "components/safe_browsing/core/browser/utils/backoff_operator.h"
 
 namespace safe_browsing {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing user population builder
+// summary: Builds the ChromeUserPopulation proto from Safe Browsing prefs, sign-in, incognito, profile and Finch experiment state.
+// ---
+
 #include "components/safe_browsing/core/browser/user_population.h"
 
 #include "base/feature_list.h"

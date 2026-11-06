@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing HaTS delegate implementation
+// summary: Implements survey candidate matching against report type and did-proceed filters and maps threat types to HaTS report types.
+// ---
+
 #include "components/safe_browsing/core/browser/safe_browsing_hats_delegate.h"
 
 #include "base/notreached.h"

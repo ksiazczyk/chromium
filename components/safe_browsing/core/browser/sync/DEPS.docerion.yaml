@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for signin and sync
+summary: Grants the sync folder include access to components/signin/public and components/sync.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing primary account token fetcher header
+// summary: Declares the SafeBrowsingPrimaryAccountTokenFetcher class that fetches access tokens for the current primary account.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CORE_BROWSER_SYNC_SAFE_BROWSING_PRIMARY_ACCOUNT_TOKEN_FETCHER_H_
 #define COMPONENTS_SAFE_BROWSING_CORE_BROWSER_SYNC_SAFE_BROWSING_PRIMARY_ACCOUNT_TOKEN_FETCHER_H_
 

@@ -5,6 +5,12 @@
 // The Safe Browsing service is responsible for downloading anti-phishing and
 // anti-malware tables and checking urls against them.
 
+// ---docerion
+// type: source
+// title: Safe Browsing database manager header
+// summary: Declares SafeBrowsingDatabaseManager and its Client class, the base interface for checking URLs against Safe Browsing lists.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CORE_BROWSER_DB_DATABASE_MANAGER_H_
 #define COMPONENTS_SAFE_BROWSING_CORE_BROWSER_DB_DATABASE_MANAGER_H_
 

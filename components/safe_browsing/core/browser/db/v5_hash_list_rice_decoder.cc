@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V5 hash list Rice decoder
+// summary: Decodes Rice-compressed additions and removals from V5 Safe Browsing hash lists and validates the decoder inputs.
+// ---
+
 #include "components/safe_browsing/core/browser/db/v5_hash_list_rice_decoder.h"
 
 #include "base/check.h"

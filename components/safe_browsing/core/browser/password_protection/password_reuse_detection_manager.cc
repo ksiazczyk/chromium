@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password reuse detection manager implementation
+// summary: Tracks keystrokes and pasted text to detect reuse of saved or synced passwords on web pages.
+// ---
+
 #include "components/safe_browsing/core/browser/password_protection/password_reuse_detection_manager.h"
 
 #include <optional>

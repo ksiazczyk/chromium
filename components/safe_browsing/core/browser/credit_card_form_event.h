@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credit card form event enums
+// summary: Defines enums combining site visit, referring app, and field detection heuristics into sparse credit card form event values.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CORE_BROWSER_CREDIT_CARD_FORM_EVENT_H_
 #define COMPONENTS_SAFE_BROWSING_CORE_BROWSER_CREDIT_CARD_FORM_EVENT_H_
 

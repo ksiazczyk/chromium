@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: V4 GetHash protocol manager fuzzer
+// summary: LibFuzzer harness that feeds random data into FindHashesResponse parsing and exercises V4GetHashProtocolManager::ParseMetadata to find crashes.
+// ---
+
 #include "components/safe_browsing/core/browser/db/v4_get_hash_protocol_manager.h"
 
 #include <string>

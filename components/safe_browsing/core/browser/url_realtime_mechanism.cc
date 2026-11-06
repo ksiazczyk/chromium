@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL real-time check mechanism implementation
+// summary: Implements the real-time URL lookup mechanism for Safe Browsing checks, coordinating fallback to hash database and hash real-time checks and recording match metrics.
+// ---
+
 #include "components/safe_browsing/core/browser/url_realtime_mechanism.h"
 
 #include "base/metrics/histogram_functions.h"

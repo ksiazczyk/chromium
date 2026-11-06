@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClientSideDetectionServiceBase class header
+// summary: Declares the base class for the client-side detection service, a KeyedService that classifies phishing verdicts and reports them to Safe Browsing servers without Blink dependencies.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CORE_BROWSER_CLIENT_SIDE_DETECTION_SERVICE_BASE_H_
 #define COMPONENTS_SAFE_BROWSING_CORE_BROWSER_CLIENT_SIDE_DETECTION_SERVICE_BASE_H_
 

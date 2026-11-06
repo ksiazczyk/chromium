@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SafeBrowsingUrlCheckerImpl implementation
+// summary: Implements the Safe Browsing URL checker that checks URLs and their redirects via database, real-time, and hash real-time mechanisms, logging metrics and handling timeouts.
+// ---
+
 #include "components/safe_browsing/core/browser/safe_browsing_url_checker_impl.h"
 
 #include <memory>

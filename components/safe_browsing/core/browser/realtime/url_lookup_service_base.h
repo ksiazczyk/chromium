@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Real-time URL lookup service base header
+// summary: Declares RealTimeUrlLookupServiceBase, the KeyedService base class providing backoff, caching and WebUI delegate interfaces for real-time URL lookups.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CORE_BROWSER_REALTIME_URL_LOOKUP_SERVICE_BASE_H_
 #define COMPONENTS_SAFE_BROWSING_CORE_BROWSER_REALTIME_URL_LOOKUP_SERVICE_BASE_H_
 

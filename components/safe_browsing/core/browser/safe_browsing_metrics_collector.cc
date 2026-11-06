@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing metrics collector implementation
+// summary: Implements daily logging of Safe Browsing metrics, storing event timestamps in preferences and tracking enhanced protection state changes.
+// ---
+
 #include "components/safe_browsing/core/browser/safe_browsing_metrics_collector.h"
 
 #include <algorithm>

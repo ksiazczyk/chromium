@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing store file format wrapper
+// summary: Defines a thin wrapper class that provides access to either a V4 or V5 Safe Browsing store file format.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CORE_BROWSER_DB_SB_STORE_FILE_FORMAT_H_
 #define COMPONENTS_SAFE_BROWSING_CORE_BROWSER_DB_SB_STORE_FILE_FORMAT_H_
 
