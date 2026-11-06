@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Integrated attestation flow class header
+// summary: Declares AttestationFlowIntegrated, the message flow for Chrome OS attestation tasks meant to replace the base AttestationFlow class.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_ATTESTATION_ATTESTATION_FLOW_INTEGRATED_H_
 #define CHROMEOS_ASH_COMPONENTS_ATTESTATION_ATTESTATION_FLOW_INTEGRATED_H_
 

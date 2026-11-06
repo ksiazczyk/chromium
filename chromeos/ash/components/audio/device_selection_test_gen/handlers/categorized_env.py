@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Categorized environment audio device selection handler
+# summary: Implements a device selection handler that caches the active device per set of connected stationary devices and applies the cache on plug, unplug and select events.
+# ---
+
 from dsp import BaseHandler, Device, State
 
 

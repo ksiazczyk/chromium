@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Device selection test scenario dd1_2
+# summary: Simulates plug, select, and unplug sequences with two HDMI monitors and a headphone to check activated device recall and priority.
+# ---
+
 from dsp import Simulator, T
 
 

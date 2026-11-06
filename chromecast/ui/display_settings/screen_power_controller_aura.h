@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aura screen power controller class declaration
+// summary: Declares ScreenPowerControllerAura, which implements the screen power state transition graph for builds with the use_aura flag enabled.
+// ---
+
 #ifndef CHROMECAST_UI_DISPLAY_SETTINGS_SCREEN_POWER_CONTROLLER_AURA_H_
 #define CHROMECAST_UI_DISPLAY_SETTINGS_SCREEN_POWER_CONTROLLER_AURA_H_
 

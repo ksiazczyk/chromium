@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Device selection test scenario dd2_4
+# summary: Simulates plugging three HDMI monitors with an internal speaker and checks automatic activation and re-plug behavior after manual selection.
+# ---
+
 from dsp import Simulator, T
 
 

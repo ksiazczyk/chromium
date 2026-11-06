@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CRAS audio handler unit tests
+// summary: Extensive unit tests for CrasAudioHandler covering device switching, volume, mute, notifications, and audio effects.
+// ---
+
 #include "chromeos/ash/components/audio/cras_audio_handler.h"
 
 #include <stddef.h>

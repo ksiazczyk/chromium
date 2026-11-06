@@ -1,0 +1,4 @@
+# Docerion header of ambient.gni.
+type: config
+title: GN build arguments for ambient mode backend
+summary: Declares the enable_cros_ambient_mode_backend build argument, which defaults to Chrome branded builds.

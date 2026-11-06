@@ -1,0 +1,4 @@
+# Docerion header of pause.icon.
+type: asset
+title: Pause vector icon
+summary: Defines the pause icon for the Chromecast UI as vector path drawing commands on a 24-unit canvas.

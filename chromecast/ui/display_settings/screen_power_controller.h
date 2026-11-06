@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screen power controller interface
+// summary: Defines the ScreenPowerController interface abstracting screen brightness-off and power-off stages, with a delegate that performs the actual power actions.
+// ---
+
 #ifndef CHROMECAST_UI_DISPLAY_SETTINGS_SCREEN_POWER_CONTROLLER_H_
 #define CHROMECAST_UI_DISPLAY_SETTINGS_SCREEN_POWER_CONTROLLER_H_
 

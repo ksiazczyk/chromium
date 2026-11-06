@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Attestation flow type decider unit tests
+// summary: Unit tests verifying that the integrated attestation flow is valid without a proxy and invalid with a proxy, including UMA status reporting checks.
+// ---
+
 #include "chromeos/ash/components/attestation/attestation_flow_type_decider.h"
 
 #include <memory>

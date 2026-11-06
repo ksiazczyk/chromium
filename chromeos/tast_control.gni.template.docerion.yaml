@@ -1,0 +1,4 @@
+# Docerion header of tast_control.gni.template.
+type: config
+title: Tast test control template
+summary: GN template that assembles lists of disabled and flaky Tast tests for Chrome OS CI from the accompanying text files.

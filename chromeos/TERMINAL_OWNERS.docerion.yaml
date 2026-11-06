@@ -1,0 +1,4 @@
+# Docerion header of TERMINAL_OWNERS.
+type: config
+title: Terminal, Crosh and SSH code owners
+summary: Lists the reviewers for Terminal, Crosh and SSH code in the Chrome OS directory.

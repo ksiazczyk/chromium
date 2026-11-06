@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS system sound resource keys
+// summary: Declares the Sound enum of system sound resource keys used across ChromeOS, covering startup, lock, volume, charging and Focus mode sounds.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_AUDIO_SOUNDS_H_
 #define CHROMEOS_ASH_COMPONENTS_AUDIO_SOUNDS_H_
 

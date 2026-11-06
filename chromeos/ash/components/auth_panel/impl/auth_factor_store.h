@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthFactorStore class declaration
+// summary: Declares AuthFactorStore, which encapsulates the UI state of AuthPanel, plus its factory and state update subscription API.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_AUTH_PANEL_IMPL_AUTH_FACTOR_STORE_H_
 #define CHROMEOS_ASH_COMPONENTS_AUTH_PANEL_IMPL_AUTH_FACTOR_STORE_H_
 

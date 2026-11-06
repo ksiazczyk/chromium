@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Issue 1 audio device selection simulator scenario
+# summary: Simulates a sequence of plugging, selecting, and unplugging internal, USB, and HDMI audio devices to reproduce the first discussed selection issue.
+# ---
+
 from dsp import Simulator, T
 
 

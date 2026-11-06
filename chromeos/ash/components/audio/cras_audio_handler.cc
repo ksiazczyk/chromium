@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CRAS audio handler implementation
+// summary: Core implementation managing ChromeOS audio devices, volume, mute, and device switching through the CRAS D-Bus client.
+// ---
+
 #include "chromeos/ash/components/audio/cras_audio_handler.h"
 
 #include <stddef.h>

@@ -1,0 +1,4 @@
+# Docerion header of download_custom_chrome.sh.
+type: script
+title: Download and install a custom Chrome build on a Chromebook
+summary: Shell script that downloads a custom Chrome build from a Google Storage bucket, archives the existing Chrome build, and replaces it under /opt/google/chrome.

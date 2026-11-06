@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutoSignOutService implementation
+// summary: Implements the service that observes device info sync, session manager and power manager events to sign users out of previous sessions on new ChromeOS sign-ins.
+// ---
+
 #include "chromeos/ash/components/auto_sign_out/auto_sign_out_service.h"
 
 #include "base/check.h"

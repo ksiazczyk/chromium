@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stub audio devices pref handler implementation
+// summary: In-memory stub of AudioDevicesPrefHandler that stores volume, mute, device state, and priority values for use in tests.
+// ---
+
 #include "chromeos/ash/components/audio/audio_devices_pref_handler_stub.h"
 
 #include "chromeos/ash/components/audio/audio_device.h"

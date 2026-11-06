@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrosAudioConfigImpl implementation
+// summary: Implements CrosAudioConfigImpl on top of CrasAudioHandler, applying volume, mute, device and audio effect changes while recording usage metrics.
+// ---
+
 #include "chromeos/ash/components/audio/cros_audio_config_impl.h"
 
 #include "base/logging.h"

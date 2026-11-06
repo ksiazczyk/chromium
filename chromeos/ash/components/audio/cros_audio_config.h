@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrosAudioConfig API class declaration
+// summary: Declares the CrosAudioConfig API that provides and allows configuration of ChromeOS system audio settings for the Audio system UI.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_AUDIO_CROS_AUDIO_CONFIG_H_
 #define CHROMEOS_ASH_COMPONENTS_AUDIO_CROS_AUDIO_CONFIG_H_
 

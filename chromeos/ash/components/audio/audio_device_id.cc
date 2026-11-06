@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio device id helpers
+// summary: Implements building, versioning and parsing of stable audio device id strings and combined device set identifiers.
+// ---
+
 #include "chromeos/ash/components/audio/audio_device_id.h"
 
 #include <sstream>

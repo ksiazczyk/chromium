@@ -1,0 +1,4 @@
+# Docerion header of CHROMEOS_LKGM.
+type: data
+title: Chrome OS LKGM version pin
+summary: Records the last known good Chrome OS milestone build version used for Chrome on Chrome OS uprevs.

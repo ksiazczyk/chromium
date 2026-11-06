@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthPanel controller class declaration
+// summary: Declares AuthPanel, the controller orchestrating FactorAuthView objects, the authentication UI layout, and its test API.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_AUTH_PANEL_IMPL_AUTH_PANEL_H_
 #define CHROMEOS_ASH_COMPONENTS_AUTH_PANEL_IMPL_AUTH_PANEL_H_
 

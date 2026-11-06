@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio devices preference handler implementation
+// summary: Implements persistent audio preference storage for volume, gain, mute, device priority and feature states.
+// ---
+
 #include "chromeos/ash/components/audio/audio_devices_pref_handler_impl.h"
 
 #include <stdint.h>

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the auto_sign_out component
+summary: Names the reviewers responsible for changes to the auto_sign_out component directory.

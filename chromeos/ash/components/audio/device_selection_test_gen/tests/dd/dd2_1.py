@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Device selection test scenario dd2_1
+# summary: Simulates plugging a headphone while an internal speaker and HDMI monitor are present and expects the headphone to become the active device.
+# ---
+
 from dsp import Simulator, T
 
 

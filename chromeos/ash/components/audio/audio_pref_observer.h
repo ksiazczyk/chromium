@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio preference observer interface
+// summary: Observer interface notified when audio policy and voice isolation preferences change.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_AUDIO_AUDIO_PREF_OBSERVER_H_
 #define CHROMEOS_ASH_COMPONENTS_AUDIO_AUDIO_PREF_OBSERVER_H_
 

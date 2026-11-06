@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the assistant component
+summary: Defines a buildflag header controlling the ambient mode backend and ambient animation resources for Chrome OS builds.

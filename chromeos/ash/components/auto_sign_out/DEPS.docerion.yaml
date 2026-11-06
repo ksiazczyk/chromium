@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for auto_sign_out dependencies
+summary: Lists the allowed include directories for the auto_sign_out component, covering base, chromeos, components, content test and testing paths.

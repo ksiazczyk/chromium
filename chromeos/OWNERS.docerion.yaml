@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners and per-file rules for chromeos
+summary: Defines primary owners and per-file ownership for strings, Tast test control files and sub-owner files.

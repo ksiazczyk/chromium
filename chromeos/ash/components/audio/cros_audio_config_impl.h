@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrosAudioConfigImpl class declaration
+// summary: Declares CrosAudioConfigImpl, which serves audio settings through CrosAudioConfig and observes CrasAudioHandler changes, including histogram enums.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_AUDIO_CROS_AUDIO_CONFIG_IMPL_H_
 #define CHROMEOS_ASH_COMPONENTS_AUDIO_CROS_AUDIO_CONFIG_IMPL_H_
 

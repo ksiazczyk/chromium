@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AutoSignOutService unit tests
+// summary: Unit tests for AutoSignOutService that use fake device info sync, session manager and power manager clients to verify automatic sign-out behavior.
+// ---
+
 #include "chromeos/ash/components/auto_sign_out/auto_sign_out_service.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthPanelEventDispatcher declaration
+// summary: Declares the event dispatcher that routes auth panel UI events and user action types to the AuthFactorStore, plus its factory.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_AUTH_PANEL_IMPL_AUTH_PANEL_EVENT_DISPATCHER_H_
 #define CHROMEOS_ASH_COMPONENTS_AUTH_PANEL_IMPL_AUTH_PANEL_EVENT_DISPATCHER_H_
 

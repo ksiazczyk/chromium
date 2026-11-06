@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Color temperature animation implementation
+// summary: Implements a linear animation that interpolates color temperature and applies red, green, and blue scale adjustments to the display configurator.
+// ---
+
 #include "chromecast/ui/display_settings/color_temperature_animation.h"
 
 #include <algorithm>

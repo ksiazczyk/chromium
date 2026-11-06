@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: 'Scenario 1: replug of non-selected USB device'
+# summary: Simulates selecting USB device A, then unplugging and replugging the non-selected USB device B, expecting A to stay active.
+# ---
+
 from dsp import Simulator, T
 
 

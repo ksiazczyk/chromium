@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemSoundsDelegateImpl implementation
+// summary: Implements the ash system sounds delegate by initializing battery charging and Focus mode FLAC sounds and playing them through the global sounds manager.
+// ---
+
 #include "chromeos/ash/components/audio/system_sounds_delegate_impl.h"
 
 #include "chromeos/ash/components/audio/sounds.h"

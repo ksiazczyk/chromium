@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Chromecast UI build targets
+summary: Defines GN source sets for the display settings public interface, display settings manager implementation, and back gesture router with their dependencies.

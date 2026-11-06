@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Adaptive attestation flow unit tests
+// summary: Unit tests for the adaptive attestation flow using mock flows and a fake type decider, verifying default and fallback behavior plus UMA status reporting.
+// ---
+
 #include "chromeos/ash/components/attestation/attestation_flow_adaptive.h"
 
 #include <optional>

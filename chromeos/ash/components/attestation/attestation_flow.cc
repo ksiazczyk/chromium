@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Attestation flow implementation
+// summary: Implements the legacy attestation flow that coordinates certificate requests between the Chrome OS attestation service and the Privacy CA server.
+// ---
+
 #include "chromeos/ash/components/attestation/attestation_flow.h"
 
 #include <algorithm>

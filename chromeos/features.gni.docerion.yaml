@@ -1,0 +1,4 @@
+# Docerion header of features.gni.
+type: config
+title: Chrome OS build feature flags
+summary: GN file declaring build arguments such as use_real_chromeos_services for Chrome OS services.

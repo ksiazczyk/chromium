@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Assistant test expectation utilities
+// summary: Header providing ExpectResult and the WAIT_FOR_CALL macro that block and retry until a callback returns an expected value or a mock call occurs in Assistant tests.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_ASSISTANT_TEST_SUPPORT_EXPECT_UTILS_H_
 #define CHROMEOS_ASH_COMPONENTS_ASSISTANT_TEST_SUPPORT_EXPECT_UTILS_H_
 

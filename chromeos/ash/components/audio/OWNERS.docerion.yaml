@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Audio component owners list
+summary: Lists owners of the audio component and per-file owners for the cros_audio_config files.

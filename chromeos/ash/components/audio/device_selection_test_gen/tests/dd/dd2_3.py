@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Device selection test scenario dd2_3
+# summary: Simulates selection among three HDMI monitors and a headphone to verify active device behavior as monitors are plugged and unplugged.
+# ---
+
 from dsp import Simulator, T
 
 

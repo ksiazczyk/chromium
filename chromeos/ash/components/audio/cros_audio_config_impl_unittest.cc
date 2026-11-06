@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for CrosAudioConfigImpl
+// summary: Unit tests covering CrosAudioConfigImpl behavior such as volume, gain, mute, device selection, audio effects and metrics histograms.
+// ---
+
 #include "chromeos/ash/components/audio/cros_audio_config_impl.h"
 
 #include "base/memory/raw_ptr.h"

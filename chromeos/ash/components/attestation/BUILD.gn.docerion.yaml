@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Attestation component build configuration
+summary: GN build file defining the attestation component, its test support sources, and unit test targets with their dependencies.

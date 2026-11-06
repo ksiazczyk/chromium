@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for chromecast/ui
+summary: Lists the allowed include dependencies for code in the chromecast/ui directory, covering chromecast, media, mojo, and ui subdirectories.

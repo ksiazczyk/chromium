@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Audio component dependency include rules
+summary: Specifies allowed header dependencies for the audio component and restricts most Abseil features to a small allowlist.

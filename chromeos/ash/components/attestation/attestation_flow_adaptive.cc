@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Adaptive attestation flow implementation
+// summary: Implements the adaptive attestation flow that chooses between integrated and fallback attestation flows when requesting certificates.
+// ---
+
 #include "chromeos/ash/components/attestation/attestation_flow_adaptive.h"
 
 #include <memory>

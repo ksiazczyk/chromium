@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definitions for Chromecast display settings
+summary: Defines the cast_source_set targets for display settings sources, the aura and default screen power controllers, and the cast_display_settings_unittests test target.

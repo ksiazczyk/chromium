@@ -1,0 +1,4 @@
+# Docerion header of display_settings.mojom.
+type: source
+title: DisplaySettings Mojo interface
+summary: Mojo interface for controlling Cast display settings such as brightness, color temperature, and screen power.

@@ -1,0 +1,4 @@
+# Docerion header of tast_control_disabled_tests.txt.
+type: ci
+title: Disabled Tast tests
+summary: Lists Tast tests disabled in chrome_all_tast_tests with bug references and optional board-specific entries.

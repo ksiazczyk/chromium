@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stub attestation features header
+// summary: Declares StubAttestationFeatures, a configurable test stub of AttestationFeatures, and ScopedStubAttestationFeatures for scoped installation during tests.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_ATTESTATION_STUB_ATTESTATION_FEATURES_H_
 #define CHROMEOS_ASH_COMPONENTS_ATTESTATION_STUB_ATTESTATION_FEATURES_H_
 

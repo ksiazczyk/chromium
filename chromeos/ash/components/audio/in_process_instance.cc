@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-process binding for CrosAudioConfig
+// summary: Binds incoming CrosAudioConfig Mojo receivers to a singleton CrosAudioConfigImpl instance inside the browser process.
+// ---
+
 #include "chromeos/ash/components/audio/in_process_instance.h"
 
 #include "base/no_destructor.h"

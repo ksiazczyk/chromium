@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Factor auth view factory header
+// summary: Declares the FactorAuthViewFactory class that centralizes creation of FactorAuthView objects per authentication factor to support dependency injection and testing.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_AUTH_PANEL_IMPL_FACTOR_AUTH_VIEW_FACTORY_H_
 #define CHROMEOS_ASH_COMPONENTS_AUTH_PANEL_IMPL_FACTOR_AUTH_VIEW_FACTORY_H_
 

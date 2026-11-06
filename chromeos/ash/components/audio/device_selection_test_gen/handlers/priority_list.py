@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Priority list audio device selection handler
+# summary: Handler that maintains an ordered priority list of audio devices and switches to the plugged or highest-priority connected device on plug and unplug events.
+# ---
+
 
 from dsp import BaseHandler, Device, State
 

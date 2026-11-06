@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutoSignOutService class declaration
+// summary: Declares the AutoSignOutService class, which automatically signs a user out of their previous session when they sign in on a new ChromeOS device.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_AUTO_SIGN_OUT_AUTO_SIGN_OUT_SERVICE_H_
 #define CHROMEOS_ASH_COMPONENTS_AUTO_SIGN_OUT_AUTO_SIGN_OUT_SERVICE_H_
 

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: 'Feedback test: Bluetooth headset unplug keeps monitor 2 active'
+# summary: Simulates plugging monitors and a Bluetooth headset, then verifies monitor 2 remains the activated device after the headset disconnects.
+# ---
+
 from dsp import Simulator, T
 
 

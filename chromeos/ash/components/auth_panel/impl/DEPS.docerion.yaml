@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the auth panel impl directory
+summary: Restricts which headers and directories the auth panel impl code is allowed to include.

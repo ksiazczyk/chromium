@@ -1,0 +1,4 @@
+# Docerion header of vector_icons.cc.template.
+type: source
+title: Template for generated vector_icons.cc
+summary: Template from which the build generates vector_icons.cc, placing icon definitions in the chromecast::vector_icons namespace.

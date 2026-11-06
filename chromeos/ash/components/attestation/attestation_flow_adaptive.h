@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Adaptive attestation flow class header
+// summary: Declares AttestationFlowAdaptive, an attestation flow that picks the preferred flow object and falls back to the legacy flow if the default integrated flow fails.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_ATTESTATION_ATTESTATION_FLOW_ADAPTIVE_H_
 #define CHROMEOS_ASH_COMPONENTS_ATTESTATION_ATTESTATION_FLOW_ADAPTIVE_H_
 

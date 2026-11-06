@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Audio selection notification handler unit tests
+// summary: Tests audio selection notification display, button handling, and whether input and output nodes belong to the same device source.
+// ---
+
 #include "chromeos/ash/components/audio/audio_selection_notification_handler.h"
 
 #include <optional>

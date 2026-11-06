@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: 'Feedback test: monitor 1 reactivated after replug'
+# summary: Simulates selecting monitor 1 among two monitors and verifies monitor 1 is reactivated after both monitors are unplugged and replugged.
+# ---
+
 from dsp import Simulator, T
 
 

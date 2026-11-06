@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Factor auth view factory implementation
+// summary: Implements FactorAuthViewFactory, creating the appropriate FactorAuthView for each AshAuthFactor, currently only the password view, with other factors returning nullptr.
+// ---
+
 #include "chromeos/ash/components/auth_panel/impl/factor_auth_view_factory.h"
 
 #include "ash/strings/grit/ash_strings.h"

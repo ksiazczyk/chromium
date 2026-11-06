@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Internal replug USB test scenario
+# summary: Simulates internal and USB audio devices, selecting the internal device, then unplugging and replugging the USB device to exercise selection behavior.
+# ---
+
 
 from dsp import T, Simulator
 

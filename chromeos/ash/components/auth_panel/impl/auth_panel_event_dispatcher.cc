@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auth panel event dispatcher implementation
+// summary: Implements dispatching of user actions, factor state changes, and auth verdicts to the AuthFactorStore.
+// ---
+
 #include "chromeos/ash/components/auth_panel/impl/auth_panel_event_dispatcher.h"
 
 #include <optional>

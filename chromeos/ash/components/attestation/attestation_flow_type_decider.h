@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Attestation flow type decider header
+// summary: Declares AttestationFlowTypeDecider, an object that decides if the default platform-side integrated attestation flow is a valid option.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_ATTESTATION_ATTESTATION_FLOW_TYPE_DECIDER_H_
 #define CHROMEOS_ASH_COMPONENTS_ATTESTATION_ATTESTATION_FLOW_TYPE_DECIDER_H_
 

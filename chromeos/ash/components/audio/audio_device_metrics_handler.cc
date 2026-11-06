@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio device metrics handler implementation
+// summary: Implements recording of histogram metrics for system audio device switch decisions and user overrides.
+// ---
+
 #include "chromeos/ash/components/audio/audio_device_metrics_handler.h"
 
 #include "base/metrics/histogram_functions.h"

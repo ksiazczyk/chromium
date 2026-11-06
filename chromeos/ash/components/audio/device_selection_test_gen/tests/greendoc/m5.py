@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: 'm5: Headset and HDMI switching keeps internal speaker'
+# summary: Simulates switching between the internal speaker, HDMI, and a 3.5mm headset across plug and unplug cycles, expecting output from the internal speaker.
+# ---
+
 from dsp import Simulator, T
 
 

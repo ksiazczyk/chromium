@@ -1,0 +1,4 @@
+# Docerion header of SECURITY_OWNERS.
+type: config
+title: Chrome OS security owners
+summary: Lists the reviewers responsible for security-related changes in the chromeos directory.

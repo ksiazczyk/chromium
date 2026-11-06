@@ -1,0 +1,4 @@
+# Docerion header of tast_control_disabled_tests_public_builders.txt.
+type: ci
+title: Tast tests disabled on public builders
+summary: Lists Tast tests disabled only for public Chrome OS builders, citing the relevant bugs.

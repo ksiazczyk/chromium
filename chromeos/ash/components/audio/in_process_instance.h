@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-process instance binding declaration
+// summary: Declares BindToInProcessInstance, which binds CrosAudioConfig Mojo receivers to an in-process CrosAudioConfigImpl instance.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_AUDIO_IN_PROCESS_INSTANCE_H_
 #define CHROMEOS_ASH_COMPONENTS_AUDIO_IN_PROCESS_INSTANCE_H_
 

@@ -1,6 +1,13 @@
 # Copyright 2026 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: script
+# title: Presubmit checks for chromeos
+# summary: Runs patch formatting and Ruff checks on chromeos changes before upload.
+# ---
+
 """Presubmit script for chromeos."""
 
 PRESUBMIT_VERSION = '2.0.0'

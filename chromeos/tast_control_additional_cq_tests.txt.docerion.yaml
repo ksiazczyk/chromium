@@ -1,0 +1,4 @@
+# Docerion header of tast_control_additional_cq_tests.txt.
+type: ci
+title: Additional Tast tests for the Chrome CQ
+summary: Lists additional mainline Tast tests to run on the Chrome CQ for ChromeOS PA engineers.

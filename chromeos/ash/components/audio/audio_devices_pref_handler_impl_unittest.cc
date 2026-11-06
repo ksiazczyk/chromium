@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Audio devices pref handler implementation unit tests
+// summary: Unit tests for AudioDevicesPrefHandlerImpl covering volume, gain, mute, and active device preferences across various audio device types.
+// ---
+
 #include "chromeos/ash/components/audio/audio_devices_pref_handler_impl.h"
 
 #include <stdint.h>

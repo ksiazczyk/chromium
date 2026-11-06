@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: 'm4: HDMI switching across replugs keeps internal speaker'
+# summary: Simulates switching between the internal speaker and two HDMI monitors across plug and unplug cycles, expecting output from the internal speaker.
+# ---
+
 from dsp import Simulator, T
 
 

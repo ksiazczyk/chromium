@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplaySettingsManagerImpl class header
+// summary: Declares DisplaySettingsManagerImpl, which implements DisplaySettingsManager, ScreenPowerController delegate, and the DisplaySettings Mojo interface.
+// ---
+
 #ifndef CHROMECAST_UI_DISPLAY_SETTINGS_MANAGER_IMPL_H_
 #define CHROMECAST_UI_DISPLAY_SETTINGS_MANAGER_IMPL_H_
 

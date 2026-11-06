@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio device set encoding implementation
+// summary: Encodes sets of audio devices into bitset-based integers for metrics, mapping device types to fixed bit positions.
+// ---
+
 #include "chromeos/ash/components/audio/audio_device_encoding.h"
 
 #include <bitset>

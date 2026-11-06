@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplaySettingsManagerImpl implementation
+// summary: Implements display settings handling with brightness and color temperature animations, gamma calibration, color inversion, screen power control, and Mojo receiver wiring.
+// ---
+
 #include "chromecast/ui/display_settings_manager_impl.h"
 
 #include "base/check.h"

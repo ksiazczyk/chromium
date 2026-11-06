@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Brightness animation implementation
+// summary: Implements a linear animation that smoothly transitions display brightness between values by driving the display settings delegate.
+// ---
+
 #include "chromecast/ui/display_settings/brightness_animation.h"
 
 #include <algorithm>

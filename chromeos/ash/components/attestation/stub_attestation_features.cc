@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stub attestation features implementation
+// summary: Implements StubAttestationFeatures with factory methods for no, RSA-only, and full attestation support, plus ScopedStubAttestationFeatures that installs the stub for testing.
+// ---
+
 #include "chromeos/ash/components/attestation/stub_attestation_features.h"
 
 #include <memory>

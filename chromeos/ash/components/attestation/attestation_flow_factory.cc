@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Attestation flow factory implementation
+// summary: Implements AttestationFlowFactory, lazily creating the integrated default attestation flow and the legacy fallback flow from a server proxy.
+// ---
+
 #include "chromeos/ash/components/attestation/attestation_flow_factory.h"
 
 #include <memory>

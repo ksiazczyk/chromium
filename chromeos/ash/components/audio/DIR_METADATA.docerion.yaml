@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Audio directory issue tracker metadata
+summary: Assigns the directory to the OS>Kernel>Audio monorail component for issue tracking.

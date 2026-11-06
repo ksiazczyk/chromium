@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordAuthView implementation
+// summary: Implements the password authentication view of the auth panel, building the password row, textfield, caps lock and display password icons, and submit button, and dispatching password submission events.
+// ---
+
 #include "chromeos/ash/components/auth_panel/impl/views/password_auth_view.h"
 
 #include <memory>

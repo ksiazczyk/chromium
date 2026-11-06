@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aura screen power controller implementation
+// summary: Implements the Aura screen power controller, managing transitions between on, brightness-off, and power-off states with power-on and power-off delays.
+// ---
+
 #include "chromecast/ui/display_settings/screen_power_controller_aura.h"
 
 #include "base/check.h"

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: 'm1: Two HDMI monitors output through the second'
+# summary: Simulates plugging two HDMI monitors and expects audio output from the second monitor.
+# ---
+
 from dsp import Simulator, T
 
 

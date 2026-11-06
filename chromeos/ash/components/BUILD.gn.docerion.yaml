@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for //chromeos/ash/components
+summary: GN build file that aggregates unit test targets from all ash components and defines a test_support static library.

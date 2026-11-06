@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemSoundsDelegate interface
+// summary: Declares the SystemSoundsDelegate interface for initializing and playing ChromeOS system sounds, with the Shell owning the instance.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_AUDIO_SYSTEM_SOUNDS_DELEGATE_H_
 #define CHROMEOS_ASH_COMPONENTS_AUDIO_SYSTEM_SOUNDS_DELEGATE_H_
 

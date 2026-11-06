@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio device ID helpers
+// summary: Declares functions to build, version and parse stable audio device ID strings used for storing audio preferences.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_AUDIO_AUDIO_DEVICE_ID_H_
 #define CHROMEOS_ASH_COMPONENTS_AUDIO_AUDIO_DEVICE_ID_H_
 

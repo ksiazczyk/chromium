@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Ruff configuration for chromeos Python code
+# summary: Sets line length, formatting and lint rules for Ruff checks in the chromeos directory.
+# ---
+
 line-length = 80
 indent-width = 2
 

@@ -1,0 +1,4 @@
+# Docerion header of LACROS_OWNERS.
+type: config
+title: Owners of Lacros code in chromeos
+summary: Lists the reviewers responsible for Lacros project changes in this directory.

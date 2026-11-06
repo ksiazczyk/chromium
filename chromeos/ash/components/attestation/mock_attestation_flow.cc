@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock attestation flow implementation
+// summary: Implements fake and mock server proxies, a mock observer, and MockAttestationFlow used to test attestation flows.
+// ---
+
 #include "chromeos/ash/components/attestation/mock_attestation_flow.h"
 
 #include <memory>

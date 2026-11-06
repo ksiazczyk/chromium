@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the auth panel impl source set
+summary: Defines the impl source_set for the ChromeOS auth panel component, listing its dependencies and source files.

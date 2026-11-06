@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccountManagerFactory implementation
+// summary: Implements the singleton factory that creates and caches per-profile AccountManager and AccountManagerFacade instances and notifies destruction callbacks.
+// ---
+
 #include "chromeos/ash/components/account_manager/account_manager_factory.h"
 
 #include <string>

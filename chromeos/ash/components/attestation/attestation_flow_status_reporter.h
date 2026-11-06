@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Attestation flow status reporter header
+// summary: Declares AttestationFlowStatusRecorder-style class AttestationFlowStatusReporter, which records attributes and results of an adaptive attestation flow run for UMA reporting.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_ATTESTATION_ATTESTATION_FLOW_STATUS_REPORTER_H_
 #define CHROMEOS_ASH_COMPONENTS_ATTESTATION_ATTESTATION_FLOW_STATUS_REPORTER_H_
 
