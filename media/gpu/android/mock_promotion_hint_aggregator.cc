@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock promotion hint aggregator implementation
+// summary: Implements the mock promotion hint aggregator, including a helper to control the IsSafeToPromote return value.
+// ---
+
 #include "media/gpu/android/mock_promotion_hint_aggregator.h"
 
 using testing::_;

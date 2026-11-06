@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NDK MediaCodec wrapper unit tests
+// summary: Unit tests for NdkMediaCodecWrapper covering creation, input and output buffer queues, and simulated async codec callbacks and errors.
+// ---
+
 #include "media/gpu/android/ndk_media_codec_wrapper.h"
 
 #include "base/location.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Codec allocator implementation
+// summary: Implements CodecAllocator, which creates and releases MediaCodec instances on dedicated task runners and detects hung codec operations.
+// ---
+
 #include "media/gpu/android/codec_allocator.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoFrameMapperFactory implementation
+// summary: Creates platform-appropriate VideoFrameMapper instances based on pixel format, storage type, and build flags such as VA-API or V4L2.
+// ---
+
 #include "media/gpu/video_frame_mapper_factory.h"
 
 #include "build/build_config.h"

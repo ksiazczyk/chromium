@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoFrameFactory interface
+// summary: Defines the VideoFrameFactory interface that creates VideoFrames backed by codec output buffers, with overlay modes and surface bundle handling.
+// ---
+
 #ifndef MEDIA_GPU_ANDROID_VIDEO_FRAME_FACTORY_H_
 #define MEDIA_GPU_ANDROID_VIDEO_FRAME_FACTORY_H_
 

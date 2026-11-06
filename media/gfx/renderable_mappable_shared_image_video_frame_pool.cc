@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Renderable mappable SharedImage video frame pool implementation
+// summary: Implements a video frame pool that creates and reuses MappableSharedImage-backed VideoFrames, managing frame resources and reference-counted pool lifetime.
+// ---
+
 #include "media/gfx/renderable_mappable_shared_image_video_frame_pool.h"
 
 #include <GLES2/gl2.h>

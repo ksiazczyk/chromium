@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Video frame test utility helpers
+// summary: Provides helpers that create shared image backed RGBA, I420, and NV12 video frames with fixed color patterns for use in tests.
+// ---
+
 #include "media/gfx/video_frame_test_utils.h"
 
 #include <array>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CommandBufferHelper class declaration
+// summary: Declares a ref-counted helper that wraps a GPU command buffer stub for video decode, providing sync token waits and shared image access.
+// ---
+
 #ifndef MEDIA_GPU_COMMAND_BUFFER_HELPER_H_
 #define MEDIA_GPU_COMMAND_BUFFER_HELPER_H_
 

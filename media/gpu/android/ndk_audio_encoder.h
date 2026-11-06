@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NDK AAC audio encoder class declaration
+// summary: Declares NdkAudioEncoder, an AudioEncoder that uses the Android NDK AMediaCodec APIs to encode AAC-LC on a single task runner.
+// ---
+
 #ifndef MEDIA_GPU_ANDROID_NDK_AUDIO_ENCODER_H_
 #define MEDIA_GPU_ANDROID_NDK_AUDIO_ENCODER_H_
 

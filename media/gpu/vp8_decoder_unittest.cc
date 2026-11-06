@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VP8Decoder unit tests
+// summary: Unit tests for VP8Decoder using a mock accelerator and test VP8 frames to verify decoding behavior, picture sizes, and accelerator calls.
+// ---
+
 #include "media/gpu/vp8_decoder.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CodecImage implementation
+// summary: Implements CodecImage, which renders MediaCodec output buffers to a TextureOwner or overlay and handles promotion hints and unused notifications.
+// ---
+
 #include "media/gpu/android/codec_image.h"
 
 #include <string.h>

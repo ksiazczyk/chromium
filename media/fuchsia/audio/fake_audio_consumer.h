@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Fuchsia AudioConsumer, StreamSink and VolumeControl declarations
+// summary: Declares FakeAudioConsumer, a fake AudioConsumer, StreamSink and VolumeControl implementation used in tests.
+// ---
+
 #ifndef MEDIA_FUCHSIA_AUDIO_FAKE_AUDIO_CONSUMER_H_
 #define MEDIA_FUCHSIA_AUDIO_FAKE_AUDIO_CONSUMER_H_
 

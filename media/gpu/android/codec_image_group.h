@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CodecImageGroup class declaration
+// summary: Declares CodecImageGroup, a GPU-thread object that keeps the shared surface bundle alive while any CodecImage uses it.
+// ---
+
 #ifndef MEDIA_GPU_ANDROID_CODEC_IMAGE_GROUP_H_
 #define MEDIA_GPU_ANDROID_CODEC_IMAGE_GROUP_H_
 

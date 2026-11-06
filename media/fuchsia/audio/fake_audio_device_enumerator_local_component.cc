@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake AudioDeviceEnumerator RealmBuilder local component implementation
+// summary: Implements a fake AudioDeviceEnumerator local component that serves fake input and output devices in RealmBuilder tests.
+// ---
+
 #include "media/fuchsia/audio/fake_audio_device_enumerator_local_component.h"
 
 #include <vector>

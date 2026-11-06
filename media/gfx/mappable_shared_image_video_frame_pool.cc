@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mappable shared image video frame pool implementation
+// summary: Implements a pool of mappable shared images that asynchronously copies software VideoFrames into frames backed by native textures, recycling resources to avoid GPU round trips.
+// ---
+
 #include "media/gfx/mappable_shared_image_video_frame_pool.h"
 
 #include <GLES2/gl2.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU memory buffer validation interface
+// summary: Declares helpers to get dma-buf file sizes and verify GpuMemoryBufferHandle validity for video frames.
+// ---
+
 #ifndef MEDIA_GPU_BUFFER_VALIDATION_H_
 #define MEDIA_GPU_BUFFER_VALIDATION_H_
 

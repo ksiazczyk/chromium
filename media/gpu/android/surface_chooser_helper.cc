@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SurfaceChooserHelper implementation
+// summary: Implements SurfaceChooserHelper logic for overlay promotion state, including fullscreen relayout delays and periodic chooser retries.
+// ---
+
 #include "media/gpu/android/surface_chooser_helper.h"
 
 #include <memory>

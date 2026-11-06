@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU memory buffer validation implementation
+// summary: Implements validation of GPU memory buffer handles, checking plane counts, stride ordering, and plane sizes against video frame formats.
+// ---
+
 #include "media/gpu/buffer_validation.h"
 
 #include <sys/types.h>

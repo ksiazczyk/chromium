@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VideoFrameWriterQueue unit tests
+// summary: Unit tests verifying frame copying into VMO buffers, stride alignment for various divisors, and error handling of the writer queue.
+// ---
+
 #include "media/fuchsia/video/video_frame_writer_queue.h"
 
 #include <lib/zx/vmo.h>

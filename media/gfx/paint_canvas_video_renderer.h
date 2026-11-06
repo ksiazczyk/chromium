@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Paint canvas video renderer
+// summary: Declares PaintCanvasVideoRenderer, which paints and copies media VideoFrames onto cc::PaintCanvas surfaces with scaling, YUV conversion, and texture backing support.
+// ---
+
 #ifndef MEDIA_GFX_PAINT_CANVAS_VIDEO_RENDERER_H_
 #define MEDIA_GFX_PAINT_CANVAS_VIDEO_RENDERER_H_
 

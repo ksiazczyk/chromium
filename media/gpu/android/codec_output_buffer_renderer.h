@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CodecOutputBufferRenderer class declaration
+// summary: Declares CodecOutputBufferRenderer, which holds a CodecOutputBuffer and renders it to a TextureOwner or overlay as needed.
+// ---
+
 #ifndef MEDIA_GPU_ANDROID_CODEC_OUTPUT_BUFFER_RENDERER_H_
 #define MEDIA_GPU_ANDROID_CODEC_OUTPUT_BUFFER_RENDERER_H_
 

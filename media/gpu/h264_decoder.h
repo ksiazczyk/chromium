@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: H264 decoder class header
+// summary: Declares H264Decoder and its H264Accelerator interface for offloading the final decoding steps to platform backends.
+// ---
+
 #ifndef MEDIA_GPU_H264_DECODER_H_
 #define MEDIA_GPU_H264_DECODER_H_
 

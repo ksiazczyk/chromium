@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: H265 decoder unit tests
+// summary: Unit tests for the H265 decoder covering SPS/PPS handling, slice decoding, POC tracking, and picture output using bear test clips and gmock matchers.
+// ---
+
 #include "media/gpu/h265_decoder.h"
 
 #include <array>

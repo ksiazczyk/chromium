@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NDK MediaCodec async wrapper declaration
+// summary: Declares NdkMediaCodecWrapper, a wrapper around AMediaCodec handling async callbacks, buffer queues, and safe buffer access on Android Q+.
+// ---
+
 #ifndef MEDIA_GPU_ANDROID_NDK_MEDIA_CODEC_WRAPPER_H_
 #define MEDIA_GPU_ANDROID_NDK_MEDIA_CODEC_WRAPPER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build configuration for media/fuchsia/common
+summary: Defines the common source_set listing the Fuchsia media helper sources and their dependencies on base, media/base and Fuchsia SDK FIDL libraries.

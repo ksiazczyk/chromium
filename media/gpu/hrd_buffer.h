@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HRD buffer header
+// summary: Declares the HRD leaky-bucket buffer model used by encoders to track buffer fullness, bitrate, and smooth size transitions.
+// ---
+
 #ifndef MEDIA_GPU_HRD_BUFFER_H_
 #define MEDIA_GPU_HRD_BUFFER_H_
 

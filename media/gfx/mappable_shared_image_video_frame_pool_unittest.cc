@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the mappable shared image video frame pool
+// summary: Unit tests for MappableSharedImageVideoFramePool that exercise hardware frame creation using mock GPU factories, test task runners, and a fake tick clock.
+// ---
+
 #include "media/gfx/mappable_shared_image_video_frame_pool.h"
 
 #include <stdint.h>

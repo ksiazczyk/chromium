@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SVCLayers class header for SVC video encoding
+// summary: Defines the SVCLayers class that manages SVC spatial and temporal layer configuration, per-frame picture parameters, and encoding metadata.
+// ---
+
 #ifndef MEDIA_GPU_SVC_LAYERS_H_
 #define MEDIA_GPU_SVC_LAYERS_H_
 

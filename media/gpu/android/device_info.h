@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceInfo header
+// summary: Declares DeviceInfo, a virtual, cached interface for Android platform and decoder capability information used by media code.
+// ---
+
 #ifndef MEDIA_GPU_ANDROID_DEVICE_INFO_H_
 #define MEDIA_GPU_ANDROID_DEVICE_INFO_H_
 

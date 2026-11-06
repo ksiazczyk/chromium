@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SurfaceChooserHelper unit tests
+// summary: Unit tests for SurfaceChooserHelper covering fullscreen, rotation, persistent video, overlay requirement, and secure surface mode updates to the chooser state.
+// ---
+
 #include "media/gpu/android/surface_chooser_helper.h"
 
 #include <stdint.h>

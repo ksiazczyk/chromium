@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StreamProcessorHelper implementation
+// summary: Implements the helper for fuchsia.media.StreamProcessor, covering packet queuing, stream and buffer lifetime management, and FIDL event handling.
+// ---
+
 #include "media/fuchsia/common/stream_processor_helper.h"
 
 #include "base/fuchsia/fuchsia_logging.h"

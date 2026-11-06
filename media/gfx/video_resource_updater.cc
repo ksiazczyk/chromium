@@ -1,6 +1,13 @@
 // Copyright 2013 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: VideoResourceUpdater implementation
+// summary: Converts video frames into compositor resources, uploading or wrapping frame data as shared images or shared memory for GPU and software compositing.
+// ---
+
 #include "media/gfx/video_resource_updater.h"
 
 #include <stddef.h>

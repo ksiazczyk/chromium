@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CodecBufferWaitCoordinator class declaration
+// summary: Declares CodecBufferWaitCoordinator, which manages waiting for codec buffers to be released or rendered before use on Android.
+// ---
+
 #ifndef MEDIA_GPU_ANDROID_CODEC_BUFFER_WAIT_COORDINATOR_H_
 #define MEDIA_GPU_ANDROID_CODEC_BUFFER_WAIT_COORDINATOR_H_
 

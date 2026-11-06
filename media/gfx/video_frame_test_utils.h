@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Video frame test utility declarations
+// summary: Declares helper functions that build shared image backed test video frames in RGBA, I420, and NV12 formats with mapped color regions.
+// ---
+
 #ifndef MEDIA_GFX_VIDEO_FRAME_TEST_UTILS_H_
 #define MEDIA_GFX_VIDEO_FRAME_TEST_UTILS_H_
 

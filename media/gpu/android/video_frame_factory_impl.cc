@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoFrameFactoryImpl implementation
+// summary: Implements VideoFrameFactoryImpl, allocating texture owners on the GPU thread and creating codec output buffer backed video frames via the shared image provider.
+// ---
+
 #include "media/gpu/android/video_frame_factory_impl.h"
 
 #include <memory>

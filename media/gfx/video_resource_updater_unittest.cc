@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VideoResourceUpdater unit tests
+// summary: Unit tests for VideoResourceUpdater covering resource creation and upload behavior for hardware and software compositing paths.
+// ---
+
 #include "media/gfx/video_resource_updater.h"
 
 #include <stddef.h>

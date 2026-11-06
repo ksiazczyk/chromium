@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Codec buffer wait coordinator implementation
+// summary: Implements CodecBufferWaitCoordinator, which tracks release times and waits for TextureOwner frame availability events.
+// ---
+
 #include "media/gpu/android/codec_buffer_wait_coordinator.h"
 
 #include "base/android/scoped_hardware_buffer_fence_sync.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RGBA texture to video frame converter
+// summary: Declares CopyRGBATextureToVideoFrame, which copies a source RGBA texture into a destination YUV video frame while managing acquire and release sync tokens.
+// ---
+
 #ifndef MEDIA_GFX_VIDEO_FRAME_RGBA_TO_YUVA_CONVERTER_H_
 #define MEDIA_GFX_VIDEO_FRAME_RGBA_TO_YUVA_CONVERTER_H_
 

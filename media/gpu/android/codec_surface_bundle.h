@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CodecSurfaceBundle class header
+// summary: Declares CodecSurfaceBundle, a ref-counted Java surface paired with the overlay or texture owner that backs it for Android media codecs.
+// ---
+
 #ifndef MEDIA_GPU_ANDROID_CODEC_SURFACE_BUNDLE_H_
 #define MEDIA_GPU_ANDROID_CODEC_SURFACE_BUNDLE_H_
 

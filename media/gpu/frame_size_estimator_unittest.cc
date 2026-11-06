@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Frame size estimator unit tests
+// summary: Unit tests that run encoded frame sequences through the estimator and verify QP size and size correction statistics for different window sizes.
+// ---
+
 
 #include "media/gpu/frame_size_estimator.h"
 

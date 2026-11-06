@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Paint canvas video renderer implementation
+// summary: Implements drawing of video frames onto cc::PaintCanvas surfaces, including YUV conversion, color space handling, and GPU, SharedImage, and Skia code paths.
+// ---
+
 #include "media/gfx/paint_canvas_video_renderer.h"
 
 #include <GLES3/gl3.h>

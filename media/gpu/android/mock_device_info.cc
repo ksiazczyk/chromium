@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock device info implementation
+// summary: Implements MockDeviceInfo defaults returning Marshmallow SDK versions and permissive codec capability answers.
+// ---
+
 #include "media/gpu/android/mock_device_info.h"
 
 #include "base/android/android_info.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VP8 reference frame vector declaration
+// summary: Declares Vp8ReferenceFrameVector, which stores and retrieves the VP8 reference frame pictures used while decoding a stream.
+// ---
+
 #ifndef MEDIA_GPU_VP8_REFERENCE_FRAME_VECTOR_H_
 #define MEDIA_GPU_VP8_REFERENCE_FRAME_VECTOR_H_
 

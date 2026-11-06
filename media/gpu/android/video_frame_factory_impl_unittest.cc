@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VideoFrameFactoryImpl unit tests
+// summary: Unit tests for VideoFrameFactoryImpl using mock image provider, render-early manager, and frame info helper to verify video frame creation.
+// ---
+
 #include "media/gpu/android/video_frame_factory_impl.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeCameraStream class declaration
+// summary: Declares FakeCameraStream, a test double for the fuchsia.camera3 Stream FIDL protocol with configurable resolution, orientation and sysmem failure modes.
+// ---
+
 #ifndef MEDIA_FUCHSIA_CAMERA_FAKE_FUCHSIA_CAMERA_H_
 #define MEDIA_FUCHSIA_CAMERA_FAKE_FUCHSIA_CAMERA_H_
 

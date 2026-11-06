@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Renderable mappable SharedImage video frame pool unit tests
+// summary: Parameterized unit tests for RenderableMappableSharedImageVideoFramePool verifying SharedImage creation, frame lifetimes, and reuse across pixel formats.
+// ---
+
 #include "media/gfx/renderable_mappable_shared_image_video_frame_pool.h"
 
 #include "base/functional/callback_helpers.h"

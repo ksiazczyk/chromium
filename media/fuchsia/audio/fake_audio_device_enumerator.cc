@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Fuchsia AudioDeviceEnumerator implementation
+// summary: Implements a fake Fuchsia AudioDeviceEnumerator that reports one input and one output audio device for tests.
+// ---
+
 #include "media/fuchsia/audio/fake_audio_device_enumerator.h"
 
 #include "base/logging.h"

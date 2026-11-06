@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AcceleratedVideoDecoder interface
+// summary: Defines the base interface for hardware-accelerated video decoders covering stream input, decode, flush, and reset.
+// ---
+
 #ifndef MEDIA_GPU_ACCELERATED_VIDEO_DECODER_H_
 #define MEDIA_GPU_ACCELERATED_VIDEO_DECODER_H_
 

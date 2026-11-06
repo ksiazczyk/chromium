@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock codec image
+// summary: Declares a CodecImage subclass with a mocked ReleaseCodecBuffer method for use in tests.
+// ---
+
 #ifndef MEDIA_GPU_ANDROID_MOCK_CODEC_IMAGE_H_
 #define MEDIA_GPU_ANDROID_MOCK_CODEC_IMAGE_H_
 

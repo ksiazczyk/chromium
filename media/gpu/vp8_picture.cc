@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VP8Picture implementation
+// summary: Implements VP8Picture, a codec picture that owns a VP8 frame header and provides default downcasts to the V4L2 and Vaapi picture variants.
+// ---
+
 #include "media/gpu/vp8_picture.h"
 
 namespace media {

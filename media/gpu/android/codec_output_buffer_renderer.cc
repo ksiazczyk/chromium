@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CodecOutputBufferRenderer implementation
+// summary: Implements rendering of a codec output buffer to overlay or texture owner front and back buffers with lifecycle phase tracking.
+// ---
+
 #include "media/gpu/android/codec_output_buffer_renderer.h"
 
 #include <string.h>

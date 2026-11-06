@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AV1Decoder accelerated video decoder declaration
+// summary: Declares AV1Decoder, which parses AV1 OBU streams and offloads final decode steps to a client-provided AV1Accelerator implementation.
+// ---
+
 #ifndef MEDIA_GPU_AV1_DECODER_H_
 #define MEDIA_GPU_AV1_DECODER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: H264 decoder implementation
+// summary: Implements the accelerated H.264 decoder that parses Annex-B streams and drives an accelerator for picture and slice decoding.
+// ---
+
 #include "media/gpu/h264_decoder.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AV1 decoder implementation
+// summary: Implements the AV1 accelerated decoder, handling operating points, profiles, chroma sampling, and HDR metadata conversion.
+// ---
+
 #include "media/gpu/av1_decoder.h"
 
 #include <algorithm>

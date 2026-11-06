@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SurfaceChooserHelper class header
+// summary: Declares SurfaceChooserHelper, which manages AndroidVideoSurfaceChooser state such as surface security, fullscreen, and video rotation.
+// ---
+
 #ifndef MEDIA_GPU_ANDROID_SURFACE_CHOOSER_HELPER_H_
 #define MEDIA_GPU_ANDROID_SURFACE_CHOOSER_HELPER_H_
 

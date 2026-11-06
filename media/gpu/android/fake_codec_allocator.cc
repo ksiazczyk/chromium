@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeCodecAllocator implementation
+// summary: Implements a fake codec allocator that hands out mock MediaCodec bridges and records pending codec creation callbacks for tests.
+// ---
+
 #include "media/gpu/android/fake_codec_allocator.h"
 
 #include <memory>

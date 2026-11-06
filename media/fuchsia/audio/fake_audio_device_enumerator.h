@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Fuchsia AudioDeviceEnumerator declaration
+// summary: Declares FakeAudioDeviceEnumerator, a fake Fuchsia audio device enumeration service bound in a pseudo directory.
+// ---
+
 #ifndef MEDIA_FUCHSIA_AUDIO_FAKE_AUDIO_DEVICE_ENUMERATOR_H_
 #define MEDIA_FUCHSIA_AUDIO_FAKE_AUDIO_DEVICE_ENUMERATOR_H_
 

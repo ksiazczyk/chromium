@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StreamProcessorHelper class declaration
+// summary: Declares the StreamProcessorHelper and its IoPacket and Client interfaces for data validation, lifetime management and StreamProcessor configuration.
+// ---
+
 #ifndef MEDIA_FUCHSIA_COMMON_STREAM_PROCESSOR_HELPER_H_
 #define MEDIA_FUCHSIA_COMMON_STREAM_PROCESSOR_HELPER_H_
 

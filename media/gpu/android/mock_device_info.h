@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock device info
+// summary: Declares a DeviceInfo mock with reasonable defaults for SDK version and codec support queries in tests.
+// ---
+
 #ifndef MEDIA_GPU_ANDROID_MOCK_DEVICE_INFO_H_
 #define MEDIA_GPU_ANDROID_MOCK_DEVICE_INFO_H_
 

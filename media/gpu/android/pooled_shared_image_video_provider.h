@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PooledSharedImageVideoProvider class header
+// summary: Declares PooledSharedImageVideoProvider, which pools shared images for Android video playback and handles image returns on the GPU thread.
+// ---
+
 #ifndef MEDIA_GPU_ANDROID_POOLED_SHARED_IMAGE_VIDEO_PROVIDER_H_
 #define MEDIA_GPU_ANDROID_POOLED_SHARED_IMAGE_VIDEO_PROVIDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Codec allocator header
+// summary: Declares CodecAllocator, a singleton managing MediaCodec allocation with software fallback when the hardware path hangs.
+// ---
+
 #ifndef MEDIA_GPU_ANDROID_CODEC_ALLOCATOR_H_
 #define MEDIA_GPU_ANDROID_CODEC_ALLOCATOR_H_
 

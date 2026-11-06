@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: H264 rate control utility header
+// summary: Declares QP bounds, temporal layer limits and helper functions shared by the H.264 rate controller.
+// ---
+
 #ifndef MEDIA_GPU_H264_RATE_CONTROL_UTIL_H_
 #define MEDIA_GPU_H264_RATE_CONTROL_UTIL_H_
 

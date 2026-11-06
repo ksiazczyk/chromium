@@ -1,3 +1,9 @@
+---
+type: readme
+title: Overview of the //media/gfx directory
+summary: Explains that //media/gfx contains client-side graphics, SharedImage, canvas, and compositor presentation utilities for //media, distinct from //media/gpu.
+---
+
 # //media/gfx
 
 This directory contains client-side graphics, SharedImage, canvas, and

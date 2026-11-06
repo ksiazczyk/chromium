@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: H265 decoder interface
+// summary: Declares the H265Decoder class and its H265Accelerator interface for decoding H.265 Annex-B streams with hardware acceleration support.
+// ---
+
 #ifndef MEDIA_GPU_H265_DECODER_H_
 #define MEDIA_GPU_H265_DECODER_H_
 

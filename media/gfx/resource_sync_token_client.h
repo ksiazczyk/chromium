@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Resource sync token client
+// summary: Declares a VideoFrame::SyncTokenClient that handles sync tokens for resource return in viz release callbacks, avoiding redundant waits and token generation.
+// ---
+
 #ifndef MEDIA_GFX_RESOURCE_SYNC_TOKEN_CLIENT_H_
 #define MEDIA_GFX_RESOURCE_SYNC_TOKEN_CLIENT_H_
 

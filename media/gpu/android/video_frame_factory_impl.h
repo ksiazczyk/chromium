@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoFrameFactoryImpl header
+// summary: Declares VideoFrameFactoryImpl, which creates codec output buffer backed video frames and eagerly renders them to release decoder buffers early.
+// ---
+
 #ifndef MEDIA_GPU_ANDROID_VIDEO_FRAME_FACTORY_IMPL_H_
 #define MEDIA_GPU_ANDROID_VIDEO_FRAME_FACTORY_IMPL_H_
 

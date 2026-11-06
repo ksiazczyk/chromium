@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceInfo implementation
+// summary: Implements the DeviceInfo singleton that caches Android SDK version and codec capability queries such as VP8 decoder availability.
+// ---
+
 #include "media/gpu/android/device_info.h"
 
 #include "base/android/android_info.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU video encode accelerator factory declaration
+// summary: Declares the factory that creates and initializes video encode accelerators and queries supported profiles.
+// ---
+
 #ifndef MEDIA_GPU_GPU_VIDEO_ENCODE_ACCELERATOR_FACTORY_H_
 #define MEDIA_GPU_GPU_VIDEO_ENCODE_ACCELERATOR_FACTORY_H_
 

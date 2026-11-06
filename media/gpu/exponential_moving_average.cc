@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Exponential moving average implementation
+// summary: Implements the exponential moving average filter, including standard deviation derived from the tracked mean and mean square values.
+// ---
+
 #include "media/gpu/exponential_moving_average.h"
 
 #include <cmath>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PromotionHintAggregatorImpl implementation
+// summary: Implements promotion hint aggregation with timing rules requiring consecutive promotable frames before overlay promotion is allowed.
+// ---
+
 #include "media/gpu/android/promotion_hint_aggregator_impl.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock codec buffer wait coordinator
+// summary: Declares a CodecBufferWaitCoordinator mock with mostly fake functions for frame availability used by tests.
+// ---
+
 #ifndef MEDIA_GPU_ANDROID_MOCK_CODEC_BUFFER_WAIT_COORDINATOR_H_
 #define MEDIA_GPU_ANDROID_MOCK_CODEC_BUFFER_WAIT_COORDINATOR_H_
 

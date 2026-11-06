@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VmoBufferWriterQueue class interface
+// summary: Declares VmoBufferWriterQueue, a helper that queues DecoderBuffers, writes them to sysmem VmoBuffers and produces StreamProcessor packets with pause and reset support.
+// ---
+
 #ifndef MEDIA_FUCHSIA_COMMON_VMO_BUFFER_WRITER_QUEUE_H_
 #define MEDIA_FUCHSIA_COMMON_VMO_BUFFER_WRITER_QUEUE_H_
 

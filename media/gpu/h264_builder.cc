@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: H.264 bitstream builder implementation
+// summary: Builds packed H.264 SPS, PPS, SEI and prefix NALU bitstreams used by GPU video encoding.
+// ---
+
 #include "media/gpu/h264_builder.h"
 
 #include "base/bits.h"

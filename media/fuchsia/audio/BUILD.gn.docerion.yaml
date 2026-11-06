@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Fuchsia audio test support build configuration
+summary: Defines GN source sets bundling fake audio capturer, consumer and device enumerator code as test support for Fuchsia media tests.

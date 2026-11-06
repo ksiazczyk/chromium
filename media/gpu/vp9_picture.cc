@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VP9Picture implementation
+// summary: Implements VP9Picture, including picture duplication for show_existing_frame and default downcasts to the V4L2 and Vaapi picture variants.
+// ---
+
 #include "media/gpu/vp9_picture.h"
 
 #include <memory>

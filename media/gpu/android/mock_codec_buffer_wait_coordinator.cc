@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock codec buffer wait coordinator implementation
+// summary: Implements MockCodecBufferWaitCoordinator with fake defaults for release time and frame availability around a mock texture owner.
+// ---
+
 #include "media/gpu/android/mock_codec_buffer_wait_coordinator.h"
 
 #include "gpu/command_buffer/service/ref_counted_lock_for_test.h"

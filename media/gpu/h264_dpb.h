@@ -5,6 +5,12 @@
 // This file contains an implementation of an H.264 Decoded Picture Buffer
 // used in H264 decoders.
 
+// ---docerion
+// type: source
+// title: H264 decoded picture buffer header
+// summary: Declares H264Picture with per-picture H.264 spec state and H264DPB for managing decoded and reference pictures.
+// ---
+
 #ifndef MEDIA_GPU_H264_DPB_H_
 #define MEDIA_GPU_H264_DPB_H_
 

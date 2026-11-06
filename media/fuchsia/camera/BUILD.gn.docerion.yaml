@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Fake Fuchsia camera test support build definition
+summary: Defines the test_support source_set that builds the fake Fuchsia camera stream along with its base and FIDL dependencies.

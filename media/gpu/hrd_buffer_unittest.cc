@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HRD buffer unit tests
+// summary: Unit tests verifying HRD buffer fullness, remaining space, shrinking behavior, and overshooting across encoded frame sequences.
+// ---
+
 #include "media/gpu/hrd_buffer.h"
 
 #include <array>

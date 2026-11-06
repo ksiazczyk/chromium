@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Fuchsia AudioCapturer implementation
+// summary: Implements a fake fuchsia.media.AudioCapturer that writes audio packets to a shared VMO and produces them for tests.
+// ---
+
 #include "media/fuchsia/audio/fake_audio_capturer.h"
 
 #include <string.h>

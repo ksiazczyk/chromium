@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VP9Decoder class declaration
+// summary: Declares VP9Decoder, an AcceleratedVideoDecoder for raw VP9 streams whose VP9Accelerator interface lets clients perform the final decode steps.
+// ---
+
 #ifndef MEDIA_GPU_VP9_DECODER_H_
 #define MEDIA_GPU_VP9_DECODER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Fuchsia AudioConsumer implementation
+// summary: Implements a fake fuchsia.media.AudioConsumer with StreamSink and VolumeControl behavior for testing audio playback.
+// ---
+
 #include "media/fuchsia/audio/fake_audio_consumer.h"
 
 #include <lib/vfs/cpp/pseudo_dir.h>

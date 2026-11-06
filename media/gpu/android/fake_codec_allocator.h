@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeCodecAllocator header
+// summary: Declares FakeCodecAllocator, a configurable mock codec allocator letting tests provide mock or null codecs asynchronously.
+// ---
+
 #ifndef MEDIA_GPU_ANDROID_FAKE_CODEC_ALLOCATOR_H_
 #define MEDIA_GPU_ANDROID_FAKE_CODEC_ALLOCATOR_H_
 

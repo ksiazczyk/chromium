@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Renderable mappable SharedImage video frame pool
+// summary: Declares RenderableMappableSharedImageVideoFramePool, a thread-bound pool producing renderable MappableSharedImage-backed VideoFrames via an injectable GPU context.
+// ---
+
 #ifndef MEDIA_GFX_RENDERABLE_MAPPABLE_SHARED_IMAGE_VIDEO_FRAME_POOL_H_
 #define MEDIA_GFX_RENDERABLE_MAPPABLE_SHARED_IMAGE_VIDEO_FRAME_POOL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameInfoHelper implementation
+// summary: Implements FrameInfoHelper by rendering codec output buffers to obtain frame info such as coded size and Vulkan YCbCr info, queueing requests and logging guess-correctness metrics.
+// ---
+
 #include "media/gpu/android/frame_info_helper.h"
 
 #include "base/memory/raw_ptr.h"

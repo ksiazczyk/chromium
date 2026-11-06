@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android video surface chooser implementation
+// summary: Implements the chooser logic that switches between overlay and TextureOwner based on fullscreen, secure, compositor, and failure state.
+// ---
+
 #include "media/gpu/android/android_video_surface_chooser_impl.h"
 
 #include <memory>

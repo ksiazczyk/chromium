@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: H.264 bitstream builder unit tests
+// summary: Verifies that built H.264 SPS, PPS and prefix NALUs parse back to the original structures.
+// ---
+
 #include "media/gpu/h264_builder.h"
 
 #include "base/logging.h"

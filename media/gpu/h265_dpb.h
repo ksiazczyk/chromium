@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: H265 decoded picture buffer header
+// summary: Declares the H265 picture class with reference types and the DPB class that manages decoded pictures for display and reference.
+// ---
+
 #ifndef MEDIA_GPU_H265_DPB_H_
 #define MEDIA_GPU_H265_DPB_H_
 

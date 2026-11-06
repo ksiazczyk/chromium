@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoFrameWriterQueue class header
+// summary: Declares the VideoFrameWriterQueue class that buffers VideoFrames until VMO buffers are available, then copies them for Fuchsia video encoding.
+// ---
+
 #ifndef MEDIA_FUCHSIA_VIDEO_VIDEO_FRAME_WRITER_QUEUE_H_
 #define MEDIA_FUCHSIA_VIDEO_VIDEO_FRAME_WRITER_QUEUE_H_
 

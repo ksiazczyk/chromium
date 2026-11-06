@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for //media/gfx
+summary: Specifies the allowed include rules for media/gfx code plus extra dependencies permitted only in unittest files.

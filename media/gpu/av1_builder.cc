@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AV1 bitstream builder implementation
+// summary: Implements packing of AV1 sequence, frame, and HDR metadata OBUs according to the AV1 specification.
+// ---
+
 #include "media/gpu/av1_builder.h"
 
 #include <algorithm>

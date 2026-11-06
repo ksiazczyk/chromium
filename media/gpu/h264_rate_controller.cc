@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: H264 rate controller implementation
+// summary: Implements the H.264 rate controller that budgets bits per frame and adapts QP and frame rate to meet target bitrates.
+// ---
+
 #include "media/gpu/h264_rate_controller.h"
 
 #include <algorithm>

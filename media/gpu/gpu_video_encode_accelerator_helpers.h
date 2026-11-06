@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU video encode accelerator helpers declaration
+// summary: Declares helpers for encode bitstream buffer sizes, bitrate allocation and encoding latency metrics.
+// ---
+
 #ifndef MEDIA_GPU_GPU_VIDEO_ENCODE_ACCELERATOR_HELPERS_H_
 #define MEDIA_GPU_GPU_VIDEO_ENCODE_ACCELERATOR_HELPERS_H_
 

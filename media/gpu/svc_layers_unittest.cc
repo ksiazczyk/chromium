@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SVCLayers unit tests
+// summary: Unit tests verifying SVCLayers reference frames, temporal indices, and metadata behavior across spatial and temporal layer configurations.
+// ---
+
 
 #include "media/gpu/svc_layers.h"
 

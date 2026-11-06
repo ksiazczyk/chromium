@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Resource sync token client implementation
+// summary: Implements ResourceSyncTokenClient, minimizing GPU waits and sync token generation when returning video resources during viz release callbacks.
+// ---
+
 #include "media/gfx/resource_sync_token_client.h"
 
 #include "gpu/command_buffer/client/interface_base.h"

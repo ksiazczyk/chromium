@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: H265 bitstream builder unit tests
+// summary: Unit tests that build H.265 SPS and related NALUs and re-parse them with H265Parser to verify encoded fields such as VUI parameters.
+// ---
+
 #include "media/gpu/h265_builder.h"
 
 #include "media/filters/h26x_annex_b_bitstream_builder.h"

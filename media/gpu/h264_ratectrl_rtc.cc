@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: H264 RTC rate control implementation
+// summary: Implements the H264RateCtrlRTC real-time rate control wrapper, including configuration validation and logging of rate control and buffer fullness state.
+// ---
+
 #include "media/gpu/h264_ratectrl_rtc.h"
 
 #include <memory>

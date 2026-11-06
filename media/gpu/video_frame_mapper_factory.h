@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoFrameMapperFactory header
+// summary: Declares the VideoFrameMapperFactory with static CreateMapper methods that select a platform-dependent mapper for a format and storage type.
+// ---
+
 #ifndef MEDIA_GPU_VIDEO_FRAME_MAPPER_FACTORY_H_
 #define MEDIA_GPU_VIDEO_FRAME_MAPPER_FACTORY_H_
 

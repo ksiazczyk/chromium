@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Exponential moving average unit tests
+// summary: Unit tests that feed predefined value sequences to the moving average filter and check mean and standard deviation against expected ranges.
+// ---
+
 #include "media/gpu/exponential_moving_average.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

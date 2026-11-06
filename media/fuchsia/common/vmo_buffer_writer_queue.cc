@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VmoBufferWriterQueue implementation for stream processor input
+// summary: Implements a queue that writes pending DecoderBuffers into VmoBuffers and generates StreamProcessor packets, handling end-of-stream, pausing and buffer release.
+// ---
+
 #include "media/fuchsia/common/vmo_buffer_writer_queue.h"
 
 #include <zircon/rights.h>

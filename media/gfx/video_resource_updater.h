@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoResourceUpdater class header
+// summary: Declares VideoResourceUpdater, which produces video frame content as display compositor resources and appends video draw quads to render passes.
+// ---
+
 #ifndef MEDIA_GFX_VIDEO_RESOURCE_UPDATER_H_
 #define MEDIA_GFX_VIDEO_RESOURCE_UPDATER_H_
 
