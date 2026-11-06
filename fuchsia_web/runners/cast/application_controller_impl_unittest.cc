@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ApplicationControllerImpl unit tests
+// summary: Unit tests verifying that ApplicationControllerImpl calls the Frame API correctly for touch input, media blocking, and memory queries.
+// ---
+
 #include <chromium/cast/cpp/fidl.h>
 #include <fidl/chromium.cast/cpp/test_base.h>
 #include <fuchsia/web/cpp/fidl.h>

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS rules for Cast runner FIDL files
+summary: Assigns review ownership of all .fidl files in this directory to the Fuchsia security owners without intermediate approval.

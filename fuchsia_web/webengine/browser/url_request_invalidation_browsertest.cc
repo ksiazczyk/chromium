@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: URL request rewrite invalidation browser tests
+// summary: Browser tests checking that invalid URL request rewrite rules cause the fuchsia.web Frame to disconnect with ZX_ERR_INVALID_ARGS.
+// ---
+
 #include <fuchsia/web/cpp/fidl.h>
 
 #include "base/run_loop.h"

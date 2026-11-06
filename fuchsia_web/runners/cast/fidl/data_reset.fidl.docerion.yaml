@@ -1,0 +1,4 @@
+# Docerion header of data_reset.fidl.
+type: source
+title: DataReset FIDL protocol for persistent data deletion
+summary: Defines the DataReset protocol that deletes all persistent data stored by the Cast Runner, terminating active components before removal.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebEngine media resource provider implementation
+// summary: Implements the per-frame media resource provider, reporting AudioConsumer use and creating Fuchsia AudioConsumer sessions for frames with media sessions.
+// ---
+
 #include "fuchsia_web/webengine/browser/web_engine_media_resource_provider_impl.h"
 
 #include <lib/fidl/cpp/interface_handle.h>

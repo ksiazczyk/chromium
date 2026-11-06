@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: WebEngine common DEPS include rules
+summary: Defines allowed include dependencies for web_engine_url_loader_throttle files in the WebEngine common directory.

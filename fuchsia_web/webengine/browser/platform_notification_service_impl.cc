@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform notification service implementation
+// summary: Implements content::PlatformNotificationService with logging-only notification display and mostly unimplemented notification operations.
+// ---
+
 #include "fuchsia_web/webengine/browser/platform_notification_service_impl.h"
 
 #include <set>

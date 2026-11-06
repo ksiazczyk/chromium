@@ -1,0 +1,4 @@
+# Docerion header of cast_runner.cml.
+type: config
+title: Cast runner component manifest
+summary: Fuchsia component manifest declaring the cast runner's exposed resolver and runner protocols, capabilities, and required services.

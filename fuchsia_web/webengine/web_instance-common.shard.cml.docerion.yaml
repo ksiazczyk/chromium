@@ -1,0 +1,4 @@
+# Docerion header of web_instance-common.shard.cml.
+type: config
+title: Common WebInstance component manifest shard
+summary: Shared Fuchsia component manifest shard defining the web_engine_exe runner, exposed fuchsia.web protocols, and optional directory capabilities such as data, config, and tmp.

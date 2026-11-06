@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake application config manager interface
+// summary: Declares FakeApplicationConfigManager, a test ApplicationConfigManager that registers and returns application configs for Cast app IDs.
+// ---
+
 #ifndef FUCHSIA_WEB_RUNNERS_CAST_TEST_FAKE_APPLICATION_CONFIG_MANAGER_H_
 #define FUCHSIA_WEB_RUNNERS_CAST_TEST_FAKE_APPLICATION_CONFIG_MANAGER_H_
 

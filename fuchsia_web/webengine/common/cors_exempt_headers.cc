@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CORS exempt header set implementation
+// summary: Stores the lowercase set of HTTP header names that may bypass CORS enforcement and checks header membership against it.
+// ---
+
 #include "fuchsia_web/webengine/common/cors_exempt_headers.h"
 
 #include <string_view>

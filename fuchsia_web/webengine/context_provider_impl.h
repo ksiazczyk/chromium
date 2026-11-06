@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContextProviderImpl class declaration
+// summary: Declares the exported ContextProviderImpl class that serves fuchsia::web::ContextProvider and exposes the fuchsia.web.Debug API to clients.
+// ---
+
 #ifndef FUCHSIA_WEB_WEBENGINE_CONTEXT_PROVIDER_IMPL_H_
 #define FUCHSIA_WEB_WEBENGINE_CONTEXT_PROVIDER_IMPL_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of api_bindings.fidl.
+type: source
+title: ApiBindings FIDL protocol for Cast platform API binding scripts
+summary: Defines the ApiBindings protocol that supplies Cast platform API binding scripts to inject at page load and connects them to Agent backends via MessagePorts.

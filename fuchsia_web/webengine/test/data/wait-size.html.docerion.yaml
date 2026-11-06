@@ -1,0 +1,4 @@
+# Docerion header of wait-size.html.
+type: test
+title: Test page signaling window resize via title
+summary: HTML test page that sets its title to 'done' once the window has a non-zero size, letting tests await resize handling.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast streaming helper functions
+// summary: Implements checks for whether Cast Streaming is enabled, its MessagePort receiver origins, and WebMessage validity in WebEngine.
+// ---
+
 #include "fuchsia_web/webengine/common/cast_streaming.h"
 
 #include <string_view>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebEngineRenderFrameObserver header
+// summary: Declares a RenderFrameObserver that ties WebEngine-specific objects, including the URL request rules receiver, to the lifetime of a RenderFrame.
+// ---
+
 #ifndef FUCHSIA_WEB_WEBENGINE_RENDERER_WEB_ENGINE_RENDER_FRAME_OBSERVER_H_
 #define FUCHSIA_WEB_WEBENGINE_RENDERER_WEB_ENGINE_RENDER_FRAME_OBSERVER_H_
 

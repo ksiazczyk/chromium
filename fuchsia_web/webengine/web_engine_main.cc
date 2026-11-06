@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebEngine executable entry point
+// summary: Main entry point that loads argv.json and package config, updates the command line, and dispatches to the ContextProvider or content main.
+// ---
+
 #include "base/check.h"
 #include "base/command_line.h"
 #include "base/files/file_path.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the CookieManagerImpl class
+// summary: Declares CookieManagerImpl, which serves fuchsia.web cookie queries and change observation by reconnecting on demand to the network service cookie store.
+// ---
+
 #ifndef FUCHSIA_WEB_WEBENGINE_BROWSER_COOKIE_MANAGER_IMPL_H_
 #define FUCHSIA_WEB_WEBENGINE_BROWSER_COOKIE_MANAGER_IMPL_H_
 

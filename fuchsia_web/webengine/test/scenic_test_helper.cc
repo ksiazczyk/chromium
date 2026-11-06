@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScenicTestHelper implementation
+// summary: Creates Scenic views for browser tests using an injected stub window and prepares views for interaction by setting bounds and focus.
+// ---
+
 #include "fuchsia_web/webengine/test/scenic_test_helper.h"
 
 #include <fuchsia/ui/views/cpp/fidl.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: cast_runner component entry point
+// summary: 'Initializes logging, tracing and Fuchsia services, publishes the cast: scheme resolver and web instance host, and runs the CastRunner.'
+// ---
+
 #include <lib/async/default.h>
 #include <lib/inspect/component/cpp/component.h>
 #include <lib/sys/cpp/component_context.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContextProviderImpl implementation
+// summary: Implements fuchsia.web.ContextProvider by creating web instances through WebInstanceHost and routing the resulting Context requests to their service directory.
+// ---
+
 #include "fuchsia_web/webengine/context_provider_impl.h"
 
 #include <lib/sys/cpp/service_directory.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebEngine integration test base class
+// summary: Declares the base test class providing helpers to create WebEngine contexts and frames, navigation controllers, and test context parameters.
+// ---
+
 #ifndef FUCHSIA_WEB_WEBENGINE_WEB_ENGINE_INTEGRATION_TEST_BASE_H_
 #define FUCHSIA_WEB_WEBENGINE_WEB_ENGINE_INTEGRATION_TEST_BASE_H_
 

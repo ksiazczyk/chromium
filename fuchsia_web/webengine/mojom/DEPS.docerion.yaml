@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for Mojom traits headers
+summary: DEPS file allowing the directory's Mojom traits headers to include the FIDL interface request traits from Mojo base.

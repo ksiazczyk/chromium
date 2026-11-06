@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebEngine main delegate class declaration
+// summary: Declares the WebEngineMainDelegate class that hooks WebEngine into Chromium's content startup and creates the content, browser, and renderer clients.
+// ---
+
 #ifndef FUCHSIA_WEB_WEBENGINE_WEB_ENGINE_MAIN_DELEGATE_H_
 #define FUCHSIA_WEB_WEBENGINE_WEB_ENGINE_MAIN_DELEGATE_H_
 

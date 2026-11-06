@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebEngine browser context implementation
+// summary: Implements the content::BrowserContext for WebEngine, supporting persistent and incognito contexts with permission, client hints, and push messaging services.
+// ---
+
 #include "fuchsia_web/webengine/browser/web_engine_browser_context.h"
 
 #include <lib/fdio/namespace.h>

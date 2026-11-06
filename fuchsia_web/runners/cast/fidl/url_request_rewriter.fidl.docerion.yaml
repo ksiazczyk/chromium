@@ -1,0 +1,4 @@
+# Docerion header of url_request_rewriter.fidl.
+type: source
+title: UrlRequestRewriteRulesProvider FIDL protocol
+summary: Defines the UrlRequestRewriteRulesProvider protocol that supplies URL request rewriting rules from the Agent and re-replies when the rules change.

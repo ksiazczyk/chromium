@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Context implementation for WebEngine browser
+// summary: Implements the browser-side fuchsia.web.Context, managing frame creation, cookie manager access, DevTools, and Cast Streaming setup.
+// ---
+
 #include "fuchsia_web/webengine/browser/context_impl.h"
 
 #include <lib/fpromise/result.h>

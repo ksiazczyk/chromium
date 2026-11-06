@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebContentRunner class declaration
+// summary: Declares the WebContentRunner class that manages a fuchsia.web.Context hosting one or more WebComponents, including web instance configuration, Frame creation, and teardown callbacks.
+// ---
+
 #ifndef FUCHSIA_WEB_RUNNERS_COMMON_WEB_CONTENT_RUNNER_H_
 #define FUCHSIA_WEB_RUNNERS_COMMON_WEB_CONTENT_RUNNER_H_
 

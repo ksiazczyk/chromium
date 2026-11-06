@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote debugging port switch parsing
+// summary: Parses and validates the --remote-debugging-port command-line switch, returning the port used for WebEngine remote debugging.
+// ---
+
 #include "fuchsia_web/shell/remote_debugging_port.h"
 
 #include "base/command_line.h"

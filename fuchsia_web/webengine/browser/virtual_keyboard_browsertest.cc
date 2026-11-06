@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Virtual keyboard browser tests
+// summary: Browser tests exercising WebEngine virtual keyboard behavior, including input field modes and the fuchsia.input.virtualkeyboard controller integration.
+// ---
+
 #include <fidl/fuchsia.input.virtualkeyboard/cpp/fidl.h>
 #include <fidl/fuchsia.ui.input3/cpp/fidl.h>
 #include <lib/fit/function.h>

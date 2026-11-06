@@ -1,0 +1,4 @@
+# Docerion header of include_image.html.
+type: test
+title: Same-origin image include test page
+summary: Test page that loads a local 1x1 GIF and reports via the document title whether the image was fetched or rejected.

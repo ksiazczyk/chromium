@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebEngineAudioRenderer class declaration
+// summary: Declares the AudioRenderer and TimeSource implementation that outputs encoded audio to the Fuchsia AudioConsumer.
+// ---
+
 #ifndef FUCHSIA_WEB_WEBENGINE_RENDERER_WEB_ENGINE_AUDIO_RENDERER_H_
 #define FUCHSIA_WEB_WEBENGINE_RENDERER_WEB_ENGINE_AUDIO_RENDERER_H_
 

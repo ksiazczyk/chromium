@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ContextProviderForTest implementation
+// summary: Builds a test realm that launches WebEngine's context provider, routes required capabilities, and exposes fuchsia.web.ContextProvider to tests.
+// ---
+
 #include "fuchsia_web/webengine/test/context_provider_for_test.h"
 
 #include <lib/sys/cpp/service_directory.h>

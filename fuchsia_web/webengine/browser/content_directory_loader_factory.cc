@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content directory loader factory implementation
+// summary: Implements a URL loader factory that serves files from named content directories mounted in the browser process, handling MIME sniffing, byte ranges and response headers.
+// ---
+
 #include "fuchsia_web/webengine/browser/content_directory_loader_factory.h"
 
 #include <fuchsia/io/cpp/fidl.h>

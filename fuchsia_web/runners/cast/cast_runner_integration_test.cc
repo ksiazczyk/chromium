@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cast runner integration tests
+// summary: Integration tests for the CastRunner covering app launch, navigation, isolated content directories, and related runner behavior.
+// ---
+
 #include <chromium/cast/cpp/fidl.h>
 #include <fuchsia/camera3/cpp/fidl.h>
 #include <fuchsia/legacymetrics/cpp/fidl.h>

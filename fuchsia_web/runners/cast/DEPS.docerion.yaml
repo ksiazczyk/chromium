@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Cast runner include rules
+summary: Defines allowed include dependencies for the cast runner directory, with special rules for browser tests and main.cc.

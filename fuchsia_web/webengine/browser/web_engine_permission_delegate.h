@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebEngine permission delegate header
+// summary: Declares WebEnginePermissionDelegate, a content::PermissionControllerDelegate for WebEngine that redirects permission requests and status queries to the appropriate FramePermissionController instance.
+// ---
+
 #ifndef FUCHSIA_WEB_WEBENGINE_BROWSER_WEB_ENGINE_PERMISSION_DELEGATE_H_
 #define FUCHSIA_WEB_WEBENGINE_BROWSER_WEB_ENGINE_PERMISSION_DELEGATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FrameImpl browser tests
+// summary: Browser test suite exercising FrameImpl functionality such as navigation commands, page events, visibility, and close event reporting.
+// ---
+
 #include "fuchsia_web/webengine/browser/frame_impl.h"
 
 #include <fuchsia/element/cpp/fidl.h>

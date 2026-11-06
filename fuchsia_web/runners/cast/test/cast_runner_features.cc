@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cast runner feature flags command line builder
+// summary: Implements CommandLineFromFeatures, building a cast_runner command line that enables headless mode or disables Vulkan per test feature flags.
+// ---
+
 #include "fuchsia_web/runners/cast/test/cast_runner_features.h"
 
 #include "base/command_line.h"

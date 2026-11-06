@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast streaming helpers for the cast runner
+// summary: Declares the Cast Streaming MessagePort name and helpers to detect cast streaming application configs and compute MessagePort origins.
+// ---
+
 #ifndef FUCHSIA_WEB_RUNNERS_CAST_CAST_STREAMING_H_
 #define FUCHSIA_WEB_RUNNERS_CAST_CAST_STREAMING_H_
 

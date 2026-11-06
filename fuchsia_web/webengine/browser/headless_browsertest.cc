@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Headless rendering browser tests
+// summary: Browser tests verifying headless rendering and animation activity for WebEngine frames under headless ozone platform configuration.
+// ---
+
 #include "base/auto_reset.h"
 #include "base/test/scoped_command_line.h"
 #include "content/public/test/browser_test.h"

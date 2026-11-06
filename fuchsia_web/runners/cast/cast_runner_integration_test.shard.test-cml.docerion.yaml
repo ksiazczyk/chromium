@@ -1,0 +1,4 @@
+# Docerion header of cast_runner_integration_test.shard.test-cml.
+type: config
+title: Test realm capability routing shard for cast runner integration tests
+summary: CML shard that offers directories, protocols, dictionaries, and storage to the realm builder used by cast runner integration tests.

@@ -4,6 +4,12 @@
 
 // JavaScript test harness to be injected into receiver.html.
 
+// ---docerion
+// type: test
+// title: Cast streaming receiver test harness injector
+// summary: JavaScript test harness injected into receiver.html that counts presented video frames, tracks frame requests, and flags failure on window close for cast streaming tests.
+// ---
+
 var domAutomationController = {};
 domAutomationController._frame_count = 0;
 domAutomationController._frame_request = 0;

@@ -1,0 +1,4 @@
+# Docerion header of application_config.fidl.
+type: source
+title: ApplicationConfig FIDL definitions for Cast applications
+summary: Defines the ApplicationConfig table describing how a Cast application runs and the ApplicationConfigManager protocol that fetches a config by application ID.

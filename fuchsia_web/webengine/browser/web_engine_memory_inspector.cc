@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebEngine memory inspector implementation
+// summary: Publishes memory-instrumentation allocator dumps to Fuchsia Inspect as a lazily populated memory node, filtered by configured allocator dump names.
+// ---
+
 #include "fuchsia_web/webengine/browser/web_engine_memory_inspector.h"
 
 #include <lib/fpromise/promise.h>

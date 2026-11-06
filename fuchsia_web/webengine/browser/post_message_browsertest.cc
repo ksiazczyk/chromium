@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Post message browser tests
+// summary: Browser tests exercising Frame PostMessage functionality, including sending data to a page and bidirectional messaging through MessagePorts.
+// ---
+
 #include "base/fuchsia/mem_buffer_util.h"
 #include "base/test/test_future.h"
 #include "content/public/test/browser_test.h"

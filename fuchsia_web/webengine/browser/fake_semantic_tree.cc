@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeSemanticTree implementation
+// summary: Implements a fake Fuchsia accessibility SemanticTree that stores nodes, validates the tree, and waits for updates or commits in tests.
+// ---
+
 #include "fuchsia_web/webengine/browser/fake_semantic_tree.h"
 
 #include <lib/fidl/cpp/binding.h>

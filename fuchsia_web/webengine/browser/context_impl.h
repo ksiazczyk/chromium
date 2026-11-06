@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContextImpl header implementing the fuchsia.web Context protocol
+// summary: Declares ContextImpl, the fuchsia.web.Context implementation that owns a BrowserContext, creates and destroys Frames, and exposes the cookie manager, DevTools controller and inspect diagnostics.
+// ---
+
 #ifndef FUCHSIA_WEB_WEBENGINE_BROWSER_CONTEXT_IMPL_H_
 #define FUCHSIA_WEB_WEBENGINE_BROWSER_CONTEXT_IMPL_H_
 

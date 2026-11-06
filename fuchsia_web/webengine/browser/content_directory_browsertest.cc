@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content directory browser tests
+// summary: Browser tests that serve in-memory files through a pseudo directory and verify the WebEngine loads resources from named content directories.
+// ---
+
 #include <lib/fdio/directory.h>
 #include <lib/fdio/namespace.h>
 #include <lib/vfs/cpp/pseudo_dir.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Message port adapter between FIDL and Blink
+// summary: Implements adapters that convert and route WebMessages between fuchsia.web MessagePort FIDL channels and Blink WebMessagePorts, including transferable message ports.
+// ---
+
 #include "fuchsia_web/webengine/browser/message_port.h"
 
 #include <fuchsia/mem/cpp/fidl.h>

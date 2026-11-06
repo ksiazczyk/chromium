@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: URL request rewrite type converter unit tests
+// summary: Unit tests verifying that Fuchsia URL request rewrite rules such as add header, remove header, and query pattern substitutions convert correctly to Mojo.
+// ---
+
 #include "fuchsia_web/webengine/browser/url_request_rewrite_type_converters.h"
 
 #include <lib/fidl/cpp/binding.h>

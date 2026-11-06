@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Cast runner code owners
+summary: Lists owners for the cast runner directory and delegates review of component manifest files to the Fuchsia security owners.

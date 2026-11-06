@@ -1,0 +1,4 @@
+# Docerion header of cross_origin_include_script.html.
+type: test
+title: Cross-origin script include test page
+summary: Test page that loads set_title.js from an alternate origin to check whether the cross-origin script can change the document title.

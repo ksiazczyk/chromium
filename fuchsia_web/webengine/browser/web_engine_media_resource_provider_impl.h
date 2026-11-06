@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebEngine media resource provider header
+// summary: Declares WebEngineMediaResourceProviderImpl, a DocumentService that exposes AudioConsumer support to render frames.
+// ---
+
 #ifndef FUCHSIA_WEB_WEBENGINE_BROWSER_WEB_ENGINE_MEDIA_RESOURCE_PROVIDER_IMPL_H_
 #define FUCHSIA_WEB_WEBENGINE_BROWSER_WEB_ENGINE_MEDIA_RESOURCE_PROVIDER_IMPL_H_
 

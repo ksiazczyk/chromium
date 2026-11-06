@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Keyboard input browser tests
+// summary: Browser tests covering key event delivery, modifiers, and virtual keyboard behavior in WebEngine frames.
+// ---
+
 #include <fidl/fuchsia.input.virtualkeyboard/cpp/wire_messaging.h>
 #include <fidl/fuchsia.ui.input3/cpp/fidl.h>
 #include <lib/async/default.h>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: WebEngine Mojom build target
+summary: GN build file defining the Mojom target for the WebEngine media resource provider, including shared C++ typemaps and visibility restrictions.

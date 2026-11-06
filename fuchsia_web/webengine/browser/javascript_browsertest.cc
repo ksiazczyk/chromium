@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: JavaScript browser tests for the Fuchsia WebEngine
+// summary: Browser tests verifying before-load JavaScript injection into frames, including script replacement, injection ordering, and per-origin bindings.
+// ---
+
 #include "base/fuchsia/mem_buffer_util.h"
 #include "base/run_loop.h"
 #include "base/strings/stringprintf.h"

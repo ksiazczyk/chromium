@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebEngine content browser client declarations
+// summary: Declares WebEngineContentBrowserClient, the WebEngine embedder hooks for browser startup, navigation, networking and interface binder registration.
+// ---
+
 #ifndef FUCHSIA_WEB_WEBENGINE_BROWSER_WEB_ENGINE_CONTENT_BROWSER_CLIENT_H_
 #define FUCHSIA_WEB_WEBENGINE_BROWSER_WEB_ENGINE_CONTENT_BROWSER_CLIENT_H_
 

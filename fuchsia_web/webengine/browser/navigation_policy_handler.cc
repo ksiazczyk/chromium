@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigation policy handler implementation
+// summary: Implements NavigationPolicyHandler, forwarding navigation evaluation requests to the client's NavigationPolicyProvider and managing registered navigation throttles.
+// ---
+
 #include "fuchsia_web/webengine/browser/navigation_policy_handler.h"
 
 #include <lib/fidl/cpp/binding.h>

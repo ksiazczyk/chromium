@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebEngineContentRendererClient implementation
+// summary: Configures renderer behavior for WebEngine, including supported hardware video codecs, Widevine and PlayReady key systems, and Cast Streaming integration.
+// ---
+
 #include "fuchsia_web/webengine/renderer/web_engine_content_renderer_client.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebEngine browser main parts and FrameHost declarations
+// summary: Declares WebEngineBrowserMainParts and FrameHostImpl, which serve fuchsia.web Context and FrameHost connection requests via an incognito browser context.
+// ---
+
 #ifndef FUCHSIA_WEB_WEBENGINE_BROWSER_WEB_ENGINE_BROWSER_MAIN_PARTS_H_
 #define FUCHSIA_WEB_WEBENGINE_BROWSER_WEB_ENGINE_BROWSER_MAIN_PARTS_H_
 

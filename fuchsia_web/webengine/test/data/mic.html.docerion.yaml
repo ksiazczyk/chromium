@@ -1,0 +1,4 @@
+# Docerion header of mic.html.
+type: test
+title: Microphone permission test page
+summary: Test page that calls getUserMedia and enumerateDevices to verify microphone permission behavior, controlled by a NoPermission URL parameter.

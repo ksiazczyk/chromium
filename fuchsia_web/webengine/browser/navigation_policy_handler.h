@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigation policy handler header
+// summary: Declares NavigationPolicyHandler, which decides which navigation phases to evaluate and tracks the NavigationPolicyThrottles associated with a frame.
+// ---
+
 #ifndef FUCHSIA_WEB_WEBENGINE_BROWSER_NAVIGATION_POLICY_HANDLER_H_
 #define FUCHSIA_WEB_WEBENGINE_BROWSER_NAVIGATION_POLICY_HANDLER_H_
 

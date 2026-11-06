@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebEngineMediaRendererFactory implementation
+// summary: Implements the Fuchsia media renderer factory that creates video decoders and a renderer using WebEngineAudioRenderer backed by the Fuchsia AudioConsumer service.
+// ---
+
 #include "fuchsia_web/webengine/renderer/web_engine_media_renderer_factory.h"
 
 #include <fuchsia/media/cpp/fidl.h>

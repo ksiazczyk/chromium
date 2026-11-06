@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FrameHost isolation browser test
+// summary: Browser test verifying Frames created via fuchsia.web.FrameHost are isolated from FrameImpls of the fuchsia.web.Context.
+// ---
+
 #include <lib/sys/cpp/service_directory.h>
 
 #include "base/run_loop.h"

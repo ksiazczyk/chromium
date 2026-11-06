@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Fuchsia runners GN build targets
+summary: Defines GN source sets and executables for the Fuchsia web and Cast runners, including shared web content components and the cast_runner executable.

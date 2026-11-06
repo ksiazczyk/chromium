@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebEngine debug integration test
+// summary: Integration test that creates WebEngine contexts and frames with remote debugging enabled and verifies DevTools listener behavior against an embedded test server.
+// ---
+
 #include <fuchsia/web/cpp/fidl.h>
 #include <lib/fidl/cpp/binding.h>
 #include <lib/fidl/cpp/binding_set.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastRunner implementation
+// summary: Implements the Cast component runner, including persistent data management, staged cache deletion, and web instance configuration for Cast apps.
+// ---
+
 #include "fuchsia_web/runners/cast/cast_runner.h"
 
 #include <fuchsia/web/cpp/fidl.h>

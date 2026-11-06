@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake Cast agent component implementation
+// summary: Implements a fake Cast agent local component that publishes Cast services such as ApplicationConfigManager and CorsExemptHeaderProvider for tests.
+// ---
+
 #include "fuchsia_web/runners/cast/test/fake_cast_agent.h"
 
 #include <lib/vfs/cpp/service.h>

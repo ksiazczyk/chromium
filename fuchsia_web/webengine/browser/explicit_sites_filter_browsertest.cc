@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the explicit sites filter
+// summary: Verifies safe-search-based blocking of explicit sites, including custom error pages and filter enabled and disabled behavior, using a stub URL checker.
+// ---
+
 #include <fuchsia/mem/cpp/fidl.h>
 #include <fuchsia/web/cpp/fidl.h>
 

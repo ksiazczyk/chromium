@@ -1,0 +1,4 @@
+# Docerion header of cast_streaming_shell.cml.
+type: config
+title: Cast streaming shell component manifest
+summary: Declares the cast streaming shell Fuchsia component and routes the capabilities that WebInstanceHost needs to the realm builder.

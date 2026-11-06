@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake Cast application config manager implementation
+// summary: Fake ApplicationConfigManager that maps Cast app IDs to URLs, creates dummy app configs, and serves them including cloned content directories.
+// ---
+
 #include "fuchsia_web/runners/cast/test/fake_application_config_manager.h"
 
 #include <fuchsia/io/cpp/fidl.h>

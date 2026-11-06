@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Navigation controller unit tests
+// summary: Unit tests verifying diffing of fuchsia.web.NavigationState entries, including empty-state handling, differing URLs and titles, and accumulated differences.
+// ---
+
 #include "fuchsia_web/webengine/browser/navigation_controller_impl.h"
 
 #include <string_view>

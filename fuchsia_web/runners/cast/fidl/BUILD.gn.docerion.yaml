@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Cast runner FIDL library BUILD.gn
+summary: Defines the chromium.cast FIDL library with its sources, public Fuchsia SDK dependencies and visibility rules.

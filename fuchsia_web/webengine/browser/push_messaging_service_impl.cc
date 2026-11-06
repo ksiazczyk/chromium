@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Push messaging service implementation
+// summary: Implements the WebEngine push messaging service on top of the GCM driver, capping subscriptions at 1000 and handling subscribe, unsubscribe, and token validation flows.
+// ---
+
 #include "fuchsia_web/webengine/browser/push_messaging_service_impl.h"
 
 #include <memory>

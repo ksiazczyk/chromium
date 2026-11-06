@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ContextProviderForTest class declarations
+// summary: Declares helpers that start WebEngine and connect a ContextProvider instance for tests, including a variant exposing the Debug interface.
+// ---
+
 #ifndef FUCHSIA_WEB_WEBENGINE_TEST_CONTEXT_PROVIDER_FOR_TEST_H_
 #define FUCHSIA_WEB_WEBENGINE_TEST_CONTEXT_PROVIDER_FOR_TEST_H_
 

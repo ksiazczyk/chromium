@@ -1,0 +1,4 @@
+# Docerion header of application_context.fidl.
+type: source
+title: ApplicationContext FIDL protocol for Cast component lifecycle
+summary: Defines the ApplicationContext protocol providing media session IDs, application controller registration and graceful exit notifications for Cast components.

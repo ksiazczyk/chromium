@@ -1,0 +1,4 @@
+# Docerion header of visibility.html.
+type: test
+title: Test page reporting visibility state in title
+summary: HTML test page that sets its title to the current visibility state and updates it whenever a visibilitychange event fires.

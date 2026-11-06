@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Navigation policy throttle unit tests
+// summary: Unit tests verifying throttle behavior for main-frame and sub-frame navigation phases, including deferred and aborted navigation decisions.
+// ---
+
 #include "fuchsia_web/webengine/browser/navigation_policy_throttle.h"
 
 #include <fuchsia/web/cpp/fidl.h>

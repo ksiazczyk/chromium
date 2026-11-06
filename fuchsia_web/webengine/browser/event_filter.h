@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the EventFilter input event gate
+// summary: Declares EventFilter, a ui::EventHandler that can be configured to allow or deny specific input event types on behalf of a Frame.
+// ---
+
 #ifndef FUCHSIA_WEB_WEBENGINE_BROWSER_EVENT_FILTER_H_
 #define FUCHSIA_WEB_WEBENGINE_BROWSER_EVENT_FILTER_H_
 

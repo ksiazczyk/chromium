@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autoplay policy browser tests
+// summary: Browser tests that check video autoplay behavior under REQUIRE_USER_ACTIVATION and ALLOW autoplay policies with and without user activation.
+// ---
+
 #include "fuchsia_web/webengine/test/web_engine_browser_test.h"
 
 #include "base/files/file_path.h"

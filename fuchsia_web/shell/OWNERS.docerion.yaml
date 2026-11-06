@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners and security review rules for component manifests
+summary: Lists directory owners and requires Fuchsia security team review for .cmx and .cml component manifests.

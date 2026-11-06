@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MediaPlayerImpl unit tests
+// summary: Unit tests for MediaPlayerImpl covering client disconnect handling, FIDL error reporting, and player control behavior against a fake MediaSession.
+// ---
+
 #include "fuchsia_web/webengine/browser/media_player_impl.h"
 
 #include <fidl/fuchsia.media.sessions2/cpp/fidl.h>

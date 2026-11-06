@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Permissions browser tests
+// summary: Browser tests verifying microphone permission grants and denials for same-origin and cross-origin iframes in the WebEngine.
+// ---
+
 #include "base/fuchsia/mem_buffer_util.h"
 #include "base/strings/stringprintf.h"
 #include "base/threading/scoped_blocking_call.h"

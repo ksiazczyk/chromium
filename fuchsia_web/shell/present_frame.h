@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Frame presentation helper declarations
+// summary: Declares the PresentFrame helper that presents a web frame fullscreen and returns the GraphicalPresenter connection.
+// ---
+
 #ifndef FUCHSIA_WEB_SHELL_PRESENT_FRAME_H_
 #define FUCHSIA_WEB_SHELL_PRESENT_FRAME_H_
 

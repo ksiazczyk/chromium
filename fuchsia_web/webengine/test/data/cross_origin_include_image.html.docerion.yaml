@@ -1,0 +1,4 @@
+# Docerion header of cross_origin_include_image.html.
+type: test
+title: Cross-origin image include test page
+summary: Test page that loads a 1x1 GIF from an alternate origin and reports via the document title whether the image was fetched or rejected.

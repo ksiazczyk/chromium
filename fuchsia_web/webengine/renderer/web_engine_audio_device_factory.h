@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebEngineAudioDeviceFactory class declaration
+// summary: Declares the blink AudioDeviceFactory override that supplies audio renderer sinks for WebEngine renderer frames.
+// ---
+
 #ifndef FUCHSIA_WEB_WEBENGINE_RENDERER_WEB_ENGINE_AUDIO_DEVICE_FACTORY_H_
 #define FUCHSIA_WEB_WEBENGINE_RENDERER_WEB_ENGINE_AUDIO_DEVICE_FACTORY_H_
 

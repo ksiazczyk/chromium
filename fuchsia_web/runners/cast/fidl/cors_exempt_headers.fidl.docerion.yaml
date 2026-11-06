@@ -1,0 +1,4 @@
+# Docerion header of cors_exempt_headers.fidl.
+type: source
+title: CorsExemptHeaderProvider FIDL protocol
+summary: Defines the CorsExemptHeaderProvider protocol that returns header names exempt from CORS preflight security checks for all Cast apps.

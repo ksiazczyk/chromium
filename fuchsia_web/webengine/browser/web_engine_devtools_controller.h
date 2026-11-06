@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebEngine DevTools controller interface
+// summary: Declares the WebEngineDevToolsController interface that manages the DevTools remote-debugging server and frame debugging lifecycle.
+// ---
+
 #ifndef FUCHSIA_WEB_WEBENGINE_BROWSER_WEB_ENGINE_DEVTOOLS_CONTROLLER_H_
 #define FUCHSIA_WEB_WEBENGINE_BROWSER_WEB_ENGINE_DEVTOOLS_CONTROLLER_H_
 

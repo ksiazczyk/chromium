@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FrameImpl test base classes
+// summary: Declares base test classes for testing FrameImpl and the WebEngine Frame FIDL service, including a variant with an embedded test server.
+// ---
+
 #ifndef FUCHSIA_WEB_WEBENGINE_BROWSER_FRAME_IMPL_BROWSER_TEST_BASE_H_
 #define FUCHSIA_WEB_WEBENGINE_BROWSER_FRAME_IMPL_BROWSER_TEST_BASE_H_
 

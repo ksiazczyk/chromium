@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebEngine content client class
+// summary: Declares the ContentClient subclass that supplies resources, localization, origin trial policy, and extra schemes.
+// ---
+
 #ifndef FUCHSIA_WEB_WEBENGINE_COMMON_WEB_ENGINE_CONTENT_CLIENT_H_
 #define FUCHSIA_WEB_WEBENGINE_COMMON_WEB_ENGINE_CONTENT_CLIENT_H_
 

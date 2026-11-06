@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebEngine command-line switch declarations
+// summary: Declares the WebEngine switch constants used by the ContextProvider to configure Context processes, with comments describing each switch.
+// ---
+
 #ifndef FUCHSIA_WEB_WEBENGINE_SWITCHES_H_
 #define FUCHSIA_WEB_WEBENGINE_SWITCHES_H_
 

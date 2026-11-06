@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Frame window tree host header
+// summary: Declares FrameWindowTreeHost, the WindowTreeHostPlatform subclass used to present web content inside a web.Frame via Scenic.
+// ---
+
 #ifndef FUCHSIA_WEB_WEBENGINE_BROWSER_FRAME_WINDOW_TREE_HOST_H_
 #define FUCHSIA_WEB_WEBENGINE_BROWSER_FRAME_WINDOW_TREE_HOST_H_
 

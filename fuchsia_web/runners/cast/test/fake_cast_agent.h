@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake Cast agent component interface
+// summary: Declares FakeCastAgent, a test local component offering fake Cast agent services with configurable on-connect callbacks and expectations.
+// ---
+
 #ifndef FUCHSIA_WEB_RUNNERS_CAST_TEST_FAKE_CAST_AGENT_H_
 #define FUCHSIA_WEB_RUNNERS_CAST_TEST_FAKE_CAST_AGENT_H_
 

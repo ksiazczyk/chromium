@@ -1,0 +1,4 @@
+# Docerion header of blob.bin._metadata.
+type: test
+title: Metadata for blob.bin
+summary: JSON sidecar declaring a US-ASCII charset and the text/bleep MIME type used when serving the blob.bin test file.

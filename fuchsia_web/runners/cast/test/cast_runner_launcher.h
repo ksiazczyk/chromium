@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cast runner test launcher interface
+// summary: Declares CastRunnerLauncher, which launches an isolated cast_runner instance and exposes its services, realm prefix, and fake Cast agent to tests.
+// ---
+
 #ifndef FUCHSIA_WEB_RUNNERS_CAST_TEST_CAST_RUNNER_LAUNCHER_H_
 #define FUCHSIA_WEB_RUNNERS_CAST_TEST_CAST_RUNNER_LAUNCHER_H_
 

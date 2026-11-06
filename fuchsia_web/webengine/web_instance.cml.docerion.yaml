@@ -1,0 +1,4 @@
+# Docerion header of web_instance.cml.
+type: config
+title: WebInstance component manifest
+summary: Fuchsia component manifest used by WebInstanceHost for Contexts without a caller-provided service directory, listing required and optional capabilities per ContextFeatureFlags.

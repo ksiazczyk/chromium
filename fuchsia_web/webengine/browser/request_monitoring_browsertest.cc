@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Request monitoring browser tests
+// summary: Browser tests that accumulate embedded server requests to verify extra headers, URL request rewrites, and request monitoring for pages, web workers, and shared workers.
+// ---
+
 #include <string>
 
 #include "base/task/sequenced_task_runner.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast streaming shell executable
+// summary: Implements the cast streaming shell, which configures a WebEngine context for cast streaming, presents a fullscreen frame, and handles relaunching.
+// ---
+
 #include <fuchsia/element/cpp/fidl.h>
 #include <fuchsia/io/cpp/fidl.h>
 #include <fuchsia/web/cpp/fidl.h>

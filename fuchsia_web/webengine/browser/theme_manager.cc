@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Theme manager implementation
+// summary: Applies requested light, dark, or system themes to web preferences, watching fuchsia.settings.Display for system theme changes and reporting errors when the service is unavailable.
+// ---
+
 #include "fuchsia_web/webengine/browser/theme_manager.h"
 
 #include "base/check.h"

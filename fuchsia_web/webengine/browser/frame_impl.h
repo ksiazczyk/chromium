@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameImpl class declaration
+// summary: Declares FrameImpl, the fuchsia.web.Frame implementation that owns a WebContents and exposes Fuchsia-facing frame services.
+// ---
+
 #ifndef FUCHSIA_WEB_WEBENGINE_BROWSER_FRAME_IMPL_H_
 #define FUCHSIA_WEB_WEBENGINE_BROWSER_FRAME_IMPL_H_
 

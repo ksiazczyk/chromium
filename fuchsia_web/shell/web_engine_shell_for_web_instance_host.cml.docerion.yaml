@@ -1,0 +1,4 @@
+# Docerion header of web_engine_shell_for_web_instance_host.cml.
+type: config
+title: WebInstance host child component manifest
+summary: CML manifest for the child component launched by web_engine_shell to run WebInstanceHost with --no-relaunch.

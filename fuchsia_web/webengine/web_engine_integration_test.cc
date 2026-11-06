@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebEngine integration tests
+// summary: Runs WebEngine integration tests covering user agent handling, media playback, permissions, and other Context and Frame features.
+// ---
+
 #include <fuchsia/mediacodec/cpp/fidl.h>
 #include <fuchsia/mem/cpp/fidl.h>
 #include <lib/zx/vmo.h>

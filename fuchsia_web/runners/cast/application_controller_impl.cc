@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ApplicationControllerImpl implementation
+// summary: Implements the ApplicationController FIDL protocol, forwarding touch input, media player, media blocking, and memory requests to the web frame.
+// ---
+
 #include "fuchsia_web/runners/cast/application_controller_impl.h"
 
 #include <fidl/fuchsia.media.sessions2/cpp/hlcpp_conversion.h>

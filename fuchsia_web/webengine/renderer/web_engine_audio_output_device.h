@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebEngineAudioOutputDevice class declaration
+// summary: Declares the AudioRendererSink that sends audio directly to the Fuchsia AudioConsumer from the renderer process.
+// ---
+
 #ifndef FUCHSIA_WEB_WEBENGINE_RENDERER_WEB_ENGINE_AUDIO_OUTPUT_DEVICE_H_
 #define FUCHSIA_WEB_WEBENGINE_RENDERER_WEB_ENGINE_AUDIO_OUTPUT_DEVICE_H_
 

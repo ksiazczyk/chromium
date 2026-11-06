@@ -1,0 +1,4 @@
+# Docerion header of application_controller.fidl.
+type: source
+title: ApplicationController FIDL protocol for Cast receiver runtime
+summary: Defines the ApplicationController protocol for controlling touch input, media loading, media player access and memory footprint of Cast receiver applications.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast streaming helper declarations
+// summary: Declares functions to query Cast Streaming enablement, receiver origins, and WebMessage validity for the WebEngine.
+// ---
+
 #ifndef FUCHSIA_WEB_WEBENGINE_COMMON_CAST_STREAMING_H_
 #define FUCHSIA_WEB_WEBENGINE_COMMON_CAST_STREAMING_H_
 

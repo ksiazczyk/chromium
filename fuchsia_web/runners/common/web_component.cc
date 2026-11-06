@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebComponent implementation for Fuchsia web runners
+// summary: Implements the WebComponent base class that manages a fuchsia.web.Frame for web-based runners, covering component startup, URL loading, view creation, logging, and teardown on Frame disconnection.
+// ---
+
 #include "fuchsia_web/runners/common/web_component.h"
 
 #include <fuchsia/logger/cpp/fidl.h>

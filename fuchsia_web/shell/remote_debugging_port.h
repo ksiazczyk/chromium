@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote debugging port helper header
+// summary: Declares the remote-debugging-port switch and a helper that parses the debugging port from a command line.
+// ---
+
 #ifndef FUCHSIA_WEB_SHELL_REMOTE_DEBUGGING_PORT_H_
 #define FUCHSIA_WEB_SHELL_REMOTE_DEBUGGING_PORT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for ContextImpl and cookie persistence
+// summary: Exercises browser-level Context behavior, verifying that cookies set by a loaded page persist in the CookieManager beyond the lifetime of their Frame.
+// ---
+
 #include "base/command_line.h"
 #include "base/no_destructor.h"
 #include "base/run_loop.h"

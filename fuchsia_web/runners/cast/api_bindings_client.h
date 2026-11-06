@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ApiBindingsClient class declaration
+// summary: Declares the client that reads bindings from the ApiBindings service, injects scripts into frames, and forwards connected ports to the Agent.
+// ---
+
 #ifndef FUCHSIA_WEB_RUNNERS_CAST_API_BINDINGS_CLIENT_H_
 #define FUCHSIA_WEB_RUNNERS_CAST_API_BINDINGS_CLIENT_H_
 

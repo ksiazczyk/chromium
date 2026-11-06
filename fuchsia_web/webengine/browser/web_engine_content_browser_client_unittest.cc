@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebEngineContentBrowserClient unit tests
+// summary: Unit tests verifying that the protected service workers switch controls which service worker registrations WebEngine may delete.
+// ---
+
 #include "fuchsia_web/webengine/browser/web_engine_content_browser_client.h"
 
 #include <string_view>

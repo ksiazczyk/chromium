@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake NavigationPolicyProvider for tests
+// summary: Provides a test double NavigationPolicyProvider that records evaluated navigations and returns configurable proceed or abort decisions.
+// ---
+
 #include "fuchsia_web/webengine/browser/fake_navigation_policy_provider.h"
 
 #include "base/notimplemented.h"

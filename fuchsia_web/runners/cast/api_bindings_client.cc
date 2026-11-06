@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ApiBindingsClient implementation
+// summary: Implements the client that fetches API bindings from the Cast Agent, injects their scripts into web frames, and handles connected message ports.
+// ---
+
 #include "fuchsia_web/runners/cast/api_bindings_client.h"
 
 #include <string_view>

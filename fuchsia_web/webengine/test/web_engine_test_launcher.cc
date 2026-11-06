@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test launcher entry point for WebEngine browser tests
+// summary: Implements the main entry point that launches WebEngine browser tests via the base test launcher and configures test-specific command line switches.
+// ---
+
 #include <fuchsia/web/cpp/fidl.h>
 
 #include <utility>

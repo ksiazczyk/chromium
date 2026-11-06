@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Favicon browser tests
+// summary: Browser tests verifying favicons are not sent by default and are loaded and updated when the page changes.
+// ---
+
 #include "base/compiler_specific.h"
 #include "base/fuchsia/mem_buffer_util.h"
 #include "base/run_loop.h"

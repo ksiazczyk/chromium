@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeNavigationPolicyProvider test double header
+// summary: Declares a fake fuchsia.web.NavigationPolicyProvider that records requested navigations and can be set to abort them in tests.
+// ---
+
 #ifndef FUCHSIA_WEB_WEBENGINE_BROWSER_FAKE_NAVIGATION_POLICY_PROVIDER_H_
 #define FUCHSIA_WEB_WEBENGINE_BROWSER_FAKE_NAVIGATION_POLICY_PROVIDER_H_
 

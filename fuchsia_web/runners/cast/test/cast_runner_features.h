@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cast runner test feature bitfield
+// summary: Defines the CastRunnerFeatures bitfield with headless, Vulkan, and fake audio device enumerator flags for test cast_runner launches.
+// ---
+
 #ifndef FUCHSIA_WEB_RUNNERS_CAST_TEST_CAST_RUNNER_FEATURES_H_
 #define FUCHSIA_WEB_RUNNERS_CAST_TEST_CAST_RUNNER_FEATURES_H_
 

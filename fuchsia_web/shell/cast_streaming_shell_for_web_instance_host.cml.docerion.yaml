@@ -1,0 +1,4 @@
+# Docerion header of cast_streaming_shell_for_web_instance_host.cml.
+type: config
+title: WebInstanceHost child component manifest for cast streaming shell
+summary: Declares the child component launched by cast streaming shell to run WebInstanceHost, since the test component cannot host it directly.

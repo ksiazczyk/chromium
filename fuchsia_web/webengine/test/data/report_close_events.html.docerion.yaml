@@ -1,0 +1,4 @@
+# Docerion header of report_close_events.html.
+type: test
+title: Close event reporting test page
+summary: Test page that reports beforeunload, pagehide and unload events over a message port and can hang on an event.

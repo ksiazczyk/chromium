@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IsolatedArchivist implementation
+// summary: Redirects the outgoing LogSink service to an isolated archivist instance and connects to its fuchsia.logger.Log protocol.
+// ---
+
 #include "fuchsia_web/webengine/test/isolated_archivist.h"
 
 #include <lib/async/default.h>

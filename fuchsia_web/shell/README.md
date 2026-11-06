@@ -1,3 +1,11 @@
+---
+type: readme
+title: WebEngine Shell overview and usage
+summary: Explains how to build, run, and use the WebEngine Shell, including remote debugging and loading local files via fuchsia-dir URLs.
+relations:
+  - documents /fuchsia_web/shell/web_engine_shell.cc
+---
+
 *WebEngine Shell*
 
 The WebEngine Shell is a simple command-line executable which will create a

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Frame window tree host implementation
+// summary: Implements the aura WindowTreeHost that presents web content in a Scenic view for web.Frame, handling focus, state, and pixel scale updates.
+// ---
+
 #include "fuchsia_web/webengine/browser/frame_window_tree_host.h"
 
 #include "base/fuchsia/fuchsia_logging.h"

@@ -1,0 +1,4 @@
+# Docerion header of web_engine_integration_tests.shard.test-cml.
+type: config
+title: WebEngine integration tests CML shard
+summary: Fuchsia component manifest shard that routes capabilities such as the test UI stack, SSL certificates, and config data to WebEngine integration test realms.

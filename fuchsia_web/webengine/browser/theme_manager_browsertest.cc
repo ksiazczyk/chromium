@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Theme manager browser tests
+// summary: Browser tests verifying that WebEngine frames apply dark or light themes from the Fuchsia settings Display service and reflect them in CSS prefers-color-scheme matching.
+// ---
+
 #include <fuchsia/settings/cpp/fidl_test_base.h>
 
 #include <optional>

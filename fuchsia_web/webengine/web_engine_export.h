@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WEB_ENGINE_EXPORT macro definition
+// summary: Defines the WEB_ENGINE_EXPORT visibility macro used when building WebEngine as a component or static library.
+// ---
+
 #ifndef FUCHSIA_WEB_WEBENGINE_WEB_ENGINE_EXPORT_H_
 #define FUCHSIA_WEB_WEBENGINE_WEB_ENGINE_EXPORT_H_
 

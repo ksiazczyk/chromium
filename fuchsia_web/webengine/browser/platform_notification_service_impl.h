@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform notification service for WebEngine
+// summary: Declares the profile-level platform notification service that logs Web Notification activity for debugging instead of displaying notifications to end users.
+// ---
+
 #ifndef FUCHSIA_WEB_WEBENGINE_BROWSER_PLATFORM_NOTIFICATION_SERVICE_IMPL_H_
 #define FUCHSIA_WEB_WEBENGINE_BROWSER_PLATFORM_NOTIFICATION_SERVICE_IMPL_H_
 

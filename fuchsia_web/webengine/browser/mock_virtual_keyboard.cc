@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock virtual keyboard controller
+// summary: Implements a fake fuchsia.input.virtualkeyboard Controller and ControllerCreator for tests, letting tests await WatchVisibility calls and respond with a chosen visibility.
+// ---
+
 #include "fuchsia_web/webengine/browser/mock_virtual_keyboard.h"
 
 #include <lib/async/default.h>
