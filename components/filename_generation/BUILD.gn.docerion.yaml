@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for filename_generation
+summary: Defines the filename_generation static library and its unit test source set, listing source files and dependencies such as base, net, and url.

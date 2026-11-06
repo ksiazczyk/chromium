@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActionDiagnosticInfo wire proto
+// summary: Defines the ActionDiagnosticInfo message carrying the count of actions remaining for the feed wire protocol.
+// ---
+
 syntax = "proto2";
 
 package feedwire;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Persistent key-value store class declaration
+// summary: Declares PersistentKeyValueStoreImpl, a persistent key-value cache with size-based eviction of old entries, built on a LevelDB proto database and a serialized task queue.
+// ---
+
 #ifndef COMPONENTS_FEED_CORE_V2_PERSISTENT_KEY_VALUE_STORE_IMPL_H_
 #define COMPONENTS_FEED_CORE_V2_PERSISTENT_KEY_VALUE_STORE_IMPL_H_
 

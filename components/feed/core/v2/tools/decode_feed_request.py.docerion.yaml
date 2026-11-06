@@ -1,0 +1,4 @@
+# Docerion header of decode_feed_request.py.
+type: script
+title: Decode binary Feed request
+summary: Bash wrapper that converts a binary Feed request to text form by running textpb_to_binarypb.py in reverse for feedwire.Request.

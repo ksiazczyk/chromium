@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Redaction tool metrics recorder interface
+// summary: Declares the platform-independent metrics recorder interface plus UMA enums and histogram names for logging redacted PII, credit card detection steps and callers.
+// ---
+
 #ifndef COMPONENTS_FEEDBACK_REDACTION_TOOL_REDACTION_TOOL_METRICS_RECORDER_H_
 #define COMPONENTS_FEEDBACK_REDACTION_TOOL_REDACTION_TOOL_METRICS_RECORDER_H_
 

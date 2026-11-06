@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Feed API test fixture implementation
+// summary: Implements the FeedApiTest fixture and helpers such as model loading and state dumping used by the Feed API tests.
+// ---
+
 #include "components/feed/core/v2/api_test/feed_api_test.h"
 
 #include <string>

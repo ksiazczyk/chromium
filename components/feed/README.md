@@ -1,3 +1,9 @@
+---
+type: readme
+title: Feed Component
+summary: Describes the Feed component, which implements fetching, loading, and persisting Discover Feed content, sending actions, and recording metrics.
+---
+
 # Feed Component
 
 The Feed component provides a cross-platform implementation of many components

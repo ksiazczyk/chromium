@@ -6,6 +6,12 @@
 // xsurface API. These messages can and should depend on wire types, and the
 // Chrome UI code need not parse these.
 
+// ---docerion
+// type: source
+// title: packing.proto
+// summary: Defines pseudo-wire protos for marshalling data from the xsurface API, including a DismissData message wrapping feedwire data operations.
+// ---
+
 syntax = "proto3";
 
 package feedpacking;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemLogsFetcher implementation
+// summary: Implements SystemLogsFetcher, which collects key-value logs from registered sources, merges responses, and applies redaction except for exempt keys like ChromeOS app IDs and binary panic data.
+// ---
+
 #include "components/feedback/system_logs/system_logs_fetcher.h"
 
 #include <memory>

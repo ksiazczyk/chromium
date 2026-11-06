@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefetchImagesTask class declaration
+// summary: Declares the task that prefetches images in the feed model, tracking previously fetched URLs and a per-refresh maximum.
+// ---
+
 #ifndef COMPONENTS_FEED_CORE_V2_TASKS_PREFETCH_IMAGES_TASK_H_
 #define COMPONENTS_FEED_CORE_V2_TASKS_PREFETCH_IMAGES_TASK_H_
 

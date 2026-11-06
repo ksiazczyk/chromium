@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RedactionTool class interface
+// summary: Declares the RedactionTool class, formerly AnonymizerTool, which detects PII in text and redacts it, optionally keeping selected PII types and recording metrics.
+// ---
+
 #ifndef COMPONENTS_FEEDBACK_REDACTION_TOOL_REDACTION_TOOL_H_
 #define COMPONENTS_FEEDBACK_REDACTION_TOOL_REDACTION_TOOL_H_
 

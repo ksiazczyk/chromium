@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Feed directory metadata mixin
+summary: Points the feed directory's metadata to the shared COMMON_METADATA file for tracking and ownership settings.

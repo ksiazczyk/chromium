@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FeedbackUploader dispatch tests
+// summary: Tests feedback report dispatch and upload behavior, including retries, variation headers, and extra authorization headers, via a test URL loader factory.
+// ---
+
 #include "components/feedback/feedback_uploader.h"
 
 #include <string>

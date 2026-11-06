@@ -7,6 +7,12 @@
 // We need a copy because the components/feedback/redaction_tool source code is
 // shared into ChromeOS and needs to have no dependencies outside of base/.
 
+// ---docerion
+// type: source
+// title: IP address canonicalization implementation
+// summary: Vendored copy of url/url_canon_ip.cc implementing parsing and canonicalization of IPv4 and IPv6 addresses, including broken and neutral host handling.
+// ---
+
 #include "components/feedback/redaction_tool/url_canon_ip.h"
 
 #include <stdint.h>

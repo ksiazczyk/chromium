@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feed network and load status enums
+// summary: Defines enums for feed network request types, load types, and stream load and action upload statuses used for logging.
+// ---
+
 #ifndef COMPONENTS_FEED_CORE_V2_ENUMS_H_
 #define COMPONENTS_FEED_CORE_V2_ENUMS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeedQuery wire protobuf message
+// summary: Defines the FeedQuery protobuf message describing feed requests with pagination tokens, request reason, content ordering and fulfillment info.
+// ---
+
 syntax = "proto2";
 
 package feedwire;

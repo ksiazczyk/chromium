@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: user_actions_store.proto
+// summary: Defines a VisitMetadata proto recording feed card click timestamps, URL origins and entity mids for the unsigned personalization store.
+// ---
+
 syntax = "proto3";
 
 package feedunsignedpersonalizationstore;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeedbackReport class header
+// summary: Declares the ref-counted FeedbackReport class with on-disk backup, upload scheduling, product-specific data keys, and disk load and delete helpers.
+// ---
+
 #ifndef COMPONENTS_FEEDBACK_FEEDBACK_REPORT_H_
 #define COMPONENTS_FEEDBACK_FEEDBACK_REPORT_H_
 

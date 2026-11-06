@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PayloadMetadata protobuf definition
+// summary: Defines the PayloadMetadata protobuf message that associates a payload with its ContentId.
+// ---
+
 syntax = "proto2";
 
 package feedwire;

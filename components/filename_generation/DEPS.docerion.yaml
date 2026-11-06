@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules
+summary: Specifies the allowed include dependencies for the component, permitting components/url_formatter and net/base.

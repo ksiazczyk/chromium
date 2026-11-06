@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplayInfo wire protobuf message
+// summary: Defines the DisplayInfo protobuf message carrying screen density, width and height for the feed wire format.
+// ---
+
 syntax = "proto2";
 
 package feedwire;

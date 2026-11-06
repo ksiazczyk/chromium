@@ -4,6 +4,12 @@
 
 // Messages containing common math data structures.
 
+// ---docerion
+// type: source
+// title: Math data structure protobuf messages
+// summary: Defines protobuf messages for common math data structures, providing 2D dimensions and axis-aligned rectangles.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the copy or move delegate factory singleton
+// summary: Implements the singleton lifecycle of FileAccessCopyOrMoveDelegateFactory with Get, HasInstance and DeleteInstance methods.
+// ---
+
 #include "components/file_access/file_access_copy_or_move_delegate_factory.h"
 
 namespace file_access {

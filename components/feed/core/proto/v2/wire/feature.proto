@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feature wire protobuf message
+// summary: Defines the Feature protobuf message representing a renderable unit in the feed stream with parent info and stream, content, group or token payloads.
+// ---
+
 syntax = "proto2";
 
 package feedwire;

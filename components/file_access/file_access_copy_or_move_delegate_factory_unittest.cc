@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the copy or move delegate factory
+// summary: Tests the singleton behavior of FileAccessCopyOrMoveDelegateFactory, covering instance creation, deletion, replacement and destruction.
+// ---
+
 #include "components/file_access/file_access_copy_or_move_delegate_factory.h"
 
 #include <memory>

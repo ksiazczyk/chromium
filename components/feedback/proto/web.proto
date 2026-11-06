@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web feedback data protobuf messages
+// summary: Defines protobuf messages for web-sourced feedback, including web data, extension details, internal data and product specific data.
+// ---
+
 syntax = "proto2";
 
 package userfeedback;

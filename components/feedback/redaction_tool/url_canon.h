@@ -7,6 +7,12 @@
 // We need a copy because the components/feedback/redaction_tool source code is
 // shared into ChromeOS and needs to have no dependencies outside of base/.
 
+// ---docerion
+// type: source
+// title: URL canonicalizer interface (vendored copy)
+// summary: Vendored copy of Chromium's url/url_canon.h from 2023 providing canonicalizer output buffers and helpers, kept dependency-free for ChromeOS sharing.
+// ---
+
 #ifndef COMPONENTS_FEEDBACK_REDACTION_TOOL_URL_CANON_H_
 #define COMPONENTS_FEEDBACK_REDACTION_TOOL_URL_CANON_H_
 

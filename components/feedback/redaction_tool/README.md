@@ -1,3 +1,11 @@
+---
+type: readme
+title: 'redaction_tool: PII Redaction Tool'
+summary: Describes the PII types the redaction tool removes from feedback data and explains how to merge updates from the upstream Chromium source.
+relations:
+  - references /components/feedback/redaction_tool/BUILD.gn
+---
+
 # `redaction_tool`: PII Redaction Tool
 
 A redaction_tool redacts the following PII using a wide set of RegEx expressions:

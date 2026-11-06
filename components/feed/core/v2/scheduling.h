@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feed request scheduling declaration
+// summary: Declares the RequestSchedule struct and helpers for computing next feed refresh times and content validity from stored metadata.
+// ---
+
 #ifndef COMPONENTS_FEED_CORE_V2_SCHEDULING_H_
 #define COMPONENTS_FEED_CORE_V2_SCHEDULING_H_
 

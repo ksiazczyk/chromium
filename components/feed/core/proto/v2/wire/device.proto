@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device wire proto
+// summary: Defines the feedwire Device message carrying device manufacturer and model strings.
+// ---
+
 syntax = "proto2";
 
 package feedwire;

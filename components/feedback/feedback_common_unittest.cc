@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FeedbackCommon unit tests
+// summary: Unit tests covering report preparation, log compression thresholds, default product IDs, and crash ID removal.
+// ---
+
 #include "components/feedback/feedback_common.h"
 
 #include <cstdint>

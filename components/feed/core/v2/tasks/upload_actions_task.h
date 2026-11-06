@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UploadActionsTask class declaration
+// summary: Declares UploadActionsTask, an offline_pages task that uploads stored feed user actions in batches and hands a consistency token back to the caller for later stream loads.
+// ---
+
 #ifndef COMPONENTS_FEED_CORE_V2_TASKS_UPLOAD_ACTIONS_TASK_H_
 #define COMPONENTS_FEED_CORE_V2_TASKS_UPLOAD_ACTIONS_TASK_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeedbackReport implementation
+// summary: Implements FeedbackReport, writing report backups to disk, optionally to a temp directory for e2e testing, and loading queued reports from disk.
+// ---
+
 #include "components/feedback/feedback_report.h"
 
 #include "base/base_paths.h"

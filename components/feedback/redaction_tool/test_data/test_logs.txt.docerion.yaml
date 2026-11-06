@@ -1,0 +1,4 @@
+# Docerion header of test_logs.txt.
+type: data
+title: Test logs with sensitive data for the redaction tool
+summary: Sample log file containing crash IDs, SSIDs, URLs, network addresses, memory dumps and Bluetooth device names used as input for testing the redaction tool.

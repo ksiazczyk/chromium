@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PrivacyNoticeCardTracker unit tests
+// summary: Unit tests verifying acknowledgement thresholds, minimum view interval handling, and that non-notice-card content does not update counts.
+// ---
+
 #include "components/feed/core/v2/stream/privacy_notice_card_tracker.h"
 
 #include "base/test/scoped_feature_list.h"

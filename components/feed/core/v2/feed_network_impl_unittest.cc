@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Feed network implementation unit tests
+// summary: Unit tests for FeedNetworkImpl covering request construction, client info headers, response handling, and action uploads using a test URL loader factory.
+// ---
+
 #include "components/feed/core/v2/feed_network_impl.h"
 
 #include <memory>

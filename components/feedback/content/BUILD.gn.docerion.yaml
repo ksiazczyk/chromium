@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the feedback content component
+summary: Defines the content and factory static library targets with their source files and dependencies for the feedback content component.

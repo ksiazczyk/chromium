@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-process metrics recorder implementation
+// summary: Implements InprocessMetricsRecorder, the default RedactionToolMetricsRecorder that records redaction metrics as UMA histograms in the current process.
+// ---
+
 #include "components/feedback/redaction_tool/inprocess_metrics_recorder.h"
 
 #include <string_view>

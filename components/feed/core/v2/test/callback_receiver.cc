@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Callback receiver base implementation
+// summary: Implements CallbackReceiverBase::RunUntilCalled and Done, which block on a RunLoop until a bound test callback has fired.
+// ---
+
 #include "components/feed/core/v2/test/callback_receiver.h"
 
 namespace feed {

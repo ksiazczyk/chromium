@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XSurface datastore implementation
+// summary: Implements datastore slices and aggregates that store key-value entries and notify observers of updates and removals for the XSurface UI.
+// ---
+
 #include "components/feed/core/v2/xsurface_datastore.h"
 
 #include <iterator>

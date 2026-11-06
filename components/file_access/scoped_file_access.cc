@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the ScopedFileAccess token
+// summary: Implements the Allowed and Denied constructors of the move-only ScopedFileAccess, holding a ScopedFD lifeline on POSIX and Fuchsia.
+// ---
+
 #include "components/file_access/scoped_file_access.h"
 
 namespace file_access {

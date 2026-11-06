@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feed experiments translator declarations
+// summary: Declares the ExperimentGroup struct, the Experiments map type, and the TranslateExperiments function for feed wire experiments.
+// ---
+
 #ifndef COMPONENTS_FEED_CORE_V2_IOS_SHARED_EXPERIMENTS_TRANSLATOR_H_
 #define COMPONENTS_FEED_CORE_V2_IOS_SHARED_EXPERIMENTS_TRANSLATOR_H_
 

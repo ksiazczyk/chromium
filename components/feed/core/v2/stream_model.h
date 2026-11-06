@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stream model class declaration
+// summary: Declares the StreamModel class with its update types, observer interfaces, and accessors for feed stream content and state.
+// ---
+
 #ifndef COMPONENTS_FEED_CORE_V2_STREAM_MODEL_H_
 #define COMPONENTS_FEED_CORE_V2_STREAM_MODEL_H_
 

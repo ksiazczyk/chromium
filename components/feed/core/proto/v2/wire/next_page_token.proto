@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NextPageToken protobuf definition
+// summary: Defines the NextPageToken and TokenHandling protobuf messages used for paginating feed responses with eager or lazy load strategies.
+// ---
+
 syntax = "proto2";
 
 package feedwire;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feed stream header
+// summary: Declares FeedStream, which implements FeedApi and manages the feed model, network requests, scheduling, surfaces, and metrics reporting.
+// ---
+
 #ifndef COMPONENTS_FEED_CORE_V2_FEED_STREAM_H_
 #define COMPONENTS_FEED_CORE_V2_FEED_STREAM_H_
 

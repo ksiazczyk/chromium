@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Operation token implementation
+// summary: Implements OperationToken, a copyable token that tracks whether an Operation is alive using weak pointers, including reset and invalid-token behavior.
+// ---
+
 #include "components/feed/core/v2/operation_token.h"
 
 namespace feed {

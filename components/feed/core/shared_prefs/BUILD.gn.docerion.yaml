@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the feed_shared_prefs static library
+summary: GN build file defining the feed_shared_prefs static library from pref_names.cc and pref_names.h, depending on //components/prefs.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of ScopedFileAccessCopy
+// summary: Implements the ScopedFileAccessCopy constructors that add a scoped copy-end callback to the file access token.
+// ---
+
 #include "components/file_access/scoped_file_access_copy.h"
 
 #include <memory>

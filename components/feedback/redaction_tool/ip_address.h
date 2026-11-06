@@ -7,6 +7,12 @@
 // We need a copy because the components/feedback/redaction_tool source code is
 // shared into ChromeOS and needs to have no dependencies outside of base/.
 
+// ---docerion
+// type: source
+// title: IP address class declarations
+// summary: Declares IPAddressBytes and IPAddress for representing, parsing and comparing IPv4 and IPv6 addresses, copied from net/base/ip_address.h.
+// ---
+
 #ifndef COMPONENTS_FEEDBACK_REDACTION_TOOL_IP_ADDRESS_H_
 #define COMPONENTS_FEEDBACK_REDACTION_TOOL_IP_ADDRESS_H_
 

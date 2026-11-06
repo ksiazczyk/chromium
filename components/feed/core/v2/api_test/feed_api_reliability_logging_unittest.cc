@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Feed API reliability logging unit tests
+// summary: Unit tests checking reliability logging event sequences for feed launch, ineligibility reasons, cache clears, and network requests.
+// ---
+
 #include <cstddef>
 #include <sstream>
 

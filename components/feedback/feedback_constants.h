@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feedback product ID constants
+// summary: Defines product IDs for Chrome, ChromeOS, and AI features plus metadata keys used when submitting feedback reports.
+// ---
+
 #ifndef COMPONENTS_FEEDBACK_FEEDBACK_CONSTANTS_H_
 #define COMPONENTS_FEEDBACK_FEEDBACK_CONSTANTS_H_
 

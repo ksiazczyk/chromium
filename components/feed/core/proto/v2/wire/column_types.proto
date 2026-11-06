@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Column type kind enum wire proto
+// summary: Defines the feedwire TypeKind enum listing column data types such as int64 and uint64.
+// ---
+
 syntax = "proto2";
 
 package feedwire;

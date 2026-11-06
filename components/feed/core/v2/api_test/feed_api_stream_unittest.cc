@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Feed API stream unit tests
+// summary: Extensive unit tests covering feed stream loading, refresh scheduling, surface updates, and other FeedApi content behaviors.
+// ---
+
 #include "base/feature_list.h"
 #include "base/functional/callback_helpers.h"
 #include "base/strings/string_number_conversions.h"

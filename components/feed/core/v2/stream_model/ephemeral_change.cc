@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EphemeralChange implementation
+// summary: Implements EphemeralChange and EphemeralChangeList, which store reversible feed data operations and apply them to produce a new FeatureTree.
+// ---
+
 #include "components/feed/core/v2/stream_model/ephemeral_change.h"
 
 namespace feed {

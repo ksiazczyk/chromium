@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for UserActionsCollector
+// summary: Unit tests for UserActionsCollector covering adding and retrieving visit metadata entries, store initialization and histogram reporting.
+// ---
+
 #include "components/feed/core/v2/user_actions_collector.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemLogsSource implementation
+// summary: Implements the SystemLogsSource base class constructor and destructor that store the source's descriptive name.
+// ---
+
 #include "components/feedback/system_logs/system_logs_source.h"
 
 namespace system_logs {

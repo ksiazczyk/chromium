@@ -5,6 +5,12 @@
 // Basic messages used by all systems (extension, feedbackserver,
 // silver-bullet clustering, android etc).
 
+// ---docerion
+// type: source
+// title: Common feedback data protobuf messages
+// summary: Defines the CommonData protobuf message with fields shared by all feedback reports, such as description, user email and report identifier.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

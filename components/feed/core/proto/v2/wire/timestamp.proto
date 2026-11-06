@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Timestamp wire proto
+// summary: Defines the Timestamp message representing a point in time as seconds and nanos.
+// ---
+
 syntax = "proto3";
 
 package feedwire;

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for feedback content
+summary: Grants include access to components/keyed_service/content, content/public/browser and content/public/test within the feedback content directory.

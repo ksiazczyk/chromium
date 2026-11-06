@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeedAction wire protobuf message
+// summary: Defines the FeedAction protobuf message reporting a feed action together with its payload and client-side data such as timestamp and origin.
+// ---
+
 syntax = "proto2";
 
 package feedwire;

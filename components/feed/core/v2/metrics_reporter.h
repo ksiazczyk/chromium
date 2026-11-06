@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feed UMA metrics reporter class
+// summary: Declares MetricsReporter, which reports feed user interactions, surface open and close events, network metrics, and stream load results for UMA.
+// ---
+
 #ifndef COMPONENTS_FEED_CORE_V2_METRICS_REPORTER_H_
 #define COMPONENTS_FEED_CORE_V2_METRICS_REPORTER_H_
 

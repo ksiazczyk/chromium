@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Text proto printer declarations for feed protos
+// summary: Declares ToTextProto functions and ostream operators for feedstore, feedui, and feedwire protobuf messages used in test output.
+// ---
+
 #ifndef COMPONENTS_FEED_CORE_V2_TEST_PROTO_PRINTER_H_
 #define COMPONENTS_FEED_CORE_V2_TEST_PROTO_PRINTER_H_
 

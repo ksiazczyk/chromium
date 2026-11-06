@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for CallbackReceiver
+// summary: Unit tests verifying CallbackReceiver result storage by position and type, clearing, and waiting on posted tasks with internal and external run loops.
+// ---
+
 #include "components/feed/core/v2/test/callback_receiver.h"
 
 #include <optional>

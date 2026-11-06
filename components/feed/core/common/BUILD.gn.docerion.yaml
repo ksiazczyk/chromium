@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Feed core common BUILD.gn build definition
+summary: Defines the feed_core_common source set with the pref name sources and dependencies on prefs, base, and the feed feature list.

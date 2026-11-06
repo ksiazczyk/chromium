@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InfoCardTracker class declaration
+// summary: Declares the InfoCardTracker class that records info card view, click and dismissal counts to determine their acknowledgement states.
+// ---
+
 #ifndef COMPONENTS_FEED_CORE_V2_STREAM_INFO_CARD_TRACKER_H_
 #define COMPONENTS_FEED_CORE_V2_STREAM_INFO_CARD_TRACKER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DiffSortedRange sorted-range diff helper
+// summary: Provides a template that walks two sorted ranges in parallel and invokes a visitor with matching, left-only, or right-only items.
+// ---
+
 #ifndef COMPONENTS_FEED_CORE_V2_ALGORITHM_H_
 #define COMPONENTS_FEED_CORE_V2_ALGORITHM_H_
 

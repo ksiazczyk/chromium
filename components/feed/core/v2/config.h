@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feed Config struct definition
+// summary: Declares the Feed Config struct with default values for request limits, content staleness, background refresh, action uploads, and store sizes.
+// ---
+
 #ifndef COMPONENTS_FEED_CORE_V2_CONFIG_H_
 #define COMPONENTS_FEED_CORE_V2_CONFIG_H_
 

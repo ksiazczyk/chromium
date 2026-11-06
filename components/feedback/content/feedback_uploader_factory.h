@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeedbackUploaderFactory class declaration
+// summary: Declares the FeedbackUploaderFactory singleton that owns FeedbackUploader services and associates them with BrowserContexts.
+// ---
+
 #ifndef COMPONENTS_FEEDBACK_CONTENT_FEEDBACK_UPLOADER_FACTORY_H_
 #define COMPONENTS_FEEDBACK_CONTENT_FEEDBACK_UPLOADER_FACTORY_H_
 

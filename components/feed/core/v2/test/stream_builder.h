@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Stream structure builder declarations for feed tests
+// summary: Declares helpers for building feedstore stream structures, content IDs, records, and a generator for typical refresh response model updates in tests.
+// ---
+
 #ifndef COMPONENTS_FEED_CORE_V2_TEST_STREAM_BUILDER_H_
 #define COMPONENTS_FEED_CORE_V2_TEST_STREAM_BUILDER_H_
 

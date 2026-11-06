@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrivacyNoticeCardTracker class declaration
+// summary: Declares the PrivacyNoticeCardTracker that records notice card views and taps and exposes acknowledgement signals based on those actions.
+// ---
+
 #ifndef COMPONENTS_FEED_CORE_V2_STREAM_PRIVACY_NOTICE_CARD_TRACKER_H_
 #define COMPONENTS_FEED_CORE_V2_STREAM_PRIVACY_NOTICE_CARD_TRACKER_H_
 

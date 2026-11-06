@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedFileAccessDelegate interface
+// summary: Declares the singleton interface that delegates DLP file access checks on managed ChromeOS, with request methods for destination URLs, system IO, and default access handling.
+// ---
+
 #ifndef COMPONENTS_FILE_ACCESS_SCOPED_FILE_ACCESS_DELEGATE_H_
 #define COMPONENTS_FILE_ACCESS_SCOPED_FILE_ACCESS_DELEGATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feed shared preference names implementation
+// summary: Defines the feed::prefs preference name constants for NTP snippets and Feed visibility and registers their boolean defaults in the pref registry.
+// ---
+
 #ifndef COMPONENTS_FEED_CORE_SHARED_PREFS_PREF_NAMES_CC_
 #define COMPONENTS_FEED_CORE_SHARED_PREFS_PREF_NAMES_CC_
 

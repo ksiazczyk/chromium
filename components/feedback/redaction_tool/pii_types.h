@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PIIType enum of detectable PII categories
+// summary: Defines the PIIType enum listing the personally identifiable information categories detected in debug data, kept in sync with enums.xml.
+// ---
+
 #ifndef COMPONENTS_FEEDBACK_REDACTION_TOOL_PII_TYPES_H_
 #define COMPONENTS_FEEDBACK_REDACTION_TOOL_PII_TYPES_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feed shared preferences helpers
+// summary: Reads and writes feed preferences such as notice card counts and stored experiments, including a 2024 migration of the deprecated experiments pref.
+// ---
+
 #include "components/feed/core/v2/ios_shared_prefs.h"
 
 #include "components/feed/core/common/pref_names.h"

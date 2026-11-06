@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feed store implementation
+// summary: Implements FeedStore, persisting feed streams, content, shared states, actions, and metadata as keyed records in a LevelDB proto database.
+// ---
+
 #include "components/feed/core/v2/feed_store.h"
 
 #include <string_view>

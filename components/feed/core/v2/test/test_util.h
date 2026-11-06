@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared feed test utilities and matchers
+// summary: Declares shared feed test helpers including time and string comparison macros, the EqualsTextProto matcher, and RunLoopUntil.
+// ---
+
 #ifndef COMPONENTS_FEED_CORE_V2_TEST_TEST_UTIL_H_
 #define COMPONENTS_FEED_CORE_V2_TEST_TEST_UTIL_H_
 

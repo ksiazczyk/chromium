@@ -1,0 +1,4 @@
+# Docerion header of redaction_tool_fuzzer.dict.
+type: data
+title: Redaction tool fuzzer dictionary
+summary: libFuzzer dictionary of literals such as URLs, emails, MAC addresses, SSIDs, and serial numbers used to guide fuzzing of the redaction tool.

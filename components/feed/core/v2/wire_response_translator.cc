@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wire response translator implementation
+// summary: Implements WireResponseTranslator by forwarding feed wire response translation to the shared TranslateWireResponse function.
+// ---
+
 #include "components/feed/core/v2/wire_response_translator.h"
 
 namespace feed {

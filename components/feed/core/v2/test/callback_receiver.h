@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CallbackReceiver test helper for capturing callback results
+// summary: Declares a CallbackReceiver template that binds to base callbacks, records their arguments, and lets tests wait for and retrieve the results.
+// ---
+
 #ifndef COMPONENTS_FEED_CORE_V2_TEST_CALLBACK_RECEIVER_H_
 #define COMPONENTS_FEED_CORE_V2_TEST_CALLBACK_RECEIVER_H_
 

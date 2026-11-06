@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemLogsSource interface header
+// summary: Declares the SystemLogsSource abstract interface that log data sources implement to fetch data and return it through a callback to SystemLogsFetcher.
+// ---
+
 #ifndef COMPONENTS_FEEDBACK_SYSTEM_LOGS_SYSTEM_LOGS_SOURCE_H_
 #define COMPONENTS_FEEDBACK_SYSTEM_LOGS_SYSTEM_LOGS_SOURCE_H_
 

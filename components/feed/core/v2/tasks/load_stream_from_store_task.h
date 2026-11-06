@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoadStreamFromStoreTask class declaration
+// summary: Declares the task that attempts to load feed stream data from persistent storage, with load types for full or no content and test helpers to ignore staleness and account.
+// ---
+
 #ifndef COMPONENTS_FEED_CORE_V2_TASKS_LOAD_STREAM_FROM_STORE_TASK_H_
 #define COMPONENTS_FEED_CORE_V2_TASKS_LOAD_STREAM_FROM_STORE_TASK_H_
 

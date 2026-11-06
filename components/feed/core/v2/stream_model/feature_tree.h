@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeatureTree class declarations
+// summary: Declares ContentMap, StreamNode, and FeatureTree, the forest-like node structure underlying StreamModel that tracks content revisions.
+// ---
+
 #ifndef COMPONENTS_FEED_CORE_V2_STREAM_MODEL_FEATURE_TREE_H_
 #define COMPONENTS_FEED_CORE_V2_STREAM_MODEL_FEATURE_TREE_H_
 

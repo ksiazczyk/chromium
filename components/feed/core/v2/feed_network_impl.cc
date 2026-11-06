@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feed network implementation
+// summary: Implements the feed network layer that sends feed query, Discover API, and action upload requests to Google servers with authentication, gzip compression, and request cancellation.
+// ---
+
 #include "components/feed/core/v2/feed_network_impl.h"
 
 #include <memory>

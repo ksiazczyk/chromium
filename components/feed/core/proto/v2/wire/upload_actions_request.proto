@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Upload actions request wire proto
+// summary: Defines the UploadActionsRequest message used to upload feed actions together with consistency token, diagnostics and client info.
+// ---
+
 syntax = "proto3";
 
 package feedwire;

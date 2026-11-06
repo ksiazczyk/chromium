@@ -7,6 +7,12 @@
 // components/feedback/redaction_tool source code is shared into ChromeOS and
 // needs to have no dependencies outside of base/.
 
+// ---docerion
+// type: source
+// title: IP address parsing and representation implementation
+// summary: Implements IPAddress and IPAddressBytes, a copy of net/base/ip_address.cc circa 2023 kept dependency-free for the ChromeOS-shared redaction tool.
+// ---
+
 #include "components/feedback/redaction_tool/ip_address.h"
 
 #include <algorithm>

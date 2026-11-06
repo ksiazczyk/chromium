@@ -5,6 +5,12 @@
 // Messages containing configuration of Feedback Service
 // that control classification and processing of submitted feedbacks.
 
+// ---docerion
+// type: source
+// title: Feedback service configuration protobuf messages
+// summary: Defines protobuf messages for Feedback Service configuration, including products, feedback types, matchers and notification settings.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

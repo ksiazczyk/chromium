@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MetricsTester interface for metric collection tests
+// summary: Declares the MetricsTester interface used to test metric collection on Chromium and ChromiumOS, including histogram counts and recorder setup.
+// ---
+
 #ifndef COMPONENTS_FEEDBACK_REDACTION_TOOL_METRICS_TESTER_H_
 #define COMPONENTS_FEEDBACK_REDACTION_TOOL_METRICS_TESTER_H_
 

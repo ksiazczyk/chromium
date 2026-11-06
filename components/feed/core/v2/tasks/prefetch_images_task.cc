@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefetchImagesTask implementation
+// summary: Implements prefetching images referenced by the feed model, loading the model from the store if needed and limiting image requests per refresh.
+// ---
+
 #include "components/feed/core/v2/tasks/prefetch_images_task.h"
 
 #include <utility>

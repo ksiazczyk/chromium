@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WaitForStoreInitializeTask class declaration
+// summary: Declares WaitForStoreInitializeTask, which initializes the feed store first so other tasks can assume storage is ready, and returns the startup data to its caller.
+// ---
+
 #ifndef COMPONENTS_FEED_CORE_V2_TASKS_WAIT_FOR_STORE_INITIALIZE_TASK_H_
 #define COMPONENTS_FEED_CORE_V2_TASKS_WAIT_FOR_STORE_INITIALIZE_TASK_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of stream_dump.py.
+type: script
+title: Dump and restore the Feed stream database
+summary: Pulls the feed stream LevelDB from a connected Android device as textproto files and can push modified entries back.

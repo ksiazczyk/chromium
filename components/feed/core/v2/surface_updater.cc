@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SurfaceUpdater implementation
+// summary: Builds stream updates with slices, loading spinners and zero states from the stream model and sends them to feed surfaces to keep the UI current.
+// ---
+
 #include "components/feed/core/v2/surface_updater.h"
 
 #include <tuple>

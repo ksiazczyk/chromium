@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Persistent key-value store unit tests
+// summary: Unit tests for PersistentKeyValueStoreImpl covering put, get, delete, clear-all, and eviction of old entries based on the configured maximum store size.
+// ---
+
 #include "components/feed/core/v2/persistent_key_value_store_impl.h"
 
 #include <map>

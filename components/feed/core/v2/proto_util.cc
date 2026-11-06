@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feed proto message helpers
+// summary: Implements helpers for building feed proto messages, including client info, platform and app versions, capabilities, and feed query refresh and load-more requests.
+// ---
+
 #include "components/feed/core/v2/proto_util.h"
 
 #include <tuple>

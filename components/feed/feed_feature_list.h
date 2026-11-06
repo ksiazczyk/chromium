@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feed feature flag declarations
+// summary: Declares the exported Feed feature flags and parameters, including the consent level helper for personalized feeds.
+// ---
+
 #ifndef COMPONENTS_FEED_FEED_FEATURE_LIST_H_
 #define COMPONENTS_FEED_FEED_FEATURE_LIST_H_
 

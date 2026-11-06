@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeedEntryPointSource wire protobuf enum
+// summary: Defines the FeedEntryPointSource enum identifying which Chrome feed entry point issued a request, with several reserved values.
+// ---
+
 syntax = "proto2";
 
 package feedwire;

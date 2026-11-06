@@ -7,6 +7,12 @@
 // We need a copy because the components/feedback/redaction_tool source code is
 // shared into ChromeOS and needs to have no dependencies outside of base/.
 
+// ---docerion
+// type: source
+// title: URL parsing structures copied from Chromium for the redaction tool
+// summary: Defines the Component and Parsed structures used to split URLs into parts such as scheme, host, port, path, query, and ref, as a vendored copy of Chromium's Mozilla-derived URL parser.
+// ---
+
 #ifndef COMPONENTS_FEEDBACK_REDACTION_TOOL_URL_PARSE_H_
 #define COMPONENTS_FEEDBACK_REDACTION_TOOL_URL_PARSE_H_
 

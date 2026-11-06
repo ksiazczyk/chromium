@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feed request scheduling
+// summary: Implements serialization of request schedules, computation of the next scheduled feed refresh time, and checks for waiting on or expiring stale content.
+// ---
+
 #include "components/feed/core/v2/scheduling.h"
 
 #include <utility>

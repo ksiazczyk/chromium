@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DiffSortedRange unit tests
+// summary: Unit tests verifying DiffSortedRange behavior for empty, overlapping, and diverging sorted ranges.
+// ---
+
 #include "components/feed/core/v2/algorithm.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feedback feature flag definitions
+// summary: Defines base::Feature flags for saving feedback reports locally in e2e testing and skipping report dispatch in Tast tests.
+// ---
+
 #include "components/feedback/features.h"
 
 namespace feedback::features {

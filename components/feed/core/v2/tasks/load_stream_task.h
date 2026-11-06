@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoadStreamTask class declaration
+// summary: Declares the task that loads the feed stream model from storage or network, including options, result fields and a helper to derive launch results from network info.
+// ---
+
 #ifndef COMPONENTS_FEED_CORE_V2_TASKS_LOAD_STREAM_TASK_H_
 #define COMPONENTS_FEED_CORE_V2_TASKS_LOAD_STREAM_TASK_H_
 

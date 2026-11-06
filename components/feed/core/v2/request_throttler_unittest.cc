@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Request throttler unit tests
+// summary: Tests that the request throttler enforces per-day quotas and grants new quota after a day passes, using mock time.
+// ---
+
 #include "components/feed/core/v2/request_throttler.h"
 
 #include <memory>

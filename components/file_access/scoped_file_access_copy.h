@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedFileAccess extension with copy-end callback
+// summary: Declares ScopedFileAccessCopy, which extends ScopedFileAccess with a callback run on destruction after a copy operation finishes.
+// ---
+
 #ifndef COMPONENTS_FILE_ACCESS_SCOPED_FILE_ACCESS_COPY_H_
 #define COMPONENTS_FILE_ACCESS_SCOPED_FILE_ACCESS_COPY_H_
 

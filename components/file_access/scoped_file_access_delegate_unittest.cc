@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScopedFileAccessDelegate unit tests
+// summary: Tests the singleton lifecycle of ScopedFileAccessDelegate, covering instance creation, deletion, replacement, and scoped access execution with mock delegates.
+// ---
+
 #include "components/file_access/scoped_file_access_delegate.h"
 
 #include <memory>

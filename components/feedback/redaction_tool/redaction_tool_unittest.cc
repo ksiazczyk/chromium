@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Redaction tool unit tests
+// summary: Unit tests covering redaction of SSIDs, URLs, emails, IP addresses and other PII types, including exempt first-party extensions and kept PII types.
+// ---
+
 #include "components/feedback/redaction_tool/redaction_tool.h"
 
 #include <gtest/gtest.h>

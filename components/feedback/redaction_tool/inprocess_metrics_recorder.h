@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-process metrics recorder class declaration
+// summary: Declares InprocessMetricsRecorder, the default in-process implementation of RedactionToolMetricsRecorder that stores metrics in program memory.
+// ---
+
 #ifndef COMPONENTS_FEEDBACK_REDACTION_TOOL_INPROCESS_METRICS_RECORDER_H_
 #define COMPONENTS_FEEDBACK_REDACTION_TOOL_INPROCESS_METRICS_RECORDER_H_
 

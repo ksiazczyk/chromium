@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feedstore utility functions
+// summary: Implements feedstore helpers for stream keys, timestamp conversion, and metadata operations such as session IDs, consistency tokens, and action IDs.
+// ---
+
 #include "components/feed/core/v2/feedstore_util.h"
 
 #include <string_view>

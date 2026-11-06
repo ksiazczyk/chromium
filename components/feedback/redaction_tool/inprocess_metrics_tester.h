@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: In-process metrics tester class declaration
+// summary: Declares InprocessMetricsTester, the default MetricsTester implementation that wraps base::HistogramTester for verifying recorded metrics in tests.
+// ---
+
 #ifndef COMPONENTS_FEEDBACK_REDACTION_TOOL_INPROCESS_METRICS_TESTER_H_
 #define COMPONENTS_FEEDBACK_REDACTION_TOOL_INPROCESS_METRICS_TESTER_H_
 

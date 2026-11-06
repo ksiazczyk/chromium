@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for feed types
+// summary: Unit tests verifying serialization and deserialization of PersistentMetricsData, including default values and handling of missing fields.
+// ---
+
 #include "components/feed/core/v2/types.h"
 #include "base/json/json_reader.h"
 #include "base/json/json_writer.h"

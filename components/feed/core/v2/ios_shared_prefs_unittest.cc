@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for iOS shared feed prefs
+// summary: Tests setting and getting feed experiments in prefs and the migration of the deprecated experiments pref to the newer format.
+// ---
+
 #include "components/feed/core/v2/ios_shared_prefs.h"
 
 #include <string>

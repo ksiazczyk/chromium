@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Redaction tool fuzzer
+// summary: libFuzzer harness that feeds random inputs and randomly generated first-party extension IDs into RedactionTool to exercise redaction robustness.
+// ---
+
 #include "components/feedback/redaction_tool/redaction_tool.h"
 
 #include <fuzzer/FuzzedDataProvider.h>

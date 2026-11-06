@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeedbackCommon base class
+// summary: Declares the shared base class for feedback reports covering logs, attachments, screenshots, metadata, and product IDs.
+// ---
+
 #ifndef COMPONENTS_FEEDBACK_FEEDBACK_COMMON_H_
 #define COMPONENTS_FEEDBACK_FEEDBACK_COMMON_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feed launch reliability logger implementation
+// summary: Implements a logger that forwards feed launch, cache read, network request, and load-more reliability events to every stream surface's logging bridge.
+// ---
+
 #include "components/feed/core/v2/launch_reliability_logger.h"
 #include "base/time/time.h"
 #include "components/feed/core/proto/v2/wire/reliability_logging_enums.pb.h"
