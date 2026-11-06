@@ -1,0 +1,4 @@
+# Docerion header of name-from-related-title-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for name from related title test
+summary: Expected Blink accessibility tree snapshot for a page whose document title provides the accessible name via a related element.

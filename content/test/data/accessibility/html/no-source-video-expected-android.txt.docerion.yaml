@@ -1,0 +1,4 @@
+# Docerion header of no-source-video-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for no-source video test
+summary: Expected Android accessibility tree for a video element without a media source, showing disabled playback controls and the 'Unable to play media.' message.

@@ -1,0 +1,4 @@
+# Docerion header of menulist-aria-labelledby-overrides-label-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for menulist aria-labelledby override test
+summary: Expected Blink accessibility tree output verifying that aria-labelledby takes precedence over aria-label when naming a menulist.

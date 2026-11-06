@@ -1,0 +1,4 @@
+# Docerion header of meter-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for the meter element test
+summary: Expected Android accessibility tree dump for the meter element, listing a ProgressBar with role description meter and range values.

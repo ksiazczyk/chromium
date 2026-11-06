@@ -1,0 +1,4 @@
+# Docerion header of menu-expected-mac.txt.
+type: test
+title: Menu accessibility test expectations for macOS
+summary: Expected macOS accessibility tree for the menu test page with static text and a content list containing Cats and Dogs groups.

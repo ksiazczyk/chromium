@@ -1,0 +1,4 @@
+# Docerion header of optgroup-custom-menulist-expected-android.txt.
+type: test
+title: Optgroup custom menulist expected Android
+summary: Expected Android accessibility tree snapshot for the optgroup custom menulist test page.

@@ -1,0 +1,4 @@
+# Docerion header of object.html.
+type: test
+title: Object element accessibility test page
+summary: HTML test page embedding a Flash SWF media file through an object element for accessibility tree testing.

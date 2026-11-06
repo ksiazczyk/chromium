@@ -1,0 +1,4 @@
+# Docerion header of navigation-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for navigation test
+summary: Expected Android accessibility tree for a page with a navigation landmark containing a link named Don't click on me.

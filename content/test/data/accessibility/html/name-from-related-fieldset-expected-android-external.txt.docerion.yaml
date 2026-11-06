@@ -1,0 +1,4 @@
+# Docerion header of name-from-related-fieldset-expected-android-external.txt.
+type: test
+title: Expected Android external tree for fieldset-related accessible name test
+summary: Expected Android external accessibility tree snapshot verifying a checkbox inside a fieldset is named from the legend and label as related elements.

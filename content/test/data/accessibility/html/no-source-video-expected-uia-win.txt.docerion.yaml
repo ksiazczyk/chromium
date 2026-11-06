@@ -1,0 +1,4 @@
+# Docerion header of no-source-video-expected-uia-win.txt.
+type: test
+title: Expected UIA Windows accessibility tree for no-source video test
+summary: Expected UIA Windows accessibility tree for a video element without a media source, with disabled media controls and a video time scrubber slider.

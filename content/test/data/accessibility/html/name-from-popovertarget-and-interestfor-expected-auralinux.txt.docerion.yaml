@@ -1,0 +1,4 @@
+# Docerion header of name-from-popovertarget-and-interestfor-expected-auralinux.txt.
+type: test
+title: Expected auralinux tree for popovertarget and interestfor name test
+summary: Expected auralinux accessibility tree snapshot verifying that popovertarget and interestfor buttons are named 'popover description' via the tooltip name source.

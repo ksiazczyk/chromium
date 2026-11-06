@@ -1,0 +1,4 @@
+# Docerion header of optgroup-expected-fuchsia.txt.
+type: test
+title: Expected Fuchsia accessibility tree for optgroup test
+summary: Expected Fuchsia accessibility tree for the optgroup test, with labeled enabled and disabled groups, options and a selected combo box entry.

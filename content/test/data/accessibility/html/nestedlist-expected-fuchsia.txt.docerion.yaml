@@ -1,0 +1,4 @@
+# Docerion header of nestedlist-expected-fuchsia.txt.
+type: test
+title: Expected Fuchsia accessibility tree for nested list test
+summary: Expected Fuchsia accessibility tree snapshot for the nested ordered list test page, listing paragraphs, list elements and markers.

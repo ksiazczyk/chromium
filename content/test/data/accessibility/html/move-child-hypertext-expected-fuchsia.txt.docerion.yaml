@@ -1,0 +1,4 @@
+# Docerion header of move-child-hypertext-expected-fuchsia.txt.
+type: test
+title: Expected Fuchsia accessibility tree for move-child-hypertext
+summary: Expected Fuchsia accessibility tree for the move-child-hypertext test, showing hidden and focusable nodes under the root.

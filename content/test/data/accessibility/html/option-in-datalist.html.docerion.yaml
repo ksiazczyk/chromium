@@ -1,0 +1,4 @@
+# Docerion header of option-in-datalist.html.
+type: test
+title: Option in datalist
+summary: HTML test page with a datalist element containing several option elements for accessibility testing.

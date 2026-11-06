@@ -1,0 +1,4 @@
+# Docerion header of menulist-violation-mode-setsize-no-direct-menuitem-expected-blink.txt.
+type: test
+title: Blink expected output for menulist setsize no direct menuitem test
+summary: Expected Blink accessibility tree snapshot for the menulist setsize test without direct menuitem children.

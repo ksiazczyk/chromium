@@ -1,0 +1,4 @@
+# Docerion header of no-source-video-expected-mac.txt.
+type: test
+title: Expected Mac accessibility tree for no-source video test
+summary: Expected macOS accessibility tree for a video element without a media source, showing disabled play, mute, full screen, and media controls buttons.

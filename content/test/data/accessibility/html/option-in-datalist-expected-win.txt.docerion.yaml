@@ -1,0 +1,4 @@
+# Docerion header of option-in-datalist-expected-win.txt.
+type: test
+title: Option in datalist expected Win
+summary: Expected Windows accessibility tree snapshot for the option-in-datalist test page.

@@ -1,0 +1,4 @@
+# Docerion header of offscreen-iframe-content.html.
+type: test
+title: Offscreen iframe content test page
+summary: HTML page loaded inside an iframe for the offscreen test, containing two labeled group divs styled as onscreen and offscreen.

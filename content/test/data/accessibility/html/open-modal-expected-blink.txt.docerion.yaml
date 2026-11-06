@@ -1,0 +1,4 @@
+# Docerion header of open-modal-expected-blink.txt.
+type: test
+title: open-modal expected Blink accessibility tree
+summary: Expected Blink accessibility tree snapshots showing the page state as a modal dialog opens and updates its content.

@@ -1,0 +1,4 @@
+# Docerion header of modal-dialog-opened-expected-android.txt.
+type: test
+title: Android expected accessibility tree for modal dialog opened
+summary: Expected Android accessibility tree snapshot for the modal dialog opened test, showing the dialog subtree as the only text content.

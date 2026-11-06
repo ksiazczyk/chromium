@@ -1,0 +1,4 @@
+# Docerion header of navigation-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for navigation test
+summary: Expected macOS accessibility tree snapshot for the navigation landmark test page, showing the nav group and its link text.

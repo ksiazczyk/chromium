@@ -1,0 +1,4 @@
+# Docerion header of menulist-invoked-by-button-expected-auralinux.txt.
+type: test
+title: Expected Linux accessibility tree for button-invoked menulist test
+summary: Expected Linux accessibility tree output verifying that a menulist invoked by a button exposes the button's name as the menu's label.

@@ -1,0 +1,4 @@
+# Docerion header of multi-selectable-expected-auralinux.txt.
+type: test
+title: Multi-selectable expected Auralinux output
+summary: Expected Auralinux accessibility tree snapshot for the multi-selectable HTML test page, showing list boxes and selectable list items with selection state.

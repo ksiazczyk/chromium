@@ -1,0 +1,4 @@
+# Docerion header of menu-expected-android-external.txt.
+type: test
+title: Menu accessibility test expectations for Android external format
+summary: Expected Android external accessibility tree snapshot for the menu test page, showing a paragraph and a list with items named Cats and Dogs.

@@ -1,0 +1,4 @@
+# Docerion header of noscript-expected-android.txt.
+type: test
+title: noscript expected Android accessibility output
+summary: Expected Android accessibility tree for the noscript HTML test, marked as skipped because the tag is not mapped.

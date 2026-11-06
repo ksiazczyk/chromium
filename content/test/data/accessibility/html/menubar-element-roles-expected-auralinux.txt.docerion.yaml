@@ -1,0 +1,4 @@
+# Docerion header of menubar-element-roles-expected-auralinux.txt.
+type: test
+title: Menubar element roles test expectations for Aura Linux
+summary: Expected Aura Linux accessibility tree showing menu bar and menu item roles for File and Edit in the menubar element roles test.

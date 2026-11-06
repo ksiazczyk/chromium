@@ -1,0 +1,4 @@
+# Docerion header of min-role-tabbable-group-expected-blink.txt.
+type: test
+title: Tabbable group minimum role expected Blink accessibility tree
+summary: Expected Blink accessibility tree output for the tabbable group minimum role test page.

@@ -1,0 +1,4 @@
+# Docerion header of offscreen-select-expected-fuchsia.txt.
+type: test
+title: Offscreen select expected accessibility tree for Fuchsia
+summary: Expected Fuchsia accessibility tree snapshot for the offscreen select test page, describing onscreen and offscreen select options.

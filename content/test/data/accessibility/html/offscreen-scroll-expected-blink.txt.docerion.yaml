@@ -1,0 +1,4 @@
+# Docerion header of offscreen-scroll-expected-blink.txt.
+type: test
+title: Offscreen scroll expected accessibility tree for Blink
+summary: Expected Blink accessibility tree snapshot for the offscreen scroll test, showing buttons before and after page scrolling.

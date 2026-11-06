@@ -1,0 +1,4 @@
+# Docerion header of menu-expected-android-assist-data.txt.
+type: test
+title: Menu expected Android assist data
+summary: Expected Android assist data for the menu test page, showing the deprecated menu element exposed as a list view with list item children.

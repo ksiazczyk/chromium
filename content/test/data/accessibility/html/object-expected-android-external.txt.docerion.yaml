@@ -1,0 +1,4 @@
+# Docerion header of object-expected-android-external.txt.
+type: test
+title: object expected Android external accessibility output
+summary: Expected Android external accessibility output for the object HTML test, showing a disabled plugin object role.

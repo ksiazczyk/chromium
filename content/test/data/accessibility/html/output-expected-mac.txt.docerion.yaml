@@ -1,0 +1,4 @@
+# Docerion header of output-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for output element test
+summary: Expected macOS accessibility tree for the output element test with incrementors, static text and an application status group.

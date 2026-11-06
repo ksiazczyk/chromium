@@ -1,0 +1,4 @@
+# Docerion header of menubar-element-roles-expected-blink.txt.
+type: test
+title: Menubar element roles expected Blink accessibility tree
+summary: Expected Blink accessibility tree snapshot for the menubar element roles test page, showing menu bar and menu item roles.

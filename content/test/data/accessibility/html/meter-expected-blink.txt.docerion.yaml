@@ -1,0 +1,4 @@
+# Docerion header of meter-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for the meter element test
+summary: Expected Blink accessibility tree dump for the meter element, including valueForRange, minimum and maximum range values.

@@ -1,0 +1,4 @@
+# Docerion header of offscreen-select-expected-android-external.txt.
+type: test
+title: Offscreen select expected Android external accessibility tree
+summary: Expected Android external accessibility tree for the offscreen select test, showing onscreen and offscreen select elements.

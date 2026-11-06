@@ -1,0 +1,4 @@
+# Docerion header of noscript-expected-mac.txt.
+type: test
+title: noscript expected Mac accessibility output
+summary: Expected macOS accessibility tree for the noscript HTML test, marked as skipped because the tag is not mapped.

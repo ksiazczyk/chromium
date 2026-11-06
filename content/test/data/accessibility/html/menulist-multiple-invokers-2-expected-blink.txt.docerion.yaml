@@ -1,0 +1,4 @@
+# Docerion header of menulist-multiple-invokers-2-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for menulist-multiple-invokers-2
+summary: Expected accessibility tree dump for the menulist-multiple-invokers-2 test on the Blink platform, showing pop-up buttons, menu bars and menu items.

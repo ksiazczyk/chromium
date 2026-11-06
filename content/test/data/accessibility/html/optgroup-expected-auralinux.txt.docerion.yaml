@@ -1,0 +1,4 @@
+# Docerion header of optgroup-expected-auralinux.txt.
+type: test
+title: Expected Aura Linux accessibility tree for optgroup test
+summary: Expected Aura Linux accessibility tree for the optgroup test, showing list box, panels, list items and a combo box with menu items and position info.

@@ -1,0 +1,4 @@
+# Docerion header of name-from-popovertarget-and-interestfor-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for popovertarget and interestfor name test
+summary: Expected Android accessibility tree snapshot verifying that buttons using popovertarget and interestfor get the name 'popover description' from the popover's aria-label.

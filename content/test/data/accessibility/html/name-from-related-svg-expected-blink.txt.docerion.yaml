@@ -1,0 +1,4 @@
+# Docerion header of name-from-related-svg-expected-blink.txt.
+type: test
+title: Expected Blink output for name from related SVG title
+summary: Expected Blink accessibility tree for an SVG image whose name is derived from its title element.

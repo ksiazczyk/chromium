@@ -1,0 +1,4 @@
+# Docerion header of name-calc-focusable.html.
+type: test
+title: Name calculation focusable test page
+summary: HTML test page with script that changes tabindex and focus on a div to test accessible name calculation for focusable elements.

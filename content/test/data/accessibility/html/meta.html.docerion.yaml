@@ -1,0 +1,4 @@
+# Docerion header of meta.html.
+type: test
+title: HTML meta tag accessibility test page
+summary: HTML test page with charset and author meta tags, used as input for accessibility tree tests.

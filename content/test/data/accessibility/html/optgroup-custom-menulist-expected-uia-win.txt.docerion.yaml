@@ -1,0 +1,4 @@
+# Docerion header of optgroup-custom-menulist-expected-uia-win.txt.
+type: test
+title: Optgroup custom menulist expected UIA Win
+summary: Expected Windows UIA accessibility tree snapshot for the optgroup custom menulist test page.

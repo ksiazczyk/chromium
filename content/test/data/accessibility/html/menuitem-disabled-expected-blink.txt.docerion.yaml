@@ -1,0 +1,4 @@
+# Docerion header of menuitem-disabled-expected-blink.txt.
+type: test
+title: Menuitem disabled expected Blink accessibility tree
+summary: Expected Blink accessibility tree for the disabled menu item test page, showing restriction and checked state properties.

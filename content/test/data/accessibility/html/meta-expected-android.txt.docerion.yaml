@@ -1,0 +1,4 @@
+# Docerion header of meta-expected-android.txt.
+type: test
+title: Android expected output for meta accessibility test
+summary: Expected Android accessibility tree snapshot for the meta test, marked as skipped because the element is not mapped.

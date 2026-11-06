@@ -1,0 +1,4 @@
+# Docerion header of offscreen-iframe-expected-uia-win.txt.
+type: test
+title: Offscreen iframe expected accessibility tree for UIA on Windows
+summary: Expected UIA on Windows accessibility tree snapshot for the offscreen iframe test with onscreen and offscreen iframe groups.

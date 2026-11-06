@@ -1,0 +1,4 @@
+# Docerion header of min-role.html.
+type: test
+title: Minimum role accessibility test
+summary: HTML test page checking minimum roles for autofocus and draggable elements per the HTML-AAM proposal.

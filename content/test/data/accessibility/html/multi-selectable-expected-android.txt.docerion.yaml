@@ -1,0 +1,4 @@
+# Docerion header of multi-selectable-expected-android.txt.
+type: test
+title: Multi-selectable expected Android output
+summary: Expected Android accessibility tree snapshot for the multi-selectable HTML test page, showing multiselectable list views and their selected options.

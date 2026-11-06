@@ -1,0 +1,4 @@
+# Docerion header of menulist-invoker-haspopup-expected-auralinux.txt.
+type: test
+title: Expected auralinux output for menulist invoker haspopup test
+summary: Expected Linux accessibility tree for the menulist invoker haspopup test, showing push buttons with haspopup and a menu bar with one menu item.

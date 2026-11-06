@@ -1,0 +1,4 @@
+# Docerion header of optgroup-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data accessibility tree for optgroup test
+summary: Expected Android assist data output describing the accessibility tree of the optgroup select test, including select, optgroup and option nodes with htmlInfo.

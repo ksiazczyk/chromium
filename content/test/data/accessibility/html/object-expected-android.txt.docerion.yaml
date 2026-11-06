@@ -1,0 +1,4 @@
+# Docerion header of object-expected-android.txt.
+type: test
+title: object expected Android accessibility output
+summary: Expected Android accessibility tree for the object HTML test, showing a disabled view with an object role description.

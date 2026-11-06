@@ -1,0 +1,4 @@
+# Docerion header of min-role-in-grid.html.
+type: test
+title: Minimum role in grid accessibility test
+summary: HTML test page checking that the HTML-AAM minimum role change does not affect the naming of rows in a grid.

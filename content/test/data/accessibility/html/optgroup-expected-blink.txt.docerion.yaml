@@ -1,0 +1,4 @@
+# Docerion header of optgroup-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for optgroup test
+summary: Expected Blink accessibility tree for the optgroup test, covering list box, groups, list box options and a collapsed combo box with menu list popup.

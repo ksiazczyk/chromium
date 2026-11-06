@@ -1,0 +1,4 @@
+# Docerion header of modal-dialog-in-iframe-opened-expected-mac.txt.
+type: test
+title: Mac expected accessibility tree for modal dialog in iframe opened
+summary: Expected macOS accessibility tree snapshot for the test page that opens a modal dialog inside an iframe.

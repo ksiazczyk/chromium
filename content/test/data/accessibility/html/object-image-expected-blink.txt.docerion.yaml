@@ -1,0 +1,4 @@
+# Docerion header of object-image-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for object image test
+summary: Expected Blink accessibility tree snapshot for the object-image HTML test, describing the plugin object and its surrounding containers.

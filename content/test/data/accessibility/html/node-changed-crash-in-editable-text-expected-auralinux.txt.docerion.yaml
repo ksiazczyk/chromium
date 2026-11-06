@@ -1,0 +1,4 @@
+# Docerion header of node-changed-crash-in-editable-text-expected-auralinux.txt.
+type: test
+title: Node changed crash in editable text expected Aura Linux tree
+summary: Expected Aura Linux accessibility tree snapshot for the editable text node-changed crash test.

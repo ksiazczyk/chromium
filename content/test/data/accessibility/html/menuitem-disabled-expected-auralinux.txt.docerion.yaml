@@ -1,0 +1,4 @@
+# Docerion header of menuitem-disabled-expected-auralinux.txt.
+type: test
+title: Menuitem disabled expected Linux accessibility tree
+summary: Expected Linux accessibility tree for the disabled menu item test page, including sensitive and checked state details.

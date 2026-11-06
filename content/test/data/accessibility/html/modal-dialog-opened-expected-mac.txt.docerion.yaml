@@ -1,0 +1,4 @@
+# Docerion header of modal-dialog-opened-expected-mac.txt.
+type: test
+title: Mac expected accessibility tree for modal dialog opened
+summary: Expected macOS accessibility tree snapshot for the modal dialog opened test, showing an application dialog subrole group.

@@ -1,0 +1,4 @@
+# Docerion header of no-source-video-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for no-source video test
+summary: Expected Blink accessibility tree for a video element without a media source, including disabled media controls and an invisible video time scrubber slider.

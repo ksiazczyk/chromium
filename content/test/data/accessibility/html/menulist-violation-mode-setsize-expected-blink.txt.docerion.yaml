@@ -1,0 +1,4 @@
+# Docerion header of menulist-violation-mode-setsize-expected-blink.txt.
+type: test
+title: Blink expected output for menulist violation mode setsize accessibility test
+summary: Expected Blink accessibility tree snapshot for the menulist violation mode setsize test, listing menus, list items and buttons with setSize and posInSet values.

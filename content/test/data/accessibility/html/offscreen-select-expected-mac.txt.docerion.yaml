@@ -1,0 +1,4 @@
+# Docerion header of offscreen-select-expected-mac.txt.
+type: test
+title: Offscreen select expected accessibility tree for macOS
+summary: Expected macOS accessibility tree snapshot for the offscreen select test page, showing popup buttons with their selected menu items.

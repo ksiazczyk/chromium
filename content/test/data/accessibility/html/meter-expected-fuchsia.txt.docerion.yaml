@@ -1,0 +1,4 @@
+# Docerion header of meter-expected-fuchsia.txt.
+type: test
+title: Expected Fuchsia accessibility tree for the meter element test
+summary: Expected Fuchsia accessibility tree dump for the meter element test page, listing UNKNOWN nodes with focus and hidden states.

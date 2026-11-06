@@ -1,0 +1,4 @@
+# Docerion header of optgroup-menulist-expected-win.txt.
+type: test
+title: Optgroup menulist expected Windows output
+summary: Expected Windows MSAA/IA2 accessibility tree snapshot for the optgroup menulist test page.

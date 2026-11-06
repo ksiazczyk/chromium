@@ -1,0 +1,4 @@
+# Docerion header of name-from-related-title-expected-android-external.txt.
+type: test
+title: Expected Android external output for name from document title
+summary: Expected Android external accessibility tree for a page whose root web area name comes from the document title.

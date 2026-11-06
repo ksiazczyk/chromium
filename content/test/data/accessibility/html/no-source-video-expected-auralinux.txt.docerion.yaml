@@ -1,0 +1,4 @@
+# Docerion header of no-source-video-expected-auralinux.txt.
+type: test
+title: Expected AuraLinux accessibility tree for no-source video test
+summary: Expected AuraLinux accessibility tree for a video element without a media source, listing disabled play, mute, full screen, and media controls buttons.

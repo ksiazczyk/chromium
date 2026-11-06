@@ -1,0 +1,4 @@
+# Docerion header of output-expected-fuchsia.txt.
+type: test
+title: Expected Fuchsia accessibility tree for output element test
+summary: Expected Fuchsia accessibility tree for the output element test, showing spin buttons and static text labels.

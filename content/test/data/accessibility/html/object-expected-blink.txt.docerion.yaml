@@ -1,0 +1,4 @@
+# Docerion header of object-expected-blink.txt.
+type: test
+title: Expected accessibility tree for object element in Blink
+summary: Expected Blink accessibility tree snapshot for an HTML object element test.

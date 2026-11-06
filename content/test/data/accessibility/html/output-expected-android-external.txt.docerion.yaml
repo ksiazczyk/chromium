@@ -1,0 +1,4 @@
+# Docerion header of output-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility tree for output element test
+summary: Expected Android external-format accessibility tree for the output element test, including spin buttons and a live-region status node.

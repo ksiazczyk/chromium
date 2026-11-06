@@ -1,0 +1,4 @@
+# Docerion header of micro-clearfix-hack.html.
+type: test
+title: Micro clearfix hack accessibility test
+summary: HTML test page using the micro clearfix hack to check that containing floats adds no extra blank text to accessibility output.

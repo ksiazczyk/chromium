@@ -1,0 +1,4 @@
+# Docerion header of name-from-popovertarget-and-interestfor-expected-android-external.txt.
+type: test
+title: Name from popovertarget and interestfor expected Android external output
+summary: Expected Android accessibility tree snapshot in external format for the name-from-popovertarget-and-interestfor test page, showing buttons with popover descriptions.

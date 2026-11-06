@@ -1,0 +1,4 @@
+# Docerion header of output-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data tree for output element test
+summary: Expected accessibility tree snapshot for the output element test in Android assist data format, covering the form, number inputs and output node.

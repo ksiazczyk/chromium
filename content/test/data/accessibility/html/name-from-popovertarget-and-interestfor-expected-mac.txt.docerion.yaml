@@ -1,0 +1,4 @@
+# Docerion header of name-from-popovertarget-and-interestfor-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for popovertarget and interestfor name test
+summary: Expected macOS accessibility tree snapshot verifying popovertarget and interestfor buttons expose the description 'popover description'.

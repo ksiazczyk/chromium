@@ -1,0 +1,4 @@
+# Docerion header of navigation-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for navigation test
+summary: Expected Android assist data output describing the accessibility tree of a page containing a navigation landmark with a link.

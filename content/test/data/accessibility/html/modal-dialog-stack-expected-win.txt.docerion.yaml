@@ -1,0 +1,4 @@
+# Docerion header of modal-dialog-stack-expected-win.txt.
+type: test
+title: Modal dialog stack expected accessibility tree for Windows
+summary: Expected Windows MSAA and IA2 accessibility tree snapshot for the stacked modal dialogs test page.

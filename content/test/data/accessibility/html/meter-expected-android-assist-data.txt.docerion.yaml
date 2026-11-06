@@ -1,0 +1,4 @@
+# Docerion header of meter-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for the meter element test
+summary: Expected Android assist-data accessibility snapshot for the meter element, describing a ProgressBar with range 1 to 10 and value 2.

@@ -1,0 +1,4 @@
+# Docerion header of offscreen-iframe-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for offscreen iframe test
+summary: Expected Android assist data output for the offscreen iframe test, showing the iframe and its nested onscreen and offscreen group views.

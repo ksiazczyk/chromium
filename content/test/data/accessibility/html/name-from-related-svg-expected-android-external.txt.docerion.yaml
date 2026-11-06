@@ -1,0 +1,4 @@
+# Docerion header of name-from-related-svg-expected-android-external.txt.
+type: test
+title: Expected Android external output for name from related SVG title
+summary: Expected Android external accessibility tree for an SVG image whose accessible name comes from its title element.

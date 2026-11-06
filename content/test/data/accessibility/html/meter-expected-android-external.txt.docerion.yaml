@@ -1,0 +1,4 @@
+# Docerion header of meter-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility snapshot for the meter element test
+summary: Expected Android external-format accessibility snapshot for the meter element, showing a ProgressBar with range info and meter role description.

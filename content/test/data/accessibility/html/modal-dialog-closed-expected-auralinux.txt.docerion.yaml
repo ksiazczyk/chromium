@@ -1,0 +1,4 @@
+# Docerion header of modal-dialog-closed-expected-auralinux.txt.
+type: test
+title: Expected AuraLinux accessibility tree after modal dialog closes
+summary: Expected AuraLinux accessibility tree snapshot verifying that elements respawn in the tree after a modal dialog closes.

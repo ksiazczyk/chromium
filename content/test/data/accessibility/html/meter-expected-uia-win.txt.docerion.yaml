@@ -1,0 +1,4 @@
+# Docerion header of meter-expected-uia-win.txt.
+type: test
+title: Expected UIA Windows accessibility tree for the meter element test
+summary: Expected UIA Windows accessibility tree dump for the meter element, describing a ProgressBar with range value properties.

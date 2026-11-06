@@ -1,0 +1,4 @@
+# Docerion header of noscript-expected-fuchsia.txt.
+type: test
+title: noscript expected Fuchsia accessibility output
+summary: Expected Fuchsia accessibility tree for the noscript HTML test, listing unknown hidden and focusable nodes.

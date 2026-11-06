@@ -1,0 +1,4 @@
+# Docerion header of move-child-hypertext-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for move-child-hypertext
+summary: Expected Windows accessibility tree for the move-child-hypertext test, including IA2 hypertext with one embedded object character.

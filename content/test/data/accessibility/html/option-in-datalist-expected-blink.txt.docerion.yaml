@@ -1,0 +1,4 @@
+# Docerion header of option-in-datalist-expected-blink.txt.
+type: test
+title: Option in datalist expected Blink
+summary: Expected Blink accessibility tree snapshot for the option-in-datalist test page.

@@ -1,0 +1,4 @@
+# Docerion header of math-name-from-contents.html.
+type: test
+title: Math name from contents test page
+summary: HTML test page with a radio role containing two MathML expressions, used to test accessible name computation from contents.

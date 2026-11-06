@@ -1,0 +1,4 @@
+# Docerion header of option-in-datalist-expected-uia-win.txt.
+type: test
+title: Option in datalist expected UIA Win
+summary: Expected Windows UI Automation accessibility tree snapshot for the option-in-datalist test page.

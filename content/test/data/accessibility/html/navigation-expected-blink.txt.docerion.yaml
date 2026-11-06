@@ -1,0 +1,4 @@
+# Docerion header of navigation-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for navigation test
+summary: Expected Blink accessibility tree for a page with a navigation element containing a link named Don't click on me.

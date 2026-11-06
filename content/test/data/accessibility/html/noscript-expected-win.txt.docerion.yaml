@@ -1,0 +1,4 @@
+# Docerion header of noscript-expected-win.txt.
+type: test
+title: noscript expected Windows accessibility output
+summary: Expected Windows accessibility tree for the noscript HTML test, marked as skipped because the tag is not mapped.

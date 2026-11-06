@@ -1,0 +1,4 @@
+# Docerion header of modal-dialog-closed-expected-uia-win.txt.
+type: test
+title: Expected UIA Windows accessibility tree after modal dialog closes
+summary: Expected UIA Windows accessibility tree snapshot verifying that elements respawn in the tree after a modal dialog closes.
