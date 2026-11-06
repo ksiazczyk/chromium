@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DOM storage database unit tests
+// summary: Tests DOM storage database behavior, including migration from LevelDB to SQLite for local storage and session storage with cloned maps.
+// ---
+
 #include "components/services/storage/dom_storage/dom_storage_database.h"
 
 #include <map>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionManagerDelegate interface declaration
+// summary: Declares the delegate interface for sign-out and restart requests, keeping the component decoupled from //chrome.
+// ---
+
 #ifndef COMPONENTS_SESSION_MANAGER_CORE_SESSION_MANAGER_DELEGATE_H_
 #define COMPONENTS_SESSION_MANAGER_CORE_SESSION_MANAGER_DELEGATE_H_
 

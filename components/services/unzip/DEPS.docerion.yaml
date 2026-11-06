@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Allowed include dependencies for the unzip service
+summary: Lists include rules permitting dependencies on the filesystem service, Mojo, and third-party compression libraries.

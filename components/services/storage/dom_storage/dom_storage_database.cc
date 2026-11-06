@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DOM storage database implementation
+// summary: Implements the DOM storage database layer over LevelDB and SQLite backends, including database size metrics and map operations.
+// ---
+
 #include "components/services/storage/dom_storage/dom_storage_database.h"
 
 #include <algorithm>

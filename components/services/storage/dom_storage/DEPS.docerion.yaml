@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DOM storage include dependency rules
+summary: Defines allowed include paths for the DOM storage service directory, with a per-file exception for local_storage_impl.cc.

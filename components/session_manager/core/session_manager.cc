@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionManager implementation
+// summary: Implements session lifecycle management including state changes, session creation, active session switching, and sign-out or restart requests.
+// ---
+
 #include "components/session_manager/core/session_manager.h"
 
 #include <algorithm>

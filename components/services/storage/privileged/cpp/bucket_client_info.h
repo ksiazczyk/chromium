@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BucketClientInfo struct header
+// summary: C++ header defining the storage::BucketClientInfo struct, which describes the browser-process client (frame or worker) of a storage bucket via process ID and execution context tokens, with type mapping to storage.mojom.BucketClientInfo.
+// ---
+
 #ifndef COMPONENTS_SERVICES_STORAGE_PRIVILEGED_CPP_BUCKET_CLIENT_INFO_H_
 #define COMPONENTS_SERVICES_STORAGE_PRIVILEGED_CPP_BUCKET_CLIENT_INFO_H_
 

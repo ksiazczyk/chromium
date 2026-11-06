@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionProtoStorage interface header
+// summary: Declares the abstract templated interface for per-session proto storage operations such as loading, inserting, deleting, and maintaining entries.
+// ---
+
 #ifndef COMPONENTS_SESSION_PROTO_DB_SESSION_PROTO_STORAGE_H_
 #define COMPONENTS_SESSION_PROTO_DB_SESSION_PROTO_STORAGE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unzip service implementation
+// summary: Implements ZIP extraction into a storage directory, filename encoding detection, archive info queries, and XZ decoding.
+// ---
+
 #include "components/services/unzip/unzipper_impl.h"
 
 #include <optional>

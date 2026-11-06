@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Storage area test utilities
+// summary: Declares synchronous helpers for testing StorageArea implementations and a mock StorageAreaObserver for observing key changes.
+// ---
+
 #ifndef COMPONENTS_SERVICES_STORAGE_DOM_STORAGE_TEST_SUPPORT_STORAGE_AREA_TEST_UTIL_H_
 #define COMPONENTS_SERVICES_STORAGE_DOM_STORAGE_TEST_SUPPORT_STORAGE_AREA_TEST_UTIL_H_
 

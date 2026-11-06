@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Session storage namespace unit tests
+// summary: Unit tests for SessionStorageNamespaceImpl covering population from metadata, shallow cloning, area binding and delegate interactions.
+// ---
+
 #include "components/services/storage/dom_storage/session_storage_namespace_impl.h"
 
 #include <algorithm>

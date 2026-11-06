@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ServiceWorkerDatabase class declaration
+// summary: Declares the ServiceWorkerDatabase class API for reading and writing service worker registration data in a LevelDB database.
+// ---
+
 #ifndef COMPONENTS_SERVICES_STORAGE_SERVICE_WORKER_SERVICE_WORKER_DATABASE_H_
 #define COMPONENTS_SERVICES_STORAGE_SERVICE_WORKER_SERVICE_WORKER_DATABASE_H_
 

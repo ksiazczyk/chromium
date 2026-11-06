@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LevelDB write batch header
+// summary: Declares LevelDBWriteBatch, a wrapper holding a collection of updates to apply atomically to a LevelDB database.
+// ---
+
 #ifndef COMPONENTS_SERVICES_STORAGE_INDEXED_DB_TRANSACTIONAL_LEVELDB_LEVELDB_WRITE_BATCH_H_
 #define COMPONENTS_SERVICES_STORAGE_INDEXED_DB_TRANSACTIONAL_LEVELDB_LEVELDB_WRITE_BATCH_H_
 

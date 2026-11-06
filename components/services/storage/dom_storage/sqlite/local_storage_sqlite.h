@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocalStorageSqlite class declaration
+// summary: Declares the LocalStorageSqlite class, a DomStorageDatabase implementation that persists local storage maps and metadata in SQLite tables.
+// ---
+
 #ifndef COMPONENTS_SERVICES_STORAGE_DOM_STORAGE_SQLITE_LOCAL_STORAGE_SQLITE_H_
 #define COMPONENTS_SERVICES_STORAGE_DOM_STORAGE_SQLITE_LOCAL_STORAGE_SQLITE_H_
 

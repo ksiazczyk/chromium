@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Transactional LevelDB transaction unit tests
+// summary: Unit tests for TransactionalLevelDBTransaction, exercising transaction operations such as Get, Put and Has against a LevelDB scopes test setup.
+// ---
+
 #include "components/services/storage/indexed_db/transactional_leveldb/transactional_leveldb_transaction.h"
 
 #include <stddef.h>

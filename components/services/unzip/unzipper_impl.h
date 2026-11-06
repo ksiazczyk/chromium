@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UnzipperImpl class declaration
+// summary: Declares the UnzipperImpl class implementing the mojom Unzipper interface with extraction, encoding detection, and XZ decoding methods.
+// ---
+
 #ifndef COMPONENTS_SERVICES_UNZIP_UNZIPPER_IMPL_H_
 #define COMPONENTS_SERVICES_UNZIP_UNZIPPER_IMPL_H_
 

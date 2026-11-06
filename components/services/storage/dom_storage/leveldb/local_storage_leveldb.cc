@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local storage LevelDB implementation
+// summary: Implements local storage persistence over LevelDB, including storage key serialization and parsing of access and write metadata entries.
+// ---
+
 #include "components/services/storage/dom_storage/leveldb/local_storage_leveldb.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DOM storage SQLite feature flags declarations
+// summary: Declares feature flags, parameters, and the rollout stage enum governing when SQLite is used instead of LevelDB for DOM storage.
+// ---
+
 #ifndef COMPONENTS_SERVICES_STORAGE_DOM_STORAGE_FEATURES_H_
 #define COMPONENTS_SERVICES_STORAGE_DOM_STORAGE_FEATURES_H_
 

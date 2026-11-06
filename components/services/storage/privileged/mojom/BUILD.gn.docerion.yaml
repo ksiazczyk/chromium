@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for privileged storage Mojom targets
+summary: Defines the mojom_webui and mojom GN targets that build the privileged storage Mojom interfaces with their typemaps and dependencies.

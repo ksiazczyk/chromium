@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VarInt Encoding Header
+// summary: Declares EncodeVarInt and DecodeVarInt helpers for variable-length integer encoding and decoding.
+// ---
+
 #ifndef COMPONENTS_SERVICES_STORAGE_INDEXED_DB_SCOPES_VARINT_CODING_H_
 #define COMPONENTS_SERVICES_STORAGE_INDEXED_DB_SCOPES_VARINT_CODING_H_
 

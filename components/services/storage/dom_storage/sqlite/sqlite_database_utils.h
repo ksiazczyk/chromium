@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SQLite database open and destroy utilities header
+// summary: Declares OpenDatabase and DestroyDatabase helpers that open or delete SQLite databases for local and session storage, including a callback for initializing new database schemas.
+// ---
+
 #ifndef COMPONENTS_SERVICES_STORAGE_DOM_STORAGE_SQLITE_SQLITE_DATABASE_UTILS_H_
 #define COMPONENTS_SERVICES_STORAGE_DOM_STORAGE_SQLITE_SQLITE_DATABASE_UTILS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionManagerObserver interface declaration
+// summary: Declares observer callbacks for session state changes, session creation, profile loading, lock screen visibility, and unlock attempts.
+// ---
+
 #ifndef COMPONENTS_SESSION_MANAGER_CORE_SESSION_MANAGER_OBSERVER_H_
 #define COMPONENTS_SESSION_MANAGER_CORE_SESSION_MANAGER_OBSERVER_H_
 

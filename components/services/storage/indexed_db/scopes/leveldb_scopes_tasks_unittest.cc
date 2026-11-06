@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LevelDB Scopes Tasks Unit Tests
+// summary: Unit tests exercising cleanup and revert scope tasks against real, breakable and flaky LevelDB databases.
+// ---
+
 #include "components/services/storage/indexed_db/scopes/leveldb_scopes_tasks.h"
 
 #include <limits>

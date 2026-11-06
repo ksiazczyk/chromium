@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SQLite database error-handling macros
+// summary: Defines macros that return a DbStatus or unexpected error when a database expression fails, requiring database_ to be in scope.
+// ---
+
 #ifndef COMPONENTS_SERVICES_STORAGE_DOM_STORAGE_SQLITE_SQLITE_DATABASE_MACROS_H_
 #define COMPONENTS_SERVICES_STORAGE_DOM_STORAGE_SQLITE_SQLITE_DATABASE_MACROS_H_
 

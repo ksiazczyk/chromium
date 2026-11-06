@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LevelDB Scopes Test Utilities Implementation
+// summary: Implements the shared LevelDBScopesTestBase fixture that sets up real, breakable and flaky LevelDB databases for scopes tests.
+// ---
+
 #include "components/services/storage/indexed_db/scopes/leveldb_scopes_test_utils.h"
 
 #include "base/memory/ptr_util.h"

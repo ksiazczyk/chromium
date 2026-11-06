@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake LevelDB factory with flaky and breakable database wrappers
+// summary: Implements FlakyDB and FakeLevelDBFactory helpers that wrap a LevelDB database to inject predictable failures, broken states, and replaced get results for IndexedDB testing.
+// ---
+
 #include "components/services/storage/indexed_db/leveldb/fake_leveldb_factory.h"
 
 #include <mutex>

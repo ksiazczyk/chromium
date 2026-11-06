@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake session manager delegate implementation
+// summary: Implements the fake delegate that counts sign-out requests and does nothing on restart, for use in tests.
+// ---
+
 #include "components/session_manager/core/fake_session_manager_delegate.h"
 
 namespace session_manager {

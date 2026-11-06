@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake DOM storage database implementation
+// summary: Implements a fake DomStorageDatabase that returns OK or empty results by default, with setters to configure specific return values for tests.
+// ---
+
 #include "components/services/storage/dom_storage/test_support/fake_dom_storage_database.h"
 
 #include <utility>

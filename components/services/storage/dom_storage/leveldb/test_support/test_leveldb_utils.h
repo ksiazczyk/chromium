@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test LevelDB utilities header
+// summary: Declares test helpers for DOM storage LevelDB, including a template to populate a database with test entries and a span-to-bytes conversion.
+// ---
+
 #ifndef COMPONENTS_SERVICES_STORAGE_DOM_STORAGE_LEVELDB_TEST_SUPPORT_TEST_LEVELDB_UTILS_H_
 #define COMPONENTS_SERVICES_STORAGE_DOM_STORAGE_LEVELDB_TEST_SUPPORT_TEST_LEVELDB_UTILS_H_
 

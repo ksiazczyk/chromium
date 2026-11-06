@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local Storage implementation
+// summary: Implements the Local Storage service, managing storage areas, quotas, commit batching, and database persistence per storage key.
+// ---
+
 #include "components/services/storage/dom_storage/local_storage_impl.h"
 
 #include <inttypes.h>

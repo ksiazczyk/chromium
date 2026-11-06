@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build config for the scopes metadata proto
+summary: GN build file defining the scopes_metadata_proto target that generates protobuf code from scopes_metadata.proto.

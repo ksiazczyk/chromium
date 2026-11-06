@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BucketClientInfo Mojo typemap header
+// summary: Declares the StructTraits mapping between storage::BucketClientInfo and its Mojo wire representation.
+// ---
+
 #ifndef COMPONENTS_SERVICES_STORAGE_PRIVILEGED_MOJOM_BUCKET_CLIENT_INFO_MOJOM_TRAITS_H_
 #define COMPONENTS_SERVICES_STORAGE_PRIVILEGED_MOJOM_BUCKET_CLIENT_INFO_MOJOM_TRAITS_H_
 

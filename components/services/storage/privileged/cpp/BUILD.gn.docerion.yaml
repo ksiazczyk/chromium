@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the storage privileged cpp source set
+summary: GN build file defining the cpp source set containing bucket_client_info.h, with dependencies on //base and the blink common tokens target.

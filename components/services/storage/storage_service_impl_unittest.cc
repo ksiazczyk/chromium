@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: StorageServiceImpl unit tests
+// summary: Unit tests verifying that binding local and session storage controls with relative paths is rejected and disconnects the requesting client.
+// ---
+
 #include "components/services/storage/storage_service_impl.h"
 
 #include "base/files/file_path.h"

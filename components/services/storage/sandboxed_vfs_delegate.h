@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sandboxed VFS delegate interface
+// summary: Declares the delegate class that adapts FilesystemProxy operations for the sql::SandboxedVfs SQLite VFS.
+// ---
+
 #ifndef COMPONENTS_SERVICES_STORAGE_SANDBOXED_VFS_DELEGATE_H_
 #define COMPONENTS_SERVICES_STORAGE_SANDBOXED_VFS_DELEGATE_H_
 

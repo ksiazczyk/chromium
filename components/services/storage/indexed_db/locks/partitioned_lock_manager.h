@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PartitionedLockManager class declaration
+// summary: Declares PartitionedLockManager and PartitionedLockHolder for acquiring, testing, and releasing partitioned shared and exclusive locks on a single task runner.
+// ---
+
 #ifndef COMPONENTS_SERVICES_STORAGE_INDEXED_DB_LOCKS_PARTITIONED_LOCK_MANAGER_H_
 #define COMPONENTS_SERVICES_STORAGE_INDEXED_DB_LOCKS_PARTITIONED_LOCK_MANAGER_H_
 

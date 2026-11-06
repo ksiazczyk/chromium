@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GoogleMock mocks for leveldb DB and Iterator
+// summary: Declares GoogleMock mock classes for the leveldb DB and Iterator interfaces used in tests.
+// ---
+
 #ifndef COMPONENTS_SERVICES_STORAGE_INDEXED_DB_LEVELDB_MOCK_LEVEL_DB_H_
 #define COMPONENTS_SERVICES_STORAGE_INDEXED_DB_LEVELDB_MOCK_LEVEL_DB_H_
 

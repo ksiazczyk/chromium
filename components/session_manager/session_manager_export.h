@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session export macros
+// summary: Header defining the SESSION_EXPORT macro for symbol export and import visibility across component and non-component builds.
+// ---
+
 #ifndef COMPONENTS_SESSION_MANAGER_SESSION_MANAGER_EXPORT_H_
 #define COMPONENTS_SESSION_MANAGER_SESSION_MANAGER_EXPORT_H_
 

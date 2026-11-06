@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Session manager test support build file
+summary: GN build file defining the testonly test_support static library with the user session test environment sources and its dependencies.

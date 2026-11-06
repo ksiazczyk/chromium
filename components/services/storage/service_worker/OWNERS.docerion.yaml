@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for service worker storage
+summary: Delegates code ownership of this directory to the service worker owners file in content/browser.

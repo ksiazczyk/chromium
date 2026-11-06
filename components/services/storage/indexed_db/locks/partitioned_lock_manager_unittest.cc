@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PartitionedLockManager unit tests
+// summary: Unit tests covering lock ID population, acquisition ordering, shared and exclusive locking, and release behavior of PartitionedLockManager.
+// ---
+
 #include "components/services/storage/indexed_db/locks/partitioned_lock_manager.h"
 
 #include <utility>

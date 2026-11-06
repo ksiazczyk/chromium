@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session storage data map
+// summary: Implements SessionStorageDataMap, holding the storage area for a session storage map created from disk, empty, or as a clone.
+// ---
+
 #include "components/services/storage/dom_storage/session_storage_data_map.h"
 
 #include "base/system/sys_info.h"

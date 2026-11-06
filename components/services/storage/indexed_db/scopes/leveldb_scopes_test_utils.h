@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LevelDB Scopes Test Utilities Header
+// summary: Declares the LevelDBScopesTestBase fixture with helpers for database setup, metadata and task writing, and lock acquisition.
+// ---
+
 #ifndef COMPONENTS_SERVICES_STORAGE_INDEXED_DB_SCOPES_LEVELDB_SCOPES_TEST_UTILS_H_
 #define COMPONENTS_SERVICES_STORAGE_INDEXED_DB_SCOPES_LEVELDB_SCOPES_TEST_UTILS_H_
 

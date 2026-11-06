@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LevelDBScopes manager implementation
+// summary: Implements the LevelDBScopes manager, handling initialization, recovery, scope commits, and background cleanup task scheduling.
+// ---
+
 #include "components/services/storage/indexed_db/scopes/leveldb_scopes.h"
 
 #include <memory>

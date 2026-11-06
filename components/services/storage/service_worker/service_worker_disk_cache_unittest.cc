@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker disk cache unit tests
+// summary: Unit tests for ServiceWorkerDiskCache covering concurrent entry operations for the same key and disabling the cache before initialization completes.
+// ---
+
 #include "components/services/storage/service_worker/service_worker_disk_cache.h"
 
 #include "base/files/file_util.h"

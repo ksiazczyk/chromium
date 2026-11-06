@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Async DOM storage database unit tests
+// summary: Unit tests for the async DOM storage database covering LevelDB and SQLite backends, migration behavior, and failure handling.
+// ---
+
 #include "components/services/storage/dom_storage/async_dom_storage_database.h"
 
 #include <map>

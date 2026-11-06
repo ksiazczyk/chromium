@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scopes key encoding implementation
+// summary: Implements encoding and parsing of scope metadata and task log keys, including debug string formatting for scope keys.
+// ---
+
 #include "components/services/storage/indexed_db/scopes/leveldb_scopes_coding.h"
 
 #include <sstream>

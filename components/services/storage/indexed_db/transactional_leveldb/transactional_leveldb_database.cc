@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Transactional LevelDB database implementation
+// summary: Implements TransactionalLevelDBDatabase with put, remove, get, write, compaction, snapshot handling, iterator eviction and memory dumping for IndexedDB.
+// ---
+
 #include "components/services/storage/indexed_db/transactional_leveldb/transactional_leveldb_database.h"
 
 #include <inttypes.h>

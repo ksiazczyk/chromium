@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the unzip service
+summary: Defines build targets for the unzip service, including the core library, in-process unzipper, unit test bundle data, and unit tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service worker resource operations declarations
+// summary: Declares DiskEntryCreator, DiskEntryOpener and the Mojo resource reader, writer and metadata writer classes used to access service worker resources on disk.
+// ---
+
 #ifndef COMPONENTS_SERVICES_STORAGE_SERVICE_WORKER_SERVICE_WORKER_RESOURCE_OPS_H_
 #define COMPONENTS_SERVICES_STORAGE_SERVICE_WORKER_SERVICE_WORKER_RESOURCE_OPS_H_
 

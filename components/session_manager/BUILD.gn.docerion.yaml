@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: SessionManager build configuration
+summary: GN build file defining the base source set with the session manager headers and a dependency on components/account_id.

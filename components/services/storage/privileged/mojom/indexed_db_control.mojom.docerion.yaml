@@ -1,0 +1,4 @@
+# Docerion header of indexed_db_control.mojom.
+type: source
+title: IndexedDBControl privileged Mojom interface
+summary: Defines the privileged IndexedDBObserver and IndexedDBControl Mojo interfaces for binding factories, force-closing, downloads, and metadata recording.

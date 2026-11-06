@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionManager class declaration
+// summary: Declares the SessionManager singleton that tracks sessions, session state, observers, and user manager integration.
+// ---
+
 #ifndef COMPONENTS_SESSION_MANAGER_CORE_SESSION_MANAGER_H_
 #define COMPONENTS_SESSION_MANAGER_CORE_SESSION_MANAGER_H_
 

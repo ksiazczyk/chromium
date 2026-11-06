@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UserSessionTestEnvironment implementation
+// summary: Implements the test environment that owns UserManager and SessionManager and provides helpers to add regular, child, guest, public account and kiosk users and log in.
+// ---
+
 #include "components/session_manager/test/user_session_test_environment.h"
 
 #include <memory>

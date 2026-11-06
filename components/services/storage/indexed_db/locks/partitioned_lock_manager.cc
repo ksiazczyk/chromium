@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PartitionedLockManager implementation
+// summary: Implements the PartitionedLockManager that grants shared and exclusive locks in request order, queues conflicting requests, and reports lock metrics.
+// ---
+
 #include "components/services/storage/indexed_db/locks/partitioned_lock_manager.h"
 
 #include <cstddef>

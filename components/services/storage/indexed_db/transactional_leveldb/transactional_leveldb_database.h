@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Transactional LevelDB database header
+// summary: Declares TransactionalLevelDBDatabase and LevelDBSnapshot, the transactional LevelDB database interface used by IndexedDB, including iterator limits.
+// ---
+
 #ifndef COMPONENTS_SERVICES_STORAGE_INDEXED_DB_TRANSACTIONAL_LEVELDB_TRANSACTIONAL_LEVELDB_DATABASE_H_
 #define COMPONENTS_SERVICES_STORAGE_INDEXED_DB_TRANSACTIONAL_LEVELDB_TRANSACTIONAL_LEVELDB_DATABASE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sandboxed VFS delegate implementation
+// summary: Implements the sql::SandboxedVfs delegate by opening, deleting, and checking access to files through a FilesystemProxy.
+// ---
+
 #include "components/services/storage/sandboxed_vfs_delegate.h"
 
 #include <cstdint>

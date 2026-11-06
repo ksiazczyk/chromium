@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PartitionedLockId implementation
+// summary: Implements stream output for PartitionedLockId, printing the lock key bytes in hex together with its partition.
+// ---
+
 #include "components/services/storage/indexed_db/locks/partitioned_lock_id.h"
 
 #include <iomanip>

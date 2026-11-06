@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scopes key encoding declarations
+// summary: Declares scope key byte constants and the ScopesEncoder helper for building metadata and task log key prefixes.
+// ---
+
 #ifndef COMPONENTS_SERVICES_STORAGE_INDEXED_DB_SCOPES_LEVELDB_SCOPES_CODING_H_
 #define COMPONENTS_SERVICES_STORAGE_INDEXED_DB_SCOPES_LEVELDB_SCOPES_CODING_H_
 

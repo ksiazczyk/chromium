@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionStorageSqlite implementation
+// summary: Implements the SQLite-backed DOM storage database for session storage, managing session metadata rows and per-session maps.
+// ---
+
 #include "components/services/storage/dom_storage/sqlite/session_storage_sqlite.h"
 
 #include "base/metrics/histogram_functions.h"

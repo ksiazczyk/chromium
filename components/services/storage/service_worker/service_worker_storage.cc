@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service worker storage implementation
+// summary: Implements ServiceWorkerStorage, which stores and retrieves service worker registration data and resources using a database and a disk cache.
+// ---
+
 #include "components/services/storage/service_worker/service_worker_storage.h"
 
 #include <stddef.h>

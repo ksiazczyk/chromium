@@ -1,0 +1,4 @@
+# Docerion header of indexed_db_control_test.mojom.
+type: source
+title: Test-only IndexedDB control Mojom interfaces
+summary: Defines test-only Mojo interfaces for flushing state, inspecting paths and usage, and injecting mock failures into IndexedDB.

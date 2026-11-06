@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Transactional LevelDB database unit tests
+// summary: Unit tests for TransactionalLevelDBDatabase, covering database opening, corruption handling and basic Put/Get operations via the transactional factory.
+// ---
+
 #include <stddef.h>
 
 #include <algorithm>

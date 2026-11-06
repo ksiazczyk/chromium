@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SessionStorageSqlite unit tests
+// summary: Unit tests for SessionStorageSqlite covering on-disk and in-memory databases, session metadata, map cloning and deletion behavior.
+// ---
+
 #include "components/services/storage/dom_storage/sqlite/session_storage_sqlite.h"
 
 #include "base/files/file_path.h"

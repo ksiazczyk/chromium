@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DOM storage LevelDB database implementation
+// summary: Implements DomStorageDatabaseLevelDB, opening on-disk or in-memory LevelDB databases and providing reads, writes, rewrites and memory dump support.
+// ---
+
 #include "components/services/storage/dom_storage/leveldb/dom_storage_database_leveldb.h"
 
 #include <memory>

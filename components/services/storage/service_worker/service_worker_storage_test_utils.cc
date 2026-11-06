@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker storage test utilities implementation
+// summary: Provides ReadDataPipeViaRunLoop, a test helper that reads all data from a Mojo data pipe without blocking synchronously.
+// ---
+
 #include "components/services/storage/service_worker/service_worker_storage_test_utils.h"
 
 #include "base/containers/span.h"

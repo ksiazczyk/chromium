@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake session manager delegate class declaration
+// summary: Declares a fake SessionManagerDelegate so tests can run without depending on the real //chrome implementation.
+// ---
+
 #ifndef COMPONENTS_SESSION_MANAGER_CORE_FAKE_SESSION_MANAGER_DELEGATE_H_
 #define COMPONENTS_SESSION_MANAGER_CORE_FAKE_SESSION_MANAGER_DELEGATE_H_
 

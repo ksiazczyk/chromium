@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Local Storage implementation unit tests
+// summary: Unit tests covering LocalStorageImpl behavior including storage areas, usage reporting, deletion, flushing, and policy updates.
+// ---
+
 #include "components/services/storage/dom_storage/local_storage_impl.h"
 
 #include <limits>

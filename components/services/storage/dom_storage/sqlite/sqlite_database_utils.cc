@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SQLite database open and destroy utilities implementation
+// summary: Implements OpenDatabase and DestroyDatabase for local and session storage SQLite databases, handling in-memory or file opening, schema creation, version checks and file deletion.
+// ---
+
 #include "components/services/storage/dom_storage/sqlite/sqlite_database_utils.h"
 
 #include "sql/database.h"

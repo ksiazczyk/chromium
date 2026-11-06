@@ -1,6 +1,13 @@
 // Copyright 2018 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Scopes Metadata Protobuf Definitions
+// summary: Defines protobuf messages for scope keys, metadata, partitioned locks, undo tasks and cleanup tasks stored in LevelDB.
+// ---
+
 syntax = "proto3";
 
 option optimize_for = LITE_RUNTIME;

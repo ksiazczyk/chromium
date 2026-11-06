@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test API binder stubs declaration
+// summary: Declares the TestApiBinderForTesting callback and helper functions that let test environments inject a TestApi implementation via a raw message pipe.
+// ---
+
 #ifndef COMPONENTS_SERVICES_STORAGE_TEST_API_STUBS_H_
 #define COMPONENTS_SERVICES_STORAGE_TEST_API_STUBS_H_
 

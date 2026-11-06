@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MapEntriesTable unit tests
+// summary: Unit tests for MapEntriesTable covering batch updates, deletions, cloning and compression of map entries within database transactions.
+// ---
+
 #include "components/services/storage/dom_storage/sqlite/map_entries_table.h"
 
 #include <map>

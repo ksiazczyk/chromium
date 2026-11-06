@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Session storage service unit tests
+// summary: Unit tests for SessionStorageImpl covering database initialization, backing modes, namespace binding, storage area operations and cleanup across database backends.
+// ---
+
 #include "components/services/storage/dom_storage/session_storage_impl.h"
 
 #include <stdint.h>

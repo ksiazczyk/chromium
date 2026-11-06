@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DOM storage SQLite feature flags implementation
+// summary: Defines feature flags and parameters that control the staged rollout of the SQLite backend for DOM storage.
+// ---
+
 #include "components/services/storage/dom_storage/features.h"
 
 #include "base/feature_list.h"

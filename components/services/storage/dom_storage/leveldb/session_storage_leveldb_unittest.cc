@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the SessionStorageLevelDB database
+// summary: Unit tests covering session storage LevelDB map reads, updates, cloning, metadata parsing, and version entry verification.
+// ---
+
 #include "components/services/storage/dom_storage/leveldb/session_storage_leveldb.h"
 
 #include <memory>

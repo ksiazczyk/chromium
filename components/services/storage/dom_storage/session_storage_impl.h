@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session storage service implementation header
+// summary: Declares SessionStorageImpl, the per-profile Session Storage controller that manages namespaces, storage areas, usage, deletion and backing modes over the DOM storage database.
+// ---
+
 #ifndef COMPONENTS_SERVICES_STORAGE_DOM_STORAGE_SESSION_STORAGE_IMPL_H_
 #define COMPONENTS_SERVICES_STORAGE_DOM_STORAGE_SESSION_STORAGE_IMPL_H_
 

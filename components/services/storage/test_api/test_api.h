@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the storage service test API injection
+// summary: Declares InjectTestApiImplementation, which binds the test API implementation used to exercise the storage service in tests.
+// ---
+
 #ifndef COMPONENTS_SERVICES_STORAGE_TEST_API_TEST_API_H_
 #define COMPONENTS_SERVICES_STORAGE_TEST_API_TEST_API_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service worker storage control Mojo interface declarations
+// summary: Declares ServiceWorkerStorageControlImpl, the Mojo wrapper around ServiceWorkerStorage that runs on the database task runner.
+// ---
+
 #ifndef COMPONENTS_SERVICES_STORAGE_SERVICE_WORKER_SERVICE_WORKER_STORAGE_CONTROL_IMPL_H_
 #define COMPONENTS_SERVICES_STORAGE_SERVICE_WORKER_SERVICE_WORKER_STORAGE_CONTROL_IMPL_H_
 

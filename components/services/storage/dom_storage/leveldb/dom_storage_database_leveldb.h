@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DOM storage LevelDB database class declaration
+// summary: Declares DomStorageDatabaseLevelDB, adding prefix queries, schema version checks, test error hooks and memory dump support over leveldb::DB.
+// ---
+
 #ifndef COMPONENTS_SERVICES_STORAGE_DOM_STORAGE_LEVELDB_DOM_STORAGE_DATABASE_LEVELDB_H_
 #define COMPONENTS_SERVICES_STORAGE_DOM_STORAGE_LEVELDB_DOM_STORAGE_DATABASE_LEVELDB_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DOM storage database testing helpers implementation
+// summary: Implements test helpers for DomStorageDatabase, including metadata comparison and cloning functions and synchronous wrappers for async database operations.
+// ---
+
 #include "components/services/storage/dom_storage/test_support/dom_storage_database_testing.h"
 
 #include <algorithm>

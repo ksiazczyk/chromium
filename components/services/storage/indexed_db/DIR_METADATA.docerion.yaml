@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA
+summary: Chromium directory metadata that reuses the common metadata from the IndexedDB browser directory via a mixin.

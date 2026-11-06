@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionStorageLevelDB implementation for session storage maps
+// summary: Implements session storage LevelDB operations, including parsing namespace metadata keys, building session and map prefixes, and managing per-session maps.
+// ---
+
 #include "components/services/storage/dom_storage/leveldb/session_storage_leveldb.h"
 
 #include <algorithm>

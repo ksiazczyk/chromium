@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SQLite test utilities declarations
+// summary: Declares test helpers that corrupt a SQLite database file header or drop its meta table while keeping DOM Storage data tables intact.
+// ---
+
 #ifndef COMPONENTS_SERVICES_STORAGE_DOM_STORAGE_SQLITE_TEST_SUPPORT_TEST_SQLITE_UTILS_H_
 #define COMPONENTS_SERVICES_STORAGE_DOM_STORAGE_SQLITE_TEST_SUPPORT_TEST_SQLITE_UTILS_H_
 

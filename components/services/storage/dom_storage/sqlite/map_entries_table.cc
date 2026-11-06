@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MapEntriesTable implementation
+// summary: Implements the map_entries table used by local and session storage to read, update, clone and delete compressed key/value pairs for maps.
+// ---
+
 #include "components/services/storage/dom_storage/sqlite/map_entries_table.h"
 
 #include "base/metrics/histogram_functions.h"

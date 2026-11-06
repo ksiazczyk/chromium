@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped DOM storage database factory override
+// summary: Declares a scoped helper that overrides DomStorageDatabaseFactory open or migration callbacks for the lifetime of the object.
+// ---
+
 #ifndef COMPONENTS_SERVICES_STORAGE_DOM_STORAGE_TEST_SUPPORT_SCOPED_DOM_STORAGE_DATABASE_FACTORY_FOR_TESTING_H_
 #define COMPONENTS_SERVICES_STORAGE_DOM_STORAGE_TEST_SUPPORT_SCOPED_DOM_STORAGE_DATABASE_FACTORY_FOR_TESTING_H_
 

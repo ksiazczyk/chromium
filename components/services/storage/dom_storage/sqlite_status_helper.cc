@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SQLite status helper implementation
+// summary: Converts sql::Database error codes and messages into DbStatus values, classifying corruption, not-found and IO errors for SQLite-backed storage.
+// ---
+
 #include "components/services/storage/dom_storage/sqlite_status_helper.h"
 
 #include "sql/database.h"

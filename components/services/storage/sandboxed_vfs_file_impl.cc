@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sandboxed VFS file implementation
+// summary: Implements SQLite VFS file operations such as read, write, locking, and shared-memory handling on top of a sandboxed base::File.
+// ---
+
 #include "components/services/storage/sandboxed_vfs_file_impl.h"
 
 #include <algorithm>

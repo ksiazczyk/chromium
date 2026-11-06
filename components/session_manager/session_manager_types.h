@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session manager types
+// summary: Defines the SessionState and UnlockType enums, the SessionId type, and the maximum number of user sessions for ChromeOS session management.
+// ---
+
 #ifndef COMPONENTS_SESSION_MANAGER_SESSION_MANAGER_TYPES_H_
 #define COMPONENTS_SESSION_MANAGER_SESSION_MANAGER_TYPES_H_
 

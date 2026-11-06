@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DOM storage LevelDB batch operation class declaration
+// summary: Declares DomStorageBatchOperationLevelDB, a wrapper around LevelDB WriteBatch adding convenience functions to copy or delete keys by prefix.
+// ---
+
 #ifndef COMPONENTS_SERVICES_STORAGE_DOM_STORAGE_LEVELDB_DOM_STORAGE_BATCH_OPERATION_LEVELDB_H_
 #define COMPONENTS_SERVICES_STORAGE_DOM_STORAGE_LEVELDB_DOM_STORAGE_BATCH_OPERATION_LEVELDB_H_
 

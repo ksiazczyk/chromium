@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service worker storage declarations
+// summary: Declares ServiceWorkerStorage and its thread-safe shared buffer for exchanging registration data between the UI thread and the thread pool.
+// ---
+
 #ifndef COMPONENTS_SERVICES_STORAGE_SERVICE_WORKER_SERVICE_WORKER_STORAGE_H_
 #define COMPONENTS_SERVICES_STORAGE_SERVICE_WORKER_SERVICE_WORKER_STORAGE_H_
 

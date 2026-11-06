@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocalStorageLevelDB header for the local storage LevelDB database
+// summary: Declares the LocalStorageLevelDB class that reads and writes local storage key/value entries and metadata in LevelDB, documenting the VERSION, META and map key schema.
+// ---
+
 #ifndef COMPONENTS_SERVICES_STORAGE_DOM_STORAGE_LEVELDB_LOCAL_STORAGE_LEVELDB_H_
 #define COMPONENTS_SERVICES_STORAGE_DOM_STORAGE_LEVELDB_LOCAL_STORAGE_LEVELDB_H_
 

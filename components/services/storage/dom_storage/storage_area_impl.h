@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DOM storage StorageAreaImpl class declaration
+// summary: Declares StorageAreaImpl, a wrapper around AsyncDomStorageDatabase that enforces max size constraints, informs observers of changes, and throttles requests to disk.
+// ---
+
 #ifndef COMPONENTS_SERVICES_STORAGE_DOM_STORAGE_STORAGE_AREA_IMPL_H_
 #define COMPONENTS_SERVICES_STORAGE_DOM_STORAGE_STORAGE_AREA_IMPL_H_
 

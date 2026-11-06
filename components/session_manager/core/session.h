@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session class declaration
+// summary: Declares the Session class representing a session with an ID and the account ID of its user.
+// ---
+
 #ifndef COMPONENTS_SESSION_MANAGER_CORE_SESSION_H_
 #define COMPONENTS_SESSION_MANAGER_CORE_SESSION_H_
 

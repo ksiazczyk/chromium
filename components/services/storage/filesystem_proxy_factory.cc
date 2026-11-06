@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Filesystem proxy factory implementation
+// summary: Implements a global factory that creates FilesystemProxy instances, defaulting to an unrestricted filesystem proxy.
+// ---
+
 #include "components/services/storage/filesystem_proxy_factory.h"
 
 #include <utility>

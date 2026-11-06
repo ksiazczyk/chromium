@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session storage metadata implementation
+// summary: Implements SessionStorageMetadata, converting between database metadata and namespace map locators, registering new maps and handling shallow-cloned namespaces.
+// ---
+
 #include "components/services/storage/dom_storage/session_storage_metadata.h"
 
 #include <algorithm>

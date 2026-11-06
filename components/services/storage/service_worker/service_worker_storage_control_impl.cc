@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service worker storage control Mojo implementation
+// summary: Implements the ServiceWorkerStorageControl Mojo interface, wrapping ServiceWorkerStorage to serve registration and resource requests from the storage service.
+// ---
+
 #include "components/services/storage/service_worker/service_worker_storage_control_impl.h"
 
 #include "base/debug/alias.h"

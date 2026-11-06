@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker storage control implementation unit tests
+// summary: Unit tests for ServiceWorkerStorageControlImpl covering registration lookup, storage, deletion, user data and resource reading over Mojo.
+// ---
+
 #include "components/services/storage/service_worker/service_worker_storage_control_impl.h"
 
 #include <cstdint>

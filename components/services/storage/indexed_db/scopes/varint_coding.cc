@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VarInt Encoding Implementation
+// summary: Implements EncodeVarInt and DecodeVarInt for compact variable-length integer coding used in scope keys.
+// ---
+
 #include "components/services/storage/indexed_db/scopes/varint_coding.h"
 
 #include <array>
