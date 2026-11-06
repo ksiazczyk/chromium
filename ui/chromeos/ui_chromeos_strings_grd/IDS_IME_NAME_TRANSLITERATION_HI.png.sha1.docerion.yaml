@@ -1,0 +1,4 @@
+# Docerion header of IDS_IME_NAME_TRANSLITERATION_HI.png.sha1.
+type: asset
+title: SHA-1 checksum for the Hindi IME transliteration name image
+summary: Holds the SHA-1 hash of the PNG image showing the Hindi transliteration input method name in ChromeOS UI string resources.

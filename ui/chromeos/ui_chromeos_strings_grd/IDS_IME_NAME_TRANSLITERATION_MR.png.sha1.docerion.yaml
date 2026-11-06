@@ -1,0 +1,4 @@
+# Docerion header of IDS_IME_NAME_TRANSLITERATION_MR.png.sha1.
+type: asset
+title: SHA-1 checksum for the Marathi IME transliteration name image
+summary: Holds the SHA-1 hash of the PNG image showing the Marathi transliteration input method name in ChromeOS UI string resources.
