@@ -1,0 +1,4 @@
+# Docerion header of http_security_header_031.txt.
+type: data
+title: HTTP security header fuzzer input 031
+summary: Fuzzer input with a max-age directive padded by leading spaces and trailing whitespace after an empty value.

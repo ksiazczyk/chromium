@@ -1,0 +1,4 @@
+# Docerion header of http_security_header_089.txt.
+type: test
+title: 'Fuzzer input 089: max-age with enforce'
+summary: Fuzzing input with an HSTS max-age value followed by the enforce directive.

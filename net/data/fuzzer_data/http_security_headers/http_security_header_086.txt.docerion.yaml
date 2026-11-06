@@ -1,0 +1,4 @@
+# Docerion header of http_security_header_086.txt.
+type: test
+title: 'Fuzzer input 086: mixed-case includeSubdomains with semicolons'
+summary: Fuzzing input with max-age and a mixed-case incLudesUbdOmains directive among semicolons.

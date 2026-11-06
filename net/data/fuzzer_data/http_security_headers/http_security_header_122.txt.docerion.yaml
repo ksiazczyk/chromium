@@ -1,0 +1,4 @@
+# Docerion header of http_security_header_122.txt.
+type: test
+title: HPKP header fuzzer input missing separator before pin-sha256
+summary: Fuzzer input for HTTP security header parsing where max-aged is directly concatenated with pin-sha256 without a separator.

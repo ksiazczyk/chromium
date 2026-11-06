@@ -1,0 +1,4 @@
+# Docerion header of http_security_header_067.txt.
+type: test
+title: HTTP security header fuzzer input 067
+summary: Fuzzer input with an includesubdomains directive given an empty value after max-age.

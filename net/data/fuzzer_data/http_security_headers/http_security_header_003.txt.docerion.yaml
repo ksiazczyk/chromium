@@ -1,0 +1,4 @@
+# Docerion header of http_security_header_003.txt.
+type: data
+title: HTTP security header fuzzer input 003
+summary: Fuzzer input of repeated commas to stress HTTP security header list and separator parsing.

@@ -1,0 +1,4 @@
+# Docerion header of http_security_header_099.txt.
+type: test
+title: 'Fuzzer input 099: overflowing max-age with junk characters'
+summary: Fuzzer test data with an extremely large max-age number followed by punctuation characters to test overflow and invalid input handling.

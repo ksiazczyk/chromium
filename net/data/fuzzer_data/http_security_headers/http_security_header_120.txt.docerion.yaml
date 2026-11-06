@@ -1,0 +1,4 @@
+# Docerion header of http_security_header_120.txt.
+type: test
+title: HPKP header fuzzer input with misspelled max-aged and two pins
+summary: Fuzzer input for HTTP security header parsing combining a misspelled max-aged directive with two pin-sha256 backup pins.

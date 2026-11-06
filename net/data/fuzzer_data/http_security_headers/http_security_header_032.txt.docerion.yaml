@@ -1,0 +1,4 @@
+# Docerion header of http_security_header_032.txt.
+type: data
+title: HTTP security header fuzzer input 032
+summary: Fuzzer input with spaces between the max-age directive and its equals sign.

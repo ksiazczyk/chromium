@@ -1,0 +1,4 @@
+# Docerion header of http_security_header_126.txt.
+type: test
+title: HPKP header fuzzer input with mixed-case directives and report-uri
+summary: Fuzzer input for HTTP security header parsing with mixed-case Max-agE and repOrT-URi directives plus two pin-sha256 pins.

@@ -1,0 +1,4 @@
+# Docerion header of http_security_header_038.txt.
+type: data
+title: HTTP security header fuzzer input 038
+summary: Fuzzer input with a max-age directive followed by stray commas.

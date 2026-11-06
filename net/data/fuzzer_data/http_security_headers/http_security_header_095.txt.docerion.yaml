@@ -1,0 +1,4 @@
+# Docerion header of http_security_header_095.txt.
+type: test
+title: 'Fuzzer input 095: max-age with mixed case and spacing'
+summary: Fuzzer test data exercising a max-age directive written with mixed letter case and irregular whitespace around the equals sign.

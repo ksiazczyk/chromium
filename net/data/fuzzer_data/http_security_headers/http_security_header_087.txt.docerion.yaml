@@ -1,0 +1,4 @@
+# Docerion header of http_security_header_087.txt.
+type: test
+title: 'Fuzzer input 087: mixed-case includeSubdomains without trailing separator'
+summary: Fuzzing input with max-age followed by a mixed-case incLudesUbdOmains directive.

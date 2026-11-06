@@ -1,0 +1,4 @@
+# Docerion header of http_security_header_128.txt.
+type: test
+title: HSTS header fuzzer input with unknown pumpkin directive
+summary: Fuzzer input for HTTP security header parsing mixing the unknown pumpkin directive with includesubdomains and max-age.

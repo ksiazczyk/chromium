@@ -1,0 +1,4 @@
+# Docerion header of http_security_header_092.txt.
+type: test
+title: 'Fuzzer input 092: max-age with enforce directive'
+summary: Fuzzer test data combining a max-age value with an enforce directive separated by a comma and irregular spacing.

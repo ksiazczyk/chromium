@@ -1,0 +1,4 @@
+# Docerion header of http_security_header_030.txt.
+type: data
+title: HTTP security header fuzzer input 030
+summary: Fuzzer input with a max-age directive preceded by spaces and an empty value, for testing HTTP security header parsing.

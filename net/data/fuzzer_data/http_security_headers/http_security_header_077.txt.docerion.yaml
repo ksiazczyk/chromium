@@ -1,0 +1,4 @@
+# Docerion header of http_security_header_077.txt.
+type: data
+title: 'Fuzzer input: HSTS header with max-age and includeSubDomains'
+summary: Fuzzer data file with an HSTS header value combining max-age and includeSubDomains as a baseline valid case.

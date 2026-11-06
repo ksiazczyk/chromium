@@ -1,0 +1,4 @@
+# Docerion header of http_security_header_011.txt.
+type: data
+title: 'Fuzzer case: semicolon-separated directives with quoted semicolon'
+summary: Fuzzer input for HTTP security header parsing using semicolon separators, a quoted value containing a semicolon and mixed-case includeSubDomains.

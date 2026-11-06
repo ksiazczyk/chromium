@@ -1,0 +1,4 @@
+# Docerion header of http_security_header_130.txt.
+type: data
+title: 'Fuzzer input 130: header with enforce and quoted max-age'
+summary: Fuzzer test input containing an HTTP security header value with an unknown token, enforce and a quoted max-age directive.

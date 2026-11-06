@@ -1,0 +1,4 @@
+# Docerion header of http_security_header_094.txt.
+type: test
+title: 'Fuzzer input 094: max-age with two pin-sha256 pins'
+summary: Fuzzer test data with a semicolon-separated max-age value and two quoted pin-sha256 pins followed by trailing whitespace.

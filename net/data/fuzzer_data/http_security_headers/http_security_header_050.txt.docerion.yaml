@@ -1,0 +1,4 @@
+# Docerion header of http_security_header_050.txt.
+type: test
+title: 'Fuzzer input: max-age with misspelled includeSubDomains'
+summary: Fuzzer test data containing a max-age directive followed by a misspelled includeSubDomains token to stress header parsing.

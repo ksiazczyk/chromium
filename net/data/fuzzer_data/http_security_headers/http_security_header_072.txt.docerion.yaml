@@ -1,0 +1,4 @@
+# Docerion header of http_security_header_072.txt.
+type: data
+title: 'Fuzzer input: HSTS header with trailing token after includeSubDomains'
+summary: Fuzzer data file with an HSTS header value where includeSubDomains is followed by an extra token x to test directive parsing.

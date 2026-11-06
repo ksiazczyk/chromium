@@ -1,0 +1,4 @@
+# Docerion header of http_security_header_039.txt.
+type: data
+title: HTTP security header fuzzer input 039
+summary: Fuzzer input with a max-age directive followed by stray semicolons.

@@ -1,0 +1,4 @@
+# Docerion header of http_security_header_028.txt.
+type: test
+title: HTTP security header fuzzer input 028
+summary: Fuzzer corpus entry with the misspelled directive max-ag to test handling of invalid max-age tokens.

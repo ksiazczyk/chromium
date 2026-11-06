@@ -1,0 +1,4 @@
+# Docerion header of http_security_header_021.txt.
+type: test
+title: HTTP security header fuzzer input 021
+summary: Fuzzer corpus entry with an HTTP security header using semicolons around includeSubDomains to test separator handling.

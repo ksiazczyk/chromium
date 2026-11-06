@@ -1,0 +1,4 @@
+# Docerion header of http_security_header_125.txt.
+type: test
+title: HPKP header fuzzer input with pins, max-age and ignored directive
+summary: Fuzzer input for HTTP security header parsing with two pin-sha256 pins, max-age=123 and a trailing IGNORED directive.

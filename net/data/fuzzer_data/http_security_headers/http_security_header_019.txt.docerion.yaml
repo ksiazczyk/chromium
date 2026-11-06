@@ -1,0 +1,4 @@
+# Docerion header of http_security_header_019.txt.
+type: data
+title: 'Fuzzer case: includeSubDomains with trailing semicolon and whitespace'
+summary: Fuzzer input for HTTP security header parsing with includeSubDomains followed by a trailing semicolon and whitespace.

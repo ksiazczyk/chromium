@@ -1,0 +1,4 @@
+# Docerion header of http_security_header_124.txt.
+type: test
+title: HSTS max-age fuzzer input with whitespace and invalid value
+summary: Fuzzer input for HTTP security header parsing using extra whitespace around max-age and the invalid value xy.

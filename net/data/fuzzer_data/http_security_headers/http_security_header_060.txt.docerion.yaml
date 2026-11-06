@@ -1,0 +1,4 @@
+# Docerion header of http_security_header_060.txt.
+type: test
+title: HTTP security header fuzzer input 060
+summary: Fuzzer input with a double equals sign in the max-age directive of an HTTP security header.

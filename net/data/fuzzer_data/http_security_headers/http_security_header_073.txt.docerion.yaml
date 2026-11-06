@@ -1,0 +1,4 @@
+# Docerion header of http_security_header_073.txt.
+type: data
+title: 'Fuzzer input: HSTS header with includeSubdomain=true variant'
+summary: Fuzzer data file with an HSTS header value using includesubdomain=true to test boolean-style directive values.

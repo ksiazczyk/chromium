@@ -1,0 +1,4 @@
+# Docerion header of http_security_header_001.txt.
+type: data
+title: HTTP security header fuzzer input 001
+summary: Fuzzer input containing only whitespace to test HTTP security header parsing of blank values.

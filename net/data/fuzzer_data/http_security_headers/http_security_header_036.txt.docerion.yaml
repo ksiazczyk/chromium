@@ -1,0 +1,4 @@
+# Docerion header of http_security_header_036.txt.
+type: data
+title: HTTP security header fuzzer input 036
+summary: Fuzzer input containing a bare max-age directive with no value or separators.

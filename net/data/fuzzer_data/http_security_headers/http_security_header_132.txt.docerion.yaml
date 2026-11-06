@@ -1,0 +1,4 @@
+# Docerion header of http_security_header_132.txt.
+type: data
+title: 'Fuzzer input 132: semicolon-separated header with quoted max-age'
+summary: Fuzzer test input with a semicolon-separated HTTP security header value including a misspelled includeSubDomains token and quoted max-age.

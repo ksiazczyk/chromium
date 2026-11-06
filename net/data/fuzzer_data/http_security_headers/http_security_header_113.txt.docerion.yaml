@@ -1,0 +1,4 @@
+# Docerion header of http_security_header_113.txt.
+type: test
+title: 'Fuzzer input: whitespace around max-age and pins'
+summary: Fuzzer input with irregular whitespace around max-age and two pin-sha256 directives.
