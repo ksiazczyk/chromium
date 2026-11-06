@@ -1,0 +1,4 @@
+# Docerion header of traits_test_service.mojom.
+type: source
+title: TraitsTestService Mojom interface
+summary: Defines a Mojo interface whose Sync echo methods round-trip SelectionBound, Transform, GpuMemoryBufferHandle and RRectF to test StructTraits serialization.

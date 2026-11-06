@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RefCountedFD implementation
+// summary: Implements a reference-counted wrapper around a native file descriptor that closes it when the last reference is released.
+// ---
+
 #include "ui/gfx/x/ref_counted_fd.h"
 
 #include "base/check_op.h"

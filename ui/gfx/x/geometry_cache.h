@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 window geometry cache declaration
+// summary: Declares the GeometryCache class that tracks a window's bounds relative to the root window and invokes a callback when they change.
+// ---
+
 #ifndef UI_GFX_X_GEOMETRY_CACHE_H_
 #define UI_GFX_X_GEOMETRY_CACHE_H_
 

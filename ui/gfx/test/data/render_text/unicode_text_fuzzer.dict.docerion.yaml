@@ -1,0 +1,4 @@
+# Docerion header of unicode_text_fuzzer.dict.
+type: test
+title: Unicode text fuzzer dictionary for RenderText
+summary: Fuzzer dictionary supplying Unicode characters across many scripts, control codes, and symbols as inputs for the RenderText unicode text fuzzer.

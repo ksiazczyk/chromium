@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CALayerParams Mojo traits header
+// summary: Declares Mojo StructTraits mapping gfx::CALayerParams fields such as pixel size, scale factor, and content for serialization over Mojo IPC.
+// ---
+
 #ifndef UI_GFX_MOJOM_CA_LAYER_PARAMS_MOJOM_TRAITS_H_
 #define UI_GFX_MOJOM_CA_LAYER_PARAMS_MOJOM_TRAITS_H_
 

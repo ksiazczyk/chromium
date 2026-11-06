@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linear gradient Mojo traits implementation
+// summary: Implements deserialization of gfx::LinearGradient from Mojom, validating the step count before adding steps and setting the angle.
+// ---
+
 #include "ui/gfx/mojom/linear_gradient_mojom_traits.h"
 
 namespace mojo {

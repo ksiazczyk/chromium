@@ -1,0 +1,4 @@
+# Docerion header of font_render_params.mojom.
+type: source
+title: Font render params Mojom definition
+summary: Defines Hinting and SubpixelRendering enums mirroring the corresponding gfx::FontRenderParams enums for font rendering settings.

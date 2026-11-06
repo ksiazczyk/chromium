@@ -21,6 +21,12 @@
 //    xproto \
 //    xtest
 
+// ---docerion
+// type: source
+// title: Generated X11 extension manager header
+// summary: Generated header declaring the ExtensionManager class, which owns and provides access to all X11 extension wrappers.
+// ---
+
 #ifndef UI_GFX_X_GENERATED_PROTOS_EXTENSION_MANAGER_H_
 #define UI_GFX_X_GENERATED_PROTOS_EXTENSION_MANAGER_H_
 

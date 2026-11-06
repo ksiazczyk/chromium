@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GBM flag defines for non-minigbm builds
+// summary: Supplies GBM buffer usage flag constants copied from minigbm so Ozone builds against system libgbm compile successfully.
+// ---
+
 #ifndef UI_GFX_LINUX_GBM_DEFINES_H_
 #define UI_GFX_LINUX_GBM_DEFINES_H_
 

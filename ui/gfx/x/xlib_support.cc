@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Xlib loading and display support
+// summary: Loads libX11 and libX11-xcb, initializes threading, installs an error handler, and provides a scoped XlibDisplay wrapper.
+// ---
+
 #include "ui/gfx/x/xlib_support.h"
 
 #include "base/check.h"

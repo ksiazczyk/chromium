@@ -1,0 +1,4 @@
+# Docerion header of coordinate_conversion.mm.
+type: source
+title: gfx to AppKit screen coordinate conversion implementation
+summary: Implements conversion between gfx and AppKit screen coordinates using the primary display height.

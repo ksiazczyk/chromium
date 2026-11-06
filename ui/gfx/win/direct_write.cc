@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DirectWrite initialization and font utilities
+// summary: Implements DirectWrite factory initialization, test font sideloading, and retrieval of localized font names on Windows.
+// ---
+
 #include "ui/gfx/win/direct_write.h"
 
 #include <dwrite.h>

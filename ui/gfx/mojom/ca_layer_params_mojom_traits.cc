@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CALayerParams Mojom traits implementation
+// summary: Implements Mojo StructTraits converting gfx::CALayerParams, handling CAContext IDs and IOSurface Mach ports on Apple platforms.
+// ---
+
 #include "ui/gfx/mojom/ca_layer_params_mojom_traits.h"
 
 #include "build/build_config.h"

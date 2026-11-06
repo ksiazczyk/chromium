@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GBM wrapper implementation
+// summary: Implements GBM device and buffer wrappers over libgbm or minigbm, including plane file descriptor export and plane size calculations.
+// ---
+
 #include "ui/gfx/linux/gbm_wrapper.h"
 
 #include <drm_fourcc.h>

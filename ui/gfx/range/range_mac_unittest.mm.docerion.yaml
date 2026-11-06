@@ -1,0 +1,4 @@
+# Docerion header of range_mac_unittest.mm.
+type: test
+title: macOS unit tests for NSRange conversions
+summary: Unit tests verifying conversion between gfx::Range and NSRange, including invalid and out-of-bounds cases.

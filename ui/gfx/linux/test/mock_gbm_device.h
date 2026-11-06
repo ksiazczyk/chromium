@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock GBM device header for unit tests
+// summary: Declares MockGbmDevice, a GbmDevice substitute that avoids real DRM calls in unit tests and can simulate allocation failures and supported format modifiers.
+// ---
+
 #ifndef UI_GFX_LINUX_TEST_MOCK_GBM_DEVICE_H_
 #define UI_GFX_LINUX_TEST_MOCK_GBM_DEVICE_H_
 

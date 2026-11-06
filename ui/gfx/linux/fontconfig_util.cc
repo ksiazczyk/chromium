@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fontconfig wrapper utilities
+// summary: Wraps the global FontConfig configuration, initializing it safely and adding ChromeOS Google Sans font directories.
+// ---
+
 #include "ui/gfx/linux/fontconfig_util.h"
 
 #include <fontconfig/fontconfig.h>

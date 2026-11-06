@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linear gradient Mojo traits header
+// summary: Declares Mojo StructTraits for gfx::LinearGradient and its Step type, exposing angle, step count and steps for serialization.
+// ---
+
 #ifndef UI_GFX_MOJOM_LINEAR_GRADIENT_MOJOM_TRAITS_H_
 #define UI_GFX_MOJOM_LINEAR_GRADIENT_MOJOM_TRAITS_H_
 

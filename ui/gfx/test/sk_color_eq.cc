@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SkColor comparison assertion implementations
+// summary: Implements gtest assertion helpers for exact and per-channel-tolerant Skia color comparisons with readable failure messages.
+// ---
+
 #include "ui/gfx/test/sk_color_eq.h"
 
 #include <iomanip>

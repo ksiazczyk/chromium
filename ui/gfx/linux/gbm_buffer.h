@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GbmBuffer interface
+// summary: Defines the abstract GbmBuffer interface exposing format, plane handles, strides, offsets, and Skia surface access for GBM-allocated buffers.
+// ---
+
 #ifndef UI_GFX_LINUX_GBM_BUFFER_H_
 #define UI_GFX_LINUX_GBM_BUFFER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of unit_tests_bundle_data.globlist.
+type: config
+title: Codec unit tests bundle data globlist
+summary: Generated glob list that bundles all codec test data files while excluding OWNERS and the filelist and globlist files themselves.

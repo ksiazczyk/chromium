@@ -1,0 +1,4 @@
+# Docerion header of frame_data.mojom.
+type: source
+title: FrameData mojom definition
+summary: Defines the Mojo FrameData struct mirroring gfx::FrameData, carrying a frame sequence number and swap trace ID passed through SwapBuffers calls.

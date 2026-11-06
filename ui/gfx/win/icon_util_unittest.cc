@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IconUtil unit tests
+// summary: Unit tests for the Windows icon utility, covering loading icons from files, creating icons from bitmaps and checking all expected icon sizes.
+// ---
+
 #include "ui/gfx/win/icon_util.h"
 
 #include <stddef.h>

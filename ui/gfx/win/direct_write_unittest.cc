@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DirectWrite localized font name tests
+// summary: Unit tests verifying RetrieveLocalizedFontName returns correct localized and default font names for en-US, ja-JP, and ko-KR locales.
+// ---
+
 #include "ui/gfx/win/direct_write.h"
 
 #include "base/i18n/rtl.h"

@@ -1,0 +1,4 @@
+# Docerion header of selection_bound.mojom.
+type: source
+title: Mojom definition of gfx::SelectionBound
+summary: Defines the Mojo struct and SelectionBoundType enum mirroring gfx::SelectionBound, covering selection edge points and visibility.

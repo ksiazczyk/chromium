@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit test entry point for gfx
+// summary: Initializes the gfx test suite with UI resources, paths, and fonts, then launches all gfx unit tests.
+// ---
+
 #include "base/compiler_specific.h"
 #include "base/functional/bind.h"
 #include "base/path_service.h"

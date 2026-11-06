@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IconUtil class declarations
+// summary: Declares the IconUtil class with methods for converting HICON handles to SkBitmaps, loading icon resources, and writing .ico files from image families.
+// ---
+
 #ifndef UI_GFX_WIN_ICON_UTIL_H_
 #define UI_GFX_WIN_ICON_UTIL_H_
 

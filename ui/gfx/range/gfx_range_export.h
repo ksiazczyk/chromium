@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Export macros for the gfx range component
+// summary: Declares the GFX_RANGE_EXPORT macro controlling symbol visibility for DLL and component builds.
+// ---
+
 #ifndef UI_GFX_RANGE_GFX_RANGE_EXPORT_H_
 #define UI_GFX_RANGE_GFX_RANGE_EXPORT_H_
 

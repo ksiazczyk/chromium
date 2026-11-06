@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Display physical size lookup implementation
+// summary: Implements GetPhysicalSizeForDisplays, reading monitor EDID data via the Windows setup API to report physical display sizes in millimetres.
+// ---
+
 #include "ui/gfx/win/physical_size.h"
 
 #include <windows.h>

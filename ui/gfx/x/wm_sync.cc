@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window manager sync implementation
+// summary: Implements WmSync, which synchronizes with the X11 window manager or server by observing ConfigureNotify events on a hidden window.
+// ---
+
 #include "ui/gfx/x/wm_sync.h"
 
 #include "ui/gfx/x/connection.h"

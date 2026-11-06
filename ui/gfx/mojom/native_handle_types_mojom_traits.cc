@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native handle types Mojom traits implementation
+// summary: Implements Mojo serialization traits that convert gfx native handle types to and from their Mojom representations on each supported platform.
+// ---
+
 #include "ui/gfx/mojom/native_handle_types_mojom_traits.h"
 
 #include "base/notreached.h"

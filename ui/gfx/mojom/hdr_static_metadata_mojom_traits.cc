@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HDR static metadata Mojo traits implementation
+// summary: Implements deserialization of HDRStaticMetadata from its Mojom representation into the gfx::HDRStaticMetadata fields.
+// ---
+
 #include "ui/gfx/mojom/hdr_static_metadata_mojom_traits.h"
 
 namespace mojo {

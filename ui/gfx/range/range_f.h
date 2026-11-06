@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the gfx::RangeF floating-point range class
+// summary: Defines a floating-point version of Range with direction handling, intersection, and floor, ceil, and round conversions to Range.
+// ---
+
 #ifndef UI_GFX_RANGE_RANGE_F_H_
 #define UI_GFX_RANGE_RANGE_F_H_
 

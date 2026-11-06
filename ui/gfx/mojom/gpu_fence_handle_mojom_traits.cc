@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GpuFenceHandle Mojo struct traits implementation
+// summary: Implements mojo StructTraits for GpuFenceHandle, converting between platform handles and the gfx C++ type on POSIX and Windows.
+// ---
+
 #include "ui/gfx/mojom/gpu_fence_handle_mojom_traits.h"
 
 #include "build/build_config.h"

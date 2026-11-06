@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the gfx range component
+summary: GN build file defining the range component, listing its sources and adding the macOS implementation for Apple builds.

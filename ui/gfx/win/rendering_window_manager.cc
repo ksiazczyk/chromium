@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Rendering window manager implementation
+// summary: Implements the RenderingWindowManager singleton that registers parent windows and attaches GPU-process child HWNDs for rendering.
+// ---
+
 #include "ui/gfx/win/rendering_window_manager.h"
 
 #include "base/functional/bind.h"

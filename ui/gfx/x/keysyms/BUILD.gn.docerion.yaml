@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build file for the keysyms source set
+summary: Defines the keysyms source_set build target that publishes keysyms.h as its public header.

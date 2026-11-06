@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Internal helpers for the X11 protocol implementation
+// summary: Declares internal helpers including ref-counted memory wrappers and buffer read, pad, and align utilities used by the X11 protocol code.
+// ---
+
 #ifndef UI_GFX_X_XPROTO_INTERNAL_H_
 #define UI_GFX_X_XPROTO_INTERNAL_H_
 

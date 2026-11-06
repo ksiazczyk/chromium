@@ -1,0 +1,4 @@
+# Docerion header of overlay_transform.mojom.
+type: source
+title: OverlayTransform Mojom enum
+summary: Defines the Mojo enum mirroring gfx::OverlayTransform values for flips and clockwise rotations of overlay planes.

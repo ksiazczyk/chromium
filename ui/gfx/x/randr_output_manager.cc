@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RandROutputManager implementation
+// summary: Implements management of RandR output modes and monitor layouts, including resizing monitors and computing display layout differences.
+// ---
+
 #include "ui/gfx/x/randr_output_manager.h"
 
 #include <stdint.h>

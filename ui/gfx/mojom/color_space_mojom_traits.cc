@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ColorSpace Mojo traits implementation
+// summary: Implements the Read function of ColorSpace StructTraits, rejecting non-finite custom primary matrices and transfer parameters.
+// ---
+
 #include "ui/gfx/mojom/color_space_mojom_traits.h"
 
 #include <cmath>

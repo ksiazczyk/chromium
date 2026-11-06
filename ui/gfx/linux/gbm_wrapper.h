@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GBM device wrapper header
+// summary: Declares factory functions to create a GBM device from a file descriptor or wrap an existing gbm_device pointer.
+// ---
+
 #ifndef UI_GFX_LINUX_GBM_WRAPPER_H_
 #define UI_GFX_LINUX_GBM_WRAPPER_H_
 

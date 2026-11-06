@@ -1,0 +1,4 @@
+# Docerion header of delegated_ink_point_renderer.mojom.
+type: source
+title: Delegated ink point renderer Mojom interface
+summary: Defines the DelegatedInkPointRenderer interface the browser process uses to send delegated ink points to viz and reset trail prediction.

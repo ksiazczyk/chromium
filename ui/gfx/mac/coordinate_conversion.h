@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: gfx to AppKit screen coordinate conversion declarations
+// summary: Declares functions converting points and rects between gfx top-left and AppKit bottom-left screen coordinates.
+// ---
+
 #ifndef UI_GFX_MAC_COORDINATE_CONVERSION_H_
 #define UI_GFX_MAC_COORDINATE_CONVERSION_H_
 

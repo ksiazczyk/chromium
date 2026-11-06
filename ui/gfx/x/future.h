@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 future classes declaration
+// summary: Declares FutureImpl, FutureBase, and the typed Future template for handling asynchronous X11 server replies synchronously or via callbacks.
+// ---
+
 #ifndef UI_GFX_X_FUTURE_H_
 #define UI_GFX_X_FUTURE_H_
 

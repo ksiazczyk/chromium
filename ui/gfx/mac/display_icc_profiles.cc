@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Display ICC profile cache implementation
+// summary: Implements a singleton mapping color spaces to display ICC profile data, refreshed when displays are reconfigured.
+// ---
+
 #include "ui/gfx/mac/display_icc_profiles.h"
 
 #include "base/apple/foundation_util.h"

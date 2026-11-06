@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Menu item title elider for Mac
+// summary: Declares ElideMenuItemTitle, which truncates menu item titles with a middle ellipsis using the system menu font.
+// ---
+
 #ifndef UI_GFX_MAC_MENU_TEXT_ELIDER_MAC_H_
 #define UI_GFX_MAC_MENU_TEXT_ELIDER_MAC_H_
 

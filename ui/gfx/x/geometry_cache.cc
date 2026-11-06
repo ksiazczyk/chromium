@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 window geometry cache implementation
+// summary: Implements GeometryCache, which tracks a window's geometry relative to the root window by caching parent chain geometry and notifying on changes.
+// ---
+
 #include "ui/gfx/x/geometry_cache.h"
 
 #include <memory>

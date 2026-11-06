@@ -21,6 +21,12 @@
 //    xproto \
 //    xtest
 
+// ---docerion
+// type: source
+// title: Generated X11 extension manager implementation
+// summary: Generated implementation that queries and instantiates all supported X11 extensions and maps event opcodes to event type IDs.
+// ---
+
 #include "ui/gfx/x/extension_manager.h"
 
 #include <xcb/xcb.h>

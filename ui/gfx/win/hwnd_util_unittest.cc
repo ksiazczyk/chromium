@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for HWND utilities
+// summary: Contains unit tests for HWND helpers, including IsWindowVisibleAndFullyOpaque behavior for windows with attributes like minimized or transparent.
+// ---
+
 #include "ui/gfx/win/hwnd_util.h"
 
 #include <dwmapi.h>

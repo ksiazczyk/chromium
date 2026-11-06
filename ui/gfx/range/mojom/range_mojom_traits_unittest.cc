@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Range mojom struct traits
+// summary: Verifies that gfx::Range and gfx::RangeF survive Mojo serialization round trips, including invalid ranges, through a test service.
+// ---
+
 #include <utility>
 
 #include "base/test/task_environment.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SingletonHwndHotKeyObserver header
+// summary: Declares a helper that registers hot keys on the SingletonHwnd with unique IDs and unregisters them on destruction.
+// ---
+
 #ifndef UI_GFX_WIN_SINGLETON_HWND_HOT_KEY_OBSERVER_H_
 #define UI_GFX_WIN_SINGLETON_HWND_HOT_KEY_OBSERVER_H_
 

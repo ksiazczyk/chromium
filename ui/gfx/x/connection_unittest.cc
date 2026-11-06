@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the X11 connection
+// summary: Tests connection setup, requests, events, error handling, large QueryTree responses, and GetProperty reply validation.
+// ---
+
 #include "ui/gfx/x/connection.h"
 
 #include "base/memory/ref_counted_memory.h"

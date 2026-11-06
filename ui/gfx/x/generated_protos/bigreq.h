@@ -21,6 +21,12 @@
 //    xproto \
 //    xtest
 
+// ---docerion
+// type: source
+// title: Generated BIG-REQUESTS extension header
+// summary: Generated C++ header declaring the BigRequests class, which queries the server's maximum request length via the Enable request.
+// ---
+
 #ifndef UI_GFX_X_GENERATED_PROTOS_BIGREQ_H_
 #define UI_GFX_X_GENERATED_PROTOS_BIGREQ_H_
 

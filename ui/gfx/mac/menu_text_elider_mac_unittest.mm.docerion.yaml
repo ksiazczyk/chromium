@@ -1,0 +1,4 @@
+# Docerion header of menu_text_elider_mac_unittest.mm.
+type: test
+title: Menu item title elider unit tests
+summary: Unit tests for menu item title eliding, covering width limits, Chinese text, and emoji surrogate handling.

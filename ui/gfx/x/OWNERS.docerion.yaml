@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners list for ui/gfx/x
+summary: Lists the directory owner and exempts changes to atom_cache.cc from owner review.

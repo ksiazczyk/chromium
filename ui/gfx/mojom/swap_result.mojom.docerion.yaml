@@ -1,0 +1,4 @@
+# Docerion header of swap_result.mojom.
+type: source
+title: Mojom definition of gfx::SwapResult
+summary: Defines the SwapResult enum indicating whether a buffer swap succeeded, used by Ozone/Wayland to report GPU swap outcomes.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Elevation icon declarations
+// summary: Declares GetElevationIcon, returning the system security shield icon for UAC prompts or an empty bitmap when UAC is disabled.
+// ---
+
 #ifndef UI_GFX_WIN_GET_ELEVATION_ICON_H_
 #define UI_GFX_WIN_GET_ELEVATION_ICON_H_
 

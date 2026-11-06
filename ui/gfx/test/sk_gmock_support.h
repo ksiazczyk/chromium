@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: gmock matchers for bitmap comparison
+// summary: Provides IsCloseToBitmap and EqualsBitmap matchers that compare bitmaps pixel by pixel and report error counts and bounding boxes.
+// ---
+
 #ifndef UI_GFX_TEST_SK_GMOCK_SUPPORT_H_
 #define UI_GFX_TEST_SK_GMOCK_SUPPORT_H_
 

@@ -21,6 +21,12 @@
 //    xproto \
 //    xtest
 
+// ---docerion
+// type: source
+// title: Generated X11 SYNC extension protocol implementation
+// summary: Auto-generated implementation of the X11 SYNC extension, decoding its counter and alarm errors and notify events and encoding its requests over the X connection.
+// ---
+
 #include "sync.h"
 
 #include <unistd.h>

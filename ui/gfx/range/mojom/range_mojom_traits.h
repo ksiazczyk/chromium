@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StructTraits for serializing gfx Range and RangeF
+// summary: Maps gfx::Range and gfx::RangeF C++ types to their Mojo counterparts via StructTraits for serialization and deserialization.
+// ---
+
 #ifndef UI_GFX_RANGE_MOJOM_RANGE_MOJOM_TRAITS_H_
 #define UI_GFX_RANGE_MOJOM_RANGE_MOJOM_TRAITS_H_
 

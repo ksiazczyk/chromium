@@ -1,0 +1,4 @@
+# Docerion header of unit_tests_bundle_data.globlist.
+type: test
+title: Compositor unit tests bundle data glob list
+summary: Generated glob list that selects all compositor test data files for the iOS unit test bundle while excluding the filelist and globlist files themselves.

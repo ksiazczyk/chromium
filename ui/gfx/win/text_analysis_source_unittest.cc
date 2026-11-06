@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TextAnalysisSource unit tests
+// summary: Tests locale, number substitution, reading direction and text chunk retrieval behavior of the DirectWrite analysis source.
+// ---
+
 #include "ui/gfx/win/text_analysis_source.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 keyboard state implementation
+// summary: Implements keyboard state mapping between keysyms and keycodes with separate core-protocol and XKB backends, including case conversion and modifier handling.
+// ---
+
 #include "ui/gfx/x/keyboard_state.h"
 
 #include "base/i18n/case_conversion.h"

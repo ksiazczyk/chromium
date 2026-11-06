@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock GBM device implementation for unit tests
+// summary: Implements MockGbmDevice and a MockGbmBuffer that fake GBM buffer creation, plane metadata, and allocation failures so Chromium unit tests can run without real DRM calls.
+// ---
+
 #include "ui/gfx/linux/test/mock_gbm_device.h"
 
 #include <xf86drm.h>

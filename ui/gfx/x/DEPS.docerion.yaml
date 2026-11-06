@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for ui/gfx/x
+summary: Grants this directory include access to platform event sources and the libx11, libxcb-keysyms, and x11proto third-party libraries.

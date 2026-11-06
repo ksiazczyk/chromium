@@ -1,0 +1,4 @@
+# Docerion header of accelerated_widget.mojom.
+type: source
+title: AcceleratedWidget Mojom struct definition
+summary: Defines the AcceleratedWidget Mojom struct that wraps a native widget handle as a 64-bit integer.

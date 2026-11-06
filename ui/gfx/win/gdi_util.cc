@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GDI utility implementations for Windows
+// summary: Implements GDI helpers that build a BITMAPV4HEADER for 32-bit ARGB8888 bitmaps and calculate or apply scaling of a device context to fit a page.
+// ---
+
 #include "ui/gfx/win/gdi_util.h"
 
 #include <stddef.h>

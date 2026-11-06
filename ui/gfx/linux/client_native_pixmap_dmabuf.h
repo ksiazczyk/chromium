@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client native pixmap dmabuf class declaration
+// summary: Declares ClientNativePixmapDmaBuf, which maps dmabuf-backed native pixmaps and exposes plane memory, strides and IPC handle cloning.
+// ---
+
 #ifndef UI_GFX_LINUX_CLIENT_NATIVE_PIXMAP_DMABUF_H_
 #define UI_GFX_LINUX_CLIENT_NATIVE_PIXMAP_DMABUF_H_
 

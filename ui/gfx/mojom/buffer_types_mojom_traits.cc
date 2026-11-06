@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GpuMemoryBufferHandle Mojom traits implementation
+// summary: Implements Mojo StructTraits for converting gfx::GpuMemoryBufferHandle to and from its Mojom representation under Blink builds.
+// ---
+
 #include "ui/gfx/mojom/buffer_types_mojom_traits.h"
 
 #include "build/blink_buildflags.h"

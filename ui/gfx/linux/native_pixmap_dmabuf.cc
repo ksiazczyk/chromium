@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NativePixmapDmaBuf implementation
+// summary: Implements the NativePixmapDmaBuf class, exposing dmabuf plane fds, strides, offsets, sizes and format modifiers for a native pixmap handle.
+// ---
+
 #include "ui/gfx/linux/native_pixmap_dmabuf.h"
 
 #include <utility>

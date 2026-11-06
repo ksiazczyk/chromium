@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GDI utility declarations for Windows
+// summary: Declares gfx namespace helpers for creating ARGB8888 bitmap V4 headers and for scaling Windows device contexts.
+// ---
+
 #ifndef UI_GFX_WIN_GDI_UTIL_H_
 #define UI_GFX_WIN_GDI_UTIL_H_
 

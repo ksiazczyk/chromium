@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NativePixmapDmaBuf class declaration
+// summary: Declares the NativePixmapDmaBuf class, which adapts a gfx::NativePixmapHandle into a gfx::NativePixmap with dmabuf plane accessors.
+// ---
+
 #ifndef UI_GFX_LINUX_NATIVE_PIXMAP_DMABUF_H_
 #define UI_GFX_LINUX_NATIVE_PIXMAP_DMABUF_H_
 

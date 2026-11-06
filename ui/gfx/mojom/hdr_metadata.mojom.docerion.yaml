@@ -1,0 +1,4 @@
+# Docerion header of hdr_metadata.mojom.
+type: source
+title: HDRMetadata mojom definition
+summary: Defines the Mojo HDRMetadata struct mirroring gfx::HDRMetadata using Skia mojom types for mastering display, content light level, and tone mapping data.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GFX Mojom struct traits unit tests
+// summary: Unit tests that round-trip gfx types such as color spaces, transforms, selection bounds, and GPU memory buffer handles through their Mojo struct traits.
+// ---
+
 #include <utility>
 
 #include "base/memory/platform_shared_memory_handle.h"

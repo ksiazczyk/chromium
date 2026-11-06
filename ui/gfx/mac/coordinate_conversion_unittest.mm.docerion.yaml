@@ -1,0 +1,4 @@
+# Docerion header of coordinate_conversion_unittest.mm.
+type: test
+title: Unit tests for Mac coordinate conversion
+summary: Tests point and rect conversion between gfx and AppKit screen coordinates using a swizzled NSScreen frame for deterministic results.

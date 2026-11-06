@@ -1,0 +1,4 @@
+# Docerion header of dxgi_info.mojom.
+type: source
+title: DXGI info Mojom definition
+summary: Defines DXGIOutputDesc and DXGIInfo structs carrying display output details such as HDR state, primaries, and luminance from the GPU process.

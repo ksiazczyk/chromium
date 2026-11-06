@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HWND utility implementations for Windows
+// summary: Implements helpers for window class names, fitting windows to monitors, cloaking and occlusion checks, and window creation diagnostics.
+// ---
+
 #include "ui/gfx/win/hwnd_util.h"
 
 #include <windows.h>

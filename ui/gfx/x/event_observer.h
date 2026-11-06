@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 event observer interface
+// summary: Declares the EventObserver interface whose OnEvent callback lets classes receive X11 events directly instead of via a platform event observer.
+// ---
+
 #ifndef UI_GFX_X_EVENT_OBSERVER_H_
 #define UI_GFX_X_EVENT_OBSERVER_H_
 

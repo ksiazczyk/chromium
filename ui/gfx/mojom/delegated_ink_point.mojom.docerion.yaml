@@ -1,0 +1,4 @@
+# Docerion header of delegated_ink_point.mojom.
+type: source
+title: Delegated ink point Mojom definition
+summary: Defines the gfx.mojom DelegatedInkPoint struct carrying a point, timestamp, and pointer ID for delegated ink rendering.

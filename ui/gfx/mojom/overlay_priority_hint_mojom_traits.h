@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OverlayPriorityHint Mojom enum traits
+// summary: Maps gfx::OverlayPriorityHint values to and from their Mojom enum representation for Mojo serialization.
+// ---
+
 #ifndef UI_GFX_MOJOM_OVERLAY_PRIORITY_HINT_MOJOM_TRAITS_H_
 #define UI_GFX_MOJOM_OVERLAY_PRIORITY_HINT_MOJOM_TRAITS_H_
 

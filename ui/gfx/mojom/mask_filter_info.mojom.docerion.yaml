@@ -1,0 +1,4 @@
+# Docerion header of mask_filter_info.mojom.
+type: source
+title: MaskFilterInfo Mojom definition
+summary: Defines the Mojo transport struct for gfx::MaskFilterInfo with rounded corner bounds, an optional gradient mask and an optional clip id.

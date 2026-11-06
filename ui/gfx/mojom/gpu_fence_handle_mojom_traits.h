@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GpuFenceHandle Mojo struct traits header
+// summary: Declares exported mojo StructTraits for serializing gfx::GpuFenceHandle across platform-specific fence handle representations.
+// ---
+
 #ifndef UI_GFX_MOJOM_GPU_FENCE_HANDLE_MOJOM_TRAITS_H_
 #define UI_GFX_MOJOM_GPU_FENCE_HANDLE_MOJOM_TRAITS_H_
 

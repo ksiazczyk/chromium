@@ -1,0 +1,4 @@
+# Docerion header of nswindow_frame_controls.mm.
+type: source
+title: NSWindow frame control helpers implementation
+summary: Implements NSWindow helpers that adjust collection behavior, min and max content sizes, and window control buttons.

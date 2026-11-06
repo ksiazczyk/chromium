@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RandROutputManager unit tests
+// summary: Unit tests for CalculateDisplayLayoutDiff, verifying correct detection of new, updated, unchanged, and removed displays.
+// ---
+
 #include "ui/gfx/x/randr_output_manager.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Internal ref-counted memory wrappers for the X11 protocol
+// summary: Implements ref-counted memory classes that own malloced data, view a subarray of other memory, or wrap unretained pointers for the X11 protocol code.
+// ---
+
 #include "ui/gfx/x/xproto_internal.h"
 
 #include <stdint.h>

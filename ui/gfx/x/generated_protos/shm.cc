@@ -21,6 +21,12 @@
 //    xproto \
 //    xtest
 
+// ---docerion
+// type: source
+// title: Generated X11 MIT-SHM extension protocol implementation
+// summary: Implements request serialization plus event, reply and error reading for the generated x11::Shm class of the X11 MIT shared memory extension.
+// ---
+
 #include "shm.h"
 
 #include <unistd.h>

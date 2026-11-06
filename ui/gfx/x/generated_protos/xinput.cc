@@ -21,6 +21,12 @@
 //    xproto \
 //    xtest
 
+// ---docerion
+// type: source
+// title: Generated X11 XInput extension protocol implementation
+// summary: Auto-generated implementation of the X11 XInput extension, decoding device events such as valuator, focus, and state notifications and encoding its requests.
+// ---
+
 #include "xinput.h"
 
 #include <unistd.h>

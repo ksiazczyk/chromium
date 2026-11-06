@@ -21,6 +21,12 @@
 //    xproto \
 //    xtest
 
+// ---docerion
+// type: source
+// title: Generated X11 Render extension protocol implementation
+// summary: Implements request serialization plus reply and error reading for the generated x11::Render class of the X11 Render extension.
+// ---
+
 #include "render.h"
 
 #include <unistd.h>

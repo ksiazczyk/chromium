@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 connection implementation
+// summary: Implements the x11::Connection class managing the XCB connection, request and event I/O, error handling, and extension setup.
+// ---
+
 #include "ui/gfx/x/connection.h"
 
 #include <xcb/xcb.h>

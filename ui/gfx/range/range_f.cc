@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the gfx::RangeF class
+// summary: Implements intersection with integer ranges and string conversion for the floating-point range class.
+// ---
+
 #include "ui/gfx/range/range_f.h"
 
 #include <stddef.h>

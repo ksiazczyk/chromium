@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Visual manager header
+// summary: Declares the VisualManager class, which selects X11 visuals with a preference for alpha support on compositing window managers.
+// ---
+
 #ifndef UI_GFX_X_VISUAL_MANAGER_H_
 #define UI_GFX_X_VISUAL_MANAGER_H_
 

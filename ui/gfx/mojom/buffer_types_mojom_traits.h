@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Buffer types Mojom traits header
+// summary: Declares Mojo enum and struct traits mapping gfx::BufferUsage and GpuMemoryBufferHandle to their Mojom counterparts.
+// ---
+
 #ifndef UI_GFX_MOJOM_BUFFER_TYPES_MOJOM_TRAITS_H_
 #define UI_GFX_MOJOM_BUFFER_TYPES_MOJOM_TRAITS_H_
 

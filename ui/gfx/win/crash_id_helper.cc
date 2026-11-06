@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrashIdHelper implementation
+// summary: Implements a singleton that tracks window/widget ids being processed on the main thread and exposes them via a crash key to aid crash debugging.
+// ---
+
 #include "ui/gfx/win/crash_id_helper.h"
 
 #include "base/memory/ptr_util.h"

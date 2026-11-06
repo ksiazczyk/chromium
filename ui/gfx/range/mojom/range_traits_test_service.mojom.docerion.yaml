@@ -1,0 +1,4 @@
+# Docerion header of range_traits_test_service.mojom.
+type: source
+title: Mojom test service echoing Range values
+summary: Defines a Mojo interface whose methods echo Range and RangeF arguments to exercise struct traits serialization in tests.

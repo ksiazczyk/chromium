@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DelegatedInkMetadata Mojo traits implementation
+// summary: Implements the Read function of DelegatedInkMetadata StructTraits, rejecting negative diameters and constructing the gfx object.
+// ---
+
 #include "ui/gfx/mojom/delegated_ink_metadata_mojom_traits.h"
 #include "base/time/time.h"
 

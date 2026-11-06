@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SingletonHwnd header for a shared message-only window
+// summary: Declares a singleton message-only HWND that dispatches Windows messages to registered callback subscribers.
+// ---
+
 #ifndef UI_GFX_WIN_SINGLETON_HWND_H_
 #define UI_GFX_WIN_SINGLETON_HWND_H_
 

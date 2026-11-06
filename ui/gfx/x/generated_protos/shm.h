@@ -21,6 +21,12 @@
 //    xproto \
 //    xtest
 
+// ---docerion
+// type: source
+// title: Generated X11 MIT-SHM extension protocol bindings
+// summary: Declares the generated x11::Shm class with shared memory segment requests such as Attach, Detach and PutImage for the X11 SHM extension.
+// ---
+
 #ifndef UI_GFX_X_GENERATED_PROTOS_SHM_H_
 #define UI_GFX_X_GENERATED_PROTOS_SHM_H_
 

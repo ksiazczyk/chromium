@@ -1,0 +1,4 @@
+# Docerion header of presentation_feedback.mojom.
+type: source
+title: Mojom definition of gfx::PresentationFeedback
+summary: Defines the Mojo struct mirroring gfx::PresentationFeedback, with frame swap timestamps, flags, optional CALayer result and display trace ID.

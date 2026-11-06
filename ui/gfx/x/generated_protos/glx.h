@@ -21,6 +21,12 @@
 //    xproto \
 //    xtest
 
+// ---docerion
+// type: source
+// title: Generated GLX extension header
+// summary: Generated C++ header declaring the Glx class with enums, errors, and request and reply types for the X11 GLX extension.
+// ---
+
 #ifndef UI_GFX_X_GENERATED_PROTOS_GLX_H_
 #define UI_GFX_X_GENERATED_PROTOS_GLX_H_
 

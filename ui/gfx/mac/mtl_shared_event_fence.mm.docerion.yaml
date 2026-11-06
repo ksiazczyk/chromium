@@ -1,0 +1,4 @@
+# Docerion header of mtl_shared_event_fence.mm.
+type: source
+title: Metal shared event fence implementation
+summary: Implements MTLSharedEventFence, including reduction of fence lists to the highest value per shared event and signal checks.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D3DSharedFence class declaration
+// summary: Declares a thread-safe ref-counted wrapper around D3D11/D3D12 fences with factory methods for creating fences from devices, queues, or shared handles.
+// ---
+
 #ifndef UI_GFX_WIN_D3D_SHARED_FENCE_H_
 #define UI_GFX_WIN_D3D_SHARED_FENCE_H_
 

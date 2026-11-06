@@ -21,6 +21,12 @@
 //    xproto \
 //    xtest
 
+// ---docerion
+// type: source
+// title: Generated GLX extension implementation
+// summary: Generated C++ implementation of the X11 GLX extension, including error classes and serialization for GLX requests and replies.
+// ---
+
 #include "glx.h"
 
 #include <unistd.h>

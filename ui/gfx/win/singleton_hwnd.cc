@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Singleton Hwnd implementation
+// summary: Implements the SingletonHwnd message window that forwards Windows messages to registered observer callbacks.
+// ---
+
 #include "ui/gfx/win/singleton_hwnd.h"
 
 #include <utility>

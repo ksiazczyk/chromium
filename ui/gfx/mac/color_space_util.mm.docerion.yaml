@@ -1,0 +1,4 @@
+# Docerion header of color_space_util.mm.
+type: source
+title: Implementation of color space to CoreVideo key conversions
+summary: Implements conversion between gfx::ColorSpace and CoreVideo/CoreMedia color primaries, transfer functions, and matrix keys.

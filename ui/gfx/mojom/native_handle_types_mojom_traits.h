@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native handle types Mojom traits declarations
+// summary: Declares Mojo StructTraits specializations for serializing gfx native handle types such as native pixmaps, DXGI handles, and IOSurfaces.
+// ---
+
 #ifndef UI_GFX_MOJOM_NATIVE_HANDLE_TYPES_MOJOM_TRAITS_H_
 #define UI_GFX_MOJOM_NATIVE_HANDLE_TYPES_MOJOM_TRAITS_H_
 

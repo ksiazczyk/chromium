@@ -1,0 +1,4 @@
+# Docerion header of native_handle_types.mojom.
+type: source
+title: Native handle types Mojom definitions
+summary: Defines Mojo structs and a union for platform-specific GPU memory buffer handles, including native pixmaps, AHardwareBuffer, DXGI, and IOSurface handles.

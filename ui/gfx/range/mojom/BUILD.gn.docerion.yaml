@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for gfx range mojom
+summary: Defines Mojo bindings targets for range.mojom with shared C++ and Blink typemaps, WebUI bindings, a test interface target, and a unit test source set.

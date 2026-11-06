@@ -1,0 +1,4 @@
+# Docerion header of overlay_type.mojom.
+type: source
+title: OverlayType Mojom enum
+summary: Defines the Mojo enum mirroring gfx::OverlayType values such as simple, underlay, single-on-top, and full-screen overlays.

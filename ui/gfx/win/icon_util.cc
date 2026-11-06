@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows icon conversion utilities
+// summary: Implements the IconUtil helpers that convert between HICON handles and SkBitmaps and build .ico files from image families for Windows.
+// ---
+
 #include "ui/gfx/win/icon_util.h"
 
 #include <windows.h>

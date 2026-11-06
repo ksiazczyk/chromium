@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GpuExtraInfo Mojo struct traits implementation
+// summary: Implements mojo StructTraits Read functions that deserialize ANGLEFeature and GpuExtraInfo mojom data into their gfx C++ types.
+// ---
+
 #include "ui/gfx/mojom/gpu_extra_info_mojom_traits.h"
 
 namespace mojo {

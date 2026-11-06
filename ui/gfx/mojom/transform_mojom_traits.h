@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Transform Mojom traits header
+// summary: Header defining mojo UnionTraits and StructTraits that serialize gfx::Transform to its Mojom form, rejecting non-finite matrix values.
+// ---
+
 #ifndef UI_GFX_MOJOM_TRANSFORM_MOJOM_TRAITS_H_
 #define UI_GFX_MOJOM_TRANSFORM_MOJOM_TRAITS_H_
 

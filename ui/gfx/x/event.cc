@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 event implementation
+// summary: Implements the x11::Event class that wraps raw XCB event bytes, normalizes generic event layout, and lazily parses events into typed structures.
+// ---
+
 #include "ui/gfx/x/event.h"
 
 #include <xcb/xcb.h>

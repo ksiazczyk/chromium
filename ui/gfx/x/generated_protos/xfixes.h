@@ -21,6 +21,12 @@
 //    xproto \
 //    xtest
 
+// ---docerion
+// type: source
+// title: Generated X11 XFixes extension protocol header
+// summary: Auto-generated declarations for the X11 XFixes extension, defining its enums, event and error structs, and request and reply types like QueryVersion and ChangeSaveSet.
+// ---
+
 #ifndef UI_GFX_X_GENERATED_PROTOS_XFIXES_H_
 #define UI_GFX_X_GENERATED_PROTOS_XFIXES_H_
 

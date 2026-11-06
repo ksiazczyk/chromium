@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window manager sync header
+// summary: Declares the WmSync class that synchronizes with the X11 window manager if one is running, otherwise with the X11 server.
+// ---
+
 #ifndef UI_GFX_X_WM_SYNC_H_
 #define UI_GFX_X_WM_SYNC_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: RenderText OWNERS
+summary: Lists the owners responsible for reviewing RenderText and related classes through per-file ownership rules.

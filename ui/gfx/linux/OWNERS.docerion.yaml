@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for ui/gfx/linux
+summary: Lists owners of the Linux gfx directory, with fontconfig utility files owned by the fontconfig team.

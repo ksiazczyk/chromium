@@ -1,0 +1,4 @@
+# Docerion header of buffer_types.mojom.
+type: source
+title: Buffer usage and GPU memory buffer handle Mojom definitions
+summary: Defines the BufferUsage enum, GpuMemoryBufferId, and GpuMemoryBufferHandle Mojom types mirroring the gfx buffer types.

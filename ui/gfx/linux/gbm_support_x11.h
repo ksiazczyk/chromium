@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GBMSupportX11 singleton header
+// summary: Declares the GBMSupportX11 singleton that holds a GbmDevice and creates GBM buffers for supported usage and format pairs.
+// ---
+
 #ifndef UI_GFX_LINUX_GBM_SUPPORT_X11_H_
 #define UI_GFX_LINUX_GBM_SUPPORT_X11_H_
 

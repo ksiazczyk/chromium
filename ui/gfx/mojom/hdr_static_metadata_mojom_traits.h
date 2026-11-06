@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HDR static metadata Mojo traits header
+// summary: Declares Mojo StructTraits that expose gfx::HDRStaticMetadata fields for serialization and declare the Mojom read function.
+// ---
+
 #ifndef UI_GFX_MOJOM_HDR_STATIC_METADATA_MOJOM_TRAITS_H_
 #define UI_GFX_MOJOM_HDR_STATIC_METADATA_MOJOM_TRAITS_H_
 

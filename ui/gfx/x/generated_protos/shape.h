@@ -21,6 +21,12 @@
 //    xproto \
 //    xtest
 
+// ---docerion
+// type: source
+// title: Generated X11 Shape extension protocol bindings
+// summary: Declares the generated x11::Shape class with operations, shape kinds, notify events and requests such as Rectangles, Mask and Combine.
+// ---
+
 #ifndef UI_GFX_X_GENERATED_PROTOS_SHAPE_H_
 #define UI_GFX_X_GENERATED_PROTOS_SHAPE_H_
 

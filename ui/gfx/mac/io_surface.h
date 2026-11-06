@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IOSurface helpers for Mac graphics
+// summary: Declares scopers and helpers for creating IOSurfaces, converting shared image formats, and setting IOSurface color spaces on Apple platforms.
+// ---
+
 #ifndef UI_GFX_MAC_IO_SURFACE_H_
 #define UI_GFX_MAC_IO_SURFACE_H_
 

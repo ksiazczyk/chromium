@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window event manager implementation
+// summary: Implements WindowEventManager and ScopedEventSelector, letting multiple Chrome clients share event masks on the same X11 window.
+// ---
+
 #include "ui/gfx/x/window_event_manager.h"
 
 #include <stddef.h>

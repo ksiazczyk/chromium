@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ColorSpace Mojo traits header
+// summary: Declares Mojo EnumTraits and StructTraits mapping gfx::ColorSpace and its primary, transfer, matrix, and range identifiers for IPC.
+// ---
+
 #ifndef UI_GFX_MOJOM_COLOR_SPACE_MOJOM_TRAITS_H_
 #define UI_GFX_MOJOM_COLOR_SPACE_MOJOM_TRAITS_H_
 
