@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageTextAgent implementation
+// summary: Implements the renderer-side PageTextAgent that fulfills page text dump requests over Mojo, delivering chunked text on meaningful layout events and finished loads for AMP subframes.
+// ---
+
 #include "components/optimization_guide/content/renderer/page_text_agent.h"
 
 #include "base/functional/callback_helpers.h"

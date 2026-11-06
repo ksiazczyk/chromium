@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media transcript provider unit tests
+// summary: Tests getting, setting and clearing the MediaTranscriptProvider across single and multiple WebContents instances.
+// ---
+
 #include "components/optimization_guide/content/browser/media_transcript_provider.h"
 
 #include "components/optimization_guide/content/browser/mock_media_transcript_provider.h"

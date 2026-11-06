@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page context eligibility API struct implementations
+// summary: Defines constructors and destructors for the MetaTag, FrameUrl, and FrameMetadata structs used by the page context eligibility C API.
+// ---
+
 #include "components/optimization_guide/content/browser/page_context_eligibility_api.h"
 
 extern "C" {

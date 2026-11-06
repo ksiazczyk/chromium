@@ -1,0 +1,4 @@
+# Docerion header of features.gni.
+type: config
+title: Optimization guide feature build arguments
+summary: Declares GN build arguments controlling inclusion of internal optimization guide code and model execution per platform.

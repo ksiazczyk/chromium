@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for on-device translation buildflags
+summary: GN build file that generates a buildflag header exposing the ENABLE_ON_DEVICE_TRANSLATION flag to C++ code.

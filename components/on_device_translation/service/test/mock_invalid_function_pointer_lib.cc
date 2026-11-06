@@ -5,6 +5,12 @@
 // This file does not contain any of the methods in the TranslateKit API to
 // check the behavior of the InvalidFunctionPointer failure.
 
+// ---docerion
+// type: test
+// title: Mock library without TranslateKit API functions
+// summary: Exports only a dummy function and none of the TranslateKit API methods, so loading it triggers the InvalidFunctionPointer failure during tests.
+// ---
+
 #include <cstdint>
 
 #include "base/compiler_specific.h"

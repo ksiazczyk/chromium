@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MessagePortTlsConnection unit tests
+// summary: Unit tests for MessagePortTlsConnection that verify message delivery to connection clients using mock message ports, connection clients, and task runners.
+// ---
+
 #include "components/openscreen_platform/message_port_tls_connection.h"
 
 #include <memory>

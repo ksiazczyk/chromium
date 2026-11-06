@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for openscreen_platform
+summary: Sets the include rules restricting which directories this component and its unittests may include headers from.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gmail OTP backend implementation header
+// summary: Declares GmailOtpBackendImpl, the concrete GmailOtpBackend that fetches OTPs and consent states, including its token cache key and subscription handling.
+// ---
+
 #ifndef COMPONENTS_ONE_TIME_TOKENS_CORE_BROWSER_GMAIL_OTP_BACKEND_IMPL_H_
 #define COMPONENTS_ONE_TIME_TOKENS_CORE_BROWSER_GMAIL_OTP_BACKEND_IMPL_H_
 

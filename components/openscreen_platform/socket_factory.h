@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SocketFactory getter declarations
+// summary: Declares Set, Clear, IsSet, and GetSocketFactory for obtaining the mojom SocketFactory on demand without storing returned pointers.
+// ---
+
 #ifndef COMPONENTS_OPENSCREEN_PLATFORM_SOCKET_FACTORY_H_
 #define COMPONENTS_OPENSCREEN_PLATFORM_SOCKET_FACTORY_H_
 

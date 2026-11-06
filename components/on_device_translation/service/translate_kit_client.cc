@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TranslateKit client implementation
+// summary: Implements the client wrapping the C-style TranslateKit interfaces, loading the library, mapping model files, creating translators and logging UMA metrics.
+// ---
+
 #include "components/on_device_translation/service/translate_kit_client.h"
 
 #include <map>

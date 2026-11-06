@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media transcript provider implementation
+// summary: Implements per-WebContents storage and retrieval of the MediaTranscriptProvider via its user data key.
+// ---
+
 #include "components/optimization_guide/content/browser/media_transcript_provider.h"
 
 #include "content/public/browser/web_contents.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Non-responsive AI page content agent header
+// summary: Declares a test interceptor for the AIPageContentAgent Mojo interface that simulates a non-responsive renderer, with wait, respond, and disconnect controls.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CONTENT_BROWSER_NO_RESPONSE_AI_PAGE_CONTENT_AGENT_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CONTENT_BROWSER_NO_RESPONSE_AI_PAGE_CONTENT_AGENT_H_
 

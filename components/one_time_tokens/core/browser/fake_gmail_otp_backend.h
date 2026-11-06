@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Gmail OTP backend header
+// summary: Declares FakeGmailOtpBackend, a testing implementation of GmailOtpBackend that lets tests manually simulate OTP arrival and inspect backend notifications.
+// ---
+
 #ifndef COMPONENTS_ONE_TIME_TOKENS_CORE_BROWSER_FAKE_GMAIL_OTP_BACKEND_H_
 #define COMPONENTS_ONE_TIME_TOKENS_CORE_BROWSER_FAKE_GMAIL_OTP_BACKEND_H_
 

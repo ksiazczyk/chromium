@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network type conversion helper declarations
+// summary: Declares helper functions that convert IP addresses and endpoints between Open Screen and Chromium //net types.
+// ---
+
 #ifndef COMPONENTS_OPENSCREEN_PLATFORM_NETWORK_UTIL_H_
 #define COMPONENTS_OPENSCREEN_PLATFORM_NETWORK_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gmail OTP backend implementation
+// summary: Implements GmailOtpBackendImpl, which manages subscriptions, caches notifications and one-time tokens, and fetches Gmail OTPs and user data processing consent from the backend.
+// ---
+
 #include "components/one_time_tokens/core/browser/gmail_otp_backend_impl.h"
 
 #include <ranges>

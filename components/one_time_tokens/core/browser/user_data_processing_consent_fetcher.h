@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User data processing consent fetcher header
+// summary: Declares UserDataProcessingConsentFetcher, which retrieves consent states over the network using the identity manager and a URL loader factory.
+// ---
+
 #ifndef COMPONENTS_ONE_TIME_TOKENS_CORE_BROWSER_USER_DATA_PROCESSING_CONSENT_FETCHER_H_
 #define COMPONENTS_ONE_TIME_TOKENS_CORE_BROWSER_USER_DATA_PROCESSING_CONSENT_FETCHER_H_
 

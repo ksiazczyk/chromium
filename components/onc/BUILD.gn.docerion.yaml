@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the onc component
+summary: Defines the onc component target, listing its constant and pref name sources and its dependencies on base, pref_registry and prefs.

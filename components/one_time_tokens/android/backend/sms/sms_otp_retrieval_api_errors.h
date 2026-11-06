@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SMS OTP retrieval API error codes
+// summary: Defines the SmsOtpRetrievalApiError enum listing error codes returned by the Android SMS Retriever API, kept in sync with the error converter and metrics enums.
+// ---
+
 #ifndef COMPONENTS_ONE_TIME_TOKENS_ANDROID_BACKEND_SMS_SMS_OTP_RETRIEVAL_API_ERRORS_H_
 #define COMPONENTS_ONE_TIME_TOKENS_ANDROID_BACKEND_SMS_SMS_OTP_RETRIEVAL_API_ERRORS_H_
 

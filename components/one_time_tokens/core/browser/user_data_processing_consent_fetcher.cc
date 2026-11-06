@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User data processing consent fetcher implementation
+// summary: Fetches user data processing consent states from the Google one-time token backend using OAuth tokens and parses the proto response.
+// ---
+
 #include "components/one_time_tokens/core/browser/user_data_processing_consent_fetcher.h"
 
 #include <optional>

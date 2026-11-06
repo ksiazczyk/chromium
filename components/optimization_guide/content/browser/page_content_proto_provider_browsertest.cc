@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for AI page content extraction
+// summary: Content browser tests verifying extracted AI page content protos, including text nodes, interactive nodes, media transcripts and histograms.
+// ---
+
 #include "components/optimization_guide/content/browser/page_content_proto_provider.h"
 
 #include <initializer_list>

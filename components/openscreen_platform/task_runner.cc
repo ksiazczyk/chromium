@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Open Screen task runner implementation
+// summary: Implements openscreen::TaskRunner by posting immediate and delayed tasks to a Chromium SequencedTaskRunner.
+// ---
+
 #include "components/openscreen_platform/task_runner.h"
 
 #include <chrono>

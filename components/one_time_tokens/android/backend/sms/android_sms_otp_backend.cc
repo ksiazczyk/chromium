@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android SMS OTP backend implementation
+// summary: Implements the per-profile keyed service that queues SMS OTP requests and delivers retrieved values or errors to callers.
+// ---
+
 #include "components/one_time_tokens/android/backend/sms/android_sms_otp_backend.h"
 
 #include "base/task/task_traits.h"

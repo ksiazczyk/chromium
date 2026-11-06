@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS pasteboard async wrapper header
+// summary: Declares GetGeneralPasteboard, which fetches the general UIPasteboard asynchronously through a callback.
+// ---
+
 #ifndef COMPONENTS_OPEN_FROM_CLIPBOARD_CLIPBOARD_ASYNC_WRAPPER_IOS_H_
 #define COMPONENTS_OPEN_FROM_CLIPBOARD_CLIPBOARD_ASYNC_WRAPPER_IOS_H_
 

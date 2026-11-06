@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Optimization guide Android Java build targets
+summary: GN build file defining the Android Java library, JNI header generation, and Robolectric unit tests for the optimization guide content component.

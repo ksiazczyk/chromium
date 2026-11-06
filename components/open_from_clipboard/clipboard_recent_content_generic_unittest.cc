@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ClipboardRecentContentGeneric unit tests
+// summary: Unit tests for ClipboardRecentContentGeneric covering URL, text and image recognition from the clipboard, scheme eligibility and content age handling.
+// ---
+
 
 #include "components/open_from_clipboard/clipboard_recent_content_generic.h"
 

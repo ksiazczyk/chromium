@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Translator implementation for the Translator API
+// summary: Implements the browser-side blink::mojom::Translator, validating input, recording metrics, and streaming translations via the on-device translator remote.
+// ---
+
 #include "components/on_device_translation/translator.h"
 
 #include <algorithm>

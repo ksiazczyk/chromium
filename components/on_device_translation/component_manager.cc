@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Component manager implementation for TranslateKit registration
+// summary: Implements the ComponentManager singleton that registers the TranslateKit component and language packs with the component updater and resolves the component install path.
+// ---
+
 #include "components/on_device_translation/component_manager.h"
 
 #include "base/command_line.h"

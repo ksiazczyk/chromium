@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Gmail OTP backend implementation
+// summary: Implements the FakeGmailOtpBackend test double, which simulates Gmail OTP reception, caches tokens and notifications, and reports pending errors to subscribers.
+// ---
+
 #include "components/one_time_tokens/core/browser/fake_gmail_otp_backend.h"
 
 #include <utility>

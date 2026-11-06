@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Optimization guide build flags
+summary: Defines buildflag headers for TFLite machine learning and optimization guide build options.

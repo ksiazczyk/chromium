@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page content test helper header
+// summary: Declares the FindFirstNodeWithAttributeType test helper for searching AnnotatedPageContent content node trees in tests.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CONTENT_BROWSER_PAGE_CONTENT_TEST_UTILS_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CONTENT_BROWSER_PAGE_CONTENT_TEST_UTILS_H_
 

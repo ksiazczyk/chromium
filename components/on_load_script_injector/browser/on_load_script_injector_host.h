@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: On-load script injector host header
+// summary: Declares OriginScopedScript and the templated OnLoadScriptInjectorHost that manages scripts injected into documents just prior to load.
+// ---
+
 #ifndef COMPONENTS_ON_LOAD_SCRIPT_INJECTOR_BROWSER_ON_LOAD_SCRIPT_INJECTOR_HOST_H_
 #define COMPONENTS_ON_LOAD_SCRIPT_INJECTOR_BROWSER_ON_LOAD_SCRIPT_INJECTOR_HOST_H_
 

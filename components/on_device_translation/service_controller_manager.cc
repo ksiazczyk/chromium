@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service controller manager implementation
+// summary: Manages per-origin service controllers in a size-limited cache and dispatches translator creation and can-translate requests.
+// ---
+
 #include "components/on_device_translation/service_controller_manager.h"
 
 #include "base/check_is_test.h"

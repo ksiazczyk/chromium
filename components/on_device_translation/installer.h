@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: On-device translation installer interface
+// summary: Declares the singleton installer interface for registering, installing, and uninstalling language packs, with observers and path accessors.
+// ---
+
 #ifndef COMPONENTS_ON_DEVICE_TRANSLATION_INSTALLER_H_
 #define COMPONENTS_ON_DEVICE_TRANSLATION_INSTALLER_H_
 

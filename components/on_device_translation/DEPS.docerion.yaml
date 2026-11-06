@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the on-device translation directory
+summary: Specifies allowed include dependencies for the component, with extra rules for translation_manager_util and translator files.

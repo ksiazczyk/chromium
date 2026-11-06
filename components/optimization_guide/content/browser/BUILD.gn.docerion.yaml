@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the optimization guide browser component
+summary: Defines GN targets for the browser library, page context eligibility, test support and unit tests of the optimization guide content component.

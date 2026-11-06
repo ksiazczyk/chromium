@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Open Screen clock implementation
+// summary: Implements the Open Screen Clock and wall-time-since-epoch helpers using Chromium's high-resolution TimeTicks and base::Time.
+// ---
+
 #include "third_party/openscreen/src/platform/api/time.h"
 
 #include "base/compiler_specific.h"

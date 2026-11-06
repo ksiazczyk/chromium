@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: One-time token switch name definitions
+// summary: Defines command-line switch names for the one-time token service base URL, its default Google API endpoint, and a mock OTP value.
+// ---
+
 #include "components/one_time_tokens/core/common/one_time_token_switches.h"
 
 namespace one_time_tokens::switches {

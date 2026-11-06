@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TlsClientConnection implementation
+// summary: Implements the Open Screen TlsClientConnection, sending and receiving TLS data over Chromium network service sockets via Mojo data pipes.
+// ---
+
 #include "components/openscreen_platform/tls_client_connection.h"
 
 #include <algorithm>

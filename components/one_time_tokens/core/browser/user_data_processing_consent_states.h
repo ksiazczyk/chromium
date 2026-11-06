@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User data processing consent states
+// summary: Defines the ConsentState enum and the UserDataProcessingConsentStates struct holding consent for comms apps and Google apps.
+// ---
+
 #ifndef COMPONENTS_ONE_TIME_TOKENS_CORE_BROWSER_USER_DATA_PROCESSING_CONSENT_STATES_H_
 #define COMPONENTS_ONE_TIME_TOKENS_CORE_BROWSER_USER_DATA_PROCESSING_CONSENT_STATES_H_
 

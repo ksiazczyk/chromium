@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UdpSocket implementation
+// summary: Implements the Open Screen UdpSocket over Chromium's network service UDPSocket, including bind, multicast, send and receive handling.
+// ---
+
 #include "components/openscreen_platform/udp_socket.h"
 
 #include <utility>

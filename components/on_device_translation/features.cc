@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Translation API feature flags and parameters
+// summary: Defines feature flags and parameters for the Translation API, including minimum library version, service idle timeout, service count, auto-download of language packs and TranslateKit binary path handling.
+// ---
+
 #include "components/on_device_translation/features.h"
 
 #include <cstddef>

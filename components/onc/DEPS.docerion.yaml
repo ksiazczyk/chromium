@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the onc directory
+summary: Grants the directory access to headers from components/pref_registry and components/prefs.

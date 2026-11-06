@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PageTextAgent unit tests
+// summary: Unit tests covering max size negotiation, layout event matching, and chunked text delivery to a Mojo consumer through the PageTextAgent.
+// ---
+
 #include "components/optimization_guide/content/renderer/page_text_agent.h"
 
 #include <string>

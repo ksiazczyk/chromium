@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PageContentProtoProviderBridgeUnitTest
+// summary: Robolectric unit tests for the page content proto provider bridge, verifying parsed proto results are delivered and empty native results yield null.
+// ---
+
 package org.chromium.components.optimization_guide.content;
 
 import static org.junit.Assert.assertEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Definitions and registration of ONC preference names
+// summary: Defines the device_onc and onc preference names and registers them as device and profile list prefs.
+// ---
+
 #include "components/onc/onc_pref_names.h"
 
 #include "components/pref_registry/pref_registry_syncable.h"

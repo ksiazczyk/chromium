@@ -1,3 +1,9 @@
+---
+type: readme
+title: Optimization guide
+summary: Explains the component's purpose, layered structure, directory layout and related directories.
+---
+
 # Optimization Guide
 
 The optimization guide component contains code for processing hints and machine

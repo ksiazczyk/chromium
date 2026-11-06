@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OneTimeTokenBackendNotification implementation
+// summary: Implements constructors, copy and move operations and the destructor for the OneTimeTokenBackendNotification struct carrying backend OTP notification data.
+// ---
+
 #include "components/one_time_tokens/core/browser/one_time_token_backend_notification.h"
 
 #include "base/time/time.h"

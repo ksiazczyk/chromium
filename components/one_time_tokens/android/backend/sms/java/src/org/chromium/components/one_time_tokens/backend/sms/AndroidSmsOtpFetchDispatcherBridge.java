@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AndroidSmsOtpFetchDispatcherBridge
+// summary: Java counterpart of the native dispatcher bridge that forwards SMS OTP retrieval requests to a downstream fetcher and records outcome and latency metrics.
+// ---
+
 package org.chromium.components.one_time_tokens.backend.sms;
 
 import org.jni_zero.CalledByNative;

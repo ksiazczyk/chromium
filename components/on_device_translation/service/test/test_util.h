@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test utilities header for on-device translation service tests
+// summary: Declares mock library path functions, a TestFile struct, SetupDataDir, and a fake FileOperationProxy used by on-device translation service tests.
+// ---
+
 #ifndef COMPONENTS_ON_DEVICE_TRANSLATION_SERVICE_TEST_TEST_UTIL_H_
 #define COMPONENTS_ON_DEVICE_TRANSLATION_SERVICE_TEST_TEST_UTIL_H_
 

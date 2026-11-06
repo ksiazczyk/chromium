@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetUdpSocket implementation
+// summary: Implements the Open Screen UdpSocket interface on top of Chromium's net::UDPSocket, handling bind, multicast, reads, sends, and client error callbacks.
+// ---
+
 #include "components/openscreen_platform/net_udp_socket.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Email one time token fetcher implementation
+// summary: Implements authenticated requests to the Gmail OTP endpoint, parsing responses and RPC error details into one-time tokens or retrieval errors.
+// ---
+
 #include "components/one_time_tokens/core/browser/email_one_time_token_fetcher.h"
 
 #include <optional>

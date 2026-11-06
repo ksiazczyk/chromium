@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExpiringSubscriptionManager declarations
+// summary: Declares the subscription manager base and template that track subscribers, notify them via callbacks, and expire subscriptions using a scheduled timer.
+// ---
+
 #ifndef COMPONENTS_ONE_TIME_TOKENS_CORE_BROWSER_UTIL_EXPIRING_SUBSCRIPTION_MANAGER_H_
 #define COMPONENTS_ONE_TIME_TOKENS_CORE_BROWSER_UTIL_EXPIRING_SUBSCRIPTION_MANAGER_H_
 

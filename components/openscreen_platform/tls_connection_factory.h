@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TlsConnectionFactory class declaration
+// summary: Declares TlsConnectionFactory with TCP connect and TLS upgrade request state; TLS server listening is not implemented.
+// ---
+
 #ifndef COMPONENTS_OPENSCREEN_PLATFORM_TLS_CONNECTION_FACTORY_H_
 #define COMPONENTS_OPENSCREEN_PLATFORM_TLS_CONNECTION_FACTORY_H_
 

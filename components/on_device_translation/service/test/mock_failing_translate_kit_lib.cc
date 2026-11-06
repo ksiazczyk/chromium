@@ -7,6 +7,12 @@
 // This file's CreateTranslateKit() method returns 0 to test the behavior of the
 // TranslateKit creation failure on the client side.
 
+// ---docerion
+// type: test
+// title: Mock failing TranslateKit library for tests
+// summary: Implements the libtranslatekit ABI for testing only, with CreateTranslateKit() returning 0 to exercise TranslateKit creation failure handling on the client side.
+// ---
+
 #include <cstddef>
 #include <cstdint>
 #include <cstring>

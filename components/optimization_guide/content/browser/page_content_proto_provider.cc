@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page content proto provider implementation
+// summary: Implements browser-side AI page content extraction, coordinating main frame and subframe responses with timeouts, popup verification and UKM metrics.
+// ---
+
 #include "components/optimization_guide/content/browser/page_content_proto_provider.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TranslateKit client unit tests
+// summary: Unit tests for TranslateKitClient covering language pack support checks, translator creation, missing config handling and UMA metrics using a mock library.
+// ---
+
 #include "components/on_device_translation/service/translate_kit_client.h"
 
 #include <tuple>

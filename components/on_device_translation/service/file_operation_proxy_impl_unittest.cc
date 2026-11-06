@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for FileOperationProxyImpl
+// summary: Unit tests for FileOperationProxyImpl covering FileExists and Open behavior, including invalid package indexes, absolute paths, and parent directory references.
+// ---
+
 #include "components/on_device_translation/service/file_operation_proxy_impl.h"
 
 #include <string_view>

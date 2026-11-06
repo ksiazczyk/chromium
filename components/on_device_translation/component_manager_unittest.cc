@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the component manager
+// summary: Unit tests verifying TranslateKit component registration, language pack registration and uninstallation, and component path resolution using a fake installer.
+// ---
+
 #include "components/on_device_translation/component_manager.h"
 
 #include <string_view>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OnDeviceTranslationService implementation
+// summary: Implements the OnDeviceTranslationService Mojo service, exposing SetServiceConfig, CanTranslate, and CreateTranslator backed by TranslateKitClient and recording translation length metrics.
+// ---
+
 #include "components/on_device_translation/service/on_device_translation_service.h"
 
 #include <memory>

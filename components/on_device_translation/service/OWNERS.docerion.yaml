@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the on-device translation service
+summary: Lists code owners for the directory, delegating to chrome/browser/ai OWNERS and to sandbox/linux OWNERS for the sandbox_hook files.

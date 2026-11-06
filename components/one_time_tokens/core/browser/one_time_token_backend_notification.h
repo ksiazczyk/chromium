@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OneTimeTokenBackendNotification header
+// summary: Declares the OneTimeTokenBackendNotification struct holding an encrypted message reference and OTP email and notification timestamps.
+// ---
+
 #ifndef COMPONENTS_ONE_TIME_TOKENS_CORE_BROWSER_ONE_TIME_TOKEN_BACKEND_NOTIFICATION_H_
 #define COMPONENTS_ONE_TIME_TOKENS_CORE_BROWSER_ONE_TIME_TOKEN_BACKEND_NOTIFICATION_H_
 

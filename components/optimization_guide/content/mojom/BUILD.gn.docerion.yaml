@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the optimization guide mojom interfaces
+summary: GN build file that defines the mojo_interfaces mojom target for the page text service and lists its Mojo, URL, skia, and content settings dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page text dump result header
+// summary: Declares classes holding text dump results per frame and page, with ordering rules and metadata such as AMP frame flag and navigation id.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CONTENT_BROWSER_PAGE_TEXT_DUMP_RESULT_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CONTENT_BROWSER_PAGE_TEXT_DUMP_RESULT_H_
 

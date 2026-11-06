@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for open_from_clipboard
+summary: Lists the allowed dependency includes for the directory, such as variations, net, Skia and ui/base clipboard.

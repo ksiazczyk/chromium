@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the optimization guide renderer
+summary: GN build file defining the renderer static library with the page text agent sources and a testonly unit_tests target for page_text_agent_unittest.cc.

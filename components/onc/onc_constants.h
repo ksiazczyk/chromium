@@ -1,6 +1,13 @@
 // Copyright 2013 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Constants for ONC network configuration properties
+// summary: Declares the ONCSource enum and string constants for top-level, network, cellular, VPN and WiFi configuration keys.
+// ---
+
 #ifndef COMPONENTS_ONC_ONC_CONSTANTS_H_
 #define COMPONENTS_ONC_ONC_CONSTANTS_H_
 

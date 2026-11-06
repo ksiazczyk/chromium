@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: On-load script injector host implementation
+// summary: Implements the browser-side host that stores origin-scoped scripts in shared memory and injects matching scripts into render frames before document load.
+// ---
+
 #include "components/on_load_script_injector/browser/on_load_script_injector_host.h"
 
 #include <string_view>

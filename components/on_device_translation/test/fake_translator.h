@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake translator class declaration
+// summary: Declares FakeTranslator, a fake implementation of the OnDeviceTranslator mojo interface for use in tests, bound to clients through a mojo receiver.
+// ---
+
 #ifndef COMPONENTS_ON_DEVICE_TRANSLATION_TEST_FAKE_TRANSLATOR_H_
 #define COMPONENTS_ON_DEVICE_TRANSLATION_TEST_FAKE_TRANSLATOR_H_
 

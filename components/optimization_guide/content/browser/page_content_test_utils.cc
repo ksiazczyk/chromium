@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page content test helper implementation
+// summary: Implements FindFirstNodeWithAttributeType, a test helper that searches a content node tree for the first node of a given attribute type.
+// ---
+
 #include "components/optimization_guide/content/browser/page_content_test_utils.h"
 
 #include <vector>

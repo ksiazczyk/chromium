@@ -1,0 +1,4 @@
+# Docerion header of on_load_script_injector.mojom.
+type: source
+title: Mojo interface for on-load script injection
+summary: Defines the OnLoadScriptInjector Mojo interface that RenderFrames use to add and clear JavaScript scripts injected on page load.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page text dump result implementation
+// summary: Implements classes that store and sort per-frame page text dumps, providing access to AMP, main frame, and all-frames text content.
+// ---
+
 #include "components/optimization_guide/content/browser/page_text_dump_result.h"
 
 #include <string_view>

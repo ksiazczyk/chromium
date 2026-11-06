@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OneTimeTokenRetrievalError stream operator
+// summary: Implements the ostream operator mapping each OneTimeTokenRetrievalError enum value to a readable name for logging.
+// ---
+
 #include "components/one_time_tokens/core/browser/one_time_token_retrieval_error.h"
 
 #include <ostream>

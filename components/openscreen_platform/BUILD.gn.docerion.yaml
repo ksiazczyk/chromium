@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the Open Screen platform
+summary: Defines GN source sets implementing the Open Screen platform API on top of the Chromium network service or //net sockets, plus related unittest targets.

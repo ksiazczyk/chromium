@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Open Screen logging implementation
+// summary: Implements the Open Screen logging API by mapping its log levels onto Chromium's base logging and providing the Break behavior.
+// ---
+
 #include "third_party/openscreen/src/platform/api/logging.h"
 
 #include <cstring>

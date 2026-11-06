@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page content image extractor implementation
+// summary: Implements GetImageBytes to request encoded image bytes from the renderer over Mojo, with timeout handling and latency, size, and timeout metrics.
+// ---
+
 #include "components/optimization_guide/content/browser/page_content_image_extractor.h"
 
 #include <cstdint>

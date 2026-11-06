@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: One time tokens DEPS include rules
+summary: Defines the include rules that restrict which directories the one time tokens component may depend on.

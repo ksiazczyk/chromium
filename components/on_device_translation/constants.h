@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Constants for TranslateKit signing key and pending task limit
+// summary: Declares the TranslateKit component signing key hash and the maximum number of pending tasks allowed in the service controller task queue.
+// ---
+
 #ifndef COMPONENTS_ON_DEVICE_TRANSLATION_CONSTANTS_H_
 #define COMPONENTS_ON_DEVICE_TRANSLATION_CONSTANTS_H_
 

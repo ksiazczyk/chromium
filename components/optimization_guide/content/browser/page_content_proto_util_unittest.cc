@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for page content proto utilities
+// summary: Unit tests covering conversion of AI page content into protos, autofill redaction reasons, popup validation and related metrics.
+// ---
+
 #include "components/optimization_guide/content/browser/page_content_proto_util.h"
 
 #include <cstdint>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the browser folder
+summary: 'Declares the dependencies allowed in this directory: content public browser APIs, Mojo C++ bindings, and blink common headers.'

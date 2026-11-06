@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gmail OTP sender domain matcher header
+// summary: Declares GmailOtpSenderDomainMatcher and the GmailOtpSenderDomainMatchType enum describing sender-to-frame domain relations for OTP filling.
+// ---
+
 #ifndef COMPONENTS_ONE_TIME_TOKENS_CORE_BROWSER_GMAIL_OTP_SENDER_DOMAIN_MATCHER_H_
 #define COMPONENTS_ONE_TIME_TOKENS_CORE_BROWSER_GMAIL_OTP_SENDER_DOMAIN_MATCHER_H_
 

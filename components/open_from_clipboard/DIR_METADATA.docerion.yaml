@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata with tracker component and team
+summary: Maps the directory to the ZeroSuggest monorail component, the iOS directory owners team email and a Buganizer component ID.

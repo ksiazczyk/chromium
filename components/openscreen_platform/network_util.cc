@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Open Screen and net type conversion helpers
+// summary: Implements conversion functions between Open Screen and Chromium //net IP address and endpoint types.
+// ---
+
 #include "components/openscreen_platform/network_util.h"
 
 #include <array>

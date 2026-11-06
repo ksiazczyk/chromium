@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Gmail OTP sender domain matcher unit tests
+// summary: Unit tests for GmailOtpSenderDomainMatcher verifying exact, PSL, affiliated, and www-related match types between sender domains and frame origins.
+// ---
+
 #include "components/one_time_tokens/core/browser/gmail_otp_sender_domain_matcher.h"
 
 #include <memory>

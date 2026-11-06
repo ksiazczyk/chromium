@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OnLoadScriptInjector class declaration
+// summary: Declares the renderer-side class for adding, clearing, and running on-load scripts via Mojo and RenderFrameObserver hooks.
+// ---
+
 #ifndef COMPONENTS_ON_LOAD_SCRIPT_INJECTOR_RENDERER_ON_LOAD_SCRIPT_INJECTOR_H_
 #define COMPONENTS_ON_LOAD_SCRIPT_INJECTOR_RENDERER_ON_LOAD_SCRIPT_INJECTOR_H_
 

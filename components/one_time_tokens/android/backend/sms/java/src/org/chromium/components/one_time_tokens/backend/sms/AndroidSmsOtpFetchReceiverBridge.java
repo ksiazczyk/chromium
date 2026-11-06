@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AndroidSmsOtpFetchReceiverBridge
+// summary: Java counterpart of the native receiver bridge that forwards SMS OTP retrieval results and mapped error codes back to the native password manager.
+// ---
+
 package org.chromium.components.one_time_tokens.backend.sms;
 
 import com.google.android.gms.common.api.ApiException;

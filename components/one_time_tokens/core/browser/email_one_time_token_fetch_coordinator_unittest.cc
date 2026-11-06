@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the email one time token fetch coordinator
+// summary: Tests queueing, duplicate notification handling, concurrency limits and queue metrics of the email one-time token fetch coordinator.
+// ---
+
 #include "components/one_time_tokens/core/browser/email_one_time_token_fetch_coordinator.h"
 
 #include <string>

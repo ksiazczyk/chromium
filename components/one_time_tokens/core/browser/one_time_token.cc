@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OneTimeToken value class
+// summary: Implements the OneTimeToken class modeling a one-time password with type, value, arrival time, and optional sender address, plus an OTP plausibility check.
+// ---
+
 #include "components/one_time_tokens/core/browser/one_time_token.h"
 
 #include <algorithm>

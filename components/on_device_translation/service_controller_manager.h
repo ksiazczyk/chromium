@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ServiceControllerManager header for per-origin translation controllers
+// summary: Declares a KeyedService that manages per-origin on-device translation service controllers in an LRU cache for a BrowserContext, with hooks for testing.
+// ---
+
 #ifndef COMPONENTS_ON_DEVICE_TRANSLATION_SERVICE_CONTROLLER_MANAGER_H_
 #define COMPONENTS_ON_DEVICE_TRANSLATION_SERVICE_CONTROLLER_MANAGER_H_
 

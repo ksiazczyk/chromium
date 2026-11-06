@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PageTextAgent render view tests
+// summary: RenderViewTest-based tests verifying text dump behavior for AMP and non-AMP subframes and main frame handling using a test Mojo consumer.
+// ---
+
 #include "components/optimization_guide/content/renderer/page_text_agent.h"
 
 #include <string>

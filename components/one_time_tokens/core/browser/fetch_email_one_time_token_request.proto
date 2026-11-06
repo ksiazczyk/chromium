@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FetchEmailOneTimeToken request proto
+// summary: Defines the FetchEmailOneTimeTokenRequest proto, whose only field is an encrypted reference to the email containing the one-time password.
+// ---
+
 syntax = "proto3";
 
 package google.internal.chrome.passwords.onetimetoken.v1;

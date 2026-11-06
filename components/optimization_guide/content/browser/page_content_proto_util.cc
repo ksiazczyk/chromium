@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page content proto utilities implementation
+// summary: Converts renderer AI page content into AnnotatedPageContent protos, applying autofill redactions and browser-side popup bounds validation.
+// ---
+
 #include "components/optimization_guide/content/browser/page_content_proto_util.h"
 
 #include <cstdint>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TlsConnectionFactory implementation
+// summary: Implements the Open Screen TLS connection factory, connecting TCP sockets through Chromium's network service and upgrading them to TLS.
+// ---
+
 #include "components/openscreen_platform/tls_connection_factory.h"
 
 #include <openssl/pool.h>

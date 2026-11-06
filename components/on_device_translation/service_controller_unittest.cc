@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the on-device translation service controller
+// summary: Tests OnDeviceTranslationServiceController with a mock service launcher and fake translation service, covering cases such as regional language tags.
+// ---
+
 #include "components/on_device_translation/service_controller.h"
 
 #include <memory>

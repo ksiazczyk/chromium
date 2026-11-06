@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageTextAgent class declaration
+// summary: Declares the PageTextAgent class, a RenderFrameObserver bridging ChromeRenderFrameObserver and mojom::PageTextService for requesting and receiving page text dumps.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CONTENT_RENDERER_PAGE_TEXT_AGENT_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CONTENT_RENDERER_PAGE_TEXT_AGENT_H_
 

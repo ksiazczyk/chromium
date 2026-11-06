@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page content image extractor header
+// summary: Declares GetImageBytes, which fetches raw encoded image bytes for a DOM image node in a WebContents and returns them through a callback.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CONTENT_BROWSER_PAGE_CONTENT_IMAGE_EXTRACTOR_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CONTENT_BROWSER_PAGE_CONTENT_IMAGE_EXTRACTOR_H_
 

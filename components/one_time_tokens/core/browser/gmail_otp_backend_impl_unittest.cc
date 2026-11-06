@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Gmail OTP backend implementation unit tests
+// summary: Unit tests for GmailOtpBackendImpl covering OTP retrieval, consent fetching, caching, error handling, and metrics via a test URL loader factory.
+// ---
+
 #include "components/one_time_tokens/core/browser/gmail_otp_backend_impl.h"
 
 #include <memory>

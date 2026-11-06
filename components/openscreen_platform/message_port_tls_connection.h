@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MessagePortTlsConnection class declaration
+// summary: Declares MessagePortTlsConnection, a TlsConnection implementation backed by a cast MessagePort receiver.
+// ---
+
 #ifndef COMPONENTS_OPENSCREEN_PLATFORM_MESSAGE_PORT_TLS_CONNECTION_H_
 #define COMPONENTS_OPENSCREEN_PLATFORM_MESSAGE_PORT_TLS_CONNECTION_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExpiringSubscription subscriber-side handle declaration
+// summary: Declares ExpiringSubscription, a handle-based subscriber object whose destruction cancels the subscription in the manager, with graceful behavior when the manager is gone.
+// ---
+
 #ifndef COMPONENTS_ONE_TIME_TOKENS_CORE_BROWSER_UTIL_EXPIRING_SUBSCRIPTION_H_
 #define COMPONENTS_ONE_TIME_TOKENS_CORE_BROWSER_UTIL_EXPIRING_SUBSCRIPTION_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Component manager interface for TranslateKit and language packs
+// summary: Declares the ComponentManager interface for registering and uninstalling TranslateKit and language pack components and resolving the TranslateKit binary path.
+// ---
+
 #ifndef COMPONENTS_ON_DEVICE_TRANSLATION_COMPONENT_MANAGER_H_
 #define COMPONENTS_ON_DEVICE_TRANSLATION_COMPONENT_MANAGER_H_
 

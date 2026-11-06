@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SMS OTP to one-time token retrieval error converter implementation
+// summary: Maps each SmsOtpRetrievalApiError code to the corresponding OneTimeTokenRetrievalError used by the one-time tokens backend.
+// ---
+
 #include "components/one_time_tokens/android/backend/sms/sms_otp_to_one_time_token_retrieval_error_converter.h"
 
 #include "base/notreached.h"

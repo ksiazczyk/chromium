@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SMS OTP service implementation
+// summary: Implements the per-profile SMS OTP service with token caching, expiring subscriptions, and backend retrieval requests.
+// ---
+
 #include "components/one_time_tokens/core/browser/sms_otp_service_impl.h"
 
 #include <ranges>

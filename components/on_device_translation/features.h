@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: On-device translation feature flags and parameters
+// summary: Declares feature flags and field trial parameters for on-device translation, including library version checks, service limits, and language pack auto-download.
+// ---
+
 #ifndef COMPONENTS_ON_DEVICE_TRANSLATION_FEATURES_H_
 #define COMPONENTS_ON_DEVICE_TRANSLATION_FEATURES_H_
 

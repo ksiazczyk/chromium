@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Email one time token fetch error converter implementation
+// summary: Maps backend error reason codes from fetch error details to client-side one-time token retrieval errors, falling back to a server error.
+// ---
+
 #include "components/one_time_tokens/core/browser/email_one_time_token_fetch_error_converter.h"
 
 #include "base/logging.h"

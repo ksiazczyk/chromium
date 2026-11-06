@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media transcript provider interface
+// summary: Declares the interface for providing media transcripts captured for frames of a WebContents with an active media session.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CONTENT_BROWSER_MEDIA_TRANSCRIPT_PROVIDER_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CONTENT_BROWSER_MEDIA_TRANSCRIPT_PROVIDER_H_
 

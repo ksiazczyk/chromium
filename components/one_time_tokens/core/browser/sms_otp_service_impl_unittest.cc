@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SMS OTP service implementation unit tests
+// summary: Unit tests for SmsOtpServiceImpl covering subscriptions, caching, refetch intervals, and backend interactions using a mock SMS OTP backend.
+// ---
+
 #include "components/one_time_tokens/core/browser/sms_otp_service_impl.h"
 
 #include <string>

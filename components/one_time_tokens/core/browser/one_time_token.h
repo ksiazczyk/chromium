@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OneTimeToken class header
+// summary: Declares the OneTimeToken class modeling an OTP with type, value, on-device arrival time and optional Gmail sender address and email timestamp, plus an IsPotentialOtp check.
+// ---
+
 #ifndef COMPONENTS_ONE_TIME_TOKENS_CORE_BROWSER_ONE_TIME_TOKEN_H_
 #define COMPONENTS_ONE_TIME_TOKENS_CORE_BROWSER_ONE_TIME_TOKEN_H_
 

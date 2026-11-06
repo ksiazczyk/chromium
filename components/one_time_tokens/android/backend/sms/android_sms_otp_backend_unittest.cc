@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android SMS OTP backend unit tests
+// summary: Tests the SMS OTP backend using mock receiver and dispatcher bridges, covering initialization and retrieval flows.
+// ---
+
 #include "components/one_time_tokens/android/backend/sms/android_sms_otp_backend.h"
 
 #include "base/test/run_until.h"
