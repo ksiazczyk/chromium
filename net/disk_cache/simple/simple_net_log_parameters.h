@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Simple cache net log parameter declarations
+// summary: Declares NetLog helper functions that log Simple Cache entry construction and creation events for the Simple Cache backend.
+// ---
+
 #ifndef NET_DISK_CACHE_SIMPLE_SIMPLE_NET_LOG_PARAMETERS_H_
 #define NET_DISK_CACHE_SIMPLE_SIMPLE_NET_LOG_PARAMETERS_H_
 

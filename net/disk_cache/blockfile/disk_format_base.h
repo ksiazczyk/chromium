@@ -17,6 +17,12 @@
 // chain of files is, any given block can be located directly by its address,
 // which contains the file number and starting block inside the file.
 
+// ---docerion
+// type: source
+// title: Block file base format definitions
+// summary: Defines the base block-file structures such as CacheAddr and BlockFileHeader, with documentation on block storage and sparse data.
+// ---
+
 #ifndef NET_DISK_CACHE_BLOCKFILE_DISK_FORMAT_BASE_H_
 #define NET_DISK_CACHE_BLOCKFILE_DISK_FORMAT_BASE_H_
 

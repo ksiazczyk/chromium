@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileLock implementation
+// summary: Implements FileLock by atomically updating a counter in the block file header with memory barriers on acquire and release.
+// ---
+
 #include "net/disk_cache/blockfile/file_lock.h"
 
 #include <atomic>

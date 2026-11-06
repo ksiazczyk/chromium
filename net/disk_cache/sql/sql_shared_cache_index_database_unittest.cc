@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SQL shared cache index database unit test
+// summary: Unit tests covering initialization, NetworkIsolationKey to db_id mapping, persistence, and uninitialized and simulated failure error paths of the index database.
+// ---
+
 #include "net/disk_cache/sql/sql_shared_cache_index_database.h"
 
 #include "base/files/scoped_temp_dir.h"

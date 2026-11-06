@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: CacheEntryKey unit tests
+// summary: Unit tests covering CacheEntryKey construction, copy and move semantics, comparison operators, and use as a key in hashed STL containers.
+// ---
+
 #include "net/disk_cache/sql/cache_entry_key.h"
 
 #include <string>

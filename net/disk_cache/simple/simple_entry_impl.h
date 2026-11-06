@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Simple cache entry header
+// summary: Declares SimpleEntryImpl, the main-thread proxy for a simple cache entry that dispatches I/O to the synchronous entry.
+// ---
+
 #ifndef NET_DISK_CACHE_SIMPLE_SIMPLE_ENTRY_IMPL_H_
 #define NET_DISK_CACHE_SIMPLE_SIMPLE_ENTRY_IMPL_H_
 

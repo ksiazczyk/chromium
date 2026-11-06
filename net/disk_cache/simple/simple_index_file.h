@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Simple index file format declarations
+// summary: Declares SimpleIndexFile and its IndexMetadata, defining the on-disk index file format and its load and write operations.
+// ---
+
 #ifndef NET_DISK_CACHE_SIMPLE_SIMPLE_INDEX_FILE_H_
 #define NET_DISK_CACHE_SIMPLE_SIMPLE_INDEX_FILE_H_
 

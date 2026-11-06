@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SQL shared cache index database queries
+// summary: Defines the SQL statements and an enum-based accessor for creating and querying the shared cache index database's storages table.
+// ---
+
 #ifndef NET_DISK_CACHE_SQL_SQL_SHARED_CACHE_INDEX_DATABASE_QUERIES_H_
 #define NET_DISK_CACHE_SQL_SQL_SHARED_CACHE_INDEX_DATABASE_QUERIES_H_
 

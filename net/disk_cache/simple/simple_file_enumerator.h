@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SimpleFileEnumerator header
+// summary: Declares SimpleFileEnumerator, an optimized directory enumerator for the simple cache backend.
+// ---
+
 #ifndef NET_DISK_CACHE_SIMPLE_SIMPLE_FILE_ENUMERATOR_H_
 #define NET_DISK_CACHE_SIMPLE_SIMPLE_FILE_ENUMERATOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SimpleFileTracker header
+// summary: Declares SimpleFileTracker, a thread-safe tracker of open simple cache files with RAII file handles and entry file keys.
+// ---
+
 #ifndef NET_DISK_CACHE_SIMPLE_SIMPLE_FILE_TRACKER_H_
 #define NET_DISK_CACHE_SIMPLE_SIMPLE_FILE_TRACKER_H_
 

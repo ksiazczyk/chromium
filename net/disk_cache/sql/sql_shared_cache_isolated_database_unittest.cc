@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SQL shared cache isolated database unit tests
+// summary: Unit tests for SqlSharedCacheIsolatedDatabase covering initialization, failure paths, and streaming blob handle behavior with WAL mode on and off.
+// ---
+
 #include "net/disk_cache/sql/sql_shared_cache_isolated_database.h"
 
 #include <limits>

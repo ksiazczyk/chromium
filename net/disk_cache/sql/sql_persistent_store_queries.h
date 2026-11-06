@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SQL persistent store query definitions
+// summary: Defines compile-time SQL query strings for creating the resources and blobs tables, indexes, and other persistent store database operations.
+// ---
+
 #ifndef NET_DISK_CACHE_SQL_SQL_PERSISTENT_STORE_QUERIES_H_
 #define NET_DISK_CACHE_SQL_SQL_PERSISTENT_STORE_QUERIES_H_
 

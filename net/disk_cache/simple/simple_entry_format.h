@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Simple cache on-disk entry format
+// summary: Defines magic numbers and packed structs describing the simple cache entry file layout, including headers, EOF records, and sparse ranges.
+// ---
+
 #ifndef NET_DISK_CACHE_SIMPLE_SIMPLE_ENTRY_FORMAT_H_
 #define NET_DISK_CACHE_SIMPLE_SIMPLE_ENTRY_FORMAT_H_
 

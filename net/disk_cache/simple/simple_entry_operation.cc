@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SimpleEntryOperation implementation
+// summary: Implements factory helpers that build open, create, read, write, and sparse operations for the simple cache entry.
+// ---
+
 #include "net/disk_cache/simple/simple_entry_operation.h"
 
 #include <limits.h>

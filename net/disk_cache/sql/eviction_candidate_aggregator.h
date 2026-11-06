@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Eviction candidate aggregator
+// summary: Declares a thread-safe class that gathers eviction candidates from shards and picks least recently used entries for eviction.
+// ---
+
 #ifndef NET_DISK_CACHE_SQL_EVICTION_CANDIDATE_AGGREGATOR_H_
 #define NET_DISK_CACHE_SQL_EVICTION_CANDIDATE_AGGREGATOR_H_
 

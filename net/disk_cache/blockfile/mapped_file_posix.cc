@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MappedFile POSIX implementation
+// summary: Implements MappedFile initialization with mmap and cleanup with munmap on POSIX platforms for the blockfile disk cache.
+// ---
+
 #include "net/disk_cache/blockfile/mapped_file.h"
 
 #include <errno.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Backend experiment helpers header
+// summary: Declares helpers for disk cache backend experiment groups and whether the simple backend is default on the platform.
+// ---
+
 #ifndef NET_DISK_CACHE_BACKEND_EXPERIMENT_H_
 #define NET_DISK_CACHE_BACKEND_EXPERIMENT_H_
 

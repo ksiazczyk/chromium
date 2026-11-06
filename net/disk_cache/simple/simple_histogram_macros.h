@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Simple cache histogram macros
+// summary: Defines macros that report simple cache histograms with separate names per cache type such as HTTP, app, and code caches.
+// ---
+
 #ifndef NET_DISK_CACHE_SIMPLE_SIMPLE_HISTOGRAM_MACROS_H_
 #define NET_DISK_CACHE_SIMPLE_SIMPLE_HISTOGRAM_MACROS_H_
 

@@ -5,6 +5,12 @@
 // Defines the public interface of the disk cache. For more details see
 // http://dev.chromium.org/developers/design-documents/network-stack/disk-cache
 
+// ---docerion
+// type: source
+// title: Disk cache public interface
+// summary: Defines the public disk cache API, including Backend, Entry, BackendResult, and factory functions for creating cache backends of different types.
+// ---
+
 #ifndef NET_DISK_CACHE_DISK_CACHE_H_
 #define NET_DISK_CACHE_DISK_CACHE_H_
 

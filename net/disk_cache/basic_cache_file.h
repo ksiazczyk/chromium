@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BasicCacheFile default CacheFile implementation
+// summary: Declares the default CacheFile implementation that delegates cache file operations directly to a wrapped base::File.
+// ---
+
 #ifndef NET_DISK_CACHE_BASIC_CACHE_FILE_H_
 #define NET_DISK_CACHE_BASIC_CACHE_FILE_H_
 

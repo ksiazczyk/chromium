@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for StorageBlock
+// summary: Tests loading, storing, sharing, and copying of cache entry blocks in mapped cache test files.
+// ---
+
 #include "net/disk_cache/blockfile/storage_block.h"
 
 #include <algorithm>

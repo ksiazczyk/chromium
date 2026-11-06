@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SqlBackendImpl header
+// summary: Declares the SQLite-backed disk cache backend implementing entry creation, opening, dooming, and enumeration, with fake index error codes.
+// ---
+
 #ifndef NET_DISK_CACHE_SQL_SQL_BACKEND_IMPL_H_
 #define NET_DISK_CACHE_SQL_SQL_BACKEND_IMPL_H_
 

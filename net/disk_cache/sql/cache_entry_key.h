@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CacheEntryKey class declaration
+// summary: Declares an immutable, ref-counted wrapper around the cache key string that shares data to reduce memory and exposes hash and resource URL accessors.
+// ---
+
 #ifndef NET_DISK_CACHE_SQL_CACHE_ENTRY_KEY_H_
 #define NET_DISK_CACHE_SQL_CACHE_ENTRY_KEY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MemEntryImpl class header
+// summary: Declares the MemEntryImpl class implementing the cache Entry interface with parent and child entry types to support sparse caching in memory.
+// ---
+
 #ifndef NET_DISK_CACHE_MEMORY_MEM_ENTRY_IMPL_H_
 #define NET_DISK_CACHE_MEMORY_MEM_ENTRY_IMPL_H_
 

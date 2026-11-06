@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Simple cache utility function declarations
+// summary: Declares hash key, filename, file size and CRC-32 helper functions shared across the simple disk cache backend.
+// ---
+
 #ifndef NET_DISK_CACHE_SIMPLE_SIMPLE_UTIL_H_
 #define NET_DISK_CACHE_SIMPLE_SIMPLE_UTIL_H_
 

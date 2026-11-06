@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Backend cleanup tracker header
+// summary: Declares BackendCleanupTracker, which arbitrates cache directory cleanup and queues post-cleanup callbacks.
+// ---
+
 #ifndef NET_DISK_CACHE_BACKEND_CLEANUP_TRACKER_H_
 #define NET_DISK_CACHE_BACKEND_CLEANUP_TRACKER_H_
 

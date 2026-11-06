@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Addr cache address implementation
+// summary: Implements Addr methods that decode block numbers, file numbers and validate storage addresses for cache records, including sanity checks for entries and rankings.
+// ---
+
 #include "net/disk_cache/blockfile/addr.h"
 
 #include "base/check.h"

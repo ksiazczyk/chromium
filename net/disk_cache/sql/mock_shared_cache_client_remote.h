@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock shared cache client remote
+// summary: Declares a mock SharedCacheClientRemote for unit tests, recording calls and simulating disconnects of the shared cache client.
+// ---
+
 #ifndef NET_DISK_CACHE_SQL_MOCK_SHARED_CACHE_CLIENT_REMOTE_H_
 #define NET_DISK_CACHE_SQL_MOCK_SHARED_CACHE_CLIENT_REMOTE_H_
 

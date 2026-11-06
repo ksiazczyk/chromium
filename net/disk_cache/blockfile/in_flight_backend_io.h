@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BackendIO and InFlightBackendIO declarations
+// summary: Declares classes representing in-flight asynchronous disk cache operations, listing the proxied backend and entry operations such as open, doom, read and write.
+// ---
+
 #ifndef NET_DISK_CACHE_BLOCKFILE_IN_FLIGHT_BACKEND_IO_H_
 #define NET_DISK_CACHE_BLOCKFILE_IN_FLIGHT_BACKEND_IO_H_
 

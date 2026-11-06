@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: POSIX simple cache file deletion
+// summary: Implements SimpleCacheDeleteFile for POSIX platforms by delegating to base::DeleteFile.
+// ---
+
 #include "net/disk_cache/simple/simple_util.h"
 
 #include "base/files/file_util.h"

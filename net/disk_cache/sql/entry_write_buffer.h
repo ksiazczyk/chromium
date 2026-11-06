@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EntryWriteBuffer struct declaration
+// summary: Declares a move-only struct that buffers net::IOBuffer data, size, and offset for stream 1 writes to cache entries.
+// ---
+
 #ifndef NET_DISK_CACHE_SQL_ENTRY_WRITE_BUFFER_H_
 #define NET_DISK_CACHE_SQL_ENTRY_WRITE_BUFFER_H_
 

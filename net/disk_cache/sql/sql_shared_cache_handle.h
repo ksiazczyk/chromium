@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SQL shared cache handle header
+// summary: Declares SqlSharedCacheHandle, a ref-counted handle holding a weak pointer to SqlSharedCache to keep it alive and prevent cleanup by the manager.
+// ---
+
 #ifndef NET_DISK_CACHE_SQL_SQL_SHARED_CACHE_HANDLE_H_
 #define NET_DISK_CACHE_SQL_SQL_SHARED_CACHE_HANDLE_H_
 

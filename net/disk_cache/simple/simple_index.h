@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EntryMetadata and SimpleIndex declarations
+// summary: Declares EntryMetadata and the SimpleIndex class that track cache entry sizes, last-used times, and eviction for the Simple Cache backend.
+// ---
+
 #ifndef NET_DISK_CACHE_SIMPLE_SIMPLE_INDEX_H_
 #define NET_DISK_CACHE_SIMPLE_SIMPLE_INDEX_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SQL shared cache manager implementation
+// summary: Implements the manager that creates, looks up, and tracks shared cache instances and serializes database operations for the SQL disk cache.
+// ---
+
 #include "net/disk_cache/sql/sql_shared_cache_manager.h"
 
 #include <utility>

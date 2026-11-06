@@ -4,6 +4,12 @@
 
 // See net/disk_cache/disk_cache.h for the public interface.
 
+// ---docerion
+// type: source
+// title: Rankings LRU list header
+// summary: Declares the Rankings class that manages LRU lists of cache entries, its iterator support, scoped ranking blocks and crash-test enums.
+// ---
+
 #ifndef NET_DISK_CACHE_BLOCKFILE_RANKINGS_H_
 #define NET_DISK_CACHE_BLOCKFILE_RANKINGS_H_
 

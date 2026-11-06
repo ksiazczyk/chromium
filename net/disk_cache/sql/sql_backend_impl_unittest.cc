@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SQL disk cache backend unit tests
+// summary: Unit tests for SqlBackendImpl covering entry creation, data read and write, doom, eviction, and backend lifecycle behavior of the SQL disk cache.
+// ---
+
 #include "net/disk_cache/sql/sql_backend_impl.h"
 
 #include <cstdint>

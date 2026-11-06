@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CacheEntryKey implementation
+// summary: Implements CacheEntryKey, computing persistent hashes and the resource URL used when the renderer-accessible HTTP cache feature is enabled.
+// ---
+
 #include "net/disk_cache/sql/cache_entry_key.h"
 
 #include <utility>

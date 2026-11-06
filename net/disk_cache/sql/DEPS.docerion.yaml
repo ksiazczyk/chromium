@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the SQL disk cache
+summary: Defines the include rules allowing this directory to depend on performance scenario APIs, the sandboxed SQLite VFS, and the sql component.

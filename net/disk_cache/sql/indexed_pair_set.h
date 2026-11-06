@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Indexed pair set
+// summary: Header-only container storing (Key, Entry) pairs with a memory-efficient design optimized for one sub-key per key.
+// ---
+
 #ifndef NET_DISK_CACHE_SQL_INDEXED_PAIR_SET_H_
 #define NET_DISK_CACHE_SQL_INDEXED_PAIR_SET_H_
 

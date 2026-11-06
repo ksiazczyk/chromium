@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SQL persistent store backend implementation
+// summary: Implements direct SQLite database operations for a cache shard, including schema setup, entry CRUD, eviction, metrics, and Perfetto tracing.
+// ---
+
 #include "net/disk_cache/sql/sql_persistent_store_backend.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Simple cache on-disk format versions
+// summary: Defines version constants for the simple cache on-disk formats along with rules for when upgrades must bump them.
+// ---
+
 #ifndef NET_DISK_CACHE_SIMPLE_SIMPLE_BACKEND_VERSION_H_
 #define NET_DISK_CACHE_SIMPLE_SIMPLE_BACKEND_VERSION_H_
 

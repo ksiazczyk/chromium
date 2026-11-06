@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SimpleFileTracker unit tests
+// summary: Tests SimpleFileTracker registration, acquisition, and file descriptor limit behavior with a small file limit.
+// ---
+
 #include "net/disk_cache/simple/simple_file_tracker.h"
 
 #include <memory>

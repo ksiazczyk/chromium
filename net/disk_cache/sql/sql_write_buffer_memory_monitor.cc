@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SqlWriteBufferMemoryMonitor implementation
+// summary: Implements a monitor that limits total write buffer memory usage through scoped, auto-releasing reservations.
+// ---
+
 #include "net/disk_cache/sql/sql_write_buffer_memory_monitor.h"
 
 #include <utility>

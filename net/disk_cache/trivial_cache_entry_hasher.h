@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trivial cache entry hasher header
+// summary: Declares TrivialCacheEntryHasher, a CacheEntryHasher implementation that uses the default simple_util hashing function.
+// ---
+
 #ifndef NET_DISK_CACHE_TRIVIAL_CACHE_ENTRY_HASHER_H_
 #define NET_DISK_CACHE_TRIVIAL_CACHE_ENTRY_HASHER_H_
 

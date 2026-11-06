@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Post operation waiter implementation
+// summary: Implements the table that tracks entries with in-flight operations and runs callbacks queued while those operations were pending.
+// ---
+
 #include "net/disk_cache/simple/post_operation_waiter.h"
 
 #include "base/check_op.h"

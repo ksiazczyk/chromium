@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Disk cache stats class interface
+// summary: Declares the Stats class that tracks cache usage counters and size histograms for tuning purposes.
+// ---
+
 #ifndef NET_DISK_CACHE_BLOCKFILE_STATS_H_
 #define NET_DISK_CACHE_BLOCKFILE_STATS_H_
 

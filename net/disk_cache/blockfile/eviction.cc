@@ -26,6 +26,12 @@
 // size so that we have a chance to see an element again and move it to another
 // list.
 
+// ---docerion
+// type: source
+// title: Cache eviction implementation
+// summary: Implements the LRU-based eviction policy for the blockfile cache, trimming entries until enough free space is available.
+// ---
+
 #include "net/disk_cache/blockfile/eviction.h"
 
 #include <stdint.h>

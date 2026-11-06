@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Addr unit tests
+// summary: Unit tests verifying Addr size, valid and invalid address values, and sanity check behavior for cache record addresses.
+// ---
+
 #include "net/disk_cache/blockfile/addr.h"
 #include "net/disk_cache/disk_cache_test_base.h"
 #include "testing/gtest/include/gtest/gtest.h"

@@ -1,3 +1,11 @@
+---
+type: readme
+title: disk_cache API
+summary: Documents the disk_cache API, regular and sparse entries, and the blockfile, memory, and simple backend implementations.
+relations:
+  - documents /net/disk_cache/disk_cache.h
+---
+
 # disk_cache API
 
 The disk_cache API provides for caches that can store multiple random-access

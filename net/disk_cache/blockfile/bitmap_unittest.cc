@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bitmap unit tests
+// summary: Unit tests covering Bitmap allocation sizes, basic set and get, toggling, resizing, shared map storage, and SetAll and Clear behavior.
+// ---
+
 #include "net/disk_cache/blockfile/bitmap.h"
 
 #include <array>

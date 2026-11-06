@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cache eviction class declaration
+// summary: Declares the Eviction class implementing the cache eviction algorithm, tightly integrated with BackendImpl.
+// ---
+
 #ifndef NET_DISK_CACHE_BLOCKFILE_EVICTION_H_
 #define NET_DISK_CACHE_BLOCKFILE_EVICTION_H_
 

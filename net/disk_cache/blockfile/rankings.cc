@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Rankings LRU list implementation
+// summary: Implements the cache rankings LRU lists, including transaction tracking for crash recovery and simulated crash points used by crash-cache unit tests.
+// ---
+
 #include "net/disk_cache/blockfile/rankings.h"
 
 #include <stdint.h>

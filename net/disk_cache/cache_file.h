@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CacheFile file operations interface
+// summary: Declares the interface abstracting the base::File operations required by the disk cache backend so implementations can be swapped via decoration.
+// ---
+
 #ifndef NET_DISK_CACHE_CACHE_FILE_H_
 #define NET_DISK_CACHE_CACHE_FILE_H_
 

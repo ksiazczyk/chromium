@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SQL persistent store query unit tests
+// summary: Unit tests verifying that critical SQL persistent store queries use the intended indexes via EXPLAIN QUERY PLAN checks.
+// ---
+
 #include "net/disk_cache/sql/sql_persistent_store_queries.h"
 
 #include <cstdint>

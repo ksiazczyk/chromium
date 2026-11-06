@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Simple index file unit tests
+// summary: Unit tests for SimpleIndexFile covering index metadata serialization, file format versions, and loading of index entries.
+// ---
+
 #include "net/disk_cache/simple/simple_index_file.h"
 
 #include <memory>

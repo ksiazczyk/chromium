@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Backend experiment helpers implementation
+// summary: Implements checks for membership in the disk cache backend experiment groups, including simple, blockfile, and SQL.
+// ---
+
 #include "net/disk_cache/backend_experiment.h"
 
 #include "base/feature_list.h"

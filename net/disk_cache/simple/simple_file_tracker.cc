@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SimpleFileTracker implementation
+// summary: Implements tracking of open cache files across backends to limit file descriptor usage, with LRU-based closing and reopening.
+// ---
+
 #include "net/disk_cache/simple/simple_file_tracker.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cache utility declarations
+// summary: Declares helpers for moving, deleting and asynchronously cleaning up cache directories and computing preferred cache sizes.
+// ---
+
 #ifndef NET_DISK_CACHE_CACHE_UTIL_H_
 #define NET_DISK_CACHE_CACHE_UTIL_H_
 

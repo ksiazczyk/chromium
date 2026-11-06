@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SQL shared cache isolated database queries unit tests
+// summary: Unit tests verifying that every shared cache isolated database SQL query produces the expected SQLite query plan in a temporary database.
+// ---
+
 #include "net/disk_cache/sql/sql_shared_cache_isolated_database_queries.h"
 
 #include <string_view>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Disk cache entry unit tests
+// summary: Unit tests covering entry I/O, sparse data, dooming, and edge cases across blockfile, simple, memory, and SQL cache backends.
+// ---
+
 #include <utility>
 
 #include "base/feature_list.h"

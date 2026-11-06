@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SqlBackendImpl implementation
+// summary: Implements the SQLite-backed disk cache backend, including fake index file validation, shard count handling, and entry lifecycle operations.
+// ---
+
 #include "net/disk_cache/sql/sql_backend_impl.h"
 
 #include <algorithm>

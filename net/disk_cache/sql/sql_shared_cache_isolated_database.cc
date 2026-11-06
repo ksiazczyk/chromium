@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SQL shared cache isolated database implementation
+// summary: Implements per-NIK isolated SQLite database shards for the shared cache, including sandboxed VFS file sets, schema setup, and resource blob read and write operations.
+// ---
+
 #include "net/disk_cache/sql/sql_shared_cache_isolated_database.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory entry data hint flags
+// summary: Defines bit flags describing whether a memory cache entry is unusable per caching headers or should be cached with high priority.
+// ---
+
 #ifndef NET_DISK_CACHE_MEMORY_ENTRY_DATA_HINTS_H_
 #define NET_DISK_CACHE_MEMORY_ENTRY_DATA_HINTS_H_
 

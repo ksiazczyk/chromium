@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SqlAsyncTaskManager unit tests
+// summary: Unit tests covering task tracking, quiescence detection, multi-step operations, same-task restarts, and manager destruction for SqlAsyncTaskManager.
+// ---
+
 #include "net/disk_cache/sql/sql_async_task_manager.h"
 
 #include "base/functional/callback_helpers.h"

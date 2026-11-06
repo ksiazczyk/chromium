@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedCacheClientRemote interface
+// summary: Declares an interface for communicating with a remote client, such as a renderer process, that accesses the shared SQLite cache database for a NetworkIsolationKey.
+// ---
+
 #ifndef NET_DISK_CACHE_SQL_SHARED_CACHE_CLIENT_REMOTE_H_
 #define NET_DISK_CACHE_SQL_SHARED_CACHE_CLIENT_REMOTE_H_
 

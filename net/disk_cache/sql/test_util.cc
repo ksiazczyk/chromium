@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test helper for SQL query plans
+// summary: Test utility that runs EXPLAIN QUERY PLAN via the sqlite_dev_shell tool and returns the query plan as a string.
+// ---
+
 #include "net/disk_cache/sql/test_util.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unit tests for simple cache utilities
+// summary: Tests entry hash key conversion, hex string parsing and file size versus data size calculations from simple_util.
+// ---
+
 #include <stdint.h>
 #include <string>
 

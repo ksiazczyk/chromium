@@ -5,6 +5,12 @@
 // Internal helper used to sequence cleanup and reuse of cache directories
 // among different objects.
 
+// ---docerion
+// type: source
+// title: Backend cleanup tracker implementation
+// summary: Implements the helper that sequences cleanup and reuse of cache directories among different backend objects.
+// ---
+
 #include "net/disk_cache/backend_cleanup_tracker.h"
 
 #include <unordered_map>

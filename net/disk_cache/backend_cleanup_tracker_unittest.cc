@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Backend cleanup tracker unit tests
+// summary: Unit tests for BackendCleanupTracker covering distinct and shared cache paths and post-cleanup callback behavior.
+// ---
+
 #include "net/disk_cache/backend_cleanup_tracker.h"
 
 #include "base/files/scoped_temp_dir.h"

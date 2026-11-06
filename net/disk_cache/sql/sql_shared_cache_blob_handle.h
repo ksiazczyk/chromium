@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SQL shared cache blob handle
+// summary: Declares a reference-counted handle that keeps a shared cache SQLite blob open in SqlSharedCacheIsolatedDatabase while held.
+// ---
+
 #ifndef NET_DISK_CACHE_SQL_SQL_SHARED_CACHE_BLOB_HANDLE_H_
 #define NET_DISK_CACHE_SQL_SQL_SHARED_CACHE_BLOB_HANDLE_H_
 

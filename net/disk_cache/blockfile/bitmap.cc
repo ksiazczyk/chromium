@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bitmap implementation
+// summary: Implements the Bitmap class for simple bit maps, including construction, resizing, setting, getting and finding bits, and byte span to uint32 span conversion.
+// ---
+
 #include "net/disk_cache/blockfile/bitmap.h"
 
 #include <algorithm>

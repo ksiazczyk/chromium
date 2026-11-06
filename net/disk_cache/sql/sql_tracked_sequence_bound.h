@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SQL tracked sequence bound header
+// summary: Defines SqlTrackedSequenceBound, a wrapper around base::SequenceBound that tracks asynchronous tasks via SqlAsyncTaskManager to simplify test synchronization.
+// ---
+
 #ifndef NET_DISK_CACHE_SQL_SQL_TRACKED_SEQUENCE_BOUND_H_
 #define NET_DISK_CACHE_SQL_SQL_TRACKED_SEQUENCE_BOUND_H_
 

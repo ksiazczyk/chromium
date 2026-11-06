@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EntryWriteBuffer implementation
+// summary: Implements construction and move semantics for EntryWriteBuffer, which accumulates IO buffers for stream 1 entry writes.
+// ---
+
 #include "net/disk_cache/sql/entry_write_buffer.h"
 
 #include <utility>

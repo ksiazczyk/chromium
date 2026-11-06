@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SQL shared cache index database header
+// summary: Declares SqlSharedCacheIndexDatabase, which manages the shared cache index mapping NetworkIsolationKeys to db_ids, with error enums and lookup, creation, and deletion APIs.
+// ---
+
 #ifndef NET_DISK_CACHE_SQL_SQL_SHARED_CACHE_INDEX_DATABASE_H_
 #define NET_DISK_CACHE_SQL_SQL_SHARED_CACHE_INDEX_DATABASE_H_
 

@@ -4,6 +4,12 @@
 
 // See net/disk_cache/disk_cache.h for the public interface of the cache.
 
+// ---docerion
+// type: source
+// title: File wrapper interface for asynchronous cache file IO
+// summary: Declares the File class and FileIOCallback interface supporting synchronous and asynchronous reads, writes and length changes for blockfile cache files.
+// ---
+
 #ifndef NET_DISK_CACHE_BLOCKFILE_FILE_H_
 #define NET_DISK_CACHE_BLOCKFILE_FILE_H_
 

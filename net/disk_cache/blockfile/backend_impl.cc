@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Blockfile cache backend implementation
+// summary: Implements BackendImpl, the main blockfile disk cache backend, covering initialization, index table sizing, entry operations, timers and experiment setup.
+// ---
+
 #include "net/disk_cache/blockfile/backend_impl.h"
 
 #include <algorithm>

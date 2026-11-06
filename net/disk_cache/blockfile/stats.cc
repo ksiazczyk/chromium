@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Disk cache stats storage implementation
+// summary: Implements the Stats class that loads, verifies, and serializes cache usage counters and size data on disk.
+// ---
+
 #include "net/disk_cache/blockfile/stats.h"
 
 #include <algorithm>

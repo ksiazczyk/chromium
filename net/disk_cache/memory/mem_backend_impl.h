@@ -4,6 +4,12 @@
 
 // See net/disk_cache/disk_cache.h for the public interface of the cache.
 
+// ---docerion
+// type: source
+// title: MemBackendImpl class header
+// summary: Declares the MemBackendImpl class that implements the disk cache Backend interface entirely in memory, with entry lifecycle hooks and eviction controls.
+// ---
+
 #ifndef NET_DISK_CACHE_MEMORY_MEM_BACKEND_IMPL_H_
 #define NET_DISK_CACHE_MEMORY_MEM_BACKEND_IMPL_H_
 

@@ -4,6 +4,12 @@
 
 // See net/disk_cache/disk_cache.h for the public interface of the cache.
 
+// ---docerion
+// type: source
+// title: MappedFile memory-mapped cache file header
+// summary: Declares the MappedFile class that memory maps block-file headers and bitmaps for the disk cache, plus a ScopedFlush helper for scope-exit flushing.
+// ---
+
 #ifndef NET_DISK_CACHE_BLOCKFILE_MAPPED_FILE_H_
 #define NET_DISK_CACHE_BLOCKFILE_MAPPED_FILE_H_
 

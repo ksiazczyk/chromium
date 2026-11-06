@@ -4,6 +4,12 @@
 
 // See net/disk_cache/disk_cache.h for the public interface.
 
+// ---docerion
+// type: source
+// title: StorageBlock block-file data wrapper
+// summary: Declares StorageBlock, a FileBlock wrapper that buffers, loads, and stores typed data blocks in block files.
+// ---
+
 #ifndef NET_DISK_CACHE_BLOCKFILE_STORAGE_BLOCK_H_
 #define NET_DISK_CACHE_BLOCKFILE_STORAGE_BLOCK_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BackendIO and InFlightBackendIO implementation
+// summary: Implements proxying of backend and entry cache operations to a background thread, running them and reporting results with IO timing histograms.
+// ---
+
 #include "net/disk_cache/blockfile/in_flight_backend_io.h"
 
 #include <utility>

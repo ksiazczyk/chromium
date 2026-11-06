@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SQL shared cache unit tests
+// summary: Unit tests for the SQL shared cache, exercising entry operations against a SQL persistent store with WAL mode enabled and disabled.
+// ---
+
 #include "net/disk_cache/sql/sql_shared_cache.h"
 
 #include <memory>

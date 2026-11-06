@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Disk cache test helper declarations
+// summary: Declares test utilities including buffer fillers, key generation, cache integrity checks, and test completion callback classes.
+// ---
+
 #ifndef NET_DISK_CACHE_DISK_CACHE_TEST_UTIL_H_
 #define NET_DISK_CACHE_DISK_CACHE_TEST_UTIL_H_
 

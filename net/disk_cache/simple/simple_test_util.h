@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Simple cache test utility declarations
+// summary: Declares test helpers for creating and corrupting simple cache entry files, along with a compile-time bounds-checked ImmutableArray template.
+// ---
+
 #ifndef NET_DISK_CACHE_SIMPLE_SIMPLE_TEST_UTIL_H_
 #define NET_DISK_CACHE_SIMPLE_SIMPLE_TEST_UTIL_H_
 

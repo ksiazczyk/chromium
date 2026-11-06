@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Disk cache NetLog parameters header
+// summary: Declares shared NetLog parameter functions for entry creation, read and write completion, and sparse cache operations.
+// ---
+
 #ifndef NET_DISK_CACHE_NET_LOG_PARAMETERS_H_
 #define NET_DISK_CACHE_NET_LOG_PARAMETERS_H_
 

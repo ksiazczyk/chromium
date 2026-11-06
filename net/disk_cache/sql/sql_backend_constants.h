@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SQL backend constants
+// summary: Defines size limits, meta table keys, database shard and fake index file names, and the schema version history for the SQL disk cache backend.
+// ---
+
 #ifndef NET_DISK_CACHE_SQL_SQL_BACKEND_CONSTANTS_H_
 #define NET_DISK_CACHE_SQL_SQL_BACKEND_CONSTANTS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MemBackendImpl unit tests
+// summary: Unit tests for the in-memory cache backend covering LRU eviction margins and memory pressure driven eviction via the memory consumer registry.
+// ---
+
 #include "net/disk_cache/memory/mem_backend_impl.h"
 
 #include <memory>
