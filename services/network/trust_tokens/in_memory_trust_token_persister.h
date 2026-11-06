@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-memory Trust Token persister header
+// summary: Declares InMemoryTrustTokenPersister, a non-persistent TrustTokenPersister that keeps Trust Tokens state in memory for tests and environments without SQL.
+// ---
+
 #ifndef SERVICES_NETWORK_TRUST_TOKENS_IN_MEMORY_TRUST_TOKEN_PERSISTER_H_
 #define SERVICES_NETWORK_TRUST_TOKENS_IN_MEMORY_TRUST_TOKEN_PERSISTER_H_
 

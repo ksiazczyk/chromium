@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedDictionaryInMemory implementation
+// summary: Implements SharedDictionaryInMemory, returning in-memory dictionary data, size, SHA-256 hash and identifier.
+// ---
+
 #include "services/network/shared_dictionary/shared_dictionary_in_memory.h"
 
 #include "net/base/io_buffer.h"

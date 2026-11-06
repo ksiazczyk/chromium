@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trust Tokens storage.proto message definitions
+// summary: Defines protobuf messages persisting Trust Tokens state per issuer, top-level domain, and issuer–top-level pair, including redemption records and rate-limiting timestamps.
+// ---
+
 syntax = "proto2";
 
 package network;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UDP socket test helpers declarations
+// summary: Declares UDPSocketTestHelper for synchronous Mojo UDP socket operations and UDPSocketListenerImpl, which records and waits for received results in tests.
+// ---
+
 #ifndef SERVICES_NETWORK_TEST_UDP_SOCKET_TEST_UTIL_H_
 #define SERVICES_NETWORK_TEST_UDP_SOCKET_TEST_UTIL_H_
 

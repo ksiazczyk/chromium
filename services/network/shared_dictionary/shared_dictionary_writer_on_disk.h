@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedDictionaryWriterOnDisk class declaration
+// summary: Declares SharedDictionaryWriterOnDisk, a SharedDictionaryWriter that stores dictionary binaries in the shared dictionary disk cache and reports results via a finish callback.
+// ---
+
 #ifndef SERVICES_NETWORK_SHARED_DICTIONARY_SHARED_DICTIONARY_WRITER_ON_DISK_H_
 #define SERVICES_NETWORK_SHARED_DICTIONARY_SHARED_DICTIONARY_WRITER_ON_DISK_H_
 

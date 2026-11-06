@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Trust token key commitments unit tests
+// summary: Unit tests verifying storage and retrieval of Trust Tokens key commitments per origin, including rejection of unsuitable origins and missing entries.
+// ---
+
 #include "services/network/trust_tokens/trust_token_key_commitments.h"
 
 #include <algorithm>

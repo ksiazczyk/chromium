@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-memory shared dictionary writer implementation
+// summary: Implements the in-memory writer that buffers dictionary data, computes its SHA-256 hash, and enforces the dictionary size limit.
+// ---
+
 #include "services/network/shared_dictionary/shared_dictionary_writer_in_memory.h"
 
 #include <limits>

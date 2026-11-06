@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ThrottlingController unit tests
+// summary: Unit tests covering throttling conditions, interceptors, transactions, and upload streams using mock network transactions and mock time task runners.
+// ---
+
 #include "services/network/throttling/throttling_controller.h"
 
 #include <stdint.h>

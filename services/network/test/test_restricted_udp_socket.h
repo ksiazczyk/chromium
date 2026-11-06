@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestRestrictedUDPSocket test fake header
+// summary: Declares TestRestrictedUDPSocket, a test implementation of the RestrictedUDPSocket Mojo interface that wraps a TestUDPSocket for network service tests.
+// ---
+
 #ifndef SERVICES_NETWORK_TEST_TEST_RESTRICTED_UDP_SOCKET_H_
 #define SERVICES_NETWORK_TEST_TEST_RESTRICTED_UDP_SOCKET_H_
 

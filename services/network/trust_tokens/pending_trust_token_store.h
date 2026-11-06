@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pending Trust Token store header
+// summary: Declares PendingTrustTokenStore, an asynchronous wrapper that defers operations against a TrustTokenStore until the store finishes initializing.
+// ---
+
 #ifndef SERVICES_NETWORK_TRUST_TOKENS_PENDING_TRUST_TOKEN_STORE_H_
 #define SERVICES_NETWORK_TRUST_TOKENS_PENDING_TRUST_TOKEN_STORE_H_
 

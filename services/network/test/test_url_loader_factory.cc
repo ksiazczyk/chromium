@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestURLLoaderFactory implementation
+// summary: Implements a test URLLoaderFactory that serves canned responses for URLs, tracks pending requests and redirects, and wraps itself as a SharedURLLoaderFactory.
+// ---
+
 #include "services/network/test/test_url_loader_factory.h"
 
 #include <string_view>

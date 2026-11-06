@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test URL loader context implementation
+// summary: Implements a stub URLLoaderContext that provides configurable defaults for URL loader tests, returning nulls for unneeded reporters and observers.
+// ---
+
 #include "services/network/test/url_loader_context_for_tests.h"
 
 namespace network {

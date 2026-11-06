@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trust token parameterization implementation
+// summary: Defines the maximum number of keys supported for each Trust Tokens protocol version.
+// ---
+
 #include "services/network/trust_tokens/trust_token_parameterization.h"
 
 #include "services/network/public/mojom/trust_tokens.mojom-forward.h"

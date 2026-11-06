@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedDictionaryDiskCache implementation
+// summary: Implements SharedDictionaryDiskCache, creating an APP_CACHE simple cache backend and queueing entry operations until initialization completes.
+// ---
+
 #include "services/network/shared_dictionary/shared_dictionary_disk_cache.h"
 
 #include <limits>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Trust token request issuance helper unit tests
+// summary: Unit tests for the Trust Tokens issuance helper, exercising key commitments, issuance flows, and rate limits using mocked cryptographers, stores, and key commitment getters.
+// ---
+
 #include "services/network/trust_tokens/trust_token_request_issuance_helper.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Redemption record expiry delegate header
+// summary: Declares ExpiryInspectingRecordExpiryDelegate, which expires redemption records lacking a current issuer key commitment or exceeding their lifetime.
+// ---
+
 #ifndef SERVICES_NETWORK_TRUST_TOKENS_EXPIRY_INSPECTING_RECORD_EXPIRY_DELEGATE_H_
 #define SERVICES_NETWORK_TRUST_TOKENS_EXPIRY_INSPECTING_RECORD_EXPIRY_DELEGATE_H_
 

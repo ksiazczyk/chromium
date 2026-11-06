@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trust token request helper factory implementation
+// summary: Implements the factory that creates issuance, redemption, or signing helpers for a request, logging outcomes to histograms and NetLog.
+// ---
+
 #include "services/network/trust_tokens/trust_token_request_helper_factory.h"
 
 #include <memory>

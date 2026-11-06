@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CORS URL loader class declaration
+// summary: Declares CorsURLLoader, a wrapper that adds cross-origin resource sharing capabilities by delegating requests and preflights to a network loader factory.
+// ---
+
 #ifndef SERVICES_NETWORK_CORS_CORS_URL_LOADER_H_
 #define SERVICES_NETWORK_CORS_CORS_URL_LOADER_H_
 

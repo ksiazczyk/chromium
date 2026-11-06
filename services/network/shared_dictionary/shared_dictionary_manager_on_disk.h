@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: On-disk shared dictionary manager header
+// summary: Declares SharedDictionaryManagerOnDisk, which persists dictionaries on disk via a SQLite metadata store and disk cache, and exposes stores, writer creation, and clear operations.
+// ---
+
 #ifndef SERVICES_NETWORK_SHARED_DICTIONARY_SHARED_DICTIONARY_MANAGER_ON_DISK_H_
 #define SERVICES_NETWORK_SHARED_DICTIONARY_SHARED_DICTIONARY_MANAGER_ON_DISK_H_
 

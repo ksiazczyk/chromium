@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: P2P directory issue tracker metadata
+summary: Maps the directory to the Blink>WebRTC Monorail component and a Buganizer component for bug routing.

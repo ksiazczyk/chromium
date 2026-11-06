@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trust Token URL loader interceptor header
+// summary: Declares TrustTokenUrlLoaderInterceptor, an intermediary between URLLoader and TrustTokenRequestHelper that handles the begin and finalize phases of Trust Token operations.
+// ---
+
 #ifndef SERVICES_NETWORK_TRUST_TOKENS_TRUST_TOKEN_URL_LOADER_INTERCEPTOR_H_
 #define SERVICES_NETWORK_TRUST_TOKENS_TRUST_TOKEN_URL_LOADER_INTERCEPTOR_H_
 

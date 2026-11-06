@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped BoringSSL bytes RAII helper
+// summary: Declares ScopedBoringsslBytes, a RAII helper that frees BoringSSL-allocated buffers with OPENSSL_free when they leave scope.
+// ---
+
 #ifndef SERVICES_NETWORK_TRUST_TOKENS_SCOPED_BORINGSSL_BYTES_H_
 #define SERVICES_NETWORK_TRUST_TOKENS_SCOPED_BORINGSSL_BYTES_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Oblivious HTTP request test helper header
+// summary: Declares ObliviousHttpRequestTestHelper, which encapsulates server-side oblivious HTTP key management and crypto logic for tests.
+// ---
+
 #ifndef SERVICES_NETWORK_TEST_OBLIVIOUS_HTTP_REQUEST_TEST_HELPER_H_
 #define SERVICES_NETWORK_TEST_OBLIVIOUS_HTTP_REQUEST_TEST_HELPER_H_
 

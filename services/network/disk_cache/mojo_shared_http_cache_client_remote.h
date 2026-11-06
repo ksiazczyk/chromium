@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo shared HTTP cache client remote header
+// summary: Declares MojoSharedHttpCacheClientRemote, which bridges the network service SQL cache backend with a shared HTTP cache client via Mojo interfaces.
+// ---
+
 #ifndef SERVICES_NETWORK_DISK_CACHE_MOJO_SHARED_HTTP_CACHE_CLIENT_REMOTE_H_
 #define SERVICES_NETWORK_DISK_CACHE_MOJO_SHARED_HTTP_CACHE_CLIENT_REMOTE_H_
 

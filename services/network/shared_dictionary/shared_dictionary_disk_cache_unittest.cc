@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SharedDictionaryDiskCache unit tests
+// summary: Unit tests for SharedDictionaryDiskCache covering entry creation, opening, dooming, clearing and reading and writing entry data.
+// ---
+
 #include "services/network/shared_dictionary/shared_dictionary_disk_cache.h"
 
 #include "base/files/file_util.h"

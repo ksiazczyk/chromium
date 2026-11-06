@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Throttling upload data stream class declaration
+// summary: Declares a net::UploadDataStream wrapper that proxies upload reads and throttles them via ThrottlingNetworkInterceptor.
+// ---
+
 #ifndef SERVICES_NETWORK_THROTTLING_THROTTLING_UPLOAD_DATA_STREAM_H_
 #define SERVICES_NETWORK_THROTTLING_THROTTLING_UPLOAD_DATA_STREAM_H_
 

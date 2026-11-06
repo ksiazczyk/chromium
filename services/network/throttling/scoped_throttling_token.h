@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedThrottlingToken class header
+// summary: Declares a scoped token that associates a NetLog source ID with a throttling profile ID and must be kept until ThrottlingNetworkTransaction::Start() is called.
+// ---
+
 #ifndef SERVICES_NETWORK_THROTTLING_SCOPED_THROTTLING_TOKEN_H_
 #define SERVICES_NETWORK_THROTTLING_SCOPED_THROTTLING_TOKEN_H_
 

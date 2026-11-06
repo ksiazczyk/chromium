@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SCTAuditingHandler header
+// summary: Declares SCTAuditingHandler, which owns pending SCT auditing reports for a NetworkContext and persists them across restarts.
+// ---
+
 #ifndef SERVICES_NETWORK_SCT_AUDITING_SCT_AUDITING_HANDLER_H_
 #define SERVICES_NETWORK_SCT_AUDITING_SCT_AUDITING_HANDLER_H_
 

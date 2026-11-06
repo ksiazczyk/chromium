@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedDictionaryCache implementation
+// summary: Implements a ref-counted LRU memory cache that stores SharedDictionary instances for document-like requests subject to feature flags and size limits.
+// ---
+
 #include "services/network/shared_dictionary/shared_dictionary_cache.h"
 
 #include "base/feature_list.h"

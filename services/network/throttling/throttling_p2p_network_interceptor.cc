@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Throttling P2P network interceptor implementation
+// summary: Emulates configured network conditions for WebRTC UDP peer-to-peer sockets by queueing and delaying sent and received packets.
+// ---
+
 #include "services/network/throttling/throttling_p2p_network_interceptor.h"
 
 #include <vector>

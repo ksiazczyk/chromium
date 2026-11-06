@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestCookieManager implementation
+// summary: Implements the stubbed TestCookieManager, including cookie change listener registration and dispatch of cookie change notifications.
+// ---
+
 #include "services/network/test/test_cookie_manager.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CORS preflight cache header
+// summary: Declares the PreflightCache class that stores CORS preflight results keyed by origin, URL, and network isolation key, with bounded two-tier eviction.
+// ---
+
 #ifndef SERVICES_NETWORK_CORS_PREFLIGHT_CACHE_H_
 #define SERVICES_NETWORK_CORS_PREFLIGHT_CACHE_H_
 

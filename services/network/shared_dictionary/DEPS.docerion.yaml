@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for shared dictionary dependencies
+summary: Chromium DEPS file that allows third_party/re2 includes and sql headers specifically for the on-disk manager unittest.

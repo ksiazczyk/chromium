@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo backend file operations factory header
+// summary: Declares MojoBackendFileOperationsFactory, which creates Mojo-brokered backend file operations for the network service HTTP cache.
+// ---
+
 #ifndef SERVICES_NETWORK_DISK_CACHE_MOJO_BACKEND_FILE_OPERATIONS_FACTORY_H_
 #define SERVICES_NETWORK_DISK_CACHE_MOJO_BACKEND_FILE_OPERATIONS_FACTORY_H_
 

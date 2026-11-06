@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ResourceSchedulerClient implementation
+// summary: Implements ResourceSchedulerClient, registering and unregistering a client with the scheduler and forwarding request scheduling and reprioritization calls.
+// ---
+
 #include "services/network/resource_scheduler/resource_scheduler_client.h"
 
 #include "net/url_request/url_request_context.h"

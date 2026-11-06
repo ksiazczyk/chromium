@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedResourceChecker class declaration
+// summary: Declares the checker attached to NetworkContext that decides whether a request targets a well-known pervasive static resource.
+// ---
+
 #ifndef SERVICES_NETWORK_PERVASIVE_RESOURCES_SHARED_RESOURCE_CHECKER_H_
 #define SERVICES_NETWORK_PERVASIVE_RESOURCES_SHARED_RESOURCE_CHECKER_H_
 

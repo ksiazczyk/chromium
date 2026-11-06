@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThrottlingController implementation
+// summary: Implements the singleton ThrottlingController that applies network emulation conditions per profile and client and maps NetLog sources to interceptors.
+// ---
+
 #include "services/network/throttling/throttling_controller.h"
 
 #include <algorithm>

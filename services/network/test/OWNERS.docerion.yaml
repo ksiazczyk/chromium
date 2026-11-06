@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the network service test directory
+summary: Delegates ownership of cookie and device bound session test files to the corresponding net directory owners.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Trust token request signing helper unit tests
+// summary: Unit tests for the signing helper, checking Sec-Redemption-Record header construction and parsing and the failure behavior that leaves an empty header on requests.
+// ---
+
 #include "services/network/trust_tokens/trust_token_request_signing_helper.h"
 
 #include <algorithm>

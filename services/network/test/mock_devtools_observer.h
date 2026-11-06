@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock DevTools observer header
+// summary: Declares a mock DevToolsObserver capturing raw requests, responses, early hints, CORS preflight, trust token and shared dictionary events in tests.
+// ---
+
 #ifndef SERVICES_NETWORK_TEST_MOCK_DEVTOOLS_OBSERVER_H_
 #define SERVICES_NETWORK_TEST_MOCK_DEVTOOLS_OBSERVER_H_
 

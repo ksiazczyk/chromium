@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CORS header utility declarations
+// summary: Declares helpers for checking forbidden-header bypass permission and computing CORS-unsafe, non-forbidden request header names per the fetch spec.
+// ---
+
 #ifndef SERVICES_NETWORK_CORS_CORS_UTIL_H_
 #define SERVICES_NETWORK_CORS_CORS_UTIL_H_
 

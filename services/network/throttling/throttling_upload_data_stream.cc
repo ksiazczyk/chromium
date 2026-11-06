@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Throttling upload data stream implementation
+// summary: Implements an upload data stream wrapper that routes upload reads through the throttling interceptor to emulate limited upload throughput.
+// ---
+
 #include "services/network/throttling/throttling_upload_data_stream.h"
 
 #include "base/functional/bind.h"

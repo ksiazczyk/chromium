@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Trust token key filtering unit tests
+// summary: Unit tests covering key retention for empty containers, zero limits, expired keys, and prioritization of keys by expiry time.
+// ---
+
 #include "services/network/trust_tokens/trust_token_key_filtering.h"
 
 #include <algorithm>

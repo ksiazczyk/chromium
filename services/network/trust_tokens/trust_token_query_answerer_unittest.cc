@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Trust token query answerer unit tests
+// summary: Tests TrustTokenQueryAnswerer handling of insecure or non-HTTP(S) issuers, issuer association limits, and redemption record queries.
+// ---
+
 #include "services/network/trust_tokens/trust_token_query_answerer.h"
 
 #include "base/strings/stringprintf.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Trust Tokens test utilities implementation
+// summary: Implements shared Trust Tokens test helpers, including a URLRequest maker, a request helper test fixture, enum-to-string converters, and parameter serialization support.
+// ---
+
 #include "services/network/test/trust_token_test_util.h"
 
 #include "base/json/json_reader.h"

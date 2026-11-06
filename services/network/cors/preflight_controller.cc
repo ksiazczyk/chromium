@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CORS preflight controller implementation
+// summary: Implements the CORS preflight controller that issues preflight requests, checks their responses, and manages the preflight cache.
+// ---
+
 #include "services/network/cors/preflight_controller.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestURLLoaderNetworkObserver test helper header
+// summary: Declares a basic URLLoaderNetworkServiceObserver implementation that unittests can bind and selectively override for network service events.
+// ---
+
 #ifndef SERVICES_NETWORK_TEST_TEST_URL_LOADER_NETWORK_OBSERVER_H_
 #define SERVICES_NETWORK_TEST_TEST_URL_LOADER_NETWORK_OBSERVER_H_
 

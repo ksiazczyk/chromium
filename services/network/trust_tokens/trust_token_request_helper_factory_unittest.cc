@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Trust token request helper factory unit tests
+// summary: Tests helper creation outcomes such as unsuitable origins, internal Trust Tokens headers, and authorizer rejection.
+// ---
+
 #include "services/network/trust_tokens/trust_token_request_helper_factory.h"
 
 #include <optional>

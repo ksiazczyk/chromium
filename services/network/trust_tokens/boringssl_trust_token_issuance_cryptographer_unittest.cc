@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BoringSSL Trust Token issuance cryptographer unit tests
+// summary: Unit test verifying that the issuance cryptographer rejects adding more keys than the protocol version's maximum.
+// ---
+
 #include "services/network/trust_tokens/boringssl_trust_token_issuance_cryptographer.h"
 
 #include "base/containers/span.h"

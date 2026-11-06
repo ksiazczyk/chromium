@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TrustTokenDatabaseOwner class declaration
+// summary: Declares the owner of the Trust Tokens SQLite database, which initializes it on a DB task runner and exposes its tables via sqlite_proto KeyValueData.
+// ---
+
 #ifndef SERVICES_NETWORK_TRUST_TOKENS_TRUST_TOKEN_DATABASE_OWNER_H_
 #define SERVICES_NETWORK_TRUST_TOKENS_TRUST_TOKEN_DATABASE_OWNER_H_
 

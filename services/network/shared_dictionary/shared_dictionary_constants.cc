@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared dictionary constants implementation
+// summary: Defines the use-as-dictionary header name, dictionary option names and the per-dictionary size limit with a scoped override for testing.
+// ---
+
 #include "services/network/shared_dictionary/shared_dictionary_constants.h"
 
 #include "base/functional/callback.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkConditions class header
+// summary: Declares NetworkConditions, a value type holding network emulation parameters like offline flag, latency, download and upload throughput, packet loss, and rule ID.
+// ---
+
 #ifndef SERVICES_NETWORK_THROTTLING_NETWORK_CONDITIONS_H_
 #define SERVICES_NETWORK_THROTTLING_NETWORK_CONDITIONS_H_
 

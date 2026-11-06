@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Operation timing Trust Tokens request helper wrapper header
+// summary: Declares OperationTimingRequestHelperWrapper, a TrustTokenRequestHelper that times operations via a metrics recorder while delegating to an inner helper.
+// ---
+
 #ifndef SERVICES_NETWORK_TRUST_TOKENS_OPERATION_TIMING_REQUEST_HELPER_WRAPPER_H_
 #define SERVICES_NETWORK_TRUST_TOKENS_OPERATION_TIMING_REQUEST_HELPER_WRAPPER_H_
 

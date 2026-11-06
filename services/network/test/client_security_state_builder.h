@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Client security state builder header
+// summary: Declares a builder class for constructing ClientSecurityState objects with IP address space, secure context and embedder policy settings in tests.
+// ---
+
 #ifndef SERVICES_NETWORK_TEST_CLIENT_SECURITY_STATE_BUILDER_H_
 #define SERVICES_NETWORK_TEST_CLIENT_SECURITY_STATE_BUILDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestCookieManager stub header
+// summary: Declares a stubbed network::mojom::CookieManager implementation for tests that mostly no-ops and can dispatch cookie change events.
+// ---
+
 #ifndef SERVICES_NETWORK_TEST_TEST_COOKIE_MANAGER_H_
 #define SERVICES_NETWORK_TEST_TEST_COOKIE_MANAGER_H_
 

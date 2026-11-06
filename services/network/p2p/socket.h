@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: P2P socket base class header
+// summary: Declares the P2PSocket base class, its factory method, delegate interface, STUN message types, and the port restriction feature.
+// ---
+
 #ifndef SERVICES_NETWORK_P2P_SOCKET_H_
 #define SERVICES_NETWORK_P2P_SOCKET_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedThrottlingToken implementation
+// summary: Implements ScopedThrottlingToken, which registers and unregisters a NetLog source ID with ThrottlingController for the lifetime of the token.
+// ---
+
 #include "services/network/throttling/scoped_throttling_token.h"
 
 #include "base/logging.h"

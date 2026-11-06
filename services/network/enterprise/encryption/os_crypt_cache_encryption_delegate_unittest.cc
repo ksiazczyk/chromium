@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OSCryptCacheEncryptionDelegate unit tests
+// summary: Unit tests for the OSCrypt-based cache encryption delegate using a fake CacheEncryptionProvider to exercise initialization and key retrieval failure paths.
+// ---
+
 #include "services/network/enterprise/encryption/os_crypt_cache_encryption_delegate.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: P2P UDP socket unit tests
+// summary: Unit tests for the UDP P2P socket, using a fake datagram server socket and fake clock to verify sending, receiving and throttling behavior.
+// ---
+
 #include "services/network/p2p/socket_udp.h"
 
 #include <stdint.h>

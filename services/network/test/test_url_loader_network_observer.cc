@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestURLLoaderNetworkObserver implementation
+// summary: Implements a basic URLLoaderNetworkServiceObserver for unittests, handling certificate errors, auth, and local network access callbacks with defaults.
+// ---
+
 #include "services/network/test/test_url_loader_network_observer.h"
 
 #include "net/base/net_errors.h"

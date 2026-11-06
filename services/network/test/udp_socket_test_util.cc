@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UDP socket test helpers implementation
+// summary: Implements synchronous wrappers around the Mojo UDP socket API and a socket listener that records received results for use in tests.
+// ---
+
 #include "services/network/test/udp_socket_test_util.h"
 
 #include <utility>

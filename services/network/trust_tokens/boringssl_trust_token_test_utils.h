@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Trust Token test issuer utilities header
+// summary: Declares TestTrustTokenIssuer, a test issuer implementing the Trust Tokens issuance and redemption protocol for use in tests.
+// ---
+
 #ifndef SERVICES_NETWORK_TRUST_TOKENS_BORINGSSL_TRUST_TOKEN_TEST_UTILS_H_
 #define SERVICES_NETWORK_TRUST_TOKENS_BORINGSSL_TRUST_TOKEN_TEST_UTILS_H_
 

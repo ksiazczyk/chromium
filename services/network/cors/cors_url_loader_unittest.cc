@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CORS URL loader unit tests
+// summary: Unit tests for the CORS URL loader, covering preflight handling, redirects, safe revalidation, and feature-flagged behaviors in the network service.
+// ---
+
 #include "services/network/cors/cors_url_loader.h"
 
 #include <optional>

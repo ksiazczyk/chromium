@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: P2P socket base implementation
+// summary: Implements the P2PSocket base class with STUN packet header validation, message type detection, and socket error UMA reporting.
+// ---
+
 #include "services/network/p2p/socket.h"
 
 #include <utility>

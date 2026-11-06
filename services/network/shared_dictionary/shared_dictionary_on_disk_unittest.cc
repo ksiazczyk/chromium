@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the disk-backed shared dictionary
+// summary: Unit tests for SharedDictionaryOnDisk using a fake disk cache with mock backend and entry to verify asynchronous entry opening and data reading.
+// ---
+
 #include "services/network/shared_dictionary/shared_dictionary_on_disk.h"
 
 #include "base/run_loop.h"

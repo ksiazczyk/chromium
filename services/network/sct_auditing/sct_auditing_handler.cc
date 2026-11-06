@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SCTAuditingHandler implementation
+// summary: Implements per-NetworkContext management of pending SCT auditing reports, including serialization and disk persistence.
+// ---
+
 #include "services/network/sct_auditing/sct_auditing_handler.h"
 
 #include <algorithm>

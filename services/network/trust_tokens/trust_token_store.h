@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trust token store header
+// summary: Declares TrustTokenStore, which manages issuance timestamps, unblinded tokens, and redemption records on top of a persister and a record expiry delegate.
+// ---
+
 #ifndef SERVICES_NETWORK_TRUST_TOKENS_TRUST_TOKEN_STORE_H_
 #define SERVICES_NETWORK_TRUST_TOKENS_TRUST_TOKEN_STORE_H_
 

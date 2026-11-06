@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Encrypted backend file operations factory implementation
+// summary: Creates encrypted backend file operations by wrapping instances produced by a decorated factory with the primary key.
+// ---
+
 #include "services/network/enterprise/encryption/encrypted_backend_file_operations_factory.h"
 
 #include <memory>

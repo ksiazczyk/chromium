@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the chunked encryptor
+// summary: Covers header creation and parsing failures, nonce structure, and encrypt/decrypt round trips for the chunked encryptor.
+// ---
+
 #include "services/network/enterprise/encryption/chunked_encryptor.h"
 
 #include "base/containers/span.h"

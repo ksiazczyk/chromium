@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trust Tokens key commitments store implementation
+// summary: Implements TrustTokenKeyCommitments, storing issuer key commitments including command-line-provided ones and filtering keys by expiry and protocol version limits.
+// ---
+
 #include "services/network/trust_tokens/trust_token_key_commitments.h"
 
 #include <optional>

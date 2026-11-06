@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Resource Scheduler Unit Tests
+// summary: Unit tests for the network service ResourceScheduler, covering request scheduling, prioritization, cancellation, and client behavior using gtest fixtures and mock network conditions.
+// ---
+
 #include "services/network/resource_scheduler/resource_scheduler.h"
 
 #include <map>

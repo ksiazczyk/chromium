@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trust token request issuance helper implementation
+// summary: 'Implements the issuance operation: generating blinded tokens, sending them to the issuer, and verifying, unblinding, and storing the signed tokens.'
+// ---
+
 #include "services/network/trust_tokens/trust_token_request_issuance_helper.h"
 
 #include <algorithm>

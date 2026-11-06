@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SharedDictionaryWriterOnDisk unit tests
+// summary: Unit tests for SharedDictionaryWriterOnDisk covering synchronous and asynchronous disk cache backend creation, successful writes, and error paths using mock cache backends.
+// ---
+
 #include "services/network/shared_dictionary/shared_dictionary_writer_on_disk.h"
 
 #include "base/functional/callback_helpers.h"

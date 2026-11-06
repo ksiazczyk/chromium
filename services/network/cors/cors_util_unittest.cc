@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CORS utility unit tests
+// summary: Unit tests for the CORS utility helpers, verifying safelisted header size limits, revalidation exemptions, and unsafe header name computation.
+// ---
+
 #include "services/network/cors/cors_util.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

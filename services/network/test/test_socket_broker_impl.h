@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestSocketBrokerImpl header
+// summary: Declares a SocketBroker implementation for use in tests within the network service, with a switch to force connection failures.
+// ---
+
 #ifndef SERVICES_NETWORK_TEST_TEST_SOCKET_BROKER_IMPL_H_
 #define SERVICES_NETWORK_TEST_TEST_SOCKET_BROKER_IMPL_H_
 

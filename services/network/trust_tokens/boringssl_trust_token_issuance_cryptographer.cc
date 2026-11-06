@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BoringSSL Trust Token issuance cryptographer implementation
+// summary: Implements the Trust Tokens issuance operation by driving BoringSSL client methods for key setup, request creation, and confirmation of unblinded tokens.
+// ---
+
 #include "services/network/trust_tokens/boringssl_trust_token_issuance_cryptographer.h"
 
 #include <memory>

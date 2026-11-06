@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CORS header utility implementation
+// summary: Implements helpers that decide whether unsafe request headers are allowed and which request header names are CORS-unsafe but not forbidden.
+// ---
+
 #include "services/network/cors/cors_util.h"
 
 #include "base/strings/string_util.h"

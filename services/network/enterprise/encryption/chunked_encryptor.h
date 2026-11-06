@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chunked encryptor interface and format constants
+// summary: Declares the header and nonce layout constants, encryption error enum, EncryptionContext, and the ChunkedEncryptor API for chunk-based AES-GCM-SIV encryption.
+// ---
+
 #ifndef SERVICES_NETWORK_ENTERPRISE_ENCRYPTION_CHUNKED_ENCRYPTOR_H_
 #define SERVICES_NETWORK_ENTERPRISE_ENCRYPTION_CHUNKED_ENCRYPTOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestDataPipeGetter header
+// summary: Declares a test DataPipeGetter that vends data pipes and writes a supplied string, supporting repeated Read calls and error simulation.
+// ---
+
 #ifndef SERVICES_NETWORK_TEST_TEST_DATA_PIPE_GETTER_H_
 #define SERVICES_NETWORK_TEST_TEST_DATA_PIPE_GETTER_H_
 

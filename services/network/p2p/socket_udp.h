@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: P2P UDP socket header
+// summary: Declares the P2PSocketUdp class providing UDP peer-to-peer sockets with packet batching and send retries in the network service.
+// ---
+
 #ifndef SERVICES_NETWORK_P2P_SOCKET_UDP_H_
 #define SERVICES_NETWORK_P2P_SOCKET_UDP_H_
 

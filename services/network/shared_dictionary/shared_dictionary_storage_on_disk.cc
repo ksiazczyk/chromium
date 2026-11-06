@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: On-disk shared dictionary storage implementation
+// summary: Implements disk-backed storage that reads dictionary metadata from the SQLite store, matches dictionaries, and records cache and metadata UMA metrics.
+// ---
+
 #include "services/network/shared_dictionary/shared_dictionary_storage_on_disk.h"
 
 #include <list>

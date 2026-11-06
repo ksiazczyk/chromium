@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedDictionaryWriterOnDisk implementation
+// summary: Implements a writer that stores shared dictionary binaries as disk cache entries, enforcing size limits and computing a SHA-256 hash before invoking a finish callback.
+// ---
+
 #include "services/network/shared_dictionary/shared_dictionary_writer_on_disk.h"
 
 #include <limits>

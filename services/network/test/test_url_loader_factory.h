@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestURLLoaderFactory test helper header
+// summary: Defines a fake URLLoaderFactory that tests can prime with responses for arbitrary URLs to exercise code that uses the URLLoader interface.
+// ---
+
 #ifndef SERVICES_NETWORK_TEST_TEST_URL_LOADER_FACTORY_H_
 #define SERVICES_NETWORK_TEST_TEST_URL_LOADER_FACTORY_H_
 

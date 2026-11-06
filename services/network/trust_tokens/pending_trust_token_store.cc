@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pending Trust Token store implementation
+// summary: Implements PendingTrustTokenStore, which executes or queues operations in FIFO order until the underlying TrustTokenStore becomes ready.
+// ---
+
 #include "services/network/trust_tokens/pending_trust_token_store.h"
 
 namespace network {

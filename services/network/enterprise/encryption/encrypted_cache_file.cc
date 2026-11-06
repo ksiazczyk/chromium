@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EncryptedCacheFile implementation
+// summary: Implements the encrypted cache file decorator that reads, writes and truncates chunk-encrypted disk cache data while recording encryption and decryption failure metrics.
+// ---
+
 #include "services/network/enterprise/encryption/encrypted_cache_file.h"
 
 #include <algorithm>

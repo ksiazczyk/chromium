@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trust token query answerer implementation
+// summary: Implements the Mojo TrustTokenQueryAnswerer that answers whether the user holds trust tokens or redemption records issued for a top-level origin.
+// ---
+
 #include "services/network/trust_tokens/trust_token_query_answerer.h"
 
 #include "base/memory/ptr_util.h"

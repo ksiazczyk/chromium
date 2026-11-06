@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the shared resource checker
+// summary: Verifies pattern matching, cookie and user-gesture conditions, and query-parameter handling using mock cookie settings and compressed test patterns.
+// ---
+
 #include "services/network/pervasive_resources/shared_resource_checker.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for shared dictionary managers
+// summary: Unit tests exercising shared dictionary manager behavior for both in-memory and on-disk variants, including eviction, clearing, usage info, and disk cache entry checks.
+// ---
+
 #include "services/network/shared_dictionary/shared_dictionary_manager.h"
 
 #include <optional>

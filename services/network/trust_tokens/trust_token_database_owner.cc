@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TrustTokenDatabaseOwner implementation
+// summary: Implements asynchronous initialization of the Trust Tokens SQLite database and provides KeyValueData access to its issuer, toplevel, and pair tables.
+// ---
+
 #include "services/network/trust_tokens/trust_token_database_owner.h"
 
 #include <memory>

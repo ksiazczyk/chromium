@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ResourceScheduler class header
+// summary: Declares the ResourceScheduler class, its ClientId and ScheduledResourceRequest types, and the API for scheduling, reprioritizing, and tracking requests per client.
+// ---
+
 #ifndef SERVICES_NETWORK_RESOURCE_SCHEDULER_RESOURCE_SCHEDULER_H_
 #define SERVICES_NETWORK_RESOURCE_SCHEDULER_RESOURCE_SCHEDULER_H_
 

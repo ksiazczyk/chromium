@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ResourceSchedulerParamsManager class header
+// summary: Declares ResourceSchedulerParamsManager, which parses and stores scheduler parameters that vary with network quality, including delayable request limits and queuing times.
+// ---
+
 #ifndef SERVICES_NETWORK_RESOURCE_SCHEDULER_RESOURCE_SCHEDULER_PARAMS_MANAGER_H_
 #define SERVICES_NETWORK_RESOURCE_SCHEDULER_RESOURCE_SCHEDULER_PARAMS_MANAGER_H_
 

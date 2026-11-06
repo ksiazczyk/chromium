@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestURLLoaderClient implementation
+// summary: Implements a URLLoaderClient test double that records responses, redirects, progress and completion, with RunUntil helpers for waiting in tests.
+// ---
+
 #include "services/network/test/test_url_loader_client.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SuitableTrustTokenOrigin unit tests
+// summary: Verifies that trustworthy HTTP/HTTPS origins are accepted while insecure origins and non-HTTP(S) schemes such as file URLs are rejected.
+// ---
+
 #include "services/network/trust_tokens/suitable_trust_token_origin.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

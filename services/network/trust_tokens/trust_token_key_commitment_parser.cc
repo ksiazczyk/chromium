@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trust Tokens key commitment parser implementation
+// summary: Implements parsing of JSON key commitment responses, validating protocol version, ID, batch size, and per-key expiry and key material fields.
+// ---
+
 #include "services/network/trust_tokens/trust_token_key_commitment_parser.h"
 
 #include <algorithm>

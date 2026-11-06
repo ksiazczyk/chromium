@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedDictionaryDiskCache class header
+// summary: Declares SharedDictionaryDiskCache, a wrapper around a disk cache backend for opening, dooming and clearing shared dictionary entries.
+// ---
+
 #ifndef SERVICES_NETWORK_SHARED_DICTIONARY_SHARED_DICTIONARY_DISK_CACHE_H_
 #define SERVICES_NETWORK_SHARED_DICTIONARY_SHARED_DICTIONARY_DISK_CACHE_H_
 

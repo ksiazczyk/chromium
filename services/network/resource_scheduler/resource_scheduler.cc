@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ResourceScheduler implementation
+// summary: Implements the scheduler that decides when HTTP requests start, using request attributes, priority thresholds, per-host limits, and network quality signals.
+// ---
+
 #include "services/network/resource_scheduler/resource_scheduler.h"
 
 #include <stdint.h>

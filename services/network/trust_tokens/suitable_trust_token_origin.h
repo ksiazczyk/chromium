@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SuitableTrustTokenOrigin class declaration
+// summary: Declares a thin url::Origin wrapper enforcing the invariants required of origins that key persistent Trust Tokens state, with Create factories and serialization.
+// ---
+
 #ifndef SERVICES_NETWORK_TRUST_TOKENS_SUITABLE_TRUST_TOKEN_ORIGIN_H_
 #define SERVICES_NETWORK_TRUST_TOKENS_SUITABLE_TRUST_TOKEN_ORIGIN_H_
 

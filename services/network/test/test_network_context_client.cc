@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestNetworkContextClient implementation
+// summary: Implements a basic NetworkContextClient for unit tests, handling file upload requests with configurable failure and last-file-dropping behavior.
+// ---
+
 #include "services/network/test/test_network_context_client.h"
 
 #include <optional>

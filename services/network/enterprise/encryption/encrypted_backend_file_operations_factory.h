@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Encrypted backend file operations factory declaration
+// summary: Declares a backend file operations factory that produces encryption-enabled operations for the disk cache.
+// ---
+
 #ifndef SERVICES_NETWORK_ENTERPRISE_ENCRYPTION_ENCRYPTED_BACKEND_FILE_OPERATIONS_FACTORY_H_
 #define SERVICES_NETWORK_ENTERPRISE_ENCRYPTION_ENCRYPTED_BACKEND_FILE_OPERATIONS_FACTORY_H_
 

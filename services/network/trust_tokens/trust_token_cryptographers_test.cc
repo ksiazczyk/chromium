@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Trust Token cryptographers integration tests
+// summary: Runs end-to-end issuance and redemption flows confirming the BoringSSL issuance and redemption cryptographers work against the server-side BoringSSL issuer logic.
+// ---
+
 #include <memory>
 #include <optional>
 #include <string>

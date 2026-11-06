@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestNetworkConnectionTracker implementation
+// summary: Implements a test NetworkConnectionTracker that lets unit tests set the connection type and choose synchronous or asynchronous GetConnectionType responses.
+// ---
+
 #include "services/network/test/test_network_connection_tracker.h"
 
 #include <utility>

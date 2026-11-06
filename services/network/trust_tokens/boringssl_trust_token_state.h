@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BoringSSL Trust Token state header
+// summary: Declares BoringsslTrustTokenState, a wrapper owning the BoringSSL TRUST_TOKEN_CLIENT context that maintains Trust Tokens protocol state.
+// ---
+
 #ifndef SERVICES_NETWORK_TRUST_TOKENS_BORINGSSL_TRUST_TOKEN_STATE_H_
 #define SERVICES_NETWORK_TRUST_TOKENS_BORINGSSL_TRUST_TOKEN_STATE_H_
 

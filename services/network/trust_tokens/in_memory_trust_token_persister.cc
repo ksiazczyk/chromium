@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-memory Trust Token persister implementation
+// summary: Implements an in-memory TrustTokenPersister storing issuer, top-level, and pair configs for the process lifetime, suited to tests and non-SQL environments.
+// ---
+
 #include "services/network/trust_tokens/in_memory_trust_token_persister.h"
 
 #include "services/network/trust_tokens/types.h"

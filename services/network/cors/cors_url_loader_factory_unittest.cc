@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CORS URL loader factory unit tests
+// summary: Unit tests for CorsURLLoaderFactory covering loader creation, request validation and factory behavior with a test network service setup.
+// ---
+
 #include "services/network/cors/cors_url_loader_factory.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Pending Trust Token store unit tests
+// summary: Unit tests verifying that PendingTrustTokenStore executes enqueued operations in FIFO order, including operations enqueued before, during, and after the store is ready.
+// ---
+
 #include "services/network/trust_tokens/pending_trust_token_store.h"
 
 #include "base/test/bind.h"

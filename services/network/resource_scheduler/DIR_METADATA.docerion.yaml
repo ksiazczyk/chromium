@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Resource Scheduler directory metadata
+summary: Declares the bug tracking components (Monorail and Buganizer) used for issues in the resource scheduler directory.

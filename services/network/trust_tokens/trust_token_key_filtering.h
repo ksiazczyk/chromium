@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trust token key filtering header
+// summary: Declares RetainSoonestToExpireTrustTokenKeys, which keeps the soonest-to-expire non-expired verification keys from a vector.
+// ---
+
 #ifndef SERVICES_NETWORK_TRUST_TOKENS_TRUST_TOKEN_KEY_FILTERING_H_
 #define SERVICES_NETWORK_TRUST_TOKENS_TRUST_TOKEN_KEY_FILTERING_H_
 

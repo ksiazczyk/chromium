@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SQLite Trust Tokens persister implementation
+// summary: Implements SQLiteTrustTokenPersister, which stores Trust Tokens issuer, top-level, and issuer-toplevel pair configs in tables of an on-disk SQLite database.
+// ---
+
 #include "services/network/trust_tokens/sqlite_trust_token_persister.h"
 
 #include <optional>

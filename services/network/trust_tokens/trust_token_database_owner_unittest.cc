@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TrustTokenDatabaseOwner unit tests
+// summary: Unit tests verifying that TrustTokenDatabaseOwner initializes correctly, including still producing a usable owner when the underlying database fails to open.
+// ---
+
 #include "services/network/trust_tokens/trust_token_database_owner.h"
 #include "base/task/single_thread_task_runner.h"
 #include "base/test/bind.h"

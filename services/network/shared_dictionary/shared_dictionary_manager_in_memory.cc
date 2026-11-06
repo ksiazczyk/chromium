@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-memory shared dictionary manager implementation
+// summary: Implements SharedDictionaryManagerInMemory, which keeps shared dictionary information in memory and evicts entries based on cache size and count limits.
+// ---
+
 #include "services/network/shared_dictionary/shared_dictionary_manager_in_memory.h"
 
 #include <algorithm>

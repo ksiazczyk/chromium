@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Trust Tokens test server handler registration header
+// summary: Declares a function that wires a TrustTokenRequestHandler to an embedded test server at the standard /issue, /redeem, and /sign endpoints.
+// ---
+
 #ifndef SERVICES_NETWORK_TEST_TRUST_TOKEN_TEST_SERVER_HANDLER_REGISTRATION_H_
 #define SERVICES_NETWORK_TEST_TRUST_TOKEN_TEST_SERVER_HANDLER_REGISTRATION_H_
 

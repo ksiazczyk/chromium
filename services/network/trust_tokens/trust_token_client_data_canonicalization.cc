@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trust Tokens client data canonicalization
+// summary: Builds the CBOR serialization of the client-data field for Trust Tokens redemption requests from a redemption timestamp and redeeming top-frame origin.
+// ---
+
 #include "services/network/trust_tokens/trust_token_client_data_canonicalization.h"
 
 #include "components/cbor/writer.h"

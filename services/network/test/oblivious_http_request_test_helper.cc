@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Oblivious HTTP request test helper implementation
+// summary: Implements a test helper with fixed HPKE keys that decrypts oblivious HTTP requests and encrypts responses through a quiche oblivious HTTP gateway.
+// ---
+
 #include "services/network/test/oblivious_http_request_test_helper.h"
 
 #include <array>

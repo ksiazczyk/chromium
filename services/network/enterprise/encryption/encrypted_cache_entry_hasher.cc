@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Encrypted cache entry hasher implementation
+// summary: Computes cache entry hash keys by signing cache keys with HMAC-SHA256 using the process-bound primary key.
+// ---
+
 #include "services/network/enterprise/encryption/encrypted_cache_entry_hasher.h"
 
 #include <array>

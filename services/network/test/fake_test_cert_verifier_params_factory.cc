@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake cert verifier params factory implementation
+// summary: Implements a fake CertVerifierService that completes every certificate verification successfully for tests needing a NetworkContext.
+// ---
+
 #include "services/network/test/fake_test_cert_verifier_params_factory.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThrottlingNetworkInterceptor implementation
+// summary: Implements throttling logic that delays network callbacks to emulate latency, limited throughput, packet loss, and offline conditions.
+// ---
+
 #include "services/network/throttling/throttling_network_interceptor.h"
 
 #include <stddef.h>

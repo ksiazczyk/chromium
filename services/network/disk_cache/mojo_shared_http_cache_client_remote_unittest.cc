@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mojo shared HTTP cache client remote unit tests
+// summary: Unit tests verifying MojoSharedHttpCacheClientRemote disconnect handling and the lifecycle transfer from the factory remote to the client remote after initialization.
+// ---
+
 #include "services/network/disk_cache/mojo_shared_http_cache_client_remote.h"
 
 #include "base/files/file.h"

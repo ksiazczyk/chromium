@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedDictionaryDataPipeWriter implementation
+// summary: Pumps a response body from a Mojo data pipe into a SharedDictionaryWriter and reports completion success or failure via a finish callback.
+// ---
+
 #include "services/network/shared_dictionary/shared_dictionary_data_pipe_writer.h"
 
 #include "base/containers/span.h"

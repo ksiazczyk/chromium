@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trust token request issuance helper header
+// summary: Declares TrustTokenRequestIssuanceHelper and its Cryptographer interface for the underlying issuance cryptographic operations.
+// ---
+
 #ifndef SERVICES_NETWORK_TRUST_TOKENS_TRUST_TOKEN_REQUEST_ISSUANCE_HELPER_H_
 #define SERVICES_NETWORK_TRUST_TOKENS_TRUST_TOKEN_REQUEST_ISSUANCE_HELPER_H_
 

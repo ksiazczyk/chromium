@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Throttling network transaction implementation
+// summary: Implements a throttled HTTP transaction wrapper that proxies net::HttpTransaction calls through the throttling interceptor and can simulate network outages.
+// ---
+
 #include "services/network/throttling/throttling_network_transaction.h"
 
 #include <algorithm>

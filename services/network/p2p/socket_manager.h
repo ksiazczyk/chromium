@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: P2P socket manager header
+// summary: Declares P2PSocketManager, which owns P2P socket instances and dispatches Mojo calls from the child and browser processes.
+// ---
+
 #ifndef SERVICES_NETWORK_P2P_SOCKET_MANAGER_H_
 #define SERVICES_NETWORK_P2P_SOCKET_MANAGER_H_
 

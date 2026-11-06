@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EncryptedCacheFile unit tests
+// summary: Unit tests covering creation, read, write, truncation, wrong-key handling and histogram metrics of the encrypted cache file implementation.
+// ---
+
 #include "services/network/enterprise/encryption/encrypted_cache_file.h"
 
 #include <optional>

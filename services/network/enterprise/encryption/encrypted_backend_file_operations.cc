@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Encrypted backend file operations implementation
+// summary: Implements decorators around disk cache backend file operations that open files as encrypted cache files using the primary key.
+// ---
+
 #include "services/network/enterprise/encryption/encrypted_backend_file_operations.h"
 
 #include <utility>

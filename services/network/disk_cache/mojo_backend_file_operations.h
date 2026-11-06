@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo backend file operations header
+// summary: Declares MojoBackendFileOperations and UnboundMojoBackendFileOperations, which provide disk cache backend file operations brokered via Mojo.
+// ---
+
 #ifndef SERVICES_NETWORK_DISK_CACHE_MOJO_BACKEND_FILE_OPERATIONS_H_
 #define SERVICES_NETWORK_DISK_CACHE_MOJO_BACKEND_FILE_OPERATIONS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trust token request signing helper implementation
+// summary: Implements the Trust Tokens request signing operation, building the Sec-Redemption-Record structured header from stored redemption records for the request's issuers.
+// ---
+
 #include "services/network/trust_tokens/trust_token_request_signing_helper.h"
 
 #include <algorithm>

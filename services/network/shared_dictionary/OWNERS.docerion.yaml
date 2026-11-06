@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the shared dictionary directory
+summary: Delegates code ownership review to the OWNERS file of net/extras/shared_dictionary.

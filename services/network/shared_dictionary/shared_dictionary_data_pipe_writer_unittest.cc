@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SharedDictionaryDataPipeWriter unit tests
+// summary: Unit tests for SharedDictionaryDataPipeWriter using a dummy writer to verify data piping, completion callbacks and abort handling.
+// ---
+
 #include "services/network/shared_dictionary/shared_dictionary_data_pipe_writer.h"
 
 #include <optional>

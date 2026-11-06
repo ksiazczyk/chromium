@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestSharedURLLoaderFactory header
+// summary: Declares TestSharedURLLoaderFactory, a helper that creates a working SharedURLLoaderFactory backed by a real URLLoader implementation for network unittests.
+// ---
+
 #ifndef SERVICES_NETWORK_TEST_TEST_SHARED_URL_LOADER_FACTORY_H_
 #define SERVICES_NETWORK_TEST_TEST_SHARED_URL_LOADER_FACTORY_H_
 

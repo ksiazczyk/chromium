@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: On-disk shared dictionary manager implementation
+// summary: Implements SharedDictionaryManagerOnDisk, persisting dictionary metadata in a SQLite store and dictionary data in the disk cache, with serialized clear and eviction tasks.
+// ---
+
 #include "services/network/shared_dictionary/shared_dictionary_manager_on_disk.h"
 
 #include "base/byte_size.h"

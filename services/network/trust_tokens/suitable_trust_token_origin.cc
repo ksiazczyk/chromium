@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SuitableTrustTokenOrigin implementation
+// summary: Implements a wrapper over url::Origin that only accepts potentially trustworthy HTTP or HTTPS origins suitable for keying persistent Trust Tokens state.
+// ---
+
 #include "services/network/trust_tokens/suitable_trust_token_origin.h"
 #include "services/network/public/cpp/is_potentially_trustworthy.h"
 #include "url/url_constants.h"

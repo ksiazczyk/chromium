@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Trust Token test issuer utilities implementation
+// summary: Implements TestTrustTokenIssuer, a test Private State Token issuer that generates key pairs and handles token issuance and redemption requests.
+// ---
+
 #include "services/network/trust_tokens/boringssl_trust_token_test_utils.h"
 
 #include <algorithm>

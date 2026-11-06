@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo backend file operations implementation
+// summary: Implements disk_cache::BackendFileOperations by forwarding cache file operations such as open, delete, replace, and file enumeration over Mojo to a remote HTTP cache backend.
+// ---
+
 #include "services/network/disk_cache/mojo_backend_file_operations.h"
 
 #include "base/task/sequenced_task_runner.h"

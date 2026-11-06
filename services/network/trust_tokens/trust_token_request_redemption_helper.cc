@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trust token request redemption helper implementation
+// summary: Implements the Trust Tokens redemption operation, attaching a signed token to a request and storing the returned redemption record, with rate limiting, caching, and NetLog outcome logging.
+// ---
+
 #include "services/network/trust_tokens/trust_token_request_redemption_helper.h"
 
 #include <algorithm>

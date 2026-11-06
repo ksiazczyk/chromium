@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trust Tokens client data canonicalization header
+// summary: Declares the function that returns the CBOR client-data serialization for a redemption request, returning nullopt on pre-epoch timestamps or errors.
+// ---
+
 #ifndef SERVICES_NETWORK_TRUST_TOKENS_TRUST_TOKEN_CLIENT_DATA_CANONICALIZATION_H_
 #define SERVICES_NETWORK_TRUST_TOKENS_TRUST_TOKEN_CLIENT_DATA_CANONICALIZATION_H_
 

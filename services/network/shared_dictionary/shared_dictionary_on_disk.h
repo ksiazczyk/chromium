@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Disk-backed shared dictionary header
+// summary: Declares SharedDictionaryOnDisk, a net::SharedDictionary that retrieves its data from the SharedDictionaryDiskCache and starts loading in the constructor.
+// ---
+
 #ifndef SERVICES_NETWORK_SHARED_DICTIONARY_SHARED_DICTIONARY_ON_DISK_H_
 #define SERVICES_NETWORK_SHARED_DICTIONARY_SHARED_DICTIONARY_ON_DISK_H_
 
