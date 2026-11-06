@@ -1,0 +1,4 @@
+# Docerion header of name-div-labelledby-expected-blink.txt.
+type: test
+title: Expected Blink result for div name from aria-labelledby
+summary: Expected Blink accessibility tree output for the div named via aria-labelledby test.

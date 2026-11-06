@@ -1,0 +1,4 @@
+# Docerion header of name-from-content-whitespace-block-children-collapses-extra-whitespace-expected-mac.txt.
+type: test
+title: Expected Mac name for whitespace collapsing with block children
+summary: Expected accessible name result for the whitespace collapsing test with block-level children on macOS.

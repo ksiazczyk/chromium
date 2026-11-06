@@ -1,0 +1,4 @@
+# Docerion header of name-file-default-rtl-expected-blink.txt.
+type: test
+title: Expected Blink accessible name for default RTL file input
+summary: Expected accessible name output for a default right-to-left file input as computed by Blink.

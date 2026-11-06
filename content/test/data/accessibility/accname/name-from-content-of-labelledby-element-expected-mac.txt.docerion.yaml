@@ -1,0 +1,4 @@
+# Docerion header of name-from-content-of-labelledby-element-expected-mac.txt.
+type: test
+title: Mac expected output for name-from-content-of-labelledby test
+summary: Expected macOS AX accessibility output for the accname test where an aria-labelledby element's content names a text field.

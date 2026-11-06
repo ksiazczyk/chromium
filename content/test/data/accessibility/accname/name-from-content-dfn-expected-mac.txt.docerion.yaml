@@ -1,0 +1,4 @@
+# Docerion header of name-from-content-dfn-expected-mac.txt.
+type: test
+title: Mac expectation for checkbox name from content with dfn
+summary: Expected Mac AXCheckBox title for a checkbox whose name comes from label contents containing a dfn element.

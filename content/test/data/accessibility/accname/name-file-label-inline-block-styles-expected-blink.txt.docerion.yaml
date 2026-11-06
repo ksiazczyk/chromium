@@ -1,0 +1,4 @@
+# Docerion header of name-file-label-inline-block-styles-expected-blink.txt.
+type: test
+title: Blink expected result for label with CSS generated content
+summary: Expected Blink accessibility output for a text field whose label uses :before and :after CSS generated content.

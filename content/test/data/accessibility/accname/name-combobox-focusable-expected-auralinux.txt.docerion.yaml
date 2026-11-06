@@ -1,0 +1,4 @@
+# Docerion header of name-combobox-focusable-expected-auralinux.txt.
+type: test
+title: Expected Linux output for name-combobox-focusable test
+summary: Expected Linux accessibility output for the focusable combobox name test, expecting a combo box whose name comes from its tooltip.

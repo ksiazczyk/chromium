@@ -1,0 +1,4 @@
+# Docerion header of name-combobox-focusable-expected-mac.txt.
+type: test
+title: Expected macOS output for name-combobox-focusable test
+summary: Expected macOS accessibility output for the focusable combobox name test, expecting AXDescription and AXTitle of 'Choose your language.'

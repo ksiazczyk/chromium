@@ -1,0 +1,4 @@
+# Docerion header of name-image-css-after-in-label-expected-blink.txt.
+type: test
+title: Image CSS after in label expected Blink output
+summary: Expected Blink output for the image CSS after in label test, showing a button named 'fancy fruit' from a related element.

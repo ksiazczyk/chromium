@@ -1,0 +1,4 @@
+# Docerion header of desc-input-title-and-describedby-expected-blink.txt.
+type: test
+title: Expected Blink description for input with title and describedby
+summary: Expected Blink accessibility output for a text input whose description is taken from an aria-describedby element.

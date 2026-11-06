@@ -1,0 +1,4 @@
+# Docerion header of name-file-title-expected-mac.txt.
+type: test
+title: Mac expectation for file input name from title
+summary: Expected Mac AXButton title for the file input named through its title attribute.

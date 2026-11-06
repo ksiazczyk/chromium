@@ -1,0 +1,4 @@
+# Docerion header of name-button-value-expected-blink.txt.
+type: test
+title: Expected Blink output for button named from value
+summary: Expected Blink accessibility output for a button whose accessible name is derived from its value.

@@ -1,0 +1,4 @@
+# Docerion header of name-from-content-of-address.html.
+type: test
+title: HTML test page for name from content of address
+summary: HTML test page checking that the content of an address element contributes to the accessible name of its ancestor link.

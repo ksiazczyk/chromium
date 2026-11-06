@@ -1,0 +1,4 @@
+# Docerion header of desc-combobox-focusable-expected-mac.txt.
+type: test
+title: Expected macOS output for focusable combobox description test
+summary: Expected macOS accessibility output for the accessible description of a focusable combobox.

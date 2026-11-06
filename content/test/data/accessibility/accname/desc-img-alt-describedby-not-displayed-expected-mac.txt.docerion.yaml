@@ -1,0 +1,4 @@
+# Docerion header of desc-img-alt-describedby-not-displayed-expected-mac.txt.
+type: test
+title: Expected Mac output for img alt with not displayed describedby element
+summary: Expected Mac accessibility output when an image's aria-describedby element is hidden with display:none.

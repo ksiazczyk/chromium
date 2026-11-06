@@ -1,0 +1,4 @@
+# Docerion header of name-checkbox-label-expected-blink.txt.
+type: test
+title: Expected Blink accessible name for checkbox with label
+summary: Expected Blink output for a checkbox named via its label element, giving the name 'foo'.

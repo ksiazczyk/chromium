@@ -1,0 +1,4 @@
+# Docerion header of desc-from-content-of-describedby-element-expected-auralinux.txt.
+type: test
+title: Expected Auralinux output for description from content of describedby element
+summary: Expected Auralinux accessibility output for the description computed from the content of an aria-describedby element.

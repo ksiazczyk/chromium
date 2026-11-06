@@ -1,0 +1,4 @@
+# Docerion header of name-from-content-whitespace-inline-flex-children-expected-blink.txt.
+type: test
+title: Expected Blink name for whitespace inline-flex children
+summary: Expected accessible name result for the name-from-content whitespace inline-flex children test on Blink.

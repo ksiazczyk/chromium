@@ -1,0 +1,4 @@
+# Docerion header of desc-img-alt-describedby-presentational-expected-mac.txt.
+type: test
+title: Mac expected result for presentational describedby image test
+summary: Expected macOS accessibility output for the presentational aria-describedby image description test.

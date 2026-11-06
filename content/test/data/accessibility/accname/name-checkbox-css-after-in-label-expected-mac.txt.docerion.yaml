@@ -1,0 +1,4 @@
+# Docerion header of name-checkbox-css-after-in-label-expected-mac.txt.
+type: test
+title: Expected Mac name for checkbox with CSS after in label
+summary: Expected Mac output (AXCheckBox AXTitle='fancy fruit') for the CSS after-in-label checkbox test.

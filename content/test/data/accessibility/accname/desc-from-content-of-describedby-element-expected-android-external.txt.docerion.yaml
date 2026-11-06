@@ -1,0 +1,4 @@
+# Docerion header of desc-from-content-of-describedby-element-expected-android-external.txt.
+type: test
+title: Expected Android external output for describedby description test
+summary: Expected Android external accessibility tree for the description derived from the content of an aria-describedby element.

@@ -1,0 +1,4 @@
+# Docerion header of name-div-labelledby-expected-mac.txt.
+type: test
+title: Expected Mac result for div name from aria-labelledby
+summary: Expected macOS accessibility output for the div named via aria-labelledby test.

@@ -1,0 +1,4 @@
+# Docerion header of name-combobox-focusable-alternative-expected-mac.txt.
+type: test
+title: Expected macOS name for combobox titled via title attribute
+summary: Expected macOS accessibility output for a combobox input whose accessible name comes from its title attribute.

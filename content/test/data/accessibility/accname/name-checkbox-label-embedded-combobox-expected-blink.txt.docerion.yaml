@@ -1,0 +1,4 @@
+# Docerion header of name-checkbox-label-embedded-combobox-expected-blink.txt.
+type: test
+title: Expected Blink result for checkbox name with embedded combobox in label
+summary: Expected accessible name output for the checkbox-label-embedded-combobox test on Blink.

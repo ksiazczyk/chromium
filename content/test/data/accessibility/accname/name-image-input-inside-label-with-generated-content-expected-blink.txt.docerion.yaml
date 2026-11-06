@@ -1,0 +1,4 @@
+# Docerion header of name-image-input-inside-label-with-generated-content-expected-blink.txt.
+type: test
+title: Expected Blink output for image input in label with generated content
+summary: Expected accessible name result for the image input inside a label with generated content test on the Blink platform.

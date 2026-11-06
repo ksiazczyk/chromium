@@ -1,0 +1,4 @@
+# Docerion header of name-file-label-with-input-expected-mac.txt.
+type: test
+title: Expected Mac name for file input label containing an input
+summary: Expected AXButton title output for the file input whose label text embeds a text input value, on macOS.

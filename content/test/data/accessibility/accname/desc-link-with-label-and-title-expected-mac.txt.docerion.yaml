@@ -1,0 +1,4 @@
+# Docerion header of desc-link-with-label-and-title-expected-mac.txt.
+type: test
+title: Expected Mac description for link with label and title
+summary: Expected macOS accessibility output for a link with aria-label and title attributes.

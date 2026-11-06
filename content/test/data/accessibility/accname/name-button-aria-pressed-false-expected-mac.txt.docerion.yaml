@@ -1,0 +1,4 @@
+# Docerion header of name-button-aria-pressed-false-expected-mac.txt.
+type: test
+title: Expected Mac name for button with aria-pressed false
+summary: Expected macOS accessibility output for a toggle button with aria-pressed set to false.

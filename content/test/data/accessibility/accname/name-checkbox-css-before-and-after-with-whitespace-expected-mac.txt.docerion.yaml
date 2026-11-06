@@ -1,0 +1,4 @@
+# Docerion header of name-checkbox-css-before-and-after-with-whitespace-expected-mac.txt.
+type: test
+title: Expected Mac name for checkbox with CSS before and after whitespace
+summary: Expected Mac output (AXCheckBox AXTitle='fancy fruit') for the CSS before-and-after whitespace test.

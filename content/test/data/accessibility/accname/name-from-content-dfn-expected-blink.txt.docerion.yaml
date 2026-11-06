@@ -1,0 +1,4 @@
+# Docerion header of name-from-content-dfn-expected-blink.txt.
+type: test
+title: Blink expectation for checkbox name from content with dfn
+summary: Expected Blink result for a checkbox whose name comes from label contents containing a dfn element.

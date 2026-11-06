@@ -1,0 +1,4 @@
+# Docerion header of name-file-label-inline-block-styles-expected-mac.txt.
+type: test
+title: Mac expected result for label with CSS generated content
+summary: Expected Mac AX accessibility output for a text field whose label uses :before and :after CSS generated content.

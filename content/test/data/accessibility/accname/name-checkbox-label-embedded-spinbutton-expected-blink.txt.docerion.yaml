@@ -1,0 +1,4 @@
+# Docerion header of name-checkbox-label-embedded-spinbutton-expected-blink.txt.
+type: test
+title: Expected Blink accessible name for checkbox with embedded spinbutton
+summary: Expected Blink output for a checkbox whose label embeds a spinbutton, giving the name 'foo 5 baz'.

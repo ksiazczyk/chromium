@@ -1,0 +1,4 @@
+# Docerion header of name-checkbox-input-in-label-expected-blink.txt.
+type: test
+title: Expected Blink result for checkbox name with input in label
+summary: Expected accessible name output for the checkbox-with-nested-input-label test on the Blink platform.

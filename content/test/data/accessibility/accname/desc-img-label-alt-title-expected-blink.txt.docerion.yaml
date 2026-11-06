@@ -1,0 +1,4 @@
+# Docerion header of desc-img-label-alt-title-expected-blink.txt.
+type: test
+title: Expected Blink description for image with label, alt and title
+summary: Expected Blink accessibility output for an image with aria-label, alt and title, showing the title used as the description.

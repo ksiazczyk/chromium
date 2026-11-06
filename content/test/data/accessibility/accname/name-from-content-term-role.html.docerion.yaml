@@ -1,0 +1,4 @@
+# Docerion header of name-from-content-term-role.html.
+type: test
+title: 'Accname test: name from content with explicit term role'
+summary: HTML test page verifying accessible name computation for a heading containing a span with an explicit term role.

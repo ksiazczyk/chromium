@@ -1,0 +1,4 @@
+# Docerion header of name-div-label-expected-blink.txt.
+type: test
+title: Expected Blink output for name-div-label test
+summary: Expected name computation result for the name-div-label accessibility test in Blink, expecting a name taken from an attribute.

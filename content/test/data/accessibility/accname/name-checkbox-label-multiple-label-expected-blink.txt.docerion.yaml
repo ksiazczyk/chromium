@@ -1,0 +1,4 @@
+# Docerion header of name-checkbox-label-multiple-label-expected-blink.txt.
+type: test
+title: Blink expected output for checkbox name from multiple labels
+summary: Expected Blink accessibility output for a checkbox whose accessible name is combined from two associated labels.

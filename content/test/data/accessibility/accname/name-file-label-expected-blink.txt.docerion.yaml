@@ -1,0 +1,4 @@
+# Docerion header of name-file-label-expected-blink.txt.
+type: test
+title: Blink expected result for file input label accessible name
+summary: Expected Blink accessibility tree output for a file input whose accessible name comes from a related label element.

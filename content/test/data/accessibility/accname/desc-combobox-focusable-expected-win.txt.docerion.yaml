@@ -1,0 +1,4 @@
+# Docerion header of desc-combobox-focusable-expected-win.txt.
+type: test
+title: Expected Windows output for focusable combobox description test
+summary: Expected Windows accessibility output for the accessible description of a focusable combobox.

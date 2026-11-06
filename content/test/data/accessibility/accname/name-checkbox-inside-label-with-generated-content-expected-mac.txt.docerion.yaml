@@ -1,0 +1,4 @@
+# Docerion header of name-checkbox-inside-label-with-generated-content-expected-mac.txt.
+type: test
+title: Expected Mac result for checkbox name with generated label content
+summary: Expected macOS accessibility output for the checkbox-inside-label-with-generated-content test.

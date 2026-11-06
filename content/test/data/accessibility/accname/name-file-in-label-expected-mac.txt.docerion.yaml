@@ -1,0 +1,4 @@
+# Docerion header of name-file-in-label-expected-mac.txt.
+type: test
+title: Expected Mac result for file input named by label
+summary: Expected macOS accessibility output for the file-in-label test case.

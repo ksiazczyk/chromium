@@ -1,0 +1,4 @@
+# Docerion header of name-from-content-of-address-expected-blink.txt.
+type: test
+title: Blink expected output for name-from-content-of-address test
+summary: Expected Blink accessibility tree output for the accname test where an address element contributes to a link's name.

@@ -1,0 +1,4 @@
+# Docerion header of name-from-content-dfn.html.
+type: test
+title: Checkbox name from contents with dfn element test case
+summary: HTML test case verifying name-from-contents computation for a checkbox whose label contains a dfn element.

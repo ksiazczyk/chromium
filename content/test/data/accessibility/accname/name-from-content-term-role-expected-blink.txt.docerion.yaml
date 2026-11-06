@@ -1,0 +1,4 @@
+# Docerion header of name-from-content-term-role-expected-blink.txt.
+type: test
+title: Expected Blink name for heading with term role
+summary: Expected accessible name result for the heading with an explicit term role on the Blink platform.

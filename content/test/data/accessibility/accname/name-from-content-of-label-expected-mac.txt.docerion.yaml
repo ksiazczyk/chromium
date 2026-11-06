@@ -1,0 +1,4 @@
+# Docerion header of name-from-content-of-label-expected-mac.txt.
+type: test
+title: Mac expected output for name-from-content-of-label test
+summary: Expected macOS AX accessibility output for the accname test where a label's content names a text field.

@@ -1,0 +1,4 @@
+# Docerion header of name-image-spinbutton-valuenow-in-label-expected-mac.txt.
+type: test
+title: Expected Mac result for spinbutton valuenow in label name test
+summary: Expected AXButton title output on macOS for an image input whose label includes a spinbutton's aria-valuenow.

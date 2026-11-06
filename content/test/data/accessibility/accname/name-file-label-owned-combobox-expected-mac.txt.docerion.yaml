@@ -1,0 +1,4 @@
+# Docerion header of name-file-label-owned-combobox-expected-mac.txt.
+type: test
+title: Expected Mac name for file input label with owned combobox
+summary: Expected AXButton title output for the file input label with an owned combobox test case on macOS.

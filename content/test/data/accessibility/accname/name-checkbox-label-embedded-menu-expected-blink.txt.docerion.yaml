@@ -1,0 +1,4 @@
+# Docerion header of name-checkbox-label-embedded-menu-expected-blink.txt.
+type: test
+title: Expected Blink name for checkbox with embedded menu label
+summary: Expected accessible name output for Blink for a checkbox whose label embeds a menu, asserting the name 'Flash the screen times.' from the related element.

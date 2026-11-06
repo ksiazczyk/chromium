@@ -1,0 +1,4 @@
+# Docerion header of name-checkbox-label-embedded-listbox-expected-mac.txt.
+type: test
+title: Expected Mac name for checkbox with embedded listbox label
+summary: Expected macOS accessibility output for a checkbox whose label embeds a listbox, asserting the AXTitle 'Flash the screen 1 times.' and AXValue 0.

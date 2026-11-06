@@ -1,0 +1,4 @@
+# Docerion header of name-image-input-alt-expected-blink.txt.
+type: test
+title: Expected Blink output for image input alt name test
+summary: Expected accessible name result for the image input alt attribute test on the Blink platform.

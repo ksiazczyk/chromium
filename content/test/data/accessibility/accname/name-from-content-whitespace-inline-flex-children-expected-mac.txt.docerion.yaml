@@ -1,0 +1,4 @@
+# Docerion header of name-from-content-whitespace-inline-flex-children-expected-mac.txt.
+type: test
+title: Expected Mac name for inline-flex children whitespace test
+summary: Expected macOS accessibility output asserting a button's name computed from adjacent inline-flex child spans.

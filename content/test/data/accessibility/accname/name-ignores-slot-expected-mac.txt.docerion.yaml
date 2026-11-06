@@ -1,0 +1,4 @@
+# Docerion header of name-ignores-slot-expected-mac.txt.
+type: test
+title: Name ignores slot expected Mac output
+summary: Expected Mac accessibility output for the name-ignores-slot test, showing a button titled 'one two three'.

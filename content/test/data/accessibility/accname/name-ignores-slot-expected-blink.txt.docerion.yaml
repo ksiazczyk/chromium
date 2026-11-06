@@ -1,0 +1,4 @@
+# Docerion header of name-ignores-slot-expected-blink.txt.
+type: test
+title: Name ignores slot expected Blink output
+summary: Expected Blink output for the name-ignores-slot test, showing a button named 'one two three' from contents.

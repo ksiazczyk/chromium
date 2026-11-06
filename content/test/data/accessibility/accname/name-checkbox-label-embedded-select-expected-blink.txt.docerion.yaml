@@ -1,0 +1,4 @@
+# Docerion header of name-checkbox-label-embedded-select-expected-blink.txt.
+type: test
+title: Expected Blink name for checkbox with embedded select label
+summary: Expected accessible name output for Blink for a checkbox whose label embeds a select element, asserting the name 'Flash the screen 1 times.' from the related element.

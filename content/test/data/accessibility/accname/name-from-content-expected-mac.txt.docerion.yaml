@@ -1,0 +1,4 @@
+# Docerion header of name-from-content-expected-mac.txt.
+type: test
+title: Mac expected output for name-from-content test
+summary: Expected macOS AX accessibility output for the name-from-content accname test.

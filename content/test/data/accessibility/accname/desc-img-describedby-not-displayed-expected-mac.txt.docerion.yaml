@@ -1,0 +1,4 @@
+# Docerion header of desc-img-describedby-not-displayed-expected-mac.txt.
+type: test
+title: Expected Mac description for image with hidden describedby element
+summary: Expected macOS accessibility output for an image whose aria-describedby element is not displayed, listing the AXImage description and title.

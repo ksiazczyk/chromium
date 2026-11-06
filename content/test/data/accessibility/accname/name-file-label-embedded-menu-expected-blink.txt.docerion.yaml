@@ -1,0 +1,4 @@
+# Docerion header of name-file-label-embedded-menu-expected-blink.txt.
+type: test
+title: Expected Blink result for file input label with embedded menu
+summary: Expected accessibility tree output for the file input label-embedded-menu test case on Blink.

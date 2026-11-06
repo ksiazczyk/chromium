@@ -1,0 +1,4 @@
+# Docerion header of name-from-content-whitespace-inline-children-expected-mac.txt.
+type: test
+title: Expected Mac name for whitespace inline children
+summary: Expected Mac AXButton title for the name-from-content whitespace inline children test.

@@ -1,0 +1,4 @@
+# Docerion header of desc-img-one-valid-describedby-expected-mac.txt.
+type: test
+title: Expected Mac description for image with one valid describedby
+summary: Expected macOS accessibility output for an image whose description comes from one valid aria-describedby target.

@@ -1,0 +1,4 @@
+# Docerion header of desc-img-describedby-expected-blink.txt.
+type: test
+title: Blink expected result for image aria-describedby test
+summary: Expected Blink accessibility output for an image whose description comes from an aria-describedby element.

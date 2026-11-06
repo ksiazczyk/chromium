@@ -1,0 +1,4 @@
+# Docerion header of name-div-content-only-expected-blink.txt.
+type: test
+title: Expected Blink output for name-div-content-only test
+summary: Expected name computation result for the name-div-content-only accessibility test in Blink, expecting a generic container.

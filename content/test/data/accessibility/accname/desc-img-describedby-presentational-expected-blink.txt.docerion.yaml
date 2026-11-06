@@ -1,0 +1,4 @@
+# Docerion header of desc-img-describedby-presentational-expected-blink.txt.
+type: test
+title: Expected Blink description for image with presentational describedby
+summary: Expected Blink accessibility output for an image described by a presentational element, showing description 'foo' taken from a related element.

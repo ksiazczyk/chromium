@@ -1,0 +1,4 @@
+# Docerion header of name-checkbox-label-embedded-menu-expected-mac.txt.
+type: test
+title: Expected Mac name for checkbox with embedded menu label
+summary: Expected macOS accessibility output for a checkbox whose label embeds a menu, asserting the AXTitle 'Flash the screen times.' and AXValue 0.

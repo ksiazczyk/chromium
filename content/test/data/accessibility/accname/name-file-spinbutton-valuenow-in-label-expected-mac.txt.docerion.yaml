@@ -1,0 +1,4 @@
+# Docerion header of name-file-spinbutton-valuenow-in-label-expected-mac.txt.
+type: test
+title: Mac expectation for file spinbutton valuenow in label
+summary: Expected Mac AXButton title for the file input whose label contains a spinbutton aria-valuenow.

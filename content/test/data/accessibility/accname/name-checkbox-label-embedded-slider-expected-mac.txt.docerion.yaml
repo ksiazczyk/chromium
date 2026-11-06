@@ -1,0 +1,4 @@
+# Docerion header of name-checkbox-label-embedded-slider-expected-mac.txt.
+type: test
+title: Expected Mac accessible name for checkbox with embedded slider
+summary: Expected Mac AXCheckBox output for a checkbox whose label embeds a slider with value 5.

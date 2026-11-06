@@ -1,0 +1,4 @@
+# Docerion header of name-file-title-expected-blink.txt.
+type: test
+title: Blink expectation for file input name from title
+summary: Expected Blink result for the accessible name of a file input using its title attribute, with a note flagging a possible bug.
