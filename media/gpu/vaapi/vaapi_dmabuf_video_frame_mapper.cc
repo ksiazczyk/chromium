@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VA-API DMABuf video frame mapper implementation
+// summary: Maps DMABuf-backed video frames into CPU-accessible memory through VA-API, wrapping NV12 and P010 VA image data as video frames.
+// ---
+
 #include "media/gpu/vaapi/vaapi_dmabuf_video_frame_mapper.h"
 
 #include <sys/mman.h>

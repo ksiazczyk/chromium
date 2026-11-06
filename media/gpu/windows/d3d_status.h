@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D3D status codes and typed status
+// summary: Defines the D3DStatusCode enum and D3DStatus typed status that report D3D video decoding failures, capturing HRESULT details for logging.
+// ---
+
 #ifndef MEDIA_GPU_WINDOWS_D3D_STATUS_H_
 #define MEDIA_GPU_WINDOWS_D3D_STATUS_H_
 

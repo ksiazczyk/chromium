@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedVAContext declaration
+// summary: Declares ScopedVAContext, an RAII wrapper around a VAContext that decoders recreate when the VAConfig or picture size changes.
+// ---
+
 #ifndef MEDIA_GPU_VAAPI_TEST_SCOPED_VA_CONTEXT_H_
 #define MEDIA_GPU_VAAPI_TEST_SCOPED_VA_CONTEXT_H_
 

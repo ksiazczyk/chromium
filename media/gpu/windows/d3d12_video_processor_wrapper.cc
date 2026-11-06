@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D3D12 video processor wrapper implementation
+// summary: Implements the D3D12VideoProcessorWrapper, setting up video process command queues and lists, checking conversion support and processing input to output frames.
+// ---
+
 #include "media/gpu/windows/d3d12_video_processor_wrapper.h"
 
 #include "base/compiler_specific.h"

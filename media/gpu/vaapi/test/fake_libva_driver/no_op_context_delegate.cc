@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NoOpContextDelegate implementation
+// summary: Implements the empty SetRenderTarget, EnqueueWork and Run methods of the no-op context delegate.
+// ---
+
 #include "media/gpu/vaapi/test/fake_libva_driver/no_op_context_delegate.h"
 
 namespace media::internal {

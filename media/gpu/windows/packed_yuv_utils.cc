@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Packed DXGI YUV frame packing utilities implementation
+// summary: Implements DXGIFramePacker routines that interleave planar and bi-planar video frames into packed AYUV, Y210 and Y410 DXGI layouts using libyuv.
+// ---
+
 #include "media/gpu/windows/packed_yuv_utils.h"
 
 #include "base/check_op.h"

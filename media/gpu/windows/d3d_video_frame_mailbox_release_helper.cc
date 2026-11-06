@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D3D video frame mailbox release helper implementation
+// summary: Implements a ref-counted helper that waits for GPU sync tokens when D3D video decoder frame mailboxes are released, running on the GPU main thread.
+// ---
+
 #include "media/gpu/windows/d3d_video_frame_mailbox_release_helper.h"
 
 #include "base/feature_list.h"

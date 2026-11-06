@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: D3D11 copying texture wrapper unit tests
+// summary: Unit tests for CopyingTexture2DWrapper using mock video processor and texture wrapper objects to verify copy and color space handling.
+// ---
+
 #include "media/gpu/windows/d3d11_copying_texture_wrapper.h"
 
 #include <string.h>

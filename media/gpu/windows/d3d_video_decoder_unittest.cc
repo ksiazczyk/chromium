@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: D3DVideoDecoder unit tests
+// summary: Unit tests for D3DVideoDecoder using mock D3D11 devices, fake command buffer helpers, and a failing fake texture wrapper.
+// ---
+
 #include "media/gpu/windows/d3d_video_decoder.h"
 
 #include <initguid.h>

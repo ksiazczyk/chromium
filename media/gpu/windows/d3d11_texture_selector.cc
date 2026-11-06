@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D3D11 texture selector implementation
+// summary: Implements TextureSelector::Create, choosing output pixel and DXGI formats and zero-copy versus copy behavior based on format support and workarounds.
+// ---
+
 #include "media/gpu/windows/d3d11_texture_selector.h"
 
 #include <d3d11.h>

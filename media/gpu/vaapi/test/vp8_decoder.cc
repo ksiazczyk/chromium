@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VP8 test decoder implementation
+// summary: Decodes VP8-encoded IVF streams with direct libva calls, filling VA data structures and managing reference frames.
+// ---
+
 #include "media/gpu/vaapi/test/vp8_decoder.h"
 
 #include <va/va.h>

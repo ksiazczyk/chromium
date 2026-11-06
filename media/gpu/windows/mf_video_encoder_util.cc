@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Utilities for Media Foundation video encoding
+// summary: Implements helper utilities for Media Foundation video encoding, such as QP validation, codec profile mapping, driver vendor detection, and temporal layer limits.
+// ---
+
 #include "media/gpu/windows/mf_video_encoder_util.h"
 
 #include "base/check.h"

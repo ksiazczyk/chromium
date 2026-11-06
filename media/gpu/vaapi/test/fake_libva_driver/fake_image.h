@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeImage class header for the fake VA-API driver
+// summary: Declares FakeImage, which holds a VAImage's immutable metadata and a reference to its mutable backing FakeBuffer, currently supporting only NV12.
+// ---
+
 #ifndef MEDIA_GPU_VAAPI_TEST_FAKE_LIBVA_DRIVER_FAKE_IMAGE_H_
 #define MEDIA_GPU_VAAPI_TEST_FAKE_LIBVA_DRIVER_FAKE_IMAGE_H_
 

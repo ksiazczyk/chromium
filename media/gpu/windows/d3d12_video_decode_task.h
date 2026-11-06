@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D3D12 video decode task header
+// summary: Declares D3D12VideoDecoderTask, which stores the referenced memory and fence event of a submitted D3D12 video decode task.
+// ---
+
 #ifndef MEDIA_GPU_WINDOWS_D3D12_VIDEO_DECODE_TASK_H_
 #define MEDIA_GPU_WINDOWS_D3D12_VIDEO_DECODE_TASK_H_
 

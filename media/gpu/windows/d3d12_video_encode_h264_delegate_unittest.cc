@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: D3D12 H.264 video encode delegate unit tests
+// summary: Unit tests for the H.264 D3D12 video encode delegate and its reference frame manager, using mocked D3D12 video device feature support responses.
+// ---
+
 #include "media/gpu/windows/d3d12_video_encode_h264_delegate.h"
 
 #include <array>

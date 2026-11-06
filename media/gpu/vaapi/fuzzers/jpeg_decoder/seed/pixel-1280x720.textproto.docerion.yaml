@@ -1,0 +1,4 @@
+# Docerion header of pixel-1280x720.textproto.
+type: data
+title: pixel-1280x720.textproto JPEG decoder seed input
+summary: Text-format protobuf describing a parsed 1280x720 JPEG picture, including frame header, Huffman and quantization tables, used as a seed input for the VA-API JPEG decoder fuzzer.

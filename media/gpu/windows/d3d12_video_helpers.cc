@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D3D12 video encoder support check helpers
+// summary: Implements helper functions that query D3D12 video encoder feature support for codecs, profiles, input formats and resource requirements, plus encoder wrapper creation.
+// ---
+
 #include "media/gpu/windows/d3d12_video_helpers.h"
 
 #include <sstream>

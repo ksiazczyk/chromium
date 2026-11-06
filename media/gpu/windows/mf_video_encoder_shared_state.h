@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared state interface for Media Foundation video encoders
+// summary: Declares MediaFoundationVideoEncoderSharedState, which shares supported profiles and resolution limits among MediaFoundationVideoEncodeAccelerator instances.
+// ---
+
 #ifndef MEDIA_GPU_WINDOWS_MF_VIDEO_ENCODER_SHARED_STATE_H_
 #define MEDIA_GPU_WINDOWS_MF_VIDEO_ENCODER_SHARED_STATE_H_
 

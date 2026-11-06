@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D3D11 copying texture wrapper header
+// summary: Declares CopyingTexture2DWrapper, a Texture2DWrapper that converts between an input and an output texture via the D3D11 video processor.
+// ---
+
 #ifndef MEDIA_GPU_WINDOWS_D3D11_COPYING_TEXTURE_WRAPPER_H_
 #define MEDIA_GPU_WINDOWS_D3D11_COPYING_TEXTURE_WRAPPER_H_
 

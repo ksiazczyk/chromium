@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeContext implementation with codec delegate creation
+// summary: Implements FakeContext, selecting a VP8/VP9, AV1, H264 or no-op delegate based on the config and forwarding BeginPicture, RenderPicture and EndPicture calls to it.
+// ---
+
 #include "media/gpu/vaapi/test/fake_libva_driver/fake_context.h"
 
 #include "base/environment.h"

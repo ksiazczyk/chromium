@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit test for AAC codec bitrate clamping
+// summary: Tests that MFAudioEncoder::ClampAccCodecBitrate clamps bitrates to the values supported by Media Foundation.
+// ---
+
 #include "media/gpu/windows/mf_audio_encoder.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

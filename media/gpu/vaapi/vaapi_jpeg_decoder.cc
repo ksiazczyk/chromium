@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VaapiJpegDecoder implementation
+// summary: Implements the VA-API JPEG decoder, filling picture parameter, quantization, and Huffman table buffers to decode baseline JPEG images with libva.
+// ---
+
 #include "media/gpu/vaapi/vaapi_jpeg_decoder.h"
 
 #include <string.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VaapiJpegDecoder
+// summary: Declares the VA-API JPEG decoder class that allocates VA surfaces, submits VA buffers, and returns decoded images as ScopedVAImage objects.
+// ---
+
 #ifndef MEDIA_GPU_VAAPI_VAAPI_JPEG_DECODER_H_
 #define MEDIA_GPU_VAAPI_VAAPI_JPEG_DECODER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D3D12 H.264 video encode delegate implementation
+// summary: Implements the H.264 D3D12 video encode delegate, including reference frame management, level and profile mapping, and SPS/PPS construction for the bitstream.
+// ---
+
 #include "media/gpu/windows/d3d12_video_encode_h264_delegate.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VaapiMjpegDecodeAccelerator implementation
+// summary: Implements the MJPEG decode accelerator that decodes MJPEG bitstreams via VA-API on a dedicated decoder thread, including DMA-buf mapping and UMA error reporting.
+// ---
+
 #include "media/gpu/vaapi/vaapi_mjpeg_decode_accelerator.h"
 
 #include <stddef.h>

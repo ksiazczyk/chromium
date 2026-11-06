@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D3D11 texture selector header
+// summary: Declares TextureSelector and CopyTextureSelector classes that store pixel formats and check decoder GUID support for D3D11 video decoding.
+// ---
+
 #ifndef MEDIA_GPU_WINDOWS_D3D11_TEXTURE_SELECTOR_H_
 #define MEDIA_GPU_WINDOWS_D3D11_TEXTURE_SELECTOR_H_
 

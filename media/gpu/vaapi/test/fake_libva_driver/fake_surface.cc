@@ -3,6 +3,12 @@
 // found in the LICENSE file.
 //
 
+// ---docerion
+// type: source
+// title: FakeSurface implementation
+// summary: Implements FakeSurface, validating DRM PRIME 2 surface attributes and creating fake VA-API surfaces backed by mapped buffer objects.
+// ---
+
 #include "media/gpu/vaapi/test/fake_libva_driver/fake_surface.h"
 
 #include <drm_fourcc.h>

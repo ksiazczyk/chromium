@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D3D picture buffer implementation
+// summary: Implements picture buffers that back decoded video frames with D3D11 textures or D3D12 resources, including shared image access and fences.
+// ---
+
 #include "media/gpu/windows/d3d_picture_buffer.h"
 
 #include <windows.h>

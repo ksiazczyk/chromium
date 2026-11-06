@@ -15,6 +15,12 @@
 // built for Fake GBM will simply be DLL injected (using LD_PRELOAD generally)
 // into the test process.
 
+// ---docerion
+// type: test
+// title: Fake GBM implementation for headless testing
+// summary: Implements a minigbm-ABI-compatible GBM library backed by tmpfiles, meant to be LD_PRELOAD injected so headless fake VA-API decoder tests need no real GEM driver.
+// ---
+
 
 #include <errno.h>
 #include <stdio.h>

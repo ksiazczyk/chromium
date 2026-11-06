@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Supported profile helpers implementation
+// summary: Implements D3D11 and D3D12 video device wrappers that detect hardware decode profile GUIDs, supported resolutions, and GPU vendor IDs.
+// ---
+
 #include "media/gpu/windows/supported_profile_helpers.h"
 
 #include <algorithm>

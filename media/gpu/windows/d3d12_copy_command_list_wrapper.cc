@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D3D12 copy command queue wrapper implementation
+// summary: Implements a D3D12 copy command queue wrapper that copies texture regions and bi-planar NV12 or P010 frames on the GPU.
+// ---
+
 #include "media/gpu/windows/d3d12_copy_command_list_wrapper.h"
 
 #include "base/check_op.h"

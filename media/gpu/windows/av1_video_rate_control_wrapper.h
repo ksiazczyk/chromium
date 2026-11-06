@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AV1 video rate control wrapper declarations
+// summary: Declares the AV1RateControl alias and template specializations that adapt the generic rate control wrapper to libaom's AV1 rate control.
+// ---
+
 #ifndef MEDIA_GPU_WINDOWS_AV1_VIDEO_RATE_CONTROL_WRAPPER_H_
 #define MEDIA_GPU_WINDOWS_AV1_VIDEO_RATE_CONTROL_WRAPPER_H_
 

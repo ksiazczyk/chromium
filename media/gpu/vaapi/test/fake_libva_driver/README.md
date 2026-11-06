@@ -1,3 +1,9 @@
+---
+type: readme
+title: VA-API fake backend for libva
+summary: Explains that this folder provides a fake VA-API backend for libva intended for tests and shows how to exercise it via LIBVA_DRIVER_NAME.
+---
+
 # VA-API fake backend for libva
 
 VA-API is an API for video/image decoding/encoding acceleration implemented by

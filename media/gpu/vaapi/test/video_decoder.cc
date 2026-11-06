@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Video decoder base implementation
+// summary: Implements the VideoDecoder base class constructor and destructor for frame-by-frame libva-based test decoding.
+// ---
+
 #include "media/gpu/vaapi/test/video_decoder.h"
 
 namespace media {

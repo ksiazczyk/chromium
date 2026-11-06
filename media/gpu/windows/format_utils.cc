@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DXGI format utilities implementation
+// summary: Implements DXGI format helpers that map video and shared image formats to DXGI formats and report plane counts, bit depths and encoder output color spaces.
+// ---
+
 #include "media/gpu/windows/format_utils.h"
 
 #include "base/notreached.h"

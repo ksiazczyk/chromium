@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedBOMapping implementation
+// summary: Implements ScopedBOMapping and ScopedAccess for CPU access to mapped minigbm buffer objects, including dma-buf sync ioctls and move semantics.
+// ---
+
 #include "media/gpu/vaapi/test/fake_libva_driver/scoped_bo_mapping_factory.h"
 
 #include <linux/dma-buf.h>

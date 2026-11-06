@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VaapiWrapper unit tests
+// summary: Unit tests for VaapiWrapper buffer submission using a mock wrapper, verifying SubmitBuffer behavior and pending VA buffer handling.
+// ---
+
 #include <va/va.h>
 
 #include "media/gpu/vaapi/vaapi_wrapper.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D3D12 video encode accelerator implementation
+// summary: Implements the D3D12 hardware video encode accelerator for Windows, including input format upload, UMA metrics, and codec delegate dispatch.
+// ---
+
 #include "media/gpu/windows/d3d12_video_encode_accelerator.h"
 
 #include <d3d11.h>

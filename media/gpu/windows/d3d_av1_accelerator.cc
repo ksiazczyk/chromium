@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D3D AV1 decode accelerator implementation
+// summary: Implements the D3DAV1Accelerator, which creates AV1 pictures and submits picture parameter, tile control and bitstream buffers for hardware AV1 decoding via D3D.
+// ---
+
 #include "media/gpu/windows/d3d_av1_accelerator.h"
 
 #include <array>

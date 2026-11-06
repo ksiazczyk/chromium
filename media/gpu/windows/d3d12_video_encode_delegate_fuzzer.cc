@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: D3D12 video encode delegate fuzzer
+// summary: Fuzzer that drives the D3D12 video encode delegate with randomized inputs and mocked D3D12 video devices to find crashes across H.264, HEVC and AV1 encoding.
+// ---
+
 #include "media/gpu/windows/d3d12_video_encode_delegate.h"
 
 #include <fuzzer/FuzzedDataProvider.h>

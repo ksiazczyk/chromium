@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedVAConfig declaration
+// summary: Declares ScopedVAConfig, an RAII holder for a VAConfig ID tied to a VaapiDevice, VA profile and render target format.
+// ---
+
 #ifndef MEDIA_GPU_VAAPI_TEST_SCOPED_VA_CONFIG_H_
 #define MEDIA_GPU_VAAPI_TEST_SCOPED_VA_CONFIG_H_
 

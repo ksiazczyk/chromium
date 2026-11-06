@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: H265 Vaapi video decoder delegate implementation
+// summary: Implements the H265 Vaapi video decoder delegate, submitting HEVC picture parameters, slices, and reference picture lists to VA-API hardware decoding.
+// ---
+
 #include "media/gpu/vaapi/h265_vaapi_video_decoder_delegate.h"
 
 #include "base/compiler_specific.h"

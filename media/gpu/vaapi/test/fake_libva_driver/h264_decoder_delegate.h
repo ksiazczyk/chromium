@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: H264DecoderDelegate class header
+// summary: Declares H264DecoderDelegate, a ContextDelegate that decodes H.264 slice data with openh264 and renders frames to fake surfaces.
+// ---
+
 #ifndef MEDIA_GPU_VAAPI_TEST_FAKE_LIBVA_DRIVER_H264_DECODER_DELEGATE_H_
 #define MEDIA_GPU_VAAPI_TEST_FAKE_LIBVA_DRIVER_H264_DECODER_DELEGATE_H_
 

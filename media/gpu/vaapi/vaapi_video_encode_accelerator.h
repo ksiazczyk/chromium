@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VaapiVideoEncodeAccelerator class declaration
+// summary: Declares the VA-API VideoEncodeAccelerator that provides hardware-accelerated video encoding, including encoder state, surface maps and encode job handling.
+// ---
+
 #ifndef MEDIA_GPU_VAAPI_VAAPI_VIDEO_ENCODE_ACCELERATOR_H_
 #define MEDIA_GPU_VAAPI_VAAPI_VIDEO_ENCODE_ACCELERATOR_H_
 

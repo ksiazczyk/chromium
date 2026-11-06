@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VP8 test decoder header
+// summary: Declares the Vp8Decoder class that decodes VP8 IVF streams using direct libva calls on top of the VideoDecoder interface.
+// ---
+
 #ifndef MEDIA_GPU_VAAPI_TEST_VP8_DECODER_H_
 #define MEDIA_GPU_VAAPI_TEST_VP8_DECODER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VP9 VA-API video decoder delegate implementation
+// summary: Implements VP9 hardware decoding through VA-API, submitting picture and slice parameter buffers and handling encrypted sessions on ChromeOS.
+// ---
+
 #include "media/gpu/vaapi/vp9_vaapi_video_decoder_delegate.h"
 
 #include <type_traits>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeContext class header for the fake VA-API driver
+// summary: Declares FakeContext, which tracks a VAContext's state and delegates picture rendering to a codec-specific ContextDelegate with documented threading rules.
+// ---
+
 #ifndef MEDIA_GPU_VAAPI_TEST_FAKE_LIBVA_DRIVER_FAKE_CONTEXT_H_
 #define MEDIA_GPU_VAAPI_TEST_FAKE_LIBVA_DRIVER_FAKE_CONTEXT_H_
 

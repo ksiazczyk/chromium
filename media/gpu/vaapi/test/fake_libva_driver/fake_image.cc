@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeImage implementation for NV12 images
+// summary: Implements FakeImage creation and accessors, computing NV12 plane strides, offsets and sizes and managing the image's backing FakeBuffer lifetime.
+// ---
+
 #include "media/gpu/vaapi/test/fake_libva_driver/fake_image.h"
 
 #include "base/compiler_specific.h"

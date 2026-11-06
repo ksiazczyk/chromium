@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D3D12 video decoder wrapper header
+// summary: Declares D3D12VideoDecoderWrapper, a wrapper class for API calls around ID3D12VideoDecoder.
+// ---
+
 #ifndef MEDIA_GPU_WINDOWS_D3D12_VIDEO_DECODER_WRAPPER_H_
 #define MEDIA_GPU_WINDOWS_D3D12_VIDEO_DECODER_WRAPPER_H_
 

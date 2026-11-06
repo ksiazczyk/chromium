@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VA-API unit test executable
+// summary: Standalone unit tests that exercise VaapiWrapper and verify VA-API codec profile support on the device.
+// ---
+
 // This has to be included first.
 // See http://code.google.com/p/googletest/issues/detail?id=371
 #include <drm_fourcc.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: H264 Vaapi video encoder delegate
+// summary: Declares the H264 Vaapi video encoder delegate, which manages H.264 encoding state, rate control, reference frames, and stream header generation for VA-API hardware encoding.
+// ---
+
 #ifndef MEDIA_GPU_VAAPI_H264_VAAPI_VIDEO_ENCODER_DELEGATE_H_
 #define MEDIA_GPU_VAAPI_H264_VAAPI_VIDEO_ENCODER_DELEGATE_H_
 

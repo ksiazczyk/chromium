@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media Foundation video encoder utility constants
+// summary: Declares constants and types for Media Foundation video encoders, including per-codec maximum framerate and resolution limits, supported pixel formats, and driver vendor identification.
+// ---
+
 #ifndef MEDIA_GPU_WINDOWS_MF_VIDEO_ENCODER_UTIL_H_
 #define MEDIA_GPU_WINDOWS_MF_VIDEO_ENCODER_UTIL_H_
 

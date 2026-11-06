@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VP8 VA-API video encoder delegate header
+// summary: Declares the VP8VaapiVideoEncoderDelegate class and its encode parameters for VA-API based VP8 video encoding.
+// ---
+
 #ifndef MEDIA_GPU_VAAPI_VP8_VAAPI_VIDEO_ENCODER_DELEGATE_H_
 #define MEDIA_GPU_VAAPI_VP8_VAAPI_VIDEO_ENCODER_DELEGATE_H_
 

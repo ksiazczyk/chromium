@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: H264 decoded picture buffer implementation
+// summary: Implements H264Picture and the H264DPB decoded picture buffer that stores, marks and retrieves reference pictures for the H.264 test decoder.
+// ---
+
 #include "media/gpu/vaapi/test/h264_dpb.h"
 
 #include "media/gpu/macros.h"

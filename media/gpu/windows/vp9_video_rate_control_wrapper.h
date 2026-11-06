@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VP9 rate control wrapper header
+// summary: Declares the VP9RateControl template instantiation and its specialized conversion and query methods for libvpx rate control.
+// ---
+
 #ifndef MEDIA_GPU_WINDOWS_VP9_VIDEO_RATE_CONTROL_WRAPPER_H_
 #define MEDIA_GPU_WINDOWS_VP9_VIDEO_RATE_CONTROL_WRAPPER_H_
 

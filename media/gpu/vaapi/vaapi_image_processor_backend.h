@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VaapiImageProcessorBackend
+// summary: Declares the VA-API hardware-accelerated image processor backend that processes dma-buf and MappableSharedImage video frames and manages reusable ScopedVASurfaces.
+// ---
+
 #ifndef MEDIA_GPU_VAAPI_VAAPI_IMAGE_PROCESSOR_BACKEND_H_
 #define MEDIA_GPU_VAAPI_VAAPI_IMAGE_PROCESSOR_BACKEND_H_
 

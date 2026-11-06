@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: H264 Vaapi video encoder delegate unit tests
+// summary: Unit tests for the H264 Vaapi video encoder delegate covering rate control configuration, temporal layers, and VA buffer submissions.
+// ---
+
 #include "media/gpu/vaapi/h264_vaapi_video_encoder_delegate.h"
 
 #include <array>

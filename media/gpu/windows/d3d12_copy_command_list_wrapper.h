@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D3D12 copy command queue wrapper declaration
+// summary: Declares a wrapper around a D3D12 copy command queue, allocator, command list, and fence for GPU texture copies.
+// ---
+
 #ifndef MEDIA_GPU_WINDOWS_D3D12_COPY_COMMAND_LIST_WRAPPER_H_
 #define MEDIA_GPU_WINDOWS_D3D12_COPY_COMMAND_LIST_WRAPPER_H_
 

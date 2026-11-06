@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: H264 VAAPI wrapper implementation
+// summary: Implements H264VaapiWrapper, which translates H.264 picture, slice and scaling-list data into VAAPI buffers and decode commands.
+// ---
+
 #include "media/gpu/vaapi/test/h264_vaapi_wrapper.h"
 
 #include <va/va.h>

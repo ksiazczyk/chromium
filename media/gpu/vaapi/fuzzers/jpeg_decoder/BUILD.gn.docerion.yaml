@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build rules for the VA-API JPEG decoder fuzzer
+summary: Defines the protobuf input library and the vaapi_jpeg_decoder_fuzzertest target with its dependencies and seed corpus, and excludes it from ClusterFuzz since it needs a real VA-API device.

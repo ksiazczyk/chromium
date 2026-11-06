@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: D3D11 texture wrapper unit tests
+// summary: Unit tests verifying that DefaultTexture2DWrapper initializes successfully for NV12, BGRA8, and RGBA formats using a fake command buffer helper and ANGLE GL setup.
+// ---
+
 #include "media/gpu/windows/d3d11_texture_wrapper.h"
 
 #include <utility>

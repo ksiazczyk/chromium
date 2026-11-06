@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContextDelegate interface
+// summary: Defines the task-agnostic interface through which FakeContext delegates work such as software decoding to specific delegate implementations.
+// ---
+
 #ifndef MEDIA_GPU_VAAPI_TEST_FAKE_LIBVA_DRIVER_CONTEXT_DELEGATE_H_
 #define MEDIA_GPU_VAAPI_TEST_FAKE_LIBVA_DRIVER_CONTEXT_DELEGATE_H_
 

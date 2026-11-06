@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Scoped D3D buffer implementations
+// summary: Implements scoped D3D buffer classes that allocate buffers and commit written data on destruction for decoder input handling.
+// ---
+
 #include "media/gpu/windows/scoped_d3d_buffers.h"
 
 #include <algorithm>

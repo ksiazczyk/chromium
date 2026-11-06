@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: D3D12 AV1 video encode delegate unit tests
+// summary: Unit tests for the D3D12 AV1 video encode delegate, using D3D12 mocks and libgav1 parsing to verify encoded AV1 bitstreams and encoder behavior.
+// ---
+
 #include "media/gpu/windows/d3d12_video_encode_av1_delegate.h"
 
 #include <array>

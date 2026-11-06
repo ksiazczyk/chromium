@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VAAPI device initialization implementation
+// summary: Finds a non-vgem DRM render node and initializes and tears down the libva VADisplay for the test decoder.
+// ---
+
 #include "media/gpu/vaapi/test/vaapi_device.h"
 
 #include <fcntl.h>

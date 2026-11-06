@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Va-API GN build configuration
+summary: GN build file defining the vaapi source sets, libva stub generation, and ChromeOS-specific JPEG and MJPEG accelerator targets.

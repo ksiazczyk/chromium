@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared state for Media Foundation video encoders
+// summary: Implements shared state for Media Foundation video encoders, including supported profiles, temporal layer limits, and max/min resolution and framerate queries.
+// ---
+
 #include "media/gpu/windows/mf_video_encoder_shared_state.h"
 
 #include <objbase.h>

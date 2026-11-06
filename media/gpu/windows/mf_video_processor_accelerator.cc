@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media Foundation video processor accelerator implementation
+// summary: Implements the Media Foundation video processor wrapper that performs GPU color space conversion and resizing for the Windows video encode path.
+// ---
+
 #include "media/gpu/windows/mf_video_processor_accelerator.h"
 
 #include <mfapi.h>

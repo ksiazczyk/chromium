@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D3D12 H.265 video encode delegate and reference frame manager
+// summary: Declares the D3D12 H.265 video encode delegate and its reference frame manager, which handle HEVC encoding profiles, rate control and reference picture descriptors on Windows.
+// ---
+
 #ifndef MEDIA_GPU_WINDOWS_D3D12_VIDEO_ENCODE_H265_DELEGATE_H_
 #define MEDIA_GPU_WINDOWS_D3D12_VIDEO_ENCODE_H265_DELEGATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: H264 decoder class declaration
+// summary: Declares H264Decoder, a VideoDecoder that decodes H.264 streams via VAAPI, covering DPB management, reference lists and picture order counts.
+// ---
+
 #ifndef MEDIA_GPU_VAAPI_TEST_H264_DECODER_H_
 #define MEDIA_GPU_VAAPI_TEST_H264_DECODER_H_
 

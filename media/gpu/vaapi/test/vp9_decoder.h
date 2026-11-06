@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VP9 test decoder header
+// summary: Declares the Vp9Decoder class that decodes VP9 IVF streams using direct libva calls on top of the VideoDecoder interface.
+// ---
+
 #ifndef MEDIA_GPU_VAAPI_TEST_VP9_DECODER_H_
 #define MEDIA_GPU_VAAPI_TEST_VP9_DECODER_H_
 

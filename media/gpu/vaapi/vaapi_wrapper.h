@@ -7,6 +7,12 @@
 // and VaapiVideoEncodeAccelerator for encode, to interface
 // with libva (VA-API library for hardware video codec).
 
+// ---docerion
+// type: source
+// title: VaapiWrapper class declaration
+// summary: Declares VaapiWrapper, the interface to the VA-API library used by video decoders and encoders, including surface, buffer and DRM display management types.
+// ---
+
 #ifndef MEDIA_GPU_VAAPI_VAAPI_WRAPPER_H_
 #define MEDIA_GPU_VAAPI_VAAPI_WRAPPER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: D3D11 texture selector unit tests
+// summary: Unit tests verifying TextureSelector format selection, including NV12 and P010 binding versus copying under zero-copy workarounds.
+// ---
+
 #include "media/gpu/windows/d3d11_texture_selector.h"
 
 #include <utility>

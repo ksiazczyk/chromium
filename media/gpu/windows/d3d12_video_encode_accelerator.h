@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D3D12 video encode accelerator header
+// summary: Declares D3D12VideoEncodeAccelerator and bi-planar upload layout helpers for the D3D12 video encoding pipeline on Windows.
+// ---
+
 #ifndef MEDIA_GPU_WINDOWS_D3D12_VIDEO_ENCODE_ACCELERATOR_H_
 #define MEDIA_GPU_WINDOWS_D3D12_VIDEO_ENCODE_ACCELERATOR_H_
 

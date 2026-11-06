@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D3D11 format support checker implementation
+// summary: Implements FormatSupportChecker, which initializes a video processor enumerator and checks whether a DXGI format is supported for video processor output.
+// ---
+
 #include "media/gpu/windows/d3d11_video_device_format_support.h"
 
 namespace media {

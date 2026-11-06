@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Packed DXGI YUV frame packing utilities interface
+// summary: Declares helpers and the DXGIFramePacker class that convert planar video frames into packed DXGI YUV layouts for the D3D12 encoder upload path.
+// ---
+
 #ifndef MEDIA_GPU_WINDOWS_PACKED_YUV_UTILS_H_
 #define MEDIA_GPU_WINDOWS_PACKED_YUV_UTILS_H_
 

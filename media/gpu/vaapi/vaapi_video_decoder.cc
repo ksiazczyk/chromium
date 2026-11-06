@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VA-API video decoder implementation
+// summary: Implements the VaapiVideoDecoder, managing decode tasks, codec delegates and resolution changes.
+// ---
+
 #include "media/gpu/vaapi/vaapi_video_decoder.h"
 
 #include <vulkan/vulkan.h>

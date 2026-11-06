@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D3D11 texture wrapper implementation
+// summary: Implements Texture2DWrapper and DefaultTexture2DWrapper, binding decoded D3D11 textures to shared images for zero-copy rendering.
+// ---
+
 #include "media/gpu/windows/d3d11_texture_wrapper.h"
 
 #include <list>

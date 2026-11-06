@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedVAConfig implementation
+// summary: Implements ScopedVAConfig, which creates a VAConfig for a profile and RT format via vaCreateConfig and destroys it on scope exit.
+// ---
+
 #include "media/gpu/vaapi/test/scoped_va_config.h"
 
 #include <va/va_str.h>

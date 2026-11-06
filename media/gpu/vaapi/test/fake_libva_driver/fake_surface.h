@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeSurface class header
+// summary: Declares FakeSurface, a wrapper around a VA surface with immutable metadata, thread-safe accessors, and a mutable backing buffer object.
+// ---
+
 #ifndef MEDIA_GPU_VAAPI_TEST_FAKE_LIBVA_DRIVER_FAKE_SURFACE_H_
 #define MEDIA_GPU_VAAPI_TEST_FAKE_LIBVA_DRIVER_FAKE_SURFACE_H_
 

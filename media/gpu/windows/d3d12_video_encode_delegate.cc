@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D3D12 video encode delegate implementation
+// summary: Implements the shared D3D12 video encode delegate that dispatches H.264, HEVC and AV1 encoding, checks codec feature support and handles input format conversion.
+// ---
+
 #include "media/gpu/windows/d3d12_video_encode_delegate.h"
 
 #include <algorithm>

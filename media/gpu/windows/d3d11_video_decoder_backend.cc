@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D3D11 video decoder backend implementation
+// summary: Implements D3D11VideoDecoderBackend, querying supported decoder configs and acquiring D3D11 or D3D12 device resources for hardware video decoding on Windows.
+// ---
+
 #include "media/gpu/windows/d3d11_video_decoder_backend.h"
 
 #include <utility>

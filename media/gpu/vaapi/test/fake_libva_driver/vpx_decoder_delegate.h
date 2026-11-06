@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VpxDecoderDelegate header for the fake libva driver
+// summary: Declares VpxDecoderDelegate, a ContextDelegate that uses libvpx to software-decode VPX bitstreams for the fake VA-API driver used in tests.
+// ---
+
 #ifndef MEDIA_GPU_VAAPI_TEST_FAKE_LIBVA_DRIVER_VPX_DECODER_DELEGATE_H_
 #define MEDIA_GPU_VAAPI_TEST_FAKE_LIBVA_DRIVER_VPX_DECODER_DELEGATE_H_
 

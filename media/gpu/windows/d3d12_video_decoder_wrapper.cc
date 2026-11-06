@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D3D12 video decoder wrapper implementation
+// summary: Implements the ID3D12VideoDecoder wrapper that drives D3D12 video decode, including picture buffers, bitstream handling, and error reporting.
+// ---
+
 #include "media/gpu/windows/d3d12_video_decoder_wrapper.h"
 
 #include <Windows.h>

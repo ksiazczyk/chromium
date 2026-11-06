@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D3D H265 accelerator
+// summary: Declares the D3D11 HEVC decode accelerator with Intel-specific DXVA range extension and SCC picture parameter structures.
+// ---
+
 #ifndef MEDIA_GPU_WINDOWS_D3D_H265_ACCELERATOR_H_
 #define MEDIA_GPU_WINDOWS_D3D_H265_ACCELERATOR_H_
 

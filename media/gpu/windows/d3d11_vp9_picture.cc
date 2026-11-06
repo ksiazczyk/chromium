@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D3D11 VP9 picture implementation
+// summary: Implements a VP9Picture bound to a D3D picture buffer, creating duplicate frames by updating the timestamp on the client.
+// ---
+
 #include "media/gpu/windows/d3d11_vp9_picture.h"
 
 namespace media {

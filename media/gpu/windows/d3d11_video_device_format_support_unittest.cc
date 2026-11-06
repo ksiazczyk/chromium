@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Format support checker unit tests
+// summary: Unit tests for FormatSupportChecker using D3D11 mocks, covering null devices, initialization, and output format support checks.
+// ---
+
 #include <utility>
 
 #include "media/base/media_util.h"

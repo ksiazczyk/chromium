@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D3D12 fence implementation
+// summary: Implements a ref-counted ID3D12Fence wrapper with signal, CPU-side wait, and shared fence creation helpers.
+// ---
+
 #include "media/gpu/windows/d3d12_fence.h"
 
 #include "base/check_is_test.h"

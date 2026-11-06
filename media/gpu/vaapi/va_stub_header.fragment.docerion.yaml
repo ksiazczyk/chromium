@@ -1,0 +1,4 @@
+# Docerion header of va_stub_header.fragment.
+type: source
+title: Libva stub header fragment
+summary: Include fragment providing libva type definitions for the generated VA-API stub file.

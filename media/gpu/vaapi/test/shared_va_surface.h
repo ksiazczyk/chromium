@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared VASurface wrapper header
+// summary: Declares the ref-counted SharedVASurface class that wraps VASurface creation and destruction with PNG and MD5 output helpers.
+// ---
+
 #ifndef MEDIA_GPU_VAAPI_TEST_SHARED_VA_SURFACE_H_
 #define MEDIA_GPU_VAAPI_TEST_SHARED_VA_SURFACE_H_
 

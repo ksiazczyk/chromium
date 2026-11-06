@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the fake VA-API driver
+// summary: GoogleTest suite that opens a DRM render or card node, initializes the fake driver via vaGetDisplayDRM and verifies VA-API queries and operations.
+// ---
+
 #include <va/va.h>
 #include <va/va_drm.h>
 #include <xf86drm.h>

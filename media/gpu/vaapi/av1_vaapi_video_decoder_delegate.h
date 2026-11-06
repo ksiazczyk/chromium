@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AV1 Va-API video decoder delegate header
+// summary: Declares the AV1 Va-API decoder delegate implementing the AV1Decoder accelerator interface for hardware decoding via Va-API.
+// ---
+
 #ifndef MEDIA_GPU_VAAPI_AV1_VAAPI_VIDEO_DECODER_DELEGATE_H_
 #define MEDIA_GPU_VAAPI_AV1_VAAPI_VIDEO_DECODER_DELEGATE_H_
 

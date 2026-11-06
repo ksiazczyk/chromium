@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D3D12 video encoder wrapper class declaration
+// summary: Declares the D3D12VideoEncoderWrapper class that manages a D3D12 video encoder and heap, including initialization, fence waits, encoding and bitstream readback.
+// ---
+
 #ifndef MEDIA_GPU_WINDOWS_D3D12_VIDEO_ENCODER_WRAPPER_H_
 #define MEDIA_GPU_WINDOWS_D3D12_VIDEO_ENCODER_WRAPPER_H_
 

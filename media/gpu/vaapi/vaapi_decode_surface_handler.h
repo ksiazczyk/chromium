@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VaapiDecodeSurfaceHandler interface
+// summary: Defines an interface for decode clients to create VA surfaces and report them ready for output, without making assumptions about threading.
+// ---
+
 #ifndef MEDIA_GPU_VAAPI_VAAPI_DECODE_SURFACE_HANDLER_H_
 #define MEDIA_GPU_VAAPI_VAAPI_DECODE_SURFACE_HANDLER_H_
 

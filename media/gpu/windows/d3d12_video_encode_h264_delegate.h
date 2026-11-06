@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D3D12 H.264 video encode delegate header
+// summary: Declares the H.264 D3D12 encode delegate and its reference frame manager, exposing supported profiles and the codec-specific encode implementation.
+// ---
+
 #ifndef MEDIA_GPU_WINDOWS_D3D12_VIDEO_ENCODE_H264_DELEGATE_H_
 #define MEDIA_GPU_WINDOWS_D3D12_VIDEO_ENCODE_H264_DELEGATE_H_
 

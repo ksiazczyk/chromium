@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Deprecated release mailbox output callback types
+// summary: Defines deprecated callback typedefs for video frame output with release mailbox callbacks, marked as not to be used in favor of VideoFrame destruction callbacks.
+// ---
+
 #ifndef MEDIA_GPU_WINDOWS_OUTPUT_WITH_RELEASE_MAILBOX_CB_H_
 #define MEDIA_GPU_WINDOWS_OUTPUT_WITH_RELEASE_MAILBOX_CB_H_
 

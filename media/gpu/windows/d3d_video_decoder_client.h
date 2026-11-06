@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D3D video decoder client interface
+// summary: Declares the D3DVideoDecoderClient interface exposing picture access, timestamp updates, and output methods required by D3D video accelerators.
+// ---
+
 #ifndef MEDIA_GPU_WINDOWS_D3D_VIDEO_DECODER_CLIENT_H_
 #define MEDIA_GPU_WINDOWS_D3D_VIDEO_DECODER_CLIENT_H_
 

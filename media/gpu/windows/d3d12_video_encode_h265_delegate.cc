@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D3D12 HEVC video encode delegate implementation
+// summary: Implements the HEVC (H.265) D3D12 video encode delegate, mapping profiles, levels and range extension input formats for hardware encoding.
+// ---
+
 #include "media/gpu/windows/d3d12_video_encode_h265_delegate.h"
 
 #include <algorithm>

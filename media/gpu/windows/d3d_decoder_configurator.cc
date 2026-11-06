@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D3D decoder configurator implementation
+// summary: Implements decoder GUID selection per codec profile and setup of decoder descriptors and output textures for D3D11 video decoding.
+// ---
+
 #include "media/gpu/windows/d3d_decoder_configurator.h"
 
 #include <d3d11.h>

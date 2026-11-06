@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media Foundation video encode accelerator for Windows
+// summary: Declares the Media Foundation implementation of the VideoEncodeAccelerator interface for Windows, which runs encoding tasks on an internal encoder thread.
+// ---
+
 #ifndef MEDIA_GPU_WINDOWS_MEDIA_FOUNDATION_VIDEO_ENCODE_ACCELERATOR_WIN_H_
 #define MEDIA_GPU_WINDOWS_MEDIA_FOUNDATION_VIDEO_ENCODE_ACCELERATOR_WIN_H_
 

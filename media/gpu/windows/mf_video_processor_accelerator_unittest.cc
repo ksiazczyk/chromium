@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media Foundation video processor accelerator unit tests
+// summary: Unit tests for the Media Foundation video processor accelerator, exercising color conversion and resize with D3D11 textures and generated checkerboard patterns.
+// ---
+
 #include "media/gpu/windows/mf_video_processor_accelerator.h"
 
 #include <d3d11.h>

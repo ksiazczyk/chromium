@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped D3D buffer unit tests
+// summary: Unit tests for ScopedD3DBuffer wrappers, covering input, random-access, and sequence buffer write, size tracking, and commit behavior.
+// ---
+
 
 #include "media/gpu/windows/scoped_d3d_buffers.h"
 

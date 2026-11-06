@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VaapiJpegEncodeAccelerator
+// summary: Declares the VA-API JPEG encode accelerator for Intel systems with libva, running encode requests on a separate encoder thread with client callbacks.
+// ---
+
 #ifndef MEDIA_GPU_VAAPI_VAAPI_JPEG_ENCODE_ACCELERATOR_H_
 #define MEDIA_GPU_VAAPI_VAAPI_JPEG_ENCODE_ACCELERATOR_H_
 

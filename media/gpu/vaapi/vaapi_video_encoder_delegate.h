@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VaapiVideoEncoderDelegate class declaration
+// summary: Declares the platform-independent encoder delegate that manages codec state and reference frames and defines the EncodeJob and EncodeResult abstractions.
+// ---
+
 #ifndef MEDIA_GPU_VAAPI_VAAPI_VIDEO_ENCODER_DELEGATE_H_
 #define MEDIA_GPU_VAAPI_VAAPI_VIDEO_ENCODER_DELEGATE_H_
 

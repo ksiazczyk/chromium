@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video rate control wrapper base class
+// summary: Declares the VideoRateControlWrapper base class and template for codec-specific rate controllers that compute per-frame quantization parameters.
+// ---
+
 #ifndef MEDIA_GPU_WINDOWS_VIDEO_RATE_CONTROL_WRAPPER_H_
 #define MEDIA_GPU_WINDOWS_VIDEO_RATE_CONTROL_WRAPPER_H_
 

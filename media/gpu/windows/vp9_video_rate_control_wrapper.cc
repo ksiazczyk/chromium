@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VP9 rate control wrapper implementation
+// summary: Implements the VP9 rate control wrapper over libvpx, converting rate control configs and frame parameters for real-time VP9 encoding.
+// ---
+
 #include "vp9_video_rate_control_wrapper.h"
 
 #include "base/compiler_specific.h"

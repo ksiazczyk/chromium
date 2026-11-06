@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D3D H264 accelerator
+// summary: Declares the D3D11 H.264 decode accelerator implementing the H264Decoder accelerator hooks for DXVA submission.
+// ---
+
 #ifndef MEDIA_GPU_WINDOWS_D3D_H264_ACCELERATOR_H_
 #define MEDIA_GPU_WINDOWS_D3D_H264_ACCELERATOR_H_
 

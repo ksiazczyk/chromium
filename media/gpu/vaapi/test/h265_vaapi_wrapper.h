@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: H.265 VA-API wrapper interface
+// summary: Declares H265VaapiWrapper, which creates decoder pictures and submits frame metadata, slices and decode commands to libva.
+// ---
+
 #ifndef MEDIA_GPU_VAAPI_TEST_H265_VAAPI_WRAPPER_H_
 #define MEDIA_GPU_VAAPI_TEST_H265_VAAPI_WRAPPER_H_
 

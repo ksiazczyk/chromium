@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: D3DPictureBuffer unit tests
+// summary: Unit tests for D3DPictureBuffer covering implementation casting and client-use reference counting with D3D11 and D3D12 mocks.
+// ---
+
 #include "media/gpu/windows/d3d_picture_buffer.h"
 
 #include <utility>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for minigbm headers
+summary: Grants specific files in this directory permission to include third-party minigbm GBM headers.
