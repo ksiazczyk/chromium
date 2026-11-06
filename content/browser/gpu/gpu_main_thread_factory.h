@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU main thread factory header
+// summary: Declares the GPU main thread factory function type and the API to register and retrieve it.
+// ---
+
 #ifndef CONTENT_BROWSER_GPU_GPU_MAIN_THREAD_FACTORY_H_
 #define CONTENT_BROWSER_GPU_GPU_MAIN_THREAD_FACTORY_H_
 

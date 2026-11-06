@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GpuHostImpl persistent cache browser test
+// summary: Browser tests verifying GpuHostImpl behavior when the Skia Graphite persistent cache is used for shader caching, with stub GPU service and cache file factory.
+// ---
+
 #include "base/files/file_enumerator.h"
 #include "base/files/file_path_watcher.h"
 #include "base/files/file_util.h"

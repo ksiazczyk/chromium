@@ -1,3 +1,9 @@
+---
+type: reference
+title: GPU process fallback
+summary: Explains how the GPU process falls back to less capable modes after repeated crashes, covering crash counting, the fallback mode stack, and platform special cases.
+---
+
 ## GPU Process Fallback
 
 When the GPU process crashes repeatedly, usually 3 crashes in a short timeframe,

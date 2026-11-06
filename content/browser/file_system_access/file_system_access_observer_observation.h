@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File System Access observer observation header
+// summary: Declares FileSystemAccessObserverObservation, which forwards observed file or directory changes to the renderer over mojo and reacts to permission and lifecycle changes.
+// ---
+
 #ifndef CONTENT_BROWSER_FILE_SYSTEM_ACCESS_FILE_SYSTEM_ACCESS_OBSERVER_OBSERVATION_H_
 #define CONTENT_BROWSER_FILE_SYSTEM_ACCESS_FILE_SYSTEM_ACCESS_OBSERVER_OBSERVATION_H_
 

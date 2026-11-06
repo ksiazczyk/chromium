@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File System Access bucket path watcher header
+// summary: Declares FileSystemAccessBucketPathWatcher, a FileChangeObserver that watches changes to all bucket file system paths.
+// ---
+
 #ifndef CONTENT_BROWSER_FILE_SYSTEM_ACCESS_FILE_SYSTEM_ACCESS_BUCKET_PATH_WATCHER_H_
 #define CONTENT_BROWSER_FILE_SYSTEM_ACCESS_FILE_SYSTEM_ACCESS_BUCKET_PATH_WATCHER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: First-Party Set parser unit tests
+// summary: Tests parsing of First-Party Sets records, covering malformed input, associated and service sites, ccTLDs and fuzzing.
+// ---
+
 #include "content/browser/first_party_sets/first_party_set_parser.h"
 
 #include <optional>

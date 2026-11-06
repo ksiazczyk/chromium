@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File System Access transfer token implementation
+// summary: Implements transfer tokens that create file and directory handles when redeemed, denying first-party permission grants in third-party contexts.
+// ---
+
 #include "content/browser/file_system_access/file_system_access_transfer_token_impl.h"
 
 #include "content/browser/file_system_access/file_system_access_directory_handle_impl.h"

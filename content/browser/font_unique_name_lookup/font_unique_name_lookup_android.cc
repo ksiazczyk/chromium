@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android font unique name lookup implementation
+// summary: Scans read-only Android font directories, memory-maps font files, and builds a persisted protobuf mapping of unique font names to font files.
+// ---
+
 #include "content/browser/font_unique_name_lookup/font_unique_name_lookup_android.h"
 
 #include <set>

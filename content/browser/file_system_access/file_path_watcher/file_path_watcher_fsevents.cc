@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FSEvents file watcher implementation
+// summary: Implements the macOS FSEvents-based platform delegate for FilePathWatcher, managing event streams and resolving symlinked watch paths.
+// ---
+
 #include "content/browser/file_system_access/file_path_watcher/file_path_watcher_fsevents.h"
 
 #include <dispatch/dispatch.h>

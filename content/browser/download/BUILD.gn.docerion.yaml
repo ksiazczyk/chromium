@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the download proto library
+summary: Defines the GN build target that compiles embedder_download_data.proto into a protobuf library for the download folder.

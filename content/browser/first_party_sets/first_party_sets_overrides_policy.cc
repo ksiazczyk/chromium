@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: First-Party Sets overrides policy implementation
+// summary: Implements the FirstPartySetsOverridesPolicy class, including constructors, move operations, and equality comparison for the parsed policy mutation.
+// ---
+
 #include "content/browser/first_party_sets/first_party_sets_overrides_policy.h"
 
 #include "net/first_party_sets/sets_mutation.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kqueue file path watcher implementation
+// summary: Implements the macOS kqueue-based FilePathWatcher delegate, registering vnode kevents per path component and handling attribute, delete, move, and create events.
+// ---
+
 #include "content/browser/file_system_access/file_path_watcher/file_path_watcher_kqueue.h"
 
 #include <fcntl.h>

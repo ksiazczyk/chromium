@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SavePackage class declaration
+// summary: Declares SavePackage, which manages page saving jobs in the three save modes, owns SaveItems, and reports job status through a wait state enum.
+// ---
+
 #ifndef CONTENT_BROWSER_DOWNLOAD_SAVE_PACKAGE_H_
 #define CONTENT_BROWSER_DOWNLOAD_SAVE_PACKAGE_H_
 

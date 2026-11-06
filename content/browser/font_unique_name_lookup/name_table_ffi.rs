@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Rust font name table FFI helpers
+// summary: Rust cxx bridge functions that extract English full and PostScript names and indexable font counts from font file data.
+// ---
+
 use read_fonts::{FileRef, FontRef, ReadError};
 use skrifa::{string::StringId, MetadataProvider};
 

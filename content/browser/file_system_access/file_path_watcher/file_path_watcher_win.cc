@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows file path watcher implementation
+// summary: Implements FilePathWatcher on Windows using directory handles, ReadDirectoryChangesW, and a shared IO completion port thread with change tracking.
+// ---
+
 #include "content/browser/file_system_access/file_path_watcher/file_path_watcher.h"
 
 #include <windows.h>

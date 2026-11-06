@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Font Enumeration Cache Header
+// summary: Declares FontEnumerationCache, a single-sequence cache that stores font enumeration data and serves it as a read-only shared memory region.
+// ---
+
 #ifndef CONTENT_BROWSER_FONT_ACCESS_FONT_ENUMERATION_CACHE_H_
 #define CONTENT_BROWSER_FONT_ACCESS_FONT_ENUMERATION_CACHE_H_
 

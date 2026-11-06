@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Generic Sensor directory metadata
+summary: Declares shared metadata mixins and the team email for the generic_sensor directory in //content.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drag download utilities declaration
+// summary: Declares CreateFileForDrop for creating drop files with sequential name uniquing and the PromiseFileFinalizer download observer used to finalize drag downloads.
+// ---
+
 #ifndef CONTENT_BROWSER_DOWNLOAD_DRAG_DOWNLOAD_UTIL_H_
 #define CONTENT_BROWSER_DOWNLOAD_DRAG_DOWNLOAD_UTIL_H_
 

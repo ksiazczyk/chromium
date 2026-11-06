@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File System Access observer observation unit tests
+// summary: Unit tests for FileSystemAccessObserverObservation that verify change events received from watchers match the mojo change notifications sent to the renderer.
+// ---
+
 #include <iterator>
 #include <memory>
 

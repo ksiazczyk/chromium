@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Font unique name lookup Mojo service implementation
+// summary: Implements the self-owned Mojo service that serves the font unique name lookup table to requesting processes.
+// ---
+
 #include "content/browser/font_unique_name_lookup/font_unique_name_lookup_service.h"
 
 #include "base/check.h"

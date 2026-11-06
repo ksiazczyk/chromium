@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File System Access sync access handle browser tests
+// summary: Browser tests for FileSystemSyncAccessHandle covering rejection of oversized write buffers and quota errors in regular and off-the-record contexts.
+// ---
+
 #include "base/files/scoped_temp_dir.h"
 #include "base/memory/raw_ptr.h"
 #include "base/memory/scoped_refptr.h"

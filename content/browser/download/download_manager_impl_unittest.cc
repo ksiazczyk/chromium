@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DownloadManagerImpl unit tests
+// summary: Unit tests for DownloadManagerImpl that use mock delegates, download files and download items to verify download manager behavior.
+// ---
+
 #include "content/browser/download/download_manager_impl.h"
 
 #include <stddef.h>

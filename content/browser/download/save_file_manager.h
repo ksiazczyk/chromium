@@ -49,6 +49,12 @@
 // event of a contents closure during saving, the SavePackage will notify the
 // SaveFileManage to cancel all SaveFile jobs.
 
+// ---docerion
+// type: source
+// title: SaveFileManager class declaration
+// summary: Declares the SaveFileManager singleton, which owns SaveFile objects on the download task runner and maps save item ids to SavePackages across threads.
+// ---
+
 #ifndef CONTENT_BROWSER_DOWNLOAD_SAVE_FILE_MANAGER_H_
 #define CONTENT_BROWSER_DOWNLOAD_SAVE_FILE_MANAGER_H_
 

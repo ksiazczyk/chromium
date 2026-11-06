@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Handwriting recognition service unit tests
+// summary: Unit tests verifying that the default handwriting recognition service reports unsupported results for recognizer creation and queries.
+// ---
+
 #include "content/browser/handwriting/handwriting_recognition_service_impl.h"
 
 #include <utility>

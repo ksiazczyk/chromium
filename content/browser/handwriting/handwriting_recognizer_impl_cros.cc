@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS handwriting recognizer implementation
+// summary: Implements the ChromeOS handwriting recognizer, mapping supported language tags to ml_service models and forwarding predictions via the machine learning service.
+// ---
+
 #include "content/browser/handwriting/handwriting_recognizer_impl_cros.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File System Access file handle browser tests
+// summary: Browser tests for file handle APIs covering move and rename restrictions and write permission requests with a mock permission context.
+// ---
+
 #include "base/files/file_util.h"
 #include "content/browser/file_system_access/file_system_access_handle_impl_browsertest_util.h"
 #include "content/public/test/browser_test.h"

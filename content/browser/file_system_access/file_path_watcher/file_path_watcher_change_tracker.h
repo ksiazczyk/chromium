@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FilePathWatcher change tracker declaration
+// summary: Declares FilePathWatcherChangeTracker, which coalesces Windows file change notifications into ChangeInfo reports for the watched path.
+// ---
+
 #ifndef CONTENT_BROWSER_FILE_SYSTEM_ACCESS_FILE_PATH_WATCHER_FILE_PATH_WATCHER_CHANGE_TRACKER_H_
 #define CONTENT_BROWSER_FILE_SYSTEM_ACCESS_FILE_PATH_WATCHER_FILE_PATH_WATCHER_CHANGE_TRACKER_H_
 

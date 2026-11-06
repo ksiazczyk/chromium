@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: First-Party Sets directory metadata
+summary: Maps the directory to the Chromium First-Party Sets team, monorail component and Buganizer component for issue routing.

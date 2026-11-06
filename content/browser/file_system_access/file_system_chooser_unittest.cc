@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FileSystemChooser unit tests
+// summary: Unit tests for FileSystemChooser dialog parameter handling, such as accepts types, include-all-files behavior, and default paths.
+// ---
+
 #include "content/browser/file_system_access/file_system_chooser.h"
 
 #include <algorithm>

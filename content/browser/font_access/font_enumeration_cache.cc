@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Font Enumeration Cache Implementation
+// summary: Implements FontEnumerationCache, which builds a sorted font table from a data source and serves it as a read-only shared memory region.
+// ---
+
 #include "content/browser/font_access/font_enumeration_cache.h"
 
 #include <algorithm>

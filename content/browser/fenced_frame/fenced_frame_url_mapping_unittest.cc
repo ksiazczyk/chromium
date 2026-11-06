@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fenced frame URL mapping unit tests
+// summary: Unit tests for FencedFrameURLMapping covering adding and converting URNs, unknown UUIDs, and pending Shared Storage mapping results.
+// ---
+
 #include "content/browser/fenced_frame/fenced_frame_url_mapping.h"
 
 #include <optional>

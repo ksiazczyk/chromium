@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Inotify file path watcher implementation
+// summary: Implements FilePathWatcher on Linux and other inotify platforms, managing a singleton inotify reader, watch limits, and quota-based event dispatch.
+// ---
+
 #include "content/browser/file_system_access/file_path_watcher/file_path_watcher_inotify.h"
 
 #include <errno.h>

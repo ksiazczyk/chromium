@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser file system helper implementation
+// summary: Implements helpers for creating a FileSystemContext, checking and granting file permissions, and preparing drop data for child processes.
+// ---
+
 #include "content/browser/file_system/browser_file_system_helper.h"
 
 #include <stddef.h>

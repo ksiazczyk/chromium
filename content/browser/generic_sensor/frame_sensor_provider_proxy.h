@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameSensorProviderProxy class declaration
+// summary: Declares the per-RenderFrameHost WebSensorProvider implementation that checks permissions before forwarding GetSensor calls to the WebContents-level proxy.
+// ---
+
 #ifndef CONTENT_BROWSER_GENERIC_SENSOR_FRAME_SENSOR_PROVIDER_PROXY_H_
 #define CONTENT_BROWSER_GENERIC_SENSOR_FRAME_SENSOR_PROVIDER_PROXY_H_
 

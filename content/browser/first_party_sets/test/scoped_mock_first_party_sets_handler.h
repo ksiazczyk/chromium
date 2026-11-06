@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped mock First-Party Sets handler header
+// summary: Declares ScopedMockFirstPartySetsHandler, an RAII test double for FirstPartySetsHandlerImpl with configurable sets, async callbacks, and deadlock behavior.
+// ---
+
 #ifndef CONTENT_BROWSER_FIRST_PARTY_SETS_TEST_SCOPED_MOCK_FIRST_PARTY_SETS_HANDLER_H_
 #define CONTENT_BROWSER_FIRST_PARTY_SETS_TEST_SCOPED_MOCK_FIRST_PARTY_SETS_HANDLER_H_
 

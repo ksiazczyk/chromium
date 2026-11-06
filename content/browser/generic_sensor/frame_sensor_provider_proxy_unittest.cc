@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FrameSensorProviderProxy unit tests
+// summary: Unit tests for FrameSensorProviderProxy using a mock permission manager and a fake sensor provider.
+// ---
+
 #include "content/browser/generic_sensor/frame_sensor_provider_proxy.h"
 
 #include <memory>

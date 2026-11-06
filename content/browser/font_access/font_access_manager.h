@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FontAccessManager class declaration
+// summary: Declares the per-StoragePartition FontAccessManager that binds frames and serves local font enumeration results.
+// ---
+
 #ifndef CONTENT_BROWSER_FONT_ACCESS_FONT_ACCESS_MANAGER_H_
 #define CONTENT_BROWSER_FONT_ACCESS_FONT_ACCESS_MANAGER_H_
 

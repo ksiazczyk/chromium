@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the AccessHandleHost browser implementation
+// summary: Declares the FileSystemAccessAccessHandleHostImpl class that holds a file lock and manages granted capacity through the file modification host.
+// ---
+
 #ifndef CONTENT_BROWSER_FILE_SYSTEM_ACCESS_FILE_SYSTEM_ACCESS_ACCESS_HANDLE_HOST_IMPL_H_
 #define CONTENT_BROWSER_FILE_SYSTEM_ACCESS_FILE_SYSTEM_ACCESS_ACCESS_HANDLE_HOST_IMPL_H_
 

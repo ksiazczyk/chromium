@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CATransaction GPU coordinator declaration
+// summary: Declares CATransactionGPUCoordinator, which synchronizes Core Animation transaction commits between the browser and GPU processes.
+// ---
+
 #ifndef CONTENT_BROWSER_GPU_CA_TRANSACTION_GPU_COORDINATOR_H_
 #define CONTENT_BROWSER_GPU_CA_TRANSACTION_GPU_COORDINATOR_H_
 

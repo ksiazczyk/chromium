@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DragDownloadFile implementation
+// summary: Implements drag-out downloads, starting a download to a file when the user drags an element out of the browser.
+// ---
+
 #include "content/browser/download/drag_download_file.h"
 
 #include <utility>

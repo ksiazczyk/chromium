@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File system URL loader factory browser tests
+// summary: 'Browser tests covering filesystem: URL loading through the factory, including regular and incognito modes, external mount points and response handling.'
+// ---
+
 #include "content/browser/file_system/file_system_url_loader_factory.h"
 
 #include <algorithm>

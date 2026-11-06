@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Related Website Sets test protobuf definitions
+// summary: Defines protobuf messages for testing and fuzzing Related Website Sets inputs, covering public sets, command-line switch sets, sites, and ccTLD aliases.
+// ---
+
 syntax = "proto2";
 
 package related_website_sets.proto;

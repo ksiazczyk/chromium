@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileSystemAccessWatcherManager header
+// summary: Declares FileSystemAccessWatcherManager, which manages browser-side resources for the FileSystemObserver API and must be accessed exclusively on the UI thread.
+// ---
+
 #ifndef CONTENT_BROWSER_FILE_SYSTEM_ACCESS_FILE_SYSTEM_ACCESS_WATCHER_MANAGER_H_
 #define CONTENT_BROWSER_FILE_SYSTEM_ACCESS_FILE_SYSTEM_ACCESS_WATCHER_MANAGER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for content/browser/gpu
+summary: Defines allowed include dependencies for the GPU browser code, with special rules for browser tests and gpu_process_host.

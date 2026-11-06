@@ -1,6 +1,13 @@
 // Copyright 2012 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: MHTML generation manager declaration
+// summary: Declares the MHTMLGenerationManager singleton whose per-call Job instances save a WebContents page as MHTML and report the result via callback.
+// ---
+
 #ifndef CONTENT_BROWSER_DOWNLOAD_MHTML_GENERATION_MANAGER_H_
 #define CONTENT_BROWSER_DOWNLOAD_MHTML_GENERATION_MANAGER_H_
 

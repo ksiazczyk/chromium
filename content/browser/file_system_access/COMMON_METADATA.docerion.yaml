@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Common directory metadata for File System Access
+summary: Declares the monorail component, team email and Buganizer component used for issue tracking in this directory.

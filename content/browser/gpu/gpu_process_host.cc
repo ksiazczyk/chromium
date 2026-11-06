@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU process host implementation
+// summary: Implements the browser-side host for the GPU process, handling process launch, Mojo service binding, crash handling, and shutdown.
+// ---
+
 #include "content/browser/gpu/gpu_process_host.h"
 
 #include <stddef.h>

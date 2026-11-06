@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux Font Enumeration Data Source Header
+// summary: Declares the ChromeOS and Linux implementation of FontEnumerationDataSource based on fontconfig.
+// ---
+
 #ifndef CONTENT_BROWSER_FONT_ACCESS_FONT_ENUMERATION_DATA_SOURCE_LINUX_H_
 #define CONTENT_BROWSER_FONT_ACCESS_FONT_ENUMERATION_DATA_SOURCE_LINUX_H_
 

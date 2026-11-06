@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File System API browser tests
+// summary: Browser tests exercising the File System API bindings and browser-side implementation, including incognito and low quota scenarios.
+// ---
+
 #include <stdint.h>
 
 #include <algorithm>

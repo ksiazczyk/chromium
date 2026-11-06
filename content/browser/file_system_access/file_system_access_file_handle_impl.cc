@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File System Access file handle implementation
+// summary: Implements the browser-side FileSystemAccessFileHandle mojom interface with move, rename, remove, blob conversion, and access handle operations.
+// ---
+
 #include "content/browser/file_system_access/file_system_access_file_handle_impl.h"
 
 #include "base/files/file_error_or.h"

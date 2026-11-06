@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadManagerImpl implementation
+// summary: Implements the browser-side download manager, handling download creation, URL downloads, in-progress downloads and delegation to embedders.
+// ---
+
 #include "content/browser/download/download_manager_impl.h"
 
 #include <iterator>

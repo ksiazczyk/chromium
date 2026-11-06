@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File System Access file writer implementation
+// summary: Browser-side implementation of the FileSystemAccessFileWriter mojom interface that writes to a swap file and materializes changes on close.
+// ---
+
 #include "content/browser/file_system_access/file_system_access_file_writer_impl.h"
 
 #include "base/feature_list.h"

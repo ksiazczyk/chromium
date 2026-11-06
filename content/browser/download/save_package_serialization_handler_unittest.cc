@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SavePackageSerializationHandler unit tests
+// summary: Unit tests verifying that the serialization handler forwards received data, signals done exactly once, and ignores data or extra done calls after completion.
+// ---
+
 #include "content/browser/download/save_package_serialization_handler.h"
 
 #include <string>

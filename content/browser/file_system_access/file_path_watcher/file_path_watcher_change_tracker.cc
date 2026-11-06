@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FilePathWatcher change tracker implementation
+// summary: Implements the Windows change tracker that maps Windows file change actions to ChangeInfo events and tracks target existence for the watched path.
+// ---
+
 #include "content/browser/file_system_access/file_path_watcher/file_path_watcher_change_tracker.h"
 
 #include <windows.h>

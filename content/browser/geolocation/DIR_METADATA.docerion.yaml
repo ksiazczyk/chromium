@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Geolocation directory metadata
+summary: Chromium DIR_METADATA file specifying the Blink>Geolocation monorail component, the device-dev team email, and the Buganizer component for this directory.

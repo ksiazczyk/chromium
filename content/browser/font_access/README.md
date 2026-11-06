@@ -1,3 +1,9 @@
+---
+type: readme
+title: Font Access API
+summary: Documents the browser-side Font Access API implementation and maps FontAccessManager, FontEnumerationCache and FontEnumerationDataSource.
+---
+
 # Font Access API
 
 This directory contains the browser-side implementation of

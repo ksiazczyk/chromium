@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Font Access test permission manager implementation
+// summary: Implements TestFontAccessPermissionManager, a mock permission manager used by font access tests.
+// ---
+
 #include "content/browser/font_access/font_access_test_utils.h"
 
 #include "content/public/browser/permission_request_description.h"

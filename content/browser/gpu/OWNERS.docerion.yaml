@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of content/browser/gpu
+summary: Lists directory owners and per-file owner rules for security review, GPU data review and WebUI changes.

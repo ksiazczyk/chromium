@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser implementation of the AccessHandleHost mojo interface
+// summary: Implements the browser side FileSystemAccessAccessHandleHost, handling SyncAccessHandle close behavior and incognito file delegate hosts.
+// ---
+
 #include "content/browser/file_system_access/file_system_access_access_handle_host_impl.h"
 
 #include "base/feature_list.h"

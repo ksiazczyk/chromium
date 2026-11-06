@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: First-Party Sets overrides policy class header
+// summary: Declares FirstPartySetsOverridesPolicy, which holds the parsed configuration for the RelatedWebsiteSetsOverrides/FirstPartySetsOverrides policy.
+// ---
+
 #ifndef CONTENT_BROWSER_FIRST_PARTY_SETS_FIRST_PARTY_SETS_OVERRIDES_POLICY_H_
 #define CONTENT_BROWSER_FIRST_PARTY_SETS_FIRST_PARTY_SETS_OVERRIDES_POLICY_H_
 

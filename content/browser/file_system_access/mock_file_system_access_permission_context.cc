@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock File System Access permission context implementation
+// summary: Implements the mock permission context by forwarding calls to gmock methods for tests.
+// ---
+
 #include "content/browser/file_system_access/mock_file_system_access_permission_context.h"
 
 namespace content {

@@ -1,0 +1,4 @@
+# Docerion header of font_enumeration_data_source_mac.mm.
+type: source
+title: Mac Font Enumeration Data Source
+summary: macOS data source that enumerates available fonts via CoreText, validating attributes and filtering invalid or duplicate entries.

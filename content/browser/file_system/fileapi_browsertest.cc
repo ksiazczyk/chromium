@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FileAPI browser tests
+// summary: Browser test exercising FileAPI bindings, verifying that repeated file input picks produce chooser params without a renderer-supplied default file name.
+// ---
+
 #include "base/path_service.h"
 #include "content/browser/web_contents/web_contents_impl.h"
 #include "content/public/test/browser_test.h"

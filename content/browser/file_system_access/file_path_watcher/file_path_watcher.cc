@@ -5,6 +5,12 @@
 // Cross platform methods for FilePathWatcher. See the various platform
 // specific implementation files, too.
 
+// ---docerion
+// type: source
+// title: FilePathWatcher cross-platform implementation
+// summary: Implements cross-platform FilePathWatcher methods such as Watch and WatchWithChangeInfo, delegating to platform-specific implementations.
+// ---
+
 #include "content/browser/file_system_access/file_path_watcher/file_path_watcher.h"
 
 #include <memory>

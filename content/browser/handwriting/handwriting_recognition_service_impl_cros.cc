@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS handwriting recognition service implementation
+// summary: Implements the ChromeOS handwriting recognition service, gating recognizer creation and queries on the on-device rootfs handwriting switch.
+// ---
+
 #include "content/browser/handwriting/handwriting_recognition_service_impl_cros.h"
 
 #include <memory>

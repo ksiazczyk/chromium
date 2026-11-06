@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoCaptureDependencies class declaration
+// summary: Declares the VideoCaptureDependencies class providing browser-process GPU dependencies for video capture.
+// ---
+
 #ifndef CONTENT_BROWSER_GPU_CHROMEOS_VIDEO_CAPTURE_DEPENDENCIES_H_
 #define CONTENT_BROWSER_GPU_CHROMEOS_VIDEO_CAPTURE_DEPENDENCIES_H_
 

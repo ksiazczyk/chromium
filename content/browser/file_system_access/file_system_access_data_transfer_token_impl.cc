@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File System Access data transfer token implementation
+// summary: Implements the browser-side FileSystemAccessDataTransferToken mojo interface for dragged or copied files and directories.
+// ---
+
 #include "content/browser/file_system_access/file_system_access_data_transfer_token_impl.h"
 
 #include <utility>

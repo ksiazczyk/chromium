@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FileSystemAccessWatchScope unit tests
+// summary: Unit tests verifying containment behavior of file, non-recursive directory, recursive directory, and all-bucket-file-systems watch scopes.
+// ---
+
 #include "content/browser/file_system_access/file_system_access_watch_scope.h"
 
 #include <list>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File System Access observer quota manager implementation
+// summary: Implements per-storage-key quota tracking for file system observers, including usage change handling and UMA and UKM metrics logging.
+// ---
+
 #include "content/browser/file_system_access/file_system_access_observer_quota_manager.h"
 
 #include "base/memory/scoped_refptr.h"

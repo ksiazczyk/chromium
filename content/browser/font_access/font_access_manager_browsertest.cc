@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FontAccessManager browser tests
+// summary: Exercises FontAccessManager end to end in a browser, including interface binding and locale overrides for font enumeration.
+// ---
+
 #include "content/browser/font_access/font_access_manager.h"
 
 #include <memory>

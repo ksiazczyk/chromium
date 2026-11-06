@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fixed File System Access permission grant class declaration
+// summary: Declares a permission grant returning a fixed status, used for sandboxed file systems and tests.
+// ---
+
 #ifndef CONTENT_BROWSER_FILE_SYSTEM_ACCESS_FIXED_FILE_SYSTEM_ACCESS_PERMISSION_GRANT_H_
 #define CONTENT_BROWSER_FILE_SYSTEM_ACCESS_FIXED_FILE_SYSTEM_ACCESS_PERMISSION_GRANT_H_
 

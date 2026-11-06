@@ -1,3 +1,12 @@
+---
+type: reference
+title: 'Fenced frame: Sandbox Flags'
+summary: Audits every sandbox flag for infiltration, exfiltration, and fingerprinting risks and records which flags fenced frames may use.
+relations:
+  - references /third_party/blink/renderer/core/html/fenced_frame/OWNERS
+  - references /third_party/blink/public/common/frame/fenced_frame_sandbox_flags.h
+---
+
 # Fenced frame: Sandbox Flags
 
 ## How to use this document

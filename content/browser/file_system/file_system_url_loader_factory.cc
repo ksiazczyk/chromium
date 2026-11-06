@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File system URL loader factory implementation
+// summary: 'Implements a URLLoaderFactory that serves filesystem: URL requests, handling MIME sniffing, byte ranges, directory listing and no-cache response headers.'
+// ---
+
 #include "content/browser/file_system/file_system_url_loader_factory.h"
 
 #include <algorithm>

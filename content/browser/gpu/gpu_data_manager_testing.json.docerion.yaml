@@ -1,0 +1,4 @@
+# Docerion header of gpu_data_manager_testing.json.
+type: data
+title: GPU data manager testing blocklist entries
+summary: JSON test fixtures defining GPU feature blocklisting entries and exceptions used by the GpuDataManagerImplPrivate tests.

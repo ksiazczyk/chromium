@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File System Access file modification host browser tests
+// summary: End-to-end browser tests for FileSystemAccessFileModificationHostImpl, verifying quota usage after sync access handle operations and closing.
+// ---
+
 #include "base/files/scoped_temp_dir.h"
 #include "base/memory/scoped_refptr.h"
 #include "base/test/bind.h"

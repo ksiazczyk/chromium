@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File path watcher unit tests
+// summary: Unit tests for FilePathWatcher across platforms, including inotify reader packet tests, Windows change tracking, and recursive watch behavior.
+// ---
+
 #include "content/browser/file_system_access/file_path_watcher/file_path_watcher.h"
 
 #include <array>

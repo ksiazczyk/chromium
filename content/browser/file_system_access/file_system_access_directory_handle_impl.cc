@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File System Access directory handle implementation
+// summary: Implements the browser-side FileSystemAccessDirectoryHandle mojom interface for directory operations like get, move, rename, and remove.
+// ---
+
 #include "content/browser/file_system_access/file_system_access_directory_handle_impl.h"
 
 #include <optional>

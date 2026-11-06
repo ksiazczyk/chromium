@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: First-Party Sets handler singleton implementation
+// summary: Implements the FirstPartySetsHandlerImplInstance singleton that parses, merges and serves global First-Party Sets data.
+// ---
+
 #include "content/browser/first_party_sets/first_party_sets_handler_impl_instance.h"
 
 #include <memory>

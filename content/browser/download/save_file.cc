@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SaveFile implementation
+// summary: Implements SaveFile, which delegates file writing operations such as initialization, appending data, renaming and quarantine annotation to the download BaseFile for one save item.
+// ---
+
 #include "content/browser/download/save_file.h"
 
 #include "base/check.h"

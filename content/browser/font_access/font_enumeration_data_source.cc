@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Font Enumeration Data Source Factory
+// summary: Creates the platform-specific font enumeration data source and reports OS support, falling back to a null implementation on unsupported systems.
+// ---
+
 #include "content/browser/font_access/font_enumeration_data_source.h"
 
 #include <memory>

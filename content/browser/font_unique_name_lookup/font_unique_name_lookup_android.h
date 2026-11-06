@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android font unique name lookup class declaration
+// summary: Declares the FontUniqueNameLookup class that builds, caches, persists, and shares the font name lookup table as a shared memory region.
+// ---
+
 #ifndef CONTENT_BROWSER_FONT_UNIQUE_NAME_LOOKUP_FONT_UNIQUE_NAME_LOOKUP_ANDROID_H_
 #define CONTENT_BROWSER_FONT_UNIQUE_NAME_LOOKUP_FONT_UNIQUE_NAME_LOOKUP_ANDROID_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File System Access directory handle unit tests
+// summary: Unit tests for the browser-side directory handle implementation covering permissions, directory entries, locks, and sensitive entry handling.
+// ---
+
 #include "content/browser/file_system_access/file_system_access_directory_handle_impl.h"
 
 #include <iterator>

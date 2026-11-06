@@ -2,6 +2,13 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 //
+
+// ---docerion
+// type: source
+// title: SaveItem class declaration
+// summary: Declares SaveItem, the model class holding state for one save file, including its URL, referrer, isolation info, target path and received bytes.
+// ---
+
 #ifndef CONTENT_BROWSER_DOWNLOAD_SAVE_ITEM_H_
 #define CONTENT_BROWSER_DOWNLOAD_SAVE_ITEM_H_
 

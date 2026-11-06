@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameSensorProviderProxy implementation
+// summary: Implements the per-RenderFrameHost sensor provider proxy that performs permission and policy checks before forwarding sensor requests.
+// ---
+
 #include "content/browser/generic_sensor/frame_sensor_provider_proxy.h"
 
 #include <algorithm>

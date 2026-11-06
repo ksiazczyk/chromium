@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MHTML extra parts declaration
+// summary: Declares MHTMLExtraDataPart and MHTMLExtraPartsImpl, which let arbitrary extra parts such as load time signals be added to MHTML output.
+// ---
+
 #ifndef CONTENT_BROWSER_DOWNLOAD_MHTML_EXTRA_PARTS_IMPL_H_
 #define CONTENT_BROWSER_DOWNLOAD_MHTML_EXTRA_PARTS_IMPL_H_
 

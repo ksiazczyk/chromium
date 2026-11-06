@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File System Access change source unit tests
+// summary: Unit tests for FileSystemAccessChangeSource covering initialization and change notification behavior using mock observers.
+// ---
+
 #include "content/browser/file_system_access/file_system_access_change_source.h"
 
 #include "base/files/scoped_temp_dir.h"

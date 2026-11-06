@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File System Access observation group implementation
+// summary: Implements FileSystemAccessObservationGroup, which groups observations sharing a change source and storage key and dispatches file change notifications to their observers.
+// ---
+
 #include "content/browser/file_system_access/file_system_access_observation_group.h"
 
 #include "base/memory/ptr_util.h"

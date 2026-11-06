@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: First-Party Set parser JSON proto fuzzer
+// summary: Fuzzes FirstPartySetParser::ParseSetsFromStream by converting libprotobuf-mutator JSON input into native JSON and parsing it.
+// ---
+
 #include "content/browser/first_party_sets/first_party_set_parser.h"
 
 #include <stdlib.h>

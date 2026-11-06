@@ -1,0 +1,4 @@
+# Docerion header of browser_child_process_backgrounded_bridge_browsertest.mm.
+type: test
+title: BrowserChildProcessBackgroundedBridge browser tests
+summary: Browser tests checking that the GPU process priority follows browser process foreground and background transitions on macOS.

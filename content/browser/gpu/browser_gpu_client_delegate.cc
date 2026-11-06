@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserGpuClientDelegate implementation
+// summary: Implements the viz GPU client delegate by returning the GpuHostImpl from the GPU process host.
+// ---
+
 #include "content/browser/gpu/browser_gpu_client_delegate.h"
 
 #include "content/browser/gpu/gpu_process_host.h"

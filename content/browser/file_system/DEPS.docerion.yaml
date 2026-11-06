@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the file system directory
+summary: Defines include rules that allow this directory to depend on the third_party/leveldatabase library.

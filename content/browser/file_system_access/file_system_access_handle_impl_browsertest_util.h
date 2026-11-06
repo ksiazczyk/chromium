@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File System Access handle browser test fixture declarations
+// summary: Declares browser test base classes for handle tests, including a permission-mocking fixture backed by a spying shared handle state factory.
+// ---
+
 #ifndef CONTENT_BROWSER_FILE_SYSTEM_ACCESS_FILE_SYSTEM_ACCESS_HANDLE_IMPL_BROWSERTEST_UTIL_H_
 #define CONTENT_BROWSER_FILE_SYSTEM_ACCESS_FILE_SYSTEM_ACCESS_HANDLE_IMPL_BROWSERTEST_UTIL_H_
 

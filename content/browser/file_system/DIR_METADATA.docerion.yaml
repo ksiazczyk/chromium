@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the FileSystem API component
+summary: Records the monorail component, storage-dev team email and Buganizer component used for issues in this directory.

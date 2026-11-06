@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SavePackage implementation
+// summary: Implements SavePackage, which orchestrates saving a page as only-HTML, complete-HTML or MHTML, including filename generation and resource handling.
+// ---
+
 #include "content/browser/download/save_package.h"
 
 #include <algorithm>

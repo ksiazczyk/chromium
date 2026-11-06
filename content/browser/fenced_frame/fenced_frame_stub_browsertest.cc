@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fenced frame stub browser test
+// summary: Browser test checking fenced frame element creation, default layout size, and FencedFrameConfig API behavior in a stub setup.
+// ---
+
 #include "base/test/scoped_feature_list.h"
 #include "content/browser/renderer_host/render_frame_host_impl.h"
 #include "content/browser/web_contents/web_contents_impl.h"

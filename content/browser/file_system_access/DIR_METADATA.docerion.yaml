@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata referencing common metadata
+summary: Points the DIR_METADATA mixins at COMMON_METADATA so the directory inherits its issue tracking settings.

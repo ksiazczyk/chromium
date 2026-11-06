@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File System Access safe move helper unit tests
+// summary: Unit tests for the safe move helper covering quarantine results, after-write checks, and race conditions between file operations.
+// ---
+
 #include "content/browser/file_system_access/file_system_access_safe_move_helper.h"
 
 #include <memory>

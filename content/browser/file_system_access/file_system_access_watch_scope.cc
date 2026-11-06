@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileSystemAccessWatchScope implementation
+// summary: Implements FileSystemAccessWatchScope, which defines the extent of the observed file system, such as a single file, a directory, or all bucket file systems, and checks URL containment.
+// ---
+
 #include "content/browser/file_system_access/file_system_access_watch_scope.h"
 
 #include "storage/browser/file_system/file_system_url.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Protobuf definitions for File System Access handle data
+// summary: Defines messages for serializing File System Access file and directory handles, for example when a handle is stored in IndexedDB.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

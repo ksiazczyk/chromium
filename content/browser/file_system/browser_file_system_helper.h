@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser file system helper declarations
+// summary: Declares browser-side file system helpers such as CreateFileSystemContext, DoGetPlatformPath and drop data preparation for child processes.
+// ---
+
 #ifndef CONTENT_BROWSER_FILE_SYSTEM_BROWSER_FILE_SYSTEM_HELPER_H_
 #define CONTENT_BROWSER_FILE_SYSTEM_BROWSER_FILE_SYSTEM_HELPER_H_
 

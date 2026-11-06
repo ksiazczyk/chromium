@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Handwriting recognizer default implementation
+// summary: Implements the default handwriting recognizer, which always reports recognition as unsupported and returns no predictions.
+// ---
+
 #include "content/browser/handwriting/handwriting_recognizer_impl.h"
 
 #include <memory>

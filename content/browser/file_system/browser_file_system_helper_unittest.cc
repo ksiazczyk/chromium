@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser file system helper unit tests
+// summary: Unit tests for the browser file system helpers, covering drop data preparation and permission handling with isolated file systems.
+// ---
+
 #include "content/browser/file_system/browser_file_system_helper.h"
 
 #include <memory>

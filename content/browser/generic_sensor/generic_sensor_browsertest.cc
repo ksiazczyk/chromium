@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Generic Sensor browser tests
+// summary: Browser tests for sensor permission checks using a fake sensor provider and an HTTPS embedded test server.
+// ---
+
 #include <memory>
 
 #include "base/functional/bind.h"

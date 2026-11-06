@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File System Access handle browser test utilities
+// summary: Implements shared browser test fixtures that set up a temporary directory, embedded test server, and fake file pickers for handle tests.
+// ---
+
 #include "content/browser/file_system_access/file_system_access_handle_impl_browsertest_util.h"
 
 #include "base/files/file_util.h"

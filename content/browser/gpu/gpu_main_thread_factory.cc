@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU main thread factory registration
+// summary: Registers and returns the factory function used to create the GPU main thread in the browser process.
+// ---
+
 #include "content/browser/gpu/gpu_main_thread_factory.h"
 
 namespace content {

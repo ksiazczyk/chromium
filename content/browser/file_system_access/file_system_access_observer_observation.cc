@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File System Access observer observation implementation
+// summary: Implements the browser-side representation of a successful FileSystemObserver.observe() call, processing change data and forwarding events to the renderer.
+// ---
+
 #include "content/browser/file_system_access/file_system_access_observer_observation.h"
 
 #include <memory>

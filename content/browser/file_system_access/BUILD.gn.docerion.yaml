@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build file for the File System Access proto library
+summary: Defines the proto_library build target that compiles file_system_access.proto in this directory.

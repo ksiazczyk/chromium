@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File System Access observer host implementation
+// summary: Implements FileSystemAccessObserverHost, handling observe and unobserve mojo requests by resolving transfer tokens and creating observations.
+// ---
+
 #include "content/browser/file_system_access/file_system_access_observer_host.h"
 
 #include <algorithm>

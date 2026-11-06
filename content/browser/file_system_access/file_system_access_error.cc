@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File System Access error helper implementation
+// summary: Implements helpers that build FileSystemAccessError mojom objects from base::File errors and FileSystemAccessStatus values.
+// ---
+
 #include "content/browser/file_system_access/file_system_access_error.h"
 
 namespace content {

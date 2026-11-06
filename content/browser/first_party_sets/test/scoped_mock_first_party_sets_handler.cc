@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped mock First-Party Sets handler implementation
+// summary: Implements a scoped RAII mock of FirstPartySetsHandlerImpl that lets tests install fake First-Party Sets data and simulate deadlocks or asynchronous callbacks.
+// ---
+
 #include "content/browser/first_party_sets/test/scoped_mock_first_party_sets_handler.h"
 
 #include <optional>

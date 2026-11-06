@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MHTML generation browser tests
+// summary: Browser tests that generate MHTML files from pages and compare the saved output against the original page content, styles, and resources.
+// ---
+
 #include <stdint.h>
 
 #include <memory>

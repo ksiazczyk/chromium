@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoCaptureDependencies implementation
+// summary: Creates JPEG decode and encode accelerators via the GPU process host on the UI thread for ChromeOS video capture.
+// ---
+
 #include "content/browser/gpu/chromeos/video_capture_dependencies.h"
 
 #include "base/functional/bind.h"

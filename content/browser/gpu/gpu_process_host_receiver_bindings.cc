@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU process host receiver bindings
+// summary: Binds browser-side Mojo services, such as WebNN, Android overlay, and font service, that are exposed to the GPU process.
+// ---
+
 // This file exposes services from the browser process to the GPU process.
 #include "build/build_config.h"
 #include "content/browser/gpu/gpu_process_host.h"

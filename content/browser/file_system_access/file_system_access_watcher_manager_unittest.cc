@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FileSystemAccessWatcherManager unit tests
+// summary: Unit tests covering observation creation, change accumulation and delivery, and platform-dependent watcher behavior of the file system access watcher manager.
+// ---
+
 #include "content/browser/file_system_access/file_system_access_watcher_manager.h"
 
 #include <list>

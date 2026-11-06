@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SavePackage unit tests
+// summary: Unit tests for SavePackage covering generated save file names, URL resolution for saved pages, and save-page behavior with a temporary directory and test harnesses.
+// ---
+
 
 #include "content/browser/download/save_package.h"
 

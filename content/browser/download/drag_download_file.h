@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DragDownloadFile class declaration
+// summary: Declares the DragDownloadFile class that downloads a file dragged out of the browser as a virtual file, with platform-specific handling for Windows and POSIX.
+// ---
+
 #ifndef CONTENT_BROWSER_DOWNLOAD_DRAG_DOWNLOAD_FILE_H_
 #define CONTENT_BROWSER_DOWNLOAD_DRAG_DOWNLOAD_FILE_H_
 

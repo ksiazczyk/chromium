@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebContentsSensorProviderProxy class declaration
+// summary: Declares the per-WebContents gatekeeper proxy to the device sensor provider and the ScopedVirtualSensorForDevTools interface.
+// ---
+
 #ifndef CONTENT_BROWSER_GENERIC_SENSOR_WEB_CONTENTS_SENSOR_PROVIDER_PROXY_H_
 #define CONTENT_BROWSER_GENERIC_SENSOR_WEB_CONTENTS_SENSOR_PROVIDER_PROXY_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Generic Sensor directory owners
+summary: Points to the OWNERS file of //services/device/generic_sensor to define review ownership for this directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FileSystem URL drag and drop browser tests
+// summary: End-to-end browser tests for file drag and drop, verifying DataTransferItem getAsFile behavior and that drag handlers receive a populated DataTransferItemList.
+// ---
+
 #include <string>
 
 #include "base/files/file.h"

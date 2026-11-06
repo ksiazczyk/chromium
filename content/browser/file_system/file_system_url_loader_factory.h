@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File system URL loader factory header
+// summary: 'Declares CreateFileSystemURLLoaderFactory, which builds a self-owned URLLoaderFactory for filesystem: requests using process, frame and storage key context.'
+// ---
+
 #ifndef CONTENT_BROWSER_FILE_SYSTEM_FILE_SYSTEM_URL_LOADER_FACTORY_H_
 #define CONTENT_BROWSER_FILE_SYSTEM_FILE_SYSTEM_URL_LOADER_FACTORY_H_
 

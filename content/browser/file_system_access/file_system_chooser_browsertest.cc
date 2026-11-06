@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FileSystemChooser browser tests
+// summary: End-to-end browser tests for the file picker APIs, exercising chooser dialogs, permission contexts, and dialog suppression behavior.
+// ---
+
 #include <algorithm>
 #include <memory>
 #include <string>

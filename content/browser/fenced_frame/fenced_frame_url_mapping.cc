@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fenced frame URN to URL mapping implementation
+// summary: Implements FencedFrameURLMapping, which maps fenced frame URN:UUIDs to URLs and tracks pending mappings used by Shared Storage URL selection.
+// ---
+
 #include "content/browser/fenced_frame/fenced_frame_url_mapping.h"
 
 #include <cstring>

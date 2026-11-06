@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File System Access change source implementation
+// summary: Implements the base class for change sources that manage observers, initialization, and change notifications within a watch scope.
+// ---
+
 #include "content/browser/file_system_access/file_system_access_change_source.h"
 
 #include "base/functional/callback.h"

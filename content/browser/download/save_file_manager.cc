@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SaveFileManager implementation
+// summary: Implements the SaveFileManager singleton, coordinating SimpleURLLoader downloads and UI-thread notifications for saving page resources to disk.
+// ---
+
 #include "content/browser/download/save_file_manager.h"
 
 #include <string_view>

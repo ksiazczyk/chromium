@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header declaring File System Access feature flags
+// summary: Declares the File System Access feature flags and parameters defined in features.cc for use across the browser code.
+// ---
+
 #ifndef CONTENT_BROWSER_FILE_SYSTEM_ACCESS_FEATURES_H_
 #define CONTENT_BROWSER_FILE_SYSTEM_ACCESS_FEATURES_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebContentsSensorProviderProxy unit tests
+// summary: Unit tests for WebContentsSensorProviderProxy with a permission manager that grants sensor permissions and a fake sensor provider.
+// ---
+
 #include "content/browser/generic_sensor/web_contents_sensor_provider_proxy.h"
 
 #include <memory>

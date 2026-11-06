@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File System Access safe move helper implementation
+// summary: Implements safe file moves that run after-write safe browsing checks and apply quarantine marks, including hashing of the source file.
+// ---
+
 #include "content/browser/file_system_access/file_system_access_safe_move_helper.h"
 
 #include "base/feature_list.h"

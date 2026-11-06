@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fenced frame reporter header
+// summary: Declares the FencedFrameReporter class that queues and sends fenced frame report events to destination URLs.
+// ---
+
 #ifndef CONTENT_BROWSER_FENCED_FRAME_FENCED_FRAME_REPORTER_H_
 #define CONTENT_BROWSER_FENCED_FRAME_FENCED_FRAME_REPORTER_H_
 

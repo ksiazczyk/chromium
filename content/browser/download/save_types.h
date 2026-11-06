@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SaveFileCreateInfo and save ID type definitions
+// summary: Defines the SaveFileCreateInfo struct and SaveItem/SavePackage ID types carrying metadata for files saved from the network or DOM serialization.
+// ---
+
 #ifndef CONTENT_BROWSER_DOWNLOAD_SAVE_TYPES_H_
 #define CONTENT_BROWSER_DOWNLOAD_SAVE_TYPES_H_
 

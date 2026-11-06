@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HandwritingRecognizerImpl base class header
+// summary: Declares the base HandwritingRecognizerImpl that implements default mojom::HandwritingRecognizer behavior and holds a mojo pipe for renderer-derived recognizers.
+// ---
+
 #ifndef CONTENT_BROWSER_HANDWRITING_HANDWRITING_RECOGNIZER_IMPL_H_
 #define CONTENT_BROWSER_HANDWRITING_HANDWRITING_RECOGNIZER_IMPL_H_
 

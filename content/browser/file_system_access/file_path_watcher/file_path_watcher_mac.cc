@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac file path watcher platform selection
+// summary: Chooses kqueue for non-recursive and FSEvents for recursive watches on macOS, defines the FSEventStreamCreate quota limit, and adds a testing hook.
+// ---
+
 #include "content/browser/file_system_access/file_path_watcher/file_path_watcher.h"
 
 #include <memory>

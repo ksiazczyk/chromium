@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File System Access directory handle header
+// summary: Declares FileSystemAccessDirectoryHandleImpl, the browser-side implementation of the directory handle mojom interface.
+// ---
+
 #ifndef CONTENT_BROWSER_FILE_SYSTEM_ACCESS_FILE_SYSTEM_ACCESS_DIRECTORY_HANDLE_IMPL_H_
 #define CONTENT_BROWSER_FILE_SYSTEM_ACCESS_FILE_SYSTEM_ACCESS_DIRECTORY_HANDLE_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File System Access manager implementation unit tests
+// summary: Unit tests for FileSystemAccessManagerImpl covering handles, transfer tokens, permissions, and chooser interactions using content test fixtures.
+// ---
+
 #include "content/browser/file_system_access/file_system_access_manager_impl.h"
 
 #include <string>

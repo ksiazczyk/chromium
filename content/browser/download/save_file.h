@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SaveFile class declaration
+// summary: Declares SaveFile, an object that lives on the download task runner and handles writing operations for a single item during a page saving session.
+// ---
+
 #ifndef CONTENT_BROWSER_DOWNLOAD_SAVE_FILE_H_
 #define CONTENT_BROWSER_DOWNLOAD_SAVE_FILE_H_
 

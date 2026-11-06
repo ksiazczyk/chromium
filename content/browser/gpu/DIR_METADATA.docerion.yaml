@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for GPU browser code
+summary: Maps the directory to the Internals>GPU>Internals component, the graphics-dev team email and a Buganizer component.

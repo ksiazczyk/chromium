@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fenced frame reporter unit tests
+// summary: Unit tests that verify beacon requests from the fenced frame reporter, including URLs, methods, referrers, and isolation.
+// ---
+
 #include "content/browser/fenced_frame/fenced_frame_reporter.h"
 
 #include <functional>

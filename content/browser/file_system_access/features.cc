@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feature flag definitions for File System Access
+// summary: Defines base::Feature flags and parameters controlling blocklist checks, observer quota limits and rename permission behavior.
+// ---
+
 #include "content/browser/file_system_access/features.h"
 
 #include "base/feature_list.h"
