@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Query parser unit tests
+// summary: Unit tests covering multi-word queries, quoting, apostrophes, special characters, word counts, and node matching.
+// ---
+
 
 #include "components/query_parser/query_parser.h"
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BitmapImage class declaration
+// summary: Declares the BitmapImage class holding a size and heap-allocated 32-bit pixel buffer with accessors for pixels and rows.
+// ---
+
 #ifndef COMPONENTS_PWG_ENCODER_BITMAP_IMAGE_H_
 #define COMPONENTS_PWG_ENCODER_BITMAP_IMAGE_H_
 

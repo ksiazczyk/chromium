@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reading list model storage implementation
+// summary: Implements the reading list storage on DataTypeStore, serializing entries as protobufs and managing batch transactions.
+// ---
+
 #include "components/reading_list/core/reading_list_model_storage_impl.h"
 
 #include <utility>

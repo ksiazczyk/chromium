@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Error enum for QR code generation
+// summary: Defines the Error enum distinguishing unknown failures from input that is too long for a QR code.
+// ---
+
 #ifndef COMPONENTS_QR_CODE_GENERATOR_ERROR_H_
 #define COMPONENTS_QR_CODE_GENERATOR_ERROR_H_
 

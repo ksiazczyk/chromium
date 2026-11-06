@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'test_proto_dependency.proto: dependency message'
+// summary: Defines the DependencyMessage proto that test_proto.proto imports to cover dependency message fields in its test messages.
+// ---
+
 syntax = "proto3";
 
 option optimize_for = LITE_RUNTIME;

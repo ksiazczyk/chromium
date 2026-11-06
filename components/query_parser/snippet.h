@@ -5,6 +5,12 @@
 // This module computes snippets of queries based on hits in the documents
 // for display in history search results.
 
+// ---docerion
+// type: source
+// title: Snippet interface
+// summary: Declares the Snippet class that computes document snippets and converts UTF-8 match positions to UTF-16.
+// ---
+
 #ifndef COMPONENTS_QUERY_PARSER_SNIPPET_H__
 #define COMPONENTS_QUERY_PARSER_SNIPPET_H__
 

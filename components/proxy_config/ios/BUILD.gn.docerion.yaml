@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the iOS proxy_config component
+summary: Defines the GN build target for the iOS proxy_config component, listing its dependencies and the proxy service factory sources.

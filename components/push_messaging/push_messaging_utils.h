@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Push messaging utility declarations
+// summary: Header declaring push messaging helper functions for endpoint creation, VAPID key checks, sender info normalization, subscription options, and push event status handling.
+// ---
+
 #ifndef COMPONENTS_PUSH_MESSAGING_PUSH_MESSAGING_UTILS_H_
 #define COMPONENTS_PUSH_MESSAGING_PUSH_MESSAGING_UTILS_H_
 

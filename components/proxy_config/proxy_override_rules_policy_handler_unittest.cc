@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ProxyOverrideRulesPolicyHandler unit tests
+// summary: Tests the ProxyOverrideRules policy handler with valid and invalid rule values, verifying the produced error messages and applied preferences.
+// ---
+
 #include "components/proxy_config/proxy_override_rules_policy_handler.h"
 
 #include "base/json/json_reader.h"

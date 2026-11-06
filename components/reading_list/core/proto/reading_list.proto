@@ -4,6 +4,12 @@
 //
 // Sync protocol datatype extension for the reading list items.
 
+// ---docerion
+// type: source
+// title: Reading list entry protobuf definition
+// summary: Protobuf message describing the fields stored locally for a reading list entry, kept in sync with sync_pb.ReadingListSpecifics.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

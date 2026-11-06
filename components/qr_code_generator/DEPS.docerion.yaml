@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for the QR code generator component
+summary: Lists the include directories allowed for the component, covering vector icons, Crubit, the Rust qr_code library, Skia, and ui modules.

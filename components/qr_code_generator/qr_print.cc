@@ -7,6 +7,12 @@
 // faster iteration. It is not built by default, see the BUILD.gn in this
 // directory.
 
+// ---docerion
+// type: source
+// title: QR code console printing helper
+// summary: Development helper binary that renders a generated QR code in the terminal for faster debugging of the QR generation code; not built by default.
+// ---
+
 #include <stdio.h>
 
 #include <optional>

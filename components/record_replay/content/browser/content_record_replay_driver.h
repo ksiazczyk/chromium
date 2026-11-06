@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content record replay driver header
+// summary: Declares the per-frame browser endpoint for Mojo communication with the renderer RecordReplayAgent, tied to a RenderFrameHost and running on the UI thread.
+// ---
+
 #ifndef COMPONENTS_RECORD_REPLAY_CONTENT_BROWSER_CONTENT_RECORD_REPLAY_DRIVER_H_
 #define COMPONENTS_RECORD_REPLAY_CONTENT_BROWSER_CONTENT_RECORD_REPLAY_DRIVER_H_
 

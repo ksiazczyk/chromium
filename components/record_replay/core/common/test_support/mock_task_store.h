@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockTaskStore gmock header
+// summary: Declares MockTaskStore, a gmock-based mock of the TaskStore interface with mocked recording, task definition, and observation methods for tests.
+// ---
+
 #ifndef COMPONENTS_RECORD_REPLAY_CORE_COMMON_TEST_SUPPORT_MOCK_TASK_STORE_H_
 #define COMPONENTS_RECORD_REPLAY_CORE_COMMON_TEST_SUPPORT_MOCK_TASK_STORE_H_
 

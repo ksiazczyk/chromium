@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Record Replay renderer include rules
+summary: DEPS file listing the allowed includes for the renderer agent and an extra rule for the browser test file.

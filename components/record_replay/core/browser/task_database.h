@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TaskDatabase header for record/replay SQLite storage
+// summary: Declares TaskDatabase, which manages a SQLite database storing recordings, task definitions, and execution observations, including seeding, migration, and pruning.
+// ---
+
 #ifndef COMPONENTS_RECORD_REPLAY_CORE_BROWSER_TASK_DATABASE_H_
 #define COMPONENTS_RECORD_REPLAY_CORE_BROWSER_TASK_DATABASE_H_
 

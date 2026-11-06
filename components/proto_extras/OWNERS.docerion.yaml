@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for proto_extras
+summary: Lists the chromium.org accounts responsible for reviewing changes to proto_extras.

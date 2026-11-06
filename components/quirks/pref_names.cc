@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quirks preference name constants
+// summary: Defines the preference key that stores last Quirks server check times keyed by display product ID.
+// ---
+
 #include "components/quirks/pref_names.h"
 
 namespace quirks {

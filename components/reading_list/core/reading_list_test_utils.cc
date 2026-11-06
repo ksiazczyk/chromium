@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Reading list test utilities implementation
+// summary: Implements ReadingListLoadObserver, a test helper that blocks in Wait() until the reading list model signals it has loaded.
+// ---
+
 #include "components/reading_list/core/reading_list_test_utils.h"
 
 #include "base/run_loop.h"

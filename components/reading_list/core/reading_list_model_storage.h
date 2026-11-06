@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reading list model storage interface
+// summary: Declares the persistence layer interface for loading, saving and deleting reading list entries and sync metadata.
+// ---
+
 #ifndef COMPONENTS_READING_LIST_CORE_READING_LIST_MODEL_STORAGE_H_
 #define COMPONENTS_READING_LIST_CORE_READING_LIST_MODEL_STORAGE_H_
 

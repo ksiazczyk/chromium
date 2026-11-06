@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Task parameters extractor implementation
+// summary: Implements caching of task parameter values extracted via CSS selectors and filling them into task observations, using dummy values for parameters without extracted values.
+// ---
+
 #include "components/record_replay/core/browser/task_parameters_extractor.h"
 
 #include "base/functional/callback.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProxyConfigDictionary implementation
+// summary: Implements ProxyConfigDictionary, wrapping proxy settings such as mode, PAC URL, proxy server and bypass list, with factory helpers for each mode.
+// ---
+
 #include "components/proxy_config/proxy_config_dictionary.h"
 
 #include <memory>

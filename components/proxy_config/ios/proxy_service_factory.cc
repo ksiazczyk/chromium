@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS proxy service factory implementation
+// summary: Implements ProxyServiceFactory for iOS, creating system-backed proxy config services, preference trackers, and a configured proxy resolution service.
+// ---
+
 #include "components/proxy_config/ios/proxy_service_factory.h"
 
 #include <utility>

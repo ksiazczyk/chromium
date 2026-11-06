@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reading list entry class declaration
+// summary: Declares the ReadingListEntry class with entry sources, distillation states, and accessors for URL, title, read state, and distilled content.
+// ---
+
 #ifndef COMPONENTS_READING_LIST_CORE_READING_LIST_ENTRY_H_
 #define COMPONENTS_READING_LIST_CORE_READING_LIST_ENTRY_H_
 

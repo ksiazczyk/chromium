@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProxyConfigDictionary class header
+// summary: Declares ProxyConfigDictionary, a factory and wrapper for proxy configuration dictionaries stored in user preferences, with getters and creators for each proxy mode.
+// ---
+
 #ifndef COMPONENTS_PROXY_CONFIG_PROXY_CONFIG_DICTIONARY_H_
 #define COMPONENTS_PROXY_CONFIG_PROXY_CONFIG_DICTIONARY_H_
 

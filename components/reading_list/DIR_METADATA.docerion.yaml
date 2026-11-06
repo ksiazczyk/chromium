@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Reading list directory metadata
+summary: Declares the monorail and Buganizer components and the owning team email for the directory.

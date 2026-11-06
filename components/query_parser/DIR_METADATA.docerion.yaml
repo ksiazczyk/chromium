@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Query parser issue tracker metadata
+summary: Maps the component to the Internals monorail component and a public Buganizer component ID.

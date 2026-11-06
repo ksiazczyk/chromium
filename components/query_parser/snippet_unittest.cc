@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Snippet unit tests
+// summary: Unit tests for snippet computation using sample documents including UTF-8 trademark signs and Thai text.
+// ---
+
 
 #include "components/query_parser/snippet.h"
 

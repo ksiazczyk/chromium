@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content record replay driver implementation
+// summary: Implements the browser-side Mojo driver that relays recording, element lookup, and click, paste, and select actions to the renderer's RecordReplayAgent.
+// ---
+
 #include "components/record_replay/content/browser/content_record_replay_driver.h"
 
 #include "base/functional/callback.h"

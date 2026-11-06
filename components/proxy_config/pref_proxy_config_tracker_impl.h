@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProxyConfigServiceImpl and tracker declarations
+// summary: Declares ProxyConfigServiceImpl, which applies preference proxy settings over a base service, PrefProxyConfigTrackerImpl and proxy override rules feature flags.
+// ---
+
 #ifndef COMPONENTS_PROXY_CONFIG_PREF_PROXY_CONFIG_TRACKER_IMPL_H_
 #define COMPONENTS_PROXY_CONFIG_PREF_PROXY_CONFIG_TRACKER_IMPL_H_
 

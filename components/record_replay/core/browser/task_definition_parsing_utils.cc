@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Parsing of JSON task definition seeds into protobuf messages
+// summary: Implements mapping of JSON seed dictionaries into TaskDefinition, TaskStep, and TaskParameter protobuf messages with field validation and error reporting.
+// ---
+
 #include "components/record_replay/core/browser/task_definition_parsing_utils.h"
 
 #include "base/strings/strcat.h"

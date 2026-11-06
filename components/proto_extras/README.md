@@ -1,3 +1,11 @@
+---
+type: readme
+title: Protocol Buffer Extras
+summary: Documents the motivation, features, and usage of the proto_extras generator that adds serialization, printing, equality, and gmock matchers to lite protos.
+relations:
+  - documents /components/proto_extras/proto_extras.gni
+---
+
 # Protocol Buffer Extras
 
 ## Motivation

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reading list sync bridge
+// summary: Declares ReadingListSyncBridge, the sync bridge for the READING_LIST data type that propagates reading list entries between the local model and sync servers.
+// ---
+
 #ifndef COMPONENTS_READING_LIST_CORE_READING_LIST_SYNC_BRIDGE_H_
 #define COMPONENTS_READING_LIST_CORE_READING_LIST_SYNC_BRIDGE_H_
 

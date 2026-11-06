@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Strong aliases for DomNodeId, FieldValue and Selector
+// summary: Defines strong alias types DomNodeId, FieldValue and Selector used in IPC and recording serialization.
+// ---
+
 #ifndef COMPONENTS_RECORD_REPLAY_CORE_COMMON_ALIASES_H_
 #define COMPONENTS_RECORD_REPLAY_CORE_COMMON_ALIASES_H_
 

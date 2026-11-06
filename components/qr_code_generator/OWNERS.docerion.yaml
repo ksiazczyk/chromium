@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the QR code generator component
+summary: Delegates ownership to the device/fido owners file and lists lukasza@chromium.org as a reviewer for changes in this directory.

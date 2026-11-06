@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Record Replay Presubmit Checks
+# summary: Presubmit script that finds PRESUBMIT.py files in subfolders and executes their ExtendedRootChecks during code review.
+# ---
+
 PRESUBMIT_VERSION = '2.0.0'  # Finds Check* methods and executes them.
 USE_PYTHON3 = True  # Mandatory: run under Python 3
 

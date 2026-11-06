@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App identifier class declaration
+// summary: Declares AppIdentifier, which maps origins and service worker registration ids to push messaging app ids persisted in prefs.
+// ---
+
 #ifndef COMPONENTS_PUSH_MESSAGING_APP_IDENTIFIER_H_
 #define COMPONENTS_PUSH_MESSAGING_APP_IDENTIFIER_H_
 

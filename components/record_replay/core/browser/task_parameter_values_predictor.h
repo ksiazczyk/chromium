@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Task parameter values predictor header
+// summary: Declares the TaskParameterValuesPredictor class, which predicts parameter values for a given task definition using observations stored in the task store.
+// ---
+
 #ifndef COMPONENTS_RECORD_REPLAY_CORE_BROWSER_TASK_PARAMETER_VALUES_PREDICTOR_H_
 #define COMPONENTS_RECORD_REPLAY_CORE_BROWSER_TASK_PARAMETER_VALUES_PREDICTOR_H_
 

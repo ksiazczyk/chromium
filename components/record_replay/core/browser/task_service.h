@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Task service header
+// summary: Declares the TaskService KeyedService that coordinates task observation, execution offers, and completion handling for automation tasks.
+// ---
+
 #ifndef COMPONENTS_RECORD_REPLAY_CORE_BROWSER_TASK_SERVICE_H_
 #define COMPONENTS_RECORD_REPLAY_CORE_BROWSER_TASK_SERVICE_H_
 

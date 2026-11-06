@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileTaskProvider implementation
+// summary: Implements a task provider that asynchronously loads a JSON file of task definitions and answers URL queries with matching automation metadata.
+// ---
+
 #include "components/record_replay/core/browser/file_task_provider.h"
 
 #include "base/files/file_util.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for generated proto equality matchers
+// summary: Unit tests covering the generated Equals matchers for nested, primitive, repeated, oneof and enum fields of the test protobuf messages.
+// ---
+
 #include "components/proto_extras/proto_matchers.h"
 #include "components/proto_extras/test_proto/test_proto.pb.h"
 #include "components/proto_extras/test_proto/test_proto.test.h"

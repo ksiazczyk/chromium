@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the iOS reading list component
+summary: Defines the GN source_set for the iOS reading list sources and lists their dependencies on base and the reading list core.

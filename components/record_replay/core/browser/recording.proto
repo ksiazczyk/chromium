@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recording protobuf definition
+// summary: Protobuf schema for the Recording message, defining sequential actions such as clicks, select and text changes, and autofill fills plus URL, timing, name, and screenshot fields.
+// ---
+
 syntax = "proto3";
 
 package record_replay;

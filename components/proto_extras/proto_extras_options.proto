@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proto extras message options definition
+// summary: Defines a protobuf message option extension that lets messages opt in to custom serialization.
+// ---
+
 import "google/protobuf/descriptor.proto";
 
 package proto_extras;

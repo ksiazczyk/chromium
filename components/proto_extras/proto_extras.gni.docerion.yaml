@@ -1,0 +1,4 @@
+# Docerion header of proto_extras.gni.
+type: config
+title: GN templates for proto_extras code generation
+summary: Defines the proto_extras and proto_test_extras GN templates that generate base::Value serialization, stream operators, equality operators, and gmock matchers.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reading list preference name constants
+// summary: Defines the preference name tracking whether the desktop reading list first-use experience has been shown.
+// ---
+
 #include "components/reading_list/core/reading_list_pref_names.h"
 
 #include "build/build_config.h"

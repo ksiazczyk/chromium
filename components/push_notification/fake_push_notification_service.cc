@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake push notification service implementation
+// summary: Implements a minimal fake PushNotificationService subclass provided as test support.
+// ---
+
 #include "components/push_notification/fake_push_notification_service.h"
 
 #include "components/push_notification/push_notification_client_manager.h"

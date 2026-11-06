@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ProxyPrefs mode conversions
+// summary: Verifies StringToProxyMode and IntToProxyMode for all proxy modes and checks that invalid values are rejected.
+// ---
+
 #include <string>
 
 #include "base/values.h"

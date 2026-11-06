@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Record Replay command-line switch declarations
+// summary: Declares the record replay command-line switch name constants in the record_replay::switches namespace.
+// ---
+
 #ifndef COMPONENTS_RECORD_REPLAY_CORE_COMMON_RECORD_REPLAY_SWITCHES_H_
 #define COMPONENTS_RECORD_REPLAY_CORE_COMMON_RECORD_REPLAY_SWITCHES_H_
 

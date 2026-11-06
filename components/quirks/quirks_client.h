@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quirks client class declaration
+// summary: Declares QuirksClient, which fetches ICC and other display data files from the Quirks server.
+// ---
+
 #ifndef COMPONENTS_QUIRKS_QUIRKS_CLIENT_H_
 #define COMPONENTS_QUIRKS_QUIRKS_CLIENT_H_
 

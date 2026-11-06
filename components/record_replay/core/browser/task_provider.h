@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Task provider interface
+// summary: Defines the TaskProvider interface for suppliers of automation tasks per URL, including the ShouldOfferTask check and the CreateProviders factory method.
+// ---
+
 #ifndef COMPONENTS_RECORD_REPLAY_CORE_BROWSER_TASK_PROVIDER_H_
 #define COMPONENTS_RECORD_REPLAY_CORE_BROWSER_TASK_PROVIDER_H_
 

@@ -1,3 +1,9 @@
+---
+type: readme
+title: Reduce fingerprinting in Accept-Language header
+summary: Reference for the Chromium implementation of reducing Accept-Language header fingerprinting, listing the directories containing the code.
+---
+
 # Reduce fingerprinting in Accept-Language header
 
 This README will serve as a reference for the Chromium implementation of [Reduce fingerprinting in the Accept-Language header](https://github.com/Tanych/accept-language).

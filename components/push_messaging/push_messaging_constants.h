@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Push messaging constants declarations
+// summary: Declares push endpoint constants and the subscription expiration and refresh time deltas.
+// ---
+
 #ifndef COMPONENTS_PUSH_MESSAGING_PUSH_MESSAGING_CONSTANTS_H_
 #define COMPONENTS_PUSH_MESSAGING_PUSH_MESSAGING_CONSTANTS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for QR code bitmap generation
+// summary: Verifies generated QR bitmaps for dino, passkey, product logo, and custom center images, checking dimensions and pixel colors.
+// ---
+
 #include "components/qr_code_generator/bitmap_generator.h"
 
 #include "base/containers/span.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recorder header
+// summary: Declares the Recorder class that builds a Recording from a series of tab actions, storing start URL, start time, name, and screenshot.
+// ---
+
 #ifndef COMPONENTS_RECORD_REPLAY_CORE_BROWSER_RECORDER_H_
 #define COMPONENTS_RECORD_REPLAY_CORE_BROWSER_RECORDER_H_
 

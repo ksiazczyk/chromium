@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App identifier test support declaration
+// summary: Declares protected helpers giving tests access to AppIdentifier internals, including legacy GCM identifier generation.
+// ---
+
 #ifndef COMPONENTS_PUSH_MESSAGING_APP_IDENTIFIER_TEST_SUPPORT_H_
 #define COMPONENTS_PUSH_MESSAGING_APP_IDENTIFIER_TEST_SUPPORT_H_
 

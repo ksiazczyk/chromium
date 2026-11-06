@@ -1,3 +1,9 @@
+---
+type: readme
+title: Query parser component README
+summary: Explains that query_parser is shared by history and bookmarks to avoid cyclic dependencies and must not depend on content/.
+---
+
 query_parser is a components used by both history and bookmarks to avoid having
 a cyclic dependencies between the two components. It only exports types used to
 parse and normalize queries into the history search.

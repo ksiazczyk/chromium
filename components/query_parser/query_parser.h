@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Query parser interface
+// summary: Declares QueryParser and QueryNode APIs for parsing history search queries, matching words, and prefix search rules.
+// ---
+
 #ifndef COMPONENTS_QUERY_PARSER_QUERY_PARSER_H_
 #define COMPONENTS_QUERY_PARSER_QUERY_PARSER_H_
 

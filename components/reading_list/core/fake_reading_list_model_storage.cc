@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake reading list model storage implementation
+// summary: Implements a test-only storage backend with no real I/O that records save and remove calls and lets tests trigger load completion.
+// ---
+
 #include "components/reading_list/core/fake_reading_list_model_storage.h"
 
 #include <memory>

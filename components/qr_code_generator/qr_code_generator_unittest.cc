@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: QR code generator unit tests
+// summary: Unit tests verifying that generated QR codes have valid output structure and expected sizes for a range of input lengths and QR versions.
+// ---
+
 #include "components/qr_code_generator/qr_code_generator.h"
 
 #include <array>

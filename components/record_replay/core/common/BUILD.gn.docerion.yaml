@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for Record Replay common helpers
+summary: Defines the GN targets for the common static library, the Mojo bindings with custom typemaps, and the test_support library.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Protoc plugin for proto_extras code generation
+// summary: Implements the protoc plugin that generates serialization, stream operator, and equality code for MessageLite protos.
+// ---
+
 #include <string>
 
 #include "base/check.h"

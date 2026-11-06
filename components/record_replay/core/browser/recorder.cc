@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recorder implementation
+// summary: Implements the transient builder that records clicks, select and text changes, and autofill actions with timing deltas into a Recording proto.
+// ---
+
 #include "components/record_replay/core/browser/recorder.h"
 
 #include <string>

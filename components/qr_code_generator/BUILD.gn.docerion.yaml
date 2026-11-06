@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the QR code generator component
+summary: Defines GN build targets for the QR code generator, including source sets, unit tests, a fuzzer, and the optional qr_print debugging executable.

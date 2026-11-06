@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TaskStoreImpl header
+// summary: Declares TaskStoreImpl, a SQLite-backed TaskStore tied to the Profile lifecycle that performs database I/O off the UI thread.
+// ---
+
 #ifndef COMPONENTS_RECORD_REPLAY_CORE_BROWSER_TASK_STORE_IMPL_H_
 #define COMPONENTS_RECORD_REPLAY_CORE_BROWSER_TASK_STORE_IMPL_H_
 

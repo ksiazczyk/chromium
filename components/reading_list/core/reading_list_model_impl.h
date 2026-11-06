@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reading list model implementation
+// summary: Declares ReadingListModelImpl, the in-memory reading list model handling entries, batch updates, storage and sync integration.
+// ---
+
 #ifndef COMPONENTS_READING_LIST_CORE_READING_LIST_MODEL_IMPL_H_
 #define COMPONENTS_READING_LIST_CORE_READING_LIST_MODEL_IMPL_H_
 

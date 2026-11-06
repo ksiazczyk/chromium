@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RecordReplayAgent implementation
+// summary: Implements the renderer agent that builds element selectors, reports DOM interactions via Mojo, and executes replay commands like DoClick and DoPaste.
+// ---
+
 #include "components/record_replay/content/renderer/record_replay_agent.h"
 
 #include <string>

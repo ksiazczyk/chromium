@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Snippet implementation
+// summary: Implements snippet computation and extraction and coalescing of match positions from SQLite full-text offset strings.
+// ---
+
 #include "components/query_parser/snippet.h"
 
 #include <stdint.h>

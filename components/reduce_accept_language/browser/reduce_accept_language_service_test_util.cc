@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Reduce accept language service test utilities
+// summary: Implements a tester helper verifying persist, fetch, and clear behavior of the reduce accept language service.
+// ---
+
 #include "components/reduce_accept_language/browser/reduce_accept_language_service_test_util.h"
 
 #include <memory>

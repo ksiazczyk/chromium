@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ProxyPolicyHandler unit tests
+// summary: Tests that proxy policies are correctly converted into the expected proxy preference values for the various proxy modes.
+// ---
+
 #include "components/proxy_config/proxy_policy_handler.h"
 
 #include <memory>

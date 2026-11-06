@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Proto extras ToValue unit tests
+// summary: Unit tests verifying that ToValue converts protobuf messages, including nested, repeated, oneof, map and dependency fields, into base::Value JSON representations.
+// ---
+
 #include "base/test/values_test_util.h"
 #include "components/proto_extras/test_proto/test_proto.equal.h"
 #include "components/proto_extras/test_proto/test_proto.ostream.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reading list entry implementation
+// summary: Implements ReadingListEntry with timestamps, distillation state and paths, sync specifics conversion, and exponential backoff for failed downloads.
+// ---
+
 #include "components/reading_list/core/reading_list_entry.h"
 
 #include <memory>

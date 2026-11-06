@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the proxy_config component
+summary: Defines the proxy_config component sources, dependencies and the unit_tests source set for the proxy configuration code.

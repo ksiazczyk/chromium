@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for reading list entries
+// summary: Tests entry comparison, read state changes, sync specifics validity, and backoff timing behavior of ReadingListEntry.
+// ---
+
 #include "components/reading_list/core/reading_list_entry.h"
 
 #include <memory>

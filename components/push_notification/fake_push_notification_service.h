@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake push notification service header
+// summary: Declares a fake PushNotificationService subclass used as test support.
+// ---
+
 #ifndef COMPONENTS_PUSH_NOTIFICATION_FAKE_PUSH_NOTIFICATION_SERVICE_H_
 #define COMPONENTS_PUSH_NOTIFICATION_FAKE_PUSH_NOTIFICATION_SERVICE_H_
 

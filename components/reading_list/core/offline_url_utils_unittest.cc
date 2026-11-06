@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for offline URL utilities
+// summary: Verifies offline path helpers including the root directory, MD5-based URL directory IDs, absolute paths, and HTML and PDF page paths.
+// ---
+
 #include "components/reading_list/core/offline_url_utils.h"
 
 #include <string>

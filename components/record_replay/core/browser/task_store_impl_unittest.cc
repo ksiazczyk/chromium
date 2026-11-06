@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TaskStoreImpl unit tests
+// summary: Unit tests for the SQLite-backed TaskStore, verifying recording and task definition persistence across database operations.
+// ---
+
 #include "components/record_replay/core/browser/task_store_impl.h"
 
 #include <memory>

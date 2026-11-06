@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proxy policy handler implementation
+// summary: Implements the configuration policy handler that maps proxy policies such as ProxyMode, ProxyServer and ProxyBypassList into proxy preferences.
+// ---
+
 #include "components/proxy_config/proxy_policy_handler.h"
 
 #include <stddef.h>

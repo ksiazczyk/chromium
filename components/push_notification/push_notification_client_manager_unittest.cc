@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Push notification client manager unit tests
+// summary: Unit tests for the client manager covering client registration, removal, and message delivery, including messages that arrive before a client registers.
+// ---
+
 #include "components/push_notification/push_notification_client_manager.h"
 
 #include <memory>

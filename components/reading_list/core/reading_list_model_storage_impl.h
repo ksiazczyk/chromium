@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reading list model storage implementation header
+// summary: Declares ReadingListModelStorageImpl, a protobuf-backed reading list storage built on DataTypeStore (leveldb).
+// ---
+
 #ifndef COMPONENTS_READING_LIST_CORE_READING_LIST_MODEL_STORAGE_IMPL_H_
 #define COMPONENTS_READING_LIST_CORE_READING_LIST_MODEL_STORAGE_IMPL_H_
 

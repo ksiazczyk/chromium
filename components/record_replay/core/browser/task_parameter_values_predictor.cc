@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Task parameter values predictor implementation
+// summary: Implements prediction of task parameter values for a task definition by retrieving historical observations from the task store and returning the parameters of the first observation.
+// ---
+
 #include "components/record_replay/core/browser/task_parameter_values_predictor.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for proxy override rules utilities
+// summary: Tests parsing of ProxyOverrideRules host and proxy strings into scheme, host, port, and proxy chain values, including invalid inputs.
+// ---
+
 #include "components/proxy_config/proxy_prefs_utils.h"
 
 #include <string>

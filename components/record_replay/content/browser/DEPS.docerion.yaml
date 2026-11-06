@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for record replay browser content
+summary: Specifies allowed include directories for the record replay browser content code, with an extra rule permitting mock tab interfaces in unit tests.

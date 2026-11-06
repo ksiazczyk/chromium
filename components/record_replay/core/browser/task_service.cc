@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Task service implementation
+// summary: 'Implements coordination of the automation task lifecycle: observing visited URLs, offering task execution with predicted parameters, and saving completed observations.'
+// ---
+
 #include "components/record_replay/core/browser/task_service.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quirks export macro definitions
+// summary: Defines the QUIRKS_EXPORT macro controlling shared library symbol visibility for the component.
+// ---
+
 #ifndef COMPONENTS_QUIRKS_QUIRKS_EXPORT_H_
 #define COMPONENTS_QUIRKS_QUIRKS_EXPORT_H_
 

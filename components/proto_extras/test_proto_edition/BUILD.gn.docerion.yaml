@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for test_proto_edition protobufs
+summary: Defines GN targets for the test_proto_edition proto library, its proto_extras and test_extras variants, and the custom message serialization source set.

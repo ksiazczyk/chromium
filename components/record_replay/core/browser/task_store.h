@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TaskStore interface
+// summary: Abstract KeyedService interface for persistent storage of recordings, task definitions and observations.
+// ---
+
 #ifndef COMPONENTS_RECORD_REPLAY_CORE_BROWSER_TASK_STORE_H_
 #define COMPONENTS_RECORD_REPLAY_CORE_BROWSER_TASK_STORE_H_
 

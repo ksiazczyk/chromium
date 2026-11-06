@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RecordReplayDriverFactory interface
+// summary: Abstract factory that manages the lifecycle of RecordReplayDriver instances within a tab, offering access to active drivers and enabling recording for future drivers.
+// ---
+
 #ifndef COMPONENTS_RECORD_REPLAY_CORE_BROWSER_RECORD_REPLAY_DRIVER_FACTORY_H_
 #define COMPONENTS_RECORD_REPLAY_CORE_BROWSER_RECORD_REPLAY_DRIVER_FACTORY_H_
 

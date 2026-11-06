@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'test_proto.proto: test message with varied field types'
+// summary: Defines a TestMessage exercising many protobuf field types, including nested messages, enums, oneofs, maps, CORD bytes, optional and debug-redacted fields, for testing proto_extras.
+// ---
+
 syntax = "proto3";
 
 package proto_extras;

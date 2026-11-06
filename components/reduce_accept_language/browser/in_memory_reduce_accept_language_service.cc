@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-memory reduce accept language service implementation
+// summary: Implements an in-memory per-origin cache of reduced accept languages for the controller delegate.
+// ---
+
 #include "components/reduce_accept_language/browser/in_memory_reduce_accept_language_service.h"
 
 #include <optional>

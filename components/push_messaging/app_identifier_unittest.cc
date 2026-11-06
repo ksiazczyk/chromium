@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App identifier unit tests
+// summary: Tests AppIdentifier validity, GUID uniqueness and pref value round-tripping, including expiration and differing app id cases.
+// ---
+
 #include "components/push_messaging/app_identifier.h"
 
 #include <stdint.h>

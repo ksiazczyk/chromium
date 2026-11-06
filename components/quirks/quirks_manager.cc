@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quirks manager implementation
+// summary: Manages display ICC profile requests, delaying downloads until after login and reusing cached files.
+// ---
+
 #include "components/quirks/quirks_manager.h"
 
 #include <utility>

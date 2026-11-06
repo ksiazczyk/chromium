@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Query parser build targets
+summary: GN build file defining the query_parser source set, its unit test target, and a libFuzzer fuzzer target.

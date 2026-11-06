@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Query parser implementation
+// summary: Implements parsing of user queries into normalized SQLite queries using a tree of query nodes with prefix and quoted matching.
+// ---
+
 #include "components/query_parser/query_parser.h"
 
 #include <algorithm>

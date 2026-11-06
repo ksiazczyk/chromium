@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ElementId class definition
+// summary: Declares the ElementId class that uniquely identifies a DOM element via an unguessable token and a DOM node ID.
+// ---
+
 #ifndef COMPONENTS_RECORD_REPLAY_CORE_COMMON_ELEMENT_ID_H_
 #define COMPONENTS_RECORD_REPLAY_CORE_COMMON_ELEMENT_ID_H_
 

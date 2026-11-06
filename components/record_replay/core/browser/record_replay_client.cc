@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RecordReplayClient base implementation
+// summary: Provides the default constructor and destructor for the abstract RecordReplayClient interface.
+// ---
+
 #include "components/record_replay/core/browser/record_replay_client.h"
 
 namespace record_replay {

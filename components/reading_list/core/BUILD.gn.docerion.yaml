@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Reading list core GN build definition
+summary: Defines the core source set, test support static library and unit test targets for the reading list component.

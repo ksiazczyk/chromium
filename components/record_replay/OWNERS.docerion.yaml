@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Record Replay Component OWNERS
+summary: Lists the code owners responsible for reviewing changes to the Record Replay component, including the autoroll service account.

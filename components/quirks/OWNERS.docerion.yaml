@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the quirks directory
+summary: Lists the reviewers responsible for approving changes to the quirks component.

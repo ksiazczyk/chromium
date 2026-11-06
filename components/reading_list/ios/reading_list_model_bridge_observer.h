@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReadingListModelBridge observer header
+// summary: Declares an Objective-C protocol mirroring the reading list model observer callbacks and a C++ bridge class that forwards them.
+// ---
+
 #ifndef COMPONENTS_READING_LIST_IOS_READING_LIST_MODEL_BRIDGE_OBSERVER_H_
 #define COMPONENTS_READING_LIST_IOS_READING_LIST_MODEL_BRIDGE_OBSERVER_H_
 

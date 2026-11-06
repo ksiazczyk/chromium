@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for JSON task definition parsing utilities
+// summary: Declares ParseTaskDefinition, which converts a JSON dictionary into a validated TaskDefinition protobuf or an error string.
+// ---
+
 #ifndef COMPONENTS_RECORD_REPLAY_CORE_BROWSER_TASK_DEFINITION_PARSING_UTILS_H_
 #define COMPONENTS_RECORD_REPLAY_CORE_BROWSER_TASK_DEFINITION_PARSING_UTILS_H_
 

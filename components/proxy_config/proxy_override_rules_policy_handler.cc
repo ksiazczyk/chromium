@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProxyOverrideRules policy handler implementation
+// summary: Implements validation and application of the ProxyOverrideRules policy, checking rule destinations, proxy lists and conditions before writing preferences.
+// ---
+
 #include "components/proxy_config/proxy_override_rules_policy_handler.h"
 
 #include <variant>

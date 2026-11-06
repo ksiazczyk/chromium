@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Reading list sync bridge unit tests
+// summary: Unit tests for ReadingListSyncBridge covering entry merging, entry transitions for sync, metadata handling, and applying remote changes.
+// ---
+
 #include "components/reading_list/core/reading_list_sync_bridge.h"
 
 #include <array>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefProxyConfigTracker interface
+// summary: Declares the PrefProxyConfigTracker interface that tracks proxy preferences and forwards them to a net::ProxyConfigService.
+// ---
+
 #ifndef COMPONENTS_PROXY_CONFIG_PREF_PROXY_CONFIG_TRACKER_H_
 #define COMPONENTS_PROXY_CONFIG_PREF_PROXY_CONFIG_TRACKER_H_
 

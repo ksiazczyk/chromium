@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for proto_extras
+summary: Restricts includes in this directory to base and google protobuf headers.
