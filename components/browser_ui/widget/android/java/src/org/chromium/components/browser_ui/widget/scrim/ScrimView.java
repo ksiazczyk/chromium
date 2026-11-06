@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScrimView for obscuring background content
+// summary: Android view that obscures content to bring focus to a foreground view, placing itself in the view hierarchy and delegating touch events to an external handler.
+// ---
+
 package org.chromium.components.browser_ui.widget.scrim;
 
 import android.content.Context;

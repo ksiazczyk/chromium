@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MaterialProgressBar
+// summary: Custom material-styled horizontal progress bar supporting determinate, secondary and indeterminate progress with configurable colors.
+// ---
+
 package org.chromium.components.browser_ui.widget;
 
 import android.animation.ValueAnimator;

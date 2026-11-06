@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TouchTrackingListView
+// summary: Custom Android ListView that observes touch events without consuming them, recording the last single-tap-up gesture so item click handlers can inspect it.
+// ---
+
 package org.chromium.components.browser_ui.widget.list_view;
 
 import android.content.Context;

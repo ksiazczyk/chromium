@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: test
+title: RadioButtonWithDescriptionAndAuxButton test layout
+summary: Android test layout hosting a single RadioButtonWithDescriptionAndAuxButton with primary and description text for widget tests.
+-->
+
 <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_height="wrap_content"
     android:layout_width="wrap_content"

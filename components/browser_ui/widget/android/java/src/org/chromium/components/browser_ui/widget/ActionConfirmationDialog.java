@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActionConfirmationDialog
+// summary: Android dialog that asks users to confirm an action, supporting immediate or deferred dismissal, programmatic dismissal handles, and an optional stop-showing checkbox.
+// ---
+
 package org.chromium.components.browser_ui.widget;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

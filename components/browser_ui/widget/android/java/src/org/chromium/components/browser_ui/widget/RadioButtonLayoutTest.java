@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RadioButtonLayout unit tests
+// summary: Robolectric tests for RadioButtonLayout covering adding options with tags, child margins, and selection behavior.
+// ---
+
 package org.chromium.components.browser_ui.widget;
 
 import static org.junit.Assert.assertEquals;

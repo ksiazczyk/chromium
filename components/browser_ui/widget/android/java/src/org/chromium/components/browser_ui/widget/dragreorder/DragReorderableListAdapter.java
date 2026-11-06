@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DragReorderableListAdapter
+// summary: Abstract RecyclerView adapter that manages drag-reorderable lists, handling item swaps, drag state and visual styling.
+// ---
+
 package org.chromium.components.browser_ui.widget.dragreorder;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

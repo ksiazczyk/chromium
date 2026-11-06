@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoadingFullscreenCoordinator
+// summary: Manages a fullscreen loading screen over a Chrome activity, showing and hiding a scrim with a cancel button callback.
+// ---
+
 package org.chromium.components.browser_ui.widget.loading;
 
 import android.app.Activity;

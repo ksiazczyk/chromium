@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PulseDrawable
+// summary: Android Drawable that animates a pulsing highlight effect, driven by PulseInterpolator and a Painter strategy for the actual drawing work.
+// ---
+
 package org.chromium.components.browser_ui.widget.highlight;
 
 import android.content.Context;

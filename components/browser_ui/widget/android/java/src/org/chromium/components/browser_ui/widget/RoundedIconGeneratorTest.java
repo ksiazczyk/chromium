@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RoundedIconGeneratorTest
+// summary: Instrumentation tests for RoundedIconGenerator covering URL-based icon text, initial letter extraction, and icon generation.
+// ---
+
 package org.chromium.components.browser_ui.widget;
 
 import android.content.Context;

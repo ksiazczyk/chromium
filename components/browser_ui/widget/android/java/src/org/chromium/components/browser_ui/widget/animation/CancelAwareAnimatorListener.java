@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CancelAwareAnimatorListener
+// summary: Android animator listener adapter that separates cancel and end callbacks so subclasses override onStart, onCancel and onEnd exactly once per animation.
+// ---
+
 package org.chromium.components.browser_ui.widget.animation;
 
 import android.animation.Animator;

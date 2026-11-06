@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ListViewTouchTracker
+// summary: Interface that tracks touch events on a ListView and exposes the last single-tap-up motion event information.
+// ---
+
 package org.chromium.components.browser_ui.widget.list_view;
 
 import org.chromium.build.annotations.NullMarked;

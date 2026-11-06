@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageTile
+// summary: Java class encapsulating the data needed to render an image tile, such as its ID, display title and accessibility text.
+// ---
+
 package org.chromium.components.browser_ui.widget.image_tiles;
 
 import android.text.TextUtils;

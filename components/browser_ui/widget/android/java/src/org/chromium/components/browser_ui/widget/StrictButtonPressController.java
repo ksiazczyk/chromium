@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StrictButtonPressController
+// summary: Modal dialog controller that reports via callback which dialog button was pressed or that no click occurred.
+// ---
+
 package org.chromium.components.browser_ui.widget;
 
 import androidx.annotation.IntDef;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RichRadioButtonList
+// summary: Composite widget that displays a vertical list of RichRadioButton items using its own RecyclerView and adapter with single selection support.
+// ---
+
 package org.chromium.components.browser_ui.widget;
 
 import android.content.Context;

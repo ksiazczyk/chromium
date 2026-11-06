@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser UI list menu render tests
+// summary: Render tests for the BasicListMenu widget, covering standard and night mode appearances with a parameterized runner and RenderTestRule.
+// ---
+
 package org.chromium.components.browser_ui.widget.listmenu;
 
 import static android.view.ViewGroup.LayoutParams.WRAP_CONTENT;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Promo card view with image, text, and buttons
+// summary: Custom card view that holds the promo image, title, description, primary and secondary buttons, and an optional close button.
+// ---
+
 package org.chromium.components.browser_ui.widget.promo;
 
 import android.content.Context;

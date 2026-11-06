@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FullscreenAlertDialog
+// summary: Fullscreen AlertDialog for Clank that adds a back-button toolbar on automotive devices and supports edge-to-edge content padding.
+// ---
+
 package org.chromium.components.browser_ui.widget;
 
 import android.content.Context;

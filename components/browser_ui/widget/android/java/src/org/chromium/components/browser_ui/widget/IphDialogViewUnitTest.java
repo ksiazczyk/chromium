@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IphDialogViewUnitTest
+// summary: Robolectric unit tests for IphDialogView covering animation start, stop and cancellation of the delayed restart callback.
+// ---
+
 package org.chromium.components.browser_ui.widget;
 
 import static org.junit.Assert.assertEquals;

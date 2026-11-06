@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplayStyleObserverAdapter
+// summary: DisplayStyleObserver wrapper that only forwards style changes while its associated view is attached to the window, suited for RecyclerView use.
+// ---
+
 package org.chromium.components.browser_ui.widget.displaystyle;
 
 import android.view.View;

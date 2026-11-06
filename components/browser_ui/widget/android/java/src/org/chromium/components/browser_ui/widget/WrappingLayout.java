@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WrappingLayout
+// summary: Custom ViewGroup that lays out children horizontally and wraps them to the next line, with configurable horizontal and vertical spacing.
+// ---
+
 package org.chromium.components.browser_ui.widget;
 
 import android.content.Context;

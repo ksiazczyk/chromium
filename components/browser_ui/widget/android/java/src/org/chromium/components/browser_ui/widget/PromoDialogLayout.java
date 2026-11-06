@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PromoDialogLayout
+// summary: Layout for promo dialogs that flips orientation on wide screens, hides unset controls, and keeps buttons locked to the bottom.
+// ---
+
 package org.chromium.components.browser_ui.widget;
 
 import android.content.Context;

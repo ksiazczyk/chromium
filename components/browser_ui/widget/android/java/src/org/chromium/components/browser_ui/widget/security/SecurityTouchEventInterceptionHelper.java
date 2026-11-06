@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SecurityTouchEventInterceptionHelper
+// summary: Android helper class that tracks whether the last touch event occurred while the application window was fully or partially obscured, to mitigate tapjacking attacks.
+// ---
+
 package org.chromium.components.browser_ui.widget.security;
 
 import android.view.MotionEvent;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchBoxView
+// summary: Android LinearLayout view for the generic search box that embeds the search text field, clear button, and loupe, handling focus, text changes, and click listeners.
+// ---
+
 package org.chromium.components.browser_ui.widget.search;
 
 import android.annotation.SuppressLint;

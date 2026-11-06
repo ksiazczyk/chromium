@@ -5,6 +5,12 @@
   found in the LICENSE file.
 -->
 
+<!--docerion
+type: test
+title: TouchTrackingListView test item layout
+summary: Layout for a single TextView item in a TouchTrackingListView, used by TouchTrackingListViewTest.
+-->
+
 <!--
   Layout for a single item in TouchTrackingListView;
   used in TouchTrackingListViewTest

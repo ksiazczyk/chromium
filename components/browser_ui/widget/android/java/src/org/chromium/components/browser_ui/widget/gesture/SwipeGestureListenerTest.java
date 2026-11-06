@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for SwipeGestureListener
+// summary: Robolectric unit tests verifying that SwipeGestureListener detects swipes in left, right, up, and down directions and notifies the handler.
+// ---
+
 package org.chromium.components.browser_ui.widget.gesture;
 
 import static org.mockito.ArgumentMatchers.any;

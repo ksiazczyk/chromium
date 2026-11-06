@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scrim component behavior tests
+// summary: JUnit instrumentation tests covering the scrim component's behavior, including visibility, status bar and navigation bar colors, margins, clicks, and gestures.
+// ---
+
 package org.chromium.components.browser_ui.widget.scrim;
 
 import static org.junit.Assert.assertEquals;

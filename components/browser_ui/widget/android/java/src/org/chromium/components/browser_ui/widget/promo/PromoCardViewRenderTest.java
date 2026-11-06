@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Render tests for the promo card view
+// summary: Parameterized render tests capturing promo card screenshots across layout variants in both day and night mode.
+// ---
+
 package org.chromium.components.browser_ui.widget.promo;
 
 import android.app.Activity;

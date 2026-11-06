@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RichRadioButtonData
+// summary: Builder-based immutable data model for a selectable rich radio button item with an ID, optional icon, required title, and optional description.
+// ---
+
 package org.chromium.components.browser_ui.widget;
 
 import androidx.annotation.DrawableRes;

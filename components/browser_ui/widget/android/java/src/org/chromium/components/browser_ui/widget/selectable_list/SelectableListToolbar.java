@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SelectableListToolbar
+// summary: Toolbar that switches between normal, selection, and search views depending on the selection state of a selectable list, with optional search support.
+// ---
+
 package org.chromium.components.browser_ui.widget.selectable_list;
 
 import android.app.Activity;

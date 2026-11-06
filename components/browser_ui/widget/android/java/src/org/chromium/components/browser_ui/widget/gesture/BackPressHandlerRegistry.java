@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BackPressHandlerRegistry interface for handler registration
+// summary: Generic interface for components that add and remove back press handlers, decoupling low-level UI modules from the concrete BackPressManager implementation.
+// ---
+
 package org.chromium.components.browser_ui.widget.gesture;
 
 import org.chromium.build.annotations.NullMarked;

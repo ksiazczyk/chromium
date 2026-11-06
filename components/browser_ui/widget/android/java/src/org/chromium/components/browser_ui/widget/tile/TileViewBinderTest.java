@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TileViewBinder Robolectric tests
+// summary: Robolectric tests that verify TileViewBinder applies property model changes to the TileView correctly.
+// ---
+
 package org.chromium.components.browser_ui.widget.tile;
 
 import static org.mockito.Mockito.mock;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FadingShadow
+// summary: Draws a variable-sized shadow with alpha support at the top or bottom edge of a view using a gradient shader.
+// ---
+
 package org.chromium.components.browser_ui.widget;
 
 import android.graphics.Canvas;

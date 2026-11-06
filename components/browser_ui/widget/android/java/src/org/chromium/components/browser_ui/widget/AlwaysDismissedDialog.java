@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AlwaysDismissedDialog
+// summary: Dialog subclass that guarantees dismiss() is called even when the owning activity is destroyed, so crucial cleanup in dismiss logic always runs.
+// ---
+
 package org.chromium.components.browser_ui.widget;
 
 import android.app.Activity;

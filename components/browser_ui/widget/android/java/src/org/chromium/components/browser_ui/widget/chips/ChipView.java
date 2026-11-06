@@ -1,6 +1,13 @@
 // Copyright 2019 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Android view for displaying a material chip
+// summary: Custom LinearLayout view that renders a material chip with primary and secondary text, an optional start icon, loading view, ripple background, and a compact icon-only mode.
+// ---
+
 package org.chromium.components.browser_ui.widget.chips;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

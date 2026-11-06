@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Tile widget owners file
+summary: Delegates ownership of the tile widget directory to the explore_sites OWNERS file via an include reference.

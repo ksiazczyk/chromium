@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContainmentUiUtils
+// summary: Utility that parses containment XML attributes such as background style and color into a ContainmentAttributes object.
+// ---
+
 package org.chromium.components.browser_ui.widget.containment;
 
 import android.content.Context;

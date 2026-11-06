@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BackPressHandler interface for back press interception
+// summary: Interface notifying whether an implementer intercepts Android back press events, with typed handler priorities and result codes used by Chromium UI components.
+// ---
+
 package org.chromium.components.browser_ui.widget.gesture;
 
 import androidx.activity.BackEventCompat;

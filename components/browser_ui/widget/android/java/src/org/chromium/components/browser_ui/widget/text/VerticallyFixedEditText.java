@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VerticallyFixedEditText
+// summary: An AppCompatEditText that prevents vertical scrolling of its text, useful when placed in layouts smaller than its normal height.
+// ---
+
 package org.chromium.components.browser_ui.widget.text;
 
 import android.content.Context;

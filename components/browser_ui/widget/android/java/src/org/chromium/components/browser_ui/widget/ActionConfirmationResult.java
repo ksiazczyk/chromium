@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActionConfirmationResult annotation
+// summary: 'IntDef annotation defining the result of processing an action: immediate continue, positive confirmation, or negative confirmation by the user.'
+// ---
+
 package org.chromium.components.browser_ui.widget;
 
 import androidx.annotation.IntDef;

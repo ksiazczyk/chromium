@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppMenuListView
+// summary: Custom ListView for the Chromium app menu that extends TouchTrackingListView to handle Tab and Shift+Tab keyboard navigation between focusable views inside composite list item rows.
+// ---
+
 package org.chromium.components.browser_ui.widget.list_view;
 
 import android.content.Context;

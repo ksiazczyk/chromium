@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ListItemBuilder
+// summary: Builder for creating list menu items with title, subtitle, icons, tint colors, text styles, submenu entries and other display properties.
+// ---
+
 package org.chromium.components.browser_ui.widget;
 
 import static org.chromium.ui.listmenu.ListItemType.MENU_ITEM;

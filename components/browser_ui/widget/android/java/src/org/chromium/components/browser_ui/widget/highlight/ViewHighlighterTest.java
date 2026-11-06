@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ViewHighlighterTest
+// summary: Robolectric tests verifying ViewHighlighter's turn-on and turn-off highlight behavior, including repeated calls and views with null backgrounds.
+// ---
+
 package org.chromium.components.browser_ui.widget.highlight;
 
 import static org.junit.Assert.assertEquals;

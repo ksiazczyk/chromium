@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ViewResourceFrameLayout
+// summary: FrameLayout extension that tracks descendant invalidations to expose the view as a compositor resource for the browser UI.
+// ---
+
 package org.chromium.components.browser_ui.widget;
 
 import android.content.Context;

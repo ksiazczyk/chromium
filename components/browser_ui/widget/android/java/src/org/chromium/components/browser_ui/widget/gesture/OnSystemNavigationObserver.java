@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OnSystemNavigationObserver interface for system navigation
+// summary: Observer interface invoked when the Android OS itself handles a back navigation event, intended mainly for logging and recording purposes.
+// ---
+
 package org.chromium.components.browser_ui.widget.gesture;
 
 import org.chromium.build.annotations.NullMarked;

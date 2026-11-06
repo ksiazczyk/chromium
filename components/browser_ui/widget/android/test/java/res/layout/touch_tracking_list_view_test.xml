@@ -5,6 +5,12 @@
   found in the LICENSE file.
 -->
 
+<!--docerion
+type: test
+title: TouchTrackingListView test layout
+summary: Test layout providing a TouchTrackingListView instance for the TouchTrackingListViewTest suite.
+-->
+
 <!-- Test layout for TouchTrackingListViewTest -->
 <org.chromium.components.browser_ui.widget.list_view.TouchTrackingListView xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/touch_tracking_list_view_for_testing"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Impression tracking tests for the promo card
+// summary: Tests that verify the promo card's impression seen callback fires when the card or its primary button becomes visible on screen.
+// ---
+
 package org.chromium.components.browser_ui.widget.promo;
 
 import android.app.Activity;

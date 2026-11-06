@@ -1,6 +1,13 @@
 // Copyright 2020 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: TileView coordinator
+// summary: Coordinator that inflates the TileView from a layout resource and exposes setters that update its property model.
+// ---
+
 package org.chromium.components.browser_ui.widget.tile;
 
 import android.content.Context;

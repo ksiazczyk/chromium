@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigation pane header view
+// summary: Custom LinearLayout view that displays the title text of the navigation pane header.
+// ---
+
 package org.chromium.components.browser_ui.widget.navigation_pane;
 
 import android.content.Context;

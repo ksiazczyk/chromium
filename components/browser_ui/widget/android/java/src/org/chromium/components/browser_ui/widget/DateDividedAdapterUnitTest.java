@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DateDividedAdapterUnitTest
+// summary: Robolectric unit tests for DateDividedAdapter covering item removal, standard and persistent headers, and date grouping behavior.
+// ---
+
 package org.chromium.components.browser_ui.widget;
 
 import static org.junit.Assert.assertEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TextBubbleUnitTest
+// summary: Robolectric unit tests for TextBubble covering on-demand content view creation, popup window wiring, and view rebuilding after dismissal.
+// ---
+
 package org.chromium.components.browser_ui.widget.textbubble;
 
 import static org.junit.Assert.assertNotNull;

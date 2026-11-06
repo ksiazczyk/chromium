@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TouchTrackingListViewTest
+// summary: Unit tests for TouchTrackingListView verifying that completed tap gestures are recorded and incomplete gestures are ignored.
+// ---
+
 package org.chromium.components.browser_ui.widget.list_view;
 
 import static org.junit.Assert.assertEquals;

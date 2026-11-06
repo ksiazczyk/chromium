@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContainmentItemController
+// summary: Generates ContainerStyle objects for preferences and views in settings screens based on item position within a section and custom styling properties.
+// ---
+
 package org.chromium.components.browser_ui.widget.containment;
 
 import static org.chromium.components.browser_ui.styles.SemanticColorUtils.getSettingsContainerBackgroundColor;

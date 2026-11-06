@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TileSizeSupplier – carousel tile dimension calculator
+// summary: Helper that computes tile width and inter-tile padding for the carousel layout from screen dimensions and resources, recomputing on orientation changes.
+// ---
+
 package org.chromium.components.browser_ui.widget.image_tiles;
 
 import android.content.Context;

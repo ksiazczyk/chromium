@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Render tests for ChipView screenshots
+// summary: Parameterized render test that captures ChipView screenshots in default, night mode, and RTL variants and compares them against gold standard images.
+// ---
+
 package org.chromium.components.browser_ui.widget.chips;
 
 import static org.chromium.base.ThreadUtils.runOnUiThreadBlocking;

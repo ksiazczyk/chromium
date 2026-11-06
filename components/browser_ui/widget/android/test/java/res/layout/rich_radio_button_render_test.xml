@@ -4,6 +4,13 @@ Copyright 2025 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: test
+title: RichRadioButton render test layout
+summary: Android test layout showing RichRadioButton variants in horizontal full, title-checked, and minimal unchecked styles for render tests.
+-->
+
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/test_rich_radio_button_layout"
     android:layout_width="match_parent"

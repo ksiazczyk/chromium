@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SelectionDelegate
+// summary: Generic delegate that tracks selected items with single- or multi-selection modes, notifies observers of selection changes, and supports clearing selection.
+// ---
+
 package org.chromium.components.browser_ui.widget.selectable_list;
 
 import org.chromium.base.ObserverList;

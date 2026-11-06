@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AlertDialogEditText
+// summary: An AppCompatEditText wrapper that stores a GURL and reports it as the web domain when providing autofill structure, working around a known bug.
+// ---
+
 package org.chromium.components.browser_ui.widget.text;
 
 import android.annotation.SuppressLint;

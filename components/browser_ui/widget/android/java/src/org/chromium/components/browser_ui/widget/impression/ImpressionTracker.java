@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImpressionTracker
+// summary: Android class that tracks when a configurable portion of a view's height becomes visible and notifies a listener of the impression.
+// ---
+
 package org.chromium.components.browser_ui.widget.impression;
 
 import android.graphics.Rect;

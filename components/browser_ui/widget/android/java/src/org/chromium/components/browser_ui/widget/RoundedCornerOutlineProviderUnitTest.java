@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RoundedCornerOutlineProviderUnitTest
+// summary: Robolectric unit tests verifying rounding, radius updates, padding handling, and RTL behavior of RoundedCornerOutlineProvider.
+// ---
+
 package org.chromium.components.browser_ui.widget;
 
 import android.content.Context;

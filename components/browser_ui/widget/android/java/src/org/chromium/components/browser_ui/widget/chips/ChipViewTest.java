@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Robolectric unit tests for ChipView
+// summary: Robolectric tests verifying ChipView behavior, including primary and secondary text, max width and ellipsize handling, icons, and selection state.
+// ---
+
 package org.chromium.components.browser_ui.widget.chips;
 
 import static android.view.View.MeasureSpec.UNSPECIFIED;

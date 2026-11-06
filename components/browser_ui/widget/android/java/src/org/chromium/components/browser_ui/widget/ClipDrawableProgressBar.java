@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClipDrawableProgressBar
+// summary: Custom progress bar view built on ClipDrawable for simple, performant progress rendering, with drawing info, progress observers, and composited layer visibility support.
+// ---
+
 package org.chromium.components.browser_ui.widget;
 
 import android.content.Context;

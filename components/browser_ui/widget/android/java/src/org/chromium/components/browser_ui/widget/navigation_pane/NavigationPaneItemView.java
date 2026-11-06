@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigation pane item view
+// summary: Custom LinearLayout view that shows the title and icon of a single navigation pane item.
+// ---
+
 package org.chromium.components.browser_ui.widget.navigation_pane;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchBoxViewBinderUnitTest
+// summary: Robolectric unit tests verifying that the binder correctly applies search text, hint, focus, and clear button and loupe visibility properties to the SearchBoxView.
+// ---
+
 package org.chromium.components.browser_ui.widget.search;
 
 import static org.junit.Assert.assertEquals;

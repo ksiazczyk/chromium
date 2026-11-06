@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TouchEventObserver
+// summary: Interface for objects that observe and optionally intercept Android touch events, with guidance on intercepting web content touches.
+// ---
+
 package org.chromium.components.browser_ui.widget;
 
 import android.view.MotionEvent;

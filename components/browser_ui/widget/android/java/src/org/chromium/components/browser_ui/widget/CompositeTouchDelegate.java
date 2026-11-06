@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CompositeTouchDelegate
+// summary: TouchDelegate that combines multiple touch delegates for descendant views sharing one parent, forwarding events to the first delegate that handles them.
+// ---
+
 package org.chromium.components.browser_ui.widget;
 
 import android.graphics.Rect;

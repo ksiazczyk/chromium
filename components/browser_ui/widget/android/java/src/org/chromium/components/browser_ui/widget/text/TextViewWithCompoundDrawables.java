@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TextViewWithCompoundDrawables
+// summary: A TextView supporting explicit sizing and tinting of compound drawables via custom attributes such as drawableWidth, drawableHeight, and chromeDrawableTint.
+// ---
+
 package org.chromium.components.browser_ui.widget.text;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageTileCoordinator
+// summary: Interface for the top-level image tiles coordinator, covering view access, tile updates, refresh behaviour and asynchronous bitmap retrieval.
+// ---
+
 package org.chromium.components.browser_ui.widget.image_tiles;
 
 import android.graphics.Bitmap;

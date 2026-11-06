@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccessibleTextView
+// summary: A TextView subclass that overrides accessibility event and node info initialization so the view is announced as a Button for accessibility purposes.
+// ---
+
 package org.chromium.components.browser_ui.widget.text;
 
 import android.content.Context;

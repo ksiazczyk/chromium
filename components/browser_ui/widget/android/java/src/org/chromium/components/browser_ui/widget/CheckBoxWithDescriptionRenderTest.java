@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CheckBoxWithDescription render tests
+// summary: Render tests capturing images of CheckBoxWithDescription in various text and checked states for visual regression comparison.
+// ---
+
 package org.chromium.components.browser_ui.widget;
 
 import android.app.Activity;

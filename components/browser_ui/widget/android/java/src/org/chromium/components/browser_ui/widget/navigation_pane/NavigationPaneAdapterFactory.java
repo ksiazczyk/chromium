@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigation pane adapter factory
+// summary: Factory that creates a SimpleRecyclerViewAdapter registering view types and binders for navigation items, headers, and dividers.
+// ---
+
 package org.chromium.components.browser_ui.widget.navigation_pane;
 
 import android.content.Context;

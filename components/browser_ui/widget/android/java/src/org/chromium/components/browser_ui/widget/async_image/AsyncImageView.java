@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AsyncImageView
+// summary: Android view that asynchronously loads an image and displays it when ready, showing waiting and unavailable foreground drawables until the image arrives.
+// ---
+
 package org.chromium.components.browser_ui.widget.async_image;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NumberRollView
+// summary: View that displays an integer with a smooth roll animation on change and supports plural strings including a special zero case.
+// ---
+
 package org.chromium.components.browser_ui.widget;
 
 import android.animation.Animator;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PromoDialog
+// summary: Abstract base class for promo dialogs with parameters for the illustration, header, description, footer, and button labels.
+// ---
+
 package org.chromium.components.browser_ui.widget;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

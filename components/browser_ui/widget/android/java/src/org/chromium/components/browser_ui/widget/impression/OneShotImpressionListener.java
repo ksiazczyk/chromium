@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OneShotImpressionListener
+// summary: Listener wrapper that forwards only the first ImpressionTracker impression, useful for recording whether a view has ever been seen.
+// ---
+
 package org.chromium.components.browser_ui.widget.impression;
 
 import org.chromium.build.annotations.NullMarked;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutoAnimatorDrawable
+// summary: Drawable wrapper that automatically starts and stops any animatable drawables in its hierarchy whenever the drawable becomes visible or hidden.
+// ---
+
 package org.chromium.components.browser_ui.widget.async_image;
 
 import android.graphics.drawable.Animatable;

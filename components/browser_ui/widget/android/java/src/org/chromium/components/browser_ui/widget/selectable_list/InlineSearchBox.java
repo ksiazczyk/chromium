@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InlineSearchBox
+// summary: Manages the inline one-line search box UI used in the History page's normal view, handling layout inflation, text changes, focus, and clear button interactions.
+// ---
+
 package org.chromium.components.browser_ui.widget.selectable_list;
 
 import android.content.Context;

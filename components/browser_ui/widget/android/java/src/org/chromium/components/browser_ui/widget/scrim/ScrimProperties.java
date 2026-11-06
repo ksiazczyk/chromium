@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scrim property keys for scrim behavior
+// summary: Defines the property keys describing scrim behavior, including margins, anchor view, background color, click and gesture delegates, and system bar effects.
+// ---
+
 package org.chromium.components.browser_ui.widget.scrim;
 
 import android.view.GestureDetector;

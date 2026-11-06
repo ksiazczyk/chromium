@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeTransitionDrawable
+// summary: LayerDrawable-based reimplementation of TransitionDrawable that animates between two drawables, including vector drawables, using an animator with configurable duration and end actions.
+// ---
+
 package org.chromium.components.browser_ui.widget;
 
 import android.animation.Animator;

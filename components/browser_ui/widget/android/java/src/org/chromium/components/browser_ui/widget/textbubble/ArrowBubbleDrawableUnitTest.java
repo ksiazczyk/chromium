@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ArrowBubbleDrawableUnitTest
+// summary: Robolectric unit tests verifying corner radius handling and idempotent behavior across bounds changes in ArrowBubbleDrawable.
+// ---
+
 package org.chromium.components.browser_ui.widget.textbubble;
 
 import static org.junit.Assert.assertEquals;

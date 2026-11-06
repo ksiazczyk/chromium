@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the widget directory
+summary: Assigns per-file code owners for the menu, context menu, list item builder, and spinner button wrapper files in this directory.

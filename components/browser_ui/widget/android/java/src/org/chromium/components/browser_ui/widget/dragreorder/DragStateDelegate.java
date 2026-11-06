@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DragStateDelegate
+// summary: Interface that tracks whether drag is enabled and whether drag is currently active for a list.
+// ---
+
 package org.chromium.components.browser_ui.widget.dragreorder;
 
 import org.chromium.build.annotations.NullMarked;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchBoxViewBinder
+// summary: Binds search box property model changes to the SearchBoxView by mapping each property key to the corresponding view setter.
+// ---
+
 package org.chromium.components.browser_ui.widget.search;
 
 import org.chromium.build.annotations.NullMarked;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DualControlLayout
+// summary: Custom ViewGroup that lays out one or two views side by side or stacked, with alignment options and standardized button creation for infobars.
+// ---
+
 package org.chromium.components.browser_ui.widget;
 
 import android.content.Context;

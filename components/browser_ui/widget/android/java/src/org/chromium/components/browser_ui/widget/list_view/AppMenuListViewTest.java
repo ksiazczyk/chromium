@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AppMenuListViewTest
+// summary: Integration tests for AppMenuListView covering keyboard focus navigation across composite list rows containing multiple focusable child views.
+// ---
+
 package org.chromium.components.browser_ui.widget.list_view;
 
 import static org.junit.Assert.assertEquals;

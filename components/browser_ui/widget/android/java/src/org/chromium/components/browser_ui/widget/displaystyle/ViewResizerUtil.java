@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: ViewResizerUtil
+// summary: Utility for ViewResizer that computes wide-display padding from the container or screen width, with a minimum padding fallback.
+// ---
+
 package org.chromium.components.browser_ui.widget.displaystyle;
 
 import static org.chromium.components.browser_ui.widget.displaystyle.UiConfig.WIDE_DISPLAY_STYLE_MIN_WIDTH_DP;

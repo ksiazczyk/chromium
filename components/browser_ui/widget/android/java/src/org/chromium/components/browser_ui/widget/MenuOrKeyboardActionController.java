@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MenuOrKeyboardActionController interface
+// summary: Interface for registering and unregistering handlers that process menu item selections and keyboard shortcuts in the browser UI.
+// ---
+
 package org.chromium.components.browser_ui.widget;
 
 import android.os.Bundle;

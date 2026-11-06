@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TileListModel
+// summary: List model for the tile UI that extends ListModel<ImageTile> and exposes shared list properties via a PropertyModel.
+// ---
+
 package org.chromium.components.browser_ui.widget.image_tiles;
 
 import org.chromium.build.annotations.NullMarked;

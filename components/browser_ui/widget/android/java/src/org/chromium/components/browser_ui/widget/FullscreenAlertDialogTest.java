@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FullscreenAlertDialogTest
+// summary: Instrumentation tests verifying that FullscreenAlertDialog can be created and shown both from a DialogFragment and directly from its constructor.
+// ---
+
 package org.chromium.components.browser_ui.widget;
 
 import static com.google.common.truth.Truth.assertThat;

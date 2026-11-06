@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FullscreenAlertDialogUnitTest
+// summary: Robolectric unit tests checking that FullscreenAlertDialog wraps content in an edge-to-edge layout and applies inset padding, with padding disabled on automotive.
+// ---
+
 package org.chromium.components.browser_ui.widget;
 
 import static com.google.common.truth.Truth.assertThat;

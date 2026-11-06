@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ContainmentItemControllerTest
+// summary: Robolectric tests verifying that ContainmentItemController generates the expected styles for visible preferences in a settings screen.
+// ---
+
 package org.chromium.components.browser_ui.widget.containment;
 
 import static org.junit.Assert.assertEquals;

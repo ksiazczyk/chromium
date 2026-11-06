@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RadioButtonWithDescription
+// summary: Custom Android radio button view showing primary and descriptive text with an optional icon and replaceable end view, designed for use in radio groups.
+// ---
+
 package org.chromium.components.browser_ui.widget;
 
 import static org.chromium.components.browser_ui.widget.containment.ContainmentUiUtils.parseContainmentAttributes;
