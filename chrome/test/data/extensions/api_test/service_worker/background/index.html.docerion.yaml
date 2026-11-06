@@ -1,0 +1,4 @@
+# Docerion header of index.html.
+type: test
+title: Index test page
+summary: Minimal HTML page provided as test content, likely used as a fetch or navigation target in the tests.

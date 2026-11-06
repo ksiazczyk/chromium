@@ -1,0 +1,4 @@
+# Docerion header of iframe.html.
+type: test
+title: Test iframe page for web accessible resources
+summary: Loads iframe.js so the extension-served iframe can answer ping messages during the web accessible resources test.

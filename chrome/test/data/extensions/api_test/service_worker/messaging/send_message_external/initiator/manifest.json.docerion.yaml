@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Initiator extension manifest for external messaging test
+summary: Manifest for the initiator extension used in the Messaging_ExternalMessageToWorker service worker test, registering its background service worker.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Console error test extension manifest
+summary: Manifest for a test MV3 extension whose service worker background script reports a console error to the UI.

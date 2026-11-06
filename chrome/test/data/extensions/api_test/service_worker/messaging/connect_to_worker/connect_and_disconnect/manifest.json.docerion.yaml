@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the port connect and disconnect test extension
+summary: Extension manifest registering the content script and service worker background for the tab-to-service-worker connect and disconnect test.

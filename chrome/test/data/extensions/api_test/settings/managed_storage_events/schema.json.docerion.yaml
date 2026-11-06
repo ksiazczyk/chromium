@@ -1,0 +1,4 @@
+# Docerion header of schema.json.
+type: test
+title: Managed storage schema for the events test extension
+summary: JSON schema declaring the policy properties used by the managed storage events test extension's managed storage namespace.

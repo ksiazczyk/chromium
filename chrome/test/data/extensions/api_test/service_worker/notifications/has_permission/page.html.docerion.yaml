@@ -1,0 +1,4 @@
+# Docerion header of page.html.
+type: test
+title: Test page for the service worker notifications test
+summary: Minimal extension page that loads page.js to run the service worker notification tests.

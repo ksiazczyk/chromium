@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker that strips the CSP header
+// summary: Test service worker that intercepts the extension page request, reports the content-security-policy header via chrome.test, removes it, and signals readiness on activation.
+// ---
+
 self.addEventListener('fetch', event => {
   if (!event.request.url.endsWith('extension_page.html')) {
     return;

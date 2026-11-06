@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: ProcessManager test extension manifest
+summary: Manifest for the test extension that registers service_worker_background.js as its service worker to test ProcessManager behavior on worker shutdown.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Shared module allowlist test manifest
+summary: Manifest for a Chrome extension API test that exercises the shared module export allowlist.

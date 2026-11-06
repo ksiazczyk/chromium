@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the send message test extension
+summary: Manifest V3 extension manifest declaring a content script for localhost pages and a service worker background script for the messaging test.

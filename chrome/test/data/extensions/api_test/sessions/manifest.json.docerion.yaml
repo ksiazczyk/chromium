@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: config
+title: chrome.sessions test extension manifest
+summary: Manifest for the chrome.sessions end-to-end browser test extension, declaring version 3 and the sessions and tabs permissions.

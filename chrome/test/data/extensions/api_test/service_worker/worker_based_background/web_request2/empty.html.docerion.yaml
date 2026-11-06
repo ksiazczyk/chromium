@@ -1,0 +1,4 @@
+# Docerion header of empty.html.
+type: test
+title: Empty test page for webRequest API test
+summary: Minimal HTML page titled 'Unmodified' that serves as the navigation target for the webRequest service worker extension test.

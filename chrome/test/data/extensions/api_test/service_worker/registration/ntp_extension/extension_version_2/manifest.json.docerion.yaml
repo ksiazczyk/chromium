@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the version 2 NTP extension test
+summary: Manifest v3 definition of the version 2 test extension with a service worker background and new tab override.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background script recording webRequest onBeforeRequest events
+// summary: Background script for the test extension that listens to webRequest onBeforeRequest events and reports the last hooked request path via domAutomationController.
+// ---
+
 chrome.webRequest.onBeforeRequest.addListener(
     onBeforeRequest, {urls: ['*://*/*hello.txt*']});
 

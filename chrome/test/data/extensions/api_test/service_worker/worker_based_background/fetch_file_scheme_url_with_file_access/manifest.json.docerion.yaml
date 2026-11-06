@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for file scheme fetch service worker test
+summary: Manifest for a service worker-based extension test that verifies fetching a file scheme URL succeeds when file access is granted.

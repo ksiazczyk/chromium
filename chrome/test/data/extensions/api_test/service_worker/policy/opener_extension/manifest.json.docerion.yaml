@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for service worker policy opener test extension
+summary: Manifest defining the test extension with a service worker background, used to verify the ExtensionExtendedBackgroundLifetimeForPortConnectionsToUrls policy.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for notification click user gesture test extension
+summary: Manifest v2 extension manifest declaring the notifications permission and a service worker background for the notification click API test.

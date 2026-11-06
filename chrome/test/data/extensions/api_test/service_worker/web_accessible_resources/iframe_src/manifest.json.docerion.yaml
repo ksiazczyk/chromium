@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the web accessible resources test extension
+summary: Manifest v2 test extension declaring web accessible resources served by a service worker, with background.js as background script.

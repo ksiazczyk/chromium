@@ -1,0 +1,4 @@
+# Docerion header of ntp.html.
+type: test
+title: Custom new tab page for the version 2 test extension
+summary: HTML page serving as the custom new tab page and loading the NTP script.

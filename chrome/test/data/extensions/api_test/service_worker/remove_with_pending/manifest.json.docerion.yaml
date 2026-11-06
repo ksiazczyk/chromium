@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test extension manifest
+summary: Manifest for the test extension, declaring manifest version 3, split incognito mode, and sw.js as the background service worker.

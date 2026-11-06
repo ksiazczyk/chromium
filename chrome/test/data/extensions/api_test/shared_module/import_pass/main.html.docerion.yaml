@@ -1,0 +1,4 @@
+# Docerion header of main.html.
+type: test
+title: Shared module import test background page
+summary: Background page for the test app that loads the imported shared module script and the check script.

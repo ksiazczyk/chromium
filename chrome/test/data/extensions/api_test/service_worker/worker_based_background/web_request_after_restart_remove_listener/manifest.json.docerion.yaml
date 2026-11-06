@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for webRequest after restart listener removal test
+summary: Manifest for the test extension that runs a service worker background script with webRequest permissions to test event delivery to a stopped extension.

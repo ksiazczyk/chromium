@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the service worker tabs events test extension
+summary: Manifest for a test extension that runs a service worker background script exercising the tabs events APIs.

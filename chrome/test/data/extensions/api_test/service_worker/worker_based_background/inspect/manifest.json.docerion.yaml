@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Service worker background inspect test manifest
+summary: Manifest for the service worker-based background extension test, registering script.js as the extension's background service worker.

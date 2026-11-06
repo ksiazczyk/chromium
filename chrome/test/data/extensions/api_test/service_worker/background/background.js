@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker test framework script
+// summary: Registers a service worker and provides shared messaging and testing utilities for the ServiceWorkerTest API tests.
+// ---
+
 'use strict';
 
 // This is a common file for all service worker tests, which registers a

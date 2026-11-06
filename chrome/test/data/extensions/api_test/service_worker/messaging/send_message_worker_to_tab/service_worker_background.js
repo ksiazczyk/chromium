@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker background script for worker-to-tab messaging test
+// summary: Service worker background script that creates a test tab and sends it a message via chrome.tabs.sendMessage, asserting the round-trip response succeeds.
+// ---
+
 const TEST_FILE_URL = 'http://127.0.0.1:PORT/extensions/test_file.html';
 
 chrome.test.getConfig((config) => {

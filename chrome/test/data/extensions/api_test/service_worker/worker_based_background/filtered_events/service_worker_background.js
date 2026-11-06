@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Filtered events service worker background test
+// summary: Service worker background script running chrome.test checks that webNavigation.onCommitted listeners with URL path filters fire only for matching navigations.
+// ---
+
 chrome.test.runTests([
   function testWebNavigationOnCommitted() {
     const getURL = chrome.runtime.getURL;

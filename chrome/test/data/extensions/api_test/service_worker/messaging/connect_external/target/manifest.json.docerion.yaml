@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for external connect target test extension
+summary: Manifest for the target extension in the service worker external messaging API test, registering a service worker background page.

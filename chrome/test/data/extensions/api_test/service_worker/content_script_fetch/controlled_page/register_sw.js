@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker registration helper for content script fetch test
+// summary: Registers the test service worker, waits until it controls the page, and fetches a check URL to report the result.
+// ---
+
 function register() {
   const script = './sw.js';
   const scope = './';

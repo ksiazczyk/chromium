@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for chrome.app undefined test extension
+summary: Manifest for a test extension that registers a service worker background script to verify chrome.app binding behavior.

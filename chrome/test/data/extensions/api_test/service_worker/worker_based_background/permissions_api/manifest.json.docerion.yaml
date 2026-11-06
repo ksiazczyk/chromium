@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Permissions request test extension manifest
+summary: Manifest for a Chrome extension test that verifies action.onClicked can call permissions.request with an optional storage permission.

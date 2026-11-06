@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Storage split incognito test background script
+// summary: Background script for the split-mode incognito extension test that runs storage actions and verifies onChanged notifications across the sync, local and session namespaces.
+// ---
+
 // Whether we've seen an onChanged event fire since the last modification
 // we're listening for.
 let seenLatestEvent = false;

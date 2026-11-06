@@ -1,0 +1,4 @@
+# Docerion header of empty.html.
+type: test
+title: Empty HTML page for webRequest service worker test
+summary: Minimal HTML page loaded in a tab to trigger webRequest events during the extension API test.

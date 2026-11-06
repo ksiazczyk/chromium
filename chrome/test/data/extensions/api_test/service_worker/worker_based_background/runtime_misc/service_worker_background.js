@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker test for chrome.runtime.id and getURL
+// summary: Service worker background script that tests chrome.runtime.id and chrome.runtime.getURL using chrome.test assertions.
+// ---
+
 const EXTENSION_ID = 'pkplfbidichfdicaijlchgnapepdginl';
 
 chrome.test.runTests([

@@ -1,0 +1,4 @@
+# Docerion header of hello.txt.
+type: test
+title: Hello text fixture
+summary: Small text fixture containing the word hello, served as the fetch target for the service worker fetch test.

@@ -1,0 +1,4 @@
+# Docerion header of inner.html.
+type: test
+title: Inner iframe test page
+summary: Minimal HTML page that loads inner.js inside the HTTPS inner iframe of the secure-context test.

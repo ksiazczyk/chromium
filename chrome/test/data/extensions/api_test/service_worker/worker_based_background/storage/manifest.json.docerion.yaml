@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Service worker storage test manifest.json
+summary: Manifest for a Chrome extension API test that exercises storage APIs from a service worker-based background script, declaring the storage permission and the background service worker.

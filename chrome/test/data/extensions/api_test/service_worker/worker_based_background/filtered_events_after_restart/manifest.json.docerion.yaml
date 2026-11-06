@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the filtered events test extension
+summary: Extension manifest declaring the service worker background and the webNavigation permission for the test extension.

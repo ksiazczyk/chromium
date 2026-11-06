@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Early event dispatch test extension manifest
+summary: Manifest for the worker-based background test extension that checks event dispatch shortly after service worker registration.

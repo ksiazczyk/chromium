@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker background script for basic test
+// summary: Service worker background script that reports whether it runs in a ServiceWorkerGlobalScope and listens for tab creation to send CREATED or CREATE_FAILED test messages.
+// ---
+
 const isInstanceOfServiceWorkerGlobalScope =
     ('ServiceWorkerGlobalScope' in self) &&
     (self instanceof ServiceWorkerGlobalScope);

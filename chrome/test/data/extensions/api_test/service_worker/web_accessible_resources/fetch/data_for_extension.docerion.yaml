@@ -1,0 +1,4 @@
+# Docerion header of data_for_extension.
+type: test
+title: Web accessible resource test data
+summary: Plain-text resource that the test extension fetches before the service worker takes control of requests.

@@ -1,0 +1,4 @@
+# Docerion header of schema.json.
+type: test
+title: Managed storage policy schema for the test extension
+summary: Defines the managed storage schema with string, integer, number, boolean, list and dictionary policy properties.

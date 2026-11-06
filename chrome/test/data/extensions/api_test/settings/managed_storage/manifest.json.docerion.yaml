@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the managed storage test extension
+summary: Extension manifest that registers background.js as a service worker and points the storage managed_schema at schema.json for the API tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MIME handler view service worker test background script
+// summary: Background script of the test extension that registers the service worker, records URLs it sees, and passes the test once the MIME handler reports completion.
+// ---
+
 const seenPathsByServiceWorker = [];
 
 // Called by mime_handler.js at the end of the test:

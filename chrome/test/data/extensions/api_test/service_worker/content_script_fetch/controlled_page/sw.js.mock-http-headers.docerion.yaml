@@ -1,0 +1,4 @@
+# Docerion header of sw.js.mock-http-headers.
+type: test
+title: Mock HTTP headers for the test service worker
+summary: Mock HTTP response headers that let the test server serve the service worker script with a JavaScript content type.

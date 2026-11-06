@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for module service worker dynamic import test
+summary: Manifest for the test extension that registers service_worker_background.js as a module-type service worker background script.

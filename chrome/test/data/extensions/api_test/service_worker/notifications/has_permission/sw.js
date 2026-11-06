@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker handling notification test messages
+// summary: Service worker that replies to page messages by verifying Notification.permission is granted and calling registration.showNotification().
+// ---
+
 this.onmessage = function(e) {
   const respond = function(message) {
     e.ports[0].postMessage(message);

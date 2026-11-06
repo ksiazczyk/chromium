@@ -1,0 +1,4 @@
+# Docerion header of page.html.
+type: test
+title: Test page for the service worker fetch extension
+summary: HTML page that loads page.js to run the web accessible resources fetch test.

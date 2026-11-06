@@ -1,0 +1,4 @@
+# Docerion header of messages.json.
+type: test
+title: Shared module locale messages test fixture
+summary: Locale messages fixture for the shared module extension API test, defining a shared module message and a message intended to be overridden by the importer.

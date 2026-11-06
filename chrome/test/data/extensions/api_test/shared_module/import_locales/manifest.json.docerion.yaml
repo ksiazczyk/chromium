@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Shared Module Import Locale Test manifest
+summary: Manifest for the shared module locale import test extension, importing a shared module by ID and setting English as the default locale.

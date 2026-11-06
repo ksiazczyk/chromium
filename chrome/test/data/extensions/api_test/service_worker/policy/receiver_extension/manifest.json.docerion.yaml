@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for service worker policy receiver extension
+summary: Manifest for the receiver test extension with a fixed ID, service worker background and externally connectable settings, used to verify the ExtensionExtendedBackgroundLifetimeForPortConnectionsToUrls policy.

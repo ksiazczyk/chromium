@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MIME handler frame script
+// summary: Script running in the MIME-handler OOPIF that reads the originalUrl fragment from getStreamInfo, injects an HTTPS inner URL into the iframe, and forwards inner-frame reports via chrome.test.
+// ---
+
 // Runs in the MIME-handler OOPIF (chrome-extension://<id>/handler.html)
 // after an application/pdf navigation is routed through the new generic
 // MIME handler (`extensions_features::kApiMimeHandler`). Reads the

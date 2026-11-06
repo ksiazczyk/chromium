@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension page logic for the service worker notifications test
+// summary: Registers sw.js as a service worker and runs chrome.test cases that check notification permission and show a notification through the worker.
+// ---
+
 const startServiceWorker = function() {
   return new Promise(function(resolve, reject) {
     navigator.serviceWorker.register('sw.js')

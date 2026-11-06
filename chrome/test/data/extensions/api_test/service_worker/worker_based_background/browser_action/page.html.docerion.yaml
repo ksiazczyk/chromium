@@ -1,0 +1,4 @@
+# Docerion header of page.html.
+type: test
+title: Blank target page for action user gesture test
+summary: Minimal HTML page opened by the test via chrome.tabs.create as a target for checking gesture state in API callbacks.

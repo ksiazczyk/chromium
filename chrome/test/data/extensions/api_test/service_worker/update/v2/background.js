@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker update test v2 background script
+// summary: Test extension background script that waits for the service worker controller change, pings the active worker over a message channel, and reports replies via chrome.test.
+// ---
+
 const controllerChangePromise = new Promise(function(resolve, reject) {
   navigator.serviceWorker.oncontrollerchange = function(e) {
     navigator.serviceWorker.ready

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Undefined variable test extension manifest
+summary: Manifest for a test extension whose service worker background script intentionally references an undefined variable to verify error reporting.

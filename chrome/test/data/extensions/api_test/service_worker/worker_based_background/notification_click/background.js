@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker background for notification click user gesture test
+// summary: Service worker test background that shows a notification on activation and asserts user gesture state in onnotificationclick and extension API callbacks.
+// ---
+
 // By default there should not be any user gesture present.
 chrome.test.assertFalse(chrome.test.isProcessingUserGesture());
 

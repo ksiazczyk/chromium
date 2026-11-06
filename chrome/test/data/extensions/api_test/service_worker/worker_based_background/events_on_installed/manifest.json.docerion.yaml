@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for service worker onInstalled extension test
+summary: Manifest for a test extension whose service worker background page is used to test the chrome.runtime.onInstalled event.

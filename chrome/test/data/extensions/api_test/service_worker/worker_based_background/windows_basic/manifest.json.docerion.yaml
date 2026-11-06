@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the service worker-based background windows API test extension
+summary: Manifest for a test extension that registers service_worker_background.js as a service worker background script with the tabs permission to test windows APIs.

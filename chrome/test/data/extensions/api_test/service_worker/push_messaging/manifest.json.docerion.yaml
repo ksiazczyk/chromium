@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Push messaging service worker test extension manifest
+summary: Extension manifest for the browser test that verifies self.onpush() handling from a service worker, using manifest version 3.

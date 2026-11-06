@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the tabs.sendMessage without callback test extension
+summary: Manifest version 3 extension manifest registering the content script and service worker background used by the tabs.sendMessage API test.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the service worker webRequest test extension
+summary: Extension manifest that requests webRequest permissions for all URLs and registers the service worker background script for the test.

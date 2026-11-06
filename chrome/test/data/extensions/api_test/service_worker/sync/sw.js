@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker script for the sync test
+// summary: Service worker that handles onsync events by posting the sync tag back to the test page over a connected message port.
+// ---
+
 let port = null;
 this.onsync = function(e) {
   if (port) {

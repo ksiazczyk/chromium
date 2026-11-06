@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser action user gesture test background script
+// summary: Service worker test background that verifies user gesture state during action click handling and in nested chrome.tabs.create API callbacks.
+// ---
+
 const initialUserGesture = chrome.test.isProcessingUserGesture();
 
 chrome.action.onClicked.addListener(() => {

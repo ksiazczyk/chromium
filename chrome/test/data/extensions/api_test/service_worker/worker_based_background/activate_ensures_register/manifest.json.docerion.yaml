@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Deleted SW registration test manifest
+summary: Chrome extension manifest for a browser test verifying that a deleted service worker registration is re-registered, using a manifest v3 background service worker.

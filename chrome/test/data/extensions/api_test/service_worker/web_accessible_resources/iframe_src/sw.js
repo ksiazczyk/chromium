@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker serving iframe test resources
+// summary: Intercepts fetches for iframe resources and serves HTML and script responses that reply with FROM_SW_RESOURCE.
+// ---
+
 const swIframeHTMLResponse = `<script src="iframe_sw.js"></script>`;
 
 const swIframeNonExistentHTMLResponse =

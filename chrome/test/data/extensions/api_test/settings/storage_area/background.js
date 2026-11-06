@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: StorageArea.onChanged test background script
+// summary: Background service worker script that runs a chrome.test suite verifying onChanged fires on both the StorageArea and chrome.storage for local storage changes.
+// ---
+
 const storageAreaOnChanged = function() {
   // Checks the onChanged callback is called from both StorageArea and
   // chrome.storage.

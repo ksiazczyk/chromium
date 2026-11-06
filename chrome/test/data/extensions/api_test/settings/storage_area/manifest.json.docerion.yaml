@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: StorageArea.onChanged test extension manifest
+summary: Manifest for the test extension that registers the storage permission and the background service worker used by the StorageArea.onChanged API test.

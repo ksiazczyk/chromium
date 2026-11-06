@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker background message listener
+// summary: Service worker background script that listens for runtime messages, stores sendResponse to keep the port open, and signals test success.
+// ---
+
 chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
   // Store the sendResponse to prevent it from garbage collection, which
   // may result in closing the port.

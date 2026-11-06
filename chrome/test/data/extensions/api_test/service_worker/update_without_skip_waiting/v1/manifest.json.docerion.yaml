@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Service worker update test extension manifest v1
+summary: Manifest for the version 1 test extension used in the service worker update_without_skip_waiting API test.

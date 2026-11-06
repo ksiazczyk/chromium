@@ -1,0 +1,4 @@
+# Docerion header of page.html.
+type: test
+title: Test page for the service worker update extension
+summary: Minimal extension page that loads the script driving service worker registration and update checks.

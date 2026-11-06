@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: config
+title: Manifest for content script fetch test extension
+summary: Extension manifest version 2 declaring the background script, content script, permissions, and the web-accessible data resource used by the API test.

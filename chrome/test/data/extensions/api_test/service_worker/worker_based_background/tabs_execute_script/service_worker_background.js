@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker background tabs.executeScript tests
+// summary: Service worker background script that runs tests verifying chrome.tabs.executeScript with both inline code and a script file.
+// ---
+
 let urlToLoad;
 
 chrome.test.runTests([

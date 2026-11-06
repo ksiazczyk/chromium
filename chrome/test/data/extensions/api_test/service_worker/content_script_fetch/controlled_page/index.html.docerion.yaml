@@ -1,0 +1,4 @@
+# Docerion header of index.html.
+type: test
+title: Controlled page for content script fetch test
+summary: HTML page that loads the script registering the test service worker for the content script fetch test.

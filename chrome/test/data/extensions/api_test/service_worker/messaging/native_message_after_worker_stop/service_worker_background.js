@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker test script for native messaging after worker stop
+// summary: Background service worker that connects to a native messaging host, sends a test message, and asserts the echoed reply for the extension API test.
+// ---
+
 const appName = 'com.google.chrome.test.echo';
 const EXTENSION_URL = 'chrome-extension://knldjmfmopnpolahpmmgbagdohdnhkik/';
 

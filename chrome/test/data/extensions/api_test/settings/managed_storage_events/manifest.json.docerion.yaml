@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the managed storage events test extension
+summary: Extension manifest that registers the background service worker and managed storage schema for the managed storage events API test.

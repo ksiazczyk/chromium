@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Service worker update test extension manifest
+summary: Manifest for version 1.0 of the test extension used in the service worker update API test, loading background.js as the background script.

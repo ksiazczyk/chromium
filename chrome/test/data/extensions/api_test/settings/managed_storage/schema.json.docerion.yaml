@@ -1,0 +1,4 @@
+# Docerion header of schema.json.
+type: test
+title: Managed policy schema for the managed storage test
+summary: JSON schema defining the policy types and enums that the managed storage test extension accepts, including keys that must be hidden from the extension.

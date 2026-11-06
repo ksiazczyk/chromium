@@ -1,0 +1,4 @@
+# Docerion header of test.html.
+type: test
+title: Test page loading test.js
+summary: Minimal HTML page that includes test.js as the entry point for the extension API browser test.
