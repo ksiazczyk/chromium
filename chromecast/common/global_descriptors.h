@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Global descriptor keys
+// summary: Enumerates global descriptor keys used with base::GlobalDescriptors, including Android pak and minidump descriptors.
+// ---
+
 #ifndef CHROMECAST_COMMON_GLOBAL_DESCRIPTORS_H_
 #define CHROMECAST_COMMON_GLOBAL_DESCRIPTORS_H_
 

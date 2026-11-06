@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Child log process declarations
+// summary: Declares functions that fork and run a logging process when specified through command-line switches.
+// ---
+
 #ifndef CHROMECAST_CAST_CORE_CHILD_LOG_PROCESS_H_
 #define CHROMECAST_CAST_CORE_CHILD_LOG_PROCESS_H_
 

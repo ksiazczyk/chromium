@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aura focus client implementation
+// summary: Implements CastFocusClientAura, which tracks and restores window focus in the Aura hierarchy and locks focus to the topmost high-level window.
+// ---
+
 #include "chromecast/graphics/cast_focus_client_aura.h"
 
 #include <algorithm>

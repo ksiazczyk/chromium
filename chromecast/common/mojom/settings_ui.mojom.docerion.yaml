@@ -1,0 +1,4 @@
+# Docerion header of settings_ui.mojom.
+type: source
+title: Settings UI Mojo interfaces
+summary: Defines SettingsClient and SettingsPlatform interfaces plus side-swipe enums used by the built-in settings UI on smart display devices.

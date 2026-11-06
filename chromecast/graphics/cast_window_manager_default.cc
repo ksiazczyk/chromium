@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastWindowManagerDefault implementation
+// summary: No-op default implementation of the CastWindowManager interface whose window, event, gesture, and touch methods are all empty stubs.
+// ---
+
 #include "chromecast/graphics/cast_window_manager_default.h"
 
 #include "base/memory/ptr_util.h"

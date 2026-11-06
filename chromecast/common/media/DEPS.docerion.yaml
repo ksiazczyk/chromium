@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for chromecast common media
+summary: Allowlists includes from chromecast/media, components/cdm/common, and media/base for files in this directory.

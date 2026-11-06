@@ -1,6 +1,13 @@
 // Copyright 2021 The Chromium Authors. All rights reserved.
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: gRPC server tests
+// summary: Unit tests for GrpcServer startup, including malformed endpoints and TCP or Unix domain socket endpoint validation.
+// ---
+
 #include "chromecast/cast_core/grpc/grpc_server.h"
 
 #include <cstdlib>

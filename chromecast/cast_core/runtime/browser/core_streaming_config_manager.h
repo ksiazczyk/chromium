@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CoreStreamingConfigManager class header
+// summary: Declares CoreStreamingConfigManager, which retrieves a cast streaming receiver config via an AV settings message port query.
+// ---
+
 #ifndef CHROMECAST_CAST_CORE_RUNTIME_BROWSER_CORE_STREAMING_CONFIG_MANAGER_H_
 #define CHROMECAST_CAST_CORE_RUNTIME_BROWSER_CORE_STREAMING_CONFIG_MANAGER_H_
 

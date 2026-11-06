@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GrpcCall base class for gRPC client calls
+// summary: Base class holding the stub, request and call options shared by gRPC client call implementations.
+// ---
+
 #ifndef CHROMECAST_CAST_CORE_GRPC_GRPC_CALL_H_
 #define CHROMECAST_CAST_CORE_GRPC_GRPC_CALL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastSystemGestureEventHandler class declaration
+// summary: Declares a ui::EventHandler that observes touch and gesture events on the root window and dispatches them to the cast system gesture dispatcher.
+// ---
+
 #ifndef CHROMECAST_GRAPHICS_GESTURES_CAST_SYSTEM_GESTURE_EVENT_HANDLER_H_
 #define CHROMECAST_GRAPHICS_GESTURES_CAST_SYSTEM_GESTURE_EVENT_HANDLER_H_
 

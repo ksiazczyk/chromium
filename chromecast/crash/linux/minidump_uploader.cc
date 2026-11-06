@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MinidumpUploader implementation
+// summary: Implements uploading of all collected minidumps to the crash server, including pref service setup, lockfile handling, and filtering of obsolete dumps.
+// ---
+
 #include "chromecast/crash/linux/minidump_uploader.h"
 
 #include <errno.h>

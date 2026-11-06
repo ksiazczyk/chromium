@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device scale factor utility header
+// summary: Declares GetDeviceScaleFactor, which computes the default scale factor for a display resolution so Cast content fills larger screens.
+// ---
+
 #ifndef CHROMECAST_GRAPHICS_CAST_DISPLAY_UTIL_H_
 #define CHROMECAST_GRAPHICS_CAST_DISPLAY_UTIL_H_
 

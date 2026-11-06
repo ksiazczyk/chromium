@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the Cast Core runtime content browser client
+// summary: Implements the Cast Core content browser client, creating a cast service that starts and stops the runtime service and overriding CDM, switch, and buffering behavior.
+// ---
+
 #include "chromecast/cast_core/runtime/browser/cast_runtime_content_browser_client.h"
 
 #include "base/command_line.h"

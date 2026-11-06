@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Timing tracker class and macro
+// summary: Declares a simple RAII time span profiler and the CHROMECAST_TIMING_TRACKER macro for function-level timing logs.
+// ---
+
 #ifndef CHROMECAST_COMMON_TIMING_TRACKER_H_
 #define CHROMECAST_COMMON_TIMING_TRACKER_H_
 

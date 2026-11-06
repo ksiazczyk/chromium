@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for Cast Core renderer
+summary: Specifies the allowed include paths for code in the Cast Core runtime renderer directory.

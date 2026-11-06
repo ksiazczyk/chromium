@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User agent unit test
+// summary: Verifies that GetUserAgent produces the expected platform-specific user agent string including the CrKey token and device suffix.
+// ---
+
 #include "chromecast/common/user_agent.h"
 
 #include "base/strings/stringprintf.h"

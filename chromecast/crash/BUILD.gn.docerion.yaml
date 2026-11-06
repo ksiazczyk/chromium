@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for Chromecast crash reporting (BUILD.gn)
+summary: Defines GN source sets, the crash_uploader executable and cast_crash_unittests for the Cast crash reporting code.

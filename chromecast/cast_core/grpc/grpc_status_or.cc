@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: gRPC status to string conversion
+// summary: Implements GrpcStatusToString, mapping gRPC status codes to readable strings for logging and output.
+// ---
+
 #include "chromecast/cast_core/grpc/grpc_status_or.h"
 
 namespace cast {

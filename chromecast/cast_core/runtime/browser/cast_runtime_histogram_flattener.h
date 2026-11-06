@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast runtime histogram flattener header
+// summary: Declares GetHistogramDeltas, which returns the current uncollected histogram samples as cast::metrics::Histogram messages.
+// ---
+
 #ifndef CHROMECAST_CAST_CORE_RUNTIME_BROWSER_CAST_RUNTIME_HISTOGRAM_FLATTENER_H_
 #define CHROMECAST_CAST_CORE_RUNTIME_BROWSER_CAST_RUNTIME_HISTOGRAM_FLATTENER_H_
 

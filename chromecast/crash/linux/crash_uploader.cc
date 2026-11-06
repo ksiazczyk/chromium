@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crash uploader main program
+// summary: Entry point that runs the minidump uploader, optionally as a daemon retrying every 60 seconds, and reboots the device when scheduled.
+// ---
+
 #include <sys/resource.h>
 
 #include <memory>

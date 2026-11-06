@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CastTouchEventGate tests
+// summary: Tests CastTouchEventGate behavior for enabling, disabling, and observer notifications when touch events are gated.
+// ---
+
 #include "chromecast/graphics/cast_touch_event_gate.h"
 
 #include <memory>

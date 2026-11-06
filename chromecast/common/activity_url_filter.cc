@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Activity URL whitelist matching implementation
+// summary: Implements ActivityUrlFilter by building url_matcher condition sets from whitelisted URL patterns and checking whether a given URL matches any of them.
+// ---
+
 #include "chromecast/common/activity_url_filter.h"
 
 namespace chromecast {

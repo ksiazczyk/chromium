@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeExternalConnector implementation
+// summary: Implements FakeExternalConnector, a local single-process connector that registers mock services and routes interface bind requests for tests.
+// ---
+
 #include "chromecast/external_mojo/external_service_support/fake_external_connector.h"
 
 #include <utility>

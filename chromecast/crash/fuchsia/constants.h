@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast crash namespace constant declaration
+// summary: Declares the kCastNamespace constant used as the annotation namespace for Cast crash data uploads.
+// ---
+
 #ifndef CHROMECAST_CRASH_FUCHSIA_CONSTANTS_H_
 #define CHROMECAST_CRASH_FUCHSIA_CONSTANTS_H_
 

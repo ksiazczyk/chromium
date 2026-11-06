@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GrpcCallOptions implementation
+// summary: Implements deadline handling for gRPC client calls, including conversion of durations to gpr_timespec.
+// ---
+
 #include "chromecast/cast_core/grpc/grpc_call_options.h"
 
 #include <grpcpp/grpcpp.h>

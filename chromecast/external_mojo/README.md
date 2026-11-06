@@ -1,3 +1,9 @@
+---
+type: readme
+title: External Mojo services
+summary: Explains that this directory enables Mojo services outside cast_shell to communicate with services inside it, describing the broker_service, external_service_support, and common subdirectories.
+---
+
 # External Mojo services
 
 This directory contains code that allows Mojo services in processes outside of

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QueryableDataHostFuchsia implementation
+// summary: Implements SendQueryableValue for Fuchsia, which currently logs a not-implemented error pending an async runner FIDL call.
+// ---
+
 #include "chromecast/fuchsia/queryable_data_host_fuchsia.h"
 
 #include "base/values.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GrpcServerStreamingHandler
+// summary: Defines a generic handler for server streaming gRPC APIs where one request is followed by multiple responses from the server.
+// ---
+
 #ifndef CHROMECAST_CAST_CORE_GRPC_GRPC_SERVER_STREAMING_HANDLER_H_
 #define CHROMECAST_CAST_CORE_GRPC_GRPC_SERVER_STREAMING_HANDLER_H_
 

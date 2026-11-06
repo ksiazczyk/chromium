@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the Cast Core runtime browser directory
+summary: Lists the directories that code in the Cast Core runtime browser directory is allowed to include from.

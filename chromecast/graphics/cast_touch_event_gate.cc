@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastTouchEventGate implementation
+// summary: Implements the CastTouchEventGate event rewriter that discards touch events when enabled and notifies registered observers.
+// ---
+
 #include "chromecast/graphics/cast_touch_event_gate.h"
 
 #include "chromecast/graphics/cast_touch_activity_observer.h"

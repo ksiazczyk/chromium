@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast runtime content browser client Starboard factory
+// summary: Factory that instantiates the Starboard-based Cast runtime content browser client and supplies the legacy CORS-exempt header list.
+// ---
+
 #include <memory>
 #include <string>
 #include <string_view>

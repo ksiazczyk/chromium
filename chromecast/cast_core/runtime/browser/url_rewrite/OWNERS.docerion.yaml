@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS rules for type converter files
+summary: Delegates review of type converter files to the IPC security owners without parent approval.

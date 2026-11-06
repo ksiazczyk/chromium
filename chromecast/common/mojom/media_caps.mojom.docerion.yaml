@@ -1,0 +1,4 @@
+# Docerion header of media_caps.mojom.
+type: source
+title: Media capabilities Mojo interfaces
+summary: Defines the CodecProfileLevel struct and MediaCaps interfaces for observing media capabilities and supported codec profiles that apply to all applications.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast runtime histogram flattener implementation
+// summary: Collects uncollected UMA histogram deltas via the base statistics recorder and converts them into cast::metrics::Histogram messages.
+// ---
+
 #include "chromecast/cast_core/runtime/browser/cast_runtime_histogram_flattener.h"
 
 #include "base/metrics/histogram.h"

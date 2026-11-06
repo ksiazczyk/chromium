@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastWindowManagerDefault class header
+// summary: Declares CastWindowManagerDefault, a stub CastWindowManager subclass that overrides all manager methods with empty implementations.
+// ---
+
 #ifndef CHROMECAST_GRAPHICS_CAST_WINDOW_MANAGER_DEFAULT_H_
 #define CHROMECAST_GRAPHICS_CAST_WINDOW_MANAGER_DEFAULT_H_
 

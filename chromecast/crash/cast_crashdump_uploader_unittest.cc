@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for CastCrashdumpUploader
+// summary: Tests crashdump upload behavior with a mocked LibcurlWrapper, covering init failures, valid parameters, and missing required fields.
+// ---
+
 #include "chromecast/crash/cast_crashdump_uploader.h"
 
 #include <string>

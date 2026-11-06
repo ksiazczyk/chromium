@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MinidumpUploader unit tests
+// summary: Tests MinidumpUploader behavior using a mock crash dump uploader, fake pref service, and temporary fake home directory with lockfile and metadata.
+// ---
+
 #include "chromecast/crash/linux/minidump_uploader.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Build version string helpers
+// summary: Builds short crash-server version strings and determines the eng or user build variant from Cast build revisions.
+// ---
+
 #include "chromecast/crash/build_info.h"
 
 #include <string>

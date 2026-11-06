@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DumpInfo class header
+// summary: Declares the DumpInfo class that constructs and parses JSON crash dump entries for the Cast crash log, including dump paths, timestamps, and crash parameters.
+// ---
+
 #ifndef CHROMECAST_CRASH_LINUX_DUMP_INFO_H_
 #define CHROMECAST_CRASH_LINUX_DUMP_INFO_H_
 

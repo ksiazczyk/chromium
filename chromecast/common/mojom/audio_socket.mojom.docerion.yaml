@@ -1,0 +1,4 @@
+# Docerion header of audio_socket.mojom.
+type: source
+title: AudioSocketBroker mojom interface
+summary: Defines a browser-hosted broker interface that provides renderers with socket descriptors for the audio output service.

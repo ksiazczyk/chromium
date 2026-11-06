@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Cast common build targets and unit tests
+summary: GN build file defining cast_source_set targets for queryable data, URL filtering, feature constants, CORS exempt headers, the common client, and the timing tracker, plus the cast_common_unittests test.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Runtime DEPS include rules
+summary: Declares include rules for the cast_core runtime, allowing dependencies on components/cast_receiver/common/public.

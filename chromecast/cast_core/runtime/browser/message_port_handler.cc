@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Message port channel handler for Cast Core gRPC
+// summary: Forwards messages between a Blink message port and the Cast Core gRPC message channel, handling queuing, port transfers, and timeouts.
+// ---
+
 #include "chromecast/cast_core/runtime/browser/message_port_handler.h"
 
 #include <string_view>

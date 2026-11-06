@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Process setup header for external Mojo processes
+// summary: Declares CommonProcessInitialization, the shared early setup routine that external Mojo processes should call from main().
+// ---
+
 #ifndef CHROMECAST_EXTERNAL_MOJO_EXTERNAL_SERVICE_SUPPORT_PROCESS_SETUP_H_
 #define CHROMECAST_EXTERNAL_MOJO_EXTERNAL_SERVICE_SUPPORT_PROCESS_SETUP_H_
 

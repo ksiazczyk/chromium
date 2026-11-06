@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Child log process implementation
+// summary: Implements forking a logging child process and piping the parent's stdout and stderr into it via a pipe.
+// ---
+
 #include "chromecast/cast_core/child_log_process.h"
 
 #include <errno.h>

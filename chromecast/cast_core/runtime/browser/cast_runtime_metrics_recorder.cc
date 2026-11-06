@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast runtime metrics recorder implementation
+// summary: Implements the Cast OS MetricsRecorder interface, forwarding histograms to the UMA system and buffering Cast events for later reporting.
+// ---
+
 #include "chromecast/cast_core/runtime/browser/cast_runtime_metrics_recorder.h"
 
 #include <cfloat>

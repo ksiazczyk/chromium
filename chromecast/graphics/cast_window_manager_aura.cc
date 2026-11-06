@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastWindowManagerAura implementation
+// summary: Implements CastWindowManagerAura, the Aura-based window manager with layout management, focus, gestures, and touch event gating.
+// ---
+
 #include "chromecast/graphics/cast_window_manager_aura.h"
 
 #include "base/logging.h"

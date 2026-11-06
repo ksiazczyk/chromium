@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GrpcUnaryCall template for unary gRPC calls
+// summary: Implements synchronous and asynchronous unary gRPC client calls via async and sync stub method pointers.
+// ---
+
 #ifndef CHROMECAST_CAST_CORE_GRPC_GRPC_UNARY_CALL_H_
 #define CHROMECAST_CAST_CORE_GRPC_GRPC_UNARY_CALL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL request rewrite type converters implementation
+// summary: Implements Mojo TypeConverters that translate Cast Core URL request rewrite protobuf messages into url_rewrite Mojo types for the browser process.
+// ---
+
 #include "chromecast/cast_core/runtime/browser/url_rewrite/url_request_rewrite_type_converters.h"
 
 #include <string_view>

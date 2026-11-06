@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CORS exempt headers implementation
+// summary: Defines the fixed set of legacy CORS-exempt HTTP headers and helpers to check whether a given header is exempt.
+// ---
+
 #include "chromecast/common/cors_exempt_headers.h"
 
 #include <string_view>

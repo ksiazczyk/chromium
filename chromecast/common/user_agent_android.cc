@@ -2,6 +2,13 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 //
+
+// ---docerion
+// type: source
+// title: Android user agent implementation
+// summary: Android implementation that returns an AndroidTV or Android device type suffix and the embedder's Chromium user agent.
+// ---
+
 #include "chromecast/common/user_agent.h"
 
 #include "base/android/device_info.h"

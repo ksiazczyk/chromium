@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Runtime application service implementation header
+// summary: Declares RuntimeApplicationServiceImpl, the embedder application that loads, launches and stops Cast Core apps and exposes gRPC, message port and streaming config services.
+// ---
+
 #ifndef CHROMECAST_CAST_CORE_RUNTIME_BROWSER_RUNTIME_APPLICATION_SERVICE_IMPL_H_
 #define CHROMECAST_CAST_CORE_RUNTIME_BROWSER_RUNTIME_APPLICATION_SERVICE_IMPL_H_
 

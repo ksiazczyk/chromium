@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for chromecast common
+summary: DEPS file listing the dependencies that code in chromecast/common is allowed to include, such as components, content, media, network, and blink public headers.

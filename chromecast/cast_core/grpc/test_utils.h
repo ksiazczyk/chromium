@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: gRPC test utilities header
+// summary: Declares helpers to stop a gRPC server without blocking the test thread and to wait for a predicate with a timeout.
+// ---
+
 #ifndef CHROMECAST_CAST_CORE_GRPC_TEST_UTILS_H_
 #define CHROMECAST_CAST_CORE_GRPC_TEST_UTILS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for unary gRPC calls
+// summary: gTest suite covering sync and async unary gRPC calls, error statuses, cancellation and server shutdown over Unix sockets.
+// ---
+
 #include "base/files/scoped_temp_dir.h"
 #include "base/functional/bind.h"
 #include "base/run_loop.h"

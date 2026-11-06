@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GrpcUnaryHandler for unary gRPC server methods
+// summary: Generic server-side handler for unary request/response gRPC methods, dispatching requests to a callback reactor.
+// ---
+
 #ifndef CHROMECAST_CAST_CORE_GRPC_GRPC_UNARY_HANDLER_H_
 #define CHROMECAST_CAST_CORE_GRPC_GRPC_UNARY_HANDLER_H_
 

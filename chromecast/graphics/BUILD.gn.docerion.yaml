@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Chromecast graphics build targets
+summary: GN build file defining the chromecast graphics source sets, the default window manager, the libcast_graphics_1.0 shared library and the cast_graphics_unittests test target.

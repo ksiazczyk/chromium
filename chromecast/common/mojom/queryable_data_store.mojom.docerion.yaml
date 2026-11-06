@@ -1,0 +1,4 @@
+# Docerion header of queryable_data_store.mojom.
+type: source
+title: Queryable data store Mojo interface
+summary: Defines the QueryableDataStore interface for the browser to set read-only key/value config data exposed to Cast apps through JavaScript.

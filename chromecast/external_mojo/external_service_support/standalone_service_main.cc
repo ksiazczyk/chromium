@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Standalone Mojo service process entry point
+// summary: Entry point for standalone Mojo service processes, connecting to an in-process or external Mojo broker and creating the ServiceProcess.
+// ---
+
 #include <memory>
 #include <utility>
 

@@ -1,0 +1,4 @@
+# Docerion header of service_connector.mojom.
+type: source
+title: Service connector Mojo interface
+summary: Defines the ServiceConnector interface that brokers renderer access to Cast-internal service interfaces as a replacement for the deprecated Service Manager.

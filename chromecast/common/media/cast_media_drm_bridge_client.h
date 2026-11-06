@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastMediaDrmBridgeClient class declaration
+// summary: Declares the CastMediaDrmBridgeClient class that extends MediaDrmBridgeClient with a Widevine Android DRM delegate for Cast.
+// ---
+
 #ifndef CHROMECAST_COMMON_MEDIA_CAST_MEDIA_DRM_BRIDGE_CLIENT_H_
 #define CHROMECAST_COMMON_MEDIA_CAST_MEDIA_DRM_BRIDGE_CLIENT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cast views progress bar test
+// summary: Views test that displays a progress bar widget through CastWindowManagerAura and checks its visibility and enabled state.
+// ---
+
 #include "chromecast/graphics/cast_window_manager_aura.h"
 #include "ui/aura/window.h"
 #include "ui/views/controls/progress_bar.h"

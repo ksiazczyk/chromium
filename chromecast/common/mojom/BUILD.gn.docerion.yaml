@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Chromecast common mojom BUILD.gn
+summary: GN build file that compiles the Chromecast mojom interface sources into a mojom target with public dependencies and a C++ typemap.

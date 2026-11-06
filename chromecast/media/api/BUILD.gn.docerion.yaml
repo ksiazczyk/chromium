@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the Cast media API
+summary: GN build definition for the Cast media API source set and a test_support source set providing gmock mocks of the API interfaces.

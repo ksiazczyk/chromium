@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL loader throttle blocking non-whitelisted activity URLs
+// summary: Implements ActivityFilteringURLLoaderThrottle, which cancels network requests and redirects whose URLs do not match the activity whitelist with ERR_ACCESS_DENIED.
+// ---
+
 #include "chromecast/common/activity_filtering_url_loader_throttle.h"
 
 #include "net/base/net_errors.h"

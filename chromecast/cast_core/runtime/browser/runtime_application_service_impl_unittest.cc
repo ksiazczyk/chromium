@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Runtime application service unit tests
+// summary: Unit tests for RuntimeApplicationServiceImpl built on fake cast content windows, a fake web view factory and a mock runtime application.
+// ---
+
 #include "chromecast/cast_core/runtime/browser/runtime_application_service_impl.h"
 
 #include <memory>

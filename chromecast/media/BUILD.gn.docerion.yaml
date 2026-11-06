@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Chromecast media GN build targets
+summary: Defines GN build groups for the Chromecast media component and the cast_media_unittests test target with its sources and dependencies.

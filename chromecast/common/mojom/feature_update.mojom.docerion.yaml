@@ -1,0 +1,4 @@
+# Docerion header of feature_update.mojom.
+type: source
+title: Feature update Mojo interfaces
+summary: Defines FeatureUpdateObserver and FeatureUpdateService interfaces for distributing base::Feature configuration updates after a DCS cloud download.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastTouchEventGate header
+// summary: Declares CastTouchEventGate, an event rewriter that blocks touch events when input is disabled, such as when the screen is off.
+// ---
+
 #ifndef CHROMECAST_GRAPHICS_CAST_TOUCH_EVENT_GATE_H_
 #define CHROMECAST_GRAPHICS_CAST_TOUCH_EVENT_GATE_H_
 

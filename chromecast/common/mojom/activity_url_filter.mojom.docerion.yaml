@@ -1,0 +1,4 @@
+# Docerion header of activity_url_filter.mojom.
+type: source
+title: ActivityUrlFilter mojom interface
+summary: Defines the whitelist URL filter criteria struct and the configuration interface used to set renderer URL filter criteria.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the Cast runtime user action recorder
+// summary: Registers a user action callback that buffers user action events, with a size limit, for delivery to Cast Core.
+// ---
+
 #include "chromecast/cast_core/runtime/browser/cast_runtime_action_recorder.h"
 
 #include "base/check.h"

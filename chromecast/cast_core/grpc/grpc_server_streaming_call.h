@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GrpcServerStreamingCall client call
+// summary: Implements a client-side gRPC call for server streaming methods, invoking them asynchronously with a response callback.
+// ---
+
 #ifndef CHROMECAST_CAST_CORE_GRPC_GRPC_SERVER_STREAMING_CALL_H_
 #define CHROMECAST_CAST_CORE_GRPC_GRPC_SERVER_STREAMING_CALL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SideSwipeDetector class declaration
+// summary: Declares a ui::EventRewriter that recognizes swipe gestures originating from the top, left, bottom, and right edges of the root window.
+// ---
+
 #ifndef CHROMECAST_GRAPHICS_GESTURES_SIDE_SWIPE_DETECTOR_H_
 #define CHROMECAST_GRAPHICS_GESTURES_SIDE_SWIPE_DETECTOR_H_
 

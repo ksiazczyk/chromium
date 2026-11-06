@@ -1,0 +1,4 @@
+# Docerion header of feature_manager.mojom.
+type: source
+title: Feature manager Mojo interface
+summary: Defines the Feature struct and FeatureManager interface that the browser uses to enable or disable Cast application-facing features in a renderer.

@@ -1,0 +1,4 @@
+# Docerion header of gesture.mojom.
+type: source
+title: Gesture handling Mojo interfaces
+summary: Defines GestureHandler and GestureSource interfaces that let renderers subscribe to and handle system gestures such as back, top-drag, right-drag and tap.

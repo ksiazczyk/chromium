@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioClockSimulator interface
+// summary: Declares AudioClockSimulator, an AudioProvider wrapper that simulates a modifiable audio output clock rate by resampling.
+// ---
+
 #ifndef CHROMECAST_MEDIA_API_AUDIO_CLOCK_SIMULATOR_H_
 #define CHROMECAST_MEDIA_API_AUDIO_CLOCK_SIMULATOR_H_
 

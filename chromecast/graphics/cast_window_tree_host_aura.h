@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastWindowTreeHostAura class header
+// summary: Declares CastWindowTreeHostAura, an Aura window tree host that converts input events and handles Starboard window size and rotation changes.
+// ---
+
 #ifndef CHROMECAST_GRAPHICS_CAST_WINDOW_TREE_HOST_AURA_H_
 #define CHROMECAST_GRAPHICS_CAST_WINDOW_TREE_HOST_AURA_H_
 

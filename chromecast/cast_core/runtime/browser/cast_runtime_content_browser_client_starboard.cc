@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Starboard content browser client with CDM factory
+// summary: Implements the Starboard variant that creates Widevine CDM factories delegating decryption to the Starboard library and focuses web contents after load.
+// ---
+
 #include "chromecast/cast_core/runtime/browser/cast_runtime_content_browser_client_starboard.h"
 
 #include "base/memory/scoped_refptr.h"

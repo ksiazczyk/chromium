@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ServerReactorTracker header
+// summary: Declares a thread-safe tracker of active gRPC server reactors with counts and names for diagnostics.
+// ---
+
 #ifndef CHROMECAST_CAST_CORE_GRPC_SERVER_REACTOR_TRACKER_H_
 #define CHROMECAST_CAST_CORE_GRPC_SERVER_REACTOR_TRACKER_H_
 

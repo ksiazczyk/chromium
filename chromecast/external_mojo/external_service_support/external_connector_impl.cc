@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: External connector implementation
+// summary: Implements ExternalConnectorImpl and BrokerConnection, which share one underlying broker connection among clones and reconnect it on disconnect with retry delays.
+// ---
+
 #include "chromecast/external_mojo/external_service_support/external_connector_impl.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LibcurlWrapper class declaration
+// summary: Declares the LibcurlWrapper interface for initializing libcurl, adding files, and sending HTTP crash upload requests.
+// ---
+
 #ifndef CHROMECAST_CRASH_LIBCURL_WRAPPER_H_
 #define CHROMECAST_CRASH_LIBCURL_WRAPPER_H_
 

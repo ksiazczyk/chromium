@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Cast Core include dependency rules
+summary: Specifies the include rules that allow cast_core code to depend on chromecast and content public app directories.

@@ -1,6 +1,13 @@
 // Copyright 2021 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Factory for the default Cast runtime content browser client
+// summary: Provides CastContentBrowserClient::Create returning the Cast Core runtime client and the legacy CORS exempt header list.
+// ---
+
 #include <vector>
 
 #include "chromecast/browser/cast_content_browser_client.h"

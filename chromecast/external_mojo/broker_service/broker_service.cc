@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Broker service implementation
+// summary: Implements the BrokerService Mojo service that lets services in external processes interoperate with Mojo services inside cast_shell.
+// ---
+
 #include "chromecast/external_mojo/broker_service/broker_service.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastCrashStorageImpl class declaration
+// summary: Declares the concrete CastCrashStorageImpl class that implements the CastCrashStorage crash key interface.
+// ---
+
 #ifndef CHROMECAST_CRASH_CAST_CRASH_STORAGE_IMPL_H_
 #define CHROMECAST_CRASH_CAST_CRASH_STORAGE_IMPL_H_
 

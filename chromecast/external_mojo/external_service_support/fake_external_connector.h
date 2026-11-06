@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeExternalConnector test connector
+// summary: Declares FakeExternalConnector, a single-process ExternalConnector for testing that lets clients register mock services and verify service requests.
+// ---
+
 #ifndef CHROMECAST_EXTERNAL_MOJO_EXTERNAL_SERVICE_SUPPORT_FAKE_EXTERNAL_CONNECTOR_H_
 #define CHROMECAST_EXTERNAL_MOJO_EXTERNAL_SERVICE_SUPPORT_FAKE_EXTERNAL_CONNECTOR_H_
 

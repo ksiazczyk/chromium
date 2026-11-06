@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Runtime service gRPC implementation
+// summary: Implements the Cast Core RuntimeService gRPC server that dispatches application load, launch and stop requests and manages heartbeats and metrics reporting.
+// ---
+
 #include "chromecast/cast_core/runtime/browser/runtime_service_impl.h"
 
 #include "base/check.h"

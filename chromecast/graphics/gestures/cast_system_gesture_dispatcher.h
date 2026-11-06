@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastSystemGestureDispatcher class declaration
+// summary: Declares a CastGestureHandler subclass that fans system gesture events out to multiple registered gesture handlers.
+// ---
+
 #ifndef CHROMECAST_GRAPHICS_GESTURES_CAST_SYSTEM_GESTURE_DISPATCHER_H_
 #define CHROMECAST_GRAPHICS_GESTURES_CAST_SYSTEM_GESTURE_DISPATCHER_H_
 

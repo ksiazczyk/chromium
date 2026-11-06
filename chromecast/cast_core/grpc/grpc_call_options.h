@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GrpcCallOptions class declaration
+// summary: Declares options that control gRPC ClientContext behavior such as the call deadline.
+// ---
+
 #ifndef CHROMECAST_CAST_CORE_GRPC_GRPC_CALL_OPTIONS_H_
 #define CHROMECAST_CAST_CORE_GRPC_GRPC_CALL_OPTIONS_H_
 

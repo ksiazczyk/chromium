@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the fuchsia crash source set
+summary: GN build file defining the fuchsia cast_source_set that compiles the Cast crash constants sources.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crash testing utilities header
+// summary: Declares functions for creating, fetching, appending, and clearing crash lockfile and metadata entries in tests.
+// ---
+
 #ifndef CHROMECAST_CRASH_LINUX_CRASH_TESTING_UTILS_H_
 #define CHROMECAST_CRASH_LINUX_CRASH_TESTING_UTILS_H_
 

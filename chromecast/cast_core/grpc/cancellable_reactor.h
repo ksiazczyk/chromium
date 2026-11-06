@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CancellableReactor template for gRPC server reactors
+// summary: Template facade that lets a gRPC server reactor be finished or cancelled safely, deferring finalization until pending requests complete.
+// ---
+
 #ifndef CHROMECAST_CAST_CORE_GRPC_CANCELLABLE_REACTOR_H_
 #define CHROMECAST_CAST_CORE_GRPC_CANCELLABLE_REACTOR_H_
 

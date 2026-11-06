@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast streaming config from AV settings message port
+// summary: Builds a cast streaming receiver config from AV settings received over a message port, mapping platform codec and display capabilities to Chromium media types.
+// ---
+
 #include "chromecast/cast_core/runtime/browser/core_streaming_config_manager.h"
 
 #include <algorithm>

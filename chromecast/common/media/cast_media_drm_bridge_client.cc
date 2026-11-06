@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastMediaDrmBridgeClient implementation
+// summary: Implements the Cast media DRM bridge client, returning the Widevine delegate for matching key system UUIDs and adding no extra UUID mappings.
+// ---
+
 #include "chromecast/common/media/cast_media_drm_bridge_client.h"
 
 #include "chromecast/media/base/key_systems_common.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CastSystemGestureDispatcher unit tests
+// summary: Unit tests with mock handlers covering single-handler dispatch, NONE-priority filtering, and priority-based routing among multiple handlers.
+// ---
+
 #include "chromecast/graphics/gestures/cast_system_gesture_dispatcher.h"
 
 #include <memory>

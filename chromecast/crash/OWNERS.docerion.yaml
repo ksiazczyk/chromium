@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners rules for crash key files (OWNERS)
+summary: Delegates review of cast_crash_keys files to the owners of components/crash.

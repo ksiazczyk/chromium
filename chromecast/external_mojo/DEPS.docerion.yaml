@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for external Mojo services
+summary: Defines the allowed include directories for code in chromecast/external_mojo, covering chromecast base and mojo, mojo public, and the service manager public headers.

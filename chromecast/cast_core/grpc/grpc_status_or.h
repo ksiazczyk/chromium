@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GrpcStatusOr value-or-status type
+// summary: Declares a template class that holds either a value of type T or a gRPC error status, with accessors and string output.
+// ---
+
 #ifndef CHROMECAST_CAST_CORE_GRPC_GRPC_STATUS_OR_H_
 #define CHROMECAST_CAST_CORE_GRPC_GRPC_STATUS_OR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast runtime metrics recorder service implementation
+// summary: Periodically batches collected events, histograms and user actions and sends them to Cast Core, with a final flush on close.
+// ---
+
 #include "chromecast/cast_core/runtime/browser/cast_runtime_metrics_recorder_service.h"
 
 #include "base/logging.h"

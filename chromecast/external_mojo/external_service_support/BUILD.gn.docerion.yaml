@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for external Mojo service support
+summary: Defines GN source sets for the external service library, test fakes, process setup, and the standalone_mojo_broker executable.

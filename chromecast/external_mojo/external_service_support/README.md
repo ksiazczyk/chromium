@@ -1,3 +1,11 @@
+---
+type: readme
+title: External Mojo service support
+summary: Explains how to build Mojo services that run outside Chromium/cast_shell using ServiceProcess, ChromiumServiceWrapper, and the standalone Mojo broker.
+relations:
+  - documents /chromecast/external_mojo/external_service_support/chromium_service.cc
+---
+
 # External Mojo service support
 
 This directory contains utilities to ease development of Mojo services that run

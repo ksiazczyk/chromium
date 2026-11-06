@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock CastSoundsManager header
+// summary: Declares a gmock mock of CastSoundsManager with mocked AddSound, Play, Stop, and duration callback methods for use in tests.
+// ---
+
 #ifndef CHROMECAST_MEDIA_API_TEST_MOCK_CAST_SOUNDS_MANAGER_H_
 #define CHROMECAST_MEDIA_API_TEST_MOCK_CAST_SOUNDS_MANAGER_H_
 

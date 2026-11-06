@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast Core application config conversion to receiver config
+// summary: Converts a Cast Core application config protobuf into a cast_receiver application config, extracting feature permissions, permission origins, and extended input support.
+// ---
+
 #include "chromecast/cast_core/runtime/browser/core_conversions.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SynchronizedMinidumpManager unit tests
+// summary: Unit tests for SynchronizedMinidumpManager that exercise lockfile entry management, rate limiting, and concurrent lock acquisition using test subclasses and fakes.
+// ---
+
 #include "chromecast/crash/linux/synchronized_minidump_manager.h"
 
 #include <fcntl.h>

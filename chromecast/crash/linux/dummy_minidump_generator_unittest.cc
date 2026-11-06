@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dummy minidump generator unit tests
+// summary: Tests that minidump moving fails for invalid paths and succeeds for small and large source files.
+// ---
+
 #include <stddef.h>
 
 #include <string>

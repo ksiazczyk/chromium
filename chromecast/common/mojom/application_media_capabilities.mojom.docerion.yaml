@@ -1,0 +1,4 @@
+# Docerion header of application_media_capabilities.mojom.
+type: source
+title: ApplicationMediaCapabilities mojom interface
+summary: Defines the bitstream audio codec info struct and observer interfaces for per-application media capabilities.

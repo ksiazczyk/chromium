@@ -1,0 +1,4 @@
+# Docerion header of metrics_helper.mojom.
+type: source
+title: Metrics helper Mojo interface
+summary: Defines the MetricsHelper interface that renderers call in the browser process to record application-specific metric events.

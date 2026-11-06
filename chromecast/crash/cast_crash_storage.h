@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastCrashStorage interface for crash key annotations
+// summary: Declares the abstract CastCrashStorage interface for setting and clearing crash keys such as current app and Stadia session ID.
+// ---
+
 #ifndef CHROMECAST_CRASH_CAST_CRASH_STORAGE_H_
 #define CHROMECAST_CRASH_CAST_CRASH_STORAGE_H_
 

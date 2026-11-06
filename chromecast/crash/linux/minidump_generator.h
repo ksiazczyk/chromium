@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MinidumpGenerator interface
+// summary: Declares the abstract MinidumpGenerator interface for generating a minidump file at a given filepath.
+// ---
+
 #ifndef CHROMECAST_CRASH_LINUX_MINIDUMP_GENERATOR_H_
 #define CHROMECAST_CRASH_LINUX_MINIDUMP_GENERATOR_H_
 

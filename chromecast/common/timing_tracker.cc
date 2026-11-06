@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Timing tracker implementation
+// summary: Implements TimingTracker, which logs the elapsed time in microseconds between construction and destruction.
+// ---
+
 #include "chromecast/common/timing_tracker.h"
 
 #include <string_view>

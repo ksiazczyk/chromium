@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trackable gRPC reactor wrapper
+// summary: Template facade that registers and unregisters reactor instances with a ServerReactorTracker to track active gRPC server reactors.
+// ---
+
 #ifndef CHROMECAST_CAST_CORE_GRPC_TRACKABLE_REACTOR_H_
 #define CHROMECAST_CAST_CORE_GRPC_TRACKABLE_REACTOR_H_
 

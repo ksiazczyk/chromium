@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MonotonicClock interface
+// summary: Interface that provides the current monotonic time in microseconds via a Now method and a Create factory function.
+// ---
+
 #ifndef CHROMECAST_MEDIA_API_MONOTONIC_CLOCK_H_
 #define CHROMECAST_MEDIA_API_MONOTONIC_CLOCK_H_
 
