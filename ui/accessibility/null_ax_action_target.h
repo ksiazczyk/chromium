@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NullAXActionTarget class declaration
+// summary: Declares NullAXActionTarget, a no-op AXActionTarget subclass that serves as a placeholder accessibility action target.
+// ---
+
 #ifndef UI_ACCESSIBILITY_NULL_AX_ACTION_TARGET_H_
 #define UI_ACCESSIBILITY_NULL_AX_ACTION_TARGET_H_
 

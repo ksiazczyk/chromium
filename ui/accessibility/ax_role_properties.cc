@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility role properties implementation
+// summary: Implements helper functions that classify accessibility roles, such as IsButton, IsClickable, and HasPresentationalChildren.
+// ---
+
 #include "ui/accessibility/ax_role_properties.h"
 
 #include "build/build_config.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AXNode table API fuzzer
+// summary: LibFuzzer target that builds table-heavy accessibility trees and exercises table-related AXNode APIs to detect crashes or hangs.
+// ---
+
 #include <tuple>
 
 #include "base/compiler_specific.h"

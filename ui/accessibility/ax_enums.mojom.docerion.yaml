@@ -1,0 +1,4 @@
+# Docerion header of ax_enums.mojom.
+type: source
+title: Accessibility enums Mojom definitions
+summary: Defines the accessibility Mojom enums for events, roles, states, actions, and attributes shared between web and native UI.

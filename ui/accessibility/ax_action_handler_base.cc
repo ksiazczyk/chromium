@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXActionHandlerBase implementation
+// summary: Implements tree ID management for accessibility action handlers, including registration, replacement, and removal of tree IDs in the AXActionHandlerRegistry.
+// ---
+
 #include "ui/accessibility/ax_action_handler_base.h"
 
 #include "ui/accessibility/ax_action_handler_registry.h"

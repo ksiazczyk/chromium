@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXTextAttributes implementation
+// summary: Implements AXTextAttributes, which snapshots text style, color, font, and marker attributes from an accessibility node's data.
+// ---
+
 #include "ui/accessibility/ax_text_attributes.h"
 
 #include "base/containers/to_vector.h"

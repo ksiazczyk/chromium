@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXTreeObserver interface header
+// summary: Declares the AXTreeObserver interface with callbacks for node data, attribute, and tree update changes in an AXTree.
+// ---
+
 #ifndef UI_ACCESSIBILITY_AX_TREE_OBSERVER_H_
 #define UI_ACCESSIBILITY_AX_TREE_OBSERVER_H_
 

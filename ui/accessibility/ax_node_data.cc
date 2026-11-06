@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AX node data implementation
+// summary: Implements AXNodeData helpers for bitfield flags, string conversion of attributes and actions, and identification of node ID int attributes.
+// ---
+
 #include "ui/accessibility/ax_node_data.h"
 
 #include <stddef.h>

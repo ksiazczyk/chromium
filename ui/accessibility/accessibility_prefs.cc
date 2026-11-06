@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Definitions of accessibility preference keys
+// summary: Defines preference key constants for accessibility settings, including Android-specific performance filtering preferences.
+// ---
+
 // Define all the prefs used by ui/accessibility.
 #include "ui/accessibility/accessibility_prefs.h"
 #include "build/build_config.h"

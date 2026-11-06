@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXRange class for accessibility tree ranges
+// summary: Defines AXRange, a move-only range delimited by two accessibility positions, with text extraction and bounds rect support.
+// ---
+
 #ifndef UI_ACCESSIBILITY_AX_RANGE_H_
 #define UI_ACCESSIBILITY_AX_RANGE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility text boundary utilities
+// summary: Implements FindAccessibleTextBoundary and helpers that locate character, word, sentence, and line boundaries in text for platform accessibility APIs.
+// ---
+
 #include "ui/accessibility/ax_text_utils.h"
 
 #include <algorithm>

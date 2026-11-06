@@ -1,0 +1,4 @@
+# Docerion header of EventMatcher.aidl.
+type: source
+title: EventMatcher
+summary: AIDL parcelable describing criteria for matching accessibility events, such as event type, content change types, and the source node matcher.

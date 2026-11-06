@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccessibilityStateVisibilityManager
+// summary: Interface for managing accessibility state visibility, notifying an observer when the application or an activity is foregrounded or backgrounded.
+// ---
+
 package org.chromium.ui.accessibility;
 
 import org.chromium.build.annotations.NullMarked;

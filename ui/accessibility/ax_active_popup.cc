@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Active popup accessibility ID singleton
+// summary: Tracks the accessibility node ID of the currently active autofill popup for communication between web contents and Views.
+// ---
+
 #include "ui/accessibility/ax_active_popup.h"
 
 namespace ui {

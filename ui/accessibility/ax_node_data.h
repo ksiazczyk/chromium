@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXNodeData header
+// summary: Declares the AXNodeData struct, a compact serializable representation of the accessibility attributes of a single accessible node.
+// ---
+
 #ifndef UI_ACCESSIBILITY_AX_NODE_DATA_H_
 #define UI_ACCESSIBILITY_AX_NODE_DATA_H_
 

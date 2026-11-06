@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aura accessibility window property declarations
+// summary: Declares exported Aura window properties for accessibility, such as the serialized child AX tree ID, role override, and a lock-screen invisibility flag.
+// ---
+
 #ifndef UI_ACCESSIBILITY_AURA_AURA_WINDOW_PROPERTIES_H_
 #define UI_ACCESSIBILITY_AURA_AURA_WINDOW_PROPERTIES_H_
 

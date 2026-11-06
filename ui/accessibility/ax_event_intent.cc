@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXEventIntent implementation
+// summary: Implements constructors, equality comparison and debug string conversion for the AXEventIntent struct.
+// ---
+
 #include "ui/accessibility/ax_event_intent.h"
 
 #include "ui/accessibility/ax_enum_util.h"

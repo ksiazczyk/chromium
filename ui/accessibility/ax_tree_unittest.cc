@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AXTree unit tests
+// summary: Extensive unit tests for AXTree covering updates, tree bounds, reverse relations, and observer notifications.
+// ---
+
 #include "ui/accessibility/ax_tree.h"
 
 #include <algorithm>

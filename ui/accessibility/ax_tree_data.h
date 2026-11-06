@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXTreeData struct declaration
+// summary: Declares AXTreeData, the tree-global accessibility metadata such as tree IDs, focus, selection, loading state, and HTML head metadata.
+// ---
+
 #ifndef UI_ACCESSIBILITY_AX_TREE_DATA_H_
 #define UI_ACCESSIBILITY_AX_TREE_DATA_H_
 

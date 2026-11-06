@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Definitions of accessibility feature flags
+// summary: Implements base::Feature definitions and enabled-state getters for accessibility features across supported platforms.
+// ---
+
 #include "ui/accessibility/accessibility_features.h"
 
 #include "base/feature_list.h"

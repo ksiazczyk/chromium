@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AX mode histogram logger unit tests
+// summary: Unit tests verifying that accessibility mode flag and bundle transitions are recorded correctly in the expected histograms.
+// ---
+
 #include "ui/accessibility/ax_mode_histogram_logger.h"
 
 #include "base/test/metrics/histogram_tester.h"

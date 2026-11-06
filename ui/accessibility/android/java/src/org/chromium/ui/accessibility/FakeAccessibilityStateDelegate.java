@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeAccessibilityStateDelegate
+// summary: Fake implementation of AccessibilityStateDelegate for testing, letting tests set accessibility state flags and notify listeners of simulated state changes.
+// ---
+
 package org.chromium.ui.accessibility;
 
 import android.view.accessibility.AccessibilityEvent;

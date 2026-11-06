@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXTreeUpdate implementation
+// summary: Implements AXTreeUpdate helpers including debug string output, byte size accounting, and validation of node IDs from an untrusted renderer.
+// ---
+
 #include "ui/accessibility/ax_tree_update.h"
 
 #include <map>

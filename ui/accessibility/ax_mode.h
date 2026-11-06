@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AX mode
+// summary: Declares the AXMode bitfield class with accessibility mode flags such as native APIs, web contents, and screen reader, plus predefined mode bundles.
+// ---
+
 #ifndef UI_ACCESSIBILITY_AX_MODE_H_
 #define UI_ACCESSIBILITY_AX_MODE_H_
 

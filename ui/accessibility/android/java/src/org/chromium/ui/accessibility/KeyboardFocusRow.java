@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeyboardFocusRow
+// summary: IntDef annotation with constants tracking which row of the top controls has keyboard focus, such as tab strip, omnibox, bookmarks bar, or side panel.
+// ---
+
 package org.chromium.ui.accessibility;
 
 import androidx.annotation.IntDef;

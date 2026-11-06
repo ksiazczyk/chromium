@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXRelativeBounds structure declaration
+// summary: Declares the AXRelativeBounds struct holding a node's relative bounding box, offset container id, and transform.
+// ---
+
 #ifndef UI_ACCESSIBILITY_AX_RELATIVE_BOUNDS_H_
 #define UI_ACCESSIBILITY_AX_RELATIVE_BOUNDS_H_
 

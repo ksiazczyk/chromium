@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXActionHandlerBase class declaration
+// summary: Declares the base class for classes hosting an accessibility tree that need to be visible to accessibility clients, with manual control over the associated AXTreeID.
+// ---
+
 #ifndef UI_ACCESSIBILITY_AX_ACTION_HANDLER_BASE_H_
 #define UI_ACCESSIBILITY_AX_ACTION_HANDLER_BASE_H_
 

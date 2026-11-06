@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXCoordinateSystem enum
+// summary: Defines the AXCoordinateSystem enum describing screen, root frame, and frame coordinate spaces for bounds and points.
+// ---
+
 #ifndef UI_ACCESSIBILITY_AX_COORDINATE_SYSTEM_H_
 #define UI_ACCESSIBILITY_AX_COORDINATE_SYSTEM_H_
 

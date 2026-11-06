@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Exhaustive tree serialization tests with generated trees
+// summary: Parametrized tests that build many generated accessibility trees, serialize them and verify tree updates including ignored-status changes.
+// ---
+
 #include <array>
 #include <memory>
 #include <numeric>

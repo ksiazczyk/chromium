@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NullAXActionTarget implementation
+// summary: Implements a do-nothing accessibility action target whose actions, bounds, scrolling and selection operations all fail or return defaults.
+// ---
+
 #include "ui/accessibility/null_ax_action_target.h"
 
 namespace ui {

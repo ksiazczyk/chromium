@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXEventIntent struct describing the cause of accessibility events
+// summary: Declares AXEventIntent, which describes what caused an accessibility event, such as typing, replacing text or moving a text selection.
+// ---
+
 #ifndef UI_ACCESSIBILITY_AX_EVENT_INTENT_H_
 #define UI_ACCESSIBILITY_AX_EVENT_INTENT_H_
 

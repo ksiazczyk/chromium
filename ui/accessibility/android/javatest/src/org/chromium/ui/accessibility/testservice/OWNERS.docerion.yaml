@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Chromium owners file marking the directory as test-only and delegating review of AIDL files to the IPC security owners.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility enum localization utility
+// summary: Declares ToLocalizedString, which returns a localized name for a given default action verb.
+// ---
+
 #ifndef UI_ACCESSIBILITY_AX_ENUM_LOCALIZATION_UTIL_H_
 #define UI_ACCESSIBILITY_AX_ENUM_LOCALIZATION_UTIL_H_
 

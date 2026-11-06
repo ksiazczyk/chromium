@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXStates implementation
+// summary: Implements string conversion for AXStates bit fields, appending the names of all set accessibility states.
+// ---
+
 #include "ui/accessibility/ax_states.h"
 
 #include "base/strings/strcat.h"

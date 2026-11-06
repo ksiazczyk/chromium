@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AX mode implementation
+// summary: Implements AXMode string conversion and filter flag handling so accessibility mode flags can be logged as readable names.
+// ---
+
 #include "ui/accessibility/ax_mode.h"
 
 #include <string_view>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXSelection header
+// summary: Defines AXSelection, a structure storing the selected node range or caret position within an accessibility tree.
+// ---
+
 #ifndef UI_ACCESSIBILITY_AX_SELECTION_H_
 #define UI_ACCESSIBILITY_AX_SELECTION_H_
 

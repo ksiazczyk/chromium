@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declarations of accessibility preference keys
+// summary: Declares exported preference key constants for accessibility settings used throughout ui/accessibility.
+// ---
+
 // Define all the prefs used by ui/accessibility.
 #ifndef UI_ACCESSIBILITY_ACCESSIBILITY_PREFS_H_
 #define UI_ACCESSIBILITY_ACCESSIBILITY_PREFS_H_

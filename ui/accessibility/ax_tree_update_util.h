@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AX tree update merging utilities API
+// summary: Declares AXTreeUpdatesCanBeMerged and MergeAXTreeUpdates helpers that combine multiple accessibility tree updates into fewer ones.
+// ---
+
 #ifndef UI_ACCESSIBILITY_AX_TREE_UPDATE_UTIL_H_
 #define UI_ACCESSIBILITY_AX_TREE_UPDATE_UTIL_H_
 

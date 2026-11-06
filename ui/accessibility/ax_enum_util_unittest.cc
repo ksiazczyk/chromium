@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AX enum utility unit tests
+// summary: Unit tests verifying round-trip string conversion of accessibility enums and exercising AXNodeData attribute setters.
+// ---
+
 #include "ui/accessibility/ax_enum_util.h"
 
 #include <string>

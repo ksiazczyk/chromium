@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccessibilityAutofillHelper
+// summary: Helper for Autofill-related accessibility state, deciding when password text is exposed or masked so third-party Autofill services can save real passwords.
+// ---
+
 package org.chromium.ui.accessibility;
 
 import org.jni_zero.CalledByNative;

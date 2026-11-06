@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility enum conversion helpers
+// summary: Declares ToString and StringTo functions that convert accessibility mojom enums to and from their string representations.
+// ---
+
 #ifndef UI_ACCESSIBILITY_AX_ENUM_UTIL_H_
 #define UI_ACCESSIBILITY_AX_ENUM_UTIL_H_
 

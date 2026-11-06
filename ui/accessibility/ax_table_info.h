@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXTableInfo header
+// summary: Declares AXTableInfo, a helper class computing table and grid information such as cell layout, header lists and ARIA counts.
+// ---
+
 #ifndef UI_ACCESSIBILITY_AX_TABLE_INFO_H_
 #define UI_ACCESSIBILITY_AX_TABLE_INFO_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXActionTarget abstract interface
+// summary: Abstract interface for performing accessibility actions on nodes from an AXTreeSource without knowing its concrete class.
+// ---
+
 #ifndef UI_ACCESSIBILITY_AX_ACTION_TARGET_H_
 #define UI_ACCESSIBILITY_AX_ACTION_TARGET_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AX tree update merging utilities implementation
+// summary: Implements checks and merging of consecutive accessibility tree updates to reduce the overhead of repeated unserialization.
+// ---
+
 #include "ui/accessibility/ax_tree_update_util.h"
 
 #include "base/metrics/histogram_macros.h"

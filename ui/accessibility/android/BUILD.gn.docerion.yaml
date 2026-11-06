@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for accessibility test support
+summary: Defines GN targets for the accessibility test support APK, including AIDL, resources, Java libraries and dependencies.

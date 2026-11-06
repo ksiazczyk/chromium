@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestAXTreeUpdate header
+// summary: Declares helpers that construct AXTreeUpdate objects from node hierarchies or tree structure strings for use in tests.
+// ---
+
 #ifndef UI_ACCESSIBILITY_TEST_AX_TREE_UPDATE_H_
 #define UI_ACCESSIBILITY_TEST_AX_TREE_UPDATE_H_
 

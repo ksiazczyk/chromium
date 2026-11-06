@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AXTreeID unit tests
+// summary: Unit tests round-tripping AXTreeID values through string and token conversions.
+// ---
+
 #include "ui/accessibility/ax_tree_id.h"
 
 #include "base/unguessable_token.h"

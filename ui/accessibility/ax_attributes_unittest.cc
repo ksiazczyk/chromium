@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AXAttributes unit tests
+// summary: Unit tests verifying default values for absent attributes and the set, get and remove behavior of the AXAttributes collections.
+// ---
+
 #include "ui/accessibility/ax_attributes.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

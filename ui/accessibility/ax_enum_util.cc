@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility enum to-string conversions
+// summary: Implements ToString conversions from accessibility mojom enums such as events, roles, states, and attributes to their string names.
+// ---
+
 #include "ui/accessibility/ax_enum_util.h"
 
 #include "ui/accessibility/ax_enums.mojom.h"

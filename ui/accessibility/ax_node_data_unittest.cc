@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AXNodeData unit tests
+// summary: Unit tests for AXNodeData covering checked state and text attribute get, set, remove, and comparison behavior.
+// ---
+
 #include "ui/accessibility/ax_node_data.h"
 
 #include <set>

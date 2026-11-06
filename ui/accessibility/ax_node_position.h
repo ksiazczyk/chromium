@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXNodePosition header
+// summary: Declares AXNodePosition, which creates text or tree positions for accessibility nodes depending on the node type.
+// ---
+
 #ifndef UI_ACCESSIBILITY_AX_NODE_POSITION_H_
 #define UI_ACCESSIBILITY_AX_NODE_POSITION_H_
 

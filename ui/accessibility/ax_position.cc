@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXPosition template instantiation
+// summary: Explicitly instantiates the AXPosition template for AXNodePosition and AXNode in the ui namespace.
+// ---
+
 #include "ui/accessibility/ax_position.h"
 
 #include "ui/accessibility/ax_node.h"

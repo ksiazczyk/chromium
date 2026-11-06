@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccessibilityFeaturesMap
+// summary: Java accessor for the native ui/accessibility feature map, letting Java code check whether accessibility features are enabled via the native state.
+// ---
+
 package org.chromium.ui.accessibility;
 
 import org.jni_zero.JNINamespace;

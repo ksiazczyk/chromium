@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AXTableInfo unit tests
+// summary: Unit tests covering AXTableInfo computation for simple tables, row groups, headers, spans and rowless tables.
+// ---
+
 #include "ui/accessibility/ax_table_info.h"
 
 #include "build/build_config.h"

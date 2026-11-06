@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXComputedNodeData implementation
+// summary: Implements caching and computation of unignored parent, child, and text content values for accessibility nodes.
+// ---
+
 #include "ui/accessibility/ax_computed_node_data.h"
 
 #include "base/check_op.h"

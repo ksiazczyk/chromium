@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXTreeData implementation
+// summary: Implements the AXTreeData struct, including a debug string representation, equality comparison, and an unknown-tree-data singleton.
+// ---
+
 #include "ui/accessibility/ax_tree_data.h"
 
 #include "base/no_destructor.h"

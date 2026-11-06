@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeyboardFocusUtil
+// summary: Utility class for setting keyboard focus on Android views, including recursively focusing the first focusable descendant of a ViewGroup regardless of touch-mode focusability.
+// ---
+
 package org.chromium.ui.accessibility;
 
 import android.view.View;

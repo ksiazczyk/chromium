@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AX_EXPORT macro for exporting the accessibility module
+// summary: Defines the AX_EXPORT macro so symbols implemented by the ui/accessibility module can be exported to consumers across build configurations.
+// ---
+
 #ifndef UI_ACCESSIBILITY_AX_EXPORT_H_
 #define UI_ACCESSIBILITY_AX_EXPORT_H_
 

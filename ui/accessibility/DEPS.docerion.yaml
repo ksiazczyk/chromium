@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for ui/accessibility
+summary: DEPS rules listing allowed include paths and forbidding dependencies on the platform-specific accessibility subdirectory.

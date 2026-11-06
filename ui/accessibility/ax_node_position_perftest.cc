@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AXNodePosition performance tests
+// summary: Performance tests measuring calls per second for accessibility position operations such as converting between text and tree positions.
+// ---
+
 #include "base/strings/stringprintf.h"
 #include "base/timer/lap_timer.h"
 #include "testing/gtest/include/gtest/gtest.h"

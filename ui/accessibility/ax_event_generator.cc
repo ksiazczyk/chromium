@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXEventGenerator implementation
+// summary: Computes platform-relevant accessibility events, such as name or state changes, resulting from modifications to an accessibility tree.
+// ---
+
 #include "ui/accessibility/ax_event_generator.h"
 
 #include "base/no_destructor.h"

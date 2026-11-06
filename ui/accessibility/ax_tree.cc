@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXTree implementation
+// summary: Implements the live accessibility tree that applies tree updates, maintains reverse relations, and records unserialize errors and reliability metrics.
+// ---
+
 #include "ui/accessibility/ax_tree.h"
 
 #include <stddef.h>

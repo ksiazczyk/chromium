@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXSelection implementation
+// summary: Implements AXSelection, converting tree selection endpoints to unignored positions with adjusted node ids, offsets, and affinity.
+// ---
+
 #include "ui/accessibility/ax_selection.h"
 
 #include "ui/accessibility/ax_node_position.h"

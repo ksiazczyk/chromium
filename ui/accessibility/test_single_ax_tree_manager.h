@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestSingleAXTreeManager header
+// summary: Declares a test-only AXTreeManager supporting a single tree, with helpers to initialize trees and create node positions.
+// ---
+
 #ifndef UI_ACCESSIBILITY_TEST_SINGLE_AX_TREE_MANAGER_H_
 #define UI_ACCESSIBILITY_TEST_SINGLE_AX_TREE_MANAGER_H_
 

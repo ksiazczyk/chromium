@@ -4,6 +4,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Accessibility service configuration
+summary: Android accessibility service settings declaring event types, generic feedback, flags, and the ability to retrieve window content.
+-->
+
 <accessibility-service xmlns:android="http://schemas.android.com/apk/res/android"
     android:accessibilityEventTypes="typeAllMask"
     android:accessibilityFeedbackType="feedbackGeneric"

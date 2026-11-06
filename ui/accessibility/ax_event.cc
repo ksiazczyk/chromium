@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXEvent implementation
+// summary: Implements the AXEvent class, including a debug string describing the event type, its source, intents, and action request id.
+// ---
+
 #include "ui/accessibility/ax_event.h"
 
 #include "base/strings/string_number_conversions.h"

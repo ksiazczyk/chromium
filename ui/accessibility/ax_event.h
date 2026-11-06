@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXEvent class declaration
+// summary: Declares AXEvent, which describes an accessibility event with node id, event type, source, intents, and action request id.
+// ---
+
 #ifndef UI_ACCESSIBILITY_AX_EVENT_H_
 #define UI_ACCESSIBILITY_AX_EVENT_H_
 

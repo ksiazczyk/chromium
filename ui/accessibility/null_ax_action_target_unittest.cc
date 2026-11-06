@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NullAXActionTarget unit tests
+// summary: Verifies that every NullAXActionTarget method returns its null default, such as failed actions and empty bounds and scroll offsets.
+// ---
+
 #include "ui/accessibility/null_ax_action_target.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

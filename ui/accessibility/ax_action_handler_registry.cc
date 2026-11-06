@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXActionHandlerRegistry implementation
+// summary: Implements the singleton registry that maps frame IDs to accessibility tree IDs, tracks action handlers, and notifies observers of actions and removed trees.
+// ---
+
 #include "ui/accessibility/ax_action_handler_registry.h"
 
 #include "base/no_destructor.h"

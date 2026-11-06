@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestAXTreeUpdate implementation
+// summary: Parses textual tree structure descriptions into AXTreeUpdate node data with roles, states and attributes for building simple test trees.
+// ---
+
 #include "ui/accessibility/test_ax_tree_update.h"
 
 #include "base/strings/string_number_conversions.h"

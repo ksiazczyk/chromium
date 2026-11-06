@@ -1,0 +1,4 @@
+# Docerion header of ax_features.mojom.
+type: config
+title: Mojom feature flags for ScreenAI and Read Aloud
+summary: Declares accessibility feature flags with default states, including kill switches for ScreenAI content extraction and OCR and Read Aloud options.

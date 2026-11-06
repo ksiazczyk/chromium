@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXAttributes sorted attribute collection
+// summary: Defines a sorted map template for accessibility attributes with traits for fundamental, object and list value types.
+// ---
+
 #ifndef UI_ACCESSIBILITY_AX_ATTRIBUTES_H_
 #define UI_ACCESSIBILITY_AX_ATTRIBUTES_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for ui/accessibility
+summary: Lists code owners for the directory, with per-file owner rules for Mojom files, param traits, and feature or switch files.

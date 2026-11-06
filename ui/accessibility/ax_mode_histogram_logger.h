@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AX mode histogram logger
+// summary: Declares the histogram prefix enum and the function for recording accessibility mode changes to UMA histograms.
+// ---
+
 #ifndef UI_ACCESSIBILITY_AX_MODE_HISTOGRAM_LOGGER_H_
 #define UI_ACCESSIBILITY_AX_MODE_HISTOGRAM_LOGGER_H_
 

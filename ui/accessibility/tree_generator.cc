@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TreeGenerator implementation
+// summary: Implements a generator that builds every unique accessibility tree up to a given node count, including ignored-node variants, for testing.
+// ---
+
 #include "ui/accessibility/tree_generator.h"
 
 #include "ui/accessibility/ax_serializable_tree.h"

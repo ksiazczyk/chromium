@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for AXEventGenerator
+// summary: Verifies with gtest and gmock matchers that AXEventGenerator produces the correct accessibility events for various accessibility tree updates.
+// ---
+
 #include "ui/accessibility/ax_event_generator.h"
 
 #include "testing/gmock/include/gmock/gmock-matchers.h"

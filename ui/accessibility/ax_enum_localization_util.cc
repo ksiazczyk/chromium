@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility enum localization implementation
+// summary: Maps accessibility default action verbs to their localized string resources.
+// ---
+
 #include "ui/accessibility/ax_enum_localization_util.h"
 
 #include "base/notreached.h"

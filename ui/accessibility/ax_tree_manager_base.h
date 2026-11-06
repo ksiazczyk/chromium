@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXTreeManagerBase class header
+// summary: Declares AXTreeManagerBase, a movable class that owns an accessibility tree and manages its connections to parent and child trees.
+// ---
+
 #ifndef UI_ACCESSIBILITY_AX_TREE_MANAGER_BASE_H_
 #define UI_ACCESSIBILITY_AX_TREE_MANAGER_BASE_H_
 

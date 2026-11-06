@@ -1,0 +1,4 @@
+# Docerion header of NodeMatcher.aidl.
+type: source
+title: NodeMatcher
+summary: AIDL parcelable describing criteria for matching accessibility nodes by class name, text, and input or accessibility focus state.

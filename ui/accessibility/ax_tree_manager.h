@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXTreeManager interface for owning and connecting accessibility trees
+// summary: Declares the AXTreeManager interface that owns an AXTree, registers it by tree ID, and manages parent and child tree connections.
+// ---
+
 #ifndef UI_ACCESSIBILITY_AX_TREE_MANAGER_H_
 #define UI_ACCESSIBILITY_AX_TREE_MANAGER_H_
 

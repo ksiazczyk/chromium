@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccessibilityTestService
+// summary: Android accessibility service for tests that waits for events and nodes, performs node actions, and dumps the web contents accessibility tree.
+// ---
+
 package org.chromium.ui.accessibility.testservice;
 
 import android.accessibilityservice.AccessibilityService;

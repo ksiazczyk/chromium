@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXTreeSerializer header
+// summary: Serializes incremental changes from an AXTreeSource into AXTreeUpdate structs, tracking what the client already knows to send only changed nodes.
+// ---
+
 #ifndef UI_ACCESSIBILITY_AX_TREE_SERIALIZER_H_
 #define UI_ACCESSIBILITY_AX_TREE_SERIALIZER_H_
 

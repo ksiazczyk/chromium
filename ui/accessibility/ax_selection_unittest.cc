@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AXSelection unit tests
+// summary: Unit tests verifying that AXSelection computes anchor and focus correctly when ignored nodes are skipped in the accessibility tree.
+// ---
+
 #include "ui/accessibility/ax_selection.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AXBitset unit tests
+// summary: Unit tests for the AXBitset template covering set, get, unset, iteration, size, and append behavior for enum-backed bitsets.
+// ---
+
 #include "ui/accessibility/ax_bitset.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

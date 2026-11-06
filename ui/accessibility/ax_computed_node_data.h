@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXComputedNodeData class declaration
+// summary: Declares a class that computes and caches slow or error-prone AXNode values such as unignored indices and text content.
+// ---
+
 #ifndef UI_ACCESSIBILITY_AX_COMPUTED_NODE_DATA_H_
 #define UI_ACCESSIBILITY_AX_COMPUTED_NODE_DATA_H_
 

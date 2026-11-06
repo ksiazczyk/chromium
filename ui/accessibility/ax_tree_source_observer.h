@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXTreeSourceObserver interface
+// summary: Observer interface notified when nodes are added, updated, or removed in an AXTreeSource.
+// ---
+
 #ifndef UI_ACCESSIBILITY_AX_TREE_SOURCE_OBSERVER_H_
 #define UI_ACCESSIBILITY_AX_TREE_SOURCE_OBSERVER_H_
 

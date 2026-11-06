@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXActionHandler class declaration
+// summary: Declares a convenience base class for making objects visible to accessibility clients, automatically registering an AXTreeID with the registry on construction.
+// ---
+
 #ifndef UI_ACCESSIBILITY_AX_ACTION_HANDLER_H_
 #define UI_ACCESSIBILITY_AX_ACTION_HANDLER_H_
 

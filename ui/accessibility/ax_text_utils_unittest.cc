@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AX text utilities unit tests
+// summary: Unit tests verifying FindAccessibleTextBoundary behavior across word, line, and sentence boundaries with various directions and affinities.
+// ---
+
 #include "ui/accessibility/ax_text_utils.h"
 
 #include <stddef.h>

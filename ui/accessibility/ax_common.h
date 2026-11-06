@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility sanitizer check macros
+// summary: Header defining SANITIZER_CHECK macros and a fail-fast build flag to surface illegal accessibility states in debug and sanitizer builds.
+// ---
+
 #ifndef UI_ACCESSIBILITY_AX_COMMON_H_
 #define UI_ACCESSIBILITY_AX_COMMON_H_
 
