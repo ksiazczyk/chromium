@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoopbackStream class declaration
+// summary: Declares the AudioInputStream that loops back and mixes all output streams in a group, coordinating the signal provider and forwarder components.
+// ---
+
 #ifndef SERVICES_AUDIO_LOOPBACK_STREAM_H_
 #define SERVICES_AUDIO_LOOPBACK_STREAM_H_
 

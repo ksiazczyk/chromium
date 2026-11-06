@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cert verifier service factory unit tests
+// summary: Unit tests for CertVerifierServiceFactoryImpl covering verifier creation, CRL set and Chrome root store updates, and certificate verification requests.
+// ---
+
 #include "services/cert_verifier/cert_verifier_service_factory.h"
 
 #include <cstddef>

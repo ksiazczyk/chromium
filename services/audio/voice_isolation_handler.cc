@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VoiceIsolationHandler implementation
+// summary: Implements the voice isolation pipeline handler, covering component creation, startup metrics logging, and delivery of processed audio.
+// ---
+
 #include "services/audio/voice_isolation_handler.h"
 
 #include <algorithm>

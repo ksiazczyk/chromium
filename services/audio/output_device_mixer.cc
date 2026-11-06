@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OutputDeviceMixer factory
+// summary: Factory that creates OutputDeviceMixerImpl instances for mixing and rendering audio output to a specific output device.
+// ---
+
 #include "services/audio/output_device_mixer.h"
 
 #include "base/task/single_thread_task_runner.h"

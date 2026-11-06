@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Output controller unit tests
+// summary: Unit tests for the audio service OutputController, covering playing and paused state changes, volume, log messages and error handling using mock streams, readers and event handlers.
+// ---
+
 #include "services/audio/output_controller.h"
 
 #include <stdint.h>

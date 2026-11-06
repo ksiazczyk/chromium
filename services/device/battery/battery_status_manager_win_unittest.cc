@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Windows battery status computation
+// summary: Unit tests verifying how ComputeWebBatteryStatus maps Windows SYSTEM_POWER_STATUS values to charging state, level and charging or discharging times.
+// ---
+
 #include "services/device/battery/battery_status_manager_win.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

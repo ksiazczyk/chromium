@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VirtualCpuProbeManager implementation
+// summary: Implements a virtual CPU probe manager with a fake CpuProbe that reports user-provided samples so pressure states can be injected during testing.
+// ---
+
 #include "services/device/compute_pressure/virtual_cpu_probe_manager.h"
 
 #include <optional>

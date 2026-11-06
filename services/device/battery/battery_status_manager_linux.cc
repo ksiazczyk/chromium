@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux battery status manager implementation
+// summary: Implements BatteryStatusManagerLinux, which reads battery properties from UPower over D-Bus and forwards battery status updates on Linux.
+// ---
+
 #include "services/device/battery/battery_status_manager_linux.h"
 
 #include <stddef.h>

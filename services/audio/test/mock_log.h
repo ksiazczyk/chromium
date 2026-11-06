@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockLog gmock of the AudioLog Mojo interface
+// summary: Declares a gmock mock of media::mojom::AudioLog that records creation, start, stop, volume, state and error events, and can expose itself as a Mojo remote.
+// ---
+
 #ifndef SERVICES_AUDIO_TEST_MOCK_LOG_H_
 #define SERVICES_AUDIO_TEST_MOCK_LOG_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Image decoder unit tests
+// summary: Unit tests for ImageDecoderImpl covering image decoding, shrink-to-fit size limits, and animation decoding, with Blink and V8 initialized for the test environment.
+// ---
+
 #include "services/data_decoder/image_decoder_impl.h"
 
 #include <array>

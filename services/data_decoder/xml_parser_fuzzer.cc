@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: XML parser fuzzer
+// summary: LibFuzzer entry point that feeds arbitrary input to XmlParser to fuzz the XML parsing path while suppressing libxml error output.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

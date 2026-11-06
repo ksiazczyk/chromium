@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio service factory
+// summary: Provides factory functions creating embedded or standalone audio service instances with different AudioManager accessors.
+// ---
+
 #include "services/audio/service_factory.h"
 
 #include <utility>

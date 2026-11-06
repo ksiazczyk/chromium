@@ -1,3 +1,9 @@
+---
+type: readme
+title: Audio service overview
+summary: Describes the audio service's core functionality, where it runs on each platform, and which APIs trusted and untrusted processes should use.
+---
+
 #Audio service
 
 Provides core audio functionality: audio device access and enumeration.

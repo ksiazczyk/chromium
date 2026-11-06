@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Structured headers parser implementation
+// summary: Implements the Mojo StructuredHeadersParser interface by delegating item, list and dictionary parsing to net::structured_headers.
+// ---
+
 #include "services/data_decoder/structured_headers_parser_impl.h"
 
 #include <optional>

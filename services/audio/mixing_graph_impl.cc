@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mixing graph implementation
+// summary: Implements the audio mixing graph that combines multiple inputs into one output stream via loopback audio converters, including output sanitizing and UMA overtime logging.
+// ---
+
 
 #include "services/audio/mixing_graph_impl.h"
 

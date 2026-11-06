@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cert verifier service unit tests
+// summary: Unit tests for the cert verifier service, using a dummy CertVerifier implementation to exercise certificate verification requests, results, and cancellation behavior.
+// ---
+
 #include "services/cert_verifier/cert_verifier_service.h"
 
 #include <stdint.h>

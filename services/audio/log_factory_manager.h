@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LogFactoryManager class declaration
+// summary: Declares LogFactoryManager, which binds the Mojo LogFactoryManager interface and provides the audio log factory for the audio service.
+// ---
+
 #ifndef SERVICES_AUDIO_LOG_FACTORY_MANAGER_H_
 #define SERVICES_AUDIO_LOG_FACTORY_MANAGER_H_
 

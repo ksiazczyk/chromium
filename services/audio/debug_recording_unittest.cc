@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Debug recording unit tests
+// summary: Unit tests for DebugRecording using mock audio managers and file providers to verify enable, disable, and file creation calls.
+// ---
+
 #include "services/audio/debug_recording.h"
 
 #include <memory>

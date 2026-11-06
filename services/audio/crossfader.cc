@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crossfader implementation
+// summary: Implements Crossfader, mixing two audio buses with a precomputed rising half-Hann fade window that is safe for real-time audio threads.
+// ---
+
 #include "services/audio/crossfader.h"
 
 #include <cmath>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OutputDeviceMixerImpl unit tests
+// summary: Unit tests for OutputDeviceMixerImpl using mock output streams, mixing graph inputs and listeners to verify mixed and independent playback behavior.
+// ---
+
 #include "services/audio/output_device_mixer_impl.h"
 
 #include <array>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Battery status service header
+// summary: Declares the BatteryStatusService singleton API for adding battery status update callbacks, shutdown handling and testing hooks.
+// ---
+
 #ifndef SERVICES_DEVICE_BATTERY_BATTERY_STATUS_SERVICE_H_
 #define SERVICES_DEVICE_BATTERY_BATTERY_STATUS_SERVICE_H_
 

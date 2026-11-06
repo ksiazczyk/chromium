@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputGlitchCounter class declaration
+// summary: Declares a helper that samples audio glitch statistics at ten-second intervals for InputSyncWriter and reports totals on destruction.
+// ---
+
 #ifndef SERVICES_AUDIO_INPUT_GLITCH_COUNTER_H_
 #define SERVICES_AUDIO_INPUT_GLITCH_COUNTER_H_
 

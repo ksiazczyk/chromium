@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeAudioService class declaration
+// summary: Declares a fake implementation of the AudioService Mojo interface whose stream factory is backed by FakeOutputStream.
+// ---
+
 #ifndef SERVICES_AUDIO_TEST_FAKE_AUDIO_SERVICE_H_
 #define SERVICES_AUDIO_TEST_FAKE_AUDIO_SERVICE_H_
 

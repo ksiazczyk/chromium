@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Output stream implementation
+// summary: Implements OutputStream and its audibility helper, which polls audio power levels to report whether a stream is audible.
+// ---
+
 #include "services/audio/output_stream.h"
 
 #include <inttypes.h>

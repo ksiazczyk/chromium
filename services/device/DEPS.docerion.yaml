@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Device service include rules
+summary: Defines allowed include dependencies for code in the device service directory, with special rules for specific files such as NfcBlocklist.java.

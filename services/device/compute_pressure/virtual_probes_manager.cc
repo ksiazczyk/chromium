@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VirtualProbesManager implementation
+// summary: Implements VirtualProbesManager, which overrides pressure sources with virtual probes and delivers injected pressure states, using a shorter sampling interval for web tests.
+// ---
+
 #include "services/device/compute_pressure/virtual_probes_manager.h"
 
 #include <memory>

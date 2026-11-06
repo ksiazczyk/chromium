@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputStream implementation
+// summary: Implements the mojo-backed audio input stream that wires an InputController to shared memory buffers, clients, observers, and logging.
+// ---
+
 #include "services/audio/input_stream.h"
 
 #include <inttypes.h>

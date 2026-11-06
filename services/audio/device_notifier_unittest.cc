@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DeviceNotifier unit tests
+// summary: Tests that DeviceNotifier notifies registered listeners on audio device changes and ignores other device types.
+// ---
+
 #include "services/audio/device_notifier.h"
 
 #include <memory>

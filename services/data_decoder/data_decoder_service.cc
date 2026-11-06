@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataDecoderService implementation
+// summary: Implements the Mojo service that binds image, structured headers, XML, and gzip decoder receivers.
+// ---
+
 #include "services/data_decoder/data_decoder_service.h"
 
 #include <memory>

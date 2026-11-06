@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Allowed include dependencies for data_decoder
+summary: Lists the directories whose headers code in services/data_decoder is allowed to include.

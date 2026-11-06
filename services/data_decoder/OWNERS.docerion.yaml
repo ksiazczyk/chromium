@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the data_decoder directory
+summary: Lists the email addresses of the owners who review changes to this directory.

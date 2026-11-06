@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake ML model handles implementation
+// summary: Implements fake ML model handles that supply valid and deliberately invalid tflite models for voice isolation tests.
+// ---
+
 #include "services/audio/test/fake_ml_model_handles.h"
 
 #include <utility>

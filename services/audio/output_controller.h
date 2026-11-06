@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Output controller
+// summary: Declares OutputController, which drives an AudioOutputStream through a state machine and fulfills data requests via a synchronous reader.
+// ---
+
 #ifndef SERVICES_AUDIO_OUTPUT_CONTROLLER_H_
 #define SERVICES_AUDIO_OUTPUT_CONTROLLER_H_
 

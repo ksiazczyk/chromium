@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LogFactoryManager unit tests
+// summary: Tests LogFactoryManager behavior, including queuing audio log requests before the log factory is set, using mock audio logs.
+// ---
+
 #include "services/audio/log_factory_manager.h"
 
 #include <memory>

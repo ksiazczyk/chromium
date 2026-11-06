@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XML parser implementation
+// summary: Parses XML strings with libxml into base::Value dictionaries, building element, text, CDATA, namespace and attribute nodes and reporting errors to the caller.
+// ---
+
 #include "services/data_decoder/xml_parser.h"
 
 #include <map>

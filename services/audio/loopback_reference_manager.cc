@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoopbackReferenceManager implementation
+// summary: Implements the AudioService singleton that owns the system loopback stream and hands out reference signal providers to listeners.
+// ---
+
 #include "services/audio/loopback_reference_manager.h"
 
 #include <memory>

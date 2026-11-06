@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cert verifier creation utilities
+// summary: Declares utility functions for creating and updating CertVerifiers used by the cert verifier service factory, including whether a CertNetFetcher is required.
+// ---
+
 #ifndef SERVICES_CERT_VERIFIER_CERT_VERIFIER_CREATION_H_
 #define SERVICES_CERT_VERIFIER_CERT_VERIFIER_CREATION_H_
 

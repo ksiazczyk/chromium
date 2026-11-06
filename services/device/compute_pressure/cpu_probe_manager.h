@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CpuProbeManager class declaration
+// summary: Declares the CpuProbeManager interface that retrieves the CPU compute pressure state from the underlying OS at regular intervals.
+// ---
+
 #ifndef SERVICES_DEVICE_COMPUTE_PRESSURE_CPU_PROBE_MANAGER_H_
 #define SERVICES_DEVICE_COMPUTE_PRESSURE_CPU_PROBE_MANAGER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Compute Pressure build targets
+summary: GN build file defining the compute_pressure source set with its sources and dependencies inside the device services.

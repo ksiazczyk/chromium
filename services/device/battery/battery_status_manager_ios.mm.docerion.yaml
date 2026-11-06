@@ -1,0 +1,4 @@
+# Docerion header of battery_status_manager_ios.mm.
+type: source
+title: iOS battery status manager
+summary: Implements BatteryStatusManager for iOS using UIDevice battery monitoring and notification observers to report battery state and level changes.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputSyncWriter implementation
+// summary: Implements writing captured audio into shared memory segments over a sync socket, with overflow handling and glitch accounting.
+// ---
+
 #include "services/audio/input_sync_writer.h"
 
 #include <algorithm>

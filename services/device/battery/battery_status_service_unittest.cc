@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the battery status service
+// summary: Unit tests for BatteryStatusService that use a fake battery manager to verify callback registration, notification and shutdown behavior.
+// ---
+
 #include "services/device/battery/battery_status_service.h"
 
 #include <memory>

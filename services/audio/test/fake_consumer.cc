@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeConsumer implementation
+// summary: Implements recording of audio bus samples with helpers to detect silence, find silence ends, and compute tone amplitude.
+// ---
+
 #include "services/audio/test/fake_consumer.h"
 
 #include <algorithm>

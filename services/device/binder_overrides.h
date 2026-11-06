@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Binder overrides declarations
+// summary: Declares repeating binder callback types and override accessor functions for device service Mojo interfaces, exported from the binder overrides component.
+// ---
+
 #ifndef SERVICES_DEVICE_BINDER_OVERRIDES_H_
 #define SERVICES_DEVICE_BINDER_OVERRIDES_H_
 

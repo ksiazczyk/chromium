@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocalMuter implementation
+// summary: Implements LocalMuter, which mutes all sources in a loopback group from construction until destruction and unmutes them when the muter goes away.
+// ---
+
 #include "services/audio/local_muter.h"
 
 #include <utility>

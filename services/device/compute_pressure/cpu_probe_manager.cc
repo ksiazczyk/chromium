@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CpuProbeManager implementation
+// summary: Implements periodic CPU pressure sampling by driving a system_cpu::CpuProbe with a repeating timer and reporting samples through a callback.
+// ---
+
 #include "services/device/compute_pressure/cpu_probe_manager.h"
 
 #include <memory>

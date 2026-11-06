@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BatteryMonitorImpl unit tests
+// summary: Tests the BatteryMonitor implementation in Device Service using a fake battery status manager as the source of battery information.
+// ---
+
 #include "services/device/battery/battery_monitor_impl.h"
 
 #include <utility>

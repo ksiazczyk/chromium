@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Audio service issue tracker metadata
+summary: Maps the audio service directory to the Internals>Media>Audio monorail component and a Buganizer component ID.

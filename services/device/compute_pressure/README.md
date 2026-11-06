@@ -1,3 +1,13 @@
+---
+type: readme
+title: Compute Pressure API
+summary: Describes the services-side implementation of the Compute Pressure API and maps the main classes across services, content and blink.
+relations:
+  - documents /services/device/compute_pressure/cpu_probe_manager.cc
+  - documents /services/device/compute_pressure/cpu_probe_manager.h
+  - documents /services/device/compute_pressure/pressure_manager_impl.cc
+---
+
 # Compute Pressure API
 
 This directory contains the service-side implementation of the

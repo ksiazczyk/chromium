@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InputGlitchCounter unit tests
+// summary: Unit tests verifying interval and below-ten-second glitch histograms and the binary glitch metric reported by InputGlitchCounter.
+// ---
+
 #include "services/audio/input_glitch_counter.h"
 
 #include <memory>

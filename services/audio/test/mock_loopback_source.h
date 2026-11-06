@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockLoopbackSource gmock of LoopbackSource
+// summary: Declares a gmock mock of LoopbackSource stubbing audio parameters, snooping and muting behavior for loopback-related tests.
+// ---
+
 #ifndef SERVICES_AUDIO_TEST_MOCK_LOOPBACK_SOURCE_H_
 #define SERVICES_AUDIO_TEST_MOCK_LOOPBACK_SOURCE_H_
 

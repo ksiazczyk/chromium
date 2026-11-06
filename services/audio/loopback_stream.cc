@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoopbackStream implementation
+// summary: Implements the loopback audio input stream, wiring mojo bindings, the shared memory data pipe and signal forwarding for group loopback capture.
+// ---
+
 #include "services/audio/loopback_stream.h"
 
 #include <algorithm>

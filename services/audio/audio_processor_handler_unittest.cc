@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AudioProcessorHandler unit tests
+// summary: Unit tests covering audio processing, voice isolation, and FIFO behaviour of AudioProcessorHandler using mocks and fake ML model handles.
+// ---
+
 #include "services/audio/audio_processor_handler.h"
 
 #include <algorithm>

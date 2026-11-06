@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default battery status manager stub
+// summary: Provides a fallback BatteryStatusManager whose listening methods are not implemented, used on platforms without a specific manager.
+// ---
+
 #include <memory>
 
 #include "base/notimplemented.h"

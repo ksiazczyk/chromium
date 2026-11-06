@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ML model manager unit tests
+// summary: Parameterized unit tests covering set, get, invalidation, and stop-serving behavior of the ML model manager with valid and invalid TFLite files.
+// ---
+
 #include <memory>
 
 #include "base/containers/span.h"

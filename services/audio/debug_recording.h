@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DebugRecording class declaration
+// summary: Declares DebugRecording, the service-side receiver controlling enablement of audio debug recording via a mojo file provider.
+// ---
+
 #ifndef SERVICES_AUDIO_DEBUG_RECORDING_H_
 #define SERVICES_AUDIO_DEBUG_RECORDING_H_
 

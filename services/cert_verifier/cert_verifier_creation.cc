@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cert verifier creation implementation
+// summary: Implements the factory that creates net::CertVerifier instances based on platform and build configuration, including Chrome root store and certificate transparency support.
+// ---
+
 #include "services/cert_verifier/cert_verifier_creation.h"
 
 #include "base/memory/scoped_refptr.h"

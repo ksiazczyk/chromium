@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputController class declaration
+// summary: Declares the InputController class that routes captured audio through optional audio processing to a sync writer, with error codes and data flow documentation.
+// ---
+
 #ifndef SERVICES_AUDIO_INPUT_CONTROLLER_H_
 #define SERVICES_AUDIO_INPUT_CONTROLLER_H_
 

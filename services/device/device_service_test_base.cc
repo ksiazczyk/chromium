@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device service test base implementation
+// summary: Implements the DeviceServiceTestBase fixture, creating a DeviceService with test task runners, a fake geolocation API key and fake system permission manager for tests.
+// ---
+
 #include "services/device/device_service_test_base.h"
 
 #include <memory>

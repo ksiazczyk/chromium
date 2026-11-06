@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProbesManager implementation
+// summary: Implements ProbesManager, which registers pressure clients per source, forwards CPU samples as pressure updates and stops probes when clients disconnect.
+// ---
+
 #include "services/device/compute_pressure/probes_manager.h"
 
 #include "base/time/time.h"

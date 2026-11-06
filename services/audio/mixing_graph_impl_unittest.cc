@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mixing graph implementation unit tests
+// summary: Unit tests verifying that inputs are added to the main converter or dedicated converters and removed correctly by MixingGraphImpl.
+// ---
+
 #include "services/audio/mixing_graph_impl.h"
 #include "media/base/channel_layout.h"
 #include "media/base/loopback_audio_converter.h"

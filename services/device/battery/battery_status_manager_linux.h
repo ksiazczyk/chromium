@@ -1,6 +1,13 @@
 // Copyright 2014 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Linux battery status manager header
+// summary: Declares the Linux battery status manager, the UPower device state and type enums, and helpers for computing web battery status from D-Bus properties.
+// ---
+
 #ifndef SERVICES_DEVICE_BATTERY_BATTERY_STATUS_MANAGER_LINUX_H_
 #define SERVICES_DEVICE_BATTERY_BATTERY_STATUS_MANAGER_LINUX_H_
 

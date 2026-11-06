@@ -1,6 +1,13 @@
 // Copyright 2022 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: InputGlitchCounter implementation
+// summary: Implements periodic UMA logging of dropped data and missed read deadlines detected during audio capture sessions.
+// ---
+
 #include "services/audio/input_glitch_counter.h"
 
 #include <cinttypes>

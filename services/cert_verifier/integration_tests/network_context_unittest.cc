@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NetworkContext unit tests with real cert verifier service
+// summary: Unit tests that exercise NetworkContext with a real cert verifier service, using an embedded test server, feature lists, and histogram testing.
+// ---
+
 #include "services/network/network_context.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeOutputStream implementation
+// summary: Implements a fake output stream factory that creates streams, counts play and pause calls, and consumes audio frames.
+// ---
+
 #include "services/audio/test/fake_output_stream.h"
 
 #include <algorithm>

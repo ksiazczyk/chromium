@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DelayBuffer class declaration
+// summary: Declares DelayBuffer, which maintains a recent history of an audio signal for loopback read-back with frame-precise positioning.
+// ---
+
 #ifndef SERVICES_AUDIO_DELAY_BUFFER_H_
 #define SERVICES_AUDIO_DELAY_BUFFER_H_
 

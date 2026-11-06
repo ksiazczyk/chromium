@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LogFactoryAdapter class declaration
+// summary: Declares LogFactoryAdapter, a media::AudioLogFactory that creates audio logs through a mojo AudioLogFactory and buffers pending requests.
+// ---
+
 #ifndef SERVICES_AUDIO_LOG_FACTORY_ADAPTER_H_
 #define SERVICES_AUDIO_LOG_FACTORY_ADAPTER_H_
 

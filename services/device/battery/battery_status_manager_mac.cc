@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac battery status manager implementation
+// summary: Implements the macOS battery status manager, reading power source information via IOKit and mapping it to web battery status values.
+// ---
+
 #include "services/device/battery/battery_status_manager.h"
 
 #include <CoreFoundation/CoreFoundation.h>

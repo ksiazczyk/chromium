@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Muteable interface
+// summary: Defines an interface for starting and stopping muting of outbound audio while snoopers continue to receive the unmuted signal.
+// ---
+
 #ifndef SERVICES_AUDIO_MUTEABLE_H_
 #define SERVICES_AUDIO_MUTEABLE_H_
 

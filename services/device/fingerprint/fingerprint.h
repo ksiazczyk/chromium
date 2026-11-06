@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fingerprint service entry point header
+// summary: Declares the Fingerprint class whose Create function is implemented by platform-specific subclasses to bind a Mojo receiver.
+// ---
+
 #ifndef SERVICES_DEVICE_FINGERPRINT_FINGERPRINT_H_
 #define SERVICES_DEVICE_FINGERPRINT_FINGERPRINT_H_
 

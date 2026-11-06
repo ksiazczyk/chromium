@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceNotifier class declaration
+// summary: Declares a Mojo DeviceNotifier that registers listeners and notifies them about audio device changes.
+// ---
+
 #ifndef SERVICES_AUDIO_DEVICE_NOTIFIER_H_
 #define SERVICES_AUDIO_DEVICE_NOTIFIER_H_
 

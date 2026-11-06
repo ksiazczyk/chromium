@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Processing audio FIFO unit tests
+// summary: Unit tests verifying that ProcessingAudioFifo pushes, processes and reports captured audio data, volume and glitch info correctly.
+// ---
+
 #include "services/audio/processing_audio_fifo.h"
 
 #include <cstring>

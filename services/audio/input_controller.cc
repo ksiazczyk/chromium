@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputController implementation
+// summary: Implements the audio input controller that manages capture streams, mute and power monitoring, error codes, and optional echo cancellation reference streams.
+// ---
+
 #include "services/audio/input_controller.h"
 
 #include <inttypes.h>

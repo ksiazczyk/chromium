@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoopbackCoordinator class declaration
+// summary: Declares LoopbackCoordinator, which manages loopback members and notifies observers, plus LoopbackGroupObserver for filtered group monitoring.
+// ---
+
 #ifndef SERVICES_AUDIO_LOOPBACK_COORDINATOR_H_
 #define SERVICES_AUDIO_LOOPBACK_COORDINATOR_H_
 

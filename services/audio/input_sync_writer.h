@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'InputSyncWriter: low-latency audio input over sync socket'
+// summary: Declares InputSyncWriter, an InputController::SyncWriter that transmits captured audio between browser and renderer processes via shared memory and a sync socket, with FIFO overflow handling.
+// ---
+
 #ifndef SERVICES_AUDIO_INPUT_SYNC_WRITER_H_
 #define SERVICES_AUDIO_INPUT_SYNC_WRITER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Battery status service implementation
+// summary: Implements the BatteryStatusService singleton that manages a platform battery fetcher and notifies registered consumers of battery status updates.
+// ---
+
 #include "services/device/battery/battery_status_service.h"
 
 #include <utility>

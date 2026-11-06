@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataDecoderService class declaration
+// summary: Declares the DataDecoderService Mojo interface for binding the various decoder receivers.
+// ---
+
 #ifndef SERVICES_DATA_DECODER_DATA_DECODER_SERVICE_H_
 #define SERVICES_DATA_DECODER_DATA_DECODER_SERVICE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows battery status manager header
+// summary: Declares the WinACLineStatus enum and the ComputeWebBatteryStatus helper that converts a Windows SYSTEM_POWER_STATUS into a battery status.
+// ---
+
 #ifndef SERVICES_DEVICE_BATTERY_BATTERY_STATUS_MANAGER_WIN_H_
 #define SERVICES_DEVICE_BATTERY_BATTERY_STATUS_MANAGER_WIN_H_
 

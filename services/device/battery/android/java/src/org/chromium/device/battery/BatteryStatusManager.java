@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BatteryStatusManager
+// summary: Battery status data source that registers an Android broadcast receiver for battery change intents and invokes a callback whenever a notification arrives.
+// ---
+
 package org.chromium.device.battery;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncReader implementation
+// summary: Implements SyncReader, which transports audio output data via shared memory and a sync socket while tracking glitches and latency.
+// ---
+
 #include "services/audio/sync_reader.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BatteryStatusManagerTest
+// summary: JUnit test suite verifying that BatteryStatusManager converts Android battery change intents into correct BatteryStatus values, using a fake Android battery manager for controlled inputs.
+// ---
+
 package org.chromium.device.battery;
 
 import android.content.Intent;

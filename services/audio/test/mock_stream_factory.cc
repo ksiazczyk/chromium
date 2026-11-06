@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockStreamFactory implementation
+// summary: Implements MockReceiverAudioOutputStream and MockStreamFactory, binding stream receivers and storing creation callbacks when output streams are requested.
+// ---
+
 #include "services/audio/test/mock_stream_factory.h"
 
 namespace audio {

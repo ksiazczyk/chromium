@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeLoopbackGroupMember implementation
+// summary: Implements a loopback group member fake that renders configurable per-channel sine tones to a snooper for tests.
+// ---
+
 
 #include "services/audio/test/fake_loopback_group_member.h"
 

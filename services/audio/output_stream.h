@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Output stream header
+// summary: Declares OutputStream, the Mojo audio output service implementing play, pause, flush, volume, and device switching.
+// ---
+
 #ifndef SERVICES_AUDIO_OUTPUT_STREAM_H_
 #define SERVICES_AUDIO_OUTPUT_STREAM_H_
 

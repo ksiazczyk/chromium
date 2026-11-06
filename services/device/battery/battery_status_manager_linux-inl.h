@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux UPower DBus constant definitions
+// summary: Defines constant strings for the UPower DBus service name, device path, interface and property names used by the Linux battery manager.
+// ---
+
 #ifndef SERVICES_DEVICE_BATTERY_BATTERY_STATUS_MANAGER_LINUX_INL_H_
 #define SERVICES_DEVICE_BATTERY_BATTERY_STATUS_MANAGER_LINUX_INL_H_
 

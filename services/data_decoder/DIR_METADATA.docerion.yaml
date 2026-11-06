@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata with tracker and team contacts
+summary: Records the issue tracker component, team email, and Buganizer component for this directory.

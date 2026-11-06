@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Shared directory metadata for Compute Pressure
+summary: Shared Chromium metadata specifying the monorail component, team email and Buganizer component for the compute pressure directory.

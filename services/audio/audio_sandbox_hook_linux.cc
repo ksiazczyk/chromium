@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio sandbox hook implementation for Linux
+// summary: Implements the Linux pre-sandbox hook that loads audio libraries and grants broker file permissions for ALSA and PulseAudio in the sandboxed audio service.
+// ---
+
 #include "services/audio/audio_sandbox_hook_linux.h"
 
 #include <dlfcn.h>

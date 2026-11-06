@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OutputDeviceMixerManager implementation
+// summary: Implements the manager that creates and tracks per-device OutputDeviceMixers, normalizes reserved device IDs, handles device changes and provides reference signal listeners.
+// ---
+
 #include "services/audio/output_device_mixer_manager.h"
 
 #include "base/check.h"

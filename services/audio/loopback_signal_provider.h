@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoopbackSignalProvider interface
+// summary: Declares the loopback signal provider interface and class that mixes audio from observed loopback sources with adaptive capture delay.
+// ---
+
 #ifndef SERVICES_AUDIO_LOOPBACK_SIGNAL_PROVIDER_H_
 #define SERVICES_AUDIO_LOOPBACK_SIGNAL_PROVIDER_H_
 

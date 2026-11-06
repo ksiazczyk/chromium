@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OutputDeviceMixerImpl implementation
+// summary: Implements per-device output mixing, switching between independent stream playback and mixed playback through a MixingGraph, with UMA error and status reporting.
+// ---
+
 #include "services/audio/output_device_mixer_impl.h"
 
 #include "base/check.h"

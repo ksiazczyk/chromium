@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: C++ implementations of the DOM builder FFI helpers
+// summary: Implements element, text, and CDATA creation plus attribute, namespace, and child functions that forward Rust calls to Node methods guarded by a PassKey.
+// ---
+
 #include "services/data_decoder/xml/dom_builder.h"
 
 #include <utility>

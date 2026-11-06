@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for SyncReader
+// summary: Tests SyncReader behavior, including parameterized bitstream buffer overflow cases that must not write out of bounds in shared memory.
+// ---
+
 #include "services/audio/sync_reader.h"
 
 #include <limits>

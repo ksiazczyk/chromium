@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StreamFactory implementation
+// summary: Implements the AudioStreamFactory Mojo interface that creates input, output, switchable and loopback audio streams for the audio service.
+// ---
+
 #include "services/audio/stream_factory.h"
 
 #include <algorithm>

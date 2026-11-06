@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reference signal provider interface
+// summary: Declares interfaces for starting and stopping listening to a device's reference output, including logged outcome enums and a factory.
+// ---
+
 #ifndef SERVICES_AUDIO_REFERENCE_SIGNAL_PROVIDER_H_
 #define SERVICES_AUDIO_REFERENCE_SIGNAL_PROVIDER_H_
 

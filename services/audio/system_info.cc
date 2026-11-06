@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemInfo service implementation
+// summary: Implements the mojom SystemInfo interface answering queries about audio input and output devices, adding voice isolation support when wide echo cancellation is enabled.
+// ---
+
 #include "services/audio/system_info.h"
 
 #include <utility>

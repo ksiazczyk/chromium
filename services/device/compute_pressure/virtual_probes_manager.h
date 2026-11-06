@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VirtualProbesManager class header
+// summary: Declares VirtualProbesManager, a ProbesManager subclass that manages virtual probe overrides and injected pressure updates per source.
+// ---
+
 #ifndef SERVICES_DEVICE_COMPUTE_PRESSURE_VIRTUAL_PROBES_MANAGER_H_
 #define SERVICES_DEVICE_COMPUTE_PRESSURE_VIRTUAL_PROBES_MANAGER_H_
 

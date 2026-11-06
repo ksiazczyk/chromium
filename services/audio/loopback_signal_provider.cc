@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoopbackSignalProvider implementation
+// summary: Implements the loopback signal provider that snoops group output sources, adapts capture delay and mixes their rendered audio into a single loopback signal.
+// ---
+
 #include "services/audio/loopback_signal_provider.h"
 
 #include <memory>

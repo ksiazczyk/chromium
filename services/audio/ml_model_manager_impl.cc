@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ML model manager implementation
+// summary: Implements loading TFLite model files on background threads and caching, serving, and invalidating model handles for the audio service.
+// ---
+
 #include <memory>
 #include <utility>
 #include <vector>

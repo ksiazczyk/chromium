@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XML parser header
+// summary: Declares XmlParser, the Mojo XmlParser implementation that parses XML with configurable whitespace behavior.
+// ---
+
 #ifndef SERVICES_DATA_DECODER_XML_PARSER_H_
 #define SERVICES_DATA_DECODER_XML_PARSER_H_
 

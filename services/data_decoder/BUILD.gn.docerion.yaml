@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the data_decoder service
+summary: Defines GN source sets for the decoder library and tests plus an XML parser fuzzer target.

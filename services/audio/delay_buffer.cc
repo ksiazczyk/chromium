@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Delay buffer implementation
+// summary: Implements DelayBuffer, which stores recent audio chunks with volume scaling and reads them back, zero-filling gaps in the recording.
+// ---
+
 #include "services/audio/delay_buffer.h"
 
 #include <algorithm>

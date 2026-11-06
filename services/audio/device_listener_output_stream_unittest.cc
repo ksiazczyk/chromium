@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DeviceListenerOutputStream unit tests
+// summary: Tests that the stream wrapper delegates calls to the wrapped stream and handles device change errors with delayed reporting.
+// ---
+
 #include "services/audio/device_listener_output_stream.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputStream class declaration
+// summary: Declares the InputStream class implementing the AudioInputStream mojo interface and InputController event handling for capture streams.
+// ---
+
 #ifndef SERVICES_AUDIO_INPUT_STREAM_H_
 #define SERVICES_AUDIO_INPUT_STREAM_H_
 

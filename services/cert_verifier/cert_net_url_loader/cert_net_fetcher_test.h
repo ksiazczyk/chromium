@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CertNetFetcherURLLoader test utility class declarations
+// summary: Declares test utility classes that hold a CertNetFetcherURLLoader together with a mock or real URLLoaderFactory, for network-thread test use only.
+// ---
+
 #ifndef SERVICES_CERT_VERIFIER_CERT_NET_URL_LOADER_CERT_NET_FETCHER_TEST_H_
 #define SERVICES_CERT_VERIFIER_CERT_NET_URL_LOADER_CERT_NET_FETCHER_TEST_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header declaring the XML DOM builder FFI helpers
+// summary: Declares the ffi namespace functions that Rust uses to create nodes and set attributes, namespaces, and children on the C++ XML DOM.
+// ---
+
 #ifndef SERVICES_DATA_DECODER_XML_DOM_BUILDER_H_
 #define SERVICES_DATA_DECODER_XML_DOM_BUILDER_H_
 

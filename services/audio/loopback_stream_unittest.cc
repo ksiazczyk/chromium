@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LoopbackStream unit tests
+// summary: Unit tests for the loopback stream, using fake group members and sync writers to verify recording, volume handling and error behavior.
+// ---
+
 #include "services/audio/loopback_stream.h"
 
 #include <algorithm>
