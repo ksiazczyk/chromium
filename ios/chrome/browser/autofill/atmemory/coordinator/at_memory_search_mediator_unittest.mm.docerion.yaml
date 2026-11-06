@@ -1,0 +1,4 @@
+# Docerion header of at_memory_search_mediator_unittest.mm.
+type: test
+title: AtMemorySearchMediator unit tests
+summary: Unit tests for the AtMemory search mediator covering search queries, notice acknowledgement, and histogram metrics with fakes and mocks.

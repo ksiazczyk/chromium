@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for form input accessory tests
+summary: Sets include rules limiting the dependencies allowed for the form input accessory test directory.

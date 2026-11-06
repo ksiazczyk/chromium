@@ -1,0 +1,4 @@
+# Docerion header of card_unmask_authentication_selection_coordinator.mm.
+type: source
+title: Card unmask authentication selection coordinator implementation
+summary: Implements the authentication selection coordinator, wiring the mediator, view controller, and dialog model controller into the navigation stack.

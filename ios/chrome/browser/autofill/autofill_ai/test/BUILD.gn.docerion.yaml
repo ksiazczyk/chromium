@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: test
+title: BUILD.gn for Autofill AI Earl Grey test target
+summary: Defines the test-only eg2_tests source set and its dependencies for building the Autofill AI Earl Grey integration tests.

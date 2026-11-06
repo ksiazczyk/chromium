@@ -1,0 +1,4 @@
+# Docerion header of branding_mediator.mm.
+type: source
+title: Branding mediator implementation
+summary: Implements BrandingMediator, tracking display and pop-animation counts in local state preferences and recording branding tap metrics.

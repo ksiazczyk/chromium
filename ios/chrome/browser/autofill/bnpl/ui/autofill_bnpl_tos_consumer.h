@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BNPL ToS consumer protocol
+// summary: Declares the bullet item data class and the consumer protocol used to populate the BNPL Terms of Service screen.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_BNPL_UI_AUTOFILL_BNPL_TOS_CONSUMER_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_BNPL_UI_AUTOFILL_BNPL_TOS_CONSUMER_H_
 

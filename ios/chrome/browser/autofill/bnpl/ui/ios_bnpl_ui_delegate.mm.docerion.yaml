@@ -1,0 +1,4 @@
+# Docerion header of ios_bnpl_ui_delegate.mm.
+type: source
+title: IosBnplUiDelegate implementation
+summary: Implements the iOS BNPL UI delegate methods as NOTIMPLEMENTED stubs with TODOs for issuer selection, terms of service, progress, and error UI.

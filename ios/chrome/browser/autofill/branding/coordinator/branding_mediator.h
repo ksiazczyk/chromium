@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Branding mediator header
+// summary: Declares BrandingMediator, which handles visibility of the autofill branding icon and connects a view controller delegate to a branding consumer.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_BRANDING_COORDINATOR_BRANDING_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_BRANDING_COORDINATOR_BRANDING_MEDIATOR_H_
 

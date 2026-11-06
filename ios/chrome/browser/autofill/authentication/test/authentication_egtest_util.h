@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test constants for autofill authentication Earl Grey tests
+// summary: Declares shared constants such as the test page URL, form field names, and intercepted request URLs with fake payment server responses used by the authentication tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_AUTHENTICATION_TEST_AUTHENTICATION_EGTEST_UTIL_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_AUTHENTICATION_TEST_AUTHENTICATION_EGTEST_UTIL_H_
 

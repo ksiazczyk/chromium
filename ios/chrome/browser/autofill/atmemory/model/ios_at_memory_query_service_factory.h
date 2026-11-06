@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IOSAtMemoryQueryServiceFactory header
+// summary: Declares the profile-keyed service factory that creates AtMemoryQueryService instances for iOS Chrome profiles.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_ATMEMORY_MODEL_IOS_AT_MEMORY_QUERY_SERVICE_FACTORY_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_ATMEMORY_MODEL_IOS_AT_MEMORY_QUERY_SERVICE_FACTORY_H_
 

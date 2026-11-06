@@ -1,0 +1,4 @@
+# Docerion header of autofill_ai_sources_view_controller.mm.
+type: source
+title: Autofill AI sources view controller implementation
+summary: Implements the sources list table view, navigation bar with subtitle, cell configuration, and delegate callbacks for selection and dismissal.

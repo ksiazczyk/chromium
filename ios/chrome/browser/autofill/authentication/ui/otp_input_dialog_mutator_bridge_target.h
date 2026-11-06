@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: otp_input_dialog_mutator_bridge_target.h
+// summary: Declares the C++ abstract interface mirroring the OtpInputDialogMutator Objective-C protocol for bridge forwarding.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_AUTHENTICATION_UI_OTP_INPUT_DIALOG_MUTATOR_BRIDGE_TARGET_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_AUTHENTICATION_UI_OTP_INPUT_DIALOG_MUTATOR_BRIDGE_TARGET_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of autofill_ai_error_dialog_context.mm.
+type: source
+title: Autofill AI error dialog context implementation
+summary: Implements the default constructor, move operations, and destructor for the AutofillAiErrorDialogContext struct.

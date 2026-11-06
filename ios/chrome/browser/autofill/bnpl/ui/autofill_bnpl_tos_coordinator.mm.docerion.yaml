@@ -1,0 +1,4 @@
+# Docerion header of autofill_bnpl_tos_coordinator.mm.
+type: source
+title: BNPL ToS coordinator implementation
+summary: Presents and dismisses the BNPL ToS bottom sheet and opens tapped legal links in new tabs after validating HTTP or HTTPS URLs.

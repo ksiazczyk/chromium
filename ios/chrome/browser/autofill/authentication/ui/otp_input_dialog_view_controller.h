@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: otp_input_dialog_view_controller.h
+// summary: Declares the table view controller for the UI that lets the user enter an OTP for card verification.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_AUTHENTICATION_UI_OTP_INPUT_DIALOG_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_AUTHENTICATION_UI_OTP_INPUT_DIALOG_VIEW_CONTROLLER_H_
 

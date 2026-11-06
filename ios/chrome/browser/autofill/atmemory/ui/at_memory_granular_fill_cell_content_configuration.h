@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AtMemory granular fill cell content configuration interface
+// summary: Declares a table view cell content configuration showing an attribute name and a selectable value chip with a tap handler.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_ATMEMORY_UI_AT_MEMORY_GRANULAR_FILL_CELL_CONTENT_CONFIGURATION_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_ATMEMORY_UI_AT_MEMORY_GRANULAR_FILL_CELL_CONTENT_CONFIGURATION_H_
 

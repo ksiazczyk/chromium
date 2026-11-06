@@ -1,0 +1,4 @@
+# Docerion header of form_suggestion_label.mm.
+type: source
+title: FormSuggestionLabel implementation
+summary: Implements the suggestion label view with title and subtitle fonts, icons, shadows, compact mode and context menu support.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeyboardAccessoryOptionalUpdateScheduler interface
+// summary: Declares a scheduler that accepts optional suggestion updates after a cooldown and carries them out after a delay.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_FORM_INPUT_ACCESSORY_COORDINATOR_KEYBOARD_ACCESSORY_OPTIONAL_UPDATE_SCHEDULER_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_FORM_INPUT_ACCESSORY_COORDINATOR_KEYBOARD_ACCESSORY_OPTIONAL_UPDATE_SCHEDULER_H_
 

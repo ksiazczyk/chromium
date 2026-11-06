@@ -1,0 +1,4 @@
+# Docerion header of ambient_autofill_notice_mediator_unittest.mm.
+type: test
+title: Ambient Autofill notice mediator unit tests
+summary: Unit tests verifying that the mediator logs the expected histogram buckets and dismisses the bottom sheet for acknowledge, settings, and manual dismiss actions.

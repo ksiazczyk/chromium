@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for atmemory
+summary: Defines the allowed include dependencies for the atmemory directory, covering personal context, subscription eligibility, and related iOS Chrome headers.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill AI private inference notice mediator header
+// summary: Declares the mediator for the Autofill AI Private Inference notice bottom sheet, initialized with a pref service and autofill and settings command handlers.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_AUTOFILL_AI_COORDINATOR_AUTOFILL_AI_PRIVATE_INFERENCE_NOTICE_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_AUTOFILL_AI_COORDINATOR_AUTOFILL_AI_PRIVATE_INFERENCE_NOTICE_MEDIATOR_H_
 

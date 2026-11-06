@@ -1,0 +1,4 @@
+# Docerion header of bnpl_issuer_data_unittest.mm.
+type: test
+title: Unit tests for BnplIssuerData property mappings
+summary: Verifies that BnplIssuerData maps issuer ID, name, selection option text, icon and linked state correctly for linked and unlinked BNPL issuers.

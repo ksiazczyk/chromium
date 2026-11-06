@@ -1,0 +1,4 @@
+# Docerion header of at_memory_search_view_controller_unittest.mm.
+type: test
+title: AtMemory search view controller unit tests
+summary: Unit tests for the AtMemory search view controller, verifying zero-state display, search result sections and related UI behavior using mock suggestions and OCMock.

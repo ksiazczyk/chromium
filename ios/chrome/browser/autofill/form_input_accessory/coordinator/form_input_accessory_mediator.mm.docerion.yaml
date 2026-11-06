@@ -1,0 +1,4 @@
+# Docerion header of form_input_accessory_mediator.mm.
+type: source
+title: FormInputAccessoryMediator implementation
+summary: Implements the mediator logic for retrieving autofill, password, and passkey suggestions and scheduling accessory updates.

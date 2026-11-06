@@ -1,0 +1,4 @@
+# Docerion header of autofill_ai_error_dialog_coordinator.mm.
+type: source
+title: Autofill AI error dialog coordinator implementation
+summary: Implements the coordinator, queuing pending autofill AI alerts and presenting them with retry handling.

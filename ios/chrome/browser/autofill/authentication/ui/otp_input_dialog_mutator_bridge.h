@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: otp_input_dialog_mutator_bridge.h
+// summary: Declares a bridge class implementing the OtpInputDialogMutator protocol that forwards messages to a C++ target.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_AUTHENTICATION_UI_OTP_INPUT_DIALOG_MUTATOR_BRIDGE_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_AUTHENTICATION_UI_OTP_INPUT_DIALOG_MUTATOR_BRIDGE_H_
 

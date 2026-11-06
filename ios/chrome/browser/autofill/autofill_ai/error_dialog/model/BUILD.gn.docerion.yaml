@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the autofill AI error dialog model
+summary: Defines the GN source_set that compiles the autofill AI error dialog context sources with a dependency on //base.

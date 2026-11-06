@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for autofill authentication coordinator targets
+summary: Defines GN source_set targets for the OTP input dialog, card unmask authentication coordinators, selection mediator, and unit tests with their dependencies.

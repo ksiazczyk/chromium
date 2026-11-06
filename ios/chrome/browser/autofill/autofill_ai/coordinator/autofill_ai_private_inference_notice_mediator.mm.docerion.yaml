@@ -1,0 +1,4 @@
+# Docerion header of autofill_ai_private_inference_notice_mediator.mm.
+type: source
+title: Autofill AI private inference notice mediator
+summary: Implements the mediator that records notice interactions, updates shown and acknowledged timestamp prefs, logs UMA metrics, and dispatches dismiss and settings commands.

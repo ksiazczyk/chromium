@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for Autofill AI UI
+summary: Grants this directory include access to the settings Autofill AI utils package.

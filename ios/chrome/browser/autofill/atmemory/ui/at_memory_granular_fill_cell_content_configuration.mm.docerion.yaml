@@ -1,0 +1,4 @@
+# Docerion header of at_memory_granular_fill_cell_content_configuration.mm.
+type: source
+title: AtMemory granular fill cell content configuration implementation
+summary: Implements the cell content view with attribute label, styled chip button, and localized accessibility labels.

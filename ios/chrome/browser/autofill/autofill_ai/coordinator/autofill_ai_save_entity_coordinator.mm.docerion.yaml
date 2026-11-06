@@ -1,0 +1,4 @@
+# Docerion header of autofill_ai_save_entity_coordinator.mm.
+type: source
+title: Autofill AI save entity coordinator
+summary: Implements the coordinator that wires the save entity mediator and container view controller, presents the dialog as a form sheet, and handles dismissal and link taps.

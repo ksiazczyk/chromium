@@ -1,0 +1,4 @@
+# Docerion header of autofill_bnpl_tos_mediator.mm.
+type: source
+title: BNPL ToS mediator implementation
+summary: Populates the consumer with title, issuer logo, bullet points, and consent text, and runs the accept or cancel callbacks.

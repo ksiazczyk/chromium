@@ -1,0 +1,4 @@
+# Docerion header of autofill_ai_private_inference_notice_mediator_unittest.mm.
+type: test
+title: Autofill AI private inference notice mediator unit tests
+summary: Unit tests verifying that the notice mediator updates timestamp preferences, logs the PrivateInferenceNoticeInteractions metric, and dismisses the notice exactly once.

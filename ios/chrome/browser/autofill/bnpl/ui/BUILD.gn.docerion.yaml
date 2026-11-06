@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the BNPL ToS UI
+summary: Defines the ui and unit_tests source sets with their sources and dependencies for the BNPL Terms of Service screen.

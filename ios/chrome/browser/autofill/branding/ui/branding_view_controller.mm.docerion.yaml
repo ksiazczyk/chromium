@@ -1,0 +1,4 @@
+# Docerion header of branding_view_controller.mm.
+type: source
+title: BrandingViewController implementation
+summary: Implements the branding icon button, keyboard show and hide handling, and the timed pop animation for the autofill branding UI.

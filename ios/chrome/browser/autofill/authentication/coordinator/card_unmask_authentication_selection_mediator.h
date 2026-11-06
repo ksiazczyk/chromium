@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Card unmask authentication selection mediator header
+// summary: Declares the C++ mediator bridging the card unmask authentication selection dialog controller and the iOS view consumer via a mutator bridge.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_AUTHENTICATION_COORDINATOR_CARD_UNMASK_AUTHENTICATION_SELECTION_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_AUTHENTICATION_COORDINATOR_CARD_UNMASK_AUTHENTICATION_SELECTION_MEDIATOR_H_
 

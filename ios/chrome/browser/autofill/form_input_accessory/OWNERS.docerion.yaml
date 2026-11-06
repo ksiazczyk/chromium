@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for form_input_accessory
+summary: Lists code owners for the form_input_accessory directory, including a per-file rule routing form suggestion label changes to autofill owners.

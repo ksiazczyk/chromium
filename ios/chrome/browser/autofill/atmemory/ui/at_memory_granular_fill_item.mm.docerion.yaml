@@ -1,0 +1,4 @@
+# Docerion header of at_memory_granular_fill_item.mm.
+type: source
+title: AtMemory granular fill item implementation
+summary: Implements the granular fill item with equality and hash based on attribute name, value, and index.

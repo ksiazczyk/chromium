@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for AtMemory UI utils
+summary: Defines the utils and unit_tests source sets with their sources and dependencies for the AtMemory UI utility code.

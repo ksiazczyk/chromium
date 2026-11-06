@@ -1,0 +1,4 @@
+# Docerion header of autofill_ai_save_entity_container_view_controller.mm.
+type: source
+title: Autofill AI save entity container view controller implementation
+summary: Implements the container view controller with cancel navigation item, save button stack, and embedded entity details table view controller.

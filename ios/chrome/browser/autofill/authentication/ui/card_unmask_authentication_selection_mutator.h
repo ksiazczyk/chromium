@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Card unmask authentication selection mutator protocol
+// summary: Declares the Objective-C mutator protocol notifying about challenge option selection, acceptance and cancellation in card unmask prompts.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_AUTHENTICATION_UI_CARD_UNMASK_AUTHENTICATION_SELECTION_MUTATOR_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_AUTHENTICATION_UI_CARD_UNMASK_AUTHENTICATION_SELECTION_MUTATOR_H_
 

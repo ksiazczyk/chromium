@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AtMemory granular fill coordinator header
+// summary: Declares the child coordinator that displays detailed fields for a selected AtMemory result inside the shared navigation controller.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_ATMEMORY_COORDINATOR_AT_MEMORY_GRANULAR_FILL_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_ATMEMORY_COORDINATOR_AT_MEMORY_GRANULAR_FILL_COORDINATOR_H_
 

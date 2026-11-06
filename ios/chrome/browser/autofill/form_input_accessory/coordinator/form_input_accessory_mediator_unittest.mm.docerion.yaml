@@ -1,0 +1,4 @@
+# Docerion header of form_input_accessory_mediator_unittest.mm.
+type: test
+title: FormInputAccessoryMediator unit tests
+summary: Unit tests for the form input accessory mediator covering suggestion retrieval, keyboard events, and accessory updates.

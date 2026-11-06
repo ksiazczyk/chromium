@@ -1,0 +1,4 @@
+# Docerion header of at_memory_search_mediator.mm.
+type: source
+title: AtMemorySearchMediator implementation
+summary: Implements the AtMemory search mediator, managing suggestions, zero-state examples, first-run notice state, and UMA and UKM metrics.

@@ -1,0 +1,4 @@
+# Docerion header of at_memory_granular_fill_mediator.mm.
+type: source
+title: AtMemory granular fill mediator implementation
+summary: Builds granular fill items from a suggestion, fills the selected child field, and opens the matching Autofill settings page.

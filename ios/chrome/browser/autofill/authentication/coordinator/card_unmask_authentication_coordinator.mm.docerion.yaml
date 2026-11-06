@@ -1,0 +1,4 @@
+# Docerion header of card_unmask_authentication_coordinator.mm.
+type: source
+title: Card unmask authentication coordinator implementation
+summary: Implements the card unmask authentication coordinator, presenting selection, OTP input, and CVC prompts within a navigation controller.

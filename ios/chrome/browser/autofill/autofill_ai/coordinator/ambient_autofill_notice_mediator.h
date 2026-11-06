@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ambient Autofill notice mediator header
+// summary: Declares the mediator handling Ambient Autofill notice interactions such as acknowledging, opening settings, dismissing, and marking the notice shown.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_AUTOFILL_AI_COORDINATOR_AMBIENT_AUTOFILL_NOTICE_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_AUTOFILL_AI_COORDINATOR_AMBIENT_AUTOFILL_NOTICE_MEDIATOR_H_
 

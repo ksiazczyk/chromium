@@ -1,0 +1,4 @@
+# Docerion header of at_memory_granular_fill_mediator_unittest.mm.
+type: test
+title: AtMemory granular fill mediator unit tests
+summary: Unit tests verifying consumer updates, fill handling for selected items, and settings navigation in the granular fill mediator using OCMock.

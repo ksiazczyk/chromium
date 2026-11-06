@@ -1,0 +1,4 @@
+# Docerion header of at_memory_granular_fill_view_controller.mm.
+type: source
+title: AtMemory granular fill view controller implementation
+summary: Implements the granular fill table view with attribute chips, a manage enhanced autofill link and an optional Suggested by Gemini footer.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for autofill authentication tests
+summary: Grants the test directory include access to headers under ios/chrome/browser/autofill.

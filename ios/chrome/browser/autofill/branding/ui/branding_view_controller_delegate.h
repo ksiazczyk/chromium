@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrandingViewControllerDelegate protocol header
+// summary: Declares the delegate protocol invoked when the branding icon is tapped, shown with the keyboard, or finishes its pop animation.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_BRANDING_UI_BRANDING_VIEW_CONTROLLER_DELEGATE_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_BRANDING_UI_BRANDING_VIEW_CONTROLLER_DELEGATE_H_
 

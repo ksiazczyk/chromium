@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BNPL ToS coordinator header
+// summary: Declares the coordinator and callbacks struct that manage presentation of the BNPL Terms of Service bottom sheet.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_BNPL_UI_AUTOFILL_BNPL_TOS_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_BNPL_UI_AUTOFILL_BNPL_TOS_COORDINATOR_H_
 

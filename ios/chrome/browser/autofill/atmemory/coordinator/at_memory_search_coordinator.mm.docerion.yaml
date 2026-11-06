@@ -1,0 +1,4 @@
+# Docerion header of at_memory_search_coordinator.mm.
+type: source
+title: AtMemorySearchCoordinator implementation
+summary: Implements the AtMemory search coordinator, creating the search view controller and mediator wired to autofill managers and command handlers.

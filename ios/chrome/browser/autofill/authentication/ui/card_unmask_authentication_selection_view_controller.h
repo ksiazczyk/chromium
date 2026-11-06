@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Card unmask authentication selection view controller header
+// summary: Declares a table view controller that displays challenge options for unmasking payment cards.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_AUTHENTICATION_UI_CARD_UNMASK_AUTHENTICATION_SELECTION_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_AUTHENTICATION_UI_CARD_UNMASK_AUTHENTICATION_SELECTION_VIEW_CONTROLLER_H_
 

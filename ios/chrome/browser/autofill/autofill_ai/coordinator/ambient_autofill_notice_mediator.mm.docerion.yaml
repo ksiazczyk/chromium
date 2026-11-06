@@ -1,0 +1,4 @@
+# Docerion header of ambient_autofill_notice_mediator.mm.
+type: source
+title: Ambient Autofill notice mediator implementation
+summary: Implements the Ambient Autofill notice mediator, logging notice interactions to a UMA histogram and updating the personal context first run service.

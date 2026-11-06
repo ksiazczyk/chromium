@@ -1,0 +1,4 @@
+# Docerion header of otp_input_dialog_view_controller.mm.
+type: source
+title: otp_input_dialog_view_controller.mm
+summary: Implements the OTP input dialog view controller, including text field handling, error display and a cooldown for the new code link.

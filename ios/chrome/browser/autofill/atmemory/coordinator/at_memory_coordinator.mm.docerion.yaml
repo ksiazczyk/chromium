@@ -1,0 +1,4 @@
+# Docerion header of at_memory_coordinator.mm.
+type: source
+title: AtMemory coordinator implementation
+summary: Implements the main AtMemory coordinator, wiring the mediator, search and granular fill coordinators, and presenting Autofill settings when needed.

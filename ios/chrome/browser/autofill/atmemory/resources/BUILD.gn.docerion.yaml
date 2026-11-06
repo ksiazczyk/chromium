@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for at_memory resource bundle data
+summary: Declares a bundle_data_xcassets target that packages the at_memory empty-state image assets and asset catalog JSON into the iOS app bundle.

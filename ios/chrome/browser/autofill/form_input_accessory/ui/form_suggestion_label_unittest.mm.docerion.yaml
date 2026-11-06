@@ -1,0 +1,4 @@
+# Docerion header of form_suggestion_label_unittest.mm.
+type: test
+title: FormSuggestionLabel unit tests
+summary: Unit tests verifying accessibility labels, hints, and user interaction behavior of FormSuggestionLabel for loading and regular autofill suggestions.

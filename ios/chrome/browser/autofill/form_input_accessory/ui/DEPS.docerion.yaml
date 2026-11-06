@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for form input accessory UI
+summary: Restricts cross-directory includes for the form input accessory UI, with per-file exceptions for model headers pending a public subdirectory.

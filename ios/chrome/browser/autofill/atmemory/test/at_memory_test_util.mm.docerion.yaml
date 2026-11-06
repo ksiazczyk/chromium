@@ -1,0 +1,4 @@
+# Docerion header of at_memory_test_util.mm.
+type: test
+title: AtMemory test matcher utility implementation
+summary: Implements AtMemoryTestUtil matchers using accessibility identifiers, labels, and localized strings for AtMemory UI elements.

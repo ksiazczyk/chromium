@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: otp_input_dialog_mutator.h
+// summary: Declares the OtpInputDialogMutator protocol with callbacks for confirm, cancel, OTP input changes and new code link taps.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_AUTHENTICATION_UI_OTP_INPUT_DIALOG_MUTATOR_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_AUTHENTICATION_UI_OTP_INPUT_DIALOG_MUTATOR_H_
 

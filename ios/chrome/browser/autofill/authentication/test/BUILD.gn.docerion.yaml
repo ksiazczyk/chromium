@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for autofill authentication Earl Grey tests
+summary: Defines the eg2_tests and egtest_util source sets for the iOS autofill authentication Earl Grey tests, listing their sources and dependencies.

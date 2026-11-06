@@ -1,0 +1,4 @@
+# Docerion header of at_memory_granular_fill_coordinator.mm.
+type: source
+title: AtMemory granular fill coordinator implementation
+summary: Creates the granular fill view controller and mediator, connects their handlers, and pushes or pops the screen on the shared navigation controller.

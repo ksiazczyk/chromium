@@ -1,0 +1,4 @@
+# Docerion header of card_unmask_authentication_selection_view_controller.mm.
+type: source
+title: Card unmask authentication selection view controller implementation
+summary: Implements the table view controller rendering card unmask challenge options with a diffable data source, cancel button and pending state handling.

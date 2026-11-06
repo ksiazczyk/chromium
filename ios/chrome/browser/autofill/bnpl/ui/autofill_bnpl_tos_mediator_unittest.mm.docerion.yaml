@@ -1,0 +1,4 @@
+# Docerion header of autofill_bnpl_tos_mediator_unittest.mm.
+type: test
+title: BNPL ToS mediator unit tests
+summary: Verifies with a mocked consumer that the mediator populates title, logo, bullet points, and consent links for linked and unlinked issuers.

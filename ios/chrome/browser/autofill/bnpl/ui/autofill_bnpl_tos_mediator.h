@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BNPL ToS mediator header
+// summary: Declares the mediator that manages data flow and accept or cancel callbacks for the BNPL ToS screen.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_BNPL_UI_AUTOFILL_BNPL_TOS_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_BNPL_UI_AUTOFILL_BNPL_TOS_MEDIATOR_H_
 

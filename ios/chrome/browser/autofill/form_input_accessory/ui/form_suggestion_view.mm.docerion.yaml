@@ -1,0 +1,4 @@
+# Docerion header of form_suggestion_view.mm.
+type: source
+title: FormSuggestionView implementation
+summary: Implements the scrollable autofill suggestion view, including chip layout, scroll hint animation, passkey descriptions, and usage metrics logging.

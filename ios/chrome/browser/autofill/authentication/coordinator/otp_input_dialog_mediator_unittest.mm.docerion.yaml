@@ -1,0 +1,4 @@
+# Docerion header of otp_input_dialog_mediator_unittest.mm.
+type: test
+title: OTP input dialog mediator unit tests
+summary: Unit tests verifying the mediator delivers correct dialog content and handles confirm, cancel, and input actions with mocked consumers and delegates.

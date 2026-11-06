@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill AI sources view controller interface
+// summary: Declares the view controller that lists Autofill AI suggestion sources in an inset grouped table view, along with its delegate protocol.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_AUTOFILL_AI_UI_AUTOFILL_AI_SOURCES_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_AUTOFILL_AI_UI_AUTOFILL_AI_SOURCES_VIEW_CONTROLLER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of ambient_autofill_notice_coordinator.mm.
+type: source
+title: Ambient Autofill notice coordinator implementation
+summary: Implements the Ambient Autofill notice coordinator, building a confirmation alert bottom sheet with branded imagery and dispatching user actions to its mediator.

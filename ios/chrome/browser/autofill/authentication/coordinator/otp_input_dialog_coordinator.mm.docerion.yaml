@@ -1,0 +1,4 @@
+# Docerion header of otp_input_dialog_coordinator.mm.
+type: source
+title: OTP input dialog coordinator
+summary: Coordinator that presents the OTP input dialog for card unmasking, wiring the mediator, view controller, and model controller together.

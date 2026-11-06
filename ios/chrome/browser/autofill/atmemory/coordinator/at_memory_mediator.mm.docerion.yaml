@@ -1,0 +1,4 @@
+# Docerion header of at_memory_mediator.mm.
+type: source
+title: AtMemory mediator implementation
+summary: Fills the initiating form field with a selected suggestion via the AtMemory manager and dismisses the UI when filling completes synchronously.

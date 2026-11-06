@@ -1,0 +1,4 @@
+# Docerion header of atmemory_ui_util.mm.
+type: source
+title: AtMemory UI utility implementation
+summary: Implements precondition checks for opening the AtMemory UI, granular fill item creation from suggestions, accessibility identifier helpers, and crossfade animation.

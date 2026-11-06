@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: test
+title: Build file for form input accessory Earl Grey tests
+summary: GN build definition for the Earl Grey 2 test target covering the iOS form input accessory.

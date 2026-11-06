@@ -1,0 +1,4 @@
+# Docerion header of atmemory_ui_util_unittest.mm.
+type: test
+title: AtMemory UI utility unit tests
+summary: Unit tests verifying granular fill titles, item creation, and related helpers using constructed AtMemory suggestions.
