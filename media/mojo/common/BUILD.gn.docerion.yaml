@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for media Mojo common
+summary: Defines the common source set of media Mojo converters and the unit_tests target with their sources and dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MojoRendererWrapper implementation
+// summary: Implements a wrapper that forwards all Renderer calls to an underlying MojoRenderer so derived types only override the methods they need to specialize.
+// ---
+
 #include "media/mojo/clients/mojo_renderer_wrapper.h"
 
 #include <utility>

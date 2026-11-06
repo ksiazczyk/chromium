@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media Mojo type converter declarations
+// summary: Declares mojo TypeConverter specializations for converting media decoder buffers, audio buffers and decrypt configs to Mojo types and back.
+// ---
+
 #ifndef MEDIA_MOJO_COMMON_MEDIA_TYPE_CONVERTERS_H_
 #define MEDIA_MOJO_COMMON_MEDIA_TYPE_CONVERTERS_H_
 

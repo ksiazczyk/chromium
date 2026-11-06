@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MojoRenderer unit tests
+// summary: Unit tests for MojoRenderer that exercise initialization, playback, flushing, and CDM attachment against a mock renderer behind a MojoRendererService.
+// ---
+
 #include "media/mojo/clients/mojo_renderer.h"
 
 #include <stdint.h>

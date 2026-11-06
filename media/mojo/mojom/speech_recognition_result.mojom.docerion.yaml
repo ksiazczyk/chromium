@@ -1,0 +1,4 @@
+# Docerion header of speech_recognition_result.mojom.
+type: source
+title: Speech recognition result Mojom structs
+summary: Defines Mojo structs for speech recognition hypotheses and results, including transcripts, confidence scores, and audio timestamps.

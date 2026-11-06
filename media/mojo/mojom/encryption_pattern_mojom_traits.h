@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Encryption pattern Mojo traits
+// summary: Declares StructTraits mapping media::EncryptionPattern to its Mojo wire format fields.
+// ---
+
 #ifndef MEDIA_MOJO_MOJOM_ENCRYPTION_PATTERN_MOJOM_TRAITS_H_
 #define MEDIA_MOJO_MOJOM_ENCRYPTION_PATTERN_MOJOM_TRAITS_H_
 

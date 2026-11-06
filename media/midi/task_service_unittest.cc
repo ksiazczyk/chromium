@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TaskService unit tests
+// summary: Unit tests for the MIDI TaskService covering instance binding, bound and delayed task posting, and runner behavior.
+// ---
+
 #include "media/midi/task_service.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MidiDeviceAndroid
+// summary: Java implementation of midi::MidiDeviceAndroid that wraps an Android MidiDevice, manages its input and output ports, and exposes device properties such as manufacturer, product, and version to native code.
+// ---
+
 package org.chromium.midi;
 
 import android.media.midi.MidiDevice;

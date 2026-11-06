@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enum Mojom traits for media types
+// summary: Defines Mojo EnumTraits mapping native media enums such as CdmEvent and CdmSessionClosedReason to their Mojom counterparts for serialization.
+// ---
+
 #ifndef MEDIA_MOJO_MOJOM_MEDIA_TYPES_ENUM_MOJOM_TRAITS_H_
 #define MEDIA_MOJO_MOJOM_MEDIA_TYPES_ENUM_MOJOM_TRAITS_H_
 

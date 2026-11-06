@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Audio parameters mojom traits unit tests
+// summary: Unit tests verifying round-trip serialization of AudioParameters, including invalid sample rates, buffer sizes, hardware capabilities, and channel layouts.
+// ---
+
 #include "media/mojo/mojom/audio_parameters_mojom_traits.h"
 
 #include <vector>

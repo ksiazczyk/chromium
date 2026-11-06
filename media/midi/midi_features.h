@@ -4,6 +4,12 @@
 
 // Defines all the "midi" features.
 
+// ---docerion
+// type: source
+// title: MIDI feature flags
+// summary: Declares the midi feature flags, including the Windows WinRT MIDI manager feature, for use with the base feature list.
+// ---
+
 #ifndef MEDIA_MIDI_MIDI_FEATURES_H_
 #define MEDIA_MIDI_MIDI_FEATURES_H_
 

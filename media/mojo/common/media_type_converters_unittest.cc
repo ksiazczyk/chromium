@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media type converters unit tests
+// summary: Unit tests that convert decoder and audio buffers between media and Mojo types and verify round-trip fidelity of fields and data.
+// ---
+
 #include "media/mojo/common/media_type_converters.h"
 
 #include <stddef.h>

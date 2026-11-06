@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MojoCdmFactory class declaration
+// summary: Declares the CdmFactory that creates content decryption modules backed by a remote Mojo InterfaceFactory.
+// ---
+
 #ifndef MEDIA_MOJO_CLIENTS_MOJO_CDM_FACTORY_H_
 #define MEDIA_MOJO_CLIENTS_MOJO_CDM_FACTORY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the macOS MIDI manager
+// summary: Tests the macOS MIDI manager session startup and port notifications using a fake client around MidiService.
+// ---
+
 #include "media/midi/midi_manager_mac.h"
 
 #include <CoreMIDI/MIDIServices.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MojoCdm class declaration
+// summary: Declares the ContentDecryptionModule and CdmContext proxy that forwards CDM session operations to a remote Mojo service and relays client events.
+// ---
+
 #ifndef MEDIA_MOJO_CLIENTS_MOJO_CDM_H_
 #define MEDIA_MOJO_CLIENTS_MOJO_CDM_H_
 

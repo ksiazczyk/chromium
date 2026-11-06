@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android MIDI input port interface
+// summary: Declares MidiInputPortAndroid, a JNI wrapper for an Android MIDI input port with a delegate interface for receiving MIDI data.
+// ---
+
 #ifndef MEDIA_MIDI_MIDI_INPUT_PORT_ANDROID_H_
 #define MEDIA_MIDI_MIDI_INPUT_PORT_ANDROID_H_
 

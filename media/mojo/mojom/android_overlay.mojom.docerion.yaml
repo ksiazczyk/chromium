@@ -1,0 +1,4 @@
+# Docerion header of android_overlay.mojom.
+type: source
+title: Android overlay mojo interfaces
+summary: Defines mojo interfaces and config struct for creating and managing Android overlays used by media clients in the GPU process or renderer.

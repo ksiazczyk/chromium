@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NativePixmapHandle Mojom traits unit tests
+// summary: Unit tests verifying serialization and deserialization of native pixmap planes and handles, including invalid file descriptor cases.
+// ---
+
 #include "media/mojo/mojom/stable/native_pixmap_handle_mojom_traits.h"
 
 #include <linux/kcmp.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChannelLayoutConfig Mojo traits unit tests
+// summary: Tests serialization round trips and validation rules for the ChannelLayoutConfig Mojom union traits, such as rejecting zero discrete channels.
+// ---
+
 #include "media/mojo/mojom/channel_layout_mojom_traits.h"
 
 #include "media/base/channel_layout.h"

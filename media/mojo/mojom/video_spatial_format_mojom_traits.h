@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video spatial format Mojom traits declarations
+// summary: Declares Mojo enum traits for stereo mode and projection type plus struct traits for VideoSpatialFormat.
+// ---
+
 #ifndef MEDIA_MOJO_MOJOM_VIDEO_SPATIAL_FORMAT_MOJOM_TRAITS_H_
 #define MEDIA_MOJO_MOJOM_VIDEO_SPATIAL_FORMAT_MOJOM_TRAITS_H_
 

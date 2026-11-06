@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Supported audio decoder config Mojom traits header
+// summary: Declares Mojo StructTraits mapping supported audio decoder configurations to their Mojom data views.
+// ---
+
 #ifndef MEDIA_MOJO_MOJOM_SUPPORTED_AUDIO_DECODER_CONFIG_MOJOM_TRAITS_H_
 #define MEDIA_MOJO_MOJOM_SUPPORTED_AUDIO_DECODER_CONFIG_MOJOM_TRAITS_H_
 

@@ -1,3 +1,9 @@
+---
+type: readme
+title: Stable media Mojo API overview
+summary: Explains that this directory holds the stable Mojo API Chrome uses to talk to other processes such as ARC for video decoding.
+---
+
 This directory contains the Mojo API used by Chrome to communicate with
 other processes, like ARC, for video decoding.
 This API is stable order to provide a safe communication between independent

@@ -1,0 +1,4 @@
+# Docerion header of remoting_common.mojom.
+type: source
+title: Media remoting shared Mojo types
+summary: Defines shared enums for remoting stop and start failure reasons plus sink capabilities and the RemotingSinkMetadata struct.

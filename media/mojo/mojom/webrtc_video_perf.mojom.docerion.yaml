@@ -1,0 +1,4 @@
+# Docerion header of webrtc_video_perf.mojom.
+type: source
+title: WebRTC Video Performance Mojom Interfaces
+summary: Defines structs and interfaces for recording WebRTC video encode and decode statistics and querying smoothness predictions for video configurations.

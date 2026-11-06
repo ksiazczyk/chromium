@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CDM key information Mojo traits unit test
+// summary: Verifies that CdmKeyInformation survives Mojo serialization and deserialization with matching key ID, status and system code.
+// ---
+
 #include "media/mojo/mojom/cdm_key_information_mojom_traits.h"
 
 #include "media/base/cdm_key_information.h"

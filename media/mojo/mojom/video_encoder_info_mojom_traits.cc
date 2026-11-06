@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoEncoderInfo Mojo traits implementation
+// summary: Implements Mojo StructTraits Read functions that populate media::ResolutionRateLimit and media::VideoEncoderInfo from their Mojo DataViews.
+// ---
+
 #include "media/mojo/mojom/video_encoder_info_mojom_traits.h"
 
 #include "media/mojo/mojom/video_encoder_info.mojom.h"

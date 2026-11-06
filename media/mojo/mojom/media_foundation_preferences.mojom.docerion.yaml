@@ -1,0 +1,4 @@
+# Docerion header of media_foundation_preferences.mojom.
+type: source
+title: Media Foundation preferences Mojo interface
+summary: Defines the MediaFoundationPreferences Mojo interface for querying whether hardware secure decryption is allowed.

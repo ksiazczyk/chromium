@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ALSA MIDI manager implementation
+// summary: Implements the Linux ALSA sequencer backend of MidiManager, enumerating ports via udev and handling MIDI input and output.
+// ---
+
 #include "media/midi/midi_manager_alsa.h"
 
 #include <errno.h>

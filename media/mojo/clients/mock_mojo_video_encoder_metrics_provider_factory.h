@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock Mojo video encoder metrics provider factory header
+// summary: Declares a gmock mock of MojoVideoEncoderMetricsProviderFactory that returns mock video encoder metrics providers for tests.
+// ---
+
 #ifndef MEDIA_MOJO_CLIENTS_MOCK_MOJO_VIDEO_ENCODER_METRICS_PROVIDER_FACTORY_H_
 #define MEDIA_MOJO_CLIENTS_MOCK_MOJO_VIDEO_ENCODER_METRICS_PROVIDER_FACTORY_H_
 

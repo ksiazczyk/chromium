@@ -1,0 +1,4 @@
+# Docerion header of audio_processing.mojom.
+type: source
+title: audio_processing.mojom
+summary: Defines Mojo structs and the AudioProcessorControls interface for software audio processing stats, settings and controls in the audio service.

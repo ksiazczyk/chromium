@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SupportedVideoDecoderConfig Mojo traits header
+// summary: Declares StructTraits mapping media::mojom::SupportedVideoDecoderConfigDataView to media::SupportedVideoDecoderConfig for Mojo serialization.
+// ---
+
 #ifndef MEDIA_MOJO_MOJOM_SUPPORTED_VIDEO_DECODER_CONFIG_MOJOM_TRAITS_H_
 #define MEDIA_MOJO_MOJOM_SUPPORTED_VIDEO_DECODER_CONFIG_MOJOM_TRAITS_H_
 

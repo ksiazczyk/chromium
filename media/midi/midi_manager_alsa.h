@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ALSA MIDI manager interface
+// summary: Declares MidiManagerAlsa and its MidiPort and AlsaCard helpers for the ALSA-based MIDI backend on Linux.
+// ---
+
 #ifndef MEDIA_MIDI_MIDI_MANAGER_ALSA_H_
 #define MEDIA_MIDI_MIDI_MANAGER_ALSA_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MojoDecoderBufferReader and MojoDecoderBufferWriter implementation
+// summary: Implements conversion between media and mojom decoder buffers, streaming buffer data over a mojo data pipe with configurable capacity defaults per stream type.
+// ---
+
 #include "media/mojo/common/mojo_decoder_buffer_converter.h"
 
 #include <memory>

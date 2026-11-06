@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MojoCdm implementation
+// summary: Implements the client-side content decryption module that proxies sessions, promises and decryptor access to a remote mojom::ContentDecryptionModule.
+// ---
+
 #include "media/mojo/clients/mojo_cdm.h"
 
 #include <stddef.h>

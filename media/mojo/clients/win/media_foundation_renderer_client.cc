@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media Foundation renderer client implementation
+// summary: Implements the renderer-process client that drives the Media Foundation renderer in the MF_CDM utility process over Mojo, including initialization, CDM attachment and DCOMP texture handling.
+// ---
+
 #include "media/mojo/clients/win/media_foundation_renderer_client.h"
 
 #include <utility>

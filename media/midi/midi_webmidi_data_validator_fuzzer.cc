@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web MIDI data validator fuzzer
+// summary: libFuzzer harness that runs arbitrary byte input through the Web MIDI data validity check.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

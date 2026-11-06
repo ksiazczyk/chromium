@@ -1,0 +1,4 @@
+# Docerion header of partial_gm_on_2.
+type: data
+title: Partial GM On fuzz corpus entry 2
+summary: Truncated GM System On MIDI message bytes kept as fuzzing corpus input for the MIDI parser.

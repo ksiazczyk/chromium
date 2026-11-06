@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MojoRenderer implementation
+// summary: Implements MojoRenderer, a media::Renderer that proxies renderer operations and demuxer streams to a remote mojom::Renderer and relays client callbacks.
+// ---
+
 #include "media/mojo/clients/mojo_renderer.h"
 
 #include <utility>

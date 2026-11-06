@@ -1,0 +1,4 @@
+# Docerion header of native_pixmap_handle.mojom.
+type: source
+title: Stable NativePixmapHandle Mojom definitions
+summary: Defines stable Mojo structs for native pixmap planes and handles used by the stable video decoder IPC.

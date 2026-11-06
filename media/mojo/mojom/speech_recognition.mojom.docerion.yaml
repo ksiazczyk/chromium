@@ -1,0 +1,4 @@
+# Docerion header of speech_recognition.mojom.
+type: source
+title: Speech recognition Mojo interfaces
+summary: Defines stable Mojo interfaces binding recognizers and passing audio and recognition events between clients and the speech recognition service for Live Caption and Web Speech.

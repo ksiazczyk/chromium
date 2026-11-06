@@ -1,0 +1,4 @@
+# Docerion header of dcomp_surface_registry.mojom.
+type: source
+title: DCOMP surface registry Mojom interface
+summary: Defines the Mojo interface for registering and unregistering DirectComposition surface handles used by Windows Media Foundation playback.

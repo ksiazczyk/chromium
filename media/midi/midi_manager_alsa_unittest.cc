@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ALSA MIDI manager unit tests
+// summary: Unit tests for MidiManagerAlsa's MidiPort matching and manufacturer extraction logic.
+// ---
+
 #include "media/midi/midi_manager_alsa.h"
 
 #include <memory>

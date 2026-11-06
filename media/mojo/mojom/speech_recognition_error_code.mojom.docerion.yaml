@@ -1,0 +1,4 @@
+# Docerion header of speech_recognition_error_code.mojom.
+type: source
+title: Speech recognition error code Mojom enum
+summary: Defines the SpeechRecognitionErrorCode enum used by the browser's speech recognition engine to report why a recognition attempt failed.

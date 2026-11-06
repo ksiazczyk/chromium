@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MIDI manager for Windows using WinMM
+// summary: Implements the legacy Windows MIDI backend with WinMM input and output ports, device change handling, and SysEx size limits.
+// ---
+
 #include "media/midi/midi_manager_win.h"
 
 #include "base/compiler_specific.h"

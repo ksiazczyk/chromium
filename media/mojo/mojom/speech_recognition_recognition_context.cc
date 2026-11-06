@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Speech recognition recognition context implementation
+// summary: Implements constructors, destructors and equality operators for the SpeechRecognitionPhrase and SpeechRecognitionRecognitionContext value types.
+// ---
+
 #include "media/mojo/mojom/speech_recognition_recognition_context.h"
 
 namespace media {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MojoCodecFactory implementation
+// summary: Implements the GPU video accelerator factory helper that creates Mojo video encode accelerators and tracks supported decoder and encoder profiles.
+// ---
+
 #include "media/mojo/clients/mojo_codec_factory.h"
 
 #include <memory>

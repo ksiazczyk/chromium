@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo video encoder metrics provider factory header
+// summary: Declares the ref-counted MojoVideoEncoderMetricsProviderFactory that creates providers recording video encoder statistics via a Mojo remote, with threading requirements documented.
+// ---
+
 #ifndef MEDIA_MOJO_CLIENTS_MOJO_VIDEO_ENCODER_METRICS_PROVIDER_H_
 #define MEDIA_MOJO_CLIENTS_MOJO_VIDEO_ENCODER_METRICS_PROVIDER_H_
 

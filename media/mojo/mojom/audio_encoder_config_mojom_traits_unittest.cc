@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Audio encoder config mojom traits unit tests
+// summary: Unit tests verifying round-trip serialization of AudioEncoderConfig, including boundary and invalid channel, sample rate, and bitrate values.
+// ---
+
 #include "media/mojo/mojom/audio_encoder_config_mojom_traits.h"
 
 #include <utility>

@@ -1,0 +1,4 @@
+# Docerion header of video_decode_stats_recorder.mojom.
+type: source
+title: VideoDecodeStatsRecorder Mojom interface
+summary: Mojom interface letting renderer media players start and update per-player decode stats records in the browser process for performance prediction.

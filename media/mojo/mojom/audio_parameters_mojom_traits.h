@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio parameters mojom traits declarations
+// summary: Declares mojo EnumTraits and StructTraits for serializing AudioParameters, its format and latency enums, and hardware capabilities.
+// ---
+
 #ifndef MEDIA_MOJO_MOJOM_AUDIO_PARAMETERS_MOJOM_TRAITS_H_
 #define MEDIA_MOJO_MOJOM_AUDIO_PARAMETERS_MOJOM_TRAITS_H_
 

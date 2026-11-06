@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AudioDataS16Converter unit tests
+// summary: Unit tests verifying conversion of mono and stereo audio buses and buffers to AudioDataS16, including stereo downmixing.
+// ---
+
 #include "media/mojo/common/audio_data_s16_converter.h"
 
 #include <array>

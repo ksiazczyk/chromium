@@ -1,0 +1,4 @@
+# Docerion header of media_metrics_provider.mojom.
+type: source
+title: Media metrics provider Mojo interface
+summary: Defines the MediaMetricsProvider Mojo interface for reporting playback metrics to UMA and UKM and acquiring watch time, decode stats, and playback events recorders.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: cdm_capability_mojom_traits.cc
+// summary: Implements Mojo StructTraits and EnumTraits for CDM capability types such as VideoCodecInfo and CdmCapability.
+// ---
+
 #include "media/mojo/mojom/cdm_capability_mojom_traits.h"
 
 #include <set>

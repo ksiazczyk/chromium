@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video transformation Mojom traits declarations
+// summary: Declares Mojo struct traits exposing VideoTransformation rotation and mirroring fields for serialization.
+// ---
+
 #ifndef MEDIA_MOJO_MOJOM_VIDEO_TRANSFORMATION_MOJOM_TRAITS_H_
 #define MEDIA_MOJO_MOJOM_VIDEO_TRANSFORMATION_MOJOM_TRAITS_H_
 

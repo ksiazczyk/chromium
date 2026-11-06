@@ -1,0 +1,4 @@
+# Docerion header of cdm_context_for_oopvd.mojom.
+type: source
+title: CDM context interface for out-of-process video decoder
+summary: Defines the CdmContextForOOPVD Mojo interface remoting CDM context operations like hardware key data, secure buffer allocation and video decryption.

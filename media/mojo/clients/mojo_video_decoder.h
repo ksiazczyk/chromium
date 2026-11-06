@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MojoVideoDecoder class declaration
+// summary: Declares a VideoDecoder for the renderer process that proxies to a hardware-accelerated remote decoder implemented by MojoVideoDecoderService in the GPU process.
+// ---
+
 #ifndef MEDIA_MOJO_CLIENTS_MOJO_VIDEO_DECODER_H_
 #define MEDIA_MOJO_CLIENTS_MOJO_VIDEO_DECODER_H_
 

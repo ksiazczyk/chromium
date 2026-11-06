@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VideoDecoderConfig Mojo traits unit tests
+// summary: Unit tests that serialize and deserialize VideoDecoderConfig through Mojo traits, checking round-trip fidelity for normal, empty extra data, encrypted, aspect ratio, and color space cases.
+// ---
+
 #include "media/mojo/mojom/video_decoder_config_mojom_traits.h"
 
 #include <utility>

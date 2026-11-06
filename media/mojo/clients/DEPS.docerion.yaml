@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for media mojo clients
+summary: Defines include rules for the directory, allowing viz common gpu headers and a blink browser interface broker header for the Fuchsia CDM provider.

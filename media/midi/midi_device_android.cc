@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android MIDI device JNI wrapper implementation
+// summary: Wraps Android MidiDevice Java objects via JNI to expose manufacturer, product, and version strings and to enumerate input and output ports.
+// ---
+
 #include "media/midi/midi_device_android.h"
 
 #include <memory>

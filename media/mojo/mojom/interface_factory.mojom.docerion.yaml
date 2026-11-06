@@ -1,0 +1,4 @@
+# Docerion header of interface_factory.mojom.
+type: source
+title: Interface factory Mojom
+summary: Defines the InterfaceFactory interface for creating audio and video decoders, encoders, renderers, and decryptors in remote media processes.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CDM capability Mojo type traits header
+// summary: Declares Mojo StructTraits and EnumTraits that map media::CdmCapability, video codec info and query status between native C++ and Mojom for IPC.
+// ---
+
 #ifndef MEDIA_MOJO_MOJOM_CDM_CAPABILITY_MOJOM_TRAITS_H_
 #define MEDIA_MOJO_MOJOM_CDM_CAPABILITY_MOJOM_TRAITS_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of speech_recognition_recognition_context.mojom.
+type: source
+title: Speech recognition recognition context Mojom definitions
+summary: Defines Mojom structs for speech recognition biasing phrases and a recognition context collection of those phrases.

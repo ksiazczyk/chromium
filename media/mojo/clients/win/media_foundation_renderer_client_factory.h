@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media Foundation renderer client factory header
+// summary: Declares the RendererFactory subclass responsible for creating Media Foundation renderer clients together with their associated Mojo pipes and DCOMP texture wrapper callback.
+// ---
+
 #ifndef MEDIA_MOJO_CLIENTS_WIN_MEDIA_FOUNDATION_RENDERER_CLIENT_FACTORY_H_
 #define MEDIA_MOJO_CLIENTS_WIN_MEDIA_FOUNDATION_RENDERER_CLIENT_FACTORY_H_
 

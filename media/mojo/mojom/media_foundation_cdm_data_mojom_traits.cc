@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media Foundation CDM data Mojo traits implementation
+// summary: Implements Mojo StructTraits to deserialize MediaFoundationCdmData, reading the origin ID and CDM store path root into the native C++ object.
+// ---
+
 #include "media/mojo/mojom/media_foundation_cdm_data_mojom_traits.h"
 
 namespace mojo {

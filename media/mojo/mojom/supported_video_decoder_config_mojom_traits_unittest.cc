@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SupportedVideoDecoderConfig Mojo traits unit tests
+// summary: Unit tests verifying round-trip serialization of SupportedVideoDecoderConfig and rejection of invalid configs such as inverted ranges or inconsistent encryption flags.
+// ---
+
 #include "media/mojo/mojom/supported_video_decoder_config_mojom_traits.h"
 
 #include "media/base/supported_video_decoder_config.h"

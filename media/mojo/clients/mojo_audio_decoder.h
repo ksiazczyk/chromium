@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MojoAudioDecoder class declaration
+// summary: Declares the AudioDecoder client wrapper around a remote mojom::AudioDecoder, with a decoder buffer writer and AudioDecoderClient receiver.
+// ---
+
 #ifndef MEDIA_MOJO_CLIENTS_MOJO_AUDIO_DECODER_H_
 #define MEDIA_MOJO_CLIENTS_MOJO_AUDIO_DECODER_H_
 

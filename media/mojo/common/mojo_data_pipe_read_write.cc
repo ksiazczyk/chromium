@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MojoDataPipeReader and MojoDataPipeWriter implementation
+// summary: Implements helpers that read a requested number of bytes from or write data into a mojo data pipe, reporting completion or failure through callbacks.
+// ---
+
 #include "media/mojo/common/mojo_data_pipe_read_write.h"
 
 #include <memory>

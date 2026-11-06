@@ -1,6 +1,13 @@
 // Copyright 2022 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: audio_processing_mojom_traits.h
+// summary: Declares StructTraits mappings between media audio processing stats and settings types and their Mojom data views.
+// ---
+
 #ifndef MEDIA_MOJO_MOJOM_AUDIO_PROCESSING_MOJOM_TRAITS_H_
 #define MEDIA_MOJO_MOJOM_AUDIO_PROCESSING_MOJOM_TRAITS_H_
 

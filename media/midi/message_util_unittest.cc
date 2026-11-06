@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for MIDI message utilities
+// summary: Tests message length calculation and Web MIDI data validation, covering running status rejection and realtime message placement.
+// ---
+
 #include "media/midi/message_util.h"
 
 #include <stdint.h>

@@ -1,0 +1,4 @@
+# Docerion header of audio_stream_factory.mojom.
+type: source
+title: audio_stream_factory.mojom
+summary: Defines the AudioStreamFactory interface that trusted clients use to create audio input and output streams in the audio service.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android MIDI manager interface
+// summary: Declares MidiManagerAndroid, a MidiManager subclass for Android M and newer that handles device attach and detach events from Java.
+// ---
+
 #ifndef MEDIA_MIDI_MIDI_MANAGER_ANDROID_H_
 #define MEDIA_MIDI_MIDI_MANAGER_ANDROID_H_
 

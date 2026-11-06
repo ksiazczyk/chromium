@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input stream error code converter implementation
+// summary: Maps mojom::InputStreamErrorCode values to the matching AudioCapturerSource::ErrorCode values for audio capture callbacks.
+// ---
+
 #include "media/mojo/common/input_error_code_converter.h"
 
 namespace media {

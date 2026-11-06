@@ -1,0 +1,4 @@
+# Docerion header of capture_handle.mojom.
+type: source
+title: capture_handle.mojom
+summary: Defines the CaptureHandle Mojom struct holding a capture origin and a capture handle string.

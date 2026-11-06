@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android MIDI input port implementation
+// summary: Implements the Android MIDI input port wrapper that opens and closes the Java port and forwards received MIDI data with timestamps to its delegate.
+// ---
+
 #include "media/midi/midi_input_port_android.h"
 
 #include "base/android/jni_array.h"

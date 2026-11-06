@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MojoRendererFactory class declaration
+// summary: Declares the default factory for creating MojoRenderer objects that communicate with renderers in another process, including platform-specific creation methods.
+// ---
+
 #ifndef MEDIA_MOJO_CLIENTS_MOJO_RENDERER_FACTORY_H_
 #define MEDIA_MOJO_CLIENTS_MOJO_RENDERER_FACTORY_H_
 

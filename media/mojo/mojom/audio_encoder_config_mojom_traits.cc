@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio encoder config mojom traits implementation
+// summary: Implements mojo serialization traits that convert audio encoder configurations and AAC options between native C++ types and their mojom representations.
+// ---
+
 #include "media/mojo/mojom/audio_encoder_config_mojom_traits.h"
 
 #include <algorithm>

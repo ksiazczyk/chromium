@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MidiManagerWinrt class header
+// summary: Declares MidiManagerWinrt with input and output port managers for the Windows Runtime MIDI backend.
+// ---
+
 #ifndef MEDIA_MIDI_MIDI_MANAGER_WINRT_H_
 #define MEDIA_MIDI_MIDI_MANAGER_WINRT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MojoDecoderBufferReader and MojoDecoderBufferWriter declarations
+// summary: Declares data pipe creation helpers and the MojoDecoderBufferReader and MojoDecoderBufferWriter classes used to move decoder buffer data across mojo pipes.
+// ---
+
 #ifndef MEDIA_MOJO_COMMON_MOJO_DECODER_BUFFER_CONVERTER_H_
 #define MEDIA_MOJO_COMMON_MOJO_DECODER_BUFFER_CONVERTER_H_
 

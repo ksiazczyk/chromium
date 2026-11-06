@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioDataS16Converter implementation
+// summary: Implements conversion of AudioBuffer and AudioBus objects into mojom::AudioDataS16, downmixing multichannel audio when needed.
+// ---
+
 #include "media/mojo/common/audio_data_s16_converter.h"
 
 #include <memory>

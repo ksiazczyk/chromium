@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoAspectRatio Mojo traits header
+// summary: Declares StructTraits converting media::VideoAspectRatio between its native type and Mojo representation, mapping display and pixel aspect ratio types.
+// ---
+
 #ifndef MEDIA_MOJO_MOJOM_VIDEO_ASPECT_RATIO_MOJOM_TRAITS_H_
 #define MEDIA_MOJO_MOJOM_VIDEO_ASPECT_RATIO_MOJOM_TRAITS_H_
 

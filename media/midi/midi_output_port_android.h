@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android MIDI output port header
+// summary: Declares the JNI wrapper class used to open, close, and send data on an Android MIDI output port.
+// ---
+
 #ifndef MEDIA_MIDI_MIDI_OUTPUT_PORT_ANDROID_H_
 #define MEDIA_MIDI_MIDI_OUTPUT_PORT_ANDROID_H_
 

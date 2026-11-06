@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio parameters mojom traits implementation
+// summary: Implements mojo serialization traits converting audio parameters, formats, latency types, and hardware capabilities between C++ and mojom.
+// ---
+
 #include "media/mojo/mojom/audio_parameters_mojom_traits.h"
 
 #include "base/feature_list.h"

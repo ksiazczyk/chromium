@@ -1,0 +1,4 @@
+# Docerion header of playback_events_recorder.mojom.
+type: source
+title: PlaybackEventsRecorder Mojo interface
+summary: Defines a Mojo interface for the renderer to report media playback events such as play, pause, seek, buffering, errors, and pipeline statistics.

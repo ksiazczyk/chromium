@@ -1,0 +1,4 @@
+# Docerion header of audio_data_pipe.mojom.
+type: source
+title: ReadWriteAudioDataPipe mojom struct
+summary: Defines a mojo struct pairing shared memory and a socket for realtime push and pull audio data transfer between audio streams.

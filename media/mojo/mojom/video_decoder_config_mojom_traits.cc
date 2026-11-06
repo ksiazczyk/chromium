@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoDecoderConfig Mojo traits implementation
+// summary: Implements deserialization of media::VideoDecoderConfig from its Mojo representation, reading codec, profile, sizes, color space, HDR metadata and encryption.
+// ---
+
 #include "media/mojo/mojom/video_decoder_config_mojom_traits.h"
 
 namespace mojo {

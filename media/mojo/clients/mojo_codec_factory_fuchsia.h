@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia Mojo codec factory header
+// summary: Declares MojoCodecFactoryFuchsia, a MojoCodecFactory subclass that gets hardware decoder resources through media::mojom::FuchsiaMediaCodecProvider.
+// ---
+
 #ifndef MEDIA_MOJO_CLIENTS_MOJO_CODEC_FACTORY_FUCHSIA_H_
 #define MEDIA_MOJO_CLIENTS_MOJO_CODEC_FACTORY_FUCHSIA_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of media_types.mojom.
+type: source
+title: Media types Mojom definitions
+summary: Defines Mojo enums and structs for media codecs, encryption schemes, video transformations, overlay info, and other shared media types in the media.mojom module.

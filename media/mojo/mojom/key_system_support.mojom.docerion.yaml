@@ -1,0 +1,4 @@
+# Docerion header of key_system_support.mojom.
+type: source
+title: Key system support Mojo interfaces
+summary: Defines Mojo interfaces and structs for querying and observing DRM key system support, including CDM codec, encryption scheme, and session type capabilities.

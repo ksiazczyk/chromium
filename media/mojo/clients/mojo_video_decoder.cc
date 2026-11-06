@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MojoVideoDecoder implementation
+// summary: Implements a renderer-process VideoDecoder that proxies to a remote mojom::VideoDecoder in the GPU process, including thread-safe video frame handle release handling.
+// ---
+
 #include "media/mojo/clients/mojo_video_decoder.h"
 
 #include "base/check.h"

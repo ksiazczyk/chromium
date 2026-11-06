@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MojoFuchsiaCdmProvider implementation
+// summary: Implements MojoFuchsiaCdmProvider, which creates Fuchsia media DRM ContentDecryptionModule interfaces on demand through the browser interface broker.
+// ---
+
 #include "media/mojo/clients/mojo_fuchsia_cdm_provider.h"
 
 #include "third_party/blink/public/platform/browser_interface_broker_proxy.h"

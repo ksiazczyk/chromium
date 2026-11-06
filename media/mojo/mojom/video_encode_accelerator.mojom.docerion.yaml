@@ -1,0 +1,4 @@
+# Docerion header of video_encode_accelerator.mojom.
+type: source
+title: VideoEncodeAccelerator Mojo interface
+summary: Defines the Mojo version of the media::VideoEncodeAccelerator interface describing communication between a client and a remote hardware-accelerated video encoding service.

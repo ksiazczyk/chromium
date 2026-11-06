@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NativePixmapHandle Mojom traits implementation
+// summary: Implements StructTraits converting between gfx native pixmap types and stable Mojo types, guarded by static assertions.
+// ---
+
 #include "media/mojo/mojom/stable/native_pixmap_handle_mojom_traits.h"
 
 #include "ui/gfx/native_pixmap_handle.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Recognition context Mojom traits unit tests
+// summary: Unit tests verifying serialization and deserialization of speech recognition phrases and contexts, including empty phrases and out-of-range boost values.
+// ---
+
 #include "media/mojo/mojom/speech_recognition_recognition_context_mojom_traits.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

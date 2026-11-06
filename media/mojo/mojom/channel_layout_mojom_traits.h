@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChannelLayoutConfig Mojo union traits declaration
+// summary: Declares the Mojo UnionTraits specialization mapping media::ChannelLayoutConfig to the ChannelLayoutConfig Mojom union.
+// ---
+
 #ifndef MEDIA_MOJO_MOJOM_CHANNEL_LAYOUT_MOJOM_TRAITS_H_
 #define MEDIA_MOJO_MOJOM_CHANNEL_LAYOUT_MOJOM_TRAITS_H_
 

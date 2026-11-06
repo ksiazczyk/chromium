@@ -1,0 +1,4 @@
+# Docerion header of partial_note_on_2.
+type: data
+title: Partial Note On fuzz corpus entry 2
+summary: Single-byte fragment of a Note On MIDI message kept as fuzzing corpus input for the MIDI parser.

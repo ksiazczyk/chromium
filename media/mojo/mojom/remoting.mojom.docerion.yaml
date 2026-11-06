@@ -1,0 +1,4 @@
+# Docerion header of remoting.mojom.
+type: source
+title: Media remoting Mojo interfaces
+summary: Defines Mojo interfaces for creating remoting sessions, streaming media bitstreams over data pipes, and exchanging messages with a remote sink.

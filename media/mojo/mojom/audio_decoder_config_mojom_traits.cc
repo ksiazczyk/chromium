@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio decoder config mojom traits implementation
+// summary: Implements StructTraits Read that converts a mojom AudioDecoderConfig data view into a validated media::AudioDecoderConfig object.
+// ---
+
 #include "media/mojo/mojom/audio_decoder_config_mojom_traits.h"
 
 #include "base/time/time.h"

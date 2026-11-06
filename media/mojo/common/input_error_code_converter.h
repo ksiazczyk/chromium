@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input stream error code converter declaration
+// summary: Declares ConvertToCaptureCallbackCode, which maps Mojo input stream error codes to audio capturer source error codes.
+// ---
+
 #ifndef MEDIA_MOJO_COMMON_INPUT_ERROR_CODE_CONVERTER_H_
 #define MEDIA_MOJO_COMMON_INPUT_ERROR_CODE_CONVERTER_H_
 

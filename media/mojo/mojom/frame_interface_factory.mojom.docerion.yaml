@@ -1,0 +1,4 @@
+# Docerion header of frame_interface_factory.mojom.
+type: source
+title: Frame interface factory Mojom
+summary: Defines the FrameInterfaceFactory interface through which remote media services obtain frame-scoped browser services such as CDM storage and provision fetching.

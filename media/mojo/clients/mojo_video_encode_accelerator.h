@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MojoVideoEncodeAccelerator class declaration
+// summary: Declares a VideoEncodeAccelerator bridge that forwards encoding requests to a remote Mojo service and manages its lifetime through Destroy().
+// ---
+
 #ifndef MEDIA_MOJO_CLIENTS_MOJO_VIDEO_ENCODE_ACCELERATOR_H_
 #define MEDIA_MOJO_CLIENTS_MOJO_VIDEO_ENCODE_ACCELERATOR_H_
 

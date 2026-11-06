@@ -1,0 +1,4 @@
+# Docerion header of speech_recognition_grammar.mojom.
+type: source
+title: Speech recognition grammar Mojom struct
+summary: Defines the SpeechRecognitionGrammar struct pairing a grammar URL with a weight for speech recognition.

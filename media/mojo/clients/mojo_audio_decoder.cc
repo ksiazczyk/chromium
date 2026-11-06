@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MojoAudioDecoder implementation
+// summary: Implements an AudioDecoder that proxies initialization, decode and reset calls to a remote mojom::AudioDecoder over mojo, including encrypted stream handling.
+// ---
+
 #include "media/mojo/clients/mojo_audio_decoder.h"
 
 #include "base/functional/bind.h"

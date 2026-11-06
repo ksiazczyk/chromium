@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MIDI service header
+// summary: Declares MidiService, which manages MidiManager backends, client sessions, and worker task runners for the MIDI subsystem.
+// ---
+
 #ifndef MEDIA_MIDI_MIDI_SERVICE_H_
 #define MEDIA_MIDI_MIDI_SERVICE_H_
 

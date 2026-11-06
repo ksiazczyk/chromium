@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Speech recognition result Mojom traits unit tests
+// summary: Unit tests verifying serialization and deserialization of speech recognition results, including invalid timing and hypothesis cases.
+// ---
+
 #include "media/mojo/mojom/speech_recognition_result_mojom_traits.h"
 
 #include <vector>

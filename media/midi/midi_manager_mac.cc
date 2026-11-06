@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MIDI manager for macOS using CoreMIDI
+// summary: Implements the macOS MIDI manager that enumerates CoreMIDI endpoints, receives MIDI events, and sends data with timestamps.
+// ---
+
 #include "media/midi/midi_manager_mac.h"
 
 #include <mach/mach_time.h>

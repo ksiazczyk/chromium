@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mojo video encoder metrics provider unit tests
+// summary: Unit tests that use a mock Mojo receiver to verify the metrics provider's Initialize, encoded frame count updates, error reporting, and Complete behavior.
+// ---
+
 #include "media/mojo/clients/mojo_video_encoder_metrics_provider.h"
 
 #include "base/run_loop.h"

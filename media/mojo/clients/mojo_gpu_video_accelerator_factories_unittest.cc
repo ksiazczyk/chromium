@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MojoGpuVideoAcceleratorFactories unit tests
+// summary: Unit tests for MojoGpuVideoAcceleratorFactories covering decoder and encoder support, shared image interfaces, and context loss behavior using mock GPU channels.
+// ---
+
 #include "media/mojo/clients/mojo_gpu_video_accelerator_factories.h"
 
 #include <GLES2/gl2.h>

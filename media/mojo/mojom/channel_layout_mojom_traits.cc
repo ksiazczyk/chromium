@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChannelLayoutConfig Mojo union traits implementation
+// summary: Implements Mojo serialization between media::ChannelLayoutConfig and its Mojom union representation, including validation of discrete channel counts.
+// ---
+
 #include "media/mojo/mojom/channel_layout_mojom_traits.h"
 
 #include "media/base/limits.h"

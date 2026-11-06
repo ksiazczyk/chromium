@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for stable media Mojo targets
+summary: GN build file defining the native_pixmap_handle Mojom target with typemaps and the unit_tests source set for Linux and ChromeOS.

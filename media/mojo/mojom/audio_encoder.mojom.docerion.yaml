@@ -1,0 +1,4 @@
+# Docerion header of audio_encoder.mojom.
+type: source
+title: Audio encoder mojo interfaces
+summary: Defines the AudioEncoder and AudioEncoderClient mojo interfaces plus config and encoded buffer structs for audio encoding in the GPU process.

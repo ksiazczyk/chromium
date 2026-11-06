@@ -1,0 +1,4 @@
+# Docerion header of renderer.mojom.
+type: source
+title: Renderer Mojo interface
+summary: Defines Mojo equivalents of media::Renderer and media::RendererClient used when audio and video decoding happens outside the sandboxed render process.

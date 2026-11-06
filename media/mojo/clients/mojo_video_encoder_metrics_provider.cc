@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo video encoder metrics provider implementation
+// summary: Implements VideoEncoderMetricsProvider and its Mojo factory, forwarding encoder initialization, encoded frame counts, errors, and completion to the browser process over Mojo.
+// ---
+
 #include "media/mojo/clients/mojo_video_encoder_metrics_provider.h"
 
 #include "base/sequence_checker.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the MIDI manager base class
+// summary: Tests MidiManager and MidiService session lifecycle and client handling with fake managers, factories, and clients.
+// ---
+
 #include "media/midi/midi_manager.h"
 
 #include <stddef.h>

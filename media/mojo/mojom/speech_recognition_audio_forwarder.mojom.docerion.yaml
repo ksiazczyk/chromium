@@ -1,0 +1,4 @@
+# Docerion header of speech_recognition_audio_forwarder.mojom.
+type: source
+title: Speech recognition audio forwarder Mojo interface
+summary: Defines a Mojo interface for the renderer to forward raw S16 audio to the browser or the speech recognition service.

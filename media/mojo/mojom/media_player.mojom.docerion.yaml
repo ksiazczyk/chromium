@@ -1,0 +1,4 @@
+# Docerion header of media_player.mojom.
+type: source
+title: Media player Mojo interfaces
+summary: Defines Mojo interfaces letting the browser control and observe HTML media playback, including play, pause, seek, picture-in-picture, muting, and volume requests.

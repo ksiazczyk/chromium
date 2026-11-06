@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media status Mojom traits implementation
+// summary: Implements Mojo StructTraits deserialization for media status data, including code, group, message, frames, and cause.
+// ---
+
 #include "media/mojo/mojom/status_mojom_traits.h"
 
 #include "media/mojo/mojom/media_types.mojom-shared.h"

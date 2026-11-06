@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media Foundation renderer client factory implementation
+// summary: Implements the factory that creates MediaFoundationRendererClient instances, wiring up the Mojo media log, renderer extension, DCOMP texture wrapper and renderer observer pipes.
+// ---
+
 #include "media/mojo/clients/win/media_foundation_renderer_client_factory.h"
 
 #include "base/task/sequenced_task_runner.h"

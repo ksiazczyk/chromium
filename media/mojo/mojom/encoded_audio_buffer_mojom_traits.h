@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Encoded audio buffer Mojo type traits
+// summary: Defines Mojo StructTraits for serializing media::EncodedAudioBuffer, covering encoded data, timestamp, duration, and audio parameters.
+// ---
+
 #ifndef MEDIA_MOJO_MOJOM_ENCODED_AUDIO_BUFFER_MOJOM_TRAITS_H_
 #define MEDIA_MOJO_MOJOM_ENCODED_AUDIO_BUFFER_MOJOM_TRAITS_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of display_media_information.mojom.
+type: source
+title: DisplayMediaInformation Mojom definitions
+summary: Defines enums and a struct describing display capture surface type, cursor capture conditions, and display media information.

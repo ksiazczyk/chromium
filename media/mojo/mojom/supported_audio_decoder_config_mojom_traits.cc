@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Supported audio decoder config Mojom traits implementation
+// summary: Implements Mojo StructTraits deserialization for supported audio decoder configurations, reading codec and profile.
+// ---
+
 #include "media/mojo/mojom/supported_audio_decoder_config_mojom_traits.h"
 
 namespace mojo {

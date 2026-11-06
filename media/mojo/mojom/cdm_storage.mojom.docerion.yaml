@@ -1,0 +1,4 @@
+# Docerion header of cdm_storage.mojom.
+type: source
+title: CDM storage Mojo interface
+summary: Defines the CdmStorage and CdmFile Mojo interfaces for persistent per-origin CDM file access in the browser file system.

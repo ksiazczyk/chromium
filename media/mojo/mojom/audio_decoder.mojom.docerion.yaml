@@ -1,0 +1,4 @@
+# Docerion header of audio_decoder.mojom.
+type: source
+title: Audio decoder mojo interfaces
+summary: Defines the AudioDecoder and AudioDecoderClient mojo interfaces for remote audio decoding, plus the supported decoder config transport struct.

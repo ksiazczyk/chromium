@@ -1,0 +1,4 @@
+# Docerion header of audio_input_stream.mojom.
+type: source
+title: Audio input stream mojom interfaces
+summary: Defines mojo interfaces for controlling audio input streams, covering recording, volume, error and mute notifications, and disconnect reason reporting.

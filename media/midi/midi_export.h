@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MIDI_EXPORT macro definitions for component builds
+// summary: Defines the MIDI_EXPORT macro for dllexport, dllimport, or default visibility depending on component build and platform.
+// ---
+
 #ifndef MEDIA_MIDI_MIDI_EXPORT_H_
 #define MEDIA_MIDI_MIDI_EXPORT_H_
 

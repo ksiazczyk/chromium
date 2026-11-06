@@ -1,0 +1,4 @@
+# Docerion header of speech_recognition_service.mojom.
+type: source
+title: Speech recognition service Mojom interfaces
+summary: Defines Mojo interfaces for the speech recognition service process, including SODA configuration and microphone audio fetching.

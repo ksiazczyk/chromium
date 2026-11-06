@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UMP message utility implementation
+// summary: Implements Universal MIDI Packet parsing, message type and group extraction, and translation between legacy MIDI 1.0 byte streams and UMP words.
+// ---
+
 #include "media/midi/ump_message_util.h"
 
 #include <algorithm>

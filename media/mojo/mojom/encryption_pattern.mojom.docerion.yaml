@@ -1,0 +1,4 @@
+# Docerion header of encryption_pattern.mojom.
+type: source
+title: Encryption pattern Mojom struct
+summary: Defines the stable Mojo transport struct for media::EncryptionPattern with crypt and skip byte block counts.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UMP message utility unit tests
+// summary: Tests UMP message type, group, and length extraction plus parsing of channel voice and SysEx MIDI messages.
+// ---
+
 #include "media/midi/ump_message_util.h"
 
 #include <vector>

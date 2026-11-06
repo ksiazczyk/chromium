@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MojoFuchsiaCdmProvider header
+// summary: Declares MojoFuchsiaCdmProvider, a FuchsiaCdmProvider that obtains Fuchsia media DRM CDM interfaces via the blink browser interface broker.
+// ---
+
 #ifndef MEDIA_MOJO_CLIENTS_MOJO_FUCHSIA_CDM_PROVIDER_H_
 #define MEDIA_MOJO_CLIENTS_MOJO_FUCHSIA_CDM_PROVIDER_H_
 

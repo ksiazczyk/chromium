@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video transformation Mojom traits implementation
+// summary: Implements deserialization of VideoTransformation rotation and mirroring from its Mojom representation.
+// ---
+
 #include "media/mojo/mojom/video_transformation_mojom_traits.h"
 
 #include "media/mojo/mojom/media_types.mojom.h"

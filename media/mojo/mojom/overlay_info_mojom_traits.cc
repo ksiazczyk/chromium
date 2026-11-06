@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OverlayInfo Mojom traits implementation
+// summary: Implements deserialization of media::OverlayInfo from its Mojom representation, reading the routing token and overlay flags.
+// ---
+
 #include "media/mojo/mojom/overlay_info_mojom_traits.h"
 
 namespace mojo {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MojoRendererWrapper class declaration
+// summary: Declares a simple Renderer wrapper around a MojoRenderer that forwards calls by default to reduce boilerplate in derived renderer types.
+// ---
+
 #ifndef MEDIA_MOJO_CLIENTS_MOJO_RENDERER_WRAPPER_H_
 #define MEDIA_MOJO_CLIENTS_MOJO_RENDERER_WRAPPER_H_
 

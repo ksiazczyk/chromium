@@ -1,0 +1,4 @@
+# Docerion header of cast_application_media_info_manager.mojom.
+type: source
+title: cast_application_media_info_manager.mojom
+summary: Defines CastApplicationMediaInfo and the CastApplicationMediaInfoManager service that exposes per-frame Cast media information.

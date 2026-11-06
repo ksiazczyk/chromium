@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CDM context OOPVD type Mojo traits header
+// summary: Provides Mojo EnumTraits converting CDM context events and decryptor statuses between media::CdmContext and media::mojom types for the OOP video decoder.
+// ---
+
 #ifndef MEDIA_MOJO_MOJOM_CDM_CONTEXT_FOR_OOPVD_TYPES_MOJOM_TRAITS_H_
 #define MEDIA_MOJO_MOJOM_CDM_CONTEXT_FOR_OOPVD_TYPES_MOJOM_TRAITS_H_
 
