@@ -1,0 +1,4 @@
+# Docerion header of browser_compositor_ios.mm.
+type: source
+title: BrowserCompositorIOS implementation
+summary: Implements the iOS browser compositor, managing surface IDs, layers, and delegated frame hosting for render widget views on iOS.

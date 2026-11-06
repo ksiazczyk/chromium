@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo render input router delegate implementation
+// summary: Implements the mojo delegate that relays Viz input events, acks, and responsiveness state between the InputManager and RenderWidgetHostImpl.
+// ---
+
 #include "content/browser/renderer_host/mojo_render_input_router_delegate_impl.h"
 
 #include "components/input/input_event_source.h"

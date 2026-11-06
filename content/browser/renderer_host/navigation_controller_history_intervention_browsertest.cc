@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Navigation controller history intervention browser tests
+// summary: Browser tests verifying history intervention behavior across render document levels and back-forward cache enabled or disabled settings.
+// ---
+
 #include "base/strings/stringprintf.h"
 #include "base/test/scoped_feature_list.h"
 #include "content/browser/renderer_host/frame_tree.h"

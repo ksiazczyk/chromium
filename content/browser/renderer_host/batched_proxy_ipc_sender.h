@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BatchedProxyIPCSender class declaration
+// summary: Declares a helper that collects child proxy creation parameters and sends one IPC to create all proxies within a FrameTree.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_BATCHED_PROXY_IPC_SENDER_H_
 #define CONTENT_BROWSER_RENDERER_HOST_BATCHED_PROXY_IPC_SENDER_H_
 

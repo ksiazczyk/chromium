@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigation API commit deferring condition
+// summary: Implements a commit deferring condition that holds navigation commit until Navigation API defer promises resolve, for same-origin primary frame navigations.
+// ---
+
 #include "content/browser/renderer_host/navigation_api_commit_deferring_condition.h"
 
 #include "content/browser/renderer_host/frame_tree.h"

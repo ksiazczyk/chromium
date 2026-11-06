@@ -1,0 +1,4 @@
+# Docerion header of popup_menu_helper_ios.mm.
+type: source
+title: Popup menu helper for iOS implementation
+summary: Implements the iOS popup menu helper, showing menus through WebMenuRunner and forwarding selection, cancellation and widget visibility changes to the renderer.

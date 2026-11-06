@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for DelegatedFrameHost
+// summary: Unit tests for DelegatedFrameHost using mock clients and test frame sink infrastructure, including checks on copy output request security.
+// ---
+
 #include "content/browser/renderer_host/delegated_frame_host.h"
 
 #include <cstddef>

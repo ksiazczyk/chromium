@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenderFrameHostImpl interface binders
+// summary: Registers the mojo interface receivers exposed by RenderFrameHostImpl, binding frame services such as file system, geolocation, manifest, media, and blob factories.
+// ---
+
 #include <memory>
 #include <utility>
 #include <vector>

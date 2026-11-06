@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NavigationPolicyContainerBuilder browser tests
+// summary: Browser tests exercising NavigationPolicyContainerBuilder with navigation history, CSP delivery, and IP address space scenarios.
+// ---
+
 #include "content/browser/renderer_host/navigation_policy_container_builder.h"
 
 #include "base/strings/stringprintf.h"

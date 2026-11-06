@@ -1,0 +1,4 @@
+# Docerion header of render_frame_host_impl_mac_browsertest.mm.
+type: test
+title: RenderFrameHostImpl Mac browser test for find pasteboard
+summary: Browser test verifying that copying a selection on macOS updates the find pasteboard with the selected text.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for FrameTree
+// summary: Unit tests verifying frame tree structure, frame creation and deletion, and WebContentsObserver event logging via a tree-walking logger.
+// ---
+
 #include "content/browser/renderer_host/frame_tree.h"
 
 #include <stddef.h>

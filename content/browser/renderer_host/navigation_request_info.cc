@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NavigationRequestInfo constructor implementation
+// summary: Implements the NavigationRequestInfo constructor and destructor, initializing the parameter set used to start a navigation request.
+// ---
+
 #include "content/browser/renderer_host/navigation_request_info.h"
 
 #include "content/public/browser/weak_document_ptr.h"

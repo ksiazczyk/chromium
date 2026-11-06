@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CSPEE histogram browser test
+// summary: Browser test verifying that iframe navigations record the expected CSP Embedded Enforcement outcome samples in the Navigation.CSPEmbeddedEnforcement.Outcome histogram.
+// ---
+
 #include "base/test/metrics/histogram_tester.h"
 #include "content/browser/renderer_host/navigation_request.h"
 #include "content/browser/web_contents/web_contents_impl.h"

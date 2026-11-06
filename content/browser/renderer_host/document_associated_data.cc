@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DocumentAssociatedData implementation
+// summary: Implements per-document data for RenderFrameHostImpl, mapping document tokens to frames, owning the Page for main documents, and cleaning up services, user data, and network restrictions on destruction.
+// ---
+
 #include "content/browser/renderer_host/document_associated_data.h"
 
 #include <utility>

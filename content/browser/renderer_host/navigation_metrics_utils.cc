@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigation ad-click metrics utilities
+// summary: Records the AdClickMainFrameNavigation use counter and Navigation.MainFrame.FromAdClick UMA for main frame navigations initiated by ad clicks.
+// ---
+
 #include "content/browser/renderer_host/navigation_metrics_utils.h"
 
 #include "base/metrics/histogram_macros.h"

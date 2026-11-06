@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Frame navigation entry implementation
+// summary: Implements FrameNavigationEntry, storing per-frame session history state such as URL, origin, referrer, and page state.
+// ---
+
 #include "content/browser/renderer_host/frame_navigation_entry.h"
 
 #include <utility>

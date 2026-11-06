@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for recently destroyed host tracking
+// summary: Declares the RecentlyDestroyedHosts class, which stores process locks of destroyed renderers with 60-second subframe and 2-hour main-frame timeouts for reuse metrics.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_RECENTLY_DESTROYED_HOSTS_H_
 #define CONTENT_BROWSER_RENDERER_HOST_RECENTLY_DESTROYED_HOSTS_H_
 

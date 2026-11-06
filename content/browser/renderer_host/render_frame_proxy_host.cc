@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenderFrameProxyHost implementation
+// summary: Implements the browser-side host for remote frame proxies, keeping window references valid and routing cross-site messages during cross-process navigations.
+// ---
+
 #include "content/browser/renderer_host/render_frame_proxy_host.h"
 
 #include <memory>

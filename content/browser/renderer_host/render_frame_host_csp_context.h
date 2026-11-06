@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenderFrameHostCSPContext class header
+// summary: Declares RenderFrameHostCSPContext, a network::CSPContext that reports Content Security Policy violations through the mojo connection between a RenderFrameHostImpl and its LocalFrame.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_RENDER_FRAME_HOST_CSP_CONTEXT_H_
 #define CONTENT_BROWSER_RENDERER_HOST_RENDER_FRAME_HOST_CSP_CONTEXT_H_
 

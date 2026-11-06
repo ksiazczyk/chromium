@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overscroll configuration
+// summary: Defines OverscrollConfig threshold constants and helpers for touchpad and touchscreen overscroll behavior, including the touchpad history navigation feature flag.
+// ---
+
 #include "content/public/browser/overscroll_configuration.h"
 
 #include "content/common/features.h"

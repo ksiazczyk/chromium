@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MixedContentChecker class declaration
+// summary: Declares browser-process mixed content checking utilities that mirror blink::MixedContentChecker for navigations and keepalive fetches.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_MIXED_CONTENT_CHECKER_H_
 #define CONTENT_BROWSER_RENDERER_HOST_MIXED_CONTENT_CHECKER_H_
 

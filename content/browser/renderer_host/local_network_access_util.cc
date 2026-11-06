@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local network access policy utilities implementation
+// summary: Implements derivation of local network access request policies and client security states based on IP address space, secure context, request context, and feature flags.
+// ---
+
 #include "content/browser/renderer_host/local_network_access_util.h"
 
 #include "base/command_line.h"

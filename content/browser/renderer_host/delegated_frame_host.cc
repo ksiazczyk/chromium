@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DelegatedFrameHost implementation for delegated compositor frames
+// summary: Implements the browser-side host that manages delegated frames from a RenderWidget, handling visibility, frame eviction, surface IDs, and frame capture for tab switch timing.
+// ---
+
 #include "content/browser/renderer_host/delegated_frame_host.h"
 
 #include <string>

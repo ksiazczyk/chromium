@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NavigationHandleUserData browser tests
+// summary: Browser tests verifying that user data attached to a NavigationHandle is readable during navigation and destroyed after the navigation finishes.
+// ---
+
 #include "base/test/bind.h"
 #include "content/public/browser/navigation_handle_user_data.h"
 

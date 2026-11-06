@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cookie utilities for the renderer host
+// summary: Provides cookie helpers for the browser, including UKM logging of non-ASCII cookie names and cookies blocked due to scheme or port mismatch.
+// ---
+
 #include "content/browser/renderer_host/cookie_utils.h"
 
 #include <algorithm>

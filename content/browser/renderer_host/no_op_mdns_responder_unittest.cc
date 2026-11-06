@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: No-op mDNS responder unit tests
+// summary: Unit tests verifying that NoOpMdnsResponder always runs its callbacks with failure values for create and remove name requests, including repeated and IPv6 requests.
+// ---
+
 #include "content/browser/renderer_host/no_op_mdns_responder.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Isolated Web App navigation throttle implementation
+// summary: Implements a navigation throttle that blocks navigations into or out of Isolated Web Apps and routes cross-IWA navigations to the default browser.
+// ---
+
 #include "content/browser/renderer_host/isolated_web_app_throttle.h"
 
 #include "base/feature_list.h"

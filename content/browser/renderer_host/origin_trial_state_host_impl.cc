@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Origin trial state host implementation
+// summary: Implements the mojo OriginTrialStateHost interface, validating origin trial tokens with security checks and updating a RenderFrameHost's runtime feature state.
+// ---
+
 #include "content/browser/renderer_host/origin_trial_state_host_impl.h"
 
 #include "content/browser/bad_message.h"

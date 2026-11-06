@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RenderFrameHostManager unit tests
+// summary: Unit tests for RenderFrameHostManager covering frame host selection, site instance behavior, and navigation decisions.
+// ---
+
 #include "content/browser/renderer_host/render_frame_host_manager.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BackForwardCacheDisablingFeatureHandle unit tests
+// summary: Unit tests covering the lifecycle of the back-forward cache disabling feature handle, including default construction, reset, and move semantics.
+// ---
+
 #include "content/browser/renderer_host/back_forward_cache_disabling_feature_handle.h"
 
 #include <utility>

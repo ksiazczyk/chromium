@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AncestorThrottle browser tests
+// summary: Browser tests verifying that iframe navigations are blocked or allowed according to CSP frame-ancestors and X-Frame-Options response headers.
+// ---
+
 #include "base/strings/escape.h"
 #include "base/strings/string_util.h"
 #include "base/strings/stringprintf.h"

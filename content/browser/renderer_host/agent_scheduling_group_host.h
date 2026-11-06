@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AgentSchedulingGroupHost class declaration
+// summary: Declares the browser-side host of an AgentSchedulingGroup, Blink's unit of scheduling and performance isolation, used to obtain ordering guarantees across Mojo and IPC messages.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_AGENT_SCHEDULING_GROUP_HOST_H_
 #define CONTENT_BROWSER_RENDERER_HOST_AGENT_SCHEDULING_GROUP_HOST_H_
 

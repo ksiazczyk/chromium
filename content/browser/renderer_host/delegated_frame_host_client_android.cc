@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android DelegatedFrameHostClient implementation
+// summary: Implements the Android delegated frame host client, forwarding frame token and eviction events to RenderWidgetHostViewAndroid and recording frame submission metrics per scroll gesture.
+// ---
+
 #include "content/browser/renderer_host/delegated_frame_host_client_android.h"
 
 #include "base/metrics/histogram_macros.h"

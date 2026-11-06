@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android spare renderer navigation throttle browser tests
+// summary: Browser tests checking that navigations using the Android spare renderer are throttled and resumed when the process priority graduates or the process dies.
+// ---
+
 #include "content/browser/renderer_host/android_spare_renderer_navigation_throttle.h"
 
 #include <memory>

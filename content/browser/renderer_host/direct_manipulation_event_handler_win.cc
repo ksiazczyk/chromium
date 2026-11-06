@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows Direct Manipulation gesture event handler
+// summary: Implements the COM event handler that turns Windows Direct Manipulation viewport updates into scroll, fling and pinch gesture sequences for the browser.
+// ---
+
 #include "content/browser/renderer_host/direct_manipulation_event_handler_win.h"
 
 #include "base/check_op.h"

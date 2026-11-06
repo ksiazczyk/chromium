@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NavigationRequest implementation
+// summary: Implements the browser-side NavigationRequest class that drives navigations in Chromium's content layer, covering throttles, preloading, commit handling and related bookkeeping.
+// ---
+
 #include "content/browser/renderer_host/navigation_request.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RenderFrameHostImpl unit tests
+// summary: Unit tests covering RenderFrameHostImpl behavior, including CORS origin permissions, cookies, and navigation-related logic.
+// ---
+
 #include "content/browser/renderer_host/render_frame_host_impl.h"
 
 #include <memory>

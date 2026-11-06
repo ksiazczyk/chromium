@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageLifecycleStateManager class declaration
+// summary: Declares the manager responsible for the blink::Page main lifecycle state, one-to-one with RenderViewHostImpl, including freezing and back/forward cache handling.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_PAGE_LIFECYCLE_STATE_MANAGER_H_
 #define CONTENT_BROWSER_RENDERER_HOST_PAGE_LIFECYCLE_STATE_MANAGER_H_
 

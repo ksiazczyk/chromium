@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NavigationThrottleRunner2 implementation
+// summary: Implements the revamped throttle runner behind a feature flag, currently stubbed to report PROCEED without actually running throttles.
+// ---
+
 #include "content/browser/renderer_host/navigation_throttle_runner2.h"
 
 namespace content {

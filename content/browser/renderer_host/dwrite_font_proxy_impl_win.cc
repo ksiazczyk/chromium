@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DWrite font proxy browser-side implementation
+// summary: Implements the DWriteFontProxy Mojo interface, servicing renderer font queries against the Windows system font collection.
+// ---
+
 #include "content/browser/renderer_host/dwrite_font_proxy_impl_win.h"
 
 #include <windows.h>

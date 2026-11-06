@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Direct Manipulation unit tests for Windows
+// summary: Unit tests using COM mocks that exercise the Direct Manipulation helper and event handler gesture state transitions.
+// ---
+
 #include <objbase.h>
 
 #include <utility>

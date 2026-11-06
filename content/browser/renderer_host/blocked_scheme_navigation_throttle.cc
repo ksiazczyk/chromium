@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BlockedSchemeNavigationThrottle implementation
+// summary: 'Implements a navigation throttle that cancels renderer-initiated navigations to data: and filesystem: URLs and reports console errors.'
+// ---
+
 #include "content/browser/renderer_host/blocked_scheme_navigation_throttle.h"
 
 #include "base/feature_list.h"

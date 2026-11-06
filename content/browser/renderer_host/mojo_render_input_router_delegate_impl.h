@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo render input router delegate class declaration
+// summary: Declares the RenderInputRouterDelegateClient implementation that syncs input handling state between the browser main thread and the Viz compositor thread.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_MOJO_RENDER_INPUT_ROUTER_DELEGATE_IMPL_H_
 #define CONTENT_BROWSER_RENDERER_HOST_MOJO_RENDER_INPUT_ROUTER_DELEGATE_IMPL_H_
 

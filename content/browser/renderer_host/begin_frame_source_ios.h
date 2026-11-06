@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BeginFrameSourceIOS class declaration
+// summary: Declares an iOS begin frame source that bridges viz begin frames to the ui compositor via the external begin frame controller client.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_BEGIN_FRAME_SOURCE_IOS_H_
 #define CONTENT_BROWSER_RENDERER_HOST_BEGIN_FRAME_SOURCE_IOS_H_
 

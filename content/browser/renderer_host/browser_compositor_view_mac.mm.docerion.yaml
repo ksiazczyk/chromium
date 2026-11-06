@@ -1,0 +1,4 @@
+# Docerion header of browser_compositor_view_mac.mm.
+type: source
+title: BrowserCompositorMac implementation for macOS browser compositing
+summary: Implements BrowserCompositorMac, tracking instances, managing recyclable compositors and surface id updates for macOS delegated frame display.

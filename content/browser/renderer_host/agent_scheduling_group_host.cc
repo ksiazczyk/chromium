@@ -1,6 +1,13 @@
 // Copyright 2020 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: AgentSchedulingGroupHost implementation
+// summary: Implements the browser-side AgentSchedulingGroupHost, creating and managing scheduling groups per process or SiteInstanceGroup for Mojo and IPC message ordering.
+// ---
+
 #include "content/browser/renderer_host/agent_scheduling_group_host.h"
 
 #include <memory>

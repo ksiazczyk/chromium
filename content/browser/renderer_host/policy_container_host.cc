@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PolicyContainerHost implementation
+// summary: Implements the browser-side policy container that stores referrer policy, CSP, COOP, COEP, sandbox flags and related per-document policies.
+// ---
+
 #include "content/browser/renderer_host/policy_container_host.h"
 
 #include <algorithm>

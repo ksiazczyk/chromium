@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Navigation throttle discard browser tests
+// summary: Browser tests verifying navigation throttle behavior when navigations are discarded, including a throttle that resumes after a discard reason is reported.
+// ---
+
 #include "content/public/browser/navigation_throttle.h"
 
 #include "base/test/bind.h"

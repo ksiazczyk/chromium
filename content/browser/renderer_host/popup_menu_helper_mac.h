@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Popup menu helper for macOS
+// summary: Declares the macOS PopupMenuHelper that shows popup menus and guards against the menu overlapping permission prompts.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_POPUP_MENU_HELPER_MAC_H_
 #define CONTENT_BROWSER_RENDERER_HOST_POPUP_MENU_HELPER_MAC_H_
 

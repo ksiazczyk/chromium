@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data transfer utilities header
+// summary: Declares helpers that convert file infos, drop data, and drag data between browser-side structures and mojo data transfer types.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_DATA_TRANSFER_UTIL_H_
 #define CONTENT_BROWSER_RENDERER_HOST_DATA_TRANSFER_UTIL_H_
 

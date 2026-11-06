@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock Direct Manipulation content declaration
+// summary: Declares MockDirectManipulationContent, a test mock of IDirectManipulationContent that provides transform values for precision touchpad testing.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_DIRECT_MANIPULATION_TEST_HELPER_WIN_H_
 #define CONTENT_BROWSER_RENDERER_HOST_DIRECT_MANIPULATION_TEST_HELPER_WIN_H_
 

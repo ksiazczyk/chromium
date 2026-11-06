@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for document token consistency
+// summary: Browser tests verifying that browser-side and renderer-side document tokens match across navigations, RenderFrameHost reuse, and frame swaps.
+// ---
+
 #include <string_view>
 
 #include "base/run_loop.h"

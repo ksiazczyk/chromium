@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Async beforeunload commit deferring condition implementation
+// summary: Implements a commit deferring condition that pauses navigation commit until asynchronous beforeunload handlers finish or a timeout occurs.
+// ---
+
 #include "content/browser/renderer_host/async_before_unload_commit_deferring_condition.h"
 
 #include "content/browser/renderer_host/navigation_request.h"

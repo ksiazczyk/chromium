@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HoldingBlockingIDBLockHandle implementation
+// summary: Implements a handle that marks a document as blocking an IndexedDB transaction so its frame must not be frozen.
+// ---
+
 #include "content/browser/renderer_host/holding_blocking_idb_lock_handle.h"
 
 #include <utility>

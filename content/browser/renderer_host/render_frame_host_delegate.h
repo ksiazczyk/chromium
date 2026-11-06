@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenderFrameHostDelegate interface header
+// summary: Declares the RenderFrameHostDelegate interface that embedders implement to handle frame events like media access, fullscreen, navigation, accessibility, and window management.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_RENDER_FRAME_HOST_DELEGATE_H_
 #define CONTENT_BROWSER_RENDERER_HOST_RENDER_FRAME_HOST_DELEGATE_H_
 

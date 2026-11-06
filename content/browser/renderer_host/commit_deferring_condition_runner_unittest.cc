@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Commit deferring condition runner unit tests
+// summary: Unit tests for CommitDeferringConditionRunner covering synchronous, asynchronous, and cancelled deferring conditions and delegate notification.
+// ---
+
 #include "content/browser/renderer_host/commit_deferring_condition_runner.h"
 
 #include "base/memory/raw_ptr.h"

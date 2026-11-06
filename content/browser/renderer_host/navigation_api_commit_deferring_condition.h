@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigation API commit deferring condition
+// summary: Declares a commit deferring condition that lets the renderer's Navigation API defer a navigation commit until a resume listener triggers it.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_NAVIGATION_API_COMMIT_DEFERRING_CONDITION_H_
 #define CONTENT_BROWSER_RENDERER_HOST_NAVIGATION_API_COMMIT_DEFERRING_CONDITION_H_
 

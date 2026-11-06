@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device scale factor utility for render widget host views
+// summary: Provides GetScaleFactorForView, returning a view's device scale factor or the default screen's scale factor when no view is given.
+// ---
+
 #include "content/browser/renderer_host/dip_util.h"
 
 #include "content/public/browser/render_widget_host_view.h"

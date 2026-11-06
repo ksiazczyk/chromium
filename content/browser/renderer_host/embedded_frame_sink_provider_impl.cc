@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Embedded frame sink provider implementation
+// summary: Implements the EmbeddedFrameSinkProvider Mojo interface that creates and manages embedded frame sinks per renderer client.
+// ---
+
 #include "content/browser/renderer_host/embedded_frame_sink_provider_impl.h"
 
 #include <utility>

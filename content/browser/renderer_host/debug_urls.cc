@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Debug URL handler for ASAN crash simulation
+// summary: Implements handling of special debug URLs that trigger deliberate ASAN memory errors such as heap overflow, heap underflow, and use-after-free in the browser and GPU processes for testing crash behavior.
+// ---
+
 #include "content/browser/renderer_host/debug_urls.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android JNI binding for RenderFrameHost
+// summary: Implements the Android JNI bridge for RenderFrameHost, exposing URL, origin, user activation, WebAuthn security checks, JavaScript evaluation and lifecycle state to Java.
+// ---
+
 #include "content/browser/renderer_host/render_frame_host_android.h"
 
 #include <jni.h>

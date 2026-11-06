@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Frame token message queue unit tests
+// summary: Unit tests covering callback enqueueing, frame token ordering, invalid token handling, and reset behavior of FrameTokenMessageQueue.
+// ---
+
 #include "content/browser/renderer_host/frame_token_message_queue.h"
 
 #include <vector>

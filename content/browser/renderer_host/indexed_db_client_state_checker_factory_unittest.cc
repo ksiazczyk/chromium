@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IndexedDB client state checker factory unit tests
+// summary: Unit tests verifying the client state checker callback for documents in active, prerendering, and back/forward cache states, including keep-active scope behaviour.
+// ---
+
 #include "content/browser/renderer_host/indexed_db_client_state_checker_factory.h"
 
 #include "base/functional/bind.h"

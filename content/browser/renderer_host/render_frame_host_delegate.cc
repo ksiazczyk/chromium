@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenderFrameHostDelegate default implementations
+// summary: Provides default behavior for RenderFrameHostDelegate methods such as media access, console messages, fullscreen, and window creation, most returning not-supported or null defaults.
+// ---
+
 #include "content/browser/renderer_host/render_frame_host_delegate.h"
 
 #include <stddef.h>

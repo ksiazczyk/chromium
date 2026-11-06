@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for DisplayFeature viewport segment computation
+// summary: Tests ComputeViewportSegments for horizontal and vertical display features with empty, present, and oversized top browser controls.
+// ---
+
 #include "content/browser/renderer_host/display_feature.h"
 
 #include <vector>

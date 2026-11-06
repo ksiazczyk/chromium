@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows accessibility object lifetime browser test
+// summary: Browser tests verifying that the Windows accessibility root and caret objects returned to the operating system do not leak COM references.
+// ---
+
 #include "base/memory/raw_ptr.h"
 #include "content/browser/renderer_host/legacy_render_widget_host_win.h"
 #include "content/browser/renderer_host/render_widget_host_view_aura.h"

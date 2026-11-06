@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Isolated Web App throttle unit tests
+// summary: Unit tests exercising IsolatedWebAppThrottle navigation rules with navigation simulators, covering app and non-app origins and external protocol handling.
+// ---
+
 #include "content/browser/renderer_host/isolated_web_app_throttle.h"
 
 #include <optional>

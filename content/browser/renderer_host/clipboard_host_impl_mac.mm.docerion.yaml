@@ -1,0 +1,4 @@
+# Docerion header of clipboard_host_impl_mac.mm.
+type: source
+title: macOS clipboard host implementation
+summary: macOS-specific ClipboardHostImpl code that writes to the find pasteboard and reports the platform clipboard permission state from macOS privacy settings.

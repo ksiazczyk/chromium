@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Randomized confidence utilities for navigation confidence
+// summary: Implements differentially private randomization of navigation confidence levels, flipping the reported confidence with a trigger rate derived from an epsilon feature parameter.
+// ---
+
 #include "content/browser/renderer_host/randomized_confidence_utils.h"
 
 #include "base/rand_util.h"

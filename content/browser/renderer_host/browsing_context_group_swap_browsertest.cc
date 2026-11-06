@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for browsing context group swap behavior
+// summary: Parametrized browser tests verifying browsing context group swap decisions across RenderDocument levels and back-forward cache settings.
+// ---
+
 #include "content/browser/renderer_host/browsing_context_group_swap.h"
 
 #include <optional>

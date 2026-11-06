@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CookieAccessObservers class declaration
+// summary: Declares CookieAccessObservers, a thin mojom::CookieAccessObserver wrapper around a ReceiverSet that tracks the source of cookie accesses.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_COOKIE_ACCESS_OBSERVERS_H_
 #define CONTENT_BROWSER_RENDERER_HOST_COOKIE_ACCESS_OBSERVERS_H_
 

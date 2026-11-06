@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aura DelegatedFrameHostClient declarations
+// summary: Declares DelegatedFrameHostClientAura, the aura implementation of the delegated frame host client interface used by RenderWidgetHostViewAura.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_DELEGATED_FRAME_HOST_CLIENT_AURA_H_
 #define CONTENT_BROWSER_RENDERER_HOST_DELEGATED_FRAME_HOST_CLIENT_AURA_H_
 

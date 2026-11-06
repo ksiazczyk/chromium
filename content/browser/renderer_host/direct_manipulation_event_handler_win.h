@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows Direct Manipulation event handler declaration
+// summary: Declares the DirectManipulationEventHandler COM class that receives status and gesture events from the Windows Direct Manipulation API.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_DIRECT_MANIPULATION_EVENT_HANDLER_WIN_H_
 #define CONTENT_BROWSER_RENDERER_HOST_DIRECT_MANIPULATION_EVENT_HANDLER_WIN_H_
 

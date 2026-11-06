@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for recently destroyed hosts metrics
+// summary: Unit tests covering subframe and main-frame reuse metrics, expiration timeouts, and reuse-interval bookkeeping using mock render process hosts and histogram testers.
+// ---
+
 #include "content/browser/renderer_host/recently_destroyed_hosts.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MixedContentChecker implementation
+// summary: Implements browser-side mixed content checks that block navigations and fetch keepalive requests loading insecure content from secure origins.
+// ---
+
 #include "content/browser/renderer_host/mixed_content_checker.h"
 
 #include <algorithm>

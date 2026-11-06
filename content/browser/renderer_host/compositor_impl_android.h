@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android browser compositor class declaration
+// summary: Declares CompositorImpl, the browser-side Android compositor managing content and UI layers, implementing layer tree client, frame sink client, and display observer interfaces.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_COMPOSITOR_IMPL_ANDROID_H_
 #define CONTENT_BROWSER_RENDERER_HOST_COMPOSITOR_IMPL_ANDROID_H_
 

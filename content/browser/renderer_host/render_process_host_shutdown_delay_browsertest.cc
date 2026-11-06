@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Render process shutdown delay browser tests
+// summary: Browser tests covering delaying, canceling, expiring, and stacking renderer process shutdown delays via DelayProcessShutdown and the shutdown delay ref count.
+// ---
+
 #include "base/run_loop.h"
 #include "base/test/bind.h"
 #include "base/time/time.h"

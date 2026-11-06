@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NavigationStateKeepAlive declaration
+// summary: Declares NavigationStateKeepAlive, a Mojo keepalive handle that ties InitiatorNavigationState lifetime to a message pipe for navigations that outlive their initiating frame.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_NAVIGATION_STATE_KEEP_ALIVE_H_
 #define CONTENT_BROWSER_RENDERER_HOST_NAVIGATION_STATE_KEEP_ALIVE_H_
 

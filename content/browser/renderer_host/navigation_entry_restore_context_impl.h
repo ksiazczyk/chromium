@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NavigationEntryRestoreContextImpl declaration
+// summary: Declares NavigationEntryRestoreContextImpl, which de-duplicates FrameNavigationEntries across restored NavigationEntries via item sequence numbers.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_NAVIGATION_ENTRY_RESTORE_CONTEXT_IMPL_H_
 #define CONTENT_BROWSER_RENDERER_HOST_NAVIGATION_ENTRY_RESTORE_CONTEXT_IMPL_H_
 

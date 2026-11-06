@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for renderer_host
+summary: Lists code owners for the directory by topic, with per-file owner rules for platform code, security-sensitive files, and specific tests.

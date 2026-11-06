@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android spare renderer navigation throttle implementation
+// summary: Implements a navigation throttle that defers navigations using the Android spare renderer until the renderer process priority has graduated, recording metrics.
+// ---
+
 #include "content/browser/renderer_host/android_spare_renderer_navigation_throttle.h"
 
 #include "base/metrics/histogram_functions.h"

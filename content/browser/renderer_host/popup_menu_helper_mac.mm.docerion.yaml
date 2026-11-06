@@ -1,0 +1,4 @@
+# Docerion header of popup_menu_helper_mac.mm.
+type: source
+title: Popup menu helper for macOS implementation
+summary: Implements the macOS popup menu helper, displaying menus through a remote runner and dismissing them when they would occlude a permission prompt.

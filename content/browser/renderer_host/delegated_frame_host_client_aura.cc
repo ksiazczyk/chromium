@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aura DelegatedFrameHostClient implementation
+// summary: Implements the aura delegated frame host client, supplying layer, visibility, gutter color, scale factor, and eviction behavior for RenderWidgetHostViewAura.
+// ---
+
 #include "content/browser/renderer_host/delegated_frame_host_client_aura.h"
 
 #include "content/browser/renderer_host/render_widget_host_impl.h"

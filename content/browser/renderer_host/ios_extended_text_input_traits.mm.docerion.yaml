@@ -1,0 +1,4 @@
+# Docerion header of ios_extended_text_input_traits.mm.
+type: source
+title: iOS extended text input traits implementation
+summary: Implements conversion of Chromium text input state flags and types into UIKit traits such as autocapitalization, autocorrection, spell checking, and keyboard type.

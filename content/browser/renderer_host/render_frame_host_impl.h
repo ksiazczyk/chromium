@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenderFrameHostImpl class header
+// summary: Declares RenderFrameHostImpl, the browser-side host of a renderer frame, with navigation, storage, policy, and mojo plumbing spanning the frame's lifetime.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_RENDER_FRAME_HOST_IMPL_H_
 #define CONTENT_BROWSER_RENDERER_HOST_RENDER_FRAME_HOST_IMPL_H_
 

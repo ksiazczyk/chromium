@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for DocumentUserData
+// summary: Browser tests covering the lifetime and behavior of document-scoped user data across navigations, popups, and back/forward cache scenarios.
+// ---
+
 #include "content/public/browser/document_user_data.h"
 
 #include "base/command_line.h"

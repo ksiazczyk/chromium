@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Origin trial state host header
+// summary: Declares OriginTrialStateHostImpl, a DocumentService that handles renderer requests about origin trials and applies validated feature state to the RenderFrameHost.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_ORIGIN_TRIAL_STATE_HOST_IMPL_H_
 #define CONTENT_BROWSER_RENDERER_HOST_ORIGIN_TRIAL_STATE_HOST_IMPL_H_
 

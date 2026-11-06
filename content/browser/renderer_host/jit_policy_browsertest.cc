@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: JIT policy browser tests
+// summary: Browser tests verifying per-site JIT disabling for renderer processes, including the Windows dynamic code disable mitigation.
+// ---
+
 #include "base/strings/string_number_conversions.h"
 #include "base/test/bind.h"
 #include "base/test/scoped_feature_list.h"

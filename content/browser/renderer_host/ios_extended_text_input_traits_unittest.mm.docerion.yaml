@@ -1,0 +1,4 @@
+# Docerion header of ios_extended_text_input_traits_unittest.mm.
+type: test
+title: iOS extended text input traits unit tests
+summary: Unit tests verifying that IOSExtendedTextInputTraits maps Chromium text input state to iOS autocapitalization, autocorrection, spellcheck, smart quotes and smart dashes settings.

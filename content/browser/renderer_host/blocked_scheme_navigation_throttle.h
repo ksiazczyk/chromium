@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BlockedSchemeNavigationThrottle class declaration
+// summary: 'Declares a navigation throttle that blocks renderer-initiated top-frame navigations to certain URL schemes, currently data: and filesystem:.'
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_BLOCKED_SCHEME_NAVIGATION_THROTTLE_H_
 #define CONTENT_BROWSER_RENDERER_HOST_BLOCKED_SCHEME_NAVIGATION_THROTTLE_H_
 

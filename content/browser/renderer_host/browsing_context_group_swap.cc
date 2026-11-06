@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowsingContextGroupSwap implementation
+// summary: Implements factory methods and predicates for browsing context group swap decisions such as COOP, security and proactive swaps during navigation.
+// ---
+
 #include "content/browser/renderer_host/browsing_context_group_swap.h"
 
 #include "base/memory/ptr_util.h"

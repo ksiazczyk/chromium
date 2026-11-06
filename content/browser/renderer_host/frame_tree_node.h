@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameTreeNode class header
+// summary: Declares FrameTreeNode, the browser-side mirror of a renderer frame tree node that wraps frame-specific state, observers, and lookup helpers.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_FRAME_TREE_NODE_H_
 #define CONTENT_BROWSER_RENDERER_HOST_FRAME_TREE_NODE_H_
 

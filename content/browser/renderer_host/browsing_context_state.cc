@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowsingContextState implementation
+// summary: Implements BrowsingContextState, storing proxy hosts and frame replication state per browsing context, with tracing and legacy or swap modes.
+// ---
+
 #include "content/browser/renderer_host/browsing_context_state.h"
 
 #include "base/memory/ptr_util.h"

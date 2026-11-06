@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Policy container host browser tests
+// summary: Browser tests verifying how referrer policies from headers and meta tags are applied and how policy containers are inherited from popup openers.
+// ---
+
 #include "content/browser/renderer_host/policy_container_host.h"
 
 #include "base/command_line.h"

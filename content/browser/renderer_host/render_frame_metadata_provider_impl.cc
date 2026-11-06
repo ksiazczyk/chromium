@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenderFrameMetadataProviderImpl implementation
+// summary: Implements the browser-side provider that tracks render frame metadata from compositor frame submissions and notifies registered observers.
+// ---
+
 #include "content/browser/renderer_host/render_frame_metadata_provider_impl.h"
 
 #include "base/check.h"

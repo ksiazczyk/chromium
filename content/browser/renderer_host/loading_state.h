@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoadingState enum
+// summary: Defines the LoadingState enum describing whether a frame or frame tree is not loading, loading without UI, or loading with requested loading UI.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_LOADING_STATE_H_
 #define CONTENT_BROWSER_RENDERER_HOST_LOADING_STATE_H_
 

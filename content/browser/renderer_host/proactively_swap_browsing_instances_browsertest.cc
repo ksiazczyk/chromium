@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Proactive BrowsingInstance swap browser tests
+// summary: Browser tests verifying proactive BrowsingInstance swaps during navigations, covering error pages, back-forward cache and browsing context group swaps.
+// ---
+
 #include <string_view>
 
 #include "base/strings/stringprintf.h"

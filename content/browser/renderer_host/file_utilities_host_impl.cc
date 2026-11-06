@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File utilities host implementation
+// summary: Browser-side FileUtilitiesHost mojo implementation that returns file metadata only after checking child process read permission.
+// ---
+
 #include "content/browser/renderer_host/file_utilities_host_impl.h"
 
 #include <memory>

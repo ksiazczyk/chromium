@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenderFrameHostLifecycleStateImpl string conversion
+// summary: Converts RenderFrameHostLifecycleStateImpl enum values to readable strings for logging and output streams.
+// ---
+
 #include "content/browser/renderer_host/render_frame_host_lifecycle_state_impl.h"
 
 #include <ostream>

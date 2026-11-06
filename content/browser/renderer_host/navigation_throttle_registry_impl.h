@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigation throttle registry implementation header
+// summary: Declares the throttle runner and registry base interfaces plus NavigationThrottleRegistryImpl, which owns the throttles registered for a navigation.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_NAVIGATION_THROTTLE_REGISTRY_IMPL_H_
 #define CONTENT_BROWSER_RENDERER_HOST_NAVIGATION_THROTTLE_REGISTRY_IMPL_H_
 

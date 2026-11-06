@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RenderProcessHost browser tests
+// summary: Browser tests for render process host behavior, covering process lifecycle, navigation, and related browser-side functionality.
+// ---
+
 #include "content/public/browser/render_process_host.h"
 
 #include <memory>

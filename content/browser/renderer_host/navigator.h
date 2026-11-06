@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigator class header
+// summary: Declares Navigator, the class responsible for performing navigations in FrameTree nodes, with lifetime bound to the FrameTree.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_NAVIGATOR_H_
 #define CONTENT_BROWSER_RENDERER_HOST_NAVIGATOR_H_
 

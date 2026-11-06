@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Code cache host impl unit tests
+// summary: Parameterized unit tests for CodeCacheHostImpl covering site isolation modes, persistent code cache behavior, and security policy checks.
+// ---
+
 #include "content/browser/renderer_host/code_cache_host_impl.h"
 
 #include <stdint.h>

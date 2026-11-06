@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RenderFrameHost permissions policy unit tests
+// summary: Integration tests verifying permissions policy setup and querying through RenderFrameHost, covering header policies and container policies for frames.
+// ---
+
 #include <vector>
 
 #include "content/browser/site_instance_impl.h"

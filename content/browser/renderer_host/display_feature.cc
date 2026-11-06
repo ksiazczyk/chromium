@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Display feature viewport segment computation
+// summary: Implements DisplayFeature, which computes viewport segments for widgets split by foldable device hinges or other display features.
+// ---
+
 #include "content/browser/renderer_host/display_feature.h"
 
 namespace content {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigation type enum
+// summary: Defines the NavigationType enum classifying navigations such as main frame new or existing entries, new subframes and automatic subframe loads.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_NAVIGATION_TYPE_H_
 #define CONTENT_BROWSER_RENDERER_HOST_NAVIGATION_TYPE_H_
 

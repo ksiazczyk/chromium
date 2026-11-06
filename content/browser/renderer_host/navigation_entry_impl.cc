@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigation entry implementation
+// summary: Implements NavigationEntryImpl, including PageState encoding, frame entry trees, and restore context handling for session history.
+// ---
+
 #include "content/browser/renderer_host/navigation_entry_impl.h"
 
 #include <stddef.h>

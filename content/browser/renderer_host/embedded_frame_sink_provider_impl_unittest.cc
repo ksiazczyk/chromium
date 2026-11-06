@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the embedded frame sink provider
+// summary: Tests EmbeddedFrameSinkProviderImpl registration, hierarchy changes and compositor frame sink creation via Mojo.
+// ---
+
 #include "content/browser/renderer_host/embedded_frame_sink_provider_impl.h"
 
 #include <algorithm>

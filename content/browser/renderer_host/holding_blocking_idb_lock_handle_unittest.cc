@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for HoldingBlockingIDBLockHandle
+// summary: Tests handle validity, reset, and move semantics, plus feature observer notifications for blocking IndexedDB locks.
+// ---
+
 #include "content/browser/renderer_host/holding_blocking_idb_lock_handle.h"
 
 #include <utility>

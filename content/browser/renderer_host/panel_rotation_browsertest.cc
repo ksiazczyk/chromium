@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Panel rotation browser test
+// summary: ChromeOS browser test checking that display panel rotation changes are reflected in the screen orientation angle exposed to web content.
+// ---
+
 #include "content/public/test/browser_test.h"
 #include "content/public/test/browser_test_utils.h"
 #include "content/public/test/content_browser_test.h"

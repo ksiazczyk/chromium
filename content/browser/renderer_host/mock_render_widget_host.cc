@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock render widget host implementation
+// summary: Implements a mock RenderWidgetHost with a mock render input router and test hooks such as force-enable-zoom expectations for use in tests.
+// ---
+
 #include "content/browser/renderer_host/mock_render_widget_host.h"
 
 #include <memory>

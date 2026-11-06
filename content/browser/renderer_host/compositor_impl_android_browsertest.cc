@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the Android compositor
+// summary: Browser tests for CompositorImpl on Android, covering low-end device mode, surface handling, and GPU context loss observation.
+// ---
+
 #include "content/browser/renderer_host/compositor_impl_android.h"
 
 #include "base/android/application_status_listener.h"

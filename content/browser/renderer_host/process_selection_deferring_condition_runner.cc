@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Process selection deferring condition runner implementation
+// summary: Implements the runner that invokes registered process selection deferring conditions during navigation and resumes once they complete.
+// ---
+
 #include "content/browser/renderer_host/process_selection_deferring_condition_runner.h"
 
 #include "base/functional/callback.h"

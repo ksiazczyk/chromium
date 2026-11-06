@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClipboardHostImpl implementation
+// summary: Implements the ClipboardHost Mojo interface, handling clipboard read and write, paste permission checks and policy enforcement for frames and workers.
+// ---
+
 #include "content/browser/renderer_host/clipboard_host_impl.h"
 
 #include <algorithm>

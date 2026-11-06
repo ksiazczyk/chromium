@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Blocked scheme navigation browser tests
+// summary: 'Browser tests verifying that renderer-initiated navigations to blocked schemes such as data: and filesystem: are cancelled with console errors.'
+// ---
+
 #include "base/base64.h"
 #include "base/command_line.h"
 #include "base/files/file_util.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for RenderDocument RenderFrameHost replacement
+// summary: Browser tests asserting that a new RenderFrameHost is used after main-frame and subframe navigations when the RenderDocument feature is enabled for all frames.
+// ---
+
 #include "base/command_line.h"
 #include "base/test/scoped_feature_list.h"
 #include "base/values.h"

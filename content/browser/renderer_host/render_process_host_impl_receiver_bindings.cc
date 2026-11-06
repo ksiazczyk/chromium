@@ -4,6 +4,12 @@
 
 // This file exposes services from the browser to renderer processes.
 
+// ---docerion
+// type: source
+// title: Renderer process service receiver bindings
+// summary: Implements the part of RenderProcessHostImpl that exposes browser-side services such as blob storage, file system, GPU, media, and sandbox support to renderer processes via Mojo receivers.
+// ---
+
 // clang-format off
 #include "content/browser/renderer_host/render_process_host_impl.h"
 // clang-format on

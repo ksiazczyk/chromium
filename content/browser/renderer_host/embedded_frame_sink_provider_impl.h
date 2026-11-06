@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EmbeddedFrameSinkProviderImpl class declaration
+// summary: Declares the provider that registers embedded frame sinks and frame sink bundles for a renderer process.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_EMBEDDED_FRAME_SINK_PROVIDER_IMPL_H_
 #define CONTENT_BROWSER_RENDERER_HOST_EMBEDDED_FRAME_SINK_PROVIDER_IMPL_H_
 

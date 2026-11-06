@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Frame token message queue implementation
+// summary: Implements queuing and dispatch of renderer messages and callbacks until their associated frame token has been processed.
+// ---
+
 #include "content/browser/renderer_host/frame_token_message_queue.h"
 
 #include "base/debug/crash_logging.h"

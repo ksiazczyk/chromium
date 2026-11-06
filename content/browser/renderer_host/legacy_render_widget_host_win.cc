@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LegacyRenderWidgetHostHWND implementation
+// summary: Implements a legacy Windows child HWND that supports screen readers and legacy trackpad drivers by handling accessibility, input, and direct manipulation for the render widget host view.
+// ---
+
 #include "content/browser/renderer_host/legacy_render_widget_host_win.h"
 
 #include <objbase.h>

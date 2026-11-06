@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page factory implementation
+// summary: Implements the PageFactory static methods that create PageImpl instances, either directly or through a registered factory used for testing.
+// ---
+
 #include "content/browser/renderer_host/page_factory.h"
 
 #include <memory>

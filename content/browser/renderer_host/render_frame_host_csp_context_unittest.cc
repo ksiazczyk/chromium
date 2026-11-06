@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RenderFrameHostCSPContext unit test
+// summary: Unit test verifying that SanitizeDataForUseInCspViolation strips sensitive URL and source location details from CSP violation reports.
+// ---
+
 #include "content/browser/renderer_host/render_frame_host_csp_context.h"
 
 #include "content/browser/renderer_host/render_frame_host_impl.h"

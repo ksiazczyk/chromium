@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Navigator unit tests
+// summary: Unit tests for the Navigator class covering SiteInstance changes, cross-site navigations, and process model behavior using navigation simulators and test harnesses.
+// ---
+
 #include "content/browser/renderer_host/navigator.h"
 
 #include <stdint.h>

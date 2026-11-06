@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Model context user data class declarations
+// summary: Declares document- and page-scoped user data classes that track pending remote script tool executions and propagate results or cancellations across documents.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_MODEL_CONTEXT_USER_DATA_H_
 #define CONTENT_BROWSER_RENDERER_HOST_MODEL_CONTEXT_USER_DATA_H_
 

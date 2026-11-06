@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BatchedProxyIPCSender implementation
+// summary: Implements batching of child frame proxy creation so a single IPC creates all remote frame proxies for a SiteInstanceGroup.
+// ---
+
 #include "content/browser/renderer_host/batched_proxy_ipc_sender.h"
 
 #include "base/memory/safe_ref.h"

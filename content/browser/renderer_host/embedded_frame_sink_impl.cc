@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Embedded frame sink browser-side implementation
+// summary: Implements the browser-owned EmbeddedFrameSinkImpl that registers embedded frame sinks with the viz host frame sink manager.
+// ---
+
 #include "content/browser/renderer_host/embedded_frame_sink_impl.h"
 
 #include <memory>

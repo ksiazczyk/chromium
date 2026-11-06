@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserCompositorMac interface for macOS browser compositing
+// summary: Declares BrowserCompositorMac, which owns a DelegatedFrameHost and attaches or detaches it from a ui::Compositor for macOS render widget views.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_BROWSER_COMPOSITOR_VIEW_MAC_H_
 #define CONTENT_BROWSER_RENDERER_HOST_BROWSER_COMPOSITOR_VIEW_MAC_H_
 

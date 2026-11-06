@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cookie access observers implementation
+// summary: Implements a CookieAccessObserver receiver set that dispatches cookie access notifications together with their source to a registered callback.
+// ---
+
 #include "content/browser/renderer_host/cookie_access_observers.h"
 
 #include "services/network/public/mojom/cookie_access_observer.mojom.h"

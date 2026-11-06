@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overscroll controller class declaration
+// summary: Declares the OverscrollController class with OverscrollMode and OverscrollSource enums, managing overscroll gesture state for events dispatched to the renderer.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_OVERSCROLL_CONTROLLER_H_
 #define CONTENT_BROWSER_RENDERER_HOST_OVERSCROLL_CONTROLLER_H_
 

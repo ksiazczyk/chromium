@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AgentSchedulingGroupHost factory interface
+// summary: Declares a factory interface for creating AgentSchedulingGroupHosts so tests can substitute mock hosts.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_AGENT_SCHEDULING_GROUP_HOST_FACTORY_H_
 #define CONTENT_BROWSER_RENDERER_HOST_AGENT_SCHEDULING_GROUP_HOST_FACTORY_H_
 

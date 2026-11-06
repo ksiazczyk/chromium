@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NavigationEntryImpl unit tests
+// summary: Unit tests for NavigationEntryImpl covering unique ID accessors, URL and virtual URL handling, and displayed title formatting.
+// ---
+
 #include "content/browser/renderer_host/navigation_entry_impl.h"
 
 #include <memory>

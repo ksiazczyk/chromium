@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Concurrent navigations commit deferring condition
+// summary: Defers back-forward cache or prerender activations while another navigation has a pending commit RenderFrameHost, to avoid deleting it.
+// ---
+
 #include "content/browser/renderer_host/concurrent_navigations_commit_deferring_condition.h"
 
 #include "base/memory/ptr_util.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data transfer utilities implementation
+// summary: Implements conversions between UI file infos, drop data, and mojo drag data, including Chrome OS path remapping and download metadata parsing.
+// ---
+
 #include "content/browser/renderer_host/data_transfer_util.h"
 
 #include <optional>

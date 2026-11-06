@@ -1,3 +1,13 @@
+---
+type: readme
+title: What is content/browser/renderer_host?
+summary: Explains the purpose of the renderer_host directory, its main code categories such as frame hosting, navigation, and compositing, and the layering restriction against calling WebContents directly.
+relations:
+  - references /docs/frame_trees.md
+  - references /docs/navigation.md
+  - references /docs/session_history.md
+---
+
 # What is content/browser/renderer_host?
 
 This directory contains code that can be loosely categorized as "handling the

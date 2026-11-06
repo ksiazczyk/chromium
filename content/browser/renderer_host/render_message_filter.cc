@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenderMessageFilter implementation
+// summary: Implements the IO-thread filter that allocates frame routing IDs, frame tokens, and sandbox origin tokens for newly created frames in renderer processes.
+// ---
+
 #include "content/browser/renderer_host/render_message_filter.h"
 
 #include <errno.h>

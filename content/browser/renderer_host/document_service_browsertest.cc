@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for DocumentService lifetime
+// summary: Browser tests verifying that DocumentService survives prerendering activation and back/forward cache entry but is destroyed on navigation or frame deletion.
+// ---
+
 #include "base/functional/bind.h"
 #include "content/browser/renderer_host/document_service_echo_impl.h"
 #include "content/public/browser/document_service.h"

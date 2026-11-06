@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Frame navigation entry class declaration
+// summary: Declares the refcounted FrameNavigationEntry class representing a session history item for a single frame.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_FRAME_NAVIGATION_ENTRY_H_
 #define CONTENT_BROWSER_RENDERER_HOST_FRAME_NAVIGATION_ENTRY_H_
 

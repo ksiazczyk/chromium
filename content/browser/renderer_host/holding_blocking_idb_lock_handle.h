@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HoldingBlockingIDBLockHandle header
+// summary: Declares a move-only handle notifying that a document blocks another IndexedDB transaction and therefore must not be frozen.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_HOLDING_BLOCKING_IDB_LOCK_HANDLE_H_
 #define CONTENT_BROWSER_RENDERER_HOST_HOLDING_BLOCKING_IDB_LOCK_HANDLE_H_
 

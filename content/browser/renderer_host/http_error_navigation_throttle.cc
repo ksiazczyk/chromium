@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTP error navigation throttle implementation
+// summary: Implements a navigation throttle that defers main frame HTTP error responses until it can determine whether the body is empty, cancelling to commit an error page when it is.
+// ---
+
 #include "content/browser/renderer_host/http_error_navigation_throttle.h"
 
 #include "base/memory/ptr_util.h"
