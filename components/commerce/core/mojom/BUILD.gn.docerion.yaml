@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build target for commerce Mojom bindings
+summary: Defines the mojo_bindings GN target that compiles the directory's .mojom files into bindings with base and URL dependencies.

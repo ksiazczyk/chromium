@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Commerce metrics utility functions implementation
+// summary: Implements helpers that record PDP state, shopping list eligibility, URL size and shopping action UKM metrics.
+// ---
+
 #include "components/commerce/core/metrics/metrics_utils.h"
 
 #include "base/metrics/histogram_functions.h"

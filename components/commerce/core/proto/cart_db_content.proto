@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cart database content protos
+// summary: Defines protobuf messages for persisting Chrome cart data, including money amounts, rule discounts, coupons, products, and cart state per merchant.
+// ---
+
 syntax = "proto3";
 
 option optimize_for = LITE_RUNTIME;

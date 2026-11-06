@@ -1,0 +1,4 @@
+# Docerion header of web_extractor_impl_unittest.mm.
+type: test
+title: WebExtractorImpl unit tests
+summary: Verifies valid and invalid Open Graph meta extraction from loaded HTML pages using the web extractor.

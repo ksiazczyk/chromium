@@ -1,0 +1,4 @@
+# Docerion header of commerce_internals.mojom.
+type: source
+title: Mojo interfaces for the commerce internals WebUI
+summary: Defines structs and browser/WebUI handler interfaces for shopping feature eligibility checks, product info lookups, and price-tracking subscriptions.

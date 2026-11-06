@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccountChecker implementation
+// summary: Implements checks for user sign-in, sync availability, URL data collection consent, and price tracking email preferences.
+// ---
+
 #include "components/commerce/core/account_checker.h"
 
 #include "base/json/json_reader.h"

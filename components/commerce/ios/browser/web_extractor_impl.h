@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebExtractorImpl class declaration
+// summary: Declares the iOS web extractor that retrieves shopping meta info from a web wrapper via callback.
+// ---
+
 #ifndef COMPONENTS_COMMERCE_IOS_BROWSER_WEB_EXTRACTOR_IMPL_H_
 #define COMPONENTS_COMMERCE_IOS_BROWSER_WEB_EXTRACTOR_IMPL_H_
 

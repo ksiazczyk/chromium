@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shopping bookmark model observer unit tests
+// summary: Tests subscription removal and metadata handling when shopping bookmarks are changed, moved or deleted across sync configurations.
+// ---
+
 #include "components/commerce/core/shopping_bookmark_model_observer.h"
 
 #include <memory>

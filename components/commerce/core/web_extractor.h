@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web extractor class declaration
+// summary: Declares the WebExtractor interface for extracting commerce-related information locally from a WebWrapper.
+// ---
+
 #ifndef COMPONENTS_COMMERCE_CORE_WEB_EXTRACTOR_H_
 #define COMPONENTS_COMMERCE_CORE_WEB_EXTRACTOR_H_
 

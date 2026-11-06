@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebExtractorImpl unit tests
+// summary: Unit tests for WebExtractorImpl covering meta info extraction through a mocked Mojo CommerceWebExtractor and behavior when the web contents pointer is cleared.
+// ---
+
 #include "components/commerce/content/browser/web_extractor_impl.h"
 
 #include "base/test/gmock_callback_support.h"

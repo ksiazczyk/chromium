@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SubscriptionsServerProxy implementation
+// summary: Sends create, delete, and get requests to the Google shopping subscriptions endpoint and serializes or deserializes subscription payloads.
+// ---
+
 #include "components/commerce/core/subscriptions/subscriptions_server_proxy.h"
 
 #include <optional>

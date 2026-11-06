@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JNI bindings for commerce feature checks
+// summary: Implements JNI entry points that expose commerce feature eligibility checks such as shopping list, discount info API and price annotations to Java callers.
+// ---
+
 #include "components/commerce/core/feature_utils.h"
 
 #include "base/android/jni_android.h"

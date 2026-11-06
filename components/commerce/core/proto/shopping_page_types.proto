@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shopping page types proto
+// summary: Defines an enum classifying shopping pages as merchant domain, single or multi product, review, comparison, top-N, sold out, or buying guide pages.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

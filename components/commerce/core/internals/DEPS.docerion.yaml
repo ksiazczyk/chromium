@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for commerce internals
+summary: Grants code in this directory include access to the commerce WebUI components under ui/webui/resources/cr_components/commerce.

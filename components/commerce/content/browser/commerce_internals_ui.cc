@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Commerce internals WebUI controller
+// summary: Implements CommerceInternalsUI, setting up the WebUI data source for the commerce internals page.
+// ---
+
 
 #include "components/commerce/content/browser/commerce_internals_ui.h"
 

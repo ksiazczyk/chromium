@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock discount infos storage for tests
+// summary: Declares MockDiscountInfosStorage, a GMock subclass of DiscountInfosStorage that mocks loading and saving discounts for URLs in tests.
+// ---
+
 #ifndef COMPONENTS_COMMERCE_CORE_MOCK_DISCOUNT_INFOS_STORAGE_H_
 #define COMPONENTS_COMMERCE_CORE_MOCK_DISCOUNT_INFOS_STORAGE_H_
 

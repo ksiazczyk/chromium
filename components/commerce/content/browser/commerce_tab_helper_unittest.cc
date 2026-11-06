@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Commerce tab helper unit tests
+// summary: Unit tests covering main frame, sub frame, focus, and 404 navigation handling with a mock shopping service.
+// ---
+
 #include "components/commerce/content/browser/commerce_tab_helper.h"
 
 #include "base/memory/ptr_util.h"

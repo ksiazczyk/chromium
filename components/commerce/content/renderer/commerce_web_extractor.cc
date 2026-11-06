@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CommerceWebExtractor implementation
+// summary: Implements a RenderFrameObserver Mojo service that collects Open Graph meta tag properties from the current page document and returns them through ExtractMetaInfo.
+// ---
+
 #include "components/commerce/content/renderer/commerce_web_extractor.h"
 
 #include "base/strings/string_util.h"

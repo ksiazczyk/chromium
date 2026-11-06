@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for product detail page metrics
+// summary: Unit tests verifying that product detail page state metrics are recorded only when the shopping PDP metrics feature is enabled and the page is not incognito.
+// ---
+
 #include "base/command_line.h"
 #include "base/functional/bind.h"
 #include "base/test/metrics/histogram_tester.h"

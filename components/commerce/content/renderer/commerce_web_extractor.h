@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CommerceWebExtractor class declaration
+// summary: Declares the renderer-side commerce web extractor that observes a render frame and binds the CommerceWebExtractor Mojo interface.
+// ---
+
 #ifndef COMPONENTS_COMMERCE_CONTENT_RENDERER_COMMERCE_WEB_EXTRACTOR_H_
 #define COMPONENTS_COMMERCE_CONTENT_RENDERER_COMMERCE_WEB_EXTRACTOR_H_
 

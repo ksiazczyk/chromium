@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Price tracking proto
+// summary: Defines protobuf messages for price tracking, covering buyable product metadata, price summaries, price updates, product prices, reviews, and price drop payloads.
+// ---
+
 syntax = "proto2";
 
 package commerce;

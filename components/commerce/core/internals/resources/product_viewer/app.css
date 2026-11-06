@@ -9,6 +9,12 @@
  * #include=shared-style
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Product viewer app styles
+summary: Lit style definitions for the commerce product viewer web UI, covering page padding, the product URL input, and the product information table layout.
+*/
+
 body {
   padding: 20px;
 }

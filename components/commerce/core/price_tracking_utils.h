@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Price tracking utilities for bookmarks
+// summary: Declares utility functions for checking, setting and listing price-tracked product bookmarks, including cluster ID lookups and subscription change times.
+// ---
+
 #ifndef COMPONENTS_COMMERCE_CORE_PRICE_TRACKING_UTILS_H_
 #define COMPONENTS_COMMERCE_CORE_PRICE_TRACKING_UTILS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Commerce internals handler class declaration
+// summary: Declares the CommerceInternalsHandler class that bridges the commerce internals WebUI page to the ShoppingService over Mojo.
+// ---
+
 #ifndef COMPONENTS_COMMERCE_CORE_INTERNALS_COMMERCE_INTERNALS_HANDLER_H_
 #define COMPONENTS_COMMERCE_CORE_INTERNALS_COMMERCE_INTERNALS_HANDLER_H_
 

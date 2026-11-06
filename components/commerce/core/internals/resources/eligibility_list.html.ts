@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTML template for the eligibility list
+// summary: Lit HTML template showing a refresh button plus country, locale, and eligibility details with pass or fail marks.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {EligibilityListElement} from './eligibility_list.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BookmarkUpdateManager class declaration
+// summary: Declares the manager that schedules regular updates of product bookmarks via the shopping service's on-demand API.
+// ---
+
 #ifndef COMPONENTS_COMMERCE_CORE_BOOKMARK_UPDATE_MANAGER_H_
 #define COMPONENTS_COMMERCE_CORE_BOOKMARK_UPDATE_MANAGER_H_
 

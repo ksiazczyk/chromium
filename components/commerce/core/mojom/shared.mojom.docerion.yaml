@@ -1,0 +1,4 @@
+# Docerion header of shared.mojom.
+type: source
+title: Shared commerce Mojom structs
+summary: Defines the ProductInfo and BookmarkProductInfo structs shared by commerce Mojom interfaces to carry UI-focused product data.

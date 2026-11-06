@@ -1,0 +1,4 @@
+# Docerion header of commerce_tab_helper.mm.
+type: source
+title: CommerceTabHelper implementation
+summary: Forwards navigation, load, and visibility events from the iOS web state to the shopping service for commerce features.

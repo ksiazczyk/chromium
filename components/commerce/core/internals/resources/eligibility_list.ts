@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EligibilityListElement Lit element
+// summary: Custom element that fetches and displays shopping eligibility details, refreshing on demand and on eligibility change notifications.
+// ---
+
 import {CrLitElement} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {EligibilityDetail} from './commerce_internals.mojom-webui.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock account checker for commerce tests
+// summary: Defines a mock AccountChecker that fakes sign-in, sync, and preference state so commerce features can be exercised in tests.
+// ---
+
 #ifndef COMPONENTS_COMMERCE_CORE_MOCK_ACCOUNT_CHECKER_H_
 #define COMPONENTS_COMMERCE_CORE_MOCK_ACCOUNT_CHECKER_H_
 

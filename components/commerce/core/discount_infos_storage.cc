@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Discount infos storage implementation
+// summary: Implements saving, loading and deleting per-URL discount infos in session proto storage, filtering expired entries and reacting to history deletions.
+// ---
+
 #include "components/commerce/core/discount_infos_storage.h"
 
 #include <set>

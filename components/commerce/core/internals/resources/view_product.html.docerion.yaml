@@ -1,0 +1,4 @@
+# Docerion header of view_product.html.
+type: source
+title: Product URL Viewer page
+summary: HTML host page for the product URL viewer that mounts the product-viewer-app element and loads its module script.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Discount infos storage class declaration
+// summary: Declares DiscountInfosStorage, a history service observer that persists and loads discount infos per URL via session proto storage.
+// ---
+
 #ifndef COMPONENTS_COMMERCE_CORE_DISCOUNT_INFOS_STORAGE_H_
 #define COMPONENTS_COMMERCE_CORE_DISCOUNT_INFOS_STORAGE_H_
 

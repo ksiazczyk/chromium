@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Persisted state DB content proto
+// summary: Defines the PersistedStateContentProto message used for storing persisted state content with an original key and content data bytes.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

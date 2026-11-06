@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Open Graph meta tag extractor for shopping metadata
+// summary: JavaScript snippet that reads Open Graph meta tags from the current page and returns them as a JSON string for shopping metadata extraction.
+// ---
+
 (function() {
 const metaTags = document.getElementsByTagName('meta');
 const output = {};

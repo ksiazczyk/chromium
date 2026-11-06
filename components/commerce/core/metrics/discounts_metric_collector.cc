@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Discounts metric collector implementation
+// summary: Implements UMA histogram, user action and UKM recording for discount bubble and page action icon interactions.
+// ---
+
 #include "components/commerce/core/metrics/discounts_metric_collector.h"
 
 #include "base/metrics/histogram_functions.h"

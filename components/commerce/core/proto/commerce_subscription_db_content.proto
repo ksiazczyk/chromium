@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Commerce subscription database content protos
+// summary: Defines a protobuf message for storing commerce subscriptions such as price tracking, with subscription type, tracking ID type, and management type enums.
+// ---
+
 syntax = "proto3";
 
 option optimize_for = LITE_RUNTIME;

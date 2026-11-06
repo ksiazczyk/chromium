@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Coupon database content protos
+// summary: Defines protobuf messages for storing free-listing coupon details such as code, expiry, and display time for each merchant website.
+// ---
+
 syntax = "proto3";
 
 option optimize_for = LITE_RUNTIME;

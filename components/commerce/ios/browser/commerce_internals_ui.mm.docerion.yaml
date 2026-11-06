@@ -1,0 +1,4 @@
+# Docerion header of commerce_internals_ui.mm.
+type: source
+title: CommerceInternalsUI implementation
+summary: Sets up the iOS commerce internals page data source, resources, and Mojom interface binding for the WebUI.

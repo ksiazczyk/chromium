@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the commerce content browser
+summary: GN build file defining the browser static library and its unit test source set for the commerce content component.

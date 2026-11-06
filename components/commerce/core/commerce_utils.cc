@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Commerce utilities for converting optimization guide results to product info
+// summary: Implements conversion of optimization guide metadata into ProductInfo objects, including price tracking and price update data.
+// ---
+
 #include "components/commerce/core/commerce_utils.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CommerceInternalsAppElement Lit element
+// summary: Defines the root commerce-internals-app custom element that renders the page and resets the price tracking email preference via the API proxy.
+// ---
+
 import './eligibility_list.js';
 import './subscription_list.js';
 import './shared_style.css.js';

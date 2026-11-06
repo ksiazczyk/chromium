@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI commerce utility functions
+// summary: Implements WebUI helpers that convert shopping service product info into Mojo types and format price summaries for display.
+// ---
+
 #include "components/commerce/core/webui/webui_utils.h"
 
 #include "base/strings/string_number_conversions.h"

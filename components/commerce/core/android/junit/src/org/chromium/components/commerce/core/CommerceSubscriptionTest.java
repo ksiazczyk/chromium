@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CommerceSubscriptionTest
+// summary: Unit tests for CommerceSubscription covering equality and hashCode behavior across different subscription, identifier, and management types.
+// ---
+
 package org.chromium.components.commerce.core;
 
 import org.junit.Assert;

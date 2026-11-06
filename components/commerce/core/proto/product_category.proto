@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Product category proto
+// summary: Defines protobuf messages describing product category labels, category paths, and category data used for clustering commerce products.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

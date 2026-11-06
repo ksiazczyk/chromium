@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Commerce Internals Mojo API proxy
+// summary: Singleton proxy that creates the CommerceInternals Mojo handler and exposes calls for eligibility, subscriptions, product info, and preference reset.
+// ---
+
 import type {ProductInfo} from 'chrome://resources/cr_components/commerce/shared.mojom-webui.js';
 import type {Url} from 'chrome://resources/mojo/url/mojom/url.mojom-webui.js';
 

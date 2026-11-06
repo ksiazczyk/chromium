@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shopping service handler class declaration
+// summary: Declares the ShoppingServiceHandler that exposes shopping service features to WebUI via Mojo, with a delegate for platform-specific tab and bookmark actions.
+// ---
+
 #ifndef COMPONENTS_COMMERCE_CORE_WEBUI_SHOPPING_SERVICE_HANDLER_H_
 #define COMPONENTS_COMMERCE_CORE_WEBUI_SHOPPING_SERVICE_HANDLER_H_
 

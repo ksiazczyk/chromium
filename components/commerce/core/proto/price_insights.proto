@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Price insights proto
+// summary: Defines protobuf messages for product price insights, including price range, price history with dated price points, and a 90-day price bucket.
+// ---
+
 syntax = "proto2";
 
 package commerce;

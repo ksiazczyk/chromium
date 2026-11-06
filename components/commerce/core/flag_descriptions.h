@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declarations for commerce flag descriptions
+// summary: Declares extern constants holding the names and descriptions of commerce feature flags.
+// ---
+
 #ifndef COMPONENTS_COMMERCE_CORE_FLAG_DESCRIPTIONS_H_
 #define COMPONENTS_COMMERCE_CORE_FLAG_DESCRIPTIONS_H_
 

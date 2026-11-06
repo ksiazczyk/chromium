@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock account checker for commerce tests
+// summary: Provides a configurable gmock AccountChecker with permissive defaults and a testing pref service for use in commerce unit tests.
+// ---
+
 #include "components/commerce/core/mock_account_checker.h"
 
 #include "components/commerce/core/pref_names.h"

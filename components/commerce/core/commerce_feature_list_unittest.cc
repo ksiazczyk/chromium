@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Commerce feature list unit tests
+// summary: Unit tests verifying commerce feature heuristics, including partner merchant matching and discount fetch delay resolution from feature params and component data.
+// ---
+
 #include "components/commerce/core/commerce_feature_list.h"
 
 #include "base/test/scoped_feature_list.h"

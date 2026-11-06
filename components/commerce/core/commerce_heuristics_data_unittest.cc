@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Commerce heuristics data unit tests
+// summary: Unit tests validating parsing of hint and global heuristics JSON, version updates, and regex pattern lookups in CommerceHeuristicsData.
+// ---
+
 #include "components/commerce/core/commerce_heuristics_data.h"
 #include "base/strings/string_util.h"
 #include "testing/gtest/include/gtest/gtest.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AccountChecker unit tests
+// summary: Unit tests for AccountChecker covering sign-in, sync, and price email preference fetching with mock endpoint fetchers.
+// ---
+
 #include "components/commerce/core/account_checker.h"
 
 #include <queue>

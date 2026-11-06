@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Commerce core build targets (BUILD.gn)
+summary: GN build file defining source sets, proto libraries, and unit test targets for the commerce core component.

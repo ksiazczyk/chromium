@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Utilities for price tracking and subscriptions
+// summary: Implements helpers for price tracking that update shopping bookmark metadata and clean up dangling subscriptions after subscribe or unsubscribe events.
+// ---
+
 #include "components/commerce/core/price_tracking_utils.h"
 
 #include <memory>

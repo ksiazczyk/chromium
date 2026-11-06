@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Discounts over-the-wire protos
+// summary: Defines protobuf messages for over-the-wire communication of discount clusters and discount details such as descriptions, expiry, and offer IDs.
+// ---
+
 syntax = "proto2";
 
 package commerce;

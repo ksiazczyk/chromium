@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shopping service Android bridge header
+// summary: Declares the ShoppingServiceAndroid class, a JNI bridge exposing product info, merchant info, price insights, discounts and subscription management to Java.
+// ---
+
 #ifndef COMPONENTS_COMMERCE_CORE_ANDROID_SHOPPING_SERVICE_ANDROID_H_
 #define COMPONENTS_COMMERCE_CORE_ANDROID_SHOPPING_SERVICE_ANDROID_H_
 

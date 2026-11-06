@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for commerce feature eligibility checks
+// summary: Declares feature check functions for shopping list, price insights, subscriptions, price annotations, discounts and merchant viewer.
+// ---
+
 #ifndef COMPONENTS_COMMERCE_CORE_FEATURE_UTILS_H_
 #define COMPONENTS_COMMERCE_CORE_FEATURE_UTILS_H_
 

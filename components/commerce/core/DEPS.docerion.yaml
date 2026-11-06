@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Commerce core include rules (DEPS)
+summary: DEPS file listing the dependencies that source files in the commerce core directory are allowed to include.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Commerce metrics utility declarations and enums
+// summary: Declares shopping metrics enums and helper functions for recording PDP state and feature ineligibility metrics.
+// ---
+
 #ifndef COMPONENTS_COMMERCE_CORE_METRICS_METRICS_UTILS_H_
 #define COMPONENTS_COMMERCE_CORE_METRICS_METRICS_UTILS_H_
 

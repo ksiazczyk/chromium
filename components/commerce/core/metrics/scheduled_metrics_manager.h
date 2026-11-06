@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScheduledMetricsManager class declaration
+// summary: Declares the manager that schedules daily commerce metrics recording using prefs and the shopping service.
+// ---
+
 #ifndef COMPONENTS_COMMERCE_CORE_METRICS_SCHEDULED_METRICS_MANAGER_H_
 #define COMPONENTS_COMMERCE_CORE_METRICS_SCHEDULED_METRICS_MANAGER_H_
 

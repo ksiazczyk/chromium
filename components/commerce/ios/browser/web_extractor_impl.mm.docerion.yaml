@@ -1,0 +1,4 @@
+# Docerion header of web_extractor_impl.mm.
+type: source
+title: WebExtractorImpl implementation
+summary: Runs a JavaScript meta info query on the page and parses the JSON result for commerce features.

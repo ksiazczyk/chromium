@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Parcel tracking protos
+// summary: Defines protobuf messages for parcel identifiers and statuses, including a large carrier enumeration and delivery state values kept in sync with the server proto.
+// ---
+
 syntax = "proto3";
 
 option optimize_for = LITE_RUNTIME;

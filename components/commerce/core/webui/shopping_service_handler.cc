@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shopping service handler implementation
+// summary: Implements the ShoppingServiceHandler Mojo interface, converting product and price insights data into Mojo types for commerce WebUI pages.
+// ---
+
 #include "components/commerce/core/webui/shopping_service_handler.h"
 
 #include <memory>

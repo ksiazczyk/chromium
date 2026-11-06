@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SubscriptionsManager class and request status declarations
+// summary: Declares the SubscriptionsManager class, its request status enum, and callbacks for managing subscriptions via server proxy and storage backends.
+// ---
+
 #ifndef COMPONENTS_COMMERCE_CORE_SUBSCRIPTIONS_SUBSCRIPTIONS_MANAGER_H_
 #define COMPONENTS_COMMERCE_CORE_SUBSCRIPTIONS_SUBSCRIPTIONS_MANAGER_H_
 

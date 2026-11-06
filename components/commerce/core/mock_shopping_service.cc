@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock shopping service implementation
+// summary: Implements MockShoppingService, a configurable mock of ShoppingService that lets tests set canned responses for product info, subscriptions, and price tracking.
+// ---
+
 #include "components/commerce/core/mock_shopping_service.h"
 
 #include "base/functional/callback.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Merchant signal database content protos
+// summary: Defines a protobuf message for storing merchant trust signal events, keyed by hostname with a timestamp of when the signals were displayed.
+// ---
+
 syntax = "proto3";
 
 option optimize_for = LITE_RUNTIME;

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Commerce core Android build targets
+summary: GN build file defining JNI generation, the core Java library, Java enum srcjars and Robolectric tests for the commerce core Android component.

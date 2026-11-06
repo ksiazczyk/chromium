@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Subscription list element
+// summary: Lit custom element that fetches subscription details via the commerce internals API proxy and displays them in a list.
+// ---
+
 import {CrLitElement} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {Subscription} from './commerce_internals.mojom-webui.js';

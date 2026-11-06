@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for commerce content component
+summary: Defines the allowed include dependencies for the commerce content component, granting access to grit, optimization guide, prefs, content public, Mojo bindings, net/http, service manager, and UI headers.
