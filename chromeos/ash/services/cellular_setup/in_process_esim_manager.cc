@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-process eSIM manager binding
+// summary: Binds incoming ESimManager Mojo receivers to a process-wide singleton ESimManager instance.
+// ---
+
 #include "chromeos/ash/services/cellular_setup/in_process_esim_manager.h"
 
 #include "base/no_destructor.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeDevicePairingHandler implementation
+// summary: Implements a fake DevicePairingHandler with simulation methods that drive pairing flows such as PIN code and passkey exchanges in tests.
+// ---
+
 #include "chromeos/ash/services/bluetooth_config/fake_device_pairing_handler.h"
 
 #include "base/run_loop.h"

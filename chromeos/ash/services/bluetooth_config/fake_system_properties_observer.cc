@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeSystemPropertiesObserver implementation
+// summary: Implements a fake SystemPropertiesObserver that records received Bluetooth system property updates for tests.
+// ---
+
 #include "chromeos/ash/services/bluetooth_config/fake_system_properties_observer.h"
 
 #include <utility>

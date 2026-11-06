@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RecoveryFactorEditor mojo service implementation
+// summary: Implements the RecoveryFactorEditor mojo service to enable or disable the cryptohome recovery factor after checking editability and handling expired auth sessions.
+// ---
+
 #include "chromeos/ash/services/auth_factor_config/recovery_factor_editor.h"
 
 #include "ash/constants/ash_features.h"

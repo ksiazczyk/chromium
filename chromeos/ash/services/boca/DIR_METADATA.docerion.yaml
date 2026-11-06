@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA
+summary: Directory metadata assigning buganizer component 1503192 and the cros-edu-eng team email to the boca service.

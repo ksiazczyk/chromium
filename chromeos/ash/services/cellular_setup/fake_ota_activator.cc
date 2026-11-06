@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake OTA activator implementation
+// summary: Implements FakeOtaActivator, a test double that forwards carrier portal status changes to a FakeCarrierPortalHandler.
+// ---
+
 #include "chromeos/ash/services/cellular_setup/fake_ota_activator.h"
 
 #include <utility>

@@ -1,0 +1,4 @@
+# Docerion header of union-generator.cc.j2.
+type: source
+title: Union data generator implementation template
+summary: Jinja2 template that generates the C++ implementation of a data generator that iterates over mojo union fields to produce test values.

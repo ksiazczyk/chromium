@@ -1,0 +1,4 @@
+# Docerion header of test-consumer.cc.j2.
+type: source
+title: Test consumer implementation template
+summary: Jinja2 template that implements a test consumer binding a Mojo remote, invoking methods and verifying interface behaviour in staged callbacks.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Callback helper implementations for connectivity tests
+// summary: Implements the RunOrReturn and RunSuccessOrFailed helpers that branch asynchronous callback flows based on a boolean result.
+// ---
+
 #include "chromeos/ash/services/cros_healthd/testing/bindings/utils.h"
 
 #include <utility>

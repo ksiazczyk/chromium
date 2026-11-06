@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PinFactorEditor mojo service implementation
+// summary: Implements the PinFactorEditor mojo service for setting, updating, and removing PINs, querying the configured PIN factor, and checking PIN complexity against policy.
+// ---
+
 #include "chromeos/ash/services/auth_factor_config/pin_factor_editor.h"
 
 #include "ash/constants/ash_features.h"

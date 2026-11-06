@@ -1,0 +1,4 @@
+# Docerion header of test-consumer.h.j2.
+type: source
+title: Test consumer header template
+summary: Jinja2 template that declares a test consumer class generating Mojo receivers and checking interface behaviour via staged callbacks.

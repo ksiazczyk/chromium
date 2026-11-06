@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DeviceOperationHandlerImpl unit tests
+// summary: Unit tests for DeviceOperationHandlerImpl verifying queued connect, disconnect, and forget operations, timeouts, and reconnection histogram metrics.
+// ---
+
 #include "chromeos/ash/services/bluetooth_config/device_operation_handler_impl.h"
 
 #include "base/strings/strcat.h"

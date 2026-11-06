@@ -1,0 +1,4 @@
+# Docerion header of cros_healthd_private_policy.json.
+type: config
+title: Mojo service manager policy for cros_healthd private service
+summary: JSON policy declaring that ash chrome owns the ChromiumCrosHealthdDataCollector service and cros_healthd may request it.

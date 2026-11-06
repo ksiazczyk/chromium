@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrosBluetoothConfig service implementation
+// summary: Implements the CrosBluetoothConfig Mojo service, wiring together adapter state, power control, device cache, discovery and device operation components.
+// ---
+
 #include "chromeos/ash/services/bluetooth_config/cros_bluetooth_config.h"
 
 #include "chromeos/ash/services/bluetooth_config/bluetooth_device_status_notifier_impl.h"

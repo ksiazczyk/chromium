@@ -1,0 +1,4 @@
+# Docerion header of method-macro.cc.j2.
+type: source
+title: Method macro library template
+summary: Jinja2 macro library mapping Mojo parameter kinds to C++ generator and checker types and declaring or defining them for generated methods.

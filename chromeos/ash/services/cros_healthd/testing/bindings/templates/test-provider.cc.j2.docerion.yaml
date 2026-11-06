@@ -1,0 +1,4 @@
+# Docerion header of test-provider.cc.j2.
+type: source
+title: Test provider implementation template
+summary: Jinja2 template that generates the C++ implementation of a mojo interface test provider, with staged method callbacks, receiver binding and data checkers.

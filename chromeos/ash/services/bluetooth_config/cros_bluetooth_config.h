@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrosBluetoothConfig service header
+// summary: Declares CrosBluetoothConfig, the mojo API entry point supporting Bluetooth system UI on Chrome OS, which instantiates helper classes and delegates API calls to them.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_BLUETOOTH_CONFIG_CROS_BLUETOOTH_CONFIG_H_
 #define CHROMEOS_ASH_SERVICES_BLUETOOTH_CONFIG_CROS_BLUETOOTH_CONFIG_H_
 

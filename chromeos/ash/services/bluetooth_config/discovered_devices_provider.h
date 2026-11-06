@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DiscoveredDevicesProvider class declaration
+// summary: Declares the interface that provides clients with the list of unpaired devices found during a Bluetooth discovery session, with observer support.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_BLUETOOTH_CONFIG_DISCOVERED_DEVICES_PROVIDER_H_
 #define CHROMEOS_ASH_SERVICES_BLUETOOTH_CONFIG_DISCOVERED_DEVICES_PROVIDER_H_
 

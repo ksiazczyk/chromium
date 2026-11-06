@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceNameManagerImpl header
+// summary: Declares the concrete DeviceNameManager implementation that stores Bluetooth device nicknames in prefs and migrates BlueZ IDs to the Floss format.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_BLUETOOTH_CONFIG_DEVICE_NAME_MANAGER_IMPL_H_
 #define CHROMEOS_ASH_SERVICES_BLUETOOTH_CONFIG_DEVICE_NAME_MANAGER_IMPL_H_
 

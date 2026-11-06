@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for settings_ui
+summary: Allows dependencies on ash/webui/settings/public/constants from this directory.

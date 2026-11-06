@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrosSafetyService implementation
+// summary: Implements CrosSafetyService, registering with the mojo service manager and creating on-device and cloud safety sessions for ChromeOS features.
+// ---
+
 #include "chromeos/ash/services/cros_safety/cros_safety_service.h"
 
 #include "base/memory/singleton.h"

@@ -1,0 +1,4 @@
+# Docerion header of struct-generator.h.j2.
+type: source
+title: Struct data generator header template
+summary: Jinja2 template that declares a DataGeneratorInterface subclass producing instances of a Mojo struct.

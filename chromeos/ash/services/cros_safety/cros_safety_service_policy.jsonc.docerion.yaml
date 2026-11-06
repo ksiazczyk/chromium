@@ -1,0 +1,4 @@
+# Docerion header of cros_safety_service_policy.jsonc.
+type: config
+title: Mojo service manager policy for CrosSafetyService
+summary: Policy granting the ash-chrome SELinux context ownership of CrosSafetyService and request access to cros_odml_service and cros_ssh_session.

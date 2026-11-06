@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeDiscoverySessionStatusObserver implementation
+// summary: Implements a fake DiscoverySessionStatusObserver that records discovery session change notifications and supports Mojo pipe disconnection for tests.
+// ---
+
 #include "chromeos/ash/services/bluetooth_config/fake_discovery_session_status_observer.h"
 
 #include <utility>

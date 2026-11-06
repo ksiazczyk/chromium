@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-process singleton instances for factor editors
+// summary: Creates and binds in-process singleton instances of the auth factor config and the recovery, PIN and password factor editors.
+// ---
+
 #include "chromeos/ash/services/auth_factor_config/in_process_instances.h"
 
 #include <utility>

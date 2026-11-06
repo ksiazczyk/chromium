@@ -1,0 +1,4 @@
+# Docerion header of enum-generator.cc.j2.
+type: source
+title: Enum data generator implementation template
+summary: Jinja2 template that implements a data generator cycling through the values of a Mojo enum and reporting when values remain.

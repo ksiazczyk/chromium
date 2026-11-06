@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TachyonParsingService class header
+// summary: Declares the TachyonParsingService Mojo service that parses stream data into BabelOrca messages via ProtoHttpStreamParser.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_BOCA_BABELORCA_CPP_TACHYON_PARSING_SERVICE_H_
 #define CHROMEOS_ASH_SERVICES_BOCA_BABELORCA_CPP_TACHYON_PARSING_SERVICE_H_
 

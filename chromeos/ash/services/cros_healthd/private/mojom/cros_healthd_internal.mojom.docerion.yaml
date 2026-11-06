@@ -1,0 +1,4 @@
+# Docerion header of cros_healthd_internal.mojom.
+type: source
+title: Internal cros_healthd Mojom API
+summary: Defines the stable internal Mojo API Chrome exposes to cros_healthd, covering touchscreen, touchpad, privacy screen and audio mute data.

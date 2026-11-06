@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Assistant service directory metadata
+summary: DIR_METADATA file that inherits the common metadata of the ChromeOS assistant component via a mixin.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the concrete Initializer implementation
+// summary: Declares InitializerImpl, the concrete Initializer that creates production implementations of the classes used by CrosBluetoothConfig.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_BLUETOOTH_CONFIG_INITIALIZER_IMPL_H_
 #define CHROMEOS_ASH_SERVICES_BLUETOOTH_CONFIG_INITIALIZER_IMPL_H_
 

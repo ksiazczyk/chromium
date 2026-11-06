@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the cellular setup directory
+summary: Specifies allowed include directories for the cellular setup code, with extra include permissions granted only to test files.

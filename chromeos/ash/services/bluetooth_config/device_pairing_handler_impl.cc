@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevicePairingHandlerImpl implementation
+// summary: Implements the concrete pairing handler that fetches devices from the Bluetooth adapter, initiates connections, and acts as the device's pairing delegate.
+// ---
+
 #include "chromeos/ash/services/bluetooth_config/device_pairing_handler_impl.h"
 
 #include "base/strings/string_number_conversions.h"

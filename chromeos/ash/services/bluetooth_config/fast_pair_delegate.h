@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FastPairDelegate interface header
+// summary: Defines the abstract FastPairDelegate interface that connects the bluetooth_config service to the Fast Pair system for device images, nicknames, and forgetting devices.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_BLUETOOTH_CONFIG_FAST_PAIR_DELEGATE_H_
 #define CHROMEOS_ASH_SERVICES_BLUETOOTH_CONFIG_FAST_PAIR_DELEGATE_H_
 

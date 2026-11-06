@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AdapterStateControllerImpl implementation
+// summary: Implements adapter state handling on top of BluetoothAdapter, including queued and in-progress power state changes and logging.
+// ---
+
 #include "chromeos/ash/services/bluetooth_config/adapter_state_controller_impl.h"
 
 #include "base/functional/bind.h"

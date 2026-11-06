@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote state interface for connectivity tests
+// summary: Declares the RemoteState interface used by TestConsumer to read remote last-call state and handle disconnects during connectivity tests.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_CROS_HEALTHD_TESTING_BINDINGS_REMOTE_STATE_H_
 #define CHROMEOS_ASH_SERVICES_CROS_HEALTHD_TESTING_BINDINGS_REMOTE_STATE_H_
 

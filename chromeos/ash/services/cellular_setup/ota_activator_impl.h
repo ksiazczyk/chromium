@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OTA activator implementation header
+// summary: Declares OtaActivatorImpl, the concrete OtaActivator that activates a SIM by finding a valid SIM, connecting to an eligible cellular network, awaiting carrier payment, and completing activation via Shill.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_CELLULAR_SETUP_OTA_ACTIVATOR_IMPL_H_
 #define CHROMEOS_ASH_SERVICES_CELLULAR_SETUP_OTA_ACTIVATOR_IMPL_H_
 

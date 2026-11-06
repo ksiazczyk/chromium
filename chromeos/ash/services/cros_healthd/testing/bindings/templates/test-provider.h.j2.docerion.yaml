@@ -1,0 +1,4 @@
+# Docerion header of test-provider.h.j2.
+type: source
+title: Test provider header template
+summary: Jinja2 template that generates the header declaring a mojo interface test provider class with an inner service proxy and per-method data checkers and generators.

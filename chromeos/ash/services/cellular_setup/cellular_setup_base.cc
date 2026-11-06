@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CellularSetupBase implementation
+// summary: Implements CellularSetupBase, binding incoming mojo receivers for the mojom::CellularSetup interface to the service instance.
+// ---
+
 #include "chromeos/ash/services/cellular_setup/cellular_setup_base.h"
 
 namespace ash::cellular_setup {

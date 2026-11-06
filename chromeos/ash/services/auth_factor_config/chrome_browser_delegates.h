@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Delegate interfaces for quick unlock and PIN backend
+// summary: Declares QuickUnlockStorageDelegate and PinBackendDelegate interfaces that abstract Chrome browser dependencies for the service.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_AUTH_FACTOR_CONFIG_CHROME_BROWSER_DELEGATES_H_
 #define CHROMEOS_ASH_SERVICES_AUTH_FACTOR_CONFIG_CHROME_BROWSER_DELEGATES_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake adapter state controller declaration
+// summary: Declares FakeAdapterStateController, a fake AdapterStateController used to simulate adapter states in tests.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_BLUETOOTH_CONFIG_FAKE_ADAPTER_STATE_CONTROLLER_H_
 #define CHROMEOS_ASH_SERVICES_BLUETOOTH_CONFIG_FAKE_ADAPTER_STATE_CONTROLLER_H_
 

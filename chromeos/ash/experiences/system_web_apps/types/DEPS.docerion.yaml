@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for system web apps types
+summary: Specifies the allowed include rules for the types directory, permitting the system web app type header and tabs components.

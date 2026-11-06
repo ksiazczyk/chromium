@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-process instance management for CrosBluetoothConfig
+// summary: Manages the global in-process CrosBluetoothConfig instance, handling initialization, shutdown, pending preferences, and binding of Mojo receivers.
+// ---
+
 #include "chromeos/ash/services/bluetooth_config/in_process_instance.h"
 
 #include <optional>

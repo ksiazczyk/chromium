@@ -1,0 +1,4 @@
+# Docerion header of connectivity.cc.j2.
+type: source
+title: Connectivity implementation template
+summary: Jinja2 template that generates the connectivity implementation file, including test providers, consumers and data generators for a Mojo module.

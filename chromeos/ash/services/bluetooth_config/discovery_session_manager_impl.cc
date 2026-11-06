@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothAdapter-backed discovery session manager implementation
+// summary: Implements DiscoverySessionManagerImpl, which starts and stops Bluetooth discovery sessions via BluetoothAdapter and creates device pairing handlers for discovery clients.
+// ---
+
 #include "chromeos/ash/services/bluetooth_config/discovery_session_manager_impl.h"
 
 #include "base/feature_list.h"

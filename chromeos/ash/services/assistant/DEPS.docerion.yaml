@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Assistant service dependency rules
+summary: DEPS file listing the directories that code in the assistant service is allowed to include from.

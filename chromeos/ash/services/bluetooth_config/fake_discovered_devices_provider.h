@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeDiscoveredDevicesProvider
+// summary: Declares a fake DiscoveredDevicesProvider that keeps a settable list of discovered devices for tests.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_BLUETOOTH_CONFIG_FAKE_DISCOVERED_DEVICES_PROVIDER_H_
 #define CHROMEOS_ASH_SERVICES_BLUETOOTH_CONFIG_FAKE_DISCOVERED_DEVICES_PROVIDER_H_
 

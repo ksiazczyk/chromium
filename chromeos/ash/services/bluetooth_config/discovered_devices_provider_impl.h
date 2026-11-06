@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DiscoveredDevicesProviderImpl class declaration
+// summary: Declares the concrete DiscoveredDevicesProvider that observes DeviceCache and batches discovered device list notifications behind a delay timer.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_BLUETOOTH_CONFIG_DISCOVERED_DEVICES_PROVIDER_IMPL_H_
 #define CHROMEOS_ASH_SERVICES_BLUETOOTH_CONFIG_DISCOVERED_DEVICES_PROVIDER_IMPL_H_
 

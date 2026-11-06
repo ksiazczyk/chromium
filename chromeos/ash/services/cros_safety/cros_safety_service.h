@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrosSafetyService class header
+// summary: Declares CrosSafetyService, the entry point for trust and safety filtering for ChromeOS on-device features.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_CROS_SAFETY_CROS_SAFETY_SERVICE_H_
 #define CHROMEOS_ASH_SERVICES_CROS_SAFETY_CROS_SAFETY_SERVICE_H_
 

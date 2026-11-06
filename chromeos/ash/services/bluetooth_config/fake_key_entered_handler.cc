@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeKeyEnteredHandler implementation
+// summary: Implements a fake KeyEnteredHandler that records the number of keys entered and manages its Mojo receiver connection for tests.
+// ---
+
 #include "chromeos/ash/services/bluetooth_config/fake_key_entered_handler.h"
 
 #include "base/functional/bind.h"

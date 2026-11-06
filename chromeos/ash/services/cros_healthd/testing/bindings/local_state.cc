@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local state implementation for connectivity tests
+// summary: Implements LocalState over a Mojo State receiver, tracking LastCallHasNext and stacking last-call callbacks for recursive interface checking.
+// ---
+
 #include "chromeos/ash/services/cros_healthd/testing/bindings/local_state.h"
 
 #include <utility>

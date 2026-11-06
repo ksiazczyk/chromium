@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the CellularSetup mojo service
+// summary: Unit tests exercising the CellularSetup mojo service end to end with fake activation delegates and carrier portal handlers, checking activation flow and metadata handling.
+// ---
+
 #include <memory>
 #include <optional>
 #include <utility>

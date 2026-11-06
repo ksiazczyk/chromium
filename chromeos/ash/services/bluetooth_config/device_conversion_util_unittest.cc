@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device conversion utility unit tests
+// summary: Unit tests for GenerateBluetoothDeviceMojoProperties verifying device type, audio capability, images, and property conversion using mock Bluetooth devices.
+// ---
+
 #include "chromeos/ash/services/bluetooth_config/device_conversion_util.h"
 
 #include <memory>

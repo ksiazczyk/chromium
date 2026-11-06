@@ -1,0 +1,4 @@
+# Docerion header of connectivity.h.j2.
+type: source
+title: Connectivity header template
+summary: Jinja2 template that generates the connectivity header, including provider, consumer and generator sub-templates for a Mojo module.

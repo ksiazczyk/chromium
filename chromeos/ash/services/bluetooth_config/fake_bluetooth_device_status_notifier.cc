@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake Bluetooth device status notifier implementation
+// summary: Implements FakeBluetoothDeviceStatusNotifier, a test double that emits newly paired, connected, and disconnected device notifications for tests.
+// ---
+
 #include "chromeos/ash/services/bluetooth_config/fake_bluetooth_device_status_notifier.h"
 
 namespace ash::bluetooth_config {

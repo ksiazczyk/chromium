@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build file for the settings_ui component
+summary: Defines the settings_ui component with its sources and dependencies and asserts it is only built for ChromeOS.

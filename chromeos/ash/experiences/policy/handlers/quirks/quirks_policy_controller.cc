@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quirks policy controller implementation
+// summary: Implements QuirksPolicyController, which syncs the DeviceQuirksDownloadEnabled device setting to enable or disable QuirksManager.
+// ---
+
 #include "chromeos/ash/experiences/policy/handlers/quirks/quirks_policy_controller.h"
 
 #include "base/check_deref.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake OTA activator declaration
+// summary: Declares FakeOtaActivator, a test OtaActivator implementation that records carrier portal status updates for verification in tests.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_CELLULAR_SETUP_FAKE_OTA_ACTIVATOR_H_
 #define CHROMEOS_ASH_SERVICES_CELLULAR_SETUP_FAKE_OTA_ACTIVATOR_H_
 

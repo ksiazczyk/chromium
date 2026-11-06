@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeDeviceNameManager implementation
+// summary: Implements a fake device name manager that stores and removes device nicknames and notifies observers of changes.
+// ---
+
 #include "chromeos/ash/services/bluetooth_config/fake_device_name_manager.h"
 
 namespace ash::bluetooth_config {

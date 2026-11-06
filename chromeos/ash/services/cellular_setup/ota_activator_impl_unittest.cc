@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OTA activator unit tests
+// summary: Unit tests for OtaActivatorImpl covering SIM detection, cellular connections, carrier payment, and activation using fake network handlers and Shill test interfaces.
+// ---
+
 #include "chromeos/ash/services/cellular_setup/ota_activator_impl.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build file for the screenshot_area library
+summary: Defines the screenshot_area static library, listing its sources and public dependencies on base and ui/gfx/geometry for ChromeOS builds.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ESimManager implementation
+// summary: Implements the eSIM manager service that tracks available eUICCs and profiles, observes Hermes and network handler events, and selects the SM-DS server for profile scans.
+// ---
+
 #include "chromeos/ash/services/cellular_setup/esim_manager.h"
 
 #include <sstream>

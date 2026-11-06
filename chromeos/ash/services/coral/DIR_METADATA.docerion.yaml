@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Coral service DIR_METADATA
+summary: Metadata file assigning the coral service directory to Buganizer component 1445284 for issue tracking.

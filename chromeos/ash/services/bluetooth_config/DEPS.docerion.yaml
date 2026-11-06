@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for bluetooth_config
+summary: Specifies allowed include paths for the directory, with extra rules applying only to test files.

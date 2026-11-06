@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Euicc implementation
+// summary: Implements the Euicc Mojo interface for eUICC hardware, handling profile installation from activation codes, profile list updates, metrics, and EID QR code generation.
+// ---
+
 #include "chromeos/ash/services/cellular_setup/euicc.h"
 
 #include <cstdint>

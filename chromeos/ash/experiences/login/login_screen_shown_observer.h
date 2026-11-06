@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoginScreenShownObserver header
+// summary: Declares an abstract CheckedObserver interface with an OnLoginScreenShown callback for observing when the login screen is shown.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_LOGIN_LOGIN_SCREEN_SHOWN_OBSERVER_H_
 #define CHROMEOS_ASH_EXPERIENCES_LOGIN_LOGIN_SCREEN_SHOWN_OBSERVER_H_
 

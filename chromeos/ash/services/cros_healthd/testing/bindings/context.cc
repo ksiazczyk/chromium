@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Context implementation for connectivity test bindings
+// summary: Implements the Context class that owns the LocalState and RemoteState objects used by connectivity test objects.
+// ---
+
 #include "chromeos/ash/services/cros_healthd/testing/bindings/context.h"
 
 #include <utility>

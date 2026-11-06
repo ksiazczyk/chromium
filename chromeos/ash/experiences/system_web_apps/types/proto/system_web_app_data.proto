@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System Web App data protobuf definition
+// summary: Defines the SystemWebAppDataProto message and SystemWebAppType enum listing ChromeOS System Web App types such as Settings, Camera, Terminal, and Recorder.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

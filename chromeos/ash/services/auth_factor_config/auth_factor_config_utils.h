@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auth factor config utility helpers and macros
+// summary: Declares utility callbacks, invalid-token failure helpers and the ObtainContextOrFail macro for borrowing authenticated user contexts.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_AUTH_FACTOR_CONFIG_AUTH_FACTOR_CONFIG_UTILS_H_
 #define CHROMEOS_ASH_SERVICES_AUTH_FACTOR_CONFIG_AUTH_FACTOR_CONFIG_UTILS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Concrete Initializer implementation for CrosBluetoothConfig
+// summary: Implements Initializer by constructing the production adapter state, power, device cache, and related implementation classes for CrosBluetoothConfig.
+// ---
+
 #include "chromeos/ash/services/bluetooth_config/initializer_impl.h"
 
 #include "chromeos/ash/services/bluetooth_config/adapter_state_controller_impl.h"

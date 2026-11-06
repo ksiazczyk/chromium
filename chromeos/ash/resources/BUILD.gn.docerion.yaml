@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Ash resources BUILD.gn grit build definition
+summary: Defines the grit target that bundles Ash sounds and images into ash_resources.pak, with brand-specific inputs, generated headers, and mojom dependencies.

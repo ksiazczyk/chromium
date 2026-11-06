@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Discovery session status notifier implementation
+// summary: Implements DiscoverySessionStatusNotifier, which notifies observers when the existence of at least one Bluetooth discovery session changes.
+// ---
+
 #include "chromeos/ash/services/bluetooth_config/discovery_session_status_notifier.h"
 #include "chromeos/ash/services/bluetooth_config/public/cpp/cros_bluetooth_config_util.h"
 #include "components/device_event_log/device_event_log.h"

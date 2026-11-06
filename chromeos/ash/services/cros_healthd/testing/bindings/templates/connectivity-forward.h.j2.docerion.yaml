@@ -1,0 +1,4 @@
+# Docerion header of connectivity-forward.h.j2.
+type: source
+title: Connectivity forward declarations template
+summary: Jinja2 template that generates a header with forward declarations of the test provider, consumer and data generator classes for a Mojo module.

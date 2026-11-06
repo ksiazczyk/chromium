@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth power controller implementation header
+// summary: Declares BluetoothPowerControllerImpl, which persists and applies the Bluetooth power state via prefs and observes adapter state changes.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_BLUETOOTH_CONFIG_BLUETOOTH_POWER_CONTROLLER_IMPL_H_
 #define CHROMEOS_ASH_SERVICES_BLUETOOTH_CONFIG_BLUETOOTH_POWER_CONTROLLER_IMPL_H_
 

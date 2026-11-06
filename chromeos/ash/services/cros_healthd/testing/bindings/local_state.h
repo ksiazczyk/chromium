@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local state interface for connectivity tests
+// summary: Declares the LocalState interface used by TestProvider to set the LastCallHasNext state and fulfill remote last-call callbacks.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_CROS_HEALTHD_TESTING_BINDINGS_LOCAL_STATE_H_
 #define CHROMEOS_ASH_SERVICES_CROS_HEALTHD_TESTING_BINDINGS_LOCAL_STATE_H_
 

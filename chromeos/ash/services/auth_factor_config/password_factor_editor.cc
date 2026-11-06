@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordFactorEditor mojo service implementation
+// summary: Implements the PasswordFactorEditor mojo service, including setting and updating local and online passwords, removing passwords, and checking local password complexity against policy.
+// ---
+
 #include "chromeos/ash/services/auth_factor_config/password_factor_editor.h"
 
 #include <optional>

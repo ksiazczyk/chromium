@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for auth_factor_config
+summary: Lists the owners responsible for the auth_factor_config directory and references the login lock owners file.

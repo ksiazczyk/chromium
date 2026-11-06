@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Concrete system properties provider implementation
+// summary: Computes Bluetooth system state, session-based modification permissions, and paired devices for the system properties provider.
+// ---
+
 #include "chromeos/ash/services/bluetooth_config/system_properties_provider_impl.h"
 
 #include "base/logging.h"

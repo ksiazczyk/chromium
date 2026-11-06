@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ESimProfile class declaration
+// summary: Declares ESimProfile, the mojom::ESimProfile implementation representing an eSIM profile installed on an EUICC.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_CELLULAR_SETUP_ESIM_PROFILE_H_
 #define CHROMEOS_ASH_SERVICES_CELLULAR_SETUP_ESIM_PROFILE_H_
 

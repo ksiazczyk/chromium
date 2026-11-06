@@ -1,3 +1,13 @@
+---
+type: readme
+title: CrosBluetoothConfig design and API documentation
+summary: Describes the CrosBluetoothConfig Mojo API, the ChromeOS Bluetooth stack, its UI clients, and the implementation classes behind the service.
+relations:
+  - documents /chromeos/ash/services/bluetooth_config/public/mojom/cros_bluetooth_config.mojom
+  - references /mojo/README.md
+  - references /device/bluetooth/README.md
+---
+
 # CrosBluetoothConfig
 
 [`CrosBluetoothConfig`](https://source.chromium.org/chromium/chromium/src/+/main:chromeos/ash/services/bluetooth_config/public/mojom/cros_bluetooth_config.mojom;drc=321047b607bc69f5d6dce6e47319d0c198d0616e)

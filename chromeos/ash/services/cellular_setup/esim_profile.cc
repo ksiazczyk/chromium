@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ESimProfile implementation
+// summary: Implements mojom::ESimProfile, handling profile install, uninstall, nickname changes, property updates, and download latency metrics.
+// ---
+
 #include "chromeos/ash/services/cellular_setup/esim_profile.h"
 
 #include <algorithm>

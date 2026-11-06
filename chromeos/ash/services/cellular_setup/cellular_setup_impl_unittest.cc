@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for CellularSetupImpl
+// summary: Unit tests that verify StartActivation creates OtaActivator instances, using a fake factory and fake activation delegate to observe carrier portal handler results.
+// ---
+
 #include "chromeos/ash/services/cellular_setup/cellular_setup_impl.h"
 
 #include <memory>

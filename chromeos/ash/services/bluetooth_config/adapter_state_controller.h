@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AdapterStateController interface header
+// summary: Declares the interface that reads and changes Bluetooth adapter state and supports observers, without persisting state to prefs.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_BLUETOOTH_CONFIG_ADAPTER_STATE_CONTROLLER_H_
 #define CHROMEOS_ASH_SERVICES_BLUETOOTH_CONFIG_ADAPTER_STATE_CONTROLLER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for cros_healthd private cpp
+summary: Defines the cpp source set, unit test target, and copy step for the mojo service manager policy of the cros_healthd private C++ code.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RecoveryFactorEditor mojo service header
+// summary: Declares the RecoveryFactorEditor class implementing the mojom::RecoveryFactorEditor interface for configuring the recovery auth factor.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_AUTH_FACTOR_CONFIG_RECOVERY_FACTOR_EDITOR_H_
 #define CHROMEOS_ASH_SERVICES_AUTH_FACTOR_CONFIG_RECOVERY_FACTOR_EDITOR_H_
 

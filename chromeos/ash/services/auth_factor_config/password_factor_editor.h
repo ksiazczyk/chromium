@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordFactorEditor mojo service header
+// summary: Declares the PasswordFactorEditor class implementing the mojom::PasswordFactorEditor interface for setting, updating, removing, and checking passwords.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_AUTH_FACTOR_CONFIG_PASSWORD_FACTOR_EDITOR_H_
 #define CHROMEOS_ASH_SERVICES_AUTH_FACTOR_CONFIG_PASSWORD_FACTOR_EDITOR_H_
 

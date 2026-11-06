@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA
+summary: Sets the Buganizer component ID (982097) used for issue tracking of the cros_healthd directory.

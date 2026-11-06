@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ESimManager unit tests
+// summary: Unit tests verifying ESimManager behavior, including available EUICC listing and euicc, profile list, and profile change notifications.
+// ---
+
 #include "chromeos/ash/services/cellular_setup/esim_manager.h"
 
 #include "chromeos/ash/components/dbus/hermes/hermes_clients.h"

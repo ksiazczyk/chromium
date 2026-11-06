@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemWebAppBackgroundTaskInfo struct header
+// summary: Declares a struct that configures periodic background tasks for a System Web App, covering period, background URL, and login-time opening.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_SYSTEM_WEB_APPS_TYPES_SYSTEM_WEB_APP_BACKGROUND_TASK_INFO_H_
 #define CHROMEOS_ASH_EXPERIENCES_SYSTEM_WEB_APPS_TYPES_SYSTEM_WEB_APP_BACKGROUND_TASK_INFO_H_
 

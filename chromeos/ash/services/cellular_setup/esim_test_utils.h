@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: eSIM test utilities
+// summary: Declares test helpers that call Mojo methods on Euicc and ESimProfile remotes and wait for the results, for use in eSIM unit tests.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_CELLULAR_SETUP_ESIM_TEST_UTILS_H_
 #define CHROMEOS_ASH_SERVICES_CELLULAR_SETUP_ESIM_TEST_UTILS_H_
 

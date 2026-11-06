@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CellularSetupImpl implementation
+// summary: Implements the concrete CellularSetup service, creating an OtaActivator instance per StartActivation request and tracking them by request ID.
+// ---
+
 #include "chromeos/ash/services/cellular_setup/cellular_setup_impl.h"
 
 #include <utility>

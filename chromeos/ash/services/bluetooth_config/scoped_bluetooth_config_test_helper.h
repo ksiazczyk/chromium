@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped Bluetooth config test helper declarations
+// summary: Declares ScopedBluetoothConfigTestHelper, which installs fake CrosBluetoothConfig dependencies for tests and provides access to each fake.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_BLUETOOTH_CONFIG_SCOPED_BLUETOOTH_CONFIG_TEST_HELPER_H_
 #define CHROMEOS_ASH_SERVICES_BLUETOOTH_CONFIG_SCOPED_BLUETOOTH_CONFIG_TEST_HELPER_H_
 

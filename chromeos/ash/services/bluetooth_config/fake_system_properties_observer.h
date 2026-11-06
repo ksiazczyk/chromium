@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeSystemPropertiesObserver header
+// summary: Declares a fake SystemPropertiesObserver that collects Bluetooth system property updates and supports Mojo pipe disconnection in tests.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_BLUETOOTH_CONFIG_FAKE_SYSTEM_PROPERTIES_OBSERVER_H_
 #define CHROMEOS_ASH_SERVICES_BLUETOOTH_CONFIG_FAKE_SYSTEM_PROPERTIES_OBSERVER_H_
 

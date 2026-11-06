@@ -1,0 +1,4 @@
+# Docerion header of tachyon_parsing_service.mojom.
+type: source
+title: Tachyon parsing service Mojom definitions
+summary: Defines Mojom structs and the sandboxed TachyonParsingService interface that parses Tachyon stream data into BabelOrca transcript messages.

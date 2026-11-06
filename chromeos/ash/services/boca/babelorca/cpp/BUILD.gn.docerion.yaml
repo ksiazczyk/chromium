@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the BabelOrca C++ parsing library
+summary: Defines the static library target for the Tachyon stream parsing sources and a testonly source_set for their unit tests.

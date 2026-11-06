@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DiscoveredDevicesProviderImpl unit tests
+// summary: Unit tests for DiscoveredDevicesProviderImpl verifying device insertion, updates, removals, sorting, and notification delay behavior with a fake device cache.
+// ---
+
 #include "chromeos/ash/services/bluetooth_config/discovered_devices_provider_impl.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device conversion utility header
+// summary: Declares GenerateBluetoothDeviceMojoProperties, which builds mojo device properties from a BluetoothDevice, optionally loading device images via the Fast Pair delegate.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_BLUETOOTH_CONFIG_DEVICE_CONVERSION_UTIL_H_
 #define CHROMEOS_ASH_SERVICES_BLUETOOTH_CONFIG_DEVICE_CONVERSION_UTIL_H_
 

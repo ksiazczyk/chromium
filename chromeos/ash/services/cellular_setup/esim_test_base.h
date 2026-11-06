@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: eSIM test base class declaration
+// summary: Declares ESimTestBase, the gtest fixture base class for testing eSIM mojo implementation classes with fake handlers and observers.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_CELLULAR_SETUP_ESIM_TEST_BASE_H_
 #define CHROMEOS_ASH_SERVICES_CELLULAR_SETUP_ESIM_TEST_BASE_H_
 

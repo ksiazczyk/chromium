@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build target for cros_healthd testing Mojom bindings
+summary: Defines the ChromeOS-only Mojom build target that compiles state.mojom for the cros_healthd testing bindings.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OTA activator base class
+// summary: Declares OtaActivator, a single-use base class that activates a cellular SIM over the air and fires a callback on completion regardless of success.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_CELLULAR_SETUP_OTA_ACTIVATOR_H_
 #define CHROMEOS_ASH_SERVICES_CELLULAR_SETUP_OTA_ACTIVATOR_H_
 

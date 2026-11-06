@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: eSIM test base implementation
+// summary: Sets up fake Hermes and Shill D-Bus clients plus network handlers to provide the test environment for eSIM mojo tests.
+// ---
+
 #include "chromeos/ash/services/cellular_setup/esim_test_base.h"
 
 #include <memory>

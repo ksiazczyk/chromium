@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quirks policy controller header
+// summary: Declares QuirksPolicyController, which observes the DeviceQuirksDownloadEnabled setting and toggles QuirksManager accordingly.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_POLICY_HANDLERS_QUIRKS_QUIRKS_POLICY_CONTROLLER_H_
 #define CHROMEOS_ASH_EXPERIENCES_POLICY_HANDLERS_QUIRKS_QUIRKS_POLICY_CONTROLLER_H_
 

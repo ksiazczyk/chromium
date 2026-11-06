@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake BluetoothDiscoveryDelegate implementation
+// summary: Implements a fake BluetoothDiscoveryDelegate that tracks discovery start and stop callbacks and discovered devices for tests.
+// ---
+
 #include "chromeos/ash/services/bluetooth_config/fake_bluetooth_discovery_delegate.h"
 
 #include "base/functional/bind.h"

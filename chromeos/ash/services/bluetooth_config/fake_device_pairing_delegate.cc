@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeDevicePairingDelegate implementation
+// summary: Implements a fake Mojo DevicePairingDelegate that captures PIN, passkey and authorization requests for use in Bluetooth tests.
+// ---
+
 #include "chromeos/ash/services/bluetooth_config/fake_device_pairing_delegate.h"
 
 #include "base/functional/bind.h"

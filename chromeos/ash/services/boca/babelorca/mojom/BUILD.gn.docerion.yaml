@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for BabelOrca mojom bindings
+summary: GN build file that defines the mojom bindings target for the Tachyon parsing service with a dependency on sandbox policy mojom.

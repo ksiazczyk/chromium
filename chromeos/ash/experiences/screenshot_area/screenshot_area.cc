@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScreenshotArea factory method implementations
+// summary: Implements static factory methods that create ScreenshotArea instances for all root windows, a single window, or a partial window region.
+// ---
+
 #include "chromeos/ash/experiences/screenshot_area/screenshot_area.h"
 
 // static

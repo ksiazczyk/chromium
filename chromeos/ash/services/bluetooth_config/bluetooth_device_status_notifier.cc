@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth device status notifier implementation
+// summary: Implements BluetoothDeviceStatusNotifier by forwarding device pairing, connection and disconnection events to registered Mojo observers.
+// ---
+
 #include "chromeos/ash/services/bluetooth_config/bluetooth_device_status_notifier.h"
 #include "chromeos/ash/services/bluetooth_config/public/cpp/cros_bluetooth_config_util.h"
 #include "components/device_event_log/device_event_log.h"

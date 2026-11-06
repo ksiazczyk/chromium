@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SettingsAppManager class header
+// summary: Declares the SettingsAppManager interface, including the EntryPoint histogram enum, OpenParams, and the Open method for launching the Settings app.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_SETTINGS_UI_SETTINGS_APP_MANAGER_H_
 #define CHROMEOS_ASH_EXPERIENCES_SETTINGS_UI_SETTINGS_APP_MANAGER_H_
 

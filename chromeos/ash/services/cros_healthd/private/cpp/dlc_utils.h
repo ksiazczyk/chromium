@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DLC install utility declaration
+// summary: Declares TriggerDlcInstall, which installs the DLCs required by cros_healthd.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_CROS_HEALTHD_PRIVATE_CPP_DLC_UTILS_H_
 #define CHROMEOS_ASH_SERVICES_CROS_HEALTHD_PRIVATE_CPP_DLC_UTILS_H_
 

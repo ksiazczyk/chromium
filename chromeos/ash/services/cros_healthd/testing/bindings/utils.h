@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Callback helper declarations for connectivity tests
+// summary: Declares RunOrReturn and RunSuccessOrFailed, which run or return callbacks depending on an asynchronously obtained boolean result.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_CROS_HEALTHD_TESTING_BINDINGS_UTILS_H_
 #define CHROMEOS_ASH_SERVICES_CROS_HEALTHD_TESTING_BINDINGS_UTILS_H_
 
