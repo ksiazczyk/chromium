@@ -1,0 +1,4 @@
+# Docerion header of IDS_IME_NAME_TRANSLITERATION_PA.png.sha1.
+type: asset
+title: SHA-1 checksum for the Punjabi IME transliteration name image
+summary: Holds the SHA-1 hash of the PNG image showing the Punjabi transliteration input method name in ChromeOS UI string resources.

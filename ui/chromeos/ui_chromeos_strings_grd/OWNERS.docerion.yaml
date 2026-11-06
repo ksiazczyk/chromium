@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for ui_chromeos_strings_grd
+summary: Lists the owners who review changes to this directory, naming shend@chromium.org for input-related naming changes.
