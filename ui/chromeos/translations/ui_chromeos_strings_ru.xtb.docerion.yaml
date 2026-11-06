@@ -1,0 +1,4 @@
+# Docerion header of ui_chromeos_strings_ru.xtb.
+type: data
+title: ChromeOS UI strings in Russian
+summary: Russian translation bundle of ChromeOS UI strings, providing localized interface messages such as file operations, network and keyboard layout texts.

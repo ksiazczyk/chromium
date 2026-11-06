@@ -1,0 +1,4 @@
+# Docerion header of ui_chromeos_strings_nl.xtb.
+type: data
+title: Dutch ChromeOS UI translation bundle
+summary: XML translation bundle providing Dutch translations of ChromeOS UI strings for files, networks, keyboards, and system dialogs.

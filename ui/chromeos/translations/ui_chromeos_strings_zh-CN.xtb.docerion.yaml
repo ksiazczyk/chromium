@@ -1,0 +1,4 @@
+# Docerion header of ui_chromeos_strings_zh-CN.xtb.
+type: data
+title: ChromeOS UI strings in Simplified Chinese
+summary: Translation bundle providing Simplified Chinese translations of ChromeOS UI strings covering files, networks, keyboards, and system dialogs.

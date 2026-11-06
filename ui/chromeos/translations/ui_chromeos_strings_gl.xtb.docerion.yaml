@@ -1,0 +1,4 @@
+# Docerion header of ui_chromeos_strings_gl.xtb.
+type: data
+title: 'ChromeOS UI strings: Galician translation bundle'
+summary: XML translation bundle with Galician localized strings for ChromeOS UI, covering Files app, network settings, and system dialogs.

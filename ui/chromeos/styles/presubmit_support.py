@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Presubmit check for semantic CSS variables
+# summary: Implements the _CheckSemanticColors presubmit check that flags invalid ChromeOS CSS variables in changed CSS, HTML and JS files.
+# ---
+
 
 def _CheckSemanticColors(input_api, output_api):
     """Check that any colors present in HTML, CSS or JS files that are CSS

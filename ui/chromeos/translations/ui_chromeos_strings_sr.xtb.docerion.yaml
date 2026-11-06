@@ -1,0 +1,4 @@
+# Docerion header of ui_chromeos_strings_sr.xtb.
+type: data
+title: ChromeOS UI strings in Serbian (Cyrillic script)
+summary: Serbian Cyrillic translation bundle of ChromeOS UI strings, providing localized interface messages such as file operations, network and keyboard layout texts.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network element localized strings provider header
+// summary: Declares functions to add localized strings for network elements, ONC, details, configuration and networking errors to WebUI data sources and login value builders.
+// ---
+
 #ifndef UI_CHROMEOS_STRINGS_NETWORK_NETWORK_ELEMENT_LOCALIZED_STRINGS_PROVIDER_H_
 #define UI_CHROMEOS_STRINGS_NETWORK_NETWORK_ELEMENT_LOCALIZED_STRINGS_PROVIDER_H_
 

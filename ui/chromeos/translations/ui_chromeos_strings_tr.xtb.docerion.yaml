@@ -1,0 +1,4 @@
+# Docerion header of ui_chromeos_strings_tr.xtb.
+type: data
+title: ChromeOS UI strings in Turkish
+summary: Translation bundle providing Turkish translations of ChromeOS UI strings covering files, networks, keyboards, and system dialogs.

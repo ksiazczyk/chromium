@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: ChromeOS UI strings dependency rules
+summary: Specifies the include rules that allow this directory to depend on content, system API, login, strings, and ChromeOS UI components.

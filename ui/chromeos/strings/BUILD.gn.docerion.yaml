@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: ChromeOS UI strings build targets
+summary: Defines the grit target that generates ChromeOS UI localized string resources and a strings_provider static library with network element localized strings.

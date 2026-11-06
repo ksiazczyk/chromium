@@ -1,0 +1,4 @@
+# Docerion header of cros_gm3_typography.json5.
+type: config
+title: ChromeOS GM3 typography styles
+summary: Defines Google Sans font families, font faces and typefaces such as display, title, headline, button and body styles for GM3.

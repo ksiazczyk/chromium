@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for ChromeOS style variables
+summary: Defines style variable generator targets that turn the JSON5 style sources into CSS, views and proto outputs, plus grit packaging of the generated typography resources.

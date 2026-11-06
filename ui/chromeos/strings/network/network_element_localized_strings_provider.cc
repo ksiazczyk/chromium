@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network element localized strings provider implementation
+// summary: Implements functions that register localized network UI strings, mapping WebUI string keys to Chromium resource IDs for network lists, ONC, details, configuration and error messages.
+// ---
+
 #include "ui/chromeos/strings/network/network_element_localized_strings_provider.h"
 
 #include "ash/constants/ash_features.h"

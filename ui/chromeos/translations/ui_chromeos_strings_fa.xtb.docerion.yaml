@@ -1,0 +1,4 @@
+# Docerion header of ui_chromeos_strings_fa.xtb.
+type: data
+title: 'ChromeOS UI strings: Persian (Farsi) translation bundle'
+summary: XML translation bundle with Persian (Farsi) localized strings for ChromeOS UI, covering Files app, network settings, and system dialogs.

@@ -1,0 +1,4 @@
+# Docerion header of ui_chromeos_strings_ko.xtb.
+type: data
+title: Korean ChromeOS UI translation bundle
+summary: Korean translations of ChromeOS UI strings in XTB format, covering file management, network, and system dialogs.

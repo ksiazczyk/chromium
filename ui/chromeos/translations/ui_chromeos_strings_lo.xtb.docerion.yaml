@@ -1,0 +1,4 @@
+# Docerion header of ui_chromeos_strings_lo.xtb.
+type: data
+title: Lao ChromeOS UI translation bundle
+summary: Lao translations of ChromeOS UI strings in XTB format, covering file management, network, and system dialogs.

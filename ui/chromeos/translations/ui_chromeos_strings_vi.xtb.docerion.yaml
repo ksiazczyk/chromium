@@ -1,0 +1,4 @@
+# Docerion header of ui_chromeos_strings_vi.xtb.
+type: data
+title: ChromeOS UI strings in Vietnamese
+summary: Translation bundle providing Vietnamese translations of ChromeOS UI strings covering files, networks, keyboards, and system dialogs.

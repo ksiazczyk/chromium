@@ -1,0 +1,4 @@
+# Docerion header of ui_chromeos_strings_fi.xtb.
+type: data
+title: 'ChromeOS UI strings: Finnish translation bundle'
+summary: XML translation bundle with Finnish localized strings for ChromeOS UI, covering Files app, network settings, and system dialogs.

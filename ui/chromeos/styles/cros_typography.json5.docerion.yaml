@@ -1,0 +1,4 @@
+# Docerion header of cros_typography.json5.
+type: config
+title: ChromeOS typography styles
+summary: Defines the ChromeOS typography styles, listing font families and typefaces with font sizes, weights and line heights for the UI.

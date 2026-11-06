@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for network strings directory
+summary: Delegates code ownership of the network strings directory to the shared OWNERS file in ash/webui/common/resources/network.

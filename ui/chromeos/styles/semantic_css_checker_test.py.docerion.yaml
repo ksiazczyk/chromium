@@ -1,0 +1,4 @@
+# Docerion header of semantic_css_checker_test.py.
+type: test
+title: Unit tests for the semantic CSS color checker
+summary: Unit tests that verify the semantic CSS checker flags non-semantic colors in HTML and CSS while allowing semantic cros variables.

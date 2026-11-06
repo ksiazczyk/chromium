@@ -1,3 +1,9 @@
+---
+type: readme
+title: README for translation context image hashes
+summary: Explains that the directory stores image SHA-1 hashes used to give translators context images for improving UI string translations.
+---
+
 This directory of image SHA-1 hashes is used to improve translations of UI
 strings through context images for translators.
 

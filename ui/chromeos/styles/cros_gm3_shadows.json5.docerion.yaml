@@ -1,0 +1,4 @@
+# Docerion header of cros_gm3_shadows.json5.
+type: config
+title: ChromeOS GM3 shadow definitions
+summary: Defines app elevation box-shadow values for GM3 built from the cros.sys key and ambient shadow tokens.

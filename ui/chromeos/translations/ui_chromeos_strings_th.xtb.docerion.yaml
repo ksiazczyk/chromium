@@ -1,0 +1,4 @@
+# Docerion header of ui_chromeos_strings_th.xtb.
+type: data
+title: ChromeOS UI strings in Thai
+summary: Translation bundle providing Thai translations of ChromeOS UI strings covering files, networks, keyboards, and system dialogs.
