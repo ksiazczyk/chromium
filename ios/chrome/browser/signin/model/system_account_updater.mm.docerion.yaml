@@ -1,0 +1,4 @@
+# Docerion header of system_account_updater.mm.
+type: source
+title: System account updater implementation
+summary: Implements syncing system identity information to shared app group data and refreshing widget timelines when accounts change.

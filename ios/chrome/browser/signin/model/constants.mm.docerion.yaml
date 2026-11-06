@@ -1,0 +1,4 @@
+# Docerion header of constants.mm.
+type: source
+title: Sign-in constants definitions
+summary: Defines the sign-in error domain strings and accessibility identifier constants declared in constants.h.

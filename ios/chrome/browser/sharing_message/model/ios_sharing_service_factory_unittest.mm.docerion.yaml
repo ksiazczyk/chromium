@@ -1,0 +1,4 @@
+# Docerion header of ios_sharing_service_factory_unittest.mm.
+type: test
+title: IOSSharingServiceFactory unit tests
+summary: Platform test fixture verifying that IOSSharingServiceFactory does not create a SharingService for a TestProfileIOS, matching the kNoServiceForTests testing policy.

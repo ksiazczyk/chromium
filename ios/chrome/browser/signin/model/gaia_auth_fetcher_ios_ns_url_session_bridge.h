@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gaia auth fetcher NSURLSession bridge header
+// summary: Declares a Gaia auth fetcher bridge that sends requests via NSURLSession, handling cookies, redirects and fetch success or failure.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SIGNIN_MODEL_GAIA_AUTH_FETCHER_IOS_NS_URL_SESSION_BRIDGE_H_
 #define IOS_CHROME_BROWSER_SIGNIN_MODEL_GAIA_AUTH_FETCHER_IOS_NS_URL_SESSION_BRIDGE_H_
 

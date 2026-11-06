@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AITierAvatarContentConfiguration interface
+// summary: Declares a content configuration for the AI tier avatar view with avatar image, diameter, size type, and ring visibility.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SIGNIN_UI_AVATAR_AI_TIER_AVATAR_CONTENT_CONFIGURATION_H_
 #define IOS_CHROME_BROWSER_SIGNIN_UI_AVATAR_AI_TIER_AVATAR_CONTENT_CONFIGURATION_H_
 

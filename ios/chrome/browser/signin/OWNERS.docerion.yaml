@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Sign-in OWNERS file
+summary: OWNERS configuration for the iOS Chrome sign-in browser directory that delegates code review ownership to the shared components/signin/ios OWNERS file.

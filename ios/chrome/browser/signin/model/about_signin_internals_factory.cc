@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AboutSigninInternals profile-keyed service factory implementation
+// summary: Implements the profile-keyed factory that builds AboutSigninInternals services with identity, signin client, and reconcilor dependencies.
+// ---
+
 #include "ios/chrome/browser/signin/model/about_signin_internals_factory.h"
 
 #include "components/pref_registry/pref_registry_syncable.h"

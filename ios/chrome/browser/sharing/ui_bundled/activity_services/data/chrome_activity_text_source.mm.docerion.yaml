@@ -1,0 +1,4 @@
+# Docerion header of chrome_activity_text_source.mm.
+type: source
+title: ChromeActivityTextSource implementation
+summary: Implements the text activity item source, returning the text item and excluding reading list, pasteboard, print and camera roll activities.

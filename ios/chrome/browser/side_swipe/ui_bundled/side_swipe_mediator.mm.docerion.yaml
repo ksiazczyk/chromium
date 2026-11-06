@@ -1,0 +1,4 @@
+# Docerion header of side_swipe_mediator.mm.
+type: source
+title: Side swipe mediator implementation
+summary: Implements the side swipe mediator, observing web states and the web state list to update edge swipe precedence and snapshots.

@@ -1,0 +1,4 @@
+# Docerion header of activity_type_util.mm.
+type: source
+title: Activity type utility implementation
+summary: Maps iOS app extension bundle ID prefixes to ActivityType values and records MobileShareMenu user metrics for each share activity.

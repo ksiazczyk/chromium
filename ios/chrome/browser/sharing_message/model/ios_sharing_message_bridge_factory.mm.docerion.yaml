@@ -1,0 +1,4 @@
+# Docerion header of ios_sharing_message_bridge_factory.mm.
+type: source
+title: iOS sharing message bridge factory implementation
+summary: Builds SharingMessageBridge instances with a client-tag-based sync data type processor for each profile.

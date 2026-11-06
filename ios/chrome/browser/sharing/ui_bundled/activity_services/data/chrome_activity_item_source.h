@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeActivityItemSource protocol
+// summary: Defines the base protocol extending UIActivityItemSource with a set of activity types to exclude from the share sheet.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARING_UI_BUNDLED_ACTIVITY_SERVICES_DATA_CHROME_ACTIVITY_ITEM_SOURCE_H_
 #define IOS_CHROME_BROWSER_SHARING_UI_BUNDLED_ACTIVITY_SERVICES_DATA_CHROME_ACTIVITY_ITEM_SOURCE_H_
 

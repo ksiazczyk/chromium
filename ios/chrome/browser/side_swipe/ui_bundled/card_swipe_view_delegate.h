@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Card swipe view delegate protocol
+// summary: Declares the CardSwipeViewDelegate protocol that is notified when the tab swipe dismissal animation has finished.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SIDE_SWIPE_UI_BUNDLED_CARD_SWIPE_VIEW_DELEGATE_H_
 #define IOS_CHROME_BROWSER_SIDE_SWIPE_UI_BUNDLED_CARD_SWIPE_VIEW_DELEGATE_H_
 

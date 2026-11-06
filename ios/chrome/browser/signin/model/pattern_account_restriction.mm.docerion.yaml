@@ -1,0 +1,4 @@
+# Docerion header of pattern_account_restriction.mm.
+type: source
+title: Pattern account restriction implementation
+summary: Implements wildcard pattern matching and account restriction checks that filter email addresses based on configured pattern lists.

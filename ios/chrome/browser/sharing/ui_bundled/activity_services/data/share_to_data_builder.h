@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShareToData builder declarations
+// summary: Declares activity_services functions that build ShareToData objects from a WebState, a plain URL, or a URL-with-title.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARING_UI_BUNDLED_ACTIVITY_SERVICES_DATA_SHARE_TO_DATA_BUILDER_H_
 #define IOS_CHROME_BROWSER_SHARING_UI_BUNDLED_ACTIVITY_SERVICES_DATA_SHARE_TO_DATA_BUILDER_H_
 

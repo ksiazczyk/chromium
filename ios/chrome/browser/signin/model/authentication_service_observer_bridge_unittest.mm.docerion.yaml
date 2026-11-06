@@ -1,0 +1,4 @@
+# Docerion header of authentication_service_observer_bridge_unittest.mm.
+type: test
+title: Authentication service observer bridge unit tests
+summary: Unit tests verifying that the observer bridge forwards OnServiceStatusChanged events to its Objective-C delegate mock.

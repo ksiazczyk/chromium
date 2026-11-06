@@ -1,0 +1,4 @@
+# Docerion header of qr_generator_coordinator.mm.
+type: source
+title: QR generator coordinator implementation
+summary: Implements the coordinator that presents the QR code view controller modally, records usage metrics, and routes sharing and dismiss actions through its handler.

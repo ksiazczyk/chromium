@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Signin test utilities for managed profiles
+// summary: Declares a helper that registers a managed identity and adds a managed TestProfileIOS to a TestProfileManagerIOS using a builder.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SIGNIN_MODEL_SIGNIN_TEST_UTIL_H_
 #define IOS_CHROME_BROWSER_SIGNIN_MODEL_SIGNIN_TEST_UTIL_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of authentication_service_egtest.mm.
+type: test
+title: AuthenticationService Earl Grey test
+summary: Earl Grey integration test verifying sign-in state across a Chrome restart using a fake identity.

@@ -1,0 +1,4 @@
+# Docerion header of trusted_vault_client_backend.mm.
+type: source
+title: Trusted vault client backend implementation
+summary: Implements observer registration and removal plus key change and recoverability notifications for the trusted vault client backend.

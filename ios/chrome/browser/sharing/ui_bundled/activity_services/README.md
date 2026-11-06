@@ -1,3 +1,11 @@
+---
+type: readme
+title: iOS Application Specific Services in Chrome for iOS
+summary: Explains how Chrome for iOS handles UIActivity app services and how to add password manager app extensions via bundle ID matching or a code list.
+relations:
+  - documents /ios/chrome/browser/sharing/ui_bundled/activity_services/activity_type_util.mm
+---
+
 # iOS Application Specific Services in Chrome for iOS
 
 [UIActivity][1] is an abstract class for implementing app-specific services

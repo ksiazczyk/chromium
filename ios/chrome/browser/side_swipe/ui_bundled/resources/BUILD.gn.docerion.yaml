@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Side swipe resources build file
+summary: GN build file that bundles the side swipe navigation back asset catalog images into the iOS app bundle.

@@ -1,0 +1,4 @@
+# Docerion header of sharing_params.mm.
+type: source
+title: SharingParams implementation
+summary: Implements the SharingParams initializers for sharing scenarios, images, single or multiple URLs, and additional text.

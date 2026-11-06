@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Horizontal pan gesture handler protocol
+// summary: Declares a protocol for animating a target view in response to side swipe gestures, with threshold completions and offscreen move helpers.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SIDE_SWIPE_UI_BUNDLED_HORIZONTAL_PAN_GESTURE_HANDLER_H_
 #define IOS_CHROME_BROWSER_SIDE_SWIPE_UI_BUNDLED_HORIZONTAL_PAN_GESTURE_HANDLER_H_
 

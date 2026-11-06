@@ -1,0 +1,4 @@
+# Docerion header of request_desktop_or_mobile_site_activity_unittest.mm.
+type: test
+title: Request Desktop or Mobile Site activity unit tests
+summary: Unit tests verifying that the desktop or mobile site activity is enabled, titled and performed correctly for each user agent type.

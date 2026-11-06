@@ -1,0 +1,4 @@
+# Docerion header of authentication_service_factory.mm.
+type: source
+title: Authentication service factory implementation
+summary: Implements AuthenticationServiceFactory, building AuthenticationService instances with account manager, identity manager, and sync service dependencies.

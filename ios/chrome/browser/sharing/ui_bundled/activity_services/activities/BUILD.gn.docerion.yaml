@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for sharing activities
+summary: Defines the activities source set and its unit test target, listing sources, dependencies and frameworks.

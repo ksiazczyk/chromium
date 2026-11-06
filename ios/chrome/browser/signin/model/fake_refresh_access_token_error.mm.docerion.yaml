@@ -1,0 +1,4 @@
+# Docerion header of fake_refresh_access_token_error.mm.
+type: source
+title: Fake refresh access token error implementation
+summary: Implements the fake refresh access token error used to simulate token refresh failures in tests.

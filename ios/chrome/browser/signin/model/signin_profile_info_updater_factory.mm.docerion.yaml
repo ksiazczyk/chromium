@@ -1,0 +1,4 @@
+# Docerion header of signin_profile_info_updater_factory.mm.
+type: source
+title: SigninProfileInfoUpdaterFactory implementation
+summary: Implements the factory that creates a SigninProfileInfoUpdater per profile using the identity manager and signin error controller.

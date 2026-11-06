@@ -1,0 +1,4 @@
+# Docerion header of device_accounts_provider_impl.mm.
+type: source
+title: Device accounts provider implementation
+summary: Implements device account listing and access token fetching, converting system identity errors to GoogleServiceAuthError values.

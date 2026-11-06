@@ -1,0 +1,4 @@
+# Docerion header of account_profile_mapper.mm.
+type: source
+title: AccountProfileMapper implementation
+summary: Implements identity-to-profile mapping with hosted domain fetch retries, backoff, histograms, and profile attribute storage updates.

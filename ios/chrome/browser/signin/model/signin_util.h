@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signin utility function declarations
+// summary: Declares helper functions for signin scopes, error handling, avatar sizing, device restore detection and pre-restore identity storage.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SIGNIN_MODEL_SIGNIN_UTIL_H_
 #define IOS_CHROME_BROWSER_SIGNIN_MODEL_SIGNIN_UTIL_H_
 

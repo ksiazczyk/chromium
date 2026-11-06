@@ -1,0 +1,4 @@
+# Docerion header of reading_list_activity.mm.
+type: source
+title: Reading list activity implementation
+summary: Implements the Add to Reading List UIActivity that adds the activity URL to the reading list, falling back to the host as title when missing.

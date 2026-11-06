@@ -1,0 +1,4 @@
+# Docerion header of share_file_download_egtest.mm.
+type: test
+title: Earl Grey tests for share file download
+summary: Earl Grey tests covering the open-in share feature and enterprise DLP download allow, warn and block scenarios.

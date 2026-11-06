@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device accounts provider interface
+// summary: Declares DeviceAccountsProviderImpl, which adapts ChromeAccountManagerService identities to the DeviceAccountsProvider interface.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SIGNIN_MODEL_DEVICE_ACCOUNTS_PROVIDER_IMPL_H_
 #define IOS_CHROME_BROWSER_SIGNIN_MODEL_DEVICE_ACCOUNTS_PROVIDER_IMPL_H_
 

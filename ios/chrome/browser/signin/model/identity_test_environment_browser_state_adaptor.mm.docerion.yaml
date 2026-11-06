@@ -1,0 +1,4 @@
+# Docerion header of identity_test_environment_browser_state_adaptor.mm.
+type: source
+title: Identity test environment browser state adaptor implementation
+summary: Builds an identity manager for tests by wiring the signin client, prefs and metrics service of the given profile into IdentityTestEnvironment.

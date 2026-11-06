@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS account capabilities fetcher class declaration
+// summary: Declares the iOS implementation of AccountCapabilitiesFetcher that retrieves account capabilities via the system identity manager.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SIGNIN_MODEL_ACCOUNT_CAPABILITIES_FETCHER_IOS_H_
 #define IOS_CHROME_BROWSER_SIGNIN_MODEL_ACCOUNT_CAPABILITIES_FETCHER_IOS_H_
 

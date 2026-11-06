@@ -1,0 +1,4 @@
+# Docerion header of canonical_url_retriever.mm.
+type: source
+title: Canonical URL retriever implementation
+summary: Runs JavaScript to read the canonical link from the main frame, validates it is HTTPS, and logs Mobile.CanonicalURLResult histogram outcomes.

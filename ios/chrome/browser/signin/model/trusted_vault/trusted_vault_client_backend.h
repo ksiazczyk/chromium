@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trusted vault client backend interface
+// summary: Declares the abstract keyed service that fetches and manages trusted vault shared keys, observers, and reauthentication per security domain.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SIGNIN_MODEL_TRUSTED_VAULT_TRUSTED_VAULT_CLIENT_BACKEND_H_
 #define IOS_CHROME_BROWSER_SIGNIN_MODEL_TRUSTED_VAULT_TRUSTED_VAULT_CLIENT_BACKEND_H_
 

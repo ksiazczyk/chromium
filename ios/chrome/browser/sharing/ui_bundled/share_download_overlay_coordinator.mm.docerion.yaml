@@ -1,0 +1,4 @@
+# Docerion header of share_download_overlay_coordinator.mm.
+type: source
+title: Share download overlay coordinator implementation
+summary: Implements animated presentation and dismissal of the share download overlay view controller.

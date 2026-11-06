@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AvatarProvider class header
+// summary: Declares the signin::AvatarProvider class that returns identity avatars at various sizes using per-size ResizedAvatarCache instances.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SIGNIN_MODEL_AVATAR_AVATAR_PROVIDER_H_
 #define IOS_CHROME_BROWSER_SIGNIN_MODEL_AVATAR_AVATAR_PROVIDER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of share_to_data.mm.
+type: source
+title: ShareToData implementation
+summary: Implements the ShareToData initializer and accessors, including on-demand conversion of the share URL to an NSURL.

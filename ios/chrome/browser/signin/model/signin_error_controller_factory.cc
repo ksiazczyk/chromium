@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signin error controller factory implementation
+// summary: Implements a profile-keyed factory that creates SigninErrorController instances depending on the identity manager.
+// ---
+
 #include "ios/chrome/browser/signin/model/signin_error_controller_factory.h"
 
 #include "base/memory/ptr_util.h"

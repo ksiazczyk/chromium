@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AITierRingImageView interface
+// summary: Declares a UIImageView subclass that masks its image to show only the outer ring.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SIGNIN_UI_AVATAR_AI_TIER_RING_IMAGE_VIEW_H_
 #define IOS_CHROME_BROWSER_SIGNIN_UI_AVATAR_AI_TIER_RING_IMAGE_VIEW_H_
 

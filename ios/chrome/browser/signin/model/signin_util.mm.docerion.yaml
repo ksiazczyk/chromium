@@ -1,0 +1,4 @@
+# Docerion header of signin_util.mm.
+type: source
+title: Signin utility implementation
+summary: Implements signin utility helpers, including device restore data loading and storing the pre-restore identity in profile preferences.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Refresh access token error protocol
+// summary: Declares an Objective-C protocol exposing details about errors that occur while refreshing an identity's access token.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SIGNIN_MODEL_REFRESH_ACCESS_TOKEN_ERROR_H_
 #define IOS_CHROME_BROWSER_SIGNIN_MODEL_REFRESH_ACCESS_TOKEN_ERROR_H_
 

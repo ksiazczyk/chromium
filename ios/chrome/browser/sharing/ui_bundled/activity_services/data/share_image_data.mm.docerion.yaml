@@ -1,0 +1,4 @@
+# Docerion header of share_image_data.mm.
+type: source
+title: ShareImageData implementation
+summary: Implements the ShareImageData initializer that stores the image and title to be shared.

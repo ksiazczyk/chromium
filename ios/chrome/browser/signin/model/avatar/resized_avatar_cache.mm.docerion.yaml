@@ -1,0 +1,4 @@
+# Docerion header of resized_avatar_cache.mm.
+type: source
+title: ResizedAvatarCache implementation
+summary: Implements an NSCache-backed cache of resized avatars keyed by Gaia ID, fetching missing avatars, falling back to the default avatar, and logging results to a histogram.

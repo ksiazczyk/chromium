@@ -1,0 +1,4 @@
+# Docerion header of account_fetcher_factory_ios.mm.
+type: source
+title: AccountFetcherFactoryIOS implementation
+summary: Creates iOS or GAIA-based account info fetchers depending on feature flags, plus iOS account capabilities fetchers for the identity manager.

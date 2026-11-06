@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SideSwipeSnapshotNavigationView interface
+// summary: Declares a view that shows a snapshot image while the target view is dragged from side to side.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SIDE_SWIPE_UI_BUNDLED_SIDE_SWIPE_SNAPSHOT_NAVIGATION_VIEW_H_
 #define IOS_CHROME_BROWSER_SIDE_SWIPE_UI_BUNDLED_SIDE_SWIPE_SNAPSHOT_NAVIGATION_VIEW_H_
 

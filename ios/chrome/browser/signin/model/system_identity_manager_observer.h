@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System identity manager observer interface
+// summary: Declares SystemIdentityManagerObserver, a checked observer interface for identity list changes, identity updates, and token refresh events.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SIGNIN_MODEL_SYSTEM_IDENTITY_MANAGER_OBSERVER_H_
 #define IOS_CHROME_BROWSER_SIGNIN_MODEL_SYSTEM_IDENTITY_MANAGER_OBSERVER_H_
 

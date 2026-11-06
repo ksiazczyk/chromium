@@ -1,0 +1,4 @@
+# Docerion header of side_swipe_gesture_recognizer.mm.
+type: source
+title: Side swipe gesture recognizer implementation
+summary: Implements the custom edge swipe gesture recognizer, failing quickly for touches away from edges or at steep angles.

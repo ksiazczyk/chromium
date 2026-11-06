@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShareFileDownloadTabHelper class declaration
+// summary: Declares the tab helper that observes WebState, plus MIME type constants and the UMA enum for previewed files.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARING_MODEL_SHARE_FILE_DOWNLOAD_TAB_HELPER_H_
 #define IOS_CHROME_BROWSER_SHARING_MODEL_SHARE_FILE_DOWNLOAD_TAB_HELPER_H_
 

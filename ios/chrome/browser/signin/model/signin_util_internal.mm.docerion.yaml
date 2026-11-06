@@ -1,0 +1,4 @@
+# Docerion header of signin_util_internal.mm.
+type: source
+title: Internal signin utility implementation for device restore
+summary: Creates and reads sentinel files to detect whether Chrome started after an iOS device restore, recording error histograms.

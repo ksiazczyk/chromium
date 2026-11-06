@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QR generator view controller interface
+// summary: Declares QRGeneratorViewController, which displays a QR code for a website, and its delegate protocol for dismiss, confirm, and learn more actions.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARING_UI_BUNDLED_QR_GENERATOR_QR_GENERATOR_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_SHARING_UI_BUNDLED_QR_GENERATOR_QR_GENERATOR_VIEW_CONTROLLER_H_
 

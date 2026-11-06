@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Internal signin utility header for device restore
+// summary: Declares the RestoreData struct, sentinel file names and the internal loader used to detect a first session after device restore.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SIGNIN_MODEL_SIGNIN_UTIL_INTERNAL_H_
 #define IOS_CHROME_BROWSER_SIGNIN_MODEL_SIGNIN_UTIL_INTERNAL_H_
 

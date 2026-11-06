@@ -1,0 +1,4 @@
+# Docerion header of side_swipe_navigation_view.mm.
+type: source
+title: SideSwipeNavigationView implementation
+summary: Implements the swipe navigation view with arrow display, selection bubble animations and swipe threshold handling for navigation.

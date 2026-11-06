@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trusted vault configuration interface
+// summary: Declares the configuration object holding the single sign-on service used by the trusted vault client backend.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SIGNIN_MODEL_TRUSTED_VAULT_TRUSTED_VAULT_CONFIGURATION_H_
 #define IOS_CHROME_BROWSER_SIGNIN_MODEL_TRUSTED_VAULT_TRUSTED_VAULT_CONFIGURATION_H_
 

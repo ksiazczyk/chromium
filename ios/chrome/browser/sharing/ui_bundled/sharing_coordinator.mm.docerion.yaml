@@ -1,0 +1,4 @@
+# Docerion header of sharing_coordinator.mm.
+type: source
+title: Sharing coordinator implementation
+summary: Implements the iOS Chrome sharing coordinator that manages share flows such as activity services, QR code generation, and file downloads with cloud content scanning.

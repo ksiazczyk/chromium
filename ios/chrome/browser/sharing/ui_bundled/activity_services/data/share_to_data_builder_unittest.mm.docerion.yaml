@@ -1,0 +1,4 @@
+# Docerion header of share_to_data_builder_unittest.mm.
+type: test
+title: ShareToDataBuilder unit tests
+summary: Unit tests for the ShareToData builder functions, using fake web states, test profiles and snapshot helpers to verify the constructed share data.

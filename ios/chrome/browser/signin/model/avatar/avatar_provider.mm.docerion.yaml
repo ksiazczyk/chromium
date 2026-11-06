@@ -1,0 +1,4 @@
+# Docerion header of avatar_provider.mm.
+type: source
+title: AvatarProvider implementation
+summary: Implements AvatarProvider by mapping each IdentityAvatarSize to a lazily created ResizedAvatarCache and returning the resized avatar for an identity.

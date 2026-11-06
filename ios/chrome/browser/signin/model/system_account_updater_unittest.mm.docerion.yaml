@@ -1,0 +1,4 @@
+# Docerion header of system_account_updater_unittest.mm.
+type: test
+title: System account updater unit tests
+summary: Unit tests verifying that identity list changes correctly update the shared app group accounts data.

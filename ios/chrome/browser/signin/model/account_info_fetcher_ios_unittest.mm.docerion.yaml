@@ -1,0 +1,4 @@
+# Docerion header of account_info_fetcher_ios_unittest.mm.
+type: test
+title: AccountInfoFetcherIos unit tests
+summary: Unit tests verifying instant and delayed account info fetching through a fake system identity manager and account manager service.

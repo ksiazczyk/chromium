@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build configuration for the iOS sign-in model sources
+summary: Defines the GN source_set for the iOS sign-in model directory, listing its source files and build dependencies.

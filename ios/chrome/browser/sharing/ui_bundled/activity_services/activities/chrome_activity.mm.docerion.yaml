@@ -1,0 +1,4 @@
+# Docerion header of chrome_activity.mm.
+type: source
+title: ChromeActivity implementation
+summary: Implements the ChromeActivity base class with a default no-op disconnect method.

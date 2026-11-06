@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signin client factory implementation
+// summary: Implements a profile-keyed factory that builds IOSChromeSigninClient instances for each profile.
+// ---
+
 #include "ios/chrome/browser/signin/model/signin_client_factory.h"
 
 #include "ios/chrome/browser/content_settings/model/host_content_settings_map_factory.h"

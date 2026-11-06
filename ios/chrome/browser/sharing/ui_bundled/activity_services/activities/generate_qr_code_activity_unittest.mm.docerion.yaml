@@ -1,0 +1,4 @@
+# Docerion header of generate_qr_code_activity_unittest.mm.
+type: test
+title: Generate QR code activity unit tests
+summary: Unit tests verifying GenerateQrCodeActivity availability with a valid handler and that execution issues a QR code command with the expected URL and title.

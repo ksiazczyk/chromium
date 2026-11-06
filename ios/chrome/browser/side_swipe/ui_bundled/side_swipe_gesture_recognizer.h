@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Side swipe gesture recognizer interface
+// summary: Declares a custom pan gesture recognizer for edge swipes with configurable swipe edge, threshold, and direction properties.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SIDE_SWIPE_UI_BUNDLED_SIDE_SWIPE_GESTURE_RECOGNIZER_H_
 #define IOS_CHROME_BROWSER_SIDE_SWIPE_UI_BUNDLED_SIDE_SWIPE_GESTURE_RECOGNIZER_H_
 

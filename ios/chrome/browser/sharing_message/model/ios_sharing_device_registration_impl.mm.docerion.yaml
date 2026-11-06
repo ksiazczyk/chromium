@@ -1,0 +1,4 @@
+# Docerion header of ios_sharing_device_registration_impl.mm.
+type: source
+title: iOS sharing device registration implementation
+summary: Implements device registration by retrieving FCM tokens and encryption info and reporting enabled sharing features.

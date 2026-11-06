@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for iOS sign-in model dependencies
+summary: Declares allowed include rules and per-file exceptions for dependencies used by the iOS sign-in model code.

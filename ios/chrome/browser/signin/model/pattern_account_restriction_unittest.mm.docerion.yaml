@@ -1,0 +1,4 @@
+# Docerion header of pattern_account_restriction_unittest.mm.
+type: test
+title: Pattern account restriction unit tests
+summary: Unit tests verifying email filtering, pattern matching, and pattern validation behavior of PatternAccountRestriction.

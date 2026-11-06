@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharingParams parameter object header
+// summary: Declares SharingParams, a parameter object that configures the activity service scenario with images, URLs, titles, and additional text.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARING_UI_BUNDLED_SHARING_PARAMS_H_
 #define IOS_CHROME_BROWSER_SHARING_UI_BUNDLED_SHARING_PARAMS_H_
 

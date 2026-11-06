@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pattern account restriction class declarations
+// summary: Declares Pattern and PatternAccountRestriction classes that match email addresses against wildcard patterns to determine whether an account is restricted.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SIGNIN_MODEL_PATTERN_ACCOUNT_RESTRICTION_H_
 #define IOS_CHROME_BROWSER_SIGNIN_MODEL_PATTERN_ACCOUNT_RESTRICTION_H_
 

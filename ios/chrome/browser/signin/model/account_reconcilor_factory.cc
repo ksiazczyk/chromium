@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccountReconcilorFactory implementation
+// summary: Implements the profile-keyed factory that creates AccountReconcilor instances with the mirror account reconcilor delegate.
+// ---
+
 #include "ios/chrome/browser/signin/model/account_reconcilor_factory.h"
 
 #include <memory>

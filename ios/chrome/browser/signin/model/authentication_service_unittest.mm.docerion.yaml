@@ -1,0 +1,4 @@
+# Docerion header of authentication_service_unittest.mm.
+type: test
+title: Authentication service unit tests
+summary: Unit tests covering AuthenticationService behavior, including MDM handling, observers, preferences, and account restrictions.

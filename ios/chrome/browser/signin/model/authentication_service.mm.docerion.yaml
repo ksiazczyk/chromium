@@ -1,0 +1,4 @@
+# Docerion header of authentication_service.mm.
+type: source
+title: AuthenticationService implementation
+summary: Implements sign-in and sign-out handling, policy-based service status, device restore metrics, and identity management for iOS Chrome.

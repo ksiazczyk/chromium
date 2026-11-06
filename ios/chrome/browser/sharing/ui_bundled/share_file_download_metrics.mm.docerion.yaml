@@ -1,0 +1,4 @@
+# Docerion header of share_file_download_metrics.mm.
+type: source
+title: Share file download metrics implementation
+summary: Defines the IOS.OpenIn.DownloadResult histogram name constant used for open-in download logging.

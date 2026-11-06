@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for allowed dependencies
+summary: Grants the avatar folder access to subscription eligibility service headers through DEPS include rules.

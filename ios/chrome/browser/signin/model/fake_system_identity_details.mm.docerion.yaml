@@ -1,0 +1,4 @@
+# Docerion header of fake_system_identity_details.mm.
+type: source
+title: Fake system identity details implementation
+summary: Implements per-identity test state, including cached avatars and updating visible capabilities from pending test mutations.

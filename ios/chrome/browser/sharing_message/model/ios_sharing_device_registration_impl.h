@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS sharing device registration interface
+// summary: Declares the class responsible for registering and unregistering the device with SharingSyncPreference.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARING_MESSAGE_MODEL_IOS_SHARING_DEVICE_REGISTRATION_IMPL_H_
 #define IOS_CHROME_BROWSER_SHARING_MESSAGE_MODEL_IOS_SHARING_DEVICE_REGISTRATION_IMPL_H_
 

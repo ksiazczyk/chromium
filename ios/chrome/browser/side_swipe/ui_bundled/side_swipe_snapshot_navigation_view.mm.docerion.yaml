@@ -1,0 +1,4 @@
+# Docerion header of side_swipe_snapshot_navigation_view.mm.
+type: source
+title: SideSwipeSnapshotNavigationView implementation
+summary: Implements the snapshot navigation view, handling horizontal pan gestures, threshold animations and target view transitions.

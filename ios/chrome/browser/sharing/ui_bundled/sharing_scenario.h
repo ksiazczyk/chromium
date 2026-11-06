@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sharing scenario enum
+// summary: Defines the SharingScenario enum listing sharing entry points for metrics, kept in sync with IOSActivityScenario in the histograms enums.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARING_UI_BUNDLED_SHARING_SCENARIO_H_
 #define IOS_CHROME_BROWSER_SHARING_UI_BUNDLED_SHARING_SCENARIO_H_
 

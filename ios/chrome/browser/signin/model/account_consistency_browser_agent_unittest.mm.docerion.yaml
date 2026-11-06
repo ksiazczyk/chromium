@@ -1,0 +1,4 @@
+# Docerion header of account_consistency_browser_agent_unittest.mm.
+type: test
+title: Account consistency browser agent unit tests
+summary: Unit tests for the iOS account consistency browser agent, exercising sign-in command dispatch and scene behavior with fake profiles, identities and sync services.

@@ -1,0 +1,4 @@
+# Docerion header of card_side_swipe_view.mm.
+type: source
+title: Card side swipe view implementation
+summary: Implements the card side swipe view, building left and right tab snapshot cards and animating them as the user swipes between tabs.

@@ -1,0 +1,4 @@
+# Docerion header of request_desktop_or_mobile_site_activity.mm.
+type: source
+title: Request Desktop or Mobile Site share activity implementation
+summary: Implements the share sheet activity that requests the desktop or mobile version of the current page via the web navigation browser agent.

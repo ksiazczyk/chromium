@@ -1,0 +1,4 @@
+# Docerion header of share_download_overlay_view_controller.mm.
+type: source
+title: Share download overlay view controller implementation
+summary: Builds the download overlay UI with a dimmed background, spinner, cancel label and gesture handling.

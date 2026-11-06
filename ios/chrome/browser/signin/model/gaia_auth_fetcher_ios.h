@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS Gaia auth fetcher header
+// summary: Declares the iOS specialization of GaiaAuthFetcher that authenticates users against the Google Accounts API using native APIs.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SIGNIN_MODEL_GAIA_AUTH_FETCHER_IOS_H_
 #define IOS_CHROME_BROWSER_SIGNIN_MODEL_GAIA_AUTH_FETCHER_IOS_H_
 

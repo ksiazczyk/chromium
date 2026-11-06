@@ -1,0 +1,4 @@
+# Docerion header of resized_avatar_cache_unittest.mm.
+type: test
+title: ResizedAvatarCache unit tests
+summary: Unit tests verifying default avatar behavior, avatar fetching, resizing, and cache clearing on memory warnings using fake identities.

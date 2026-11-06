@@ -1,0 +1,4 @@
+# Docerion header of activity_service_mediator_unittest.mm.
+type: test
+title: Activity service mediator unit tests
+summary: Unit tests for the activity service mediator, covering share activities, command handler mocks, preferences, and histogram metrics.

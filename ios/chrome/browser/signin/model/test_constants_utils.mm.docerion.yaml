@@ -1,0 +1,4 @@
+# Docerion header of test_constants_utils.mm.
+type: test
+title: Fake auth stay-signed-out button helper implementation
+summary: Returns the buttons that dismiss the fake authentication view while remaining signed out, differing by iOS version.

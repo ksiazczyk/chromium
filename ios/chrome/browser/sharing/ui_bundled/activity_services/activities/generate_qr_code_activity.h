@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Generate QR code activity header
+// summary: Declares GenerateQrCodeActivity, a share-menu activity that shows a QR code for a given URL via a QR generation command handler.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARING_UI_BUNDLED_ACTIVITY_SERVICES_ACTIVITIES_GENERATE_QR_CODE_ACTIVITY_H_
 #define IOS_CHROME_BROWSER_SHARING_UI_BUNDLED_ACTIVITY_SERVICES_ACTIVITIES_GENERATE_QR_CODE_ACTIVITY_H_
 

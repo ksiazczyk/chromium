@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the side swipe UI directory
+summary: Lists the headers and directories that code in the side swipe UI bundled directory is allowed to include.

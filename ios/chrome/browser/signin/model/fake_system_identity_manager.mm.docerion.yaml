@@ -1,0 +1,4 @@
+# Docerion header of fake_system_identity_manager.mm.
+type: source
+title: Fake system identity manager implementation
+summary: Implements a fake system identity manager that provides fake Google identities and access tokens for iOS Chrome tests.

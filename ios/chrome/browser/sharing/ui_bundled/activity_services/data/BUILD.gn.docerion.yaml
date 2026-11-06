@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Activity services data build definition
+summary: Defines the source_set targets, dependencies and frameworks for the activity services share data sources and their unit tests.

@@ -1,0 +1,4 @@
+# Docerion header of ai_tier_ring_image_view.mm.
+type: source
+title: AITierRingImageView implementation
+summary: Implements the ring image view using a CAShapeLayer even-odd mask that crops the image to a ring.

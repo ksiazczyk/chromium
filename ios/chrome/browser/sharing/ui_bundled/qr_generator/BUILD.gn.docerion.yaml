@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the QR generator
+summary: Defines GN source sets for the QR generator UI, coordinator, and unit tests, listing their sources, dependencies, and frameworks.

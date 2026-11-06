@@ -1,0 +1,4 @@
+# Docerion header of bookmark_activity_unittest.mm.
+type: test
+title: BookmarkActivity unit tests
+summary: Tests BookmarkActivity pref gating, nil bookmark model handling and activity titles using mocked handlers.

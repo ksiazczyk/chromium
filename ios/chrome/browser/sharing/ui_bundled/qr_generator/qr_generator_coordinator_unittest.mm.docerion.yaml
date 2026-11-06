@@ -1,0 +1,4 @@
+# Docerion header of qr_generator_coordinator_unittest.mm.
+type: test
+title: QR generator coordinator unit tests
+summary: Unit tests for QRGeneratorCoordinator that set up a test browser and OCMock command handlers to verify presentation and command behavior.

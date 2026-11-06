@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sign-in test accessibility identifier declarations
+// summary: Declares accessibility identifier constants for the fake authentication and account details views used in iOS sign-in tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SIGNIN_MODEL_TEST_CONSTANTS_H_
 #define IOS_CHROME_BROWSER_SIGNIN_MODEL_TEST_CONSTANTS_H_
 

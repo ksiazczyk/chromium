@@ -1,0 +1,4 @@
+# Docerion header of account_investigator_factory.mm.
+type: source
+title: AccountInvestigatorFactory implementation
+summary: Implements the factory that builds and initializes AccountInvestigator services with profile prefs and the identity manager.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the side swipe UI
+summary: Defines GN source sets for the side swipe UI, gesture recognizer, and unit and EG2 test targets together with their dependencies.

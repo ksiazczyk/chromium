@@ -1,0 +1,4 @@
+# Docerion header of test_account_info.mm.
+type: test
+title: TestAccountInfo implementation
+summary: Implements TestAccountInfo, a fake account object with preset test accounts and base64 encoding and decoding used by iOS sign-in tests.

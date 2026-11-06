@@ -1,0 +1,4 @@
+# Docerion header of identity_manager_factory.mm.
+type: source
+title: IdentityManagerFactory implementation
+summary: Implements the IdentityManager factory, building the identity manager with token service, account tracker and device accounts provider per profile.

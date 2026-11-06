@@ -1,0 +1,4 @@
+# Docerion header of authentication_service_observer_bridge.mm.
+type: source
+title: Authentication service observer bridge implementation
+summary: Implements the bridge that forwards OnServiceStatusChanged events from the authentication service to its Objective-C delegate.

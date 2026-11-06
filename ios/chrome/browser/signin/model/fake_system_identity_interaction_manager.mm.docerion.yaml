@@ -1,0 +1,4 @@
+# Docerion header of fake_system_identity_interaction_manager.mm.
+type: source
+title: Fake system identity interaction manager implementation
+summary: Implements a fake auth activity view with buttons to simulate sign-in flows, including a workaround for a UIKit dismissal bug.

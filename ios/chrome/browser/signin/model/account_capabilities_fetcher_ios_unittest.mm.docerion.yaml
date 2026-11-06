@@ -1,0 +1,4 @@
+# Docerion header of account_capabilities_fetcher_ios_unittest.mm.
+type: test
+title: Unit tests for the iOS account capabilities fetcher
+summary: Verifies that account capabilities fetched from fake system identities are converted and delivered correctly.

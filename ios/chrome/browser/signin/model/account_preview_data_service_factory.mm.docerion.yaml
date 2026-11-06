@@ -1,0 +1,4 @@
+# Docerion header of account_preview_data_service_factory.mm.
+type: source
+title: AccountPreviewDataServiceFactory implementation
+summary: Implements the AccountPreviewDataService factory, building the per-profile service when the account preview data feature is enabled.

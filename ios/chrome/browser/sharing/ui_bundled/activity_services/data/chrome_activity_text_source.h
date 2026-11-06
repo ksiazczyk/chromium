@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeActivityTextSource interface
+// summary: Declares ChromeActivityTextSource, an activity item source conforming to UTType public.text for sharing text.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARING_UI_BUNDLED_ACTIVITY_SERVICES_DATA_CHROME_ACTIVITY_TEXT_SOURCE_H_
 #define IOS_CHROME_BROWSER_SHARING_UI_BUNDLED_ACTIVITY_SERVICES_DATA_CHROME_ACTIVITY_TEXT_SOURCE_H_
 
