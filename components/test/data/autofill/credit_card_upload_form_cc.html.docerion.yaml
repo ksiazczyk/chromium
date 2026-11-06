@@ -1,0 +1,4 @@
+# Docerion header of credit_card_upload_form_cc.html.
+type: test
+title: Credit card upload test form with card only
+summary: Test page with a credit card form and buttons to fill default values or add extra fields, used for credit card upload autofill testing.

@@ -1,0 +1,4 @@
+# Docerion header of 110_checkout_harryanddavid.com.html.
+type: test
+title: Harry and David checkout page for autofill heuristics tests
+summary: Saved Harry and David checkout form with address, title, and company fields used as input for autofill field classification tests.

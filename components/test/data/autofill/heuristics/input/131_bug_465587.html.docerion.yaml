@@ -1,0 +1,4 @@
+# Docerion header of 131_bug_465587.html.
+type: test
+title: 'Autofill test input: bodybuilding.com checkout (bug 465587)'
+summary: Saved bodybuilding.com payment and review checkout page used as input for the autofill field detection test for bug 465587.

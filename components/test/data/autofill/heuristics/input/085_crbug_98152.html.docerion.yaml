@@ -1,0 +1,4 @@
+# Docerion header of 085_crbug_98152.html.
+type: test
+title: Walmart credit card payment form test input (crbug 98152)
+summary: Saved Walmart payment page with card type, number and expiration entry, used as input for autofill heuristic testing of crbug 98152.

@@ -1,0 +1,4 @@
+# Docerion header of 017_checkout_advanceautoparts.com.html.
+type: test
+title: Advance Auto Parts checkout page test fixture
+summary: Saved checkout page from advanceautoparts.com with login, billing and shipping forms, used as input for autofill heuristic tests.

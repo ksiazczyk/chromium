@@ -1,0 +1,4 @@
+# Docerion header of 145_hal-india.com.html.
+type: test
+title: HAL India feedback form fixture
+summary: Saved HAL India contact query form with category, name, email, and phone fields used as input for autofill heuristics tests.

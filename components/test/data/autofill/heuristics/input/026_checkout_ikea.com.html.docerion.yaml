@@ -1,0 +1,4 @@
+# Docerion header of 026_checkout_ikea.com.html.
+type: test
+title: IKEA billing address page
+summary: Saved IKEA billing address checkout page with name, address and state fields for autofill heuristic testing.

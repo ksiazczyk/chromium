@@ -1,0 +1,4 @@
+# Docerion header of 108_checkout_m_gap.com.html.
+type: test
+title: Gap mobile checkout shipping form test input
+summary: Captured Gap mobile checkout shipping address form used as input for autofill field heuristics tests.

@@ -1,0 +1,4 @@
+# Docerion header of 001_i18n_de2.html.
+type: test
+title: Second German autofill heuristics test form
+summary: HTML form with German labels in a different field order, used as input for autofill heuristics tests.

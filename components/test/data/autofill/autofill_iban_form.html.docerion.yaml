@@ -1,0 +1,4 @@
+# Docerion header of autofill_iban_form.html.
+type: test
+title: Autofill IBAN form
+summary: Test form with an IBAN field and a button that fills a sample IBAN value for local save tests.

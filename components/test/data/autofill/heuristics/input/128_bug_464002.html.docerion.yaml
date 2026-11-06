@@ -1,0 +1,4 @@
+# Docerion header of 128_bug_464002.html.
+type: test
+title: Autofill test page for bug 464002 (credit card form)
+summary: HTML fixture of a debit and credit card payment form used as input for autofill heuristics tests covering bug 464002.

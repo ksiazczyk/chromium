@@ -1,0 +1,4 @@
+# Docerion header of 184_otp.html.
+type: test
+title: OTP and verification code form test input
+summary: Test input form with email, OTP, verification code and one-time password fields for exercising autofill heuristics.

@@ -1,0 +1,4 @@
+# Docerion header of 000_i18n_de.html.
+type: test
+title: German autofill heuristics test form
+summary: HTML form with German labels for name, address, email, phone and card fields, used as input for autofill heuristics tests.

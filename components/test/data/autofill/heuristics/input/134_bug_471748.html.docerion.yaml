@@ -1,0 +1,4 @@
+# Docerion header of 134_bug_471748.html.
+type: test
+title: 'Autofill test input: Running Warehouse payment form (bug 471748)'
+summary: Saved Running Warehouse credit card payment form used as input for the autofill field detection test for bug 471748.

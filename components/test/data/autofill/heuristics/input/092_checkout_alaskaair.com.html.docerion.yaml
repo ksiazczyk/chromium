@@ -1,0 +1,4 @@
+# Docerion header of 092_checkout_alaskaair.com.html.
+type: test
+title: Alaska Airlines checkout page autofill test
+summary: Saved Alaska Airlines checkout page with traveler information, payment and credit card forms used as autofill heuristic test input.

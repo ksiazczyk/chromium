@@ -1,0 +1,4 @@
+# Docerion header of 173_i18n_pt_structured_address_2.html.
+type: test
+title: Portuguese i18n structured address test form 2
+summary: HTML form with Portuguese labels for personal, address, contact and card fields, used as autofill heuristics test input.

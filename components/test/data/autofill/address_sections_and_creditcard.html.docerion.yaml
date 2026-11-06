@@ -1,0 +1,4 @@
+# Docerion header of address_sections_and_creditcard.html.
+type: test
+title: Address sections and credit card form
+summary: Test page with shipping address, billing address and credit card fields in a single form.

@@ -1,0 +1,4 @@
+# Docerion header of 130_bug_465576.html.
+type: test
+title: Autofill test page for bug 465576 (NikeStore checkout)
+summary: HTML fixture of a NikeStore credit card checkout form used as input for autofill heuristics tests covering bug 465576.

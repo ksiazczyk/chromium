@@ -1,0 +1,4 @@
+# Docerion header of 031_checkout_macys.com.html.
+type: test
+title: Macy's shipping information page fixture
+summary: Saved Macy's shopping bag shipping information page used as input for autofill heuristic tests.

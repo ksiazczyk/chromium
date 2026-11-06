@@ -1,0 +1,4 @@
+# Docerion header of 149_checkout_qvc.com_non_hidden.html.
+type: test
+title: QVC shipping address form fixture
+summary: Saved QVC shipping address form with account and bill-to/ship-to fields used as input for autofill heuristics tests.

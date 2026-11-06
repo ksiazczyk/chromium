@@ -1,0 +1,4 @@
+# Docerion header of redirect_from.html.mock-http-headers.
+type: test
+title: Mock 301 redirect headers for redirect_from.html
+summary: Mock HTTP headers that make the test server respond to redirect_from.html with a 301 permanent redirect.

@@ -1,0 +1,4 @@
+# Docerion header of 177_reichelt.html.
+type: test
+title: Reichelt German contact form test input
+summary: German contact form from Reichelt with labeled and unlabeled inputs for address, contact and fax fields, used as autofill heuristics test input.

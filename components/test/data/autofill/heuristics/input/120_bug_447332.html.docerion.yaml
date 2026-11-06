@@ -1,0 +1,4 @@
+# Docerion header of 120_bug_447332.html.
+type: test
+title: Bug 447332 textarea labels form for autofill heuristics tests
+summary: Small form with labeled textareas used as autofill heuristics test input for bug 447332.

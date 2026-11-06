@@ -1,0 +1,4 @@
+# Docerion header of autofill_unowned_address_checkout.html.
+type: test
+title: Unowned address checkout form
+summary: Address checkout form without a form owner attribute, used in autofill tests.

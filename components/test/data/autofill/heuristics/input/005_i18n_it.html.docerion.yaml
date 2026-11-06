@@ -1,0 +1,4 @@
+# Docerion header of 005_i18n_it.html.
+type: test
+title: Italian autofill heuristics test form
+summary: HTML form with Italian labels for name, address and card fields, used as input for autofill heuristics tests.

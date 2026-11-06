@@ -1,0 +1,4 @@
+# Docerion header of 037_checkout_qvc.com.html.
+type: test
+title: QVC shipping address page fixture
+summary: Saved QVC shipping address checkout page used as input for autofill heuristic tests.

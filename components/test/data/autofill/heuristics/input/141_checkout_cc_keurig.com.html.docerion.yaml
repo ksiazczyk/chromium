@@ -1,0 +1,4 @@
+# Docerion header of 141_checkout_cc_keurig.com.html.
+type: test
+title: Keurig credit card checkout form fixture
+summary: Saved Keurig.com checkout payment form with card number, type, and expiry fields used as input for autofill heuristics tests.

@@ -1,0 +1,4 @@
+# Docerion header of 042_checkout_williams-sonoma.com.html.
+type: test
+title: Williams-Sonoma shipping information page test input
+summary: Saved Williams-Sonoma shipping information page with contact and address fields, used as input for autofill heuristics tests.

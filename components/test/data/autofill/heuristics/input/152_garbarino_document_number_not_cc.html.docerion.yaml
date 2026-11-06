@@ -1,0 +1,4 @@
+# Docerion header of 152_garbarino_document_number_not_cc.html.
+type: test
+title: Garbarino document number form test input
+summary: Spanish Garbarino checkout form testing that national document number fields are not classified as credit card numbers.

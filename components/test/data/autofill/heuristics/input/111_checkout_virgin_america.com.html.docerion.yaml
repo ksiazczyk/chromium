@@ -1,0 +1,4 @@
+# Docerion header of 111_checkout_virgin_america.com.html.
+type: test
+title: Virgin America checkout page for autofill heuristics tests
+summary: Saved Virgin America credit card checkout form with card number, cardholder name, and expiry fields used as autofill test input.

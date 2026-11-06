@@ -1,0 +1,4 @@
+# Docerion header of 093_checkout_m_walmart.com.html.
+type: test
+title: Walmart mobile checkout shipping address autofill test
+summary: Saved Walmart mobile checkout form for entering a new shipping address, used as autofill heuristic test input.

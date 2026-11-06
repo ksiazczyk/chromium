@@ -1,0 +1,4 @@
+# Docerion header of 008_i18n_pt.html.
+type: test
+title: Portuguese autofill heuristics test form
+summary: HTML form with Portuguese labels for name, address and card fields, used as input for autofill heuristics tests.

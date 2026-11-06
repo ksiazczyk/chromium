@@ -1,0 +1,4 @@
+# Docerion header of 119_bug_465571.html.
+type: test
+title: Bug 465571 checkout form for autofill heuristics tests
+summary: Saved checkout form with name, address, state, zip, and phone fields used as autofill heuristics test input for bug 465571.

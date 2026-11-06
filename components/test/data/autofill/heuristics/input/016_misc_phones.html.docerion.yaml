@@ -1,0 +1,4 @@
+# Docerion header of 016_misc_phones.html.
+type: test
+title: Miscellaneous phone field layouts test form
+summary: Form with various phone number field layouts, including split area codes, extensions and parenthesized formats, for autofill heuristic tests.

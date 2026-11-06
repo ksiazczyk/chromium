@@ -1,0 +1,4 @@
+# Docerion header of 146_checkout_store.scholastic.com.html.
+type: test
+title: Scholastic store shipping address form fixture
+summary: Saved Scholastic store shipping address form with name, address, city, and state fields used as autofill heuristics test input.

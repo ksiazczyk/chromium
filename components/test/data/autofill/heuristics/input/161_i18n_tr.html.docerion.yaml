@@ -1,0 +1,4 @@
+# Docerion header of 161_i18n_tr.html.
+type: test
+title: Autofill heuristics test form with Turkish labels
+summary: HTML form with Turkish labels for address, name, email and phone used as input for autofill field classification tests.

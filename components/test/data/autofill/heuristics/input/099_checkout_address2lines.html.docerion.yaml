@@ -1,0 +1,4 @@
+# Docerion header of 099_checkout_address2lines.html.
+type: test
+title: Two-line address checkout autofill test
+summary: Profile autofill checkout form with name, two address lines, city, state, zip and email fields used as heuristic test input.

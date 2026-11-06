@@ -1,0 +1,4 @@
+# Docerion header of 003_i18n_es.html.
+type: test
+title: Spanish autofill heuristics test form
+summary: HTML form with Spanish labels for address and card fields, including search-type expiration inputs, for autofill heuristics tests.

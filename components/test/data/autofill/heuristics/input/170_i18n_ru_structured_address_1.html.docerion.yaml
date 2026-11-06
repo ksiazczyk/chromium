@@ -1,0 +1,4 @@
+# Docerion header of 170_i18n_ru_structured_address_1.html.
+type: test
+title: Russian autofill test form with structured address fields
+summary: Russian form fixture with separate house and street fields to test autofill classification of structured addresses.

@@ -1,0 +1,4 @@
+# Docerion header of 163_giftcard_hotels.com.html.
+type: test
+title: Hotels.com checkout page with gift card payment test input
+summary: Saved Hotels.com checkout page with gift card and card payment fields serving as test input for autofill heuristics.

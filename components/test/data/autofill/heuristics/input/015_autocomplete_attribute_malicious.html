@@ -1,3 +1,9 @@
+<!--docerion
+type: test
+title: Malicious autocomplete attribute test form
+summary: Form with an extremely long autocomplete attribute value to verify autofill parsing does not choke on malicious input.
+-->
+
 <!-- We should not choke on a maliciously long attribute value. -->
 <form action="autocompletetype.html" method="post">
   <input id="name" autocomplete="name"><br>

@@ -1,0 +1,4 @@
+# Docerion header of 140_checkout_nike.com.html.
+type: test
+title: 'Autofill test input: Nike.com checkout shipping form'
+summary: Saved Nike.com checkout shipping address form used as input for autofill field detection tests.

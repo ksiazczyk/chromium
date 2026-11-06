@@ -1,0 +1,4 @@
+# Docerion header of 024_checkout_homedepot.com.html.
+type: test
+title: Home Depot shipping info page
+summary: Saved Home Depot shipping info page with address form fields for autofill heuristic testing.

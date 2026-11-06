@@ -1,0 +1,4 @@
+# Docerion header of credit_card_upload_form_address_and_cc.html.
+type: test
+title: Credit card upload test form with address and card
+summary: Test page combining address and credit card fields with buttons to fill, clear, and modify values for credit card upload autofill testing.

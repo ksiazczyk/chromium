@@ -1,0 +1,4 @@
+# Docerion header of 009_i18n_ru.html.
+type: test
+title: Russian autofill heuristics test form
+summary: HTML form with Russian labels for name, address and card fields, used as input for autofill heuristics tests.

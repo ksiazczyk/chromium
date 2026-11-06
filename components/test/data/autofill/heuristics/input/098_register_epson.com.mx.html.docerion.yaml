@@ -1,0 +1,4 @@
+# Docerion header of 098_register_epson.com.mx.html.
+type: test
+title: Epson Mexico product registration autofill test
+summary: Saved Epson Mexico product registration form in Spanish with country, serial number and user account fields used as autofill heuristic test input.

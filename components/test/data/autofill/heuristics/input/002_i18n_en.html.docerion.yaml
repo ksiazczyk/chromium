@@ -1,0 +1,4 @@
+# Docerion header of 002_i18n_en.html.
+type: test
+title: English autofill heuristics test form
+summary: HTML form with English labels for name, address, contact and card fields, used as input for autofill heuristics tests.

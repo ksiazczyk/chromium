@@ -1,0 +1,4 @@
+# Docerion header of 126_bug_463856.html.
+type: test
+title: Autofill test page for bug 463856 (Google+ inputs)
+summary: Small HTML fixture with Google+ style text inputs used as input for autofill heuristics tests covering bug 463856.

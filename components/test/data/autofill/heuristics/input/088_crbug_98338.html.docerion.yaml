@@ -1,0 +1,4 @@
+# Docerion header of 088_crbug_98338.html.
+type: test
+title: Victoria's Secret gift card checkout test input (crbug 98338)
+summary: Saved Victoria's Secret checkout page with gift card number, PIN and credit card fields, used as input for autofill heuristic testing of crbug 98338.

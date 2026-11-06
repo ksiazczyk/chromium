@@ -1,0 +1,4 @@
+# Docerion header of 175_id_address_alfacart.com.html.
+type: test
+title: Alfacart Indonesian address form test input
+summary: Captured Alfacart address form in Indonesian with province, city, district and village selects, used as autofill heuristics test input.

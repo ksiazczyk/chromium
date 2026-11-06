@@ -1,0 +1,4 @@
+# Docerion header of 096_llbean.html.
+type: test
+title: L.L.Bean shipping form autofill test
+summary: L.L.Bean shipping form with country-dependent fields for the US, Canada and Japan, used as autofill heuristic test input.

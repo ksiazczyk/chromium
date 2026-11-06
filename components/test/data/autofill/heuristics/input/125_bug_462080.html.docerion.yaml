@@ -1,0 +1,4 @@
+# Docerion header of 125_bug_462080.html.
+type: test
+title: Autofill test page for bug 462080 (Google Slides sharing)
+summary: HTML fixture of a Google Slides sharing dialog used as input for autofill heuristics tests covering bug 462080.

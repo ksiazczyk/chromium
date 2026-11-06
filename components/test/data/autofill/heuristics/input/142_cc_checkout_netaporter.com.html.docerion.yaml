@@ -1,0 +1,4 @@
+# Docerion header of 142_cc_checkout_netaporter.com.html.
+type: test
+title: Net-a-Porter credit card payment form fixture
+summary: Saved Net-a-Porter payment details form with card type radios and card fields used as input for autofill heuristics tests.

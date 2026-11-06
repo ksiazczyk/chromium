@@ -1,0 +1,4 @@
+# Docerion header of autofill_unowned_credit_card_checkout.html.
+type: test
+title: Unowned credit card checkout test form
+summary: HTML test page with a credit card checkout form (name, number, expiry, CVC) used to test autofill in unowned checkout scenarios.

@@ -1,0 +1,4 @@
+# Docerion header of redirect_from.html.
+type: test
+title: Redirect source page for ads observer tests
+summary: Empty page that the test server answers with a 301 redirect when ads observer tests request it.

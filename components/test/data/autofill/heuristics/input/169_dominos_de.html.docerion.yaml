@@ -1,0 +1,4 @@
+# Docerion header of 169_dominos_de.html.
+type: test
+title: Domino's Germany delivery form test input
+summary: German Domino's delivery form fixture with postcode, street name and house number fields for autofill heuristics tests.
