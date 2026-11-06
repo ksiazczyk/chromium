@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Test helpers for telemetry run options
+# summary: Provides GetRunOptions, augmenting telemetry test options with results_processor defaults.
+# ---
+
 from core.results_processor import command_line
 
 from telemetry.testing import options_for_unittests

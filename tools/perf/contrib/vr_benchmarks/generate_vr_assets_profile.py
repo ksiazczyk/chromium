@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: script
+# title: VR assets profile generator for Telemetry tests
+# summary: Generates a Chrome profile directory with the required VR asset files and a manifest so Telemetry tests can use VR assets.
+# ---
+
 
 """Generates a Chrome profile that allows VR asset use in Telemetry tests.
 

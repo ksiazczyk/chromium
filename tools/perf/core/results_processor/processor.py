@@ -1,6 +1,13 @@
 # Copyright 2019 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Results Processor core logic
+# summary: Processes intermediate test results into requested output formats and provides the standalone entry point of Results Processor.
+# ---
+
 """Implements the interface of the results_processor module.
 
 Provides functions to process intermediate results, and the entry point to

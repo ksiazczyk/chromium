@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: JSON Test Results Format v3 output formatter
+# summary: Converts intermediate test results into the JSON Test Results Format and writes test-results.json with statuses, shards, times and artifacts.
+# ---
+
 """Output formatter for JSON Test Results Format.
 
 Format specification:

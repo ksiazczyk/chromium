@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Base class for power tracing benchmarks
+# summary: Shared base class that applies each benchmark's trace config to timeline-based measurement options on Android.
+# ---
+
 from core.perf_benchmark import PerfBenchmark
 from telemetry.web_perf import timeline_based_measurement
 

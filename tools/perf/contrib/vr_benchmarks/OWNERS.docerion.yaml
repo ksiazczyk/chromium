@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the VR benchmarks directory
+summary: Lists the users responsible for reviewing changes to the VR benchmarks code.

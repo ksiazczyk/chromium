@@ -1,0 +1,4 @@
+# Docerion header of web_tests_cuj.csv.
+type: config
+title: web_tests_cuj bot schedule
+summary: Schedules the web_tests_cuj benchmark on a single Android brya perf bot.

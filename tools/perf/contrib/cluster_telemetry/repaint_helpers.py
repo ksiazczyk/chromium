@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Repaint helpers for CT benchmarks
+# summary: Provides helper functions that wait for page load and run the invalidation micro benchmark to trigger continuous repaints.
+# ---
+
 from telemetry.page import legacy_page_test
 
 

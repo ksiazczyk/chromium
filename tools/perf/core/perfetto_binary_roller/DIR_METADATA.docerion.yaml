@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Bug tracking metadata for the Speed>Tracing component
+summary: Maps the directory to the Speed>Tracing monorail component and Buganizer component 1457213.

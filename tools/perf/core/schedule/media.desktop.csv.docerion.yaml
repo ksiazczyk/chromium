@@ -1,0 +1,4 @@
+# Docerion header of media.desktop.csv.
+type: config
+title: Desktop media benchmark bot schedule
+summary: Maps desktop perf bots to repeat and shard counts for scheduling media performance benchmarks.

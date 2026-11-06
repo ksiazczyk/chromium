@@ -1,0 +1,4 @@
+# Docerion header of blink_perf.webgpu_compat.csv.
+type: data
+title: blink_perf.webgpu_compat benchmark schedule
+summary: Schedule listing the Android perf bots with repeat and shard counts used to run the blink_perf.webgpu_compat benchmark.

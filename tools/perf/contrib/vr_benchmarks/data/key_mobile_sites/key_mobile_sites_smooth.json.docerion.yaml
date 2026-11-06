@@ -1,0 +1,4 @@
+# Docerion header of key_mobile_sites_smooth.json.
+type: data
+title: key_mobile_sites_smooth archive mapping
+summary: Maps named mobile site stories such as amazon and youtube to their web page replay archives for VR benchmark smoothness testing.

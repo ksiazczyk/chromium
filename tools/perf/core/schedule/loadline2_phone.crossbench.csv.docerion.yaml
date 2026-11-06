@@ -1,0 +1,4 @@
+# Docerion header of loadline2_phone.crossbench.csv.
+type: config
+title: Loadline2 phone crossbench bot schedule
+summary: Maps Android phone perf bots to repeat, shard and flag settings for the Loadline2 phone crossbench benchmark.

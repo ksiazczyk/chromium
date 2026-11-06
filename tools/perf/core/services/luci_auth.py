@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: LUCI authentication helper
+# summary: Wrapper around the luci-auth command-line tool to check login status, obtain access tokens, and read the user's email.
+# ---
+
 import re
 import subprocess
 import sys

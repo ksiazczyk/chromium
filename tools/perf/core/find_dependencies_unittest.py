@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Unit tests for dependency discovery
+# summary: Unit tests verifying that Python dependency discovery correctly finds nested module imports in test fixture directories.
+# ---
+
 import os
 import unittest
 

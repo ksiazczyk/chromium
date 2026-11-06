@@ -1,0 +1,4 @@
+# Docerion header of ct_benchmarks_util.py.
+type: source
+title: Shared command-line argument helpers for CT benchmarks
+summary: Adds and validates the common benchmark options user agent, archive data file and URL list used by Cluster Telemetry benchmarks.

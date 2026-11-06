@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Base class for benchmarks with Perfetto CPU profiling
+# summary: Convenience superclass that automatically enables Perfetto callstack sampling for benchmarks running on Android browsers.
+# ---
+
 from core.perf_benchmark import PerfBenchmark
 from telemetry.timeline.chrome_trace_config import ChromeTraceConfig
 

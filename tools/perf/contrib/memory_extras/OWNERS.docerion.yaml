@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for memory_extras
+summary: Lists etienneb@chromium.org as the owner responsible for the memory_extras tools directory.

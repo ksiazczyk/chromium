@@ -1,0 +1,4 @@
+# Docerion header of retrieve_story_timing.py.
+type: script
+title: Story timing retrieval from BigQuery
+summary: Fetches per-story timing data from the chrome-luci-data BigQuery tables for use in benchmark sharding.

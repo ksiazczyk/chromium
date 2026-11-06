@@ -1,6 +1,13 @@
 # Copyright 2018 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: test
+# title: results_dashboard unit tests
+# summary: Unit tests for results_dashboard verifying retry behavior, fatal error handling, and successful uploads to the performance dashboard.
+# ---
+
 import json
 import logging
 import sys

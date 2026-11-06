@@ -1,0 +1,4 @@
+# Docerion header of blink_perf.events.csv.
+type: data
+title: blink_perf.events schedule
+summary: Schedule mapping Android, Linux, Mac, and Windows perf bots to repeat and shard counts for the blink_perf.events benchmark.

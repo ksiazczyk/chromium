@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: PerfBenchmark unit tests
+# summary: Unit tests for the PerfBenchmark base class covering ad tagging profile file copying and field trial variation argument handling across platforms.
+# ---
+
 import os
 import json
 import shutil

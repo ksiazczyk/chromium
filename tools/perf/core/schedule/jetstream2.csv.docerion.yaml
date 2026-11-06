@@ -1,0 +1,4 @@
+# Docerion header of jetstream2.csv.
+type: config
+title: JetStream2 bot schedule
+summary: Maps perf bots to repeat and shard counts for scheduling the JetStream2 benchmark across desktop and Android devices.

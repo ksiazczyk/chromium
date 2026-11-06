@@ -1,0 +1,4 @@
+# Docerion header of power.desktop.csv.
+type: data
+title: Power desktop benchmark bot schedule
+summary: Schedules the power desktop benchmark across perf bots with repeat and shard counts.

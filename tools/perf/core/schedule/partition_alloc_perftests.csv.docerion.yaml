@@ -1,0 +1,4 @@
+# Docerion header of partition_alloc_perftests.csv.
+type: data
+title: PartitionAlloc perftests bot schedule
+summary: Schedules PartitionAlloc perftests across Linux, Mac and Windows perf bots with repeat and shard counts.

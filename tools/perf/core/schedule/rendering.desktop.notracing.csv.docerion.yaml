@@ -1,0 +1,4 @@
+# Docerion header of rendering.desktop.notracing.csv.
+type: config
+title: Rendering desktop benchmark schedule (no tracing)
+summary: Lists desktop perf bots with repeat and shard counts for running the rendering benchmark without tracing.

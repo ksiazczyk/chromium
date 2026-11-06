@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: BlinkPerfAll benchmark for blink perf tests
+# summary: Defines the BlinkPerfAll benchmark, which runs all Blink Perf tests in a directory chosen via the --test-path command line argument.
+# ---
+
 from __future__ import print_function
 
 import os

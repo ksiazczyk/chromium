@@ -1,0 +1,4 @@
+# Docerion header of shell.embedder.crossbench.csv.
+type: config
+title: Crossbench embedder shell benchmark schedule
+summary: Schedules WebView embedder shell startup benchmarks on Android bots, including per-bot crossbench flags for probes, CUJ configs, and repetitions.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build target for the upload_trace_processor wrapper
+summary: Defines the generate_wrapper build target that runs upload_trace_processor.py with the path to the trace_processor_shell binary.

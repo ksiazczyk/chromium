@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: WebVR and WebXR performance benchmark definitions
+# summary: Defines Telemetry benchmarks measuring WebXR and WebVR performance with memory, GPU, and VR-specific trace metrics.
+# ---
+
 from benchmarks import memory
 from core import perf_benchmark
 from core import platforms

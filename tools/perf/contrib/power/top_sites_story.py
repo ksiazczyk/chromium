@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Top sites page definitions for power stories
+# summary: Defines page classes for popular websites with navigation, scrolling and cookie-consent handling used to build power benchmark stories.
+# ---
+
 import sys
 import inspect
 import os

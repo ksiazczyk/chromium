@@ -1,0 +1,4 @@
+# Docerion header of gma.embedder.crossbench.csv.
+type: config
+title: GMA embedder crossbench benchmark schedule
+summary: Defines per-bot flags for running the GMA embedder crossbench benchmark with WebView test app setup, teardown, and probe configurations.

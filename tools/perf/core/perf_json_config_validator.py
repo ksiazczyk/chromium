@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Perf JSON config validator
+# summary: Validates generated perf builder configurations by checking swarming dimensions, perf pools, browser types, and shard map data.
+# ---
+
 import argparse
 import os
 import json

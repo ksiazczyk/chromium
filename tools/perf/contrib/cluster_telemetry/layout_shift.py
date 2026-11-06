@@ -1,6 +1,13 @@
 # Copyright 2021 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Layout shift Cluster Telemetry benchmark
+# summary: Defines the layout_shift.cluster_telemetry benchmark that measures loading metrics with mobile emulation and a configurable wait.
+# ---
+
 from contrib.cluster_telemetry import loading_base_ct
 from contrib.cluster_telemetry import page_set
 

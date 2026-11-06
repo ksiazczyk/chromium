@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Perf bot platform definitions
+# summary: Defines perf bot platforms with their benchmark configurations, shard maps, timing files, and crossbench scheduling settings.
+# ---
+
 from __future__ import annotations
 
 

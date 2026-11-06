@@ -1,6 +1,13 @@
 # Copyright 2018 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: V8 loading runtime stats Cluster Telemetry benchmark
+# summary: Defines the v8.loading_runtime_stats.cluster_telemetry benchmark, a loading-based Cluster Telemetry benchmark that enables V8 runtime call stats metrics in timeline-based measurement.
+# ---
+
 from benchmarks import v8_helper
 from contrib.cluster_telemetry import loading_base_ct
 from telemetry.web_perf import timeline_based_measurement

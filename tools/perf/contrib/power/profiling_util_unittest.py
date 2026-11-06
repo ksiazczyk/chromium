@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Unit tests for the Perfetto profiling helpers
+# summary: Unit tests for profiling_util that mock traceconv subprocess calls to verify trace symbolization and pprof profile generation behavior.
+# ---
+
 import os
 import shutil
 import tempfile

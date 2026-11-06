@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Unit tests for Cluster Telemetry benchmarks
+# summary: Verifies argument handling and page set creation for CT benchmarks such as rasterize_and_record_micro and skpicture_printer.
+# ---
+
 import unittest
 
 from telemetry.page import shared_page_state

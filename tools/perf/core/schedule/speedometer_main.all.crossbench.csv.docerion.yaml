@@ -1,0 +1,4 @@
+# Docerion header of speedometer_main.all.crossbench.csv.
+type: config
+title: Speedometer main all crossbench bot schedule
+summary: Schedules the speedometer_main.all crossbench benchmark on a small set of desktop perf bots with repeat and shard counts.

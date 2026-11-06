@@ -1,0 +1,4 @@
+# Docerion header of rendering.mobile.csv.
+type: config
+title: Rendering mobile benchmark schedule
+summary: Lists Android perf bots with repeat and shard counts for running the mobile rendering benchmark.

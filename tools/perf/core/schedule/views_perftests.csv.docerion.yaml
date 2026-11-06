@@ -1,0 +1,4 @@
+# Docerion header of views_perftests.csv.
+type: config
+title: views_perftests bot schedule
+summary: Schedules views perftests on Linux, macOS, and Windows perf bots with repeat and shard counts.

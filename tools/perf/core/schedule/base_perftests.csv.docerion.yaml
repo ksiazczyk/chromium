@@ -1,0 +1,4 @@
+# Docerion header of base_perftests.csv.
+type: data
+title: base_perftests schedule
+summary: Schedule listing perf bots across Linux, Mac, and Windows with repeat, shard, and estimated runtime values for running the base perftests.

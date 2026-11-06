@@ -1,6 +1,13 @@
 # Copyright 2017 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: test
+# title: Unit tests for story expectation validator
+# summary: Tests story name validation and mobile/desktop tag checks using fake benchmarks and parsed expectations.
+# ---
+
 import unittest
 
 from core import story_expectation_validator

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Google Cloud Storage helper via gsutil
+# summary: Wraps the gsutil binary to copy files and open cloud storage paths for writing through temporary local files.
+# ---
+
 import contextlib
 import os
 import shutil

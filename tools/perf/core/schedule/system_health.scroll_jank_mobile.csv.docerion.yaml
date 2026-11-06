@@ -1,0 +1,4 @@
+# Docerion header of system_health.scroll_jank_mobile.csv.
+type: config
+title: System health scroll jank mobile bot schedule
+summary: Schedules the system health scroll jank benchmark on a single Android perf bot with one repeat.

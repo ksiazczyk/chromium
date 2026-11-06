@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Gitignore rules for VR benchmark data
+# summary: Keeps Web Page Replay archives and fetched-binary timestamps out of version control in the VR benchmarks data directory.
+# ---
+
 *.wpr
 *.wprgo
 

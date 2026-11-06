@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: path_util unit tests
+# summary: Unit tests verifying that the SysPath context manager in path_util appends a directory to sys.path and restores it afterwards.
+# ---
+
 import sys
 import unittest
 

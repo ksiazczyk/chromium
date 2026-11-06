@@ -1,6 +1,13 @@
 # Copyright 2015 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: test
+# title: Unit tests for benchmark discovery helpers
+# summary: Verifies that benchmark names are correctly listed for simple and complex benchmark files under test_data.
+# ---
+
 import os
 import unittest
 

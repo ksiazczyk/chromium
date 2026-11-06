@@ -1,0 +1,4 @@
+# Docerion header of webrtc.csv.
+type: config
+title: WebRTC benchmark bot schedule
+summary: Lists the perf bots that run the WebRTC benchmark, with repeat and shard counts for each machine.

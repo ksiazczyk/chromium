@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Python dependency discovery for benchmark scripts
+# summary: Finds Python and bootstrap dependencies of a module for packaging, filtering out hidden files, compiled files, and cloud storage placeholders.
+# ---
+
 from __future__ import print_function
 
 import collections

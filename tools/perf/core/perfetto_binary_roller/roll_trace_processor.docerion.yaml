@@ -1,0 +1,4 @@
+# Docerion header of roll_trace_processor.
+type: script
+title: Script to roll the trace_processor_shell binary version
+summary: Command-line tool to switch the trace_processor_shell version in use or print the latest Chromium, latest Perfetto or current cloud path.

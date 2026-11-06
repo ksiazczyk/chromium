@@ -1,0 +1,4 @@
+# Docerion header of upload_trace_processor.py.
+type: script
+title: Upload Trace Processor Binary Script
+summary: Uploads the trace_processor_shell binary to binary dependencies storage, inferring the Perfetto revision from the DEPS file when not given.

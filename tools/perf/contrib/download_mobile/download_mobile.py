@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Download mobile power benchmark
+# summary: Defines the download.mobile Chromium benchmark measuring power impact of downloading one 4M file versus ten 400K files on Android.
+# ---
+
 import os
 import time
 

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Lists hiroshige@chromium.org as the owner responsible for reviewing changes in this benchmark directory.

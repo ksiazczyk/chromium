@@ -1,0 +1,4 @@
+# Docerion header of rendering.desktop.csv.
+type: data
+title: Rendering desktop benchmark bot schedule
+summary: Schedules the rendering desktop benchmark across perf bots, including an abridged flag for select machines.

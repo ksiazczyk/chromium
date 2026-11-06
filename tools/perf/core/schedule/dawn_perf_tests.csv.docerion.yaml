@@ -1,0 +1,4 @@
+# Docerion header of dawn_perf_tests.csv.
+type: config
+title: Dawn perf tests bot schedule
+summary: Lists Linux, Mac, and Windows perf bots with estimated runtimes for scheduling Dawn performance test runs.

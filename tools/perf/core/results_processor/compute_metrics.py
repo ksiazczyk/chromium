@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: TBMv2 and TBMv3 metrics computation
+# summary: Computes TBMv2 and TBMv3 performance metrics on aggregated traces of test results, handling failures and oversized traces.
+# ---
+
 import logging
 import os
 import time

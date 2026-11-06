@@ -1,6 +1,13 @@
 # Copyright 2018 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Orderfile generation and testing benchmarks
+# summary: Defines benchmark story sets for generating and testing Chrome orderfiles, with training, testing, variation and debugging runs based on mobile system health stories.
+# ---
+
 """ Orderfile Generation and Testing
 
 This provides a suite of benchmarks for orderfile generation and testing based

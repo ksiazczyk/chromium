@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Issue tracker and team metadata for VR benchmarks
+summary: Declares the monorail component, team email, and Buganizer component associated with the VR benchmarks directory.

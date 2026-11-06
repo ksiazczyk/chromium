@@ -1,0 +1,4 @@
+# Docerion header of blink_perf.svg.csv.
+type: data
+title: blink_perf.svg benchmark schedule
+summary: Schedule listing the Linux perf bots, repeat counts and shard counts used to run the blink_perf.svg benchmark.

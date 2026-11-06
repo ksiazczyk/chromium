@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: HTML results output formatter
+# summary: Renders histogram dicts into an HTML results viewer page named results.html using the vulcanized histograms viewer.
+# ---
+
 """Output formatter for HTML Results format."""
 
 import codecs

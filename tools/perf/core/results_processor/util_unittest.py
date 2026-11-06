@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Unit tests for the util module
+# summary: Unit tests verifying that ApplyInParallel applies a function to all work items and correctly invokes the on_failure callback when an exception occurs.
+# ---
+
 import unittest
 
 from core.results_processor import util

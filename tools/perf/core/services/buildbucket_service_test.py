@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Buildbucket service unit tests
+# summary: Unit tests verifying request parameters for the Buildbucket service's GetBuild and GetBuilds functions.
+# ---
+
 import unittest
 from unittest import mock
 

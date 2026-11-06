@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: SKPicture printer Cluster Telemetry benchmarks
+# summary: Defines skpicture_printer and skpicture_printer_ct benchmarks that capture SKP files for pages from a named page set, with the CT variant using Cluster Telemetry page sets and repaint helpers.
+# ---
+
 from core import perf_benchmark
 
 from contrib.cluster_telemetry import ct_benchmarks_util

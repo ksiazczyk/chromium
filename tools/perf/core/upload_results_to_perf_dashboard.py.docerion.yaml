@@ -1,0 +1,4 @@
+# Docerion header of upload_results_to_perf_dashboard.py.
+type: script
+title: Upload results to the performance dashboard
+summary: Command-line script that reads benchmark results files, builds dashboard JSON with revision and build diagnostics, and uploads it to the Chrome performance dashboard.

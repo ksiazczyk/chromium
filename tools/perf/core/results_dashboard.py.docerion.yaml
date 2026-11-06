@@ -1,0 +1,4 @@
+# Docerion header of results_dashboard.py.
+type: source
+title: Performance dashboard upload helper
+summary: Functions for sending benchmark results and histograms to the Chrome Performance Dashboard, with LUCI authentication and retry handling.

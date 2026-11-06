@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Manager for Perfetto binary dependencies in cloud storage
+# summary: Python module that uploads, fetches and switches Perfetto binaries between Chromium and Perfetto cloud prebuilts per host platform.
+# ---
+
 import json
 import os
 import posixpath

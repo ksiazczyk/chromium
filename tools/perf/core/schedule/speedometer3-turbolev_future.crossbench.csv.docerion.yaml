@@ -1,0 +1,4 @@
+# Docerion header of speedometer3-turbolev_future.crossbench.csv.
+type: config
+title: Speedometer 3 Turbolev future crossbench schedule
+summary: Schedules the future Speedometer 3 Turbolev crossbench variant on desktop bots, with live-network flags on some Mac configurations.

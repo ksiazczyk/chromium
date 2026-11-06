@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Pinpoint service client
+# summary: Client for the Pinpoint API to look up jobs, list jobs, and create new performance jobs.
+# ---
+
 from core.services import luci_auth
 from core.services import request
 

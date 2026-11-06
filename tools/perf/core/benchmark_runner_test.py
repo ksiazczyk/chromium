@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Tests for the benchmark runner
+# summary: Unit and integration tests for benchmark_runner.main, covering return codes and end-to-end benchmark runs with results processing.
+# ---
+
 import json
 import os
 import shutil

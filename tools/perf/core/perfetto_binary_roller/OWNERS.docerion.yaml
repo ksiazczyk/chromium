@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the perfetto_binary_roller directory
+summary: Lists code owners and grants binary_deps.json update rights to the Chromium autoroller account.

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Tab crash stack trace tests
+# summary: Telemetry tests verifying valid crash dumps, crash symbols and breakpad file handling for tab stack traces.
+# ---
+
 import tempfile
 import os
 

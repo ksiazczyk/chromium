@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Ad tagging Cluster Telemetry benchmark
+# summary: Defines a benchmark that records ad tagging UMA histograms plus CPU and memory usage during page loads on Cluster Telemetry.
+# ---
+
 from benchmarks import memory
 from contrib.cluster_telemetry import ct_benchmarks_util, page_set
 from core import perf_benchmark

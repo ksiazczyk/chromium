@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for cluster telemetry benchmarks
+summary: Lists default and per-file code owners for the Cluster Telemetry benchmark directory in Chromium's tools/perf.

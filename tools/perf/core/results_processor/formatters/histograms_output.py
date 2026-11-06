@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: HistogramSet JSON output formatter
+# summary: Writes histogram dicts in the HistogramSet JSON format to histograms.json, merging with existing results unless a reset is requested.
+# ---
+
 """Output formatter for HistogramSet Results Format.
 
 Format specification:

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Perf callstack profiling benchmark for Android
+# summary: Defines the contrib.power.perf_profile benchmark capturing perf callstack samples with kernel frames on mobile system health stories.
+# ---
+
 import contrib.power.stories as stories
 from contrib.power.power_perf_benchmark_base import PowerPerfBenchmarkBase
 from core import platforms

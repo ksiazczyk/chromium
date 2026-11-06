@@ -1,0 +1,4 @@
+# Docerion header of components_perftests.csv.
+type: config
+title: Components perftests bot schedule
+summary: Lists Android, Linux, and Windows perf bots with estimated runtimes for scheduling components perftests runs.

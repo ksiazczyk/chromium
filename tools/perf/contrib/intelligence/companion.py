@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Companion benchmark
+# summary: Defines the contrib.companion performance benchmark that measures the Companion side panel on desktop with a dedicated story set and benchmarking browser options.
+# ---
+
 from core import perf_benchmark
 from core import platforms
 

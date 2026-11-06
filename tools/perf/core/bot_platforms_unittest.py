@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Unit tests for perf bot platforms
+# summary: Tests schedule file loading, repeat and flag handling, and crossbench configuration behavior for bot platforms.
+# ---
+
 import unittest
 import re
 import tempfile

@@ -1,0 +1,4 @@
+# Docerion header of update_power_profile.py.
+type: script
+title: Update Power Profile Data Script
+summary: Extracts CPU cluster, speed and power values from device XML files and uploads a regenerated power profile SQL data file via binary_deps_manager.

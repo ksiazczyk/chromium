@@ -1,0 +1,4 @@
+# Docerion header of blink_perf.paint.csv.
+type: data
+title: blink_perf.paint benchmark schedule
+summary: Schedule listing the Linux perf bots, repeat counts and shard counts used to run the blink_perf.paint benchmark.
