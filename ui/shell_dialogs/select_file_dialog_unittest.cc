@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Select file dialog unit tests
+// summary: Unit tests for select file dialog helpers, mainly checking that overly long file names are shortened to the 255-character limit.
+// ---
+
 #include "ui/shell_dialogs/select_file_dialog.h"
 
 #include <stddef.h>

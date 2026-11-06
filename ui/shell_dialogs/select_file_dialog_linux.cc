@@ -4,6 +4,12 @@
 //
 // This file implements common select dialog functionality between GTK and KDE.
 
+// ---docerion
+// type: source
+// title: Linux select file dialog common code
+// summary: Implements functionality shared by the GTK and KDE Linux file dialogs, including tracking of last opened and saved paths.
+// ---
+
 #include "ui/shell_dialogs/select_file_dialog_linux.h"
 
 #include "base/files/file_util.h"

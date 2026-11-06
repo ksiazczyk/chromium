@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux select file dialog factory
+// summary: Creates the Linux select file dialog, preferring the DBus portal dialog when available and otherwise delegating to the Linux UI layer.
+// ---
+
 #include "base/notreached.h"
 #include "build/config/linux/dbus/buildflags.h"
 #include "ui/linux/linux_ui.h"

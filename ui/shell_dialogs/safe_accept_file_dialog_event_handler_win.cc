@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe accept handler for Windows file dialogs
+// summary: Implements an IFileDialogEvents handler that blocks accidental immediate acceptance and Enter keyjacking of Windows file dialogs.
+// ---
+
 #include "ui/shell_dialogs/safe_accept_file_dialog_event_handler_win.h"
 
 #include <windows.h>

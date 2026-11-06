@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build rules for the snapshot component and its unit tests
+summary: GN build file defining the snapshot component with platform-specific sources and dependencies, plus the snapshot_unittests test target.

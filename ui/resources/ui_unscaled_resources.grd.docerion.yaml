@@ -1,0 +1,4 @@
+# Docerion header of ui_unscaled_resources.grd.
+type: config
+title: Windows cursor resource list
+summary: Grit resource list that includes Windows cursor files as resources and emits an rc header and rc file.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base shell dialog interface
+// summary: Declares the BaseShellDialog base class with IsRunning and ListenerDestroyed methods for tracking modal shell dialogs.
+// ---
+
 #ifndef UI_SHELL_DIALOGS_BASE_SHELL_DIALOG_H_
 #define UI_SHELL_DIALOGS_BASE_SHELL_DIALOG_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake select file dialog for tests
+// summary: Implements a fake SelectFileDialog and factory that tests use to simulate file selection, multi-file selection and cancellation results.
+// ---
+
 #include "ui/shell_dialogs/fake_select_file_dialog.h"
 
 #include <string_view>

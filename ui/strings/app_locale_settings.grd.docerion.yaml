@@ -1,0 +1,4 @@
+# Docerion header of app_locale_settings.grd.
+type: data
+title: App locale settings string resources
+summary: Grit resource definitions for per-locale app locale settings, packaged into translated .pak files for many languages.

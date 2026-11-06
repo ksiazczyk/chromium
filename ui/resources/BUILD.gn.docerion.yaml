@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: UI resources build targets
+summary: Defines GN targets that build and package UI resource paks, including grit rules, test pak repacking, and platform-specific bundle data.

@@ -1,0 +1,4 @@
+# Docerion header of select_file_dialog_tvos.mm.
+type: source
+title: tvOS select file dialog stub
+summary: tvOS factory stub for CreateSelectFileDialog that returns null because file selection dialogs are not yet implemented on tvOS.

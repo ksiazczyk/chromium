@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build configuration for the shell_dialogs component
+summary: GN build file defining the shell_dialogs component and its unit tests, with platform-specific sources and dependencies for Windows, Mac, iOS, Android, Linux, and Fuchsia.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows select file dialog unit tests
+// summary: Unit tests for the Windows select file dialog that wait for real dialog windows and prompts to verify titles and behavior.
+// ---
+
 #include "ui/shell_dialogs/select_file_dialog_win.h"
 
 #include <stddef.h>

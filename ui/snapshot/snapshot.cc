@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window snapshot encoding implementation
+// summary: Implements shared snapshot helpers that encode captured window images as PNG or JPEG and scale snapshots on Apple and Windows platforms.
+// ---
+
 #include "ui/snapshot/snapshot.h"
 
 #include <utility>

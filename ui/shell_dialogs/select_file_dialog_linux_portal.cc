@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux portal select file dialog implementation
+// summary: Implements the Linux select file dialog backed by the XDG desktop portal file chooser over D-Bus, with filter handling and a fallback dialog.
+// ---
+
 #include "ui/shell_dialogs/select_file_dialog_linux_portal.h"
 
 #include <string_view>

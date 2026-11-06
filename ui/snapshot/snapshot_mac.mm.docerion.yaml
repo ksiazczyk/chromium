@@ -1,0 +1,4 @@
+# Docerion header of snapshot_mac.mm.
+type: source
+title: macOS snapshot implementation
+summary: Implements macOS view and window snapshots using ScreenCaptureKit on macOS 14.4+ with a legacy CGWindowListCreateImage fallback.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Select file dialog interface
+// summary: Declares the SelectFileDialog API with dialog types, listener callbacks, file type info and factory support for file and folder selection.
+// ---
+
 #ifndef UI_SHELL_DIALOGS_SELECT_FILE_DIALOG_H_
 #define UI_SHELL_DIALOGS_SELECT_FILE_DIALOG_H_
 

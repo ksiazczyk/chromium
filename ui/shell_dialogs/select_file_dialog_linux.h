@@ -4,6 +4,12 @@
 //
 // This file implements common select dialog functionality between GTK and KDE.
 
+// ---docerion
+// type: source
+// title: Linux select file dialog shared interface
+// summary: Declares the SelectFileDialogLinux base class shared by the GTK, KDE, and portal Linux file dialog implementations.
+// ---
+
 #ifndef UI_SHELL_DIALOGS_SELECT_FILE_DIALOG_LINUX_H_
 #define UI_SHELL_DIALOGS_SELECT_FILE_DIALOG_LINUX_H_
 

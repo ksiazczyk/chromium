@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Select file dialog core implementation
+// summary: Implements SelectFileDialog creation through an optional factory, file type info handling and file path shortening helpers.
+// ---
+
 #include "ui/shell_dialogs/select_file_dialog.h"
 
 #include <stddef.h>

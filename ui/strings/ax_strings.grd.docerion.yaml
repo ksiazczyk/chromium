@@ -1,0 +1,4 @@
+# Docerion header of ax_strings.grd.
+type: data
+title: Accessibility string resources
+summary: Grit resource definitions of translatable accessibility (AX) strings used by app/, packaged into per-locale .pak files.

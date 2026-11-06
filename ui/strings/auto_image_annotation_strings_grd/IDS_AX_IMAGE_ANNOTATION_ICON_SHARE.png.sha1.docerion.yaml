@@ -1,0 +1,4 @@
+# Docerion header of IDS_AX_IMAGE_ANNOTATION_ICON_SHARE.png.sha1.
+type: data
+title: SHA-1 checksum for IDS_AX_IMAGE_ANNOTATION_ICON_SHARE
+summary: Stores the SHA-1 checksum of the share icon PNG referenced by the image annotation string identifiers.

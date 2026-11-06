@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Bug tracking metadata for the snapshot directory
+summary: Maps the directory to the Internals monorail component and Buganizer component 1456292 for issue tracking.

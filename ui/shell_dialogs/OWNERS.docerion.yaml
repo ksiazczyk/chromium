@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for shell_dialogs
+summary: OWNERS file requiring owner review for structural changes and assigning per-file ownership for build, Linux, and Windows files.

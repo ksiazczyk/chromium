@@ -1,0 +1,4 @@
+# Docerion header of IDS_AX_IMAGE_ANNOTATION_ICON_MAGNIFYING_GLASS.png.sha1.
+type: data
+title: SHA-1 checksum for the magnifying glass icon annotation string
+summary: Stores the SHA-1 hash used to track the accessibility label string for the magnifying glass icon in the auto image annotation resources.

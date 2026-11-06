@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows file name environment variable sanitizer
+// summary: Header providing RemoveEnvVarFromFileName, a template that strips substrings wrapped in percent signs from Windows file names, exported for unit tests.
+// ---
+
 #ifndef UI_SHELL_DIALOGS_SELECT_FILE_UTILS_WIN_H_
 #define UI_SHELL_DIALOGS_SELECT_FILE_UTILS_WIN_H_
 

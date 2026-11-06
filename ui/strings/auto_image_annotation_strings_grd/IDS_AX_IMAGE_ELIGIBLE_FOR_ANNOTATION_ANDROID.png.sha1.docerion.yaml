@@ -1,0 +1,4 @@
+# Docerion header of IDS_AX_IMAGE_ELIGIBLE_FOR_ANNOTATION_ANDROID.png.sha1.
+type: data
+title: SHA-1 checksum for Android annotation eligibility image
+summary: Stores the SHA-1 hash of the PNG marking Android eligibility for image annotation in the string resources.

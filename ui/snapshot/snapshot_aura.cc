@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aura window snapshot implementation
+// summary: Implements async Aura window snapshot grabbing via viz copy output requests, with retries and scaling, backing the generic snapshot API.
+// ---
+
 #include "ui/snapshot/snapshot_aura.h"
 
 #include <memory>

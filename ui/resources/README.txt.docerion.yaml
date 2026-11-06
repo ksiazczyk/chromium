@@ -1,0 +1,4 @@
+# Docerion header of README.txt.
+type: readme
+title: Mozilla license notice for copied resources
+summary: Explains that files in this directory are copied from the Mozilla source tree and includes the MPL/GPL/LGPL license block.

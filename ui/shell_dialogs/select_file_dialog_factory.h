@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Select file dialog factory interface
+// summary: Declares a factory interface letting Chrome components create their own SelectFileDialog objects, for example extension-based dialogs.
+// ---
+
 #ifndef UI_SHELL_DIALOGS_SELECT_FILE_DIALOG_FACTORY_H_
 #define UI_SHELL_DIALOGS_SELECT_FILE_DIALOG_FACTORY_H_
 

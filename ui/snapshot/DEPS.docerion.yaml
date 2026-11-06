@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the snapshot directory
+summary: Defines allowed include paths for the snapshot directory, covering cc, viz, skia, aura, android, compositor, display, gfx, gl, and wm dependencies.

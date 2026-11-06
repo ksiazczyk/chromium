@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shell dialogs unit test runner
+// summary: Main entry point that initializes the test suite, resource bundle and Mojo, then launches the shell_dialogs unit tests.
+// ---
+
 #include "base/functional/bind.h"
 #include "base/path_service.h"
 #include "base/test/launcher/unit_test_launcher.h"

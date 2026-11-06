@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aura snapshot unit tests
+// summary: Unit tests that paint test windows and verify Aura snapshot capture and scaling by comparing captured pixels against expected colors.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

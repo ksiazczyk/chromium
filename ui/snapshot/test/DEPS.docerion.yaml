@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for snapshot unit tests
+summary: Allows the snapshot unit test runner to include the Mojo core embedder headers.

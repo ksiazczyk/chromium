@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Presubmit checker for ICO files
+# summary: Defines a presubmit verifier that lints changed .ico files against Chromium standards and reports errors suggesting the optimize-ico-files tool.
+# ---
+
 """Presubmit script for Chromium browser resources.
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

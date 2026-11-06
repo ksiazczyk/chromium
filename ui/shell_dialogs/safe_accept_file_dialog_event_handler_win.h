@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe accept file dialog event handler header
+// summary: Declares the Windows event handler that enforces a minimum display duration and requires Enter release before accepting a file dialog.
+// ---
+
 #ifndef UI_SHELL_DIALOGS_SAFE_ACCEPT_FILE_DIALOG_EVENT_HANDLER_WIN_H_
 #define UI_SHELL_DIALOGS_SAFE_ACCEPT_FILE_DIALOG_EVENT_HANDLER_WIN_H_
 

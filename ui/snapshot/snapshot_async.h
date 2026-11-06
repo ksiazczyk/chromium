@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SnapshotAsync helper for async snapshot callbacks
+// summary: Declares helper methods that convert viz::CopyOutputResult results into ui::GrabWindowSnapshot image callbacks for async snapshots.
+// ---
+
 #ifndef UI_SNAPSHOT_SNAPSHOT_ASYNC_H_
 #define UI_SNAPSHOT_SNAPSHOT_ASYNC_H_
 

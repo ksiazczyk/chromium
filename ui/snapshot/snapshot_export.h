@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SNAPSHOT_EXPORT macro definitions
+// summary: Defines the SNAPSHOT_EXPORT macro so snapshot module symbols are exported to consumers across component and non-component builds.
+// ---
+
 #ifndef UI_SNAPSHOT_SNAPSHOT_EXPORT_H_
 #define UI_SNAPSHOT_SNAPSHOT_EXPORT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows file selection dialog API
+// summary: Declares ExecuteSelectFile and FileFilterSpec for showing a modal Windows file selection dialog and returning results via a callback.
+// ---
+
 #ifndef UI_SHELL_DIALOGS_EXECUTE_SELECT_FILE_WIN_H_
 #define UI_SHELL_DIALOGS_EXECUTE_SELECT_FILE_WIN_H_
 

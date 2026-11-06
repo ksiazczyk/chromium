@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Async snapshot result handling
+// summary: Implements SnapshotAsync helpers that convert copy output results into images and scale bitmaps on a background thread pool.
+// ---
+
 #include "ui/snapshot/snapshot_async.h"
 
 #include "base/functional/bind.h"

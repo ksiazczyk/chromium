@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows base shell dialog implementation
+// summary: Implements owner window tracking, owner disabling, and dedicated COM STA task runners for showing modal Windows shell dialogs.
+// ---
+
 #include "ui/shell_dialogs/base_shell_dialog_win.h"
 
 #include <algorithm>

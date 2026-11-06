@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for UI strings
+summary: Declares the Monorail component UI>Internationalization and a public Buganizer component ID for issues in this directory.

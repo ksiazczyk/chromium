@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for UI string resources
+summary: GN build file that groups the UI string grit targets and compiles each .grd file into headers and per-locale .pak outputs.

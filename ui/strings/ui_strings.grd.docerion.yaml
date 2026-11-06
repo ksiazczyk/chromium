@@ -1,0 +1,4 @@
+# Docerion header of ui_strings.grd.
+type: data
+title: UI string resources
+summary: Grit resource definitions of translatable UI strings used by app/, packaged into per-locale .pak files.

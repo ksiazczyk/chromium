@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SelectFilePolicy interface header
+// summary: Defines the SelectFilePolicy interface that decides whether native file selection dialogs may be opened and reports denied requests.
+// ---
+
 #ifndef UI_SHELL_DIALOGS_SELECT_FILE_POLICY_H_
 #define UI_SHELL_DIALOGS_SELECT_FILE_POLICY_H_
 

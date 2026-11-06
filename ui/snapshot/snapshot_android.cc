@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android window snapshot implementation
+// summary: Implements Android snapshot functions by issuing viz copy output requests through the window compositor and view hierarchy.
+// ---
+
 #include "ui/snapshot/snapshot.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of snapshot_mac_unittest.mm.
+type: source
+title: macOS snapshot unit tests
+summary: Parameterized unit tests that capture a blue test window and verify snapshot size and pixel colors across old and new macOS snapshot APIs.

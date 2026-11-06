@@ -1,0 +1,4 @@
+# Docerion header of left_ptr.json.
+type: asset
+title: Left pointer vector animation
+summary: Lottie vector animation defining the default left-pointing arrow cursor as part of the common UI pointer set.

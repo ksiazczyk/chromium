@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SelectedFileInfo implementation
+// summary: Implements SelectedFileInfo constructors, comparison, path accessor, and conversions between file path lists and selected file info lists.
+// ---
+
 #include "ui/shell_dialogs/selected_file_info.h"
 
 #include <algorithm>
