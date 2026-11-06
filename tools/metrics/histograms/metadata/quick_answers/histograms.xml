@@ -19,6 +19,12 @@ have an OWNERS file. As a last resort you can send the CL to
 chromium-metrics-reviews@google.com.
 -->
 
+<!--docerion
+type: config
+title: Quick Answers histogram definitions
+summary: Defines UMA histograms, variants and expiry dates for Quick Answers metrics on ChromeOS owned by the Commercial Identity team.
+-->
+
 <histogram-configuration>
 
 <histograms>

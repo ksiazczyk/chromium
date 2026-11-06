@@ -20,6 +20,12 @@ have an OWNERS file. As a last resort you can send the CL to
 chromium-metrics-reviews@google.com.
 -->
 
+<!--docerion
+type: config
+title: Sensitive content histogram enums
+summary: Defines the enum values, such as ContentSensitivity and TabSwitchingAnimation, that are referenced by the histogram entries in the sibling histograms.xml file.
+-->
+
 <histogram-configuration>
 
 <!-- Enum types -->

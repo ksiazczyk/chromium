@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for History histogram metadata
+summary: Lists the code owners responsible for reviewing changes to History-related histogram definitions, with per-histogram-group assignments and a backup review address.

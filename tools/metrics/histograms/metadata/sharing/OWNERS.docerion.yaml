@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for sharing histogram metadata
+summary: Sets the owners and review routing for histogram metadata changes in the sharing directory, with chromium-metrics-reviews as backup.

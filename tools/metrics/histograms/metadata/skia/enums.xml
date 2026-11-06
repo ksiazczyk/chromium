@@ -20,6 +20,12 @@ have an OWNERS file. As a last resort you can send the CL to
 chromium-metrics-reviews@google.com.
 -->
 
+<!--docerion
+type: config
+title: Skia histogram enum definitions
+summary: Defines enumerations referenced by the Skia histograms.xml entries; currently contains no enum definitions.
+-->
+
 <histogram-configuration>
 
 <!-- Enum types -->

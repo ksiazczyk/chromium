@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for session metrics metadata
+summary: Lists the owners who review changes to session histogram metadata, with the central metric reviewer owners file set as a per-file fallback.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for stability metrics metadata
+summary: Defines code owners and per-file review rules for the stability metrics directory, letting anyone edit enums.xml while routing histogram changes to metrics reviewers.

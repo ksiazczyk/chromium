@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for offline histogram metadata
+summary: Lists the owners who review changes to the offline histograms metadata, with the metric reviewer owners file as fallback.

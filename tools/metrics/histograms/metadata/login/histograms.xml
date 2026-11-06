@@ -18,6 +18,12 @@ have an OWNERS file. As a last resort you can send the CL to
 chromium-metrics-reviews@google.com.
 -->
 
+<!--docerion
+type: data
+title: Login histograms definitions
+summary: XML configuration defining Chrome OS login-related histograms with names, owners, expiry dates, enums, and detailed metric descriptions.
+-->
+
 <histogram-configuration>
 
 <histograms>

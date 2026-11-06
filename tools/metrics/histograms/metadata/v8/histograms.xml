@@ -18,6 +18,12 @@ have an OWNERS file. As a last resort you can send the CL to
 chromium-metrics-reviews@google.com.
 -->
 
+<!--docerion
+type: config
+title: V8 histogram definitions
+summary: Defines the comprehensive list of V8 UMA histograms with descriptions, owners, expiry dates, and variants used to generate metric documentation.
+-->
+
 <histogram-configuration>
 
 <histograms>

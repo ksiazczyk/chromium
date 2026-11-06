@@ -18,6 +18,12 @@ have an OWNERS file. As a last resort you can send the CL to
 chromium-metrics-reviews@google.com.
 -->
 
+<!--docerion
+type: config
+title: Indigo histogram definitions
+summary: Lists the Indigo histograms with descriptions, owners, and expiry dates, covering API calls, eligibility checks, and transformation metrics.
+-->
+
 <histogram-configuration>
 
 <histograms>

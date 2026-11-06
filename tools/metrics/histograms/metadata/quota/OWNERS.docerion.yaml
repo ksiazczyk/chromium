@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for quota histogram metadata
+summary: Defines the primary and secondary owners and reviewer routing for changes to quota histogram definitions in this directory.

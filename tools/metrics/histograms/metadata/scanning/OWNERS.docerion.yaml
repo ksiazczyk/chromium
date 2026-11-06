@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for scanning metrics metadata
+summary: Lists the primary reviewers for scanning histogram metadata changes and points per-file reviews to the shared metric reviewer owners list.

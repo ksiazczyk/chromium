@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for remoting histogram metadata
+summary: Lists the owners for changes to remoting histogram metadata and points to the shared metric reviewer owners file.

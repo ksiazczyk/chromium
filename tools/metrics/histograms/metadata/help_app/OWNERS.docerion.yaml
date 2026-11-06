@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for help_app metrics metadata
+summary: Lists the code owners who review histogram changes in the help_app metadata directory, falling back to the shared metric reviewer owners list.

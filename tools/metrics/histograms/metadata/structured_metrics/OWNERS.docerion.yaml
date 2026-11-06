@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Structured metrics OWNERS
+summary: Assigns the metric reviewer owners as reviewers for files in the structured metrics directory, with chromium-metrics-reviews as a backup.

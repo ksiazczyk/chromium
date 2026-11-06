@@ -20,6 +20,12 @@ have an OWNERS file. As a last resort you can send the CL to
 chromium-metrics-reviews@google.com.
 -->
 
+<!--docerion
+type: data
+title: Sync histogram enum definitions
+summary: Defines the enumerations referenced by sync histogram entries in this directory, with labels and values for each enum.
+-->
+
 <histogram-configuration>
 
 <!-- Enum types -->

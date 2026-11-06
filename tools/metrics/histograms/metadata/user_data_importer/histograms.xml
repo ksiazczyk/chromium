@@ -18,6 +18,12 @@ have an OWNERS file. As a last resort you can send the CL to
 chromium-metrics-reviews@google.com.
 -->
 
+<!--docerion
+type: config
+title: User data importer histogram definitions
+summary: Defines the histograms that record user data import sources, outcomes, errors, and flow durations, with owners and expiry dates.
+-->
+
 <histogram-configuration>
 
 <histograms>

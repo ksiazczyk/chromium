@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for page histogram metadata
+summary: Lists the reviewers responsible for changes to page histogram metadata, including a dedicated owner for PageAction histograms.

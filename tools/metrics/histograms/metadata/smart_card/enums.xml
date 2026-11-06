@@ -4,6 +4,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Smart card histogram enums
+summary: Defines enum value labels for smart card metrics, covering connection closed reasons and one-time permission expiry reasons.
+-->
+
 <histogram-configuration>
 
 <!-- Enum types -->

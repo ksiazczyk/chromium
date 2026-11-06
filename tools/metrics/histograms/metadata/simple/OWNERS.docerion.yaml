@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for simple histogram metadata
+summary: Delegates ownership of files in this directory to the shared metric reviewer owners list, with chromium-metrics-reviews@google.com as backup.

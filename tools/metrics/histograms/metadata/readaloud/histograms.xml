@@ -18,6 +18,12 @@ have an OWNERS file. As a last resort you can send the CL to
 chromium-metrics-reviews@google.com.
 -->
 
+<!--docerion
+type: config
+title: ReadAloud histogram definitions
+summary: Declares the ReadAloud histograms with owners, expiry dates, and descriptions used to generate Chromium's metrics documentation.
+-->
+
 <histogram-configuration>
 
 <histograms>

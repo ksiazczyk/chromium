@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for power histogram metadata
+summary: Defines the owners responsible for reviewing changes to power histogram definitions and points to the shared metric reviewer owners as a fallback.

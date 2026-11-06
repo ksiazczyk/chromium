@@ -18,6 +18,12 @@ have an OWNERS file. As a last resort you can send the CL to
 chromium-metrics-reviews@google.com.
 -->
 
+<!--docerion
+type: data
+title: Sharing histogram definitions
+summary: Lists the Sharing-related UMA histograms with owners, expiry dates and descriptions, including SharedHighlights and text fragment metrics.
+-->
+
 <histogram-configuration>
 
 <histograms>

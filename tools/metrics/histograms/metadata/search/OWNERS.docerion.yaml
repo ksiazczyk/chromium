@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Search metrics OWNERS file
+summary: Lists code owners for reviewing changes to search-related histogram definitions, with separate owners for search engine choice and auxiliary search metrics.

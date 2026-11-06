@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for user_data_importer metrics metadata
+summary: Lists the owners and backup reviewer contact for changes to the user data importer histogram metadata in this directory.

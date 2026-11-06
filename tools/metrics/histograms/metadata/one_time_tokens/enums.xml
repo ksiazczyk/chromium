@@ -4,6 +4,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Enum definitions for one-time token actor metrics
+summary: Defines enums for actor login flow verification and OTP filling and retrieval events used by the one-time token histograms.
+-->
+
 <histogram-configuration>
 
 <enums>

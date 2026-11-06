@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for payment metrics metadata
+summary: Lists the code owners for the payment metrics metadata directory and gives guidance on choosing a metrics reviewer.

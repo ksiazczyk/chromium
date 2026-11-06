@@ -19,6 +19,12 @@ have an OWNERS file. As a last resort you can send the CL to
 chromium-metrics-reviews@google.com.
 -->
 
+<!--docerion
+type: config
+title: Enums for personal context histograms
+summary: Defines the enum types referenced by personal context histograms, covering context memory execution errors, decryption outcomes, and popup notice interactions.
+-->
+
 <histogram-configuration>
 
 <!-- Enum types -->

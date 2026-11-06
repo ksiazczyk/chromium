@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for Safe Browsing metrics metadata
+summary: Lists the owners and metric reviewers responsible for reviewing changes to the Safe Browsing histogram metadata files.

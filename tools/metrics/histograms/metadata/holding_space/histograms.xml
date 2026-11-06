@@ -18,6 +18,12 @@ have an OWNERS file. As a last resort you can send the CL to
 chromium-metrics-reviews@google.com.
 -->
 
+<!--docerion
+type: config
+title: Holding Space histogram definitions
+summary: Defines the Holding Space UMA histograms with variants, owners, expiry dates, and detailed descriptions for each metric.
+-->
+
 <histogram-configuration>
 
 <histograms>

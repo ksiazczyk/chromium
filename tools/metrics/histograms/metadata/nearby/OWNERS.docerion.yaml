@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the nearby histogram metadata
+summary: Lists the owners who should review changes to the nearby histogram metadata, with the metrics reviewers list as a fallback.

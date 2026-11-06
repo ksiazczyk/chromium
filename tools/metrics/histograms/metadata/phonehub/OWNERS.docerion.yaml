@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the phonehub metrics folder
+summary: Lists the owners who review changes to the phonehub histogram metadata and points per-file owner lookups to the central metric reviewer owners.

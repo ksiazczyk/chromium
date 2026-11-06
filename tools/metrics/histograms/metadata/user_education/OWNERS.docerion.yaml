@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for user education metrics
+summary: Lists the owners and the shared metric reviewer set responsible for reviewing changes to user education histogram metadata.

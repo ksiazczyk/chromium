@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for sync metrics
+summary: Maps the sync histogram metadata directory to its Monorail and Buganizer components for issue tracking.

@@ -10,6 +10,12 @@ is one of a group of files in this directory that are processed by the
 histograms-xml-to-struct.py script to generate enums for histograms.
 -->
 
+<!--docerion
+type: config
+title: On-device model histogram enums
+summary: Defines enum values used by on-device model histograms, covering model load, download, GPU, and performance status codes.
+-->
+
 <histogram-configuration>
 
 <enums>

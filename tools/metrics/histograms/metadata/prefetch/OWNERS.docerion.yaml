@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Prefetch metrics OWNERS
+summary: Lists the owners who review changes to prefetch histogram metadata, with the shared metrics reviewer owners file as fallback.

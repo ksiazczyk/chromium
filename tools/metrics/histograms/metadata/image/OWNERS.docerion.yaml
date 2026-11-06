@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for image histogram metadata
+summary: Lists the owners responsible for reviewing changes to image histogram definitions in this directory, with a shared reviewer list as fallback.

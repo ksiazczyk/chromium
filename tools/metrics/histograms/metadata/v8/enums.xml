@@ -20,6 +20,12 @@ have an OWNERS file. As a last resort you can send the CL to
 chromium-metrics-reviews@google.com.
 -->
 
+<!--docerion
+type: config
+title: V8 histogram enum definitions
+summary: Defines the enumerations, such as garbage collection reasons and Liftoff bailout reasons, referenced by V8 histogram entries in histograms.xml.
+-->
+
 <histogram-configuration>
 
 <!-- Enum types -->

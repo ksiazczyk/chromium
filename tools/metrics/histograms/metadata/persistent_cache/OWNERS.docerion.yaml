@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for persistent cache histogram metadata
+summary: Lists the owners and backup reviewer contact for changes to the persistent cache metrics metadata directory.

@@ -18,6 +18,12 @@ have an OWNERS file. As a last resort you can send the CL to
 chromium-metrics-reviews@google.com.
 -->
 
+<!--docerion
+type: data
+title: Service histograms definitions (histograms.xml)
+summary: Generates the comprehensive list of Service histograms with variants and a detailed description for each recorded metric.
+-->
+
 <histogram-configuration>
 
 <histograms>

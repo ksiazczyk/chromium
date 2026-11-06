@@ -18,6 +18,12 @@ have an OWNERS file. As a last resort you can send the CL to
 chromium-metrics-reviews@google.com.
 -->
 
+<!--docerion
+type: data
+title: Storage histogram definitions
+summary: Lists the Storage histograms with owners, expiry dates, variants, and detailed summaries, serving as the source for generating the storage metrics documentation.
+-->
+
 <histogram-configuration>
 
 <histograms>

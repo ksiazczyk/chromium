@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for task_manager metrics metadata
+summary: Assigns metric reviewers for this directory and points to the central METRIC_REVIEWER_OWNERS file as a fallback.

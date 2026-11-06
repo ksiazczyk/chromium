@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for net histogram metadata
+summary: Defines code owners and review rules for net metrics histogram changes, including enum edits, device bound session and cookie histogram reviewers, and fallback contacts.

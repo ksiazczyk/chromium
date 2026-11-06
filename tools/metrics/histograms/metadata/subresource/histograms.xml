@@ -18,6 +18,12 @@ have an OWNERS file. As a last resort you can send the CL to
 chromium-metrics-reviews@google.com.
 -->
 
+<!--docerion
+type: config
+title: Subresource histogram definitions
+summary: XML configuration defining the SubresourceFilter UMA histograms with names, enums, owners, expiry dates and descriptions used to generate histogram documentation.
+-->
+
 <histogram-configuration>
 
 <histograms>

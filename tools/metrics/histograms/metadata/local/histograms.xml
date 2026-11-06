@@ -18,6 +18,12 @@ have an OWNERS file. As a last resort you can send the CL to
 chromium-metrics-reviews@google.com.
 -->
 
+<!--docerion
+type: config
+title: Local Search Service histogram definitions
+summary: XML configuration defining Chrome OS Local Search Service histograms with owners, expiry dates, variants and descriptions for metrics generation.
+-->
+
 <histogram-configuration>
 
 <histograms>

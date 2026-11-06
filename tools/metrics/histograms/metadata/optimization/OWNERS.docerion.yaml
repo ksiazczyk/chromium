@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for optimization histogram metadata
+summary: Lists the owners who review changes to the optimization histogram metadata and gives fallback reviewer guidance for CLs.

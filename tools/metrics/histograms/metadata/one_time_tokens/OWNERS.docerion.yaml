@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for one_time_tokens metrics metadata
+summary: Declares ioanap@chromium.org as the owner of the one_time_tokens histogram metadata directory.

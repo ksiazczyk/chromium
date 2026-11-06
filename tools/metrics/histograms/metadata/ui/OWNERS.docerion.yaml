@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for UI metrics histograms
+summary: Maps reviewer ownership for UI histogram changes, delegating to Views, WebUI, and named owners for specific metrics.

@@ -20,6 +20,12 @@ have an OWNERS file. As a last resort you can send the CL to
 chromium-metrics-reviews@google.com.
 -->
 
+<!--docerion
+type: data
+title: Security histogram enum definitions
+summary: Defines the enumerations referenced by security histograms, mapping integer values to labels for metrics such as AboutThisSite interactions and GWP-ASan crash analysis.
+-->
+
 <histogram-configuration>
 
 <!-- Enum types -->

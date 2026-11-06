@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for Skia histogram metadata
+summary: Sets review ownership for the Skia histogram metadata directory, delegating per-file reviews to the central metrics reviewer owners list.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for settings metrics metadata
+summary: Lists the owners and reviewers responsible for changes to the settings metrics histogram metadata in this directory.

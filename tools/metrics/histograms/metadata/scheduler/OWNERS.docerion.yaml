@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for scheduler histogram metadata
+summary: Assigns metric reviewers for scheduler histogram changes, delegating to the central METRIC_REVIEWER_OWNERS list and naming spvm@chromium.org as owner.

@@ -18,6 +18,12 @@ have an OWNERS file. As a last resort you can send the CL to
 chromium-metrics-reviews@google.com.
 -->
 
+<!--docerion
+type: config
+title: Profile histogram definitions
+summary: Generates a comprehensive documented list of Profile-related UMA histograms, including owners, summaries, and expiry dates.
+-->
+
 <histogram-configuration>
 
 <histograms>

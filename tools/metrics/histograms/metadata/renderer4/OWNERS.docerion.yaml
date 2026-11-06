@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for renderer4 histogram metadata
+summary: Lists the code owners for histogram changes in this directory and directs reviewers to the shared metric reviewer owners list.

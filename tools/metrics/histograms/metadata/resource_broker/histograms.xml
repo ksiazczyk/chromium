@@ -12,6 +12,12 @@ For best practices on writing histogram descriptions, see
 https://chromium.googlesource.com/chromium/src.git/+/HEAD/tools/metrics/histograms/README.md
 -->
 
+<!--docerion
+type: config
+title: Resource Broker histogram definitions
+summary: Defines the ResourceBroker.LifecycleEvent histogram with owners, expiry date, and a description of the recorded lifecycle milestones.
+-->
+
 <histogram-configuration>
 
 <histograms>

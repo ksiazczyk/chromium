@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for local histograms metadata
+summary: Lists the owners for changes in this directory and points reviewers to the shared metric reviewer owners file.

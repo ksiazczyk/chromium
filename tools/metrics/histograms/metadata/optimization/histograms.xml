@@ -18,6 +18,12 @@ have an OWNERS file. As a last resort you can send the CL to
 chromium-metrics-reviews@google.com.
 -->
 
+<!--docerion
+type: data
+title: Optimization Guide histograms
+summary: Defines the Optimization Guide histograms with variants and detailed descriptions used to generate the comprehensive metrics list.
+-->
+
 <histogram-configuration>
 
 <histograms>

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the phonehub metrics folder
+summary: Declares directory metadata for the phonehub histogram folder and inherits the common Phone Hub metadata through a mixin.

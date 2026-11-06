@@ -12,6 +12,12 @@ For best practices on writing enumerations descriptions, see
 https://chromium.googlesource.com/chromium/src.git/+/HEAD/tools/metrics/histograms/README.md#Enum-Histograms
 -->
 
+<!--docerion
+type: config
+title: Resource Broker histogram enum definitions
+summary: Defines the ResourceBrokerLifecycleEvent enum values used by Resource Broker histograms, kept in sync with resource_broker_host.h.
+-->
+
 <histogram-configuration>
 
 <!-- Enum types -->

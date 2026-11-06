@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for signin histogram metadata
+summary: Lists the code owners responsible for reviewing changes to signin histogram metadata, with the shared metrics reviewers list as a fallback.

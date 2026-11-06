@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for storage metrics metadata
+summary: Defines the reviewers for storage histogram metadata changes, mapping to the central metric reviewer owners list and naming the primary owner.

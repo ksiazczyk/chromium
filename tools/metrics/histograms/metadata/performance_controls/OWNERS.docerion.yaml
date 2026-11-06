@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for performance controls metrics
+summary: Lists the metric reviewers and owners responsible for reviewing changes to the performance controls histograms metadata directory.

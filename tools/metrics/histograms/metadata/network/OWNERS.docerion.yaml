@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for network histogram metadata
+summary: Lists the owners and metric reviewers responsible for the network histograms metadata directory, including reviewers for Wifi.Synced histograms.

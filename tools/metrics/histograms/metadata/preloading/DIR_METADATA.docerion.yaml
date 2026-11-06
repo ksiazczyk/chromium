@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Preloading directory issue tracker metadata
+summary: Maps the preloading metrics directory to the Internals>Preload monorail component and Buganizer component 1457018 for issue tracking.

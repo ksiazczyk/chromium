@@ -18,6 +18,12 @@ have an OWNERS file. As a last resort you can send the CL to
 chromium-metrics-reviews@google.com.
 -->
 
+<!--docerion
+type: data
+title: SQL histogram definitions
+summary: Declares the SQL histograms and their variants, such as checkpoint types and database tags, used to generate the metrics documentation.
+-->
+
 <histogram-configuration>
 
 <histograms>

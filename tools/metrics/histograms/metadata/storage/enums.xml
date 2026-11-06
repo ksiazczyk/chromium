@@ -20,6 +20,12 @@ have an OWNERS file. As a last resort you can send the CL to
 chromium-metrics-reviews@google.com.
 -->
 
+<!--docerion
+type: data
+title: Storage histogram enum definitions
+summary: Defines the labeled enumerations referenced by storage histogram entries, with integer values for outcomes such as storage access, blob access, and Clear-Site-Data parameters.
+-->
+
 <histogram-configuration>
 
 <!-- Enum types -->

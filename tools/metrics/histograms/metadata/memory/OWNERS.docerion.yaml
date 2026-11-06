@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Memory metrics metadata OWNERS
+summary: Lists the code owners and backup reviewers for changes to memory histogram metadata in this directory.

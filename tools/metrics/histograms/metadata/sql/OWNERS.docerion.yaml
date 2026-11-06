@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for SQL histogram metadata
+summary: Lists the owners and reviewers for changes to the SQL histogram metadata files, with a backup review mailing list.

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Kiosk histograms metadata directory metadata
+summary: Sets metadata mixins for the kiosk histogram metadata directory, inheriting from the ChromeOS app mode common metadata.

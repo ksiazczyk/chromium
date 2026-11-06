@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for translate metrics
+summary: Lists the owners who review translate histogram changes and points OWNERS reviews to the shared metric reviewer owners file.
