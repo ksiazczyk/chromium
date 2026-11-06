@@ -1,0 +1,4 @@
+# Docerion header of create_test_certs.sh.
+type: script
+title: Test certificate generation script
+summary: Generates a self-signed root and l1_leaf end-entity certificate for the tests and prints the leaf fingerprint for certificate_provider_apitest.cc.

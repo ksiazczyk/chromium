@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Request PIN basic test logic
+// summary: Tests certificateProvider.requestPin with a correct PIN, a limit of three wrong attempts, and the quota for closed dialogs.
+// ---
+
 const SIGN_REQUEST_ID = 123;
 const CORRECT_PIN = '1234';
 const WRONG_ATTEMPTS_LIMIT = 3;

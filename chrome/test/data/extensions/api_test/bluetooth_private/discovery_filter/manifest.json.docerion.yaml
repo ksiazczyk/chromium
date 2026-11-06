@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for Bluetooth discovery filter test extension
+summary: Manifest for the Chrome extension API test that exercises chrome.bluetoothPrivate.setDiscoveryFilter, requesting the bluetoothPrivate permission and loading test.js as the background script.

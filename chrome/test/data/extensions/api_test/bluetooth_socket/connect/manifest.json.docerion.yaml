@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Bluetooth Socket Connect Test Extension Manifest
+summary: Manifest for the chrome.bluetoothSocket.connect API test app, declaring Bluetooth socket permissions, a service UUID, and the background test script.

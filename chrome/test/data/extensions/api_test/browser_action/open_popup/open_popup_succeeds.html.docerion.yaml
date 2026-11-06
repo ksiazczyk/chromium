@@ -1,0 +1,4 @@
+# Docerion header of open_popup_succeeds.html.
+type: test
+title: Succeeding popup test page
+summary: HTML page that loads the script exercising a successful chrome.browserAction.openPopup call.

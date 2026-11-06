@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the forgetDevice API test extension
+summary: Manifest for the Chrome test app exercising chrome.bluetoothPrivate.forgetDevice, with a fixed extension key, background test script and bluetooth permissions.

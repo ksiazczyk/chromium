@@ -1,0 +1,4 @@
+# Docerion header of another_popup.html.
+type: test
+title: Second popup page for popup change test
+summary: Simple HTML page used as the replacement popup after the test changes the browser action popup.

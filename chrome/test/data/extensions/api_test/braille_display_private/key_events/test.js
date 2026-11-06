@@ -5,6 +5,12 @@
 // Test for brailleDisplayPrivate.onKeyEvent.
 // browser_tests.exe --gtest_filter='BrailleDisplayPrivateApiTest.*'
 
+// ---docerion
+// type: test
+// title: Browser test for brailleDisplayPrivate.onKeyEvent
+// summary: Service worker test that listens for braille display key events and asserts each received event matches the expected list of commands, dots patterns, routing and standard keys.
+// ---
+
 const pass = chrome.test.callbackPass;
 
 const EXPECTED_EVENTS = [

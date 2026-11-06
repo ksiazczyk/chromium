@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: config
+title: Test extension manifest
+summary: Manifest version 2 manifest for the basic test extension requesting the certificateProvider permission.

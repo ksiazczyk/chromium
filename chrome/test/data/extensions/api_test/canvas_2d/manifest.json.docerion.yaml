@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the 2D canvas test extension
+summary: Manifest for the background_page_2d_canvas test extension, which uses background.html as its background page.

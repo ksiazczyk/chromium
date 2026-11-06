@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Clipboard permission test extension manifest
+summary: Manifest for the extension_no_permission test extension used by the clipboard API end-to-end browser test.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Clipboard Service Worker Test Extension Manifest
+summary: Manifest for the clipboard service worker test extension, registering the background service worker and requesting clipboard permissions.

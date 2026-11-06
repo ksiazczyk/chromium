@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: chrome.chromeosInfoPrivate basic tests manifest
+summary: Manifest for the basic test extension, requesting the chromeosInfoPrivate permission and loading background.js to run the API tests.

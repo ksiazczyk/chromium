@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser action update test background script
+// summary: Background script of a test extension that updates the browser action title, icon, and badge, signaling test readiness and incognito access via chrome.test messages.
+// ---
+
 function updateBrowserAction() {
   chrome.browserAction.setTitle({title: 'Modified'}, function() {
     chrome.browserAction.setIcon({path: 'icon2.png'}, function() {

@@ -4,6 +4,12 @@
 
 // TODO(kalman): Consolidate this test script with the other clipboard tests.
 
+// ---docerion
+// type: test
+// title: Clipboard permission test content script
+// summary: Content script that attempts DOM copy and paste in a matched page and reports the result back to the test extension.
+// ---
+
 function appendTextarea() {
   return document.body.appendChild(document.createElement('textarea'));
 }

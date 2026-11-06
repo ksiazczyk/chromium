@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Browser action with icon test manifest
+summary: Manifest for the browser_action_with_icon extension API test, defining a browser action with a default title and the icon.png default icon.

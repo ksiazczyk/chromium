@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the Bluetooth adapter state test extension
+summary: Chrome extension manifest that defines the test app used to exercise chrome.bluetoothPrivate.setAdapterState, with the bluetoothPrivate permission and a fixed extension key.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for the commandLinePrivate hasSwitch API
+// summary: Runs tests asserting hasSwitch results for a present command-line switch, a nonexistent switch, and an empty switch name.
+// ---
+
 // These string constants should be consistent with those in
 // chrome/browser/extensions/api/command_line_private/.
 const TEST_COMMAND_LINE_SWITCH = 'command-line-private-api-test-foo';

@@ -7,6 +7,12 @@
 
 // TODO(kalman): Consolidate this test script with the other clipboard tests.
 
+// ---docerion
+// type: test
+// title: Clipboard extension API browser test
+// summary: Runs browser tests for clipboard permissions covering DOM copy and paste, iframe copy and paste, and scripted and content-script copy and paste.
+// ---
+
 function testDomCopy() {
   if (document.execCommand('copy')) {
     chrome.test.succeed();

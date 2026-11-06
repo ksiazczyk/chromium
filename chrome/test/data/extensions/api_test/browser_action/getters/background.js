@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background script setting browser action defaults and tab values
+// summary: Background script that sets default and tab-specific badge text, badge color, popup, and title before the getter tests run.
+// ---
+
 chrome.browserAction.setBadgeBackgroundColor({color: [255, 0, 0, 255]});
 chrome.browserAction.setBadgeText({text: 'Text'});
 

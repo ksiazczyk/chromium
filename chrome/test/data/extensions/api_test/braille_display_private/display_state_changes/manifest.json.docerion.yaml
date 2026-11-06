@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the braille display state change test extension
+summary: Manifest for the chrome.brailleDisplayPrivate.onDisplayStateChanged end-to-end test extension, registering the test.js service worker and requesting the brailleDisplayPrivate permission.

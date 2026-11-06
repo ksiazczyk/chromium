@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the command_line/basics test extension
+summary: Extension manifest granting the commandLinePrivate permission and registering test.js as the background service worker.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Bluetooth Socket Permission Denied Test Manifest
+summary: Manifest for a test Chrome app that verifies the chrome.bluetoothSocket API does not function without the bluetooth permission.

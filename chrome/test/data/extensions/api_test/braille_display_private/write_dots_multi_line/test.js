@@ -5,6 +5,12 @@
 // Test for brailleDisplayPrivate.writeDotsMultiLine.
 // browser_tests.exe --gtest_filter='BrailleDisplayPrivateApiTest.*'
 
+// ---docerion
+// type: test
+// title: Browser tests for brailleDisplayPrivate.writeDotsMultiLine
+// summary: Runs browser tests that write empty, oversized, and undersized cell buffers to a braille display via the brailleDisplayPrivate API.
+// ---
+
 const pass = chrome.test.callbackPass;
 
 function createBuffer(size, element) {

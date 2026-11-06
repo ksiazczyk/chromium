@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser action invisible icon test background script
+// summary: Background script for the browser action invisible icon API test that prepares visible and invisible canvas image data and sets the toolbar icon via chrome.browserAction.setIcon.
+// ---
+
 // First get an empty canvas.
 const canvas = new OffscreenCanvas(21, 21);
 

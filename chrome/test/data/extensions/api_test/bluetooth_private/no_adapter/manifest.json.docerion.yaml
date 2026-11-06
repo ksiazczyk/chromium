@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: No Bluetooth Adapter Test manifest
+summary: Chrome extension manifest for the test app that exercises bluetoothPrivate.setAdapterState when no Bluetooth adapter is present.

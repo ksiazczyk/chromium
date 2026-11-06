@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the brailleDisplayPrivate writeDotsMultiLine test extension
+summary: Extension manifest for the writeDotsMultiLine API browser test, requesting the brailleDisplayPrivate permission and registering the test service worker.

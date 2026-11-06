@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test extension manifest for background context
+summary: Manifest v3 fixture for the test extension that registers background.js as a module service worker.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the popup download test extension
+summary: Manifest of the Popup download tester extension, declaring a browser action with the chromium.png icon and popup.html as its popup page.

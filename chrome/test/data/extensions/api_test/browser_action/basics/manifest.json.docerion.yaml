@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for browser action basics test extension
+summary: Manifest version 2 manifest for the browser action basics test extension, registering a persistent background script, host permissions and a default icon.

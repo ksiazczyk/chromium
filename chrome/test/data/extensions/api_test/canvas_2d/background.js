@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background script drawing on a 2D canvas
+// summary: Background script that draws a red rectangle on the 2D canvas and reports pass or fail through chrome.test notifications.
+// ---
+
 const canvas = document.getElementById('my-canvas');
 if (canvas) {
   if (canvas.getContext) {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Clipboard data changed test app background script
+// summary: Background script for the test app that opens app_main.html on launch and reports each chrome.clipboard.onClipboardDataChanged event to the test runner.
+// ---
+
 let clipDataChangedCount = 0;
 
 chrome.app.runtime.onLaunched.addListener(function(launchData) {

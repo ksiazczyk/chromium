@@ -4,6 +4,12 @@
 
 // Test clipboard extension api chrome.clipboard.onClipboardDataChanged event.
 
+// ---docerion
+// type: test
+// title: Clipboard data changed event test script
+// summary: Runs chrome.test cases that copy text via execCommand to trigger the onClipboardDataChanged event in the test app page.
+// ---
+
 
 function copyTextData(text) {
   const input = document.getElementById('copy_text');

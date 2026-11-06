@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the no-icon browser action test extension
+summary: Manifest version 2 manifest declaring the background script, tabs and host permissions, and a browser action without an icon for the API test.

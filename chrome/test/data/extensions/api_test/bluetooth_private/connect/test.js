@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bluetooth private connect API test
+// summary: Runs a chrome.test suite that calls chrome.bluetoothPrivate.connect on a device address and asserts the first connect succeeds and the second reports alreadyConnected.
+// ---
+
 const deviceAddress = '11:12:13:14:15:16';
 
 function testConnect() {

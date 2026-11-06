@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: chromeosInfoPrivate extended test background script
+// summary: Background script for the chromeosInfoPrivate extended API test that fetches device properties and asserts expected values based on the test name passed via the config custom argument.
+// ---
+
 chrome.app.runtime.onLaunched.addListener(function() {
   chrome.test.getConfig(function(config) {
     const testName = config.customArg;

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the browser action update test extension
+summary: Manifest for the test extension used to verify updates to the browser action icon and title, defining a persistent background page and default action appearance.

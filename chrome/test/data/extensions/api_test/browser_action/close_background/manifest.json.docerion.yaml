@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for close background page test extension
+summary: Manifest version 2 manifest defining the test extension with a background script and a browser action used by the close_background API test.

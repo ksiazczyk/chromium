@@ -1,0 +1,4 @@
+# Docerion header of remove_popup.html.
+type: test
+title: Test page for removing the browser action popup
+summary: Loads remove_popup.js, which clears the popup of the browser action for the active tab.

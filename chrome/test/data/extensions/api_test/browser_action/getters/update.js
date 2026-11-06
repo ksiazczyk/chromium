@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for default browser action getter values
+// summary: Test script asserting the default badge text, badge background color, popup URL, and title via chrome.test assertions.
+// ---
+
 const pass = chrome.test.callbackPass;
 
 chrome.test.runTests([

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bluetooth private pairing API test
+// summary: Runs a chrome.test suite that pairs with a device address, verifying pairing fails without an onPairing listener and succeeds after responding to a confirmPasskey request.
+// ---
+
 const deviceAddress = '11:12:13:14:15:16';
 const errorPairingNotEnabled = 'Pairing not enabled';
 

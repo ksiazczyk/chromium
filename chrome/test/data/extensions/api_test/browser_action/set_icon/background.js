@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser action setIcon test background script
+// summary: Background script for the browser action API test that draws image data on an OffscreenCanvas and sets the extension icon via chrome.browserAction.setIcon().
+// ---
+
 function getImageData() {
   const canvas = new OffscreenCanvas(10, 100);
   const ctx = canvas.getContext('2d');

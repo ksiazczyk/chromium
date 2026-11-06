@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the browser action enable test extension
+summary: Manifest version 2 manifest defining a test extension with a non-persistent background script and a browser action used to verify tab enabling and disabling.

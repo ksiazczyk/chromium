@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background script for browser action basics test
+// summary: Test extension background script that listens for browser action clicks and asserts that the clicked tab exposes url, title and id before notifying test success.
+// ---
+
 // Called when the user clicks on the browser action.
 chrome.browserAction.onClicked.addListener(function(tab) {
   // Privacy-sensitive properties are treated specially. Ensure they are

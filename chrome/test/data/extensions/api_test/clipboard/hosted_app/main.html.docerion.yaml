@@ -1,0 +1,4 @@
+# Docerion header of main.html.
+type: test
+title: Clipboard hosted app test page
+summary: HTML page for the ClipboardApiTest.HostedApp browser test, whose relevant test code is injected by the API test framework.

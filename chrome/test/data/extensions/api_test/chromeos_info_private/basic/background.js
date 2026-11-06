@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: chromeosInfoPrivate basic API test background script
+// summary: Runs browser tests for chrome.chromeosInfoPrivate, generating get() tests for many keys and set() tests for timezone and accessibility prefs.
+// ---
+
 const pass = chrome.test.callbackPass;
 const fail = chrome.test.callbackFail;
 

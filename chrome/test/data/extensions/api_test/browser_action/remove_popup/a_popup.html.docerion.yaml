@@ -1,0 +1,4 @@
+# Docerion header of a_popup.html.
+type: test
+title: Popup page for the remove popup test extension
+summary: Simple popup page shown by the test extension's browser action, displaying a test message.

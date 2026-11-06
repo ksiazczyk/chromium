@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bluetooth Socket Connect API Test Script
+// summary: Background script that creates and connects a Bluetooth socket, verifies socket properties, and checks connect error cases such as invalid socket, device, UUID, and permissions.
+// ---
+
 const address = '11:12:13:14:15:16';
 const uuid = '8e3ad063-db38-4289-aa8f-b30e4223cf40';
 

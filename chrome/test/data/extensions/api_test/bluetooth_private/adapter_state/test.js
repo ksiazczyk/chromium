@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bluetooth adapter state API test
+// summary: Browser test that reads the Bluetooth adapter state, sets a new name, powered and discoverable state via chrome.bluetoothPrivate.setAdapterState, and verifies the changes and idempotence.
+// ---
+
 const newAdapterName = 'Dome';
 
 function testSetAdapterState() {

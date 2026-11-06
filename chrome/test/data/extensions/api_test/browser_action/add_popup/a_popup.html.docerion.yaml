@@ -1,0 +1,4 @@
+# Docerion header of a_popup.html.
+type: test
+title: Popup page for browser action setPopup test
+summary: HTML page displayed as the browser action popup once the test sets it via chrome.browserAction.setPopup().

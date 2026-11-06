@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for browser action color API test extension
+summary: Manifest for the browser action color test extension, declaring a persistent background script, permissions, and browser action defaults.

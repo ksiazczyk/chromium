@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the bluetoothPrivate connect test extension
+summary: Manifest for the test extension that runs test.js as a background script and grants the bluetoothPrivate permission needed for the connect API test.

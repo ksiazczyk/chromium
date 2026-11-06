@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Failing popup test script
+// summary: Test script that verifies chrome.browserAction.openPopup fails to open a popup when one is already shown.
+// ---
+
 // Notify pass to return control to the ApiTest. This needs to be done in 2
 // passes so we can open the popup from the ApiTest side because loading an
 // extension hides any open popups. After a popup is opened, we can assert that

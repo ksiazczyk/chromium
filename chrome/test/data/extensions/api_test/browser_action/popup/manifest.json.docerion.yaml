@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Popup tester extension manifest
+summary: Manifest for the Popup tester extension used by the browser action popup API test, declaring the icon and default popup page.
