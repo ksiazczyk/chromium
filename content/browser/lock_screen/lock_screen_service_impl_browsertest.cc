@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Lock screen service browser tests
+// summary: Browser tests that enable the WebLockScreenApi feature, initialize test storage, and exercise SetData and GetKeys through the LockScreenService Mojo interface.
+// ---
+
 #include <memory>
 
 #include "base/base_paths.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ManifestIconDownloader implementation
+// summary: Implements downloading and decoding of web app manifest icons, including bitmap resizing, square padding, and result metrics.
+// ---
+
 #include "content/public/browser/manifest_icon_downloader.h"
 
 #include <stddef.h>

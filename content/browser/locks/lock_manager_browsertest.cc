@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Lock manager browser tests
+// summary: Browser tests exercising the lock manager end to end, including feature observer notifications when web locks start and stop being used.
+// ---
+
 #include <string>
 
 #include "base/memory/raw_ptr.h"

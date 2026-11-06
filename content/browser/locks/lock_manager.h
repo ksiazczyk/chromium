@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lock manager header
+// summary: Declares the browser-side LockManager implementing the Web Locks API, covering lock requests, releases, state queries and contention observers per storage partition.
+// ---
+
 #ifndef CONTENT_BROWSER_LOCKS_LOCK_MANAGER_H_
 #define CONTENT_BROWSER_LOCKS_LOCK_MANAGER_H_
 

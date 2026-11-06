@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lock screen storage implementation
+// summary: Implements per-origin lock screen data storage on a background sequence using ValueStore, keying each origin's database directory by a SHA-256 hash of the serialized origin.
+// ---
+
 #include "content/browser/lock_screen/lock_screen_storage_impl.h"
 
 #include <map>

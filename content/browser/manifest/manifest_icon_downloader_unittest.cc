@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ManifestIconDownloader unit tests
+// summary: Unit tests for the icon bitmap selection logic of ManifestIconDownloader across size, minimum, and aspect ratio cases.
+// ---
+
 #include "content/public/browser/manifest_icon_downloader.h"
 
 #include <string>

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners file for the manifest directory
+summary: OWNERS file that delegates code ownership to the Blink manifest module owners list.
