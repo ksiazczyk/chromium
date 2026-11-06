@@ -1,0 +1,4 @@
+# Docerion header of 1641.json.
+type: data
+title: Compositor frame render pass data for focused YouTube tab multi-surface test
+summary: Serialized compositor frame with render passes, quads and referenced surfaces captured for the focused YouTube tab scenario of the viz multi-surface test.

@@ -1,0 +1,4 @@
+# Docerion header of unit_tests_bundle_data.globlist.
+type: test
+title: Viz unit tests bundle data glob list
+summary: Generated glob list that includes all files under components/test/data/viz as iOS unit test bundle data, excluding filelist and globlist files.

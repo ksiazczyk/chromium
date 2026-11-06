@@ -1,0 +1,4 @@
+# Docerion header of heavy_layer_tree.json.
+type: test
+title: Heavy layer tree test fixture
+summary: JSON layer tree with large scrollable picture layers and rotated transforms, used as test input for viz compositor tests.

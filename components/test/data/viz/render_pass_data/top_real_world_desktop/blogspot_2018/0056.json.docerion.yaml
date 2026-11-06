@@ -1,0 +1,4 @@
+# Docerion header of 0056.json.
+type: test
+title: Blogspot 2018 desktop render pass test data 0056
+summary: JSON test fixture describing a compositor render pass with quad list, shared quad states, color space, and damage rect captured from a real-world desktop page.

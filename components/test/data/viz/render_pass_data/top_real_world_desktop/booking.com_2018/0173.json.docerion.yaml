@@ -1,0 +1,4 @@
+# Docerion header of 0173.json.
+type: test
+title: Booking.com 2018 desktop render pass test data 0173
+summary: Serialized render pass fixture listing quads, shared quad states, resources and damage rects captured from booking.com in 2018 for desktop rendering tests.

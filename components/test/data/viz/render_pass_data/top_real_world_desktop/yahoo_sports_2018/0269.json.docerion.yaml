@@ -1,0 +1,4 @@
+# Docerion header of 0269.json.
+type: test
+title: Yahoo Sports 2018 render pass test data 0269
+summary: Recorded render pass JSON describing quads, shared quad states, color space, and damage rects for the Yahoo Sports 2018 desktop page, used as expected data in visualization render pass tests.

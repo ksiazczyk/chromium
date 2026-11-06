@@ -1,0 +1,4 @@
+# Docerion header of 0284.json.
+type: test
+title: Render pass test data 0284 for LinkedIn 2018 desktop capture
+summary: Serialized viz render pass data captured from a LinkedIn 2018 desktop page, used as a test fixture for compositor visualization tests.

@@ -1,0 +1,4 @@
+# Docerion header of 10_10_layer_tree.json.
+type: test
+title: 10x10 layer tree test fixture
+summary: JSON layer tree fixture with UI resource, nine patch, texture, and solid color layers, used as test input for viz compositor tests.

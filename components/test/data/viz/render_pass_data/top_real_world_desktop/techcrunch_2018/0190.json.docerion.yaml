@@ -1,0 +1,4 @@
+# Docerion header of 0190.json.
+type: test
+title: Render pass quad data 0190 for TechCrunch 2018 desktop capture
+summary: JSON test fixture describing a compositor render pass with 45 quads, including quad list, shared quad states, damage and output rects, and color space details.

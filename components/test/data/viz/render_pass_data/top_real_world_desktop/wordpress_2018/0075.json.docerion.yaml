@@ -1,0 +1,4 @@
+# Docerion header of 0075.json.
+type: test
+title: Render pass test data for WordPress 2018 desktop (0075)
+summary: Serialized compositor render pass with quad list, shared quad states, and color space metadata captured from a WordPress 2018 desktop page, used as a viz rendering test fixture.

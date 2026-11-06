@@ -1,0 +1,4 @@
+# Docerion header of 0352.json.
+type: test
+title: Twitter 2018 render pass test data 0352
+summary: JSON fixture with render pass, quad list, and shared quad state data captured from a Twitter 2018 desktop page, used as test input for viz compositor rendering tests.

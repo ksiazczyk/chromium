@@ -1,0 +1,4 @@
+# Docerion header of 0066.json.
+type: test
+title: Gmail 2018 render pass test data 0066
+summary: JSON capture of render passes, quad lists, and shared quad states from Gmail 2018 desktop, used as test input for viz rendering tests.

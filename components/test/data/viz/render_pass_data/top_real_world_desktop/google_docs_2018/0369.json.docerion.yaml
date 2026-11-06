@@ -1,0 +1,4 @@
+# Docerion header of 0369.json.
+type: test
+title: Google Docs 2018 render pass test data (0369)
+summary: Serialized compositor render pass with quad list, shared quad states and metadata captured from Google Docs in 2018, used as a real-world desktop fixture for viz rendering tests.

@@ -1,0 +1,4 @@
+# Docerion header of touch_region_light.json.
+type: test
+title: Light touch region layer tree fixture
+summary: JSON layer tree with a simple full-page touch region and a scrollbar layer, used to test touch region handling in the viz compositor.

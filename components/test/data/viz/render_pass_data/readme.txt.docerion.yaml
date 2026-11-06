@@ -1,0 +1,4 @@
+# Docerion header of readme.txt.
+type: readme
+title: Render pass data recording instructions
+summary: Explains that the render pass list data was recorded with run_benchmark on top real-world sites and gives the Chromium CL and Windows command line used for recording.

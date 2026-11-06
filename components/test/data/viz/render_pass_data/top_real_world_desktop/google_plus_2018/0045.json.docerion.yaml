@@ -1,0 +1,4 @@
+# Docerion header of 0045.json.
+type: test
+title: Google Plus 2018 render pass test data 0045
+summary: Serialized compositor render pass data captured from the Google Plus 2018 desktop page, listing quads, textures and color spaces as test input for viz rendering tests.

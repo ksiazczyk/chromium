@@ -1,0 +1,4 @@
+# Docerion header of image_diff.html.
+type: test
+title: Image diff viewer page
+summary: HTML page that loads actual and expected images, computes a pixel diff on a canvas, and shows side-by-side results for pixel_test.cc failures.

@@ -1,0 +1,4 @@
+# Docerion header of 0120.json.
+type: test
+title: Pinterest 2018 desktop render pass test data 0120
+summary: JSON fixture capturing a single render pass with 41 quads from a Pinterest 2018 desktop page, stored as test data for the viz render pass tests.

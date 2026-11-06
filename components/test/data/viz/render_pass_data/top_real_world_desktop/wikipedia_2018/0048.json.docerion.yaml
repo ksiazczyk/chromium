@@ -1,0 +1,4 @@
+# Docerion header of 0048.json.
+type: test
+title: Wikipedia 2018 render pass test data 0048
+summary: JSON fixture describing a compositor render pass with quad list, shared quad states, and damage rects, used as real-world desktop test data for viz rendering.

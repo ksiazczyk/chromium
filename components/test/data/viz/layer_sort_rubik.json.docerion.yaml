@@ -1,0 +1,4 @@
+# Docerion header of layer_sort_rubik.json.
+type: test
+title: Rubik layer sorting test fixture
+summary: JSON layer tree with many small 3D-transformed picture layers, used to test 3D layer sorting in the viz compositor.
