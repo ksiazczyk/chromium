@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for Safe Browsing utils
+summary: Defines GN source sets for the utils and url_loader_factory_params targets plus their unit tests and dependencies.

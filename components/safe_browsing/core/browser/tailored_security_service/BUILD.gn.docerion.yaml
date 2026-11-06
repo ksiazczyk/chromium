@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the tailored security service
+summary: Defines the source_set targets, sources and dependencies for the tailored security service and its unit tests.

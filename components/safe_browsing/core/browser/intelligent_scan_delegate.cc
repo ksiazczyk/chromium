@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Intelligent scan delegate implementation
+// summary: Implements IntelligentScanResult success and failure helpers plus model type availability checks for intelligent scanning.
+// ---
+
 #include "components/safe_browsing/core/browser/intelligent_scan_delegate.h"
 
 namespace safe_browsing {

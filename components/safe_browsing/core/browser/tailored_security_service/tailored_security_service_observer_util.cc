@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tailored security observer utility implementations
+// summary: Implements helpers that check whether tailored security can be queried for a URL and whether an unconsented dialog can be shown.
+// ---
+
 #include "components/safe_browsing/core/browser/tailored_security_service/tailored_security_service_observer_util.h"
 
 #include "components/google/core/common/google_util.h"

@@ -4,6 +4,12 @@
 //
 // Utilities for the SafeBrowsing DB code.
 
+// ---docerion
+// type: source
+// title: Safe Browsing database utilities
+// summary: Defines client check types, subresource filter enums, and the ThreatMetadata struct used to carry GetFullHash metadata in Safe Browsing database code.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CORE_BROWSER_DB_UTIL_H_
 #define COMPONENTS_SAFE_BROWSING_CORE_BROWSER_DB_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Real-time policy engine implementation
+// summary: Implements checks that decide whether consumer or enterprise real-time URL lookup is allowed based on prefs, country, incognito state, and DM token.
+// ---
+
 #include "components/safe_browsing/core/browser/realtime/policy_engine.h"
 
 #include <algorithm>

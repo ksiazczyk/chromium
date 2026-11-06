@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SBLocalDatabaseManager unit tests
+// summary: Unit tests for SBLocalDatabaseManager using fake protocol managers and stores to cover browse URL, download, extension and allowlist checks.
+// ---
+
 #include "components/safe_browsing/core/browser/db/sb_local_database_manager.h"
 
 #include <utility>

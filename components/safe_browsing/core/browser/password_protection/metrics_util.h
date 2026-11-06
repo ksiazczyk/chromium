@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password protection metrics declarations
+// summary: Declares UMA histogram names and the RequestOutcome enum used by password protection metrics.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CORE_BROWSER_PASSWORD_PROTECTION_METRICS_UTIL_H_
 #define COMPONENTS_SAFE_BROWSING_CORE_BROWSER_PASSWORD_PROTECTION_METRICS_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing protocol manager utilities implementation
+// summary: Implements stateless helpers for Safe Browsing v4 and v5 protocol requests, including URL prefixes, escaping and host variant generation.
+// ---
+
 #include "components/safe_browsing/core/browser/db/sb_protocol_manager_util.h"
 
 #include <algorithm>

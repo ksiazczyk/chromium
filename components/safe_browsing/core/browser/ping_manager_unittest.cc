@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ping manager unit tests
+// summary: Unit tests for the Safe Browsing ping manager, covering threat details reporting, persisted reports, access tokens, user population and HaTS survey delegation.
+// ---
+
 #include "components/safe_browsing/core/browser/ping_manager.h"
 
 #include "base/base64.h"

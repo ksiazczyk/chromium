@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Safe Browsing HaTS delegate unit tests
+// summary: Unit tests for IsSurveyCandidate, checking report type and did-proceed filter matching across supported and unsupported threat types.
+// ---
+
 #include "components/safe_browsing/core/browser/safe_browsing_hats_delegate.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BackoffOperator unit tests
+// summary: Tests backoff entry, timer and success-based resets, and exponential growth of backoff duration using mock time.
+// ---
+
 #include "components/safe_browsing/core/browser/utils/backoff_operator.h"
 
 #include "base/test/task_environment.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Safe Browsing database manager unit tests
+// summary: Unit tests for SafeBrowsingDatabaseManager covering notification abuse checks and V5 get-hash protocol manager interactions.
+// ---
+
 #include "components/safe_browsing/core/browser/db/database_manager.h"
 
 #include <stddef.h>

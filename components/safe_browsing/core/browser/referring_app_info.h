@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Referring app info header
+// summary: Defines the internal ReferringAppInfo struct, the GetReferringAppInfoResult enum for logging, and the proto conversion helper.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CORE_BROWSER_REFERRING_APP_INFO_H_
 #define COMPONENTS_SAFE_BROWSING_CORE_BROWSER_REFERRING_APP_INFO_H_
 

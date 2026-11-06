@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Safe Browsing database manager implementation
+// summary: Implements a test fake that classifies configured URLs as dangerous and stubs Safe Browsing checks for browse, download, extension, and allowlist lookups.
+// ---
+
 #include "components/safe_browsing/core/browser/db/fake_database_manager.h"
 
 #include "base/feature_list.h"

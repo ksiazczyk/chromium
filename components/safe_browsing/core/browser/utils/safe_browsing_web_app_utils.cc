@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing web app key helper implementation
+// summary: Builds a SafeBrowsingWebAppKey proto from a web app's start URL and manifest ID, validating origins and handling ports and paths.
+// ---
+
 #include "components/safe_browsing/core/browser/utils/safe_browsing_web_app_utils.h"
 
 #include <string_view>

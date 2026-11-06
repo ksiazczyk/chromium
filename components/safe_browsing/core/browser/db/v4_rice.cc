@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V4 Rice-Golomb decoder implementation
+// summary: Implements V4RiceDecoder for decoding Rice-encoded integers and 4-byte hash prefixes from Safe Browsing list updates, with input validation and overflow checks.
+// ---
+
 #include <algorithm>
 #include <vector>
 

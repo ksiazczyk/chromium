@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Safe Browsing metrics collector unit tests
+// summary: Unit tests covering daily metric logging, event timestamp storage, and enhanced protection state handling of the metrics collector.
+// ---
+
 #include "components/safe_browsing/core/browser/safe_browsing_metrics_collector.h"
 
 #include <memory>

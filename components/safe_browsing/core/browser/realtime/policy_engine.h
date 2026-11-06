@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Real-time policy engine class declaration
+// summary: Declares RealTimePolicyEngine with static methods determining whether the real-time lookup feature is enabled for a given user or profile.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CORE_BROWSER_REALTIME_POLICY_ENGINE_H_
 #define COMPONENTS_SAFE_BROWSING_CORE_BROWSER_REALTIME_POLICY_ENGINE_H_
 

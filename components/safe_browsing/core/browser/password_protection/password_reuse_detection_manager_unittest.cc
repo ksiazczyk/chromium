@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password reuse detection manager unit tests
+// summary: Unit tests verifying that reuse checks run on key presses with the buffered keystrokes, and that the buffer clears after navigation or inactivity.
+// ---
+
 #include "components/safe_browsing/core/browser/password_protection/password_reuse_detection_manager.h"
 
 #include <array>

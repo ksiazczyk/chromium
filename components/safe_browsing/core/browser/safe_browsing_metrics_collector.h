@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing metrics collector header
+// summary: Declares the KeyedService that logs Safe Browsing metrics daily and defines event and notification revocation enums used for histograms.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CORE_BROWSER_SAFE_BROWSING_METRICS_COLLECTOR_H_
 #define COMPONENTS_SAFE_BROWSING_CORE_BROWSER_SAFE_BROWSING_METRICS_COLLECTOR_H_
 

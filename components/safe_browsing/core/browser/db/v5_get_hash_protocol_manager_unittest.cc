@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: V5 GetHash protocol manager unit tests
+// summary: Unit tests for the V5 GetHash protocol manager covering request construction, responses, caching, backoff, and WebUI lookup logging.
+// ---
+
 #include "components/safe_browsing/core/browser/db/v5_get_hash_protocol_manager.h"
 
 #include <array>

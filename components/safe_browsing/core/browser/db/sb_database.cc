@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SBDatabase implementation
+// summary: Implements SBDatabase, which manages Safe Browsing stores on disk, performs full hash lookups, verifies store checksums and records timing metrics.
+// ---
+
 #include "components/safe_browsing/core/browser/db/sb_database.h"
 
 #include <memory>

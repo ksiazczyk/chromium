@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL loader factory params helper header
+// summary: Declares GetUrlLoaderFactoryParams, which supplies the params used for Safe Browsing URLLoaderFactory construction.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CORE_BROWSER_UTILS_URL_LOADER_FACTORY_PARAMS_H_
 #define COMPONENTS_SAFE_BROWSING_CORE_BROWSER_UTILS_URL_LOADER_FACTORY_PARAMS_H_
 

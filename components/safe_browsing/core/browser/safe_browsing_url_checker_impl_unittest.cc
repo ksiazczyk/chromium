@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SafeBrowsingUrlCheckerImpl unit tests
+// summary: Unit tests for the Safe Browsing URL checker, using fake database managers, real-time lookup services, and token fetchers to verify check outcomes and metrics.
+// ---
+
 #include "components/safe_browsing/core/browser/safe_browsing_url_checker_impl.h"
 
 #include <memory>

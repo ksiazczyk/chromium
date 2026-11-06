@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: V4 Rice decoder unit tests
+// summary: Unit tests verifying V4RiceDecoder behavior on empty data, missing entries, and known encoded sequences with expected decoded values.
+// ---
+
 #include "components/safe_browsing/core/browser/db/v4_rice.h"
 #include "base/logging.h"
 #include "testing/platform_test.h"

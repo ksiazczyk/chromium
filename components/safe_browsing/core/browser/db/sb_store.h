@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing store header
+// summary: Declares the SBStore base class, enums for update and write results, and file output stream helpers for Safe Browsing stores.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CORE_BROWSER_DB_SB_STORE_H_
 #define COMPONENTS_SAFE_BROWSING_CORE_BROWSER_DB_SB_STORE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V4 update protocol manager implementation
+// summary: Implements the V4 Safe Browsing update protocol manager that schedules list updates, sends requests, parses server responses, and records metrics.
+// ---
+
 #include "components/safe_browsing/core/browser/db/v4_update_protocol_manager.h"
 
 #include "base/base64url.h"

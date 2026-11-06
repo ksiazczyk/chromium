@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: V4 update protocol manager unit tests
+// summary: Unit tests for the V4 update protocol manager covering update scheduling, error handling, backoff, timeouts, and extended reporting levels.
+// ---
+
 #include "components/safe_browsing/core/browser/db/v4_update_protocol_manager.h"
 
 #include <memory>

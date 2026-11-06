@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing lookup mechanism runner implementation
+// summary: Runs Safe Browsing lookup mechanisms with a five-second timeout, reporting results or timeout to the caller and logging check duration metrics.
+// ---
+
 #include "components/safe_browsing/core/browser/safe_browsing_lookup_mechanism_runner.h"
 
 #include "base/metrics/histogram_functions.h"

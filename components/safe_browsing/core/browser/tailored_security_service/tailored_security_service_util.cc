@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tailored security service utility implementation
+// summary: Implements helpers that map tailored security outcomes to user action strings and record UMA histograms for enabled notification results.
+// ---
+
 #include "components/safe_browsing/core/browser/tailored_security_service/tailored_security_service_util.h"
 
 #include "base/metrics/histogram_functions.h"

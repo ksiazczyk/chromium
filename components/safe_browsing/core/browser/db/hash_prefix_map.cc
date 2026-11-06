@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hash prefix map implementation
+// summary: Implements HashPrefixMap, storing sorted hash prefixes per prefix size for the V4 Safe Browsing store with memory-mapped files and update application.
+// ---
+
 #include "components/safe_browsing/core/browser/db/hash_prefix_map.h"
 
 #include <optional>

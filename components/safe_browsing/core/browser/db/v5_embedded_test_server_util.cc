@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: V5 embedded test server utilities
+// summary: Test helpers that mock V5 Safe Browsing server endpoints for hashes:search and hashLists:batchGet on an embedded test server.
+// ---
+
 #include "components/safe_browsing/core/browser/db/v5_embedded_test_server_util.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing WebUI utility functions
+// summary: Implements formatting helpers and data structures that prepare Safe Browsing debug data for the WebUI.
+// ---
+
 #include "components/safe_browsing/core/browser/web_ui/safe_browsing_ui_util.h"
 
 #include "base/base64.h"

@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: ThreatMetadata unit tests
+// summary: Unit tests verifying ThreatMetadata equality, inequality, and the traced JSON output of subresource filter matches.
+// ---
+
 #include "components/safe_browsing/core/browser/db/util.h"
 #include "testing/gtest/include/gtest/gtest.h"
 

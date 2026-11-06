@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tailored security observer utility declarations
+// summary: Declares helpers for tailored security URL queries and unconsented dialog eligibility, plus a notification threshold constant.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CORE_BROWSER_TAILORED_SECURITY_SERVICE_TAILORED_SECURITY_SERVICE_OBSERVER_UTIL_H_
 #define COMPONENTS_SAFE_BROWSING_CORE_BROWSER_TAILORED_SECURITY_SERVICE_TAILORED_SECURITY_SERVICE_OBSERVER_UTIL_H_
 

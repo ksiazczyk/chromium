@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake real-time URL lookup service class declaration
+// summary: Declares FakeRealTimeUrlLookupService, an abstract test fake that most tests derive from to implement StartLookup.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CORE_BROWSER_REALTIME_FAKE_URL_LOOKUP_SERVICE_H_
 #define COMPONENTS_SAFE_BROWSING_CORE_BROWSER_REALTIME_FAKE_URL_LOOKUP_SERVICE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the client side detection host
+// summary: Tests host behavior using a mocked detection service and intelligent scan delegate.
+// ---
+
 #include "components/safe_browsing/core/browser/client_side_detection_host_base.h"
 
 #include <memory>

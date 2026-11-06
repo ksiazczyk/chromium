@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the Safe Browsing core browser directory
+summary: Lists the headers and components that files in this directory are allowed to include.

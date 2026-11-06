@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V4 store implementation
+// summary: Implements V4Store operations for reading stores from disk, applying full and partial updates, writing store files, and recording UMA metrics.
+// ---
+
 #include "components/safe_browsing/core/browser/db/v4_store.h"
 
 #include <algorithm>

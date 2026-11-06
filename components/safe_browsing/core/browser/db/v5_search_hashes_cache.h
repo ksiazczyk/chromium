@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V5 SearchHashes cache interface
+// summary: Declares the V5SearchHashesCache keyed service that stores full hash results per hash prefix with expiry.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CORE_BROWSER_DB_V5_SEARCH_HASHES_CACHE_H_
 #define COMPONENTS_SAFE_BROWSING_CORE_BROWSER_DB_V5_SEARCH_HASHES_CACHE_H_
 

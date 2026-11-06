@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Verdict cache manager implementation
+// summary: Implements caching and lookup of PhishGuard and real-time URL verdicts in content settings with periodic expiry cleanup.
+// ---
+
 #include "components/safe_browsing/core/browser/verdict_cache_manager.h"
 
 #include <algorithm>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for Safe Browsing sync sources and unit tests
+summary: Defines GN source sets for the Safe Browsing sync component and its unit tests, listing sources and dependencies.

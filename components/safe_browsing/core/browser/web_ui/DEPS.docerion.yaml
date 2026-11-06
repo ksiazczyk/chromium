@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Safe Browsing WebUI include rules
+summary: Grants this directory access to sync protocol and password manager headers for include checking.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Hash prefix list unit tests
+// summary: Unit tests covering successful writes, failed writes, buffered writes, and disk reads of the V5 HashPrefixList store files and their error histograms.
+// ---
+
 #include "components/safe_browsing/core/browser/db/hash_prefix_list.h"
 
 #include <cstdint>

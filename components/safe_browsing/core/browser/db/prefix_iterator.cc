@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefixIterator implementation
+// summary: Implements the constructors of PrefixIterator, a random access iterator used to binary search within hash prefix buffers.
+// ---
+
 #include "components/safe_browsing/core/browser/db/prefix_iterator.h"
 
 #include <string_view>

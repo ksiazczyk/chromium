@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: V5 Rice decoder unit tests
+// summary: Unit tests covering Uint256 arithmetic, bit reading, and Rice-Golomb integer and prefix decoding.
+// ---
+
 #include "components/safe_browsing/core/browser/db/v5_rice.h"
 
 #include <algorithm>

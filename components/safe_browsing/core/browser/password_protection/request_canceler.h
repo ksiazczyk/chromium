@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Request canceler interface
+// summary: Declares the pure virtual CancelableRequest interface and the RequestCanceler factory that ties request cancellation to a WebContents or WebState.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CORE_BROWSER_PASSWORD_PROTECTION_REQUEST_CANCELER_H_
 #define COMPONENTS_SAFE_BROWSING_CORE_BROWSER_PASSWORD_PROTECTION_REQUEST_CANCELER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: V5 SearchHashes cache unit tests
+// summary: Unit tests for cache hits, misses, expiration, metrics logging, and artificial verdict caching.
+// ---
+
 #include "components/safe_browsing/core/browser/db/v5_search_hashes_cache.h"
 
 #include "base/command_line.h"

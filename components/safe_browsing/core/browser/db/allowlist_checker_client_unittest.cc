@@ -1,6 +1,13 @@
 // Copyright 2017 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Allowlist checker client unit tests
+// summary: Unit tests for AllowlistCheckerClient covering match, no-match, async, and timeout outcomes along with histogram logging.
+// ---
+
 #include "components/safe_browsing/core/browser/db/allowlist_checker_client.h"
 
 #include <memory>

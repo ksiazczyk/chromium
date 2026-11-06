@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V5 update protocol manager header
+// summary: Declares the V5UpdateProtocolManager for the Safe Browsing V5 BatchGetHashLists API, including parse and operation result enums and update callbacks.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CORE_BROWSER_DB_V5_UPDATE_PROTOCOL_MANAGER_H_
 #define COMPONENTS_SAFE_BROWSING_CORE_BROWSER_DB_V5_UPDATE_PROTOCOL_MANAGER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: V4 embedded test server helper header
+// summary: Declares StartRedirectingV4RequestsForTesting, which points the V4 server URL at a test server and registers a full hash response handler with optional delays and cookies.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CORE_BROWSER_DB_V4_EMBEDDED_TEST_SERVER_UTIL_H_
 #define COMPONENTS_SAFE_BROWSING_CORE_BROWSER_DB_V4_EMBEDDED_TEST_SERVER_UTIL_H_
 

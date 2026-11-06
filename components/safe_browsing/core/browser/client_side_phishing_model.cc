@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClientSidePhishingModel implementation
+// summary: Implements loading of the client-side phishing detection model, including model overrides, visual TfLite files, and image embedding models.
+// ---
+
 #include "components/safe_browsing/core/browser/client_side_phishing_model.h"
 
 #include <stdint.h>

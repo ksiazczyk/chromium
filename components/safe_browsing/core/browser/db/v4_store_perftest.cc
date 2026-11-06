@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: V4 store performance tests
+// summary: Performance tests measuring V4Store prefix matching, checksum verification, and update merging on large sets of generated hash prefixes.
+// ---
+
 #include <memory>
 #include <string>
 #include <string_view>

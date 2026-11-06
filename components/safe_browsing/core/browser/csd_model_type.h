@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CSD model type enum
+// summary: Defines the CSDModelType enum distinguishing between no model and a flatbuffer client-side detection model.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CORE_BROWSER_CSD_MODEL_TYPE_H_
 #define COMPONENTS_SAFE_BROWSING_CORE_BROWSER_CSD_MODEL_TYPE_H_
 

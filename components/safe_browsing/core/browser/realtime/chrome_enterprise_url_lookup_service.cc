@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome enterprise real-time URL lookup service implementation
+// summary: Implements the Chrome enterprise real-time URL lookup service, including command-line endpoint overrides and enterprise-specific lookup behavior.
+// ---
+
 #include "components/safe_browsing/core/browser/realtime/chrome_enterprise_url_lookup_service.h"
 
 #include "base/command_line.h"

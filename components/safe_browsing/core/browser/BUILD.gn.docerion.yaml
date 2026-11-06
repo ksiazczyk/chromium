@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the Safe Browsing browser component
+summary: Defines source sets and dependencies for the Safe Browsing core browser code.

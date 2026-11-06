@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing UI handler implementation
+// summary: Implements the message handler for the Safe Browsing WebUI, resolving callbacks for experiments, preferences, policies, cookies, saved passwords and other debug information shown on the page.
+// ---
+
 #include "components/safe_browsing/core/browser/web_ui/safe_browsing_ui_handler.h"
 
 #include "base/memory/scoped_refptr.h"

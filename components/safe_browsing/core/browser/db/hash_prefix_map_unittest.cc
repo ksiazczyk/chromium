@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Hash prefix map unit tests
+// summary: Unit tests covering file writes, multiple prefix sizes, buffered writes, and failure handling for the V4 HashPrefixMap store.
+// ---
+
 #include "components/safe_browsing/core/browser/db/hash_prefix_map.h"
 
 #include <algorithm>

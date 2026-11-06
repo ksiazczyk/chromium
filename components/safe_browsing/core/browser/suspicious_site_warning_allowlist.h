@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Suspicious site warning allowlist declaration
+// summary: Declares the SuspiciousSiteWarningAllowlist class with a 30-day TTL for hosts marked safe, plus outcome and user interaction enums used for logging.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CORE_BROWSER_SUSPICIOUS_SITE_WARNING_ALLOWLIST_H_
 #define COMPONENTS_SAFE_BROWSING_CORE_BROWSER_SUSPICIOUS_SITE_WARNING_ALLOWLIST_H_
 

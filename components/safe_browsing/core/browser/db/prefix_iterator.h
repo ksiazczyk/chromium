@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefixIterator class declaration
+// summary: Declares PrefixIterator, a random access iterator that steps through fixed-size hash prefixes to support binary search in HashPrefixes.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CORE_BROWSER_DB_PREFIX_ITERATOR_H_
 #define COMPONENTS_SAFE_BROWSING_CORE_BROWSER_DB_PREFIX_ITERATOR_H_
 

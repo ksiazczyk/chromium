@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hash-prefix real-time lookup mechanism
+// summary: Declares HashRealTimeMechanism for performing hash-prefix real-time Safe Browsing URL checks with fallback to the hash-based database check.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CORE_BROWSER_HASH_REALTIME_MECHANISM_H_
 #define COMPONENTS_SAFE_BROWSING_CORE_BROWSER_HASH_REALTIME_MECHANISM_H_
 

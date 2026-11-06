@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the realtime directory
+summary: Grants this directory include access to the signin identity manager and policy common components.

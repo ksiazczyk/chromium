@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ClientSideDetectionServiceBase unit tests
+// summary: Unit tests for the client-side detection service base, using a test Optimization Guide model provider to exercise model updates and service behavior.
+// ---
+
 #include "components/safe_browsing/core/browser/client_side_detection_service_base.h"
 
 #include <memory>

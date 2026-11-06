@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Safe Browsing web app utils unit tests
+// summary: Table-driven tests covering GetSafeBrowsingWebAppKey behavior across start URL, manifest ID, port, and subdomain cases.
+// ---
+
 #include "components/safe_browsing/core/browser/utils/safe_browsing_web_app_utils.h"
 
 #include <optional>

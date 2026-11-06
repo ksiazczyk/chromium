@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Stub password reuse detection manager client header
+// summary: Declares a test-only stub base class for the password reuse detection manager client with trivial implementations to avoid stubbing uninteresting methods.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CORE_BROWSER_PASSWORD_PROTECTION_STUB_PASSWORD_REUSE_DETECTION_MANAGER_CLIENT_H_
 #define COMPONENTS_SAFE_BROWSING_CORE_BROWSER_PASSWORD_PROTECTION_STUB_PASSWORD_REUSE_DETECTION_MANAGER_CLIENT_H_
 

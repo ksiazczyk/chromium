@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Intelligent scan delegate interface
+// summary: Declares the IntelligentScanDelegate keyed service interface for requesting, cancelling, and evaluating intelligent scans from client side detection.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CORE_BROWSER_INTELLIGENT_SCAN_DELEGATE_H_
 #define COMPONENTS_SAFE_BROWSING_CORE_BROWSER_INTELLIGENT_SCAN_DELEGATE_H_
 

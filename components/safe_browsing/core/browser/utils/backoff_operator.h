@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BackoffOperator class header
+// summary: Declares the BackoffOperator class that throttles consistently failing requests by tracking failures and managing backoff durations.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CORE_BROWSER_UTILS_BACKOFF_OPERATOR_H_
 #define COMPONENTS_SAFE_BROWSING_CORE_BROWSER_UTILS_BACKOFF_OPERATOR_H_
 

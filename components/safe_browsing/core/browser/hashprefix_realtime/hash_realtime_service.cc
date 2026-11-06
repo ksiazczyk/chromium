@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hash real time service implementation
+// summary: Implements the hash-prefix real-time lookup service, including backoff logic, response handling, metrics, and oblivious HTTP request support.
+// ---
+
 #include "components/safe_browsing/core/browser/hashprefix_realtime/hash_realtime_service.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test Safe Browsing token fetcher declaration
+// summary: Declares a test double of SafeBrowsingTokenFetcher that fakes access token retrieval and exposes whether Start was called.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CORE_BROWSER_TEST_SAFE_BROWSING_TOKEN_FETCHER_H_
 #define COMPONENTS_SAFE_BROWSING_CORE_BROWSER_TEST_SAFE_BROWSING_TOKEN_FETCHER_H_
 

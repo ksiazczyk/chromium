@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client side detection host implementation
+// summary: Implements the per-tab host that triggers phishing detection, logs metrics and manages pings.
+// ---
+
 #include "components/safe_browsing/core/browser/client_side_detection_host_base.h"
 
 #include <string_view>

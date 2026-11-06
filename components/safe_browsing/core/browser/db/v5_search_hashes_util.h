@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V5 SearchHashes utility declarations
+// summary: Declares parse failure codes, threat result types, and helpers for handling V5 SearchHashes responses.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CORE_BROWSER_DB_V5_SEARCH_HASHES_UTIL_H_
 #define COMPONENTS_SAFE_BROWSING_CORE_BROWSER_DB_V5_SEARCH_HASHES_UTIL_H_
 

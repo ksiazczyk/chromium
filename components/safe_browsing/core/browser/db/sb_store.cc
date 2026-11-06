@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing store implementation
+// summary: Implements the SBStore base class for reading and writing Safe Browsing hash list stores, with update handling and UMA metrics.
+// ---
+
 #include "components/safe_browsing/core/browser/db/sb_store.h"
 
 #include <optional>

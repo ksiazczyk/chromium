@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Allowlist checker client implementation
+// summary: Implements AllowlistCheckerClient, which checks URLs against the CSD allowlist via the database manager and fails open on timeout.
+// ---
+
 #include "components/safe_browsing/core/browser/db/allowlist_checker_client.h"
 
 #include <memory>

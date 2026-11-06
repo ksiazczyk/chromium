@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing sync observer implementation
+// summary: Implements observation of sync service state changes to notify a callback when history sync is enabled or disabled.
+// ---
+
 #include "components/safe_browsing/core/browser/sync/safe_browsing_sync_observer_impl.h"
 
 #include "components/sync/service/sync_service.h"

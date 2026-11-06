@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUIInfoSingletonEventObserverImpl class header
+// summary: Header for the WebUIInfoSingletonEventObserverImpl class, which implements the event observer interface that notifies JavaScript listeners about Safe Browsing events such as lookups, pings and reports.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CORE_BROWSER_WEB_UI_WEB_UI_INFO_SINGLETON_EVENT_OBSERVER_IMPL_H_
 #define COMPONENTS_SAFE_BROWSING_CORE_BROWSER_WEB_UI_WEB_UI_INFO_SINGLETON_EVENT_OBSERVER_IMPL_H_
 

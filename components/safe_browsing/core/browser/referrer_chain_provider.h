@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Referrer chain provider interface
+// summary: Abstract interface for identifying referrer chains by render frame host or event URL, with attribution result values used for UMA histogram counting.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CORE_BROWSER_REFERRER_CHAIN_PROVIDER_H_
 #define COMPONENTS_SAFE_BROWSING_CORE_BROWSER_REFERRER_CHAIN_PROVIDER_H_
 

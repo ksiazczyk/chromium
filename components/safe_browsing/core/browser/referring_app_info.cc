@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Referring app info implementation
+// summary: Implements helpers that convert internal referring app data into the ReferringAppInfo proto, including WebAPK key computation.
+// ---
+
 #include "components/safe_browsing/core/browser/referring_app_info.h"
 
 #include "components/safe_browsing/core/browser/utils/safe_browsing_web_app_utils.h"

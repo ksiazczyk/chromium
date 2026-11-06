@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OHTTP key service unit tests
+// summary: Unit tests for OhttpKeyService covering key fetching, parsing, expiration, async refresh, and backoff behavior with a test URL loader factory.
+// ---
+
 #include "components/safe_browsing/core/browser/hashprefix_realtime/ohttp_key_service.h"
 
 #include <memory>

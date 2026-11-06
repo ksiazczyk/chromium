@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClientSidePhishingModel class header
+// summary: Declares the class that holds the active client-side phishing detection model and exposes its flatbuffer, visual TfLite, and image embedding data.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CORE_BROWSER_CLIENT_SIDE_PHISHING_MODEL_H_
 #define COMPONENTS_SAFE_BROWSING_CORE_BROWSER_CLIENT_SIDE_PHISHING_MODEL_H_
 

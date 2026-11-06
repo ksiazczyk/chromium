@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing web app key helper header
+// summary: Declares GetSafeBrowsingWebAppKey, which returns a web app key proto or nullopt when required conditions are not met.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CORE_BROWSER_UTILS_SAFE_BROWSING_WEB_APP_UTILS_H_
 #define COMPONENTS_SAFE_BROWSING_CORE_BROWSER_UTILS_SAFE_BROWSING_WEB_APP_UTILS_H_
 

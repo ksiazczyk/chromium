@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Real-time policy engine unit tests
+// summary: Unit tests verifying policy engine decisions for consumer and enterprise real-time URL lookup across opt-in, incognito, and token scenarios.
+// ---
+
 #include "components/safe_browsing/core/browser/realtime/policy_engine.h"
 
 #include "base/test/scoped_feature_list.h"

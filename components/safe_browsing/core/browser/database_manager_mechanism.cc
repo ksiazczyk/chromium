@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DatabaseManagerMechanism implementation
+// summary: Implements a Safe Browsing lookup mechanism that checks URLs against the database manager, including high-confidence allowlist checks.
+// ---
+
 #include "components/safe_browsing/core/browser/database_manager_mechanism.h"
 
 #include "base/metrics/histogram_functions.h"

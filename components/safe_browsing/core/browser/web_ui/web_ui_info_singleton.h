@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUIInfoSingleton class header
+// summary: Header for the WebUIInfoSingleton class, which records Safe Browsing events such as download checks, phishing requests, pings and security events and forwards them to open Safe Browsing WebUI tabs.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CORE_BROWSER_WEB_UI_WEB_UI_INFO_SINGLETON_H_
 #define COMPONENTS_SAFE_BROWSING_CORE_BROWSER_WEB_UI_WEB_UI_INFO_SINGLETON_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Credit card form event unit tests
+// summary: Unit tests verifying credit card form event permutation values and their histogram logging.
+// ---
+
 #include "components/safe_browsing/core/browser/credit_card_form_event.h"
 
 #include <optional>

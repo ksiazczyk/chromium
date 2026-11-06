@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V5 GetHash protocol manager header
+// summary: Declares the V5 GetHash protocol manager keyed service, its outcome enums, and structures for tracking full-hash lookups and check context.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CORE_BROWSER_DB_V5_GET_HASH_PROTOCOL_MANAGER_H_
 #define COMPONENTS_SAFE_BROWSING_CORE_BROWSER_DB_V5_GET_HASH_PROTOCOL_MANAGER_H_
 

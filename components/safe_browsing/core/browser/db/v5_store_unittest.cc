@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: V5 store unit tests
+// summary: Unit tests for the Safe Browsing V5 store, covering disk reads, update application, file format validation, and v4-to-v5 migration.
+// ---
+
 #include "components/safe_browsing/core/browser/db/v5_store.h"
 
 #include <optional>

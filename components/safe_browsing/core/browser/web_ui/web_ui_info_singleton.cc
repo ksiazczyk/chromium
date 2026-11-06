@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI info singleton implementation
+// summary: Implements a singleton that records Safe Browsing events such as download URL checks, client download and phishing requests and responses, and reports, notifying registered WebUI listeners of each event.
+// ---
+
 #include "components/safe_browsing/core/browser/web_ui/web_ui_info_singleton.h"
 
 #include "base/functional/callback_helpers.h"

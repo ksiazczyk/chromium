@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V4 update protocol manager header
+// summary: Declares the V4 update protocol manager, its callbacks, and helpers for building, sending, and parsing Safe Browsing list update requests.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CORE_BROWSER_DB_V4_UPDATE_PROTOCOL_MANAGER_H_
 #define COMPONENTS_SAFE_BROWSING_CORE_BROWSER_DB_V4_UPDATE_PROTOCOL_MANAGER_H_
 

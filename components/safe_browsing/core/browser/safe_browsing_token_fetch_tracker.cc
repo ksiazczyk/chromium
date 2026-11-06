@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing token fetch tracker implementation
+// summary: Tracks outstanding Safe Browsing access token fetches, invoking client callbacks on completion or after a timeout delay.
+// ---
+
 #include "components/safe_browsing/core/browser/safe_browsing_token_fetch_tracker.h"
 
 #include "base/functional/bind.h"

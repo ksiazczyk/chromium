@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Threat metadata implementation
+// summary: Implements ThreatMetadata constructors and its tracing serialization of subresource filter match metadata for the Safe Browsing database code.
+// ---
+
 #include "components/safe_browsing/core/browser/db/util.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V5 Rice decoder types and bit reader
+// summary: Defines Uint256, Rice parameter traits, and the V5BitReader used for Rice-Golomb decoding in Safe Browsing V5.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CORE_BROWSER_DB_V5_RICE_H_
 #define COMPONENTS_SAFE_BROWSING_CORE_BROWSER_DB_V5_RICE_H_
 

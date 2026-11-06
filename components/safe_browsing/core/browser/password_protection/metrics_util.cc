@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password protection metrics implementation
+// summary: Implements UMA histogram logging for password protection request outcomes, verdicts and warning actions.
+// ---
+
 #include "components/safe_browsing/core/browser/password_protection/metrics_util.h"
 
 #include "base/logging.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download check result enum
+// summary: Defines the DownloadCheckResult enum of client download check outcomes with stable numeric values persisted to logs.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CORE_BROWSER_DOWNLOAD_CHECK_RESULT_H_
 #define COMPONENTS_SAFE_BROWSING_CORE_BROWSER_DOWNLOAD_CHECK_RESULT_H_
 

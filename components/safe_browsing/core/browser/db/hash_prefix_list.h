@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hash prefix list header
+// summary: Declares HashPrefixList for sorted hash prefixes in the V5 store and the V5ApplyUpdateResult enum of update outcomes that is persisted to logs.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CORE_BROWSER_DB_HASH_PREFIX_LIST_H_
 #define COMPONENTS_SAFE_BROWSING_CORE_BROWSER_DB_HASH_PREFIX_LIST_H_
 

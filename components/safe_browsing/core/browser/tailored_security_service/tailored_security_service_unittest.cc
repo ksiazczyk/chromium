@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tailored security service unit tests
+// summary: Unit tests for the tailored security service, using a testing subclass with a mock URL loader factory to verify request handling and sync user notifications.
+// ---
+
 #include "components/safe_browsing/core/browser/tailored_security_service/tailored_security_service.h"
 
 #include <memory>

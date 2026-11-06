@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V5 Rice decoding utilities
+// summary: Implements Uint256 arithmetic, bit reading, and Rice-Golomb delta decoding for Safe Browsing V5 hash lists.
+// ---
+
 #include "components/safe_browsing/core/browser/db/v5_rice.h"
 
 #include <algorithm>

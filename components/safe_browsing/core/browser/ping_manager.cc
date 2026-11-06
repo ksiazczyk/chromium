@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing ping manager implementation
+// summary: Implements PingManager, which sends Safe Browsing reports to Google servers and persists unsent reports on disk for later retry.
+// ---
+
 #include "components/safe_browsing/core/browser/ping_manager.h"
 
 #include <memory>

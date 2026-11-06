@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Request canceler implementation
+// summary: Implements RequestCanceler, which holds a weak pointer to a CancelableRequest so the request can be canceled when it is no longer valid.
+// ---
+
 #include "components/safe_browsing/core/browser/password_protection/request_canceler.h"
 
 namespace safe_browsing {

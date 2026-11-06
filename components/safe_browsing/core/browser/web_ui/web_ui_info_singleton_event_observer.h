@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUIInfoSingletonEventObserver interface for Safe Browsing WebUI events
+// summary: Defines the observer interface notified of WebUIInfoSingleton changes, forwarding Safe Browsing events to the SafeBrowsingUIHandler through a delegate.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CORE_BROWSER_WEB_UI_WEB_UI_INFO_SINGLETON_EVENT_OBSERVER_H_
 #define COMPONENTS_SAFE_BROWSING_CORE_BROWSER_WEB_UI_WEB_UI_INFO_SINGLETON_EVENT_OBSERVER_H_
 
