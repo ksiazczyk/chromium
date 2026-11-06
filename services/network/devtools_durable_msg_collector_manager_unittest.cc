@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DevtoolsDurableMessageCollectorManager unit tests
+// summary: Unit tests for the collector manager covering collector creation, disconnects, profile enablement and aggregate memory usage reporting.
+// ---
+
 #include "services/network/devtools_durable_msg_collector_manager.h"
 
 #include "base/containers/span.h"

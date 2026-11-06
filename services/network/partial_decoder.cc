@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PartialDecoder implementation
+// summary: Implements PartialDecoderResult raw buffer consumption and PartialDecoder's recording stream, which decodes the start of a response body while retaining the raw encoded data.
+// ---
+
 #include "services/network/partial_decoder.h"
 
 #include "base/check_op.h"

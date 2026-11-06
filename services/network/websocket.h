@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebSocket class header
+// summary: Declares the WebSocket class implementing mojom::WebSocket in the network service, including cookie policy, throttling and header client hooks.
+// ---
+
 #ifndef SERVICES_NETWORK_WEBSOCKET_H_
 #define SERVICES_NETWORK_WEBSOCKET_H_
 

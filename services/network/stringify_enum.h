@@ -6,6 +6,12 @@
 // for implementing production features! Only for logging. Tested in GCC and
 // Clang.
 
+// ---docerion
+// type: source
+// title: Enum stringification utilities
+// summary: Compile-time helpers that turn enum values into their names for logging only, relying on non-portable GCC and Clang behavior.
+// ---
+
 #ifndef SERVICES_NETWORK_STRINGIFY_ENUM_H_
 #define SERVICES_NETWORK_STRINGIFY_ENUM_H_
 

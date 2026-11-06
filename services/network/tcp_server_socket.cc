@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TCP server socket implementation
+// summary: Implements a TCP server socket that listens on an address and accepts incoming connections, delivering them to a delegate with data pipes.
+// ---
+
 #include "services/network/tcp_server_socket.h"
 
 #include <optional>

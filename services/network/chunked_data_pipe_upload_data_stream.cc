@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chunked data pipe upload data stream
+// summary: Implements a chunked UploadDataStream that reads an upload body from a Mojo data pipe supplied by a ChunkedDataPipeGetter.
+// ---
+
 #include "services/network/chunked_data_pipe_upload_data_stream.h"
 
 #include "base/check_op.h"

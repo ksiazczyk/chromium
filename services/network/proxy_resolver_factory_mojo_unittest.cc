@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ProxyResolverFactoryMojo unit tests
+// summary: Unit tests for ProxyResolverFactoryMojo covering proxy resolver creation, error handling, DNS requests, and Mojo service disconnect scenarios.
+// ---
+
 #include "services/network/proxy_resolver_factory_mojo.h"
 
 #include <list>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AcceptCHFrameInterceptor unit tests
+// summary: Unit tests covering the interceptor's observer-check logic for enabled client hints, origins and main frame handling.
+// ---
+
 #include "services/network/accept_ch_frame_interceptor.h"
 
 #include "base/test/scoped_feature_list.h"

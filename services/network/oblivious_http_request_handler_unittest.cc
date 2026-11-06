@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Oblivious HTTP request handler unit tests
+// summary: Unit tests for the network service's oblivious HTTP request handler, covering relay and resource requests, HPKE test keys, and success, net error, and outer response error cases.
+// ---
+
 #include <cstddef>
 #include <cstdint>
 

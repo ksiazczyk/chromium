@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SSLConfigServiceMojo class declaration
+// summary: Declares SSLConfigServiceMojo, which listens for SSL config changes on a Mojo pipe and serves them as a net::SSLConfigService.
+// ---
+
 #ifndef SERVICES_NETWORK_SSL_CONFIG_SERVICE_MOJO_H_
 #define SERVICES_NETWORK_SSL_CONFIG_SERVICE_MOJO_H_
 

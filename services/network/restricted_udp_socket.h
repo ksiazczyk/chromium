@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Restricted UDP socket declaration
+// summary: Declares RestrictedUDPSocket, a Mojo wrapper that mediates renderer access to a connected UDPSocket so a compromised renderer cannot reach other endpoints.
+// ---
+
 #ifndef SERVICES_NETWORK_RESTRICTED_UDP_SOCKET_H_
 #define SERVICES_NETWORK_RESTRICTED_UDP_SOCKET_H_
 

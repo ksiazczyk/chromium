@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URLLoaderFactory class declaration
+// summary: Declares URLLoaderFactory, which creates mojom::URLLoader instances and also implements the URLLoaderContext interface.
+// ---
+
 #ifndef SERVICES_NETWORK_URL_LOADER_FACTORY_H_
 #define SERVICES_NETWORK_URL_LOADER_FACTORY_H_
 

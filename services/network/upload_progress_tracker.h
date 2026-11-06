@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UploadProgressTracker class header
+// summary: Declares UploadProgressTracker, which watches the upload progress of a URL loading and reports it to the client at a suitable granularity and frequency.
+// ---
+
 #ifndef SERVICES_NETWORK_UPLOAD_PROGRESS_TRACKER_H_
 #define SERVICES_NETWORK_UPLOAD_PROGRESS_TRACKER_H_
 

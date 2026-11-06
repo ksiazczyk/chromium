@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Brokered TCP client socket unit tests
+// summary: Unit tests for BrokeredTcpClientSocket covering connect, read and write behavior against a local TCP server using a test socket broker.
+// ---
+
 #include "services/network/brokered_tcp_client_socket.h"
 
 #include "base/compiler_specific.h"

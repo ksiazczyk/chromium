@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TLS client socket unit tests
+// summary: Unit tests for TLS client sockets in direct and proxy-resolving modes, using mock socket factories, fixed proxies and an embedded test server.
+// ---
+
 #include <stdint.h>
 
 #include <string>

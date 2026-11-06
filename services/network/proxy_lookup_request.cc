@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proxy lookup request implementation
+// summary: Implements a single-use request that resolves which proxy to use for a URL and reports the result to a Mojo ProxyLookupClient.
+// ---
+
 #include "services/network/proxy_lookup_request.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevtoolsDurableMessageWriter interface header
+// summary: Declares the writer interface handed to URLLoader to add encoded response bytes, mark completion and set client decoding types for durable messages.
+// ---
+
 #ifndef SERVICES_NETWORK_DEVTOOLS_DURABLE_MSG_WRITER_H_
 #define SERVICES_NETWORK_DEVTOOLS_DURABLE_MSG_WRITER_H_
 

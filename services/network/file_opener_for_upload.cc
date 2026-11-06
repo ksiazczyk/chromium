@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File opener for upload implementation
+// summary: Implements FileOpenerForUpload, which opens upload files in batches via NetworkContextClient and closes opened files on a blocking task runner on failure.
+// ---
+
 #include "services/network/file_opener_for_upload.h"
 
 #include "base/functional/callback_helpers.h"

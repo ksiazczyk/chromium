@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevtoolsDurableMessageCollectorManager implementation
+// summary: Implements the manager that owns collectors, tracks global memory and message usage, enforces the global buffer limit and reports memory dumps.
+// ---
+
 #include "services/network/devtools_durable_msg_collector_manager.h"
 
 #include "base/metrics/histogram_functions.h"

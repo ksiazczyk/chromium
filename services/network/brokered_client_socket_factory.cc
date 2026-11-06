@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Brokered client socket factory implementation
+// summary: Implements a ClientSocketFactory that creates brokered TCP and UDP sockets via the SocketBroker IPC when destination addresses require brokering.
+// ---
+
 #include "services/network/brokered_client_socket_factory.h"
 
 #include "build/build_config.h"

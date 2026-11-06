@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SlopBucket response buffering implementation
+// summary: Implements SlopBucket, a feature-gated buffer that temporarily caches response body chunks in the network service when the mojo data pipe is full.
+// ---
+
 #include "services/network/slop_bucket.h"
 
 #include <limits.h>

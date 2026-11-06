@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data remover filter utilities header
+// summary: Declares ConvertClearDataFilterType and BindDoesUrlMatchFilter, which map mojom clear-data filters to net URL match filter callbacks.
+// ---
+
 #ifndef SERVICES_NETWORK_DATA_REMOVER_UTIL_H_
 #define SERVICES_NETWORK_DATA_REMOVER_UTIL_H_
 

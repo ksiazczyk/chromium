@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ResolveHostRequest class declaration
+// summary: Declares the manager of a single Mojo ResolveHost request, handling lifetime, control handle, and cancellation.
+// ---
+
 #ifndef SERVICES_NETWORK_RESOLVE_HOST_REQUEST_H_
 #define SERVICES_NETWORK_RESOLVE_HOST_REQUEST_H_
 

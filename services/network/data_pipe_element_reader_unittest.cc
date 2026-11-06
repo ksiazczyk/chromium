@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DataPipeElementReader unit tests
+// summary: Unit tests for DataPipeElementReader covering initialization failures with bad status codes and reading data through a pass-through DataPipeGetter.
+// ---
+
 #include "services/network/data_pipe_element_reader.h"
 
 #include <stdint.h>

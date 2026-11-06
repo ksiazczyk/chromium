@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keepalive statistics recorder header
+// summary: Declares KeepaliveStatisticsRecorder, which tracks the number of inflight requests with keepalive set per top-level frame.
+// ---
+
 #ifndef SERVICES_NETWORK_KEEPALIVE_STATISTICS_RECORDER_H_
 #define SERVICES_NETWORK_KEEPALIVE_STATISTICS_RECORDER_H_
 

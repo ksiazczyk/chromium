@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProxyResolvingClientSocket class header
+// summary: Declares ProxyResolvingClientSocket, a net::StreamSocket that performs proxy resolution for a URL before establishing a connection.
+// ---
+
 #ifndef SERVICES_NETWORK_PROXY_RESOLVING_CLIENT_SOCKET_H_
 #define SERVICES_NETWORK_PROXY_RESOLVING_CLIENT_SOCKET_H_
 

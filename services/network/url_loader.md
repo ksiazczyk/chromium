@@ -1,3 +1,9 @@
+---
+type: note
+title: URLLoader documentation stub
+summary: Stub documentation for URLLoader, URLLoaderFactory and URLLoaderClient, linking to a deck on Mojo connection setup.
+---
+
 # URLLoader
 TODO(loading-dev): Write brief description about URLLoaderFactory, URLLoader and
 URLLoaderClient.

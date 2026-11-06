@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebSocketInterceptor class declaration
+// summary: Declares WebSocketInterceptor, which adapts the HTTP-oriented throttling interceptor to the specifics of WebSocket frame processing.
+// ---
+
 #ifndef SERVICES_NETWORK_WEBSOCKET_INTERCEPTOR_H_
 #define SERVICES_NETWORK_WEBSOCKET_INTERCEPTOR_H_
 

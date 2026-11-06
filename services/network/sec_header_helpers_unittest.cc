@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sec-Fetch header helpers unit tests
+// summary: Unit tests verifying Sec-Fetch metadata header values and removal of Sec- headers across origins, redirects, and feature flags.
+// ---
+
 #include "services/network/sec_header_helpers.h"
 
 #include <optional>

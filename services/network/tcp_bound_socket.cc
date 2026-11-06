@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TCP bound socket implementation
+// summary: Implements a TCP socket bound to a local address that can later become a TCP server socket or a connected socket through the socket factory.
+// ---
+
 #include "services/network/tcp_bound_socket.h"
 
 #include <optional>

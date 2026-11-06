@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session cleanup cookie store implementation
+// summary: Implements a persistent cookie store wrapper that tracks cookies per origin and deletes session-only cookies at the end of a session.
+// ---
+
 #include "services/network/session_cleanup_cookie_store.h"
 
 #include <list>

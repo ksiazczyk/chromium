@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataPipeElementReader implementation
+// summary: Implements DataPipeElementReader, which reads upload request body bytes from a Mojo data pipe for network requests.
+// ---
+
 #include "services/network/data_pipe_element_reader.h"
 
 #include <algorithm>

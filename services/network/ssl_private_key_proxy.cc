@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SSL private key proxy implementation
+// summary: Implements net::SSLPrivateKey by forwarding signing requests over a Mojo connection and treating pipe disconnection as a private key error.
+// ---
+
 #include "services/network/ssl_private_key_proxy.h"
 
 #include "base/functional/bind.h"

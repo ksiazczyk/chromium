@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebSocket throttler class declarations
+// summary: Declares WebSocketPerProcessThrottler and WebSocketThrottler, which limit and delay pending WebSocket handshakes per renderer process.
+// ---
+
 #ifndef SERVICES_NETWORK_WEBSOCKET_THROTTLER_H_
 #define SERVICES_NETWORK_WEBSOCKET_THROTTLER_H_
 

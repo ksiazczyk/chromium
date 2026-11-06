@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetLogExporter header
+// summary: Declares NetLogExporter, the mojom NetLogExporter implementation that writes ongoing network logs to a destination file using a scratch directory and configurable capture mode.
+// ---
+
 #ifndef SERVICES_NETWORK_NET_LOG_EXPORTER_H_
 #define SERVICES_NETWORK_NET_LOG_EXPORTER_H_
 

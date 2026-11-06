@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IsBrowserInitiated strong alias
+// summary: Defines a boolean strong alias indicating whether a URLLoaderFactory was created for the browser process.
+// ---
+
 #ifndef SERVICES_NETWORK_IS_BROWSER_INITIATED_H_
 #define SERVICES_NETWORK_IS_BROWSER_INITIATED_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DNS config change manager implementation
+// summary: Implements DnsConfigChangeManager, which observes network DNS changes via NetworkChangeNotifier and notifies registered Mojo clients.
+// ---
+
 #include "services/network/dns_config_change_manager.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URLRequestContextOwner header
+// summary: Declares a struct that owns a net::URLRequestContext together with the PrefService used with it, ensuring the PrefService outlives the context.
+// ---
+
 #ifndef SERVICES_NETWORK_URL_REQUEST_CONTEXT_OWNER_H_
 #define SERVICES_NETWORK_URL_REQUEST_CONTEXT_OWNER_H_
 

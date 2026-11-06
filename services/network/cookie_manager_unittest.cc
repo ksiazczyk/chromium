@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CookieManager unit tests
+// summary: Unit tests for CookieManager that exercise cookie retrieval, setting, deletion, and change notifications through a synchronous Mojo wrapper around the service.
+// ---
+
 #include "services/network/cookie_manager.h"
 
 #include <algorithm>

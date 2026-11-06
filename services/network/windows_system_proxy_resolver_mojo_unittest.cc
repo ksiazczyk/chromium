@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WindowsSystemProxyResolverMojo unit tests
+// summary: Unit tests for WindowsSystemProxyResolverMojo that use a mock Mojo SystemProxyResolver to verify proxy resolution requests complete asynchronously.
+// ---
+
 #include "services/network/windows_system_proxy_resolver_mojo.h"
 
 #include <memory>

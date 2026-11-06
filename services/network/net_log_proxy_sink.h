@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetLogProxySink header
+// summary: Declares NetLogProxySink, a mojo interface implementation that receives external NetLog events and notifies attached sources when the NetLog capture mode changes.
+// ---
+
 #ifndef SERVICES_NETWORK_NET_LOG_PROXY_SINK_H_
 #define SERVICES_NETWORK_NET_LOG_PROXY_SINK_H_
 

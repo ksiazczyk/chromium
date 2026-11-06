@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Restricted UDP socket implementation
+// summary: Implements RestrictedUDPSocket, forwarding renderer UDP requests to a wrapped UDPSocket while enforcing multicast and source-specific multicast permissions.
+// ---
+
 #include "services/network/restricted_udp_socket.h"
 
 #include "base/functional/bind.h"

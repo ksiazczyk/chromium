@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mac system proxy resolver Mojo unit tests
+// summary: Unit tests exercising MacSystemProxyResolverMojo against a mock Mojo SystemProxyResolver service and verifying asynchronous proxy resolution callbacks.
+// ---
+
 #include "services/network/mac_system_proxy_resolver_mojo.h"
 
 #include <memory>

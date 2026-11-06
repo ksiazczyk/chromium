@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data remover filter conversion utilities
+// summary: Implements helpers that convert clear-data filter types and bind URL matching callbacks used when removing browsing data for selected origins or domains.
+// ---
+
 #include "services/network/data_remover_util.h"
 
 #include "base/containers/flat_set.h"

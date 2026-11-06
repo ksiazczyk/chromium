@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DHCP PAC file fetcher Mojo unit tests
+// summary: Unit tests verifying DhcpPacFileFetcherMojo uses the PAC URL provided by the Mojo client and returns an error when the PAC URL is missing.
+// ---
+
 #include "services/network/dhcp_pac_file_fetcher_mojo.h"
 
 #include "base/memory/ptr_util.h"

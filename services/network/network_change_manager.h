@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkChangeManager header
+// summary: Declares NetworkChangeManager, the mojom NetworkChangeManager implementation that forwards NetworkChangeNotifier events to clients over mojo, with Linux interface change support.
+// ---
+
 #ifndef SERVICES_NETWORK_NETWORK_CHANGE_MANAGER_H_
 #define SERVICES_NETWORK_NETWORK_CHANGE_MANAGER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Net log exporter implementation
+// summary: Implements NetLogExporter, which starts and stops file-based network log recording for the network service via FileNetLogObserver.
+// ---
+
 #include "services/network/net_log_exporter.h"
 
 #include <utility>

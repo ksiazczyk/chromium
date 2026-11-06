@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevtoolsDurableMessage class header
+// summary: Declares DevtoolsDurableMessage, which buffers response body bytes for a DevTools request and supports completion, retrieval and client decoding types.
+// ---
+
 #ifndef SERVICES_NETWORK_DEVTOOLS_DURABLE_MSG_H_
 #define SERVICES_NETWORK_DEVTOOLS_DURABLE_MSG_H_
 

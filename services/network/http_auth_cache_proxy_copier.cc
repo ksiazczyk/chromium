@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTP auth cache proxy copier implementation
+// summary: Implements saving and loading proxy entries of an HTTP auth cache through an intermediate cache keyed by an unguessable token, for copying between NetworkContexts.
+// ---
+
 #include "services/network/http_auth_cache_proxy_copier.h"
 
 #include "base/logging.h"

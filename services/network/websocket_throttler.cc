@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebSocket connection throttler implementation
+// summary: Implements per-process throttling of pending WebSocket connections, including delay calculation and handshake success or failure tracking.
+// ---
+
 #include "services/network/websocket_throttler.h"
 
 #include <algorithm>

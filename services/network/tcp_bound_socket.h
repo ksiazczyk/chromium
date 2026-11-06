@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TCP bound socket class declaration
+// summary: Declares TCPBoundSocket, a socket bound to an address that can be converted into either a TCP server socket or a TCP connected socket.
+// ---
+
 #ifndef SERVICES_NETWORK_TCP_BOUND_SOCKET_H_
 #define SERVICES_NETWORK_TCP_BOUND_SOCKET_H_
 

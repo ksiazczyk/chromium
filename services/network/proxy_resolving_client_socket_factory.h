@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProxyResolvingClientSocketFactory class header
+// summary: Declares a factory that creates proxy-resolving sockets sharing network session params with a URLRequestContext but keeping separate socket pools.
+// ---
+
 #ifndef SERVICES_NETWORK_PROXY_RESOLVING_CLIENT_SOCKET_FACTORY_H_
 #define SERVICES_NETWORK_PROXY_RESOLVING_CLIENT_SOCKET_FACTORY_H_
 

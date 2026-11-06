@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetLogProxySink implementation
+// summary: Implements the NetLogProxySink mojo interface that injects NetLog events received from other processes into the local NetLog and forwards capture mode changes to attached sources.
+// ---
+
 #include "services/network/net_log_proxy_sink.h"
 #include "base/task/sequenced_task_runner.h"
 #include "mojo/public/cpp/bindings/message.h"

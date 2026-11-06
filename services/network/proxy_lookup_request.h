@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proxy lookup request header
+// summary: Declares ProxyLookupRequest, a single-use object that manages a proxy lookup for a URL and informs the client and network context on completion.
+// ---
+
 #ifndef SERVICES_NETWORK_PROXY_LOOKUP_REQUEST_H_
 #define SERVICES_NETWORK_PROXY_LOOKUP_REQUEST_H_
 

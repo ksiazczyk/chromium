@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proxy auto-config library header for myIpAddress PAC helpers
+// summary: Declares MyIpAddressImpl, which gathers the host machine's IP candidates for the myIpAddress() and myIpAddressEx() PAC script functions used in proxy auto-config.
+// ---
+
 #ifndef SERVICES_NETWORK_PROXY_AUTO_CONFIG_LIBRARY_H_
 #define SERVICES_NETWORK_PROXY_AUTO_CONFIG_LIBRARY_H_
 

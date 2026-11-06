@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SocketDataPump implementation
+// summary: Implements pumping data between a network socket and Mojo data pipes, handling reads, writes, errors and pipe shutdown.
+// ---
+
 #include "services/network/socket_data_pump.h"
 
 #include <algorithm>

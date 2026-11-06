@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NetworkQualityEstimatorManager unit tests
+// summary: Tests that network quality change notifications reach Mojo clients with the expected connection type and metric values.
+// ---
+
 #include "services/network/network_quality_estimator_manager.h"
 
 #include <algorithm>

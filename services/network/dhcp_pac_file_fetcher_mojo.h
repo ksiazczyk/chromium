@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DHCP PAC file fetcher Mojo class declaration
+// summary: Declares DhcpPacFileFetcherMojo, a ChromeOS DhcpPacFileFetcher that obtains the PAC file URL from the default network over Mojo and fetches the script.
+// ---
+
 #ifndef SERVICES_NETWORK_DHCP_PAC_FILE_FETCHER_MOJO_H_
 #define SERVICES_NETWORK_DHCP_PAC_FILE_FETCHER_MOJO_H_
 

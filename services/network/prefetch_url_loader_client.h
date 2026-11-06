@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefetchURLLoaderClient header
+// summary: Declares a URLLoaderClient that caches prefetch responses and forwards them to a matching real request once it arrives.
+// ---
+
 #ifndef SERVICES_NETWORK_PREFETCH_URL_LOADER_CLIENT_H_
 #define SERVICES_NETWORK_PREFETCH_URL_LOADER_CLIENT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test socket observer utility
+// summary: Implements TestSocketObserver, a mojom::SocketObserver test helper that waits for and reports socket read and write errors.
+// ---
+
 #include "services/network/mojo_socket_test_util.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

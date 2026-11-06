@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URLLoaderContext interface
+// summary: Declares the interface implemented by URLLoaderFactory to expose factory context accessors used by URL loaders.
+// ---
+
 #ifndef SERVICES_NETWORK_URL_LOADER_CONTEXT_H_
 #define SERVICES_NETWORK_URL_LOADER_CONTEXT_H_
 

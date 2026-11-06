@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkQualitiesPrefDelegate header
+// summary: Declares the UI-thread service that manages storage of network quality estimator prefs and registers them.
+// ---
+
 #ifndef SERVICES_NETWORK_NETWORK_QUALITIES_PREF_DELEGATE_H_
 #define SERVICES_NETWORK_NETWORK_QUALITIES_PREF_DELEGATE_H_
 

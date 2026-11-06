@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session cleanup cookie store declaration
+// summary: Declares SessionCleanupCookieStore, a PersistentCookieStore wrapper supporting deletion of cookies matching a session-only delete predicate.
+// ---
+
 #ifndef SERVICES_NETWORK_SESSION_CLEANUP_COOKIE_STORE_H_
 #define SERVICES_NETWORK_SESSION_CLEANUP_COOKIE_STORE_H_
 

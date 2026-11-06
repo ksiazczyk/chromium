@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sec-Fetch header helpers declaration
+// summary: Declares helpers for setting Sec-Fetch-Site fetch metadata headers on requests and removing sec-ch and sec-fetch headers on untrustworthy redirects.
+// ---
+
 #ifndef SERVICES_NETWORK_SEC_HEADER_HELPERS_H_
 #define SERVICES_NETWORK_SEC_HEADER_HELPERS_H_
 

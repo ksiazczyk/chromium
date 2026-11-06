@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrokerHelperWin class header
+// summary: Declares a helper for brokering socket creation from the Windows App Container sandbox, which blocks some local connections.
+// ---
+
 #ifndef SERVICES_NETWORK_BROKER_HELPER_WIN_H_
 #define SERVICES_NETWORK_BROKER_HELPER_WIN_H_
 

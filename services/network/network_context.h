@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkContext class header
+// summary: Declares the NetworkContext class that owns per-context network state and exposes the network service's Mojo interfaces.
+// ---
+
 #ifndef SERVICES_NETWORK_NETWORK_CONTEXT_H_
 #define SERVICES_NETWORK_NETWORK_CONTEXT_H_
 

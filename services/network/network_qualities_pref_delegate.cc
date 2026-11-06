@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkQualitiesPrefDelegate implementation
+// summary: Implements the delegate that persists network quality estimator results to profile prefs via PrefService.
+// ---
+
 #include "services/network/network_qualities_pref_delegate.h"
 
 #include <memory>

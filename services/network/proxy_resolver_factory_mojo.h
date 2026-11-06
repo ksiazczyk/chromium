@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProxyResolverFactoryMojo class header
+// summary: Declares ProxyResolverFactoryMojo, a net::ProxyResolverFactory that connects to a Mojo proxy resolver service to create Mojo-backed proxy resolvers.
+// ---
+
 #ifndef SERVICES_NETWORK_PROXY_RESOLVER_FACTORY_MOJO_H_
 #define SERVICES_NETWORK_PROXY_RESOLVER_FACTORY_MOJO_H_
 

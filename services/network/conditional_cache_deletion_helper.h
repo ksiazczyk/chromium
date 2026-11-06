@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConditionalCacheDeletionHelper declaration
+// summary: Declares ConditionalCacheDeletionHelper, a helper that removes HTTP cache entries whose URLs and last-used times fall within given criteria and reports completion.
+// ---
+
 #ifndef SERVICES_NETWORK_CONDITIONAL_CACHE_DELETION_HELPER_H_
 #define SERVICES_NETWORK_CONDITIONAL_CACHE_DELETION_HELPER_H_
 

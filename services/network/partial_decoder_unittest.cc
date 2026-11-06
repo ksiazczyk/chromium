@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PartialDecoder unit tests
+// summary: Unit tests for PartialDecoder covering synchronous and asynchronous gzip reads, raw encoded data consumption, and completion status reporting using a mock reader.
+// ---
+
 #include "services/network/partial_decoder.h"
 
 #include "base/memory/scoped_refptr.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevtoolsDurableMessageCollector implementation
+// summary: Implements the durable message collector, including buffer configuration, message retrieval and regex search over stored response bodies.
+// ---
+
 #include "services/network/devtools_durable_msg_collector.h"
 
 #include "base/strings/string_util.h"

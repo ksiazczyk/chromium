@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Host resolver unit tests
+// summary: Unit tests for the network service HostResolver, exercising host resolution results, text and hostname results, and error handling through a Mojo test client.
+// ---
+
 #include "services/network/host_resolver.h"
 
 #include <map>

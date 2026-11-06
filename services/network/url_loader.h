@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URLLoader class declaration
+// summary: Declares the URLLoader class implementing mojom::URLLoader for issuing network requests in the network service.
+// ---
+
 #ifndef SERVICES_NETWORK_URL_LOADER_H_
 #define SERVICES_NETWORK_URL_LOADER_H_
 

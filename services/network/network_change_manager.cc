@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkChangeManager implementation
+// summary: Implements NetworkChangeManager, which listens to net::NetworkChangeNotifier broadcasts and rebroadcasts network change notifications to mojom clients over mojo.
+// ---
+
 #include "services/network/network_change_manager.h"
 
 #include <algorithm>

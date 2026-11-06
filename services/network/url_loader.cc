@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URLLoader implementation
+// summary: Implements the network service URLLoader that performs requests and streams responses and redirects to Mojo clients.
+// ---
+
 #include "services/network/url_loader.h"
 
 #include <algorithm>

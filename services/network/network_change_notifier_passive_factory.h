@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkChangeNotifierPassiveFactory header
+// summary: Declares a NetworkChangeNotifierFactory that creates passive notifiers suitable for running in a sandboxed network service.
+// ---
+
 #ifndef SERVICES_NETWORK_NETWORK_CHANGE_NOTIFIER_PASSIVE_FACTORY_H_
 #define SERVICES_NETWORK_NETWORK_CHANGE_NOTIFIER_PASSIVE_FACTORY_H_
 

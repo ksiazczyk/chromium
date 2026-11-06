@@ -1,3 +1,9 @@
+---
+type: reference
+title: Cross-Origin Read Blocking (CORB) explainer
+summary: Explains the Cross-Origin Read Blocking (CORB) algorithm, the attacks it mitigates such as XSSI and Spectre, and its impact on web compatibility.
+---
+
 # Cross-Origin Read Blocking (CORB)
 
 This document outlines Cross-Origin Read Blocking (CORB), an algorithm by which

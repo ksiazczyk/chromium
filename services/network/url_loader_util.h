@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL loader helper declarations
+// summary: Declares utilities for upload streams, cookie setting overrides, isolation info resolution and URLRequest configuration.
+// ---
+
 #ifndef SERVICES_NETWORK_URL_LOADER_UTIL_H_
 #define SERVICES_NETWORK_URL_LOADER_UTIL_H_
 

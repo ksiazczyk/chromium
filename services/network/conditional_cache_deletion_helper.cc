@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConditionalCacheDeletionHelper implementation
+// summary: Implements ConditionalCacheDeletionHelper, which iterates a disk cache backend and dooms HTTP cache entries matching a URL matcher and last-used time range.
+// ---
+
 #include "services/network/conditional_cache_deletion_helper.h"
 
 #include "base/functional/bind.h"

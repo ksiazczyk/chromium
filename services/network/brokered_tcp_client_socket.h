@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Brokered TCP client socket header
+// summary: Declares BrokeredTcpClientSocket, a transport client socket that brokers socket creation via the SocketBroker interface, intended for Windows and Android.
+// ---
+
 #ifndef SERVICES_NETWORK_BROKERED_TCP_CLIENT_SOCKET_H_
 #define SERVICES_NETWORK_BROKERED_TCP_CLIENT_SOCKET_H_
 

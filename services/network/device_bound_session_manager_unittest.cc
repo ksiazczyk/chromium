@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device bound session manager unit tests
+// summary: Unit tests covering session creation, deletion, filtering, and access and event observer notifications using fake observers and a test registration fetcher.
+// ---
+
 #include "services/network/device_bound_session_manager.h"
 
 #include "base/functional/callback_helpers.h"

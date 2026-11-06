@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CookieManager class header
+// summary: Declares CookieManager, a Mojo CookieManager implementation that wraps the network service's cookie store and exposes cookie access, deletion, and change notification methods.
+// ---
+
 #ifndef SERVICES_NETWORK_COOKIE_MANAGER_H_
 #define SERVICES_NETWORK_COOKIE_MANAGER_H_
 

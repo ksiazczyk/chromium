@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network service Linux sandbox hook
+// summary: Sets up broker commands, file permissions and library loading for the network service sandbox on Linux.
+// ---
+
 #include "services/network/network_sandbox_hook_linux.h"
 
 #include <dlfcn.h>

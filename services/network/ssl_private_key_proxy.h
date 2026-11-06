@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SSL private key proxy class declaration
+// summary: Declares SSLPrivateKeyProxy, a net::SSLPrivateKey implementation that serializes signing requests to a remote SSL private key over Mojo.
+// ---
+
 #ifndef SERVICES_NETWORK_SSL_PRIVATE_KEY_PROXY_H_
 #define SERVICES_NETWORK_SSL_PRIVATE_KEY_PROXY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local Network Access checker implementation
+// summary: Implements the Local Network Access check algorithm for URL loads, mapping transport info to address spaces and recording check result histograms.
+// ---
+
 #include "services/network/local_network_access_checker.h"
 
 #include "base/feature_list.h"

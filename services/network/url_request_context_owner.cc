@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URLRequestContextOwner implementation
+// summary: Implements constructors, destructor and move operations for the URLRequestContextOwner struct that pairs a PrefService with a URLRequestContext.
+// ---
+
 #include "services/network/url_request_context_owner.h"
 
 #include "components/prefs/pref_service.h"

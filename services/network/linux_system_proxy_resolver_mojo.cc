@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux system proxy resolver Mojo implementation
+// summary: Implements net::LinuxSystemProxyResolver by forwarding proxy resolution requests to a browser-hosted Mojo service and mapping Mojo status codes to net statuses.
+// ---
+
 #include "services/network/linux_system_proxy_resolver_mojo.h"
 
 #include <utility>

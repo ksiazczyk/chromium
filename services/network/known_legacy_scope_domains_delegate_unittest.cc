@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Known legacy scope domains delegate unit tests
+// summary: Verifies that the legacy scope domains pref delegate registers, writes, and reads legacy cookie domain prefs correctly.
+// ---
+
 #include "services/network/known_legacy_scope_domains_delegate.h"
 
 #include "base/functional/bind.h"

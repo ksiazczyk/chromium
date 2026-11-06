@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux system proxy resolver Mojo interface
+// summary: Declares the concrete LinuxSystemProxyResolver that passes proxy resolution requests to a Mojo SystemProxyResolver service in the browser process.
+// ---
+
 #ifndef SERVICES_NETWORK_LINUX_SYSTEM_PROXY_RESOLVER_MOJO_H_
 #define SERVICES_NETWORK_LINUX_SYSTEM_PROXY_RESOLVER_MOJO_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RestrictedCookieManager implementation
+// summary: Implements origin-scoped cookie access for scripts and network requests, with same-site context, caching, and observers.
+// ---
+
 #include "services/network/restricted_cookie_manager.h"
 
 #include <algorithm>

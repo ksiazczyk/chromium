@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TransitionalURLLoaderFactoryOwner implementation
+// summary: Implements TransitionalURLLoaderFactoryOwner, creating a NetworkContext on the URLRequestContextGetter's network task runner and exposing a SharedURLLoaderFactory.
+// ---
+
 #include "services/network/transitional_url_loader_factory_owner.h"
 
 #include "base/functional/bind.h"

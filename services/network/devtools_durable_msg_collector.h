@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevtoolsDurableMessageCollector class header
+// summary: Declares the collector that stores durable messages by request ID and implements the mojo DurableMessageCollector interface with accounting overrides.
+// ---
+
 #ifndef SERVICES_NETWORK_DEVTOOLS_DURABLE_MSG_COLLECTOR_H_
 #define SERVICES_NETWORK_DEVTOOLS_DURABLE_MSG_COLLECTOR_H_
 

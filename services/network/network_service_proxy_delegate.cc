@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network service proxy delegate implementation
+// summary: Implements a proxy delegate that applies custom proxy configurations, merges proxy request headers, and reports proxy fallbacks and tunnel headers.
+// ---
+
 #include "services/network/network_service_proxy_delegate.h"
 
 #include "base/feature_list.h"

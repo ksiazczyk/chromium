@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NetworkChangeManager unit tests
+// summary: Unit tests for NetworkChangeManager using a test client to verify initial connection type and network change notifications.
+// ---
+
 #include "services/network/network_change_manager.h"
 
 #include <algorithm>

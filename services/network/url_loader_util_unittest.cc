@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: URL loader utility unit tests
+// summary: Unit tests for url_loader_util helpers, including ConfigureUrlRequest site_for_cookies and isolation behavior.
+// ---
+
 #include "services/network/url_loader_util.h"
 
 #include "base/test/scoped_feature_list.h"

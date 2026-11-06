@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mojo host resolver unit tests
+// summary: Unit tests for MojoHostResolverImpl covering resolution results, errors, and Mojo disconnect handling using a mock host resolver.
+// ---
+
 #include "services/network/mojo_host_resolver_impl.h"
 
 #include <memory>

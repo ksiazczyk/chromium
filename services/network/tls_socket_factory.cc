@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TLS socket factory implementation
+// summary: Implements TLSSocketFactory, which creates TLS client sockets and upgrades connected sockets to TLS, including a permissive certificate verifier used in tests.
+// ---
+
 #include "services/network/tls_socket_factory.h"
 
 #include <optional>

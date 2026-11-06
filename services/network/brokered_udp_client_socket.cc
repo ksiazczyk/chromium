@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Brokered UDP client socket implementation
+// summary: Implements a datagram client socket that creates UDP sockets through the SocketBroker IPC when the target address requires brokering.
+// ---
+
 #include "services/network/brokered_udp_client_socket.h"
 
 #include "base/component_export.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test Mojo proxy resolver factory implementation
+// summary: Implements a test proxy resolver factory that creates resolvers in-process and records whether CreateResolver was called.
+// ---
+
 #include "services/network/test_mojo_proxy_resolver_factory.h"
 
 #include "base/check.h"

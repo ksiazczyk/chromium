@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTP server properties pref delegate implementation
+// summary: Implements disk storage of HTTP server properties through PrefService under the net.http_server_properties preference, including load waiting and change registration.
+// ---
+
 #include "services/network/http_server_properties_pref_delegate.h"
 
 #include "base/functional/bind.h"

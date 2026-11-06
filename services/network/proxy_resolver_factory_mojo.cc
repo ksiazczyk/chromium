@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo proxy resolver factory implementation
+// summary: Implements a proxy resolver factory that runs PAC resolution over Mojo, forwarding DNS requests, myIpAddress calls, alerts and errors to the browser process.
+// ---
+
 #include "services/network/proxy_resolver_factory_mojo.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Network service include rules
+summary: Defines allowed header include rules and per-file exceptions for code in the network service directory.

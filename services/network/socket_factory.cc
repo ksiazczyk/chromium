@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SocketFactory implementation
+// summary: Implements the socket factory that creates UDP, TCP server, TCP connected, TLS and restricted UDP sockets for the network service.
+// ---
+
 #include "services/network/socket_factory.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevtoolsDurableMessageAccountingDelegate interface header
+// summary: Declares the accounting delegate interface that notifies about bytes added or removed and message destruction for durable message accounting.
+// ---
+
 #ifndef SERVICES_NETWORK_DEVTOOLS_DURABLE_MSG_ACCOUNTING_DELEGATE_H_
 #define SERVICES_NETWORK_DEVTOOLS_DURABLE_MSG_ACCOUNTING_DELEGATE_H_
 

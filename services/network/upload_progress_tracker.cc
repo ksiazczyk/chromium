@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UploadProgressTracker implementation
+// summary: Implements periodic upload progress reporting for a URLRequest on a 100 ms timer, throttled by acknowledgements, progress increments, and elapsed time.
+// ---
+
 #include "services/network/upload_progress_tracker.h"
 
 #include "base/check.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TLSSocketFactory class header
+// summary: Declares TLSSocketFactory, a helper class that upgrades existing TCP sockets to TLS for the network service, including handling of skipped certificate verification.
+// ---
+
 #ifndef SERVICES_NETWORK_TLS_SOCKET_FACTORY_H_
 #define SERVICES_NETWORK_TLS_SOCKET_FACTORY_H_
 

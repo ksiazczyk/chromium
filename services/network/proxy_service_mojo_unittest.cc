@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ProxyServiceMojo unit tests
+// summary: Tests the Mojo-backed proxy resolution service with PAC scripts, DNS resolution, errors, and NetLog events.
+// ---
+
 #include "services/network/proxy_service_mojo.h"
 
 #include <algorithm>

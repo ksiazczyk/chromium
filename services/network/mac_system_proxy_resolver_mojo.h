@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac system proxy resolver Mojo class declaration
+// summary: Declares MacSystemProxyResolverMojo, a Mojo-backed implementation of net::MacSystemProxyResolver that passes requests to the proxy resolver service.
+// ---
+
 #ifndef SERVICES_NETWORK_MAC_SYSTEM_PROXY_RESOLVER_MOJO_H_
 #define SERVICES_NETWORK_MAC_SYSTEM_PROXY_RESOLVER_MOJO_H_
 

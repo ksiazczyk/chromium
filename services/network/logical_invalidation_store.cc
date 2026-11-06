@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Logical invalidation store implementation
+// summary: Implements persistence of HTTP cache logical invalidation filters, writing them atomically to disk and loading them back with load-result and duration metrics.
+// ---
+
 #include "services/network/logical_invalidation_store.h"
 
 #include <string_view>

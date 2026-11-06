@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Data remover utility unit tests
+// summary: Unit tests verifying filter type conversion and that origin and domain arguments are passed through correctly to the URL match filter callback.
+// ---
+
 #include "services/network/data_remover_util.h"
 
 #include <set>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: URLLoader unit tests
+// summary: Extensive unit tests for URLLoader covering responses, redirects, uploads, cookies, credentials and error handling.
+// ---
+
 #include "services/network/url_loader.h"
 
 #include <stdint.h>

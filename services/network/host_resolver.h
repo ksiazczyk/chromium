@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Host resolver Mojo service class declaration
+// summary: Declares HostResolver, which binds a mojom::HostResolver pipe, tracks outstanding resolve and mDNS requests, and cancels them on connection close.
+// ---
+
 #ifndef SERVICES_NETWORK_HOST_RESOLVER_H_
 #define SERVICES_NETWORK_HOST_RESOLVER_H_
 

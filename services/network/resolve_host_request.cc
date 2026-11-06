@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ResolveHostRequest implementation
+// summary: Implements a Mojo host resolution request wrapping net::HostResolver, with canonicalization, completion, and cancellation.
+// ---
+
 #include "services/network/resolve_host_request.h"
 
 #include <algorithm>

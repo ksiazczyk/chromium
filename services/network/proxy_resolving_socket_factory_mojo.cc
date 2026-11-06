@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProxyResolvingSocketFactoryMojo implementation
+// summary: Implements the Mojo ProxyResolvingSocketFactory, creating proxy-resolving sockets and binding them as Mojo receivers for clients.
+// ---
+
 #include "services/network/proxy_resolving_socket_factory_mojo.h"
 
 #include <utility>

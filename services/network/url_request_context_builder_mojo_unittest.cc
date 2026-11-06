@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: URLRequestContextBuilderMojo unit tests
+// summary: Verifies that the Mojo proxy resolver factory is used for PAC-based proxying and that pending PAC requests shut down correctly during teardown.
+// ---
+
 #include "services/network/url_request_context_builder_mojo.h"
 
 #include "base/functional/bind.h"

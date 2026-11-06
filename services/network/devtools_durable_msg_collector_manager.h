@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevtoolsDurableMessageCollectorManager class header
+// summary: Declares the manager responsible for collector lifetimes, associating collectors with DevTools profiles and aggregate memory reporting.
+// ---
+
 #ifndef SERVICES_NETWORK_DEVTOOLS_DURABLE_MSG_COLLECTOR_MANAGER_H_
 #define SERVICES_NETWORK_DEVTOOLS_DURABLE_MSG_COLLECTOR_MANAGER_H_
 

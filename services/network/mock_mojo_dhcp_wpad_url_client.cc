@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock DHCP WPAD URL client Mojo service
+// summary: Provides a mock DhcpWpadUrlClient Mojo service that returns a fixed PAC URL, for use in proxy resolution tests.
+// ---
+
 #include "services/network/mock_mojo_dhcp_wpad_url_client.h"
 
 #include "mojo/public/cpp/bindings/remote.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TransitionalURLLoaderFactoryOwner class header
+// summary: Declares a helper that provides a SharedURLLoaderFactory on top of an existing URLRequestContextGetter for stand-alone executables using Network Service APIs.
+// ---
+
 #ifndef SERVICES_NETWORK_TRANSITIONAL_URL_LOADER_FACTORY_OWNER_H_
 #define SERVICES_NETWORK_TRANSITIONAL_URL_LOADER_FACTORY_OWNER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTP auth cache proxy copier
+// summary: Declares HttpAuthCacheProxyCopier, which copies proxy entries between two HttpAuthCache instances that cannot be accessed at the same time.
+// ---
+
 #ifndef SERVICES_NETWORK_HTTP_AUTH_CACHE_PROXY_COPIER_H_
 #define SERVICES_NETWORK_HTTP_AUTH_CACHE_PROXY_COPIER_H_
 

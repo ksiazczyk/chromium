@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test Mojo proxy resolver factory declaration
+// summary: Declares TestMojoProxyResolverFactory, a proxy resolver factory test double that runs PAC scripts in-process for tests.
+// ---
+
 #ifndef SERVICES_NETWORK_TEST_MOJO_PROXY_RESOLVER_FACTORY_H_
 #define SERVICES_NETWORK_TEST_MOJO_PROXY_RESOLVER_FACTORY_H_
 

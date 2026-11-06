@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AcceptCHFrameInterceptor class header
+// summary: Declares the interceptor that compares ACCEPT_CH client hints with request headers and may restart requests via the observer.
+// ---
+
 #ifndef SERVICES_NETWORK_ACCEPT_CH_FRAME_INTERCEPTOR_H_
 #define SERVICES_NETWORK_ACCEPT_CH_FRAME_INTERCEPTOR_H_
 

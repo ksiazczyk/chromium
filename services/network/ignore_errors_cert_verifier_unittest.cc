@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ignore-errors certificate verifier unit tests
+// summary: Unit tests for IgnoreErrorsCertVerifier covering allowlisted and non-allowlisted certificates and command-line-based verifier wrapping.
+// ---
+
 #include "services/network/ignore_errors_cert_verifier.h"
 
 #include <string_view>

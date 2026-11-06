@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TLS client socket implementation
+// summary: Implements TLSClientSocket, which upgrades a connected TCP socket to TLS and pumps data between the SSL socket and Mojo data pipes.
+// ---
+
 #include "services/network/tls_client_socket.h"
 
 #include <utility>

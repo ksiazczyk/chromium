@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ConnectionChangeObserver unit tests
+// summary: Unit tests for ConnectionChangeObserver verifying that session, connection, and network events reach a Mojo observer client, including pipe disconnect handling.
+// ---
+
 #include "services/network/connection_change_observer.h"
 
 #include <algorithm>

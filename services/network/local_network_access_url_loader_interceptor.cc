@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local Network Access URL loader interceptor implementation
+// summary: Runs Local Network Access checks when a URLLoader connects, handling cached-entry retries, CORS error reporting, and permission prompts.
+// ---
+
 #include "services/network/local_network_access_url_loader_interceptor.h"
 
 #include "base/strings/string_util.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network service unit tests
+// summary: Unit tests for the network service and network context, covering DNS, cookies, net logging, and related mojom interfaces.
+// ---
+
 #include "services/network/network_service.h"
 
 #include <algorithm>
