@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: WebNN host include rules
+summary: Grants the host directory include access to WebNN public cpp and mojom headers and the Windows App SDK headers.

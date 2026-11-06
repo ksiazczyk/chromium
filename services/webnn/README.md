@@ -1,3 +1,9 @@
+---
+type: readme
+title: WebNN service overview
+summary: Introduces the WebNN service for hardware-accelerated neural network inference and links the spec, explainer and design doc.
+---
+
 The WebNN service exists to facilitate neural network inference with accessing
 the hardware accelerated OS machine learning API.
 

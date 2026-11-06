@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebNN to ORT graph builder implementation
+// summary: Implements conversion of WebNN graphs into ORT models, mapping WebNN operations to ONNX operator types and handling emulated and deferred operations.
+// ---
+
 #include "services/webnn/ort/graph_builder_ort.h"
 
 #include <array>

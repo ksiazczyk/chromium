@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebNN and ONNX data type conversion functions
+// summary: Implements conversions between WebNN and ONNX tensor data types, hardware device types and tensor shapes.
+// ---
+
 #include "services/webnn/ort/ort_data_type.h"
 
 #include "base/notreached.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CoreML WebNN tensor implementation header
+// summary: Declares TensorImplCoreml, the CoreML-backed WebNN tensor implementation handling tensor creation, read, write, import and export operations.
+// ---
+
 #ifndef SERVICES_WEBNN_COREML_TENSOR_IMPL_COREML_H_
 #define SERVICES_WEBNN_COREML_TENSOR_IMPL_COREML_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CoreML graph builder implementation
+// summary: Builds CoreML MIL model protobufs from WebNN graph info and serializes .mlpackage model, weights, and manifest files for compilation.
+// ---
+
 #include "services/webnn/coreml/graph_builder_coreml.h"
 
 #include <algorithm>

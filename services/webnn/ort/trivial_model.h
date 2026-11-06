@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trivial ONNX model byte array
+// summary: Provides an embedded minimal ONNX model with a single Add operator as a constant byte array.
+// ---
+
 #ifndef SERVICES_WEBNN_ORT_TRIVIAL_MODEL_H_
 #define SERVICES_WEBNN_ORT_TRIVIAL_MODEL_H_
 

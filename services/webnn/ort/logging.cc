@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ORT logging helpers implementation
+// summary: Implements ORT logging helpers that resolve the logging level from a command-line switch and format execution provider device details for logs.
+// ---
+
 #include "services/webnn/ort/logging.h"
 
 #include <sstream>

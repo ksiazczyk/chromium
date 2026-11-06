@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebNN to TFLite graph builder implementation
+// summary: Implements serialization of WebNN graphs into TFLite flatbuffer models, including QDQ quantization fusion, weights handling and operator support checks.
+// ---
+
 #include "services/webnn/tflite/graph_builder_tflite.h"
 
 #include <stddef.h>

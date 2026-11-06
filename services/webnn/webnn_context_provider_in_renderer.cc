@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-renderer WebNN context provider implementation
+// summary: Implements a renderer-side WebNN context provider that creates LiteRT-backed contexts on worker threads, including GPU device support via WebGPU.
+// ---
+
 #include "services/webnn/webnn_context_provider_in_renderer.h"
 
 #include <utility>

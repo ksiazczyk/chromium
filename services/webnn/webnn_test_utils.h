@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebNN test graph builder declarations
+// summary: Declares GraphInfoBuilder and attribute structs for building WebNN operations such as conv2d, GRU and LSTM in tests.
+// ---
+
 #ifndef SERVICES_WEBNN_WEBNN_TEST_UTILS_H_
 #define SERVICES_WEBNN_WEBNN_TEST_UTILS_H_
 

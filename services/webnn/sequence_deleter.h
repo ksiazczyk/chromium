@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OnTaskRunnerDeleter for sequence-specific deletion
+// summary: Declares a deleter that deletes objects immediately when already on the target sequence or posts deletion to it, unlike base::OnTaskRunnerDeleter.
+// ---
+
 #ifndef SERVICES_WEBNN_SEQUENCE_DELETER_H_
 #define SERVICES_WEBNN_SEQUENCE_DELETER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebNN pending constant operand header
+// summary: Declares the class managing MLConstantOperand data built by a graph builder but not yet part of a graph, including a transparent comparator for token-based lookup.
+// ---
+
 #ifndef SERVICES_WEBNN_WEBNN_PENDING_CONSTANT_OPERAND_H_
 #define SERVICES_WEBNN_WEBNN_PENDING_CONSTANT_OPERAND_H_
 

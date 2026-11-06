@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContextImplLiteRt implementation
+// summary: Implements creation of the LiteRT-backed WebNN context for the GPU service and renderer processes, wiring up graph and tensor creation.
+// ---
+
 #include "services/webnn/tflite/context_impl_litert.h"
 
 #include "services/webnn/gpu_task_scheduler.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebNN tensor backend tests
+// summary: Unit tests for WebNNTensorImpl backends covering context and tensor creation, bad message handling, and platform-specific behavior on macOS, TFLite, and LiteRT.
+// ---
+
 #include <algorithm>
 #include <array>
 #include <string>

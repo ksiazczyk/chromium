@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebNN execution provider initialization API
+// summary: Declares EnsureExecutionProvidersReady, which prepares WebNN execution providers and returns their package info through a callback.
+// ---
+
 #ifndef SERVICES_WEBNN_HOST_EXECUTION_PROVIDER_INITIALIZER_H_
 #define SERVICES_WEBNN_HOST_EXECUTION_PROVIDER_INITIALIZER_H_
 

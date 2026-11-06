@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ResourceTask implementation
+// summary: Implements enqueueing, execution, and completion of tasks that acquire shared or exclusive locks on queueable resources and dispatch waiting tasks.
+// ---
+
 #include "services/webnn/resource_task.h"
 
 #include "services/webnn/queueable_resource_state_base.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ORT dispatch context class declaration
+// summary: Declares DispatchContextImplOrt, a GPU-process context inheriting tensor management that loads compiled models via WebNNModelLoader.
+// ---
+
 #ifndef SERVICES_WEBNN_ORT_DISPATCH_CONTEXT_IMPL_ORT_H_
 #define SERVICES_WEBNN_ORT_DISPATCH_CONTEXT_IMPL_ORT_H_
 

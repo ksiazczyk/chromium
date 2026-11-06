@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebNN tensor implementation header
+// summary: Declares the GPU process MLTensor implementation with shared image representation support and a task runner deleter that waits for sequence-safe deletion.
+// ---
+
 #ifndef SERVICES_WEBNN_WEBNN_TENSOR_IMPL_H_
 #define SERVICES_WEBNN_WEBNN_TENSOR_IMPL_H_
 

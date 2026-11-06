@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GraphBuilderContext implementation
+// summary: Implements GraphBuilderContext methods for creating, tracking, removing, and clearing WebNNGraphBuilderImpl receivers owned by a WebNN context.
+// ---
+
 #include "services/webnn/graph_builder_context.h"
 
 #include "services/webnn/public/mojom/webnn_graph.mojom.h"

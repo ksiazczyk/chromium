@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ORT context implementation
+// summary: Implements the ORT-based WebNN context that creates graphs and tensors for inference and records execution provider usage metrics.
+// ---
+
 #include "services/webnn/ort/context_impl_ort.h"
 
 #include <algorithm>

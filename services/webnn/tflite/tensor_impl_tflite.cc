@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TensorImplTflite implementation
+// summary: Implements WebNN tensor creation and read/write operations backed by BufferContent with resource locking for the TFLite backend.
+// ---
+
 #include "services/webnn/tflite/tensor_impl_tflite.h"
 
 #include <climits>

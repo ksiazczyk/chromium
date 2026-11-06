@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: External weights manager implementation
+// summary: Implements an OrtAllocator subclass that lets ORT manage the lifecycle of external model weights, creating initializers and freeing them when ORT is done.
+// ---
+
 #include "services/webnn/ort/external_weights_manager.h"
 
 #include "base/notreached.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebNN ORT platform functions unit tests
+// summary: Verifies that all ORT API function tables are non-null after platform function initialization.
+// ---
+
 #include "services/webnn/ort/platform_functions_ort.h"
 
 #include "services/webnn/ort/test_base_ort.h"

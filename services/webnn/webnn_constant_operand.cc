@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebNN constant operand implementation
+// summary: Implements WebNNConstantOperand, which stores and updates the byte data of a constant operand together with its descriptor.
+// ---
+
 #include "services/webnn/webnn_constant_operand.h"
 
 namespace webnn {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BufferContent class declaration
+// summary: Declares BufferContent, the internal contents of an MLTensor whose access is managed by wrapping in a QueueableResourceState.
+// ---
+
 #ifndef SERVICES_WEBNN_TFLITE_BUFFER_CONTENT_TFLITE_H_
 #define SERVICES_WEBNN_TFLITE_BUFFER_CONTENT_TFLITE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebNN ORT tensor implementation header
+// summary: Declares TensorImplOrt, the ORT-backed WebNN tensor with device allocator and external memory lifetime handling.
+// ---
+
 #ifndef SERVICES_WEBNN_ORT_TENSOR_IMPL_ORT_H_
 #define SERVICES_WEBNN_ORT_TENSOR_IMPL_ORT_H_
 

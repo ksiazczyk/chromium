@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Temporary WebNN weights file creation with disk space checks
+// summary: Creates temporary weights files in the browser process after checking free disk space headroom, using flags safe for passing to untrusted processes.
+// ---
+
 #include "services/webnn/host/weights_file_provider.h"
 
 #include <algorithm>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: WebNN host component build definition
+summary: Defines the WebNN host component target, listing weights file sources plus Windows-only execution provider sources and their dependencies.

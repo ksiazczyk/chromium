@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CoreML WebNN context header
+// summary: Declares ContextImplCoreml, created by the WebNN context provider to create graphs and tensors for the CoreML backend on macOS and to load compiled graphs.
+// ---
+
 #ifndef SERVICES_WEBNN_COREML_CONTEXT_IMPL_COREML_H_
 #define SERVICES_WEBNN_COREML_CONTEXT_IMPL_COREML_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContextImplLiteRt class declaration
+// summary: Declares ContextImplLiteRt, a WebNNContextImpl responsible for creating GraphImplLiteRt graphs that use LiteRT for inference.
+// ---
+
 #ifndef SERVICES_WEBNN_TFLITE_CONTEXT_IMPL_LITERT_H_
 #define SERVICES_WEBNN_TFLITE_CONTEXT_IMPL_LITERT_H_
 

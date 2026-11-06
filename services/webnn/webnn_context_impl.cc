@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebNN context implementation
+// summary: Implements WebNNContextImpl, which owns WebNN graphs and tensors, validates tensor usage, and dispatches Mojo messages for a device-bound context.
+// ---
+
 #include "services/webnn/webnn_context_impl.h"
 
 #include <memory>

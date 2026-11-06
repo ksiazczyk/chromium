@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ORT dispatch context implementation
+// summary: Implements the GPU-process dispatch context that receives compiled graphs from the Compiler process and runs ORT inference.
+// ---
+
 #include "services/webnn/ort/dispatch_context_impl_ort.h"
 
 #include "base/logging.h"

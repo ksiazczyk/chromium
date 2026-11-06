@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ORT graph implementation header
+// summary: Declares GraphImplOrt, the WebNNGraphImpl subclass that builds ORT models via GraphBuilderOrt, creates sessions and executes compiled graphs.
+// ---
+
 #ifndef SERVICES_WEBNN_ORT_GRAPH_IMPL_ORT_H_
 #define SERVICES_WEBNN_ORT_GRAPH_IMPL_ORT_H_
 

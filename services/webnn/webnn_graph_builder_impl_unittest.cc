@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebNN graph builder unit tests
+// summary: Unit tests for the WebNN graph builder that exercise graph creation using fake context and graph implementations.
+// ---
+
 #include "services/webnn/webnn_graph_builder_impl.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CoreML compiler context header
+// summary: Declares CompilerContextImplCoreml, which manages CoreML graph compilation in the WebNN Compiler utility process and returns compiled models to the GPU process.
+// ---
+
 #ifndef SERVICES_WEBNN_COREML_COMPILER_CONTEXT_IMPL_COREML_H_
 #define SERVICES_WEBNN_COREML_COMPILER_CONTEXT_IMPL_COREML_H_
 

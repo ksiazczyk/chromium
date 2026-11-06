@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: WebNN service GN build targets
+summary: Defines GN build targets, sources and dependencies for the WebNN service, including buildflags and platform-specific backends.

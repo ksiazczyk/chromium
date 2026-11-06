@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebNN context provider implementation
+// summary: Implements WebNNContextProviderImpl, which creates WebNN contexts using platform backends such as ONNX Runtime, CoreML, and LiteRT.
+// ---
+
 #include "services/webnn/webnn_context_provider_impl.h"
 
 #include <memory>

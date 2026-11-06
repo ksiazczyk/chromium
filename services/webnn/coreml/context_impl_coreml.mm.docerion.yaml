@@ -1,0 +1,4 @@
+# Docerion header of context_impl_coreml.mm.
+type: source
+title: CoreML WebNN context implementation
+summary: Implements ContextImplCoreml, wiring up the CoreML backend context with graph and tensor creation plus the model loader receiver for compiled graphs.

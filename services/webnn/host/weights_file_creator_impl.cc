@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebNN weights file creator Mojo implementation
+// summary: Implements the browser-side WebNNWeightsFileCreator Mojo interface, creating temp weights files and spawning sessions while skipping disk files in incognito.
+// ---
+
 #include "services/webnn/host/weights_file_creator_impl.h"
 
 #include <utility>

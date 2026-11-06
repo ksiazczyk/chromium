@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebNN constant operand class declaration
+// summary: Declares WebNNConstantOperand, which manages the data associated with an MLConstantOperand and exposes accessors for its descriptor and bytes.
+// ---
+
 #ifndef SERVICES_WEBNN_WEBNN_CONSTANT_OPERAND_H_
 #define SERVICES_WEBNN_WEBNN_CONSTANT_OPERAND_H_
 

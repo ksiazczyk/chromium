@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BufferContent implementation for TFLite tensors
+// summary: Implements aligned, zeroed buffer storage for MLTensor contents, padding allocations so XNNPACK reads beyond the buffer see deterministic values.
+// ---
+
 #include "services/webnn/tflite/buffer_content_tflite.h"
 
 #include <algorithm>

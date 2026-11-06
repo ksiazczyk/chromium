@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ORT device allocator implementation
+// summary: Creates ORT device allocators for supported execution providers via a trivial session and picks suitable memory info per provider.
+// ---
+
 #include "services/webnn/ort/device_allocator.h"
 
 #include <string_view>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebNN weights file session with per-origin capacity tracking
+// summary: Implements the WeightsFileSession Mojo interface with per-origin usage tracking, capacity change requests, finalization, and tempfile cleanup.
+// ---
+
 #include "services/webnn/host/weights_file_session_impl.h"
 
 #include <map>

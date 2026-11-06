@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QueueableResourceStateBase implementation
+// summary: Implements shared and exclusive locking, waiting-task queueing, and state checks for queueable WebNN resources used by ResourceTask.
+// ---
+
 #include "services/webnn/queueable_resource_state_base.h"
 
 #include "services/webnn/resource_task.h"

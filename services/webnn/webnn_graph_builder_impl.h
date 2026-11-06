@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebNN graph builder class declaration
+// summary: Declares the services-side graph builder that manages builder resources, validates graph info, and creates at most one WebNN graph.
+// ---
+
 #ifndef SERVICES_WEBNN_WEBNN_GRAPH_BUILDER_IMPL_H_
 #define SERVICES_WEBNN_WEBNN_GRAPH_BUILDER_IMPL_H_
 

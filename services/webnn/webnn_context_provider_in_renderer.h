@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebNN context provider for renderer processes
+// summary: Declares a lightweight WebNN context provider that runs in the renderer without GPU dependencies and opens browser-side weights files for incremental writes.
+// ---
+
 #ifndef SERVICES_WEBNN_WEBNN_CONTEXT_PROVIDER_IN_RENDERER_H_
 #define SERVICES_WEBNN_WEBNN_CONTEXT_PROVIDER_IN_RENDERER_H_
 

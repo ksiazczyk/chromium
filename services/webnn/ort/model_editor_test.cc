@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Model editor unit tests
+// summary: Unit tests verifying that ModelEditor builds ONNX graphs with inputs, initializers and Add and Gather nodes and produces valid model info.
+// ---
+
 #include "services/webnn/ort/model_editor.h"
 
 #include <array>

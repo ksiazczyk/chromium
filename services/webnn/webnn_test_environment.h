@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebNN test environment with fake browser host
+// summary: Declares a fake WebNNBrowserHost and a WebNNTestEnvironment helper that binds context providers and manages deterministic setup and teardown in service unit tests.
+// ---
+
 #ifndef SERVICES_WEBNN_WEBNN_TEST_ENVIRONMENT_H_
 #define SERVICES_WEBNN_WEBNN_TEST_ENVIRONMENT_H_
 

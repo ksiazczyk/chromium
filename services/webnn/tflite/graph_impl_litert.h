@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GraphImplLiteRt class declaration
+// summary: Declares GraphImplLiteRt, a WebNNGraphImpl that builds a LiteRT model via GraphBuilderTflite and then initializes and executes the graph.
+// ---
+
 #ifndef SERVICES_WEBNN_TFLITE_GRAPH_IMPL_LITERT_H_
 #define SERVICES_WEBNN_TFLITE_GRAPH_IMPL_LITERT_H_
 

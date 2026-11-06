@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ORT environment implementation
+// summary: Implements the shared thread-safe ONNX Runtime environment for the WebNN service, including execution provider registration, device selection and sandbox-safe logging.
+// ---
+
 #include "services/webnn/ort/environment.h"
 
 #include <algorithm>

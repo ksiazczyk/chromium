@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebNN ONNX Runtime model editor implementation
+// summary: Builds ONNX models from WebNN graph inputs, outputs, initializers and operators using the ORT model editor API, handling domains, opsets and external weight data.
+// ---
+
 #include "services/webnn/ort/model_editor.h"
 
 #include <ranges>

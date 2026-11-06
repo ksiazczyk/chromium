@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebNN graph unit tests
+// summary: Unit tests for WebNNGraphImpl dispatch and tensor validation using fake graph, tensor, and context implementations.
+// ---
+
 #include "services/webnn/webnn_graph_impl.h"
 
 #include <algorithm>

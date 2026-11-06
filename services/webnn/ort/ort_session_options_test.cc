@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Session options unit tests
+// summary: Unit tests verifying that session config entries are applied from the WebNN command line switch, covering empty, missing and malformed value cases.
+// ---
+
 #include "services/webnn/ort/ort_session_options.h"
 
 #include <string>

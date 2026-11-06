@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CoreML graph builder header
+// summary: Declares GraphBuilderCoreml, which converts a WebNN graph into a CoreML model, tracking operand information and producing an .mlpackage result.
+// ---
+
 #ifndef SERVICES_WEBNN_COREML_GRAPH_BUILDER_COREML_H_
 #define SERVICES_WEBNN_COREML_GRAPH_BUILDER_COREML_H_
 

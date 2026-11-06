@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CoreML MLMultiArray read and write helper declarations
+// summary: Declares helper functions to asynchronously read bytes from and write bytes to CoreML MLMultiArray buffers.
+// ---
+
 #ifndef SERVICES_WEBNN_COREML_UTILS_COREML_H_
 #define SERVICES_WEBNN_COREML_UTILS_COREML_H_
 

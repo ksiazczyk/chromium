@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CoreML graph implementation header
+// summary: Declares GraphImplCoreml, which builds and compiles CoreML graphs from WebNN graph info and then initializes and executes the resulting models on macOS.
+// ---
+
 #ifndef SERVICES_WEBNN_COREML_GRAPH_IMPL_COREML_H_
 #define SERVICES_WEBNN_COREML_GRAPH_IMPL_COREML_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebNN error constants and helper
+// summary: Defines bad-message error strings and a helper for building Mojo error responses in the WebNN service.
+// ---
+
 #ifndef SERVICES_WEBNN_ERROR_H_
 #define SERVICES_WEBNN_ERROR_H_
 

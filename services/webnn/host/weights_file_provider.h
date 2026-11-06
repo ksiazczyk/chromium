@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebNN weights file provider API and disk headroom constants
+// summary: Declares weights file creation helpers and disk headroom constants reserving at least 10 GiB or ten percent of the disk for WebNN weights files.
+// ---
+
 #ifndef SERVICES_WEBNN_HOST_WEIGHTS_FILE_PROVIDER_H_
 #define SERVICES_WEBNN_HOST_WEIGHTS_FILE_PROVIDER_H_
 
