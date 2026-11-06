@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media Foundation Clear Key CDM implementation
+// summary: Implements IMFContentDecryptionModule for the Clear Key CDM, building a property set for an in-process PMP server and managing sessions, trusted input and AES decryption.
+// ---
+
 #include "media/cdm/win/test/media_foundation_clear_key_cdm.h"
 
 #include <mfapi.h>

@@ -1,0 +1,4 @@
+# Docerion header of credits_updater_unittest.py.
+type: test
+title: Unit tests for credits_updater
+summary: Verifies credits generation for no files, LGPL files, known license buckets and generated licenses.

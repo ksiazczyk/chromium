@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Clear Key CDM build configuration
+summary: GN build file defining the clearkeycdm loadable module target with its sources, defines and dependencies.

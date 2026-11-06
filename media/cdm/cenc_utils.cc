@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CENC pssh box parsing utilities implementation
+// summary: Parses concatenated 'pssh' boxes to validate input and extract key IDs and data for the CENC Common System ID.
+// ---
+
 #include "media/cdm/cenc_utils.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media Foundation Clear Key CDM factory header
+// summary: Declares MediaFoundationClearKeyCdmFactory, a WRL runtime class implementing IMFContentDecryptionModuleFactory to check key system support and create CDM accesses.
+// ---
+
 #ifndef MEDIA_CDM_WIN_TEST_MEDIA_FOUNDATION_CLEAR_KEY_CDM_FACTORY_H_
 #define MEDIA_CDM_WIN_TEST_MEDIA_FOUNDATION_CLEAR_KEY_CDM_FACTORY_H_
 

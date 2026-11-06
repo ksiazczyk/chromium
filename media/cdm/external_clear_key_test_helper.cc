@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: External Clear Key CDM library test helper
+// summary: Loads and initializes the External Clear Key CDM native library for tests and unloads it on destruction.
+// ---
+
 #include "media/cdm/external_clear_key_test_helper.h"
 
 #include "base/debug/leak_annotations.h"

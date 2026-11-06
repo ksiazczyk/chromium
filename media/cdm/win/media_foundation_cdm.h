@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaFoundationCdm class declaration
+// summary: Declares MediaFoundationCdm, a Windows ContentDecryptionModule and CdmContext based on Media Foundation IMFContentDecryptionModule, with initialization, session, and type support callbacks.
+// ---
+
 #ifndef MEDIA_CDM_WIN_MEDIA_FOUNDATION_CDM_H_
 #define MEDIA_CDM_WIN_MEDIA_FOUNDATION_CDM_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media Foundation CDM utility header
+// summary: Declares CreateMediaFoundationCdm and IsMediaFoundationContentTypeSupported helpers used to instantiate and query Media Foundation content decryption modules.
+// ---
+
 #ifndef MEDIA_CDM_WIN_MEDIA_FOUNDATION_CDM_UTIL_H_
 #define MEDIA_CDM_WIN_MEDIA_FOUNDATION_CDM_UTIL_H_
 

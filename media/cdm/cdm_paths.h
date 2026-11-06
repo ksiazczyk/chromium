@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CDM path helpers declaration
+// summary: Declares helpers returning the platform-specific CDM directory relative to DIR_COMPONENTS and the Windows CDM store path.
+// ---
+
 #ifndef MEDIA_CDM_CDM_PATHS_H_
 #define MEDIA_CDM_CDM_PATHS_H_
 

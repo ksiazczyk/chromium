@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CdmVideoDecoder interface declaration
+// summary: Declares the CdmVideoDecoder interface and a factory that creates a decoder from a video decoder configuration.
+// ---
+
 #ifndef MEDIA_CDM_LIBRARY_CDM_CLEAR_KEY_CDM_CDM_VIDEO_DECODER_H_
 #define MEDIA_CDM_LIBRARY_CDM_CLEAR_KEY_CDM_CDM_VIDEO_DECODER_H_
 

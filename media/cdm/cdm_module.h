@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CDM module class declaration
+// summary: Declares the CdmModule singleton for loading library CDMs, initializing CDM module function pointers, and exposing the CreateCdm function.
+// ---
+
 #ifndef MEDIA_CDM_CDM_MODULE_H_
 #define MEDIA_CDM_CDM_MODULE_H_
 

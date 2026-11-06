@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clear Key persistent session CDM class declaration
+// summary: Declares ClearKeyPersistentSessionCdm, a ContentDecryptionModule wrapper around AesDecryptor that adds persistent session handling via CdmFileAdapter.
+// ---
+
 #ifndef MEDIA_CDM_LIBRARY_CDM_CLEAR_KEY_CDM_CLEAR_KEY_PERSISTENT_SESSION_CDM_H_
 #define MEDIA_CDM_LIBRARY_CDM_CLEAR_KEY_CDM_CLEAR_KEY_PERSISTENT_SESSION_CDM_H_
 

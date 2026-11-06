@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaFoundationCdmModule class declaration
+// summary: Declares MediaFoundationCdmModule, a singleton in the MediaFoundationService process in charge of CDM loading and IMFContentDecryptionModuleFactory activation.
+// ---
+
 #ifndef MEDIA_CDM_WIN_MEDIA_FOUNDATION_CDM_MODULE_H_
 #define MEDIA_CDM_WIN_MEDIA_FOUNDATION_CDM_MODULE_H_
 

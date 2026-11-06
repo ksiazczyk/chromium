@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CDM type conversion implementation
+// summary: Implements conversions between Chromium media types and CDM API types for color spaces, HDCP versions, sessions, keys, codecs, and decoder configs.
+// ---
+
 #include "media/cdm/cdm_type_conversion.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedAVPacket RAII wrapper for AVPacket
+// summary: Declares ScopedAVPacket, a move-only wrapper that ensures AVPackets are allocated with av_packet_alloc() and freed with av_packet_free().
+// ---
+
 #ifndef MEDIA_FFMPEG_SCOPED_AV_PACKET_H_
 #define MEDIA_FFMPEG_SCOPED_AV_PACKET_H_
 

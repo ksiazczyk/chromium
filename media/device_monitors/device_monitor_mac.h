@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceMonitorMac header for macOS device monitoring
+// summary: Declares the media::DeviceMonitorMac class that tracks video device addition and removal on macOS via base::SystemMonitor.
+// ---
+
 #ifndef MEDIA_DEVICE_MONITORS_DEVICE_MONITOR_MAC_H_
 #define MEDIA_DEVICE_MONITORS_DEVICE_MONITOR_MAC_H_
 

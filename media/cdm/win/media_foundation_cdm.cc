@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media Foundation CDM implementation
+// summary: Implements MediaFoundationCdm on Windows using IMFContentDecryptionModule, covering session management, HDCP policy checks, content protection HWND setup, and decryptor key prefetch events.
+// ---
+
 
 #include "media/cdm/win/media_foundation_cdm.h"
 

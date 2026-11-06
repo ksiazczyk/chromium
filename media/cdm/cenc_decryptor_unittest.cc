@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for CENC buffer decryption
+// summary: Tests DecryptCencBuffer across single blocks, subsample cases, and metadata preservation of decrypted buffers.
+// ---
+
 #include "media/cdm/cenc_decryptor.h"
 
 #include <stdint.h>

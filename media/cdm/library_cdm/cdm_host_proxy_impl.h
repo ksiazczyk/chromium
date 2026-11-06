@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Templated CdmHostProxy implementation forwarding host calls
+// summary: Provides a templated CdmHostProxy implementation that forwards host calls to the correct CDM Host interface, including key status conversion helpers.
+// ---
+
 #ifndef MEDIA_CDM_LIBRARY_CDM_CDM_HOST_PROXY_IMPL_H_
 #define MEDIA_CDM_LIBRARY_CDM_CDM_HOST_PROXY_IMPL_H_
 

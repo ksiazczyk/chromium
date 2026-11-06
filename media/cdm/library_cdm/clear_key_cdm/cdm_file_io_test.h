@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File IO test classes declaration
+// summary: Declares FileIOTest and FileIOTestRunner, a customizable step-based framework for testing cdm::FileIO implementations.
+// ---
+
 #ifndef MEDIA_CDM_LIBRARY_CDM_CLEAR_KEY_CDM_CDM_FILE_IO_TEST_H_
 #define MEDIA_CDM_LIBRARY_CDM_CLEAR_KEY_CDM_CDM_FILE_IO_TEST_H_
 

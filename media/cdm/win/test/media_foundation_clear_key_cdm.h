@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the Media Foundation Clear Key CDM class
+// summary: Declares the MediaFoundationClearKeyCdm runtime class implementing IMFContentDecryptionModule, IMFGetService and IMFShutdown with session tracking and an AES decryptor.
+// ---
+
 #ifndef MEDIA_CDM_WIN_TEST_MEDIA_FOUNDATION_CLEAR_KEY_CDM_H_
 #define MEDIA_CDM_WIN_TEST_MEDIA_FOUNDATION_CLEAR_KEY_CDM_H_
 

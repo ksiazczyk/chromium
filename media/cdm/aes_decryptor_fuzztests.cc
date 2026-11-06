@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AesDecryptor fuzz tests
+// summary: Fuzz tests exercising AesDecryptor session creation and key updates with varied init data to detect crashes.
+// ---
+
 #include <algorithm>
 #include <cstdint>
 #include <string>

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Task orchestration for build steps
+# summary: Defines the Task dataclass and helpers to register, render, and run robosushi steps with skipping and error tracking.
+# ---
+
 import dataclasses
 import typing
 

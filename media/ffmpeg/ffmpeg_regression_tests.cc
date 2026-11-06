@@ -19,6 +19,12 @@
 // Test cases labeled FLAKY may not always pass, but they should never crash or
 // cause any kind of warnings or errors under tooling.
 
+// ---docerion
+// type: test
+// title: FFmpeg pipeline regression tests
+// summary: Parameterized pipeline integration regression tests that run internal media test files through FFmpeg to catch crashes and tooling errors.
+// ---
+
 #include <string>
 
 #include "base/functional/bind.h"

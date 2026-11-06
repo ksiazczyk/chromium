@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SimpleCdmBuffer header
+// summary: Declares SimpleCdmBuffer, a simple cdm::Buffer implementation backed by a std::vector for CDM memory access.
+// ---
+
 #ifndef MEDIA_CDM_SIMPLE_CDM_BUFFER_H_
 #define MEDIA_CDM_SIMPLE_CDM_BUFFER_H_
 

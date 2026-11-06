@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock library CDM implementation for CDM 11 and 12
+// summary: Implements the mock library CDM entry point that creates instances supporting CDM interface versions 11 and 12 for testing.
+// ---
+
 #include "media/cdm/library_cdm/mock_library_cdm.h"
 
 #include <string>

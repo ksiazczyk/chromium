@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FFmpegDecodingLoop header
+// summary: Declares the FFmpegDecodingLoop class that decodes AVPackets with an AVCodecContext and reports frames and decode status codes to callers.
+// ---
+
 #ifndef MEDIA_FFMPEG_FFMPEG_DECODING_LOOP_H_
 #define MEDIA_FFMPEG_FFMPEG_DECODING_LOOP_H_
 

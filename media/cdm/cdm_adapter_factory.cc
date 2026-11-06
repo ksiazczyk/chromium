@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: cdm_adapter_factory.cc
+// summary: Implements CdmAdapterFactory, which creates CdmAdapter instances using the CDM module's create function and a helper creation callback.
+// ---
+
 #include "media/cdm/cdm_adapter_factory.h"
 
 #include "base/functional/bind.h"

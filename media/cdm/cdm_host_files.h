@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CDM host files class declaration
+// summary: Declares the CdmHostFiles class that manages common and CDM-specific host files and defines the verification status enum reported to UMA.
+// ---
+
 #ifndef MEDIA_CDM_CDM_HOST_FILES_H_
 #define MEDIA_CDM_CDM_HOST_FILES_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: cdm_adapter.cc
+// summary: Implements CdmAdapter, which bridges Chromium's ContentDecryptionModule interface to a loaded CDM, handling sessions, decryption, and output protection.
+// ---
+
 #include "media/cdm/cdm_adapter.h"
 
 #include <stddef.h>

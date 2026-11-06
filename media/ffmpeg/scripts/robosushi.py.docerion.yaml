@@ -1,0 +1,4 @@
+# Docerion header of robosushi.py.
+type: script
+title: Robosushi FFmpeg roll automation tool
+summary: Command-line entry point that orchestrates setup, upstream merging, config builds, tests, and branch upload for the FFmpeg roll.

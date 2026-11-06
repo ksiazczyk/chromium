@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for //media/ffmpeg
+summary: GN build file defining the ffmpeg source set with its dependencies plus unit test and regression test targets.

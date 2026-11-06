@@ -1,0 +1,4 @@
+# Docerion header of win_env.sh.
+type: script
+title: Windows Visual Studio 2015 environment setup
+summary: Configures PATH, INCLUDE, and LIB for Visual Studio 2015 x86 or x64 command-line builds and runs the supplied command in that environment.

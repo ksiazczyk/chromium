@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ExternalClearKeyTestHelper class declaration
+// summary: Declares a helper class that loads the External Clear Key CDM library and exposes its path and CDM configuration for tests.
+// ---
+
 #ifndef MEDIA_CDM_EXTERNAL_CLEAR_KEY_TEST_HELPER_H_
 #define MEDIA_CDM_EXTERNAL_CLEAR_KEY_TEST_HELPER_H_
 

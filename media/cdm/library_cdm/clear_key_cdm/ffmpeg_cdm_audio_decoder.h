@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FFmpeg CDM audio decoder class declaration
+// summary: Declares FFmpegCdmAudioDecoder, which decodes compressed audio buffers with FFmpeg and returns CDM audio frames for the Clear Key CDM.
+// ---
+
 #ifndef MEDIA_CDM_LIBRARY_CDM_CLEAR_KEY_CDM_FFMPEG_CDM_AUDIO_DECODER_H_
 #define MEDIA_CDM_LIBRARY_CDM_CLEAR_KEY_CDM_FFMPEG_CDM_AUDIO_DECODER_H_
 

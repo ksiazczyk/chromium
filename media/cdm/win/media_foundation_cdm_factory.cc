@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media Foundation CDM factory implementation
+// summary: Implements MediaFoundationCdmFactory, creating Media Foundation CDMs, checking content type support, and reporting UMA metrics for key systems such as PlayReady and Clear Key.
+// ---
+
 #include "media/cdm/win/media_foundation_cdm_factory.h"
 
 #include <combaseapi.h>

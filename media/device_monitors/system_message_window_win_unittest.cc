@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for SystemMessageWindowWin
+// summary: Verifies device change reporting, including audio device behavior that depends on whether Core Audio is supported.
+// ---
+
 #include "media/device_monitors/system_message_window_win.h"
 
 #include <dbt.h>

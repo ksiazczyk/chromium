@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media Foundation CDM session unit tests
+// summary: Unit tests for MediaFoundationCdmSession using mock Media Foundation CDM sessions to verify initialization, request generation, session IDs, and callback behavior.
+// ---
+
 #include "media/cdm/win/media_foundation_cdm_session.h"
 
 #include <wchar.h>

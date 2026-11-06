@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: script
+# title: Robosushi task step definitions
+# summary: Registers the robosushi task steps, such as setup and auto-merge, wiring them to functions in robo_branch, robo_build, and robo_setup.
+# ---
+
 '''This file describes the nested steps necessary for robosushi to run.
 
 This file specifically _does not_ contain implementations for any of these

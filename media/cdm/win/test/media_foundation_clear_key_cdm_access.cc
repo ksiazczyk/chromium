@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clear Key CDM access implementation
+// summary: Implements IMFContentDecryptionModuleAccess, creating a MediaFoundationClearKeyCdm from a property store and reporting the supported Clear Key key system.
+// ---
+
 #include "media/cdm/win/test/media_foundation_clear_key_cdm_access.h"
 
 #include <mfapi.h>

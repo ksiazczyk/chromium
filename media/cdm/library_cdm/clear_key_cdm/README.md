@@ -1,3 +1,9 @@
+---
+type: readme
+title: Clear Key CDM
+summary: Explains that this folder contains a library CDM implementing the External Clear Key key system for testing the library CDM path.
+---
+
 # Clear Key CDM
 
 This folder contains a library CDM implementation that implements the

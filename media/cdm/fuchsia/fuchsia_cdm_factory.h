@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia CDM factory declaration
+// summary: Declares FuchsiaCdmFactory, a CdmFactory that builds FuchsiaCdm instances through a FuchsiaCdmProvider and tracks pending creations.
+// ---
+
 #ifndef MEDIA_CDM_FUCHSIA_FUCHSIA_CDM_FACTORY_H_
 #define MEDIA_CDM_FUCHSIA_FUCHSIA_CDM_FACTORY_H_
 

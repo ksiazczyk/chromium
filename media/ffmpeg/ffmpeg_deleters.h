@@ -7,6 +7,12 @@
 // ffmpeg_common.h. (Forward declarations of deleters aren't sufficient for
 // |scoped_ptr|.)
 
+// ---docerion
+// type: source
+// title: FFmpeg scoped pointer deleters
+// summary: Declares deleter functors for FFmpeg types such as AVPacket, AVCodecContext, and AVFrame for use with scoped pointers, with definitions in ffmpeg_common.h.
+// ---
+
 #ifndef MEDIA_FFMPEG_FFMPEG_DELETERS_H_
 #define MEDIA_FFMPEG_FFMPEG_DELETERS_H_
 

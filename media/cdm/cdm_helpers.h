@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CDM block and frame helper declarations
+// summary: Declares DecryptedBlockImpl, VideoFrameImpl, and AudioFramesImpl classes that wrap CDM decrypted blocks, video frames, and audio frames.
+// ---
+
 #ifndef MEDIA_CDM_CDM_HELPERS_H_
 #define MEDIA_CDM_CDM_HELPERS_H_
 

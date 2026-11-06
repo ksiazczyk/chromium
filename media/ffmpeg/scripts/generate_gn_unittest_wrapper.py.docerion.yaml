@@ -1,0 +1,4 @@
+# Docerion header of generate_gn_unittest_wrapper.py.
+type: test
+title: Generate GN unittest wrapper
+summary: Runs generate_gn_unittest.py with python3 so the presubmit unittest harness executes the real GN generation tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media Foundation Clear Key decryptor header
+// summary: Declares the MediaFoundationClearKeyDecryptor class, an IMFTransform decryptor for audio or video streams created by the input trust authority.
+// ---
+
 #ifndef MEDIA_CDM_WIN_TEST_MEDIA_FOUNDATION_CLEAR_KEY_DECRYPTOR_H_
 #define MEDIA_CDM_WIN_TEST_MEDIA_FOUNDATION_CLEAR_KEY_DECRYPTOR_H_
 

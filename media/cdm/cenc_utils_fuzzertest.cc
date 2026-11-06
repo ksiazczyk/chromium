@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fuzzer for pssh input validation
+// summary: libFuzzer harness that calls ValidatePsshInput on arbitrary byte data to check robustness of pssh box parsing.
+// ---
+
 #include <stdint.h>
 
 #include "base/containers/span.h"

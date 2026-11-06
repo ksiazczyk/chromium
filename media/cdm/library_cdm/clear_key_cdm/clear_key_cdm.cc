@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClearKeyCdm implementation
+// summary: Implements the Clear Key ContentDecryptionModule, including session management, decryption and decoder support.
+// ---
+
 #include "media/cdm/library_cdm/clear_key_cdm/clear_key_cdm.h"
 
 #include <algorithm>

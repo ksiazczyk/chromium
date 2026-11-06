@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JSON Web Key helper declarations
+// summary: Declares functions to generate JWK sets, extract keys and session types from JWK sets, create license requests, and parse key IDs initialization data.
+// ---
+
 #ifndef MEDIA_CDM_JSON_WEB_KEY_H_
 #define MEDIA_CDM_JSON_WEB_KEY_H_
 

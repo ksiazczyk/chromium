@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media Foundation Clear Key session implementation
+// summary: Implements the Media Foundation Clear Key CDM session, mapping Chromium CDM session types, key statuses, and messages to Media Foundation MediaKeySession APIs.
+// ---
+
 
 #include "media/cdm/win/test/media_foundation_clear_key_session.h"
 

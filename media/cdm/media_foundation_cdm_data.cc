@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaFoundationCdmData implementation
+// summary: Implements the MediaFoundationCdmData struct constructors that hold a CDM origin ID and the CDM store path root.
+// ---
+
 #include "media/cdm/media_foundation_cdm_data.h"
 
 namespace media {

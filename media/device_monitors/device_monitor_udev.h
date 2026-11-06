@@ -5,6 +5,12 @@
 // This class is used to detect device change and notify base::SystemMonitor
 // on Linux.
 
+// ---docerion
+// type: source
+// title: DeviceMonitorLinux header for udev device monitoring
+// summary: Declares DeviceMonitorLinux, which detects device changes via udev and notifies base::SystemMonitor on Linux.
+// ---
+
 #ifndef MEDIA_DEVICE_MONITORS_DEVICE_MONITOR_UDEV_H_
 #define MEDIA_DEVICE_MONITORS_DEVICE_MONITOR_UDEV_H_
 

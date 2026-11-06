@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Virtual core window implementation
+// summary: Implements VirtualCoreWindowImpl, a mostly stubbed ICoreWindow that only provides the window handle through ICoreWindowInterop for Media Foundation GPU adapter selection.
+// ---
+
 #include "media/cdm/win/virtual_core_window_impl.h"
 
 #include <mfapi.h>

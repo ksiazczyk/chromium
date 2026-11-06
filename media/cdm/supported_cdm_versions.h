@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Supported CDM interface and host versions
+// summary: Defines which CDM interface and host versions are supported and enabled by default, with helper functions for version checks and command-line overrides.
+// ---
+
 #ifndef MEDIA_CDM_SUPPORTED_CDM_VERSIONS_H_
 #define MEDIA_CDM_SUPPORTED_CDM_VERSIONS_H_
 

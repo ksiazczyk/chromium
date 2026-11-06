@@ -1,0 +1,4 @@
+# Docerion header of robo_build.py.
+type: script
+title: FFmpeg build and config import helpers
+summary: Builds FFmpeg per platform and architecture and imports the resulting configs into Chromium GN build files.

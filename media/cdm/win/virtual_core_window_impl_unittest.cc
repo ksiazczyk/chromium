@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Virtual core window unit tests
+// summary: Unit tests for VirtualCoreWindowImpl verifying window handle retrieval, QueryInterface support for ICoreWindow and ICoreWindowInterop, and that unimplemented methods return E_NOTIMPL.
+// ---
+
 #include "media/cdm/win/virtual_core_window_impl.h"
 
 #include <wrl.h>

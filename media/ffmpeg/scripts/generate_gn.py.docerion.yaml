@@ -1,0 +1,4 @@
+# Docerion header of generate_gn.py.
+type: script
+title: Generate GN build file for FFmpeg sources
+summary: Scans build directories for object files and generates the GN include file listing FFmpeg sources per platform, architecture and branding.

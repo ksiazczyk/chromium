@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CdmFileAdapter implementation
+// summary: Implements file open, read and write operations by adapting cdm::FileIO client callbacks for the Clear Key CDM.
+// ---
+
 #include "media/cdm/library_cdm/clear_key_cdm/cdm_file_adapter.h"
 
 #include <memory>

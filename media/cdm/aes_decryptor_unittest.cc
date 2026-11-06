@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AesDecryptor unit tests
+// summary: Comprehensive unit tests for AesDecryptor covering session management, JWK key handling, and decryption behavior.
+// ---
+
 #include "media/cdm/aes_decryptor.h"
 
 #include <stdint.h>

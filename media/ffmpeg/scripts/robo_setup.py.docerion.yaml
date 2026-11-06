@@ -1,0 +1,4 @@
+# Docerion header of robo_setup.py.
+type: script
+title: FFmpeg roll environment setup
+summary: Installs build prerequisites, fetches internal media test data, and creates configured Chromium output directories for the roll.

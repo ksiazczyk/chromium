@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the Clear Key CDM activate class
+// summary: Declares the MediaFoundationClearKeyActivate runtime class implementing IMFActivate and its inherited IMFAttributes methods for the Clear Key CDM.
+// ---
+
 #ifndef MEDIA_CDM_WIN_TEST_MEDIA_FOUNDATION_CLEAR_KEY_ACTIVATE_H_
 #define MEDIA_CDM_WIN_TEST_MEDIA_FOUNDATION_CLEAR_KEY_ACTIVATE_H_
 

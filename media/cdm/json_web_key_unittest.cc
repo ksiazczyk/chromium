@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for JSON Web Key handling
+// summary: Unit tests verifying JWK set generation, key and session type extraction, license request creation, and key ID parsing behavior.
+// ---
+
 #include "media/cdm/json_web_key.h"
 
 #include <stddef.h>

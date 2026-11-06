@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CdmVideoDecoder implementation
+// summary: Implements video decoding for the Clear Key CDM, converting media decoder output into CDM video frames.
+// ---
+
 #include "media/cdm/library_cdm/clear_key_cdm/cdm_video_decoder.h"
 
 #include <memory>

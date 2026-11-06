@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clear Key CDM key system constants
+// summary: Defines Clear Key and External Clear Key key system identifiers, UUIDs, and library names used across the CDM code.
+// ---
+
 #ifndef MEDIA_CDM_CLEAR_KEY_CDM_COMMON_H_
 #define MEDIA_CDM_CLEAR_KEY_CDM_COMMON_H_
 

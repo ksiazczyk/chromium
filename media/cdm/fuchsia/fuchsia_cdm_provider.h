@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia CDM provider interface
+// summary: Defines the FuchsiaCdmProvider interface for connecting fuchsia.media.drm ContentDecryptionModule channels to the remote DRM service.
+// ---
+
 #ifndef MEDIA_CDM_FUCHSIA_FUCHSIA_CDM_PROVIDER_H_
 #define MEDIA_CDM_FUCHSIA_FUCHSIA_CDM_PROVIDER_H_
 

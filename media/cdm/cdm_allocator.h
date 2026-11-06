@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CdmAllocator interface
+// summary: Declares the CdmAllocator abstract interface for creating CDM buffers and video frame implementations.
+// ---
+
 #ifndef MEDIA_CDM_CDM_ALLOCATOR_H_
 #define MEDIA_CDM_CDM_ALLOCATOR_H_
 

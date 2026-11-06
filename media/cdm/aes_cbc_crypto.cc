@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AES-CBC-128 decryption implementation
+// summary: Implements AES-CBC-128 block decryption using BoringSSL EVP APIs with streaming block-by-block support.
+// ---
+
 #include "media/cdm/aes_cbc_crypto.h"
 
 #include "base/check_op.h"

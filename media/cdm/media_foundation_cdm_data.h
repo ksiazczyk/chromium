@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaFoundationCdmData struct header
+// summary: Declares the MediaFoundationCdmData struct carrying an origin ID and CDM store path root for Media Foundation CDM use.
+// ---
+
 #ifndef MEDIA_CDM_MEDIA_FOUNDATION_CDM_DATA_H_
 #define MEDIA_CDM_MEDIA_FOUNDATION_CDM_DATA_H_
 

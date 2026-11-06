@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DLL entry point for the Media Foundation Clear Key CDM
+// summary: Implements DllMain and the COM DLL entry points that set up the WRL in-process module and Media Foundation startup and shutdown for the Clear Key CDM.
+// ---
+
 #include <mfapi.h>
 #include <wrl/module.h>
 

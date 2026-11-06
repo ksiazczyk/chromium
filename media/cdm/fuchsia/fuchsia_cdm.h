@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia CDM class declaration
+// summary: Declares FuchsiaCdm, which implements ContentDecryptionModule, CdmContext and FuchsiaCdmContext on top of the Fuchsia media DRM service.
+// ---
+
 #ifndef MEDIA_CDM_FUCHSIA_FUCHSIA_CDM_H_
 #define MEDIA_CDM_FUCHSIA_FUCHSIA_CDM_H_
 

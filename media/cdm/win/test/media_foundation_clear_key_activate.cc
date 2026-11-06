@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IMFActivate implementation for the Clear Key CDM
+// summary: Implements the MediaFoundationClearKeyActivate class, which creates a Clear Key content enabler on activation and leaves most IMFAttributes methods unimplemented.
+// ---
+
 #include "media/cdm/win/test/media_foundation_clear_key_activate.h"
 
 #include <wrl/client.h>

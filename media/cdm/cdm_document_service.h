@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CdmDocumentService interface
+// summary: Declares the CdmDocumentService interface for platform challenge verification, storage ID retrieval, and Windows Media Foundation CDM data and events.
+// ---
+
 #ifndef MEDIA_CDM_CDM_DOCUMENT_SERVICE_H_
 #define MEDIA_CDM_CDM_DOCUMENT_SERVICE_H_
 

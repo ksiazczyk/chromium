@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CdmAuxiliaryHelper default implementation
+// summary: Implements default no-op behavior for CDM auxiliary functions such as file IO, output protection, platform challenge, and storage ID.
+// ---
+
 #include "media/cdm/cdm_auxiliary_helper.h"
 
 #include "build/build_config.h"

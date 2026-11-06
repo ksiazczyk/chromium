@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CENC AES-CTR buffer decryption implementation
+// summary: Implements DecryptCencBuffer to decrypt 'cenc' AES-CTR protected decoder buffers using a 128-bit key and subsample entries.
+// ---
+
 #include "media/cdm/cenc_decryptor.h"
 
 #include <stdint.h>

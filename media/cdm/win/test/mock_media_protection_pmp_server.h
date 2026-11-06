@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock media protection PMP server header
+// summary: Declares MockMediaProtectionPMPServer, a stand-in for the Windows Protected Media Path server for cases where a real in-process PMP is not allowed.
+// ---
+
 #ifndef MEDIA_CDM_WIN_TEST_MOCK_MEDIA_PROTECTION_PMP_SERVER_H_
 #define MEDIA_CDM_WIN_TEST_MOCK_MEDIA_PROTECTION_PMP_SERVER_H_
 

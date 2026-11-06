@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AesDecryptor implementation
+// summary: Implements the AesDecryptor CDM that manages sessions and keys and decrypts AES-CTR encrypted media buffers.
+// ---
+
 #include "media/cdm/aes_decryptor.h"
 
 #include <stddef.h>

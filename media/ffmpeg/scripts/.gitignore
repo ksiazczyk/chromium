@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: Git ignore rules for the scripts directory
+# summary: Ignores the local git_commands.sh helper and robosushi.log output in the FFmpeg scripts directory.
+# ---
+
 git_commands.sh
 robosushi.log

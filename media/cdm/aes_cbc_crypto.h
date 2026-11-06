@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AesCbcCrypto class declaration
+// summary: Declares the AesCbcCrypto class that performs streaming AES-CBC-128 decryption with a persistent IV.
+// ---
+
 #ifndef MEDIA_CDM_AES_CBC_CRYPTO_H_
 #define MEDIA_CDM_AES_CBC_CRYPTO_H_
 

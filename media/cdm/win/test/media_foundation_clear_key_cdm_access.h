@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the Clear Key CDM access class
+// summary: Declares the MediaFoundationClearKeyCdmAccess runtime class implementing IMFContentDecryptionModuleAccess, with a thread checker for MF work queue calls.
+// ---
+
 #ifndef MEDIA_CDM_WIN_TEST_MEDIA_FOUNDATION_CLEAR_KEY_CDM_ACCESS_H_
 #define MEDIA_CDM_WIN_TEST_MEDIA_FOUNDATION_CLEAR_KEY_CDM_ACCESS_H_
 

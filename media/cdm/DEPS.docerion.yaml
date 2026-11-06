@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for media CDM
+summary: Specifies allowed include dependencies for code in the media/cdm directory.

@@ -1,0 +1,4 @@
+# Docerion header of credits_updater.py.
+type: script
+title: Update the CREDITS.chromium license file
+summary: Generates CREDITS.chromium from LICENSE.md, the LGPL text and known license buckets, detecting header changes via digests.

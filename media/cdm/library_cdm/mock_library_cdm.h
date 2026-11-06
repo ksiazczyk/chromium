@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock library CDM class with gmock-based CDM interface methods
+// summary: Declares MockLibraryCdm, a gmock-based implementation of the cdm::ContentDecryptionModule 11 and 12 interfaces for use in media CDM unit tests.
+// ---
+
 #ifndef MEDIA_CDM_LIBRARY_CDM_MOCK_LIBRARY_CDM_H_
 #define MEDIA_CDM_LIBRARY_CDM_MOCK_LIBRARY_CDM_H_
 

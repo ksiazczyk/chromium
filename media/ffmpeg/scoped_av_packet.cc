@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedAVPacket implementation
+// summary: Implements the ScopedAVPacket wrapper that allocates, owns, and moves FFmpeg AVPacket instances safely.
+// ---
+
 #include "media/ffmpeg/scoped_av_packet.h"
 
 #include "media/ffmpeg/ffmpeg_common.h"

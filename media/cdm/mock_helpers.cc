@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockCdmAuxiliaryHelper implementation
+// summary: Implements MockCdmAuxiliaryHelper, a gmock-based CdmAuxiliaryHelper that delegates buffer and video frame creation to an optional allocator.
+// ---
+
 #include "media/cdm/mock_helpers.h"
 
 namespace media {

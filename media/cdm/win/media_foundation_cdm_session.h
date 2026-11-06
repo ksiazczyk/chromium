@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaFoundationCdmSession class declaration
+// summary: Declares MediaFoundationCdmSession, a wrapper around IMFContentDecryptionModuleSession exposing EME session operations such as generate request, load, update, close, and remove.
+// ---
+
 #ifndef MEDIA_CDM_WIN_MEDIA_FOUNDATION_CDM_SESSION_H_
 #define MEDIA_CDM_WIN_MEDIA_FOUNDATION_CDM_SESSION_H_
 
