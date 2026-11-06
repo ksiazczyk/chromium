@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UrlFormatter Java wrapper for URL formatting utilities
+// summary: Java wrapper around the native url_formatter component that fixes up URL-like strings and formats URLs for user display, omitting schemes, credentials, trailing slashes, and trivial subdomains.
+// ---
+
 package org.chromium.components.url_formatter;
 
 import android.text.TextUtils;

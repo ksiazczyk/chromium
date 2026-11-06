@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the url_rewrite renderer
+summary: Declares the allowed include dependencies for the renderer directory, covering content renderer, Mojo bindings and Blink common.

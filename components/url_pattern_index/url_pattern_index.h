@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL pattern index builder interface
+// summary: Declares UrlPatternIndexBuilder for constructing an N-gram index over URL rules, plus rule serialization helpers, domain comparison, and the index format version constant.
+// ---
+
 #ifndef COMPONENTS_URL_PATTERN_INDEX_URL_PATTERN_INDEX_H_
 #define COMPONENTS_URL_PATTERN_INDEX_URL_PATTERN_INDEX_H_
 

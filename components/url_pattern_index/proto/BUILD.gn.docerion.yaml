@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build config for the url_pattern_index proto library
+summary: Defines the GN proto_library target that compiles rules.proto into the url_pattern_index protobuf library.

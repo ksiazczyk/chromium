@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Common word lookup unit tests
+// summary: Unit test verifying IsCommonWord against a test DAFSA, expecting "alphabet" to match and "bravo" not to.
+// ---
+
 #include "components/url_formatter/spoof_checks/common_words/common_words_util.h"
 
 #include "components/url_formatter/spoof_checks/common_words/common_words_test-inc.cc"

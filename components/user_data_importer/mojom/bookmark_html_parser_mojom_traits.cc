@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark HTML parser Mojom traits implementation
+// summary: Implements Mojo StructTraits Read functions that deserialize Mojom bookmark parser messages into user_data_importer and favicon_base C++ types.
+// ---
+
 #include "components/user_data_importer/mojom/bookmark_html_parser_mojom_traits.h"
 
 #include "mojo/public/cpp/base/string16_mojom_traits.h"

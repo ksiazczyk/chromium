@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RegexSetMatcher implementation
+// summary: Implements RegexSetMatcher, which matches text against many regular expressions using FilteredRE2 with substring-based prefiltering.
+// ---
+
 #include "components/url_matcher/regex_set_matcher.h"
 
 #include <stddef.h>

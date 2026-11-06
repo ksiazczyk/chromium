@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Streaming JSON deserialization for imported browser data
+// summary: Provides streaming JSON deserialization of zip entries, dispatching each parsed element to a callback for history and payment card file types.
+// ---
+
 use crate::ffi;
 use crate::models::Metadata;
 use serde::{de, de::Deserializer, de::Error as DeserializerError};

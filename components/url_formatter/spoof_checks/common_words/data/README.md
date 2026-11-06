@@ -1,3 +1,13 @@
+---
+type: readme
+title: Chrome common word list
+summary: Explains how Chrome's common words list is derived from Norvig's count_1w.txt dataset and documents each data file plus the steps to regenerate them.
+relations:
+  - documents /components/url_formatter/spoof_checks/common_words/data/common_words.gperf
+  - documents /components/url_formatter/spoof_checks/common_words/data/common_words_test.gperf
+  - documents /components/url_formatter/spoof_checks/common_words/data/brands_in_common_words.list
+---
+
 # Chrome common word list
 
 Chrome's common words list is derived from Peter Norvig's `count_1w.txt`

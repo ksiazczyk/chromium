@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fuzzer for URL fixer and formatter functions
+// summary: Fuzz tests that exercise SegmentURL, FormatUrl, FixupURL and FixupRelativeFile with random UTF-8 inputs to find crashes in URL fixing and formatting.
+// ---
+
 #include "components/url_formatter/url_fixer.h"
 
 #include <stdint.h>

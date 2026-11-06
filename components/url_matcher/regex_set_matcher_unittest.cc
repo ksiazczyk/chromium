@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RegexSetMatcher unit tests
+// summary: Unit tests verifying that RegexSetMatcher matches multiple regexes against URLs and handles case sensitivity correctly.
+// ---
+
 #include "components/url_matcher/regex_set_matcher.h"
 
 #include <set>

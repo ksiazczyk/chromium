@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of URL fixup for user-typed text
+// summary: Implements segmenting and fixing up of user-entered text into URLs, including scheme normalization and file path handling.
+// ---
+
 #include "components/url_formatter/url_fixer.h"
 
 #include <stddef.h>

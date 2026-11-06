@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declarations for URL pattern encode callbacks
+// summary: Declares canonicalization callbacks for each URL component plus helpers for forbidden hostname code points and IPv6 detection.
+// ---
+
 #ifndef COMPONENTS_URL_PATTERN_URL_PATTERN_UTIL_H_
 #define COMPONENTS_URL_PATTERN_URL_PATTERN_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IDNSpoofChecker class header
+// summary: Declares the IDNSpoofChecker class API for spoof checking, including SafeToDisplayAsUnicode, GetSimilarTopDomain, and IsTopDomain, plus supporting structures for the top domain trie.
+// ---
+
 #ifndef COMPONENTS_URL_FORMATTER_SPOOF_CHECKS_IDN_SPOOF_CHECKER_H_
 #define COMPONENTS_URL_FORMATTER_SPOOF_CHECKS_IDN_SPOOF_CHECKER_H_
 

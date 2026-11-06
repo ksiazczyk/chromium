@@ -1,0 +1,4 @@
+# Docerion header of test_domains.list.
+type: data
+title: Test top domains list
+summary: List of top domains used only in browser tests, including entries for character swap, edit distance and target embedding test cases.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL request rewrite rules manager implementation
+// summary: Implements the browser-side manager that caches URL request rewrite rules and pushes updates to WebContents and render frames over Mojo.
+// ---
+
 #include "components/url_rewrite/browser/url_request_rewrite_rules_manager.h"
 
 #include "components/url_rewrite/browser/url_request_rewrite_rules_validation.h"

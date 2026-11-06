@@ -1,3 +1,9 @@
+---
+type: readme
+title: IDN Tools
+summary: Describes tools for Internationalized Domain Name handling and how the format_url binary measures spoof check impact over large domain lists.
+---
+
 # IDN Tools
 
 This directory contains tools to help with changes related to the handling of Internationalized Domain Names (IDN) related changes.

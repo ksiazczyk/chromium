@@ -1,6 +1,13 @@
 // Copyright 2019 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Test top bucket domains header
+// summary: Declares the kTopBucketEditDistanceSkeletons span in a test namespace, mirroring top_bucket_domains.h for use in browser tests.
+// ---
+
 #ifndef COMPONENTS_URL_FORMATTER_SPOOF_CHECKS_TOP_DOMAINS_TEST_TOP_BUCKET_DOMAINS_H_
 #define COMPONENTS_URL_FORMATTER_SPOOF_CHECKS_TOP_DOMAINS_TEST_TOP_BUCKET_DOMAINS_H_
 

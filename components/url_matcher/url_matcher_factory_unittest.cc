@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: URL matcher factory unit tests
+// summary: Unit tests verifying creation of conditions from URL filter dictionaries, covering invalid attributes, regexes, ports, schemes, and case handling.
+// ---
+
 #include "components/url_matcher/url_matcher_factory.h"
 
 #include <stddef.h>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for top domain trie generation
+summary: GN build file defining the generator executables and compiled actions that produce the top domain tries, skeletons and variables used by the spoof checks.

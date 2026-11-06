@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Importer data type declarations
+// summary: Declares the ImportItem and VisitSource enums plus SourceProfile, SearchEngineInfo, ImporterIE7PasswordInfo and ImportedPasswordForm structs used when importing browser data.
+// ---
+
 #ifndef COMPONENTS_USER_DATA_IMPORTER_COMMON_IMPORTER_DATA_TYPES_H_
 #define COMPONENTS_USER_DATA_IMPORTER_COMMON_IMPORTER_DATA_TYPES_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Stable portability data importer unit tests
+// summary: Unit tests verifying bookmark, reading list, and history imports from stable portability data files, including custom matchers, time ranges, and metrics checks.
+// ---
+
 #include "components/user_data_importer/content/stable_portability_data_importer.h"
 
 #include <memory>

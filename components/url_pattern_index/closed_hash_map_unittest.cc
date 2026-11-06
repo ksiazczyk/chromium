@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ClosedHashMap
+// summary: Tests hash map integrity, insertion, lookup, operator bracket access, custom hashers, and manual rehashing behavior.
+// ---
+
 #include "components/url_pattern_index/closed_hash_map.h"
 
 #include <string>

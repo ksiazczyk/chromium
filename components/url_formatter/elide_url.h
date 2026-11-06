@@ -4,6 +4,12 @@
 //
 // This file defines utility functions for eliding URLs.
 
+// ---docerion
+// type: source
+// title: Interface for URL eliding utilities
+// summary: Declares ElideUrl, ElideHost, the SchemeDisplay enum, and security display formatting functions for concise, human-friendly URL output.
+// ---
+
 #ifndef COMPONENTS_URL_FORMATTER_ELIDE_URL_H_
 #define COMPONENTS_URL_FORMATTER_ELIDE_URL_H_
 

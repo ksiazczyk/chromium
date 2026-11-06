@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Importer metrics recorder declarations
+// summary: Declares DataTypeMetrics and ImporterMetricsRecorder classes plus error and outcome enums for logging user data import metrics.
+// ---
+
 #ifndef COMPONENTS_USER_DATA_IMPORTER_UTILITY_IMPORTER_METRICS_RECORDER_H_
 #define COMPONENTS_USER_DATA_IMPORTER_UTILITY_IMPORTER_METRICS_RECORDER_H_
 

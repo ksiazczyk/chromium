@@ -1,0 +1,4 @@
+# Docerion header of common_words_test.gperf.
+type: test
+title: Test common words gperf list
+summary: Small gperf word list used by unit tests and kept in sync with the test top domains list.

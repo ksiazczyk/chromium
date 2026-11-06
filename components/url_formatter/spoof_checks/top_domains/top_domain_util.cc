@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Top domain utilities
+// summary: Implements helpers that strip the registry from hostnames and decide whether a hostname is long enough for edit distance comparisons.
+// ---
+
 #include "components/url_formatter/spoof_checks/top_domains/top_domain_util.h"
 
 #include <optional>

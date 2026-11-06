@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the url_pattern component
+summary: Defines the url_pattern source set and its unit test target, with dependencies on base, liburlpattern, re2, and url.

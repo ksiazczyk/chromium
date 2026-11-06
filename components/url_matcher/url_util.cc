@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL matcher utilities implementation
+// summary: Implements URL normalization, blocklist filter parsing into components, condition set creation, and extraction of URLs embedded by AMP, web cache, or translate services.
+// ---
+
 #include "components/url_matcher/url_util.h"
 
 #include <memory>

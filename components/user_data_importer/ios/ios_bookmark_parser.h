@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ios_bookmark_parser.h
+// summary: Declares IOSBookmarkParser, the iOS BookmarkParser implementation that uses a WKWebView as a memory-safe JavaScript environment for parsing bookmark files.
+// ---
+
 #ifndef COMPONENTS_USER_DATA_IMPORTER_IOS_IOS_BOOKMARK_PARSER_H_
 #define COMPONENTS_USER_DATA_IMPORTER_IOS_IOS_BOOKMARK_PARSER_H_
 

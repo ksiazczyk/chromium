@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark HTML parser Mojom traits header
+// summary: Declares Mojo StructTraits specializations that serialize user_data_importer and favicon_base C++ types for the bookmark HTML parser Mojom messages.
+// ---
+
 #ifndef COMPONENTS_USER_DATA_IMPORTER_MOJOM_BOOKMARK_HTML_PARSER_MOJOM_TRAITS_H_
 #define COMPONENTS_USER_DATA_IMPORTER_MOJOM_BOOKMARK_HTML_PARSER_MOJOM_TRAITS_H_
 

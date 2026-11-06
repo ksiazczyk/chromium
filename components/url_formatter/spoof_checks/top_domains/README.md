@@ -1,3 +1,13 @@
+---
+type: readme
+title: Top Domains Utilities
+summary: Explains the top domain list, skeleton files and generator tools used to build the trie data for IDN spoof checks, including how to regenerate them.
+relations:
+  - documents /components/url_formatter/spoof_checks/top_domains/domains.list
+  - documents /components/url_formatter/spoof_checks/top_domains/domains.skeletons
+  - documents /components/url_formatter/spoof_checks/top_domains/test_domains.list
+---
+
 ### Top Domains Utilities
 
 * `domains.list`

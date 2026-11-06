@@ -1,0 +1,4 @@
+# Docerion header of idn_test_domains.list.
+type: data
+title: Test domain list for IDN spoof checks
+summary: Small list of domains, including unicode and confusable cases, used instead of the real top domain list in unit tests.

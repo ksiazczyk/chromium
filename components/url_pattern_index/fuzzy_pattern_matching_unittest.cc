@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fuzzy pattern matching unit tests
+// summary: Unit tests for the fuzzy pattern matching helpers StartsWithFuzzy, EndsWithFuzzy and FindFuzzy, covering subpattern matching with separator placeholders and wildcard-like characters.
+// ---
+
 #include "components/url_pattern_index/fuzzy_pattern_matching.h"
 
 #include <string_view>

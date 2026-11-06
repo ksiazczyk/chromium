@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build target for url_rewrite Mojom bindings
+summary: Defines the GN target that generates Mojo bindings from url_request_rewrite.mojom, with dependencies on base Mojom and URL Mojom libraries.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for common words spoof checks
+summary: GN build file that generates DAFSA tables from gperf word lists and defines the common words source set and its unit tests.

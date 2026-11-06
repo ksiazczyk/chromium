@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the user data importer content module
+summary: GN build file defining the content source set, a test support set with a fake HTML parser, and unit test targets for the user data importer content directory.

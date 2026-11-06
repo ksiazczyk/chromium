@@ -12,6 +12,12 @@
 // (that is, it should not be used for normalizing URLs for comparison for
 // security decisions).
 
+// ---docerion
+// type: source
+// title: URL formatting API for user display
+// summary: Declares FormatUrl and related format flags for safely formatting URLs for display, including IDN conversion results and omission options.
+// ---
+
 #ifndef COMPONENTS_URL_FORMATTER_URL_FORMATTER_H_
 #define COMPONENTS_URL_FORMATTER_URL_FORMATTER_H_
 

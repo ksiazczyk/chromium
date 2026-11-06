@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL request rewrite rules validation declaration
+// summary: Declares ValidateRules, which returns whether URL request rewrite rules contain valid data.
+// ---
+
 #ifndef COMPONENTS_URL_REWRITE_BROWSER_URL_REQUEST_REWRITE_RULES_VALIDATION_H_
 #define COMPONENTS_URL_REWRITE_BROWSER_URL_REQUEST_REWRITE_RULES_VALIDATION_H_
 

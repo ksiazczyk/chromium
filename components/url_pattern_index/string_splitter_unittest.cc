@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: String splitter unit tests
+// summary: Unit tests checking that StringSplitter yields empty results for separator-only strings and correctly splits one or three words separated by spaces, tabs and commas.
+// ---
+
 #include "components/url_pattern_index/string_splitter.h"
 
 #include <string>

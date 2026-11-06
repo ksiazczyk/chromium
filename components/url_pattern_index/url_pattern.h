@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UrlPattern class interface
+// summary: Declares the UrlPattern class that mirrors a URL pattern from a UrlRule and matches it against URLs, including a UrlInfo wrapper over GURL with lazily computed lower-case spec.
+// ---
+
 #ifndef COMPONENTS_URL_PATTERN_INDEX_URL_PATTERN_H_
 #define COMPONENTS_URL_PATTERN_INDEX_URL_PATTERN_H_
 

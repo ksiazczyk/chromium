@@ -1,0 +1,4 @@
+# Docerion header of idn_test_domains.skeletons.
+type: data
+title: Generated skeletons of the IDN test domains
+summary: Generated skeleton entries for the IDN test domain list, used to build the test trie for unit tests.

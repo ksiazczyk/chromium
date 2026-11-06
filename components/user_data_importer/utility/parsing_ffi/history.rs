@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History parsing and batching for user data import
+// summary: Parses Safari and stable portability history from zip archives, batching entries and delivering them to C++ callbacks through the FFI layer.
+// ---
+
 use crate::ffi;
 use crate::json::{self, ZipEntryBufReader};
 use crate::models::SafariHistoryJSONEntry;

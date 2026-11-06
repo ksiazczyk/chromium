@@ -1,0 +1,4 @@
+# Docerion header of domains.skeletons.
+type: data
+title: Generated skeletons of the top domains
+summary: Checked-in output of make_top_domain_skeletons mapping each top domain to its confusable skeleton, processed during the build into the domains trie.

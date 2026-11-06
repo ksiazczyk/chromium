@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Top domain utility functions header
+// summary: Declares helpers in the url_formatter top_domains namespace for deciding whether a hostname is an edit distance candidate and for stripping the registry part from a hostname.
+// ---
+
 #ifndef COMPONENTS_URL_FORMATTER_SPOOF_CHECKS_TOP_DOMAINS_TOP_DOMAIN_UTIL_H_
 #define COMPONENTS_URL_FORMATTER_SPOOF_CHECKS_TOP_DOMAINS_TOP_DOMAIN_UTIL_H_
 

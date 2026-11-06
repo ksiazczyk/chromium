@@ -1,0 +1,4 @@
+# Docerion header of bookmark_html_parser.mojom.
+type: source
+title: Bookmark HTML parser Mojom interface
+summary: Defines Mojom structs and the BookmarkHtmlParser interface for parsing HTML bookmark files in a sandboxed service process, returning bookmarks, reading list entries, search engines, and favicons.

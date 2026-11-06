@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for SimpleUrlPatternMatcher
+// summary: Contains gtest coverage for pattern parsing and URL matching, including a gmock matcher for PatternInit components.
+// ---
+
 #include "components/url_pattern/simple_url_pattern_matcher.h"
 
 #include <string>

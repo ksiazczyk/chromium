@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL request rewrite rules validation implementation
+// summary: Implements validation of rewrite rules, checking header names and values, query patterns, URL replacements, append-to-query actions, and host filters.
+// ---
+
 #include "components/url_rewrite/browser/url_request_rewrite_rules_validation.h"
 
 #include <algorithm>

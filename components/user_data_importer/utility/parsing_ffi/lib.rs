@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CXX FFI bridge for user data import parsing
+// summary: Defines the cxx bridge exposing zip archive parsing, history and payment card entry types, and C++ callbacks to the Rust parsing code.
+// ---
+
 mod history;
 mod json;
 mod models;

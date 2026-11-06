@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for user_data_importer
+summary: Specifies the issue tracker routing for the directory, mapping it to the UI>Browser>Import monorail component and a Buganizer component ID.

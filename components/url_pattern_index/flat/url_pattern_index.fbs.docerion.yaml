@@ -1,0 +1,4 @@
+# Docerion header of url_pattern_index.fbs.
+type: reference
+title: FlatBuffers schema for the URL pattern index
+summary: FlatBuffers schema describing the flat representation of URL rules, with enums for pattern types, anchors, options, element types, request methods, and the UrlRule table.

@@ -1,0 +1,4 @@
+# Docerion header of common_words.gperf.
+type: data
+title: Common words gperf list
+summary: Gperf list of the 10,000 most common English words of at least three characters, used to generate a DAFSA embedded in Chrome for spoof checks.

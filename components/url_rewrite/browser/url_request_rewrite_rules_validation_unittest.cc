@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for URL request rewrite rules validation
+// summary: Unit tests checking validation of add headers, remove header, substitute query pattern, replace URL, and append to query rewrite actions.
+// ---
+
 #include "components/url_rewrite/browser/url_request_rewrite_rules_validation.h"
 
 #include <string_view>

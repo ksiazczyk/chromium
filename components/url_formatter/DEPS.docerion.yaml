@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the url_formatter component
+summary: Restricts dependencies so the shared component cannot include content or iOS code, while allowing net, ui/gfx, and fuzztest headers.

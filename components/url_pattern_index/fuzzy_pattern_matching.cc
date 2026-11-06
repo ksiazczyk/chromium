@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuzzy pattern matching implementation
+// summary: Implements fuzzy prefix, suffix, and substring search where the '^' placeholder matches any URL separator character.
+// ---
+
 #include "components/url_pattern_index/fuzzy_pattern_matching.h"
 
 #include <algorithm>

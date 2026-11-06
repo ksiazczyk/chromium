@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS pointer to importer component owners
+summary: Delegates code ownership of this strings folder to the OWNERS file of components/user_data_importer.

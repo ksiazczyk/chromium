@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UrlPattern unit tests
+// summary: Unit tests verifying UrlPattern matching of URLs for substring, wildcarded and anchored patterns with various anchor and match-case options.
+// ---
+
 #include "components/url_pattern_index/url_pattern.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

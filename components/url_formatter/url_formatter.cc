@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL formatting implementation
+// summary: Implements FormatUrl and IDN-to-Unicode conversion with spoof checks, including trimming of www and mobile prefixes for user display.
+// ---
+
 #include "components/url_formatter/url_formatter.h"
 
 #include <algorithm>

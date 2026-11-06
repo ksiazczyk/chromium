@@ -1,0 +1,4 @@
+# Docerion header of tsconfig_base.json.
+type: config
+title: tsconfig_base.json for the iOS bookmark parser
+summary: TypeScript configuration that extends the shared Chromium base config and sets module and moduleResolution options for the bookmark parser build.

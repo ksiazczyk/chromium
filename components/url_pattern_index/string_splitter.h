@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Zero-allocation string splitter
+// summary: Header defining StringSplitter, a zero-allocation splitter that provides an input iterator over non-empty tokens of a string using a caller-supplied separator predicate.
+// ---
+
 #ifndef COMPONENTS_URL_PATTERN_INDEX_STRING_SPLITTER_H_
 #define COMPONENTS_URL_PATTERN_INDEX_STRING_SPLITTER_H_
 

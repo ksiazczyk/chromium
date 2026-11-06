@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the iOS bookmark parser
+summary: Defines GN build targets for the iOS bookmark parser, including the source set, TypeScript compilation, comment stripping step, and bundling of the unminified parser script.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History callback interface for Rust FFI
+// summary: Defines a template callback interface that Rust parsing code calls to deliver history entries and report failures during import.
+// ---
+
 #ifndef COMPONENTS_USER_DATA_IMPORTER_UTILITY_HISTORY_CALLBACK_FROM_RUST_H_
 #define COMPONENTS_USER_DATA_IMPORTER_UTILITY_HISTORY_CALLBACK_FROM_RUST_H_
 

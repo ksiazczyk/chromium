@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Importer data type implementations
+// summary: Implements constructors, destructors and assignment operators for SourceProfile, ImporterIE7PasswordInfo and ImportedPasswordForm.
+// ---
+
 #include "components/user_data_importer/common/importer_data_types.h"
 
 #include "build/build_config.h"

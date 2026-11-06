@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL rule to filter list string conversion
+// summary: Converts flatbuffer URL rules back into filter list string form, printing anchors, allowlist markers, party and element type options.
+// ---
+
 #include "components/url_pattern_index/url_rule_util.h"
 
 #include "base/notreached.h"

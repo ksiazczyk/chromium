@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for third-party dependencies
+summary: Grants include access to the re2 and liburlpattern third-party libraries within this directory.

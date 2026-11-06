@@ -13,6 +13,12 @@
 
 // IMPORTANT: This binary asserts that the output has at most 500 skeletons.
 
+// ---docerion
+// type: source
+// title: Generator of top bucket domain variables
+// summary: Build-time tool that reads the top domain list and emits a C++ source file with top bucket skeletons and keywords for the edit distance heuristic.
+// ---
+
 #include <algorithm>
 #include <iostream>
 #include <iterator>

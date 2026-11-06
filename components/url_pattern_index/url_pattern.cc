@@ -13,6 +13,12 @@
 // the following: '_', '-', '.', '%'. Note that the separator placeholder
 // character '^' is itself a separator, as well as '\0'.
 
+// ---docerion
+// type: source
+// title: URL pattern matching implementation
+// summary: Implements UrlPattern matching against URLs, including FlatBuffers-to-proto type conversion, splitting patterns into subpatterns, and handling anchors and separator placeholders.
+// ---
+
 #include "components/url_pattern_index/url_pattern.h"
 
 #include <stddef.h>

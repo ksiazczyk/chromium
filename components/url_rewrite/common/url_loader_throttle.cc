@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL loader throttle implementation
+// summary: Implements the URLLoaderThrottle that applies URL request rewrite rules, such as header changes, query edits, and URL replacements, to network requests.
+// ---
+
 #include "components/url_rewrite/common/url_loader_throttle.h"
 
 #include <string>

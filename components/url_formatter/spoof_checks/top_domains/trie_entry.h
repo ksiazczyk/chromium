@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Top domain trie entry declarations
+// summary: Defines the SkeletonType enum, TopDomainEntry struct, and TopDomainTrieEntry class used to insert and read top domain nodes in the trie.
+// ---
+
 #ifndef COMPONENTS_URL_FORMATTER_SPOOF_CHECKS_TOP_DOMAINS_TRIE_ENTRY_H_
 #define COMPONENTS_URL_FORMATTER_SPOOF_CHECKS_TOP_DOMAINS_TRIE_ENTRY_H_
 

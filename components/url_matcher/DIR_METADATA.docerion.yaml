@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA issue tracker metadata for url_matcher
+summary: Specifies the monorail component and Buganizer component ID used for filing bugs against the url_matcher directory.

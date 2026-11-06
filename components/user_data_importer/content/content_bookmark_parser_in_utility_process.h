@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentBookmarkParserInUtilityProcess class declaration
+// summary: Declares the sandboxed utility-process implementation of the mojom BookmarkHtmlParser interface used to parse bookmark HTML contents.
+// ---
+
 #ifndef COMPONENTS_USER_DATA_IMPORTER_CONTENT_CONTENT_BOOKMARK_PARSER_IN_UTILITY_PROCESS_H_
 #define COMPONENTS_USER_DATA_IMPORTER_CONTENT_CONTENT_BOOKMARK_PARSER_IN_UTILITY_PROCESS_H_
 

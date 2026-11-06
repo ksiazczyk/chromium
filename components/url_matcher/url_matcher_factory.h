@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL matcher factory
+// summary: Declares the URLMatcherFactory that builds URLMatcherConditionSets, scheme, port, and CIDR filters from a UrlFilter dictionary.
+// ---
+
 #ifndef COMPONENTS_URL_MATCHER_URL_MATCHER_FACTORY_H_
 #define COMPONENTS_URL_MATCHER_URL_MATCHER_FACTORY_H_
 

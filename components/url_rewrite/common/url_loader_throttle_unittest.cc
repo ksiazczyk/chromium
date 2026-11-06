@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: URL loader throttle unit tests
+// summary: Unit tests verifying that rewrite rules, wildcard host filters, and CORS exempt header handling are applied correctly by the throttle.
+// ---
+
 #include "components/url_rewrite/common/url_loader_throttle.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL request rewrite rules manager class declaration
+// summary: Declares UrlRequestRewriteRulesManager, which adapts the FIDL rewrite API to Mojo and distributes rules to renderer frames via a WebContents observer.
+// ---
+
 #ifndef COMPONENTS_URL_REWRITE_BROWSER_URL_REQUEST_REWRITE_RULES_MANAGER_H_
 #define COMPONENTS_URL_REWRITE_BROWSER_URL_REQUEST_REWRITE_RULES_MANAGER_H_
 

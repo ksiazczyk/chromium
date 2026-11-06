@@ -1,0 +1,4 @@
+# Docerion header of idn_test_case_generator.py.
+type: script
+title: IDN test case generator
+summary: Python utility that converts a Unicode domain to its IDNA/punycode form and prints a ready-to-paste C++ test case row for the IDN unit tests.

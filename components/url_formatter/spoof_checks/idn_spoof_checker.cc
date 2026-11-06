@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IDN spoof checker implementation
+// summary: Implements the IDNSpoofChecker logic that decides whether IDN labels are safe to display as Unicode, including top domain skeleton lookups, TLD-specific rules, and dangerous pattern detection.
+// ---
+
 #include "components/url_formatter/spoof_checks/idn_spoof_checker.h"
 
 #include <algorithm>

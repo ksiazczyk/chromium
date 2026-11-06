@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImporterURLRow implementation
+// summary: Implements the default and URL-based constructors plus copy assignment for the ImporterURLRow history entry struct.
+// ---
+
 #include "components/user_data_importer/common/importer_url_row.h"
 
 namespace user_data_importer {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the URL request rewrite rules manager
+// summary: Browser tests covering adding and removing WebContents and rule updates with single and multiple WebContents, including a regression test.
+// ---
+
 #include "base/base_paths.h"
 #include "base/files/file_path.h"
 #include "base/memory/raw_ptr.h"

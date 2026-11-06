@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File type extension helpers
+// summary: Maps import file types to expected file extensions and decides whether a given file should be processed.
+// ---
+
 use crate::ffi;
 use anyhow::{anyhow, Result};
 use std::path::Path;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: N-gram extractor unit tests
+// summary: Unit tests verifying NGramExtractor behavior on empty and short strings, various separator predicates, case-sensitive and lower-case extraction, and expected N-gram sequences.
+// ---
+
 #include "components/url_pattern_index/ngram_extractor.h"
 
 #include <stdint.h>

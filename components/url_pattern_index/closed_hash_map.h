@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Closed hash map with open addressing
+// summary: Implements an insert-only hash map template with pluggable probing strategies, used to build the N-gram index hash table.
+// ---
+
 #ifndef COMPONENTS_URL_PATTERN_INDEX_CLOSED_HASH_MAP_H_
 #define COMPONENTS_URL_PATTERN_INDEX_CLOSED_HASH_MAP_H_
 

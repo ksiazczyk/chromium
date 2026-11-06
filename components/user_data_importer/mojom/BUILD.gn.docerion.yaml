@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the bookmark HTML parser Mojom target
+summary: Defines the GN build target that generates Mojom bindings for the bookmark HTML parser, including C++ typemaps mapping Mojom structs to user_data_importer and favicon_base types.

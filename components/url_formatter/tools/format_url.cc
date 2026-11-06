@@ -9,6 +9,12 @@
 // spoof_check_result is the string representation of IDNSpoofCheckerResult
 // enum with an additional kTopDomainLookalike value.
 
+// ---docerion
+// type: source
+// title: format_url IDN conversion tool
+// summary: Command-line tool that reads hostnames from a file or stdin, runs IDN decoding, and prints input, output, and spoof check result tuples per line.
+// ---
+
 #include <cstdlib>
 #include <fstream>
 #include <iostream>

@@ -1,0 +1,4 @@
+# Docerion header of idn_test_top_domains_trie_header.template.
+type: source
+title: Template for the IDN test top domains trie header
+summary: Header template with placeholders for the Huffman tree and trie bytes, filled in by top_domain_generator to produce the IDN test trie header.

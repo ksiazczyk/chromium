@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safari data importer class declaration
+// summary: Declares SafariDataImporter, the model-layer class that prepares, completes and cancels imports of user data from a Safari-exported ZIP bundle using a BookmarkParser.
+// ---
+
 #ifndef COMPONENTS_USER_DATA_IMPORTER_UTILITY_SAFARI_DATA_IMPORTER_H_
 #define COMPONENTS_USER_DATA_IMPORTER_UTILITY_SAFARI_DATA_IMPORTER_H_
 

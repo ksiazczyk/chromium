@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the url_formatter component
+summary: Defines GN build targets for URL formatting, IDN spoof checking, unit tests, and a URL fixer fuzzer.

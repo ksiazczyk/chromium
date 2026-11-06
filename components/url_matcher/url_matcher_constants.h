@@ -4,6 +4,12 @@
 
 // Constants used for the URLMatcher component of the Declarative API.
 
+// ---docerion
+// type: source
+// title: URL matcher constants
+// summary: Declares exported string constants for the dictionary keys of URL filter attributes used by the URLMatcher declarative API.
+// ---
+
 #ifndef COMPONENTS_URL_MATCHER_URL_MATCHER_CONSTANTS_H_
 #define COMPONENTS_URL_MATCHER_URL_MATCHER_CONSTANTS_H_
 

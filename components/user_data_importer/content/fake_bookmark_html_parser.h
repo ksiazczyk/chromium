@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake bookmark HTML parser header
+// summary: Declares FakeBookmarkHtmlParser, a mojom BookmarkHtmlParser wrapper that mimics sandbox behaviour for tests and exposes the last parsed HTML.
+// ---
+
 #ifndef COMPONENTS_USER_DATA_IMPORTER_CONTENT_FAKE_BOOKMARK_HTML_PARSER_H_
 #define COMPONENTS_USER_DATA_IMPORTER_CONTENT_FAKE_BOOKMARK_HTML_PARSER_H_
 

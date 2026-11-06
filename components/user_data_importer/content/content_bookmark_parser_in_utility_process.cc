@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark HTML parser for the utility process
+// summary: Implements the mojom BookmarkHtmlParser Parse method by running ParseBookmarksUnsafe on raw HTML inside the sandboxed utility process.
+// ---
+
 #include "components/user_data_importer/content/content_bookmark_parser_in_utility_process.h"
 
 #include "components/user_data_importer/content/content_bookmark_parser_utils.h"

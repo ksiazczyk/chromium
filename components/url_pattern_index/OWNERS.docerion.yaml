@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for url_pattern_index
+summary: Lists the owners responsible for reviewing changes in this directory, noting heavy use by the ad filter component.

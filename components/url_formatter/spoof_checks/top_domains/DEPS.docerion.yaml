@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the top_domains directory
+summary: DEPS file granting code in this directory include access to components/lookalikes/core.

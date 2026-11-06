@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for URL fixing and segmentation
+// summary: Unit tests verifying SegmentURL and URL fixup behavior, including scheme parsing, host, port and path components, and relative file handling.
+// ---
+
 #include "components/url_formatter/url_fixer.h"
 
 #include <stddef.h>

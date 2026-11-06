@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Safari data importer unit tests
+// summary: Unit tests for SafariDataImporter verifying import of passwords, payment cards, bookmarks and history from Safari exports, including error cases and metrics.
+// ---
+
 #include "components/user_data_importer/utility/safari_data_importer.h"
 
 #include "base/files/file_path.h"

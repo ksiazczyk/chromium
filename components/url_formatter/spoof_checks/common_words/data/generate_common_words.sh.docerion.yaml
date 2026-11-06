@@ -1,0 +1,4 @@
+# Docerion header of generate_common_words.sh.
+type: script
+title: Generate common words script
+summary: Shell script that downloads Norvig's wordlist, filters out listed brands, and generates common_words.gperf.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of URL eliding and security display formatting
+// summary: Implements functions that elide URLs and hosts to fit display widths and format URLs or origins concisely for security decisions.
+// ---
+
 #include "components/url_formatter/elide_url.h"
 
 #include <stddef.h>

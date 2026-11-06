@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Top domain skeleton generator
+// summary: Command-line tool that generates skeleton lists for top domains, including top bucket entries with and without label separators, for use in lookalike URL spoof checks.
+// ---
+
 #include <algorithm>
 #include <iostream>
 #include <memory>

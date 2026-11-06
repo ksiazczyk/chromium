@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Top domain state generator header
+// summary: Declares the TopDomainStateGenerator class that generates C++ code for top domain entries consumed by the IDN spoof checker.
+// ---
+
 #ifndef COMPONENTS_URL_FORMATTER_SPOOF_CHECKS_TOP_DOMAINS_TOP_DOMAIN_STATE_GENERATOR_H_
 #define COMPONENTS_URL_FORMATTER_SPOOF_CHECKS_TOP_DOMAINS_TOP_DOMAIN_STATE_GENERATOR_H_
 

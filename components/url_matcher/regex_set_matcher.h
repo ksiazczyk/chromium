@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RegexSetMatcher class declaration
+// summary: Declares the RegexSetMatcher class that efficiently matches text against a set of regular expressions via FilteredRE2 prefiltering.
+// ---
+
 #ifndef COMPONENTS_URL_MATCHER_REGEX_SET_MATCHER_H_
 #define COMPONENTS_URL_MATCHER_REGEX_SET_MATCHER_H_
 

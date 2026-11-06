@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL matcher export macro
+// summary: Defines the URL_MATCHER_EXPORT macro that controls symbol import and export visibility for component builds.
+// ---
+
 #ifndef COMPONENTS_URL_MATCHER_URL_MATCHER_EXPORT_H_
 #define COMPONENTS_URL_MATCHER_URL_MATCHER_EXPORT_H_
 

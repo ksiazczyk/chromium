@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content bookmark parser implementation
+// summary: Implements ContentBookmarkParser, which reads bookmark HTML files or streams and dispatches parsing to a sandboxed utility process over Mojo.
+// ---
+
 #include "components/user_data_importer/content/content_bookmark_parser.h"
 
 #include "base/files/file_util.h"

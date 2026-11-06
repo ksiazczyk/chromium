@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Top domain utility unit tests
+// summary: Unit tests verifying IsEditDistanceCandidate length rules and HostnameWithoutRegistry behavior for hostnames with public and private registries.
+// ---
+
 #include "components/url_formatter/spoof_checks/top_domains/top_domain_util.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

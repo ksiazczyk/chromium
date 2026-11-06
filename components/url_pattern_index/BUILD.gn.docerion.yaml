@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for url_pattern_index
+summary: Defines the url_pattern_index static library, a test_support target, and the unit_tests source set with their sources and dependencies.
