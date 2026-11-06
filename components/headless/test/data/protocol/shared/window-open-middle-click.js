@@ -4,6 +4,12 @@
 //
 // META: --disable-popup-blocking
 
+// ---docerion
+// type: test
+// title: Window open middle click protocol test
+// summary: Protocol test that dispatches a middle click on a link via the Input domain and verifies a new tab target attaches and navigates.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {session, dp} =
       await testRunner.startBlank('Tests that middle click opens a new tab.');

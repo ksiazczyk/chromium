@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Headless display utility implementation
+// summary: Implements GetDisplayFromScreenRect and GetDisplayFromScreenPoint, resolving a display by biggest intersection or nearest point using display finder helpers.
+// ---
+
 #include "components/headless/display_util/headless_display_util.h"
 
 #include "ui/display/display_finder.h"

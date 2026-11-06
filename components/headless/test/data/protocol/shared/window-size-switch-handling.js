@@ -5,6 +5,13 @@
 // META: --screen-info={1600x1200}
 // META: --window-size=700,500
 //
+
+// ---docerion
+// type: test
+// title: Window size switch handling test
+// summary: Headless DevTools protocol test that verifies the --window-size switch by evaluating window.outerWidth and outerHeight and logging the resulting 700x500 size.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {dp} =
       await testRunner.startBlank('Tests --window-size switch handling.');

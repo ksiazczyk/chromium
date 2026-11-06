@@ -4,6 +4,12 @@
 //
 // META: --disable-popup-blocking
 
+// ---docerion
+// type: test
+// title: Popup window has opener test
+// summary: Protocol test that opens a popup via window.open with the popup feature and checks that its opener points back to the opening window.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {session} =
       await testRunner.startBlank('Tests pop up window has window.opener.');

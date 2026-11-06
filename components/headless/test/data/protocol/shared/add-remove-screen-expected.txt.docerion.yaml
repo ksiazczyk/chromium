@@ -1,0 +1,4 @@
+# Docerion header of add-remove-screen-expected.txt.
+type: test
+title: Add and remove screen test expected output
+summary: Expected output for the CDP Emulation.addScreen and removeScreen protocol test, listing screen info before and after a screen is added and removed.

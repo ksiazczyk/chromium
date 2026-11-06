@@ -5,6 +5,12 @@
 // META: --screen-info={workAreaLeft=100 workAreaRight=100 \
 // META:   workAreaTop=100 workAreaBottom=100}
 
+// ---docerion
+// type: test
+// title: Screen details work area test
+// summary: Headless protocol test that grants window management permissions and reports the current screen's size and available work area from getScreenDetails.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {session, dp} = await testRunner.startBlank('Tests screen work area.');
 

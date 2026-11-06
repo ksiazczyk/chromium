@@ -1,0 +1,4 @@
+# Docerion header of window-screen-avail-expected.txt.
+type: test
+title: Window screen avail properties expected output
+summary: Expected output for the protocol test checking window.screen.avail* values under a simulated screen work area.

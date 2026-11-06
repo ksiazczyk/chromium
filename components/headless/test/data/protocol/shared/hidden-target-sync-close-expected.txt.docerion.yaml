@@ -1,0 +1,4 @@
+# Docerion header of hidden-target-sync-close-expected.txt.
+type: test
+title: Hidden target sync close expected output
+summary: Expected output for the synchronous close test in which ten crashed hidden targets are disposed with their browser context.

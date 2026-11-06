@@ -1,0 +1,4 @@
+# Docerion header of move-window-between-screens-expected.txt.
+type: test
+title: Move window between screens expected output
+summary: Expected output for the protocol test that moves a window to positions on four virtual screens and logs the window bounds and screen label for each.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test meta info class for headless JavaScript tests
+// summary: Declares TestMetaInfo, which holds meta info from '// META:' comments and applies its command line switches and feature flags.
+// ---
+
 #ifndef COMPONENTS_HEADLESS_TEST_TEST_META_INFO_H_
 #define COMPONENTS_HEADLESS_TEST_TEST_META_INFO_H_
 

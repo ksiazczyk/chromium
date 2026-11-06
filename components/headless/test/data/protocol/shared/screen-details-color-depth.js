@@ -4,6 +4,12 @@
 //
 // META: --screen-info={colorDepth=32}
 
+// ---docerion
+// type: test
+// title: Screen details color depth test
+// summary: Headless protocol test that grants window management permission and checks screens report the emulated color depth of 32 via getScreenDetails.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {session, dp} =
       await testRunner.startBlank('Tests screen details color depth.');

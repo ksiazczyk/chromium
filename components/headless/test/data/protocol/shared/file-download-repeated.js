@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Repeated file download test
+// summary: Protocol test script that downloads a file four times via anchor clicks and verifies repeated downloads overwrite the same file without name deduplication.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {session, dp} =
       await testRunner.startBlank('Tests repeated file download.');

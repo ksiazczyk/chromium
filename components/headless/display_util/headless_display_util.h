@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Headless display utility header
+// summary: Declares the headless namespace helpers GetDisplayFromScreenRect and GetDisplayFromScreenPoint that map screen rectangles and points to optional displays.
+// ---
+
 #ifndef COMPONENTS_HEADLESS_DISPLAY_UTIL_HEADLESS_DISPLAY_UTIL_H_
 #define COMPONENTS_HEADLESS_DISPLAY_UTIL_HEADLESS_DISPLAY_UTIL_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of dispatch-mouse-event-screen-coordinates-expected.txt.
+type: test
+title: Mouse event screen coordinates test expectations
+summary: Expected output for the headless protocol test verifying that dispatched mouse events carry correct screen coordinates.

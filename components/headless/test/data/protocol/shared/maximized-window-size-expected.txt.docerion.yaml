@@ -1,0 +1,4 @@
+# Docerion header of maximized-window-size-expected.txt.
+type: test
+title: Maximized window size test expected output
+summary: Expected output for the headless protocol test checking the bounds of a maximized browser window.

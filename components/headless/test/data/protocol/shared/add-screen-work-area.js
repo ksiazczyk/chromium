@@ -4,6 +4,12 @@
 //
 // META: --screen-info={800x600 label=1st}
 
+// ---docerion
+// type: test
+// title: Add screen work area protocol test
+// summary: Protocol test that adds a screen with work area insets via CDP Emulation.addScreen and logs the resulting screen information.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {dp} = await testRunner.startBlank(
       'Tests CDP Emulation.addScreen() API with work area.');

@@ -7,6 +7,12 @@
 //
 // META: --disable-features=BoundaryEventDispatchTracksNodeRemoval
 
+// ---docerion
+// type: test
+// title: Range mouse event after node removal test
+// summary: Headless protocol test that uses CDP Input.dispatchMouseEvent to drag a range input slider after DOM node removal and logs the original and final values.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {page, session, dp} = await testRunner.startBlank(
       'Tests dispatch' +

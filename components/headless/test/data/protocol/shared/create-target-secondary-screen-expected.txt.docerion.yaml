@@ -1,0 +1,4 @@
+# Docerion header of create-target-secondary-screen-expected.txt.
+type: test
+title: Expected output for the create-target-secondary-screen protocol test
+summary: 'Expected output verifying that a target created at off-screen coordinates lands on secondary screen #2.'

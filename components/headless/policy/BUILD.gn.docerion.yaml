@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for headless mode policy
+summary: Defines the policy source_set for the headless mode policy component, listing its sources, compiler config, and dependencies on base, policy, and prefs.

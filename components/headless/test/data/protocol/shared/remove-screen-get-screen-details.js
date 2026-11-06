@@ -4,6 +4,12 @@
 //
 // META: --screen-info={800x600 label=1st}{600x800 label=2nd}
 
+// ---docerion
+// type: test
+// title: CDP Emulation.removeScreen() with getScreenDetails() test
+// summary: Protocol test that grants window management permission, removes the secondary screen via CDP, and logs the screen details seen by the page.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {session, dp} = await testRunner.startBlank(
       'Tests CDP Emulation.removeScreen() API with getScreenDetails().');

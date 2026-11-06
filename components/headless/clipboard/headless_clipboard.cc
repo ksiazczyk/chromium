@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Headless clipboard implementation
+// summary: Implements a platform-independent headless clipboard based on ui::ClipboardNonBacked, installs it for the current thread, and counts sequence number requests for tests.
+// ---
+
 #include "components/headless/clipboard/headless_clipboard.h"
 
 #include <memory>

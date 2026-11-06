@@ -1,0 +1,4 @@
+# Docerion header of window-inner-size-scaled-expected.txt.
+type: test
+title: window-inner-size-scaled expected results
+summary: Expected output for the scaled-screen Browser.setContentsSize() test, logging the resulting inner window size.

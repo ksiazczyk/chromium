@@ -1,0 +1,4 @@
+# Docerion header of window-open-shift-click-opener-id-expected.txt.
+type: test
+title: Window open Shift+Click opener ID expected output
+summary: Expected output for the protocol test checking that a page opened via Shift+Click has no openerId in its TargetInfo.

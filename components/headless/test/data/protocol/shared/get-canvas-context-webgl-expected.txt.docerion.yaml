@@ -1,0 +1,4 @@
+# Docerion header of get-canvas-context-webgl-expected.txt.
+type: test
+title: WebGL canvas context expected output
+summary: Expected output for the headless protocol test verifying that canvas.getContext("webgl") returns a valid WebGL context.

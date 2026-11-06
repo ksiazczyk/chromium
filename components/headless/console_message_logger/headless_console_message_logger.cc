@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the headless console message logger
+// summary: Implements LogConsoleMessage, which logs JavaScript console messages when the kLogJsConsoleMessages feature is enabled and truncates data URLs in source identifiers.
+// ---
+
 #include "components/headless/console_message_logger/headless_console_message_logger.h"
 
 #include "base/feature_list.h"

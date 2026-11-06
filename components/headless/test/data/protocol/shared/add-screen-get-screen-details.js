@@ -4,6 +4,12 @@
 //
 // META: --screen-info={800x600 label=1st}
 
+// ---docerion
+// type: test
+// title: Add screen with getScreenDetails protocol test
+// summary: Protocol test that adds a screen via CDP Emulation.addScreen and logs details reported by the page's getScreenDetails() API.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {session, dp} = await testRunner.startBlank(
       'Tests CDP Emulation.addScreen() API with getScreenDetails().');

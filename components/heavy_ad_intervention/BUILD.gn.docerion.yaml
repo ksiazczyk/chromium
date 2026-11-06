@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Heavy ad intervention build targets
+summary: Defines the source set for the heavy ad intervention component and its unit test target, with their dependencies.

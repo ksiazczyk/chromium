@@ -1,0 +1,4 @@
+# Docerion header of screencast-viewport-expected.txt.
+type: test
+title: Screencast viewport expected output
+summary: Expected output for the headless protocol test verifying the screencast image size matches the configured viewport.

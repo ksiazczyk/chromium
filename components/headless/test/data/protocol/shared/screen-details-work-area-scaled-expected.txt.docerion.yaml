@@ -1,0 +1,4 @@
+# Docerion header of screen-details-work-area-scaled-expected.txt.
+type: test
+title: Screen details scaled work area expected output
+summary: Expected output for the headless protocol test verifying the screen work area with scaling applied.

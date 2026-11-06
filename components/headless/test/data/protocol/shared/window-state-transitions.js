@@ -4,6 +4,12 @@
 //
 // META: --screen-info={1600x1200}
 
+// ---docerion
+// type: test
+// title: Window state transitions test
+// summary: Headless DevTools protocol test that steps through maximized, normal, fullscreen and minimized states via Browser.setWindowBounds and logs bounds and visibility.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {session, dp} =
       await testRunner.startBlank('Tests window state transitions.');

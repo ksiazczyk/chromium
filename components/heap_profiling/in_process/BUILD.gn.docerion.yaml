@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for in-process heap profiling
+summary: Defines GN build targets for the in-process heap profiler, including Mojom bindings, the main source set, and its unit tests.

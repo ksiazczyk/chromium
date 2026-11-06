@@ -9,6 +9,12 @@
 // http://crbug.com/429408227.
 // META: fork_headless_mode_expectations
 
+// ---docerion
+// type: test
+// title: Window open popup placement protocol test
+// summary: Protocol test that opens a popup with specified position and size and logs the resulting screen coordinates and dimensions.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {session, dp} =
       await testRunner.startBlank('Tests popup window open placement.');

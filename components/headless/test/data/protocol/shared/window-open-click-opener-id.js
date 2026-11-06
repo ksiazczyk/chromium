@@ -4,6 +4,12 @@
 //
 // META: --disable-popup-blocking
 
+// ---docerion
+// type: test
+// title: window-open-click-opener-id protocol test
+// summary: Headless protocol test verifying that a page opened via a mouse click on a link reports TargetInfo.openerId of the opening target.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {session, dp} = await testRunner.startBlank(
       'Tests that opener IS specified on a page opened via Click.');

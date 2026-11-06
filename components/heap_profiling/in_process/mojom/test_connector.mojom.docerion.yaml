@@ -1,0 +1,4 @@
+# Docerion header of test_connector.mojom.
+type: source
+title: TestConnector Mojom interface
+summary: Defines a TestConnector Mojom interface used in multiprocess tests to bootstrap SnapshotController and CallStackProfileCollector connections between browser and child processes.

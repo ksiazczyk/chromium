@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Protocol test for Browser.setWindowSize window bounds
+// summary: Headless protocol test that sets window bounds via Browser.setWindowSize and logs the resulting window bounds.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {dp} = await testRunner.startBlank(
       'Tests window bounds are properly adjusted upon Browser.setWindowSize.');

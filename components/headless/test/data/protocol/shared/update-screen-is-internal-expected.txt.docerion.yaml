@@ -1,0 +1,4 @@
+# Docerion header of update-screen-is-internal-expected.txt.
+type: test
+title: Expected output for updateScreen isInternal test
+summary: Expected screen info output for the CDP Emulation.updateScreen() test that toggles a screen's isInternal flag between false and true.

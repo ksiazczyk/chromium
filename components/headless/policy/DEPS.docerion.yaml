@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for headless policy
+summary: Restricts includes in the headless policy directory to components/policy and components/prefs.

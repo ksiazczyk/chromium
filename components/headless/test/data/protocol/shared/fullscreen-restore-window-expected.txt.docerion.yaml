@@ -1,0 +1,4 @@
+# Docerion header of fullscreen-restore-window-expected.txt.
+type: test
+title: Fullscreen and restore window expected output
+summary: Expected output for the headless protocol test that switches a browser window to fullscreen and back to normal, logging window state and visibility.

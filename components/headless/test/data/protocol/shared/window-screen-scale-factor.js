@@ -4,6 +4,12 @@
 //
 // META: --screen-info={devicePixelRatio=3.0}
 
+// ---docerion
+// type: test
+// title: Window screen scale factor test
+// summary: Protocol test verifying that window.devicePixelRatio matches the devicePixelRatio of the simulated screen.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {session, dp} =
       await testRunner.startBlank('Tests window screen scale factor.');

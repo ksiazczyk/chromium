@@ -4,6 +4,12 @@
 //
 // META: --screen-info={1600x1200 devicePixelRatio=2.0}
 
+// ---docerion
+// type: test
+// title: window-inner-size-scaled protocol test
+// summary: Headless protocol test verifying Browser.setContentsSize() inner size updates on a screen with devicePixelRatio 2.0.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {session, dp} = await testRunner.startBlank(
       'Tests Browser.setContentsSize() updating inner width and height.');

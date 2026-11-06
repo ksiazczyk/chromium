@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser process snapshot controller header
+// summary: Declares the browser-process singleton that notifies child-process endpoints to take heap snapshots on demand from the HeapProfilerController.
+// ---
+
 #ifndef COMPONENTS_HEAP_PROFILING_IN_PROCESS_BROWSER_PROCESS_SNAPSHOT_CONTROLLER_H_
 #define COMPONENTS_HEAP_PROFILING_IN_PROCESS_BROWSER_PROCESS_SNAPSHOT_CONTROLLER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of update-screen-label-expected.txt.
+type: test
+title: Expected output for updateScreen label test
+summary: Expected screen info output for the CDP Emulation.updateScreen() test that sets a screen's label to FooBar.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Protocol test for window state changes via Browser.setWindowBounds
+// summary: Headless protocol test that cycles a window through minimized, maximized and fullscreen states using Browser.setWindowBounds and logs each result.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {session, dp} = await testRunner.startBlank(
       'Tests window ' +

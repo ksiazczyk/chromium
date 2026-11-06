@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Heap profiler feature flags and sampling parameters
+// summary: Declares heap profiling feature flags, field trial parameters such as sampling probabilities and collection interval, and per-process helper functions for sampling rate, snapshot probability, and hash set load factor.
+// ---
+
 #ifndef COMPONENTS_HEAP_PROFILING_IN_PROCESS_HEAP_PROFILER_PARAMETERS_H_
 #define COMPONENTS_HEAP_PROFILING_IN_PROCESS_HEAP_PROFILER_PARAMETERS_H_
 

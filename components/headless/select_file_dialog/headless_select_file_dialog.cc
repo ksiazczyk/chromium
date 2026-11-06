@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Headless select file dialog implementation
+// summary: Implements a stub SelectFileDialog that cancels immediately and notifies the listener, plus a factory that installs it into ui::SelectFileDialog for headless use.
+// ---
+
 #include "components/headless/select_file_dialog/headless_select_file_dialog.h"
 
 #include "base/memory/ptr_util.h"

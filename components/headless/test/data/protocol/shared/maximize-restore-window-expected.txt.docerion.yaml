@@ -1,0 +1,4 @@
+# Docerion header of maximize-restore-window-expected.txt.
+type: test
+title: Maximize and restore window test expected output
+summary: Expected output for the headless protocol test covering browser window maximize and restore state transitions.

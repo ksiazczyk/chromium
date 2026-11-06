@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Minimize, restore and focus window protocol test
+// summary: Headless protocol test that minimizes and restores a browser window, waiting for visibility and focus changes before logging the window state.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const html = `<!doctype html>
     <html><script>

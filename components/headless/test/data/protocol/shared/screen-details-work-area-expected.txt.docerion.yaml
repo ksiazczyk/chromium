@@ -1,0 +1,4 @@
+# Docerion header of screen-details-work-area-expected.txt.
+type: test
+title: Screen details work area expected output
+summary: Expected output for the headless protocol test verifying the current screen's work area bounds.

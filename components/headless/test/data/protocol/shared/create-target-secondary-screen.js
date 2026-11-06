@@ -4,6 +4,12 @@
 //
 // META: --screen-info={label='#1'}{label='#2'}
 
+// ---docerion
+// type: test
+// title: Protocol test for Target.createTarget() on a secondary screen
+// summary: 'Headless protocol test using simulated screen info and an HTTP interceptor to verify a target created on screen #2 reports that screen via getScreenDetails().'
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {session, dp} = await testRunner.startBlank(
       'Tests Target.createTarget() on a secondary screen.');

@@ -1,0 +1,4 @@
+# Docerion header of window-open-popup-placement-headless-mode-expected.txt.
+type: test
+title: Window open popup placement headless mode expectations
+summary: Headless-mode-specific expected output for the popup placement test, differing by one pixel in popup height.

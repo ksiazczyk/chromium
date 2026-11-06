@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Heavy ad intervention feature flags
+// summary: Defines base features for the intervention, reporting to embedders, warning reporting, and privacy mitigations.
+// ---
+
 #include "components/heavy_ad_intervention/heavy_ad_features.h"
 
 namespace heavy_ad_intervention {

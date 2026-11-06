@@ -1,0 +1,4 @@
+# Docerion header of input-clipboard-ops-expected.txt.
+type: test
+title: Input clipboard operations test expected output
+summary: Expected output for the headless DevTools protocol test that checks clipboard copy and paste operations in an input field.

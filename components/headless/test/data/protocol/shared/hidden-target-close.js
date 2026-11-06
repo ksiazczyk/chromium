@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Hidden target close protocol test
+// summary: Protocol test that creates a hidden target, closes it, and verifies detachment events and target list updates via the browser session.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   await testRunner.startBlank(`Test closing hidden target`);
 

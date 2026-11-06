@@ -1,0 +1,4 @@
+# Docerion header of document-visibility-state-popup-expected.txt.
+type: test
+title: Popup document visibility state test expectations
+summary: Expected output for the headless protocol test checking that popup windows report a visible document.visibilityState.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for headless screen info parsing
+// summary: Unit tests verifying parsing of screen origins, sizes, and named parameters, including expected error messages for invalid input.
+// ---
+
 #include "components/headless/screen_info/headless_screen_info.h"
 
 #include "testing/gmock/include/gmock/gmock.h"

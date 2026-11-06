@@ -4,6 +4,13 @@
 //
 // META: --screen-info={1600x1200}
 //
+
+// ---docerion
+// type: test
+// title: Maximized window size protocol test
+// summary: Headless protocol test that resizes, maximizes and restores a browser window while logging its bounds and window state.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {dp} =
       await testRunner.startBlank(`Tests maximized browser window size.`);

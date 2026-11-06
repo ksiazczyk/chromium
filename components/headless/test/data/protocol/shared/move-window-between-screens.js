@@ -4,6 +4,13 @@
 //
 // META: --screen-info={label='#1'}{label='#2'}{0,600 label='#3'}{label='#4'}
 //
+
+// ---docerion
+// type: test
+// title: Move window between screens test
+// summary: Protocol test that sets window bounds across four virtual screens and waits for the currentscreenchange event to confirm the window lands on the expected screen.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {session, dp} = await testRunner.startBlank(
       'Tests window moving between multiple screens.');

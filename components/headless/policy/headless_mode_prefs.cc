@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Headless mode prefs registration
+// summary: Defines the headless.mode pref name constant and registers the integer pref with its default value in the pref registry.
+// ---
+
 #include "components/headless/policy/headless_mode_prefs.h"
 
 #include "components/headless/policy/headless_mode_policy.h"

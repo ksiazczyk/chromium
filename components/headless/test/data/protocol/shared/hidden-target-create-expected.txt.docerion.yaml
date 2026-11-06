@@ -1,0 +1,4 @@
+# Docerion header of hidden-target-create-expected.txt.
+type: test
+title: Hidden target create expected output
+summary: Expected output for the hidden target creation test covering attach, session filtering, parent disconnect, and target destruction events.

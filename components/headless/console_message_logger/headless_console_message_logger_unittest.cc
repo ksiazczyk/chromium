@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the headless console message logger
+// summary: Verifies the logged console output, log level handling for built-in components, and truncation of well-formed and malformed data URLs.
+// ---
+
 #include "components/headless/console_message_logger/headless_console_message_logger.h"
 
 #include "base/logging.h"

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the headless clipboard
+summary: Grants the headless clipboard directory access to headers under ui/base/clipboard.

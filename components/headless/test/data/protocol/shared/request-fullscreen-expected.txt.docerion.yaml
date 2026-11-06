@@ -1,0 +1,4 @@
+# Docerion header of request-fullscreen-expected.txt.
+type: test
+title: Expected output for element requestFullscreen test
+summary: Expected results for the element requestFullscreen protocol test, showing the fullscreen element and page zoom changes.

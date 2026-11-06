@@ -1,0 +1,4 @@
+# Docerion header of add-screen-scale-factor-expected.txt.
+type: test
+title: Add screen scale factor test expected output
+summary: Expected output for the CDP Emulation.addScreen protocol test with a device pixel ratio scale factor, listing the resulting screen infos.

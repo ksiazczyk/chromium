@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the console message logger
+summary: Declares the allowed include paths for content public browser and common APIs plus Blink DevTools mojom in this component.

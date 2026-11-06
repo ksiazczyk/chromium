@@ -4,6 +4,12 @@
 //
 // META: --disable-popup-blocking
 
+// ---docerion
+// type: test
+// title: Normal window has opener test
+// summary: Protocol test that opens about:blank with window.open and checks that the new window's opener points back to the opening window.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {session} =
       await testRunner.startBlank('Tests normal window has window.opener.');

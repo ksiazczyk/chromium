@@ -4,6 +4,12 @@
 //
 // META: --screen-info={800x600}
 
+// ---docerion
+// type: test
+// title: update-screen-color-depth test script
+// summary: Headless protocol test that sets a screen's color depth to 32 via CDP Emulation.updateScreen() and logs the updated screen info.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {dp} = await testRunner.startBlank(
       'Tests CDP Emulation.updateScreen() API color depth handling.');

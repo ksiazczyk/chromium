@@ -4,6 +4,12 @@
 //
 // META: --screen-info={label='1st screen'}{600x800 label='2nd screen'}
 
+// ---docerion
+// type: test
+// title: Multiple screens details test
+// summary: Headless protocol test emulating two screens of different sizes and logging their origin, size, available area and primary/extended flags.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {session, dp} = await testRunner.startBlank(
       'Tests multiple screens details origin and size.');

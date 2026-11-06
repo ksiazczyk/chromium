@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PDF page bitmap rendering API
+// summary: Declares PDFPageBitmap, a test utility to render PDF pages at 300 DPI and inspect pixel colors and colored rectangles.
+// ---
+
 #ifndef COMPONENTS_HEADLESS_TEST_PDF_UTILS_H_
 #define COMPONENTS_HEADLESS_TEST_PDF_UTILS_H_
 

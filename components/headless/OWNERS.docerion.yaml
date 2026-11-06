@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Headless component OWNERS
+summary: Delegates code ownership for the headless component by including the owners listed in the referenced headless OWNERS file.

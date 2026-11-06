@@ -5,6 +5,12 @@
 // META: --screen-info={800x600 \
 // META:   workAreaLeft=10 workAreaRight=90 workAreaTop=20 workAreaBottom=80}
 
+// ---docerion
+// type: test
+// title: Window screen avail properties test
+// summary: Protocol test that logs window.screen availLeft, availTop, availWidth and availHeight for a simulated screen.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {dp} = await testRunner.startBlank('Tests window.screen.avail* APIs.');
 

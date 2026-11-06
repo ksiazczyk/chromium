@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bitmap utils unit tests
+// summary: Parameterized unit tests that decode PNG test images and check CheckColoredRect results for green box, anti-aliasing and mixed color cases.
+// ---
+
 #include "components/headless/test/bitmap_utils.h"
 
 #include <string_view>

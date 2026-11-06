@@ -4,6 +4,12 @@
 //
 // META: --screen-info={800x600 label=1st}
 
+// ---docerion
+// type: test
+// title: Add screen protocol test
+// summary: Protocol test that adds external and internal screens via CDP Emulation.addScreen and logs the screen information after each addition.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {dp} =
       await testRunner.startBlank('Tests CDP Emulation.addScreen() API.');

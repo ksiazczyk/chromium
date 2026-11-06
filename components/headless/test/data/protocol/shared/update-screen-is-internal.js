@@ -4,6 +4,12 @@
 //
 // META: --screen-info={800x600}
 
+// ---docerion
+// type: test
+// title: updateScreen isInternal protocol test
+// summary: Protocol browser test that toggles a screen's isInternal flag through false and true via CDP Emulation.updateScreen() and logs each resulting screen info.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {dp} = await testRunner.startBlank(
       'Tests CDP Emulation.updateScreen() API isInternal handling.');

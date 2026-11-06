@@ -1,0 +1,4 @@
+# Docerion header of screen-details-multiple-screens-expected.txt.
+type: test
+title: Multiple screens details expected output
+summary: Expected output listing origin, size, available area and primary/extended flags for two emulated screens.

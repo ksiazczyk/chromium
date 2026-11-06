@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HeadlessSelectFileDialogFactory header
+// summary: Declares the headless SelectFileDialogFactory with SetUp, a one-time test callback, and Create for producing canceling file dialogs.
+// ---
+
 #ifndef COMPONENTS_HEADLESS_SELECT_FILE_DIALOG_HEADLESS_SELECT_FILE_DIALOG_H_
 #define COMPONENTS_HEADLESS_SELECT_FILE_DIALOG_HEADLESS_SELECT_FILE_DIALOG_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Heavy ad intervention interstitial page helper
+// summary: Implements PrepareHeavyAdPage, which loads the quiet interstitial template and fills it with localized heavy ad intervention strings to produce the blocking error page HTML.
+// ---
+
 #include "components/heavy_ad_intervention/heavy_ad_helper.h"
 
 #include <ostream>

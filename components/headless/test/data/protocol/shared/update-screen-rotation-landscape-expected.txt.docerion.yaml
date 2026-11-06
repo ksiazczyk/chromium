@@ -1,0 +1,4 @@
+# Docerion header of update-screen-rotation-landscape-expected.txt.
+type: test
+title: Expected output for updateScreen landscape rotation test
+summary: Expected screen info output for the CDP Emulation.updateScreen() test that rotates a landscape screen by 0, 90, 180 and 270 degrees.

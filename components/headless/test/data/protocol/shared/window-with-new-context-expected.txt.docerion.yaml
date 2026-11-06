@@ -1,0 +1,4 @@
+# Docerion header of window-with-new-context-expected.txt.
+type: test
+title: Window with new context expected output
+summary: Expected output for the headless protocol test that creates a target in a new browser context, confirming the test ran to completion.

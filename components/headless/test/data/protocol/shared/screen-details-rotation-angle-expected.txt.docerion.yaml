@@ -1,0 +1,4 @@
+# Docerion header of screen-details-rotation-angle-expected.txt.
+type: test
+title: Screen details rotation angle expected output
+summary: Expected output for the headless protocol test verifying the reported screen orientation angle under a 180-degree rotation.

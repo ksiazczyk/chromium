@@ -1,0 +1,4 @@
+# Docerion header of window-size-switch-handling-expected.txt.
+type: test
+title: Window size switch handling expected output
+summary: Expected output for the headless protocol test that checks --window-size switch handling, recording a 700x500 window size.

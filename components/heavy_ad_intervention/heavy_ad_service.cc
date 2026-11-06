@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Heavy ad service implementation
+// summary: Implements the HeavyAdService keyed service, initializing the heavy ad blocklist with an SQLite opt-out store for regular profiles or an in-memory store for incognito, and forwarding blocklist load and clear notifications.
+// ---
+
 #include "components/heavy_ad_intervention/heavy_ad_service.h"
 
 #include "base/feature_list.h"

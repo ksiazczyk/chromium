@@ -4,6 +4,12 @@
 //
 // META: --disable-popup-blocking
 
+// ---docerion
+// type: test
+// title: Window open Shift+Click opener ID test
+// summary: Protocol test that Shift+Clicks a link and verifies the newly attached page target reports no openerId.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {session, dp} = await testRunner.startBlank(
       'Tests that opener is NOT specified on a page opened via Shift+Click.');

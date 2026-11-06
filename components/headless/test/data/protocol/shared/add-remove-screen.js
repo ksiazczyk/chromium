@@ -4,6 +4,12 @@
 //
 // META: --screen-info={800x600 label=1st}
 
+// ---docerion
+// type: test
+// title: Add and remove screen protocol test
+// summary: Protocol test that exercises the CDP Emulation.addScreen and removeScreen APIs and logs screen information before and after removal.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {dp} = await testRunner.startBlank(
       'Tests CDP Emulation.add|removeScreen() APIs.');

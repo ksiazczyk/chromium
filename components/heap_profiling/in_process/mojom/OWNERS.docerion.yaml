@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Heap profiling mojom OWNERS
+summary: Sets per-file ownership rules so that changes to .mojom files in this directory require review by the IPC security owners.

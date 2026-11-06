@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Child process snapshot controller header
+// summary: Declares the child-process Mojo receiver that triggers heap snapshots in response to notifications from the browser process.
+// ---
+
 #ifndef COMPONENTS_HEAP_PROFILING_IN_PROCESS_CHILD_PROCESS_SNAPSHOT_CONTROLLER_H_
 #define COMPONENTS_HEAP_PROFILING_IN_PROCESS_CHILD_PROCESS_SNAPSHOT_CONTROLLER_H_
 

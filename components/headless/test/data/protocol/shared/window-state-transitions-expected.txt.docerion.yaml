@@ -1,0 +1,4 @@
+# Docerion header of window-state-transitions-expected.txt.
+type: test
+title: Window state transitions expected output
+summary: Expected output for the headless protocol test that cycles window states, listing bounds, state and visibility for each transition.

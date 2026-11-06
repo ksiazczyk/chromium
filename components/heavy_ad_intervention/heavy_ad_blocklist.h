@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Heavy ad blocklist class declaration
+// summary: Declares the HeavyAdBlocklist class that limits interventions per top frame origin per day to prevent cross-origin side channels.
+// ---
+
 #ifndef COMPONENTS_HEAVY_AD_INTERVENTION_HEAVY_AD_BLOCKLIST_H_
 #define COMPONENTS_HEAVY_AD_INTERVENTION_HEAVY_AD_BLOCKLIST_H_
 

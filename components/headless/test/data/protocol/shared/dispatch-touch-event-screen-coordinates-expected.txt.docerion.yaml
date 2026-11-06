@@ -1,0 +1,4 @@
+# Docerion header of dispatch-touch-event-screen-coordinates-expected.txt.
+type: test
+title: Touch event screen coordinates test expectations
+summary: Expected output for the headless protocol test verifying that dispatched touch events carry correct screen coordinates.

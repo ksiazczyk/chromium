@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HeadlessScreenInfo struct and parsing API
+// summary: Declares the HeadlessScreenInfo struct with default screen values and the FromString and ToString interface for converting screen specification strings.
+// ---
+
 #ifndef COMPONENTS_HEADLESS_SCREEN_INFO_HEADLESS_SCREEN_INFO_H_
 #define COMPONENTS_HEADLESS_SCREEN_INFO_HEADLESS_SCREEN_INFO_H_
 

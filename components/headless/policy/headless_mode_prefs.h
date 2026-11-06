@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Headless mode prefs declarations
+// summary: Declares the kHeadlessMode pref name constant and the RegisterPrefs function for headless mode policy prefs.
+// ---
+
 #ifndef COMPONENTS_HEADLESS_POLICY_HEADLESS_MODE_PREFS_H_
 #define COMPONENTS_HEADLESS_POLICY_HEADLESS_MODE_PREFS_H_
 

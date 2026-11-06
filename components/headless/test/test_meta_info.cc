@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test meta info parsing implementation
+// summary: Implements parsing of '// META:' comments from headless JavaScript tests into command line switches and expectation fork flags.
+// ---
+
 #include "components/headless/test/test_meta_info.h"
 
 #include "base/base_switches.h"

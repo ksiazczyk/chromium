@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Heavy ad intervention interstitial page helper header
+// summary: Declares PrepareHeavyAdPage, the function that returns the HTML error page shown when the heavy ad intervention blocks an ad frame.
+// ---
+
 #ifndef COMPONENTS_HEAVY_AD_INTERVENTION_HEAVY_AD_HELPER_H_
 #define COMPONENTS_HEAVY_AD_INTERVENTION_HEAVY_AD_HELPER_H_
 

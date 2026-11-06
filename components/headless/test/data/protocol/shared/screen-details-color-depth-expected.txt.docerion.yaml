@@ -1,0 +1,4 @@
+# Docerion header of screen-details-color-depth-expected.txt.
+type: test
+title: Screen details color depth expected output
+summary: Expected output for the headless protocol test verifying that screen details report an emulated color depth of 32.

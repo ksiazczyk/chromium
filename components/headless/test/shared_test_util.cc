@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test expectation path helper
+// summary: Computes expectation file paths for headless mode and headless shell variants of script-based tests.
+// ---
+
 #include "components/headless/test/shared_test_util.h"
 
 namespace headless {

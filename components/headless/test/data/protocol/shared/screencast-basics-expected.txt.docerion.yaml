@@ -1,0 +1,4 @@
+# Docerion header of screencast-basics-expected.txt.
+type: test
+title: Screencast basics expected output
+summary: Expected output for the headless protocol test verifying that basic screencast frames are delivered.

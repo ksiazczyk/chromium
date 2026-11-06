@@ -4,6 +4,12 @@
 //
 // META: --screen-info={label='1st'}{label='2nd'}
 
+// ---docerion
+// type: test
+// title: update-screen-bounds test script
+// summary: Headless protocol test that repositions and resizes a secondary screen via CDP Emulation.updateScreen() and logs the updated screen info.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {dp} = await testRunner.startBlank(
       'Tests CDP Emulation.updateScreen() API bounds handling.');

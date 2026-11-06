@@ -4,6 +4,12 @@
 //
 // META: --screen-info={1600x1200}
 
+// ---docerion
+// type: test
+// title: Maximize and restore window protocol test
+// summary: Headless protocol test that maximizes and restores a browser window, logging its window state and visibility after each change.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {page, session, dp} =
       await testRunner.startBlank(`Tests browser window maximize and restore.`);

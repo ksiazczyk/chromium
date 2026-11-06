@@ -1,0 +1,4 @@
+# Docerion header of window-inner-size-larger-than-screen-expected.txt.
+type: test
+title: window-inner-size-larger-than-screen expected results
+summary: Expected output for the test setting contents size larger than the current screen, logging the set and retrieved contents size.

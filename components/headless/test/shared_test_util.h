@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Headless shared test utilities
+// summary: Declares helpers for headless tests, including detection of shared test scripts and resolution of expectation file paths per headless type.
+// ---
+
 #ifndef COMPONENTS_HEADLESS_TEST_SHARED_TEST_UTIL_H_
 #define COMPONENTS_HEADLESS_TEST_SHARED_TEST_UTIL_H_
 

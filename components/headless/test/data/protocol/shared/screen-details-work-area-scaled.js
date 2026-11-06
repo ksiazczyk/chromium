@@ -5,6 +5,12 @@
 // META: --screen-info={workAreaLeft=100 workAreaRight=100 \
 // META:   workAreaTop=100 workAreaBottom=100 devicePixelRatio=2.0}
 
+// ---docerion
+// type: test
+// title: Screen details scaled work area test
+// summary: Headless protocol test that checks the current screen's work area with an inset work area and a device pixel ratio of 2.0 configured via --screen-info.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {session, dp} =
       await testRunner.startBlank('Tests scaled screen work area.');

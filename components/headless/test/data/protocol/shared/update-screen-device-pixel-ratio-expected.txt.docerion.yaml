@@ -1,0 +1,4 @@
+# Docerion header of update-screen-device-pixel-ratio-expected.txt.
+type: test
+title: Expected output for updateScreen device pixel ratio test
+summary: Expected screen info output for the CDP Emulation.updateScreen() test that updates a screen's device pixel ratio to 2.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Heavy ad intervention feature declarations
+// summary: Declares the feature flags and reporting parameter name constants for the heavy ad intervention.
+// ---
+
 #ifndef COMPONENTS_HEAVY_AD_INTERVENTION_HEAVY_AD_FEATURES_H_
 #define COMPONENTS_HEAVY_AD_INTERVENTION_HEAVY_AD_FEATURES_H_
 

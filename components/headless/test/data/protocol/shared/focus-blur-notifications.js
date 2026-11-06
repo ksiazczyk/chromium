@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Focus and blur notifications test
+// summary: Protocol test script that enables focus emulation and loads a page swapping focus between two buttons, logging focus and blur events via the console.
+// ---
+
 (async function(testRunner) {
   const {page, dp} =
       await testRunner.startBlank('Tests focus/blur notifications.');

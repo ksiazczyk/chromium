@@ -1,0 +1,4 @@
+# Docerion header of window-open-noopener-click-opener-id-expected.txt.
+type: test
+title: Window open noopener click opener id test expectations
+summary: Expected output for the protocol test checking that window.opener is not set on a page opened via a rel=noopener link click.

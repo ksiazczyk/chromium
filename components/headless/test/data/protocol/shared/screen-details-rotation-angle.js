@@ -4,6 +4,12 @@
 //
 // META: --screen-info={rotation=180}
 
+// ---docerion
+// type: test
+// title: Screen details rotation angle test
+// summary: Headless protocol test that grants window management permissions and checks the current screen's orientation angle with a 180-degree rotation configured via --screen-info.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {session, dp} =
       await testRunner.startBlank('Tests screen rotation angle.');

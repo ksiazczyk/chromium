@@ -4,6 +4,12 @@
 //
 // META: --screen-info={800x600 label=1st}{600x800 label=2nd}
 
+// ---docerion
+// type: test
+// title: CDP Emulation.removeScreen() API test
+// summary: Protocol test exercising the CDP Emulation.removeScreen() API, checking error cases for invalid, unknown, and primary screens and successful removal of a secondary screen.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {dp} =
       await testRunner.startBlank('Tests CDP Emulation.removeScreen() API.');

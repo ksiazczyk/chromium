@@ -5,6 +5,12 @@
 // META: --screen-info={label='1st screen'}{600x800 label='2nd screen'}
 // META: --disable-popup-blocking
 
+// ---docerion
+// type: test
+// title: Element requestFullscreen on secondary screen test
+// summary: Protocol test that opens a popup on a secondary screen, requests fullscreen on an element, and logs the resulting window and screen dimensions.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {session, dp} = await testRunner.startBlank(
       'Tests element request fullscreen on a secondary screen.');

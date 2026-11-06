@@ -4,6 +4,12 @@
 //
 // META: --screen-info={1600x1200}
 
+// ---docerion
+// type: test
+// title: Protocol test for Target.createTarget() window state handling
+// summary: Headless protocol test that creates targets with each windowState value and logs the actual window state returned by the browser.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {session, dp} = await testRunner.startBlank(
       `Tests Target.createTarget() window state handling.`);

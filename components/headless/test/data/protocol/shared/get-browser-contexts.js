@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Target.getBrowserContexts test
+// summary: Headless protocol test that creates and disposes a browser context and verifies Target.getBrowserContexts listings plus the error when disposing the default context.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   await testRunner.startBlank('Tests Target.getBrowserContexts');
 

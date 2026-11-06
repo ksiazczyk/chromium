@@ -4,6 +4,13 @@
 //
 // META: --screen-info={label=#1}{600x800 label='#2'}
 //
+
+// ---docerion
+// type: test
+// title: Multiple screen details test
+// summary: Protocol test that grants window management permission and logs the detailed properties of two virtual screens configured via the screen-info flag.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {session, dp} =
       await testRunner.startBlank(`Tests multiple screen configuration.`);

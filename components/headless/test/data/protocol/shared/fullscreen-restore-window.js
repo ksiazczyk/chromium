@@ -4,6 +4,12 @@
 //
 // META: --screen-info={1600x1200}
 
+// ---docerion
+// type: test
+// title: Fullscreen and restore window test
+// summary: Protocol test script that toggles a browser window between fullscreen and normal states via Browser.setWindowBounds and logs window state and visibility.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {page, session, dp} = await testRunner.startBlank(
       `Tests browser window fullscreen and restore.`);

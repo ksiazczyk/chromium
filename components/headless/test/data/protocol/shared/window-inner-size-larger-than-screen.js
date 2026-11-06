@@ -4,6 +4,12 @@
 //
 // META: --screen-info={800x600}
 
+// ---docerion
+// type: test
+// title: window-inner-size-larger-than-screen protocol test
+// summary: Headless protocol test verifying that Browser.setContentsSize() can resize a window to 3840x2160, larger than the current screen.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {page, session, dp} = await testRunner.startBlank(
       `Tests Browser.setContentsSize larger than the current screen.`);

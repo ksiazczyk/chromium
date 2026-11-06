@@ -1,0 +1,4 @@
+# Docerion header of window-open-on-secondary-screen-expected.txt.
+type: test
+title: Window open on secondary screen test expectations
+summary: Expected output for the protocol test verifying a popup opens at the requested position and size on a secondary screen.

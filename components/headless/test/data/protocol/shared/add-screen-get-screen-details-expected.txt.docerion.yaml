@@ -1,0 +1,4 @@
+# Docerion header of add-screen-get-screen-details-expected.txt.
+type: test
+title: Add screen with getScreenDetails expected output
+summary: Expected output for the protocol test that adds a screen and reads getScreenDetails() in the page, listing per-screen properties such as label, bounds and orientation.
