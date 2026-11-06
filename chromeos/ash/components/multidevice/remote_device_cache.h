@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote device cache declaration
+// summary: Declares RemoteDeviceCache, a cache of RemoteDeviceRefs that retains stale devices and supports lookup by Instance ID or legacy device ID.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_MULTIDEVICE_REMOTE_DEVICE_CACHE_H_
 #define CHROMEOS_ASH_COMPONENTS_MULTIDEVICE_REMOTE_DEVICE_CACHE_H_
 

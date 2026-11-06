@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multidevice logging header with PA_LOG macro
+// summary: Header for multidevice logging that defines the PA_LOG macro and the ScopedLogMessage class, which send Proximity Auth log messages to the standard logging system and a feature-specific log buffer.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_MULTIDEVICE_LOGGING_LOGGING_H_
 #define CHROMEOS_ASH_COMPONENTS_MULTIDEVICE_LOGGING_LOGGING_H_
 

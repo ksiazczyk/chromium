@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SoftwareFeature enum definition
+// summary: Defines the multidevice SoftwareFeature enum covering Better Together, Smart Lock, Instant Tethering, Phone Hub, and other host and client features.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_MULTIDEVICE_SOFTWARE_FEATURE_H_
 #define CHROMEOS_ASH_COMPONENTS_MULTIDEVICE_SOFTWARE_FEATURE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock node channel delegate for tests
+// summary: Declares a gmock-based NodeChannel::Delegate implementation that mocks all channel message callbacks for NodeChannel unit tests and fuzzers.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_MOJO_PROXY_MOJO_CORE_CORE_TEST_MOCK_NODE_CHANNEL_DELEGATE_H_
 #define CHROMEOS_ASH_COMPONENTS_MOJO_PROXY_MOJO_CORE_CORE_TEST_MOCK_NODE_CHANNEL_DELEGATE_H_
 

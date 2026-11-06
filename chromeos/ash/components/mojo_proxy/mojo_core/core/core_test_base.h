@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test base and mock handle info declarations
+// summary: Declares CoreTestBase and CoreTestBase_MockHandleInfo, which track constructor, destructor, and API call counts for mock handles used in core tests.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_MOJO_PROXY_MOJO_CORE_CORE_CORE_TEST_BASE_H_
 #define CHROMEOS_ASH_COMPONENTS_MOJO_PROXY_MOJO_CORE_CORE_CORE_TEST_BASE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ordered message queue for a port
+// summary: Declares MessageQueue, which buffers user message events per port and enforces message ordering for consumers via sequence numbers.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_MOJO_PROXY_MOJO_CORE_CORE_PORTS_MESSAGE_QUEUE_H_
 #define CHROMEOS_ASH_COMPONENTS_MOJO_PROXY_MOJO_CORE_CORE_PORTS_MESSAGE_QUEUE_H_
 

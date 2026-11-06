@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of nearby common
+summary: Lists code owners for the directory by including the nearby_sharing OWNERS file and naming hansberry@chromium.org as an owner.

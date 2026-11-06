@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mojo test base implementation
+// summary: Implements the MojoTestBase fixture, including client process control and static helpers for creating message pipes and reading and writing messages with handles.
+// ---
+
 #include "chromeos/ash/components/mojo_proxy/mojo_core/core/test/mojo_test_base.h"
 
 #include "base/compiler_specific.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedLogMessage implementation
+// summary: Implements ScopedLogMessage and ScopedDisableLoggingForTesting, routing PA_LOG output to the log buffer and the standard logging system.
+// ---
+
 #include "chromeos/ash/components/multidevice/logging/logging.h"
 
 #include "chromeos/ash/components/multidevice/logging/log_buffer.h"

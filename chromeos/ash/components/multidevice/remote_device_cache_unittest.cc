@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Remote device cache unit tests
+// summary: Unit tests covering setting and getting cached devices, lookups by Instance ID or legacy device ID, and reference validity after cache updates.
+// ---
+
 #include "chromeos/ash/components/multidevice/remote_device_cache.h"
 
 #include <algorithm>

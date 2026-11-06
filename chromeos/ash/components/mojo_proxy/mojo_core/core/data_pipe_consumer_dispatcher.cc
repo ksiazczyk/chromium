@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data pipe consumer dispatcher implementation
+// summary: Implements the consumer-side dispatcher for Mojo data pipes, reading from a shared memory ring buffer with serialization, transit, and watcher support.
+// ---
+
 #include "chromeos/ash/components/mojo_proxy/mojo_core/core/data_pipe_consumer_dispatcher.h"
 
 #include <stddef.h>

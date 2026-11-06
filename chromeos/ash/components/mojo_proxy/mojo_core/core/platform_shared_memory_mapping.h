@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform shared memory mapping class
+// summary: Declares a RAII mapping of a PlatformSharedMemoryRegion that holds either a read-only or writable shared memory mapping, supports non-page-aligned offsets and is not thread-safe.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_MOJO_PROXY_MOJO_CORE_CORE_PLATFORM_SHARED_MEMORY_MAPPING_H_
 #define CHROMEOS_ASH_COMPONENTS_MOJO_PROXY_MOJO_CORE_CORE_PLATFORM_SHARED_MEMORY_MAPPING_H_
 

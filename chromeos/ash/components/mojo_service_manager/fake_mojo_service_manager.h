@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Mojo service manager header for testing
+// summary: Declares FakeMojoServiceManager, a test double of the ServiceManager Mojo interface that skips permission checks, always succeeds at register and request, and overrides the global connection.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_MOJO_SERVICE_MANAGER_FAKE_MOJO_SERVICE_MANAGER_H_
 #define CHROMEOS_ASH_COMPONENTS_MOJO_SERVICE_MANAGER_FAKE_MOJO_SERVICE_MANAGER_H_
 

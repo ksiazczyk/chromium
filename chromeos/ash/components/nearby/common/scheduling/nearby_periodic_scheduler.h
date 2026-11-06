@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NearbyPeriodicScheduler header
+// summary: Declares NearbyPeriodicScheduler, which schedules recurring tasks at a fixed period with immediate requests and retries interrupting the pattern.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_NEARBY_COMMON_SCHEDULING_NEARBY_PERIODIC_SCHEDULER_H_
 #define CHROMEOS_ASH_COMPONENTS_NEARBY_COMMON_SCHEDULING_NEARBY_PERIODIC_SCHEDULER_H_
 

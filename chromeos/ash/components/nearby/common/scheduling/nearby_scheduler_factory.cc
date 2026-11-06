@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NearbySchedulerFactory implementation
+// summary: Implements the factory that creates expiration, on-demand, and periodic Nearby schedulers, with a test factory override.
+// ---
+
 #include "chromeos/ash/components/nearby/common/scheduling/nearby_scheduler_factory.h"
 
 #include <utility>

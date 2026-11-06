@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Connection helper choosing real or fake service manager
+// summary: Creates a real or fake service manager connection depending on build flags and whether the process runs on ChromeOS, returning a closer closure.
+// ---
+
 #include "chromeos/ash/components/mojo_service_manager/connection_helper.h"
 
 #include <memory>

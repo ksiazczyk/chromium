@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RemoteDeviceRef unit tests
+// summary: Unit tests verifying RemoteDeviceRef field accessors, software feature state lookups, device ID handling, and copy semantics.
+// ---
+
 #include "chromeos/ash/components/multidevice/remote_device_ref.h"
 
 #include <memory>

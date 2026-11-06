@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby On-Demand Scheduler implementation
+// summary: Implements a scheduler without recurring requests so requests happen only on demand through the base class.
+// ---
+
 #include "chromeos/ash/components/nearby/common/scheduling/nearby_on_demand_scheduler.h"
 
 #include <utility>

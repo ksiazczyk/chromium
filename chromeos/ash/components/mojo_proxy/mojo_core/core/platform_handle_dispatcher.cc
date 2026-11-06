@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PlatformHandleDispatcher implementation
+// summary: Implements a dispatcher that wraps a single platform handle with close, serialization, and in-transit handling.
+// ---
+
 #include "chromeos/ash/components/mojo_proxy/mojo_core/core/platform_handle_dispatcher.h"
 
 #include "base/synchronization/lock.h"

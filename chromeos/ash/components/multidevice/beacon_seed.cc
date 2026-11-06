@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BeaconSeed implementation with CryptAuth conversions
+// summary: Implements the BeaconSeed class and conversion helpers between multidevice seeds and CryptAuth and CryptAuthV2 seed protos.
+// ---
+
 #include "chromeos/ash/components/multidevice/beacon_seed.h"
 
 #include <algorithm>

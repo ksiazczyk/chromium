@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NearbyPeriodicScheduler unit tests
+// summary: Unit tests verifying periodic request timing using mock time, a test request period, and fast-forwarded timers.
+// ---
+
 #include <memory>
 
 #include "base/functional/callback_helpers.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NodeProxy implementation
+// summary: Implements NodeProxy, which owns portal proxies between a legacy Mojo Core node and a MojoIpcz network and signals death when the last proxy is removed.
+// ---
+
 #include "chromeos/ash/components/mojo_proxy/service/node_proxy.h"
 
 #include <utility>

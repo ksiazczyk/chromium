@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for nearby common
+summary: Declares the Buganizer component ID 1342830 and the chromeos-cross-device-eng team email used for triage of this directory.

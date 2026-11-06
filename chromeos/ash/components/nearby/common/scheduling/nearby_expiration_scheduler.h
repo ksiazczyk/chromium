@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby Expiration Scheduler declaration
+// summary: Declares a NearbySchedulerBase subclass that schedules recurring tasks from an expiration time functor supplied by the owner.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_NEARBY_COMMON_SCHEDULING_NEARBY_EXPIRATION_SCHEDULER_H_
 #define CHROMEOS_ASH_COMPONENTS_NEARBY_COMMON_SCHEDULING_NEARBY_EXPIRATION_SCHEDULER_H_
 

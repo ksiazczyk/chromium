@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for multidevice mojom targets
+summary: GN build rules defining the multidevice mojom target with C++ typemaps and the unit test source_set.

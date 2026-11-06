@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stub multidevice utility header
+// summary: Declares functions to create a stub host phone and client computer with fake multidevice features and to determine whether stubbed multidevice implementations should be used.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_MULTIDEVICE_STUB_MULTIDEVICE_UTIL_H_
 #define CHROMEOS_ASH_COMPONENTS_MULTIDEVICE_STUB_MULTIDEVICE_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Node channel unit tests
+// summary: Tests NodeChannel behavior, including safe destruction during message races and rejection of undersized legacy messages.
+// ---
+
 #include "chromeos/ash/components/mojo_proxy/mojo_core/core/node_channel.h"
 
 #include "base/compiler_specific.h"

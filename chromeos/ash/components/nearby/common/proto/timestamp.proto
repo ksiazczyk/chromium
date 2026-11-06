@@ -6,6 +6,12 @@
 // //third_party/protobuf/src/google/protobuf/field_mask.proto
 // Last copied at crrev/c/2545204.
 
+// ---docerion
+// type: source
+// title: Timestamp protobuf message definition
+// summary: Defines the Timestamp message with seconds and nanos fields as a lite-runtime copy of protobuf's timestamp.proto for the ChromeOS nearby codebase.
+// ---
+
 syntax = "proto3";
 
 package ash.nearby.proto;

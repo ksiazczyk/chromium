@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NearbyApiCallFlow interface for authenticated API requests
+// summary: Declares the abstract NearbyApiCallFlow interface for starting OAuth-authenticated POST, PATCH, and GET requests to Nearby Sharing endpoints.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_NEARBY_COMMON_CLIENT_NEARBY_API_CALL_FLOW_H_
 #define CHROMEOS_ASH_COMPONENTS_NEARBY_COMMON_CLIENT_NEARBY_API_CALL_FLOW_H_
 

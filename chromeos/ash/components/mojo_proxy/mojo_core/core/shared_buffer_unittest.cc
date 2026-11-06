@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared buffer system tests
+// summary: Tests creating, duplicating, and passing shared buffers through message pipes and across processes using the Mojo test base.
+// ---
+
 #include <string.h>
 
 #include <array>

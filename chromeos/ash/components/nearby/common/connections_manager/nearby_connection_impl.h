@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby connection implementation
+// summary: Declares NearbyConnectionImpl, which queues incoming bytes and dispatches read callbacks on a single sequence.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_NEARBY_COMMON_CONNECTIONS_MANAGER_NEARBY_CONNECTION_IMPL_H_
 #define CHROMEOS_ASH_COMPONENTS_NEARBY_COMMON_CONNECTIONS_MANAGER_NEARBY_CONNECTION_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Node channel implementation
+// summary: Implements the node channel that wraps a transport channel to send and receive node control messages between Mojo nodes.
+// ---
+
 #include "chromeos/ash/components/mojo_proxy/mojo_core/core/node_channel.h"
 
 #include <cstring>

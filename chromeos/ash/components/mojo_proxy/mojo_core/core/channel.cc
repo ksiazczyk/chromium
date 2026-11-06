@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Channel implementation
+// summary: Implements the Channel message machinery for writing and reading delimited messages with platform handle transfer across platforms.
+// ---
+
 #include "chromeos/ash/components/mojo_proxy/mojo_core/core/channel.h"
 
 #include <stddef.h>

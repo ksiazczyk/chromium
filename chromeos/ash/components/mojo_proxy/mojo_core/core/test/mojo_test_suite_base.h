@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mojo test suite base class
+// summary: Declares a base::TestSuite subclass that installs GTest listeners for Mojo initialization and manually sets up Mojo and FeatureList in test child processes.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_MOJO_PROXY_MOJO_CORE_CORE_TEST_MOJO_TEST_SUITE_BASE_H_
 #define CHROMEOS_ASH_COMPONENTS_MOJO_PROXY_MOJO_CORE_CORE_TEST_MOJO_TEST_SUITE_BASE_H_
 

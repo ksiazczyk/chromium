@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Handle signals unit tests
+// summary: Tests querying and waiting on Mojo handle signals state for message pipes, including invalid arguments and peer closure.
+// ---
+
 #include "build/build_config.h"
 #include "chromeos/ash/components/mojo_proxy/mojo_core/core/test/mojo_test_base.h"
 #include "chromeos/ash/components/mojo_proxy/mojo_core/public/c/system/buffer.h"

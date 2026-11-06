@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform handle utilities implementation
+// summary: Implements conversions between shared memory region handles and PlatformHandles and process handle unwrapping, with per-platform branches for Windows, Fuchsia, Apple, Android and POSIX.
+// ---
+
 #include "chromeos/ash/components/mojo_proxy/mojo_core/core/platform_handle_utils.h"
 
 #include "build/build_config.h"

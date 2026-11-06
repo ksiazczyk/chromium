@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multidevice mojom traits implementation
+// summary: Implements Mojo StructTraits to serialize and deserialize BeaconSeed, RemoteDevice, and software feature types.
+// ---
+
 #include "chromeos/ash/components/multidevice/mojom/multidevice_mojom_traits.h"
 
 #include "base/notreached.h"

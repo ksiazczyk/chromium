@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mojo Proxy end-to-end unit tests
+// summary: Unit tests that launch the mojo_proxy executable and verify message passing, file and shared buffer transfer, and message pipe forwarding between ipcz and legacy Mojo.
+// ---
+
 #include <unistd.h>
 
 #include <algorithm>

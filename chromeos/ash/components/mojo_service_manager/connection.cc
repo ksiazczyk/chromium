@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Connection to the mojo service manager over Unix socket
+// summary: Implements connecting to the service manager Unix socket, mojo invitation bootstrap with retry logic, and access to the ServiceManager remote and proxy.
+// ---
+
 #include "chromeos/ash/components/mojo_service_manager/connection.h"
 
 #include <errno.h>

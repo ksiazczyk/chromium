@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake mojo service manager implementation
+// summary: Implements an in-process fake service manager with Register, Request and Query handling for tests and builds without real ChromeOS services.
+// ---
+
 #include "chromeos/ash/components/mojo_service_manager/fake_mojo_service_manager.h"
 
 #include <utility>

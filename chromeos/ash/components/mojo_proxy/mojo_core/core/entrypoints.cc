@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo system C API entry points
+// summary: Implements the Mojo system C API entry point functions by forwarding each call to the global Core instance.
+// ---
+
 #include "chromeos/ash/components/mojo_proxy/mojo_core/core/entrypoints.h"
 
 #include <stdint.h>

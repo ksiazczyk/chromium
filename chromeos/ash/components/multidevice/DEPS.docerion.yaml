@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the multidevice directory
+summary: Lists the include paths that code in this directory is allowed to depend on.

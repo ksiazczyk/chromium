@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PortLocker and SinglePortLocker declarations
+// summary: Declares lock helpers that guard access to Port state, allowing at most one locker per thread and enforcing consistent lock ordering.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_MOJO_PROXY_MOJO_CORE_CORE_PORTS_PORT_LOCKER_H_
 #define CHROMEOS_ASH_COMPONENTS_MOJO_PROXY_MOJO_CORE_CORE_PORTS_PORT_LOCKER_H_
 

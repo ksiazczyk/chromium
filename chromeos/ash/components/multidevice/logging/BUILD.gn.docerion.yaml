@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the multidevice logging library
+summary: GN build file defining the logging static library and its unit test source set for the ChromeOS multidevice component.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PlatformHandleDispatcher class declaration
+// summary: Declares the PlatformHandleDispatcher class, a Dispatcher subclass that wraps one platform handle for transfer through Mojo messages.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_MOJO_PROXY_MOJO_CORE_CORE_PLATFORM_HANDLE_DISPATCHER_H_
 #define CHROMEOS_ASH_COMPONENTS_MOJO_PROXY_MOJO_CORE_CORE_PLATFORM_HANDLE_DISPATCHER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NearbyScheduler interface
+// summary: Defines the abstract NearbyScheduler interface for scheduling tasks and notifying owners when requests are ready.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_NEARBY_COMMON_SCHEDULING_NEARBY_SCHEDULER_H_
 #define CHROMEOS_ASH_COMPONENTS_NEARBY_COMMON_SCHEDULING_NEARBY_SCHEDULER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped Mojo support for tests
+// summary: Implements RAII initialization and shutdown of the Mojo Core instance, IO thread, and test support for each test, honoring switches like broker mode and capability advertisement.
+// ---
+
 #include "chromeos/ash/components/mojo_proxy/mojo_core/core/test/scoped_mojo_support.h"
 
 #include "base/base_switches.h"

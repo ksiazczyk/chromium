@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Utility process bridge header
+// summary: Declares EstablishUtilityProcessBridge, which binds a utility process's ServiceManager receiver in Ash because utility processes cannot connect to the service manager directly.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_MOJO_SERVICE_MANAGER_UTILITY_PROCESS_BRIDGE_H_
 #define CHROMEOS_ASH_COMPONENTS_MOJO_SERVICE_MANAGER_UTILITY_PROCESS_BRIDGE_H_
 

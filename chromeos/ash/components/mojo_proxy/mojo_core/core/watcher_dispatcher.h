@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WatcherDispatcher class declaration
+// summary: Declares WatcherDispatcher, the dispatcher type backing watcher handles, which registers watches, arms them, and invokes trap event handlers on state changes.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_MOJO_PROXY_MOJO_CORE_CORE_WATCHER_DISPATCHER_H_
 #define CHROMEOS_ASH_COMPONENTS_MOJO_PROXY_MOJO_CORE_CORE_WATCHER_DISPATCHER_H_
 

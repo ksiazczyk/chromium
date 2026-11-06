@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExpiringRemoteDeviceCache implementation
+// summary: Implements a cache wrapper that remembers device IDs from the last update and filters stale remote devices out of lookups.
+// ---
+
 #include "chromeos/ash/components/multidevice/expiring_remote_device_cache.h"
 
 #include "chromeos/ash/components/multidevice/remote_device_cache.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LogBuffer class declaration
+// summary: Declares LogBuffer, a size-capped buffer of Proximity Auth log messages with observer notifications and chronological access to entries.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_MULTIDEVICE_LOGGING_LOG_BUFFER_H_
 #define CHROMEOS_ASH_COMPONENTS_MULTIDEVICE_LOGGING_LOG_BUFFER_H_
 

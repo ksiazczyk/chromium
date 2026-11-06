@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SoftwareFeatureState stream operator
+// summary: Implements the ostream operator that prints human-readable labels for SoftwareFeatureState values.
+// ---
+
 #include "chromeos/ash/components/multidevice/software_feature_state.h"
 
 namespace ash::multidevice {

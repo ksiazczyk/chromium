@@ -1,3 +1,11 @@
+---
+type: readme
+title: Mojo Proxy
+summary: Describes the ChromeOS Mojo Proxy, a standalone service bridging ipcz-based Mojo with legacy Mojo Core processes, and outlines the service and mojo_core subdirectories.
+relations:
+  - references /chromeos/ash/components/mojo_proxy/service/README.md
+---
+
 # Mojo Proxy
 
 This directory hosts the ChromeOS Mojo Proxy, a standalone service which

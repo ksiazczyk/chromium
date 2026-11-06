@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NearbyApiCallFlowImpl implementation
+// summary: Implements NearbyApiCallFlowImpl, building request URLs, headers, and protobuf bodies for OAuth2-authenticated Nearby API calls.
+// ---
+
 #include "chromeos/ash/components/nearby/common/client/nearby_api_call_flow_impl.h"
 
 #include "base/strings/string_number_conversions.h"

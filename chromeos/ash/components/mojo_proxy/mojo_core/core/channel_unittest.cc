@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Channel unit tests
+// summary: Unit tests for the Mojo channel covering message creation, equality checks, and platform handle transmission via test and mock delegates.
+// ---
+
 #include "chromeos/ash/components/mojo_proxy/mojo_core/core/channel.h"
 
 #include <atomic>

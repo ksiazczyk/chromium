@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Node routing and port management implementation
+// summary: Implements the Node class that routes events between ports, manages port lifecycle, and handles proxying, merging, and closure across nodes.
+// ---
+
 #include "chromeos/ash/components/mojo_proxy/mojo_core/core/ports/node.h"
 
 #include <string.h>

@@ -1,0 +1,4 @@
+# Docerion header of multidevice_types.mojom.
+type: source
+title: Multidevice Mojom type definitions
+summary: Defines SoftwareFeature and SoftwareFeatureState enums plus BeaconSeed and RemoteDevice structs for multi-device communication.

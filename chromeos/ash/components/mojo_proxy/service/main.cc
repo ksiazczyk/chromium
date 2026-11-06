@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo Proxy executable entry point
+// summary: Entry point of the mojo_proxy executable, initializing the legacy Mojo Core clone and the MojoIpcz node and running the proxy from command-line switches.
+// ---
+
 #include <string>
 #include <utility>
 #include <vector>

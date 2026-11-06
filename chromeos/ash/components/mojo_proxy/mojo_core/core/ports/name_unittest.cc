@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for port and node names
+// summary: Tests default values, equality, ordering, and hashing behavior of the PortName and NodeName types.
+// ---
+
 #include "chromeos/ash/components/mojo_proxy/mojo_core/core/ports/name.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

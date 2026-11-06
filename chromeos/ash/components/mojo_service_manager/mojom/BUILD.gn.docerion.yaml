@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for mojo service manager Mojom bindings
+summary: Defines the GN mojom build target that generates Mojo IPC bindings for the ChromeOS mojo service manager interfaces.

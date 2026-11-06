@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mojo test base class for unit tests
+// summary: Declares the MojoTestBase test fixture with client launch helpers and message pipe utilities such as creating pipes and transferring handles between test clients.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_MOJO_PROXY_MOJO_CORE_CORE_TEST_MOJO_TEST_BASE_H_
 #define CHROMEOS_ASH_COMPONENTS_MOJO_PROXY_MOJO_CORE_CORE_TEST_MOJO_TEST_BASE_H_
 

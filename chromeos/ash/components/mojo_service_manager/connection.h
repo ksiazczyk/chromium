@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo service manager connection API
+// summary: Declares functions to bootstrap, query, reset and fake the service manager connection, plus utility process bootstrap support.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_MOJO_SERVICE_MANAGER_CONNECTION_H_
 #define CHROMEOS_ASH_COMPONENTS_MOJO_SERVICE_MANAGER_CONNECTION_H_
 

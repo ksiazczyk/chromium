@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake nearby connections manager
+// summary: Declares the FakeNearbyConnectionsManager test double with testing helpers for advertising, discovery and payload state.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_NEARBY_COMMON_CONNECTIONS_MANAGER_FAKE_NEARBY_CONNECTIONS_MANAGER_H_
 #define CHROMEOS_ASH_COMPONENTS_NEARBY_COMMON_CONNECTIONS_MANAGER_FAKE_NEARBY_CONNECTIONS_MANAGER_H_
 

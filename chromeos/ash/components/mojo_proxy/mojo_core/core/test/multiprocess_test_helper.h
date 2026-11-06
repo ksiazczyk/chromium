@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Multiprocess test helper for Mojo tests
+// summary: Declares a helper that starts child or peer processes with different launch types, connects them via Mojo invitations, and waits for their shutdown.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_MOJO_PROXY_MOJO_CORE_CORE_TEST_MULTIPROCESS_TEST_HELPER_H_
 #define CHROMEOS_ASH_COMPONENTS_MOJO_PROXY_MOJO_CORE_CORE_TEST_MULTIPROCESS_TEST_HELPER_H_
 

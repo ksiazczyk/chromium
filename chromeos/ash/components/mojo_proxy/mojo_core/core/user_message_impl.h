@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User message implementation header
+// summary: Declares UserMessageImpl, the ports::UserMessage implementation that attaches and serializes message data for wire transfer.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_MOJO_PROXY_MOJO_CORE_CORE_USER_MESSAGE_IMPL_H_
 #define CHROMEOS_ASH_COMPONENTS_MOJO_PROXY_MOJO_CORE_CORE_USER_MESSAGE_IMPL_H_
 

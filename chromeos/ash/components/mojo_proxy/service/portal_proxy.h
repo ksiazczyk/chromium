@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PortalProxy class declaration
+// summary: Declares PortalProxy, which forwards messages between a single ipcz portal and a legacy Mojo message pipe and self-destructs on disconnect.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_MOJO_PROXY_SERVICE_PORTAL_PROXY_H_
 #define CHROMEOS_ASH_COMPONENTS_MOJO_PROXY_SERVICE_PORTAL_PROXY_H_
 

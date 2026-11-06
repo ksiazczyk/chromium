@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NodeController class declaration
+// summary: Declares the NodeController class that owns ports::Node and manages connections between Mojo nodes, along with a bounded peer set helper.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_MOJO_PROXY_MOJO_CORE_CORE_NODE_CONTROLLER_H_
 #define CHROMEOS_ASH_COMPONENTS_MOJO_PROXY_MOJO_CORE_CORE_NODE_CONTROLLER_H_
 

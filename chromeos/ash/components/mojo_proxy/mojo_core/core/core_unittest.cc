@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Mojo Core class
+// summary: Unit tests covering Core system calls such as time ticks, message read and write, data pipe operations, handle closing, and invalid argument handling.
+// ---
+
 #include "chromeos/ash/components/mojo_proxy/mojo_core/core/core.h"
 
 #include <stdint.h>

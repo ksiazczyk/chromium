@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Nearby connections manager DEPS include rules
+summary: Sets allowed include rules for the directory and permits content test includes in unit test files.

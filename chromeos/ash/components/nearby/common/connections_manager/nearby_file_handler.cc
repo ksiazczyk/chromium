@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NearbyFileHandler async file IO implementation
+// summary: Implements async file operations such as opening, creating, releasing, and deleting Nearby Share file payloads on a blocking sequenced task runner.
+// ---
+
 #include "chromeos/ash/components/nearby/common/connections_manager/nearby_file_handler.h"
 
 #include "base/files/file_util.h"

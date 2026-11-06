@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedIPCSupport implementation
+// summary: Implements ScopedIPCSupport, which sets the IO task runner on construction and performs fast or clean IPC shutdown on destruction.
+// ---
+
 #include "chromeos/ash/components/mojo_proxy/mojo_core/core/embedder/scoped_ipc_support.h"
 
 #include "base/functional/bind.h"

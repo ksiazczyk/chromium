@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data pipe consumer dispatcher declaration
+// summary: Declares the thread-safe consumer dispatcher for data pipes created with MojoCreateDataPipe, including read operations, signals, and serialization hooks.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_MOJO_PROXY_MOJO_CORE_CORE_DATA_PIPE_CONSUMER_DISPATCHER_H_
 #define CHROMEOS_ASH_COMPONENTS_MOJO_PROXY_MOJO_CORE_CORE_DATA_PIPE_CONSUMER_DISPATCHER_H_
 

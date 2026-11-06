@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the frozen legacy Mojo Core clone
+summary: GN build file defining the buildflag headers and source sets that make up the frozen legacy Mojo Core clone, including the core, public C/C++ system, and unittest targets.

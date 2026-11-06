@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Broker POSIX implementation
+// summary: Implements the Broker on POSIX systems, sending synchronous shared buffer requests and waiting for broker messages over a socket.
+// ---
+
 #include "chromeos/ash/components/mojo_proxy/mojo_core/core/broker.h"
 
 #include <fcntl.h>

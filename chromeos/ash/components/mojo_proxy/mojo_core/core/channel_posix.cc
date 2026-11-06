@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChannelPosix implementation
+// summary: Implements the POSIX socket-based Mojo IPC channel with message queuing, platform handle passing, and IO-thread read/write watchers.
+// ---
+
 #include "chromeos/ash/components/mojo_proxy/mojo_core/core/channel_posix.h"
 
 #include <errno.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SecureMessageDelegate base implementation
+// summary: Defines the SecureMessageDelegate constructor, destructor, and default constructors for the CreateOptions and UnwrapOptions structs.
+// ---
+
 #include "chromeos/ash/components/multidevice/secure_message_delegate.h"
 
 namespace ash::multidevice {

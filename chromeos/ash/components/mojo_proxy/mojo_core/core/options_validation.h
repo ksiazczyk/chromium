@@ -8,6 +8,12 @@
 // but any |flags| specified must be known to the system (otherwise, an error of
 // |MOJO_LEGACY_RESULT_UNIMPLEMENTED| should be returned).
 
+// ---docerion
+// type: source
+// title: Options struct validation helpers
+// summary: Provides UserOptionsReader and a helper macro to validate extensible Mojo options structs from the public C API.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_MOJO_PROXY_MOJO_CORE_CORE_OPTIONS_VALIDATION_H_
 #define CHROMEOS_ASH_COMPONENTS_MOJO_PROXY_MOJO_CORE_CORE_OPTIONS_VALIDATION_H_
 

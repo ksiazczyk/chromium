@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build file for the nearby common component
+summary: Defines the nearby_common component aggregating the client, connections_manager and scheduling subdirectories, plus a unit_tests source set pulling in their test targets.

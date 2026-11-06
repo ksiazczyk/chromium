@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Nearby Expiration Scheduler unit tests
+// summary: Unit tests verifying expiration-based request timing, rescheduling after expiration changes, and behavior with a null expiration time.
+// ---
+
 #include "chromeos/ash/components/nearby/common/scheduling/nearby_expiration_scheduler.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data pipe control message sender
+// summary: Sends control messages over a data pipe control port to notify the peer that data was written or consumed between producer and consumer.
+// ---
+
 #include "chromeos/ash/components/mojo_proxy/mojo_core/core/data_pipe_control_message.h"
 
 #include "base/logging.h"

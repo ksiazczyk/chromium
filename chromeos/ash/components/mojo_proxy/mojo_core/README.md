@@ -1,3 +1,11 @@
+---
+type: readme
+title: Legacy Mojo Core
+summary: Explains that the directory holds a frozen, self-contained copy of legacy pre-ipcz Mojo Core for the ChromeOS Mojo Proxy, mirroring //mojo layout and using mojo_legacy names to avoid symbol collisions.
+relations:
+  - relates_to /chromeos/ash/components/mojo_proxy/README.md
+---
+
 # Legacy Mojo Core
 
 This directory contains a frozen, self-contained copy of the legacy

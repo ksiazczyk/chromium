@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for NearbyApiCallFlowImpl
+// summary: Unit tests that verify the POST, PATCH, and GET request flows of NearbyApiCallFlowImpl using a test URL loader factory.
+// ---
+
 #include "chromeos/ash/components/nearby/common/client/nearby_api_call_flow_impl.h"
 
 #include <memory>

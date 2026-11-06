@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Platform handle wrapping unit tests
+// summary: Unit tests for wrapping and unwrapping platform file and shared buffer handles across message pipes, covering platform-specific handle types on Windows, POSIX, Apple and Fuchsia.
+// ---
+
 #include <stdint.h>
 #include <string.h>
 

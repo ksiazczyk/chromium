@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User message implementation
+// summary: Implements UserMessageImpl, serializing and deserializing message payloads and attached dispatchers for Mojo message pipes.
+// ---
+
 #include "chromeos/ash/components/mojo_proxy/mojo_core/core/user_message_impl.h"
 
 #include <algorithm>

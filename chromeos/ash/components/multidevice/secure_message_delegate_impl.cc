@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SecureMessageDelegateImpl implementation
+// summary: Implements SecureMessageDelegate by forwarding cryptographic operations to the EasyUnlock D-Bus client, including scheme conversion and a test factory.
+// ---
+
 #include "chromeos/ash/components/multidevice/secure_message_delegate_impl.h"
 
 #include "base/functional/bind.h"

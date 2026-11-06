@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake nearby connection
+// summary: Declares the FakeNearbyConnection test double used to exercise code built on the NearbyConnection interface.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_NEARBY_COMMON_CONNECTIONS_MANAGER_FAKE_NEARBY_CONNECTION_H_
 #define CHROMEOS_ASH_COMPONENTS_NEARBY_COMMON_CONNECTIONS_MANAGER_FAKE_NEARBY_CONNECTION_H_
 

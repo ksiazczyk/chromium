@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Nearby Scheduler factory implementation
+// summary: Creates FakeNearbyScheduler instances for expiration, on-demand, and periodic requests while recording the factory parameters per pref name.
+// ---
+
 #include "chromeos/ash/components/nearby/common/scheduling/fake_nearby_scheduler_factory.h"
 
 #include <utility>

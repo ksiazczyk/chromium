@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConnectionParams class declaration
+// summary: Declares ConnectionParams, which carries a platform channel endpoint plus async, untrusted-process, and leak-endpoint flags for connections.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_MOJO_PROXY_MOJO_CORE_CORE_CONNECTION_PARAMS_H_
 #define CHROMEOS_ASH_COMPONENTS_MOJO_PROXY_MOJO_CORE_CORE_CONNECTION_PARAMS_H_
 

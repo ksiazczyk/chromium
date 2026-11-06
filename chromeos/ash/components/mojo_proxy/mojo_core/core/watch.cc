@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Watch implementation
+// summary: Implements the Watch class, tracking watch state and dispatching trap notifications in response to signal changes.
+// ---
+
 #include "chromeos/ash/components/mojo_proxy/mojo_core/core/watch.h"
 
 #include "chromeos/ash/components/mojo_proxy/mojo_core/core/request_context.h"

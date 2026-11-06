@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NearbyConnectionsManager status string conversion implementation
+// summary: Implements ConnectionsStatusToString for Nearby Connections status enums and the base PayloadStatusListener with weak-pointer support.
+// ---
+
 #include "chromeos/ash/components/nearby/common/connections_manager/nearby_connections_manager.h"
 
 // static

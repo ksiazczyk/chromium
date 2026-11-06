@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared buffer dispatcher implementation
+// summary: Implements the SharedBufferDispatcher that creates, duplicates, maps, serializes and transfers shared memory buffers in Mojo core, enforcing configuration limits and option validation.
+// ---
+
 #include "chromeos/ash/components/mojo_proxy/mojo_core/core/shared_buffer_dispatcher.h"
 
 #include <stddef.h>

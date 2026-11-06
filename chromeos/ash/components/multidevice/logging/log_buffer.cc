@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LogBuffer implementation
+// summary: Implements the thread-safe singleton log buffer that stores up to 1000 multidevice log messages in FIFO order and notifies observers.
+// ---
+
 #include "chromeos/ash/components/multidevice/logging/log_buffer.h"
 
 #include "base/no_destructor.h"

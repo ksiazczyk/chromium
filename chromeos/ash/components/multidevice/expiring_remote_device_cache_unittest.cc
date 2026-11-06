@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ExpiringRemoteDeviceCache
+// summary: Verifies that removed devices are invalidated, can be added back, and that single-device updates do not expire other entries.
+// ---
+
 #include "chromeos/ash/components/multidevice/expiring_remote_device_cache.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for NearbyConnectionsManagerImpl
+// summary: Unit tests covering advertising, discovery, connections, payload transfers, and file handling behavior of NearbyConnectionsManagerImpl.
+// ---
+
 #include "chromeos/ash/components/nearby/common/connections_manager/nearby_connections_manager_impl.h"
 
 #include <algorithm>

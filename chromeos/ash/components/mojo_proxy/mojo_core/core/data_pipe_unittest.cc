@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Data pipe unit tests
+// summary: Unit tests for the Mojo data pipe API covering creation options, read and write operations, two-phase data access, and multiprocess data transfer.
+// ---
+
 #include "chromeos/ash/components/mojo_proxy/mojo_core/public/c/system/data_pipe.h"
 
 #include <stddef.h>

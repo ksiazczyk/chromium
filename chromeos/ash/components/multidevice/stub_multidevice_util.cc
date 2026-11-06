@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stub multidevice utility implementation
+// summary: Implements factory functions that build fake host phone and client computer RemoteDevice objects with predefined features and beacon seeds, plus logic for when stubs should be used.
+// ---
+
 #include "chromeos/ash/components/multidevice/stub_multidevice_util.h"
 
 #include <map>

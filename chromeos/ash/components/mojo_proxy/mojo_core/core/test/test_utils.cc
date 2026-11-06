@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Platform handle and FILE conversion utilities
+// summary: Implements conversions between scoped FILE handles and Mojo platform handles used by Mojo tests.
+// ---
+
 #include "chromeos/ash/components/mojo_proxy/mojo_core/core/test/test_utils.h"
 
 #include <fcntl.h>

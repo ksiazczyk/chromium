@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System impl export macros
+// summary: Header defining the MOJO_LEGACY_SYSTEM_IMPL_EXPORT macro for symbol visibility in shared library and component builds.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_MOJO_PROXY_MOJO_CORE_CORE_SYSTEM_IMPL_EXPORT_H_
 #define CHROMEOS_ASH_COMPONENTS_MOJO_PROXY_MOJO_CORE_CORE_SYSTEM_IMPL_EXPORT_H_
 

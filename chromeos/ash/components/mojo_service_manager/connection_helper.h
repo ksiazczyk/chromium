@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Connection helper declaration
+// summary: Declares CreateConnectionAndPassCloser, which connects to the mojo service manager and returns a scoped closure to close the connection.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_MOJO_SERVICE_MANAGER_CONNECTION_HELPER_H_
 #define CHROMEOS_ASH_COMPONENTS_MOJO_SERVICE_MANAGER_CONNECTION_HELPER_H_
 

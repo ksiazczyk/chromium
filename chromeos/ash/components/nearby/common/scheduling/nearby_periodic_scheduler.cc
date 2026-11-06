@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NearbyPeriodicScheduler implementation
+// summary: Implements periodic scheduling that runs a first-time request immediately and repeats at fixed intervals after the last success.
+// ---
+
 #include "chromeos/ash/components/nearby/common/scheduling/nearby_periodic_scheduler.h"
 
 #include <algorithm>

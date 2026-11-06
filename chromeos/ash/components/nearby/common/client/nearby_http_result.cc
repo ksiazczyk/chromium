@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby HTTP result and error helpers
+// summary: Maps HTTP response codes to NearbyHttpError values and implements NearbyHttpStatus for classifying outcomes and reporting metrics.
+// ---
+
 #include "chromeos/ash/components/nearby/common/client/nearby_http_result.h"
 
 #include "net/base/net_errors.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake nearby connections manager
+// summary: Test implementation of NearbyConnectionsManager that records advertising, discovery, connections and payloads for tests.
+// ---
+
 #include "chromeos/ash/components/nearby/common/connections_manager/fake_nearby_connections_manager.h"
 
 #include "base/containers/map_util.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserMessage implementation
+// summary: Implements UserMessage basics, storing type info and providing default behavior for external routing and serialized size.
+// ---
+
 #include "chromeos/ash/components/mojo_proxy/mojo_core/core/ports/user_message.h"
 
 namespace mojo_legacy {

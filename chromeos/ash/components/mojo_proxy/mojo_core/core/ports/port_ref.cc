@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PortRef implementation
+// summary: Implements PortRef constructors, destructors, and assignment operators that pair a port name with a referenced Port.
+// ---
+
 #include "chromeos/ash/components/mojo_proxy/mojo_core/core/ports/port_ref.h"
 
 #include "chromeos/ash/components/mojo_proxy/mojo_core/core/ports/port.h"

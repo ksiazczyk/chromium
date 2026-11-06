@@ -1,0 +1,4 @@
+# Docerion header of migrate_legacy_mojo_core.py.
+type: script
+title: Legacy Mojo Core migration tool for mojo_proxy
+summary: Python script that copies the legacy pre-ipcz Mojo Core implementation and tests from //mojo into //chromeos/ash/components/mojo_proxy/mojo_core and rewrites includes, namespaces, macros and C API declarations.

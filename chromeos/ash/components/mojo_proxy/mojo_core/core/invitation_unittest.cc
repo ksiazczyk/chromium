@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Invitation unit tests
+// summary: Unit tests for sending and accepting Mojo invitations across processes, including primordial pipes and process error handling.
+// ---
+
 #include "chromeos/ash/components/mojo_proxy/mojo_core/public/c/system/invitation.h"
 
 #include <cstdint>

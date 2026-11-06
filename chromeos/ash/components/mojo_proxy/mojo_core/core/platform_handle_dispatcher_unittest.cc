@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PlatformHandleDispatcher unit tests
+// summary: Unit tests covering basic platform handle wrapping, extraction, and serialization round-trips using temporary files.
+// ---
+
 #include "chromeos/ash/components/mojo_proxy/mojo_core/core/platform_handle_dispatcher.h"
 
 #include <stdio.h>

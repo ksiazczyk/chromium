@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote device implementation
+// summary: Implements RemoteDevice, including device ID generation from the public key plus equality and ordering comparison operators.
+// ---
+
 #include "chromeos/ash/components/multidevice/remote_device.h"
 
 #include "base/base64.h"

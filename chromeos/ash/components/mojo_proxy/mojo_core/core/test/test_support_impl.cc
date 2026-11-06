@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mojo test support implementation
+// summary: Implements the Mojo test support interface with performance result logging plus source-root-relative file opening and directory enumeration.
+// ---
+
 #include "chromeos/ash/components/mojo_proxy/mojo_core/core/test/test_support_impl.h"
 
 #include <stddef.h>

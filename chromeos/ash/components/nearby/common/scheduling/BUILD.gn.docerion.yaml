@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Nearby scheduling GN build targets
+summary: Defines the scheduling, test_support, and unit_tests source sets with their sources and dependencies for the Nearby scheduling component.

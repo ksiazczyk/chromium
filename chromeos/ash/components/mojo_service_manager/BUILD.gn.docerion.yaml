@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Mojo service manager GN build targets
+summary: Defines the GN targets for the mojo service manager component, its fake implementation and test support, with ChromeOS-only assertions.

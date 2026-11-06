@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for mojo service manager
+summary: Allows this directory to include cros_healthd public C++ helpers and content public switches headers.

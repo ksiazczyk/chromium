@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedIPCSupport class and shutdown policy documentation
+// summary: Declares ScopedIPCSupport and its ShutdownPolicy, explaining when fast versus clean IPC shutdown is safe for processes that proxy message pipe endpoints.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_MOJO_PROXY_MOJO_CORE_CORE_EMBEDDER_SCOPED_IPC_SUPPORT_H_
 #define CHROMEOS_ASH_COMPONENTS_MOJO_PROXY_MOJO_CORE_CORE_EMBEDDER_SCOPED_IPC_SUPPORT_H_
 
