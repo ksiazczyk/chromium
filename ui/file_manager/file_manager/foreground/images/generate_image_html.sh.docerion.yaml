@@ -1,0 +1,4 @@
+# Docerion header of generate_image_html.sh.
+type: script
+title: Shell script to generate an HTML gallery of PNG and SVG images
+summary: Bash script that scans the current directory tree for PNG and SVG images and outputs an HTML page displaying them grouped by sub-directory.

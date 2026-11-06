@@ -1,1 +1,7 @@
+<!--docerion
+type: asset
+title: Select dropdown icon
+summary: SVG chevron-down icon in gray, used as the dropdown arrow for select controls in the Files app UI.
+-->
+
 <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="none"><path fill="#5F6368" fill-rule="evenodd" d="m6 8 4 4 4-4H6Z" clip-rule="evenodd"/></svg>

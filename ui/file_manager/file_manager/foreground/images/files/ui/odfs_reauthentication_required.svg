@@ -1,3 +1,9 @@
+<!--docerion
+type: asset
+title: ODFS reauthentication required illustration
+summary: Illustration for the ODFS reauthentication required state, featuring a lock and key elements using cros-sys color variables.
+-->
+
 <svg id="odfs_reauthentication_required" xmlns="http://www.w3.org/2000/svg" x="0" y="0" viewBox="0 0 200 100" xml:space="preserve" fill="none">
 <path d="M123.7 57.3004C123.7 49.8004 119.4 43.2004 113.2 39.9004C104 41.6004 97 49.6004 97 59.2004V92.7004H123.6L123.7 57.3004Z" fill="var(--cros-sys-illo-color1)" />
 <path d="M105.9 76.6996C107.5 74.6996 107.2 71.6996 105.2 70.0996L105.1 69.9997L96.1001 62.9997C94.0001 61.3997 90.9001 61.7997 89.3001 63.8997C87.7001 65.9997 88.0001 68.9996 90.1001 70.6996C90.1001 70.6996 90.1001 70.6997 90.2001 70.7997L99.2001 77.6996C101.2 79.2996 104.2 78.9997 105.8 76.9997C105.8 76.7996 105.8 76.7996 105.9 76.6996Z" fill="var(--cros-sys-illo-color1-2)" />
