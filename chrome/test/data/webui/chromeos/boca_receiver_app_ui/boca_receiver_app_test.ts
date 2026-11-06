@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Boca Receiver app WebUI tests
+// summary: Mocha tests for the Boca Receiver app client API, using a fake browser proxy to verify receiver info, errors, received frames, connecting and connection closed events.
+// ---
+
 import type {ClientApi} from 'chrome-untrusted://class-tools-remote-display/app/boca_receiver_app.js';
 import {BrowserProxyImpl} from 'chrome-untrusted://class-tools-remote-display/app/browser_proxy.js';
 import type {BrowserProxy} from 'chrome-untrusted://class-tools-remote-display/app/browser_proxy.js';

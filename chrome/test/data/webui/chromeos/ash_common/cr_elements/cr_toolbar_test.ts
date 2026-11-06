@@ -4,6 +4,12 @@
 
 /** @fileoverview Suite of tests for cr-toolbar. */
 
+// ---docerion
+// type: test
+// title: cr-toolbar element tests
+// summary: WebUI test suite for cr-toolbar verifying the always-show-logo behavior in narrow mode and custom product logo slot rendering.
+// ---
+
 // clang-format off
 import 'chrome://resources/ash/common/cr_elements/cr_toolbar/cr_toolbar.js';
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Connectivity card tests
+// summary: WebUI test suite for the connectivity card, covering network routines and data display for cellular, ethernet and Wi-Fi using fake network health and routine controllers.
+// ---
+
 import 'chrome://diagnostics/connectivity_card.js';
 import 'chrome://webui-test/chromeos/mojo_webui_test_support.js';
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for cloud upload WebUI tests
+summary: GN build file that assembles the C++ browser tests, TypeScript test files and path mappings for the cloud upload WebUI test target.

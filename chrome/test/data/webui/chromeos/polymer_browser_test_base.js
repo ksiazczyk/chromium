@@ -6,6 +6,12 @@
  * @fileoverview Framework for running JavaScript tests of Polymer elements.
  */
 
+// ---docerion
+// type: test
+// title: Polymer browser test base fixture
+// summary: Base test fixture for running JavaScript tests of Polymer elements, providing a preload WebUI and a body clearing helper.
+// ---
+
 /**
  * Test fixture for Polymer element testing.
  * @constructor

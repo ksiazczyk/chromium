@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bookmark item tests
+// summary: Tests the bookmarks item element, including favicon updates, folder icon switching, selection via menu and mouse events, and account upload icon visibility.
+// ---
+
 import type {BookmarkNode, BookmarksItemElement} from 'chrome://bookmarks/bookmarks.js';
 import {BrowserProxyImpl, selectItem} from 'chrome://bookmarks/bookmarks.js';
 import {webUIListenerCallback} from 'chrome://resources/js/cr.js';

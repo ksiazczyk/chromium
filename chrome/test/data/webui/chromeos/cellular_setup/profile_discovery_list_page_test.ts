@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Profile discovery list page WebUI tests
+// summary: Tests the eSIM profile discovery list page, including showing the carrier lock warning depending on the cellular device state.
+// ---
+
 import 'chrome://os-settings/strings.m.js';
 import 'chrome://resources/ash/common/cellular_setup/esim_flow_ui.js';
 import 'chrome://resources/ash/common/cellular_setup/profile_discovery_list_page.js';

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build config for ChromeOS Bluetooth WebUI tests
+summary: Defines the GN build target that compiles the ChromeOS Bluetooth WebUI test suites together with their fake implementations, TypeScript path mappings and dependencies.

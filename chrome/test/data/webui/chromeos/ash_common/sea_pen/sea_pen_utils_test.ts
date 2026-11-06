@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sea Pen utilities unit tests
+// summary: Mocha tests validating the Sea Pen helper functions isImageDataUrl, isNonEmptyFilePath and isUrl against valid and invalid inputs.
+// ---
+
 import {isImageDataUrl, isNonEmptyFilePath, isUrl} from 'chrome://resources/ash/common/sea_pen/sea_pen_utils.js';
 import {assertFalse, assertTrue} from 'chrome://webui-test/chai_assert.js';
 

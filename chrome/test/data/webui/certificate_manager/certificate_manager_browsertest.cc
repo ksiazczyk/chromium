@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Certificate manager WebUI Mocha browser test runner
+// summary: C++ browser test harness that loads the certificate manager WebUI page and runs its Mocha test suites, including a ChromeOS-only provisioning suite.
+// ---
+
 #include "chrome/common/webui_url_constants.h"
 #include "chrome/test/base/web_ui_mocha_browser_test.h"
 #include "content/public/test/browser_test.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bluetooth pairing request code page WebUI tests
+// summary: Test suite checking the request code page message, PIN input length limit, pair button states and initial input focus for the request-pin-code auth type.
+// ---
+
 import 'chrome://bluetooth-pairing/strings.m.js';
 import 'chrome://resources/ash/common/bluetooth/bluetooth_pairing_request_code_page.js';
 

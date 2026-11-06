@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: cr-tabs element tests
+// summary: WebUI test suite verifying cr-tabs selection, keyboard navigation with wrapping, aria-selected and tabindex attributes, and optional tab icons.
+// ---
+
 // clang-format off
 import 'chrome://resources/ash/common/cr_elements/cr_tabs/cr_tabs.js';
 

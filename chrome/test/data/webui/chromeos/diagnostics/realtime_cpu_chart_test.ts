@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Realtime CPU chart tests
+// summary: Tests for the realtime CPU chart element covering legend values, chart area boundaries, padding and plot initialization.
+// ---
+
 import 'chrome://diagnostics/realtime_cpu_chart.js';
 import 'chrome://webui-test/chromeos/mojo_webui_test_support.js';
 

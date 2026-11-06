@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebUI tests for the browser actuator internals app
+// summary: Mocha tests that verify the browser actuator internals app renders session cards, active and closed badges, message counts and event details from session history.
+// ---
+
 import 'chrome://browser-actuator-internals/app.js';
 
 import type {BrowserActuatorInternalsAppElement} from 'chrome://browser-actuator-internals/app.js';

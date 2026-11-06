@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Color internals WebUI test suite
+// summary: TypeScript mocha suite verifying the color internals page origin, its token table population, and the displayed wallpaper colors.
+// ---
+
 import 'chrome://webui-test/chromeos/mojo_webui_test_support.js';
 
 import {assert} from 'chrome://resources/js/assert.js';

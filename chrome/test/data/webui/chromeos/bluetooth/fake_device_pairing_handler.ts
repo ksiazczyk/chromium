@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake device pairing handler test double
+// summary: Implements a fake DevicePairingHandler that simulates pairing requests and authentication types such as PIN, passkey and confirmation for Bluetooth WebUI tests.
+// ---
+
 import {assert} from 'chrome://resources/ash/common/assert.js';
 import {PairingAuthType} from 'chrome://resources/ash/common/bluetooth/bluetooth_types.js';
 import {assertNotReachedCase} from 'chrome://resources/js/assert.js';

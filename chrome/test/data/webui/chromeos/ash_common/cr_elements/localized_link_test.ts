@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Localized link element tests
+// summary: WebUI test suite for the localized-link element, checking rendering of localized strings with links, link placement, hrefs, and click handling.
+// ---
+
 import '//resources/ash/common/cr_elements/localized_link/localized_link.js';
 
 import type {LocalizedLinkElement} from '//resources/ash/common/cr_elements/localized_link/localized_link.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for the cr-checkbox element
+// summary: Tests toggling by mouse, keyboard and attribute changes, disabled behavior and ARIA state of the cr-checkbox element.
+// ---
+
 // clang-format off
 import 'chrome://resources/ash/common/cr_elements/cr_checkbox/cr_checkbox.js';
 

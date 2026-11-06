@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: pSIM flow UI WebUI tests
+// summary: Exercises the pSIM setup flow, verifying page transitions, activation results, timeouts, and success and failure metrics.
+// ---
+
 import 'chrome://os-settings/strings.m.js';
 import 'chrome://resources/ash/common/cellular_setup/psim_flow_ui.js';
 

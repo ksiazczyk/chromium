@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for the cr-a11y-announcer element
+// summary: Mocha tests verifying singleton creation, message queueing, cleanup on disconnect and custom event dispatch of the cr-a11y-announcer element.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_a11y_announcer/cr_a11y_announcer.js';
 
 import {getInstance, TIMEOUT_MS} from 'chrome://resources/ash/common/cr_elements/cr_a11y_announcer/cr_a11y_announcer.js';

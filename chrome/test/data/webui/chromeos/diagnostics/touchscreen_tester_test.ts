@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Touchscreen tester element tests
+// summary: Web UI test suite covering the touchscreen tester's intro and canvas dialogs and the drawing of touch trails via mocked drawing provider calls.
+// ---
+
 import 'chrome://diagnostics/touchscreen_tester.js';
 import 'chrome://webui-test/chromeos/mojo_webui_test_support.js';
 

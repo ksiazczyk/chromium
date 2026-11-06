@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Sea Pen WebUI tests build definition
+summary: GN build configuration that assembles the Sea Pen WebUI mocha tests, listing the C++ browser test and TypeScript test files with their dependencies.

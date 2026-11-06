@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser test harness for bookmarks WebUI mocha tests
+// summary: C++ browser test harness that runs the bookmarks WebUI mocha suites, including extension API tests with managed bookmarks and disabled editing.
+// ---
+
 #include <memory>
 #include <utility>
 

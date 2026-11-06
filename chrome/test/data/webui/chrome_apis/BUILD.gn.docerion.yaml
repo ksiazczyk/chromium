@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for chrome_apis WebUI tests
+summary: Defines the GN build target that compiles the chrome_apis WebUI browser tests and TypeScript tests together with their TypeScript definition files.

@@ -4,6 +4,12 @@
 
 // These test suites test the certificate-manager v2 component.
 
+// ---docerion
+// type: test
+// title: Certificate manager v2 component tests
+// summary: Tests the certificate-manager v2 component, covering platform-specific sections, admin certs navigation, and certificate management metadata display.
+// ---
+
 import 'chrome://certificate-manager/certificate_manager.js';
 
 import type {CertificateManagerElement} from 'chrome://certificate-manager/certificate_manager.js';

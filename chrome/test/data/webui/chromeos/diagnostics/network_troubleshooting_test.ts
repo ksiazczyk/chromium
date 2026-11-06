@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network troubleshooting tests
+// summary: Tests the network troubleshooting element, verifying the displayed header and link text and that the link is hidden when the user is not logged in.
+// ---
+
 import 'chrome://diagnostics/strings.m.js';
 import 'chrome://webui-test/chromeos/mojo_webui_test_support.js';
 import 'chrome://diagnostics/network_troubleshooting.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: chrome.requestPresentationTime WebUI browser test
+// summary: Browser test that runs the chrome.requestPresentationTime WebUI tests and checks the API resolves with timestamps when visible and null while the page is hidden.
+// ---
+
 #include "base/strings/strcat.h"
 #include "chrome/common/webui_url_constants.h"
 #include "chrome/test/base/chrome_test_utils.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Input card tests
+// summary: Tests the diagnostics input card element, covering keyboard and touch device display and tester interactions using fake input data providers.
+// ---
+
 import 'chrome://diagnostics/strings.m.js';
 import 'chrome://webui-test/chromeos/mojo_webui_test_support.js';
 

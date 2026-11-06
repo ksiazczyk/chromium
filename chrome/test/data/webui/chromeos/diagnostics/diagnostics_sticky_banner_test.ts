@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Diagnostics sticky banner tests
+// summary: WebUI tests for the diagnostics sticky banner element, covering visibility, banner messages, and show, dismiss, and scroll event handling.
+// ---
+
 import 'chrome://webui-test/chromeos/mojo_webui_test_support.js';
 import 'chrome://diagnostics/diagnostics_sticky_banner.js';
 

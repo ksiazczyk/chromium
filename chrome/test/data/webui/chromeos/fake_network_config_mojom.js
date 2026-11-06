@@ -6,6 +6,12 @@
  * @fileoverview Fake implementation of CrosNetworkConfig for testing.
  */
 
+// ---docerion
+// type: test
+// title: Fake CrosNetworkConfig for tests
+// summary: Fake implementation of the CrosNetworkConfig Mojo interface simulating network devices, states, and policies for ChromeOS WebUI tests.
+// ---
+
 import {assert, assertNotReached} from 'chrome://resources/ash/common/assert.js';
 import {OncMojo} from 'chrome://resources/ash/common/network/onc_mojo.js';
 import {PromiseResolver} from 'chrome://resources/ash/common/promise_resolver.js';

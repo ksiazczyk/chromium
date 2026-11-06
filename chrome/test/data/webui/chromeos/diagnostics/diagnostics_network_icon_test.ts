@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Diagnostics network icon tests
+// summary: WebUI test suite verifying the network icon element renders correct icons and states for ethernet, cellular and Wi-Fi networks, including connecting, roaming and secure indicators.
+// ---
+
 import 'chrome://webui-test/chromeos/mojo_webui_test_support.js';
 
 import type {DiagnosticsNetworkIconElement} from 'chrome://diagnostics/diagnostics_network_icon.js';

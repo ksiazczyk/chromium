@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Account migration welcome UI mocha tests
+// summary: Mocha tests verifying the account migration welcome dialog's cancel and migrate button behavior using a fake browser proxy.
+// ---
+
 import 'chrome://account-migration-welcome/account_migration_welcome_app.js';
 
 import {AccountManagerBrowserProxyImpl} from 'chrome://account-migration-welcome/account_manager_browser_proxy.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for the certificate-entry WebUI element
+// summary: Verifies the certificate-entry element's hash display, view and edit icons, and delete behavior using a test browser proxy.
+// ---
+
 import 'chrome://certificate-manager/certificate_entry.js';
 
 import type {CertificateEntryElement} from 'chrome://certificate-manager/certificate_entry.js';

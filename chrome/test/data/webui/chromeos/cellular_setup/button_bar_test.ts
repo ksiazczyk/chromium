@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Button bar tests
+// summary: WebUI tests for the cellular setup button bar, verifying cancel and forward button visibility, enabled state and default focus behavior.
+// ---
+
 import 'chrome://os-settings/strings.m.js';
 import 'chrome://resources/ash/common/cellular_setup/button_bar.js';
 

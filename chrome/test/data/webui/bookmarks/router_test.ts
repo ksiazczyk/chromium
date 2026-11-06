@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bookmarks router tests
+// summary: Tests URL routing in the bookmarks WebUI, checking that search terms and selected folders stay in sync with the route.
+// ---
+
 import type {BookmarksAppElement, SelectFolderAction, StartSearchAction} from 'chrome://bookmarks/bookmarks.js';
 import {BookmarksApiProxyImpl, BookmarksRouter, BrowserProxyImpl, CrRouter, getDisplayedList, PermanentFolderType, Store} from 'chrome://bookmarks/bookmarks.js';
 import {assertDeepEquals, assertEquals} from 'chrome://webui-test/chai_assert.js';

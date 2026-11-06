@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake eSIM manager remote for cellular setup tests
+// summary: Provides fake eSIM manager, euicc, and profile Mojo remotes with controllable install and operation results for cellular setup WebUI tests.
+// ---
+
 import type {ESimManagerInterface, ESimManagerObserverInterface, ESimProfileInterface, ESimProfileProperties, ESimProfileRemote, EuiccInterface, EuiccProperties, EuiccRemote, ProfileInstallMethod, QRCode} from 'chrome://resources/mojo/chromeos/ash/services/cellular_setup/public/mojom/esim_manager.mojom-webui.js';
 import {ESimOperationResult, ProfileInstallResult, ProfileState} from 'chrome://resources/mojo/chromeos/ash/services/cellular_setup/public/mojom/esim_manager.mojom-webui.js';
 

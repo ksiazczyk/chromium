@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Async WebUI test helper functions
+// summary: Provides helper functions that run asynchronous WebUI tests and report pass or fail results back to the C++ browser test handler.
+// ---
+
 /**
  * Fails always.
  * @throw {Error}

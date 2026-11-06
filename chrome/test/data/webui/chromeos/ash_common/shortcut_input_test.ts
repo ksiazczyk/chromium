@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ShortcutInput element WebUI tests
+// summary: Mocha tests for the shortcut-input element, checking key capture state, modifier and meta key display, and separator rendering.
+// ---
+
 import 'chrome://resources/ash/common/shortcut_input_ui/shortcut_input.js';
 
 import {loadTimeData} from 'chrome://resources/ash/common/load_time_data.m.js';

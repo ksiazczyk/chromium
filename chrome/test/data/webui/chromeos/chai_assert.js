@@ -4,6 +4,12 @@
 
 /** @fileoverview Assertion helper functions wrapping the chaijs API. */
 
+// ---docerion
+// type: test
+// title: Chai-wrapping assertion helpers for WebUI tests
+// summary: Exports assertion helpers such as assertTrue and assertEquals that wrap the chaijs API for use in WebUI browser tests.
+// ---
+
 import {assert, expect} from '../chai.js';
 
 /**

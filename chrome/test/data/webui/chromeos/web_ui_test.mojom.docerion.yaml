@@ -1,0 +1,4 @@
+# Docerion header of web_ui_test.mojom.
+type: test
+title: TestRunner Mojom interface for WebUI tests
+summary: Mojom interface defining a TestRunner whose TestComplete method reports test completion and failure messages to the browser-side test harness.

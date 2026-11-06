@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Percent bar chart tests
+// summary: Tests for the percent bar chart element, verifying header, value and max rendering and clamping of values above the maximum.
+// ---
+
 import 'chrome://diagnostics/percent_bar_chart.js';
 import 'chrome://webui-test/chromeos/mojo_webui_test_support.js';
 

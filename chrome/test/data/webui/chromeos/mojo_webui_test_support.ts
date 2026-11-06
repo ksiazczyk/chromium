@@ -7,6 +7,12 @@
  * "mojo_webui" to have proper support in test_api.js.
  */
 
+// ---docerion
+// type: test
+// title: Mojo WebUI test support helper
+// summary: Helper module loaded by mojo_webui tests to report test results through the TestRunner Mojo interface.
+// ---
+
 import {TestRunner} from './web_ui_test.mojom-webui.js';
 
 /**

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Browser actuator internals WebUI tests build definition
+summary: Defines the build_webui_tests target that compiles the browser actuator internals WebUI mocha tests with their TypeScript files, path mappings and dependencies.

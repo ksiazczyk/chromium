@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test certificate provisioning browser proxy
+// summary: Provides a test double of the certificate provisioning browser proxy that records method calls so tests can verify provisioning refresh, update, and reset actions.
+// ---
+
 import type {CertificateProvisioningBrowserProxy} from 'chrome://certificate-manager/certificate_provisioning_browser_proxy.js';
 import {TestBrowserProxy} from 'chrome://webui-test/test_browser_proxy.js';
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shortcut input key tests
+// summary: Tests the shortcut-input-key element rendering basic keys, icon keys, aria labels, and meta key launcher icons.
+// ---
+
 import 'chrome://resources/ash/common/shortcut_input_ui/shortcut_input_key.js';
 
 import type {IronIconElement} from '//resources/polymer/v3_0/iron-icon/iron-icon.js';

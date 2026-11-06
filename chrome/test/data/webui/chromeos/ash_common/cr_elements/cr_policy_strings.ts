@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Policy indicator test strings
+// summary: Exports the strings used by policy indicator elements when running WebUI tests.
+// ---
+
 import type {CrPolicyStringsType} from 'chrome://resources/ash/common/cr_elements/policy/cr_policy_indicator_mixin.js';
 
 /** @fileoverview Sets up strings used by policy indicator elements. */

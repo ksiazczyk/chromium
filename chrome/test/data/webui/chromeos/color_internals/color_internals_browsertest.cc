@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Color internals WebUI mocha browser test
+// summary: Browser test that loads the color internals WebUI and runs its mocha test suite through the WebUI mocha browser test framework.
+// ---
+
 #include "ash/webui/color_internals/url_constants.h"
 #include "chrome/test/base/web_ui_mocha_browser_test.h"
 #include "content/public/test/browser_test.h"

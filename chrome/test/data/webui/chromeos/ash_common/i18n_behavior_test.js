@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: I18nBehavior unit tests
+// summary: Tests I18nBehavior string translation, sanitization of unsafe HTML, advanced attribute and tag handling, and loadTimeData lookups.
+// ---
+
 import {I18nBehavior} from 'chrome://resources/ash/common/i18n_behavior.js';
 import {assertEquals, assertFalse, assertThrows, assertTrue} from 'chrome://webui-test/chai_assert.js';
 

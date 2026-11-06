@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cloud upload move confirmation page WebUI tests
+// summary: WebUI unit tests for the move-confirmation-page element, verifying move and copy flows to OneDrive and Google Drive using a test browser proxy.
+// ---
+
 import 'chrome://cloud-upload/move_confirmation_page.js';
 
 import {OperationType, UserAction} from 'chrome://cloud-upload/cloud_upload.mojom-webui.js';

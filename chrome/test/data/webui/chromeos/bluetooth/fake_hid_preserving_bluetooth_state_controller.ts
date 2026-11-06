@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake HID-preserving Bluetooth state controller test double
+// summary: Implements a fake HidPreservingBluetoothStateController that simulates the HID warning dialog flow when enabling or disabling Bluetooth in tests.
+// ---
+
 import type {HidPreservingBluetoothStateControllerInterface} from 'chrome://resources/ash/common/bluetooth/hid_preserving_bluetooth_state_controller.mojom-webui.js';
 import type {CrosBluetoothConfigInterface} from 'chrome://resources/mojo/chromeos/ash/services/bluetooth_config/public/mojom/cros_bluetooth_config.mojom-webui.js';
 import {assertTrue} from 'chrome://webui-test/chai_assert.js';

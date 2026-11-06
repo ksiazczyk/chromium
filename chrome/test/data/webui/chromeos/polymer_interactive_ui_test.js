@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Polymer interactive UI test fixture
+// summary: Test fixture extending PolymerTest for interactive Polymer UI tests, focusing the active web contents before running on Mac.
+// ---
+
 GEN_INCLUDE(['polymer_browser_test_base.js']);
 
 GEN('#include "chrome/browser/ui/tabs/tab_strip_model.h"');

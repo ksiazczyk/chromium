@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for ash_common WebUI tests
+summary: Defines the TypeScript test library build and the resource bundle generation for the ash_common WebUI tests.

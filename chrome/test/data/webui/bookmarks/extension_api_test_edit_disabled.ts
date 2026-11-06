@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bookmarks API tests with editing disabled
+// summary: Verifies that bookmark create, move, remove, update, import, cut, and paste operations all fail with an error when bookmark editing is disabled.
+// ---
+
 // Bookmark Manager API test for Chrome.
 import {assertEquals, assertFalse, assertNotReached} from 'chrome://webui-test/chai_assert.js';
 

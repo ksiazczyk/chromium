@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: cr-icon-button WebUI element tests
+// summary: Tests cr-icon-button disabled state, iron-icon creation and removal, keyboard activation with Enter and Space, and suppression of clicks when disabled.
+// ---
+
 // clang-format off
 import 'chrome://resources/ash/common/cr_elements/cr_icon_button/cr_icon_button.js';
 import 'chrome://resources/ash/common/cr_elements/icons.html.js';

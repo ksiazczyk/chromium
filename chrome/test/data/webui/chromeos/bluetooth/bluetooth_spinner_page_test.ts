@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bluetooth spinner page WebUI tests
+// summary: Verifies that the bluetooth-spinner-page element renders a spinner when attached to the document.
+// ---
+
 import 'chrome://bluetooth-pairing/strings.m.js';
 import 'chrome://resources/ash/common/bluetooth/bluetooth_spinner_page.js';
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Certificate manager test support with fake page handler
+// summary: Provides a fake CertificateManagerPageHandler and test proxy that mock certificate manager Mojo calls such as getCertificates, import, and delete for use in WebUI tests.
+// ---
+
 import type {ActionResult, CertificateManagerPageHandlerInterface, CertificateManagerPageRemote, CertificateSource, CertManagementMetadata, SummaryCertInfo} from 'chrome://certificate-manager/certificate_manager.mojom-webui.js';
 import {CertificateManagerPageCallbackRouter} from 'chrome://certificate-manager/certificate_manager.mojom-webui.js';
 import {TestBrowserProxy} from 'chrome://webui-test/test_browser_proxy.js';

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for ChromeOS WebUI tests
+summary: Defines GN build targets for ChromeOS WebUI browser tests, including js2gtest sources, TypeScript test libraries, mojom bindings and resource generation.

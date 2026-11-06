@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Setup loading page WebUI tests
+// summary: Verifies the setup loading page shows its loading animation or the SIM detect error graphic.
+// ---
+
 import 'chrome://os-settings/strings.m.js';
 import 'chrome://resources/ash/common/cellular_setup/setup_loading_page.js';
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test page handler for chrome-urls WebUI
+// summary: Test double of the chrome-urls PageHandler that returns configurable URL data and records browser calls for use in the WebUI tests.
+// ---
+
 import type {ChromeUrlsData, PageHandlerInterface} from 'chrome://chrome-urls/chrome_urls.mojom-webui.js';
 import {TestBrowserProxy} from 'chrome://webui-test/test_browser_proxy.js';
 

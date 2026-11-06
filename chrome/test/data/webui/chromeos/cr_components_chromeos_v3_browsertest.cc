@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeOS WebUI components Mocha browser tests
+// summary: Browser test harness that runs Mocha suites for ChromeOS Bluetooth pairing and network settings WebUI components.
+// ---
+
 #include "ash/constants/webui_url_constants.h"
 #include "ash/webui/connectivity_diagnostics/url_constants.h"
 #include "chrome/test/base/web_ui_mocha_browser_test.h"

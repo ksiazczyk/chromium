@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Final page WebUI tests
+// summary: Verifies that the cellular setup final page renders its base page element.
+// ---
+
 import 'chrome://resources/ash/common/cellular_setup/final_page.js';
 
 import type {FinalPageElement} from 'chrome://resources/ash/common/cellular_setup/final_page.js';

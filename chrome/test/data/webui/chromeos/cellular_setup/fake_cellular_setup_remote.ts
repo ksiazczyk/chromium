@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake cellular setup Mojo remotes
+// summary: Test doubles for the cellular setup Mojo interfaces, simulating activation start and carrier portal status handling.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 import type {ActivationDelegateRemote, CarrierPortalHandlerInterface, CarrierPortalHandlerRemote, CarrierPortalStatus, CellularSetupInterface} from 'chrome://resources/mojo/chromeos/ash/services/cellular_setup/public/mojom/cellular_setup.mojom-webui.js';
 

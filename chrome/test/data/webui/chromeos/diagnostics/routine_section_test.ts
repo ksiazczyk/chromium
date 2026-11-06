@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Routine section tests
+// summary: Extensive tests for the routine section element, covering run buttons, routine execution, power routines and test suite status handling.
+// ---
+
 import 'chrome://diagnostics/routine_section.js';
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import 'chrome://webui-test/chromeos/mojo_webui_test_support.js';

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS metadata for certificate manager tests
+summary: Delegates code ownership review for this test directory to the owners of net/cert.

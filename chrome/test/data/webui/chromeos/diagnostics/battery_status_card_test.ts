@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Battery status card tests
+// summary: WebUI test suite verifying the battery status card renders battery info, charge status, health and run-tests controls using a fake system data provider.
+// ---
+
 import 'chrome://diagnostics/battery_status_card.js';
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import 'chrome://webui-test/chromeos/mojo_webui_test_support.js';

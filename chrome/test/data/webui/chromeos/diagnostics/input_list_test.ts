@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Input list tests
+// summary: Tests the input list element, including keyboard and touchscreen cards and opening testers in clamshell and tablet modes with fake devices.
+// ---
+
 import 'chrome://diagnostics/input_list.js';
 import 'chrome://diagnostics/strings.m.js';
 import 'chrome://webui-test/chromeos/mojo_webui_test_support.js';

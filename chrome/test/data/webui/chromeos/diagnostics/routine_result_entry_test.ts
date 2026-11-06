@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Routine result entry tests
+// summary: Tests for the routine result entry element, verifying routine names, status badges, failure messages and announced accessibility text.
+// ---
+
 import 'chrome://diagnostics/routine_result_entry.js';
 import 'chrome://webui-test/chromeos/mojo_webui_test_support.js';
 

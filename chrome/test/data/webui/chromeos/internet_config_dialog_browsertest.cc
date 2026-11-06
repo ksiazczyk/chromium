@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Internet config dialog browser test runner
+// summary: Browser test that loads the internet config dialog WebUI and runs its Mocha test suite.
+// ---
+
 #include "ash/constants/webui_url_constants.h"
 #include "chrome/test/base/web_ui_mocha_browser_test.h"
 #include "content/public/test/browser_test.h"

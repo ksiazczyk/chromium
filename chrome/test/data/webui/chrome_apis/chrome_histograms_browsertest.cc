@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: chrome.histograms WebUI browser test
+// summary: Runs the chrome.histograms WebUI mocha test from a test WebUI and verifies that the recorded user action and histogram samples match the expected values.
+// ---
+
 #include "base/test/metrics/histogram_tester.h"
 #include "base/test/metrics/user_action_tester.h"
 #include "base/test/run_until.h"

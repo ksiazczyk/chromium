@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: System page tests
+// summary: Tests for the diagnostics system page, verifying cards, run test button states and integration with fake data providers.
+// ---
+
 import 'chrome://diagnostics/strings.m.js';
 import 'chrome://diagnostics/system_page.js';
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';

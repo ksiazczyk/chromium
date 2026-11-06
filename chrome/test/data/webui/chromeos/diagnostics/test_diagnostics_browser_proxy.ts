@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test diagnostics browser proxy
+// summary: Test double for the DiagnosticsBrowserProxy that records method calls and provides configurable responses for diagnostics tests.
+// ---
+
 import type {DiagnosticsBrowserProxy} from 'chrome://diagnostics/diagnostics_browser_proxy.js';
 import type {NavigationView} from 'chrome://diagnostics/diagnostics_types.js';
 import {getNavigationViewForPageId} from 'chrome://diagnostics/diagnostics_utils.js';

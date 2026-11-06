@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake media devices for cellular setup tests
+// summary: Supplies fake MediaStreamTrack and MediaStream implementations so cellular setup tests can simulate camera and QR-code scanning media.
+// ---
+
 import {assertTrue} from 'chrome://webui-test/chai_assert.js';
 
 export class FakeMediaTrack implements MediaStreamTrack {

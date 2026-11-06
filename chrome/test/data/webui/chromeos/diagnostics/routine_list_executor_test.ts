@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Routine list executor tests
+// summary: Tests for the RoutineListExecutor with a fake routine controller, validating running and completed status callbacks during routine runs.
+// ---
+
 import 'chrome://webui-test/chromeos/mojo_webui_test_support.js';
 
 import {FakeSystemRoutineController} from 'chrome://diagnostics/fake_system_routine_controller.js';

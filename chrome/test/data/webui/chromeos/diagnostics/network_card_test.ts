@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network card tests
+// summary: Tests the network card element across Wi-Fi, cellular, and Ethernet states, including connected, disconnected, and portal scenarios, using a fake network health provider.
+// ---
+
 // Strings needs to be imported before network_card to ensure assert is not
 // triggered during test.
 import 'chrome://diagnostics/strings.m.js';

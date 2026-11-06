@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bookmarks store tests
+// summary: Tests the bookmarks state store, including batch update behavior and the store client mixin's reaction to state changes.
+// ---
+
 import type {BookmarksPageState, NodeMap} from 'chrome://bookmarks/bookmarks.js';
 import {createEmptyState, removeBookmark, ROOT_NODE_ID, Store, StoreClientMixinLit} from 'chrome://bookmarks/bookmarks.js';
 import {CrLitElement, html} from 'chrome://resources/lit/v3_0/lit.rollup.js';

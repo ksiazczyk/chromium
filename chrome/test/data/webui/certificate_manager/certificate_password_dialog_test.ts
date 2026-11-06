@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Certificate password dialog tests
+// summary: Verifies the certificate password dialog's confirm and cancel behavior, including how the entered password value is exposed before and after confirmation.
+// ---
+
 import 'chrome://certificate-manager/certificate_password_dialog.js';
 
 import type {CertificatePasswordDialogElement} from 'chrome://certificate-manager/certificate_password_dialog.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test metrics browser proxy mock
+// summary: Mock metrics browser proxy that records histogram and enumeration calls so tests can assert on cellular setup metric logging.
+// ---
+
 import type {MetricsBrowserProxy} from 'chrome://resources/ash/common/cellular_setup/metrics_browser_proxy.js';
 
 /**

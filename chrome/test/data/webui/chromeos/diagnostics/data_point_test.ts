@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Data point tests
+// summary: WebUI test suite checking that the data point element renders its header, value, optional tooltip and warning state styling.
+// ---
+
 import 'chrome://diagnostics/data_point.js';
 import 'chrome://webui-test/chromeos/mojo_webui_test_support.js';
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Certificate subpage tests
+// summary: Tests the certificate subpage element, checking that certificate lists render with the correct headers, sources, and import, export, and visibility options.
+// ---
+
 import 'chrome://certificate-manager/certificate_subpage.js';
 
 import {CertificateSource} from 'chrome://certificate-manager/certificate_manager.mojom-webui.js';

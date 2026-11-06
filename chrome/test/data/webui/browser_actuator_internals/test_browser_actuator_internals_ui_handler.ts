@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test double for the browser actuator internals UI handler
+// summary: Test browser proxy that stubs the BrowserActuatorInternalsUI interface, serving canned session history and exported JSON responses for the app tests.
+// ---
+
 import type {BrowserActuatorInternalsUIInterface, SessionSummary} from 'chrome://browser-actuator-internals/browser_actuator_internals.mojom-webui.js';
 import {TestBrowserProxy} from 'chrome://webui-test/test_browser_proxy.js';
 

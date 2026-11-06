@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser test fixture for ash common utility components
+// summary: Runs WebUI Mocha browser tests for fake observables, method resolver, keyboard diagram, navigation and page toolbar.
+// ---
+
 #include <string>
 
 #include "base/strings/stringprintf.h"

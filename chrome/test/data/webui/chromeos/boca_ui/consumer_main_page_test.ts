@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Consumer main page load test
+// summary: Verifies that the Boca app bundle and the student view are visible on the consumer home page.
+// ---
+
 import {assertTrue} from 'chrome-untrusted://webui-test/chai_assert.js';
 import {isVisible} from 'chrome-untrusted://webui-test/test_util.js';
 

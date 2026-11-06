@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cloud upload dialog TypeScript tests
+// summary: TypeScript tests for the cloud upload dialog, covering its welcome, sign-in, OneDrive connection, PWA install and setup pages via a mocked browser proxy.
+// ---
+
 import 'chrome://cloud-upload/cloud_upload_dialog.js';
 
 import {UserAction} from 'chrome://cloud-upload/cloud_upload.mojom-webui.js';

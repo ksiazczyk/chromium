@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Post message API mocha test suite
+// summary: Mocha test suite verifying server-client communication over the post message API, including value updates and rejected promise handling.
+// ---
+
 import {PostMessageApiClient} from 'chrome://resources/ash/common/post_message_api/post_message_api_client.js';
 import {PostMessageApiServer} from 'chrome://resources/ash/common/post_message_api/post_message_api_server.js';
 import {assertTrue} from 'chrome://webui-test/chai_assert.js';

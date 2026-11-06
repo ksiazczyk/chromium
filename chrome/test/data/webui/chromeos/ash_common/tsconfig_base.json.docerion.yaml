@@ -1,0 +1,4 @@
+# Docerion header of tsconfig_base.json.
+type: config
+title: Base TypeScript config for ash_common tests
+summary: TypeScript compiler configuration for the ash_common WebUI tests, extending the parent base config with useDefineForClassFields disabled.

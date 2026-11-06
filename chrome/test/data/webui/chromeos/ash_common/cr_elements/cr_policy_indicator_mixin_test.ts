@@ -4,6 +4,12 @@
 
 /** @fileoverview Suite of tests for CrPolicyIndicatorMixin. */
 
+// ---docerion
+// type: test
+// title: CrPolicyIndicatorMixin tests
+// summary: WebUI test suite verifying indicator types, icons and tooltips for the CrPolicyIndicatorMixin.
+// ---
+
 // clang-format off
 import './cr_policy_strings.js';
 

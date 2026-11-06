@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: eSIM flow UI tests
+// summary: WebUI tests for the eSIM setup flow, covering page navigation, profile discovery, activation and confirmation code entry, and setup metrics.
+// ---
+
 import 'chrome://os-settings/strings.m.js';
 import 'chrome://resources/ash/common/cellular_setup/esim_flow_ui.js';
 

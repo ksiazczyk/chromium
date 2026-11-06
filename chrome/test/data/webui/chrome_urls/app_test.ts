@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for the chrome-urls app element
+// summary: TypeScript WebUI tests for the chrome-urls app element, covering URL list rendering, section headings, internal debugging pages, and command link behavior.
+// ---
+
 import 'chrome://chrome-urls/app.js';
 
 import type {ChromeUrlsAppElement} from 'chrome://chrome-urls/app.js';

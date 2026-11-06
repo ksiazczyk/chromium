@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: cr-view-manager element tests
+// summary: WebUI test suite for cr-view-manager checking view switching visibility and the firing and bubbling of view enter and exit events.
+// ---
+
 // clang-format off
 import 'chrome://resources/ash/common/cr_elements/cr_view_manager/cr_view_manager.js';
 

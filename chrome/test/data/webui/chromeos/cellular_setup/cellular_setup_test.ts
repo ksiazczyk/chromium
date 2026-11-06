@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cellular setup element tests
+// summary: WebUI tests for the cellular setup element, verifying that the pSIM or eSIM flow UI is shown based on the current page name.
+// ---
+
 import 'chrome://os-settings/strings.m.js';
 import 'chrome://resources/ash/common/cellular_setup/cellular_setup.js';
 import 'chrome://resources/ash/common/cellular_setup/psim_flow_ui.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test timer proxy
+// summary: Test proxy that immediately resolves or manually runs timeouts so tests can control timing behavior.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 
 // TODO(calamity): Remove TestTimerProxy in favor of MockTimer.

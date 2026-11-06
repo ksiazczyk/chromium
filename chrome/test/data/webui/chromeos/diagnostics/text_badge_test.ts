@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Text badge element tests
+// summary: Web UI test suite verifying that the diagnostics text badge element initializes with the correct badge type class and displays its value.
+// ---
+
 import 'chrome://diagnostics/text_badge.js';
 import 'chrome://webui-test/chromeos/mojo_webui_test_support.js';
 

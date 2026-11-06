@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sea Pen constants unit tests
+// summary: Mocha tests verifying that parseTemplateText tokenizes Sea Pen template text correctly, covering empty text and chip token cases.
+// ---
+
 import {parseTemplateText} from 'chrome://resources/ash/common/sea_pen/constants.js';
 import {assertEquals} from 'chrome://webui-test/chai_assert.js';
 

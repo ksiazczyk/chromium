@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cellular info tests
+// summary: WebUI test suite checking that the cellular info element shows IP address, technology, roaming, signal strength, SIM lock, ICCID and EID values for a fake cellular network.
+// ---
+
 import 'chrome://diagnostics/cellular_info.js';
 import 'chrome://webui-test/chromeos/mojo_webui_test_support.js';
 

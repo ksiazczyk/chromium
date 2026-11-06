@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake system routine controller tests
+// summary: Tests for the fake system routine controller verifying routine execution, result reporting, and manual resolution behavior.
+// ---
+
 import 'chrome://webui-test/chromeos/mojo_webui_test_support.js';
 
 import {FakeSystemRoutineController} from 'chrome://diagnostics/fake_system_routine_controller.js';

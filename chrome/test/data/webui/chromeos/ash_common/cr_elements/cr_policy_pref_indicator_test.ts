@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: cr-policy-pref-indicator tests
+// summary: WebUI test suite verifying indicator behavior for preferences controlled by policy, owner, parent or recommended values.
+// ---
+
 // clang-format off
 import 'chrome://resources/ash/common/cr_elements/policy/cr_policy_pref_indicator.js';
 

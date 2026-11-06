@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Folder node tests
+// summary: Tests the bookmarks folder node element, covering folder selection actions, depth calculation, and highlighting behavior during search.
+// ---
+
 import type {BookmarksFolderNodeElement, SelectFolderAction} from 'chrome://bookmarks/bookmarks.js';
 import {ACCOUNT_HEADING_NODE_ID, LOCAL_HEADING_NODE_ID, PermanentFolderType, ROOT_NODE_ID, selectFolder} from 'chrome://bookmarks/bookmarks.js';
 import {assertDeepEquals, assertEquals, assertFalse, assertTrue} from 'chrome://webui-test/chai_assert.js';

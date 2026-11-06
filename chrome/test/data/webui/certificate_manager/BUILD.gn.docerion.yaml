@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for certificate manager WebUI tests
+summary: Defines the build_webui_tests target that registers the C++ and TypeScript certificate manager WebUI test suites, adding ChromeOS-only provisioning tests.

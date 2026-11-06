@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: cr-scrollable-mixin tests
+// summary: WebUI test suite checking scroll state classes and saving and restoring scroll position for CrScrollableMixin.
+// ---
+
 // clang-format off
 import 'chrome://resources/polymer/v3_0/iron-list/iron-list.js';
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bluetooth pairing enter code page WebUI tests
+// summary: Test suite verifying the enter code page key UI states, highlighting of typed and next keys, and that PIN code changes are reflected in the keys.
+// ---
+
 import 'chrome://bluetooth-pairing/strings.m.js';
 import 'chrome://resources/ash/common/bluetooth/bluetooth_pairing_enter_code_page.js';
 

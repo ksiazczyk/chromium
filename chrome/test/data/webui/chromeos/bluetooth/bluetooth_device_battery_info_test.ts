@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bluetooth device battery info WebUI tests
+// summary: Test suite verifying that the device battery info element shows the correct battery entries for single-battery and multi-battery devices, including edge-case percentages.
+// ---
+
 import 'chrome://bluetooth-pairing/strings.m.js';
 import 'chrome://resources/ash/common/bluetooth/bluetooth_device_battery_info.js';
 

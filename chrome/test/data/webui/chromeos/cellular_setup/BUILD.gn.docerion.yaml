@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for cellular setup WebUI tests
+summary: GN build definition that assembles the cellular setup WebUI test target, listing test files, TypeScript path mappings, definitions and dependencies.

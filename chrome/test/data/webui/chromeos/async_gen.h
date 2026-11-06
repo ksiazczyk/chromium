@@ -1,6 +1,13 @@
 // Copyright 2011 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Header for the async WebUI test fixture
+// summary: Declares WebUIBrowserAsyncGenTest, the C++ fixture backing JavaScript-generated asynchronous WebUI tests with a mocked message handler.
+// ---
+
 #ifndef CHROME_TEST_DATA_WEBUI_CHROMEOS_ASYNC_GEN_H_
 #define CHROME_TEST_DATA_WEBUI_CHROMEOS_ASYNC_GEN_H_
 

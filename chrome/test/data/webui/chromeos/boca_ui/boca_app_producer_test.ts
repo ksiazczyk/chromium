@@ -1,6 +1,13 @@
 // Copyright 2026 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Producer session creation WebUI test
+// summary: TypeScript WebUI test that drives the teacher app to start a session and add a Gemini guided learning resource through the UI dialogs.
+// ---
+
 import {assertTrue} from 'chrome-untrusted://webui-test/chai_assert.js';
 import {eventToPromise, whenCheck} from 'chrome-untrusted://webui-test/test_util.js';
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for the cr-button element
+// summary: Tests covering label display, tabindex and ARIA attributes, click behavior for keyboard and programmatic activation, and hidden state of cr-button.
+// ---
+
 // clang-format off
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 

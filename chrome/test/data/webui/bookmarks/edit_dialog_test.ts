@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Edit dialog tests
+// summary: Tests the bookmarks edit dialog, covering URL field visibility for items and folders, edit and add flows, and URL validation.
+// ---
+
 import type {BookmarksEditDialogElement} from 'chrome://bookmarks/bookmarks.js';
 import {BookmarksApiProxyImpl, MAX_BOOKMARK_INPUT_LENGTH, normalizeMojoNode, setDebouncerForTesting} from 'chrome://bookmarks/bookmarks.js';
 import {assertEquals, assertFalse, assertTrue} from 'chrome://webui-test/chai_assert.js';

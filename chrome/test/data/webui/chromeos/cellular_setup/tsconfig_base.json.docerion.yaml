@@ -1,0 +1,4 @@
+# Docerion header of tsconfig_base.json.
+type: config
+title: TypeScript configuration for cellular setup tests
+summary: Extends the shared TypeScript base config with chai, mocha, trusted-types, and image capture typings for these WebUI tests.

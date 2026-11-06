@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeObservables unit tests
+// summary: WebUI test suite covering FakeObservables registration, triggering, observable data cycling, and argument-based shared observables.
+// ---
+
 import {FakeObservables} from 'chrome://resources/ash/common/fake_observables.js';
 import {PromiseResolver} from 'chrome://resources/js/promise_resolver.js';
 import {assertEquals} from 'chrome://webui-test/chai_assert.js';

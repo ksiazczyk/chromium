@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Diagnostics WebUI tests build configuration
+summary: GN build file defining the build_webui_tests target that compiles the Diagnostics WebUI TypeScript test suites and their C++ browser test runner with the required TypeScript dependencies.

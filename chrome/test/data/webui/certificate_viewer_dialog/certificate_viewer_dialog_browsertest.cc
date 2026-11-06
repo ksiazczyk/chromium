@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Certificate viewer dialog browser test
+// summary: C++ browser test harness that opens the certificate viewer dialog with test certificates and runs the corresponding WebUI mocha test cases on its contents.
+// ---
+
 #include <optional>
 
 #include "base/containers/span.h"

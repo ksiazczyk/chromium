@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: Ignore rules for generated tsconfig.json
+# summary: Git ignore that excludes the tsconfig.json generated for this WebUI test directory by gen_tsconfig.py.
+# ---
+
 # Generated from ash/webui/personalization_app/tools/gen_tsconfig.py
 tsconfig.json

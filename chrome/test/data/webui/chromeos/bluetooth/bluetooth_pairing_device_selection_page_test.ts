@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bluetooth pairing device selection page WebUI tests
+// summary: Test suite covering the device selection page list states, learn-more links and discovered device updates using fake Bluetooth config and discovery delegate objects.
+// ---
+
 import 'chrome://bluetooth-pairing/strings.m.js';
 import 'chrome://resources/ash/common/bluetooth/bluetooth_pairing_device_selection_page.js';
 

@@ -6,6 +6,12 @@
 // depend on what element is focused, and thus need to be an
 // interactive_ui_test to avoid flake.
 
+// ---docerion
+// type: test
+// title: Focus-dependent tests for the certificate manager v2 UI
+// summary: Interactive tests for focus-dependent certificate manager behavior such as copying certificate hashes to the clipboard.
+// ---
+
 import 'chrome://certificate-manager/certificate_manager.js';
 
 import type {CertificateManagerElement} from 'chrome://certificate-manager/certificate_manager.js';

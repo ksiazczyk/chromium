@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Internet config dialog tests
+// summary: Mocha tests for the internet config dialog verifying error display behavior such as bad passphrase and out-of-range errors.
+// ---
+
 import 'chrome://internet-config-dialog/internet_config_dialog.js';
 
 import type {InternetConfigDialogElement} from 'chrome://internet-config-dialog/internet_config_dialog.js';
