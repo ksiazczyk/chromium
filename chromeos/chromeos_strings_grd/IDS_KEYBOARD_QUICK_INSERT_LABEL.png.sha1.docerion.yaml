@@ -1,0 +1,4 @@
+# Docerion header of IDS_KEYBOARD_QUICK_INSERT_LABEL.png.sha1.
+type: data
+title: SHA-1 checksum for the keyboard quick insert label image
+summary: Stores the SHA-1 hash that verifies the PNG image for the keyboard quick insert label string in ChromeOS.

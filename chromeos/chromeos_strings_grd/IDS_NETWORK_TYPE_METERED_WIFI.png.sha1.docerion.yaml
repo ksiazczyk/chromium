@@ -1,0 +1,4 @@
+# Docerion header of IDS_NETWORK_TYPE_METERED_WIFI.png.sha1.
+type: asset
+title: SHA-1 hash for IDS_NETWORK_TYPE_METERED_WIFI.png
+summary: Stores the SHA-1 checksum of the PNG image for the metered Wi-Fi network type string in the ChromeOS strings resources.
