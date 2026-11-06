@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordManagerSetting enum definition
+// summary: Defines the PasswordManagerSetting enum covering offer-to-save, auto sign-in and biometric re-authentication settings, shared with Java via generated bindings.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_PASSWORD_MANAGER_SETTING_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_PASSWORD_MANAGER_SETTING_H_
 

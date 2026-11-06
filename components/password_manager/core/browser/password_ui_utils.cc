@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password UI utilities implementation
+// summary: Implements helpers that format origins and URLs for display, update pending credentials, and compute form submission readiness for the password UI.
+// ---
+
 #include "components/password_manager/core/browser/password_ui_utils.h"
 
 #include <algorithm>

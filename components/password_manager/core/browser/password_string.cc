@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordString implementation
+// summary: Implements a password string wrapper that optionally backs passwords with process-bound memory, zeroes plaintext on move, and supports secure access and comparison.
+// ---
+
 #include "components/password_manager/core/browser/password_string.h"
 
 #include <string>

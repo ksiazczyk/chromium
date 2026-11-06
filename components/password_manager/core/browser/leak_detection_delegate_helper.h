@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Leak detection delegate helper header
+// summary: Declares the helper class that asynchronously requests credentials with a given password from the password stores and reports the leak type.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_LEAK_DETECTION_DELEGATE_HELPER_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_LEAK_DETECTION_DELEGATE_HELPER_H_
 

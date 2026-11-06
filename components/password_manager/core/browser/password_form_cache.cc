@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordFormCache constructor and destructor
+// summary: Implements the constructor and destructor of the PasswordFormCache class.
+// ---
+
 #include "components/password_manager/core/browser/password_form_cache.h"
 
 namespace password_manager {

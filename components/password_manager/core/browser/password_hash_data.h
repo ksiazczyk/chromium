@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password hash data header
+// summary: Declares PasswordHashData and helpers for calculating salted password hashes, canonicalizing usernames and comparing credentials.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_PASSWORD_HASH_DATA_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_PASSWORD_HASH_DATA_H_
 

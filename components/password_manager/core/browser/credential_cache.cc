@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credential cache implementation
+// summary: Implements per-origin caching of credentials, blocklist status, backend errors, and unnotified shared credentials for the password manager UI.
+// ---
+
 #include "components/password_manager/core/browser/credential_cache.h"
 
 #include <algorithm>

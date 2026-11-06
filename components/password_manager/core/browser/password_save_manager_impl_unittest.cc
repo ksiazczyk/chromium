@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PasswordSaveManagerImpl unit tests
+// summary: Unit tests for the password save manager implementation, covering credential saving and updating, pending credentials, and autofill vote upload contents.
+// ---
+
 #include "components/password_manager/core/browser/password_save_manager_impl.h"
 
 #include "base/memory/raw_ptr.h"

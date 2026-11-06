@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password manager test utilities implementation
+// summary: Implements helpers that build PasswordForm and StoredCredential objects from test data for use in password manager unit tests.
+// ---
+
 #include "components/password_manager/core/browser/password_manager_test_utils.h"
 
 #include <algorithm>

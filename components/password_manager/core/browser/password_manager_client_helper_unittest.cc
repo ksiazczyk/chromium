@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PasswordManagerClientHelper unit test
+// summary: Unit tests for PasswordManagerClientHelper covering auto sign-in prompting, credential selection and prompting to move passwords to the account store.
+// ---
+
 #include "components/password_manager/core/browser/password_manager_client_helper.h"
 
 #include <memory>

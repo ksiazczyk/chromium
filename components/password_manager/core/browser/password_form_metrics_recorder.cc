@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password form metrics recorder implementation
+// summary: Implements recording of histograms, user actions, and UKM metrics about password form manager behavior and user interactions.
+// ---
+
 #include "components/password_manager/core/browser/password_form_metrics_recorder.h"
 
 #include <stdint.h>

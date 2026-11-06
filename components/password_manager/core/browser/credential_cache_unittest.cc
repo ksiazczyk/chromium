@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the credential cache
+// summary: Unit tests covering per-origin store reuse, credential sorting, blocklist status, and Android backup credentials in CredentialCache.
+// ---
+
 #include "components/password_manager/core/browser/credential_cache.h"
 
 #include <memory>

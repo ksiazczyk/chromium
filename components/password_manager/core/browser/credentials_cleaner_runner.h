@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CredentialsCleanerRunner class declaration
+// summary: Declares a keyed service that executes credential clean-up tasks in the order they were added and keeps cleaner objects alive until finished.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_CREDENTIALS_CLEANER_RUNNER_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_CREDENTIALS_CLEANER_RUNNER_H_
 

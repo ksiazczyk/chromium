@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FormSaverImpl unit tests
+// summary: Unit tests verifying FormSaverImpl save, update, replace and blocklist behavior against a mock password store.
+// ---
+
 #include "components/password_manager/core/browser/form_saver_impl.h"
 
 #include <map>

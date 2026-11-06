@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OSCryptAsyncMigrator password re-encryption implementation
+// summary: Re-encrypts stored passwords with the OSCryptAsync API and records migration completion per password store via preferences.
+// ---
+
 #include "components/password_manager/core/browser/os_crypt_async_migrator.h"
 
 

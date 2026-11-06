@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Origin credential store implementation
+// summary: Implements UiCredential and OriginCredentialStore, which hold per-origin credentials, blocklist status and shared credentials for the password manager UI.
+// ---
+
 #include "components/password_manager/core/browser/origin_credential_store.h"
 
 #include <ios>

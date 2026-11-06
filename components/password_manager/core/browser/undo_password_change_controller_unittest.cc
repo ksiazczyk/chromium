@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Undo password change controller unit tests
+// summary: Unit tests for UndoPasswordChangeController covering recovery flow states, suggestions, metrics and failed login handling.
+// ---
+
 #include "components/password_manager/core/browser/undo_password_change_controller.h"
 
 #include <optional>

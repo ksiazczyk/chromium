@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpAuthManagerImpl implementation
+// summary: Implements HTTP auth credential handling with observer management, provisional form saving, and biometric re-auth before filling.
+// ---
+
 #include "components/password_manager/core/browser/http_auth_manager_impl.h"
 
 #include <utility>

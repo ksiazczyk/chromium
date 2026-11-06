@@ -1,6 +1,13 @@
 // Copyright 2017 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Credential Manager class declaration
+// summary: Declares the CredentialManagerImpl class that implements Store, PreventSilentAccess and Get via the PasswordManagerClient, with delegates for pending tasks.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_CREDENTIAL_MANAGER_IMPL_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_CREDENTIAL_MANAGER_IMPL_H_
 

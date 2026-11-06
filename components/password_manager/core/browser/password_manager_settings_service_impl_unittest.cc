@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password manager settings service unit tests
+// summary: Unit tests verifying that saving passwords, auto sign-in and TurnOffAutoSignIn behave according to the registered password manager preferences.
+// ---
+
 #include "components/password_manager/core/browser/password_manager_settings_service_impl.h"
 
 #include "components/password_manager/core/browser/password_manager_setting.h"

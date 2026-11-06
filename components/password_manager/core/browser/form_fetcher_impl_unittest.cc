@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FormFetcherImpl unit tests
+// summary: Unit tests for FormFetcherImpl covering credential fetching, match filtering, federation, blocklisting and store backend errors.
+// ---
+
 #include "components/password_manager/core/browser/form_fetcher_impl.h"
 
 #include <algorithm>

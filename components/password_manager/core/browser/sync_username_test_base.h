@@ -5,6 +5,12 @@
 // A base test fixture for mocking sync and signin infrastructure. Used for
 // testing sync-related code.
 
+// ---docerion
+// type: test
+// title: Sync username test base fixture
+// summary: Base test fixture that mocks sync and signin infrastructure for testing sync-related password manager code.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_SYNC_USERNAME_TEST_BASE_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_SYNC_USERNAME_TEST_BASE_H_
 

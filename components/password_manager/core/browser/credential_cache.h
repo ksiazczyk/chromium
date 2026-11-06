@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credential cache header
+// summary: Declares CredentialCache, which stores and provides per-origin credential stores used by the password manager sheet.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_CREDENTIAL_CACHE_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_CREDENTIAL_CACHE_H_
 

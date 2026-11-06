@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password counter implementation
+// summary: Implements counting of autofillable passwords across profile and account stores and notifies observers when the counts change.
+// ---
+
 #include "components/password_manager/core/browser/password_counter.h"
 
 #include <cstddef>

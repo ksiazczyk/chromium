@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncCredentialsFilter unit tests
+// summary: Unit tests verifying saving decisions of SyncCredentialsFilter for GAIA, enterprise and regular password forms across signin states.
+// ---
+
 #include "components/password_manager/core/browser/sync_credentials_filter.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordManagerMetricsRecorder implementation
+// summary: Implements recording of UKM and UMA metrics about password manager behavior, including provisional save failures and page-level user actions.
+// ---
+
 #include "components/password_manager/core/browser/password_manager_metrics_recorder.h"
 
 #include <memory>

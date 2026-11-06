@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FormSubmissionObserver interface
+// summary: Defines an observer interface that notifies the password manager about main frame navigations that may correspond to form submissions.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_FORM_SUBMISSION_OBSERVER_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_FORM_SUBMISSION_OBSERVER_H_
 

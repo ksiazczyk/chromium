@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prevent silent access task implementation
+// summary: Implements a task that queries the profile and account password stores and marks matching credentials to skip zero-click, requiring user mediation.
+// ---
+
 #include "components/password_manager/core/browser/credential_manager_pending_prevent_silent_access_task.h"
 
 #include "components/affiliations/core/browser/match_type.h"

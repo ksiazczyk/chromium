@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password form manager unit tests
+// summary: Unit tests for PasswordFormManager covering form filling, saving and updating credentials, votes, and related metrics.
+// ---
+
 #include "components/password_manager/core/browser/password_form_manager.h"
 
 #include <memory>

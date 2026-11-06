@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GMSCore update checks for split password stores
+// summary: Implements checks for whether a GMSCore update is required to support separated account and local password stores.
+// ---
+
 #include "components/password_manager/core/browser/split_stores_and_local_upm.h"
 
 #include "base/android/device_info.h"

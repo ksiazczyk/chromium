@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credential Manager logger implementation
+// summary: Implements logging of Credential Management API calls such as get, send, store and prevent silent access to the password manager internals log.
+// ---
+
 #include "components/password_manager/core/browser/credential_manager_logger.h"
 
 #include <string>

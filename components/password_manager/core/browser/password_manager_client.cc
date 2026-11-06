@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordManagerClient default implementations
+// summary: Provides default implementations of PasswordManagerClient methods such as saving and filling enablement checks, reauth hooks and embedder notification stubs.
+// ---
+
 #include "components/password_manager/core/browser/password_manager_client.h"
 
 #include <string_view>

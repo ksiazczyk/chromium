@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OriginCredentialStore header
+// summary: Declares UiCredential, which encapsulates backend credential data for the UI, and OriginCredentialStore, a per-origin credential store unique per tab.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_ORIGIN_CREDENTIAL_STORE_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_ORIGIN_CREDENTIAL_STORE_H_
 

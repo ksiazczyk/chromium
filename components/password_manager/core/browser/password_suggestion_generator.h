@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password suggestion generator header
+// summary: Declares PasswordSuggestionGenerator, which builds password and credential suggestions for forms, the proactive recovery popup and the context menu.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_PASSWORD_SUGGESTION_GENERATOR_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_PASSWORD_SUGGESTION_GENERATOR_H_
 

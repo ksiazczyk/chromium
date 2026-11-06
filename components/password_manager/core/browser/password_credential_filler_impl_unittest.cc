@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PasswordCredentialFillerImpl unit tests
+// summary: Unit tests for PasswordCredentialFillerImpl covering credential filling, submission triggering and submission readiness across form field focusability variants.
+// ---
+
 #include "components/password_manager/core/browser/password_credential_filler_impl.h"
 
 #include <algorithm>

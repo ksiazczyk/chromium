@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordFormCacheImpl implementation
+// summary: Implements the password form cache that stores PasswordFormManager instances and looks up parsed forms by driver, form or field id.
+// ---
+
 #include "components/password_manager/core/browser/password_form_cache_impl.h"
 
 #include "components/password_manager/core/browser/password_form_manager.h"

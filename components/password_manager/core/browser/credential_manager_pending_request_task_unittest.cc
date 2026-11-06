@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the credential manager pending request task
+// summary: Tests credential retrieval, duplicate filtering and reauth behaviour of the pending request task using mocked clients and stores.
+// ---
+
 #include "components/password_manager/core/browser/credential_manager_pending_request_task.h"
 
 #include "base/memory/raw_ptr.h"

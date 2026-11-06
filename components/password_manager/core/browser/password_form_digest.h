@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordFormDigest structure declaration
+// summary: Declares PasswordFormDigest, a subset of PasswordForm identifying credentials by scheme, sign-on realm and URL.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_PASSWORD_FORM_DIGEST_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_PASSWORD_FORM_DIGEST_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the credential manager pending prevent silent access task
+// summary: Verifies that the prevent silent access task marks origins as requiring user mediation in the profile and account password stores.
+// ---
+
 #include "components/password_manager/core/browser/credential_manager_pending_prevent_silent_access_task.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password sync utilities implementation
+// summary: Implements sync_util helpers that inspect password sync state, detect Gaia credential pages, and decide the account used for saving passwords.
+// ---
+
 #include "components/password_manager/core/browser/password_sync_util.h"
 
 #include "base/strings/utf_string_conversions.h"

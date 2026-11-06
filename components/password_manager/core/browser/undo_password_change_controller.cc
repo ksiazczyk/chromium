@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Undo password change controller implementation
+// summary: Implements the controller managing the password recovery flow, tracking failed logins and backup password suggestions with UMA and UKM metrics.
+// ---
+
 #include "components/password_manager/core/browser/undo_password_change_controller.h"
 
 #include <optional>

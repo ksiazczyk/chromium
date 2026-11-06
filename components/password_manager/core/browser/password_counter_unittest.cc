@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password counter unit tests
+// summary: Tests password counting for preexisting, added, and removed credentials across profile and account test password stores.
+// ---
+
 #include "components/password_manager/core/browser/password_counter.h"
 
 #include <string_view>

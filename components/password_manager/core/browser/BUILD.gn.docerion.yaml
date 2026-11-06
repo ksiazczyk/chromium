@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the password manager browser component
+summary: Defines GN build targets, sources, and configs for the password manager browser static library, including feature defines and fuzzable proto rules.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password sync utilities unit tests
+// summary: Unit tests covering sync account email checks, sync feature states and password sync state reporting in password_sync_util.
+// ---
+
 #include "components/password_manager/core/browser/password_sync_util.h"
 
 #include <stddef.h>

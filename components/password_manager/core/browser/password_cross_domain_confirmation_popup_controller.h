@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordCrossDomainConfirmationPopupController interface
+// summary: Declares the controller interface for the cross-domain password filling confirmation popup, including the user decision enum used for metrics.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_PASSWORD_CROSS_DOMAIN_CONFIRMATION_POPUP_CONTROLLER_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_PASSWORD_CROSS_DOMAIN_CONFIRMATION_POPUP_CONTROLLER_H_
 

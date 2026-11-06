@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CredentialsCleaner unit tests
+// summary: Tests that RemoveNonHTTPOrHTTPSForms keeps only HTTP and HTTPS password forms, dropping federated, Android and invalid-realm entries.
+// ---
+
 #include "components/password_manager/core/browser/credentials_cleaner.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Origin credential store unit tests
+// summary: Unit tests for saving and retrieving credentials in OriginCredentialStore, including origin normalization and unnotified shared credentials.
+// ---
+
 #include "components/password_manager/core/browser/origin_credential_store.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for GMSCore split stores version checks
+// summary: Declares IsGmsCoreUpdateRequired and the minimum GMSCore version supporting account and local password separation.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_SPLIT_STORES_AND_LOCAL_UPM_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_SPLIT_STORES_AND_LOCAL_UPM_H_
 

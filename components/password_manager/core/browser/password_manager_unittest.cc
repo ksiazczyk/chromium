@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password manager unit tests
+// summary: Large unit test suite for the browser PasswordManager covering form saving, filling, leak detection, affiliation matching and related client behavior.
+// ---
+
 #include "components/password_manager/core/browser/password_manager.h"
 
 #include <limits>

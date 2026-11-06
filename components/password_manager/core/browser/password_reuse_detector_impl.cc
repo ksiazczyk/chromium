@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password reuse detector implementation
+// summary: Implements password reuse detection that matches input suffixes against saved, Gaia and enterprise password hashes, with domain-based authorized reuse rules.
+// ---
+
 #include "components/password_manager/core/browser/password_reuse_detector_impl.h"
 
 #include <algorithm>

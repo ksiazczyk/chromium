@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PasswordFeatureManagerImpl unit tests
+// summary: Unit tests for PasswordFeatureManagerImpl verifying password generation, biometric authentication and account storage behavior across sync and signin states.
+// ---
+
 #include "components/password_manager/core/browser/password_feature_manager_impl.h"
 
 #include "build/build_config.h"

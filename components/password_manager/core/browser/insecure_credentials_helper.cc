@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Insecure credentials helper implementation
+// summary: Implements helpers that add or remove the phished password issue on matching credentials held in the password store.
+// ---
+
 #include "components/password_manager/core/browser/insecure_credentials_helper.h"
 
 #include <memory>

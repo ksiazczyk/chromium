@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StubPasswordManagerClient implementation
+// summary: Implements trivial stub methods of PasswordManagerClient, such as saving prompts, prefs and store accessors, as a base for test clients.
+// ---
+
 #include "components/password_manager/core/browser/stub_password_manager_client.h"
 
 #include <memory>

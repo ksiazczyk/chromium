@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordSessionDurationsMetricsRecorder class declaration
+// summary: Declares a SyncServiceObserver that tracks active browsing time spent in each password account storage user state and records duration metrics.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_PASSWORD_SESSION_DURATIONS_METRICS_RECORDER_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_PASSWORD_SESSION_DURATIONS_METRICS_RECORDER_H_
 

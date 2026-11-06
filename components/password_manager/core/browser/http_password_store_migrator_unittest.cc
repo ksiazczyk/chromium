@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HTTP password store migrator unit tests
+// summary: Unit tests for the migrator that moves HTTP-origin saved passwords to HTTPS when HSTS is active, covering exact, PSL, Android and federated credentials.
+// ---
+
 #include "components/password_manager/core/browser/http_password_store_migrator.h"
 
 #include <algorithm>

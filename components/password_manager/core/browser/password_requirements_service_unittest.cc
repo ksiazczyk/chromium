@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password requirements service unit tests
+// summary: Unit tests for PasswordRequirementsService using a mock spec fetcher to verify caching, prefetching and priority-based selection of password requirement specs.
+// ---
+
 #include "components/password_manager/core/browser/password_requirements_service.h"
 
 #include <map>

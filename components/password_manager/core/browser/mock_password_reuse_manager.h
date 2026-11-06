@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock password reuse manager
+// summary: GMock of PasswordReuseManager used by unit tests to stub password hash saving, reuse checks, notifier setup and observer handling.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_MOCK_PASSWORD_REUSE_MANAGER_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_MOCK_PASSWORD_REUSE_MANAGER_H_
 

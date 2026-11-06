@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password manager utility functions implementation
+// summary: Implements helper logic for the Chromium password manager, including stored credential matching priority, password saving checks, and manual password generation flows.
+// ---
+
 #include "components/password_manager/core/browser/password_manager_util.h"
 
 #include <algorithm>

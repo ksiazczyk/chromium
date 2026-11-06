@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: StoreMetricsReporter unit tests
+// summary: Unit tests for password store metrics reporting using test stores, histogram testers and mock services.
+// ---
+
 #include "components/password_manager/core/browser/store_metrics_reporter.h"
 
 #include <string>

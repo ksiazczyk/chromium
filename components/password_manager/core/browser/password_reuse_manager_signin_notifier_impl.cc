@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sign-in notifier implementation
+// summary: Implements the sign-in notifier by observing IdentityManager and clearing Gaia password hashes when accounts sign out.
+// ---
+
 #include "components/password_manager/core/browser/password_reuse_manager_signin_notifier_impl.h"
 
 #include "components/password_manager/core/browser/password_manager_metrics_util.h"

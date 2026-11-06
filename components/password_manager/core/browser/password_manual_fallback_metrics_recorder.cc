@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manual fallback metrics recorder implementation
+// summary: Records and emits histograms for manual password fallback usage, such as context menu entries shown or accepted and suggestions filled.
+// ---
+
 #include "components/password_manager/core/browser/password_manual_fallback_metrics_recorder.h"
 
 #include "base/metrics/histogram_functions.h"

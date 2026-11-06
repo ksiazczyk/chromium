@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Possible username data implementation
+// summary: Implements PossibleUsernameData, which tracks typed values that may be usernames in the username-first flow, including staleness and server prediction checks.
+// ---
+
 #include "components/password_manager/core/browser/possible_username_data.h"
 
 #include <string>

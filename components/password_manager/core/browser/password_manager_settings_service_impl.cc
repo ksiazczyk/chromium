@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password manager settings service implementation
+// summary: Implements the settings service by reading password manager preferences, handling platform-specific biometric re-auth and no-op backend fetching outside UPM.
+// ---
+
 #include "components/password_manager/core/browser/password_manager_settings_service_impl.h"
 
 #include "components/password_manager/core/common/password_manager_pref_names.h"

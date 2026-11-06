@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeFormFetcher implementation
+// summary: Test fake of FormFetcher that serves preconfigured matches, stats and backend errors without querying the password store.
+// ---
+
 #include "components/password_manager/core/browser/fake_form_fetcher.h"
 
 #include <algorithm>

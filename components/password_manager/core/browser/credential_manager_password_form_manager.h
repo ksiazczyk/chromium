@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credential Manager password form manager declaration
+// summary: Declares CredentialManagerPasswordFormManager and its delegate interface for handling Credential Management API password forms.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_CREDENTIAL_MANAGER_PASSWORD_FORM_MANAGER_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_CREDENTIAL_MANAGER_PASSWORD_FORM_MANAGER_H_
 

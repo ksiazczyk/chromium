@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sign-in notifier interface for password reuse manager
+// summary: Defines the abstract PasswordReuseManagerSigninNotifier interface for subscribing to and unsubscribing from sign-in events on behalf of the reuse manager.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_PASSWORD_REUSE_MANAGER_SIGNIN_NOTIFIER_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_PASSWORD_REUSE_MANAGER_SIGNIN_NOTIFIER_H_
 

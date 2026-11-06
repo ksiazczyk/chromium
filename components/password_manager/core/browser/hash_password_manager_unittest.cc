@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HashPasswordManager unit tests
+// summary: Unit tests covering saving, encryption, retrieval and clearing of password hash data in preferences.
+// ---
+
 #include "components/password_manager/core/browser/hash_password_manager.h"
 
 #include "base/base64.h"

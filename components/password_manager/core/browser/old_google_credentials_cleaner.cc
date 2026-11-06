@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Old Google credentials cleaner implementation
+// summary: Implements a one-time cleaner that removes pre-2012 Google sign-on credentials from the password store and marks the cleanup done in preferences.
+// ---
+
 #include "components/password_manager/core/browser/old_google_credentials_cleaner.h"
 
 #include "base/time/time.h"

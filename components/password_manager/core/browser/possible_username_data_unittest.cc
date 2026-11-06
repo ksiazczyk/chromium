@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PossibleUsernameData unit tests
+// summary: Unit tests verifying that possible username data becomes stale after its time-to-live expires.
+// ---
+
 #include "components/password_manager/core/browser/possible_username_data.h"
 
 #include "base/strings/utf_string_conversions.h"

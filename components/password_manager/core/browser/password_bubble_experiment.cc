@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password bubble experiment helpers
+// summary: Provides helpers for the smart save bubble dismissal threshold and the auto sign-in prompt first-run experience preference.
+// ---
+
 #include "components/password_manager/core/browser/password_bubble_experiment.h"
 
 #include <string>

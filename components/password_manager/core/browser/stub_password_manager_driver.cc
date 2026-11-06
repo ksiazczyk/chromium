@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StubPasswordManagerDriver implementation
+// summary: Implements trivial stub methods of PasswordManagerDriver covering filling, suggestions, previews and frame information for tests.
+// ---
+
 #include "components/password_manager/core/browser/stub_password_manager_driver.h"
 
 #include "components/autofill/core/common/aliases.h"

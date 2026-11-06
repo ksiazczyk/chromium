@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password generation frame helper implementation
+// summary: Implements the per-frame helper that decides when password generation is offered, prefetches and stores password requirements, and generates passwords matching site rules.
+// ---
+
 #include "components/password_manager/core/browser/password_generation_frame_helper.h"
 
 #include <memory>

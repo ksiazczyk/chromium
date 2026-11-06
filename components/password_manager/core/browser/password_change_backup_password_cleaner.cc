@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password change backup password cleaner implementation
+// summary: Implements periodic removal of expired password change backup password notes from a password store, tracked via per-store timestamp preferences.
+// ---
+
 #include "components/password_manager/core/browser/password_change_backup_password_cleaner.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordManager core implementation
+// summary: Implements the per-tab password manager that handles password form data from renderers, saving, filling, metrics and password database management via the password store.
+// ---
+
 #include "components/password_manager/core/browser/password_manager.h"
 
 #include <stddef.h>

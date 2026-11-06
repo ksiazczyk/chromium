@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordManagerClientHelper implementation
+// summary: Implements shared auto sign-in, credential choice and password move prompting logic common to the Chrome and iOS password manager clients.
+// ---
+
 #include "components/password_manager/core/browser/password_manager_client_helper.h"
 
 #include "base/strings/utf_string_conversions.h"

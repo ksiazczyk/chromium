@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PasswordGenerationFrameHelper unit tests
+// summary: Unit tests for the password generation frame helper, covering generation enablement, domain-wide password requirement specs and generated password behavior.
+// ---
+
 #include "components/password_manager/core/browser/password_generation_frame_helper.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasskeyCredential implementation
+// summary: Implements the PasskeyCredential model, converting synced WebAuthn credential specifics into displayable passkeys with authenticator labels.
+// ---
+
 #include "components/password_manager/core/browser/passkey_credential.h"
 
 #include <optional>

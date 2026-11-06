@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password change backup password cleaner unit tests
+// summary: Tests cleaning scheduling and removal of expired backup password notes for both profile and account stores using mock password stores.
+// ---
+
 #include "components/password_manager/core/browser/password_change_backup_password_cleaner.h"
 
 #include <string_view>

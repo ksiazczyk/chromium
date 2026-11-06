@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FirstCctPageLoadPasswordsUkmRecorder header
+// summary: Declares FirstCctPageLoadPasswordsUkmRecorder, which caches and reports password manager UKM metrics for the first CCT page load.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_FIRST_CCT_PAGE_LOAD_PASSWORDS_UKM_RECORDER_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_FIRST_CCT_PAGE_LOAD_PASSWORDS_UKM_RECORDER_H_
 

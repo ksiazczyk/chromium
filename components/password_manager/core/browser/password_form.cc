@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordForm implementation
+// summary: Implements PasswordForm helpers, including enum-to-string conversions for stores, schemes and types plus JSON serialization of forms used for logging in tests.
+// ---
+
 #include "components/password_manager/core/browser/password_form.h"
 
 #include <algorithm>

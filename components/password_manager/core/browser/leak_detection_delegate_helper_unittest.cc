@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Leak detection delegate helper unit tests
+// summary: Unit tests for the helper that determines the credential leak type from profile and account password store results.
+// ---
+
 #include "components/password_manager/core/browser/leak_detection_delegate_helper.h"
 
 #include <memory>
