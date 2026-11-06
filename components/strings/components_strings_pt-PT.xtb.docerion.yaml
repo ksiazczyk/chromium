@@ -1,0 +1,4 @@
+# Docerion header of components_strings_pt-PT.xtb.
+type: data
+title: Chromium component strings in European Portuguese
+summary: European Portuguese translation bundle with localized Chromium component UI strings, keyed by numeric message IDs for the translation system.

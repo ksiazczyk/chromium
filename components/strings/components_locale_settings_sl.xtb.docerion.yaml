@@ -1,0 +1,4 @@
+# Docerion header of components_locale_settings_sl.xtb.
+type: data
+title: Slovenian locale settings translation bundle
+summary: Slovenian translation bundle defining the accepted languages list (sl-SI, sl, en-GB, en) and the ISO-8859-2 default encoding.

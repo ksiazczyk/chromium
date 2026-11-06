@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners rules for string translation files
+summary: Sets per-file owners so changes to locale settings and search engine description strings require Blink API or compliance review.

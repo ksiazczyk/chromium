@@ -1,0 +1,4 @@
+# Docerion header of components_strings_hy.xtb.
+type: data
+title: Armenian component strings translation bundle
+summary: XML translation bundle with Armenian translations of Chromium component UI strings such as dialogs, settings and warnings.

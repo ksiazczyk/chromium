@@ -1,0 +1,4 @@
+# Docerion header of components_strings_mk.xtb.
+type: data
+title: Macedonian component strings translation bundle
+summary: XML translation bundle providing Chromium component UI strings localized into Macedonian for the browser's localization system.

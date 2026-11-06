@@ -1,0 +1,4 @@
+# Docerion header of components_chromium_strings_el.xtb.
+type: data
+title: Chromium strings translation bundle (Greek)
+summary: XML translation bundle providing Greek localizations of Chromium UI strings, covering settings, proxy, Safe Browsing, crash reporting, and payment messages.

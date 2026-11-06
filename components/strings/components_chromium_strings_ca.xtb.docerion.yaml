@@ -1,0 +1,4 @@
+# Docerion header of components_chromium_strings_ca.xtb.
+type: data
+title: Chromium strings translation bundle (Catalan)
+summary: XML translation bundle providing Catalan localizations of Chromium UI strings, covering settings, proxy, Safe Browsing, crash reporting, and payment messages.

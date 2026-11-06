@@ -1,0 +1,4 @@
+# Docerion header of components_chromium_strings_ro.xtb.
+type: data
+title: Chromium strings translation bundle for Romanian
+summary: Romanian XTB translation bundle with localized Chromium component UI strings including tips, proxy settings, safe browsing, and crash reporting messages.

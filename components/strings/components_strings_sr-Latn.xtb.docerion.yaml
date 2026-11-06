@@ -1,0 +1,4 @@
+# Docerion header of components_strings_sr-Latn.xtb.
+type: data
+title: Chromium component strings in Serbian (Latin)
+summary: XML translation bundle with Serbian Latin-script translations of Chromium component UI strings, keyed by numeric message IDs.

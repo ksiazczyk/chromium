@@ -1,0 +1,4 @@
+# Docerion header of components_locale_settings_ja.xtb.
+type: data
+title: Japanese locale settings
+summary: Translation bundle with the Japanese accept-language list and Shift_JIS as the default encoding.

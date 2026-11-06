@@ -1,0 +1,4 @@
+# Docerion header of components_chromium_strings_fr.xtb.
+type: data
+title: 'Chromium strings: French'
+summary: French translations of Chromium UI strings such as tips, proxy configuration, and safe browsing messages, stored in the XTB XML translation bundle format.

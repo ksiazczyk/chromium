@@ -1,0 +1,4 @@
+# Docerion header of components_locale_settings_ko.xtb.
+type: data
+title: Korean locale settings
+summary: Translation bundle with the Korean accept-language list and windows-949 as the default encoding.

@@ -1,0 +1,4 @@
+# Docerion header of components_strings_az.xtb.
+type: data
+title: Chromium component strings in Azerbaijani
+summary: Azerbaijani translation bundle with localized UI strings for Chromium components, keyed by numeric message IDs.

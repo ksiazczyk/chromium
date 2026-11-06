@@ -1,0 +1,4 @@
+# Docerion header of components_locale_settings_pt-BR.xtb.
+type: data
+title: Brazilian Portuguese locale settings translation bundle
+summary: Brazilian Portuguese translation bundle defining the accepted languages list (pt-BR, pt, en-US, en) and the windows-1252 default encoding.

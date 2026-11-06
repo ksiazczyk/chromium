@@ -1,0 +1,4 @@
+# Docerion header of components_chromium_strings_kk.xtb.
+type: data
+title: Chromium strings translations (Kazakh)
+summary: Kazakh-language XTB translation bundle holding localized Chromium component UI strings such as settings, Safe Browsing, and payment messages.

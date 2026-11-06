@@ -1,0 +1,4 @@
+# Docerion header of components_strings_ky.xtb.
+type: data
+title: Chromium components strings in Kyrgyz
+summary: Kyrgyz translation bundle providing localized UI strings for Chromium components, mapping message IDs to translated text.

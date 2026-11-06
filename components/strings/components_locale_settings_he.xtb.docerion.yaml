@@ -1,0 +1,4 @@
+# Docerion header of components_locale_settings_he.xtb.
+type: data
+title: Hebrew locale settings translation bundle
+summary: Translation bundle with Hebrew locale settings, listing accepted languages and windows-1255 as the default encoding.

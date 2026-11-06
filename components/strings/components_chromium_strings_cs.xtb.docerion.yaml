@@ -1,0 +1,4 @@
+# Docerion header of components_chromium_strings_cs.xtb.
+type: data
+title: Chromium strings translation bundle (Czech)
+summary: XML translation bundle providing Czech localizations of Chromium UI strings, covering settings, proxy, Safe Browsing, crash reporting, and payment messages.

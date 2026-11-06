@@ -1,0 +1,4 @@
+# Docerion header of components_locale_settings_es.xtb.
+type: data
+title: Spanish locale settings translation bundle
+summary: Defines Spanish locale settings, listing accepted languages (es-ES, es) and the default windows-1252 character encoding.

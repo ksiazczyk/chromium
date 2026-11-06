@@ -1,0 +1,4 @@
+# Docerion header of components_strings_fa.xtb.
+type: data
+title: Persian translation bundle for Chromium component strings
+summary: XML translation bundle providing Persian translations of Chromium component UI strings, keyed by numeric message IDs.

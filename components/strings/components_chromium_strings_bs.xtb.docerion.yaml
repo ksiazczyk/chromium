@@ -1,0 +1,4 @@
+# Docerion header of components_chromium_strings_bs.xtb.
+type: data
+title: Chromium strings translation bundle (Bosnian)
+summary: XML translation bundle providing Bosnian localizations of Chromium UI strings, covering settings, proxy, Safe Browsing, Bluetooth pairing, and payment messages.

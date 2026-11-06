@@ -1,0 +1,4 @@
+# Docerion header of components_locale_settings_ru.xtb.
+type: data
+title: Russian locale settings translation bundle
+summary: Russian translation bundle defining the accepted languages list (ru-RU, ru, en-US, en) and the windows-1251 default encoding.

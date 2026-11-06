@@ -1,0 +1,4 @@
+# Docerion header of components_strings_bn.xtb.
+type: data
+title: Chromium component strings in Bengali
+summary: Bengali translation bundle with localized UI strings for Chromium components, keyed by numeric message IDs.

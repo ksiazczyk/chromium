@@ -1,0 +1,4 @@
+# Docerion header of components_strings_hu.xtb.
+type: data
+title: Hungarian component strings translation bundle
+summary: XML translation bundle with Hungarian translations of Chromium component UI strings such as dialogs, settings and warnings.

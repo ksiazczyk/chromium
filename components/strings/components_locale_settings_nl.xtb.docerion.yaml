@@ -1,0 +1,4 @@
+# Docerion header of components_locale_settings_nl.xtb.
+type: data
+title: Dutch locale settings
+summary: Translation bundle with the Dutch accept-language list and windows-1252 as the default encoding.

@@ -1,0 +1,4 @@
+# Docerion header of components_locale_settings_tr.xtb.
+type: data
+title: Turkish locale settings translation bundle
+summary: XML translation bundle providing Turkish locale settings such as accepted languages and the default text encoding for Chromium components.

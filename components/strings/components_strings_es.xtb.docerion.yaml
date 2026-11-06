@@ -1,0 +1,4 @@
+# Docerion header of components_strings_es.xtb.
+type: data
+title: Spanish translation bundle for Chromium component strings
+summary: XML translation bundle providing Spanish translations of Chromium component UI strings, keyed by numeric message IDs.

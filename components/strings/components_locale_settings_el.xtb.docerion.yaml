@@ -1,0 +1,4 @@
+# Docerion header of components_locale_settings_el.xtb.
+type: data
+title: Greek locale settings translation bundle
+summary: Defines Greek locale settings, listing accepted languages (el-GR, el) and the default ISO-8859-7 character encoding.

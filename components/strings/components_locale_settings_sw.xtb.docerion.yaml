@@ -1,0 +1,4 @@
+# Docerion header of components_locale_settings_sw.xtb.
+type: data
+title: Swahili locale settings translation bundle
+summary: Swahili translation bundle defining the accepted languages list (sw, en-GB, en) and the windows-1252 default encoding.

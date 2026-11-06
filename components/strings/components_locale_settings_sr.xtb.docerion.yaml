@@ -1,0 +1,4 @@
+# Docerion header of components_locale_settings_sr.xtb.
+type: data
+title: Serbian locale settings translation bundle
+summary: Serbian translation bundle defining the accepted languages list (sr-RS, sr, en-US, en) and the windows-1251 default encoding.

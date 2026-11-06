@@ -1,0 +1,4 @@
+# Docerion header of components_chromium_strings_es.xtb.
+type: data
+title: 'Chromium strings: Spanish'
+summary: Spanish translations of Chromium UI strings, covering tips, proxy settings, safe browsing, and payment messages, stored in the XTB XML translation bundle format.

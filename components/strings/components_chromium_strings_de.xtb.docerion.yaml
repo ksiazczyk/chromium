@@ -1,0 +1,4 @@
+# Docerion header of components_chromium_strings_de.xtb.
+type: data
+title: Chromium strings translation bundle (German)
+summary: XML translation bundle providing German localizations of Chromium UI strings, covering settings, proxy, Safe Browsing, crash reporting, and payment messages.

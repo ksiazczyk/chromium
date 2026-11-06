@@ -1,0 +1,4 @@
+# Docerion header of components_chromium_strings_lv.xtb.
+type: data
+title: Chromium strings translations (Latvian)
+summary: Latvian-language XTB translation bundle holding localized Chromium component UI strings such as settings, Safe Browsing, and payment messages.

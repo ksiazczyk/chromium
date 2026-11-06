@@ -1,0 +1,4 @@
+# Docerion header of components_locale_settings_th.xtb.
+type: data
+title: Thai locale settings translation bundle
+summary: XML translation bundle providing Thai locale settings such as accepted languages and the default text encoding for Chromium components.

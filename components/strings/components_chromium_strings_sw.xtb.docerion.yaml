@@ -1,0 +1,4 @@
+# Docerion header of components_chromium_strings_sw.xtb.
+type: data
+title: 'Chromium strings: Swahili'
+summary: Swahili translation bundle with Chromium-specific UI strings such as tips, error pages, and settings messages.

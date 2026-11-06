@@ -1,0 +1,4 @@
+# Docerion header of components_strings_sr.xtb.
+type: data
+title: Chromium component strings in Serbian (Cyrillic)
+summary: XML translation bundle with Serbian Cyrillic translations of Chromium component UI strings, keyed by numeric message IDs.

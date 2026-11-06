@@ -1,0 +1,4 @@
+# Docerion header of components_strings_lt.xtb.
+type: data
+title: Lithuanian component strings translation bundle
+summary: XML translation bundle providing Chromium component UI strings localized into Lithuanian for the browser's localization system.

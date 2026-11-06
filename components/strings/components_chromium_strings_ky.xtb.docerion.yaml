@@ -1,0 +1,4 @@
+# Docerion header of components_chromium_strings_ky.xtb.
+type: data
+title: Chromium strings translations (Kyrgyz)
+summary: Kyrgyz-language XTB translation bundle holding localized Chromium component UI strings such as settings, Safe Browsing, and payment messages.

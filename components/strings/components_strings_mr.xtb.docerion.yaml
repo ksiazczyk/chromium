@@ -1,0 +1,4 @@
+# Docerion header of components_strings_mr.xtb.
+type: data
+title: Marathi component strings translation bundle
+summary: XML translation bundle providing Chromium component UI strings localized into Marathi for the browser's localization system.

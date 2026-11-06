@@ -1,0 +1,4 @@
+# Docerion header of components_locale_settings_ta.xtb.
+type: data
+title: Tamil locale settings translation bundle
+summary: XML translation bundle providing Tamil locale settings such as accepted languages and the default text encoding for Chromium components.

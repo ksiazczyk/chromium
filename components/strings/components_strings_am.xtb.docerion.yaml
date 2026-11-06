@@ -1,0 +1,4 @@
+# Docerion header of components_strings_am.xtb.
+type: data
+title: Amharic UI strings translation bundle
+summary: Large XML translation bundle holding Amharic localized UI strings used across Chromium components.

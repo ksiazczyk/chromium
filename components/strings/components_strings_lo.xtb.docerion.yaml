@@ -1,0 +1,4 @@
+# Docerion header of components_strings_lo.xtb.
+type: data
+title: Lao component strings translation bundle
+summary: XML translation bundle providing Chromium component UI strings localized into Lao for the browser's localization system.

@@ -1,0 +1,4 @@
+# Docerion header of components_strings_km.xtb.
+type: data
+title: Chromium components strings in Khmer
+summary: Khmer translation bundle providing localized UI strings for Chromium components, mapping message IDs to translated text.

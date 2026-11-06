@@ -1,0 +1,4 @@
+# Docerion header of components_strings_be.xtb.
+type: data
+title: Chromium component strings in Belarusian
+summary: Belarusian translation bundle with localized UI strings for Chromium components, keyed by numeric message IDs.

@@ -1,0 +1,4 @@
+# Docerion header of components_locale_settings_kn.xtb.
+type: data
+title: Kannada locale settings
+summary: Translation bundle with the Kannada accept-language list and windows-1252 as the default encoding.

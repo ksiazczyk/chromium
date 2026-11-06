@@ -1,0 +1,4 @@
+# Docerion header of components_locale_settings_cs.xtb.
+type: data
+title: Czech locale settings translation bundle
+summary: Defines Czech locale settings, listing accepted languages (cs-CZ, cs) and the default windows-1250 character encoding.

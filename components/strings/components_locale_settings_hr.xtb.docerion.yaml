@@ -1,0 +1,4 @@
+# Docerion header of components_locale_settings_hr.xtb.
+type: data
+title: Croatian locale settings translation bundle
+summary: Translation bundle with Croatian locale settings, listing accepted languages and windows-1250 as the default encoding.

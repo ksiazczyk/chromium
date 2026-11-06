@@ -1,0 +1,4 @@
+# Docerion header of components_locale_settings_pl.xtb.
+type: data
+title: Polish locale settings translation bundle
+summary: Polish translation bundle defining the accepted languages list (pl-PL, pl, en-US, en) and the ISO-8859-2 default encoding for Chromium.

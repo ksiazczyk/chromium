@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for components strings
+summary: Maps the components/strings directory to the Internals monorail component and a public Buganizer component for issue routing.
