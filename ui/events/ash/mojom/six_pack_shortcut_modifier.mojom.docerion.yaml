@@ -1,0 +1,4 @@
+# Docerion header of six_pack_shortcut_modifier.mojom.
+type: source
+title: Six-pack shortcut modifier Mojom enum
+summary: Defines the ui.mojom SixPackShortcutModifier enum listing modifiers used when remapping key events to six-pack keys such as PageUp and PageDown.

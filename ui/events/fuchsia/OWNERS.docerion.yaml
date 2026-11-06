@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for ui/events/fuchsia
+summary: Delegates code ownership for this directory to the owners of build/fuchsia.

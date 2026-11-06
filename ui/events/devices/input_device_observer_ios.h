@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputDeviceObserverIOS class header for iOS input device changes
+// summary: Declares the InputDeviceObserverIOS singleton that notifies InputDeviceEventObserver instances when input devices change on iOS.
+// ---
+
 #ifndef UI_EVENTS_DEVICES_INPUT_DEVICE_OBSERVER_IOS_H_
 #define UI_EVENTS_DEVICES_INPUT_DEVICE_OBSERVER_IOS_H_
 

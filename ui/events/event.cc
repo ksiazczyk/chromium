@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event base class implementation
+// summary: Implements the core Event class and helpers for event names, momentum and scroll phases, result flags and double-click timing.
+// ---
+
 #include "ui/events/event.h"
 
 #include <cmath>

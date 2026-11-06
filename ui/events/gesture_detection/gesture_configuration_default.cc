@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default gesture configuration
+// summary: Provides the default GestureConfiguration singleton used on platforms without specific settings, such as Mac.
+// ---
+
 #include "ui/events/gesture_detection/gesture_configuration.h"
 
 #include "base/memory/singleton.h"

@@ -1,0 +1,4 @@
+# Docerion header of input_device_observer_ios.mm.
+type: source
+title: iOS mouse device observer implementation using GameController
+summary: Implements the iOS input device observer, tracking mouse connect and disconnect events via GameController notifications and forwarding them to registered observers.

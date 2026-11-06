@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EdgeToEdgeBaseLayout
+// summary: Android FrameLayout that adjusts child padding from window insets and paints status bar, navigation bar, caption bar, and display cutout colors for edge-to-edge drawing.
+// ---
+
 package org.chromium.ui.edge_to_edge.layout;
 
 import android.content.Context;

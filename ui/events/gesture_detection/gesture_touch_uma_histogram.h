@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gesture touch UMA histogram types
+// summary: Declares the UMAEventType enum and GestureTouchUMAHistogram helper class used to record touch and gesture metrics.
+// ---
+
 #ifndef UI_EVENTS_GESTURE_DETECTION_GESTURE_TOUCH_UMA_HISTOGRAM_H_
 #define UI_EVENTS_GESTURE_DETECTION_GESTURE_TOUCH_UMA_HISTOGRAM_H_
 

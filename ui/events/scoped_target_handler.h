@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedTargetHandler class declaration
+// summary: Declares an event handler that temporarily replaces an event target's handler to forward events to both the original and a new handler.
+// ---
+
 #ifndef UI_EVENTS_SCOPED_TARGET_HANDLER_H_
 #define UI_EVENTS_SCOPED_TARGET_HANDLER_H_
 

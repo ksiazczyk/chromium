@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cached historical event source header
+// summary: Declares a MotionEventAndroidSource that caches fully resolved motion event data, including historical events, for use with mojo serialization.
+// ---
+
 #ifndef UI_EVENTS_ANDROID_CACHED_HISTORICAL_EVENT_SOURCE_H_
 #define UI_EVENTS_ANDROID_CACHED_HISTORICAL_EVENT_SOURCE_H_
 

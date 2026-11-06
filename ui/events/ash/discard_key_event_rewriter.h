@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Discard key event rewriter header
+// summary: Declares DiscardKeyEventRewriter, which discards Fn events and removes function modifier flags from events.
+// ---
+
 #ifndef UI_EVENTS_ASH_DISCARD_KEY_EVENT_REWRITER_H_
 #define UI_EVENTS_ASH_DISCARD_KEY_EVENT_REWRITER_H_
 

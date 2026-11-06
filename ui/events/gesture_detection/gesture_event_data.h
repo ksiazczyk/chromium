@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gesture event data structure
+// summary: Declares the GestureEventData struct holding gesture details, position, time, tool type and the unique touch event id.
+// ---
+
 #ifndef UI_EVENTS_GESTURE_DETECTION_GESTURE_EVENT_DATA_H_
 #define UI_EVENTS_GESTURE_DETECTION_GESTURE_EVENT_DATA_H_
 

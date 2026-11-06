@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event handler class declaration
+// summary: Declares the EventHandler base class with virtual callbacks for key, mouse, scroll, touch, gesture and cancel mode events.
+// ---
+
 #ifndef UI_EVENTS_EVENT_HANDLER_H_
 #define UI_EVENTS_EVENT_HANDLER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for ui/events
+summary: Restricts which headers and directories files in ui/events may include, allowing ui/base, ui/display, ui/gfx, ui/latency and ozone keyboard hooks.

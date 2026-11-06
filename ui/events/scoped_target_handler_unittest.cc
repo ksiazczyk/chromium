@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScopedTargetHandler unit tests
+// summary: Unit tests for ScopedTargetHandler covering nested dispatch, target destruction during handling and event counting.
+// ---
+
 #include "ui/events/scoped_target_handler.h"
 
 #include <memory>

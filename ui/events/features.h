@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UI events feature flag declarations
+// summary: Declares base::Feature flags and parameters for gesture timeout compensation, legacy key repeat synthesis, double-click fixes, and Android touchpad detection.
+// ---
+
 #ifndef UI_EVENTS_FEATURES_H_
 #define UI_EVENTS_FEATURES_H_
 

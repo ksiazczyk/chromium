@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Discard key event rewriter implementation
+// summary: Implements discarding Fn key events and stripping the function modifier flag from key, mouse and touch events.
+// ---
+
 #include "ui/events/ash/discard_key_event_rewriter.h"
 
 #include "ui/events/event.h"

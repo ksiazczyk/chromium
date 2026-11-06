@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DragEventAndroid implementation
+// summary: Implements DragEventAndroid, holding Java drag event references and creating copies of the event relocated to a new location.
+// ---
+
 #include "ui/events/android/drag_event_android.h"
 
 #include <memory>

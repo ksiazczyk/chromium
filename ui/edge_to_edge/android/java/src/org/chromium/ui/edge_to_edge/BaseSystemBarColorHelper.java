@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BaseSystemBarColorHelper
+// summary: Abstract base implementation of SystemBarColorHelper that tracks status bar, navigation bar and divider colors and derives icon colors from luminance.
+// ---
+
 package org.chromium.ui.edge_to_edge;
 
 import android.graphics.Color;

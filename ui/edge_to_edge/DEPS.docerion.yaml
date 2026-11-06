@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Edge-to-edge include rules
+summary: DEPS rule that allows this directory to depend on code in ui/android.

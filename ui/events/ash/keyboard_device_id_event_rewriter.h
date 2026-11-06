@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyboard device ID event rewriter
+// summary: Declares a rewriter that adjusts and annotates keyboard device IDs on rewritten key, mouse and touch events.
+// ---
+
 #ifndef UI_EVENTS_ASH_KEYBOARD_DEVICE_ID_EVENT_REWRITER_H_
 #define UI_EVENTS_ASH_KEYBOARD_DEVICE_ID_EVENT_REWRITER_H_
 

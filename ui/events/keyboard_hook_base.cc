@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyboard hook base implementation
+// summary: Implements KeyboardHookBase, deciding which DOM key codes should be captured and forwarding captured key events to the registered callback.
+// ---
+
 #include "ui/events/keyboard_hook_base.h"
 
 #include <utility>

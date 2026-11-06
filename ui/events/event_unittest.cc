@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Event unit tests
+// summary: Unit tests for event classes covering native events, key characters, click counts, and repeated click detection.
+// ---
+
 #include "ui/events/event.h"
 
 #include <stddef.h>

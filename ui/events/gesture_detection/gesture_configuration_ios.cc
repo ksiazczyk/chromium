@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS gesture configuration
+// summary: Defines the iOS-specific GestureConfiguration singleton with platform defaults for double-tap, fling tap suppression and press timings.
+// ---
+
 #include "ui/events/gesture_detection/gesture_configuration.h"
 
 #include "base/command_line.h"

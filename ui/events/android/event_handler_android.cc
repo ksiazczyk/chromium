@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EventHandlerAndroid default implementations
+// summary: Provides default no-op implementations for the EventHandlerAndroid event and view-change callbacks.
+// ---
+
 #include "ui/events/android/event_handler_android.h"
 
 #include "ui/gfx/geometry/rect.h"

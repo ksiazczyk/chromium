@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EdgeToEdgeSupplier
+// summary: Interface supplying edge-to-edge state and bottom inset values, with registration of pad adjusters and change observers.
+// ---
+
 package org.chromium.ui.edge_to_edge;
 
 import androidx.annotation.Px;

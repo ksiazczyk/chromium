@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EdgeToEdgeManager unit test
+// summary: Robolectric unit test verifying EdgeToEdgeManager creation, edge-to-edge token acquisition, and deferred initialization of the system bar color helper supplier.
+// ---
+
 package org.chromium.ui.edge_to_edge;
 
 import static org.junit.Assert.assertEquals;

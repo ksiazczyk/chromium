@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NullEventTargeter class declaration
+// summary: Declares an event targeter that can be installed on a root window to prevent it from dispatching events, such as during shutdown.
+// ---
+
 #ifndef UI_EVENTS_NULL_EVENT_TARGETER_H_
 #define UI_EVENTS_NULL_EVENT_TARGETER_H_
 

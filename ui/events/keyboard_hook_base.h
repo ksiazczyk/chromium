@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyboard hook base class
+// summary: Declares KeyboardHookBase, a shared base for KeyboardHook implementations that stores the set of intercepted DOM codes and forwards captured key events.
+// ---
+
 #ifndef UI_EVENTS_KEYBOARD_HOOK_BASE_H_
 #define UI_EVENTS_KEYBOARD_HOOK_BASE_H_
 

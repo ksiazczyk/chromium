@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for ui/events/ash
+summary: Lists the owners responsible for reviewing changes to the ash events directory.

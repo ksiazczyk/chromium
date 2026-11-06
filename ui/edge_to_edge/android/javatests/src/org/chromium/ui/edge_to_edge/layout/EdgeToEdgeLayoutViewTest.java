@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EdgeToEdgeLayoutViewTest
+// summary: JUnit test for the edge-to-edge layout view that verifies inset handling, bar colors, and rendering using a blank UI test activity and render test rules.
+// ---
+
 package org.chromium.ui.edge_to_edge.layout;
 
 import static org.mockito.Mockito.doReturn;

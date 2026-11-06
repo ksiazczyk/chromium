@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scale gesture detector header
+// summary: Declares ScaleGestureDetector, its configuration struct, and accessors for span, focus, scale factor and angle during pinch gestures.
+// ---
+
 #ifndef UI_EVENTS_GESTURE_DETECTION_SCALE_GESTURE_DETECTOR_H_
 #define UI_EVENTS_GESTURE_DETECTION_SCALE_GESTURE_DETECTOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GamepadDevice implementation
+// summary: Implements the GamepadDevice class constructors and destructor for representing gamepad device state.
+// ---
+
 #include "ui/events/devices/gamepad_device.h"
 
 namespace ui {

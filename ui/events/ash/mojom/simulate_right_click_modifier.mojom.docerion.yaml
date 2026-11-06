@@ -1,0 +1,4 @@
+# Docerion header of simulate_right_click_modifier.mojom.
+type: source
+title: Simulate right-click modifier Mojom enum
+summary: Defines the ui.mojom SimulateRightClickModifier enum listing modifiers used to simulate a right-click with keyboard and touchpad, with stable pref values.

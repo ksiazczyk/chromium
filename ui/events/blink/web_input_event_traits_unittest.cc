@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web input event traits unit tests
+// summary: Unit tests verifying that WebInputEventTraits::ToString returns non-empty strings for keyboard, mouse, wheel, gesture and touch events.
+// ---
+
 #include "ui/events/blink/web_input_event_traits.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

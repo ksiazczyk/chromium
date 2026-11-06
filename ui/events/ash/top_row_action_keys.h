@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TopRowActionKey enum definition
+// summary: Defines the TopRowActionKey enum of Chromebook top-row keys such as refresh, screenshot, volume and dictation, and declares the function returning each key's name.
+// ---
+
 #ifndef UI_EVENTS_ASH_TOP_ROW_ACTION_KEYS_H_
 #define UI_EVENTS_ASH_TOP_ROW_ACTION_KEYS_H_
 

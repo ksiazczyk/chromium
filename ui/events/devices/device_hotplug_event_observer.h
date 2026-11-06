@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceHotplugEventObserver interface
+// summary: Abstract listener interface called on input device hotplug events for touchscreens, keyboards, mice, touchpads and stylus state.
+// ---
+
 #ifndef UI_EVENTS_DEVICES_DEVICE_HOTPLUG_EVENT_OBSERVER_H_
 #define UI_EVENTS_DEVICES_DEVICE_HOTPLUG_EVENT_OBSERVER_H_
 

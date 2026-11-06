@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyboard modifier event rewriter declarations
+// summary: Declares the rewriter that remaps modifier keys per preferences, with a delegate interface for Chrome dependencies.
+// ---
+
 #ifndef UI_EVENTS_ASH_KEYBOARD_MODIFIER_EVENT_REWRITER_H_
 #define UI_EVENTS_ASH_KEYBOARD_MODIFIER_EVENT_REWRITER_H_
 

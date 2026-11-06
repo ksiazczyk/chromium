@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Events base export macros
+// summary: Defines the EVENTS_BASE_EXPORT macro controlling symbol visibility for the events base component on Windows and other platforms.
+// ---
+
 #ifndef UI_EVENTS_EVENTS_BASE_EXPORT_H_
 #define UI_EVENTS_EVENTS_BASE_EXPORT_H_
 

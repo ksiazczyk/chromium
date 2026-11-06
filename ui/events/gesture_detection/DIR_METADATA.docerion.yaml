@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA
+summary: Routes bugs and questions for the gesture detection folder to the Blink>Input component and the input-dev team.

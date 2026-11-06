@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TouchFactory implementation
+// summary: Implements the TouchFactory singleton that detects X11 touch devices, sets up XInput2 event selection for windows and maps tracking IDs to slots.
+// ---
+
 #include "ui/events/devices/x11/touch_factory_x11.h"
 
 #include <stddef.h>

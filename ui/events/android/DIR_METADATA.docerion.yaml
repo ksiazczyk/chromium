@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for ui/events/android
+summary: Specifies the Blink>Input monorail component, input-dev team email and Buganizer component that own this directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Keyboard event counter unit tests
+// summary: Unit tests verifying that KeyboardEventCounter counts repeated key presses only after release and that releasing keys does not change the total count.
+// ---
+
 #include "ui/events/keyboard_event_counter.h"
 
 #include <memory>

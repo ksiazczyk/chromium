@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TouchscreenDevice struct declaration
+// summary: Declares the TouchscreenDevice struct with screen size, touch point count, stylus capabilities and target display id.
+// ---
+
 #ifndef UI_EVENTS_DEVICES_TOUCHSCREEN_DEVICE_H_
 #define UI_EVENTS_DEVICES_TOUCHSCREEN_DEVICE_H_
 

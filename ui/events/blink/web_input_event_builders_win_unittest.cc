@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows web input event builder tests
+// summary: Tests that WebMouseEventBuilder::Build performs pixel to DIP conversion correctly for widget and screen coordinates under a forced device scale factor.
+// ---
+
 #include "ui/events/blink/web_input_event_builders_win.h"
 #include "base/command_line.h"
 #include "base/test/metrics/histogram_tester.h"

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA issue tracker mapping for ui/events
+summary: Maps the ui/events directory to the UI>Input monorail component and a Buganizer component ID for issue tracking.

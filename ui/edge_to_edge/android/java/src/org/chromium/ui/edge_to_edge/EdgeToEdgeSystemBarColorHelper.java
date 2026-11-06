@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EdgeToEdgeSystemBarColorHelper
+// summary: Helper that applies system bar colors to the window or a delegate depending on edge-to-edge status, making bars transparent when drawing to the edge.
+// ---
+
 package org.chromium.ui.edge_to_edge;
 
 import android.graphics.Color;

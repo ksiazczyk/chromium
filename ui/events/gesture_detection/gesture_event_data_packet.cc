@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gesture event data packet implementation
+// summary: Implements GestureEventDataPacket, building packets from touch events or timeouts, mapping touch actions to gesture sources and tracking ack state.
+// ---
+
 #include "ui/events/gesture_detection/gesture_event_data_packet.h"
 
 #include "base/check_op.h"

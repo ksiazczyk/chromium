@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyboard event counter implementation
+// summary: Implements KeyboardEventCounter, tracking total key presses by counting each key down once until the same key is released.
+// ---
+
 #include "ui/events/keyboard_event_counter.h"
 
 #include "base/check_op.h"

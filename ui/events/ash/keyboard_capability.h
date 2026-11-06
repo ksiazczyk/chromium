@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeyboardCapability header
+// summary: Declares the KeyboardCapability class and constants mapping top row action keys to function keys for various keyboard layouts.
+// ---
+
 #ifndef UI_EVENTS_ASH_KEYBOARD_CAPABILITY_H_
 #define UI_EVENTS_ASH_KEYBOARD_CAPABILITY_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of events_mac_unittest.mm.
+type: source
+title: Mac event conversion unit tests
+summary: Unit tests for Mac native event conversion, covering mouse, scroll wheel and trackpad scroll event sequences.

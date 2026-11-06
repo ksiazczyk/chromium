@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows input device observer watching slate mode registry key
+// summary: Implements the Windows input device observer that watches the ConvertibleSlateMode registry value and notifies keyboard and touchpad observers on changes.
+// ---
+
 #include "ui/events/devices/input_device_observer_win.h"
 
 #include <windows.h>

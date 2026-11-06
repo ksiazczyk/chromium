@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gesture configuration singleton
+// summary: Implements the GestureConfiguration singleton that returns the platform-specific instance.
+// ---
+
 #include "build/build_config.h"
 #include "ui/events/gesture_detection/gesture_configuration.h"
 

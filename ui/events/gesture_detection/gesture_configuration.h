@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gesture configuration parameters
+// summary: Declares the GestureConfiguration singleton with accessors for gesture detection parameters such as timeouts, slop values and bounds.
+// ---
+
 #ifndef UI_EVENTS_GESTURE_DETECTION_GESTURE_CONFIGURATION_H_
 #define UI_EVENTS_GESTURE_DETECTION_GESTURE_CONFIGURATION_H_
 

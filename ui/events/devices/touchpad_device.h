@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TouchpadDevice struct declaration
+// summary: Declares the TouchpadDevice struct extending InputDevice with a flag marking haptic touchpads.
+// ---
+
 #ifndef UI_EVENTS_DEVICES_TOUCHPAD_DEVICE_H_
 #define UI_EVENTS_DEVICES_TOUCHPAD_DEVICE_H_
 

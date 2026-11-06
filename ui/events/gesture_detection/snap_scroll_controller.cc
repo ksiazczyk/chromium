@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Snap scroll controller implementation
+// summary: Implements scroll snapping logic that locks scrolling to horizontal or vertical rails based on touch motion ratios and accumulated distances.
+// ---
+
 #include "ui/events/gesture_detection/snap_scroll_controller.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Keyboard device ID event rewriter unit tests
+// summary: Unit tests verifying device ID annotation behavior of the keyboard device ID event rewriter using a test continuation.
+// ---
+
 #include "ui/events/ash/keyboard_device_id_event_rewriter.h"
 
 #include <memory>

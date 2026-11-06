@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Edge-to-edge base layout
+summary: Android layout XML that instantiates the EdgeToEdgeBaseLayout custom view with a transparent background for edge-to-edge drawing.
+-->
+
 <!-- A non-transparent background is needed for the custom #onDraw to work. -->
 <org.chromium.ui.edge_to_edge.layout.EdgeToEdgeBaseLayout
     xmlns:android="http://schemas.android.com/apk/res/android"

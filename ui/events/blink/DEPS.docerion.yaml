@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for blink input events
+summary: Specifies the include rules listing the directories and headers that code in ui/events/blink is allowed to depend on.

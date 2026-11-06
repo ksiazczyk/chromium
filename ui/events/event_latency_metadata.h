@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event latency metadata
+// summary: Defines a POD struct holding timestamps for event latency tracking, such as arrival in the browser and dispatch to the renderer.
+// ---
+
 #ifndef UI_EVENTS_EVENT_LATENCY_METADATA_H_
 #define UI_EVENTS_EVENT_LATENCY_METADATA_H_
 

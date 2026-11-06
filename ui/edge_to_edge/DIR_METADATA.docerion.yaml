@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Edge-to-edge directory metadata
+summary: Maps the directory to the UI>Browser>Mobile>EdgeToEdge monorail component, the clank-app-team mailing list, and the Android OS.

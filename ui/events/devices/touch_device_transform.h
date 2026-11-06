@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TouchDeviceTransform struct declaration
+// summary: Declares the TouchDeviceTransform struct mapping a touch device to a display with a transform and a touch radius scale.
+// ---
+
 #ifndef UI_EVENTS_DEVICES_TOUCH_DEVICE_TRANSFORM_H_
 #define UI_EVENTS_DEVICES_TOUCH_DEVICE_TRANSFORM_H_
 

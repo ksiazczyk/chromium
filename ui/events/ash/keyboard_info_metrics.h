@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyboard info metrics declarations
+// summary: Declares metric enums for top row layouts and key usage categories plus the keyboard info metrics recording function.
+// ---
+
 #ifndef UI_EVENTS_ASH_KEYBOARD_INFO_METRICS_H_
 #define UI_EVENTS_ASH_KEYBOARD_INFO_METRICS_H_
 

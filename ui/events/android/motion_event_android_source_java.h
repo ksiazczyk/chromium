@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Java-backed Android motion event source header
+// summary: Declares MotionEventAndroidSourceJava, the Java-backed implementation of the Android motion event source interface.
+// ---
+
 #ifndef UI_EVENTS_ANDROID_MOTION_EVENT_ANDROID_SOURCE_JAVA_H_
 #define UI_EVENTS_ANDROID_MOTION_EVENT_ANDROID_SOURCE_JAVA_H_
 

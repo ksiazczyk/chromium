@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gesture detector implementation
+// summary: Implements GestureDetector, a Chromium port of Android's GestureDetector that detects taps, scrolls, flings, swipes and long presses from motion events.
+// ---
+
 #include "ui/events/gesture_detection/gesture_detector.h"
 
 #include <stddef.h>

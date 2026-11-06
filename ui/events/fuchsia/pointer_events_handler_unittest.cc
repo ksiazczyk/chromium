@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PointerEventsHandler unit tests
+// summary: Unit tests exercising PointerEventsHandler touch and mouse event conversion using fake Fuchsia pointer sources.
+// ---
+
 #include "ui/events/fuchsia/pointer_events_handler.h"
 
 #include <fidl/fuchsia.ui.pointer/cpp/fidl.h>

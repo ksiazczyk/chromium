@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EdgeToEdgeLayoutUnitTest
+// summary: Robolectric unit tests for the Chromium edge-to-edge layout coordinator, covering initialization and inset handling for status bars, navigation bars, display cutouts, and the IME.
+// ---
+
 package org.chromium.ui.edge_to_edge.layout;
 
 import static org.junit.Assert.assertEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gesture touch UMA histogram recording
+// summary: Records gesture and touch events into UMA histograms, including maximum drag distances per tool type such as finger, stylus and eraser.
+// ---
+
 #include "ui/events/gesture_detection/gesture_touch_uma_histogram.h"
 
 #include <ostream>

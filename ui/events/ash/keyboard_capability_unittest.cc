@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: KeyboardCapability unit tests
+// summary: Unit tests verifying keyboard capability detection, top row layout parsing, and key event behavior across device types.
+// ---
+
 #include "ui/events/ash/keyboard_capability.h"
 
 #include <linux/input-event-codes.h>

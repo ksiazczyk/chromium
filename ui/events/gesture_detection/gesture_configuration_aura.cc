@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aura gesture configuration
+// summary: Provides the Aura-specific GestureConfiguration with ChromeOS touch slop values, velocity tracker strategy and command line overrides.
+// ---
+
 #include "ui/events/gesture_detection/gesture_configuration.h"
 
 #include "base/command_line.h"

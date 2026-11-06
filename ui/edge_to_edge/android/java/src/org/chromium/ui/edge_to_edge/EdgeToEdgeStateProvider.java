@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EdgeToEdgeStateProvider
+// summary: Activity-level coordinator that tracks edge-to-edge requests via tokens and toggles Window.setDecorFitsSystemWindows accordingly.
+// ---
+
 package org.chromium.ui.edge_to_edge;
 
 import android.view.Window;

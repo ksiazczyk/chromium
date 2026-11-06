@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputEventSink interface
+// summary: Declares the InputEventSink interface used to dispatch Fuchsia input events translated into Chrome ui::Events.
+// ---
+
 #ifndef UI_EVENTS_FUCHSIA_INPUT_EVENT_SINK_H_
 #define UI_EVENTS_FUCHSIA_INPUT_EVENT_SINK_H_
 

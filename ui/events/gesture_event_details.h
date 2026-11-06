@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gesture event details struct
+// summary: Declares the GestureEventDetails struct carrying gesture event data such as scroll deltas and rails mode, touch point count, device type, pointer info, and the gesture bounding box.
+// ---
+
 #ifndef UI_EVENTS_GESTURE_EVENT_DETAILS_H_
 #define UI_EVENTS_GESTURE_EVENT_DETAILS_H_
 

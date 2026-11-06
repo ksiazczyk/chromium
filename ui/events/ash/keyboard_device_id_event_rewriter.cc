@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeyboardDeviceIdEventRewriter implementation
+// summary: Implements a rewriter that annotates events with the correct keyboard device id for later modifier flag rewriting.
+// ---
+
 #include "ui/events/ash/keyboard_device_id_event_rewriter.h"
 
 #include <memory>

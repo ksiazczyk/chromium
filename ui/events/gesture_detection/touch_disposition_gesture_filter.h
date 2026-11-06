@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touch disposition gesture filter interface
+// summary: Declares TouchDispositionGestureFilter, which produces a refined gesture sequence from gesture packets using the ack dispositions of the generating touch events.
+// ---
+
 #ifndef UI_EVENTS_GESTURE_DETECTION_TOUCH_DISPOSITION_GESTURE_FILTER_H_
 #define UI_EVENTS_GESTURE_DETECTION_TOUCH_DISPOSITION_GESTURE_FILTER_H_
 

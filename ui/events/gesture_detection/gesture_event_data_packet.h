@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gesture event data packet interface
+// summary: Declares GestureEventDataPacket, a transport container for gestures produced by a touch event, with gesture source and ack state enums.
+// ---
+
 #ifndef UI_EVENTS_GESTURE_DETECTION_GESTURE_EVENT_DATA_PACKET_H_
 #define UI_EVENTS_GESTURE_DETECTION_GESTURE_EVENT_DATA_PACKET_H_
 

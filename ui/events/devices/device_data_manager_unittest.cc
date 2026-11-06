@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DeviceDataManager unit tests
+// summary: Unit tests covering touch device display targeting, touchscreen target display validity and observer notification counts.
+// ---
+
 #include "ui/events/devices/device_data_manager.h"
 
 #include "base/scoped_observation.h"

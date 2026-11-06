@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for InputDevice log description
+// summary: Unit tests checking the log description output of ui::InputDevice and the string representation of InputDeviceType values.
+// ---
+
 #include "ui/events/devices/input_device.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for ui/events/ash
+summary: Declares the include directories that code in the ash events directory is allowed to depend on.

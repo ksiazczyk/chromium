@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android gesture configuration
+// summary: Provides the Android-specific GestureConfiguration, initialized from Android ViewConfiguration values for timeouts, slop and fling limits.
+// ---
+
 #include "ui/events/gesture_detection/gesture_configuration.h"
 
 #include "base/memory/singleton.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event source implementation
+// summary: Implements EventSource, routing events through the registered rewriter list to the event sink and managing rewriter continuations.
+// ---
+
 #include "ui/events/event_source.h"
 
 #include "base/logging.h"

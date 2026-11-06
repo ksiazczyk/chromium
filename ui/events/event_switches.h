@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event switch declarations
+// summary: Declares exported command-line switch constants for event-related settings on Linux, ChromeOS, and Ozone builds.
+// ---
+
 #ifndef UI_EVENTS_EVENT_SWITCHES_H_
 #define UI_EVENTS_EVENT_SWITCHES_H_
 

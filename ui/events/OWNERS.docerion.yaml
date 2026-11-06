@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS reviewers for ui/events
+summary: Lists the code owners who review changes to ui/events, noting that structural changes require owner review.

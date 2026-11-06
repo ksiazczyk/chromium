@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EdgeToEdgeTokenHolder
+// summary: Wrapper that owns at most one edge-to-edge token from an EdgeToEdgeStateProvider, simplifying acquire, release and state checks for callers.
+// ---
+
 package org.chromium.ui.edge_to_edge;
 
 import org.chromium.build.annotations.NullMarked;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceDataManagerX11 implementation
+// summary: Implements the X11 device data manager that extracts and tracks mouse, touchpad and touchscreen event data from XInput valuators.
+// ---
+
 #include "ui/events/devices/x11/device_data_manager_x11.h"
 
 #include <stddef.h>

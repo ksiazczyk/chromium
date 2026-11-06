@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base event utility implementations
+// summary: Implements shared event helpers such as touch event ID generation, system key modifier checks, timestamp conversion and bogus timestamp validation.
+// ---
+
 #include "ui/events/base_event_utils.h"
 
 #include "base/atomic_sequence_num.h"

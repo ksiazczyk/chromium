@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event modifiers implementation
+// summary: Implements EventModifiers, tracking pressed and locked modifier keys and mapping modifiers to event flags.
+// ---
+
 #include "ui/events/event_modifiers.h"
 
 #include <array>

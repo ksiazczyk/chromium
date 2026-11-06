@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PhysicalKey helper for event rewriter internals
+// summary: Defines an internal PhysicalKey struct used by the EventRewriter implementation to remember key state before rewriting.
+// ---
+
 #ifndef UI_EVENTS_ASH_EVENT_REWRITER_UTILS_H_
 #define UI_EVENTS_ASH_EVENT_REWRITER_UTILS_H_
 

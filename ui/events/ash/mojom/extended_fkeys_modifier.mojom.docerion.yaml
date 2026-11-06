@@ -1,0 +1,4 @@
+# Docerion header of extended_fkeys_modifier.mojom.
+type: source
+title: Extended F-keys modifier Mojom enum
+summary: Defines the ui.mojom ExtendedFkeysModifier enum listing modifiers used to simulate extended F-keys (F11/F12), with stable values persisted to prefs.

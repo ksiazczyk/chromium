@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mobile scroller implementation
+// summary: Implements MobileScroller, a native port of android.widget.Scroller that computes scroll and fling offsets using spline-based deceleration and viscosity constants.
+// ---
+
 
 #include "ui/events/mobile_scroller.h"
 

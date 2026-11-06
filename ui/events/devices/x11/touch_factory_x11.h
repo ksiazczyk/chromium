@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TouchFactory header
+// summary: Declares the TouchFactory singleton for identifying touch devices, filtering device events and managing touch slot mappings.
+// ---
+
 #ifndef UI_EVENTS_DEVICES_X11_TOUCH_FACTORY_X11_H_
 #define UI_EVENTS_DEVICES_X11_TOUCH_FACTORY_X11_H_
 

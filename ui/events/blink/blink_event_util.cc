@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Blink event utility implementations
+// summary: Implements helpers that convert UI gesture, touch and mouse events into Blink WebInputEvent objects and translate or scale them.
+// ---
+
 #include "ui/events/blink/blink_event_util.h"
 
 #include <stddef.h>

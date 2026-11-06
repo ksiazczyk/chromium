@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web input event conversion unit tests
+// summary: Unit tests checking that ui events are converted into DOM3-compliant Blink WebInputEvents, covering keyboard modifiers, DOM codes and key values.
+// ---
+
 #include "ui/events/blink/web_input_event.h"
 
 #include <array>

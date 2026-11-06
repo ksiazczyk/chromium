@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event command-line switches
+// summary: Defines command-line switch names for event behavior such as touch slop distance, pinch zoom compensation, and touch or pen device selection.
+// ---
+
 #include "build/build_config.h"
 #include "ui/events/event_switches.h"
 

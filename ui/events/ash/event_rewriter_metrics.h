@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event rewriter metrics enums and recording API
+// summary: Declares the ModifierKeyUsageMetric and InputKeyEventToFunctionKey enums plus functions that record modifier key usage metrics.
+// ---
+
 #ifndef UI_EVENTS_ASH_EVENT_REWRITER_METRICS_H_
 #define UI_EVENTS_ASH_EVENT_REWRITER_METRICS_H_
 

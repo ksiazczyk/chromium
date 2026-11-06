@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scale gesture listener interfaces
+// summary: Declares the ScaleGestureListener interface through which ScaleGestureDetector signals scale events, plus the no-op SimpleScaleGestureListener base class.
+// ---
+
 #ifndef UI_EVENTS_GESTURE_DETECTION_SCALE_GESTURE_LISTENERS_H_
 #define UI_EVENTS_GESTURE_DETECTION_SCALE_GESTURE_LISTENERS_H_
 

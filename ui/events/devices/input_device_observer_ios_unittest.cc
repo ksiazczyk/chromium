@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for InputDeviceObserverIOS
+// summary: Unit tests verifying observer add and remove behavior, mouse device state tracking, and notification of multiple observers for InputDeviceObserverIOS.
+// ---
+
 #include "ui/events/devices/input_device_observer_ios.h"
 
 #include "build/blink_buildflags.h"

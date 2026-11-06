@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XInput mask utility functions
+// summary: Provides inline helpers to set and test bits in XInput event selection masks.
+// ---
+
 #ifndef UI_EVENTS_DEVICES_X11_XINPUT_UTIL_H_
 #define UI_EVENTS_DEVICES_X11_XINPUT_UTIL_H_
 

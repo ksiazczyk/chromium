@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gesture listener defaults
+// summary: Provides no-op default implementations for the SimpleGestureListener gesture callback methods such as tap, scroll, fling and double-tap.
+// ---
+
 #include "ui/events/gesture_detection/gesture_listeners.h"
 
 namespace ui {

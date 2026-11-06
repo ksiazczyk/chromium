@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Events devices export macros
+// summary: Defines the EVENTS_DEVICES_EXPORT macro controlling symbol visibility for the component build.
+// ---
+
 #ifndef UI_EVENTS_DEVICES_EVENTS_DEVICES_EXPORT_H_
 #define UI_EVENTS_DEVICES_EVENTS_DEVICES_EXPORT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UI event to WebInputEvent conversion
+// summary: 'Converts ui:: mouse, keyboard, wheel, scroll, and gesture events into corresponding blink WebInputEvent objects, with Windows-specific native paths.'
+// ---
+
 #include "ui/events/blink/web_input_event.h"
 
 #include <utility>

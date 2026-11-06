@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputDeviceObserverWin class header
+// summary: Declares the InputDeviceObserverWin singleton that monitors the Windows slate mode registry key and notifies input device event observers.
+// ---
+
 #ifndef UI_EVENTS_DEVICES_INPUT_DEVICE_OBSERVER_WIN_H_
 #define UI_EVENTS_DEVICES_INPUT_DEVICE_OBSERVER_WIN_H_
 

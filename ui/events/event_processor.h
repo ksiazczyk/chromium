@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event processor interface
+// summary: Declares the EventProcessor class that receives events from an EventSource and dispatches them to a tree of EventTargets via a targeter.
+// ---
+
 #ifndef UI_EVENTS_EVENT_PROCESSOR_H_
 #define UI_EVENTS_EVENT_PROCESSOR_H_
 

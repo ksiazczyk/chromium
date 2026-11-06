@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Event rewriter unit tests
+// summary: Unit tests covering event rewriting, rewriter sequencing, addition, and removal using test sources, sinks, and constant rewriters.
+// ---
+
 #include "ui/events/event_rewriter.h"
 
 #include <list>

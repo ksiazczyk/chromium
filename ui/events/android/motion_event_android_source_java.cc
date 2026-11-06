@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Java-backed Android motion event source implementation
+// summary: Implements MotionEventAndroidSource by forwarding pointer, axis, and button queries to a Java MotionEvent through JNI.
+// ---
+
 #include "ui/events/android/motion_event_android_source_java.h"
 
 #include "base/android/jni_android.h"

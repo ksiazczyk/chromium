@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FlingBooster implementation
+// summary: Implements fling boosting logic that accumulates successive fling velocities when scroll and fling gestures meet speed, direction, and timeout conditions.
+// ---
+
 #include "ui/events/blink/fling_booster.h"
 
 #include "base/trace_event/trace_event.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EdgeToEdgePadAdjuster
+// summary: Interface for adjusters that override view top and bottom insets with additional padding or margin when the edge-to-edge state changes.
+// ---
+
 package org.chromium.ui.edge_to_edge;
 
 import androidx.annotation.Px;

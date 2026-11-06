@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android event conversion utilities
+// summary: Builds Android platform events from ui events and maps Android MotionEvent actions and tool types to Chromium enums.
+// ---
+
 #include "ui/events/android/events_android_utils.h"
 
 #include <android/input.h>

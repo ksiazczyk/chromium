@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for Ash UI events Mojom bindings
+summary: Defines the ChromeOS-only Mojom build target that generates bindings for the five modifier-related .mojom sources in this directory.

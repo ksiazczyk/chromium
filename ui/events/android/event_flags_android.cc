@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android event flags conversion implementation
+// summary: Implements conversions between Android meta state, button state and Chromium event flags such as shift, control and mouse buttons.
+// ---
+
 #include "ui/events/android/event_flags_android.h"
 
 #include <android/input.h>

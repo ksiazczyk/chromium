@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Filtered gesture provider unit tests
+// summary: Unit tests verifying that the moved-beyond-slop-region result of FilteredGestureProvider behaves correctly for single and multi touch.
+// ---
+
 #include "ui/events/gesture_detection/filtered_gesture_provider.h"
 
 #include "base/test/task_environment.h"

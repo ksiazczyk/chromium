@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Events library export macros
+// summary: Defines the EVENTS_EXPORT macro controlling symbol visibility for the ui/events library in component builds.
+// ---
+
 #ifndef UI_EVENTS_EVENTS_EXPORT_H_
 #define UI_EVENTS_EVENTS_EXPORT_H_
 

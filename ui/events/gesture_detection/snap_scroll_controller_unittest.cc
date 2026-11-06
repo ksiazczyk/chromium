@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Snap scroll controller unit tests
+// summary: Unit tests verifying basic, horizontal, and vertical scroll snapping behavior of SnapScrollController using mock motion events.
+// ---
+
 #include "ui/events/gesture_detection/snap_scroll_controller.h"
 #include "base/time/time.h"
 #include "testing/gtest/include/gtest/gtest.h"

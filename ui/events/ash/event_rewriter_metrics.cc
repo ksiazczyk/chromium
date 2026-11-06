@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event rewriter modifier key usage metrics implementation
+// summary: Implements histogram recording of modifier key usage before and after remapping across internal and external keyboard devices.
+// ---
+
 #include "ui/events/ash/event_rewriter_metrics.h"
 
 #include <string>

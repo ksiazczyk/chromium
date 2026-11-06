@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android input device observer implementation
+// summary: Converts Java-side Android input devices into C++ device objects and updates DeviceDataManager.
+// ---
+
 #include "ui/events/devices/input_device_observer_android.h"
 
 #include "base/android/jni_string.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gesture detection export macros
+// summary: Defines the GESTURE_DETECTION_EXPORT macro controlling symbol visibility and import/export for component builds.
+// ---
+
 #ifndef UI_EVENTS_GESTURE_DETECTION_GESTURE_DETECTION_EXPORT_H_
 #define UI_EVENTS_GESTURE_DETECTION_GESTURE_DETECTION_EXPORT_H_
 

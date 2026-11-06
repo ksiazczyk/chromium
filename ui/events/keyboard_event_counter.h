@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyboard event counter class
+// summary: Declares KeyboardEventCounter, which tracks the total number of keypresses from client-reported key down and key up events and exposes a thread-safe count.
+// ---
+
 #ifndef UI_EVENTS_KEYBOARD_EVENT_COUNTER_H_
 #define UI_EVENTS_KEYBOARD_EVENT_COUNTER_H_
 

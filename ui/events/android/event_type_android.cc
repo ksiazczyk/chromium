@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android key event action and EventType conversion
+// summary: Implements conversions between Android key event actions and Chromium EventType values for key events.
+// ---
+
 #include "ui/events/android/event_type_android.h"
 
 #include <android/input.h>

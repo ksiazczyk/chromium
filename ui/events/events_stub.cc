@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stub native event implementations for incomplete platforms
+// summary: Provides not-implemented stubs of the platform event utility functions for platforms that lack a complete events implementation.
+// ---
+
 #include <stdint.h>
 
 #include "base/notimplemented.h"

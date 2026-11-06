@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabbedSystemBarColorHelper unit test
+// summary: Robolectric unit test verifying how TabbedSystemBarColorHelper routes bar colors to the edge-to-edge layout coordinator and the bottom chin coordinator.
+// ---
+
 package org.chromium.ui.edge_to_edge;
 
 import static org.mockito.Mockito.never;

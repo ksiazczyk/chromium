@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android platform event variant header
+// summary: Declares PlatformEventAndroid, the concrete Android PlatformEvent type that wraps key events in a variant.
+// ---
+
 #ifndef UI_EVENTS_ANDROID_PLATFORM_EVENT_ANDROID_H_
 #define UI_EVENTS_ANDROID_PLATFORM_EVENT_ANDROID_H_
 

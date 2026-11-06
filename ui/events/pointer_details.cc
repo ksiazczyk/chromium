@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PointerDetails implementation
+// summary: Implements the PointerDetails struct, including constructors, equality comparison and string conversion of pointer fields.
+// ---
+
 #include "ui/events/pointer_details.h"
 
 #include <cmath>

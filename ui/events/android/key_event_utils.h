@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Key event JNI helpers declarations
+// summary: Declares exported JNI helper functions for creating Android KeyEvents, reading Unicode characters, and detecting virtual keyboard events.
+// ---
+
 #ifndef UI_EVENTS_ANDROID_KEY_EVENT_UTILS_H_
 #define UI_EVENTS_ANDROID_KEY_EVENT_UTILS_H_
 

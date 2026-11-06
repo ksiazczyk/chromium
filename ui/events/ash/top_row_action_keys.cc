@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Top row action key name lookup implementation
+// summary: Implements GetTopRowActionKeyName, mapping each TopRowActionKey enum value to its string name via a fixed flat map built from the TOP_ROW_ACTION_KEYS macro list.
+// ---
+
 #include "ui/events/ash/top_row_action_keys.h"
 
 #include <string>

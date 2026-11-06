@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeyboardDevice struct header
+// summary: Declares the KeyboardDevice struct, an InputDevice subclass carrying assistant key and function key availability flags.
+// ---
+
 #ifndef UI_EVENTS_DEVICES_KEYBOARD_DEVICE_H_
 #define UI_EVENTS_DEVICES_KEYBOARD_DEVICE_H_
 

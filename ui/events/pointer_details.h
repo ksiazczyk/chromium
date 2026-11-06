@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PointerDetails struct declaration
+// summary: Declares a struct holding common pointer fields such as type, radius, force, tilt and twist to support the PointerEvents API.
+// ---
+
 #ifndef UI_EVENTS_POINTER_DETAILS_H_
 #define UI_EVENTS_POINTER_DETAILS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PointerEventsHandler implementation
+// summary: Implements conversion of Fuchsia touch and mouse pointer samples into ui::Events, including coordinate transforms and button mapping.
+// ---
+
 #include "ui/events/fuchsia/pointer_events_handler.h"
 
 #include <lib/async/default.h>
