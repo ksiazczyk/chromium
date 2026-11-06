@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Virtual card enrollment metrics logger interface
+// summary: Declares the VirtualCardEnrollMetricsLogger class that logs metrics for virtual card enrollment prompts and converts enrollment sources.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_PAYMENTS_VIRTUAL_CARD_ENROLL_METRICS_LOGGER_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_PAYMENTS_VIRTUAL_CARD_ENROLL_METRICS_LOGGER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Payments network interface test base implementation
+// summary: Implements shared test infrastructure for Payments network interface tests, including URL loader interception, OAuth token issuing, and simulated server responses.
+// ---
+
 #include "components/autofill/core/browser/payments/payments_network_interface_test_base.h"
 
 #include <string>

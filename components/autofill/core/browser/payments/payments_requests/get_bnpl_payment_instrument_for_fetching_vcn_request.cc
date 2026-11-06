@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GetBnplPaymentInstrumentForFetchingVcnRequest implementation
+// summary: Implements the Chrome Payments RPC that retrieves a buy-now-pay-later virtual card number for a payment instrument and parses the VCN response.
+// ---
+
 #include "components/autofill/core/browser/payments/payments_requests/get_bnpl_payment_instrument_for_fetching_vcn_request.h"
 
 #include <optional>

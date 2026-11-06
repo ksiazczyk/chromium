@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock test payments network interface implementation
+// summary: Implements the mock payments network interface constructor and destructor used in tests.
+// ---
+
 #include "components/autofill/core/browser/payments/mock_test_payments_network_interface.h"
 
 #include "services/network/public/cpp/shared_url_loader_factory.h"

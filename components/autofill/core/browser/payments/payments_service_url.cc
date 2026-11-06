@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payments service URL definitions
+// summary: Defines production and sandbox Google Payments service URLs for wallet settings, payment methods, passes, and BNPL terms support pages.
+// ---
+
 #include "components/autofill/core/browser/payments/payments_service_url.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UpdateBnplPaymentInstrumentRequest unit tests
+// summary: Unit tests verifying that the BNPL instrument update request contains the expected fields and parses complete responses.
+// ---
+
 #include "components/autofill/core/browser/payments/payments_requests/update_bnpl_payment_instrument_request.h"
 
 #include "base/functional/callback_helpers.h"

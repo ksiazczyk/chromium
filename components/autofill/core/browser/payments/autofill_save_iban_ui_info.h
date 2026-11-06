@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillSaveIbanUiInfo struct for save IBAN bottom sheet UI
+// summary: Declares the AutofillSaveIbanUiInfo struct that holds resources such as icons, texts and legal messages for the save IBAN bottom sheet UI.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_PAYMENTS_AUTOFILL_SAVE_IBAN_UI_INFO_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_PAYMENTS_AUTOFILL_SAVE_IBAN_UI_INFO_H_
 

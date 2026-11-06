@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestCreditCardFidoAuthenticator implementation
+// summary: Test double for the FIDO card authenticator that records invocations and simulates assertion and credential results.
+// ---
+
 #include "components/autofill/core/browser/payments/test_credit_card_fido_authenticator.h"
 
 #include <string>

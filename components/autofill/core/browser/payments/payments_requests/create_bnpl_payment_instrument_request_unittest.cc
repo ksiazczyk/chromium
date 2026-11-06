@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CreateBnplPaymentInstrumentRequest unit tests
+// summary: Unit tests verifying the create BNPL payment instrument request URL, JSON payload contents, and response parsing including missing instrument ID handling.
+// ---
+
 #include "components/autofill/core/browser/payments/payments_requests/create_bnpl_payment_instrument_request.h"
 
 #include "base/functional/callback_helpers.h"

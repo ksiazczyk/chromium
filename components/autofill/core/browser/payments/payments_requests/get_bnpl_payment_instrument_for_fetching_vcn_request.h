@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GetBnplPaymentInstrumentForFetchingVcnRequest class declaration
+// summary: Declares the PaymentsRequest subclass that fetches a BNPL virtual card number and reports the result through a callback.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_PAYMENTS_PAYMENTS_REQUESTS_GET_BNPL_PAYMENT_INSTRUMENT_FOR_FETCHING_VCN_REQUEST_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_PAYMENTS_PAYMENTS_REQUESTS_GET_BNPL_PAYMENT_INSTRUMENT_FOR_FETCHING_VCN_REQUEST_H_
 

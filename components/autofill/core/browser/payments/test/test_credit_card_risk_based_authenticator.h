@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test credit card risk-based authenticator header
+// summary: Declares TestCreditCardRiskBasedAuthenticator, a test double exposing authentication invocation state and card details for autofill payments tests.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_PAYMENTS_TEST_TEST_CREDIT_CARD_RISK_BASED_AUTHENTICATOR_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_PAYMENTS_TEST_TEST_CREDIT_CARD_RISK_BASED_AUTHENTICATOR_H_
 

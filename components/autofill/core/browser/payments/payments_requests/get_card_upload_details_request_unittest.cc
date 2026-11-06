@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GetCardUploadDetailsRequest unit tests
+// summary: Unit tests checking that the upload request content omits names and phone numbers and adapts to upload source and customer options.
+// ---
+
 #include "components/autofill/core/browser/payments/payments_requests/get_card_upload_details_request.h"
 
 #include "base/feature_list.h"

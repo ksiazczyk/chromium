@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WalletReminderNoticeManager class header
+// summary: Declares the manager that checks eligibility for and displays the Wallet Reminder Notice informing users their payment instruments or passes are stored in Google Wallet.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_PAYMENTS_WALLET_REMINDER_NOTICE_MANAGER_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_PAYMENTS_WALLET_REMINDER_NOTICE_MANAGER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GetUnmaskDetailsRequest implementation
+// summary: Implements the payments RPC that fetches card unmask details, building the JSON request body and parsing the authentication method, FIDO options and verified instrument IDs.
+// ---
+
 #include "components/autofill/core/browser/payments/payments_requests/get_unmask_details_request.h"
 
 #include <stdint.h>

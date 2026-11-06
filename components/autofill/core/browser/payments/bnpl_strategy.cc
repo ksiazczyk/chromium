@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BnplStrategy base implementation
+// summary: Implements the BnplStrategy interface with NOTREACHED default action getters that platform-specific strategies are expected to override.
+// ---
+
 #include "components/autofill/core/browser/payments/bnpl_strategy.h"
 
 #include "base/notreached.h"

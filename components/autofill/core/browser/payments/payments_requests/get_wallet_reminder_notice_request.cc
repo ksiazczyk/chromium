@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GetWalletReminderNoticeRequest implementation
+// summary: Implements the payments RPC that fetches the Wallet reminder notice, building the JSON request and parsing the legal message, acknowledgement token and reminder flag.
+// ---
+
 #include "components/autofill/core/browser/payments/payments_requests/get_wallet_reminder_notice_request.h"
 
 #include <string>

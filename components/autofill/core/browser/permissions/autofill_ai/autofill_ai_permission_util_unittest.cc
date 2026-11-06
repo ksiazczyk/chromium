@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill AI permission utility unit tests
+// summary: Unit tests verifying permission checks for Autofill AI actions across feature flags, opt-in states, sync settings and entity types, using parameterized test cases.
+// ---
+
 #include "components/autofill/core/browser/permissions/autofill_ai/autofill_ai_permission_util.h"
 
 #include <memory>

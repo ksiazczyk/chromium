@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Credit card FIDO authenticator unit tests
+// summary: Unit tests for CreditCardFidoAuthenticator covering WebAuthn authentication, opt-in and opt-out flows, challenge handling and related metrics.
+// ---
+
 #include "components/autofill/core/browser/payments/credit_card_fido_authenticator.h"
 
 #include <stddef.h>

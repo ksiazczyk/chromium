@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GetDetailsForEnrollmentRequest implementation
+// summary: Implements the virtual card enrollment request that fetches enrollment details such as terms of service from the virtual card service, with upstream and downstream billable service numbers.
+// ---
+
 #include "components/autofill/core/browser/payments/payments_requests/get_details_for_enrollment_request.h"
 
 #include <string>

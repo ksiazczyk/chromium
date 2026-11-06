@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IBAN save manager unit tests
+// summary: Unit tests for the IBAN save manager covering upload details, legal messages, strike database behavior, and user save decisions.
+// ---
+
 #include "components/autofill/core/browser/payments/iban_save_manager.h"
 
 #include "base/json/json_reader.h"

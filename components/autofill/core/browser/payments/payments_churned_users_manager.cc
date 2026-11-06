@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaymentsChurnedUsersManager implementation
+// summary: Implements the manager that shows UI to bring back users with payments autofill off, checking form visibility, preferences, account info, and strike database limits.
+// ---
+
 #include "components/autofill/core/browser/payments/payments_churned_users_manager.h"
 
 #include <algorithm>

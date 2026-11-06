@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AutofillOfferManager unit tests
+// summary: Unit tests verifying URL eligibility for promo code offers, handling of expired offers, and notification tracking in AutofillOfferManager.
+// ---
+
 #include "components/autofill/core/browser/payments/autofill_offer_manager.h"
 
 #include <memory>

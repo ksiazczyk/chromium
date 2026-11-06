@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Credit card access manager BetterAuth logging tests
+// summary: Parameterized unit tests verifying BetterAuth histogram metrics for card unmask preflight calls across server and local cards with varying FIDO opt-in states.
+// ---
+
 #include "base/test/metrics/histogram_tester.h"
 #include "components/autofill/core/browser/metrics/payments/better_auth_metrics.h"
 #include "components/autofill/core/browser/payments/credit_card_access_manager.h"

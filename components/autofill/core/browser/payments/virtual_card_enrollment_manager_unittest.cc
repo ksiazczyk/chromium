@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Virtual card enrollment manager unit tests
+// summary: Unit tests covering the virtual card enrollment manager's enrollment, unenrollment, and strike database behavior with mocked dependencies.
+// ---
+
 #include <memory>
 #include <string>
 

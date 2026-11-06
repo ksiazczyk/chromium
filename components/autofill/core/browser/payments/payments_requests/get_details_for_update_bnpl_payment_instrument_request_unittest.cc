@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GetDetailsForUpdateBnplPaymentInstrumentRequest unit tests
+// summary: Unit tests verifying the request URL path, JSON request content, and response parsing for the BNPL update payment instrument request.
+// ---
+
 #include "components/autofill/core/browser/payments/payments_requests/get_details_for_update_bnpl_payment_instrument_request.h"
 
 #include "base/functional/callback_helpers.h"

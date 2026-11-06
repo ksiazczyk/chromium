@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestAuthenticationRequester implementation
+// summary: Test helper that records outcomes of CVC, FIDO, OTP, and risk-based credit card authentication responses.
+// ---
+
 #include "components/autofill/core/browser/payments/test_authentication_requester.h"
 
 #include <string>

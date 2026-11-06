@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GetDetailsForUpdateCardRequest unit tests
+// summary: Unit tests verifying the request URL path, content type, JSON body, and context token parsing for the update card request.
+// ---
+
 #include "components/autofill/core/browser/payments/payments_requests/get_details_for_update_card_request.h"
 
 #include <memory>

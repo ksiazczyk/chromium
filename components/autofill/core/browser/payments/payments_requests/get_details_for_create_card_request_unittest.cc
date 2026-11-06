@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GetDetailsForCreateCardRequest unit tests
+// summary: Unit tests checking the expected JSON request content and the parsing of context token, legal message and BIN ranges for the create card request.
+// ---
+
 #include "components/autofill/core/browser/payments/payments_requests/get_details_for_create_card_request.h"
 
 #include "base/functional/callback_helpers.h"

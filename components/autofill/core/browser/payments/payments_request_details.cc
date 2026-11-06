@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payments request details implementation
+// summary: Implements copy and move constructors and assignment operators for payments request and response detail structs such as UnmaskDetails and UnmaskRequestDetails.
+// ---
+
 #include "components/autofill/core/browser/payments/payments_request_details.h"
 
 namespace autofill::payments {

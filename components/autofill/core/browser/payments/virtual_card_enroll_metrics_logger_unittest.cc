@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Virtual card enrollment metrics logger unit tests
+// summary: Parameterized unit tests verifying that virtual card enrollment metrics are recorded correctly across enrollment sources and reshow variations.
+// ---
+
 #include "components/autofill/core/browser/payments/virtual_card_enroll_metrics_logger.h"
 
 #include "base/strings/strcat.h"

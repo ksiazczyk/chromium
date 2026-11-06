@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UpdateCardRequest unit tests
+// summary: Unit tests verifying UpdateCardRequest's URL path, content type, and form-encoded request content including context and CVC fields.
+// ---
+
 #include "components/autofill/core/browser/payments/payments_requests/update_card_request.h"
 
 #include <memory>

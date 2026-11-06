@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mandatory reauth manager implementation
+// summary: Implements the mandatory reauth manager that triggers device authentication before reusing saved cards or IBANs.
+// ---
+
 #include "components/autofill/core/browser/payments/mandatory_reauth_manager.h"
 
 #include <optional>

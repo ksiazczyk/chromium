@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AI card recommendation manager class declaration
+// summary: Declares AiCardRecommendationManager, which manages the Gemini-based flow that recommends and reorders card suggestions by their benefits.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_PAYMENTS_AI_CARD_RECOMMENDATION_MANAGER_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_PAYMENTS_AI_CARD_RECOMMENDATION_MANAGER_H_
 

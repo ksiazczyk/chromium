@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill policy service implementation
+// summary: Implements AutofillPolicyService, which parses the kAutofillTypesBlocked policy list and determines whether Autofill data categories are blocked globally or for a given URL.
+// ---
+
 #include "components/autofill/core/browser/permissions/autofill_policy_service.h"
 
 #include <string>

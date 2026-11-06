@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaymentsDataCleaner interface
+// summary: Declares PaymentsDataCleaner, which applies credit card cleanups such as deleting disused local cards once on browser startup.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_PAYMENTS_PAYMENTS_DATA_CLEANER_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_PAYMENTS_PAYMENTS_DATA_CLEANER_H_
 

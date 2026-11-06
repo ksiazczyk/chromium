@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credit card CVC authenticator implementation
+// summary: Implements credit card unmasking authentication via CVC verification, driving full card requests for both local and virtual cards and logging auth metrics.
+// ---
+
 #include "components/autofill/core/browser/payments/credit_card_cvc_authenticator.h"
 
 #include <memory>

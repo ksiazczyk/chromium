@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Legal message line unit tests
+// summary: Unit tests for legal message parsing covering templates, links, apostrophe escaping, and invalid input cases.
+// ---
+
 #include "components/autofill/core/browser/payments/legal_message_line.h"
 
 #include <memory>

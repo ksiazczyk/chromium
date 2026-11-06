@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaymentsAutofillClient implementation
+// summary: Implements PaymentsAutofillClient with default constructors for user-provided card details structs and const accessors for offer, payments data, and save-and-fill managers.
+// ---
+
 #include "components/autofill/core/browser/payments/payments_autofill_client.h"
 
 #include "build/buildflag.h"

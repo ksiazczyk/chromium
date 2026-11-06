@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IBAN manager unit tests
+// summary: Unit tests for the IBAN manager covering suggestion generation, nicknames, and local and server IBAN handling.
+// ---
+
 #include "components/autofill/core/browser/payments/iban_manager.h"
 
 #include <string_view>

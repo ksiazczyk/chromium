@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test virtual card enrollment manager implementation
+// summary: Implements a test VirtualCardEnrollmentManager that records bubble display, reset calls, and RPC results, and can ignore strike database rules.
+// ---
+
 #include "components/autofill/core/browser/payments/test_virtual_card_enrollment_manager.h"
 
 #include "components/autofill/core/browser/data_manager/test_personal_data_manager.h"

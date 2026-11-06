@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credit card FIDO authenticator implementation
+// summary: Implements credit card unmasking via FIDO/WebAuthn authentication, including authentication, opt-in and opt-out flows and strike database handling.
+// ---
+
 #include "components/autofill/core/browser/payments/credit_card_fido_authenticator.h"
 
 #include <stdint.h>

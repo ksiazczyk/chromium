@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MultipleRequestPaymentsNetworkInterfaceBase implementation
+// summary: Implements the base network interface that issues Google Payments RPCs, fetching OAuth access tokens and handling responses for multiple concurrent requests.
+// ---
+
 #include "components/autofill/core/browser/payments/multiple_request_payments_network_interface_base.h"
 
 #include <memory>

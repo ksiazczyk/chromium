@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillSaveCardDelegate implementation
+// summary: Implements the delegate handling save card UI actions, logging infobar and prompt metrics, and running the appropriate save card callbacks.
+// ---
+
 #include "components/autofill/core/browser/payments/autofill_save_card_delegate.h"
 
 #include <utility>

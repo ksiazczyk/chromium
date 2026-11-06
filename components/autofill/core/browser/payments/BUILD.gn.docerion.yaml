@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for card unmask challenge option
+summary: GN build file defining the card_unmask_challenge_option source set and its base and url dependencies.

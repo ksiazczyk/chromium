@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test CreditCardOtpAuthenticator implementation
+// summary: Implements a test OTP authenticator that records challenge option selections and exposes the captured state for verification in tests.
+// ---
+
 #include "components/autofill/core/browser/payments/test/test_credit_card_otp_authenticator.h"
 
 #include "components/autofill/core/browser/foundations/autofill_client.h"

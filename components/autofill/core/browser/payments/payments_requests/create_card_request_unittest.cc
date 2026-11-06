@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CreateCardRequest unit tests
+// summary: Unit tests checking the create card request URL path and JSON payload for varying CVC, nickname, and address options, plus response parsing.
+// ---
+
 #include "components/autofill/core/browser/payments/payments_requests/create_card_request.h"
 
 #include "base/functional/callback_helpers.h"

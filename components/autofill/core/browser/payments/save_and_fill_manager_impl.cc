@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SaveAndFillManagerImpl implementation
+// summary: Implements the Save and Fill flow with upload details fetching, local save offers, and metrics logging.
+// ---
+
 #include "components/autofill/core/browser/payments/save_and_fill_manager_impl.h"
 
 #include <stdint.h>

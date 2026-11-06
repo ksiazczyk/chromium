@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for amount extraction heuristic regexes
+// summary: Tests parsing of the heuristic regexes binary proto, the resulting installation metrics, and the default pattern fallbacks.
+// ---
+
 #include "components/autofill/core/browser/payments/amount_extraction_heuristic_regexes.h"
 
 #include "base/test/metrics/histogram_tester.h"

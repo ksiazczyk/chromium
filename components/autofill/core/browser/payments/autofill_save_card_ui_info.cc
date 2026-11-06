@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Save card UI info implementation
+// summary: Builds AutofillSaveCardUiInfo objects with confirm button texts, card descriptions, and branding details for save card prompts on Android and iOS.
+// ---
+
 #include "components/autofill/core/browser/payments/autofill_save_card_ui_info.h"
 
 #include "base/feature_list.h"

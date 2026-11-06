@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Full card request unit tests
+// summary: Unit tests for the full card request flow, covering unmask success, failure reasons, metrics, and FIDO authentication paths.
+// ---
+
 #include "components/autofill/core/browser/payments/full_card_request.h"
 
 #include "base/command_line.h"

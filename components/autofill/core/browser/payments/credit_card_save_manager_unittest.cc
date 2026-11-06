@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Credit card save manager unit tests
+// summary: Unit tests for the credit card save manager covering save offers, detected form values and upload save flows.
+// ---
+
 #include "components/autofill/core/browser/payments/credit_card_save_manager.h"
 
 #include <stddef.h>

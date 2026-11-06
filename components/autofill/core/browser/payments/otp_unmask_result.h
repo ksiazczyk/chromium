@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OtpUnmaskResult enum
+// summary: Enum representing the possible results when unmasking a card via OTP, such as success, expired code, mismatch and permanent failure.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_PAYMENTS_OTP_UNMASK_RESULT_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_PAYMENTS_OTP_UNMASK_RESULT_H_
 

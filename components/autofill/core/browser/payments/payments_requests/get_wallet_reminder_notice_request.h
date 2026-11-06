@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GetWalletReminderNoticeRequest class declaration
+// summary: Declares the PaymentsRequest subclass that fetches the Wallet reminder notice legal message and acknowledgement token or checks whether the user already acknowledged.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_PAYMENTS_PAYMENTS_REQUESTS_GET_WALLET_REMINDER_NOTICE_REQUEST_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_PAYMENTS_PAYMENTS_REQUESTS_GET_WALLET_REMINDER_NOTICE_REQUEST_H_
 

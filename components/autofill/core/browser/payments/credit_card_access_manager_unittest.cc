@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Credit card access manager unit tests
+// summary: Unit tests for CreditCardAccessManager covering credit card fetching, CVC, OTP and FIDO authentication flows, virtual cards and related metrics.
+// ---
+
 #include "components/autofill/core/browser/payments/credit_card_access_manager.h"
 
 #include <stddef.h>

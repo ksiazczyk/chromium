@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BNPL manager implementation for buy-now-pay-later flows
+// summary: Implements the BNPL manager that coordinates buy-now-pay-later issuers, amount extraction, eligibility checks and UI flows for Chrome autofill payments.
+// ---
+
 #include "components/autofill/core/browser/payments/bnpl_manager.h"
 
 #include <stdint.h>

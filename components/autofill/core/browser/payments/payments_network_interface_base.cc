@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payments network interface base implementation
+// summary: Implements the shared plumbing for Payments RPCs, including OAuth token fetching, request issuing, request URL construction, and response handling.
+// ---
+
 #include "components/autofill/core/browser/payments/payments_network_interface_base.h"
 
 #include <memory>

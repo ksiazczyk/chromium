@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credit card risk-based authenticator implementation
+// summary: Implements risk-based authentication for credit card unmasking, building unmask requests and handling server responses.
+// ---
+
 #include "components/autofill/core/browser/payments/credit_card_risk_based_authenticator.h"
 
 #include <memory>

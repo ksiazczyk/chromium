@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UploadIbanRequest implementation
+// summary: Implements the request that uploads an IBAN payment instrument to the Chrome payments service, with nickname, risk data, and context fields.
+// ---
+
 #include "components/autofill/core/browser/payments/payments_requests/upload_iban_request.h"
 
 #include <string>

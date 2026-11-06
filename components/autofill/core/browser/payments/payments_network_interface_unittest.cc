@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Payments network interface unit tests
+// summary: Extensive unit tests for PaymentsNetworkInterface covering card unmasking with CVC, FIDO, and OTP authentication, virtual cards, and request response handling.
+// ---
+
 #include "components/autofill/core/browser/payments/payments_network_interface.h"
 
 #include <optional>

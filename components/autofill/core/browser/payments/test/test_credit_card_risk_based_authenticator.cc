@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test credit card risk-based authenticator implementation
+// summary: Fake implementation of CreditCardRiskBasedAuthenticator for tests that records whether authentication was invoked and the card used.
+// ---
+
 #include "components/autofill/core/browser/payments/test/test_credit_card_risk_based_authenticator.h"
 
 #include "components/autofill/core/browser/foundations/autofill_client.h"

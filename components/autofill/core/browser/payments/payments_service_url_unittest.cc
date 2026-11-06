@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Payments service URL unit tests
+// summary: Unit tests verifying sandbox and production Google Payments URLs, instrument-specific URLs, and BNPL terms URL behavior.
+// ---
+
 #include "components/autofill/core/browser/payments/payments_service_url.h"
 
 #include "base/command_line.h"

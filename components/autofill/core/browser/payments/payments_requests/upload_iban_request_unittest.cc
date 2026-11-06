@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UploadIbanRequest unit tests
+// summary: Unit tests verifying the request URL path and payload content of the upload IBAN payments request, covering locale, billing customer number, context token, IBAN value, nickname, and risk data fields.
+// ---
+
 #include "components/autofill/core/browser/payments/payments_requests/upload_iban_request.h"
 
 #include "base/functional/callback_helpers.h"

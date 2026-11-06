@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WaitForSignalOrTimeout unit tests
+// summary: Unit tests covering signal-before-callback, timeout, reset, and destruction behavior of the WaitForSignalOrTimeout helper using mock time.
+// ---
+
 #include "components/autofill/core/browser/payments/wait_for_signal_or_timeout.h"
 
 #include "base/test/task_environment.h"

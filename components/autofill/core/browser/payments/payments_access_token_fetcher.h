@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaymentsAccessTokenFetcher header
+// summary: Declares PaymentsAccessTokenFetcher, a utility class that fetches the latest access token for Google Payments server requests.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_PAYMENTS_PAYMENTS_ACCESS_TOKEN_FETCHER_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_PAYMENTS_PAYMENTS_ACCESS_TOKEN_FETCHER_H_
 

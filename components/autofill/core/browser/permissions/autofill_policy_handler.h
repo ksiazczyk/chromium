@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill policy handler header
+// summary: Declares AutofillPolicyHandler and AutofillSettingsPolicyHandler, which apply Autofill enterprise policies and reconcile legacy boolean policies with blocked-type rules.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_PERMISSIONS_AUTOFILL_POLICY_HANDLER_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_PERMISSIONS_AUTOFILL_POLICY_HANDLER_H_
 

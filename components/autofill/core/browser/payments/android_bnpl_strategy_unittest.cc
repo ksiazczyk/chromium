@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android BNPL strategy unit tests
+// summary: Unit tests verifying that each AndroidBnplStrategy method returns the expected Android-specific BNPL flow actions and server-return behavior.
+// ---
+
 #include "components/autofill/core/browser/payments/android_bnpl_strategy.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

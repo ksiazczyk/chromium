@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test payments network interface implementation
+// summary: Implements a fake PaymentsNetworkInterface that records requests and returns canned unmask, upload, and enrollment responses for tests.
+// ---
+
 #include "components/autofill/core/browser/payments/test_payments_network_interface.h"
 
 #include <memory>

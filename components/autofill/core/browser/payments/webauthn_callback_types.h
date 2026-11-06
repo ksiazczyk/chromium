@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAuthn dialog callback types
+// summary: Defines an enum of WebAuthn dialog callback types for offer acceptance, offer cancellation, and verification cancellation.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_PAYMENTS_WEBAUTHN_CALLBACK_TYPES_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_PAYMENTS_WEBAUTHN_CALLBACK_TYPES_H_
 

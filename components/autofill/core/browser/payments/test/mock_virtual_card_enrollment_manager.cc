@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock VirtualCardEnrollmentManager implementation
+// summary: Implements the mock virtual card enrollment manager that extends the test double with gmock behavior for enrollment tests.
+// ---
+
 #include "components/autofill/core/browser/payments/test/mock_virtual_card_enrollment_manager.h"
 
 #include "components/autofill/core/browser/payments/virtual_card_enrollment_manager.h"

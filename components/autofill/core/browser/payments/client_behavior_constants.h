@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client behavior constants for Payments requests
+// summary: Declares the ClientBehaviorConstants enum whose flags report active browser features and experiments to the Payments server in outgoing request logs.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_PAYMENTS_CLIENT_BEHAVIOR_CONSTANTS_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_PAYMENTS_CLIENT_BEHAVIOR_CONSTANTS_H_
 

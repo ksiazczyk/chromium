@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Legal message line fuzzer
+// summary: Fuzzer that feeds random JSON and an apostrophe-escaping flag into LegalMessageLine::Parse to uncover parsing crashes.
+// ---
+
 #include "components/autofill/core/browser/payments/legal_message_line.h"
 
 #include <fuzzer/FuzzedDataProvider.h>

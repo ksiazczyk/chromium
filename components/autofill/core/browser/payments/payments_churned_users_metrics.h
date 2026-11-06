@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payments churned users metrics declarations
+// summary: Declares metrics logging functions and the PaymentsChurnedUsersUiShowResult enum describing why the churned users UI was or was not shown.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_PAYMENTS_PAYMENTS_CHURNED_USERS_METRICS_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_PAYMENTS_PAYMENTS_CHURNED_USERS_METRICS_H_
 

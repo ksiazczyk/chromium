@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MultipleRequestPaymentsNetworkInterface unit tests
+// summary: Unit tests for MultipleRequestPaymentsNetworkInterface covering Payments RPCs such as getting details for and creating an uploaded credit card.
+// ---
+
 #include "components/autofill/core/browser/payments/multiple_request_payments_network_interface.h"
 
 #include "base/test/values_test_util.h"

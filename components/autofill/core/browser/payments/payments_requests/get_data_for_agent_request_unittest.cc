@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GetDataForAgentRequest unit tests
+// summary: Unit tests covering request building and parsing of payment tokens and agentic payment credentials for the agent data request.
+// ---
+
 #include "components/autofill/core/browser/payments/payments_requests/get_data_for_agent_request.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CreateCardRequest implementation
+// summary: Implements the RPC that uploads a card as a payment instrument, building the form-encoded request with encrypted PAN and CVC parameters and parsing the response.
+// ---
+
 #include "components/autofill/core/browser/payments/payments_requests/create_card_request.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AI card recommendation manager implementation
+// summary: Implements the AI card recommendation flow, deciding when to show the Maximize rewards suggestion and triggering AI-based amount extraction.
+// ---
+
 #include "components/autofill/core/browser/payments/ai_card_recommendation_manager.h"
 
 #include <ranges>

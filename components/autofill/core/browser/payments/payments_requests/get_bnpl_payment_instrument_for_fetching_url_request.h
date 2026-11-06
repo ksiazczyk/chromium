@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GetBnplPaymentInstrumentForFetchingUrlRequest class declaration
+// summary: Declares the PaymentsRequest subclass that requests BNPL payment instrument details for fetching a redirect URL and delivers the response via callback.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_PAYMENTS_PAYMENTS_REQUESTS_GET_BNPL_PAYMENT_INSTRUMENT_FOR_FETCHING_URL_REQUEST_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_PAYMENTS_PAYMENTS_REQUESTS_GET_BNPL_PAYMENT_INSTRUMENT_FOR_FETCHING_URL_REQUEST_H_
 

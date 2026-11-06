@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IBAN manager implementation
+// summary: Implements the per-tab IbanManager, generating IBAN suggestions and logging form events for shown, selected, and filled IBANs.
+// ---
+
 #include "components/autofill/core/browser/payments/iban_manager.h"
 
 #include <utility>

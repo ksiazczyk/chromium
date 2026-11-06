@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Amount extraction manager implementation
+// summary: Implements checkout amount extraction for autofill payments, parsing amounts via regex and validating AI-based extraction responses from the optimization guide.
+// ---
+
 #include "components/autofill/core/browser/payments/amount_extraction_manager.h"
 
 #include <stdint.h>

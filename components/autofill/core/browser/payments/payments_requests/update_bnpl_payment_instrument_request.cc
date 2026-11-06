@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UpdateBnplPaymentInstrumentRequest implementation
+// summary: Implements the PaymentsRequest that updates a buy-now-pay-later payment instrument, such as accepting its terms of service.
+// ---
+
 #include "components/autofill/core/browser/payments/payments_requests/update_bnpl_payment_instrument_request.h"
 
 #include <string>

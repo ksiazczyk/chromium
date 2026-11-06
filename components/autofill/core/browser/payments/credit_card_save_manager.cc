@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credit card save manager implementation
+// summary: Implements logic for determining availability of and actioning local and upload credit card save to Google Payments.
+// ---
+
 #include "components/autofill/core/browser/payments/credit_card_save_manager.h"
 
 #include <stddef.h>

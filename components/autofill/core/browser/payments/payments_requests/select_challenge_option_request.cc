@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Select challenge option request implementation
+// summary: Builds and parses the Payments request that selects a card unmask challenge option such as SMS or email OTP.
+// ---
+
 #include "components/autofill/core/browser/payments/payments_requests/select_challenge_option_request.h"
 
 #include <string>

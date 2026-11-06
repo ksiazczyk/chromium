@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Credit card OTP authenticator unit tests
+// summary: Unit tests for the credit card OTP authenticator covering OTP authentication flows, server responses and error handling.
+// ---
+
 #include "components/autofill/core/browser/payments/credit_card_otp_authenticator.h"
 
 #include "base/memory/raw_ptr.h"

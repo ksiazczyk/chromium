@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillSaveCardUiInfo struct holding save card prompt UI resources
+// summary: Declares the AutofillSaveCardUiInfo struct that bundles strings, icons and card details for local and server save card prompt UIs, with factory methods for each flow.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_PAYMENTS_AUTOFILL_SAVE_CARD_UI_INFO_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_PAYMENTS_AUTOFILL_SAVE_CARD_UI_INFO_H_
 

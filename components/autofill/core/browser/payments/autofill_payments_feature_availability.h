@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill payments feature availability header
+// summary: Declares payments feature availability helpers covering card metadata display, benefit labels, VCN 3DS authentication, and save card loading UI.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_PAYMENTS_AUTOFILL_PAYMENTS_FEATURE_AVAILABILITY_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_PAYMENTS_AUTOFILL_PAYMENTS_FEATURE_AVAILABILITY_H_
 

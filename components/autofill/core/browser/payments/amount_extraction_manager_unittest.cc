@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Amount extraction manager unit tests
+// summary: Unit tests covering regex and AI-based checkout amount extraction, response validation, timeouts, and related metrics using mock drivers and clients.
+// ---
+
 #include "components/autofill/core/browser/payments/amount_extraction_manager.h"
 
 #include <cmath>

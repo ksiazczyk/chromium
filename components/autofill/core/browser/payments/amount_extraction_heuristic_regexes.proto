@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HeuristicRegexes proto for amount extraction patterns
+// summary: Defines the protobuf schema carrying the generic regex patterns and ancestor search depth used to extract checkout amounts from the DOM.
+// ---
+
 syntax = "proto2";
 
 package autofill.core.browser.payments;

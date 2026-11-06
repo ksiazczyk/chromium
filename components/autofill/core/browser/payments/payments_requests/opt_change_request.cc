@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OptChangeRequest implementation
+// summary: Implements the payments RPC that updates autofill user preferences for FIDO authentication, building the request and parsing the opt-in status and FIDO options.
+// ---
+
 #include "components/autofill/core/browser/payments/payments_requests/opt_change_request.h"
 
 #include <string>

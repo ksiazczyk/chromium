@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock test payments network interface
+// summary: Declares a gmock wrapper around TestPaymentsNetworkInterface that stubs IBAN upload, unmask and details RPCs for tests.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_PAYMENTS_MOCK_TEST_PAYMENTS_NETWORK_INTERFACE_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_PAYMENTS_MOCK_TEST_PAYMENTS_NETWORK_INTERFACE_H_
 

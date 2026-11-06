@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill offer manager implementation
+// summary: Implements AutofillOfferManager, which checks URL eligibility for promo code offers and tracks which offer notifications have been shown.
+// ---
+
 #include "components/autofill/core/browser/payments/autofill_offer_manager.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OptChangeRequest class declaration
+// summary: Declares the PaymentsRequest subclass that changes autofill user preferences, such as enabling, disabling or adding a card for FIDO authentication.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_PAYMENTS_PAYMENTS_REQUESTS_OPT_CHANGE_REQUEST_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_PAYMENTS_PAYMENTS_REQUESTS_OPT_CHANGE_REQUEST_H_
 

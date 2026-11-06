@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock BNPL manager implementation
+// summary: Implements the mock buy-now-pay-later manager, defaulting suggestion generation notifications to the base class behavior.
+// ---
+
 #include "components/autofill/core/browser/payments/test/mock_bnpl_manager.h"
 
 #include "components/autofill/core/browser/foundations/test_browser_autofill_manager.h"

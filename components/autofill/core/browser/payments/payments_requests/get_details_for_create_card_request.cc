@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GetDetailsForCreateCardRequest implementation
+// summary: Implements the request that fetches details for creating a payment card, building the JSON body and parsing the context token, legal message and supported card BIN ranges.
+// ---
+
 #include "components/autofill/core/browser/payments/payments_requests/get_details_for_create_card_request.h"
 
 #include <stdint.h>

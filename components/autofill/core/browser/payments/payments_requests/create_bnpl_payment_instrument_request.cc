@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CreateBnplPaymentInstrumentRequest implementation
+// summary: Implements the payments RPC that creates a buy-now-pay-later payment instrument, building the JSON request body and parsing the returned instrument ID.
+// ---
+
 #include "components/autofill/core/browser/payments/payments_requests/create_bnpl_payment_instrument_request.h"
 
 #include <string>

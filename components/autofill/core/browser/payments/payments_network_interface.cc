@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payments network interface implementation
+// summary: Implements PaymentsNetworkInterface, which issues Payments RPCs such as card unmasking, IBAN unmasking, BNPL instruments, and card upload requests and handles their responses.
+// ---
+
 #include "components/autofill/core/browser/payments/payments_network_interface.h"
 
 #include <stdint.h>
