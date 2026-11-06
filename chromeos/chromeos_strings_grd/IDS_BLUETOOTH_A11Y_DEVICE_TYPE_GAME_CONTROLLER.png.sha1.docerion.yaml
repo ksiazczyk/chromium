@@ -1,0 +1,4 @@
+# Docerion header of IDS_BLUETOOTH_A11Y_DEVICE_TYPE_GAME_CONTROLLER.png.sha1.
+type: data
+title: Bluetooth accessibility game controller device type screenshot hash
+summary: Stores the SHA-1 checksum of the PNG screenshot recorded for the Bluetooth accessibility game controller device type string in the ChromeOS string resources folder.

@@ -1,0 +1,4 @@
+# Docerion header of IDS_DIAGNOSTICS_REMAINING_CHARGE_LABEL.png.sha1.
+type: data
+title: Diagnostics remaining charge label hash
+summary: SHA1 hash of the rendered PNG for the Diagnostics remaining charge label string in the ChromeOS strings resources.
