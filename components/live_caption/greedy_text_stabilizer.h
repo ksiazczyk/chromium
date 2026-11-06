@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Greedy text stabilizer class declaration
+// summary: Declares GreedyTextStabilizer, which predicts the stable token count of streaming speech recognition partials using per-position token histograms.
+// ---
+
 #ifndef COMPONENTS_LIVE_CAPTION_GREEDY_TEXT_STABILIZER_H_
 #define COMPONENTS_LIVE_CAPTION_GREEDY_TEXT_STABILIZER_H_
 

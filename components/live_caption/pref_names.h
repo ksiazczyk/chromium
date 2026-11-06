@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Live Caption preference name constants
+// summary: Defines preference name constants for Live Caption settings, caption style options, headless captions, and Live Translate enablement and target language.
+// ---
+
 #ifndef COMPONENTS_LIVE_CAPTION_PREF_NAMES_H_
 #define COMPONENTS_LIVE_CAPTION_PREF_NAMES_H_
 

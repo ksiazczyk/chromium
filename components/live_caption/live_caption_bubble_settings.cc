@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Live caption bubble settings implementation
+// summary: Implements live caption bubble settings backed by profile preferences, exposing caption and translate state and notifying observers of preference changes.
+// ---
+
 #include "components/live_caption/live_caption_bubble_settings.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Caption bubble controller interface
+// summary: Declares the per-profile controller interface for the caption bubble, covering text post-processing, error handling and caption style updates.
+// ---
+
 #ifndef COMPONENTS_LIVE_CAPTION_CAPTION_BUBBLE_CONTROLLER_H_
 #define COMPONENTS_LIVE_CAPTION_CAPTION_BUBBLE_CONTROLLER_H_
 

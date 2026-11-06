@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Safety Tip test utilities implementation
+// summary: Implements test helpers that create and install Safety Tips configs with allowlist patterns, common words and heuristic launch settings for lookalike tests.
+// ---
+
 #include "components/lookalikes/core/safety_tip_test_utils.h"
 
 #include "components/lookalikes/core/flat_safety_tips_allowlist.h"

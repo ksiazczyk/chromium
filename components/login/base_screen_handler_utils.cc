@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: base_screen_handler_utils.cc
+// summary: Implements ConvertToStringList, which converts a base ListValue into a list of strings for login screen handlers.
+// ---
+
 #include "components/login/base_screen_handler_utils.h"
 
 #include <string>

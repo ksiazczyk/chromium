@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for lookalikes core
+summary: Restricts allowed dependencies for the directory, forbidding content and ios/web includes because the code is shared with iOS.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for local_state_utils
+// summary: Declares GetPrefsAsJson, which returns a pretty-printed JSON string of a PrefService's prefs filtered by accepted prefixes.
+// ---
+
 #ifndef COMPONENTS_LOCAL_STATE_LOCAL_STATE_UTILS_H_
 #define COMPONENTS_LOCAL_STATE_LOCAL_STATE_UTILS_H_
 

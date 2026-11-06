@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Live Caption GN build configuration
+summary: Defines the live_caption and live_translate static libraries and their unit tests, listing sources, views sources and dependencies for the Live Caption component.

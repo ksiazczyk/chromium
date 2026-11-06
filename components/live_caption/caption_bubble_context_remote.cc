@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote caption bubble context implementation
+// summary: Implements CaptionBubbleContextRemote, delegating bounds, activation and session observation to a remote SpeechRecognitionSurface over Mojo.
+// ---
+
 #include "components/live_caption/caption_bubble_context_remote.h"
 
 #include <memory>

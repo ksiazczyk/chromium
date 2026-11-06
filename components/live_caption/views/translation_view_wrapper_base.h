@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Translation view wrapper base class declaration
+// summary: Declares the TranslationViewWrapperBase class with Delegate and LanguageButton interfaces for managing language buttons, labels, menus, and settings observation in the caption bubble.
+// ---
+
 #ifndef COMPONENTS_LIVE_CAPTION_VIEWS_TRANSLATION_VIEW_WRAPPER_BASE_H_
 #define COMPONENTS_LIVE_CAPTION_VIEWS_TRANSLATION_VIEW_WRAPPER_BASE_H_
 

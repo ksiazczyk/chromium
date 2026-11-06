@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Caption utility declarations
+// summary: Declares helpers for obtaining the caption style from user settings, the caption settings URL and checks for live caption and headless caption support.
+// ---
+
 #ifndef COMPONENTS_LIVE_CAPTION_CAPTION_UTIL_H_
 #define COMPONENTS_LIVE_CAPTION_CAPTION_UTIL_H_
 

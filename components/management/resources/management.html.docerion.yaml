@@ -1,0 +1,4 @@
+# Docerion header of management.html.
+type: source
+title: Management page HTML template
+summary: HTML template for the management page with i18n placeholders and sections for browser and profile reporting and connectors.

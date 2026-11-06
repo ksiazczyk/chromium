@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Lookalikes DEPS include rules
+summary: Defines the allowed include dependencies for the lookalikes component, covering prefs, security interstitials, URL formatting, metrics and UI base.

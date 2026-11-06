@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Lookalikes owners
+summary: Points to the OWNERS file in chrome/browser/lookalikes to designate the code owners for this directory.

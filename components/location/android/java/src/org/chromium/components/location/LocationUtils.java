@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocationUtils
+// summary: Singleton utility for querying Chrome's ability to use Android location services, checking location permissions, system location settings, and prompting to enable them.
+// ---
+
 package org.chromium.components.location;
 
 import android.Manifest;

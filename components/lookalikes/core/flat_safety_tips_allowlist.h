@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Flat safety tips allowlist class declaration
+// summary: Declares FlatSafetyTipsAllowlist, which stores allowlist patterns and cohorts in shared string and index buffers referenced by offset and length.
+// ---
+
 #ifndef COMPONENTS_LOOKALIKES_CORE_FLAT_SAFETY_TIPS_ALLOWLIST_H_
 #define COMPONENTS_LOOKALIKES_CORE_FLAT_SAFETY_TIPS_ALLOWLIST_H_
 

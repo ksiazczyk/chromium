@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for local_state
+summary: Restricts includes in this directory to components/prefs and extensions/buildflags.

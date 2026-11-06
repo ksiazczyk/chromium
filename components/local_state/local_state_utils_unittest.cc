@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for local_state_utils
+// summary: Verifies that GetPrefsAsJson returns all prefs unfiltered and only variations and user-experience-metrics prefs when prefix filtering is applied.
+// ---
+
 #include "components/local_state/local_state_utils.h"
 
 #include "base/json/json_reader.h"

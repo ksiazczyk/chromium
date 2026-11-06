@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Caption style utility implementation
+// summary: Builds the caption style from command-line switches, system settings or accessibility caption preferences and reports live caption feature support.
+// ---
+
 #include "components/live_caption/caption_util.h"
 
 #include <stddef.h>

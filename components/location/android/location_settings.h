@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocationSettings interface for Android location access
+// summary: Abstract interface that reports Chrome's Android location permissions and triggers prompts to enable the system location setting.
+// ---
+
 #ifndef COMPONENTS_LOCATION_ANDROID_LOCATION_SETTINGS_H_
 #define COMPONENTS_LOCATION_ANDROID_LOCATION_SETTINGS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: localized_values_builder.h
+// summary: Declares LocalizedValuesBuilder, a class that collects localized values keyed by i18n keys for use in login UI HTML.
+// ---
+
 #ifndef COMPONENTS_LOGIN_LOCALIZED_VALUES_BUILDER_H_
 #define COMPONENTS_LOGIN_LOCALIZED_VALUES_BUILDER_H_
 

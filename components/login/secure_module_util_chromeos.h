@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Secure module utility header for Chrome OS
+// summary: Declares the SecureModuleUsed enum and the exported asynchronous GetSecureModuleUsed API that reports whether Cr50 or TPM is in use.
+// ---
+
 #ifndef COMPONENTS_LOGIN_SECURE_MODULE_UTIL_CHROMEOS_H_
 #define COMPONENTS_LOGIN_SECURE_MODULE_UTIL_CHROMEOS_H_
 

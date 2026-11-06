@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CaptionControllerBase class declaration
+// summary: Declares the shared caption controller base that routes transcriptions, audio stream ends and language identification events to registered listeners.
+// ---
+
 #ifndef COMPONENTS_LIVE_CAPTION_CAPTION_CONTROLLER_BASE_H_
 #define COMPONENTS_LIVE_CAPTION_CAPTION_CONTROLLER_BASE_H_
 

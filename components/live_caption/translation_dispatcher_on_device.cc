@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: On-device translation dispatcher implementation
+// summary: Implements on-device caption translation via the on-device translation service controller, mapping translator creation errors to UMA error-reason metrics.
+// ---
+
 #include "components/live_caption/translation_dispatcher_on_device.h"
 
 #include "base/metrics/histogram_functions.h"

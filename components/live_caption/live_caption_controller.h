@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Live caption controller class declaration
+// summary: Declares LiveCaptionController, a KeyedService that owns the caption bubble UI and manages the live caption feature for a profile.
+// ---
+
 #ifndef COMPONENTS_LIVE_CAPTION_LIVE_CAPTION_CONTROLLER_H_
 #define COMPONENTS_LIVE_CAPTION_LIVE_CAPTION_CONTROLLER_H_
 

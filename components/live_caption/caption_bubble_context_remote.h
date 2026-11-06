@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote caption bubble context declaration
+// summary: Declares the caption bubble context for captions generated in a remote process, with methods delegated via Mojo to the surface implementation.
+// ---
+
 #ifndef COMPONENTS_LIVE_CAPTION_CAPTION_BUBBLE_CONTEXT_REMOTE_H_
 #define COMPONENTS_LIVE_CAPTION_CAPTION_BUBBLE_CONTEXT_REMOTE_H_
 

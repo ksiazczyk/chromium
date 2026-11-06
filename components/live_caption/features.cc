@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Live Caption feature flag definitions
+// summary: Defines feature flags for on-device translation, its English-only restriction and Live Translate time gating with their default enabled states.
+// ---
+
 #include "components/live_caption/features.h"
 
 #include "base/feature_list.h"

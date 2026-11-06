@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Management page TypeScript logic
+// summary: TypeScript that toggles visibility of managed info, reporting and connectors event sections based on loadTimeData flags.
+// ---
+
 import '/strings.m.js';
 
 import {loadTimeData} from '//resources/js/load_time_data.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for live caption translation utilities
+// summary: Unit tests covering sentence splitting, trailing space handling, translation cache keys, ideographic locale detection, and TranslationCache behavior.
+// ---
+
 #include "components/live_caption/translation_util.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: base_screen_handler_utils.h
+// summary: Declares the StringList type and the LOGIN_EXPORT ConvertToStringList helper in the login namespace.
+// ---
+
 #ifndef COMPONENTS_LOGIN_BASE_SCREEN_HANDLER_UTILS_H_
 #define COMPONENTS_LOGIN_BASE_SCREEN_HANDLER_UTILS_H_
 

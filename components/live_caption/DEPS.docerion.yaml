@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Live Caption include rules
+summary: Lists the allowed include dependencies for the live_caption directory, covering base, components, media, mojo, services, testing and UI libraries.

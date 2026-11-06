@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Greedy text stabilizer unit tests
+// summary: Unit tests covering stabilizer behavior for empty sentences, final results, flickering punctuation, and varying minimum token frequencies.
+// ---
+
 #include "components/live_caption/greedy_text_stabilizer.h"
 
 #include <string>

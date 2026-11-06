@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules
+summary: Declares include rules permitting dependencies on the account_id header and ui/base localization headers.

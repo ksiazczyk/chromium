@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google API translation dispatcher class declaration
+// summary: Declares GoogleApiTranslationDispatcher, which sends live caption translation requests to the Google Translate API using an API key and a URL loader factory.
+// ---
+
 #ifndef COMPONENTS_LIVE_CAPTION_GOOGLE_API_TRANSLATION_DISPATCHER_H_
 #define COMPONENTS_LIVE_CAPTION_GOOGLE_API_TRANSLATION_DISPATCHER_H_
 

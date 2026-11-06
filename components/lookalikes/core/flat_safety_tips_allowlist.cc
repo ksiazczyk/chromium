@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Flat safety tips allowlist implementation
+// summary: Implements a compact, memory-efficient copy of the Safety Tips URL allowlist extracted from the config proto, with binary-search lookups.
+// ---
+
 #include "components/lookalikes/core/flat_safety_tips_allowlist.h"
 
 #include <algorithm>

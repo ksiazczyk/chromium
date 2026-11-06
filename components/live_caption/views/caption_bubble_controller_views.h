@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Caption bubble controller header
+// summary: Declares CaptionBubbleControllerViews, which handles transcription results, errors, caption style updates, and installer observer callbacks for the caption bubble.
+// ---
+
 #ifndef COMPONENTS_LIVE_CAPTION_VIEWS_CAPTION_BUBBLE_CONTROLLER_VIEWS_H_
 #define COMPONENTS_LIVE_CAPTION_VIEWS_CAPTION_BUBBLE_CONTROLLER_VIEWS_H_
 

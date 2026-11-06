@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Caption bubble model header
+// summary: Declares CaptionBubbleModel, which holds the caption text and error state for a media stream and notifies the observing caption bubble of changes.
+// ---
+
 #ifndef COMPONENTS_LIVE_CAPTION_VIEWS_CAPTION_BUBBLE_MODEL_H_
 #define COMPONENTS_LIVE_CAPTION_VIEWS_CAPTION_BUBBLE_MODEL_H_
 

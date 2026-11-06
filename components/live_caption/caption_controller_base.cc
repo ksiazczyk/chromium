@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CaptionControllerBase implementation
+// summary: Implements the base caption controller, wiring caption style preferences and native theme observation and creating the caption bubble UI through a delegate.
+// ---
+
 #include "components/live_caption/caption_controller_base.h"
 
 #include <memory>

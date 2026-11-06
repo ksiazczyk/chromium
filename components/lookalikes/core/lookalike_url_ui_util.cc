@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lookalike URL interstitial UI utilities
+// summary: Records UKM metrics for lookalike URL blocking pages and populates localized strings for the interstitial HTML, including iOS-specific behavior.
+// ---
+
 #include "components/lookalikes/core/lookalike_url_ui_util.h"
 
 #include "build/build_config.h"

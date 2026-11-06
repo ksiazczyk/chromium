@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Caption bubble view header
+// summary: Declares the CaptionBubble class, a top-level bubble dialog that shows automatically generated captions and is draggable in and out of the tab.
+// ---
+
 #ifndef COMPONENTS_LIVE_CAPTION_VIEWS_CAPTION_BUBBLE_H_
 #define COMPONENTS_LIVE_CAPTION_VIEWS_CAPTION_BUBBLE_H_
 

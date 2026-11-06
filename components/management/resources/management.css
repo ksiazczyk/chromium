@@ -3,6 +3,12 @@
  * found in the LICENSE file.
  */
 
+/*docerion
+type: source
+title: Stylesheet for the iOS management page
+summary: Defines styling for the Chrome iOS management page, including color variables, typography, dark mode support, and responsive layouts for a range of screen sizes and orientations.
+*/
+
 html {
   --google-blue-300: rgb(138, 180, 248);
   --google-blue-700: rgb(25, 103, 210);

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocationSettingsImpl JNI implementation
+// summary: Implements LocationSettings by forwarding calls to the Java LocationSettings class over JNI and converting callbacks back to C++.
+// ---
+
 #include "components/location/android/location_settings_impl.h"
 
 #include "base/android/callback_android.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Caption bubble view implementation
+// summary: Implements the floating caption bubble widget that displays live captions for audio and media streams, including labels, buttons, scrolling, and accessibility support.
+// ---
+
 #include "components/live_caption/views/caption_bubble.h"
 
 #include <algorithm>

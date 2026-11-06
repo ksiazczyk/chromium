@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Live Translate controller unit tests
+// summary: Tests the Live Translate controller's dispatcher selection, fallback from on-device to Google API translation, and UMA histogram recording using mock dispatchers.
+// ---
+
 #include "components/live_caption/live_translate_controller.h"
 
 #include <memory>

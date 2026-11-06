@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockLocationSettings implementation for unit tests
+// summary: Mock LocationSettings implementation with static setters to control location status and dialog behavior in tests.
+// ---
+
 #include "components/location/android/mock_location_settings.h"
 
 #include "base/lazy_instance.h"

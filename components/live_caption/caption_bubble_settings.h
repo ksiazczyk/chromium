@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CaptionBubbleSettings interface for caption bubble preferences
+// summary: Declares the CaptionBubbleSettings abstract interface that lets the caption bubble get, set and observe live caption and live translate settings from Chrome settings or BabelOrca.
+// ---
+
 #ifndef COMPONENTS_LIVE_CAPTION_CAPTION_BUBBLE_SETTINGS_H_
 #define COMPONENTS_LIVE_CAPTION_CAPTION_BUBBLE_SETTINGS_H_
 

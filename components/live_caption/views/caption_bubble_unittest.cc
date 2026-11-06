@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Caption bubble unit tests
+// summary: Unit tests for the caption bubble using a fake context and test preferences, covering behavior such as the scrollable live caption feature.
+// ---
+
 #include "components/live_caption/views/caption_bubble.h"
 
 #include <memory>

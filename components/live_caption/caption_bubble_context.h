@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CaptionBubbleContext interface
+// summary: Declares the context interface for an audio stream used by the caption bubble, providing bounds, session IDs, activation and caption settings callbacks.
+// ---
+
 #ifndef COMPONENTS_LIVE_CAPTION_CAPTION_BUBBLE_CONTEXT_H_
 #define COMPONENTS_LIVE_CAPTION_CAPTION_BUBBLE_CONTEXT_H_
 

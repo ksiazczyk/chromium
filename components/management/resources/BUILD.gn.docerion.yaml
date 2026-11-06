@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the management WebUI
+summary: GN build target that assembles the management WebUI from static files, TypeScript sources and web UI resource dependencies.

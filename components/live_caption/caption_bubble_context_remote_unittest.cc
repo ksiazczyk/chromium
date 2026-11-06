@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Remote caption bubble context unit tests
+// summary: Tests that activate and bounds requests are forwarded over Mojo and that duplicate caption bubble session observers are handled gracefully.
+// ---
+
 #include "components/live_caption/caption_bubble_context_remote.h"
 
 #include <optional>
