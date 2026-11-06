@@ -1,0 +1,4 @@
+# Docerion header of smart_tab_grouping_service.mojom.
+type: source
+title: SmartTabGroupingService mojom interface
+summary: Defines the mojo interface and response union for executing smart tab grouping feature requests.

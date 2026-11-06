@@ -1,0 +1,4 @@
+# Docerion header of remote_suggestions_service_delegate_bridge.mm.
+type: source
+title: Remote suggestions service delegate bridge implementation
+summary: Implements the delegate bridge, forwarding request and indexed request completion events from the remote suggestions service to the Objective-C delegate.

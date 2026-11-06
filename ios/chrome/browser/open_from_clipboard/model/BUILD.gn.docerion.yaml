@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Open from clipboard model BUILD.gn build definition
+summary: Defines the model source set for the open-from-clipboard feature, listing its sources and dependencies on base, shared URL constants, features, and app group components.

@@ -1,0 +1,4 @@
+# Docerion header of omnibox_focus_browser_agent.mm.
+type: source
+title: OmniboxFocusBrowserAgent implementation
+summary: Implements OmniboxFocusBrowserAgent, delegating the omnibox focus query to the injected OmniboxStateProvider.

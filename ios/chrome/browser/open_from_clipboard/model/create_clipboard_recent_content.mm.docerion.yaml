@@ -1,0 +1,4 @@
+# Docerion header of create_clipboard_recent_content.mm.
+type: source
+title: Clipboard recent content factory implementation
+summary: Implements CreateClipboardRecentContentIOS, constructing a ClipboardRecentContentIOS with the Chrome UI scheme and the app group user defaults.

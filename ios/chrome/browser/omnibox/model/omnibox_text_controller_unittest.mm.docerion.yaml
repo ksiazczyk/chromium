@@ -1,0 +1,4 @@
+# Docerion header of omnibox_text_controller_unittest.mm.
+type: test
+title: OmniboxTextController unit tests
+summary: Unit tests for OmniboxTextController covering text updates, autocompletion and state changes using fake clients, mock services and OCMock.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox popup mediator interface
+// summary: Declares the mediator bridging autocomplete results and popup UI, plus its delegate and protocol provider interfaces.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OMNIBOX_COORDINATOR_POPUP_OMNIBOX_POPUP_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_OMNIBOX_COORDINATOR_POPUP_OMNIBOX_POPUP_MEDIATOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox popup carousel control header
+// summary: Declares OmniboxPopupCarouselControl, the UIControl that displays a carousel item's favicon and title and handles context menus and focus events.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OMNIBOX_UI_POPUP_CAROUSEL_OMNIBOX_POPUP_CAROUSEL_CONTROL_H_
 #define IOS_CHROME_BROWSER_OMNIBOX_UI_POPUP_CAROUSEL_OMNIBOX_POPUP_CAROUSEL_CONTROL_H_
 

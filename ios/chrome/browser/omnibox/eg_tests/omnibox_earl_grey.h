@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Omnibox Earl Grey test helper interface
+// summary: Declares the OmniboxEarlGreyImpl helper used by omnibox Earl Grey tests to wait for shortcuts, populate history, and interact with the omnibox.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OMNIBOX_EG_TESTS_OMNIBOX_EARL_GREY_H_
 #define IOS_CHROME_BROWSER_OMNIBOX_EG_TESTS_OMNIBOX_EARL_GREY_H_
 

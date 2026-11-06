@@ -1,0 +1,4 @@
+# Docerion header of omnibox_earl_grey.mm.
+type: test
+title: Omnibox Earl Grey test helper implementation
+summary: Implements the OmniboxEarlGrey helper methods for omnibox Earl Grey tests, including waiting for shortcuts, populating history, and defocusing the omnibox.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox thumbnail button interface
+// summary: Declares OmniboxThumbnailButton, a UIButton subclass that shows a thumbnail image in the omnibox and displays a blue discard-intent overlay when selected.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OMNIBOX_UI_OMNIBOX_THUMBNAIL_BUTTON_H_
 #define IOS_CHROME_BROWSER_OMNIBOX_UI_OMNIBOX_THUMBNAIL_BUTTON_H_
 

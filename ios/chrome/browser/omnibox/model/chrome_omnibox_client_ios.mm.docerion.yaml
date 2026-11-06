@@ -1,0 +1,4 @@
+# Docerion header of chrome_omnibox_client_ios.mm.
+type: source
+title: ChromeOmniboxClientIOS implementation
+summary: Implements the Chrome omnibox client, exposing URL, security, bookmark, search engine and metrics information.

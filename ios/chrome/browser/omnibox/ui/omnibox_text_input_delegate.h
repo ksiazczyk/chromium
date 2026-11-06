@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OmniboxTextInputDelegate protocol
+// summary: Defines the OmniboxTextInputDelegate protocol through which the omnibox text input reports editing, paste, copy, and autocomplete events.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OMNIBOX_UI_OMNIBOX_TEXT_INPUT_DELEGATE_H_
 #define IOS_CHROME_BROWSER_OMNIBOX_UI_OMNIBOX_TEXT_INPUT_DELEGATE_H_
 

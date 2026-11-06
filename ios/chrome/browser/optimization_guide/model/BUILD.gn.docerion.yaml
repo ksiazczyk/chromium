@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for the optimization guide model
+summary: Defines GN source sets, dependencies, and test targets for the iOS Chrome optimization guide model code.

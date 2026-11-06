@@ -1,0 +1,4 @@
+# Docerion header of suggest_action.mm.
+type: source
+title: Suggest action implementation
+summary: Implements SuggestAction for supported omnibox suggest actions such as call, directions, and reviews, with symbol icons and localized titles.

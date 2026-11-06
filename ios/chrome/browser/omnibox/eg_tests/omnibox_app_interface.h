@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OmniboxAppInterface app-side helper declarations
+// summary: Declares app-side helpers for omnibox tests, including fake suggestions service setup and focus checks.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OMNIBOX_EG_TESTS_OMNIBOX_APP_INTERFACE_H_
 #define IOS_CHROME_BROWSER_OMNIBOX_EG_TESTS_OMNIBOX_APP_INTERFACE_H_
 

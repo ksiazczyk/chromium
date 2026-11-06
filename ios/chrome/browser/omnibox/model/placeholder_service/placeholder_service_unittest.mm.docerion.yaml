@@ -1,0 +1,4 @@
+# Docerion header of placeholder_service_unittest.mm.
+type: test
+title: PlaceholderService unit tests
+summary: Unit tests for PlaceholderService covering placeholder text, icon fetching and caching, and branded asset behavior with a mocked favicon loader.

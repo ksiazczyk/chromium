@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox popup row content configuration interface
+// summary: Declares the UIContentConfiguration for omnibox popup rows, holding suggestion data, delegates, and the read-only view interface properties.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OMNIBOX_UI_POPUP_ROW_OMNIBOX_POPUP_ROW_CONTENT_CONFIGURATION_H_
 #define IOS_CHROME_BROWSER_OMNIBOX_UI_POPUP_ROW_OMNIBOX_POPUP_ROW_CONTENT_CONFIGURATION_H_
 

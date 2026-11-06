@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA with bug tracking component for the omnibox UI
+summary: Sets the Monorail and Buganizer components used for issues filed against the omnibox UI directory.

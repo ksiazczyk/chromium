@@ -1,0 +1,4 @@
+# Docerion header of carousel_item.mm.
+type: source
+title: Carousel item model implementation
+summary: Implements the CarouselItem model class used for suggestions in the omnibox popup carousel.

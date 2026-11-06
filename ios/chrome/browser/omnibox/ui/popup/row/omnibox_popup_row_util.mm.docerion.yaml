@@ -1,0 +1,4 @@
+# Docerion header of omnibox_popup_row_util.mm.
+type: source
+title: Omnibox popup row utility implementation
+summary: Maps iOS UI content size categories, including accessibility sizes, to scaling multipliers used for omnibox popup row content.

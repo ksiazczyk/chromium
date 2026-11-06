@@ -1,0 +1,4 @@
+# Docerion header of omnibox_test_util.mm.
+type: test
+title: Omnibox test utilities for Earl Grey tests
+summary: Shared helpers for omnibox Earl Grey tests that serve fake test pages, verify the X-Client-Data header and disable autocomplete providers via field trial parameters.

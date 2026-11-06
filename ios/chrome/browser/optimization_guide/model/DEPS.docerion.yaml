@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the optimization guide model
+summary: Specifies which directories this folder may include headers from during dependency checks.

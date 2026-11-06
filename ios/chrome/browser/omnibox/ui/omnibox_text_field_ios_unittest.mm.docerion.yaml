@@ -1,0 +1,4 @@
+# Docerion header of omnibox_text_field_ios_unittest.mm.
+type: test
+title: OmniboxTextFieldIOS unit tests
+summary: Unit tests for OmniboxTextFieldIOS covering selected range conversion, pre-edit behavior, and text field interactions using OCMock.

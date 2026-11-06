@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OmniboxPopupActionsRowDelegate protocol
+// summary: Declares the delegate protocol notified when an action attached to an omnibox popup suggestion row is tapped.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OMNIBOX_UI_POPUP_ROW_ACTIONS_OMNIBOX_POPUP_ACTIONS_ROW_DELEGATE_H_
 #define IOS_CHROME_BROWSER_OMNIBOX_UI_POPUP_ROW_ACTIONS_OMNIBOX_POPUP_ACTIONS_ROW_DELEGATE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the omnibox keyboard assist UI
+summary: Defines the keyboard_assist source set and unit_tests target with their sources, dependencies and frameworks.

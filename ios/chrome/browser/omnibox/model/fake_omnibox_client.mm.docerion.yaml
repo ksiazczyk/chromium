@@ -1,0 +1,4 @@
+# Docerion header of fake_omnibox_client.mm.
+type: test
+title: FakeOmniboxClient test double implementation
+summary: Implements the fake omnibox client used by unit tests, returning controllable page and profile data.

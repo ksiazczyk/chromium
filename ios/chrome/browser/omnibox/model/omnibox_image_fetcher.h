@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox image fetcher interface
+// summary: Declares a utility class that asynchronously fetches images and favicons for the omnibox and caches them for the session.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OMNIBOX_MODEL_OMNIBOX_IMAGE_FETCHER_H_
 #define IOS_CHROME_BROWSER_OMNIBOX_MODEL_OMNIBOX_IMAGE_FETCHER_H_
 

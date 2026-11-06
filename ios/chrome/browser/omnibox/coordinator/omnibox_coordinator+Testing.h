@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OmniboxCoordinator testing category header
+// summary: Declares a Testing category on OmniboxCoordinator that exposes its private autocomplete controller accessor for tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OMNIBOX_COORDINATOR_OMNIBOX_COORDINATOR_TESTING_H_
 #define IOS_CHROME_BROWSER_OMNIBOX_COORDINATOR_OMNIBOX_COORDINATOR_TESTING_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutocompleteSuggestion and group protocols
+// summary: Defines the AutocompleteSuggestion and AutocompleteSuggestionGroup protocols describing omnibox suggestions for the UI.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OMNIBOX_MODEL_SUGGESTIONS_AUTOCOMPLETE_SUGGESTION_H_
 #define IOS_CHROME_BROWSER_OMNIBOX_MODEL_SUGGESTIONS_AUTOCOMPLETE_SUGGESTION_H_
 

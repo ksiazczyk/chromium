@@ -1,0 +1,4 @@
+# Docerion header of omnibox_keyboard_accessory_view.mm.
+type: source
+title: Omnibox keyboard accessory view implementation
+summary: Implements the accessory view above the keyboard, including shortcut buttons, search tools and glass effect styling.

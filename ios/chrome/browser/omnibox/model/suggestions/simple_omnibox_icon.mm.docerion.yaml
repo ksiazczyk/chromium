@@ -1,0 +1,4 @@
+# Docerion header of simple_omnibox_icon.mm.
+type: source
+title: Simple omnibox icon implementation
+summary: Implements icon image, tint, and background color selection for omnibox suggestions, including branded Google answer icons.

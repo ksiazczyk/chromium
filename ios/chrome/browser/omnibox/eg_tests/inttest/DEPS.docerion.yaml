@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the omnibox integration test folder
+summary: DEPS file listing the Chromium directories whose headers the omnibox integration test code may include.

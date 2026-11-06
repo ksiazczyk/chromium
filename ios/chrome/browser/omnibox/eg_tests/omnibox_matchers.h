@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Omnibox Earl Grey matcher interface
+// summary: Declares Earl Grey matchers for omnibox popup rows, their primary and secondary text, rows by index or URL, and the clear button.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OMNIBOX_EG_TESTS_OMNIBOX_MATCHERS_H_
 #define IOS_CHROME_BROWSER_OMNIBOX_EG_TESTS_OMNIBOX_MATCHERS_H_
 

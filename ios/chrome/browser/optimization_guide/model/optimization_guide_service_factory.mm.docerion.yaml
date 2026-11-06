@@ -1,0 +1,4 @@
+# Docerion header of optimization_guide_service_factory.mm.
+type: source
+title: Optimization guide service factory implementation
+summary: Builds per-profile OptimizationGuideService instances, sharing hint stores with off-the-record profiles and wiring model execution delegates.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autocomplete match group header
+// summary: Declares AutocompleteMatchGroup, a class that stores a titled list of autocomplete matches.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OMNIBOX_DEBUGGER_AUTOCOMPLETE_MATCH_GROUP_H_
 #define IOS_CHROME_BROWSER_OMNIBOX_DEBUGGER_AUTOCOMPLETE_MATCH_GROUP_H_
 

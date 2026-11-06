@@ -1,0 +1,4 @@
+# Docerion header of on_device_llm_internals.html.
+type: source
+title: On-device LLM Internals page
+summary: HTML page for the iOS on-device LLM internals debug UI, which displays model information and lets users submit a query and view the generated response.

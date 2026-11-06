@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox debugger mutator protocol
+// summary: Declares the OmniboxDebuggerMutator protocol with a method to hardcode a suggest response in the omnibox debugger.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OMNIBOX_DEBUGGER_OMNIBOX_DEBUGGER_MUTATOR_H_
 #define IOS_CHROME_BROWSER_OMNIBOX_DEBUGGER_OMNIBOX_DEBUGGER_MUTATOR_H_
 

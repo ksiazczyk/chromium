@@ -1,0 +1,4 @@
+# Docerion header of omnibox_inttest_egtest.mm.
+type: test
+title: Earl Grey tests for the omnibox with fake suggestions
+summary: Earl Grey test cases exercising omnibox integration, such as accepting shortcut suggestions, using fake autocomplete data.

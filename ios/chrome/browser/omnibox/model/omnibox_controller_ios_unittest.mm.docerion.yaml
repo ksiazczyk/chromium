@@ -1,0 +1,4 @@
+# Docerion header of omnibox_controller_ios_unittest.mm.
+type: test
+title: OmniboxControllerIOS unit tests
+summary: Unit test verifying that OmniboxControllerIOS creates the expected set of default autocomplete providers.

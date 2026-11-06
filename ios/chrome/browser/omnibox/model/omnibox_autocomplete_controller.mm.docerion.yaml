@@ -1,0 +1,4 @@
+# Docerion header of omnibox_autocomplete_controller.mm.
+type: source
+title: Omnibox autocomplete controller implementation
+summary: Implements the iOS omnibox autocomplete controller, wiring autocomplete results, prerendering, metrics, and delegate notifications for the omnibox UI.

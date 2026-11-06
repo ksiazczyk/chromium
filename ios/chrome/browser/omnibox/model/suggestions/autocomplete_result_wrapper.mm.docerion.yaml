@@ -1,0 +1,4 @@
+# Docerion header of autocomplete_result_wrapper.mm.
+type: source
+title: AutocompleteResultWrapper implementation
+summary: Implements grouping of autocomplete matches into suggestion groups, including pedal extraction and search engine observation.

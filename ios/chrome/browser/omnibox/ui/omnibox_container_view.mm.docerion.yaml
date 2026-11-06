@@ -1,0 +1,4 @@
+# Docerion header of omnibox_container_view.mm.
+type: source
+title: Omnibox container view implementation
+summary: Implements the omnibox edit-state container view, laying out the text input, leading image, clear button and thumbnail for each presentation context.

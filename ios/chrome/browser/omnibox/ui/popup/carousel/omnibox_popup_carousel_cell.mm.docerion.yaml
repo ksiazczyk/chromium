@@ -1,0 +1,4 @@
+# Docerion header of omnibox_popup_carousel_cell.mm.
+type: source
+title: Omnibox popup carousel cell implementation
+summary: Implements the omnibox popup carousel cell, laying out a horizontal scroll view and stack view of carousel items with dynamic spacing and trait-aware background colors.

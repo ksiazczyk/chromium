@@ -1,0 +1,4 @@
+# Docerion header of omnibox_inttest_coordinator.mm.
+type: source
+title: Implementation of the omnibox integration test coordinator
+summary: Sets up a fake omnibox client and the real omnibox coordinator to present omnibox UI during integration tests.

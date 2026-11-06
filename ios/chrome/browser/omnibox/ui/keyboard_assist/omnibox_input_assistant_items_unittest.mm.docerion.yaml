@@ -1,0 +1,4 @@
+# Docerion header of omnibox_input_assistant_items_unittest.mm.
+type: test
+title: Omnibox input assistant items unit tests
+summary: Unit tests verifying the leading bar button groups behave correctly with Lens enabled and disabled.

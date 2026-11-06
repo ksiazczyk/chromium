@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox autocomplete controller debugger delegate protocol
+// summary: Declares a delegate protocol that is notified when the availability of omnibox suggestions changes, for debugging autocomplete events.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OMNIBOX_MODEL_OMNIBOX_AUTOCOMPLETE_CONTROLLER_DEBUGGER_DELEGATE_H_
 #define IOS_CHROME_BROWSER_OMNIBOX_MODEL_OMNIBOX_AUTOCOMPLETE_CONTROLLER_DEBUGGER_DELEGATE_H_
 

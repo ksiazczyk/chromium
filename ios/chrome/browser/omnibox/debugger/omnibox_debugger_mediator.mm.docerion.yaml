@@ -1,0 +1,4 @@
+# Docerion header of omnibox_debugger_mediator.mm.
+type: source
+title: Omnibox debugger mediator implementation
+summary: Implements the mediator that bridges autocomplete and remote suggestions service events to the debugger consumer and supports hardcoding a suggest response.

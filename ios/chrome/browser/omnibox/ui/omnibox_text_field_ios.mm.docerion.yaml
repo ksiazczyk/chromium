@@ -1,0 +1,4 @@
+# Docerion header of omnibox_text_field_ios.mm.
+type: source
+title: OmniboxTextFieldIOS implementation
+summary: Implements the iOS omnibox text field, handling pre-edit state, inline autocomplete, placeholder text, gestures, and keyboard behavior.

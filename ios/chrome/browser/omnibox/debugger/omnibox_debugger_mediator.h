@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox debugger mediator header
+// summary: Declares the OmniboxDebuggerMediator interface that observes the autocomplete controller and remote suggestions service on behalf of the omnibox debugger.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OMNIBOX_DEBUGGER_OMNIBOX_DEBUGGER_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_OMNIBOX_DEBUGGER_OMNIBOX_DEBUGGER_MEDIATOR_H_
 

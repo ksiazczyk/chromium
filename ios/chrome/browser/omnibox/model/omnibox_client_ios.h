@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OmniboxClientIOS interface
+// summary: Declares the interface that lets the omnibox component interact with its iOS embedder, exposing page information, services, and omnibox operations.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OMNIBOX_MODEL_OMNIBOX_CLIENT_IOS_H_
 #define IOS_CHROME_BROWSER_OMNIBOX_MODEL_OMNIBOX_CLIENT_IOS_H_
 

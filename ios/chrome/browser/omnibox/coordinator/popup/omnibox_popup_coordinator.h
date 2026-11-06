@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox popup coordinator interface
+// summary: Declares the coordinator that presents the omnibox popup, including its initializer, popup state, and debugger toggle.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OMNIBOX_COORDINATOR_POPUP_OMNIBOX_POPUP_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_OMNIBOX_COORDINATOR_POPUP_OMNIBOX_POPUP_COORDINATOR_H_
 

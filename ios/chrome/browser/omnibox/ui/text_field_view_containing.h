@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Text field view containing protocol
+// summary: Defines the TextFieldViewContaining protocol for views hosting the omnibox text field, covering height changes, leading image, placeholder text, and return key behavior.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OMNIBOX_UI_TEXT_FIELD_VIEW_CONTAINING_H_
 #define IOS_CHROME_BROWSER_OMNIBOX_UI_TEXT_FIELD_VIEW_CONTAINING_H_
 

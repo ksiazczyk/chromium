@@ -1,0 +1,4 @@
+# Docerion header of omnibox_popup_row_content_view.mm.
+type: source
+title: Omnibox popup row content view implementation
+summary: Implements the row view layout with labels, leading icon, trailing button, separator, and gradient selection background, including popout omnibox constraints.

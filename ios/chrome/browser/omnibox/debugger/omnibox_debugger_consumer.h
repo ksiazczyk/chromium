@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox debugger consumer protocol
+// summary: Declares the OmniboxDebuggerConsumer protocol for consuming omnibox popup debug info such as variation IDs, events and remote suggestion updates.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OMNIBOX_DEBUGGER_OMNIBOX_DEBUGGER_CONSUMER_H_
 #define IOS_CHROME_BROWSER_OMNIBOX_DEBUGGER_OMNIBOX_DEBUGGER_CONSUMER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clipboard recent content factory declaration
+// summary: Declares CreateClipboardRecentContentIOS, a helper that builds a fully initialized ClipboardRecentContent instance from pure C++ for registration as a global singleton.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OPEN_FROM_CLIPBOARD_MODEL_CREATE_CLIPBOARD_RECENT_CONTENT_H_
 #define IOS_CHROME_BROWSER_OPEN_FROM_CLIPBOARD_MODEL_CREATE_CLIPBOARD_RECENT_CONTENT_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of hints_fetcher_egtest.mm.
+type: test
+title: Hints fetcher Earl Grey integration tests
+summary: Earl Grey tests exercising hints fetching against a local test server with successful, unsuccessful, malformed, and hung response types.

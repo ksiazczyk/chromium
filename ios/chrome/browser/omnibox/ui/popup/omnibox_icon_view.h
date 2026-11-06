@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox icon view header
+// summary: Declares OmniboxIconView, a UIView that displays omnibox icons with favicon and image retriever hooks and reuse handling.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OMNIBOX_UI_POPUP_OMNIBOX_ICON_VIEW_H_
 #define IOS_CHROME_BROWSER_OMNIBOX_UI_POPUP_OMNIBOX_ICON_VIEW_H_
 

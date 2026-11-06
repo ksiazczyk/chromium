@@ -1,0 +1,4 @@
+# Docerion header of prediction_manager_browsertest.mm.
+type: test
+title: Prediction manager browser test
+summary: Browser tests verifying prediction model delivery, downloads and model update notifications through the iOS optimization guide prediction manager.

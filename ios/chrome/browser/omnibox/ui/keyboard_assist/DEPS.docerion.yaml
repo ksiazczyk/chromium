@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for keyboard assist dependencies
+summary: Restricts allowed includes for the folder and grants the keyboard accessory view implementation access to the bubble UI.

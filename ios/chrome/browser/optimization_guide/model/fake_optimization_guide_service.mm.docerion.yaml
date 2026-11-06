@@ -1,0 +1,4 @@
+# Docerion header of fake_optimization_guide_service.mm.
+type: source
+title: Fake optimization guide service implementation
+summary: Implements the fake model execution service, returning mocked responses or errors asynchronously for each feature key.

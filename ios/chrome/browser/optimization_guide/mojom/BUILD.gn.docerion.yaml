@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the optimization guide mojom targets
+summary: Defines the mojom bindings build target listing the five AI service .mojom sources together with their mojo base public dependencies.

@@ -1,0 +1,4 @@
+# Docerion header of autocomplete_match_group.mm.
+type: source
+title: Autocomplete match group implementation
+summary: Implements the AutocompleteMatchGroup factory method that groups matches under a title.

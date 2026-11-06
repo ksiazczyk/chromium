@@ -1,0 +1,4 @@
+# Docerion header of omnibox_inttest_view_controller.mm.
+type: source
+title: Omnibox integration test view controller implementation
+summary: Implements the integration test view controller, laying out the omnibox container, cancel button and popup container and handling cancel taps.

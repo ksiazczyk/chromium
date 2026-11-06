@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for ui_bundled orchestrator
+summary: Defines the ui_bundled source_set, listing its sources, dependencies, and the UIKit framework linkage.

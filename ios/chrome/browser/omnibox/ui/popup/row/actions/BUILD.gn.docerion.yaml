@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn target for the omnibox popup actions row
+summary: Defines the actions source_set listing the row's sources and its build dependencies within the omnibox UI.

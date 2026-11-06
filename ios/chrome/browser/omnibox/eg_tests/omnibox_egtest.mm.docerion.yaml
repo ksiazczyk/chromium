@@ -1,0 +1,4 @@
+# Docerion header of omnibox_egtest.mm.
+type: test
+title: Omnibox Earl Grey tests
+summary: Earl Grey tests covering a wide range of omnibox behaviors in Chrome for iOS, including navigation, text editing, and popup interactions.

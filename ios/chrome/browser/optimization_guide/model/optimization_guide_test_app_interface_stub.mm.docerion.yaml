@@ -1,0 +1,4 @@
+# Docerion header of optimization_guide_test_app_interface_stub.mm.
+type: test
+title: Optimization guide test app interface stub
+summary: Stub implementation of OptimizationGuideTestAppInterface registered in the app main queue for Earl Grey integration tests.

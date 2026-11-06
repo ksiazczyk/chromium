@@ -1,0 +1,4 @@
+# Docerion header of omnibox_popup_carousel_egtest.mm.
+type: test
+title: Omnibox popup carousel Earl Grey tests
+summary: Earl Grey tests for the most visited sites carousel in the omnibox popup, covering tile addition, tapping, and scrolling.

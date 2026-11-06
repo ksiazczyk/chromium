@@ -1,0 +1,4 @@
+# Docerion header of omnibox_thumbnail_button.mm.
+type: source
+title: Omnibox thumbnail button implementation
+summary: Implements the omnibox thumbnail button, resizing the thumbnail to fill the frame and animating a blue overlay with an X symbol when the button is selected.

@@ -1,0 +1,4 @@
+# Docerion header of omnibox_popup_row_content_configuration.mm.
+type: source
+title: Omnibox popup row content configuration implementation
+summary: Implements the row content configuration, mapping suggestion data to leading icon, primary and secondary text, trailing icon, and margin properties.

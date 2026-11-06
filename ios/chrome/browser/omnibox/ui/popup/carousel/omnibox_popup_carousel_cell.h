@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox popup carousel cell header
+// summary: Declares OmniboxPopupCarouselCell, a table view cell that shows omnibox suggestions in a horizontally scrolling carousel with delegate and menu provider hooks.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OMNIBOX_UI_POPUP_CAROUSEL_OMNIBOX_POPUP_CAROUSEL_CELL_H_
 #define IOS_CHROME_BROWSER_OMNIBOX_UI_POPUP_CAROUSEL_OMNIBOX_POPUP_CAROUSEL_CELL_H_
 

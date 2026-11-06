@@ -1,0 +1,4 @@
+# Docerion header of optimization_guide_service_unittest.mm.
+type: test
+title: Optimization guide service unit tests
+summary: Tests OptimizationGuideService hint handling, navigation processing, and model updates using test hints and fake navigation contexts.

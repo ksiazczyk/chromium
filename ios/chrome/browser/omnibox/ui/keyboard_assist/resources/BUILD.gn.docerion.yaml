@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Keyboard assist resources build target
+summary: Declares a bundle_data_xcassets target that packages QR scanner and voice search keyboard accessory images into the asset catalog.

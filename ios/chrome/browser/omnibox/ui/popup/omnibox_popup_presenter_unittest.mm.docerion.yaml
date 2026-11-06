@@ -1,0 +1,4 @@
+# Docerion header of omnibox_popup_presenter_unittest.mm.
+type: test
+title: Omnibox popup presenter unit tests
+summary: Unit tests for OmniboxPopupPresenter covering open and closed behavior on trait collection changes using OCMock and a test delegate.

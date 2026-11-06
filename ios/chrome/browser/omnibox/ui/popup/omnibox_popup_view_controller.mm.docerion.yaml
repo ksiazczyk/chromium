@@ -1,0 +1,4 @@
+# Docerion header of omnibox_popup_view_controller.mm.
+type: source
+title: Omnibox popup view controller implementation
+summary: Implements the omnibox popup suggestion list with table view data source and delegate logic, row highlighting, favicons, carousel cells and layout constants.

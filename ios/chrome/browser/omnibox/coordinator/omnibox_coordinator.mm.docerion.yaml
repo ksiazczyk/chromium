@@ -1,0 +1,4 @@
+# Docerion header of omnibox_coordinator.mm.
+type: source
+title: OmniboxCoordinator implementation
+summary: Implements OmniboxCoordinator, wiring the omnibox UI, popup coordinator, commands, and autocomplete controller together.

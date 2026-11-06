@@ -1,0 +1,4 @@
+# Docerion header of omnibox_popup_presenter.mm.
+type: source
+title: Omnibox popup presenter implementation
+summary: Implements the omnibox popup presenter, managing constraints, animations and presentation of the suggestion popup across form factors and toolbar types.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the optimization guide mojom directory
+summary: Lists the directory owners and requires IPC security owners for approval of changes to any .mojom file.

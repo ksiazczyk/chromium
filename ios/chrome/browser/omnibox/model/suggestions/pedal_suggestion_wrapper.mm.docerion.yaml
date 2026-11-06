@@ -1,0 +1,4 @@
+# Docerion header of pedal_suggestion_wrapper.mm.
+type: source
+title: Pedal suggestion wrapper implementation
+summary: Implements the AutocompleteSuggestion methods that present an omnibox pedal as a suggestion with styled title, detail text, and icon.

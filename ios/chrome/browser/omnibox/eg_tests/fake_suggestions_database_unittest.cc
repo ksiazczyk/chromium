@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for FakeSuggestionsDatabase
+// summary: Unit tests verifying that fake suggestions can be stored, queried and retrieved by search terms.
+// ---
+
 #include "ios/chrome/browser/omnibox/eg_tests/fake_suggestions_database.h"
 
 #include "base/strings/utf_string_conversions.h"

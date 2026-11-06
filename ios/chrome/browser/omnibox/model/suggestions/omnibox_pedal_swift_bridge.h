@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Swift and Objective-C bridging header for omnibox pedals
+// summary: Bridging header importing pure Objective-C types and other Swift dependency bridging headers needed for omnibox pedal Swift interop.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OMNIBOX_MODEL_SUGGESTIONS_OMNIBOX_PEDAL_SWIFT_BRIDGE_H_
 #define IOS_CHROME_BROWSER_OMNIBOX_MODEL_SUGGESTIONS_OMNIBOX_PEDAL_SWIFT_BRIDGE_H_
 

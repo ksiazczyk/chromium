@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OmniboxPopupActionsRowContentView interface
+// summary: Declares the UIContentView subclass that renders the omnibox popup actions row from its content configuration.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OMNIBOX_UI_POPUP_ROW_ACTIONS_OMNIBOX_POPUP_ACTIONS_ROW_CONTENT_VIEW_H_
 #define IOS_CHROME_BROWSER_OMNIBOX_UI_POPUP_ROW_ACTIONS_OMNIBOX_POPUP_ACTIONS_ROW_CONTENT_VIEW_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of omnibox_autocomplete_event_view_controller.mm.
+type: source
+title: Omnibox autocomplete event view controller implementation
+summary: Implements the table view data source that renders the match groups of an autocomplete event using AutocompleteMatchCell.

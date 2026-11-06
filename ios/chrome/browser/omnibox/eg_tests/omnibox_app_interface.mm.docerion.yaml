@@ -1,0 +1,4 @@
+# Docerion header of omnibox_app_interface.mm.
+type: source
+title: OmniboxAppInterface implementation
+summary: Implements app-side helpers such as Google URL rewriting, variation forcing and fake suggestions service setup.

@@ -1,0 +1,4 @@
+# Docerion header of omnibox_text_view_ios_unittest.mm.
+type: test
+title: OmniboxTextViewIOS unit tests
+summary: Unit tests for OmniboxTextViewIOS verifying accessibility values, testing text composition, autocomplete, and additional text behavior.

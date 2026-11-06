@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Favicon retriever protocol
+// summary: Declares the FaviconRetriever protocol that fetches a favicon for a page URL, abstracting retrieval logic away from the view layer.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OMNIBOX_UI_POPUP_ROW_FAVICON_RETRIEVER_H_
 #define IOS_CHROME_BROWSER_OMNIBOX_UI_POPUP_ROW_FAVICON_RETRIEVER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeSuggestionsDatabase class declaration
+// summary: Declares a database that stores and serves fake omnibox suggestions keyed by search terms for tests and debugging.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OMNIBOX_EG_TESTS_FAKE_SUGGESTIONS_DATABASE_H_
 #define IOS_CHROME_BROWSER_OMNIBOX_EG_TESTS_FAKE_SUGGESTIONS_DATABASE_H_
 

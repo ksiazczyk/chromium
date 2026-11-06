@@ -1,0 +1,4 @@
+# Docerion header of omnibox_text_controller.mm.
+type: source
+title: OmniboxTextController implementation
+summary: Implements omnibox text handling including focus, editing, inline autocompletion, paste handling, reverts and user metrics for the iOS omnibox.

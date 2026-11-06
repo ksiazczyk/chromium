@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocationBarOffsetProvider protocol
+// summary: Declares a protocol that provides an x offset for a given string in the callee's coordinates, with a font-based default when the string is not displayed.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_ORCHESTRATOR_UI_BUNDLED_LOCATION_BAR_OFFSET_PROVIDER_H_
 #define IOS_CHROME_BROWSER_ORCHESTRATOR_UI_BUNDLED_LOCATION_BAR_OFFSET_PROVIDER_H_
 

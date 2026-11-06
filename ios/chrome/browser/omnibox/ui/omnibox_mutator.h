@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox mutator protocol
+// summary: Declares the OmniboxMutator protocol handling omnibox edits, focus events, copy and paste, and copied text or Lens search actions.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OMNIBOX_UI_OMNIBOX_MUTATOR_H_
 #define IOS_CHROME_BROWSER_OMNIBOX_UI_OMNIBOX_MUTATOR_H_
 

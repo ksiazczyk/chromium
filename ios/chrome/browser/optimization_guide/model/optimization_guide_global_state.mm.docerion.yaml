@@ -1,0 +1,4 @@
+# Docerion header of optimization_guide_global_state.mm.
+type: source
+title: OptimizationGuideGlobalState implementation
+summary: Constructs the prediction model store and prediction manager and initializes model downloads through the profile download service tracker.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Simple omnibox icon interface
+// summary: Declares SimpleOmniboxIcon, an OmniboxIcon implementation built from icon type, suggestion icon type, answer flag, and image URL.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OMNIBOX_MODEL_SUGGESTIONS_SIMPLE_OMNIBOX_ICON_H_
 #define IOS_CHROME_BROWSER_OMNIBOX_MODEL_SUGGESTIONS_SIMPLE_OMNIBOX_ICON_H_
 

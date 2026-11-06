@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the omnibox model
+summary: Lists the include paths that code in the omnibox model directory is allowed to depend on.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox consumer protocol for UI updates
+// summary: Declares the OmniboxConsumer protocol that receives updates for placeholder text, icons, Lens support and thumbnail images.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OMNIBOX_UI_OMNIBOX_CONSUMER_H_
 #define IOS_CHROME_BROWSER_OMNIBOX_UI_OMNIBOX_CONSUMER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of optimization_guide_tab_helper_unittest.mm.
+type: test
+title: Optimization guide tab helper unit tests
+summary: Tests IOSOptimizationGuideNavigationData redirect chains and the tab helper's navigation notifications to the service.

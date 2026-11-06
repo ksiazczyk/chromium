@@ -1,0 +1,4 @@
+# Docerion header of omnibox_inttest_app_interface_stub.mm.
+type: source
+title: Stub for the omnibox integration test app interface
+summary: Registers an Earl Grey stub binding of the app interface for use on the test side of the integration tests.

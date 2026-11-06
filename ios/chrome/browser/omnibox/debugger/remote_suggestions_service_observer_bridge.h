@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote suggestions service observer bridge header
+// summary: Declares the RemoteSuggestionsServiceObserver Objective-C protocol and the C++ observer bridge class that relays request created, started, and completed events.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OMNIBOX_DEBUGGER_REMOTE_SUGGESTIONS_SERVICE_OBSERVER_BRIDGE_H_
 #define IOS_CHROME_BROWSER_OMNIBOX_DEBUGGER_REMOTE_SUGGESTIONS_SERVICE_OBSERVER_BRIDGE_H_
 

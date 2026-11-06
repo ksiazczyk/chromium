@@ -1,0 +1,4 @@
+# Docerion header of omnibox_popup_coordinator.mm.
+type: source
+title: Omnibox popup coordinator implementation
+summary: Implements the popup coordinator, wiring the mediator, popup view controller, presenter, and sharing support.

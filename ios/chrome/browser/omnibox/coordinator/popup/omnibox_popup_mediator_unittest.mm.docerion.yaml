@@ -1,0 +1,4 @@
+# Docerion header of omnibox_popup_mediator_unittest.mm.
+type: test
+title: Omnibox popup mediator unit tests
+summary: Unit tests for OmniboxPopupMediator covering suggestion groups, pedals, actions in suggest, and related behavior.

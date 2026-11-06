@@ -1,0 +1,4 @@
+# Docerion header of omnibox_icon_view.mm.
+type: source
+title: Omnibox icon view implementation
+summary: Implements OmniboxIconView layout and icon display, compositing colorful symbol views with fetched favicons or images for suggestions.

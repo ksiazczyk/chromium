@@ -1,0 +1,4 @@
+# Docerion header of omnibox_matchers.mm.
+type: test
+title: Omnibox Earl Grey matcher implementation
+summary: Implements Earl Grey matchers for omnibox popup rows, URL-based popup rows, and the omnibox clear button.

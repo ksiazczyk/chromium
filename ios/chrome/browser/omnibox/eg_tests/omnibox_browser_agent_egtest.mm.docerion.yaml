@@ -1,0 +1,4 @@
+# Docerion header of omnibox_browser_agent_egtest.mm.
+type: test
+title: Earl Grey tests for the omnibox browser agent
+summary: Earl Grey tests verifying that the omnibox browser agent reports focus state across focus, defocus and tab events.

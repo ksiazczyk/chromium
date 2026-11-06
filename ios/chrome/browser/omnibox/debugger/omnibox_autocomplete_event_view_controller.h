@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox autocomplete event view controller header
+// summary: Declares OmniboxAutocompleteEventViewController, a table view controller that shows the UI of an autocomplete event.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OMNIBOX_DEBUGGER_OMNIBOX_AUTOCOMPLETE_EVENT_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_OMNIBOX_DEBUGGER_OMNIBOX_AUTOCOMPLETE_EVENT_VIEW_CONTROLLER_H_
 

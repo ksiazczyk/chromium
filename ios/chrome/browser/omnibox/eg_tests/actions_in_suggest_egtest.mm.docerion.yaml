@@ -1,0 +1,4 @@
+# Docerion header of actions_in_suggest_egtest.mm.
+type: test
+title: Earl Grey tests for omnibox suggestion actions
+summary: Earl Grey tests verifying that call, directions and reviews actions appear and work in omnibox suggestions.

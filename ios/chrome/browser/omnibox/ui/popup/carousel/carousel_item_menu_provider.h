@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Carousel item menu provider protocol
+// summary: Declares the CarouselItemMenuProvider protocol supplying context menu configurations and accessibility custom actions for carousel items.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OMNIBOX_UI_POPUP_CAROUSEL_CAROUSEL_ITEM_MENU_PROVIDER_H_
 #define IOS_CHROME_BROWSER_OMNIBOX_UI_POPUP_CAROUSEL_CAROUSEL_ITEM_MENU_PROVIDER_H_
 

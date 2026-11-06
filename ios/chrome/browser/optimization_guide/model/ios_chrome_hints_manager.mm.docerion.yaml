@@ -1,0 +1,4 @@
+# Docerion header of ios_chrome_hints_manager.mm.
+type: source
+title: IOSChromeHintsManager implementation
+summary: Implements the iOS hints manager constructor, adding a push notification manager when the push notifications feature is enabled.

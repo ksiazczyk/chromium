@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test fake suggestions service implementation
+// summary: Implements a fake remote suggestions service that intercepts suggestion requests and returns canned responses from a fake suggestions database during tests.
+// ---
+
 #include "ios/chrome/browser/omnibox/eg_tests/test_fake_suggestions_service.h"
 
 #import "components/search_engines/template_url_service.h"

@@ -1,0 +1,4 @@
+# Docerion header of ios_model_quality_logs_uploader_service_unittest.mm.
+type: test
+title: IOSModelQualityLogsUploaderService unit tests
+summary: Unit tests for the iOS model quality logs uploader, using test metrics services manager, enabled state provider and application context fixtures.

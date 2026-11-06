@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for omnibox Earl Grey tests
+summary: Defines GN source sets and dependencies for the omnibox Earl Grey test suites and their app and test support.

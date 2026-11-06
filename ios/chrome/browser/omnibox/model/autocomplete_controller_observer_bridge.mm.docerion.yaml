@@ -1,0 +1,4 @@
+# Docerion header of autocomplete_controller_observer_bridge.mm.
+type: source
+title: AutocompleteControllerObserver bridge implementation
+summary: Implements the bridge that dispatches C++ autocomplete controller callbacks to the Objective-C observer.

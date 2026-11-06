@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox integration test view controller header
+// summary: Declares a view controller that presents omnibox UI elements such as the edit view, popup view and cancel button for integration tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OMNIBOX_EG_TESTS_INTTEST_OMNIBOX_INTTEST_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_OMNIBOX_EG_TESTS_INTTEST_OMNIBOX_INTTEST_VIEW_CONTROLLER_H_
 
