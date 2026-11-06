@@ -1,0 +1,4 @@
+# Docerion header of counter-text-expected-blink.txt.
+type: test
+title: Counter text expected output
+summary: Expected Blink accessibility tree output for CSS counter text exposed on ordered list items.

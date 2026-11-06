@@ -1,0 +1,4 @@
+# Docerion header of table-display-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for table with display styles
+summary: Expected Blink AX tree snapshot verifying a table with display styles is exposed as a layout table with cells named Cats, Dogs, Iguanas and Fish.

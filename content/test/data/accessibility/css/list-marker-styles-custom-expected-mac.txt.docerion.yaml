@@ -1,0 +1,4 @@
+# Docerion header of list-marker-styles-custom-expected-mac.txt.
+type: test
+title: List marker styles custom expected Mac accessibility tree
+summary: Expected macOS accessibility tree output for the custom list marker styles test, covering standard markers and counter-style speak-as variants.

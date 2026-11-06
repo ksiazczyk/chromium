@@ -1,0 +1,4 @@
+# Docerion header of first-letter-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for first-letter test
+summary: Expected Blink accessibility tree covering headings and a paragraph with first-letter and before pseudo-element styling.

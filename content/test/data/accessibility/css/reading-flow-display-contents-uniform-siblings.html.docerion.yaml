@@ -1,0 +1,4 @@
+# Docerion header of reading-flow-display-contents-uniform-siblings.html.
+type: test
+title: Reading flow display contents uniform siblings test page
+summary: 'HTML test page verifying that direct children of display: contents elements follow reading flow order, with and without tabindex and group roles.'

@@ -1,0 +1,4 @@
+# Docerion header of reading-flow-out-of-flow-position.html.
+type: test
+title: Reading flow out-of-flow position test page
+summary: HTML test page verifying that absolute and fixed position elements are visited after reading flow items in DOM order.

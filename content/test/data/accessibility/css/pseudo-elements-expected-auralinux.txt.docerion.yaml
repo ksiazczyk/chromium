@@ -1,0 +1,4 @@
+# Docerion header of pseudo-elements-expected-auralinux.txt.
+type: test
+title: Pseudo-elements expected accessibility tree for Aura Linux
+summary: Expected Aura Linux accessibility tree for the CSS pseudo-elements test, listing a heading and static text nodes for '[ Foo ]'.

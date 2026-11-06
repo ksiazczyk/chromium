@@ -1,0 +1,4 @@
+# Docerion header of color-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for CSS color test
+summary: Expected Android accessibility tree for the CSS color test, listing the WebView, TextView and EditText nodes produced by the page.

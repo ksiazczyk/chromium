@@ -1,0 +1,4 @@
+# Docerion header of content-visibility-hidden-check-failure-expected-blink.txt.
+type: test
+title: Content visibility hidden check failure expected output
+summary: Expected Blink accessibility tree output for the content-visibility hidden check failure test.

@@ -1,0 +1,4 @@
+# Docerion header of carousel-with-links-expected-android-external.txt.
+type: test
+title: Expected Android accessibility tree for carousel-with-links test
+summary: Expected Android external accessibility tree snapshot for a carousel test page containing links in a navigation view.

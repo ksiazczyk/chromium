@@ -1,0 +1,4 @@
+# Docerion header of text-overflow-ellipsis-expected-blink.txt.
+type: test
+title: Expected Blink tree for text-overflow ellipsis
+summary: Expected Blink accessibility tree output showing inline text boxes for text truncated with an ellipsis inside a nested span.

@@ -1,0 +1,4 @@
+# Docerion header of non-activatable-expected-auralinux.txt.
+type: test
+title: Expected AuraLinux accessibility tree for the non-activatable test
+summary: Expected AuraLinux accessibility tree for the non-activatable display-locking test, showing only the document and one section.

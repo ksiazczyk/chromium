@@ -1,0 +1,4 @@
+# Docerion header of display-contents.html.
+type: test
+title: Display contents test page
+summary: 'HTML test page with display: contents elements such as buttons, a listbox and nested containers to check accessibility behavior.'

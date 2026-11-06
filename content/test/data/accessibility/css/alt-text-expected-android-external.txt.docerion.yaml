@@ -1,0 +1,4 @@
+# Docerion header of alt-text-expected-android-external.txt.
+type: test
+title: Expected Android external tree for CSS alt text accessibility test
+summary: Expected Android external-format accessibility tree snapshot for the CSS alt text test page.

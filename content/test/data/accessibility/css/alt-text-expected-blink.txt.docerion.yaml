@@ -1,0 +1,4 @@
+# Docerion header of alt-text-expected-blink.txt.
+type: test
+title: Expected Blink tree for CSS alt text accessibility test
+summary: Expected Blink accessibility tree snapshot for the CSS alt text test page.

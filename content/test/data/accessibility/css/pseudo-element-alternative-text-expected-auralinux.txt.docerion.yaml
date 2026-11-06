@@ -1,0 +1,4 @@
+# Docerion header of pseudo-element-alternative-text-expected-auralinux.txt.
+type: test
+title: Pseudo-element alternative text expected AuraLinux tree
+summary: Expected AuraLinux accessibility tree for the pseudo-element alternative text test page, containing an image named 'alternative text' and static text nodes.

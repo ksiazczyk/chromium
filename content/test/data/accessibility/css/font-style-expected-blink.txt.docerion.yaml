@@ -1,0 +1,4 @@
+# Docerion header of font-style-expected-blink.txt.
+type: test
+title: Font style expected Blink output
+summary: Expected Blink accessibility tree output for the font-style test, listing static text nodes with textStyle and textPosition values for each formatting variant.

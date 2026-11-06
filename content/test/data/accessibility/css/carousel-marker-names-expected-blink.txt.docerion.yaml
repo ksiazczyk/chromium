@@ -1,0 +1,4 @@
+# Docerion header of carousel-marker-names-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for carousel marker names test
+summary: Expected Blink accessibility tree for the carousel-marker-names test, showing scroll marker names derived from content, quotes and scroll targets.

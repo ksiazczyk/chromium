@@ -1,0 +1,4 @@
+# Docerion header of activatable-no-screen-reader-expected-blink.txt.
+type: test
+title: Activatable expected Blink tree without screen reader
+summary: Expected Blink accessibility tree dump for the activatable page when no screen reader is active, showing only top-level containers.

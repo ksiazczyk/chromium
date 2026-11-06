@@ -1,0 +1,4 @@
+# Docerion header of font-family-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for font-family test
+summary: Expected Windows accessibility output recording font families like Times New Roman, Courier New and Arial for the font-family test page.

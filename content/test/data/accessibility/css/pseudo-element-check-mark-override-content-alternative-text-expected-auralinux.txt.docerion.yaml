@@ -1,0 +1,4 @@
+# Docerion header of pseudo-element-check-mark-override-content-alternative-text-expected-auralinux.txt.
+type: test
+title: Check-mark override content alternative text expected AuraLinux tree
+summary: Expected AuraLinux accessibility tree for the check-mark override content alternative text test page, showing a Pets combo box with Dog, Cat and Donkey menu items.

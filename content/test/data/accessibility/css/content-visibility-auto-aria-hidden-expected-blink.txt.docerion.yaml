@@ -1,0 +1,4 @@
+# Docerion header of content-visibility-auto-aria-hidden-expected-blink.txt.
+type: test
+title: Expected Blink output for content-visibility auto aria-hidden test
+summary: Expected Blink accessibility tree for the content-visibility auto aria-hidden test, showing ignored containers and the semantic heading.

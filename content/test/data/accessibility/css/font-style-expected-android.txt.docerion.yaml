@@ -1,0 +1,4 @@
+# Docerion header of font-style-expected-android.txt.
+type: test
+title: Font style expected Android output
+summary: Expected Android accessibility tree snapshot for the font-style test, showing a TextView and a multiline EditText with text change counts.

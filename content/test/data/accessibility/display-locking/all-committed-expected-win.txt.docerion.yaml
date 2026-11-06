@@ -1,0 +1,4 @@
+# Docerion header of all-committed-expected-win.txt.
+type: test
+title: All-committed expected accessibility tree for Windows
+summary: Expected Windows accessibility tree dump for the all-committed display-locking test using MSAA and IAccessible2 roles.

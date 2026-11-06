@@ -1,0 +1,4 @@
+# Docerion header of table-display-other-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for single-cell table with display styles
+summary: Expected Blink AX tree snapshot verifying a table with block display styles is still exposed as a layout table containing one cell named cat.

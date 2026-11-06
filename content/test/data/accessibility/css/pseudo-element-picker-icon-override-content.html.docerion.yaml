@@ -1,0 +1,4 @@
+# Docerion header of pseudo-element-picker-icon-override-content.html.
+type: test
+title: Pseudo-element picker icon override content test page
+summary: HTML test page that styles a select with base-select appearance and overrides the picker icon content with a plus sign for accessibility testing.

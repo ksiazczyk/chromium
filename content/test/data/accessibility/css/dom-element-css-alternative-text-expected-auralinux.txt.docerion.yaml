@@ -1,0 +1,4 @@
+# Docerion header of dom-element-css-alternative-text-expected-auralinux.txt.
+type: test
+title: Expected Aura Linux accessibility tree for CSS alternative text test
+summary: Expected Aura Linux accessibility tree showing an image node named with the alternative text for the CSS content alternative text test.

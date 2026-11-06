@@ -1,0 +1,4 @@
+# Docerion header of pseudo-element-check-mark-override-content-alternative-text-expected-blink.txt.
+type: test
+title: Check-mark override content alternative text expected Blink tree
+summary: Expected Blink accessibility tree for the check-mark override content alternative text test page, showing a Pets select with a popup listing Dog, Cat and Donkey options.

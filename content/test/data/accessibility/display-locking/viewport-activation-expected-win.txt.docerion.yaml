@@ -1,0 +1,4 @@
+# Docerion header of viewport-activation-expected-win.txt.
+type: test
+title: Viewport activation expected Windows accessibility tree
+summary: Expected Windows accessibility tree for the viewport-activation test with static text roles for each section.

@@ -1,0 +1,4 @@
+# Docerion header of non-activatable-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for the non-activatable test
+summary: Expected Blink accessibility tree for the non-activatable display-locking test, containing only generic container nodes.

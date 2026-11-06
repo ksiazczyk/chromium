@@ -1,0 +1,4 @@
+# Docerion header of reading-flow-display-contents-mixed-siblings-expected-blink.txt.
+type: test
+title: Reading flow display contents mixed siblings expected tree for Blink
+summary: 'Expected Blink accessibility tree for the reading-flow test where buttons inside display: contents siblings are reordered via the CSS order property.'

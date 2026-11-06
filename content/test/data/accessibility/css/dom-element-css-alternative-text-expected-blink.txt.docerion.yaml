@@ -1,0 +1,4 @@
+# Docerion header of dom-element-css-alternative-text-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for CSS alternative text test
+summary: Expected Blink accessibility tree showing an image node with the alternative text for the CSS content alternative text test.

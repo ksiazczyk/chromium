@@ -1,0 +1,4 @@
+# Docerion header of background-color-nested-inline-span-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for background-color-nested-inline-span
+summary: Expected Blink accessibility tree dump verifying that nested inline spans inherit the yellow background color in the accessibility tree.

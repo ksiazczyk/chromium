@@ -1,0 +1,4 @@
+# Docerion header of background-color-transparent-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for background-color-transparent
+summary: Expected Windows IA2 accessibility tree dump verifying background and foreground colors for transparent and blended backgrounds.

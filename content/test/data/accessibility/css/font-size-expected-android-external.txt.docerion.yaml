@@ -1,0 +1,4 @@
+# Docerion header of font-size-expected-android-external.txt.
+type: test
+title: Expected Android external output for the font-size test
+summary: Expected Android accessibility tree in external format for the font-size test page, listing TextView nodes with actions for each font-size paragraph.

@@ -1,0 +1,4 @@
+# Docerion header of font-size-expected-blink.txt.
+type: test
+title: Expected Blink output for the font-size test
+summary: Expected Blink accessibility tree for the font-size test page, showing fontSize values for paragraphs, static text and inline text boxes.

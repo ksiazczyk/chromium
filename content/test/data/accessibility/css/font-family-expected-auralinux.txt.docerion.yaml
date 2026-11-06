@@ -1,0 +1,4 @@
+# Docerion header of font-family-expected-auralinux.txt.
+type: test
+title: Expected Aura Linux accessibility tree for font-family test
+summary: Expected Aura Linux accessibility output recording font family names such as Tinos, Cousine and Arimo across document, landmark and text nodes.

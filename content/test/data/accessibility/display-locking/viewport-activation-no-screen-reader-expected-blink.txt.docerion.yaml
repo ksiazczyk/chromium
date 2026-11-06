@@ -1,0 +1,4 @@
+# Docerion header of viewport-activation-no-screen-reader-expected-blink.txt.
+type: test
+title: Viewport activation expected Blink tree without screen reader
+summary: Expected Blink accessibility tree for the viewport-activation test without a screen reader, including offscreen containers.

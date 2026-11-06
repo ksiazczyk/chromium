@@ -1,0 +1,4 @@
+# Docerion header of pseudo-element-alternative-text-expected-blink.txt.
+type: test
+title: Pseudo-element alternative text expected Blink tree
+summary: Expected Blink accessibility tree for the pseudo-element alternative text test page, showing an image node named 'alternative text' alongside static text and inline text boxes.

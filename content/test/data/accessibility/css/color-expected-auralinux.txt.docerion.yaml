@@ -1,0 +1,4 @@
+# Docerion header of color-expected-auralinux.txt.
+type: test
+title: Expected AuraLinux accessibility output for CSS color test
+summary: Expected AuraLinux accessibility output for the CSS color test, recording background and foreground colors for each node in the tree.

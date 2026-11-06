@@ -1,0 +1,4 @@
+# Docerion header of dom-element-css-alternative-text-expected-android-external.txt.
+type: test
+title: Expected Android external output for CSS alternative text test
+summary: Expected Android external-format accessibility snapshot with contentDescription alternative text for the CSS content alternative text test.

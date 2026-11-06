@@ -1,0 +1,4 @@
+# Docerion header of activatable-expected-blink.txt.
+type: test
+title: Activatable expected accessibility tree for Blink
+summary: Expected Blink accessibility tree dump for the activatable display-locking test page, including offscreen locked content.

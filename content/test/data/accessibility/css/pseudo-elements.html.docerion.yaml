@@ -1,0 +1,4 @@
+# Docerion header of pseudo-elements.html.
+type: test
+title: Pseudo-elements test page
+summary: HTML test page adding ::before and ::after bracket content with surrounding spaces to an h1 heading for accessibility tree testing.

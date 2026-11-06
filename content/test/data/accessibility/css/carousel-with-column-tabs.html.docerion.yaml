@@ -1,0 +1,4 @@
+# Docerion header of carousel-with-column-tabs.html.
+type: test
+title: Carousel test page with column scroll-marker tabs
+summary: HTML test page rendering a scroll-snap carousel whose ::column::scroll-marker group is exposed as tabs for accessibility testing.

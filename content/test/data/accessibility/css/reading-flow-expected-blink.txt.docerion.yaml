@@ -1,0 +1,4 @@
+# Docerion header of reading-flow-expected-blink.txt.
+type: test
+title: Reading flow expected Blink accessibility tree
+summary: Expected Blink accessibility tree for the basic CSS reading flow test with buttons re-ordered by the order property.

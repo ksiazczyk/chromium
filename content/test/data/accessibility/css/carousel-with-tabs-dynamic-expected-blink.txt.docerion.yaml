@@ -1,0 +1,4 @@
+# Docerion header of carousel-with-tabs-dynamic-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for dynamic carousel with tabs
+summary: Expected Blink accessibility tree output for the dynamic carousel with tabs test after scrolling.

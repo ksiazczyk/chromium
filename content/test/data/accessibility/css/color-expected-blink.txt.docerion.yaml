@@ -1,0 +1,4 @@
+# Docerion header of color-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for CSS color test
+summary: Expected Blink accessibility tree for the CSS color test, showing background and foreground colors on paragraphs, static text and inline text boxes.

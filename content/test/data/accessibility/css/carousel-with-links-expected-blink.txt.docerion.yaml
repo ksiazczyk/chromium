@@ -1,0 +1,4 @@
+# Docerion header of carousel-with-links-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for carousel-with-links test
+summary: Expected Blink accessibility tree snapshot for a carousel test page whose scroll markers are exposed as links in a navigation.

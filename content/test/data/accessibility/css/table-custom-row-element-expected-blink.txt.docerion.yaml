@@ -1,0 +1,4 @@
+# Docerion header of table-custom-row-element-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for table custom row element test
+summary: Expected Blink accessibility tree output for a table built from custom row elements, showing layout table rows and cells.

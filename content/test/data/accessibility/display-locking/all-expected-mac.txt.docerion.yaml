@@ -1,0 +1,4 @@
+# Docerion header of all-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for the all test
+summary: Expected macOS accessibility tree for the all display-locking test, expressed with AXGroup and AXStaticText nodes.

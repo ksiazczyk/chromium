@@ -1,0 +1,4 @@
+# Docerion header of reading-flow-pseudo-elements.html.
+type: test
+title: Reading flow pseudo-elements test page
+summary: HTML test page checking that ::before and ::after pseudo-elements of a flex reading flow container are placed by their order property.

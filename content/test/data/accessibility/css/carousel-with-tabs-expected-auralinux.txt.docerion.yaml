@@ -1,0 +1,4 @@
+# Docerion header of carousel-with-tabs-expected-auralinux.txt.
+type: test
+title: Expected Auralinux accessibility tree for carousel with tabs
+summary: Expected Auralinux accessibility tree describing buttons, sections, and links with scroll marker details for the carousel test.

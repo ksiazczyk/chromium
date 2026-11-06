@@ -1,0 +1,4 @@
+# Docerion header of pseudo-element-alternative-text-expected-android-assist-data.txt.
+type: test
+title: Pseudo element alternative text expected Android assist data
+summary: Expected Android assist data accessibility output for a test exposing alternative text of ::before and ::after pseudo elements as images.

@@ -1,3 +1,9 @@
+<!--docerion
+type: test
+title: Incomplete CSS table accessibility test page
+summary: HTML test page with a role-based table missing display:table-row-group to check how Blink handles the resulting anonymous layout objects.
+-->
+
 <!-- The rowgroup does not have display:table-row-group and thus Blink generates
   additional anonymous layout objects that can confuse accessibility -->
 <!DOCTYPE html>

@@ -1,0 +1,4 @@
+# Docerion header of before-after-code-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for before-after-code test
+summary: Expected Blink accessibility tree for the before-after-code test, including notUserSelectableStyle markers for bracketed pseudo-element content.

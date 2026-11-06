@@ -1,0 +1,4 @@
+# Docerion header of background-color-transparent-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for background-color-transparent
+summary: Expected Blink accessibility tree dump verifying background colors for transparent and blended background-color values.

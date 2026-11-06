@@ -1,0 +1,4 @@
+# Docerion header of table-display-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for table with display styles
+summary: Expected Windows accessibility tree snapshot verifying a table with display styles is exposed as a table with cells named Cats, Dogs, Iguanas and Fish.

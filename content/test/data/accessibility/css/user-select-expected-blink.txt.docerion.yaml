@@ -1,0 +1,4 @@
+# Docerion header of user-select-expected-blink.txt.
+type: test
+title: User-select accessibility test expectation for Blink
+summary: Expected Blink accessibility tree snapshot for the user-select test, marking containers, text, and list markers with notUserSelectableStyle.

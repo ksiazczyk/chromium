@@ -1,0 +1,4 @@
+# Docerion header of content-visibility-to-hidden-expected-blink.txt.
+type: test
+title: Content visibility to hidden expected output
+summary: Expected Blink accessibility tree output for a container transitioning to content-visibility hidden.

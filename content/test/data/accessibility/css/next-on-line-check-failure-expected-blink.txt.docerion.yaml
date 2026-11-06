@@ -1,0 +1,4 @@
+# Docerion header of next-on-line-check-failure-expected-blink.txt.
+type: test
+title: Next on line check failure expected Blink accessibility tree
+summary: Expected Blink accessibility tree for the next-on-line check failure test, showing a list with a static text and inline text box.

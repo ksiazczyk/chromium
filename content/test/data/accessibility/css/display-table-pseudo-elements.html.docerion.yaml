@@ -1,0 +1,4 @@
+# Docerion header of display-table-pseudo-elements.html.
+type: test
+title: Accessibility test page for table-display pseudo-elements
+summary: HTML test page applying ::before and ::after pseudo-elements with table display values to headings h1 through h4.

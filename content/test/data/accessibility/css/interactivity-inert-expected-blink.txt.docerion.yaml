@@ -1,0 +1,4 @@
+# Docerion header of interactivity-inert-expected-blink.txt.
+type: test
+title: Expected Blink tree for interactivity inert test
+summary: Expected Blink accessibility tree snapshot showing only the visible button, with the inert button omitted from the tree.

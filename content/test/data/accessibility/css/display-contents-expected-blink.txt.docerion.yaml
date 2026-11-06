@@ -1,0 +1,4 @@
+# Docerion header of display-contents-expected-blink.txt.
+type: test
+title: Display contents expected output
+summary: 'Expected Blink accessibility tree output for elements styled with display: contents.'

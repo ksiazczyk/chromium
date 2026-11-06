@@ -1,0 +1,4 @@
+# Docerion header of visibility-to-collapsed-expected-blink.txt.
+type: test
+title: Visibility to collapsed expected Blink accessibility tree
+summary: Expected Blink accessibility tree for the visibility-to-collapsed test, showing ignored containers, a checkbox, and text after the transition.

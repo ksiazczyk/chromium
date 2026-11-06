@@ -1,0 +1,4 @@
+# Docerion header of reading-flow-display-contents-uniform-siblings-expected-blink.txt.
+type: test
+title: Reading flow display contents uniform siblings expected Blink output
+summary: 'Expected Blink accessibility tree for the reading flow test with uniform display: contents siblings following flex-visual order.'

@@ -1,0 +1,4 @@
+# Docerion header of display-to-inline-expected-blink.txt.
+type: test
+title: Expected accessibility tree for display-to-inline test
+summary: Expected Blink accessibility tree after a hidden span is switched to display:inline.

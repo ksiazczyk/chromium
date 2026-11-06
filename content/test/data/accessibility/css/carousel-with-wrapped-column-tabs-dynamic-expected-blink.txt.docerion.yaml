@@ -1,0 +1,4 @@
+# Docerion header of carousel-with-wrapped-column-tabs-dynamic-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for wrapped column tabs carousel
+summary: Expected Blink accessibility tree output for the dynamic wrapped-column carousel with tabs after scrolling.

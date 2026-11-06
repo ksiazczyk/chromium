@@ -1,0 +1,4 @@
+# Docerion header of font-style-expected-android-external.txt.
+type: test
+title: Font style expected Android external output
+summary: Expected Android external accessibility tree output for the font-style test, describing WebView, paragraph and editable text nodes with actions and Chrome roles.

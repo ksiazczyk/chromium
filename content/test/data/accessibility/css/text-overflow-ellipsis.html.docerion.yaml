@@ -1,0 +1,4 @@
+# Docerion header of text-overflow-ellipsis.html.
+type: test
+title: Text overflow ellipsis accessibility test page
+summary: 'HTML test page applying text-overflow: ellipsis to a div to check how truncated text is exposed in the accessibility tree.'

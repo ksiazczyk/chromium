@@ -1,0 +1,4 @@
+# Docerion header of activatable-expected-mac.txt.
+type: test
+title: Activatable expected accessibility tree for macOS
+summary: Expected macOS accessibility tree dump for the activatable display-locking test page with AXGroup and AXButton nodes.

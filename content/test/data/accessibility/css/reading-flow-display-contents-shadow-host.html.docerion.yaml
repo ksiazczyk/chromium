@@ -1,0 +1,4 @@
+# Docerion header of reading-flow-display-contents-shadow-host.html.
+type: test
+title: Reading flow display contents shadow host test page
+summary: HTML test page checking reading flow order of flex items re-ordered with the order property inside a shadow host that is a reading flow container.

@@ -1,0 +1,4 @@
+# Docerion header of background-color-transparent-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility output for background-color-transparent
+summary: Expected Android external accessibility output for the background-color-transparent test, listing TextView nodes with actions and Chrome roles.

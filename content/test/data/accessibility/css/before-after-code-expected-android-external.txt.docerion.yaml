@@ -1,0 +1,4 @@
+# Docerion header of before-after-code-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility tree for before-after-code test
+summary: Expected Android external accessibility tree for the before-after-code test, listing roles and actions for elements including code and generated before and after content.

@@ -1,0 +1,4 @@
+# Docerion header of table-data-display-other-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for table data display
+summary: Expected accessibility tree dump for a Blink test checking how a table with two rows and three columns is exposed.

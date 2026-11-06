@@ -1,0 +1,4 @@
+# Docerion header of table-custom-row-element-expected-auralinux.txt.
+type: test
+title: Expected Linux accessibility tree for table custom row element test
+summary: Expected Linux accessibility tree output for a table built from custom row elements, listing sections and static text.

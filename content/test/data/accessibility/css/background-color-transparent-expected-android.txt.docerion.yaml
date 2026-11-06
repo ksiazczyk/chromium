@@ -1,0 +1,4 @@
+# Docerion header of background-color-transparent-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for background-color-transparent
+summary: Expected Android accessibility tree for the background-color-transparent test, listing TextView nodes for each paragraph.

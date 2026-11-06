@@ -1,0 +1,4 @@
+# Docerion header of head-style-script-content-visibility-hidden-expected-blink.txt.
+type: test
+title: Head style script content-visibility hidden expected Blink output
+summary: Expected Blink accessibility tree output for the content-visibility hidden test, showing a nearly empty tree of ignored generic containers.

@@ -1,0 +1,4 @@
+# Docerion header of carousel-with-tabs-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for carousel with tabs
+summary: Expected Blink accessibility tree output listing buttons, containers, and links for the carousel with tabs test.

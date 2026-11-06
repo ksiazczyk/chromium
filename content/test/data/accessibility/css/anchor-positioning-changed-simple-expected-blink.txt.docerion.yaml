@@ -1,0 +1,4 @@
+# Docerion header of anchor-positioning-changed-simple-expected-blink.txt.
+type: test
+title: Expected Blink tree for simple anchor positioning change test
+summary: Expected Blink accessibility tree snapshot for the simple anchor positioning change test page.

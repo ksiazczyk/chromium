@@ -1,0 +1,4 @@
+# Docerion header of list-marker-styles-custom-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for list marker styles test
+summary: Expected Android assist data for the custom list marker styles test, describing list views, markers and text for each list-style-type value.

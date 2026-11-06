@@ -1,0 +1,4 @@
+# Docerion header of transform-expected-blink.txt.
+type: test
+title: Expected Blink tree for CSS transform
+summary: Expected Blink accessibility tree output with page locations for content positioned by a CSS transform.

@@ -1,0 +1,4 @@
+# Docerion header of pseudo-elements-expected-android-external.txt.
+type: test
+title: Expected Android external output for pseudo-elements
+summary: Expected Android external-format accessibility snapshot for the pseudo-elements test page.

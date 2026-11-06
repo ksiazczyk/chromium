@@ -1,0 +1,4 @@
+# Docerion header of language-expected-win.txt.
+type: test
+title: Expected Windows accessibility output for language test
+summary: Expected Windows IA2 accessibility output for the language test, including hypertext offsets and language attributes.

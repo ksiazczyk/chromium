@@ -1,0 +1,4 @@
+# Docerion header of carousel-no-tabs-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for carousel-no-tabs test
+summary: Expected Blink accessibility tree snapshot for a carousel test page whose scroll buttons get names from contents and CSS alt text.

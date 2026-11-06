@@ -1,0 +1,4 @@
+# Docerion header of list-marker-styles-custom-expected-win.txt.
+type: test
+title: List marker styles custom expected Win accessibility tree
+summary: Expected Windows MSAA accessibility tree for the custom list marker styles test, enumerating list items with static text markers and labels.

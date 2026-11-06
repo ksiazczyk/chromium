@@ -1,0 +1,4 @@
+# Docerion header of all-committed-expected-blink.txt.
+type: test
+title: All-committed expected accessibility tree for Blink
+summary: Expected Blink accessibility tree dump for the all-committed display-locking test with offscreen static text and containers.

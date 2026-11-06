@@ -1,0 +1,4 @@
+# Docerion header of marker-crash-expected-blink.txt.
+type: test
+title: Marker crash expected Blink accessibility tree
+summary: Expected Blink accessibility tree for the marker crash test, showing an ignored list marker inside nested containers.

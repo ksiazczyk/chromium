@@ -1,0 +1,4 @@
+# Docerion header of pseudo-elements-expected-blink.txt.
+type: test
+title: Pseudo-elements expected accessibility tree for Blink
+summary: Expected Blink accessibility tree for the CSS pseudo-elements test, with heading, static text and inline text box nodes around '[ Foo ]'.

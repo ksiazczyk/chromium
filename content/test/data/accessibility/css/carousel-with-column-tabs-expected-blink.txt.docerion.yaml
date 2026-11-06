@@ -1,0 +1,4 @@
+# Docerion header of carousel-with-column-tabs-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for carousel-with-column-tabs test
+summary: Expected Blink accessibility tree snapshot for a carousel whose column scroll markers are exposed as a tab list and tab panel.

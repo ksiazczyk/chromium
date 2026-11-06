@@ -1,0 +1,4 @@
+# Docerion header of pseudo-element-positioned-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for positioned pseudo-elements
+summary: Expected Blink accessibility tree snapshot for the positioned pseudo-elements test page.

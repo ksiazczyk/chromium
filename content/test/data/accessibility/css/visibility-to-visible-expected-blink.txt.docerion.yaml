@@ -1,0 +1,4 @@
+# Docerion header of visibility-to-visible-expected-blink.txt.
+type: test
+title: Visibility to visible expected Blink accessibility tree
+summary: Expected Blink accessibility tree for the visibility-to-visible test, showing the checkbox, group, and text exposed after the transition.

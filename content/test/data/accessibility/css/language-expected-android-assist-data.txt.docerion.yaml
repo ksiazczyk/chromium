@@ -1,0 +1,4 @@
+# Docerion header of language-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for language test
+summary: Expected Android assist-data snapshot including htmlInfo with lang attributes for a page containing Spanish and French text.

@@ -1,0 +1,4 @@
+# Docerion header of carousel-with-tabs-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility tree for carousel with tabs
+summary: Expected Android external accessibility snapshot showing buttons, text views, and links for the carousel with tabs test.

@@ -1,0 +1,4 @@
+# Docerion header of visibility.html.
+type: test
+title: CSS visibility accessibility test page
+summary: HTML test page with hidden and collapsed paragraphs containing visible links, used to check how CSS visibility affects the accessibility tree.

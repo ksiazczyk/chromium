@@ -1,0 +1,4 @@
+# Docerion header of inline-position-relative-expected-blink.txt.
+type: test
+title: Expected Blink tree for inline position relative test
+summary: Expected Blink accessibility tree snapshot with page locations showing an After span offset by 100 pixels next to an inline Before span.

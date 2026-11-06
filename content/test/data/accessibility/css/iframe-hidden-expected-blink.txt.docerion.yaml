@@ -1,0 +1,4 @@
+# Docerion header of iframe-hidden-expected-blink.txt.
+type: test
+title: Expected Blink tree for hidden iframe test
+summary: Expected Blink accessibility tree snapshot describing ignored containers and text when iframes are hidden via visibility:collapse and display:none.
