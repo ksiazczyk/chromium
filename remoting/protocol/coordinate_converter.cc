@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CoordinateConverter implementation
+// summary: Implements conversion of fractional coordinates to global absolute coordinates by scaling and clamping against the configured video layout.
+// ---
+
 #include "remoting/protocol/coordinate_converter.h"
 
 #include <algorithm>

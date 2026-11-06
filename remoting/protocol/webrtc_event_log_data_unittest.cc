@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebRTC event log data unit tests
+// summary: Unit tests covering writing entries, section overflow, discarding oldest sections, clearing, and multi-threaded access of WebrtcEventLogData.
+// ---
+
 #include "remoting/protocol/webrtc_event_log_data.h"
 
 #include "base/barrier_closure.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Host control dispatcher
+// summary: Declares the dispatcher that routes incoming control messages to HostStub and ClipboardStub and sends outgoing ClientStub messages.
+// ---
+
 #ifndef REMOTING_PROTOCOL_HOST_CONTROL_DISPATCHER_H_
 #define REMOTING_PROTOCOL_HOST_CONTROL_DISPATCHER_H_
 

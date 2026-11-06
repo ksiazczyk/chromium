@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input event timestamps types
+// summary: Defines the InputEventTimestamps struct and the InputEventTimestampsSource interface used by VideoStream implementations to report input event timing.
+// ---
+
 #ifndef REMOTING_PROTOCOL_INPUT_EVENT_TIMESTAMPS_H_
 #define REMOTING_PROTOCOL_INPUT_EVENT_TIMESTAMPS_H_
 

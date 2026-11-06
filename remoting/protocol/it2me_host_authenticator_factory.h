@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: It2Me host authenticator factory header
+// summary: Declares It2MeHostAuthenticatorFactory, an AuthenticatorFactory that supports both V2 and legacy V1 authentication for It2Me hosts.
+// ---
+
 #ifndef REMOTING_PROTOCOL_IT2ME_HOST_AUTHENTICATOR_FACTORY_H_
 #define REMOTING_PROTOCOL_IT2ME_HOST_AUTHENTICATOR_FACTORY_H_
 

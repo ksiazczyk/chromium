@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IceConfigFetcherCloud unit tests
+// summary: Unit tests verifying parsing of STUN-only, TURN-only, and combined cloud ICE config responses, including lifetime and bitrate handling.
+// ---
+
 #include "remoting/protocol/ice_config_fetcher_cloud.h"
 
 #include <memory>

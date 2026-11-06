@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeAudioSource class header
+// summary: Declares a fake AudioSource implementation that records the packet-captured callback for testing.
+// ---
+
 #ifndef REMOTING_PROTOCOL_FAKE_AUDIO_SOURCE_H_
 #define REMOTING_PROTOCOL_FAKE_AUDIO_SOURCE_H_
 

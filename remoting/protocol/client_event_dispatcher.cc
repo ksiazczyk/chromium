@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client event dispatcher implementation
+// summary: Sends timestamped key, text, mouse and touch input events on the event channel from the client to the host.
+// ---
+
 #include "remoting/protocol/client_event_dispatcher.h"
 
 #include "base/time/time.h"

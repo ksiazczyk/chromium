@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRTC video encoder wrapper
+// summary: Declares WebrtcVideoEncoderWrapper, which adapts remoting video codecs to the webrtc::VideoEncoder interface and is instantiated by WebRTC via the encoder factory.
+// ---
+
 #ifndef REMOTING_PROTOCOL_WEBRTC_VIDEO_ENCODER_WRAPPER_H_
 #define REMOTING_PROTOCOL_WEBRTC_VIDEO_ENCODER_WRAPPER_H_
 

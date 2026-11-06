@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JingleSession implementation
+// summary: Implements JingleSession, the Chromoting subset of the Jingle protocol, handling initiation, transport info, termination, timeouts and error codes.
+// ---
+
 #include "remoting/protocol/jingle_session.h"
 
 #include <stdint.h>

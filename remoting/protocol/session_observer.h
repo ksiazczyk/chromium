@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionObserver interface
+// summary: Observer interface for watching state changes across multiple sessions registered on the SessionManager, intended for read-only uses such as logging.
+// ---
+
 #ifndef REMOTING_PROTOCOL_SESSION_OBSERVER_H_
 #define REMOTING_PROTOCOL_SESSION_OBSERVER_H_
 

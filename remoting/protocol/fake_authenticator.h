@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeAuthenticator class header
+// summary: Declares FakeAuthenticator and FakeHostAuthenticatorFactory test doubles simulating authenticator behavior with configurable rounds and actions.
+// ---
+
 #ifndef REMOTING_PROTOCOL_FAKE_AUTHENTICATOR_H_
 #define REMOTING_PROTOCOL_FAKE_AUTHENTICATOR_H_
 

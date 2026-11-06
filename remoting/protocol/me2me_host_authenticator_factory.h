@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Me2Me host authenticator factory declaration
+// summary: Declares the factory that builds authenticators for incoming Me2Me host connections using host authentication config and access permission checks.
+// ---
+
 #ifndef REMOTING_PROTOCOL_ME2ME_HOST_AUTHENTICATOR_FACTORY_H_
 #define REMOTING_PROTOCOL_ME2ME_HOST_AUTHENTICATOR_FACTORY_H_
 

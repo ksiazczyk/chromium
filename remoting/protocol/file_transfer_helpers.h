@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File transfer result and error helpers
+// summary: Declares the FileTransferResult alias and a helper for constructing and printing file transfer errors.
+// ---
+
 #ifndef REMOTING_PROTOCOL_FILE_TRANSFER_HELPERS_H_
 #define REMOTING_PROTOCOL_FILE_TRANSFER_HELPERS_H_
 

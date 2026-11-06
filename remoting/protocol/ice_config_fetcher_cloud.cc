@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cloud ICE config fetcher implementation
+// summary: Fetches ICE configuration from the Remoting Cloud API using an instance identity token and converts the response into an IceConfig.
+// ---
+
 #include "remoting/protocol/ice_config_fetcher_cloud.h"
 
 #include <algorithm>

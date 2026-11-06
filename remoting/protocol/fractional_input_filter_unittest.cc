@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fractional input filter unit tests
+// summary: Unit tests verifying fractional coordinate conversion for mouse and touch events, pass-through of relative events and dropping invalid ones.
+// ---
+
 #include "remoting/protocol/fractional_input_filter.h"
 
 #include "base/containers/span.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeConnectionToHost implementation
+// summary: Implements FakeConnectionToHost, a test fake for ConnectionToHost that simulates connection state changes and forwards stubs to mock objects.
+// ---
+
 #include "remoting/protocol/fake_connection_to_host.h"
 
 #include "base/task/single_thread_task_runner.h"

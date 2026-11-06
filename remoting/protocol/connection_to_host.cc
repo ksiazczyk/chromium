@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConnectionToHost state string conversion
+// summary: Implements ConnectionToHost::StateToString, mapping connection state enum values to their literal string names.
+// ---
+
 #include "remoting/protocol/connection_to_host.h"
 
 #include "base/notreached.h"

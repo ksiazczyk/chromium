@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake video renderer class declarations
+// summary: Declares fake VideoStub, FrameConsumer, FrameStatsConsumer and VideoRenderer implementations used as test doubles.
+// ---
+
 #ifndef REMOTING_PROTOCOL_FAKE_VIDEO_RENDERER_H_
 #define REMOTING_PROTOCOL_FAKE_VIDEO_RENDERER_H_
 

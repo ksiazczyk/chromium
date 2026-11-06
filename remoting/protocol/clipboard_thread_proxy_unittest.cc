@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ClipboardThreadProxy unit tests
+// summary: Unit tests verifying that ClipboardThreadProxy injects clipboard events synchronously on the same sequence, posts across sequences, and drops events after the stub is invalidated.
+// ---
+
 #include "remoting/protocol/clipboard_thread_proxy.h"
 
 #include <memory>

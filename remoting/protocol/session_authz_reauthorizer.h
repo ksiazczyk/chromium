@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionAuthzReauthorizer
+// summary: Declares a reauthorizer that periodically renews session tokens via the SessionAuthz service and notifies a callback when reauthorization fails.
+// ---
+
 #ifndef REMOTING_PROTOCOL_SESSION_AUTHZ_REAUTHORIZER_H_
 #define REMOTING_PROTOCOL_SESSION_AUTHZ_REAUTHORIZER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRTC data channel message pipe adapter
+// summary: Implements MessagePipe on top of a WebRTC data channel, queueing outgoing protobuf messages and forwarding incoming messages to the event handler.
+// ---
+
 #include "remoting/protocol/webrtc_data_stream_adapter.h"
 
 #include <stdint.h>

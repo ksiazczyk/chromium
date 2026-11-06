@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Spake2Authenticator class declaration
+// summary: Declares the SPAKE2-based authenticator over Curve25519 with factory methods for the host and client sides of a connection.
+// ---
+
 #ifndef REMOTING_PROTOCOL_SPAKE2_AUTHENTICATOR_H_
 #define REMOTING_PROTOCOL_SPAKE2_AUTHENTICATOR_H_
 

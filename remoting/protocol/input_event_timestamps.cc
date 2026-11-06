@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input event timestamps implementation
+// summary: Implements InputEventTimestampsSourceImpl, a simple source that stores and returns the timestamps of the last received input event.
+// ---
+
 #include "remoting/protocol/input_event_timestamps.h"
 
 namespace remoting::protocol {

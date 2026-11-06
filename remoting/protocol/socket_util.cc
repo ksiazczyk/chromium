@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Socket error handling utilities
+// summary: Implements GetSocketErrorAction, which classifies sendto() errors to decide whether UDP sends should be retried, ignored, or treated as failures.
+// ---
+
 #include "remoting/protocol/socket_util.h"
 
 #include "net/base/net_errors.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Protocol capability name constants
+// summary: Defines string constants for client-host capability negotiation such as touch events, file transfer, multi-stream, and security key forwarding.
+// ---
+
 #ifndef REMOTING_PROTOCOL_CAPABILITY_NAMES_H_
 #define REMOTING_PROTOCOL_CAPABILITY_NAMES_H_
 

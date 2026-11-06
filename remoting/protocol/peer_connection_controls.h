@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Peer connection controls interface
+// summary: Interface for adjusting peer connection bitrates and requesting ICE or SDP restarts after a connection has been established.
+// ---
+
 #ifndef REMOTING_PROTOCOL_PEER_CONNECTION_CONTROLS_H_
 #define REMOTING_PROTOCOL_PEER_CONNECTION_CONTROLS_H_
 

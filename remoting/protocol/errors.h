@@ -4,6 +4,12 @@
 
 // TODO: yuweih - Remove existing usages of this file and delete it.
 
+// ---docerion
+// type: source
+// title: Deprecated protocol error code aliases
+// summary: Provides deprecated aliases to the remoting error code helpers, kept until existing usages are removed.
+// ---
+
 #ifndef REMOTING_PROTOCOL_ERRORS_H_
 #define REMOTING_PROTOCOL_ERRORS_H_
 

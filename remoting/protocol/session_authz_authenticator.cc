@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionAuthzAuthenticator implementation
+// summary: Implements the host leg of SessionAuthz authentication, generating host tokens and verifying client session tokens through the SessionAuthz service before delegating to an underlying authenticator.
+// ---
+
 #include "remoting/protocol/session_authz_authenticator.h"
 
 #include <memory>

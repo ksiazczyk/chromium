@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRTC audio stream class declaration
+// summary: Declares WebrtcAudioStream, an AudioStream that publishes a host audio source as a WebRTC audio track over a WebrtcTransport and supports pausing.
+// ---
+
 #ifndef REMOTING_PROTOCOL_WEBRTC_AUDIO_STREAM_H_
 #define REMOTING_PROTOCOL_WEBRTC_AUDIO_STREAM_H_
 

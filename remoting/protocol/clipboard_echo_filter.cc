@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clipboard echo filter implementation
+// summary: Implements ClipboardEchoFilter, which stops the host from sending a clipboard item back to the client when it matches the latest item received from the client.
+// ---
+
 #include "remoting/protocol/clipboard_echo_filter.h"
 
 #include "remoting/proto/event.pb.h"

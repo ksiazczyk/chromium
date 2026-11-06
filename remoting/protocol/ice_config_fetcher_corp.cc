@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Corp ICE config fetcher implementation
+// summary: Implements the Corp API ICE config fetcher, whose GetIceConfig method is currently not implemented.
+// ---
+
 #include "remoting/protocol/ice_config_fetcher_corp.h"
 
 #include <string>

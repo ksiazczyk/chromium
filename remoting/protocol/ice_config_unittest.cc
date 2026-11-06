@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IceConfig parsing unit tests
+// summary: Tests parsing of ICE configuration JSON and GetIceConfigResponse protobufs into TURN and STUN server settings with expiration and bitrate values.
+// ---
+
 #include "remoting/protocol/ice_config.h"
 
 #include "base/json/json_reader.h"

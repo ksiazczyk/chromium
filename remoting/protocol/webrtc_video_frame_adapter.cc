@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRTC video frame adapter implementation
+// summary: Implements the adapter that wraps captured desktop frames and frame stats as WebRTC video frames, computing update rectangles and monotonic timestamps.
+// ---
+
 #include "remoting/protocol/webrtc_video_frame_adapter.h"
 
 #include <utility>

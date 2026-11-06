@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network settings unit tests
+// summary: Tests conversion of session policies into NetworkSettings flags and port ranges, including defaults when NAT traversal is disabled.
+// ---
+
 #include "remoting/protocol/network_settings.h"
 
 #include "remoting/base/port_range.h"

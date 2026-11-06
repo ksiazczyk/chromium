@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network settings struct
+// summary: Defines NetworkSettings with NAT traversal flags, P2P port range, ICE timeout and reconnect attempt settings for remoting sessions.
+// ---
+
 #ifndef REMOTING_PROTOCOL_NETWORK_SETTINGS_H_
 #define REMOTING_PROTOCOL_NETWORK_SETTINGS_H_
 

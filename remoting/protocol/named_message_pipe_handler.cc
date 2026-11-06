@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Named message pipe handler implementation
+// summary: Implements lifecycle, connection state tracking, and message sending for handlers of named message pipes.
+// ---
+
 #include "remoting/protocol/named_message_pipe_handler.h"
 
 #include <utility>

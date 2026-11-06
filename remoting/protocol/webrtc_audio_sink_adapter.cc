@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebrtcAudioSinkAdapter implementation
+// summary: Implements an adapter that converts WebRTC audio track data into AudioPacket messages and forwards them to an AudioStub.
+// ---
+
 #include "remoting/protocol/webrtc_audio_sink_adapter.h"
 
 #include "base/functional/bind.h"

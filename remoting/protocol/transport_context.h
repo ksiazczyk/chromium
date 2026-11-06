@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TransportContext header for P2P transport parameters and ICE config
+// summary: Declares TransportContext, which stores parameters for P2P transport initialization, fetches STUN/TURN ICE configuration, and tracks the preferred video format.
+// ---
+
 #ifndef REMOTING_PROTOCOL_TRANSPORT_CONTEXT_H_
 #define REMOTING_PROTOCOL_TRANSPORT_CONTEXT_H_
 

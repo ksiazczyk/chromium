@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SdpMessage unit tests
+// summary: Unit tests verifying SDP line-ending normalization, signature formatting, and codec parameter addition and preferred video format handling in SdpMessage.
+// ---
+
 #include "remoting/protocol/sdp_message.h"
 
 #include "base/strings/stringprintf.h"

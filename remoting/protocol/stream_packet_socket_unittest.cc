@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: StreamPacketSocket unit tests
+// summary: Unit tests for StreamPacketSocket using a mock stream socket and a fake packet processor.
+// ---
+
 #include "remoting/protocol/stream_packet_socket.h"
 
 #include <memory>

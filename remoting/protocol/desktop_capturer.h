@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DesktopCapturer interface
+// summary: Declares an interface for capturing desktop frames that schedules capture internally and supports frame rate limits, pausing, and temporary capture rate boosts.
+// ---
+
 #ifndef REMOTING_PROTOCOL_DESKTOP_CAPTURER_H_
 #define REMOTING_PROTOCOL_DESKTOP_CAPTURER_H_
 

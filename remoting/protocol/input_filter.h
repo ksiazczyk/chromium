@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputFilter class header
+// summary: Declares InputFilter, a class that forwards input events to a configured InputStub and can enable or disable forwarding independently.
+// ---
+
 #ifndef REMOTING_PROTOCOL_INPUT_FILTER_H_
 #define REMOTING_PROTOCOL_INPUT_FILTER_H_
 

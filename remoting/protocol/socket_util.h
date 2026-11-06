@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Socket error action enum and helper
+// summary: Declares the SocketErrorAction enum and the GetSocketErrorAction helper for reacting to errors returned by sendto().
+// ---
+
 #ifndef REMOTING_PROTOCOL_SOCKET_UTIL_H_
 #define REMOTING_PROTOCOL_SOCKET_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Negotiating host authenticator class
+// summary: Declares the host-side negotiating authenticator that picks an authentication method from the client's supported methods using host configuration.
+// ---
+
 #ifndef REMOTING_PROTOCOL_NEGOTIATING_HOST_AUTHENTICATOR_H_
 #define REMOTING_PROTOCOL_NEGOTIATING_HOST_AUTHENTICATOR_H_
 

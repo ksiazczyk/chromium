@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Negotiating authenticator base class
+// summary: Declares NegotiatingAuthenticatorBase, the common base for meta-authenticators that let client and host negotiate which authentication method to use.
+// ---
+
 #ifndef REMOTING_PROTOCOL_NEGOTIATING_AUTHENTICATOR_BASE_H_
 #define REMOTING_PROTOCOL_NEGOTIATING_AUTHENTICATOR_BASE_H_
 

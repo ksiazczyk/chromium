@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake video renderer implementation
+// summary: Implements fake video stub, frame consumer, frame stats consumer and renderer that record received packets and frames for tests.
+// ---
+
 #include "remoting/protocol/fake_video_renderer.h"
 
 #include <utility>

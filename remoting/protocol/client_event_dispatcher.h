@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client event dispatcher header
+// summary: Declares ClientEventDispatcher, which implements InputStub to send outgoing input events on the client-side event channel.
+// ---
+
 #ifndef REMOTING_PROTOCOL_CLIENT_EVENT_DISPATCHER_H_
 #define REMOTING_PROTOCOL_CLIENT_EVENT_DISPATCHER_H_
 

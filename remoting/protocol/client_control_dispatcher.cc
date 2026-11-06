@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client control dispatcher implementation
+// summary: Sends control channel messages such as clipboard events, client resolution, capabilities and pairing requests, and validates incoming cursor shapes.
+// ---
+
 #include "remoting/protocol/client_control_dispatcher.h"
 
 #include <stdint.h>

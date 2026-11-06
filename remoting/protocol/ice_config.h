@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IceConfig struct header
+// summary: Defines the IceConfig struct holding STUN and TURN servers, expiration time, and the maximum bitrate for relayed connections.
+// ---
+
 #ifndef REMOTING_PROTOCOL_ICE_CONFIG_H_
 #define REMOTING_PROTOCOL_ICE_CONFIG_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Chromium packet socket factory
+// summary: Tests ChromiumPacketSocketFactory UDP socket creation, packet sending and receiving, including retry behavior and send-time checks using a fake clock.
+// ---
+
 #include "remoting/protocol/chromium_socket_factory.h"
 
 #include <stddef.h>

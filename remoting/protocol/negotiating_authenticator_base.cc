@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Negotiating authenticator base implementation
+// summary: Implements shared state management and message processing for authenticators that negotiate authentication methods.
+// ---
+
 #include "remoting/protocol/negotiating_authenticator_base.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoRenderer interface
+// summary: Declares the VideoRenderer interface used by ConnectionToHost implementations to decode and display incoming video frames through VideoStub and FrameConsumer.
+// ---
+
 #ifndef REMOTING_PROTOCOL_VIDEO_RENDERER_H_
 #define REMOTING_PROTOCOL_VIDEO_RENDERER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Frame stats unit test
+// summary: Unit test verifying that HostFrameStats values round-trip through a FrameStatsMessage without loss.
+// ---
+
 #include "remoting/protocol/frame_stats.h"
 #include "remoting/proto/video_stats.pb.h"
 #include "testing/gtest/include/gtest/gtest.h"

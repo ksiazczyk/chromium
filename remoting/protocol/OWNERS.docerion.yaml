@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS rules for protocol message files
+summary: Assigns review ownership of protocol message files to the IPC security owners.

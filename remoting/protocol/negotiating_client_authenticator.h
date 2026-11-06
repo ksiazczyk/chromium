@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Negotiating client authenticator class
+// summary: Declares the client-side negotiating authenticator that offers supported methods and asynchronously creates the authenticator for the selected method.
+// ---
+
 #ifndef REMOTING_PROTOCOL_NEGOTIATING_CLIENT_AUTHENTICATOR_H_
 #define REMOTING_PROTOCOL_NEGOTIATING_CLIENT_AUTHENTICATOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Message pipe interface
+// summary: Defines a bidirectional pipe interface for sending and receiving protobuf messages with event handler notifications.
+// ---
+
 #ifndef REMOTING_PROTOCOL_MESSAGE_PIPE_H_
 #define REMOTING_PROTOCOL_MESSAGE_PIPE_H_
 

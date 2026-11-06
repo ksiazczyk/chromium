@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PairingHostAuthenticator
+// summary: Header declaring the host-side pairing authenticator that initializes from a client id via the pairing registry and supports PIN fallback.
+// ---
+
 #ifndef REMOTING_PROTOCOL_PAIRING_HOST_AUTHENTICATOR_H_
 #define REMOTING_PROTOCOL_PAIRING_HOST_AUTHENTICATOR_H_
 

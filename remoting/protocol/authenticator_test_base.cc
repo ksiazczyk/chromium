@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Authenticator test base implementation
+// summary: Implements the AuthenticatorTestBase fixture that loads test certificates and drives authentication message exchanges between client and host.
+// ---
+
 #include "remoting/protocol/authenticator_test_base.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Named message pipe handler base class
+// summary: Declares a self-managing base class that handles data and connection state for named message pipes.
+// ---
+
 #ifndef REMOTING_PROTOCOL_NAMED_MESSAGE_PIPE_HANDLER_H_
 #define REMOTING_PROTOCOL_NAMED_MESSAGE_PIPE_HANDLER_H_
 

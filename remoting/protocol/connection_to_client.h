@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConnectionToClient interface
+// summary: Interface representing a remote viewer connection to the chromoting host, setting up protocol channels and managing video, audio, and event streams.
+// ---
+
 #ifndef REMOTING_PROTOCOL_CONNECTION_TO_CLIENT_H_
 #define REMOTING_PROTOCOL_CONNECTION_TO_CLIENT_H_
 

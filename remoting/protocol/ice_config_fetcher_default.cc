@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default ICE config fetcher implementation
+// summary: Implements IceConfigFetcherDefault, which fetches STUN/TURN ICE configuration from the remoting NetworkTraversal service over authenticated protobuf HTTP requests.
+// ---
+
 #include "remoting/protocol/ice_config_fetcher_default.h"
 
 #include <utility>

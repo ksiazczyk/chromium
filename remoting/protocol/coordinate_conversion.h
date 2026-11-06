@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fractional coordinate conversion header
+// summary: Declares ToFractionalCoordinate, which converts a local absolute coordinate to a fractional coordinate clamped between 0 and 1.
+// ---
+
 #ifndef REMOTING_PROTOCOL_COORDINATE_CONVERSION_H_
 #define REMOTING_PROTOCOL_COORDINATE_CONVERSION_H_
 

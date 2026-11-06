@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRTC client-side connection to host
+// summary: Implements ConnectionToHost over WebRTC on the client side, connecting a session, dispatchers, video renderer and audio sink to the host.
+// ---
+
 #include "remoting/protocol/webrtc_connection_to_host.h"
 
 #include <memory>

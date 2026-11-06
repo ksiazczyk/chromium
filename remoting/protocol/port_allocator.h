@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Port allocator header
+// summary: Declares PortAllocator and PortAllocatorSession, webrtc basic port allocator subclasses that apply network settings and retrieve ICE configurations.
+// ---
+
 #ifndef REMOTING_PROTOCOL_PORT_ALLOCATOR_H_
 #define REMOTING_PROTOCOL_PORT_ALLOCATOR_H_
 

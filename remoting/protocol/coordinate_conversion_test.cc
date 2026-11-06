@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Coordinate conversion unit tests
+// summary: Tests for ToFractionalCoordinate covering valid coordinates, screen edges, out-of-bounds clamping, and degenerate screen sizes.
+// ---
+
 #include "remoting/protocol/coordinate_conversion.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

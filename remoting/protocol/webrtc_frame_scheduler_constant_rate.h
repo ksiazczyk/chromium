@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Constant rate WebRTC frame scheduler header
+// summary: Declares WebrtcFrameSchedulerConstantRate, a WebrtcFrameScheduler implementation that captures frames at a fixed maximum framerate.
+// ---
+
 #ifndef REMOTING_PROTOCOL_WEBRTC_FRAME_SCHEDULER_CONSTANT_RATE_H_
 #define REMOTING_PROTOCOL_WEBRTC_FRAME_SCHEDULER_CONSTANT_RATE_H_
 

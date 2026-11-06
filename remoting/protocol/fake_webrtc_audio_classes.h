@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake WebRTC audio class declarations
+// summary: Declares fake WebRTC audio source, audio track and media stream classes used as test doubles.
+// ---
+
 #ifndef REMOTING_PROTOCOL_FAKE_WEBRTC_AUDIO_CLASSES_H_
 #define REMOTING_PROTOCOL_FAKE_WEBRTC_AUDIO_CLASSES_H_
 

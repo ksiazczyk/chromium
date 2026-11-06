@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeConnectionToClient class header
+// summary: Declares FakeConnectionToClient and FakeVideoStream test doubles exposing stubs, connection state and network settings for tests.
+// ---
+
 #ifndef REMOTING_PROTOCOL_FAKE_CONNECTION_TO_CLIENT_H_
 #define REMOTING_PROTOCOL_FAKE_CONNECTION_TO_CLIENT_H_
 

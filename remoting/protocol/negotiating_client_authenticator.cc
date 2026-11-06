@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Negotiating client authenticator implementation
+// summary: Implements the client side of authentication method negotiation, sending supported methods and handling the method chosen by the host.
+// ---
+
 #include "remoting/protocol/negotiating_client_authenticator.h"
 
 #include <algorithm>

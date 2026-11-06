@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HostVideoStatsDispatcher class header
+// summary: Declares the host-side dispatcher that sends video frame statistics to the client through the VideoStatsStub interface.
+// ---
+
 #ifndef REMOTING_PROTOCOL_HOST_VIDEO_STATS_DISPATCHER_H_
 #define REMOTING_PROTOCOL_HOST_VIDEO_STATS_DISPATCHER_H_
 

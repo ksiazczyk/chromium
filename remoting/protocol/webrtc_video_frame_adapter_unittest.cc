@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebRTC video frame adapter unit tests
+// summary: Unit tests for WebrtcVideoFrameAdapter verifying frame wrapping, adapter dimensions and update-rect handling for desktop frames.
+// ---
+
 #include "remoting/protocol/webrtc_video_frame_adapter.h"
 
 #include <memory>

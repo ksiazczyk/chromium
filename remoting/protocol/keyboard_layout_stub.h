@@ -4,6 +4,12 @@
 
 // Interface for an object that receives keyboard layout events.
 
+// ---docerion
+// type: source
+// title: Keyboard layout stub interface
+// summary: Interface that informs the client when the host's keyboard layout changes.
+// ---
+
 #ifndef REMOTING_PROTOCOL_KEYBOARD_LAYOUT_STUB_H_
 #define REMOTING_PROTOCOL_KEYBOARD_LAYOUT_STUB_H_
 

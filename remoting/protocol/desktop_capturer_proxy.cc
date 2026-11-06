@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DesktopCapturerProxy implementation
+// summary: Implements a proxy core that runs a DesktopCapturer on the capture thread and returns captured frames to the caller's task runner, queuing tasks until the capturer is set.
+// ---
+
 #include "remoting/protocol/desktop_capturer_proxy.h"
 
 #include <cstdint>

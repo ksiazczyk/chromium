@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebrtcAudioFifoSinkAdapter implementation
+// summary: Implements an adapter that writes decoded WebRTC PCM audio into an SPSC FIFO buffer with an asynchronous format-change handshake.
+// ---
+
 #include "remoting/protocol/webrtc_audio_fifo_sink_adapter.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Host video stats dispatcher implementation
+// summary: Implements the host-side channel dispatcher that serializes and sends video frame statistics messages over the video stats channel.
+// ---
+
 #include "remoting/protocol/host_video_stats_dispatcher.h"
 
 #include <utility>

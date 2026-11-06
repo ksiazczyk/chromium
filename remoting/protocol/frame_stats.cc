@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Frame stats protobuf conversion implementation
+// summary: Implements HostFrameStats and ClientFrameStats, converting frame performance statistics between native structs and FrameStatsMessage protobuf messages.
+// ---
+
 #include "remoting/protocol/frame_stats.h"
 
 namespace remoting::protocol {

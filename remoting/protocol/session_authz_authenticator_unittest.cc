@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SessionAuthzAuthenticator unit tests
+// summary: Unit tests for the SessionAuthz authenticator using mock service clients, fake client authenticators, and canned token and shared secret responses.
+// ---
+
 #include "remoting/protocol/session_authz_authenticator.h"
 
 #include <memory>

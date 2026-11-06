@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DataChannelManager unit tests
+// summary: Unit tests covering full and prefix matching of incoming data channels to registered handlers, including asynchronous pipes and unmatched channel handling.
+// ---
+
 #include "remoting/protocol/data_channel_manager.h"
 
 #include <map>

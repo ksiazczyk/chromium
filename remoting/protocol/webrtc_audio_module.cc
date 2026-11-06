@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebrtcAudioModule implementation
+// summary: Implements a WebRTC AudioDeviceModule that drives AudioTransport callbacks on a timer without accessing real audio devices.
+// ---
+
 #include "remoting/protocol/webrtc_audio_module.h"
 
 #include <memory>

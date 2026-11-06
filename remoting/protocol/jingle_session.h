@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JingleSession class header
+// summary: Declares JingleSession, which together with JingleSessionManager implements the subset of the Jingle protocol used in Chromoting.
+// ---
+
 #ifndef REMOTING_PROTOCOL_JINGLE_SESSION_H_
 #define REMOTING_PROTOCOL_JINGLE_SESSION_H_
 

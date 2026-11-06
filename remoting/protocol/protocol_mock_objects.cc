@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Protocol mock objects implementation
+// summary: Implements gmock mock classes and a synchronous pairing registry used as test doubles for the remoting protocol.
+// ---
+
 #include "remoting/protocol/protocol_mock_objects.h"
 
 #include <memory>

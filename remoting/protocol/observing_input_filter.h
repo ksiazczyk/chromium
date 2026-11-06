@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ObservingInputFilter
+// summary: Header declaring an input filter that invokes a callback for each remote input event received from the client, covering key, text, mouse and touch events.
+// ---
+
 #ifndef REMOTING_PROTOCOL_OBSERVING_INPUT_FILTER_H_
 #define REMOTING_PROTOCOL_OBSERVING_INPUT_FILTER_H_
 

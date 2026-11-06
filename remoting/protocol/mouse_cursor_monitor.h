@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mouse cursor monitor interface
+// summary: Interface for monitoring mouse cursor shape and fractional position changes with a configurable capture interval.
+// ---
+
 #ifndef REMOTING_PROTOCOL_MOUSE_CURSOR_MONITOR_H_
 #define REMOTING_PROTOCOL_MOUSE_CURSOR_MONITOR_H_
 

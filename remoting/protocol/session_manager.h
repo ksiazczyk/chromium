@@ -36,6 +36,12 @@
 // When client connects to a host it sends a session-initiate stanza. If the
 // host decides to accept session, it replies with a session-accept stanza.
 
+// ---docerion
+// type: source
+// title: SessionManager interface
+// summary: Interface for creating and managing Chromoting sessions on host and client, covering incoming session acceptance, outgoing connections, and authentication setup.
+// ---
+
 #ifndef REMOTING_PROTOCOL_SESSION_MANAGER_H_
 #define REMOTING_PROTOCOL_SESSION_MANAGER_H_
 

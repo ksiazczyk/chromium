@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fractional input filter implementation
+// summary: Converts fractional mouse and touch coordinates into absolute host coordinates before injection and drops invalid events.
+// ---
+
 #include "remoting/protocol/fractional_input_filter.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SdpMessage
+// summary: Declares the SdpMessage class for processing WebRTC SDP session descriptions, configuring audio and video codecs, and normalizing text for HMAC signature verification.
+// ---
+
 #ifndef REMOTING_PROTOCOL_SDP_MESSAGE_H_
 #define REMOTING_PROTOCOL_SDP_MESSAGE_H_
 

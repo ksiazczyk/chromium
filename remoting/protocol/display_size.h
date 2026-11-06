@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplaySize class header
+// summary: Declares the DisplaySize value type storing width, height and DPI with helpers to convert between DIPs and pixels.
+// ---
+
 #ifndef REMOTING_PROTOCOL_DISPLAY_SIZE_H_
 #define REMOTING_PROTOCOL_DISPLAY_SIZE_H_
 

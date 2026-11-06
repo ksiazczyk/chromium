@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebRTC transport unit tests
+// summary: Tests WebrtcTransport connection flow using a fake signal strategy and authenticator, covering data channels and event handler callbacks.
+// ---
+
 #include "remoting/protocol/webrtc_transport.h"
 
 #include <utility>

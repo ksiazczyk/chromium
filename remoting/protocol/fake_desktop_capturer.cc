@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeDesktopCapturer implementation
+// summary: Implements FakeDesktopCapturer, generating artificial desktop frames with a moving gradient rectangle for testing video capture and rendering.
+// ---
+
 #include "remoting/protocol/fake_desktop_capturer.h"
 
 #include <stdint.h>

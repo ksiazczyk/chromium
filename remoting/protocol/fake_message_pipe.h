@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeMessagePipe class declaration
+// summary: Header declaring FakeMessagePipe, a fake MessagePipe for tests that supports open/close simulation, message injection, and wrapper lifetime control.
+// ---
+
 #ifndef REMOTING_PROTOCOL_FAKE_MESSAGE_PIPE_H_
 #define REMOTING_PROTOCOL_FAKE_MESSAGE_PIPE_H_
 

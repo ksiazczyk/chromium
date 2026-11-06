@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input filter implementation
+// summary: Implements InputFilter, which forwards key, text, mouse and touch events to a wrapped InputStub only when the filter is enabled.
+// ---
+
 #include "remoting/protocol/input_filter.h"
 
 namespace remoting::protocol {

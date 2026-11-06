@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebRTC video renderer adapter unit tests
+// summary: Unit tests for WebrtcVideoRendererAdapter verifying that sinks are removed from the correct video track when media streams are swapped or replaced.
+// ---
+
 #include "remoting/protocol/webrtc_video_renderer_adapter.h"
 
 #include <memory>

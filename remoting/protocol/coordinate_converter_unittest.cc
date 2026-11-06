@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CoordinateConverter unit tests
+// summary: Unit tests verifying conversion of fractional screen coordinates to global absolute coordinates, including invalid screen IDs, missing IDs, and clamping behavior.
+// ---
+
 #include "remoting/protocol/coordinate_converter.h"
 
 #include <optional>

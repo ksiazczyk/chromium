@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeMessagePipeWrapper implementation
+// summary: Implements FakeMessagePipeWrapper, a weak wrapper that forwards MessagePipe operations to a shared FakeMessagePipe instance.
+// ---
+
 #include "remoting/protocol/fake_message_pipe_wrapper.h"
 
 #include <utility>

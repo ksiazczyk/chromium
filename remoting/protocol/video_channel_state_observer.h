@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoChannelStateObserver interface
+// summary: Declares an observer interface notified when an encoded video frame is sent via WebRTC, providing the send result and encoded frame details.
+// ---
+
 #ifndef REMOTING_PROTOCOL_VIDEO_CHANNEL_STATE_OBSERVER_H_
 #define REMOTING_PROTOCOL_VIDEO_CHANNEL_STATE_OBSERVER_H_
 

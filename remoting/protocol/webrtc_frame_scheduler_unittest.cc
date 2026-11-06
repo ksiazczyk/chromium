@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebRTC frame scheduler unit tests
+// summary: Tests the constant rate scheduler's capture counts at requested framerates, post-task adjustments, pending capture handling, and pause behavior.
+// ---
+
 #include <memory>
 
 #include "remoting/protocol/webrtc_frame_scheduler.h"

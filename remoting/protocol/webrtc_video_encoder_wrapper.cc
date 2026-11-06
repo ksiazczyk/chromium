@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRTC video encoder wrapper implementation
+// summary: Implements the WebRTC video encoder wrapper, adapting remoting codecs to the webrtc::VideoEncoder interface with quantizer, keep-alive and large-frame quality controls.
+// ---
+
 #include "remoting/protocol/webrtc_video_encoder_wrapper.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Host event dispatcher
+// summary: Declares the dispatcher that forwards incoming event-channel messages to an InputStub and exposes input event timestamps.
+// ---
+
 #ifndef REMOTING_PROTOCOL_HOST_EVENT_DISPATCHER_H_
 #define REMOTING_PROTOCOL_HOST_EVENT_DISPATCHER_H_
 

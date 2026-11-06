@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebrtcAudioSourceAdapter class declaration
+// summary: Declares a WebRTC AudioSourceInterface adapter that starts and pauses a remoting AudioSource and distributes its audio to sinks.
+// ---
+
 #ifndef REMOTING_PROTOCOL_WEBRTC_AUDIO_SOURCE_ADAPTER_H_
 #define REMOTING_PROTOCOL_WEBRTC_AUDIO_SOURCE_ADAPTER_H_
 

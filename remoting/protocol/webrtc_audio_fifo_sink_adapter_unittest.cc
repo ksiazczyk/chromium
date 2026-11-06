@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebrtcAudioFifoSinkAdapter unit tests
+// summary: Unit tests verifying the FIFO sink adapter's playout, format handshake, and format oscillation behavior using fake WebRTC audio classes.
+// ---
+
 #include "remoting/protocol/webrtc_audio_fifo_sink_adapter.h"
 
 #include <memory>

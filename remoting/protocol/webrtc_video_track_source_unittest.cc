@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebRTC video track source unit tests
+// summary: Unit tests verifying that WebrtcVideoTrackSource triggers sink callbacks, delivers captured frames, and assigns incrementing frame IDs.
+// ---
+
 #include "remoting/protocol/webrtc_video_track_source.h"
 
 #include <memory>

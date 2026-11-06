@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client authentication config structure
+// summary: Defines the ClientAuthenticationConfig struct holding the host ID, pairing credentials and the secret fetch callback used by client authenticators.
+// ---
+
 #ifndef REMOTING_PROTOCOL_CLIENT_AUTHENTICATION_CONFIG_H_
 #define REMOTING_PROTOCOL_CLIENT_AUTHENTICATION_CONFIG_H_
 

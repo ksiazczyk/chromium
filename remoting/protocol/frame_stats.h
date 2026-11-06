@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Frame stats structs and consumer interface
+// summary: Defines HostFrameStats, ClientFrameStats and FrameStats structs plus the FrameStatsConsumer interface for video frame performance statistics.
+// ---
+
 #ifndef REMOTING_PROTOCOL_FRAME_STATS_H_
 #define REMOTING_PROTOCOL_FRAME_STATS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRTC frame scheduler interface
+// summary: Defines the WebrtcFrameScheduler abstract interface responsible for scheduling video frame captures and defining encoding parameters for each frame.
+// ---
+
 #ifndef REMOTING_PROTOCOL_WEBRTC_FRAME_SCHEDULER_H_
 #define REMOTING_PROTOCOL_WEBRTC_FRAME_SCHEDULER_H_
 

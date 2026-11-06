@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Protocol event test matchers
+// summary: Provides gmock matchers for comparing protocol events such as key, mouse, clipboard and touch events in tests.
+// ---
+
 #ifndef REMOTING_PROTOCOL_TEST_EVENT_MATCHERS_H_
 #define REMOTING_PROTOCOL_TEST_EVENT_MATCHERS_H_
 

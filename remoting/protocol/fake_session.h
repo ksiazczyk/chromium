@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeSession class declaration
+// summary: Header declaring FakeSession, a fake Session for tests that pairs with a peer, exchanges transport info, and supports attachments and plugins.
+// ---
+
 #ifndef REMOTING_PROTOCOL_FAKE_SESSION_H_
 #define REMOTING_PROTOCOL_FAKE_SESSION_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clipboard echo filter header
+// summary: Declares ClipboardEchoFilter, which suppresses echoing of the latest client clipboard item back to the client through client and host clipboard stub filters.
+// ---
+
 #ifndef REMOTING_PROTOCOL_CLIPBOARD_ECHO_FILTER_H_
 #define REMOTING_PROTOCOL_CLIPBOARD_ECHO_FILTER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionPlugin interface
+// summary: Interface for optional session plugins that exchange non-essential information by attaching messages to session handshake messages.
+// ---
+
 #ifndef REMOTING_PROTOCOL_SESSION_PLUGIN_H_
 #define REMOTING_PROTOCOL_SESSION_PLUGIN_H_
 

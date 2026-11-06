@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Host event dispatcher implementation
+// summary: Parses incoming event-channel messages and injects key, text, mouse and touch events into the host InputStub.
+// ---
+
 #include "remoting/protocol/host_event_dispatcher.h"
 
 #include "base/memory/ref_counted.h"

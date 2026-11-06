@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chromium port allocator factory implementation
+// summary: Creates WebRTC port allocators using Chromium's packet socket factory and transport context for remoting connections.
+// ---
+
 #include "remoting/protocol/chromium_port_allocator_factory.h"
 
 #include "base/functional/bind.h"

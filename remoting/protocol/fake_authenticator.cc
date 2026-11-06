@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeAuthenticator implementation
+// summary: Implements a configurable fake authenticator that simulates authentication message exchanges, rejection and pausing for tests.
+// ---
+
 #include "remoting/protocol/fake_authenticator.h"
 
 #include <memory>

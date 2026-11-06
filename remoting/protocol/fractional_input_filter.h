@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fractional input filter
+// summary: Declares an input filter that maps fractional coordinates to clamped absolute x and y values for the input injector.
+// ---
+
 #ifndef REMOTING_PROTOCOL_FRACTIONAL_INPUT_FILTER_H_
 #define REMOTING_PROTOCOL_FRACTIONAL_INPUT_FILTER_H_
 

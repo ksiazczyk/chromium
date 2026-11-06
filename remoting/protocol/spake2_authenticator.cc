@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SPAKE2 authenticator implementation
+// summary: Implements the SPAKE2 over Curve25519 authentication exchange between host and client using a shared secret, including verification hash computation.
+// ---
+
 #include "remoting/protocol/spake2_authenticator.h"
 
 #include <utility>

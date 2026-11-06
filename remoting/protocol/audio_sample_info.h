@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioSampleInfo struct
+// summary: Defines a struct describing the sampling rate and channel count of an audio stream.
+// ---
+
 #ifndef REMOTING_PROTOCOL_AUDIO_SAMPLE_INFO_H_
 #define REMOTING_PROTOCOL_AUDIO_SAMPLE_INFO_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Port allocator factory header
+// summary: Declares the PortAllocatorFactory interface used to create webrtc port allocators for ICE candidate allocation.
+// ---
+
 #ifndef REMOTING_PROTOCOL_PORT_ALLOCATOR_FACTORY_H_
 #define REMOTING_PROTOCOL_PORT_ALLOCATOR_FACTORY_H_
 

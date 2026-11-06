@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IceConfigFetcherCloud class header
+// summary: Declares the IceConfigFetcher implementation that retrieves STUN and TURN settings from the Remoting Cloud API.
+// ---
+
 #ifndef REMOTING_PROTOCOL_ICE_CONFIG_FETCHER_CLOUD_H_
 #define REMOTING_PROTOCOL_ICE_CONFIG_FETCHER_CLOUD_H_
 
