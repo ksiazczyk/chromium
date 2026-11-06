@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncService interface declaration
+// summary: Declares SyncService, the central API for configuring the sync machinery and querying its status, with documentation of sync feature and transport modes.
+// ---
+
 #ifndef COMPONENTS_SYNC_SERVICE_SYNC_SERVICE_H_
 #define COMPONENTS_SYNC_SERVICE_SYNC_SERVICE_H_
 

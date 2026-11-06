@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncEngineImpl unit tests
+// summary: Unit tests for SyncEngineImpl using a fake sync manager and mock engine host to verify initialization, configuration, invalidation handling and shutdown behavior.
+// ---
+
 #include "components/sync/service/glue/sync_engine_impl.h"
 
 #include <memory>

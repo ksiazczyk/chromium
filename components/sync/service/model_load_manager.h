@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ModelLoadManager class header
+// summary: Declares ModelLoadManager, which instructs DataTypeControllers to load models or stop, and its delegate interface for reporting results to DataTypeManager.
+// ---
+
 #ifndef COMPONENTS_SYNC_SERVICE_MODEL_LOAD_MANAGER_H_
 #define COMPONENTS_SYNC_SERVICE_MODEL_LOAD_MANAGER_H_
 

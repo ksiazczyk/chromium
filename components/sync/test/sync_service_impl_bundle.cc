@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SyncServiceImplBundle implementation
+// summary: Implements a bundle that wires fake prefs, identity, network and crypto dependencies for constructing a SyncServiceImpl in tests.
+// ---
+
 #include "components/sync/test/sync_service_impl_bundle.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestSyncService fake implementation
+// summary: Implements a configurable fake SyncService that lets tests simulate sign-in state, auth errors, enterprise policy, transport states, and sync settings.
+// ---
+
 #include "components/sync/test/test_sync_service.h"
 
 #include <utility>

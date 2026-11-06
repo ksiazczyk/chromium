@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceStatisticsRequest interface
+// summary: Declares the DeviceStatisticsRequest interface for retrieving statistics about the syncing devices of an account.
+// ---
+
 #ifndef COMPONENTS_SYNC_SERVICE_DEVICE_STATISTICS_REQUEST_H_
 #define COMPONENTS_SYNC_SERVICE_DEVICE_STATISTICS_REQUEST_H_
 

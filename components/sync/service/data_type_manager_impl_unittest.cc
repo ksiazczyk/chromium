@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DataTypeManagerImpl unit tests
+// summary: Unit tests for DataTypeManagerImpl covering configuration flows, download failures, migration and data type state transitions using fake controllers.
+// ---
+
 #include "components/sync/service/data_type_manager_impl.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DeviceStatisticsRequestImpl unit tests
+// summary: Unit tests for DeviceStatisticsRequestImpl covering successful responses, auth errors, network errors and response handling.
+// ---
+
 #include "components/sync/service/device_statistics_request_impl.h"
 
 #include "base/byte_size.h"

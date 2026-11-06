@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncServiceCrypto implementation
+// summary: Implements SyncServiceCrypto, which manages sync encryption state, passphrases, and trusted vault key handling for the sync service.
+// ---
+
 #include "components/sync/service/sync_service_crypto.h"
 
 #include <utility>

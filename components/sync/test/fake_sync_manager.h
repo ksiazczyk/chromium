@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake sync manager for tests
+// summary: Declares a fake SyncManager with configurable initial sync, progress marker and configuration failure behavior for sync tests.
+// ---
+
 #ifndef COMPONENTS_SYNC_TEST_FAKE_SYNC_MANAGER_H_
 #define COMPONENTS_SYNC_TEST_FAKE_SYNC_MANAGER_H_
 

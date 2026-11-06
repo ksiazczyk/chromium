@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GetAllNodesRequestBarrier implementation
+// summary: Implements a barrier that accumulates GetAllNodes responses per data type and runs the callback once all requested types have reported.
+// ---
+
 #include "components/sync/service/get_all_nodes_request_barrier.h"
 
 #include <utility>

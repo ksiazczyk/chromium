@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataTypeController implementation
+// summary: Implements DataTypeController helpers such as state-to-string conversion, strictest metadata fate selection, and per-sync-mode delegate initialization.
+// ---
+
 #include "components/sync/service/data_type_controller.h"
 
 #include <utility>

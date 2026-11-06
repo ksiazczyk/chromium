@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake data type controller delegate implementation
+// summary: Implements FakeDataTypeControllerDelegate with manual model start, simulated model errors, activation responses, and metadata clearing counts for sync tests.
+// ---
+
 #include "components/sync/test/fake_data_type_controller_delegate.h"
 
 #include <utility>

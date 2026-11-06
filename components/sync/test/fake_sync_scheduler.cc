@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake sync scheduler implementation for tests
+// summary: Implements a no-op fake SyncScheduler that immediately runs configuration ready tasks and ignores scheduling events in sync tests.
+// ---
+
 #include "components/sync/test/fake_sync_scheduler.h"
 
 #include <utility>

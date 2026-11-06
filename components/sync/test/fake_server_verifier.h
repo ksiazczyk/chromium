@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake server verifier header
+// summary: Declares FakeServerVerifier, which provides assertion methods to verify committed data on a FakeServer without syncing it down to another test client.
+// ---
+
 #ifndef COMPONENTS_SYNC_TEST_FAKE_SERVER_VERIFIER_H_
 #define COMPONENTS_SYNC_TEST_FAKE_SERVER_VERIFIER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: History sync session durations metrics recorder unit tests
+// summary: Unit tests verifying session duration histograms for signed-out users and users with history sync enabled or disabled, including auth error variants.
+// ---
+
 #include "components/sync/service/history_sync_session_durations_metrics_recorder.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync engine factory interface
+// summary: Declares SyncEngineFactory, an interface for creating SyncEngine instances and managing per-account sync transport data such as cache GUID and birthday.
+// ---
+
 #ifndef COMPONENTS_SYNC_SERVICE_SYNC_ENGINE_FACTORY_H_
 #define COMPONENTS_SYNC_SERVICE_SYNC_ENGINE_FACTORY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncableServiceBasedDataTypeController implementation
+// summary: Implements a data type controller that wraps legacy SyncableService-based data types for the unified sync surface, lazily creating a bridge delegate.
+// ---
+
 #include "components/sync/service/syncable_service_based_data_type_controller.h"
 
 #include <memory>

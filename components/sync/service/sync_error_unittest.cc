@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SyncError unit tests
+// summary: Unit tests verifying SyncError creation from model errors and typed errors, checking location, message and message prefix behavior.
+// ---
+
 #include "components/sync/service/sync_error.h"
 
 #include "base/location.h"

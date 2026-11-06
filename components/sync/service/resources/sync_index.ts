@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync Internals index entry point
+// summary: Entry point for the sync internals WebUI that imports the page modules and reveals the tab box, with platform-specific setup.
+// ---
+
 // <if expr="is_ios">
 import 'chrome://resources/js/ios/web_ui.js';
 // </if>

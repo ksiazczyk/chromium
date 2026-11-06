@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConfigureContext struct for sync configuration context
+// summary: Defines the ConfigureContext struct describing the context in which sync was enabled, built by SyncServiceImpl and passed to data type controllers.
+// ---
+
 #ifndef COMPONENTS_SYNC_SERVICE_CONFIGURE_CONTEXT_H_
 #define COMPONENTS_SYNC_SERVICE_CONFIGURE_CONTEXT_H_
 

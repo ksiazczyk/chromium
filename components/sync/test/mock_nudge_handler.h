@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock nudge handler for sync tests
+// summary: Declares a mock NudgeHandler that counts nudges and exposes its counters for use in sync tests.
+// ---
+
 #ifndef COMPONENTS_SYNC_TEST_MOCK_NUDGE_HANDLER_H_
 #define COMPONENTS_SYNC_TEST_MOCK_NUDGE_HANDLER_H_
 

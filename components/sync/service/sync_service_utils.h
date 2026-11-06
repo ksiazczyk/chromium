@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync service utilities header
+// summary: Declares helpers that report whether a data type is being uploaded to Google, plus trusted vault and iOS identity error metrics utilities.
+// ---
+
 #ifndef COMPONENTS_SYNC_SERVICE_SYNC_SERVICE_UTILS_H_
 #define COMPONENTS_SYNC_SERVICE_SYNC_SERVICE_UTILS_H_
 

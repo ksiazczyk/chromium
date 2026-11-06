@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake sync change processor implementation
+// summary: Implements a fake SyncChangeProcessor that accumulates incoming sync changes in a list so tests can inspect them.
+// ---
+
 #include "components/sync/test/fake_sync_change_processor.h"
 
 #include "components/sync/model/sync_change.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync user settings interface
+// summary: Declares the interface encapsulating user-configurable sync settings such as selected types, setup completion, and passphrase state.
+// ---
+
 #ifndef COMPONENTS_SYNC_SERVICE_SYNC_USER_SETTINGS_H_
 #define COMPONENTS_SYNC_SERVICE_SYNC_USER_SETTINGS_H_
 

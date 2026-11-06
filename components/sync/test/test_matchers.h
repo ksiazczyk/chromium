@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: gmock matchers for sync model and protocol types
+// summary: Provides gmock matchers for ModelError, MetadataBatch, DataTypeState, EntitySpecifics and DeletionOrigin in sync tests.
+// ---
+
 #ifndef COMPONENTS_SYNC_TEST_TEST_MATCHERS_H_
 #define COMPONENTS_SYNC_TEST_TEST_MATCHERS_H_
 

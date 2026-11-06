@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataTypeStatusTable implementation
+// summary: Implements DataTypeStatusTable, recording and resetting data type errors including fatal, crypto and precondition errors.
+// ---
+
 #include "components/sync/service/data_type_status_table.h"
 
 #include "base/logging.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device statistics scheduler unit tests
+// summary: Unit tests for DeviceStatisticsScheduler covering tracker startup based on the device statistics timestamp pref, using mock time and fake requests.
+// ---
+
 #include "components/sync/service/device_statistics_scheduler.h"
 
 #include "base/functional/bind.h"

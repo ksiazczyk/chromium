@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sync stopped reporter unit tests
+// summary: Unit tests verifying event URL construction, request configuration, and response handling for the sync stopped reporter.
+// ---
+
 #include "components/sync/service/sync_stopped_reporter.h"
 
 #include "base/run_loop.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataTypeLocalDataBatchUploader default implementation
+// summary: Provides a default NOTREACHED implementation of TriggerLocalDataMigrationForItems for the local data batch uploader interface.
+// ---
+
 #include "components/sync/service/data_type_local_data_batch_uploader.h"
 
 #include "base/notreached.h"

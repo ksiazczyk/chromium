@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake sync encryption handler implementation
+// summary: Implements a fake sync encryption handler that tracks keystore keys and encryption state without opening transactions or touching the nigori node.
+// ---
+
 #include "components/sync/test/fake_sync_encryption_handler.h"
 
 #include "base/base64.h"

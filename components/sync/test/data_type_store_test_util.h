@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Data type store test utilities header
+// summary: Declares DataTypeStoreTestUtil with static helpers for creating in-memory stores, forwarding factories and synchronous store reads and writes in tests.
+// ---
+
 #ifndef COMPONENTS_SYNC_TEST_DATA_TYPE_STORE_TEST_UTIL_H_
 #define COMPONENTS_SYNC_TEST_DATA_TYPE_STORE_TEST_UTIL_H_
 

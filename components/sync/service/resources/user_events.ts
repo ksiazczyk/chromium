@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User event writer
+// summary: Wires the create-event button to write a user event using the time and navigation ID inputs via chrome_sync.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 
 import {writeUserEvent} from './chrome_sync.js';

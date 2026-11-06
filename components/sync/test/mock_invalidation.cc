@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock invalidation implementation
+// summary: Implements a test SyncInvalidation with a fixed version and payload that ignores acknowledgement and drop calls.
+// ---
+
 #include "components/sync/test/mock_invalidation.h"
 
 #include "base/check.h"

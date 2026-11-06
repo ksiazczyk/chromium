@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncPrefs implementation
+// summary: Implements the SyncPrefs helper that reads, writes, and persists global and per-account sync preferences, including pref migrations and encryption bootstrap tokens.
+// ---
+
 #include "components/sync/service/sync_prefs.h"
 
 #include <utility>

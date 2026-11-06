@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestSyncUserSettings fake implementation
+// summary: Implements a test SyncUserSettings that forwards to TestSyncService and tracks selected types, passphrase, and encryption state.
+// ---
+
 #include "components/sync/test/test_sync_user_settings.h"
 
 #include "components/sync/base/passphrase_enums.h"

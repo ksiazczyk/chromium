@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncServiceObserver implementation
+// summary: Implements SyncServiceObserver::OnSyncCycleCompleted by routing sync cycle completion events to OnStateChanged.
+// ---
+
 #include "components/sync/service/sync_service_observer.h"
 
 namespace syncer {

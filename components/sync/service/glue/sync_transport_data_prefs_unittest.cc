@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncTransportDataPrefs unit tests
+// summary: Unit tests for SyncTransportDataPrefs verifying poll interval handling, clearing of preferences, and that stored values are scoped per Gaia account.
+// ---
+
 #include "components/sync/service/glue/sync_transport_data_prefs.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GetTypesWithUnsyncedDataRequestBarrier implementation
+// summary: Implements a barrier that collects unsynced data counts per data type and invokes the callback once every requested type has reported.
+// ---
+
 #include "components/sync/service/get_types_with_unsynced_data_request_barrier.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake data type processor implementation
+// summary: Implements a no-op FakeDataTypeProcessor that ignores sync connection, local changes, commits, and updates for use in tests.
+// ---
+
 #include "components/sync/test/fake_data_type_processor.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GetTypesWithUnsyncedDataRequestBarrier class declaration
+// summary: Declares a ref-counted helper for SyncServiceImpl's GetTypesWithUnsyncedData that accumulates per-type unsynced data counts before callback.
+// ---
+
 #ifndef COMPONENTS_SYNC_SERVICE_GET_TYPES_WITH_UNSYNCED_DATA_REQUEST_BARRIER_H_
 #define COMPONENTS_SYNC_SERVICE_GET_TYPES_WITH_UNSYNCED_DATA_REQUEST_BARRIER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device statistics tracker implementation
+// summary: Implements DeviceStatisticsTracker, sending device statistics requests for all accounts and recording platform, form factor, and outcome metrics.
+// ---
+
 #include "components/sync/service/device_statistics_tracker.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Data type test matchers and printers implementation
+// summary: Implements the HasDataTypes GMock matcher and a DebugString printer for DataTypeSet used in sync tests.
+// ---
+
 #include "components/sync/test/data_type_test_util.h"
 
 namespace syncer {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bookmark entity builder implementation for sync tests
+// summary: Implements a builder that creates bookmark LoopbackServerEntity objects with configurable fields for use with the fake sync server in tests.
+// ---
+
 #include "components/sync/test/bookmark_entity_builder.h"
 
 #include <stdint.h>

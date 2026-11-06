@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NonUiSyncableServiceBasedDataTypeController class declaration
+// summary: Declares a DataTypeController for legacy SyncableService data types living outside the UI thread, with delegate modes for full-sync and transport mode.
+// ---
+
 #ifndef COMPONENTS_SYNC_SERVICE_NON_UI_SYNCABLE_SERVICE_BASED_DATA_TYPE_CONTROLLER_H_
 #define COMPONENTS_SYNC_SERVICE_NON_UI_SYNCABLE_SERVICE_BASED_DATA_TYPE_CONTROLLER_H_
 

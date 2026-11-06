@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Nigori encryption test utilities implementation
+// summary: Implements helpers that create test key parameters and build NigoriSpecifics messages with keystore, trusted vault, and cross-user sharing keys.
+// ---
+
 #include "components/sync/test/nigori_test_utils.h"
 
 #include <algorithm>

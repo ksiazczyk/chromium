@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake cryptographer implementation
+// summary: Implements a trivial Cryptographer that combines plaintext with the encryption key name and fakes cross-user sharing crypto for tests.
+// ---
+
 #include "components/sync/test/fake_cryptographer.h"
 
 #include <algorithm>

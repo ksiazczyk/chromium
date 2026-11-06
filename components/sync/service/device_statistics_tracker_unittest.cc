@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device statistics tracker unit tests
+// summary: Unit tests for DeviceStatisticsTracker using fake requests and histogram testers to verify device statistics metrics across accounts and platforms.
+// ---
+
 #include "components/sync/service/device_statistics_tracker.h"
 
 #include "base/containers/flat_map.h"

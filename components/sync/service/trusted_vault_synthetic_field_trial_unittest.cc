@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Trusted vault synthetic field trial unit tests
+// summary: Unit tests verifying that TrustedVaultAutoUpgradeSyntheticFieldTrialGroup builds valid group names from TrustedVaultAutoUpgradeExperimentGroup protos and rejects invalid cohorts or types.
+// ---
+
 #include "components/sync/service/trusted_vault_synthetic_field_trial.h"
 
 #include "components/sync/protocol/nigori_specifics.pb.h"

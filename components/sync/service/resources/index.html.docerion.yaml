@@ -1,0 +1,4 @@
+# Docerion header of index.html.
+type: source
+title: Sync Internals WebUI page
+summary: HTML shell for the Sync Internals page, defining tabs for About, Data, Sync Node Browser, Search, User Events, Traffic Log, and Invalidations with their panels and controls.

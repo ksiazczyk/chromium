@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake sync server implementation for tests
+// summary: Implements a fake sync server built on LoopbackServer that handles commands, persists state to disk, and supports test observers.
+// ---
+
 #include "components/sync/test/fake_server.h"
 
 #include <algorithm>

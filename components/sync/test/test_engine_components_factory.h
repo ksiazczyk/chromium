@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestEngineComponentsFactory header
+// summary: Declares a test EngineComponentsFactory that creates fake schedulers, cycle contexts and connection managers.
+// ---
+
 #ifndef COMPONENTS_SYNC_TEST_TEST_ENGINE_COMPONENTS_FACTORY_H_
 #define COMPONENTS_SYNC_TEST_TEST_ENGINE_COMPONENTS_FACTORY_H_
 

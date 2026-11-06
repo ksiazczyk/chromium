@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock sync invalidation for tests
+// summary: Declares a mock SyncInvalidation with build helpers for known and unknown version invalidations used in sync tests.
+// ---
+
 #ifndef COMPONENTS_SYNC_TEST_MOCK_INVALIDATION_H_
 #define COMPONENTS_SYNC_TEST_MOCK_INVALIDATION_H_
 

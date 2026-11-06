@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake data type controller implementation
+// summary: Implements FakeDataTypeController, simulating the state machine of an asynchronous data type controller with precondition and error hooks for sync tests.
+// ---
+
 #include "components/sync/test/fake_data_type_controller.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Entity builder factory implementation
+// summary: Implements a factory that creates bookmark entity builders, maintaining fake client cache GUID state and optional client tag hashes.
+// ---
+
 #include "components/sync/test/entity_builder_factory.h"
 
 #include "base/base64.h"

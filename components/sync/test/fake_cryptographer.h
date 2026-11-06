@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake cryptographer class declaration
+// summary: Declares FakeCryptographer, a Cryptographer implementation with trivial key-name-based encryption intended for sync tests.
+// ---
+
 #ifndef COMPONENTS_SYNC_TEST_FAKE_CRYPTOGRAPHER_H_
 #define COMPONENTS_SYNC_TEST_FAKE_CRYPTOGRAPHER_H_
 

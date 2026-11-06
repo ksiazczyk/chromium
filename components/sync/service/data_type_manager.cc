@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataTypeManager status-to-string helper
+// summary: Implements ConfigureStatusToString, converting DataTypeManager configure statuses into debug strings.
+// ---
+
 #include "components/sync/service/data_type_manager.h"
 
 namespace syncer {

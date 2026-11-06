@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake sync engine header
+// summary: Declares a minimal fake SyncEngine that returns stub or nonsense values and is not intended for tests depending on real engine behavior.
+// ---
+
 #ifndef COMPONENTS_SYNC_TEST_FAKE_SYNC_ENGINE_H_
 #define COMPONENTS_SYNC_TEST_FAKE_SYNC_ENGINE_H_
 

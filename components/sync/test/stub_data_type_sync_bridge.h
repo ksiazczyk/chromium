@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: StubDataTypeSyncBridge test header
+// summary: Declares StubDataTypeSyncBridge, a non-functional DataTypeSyncBridge implementation intended for use in tests.
+// ---
+
 #ifndef COMPONENTS_SYNC_TEST_STUB_DATA_TYPE_SYNC_BRIDGE_H_
 #define COMPONENTS_SYNC_TEST_STUB_DATA_TYPE_SYNC_BRIDGE_H_
 

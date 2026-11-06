@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake data type processor for tests
+// summary: Declares FakeDataTypeProcessor, a no-op DataTypeProcessor implementation for sync testing.
+// ---
+
 #ifndef COMPONENTS_SYNC_TEST_FAKE_DATA_TYPE_PROCESSOR_H_
 #define COMPONENTS_SYNC_TEST_FAKE_DATA_TYPE_PROCESSOR_H_
 

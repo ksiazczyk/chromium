@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trusted vault auto-upgrade synthetic field trial group
+// summary: Implements TrustedVaultAutoUpgradeSyntheticFieldTrialGroup, building group names from trusted vault auto-upgrade experiment protos for synthetic field trials.
+// ---
+
 #include "components/sync/service/trusted_vault_synthetic_field_trial.h"
 
 #include <ostream>

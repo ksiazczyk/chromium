@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocalDataDescription implementation
+// summary: Implements local data description helpers for the Batch Upload dialog, including domain extraction, display text formatting and Android JNI conversion.
+// ---
+
 #include "components/sync/service/local_data_description.h"
 
 #include <algorithm>

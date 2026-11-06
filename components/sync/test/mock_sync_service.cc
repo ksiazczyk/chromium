@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockSyncService implementation
+// summary: Implements MockSyncService construction and returns a mock SyncUserSettings instance from the GetUserSettings methods.
+// ---
+
 #include "components/sync/test/mock_sync_service.h"
 
 namespace syncer {

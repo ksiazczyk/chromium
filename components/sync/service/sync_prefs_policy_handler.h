@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncPrefsPolicyHandler class declaration
+// summary: Declares a SyncServiceObserver that updates user-controlled sync prefs when the SyncDisabled or SyncTypesListDisabled policies are applied.
+// ---
+
 #ifndef COMPONENTS_SYNC_SERVICE_SYNC_PREFS_POLICY_HANDLER_H_
 #define COMPONENTS_SYNC_SERVICE_SYNC_PREFS_POLICY_HANDLER_H_
 

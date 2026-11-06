@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake data type sync bridge implementation
+// summary: Implements FakeDataTypeSyncBridge with an in-memory Store and metadata change list to exercise DataTypeSyncBridge data and metadata handling in tests.
+// ---
+
 #include "components/sync/test/fake_data_type_sync_bridge.h"
 
 #include <utility>

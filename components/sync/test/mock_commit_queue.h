@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock commit queue for tests
+// summary: Declares a gmock MockCommitQueue that mocks the CommitQueue interface with a mocked NudgeForCommit method for sync tests.
+// ---
+
 #ifndef COMPONENTS_SYNC_TEST_MOCK_COMMIT_QUEUE_H_
 #define COMPONENTS_SYNC_TEST_MOCK_COMMIT_QUEUE_H_
 

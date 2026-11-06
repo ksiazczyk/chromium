@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake sync engine factory implementation
+// summary: Implements a SyncEngine factory that creates FakeSyncEngine instances, controls their init completion and tracks transport data state for tests.
+// ---
+
 #include "components/sync/test/fake_sync_engine_factory.h"
 
 #include <utility>

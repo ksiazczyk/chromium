@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataTypeManager interface for sync data type lifecycle
+// summary: Declares the DataTypeManager interface that manages startup, configuration, and shutdown of syncable data types.
+// ---
+
 #ifndef COMPONENTS_SYNC_SERVICE_DATA_TYPE_MANAGER_H_
 #define COMPONENTS_SYNC_SERVICE_DATA_TYPE_MANAGER_H_
 

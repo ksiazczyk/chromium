@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake data type connector for tests
+// summary: Declares FakeDataTypeConnector, a no-op DataTypeConnector implementation used to connect and disconnect data types in sync tests.
+// ---
+
 #ifndef COMPONENTS_SYNC_TEST_FAKE_DATA_TYPE_CONNECTOR_H_
 #define COMPONENTS_SYNC_TEST_FAKE_DATA_TYPE_CONNECTOR_H_
 

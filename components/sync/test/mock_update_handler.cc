@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockUpdateHandler implementation
+// summary: Implements the mock UpdateHandler, tracking download progress markers and counting ApplyUpdates and PrepareGetUpdates invocations for tests.
+// ---
+
 #include "components/sync/test/mock_update_handler.h"
 
 #include <memory>

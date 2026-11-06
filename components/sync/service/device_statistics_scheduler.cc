@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceStatisticsScheduler implementation
+// summary: Implements scheduling of daily device statistics recording, computing earliest allowed run times and handling startup delays.
+// ---
+
 #include "components/sync/service/device_statistics_scheduler.h"
 
 #include <optional>

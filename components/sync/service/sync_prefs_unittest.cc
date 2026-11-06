@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SyncPrefs unit tests
+// summary: Unit tests covering SyncPrefs behavior, including per-account encryption bootstrap tokens, selected types, and pref migrations.
+// ---
+
 #include "components/sync/service/sync_prefs.h"
 
 #include <memory>

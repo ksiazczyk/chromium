@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SyncUserSettingsMock header
+// summary: Declares a gmock of SyncUserSettings with mocked methods for type selection, passphrase and encryption settings.
+// ---
+
 #ifndef COMPONENTS_SYNC_TEST_SYNC_USER_SETTINGS_MOCK_H_
 #define COMPONENTS_SYNC_TEST_SYNC_USER_SETTINGS_MOCK_H_
 

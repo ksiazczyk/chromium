@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SyncServiceCrypto unit tests
+// summary: Unit tests for SyncServiceCrypto covering passphrase handling, trusted vault keys, and encryption state changes.
+// ---
+
 #include "components/sync/service/sync_service_crypto.h"
 
 #include <functional>

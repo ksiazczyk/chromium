@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SessionsHierarchy test helper implementation
+// summary: Implements the fake_server SessionsHierarchy class that models session windows and tabs and renders them to a comparable string form.
+// ---
+
 #include "components/sync/test/sessions_hierarchy.h"
 
 #include <sstream>

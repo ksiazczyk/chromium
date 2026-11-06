@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockDataTypeWorker implementation
+// summary: Implements a mock sync worker that connects a type processor, records pending commits, and provides accessors for test assertions.
+// ---
+
 #include "components/sync/test/mock_data_type_worker.h"
 
 #include <map>

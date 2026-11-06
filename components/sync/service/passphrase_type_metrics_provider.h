@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PassphraseTypeMetricsProvider class declaration
+// summary: Declares the PassphraseTypeForMetrics enum and a registerable metrics provider that emits the sync passphrase type upon UMA upload.
+// ---
+
 #ifndef COMPONENTS_SYNC_SERVICE_PASSPHRASE_TYPE_METRICS_PROVIDER_H_
 #define COMPONENTS_SYNC_SERVICE_PASSPHRASE_TYPE_METRICS_PROVIDER_H_
 

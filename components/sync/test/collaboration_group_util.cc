@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Collaboration group test utilities implementation
+// summary: Implements helpers that create collaboration group specifics and entity changes for injecting or updating entities in the fake sync server during tests.
+// ---
+
 #include "components/sync/test/collaboration_group_util.h"
 
 #include "base/strings/string_number_conversions.h"

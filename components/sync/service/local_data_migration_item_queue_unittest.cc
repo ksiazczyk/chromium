@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LocalDataMigrationItemQueue unit tests
+// summary: Tests migration triggering when the sync service or data type activates, including after passphrase entry, using mock sync service and data type manager.
+// ---
+
 #include "components/sync/service/local_data_migration_item_queue.h"
 
 #include "base/test/simple_test_clock.h"

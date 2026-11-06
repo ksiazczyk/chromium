@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncEngineImpl class declaration
+// summary: Declares SyncEngineImpl, the real SyncEngine implementation living on the UI thread, covering initialization, credentials, data type configuration, encryption and shutdown.
+// ---
+
 #ifndef COMPONENTS_SYNC_SERVICE_GLUE_SYNC_ENGINE_IMPL_H_
 #define COMPONENTS_SYNC_SERVICE_GLUE_SYNC_ENGINE_IMPL_H_
 

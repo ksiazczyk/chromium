@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Forwarding data type local change processor implementation
+// summary: Implements a DataTypeLocalChangeProcessor that forwards every call to another processor instance for use in sync model tests.
+// ---
+
 #include "components/sync/test/forwarding_data_type_local_change_processor.h"
 
 #include <utility>

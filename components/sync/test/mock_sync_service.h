@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockSyncService gmock mock header
+// summary: Declares a gmock mock of the SyncService interface with mocked transport state, data types, and auth methods, delegating user settings to a mock.
+// ---
+
 #ifndef COMPONENTS_SYNC_TEST_MOCK_SYNC_SERVICE_H_
 #define COMPONENTS_SYNC_TEST_MOCK_SYNC_SERVICE_H_
 

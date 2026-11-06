@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake sync scheduler for tests
+// summary: Declares a fake SyncScheduler whose scheduling and throttle methods do nothing, providing default behavior needed for sync tests.
+// ---
+
 #ifndef COMPONENTS_SYNC_TEST_FAKE_SYNC_SCHEDULER_H_
 #define COMPONENTS_SYNC_TEST_FAKE_SYNC_SCHEDULER_H_
 

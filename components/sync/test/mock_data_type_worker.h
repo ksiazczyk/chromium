@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock data type worker for sync tests
+// summary: Mock CommitQueue implementation that records commit requests and simulates server updates for testing sync data types.
+// ---
+
 #ifndef COMPONENTS_SYNC_TEST_MOCK_DATA_TYPE_WORKER_H_
 #define COMPONENTS_SYNC_TEST_MOCK_DATA_TYPE_WORKER_H_
 

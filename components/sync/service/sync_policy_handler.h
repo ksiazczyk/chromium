@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncPolicyHandler class declaration
+// summary: Declares the policy handler that validates and applies the SyncDisabled and SyncTypesListDisabled policies to sync preferences.
+// ---
+
 #ifndef COMPONENTS_SYNC_SERVICE_SYNC_POLICY_HANDLER_H_
 #define COMPONENTS_SYNC_SERVICE_SYNC_POLICY_HANDLER_H_
 

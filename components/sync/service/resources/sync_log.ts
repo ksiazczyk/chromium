@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync protocol event log
+// summary: Defines a Log object that records sync protocol events from the browser, exposing entries and an append event for listeners.
+// ---
+
 import {addWebUiListener} from 'chrome://resources/js/cr.js';
 
 interface LogEntry {

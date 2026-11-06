@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncPolicyHandler implementation
+// summary: Applies the SyncDisabled and SyncTypesListDisabled enterprise policies to sync preferences, including disabling dependent types such as payments and saved tab groups.
+// ---
+
 #include "components/sync/service/sync_policy_handler.h"
 
 #include <optional>

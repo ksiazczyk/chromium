@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync internals UI utility header
+// summary: Declares constants for sync-internals resource files and message handlers plus functions that build About information for the debug page.
+// ---
+
 #ifndef COMPONENTS_SYNC_SERVICE_SYNC_INTERNALS_UTIL_H_
 #define COMPONENTS_SYNC_SERVICE_SYNC_INTERNALS_UTIL_H_
 

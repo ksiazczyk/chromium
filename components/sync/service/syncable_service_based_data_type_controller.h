@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncableServiceBasedDataTypeController class declaration
+// summary: Declares SyncableServiceBasedDataTypeController, which integrates legacy SyncableService data types into the USS architecture for UI-thread types.
+// ---
+
 #ifndef COMPONENTS_SYNC_SERVICE_SYNCABLE_SERVICE_BASED_DATA_TYPE_CONTROLLER_H_
 #define COMPONENTS_SYNC_SERVICE_SYNCABLE_SERVICE_BASED_DATA_TYPE_CONTROLLER_H_
 

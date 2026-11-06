@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TrackableMockInvalidation implementation
+// summary: Implements a mock sync invalidation that reports Acknowledge() and Drop() calls to a MockInvalidationTracker for test assertions.
+// ---
+
 #include "components/sync/test/trackable_mock_invalidation.h"
 
 #include "components/sync/test/mock_invalidation_tracker.h"

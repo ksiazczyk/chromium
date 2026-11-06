@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake connection manager class declaration
+// summary: Declares FakeConnectionManager, a fake ServerConnectionManager for client sync unit tests with helpers to queue updates and control commit responses.
+// ---
+
 #ifndef COMPONENTS_SYNC_TEST_FAKE_CONNECTION_MANAGER_H_
 #define COMPONENTS_SYNC_TEST_FAKE_CONNECTION_MANAGER_H_
 

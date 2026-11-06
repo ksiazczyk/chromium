@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock debug info getter for sync tests
+// summary: Declares a mock DebugInfoGetter used in sync tests to collect and expose debug events.
+// ---
+
 #ifndef COMPONENTS_SYNC_TEST_MOCK_DEBUG_INFO_GETTER_H_
 #define COMPONENTS_SYNC_TEST_MOCK_DEBUG_INFO_GETTER_H_
 

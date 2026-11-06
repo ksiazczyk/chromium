@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for sync service resources
+summary: Points to platform WebUI owners for reviewing trivial or mechanical JS, CSS, and HTML changes in this directory.

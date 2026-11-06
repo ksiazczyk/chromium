@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unknown protobuf field utility header
+// summary: Declares unknown-field helpers plus a HasUnknownField gmock matcher for sync protobuf tests.
+// ---
+
 #ifndef COMPONENTS_SYNC_TEST_UNKNOWN_FIELD_UTIL_H_
 #define COMPONENTS_SYNC_TEST_UNKNOWN_FIELD_UTIL_H_
 

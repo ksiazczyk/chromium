@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncEngineImpl implementation
+// summary: Implements SyncEngineImpl, the sole SyncEngine implementation, validating and restoring local transport data from prefs and posting tasks to the backend on the sync sequence.
+// ---
+
 #include "components/sync/service/glue/sync_engine_impl.h"
 
 #include <utility>

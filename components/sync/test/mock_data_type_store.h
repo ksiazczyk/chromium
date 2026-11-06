@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockDataTypeStore for sync tests
+// summary: Declares a gmock mock of the DataTypeStore storage interface, stubbing read, write batch, and metadata operations for sync model tests.
+// ---
+
 #ifndef COMPONENTS_SYNC_TEST_MOCK_DATA_TYPE_STORE_H_
 #define COMPONENTS_SYNC_TEST_MOCK_DATA_TYPE_STORE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sync auth manager unit tests
+// summary: Parameterized unit tests for SyncAuthManager covering local sync mode, auth notification handling, account state changes, and credential updates.
+// ---
+
 #include "components/sync/service/sync_auth_manager.h"
 
 #include "base/run_loop.h"

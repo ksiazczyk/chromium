@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataTypeStatusTable class header
+// summary: Declares DataTypeStatusTable, which tracks data types that encountered errors during sync and groups them by error kind.
+// ---
+
 #ifndef COMPONENTS_SYNC_SERVICE_DATA_TYPE_STATUS_TABLE_H_
 #define COMPONENTS_SYNC_SERVICE_DATA_TYPE_STATUS_TABLE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync stopped reporter
+// summary: Declares a class that manages informing the sync server that sync has been disabled, with request timeout handling.
+// ---
+
 #ifndef COMPONENTS_SYNC_SERVICE_SYNC_STOPPED_REPORTER_H_
 #define COMPONENTS_SYNC_SERVICE_SYNC_STOPPED_REPORTER_H_
 

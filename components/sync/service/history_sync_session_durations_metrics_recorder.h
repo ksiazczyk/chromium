@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History sync session durations metrics recorder header
+// summary: Declares a SyncServiceObserver that tracks active browsing time spent with history sync enabled and logs session duration metrics by history sync status.
+// ---
+
 #ifndef COMPONENTS_SYNC_SERVICE_HISTORY_SYNC_SESSION_DURATIONS_METRICS_RECORDER_H_
 #define COMPONENTS_SYNC_SERVICE_HISTORY_SYNC_SESSION_DURATIONS_METRICS_RECORDER_H_
 

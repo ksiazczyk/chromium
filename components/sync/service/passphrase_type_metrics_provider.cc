@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passphrase type metrics provider implementation
+// summary: Implements a metrics provider that records the Sync.PassphraseType5 histogram, aggregating passphrase types across all profiles for UMA uploads.
+// ---
+
 #include "components/sync/service/passphrase_type_metrics_provider.h"
 
 #include "base/check.h"

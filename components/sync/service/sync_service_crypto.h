@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncServiceCrypto class header
+// summary: Declares SyncServiceCrypto, a mostly independent SyncService component that holds encryption state and communicates with the sync thread.
+// ---
+
 #ifndef COMPONENTS_SYNC_SERVICE_SYNC_SERVICE_CRYPTO_H_
 #define COMPONENTS_SYNC_SERVICE_SYNC_SERVICE_CRYPTO_H_
 

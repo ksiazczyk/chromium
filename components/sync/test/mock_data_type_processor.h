@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockDataTypeProcessor for sync tests
+// summary: Declares a mock DataTypeProcessor that logs received messages, supports deferred execution, and generates commit and delete requests for tests.
+// ---
+
 #ifndef COMPONENTS_SYNC_TEST_MOCK_DATA_TYPE_PROCESSOR_H_
 #define COMPONENTS_SYNC_TEST_MOCK_DATA_TYPE_PROCESSOR_H_
 

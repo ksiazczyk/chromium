@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Backend migrator implementation
+// summary: Implements BackendMigrator, which disables and re-enables data types through the DataTypeManager to carry out sync datatype migrations and notify observers.
+// ---
+
 #include "components/sync/service/backend_migrator.h"
 
 #include "base/functional/bind.h"

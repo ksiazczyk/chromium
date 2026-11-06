@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Nigori helpers for the fake sync server
+// summary: Implements helpers to read and set Nigori specifics, including a standard keystore Nigori, in the FakeServer.
+// ---
+
 #include "components/sync/test/fake_server_nigori_helper.h"
 
 #include <string>

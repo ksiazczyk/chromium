@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocalDataDescription and LocalDataItemModel declarations
+// summary: Defines structs describing local data items shown in the Batch Upload dialog, with item ids, icons, titles, domain examples and counts.
+// ---
+
 #ifndef COMPONENTS_SYNC_SERVICE_LOCAL_DATA_DESCRIPTION_H_
 #define COMPONENTS_SYNC_SERVICE_LOCAL_DATA_DESCRIPTION_H_
 

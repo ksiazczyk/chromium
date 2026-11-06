@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockDataTypeLocalChangeProcessor implementation
+// summary: Implements the mock local change processor, including a helper that delegates calls by default to a real DataTypeLocalChangeProcessor.
+// ---
+
 #include "components/sync/test/mock_data_type_local_change_processor.h"
 
 #include <utility>

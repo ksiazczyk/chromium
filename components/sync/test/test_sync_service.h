@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestSyncService fake header
+// summary: Declares TestSyncService, a simple SyncService test double with setters for sign-in, errors, cycle snapshots, and local sync.
+// ---
+
 #ifndef COMPONENTS_SYNC_TEST_TEST_SYNC_SERVICE_H_
 #define COMPONENTS_SYNC_TEST_TEST_SYNC_SERVICE_H_
 

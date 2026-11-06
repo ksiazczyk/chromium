@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Styles for the Sync Internals About tab
+summary: Stylesheet for the About tab, covering status detail tables, type info severity colors, and protocol log event entries.
+*/
+
 #about-info {
   column-width: 350px;
 }

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocalDataMigrationItemQueue class header
+// summary: Declares a SyncServiceObserver queue that defers moving local data to account storage until sync activates, clearing items on pause, shutdown or expiry.
+// ---
+
 #ifndef COMPONENTS_SYNC_SERVICE_LOCAL_DATA_MIGRATION_ITEM_QUEUE_H_
 #define COMPONENTS_SYNC_SERVICE_LOCAL_DATA_MIGRATION_ITEM_QUEUE_H_
 

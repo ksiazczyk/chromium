@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for sync test utilities
+summary: Defines include rules allowing the sync test directory to depend on bookmarks, prefs, signin, network, protobuf and other components.

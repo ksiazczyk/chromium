@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncServiceImpl implementation
+// summary: Implements SyncServiceImpl, the core SyncService coordinating the sync engine, data type configuration, auth, and shutdown.
+// ---
+
 #include "components/sync/service/sync_service_impl.h"
 
 #include <cstddef>

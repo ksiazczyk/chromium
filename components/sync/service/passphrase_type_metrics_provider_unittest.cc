@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Passphrase type metrics provider unit tests
+// summary: Unit tests verifying that the Sync.PassphraseType5 histogram is recorded correctly for missing, initializing, signed-out, and multi-profile cases.
+// ---
+
 #include "components/sync/service/passphrase_type_metrics_provider.h"
 
 #include <memory>

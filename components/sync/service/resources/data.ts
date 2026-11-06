@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data tab dump logic for Sync Internals
+// summary: Builds text and CSV dumps of sync status and nodes, optionally redacting specifics, and offers them for download.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 import type {WebUiListener} from 'chrome://resources/js/cr.js';
 import {addWebUiListener, removeWebUiListener} from 'chrome://resources/js/cr.js';

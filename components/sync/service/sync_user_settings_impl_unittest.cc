@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for SyncUserSettingsImpl
+// summary: Unit tests covering selected types, encryption bootstrap tokens, and passphrase-related behavior of SyncUserSettingsImpl.
+// ---
+
 #include "components/sync/service/sync_user_settings_impl.h"
 
 #include <memory>

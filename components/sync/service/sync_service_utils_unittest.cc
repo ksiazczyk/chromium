@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sync service utils unit tests
+// summary: Unit tests verifying GetUploadToGoogleState behavior across policy, transport state, data type selection, and local sync scenarios.
+// ---
+
 #include "components/sync/service/sync_service_utils.h"
 
 #include "base/test/metrics/histogram_tester.h"

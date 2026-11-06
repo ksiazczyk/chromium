@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync search manager
+// summary: Implements a search manager that runs queries over sync nodes and manages the results list, selection and keyboard navigation.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 
 import type {SyncNode, SyncNodeMap} from './chrome_sync.js';

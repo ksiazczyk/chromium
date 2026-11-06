@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake server network resources declaration
+// summary: Declares the factory function that creates HTTP post provider resources wired to a FakeServer.
+// ---
+
 #ifndef COMPONENTS_SYNC_TEST_FAKE_SERVER_NETWORK_RESOURCES_H_
 #define COMPONENTS_SYNC_TEST_FAKE_SERVER_NETWORK_RESOURCES_H_
 

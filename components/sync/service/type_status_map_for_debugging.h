@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync type status map for debugging
+// summary: Defines a struct and map type describing per-data-type sync statuses with severity levels, used to populate the detailed type status table of the sync-internals debugging page.
+// ---
+
 #ifndef COMPONENTS_SYNC_SERVICE_TYPE_STATUS_MAP_FOR_DEBUGGING_H_
 #define COMPONENTS_SYNC_SERVICE_TYPE_STATUS_MAP_FOR_DEBUGGING_H_
 

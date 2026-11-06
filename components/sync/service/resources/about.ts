@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: About tab logic for Sync Internals
+// summary: Renders sync status details, per-type statuses, and protocol log entries in the About tab, highlighting changed values.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 import type {WebUiListener} from 'chrome://resources/js/cr.js';
 import {addWebUiListener, removeWebUiListener} from 'chrome://resources/js/cr.js';

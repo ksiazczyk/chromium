@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestSyncUserSettings fake header
+// summary: Declares TestSyncUserSettings, a SyncUserSettings test double with setters for selected types, policy management, and passphrase scenarios.
+// ---
+
 #ifndef COMPONENTS_SYNC_TEST_TEST_SYNC_USER_SETTINGS_H_
 #define COMPONENTS_SYNC_TEST_TEST_SYNC_USER_SETTINGS_H_
 

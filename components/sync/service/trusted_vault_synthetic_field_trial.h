@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trusted vault auto-upgrade synthetic field trial declarations
+// summary: Declares the synthetic field trial name and the TrustedVaultAutoUpgradeSyntheticFieldTrialGroup class for trusted vault auto-upgrade experiments.
+// ---
+
 #ifndef COMPONENTS_SYNC_SERVICE_TRUSTED_VAULT_SYNTHETIC_FIELD_TRIAL_H_
 #define COMPONENTS_SYNC_SERVICE_TRUSTED_VAULT_SYNTHETIC_FIELD_TRIAL_H_
 

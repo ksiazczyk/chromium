@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Active devices provider interface
+// summary: Interface that computes invalidation information about recently active devices and notifies a callback whenever the set of active devices changes.
+// ---
+
 #ifndef COMPONENTS_SYNC_SERVICE_ACTIVE_DEVICES_PROVIDER_H_
 #define COMPONENTS_SYNC_SERVICE_ACTIVE_DEVICES_PROVIDER_H_
 

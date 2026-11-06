@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sync feature status recorder unit tests
+// summary: Tests that the migration recorder records correct feature and data type statuses for active, disabled and initializing sync states.
+// ---
+
 #include "components/sync/service/sync_feature_status_for_migrations_recorder.h"
 
 #include <memory>

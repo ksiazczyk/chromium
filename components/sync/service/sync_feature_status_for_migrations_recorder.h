@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync feature status recorder for migrations header
+// summary: Declares SyncFeatureStatusForMigrationsRecorder and its status enum, which persist sync feature state in prefs for early-startup migrations.
+// ---
+
 #ifndef COMPONENTS_SYNC_SERVICE_SYNC_FEATURE_STATUS_FOR_MIGRATIONS_RECORDER_H_
 #define COMPONENTS_SYNC_SERVICE_SYNC_FEATURE_STATUS_FOR_MIGRATIONS_RECORDER_H_
 

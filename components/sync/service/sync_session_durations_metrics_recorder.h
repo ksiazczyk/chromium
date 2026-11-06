@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync session durations metrics recorder
+// summary: Declares a class tracking active browsing time spent signed in and/or syncing as a fraction of total browsing time.
+// ---
+
 #ifndef COMPONENTS_SYNC_SERVICE_SYNC_SESSION_DURATIONS_METRICS_RECORDER_H_
 #define COMPONENTS_SYNC_SERVICE_SYNC_SESSION_DURATIONS_METRICS_RECORDER_H_
 
