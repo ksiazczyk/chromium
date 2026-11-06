@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: OWNERS file granting every contributor per-file approval rights for .sha1 checksum changes in this directory.
