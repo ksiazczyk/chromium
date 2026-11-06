@@ -17,6 +17,12 @@
 // inside PulseAudio in Start() and repeated during playback, waiting for
 // PulseAudio write callbacks to occur.
 
+// ---docerion
+// type: source
+// title: PulseAudio output stream header
+// summary: Declares PulseAudioOutputStream, an AudioOutputStream implementation that plays audio via PulseAudio's threaded mainloop API, with volume, state, and write-callback handling.
+// ---
+
 #ifndef MEDIA_AUDIO_PULSE_PULSE_OUTPUT_H_
 #define MEDIA_AUDIO_PULSE_PULSE_OUTPUT_H_
 

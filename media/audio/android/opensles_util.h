@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenSL ES utility declarations
+// summary: Declares a scoped OpenSL ES object wrapper and the ChannelCountToSLESChannelMask helper for guessing channel masks on Android.
+// ---
+
 #ifndef MEDIA_AUDIO_ANDROID_OPENSLES_UTIL_H_
 #define MEDIA_AUDIO_ANDROID_OPENSLES_UTIL_H_
 

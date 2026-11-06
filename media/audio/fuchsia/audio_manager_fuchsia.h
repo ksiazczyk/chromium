@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia audio manager header
+// summary: Declares AudioManagerFuchsia, the AudioManagerBase subclass that creates Fuchsia audio streams and tracks audio devices.
+// ---
+
 #ifndef MEDIA_AUDIO_FUCHSIA_AUDIO_MANAGER_FUCHSIA_H_
 #define MEDIA_AUDIO_FUCHSIA_AUDIO_MANAGER_FUCHSIA_H_
 

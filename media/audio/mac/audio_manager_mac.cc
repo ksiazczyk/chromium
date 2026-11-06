@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioManagerMac implementation
+// summary: Implements the macOS audio manager that enumerates devices and creates input, output, and loopback streams.
+// ---
+
 #include "media/audio/mac/audio_manager_mac.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CatapAudioInputStream header
+// summary: Declares the CoreAudio process tap loopback capture stream, its configuration, device identity, and open status codes for macOS 14.2+.
+// ---
+
 #ifndef MEDIA_AUDIO_MAC_CATAP_AUDIO_INPUT_STREAM_H_
 #define MEDIA_AUDIO_MAC_CATAP_AUDIO_INPUT_STREAM_H_
 

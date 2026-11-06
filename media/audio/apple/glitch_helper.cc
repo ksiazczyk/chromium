@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio glitch helper implementation
+// summary: Implements GlitchHelper, which detects lost audio frames between CoreAudio callbacks and reports glitch statistics through UMA histograms and AudioGlitchInfo.
+// ---
+
 #include "media/audio/apple/glitch_helper.h"
 
 #include "base/check_op.h"

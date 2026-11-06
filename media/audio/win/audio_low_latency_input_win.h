@@ -53,6 +53,13 @@
 //   MSDN states that "In rare cases, a specialized audio application might
 //   require the use of the IAudioEndpointVolume".
 //
+
+// ---docerion
+// type: source
+// title: WASAPIAudioInputStream class header
+// summary: Declares the low-latency audio capture stream for Windows using WASAPI, describing its capture thread operation and Core Audio API usage.
+// ---
+
 #ifndef MEDIA_AUDIO_WIN_AUDIO_LOW_LATENCY_INPUT_WIN_H_
 #define MEDIA_AUDIO_WIN_AUDIO_LOW_LATENCY_INPUT_WIN_H_
 

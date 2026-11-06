@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Low-latency audio input unit tests
+// summary: Unit tests for AUAudioInputStream using mock input callbacks plus a manual file-writing sink for offline analysis of captured audio.
+// ---
+
 #include "media/audio/apple/audio_low_latency_input.h"
 
 #include <stdint.h>

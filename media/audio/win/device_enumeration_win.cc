@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows audio device enumeration implementation
+// summary: Implements MMDevice-based listing of audio input and output devices, including instance and container ID lookups for USB and Bluetooth devices.
+// ---
+
 #include "media/audio/win/device_enumeration_win.h"
 
 #include <objbase.h>

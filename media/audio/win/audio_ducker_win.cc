@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows audio ducker implementation
+// summary: Implements ducking of other Windows applications' audio sessions by lowering and restoring their volumes via the Windows audio session APIs.
+// ---
+
 #include "media/audio/win/audio_ducker_win.h"
 
 #include <MMDeviceAPI.h>

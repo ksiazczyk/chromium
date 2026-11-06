@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioDeviceId implementation
+// summary: Implements parsing and conversion of Android audio device IDs, treating the reserved AAudio unspecified value as the default device.
+// ---
+
 #include "media/audio/android/audio_device_id.h"
 
 #include <cstdint>

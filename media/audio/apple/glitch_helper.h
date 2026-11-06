@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio glitch helper header
+// summary: Declares GlitchHelper, a helper that tracks missing audio frames across callbacks and exposes glitch info consumption and human-readable logging.
+// ---
+
 #ifndef MEDIA_AUDIO_APPLE_GLITCH_HELPER_H_
 #define MEDIA_AUDIO_APPLE_GLITCH_HELPER_H_
 

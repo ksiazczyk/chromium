@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioManagerMac class declaration
+// summary: Declares the macOS AudioManager singleton implementation for creating and managing audio streams and devices.
+// ---
+
 #ifndef MEDIA_AUDIO_MAC_AUDIO_MANAGER_MAC_H_
 #define MEDIA_AUDIO_MAC_AUDIO_MANAGER_MAC_H_
 

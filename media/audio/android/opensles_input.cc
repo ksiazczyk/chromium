@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenSLESInputStream implementation
+// summary: Implements PCM audio capture on Android using the OpenSLES recorder and simple buffer queue, with error handling and peak detection.
+// ---
+
 #include "media/audio/android/opensles_input.h"
 
 #include <algorithm>

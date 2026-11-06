@@ -90,6 +90,12 @@
 // http://msdn.microsoft.com/en-us/library/windows/desktop/dd370844(v=vs.85).aspx
 //   for more details.
 
+// ---docerion
+// type: source
+// title: WASAPIAudioOutputStream class header
+// summary: Declares the low-latency audio render stream for Windows using WASAPI, documenting its render thread, threading requirements, and exclusive mode.
+// ---
+
 #ifndef MEDIA_AUDIO_WIN_AUDIO_LOW_LATENCY_OUTPUT_WIN_H_
 #define MEDIA_AUDIO_WIN_AUDIO_LOW_LATENCY_OUTPUT_WIN_H_
 

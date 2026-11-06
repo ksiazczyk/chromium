@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Fuchsia audio directory owners
+summary: Delegates review ownership of the Fuchsia audio directory to the Fuchsia build OWNERS file.

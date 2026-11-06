@@ -1,0 +1,4 @@
+# Docerion header of catap_audio_input_stream_unittest.mm.
+type: test
+title: CatapAudioInputStream unit tests
+summary: Tests for the Catap loopback input stream using mocked CoreAudio APIs, feature flags, and multiprocess test helpers.

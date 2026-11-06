@@ -14,6 +14,13 @@
 //   2) The delay between the moment getting the callback and the scheduled time
 //      stamp that tells when the data is going to be played out.
 //
+
+// ---docerion
+// type: source
+// title: AUHAL audio output stream header
+// summary: Declares AUHALStream, the Apple AudioOutputStream using the AUHAL Audio Unit for low-latency output, with lifecycle and latency implementation notes.
+// ---
+
 #ifndef MEDIA_AUDIO_APPLE_AUDIO_AUHAL_H_
 #define MEDIA_AUDIO_APPLE_AUDIO_AUHAL_H_
 

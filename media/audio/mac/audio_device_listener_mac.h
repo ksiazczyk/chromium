@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioDeviceListenerMac class declaration
+// summary: Declares a helper that runs a callback when CoreAudio reports device, sample rate, or source changes on macOS.
+// ---
+
 #ifndef MEDIA_AUDIO_MAC_AUDIO_DEVICE_LISTENER_MAC_H_
 #define MEDIA_AUDIO_MAC_AUDIO_DEVICE_LISTENER_MAC_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WASAPI low latency audio output unit tests
+// summary: Unit tests for the Windows WASAPI low latency audio output stream, covering delays, callbacks and file-based playback.
+// ---
+
 #include "media/audio/win/audio_low_latency_output_win.h"
 
 #include <windows.h>

@@ -1,0 +1,4 @@
+# Docerion header of catap_audio_input_stream.mm.
+type: source
+title: CatapAudioInputStream implementation
+summary: Implements macOS audio loopback capture via CoreAudio process taps, with internal resampling, IOProc proxying, and UMA metrics.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PulseAudio utility header
+// summary: Declares PulseAudio helper functions and the AutoPulseLock class for initializing, locking, stream creation, channel mapping, and muting sinks.
+// ---
+
 #ifndef MEDIA_AUDIO_PULSE_PULSE_UTIL_H_
 #define MEDIA_AUDIO_PULSE_PULSE_UTIL_H_
 

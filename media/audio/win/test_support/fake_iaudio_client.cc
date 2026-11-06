@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake IAudioClient implementation
+// summary: Implements the fake IAudioClient with format, latency and service methods plus a timer-based DataStreamer that signals buffer-ready events during tests.
+// ---
+
 #include "media/audio/win/test_support/fake_iaudio_client.h"
 
 #include <mmdeviceapi.h>

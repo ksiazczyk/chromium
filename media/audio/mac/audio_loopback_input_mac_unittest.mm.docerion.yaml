@@ -1,0 +1,4 @@
+# Docerion header of audio_loopback_input_mac_unittest.mm.
+type: test
+title: SCKAudioInputStream unit tests
+summary: Tests the ScreenCaptureKit loopback input stream using OCMock mocks for shareable content, displays, and streams.

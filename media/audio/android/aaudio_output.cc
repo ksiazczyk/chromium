@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AAudio output stream implementation
+// summary: Implements audio playback through AAudio, including volume and mute control, pull FIFO handling for variable-sized callbacks, and output delay reporting.
+// ---
+
 #include "media/audio/android/aaudio_output.h"
 
 #include "base/feature_list.h"

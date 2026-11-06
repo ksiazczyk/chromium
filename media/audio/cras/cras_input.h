@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CRAS audio input stream class declaration
+// summary: Declares CrasInputStream, the CRAS-based capture stream with AEC, NS, AGC, and voice isolation support.
+// ---
+
 #ifndef MEDIA_AUDIO_CRAS_CRAS_INPUT_H_
 #define MEDIA_AUDIO_CRAS_CRAS_INPUT_H_
 

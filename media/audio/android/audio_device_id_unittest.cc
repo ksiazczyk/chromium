@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AudioDeviceId unit tests
+// summary: Tests creation of default and non-default device IDs, string parsing of valid and invalid IDs and conversion to AAudio device ID values.
+// ---
+
 #include "media/audio/android/audio_device_id.h"
 
 #include <aaudio/AAudio.h>

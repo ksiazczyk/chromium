@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia audio output stream header
+// summary: Declares AudioOutputStreamFuchsia, the AudioOutputStream implementation for playing audio through the Fuchsia AudioRenderer.
+// ---
+
 #ifndef MEDIA_AUDIO_FUCHSIA_AUDIO_OUTPUT_STREAM_FUCHSIA_H_
 #define MEDIA_AUDIO_FUCHSIA_AUDIO_OUTPUT_STREAM_FUCHSIA_H_
 

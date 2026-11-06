@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CRAS utilities for device enumeration and client connection
+// summary: Implements CRAS helpers that connect to the ChromeOS audio server, enumerate audio devices and classify node types such as internal mics and speakers.
+// ---
+
 #include "media/audio/cras/cras_util.h"
 
 #include "base/compiler_specific.h"

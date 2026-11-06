@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake IActivateAudioInterfaceAsyncOperation header
+// summary: Declares a mock of the Windows IActivateAudioInterfaceAsyncOperation COM interface that simulates audio interface activation without real hardware.
+// ---
+
 #ifndef MEDIA_AUDIO_WIN_TEST_SUPPORT_FAKE_IACTIVATE_AUDIO_INTERFACE_ASYNC_OPERATION_H_
 #define MEDIA_AUDIO_WIN_TEST_SUPPORT_FAKE_IACTIVATE_AUDIO_INTERFACE_ASYNC_OPERATION_H_
 

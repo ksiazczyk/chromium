@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AAudio Bluetooth output stream class declaration
+// summary: Declares AAudioBluetoothOutputStream, a MuteableAudioOutputStream that keeps one AAudio stream per Bluetooth protocol and selects the active one via SetUseSco.
+// ---
+
 #ifndef MEDIA_AUDIO_ANDROID_AAUDIO_BLUETOOTH_OUTPUT_H_
 #define MEDIA_AUDIO_ANDROID_AAUDIO_BLUETOOTH_OUTPUT_H_
 

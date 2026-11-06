@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PulseAudio loopback stream implementation
+// summary: Implements PulseLoopbackAudioStream, which wraps an input stream for system audio loopback capture with optional muting.
+// ---
+
 #include "pulse_loopback.h"
 
 #include "audio_manager_pulse.h"

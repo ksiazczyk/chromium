@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio device listener for Windows
+// summary: Implements IMMNotificationClient to notify the audio manager when the default audio device changes, forwarding output device changes to downstream clients.
+// ---
+
 #include "media/audio/win/audio_device_listener_win.h"
 
 #include <Audioclient.h>

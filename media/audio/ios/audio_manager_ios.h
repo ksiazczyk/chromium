@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioManagerIOS class declaration
+// summary: Declares the AudioManagerIOS class, the iOS implementation of the AudioManager singleton, covering stream creation, device queries, volume control, and buffer size changes.
+// ---
+
 #ifndef MEDIA_AUDIO_IOS_AUDIO_MANAGER_IOS_H_
 #define MEDIA_AUDIO_IOS_AUDIO_MANAGER_IOS_H_
 

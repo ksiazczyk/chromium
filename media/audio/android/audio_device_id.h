@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioDeviceId class header
+// summary: Declares a wrapper around Android audio device IDs that handles the virtual default device, string parsing and conversion to AAudio device IDs.
+// ---
+
 #ifndef MEDIA_AUDIO_ANDROID_AUDIO_DEVICE_ID_H_
 #define MEDIA_AUDIO_ANDROID_AUDIO_DEVICE_ID_H_
 

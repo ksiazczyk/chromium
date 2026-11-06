@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrasUnifiedStream implementation for ChromeOS CRAS audio output
+// summary: Implements the CrasUnifiedStream output audio stream for ChromeOS, handling CRAS client callbacks, stream lifecycle, glitch tracking and UMA error metrics.
+// ---
+
 #include "media/audio/cras/cras_unified.h"
 
 #include <inttypes.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WASAPI low-latency audio input for Windows
+// summary: Implements AudioInputStream using Windows Core Audio WASAPI for low-latency capture, including loopback capture and format handling.
+// ---
+
 #include "media/audio/win/audio_low_latency_input_win.h"
 
 #include <objbase.h>

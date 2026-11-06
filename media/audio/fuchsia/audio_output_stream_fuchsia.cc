@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia audio output stream implementation
+// summary: Implements audio rendering on Fuchsia via AudioRenderer, pumping samples into a shared payload buffer on a timer.
+// ---
+
 #include "media/audio/fuchsia/audio_output_stream_fuchsia.h"
 
 #include <fuchsia/media/cpp/fidl.h>

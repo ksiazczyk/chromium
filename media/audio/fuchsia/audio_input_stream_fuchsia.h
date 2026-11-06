@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia audio input stream header
+// summary: Declares AudioInputStreamFuchsia, the AudioInputStream implementation for capturing audio on Fuchsia.
+// ---
+
 #ifndef MEDIA_AUDIO_FUCHSIA_AUDIO_INPUT_STREAM_FUCHSIA_H_
 #define MEDIA_AUDIO_FUCHSIA_AUDIO_INPUT_STREAM_FUCHSIA_H_
 

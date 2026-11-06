@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioDeviceType conversion implementation
+// summary: Implements conversion of an integer value to an AudioDeviceType, returning an empty optional for values outside the known enum range.
+// ---
+
 #include "media/audio/android/audio_device_type.h"
 
 namespace media::android {

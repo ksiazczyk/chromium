@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioSessionManagerIOS class declaration
+// summary: Declares a singleton bridge class that conveys iOS platform details from AVAudioSession and AVAudioApplication to AudioManagerIOS, including device info, sample rate, and gain.
+// ---
+
 #ifndef MEDIA_AUDIO_IOS_AUDIO_SESSION_MANAGER_IOS_H_
 #define MEDIA_AUDIO_IOS_AUDIO_SESSION_MANAGER_IOS_H_
 

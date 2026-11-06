@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenSLESInputStream class declaration
+// summary: Declares an audio input stream that records PCM audio on Android through the OpenSLES API, living on the audio manager thread.
+// ---
+
 #ifndef MEDIA_AUDIO_ANDROID_OPENSLES_INPUT_H_
 #define MEDIA_AUDIO_ANDROID_OPENSLES_INPUT_H_
 

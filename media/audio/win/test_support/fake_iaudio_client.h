@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake IAudioClient header
+// summary: Declares a mock of the IAudioClient COM interface, including a ClientType enum and a sequenced DataStreamer, for hardware-free WASAPI testing.
+// ---
+
 #ifndef MEDIA_AUDIO_WIN_TEST_SUPPORT_FAKE_IAUDIO_CLIENT_H_
 #define MEDIA_AUDIO_WIN_TEST_SUPPORT_FAKE_IAUDIO_CLIENT_H_
 

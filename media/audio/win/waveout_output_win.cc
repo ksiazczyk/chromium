@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: waveOut PCM audio output implementation
+// summary: Implements PCMWaveOutAudioOutputStream, which plays audio through the Windows waveOut API using event-driven buffer callbacks.
+// ---
+
 #include "media/audio/win/waveout_output_win.h"
 
 #include <array>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AAudio output stream class declaration
+// summary: Declares AAudioOutputStream, a MuteableAudioOutputStream that plays audio via the AAudio library and forwards data callbacks from the realtime audio thread.
+// ---
+
 #ifndef MEDIA_AUDIO_ANDROID_AAUDIO_OUTPUT_H_
 #define MEDIA_AUDIO_ANDROID_AAUDIO_OUTPUT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CRAS audio manager base unit tests
+// summary: Unit tests for AudioManagerCrasBase covering registration and deregistration of system AEC dump sources.
+// ---
+
 #include "media/audio/cras/audio_manager_cras_base.h"
 
 #include "base/test/task_environment.h"

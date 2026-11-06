@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS audio manager implementation
+// summary: Implements AudioManagerIOS, the iOS audio manager that creates input and output streams, queries device availability, and configures low-latency audio parameters.
+// ---
+
 #include "media/audio/ios/audio_manager_ios.h"
 
 #include <memory>

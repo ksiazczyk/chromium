@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PulseAudio input stream implementation
+// summary: Implements PulseAudioInputStream, which captures audio from PulseAudio sources with AGC, volume and mute support.
+// ---
+
 #include "media/audio/pulse/pulse_input.h"
 
 #include <stdint.h>

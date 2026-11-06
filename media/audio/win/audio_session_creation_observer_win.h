@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio session creation observer declaration
+// summary: Declares a COM observer class that invokes a callback when notified of a new audio session.
+// ---
+
 #ifndef MEDIA_AUDIO_WIN_AUDIO_SESSION_CREATION_OBSERVER_WIN_H_
 #define MEDIA_AUDIO_WIN_AUDIO_SESSION_CREATION_OBSERVER_WIN_H_
 

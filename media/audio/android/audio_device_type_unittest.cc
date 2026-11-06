@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AudioDeviceType unit tests
+// summary: Tests conversion of known integer values to AudioDeviceType and rejection of out-of-range values.
+// ---
+
 #include "media/audio/android/audio_device_type.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

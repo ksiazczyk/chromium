@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia audio manager implementation
+// summary: Implements the Fuchsia audio manager, enumerating devices via AudioDeviceEnumerator and creating input and output streams.
+// ---
+
 #include "media/audio/fuchsia/audio_manager_fuchsia.h"
 
 #include <lib/sys/cpp/component_context.h>

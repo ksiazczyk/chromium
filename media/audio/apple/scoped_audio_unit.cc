@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedAudioUnit implementation for Apple AudioUnit lifecycle
+// summary: Implements the ScopedAudioUnit RAII wrapper that creates, configures and disposes Apple AudioUnits for input or output use on Mac and iOS.
+// ---
+
 #include "media/audio/apple/scoped_audio_unit.h"
 
 #include "base/apple/osstatus_logging.h"

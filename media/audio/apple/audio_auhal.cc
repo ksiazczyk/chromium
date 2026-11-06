@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AUHAL audio output stream implementation
+// summary: Implements AUHALStream, the Apple AudioOutputStream built on the low-latency AUHAL Audio Unit, including stream format setup and surround channel mapping.
+// ---
+
 #include "media/audio/apple/audio_auhal.h"
 
 #include <CoreServices/CoreServices.h>

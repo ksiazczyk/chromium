@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows audio output unit tests
+// summary: Unit tests for Windows audio output streams, checking callback timing, error reporting and buffer behavior.
+// ---
+
 #include <windows.h>
 
 #include <mmsystem.h>

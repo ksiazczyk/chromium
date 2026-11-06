@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioManagerPulse class declaration
+// summary: Declares the AudioManagerPulse class that manages PulseAudio device enumeration and stream creation.
+// ---
+
 #ifndef MEDIA_AUDIO_PULSE_AUDIO_MANAGER_PULSE_H_
 #define MEDIA_AUDIO_PULSE_AUDIO_MANAGER_PULSE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows audio device enumeration header
+// summary: Declares functions that list Windows audio input and output device names and build device name suffixes for USB and Bluetooth devices.
+// ---
+
 #ifndef MEDIA_AUDIO_WIN_DEVICE_ENUMERATION_WIN_H_
 #define MEDIA_AUDIO_WIN_DEVICE_ENUMERATION_WIN_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenSL ES channel mask utilities
+// summary: Implements ChannelCountToSLESChannelMask, which guesses an OpenSL ES speaker mask for a given channel count on Android.
+// ---
+
 #include "media/audio/android/opensles_util.h"
 
 #include "base/logging.h"

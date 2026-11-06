@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioDeviceType enum header
+// summary: Defines an enum of Android audio device types mirroring android.media.AudioDeviceInfo constants, kept stable for histogram logging, plus an int conversion helper.
+// ---
+
 #ifndef MEDIA_AUDIO_ANDROID_AUDIO_DEVICE_TYPE_H_
 #define MEDIA_AUDIO_ANDROID_AUDIO_DEVICE_TYPE_H_
 

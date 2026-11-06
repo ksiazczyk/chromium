@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AudioManagerMac unit tests
+// summary: Unit tests for the macOS audio manager that mock Bluetooth and built-in devices to verify related device grouping.
+// ---
+
 #include "media/audio/mac/audio_manager_mac.h"
 
 #include "base/run_loop.h"

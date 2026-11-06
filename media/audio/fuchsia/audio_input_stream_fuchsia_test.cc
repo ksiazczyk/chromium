@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fuchsia audio input stream unit tests
+// summary: Unit tests for AudioInputStreamFuchsia using fake FIDL AudioCapturer and input settings services.
+// ---
+
 #include "media/audio/fuchsia/audio_input_stream_fuchsia.h"
 
 #include <fuchsia/media/cpp/fidl_test_base.h>

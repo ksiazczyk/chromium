@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Fuchsia audio directory metadata
+summary: Declares directory metadata for the Fuchsia audio code, mixing in the common Fuchsia build metadata.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android audio unit tests
+// summary: Unit tests for the Android audio manager and audio streams, covering input and output callbacks, device types and audio parameters using GMock and GTest.
+// ---
+
 #include <stdint.h>
 
 #include <memory>

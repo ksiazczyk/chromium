@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PulseAudio utility implementation
+// summary: Implements PulseAudio helpers such as mainloop and context lifecycle, channel position mapping, sink muting, stream creation, and hardware latency queries.
+// ---
+
 #include "media/audio/pulse/pulse_util.h"
 
 #include <stdint.h>

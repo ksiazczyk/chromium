@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows audio manager implementation
+// summary: Implements the Windows AudioManager, creating input and output streams, enumerating devices and handling WaveOut fallback.
+// ---
+
 #include "media/audio/win/audio_manager_win.h"
 
 #include <objbase.h>

@@ -7,6 +7,12 @@
 // CrasUnifiedStream object is *not* thread-safe and should only be used
 // from the audio thread.
 
+// ---docerion
+// type: source
+// title: CrasUnifiedStream class declaration for ChromeOS CRAS output
+// summary: Declares the CrasUnifiedStream AudioOutputStream for ChromeOS, which plays audio through the CRAS audio server and reports glitches and stream stats.
+// ---
+
 #ifndef MEDIA_AUDIO_CRAS_CRAS_UNIFIED_H_
 #define MEDIA_AUDIO_CRAS_CRAS_UNIFIED_H_
 

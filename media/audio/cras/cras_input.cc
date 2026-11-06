@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CRAS audio input stream implementation
+// summary: Implements CrasInputStream for audio capture via CRAS, including stream open, start, error handling, and metrics.
+// ---
+
 #include "media/audio/cras/cras_input.h"
 
 #include <inttypes.h>

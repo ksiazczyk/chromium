@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the CRAS audio directory
+summary: Points to the ChromeOS audio OWNERS file as the owners of the media/audio/cras directory.

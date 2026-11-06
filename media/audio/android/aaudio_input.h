@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AAudio input stream class declaration
+// summary: Declares AAudioInputStream, an AudioInputStream that records audio via the AAudio library and handles device changes and Bluetooth SCO requests.
+// ---
+
 #ifndef MEDIA_AUDIO_ANDROID_AAUDIO_INPUT_H_
 #define MEDIA_AUDIO_ANDROID_AAUDIO_INPUT_H_
 

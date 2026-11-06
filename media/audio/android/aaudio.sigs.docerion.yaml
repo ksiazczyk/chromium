@@ -1,0 +1,4 @@
+# Docerion header of aaudio.sigs.
+type: reference
+title: AAudio function signatures for dynamic loading
+summary: Lists the AAudio function signatures used by Chromium's media code on Android, serving as the specification input for generating dynamic loading stubs.

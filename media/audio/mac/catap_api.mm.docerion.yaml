@@ -1,0 +1,4 @@
+# Docerion header of catap_api.mm.
+type: source
+title: CatapApi implementation
+summary: Implements CatapApiImpl by forwarding each method to the corresponding real CoreAudio system API.

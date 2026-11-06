@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeWinWASAPIEnvironment implementation
+// summary: Implements the fake WASAPI environment that overrides ActivateAudioInterfaceAsync and simulates activation errors and timeouts for tests.
+// ---
+
 #include "media/audio/win/test_support/fake_win_wasapi_environment.h"
 
 #include <mmdeviceapi.h>

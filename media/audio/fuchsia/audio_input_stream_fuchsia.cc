@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia audio input stream implementation
+// summary: Implements audio capture on Fuchsia using AudioCapturer with a shared VMO payload buffer and mute-state watching.
+// ---
+
 #include "media/audio/fuchsia/audio_input_stream_fuchsia.h"
 
 #include <lib/sys/cpp/component_context.h>

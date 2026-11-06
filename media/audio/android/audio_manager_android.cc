@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioManagerAndroid implementation
+// summary: Implements the Android audio manager, enumerating audio devices and creating input and output streams through JNI and AAudio or OpenSLES backends.
+// ---
+
 #include "media/audio/android/audio_manager_android.h"
 
 #include <algorithm>

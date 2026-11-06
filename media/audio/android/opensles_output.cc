@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenSLESOutputStream implementation
+// summary: Implements PCM audio playback on Android using the OpenSLES player and buffer queue, with float format support and hardware latency handling.
+// ---
+
 #include "media/audio/android/opensles_output.h"
 
 #include <algorithm>

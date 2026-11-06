@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AVFoundationOutputStream header
+// summary: Declares an AudioOutputStream for macOS built on AVFoundation, supporting multichannel audio and Spatial Audio on AirPods.
+// ---
+
 #ifndef MEDIA_AUDIO_MAC_AVFOUNDATION_OUTPUT_STREAM_H_
 #define MEDIA_AUDIO_MAC_AVFOUNDATION_OUTPUT_STREAM_H_
 

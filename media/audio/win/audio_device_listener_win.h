@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioDeviceListenerWin class header
+// summary: Declares the IMMNotificationClient implementation that listens for default audio device changes and forwards them to AudioManagerWin, with rate limiting of events.
+// ---
+
 #ifndef MEDIA_AUDIO_WIN_AUDIO_DEVICE_LISTENER_WIN_H_
 #define MEDIA_AUDIO_WIN_AUDIO_DEVICE_LISTENER_WIN_H_
 
