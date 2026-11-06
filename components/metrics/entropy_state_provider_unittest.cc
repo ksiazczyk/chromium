@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EntropyStateProvider unit tests
+// summary: Unit tests verifying that EntropyStateProvider populates the system profile with all stored low entropy source values.
+// ---
+
 #include "components/metrics/entropy_state_provider.h"
 
 #include "components/metrics/metrics_pref_names.h"

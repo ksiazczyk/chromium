@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Motherboard details class
+// summary: Declares the Motherboard class holding optional manufacturer, model, and BIOS details read from the system.
+// ---
+
 #ifndef COMPONENTS_METRICS_MOTHERBOARD_H_
 #define COMPONENTS_METRICS_MOTHERBOARD_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MetricsStateManager implementation
+// summary: Implements MetricsStateManager, which manages the UMA client ID, low entropy sources, cloned install detection, and metrics state preferences.
+// ---
+
 #include "components/metrics/metrics_state_manager.h"
 
 #include <cstddef>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android metrics helper implementation
+// summary: Implements the AndroidMetricsHelper singleton that logs Android version code and CPU ABI bitness support histograms and persists the version code in local state.
+// ---
+
 #include "components/metrics/android_metrics_helper.h"
 
 #include <set>

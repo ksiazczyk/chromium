@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metrics service client interface header
+// summary: Declares the abstract MetricsServiceClient interface that abstracts embedder operations like product, locale, channel, and version for the metrics service.
+// ---
+
 #ifndef COMPONENTS_METRICS_METRICS_SERVICE_CLIENT_H_
 #define COMPONENTS_METRICS_METRICS_SERVICE_CLIENT_H_
 

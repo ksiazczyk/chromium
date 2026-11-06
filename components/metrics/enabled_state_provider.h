@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enabled state provider interface
+// summary: Declares the interface determining whether metrics collection and reporting are enabled based on user consent.
+// ---
+
 #ifndef COMPONENTS_METRICS_ENABLED_STATE_PROVIDER_H_
 #define COMPONENTS_METRICS_ENABLED_STATE_PROVIDER_H_
 

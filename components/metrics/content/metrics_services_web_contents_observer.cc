@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metrics services web contents observer implementation
+// summary: Implements a WebContents user-data observer that forwards load start and stop events and unresponsive renderer notifications via callbacks.
+// ---
+
 #include "components/metrics/content/metrics_services_web_contents_observer.h"
 
 #include "components/metrics/metrics_service.h"

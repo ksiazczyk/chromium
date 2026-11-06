@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Motherboard metrics provider
+// summary: Declares a metrics provider that adds motherboard manufacturer, model, and BIOS details to the system profile.
+// ---
+
 #ifndef COMPONENTS_METRICS_MOTHERBOARD_METRICS_PROVIDER_H_
 #define COMPONENTS_METRICS_MOTHERBOARD_METRICS_PROVIDER_H_
 

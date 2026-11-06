@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the demographics component
+summary: Defines the demographics static library, the unit_tests source set, and the test_support library with their sources and dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DailyEvent implementation
+// summary: Implements a daily interval timer that persists its last-fired time in prefs and notifies observers on first run, day elapsed or clock change.
+// ---
+
 #include "components/metrics/daily_event.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Metrics Internals Debug Page Build Rules
+summary: GN build rules that compile the metrics internals WebUI front end, the native handler static library, and its unit tests.

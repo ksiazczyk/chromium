@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Demographic metrics provider class declaration
+// summary: Declares the DemographicMetricsProvider class and its ProfileClient interface for reporting noised birth year and gender to metrics reports.
+// ---
+
 #ifndef COMPONENTS_METRICS_DEMOGRAPHICS_DEMOGRAPHIC_METRICS_PROVIDER_H_
 #define COMPONENTS_METRICS_DEMOGRAPHICS_DEMOGRAPHIC_METRICS_PROVIDER_H_
 

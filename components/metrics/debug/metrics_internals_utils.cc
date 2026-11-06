@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metrics internals utility implementations
+// summary: Implements helpers that translate channel, platform, CPU and form factor enums and build UMA, UKM, variations and stored seed summaries for the debug page.
+// ---
+
 #include "components/metrics/debug/metrics_internals_utils.h"
 
 #include <inttypes.h>

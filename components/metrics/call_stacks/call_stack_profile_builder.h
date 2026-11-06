@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CallStackProfileBuilder class declaration
+// summary: Declares the CallStackProfileBuilder profile builder and WorkIdRecorder interface used with the stack sampling profiler to produce uploaded profiles.
+// ---
+
 #ifndef COMPONENTS_METRICS_CALL_STACKS_CALL_STACK_PROFILE_BUILDER_H_
 #define COMPONENTS_METRICS_CALL_STACKS_CALL_STACK_PROFILE_BUILDER_H_
 

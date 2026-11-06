@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Metrics component GN build targets
+summary: Defines the GN build targets, sources and dependencies for the metrics component, including Android Java rules and installer-only subsets.

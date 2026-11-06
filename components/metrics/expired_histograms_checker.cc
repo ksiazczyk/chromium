@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Expired histograms checker implementation
+// summary: Implements a checker that decides whether a histogram hash should be recorded, skipping expired histograms except those explicitly allowlisted by name.
+// ---
+
 #include "components/metrics/expired_histograms_checker.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CallStackProfileCollector class declaration
+// summary: Declares the Mojo receiver class that collects sampled profiles from child processes for the metrics system.
+// ---
+
 #ifndef COMPONENTS_METRICS_CALL_STACKS_CALL_STACK_PROFILE_COLLECTOR_H_
 #define COMPONENTS_METRICS_CALL_STACKS_CALL_STACK_PROFILE_COLLECTOR_H_
 

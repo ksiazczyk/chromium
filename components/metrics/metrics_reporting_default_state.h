@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metrics reporting default state header
+// summary: Declares the EnableMetricsDefault enum and functions to register, record, and read the first-run metrics reporting default opt-in state.
+// ---
+
 #ifndef COMPONENTS_METRICS_METRICS_REPORTING_DEFAULT_STATE_H_
 #define COMPONENTS_METRICS_METRICS_REPORTING_DEFAULT_STATE_H_
 

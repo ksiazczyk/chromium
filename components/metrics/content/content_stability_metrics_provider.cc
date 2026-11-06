@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content stability metrics provider implementation
+// summary: Implements the provider that logs Chrome-specific stability metrics from child process launches, crashes and renderer hosted content types.
+// ---
+
 #include "components/metrics/content/content_stability_metrics_provider.h"
 
 #include "base/check.h"

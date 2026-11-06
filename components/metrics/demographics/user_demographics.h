@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User demographics constants and declarations
+// summary: Declares demographics pref names, noise and age constants, the UserDemographics struct, and result and status types used for metrics reporting.
+// ---
+
 #ifndef COMPONENTS_METRICS_DEMOGRAPHICS_USER_DEMOGRAPHICS_H_
 #define COMPONENTS_METRICS_DEMOGRAPHICS_USER_DEMOGRAPHICS_H_
 

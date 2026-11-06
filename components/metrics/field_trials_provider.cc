@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Field trials metrics provider implementation
+// summary: Implements a metrics provider that writes active field trials, synthetic trials, and variations seed information into the system profile of metrics reports.
+// ---
+
 #include "components/metrics/field_trials_provider.h"
 
 #include <optional>

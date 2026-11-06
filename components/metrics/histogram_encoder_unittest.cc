@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Histogram encoder unit tests
+// summary: Unit tests verifying bucket field omission optimizations and the histogram denylist behavior of the histogram encoder.
+// ---
+
 #include "components/metrics/histogram_encoder.h"
 
 #include <string>

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Metrics component code owners
+summary: Lists code owners for the metrics directory, including per-file owner rules for BUILD.gn, DEPS and profile metrics service files.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Expired histogram utility implementation
+// summary: Implements EnableExpiryChecker, which activates the expired histograms record checker when its field trial feature is enabled.
+// ---
+
 #include "components/metrics/expired_histogram_util.h"
 
 #include "base/containers/span.h"

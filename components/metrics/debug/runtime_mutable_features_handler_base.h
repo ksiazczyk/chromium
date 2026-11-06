@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Runtime Mutable Features Handler Base Header
+// summary: Declares the platform-agnostic handler class backing the Runtime-Mutable-Features tab of the metrics internals debug page, covering feature fetching, seed fetching pause state, and seed upload message handling.
+// ---
+
 #ifndef COMPONENTS_METRICS_DEBUG_RUNTIME_MUTABLE_FEATURES_HANDLER_BASE_H_
 #define COMPONENTS_METRICS_DEBUG_RUNTIME_MUTABLE_FEATURES_HANDLER_BASE_H_
 

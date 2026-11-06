@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DailyEvent header for once-per-day event throttling
+// summary: Declares the DailyEvent class that throttles an event to about once per day, notifying registered observers via CheckInterval and storing the last fired time in a preference.
+// ---
+
 #ifndef COMPONENTS_METRICS_DAILY_EVENT_H_
 #define COMPONENTS_METRICS_DAILY_EVENT_H_
 

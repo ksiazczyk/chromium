@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System profile user stream implementation
+// summary: Implements SystemProfileUserStream, writing the serialized system profile proto into shared memory for Crashpad minidumps and recording overflow metrics.
+// ---
+
 #include "components/metrics/system_profile_user_stream.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metrics service client implementation
+// summary: Implements MetricsServiceClient defaults, including per-platform log trimming thresholds and upload interval handling for the metrics system.
+// ---
+
 #include "components/metrics/metrics_service_client.h"
 
 #include <algorithm>

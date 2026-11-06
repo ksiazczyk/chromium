@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metrics log implementation
+// summary: Implements MetricsLog, which assembles user experience metrics data such as system profile, histogram samples, and user actions for upload to the server.
+// ---
+
 
 #include "components/metrics/metrics_log.h"
 

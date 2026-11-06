@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metrics reporting default state implementation
+// summary: Implements registration and accessors for the pref that records whether the first-run metrics reporting checkbox defaulted to opt-in or opt-out.
+// ---
+
 #include "components/metrics/metrics_reporting_default_state.h"
 
 #include "components/metrics/metrics_pref_names.h"

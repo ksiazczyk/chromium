@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clean exit beacon implementation
+// summary: Implements the beacon that detects whether the previous browser session exited cleanly, including crash streak tracking, beacon file handling, and Windows registry backup checks.
+// ---
+
 #include "components/metrics/clean_exit_beacon.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android metrics helper unit tests
+// summary: Unit tests verifying AndroidMetricsHelper version code parsing, CPU ABI bitness values and histogram emission for current and previous sessions.
+// ---
+
 #include "components/metrics/android_metrics_helper.h"
 
 #include <memory>

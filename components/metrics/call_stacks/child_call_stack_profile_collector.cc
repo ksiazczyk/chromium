@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChildCallStackProfileCollector implementation
+// summary: Implements collection of child-process stack profiles, caching them until the parent CallStackProfileCollector mojo interface becomes available.
+// ---
+
 #include "components/metrics/call_stacks/child_call_stack_profile_collector.h"
 
 #include <utility>

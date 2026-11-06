@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Install date provider implementation
+// summary: Reads the install date from local state prefs and reports it rounded to hour granularity in the system profile metrics.
+// ---
+
 #include "components/metrics/install_date_provider.h"
 
 #include "base/logging.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UKM demographic metrics provider interface
+// summary: Declares an interface for providing a synced user's noised birth year and gender to UKM metrics reports, kept temporarily to break a dependency cycle.
+// ---
+
 #ifndef COMPONENTS_METRICS_UKM_DEMOGRAPHIC_METRICS_PROVIDER_H_
 #define COMPONENTS_METRICS_UKM_DEMOGRAPHIC_METRICS_PROVIDER_H_
 

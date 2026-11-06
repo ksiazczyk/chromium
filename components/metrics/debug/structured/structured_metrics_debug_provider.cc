@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Structured metrics debug provider implementation
+// summary: Implements the provider that resolves project and event names via validators and converts recorded structured metrics events and metrics into displayable values.
+// ---
+
 #include "components/metrics/debug/structured/structured_metrics_debug_provider.h"
 
 #include <optional>

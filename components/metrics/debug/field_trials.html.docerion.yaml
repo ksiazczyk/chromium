@@ -1,0 +1,4 @@
+# Docerion header of field_trials.html.
+type: source
+title: Field trials tab HTML template
+summary: HTML template for the field trials tab, providing styling and layout for search, manual enrollment and trial group display.

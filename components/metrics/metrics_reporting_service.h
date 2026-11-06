@@ -4,6 +4,12 @@
 
 // This file defines a service that sends metrics logs to a server.
 
+// ---docerion
+// type: source
+// title: UMA metrics reporting service header
+// summary: Declares MetricsReportingService, the concrete ReportingService for UMA logs that uses a MetricsLogStore and reports to the UMA endpoint.
+// ---
+
 #ifndef COMPONENTS_METRICS_METRICS_REPORTING_SERVICE_H_
 #define COMPONENTS_METRICS_METRICS_REPORTING_SERVICE_H_
 

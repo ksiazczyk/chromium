@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU metrics provider implementation
+// summary: Supplies GPU hardware details such as vendor and device IDs to the system profile and logs Vulkan support on Android.
+// ---
+
 #include "components/metrics/content/gpu_metrics_provider.h"
 
 #include "base/metrics/histogram_macros.h"

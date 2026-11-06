@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MetricsLogsEventManager header
+// summary: Declares MetricsLogsEventManager with log event and creation reason enums, an observer interface, and a scoped helper for notifying observers about UMA log activity.
+// ---
+
 #ifndef COMPONENTS_METRICS_METRICS_LOGS_EVENT_MANAGER_H_
 #define COMPONENTS_METRICS_METRICS_LOGS_EVENT_MANAGER_H_
 

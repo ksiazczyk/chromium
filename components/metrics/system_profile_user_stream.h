@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System profile user stream interface
+// summary: Declares SystemProfileUserStream, a singleton managing the shared memory minidump user stream that exposes the SystemProfile to the crash handler.
+// ---
+
 #ifndef COMPONENTS_METRICS_SYSTEM_PROFILE_USER_STREAM_H_
 #define COMPONENTS_METRICS_SYSTEM_PROFILE_USER_STREAM_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of private_metrics.html.
+type: source
+title: Private metrics summary table
+summary: HTML fragment defining a striped table that displays the private metrics summary on the debug page.

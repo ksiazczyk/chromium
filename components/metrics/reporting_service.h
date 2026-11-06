@@ -4,6 +4,12 @@
 
 // This file defines a service that sends metrics logs to a server.
 
+// ---docerion
+// type: source
+// title: Reporting service header
+// summary: Declares the abstract ReportingService that uploads serialized logs from a LogStore to a remote server.
+// ---
+
 #ifndef COMPONENTS_METRICS_REPORTING_SERVICE_H_
 #define COMPONENTS_METRICS_REPORTING_SERVICE_H_
 

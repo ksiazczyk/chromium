@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Call stack profile encoding conversions
+// summary: Implements conversions between profiler process, thread, and trigger event types and their metrics proto and Mojo enum counterparts.
+// ---
+
 #include "components/metrics/call_stacks/call_stack_profile_encoding.h"
 
 #include "base/notreached.h"

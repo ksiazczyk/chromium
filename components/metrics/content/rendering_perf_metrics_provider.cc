@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenderingPerfMetricsProvider implementation
+// summary: Implements the rendering performance metrics provider that records GPU device performance info histograms into the current UMA session data.
+// ---
+
 #include "components/metrics/content/rendering_perf_metrics_provider.h"
 
 #include "gpu/config/gpu_util.h"

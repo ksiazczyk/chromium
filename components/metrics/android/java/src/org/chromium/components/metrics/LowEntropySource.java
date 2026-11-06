@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LowEntropySource
+// summary: Android Java class that generates and statically caches a non-identifying low entropy source value for native metrics code and first-run experiments, with guards preventing use after first run completes.
+// ---
+
 package org.chromium.components.metrics;
 
 import android.content.SharedPreferences;

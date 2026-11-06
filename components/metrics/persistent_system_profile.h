@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Persistent system profile header
+// summary: Declares the PersistentSystemProfile class that manages a copy of the system profile in persistent memory allocators.
+// ---
+
 #ifndef COMPONENTS_METRICS_PERSISTENT_SYSTEM_PROFILE_H_
 #define COMPONENTS_METRICS_PERSISTENT_SYSTEM_PROFILE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the structured metrics debug folder
+summary: Delegates ownership of the debug folder by pointing to the OWNERS file of components/metrics/structured.

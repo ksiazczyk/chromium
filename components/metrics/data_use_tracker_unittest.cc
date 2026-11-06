@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DataUseTracker unit tests
+// summary: Unit tests for DataUseTracker verifying usage pref updates, expired entry removal, total data use computation, and cellular upload decisions with fixed dates.
+// ---
+
 #include "components/metrics/data_use_tracker.h"
 
 #include "base/time/time.h"

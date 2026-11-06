@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drive metrics provider implementation
+// summary: Collects metrics about local drives, such as seek-time penalties, on a background thread and reports them in the system profile.
+// ---
+
 #include "components/metrics/drive_metrics_provider.h"
 
 #include "base/base_paths.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Non-Windows machine ID provider implementation
+// summary: Implements MachineIdProvider on non-Windows platforms using the hardware model name as the machine id.
+// ---
+
 #include "components/metrics/machine_id_provider.h"
 
 #include <stdint.h>

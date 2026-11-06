@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Single sample metrics Mojo implementation
+// summary: Implements Mojo-backed single sample metrics and initializes the process-wide single sample metrics factory.
+// ---
+
 #include "components/metrics/single_sample_metrics.h"
 
 #include <memory>

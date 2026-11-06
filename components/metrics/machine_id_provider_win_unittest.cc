@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Machine ID provider Windows unit tests
+// summary: Unit test verifying that the Windows machine ID provider returns a stable, non-empty machine identifier.
+// ---
+
 #include "components/metrics/machine_id_provider.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

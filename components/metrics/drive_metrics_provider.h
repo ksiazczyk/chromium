@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drive metrics provider header
+// summary: Declares DriveMetricsProvider, which reports whether the app and user data drives incur a seek-time penalty as part of metrics.
+// ---
+
 #ifndef COMPONENTS_METRICS_DRIVE_METRICS_PROVIDER_H_
 #define COMPONENTS_METRICS_DRIVE_METRICS_PROVIDER_H_
 

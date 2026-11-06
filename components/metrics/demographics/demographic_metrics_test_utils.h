@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Demographic metrics test helpers header
+// summary: Declares helpers and parameters for browser tests of user demographic metrics reporting, including fake sync server and log inspection utilities.
+// ---
+
 #ifndef COMPONENTS_METRICS_DEMOGRAPHICS_DEMOGRAPHIC_METRICS_TEST_UTILS_H_
 #define COMPONENTS_METRICS_DEMOGRAPHICS_DEMOGRAPHIC_METRICS_TEST_UTILS_H_
 

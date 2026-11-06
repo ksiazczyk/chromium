@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MetricsLogUploader interface
+// summary: Declares the abstract MetricsLogUploader base class that MetricsService uses to upload UMA logs with hash and signature validation and per-service type selection.
+// ---
+
 #ifndef COMPONENTS_METRICS_METRICS_LOG_UPLOADER_H_
 #define COMPONENTS_METRICS_METRICS_LOG_UPLOADER_H_
 

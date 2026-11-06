@@ -118,6 +118,12 @@
 //
 //------------------------------------------------------------------------------
 
+// ---docerion
+// type: source
+// title: MetricsService implementation
+// summary: Implements the central MetricsService controller that collects, stores, and transmits UMA log data to an external server.
+// ---
+
 #include "components/metrics/metrics_service.h"
 
 #include <stddef.h>

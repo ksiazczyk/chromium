@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stability metrics provider implementation
+// summary: Implements StabilityMetricsProvider, persisting launch, crash, and file metrics counts in prefs and providing them into the system profile stability log.
+// ---
+
 #include "components/metrics/stability_metrics_provider.h"
 
 #include <string>

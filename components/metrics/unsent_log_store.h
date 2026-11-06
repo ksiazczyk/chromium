@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unsent log store header
+// summary: Declares the UnsentLogStore class that maintains unsent metrics logs written to and restored from disk, including configurable store limits.
+// ---
+
 #ifndef COMPONENTS_METRICS_UNSENT_LOG_STORE_H_
 #define COMPONENTS_METRICS_UNSENT_LOG_STORE_H_
 

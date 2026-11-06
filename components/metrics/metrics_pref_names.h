@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metrics preference name constants
+// summary: Defines preference name constants for the metrics component, including client IDs, install date, initial and ongoing log prefs, and entropy randomization sources.
+// ---
+
 #ifndef COMPONENTS_METRICS_METRICS_PREF_NAMES_H_
 #define COMPONENTS_METRICS_METRICS_PREF_NAMES_H_
 

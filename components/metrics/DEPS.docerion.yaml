@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Metrics component dependency rules
+summary: Restricts include dependencies for the metrics component to a minimal set, with specific exceptions such as protobuf use in log_decoder.cc.

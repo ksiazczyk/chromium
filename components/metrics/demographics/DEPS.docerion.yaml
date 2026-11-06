@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the demographics component
+summary: Grants the demographics component include access to network time, prefs, sync, sync preferences, and Google API dependencies.

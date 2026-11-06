@@ -2,6 +2,13 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 // <if expr="is_ios">
+
+// ---docerion
+// type: source
+// title: Metrics Internals App Element
+// summary: TypeScript web component that renders the metrics internals page, polling UMA, UKM, and variations summaries and handling seed info and log export.
+// ---
+
 import 'chrome://resources/js/ios/web_ui.js';
 // </if>
 

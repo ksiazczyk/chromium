@@ -4,6 +4,12 @@
 
 // ReportingService specialized to report UMA metrics.
 
+// ---docerion
+// type: source
+// title: UMA metrics reporting service implementation
+// summary: Implements MetricsReportingService, a ReportingService specialization that uploads UMA metrics logs to the metrics server and records upload-related histograms.
+// ---
+
 #include "components/metrics/metrics_reporting_service.h"
 
 #include <string_view>

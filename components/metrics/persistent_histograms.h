@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Persistent histograms API
+// summary: Declares the feature, storage parameters, and functions for instantiating and cleaning up persistent histograms and browser metrics.
+// ---
+
 #ifndef COMPONENTS_METRICS_PERSISTENT_HISTOGRAMS_H_
 #define COMPONENTS_METRICS_PERSISTENT_HISTOGRAMS_H_
 

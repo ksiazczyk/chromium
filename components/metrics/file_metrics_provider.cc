@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File metrics provider implementation
+// summary: Implements a provider that gathers and uploads histograms and system profiles written to atomic or active metric files on disk.
+// ---
+
 #include "components/metrics/file_metrics_provider.h"
 
 #include <stddef.h>

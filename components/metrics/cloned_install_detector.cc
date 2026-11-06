@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClonedInstallDetector implementation
+// summary: Implements cloned install detection by hashing a machine ID, comparing it to a stored pref value and logging UMA histograms for the outcome.
+// ---
+
 #include "components/metrics/cloned_install_detector.h"
 
 #include <stdint.h>

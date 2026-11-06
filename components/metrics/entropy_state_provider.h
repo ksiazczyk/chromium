@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EntropyStateProvider class header
+// summary: Declares an EarlySafeMetricsProvider subclass that adds low entropy source information to the system profile in client metrics reports.
+// ---
+
 #ifndef COMPONENTS_METRICS_ENTROPY_STATE_PROVIDER_H_
 #define COMPONENTS_METRICS_ENTROPY_STATE_PROVIDER_H_
 

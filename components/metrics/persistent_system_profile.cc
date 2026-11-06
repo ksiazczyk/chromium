@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Persistent system profile implementation
+// summary: Implements storage and retrieval of a system profile, including field trial records, inside persistent memory allocator segments.
+// ---
+
 #include "components/metrics/persistent_system_profile.h"
 
 #include <set>

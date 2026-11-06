@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Log decoder implementation
+// summary: Implements gzip decompression of compressed metrics log data, optionally parsing the result into a protobuf message.
+// ---
+
 #include "components/metrics/log_decoder.h"
 
 #include "third_party/protobuf/src/google/protobuf/message_lite.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metrics upload scheduler
+// summary: Declares MetricsUploadScheduler, which drives metrics log uploads with success intervals, retry backoff, and data usage cap handling.
+// ---
+
 #ifndef COMPONENTS_METRICS_METRICS_UPLOAD_SCHEDULER_H_
 #define COMPONENTS_METRICS_METRICS_UPLOAD_SCHEDULER_H_
 

@@ -9,6 +9,12 @@
 // Further, the reason why the URLs are provided through GRIT is for LGPL
 // compliance reasons.
 
+// ---docerion
+// type: source
+// title: Metrics server URL accessors
+// summary: Returns metrics, UKM, DWA, and Cast server URLs read from GRIT resources, with dashes interpreted as empty URLs.
+// ---
+
 #include "components/metrics/server_urls.h"
 
 #include <string>

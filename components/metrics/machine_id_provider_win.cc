@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows machine ID provider implementation
+// summary: Implements MachineIdProvider on Windows by querying the serial number of the drive Chrome runs from.
+// ---
+
 #include "components/metrics/machine_id_provider.h"
 
 #include <windows.h>

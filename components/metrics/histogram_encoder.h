@@ -5,6 +5,12 @@
 // This file defines an utility function that records any changes in a given
 // histogram for transmission.
 
+// ---docerion
+// type: source
+// title: Histogram encoder header
+// summary: Declares EncodeHistogramDelta and the HistogramDenylist feature for excluding histogram names from serialized metrics logs.
+// ---
+
 #ifndef COMPONENTS_METRICS_HISTOGRAM_ENCODER_H_
 #define COMPONENTS_METRICS_HISTOGRAM_ENCODER_H_
 

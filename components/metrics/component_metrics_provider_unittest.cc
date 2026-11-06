@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ComponentMetricsProvider unit tests
+// summary: Unit tests verifying that component metrics are written to the system profile with correct component IDs, versions, fingerprints and cohort hashes.
+// ---
+
 #include "components/metrics/component_metrics_provider.h"
 
 #include "base/hash/hash.h"

@@ -1,3 +1,13 @@
+---
+type: readme
+title: Metrics Internals Debug Page
+summary: A debug page that reports the state of metrics systems by displaying logs collected by UMA/UKM services, along with command line flags for exporting and inspecting them.
+relations:
+  - references /components/metrics/net/cellular_logic_helper.cc
+  - references /components/metrics/metrics_log.cc
+  - references /components/ukm/ukm_recorder_impl.cc
+---
+
 # Metrics Internals Debug Page
 
 **chrome://metrics-internals** is a debug page that reports the state of various

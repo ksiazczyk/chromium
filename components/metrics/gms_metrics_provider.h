@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GMS metrics provider header
+// summary: Declares the GmsMetricsProvider class that supplies Google Mobile Services metrics such as the installed version, currently used only on Android.
+// ---
+
 #ifndef COMPONENTS_METRICS_GMS_METRICS_PROVIDER_H_
 #define COMPONENTS_METRICS_GMS_METRICS_PROVIDER_H_
 

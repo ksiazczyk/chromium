@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metrics internals handler base implementation
+// summary: Implements the platform-agnostic WebUI handler that observes UMA and UKM logs and serves summaries, stored seed info, and encryption key data to the metrics debug page.
+// ---
+
 #include "components/metrics/debug/metrics_internals_handler_base.h"
 
 #include "base/functional/bind.h"

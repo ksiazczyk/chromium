@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Early metrics guard header
+// summary: Declares EarlyMetricsGuard, an RAII guard marking active early startup metrics recording so providers avoid double-counted histograms.
+// ---
+
 #ifndef COMPONENTS_METRICS_EARLY_METRICS_GUARD_H_
 #define COMPONENTS_METRICS_EARLY_METRICS_GUARD_H_
 

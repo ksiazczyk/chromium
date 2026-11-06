@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser proxy for the metrics internals page
+// summary: TypeScript browser proxy and data types used by the page to fetch summaries, logs, seed info and field trial state from the browser.
+// ---
+
 import {sendWithPromise} from 'chrome://resources/js/cr.js';
 
 import type {CwtKeyInfo} from './private_metrics.js';

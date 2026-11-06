@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User demographics prefs and noised birth year logic
+// summary: Implements reading of synced demographics prefs, birth year noise generation, and eligibility checks for reporting user birth year and gender.
+// ---
+
 #include "components/metrics/demographics/user_demographics.h"
 
 #include <optional>

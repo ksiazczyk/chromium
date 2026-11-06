@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Single sample metrics factory implementation
+// summary: Implements the single sample metrics factory that vends metrics over Mojo using per-thread providers stored in thread-local storage.
+// ---
+
 #include "components/metrics/single_sample_metrics_factory_impl.h"
 
 #include <memory>

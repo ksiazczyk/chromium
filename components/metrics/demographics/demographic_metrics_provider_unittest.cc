@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for DemographicMetricsProvider
+// summary: Unit tests covering how sync service states, profile counts, and the feature flag affect reporting of noised birth year and gender.
+// ---
+
 #include "components/metrics/demographics/demographic_metrics_provider.h"
 
 #include <memory>

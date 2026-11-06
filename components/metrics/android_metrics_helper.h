@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android metrics helper class declaration
+// summary: Declares the AndroidMetricsHelper class and the CpuAbiBitnessSupport enum used to log system-level information about Android devices.
+// ---
+
 #ifndef COMPONENTS_METRICS_ANDROID_METRICS_HELPER_H_
 #define COMPONENTS_METRICS_ANDROID_METRICS_HELPER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android unconditional persistent histograms field trial declarations
+// summary: Declares the trial name and functions to enroll clients, check Enabled-group membership, and report the cached group as a synthetic field trial.
+// ---
+
 #ifndef COMPONENTS_METRICS_ANDROID_UNCONDITIONAL_PERSISTENT_HISTOGRAMS_FIELD_TRIAL_H_
 #define COMPONENTS_METRICS_ANDROID_UNCONDITIONAL_PERSISTENT_HISTOGRAMS_FIELD_TRIAL_H_
 

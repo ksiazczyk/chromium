@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Metrics service client unit tests
+// summary: Unit tests verifying upload interval defaults, command-line overrides, DOS rate limiting, and per-platform storage limits for MetricsServiceClient.
+// ---
+
 #include "components/metrics/metrics_service.h"
 
 #include "base/command_line.h"

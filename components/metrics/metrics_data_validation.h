@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metrics data validation header
+// summary: Declares the pseudo metrics feature and transformation functions used to set up artificial A/B experiments for assessing field trial accuracy.
+// ---
+
 #ifndef COMPONENTS_METRICS_METRICS_DATA_VALIDATION_H_
 #define COMPONENTS_METRICS_METRICS_DATA_VALIDATION_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Stack sampling recorder unit tests
+// summary: Unit tests for StackSamplingRecorder that verify it writes a valid StackSampledMetricsStatus protobuf file containing per-process and per-thread collection counts.
+// ---
+
 #include "components/metrics/call_stacks/stack_sampling_recorder.h"
 
 #include <sys/file.h>

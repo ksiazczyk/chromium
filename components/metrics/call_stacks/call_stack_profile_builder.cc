@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Call stack profile builder implementation
+// summary: Implements CallStackProfileBuilder, which records sampled call stacks and metadata into a SampledProfile proto for upload via the metrics log.
+// ---
+
 #include "components/metrics/call_stacks/call_stack_profile_builder.h"
 
 #include <algorithm>

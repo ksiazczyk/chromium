@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metrics version utilities implementation
+// summary: Implements helpers that build the Chrome version string, map release channels to protobuf values, and report the app package name and operating system name for metrics system profiles.
+// ---
+
 #include "components/metrics/version_utils.h"
 
 #include "base/notreached.h"

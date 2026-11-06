@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EnvironmentRecorder implementation
+// summary: Implements serialization, storage, and loading of the system profile in prefs for stability logs, plus build time and version tracking.
+// ---
+
 #include "components/metrics/environment_recorder.h"
 
 #include "base/base64.h"

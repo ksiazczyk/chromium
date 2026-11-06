@@ -1,0 +1,4 @@
+# Docerion header of generate_expired_histograms_array.gni.
+type: script
+title: GN template for expired histograms array generation
+summary: GN build template that runs the expired histograms generation script to produce a header of expired histogram hashes from histogram XML files.

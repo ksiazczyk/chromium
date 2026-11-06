@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File metrics provider unit tests
+// summary: Unit tests covering FileMetricsProvider source types, file reading and deletion, delta recording, and merging of histograms from disk.
+// ---
+
 #include "components/metrics/file_metrics_provider.h"
 
 #include <array>

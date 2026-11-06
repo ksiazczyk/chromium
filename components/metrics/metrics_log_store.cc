@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metrics log store implementation
+// summary: Implements the metrics log store that persists and manages queues of unsent initial and ongoing logs in local state preferences.
+// ---
+
 #include "components/metrics/metrics_log_store.h"
 
 #include <string_view>

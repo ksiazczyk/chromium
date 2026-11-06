@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metrics shutdown implementation
+// summary: Implements the metrics Shutdown function that records a clean exit in the CleanExitBeacon and marks the persistent histogram allocator as completed.
+// ---
+
 #include "components/metrics/metrics_shutdown.h"
 
 #include "base/metrics/persistent_histogram_allocator.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Metrics features unit tests
+// summary: Unit test verifying that noop runtime mutable features gain runtime mutability when registered through EnableNoopRuntimeMutableFeatures.
+// ---
+
 #include "components/metrics/metrics_features.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Runtime mutable features WebUI element
+// summary: Custom element that lists runtime-mutable features with trial and override state, toggles seed fetching pause, and loads a seed file via the browser proxy.
+// ---
+
 import {CustomElement} from 'chrome://resources/js/custom_element.js';
 
 import type {MetricsInternalsBrowserProxy, RuntimeMutableFeature} from './browser_proxy.js';

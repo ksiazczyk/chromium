@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unsent log store metrics interface
+// summary: Defines the interface for recording metrics about the unsent log store, such as log read status, compression ratio, and dropped logs.
+// ---
+
 #ifndef COMPONENTS_METRICS_UNSENT_LOG_STORE_METRICS_H_
 #define COMPONENTS_METRICS_UNSENT_LOG_STORE_METRICS_H_
 

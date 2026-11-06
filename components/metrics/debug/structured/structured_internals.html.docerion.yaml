@@ -1,0 +1,4 @@
+# Docerion header of structured_internals.html.
+type: source
+title: Structured Metrics Internals page shell
+summary: Minimal HTML page that hosts the structured-metrics-internals-app element and loads its scripts for the Structured Metrics Internals page.

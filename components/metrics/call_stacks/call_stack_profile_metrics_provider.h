@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CallStackProfileMetricsProvider class header
+// summary: Declares the CallStackProfileMetricsProvider class that performs metrics logging for the stack sampling profiler, including profile receiving and testing hooks.
+// ---
+
 #ifndef COMPONENTS_METRICS_CALL_STACKS_CALL_STACK_PROFILE_METRICS_PROVIDER_H_
 #define COMPONENTS_METRICS_CALL_STACKS_CALL_STACK_PROFILE_METRICS_PROVIDER_H_
 

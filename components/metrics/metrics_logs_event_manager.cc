@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MetricsLogsEventManager implementation
+// summary: Implements MetricsLogsEventManager, notifying observers about log creation, log events, and log types, including the scoped log type notification helper.
+// ---
+
 #include "components/metrics/metrics_logs_event_manager.h"
 
 #include <string_view>

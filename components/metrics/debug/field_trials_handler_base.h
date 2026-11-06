@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FieldTrialsHandlerBase class declaration
+// summary: Declares the platform-agnostic FieldTrialsHandlerBase class that serves field trial state and enrollment overrides to the metrics-internals WebUI.
+// ---
+
 #ifndef COMPONENTS_METRICS_DEBUG_FIELD_TRIALS_HANDLER_BASE_H_
 #define COMPONENTS_METRICS_DEBUG_FIELD_TRIALS_HANDLER_BASE_H_
 

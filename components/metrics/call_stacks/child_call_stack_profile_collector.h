@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChildCallStackProfileCollector class header
+// summary: Declares ChildCallStackProfileCollector, which caches child-process stack profiles and forwards them to the parent collector interface once it is set.
+// ---
+
 #ifndef COMPONENTS_METRICS_CALL_STACKS_CHILD_CALL_STACK_PROFILE_COLLECTOR_H_
 #define COMPONENTS_METRICS_CALL_STACKS_CHILD_CALL_STACK_PROFILE_COLLECTOR_H_
 

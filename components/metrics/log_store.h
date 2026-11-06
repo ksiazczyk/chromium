@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Log store interface
+// summary: Defines the LogStore interface for staging, hashing, persisting, and discarding serialized unsent metrics logs.
+// ---
+
 #ifndef COMPONENTS_METRICS_LOG_STORE_H_
 #define COMPONENTS_METRICS_LOG_STORE_H_
 

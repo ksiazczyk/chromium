@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Structured metrics internals handler base implementation
+// summary: Implements handlers that return recorded structured metrics events and the service summary to the internals page through a delegate callback.
+// ---
+
 #include "components/metrics/debug/structured/structured_metrics_internals_handler_base.h"
 
 #include "base/values.h"

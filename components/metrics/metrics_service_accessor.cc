@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metrics service accessor implementation
+// summary: Implements helper methods for checking whether metrics reporting is enabled and registering synthetic field trials.
+// ---
+
 #include "components/metrics/metrics_service_accessor.h"
 
 #include <string_view>

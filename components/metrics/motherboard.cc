@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Motherboard details implementation
+// summary: Reads motherboard and BIOS details from DMI sysfs on Linux and via WMI on Windows for inclusion in metrics.
+// ---
+
 #include "components/metrics/motherboard.h"
 
 #include <optional>

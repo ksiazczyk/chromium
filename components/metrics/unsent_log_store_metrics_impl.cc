@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unsent log store metrics implementation
+// summary: Records UMA histograms for unsent log store events, including compression ratio, dropped logs, and feature-gated last unsent log metadata.
+// ---
+
 #include "components/metrics/unsent_log_store_metrics_impl.h"
 
 #include "base/metrics/histogram_functions.h"

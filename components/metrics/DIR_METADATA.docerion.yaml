@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Metrics component directory metadata
+summary: Declares directory metadata for the metrics component, including shared metadata mixins and the owning team email address.

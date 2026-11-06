@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the metrics content component
+summary: Defines allowed include dependencies for components/metrics/content, with a special rule permitting sandbox includes in the browser test.

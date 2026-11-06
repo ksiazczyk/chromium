@@ -1,0 +1,4 @@
+# Docerion header of metrics_internals.html.
+type: source
+title: Metrics Internals page shell
+summary: HTML shell for the metrics internals debug page that mounts the app custom element and loads the module script.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the content stability metrics provider
+// summary: Unit tests covering child process crash, launch and renderer stability metrics recorded by ContentStabilityMetricsProvider.
+// ---
+
 #include "components/metrics/content/content_stability_metrics_provider.h"
 
 #include "base/memory/raw_ptr.h"

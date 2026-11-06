@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ClonedInstallDetector unit tests
+// summary: Unit tests covering machine ID saving, clone detection, client ID reset behavior, session detection and cloned-install callbacks.
+// ---
+
 #include "components/metrics/cloned_install_detector.h"
 
 #include "base/callback_list.h"

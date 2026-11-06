@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Persistent system profile unit tests
+// summary: Unit tests covering record splitting, profile storage and overwriting, and field trial handling in PersistentSystemProfile.
+// ---
+
 #include "components/metrics/persistent_system_profile.h"
 
 #include <memory>

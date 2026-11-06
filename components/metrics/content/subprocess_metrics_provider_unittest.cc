@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SubprocessMetricsProvider unit tests
+// summary: Unit tests verifying that SubprocessMetricsProvider correctly merges histogram deltas from subprocess persistent histogram allocators.
+// ---
+
 #include "components/metrics/content/subprocess_metrics_provider.h"
 
 #include <memory>

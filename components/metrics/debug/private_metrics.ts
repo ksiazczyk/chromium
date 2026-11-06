@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Private metrics WebUI element
+// summary: Custom element for the private metrics debug page that fetches and tabulates the CWT encryption public key details, updating on key-change WebUI events.
+// ---
+
 import 'chrome://resources/cr_elements/cr_button/cr_button.js';
 
 import {addWebUiListener} from 'chrome://resources/js/cr.js';

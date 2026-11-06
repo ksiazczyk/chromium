@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CPUMetricsProvider implementation
+// summary: Fills the system profile's hardware CPU section with vendor name, signature, core counts and hypervisor status.
+// ---
+
 #include "components/metrics/cpu_metrics_provider.h"
 
 #include "base/cpu.h"

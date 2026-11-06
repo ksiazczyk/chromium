@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unsent log store metrics base implementation
+// summary: Provides default no-op implementations for the UnsentLogStoreMetrics interface and defines the kRecordLastUnsentLogMetadataMetrics feature.
+// ---
+
 #include "components/metrics/unsent_log_store_metrics.h"
 
 namespace metrics {

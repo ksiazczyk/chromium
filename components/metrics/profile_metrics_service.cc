@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile metrics service implementation
+// summary: Implements per-profile UMA logging by appending a profile index suffix to histogram names, combining indices above the maximum into one suffix.
+// ---
+
 #include "components/metrics/profile_metrics_service.h"
 
 #include "base/strings/stringprintf.h"

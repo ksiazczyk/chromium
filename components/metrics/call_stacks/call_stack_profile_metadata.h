@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CallStackProfileMetadata class header
+// summary: Declares the CallStackProfileMetadata helper class that maintains metadata state across samples and generates metadata proto messages for call stack profiles.
+// ---
+
 #ifndef COMPONENTS_METRICS_CALL_STACKS_CALL_STACK_PROFILE_METADATA_H_
 #define COMPONENTS_METRICS_CALL_STACKS_CALL_STACK_PROFILE_METADATA_H_
 

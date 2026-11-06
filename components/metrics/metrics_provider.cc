@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MetricsProvider implementation
+// summary: Implements default behavior for MetricsProvider methods such as providing histograms, current session and stability data, and system profile metrics.
+// ---
+
 #include "components/metrics/metrics_provider.h"
 
 #include "base/notreached.h"

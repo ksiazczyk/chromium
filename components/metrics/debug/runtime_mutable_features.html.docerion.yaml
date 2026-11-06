@@ -1,0 +1,4 @@
+# Docerion header of runtime_mutable_features.html.
+type: source
+title: Runtime mutable features tab template
+summary: HTML template for the Runtime-Mutable-Features tab with a feature table, pause/resume seed fetching controls, and a seed file picker.

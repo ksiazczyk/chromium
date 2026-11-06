@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenderingPerfMetricsProvider class header
+// summary: Declares RenderingPerfMetricsProvider, a MetricsProvider that supplies metrics related to rendering performance for each session.
+// ---
+
 #ifndef COMPONENTS_METRICS_CONTENT_RENDERING_PERF_METRICS_PROVIDER_H_
 #define COMPONENTS_METRICS_CONTENT_RENDERING_PERF_METRICS_PROVIDER_H_
 

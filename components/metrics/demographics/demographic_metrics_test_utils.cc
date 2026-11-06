@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Demographic metrics test helpers implementation
+// summary: Implements test helpers that inject demographics into a fake sync server, update network time, and build and inspect UMA logs in browser tests.
+// ---
+
 #include "components/metrics/demographics/demographic_metrics_test_utils.h"
 
 #include "base/strings/stringprintf.h"

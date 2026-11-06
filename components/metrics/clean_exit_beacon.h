@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clean exit beacon class declarations
+// summary: Declares the CleanExitBeacon class plus beacon consistency and state enums used to detect clean exits and track crash streaks across platforms.
+// ---
+
 #ifndef COMPONENTS_METRICS_CLEAN_EXIT_BEACON_H_
 #define COMPONENTS_METRICS_CLEAN_EXIT_BEACON_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CallStackProfileMetadata unit tests
+// summary: Unit tests verifying recording, application, and edge-triggered encoding of metadata items handled by CallStackProfileMetadata.
+// ---
+
 #include "components/metrics/call_stacks/call_stack_profile_metadata.h"
 
 #include <algorithm>

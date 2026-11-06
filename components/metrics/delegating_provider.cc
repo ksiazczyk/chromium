@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DelegatingProvider implementation
+// summary: Implements DelegatingProvider, which forwards all MetricsProvider lifecycle and data collection calls to its registered child providers.
+// ---
+
 #include "components/metrics/delegating_provider.h"
 
 #include "base/barrier_closure.h"

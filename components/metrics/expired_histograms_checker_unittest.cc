@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Expired histograms checker unit tests
+// summary: Unit tests verifying that ExpiredHistogramsChecker records non-expired histograms and honors the allowlist of expired histogram names.
+// ---
+
 #include "components/metrics/expired_histograms_checker.h"
 
 #include "base/metrics/metrics_hashes.h"

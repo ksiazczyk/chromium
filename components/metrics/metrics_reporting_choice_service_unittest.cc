@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Metrics reporting choice service unit tests
+// summary: Unit tests for MetricsReportingChoiceService covering pref registration, advanced reporting toggles, feature flag behavior, policy handling, and profile monitoring.
+// ---
+
 #include "components/metrics/metrics_reporting_choice_service.h"
 
 #include "base/test/gtest_util.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Expired histogram utility header
+// summary: Declares EnableExpiryChecker, which enables the histogram expiry checker based on a field trial and a list of expired histogram hashes.
+// ---
+
 #ifndef COMPONENTS_METRICS_EXPIRED_HISTOGRAM_UTIL_H_
 #define COMPONENTS_METRICS_EXPIRED_HISTOGRAM_UTIL_H_
 

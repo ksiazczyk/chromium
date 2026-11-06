@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sampling metrics provider implementation
+// summary: Implements a metrics provider that records the client sampling rate per mille as a UMA stability sparse histogram.
+// ---
+
 #include "components/metrics/sampling_metrics_provider.h"
 
 #include "base/metrics/histogram_base.h"

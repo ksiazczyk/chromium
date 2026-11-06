@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for user demographics prefs
+// summary: Unit tests verifying demographics result handling, pref registration, and noised birth year and gender reading from prefs.
+// ---
+
 #include "components/metrics/demographics/user_demographics.h"
 
 #include <utility>

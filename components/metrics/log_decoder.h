@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Log decoder interface
+// summary: Declares functions to decode gzip-compressed metrics logs, shielding other modules from the zlib dependency.
+// ---
+
 #ifndef COMPONENTS_METRICS_LOG_DECODER_H_
 #define COMPONENTS_METRICS_LOG_DECODER_H_
 

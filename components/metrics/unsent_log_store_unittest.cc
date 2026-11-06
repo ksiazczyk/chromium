@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unsent log store unit tests
+// summary: Unit tests for UnsentLogStore covering persistence to preferences, log trimming limits, compression, signing, and metadata metrics.
+// ---
+
 #include "components/metrics/unsent_log_store.h"
 
 #include <stddef.h>
