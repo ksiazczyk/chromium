@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Playback command forwarding renderer implementation
+// summary: Implements a media renderer that receives playback commands over Mojo and forwards them to the wrapped renderer for Cast streaming sessions.
+// ---
+
 #include "components/cast_streaming/renderer/control/playback_command_forwarding_renderer.h"
 
 #include "base/memory/raw_ptr.h"

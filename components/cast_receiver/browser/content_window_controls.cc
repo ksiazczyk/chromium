@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentWindowControls implementation
+// summary: Implements ContentWindowControls, managing visibility change observers and notifying them when the window is shown or hidden.
+// ---
+
 #include "components/cast_receiver/browser/public/content_window_controls.h"
 
 namespace cast_receiver {

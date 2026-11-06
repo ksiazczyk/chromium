@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Playback command forwarding renderer factory unit tests
+// summary: Unit tests verifying that the factory delegates renderer creation to the wrapped renderer factory with the expected arguments.
+// ---
+
 #include "components/cast_streaming/renderer/control/playback_command_forwarding_renderer_factory.h"
 
 #include <memory>

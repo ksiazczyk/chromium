@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Streaming input event observer unit tests
+// summary: Unit tests checking translation of mouse, touch, wheel and keyboard events into input protos, including positions, modifiers and action types.
+// ---
+
 #include "components/cast_receiver/browser/streaming_input_observer.h"
 
 #include <optional>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Cast receiver renderer dependency include rules
+summary: Lists the allowed include paths for the cast receiver renderer directory, covering media control, script injection, URL rewrite, content, network, and Blink dependencies.

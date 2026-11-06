@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android key system info class declaration
+// summary: Declares the AndroidKeySystemInfo class, a KeySystemInfo implementation for non-Widevine Android key systems.
+// ---
+
 #ifndef COMPONENTS_CDM_RENDERER_ANDROID_KEY_SYSTEM_INFO_H_
 #define COMPONENTS_CDM_RENDERER_ANDROID_KEY_SYSTEM_INFO_H_
 

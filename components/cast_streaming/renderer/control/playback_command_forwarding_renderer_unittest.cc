@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Playback command forwarding renderer unit tests
+// summary: Unit tests exercising the playback command forwarding renderer with mock Mojo renderer clients and mock media renderers.
+// ---
+
 #include "components/cast_streaming/renderer/control/playback_command_forwarding_renderer.h"
 
 #include "base/memory/raw_ptr.h"

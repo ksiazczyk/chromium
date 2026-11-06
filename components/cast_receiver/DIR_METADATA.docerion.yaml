@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Cast receiver issue tracker metadata
+summary: Maps the directory to the Internals>Cast>Receiver Monorail component and Buganizer component 1456374 for issue tracking.

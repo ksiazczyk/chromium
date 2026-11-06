@@ -35,6 +35,12 @@
 //!
 //! [1]: https://fidoalliance.org/specs/fido-v2.2-rd-20230321/fido-client-to-authenticator-protocol-v2.2-rd-20230321.html#ctap2-canonical-cbor-encoding-form
 
+// ---docerion
+// type: source
+// title: CBOR Rust crate root
+// summary: Crate root of the Rust CBOR parser implementing the CTAP2 subset, exposing parse, write and value APIs with injectivity guarantees.
+// ---
+
 #![no_std]
 #![forbid(unsafe_code)]
 

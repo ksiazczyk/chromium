@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the cast streaming renderer
+summary: Defines the include rules granting this directory access to media, mojo, gfx and URL dependencies.

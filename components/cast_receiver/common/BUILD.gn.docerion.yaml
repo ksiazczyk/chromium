@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build config for cast_receiver common
+summary: Defines the "common" source_set with status.cc and the public status.h header, depending on //base.

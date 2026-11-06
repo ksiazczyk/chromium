@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PlayReady key system info class declaration
+// summary: Declares the PlayReadyKeySystemInfo class, a KeySystemInfo implementation for hardware-secure PlayReady key systems.
+// ---
+
 #ifndef COMPONENTS_CDM_RENDERER_PLAYREADY_KEY_SYSTEM_INFO_H_
 #define COMPONENTS_CDM_RENDERER_PLAYREADY_KEY_SYSTEM_INFO_H_
 

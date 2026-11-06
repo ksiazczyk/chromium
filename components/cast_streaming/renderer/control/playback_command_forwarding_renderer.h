@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Playback command forwarding renderer class declaration
+// summary: Declares the media::Renderer wrapper that delegates initialization to an underlying renderer and applies playback commands received over Mojo.
+// ---
+
 #ifndef COMPONENTS_CAST_STREAMING_RENDERER_CONTROL_PLAYBACK_COMMAND_FORWARDING_RENDERER_H_
 #define COMPONENTS_CAST_STREAMING_RENDERER_CONTROL_PLAYBACK_COMMAND_FORWARDING_RENDERER_H_
 

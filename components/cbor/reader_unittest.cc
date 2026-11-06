@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CBOR reader unit tests
+// summary: Parameterized unit tests verifying the CBOR decoder against RFC 7049 test vectors, covering error handling and both the C++ and Rust parser paths.
+// ---
+
 #include "components/cbor/reader.h"
 
 #include <limits>

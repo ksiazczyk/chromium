@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Per-file owner rules for IPC message headers
+summary: Assigns security owners with no parent to *_messages*.h files in this directory.

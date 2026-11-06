@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PermissionsManagerImpl class header
+// summary: Declares PermissionsManagerImpl, which stores an app ID, permissions, and additional origins, and computes permission status for requested URLs.
+// ---
+
 #ifndef COMPONENTS_CAST_RECEIVER_BROWSER_PERMISSIONS_MANAGER_IMPL_H_
 #define COMPONENTS_CAST_RECEIVER_BROWSER_PERMISSIONS_MANAGER_IMPL_H_
 

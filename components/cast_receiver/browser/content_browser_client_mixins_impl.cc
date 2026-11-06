@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content browser client mixins implementation
+// summary: Implements the ContentBrowserClientMixins factory, delegating application state observation and URL loader throttle creation to ApplicationClient.
+// ---
+
 #include "components/cast_receiver/browser/content_browser_client_mixins_impl.h"
 
 #include "third_party/blink/public/common/loader/url_loader_throttle.h"

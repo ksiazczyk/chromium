@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: StreamingReceiverSessionClient unit tests
+// summary: Unit tests for StreamingReceiverSessionClient using mock streaming controller, handler, and config manager to verify streaming session launch behavior.
+// ---
+
 #include "components/cast_receiver/browser/streaming_receiver_session_client.h"
 
 #include "base/memory/raw_ptr.h"

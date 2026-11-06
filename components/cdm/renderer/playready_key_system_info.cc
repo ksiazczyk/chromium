@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PlayReady key system info implementation
+// summary: Implements KeySystemInfo for PlayReady key systems, supporting only hardware-secure codecs and robustness values such as 3000.
+// ---
+
 #include "components/cdm/renderer/playready_key_system_info.h"
 
 #include "base/logging.h"

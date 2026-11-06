@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for the CDM common library
+summary: Defines the cdm common static library, a PlayReady buildflag header, Android-specific sources, and the cdm_manifest unit test target.

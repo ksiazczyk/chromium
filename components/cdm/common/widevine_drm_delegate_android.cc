@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Widevine DRM delegate for Android implementation
+// summary: Implements the Android MediaDrm bridge delegate for Widevine, returning the Widevine UUID and extracting PSSH data from CENC init data when creating sessions.
+// ---
+
 #include "components/cdm/common/widevine_drm_delegate_android.h"
 
 #include <vector>

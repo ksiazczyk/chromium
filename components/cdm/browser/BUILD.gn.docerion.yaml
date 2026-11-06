@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the cdm browser source set
+summary: Defines the browser source set with MediaDrm storage sources and a unit_tests target, including visibility lists and dependencies, guarded by enable_media_drm_storage.

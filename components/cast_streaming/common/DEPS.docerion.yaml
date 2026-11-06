@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Cast streaming common include rules
+summary: DEPS file listing the directories that code in components/cast_streaming/common may include from, such as media, mojo, Open Screen cast, and url.

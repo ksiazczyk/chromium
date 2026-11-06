@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ResourceProviderImpl implementation
+// summary: Implements ResourceProviderImpl, which supplies per-render-frame Mojo bindings and a FrameInjectingDemuxer override for cast streaming playback.
+// ---
+
 #include "components/cast_streaming/renderer/resource_provider_impl.h"
 
 #include "base/functional/bind.h"

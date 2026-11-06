@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RuntimeApplicationBase header for shared runtime application behavior
+// summary: Declares RuntimeApplicationBase, which shares load, launch, and lifecycle behavior between the Web and streaming RuntimeApplication implementations of cast_receiver.
+// ---
+
 #ifndef COMPONENTS_CAST_RECEIVER_BROWSER_RUNTIME_APPLICATION_BASE_H_
 #define COMPONENTS_CAST_RECEIVER_BROWSER_RUNTIME_APPLICATION_BASE_H_
 

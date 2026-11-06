@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageStateObserver implementation
+// summary: Implements the WebContentsObserver wrapper for PageStateObserver, tracking main frame navigation to report page load completion, HTTP errors, and stop reasons.
+// ---
+
 #include "components/cast_receiver/browser/page_state_observer.h"
 
 #include "base/memory/raw_ptr.h"

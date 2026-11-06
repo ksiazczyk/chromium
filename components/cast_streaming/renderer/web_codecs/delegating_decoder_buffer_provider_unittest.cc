@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DelegatingDecoderBufferProvider unit tests
+// summary: Unit tests verifying that the delegating provider forwards config, buffer read, and invalidation callbacks and reports invalidity when the underlying provider is destroyed.
+// ---
+
 #include "components/cast_streaming/renderer/web_codecs/delegating_decoder_buffer_provider.h"
 
 #include <memory>

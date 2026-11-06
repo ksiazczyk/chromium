@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Streaming receiver channel class declaration
+// summary: Declares StreamingReceiverChannel, a MessagePort wrapper for transmitting Exo bootstrap and input messages over the primary Cast transport port.
+// ---
+
 #ifndef COMPONENTS_CAST_RECEIVER_BROWSER_STREAMING_RECEIVER_CHANNEL_H_
 #define COMPONENTS_CAST_RECEIVER_BROWSER_STREAMING_RECEIVER_CHANNEL_H_
 

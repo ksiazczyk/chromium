@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android CDM registration declarations
+// summary: Declares functions that add Widevine and other platform-supported Android content decryption modules to a CdmInfo list.
+// ---
+
 #ifndef COMPONENTS_CDM_COMMON_ANDROID_CDM_REGISTRATION_H_
 #define COMPONENTS_CDM_COMMON_ANDROID_CDM_REGISTRATION_H_
 

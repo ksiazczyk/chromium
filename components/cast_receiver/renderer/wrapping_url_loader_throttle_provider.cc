@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wrapping URL loader throttle provider implementation
+// summary: Implements WrappingURLLoaderThrottleProvider, which adds URL rewrite throttles to those produced by an optional wrapped throttle provider.
+// ---
+
 #include "components/cast_receiver/renderer/wrapping_url_loader_throttle_provider.h"
 
 #include <vector>

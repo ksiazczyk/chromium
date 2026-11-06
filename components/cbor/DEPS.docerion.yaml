@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for CBOR test files
+summary: Chromium DEPS file granting fuzz and performance test files access to fuzztest and web bundle builder headers.

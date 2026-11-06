@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Diagnostic notation writer implementation
+// summary: Serializes CBOR values into compact diagnostic notation strings, truncating bytestrings and output beyond a rough size limit.
+// ---
+
 #include "components/cbor/diagnostic_writer.h"
 
 #include <stddef.h>

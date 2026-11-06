@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the frame directory
+summary: DEPS file restricting includes within the renderer to the common, frame, and public subdirectories of cast streaming.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Application client header
+// summary: Declares ApplicationClient, which provides factory methods for cast application management classes and forwards application state observer callbacks.
+// ---
+
 #ifndef COMPONENTS_CAST_RECEIVER_BROWSER_APPLICATION_CLIENT_H_
 #define COMPONENTS_CAST_RECEIVER_BROWSER_APPLICATION_CLIENT_H_
 

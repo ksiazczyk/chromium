@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast streaming receiver session implementation
+// summary: Implements ReceiverSessionImpl, which starts Cast Streaming receiver sessions and delivers audio and video buffers to the renderer process over Mojo.
+// ---
+
 #include "components/cast_streaming/browser/receiver_session_impl.h"
 
 #include "base/task/sequenced_task_runner.h"

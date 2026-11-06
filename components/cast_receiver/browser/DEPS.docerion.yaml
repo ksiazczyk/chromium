@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for cast receiver browser
+summary: Specifies the allowed include dependencies for files in the cast receiver browser directory, with extra rules for unit test files.

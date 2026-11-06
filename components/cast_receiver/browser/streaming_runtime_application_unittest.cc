@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: StreamingRuntimeApplication unit tests
+// summary: Unit tests for StreamingRuntimeApplication covering launch with and without extended input using mock embedder application, message port service, and window controls.
+// ---
+
 #include "components/cast_receiver/browser/streaming_runtime_application.h"
 
 #include "base/test/mock_callback.h"

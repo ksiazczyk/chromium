@@ -1,3 +1,9 @@
+---
+type: readme
+title: Exo Input Protos
+summary: Explains that the proto files are synced from the google3 source of truth and must not be edited directly in Chromium.
+---
+
 # Exo Input Protos
 
 This directory contains the protocol buffer definitions used for sending/receiving Exo input events in the Cast Mirroring Receiver.

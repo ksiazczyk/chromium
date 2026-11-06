@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL rewrite rules provider implementation
+// summary: Implements UrlRewriteRulesProvider as a RenderFrameObserver that returns cached URL request rewrite rules and signals frame deletion via a callback.
+// ---
+
 #include "components/cast_receiver/renderer/url_rewrite_rules_provider.h"
 
 #include "base/functional/bind.h"

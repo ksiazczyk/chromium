@@ -1,0 +1,4 @@
+# Docerion header of cbor55.
+type: data
+title: CBOR reader fuzzer corpus entry cbor55
+summary: One-byte CBOR seed input for the CBOR reader fuzzer that encodes an empty text string.

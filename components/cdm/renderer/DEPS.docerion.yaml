@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the CDM renderer
+summary: Grants the CDM renderer directory include access to content/public/renderer and the Widevine buildflags header.

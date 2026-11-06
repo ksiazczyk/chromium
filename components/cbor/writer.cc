@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CBOR writer implementation
+// summary: Implements the CBOR encoder, including conversion to the optional Rust backend and UMA metrics for write success, size, and duration.
+// ---
+
 #include "components/cbor/writer.h"
 
 #include <cstdint>

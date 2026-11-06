@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentBrowserClientMixinsImpl wrapper class header
+// summary: Declares a wrapper around ApplicationClient that implements ContentBrowserClientMixins to break a circular header dependency, delegating all calls to ApplicationClient.
+// ---
+
 #ifndef COMPONENTS_CAST_RECEIVER_BROWSER_CONTENT_BROWSER_CLIENT_MIXINS_IMPL_H_
 #define COMPONENTS_CAST_RECEIVER_BROWSER_CONTENT_BROWSER_CLIENT_MIXINS_IMPL_H_
 

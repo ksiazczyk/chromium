@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for DecoderBufferProviderImpl
+// summary: Unit tests covering creation, invalidation callbacks, and buffer reading of DecoderBufferProviderImpl over a mojo data pipe.
+// ---
+
 #include "components/cast_streaming/renderer/common/decoder_buffer_provider_impl.h"
 
 #include <memory>

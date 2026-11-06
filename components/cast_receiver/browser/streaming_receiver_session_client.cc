@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Streaming receiver session client implementation
+// summary: Implements the session client that wires streaming controllers, network socket factories and streaming config observers to start Cast receiver streaming sessions.
+// ---
+
 #include "components/cast_receiver/browser/streaming_receiver_session_client.h"
 
 #include <algorithm>

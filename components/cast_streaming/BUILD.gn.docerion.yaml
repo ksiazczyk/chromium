@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Cast streaming build targets and unit tests
+summary: GN build file that defines the cast_streaming buildflag header and aggregates browser and renderer unit tests into the cast_streaming_unittests target.

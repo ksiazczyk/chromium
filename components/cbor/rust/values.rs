@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CBOR value and map types
+// summary: Defines the Value, Map, MapEntry and MapKey types with kind and accessor methods used to represent CBOR structures.
+// ---
+
 // TODO(crbug.com/262737383): When Crubit supports generating C++ pattern
 // matching and accessor logic for non-repr(C) Rust ADT enums (like `Value` and
 // `MapKey`), remove all manual inspection (`kind()`) and payload extraction

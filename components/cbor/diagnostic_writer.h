@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Diagnostic notation writer header
+// summary: Declares WriteDiagnostic, which converts a CBOR value to a diagnostic notation string with an optional output size bound.
+// ---
+
 #ifndef COMPONENTS_CBOR_DIAGNOSTIC_WRITER_H_
 #define COMPONENTS_CBOR_DIAGNOSTIC_WRITER_H_
 

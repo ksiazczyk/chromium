@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CBOR protocol constants
+// summary: Defines CBOR major types, additional information values, simple values and the maximum parse depth as specified in RFC 8949.
+// ---
+
 // CBOR Major Types (RFC 8949 Section 3.1)
 // https://datatracker.ietf.org/doc/html/rfc8949#section-3.1
 pub(crate) const MAJOR_TYPE_UNSIGNED_INT: u8 = 0;

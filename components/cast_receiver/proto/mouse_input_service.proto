@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mouse input service proto
+// summary: Defines the MouseEvent protobuf message for mouse input, covering action types, buttons, position and movement ratios relative to the display, and pressed modifier keys.
+// ---
+
 syntax = "proto3";
 
 package cast_receiver;

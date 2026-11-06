@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReceiverConfig class implementation
+// summary: Implements constructors, destructors and assignment operators for the ReceiverConfig class holding supported codecs, limits and display description for a Cast receiver.
+// ---
+
 #include "components/cast_streaming/browser/public/receiver_config.h"
 
 #include <utility>

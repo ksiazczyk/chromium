@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClearKey MediaDrm delegate class declaration
+// summary: Declares a MediaDrmBridgeDelegate subclass that provides the ClearKey UUID for Android DRM support.
+// ---
+
 #ifndef COMPONENTS_CDM_COMMON_CLEARKEY_DRM_DELEGATE_ANDROID_H_
 #define COMPONENTS_CDM_COMMON_CLEARKEY_DRM_DELEGATE_ANDROID_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Renderer RPC call translator implementation
+// summary: Implements translation between Open Screen remoting RPC messages and local media mojo renderer API calls such as initialize, flush, playback rate, and volume.
+// ---
+
 #include "components/cast_streaming/browser/control/remoting/renderer_rpc_call_translator.h"
 
 #include "media/cast/openscreen/remoting_message_factories.h"

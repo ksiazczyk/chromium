@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Renderer control multiplexer implementation
+// summary: Implements RendererControlMultiplexer, forwarding playback calls from multiple controllers over a single mojo pipe to the media Renderer.
+// ---
+
 #include "components/cast_streaming/browser/control/renderer_control_multiplexer.h"
 
 #include "base/notimplemented.h"

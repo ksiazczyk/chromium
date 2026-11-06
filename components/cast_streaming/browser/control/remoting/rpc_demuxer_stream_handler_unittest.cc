@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the RPC demuxer stream handler
+// summary: Verifies that RpcDemuxerStreamHandler sends correct demuxer stream RPCs such as initialize, read until, on error and enable bitstream converter for audio and video streams.
+// ---
+
 #include "components/cast_streaming/browser/control/remoting/rpc_demuxer_stream_handler.h"
 
 #include <memory>

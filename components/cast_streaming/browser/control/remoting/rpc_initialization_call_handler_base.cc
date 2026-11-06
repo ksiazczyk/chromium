@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the RPC initialization call handler base
+// summary: Implements the base class that responds to AcquireRenderer RPC calls and sends back an AcquireRendererDone message via the message processor callback.
+// ---
+
 #include "components/cast_streaming/browser/control/remoting/rpc_initialization_call_handler_base.h"
 
 #include "base/functional/bind.h"

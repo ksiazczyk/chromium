@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CDM manifest parsing and compatibility checks
+// summary: Parses CDM manifest files, validating x-cdm version, codec, persistent license, and encryption scheme entries against what the Chrome binary supports.
+// ---
+
 #include "components/cdm/common/cdm_manifest.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CBOR writer unit tests
+// summary: GTest unit tests verifying CBOR encoding of integers, byte strings, strings, arrays, maps, simple values and map key canonicalization.
+// ---
+
 use cbor::*;
 use rust_gtest_interop::prelude::*;
 

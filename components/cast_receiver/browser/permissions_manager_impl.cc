@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PermissionsManagerImpl implementation
+// summary: Implements PermissionsManagerImpl, a per-WebContents singleton that grants permissions to an app ID and additional origins and reports permission status.
+// ---
+
 #include "components/cast_receiver/browser/permissions_manager_impl.h"
 
 #include <algorithm>

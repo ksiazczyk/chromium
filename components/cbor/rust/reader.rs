@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CBOR reader and decoder
+// summary: Implements CBOR parsing into Value results, with Error, Config, Decoder and ParseResult types for the CTAP2 subset.
+// ---
+
 use alloc::vec::Vec;
 
 use crate::constants::*;

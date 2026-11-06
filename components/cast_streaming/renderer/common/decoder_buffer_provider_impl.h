@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DecoderBufferProviderImpl for single-config buffer processing
+// summary: Declares DecoderBufferProviderImpl, a synchronous DecoderBufferProvider implementation that reads decoder buffers from a mojo data pipe for a single config.
+// ---
+
 #ifndef COMPONENTS_CAST_STREAMING_RENDERER_COMMON_DECODER_BUFFER_PROVIDER_IMPL_H_
 #define COMPONENTS_CAST_STREAMING_RENDERER_COMMON_DECODER_BUFFER_PROVIDER_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for CDM manifest parsing
+// summary: Unit tests verifying parsing and compatibility checking of CDM manifests, covering versions, codecs, persistent license support, and encryption schemes.
+// ---
+
 #include "components/cdm/common/cdm_manifest.h"
 
 #include <stdint.h>

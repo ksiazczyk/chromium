@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remoting streaming controller implementation
+// summary: Implements playback startup for the remoting streaming controller, enabling remoting in the receiver config and handing the renderer connection to the session.
+// ---
+
 #include "components/cast_receiver/browser/streaming_controller_remoting.h"
 
 #include "components/cast/message_port/message_port.h"

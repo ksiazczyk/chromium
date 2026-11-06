@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Streaming receiver app ID check
+// summary: Implements IsStreamingReceiverAppId, delegating to Open Screen to detect whether an app ID is a Cast streaming receiver app ID.
+// ---
+
 #include "components/cast_streaming/common/public/app_ids.h"
 
 #include <string_view>

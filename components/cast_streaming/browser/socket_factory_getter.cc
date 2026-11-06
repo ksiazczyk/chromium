@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Socket factory getter wrapper
+// summary: Forwards Set, Clear and IsSet calls to the Open Screen platform socket factory getter used to supply sockets for Cast Streaming.
+// ---
+
 #include "components/cast_streaming/browser/public/socket_factory_getter.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRuntimeApplication class header
+// summary: Declares WebRuntimeApplication, a runtime application for web-based Cast apps that manages bindings, page state, and media playback notifications.
+// ---
+
 #ifndef COMPONENTS_CAST_RECEIVER_BROWSER_WEB_RUNTIME_APPLICATION_H_
 #define COMPONENTS_CAST_RECEIVER_BROWSER_WEB_RUNTIME_APPLICATION_H_
 

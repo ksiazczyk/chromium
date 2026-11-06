@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Cast receiver browser build targets
+summary: Defines GN build targets, sources and dependencies for the cast receiver browser component, including the permissions manager and unit test target.

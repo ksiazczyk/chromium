@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast streaming receiver command-line switch
+// summary: Defines the cast-streaming-receiver-port switch that lets a Cast Streaming receiver use a specific UDP port instead of a random system port.
+// ---
+
 #ifndef COMPONENTS_CAST_STREAMING_BROWSER_CAST_STREAMING_SWITCHES_H_
 #define COMPONENTS_CAST_STREAMING_BROWSER_CAST_STREAMING_SWITCHES_H_
 

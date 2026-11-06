@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Display info proto definitions
+// summary: Defines the DisplayInfo message with virtual display size, orientation, DPI and resizable flag for streaming apps.
+// ---
+
 edition = "2023";
 
 package cast_receiver;

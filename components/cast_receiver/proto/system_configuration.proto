@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System configuration proto
+// summary: Defines the KeyboardConfigurationChange protobuf message carrying ChromeOS input method editor metadata such as IME id, long and short names, and layout name.
+// ---
+
 syntax = "proto3";
 
 package cast_receiver;

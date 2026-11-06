@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CBOR encoding constants
+// summary: Declares masks, bit shifts, and additional-information values for decoding CBOR initial bytes, plus the SimpleValue enum.
+// ---
+
 #ifndef COMPONENTS_CBOR_CONSTANTS_H_
 #define COMPONENTS_CBOR_CONSTANTS_H_
 

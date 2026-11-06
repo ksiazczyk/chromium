@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Widevine key system info implementation
+// summary: Implements KeySystemInfo for the Widevine key system, mapping robustness strings and reporting supported codecs, encryption schemes, session types, and EME config rules.
+// ---
+
 #include "components/cdm/renderer/widevine_key_system_info.h"
 
 #include "base/command_line.h"

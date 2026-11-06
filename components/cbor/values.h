@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CBOR value class declaration
+// summary: Declares the cbor::Value variant type for CBOR data such as integers, strings, bytestrings, arrays, maps, and simple values with canonical key ordering.
+// ---
+
 #ifndef COMPONENTS_CBOR_VALUES_H_
 #define COMPONENTS_CBOR_VALUES_H_
 

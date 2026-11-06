@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: External Clear Key key system info implementation
+// summary: Implements KeySystemInfo for external Clear Key key systems, including sub-key-system matching, codec support, and faked persistent license sessions.
+// ---
+
 #include "components/cdm/renderer/external_clear_key_key_system_info.h"
 
 #include <algorithm>

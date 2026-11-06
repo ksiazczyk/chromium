@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ResourceProviderImpl class declaration
+// summary: Declares ResourceProviderImpl, which ties the demuxer connector and renderer controller proxy lifetimes to each render frame for cast streaming.
+// ---
+
 #ifndef COMPONENTS_CAST_STREAMING_RENDERER_RESOURCE_PROVIDER_IMPL_H_
 #define COMPONENTS_CAST_STREAMING_RENDERER_RESOURCE_PROVIDER_IMPL_H_
 

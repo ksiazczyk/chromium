@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Transport options proto
+// summary: Defines TransportOptions and DataChannelOptions protobuf messages describing the data channel label and receiver endpoint UID used to reach a service.
+// ---
+
 edition = "2023";
 
 package cast_receiver;

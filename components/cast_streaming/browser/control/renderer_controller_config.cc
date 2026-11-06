@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RendererControllerConfig struct implementation
+// summary: Implements the constructors and move assignment of the RendererControllerConfig struct that pairs renderer control mojo pipes.
+// ---
+
 #include "components/cast_streaming/browser/control/renderer_controller_config.h"
 
 namespace cast_streaming {

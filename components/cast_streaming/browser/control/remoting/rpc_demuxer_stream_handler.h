@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RPC demuxer stream handler interface
+// summary: Declares RpcDemuxerStreamHandler, which wraps RPC operations for audio and video DemuxerStream instances and provides DemuxerStreamClient access.
+// ---
+
 #ifndef COMPONENTS_CAST_STREAMING_BROWSER_CONTROL_REMOTING_RPC_DEMUXER_STREAM_HANDLER_H_
 #define COMPONENTS_CAST_STREAMING_BROWSER_CONTROL_REMOTING_RPC_DEMUXER_STREAM_HANDLER_H_
 

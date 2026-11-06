@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Widevine key system info class declaration
+// summary: Declares the WidevineKeySystemInfo class, including its robustness enum and overrides for querying Widevine EME capabilities such as codecs, sessions, and feature support.
+// ---
+
 #ifndef COMPONENTS_CDM_RENDERER_WIDEVINE_KEY_SYSTEM_INFO_H_
 #define COMPONENTS_CDM_RENDERER_WIDEVINE_KEY_SYSTEM_INFO_H_
 

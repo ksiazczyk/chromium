@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners list for cast_streaming
+summary: Points to the cast_receiver OWNERS file to reuse its list of directory owners.

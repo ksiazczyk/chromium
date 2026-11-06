@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaDrmStorageImpl implementation
+// summary: Implements media::mojom::MediaDrmStorage on top of PrefService, persisting per-origin IDs and DRM session data and supporting license clearing on Android.
+// ---
+
 #include "components/cdm/browser/media_drm_storage_impl.h"
 
 #include <map>

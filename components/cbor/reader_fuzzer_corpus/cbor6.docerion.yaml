@@ -1,0 +1,4 @@
+# Docerion header of cbor6.
+type: data
+title: CBOR reader fuzzer corpus entry cbor6
+summary: Two-byte CBOR seed input for the CBOR reader fuzzer that encodes the unsigned integer 100.

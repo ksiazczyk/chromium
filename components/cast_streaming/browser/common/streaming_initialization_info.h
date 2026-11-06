@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StreamingInitializationInfo struct header
+// summary: Defines a copyable struct holding cast streaming session initialization data such as decoder configs, receivers and demuxer stream clients.
+// ---
+
 #ifndef COMPONENTS_CAST_STREAMING_BROWSER_COMMON_STREAMING_INITIALIZATION_INFO_H_
 #define COMPONENTS_CAST_STREAMING_BROWSER_COMMON_STREAMING_INITIALIZATION_INFO_H_
 

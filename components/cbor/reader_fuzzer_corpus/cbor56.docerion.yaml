@@ -1,0 +1,4 @@
+# Docerion header of cbor56.
+type: data
+title: CBOR reader fuzzer corpus entry cbor56
+summary: Two-byte CBOR seed input for the CBOR reader fuzzer that encodes the text string "a".

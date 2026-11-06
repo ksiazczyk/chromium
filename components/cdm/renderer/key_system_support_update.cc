@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Key system support update logic for the renderer
+// summary: Collects and reports supported key systems such as Clear Key, Widevine, Android, and PlayReady to the renderer, mapping CDM capabilities to EME codecs.
+// ---
+
 #include "components/cdm/renderer/key_system_support_update.h"
 
 #include <stddef.h>

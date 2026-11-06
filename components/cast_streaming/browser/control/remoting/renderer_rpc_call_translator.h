@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Renderer RPC call translator interface
+// summary: Declares RendererRpcCallTranslator, which translates openscreen cast RPC messages into mojo renderer calls and forwards renderer client events back as RPC messages.
+// ---
+
 #ifndef COMPONENTS_CAST_STREAMING_BROWSER_CONTROL_REMOTING_RENDERER_RPC_CALL_TRANSLATOR_H_
 #define COMPONENTS_CAST_STREAMING_BROWSER_CONTROL_REMOTING_RENDERER_RPC_CALL_TRANSLATOR_H_
 

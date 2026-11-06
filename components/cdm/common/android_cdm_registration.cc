@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android CDM registration for Widevine and MediaDrm key systems
+// summary: Registers Widevine and other MediaDrm-supported key systems as CdmInfo entries with software and hardware secure robustness on Android.
+// ---
+
 #include "components/cdm/common/android_cdm_registration.h"
 
 #include "base/logging.h"

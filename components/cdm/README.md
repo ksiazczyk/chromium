@@ -1,3 +1,11 @@
+---
+type: readme
+title: README for the cdm component
+summary: Explains that this folder supports EME, key systems and CDMs for content embedders like Chrome and WebView, and that media and content must not depend on it.
+relations:
+  - references /components/README.md
+---
+
 # README
 
 This folder contains code to support W3C Encrypted Media Extensions (EME),

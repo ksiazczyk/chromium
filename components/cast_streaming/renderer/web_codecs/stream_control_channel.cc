@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StreamControlChannel implementation
+// summary: Implements the DemuxerConnector mojo receiver, creating audio and video buffer requesters and synchronizing JavaScript receiver configuration with receiver enabling.
+// ---
+
 #include "components/cast_streaming/renderer/web_codecs/stream_control_channel.h"
 
 #include <utility>

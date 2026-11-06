@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for StreamConsumer
+// summary: Tests StreamConsumer frame reading and data pipe writing using a mock openscreen receiver, task runner adapter and mock decoder buffer factory.
+// ---
+
 #include "components/cast_streaming/browser/frame/stream_consumer.h"
 
 #include <memory>

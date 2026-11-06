@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Diagnostic writer unit tests
+// summary: Verifies diagnostic notation output for maps, arrays, size limits, large bytestrings, and invalid UTF-8 input.
+// ---
+
 #include "components/cbor/diagnostic_writer.h"
 
 #include <utility>

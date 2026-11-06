@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base class for RPC initialization call handling
+// summary: Declares a base class that simplifies renderer initialization by letting implementers handle AcquireRenderer through a single asynchronous callback instead of raw RPC messages.
+// ---
+
 #ifndef COMPONENTS_CAST_STREAMING_BROWSER_CONTROL_REMOTING_RPC_INITIALIZATION_CALL_HANDLER_BASE_H_
 #define COMPONENTS_CAST_STREAMING_BROWSER_CONTROL_REMOTING_RPC_INITIALIZATION_CALL_HANDLER_BASE_H_
 

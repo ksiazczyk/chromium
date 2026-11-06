@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bindings message port connector implementation
+// summary: Implements injection of the port connector script and API bindings into pages and connects named message ports once the page loads.
+// ---
+
 #include "components/cast_receiver/browser/bindings_message_port_connector.h"
 
 #include <string>

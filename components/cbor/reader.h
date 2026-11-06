@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CBOR reader declaration
+// summary: Declares the canonical CBOR decoder per RFC 7049, listing supported major types, decoder error codes, and configuration such as nesting limits and Rust parser selection.
+// ---
+
 #ifndef COMPONENTS_CBOR_READER_H_
 #define COMPONENTS_CBOR_READER_H_
 

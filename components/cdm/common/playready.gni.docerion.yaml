@@ -1,0 +1,4 @@
+# Docerion header of playready.gni.
+type: config
+title: PlayReady GN build configuration
+summary: GN build file declaring the enable_playready argument, which enables PlayReady key system support only on Windows Chrome-branded builds.

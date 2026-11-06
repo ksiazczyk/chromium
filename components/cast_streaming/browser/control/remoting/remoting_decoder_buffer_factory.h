@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remoting decoder buffer factory interface
+// summary: Declares RemotingDecoderBufferFactory, which converts Open Screen encoded frames into media DecoderBuffer instances without owning the media data.
+// ---
+
 #ifndef COMPONENTS_CAST_STREAMING_BROWSER_CONTROL_REMOTING_REMOTING_DECODER_BUFFER_FACTORY_H_
 #define COMPONENTS_CAST_STREAMING_BROWSER_CONTROL_REMOTING_REMOTING_DECODER_BUFFER_FACTORY_H_
 

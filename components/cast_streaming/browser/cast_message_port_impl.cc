@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastMessagePortImpl implementation
+// summary: Implements the openscreen MessagePort wrapper over a cast API bindings MessagePort, handling connect, media status and inject namespace messages for Cast streaming.
+// ---
+
 #include "components/cast_streaming/browser/cast_message_port_impl.h"
 
 #include "base/json/json_reader.h"

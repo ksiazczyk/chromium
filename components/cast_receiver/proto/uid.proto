@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UID proto
+// summary: Defines the UID protobuf message representing unique Exo endpoint identifiers, with raw bytes and a type indicating Curve25519 or random generation.
+// ---
+
 edition = "2023";
 
 package cast_receiver;

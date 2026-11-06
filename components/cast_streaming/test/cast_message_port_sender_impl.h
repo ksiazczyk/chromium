@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cast message port sender adapter header
+// summary: Declares CastMessagePortSenderImpl, an adapter exposing an Open Screen MessagePort interface over a cast MessagePort for test senders.
+// ---
+
 #ifndef COMPONENTS_CAST_STREAMING_TEST_CAST_MESSAGE_PORT_SENDER_IMPL_H_
 #define COMPONENTS_CAST_STREAMING_TEST_CAST_MESSAGE_PORT_SENDER_IMPL_H_
 

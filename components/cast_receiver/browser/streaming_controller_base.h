@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Streaming controller base class header
+// summary: Declares StreamingControllerBase, which ties receiver session setup, navigation readiness, and mojo renderer connections together to start cast streaming playback.
+// ---
+
 #ifndef COMPONENTS_CAST_RECEIVER_BROWSER_STREAMING_CONTROLLER_BASE_H_
 #define COMPONENTS_CAST_RECEIVER_BROWSER_STREAMING_CONTROLLER_BASE_H_
 

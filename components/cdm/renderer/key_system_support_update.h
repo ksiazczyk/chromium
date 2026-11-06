@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Key system support update API declaration
+// summary: Declares GetSupportedKeySystemsUpdates, which registers a callback delivering the list of available key systems for a render frame.
+// ---
+
 #ifndef COMPONENTS_CDM_RENDERER_KEY_SYSTEM_SUPPORT_UPDATE_H_
 #define COMPONENTS_CDM_RENDERER_KEY_SYSTEM_SUPPORT_UPDATE_H_
 

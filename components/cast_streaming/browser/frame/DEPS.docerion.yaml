@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the frame directory
+summary: Restricts includes within cast streaming browser code, allowing only the common, frame and public subdirectories.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Remoting decoder buffer factory unit tests
+// summary: Unit tests verifying that RemotingDecoderBufferFactory succeeds on valid protobuf data and returns null on deserialization failure.
+// ---
+
 #include "components/cast_streaming/browser/control/remoting/remoting_decoder_buffer_factory.h"
 
 #include "base/memory/scoped_refptr.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Streaming config manager implementation
+// summary: Implements StreamingConfigManager, which stores the cast streaming receiver configuration and notifies registered observers when it is set.
+// ---
+
 #include "components/cast_receiver/browser/public/streaming_config_manager.h"
 
 namespace cast_receiver {

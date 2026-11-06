@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DemuxerConnector implementation
+// summary: Implements the Mojo DemuxerConnector receiver for the Cast Streaming session and a thread-safe buffer that passes stream initialization configs to the media thread.
+// ---
+
 #include "components/cast_streaming/renderer/frame/demuxer_connector.h"
 
 #include "components/cast_streaming/renderer/frame/frame_injecting_demuxer.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Streaming input event observer implementation
+// summary: Translates Chromium mouse, touch, wheel and keyboard input events into cast_receiver input protos and forwards them through a registered callback.
+// ---
+
 #include "components/cast_receiver/browser/streaming_input_observer.h"
 
 #include <algorithm>

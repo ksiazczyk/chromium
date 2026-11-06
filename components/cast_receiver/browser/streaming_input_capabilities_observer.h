@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Streaming input capabilities observer class declaration
+// summary: Declares StreamingInputCapabilitiesObserver, which watches input device configuration changes and invokes a callback with updated InputCapabilities data.
+// ---
+
 #ifndef COMPONENTS_CAST_RECEIVER_BROWSER_STREAMING_INPUT_CAPABILITIES_OBSERVER_H_
 #define COMPONENTS_CAST_RECEIVER_BROWSER_STREAMING_INPUT_CAPABILITIES_OBSERVER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of features.gni.
+type: config
+title: Cast streaming build feature flags
+summary: Declares the cast_streaming_enable_remoting build argument and asserts that remoting can only be enabled on cast receivers.

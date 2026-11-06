@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StreamConsumer delivering encoded frames over a data pipe
+// summary: Declares a class that attaches to an openscreen receiver, buffers encoded frames and writes them to a mojo data pipe to cap memory usage.
+// ---
+
 #ifndef COMPONENTS_CAST_STREAMING_BROWSER_FRAME_STREAM_CONSUMER_H_
 #define COMPONENTS_CAST_STREAMING_BROWSER_FRAME_STREAM_CONSUMER_H_
 

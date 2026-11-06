@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RuntimeApplication implementation
+// summary: Implements the RuntimeApplication destructor and an output operator that logs the app ID, display name, and Cast session ID.
+// ---
+
 #include "components/cast_receiver/browser/public/runtime_application.h"
 
 namespace cast_receiver {

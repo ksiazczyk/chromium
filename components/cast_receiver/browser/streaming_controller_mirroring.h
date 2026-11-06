@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mirroring streaming controller header
+// summary: Declares StreamingControllerMirroring, a StreamingControllerBase variant that starts cast streaming playback via mirroring without remoting.
+// ---
+
 #ifndef COMPONENTS_CAST_RECEIVER_BROWSER_STREAMING_CONTROLLER_MIRRORING_H_
 #define COMPONENTS_CAST_RECEIVER_BROWSER_STREAMING_CONTROLLER_MIRRORING_H_
 

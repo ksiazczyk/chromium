@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for cast streaming renderer common
+summary: GN build file defining the common source set with its public headers and dependencies, plus a testonly unit_tests target for the cast streaming renderer.

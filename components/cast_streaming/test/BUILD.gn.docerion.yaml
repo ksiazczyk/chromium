@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Cast Streaming test sender build targets
+summary: Defines testonly GN targets for the Cast Streaming test sender, including variants with and without socket dependencies.

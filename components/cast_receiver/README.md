@@ -1,3 +1,13 @@
+---
+type: readme
+title: Introduction to the Cast receiver component
+summary: Documents the shared Cast receiver implementation in Chromium, covering embedder integration on the browser and renderer sides, application lifetime, architecture, and known limitations.
+relations:
+  - references /chromecast/cast_core/runtime/browser/runtime_service_impl.h
+  - references /components/cast_receiver/browser/public/permissions_manager.h
+  - references /third_party/blink/public/common/permissions/permission_utils.h
+---
+
 # Introduction
 
 This component provides the shared Cast receiver implementation that is used by

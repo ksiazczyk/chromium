@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input capabilities proto definitions
+// summary: Defines input device types and metadata for keyboard, mouse and touch capabilities exchanged during streaming.
+// ---
+
 syntax = "proto3";
 
 package cast_receiver;

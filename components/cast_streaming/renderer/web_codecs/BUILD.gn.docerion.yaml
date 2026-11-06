@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build config for cast streaming web_codecs
+summary: Defines the web_codecs source set and its unit test target, listing sources and dependencies for the cast streaming renderer's WebCodecs support.

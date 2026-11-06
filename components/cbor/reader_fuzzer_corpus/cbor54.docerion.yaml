@@ -1,0 +1,4 @@
+# Docerion header of cbor54.
+type: asset
+title: CBOR reader fuzzer corpus input cbor54
+summary: Five-byte CBOR fuzzer corpus input encoding a four-byte byte string for the CBOR reader fuzzer.

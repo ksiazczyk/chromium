@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remoting streaming controller header
+// summary: Declares StreamingControllerRemoting, a StreamingControllerBase variant that starts cast streaming playback using the remoting functionality.
+// ---
+
 #ifndef COMPONENTS_CAST_RECEIVER_BROWSER_STREAMING_CONTROLLER_REMOTING_H_
 #define COMPONENTS_CAST_RECEIVER_BROWSER_STREAMING_CONTROLLER_REMOTING_H_
 

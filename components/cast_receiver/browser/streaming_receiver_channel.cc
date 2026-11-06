@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Streaming receiver channel implementation
+// summary: Implements a message-port channel that handles Exo bootstrap requests and exchanges input event and input capabilities messages over the Cast transport.
+// ---
+
 #include "components/cast_receiver/browser/streaming_receiver_channel.h"
 
 #include <google/protobuf/message_lite.h>

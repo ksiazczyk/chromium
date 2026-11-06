@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mirroring streaming controller implementation
+// summary: Implements playback startup for the mirroring streaming controller, disabling remoting in the receiver config and driving the media renderer controls.
+// ---
+
 #include "components/cast_receiver/browser/streaming_controller_mirroring.h"
 
 #include "components/cast/message_port/message_port.h"

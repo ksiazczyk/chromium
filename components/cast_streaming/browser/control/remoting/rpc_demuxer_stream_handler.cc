@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RPC demuxer stream handler implementation
+// summary: Implements RPC handling for audio and video demuxer streams, including demuxer acquisition, read-until requests, and bitstream converter callbacks.
+// ---
+
 #include "components/cast_streaming/browser/control/remoting/rpc_demuxer_stream_handler.h"
 
 #include <sstream>

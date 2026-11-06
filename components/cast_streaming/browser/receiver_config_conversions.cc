@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReceiverConfig to Open Screen constraints conversion
+// summary: Converts ReceiverConfig codec, limit, display and remoting settings into openscreen::cast::ReceiverConstraints used by the Cast Streaming receiver.
+// ---
+
 #include "components/cast_streaming/browser/receiver_config_conversions.h"
 
 #include <algorithm>

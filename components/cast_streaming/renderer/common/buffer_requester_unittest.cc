@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for BufferRequester
+// summary: Unit tests for BufferRequester using mock mojo receivers and clients to verify buffer requests and provider creation for audio streams.
+// ---
+
 #include "components/cast_streaming/renderer/common/buffer_requester.h"
 
 #include <utility>

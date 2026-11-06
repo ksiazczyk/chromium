@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Cast receiver owners
+summary: Lists the code owners responsible for reviewing changes to the cast_receiver component, referencing the Chromecast owners file plus last-resort reviewers.

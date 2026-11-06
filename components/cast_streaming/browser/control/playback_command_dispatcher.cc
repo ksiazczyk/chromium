@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Playback command dispatcher implementation
+// summary: Implements PlaybackCommandDispatcher, which validates codec support, dispatches playback commands, and manages remoting RPC messaging for Cast sessions.
+// ---
+
 #include "components/cast_streaming/browser/control/playback_command_dispatcher.h"
 
 #include "base/functional/bind.h"
