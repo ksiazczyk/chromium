@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Searchbox thumbnail element
+// summary: Lit element cr-searchbox-thumbnail that displays a thumbnail image in the searchbox input and fires a remove event when deleted.
+// ---
+
 import '//resources/cr_elements/cr_icon_button/cr_icon_button.js';
 
 import {loadTimeData} from '//resources/js/load_time_data.js';

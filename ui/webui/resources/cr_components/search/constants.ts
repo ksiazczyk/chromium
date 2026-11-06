@@ -7,6 +7,12 @@
  * searchbox.
  */
 
+// ---docerion
+// type: source
+// title: Shared constants for searchbox and composebox
+// summary: Defines shared enums and constants for the composebox, animated glow element, and searchbox, including histogram enums for context added methods and voice search states.
+// ---
+
 export enum GlowAnimationState {
   NONE = '',
   VOICE_EXITED = 'voice-exited',

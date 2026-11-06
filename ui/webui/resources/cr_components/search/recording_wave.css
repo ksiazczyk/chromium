@@ -7,6 +7,12 @@
 * #scheme=relative
 * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Recording wave component styles
+summary: Lit CSS styles for the recording wave, covering bar pills, unspawned sphere placeholders, slide-in layout, and forced colors support.
+*/
+
 :host {
   --bar-max-height: 40px;
   --color-recording-wave: #c9d2ff;

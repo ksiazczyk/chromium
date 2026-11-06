@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio wave voice input visualizer element
+// summary: Lit element that renders the voice input wave visualizer for the search WebUI, with volume mapping helpers and re-exports of shared audio simulation utilities.
+// ---
+
 import {CrLitElement} from '//resources/lit/v3_0/lit.rollup.js';
 import type {PropertyValues} from '//resources/lit/v3_0/lit.rollup.js';
 

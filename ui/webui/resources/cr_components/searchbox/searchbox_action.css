@@ -9,6 +9,12 @@
  * #include=cr-shared-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the searchbox action chip
+summary: Lit CSS styles for the cr-searchbox-action chip covering borders, hover and selected states, overlay ink and icon theming.
+*/
+
 :host {
   border: solid 1px var(--color-searchbox-results-action-chip);
   border-radius: 8px;

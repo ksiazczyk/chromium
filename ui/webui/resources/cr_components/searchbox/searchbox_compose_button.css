@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the searchbox compose button
+summary: Lit CSS styles for the searchbox compose button, including GLIF glow and rotation animations, motion tokens and RTL handling.
+*/
+
 @property --gradient-angle {
   syntax: '<angle>';
   inherits: true;

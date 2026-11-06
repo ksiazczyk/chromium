@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Searchbox selection mixin
+// summary: Mixin and helpers that compute and navigate the available selection states across matches, actions, and buttons in the searchbox.
+// ---
+
 import type {CrLitElement} from '//resources/lit/v3_0/lit.rollup.js';
 import type {Action, AutocompleteMatch, AutocompleteResult, OmniboxPopupSelection} from '//resources/mojo/components/omnibox/browser/searchbox.mojom-webui.js';
 import {KeywordType, SelectionDirection, SelectionLineState, SelectionStep} from '//resources/mojo/components/omnibox/browser/searchbox.mojom-webui.js';

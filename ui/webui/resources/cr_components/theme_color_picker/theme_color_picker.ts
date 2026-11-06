@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Theme color picker element
+// summary: Lit element cr-theme-color-picker that shows available theme colors, handles selection, and communicates theme changes over Mojo.
+// ---
+
 import './theme_hue_slider_dialog.js';
 import './theme_color.js';
 import '//resources/cr_elements/cr_grid/cr_grid.js';

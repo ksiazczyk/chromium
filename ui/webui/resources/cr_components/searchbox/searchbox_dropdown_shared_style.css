@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Searchbox dropdown shared styles
+summary: Shared Lit CSS defining action icon custom properties such as size, colors and hover background for searchbox dropdown components.
+*/
+
 .action-icon {
   --cr-icon-button-active-background-color:
       var(--color-new-tab-page-active-background);

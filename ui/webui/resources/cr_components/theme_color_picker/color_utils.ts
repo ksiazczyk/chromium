@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Theme color picker color utilities
+// summary: Defines color constants, the ColorType enum, and the SelectedColor interface used by the theme color picker.
+// ---
+
 import type {SkColor} from '//resources/mojo/skia/public/mojom/skcolor.mojom-webui.js';
 import type {BrowserColorVariant} from '//resources/mojo/ui/base/mojom/themes.mojom-webui.js';
 

@@ -1,0 +1,4 @@
+# Docerion header of plural_string_provider.mojom.
+type: source
+title: Plural string provider Mojo interface
+summary: Mojo interface definition that serves pluralized strings for message names to any host, such as WebUI or extension pages, without relying on chrome.send.

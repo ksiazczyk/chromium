@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the signin component
+summary: Delegates ownership to the desktop signin owners and requires IPC security owner approval for mojom file changes.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Theme color picker HTML template
+// summary: Lit HTML template rendering the color picker radio grid with default, grey, Chrome, and custom color options plus the hue slider and managed dialog.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {ThemeColorPickerElement} from './theme_color_picker.js';

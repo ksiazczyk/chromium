@@ -9,6 +9,12 @@
  * #include=cr-hidden-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Searchbox icon styles
+summary: Lit CSS styles for the searchbox icon element, covering favicons, entity images, answer icons and forced colors handling.
+*/
+
 :host {
   --cr-searchbox-icon-border-radius: 8px;
   align-items: center;

@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the search animated glow component
+summary: Defines the Lit styles for the animated glow overlay, covering gradient rotation, blur expansion, drag-and-drop placeholder and frosted glass effects for the searchbox and composebox.
+*/
+
 @property --gradient-angle {
   syntax: '<angle>';
   inherits: true;

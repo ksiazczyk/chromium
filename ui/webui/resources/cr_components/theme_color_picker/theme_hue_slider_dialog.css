@@ -9,6 +9,12 @@
  * #include=cr-icons-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Hue slider dialog styles
+summary: CSS for the hue slider dialog, covering the dialog layout, slider track hue gradient, knob appearance, and forced-colors handling.
+*/
+
 dialog {
   background: var(--color-theme-color-picker-hue-slider-dialog-background,
       var(--cr-fallback-color-surface));

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hue slider dialog element
+// summary: Lit element implementing a dialog with a hue slider that computes the hue gradient and reports the selected hue for custom theme colors.
+// ---
+
 import '//resources/cr_elements/cr_icon_button/cr_icon_button.js';
 import '//resources/cr_elements/cr_slider/cr_slider.js';
 

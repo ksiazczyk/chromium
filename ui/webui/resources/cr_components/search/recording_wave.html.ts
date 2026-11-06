@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recording wave HTML template
+// summary: Lit HTML template for the recording wave element, rendering the wave wrapper and bars container used to display volume bars.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {RecordingWaveElement} from './recording_wave.js';

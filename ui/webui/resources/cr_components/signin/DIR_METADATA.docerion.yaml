@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the signin component
+summary: Points the directory to the shared Chrome profiles metadata mixin used for review and ownership metadata.

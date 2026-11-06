@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Theme color swatch styles
+summary: Styles the circular theme color swatch, including focus outline and Windows high contrast mode handling.
+*/
+
 :host {
   --cr-theme-color-border-radius: 50%;
   box-sizing: border-box;

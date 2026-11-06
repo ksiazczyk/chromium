@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyword mode manager for the WebUI searchbox
+// summary: Manages keyword mode state, entry methods and text formatting for the WebUI searchbox, tracking available keyword models and notifying a delegate of changes.
+// ---
+
 import {assert} from '//resources/js/assert.js';
 import {loadTimeData} from '//resources/js/load_time_data.js';
 import {KeywordType, SelectionLineState} from '//resources/mojo/components/omnibox/browser/searchbox.mojom-webui.js';

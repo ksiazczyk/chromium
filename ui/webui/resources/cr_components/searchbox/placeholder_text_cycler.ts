@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Placeholder text cycler for searchbox inputs
+// summary: Cycles animated placeholder text on an input or textarea using fade in, hold and fade out animation states.
+// ---
+
 import {assert, assertNotReachedCase} from '//resources/js/assert.js';
 
 export enum AnimationState {

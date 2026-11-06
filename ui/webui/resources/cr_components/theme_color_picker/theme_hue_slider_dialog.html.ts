@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hue slider dialog HTML template
+// summary: Lit HTML template for the hue slider dialog with a title, close button, and accessible hue slider.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {ThemeHueSliderDialogElement} from './theme_hue_slider_dialog.js';

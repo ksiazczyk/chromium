@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Searchbox input element
+// summary: Lit element cr-searchbox-input implementing the searchbox text field with inline autocomplete, keyword mode, URL emphasis, and accessibility announcements.
+// ---
+
 import '//resources/cr_elements/cr_icon_button/cr_icon_button.js';
 import './searchbox_icon.js';
 

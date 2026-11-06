@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the searchbox WebUI component
+summary: GN build file that compiles the searchbox TypeScript and CSS sources into the cr_components_searchbox WebUI resources with Lit, Mojo and composebox dependencies.

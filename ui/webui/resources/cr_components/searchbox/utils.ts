@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Searchbox WebUI utility helpers
+// summary: Shared TypeScript helpers for the searchbox WebUI, covering Mojo time conversion, CSS class mapping, lazy rendering, performance marks, and text sanitization for paste and JavaScript schemes.
+// ---
+
 import {getInstance as getA11yAnnouncer} from '//resources/cr_elements/cr_a11y_announcer/cr_a11y_announcer.js';
 import {assertNotReached} from '//resources/js/assert.js';
 import {RenderType, SideType} from '//resources/mojo/components/omnibox/browser/searchbox.mojom-webui.js';

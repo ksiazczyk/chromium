@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Theme color picker styles
+summary: CSS for the theme color picker, defining grid layout, color swatch appearance, and the custom color picker icon.
+*/
+
 :host {
   --cr-theme-color-padding: 8px;
   --cr-theme-color-picker-column-width: 1fr;

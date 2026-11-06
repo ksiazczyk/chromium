@@ -12,6 +12,12 @@
  * these Mojo-based searchbox types.
  */
 
+// ---docerion
+// type: source
+// title: Searchbox browser proxy and test helpers
+// summary: Singleton class exposing the Mojo handler interface for communication between searchbox elements and the browser, plus factory helpers for building autocomplete test objects.
+// ---
+
 import type {Action, AutocompleteMatch, AutocompleteResult, InputKeywordModel, MatchKeywordModel, PageHandlerInterface} from '//resources/mojo/components/omnibox/browser/searchbox.mojom-webui.js';
 import {KeywordType, PageCallbackRouter, PageHandlerFactory, PageHandlerRemote} from '//resources/mojo/components/omnibox/browser/searchbox.mojom-webui.js';
 import {ColorType, IconType, SecondaryTextPlacement, SuggestStyle} from '//resources/mojo/components/omnibox/browser/suggest_template_info.mojom-webui.js';
