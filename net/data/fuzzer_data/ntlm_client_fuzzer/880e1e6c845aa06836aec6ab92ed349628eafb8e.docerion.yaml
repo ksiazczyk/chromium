@@ -1,0 +1,4 @@
+# Docerion header of 880e1e6c845aa06836aec6ab92ed349628eafb8e.
+type: data
+title: NTLM client fuzzer input 880e1e6c
+summary: Fuzzer corpus input for the NTLM client fuzzer mixing f characters with a newline and a control byte.

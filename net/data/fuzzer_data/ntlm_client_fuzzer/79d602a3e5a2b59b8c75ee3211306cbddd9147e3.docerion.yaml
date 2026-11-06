@@ -1,0 +1,4 @@
+# Docerion header of 79d602a3e5a2b59b8c75ee3211306cbddd9147e3.
+type: data
+title: NTLM client fuzzer input 79d602a3
+summary: Fuzzer corpus input for the NTLM client fuzzer consisting of a long run of the letter f.
