@@ -1,0 +1,4 @@
+# Docerion header of role-group-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for role-group
+summary: Expected Android accessibility tree snapshot for the role-group test, showing a web view with a single Hello world text view.

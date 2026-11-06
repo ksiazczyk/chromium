@@ -1,0 +1,4 @@
+# Docerion header of text-indent-changed.html.
+type: test
+title: Text indent changed test page
+summary: HTML test page that changes the text-indent style of contenteditable divs to trigger accessibility events.

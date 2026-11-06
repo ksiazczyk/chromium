@@ -1,0 +1,4 @@
+# Docerion header of value-value-changed-expected-uia-win.txt.
+type: test
+title: Expected UIA Windows events for value-value-changed test
+summary: Expected UIA text and value change events on Windows for the value-value-changed test on a textbox role.

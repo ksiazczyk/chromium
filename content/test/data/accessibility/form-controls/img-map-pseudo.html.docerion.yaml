@@ -1,0 +1,4 @@
+# Docerion header of img-map-pseudo.html.
+type: test
+title: Accessibility test page for img with usemap and pseudo-elements
+summary: HTML test page pairing an image with a usemap reference to a map element styled with first-letter and after pseudo-element content.

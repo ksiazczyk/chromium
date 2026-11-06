@@ -1,0 +1,4 @@
+# Docerion header of links.html.
+type: test
+title: Fullscreen accessibility test page with surrounding links
+summary: Test page with links before, inside and after a fullscreen target that enters fullscreen on button click and sets an aria-label when the fullscreen state changes.

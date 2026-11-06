@@ -1,0 +1,4 @@
+# Docerion header of visibility-hidden-changed-expected-android.txt.
+type: test
+title: Expected Android events for visibility-hidden-changed accessibility test
+summary: Expected Android TYPE_WINDOW_CONTENT_CHANGED accessibility events for the visibility-hidden-changed test on a WebView.

@@ -1,0 +1,4 @@
+# Docerion header of tfoot-focus-expected-android.txt.
+type: test
+title: Tfoot focus expected Android events
+summary: Expected Android accessibility events for the test where a tfoot element receives focus.

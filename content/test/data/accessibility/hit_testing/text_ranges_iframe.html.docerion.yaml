@@ -1,0 +1,4 @@
+# Docerion header of text_ranges_iframe.html.
+type: test
+title: Text ranges iframe content
+summary: Accessibility hit testing fixture with five labeled text rectangles, loaded inside the text ranges page's iframe.

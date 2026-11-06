@@ -1,0 +1,4 @@
+# Docerion header of value-value-changed-expected-android.txt.
+type: test
+title: Expected Android events for value-value-changed accessibility test
+summary: Expected Android TYPE_WINDOW_CONTENT_CHANGED accessibility events for the value-value-changed test on WebView and EditText nodes.

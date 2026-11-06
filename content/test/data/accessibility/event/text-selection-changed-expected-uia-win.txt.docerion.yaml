@@ -1,0 +1,4 @@
+# Docerion header of text-selection-changed-expected-uia-win.txt.
+type: test
+title: Text selection changed expected UIA Win events
+summary: Expected UIA on Windows events for the text selection changed test, covering document, input and textarea selections.

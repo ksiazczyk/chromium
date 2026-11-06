@@ -1,0 +1,4 @@
+# Docerion header of value-value-changed-expected-win.txt.
+type: test
+title: Expected Windows accessibility events for value-value-changed test
+summary: Expected Windows MSAA and IAccessible2 value-change and text inserted or removed events for the value-value-changed test.

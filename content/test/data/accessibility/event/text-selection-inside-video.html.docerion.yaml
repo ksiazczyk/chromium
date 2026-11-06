@@ -1,0 +1,4 @@
+# Docerion header of text-selection-inside-video.html.
+type: test
+title: Text selection inside video test page
+summary: HTML test page that selects all content and extends the selection across a video element and a div.

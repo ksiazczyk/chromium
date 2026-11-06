@@ -1,0 +1,4 @@
+# Docerion header of value-is-readonly-changed-expected-win.txt.
+type: test
+title: Expected Windows accessibility events for value-is-readonly-changed test
+summary: Expected Windows MSAA and IAccessible2 state-change events for the value-is-readonly-changed test on a text input element.

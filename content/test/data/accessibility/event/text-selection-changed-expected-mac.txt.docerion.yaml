@@ -1,0 +1,4 @@
+# Docerion header of text-selection-changed-expected-mac.txt.
+type: test
+title: Text selection changed expected events for macOS
+summary: Expected macOS AX event log for the text-selection-changed test page.

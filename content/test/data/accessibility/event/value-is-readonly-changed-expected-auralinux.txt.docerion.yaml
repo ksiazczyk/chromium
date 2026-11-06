@@ -1,0 +1,4 @@
+# Docerion header of value-is-readonly-changed-expected-auralinux.txt.
+type: test
+title: Expected Linux accessibility events for value-is-readonly-changed test
+summary: Expected Linux accessibility state changes for the value-is-readonly-changed test, tracking enabled, sensitive and read-only transitions on an entry role.

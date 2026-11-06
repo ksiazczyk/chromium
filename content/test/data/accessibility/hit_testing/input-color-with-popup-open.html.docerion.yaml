@@ -1,0 +1,4 @@
+# Docerion header of input-color-with-popup-open.html.
+type: test
+title: Hit testing fixture with a color input
+summary: Accessibility hit testing fixture page containing a labeled color input, named for testing while its popup is open.

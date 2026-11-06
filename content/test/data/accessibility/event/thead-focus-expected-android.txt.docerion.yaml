@@ -1,0 +1,4 @@
+# Docerion header of thead-focus-expected-android.txt.
+type: test
+title: Expected Android accessibility events for thead focus
+summary: Expected Android accessibility output (TYPE_WINDOW_CONTENT_CHANGED on the WebView) recorded when the test table's thead element receives focus.

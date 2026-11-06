@@ -1,0 +1,4 @@
+# Docerion header of thead-focus.html.
+type: test
+title: thead focus accessibility event test page
+summary: HTML test page with a table whose script focuses the thead element, used to verify accessibility focus events across platforms.

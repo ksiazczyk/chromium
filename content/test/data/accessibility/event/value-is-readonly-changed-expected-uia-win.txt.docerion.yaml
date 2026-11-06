@@ -1,0 +1,4 @@
+# Docerion header of value-is-readonly-changed-expected-uia-win.txt.
+type: test
+title: Expected UIA Windows events for value-is-readonly-changed test
+summary: Expected UIA property-change events on Windows for the value-is-readonly-changed test, listing AriaProperties, IsEnabled and ValueIsReadOnly changes on a textbox.

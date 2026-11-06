@@ -1,0 +1,4 @@
+# Docerion header of role-group-expected-blink.txt.
+type: test
+title: Role group expected accessibility tree for Blink
+summary: Expected accessibility tree snapshot for the role group test page, showing a root web area with a static text node named Hello world on Blink.

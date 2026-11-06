@@ -1,0 +1,4 @@
+# Docerion header of tfoot-focus-expected-auralinux.txt.
+type: test
+title: Tfoot focus expected Auralinux events
+summary: Expected Linux AT-SPI focus and state-change events for the test where a tfoot element receives focus.
