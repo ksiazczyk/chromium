@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toolbar button visibility configuration header
+// summary: Declares a configuration object exposing visibility masks for each legacy toolbar button based on the toolbar type.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TOOLBAR_LEGACY_UI_BUNDLED_BUTTONS_TOOLBAR_BUTTON_VISIBILITY_CONFIGURATION_H_
 #define IOS_CHROME_BROWSER_TOOLBAR_LEGACY_UI_BUNDLED_BUTTONS_TOOLBAR_BUTTON_VISIBILITY_CONFIGURATION_H_
 

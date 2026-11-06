@@ -1,0 +1,4 @@
+# Docerion header of tips_notification_presenter.mm.
+type: source
+title: Tips notification presenter implementation
+summary: Implements presenting the appropriate UI for each tips notification type, including default browser, sign-in, Lens, Safe Browsing and other feature promos.

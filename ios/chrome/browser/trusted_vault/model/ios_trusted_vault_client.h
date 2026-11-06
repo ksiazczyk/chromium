@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IOSTrustedVaultClient class header
+// summary: Declares IOSTrustedVaultClient, the iOS TrustedVaultClient implementation that fetches and stores shared trusted vault keys for accounts.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TRUSTED_VAULT_MODEL_IOS_TRUSTED_VAULT_CLIENT_H_
 #define IOS_CHROME_BROWSER_TRUSTED_VAULT_MODEL_IOS_TRUSTED_VAULT_CLIENT_H_
 

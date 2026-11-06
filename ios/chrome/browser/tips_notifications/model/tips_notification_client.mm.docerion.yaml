@@ -1,0 +1,4 @@
+# Docerion header of tips_notification_client.mm.
+type: source
+title: Tips notification client implementation
+summary: Implements scheduling, requesting and handling of tips notifications, including user classification, pref tracking, opt-in handling and histogram logging.

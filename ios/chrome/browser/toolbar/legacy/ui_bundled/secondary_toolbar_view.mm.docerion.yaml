@@ -1,0 +1,4 @@
+# Docerion header of secondary_toolbar_view.mm.
+type: source
+title: Secondary toolbar view implementation
+summary: Implements the secondary toolbar view, laying out navigation buttons, the location bar container, separators and the progress bar.

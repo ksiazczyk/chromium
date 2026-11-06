@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Secondary toolbar view controller header
+// summary: Declares the view controller for the secondary toolbar shown at the bottom of the screen on specific size classes.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TOOLBAR_LEGACY_UI_BUNDLED_SECONDARY_TOOLBAR_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_TOOLBAR_LEGACY_UI_BUNDLED_SECONDARY_TOOLBAR_VIEW_CONTROLLER_H_
 

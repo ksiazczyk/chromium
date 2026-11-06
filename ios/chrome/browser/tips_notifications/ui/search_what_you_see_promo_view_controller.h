@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search What You See promo view controller interface
+// summary: Declares the full-screen Search What You See tip promo view controller based on the animated promo with bricks controller.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TIPS_NOTIFICATIONS_UI_SEARCH_WHAT_YOU_SEE_PROMO_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_TIPS_NOTIFICATIONS_UI_SEARCH_WHAT_YOU_SEE_PROMO_VIEW_CONTROLLER_H_
 

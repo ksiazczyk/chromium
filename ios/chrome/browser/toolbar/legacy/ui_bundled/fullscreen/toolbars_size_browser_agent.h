@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ToolbarsSizeBrowserAgent class interface
+// summary: Declares a browser user data agent that provides access to the browser's ToolbarsSize object.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TOOLBAR_LEGACY_UI_BUNDLED_FULLSCREEN_TOOLBARS_SIZE_BROWSER_AGENT_H_
 #define IOS_CHROME_BROWSER_TOOLBAR_LEGACY_UI_BUNDLED_FULLSCREEN_TOOLBARS_SIZE_BROWSER_AGENT_H_
 

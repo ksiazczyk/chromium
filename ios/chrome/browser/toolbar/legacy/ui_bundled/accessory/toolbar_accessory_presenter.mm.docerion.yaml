@@ -1,0 +1,4 @@
+# Docerion header of toolbar_accessory_presenter.mm.
+type: source
+title: Toolbar accessory presenter implementation
+summary: Implementation of the toolbar accessory presenter handling background views, layout constraints and animations for iPhone and iPad presentations.

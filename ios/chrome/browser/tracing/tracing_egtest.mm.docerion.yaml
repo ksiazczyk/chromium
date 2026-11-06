@@ -1,0 +1,4 @@
+# Docerion header of tracing_egtest.mm.
+type: test
+title: Tracing Earl Grey tests
+summary: Earl Grey UI tests verifying startup and manual trace recording in iOS Chrome, including trace file generation, parsing with TestTraceProcessorImpl, slice queries, and cleanup.

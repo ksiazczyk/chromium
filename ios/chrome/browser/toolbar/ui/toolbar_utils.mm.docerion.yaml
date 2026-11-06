@@ -1,0 +1,4 @@
+# Docerion header of toolbar_utils.mm.
+type: source
+title: Toolbar utility function implementations
+summary: Implements toolbar layout helpers based on split toolbar mode and tab strip visibility checks.

@@ -1,0 +1,4 @@
+# Docerion header of price_tracking_promo_coordinator.mm.
+type: source
+title: Price Tracking promo coordinator implementation
+summary: Presents the Price Tracking promo, logs promo actions, and can open the notification settings screen on dismissal.

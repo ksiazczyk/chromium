@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Main toolbar coordinator header
+// summary: Declares the MainToolbarCoordinator interface that coordinates primary and secondary toolbars and omnibox focus.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TOOLBAR_COORDINATOR_MAIN_TOOLBAR_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_TOOLBAR_COORDINATOR_MAIN_TOOLBAR_COORDINATOR_H_
 

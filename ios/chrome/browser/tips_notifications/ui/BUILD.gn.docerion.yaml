@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Tips notifications UI BUILD.gn build targets
+summary: Defines GN source sets for the tips notifications UI, covering shared promo components and the Lens, Enhanced Safe Browsing, Search What You See, price tracking, and tab groups promos.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab groups promo view controller interface
+// summary: Declares TabGroupsPromoViewController, a tips promo that encourages tab group usage and takes users to the Tab Groups page.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TIPS_NOTIFICATIONS_UI_TAB_GROUPS_PROMO_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_TIPS_NOTIFICATIONS_UI_TAB_GROUPS_PROMO_VIEW_CONTROLLER_H_
 

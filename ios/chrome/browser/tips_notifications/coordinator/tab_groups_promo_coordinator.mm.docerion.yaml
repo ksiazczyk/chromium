@@ -1,0 +1,4 @@
+# Docerion header of tab_groups_promo_coordinator.mm.
+type: source
+title: Tab Groups promo coordinator implementation
+summary: Implements presenting and dismissing the Tab Groups promo, logging promo actions and optionally opening the tab groups page on dismissal.

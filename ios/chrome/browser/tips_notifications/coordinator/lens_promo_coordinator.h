@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens promo coordinator header
+// summary: Declares the ChromeCoordinator subclass that presents the Lens promo screen.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TIPS_NOTIFICATIONS_COORDINATOR_LENS_PROMO_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_TIPS_NOTIFICATIONS_COORDINATOR_LENS_PROMO_COORDINATOR_H_
 

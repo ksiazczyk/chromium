@@ -1,0 +1,4 @@
+# Docerion header of legacy_toolbar_button_factory.mm.
+type: source
+title: Legacy toolbar button factory implementation
+summary: Implements creation and configuration of legacy toolbar buttons, wiring images, accessibility labels, visibility masks, and action handlers.

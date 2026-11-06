@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UrlKeyedDataCollectionConsentHelperIOS header
+// summary: Declares UrlKeyedDataCollectionConsentHelperIOS, a keyed service that reports whether the user consented to URL-keyed anonymized data collection.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_UNIFIED_CONSENT_MODEL_URL_KEYED_DATA_COLLECTION_CONSENT_HELPER_IOS_H_
 #define IOS_CHROME_BROWSER_UNIFIED_CONSENT_MODEL_URL_KEYED_DATA_COLLECTION_CONSENT_HELPER_IOS_H_
 

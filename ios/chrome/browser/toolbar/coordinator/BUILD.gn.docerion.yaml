@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Toolbar coordinator BUILD.gn
+summary: Defines the GN source sets and dependencies for the toolbar coordinator and its unit tests.

@@ -1,0 +1,4 @@
+# Docerion header of primary_toolbar_mediator.mm.
+type: source
+title: Primary toolbar mediator implementation
+summary: Implements PrimaryToolbarMediator, observing the banner promo app agent to show or hide the promo and handling promo tap and close actions.

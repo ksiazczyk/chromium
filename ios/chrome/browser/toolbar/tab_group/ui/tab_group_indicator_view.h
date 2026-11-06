@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group indicator view interface
+// summary: Declares the UIView that displays current tab group information, with delegate, mutator, toolbar height delegate, and display state properties.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TOOLBAR_TAB_GROUP_UI_TAB_GROUP_INDICATOR_VIEW_H_
 #define IOS_CHROME_BROWSER_TOOLBAR_TAB_GROUP_UI_TAB_GROUP_INDICATOR_VIEW_H_
 

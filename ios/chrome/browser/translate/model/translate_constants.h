@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Translate user action constants
+// summary: Defines the UserAction bit flags used to track how users interact with the Translate infobar over its lifetime.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TRANSLATE_MODEL_TRANSLATE_CONSTANTS_H_
 #define IOS_CHROME_BROWSER_TRANSLATE_MODEL_TRANSLATE_CONSTANTS_H_
 

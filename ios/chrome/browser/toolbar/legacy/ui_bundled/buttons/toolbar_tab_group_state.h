@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toolbar tab group state enum
+// summary: Defines the ToolbarTabGroupState enum indicating whether the current tab belongs to a tab group.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TOOLBAR_LEGACY_UI_BUNDLED_BUTTONS_TOOLBAR_TAB_GROUP_STATE_H_
 #define IOS_CHROME_BROWSER_TOOLBAR_LEGACY_UI_BUNDLED_BUTTONS_TOOLBAR_TAB_GROUP_STATE_H_
 

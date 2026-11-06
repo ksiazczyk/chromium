@@ -1,0 +1,4 @@
+# Docerion header of test_toolbars_size_observer.mm.
+type: test
+title: TestToolbarsSizeObserver implementation
+summary: Implements broadcaster registration and callbacks that record the broadcasted toolbar heights.

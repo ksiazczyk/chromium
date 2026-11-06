@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toolbar buttons utilities header
+// summary: Declares helper functions for toolbar element background colors, shadows, and corner radius across incognito and glass toolbar modes.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TOOLBAR_UI_BUTTONS_TOOLBAR_BUTTONS_UTILS_H_
 #define IOS_CHROME_BROWSER_TOOLBAR_UI_BUTTONS_TOOLBAR_BUTTONS_UTILS_H_
 

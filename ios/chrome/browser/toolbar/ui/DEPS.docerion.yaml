@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Toolbar UI dependency include rules
+summary: Lists the headers and directories that code in the toolbar UI directory is allowed to include.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Adaptive toolbar menus provider protocol
+// summary: Defines the AdaptiveToolbarMenusProvider protocol and button type enum used to request context menus for toolbar buttons.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TOOLBAR_LEGACY_UI_BUNDLED_ADAPTIVE_TOOLBAR_MENUS_PROVIDER_H_
 #define IOS_CHROME_BROWSER_TOOLBAR_LEGACY_UI_BUNDLED_ADAPTIVE_TOOLBAR_MENUS_PROVIDER_H_
 

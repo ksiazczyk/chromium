@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the toolbar test source set
+summary: Defines the testonly source_set listing toolbar size test helpers and their build dependencies.

@@ -1,0 +1,4 @@
+# Docerion header of ios_tracing_controller.mm.
+type: source
+title: iOS tracing controller implementation
+summary: Implements the controller, initializing Perfetto, handling startup tracing, incognito session tracking, and developer trace configuration.

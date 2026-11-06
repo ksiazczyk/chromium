@@ -1,0 +1,4 @@
+# Docerion header of toolbar_test_navigation_manager.mm.
+type: test
+title: ToolbarTestNavigationManager implementation
+summary: Implements configurable CanGoBack and CanGoForward flags on top of the fake navigation manager.

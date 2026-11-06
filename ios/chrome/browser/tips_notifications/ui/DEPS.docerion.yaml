@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Tips notifications UI DEPS include rules
+summary: Allows code in the tips notifications UI directory to include headers from the instructions bottom sheet UI directory.

@@ -1,0 +1,4 @@
+# Docerion header of banner_promo_view.mm.
+type: source
+title: Banner promo view implementation
+summary: Implements the BannerPromoView UI, laying out the promo text, app logo, and a configurable close button for the default browser banner promo.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Secondary toolbar mediator header
+// summary: Declares the mediator that supplies web state and keyboard state information to the secondary toolbar view controller.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TOOLBAR_LEGACY_UI_BUNDLED_SECONDARY_TOOLBAR_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_TOOLBAR_LEGACY_UI_BUNDLED_SECONDARY_TOOLBAR_MEDIATOR_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of tips_notification_criteria.mm.
+type: source
+title: Tips notification criteria implementation
+summary: Implements per-type eligibility checks for tips notifications based on prefs, feature engagement triggers, sync, sign-in state and recency windows.

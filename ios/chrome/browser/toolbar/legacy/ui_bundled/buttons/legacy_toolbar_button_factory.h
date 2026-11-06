@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Legacy toolbar button factory interface
+// summary: Declares a factory that creates styled toolbar buttons such as back, forward, tab grid, tools menu, share, reload, stop, and new tab.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TOOLBAR_LEGACY_UI_BUNDLED_BUTTONS_LEGACY_TOOLBAR_BUTTON_FACTORY_H_
 #define IOS_CHROME_BROWSER_TOOLBAR_LEGACY_UI_BUNDLED_BUTTONS_LEGACY_TOOLBAR_BUTTON_FACTORY_H_
 

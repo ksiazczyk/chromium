@@ -1,0 +1,4 @@
+# Docerion header of ios_tracing_controller_unittest.mm.
+type: test
+title: Unit tests for the iOS tracing controller
+summary: Tests the developer trace config, recording rules, trace report storage, and startup tracing behavior of the controller.

@@ -1,0 +1,4 @@
+# Docerion header of url_keyed_data_collection_consent_helper_ios.mm.
+type: source
+title: UrlKeyedDataCollectionConsentHelperIOS implementation
+summary: Implements UrlKeyedDataCollectionConsentHelperIOS by wrapping the unified consent anonymized data collection helper and exposing its IsEnabled check.

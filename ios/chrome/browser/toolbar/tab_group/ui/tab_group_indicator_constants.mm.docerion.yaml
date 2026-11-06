@@ -1,0 +1,4 @@
+# Docerion header of tab_group_indicator_constants.mm.
+type: source
+title: Tab group indicator constant values
+summary: Defines numeric values for the tab group indicator heights, margins, dot size, and the accessibility identifier string.

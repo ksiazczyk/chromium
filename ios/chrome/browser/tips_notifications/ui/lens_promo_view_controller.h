@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens promo view controller header
+// summary: Declares the view controller for a Lens promo that tells the user how to use Lens.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TIPS_NOTIFICATIONS_UI_LENS_PROMO_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_TIPS_NOTIFICATIONS_UI_LENS_PROMO_VIEW_CONTROLLER_H_
 

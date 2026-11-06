@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Primary toolbar mediator interface
+// summary: Declares PrimaryToolbarMediator, which relays default browser banner promo state from the app agent to the primary toolbar consumer.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TOOLBAR_LEGACY_UI_BUNDLED_PRIMARY_TOOLBAR_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_TOOLBAR_LEGACY_UI_BUNDLED_PRIMARY_TOOLBAR_MEDIATOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Adaptive toolbar coordinator subclassing category
+// summary: Declares protected AdaptiveToolbarCoordinator methods that subclasses can override, such as the button factory and tab grid IPH behavior.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TOOLBAR_LEGACY_UI_BUNDLED_ADAPTIVE_TOOLBAR_COORDINATOR_SUBCLASSING_H_
 #define IOS_CHROME_BROWSER_TOOLBAR_LEGACY_UI_BUNDLED_ADAPTIVE_TOOLBAR_COORDINATOR_SUBCLASSING_H_
 

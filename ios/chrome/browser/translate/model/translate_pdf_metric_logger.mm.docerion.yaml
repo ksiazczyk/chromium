@@ -1,0 +1,4 @@
+# Docerion header of translate_pdf_metric_logger.mm.
+type: source
+title: Translate PDF metric logger implementation
+summary: Observes web state navigations and logs the Translate.IOS.PDF.OpenedFromTranslatedPage UMA histogram for PDFs opened from translated pages.

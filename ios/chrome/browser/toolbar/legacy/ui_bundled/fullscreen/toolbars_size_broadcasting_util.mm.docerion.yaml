@@ -1,0 +1,4 @@
+# Docerion header of toolbars_size_broadcasting_util.mm.
+type: source
+title: Toolbars size broadcasting utility implementation
+summary: Broadcasts collapsed and expanded toolbar height values from ToolbarsSize via the ChromeBroadcaster.

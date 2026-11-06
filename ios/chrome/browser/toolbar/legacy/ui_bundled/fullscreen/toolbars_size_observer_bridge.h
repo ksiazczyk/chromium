@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ToolbarsSizeObserverBridge header
+// summary: Declares the ToolbarsSizeObserving Objective-C protocol and the ToolbarsSizeObserverBridge class that lets Objective-C objects such as PanelContentMediator listen to toolbar size changes.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TOOLBAR_LEGACY_UI_BUNDLED_FULLSCREEN_TOOLBARS_SIZE_OBSERVER_BRIDGE_H_
 #define IOS_CHROME_BROWSER_TOOLBAR_LEGACY_UI_BUNDLED_FULLSCREEN_TOOLBARS_SIZE_OBSERVER_BRIDGE_H_
 

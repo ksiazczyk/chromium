@@ -1,0 +1,4 @@
+# Docerion header of translate_app_interface_stub.mm.
+type: source
+title: Translate app interface Earl Grey stub
+summary: Registers TranslateAppInterface as a stub class in the app's main queue for Earl Grey UI testing.

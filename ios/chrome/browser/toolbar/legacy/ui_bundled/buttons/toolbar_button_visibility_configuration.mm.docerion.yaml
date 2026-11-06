@@ -1,0 +1,4 @@
+# Docerion header of toolbar_button_visibility_configuration.mm.
+type: source
+title: Toolbar button visibility configuration implementation
+summary: Implements per-button visibility masks that differ between primary and secondary toolbar types.

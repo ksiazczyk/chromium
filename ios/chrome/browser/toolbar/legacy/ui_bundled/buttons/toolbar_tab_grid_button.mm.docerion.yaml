@@ -1,0 +1,4 @@
+# Docerion header of toolbar_tab_grid_button.mm.
+type: source
+title: Toolbar tab grid button implementation
+summary: Implements the tab count label, tab group state image switching, and accessibility behavior for the tab grid button.

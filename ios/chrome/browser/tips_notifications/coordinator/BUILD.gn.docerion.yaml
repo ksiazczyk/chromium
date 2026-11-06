@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for tips notification promo coordinators
+summary: Defines the coordinator source_set listing the promo coordinator sources, their build dependencies, and the UIKit framework.

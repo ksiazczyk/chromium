@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for tab group toolbar tests
+summary: Defines the allowed include rules for the tab group toolbar test directory, permitting data_sharing public and test_support headers.

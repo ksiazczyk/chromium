@@ -1,0 +1,4 @@
+# Docerion header of toolbar_progress_bar.mm.
+type: source
+title: Toolbar progress bar implementation
+summary: Implements animated show and hide behavior for the toolbar progress bar and its page-load accessibility value.

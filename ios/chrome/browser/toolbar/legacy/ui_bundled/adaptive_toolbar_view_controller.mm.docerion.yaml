@@ -1,0 +1,4 @@
+# Docerion header of adaptive_toolbar_view_controller.mm.
+type: source
+title: Adaptive toolbar view controller implementation
+summary: Implements AdaptiveToolbarViewController behavior including side swipe snapshots, scroll progress, slide-in animations and fullscreen progress handling.

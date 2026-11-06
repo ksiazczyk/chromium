@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for tab group toolbar UI
+summary: Lists allowed include rules for the directory, covering menu UI, saved tab groups face pile, and share kit sharing state headers.

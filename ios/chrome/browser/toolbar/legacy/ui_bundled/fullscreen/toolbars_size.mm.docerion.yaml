@@ -1,0 +1,4 @@
+# Docerion header of toolbars_size.mm.
+type: source
+title: ToolbarsSize implementation
+summary: Implements toolbar height setters that notify registered observers when top or bottom toolbar heights change.

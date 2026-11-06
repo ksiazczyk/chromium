@@ -1,0 +1,4 @@
+# Docerion header of adaptive_toolbar_mediator_unittest.mm.
+type: test
+title: Adaptive toolbar mediator unit tests
+summary: Unit tests for AdaptiveToolbarMediator covering web state updates, tab group messages and toolbar button availability using fake web states and OCMock.

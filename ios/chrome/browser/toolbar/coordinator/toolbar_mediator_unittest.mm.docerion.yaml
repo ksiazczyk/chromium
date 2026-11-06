@@ -1,0 +1,4 @@
+# Docerion header of toolbar_mediator_unittest.mm.
+type: test
+title: Toolbar Mediator Unit Tests
+summary: Unit tests for the iOS Chrome toolbar mediator, exercising metrics, preferences, sign-in, sync, tab groups, and command handling with fake services and test utilities.

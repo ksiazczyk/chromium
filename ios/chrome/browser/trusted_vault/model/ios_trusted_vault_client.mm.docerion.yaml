@@ -1,0 +1,4 @@
+# Docerion header of ios_trusted_vault_client.mm.
+type: source
+title: IOSTrustedVaultClient implementation
+summary: Implements IOSTrustedVaultClient by delegating key fetch, staleness marking, recoverability checks, and local data clearing to the trusted vault backend.

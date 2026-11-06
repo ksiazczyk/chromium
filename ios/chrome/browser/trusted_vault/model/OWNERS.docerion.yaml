@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Trusted vault model OWNERS
+summary: Designates the shared trusted vault component owners as the code owners for this directory.

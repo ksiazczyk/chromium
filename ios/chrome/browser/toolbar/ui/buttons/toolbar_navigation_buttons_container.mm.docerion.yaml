@@ -1,0 +1,4 @@
+# Docerion header of toolbar_navigation_buttons_container.mm.
+type: source
+title: Toolbar navigation buttons container implementation
+summary: Implements the back and forward button container with a background view, stack layout, shadow, and trait-driven corner radius updates.

@@ -1,0 +1,4 @@
+# Docerion header of ios_chrome_background_tracing_metrics_provider.mm.
+type: source
+title: iOS background tracing metrics provider implementation
+summary: Implements the provider, setting up field-trial-based tracing and recording system profile metrics such as locale and channel.

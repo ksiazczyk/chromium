@@ -1,0 +1,4 @@
+# Docerion header of main_toolbar_mediator_unittest.mm.
+type: test
+title: Main toolbar mediator unit tests
+summary: Unit tests verifying that the mediator updates toolbar position from preferences and tab strip visibility.

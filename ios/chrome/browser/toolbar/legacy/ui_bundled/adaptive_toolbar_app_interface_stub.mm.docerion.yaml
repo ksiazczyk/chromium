@@ -1,0 +1,4 @@
+# Docerion header of adaptive_toolbar_app_interface_stub.mm.
+type: source
+title: Stub for the adaptive toolbar app interface
+summary: Provides a stub AdaptiveToolbarAppInterface class for test binaries that run without the full app implementation.

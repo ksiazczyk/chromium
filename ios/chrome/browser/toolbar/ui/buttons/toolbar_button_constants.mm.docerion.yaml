@@ -1,0 +1,4 @@
+# Docerion header of toolbar_button_constants.mm.
+type: source
+title: Toolbar button size constants
+summary: Defines the toolbar button size of 38 points and the square corner radius of 13 points.

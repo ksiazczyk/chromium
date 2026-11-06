@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeIOSTranslateClient class interface
+// summary: Declares the per-WebState translate client that drives translation, infobars, and translate preferences in iOS Chrome.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TRANSLATE_MODEL_CHROME_IOS_TRANSLATE_CLIENT_H_
 #define IOS_CHROME_BROWSER_TRANSLATE_MODEL_CHROME_IOS_TRANSLATE_CLIENT_H_
 

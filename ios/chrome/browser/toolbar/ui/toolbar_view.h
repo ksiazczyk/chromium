@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toolbar view header
+// summary: Declares ToolbarView, a container view for the toolbar that notifies its delegate when the view moves to a new window.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TOOLBAR_UI_TOOLBAR_VIEW_H_
 #define IOS_CHROME_BROWSER_TOOLBAR_UI_TOOLBAR_VIEW_H_
 

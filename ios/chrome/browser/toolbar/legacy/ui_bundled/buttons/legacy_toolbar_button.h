@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Legacy toolbar button interface
+// summary: Declares the UIButton subclass used as a legacy toolbar component, with visibility masks, spotlight, blue dot promo, and image loader support.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TOOLBAR_LEGACY_UI_BUNDLED_BUTTONS_LEGACY_TOOLBAR_BUTTON_H_
 #define IOS_CHROME_BROWSER_TOOLBAR_LEGACY_UI_BUNDLED_BUTTONS_LEGACY_TOOLBAR_BUTTON_H_
 

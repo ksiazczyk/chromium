@@ -1,0 +1,4 @@
+# Docerion header of adaptive_toolbar_mediator.mm.
+type: source
+title: Adaptive toolbar mediator implementation
+summary: Implements AdaptiveToolbarMediator, observing web state, web state list, overlay presenter and messaging backend changes to update the toolbar consumer.

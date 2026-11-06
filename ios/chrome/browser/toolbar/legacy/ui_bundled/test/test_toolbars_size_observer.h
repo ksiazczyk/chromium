@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestToolbarsSizeObserver interface
+// summary: Declares a test observer that captures broadcasted collapsed and expanded toolbar height values.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TOOLBAR_LEGACY_UI_BUNDLED_TEST_TEST_TOOLBARS_SIZE_OBSERVER_H_
 #define IOS_CHROME_BROWSER_TOOLBAR_LEGACY_UI_BUNDLED_TEST_TEST_TOOLBARS_SIZE_OBSERVER_H_
 

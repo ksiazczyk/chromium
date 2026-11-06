@@ -1,0 +1,4 @@
+# Docerion header of primary_toolbar_coordinator.mm.
+type: source
+title: Primary toolbar coordinator implementation
+summary: Implements PrimaryToolbarCoordinator, wiring the primary toolbar view controller, mediator, commands, and tab group indicator coordinator.

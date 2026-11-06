@@ -1,0 +1,4 @@
+# Docerion header of secondary_toolbar_coordinator.mm.
+type: source
+title: Secondary toolbar coordinator implementation
+summary: Implements the secondary toolbar coordinator, wiring the mediator, view controller, command handlers, and guided tour highlights.

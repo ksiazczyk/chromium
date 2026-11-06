@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for unified consent model
+summary: Defines the model source set and its dependencies for the iOS unified consent service and URL-keyed data collection consent helpers.

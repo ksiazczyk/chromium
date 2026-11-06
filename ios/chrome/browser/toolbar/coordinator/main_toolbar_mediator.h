@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Main toolbar mediator header
+// summary: Declares MainToolbarMediator, a mediator observing omnibox position preferences and browser layout state.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TOOLBAR_COORDINATOR_MAIN_TOOLBAR_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_TOOLBAR_COORDINATOR_MAIN_TOOLBAR_MEDIATOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toolbar constants header
+// summary: Declares accessibility identifiers for toolbar views and buttons plus layout constants for heights, padding, fullscreen, and glass effect margins.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TOOLBAR_UI_TOOLBAR_CONSTANTS_H_
 #define IOS_CHROME_BROWSER_TOOLBAR_UI_TOOLBAR_CONSTANTS_H_
 

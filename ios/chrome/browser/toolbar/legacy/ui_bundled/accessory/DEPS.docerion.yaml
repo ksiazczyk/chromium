@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for accessory
+summary: Chromium dependency rules allowing this directory to include headers from ios/chrome/browser/presenters/ui_bundled.

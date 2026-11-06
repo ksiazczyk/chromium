@@ -1,0 +1,4 @@
+# Docerion header of toolbar_mediator.mm.
+type: source
+title: Toolbar mediator implementation
+summary: Implements the toolbar mediator, observing web state, preferences, fullscreen, and Gemini services to update the toolbar.

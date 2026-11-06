@@ -1,0 +1,4 @@
+# Docerion header of tab_group_indicator_coordinator.mm.
+type: source
+title: Implementation of the tab group indicator coordinator
+summary: Implements the tab group indicator coordinator, wiring collaboration, data sharing, and feature engagement services to present sharing, editing, and confirmation flows for shared tab groups.

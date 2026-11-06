@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group indicator constants declarations
+// summary: Declares layout constants for the tab group indicator view, NTP margins, and its accessibility identifier.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TOOLBAR_TAB_GROUP_UI_TAB_GROUP_INDICATOR_CONSTANTS_H_
 #define IOS_CHROME_BROWSER_TOOLBAR_TAB_GROUP_UI_TAB_GROUP_INDICATOR_CONSTANTS_H_
 

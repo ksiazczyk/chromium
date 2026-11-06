@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Secondary toolbar view header
+// summary: Declares the view for the secondary part of the adaptive toolbar, exposing the button stack view, separators and translucency controls.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TOOLBAR_LEGACY_UI_BUNDLED_SECONDARY_TOOLBAR_VIEW_H_
 #define IOS_CHROME_BROWSER_TOOLBAR_LEGACY_UI_BUNDLED_SECONDARY_TOOLBAR_VIEW_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of price_tracking_promo_view_controller.mm.
+type: source
+title: Price tracking promo view controller implementation
+summary: Implements the price tracking promo, configuring its Lottie animation, localized title and subtitle, and notification action buttons.

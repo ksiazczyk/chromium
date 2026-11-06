@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toolbar button visibility enum
+// summary: Defines the ToolbarButtonVisibility enum controlling when toolbar buttons appear, based on size classes, wide layout, and enablement.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TOOLBAR_UI_BUTTONS_TOOLBAR_BUTTON_VISIBILITY_H_
 #define IOS_CHROME_BROWSER_TOOLBAR_UI_BUTTONS_TOOLBAR_BUTTON_VISIBILITY_H_
 

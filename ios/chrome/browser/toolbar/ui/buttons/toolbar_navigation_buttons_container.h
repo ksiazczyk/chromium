@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toolbar navigation buttons container header
+// summary: Declares a UIView container that groups the back and forward toolbar buttons with a shared background.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TOOLBAR_UI_BUTTONS_TOOLBAR_NAVIGATION_BUTTONS_CONTAINER_H_
 #define IOS_CHROME_BROWSER_TOOLBAR_UI_BUTTONS_TOOLBAR_NAVIGATION_BUTTONS_CONTAINER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of toolbars_size_broadcasting_util_unittest.mm.
+type: test
+title: Toolbars size broadcasting utility unit tests
+summary: Verifies that broadcasting of toolbar size properties starts and stops correctly with a ChromeBroadcaster.

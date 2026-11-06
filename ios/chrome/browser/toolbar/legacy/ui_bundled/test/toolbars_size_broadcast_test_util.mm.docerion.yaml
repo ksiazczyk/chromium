@@ -1,0 +1,4 @@
+# Docerion header of toolbars_size_broadcast_test_util.mm.
+type: test
+title: Toolbars size broadcast test utility implementation
+summary: Verifies toolbar size broadcasting by temporarily modifying toolbar heights and checking observer values.

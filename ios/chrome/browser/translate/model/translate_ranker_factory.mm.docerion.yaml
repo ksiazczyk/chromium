@@ -1,0 +1,4 @@
+# Docerion header of translate_ranker_factory.mm.
+type: source
+title: Translate ranker factory implementation
+summary: Implements the translate ranker factory, building a TranslateRankerImpl per profile with model path, model URL and UKM recorder.

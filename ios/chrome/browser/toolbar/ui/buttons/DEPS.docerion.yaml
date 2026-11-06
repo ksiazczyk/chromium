@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for toolbar buttons
+summary: Include rules listing the Chromium directories and headers that code in the toolbar buttons folder is allowed to depend on.

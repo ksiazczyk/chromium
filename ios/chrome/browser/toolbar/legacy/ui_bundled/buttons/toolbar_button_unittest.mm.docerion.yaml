@@ -1,0 +1,4 @@
+# Docerion header of toolbar_button_unittest.mm.
+type: test
+title: Toolbar button unit tests
+summary: Unit tests for LegacyToolbarButton covering IPH highlighted images, the blue dot subview, and accessibility behavior.

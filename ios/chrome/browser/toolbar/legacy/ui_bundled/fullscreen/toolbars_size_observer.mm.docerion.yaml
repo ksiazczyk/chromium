@@ -1,0 +1,4 @@
+# Docerion header of toolbars_size_observer.mm.
+type: source
+title: ToolbarsSizeObserver implementation
+summary: Implements the ToolbarsSizeObserver destructor, which enforces with a CHECK that observers are removed from the ToolbarsSize observer list before being destroyed.

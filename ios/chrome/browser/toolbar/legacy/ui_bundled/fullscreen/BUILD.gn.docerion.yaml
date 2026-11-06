@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Fullscreen toolbars size build targets
+summary: Defines source sets and dependencies for the fullscreen toolbars size code, its broadcasting utility, and unit tests.

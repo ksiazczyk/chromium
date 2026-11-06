@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Legacy toolbar mediator interface
+// summary: Declares LegacyToolbarMediator and its delegate, which manage omnibox positioning and toolbar updates by observing web states and preferences.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TOOLBAR_LEGACY_UI_BUNDLED_LEGACY_TOOLBAR_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_TOOLBAR_LEGACY_UI_BUNDLED_LEGACY_TOOLBAR_MEDIATOR_H_
 

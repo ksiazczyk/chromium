@@ -1,0 +1,4 @@
+# Docerion header of secondary_toolbar_view_controller.mm.
+type: source
+title: Secondary toolbar view controller implementation
+summary: Implements the secondary toolbar controller, handling keyboard notifications, fullscreen collapsing and the location indicator state.

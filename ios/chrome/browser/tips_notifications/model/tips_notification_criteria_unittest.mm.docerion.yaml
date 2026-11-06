@@ -1,0 +1,4 @@
+# Docerion header of tips_notification_criteria_unittest.mm.
+type: test
+title: Tips notification criteria unit tests
+summary: Unit tests for TipsNotificationCriteria verifying eligibility rules for each notification type using mock trackers, sync services and test profiles.

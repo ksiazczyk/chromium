@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Primary toolbar view interface
+// summary: Declares PrimaryToolbarView, the always-visible primary toolbar view with button stacks, omnibox constraints, tab group indicator, and banner promo support.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TOOLBAR_LEGACY_UI_BUNDLED_PRIMARY_TOOLBAR_VIEW_H_
 #define IOS_CHROME_BROWSER_TOOLBAR_LEGACY_UI_BUNDLED_PRIMARY_TOOLBAR_VIEW_H_
 

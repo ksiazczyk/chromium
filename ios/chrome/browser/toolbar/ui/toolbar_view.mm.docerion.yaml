@@ -1,0 +1,4 @@
+# Docerion header of toolbar_view.mm.
+type: source
+title: ToolbarView implementation
+summary: Implements the ToolbarView UIView subclass that notifies its delegate when the view is moved to a window.

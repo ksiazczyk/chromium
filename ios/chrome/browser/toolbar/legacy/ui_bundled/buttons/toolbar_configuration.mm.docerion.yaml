@@ -1,0 +1,4 @@
+# Docerion header of toolbar_configuration.mm.
+type: source
+title: Toolbar configuration implementation
+summary: Implements color and accessibility label lookups for normal and incognito toolbar styles, including omnibox background colors.

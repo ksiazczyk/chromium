@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the tab group coordinator
+summary: Specifies the allowed include paths for the tab group coordinator, covering collaboration, data sharing, saved tab groups, share kit, and tab switcher headers.

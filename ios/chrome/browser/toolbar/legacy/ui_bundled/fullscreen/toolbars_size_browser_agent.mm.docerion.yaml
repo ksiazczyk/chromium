@@ -1,0 +1,4 @@
+# Docerion header of toolbars_size_browser_agent.mm.
+type: source
+title: ToolbarsSizeBrowserAgent implementation
+summary: Implements setting and getting the ToolbarsSize object managed by the browser agent.

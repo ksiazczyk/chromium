@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Fullscreen module include rules
+summary: Permits includes from the ios/chrome/browser/broadcaster/ui_bundled directory within this module.

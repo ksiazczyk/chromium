@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Translate PDF metric logger header
+// summary: Declares a tab helper that logs translation metrics for PDF documents based on the referring page's translation state.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TRANSLATE_MODEL_TRANSLATE_PDF_METRIC_LOGGER_H_
 #define IOS_CHROME_BROWSER_TRANSLATE_MODEL_TRANSLATE_PDF_METRIC_LOGGER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of primary_toolbar_view.mm.
+type: source
+title: Primary toolbar view implementation
+summary: Implements the primary toolbar view with navigation buttons, progress bar, separator, banner promo spacing, and tab group indicator for Chrome on iOS.

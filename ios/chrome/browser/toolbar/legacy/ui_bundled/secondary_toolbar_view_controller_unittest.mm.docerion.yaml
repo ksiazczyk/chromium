@@ -1,0 +1,4 @@
+# Docerion header of secondary_toolbar_view_controller_unittest.mm.
+type: test
+title: Secondary toolbar view controller unit tests
+summary: Unit tests verifying controller initialization and that the location indicator resets when the location bar view controller is removed.

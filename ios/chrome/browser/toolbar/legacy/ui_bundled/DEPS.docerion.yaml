@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the legacy toolbar UI directory
+summary: Lists the allowed includes for this directory, with extra include rules for unit test files.
