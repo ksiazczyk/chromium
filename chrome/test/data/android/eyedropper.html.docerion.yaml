@@ -1,0 +1,4 @@
+# Docerion header of eyedropper.html.
+type: test
+title: EyeDropper test page
+summary: Test page with a button that opens the EyeDropper API and stores the selected color or error in window.lastResult for verification.

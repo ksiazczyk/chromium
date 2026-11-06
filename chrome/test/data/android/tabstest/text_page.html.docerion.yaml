@@ -1,0 +1,4 @@
+# Docerion header of text_page.html.
+type: test
+title: Text page fixture
+summary: Long lorem ipsum text page used as test data for Android tabs tests.

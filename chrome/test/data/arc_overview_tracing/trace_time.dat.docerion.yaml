@@ -1,0 +1,4 @@
+# Docerion header of trace_time.dat.
+type: test
+title: Trace timing test fixture
+summary: Trace event fixture with repeated Surface::Commit events used to test timestamp handling in ARC overview tracing.

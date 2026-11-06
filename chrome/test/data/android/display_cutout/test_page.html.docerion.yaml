@@ -1,0 +1,4 @@
+# Docerion header of test_page.html.
+type: test
+title: Display cutout fullscreen test page
+summary: HTML test page that applies safe-area-inset margins and offers buttons to request fullscreen for the page and an embedded subframe.

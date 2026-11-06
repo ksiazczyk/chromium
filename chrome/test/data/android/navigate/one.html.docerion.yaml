@@ -1,0 +1,4 @@
+# Docerion header of one.html.
+type: test
+title: One
+summary: Test page titled 'One' with colored div blocks and filler text, used as navigation test data for Android Chrome tests.

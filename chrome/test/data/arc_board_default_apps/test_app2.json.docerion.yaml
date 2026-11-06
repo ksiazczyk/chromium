@@ -1,0 +1,4 @@
+# Docerion header of test_app2.json.
+type: test
+title: TestApp2 JSON fixture
+summary: JSON fixture defining metadata for the TestApp2 app, used as test data for ARC board default apps tests.

@@ -1,0 +1,4 @@
+# Docerion header of superbo.txt.mock-http-headers.
+type: test
+title: Mock HTTP headers for superbo.txt
+summary: Mock HTTP response headers marking superbo.txt as a text/plain attachment download.

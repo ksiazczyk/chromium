@@ -1,0 +1,4 @@
+# Docerion header of gm_good.json.
+type: test
+title: Valid graphics memory test fixture
+summary: Well-formed graphics memory JSON with buffers, views, duration and icon, used as positive test input for ARC overview tracing.

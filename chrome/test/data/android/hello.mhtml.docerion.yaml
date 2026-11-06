@@ -1,0 +1,4 @@
+# Docerion header of hello.mhtml.
+type: test
+title: Hello World MHTML test file
+summary: MHTML archive of a simple Hello World page saved from example.com, used as test data for MHTML loading.

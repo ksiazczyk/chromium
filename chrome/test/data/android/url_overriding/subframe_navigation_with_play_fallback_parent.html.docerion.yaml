@@ -1,0 +1,4 @@
+# Docerion header of subframe_navigation_with_play_fallback_parent.html.
+type: test
+title: Subframe navigation with play fallback parent test page
+summary: Parent test page that embeds the frame redirect with play fallback page in an iframe for subframe navigation testing.

@@ -1,0 +1,4 @@
+# Docerion header of cookie.html.
+type: test
+title: Cookie test page
+summary: Provides JavaScript helpers to set, get, and clear cookies so tests can exercise cookie behavior.

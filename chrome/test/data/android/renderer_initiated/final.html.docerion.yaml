@@ -1,0 +1,4 @@
+# Docerion header of final.html.
+type: test
+title: Final page for renderer-initiated intent test
+summary: Test page serving as the navigation target that a renderer-initiated intent opens during Android Chromium tests.

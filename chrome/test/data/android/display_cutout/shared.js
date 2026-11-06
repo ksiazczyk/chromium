@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared display cutout test helper
+// summary: JavaScript helper that parses pixel values and reads the safe-area-inset margins of the target element for the display cutout test pages.
+// ---
+
 function fromPx(pxValue) {
   return parseInt(pxValue.replace('px', ''), 10);
 }

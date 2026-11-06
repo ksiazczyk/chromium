@@ -1,0 +1,4 @@
+# Docerion header of test.mht.
+type: test
+title: MHTML test page
+summary: MHTML archive saved by UnMHT containing a simple example.com page, used as a fixture for MHTML loading tests.

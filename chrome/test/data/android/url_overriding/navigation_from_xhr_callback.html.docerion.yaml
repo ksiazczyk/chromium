@@ -1,0 +1,4 @@
+# Docerion header of navigation_from_xhr_callback.html.
+type: test
+title: XHR callback intent navigation test page
+summary: Test page that navigates to an externalappscheme intent URL from an XMLHttpRequest callback triggered by a click.

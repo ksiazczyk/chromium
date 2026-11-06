@@ -1,0 +1,4 @@
+# Docerion header of simple.html.
+type: test
+title: Simple
+summary: Minimal test page titled 'Simple' with a single colored block and filler text, used as navigation test data for Android Chrome tests.

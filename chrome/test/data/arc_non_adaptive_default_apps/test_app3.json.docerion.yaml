@@ -1,0 +1,4 @@
+# Docerion header of test_app3.json.
+type: test
+title: Test app 3 metadata for ARC default apps tests
+summary: JSON fixture describing TestApp3, including its package, activity, OEM flag and app path, for ARC non-adaptive default app tests.

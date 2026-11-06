@@ -1,0 +1,4 @@
+# Docerion header of navigation_from_user_gesture.html.
+type: test
+title: User gesture intent navigation test page
+summary: Test page that navigates to an externalappscheme intent URL when the user clicks anywhere on the page.

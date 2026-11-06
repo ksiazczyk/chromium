@@ -1,0 +1,4 @@
+# Docerion header of content_url_make_cors_to_content.html.
+type: test
+title: Content URL CORS test page
+summary: Performs XHR or fetch requests with configurable mode against content URLs and reports load, error, or abort results via the document title.

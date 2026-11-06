@@ -1,0 +1,4 @@
+# Docerion header of gem_objects.
+type: test
+title: GEM object statistics test fixture
+summary: Sample graphics GEM object statistics listing object counts and memory per process, used as test input for ARC overview tracing.

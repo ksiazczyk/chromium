@@ -1,0 +1,4 @@
+# Docerion header of view_transition_browser_controls.html.
+type: test
+title: View transition test page for browser controls
+summary: Test page running a cross-document view transition with strips and control-edge elements to check rendering against Android browser controls.

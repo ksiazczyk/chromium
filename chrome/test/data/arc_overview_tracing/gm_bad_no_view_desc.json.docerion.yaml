@@ -1,0 +1,4 @@
+# Docerion header of gm_bad_no_view_desc.json.
+type: test
+title: Invalid graphics memory fixture without view description
+summary: Graphics memory JSON fixture whose view lacks a description, used to test validation in ARC overview tracing.

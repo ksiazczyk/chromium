@@ -1,0 +1,4 @@
+# Docerion header of navigation_from_target_blank.html.
+type: test
+title: Navigation from target blank link test page
+summary: Test page with a target blank link to a parameterized URL for testing external app navigation.

@@ -1,0 +1,4 @@
+# Docerion header of renderer_initiated.html.
+type: test
+title: Auto-launching renderer-initiated intent page
+summary: Test page that uses JavaScript on load to launch an intent navigating to a given URL in Android Chromium tests.

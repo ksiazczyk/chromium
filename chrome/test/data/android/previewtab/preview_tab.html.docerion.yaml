@@ -1,0 +1,4 @@
+# Docerion header of preview_tab.html.
+type: test
+title: Preview Tab test fixture page
+summary: Sample Preview Tab page with content for quick viewing and a link to another page to test navigation within a Preview Tab.

@@ -1,0 +1,4 @@
+# Docerion header of view_transition_wider_than_icb.html.
+type: test
+title: View transition test page wider than the initial containing block
+summary: Test page with a 1600px-wide element and fixed corner elements to check view transition snapshots beyond the initial containing block.

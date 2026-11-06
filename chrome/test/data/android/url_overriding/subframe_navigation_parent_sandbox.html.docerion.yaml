@@ -1,0 +1,4 @@
+# Docerion header of subframe_navigation_parent_sandbox.html.
+type: test
+title: Subframe navigation parent sandbox test page
+summary: Parent test page embedding a sandboxed iframe that loads a child navigation page with replaceable name and value parameters for Android URL overriding tests.

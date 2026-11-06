@@ -1,0 +1,4 @@
+# Docerion header of subframe.html.
+type: test
+title: Display cutout subframe test page
+summary: HTML subframe with a viewport-fit=cover viewport that applies safe-area-inset margins, loaded in an iframe by the main test page.

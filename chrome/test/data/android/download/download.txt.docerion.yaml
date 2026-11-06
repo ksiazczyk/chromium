@@ -1,0 +1,4 @@
+# Docerion header of download.txt.
+type: test
+title: Download test text file
+summary: Tiny text file serving as a simple download test payload.

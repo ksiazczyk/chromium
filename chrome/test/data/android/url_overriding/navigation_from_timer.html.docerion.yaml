@@ -1,0 +1,4 @@
+# Docerion header of navigation_from_timer.html.
+type: test
+title: Timer-triggered intent navigation test page
+summary: Test page that navigates to an externalappscheme intent URL two seconds after load via setTimeout.

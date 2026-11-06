@@ -1,0 +1,4 @@
+# Docerion header of hello_world.gcl.textpb.
+type: test
+title: Hello world feed response test fixture
+summary: Text-format protobuf FeedResponse fixture that builds a hello world stream card with a dismiss swipe action for Chrome's Android feed tests.

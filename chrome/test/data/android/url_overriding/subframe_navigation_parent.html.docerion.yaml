@@ -1,0 +1,4 @@
+# Docerion header of subframe_navigation_parent.html.
+type: test
+title: Subframe navigation parent test page
+summary: Parent page embedding a child frame whose URL and query parameters are substituted to test subframe navigation.

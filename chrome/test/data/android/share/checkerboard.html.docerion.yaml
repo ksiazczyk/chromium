@@ -1,0 +1,4 @@
+# Docerion header of checkerboard.html.
+type: test
+title: Checkerboard canvas test page
+summary: Test page that renders a red and blue checkerboard on a tall canvas to detect stretching or misalignment, signaling completion via the document title.

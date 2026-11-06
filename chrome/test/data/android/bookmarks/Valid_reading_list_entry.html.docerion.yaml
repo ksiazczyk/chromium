@@ -1,0 +1,4 @@
+# Docerion header of Valid_reading_list_entry.html.
+type: test
+title: Valid reading list entry test data
+summary: Netscape bookmark file containing a single Chromium entry used as valid test data for reading list entries on Android.

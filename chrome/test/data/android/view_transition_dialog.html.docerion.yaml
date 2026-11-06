@@ -1,0 +1,4 @@
+# Docerion header of view_transition_dialog.html.
+type: test
+title: View transition test page showing a modal dialog
+summary: Test page that opens a modal dialog during a view transition to verify dialog positioning within marked viewport lines.

@@ -1,0 +1,4 @@
+# Docerion header of large-image-page.html.
+type: test
+title: Large image selection test page
+summary: HTML test page with a selectable div containing a large image, used to exercise clipboard history copying of large image content.

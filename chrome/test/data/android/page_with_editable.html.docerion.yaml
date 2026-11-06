@@ -1,0 +1,4 @@
+# Docerion header of page_with_editable.html.
+type: test
+title: Editable page with viewport and keyboard resize tracking
+summary: Test page with a text input that configures interactive-widget viewport modes and logs resize events plus virtual keyboard geometry changes.

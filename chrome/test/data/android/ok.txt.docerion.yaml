@@ -1,0 +1,4 @@
+# Docerion header of ok.txt.
+type: test
+title: OK text fixture
+summary: Plain text fixture containing the string 'OK Computer', used as simple test data for Android Chrome tests.

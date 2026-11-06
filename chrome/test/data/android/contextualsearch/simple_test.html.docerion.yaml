@@ -1,0 +1,4 @@
+# Docerion header of simple_test.html.
+type: test
+title: Simple test page for search term resolution
+summary: HTML fixture with Search, Term, and Resolution spans used to exercise search term resolution in Android Contextual Search tests.

@@ -1,0 +1,4 @@
+# Docerion header of subframe_navigation_child.html.
+type: test
+title: Subframe navigation child test page
+summary: Child frame page that navigates to a parameterized subframe URL on click to trigger opening an app.

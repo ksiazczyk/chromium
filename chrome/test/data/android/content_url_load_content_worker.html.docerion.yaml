@@ -1,0 +1,4 @@
+# Docerion header of content_url_load_content_worker.html.
+type: test
+title: Content URL worker loader page
+summary: Spawns a web worker from a content URL and reports the outcome via the document title, for testing worker loading from content URLs.

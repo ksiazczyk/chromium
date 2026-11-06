@@ -1,0 +1,4 @@
+# Docerion header of Info.plist.
+type: test
+title: App shim 32-bit dSYM bundle Info.plist
+summary: Property list defining the metadata of the 32-bit app shim dSYM bundle used as test fixture data in Chrome's app shim tests.

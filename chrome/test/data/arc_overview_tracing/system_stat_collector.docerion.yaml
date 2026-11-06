@@ -1,0 +1,4 @@
+# Docerion header of system_stat_collector.
+type: test
+title: System statistics collector test fixture
+summary: Sample system statistics samples with CPU, GPU, memory and swap metrics used to test the system stat collector in ARC overview tracing.

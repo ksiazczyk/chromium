@@ -1,0 +1,4 @@
+# Docerion header of dom_mutations.html.
+type: test
+title: AppTest example page using DomMutation observers
+summary: Example web app used by chrome/functional/apptest.py that simulates an asynchronous login flow to demonstrate testing webapps via DomMutation observers.

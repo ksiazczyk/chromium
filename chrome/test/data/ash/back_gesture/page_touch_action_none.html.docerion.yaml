@@ -1,0 +1,4 @@
+# Docerion header of page_touch_action_none.html.
+type: test
+title: Back gesture test page with touch-action none
+summary: HTML test fixture with body touch-action none, providing a non-scrollable page for Ash back gesture tests.

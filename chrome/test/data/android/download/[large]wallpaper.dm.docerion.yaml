@@ -1,0 +1,4 @@
+# Docerion header of [large]wallpaper.dm.
+type: test
+title: Fake .dm file for download testing
+summary: Faked .dm file used as a download test target on Android.

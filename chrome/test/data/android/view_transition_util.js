@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: View transition test utility for controlling animations
+// summary: Shared JavaScript helper that creates view transitions, pauses animations, and lets tests step them between old and new states for screenshots.
+// ---
+
 let transition = null;
 
 addEventListener('pagereveal', e => {

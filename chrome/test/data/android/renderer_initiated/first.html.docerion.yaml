@@ -1,0 +1,4 @@
+# Docerion header of first.html.
+type: test
+title: Link page triggering a renderer-initiated intent
+summary: Test page with a link that, when clicked, triggers a renderer-initiated intent in Android Chromium tests.

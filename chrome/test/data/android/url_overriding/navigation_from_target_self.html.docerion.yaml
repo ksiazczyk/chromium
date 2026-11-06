@@ -1,0 +1,4 @@
+# Docerion header of navigation_from_target_self.html.
+type: test
+title: Target self link navigation test page
+summary: Test page whose target=_self link navigates to a parameter URL when clicked, for Android URL overriding tests.

@@ -1,0 +1,4 @@
+# Docerion header of renavigate_frame.html.
+type: test
+title: Renavigate frame to app intent test page
+summary: Test page that opens hello.html in a new window on click and renavigates it to an external app scheme intent URL.

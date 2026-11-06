@@ -1,0 +1,4 @@
+# Docerion header of navigation_from_user_gesture_parent_frame.html.
+type: test
+title: Parent frame hosting user gesture navigation test page
+summary: Test page that embeds navigation_from_user_gesture.html in an iframe to exercise intent navigation from a child frame.

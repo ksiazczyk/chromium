@@ -1,0 +1,4 @@
+# Docerion header of navigation_to_cct_via_intent_uri.html.
+type: test
+title: Custom Tab intent URI navigation test page
+summary: Test page that opens a Chrome Custom Tab via an intent URI targeting the Chromium test package when the page is clicked.

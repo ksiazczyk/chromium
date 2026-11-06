@@ -1,0 +1,4 @@
+# Docerion header of theme_color_test.html.
+type: test
+title: Theme color test page
+summary: Test page with a red theme-color meta tag and over 200 characters of text to deterministically trigger theme color change notifications.

@@ -1,0 +1,4 @@
+# Docerion header of two.html.
+type: test
+title: Two
+summary: Test page titled 'Two' with colored div blocks and filler text, used as navigation test data for Android Chrome tests.

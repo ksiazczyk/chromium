@@ -1,0 +1,4 @@
+# Docerion header of navigation_from_xhr_callback_lost_activation.html.
+type: test
+title: XHR callback with lost user activation navigation test page
+summary: Test page that navigates to an external app intent once user activation is no longer active, following an XHR callback.

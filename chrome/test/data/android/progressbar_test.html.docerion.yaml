@@ -1,0 +1,4 @@
+# Docerion header of progressbar_test.html.
+type: test
+title: Progress bar test page with iframe loading
+summary: Simple greeting page that can load itself into a dynamically created iframe, presumably for progress bar behavior tests.
