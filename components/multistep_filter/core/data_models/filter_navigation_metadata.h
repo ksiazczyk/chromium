@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FilterNavigationMetadata declaration
+// summary: Declares the FilterNavigationMetadata struct, an immutable snapshot of tab navigation state such as URLs, error codes, gestures, and UKM source ID.
+// ---
+
 #ifndef COMPONENTS_MULTISTEP_FILTER_CORE_DATA_MODELS_FILTER_NAVIGATION_METADATA_H_
 #define COMPONENTS_MULTISTEP_FILTER_CORE_DATA_MODELS_FILTER_NAVIGATION_METADATA_H_
 

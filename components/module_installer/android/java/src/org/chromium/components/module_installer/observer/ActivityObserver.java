@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActivityObserver for on-demand DFM installs
+// summary: Observes Android activity state changes and split-compats activities so dynamic feature modules can be lazily installed on demand, updating resumed activities when a module installs.
+// ---
+
 package org.chromium.components.module_installer.observer;
 
 import android.app.Activity;

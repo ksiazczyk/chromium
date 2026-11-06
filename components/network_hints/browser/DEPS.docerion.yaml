@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the network_hints browser directory
+summary: Allows includes from content/public/browser, IPC, Mojo bindings, net and network service public headers within this directory.

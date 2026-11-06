@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FilterExtractor implementation
+// summary: Implements FilterExtractor, which extracts a FilterAnnotation from a URL via AnnotationIndexClient, stores it in FilterStore, and logs each step of the process.
+// ---
+
 #include "components/multistep_filter/core/extraction/filter_extractor.h"
 
 #include <optional>

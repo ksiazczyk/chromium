@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FilterSuggestionCandidate implementation
+// summary: Implements the FilterSuggestionCandidate and FilterSuggestionCandidateAttribute data model classes with constructors and ToString methods.
+// ---
+
 #include "components/multistep_filter/core/data_models/filter_suggestion_candidate.h"
 
 #include <string>

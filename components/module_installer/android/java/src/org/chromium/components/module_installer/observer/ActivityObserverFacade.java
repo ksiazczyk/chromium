@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActivityObserverFacade
+// summary: Wraps ApplicationStatus calls for running activities and their states to isolate dependencies that are hard to mock and simplify the ActivityObserver design.
+// ---
+
 package org.chromium.components.module_installer.observer;
 
 import android.app.Activity;

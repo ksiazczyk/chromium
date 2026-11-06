@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test constants and helpers for network time
+// summary: Declares test constants and helpers, including valid time response bodies and CUP server proof headers for the embedded test server.
+// ---
+
 #ifndef COMPONENTS_NETWORK_TIME_NETWORK_TIME_TEST_UTILS_H_
 #define COMPONENTS_NETWORK_TIME_NETWORK_TIME_TEST_UTILS_H_
 

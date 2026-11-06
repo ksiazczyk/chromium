@@ -1,0 +1,4 @@
+# Docerion header of network_hints.mojom.
+type: source
+title: Network hints Mojo interface
+summary: Mojo interface letting the renderer send DNS prefetch and preconnect hints to the browser.

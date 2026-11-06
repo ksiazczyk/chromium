@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MultistepFilterLogRouterImpl unit tests
+// summary: Tests observer-based logging enablement, buffer eviction limits, observer notification on new entries, and callback safety after shutdown.
+// ---
+
 #include "components/multistep_filter/core/logging/multistep_filter_log_router_impl.h"
 
 #include "base/barrier_closure.h"

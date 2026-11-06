@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test utilities for network time tracker tests
+// summary: Implements test helpers for network time tests, including a good time response handler and field trial parameter configuration.
+// ---
+
 #include "components/network_time/network_time_test_utils.h"
 
 #include <memory>

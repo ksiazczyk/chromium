@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content filter navigation observer implementation
+// summary: Implements the WebContents observer that builds navigation metadata and triggers Multistep Filter suggestion logic for committed primary main frame navigations.
+// ---
+
 #include "components/multistep_filter/content/content_filter_navigation_observer.h"
 
 #include <optional>

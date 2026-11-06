@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Network hints common build file
+summary: GN build file that generates Mojo bindings from network_hints.mojom for the network hints component.

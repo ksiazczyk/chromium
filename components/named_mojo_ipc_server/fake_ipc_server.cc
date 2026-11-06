@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeIpcServer test double implementation
+// summary: Implements FakeIpcServer, a test double that records server start, stop, close, and disconnect calls in a TestState object.
+// ---
+
 #include "components/named_mojo_ipc_server/fake_ipc_server.h"
 
 namespace named_mojo_ipc_server {

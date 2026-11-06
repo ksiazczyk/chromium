@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multistep Filter retention prefs header
+// summary: Declares retention preference name constants and functions to register and update Multistep Filter retention tracking prefs.
+// ---
+
 #ifndef COMPONENTS_MULTISTEP_FILTER_CORE_PREFS_MULTISTEP_FILTER_RETENTION_PREFS_H_
 #define COMPONENTS_MULTISTEP_FILTER_CORE_PREFS_MULTISTEP_FILTER_RETENTION_PREFS_H_
 

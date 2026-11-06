@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the common component
+summary: Grants the common component include access to the //base directory through Chromium DEPS include rules.

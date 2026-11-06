@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client connection helper declarations
+// summary: Declares platform-agnostic ConnectToServer helpers that clients use to connect to a NamedMojoIpcServer by options or server name.
+// ---
+
 #ifndef COMPONENTS_NAMED_MOJO_IPC_SERVER_NAMED_MOJO_IPC_SERVER_CLIENT_UTIL_H_
 #define COMPONENTS_NAMED_MOJO_IPC_SERVER_NAMED_MOJO_IPC_SERVER_CLIENT_UTIL_H_
 

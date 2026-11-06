@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for navigation_metrics
+summary: Defines the navigation_metrics static library and its unit test source set with their sources and dependencies in GN build format.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MultistepFilterService implementation
+// summary: Implements the profile-scoped KeyedService coordinating Multistep Filter, handling consent, sync and identity state, history deletion and retention metrics.
+// ---
+
 #include "components/multistep_filter/core/multistep_filter_service.h"
 
 #include <memory>

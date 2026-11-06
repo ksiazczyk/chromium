@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Network hints common owners rules
+summary: Requires IPC security owners to review message headers, sources, and mojom files in this folder.

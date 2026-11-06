@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LogEntry event types and struct
+// summary: Defines the LogEventType enum of multistep filter events and the LogEntry struct holding timestamp, navigation ID, event type, host, and details.
+// ---
+
 #ifndef COMPONENTS_MULTISTEP_FILTER_CORE_LOGGING_LOG_ENTRY_H_
 #define COMPONENTS_MULTISTEP_FILTER_CORE_LOGGING_LOG_ENTRY_H_
 

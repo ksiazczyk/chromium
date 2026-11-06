@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Filter store header
+// summary: Declares FilterStore, an asynchronous interface for storing, retrieving, and deleting filter annotations off the main UI thread.
+// ---
+
 #ifndef COMPONENTS_MULTISTEP_FILTER_CORE_STORAGE_FILTER_STORE_H_
 #define COMPONENTS_MULTISTEP_FILTER_CORE_STORAGE_FILTER_STORE_H_
 

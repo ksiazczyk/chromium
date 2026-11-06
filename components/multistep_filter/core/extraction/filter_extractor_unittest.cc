@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FilterExtractor unit tests
+// summary: Unit tests for FilterExtractor covering successful annotation extraction and storage, store failure returning nullopt, and the case where extraction yields no annotation.
+// ---
+
 #include "components/multistep_filter/core/extraction/filter_extractor.h"
 
 #include "base/test/gmock_callback_support.h"

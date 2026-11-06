@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for NetExportFileWriter
+// summary: Exercises NetExportFileWriter state transitions and log export behavior using fake exporters, a fake network context, and an embedded test server.
+// ---
+
 #include "components/net_log/net_export_file_writer.h"
 
 #include <stdint.h>

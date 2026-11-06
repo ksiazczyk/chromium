@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Net export UI constants header
+// summary: Declares string constants for net export UI message handlers and events that must match values used in the resource files.
+// ---
+
 #ifndef COMPONENTS_NET_LOG_NET_EXPORT_UI_CONSTANTS_H_
 #define COMPONENTS_NET_LOG_NET_EXPORT_UI_CONSTANTS_H_
 

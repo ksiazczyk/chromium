@@ -1,3 +1,9 @@
+---
+type: readme
+title: Network error interstitial resources README
+summary: Describes the HTML template and resources for network error pages shared across desktop and mobile platforms, including scripts and images for the offline dino game.
+---
+
 #Network error interstitial resources
 
 This directory contains the HTML template and resources displayed in the case of

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Module
+// summary: Generic class representing a feature module that can install the module, check installation status, and access its interface implementation, optionally loading native code.
+// ---
+
 package org.chromium.components.module_installer.builder;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedLogMessage and MULTISTEP_FILTER_LOG macro
+// summary: Defines the scoped log entry builder with operator<< detail support and the MULTISTEP_FILTER_LOG macro that logs only when logging is enabled.
+// ---
+
 #ifndef COMPONENTS_MULTISTEP_FILTER_CORE_LOGGING_MULTISTEP_FILTER_LOGGER_H_
 #define COMPONENTS_MULTISTEP_FILTER_CORE_LOGGING_MULTISTEP_FILTER_LOGGER_H_
 

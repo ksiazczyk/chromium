@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Filter store unit tests
+// summary: Unit tests for FilterStore verifying asynchronous store, retrieve, filter, and delete operations through the background backend using test futures.
+// ---
+
 #include "components/multistep_filter/core/storage/filter_store.h"
 
 #include <memory>

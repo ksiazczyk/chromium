@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Engine factory for install engines
+// summary: Factory class that builds the concrete install engine, returning a SplitCompatEngine instance.
+// ---
+
 package org.chromium.components.module_installer.engine;
 
 import org.chromium.build.annotations.NullMarked;

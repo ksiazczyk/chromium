@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for net_export WebUI resources
+summary: GN build target that bundles net_export.css, net_export.html and net_export.js into the net-export WebUI with trusted context and grit output under components.

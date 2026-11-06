@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Android GN build targets for network session configurator
+summary: Defines GN targets that generate Java network session switches from C++ sources and package them into an Android library for Chromium.

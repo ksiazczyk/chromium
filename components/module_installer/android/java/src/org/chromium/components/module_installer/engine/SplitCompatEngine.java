@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Play Core and SplitCompat install engine
+// summary: Install engine implementation that uses Play Core SplitInstall and SplitCompat to install modules and notify registered listeners of results.
+// ---
+
 package org.chromium.components.module_installer.engine;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

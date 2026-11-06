@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Horizon line class for the dino game
+// summary: Implements the HorizonLine class that draws and scrolls the two-segment flat or bumpy ground line on the dino game canvas.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 
 import {FPS, IS_HIDPI} from './constants.js';

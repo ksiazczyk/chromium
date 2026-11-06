@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the annotation_index component
+summary: Defines the annotation_index static library plus test_support and unit_tests targets with their sources and dependencies.

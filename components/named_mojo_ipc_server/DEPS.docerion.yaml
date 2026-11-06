@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the named_mojo_ipc_server directory
+summary: Grants the directory include access to components/test and Mojo public and embedder headers.

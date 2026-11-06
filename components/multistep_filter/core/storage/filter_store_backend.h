@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Filter store backend header
+// summary: Declares FilterStoreBackend, the sequence-bound backend that owns the in-memory SQLite database and the filter annotation table.
+// ---
+
 #ifndef COMPONENTS_MULTISTEP_FILTER_CORE_STORAGE_FILTER_STORE_BACKEND_H_
 #define COMPONENTS_MULTISTEP_FILTER_CORE_STORAGE_FILTER_STORE_BACKEND_H_
 

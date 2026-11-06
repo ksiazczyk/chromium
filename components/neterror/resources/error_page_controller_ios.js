@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS error page controller bridge
+// summary: Defines the errorPageController object that forwards error page button clicks and dino game easter egg events to iOS native code via WebKit message handlers.
+// ---
+
 window.errorPageController = {
   // Execute a button click to download page later.
   downloadButtonClick: function() {},

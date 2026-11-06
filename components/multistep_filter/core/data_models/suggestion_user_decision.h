@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SuggestionUserDecision enum
+// summary: Defines the SuggestionUserDecision enum of user interactions with filter suggestions, persisted in UMA logs.
+// ---
+
 #ifndef COMPONENTS_MULTISTEP_FILTER_CORE_DATA_MODELS_SUGGESTION_USER_DECISION_H_
 #define COMPONENTS_MULTISTEP_FILTER_CORE_DATA_MODELS_SUGGESTION_USER_DECISION_H_
 

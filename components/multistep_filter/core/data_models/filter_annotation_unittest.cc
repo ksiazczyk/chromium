@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FilterAnnotation unit tests
+// summary: Unit tests covering the constructors, DCHECK failure cases, and ToString output of FilterAttribute and FilterAnnotation.
+// ---
+
 #include "components/multistep_filter/core/data_models/filter_annotation.h"
 
 #include "base/strings/string_number_conversions.h"

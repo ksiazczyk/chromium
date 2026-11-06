@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for navigation_metrics
+summary: Declares the include rules allowing navigation_metrics to depend on dom_distiller, profile_metrics, url_formatter, and net headers.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FilterSuggestionGenerator implementation
+// summary: Implements generation of URL filter suggestions by fetching stored user annotations, querying the annotation index server for candidates, and logging each step.
+// ---
+
 #include "components/multistep_filter/core/suggestion/filter_suggestion_generator.h"
 
 #include <algorithm>

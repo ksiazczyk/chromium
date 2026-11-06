@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for NetworkTimeTracker
+// summary: Contains unit tests for NetworkTimeTracker covering query behavior, backoff, sync states, and response validation with mocked URL loaders.
+// ---
+
 #include "components/network_time/network_time_tracker.h"
 
 #include <stdint.h>

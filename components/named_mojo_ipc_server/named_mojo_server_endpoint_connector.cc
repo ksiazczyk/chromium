@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Named Mojo server endpoint connector base implementation
+// summary: Implements the shared Start logic of NamedMojoServerEndpointConnector, retrying the platform-specific TryStart every three seconds until the endpoint is acquired.
+// ---
+
 #include "components/named_mojo_ipc_server/named_mojo_server_endpoint_connector.h"
 
 #include "base/task/sequenced_task_runner.h"

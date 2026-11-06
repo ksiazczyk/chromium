@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EndpointOptions constructors implementation
+// summary: Implements EndpointOptions constructors, including a Windows variant that accepts a security descriptor.
+// ---
+
 #include "components/named_mojo_ipc_server/endpoint_options.h"
 
 namespace named_mojo_ipc_server {

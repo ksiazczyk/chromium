@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the multistep filter component
+summary: Points the directory to the common metadata mixins file so it inherits the shared component metadata.

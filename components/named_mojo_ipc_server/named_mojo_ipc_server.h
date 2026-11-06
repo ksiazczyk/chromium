@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NamedMojoIpcServer template class and base declaration
+// summary: Declares NamedMojoIpcServerBase and the templated NamedMojoIpcServer that sends Mojo invitations over a named channel and binds incoming connections to interface implementations.
+// ---
+
 #ifndef COMPONENTS_NAMED_MOJO_IPC_SERVER_NAMED_MOJO_IPC_SERVER_H_
 #define COMPONENTS_NAMED_MOJO_IPC_SERVER_NAMED_MOJO_IPC_SERVER_H_
 

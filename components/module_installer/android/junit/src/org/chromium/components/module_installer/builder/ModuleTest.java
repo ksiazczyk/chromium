@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ModuleTest
+// summary: JUnit Robolectric test suite for the Module class, checking isInstalled, install and installDeferred delegation plus getImpl instance creation and error handling for unknown implementations.
+// ---
+
 package org.chromium.components.module_installer.builder;
 
 import static org.junit.Assert.assertEquals;

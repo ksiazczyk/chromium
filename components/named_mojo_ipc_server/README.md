@@ -1,3 +1,9 @@
+---
+type: readme
+title: NamedMojoIpcServer component overview and usage examples
+summary: Explains how a server handles concurrent IPCs over a NamedPlatformChannel with NamedMojoIpcServer, including server and client code examples and platform notes.
+---
+
 This component provides a helper that allows a server process to handle multiple
 concurrent IPCs coming through a `NamedPlatformChannel`.
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Distance meter for the dino game
+// summary: Implements the DistanceMeter class that renders distance digits, high score and achievement flashing on the canvas.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 
 import {IS_HIDPI, IS_RTL} from './constants.js';

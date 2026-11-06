@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Intercept navigation throttle unit tests
+// summary: Unit tests for InterceptNavigationThrottle covering synchronous and asynchronous interception behavior across navigation start, redirects, and responses.
+// ---
+
 #include "components/navigation_interception/intercept_navigation_throttle.h"
 
 #include <memory>

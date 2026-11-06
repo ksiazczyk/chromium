@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the content filter navigation observer
+// summary: Contains unit tests for the navigation observer using mock delegates, services, and navigation simulation to verify suggestion behavior.
+// ---
+
 #include "components/multistep_filter/content/content_filter_navigation_observer.h"
 
 #include "components/multistep_filter/content/content_filter_navigation_observer_test_api.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declarations of network switch constants and CopyNetworkSwitches
+// summary: Declares the exported network switch constants and the CopyNetworkSwitches helper that copies configurator-handled switches between command lines.
+// ---
+
 #ifndef COMPONENTS_NETWORK_SESSION_CONFIGURATOR_COMMON_NETWORK_SWITCHES_H_
 #define COMPONENTS_NETWORK_SESSION_CONFIGURATOR_COMMON_NETWORK_SWITCHES_H_
 

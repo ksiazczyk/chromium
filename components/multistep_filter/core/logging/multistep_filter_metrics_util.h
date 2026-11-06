@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multistep filter metrics utility declarations
+// summary: Declares metrics helper functions for same-domain checks, clamped time differences, task and facet string mapping, and retention state enumeration.
+// ---
+
 #ifndef COMPONENTS_MULTISTEP_FILTER_CORE_LOGGING_MULTISTEP_FILTER_METRICS_UTIL_H_
 #define COMPONENTS_MULTISTEP_FILTER_CORE_LOGGING_MULTISTEP_FILTER_METRICS_UTIL_H_
 

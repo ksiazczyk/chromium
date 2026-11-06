@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Optimization guide annotation index client header
+// summary: Declares OptimizationGuideAnnotationIndexClient, an AnnotationIndexClient implementation that registers optimization types with the OptimizationGuideDecider and translates hint data into multistep filter data models.
+// ---
+
 #ifndef COMPONENTS_MULTISTEP_FILTER_CORE_ANNOTATION_INDEX_OPTIMIZATION_GUIDE_ANNOTATION_INDEX_CLIENT_H_
 #define COMPONENTS_MULTISTEP_FILTER_CORE_ANNOTATION_INDEX_OPTIMIZATION_GUIDE_ANNOTATION_INDEX_CLIENT_H_
 

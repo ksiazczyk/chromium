@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows endpoint connector implementation
+// summary: Windows implementation that serves a named pipe, watches for client connections with a WaitableEventWatcher, and retries connection setup on failure.
+// ---
+
 #include "components/named_mojo_ipc_server/named_mojo_server_endpoint_connector.h"
 
 #include <windows.h>

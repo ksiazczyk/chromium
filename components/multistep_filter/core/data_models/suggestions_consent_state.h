@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Suggestions consent and settings state structs
+// summary: Declares structs and enums describing the user's account, consent, and settings state that gate multistep filter suggestions.
+// ---
+
 #ifndef COMPONENTS_MULTISTEP_FILTER_CORE_DATA_MODELS_SUGGESTIONS_CONSENT_STATE_H_
 #define COMPONENTS_MULTISTEP_FILTER_CORE_DATA_MODELS_SUGGESTIONS_CONSENT_STATE_H_
 

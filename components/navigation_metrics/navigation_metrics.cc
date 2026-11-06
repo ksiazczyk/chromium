@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigation scheme metrics implementation
+// summary: Implements recording of UMA histograms for main frame navigation schemes, RTL domains, profile types, and omnibox URL navigation schemes.
+// ---
+
 #include "components/navigation_metrics/navigation_metrics.h"
 
 #include <array>

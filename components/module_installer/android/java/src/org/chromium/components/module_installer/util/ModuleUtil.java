@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ModuleUtil
+// summary: Proxy class exposing dynamic feature module functionality to the broader application, covering crash key updates, initialization, and install notifications.
+// ---
+
 package org.chromium.components.module_installer.util;
 
 import org.chromium.build.annotations.NullMarked;

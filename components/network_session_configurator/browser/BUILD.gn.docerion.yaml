@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the browser network session configurator
+summary: Defines the GN build targets for the browser network session configurator library and its unit tests, with dependencies on base, net, variations, and test support.

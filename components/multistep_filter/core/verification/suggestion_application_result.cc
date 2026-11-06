@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Suggestion application result string conversion
+// summary: Implements SuggestionApplicationResultToString, mapping each suggestion application outcome enum value to its string name.
+// ---
+
 #include "components/multistep_filter/core/verification/suggestion_application_result.h"
 
 #include <string_view>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Export macro header for the network session configurator component
+// summary: Declares the NETWORK_SESSION_CONFIGURATOR_EXPORT macro that controls symbol visibility for component builds on Windows and other platforms.
+// ---
+
 #ifndef COMPONENTS_NETWORK_SESSION_CONFIGURATOR_COMMON_NETWORK_SESSION_CONFIGURATOR_EXPORT_H_
 #define COMPONENTS_NETWORK_SESSION_CONFIGURATOR_COMMON_NETWORK_SESSION_CONFIGURATOR_EXPORT_H_
 

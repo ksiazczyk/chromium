@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Filter store implementation
+// summary: Implements FilterStore, the UI-thread bridge that dispatches annotation storage, retrieval, and deletion calls to the background FilterStoreBackend via base::SequenceBound.
+// ---
+
 #include "components/multistep_filter/core/storage/filter_store.h"
 
 #include <stddef.h>

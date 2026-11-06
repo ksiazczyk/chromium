@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConnectionInfo struct for verifying IPC endpoints
+// summary: Defines the ConnectionInfo struct that carries the peer process ID plus platform-specific credentials used to verify connecting clients.
+// ---
+
 #ifndef COMPONENTS_NAMED_MOJO_IPC_SERVER_CONNECTION_INFO_H_
 #define COMPONENTS_NAMED_MOJO_IPC_SERVER_CONNECTION_INFO_H_
 

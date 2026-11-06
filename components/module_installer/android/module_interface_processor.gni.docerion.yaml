@@ -1,0 +1,4 @@
+# Docerion header of module_interface_processor.gni.
+type: config
+title: module_interface_processor GN template
+summary: GN template that runs the module interface processor to generate module classes from @ModuleInterface-annotated Java sources.

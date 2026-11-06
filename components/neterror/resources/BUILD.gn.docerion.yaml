@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for neterror resources
+summary: Defines GN targets that preprocess, compile, lint, bundle and minify the network error page TypeScript sources into JS bundles for Chromium interstitial UIs.

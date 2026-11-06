@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeIpcServer test double declaration
+// summary: Declares FakeIpcServer, an IpcServer test double whose TestState lets tests observe server interactions after ownership is transferred.
+// ---
+
 #ifndef COMPONENTS_NAMED_MOJO_IPC_SERVER_FAKE_IPC_SERVER_H_
 #define COMPONENTS_NAMED_MOJO_IPC_SERVER_FAKE_IPC_SERVER_H_
 

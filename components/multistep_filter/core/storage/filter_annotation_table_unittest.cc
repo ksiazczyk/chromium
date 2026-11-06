@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Filter annotation table unit tests
+// summary: Unit tests for FilterAnnotationTable covering table creation, storing and retrieving annotations, filtering by task type and creation time, sorting, and deletion.
+// ---
+
 #include "components/multistep_filter/core/storage/filter_annotation_table.h"
 
 #include <vector>

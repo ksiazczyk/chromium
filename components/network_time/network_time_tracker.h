@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkTimeTracker class declaration
+// summary: Declares the NetworkTimeTracker class with sync result and fetch behavior enums plus an observer interface for network time changes.
+// ---
+
 #ifndef COMPONENTS_NETWORK_TIME_NETWORK_TIME_TRACKER_H_
 #define COMPONENTS_NETWORK_TIME_NETWORK_TIME_TRACKER_H_
 

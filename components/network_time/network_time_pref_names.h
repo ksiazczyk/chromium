@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network time preference name constants
+// summary: Declares preference name constants for storing the network time mapping and the network time queries enabled flag.
+// ---
+
 #ifndef COMPONENTS_NETWORK_TIME_NETWORK_TIME_PREF_NAMES_H_
 #define COMPONENTS_NETWORK_TIME_NETWORK_TIME_PREF_NAMES_H_
 

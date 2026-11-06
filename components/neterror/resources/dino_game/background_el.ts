@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background element class for the dino game
+// summary: Implements the BackgroundEl class that draws and updates fixed background elements on the game canvas, with configurable sprite and gap settings.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 
 import {IS_HIDPI} from './constants.js';

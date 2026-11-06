@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigation metrics declarations and Scheme enum
+// summary: Declares the loggable Scheme enum and the functions that record primary main frame and omnibox navigation scheme metrics.
+// ---
+
 #ifndef COMPONENTS_NAVIGATION_METRICS_NAVIGATION_METRICS_H_
 #define COMPONENTS_NAVIGATION_METRICS_NAVIGATION_METRICS_H_
 

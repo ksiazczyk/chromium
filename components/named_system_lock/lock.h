@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedLock API header for named system locks
+// summary: Declares the ScopedLock class that acquires a named cross-process lock within a timeout and releases it on destruction, with platform-specific Create signatures.
+// ---
+
 #ifndef COMPONENTS_NAMED_SYSTEM_LOCK_LOCK_H_
 #define COMPONENTS_NAMED_SYSTEM_LOCK_LOCK_H_
 

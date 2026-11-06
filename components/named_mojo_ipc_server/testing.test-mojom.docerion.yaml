@@ -1,0 +1,4 @@
+# Docerion header of testing.test-mojom.
+type: source
+title: Test Mojo Echo interface definition
+summary: Mojo interface definition for testing that declares a simple Echo method returning the input string.

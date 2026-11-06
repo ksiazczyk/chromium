@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Neterror directory metadata
+summary: Metadata for the neterror directory specifying the Internals>Network monorail component, the net-dev team email and a Buganizer component ID.

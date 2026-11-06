@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multistep filter metrics utility implementation
+// summary: Implements fixed string-to-enum maps and helpers that translate task type and filter facet strings into metrics enums for the Multistep Filter feature.
+// ---
+
 #include "components/multistep_filter/core/logging/multistep_filter_metrics_util.h"
 
 #include "base/containers/fixed_flat_map.h"

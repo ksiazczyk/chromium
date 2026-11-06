@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for multistep filter storage
+summary: Defines GN source_set targets for the multistep filter storage code and its unit tests, with dependencies on base, sql, and the multistep filter data models.

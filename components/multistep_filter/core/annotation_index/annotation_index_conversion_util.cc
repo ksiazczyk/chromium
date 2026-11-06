@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Annotation index conversion utilities implementation
+// summary: Implements conversions between multistep_filter data models such as FilterAnnotation and the annotation index protobuf messages.
+// ---
+
 #include "components/multistep_filter/core/annotation_index/annotation_index_conversion_util.h"
 
 #include <optional>

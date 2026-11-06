@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SplitCompatEngineTest
+// summary: JUnit test suite for the SplitCompatEngine class, using Robolectric and Mockito to verify module installation, deferred installs, install sequences, and activity initialization.
+// ---
+
 package org.chromium.components.module_installer.engine;
 
 import static org.junit.Assert.assertFalse;

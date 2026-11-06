@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: network_hints DIR_METADATA issue tracker mapping
+summary: Maps the network_hints directory to the Internals>Network monorail component and Buganizer component 1456527 for issue tracking.

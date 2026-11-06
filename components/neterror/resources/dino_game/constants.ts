@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dino game environment constants
+// summary: Exports platform detection flags for iOS, HiDPI, mobile and RTL plus the frame rate and default canvas dimensions.
+// ---
+
 import type {Dimensions} from './dimensions.js';
 
 // TODO(salg): Use preprocessor to filter IOS code at build time.

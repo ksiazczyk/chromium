@@ -1,3 +1,13 @@
+---
+type: readme
+title: Chrome on Android Dynamic Feature Module Installer Backend
+summary: Describes the component's install engine and module builder APIs for installing and loading Android dynamic feature modules, with usage examples and links to onboarding docs.
+relations:
+  - documents /components/module_installer/android/java/src/org/chromium/components/module_installer/builder/Module.java
+  - documents /components/module_installer/android/java/src/org/chromium/components/module_installer/builder/ModuleDescriptor.java
+  - documents /components/module_installer/android/java/src/org/chromium/components/module_installer/builder/ModuleInterface.java
+---
+
 # Chrome on Android Dynamic Feature Module Installer Backend
 
 This component houses code to install and load Android

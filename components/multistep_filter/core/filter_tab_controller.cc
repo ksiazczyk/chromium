@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FilterTabController implementation
+// summary: Implements the per-tab controller that logs navigations, checks URL eligibility and consent, and orchestrates annotation extraction and suggestion flows.
+// ---
+
 #include "components/multistep_filter/core/filter_tab_controller.h"
 
 #include <tuple>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetLogProxySource class declaration
+// summary: Declares NetLogProxySource, a thread-safe NetLog observer that proxies log entries over mojo to a remote sink when capture modes are enabled.
+// ---
+
 #ifndef COMPONENTS_NET_LOG_NET_LOG_PROXY_SOURCE_H_
 #define COMPONENTS_NET_LOG_NET_LOG_PROXY_SOURCE_H_
 

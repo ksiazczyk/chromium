@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native JNI implementation for module resource loading
+// summary: Implements the native Module JNI entry point that memory maps and loads module PAK resource files from the APK.
+// ---
+
 #include <string>
 
 #include "base/android/bundle_utils.h"

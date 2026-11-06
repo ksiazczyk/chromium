@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InterceptNavigationThrottle class declaration
+// summary: Declares the InterceptNavigationThrottle class, its SynchronyMode enum, and the callbacks used to selectively ignore top-level navigations on the UI thread.
+// ---
+
 #ifndef COMPONENTS_NAVIGATION_INTERCEPTION_INTERCEPT_NAVIGATION_THROTTLE_H_
 #define COMPONENTS_NAVIGATION_INTERCEPTION_INTERCEPT_NAVIGATION_THROTTLE_H_
 

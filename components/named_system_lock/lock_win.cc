@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows implementation of the named system lock
+// summary: Implements ScopedLock on Windows using a named kernel mutex created via CreateMutex and acquired with WaitForSingleObject within a timeout.
+// ---
+
 #include "components/named_system_lock/lock.h"
 
 #include <windows.h>

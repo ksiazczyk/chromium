@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the network session configurator
+// summary: Contains gtest unit tests verifying default and field-trial-driven behavior of the network session configurator for HTTP/2 and QUIC parameters.
+// ---
+
 #include "components/network_session_configurator/browser/network_session_configurator.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TimeTracker unit tests
+// summary: Unit tests covering wrong system clock, small and large clock divergence, time running backwards, and uncertainty calculation with histogram checks.
+// ---
+
 #include "components/network_time/time_tracker/time_tracker.h"
 
 #include <string_view>

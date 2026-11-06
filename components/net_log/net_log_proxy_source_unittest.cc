@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NetLogProxySource unit tests
+// summary: Unit tests for NetLogProxySource using a fake NetLogProxySink and capture mode waiter to verify event proxying and capture mode updates.
+// ---
+
 #include "components/net_log/net_log_proxy_source.h"
 
 #include "base/run_loop.h"

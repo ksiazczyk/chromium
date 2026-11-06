@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Intercept navigation throttle implementation
+// summary: Implements the InterceptNavigationThrottle that runs should-ignore checks at navigation start, redirects, and responses, supporting synchronous and asynchronous modes.
+// ---
+
 #include "components/navigation_interception/intercept_navigation_throttle.h"
 
 #include "base/debug/dump_without_crashing.h"

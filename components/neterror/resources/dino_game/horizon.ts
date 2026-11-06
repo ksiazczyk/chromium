@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Horizon scene manager for the dino game
+// summary: Manages horizon lines, clouds, background elements, night mode and obstacle spawning and updates for the game scene.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 
 import {BackgroundEl, getGlobalConfig as getBackgroundElGlobalConfig, setGlobalConfig as setBackgroundElGlobalConfig} from './background_el.js';

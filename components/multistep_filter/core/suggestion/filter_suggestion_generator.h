@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FilterSuggestionGenerator class declaration
+// summary: Declares the class that orchestrates filter suggestion generation for a URL, combining annotations from the FilterStore with candidates from the AnnotationIndexClient.
+// ---
+
 #ifndef COMPONENTS_MULTISTEP_FILTER_CORE_SUGGESTION_FILTER_SUGGESTION_GENERATOR_H_
 #define COMPONENTS_MULTISTEP_FILTER_CORE_SUGGESTION_FILTER_SUGGESTION_GENERATOR_H_
 

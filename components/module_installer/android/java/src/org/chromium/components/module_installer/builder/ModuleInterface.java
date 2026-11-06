@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ModuleInterface
+// summary: Annotation marking an interface as a feature module interface, from which a FooModule class with Module functionality is generated.
+// ---
+
 package org.chromium.components.module_installer.builder;
 
 import org.chromium.build.annotations.NullMarked;

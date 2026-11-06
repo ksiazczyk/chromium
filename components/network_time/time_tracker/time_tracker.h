@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TimeTracker class declaration
+// summary: Declares the TimeTracker class, which is created with a known good time and estimates the current time plus uncertainty from elapsed system ticks.
+// ---
+
 #ifndef COMPONENTS_NETWORK_TIME_TIME_TRACKER_TIME_TRACKER_H_
 #define COMPONENTS_NETWORK_TIME_TIME_TRACKER_TIME_TRACKER_H_
 

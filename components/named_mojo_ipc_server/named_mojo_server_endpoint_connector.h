@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Named Mojo server endpoint connector interface
+// summary: Defines the NamedMojoServerEndpointConnector interface, its delegate callbacks, and a Create factory so platform implementations can connect server endpoints to clients.
+// ---
+
 #ifndef COMPONENTS_NAMED_MOJO_IPC_SERVER_NAMED_MOJO_SERVER_ENDPOINT_CONNECTOR_H_
 #define COMPONENTS_NAMED_MOJO_IPC_SERVER_NAMED_MOJO_SERVER_ENDPOINT_CONNECTOR_H_
 

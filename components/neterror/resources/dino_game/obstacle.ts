@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Obstacle class for the dino game
+// summary: Implements the Obstacle class that spawns, sizes, positions and draws obstacles such as cacti and pterodactyls with collision boxes.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 
 import {FPS, IS_HIDPI, IS_MOBILE} from './constants.js';

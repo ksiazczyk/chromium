@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client utility for connecting to a named Mojo server
+// summary: Implements ConnectToServer with platform-specific steps, including a Mach message brokerage on macOS, so clients can reach a NamedMojoIpcServer endpoint.
+// ---
+
 #include "components/named_mojo_ipc_server/named_mojo_ipc_server_client_util.h"
 
 #include "base/notreached.h"

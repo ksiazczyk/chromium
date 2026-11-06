@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FilterSuggestionCandidate declarations
+// summary: Declares the FilterSuggestionCandidate structs that represent server-generated filter suggestions with UI labels and a navigation URL.
+// ---
+
 #ifndef COMPONENTS_MULTISTEP_FILTER_CORE_DATA_MODELS_FILTER_SUGGESTION_CANDIDATE_H_
 #define COMPONENTS_MULTISTEP_FILTER_CORE_DATA_MODELS_FILTER_SUGGESTION_CANDIDATE_H_
 

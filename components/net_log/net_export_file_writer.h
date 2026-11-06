@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetExportFileWriter class declaration
+// summary: Declares the NetExportFileWriter support class that manages network log export state for the net-export UI and notifies state observers.
+// ---
+
 #ifndef COMPONENTS_NET_LOG_NET_EXPORT_FILE_WRITER_H_
 #define COMPONENTS_NET_LOG_NET_EXPORT_FILE_WRITER_H_
 

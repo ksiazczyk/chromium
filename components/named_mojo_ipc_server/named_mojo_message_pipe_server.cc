@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NamedMojoMessagePipeServer implementation
+// summary: Implements the message pipe server that listens on a named endpoint, validates connecting clients and hands out Mojo message pipes via a connector on an IO sequence.
+// ---
+
 #include "components/named_mojo_ipc_server/named_mojo_message_pipe_server.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Suggestion application result unit tests
+// summary: Unit tests verifying that each SuggestionApplicationResult enum value converts to its expected string name.
+// ---
+
 #include "components/multistep_filter/core/verification/suggestion_application_result.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

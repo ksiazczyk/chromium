@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the annotation index proto library
+summary: Defines a fuzzable proto library for annotation_index.proto and, on Android, a Java proto library target, using proto_in_dir set to the source root for Chromium-style imports.

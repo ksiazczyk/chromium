@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the named_mojo_ipc_server directory
+summary: Lists the directory owners and routes approval for mojom files to the IPC security owners.

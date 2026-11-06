@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the net_log component
+summary: Defines the net_log static library sources and dependencies plus the testonly unit_tests target for the component.

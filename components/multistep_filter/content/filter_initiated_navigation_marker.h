@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Filter initiated navigation marker class declaration
+// summary: Declares a NavigationHandleUserData marker used to tag filter-initiated navigations so the observer can skip generating new suggestions for them.
+// ---
+
 #ifndef COMPONENTS_MULTISTEP_FILTER_CONTENT_FILTER_INITIATED_NAVIGATION_MARKER_H_
 #define COMPONENTS_MULTISTEP_FILTER_CONTENT_FILTER_INITIATED_NAVIGATION_MARKER_H_
 

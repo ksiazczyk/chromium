@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for multistep filter extraction
+summary: GN build file defining the extraction source set and its unit test target, with dependencies on base, annotation index, data models, logging, storage, and url.

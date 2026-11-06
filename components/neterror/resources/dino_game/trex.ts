@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: T-Rex player class for the dino game
+// summary: Implements the Trex player with jumping, ducking, blinking, animation frames and collision boxes for the dino game.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 
 import {DEFAULT_DIMENSIONS, FPS, IS_HIDPI} from './constants.js';

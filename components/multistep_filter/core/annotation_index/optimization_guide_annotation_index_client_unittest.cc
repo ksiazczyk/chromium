@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Optimization guide annotation index client unit tests
+// summary: Unit tests for OptimizationGuideAnnotationIndexClient using a mock OptimizationGuideDecider to verify supported task, filter annotation, and execution strategy decisions, including malformed metadata handling.
+// ---
+
 #include "components/multistep_filter/core/annotation_index/optimization_guide_annotation_index_client.h"
 
 #include <memory>

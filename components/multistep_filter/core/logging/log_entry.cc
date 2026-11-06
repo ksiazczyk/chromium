@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LogEntry implementation
+// summary: Implements LogEntry constructors, cloning, and conversion of log entries into a base::Value dictionary for Mojo/IPC communication.
+// ---
+
 #include "components/multistep_filter/core/logging/log_entry.h"
 
 #include <string>

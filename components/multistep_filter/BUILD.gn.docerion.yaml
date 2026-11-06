@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Multistep filter unit test build file
+summary: Defines a testonly source_set that aggregates unit tests from the core and, except on iOS, the content subdirectories.

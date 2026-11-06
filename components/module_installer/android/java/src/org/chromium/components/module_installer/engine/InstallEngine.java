@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Install engine interface for dynamic feature modules
+// summary: Interface defining operations to initialize activities and check, install deferred, or install on-demand dynamic feature modules.
+// ---
+
 package org.chromium.components.module_installer.engine;
 
 import android.app.Activity;

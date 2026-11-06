@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Common metadata for the multistep filter component
+summary: Declares the Buganizer component ID and the team email address associated with the multistep filter component.

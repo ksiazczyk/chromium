@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetLogProxySource implementation
+// summary: Implements the NetLogProxySource mojo interface, observing local NetLog events and forwarding them to a remote NetLogProxySink while capture is active.
+// ---
+
 #include "components/net_log/net_log_proxy_source.h"
 #include "base/task/sequenced_task_runner.h"
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multistep Filter feature flag declarations
+// summary: Declares the Multistep Filter feature flags and their parameters for use across the component.
+// ---
+
 #ifndef COMPONENTS_MULTISTEP_FILTER_CORE_FEATURES_H_
 #define COMPONENTS_MULTISTEP_FILTER_CORE_FEATURES_H_
 

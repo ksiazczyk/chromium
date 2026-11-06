@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for net_log
+summary: Specifies the directories that the net_log component is allowed to include headers from, such as net, version_info, and network service.

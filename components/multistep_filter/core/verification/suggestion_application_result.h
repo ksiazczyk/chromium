@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Suggestion application result enum
+// summary: Defines the SuggestionApplicationResult enum of suggestion application outcomes persisted to log metrics, with stable numeric values.
+// ---
+
 #ifndef COMPONENTS_MULTISTEP_FILTER_CORE_VERIFICATION_SUGGESTION_APPLICATION_RESULT_H_
 #define COMPONENTS_MULTISTEP_FILTER_CORE_VERIFICATION_SUGGESTION_APPLICATION_RESULT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebPrescientNetworkingImpl implementation
+// summary: Implements WebPrescientNetworkingImpl, forwarding DNS prefetch and preconnect requests from blink to the network service through a Mojo NetworkHintsHandler bound per render frame.
+// ---
+
 #include "components/network_hints/renderer/web_prescient_networking_impl.h"
 
 #include "base/logging.h"

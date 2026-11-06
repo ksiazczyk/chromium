@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedLogMessage implementation
+// summary: Implements ScopedLogMessage, which routes its constructed LogEntry to the log router when the scoped message goes out of scope.
+// ---
+
 #include "components/multistep_filter/core/logging/multistep_filter_logger.h"
 
 #include <string>
