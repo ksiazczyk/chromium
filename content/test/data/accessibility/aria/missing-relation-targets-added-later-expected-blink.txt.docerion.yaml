@@ -1,0 +1,4 @@
+# Docerion header of missing-relation-targets-added-later-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for ARIA relation targets added later
+summary: Expected Blink accessibility tree snapshot verifying that ARIA relations like aria-controls and aria-details resolve when targets are added after load.

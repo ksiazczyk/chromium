@@ -1,0 +1,4 @@
+# Docerion header of input-text-aria-placeholder-expected-android-external.txt.
+type: test
+title: Expected Android external output for input text aria-placeholder test
+summary: Expected Android external accessibility output for the input text aria-placeholder test, describing text fields with hints and supplemental descriptions.

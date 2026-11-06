@@ -1,0 +1,4 @@
+# Docerion header of supplemental-description-image-button-expected-blink.txt.
+type: test
+title: Supplemental description image button expected Blink output
+summary: Expected Blink accessibility tree snapshot showing a button named Close for the image button test.

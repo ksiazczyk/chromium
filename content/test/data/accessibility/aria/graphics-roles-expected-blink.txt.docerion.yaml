@@ -1,0 +1,4 @@
+# Docerion header of graphics-roles-expected-blink.txt.
+type: test
+title: Graphics roles expected Blink accessibility tree
+summary: Expected Blink accessibility tree snapshot for the graphics-document, graphics-object and graphics-symbol ARIA roles.

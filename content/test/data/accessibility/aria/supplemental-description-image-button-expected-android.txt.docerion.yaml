@@ -1,0 +1,4 @@
+# Docerion header of supplemental-description-image-button-expected-android.txt.
+type: test
+title: Supplemental description image button expected Android output
+summary: Expected Android accessibility tree for the supplemental description image button test with content description Close.

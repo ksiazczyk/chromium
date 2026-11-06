@@ -1,0 +1,4 @@
+# Docerion header of dpub-roles-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for DPUB roles
+summary: Expected Android assist data dump listing DPUB role descriptions for each doc-* element in the dpub-roles test page.

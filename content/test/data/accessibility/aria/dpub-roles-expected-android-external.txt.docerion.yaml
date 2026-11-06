@@ -1,0 +1,4 @@
+# Docerion header of dpub-roles-expected-android-external.txt.
+type: test
+title: Expected Android external descriptions for DPUB roles
+summary: Expected Android supplemental description dump listing DPUB role descriptions and actions for each doc-* element in the dpub-roles test page.

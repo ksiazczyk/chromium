@@ -1,0 +1,4 @@
+# Docerion header of aria1.1-combobox-expected-win.txt.
+type: test
+title: aria1.1-combobox expected Windows accessibility tree
+summary: Expected Windows accessibility tree snapshot for the ARIA 1.1 combobox test, with combobox, list and list item roles, states and hypertext.

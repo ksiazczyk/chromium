@@ -1,0 +1,4 @@
+# Docerion header of option-label-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for option labels
+summary: Expected Blink accessibility tree snapshot verifying how listbox option accessible names are computed from mixed text and element content.

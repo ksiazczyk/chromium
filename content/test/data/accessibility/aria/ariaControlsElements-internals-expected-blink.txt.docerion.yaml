@@ -1,0 +1,4 @@
+# Docerion header of ariaControlsElements-internals-expected-blink.txt.
+type: test
+title: ariaControlsElements internals expected Blink tree
+summary: Expected Blink accessibility tree snapshot for the ariaControlsElements internals test, including whitespace text nodes between menu items.

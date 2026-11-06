@@ -1,0 +1,4 @@
+# Docerion header of radio-group-calculation-with-ignored-radios-expected-android.txt.
+type: test
+title: Expected Android accessibility output for radio group with ignored radios
+summary: Expected Android accessibility output for a radio group whose ignored radios are excluded, listing Huey and Dewey with position and set size data.

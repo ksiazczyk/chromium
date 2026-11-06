@@ -1,0 +1,4 @@
+# Docerion header of presentational-expected-blink.txt.
+type: test
+title: Expected Blink AX tree for presentational test
+summary: Expected Blink accessibility tree snapshot for the ARIA presentational test page.

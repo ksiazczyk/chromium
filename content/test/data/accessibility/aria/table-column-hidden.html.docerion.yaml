@@ -1,0 +1,4 @@
+# Docerion header of table-column-hidden.html.
+type: test
+title: Table column hidden accessibility test page
+summary: HTML test page with an ARIA grid whose year column is hidden via CSS, used to verify how row and column counts and indices are exposed.

@@ -1,0 +1,4 @@
+# Docerion header of aria1.1-combobox-expected-mac.txt.
+type: test
+title: aria1.1-combobox expected macOS accessibility tree
+summary: Expected macOS accessibility tree snapshot for the ARIA 1.1 combobox test, showing combo boxes, linked text fields and option lists.

@@ -1,0 +1,4 @@
+# Docerion header of supplemental-description-nav.html.
+type: test
+title: Supplemental description nav test page
+summary: HTML fixture with a nav element labeled 'programming languages' containing HTML, CSS, JavaScript, and Python links for accessibility testing.

@@ -1,0 +1,4 @@
+# Docerion header of hidden-expected-android.txt.
+type: test
+title: Expected Android tree for hidden test
+summary: Expected Android accessibility tree snapshot verifying that spans with aria descriptions appear as TextViews with hints.

@@ -1,0 +1,4 @@
+# Docerion header of input-text-aria-placeholder-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for aria-placeholder text inputs
+summary: Expected Android accessibility tree snapshot verifying how aria-placeholder and related attributes are exposed as hints on text inputs in WebView.

@@ -1,0 +1,4 @@
+# Docerion header of supplemental-description-button-label-expected-blink.txt.
+type: test
+title: Supplemental description button label expected Blink output
+summary: Expected Blink accessibility tree snapshot for the supplemental description button label test, showing a button named Submit form.

@@ -1,0 +1,4 @@
+# Docerion header of toggle-button-expand-collapse-expected-win.txt.
+type: test
+title: Toggle button expand collapse expected Windows tree
+summary: Expected Windows IA2 accessibility tree for the toggle-button-expand-collapse test with pressed, expanded and collapsed toggle buttons.

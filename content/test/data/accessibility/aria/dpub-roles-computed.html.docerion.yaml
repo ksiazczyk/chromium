@@ -1,0 +1,4 @@
+# Docerion header of dpub-roles-computed.html.
+type: test
+title: Computed DPUB roles test page
+summary: HTML test page checking that list items inside doc-bibliography and doc-endnotes map to the deprecated doc-biblioentry and doc-endnote roles.

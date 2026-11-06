@@ -1,0 +1,4 @@
+# Docerion header of table-column-hidden-expected-uia-win.txt.
+type: test
+title: Expected UIA Windows accessibility tree for table with hidden column
+summary: Expected Windows UIA accessibility tree for a table test where one column is hidden.

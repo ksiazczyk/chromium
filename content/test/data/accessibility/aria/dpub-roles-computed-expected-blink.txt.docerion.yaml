@@ -1,0 +1,4 @@
+# Docerion header of dpub-roles-computed-expected-blink.txt.
+type: test
+title: Expected Blink tree for computed DPUB roles
+summary: Expected Blink accessibility tree dump for the computed DPUB roles test, showing doc-biblioentry and doc-endnote mappings for list items.

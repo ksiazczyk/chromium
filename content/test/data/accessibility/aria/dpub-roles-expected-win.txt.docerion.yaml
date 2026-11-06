@@ -1,0 +1,4 @@
+# Docerion header of dpub-roles-expected-win.txt.
+type: test
+title: DPUB roles expected accessibility tree for Windows
+summary: Expected Windows accessibility tree snapshot mapping each DPUB doc-* role to IA2 and MSAA roles with xml-roles attributes.

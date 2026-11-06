@@ -1,0 +1,4 @@
+# Docerion header of aria-valuetext-expected-android-assist-data.txt.
+type: test
+title: aria-valuetext expected Android assist data
+summary: Expected Android assist data accessibility tree for the aria-valuetext test, showing a progress bar with value text 'three' and range 1 to 96.

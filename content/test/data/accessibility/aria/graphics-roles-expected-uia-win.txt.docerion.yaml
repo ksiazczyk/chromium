@@ -1,0 +1,4 @@
+# Docerion header of graphics-roles-expected-uia-win.txt.
+type: test
+title: Graphics roles expected UIA tree for Windows
+summary: Expected UIA accessibility tree snapshot for the ARIA graphics roles test page on Windows.

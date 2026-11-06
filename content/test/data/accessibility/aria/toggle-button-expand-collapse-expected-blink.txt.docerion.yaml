@@ -1,0 +1,4 @@
+# Docerion header of toggle-button-expand-collapse-expected-blink.txt.
+type: test
+title: Toggle button expand collapse expected Blink tree
+summary: Expected Blink accessibility tree for the toggle-button-expand-collapse test with toggle buttons and their checked states.

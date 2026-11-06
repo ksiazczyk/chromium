@@ -1,0 +1,4 @@
+# Docerion header of graphics-roles-expected-auralinux.txt.
+type: test
+title: Graphics roles expected Linux accessibility tree
+summary: Expected Linux accessibility tree snapshot mapping the graphics ARIA roles to document frame, panel and image nodes.

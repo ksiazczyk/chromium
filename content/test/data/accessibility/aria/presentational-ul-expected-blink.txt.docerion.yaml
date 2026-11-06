@@ -1,0 +1,4 @@
+# Docerion header of presentational-ul-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for presentational unordered list test
+summary: Expected Blink accessibility tree output for the presentational unordered list test, showing ignored roles, list markers and static text.

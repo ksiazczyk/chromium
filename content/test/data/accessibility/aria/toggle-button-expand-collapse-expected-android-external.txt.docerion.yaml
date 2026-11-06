@@ -1,0 +1,4 @@
+# Docerion header of toggle-button-expand-collapse-expected-android-external.txt.
+type: test
+title: Toggle button expand collapse expected Android external output
+summary: Expected Android external accessibility node data for the toggle-button-expand-collapse test, including expand, collapse and press actions.

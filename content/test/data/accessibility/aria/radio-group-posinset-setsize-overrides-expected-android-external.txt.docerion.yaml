@@ -1,0 +1,4 @@
+# Docerion header of radio-group-posinset-setsize-overrides-expected-android-external.txt.
+type: test
+title: Expected Android external output for radio group posinset and setsize overrides
+summary: Expected Android external-format accessibility output for radio buttons with aria-setsize and aria-posinset overrides.

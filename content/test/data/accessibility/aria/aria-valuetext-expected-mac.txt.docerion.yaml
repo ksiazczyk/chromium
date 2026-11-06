@@ -1,0 +1,4 @@
+# Docerion header of aria-valuetext-expected-mac.txt.
+type: test
+title: aria-valuetext expected Mac
+summary: Expected macOS accessibility tree for the aria-valuetext test, showing an AXProgressIndicator with value 3 and value description 'three'.

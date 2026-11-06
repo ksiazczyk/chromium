@@ -1,0 +1,4 @@
+# Docerion header of aria1.1-combobox.html.
+type: test
+title: aria1.1-combobox HTML test page
+summary: HTML test page with two ARIA 1.1 comboboxes whose aria-controls and aria-activedescendant attributes are set dynamically by script.

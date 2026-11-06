@@ -1,0 +1,4 @@
+# Docerion header of aria-valuetext-expected-android.txt.
+type: test
+title: aria-valuetext expected Android
+summary: Expected Android accessibility tree for the aria-valuetext test, listing a progress bar with state description 'three' and range values 1, 3 and 96.

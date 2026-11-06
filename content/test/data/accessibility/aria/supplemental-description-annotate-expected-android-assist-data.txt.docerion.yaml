@@ -1,0 +1,4 @@
+# Docerion header of supplemental-description-annotate-expected-android-assist-data.txt.
+type: test
+title: Supplemental description annotate expected Android assist data
+summary: Empty expected-output file for the Android assist data of the supplemental-description-annotate accessibility test.

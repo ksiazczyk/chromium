@@ -1,0 +1,4 @@
+# Docerion header of supplemental-description-region-expected-android.txt.
+type: test
+title: Supplemental description region expected Android output
+summary: Expected Android accessibility tree snapshot for the supplemental description region test page with a region role and explanatory text.

@@ -1,0 +1,4 @@
+# Docerion header of radios-in-radiogroups-with-intervening-non-generics-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for radios in radiogroups
+summary: Expected Blink accessibility tree output for the radios-in-radiogroups-with-intervening-non-generics test, showing radio groups, lists and buttons with set sizes and positions.

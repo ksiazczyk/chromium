@@ -1,0 +1,4 @@
+# Docerion header of radio-group-posinset-setsize-overrides-expected-win.txt.
+type: test
+title: Expected Windows output for radio group posinset and setsize overrides
+summary: Expected Windows MSAA and IA2 accessibility tree for radio buttons with aria-setsize and aria-posinset overrides.

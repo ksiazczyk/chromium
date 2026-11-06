@@ -1,0 +1,4 @@
+# Docerion header of radio-group-calculation-with-ignored-radios-expected-android-external.txt.
+type: test
+title: Radio group calculation with ignored radios expected Android external
+summary: Expected Android accessibility tree output for a radio group with ignored radios, listing radio buttons Huey and Dewey with their states and actions.

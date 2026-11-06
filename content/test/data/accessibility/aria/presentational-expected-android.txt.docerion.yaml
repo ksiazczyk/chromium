@@ -1,0 +1,4 @@
+# Docerion header of presentational-expected-android.txt.
+type: test
+title: Expected Android tree for presentational test
+summary: Expected Android accessibility tree snapshot for the ARIA presentational test page.

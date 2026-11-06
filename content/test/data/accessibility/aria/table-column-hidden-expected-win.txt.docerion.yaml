@@ -1,0 +1,4 @@
+# Docerion header of table-column-hidden-expected-win.txt.
+type: test
+title: Table column hidden expected Windows accessibility tree
+summary: Expected Windows accessibility tree for the table-column-hidden test, showing a grid with the year column omitted from row and column indices.

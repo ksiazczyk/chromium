@@ -1,0 +1,4 @@
+# Docerion header of hidden-expected-blink.txt.
+type: test
+title: Expected Blink tree for hidden test
+summary: Expected Blink accessibility tree snapshot checking that hidden spans are ignored while their descriptions remain exposed.

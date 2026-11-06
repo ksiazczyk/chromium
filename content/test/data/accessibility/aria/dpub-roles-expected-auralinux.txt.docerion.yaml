@@ -1,0 +1,4 @@
+# Docerion header of dpub-roles-expected-auralinux.txt.
+type: test
+title: Expected Linux accessibility tree for DPUB roles
+summary: Expected Linux accessibility tree dump listing mapped ATK roles and names for each DPUB role in the dpub-roles test page.

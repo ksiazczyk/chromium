@@ -1,0 +1,4 @@
+# Docerion header of graphics-roles-expected-win.txt.
+type: test
+title: Graphics roles expected Windows accessibility tree
+summary: Expected Windows accessibility tree dump for the ARIA graphics roles test page.

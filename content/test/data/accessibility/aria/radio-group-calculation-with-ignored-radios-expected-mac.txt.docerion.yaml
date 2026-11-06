@@ -1,0 +1,4 @@
+# Docerion header of radio-group-calculation-with-ignored-radios-expected-mac.txt.
+type: test
+title: Expected macOS accessibility output for radio group with ignored radios
+summary: Expected macOS accessibility output for a radio group with linked Huey and Dewey radio buttons.

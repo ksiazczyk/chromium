@@ -1,0 +1,4 @@
+# Docerion header of presentational-expected-auralinux.txt.
+type: test
+title: Expected Linux AX tree for presentational test
+summary: Expected Linux AT-SPI accessibility tree snapshot for the ARIA presentational test page.

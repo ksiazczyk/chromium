@@ -1,0 +1,4 @@
+# Docerion header of supplemental-description-nav-expected-android.txt.
+type: test
+title: Supplemental description nav expected Android output
+summary: Expected Android accessibility tree snapshot for the supplemental description nav test page with a labeled navigation view and links.

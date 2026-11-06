@@ -1,0 +1,4 @@
+# Docerion header of hidden-labelled-by-expected-android-external.txt.
+type: test
+title: Expected Android external output for hidden labelled-by test
+summary: Expected Android external accessibility output for the hidden labelled-by test, describing views with container titles and supplemental descriptions.

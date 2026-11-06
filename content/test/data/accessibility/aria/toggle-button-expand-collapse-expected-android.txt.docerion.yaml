@@ -1,0 +1,4 @@
+# Docerion header of toggle-button-expand-collapse-expected-android.txt.
+type: test
+title: Toggle button expand collapse expected Android tree
+summary: Expected Android accessibility tree for the toggle-button-expand-collapse test showing toggle buttons in collapsed and expanded states.

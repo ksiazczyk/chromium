@@ -1,0 +1,4 @@
+# Docerion header of hidden-described-by-expected-win.txt.
+type: test
+title: Expected Windows tree for hidden-described-by test
+summary: Expected Windows MSAA/IA2 accessibility tree snapshot verifying aria-describedby descriptions on sections with hidden elements.

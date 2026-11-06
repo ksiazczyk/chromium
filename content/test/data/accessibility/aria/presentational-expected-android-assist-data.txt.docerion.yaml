@@ -1,0 +1,4 @@
+# Docerion header of presentational-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for presentational test
+summary: Expected Android assist data snapshot for the ARIA presentational test page with a heading and link.
