@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit test for CastStreamingSession teardown
+// summary: Regression test that fast-forwards past the no-data timeout to verify session teardown does not trigger a use-after-free crash.
+// ---
+
 #include "components/cast_streaming/browser/cast_streaming_session.h"
 
 #include <memory>

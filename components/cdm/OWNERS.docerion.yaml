@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file delegating to media/cdm
+summary: Delegates ownership and review responsibility for this directory to the OWNERS file of media/cdm.

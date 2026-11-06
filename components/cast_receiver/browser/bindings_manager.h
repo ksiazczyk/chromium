@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bindings manager header
+// summary: Declares BindingsManager, which injects application bindings into a WebContents and routes PortConnector requests to a message port service.
+// ---
+
 #ifndef COMPONENTS_CAST_RECEIVER_BROWSER_BINDINGS_MANAGER_H_
 #define COMPONENTS_CAST_RECEIVER_BROWSER_BINDINGS_MANAGER_H_
 

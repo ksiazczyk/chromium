@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Streaming receiver channel unit tests
+// summary: Unit tests exercising bootstrap request handling and input event and capabilities messaging of StreamingReceiverChannel over a simulated message port pair.
+// ---
+
 #include "components/cast_receiver/browser/streaming_receiver_channel.h"
 
 #include <memory>

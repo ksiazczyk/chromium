@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service identifier proto
+// summary: Defines the ServiceIdentifier protobuf message that names an Exo service interface and gives the UID of the endpoint that owns it.
+// ---
+
 edition = "2023";
 
 package cast_receiver;

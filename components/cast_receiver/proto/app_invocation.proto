@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App invocation proto definitions
+// summary: Defines the AppInvocation message describing an app launch by package name or intent URI with a launch ID.
+// ---
+
 edition = "2023";
 
 package cast_receiver;

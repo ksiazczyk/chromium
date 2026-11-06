@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CBOR export macro header
+// summary: Defines the CBOR_EXPORT macro controlling symbol visibility and import or export behavior in component builds.
+// ---
+
 #ifndef COMPONENTS_CBOR_CBOR_EXPORT_H_
 #define COMPONENTS_CBOR_CBOR_EXPORT_H_
 

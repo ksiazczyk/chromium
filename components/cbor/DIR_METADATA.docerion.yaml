@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: CBOR directory metadata
+summary: Maps the directory to the Blink>WebAuthentication monorail component, the security-dev team, and a Buganizer component ID.

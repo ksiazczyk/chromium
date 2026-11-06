@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android key system info implementation
+// summary: Implements KeySystemInfo for non-Widevine Android key systems, reporting supported codecs, encryption schemes, robustness, and feature support.
+// ---
+
 #include "components/cdm/renderer/android_key_system_info.h"
 
 #include <utility>

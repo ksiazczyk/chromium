@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast message serialization declarations
+// summary: Header declaring Cast message namespace, key, and value constants plus the SerializeCastMessage and DeserializeCastMessage functions.
+// ---
+
 #ifndef COMPONENTS_CAST_STREAMING_COMMON_MESSAGE_SERIALIZATION_H_
 #define COMPONENTS_CAST_STREAMING_COMMON_MESSAGE_SERIALIZATION_H_
 

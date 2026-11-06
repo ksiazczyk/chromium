@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DecoderBufferFactory interface header
+// summary: Declares an interface that converts Openscreen encoded frames into media DecoderBuffer instances without copying the frame data.
+// ---
+
 #ifndef COMPONENTS_CAST_STREAMING_BROWSER_COMMON_DECODER_BUFFER_FACTORY_H_
 #define COMPONENTS_CAST_STREAMING_BROWSER_COMMON_DECODER_BUFFER_FACTORY_H_
 

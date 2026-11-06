@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Playback command forwarding renderer factory implementation
+// summary: Implements the renderer factory that wraps renderers created by a wrapped factory in a PlaybackCommandForwardingRenderer instance.
+// ---
+
 #include "components/cast_streaming/renderer/control/playback_command_forwarding_renderer_factory.h"
 
 #include "base/task/sequenced_task_runner.h"

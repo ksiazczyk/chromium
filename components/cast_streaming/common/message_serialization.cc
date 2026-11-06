@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast message JSON serialization
+// summary: Defines Cast message namespaces, keys, and values, and implements JSON serialization and deserialization of Cast messages.
+// ---
+
 #include "components/cast_streaming/common/message_serialization.h"
 
 #include <optional>

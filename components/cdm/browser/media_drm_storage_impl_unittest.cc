@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MediaDrmStorageImpl unit tests
+// summary: Unit tests for MediaDrmStorageImpl covering origin ID initialization, session persistence, and license clearing using a testing pref service and navigation simulator.
+// ---
+
 #include "components/cdm/browser/media_drm_storage_impl.h"
 
 #include <memory>

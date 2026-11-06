@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Streaming input capabilities observer implementation
+// summary: Implements an observer that tracks keyboard, mouse and touchscreen device changes via ui::DeviceDataManager and reports cast_receiver InputCapabilities protos to a callback.
+// ---
+
 #include "components/cast_receiver/browser/streaming_input_capabilities_observer.h"
 
 #include "base/strings/string_number_conversions.h"

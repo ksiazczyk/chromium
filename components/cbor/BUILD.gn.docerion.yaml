@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: CBOR component build configuration
+summary: GN build file defining buildflags, header and implementation source sets, the cbor component, and unit test targets for the CBOR library.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the cast streaming frame directory
+summary: GN build file defining the frame source set and its unit test target, listing public headers, sources and dependencies.

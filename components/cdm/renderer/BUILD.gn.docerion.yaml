@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the CDM renderer key system library
+summary: Defines the renderer static library that conditionally assembles key system info sources and dependencies for Android, Widevine, and PlayReady builds.

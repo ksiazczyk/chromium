@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CBOR experiment metrics helper
+// summary: Header defining ShouldRecordMetrics, which decides whether CBOR operations record UMA metrics for Finch experiment arms in Rust-enabled builds.
+// ---
+
 #ifndef COMPONENTS_CBOR_EXPERIMENT_METRICS_H_
 #define COMPONENTS_CBOR_EXPERIMENT_METRICS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Renderer controller proxy implementation
+// summary: Implements the RendererControllerProxy that fuses browser and renderer process Mojo pipes to deliver playback control endpoints.
+// ---
+
 #include "components/cast_streaming/renderer/control/renderer_controller_proxy.h"
 
 #include <utility>

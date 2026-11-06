@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for cast streaming renderer control
+summary: DEPS file restricting includes within cast streaming renderer code to the common, control, and public subdirectories.

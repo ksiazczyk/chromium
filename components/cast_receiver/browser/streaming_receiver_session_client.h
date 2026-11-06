@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StreamingReceiverSessionClient class header
+// summary: Declares StreamingReceiverSessionClient, which wraps cast streaming receiver functionality, manages session lifetimes, and reports session start and errors to a handler.
+// ---
+
 #ifndef COMPONENTS_CAST_RECEIVER_BROWSER_STREAMING_RECEIVER_SESSION_CLIENT_H_
 #define COMPONENTS_CAST_RECEIVER_BROWSER_STREAMING_RECEIVER_SESSION_CLIENT_H_
 

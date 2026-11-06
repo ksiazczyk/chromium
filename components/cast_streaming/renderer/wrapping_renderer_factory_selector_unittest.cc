@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WrappingRendererFactorySelector unit test
+// summary: Unit test verifying that the base renderer factory is used after the renderer controller Mojo connection is disconnected.
+// ---
+
 #include "components/cast_streaming/renderer/public/wrapping_renderer_factory_selector.h"
 
 #include <memory>

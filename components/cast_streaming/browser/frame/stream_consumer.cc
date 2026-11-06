@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of StreamConsumer
+// summary: Implements reading encoded frames from an openscreen receiver and writing them to a mojo data pipe, including flushing and error handling.
+// ---
+
 #include "components/cast_streaming/browser/frame/stream_consumer.h"
 
 #include <algorithm>

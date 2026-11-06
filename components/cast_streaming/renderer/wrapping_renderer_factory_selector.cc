@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WrappingRendererFactorySelector implementation
+// summary: Implements a renderer factory selector that wraps the current factory with playback command forwarding while the renderer controller connection is alive.
+// ---
+
 #include "components/cast_streaming/renderer/public/wrapping_renderer_factory_selector.h"
 
 #include <memory>

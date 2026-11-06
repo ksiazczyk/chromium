@@ -1,0 +1,4 @@
+# Docerion header of cbor57.
+type: data
+title: CBOR reader fuzzer corpus entry cbor57
+summary: Five-byte CBOR seed input for the CBOR reader fuzzer that encodes the text string "IETF".

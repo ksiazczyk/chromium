@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remoting session client interface
+// summary: Declares the RemotingSessionClient interface for managing remoting session lifetime events, including negotiation, configuration, and ending of sessions.
+// ---
+
 #ifndef COMPONENTS_CAST_STREAMING_BROWSER_CONTROL_REMOTING_REMOTING_SESSION_CLIENT_H_
 #define COMPONENTS_CAST_STREAMING_BROWSER_CONTROL_REMOTING_REMOTING_SESSION_CLIENT_H_
 

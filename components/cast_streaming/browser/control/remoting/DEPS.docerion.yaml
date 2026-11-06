@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for cast streaming remoting control
+summary: Restricts includes within components/cast_streaming/browser/control so that only the remoting subdirectory may be included.

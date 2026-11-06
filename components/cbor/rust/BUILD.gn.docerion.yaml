@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: CBOR Rust GN build targets
+summary: Defines the GN targets for the cbor Rust static library and its gtest unit test binary, including C++ bindings generation.

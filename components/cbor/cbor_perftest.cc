@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CBOR reader and writer performance tests
+// summary: Benchmarks CBOR parsing and serialization using FIDO and Web Bundle payloads, reporting parse time and throughput metrics.
+// ---
+
 #include "base/check_deref.h"
 #include "base/files/file_util.h"
 #include "base/no_destructor.h"

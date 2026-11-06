@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CBOR fuzz test for C++ and Rust parity
+// summary: Fuzz test that runs the CBOR reader and writer over a corpus and generated values, checking that the C++ and Rust implementations agree on outputs and error codes.
+// ---
+
 #include "base/base_paths.h"
 #include "base/check.h"
 #include "base/containers/span.h"

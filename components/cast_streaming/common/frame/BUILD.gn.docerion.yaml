@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for cast streaming frame
+summary: GN build file defining the frame source_set that exposes demuxer_stream_traits.h and restricts visibility to cast streaming browser and renderer targets.

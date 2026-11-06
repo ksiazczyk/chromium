@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DemuxerConnector and stream config buffer declarations
+// summary: Declares the renderer-side Mojo DemuxerConnector managing the Cast Streaming session lifetime and a thread-safe buffer for audio and video stream initialization configs.
+// ---
+
 #ifndef COMPONENTS_CAST_STREAMING_RENDERER_FRAME_DEMUXER_CONNECTOR_H_
 #define COMPONENTS_CAST_STREAMING_RENDERER_FRAME_DEMUXER_CONNECTOR_H_
 

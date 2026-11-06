@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Launch info proto definitions
+// summary: Defines LaunchInfo and ClientInfo messages describing launch type, display info and WebRTC client details.
+// ---
+
 edition = "2023";
 
 package cast_receiver;

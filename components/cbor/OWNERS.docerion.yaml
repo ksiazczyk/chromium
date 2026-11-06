@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: CBOR directory owners
+summary: Lists the code owners responsible for reviewing changes to the CBOR component, plus the base security owners file.

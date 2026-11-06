@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the renderer common directory
+summary: Chromium DEPS file restricting includes within the cast streaming renderer to the common and public subdirectories.

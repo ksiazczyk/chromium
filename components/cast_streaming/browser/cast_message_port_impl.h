@@ -3,6 +3,12 @@
 // found in the LICENSE file.
 //
 
+// ---docerion
+// type: source
+// title: CastMessagePortImpl class declaration
+// summary: Declares CastMessagePortImpl, which adapts a cast API bindings MessagePort into an openscreen cast MessagePort for the Cast streaming receiver.
+// ---
+
 #ifndef COMPONENTS_CAST_STREAMING_BROWSER_CAST_MESSAGE_PORT_IMPL_H_
 #define COMPONENTS_CAST_STREAMING_BROWSER_CAST_MESSAGE_PORT_IMPL_H_
 

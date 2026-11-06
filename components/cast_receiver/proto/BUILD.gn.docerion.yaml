@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for Exo input protos
+summary: Defines the proto_library target that compiles the Exo input proto sources for the Cast mirroring receiver.

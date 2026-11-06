@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Action invocation proto definitions
+// summary: Defines ActionInvocation and FallbackAction messages for launching notification actions in the Cast mirroring receiver.
+// ---
+
 edition = "2023";
 
 package cast_receiver;

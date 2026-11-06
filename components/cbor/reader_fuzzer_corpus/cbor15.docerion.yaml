@@ -1,0 +1,4 @@
+# Docerion header of cbor15.
+type: asset
+title: CBOR reader fuzzer corpus input cbor15
+summary: Single-byte CBOR fuzzer corpus input encoding the negative integer -10 for the CBOR reader fuzzer.

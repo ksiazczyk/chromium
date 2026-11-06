@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touch input service proto
+// summary: Defines Touch and TouchEvent protobuf messages for multi-touch input, tracking touch points as display-relative ratios with action types and modifier key states.
+// ---
+
 syntax = "proto3";
 
 package cast_receiver;

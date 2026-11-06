@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyboard input service proto definitions
+// summary: Defines the KeyboardEvent message with key codes, modifier and caps lock states and timestamps for keyboard input.
+// ---
+
 syntax = "proto3";
 
 package cast_receiver;

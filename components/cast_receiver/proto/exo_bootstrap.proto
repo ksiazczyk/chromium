@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Exo bootstrap proto definitions
+// summary: Defines wrapper messages for Exo bootstrap communication, including device capabilities, bootstrap actions and errors.
+// ---
+
 edition = "2023";
 
 package cast_receiver;

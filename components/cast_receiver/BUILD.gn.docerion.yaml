@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Cast receiver unit tests build target
+summary: GN build file defining a test-only source_set that aggregates unit tests from the cast_receiver browser, renderer, and proto targets.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DelegatingDecoderBufferProvider class declaration
+// summary: Declares a thread-safe wrapper around a DecoderBufferProvider weak pointer that delegates config, buffer read, and invalidation calls to the owning task runner.
+// ---
+
 #ifndef COMPONENTS_CAST_STREAMING_RENDERER_WEB_CODECS_DELEGATING_DECODER_BUFFER_PROVIDER_H_
 #define COMPONENTS_CAST_STREAMING_RENDERER_WEB_CODECS_DELEGATING_DECODER_BUFFER_PROVIDER_H_
 

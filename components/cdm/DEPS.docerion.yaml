@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the cdm component
+summary: Defines include_rules restricting which media and Widevine CDM headers and directories may be included from this folder.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for DemuxerStreamDataProvider
+// summary: Tests the audio demuxer stream data provider's buffer responses, stream info updates and mojo disconnect handling with mock clients.
+// ---
+
 #include "components/cast_streaming/browser/frame/demuxer_stream_data_provider.h"
 
 #include <utility>

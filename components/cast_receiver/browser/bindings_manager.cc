@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bindings manager implementation
+// summary: Implements BindingsManager, which stores API binding scripts and connects message ports requested by those bindings.
+// ---
+
 #include "components/cast_receiver/browser/bindings_manager.h"
 
 #include "base/functional/bind.h"

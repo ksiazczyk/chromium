@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content renderer client mixins implementation
+// summary: Implements ContentRendererClientMixins by attaching script injection, media playback options, and URL rewrite providers to render frames and creating wrapping throttle providers.
+// ---
+
 #include "components/cast_receiver/renderer/content_renderer_client_mixins_impl.h"
 
 #include "components/cast_receiver/renderer/url_rewrite_rules_provider.h"

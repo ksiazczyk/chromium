@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for cast streaming common
+summary: Restricts includes so that only the cast_streaming browser common subdirectory may be included from this folder.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for cast_streaming
+summary: Defines include rules that keep browser and renderer code independent while allowing shared common, public, and buildflag dependencies.

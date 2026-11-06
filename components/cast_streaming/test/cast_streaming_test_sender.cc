@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cast Streaming test sender implementation
+// summary: Implements CastStreamingTestSender, which starts a Cast Streaming session and converts and enqueues audio and video buffers as Open Screen frames.
+// ---
+
 #include "components/cast_streaming/test/cast_streaming_test_sender.h"
 
 #include "base/containers/flat_map.h"

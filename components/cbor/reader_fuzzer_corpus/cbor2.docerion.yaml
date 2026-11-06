@@ -1,0 +1,4 @@
+# Docerion header of cbor2.
+type: asset
+title: CBOR reader fuzzer corpus input cbor2
+summary: Single-byte CBOR fuzzer corpus input encoding the unsigned integer 10 for the CBOR reader fuzzer.

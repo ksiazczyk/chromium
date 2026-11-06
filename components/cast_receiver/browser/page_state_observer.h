@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageStateObserver class header
+// summary: Declares PageStateObserver, a wrapper exposing simple WebContents lifetime events such as page load completion and page stop with a reason and error code.
+// ---
+
 #ifndef COMPONENTS_CAST_RECEIVER_BROWSER_PAGE_STATE_OBSERVER_H_
 #define COMPONENTS_CAST_RECEIVER_BROWSER_PAGE_STATE_OBSERVER_H_
 

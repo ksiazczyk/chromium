@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Resolution info proto
+// summary: Defines the ResolutionInfo protobuf message that pairs a service identifier with transport options, where missing options indicate the service is not yet reachable.
+// ---
+
 edition = "2023";
 
 package cast_receiver;

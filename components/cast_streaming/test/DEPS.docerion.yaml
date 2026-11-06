@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Cast Streaming test include rules
+summary: Specifies allowed include dependencies for the Cast Streaming test directory, covering message port, Open Screen, media, and net headers.

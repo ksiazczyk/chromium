@@ -1,0 +1,4 @@
+# Docerion header of cbor58.
+type: data
+title: CBOR reader fuzzer corpus entry cbor58
+summary: Three-byte CBOR seed input for the CBOR reader fuzzer encoding a text string containing quote and backslash characters.

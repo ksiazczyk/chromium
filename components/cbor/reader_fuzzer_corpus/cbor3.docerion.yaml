@@ -1,0 +1,4 @@
+# Docerion header of cbor3.
+type: asset
+title: CBOR reader fuzzer corpus input cbor3
+summary: Single-byte CBOR fuzzer corpus input encoding the unsigned integer 23 for the CBOR reader fuzzer.

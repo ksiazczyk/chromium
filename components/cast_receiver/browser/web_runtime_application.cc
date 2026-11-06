@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRuntimeApplication implementation
+// summary: Implements WebRuntimeApplication, launching non-streaming web apps by loading bindings, observing web contents, and reporting media playback state.
+// ---
+
 #include "components/cast_receiver/browser/web_runtime_application.h"
 
 #include "base/task/bind_post_task.h"

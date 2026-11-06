@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL rewrite rules provider class declaration
+// summary: Declares UrlRewriteRulesProvider, which binds a UrlRequestRulesReceiver mojo interface and provides per-frame URL rewrite rules received from the browser.
+// ---
+
 #ifndef COMPONENTS_CAST_RECEIVER_RENDERER_URL_REWRITE_RULES_PROVIDER_H_
 #define COMPONENTS_CAST_RECEIVER_RENDERER_URL_REWRITE_RULES_PROVIDER_H_
 

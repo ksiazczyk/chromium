@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DemuxerStreamClient interface header
+// summary: Declares a client interface for reacting to DemuxerStream state changes, including enabling the bitstream converter and handling errors.
+// ---
+
 #ifndef COMPONENTS_CAST_STREAMING_BROWSER_COMMON_DEMUXER_STREAM_CLIENT_H_
 #define COMPONENTS_CAST_STREAMING_BROWSER_COMMON_DEMUXER_STREAM_CLIENT_H_
 

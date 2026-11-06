@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Cast receiver include rules
+summary: DEPS file allowing code in this directory to include headers from components/cast.

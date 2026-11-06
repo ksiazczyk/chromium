@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Cast streaming common build targets
+summary: GN build file defining the common source set, mojom targets for demuxer and renderer control, and the message serialization conversions target.

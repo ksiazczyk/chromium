@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EmbedderApplication implementation
+// summary: Implements EmbedderApplication with a trivial streaming config manager stored as WebContents user data, page navigation, and logging of application stop reasons.
+// ---
+
 #include "components/cast_receiver/browser/public/embedder_application.h"
 
 #include <vector>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CBOR value implementation
+// summary: Implements the CBOR Value class, including the CTAP2 canonical map key ordering comparator, constructors, and accessors.
+// ---
+
 #include "components/cbor/values.h"
 
 #include <limits>

@@ -1,0 +1,4 @@
+# Docerion header of cbor59.
+type: data
+title: CBOR reader fuzzer corpus entry cbor59
+summary: Three-byte CBOR seed input for the CBOR reader fuzzer that encodes the text string "ü".

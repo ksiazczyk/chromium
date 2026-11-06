@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Streaming input event observer class declaration
+// summary: Declares StreamingInputObserver, which observes input events on a WebContents' RenderWidgetHost and converts them to mouse, touch and keyboard protos.
+// ---
+
 #ifndef COMPONENTS_CAST_RECEIVER_BROWSER_STREAMING_INPUT_OBSERVER_H_
 #define COMPONENTS_CAST_RECEIVER_BROWSER_STREAMING_INPUT_OBSERVER_H_
 

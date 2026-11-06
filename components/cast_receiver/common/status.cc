@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Status class implementation for cast_receiver
+// summary: Implements the cast_receiver Status class, including StatusCode-to-string conversion, constructors, Update, stream output, equality, and OkStatus.
+// ---
+
 #include "components/cast_receiver/common/public/status.h"
 
 namespace cast_receiver {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CBOR writer
+// summary: Serialises Value and MapKey structures into CBOR byte encodings, writing headers, payloads and map keys.
+// ---
+
 use alloc::vec::Vec;
 
 use crate::constants::*;

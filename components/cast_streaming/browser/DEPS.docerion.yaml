@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the Cast streaming browser directory
+summary: Lists the allowed include paths for code in the Cast streaming browser directory, covering cast message ports, openscreen, media, mojo and network dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of MirroringDecoderBufferFactory
+// summary: Converts openscreen encoded frames into media decoder buffers, setting key frame flags and playout timestamps with an offset workaround.
+// ---
+
 #include "components/cast_streaming/browser/frame/mirroring_decoder_buffer_factory.h"
 
 #include <algorithm>

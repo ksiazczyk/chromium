@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for CastMessagePortImpl
+// summary: Tests message exchange, error handling and channel close behavior of CastMessagePortImpl using paired platform message ports.
+// ---
+
 #include "components/cast_streaming/browser/cast_message_port_impl.h"
 
 #include "base/json/json_reader.h"

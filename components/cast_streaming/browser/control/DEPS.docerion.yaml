@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the cast streaming control directory
+summary: Sets include rules that restrict access to cast streaming browser code while allowing the common, control, and public subdirectories.

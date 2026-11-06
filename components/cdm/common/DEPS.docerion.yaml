@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the CDM common directory
+summary: Grants this directory an include rule permitting headers from content/public/common.

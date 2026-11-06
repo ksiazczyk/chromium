@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Streaming controller base implementation
+// summary: Implements StreamingControllerBase, a factory that selects remoting or mirroring and starts playback once the session config and navigation are ready.
+// ---
+
 #include "components/cast_receiver/browser/streaming_controller_base.h"
 
 #include "base/functional/bind.h"

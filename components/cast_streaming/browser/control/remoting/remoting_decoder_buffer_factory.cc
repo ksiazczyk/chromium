@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remoting decoder buffer factory implementation
+// summary: Implements conversion of Open Screen encoded frames into media DecoderBuffer instances for the cast streaming remoting receiver.
+// ---
+
 #include "components/cast_streaming/browser/control/remoting/remoting_decoder_buffer_factory.h"
 
 #include <algorithm>

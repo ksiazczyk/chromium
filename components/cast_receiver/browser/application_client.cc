@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Application client implementation
+// summary: Implements ApplicationClient, which attaches per-WebContents application controls such as media blocking and URL request rewrite rules.
+// ---
+
 #include "components/cast_receiver/browser/application_client.h"
 
 #include "base/supports_user_data.h"

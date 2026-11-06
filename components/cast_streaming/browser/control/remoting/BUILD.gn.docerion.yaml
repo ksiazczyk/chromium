@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for cast streaming remoting control
+summary: Defines the remoting source set and unit test targets with their sources and dependencies for the cast streaming browser control remoting directory.

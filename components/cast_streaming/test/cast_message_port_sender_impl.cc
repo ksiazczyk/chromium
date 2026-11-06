@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cast message port sender adapter implementation
+// summary: Implements the adapter that bridges a cast API MessagePort to an Open Screen MessagePort for Cast Streaming sender testing.
+// ---
+
 #include "components/cast_streaming/test/cast_message_port_sender_impl.h"
 
 #include "base/logging.h"

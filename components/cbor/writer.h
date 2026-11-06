@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CBOR writer declaration
+// summary: Declares the canonical CBOR encoder per RFC 7049 with configuration for nesting depth, test-only invalid UTF-8, and Rust writer selection.
+// ---
+
 #ifndef COMPONENTS_CBOR_WRITER_H_
 #define COMPONENTS_CBOR_WRITER_H_
 

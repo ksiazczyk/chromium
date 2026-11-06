@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Streaming input capabilities observer unit tests
+// summary: Unit tests verifying that the input capabilities observer reports keyboard, mouse and touchscreen devices on device list completion and hotplug changes.
+// ---
+
 #include "components/cast_receiver/browser/streaming_input_capabilities_observer.h"
 
 #include "base/test/bind.h"

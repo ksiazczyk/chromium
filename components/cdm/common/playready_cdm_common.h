@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PlayReady CDM constants and key system helpers
+// summary: Header defining PlayReady CDM display name and type, key system strings for software and hardware-secure levels, and helpers to detect PlayReady key systems.
+// ---
+
 #ifndef COMPONENTS_CDM_COMMON_PLAYREADY_CDM_COMMON_H_
 #define COMPONENTS_CDM_COMMON_PLAYREADY_CDM_COMMON_H_
 

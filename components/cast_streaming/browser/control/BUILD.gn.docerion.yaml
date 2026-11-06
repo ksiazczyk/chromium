@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the cast streaming control component
+summary: Defines the control source_set listing the playback command and renderer control sources together with their public and internal dependencies.

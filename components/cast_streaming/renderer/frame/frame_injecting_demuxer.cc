@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameInjectingDemuxer implementation
+// summary: Implements the media Demuxer for a Cast Streaming receiver, including demuxer streams that pull audio and video buffers over Mojo and track timestamp offsets.
+// ---
+
 #include "components/cast_streaming/renderer/frame/frame_injecting_demuxer.h"
 
 #include <utility>

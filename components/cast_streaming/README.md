@@ -1,3 +1,12 @@
+---
+type: readme
+title: 'Cast streaming component: background, usage and code breakdown'
+summary: Documents the cast_streaming receiver component, covering required build flags, browser and renderer integration, code structure, initialization flow, and key scenarios.
+relations:
+  - documents /components/cast_streaming/browser/public/receiver_session.h
+  - documents /components/cast_streaming/renderer/public/resource_provider_factory.h
+---
+
 # Background
 
 The `cast_streaming` component provides a wrapper around all Cast mirroring and

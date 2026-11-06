@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CBOR writer unit tests
+// summary: Parameterized unit tests verifying the CBOR encoder output against RFC 7049 test vectors for both the C++ and Rust writer paths.
+// ---
+
 #include "components/cbor/writer.h"
 
 #include <cmath>

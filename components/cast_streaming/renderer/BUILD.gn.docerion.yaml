@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the cast streaming renderer
+summary: GN build file defining the renderer, resource_provider, decoder_buffer_provider and unit_tests targets for the cast streaming renderer component.

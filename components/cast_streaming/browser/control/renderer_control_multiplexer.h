@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RendererControlMultiplexer class declaration
+// summary: Declares RendererControlMultiplexer, which multiplexes several media Renderer callers by forwarding their calls across one mojo pipe.
+// ---
+
 #ifndef COMPONENTS_CAST_STREAMING_BROWSER_CONTROL_RENDERER_CONTROL_MULTIPLEXER_H_
 #define COMPONENTS_CAST_STREAMING_BROWSER_CONTROL_RENDERER_CONTROL_MULTIPLEXER_H_
 

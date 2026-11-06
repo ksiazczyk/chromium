@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FrameInjectingDemuxer unit tests
+// summary: Tests demuxer metadata properties, initialization failure when no streams are configured, and seek and abort-reads behavior of FrameInjectingDemuxer.
+// ---
+
 #include "components/cast_streaming/renderer/frame/frame_injecting_demuxer.h"
 
 #include <optional>

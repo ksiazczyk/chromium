@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Application config implementation
+// summary: Implements constructors and assignment operators for the ApplicationConfig class and its ContentPermissions structure.
+// ---
+
 #include "components/cast_receiver/browser/public/application_config.h"
 
 namespace cast_receiver {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DemuxerStreamDataProvider for audio and video buffer requests
+// summary: Declares a template class that responds to audio and video buffer requester mojo calls, delivering buffers and stream info to the renderer.
+// ---
+
 #ifndef COMPONENTS_CAST_STREAMING_BROWSER_FRAME_DEMUXER_STREAM_DATA_PROVIDER_H_
 #define COMPONENTS_CAST_STREAMING_BROWSER_FRAME_DEMUXER_STREAM_DATA_PROVIDER_H_
 

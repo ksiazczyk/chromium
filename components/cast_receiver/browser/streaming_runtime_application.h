@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StreamingRuntimeApplication class header
+// summary: Declares StreamingRuntimeApplication, a runtime application that manages a cast streaming session, input observation, and the streaming receiver channel.
+// ---
+
 #ifndef COMPONENTS_CAST_RECEIVER_BROWSER_STREAMING_RUNTIME_APPLICATION_H_
 #define COMPONENTS_CAST_RECEIVER_BROWSER_STREAMING_RUNTIME_APPLICATION_H_
 

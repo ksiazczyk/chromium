@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Runtime application dispatcher implementation header
+// summary: Defines a templated dispatcher that creates, looks up, and destroys cast receiver applications by session ID, choosing streaming or web implementations by app ID.
+// ---
+
 #ifndef COMPONENTS_CAST_RECEIVER_BROWSER_RUNTIME_APPLICATION_DISPATCHER_IMPL_H_
 #define COMPONENTS_CAST_RECEIVER_BROWSER_RUNTIME_APPLICATION_DISPATCHER_IMPL_H_
 

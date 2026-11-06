@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for cast streaming common
+summary: Defines the common source_set for the cast streaming browser code, listing public headers and dependencies on base and media.

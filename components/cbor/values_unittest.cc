@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CBOR value unit tests
+// summary: Unit tests covering construction, move semantics, type checks, and accessors of the CBOR Value class.
+// ---
+
 #include "components/cbor/values.h"
 
 #include <string>

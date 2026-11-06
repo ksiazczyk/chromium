@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the cdm browser directory
+summary: Lists the allowed include dependencies for the cdm browser directory, covering prefs, content browser, media mojo, mojo bindings, and test code.

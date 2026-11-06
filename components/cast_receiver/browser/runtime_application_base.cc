@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RuntimeApplicationBase implementation
+// summary: Implements RuntimeApplicationBase, handling application load and stop, navigation, content permissions, URL rewrite rules, and visibility and media controls.
+// ---
+
 #include "components/cast_receiver/browser/runtime_application_base.h"
 
 #include <algorithm>
