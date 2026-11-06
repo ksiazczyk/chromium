@@ -1,0 +1,4 @@
+# Docerion header of toBlob_duration_jpeg.html.
+type: test
+title: toBlob JPEG duration benchmark on a 4k canvas
+summary: Performance test page measuring canvas.toBlob JPEG encoding on a 4000x4000 semi-transparent canvas.

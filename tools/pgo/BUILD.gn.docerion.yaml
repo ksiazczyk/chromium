@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for PGO profile generation tests
+summary: Defines Python library and script test targets that run the PGO profile generation scripts on desktop and Android, including a WebView variant.

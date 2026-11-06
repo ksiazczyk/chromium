@@ -1,0 +1,4 @@
+# Docerion header of css_transitions_staggered_triggering_by_inserting_new_element.html.
+type: test
+title: CSS transitions staggered triggering by inserting new element
+summary: Performance test page that triggers staggered CSS transitions by inserting and swapping show/hide elements next to targets.

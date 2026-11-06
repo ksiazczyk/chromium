@@ -1,0 +1,4 @@
+# Docerion header of raf.html.
+type: test
+title: requestAnimationFrame test page
+summary: Performance test page that runs a continuous requestAnimationFrame loop updating a status counter while displaying filler text.

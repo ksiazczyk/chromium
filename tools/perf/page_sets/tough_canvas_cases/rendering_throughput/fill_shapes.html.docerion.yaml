@@ -1,0 +1,4 @@
+# Docerion header of fill_shapes.html.
+type: source
+title: Canvas fill shapes benchmark page
+summary: HTML page that loads bench.js and fill_shapes.js and runs a 1000-shape canvas fill throughput benchmark on an 800x600 canvas.

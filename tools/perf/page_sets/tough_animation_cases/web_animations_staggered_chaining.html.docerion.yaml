@@ -1,0 +1,4 @@
+# Docerion header of web_animations_staggered_chaining.html.
+type: test
+title: Staggered chaining Web Animations benchmark
+summary: Benchmark page staggering the creation of chained Web Animations that restart each element's animation on finish.

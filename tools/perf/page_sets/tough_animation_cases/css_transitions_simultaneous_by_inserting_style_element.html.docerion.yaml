@@ -1,0 +1,4 @@
+# Docerion header of css_transitions_simultaneous_by_inserting_style_element.html.
+type: test
+title: CSS transitions simultaneous by inserting style element
+summary: Performance test page that starts CSS opacity transitions on all targets simultaneously by inserting a style element with a new opacity value.

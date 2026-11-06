@@ -1,0 +1,4 @@
+# Docerion header of generate_profile.py.
+type: source
+title: PGO profile generation script for Chrome
+summary: Runs benchmarks like the PGO bots to produce an LLVM profile.profdata used for a second, optimized Chrome build on desktop and Android.

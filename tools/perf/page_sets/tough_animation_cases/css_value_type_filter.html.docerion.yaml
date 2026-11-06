@@ -1,0 +1,4 @@
+# Docerion header of css_value_type_filter.html.
+type: test
+title: CSS value type filter
+summary: Performance test page measuring interpolation of filter values across brightness, contrast, hue-rotate and saturate.

@@ -1,0 +1,4 @@
+# Docerion header of css_transitions_staggered_triggering_by_updating_class.html.
+type: test
+title: CSS transitions staggered triggering by updating class
+summary: Performance test page that triggers staggered CSS transitions by toggling keyframe classes on 1000 targets.

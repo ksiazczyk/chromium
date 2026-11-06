@@ -1,0 +1,4 @@
+# Docerion header of fill_clear_rect.html.
+type: test
+title: Fill and clear rect canvas benchmark
+summary: Benchmark page that repeatedly fills and clears a 2048x2048 canvas and flushes via drawImage to measure fillRect and clearRect throughput.

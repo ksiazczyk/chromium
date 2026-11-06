@@ -1,0 +1,4 @@
+# Docerion header of draw_image_not_pixel_aligned.html.
+type: test
+title: Non-pixel-aligned drawImage benchmark
+summary: Performance test page that draws a source canvas at fractional coordinates to measure non-pixel-aligned drawImage performance.

@@ -1,0 +1,4 @@
+# Docerion header of transform_transition_js_block.html.
+type: test
+title: JS janking CSS transition
+summary: Benchmark page that janks a 10-second CSS transform transition with a busy JavaScript loop to reproduce main-thread interference.

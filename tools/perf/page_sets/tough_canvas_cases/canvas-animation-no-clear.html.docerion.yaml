@@ -1,0 +1,4 @@
+# Docerion header of canvas-animation-no-clear.html.
+type: test
+title: Composited canvases with internal animation
+summary: Performance test page that repeatedly redraws two large 2048x2048 canvases without clearing them, stressing composited canvases with internal animation.

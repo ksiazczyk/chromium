@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared helpers for canvas tough cases
+// summary: Provides shared helpers such as Point, random color string generation, sign randomization and array shuffling used by the canvas tough case benchmarks.
+// ---
+
 function Point(x, y) {
   this.x = x;
   this.y = y;

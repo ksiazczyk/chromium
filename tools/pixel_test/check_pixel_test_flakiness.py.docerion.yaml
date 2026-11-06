@@ -1,0 +1,4 @@
+# Docerion header of check_pixel_test_flakiness.py.
+type: script
+title: Pixel test flakiness checker
+summary: Runs Skia Gold pixel tests multiple times and detects flakiness when screenshots differ between iterations, saving flaky screenshots if requested.

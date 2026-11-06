@@ -1,0 +1,4 @@
+# Docerion header of falling_particle_simulation_gpu.html.
+type: test
+title: Falling particle simulation on GPU-accelerated canvas
+summary: Benchmark page that simulates falling particles on a 1024x1024 2D canvas, reading back pixel data each frame with GPU-accelerated readback to measure canvas performance.

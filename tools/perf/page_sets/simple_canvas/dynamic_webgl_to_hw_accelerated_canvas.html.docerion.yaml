@@ -1,0 +1,4 @@
+# Docerion header of dynamic_webgl_to_hw_accelerated_canvas.html.
+type: test
+title: Dynamic WebGL canvas to 2D canvas benchmark
+summary: Performance test page that renders randomized scissored clears in WebGL and draws the WebGL canvas onto a 2D canvas each frame.

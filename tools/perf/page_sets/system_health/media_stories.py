@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Media system health stories
+# summary: Defines media playback stories that play audio or video on sites such as Google Play Music and SoundCloud.
+# ---
+
 from page_sets.system_health import platforms
 from page_sets.system_health import story_tags
 from page_sets.system_health import system_health_story

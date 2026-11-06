@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bouncing balls physics and animation loop script
+// summary: Core script for the bouncing balls benchmark that simulates ball physics, handles resizing and jolts, and loads the ball and background drawing variants from URL arguments.
+// ---
+
 // demo parameters
 // maybe overridden in test file
 var numBalls = parseInt(getArgValue('ball_count'));

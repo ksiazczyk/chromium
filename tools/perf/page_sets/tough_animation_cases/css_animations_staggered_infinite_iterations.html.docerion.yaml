@@ -1,0 +1,4 @@
+# Docerion header of css_animations_staggered_infinite_iterations.html.
+type: test
+title: 'Perf test: staggered CSS animations with infinite iterations'
+summary: Benchmark page that runs 1000 infinite CSS animations staggered via negative animation delays across the animation duration.

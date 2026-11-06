@@ -1,0 +1,4 @@
+# Docerion header of css_animations_simultaneous_by_inserting_new_element.html.
+type: test
+title: 'Perf test: simultaneous CSS animations via new element insertion'
+summary: Benchmark page that starts 1000 CSS animations at once by repeatedly inserting new target elements into the container every second.

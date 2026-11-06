@@ -1,0 +1,4 @@
+# Docerion header of bouncing_clipped_rectangles.html.
+type: source
+title: Bouncing clipped rectangles canvas benchmark page
+summary: HTML page that initializes a 1000-shape bouncing clipped rectangles stage on an 800x600 canvas and runs it through the benchmark loop.

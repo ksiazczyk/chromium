@@ -1,0 +1,4 @@
+# Docerion header of ebay.html.sha1.
+type: data
+title: eBay snapshot SHA-1 checksum
+summary: SHA-1 checksum of the ebay.html static page snapshot, used to verify its integrity.

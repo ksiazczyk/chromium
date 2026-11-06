@@ -1,0 +1,4 @@
+# Docerion header of index.html.
+type: source
+title: Web workers performance test page
+summary: HTML page that spawns a configurable number of web workers with per-worker memory allocations and an optional close call, for use in performance tests.

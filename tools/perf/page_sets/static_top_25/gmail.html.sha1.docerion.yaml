@@ -1,0 +1,4 @@
+# Docerion header of gmail.html.sha1.
+type: data
+title: Gmail snapshot SHA-1 checksum
+summary: SHA-1 checksum of the gmail.html static page snapshot, used to verify its integrity.

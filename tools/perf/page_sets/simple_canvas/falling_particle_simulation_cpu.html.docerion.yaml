@@ -1,0 +1,4 @@
+# Docerion header of falling_particle_simulation_cpu.html.
+type: test
+title: CPU falling particle simulation benchmark
+summary: Performance test page simulating falling particles on a 2D canvas, using getImageData pixel comparisons to drive CPU-side collision checks.

@@ -1,0 +1,4 @@
+# Docerion header of css_animations_staggered_triggering_by_inserting_style_element.html.
+type: test
+title: CSS animations staggered triggering by inserting style element
+summary: Performance test page that staggers the triggering of 1000 CSS animations by repeatedly inserting new style elements with fresh keyframes.

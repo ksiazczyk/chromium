@@ -6,6 +6,12 @@
  *  tree.
  */
 
+// ---docerion
+// type: source
+// title: getUserMedia resolution selection test script
+// summary: Script that requests getUserMedia at selected resolutions, applies width and aspect ratio constraints, and reports the actual video dimensions.
+// ---
+
 'use strict';
 
 const dimensions = document.querySelector('#dimensions');

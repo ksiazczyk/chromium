@@ -1,0 +1,4 @@
+# Docerion header of css_value_type_color.html.
+type: test
+title: CSS value type color
+summary: Performance test page measuring interpolation of background-color color values between two rgba colors.

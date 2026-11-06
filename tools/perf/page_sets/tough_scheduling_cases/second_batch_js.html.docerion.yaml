@@ -1,0 +1,4 @@
+# Docerion header of second_batch_js.html.
+type: test
+title: Second batch JS benchmark page
+summary: Interactive test page that loads a generated JavaScript variant and runs it while animating a spinner to gauge main thread responsiveness.

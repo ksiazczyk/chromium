@@ -1,0 +1,4 @@
+# Docerion header of amazon.html.sha1.
+type: data
+title: Amazon snapshot SHA-1 checksum
+summary: SHA-1 checksum of the amazon.html static page snapshot, used to verify its integrity.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Swarming task models
+// summary: Models swarming tasks so parent tasks can find their child tasks and child tasks can download their JSON output files.
+// ---
+
 'use strict';
 
 // SwarmingTask represents a task in the swarming server.

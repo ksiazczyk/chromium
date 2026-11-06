@@ -1,0 +1,4 @@
+# Docerion header of canvas.html.
+type: test
+title: Canvas animation tough scrolling test page
+summary: Benchmark page for tough scrolling cases that continuously redraws a fixed canvas via requestAnimationFrame over a long lorem ipsum text body.

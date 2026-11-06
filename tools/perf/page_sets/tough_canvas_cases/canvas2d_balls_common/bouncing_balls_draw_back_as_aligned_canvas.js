@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bouncing balls background drawn as aligned canvas
+// summary: Drawing variant that pre-renders the background image to a viewport-sized canvas and blits it each frame.
+// ---
+
 var backImageCanvas;
 
 function prepareBackground() {

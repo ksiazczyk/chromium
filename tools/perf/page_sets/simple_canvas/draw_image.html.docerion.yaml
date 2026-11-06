@@ -1,0 +1,4 @@
+# Docerion header of draw_image.html.
+type: test
+title: drawImage benchmark
+summary: Performance test page that repeatedly draws a filled source canvas onto a target canvas and flushes content via a small self draw.

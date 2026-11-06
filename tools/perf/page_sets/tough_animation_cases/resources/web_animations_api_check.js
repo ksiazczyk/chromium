@@ -1,6 +1,13 @@
 // Copyright 2014 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Web Animations API fallback check
+// summary: Installs a dummy Element.animate implementation and generates frames when the Web Animations API is missing so telemetry does not flag a test failure.
+// ---
+
 if (!Element.prototype.animate) {
   Element.prototype.animate = function() {
     return {

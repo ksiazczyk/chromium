@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bouncing balls background drawn as aligned image data
+// summary: Drawing variant that caches the background as ImageData and restores it with putImageData each frame.
+// ---
+
 var backImageData;
 
 function prepareBackground() {

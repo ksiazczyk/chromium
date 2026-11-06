@@ -1,0 +1,4 @@
+# Docerion header of css_animations_staggered_chaining_by_inserting_style_element.html.
+type: test
+title: 'Perf test: staggered chained CSS animations via style element insertion'
+summary: Benchmark page that chains per-element CSS animations by inserting new style elements on animation end, with starts staggered over one second.

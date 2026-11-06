@@ -1,0 +1,4 @@
+# Docerion header of docs_paper.html.
+type: test
+title: Canvas paper document rendering benchmark
+summary: Performance test page that renders a paper-like document with custom fonts, clips, fills and strokes on a large 2D canvas.

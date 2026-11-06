@@ -1,3 +1,9 @@
+---
+type: readme
+title: Pervasive resources tool
+summary: Explains the process for collecting pervasive resources from the HTTP Archive dataset, from querying candidate URLs to filtering and identifying static URLs and patterns.
+---
+
 # Pervasive
 Utility for collecting the list of pervasive resources from the HTTP Archive dataset.
 

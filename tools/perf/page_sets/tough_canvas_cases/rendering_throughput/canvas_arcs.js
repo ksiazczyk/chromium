@@ -5,6 +5,12 @@
 // benchmark (https://pr.gg/animometer/developer.html).
 // Javascript code: https://pr.gg/animometer/tests/master/resources/canvas-tests.js
 
+// ---docerion
+// type: source
+// title: Canvas arcs benchmark stage
+// summary: Defines randomly generated canvas arcs and a stage that draws them for the rendering throughput benchmark, inspired by the animometer canvas arcs test.
+// ---
+
 function CanvasArc() {
   var x;
   var y;

@@ -1,0 +1,4 @@
+# Docerion header of hw_accelerated_canvas_to_sw_canvas.html.
+type: test
+title: Hardware-accelerated canvas to smaller software canvas draw benchmark
+summary: Benchmark page that draws a filled 1024x1024 accelerated 2D canvas into a 200x200 destination canvas each frame to measure cross-canvas drawImage performance.

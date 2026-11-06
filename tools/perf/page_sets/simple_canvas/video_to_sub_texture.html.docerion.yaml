@@ -1,0 +1,4 @@
+# Docerion header of video_to_sub_texture.html.
+type: test
+title: Video to WebGL sub-texture upload benchmark
+summary: Performance test page uploading video frames with texSubImage2D, with flipY and premultiply alpha options controlled by URL parameters.

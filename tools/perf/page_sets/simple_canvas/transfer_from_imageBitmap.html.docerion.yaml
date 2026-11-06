@@ -1,0 +1,4 @@
+# Docerion header of transfer_from_imageBitmap.html.
+type: test
+title: Transfer from ImageBitmap benchmark
+summary: Performance test page that repeatedly transfers an OffscreenCanvas frame via transferToImageBitmap into a bitmaprenderer canvas.

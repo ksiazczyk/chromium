@@ -1,0 +1,4 @@
+# Docerion header of dynamic_canvas_to_hw_accelerated_canvas.html.
+type: test
+title: Dynamic 2D canvas to accelerated canvas benchmark
+summary: Performance test page that repeatedly redraws a source 2D canvas and draws it onto a hardware accelerated destination canvas.

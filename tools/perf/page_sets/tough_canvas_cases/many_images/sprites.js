@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sprite movement and drawing module
+// summary: Creates sprites with random positions and velocities and draws them bouncing inside the canvas bounds for the benchmark.
+// ---
+
 var sprites = (function() {
   var objs;
   var width;

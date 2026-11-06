@@ -1,0 +1,4 @@
+# Docerion header of swiffy_collection.html.
+type: test
+title: Swiffy ad collection benchmark page
+summary: Benchmark page for tough ad cases that embeds Swiffy ad iframes with filler text and overlays a transparent click capturer to prevent ad clicks during performance tests.

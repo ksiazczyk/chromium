@@ -1,0 +1,4 @@
+# Docerion header of mix_blend_mode_animation_screen.html.
+type: test
+title: Mix-blend-mode screen animation benchmark page
+summary: Benchmark page animating 400 rotating divs with mix-blend-mode screen over a gradient backdrop to stress CSS blending and animation.

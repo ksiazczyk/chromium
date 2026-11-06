@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Canvas benchmark animation loop helper
+// summary: Runs a supplied draw function on every animation frame, with vendor-prefixed requestAnimationFrame fallbacks, to drive the canvas benchmark.
+// ---
+
 var bench = (function() {
   var rafFunc;
   var drawFunc;

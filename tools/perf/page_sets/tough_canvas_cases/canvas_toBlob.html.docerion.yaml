@@ -1,0 +1,4 @@
+# Docerion header of canvas_toBlob.html.
+type: test
+title: Canvas toBlob performance test page
+summary: Performance test page that animates a small canvas while repeatedly filling a 4000x4000 canvas and converting it via toBlob to stress canvas encoding.

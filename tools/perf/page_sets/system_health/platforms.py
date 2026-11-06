@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Story platform constants
+# summary: Defines desktop and mobile platform constants used to mark which platforms system health stories support.
+# ---
+
 DESKTOP = 'desktop'
 MOBILE = 'mobile'
 

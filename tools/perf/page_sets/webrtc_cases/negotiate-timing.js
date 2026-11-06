@@ -6,6 +6,12 @@
  *  tree.
  */
 
+// ---docerion
+// type: source
+// title: Peer connection negotiation timing test script
+// summary: Script that runs offer/answer negotiation and renegotiation while timing each SDP step and logging setup and video resize durations.
+// ---
+
 'use strict';
 
 const startButton = document.getElementById('startButton');

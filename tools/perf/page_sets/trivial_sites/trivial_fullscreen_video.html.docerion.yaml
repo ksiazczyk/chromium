@@ -1,0 +1,4 @@
+# Docerion header of trivial_fullscreen_video.html.
+type: source
+title: Trivial fullscreen video test page
+summary: Page that autoplays a video and switches it to fullscreen when Return is pressed, for video performance testing.

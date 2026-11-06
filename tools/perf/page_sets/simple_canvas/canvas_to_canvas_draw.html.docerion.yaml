@@ -1,0 +1,4 @@
+# Docerion header of canvas_to_canvas_draw.html.
+type: test
+title: Canvas to canvas draw benchmark
+summary: Performance test page that fills many intermediate canvases and draws them onto a large target canvas to stress resource thrashing with deferral enabled.

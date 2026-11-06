@@ -1,0 +1,4 @@
+# Docerion header of multiple-peerconnections.html.
+type: test
+title: Multiple peerconnections test page
+summary: HTML page for the multiple peer connections WebRTC perf test, letting users set the connection count and CPU overuse detection before starting.

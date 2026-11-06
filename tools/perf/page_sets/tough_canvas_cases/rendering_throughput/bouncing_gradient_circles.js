@@ -8,6 +8,12 @@
 //  - https://trac.webkit.org/export/HEAD/trunk/PerformanceTests/Animometer/tests/bouncing-particles/resources/bouncing-canvas-particles.js
 //  - https://trac.webkit.org/export/HEAD/trunk/PerformanceTests/Animometer/tests/bouncing-particles/resources/bouncing-canvas-shapes.js
 
+// ---docerion
+// type: source
+// title: Bouncing gradient circles stage implementation
+// summary: Implements the bouncing gradient circles canvas stage, moving and drawing circles filled with linear gradients, inspired by the WebKit Animometer benchmark.
+// ---
+
 function BouncingGradientCircle(canvas_width, canvas_height, x_init,
                              y_init, velocity, size) {
   this.canvas_width = canvas_width;

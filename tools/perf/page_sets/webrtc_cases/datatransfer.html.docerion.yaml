@@ -1,0 +1,4 @@
+# Docerion header of datatransfer.html.
+type: source
+title: Generate and transfer data page
+summary: WebRTC samples page for generating and sending a chosen amount of data over a data channel with progress indicators.

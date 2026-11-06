@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Build class for perfbot builds
+// summary: Represents a perfbot build run, parses build URLs, and locates the swarming task associated with a platform and build number.
+// ---
+
 'use strict';
 
 const runner = require('./query-runner.js');

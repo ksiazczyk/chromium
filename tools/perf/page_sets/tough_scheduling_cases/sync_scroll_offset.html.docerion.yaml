@@ -1,0 +1,4 @@
+# Docerion header of sync_scroll_offset.html.
+type: test
+title: Async scroll test page
+summary: Test page that translates a fixed fake element in sync with the real scroll offset during scroll events.

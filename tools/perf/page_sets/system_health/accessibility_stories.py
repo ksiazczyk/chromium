@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Accessibility system health stories
+# summary: Defines accessibility-focused user stories such as scrolling Code Search, loading Wikipedia and Amazon pages, and interacting with YouTube.
+# ---
+
 from page_sets.system_health import platforms
 from page_sets.system_health import story_tags
 from page_sets.system_health import system_health_story

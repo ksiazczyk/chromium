@@ -1,0 +1,4 @@
+# Docerion header of web_animations_set_current_time_in_raf.html.
+type: test
+title: Web Animations set current time in requestAnimationFrame benchmark
+summary: Benchmark page that manually advances the current time of many paused Web Animations players inside requestAnimationFrame.

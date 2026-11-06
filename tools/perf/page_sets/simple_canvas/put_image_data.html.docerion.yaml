@@ -1,0 +1,4 @@
+# Docerion header of put_image_data.html.
+type: test
+title: putImageData canvas benchmark
+summary: Benchmark page that repeatedly writes a randomly filled 1024x1024 ImageData onto a 2D canvas to measure putImageData performance.

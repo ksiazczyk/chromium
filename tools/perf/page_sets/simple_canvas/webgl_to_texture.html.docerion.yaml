@@ -1,0 +1,4 @@
+# Docerion header of webgl_to_texture.html.
+type: test
+title: WebGL canvas to WebGL texture upload benchmark
+summary: Performance test page uploading a rendered WebGL canvas into another WebGL context's texture with texImage2D and reading back a pixel.

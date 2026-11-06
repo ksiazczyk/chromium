@@ -1,0 +1,4 @@
+# Docerion header of resolution.html.
+type: test
+title: getUserMedia resolution selection test page
+summary: HTML page for the getUserMedia resolution sample offering buttons from QVGA up to 8K with size and aspect ratio locks.

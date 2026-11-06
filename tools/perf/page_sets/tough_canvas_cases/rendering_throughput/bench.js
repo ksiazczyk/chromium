@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Canvas benchmark animation runner
+// summary: Runs a canvas draw function in a requestAnimationFrame loop to drive the rendering throughput benchmark pages.
+// ---
+
 var bench = (function() {
   var rafFunc;
   var drawFunc;

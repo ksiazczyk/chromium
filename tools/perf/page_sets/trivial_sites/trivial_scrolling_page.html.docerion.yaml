@@ -1,0 +1,4 @@
+# Docerion header of trivial_scrolling_page.html.
+type: source
+title: Trivial scrolling test page
+summary: Page that writes a large block of text and scrolls it up and down via requestAnimationFrame.

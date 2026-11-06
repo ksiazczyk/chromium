@@ -1,0 +1,4 @@
+# Docerion header of sheets_render.html.
+type: test
+title: Google Sheets canvas render benchmark
+summary: Benchmark page replaying a generated dump of Google Sheets draw commands from Q1 2018 on a 1240x1625 canvas to measure complex spreadsheet-style rendering performance.

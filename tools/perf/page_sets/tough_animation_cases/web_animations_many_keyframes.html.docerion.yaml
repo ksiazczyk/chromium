@@ -1,0 +1,4 @@
+# Docerion header of web_animations_many_keyframes.html.
+type: test
+title: Web Animations with many keyframes benchmark
+summary: Benchmark page running Web Animations API animations with 500 keyframes on a configurable number of targets to stress animation performance.

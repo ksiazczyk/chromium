@@ -1,6 +1,13 @@
 // Copyright 2015 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: CSS value type animation test setup
+// summary: Creates a configurable number of target elements and animates a given CSS property via CSS animations or the Web Animations API for performance measurement.
+// ---
+
 'use strict';
 
 function toCamelCase(property) {

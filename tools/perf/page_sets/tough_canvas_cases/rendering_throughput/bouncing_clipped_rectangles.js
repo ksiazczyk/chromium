@@ -8,6 +8,12 @@
 //  - https://trac.webkit.org/export/HEAD/trunk/PerformanceTests/Animometer/tests/bouncing-particles/resources/bouncing-canvas-particles.js
 //  - https://trac.webkit.org/export/HEAD/trunk/PerformanceTests/Animometer/tests/bouncing-particles/resources/bouncing-canvas-shapes.js
 
+// ---docerion
+// type: source
+// title: Bouncing clipped rectangles stage implementation
+// summary: Implements the bouncing clipped rectangles canvas stage, moving and drawing star-clipped rectangles, inspired by the WebKit Animometer benchmark.
+// ---
+
 function BouncingClippedRect(canvas_width, canvas_height, x_init,
                              y_init, velocity, angular_velocity, size) {
   this.canvas_width = canvas_width;

@@ -1,0 +1,4 @@
+# Docerion header of static_canvas_to_hw_accelerated_canvas.html.
+type: test
+title: Static canvas to hardware-accelerated canvas draw benchmark
+summary: Benchmark page that draws a filled 1024x1024 source canvas into an equally sized accelerated destination canvas each frame to measure drawImage performance.

@@ -1,0 +1,4 @@
+# Docerion header of generate_profile_webview.pydeps.
+type: config
+title: Python dependencies for generate_profile_webview.py
+summary: Generated list of Python module dependencies that generate_profile_webview.py needs when run in isolation on bots.

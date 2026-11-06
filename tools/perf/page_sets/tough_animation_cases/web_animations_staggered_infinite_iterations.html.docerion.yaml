@@ -1,0 +1,4 @@
+# Docerion header of web_animations_staggered_infinite_iterations.html.
+type: test
+title: Staggered infinite iteration Web Animations benchmark
+summary: Benchmark page running infinitely iterating opacity animations with staggered delays on many targets.

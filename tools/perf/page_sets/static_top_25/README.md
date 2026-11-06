@@ -1,3 +1,9 @@
+---
+type: readme
+title: Static top 25 page set
+summary: Lists the top trafficked site URLs behind the static HTML snapshots and shows how to capture them with the Telemetry snap_page tool, including logged-in pages.
+---
+
 This directory contains static html snapshots of top trafficked web
 sites. The URL list is:
 

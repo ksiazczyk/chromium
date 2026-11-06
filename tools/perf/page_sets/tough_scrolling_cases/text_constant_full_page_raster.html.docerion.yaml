@@ -1,0 +1,4 @@
+# Docerion header of text_constant_full_page_raster.html.
+type: test
+title: Constant full page raster text scrolling test page
+summary: Benchmark page that alternates the text color between two nearly identical values each animation frame, forcing constant full-page rasterization while scrolling long text.

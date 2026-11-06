@@ -1,0 +1,4 @@
+# Docerion header of pause-play.html.
+type: test
+title: Pause play test page
+summary: HTML page hosting the pause and play WebRTC perf test with a status indicator and a table that fills with media elements.

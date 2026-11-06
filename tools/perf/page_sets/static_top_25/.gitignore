@@ -1,1 +1,7 @@
+# ---docerion
+# type: config
+# title: Gitignore for static HTML snapshots
+# summary: Ignores the downloaded *.html snapshot files in the static_top_25 page set directory.
+# ---
+
 *.html

@@ -1,0 +1,4 @@
+# Docerion header of shared_resource_checker_patterns.template.
+type: source
+title: Shared resource checker patterns template
+summary: Template used by pervasive.py to generate a C++ header embedding the zstd-compressed pervasive resource URL pattern list and its expiration date.

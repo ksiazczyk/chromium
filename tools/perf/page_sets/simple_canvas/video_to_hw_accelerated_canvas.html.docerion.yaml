@@ -1,0 +1,4 @@
+# Docerion header of video_to_hw_accelerated_canvas.html.
+type: test
+title: Video to hardware-accelerated 2D canvas benchmark
+summary: Performance test page drawing a WebM video into a 1024x1024 accelerated 2D canvas each frame, using a dummy canvas to flush content.

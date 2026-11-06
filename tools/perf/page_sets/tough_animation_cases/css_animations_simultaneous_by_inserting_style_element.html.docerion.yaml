@@ -1,0 +1,4 @@
+# Docerion header of css_animations_simultaneous_by_inserting_style_element.html.
+type: test
+title: 'Perf test: simultaneous CSS animations via style element insertion'
+summary: Benchmark page that restarts CSS animations on 1000 targets simultaneously by replacing an inserted style element with new keyframes each second.

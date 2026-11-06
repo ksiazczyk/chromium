@@ -1,0 +1,4 @@
+# Docerion header of css_transitions_simultaneous_by_inserting_new_element.html.
+type: test
+title: CSS transitions simultaneous by inserting new element
+summary: Performance test page that starts 1000 CSS opacity transitions simultaneously by inserting trigger elements before each target.

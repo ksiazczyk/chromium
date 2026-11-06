@@ -1,0 +1,4 @@
+# Docerion header of css_transitions_staggered_triggering_by_updating_inline_style.html.
+type: test
+title: CSS transitions staggered triggering by updating inline style
+summary: Performance test page that triggers staggered CSS transitions by updating inline opacity styles on 1000 targets.

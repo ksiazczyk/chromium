@@ -1,0 +1,4 @@
+# Docerion header of canvas2d_to_texture.html.
+type: test
+title: Canvas2D to WebGL texture upload benchmark
+summary: Performance test page that repeatedly uploads a filled 2D canvas as a WebGL texture and reads back a pixel to force completion.

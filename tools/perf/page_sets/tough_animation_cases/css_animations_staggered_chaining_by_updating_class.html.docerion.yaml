@@ -1,0 +1,4 @@
+# Docerion header of css_animations_staggered_chaining_by_updating_class.html.
+type: test
+title: 'Perf test: staggered chained CSS animations via class updates'
+summary: Benchmark page that chains CSS animations by toggling a class on animation end, with 1000 targets started staggered over one second.

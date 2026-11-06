@@ -1,0 +1,4 @@
+# Docerion header of put_and_create_imageBitmap_from_imageData.html.
+type: test
+title: putImageData and createImageBitmap from ImageData benchmark
+summary: Benchmark page that fills a 1024x1024 ImageData, puts it on a canvas and creates an ImageBitmap from it to measure the synchronous createImageBitmap run time.

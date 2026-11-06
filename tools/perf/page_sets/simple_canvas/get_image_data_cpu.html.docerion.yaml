@@ -1,0 +1,4 @@
+# Docerion header of get_image_data_cpu.html.
+type: test
+title: getImageData on CPU-backed canvas benchmark
+summary: Benchmark page that fills a 1024x1024 canvas and calls getImageData with willReadFrequently enabled to measure CPU-side pixel readback performance.

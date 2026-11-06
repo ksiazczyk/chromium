@@ -1,0 +1,4 @@
+# Docerion header of raf_touch_animation.html.
+type: test
+title: requestAnimationFrame with touch handler scrolling and CSS animation test page
+summary: Performance test page combining requestAnimationFrame, non-passive touch handler scrolling and a CSS animation.

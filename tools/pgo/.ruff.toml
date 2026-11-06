@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: Ruff lint configuration for the PGO tooling
+# summary: Extends the repository-wide Ruff configuration and sets the indent width for linting the scripts in tools/pgo.
+# ---
+
 extend = "../.ruff.toml"
 indent-width = 4

@@ -1,0 +1,4 @@
+# Docerion header of touch_handler_scrolling.html.
+type: test
+title: Touch handler scrolling
+summary: Performance test page that registers non-passive touch and wheel handlers to manually scroll a long page, used to benchmark touch handler scrolling scheduling.

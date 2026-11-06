@@ -1,0 +1,4 @@
+# Docerion header of raf_canvas.html.
+type: test
+title: requestAnimationFrame with canvas test page
+summary: Performance test page that draws a moving square on a canvas inside a requestAnimationFrame loop.

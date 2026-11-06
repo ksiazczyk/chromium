@@ -1,0 +1,4 @@
+# Docerion header of toBlob_duration.html.
+type: test
+title: toBlob PNG duration benchmark on a 4k canvas
+summary: Performance test page measuring canvas.toBlob PNG encoding on a 4000x4000 canvas while the main thread keeps drawing frames.

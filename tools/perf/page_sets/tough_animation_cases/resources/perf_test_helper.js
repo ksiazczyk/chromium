@@ -1,6 +1,13 @@
 // Copyright 2014 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Performance test helper utilities
+// summary: Exposes a deterministic random generator, URL parameter and N-value parsing, and a two-frame ready signal shared by the animation performance tests.
+// ---
+
 (function() {
 'use strict';
 

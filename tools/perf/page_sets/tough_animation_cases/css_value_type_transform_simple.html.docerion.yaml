@@ -1,0 +1,4 @@
+# Docerion header of css_value_type_transform_simple.html.
+type: test
+title: CSS value type perf test for simple transform animation
+summary: Performance test page that animates the transform property between two translateX values via the CSS value type helper.

@@ -1,0 +1,4 @@
+# Docerion header of canvas_arcs.html.
+type: source
+title: Canvas arcs benchmark page
+summary: HTML page that initializes 1000 moving arcs on an 800x600 canvas and runs them through the benchmark loop.

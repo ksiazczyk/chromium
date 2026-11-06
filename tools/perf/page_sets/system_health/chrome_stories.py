@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Chrome system health stories
+# summary: Defines Chrome UI stories including loading about:blank, omnibox search, and mobile new tab page search interactions.
+# ---
+
 from page_sets.system_health import platforms
 from page_sets.system_health import story_tags
 from page_sets.system_health import system_health_story

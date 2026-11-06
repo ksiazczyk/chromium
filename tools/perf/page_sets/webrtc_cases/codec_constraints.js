@@ -6,6 +6,12 @@
  *  tree.
  */
 
+// ---docerion
+// type: source
+// title: Peer connection with codec constraints script
+// summary: Sets up a peer connection call applying the selected video codec constraint and traces connection timing.
+// ---
+
 'use strict';
 
 var startButton = document.getElementById('startButton');
