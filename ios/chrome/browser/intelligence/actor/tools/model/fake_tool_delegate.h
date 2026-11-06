@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake tool delegate header
+// summary: Declares FakeToolDelegate, a configurable fake implementation of ToolDelegate used in actor tool tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_ACTOR_TOOLS_MODEL_FAKE_TOOL_DELEGATE_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_ACTOR_TOOLS_MODEL_FAKE_TOOL_DELEGATE_H_
 

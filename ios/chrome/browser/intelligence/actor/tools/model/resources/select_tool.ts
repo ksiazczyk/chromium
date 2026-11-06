@@ -7,6 +7,12 @@
  * <select> element.
  */
 
+// ---docerion
+// type: source
+// title: Select tool logic for select elements
+// summary: Simulates selecting an option in a select element, mirroring a manual user selection with the proper events.
+// ---
+
 import {setInputElementValue, valueForElement} from '//components/autofill/ios/form_util/resources/fill_util.js';
 import type {ActionTarget, Coordinate} from '//ios/chrome/browser/intelligence/actor/tools/model/resources/actor_tool_utils.js';
 import {getElementFromPoint, isCoordinateTarget, isNodeIdTarget} from '//ios/chrome/browser/intelligence/actor/tools/model/resources/actor_tool_utils.js';

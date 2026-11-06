@@ -1,0 +1,4 @@
+# Docerion header of actor_tool_utils.mm.
+type: source
+title: Actor tool utils implementation
+summary: Maps tool types to display strings such as Clicking and Typing and action cases to tool names like ClickTool for feature configuration.

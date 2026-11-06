@@ -1,0 +1,4 @@
+# Docerion header of ios_page_stability_metrics_unittest.mm.
+type: test
+title: iOS page stability metrics unit tests
+summary: Unit tests verifying the stability outcomes and timing histograms recorded by IOSPageStabilityMetrics.

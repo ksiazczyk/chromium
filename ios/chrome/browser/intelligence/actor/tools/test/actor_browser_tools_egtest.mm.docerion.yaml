@@ -1,0 +1,4 @@
+# Docerion header of actor_browser_tools_egtest.mm.
+type: test
+title: Actor browser tools Earl Grey tests
+summary: Earl Grey tests verifying the navigate and history tools work correctly on foreground and background tabs.

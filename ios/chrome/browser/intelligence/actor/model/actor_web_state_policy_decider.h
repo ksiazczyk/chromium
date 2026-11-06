@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor Web State Policy Decider Header
+// summary: Declares a WebStatePolicyDecider that applies origin gating to navigations on WebStates controlled by an ActorTask and reports blocked navigations via callback.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_ACTOR_MODEL_ACTOR_WEB_STATE_POLICY_DECIDER_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_ACTOR_MODEL_ACTOR_WEB_STATE_POLICY_DECIDER_H_
 

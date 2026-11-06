@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Posted Observer List Header
+// summary: Declares an Objective-C observer list that holds weak references and delivers protocol notifications asynchronously in posting order on a single sequence.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_ACTOR_MODEL_POSTED_OBSERVER_LIST_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_ACTOR_MODEL_POSTED_OBSERVER_LIST_H_
 

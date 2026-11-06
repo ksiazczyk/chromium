@@ -1,0 +1,4 @@
+# Docerion header of actuation_worklog_accessory_view.mm.
+type: source
+title: ActuationWorklogAccessoryView implementation
+summary: Implements the worklog accessory card view, configuring its subviews and highlight, enabled, and accessibility behavior from an accessory item model.

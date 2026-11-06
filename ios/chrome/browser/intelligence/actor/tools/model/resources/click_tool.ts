@@ -6,6 +6,12 @@
  * @fileoverview Logic for the ActorTool to perform actions on elements.
  */
 
+// ---docerion
+// type: source
+// title: Click tool event dispatch logic
+// summary: Simulates clicks on targeted elements by dispatching touch and mouse event sequences and reporting result codes.
+// ---
+
 import type {ActionTarget, Coordinate} from '//ios/chrome/browser/intelligence/actor/tools/model/resources/actor_tool_utils.js';
 import {getElementFromPoint, isCoordinateTarget, isNodeIdTarget} from '//ios/chrome/browser/intelligence/actor/tools/model/resources/actor_tool_utils.js';
 import {getNodeById} from '//ios/chrome/browser/intelligence/proto_wrappers/resources/dom_node_ids.js';

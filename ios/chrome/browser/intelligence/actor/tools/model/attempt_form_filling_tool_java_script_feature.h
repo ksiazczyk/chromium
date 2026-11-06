@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Attempt form filling tool JavaScript feature header
+// summary: Declares a JavaScript feature that queries autofill renderer IDs for action targets in a web frame, with result codes mirrored from the TypeScript side.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_ACTOR_TOOLS_MODEL_ATTEMPT_FORM_FILLING_TOOL_JAVA_SCRIPT_FEATURE_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_ACTOR_TOOLS_MODEL_ATTEMPT_FORM_FILLING_TOOL_JAVA_SCRIPT_FEATURE_H_
 

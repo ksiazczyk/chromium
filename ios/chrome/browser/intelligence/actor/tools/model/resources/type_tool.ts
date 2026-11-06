@@ -6,6 +6,12 @@
  * @fileoverview Logic for performing type actions on elements.
  */
 
+// ---docerion
+// type: source
+// title: Type tool logic for text input
+// summary: Simulates keyboard events and writes text into input, textarea, or contentEditable elements for type actions.
+// ---
+
 import type {ActionTarget, Coordinate} from '//ios/chrome/browser/intelligence/actor/tools/model/resources/actor_tool_utils.js';
 import {getElementFromPoint, isCoordinateTarget, isNodeIdTarget} from '//ios/chrome/browser/intelligence/actor/tools/model/resources/actor_tool_utils.js';
 import {getNodeById} from '//ios/chrome/browser/intelligence/proto_wrappers/resources/dom_node_ids.js';

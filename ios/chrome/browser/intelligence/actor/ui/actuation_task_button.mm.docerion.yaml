@@ -1,0 +1,4 @@
+# Docerion header of actuation_task_button.mm.
+type: source
+title: Actuation task button implementation
+summary: Implements the actuation task button with a Gemini blue gradient, icon container, title and subtitle labels, and highlight and enabled state animations.

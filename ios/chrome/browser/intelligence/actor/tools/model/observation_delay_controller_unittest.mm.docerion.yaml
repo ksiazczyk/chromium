@@ -1,0 +1,4 @@
+# Docerion header of observation_delay_controller_unittest.mm.
+type: test
+title: Observation delay controller unit tests
+summary: Unit tests for the observation delay controller state machine, covering timeouts, navigation restarts and state transitions.

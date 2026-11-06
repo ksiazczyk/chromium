@@ -1,0 +1,4 @@
+# Docerion header of actor_web_state_policy_decider.mm.
+type: source
+title: Actor Web State Policy Decider Implementation
+summary: Implements origin gating for main-frame navigation requests and responses, bypassing tool-initiated navigations and failing closed when the gating checker is missing.

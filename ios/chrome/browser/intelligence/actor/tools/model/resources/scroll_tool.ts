@@ -7,6 +7,12 @@
  * within an element.
  */
 
+// ---docerion
+// type: source
+// title: Scroll tool logic
+// summary: Implements scrolling to or within elements, validating scrollability and reporting result codes.
+// ---
+
 import type {ActionTarget, Coordinate} from '//ios/chrome/browser/intelligence/actor/tools/model/resources/actor_tool_utils.js';
 import {getElementFromPoint, isCoordinateTarget, isNodeIdTarget} from '//ios/chrome/browser/intelligence/actor/tools/model/resources/actor_tool_utils.js';
 import {getNodeById} from '//ios/chrome/browser/intelligence/proto_wrappers/resources/dom_node_ids.js';

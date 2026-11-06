@@ -1,0 +1,4 @@
+# Docerion header of actor_tab_helper_observer.mm.
+type: source
+title: ActorTabHelperObserver implementation
+summary: Implements the observer default behavior, forwarding control state changes to the deprecated actuation state callback.

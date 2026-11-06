@@ -1,0 +1,4 @@
+# Docerion header of scroll_tool_java_script_feature_unittest.mm.
+type: test
+title: Scroll tool JavaScript feature unit tests
+summary: Unit tests for the scroll tool JavaScript feature that mock JavaScript responses and verify scroll and scroll-to result handling.

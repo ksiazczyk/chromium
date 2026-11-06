@@ -1,0 +1,4 @@
+# Docerion header of actor_overlay_coordinator.mm.
+type: source
+title: ActorOverlayCoordinator implementation
+summary: Implements the overlay coordinator, creating the overlay view controller with scrim and glow colors and managing its start and stop lifecycle.

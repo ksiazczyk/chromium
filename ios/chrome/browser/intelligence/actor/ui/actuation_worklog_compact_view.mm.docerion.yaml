@@ -1,0 +1,4 @@
+# Docerion header of actuation_worklog_compact_view.mm.
+type: source
+title: ActuationWorklogCompactView implementation
+summary: Implements the compact worklog view with queued step transitions, spring animations, and an embedded actor tool chip below the timeline.

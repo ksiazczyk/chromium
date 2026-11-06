@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Actor tools model BUILD.gn build targets
+summary: Defines GN source sets and dependencies for the actor tools model, including the tool factory, tool interface, action target, and individual actor tools.

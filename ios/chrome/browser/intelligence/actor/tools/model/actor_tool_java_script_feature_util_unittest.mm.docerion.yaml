@@ -1,0 +1,4 @@
+# Docerion header of actor_tool_java_script_feature_util_unittest.mm.
+type: test
+title: Actor tool JavaScript feature utility unit tests
+summary: Unit tests verifying that JavaScript result parsing handles timeouts, malformed results, and missing result codes while recording the expected metrics.

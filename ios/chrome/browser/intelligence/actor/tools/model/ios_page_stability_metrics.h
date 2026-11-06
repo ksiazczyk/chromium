@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS page stability metrics header
+// summary: Declares IOSPageStabilityMetrics and outcome enum, which record page stability results and timing histograms for actor tasks.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_ACTOR_TOOLS_MODEL_IOS_PAGE_STABILITY_METRICS_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_ACTOR_TOOLS_MODEL_IOS_PAGE_STABILITY_METRICS_H_
 

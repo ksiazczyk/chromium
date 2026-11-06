@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActorTaskBackgroundWorker class header
+// summary: Declares the worker that owns an actor task's background continued processing context and the JavaScript heartbeat keeping hidden WebContent processes alive.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_ACTOR_MODEL_ACTOR_TASK_BACKGROUND_WORKER_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_ACTOR_MODEL_ACTOR_TASK_BACKGROUND_WORKER_H_
 

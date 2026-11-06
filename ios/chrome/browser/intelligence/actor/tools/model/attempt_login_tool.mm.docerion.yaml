@@ -1,0 +1,4 @@
+# Docerion header of attempt_login_tool.mm.
+type: source
+title: Attempt login tool implementation
+summary: Implements the login attempt tool, handling credential selection, password form rescan timeouts, and login retries on the target web state.

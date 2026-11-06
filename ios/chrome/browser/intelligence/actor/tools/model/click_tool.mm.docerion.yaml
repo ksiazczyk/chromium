@@ -1,0 +1,4 @@
+# Docerion header of click_tool.mm.
+type: source
+title: Click tool implementation
+summary: Implements the click tool, validating click arguments, resolving the target frame, and dispatching clicks via the click JavaScript feature.

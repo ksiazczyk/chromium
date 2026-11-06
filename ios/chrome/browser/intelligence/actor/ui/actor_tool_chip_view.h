@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor tool chip view interface
+// summary: Declares a customizable chip view representing an actor tool, with an icon and label whose colors follow the view's tint color.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_ACTOR_UI_ACTOR_TOOL_CHIP_VIEW_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_ACTOR_UI_ACTOR_TOOL_CHIP_VIEW_H_
 

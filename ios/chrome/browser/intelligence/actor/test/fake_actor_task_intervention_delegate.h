@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake actor task intervention delegate header
+// summary: Declares FakeActorTaskInterventionDelegate, a test fake that records or auto-completes actor task user intervention and suggestion requests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_ACTOR_TEST_FAKE_ACTOR_TASK_INTERVENTION_DELEGATE_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_ACTOR_TEST_FAKE_ACTOR_TASK_INTERVENTION_DELEGATE_H_
 

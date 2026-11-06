@@ -1,0 +1,4 @@
+# Docerion header of ios_page_stability_monitor_delegate.mm.
+type: source
+title: iOS page stability monitor delegate implementation
+summary: Implements the iOS page stability monitor delegate that logs stability events to the actor journal and creates iOS page stability metrics.

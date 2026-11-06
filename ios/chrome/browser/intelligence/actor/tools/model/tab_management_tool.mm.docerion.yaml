@@ -1,0 +1,4 @@
+# Docerion header of tab_management_tool.mm.
+type: source
+title: Tab management tool implementation
+summary: Implements validation and execution of close, activate and create tab operations for the actor.

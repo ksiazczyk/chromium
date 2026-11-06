@@ -1,0 +1,4 @@
+# Docerion header of navigate_tool_unittest.mm.
+type: test
+title: Navigate tool unit tests
+summary: Unit tests for the NavigateTool covering validation of missing or invalid URLs and navigation execution through the URL loading browser agent.

@@ -1,0 +1,4 @@
+# Docerion header of scroll_tool_java_script_feature.mm.
+type: source
+title: Scroll tool JavaScript feature
+summary: Implements the scroll tool JavaScript feature that executes scroll and scroll-to actions in web frames and maps JavaScript result codes to action result codes.

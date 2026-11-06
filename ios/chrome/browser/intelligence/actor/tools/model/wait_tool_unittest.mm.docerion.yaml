@@ -1,0 +1,4 @@
+# Docerion header of wait_tool_unittest.mm.
+type: test
+title: Wait tool unit tests
+summary: Unit tests for WaitTool covering default, specified, zero and negative durations using mock time.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActuationWorklogAccessoryView interface
+// summary: Declares ActuationWorklogAccessoryView, a UIControl card showing an accessory item with icon, title, subtitle, detail text, and optional chevron.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_ACTOR_UI_ACTUATION_WORKLOG_ACCESSORY_VIEW_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_ACTOR_UI_ACTUATION_WORKLOG_ACCESSORY_VIEW_H_
 

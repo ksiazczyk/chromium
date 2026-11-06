@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web actor tool base class header
+// summary: Declares WebActorTool, a base class for actor tools that interact with web content and resolve target frames.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_ACTOR_TOOLS_MODEL_WEB_ACTOR_TOOL_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_ACTOR_TOOLS_MODEL_WEB_ACTOR_TOOL_H_
 

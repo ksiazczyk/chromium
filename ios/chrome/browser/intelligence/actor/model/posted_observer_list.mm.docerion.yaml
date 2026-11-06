@@ -1,0 +1,4 @@
+# Docerion header of posted_observer_list.mm.
+type: source
+title: Posted Observer List Implementation
+summary: Implements asynchronous observer registration and notification delivery using a sequenced task runner, with pending registration tracking and cancellation support.

@@ -1,0 +1,4 @@
+# Docerion header of actor_page_stability_egtest.mm.
+type: test
+title: Actor page stability Earl Grey tests
+summary: Earl Grey tests verifying page stability waiting behavior, covering LCP delays, unstable pages, and autofill prediction blocking.

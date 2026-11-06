@@ -1,3 +1,9 @@
+---
+type: readme
+title: WIP Actor Model
+summary: Explains that the directory holds the core Actor Service logic, lists its components, and notes how the iOS implementation relates to the desktop one.
+---
+
 # WIP Actor Model
 
 NOTE: this is a work-in-progress prototype, see [tracking bug](https://issues.chromium.org/issues/472289603).

@@ -1,0 +1,4 @@
+# Docerion header of type_tool_java_script_feature.mm.
+type: source
+title: Type tool JavaScript feature implementation
+summary: Implements the type action feature, invoking the type_tool script on the target frame and mapping JS result codes to action results.

@@ -1,0 +1,4 @@
+# Docerion header of action_target_js_unittest.mm.
+type: test
+title: ActionTarget JavaScript unit tests
+summary: JavaScript tests for the action_target script verifying iframe target resolution, main frame targets, and out-of-bounds coordinate failures.

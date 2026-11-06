@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab actions utilities header for actor tools
+// summary: Declares actor namespace helpers UngroupTabs and CreateTabGroup that modify tab groups in a WebStateList for iOS Chrome actor tools.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_ACTOR_TOOLS_UTILS_TAB_ACTIONS_UTILS_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_ACTOR_TOOLS_UTILS_TAB_ACTIONS_UTILS_H_
 

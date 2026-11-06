@@ -1,0 +1,4 @@
+# Docerion header of ios_page_stability_metrics.mm.
+type: source
+title: iOS page stability metrics implementation
+summary: Implements IOSPageStabilityMetrics, logging stability outcomes and timing durations to UMA histograms.

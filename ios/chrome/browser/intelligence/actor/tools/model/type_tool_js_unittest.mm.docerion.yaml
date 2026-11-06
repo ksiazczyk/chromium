@@ -1,0 +1,4 @@
+# Docerion header of type_tool_js_unittest.mm.
+type: test
+title: Type tool JavaScript integration tests
+summary: Tests the type_tool JavaScript in a real web view, typing by coordinates and node IDs against a dedicated test HTML page.

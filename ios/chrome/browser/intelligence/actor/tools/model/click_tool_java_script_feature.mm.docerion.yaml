@@ -1,0 +1,4 @@
+# Docerion header of click_tool_java_script_feature.mm.
+type: source
+title: Click tool JavaScript feature implementation
+summary: Implements the Objective-C++ bridge that invokes the click_tool JavaScript function to perform clicks and maps JavaScript result codes to action result codes.

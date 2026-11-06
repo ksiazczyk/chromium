@@ -1,0 +1,4 @@
+# Docerion header of actor_origin_gating_checker_delegate_ios.mm.
+type: source
+title: Actor origin gating checker delegate implementation
+summary: Implements confirmation rules for navigation and page actions and maps enterprise policy results to origin gating decisions, matching Desktop parity.

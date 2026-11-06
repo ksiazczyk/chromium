@@ -1,0 +1,4 @@
+# Docerion header of actor_task_background_worker_unittest.mm.
+type: test
+title: ActorTaskBackgroundWorker unit tests
+summary: Unit tests for ActorTaskBackgroundWorker covering background task requests, heartbeat ping failures, journal events, and end reasons.

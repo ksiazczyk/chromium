@@ -1,0 +1,4 @@
+# Docerion header of drag_and_release_tool_java_script_feature_unittest.mm.
+type: test
+title: Drag and release tool JavaScript feature unit tests
+summary: Unit tests for the drag and release JavaScript feature using mocked JavaScript results, invalid frames, and parameterized error code mapping cases.

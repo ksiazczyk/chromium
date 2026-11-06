@@ -1,0 +1,4 @@
+# Docerion header of action_target_unittest.mm.
+type: test
+title: ActionTarget unit tests
+summary: Unit tests for ActionTarget proto conversion covering coordinate and node ID targets, invalid inputs, coordinate precedence, and coordinate updates.

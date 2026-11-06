@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActorBrowserAgent header
+// summary: Declares a per-browser agent that observes the WebStateList and the active tab's ActorTabHelper to dispatch actor overlay show and hide commands.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_ACTOR_MODEL_ACTOR_BROWSER_AGENT_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_ACTOR_MODEL_ACTOR_BROWSER_AGENT_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of actor_enterprise_policy_checker_ios_unittest.mm.
+type: test
+title: Actor enterprise policy checker iOS unit tests
+summary: Unit tests verifying CanActOnWeb defaults, allowlist behavior, change notifications, and URL blocklist evaluation for the Actor enterprise policy checker.

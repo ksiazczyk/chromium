@@ -1,0 +1,4 @@
+# Docerion header of click_tool_java_script_feature_unittest.mm.
+type: test
+title: Click tool JavaScript feature unit tests
+summary: Unit tests for the click tool JavaScript feature that mock JavaScript return values and verify error handling, result codes, and metrics.

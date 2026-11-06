@@ -1,0 +1,4 @@
+# Docerion header of observation_delay_controller.mm.
+type: source
+title: Observation delay controller implementation
+summary: Implements the observation delay state machine that waits for page stability, load completion, LCP and autofill predictions before observation.

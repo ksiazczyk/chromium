@@ -1,0 +1,4 @@
+# Docerion header of actor_app_interface_stub.mm.
+type: test
+title: ActorAppInterface Earl Grey stub
+summary: Registers a stub ActorAppInterface in the Earl Grey test application using the distant object mechanism.

@@ -1,0 +1,4 @@
+# Docerion header of page_stability_java_script_feature_unittest.mm.
+type: test
+title: Page stability JavaScript feature unit tests
+summary: Unit tests for the page stability JavaScript feature's LCP waiting, covering mocked JavaScript results, invalid frames and cancellation.

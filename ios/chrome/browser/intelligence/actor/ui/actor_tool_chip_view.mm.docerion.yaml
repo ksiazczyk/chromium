@@ -1,0 +1,4 @@
+# Docerion header of actor_tool_chip_view.mm.
+type: source
+title: Actor tool chip view implementation
+summary: Implements the actor tool chip view with an icon and label in a stack view, pill-shaped corners, insets, and text and icon update support.

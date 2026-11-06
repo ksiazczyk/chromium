@@ -1,0 +1,4 @@
+# Docerion header of actor_test_utils.mm.
+type: source
+title: Implementation of actor test fakes
+summary: Implements the fake navigation managers and origin gating delegate that simulate navigation and policy decisions for actor tests.

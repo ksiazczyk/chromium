@@ -1,0 +1,4 @@
+# Docerion header of scroll_tool.mm.
+type: source
+title: Scroll tool implementation
+summary: Implements ScrollTool, validating direction and distance and falling back to the document root when no target is specified.

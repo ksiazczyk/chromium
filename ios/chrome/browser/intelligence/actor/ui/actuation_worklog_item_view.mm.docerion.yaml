@@ -1,0 +1,4 @@
+# Docerion header of actuation_worklog_item_view.mm.
+type: source
+title: Actuation worklog item view implementation
+summary: Implements the view rendering individual actuation worklog timeline items with dot, circle, card and freeform styles.

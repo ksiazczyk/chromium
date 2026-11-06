@@ -1,0 +1,4 @@
+# Docerion header of actor_overlay_scrim_view_unittest.mm.
+type: test
+title: ActorOverlayScrimView unit tests
+summary: Unit tests verifying the scrim view's background color, alpha, accessibility identifier and layout setup.

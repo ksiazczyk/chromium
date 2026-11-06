@@ -1,0 +1,4 @@
+# Docerion header of type_tool_java_script_feature_unittest.mm.
+type: test
+title: Type tool JavaScript feature unit tests
+summary: Unit tests for the type tool JavaScript feature using mocked JavaScript responses to verify result handling for coordinate and node ID targets.

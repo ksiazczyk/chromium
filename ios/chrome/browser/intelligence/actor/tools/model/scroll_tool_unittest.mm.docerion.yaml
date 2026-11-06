@@ -1,0 +1,4 @@
+# Docerion header of scroll_tool_unittest.mm.
+type: test
+title: Scroll tool unit tests
+summary: Unit tests that validate ScrollTool creation and argument checks for scroll actions using fake profile, browser, and web state objects.

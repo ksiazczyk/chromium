@@ -1,0 +1,4 @@
+# Docerion header of actor_task.mm.
+type: source
+title: ActorTask implementation
+summary: Implements the ActorTask lifecycle, action execution, state transitions, confirmation intervention prompts, and observer notifications for actor tasks.

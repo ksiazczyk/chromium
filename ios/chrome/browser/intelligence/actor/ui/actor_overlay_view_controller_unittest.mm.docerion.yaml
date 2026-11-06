@@ -1,0 +1,4 @@
+# Docerion header of actor_overlay_view_controller_unittest.mm.
+type: test
+title: Actor overlay view controller unit tests
+summary: Unit tests verifying that ActorOverlayViewController sets up its scrim and glow subviews and updates constraints and corner radii from layout state changes.

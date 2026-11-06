@@ -1,0 +1,4 @@
+# Docerion header of tool_controller_unittest.mm.
+type: test
+title: Tool controller unit tests
+summary: Unit tests for ToolController state transitions, cancellation and use-after-free protection.

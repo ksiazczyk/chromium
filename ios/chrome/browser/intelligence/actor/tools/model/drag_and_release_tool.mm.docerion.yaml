@@ -1,0 +1,4 @@
+# Docerion header of drag_and_release_tool.mm.
+type: source
+title: Drag and release tool implementation
+summary: Implements validation and execution of drag and release actions by resolving source and destination target frames and invoking the JavaScript feature.

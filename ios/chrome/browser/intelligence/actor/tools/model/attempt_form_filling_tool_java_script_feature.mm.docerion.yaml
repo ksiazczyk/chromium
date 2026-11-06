@@ -1,0 +1,4 @@
+# Docerion header of attempt_form_filling_tool_java_script_feature.mm.
+type: source
+title: Attempt form filling tool JavaScript feature
+summary: Objective-C++ implementation of the JavaScript feature that requests autofill renderer IDs for form filling targets and maps JavaScript result codes to action result codes.

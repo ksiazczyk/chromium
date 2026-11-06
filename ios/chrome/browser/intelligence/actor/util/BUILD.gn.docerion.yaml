@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn targets for actor test utilities
+summary: Defines test_support and unit_tests GN targets that build the actor test utilities and their unit tests.

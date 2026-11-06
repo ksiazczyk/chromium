@@ -1,0 +1,4 @@
+# Docerion header of page_stability_java_script_feature.mm.
+type: source
+title: Page stability JavaScript feature implementation
+summary: Implements the page stability JavaScript feature, invoking waitForStability and waitForLcp scripts and mapping results and errors to tool results.

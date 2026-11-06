@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile context resolver header
+// summary: Declares ProfileContextResolver, which resolves tab IDs to browser-related objects and exposes the profile's origin gating service.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_ACTOR_TOOLS_UTILS_PROFILE_CONTEXT_RESOLVER_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_ACTOR_TOOLS_UTILS_PROFILE_CONTEXT_RESOLVER_H_
 

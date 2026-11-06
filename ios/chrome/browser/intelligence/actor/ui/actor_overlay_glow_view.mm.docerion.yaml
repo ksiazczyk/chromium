@@ -1,0 +1,4 @@
+# Docerion header of actor_overlay_glow_view.mm.
+type: source
+title: ActorOverlayGlowView implementation
+summary: Implements the glow border view using masked shape layers and inner shadow rendering, updating colors for trait changes.

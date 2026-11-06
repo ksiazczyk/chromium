@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActorFormSuggestion header
+// summary: Declares an Objective-C wrapper that converts actor login credentials and autofill actor suggestions into FormSuggestion objects.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_ACTOR_TOOLS_MODEL_ACTOR_FORM_SUGGESTION_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_ACTOR_TOOLS_MODEL_ACTOR_FORM_SUGGESTION_H_
 

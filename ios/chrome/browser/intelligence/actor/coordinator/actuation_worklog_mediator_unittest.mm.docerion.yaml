@@ -1,0 +1,4 @@
+# Docerion header of actuation_worklog_mediator_unittest.mm.
+type: test
+title: ActuationWorklogMediator unit tests
+summary: Tests the mediator's worklog items, chips, and intervention handling using a fake consumer and actor service test fixtures.

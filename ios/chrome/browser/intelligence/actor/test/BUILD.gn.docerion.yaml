@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build target for actor test support
+summary: Defines the testonly GN source_set that bundles the fake actor task intervention delegate and its dependencies for tests.

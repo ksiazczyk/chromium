@@ -1,0 +1,4 @@
+# Docerion header of actor_tool.mm.
+type: source
+title: ActorTool base class defaults
+summary: Provides default implementations for ActorTool methods such as Cancel, Validate, and GetTargetWebFrame.

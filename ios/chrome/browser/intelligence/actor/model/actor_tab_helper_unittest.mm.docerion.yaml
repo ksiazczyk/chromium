@@ -1,0 +1,4 @@
+# Docerion header of actor_tab_helper_unittest.mm.
+type: test
+title: ActorTabHelper unit tests
+summary: Unit tests for ActorTabHelper covering control state changes, input view suppression, keep-render-process-alive behavior, and observer notifications.

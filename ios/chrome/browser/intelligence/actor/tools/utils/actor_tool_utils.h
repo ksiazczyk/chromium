@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor tool utils header
+// summary: Declares helpers mapping actor tool types to user-facing display strings and action cases to tool names for the DisabledTools parameter.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_ACTOR_TOOLS_UTILS_ACTOR_TOOL_UTILS_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_ACTOR_TOOLS_UTILS_ACTOR_TOOL_UTILS_H_
 

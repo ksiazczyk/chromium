@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actuation intervention view interface
+// summary: Declares the bottom intervention view for the actuation worklog, with a delegate protocol for triggered actions and data-driven configuration.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_ACTOR_UI_ACTUATION_INTERVENTION_VIEW_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_ACTOR_UI_ACTUATION_INTERVENTION_VIEW_H_
 

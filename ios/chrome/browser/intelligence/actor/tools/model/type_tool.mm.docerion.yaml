@@ -1,0 +1,4 @@
+# Docerion header of type_tool.mm.
+type: source
+title: Type tool implementation
+summary: Implements validation and execution of typing text into a targeted page element.

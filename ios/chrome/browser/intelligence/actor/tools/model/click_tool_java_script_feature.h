@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Click tool JavaScript feature header
+// summary: Declares the JavaScript feature that executes click actions in web pages and defines its result code enum.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_ACTOR_TOOLS_MODEL_CLICK_TOOL_JAVA_SCRIPT_FEATURE_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_ACTOR_TOOLS_MODEL_CLICK_TOOL_JAVA_SCRIPT_FEATURE_H_
 

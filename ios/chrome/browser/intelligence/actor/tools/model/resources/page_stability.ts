@@ -6,6 +6,12 @@
  * @fileoverview Logic to wait for page stability by tracking DOM mutations.
  */
 
+// ---docerion
+// type: source
+// title: Page stability via DOM mutation tracking
+// summary: Waits for page stability by tracking DOM mutations against a threshold over time windows, with timeout and cancellation support.
+// ---
+
 import {CrWebApi, gCrWeb} from '//ios/web/public/js_messaging/resources/gcrweb.js';
 const MUTATION_OBSERVER_OPTIONS: MutationObserverInit = {
   childList: true,

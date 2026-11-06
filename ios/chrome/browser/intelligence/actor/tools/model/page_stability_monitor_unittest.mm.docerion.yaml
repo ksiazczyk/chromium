@@ -1,0 +1,4 @@
+# Docerion header of page_stability_monitor_unittest.mm.
+type: test
+title: Page stability monitor unit tests
+summary: Unit tests for PageStabilityMonitor covering frame teardown, minimum wait delays, timeouts, and journal entries.

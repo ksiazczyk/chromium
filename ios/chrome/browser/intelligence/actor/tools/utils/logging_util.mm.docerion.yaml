@@ -1,0 +1,4 @@
+# Docerion header of logging_util.mm.
+type: source
+title: Actor tools journal logging utilities implementation
+summary: Implements journal logging of actor tool events, tool execution results, Act rejections and the lifecycle of async journal entries.

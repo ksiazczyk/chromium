@@ -1,0 +1,4 @@
+# Docerion header of actor_tool_java_script_feature_test_base.mm.
+type: test
+title: Actor tool JavaScript feature test base
+summary: Base test class that sets up a real web state and web frame for actor tool JavaScript feature tests, with helpers to mock JS functions and build action targets.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ActorAppInterface test app interface header
+// summary: Declares the app interface integration tests use to execute actor actions, fetch annotated page content, wait for page stability, and control actor state.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_ACTOR_TOOLS_TEST_ACTOR_APP_INTERFACE_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_ACTOR_TOOLS_TEST_ACTOR_APP_INTERFACE_H_
 

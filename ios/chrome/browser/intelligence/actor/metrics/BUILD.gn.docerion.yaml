@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build config for the actor metrics source set
+summary: Defines the metrics source_set for the iOS Chrome actor intelligence folder, listing actor_background_task_metrics.h as its only source.

@@ -1,0 +1,4 @@
+# Docerion header of tool_controller.mm.
+type: source
+title: Tool controller implementation
+summary: Implements the tool creation, validation, invocation and cancellation state machine for actor tools.

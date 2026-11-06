@@ -1,0 +1,4 @@
+# Docerion header of actor_browser_utils.mm.
+type: source
+title: Actor browser utils implementation
+summary: Implements lookup of the browser and tab index for a WebStateID across regular browsers and optionally incognito browsers of a profile.

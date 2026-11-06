@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gradient activity indicator view interface
+// summary: Declares a circular activity indicator that animates with variable-speed rotation and a multi-color conic gradient.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_ACTOR_UI_GRADIENT_ACTIVITY_INDICATOR_VIEW_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_ACTOR_UI_GRADIENT_ACTIVITY_INDICATOR_VIEW_H_
 

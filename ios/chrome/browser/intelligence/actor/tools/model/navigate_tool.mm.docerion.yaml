@@ -1,0 +1,4 @@
+# Docerion header of navigate_tool.mm.
+type: source
+title: Navigate tool implementation
+summary: Implements the NavigateTool actor tool that validates a destination URL and loads it in the current tab with a ten-second navigation timeout.

@@ -1,0 +1,4 @@
+# Docerion header of actor_browser_agent_unittest.mm.
+type: test
+title: ActorBrowserAgent unit tests
+summary: Verifies that overlay show and hide commands are dispatched on active web state changes and control state transitions using mocked command handlers.

@@ -1,0 +1,4 @@
+# Docerion header of click_tool_unittest.mm.
+type: test
+title: Click tool unit tests
+summary: Unit tests for ClickTool creation and validation of click action arguments such as click type, click count, and tab identifiers.

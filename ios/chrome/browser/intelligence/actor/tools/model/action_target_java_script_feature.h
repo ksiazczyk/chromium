@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActionTargetJavaScriptFeature header
+// summary: Declares a JavaScript feature that resolves the web frame for a given action target, with result codes mirrored in the action_target TypeScript resource.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_ACTOR_TOOLS_MODEL_ACTION_TARGET_JAVA_SCRIPT_FEATURE_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_ACTOR_TOOLS_MODEL_ACTION_TARGET_JAVA_SCRIPT_FEATURE_H_
 

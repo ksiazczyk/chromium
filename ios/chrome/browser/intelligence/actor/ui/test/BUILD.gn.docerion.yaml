@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: test
+title: BUILD.gn for actor overlay Earl Grey tests
+summary: Build definition for the eg2_tests source set that compiles the actor overlay Earl Grey test with its test support dependencies.

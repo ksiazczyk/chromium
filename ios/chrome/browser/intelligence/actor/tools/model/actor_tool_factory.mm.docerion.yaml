@@ -1,0 +1,4 @@
+# Docerion header of actor_tool_factory.mm.
+type: source
+title: ActorToolFactory implementation
+summary: Implements tool creation by mapping action types to concrete tools, resolving target tabs, and honoring feature flag disabling.

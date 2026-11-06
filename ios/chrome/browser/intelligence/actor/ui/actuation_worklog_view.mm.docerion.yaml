@@ -1,0 +1,4 @@
+# Docerion header of actuation_worklog_view.mm.
+type: source
+title: Actuation worklog timeline view implementation
+summary: Implements the actuation worklog timeline view, managing item views, tool chip display and animated collapse transitions.
