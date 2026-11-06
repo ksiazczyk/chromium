@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android keycode conversion unit tests
+// summary: Unit tests that spot-check mappings between Android keycodes and Chromium keyboard codes in both directions.
+// ---
+
 #include "ui/events/keycodes/keyboard_code_conversion_android.h"
 
 #include <android/keycodes.h>

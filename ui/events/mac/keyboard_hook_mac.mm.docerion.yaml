@@ -1,0 +1,4 @@
+# Docerion header of keyboard_hook_mac.mm.
+type: source
+title: Mac KeyboardHook stub implementations
+summary: macOS implementation of KeyboardHook factory methods that return null stubs for modifier and media keyboard hooks.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device capabilities test data
+// summary: Provides captured evdev capability records for real keyboards, mice, touchscreens, touchpads and gamepads used to build EventDeviceInfo objects in tests.
+// ---
+
 #include "ui/events/ozone/evdev/event_device_test_util.h"
 
 #include <stdint.h>

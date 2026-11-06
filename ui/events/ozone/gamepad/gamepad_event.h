@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GamepadEvent class
+// summary: Declares the GamepadEvent class with event types BUTTON, AXIS and FRAME, carrying device id, evdev code, value and timestamp.
+// ---
+
 #ifndef UI_EVENTS_OZONE_GAMEPAD_GAMEPAD_EVENT_H_
 #define UI_EVENTS_OZONE_GAMEPAD_GAMEPAD_EVENT_H_
 

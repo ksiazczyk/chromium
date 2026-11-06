@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GestureRecognizerImpl class declaration
+// summary: Declares GestureRecognizerImpl, the Aura gesture recognizer mapping touch events to consumers and managing gesture providers and helpers.
+// ---
+
 #ifndef UI_EVENTS_GESTURES_GESTURE_RECOGNIZER_IMPL_H_
 #define UI_EVENTS_GESTURES_GESTURE_RECOGNIZER_IMPL_H_
 

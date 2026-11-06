@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touch event converter implementation
+// summary: Implements the evdev touchscreen converter that turns kernel input events into touch events with palm detection and stylus handling.
+// ---
+
 
 #include "ui/events/ozone/evdev/touch_event_converter_evdev.h"
 

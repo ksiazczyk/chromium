@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DOM keyboard layout map base class header
+// summary: Defines the DomKeyboardLayoutMapBase class that platform subclasses extend to retrieve keyboard layout information from the OS.
+// ---
+
 #ifndef UI_EVENTS_KEYCODES_DOM_DOM_KEYBOARD_LAYOUT_MAP_BASE_H_
 #define UI_EVENTS_KEYCODES_DOM_DOM_KEYBOARD_LAYOUT_MAP_BASE_H_
 

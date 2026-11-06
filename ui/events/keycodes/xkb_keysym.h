@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XKB keysym definitions for xkbcommon and X11
+// summary: Defines the xkb keysym type and XKB_KEY values uniformly for both xkbcommon-based and traditional X11 builds via conditional includes and macros.
+// ---
+
 #ifndef UI_EVENTS_KEYCODES_XKB_KEYSYM_H_
 #define UI_EVENTS_KEYCODES_XKB_KEYSYM_H_
 

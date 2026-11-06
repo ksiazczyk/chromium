@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the events_ozone component
+summary: Defines the events_ozone component with device, gamepad, and keyboard sources plus a unittests target, with ChromeOS and udev conditionals.

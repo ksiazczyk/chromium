@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Event converter test utility declarations
+// summary: Declares factory functions that create test device managers, event factories and dispatchers for evdev event converter tests.
+// ---
+
 #ifndef UI_EVENTS_OZONE_EVDEV_EVENT_CONVERTER_TEST_UTIL_H_
 #define UI_EVENTS_OZONE_EVDEV_EVENT_CONVERTER_TEST_UTIL_H_
 

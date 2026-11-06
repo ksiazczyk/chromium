@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FixedVelocityCurve class declaration
+// summary: Declares the GestureCurve subclass that produces scroll offsets advancing at a fixed velocity from a start timestamp.
+// ---
+
 #ifndef UI_EVENTS_GESTURES_FIXED_VELOCITY_CURVE_H_
 #define UI_EVENTS_GESTURES_FIXED_VELOCITY_CURVE_H_
 

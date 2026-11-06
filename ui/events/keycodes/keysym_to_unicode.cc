@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keysym to Unicode conversion implementation
+// summary: Implements a large lookup table that maps X11 keysyms to their corresponding Unicode characters for keyboard event handling.
+// ---
+
 
 #include "ui/events/keycodes/keysym_to_unicode.h"
 

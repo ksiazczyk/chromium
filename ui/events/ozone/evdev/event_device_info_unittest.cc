@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EventDeviceInfo unit tests
+// summary: Unit tests verifying device classification such as gamepad, keyboard, touchscreen, touchpad and stylus detection from captured device capabilities.
+// ---
+
 #include "ui/events/ozone/evdev/event_device_info.h"
 
 #include "base/format_macros.h"

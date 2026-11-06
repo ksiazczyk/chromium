@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for XkbModifierConverter
+// summary: Unit tests verifying conversion between ui::EventFlags and XKB modifier masks, including masks built from a real xkb keymap.
+// ---
+
 #include "ui/events/ozone/layout/xkb/xkb_modifier_converter.h"
 
 #include <xkbcommon/xkbcommon.h>

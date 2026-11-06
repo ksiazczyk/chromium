@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedKeyboardLayoutEngine implementation
+// summary: Installs a supplied KeyboardLayoutEngine as the global engine on construction and resets it on destruction.
+// ---
+
 #include "ui/events/ozone/layout/scoped_keyboard_layout_engine.h"
 
 #include "base/check_op.h"

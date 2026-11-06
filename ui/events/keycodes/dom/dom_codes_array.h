@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Constexpr array of all DomCode values
+// summary: Declares a constexpr array of all defined DomCode values by expanding the dom_code_data.inc table.
+// ---
+
 #ifndef UI_EVENTS_KEYCODES_DOM_DOM_CODES_ARRAY_H_
 #define UI_EVENTS_KEYCODES_DOM_DOM_CODES_ARRAY_H_
 

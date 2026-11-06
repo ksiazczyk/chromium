@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input device settings implementation for evdev
+// summary: Implements InputDeviceSettingsEvdev, managing shared and per-device touchpad, mouse and pointing stick settings.
+// ---
+
 #include "ui/events/ozone/evdev/input_device_settings_evdev.h"
 
 #include "base/feature_list.h"

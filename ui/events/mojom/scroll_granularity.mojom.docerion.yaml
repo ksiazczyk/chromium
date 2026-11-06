@@ -1,0 +1,4 @@
+# Docerion header of scroll_granularity.mojom.
+type: source
+title: ScrollGranularity native enum declaration
+summary: Declares the native ScrollGranularity enum within the ui.mojom module for describing scroll event granularity.

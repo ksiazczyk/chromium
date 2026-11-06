@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceEvent implementation
+// summary: Implements the DeviceEvent constructor and destructor that carry a device type, action, path and property map for Ozone device notifications.
+// ---
+
 #include "ui/events/ozone/device/device_event.h"
 
 namespace ui {

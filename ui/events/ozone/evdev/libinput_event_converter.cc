@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Libinput event converter implementation
+// summary: Converts libinput events from touchpads unsupported by libgestures into Chromium events and applies device settings.
+// ---
+
 #include "ui/events/ozone/evdev/libinput_event_converter.h"
 
 #include <fcntl.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ozone input feature flag definitions
+// summary: Defines base features and parameters for palm detection filters, libinput touchpad handling, fake input heuristics, and input event logging.
+// ---
+
 #include "ui/events/ozone/features.h"
 
 namespace ui {

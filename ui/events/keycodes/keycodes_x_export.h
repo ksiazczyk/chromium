@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keycodes X export macro header
+// summary: Defines the KEYCODES_X_EXPORT macro controlling symbol visibility for the X keycodes component.
+// ---
+
 #ifndef UI_EVENTS_KEYCODES_KEYCODES_X_EXPORT_H_
 #define UI_EVENTS_KEYCODES_KEYCODES_X_EXPORT_H_
 

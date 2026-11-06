@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input device factory metrics header
+// summary: Declares histogram names, attachment type and form enums, and the metrics helper for device attachment reporting.
+// ---
+
 #ifndef UI_EVENTS_OZONE_EVDEV_INPUT_DEVICE_FACTORY_EVDEV_METRICS_H_
 #define UI_EVENTS_OZONE_EVDEV_INPUT_DEVICE_FACTORY_EVDEV_METRICS_H_
 

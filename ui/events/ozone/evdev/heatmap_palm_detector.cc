@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Heatmap palm detector implementation
+// summary: Implements the HeatmapPalmDetector base class, managing the singleton instance and touch records used for heatmap-based palm detection.
+// ---
+
 #include "ui/events/ozone/evdev/heatmap_palm_detector.h"
 
 #include "base/check.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeyboardLayoutEngineManager implementation
+// summary: Implements setting and resetting the global KeyboardLayoutEngine instance used by the UI event system.
+// ---
+
 #include "ui/events/ozone/layout/keyboard_layout_engine_manager.h"
 
 #include "base/check.h"

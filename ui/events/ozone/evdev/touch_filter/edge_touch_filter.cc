@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Edge touch filter implementation
+// summary: Implements EdgeTouchFilter, which delays touch contacts that start near the touchscreen border until they move inward.
+// ---
+
 #include "ui/events/ozone/evdev/touch_filter/edge_touch_filter.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Neural stylus palm detection filter utilities unit tests
+// summary: Unit tests for the palm filter utilities, covering device info distillation, sample creation, resampling, and stroke behavior.
+// ---
+
 #include "ui/events/ozone/evdev/touch_filter/neural_stylus_palm_detection_filter_util.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EventFactoryEvdev class declaration
+// summary: Declares the UI-thread Ozone event factory for the Linux evdev input subsystem, including dispatch and device update methods.
+// ---
+
 #ifndef UI_EVENTS_OZONE_EVDEV_EVENT_FACTORY_EVDEV_H_
 #define UI_EVENTS_OZONE_EVDEV_EVENT_FACTORY_EVDEV_H_
 

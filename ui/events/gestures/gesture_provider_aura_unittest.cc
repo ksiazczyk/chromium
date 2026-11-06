@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GestureProviderAura unit tests
+// summary: Tests GestureProviderAura handling of touch press, move, release, and cancel sequences, including rejection of extra events.
+// ---
+
 #include "ui/events/gestures/gesture_provider_aura.h"
 
 #include <memory>

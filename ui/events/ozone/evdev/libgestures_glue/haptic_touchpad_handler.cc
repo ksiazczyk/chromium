@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Haptic touchpad handler implementation
+// summary: Implements haptic touchpad handling over the evdev force feedback interface, mapping UI and click effects to HID waveforms and taking control of click haptics from the kernel.
+// ---
+
 #include "ui/events/ozone/evdev/libgestures_glue/haptic_touchpad_handler.h"
 
 #include <linux/input.h>

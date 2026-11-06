@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touch event debug log class declaration
+// summary: Declares TouchEventLogEvdev, a ring buffer that stores recent touch events and device axis data for debugging and log dumping.
+// ---
+
 #ifndef UI_EVENTS_OZONE_EVDEV_TOUCH_EVDEV_DEBUG_BUFFER_H_
 #define UI_EVENTS_OZONE_EVDEV_TOUCH_EVDEV_DEBUG_BUFFER_H_
 

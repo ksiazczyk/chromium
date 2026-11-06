@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Slow keys handler unit tests
+// summary: Unit tests covering SlowKeysHandler enablement, delay validation, and key dispatch behavior before and after the slow keys delay.
+// ---
+
 #include "ui/events/ozone/keyboard/slow_keys_handler.h"
 
 #include <linux/input-event-codes.h>

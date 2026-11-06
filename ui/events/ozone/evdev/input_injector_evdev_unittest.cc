@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InputInjectorEvdev unit tests
+// summary: Unit tests verifying that InputInjectorEvdev injects mouse clicks, wheel and key events with the expected properties.
+// ---
+
 #include "ui/events/ozone/evdev/input_injector_evdev.h"
 
 #include <utility>

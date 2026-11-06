@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Heatmap palm detection filter implementation
+// summary: Implements stroke sample tracking and slot hold or suppression logic for the heatmap-based palm detection filter.
+// ---
+
 #include "ui/events/ozone/evdev/touch_filter/heatmap_palm_detection_filter.h"
 
 #include <bitset>

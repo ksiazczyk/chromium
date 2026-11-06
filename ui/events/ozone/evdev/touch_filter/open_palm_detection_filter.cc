@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Open palm detection filter implementation
+// summary: Implements a pass-through palm detection filter that clears all hold and suppress slots without tracking touches.
+// ---
+
 #include "ui/events/ozone/evdev/touch_filter/open_palm_detection_filter.h"
 
 namespace ui {

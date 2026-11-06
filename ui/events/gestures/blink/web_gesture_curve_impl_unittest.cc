@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web gesture curve unit test
+// summary: Unit test verifying that WebGestureCurveImpl advances a fling curve with the expected velocities and scroll deltas over successive time ticks.
+// ---
+
 #include "ui/events/gestures/blink/web_gesture_curve_impl.h"
 
 #include <memory>

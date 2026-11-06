@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 keyboard code conversion header
+// summary: Declares functions converting X11 events and keysyms to keyboard codes, DomKey, characters, and X keycodes.
+// ---
+
 #ifndef UI_EVENTS_KEYCODES_KEYBOARD_CODE_CONVERSION_X_H_
 #define UI_EVENTS_KEYCODES_KEYBOARD_CODE_CONVERSION_X_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyboard code conversion implementation
+// summary: Implements platform-independent conversion of DOM codes to DomKeys, characters, and control characters assuming a US keyboard layout.
+// ---
+
 #include "ui/events/keycodes/keyboard_code_conversion.h"
 
 #include <algorithm>

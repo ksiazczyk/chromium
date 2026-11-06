@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GamepadEvent implementation
+// summary: Implements the GamepadEvent constructor that stores device id, event type, evdev scancode, value and timestamp.
+// ---
+
 #include "ui/events/ozone/gamepad/gamepad_event.h"
 
 namespace ui {

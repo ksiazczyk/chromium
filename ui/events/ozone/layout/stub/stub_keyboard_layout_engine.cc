@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StubKeyboardLayoutEngine implementation
+// summary: Implements the stub Ozone keyboard layout engine, falling back to the US layout while supporting a custom lookup table for testing.
+// ---
+
 #include "ui/events/ozone/layout/stub/stub_keyboard_layout_engine.h"
 
 #include <string>

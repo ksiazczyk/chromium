@@ -1,0 +1,4 @@
+# Docerion header of keyboard_codes.mojom.
+type: source
+title: Cross-platform keyboard codes for Mojo
+summary: Defines the extensible KeyboardCode enum that standardizes Win32-style keyboard codes for cross-platform use in Mojo IPC.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DomKeyboardLayoutManager implementation
+// summary: Implements DomKeyboardLayoutManager, creating and looking up keyboard layouts by group id and finding the first ASCII-capable layout.
+// ---
+
 #include "ui/events/keycodes/dom/dom_keyboard_layout_manager.h"
 
 #include <utility>

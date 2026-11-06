@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceManager interface
+// summary: Declares the abstract DeviceManager interface for scanning devices and adding or removing device event observers, plus the CreateDeviceManager factory.
+// ---
+
 #ifndef UI_EVENTS_OZONE_DEVICE_DEVICE_MANAGER_H_
 #define UI_EVENTS_OZONE_DEVICE_DEVICE_MANAGER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for keycodes
+summary: Restricts allowed include dependencies for the keycodes directory, permitting only specific UI and Abseil headers.

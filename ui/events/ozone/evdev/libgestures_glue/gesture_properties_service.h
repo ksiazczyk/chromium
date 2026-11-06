@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GesturePropertiesService Mojo service declaration
+// summary: Declares GesturePropertiesService, a Mojo service exposing gesture property listing, retrieval, and modification for input devices.
+// ---
+
 #ifndef UI_EVENTS_OZONE_EVDEV_LIBGESTURES_GLUE_GESTURE_PROPERTIES_SERVICE_H_
 #define UI_EVENTS_OZONE_EVDEV_LIBGESTURES_GLUE_GESTURE_PROPERTIES_SERVICE_H_
 

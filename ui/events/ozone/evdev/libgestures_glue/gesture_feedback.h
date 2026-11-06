@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gesture feedback log dumping declarations
+// summary: Declares gesture feedback helpers for dumping touch device status and touch event logs, along with the touchpad and input event log file paths.
+// ---
+
 #ifndef UI_EVENTS_OZONE_EVDEV_LIBGESTURES_GLUE_GESTURE_FEEDBACK_H_
 #define UI_EVENTS_OZONE_EVDEV_LIBGESTURES_GLUE_GESTURE_FEEDBACK_H_
 

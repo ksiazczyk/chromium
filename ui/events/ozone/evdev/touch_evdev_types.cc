@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touch evdev type implementations
+// summary: Defines constructors and destructors for the in-progress touch and stylus state structs used by the evdev touch converters.
+// ---
+
 #include "ui/events/ozone/evdev/touch_evdev_types.h"
 
 namespace ui {

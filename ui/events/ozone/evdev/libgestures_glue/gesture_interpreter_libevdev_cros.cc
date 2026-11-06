@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GestureInterpreterLibevdevCros implementation
+// summary: Implements GestureInterpreterLibevdevCros, which feeds libevdev-cros device state into libgestures and converts the resulting gestures into ui::Events for dispatch.
+// ---
+
 #include "ui/events/ozone/evdev/libgestures_glue/gesture_interpreter_libevdev_cros.h"
 
 #include <gestures/gestures.h>

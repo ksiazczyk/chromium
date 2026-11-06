@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TouchFilter abstract interface
+// summary: Defines the abstract TouchFilter interface for suppressing touch slots during evdev touch event processing.
+// ---
+
 #ifndef UI_EVENTS_OZONE_EVDEV_TOUCH_FILTER_TOUCH_FILTER_H_
 #define UI_EVENTS_OZONE_EVDEV_TOUCH_FILTER_TOUCH_FILTER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Palm detection filter factory implementation
+// summary: Implements the palm detection filter factory, selecting filters per device and parsing radius polynomials and model versions.
+// ---
+
 #include "ui/events/ozone/evdev/touch_filter/palm_detection_filter_factory.h"
 
 #include <memory>

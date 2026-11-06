@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Pen tablet event converter unit tests
+// summary: Unit tests for pen tablet event conversion using device capability data for Wacom and Epson tablets.
+// ---
+
 #include "ui/events/ozone/evdev/pen_tablet_event_converter_evdev.h"
 
 #include <errno.h>

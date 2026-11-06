@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touch evdev shared types
+// summary: Declares shared touch state structs and constants, including in-progress touch data and the supported touch slot count.
+// ---
+
 #ifndef UI_EVENTS_OZONE_EVDEV_TOUCH_EVDEV_TYPES_H_
 #define UI_EVENTS_OZONE_EVDEV_TOUCH_EVDEV_TYPES_H_
 

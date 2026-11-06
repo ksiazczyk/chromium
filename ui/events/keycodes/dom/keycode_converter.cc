@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keycode converter implementation
+// summary: Implements conversions between USB DomCodes, native scan codes, XKB and evdev codes, and DOM Level 3 code and key strings.
+// ---
+
 #include "ui/events/keycodes/dom/keycode_converter.h"
 
 #include <array>

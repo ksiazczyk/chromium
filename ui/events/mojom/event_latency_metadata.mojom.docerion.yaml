@@ -1,0 +1,4 @@
+# Docerion header of event_latency_metadata.mojom.
+type: source
+title: Mojom struct for event latency metadata
+summary: Defines a POD Mojom struct with timestamps describing event latency stages between the browser and renderer.

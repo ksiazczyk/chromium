@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: False touch finder implementation
+// summary: Creates a FalseTouchFinder with edge filtering when the edge touch filtering switch is set and applies delay filters to touches.
+// ---
+
 #include "ui/events/ozone/evdev/touch_filter/false_touch_finder.h"
 
 #include "base/command_line.h"

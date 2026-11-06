@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InputDeviceFactoryEvdev unit tests
+// summary: Unit tests for the evdev input device factory using fake event converters to verify device handling and logging.
+// ---
+
 #include "ui/events/ozone/evdev/input_device_factory_evdev.h"
 
 #include <map>

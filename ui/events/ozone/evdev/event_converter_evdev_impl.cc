@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EventConverterEvdevImpl implementation
+// summary: Implements the standard evdev converter for keyboards, mice and touchpads, processing events and tracking modifiers.
+// ---
+
 #include "ui/events/ozone/evdev/event_converter_evdev_impl.h"
 
 #include <errno.h>

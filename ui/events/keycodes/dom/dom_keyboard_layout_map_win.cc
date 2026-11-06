@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows DOM keyboard layout map implementation
+// summary: Windows implementation that generates the DOM keyboard layout map using Win32 keyboard layout APIs, including Japanese layout fixes.
+// ---
+
 #include <windows.h>
 
 #include <algorithm>

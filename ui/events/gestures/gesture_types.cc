@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GestureConsumer base implementation
+// summary: Implements GestureConsumer methods for owning, taking, and resetting its associated gesture provider.
+// ---
+
 #include "ui/events/gestures/gesture_types.h"
 
 #include <string_view>

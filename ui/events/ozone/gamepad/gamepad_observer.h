@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GamepadObserver interface
+// summary: Declares the GamepadObserver interface with callbacks for gamepad device updates and individual gamepad events.
+// ---
+
 #ifndef UI_EVENTS_OZONE_GAMEPAD_GAMEPAD_OBSERVER_H_
 #define UI_EVENTS_OZONE_GAMEPAD_GAMEPAD_OBSERVER_H_
 

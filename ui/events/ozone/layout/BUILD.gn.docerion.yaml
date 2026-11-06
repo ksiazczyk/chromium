@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the events_ozone_layout component
+summary: Defines the layout component sources and dependencies, xkbcommon-conditional sources, and the unittest and test_support targets for Ozone keyboard layout handling.

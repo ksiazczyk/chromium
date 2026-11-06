@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event dispatch callback typedef
+// summary: Defines the EventDispatchCallback typedef used to dispatch UI events in the evdev Ozone backend.
+// ---
+
 #ifndef UI_EVENTS_OZONE_EVDEV_EVENT_DISPATCH_CALLBACK_H_
 #define UI_EVENTS_OZONE_EVDEV_EVENT_DISPATCH_CALLBACK_H_
 

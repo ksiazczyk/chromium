@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac gesture recognizer stub declaration
+// summary: Declares GestureRecognizerImplMac, a stub no-op GestureRecognizer implementation for Mac.
+// ---
+
 #ifndef UI_EVENTS_GESTURES_GESTURE_RECOGNIZER_IMPL_MAC_H_
 #define UI_EVENTS_GESTURES_GESTURE_RECOGNIZER_IMPL_MAC_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CursorController unit tests
+// summary: Unit tests verifying that cursor deltas pass through unchanged for unconfigured or cleared windows and are correctly transformed for rotated high-DPI windows.
+// ---
+
 #include "testing/gtest/include/gtest/gtest.h"
 #include "ui/events/ozone/chromeos/cursor_controller.h"
 

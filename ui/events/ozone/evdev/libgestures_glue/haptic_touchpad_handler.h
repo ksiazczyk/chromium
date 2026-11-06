@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Haptic touchpad handler header
+// summary: Declares HapticTouchpadHandler, which plays haptic effects on supported touchpads and handles click haptics requested by the gesture library.
+// ---
+
 #ifndef UI_EVENTS_OZONE_EVDEV_LIBGESTURES_GLUE_HAPTIC_TOUCHPAD_HANDLER_H_
 #define UI_EVENTS_OZONE_EVDEV_LIBGESTURES_GLUE_HAPTIC_TOUCHPAD_HANDLER_H_
 

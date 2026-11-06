@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenPalmDetectionFilter class header
+// summary: Declares OpenPalmDetectionFilter, a pass-through palm detection filter that neither holds nor suppresses any touches.
+// ---
+
 #ifndef UI_EVENTS_OZONE_EVDEV_TOUCH_FILTER_OPEN_PALM_DETECTION_FILTER_H_
 #define UI_EVENTS_OZONE_EVDEV_TOUCH_FILTER_OPEN_PALM_DETECTION_FILTER_H_
 

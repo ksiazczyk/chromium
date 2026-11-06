@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Event converter test utilities implementation
+// summary: Implements test device manager and event dispatcher doubles that wire an EventFactoryEvdev for use in evdev event converter unit tests.
+// ---
+
 #include "ui/events/ozone/evdev/event_converter_test_util.h"
 #include "base/memory/raw_ptr.h"
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputDeviceFactoryEvdev implementation
+// summary: Implements the evdev input device factory that opens, attaches and removes input devices and applies device settings.
+// ---
+
 #include "ui/events/ozone/evdev/input_device_factory_evdev.h"
 
 #include <fcntl.h>

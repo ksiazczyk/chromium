@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pen tablet event converter declarations
+// summary: Declares the PenTabletEventConverterEvdev class that converts evdev pen tablet input into UI events.
+// ---
+
 #ifndef UI_EVENTS_OZONE_EVDEV_PEN_TABLET_EVENT_CONVERTER_EVDEV_H_
 #define UI_EVENTS_OZONE_EVDEV_PEN_TABLET_EVENT_CONVERTER_EVDEV_H_
 

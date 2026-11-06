@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Physics-based fling curve unit tests
+// summary: Unit tests verifying PhysicsBasedFlingCurve scroll offsets and velocities for X, Y and combined-axis flings.
+// ---
+
 #include "ui/events/gestures/physics_based_fling_curve.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

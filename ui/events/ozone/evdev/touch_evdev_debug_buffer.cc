@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touch event debug log implementation
+// summary: Implements TouchEventLogEvdev, a circular buffer that records touch events and axis info and dumps them to a file for debugging.
+// ---
+
 #include "ui/events/ozone/evdev/touch_evdev_debug_buffer.h"
 
 #include <stdio.h>

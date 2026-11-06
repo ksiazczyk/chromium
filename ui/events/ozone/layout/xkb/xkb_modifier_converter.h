@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XkbModifierConverter class declaration
+// summary: Declares the XkbModifierConverter class for converting between XKB modifier names, bit masks, and ui::EventFlags.
+// ---
+
 #ifndef UI_EVENTS_OZONE_LAYOUT_XKB_XKB_MODIFIER_CONVERTER_H_
 #define UI_EVENTS_OZONE_LAYOUT_XKB_XKB_MODIFIER_CONVERTER_H_
 

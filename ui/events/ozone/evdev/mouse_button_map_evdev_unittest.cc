@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mouse button map unit tests
+// summary: Unit tests verifying per-device mouse button mapping and restoration of defaults after settings removal.
+// ---
+
 #include "ui/events/ozone/evdev/mouse_button_map_evdev.h"
 
 #include <linux/input-event-codes.h>

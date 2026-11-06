@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PhysicsBasedFlingCurve class declaration
+// summary: Declares the PhysicsBasedFlingCurve GestureCurve subclass that generates a touch-screen fling animation curve for scrolling UI elements.
+// ---
+
 #ifndef UI_EVENTS_GESTURES_PHYSICS_BASED_FLING_CURVE_H_
 #define UI_EVENTS_GESTURES_PHYSICS_BASED_FLING_CURVE_H_
 

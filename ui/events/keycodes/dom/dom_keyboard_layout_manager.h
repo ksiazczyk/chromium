@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DomKeyboardLayoutManager class header
+// summary: Declares DomKeyboardLayoutManager, which stores keyboard layouts by group id in priority order.
+// ---
+
 #ifndef UI_EVENTS_KEYCODES_DOM_DOM_KEYBOARD_LAYOUT_MANAGER_H_
 #define UI_EVENTS_KEYCODES_DOM_DOM_KEYBOARD_LAYOUT_MANAGER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for blink gestures
+summary: Declares the include rules permitting this directory to use Blink gesture curve headers and ui base features.

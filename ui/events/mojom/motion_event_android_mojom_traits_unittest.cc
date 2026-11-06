@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Android motion event Mojom traits
+// summary: Tests that Android motion events with multiple pointers and historical samples round-trip correctly through Mojo serialization.
+// ---
+
 #include "ui/events/mojom/motion_event_android_mojom_traits.h"
 
 #include <android/input.h>

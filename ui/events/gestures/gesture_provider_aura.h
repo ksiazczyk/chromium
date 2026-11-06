@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GestureProviderAura class declaration
+// summary: Declares the Aura gesture provider and its client interface for gesture detection and dispatch from touch event sequences.
+// ---
+
 #ifndef UI_EVENTS_GESTURES_GESTURE_PROVIDER_AURA_H_
 #define UI_EVENTS_GESTURES_GESTURE_PROVIDER_AURA_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input injector declaration for evdev
+// summary: Declares InputInjectorEvdev, a SystemInputInjector that dispatches injected input events via the evdev device event dispatcher.
+// ---
+
 #ifndef UI_EVENTS_OZONE_EVDEV_INPUT_INJECTOR_EVDEV_H_
 #define UI_EVENTS_OZONE_EVDEV_INPUT_INJECTOR_EVDEV_H_
 

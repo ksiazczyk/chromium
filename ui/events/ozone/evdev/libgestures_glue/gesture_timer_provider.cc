@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gesture timer provider implementation
+// summary: Implements the GesturesTimerProvider that adapts the gesture library's timers to Chromium's base::OneShotTimer and provides monotonic time helpers.
+// ---
+
 #include "ui/events/ozone/evdev/libgestures_glue/gesture_timer_provider.h"
 
 #include <gestures/gestures.h>

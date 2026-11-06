@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia keyboard code conversion
+// summary: Converts Fuchsia KeyMeaning values, including codepoints and non-printable keys, into Chromium DomKey values.
+// ---
+
 #include "ui/events/keycodes/keyboard_code_conversion_fuchsia.h"
 
 #include <fidl/fuchsia.ui.input3/cpp/fidl.h>

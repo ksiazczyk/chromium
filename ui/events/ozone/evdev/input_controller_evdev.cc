@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Evdev input controller implementation
+// summary: Implements the Ozone InputController for evdev, applying keyboard, mouse, touchpad, and pointing stick device settings.
+// ---
+
 #include "ui/events/ozone/evdev/input_controller_evdev.h"
 
 #include <linux/input.h>

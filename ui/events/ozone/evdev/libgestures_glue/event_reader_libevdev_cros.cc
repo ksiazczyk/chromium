@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EventReaderLibevdevCros implementation
+// summary: Implements the EventReaderLibevdevCros converter that reads input events from a device file descriptor via libevdev-cros and forwards state to a delegate, including haptic touchpad support.
+// ---
+
 #include "ui/events/ozone/evdev/libgestures_glue/event_reader_libevdev_cros.h"
 
 #include <errno.h>

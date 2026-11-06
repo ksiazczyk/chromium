@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build configuration for the Ozone evdev component
+summary: Defines the events_ozone_evdev component, its sources, build configs and optional libevdev-cros, libgestures and libinput dependencies.

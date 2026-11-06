@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DOM keyboard layout map header
+// summary: Declares GenerateDomKeyboardLayoutMap, which builds a map of DomCode strings to DomKey strings for the current platform keyboard layout.
+// ---
+
 #ifndef UI_EVENTS_KEYCODES_DOM_DOM_KEYBOARD_LAYOUT_MAP_H_
 #define UI_EVENTS_KEYCODES_DOM_DOM_KEYBOARD_LAYOUT_MAP_H_
 

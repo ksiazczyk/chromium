@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Serialization traits for Android motion events
+// summary: Implements Mojo StructTraits that convert MotionEventAndroid objects and their pointers to and from the Mojom representation.
+// ---
+
 #include "ui/events/mojom/motion_event_android_mojom_traits.h"
 
 #include "base/time/time.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ozone native UI event dispatch implementation
+// summary: Implements dispatch of native ui events by event type plus helpers to set and read keyboard IME flag properties, with a test dispatch disable switch.
+// ---
+
 #include "ui/events/ozone/events_ozone.h"
 
 #include "base/check.h"

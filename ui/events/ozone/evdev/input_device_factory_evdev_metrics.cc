@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input device factory metrics implementation
+// summary: Records ChromeOS input attachment type and form histograms when evdev devices are attached.
+// ---
+
 #include "ui/events/ozone/evdev/input_device_factory_evdev_metrics.h"
 
 #include "base/metrics/histogram_functions.h"

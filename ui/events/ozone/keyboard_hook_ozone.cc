@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ozone keyboard hook implementation
+// summary: Implements the Ozone KeyboardHook by wrapping the platform keyboard hook created by the current Ozone platform for modifier key locking.
+// ---
+
 #include <memory>
 #include <optional>
 #include <utility>

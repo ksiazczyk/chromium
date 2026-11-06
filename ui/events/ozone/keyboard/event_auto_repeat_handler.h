@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event auto repeat handler class declaration
+// summary: Declares the EventAutoRepeatHandler class and its delegate interface for tracking key repeat state and dispatching auto-repeated key events.
+// ---
+
 #ifndef UI_EVENTS_OZONE_KEYBOARD_EVENT_AUTO_REPEAT_HANDLER_H_
 #define UI_EVENTS_OZONE_KEYBOARD_EVENT_AUTO_REPEAT_HANDLER_H_
 

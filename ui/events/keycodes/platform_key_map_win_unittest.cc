@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows platform key map unit tests
+// summary: Contains unit tests verifying conversion of Windows keyboard codes to DOM keys across modifier combinations such as Shift, Caps Lock and AltGr.
+// ---
+
 #include "ui/events/keycodes/platform_key_map_win.h"
 
 #include <string>

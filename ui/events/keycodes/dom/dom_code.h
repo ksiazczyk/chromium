@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DomCode enum declaration header
+// summary: Declares the ui::DomCode enum of DOM physical key codes by expanding the dom_code_data.inc table.
+// ---
+
 #ifndef UI_EVENTS_KEYCODES_DOM_DOM_CODE_H_
 #define UI_EVENTS_KEYCODES_DOM_DOM_CODE_H_
 

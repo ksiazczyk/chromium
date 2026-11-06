@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FlingCurve implementation
+// summary: Implements touch-screen fling scrolling with an exponential decay model that computes scroll offset and velocity over time.
+// ---
+
 #include "ui/events/gestures/fling_curve.h"
 
 #include <algorithm>

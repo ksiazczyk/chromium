@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web gesture curve class declaration
+// summary: Declares the WebGestureCurveImpl class that adapts ui gesture curves to the Blink WebGestureCurve interface for main, impl, and test thread use.
+// ---
+
 #ifndef UI_EVENTS_GESTURES_BLINK_WEB_GESTURE_CURVE_IMPL_H_
 #define UI_EVENTS_GESTURES_BLINK_WEB_GESTURE_CURVE_IMPL_H_
 

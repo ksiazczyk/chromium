@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceManagerUdev implementation
+// summary: Implements the udev-based device manager that monitors input and DRM subsystems, scans devices, and notifies observers of device add, remove, and change events.
+// ---
+
 #include "ui/events/ozone/device/udev/device_manager_udev.h"
 
 #include <stddef.h>

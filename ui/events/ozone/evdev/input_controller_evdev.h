@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Evdev input controller interface
+// summary: Declares InputControllerEvdev, the evdev implementation of Ozone's InputController for managing input device settings and capabilities.
+// ---
+
 #ifndef UI_EVENTS_OZONE_EVDEV_INPUT_CONTROLLER_EVDEV_H_
 #define UI_EVENTS_OZONE_EVDEV_INPUT_CONTROLLER_EVDEV_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EventFactoryEvdev unit tests
+// summary: Unit tests for EventFactoryEvdev covering mouse event dispatch and side button remapping behavior.
+// ---
+
 #include "ui/events/ozone/evdev/event_factory_evdev.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputDeviceFactoryEvdev proxy implementation
+// summary: Forwards input device factory calls to the device I/O thread and hops replies back to the UI thread.
+// ---
+
 #include "ui/events/ozone/evdev/input_device_factory_evdev_proxy.h"
 
 #include <utility>

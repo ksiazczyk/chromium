@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Microphone mute switch event converter header
+// summary: Declares the evdev converter that forwards microphone mute switch value changes to the dispatcher.
+// ---
+
 #ifndef UI_EVENTS_OZONE_EVDEV_MICROPHONE_MUTE_SWITCH_EVENT_CONVERTER_EVDEV_H_
 #define UI_EVENTS_OZONE_EVDEV_MICROPHONE_MUTE_SWITCH_EVENT_CONVERTER_EVDEV_H_
 

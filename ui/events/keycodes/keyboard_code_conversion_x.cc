@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 keyboard code conversion implementation
+// summary: Implements conversion of X11 key events and keysyms to Chromium keyboard codes using generated layout mapping tables for non-US keyboards.
+// ---
+
 #include "ui/events/keycodes/keyboard_code_conversion_x.h"
 
 #include <stddef.h>

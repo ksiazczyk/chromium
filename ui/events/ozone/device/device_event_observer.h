@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceEventObserver interface
+// summary: Defines the DeviceEventObserver interface with a pure virtual OnDeviceEvent callback for receiving Ozone device events.
+// ---
+
 #ifndef UI_EVENTS_OZONE_DEVICE_DEVICE_EVENT_OBSERVER_H_
 #define UI_EVENTS_OZONE_DEVICE_DEVICE_EVENT_OBSERVER_H_
 

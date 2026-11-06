@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for Android motion event Mojom traits
+// summary: Declares Mojo StructTraits specializations mapping MotionEventAndroid pointer, historical, and event data to Mojom types.
+// ---
+
 #ifndef UI_EVENTS_MOJOM_MOTION_EVENT_ANDROID_MOJOM_TRAITS_H_
 #define UI_EVENTS_MOJOM_MOTION_EVENT_ANDROID_MOJOM_TRAITS_H_
 

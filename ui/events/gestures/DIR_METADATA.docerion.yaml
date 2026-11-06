@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for the gestures directory
+summary: Directory metadata assigning the gesture code to the Chromium input team and linking to the DIR_METADATA schema documentation.

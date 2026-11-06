@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EventThreadEvdev implementation
+// summary: Implements the dedicated evdev input thread that hosts the input device factory and notifies the UI thread on start.
+// ---
+
 #include "ui/events/ozone/evdev/event_thread_evdev.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Numberpad metrics recorder declarations
+// summary: Declares the numberpad metrics delegate and recorder classes that track numberpad devices and record feature usage metrics.
+// ---
+
 #ifndef UI_EVENTS_OZONE_EVDEV_NUMBERPAD_METRICS_H_
 #define UI_EVENTS_OZONE_EVDEV_NUMBERPAD_METRICS_H_
 

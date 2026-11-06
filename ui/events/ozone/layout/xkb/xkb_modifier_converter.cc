@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XkbModifierConverter implementation
+// summary: Implements conversion between ui::EventFlags and XKB modifier masks using a list of XKB modifier names, including creation from a keymap.
+// ---
+
 #include "ui/events/ozone/layout/xkb/xkb_modifier_converter.h"
 
 #include <xkbcommon/xkbcommon-names.h>

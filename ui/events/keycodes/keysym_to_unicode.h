@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keysym to Unicode conversion header
+// summary: Declares the exported function that returns the Unicode character for a given X keysym, returning zero for non-printable or non-Basic-Plane characters.
+// ---
+
 #ifndef UI_EVENTS_KEYCODES_KEYSYM_TO_UNICODE_H_
 #define UI_EVENTS_KEYCODES_KEYSYM_TO_UNICODE_H_
 

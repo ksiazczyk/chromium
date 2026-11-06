@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeyboardLayoutEngineManager header for global engine access
+// summary: Declares the static manager that stores and exposes the active KeyboardLayoutEngine to key event handling.
+// ---
+
 #ifndef UI_EVENTS_OZONE_LAYOUT_KEYBOARD_LAYOUT_ENGINE_MANAGER_H_
 #define UI_EVENTS_OZONE_LAYOUT_KEYBOARD_LAYOUT_ENGINE_MANAGER_H_
 

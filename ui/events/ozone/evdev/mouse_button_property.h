@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mouse button property helper declarations
+// summary: Declares functions to get and set the Forward/Back mouse button property on UI events.
+// ---
+
 #ifndef UI_EVENTS_OZONE_EVDEV_MOUSE_BUTTON_PROPERTY_H_
 #define UI_EVENTS_OZONE_EVDEV_MOUSE_BUTTON_PROPERTY_H_
 

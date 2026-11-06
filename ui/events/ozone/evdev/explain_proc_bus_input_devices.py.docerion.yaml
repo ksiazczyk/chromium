@@ -1,0 +1,4 @@
+# Docerion header of explain_proc_bus_input_devices.py.
+type: script
+title: Explain /proc/bus/input/devices bitfields
+summary: Command-line Python tool that expands bitfields from /proc/bus/input/devices into named event codes for debugging.

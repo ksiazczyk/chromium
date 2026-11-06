@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Numberpad metrics unit tests
+// summary: Unit tests verifying numberpad metric recording for dynamic, internal and external numberpads using fake devices and histogram testers.
+// ---
+
 #include "ui/events/ozone/evdev/numberpad_metrics.h"
 
 #include <linux/input.h>

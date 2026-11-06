@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for keycodes
+summary: Defines GN build targets for the XKB source set and the X11 keycodes component with their sources and dependencies.

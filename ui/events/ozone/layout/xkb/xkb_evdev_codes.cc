@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XkbEvdevCodes implementation
+// summary: Implements DomCode to xkb_keycode_t conversion by delegating to KeycodeConverter's evdev/xkb native keycode mapping.
+// ---
+
 #include "ui/events/ozone/layout/xkb/xkb_evdev_codes.h"
 
 #include "ui/events/keycodes/dom/keycode_converter.h"

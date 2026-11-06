@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device event dispatcher parameter implementations
+// summary: Implements the constructors for the key, mouse, wheel and pinch event parameter structs used by the evdev dispatcher.
+// ---
+
 #include "ui/events/ozone/evdev/device_event_dispatcher_evdev.h"
 
 #include <optional>

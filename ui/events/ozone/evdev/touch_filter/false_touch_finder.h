@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: False touch finder class
+// summary: Declares FalseTouchFinder, which updates and reports which ABS_MT_SLOT touches should delay reporting.
+// ---
+
 #ifndef UI_EVENTS_OZONE_EVDEV_TOUCH_FILTER_FALSE_TOUCH_FINDER_H_
 #define UI_EVENTS_OZONE_EVDEV_TOUCH_FILTER_FALSE_TOUCH_FINDER_H_
 

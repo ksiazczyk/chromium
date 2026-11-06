@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceManagerUdev class declaration
+// summary: Declares DeviceManagerUdev, a DeviceManager that watches a udev monitor via a file descriptor watcher and dispatches device events to registered observers.
+// ---
+
 #ifndef UI_EVENTS_OZONE_DEVICE_UDEV_DEVICE_MANAGER_UDEV_H_
 #define UI_EVENTS_OZONE_DEVICE_UDEV_DEVICE_MANAGER_UDEV_H_
 

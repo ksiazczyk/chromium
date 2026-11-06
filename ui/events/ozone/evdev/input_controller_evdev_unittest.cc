@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InputControllerEvdev unit tests
+// summary: Unit tests for InputControllerEvdev covering mouse acceleration suspension and scoped disabling of input devices.
+// ---
+
 #include "ui/events/ozone/evdev/input_controller_evdev.h"
 #include <memory>
 

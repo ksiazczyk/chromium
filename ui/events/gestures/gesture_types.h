@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gesture consumer and helper types
+// summary: Defines the GestureConsumer base type, TransferTouchesBehavior enum, and GestureEventHelper interface used by gesture recognition.
+// ---
+
 #ifndef UI_EVENTS_GESTURES_GESTURE_TYPES_H_
 #define UI_EVENTS_GESTURES_GESTURE_TYPES_H_
 

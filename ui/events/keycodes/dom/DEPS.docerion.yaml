@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the DOM keycodes directory
+summary: Restricts includes in the DOM keycodes directory to files within ui/events/keycodes/dom.

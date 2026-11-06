@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EventDeviceInfo implementation
+// summary: Implements querying of Linux input device capabilities, including keyboard allow and blocklists keyed by USB vendor and product IDs and device type classification.
+// ---
+
 #include "ui/events/ozone/evdev/event_device_info.h"
 
 #include <linux/input.h>

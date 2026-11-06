@@ -1,0 +1,4 @@
+# Docerion header of motion_event_android.mojom.
+type: source
+title: Mojom structs for cached Android motion events
+summary: Defines Mojom structs carrying cached Android MotionEvent data such as pointer coordinates, pressure, tilt, and historical events.

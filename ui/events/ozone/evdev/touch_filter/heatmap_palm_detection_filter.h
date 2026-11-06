@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Heatmap palm detection filter class
+// summary: Declares HeatmapPalmDetectionFilter, its stroke and sample types, and the model config for heatmap-based palm rejection.
+// ---
+
 #ifndef UI_EVENTS_OZONE_EVDEV_TOUCH_FILTER_HEATMAP_PALM_DETECTION_FILTER_H_
 #define UI_EVENTS_OZONE_EVDEV_TOUCH_FILTER_HEATMAP_PALM_DETECTION_FILTER_H_
 

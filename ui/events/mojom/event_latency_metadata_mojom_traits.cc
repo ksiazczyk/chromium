@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo deserialization traits for event latency metadata
+// summary: Implements StructTraits that read EventLatencyMetadata fields from the Mojom data view during deserialization.
+// ---
+
 #include "ui/events/mojom/event_latency_metadata_mojom_traits.h"
 
 namespace mojo {

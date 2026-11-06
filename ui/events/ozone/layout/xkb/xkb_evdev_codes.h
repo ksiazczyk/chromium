@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XkbEvdevCodes class declaration
+// summary: Declares the XkbEvdevCodes class, a XkbKeyCodeConverter that maps DOM key codes to XKB keycodes for evdev platforms.
+// ---
+
 #ifndef UI_EVENTS_OZONE_LAYOUT_XKB_XKB_EVDEV_CODES_H_
 #define UI_EVENTS_OZONE_LAYOUT_XKB_XKB_EVDEV_CODES_H_
 

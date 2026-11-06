@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: US layout DomCode lookup tables
+// summary: Header with lookup tables mapping DomCode entries to printable characters and DomKeys, used as a fallback interpretation for US keyboard layout.
+// ---
+
 #ifndef UI_EVENTS_KEYCODES_DOM_US_LAYOUT_DATA_H_
 #define UI_EVENTS_KEYCODES_DOM_US_LAYOUT_DATA_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Imposter checker state interface
+// summary: Declares ImposterCheckerEvdevState, a singleton for enabling and disabling the keyboard imposter check.
+// ---
+
 #ifndef UI_EVENTS_OZONE_EVDEV_IMPOSTER_CHECKER_EVDEV_STATE_H_
 #define UI_EVENTS_OZONE_EVDEV_IMPOSTER_CHECKER_EVDEV_STATE_H_
 

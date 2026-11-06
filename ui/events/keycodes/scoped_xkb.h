@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped XKB resource deleters
+// summary: Provides custom deleters for xkbcommon context, state and keymap objects so their reference-counted resources can be managed with smart pointers.
+// ---
+
 #ifndef UI_EVENTS_KEYCODES_SCOPED_XKB_H_
 #define UI_EVENTS_KEYCODES_SCOPED_XKB_H_
 

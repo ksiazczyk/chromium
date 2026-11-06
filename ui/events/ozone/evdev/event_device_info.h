@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EventDeviceInfo class header
+// summary: Declares EventDeviceInfo, which stores and queries the event types, axes, LEDs and properties a Linux input device can generate.
+// ---
+
 #ifndef UI_EVENTS_OZONE_EVDEV_EVENT_DEVICE_INFO_H_
 #define UI_EVENTS_OZONE_EVDEV_EVENT_DEVICE_INFO_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyboard code conversion API header
+// summary: Declares helper functions that map DOM codes to DomKeys, characters, and located or non-located VKEYs in a platform-independent way.
+// ---
+
 #ifndef UI_EVENTS_KEYCODES_KEYBOARD_CODE_CONVERSION_H_
 #define UI_EVENTS_KEYCODES_KEYBOARD_CODE_CONVERSION_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Heuristic stylus palm detection filter class
+// summary: Declares a heuristic PalmDetectionFilter that cancels or holds touches after stylus input using configurable time deltas.
+// ---
+
 #ifndef UI_EVENTS_OZONE_EVDEV_TOUCH_FILTER_HEURISTIC_STYLUS_PALM_DETECTION_FILTER_H_
 #define UI_EVENTS_OZONE_EVDEV_TOUCH_FILTER_HEURISTIC_STYLUS_PALM_DETECTION_FILTER_H_
 

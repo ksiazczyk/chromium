@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EventConverterEvdevImpl unit tests
+// summary: Unit tests for the evdev event converter, covering key, mouse and device classification behavior using mock devices and captured device log descriptions.
+// ---
+
 #include "ui/events/ozone/evdev/event_converter_evdev_impl.h"
 
 #include <linux/input.h>

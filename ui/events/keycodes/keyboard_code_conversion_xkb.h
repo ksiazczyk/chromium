@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XKB keysym to DomKey conversion header
+// summary: Declares functions mapping xkb keysyms to DomKey values for non-printable keys and XKB layout results.
+// ---
+
 #ifndef UI_EVENTS_KEYCODES_KEYBOARD_CODE_CONVERSION_XKB_H_
 #define UI_EVENTS_KEYCODES_KEYBOARD_CODE_CONVERSION_XKB_H_
 

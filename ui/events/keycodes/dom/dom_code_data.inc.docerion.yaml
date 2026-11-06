@@ -1,0 +1,4 @@
+# Docerion header of dom_code_data.inc.
+type: data
+title: DomCode and scan code mapping table
+summary: Table mapping USB, evdev, xkb, Windows and Mac scan codes to DomCode values and UI Events code strings, included repeatedly with different macros.

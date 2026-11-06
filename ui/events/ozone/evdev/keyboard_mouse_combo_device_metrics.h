@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Combo device classification metrics enum
+// summary: Defines the ComboDeviceClassification enum used for keyboard-mouse combo device classification metrics.
+// ---
+
 #ifndef UI_EVENTS_OZONE_EVDEV_KEYBOARD_MOUSE_COMBO_DEVICE_METRICS_H_
 #define UI_EVENTS_OZONE_EVDEV_KEYBOARD_MOUSE_COMBO_DEVICE_METRICS_H_
 

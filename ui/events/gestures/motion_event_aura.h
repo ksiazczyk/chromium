@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MotionEventAura class declaration
+// summary: Declares MotionEventAura, a MotionEvent implementation that consumes ui::TouchEvents and defers cleanup of removed touch points.
+// ---
+
 #ifndef UI_EVENTS_GESTURES_MOTION_EVENT_AURA_H_
 #define UI_EVENTS_GESTURES_MOTION_EVENT_AURA_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for UI event Mojom traits
+// summary: Verifies that key, mouse, wheel, touch, and located events survive Mojo serialization round trips with identical properties.
+// ---
+
 #include <array>
 #include <limits>
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Heatmap palm detector interface
+// summary: Declares the HeatmapPalmDetector interface for touchscreen palm detection, including model IDs, heatmap cropping, and touch record handling.
+// ---
+
 #ifndef UI_EVENTS_OZONE_EVDEV_HEATMAP_PALM_DETECTOR_H_
 #define UI_EVENTS_OZONE_EVDEV_HEATMAP_PALM_DETECTOR_H_
 

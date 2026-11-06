@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedKeyboardLayoutEngine RAII wrapper header
+// summary: Declares an RAII helper that sets a KeyboardLayoutEngine as the global layout engine used by ui::KeyEvent for its scope.
+// ---
+
 #ifndef UI_EVENTS_OZONE_LAYOUT_SCOPED_KEYBOARD_LAYOUT_ENGINE_H_
 #define UI_EVENTS_OZONE_LAYOUT_SCOPED_KEYBOARD_LAYOUT_ENGINE_H_
 

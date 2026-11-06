@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DomKeyboardLayout implementation
+// summary: Implements DomKeyboardLayout, mapping DomCodes to Unicode characters and producing code-to-key string maps for the Keyboard Map API.
+// ---
+
 #include "ui/events/keycodes/dom/dom_keyboard_layout.h"
 
 #include <array>

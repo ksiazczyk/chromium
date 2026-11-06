@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manual device manager implementation
+// summary: Implements DeviceManagerManual, which scans /dev/input for event devices on a blocking task runner and watches the directory to notify observers of added or removed devices.
+// ---
+
 #include "ui/events/ozone/device/device_manager_manual.h"
 
 #include "base/files/file_enumerator.h"
