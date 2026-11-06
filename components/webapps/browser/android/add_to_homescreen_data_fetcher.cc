@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Add to homescreen data fetcher implementation
+// summary: Fetches manifest, icon, and installability data needed to create Android home screen shortcuts and records related metrics.
+// ---
+
 #include "components/webapps/browser/android/add_to_homescreen_data_fetcher.h"
 
 #include <algorithm>

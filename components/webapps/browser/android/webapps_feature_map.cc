@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JNI feature map exposing webapps features to Java
+// summary: Registers webapps browser features such as the install disambiguation dialog so they can be queried from Java through a base::android::FeatureMap.
+// ---
+
 #include "base/android/feature_map.h"
 #include "base/no_destructor.h"
 #include "components/webapps/browser/features.h"

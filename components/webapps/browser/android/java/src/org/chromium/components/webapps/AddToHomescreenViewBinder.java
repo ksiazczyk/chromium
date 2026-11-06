@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Binder between the add-to-homescreen model and view
+// summary: Binds add-to-homescreen PropertyModel changes to the corresponding setters on AddToHomescreenDialogView.
+// ---
+
 package org.chromium.components.webapps;
 
 import android.graphics.Bitmap;

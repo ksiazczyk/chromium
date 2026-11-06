@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PWA install bottom sheet view
+// summary: View for the PWA install bottom sheet that renders the app title, URL, description, icon, and screenshot list, and reports scroll state.
+// ---
+
 package org.chromium.components.webapps.bottomsheet;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

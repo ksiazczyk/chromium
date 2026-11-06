@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebApkSingleIconHasher implementation
+// summary: Downloads a single WebAPK icon or parses data URLs and computes its Murmur2 hash, with a timeout for slow downloads.
+// ---
+
 #include "components/webapps/browser/android/webapk/webapk_single_icon_hasher.h"
 
 #include <limits>

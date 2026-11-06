@@ -1,0 +1,4 @@
+# Docerion header of android_webapps_strings_iw.xtb.
+type: data
+title: Hebrew Android web apps strings translation bundle
+summary: XML translation bundle with Hebrew translations of Android web app install, shortcut, and screenshot UI strings for the webapps component.

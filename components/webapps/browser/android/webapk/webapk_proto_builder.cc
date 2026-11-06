@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAPK proto builder implementation
+// summary: Builds the webapk::WebApk protobuf from shortcut info, icons, update reasons, and device details for WebAPK install and update requests.
+// ---
+
 #include "components/webapps/browser/android/webapk/webapk_proto_builder.h"
 
 #include <string>

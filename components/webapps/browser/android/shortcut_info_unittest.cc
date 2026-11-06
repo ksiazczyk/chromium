@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ShortcutInfo unit tests
+// summary: Unit tests covering ShortcutInfo construction, creation from manifest and metadata, attribute updates, and icon selection behavior.
+// ---
+
 #include "components/webapps/browser/android/shortcut_info.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebappsIconUtilsTest
+// summary: Robolectric tests verifying that WebappsIconUtils generates fallback home screen icons for empty and valid URLs.
+// ---
+
 package org.chromium.components.webapps;
 
 import static org.junit.Assert.assertNotNull;

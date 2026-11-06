@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebApkSingleIconHasher unit tests
+// summary: Unit tests verifying single icon download and Murmur2 hashing, including data URL handling and download timeout behavior.
+// ---
+
 #include "components/webapps/browser/android/webapk/webapk_single_icon_hasher.h"
 
 #include <string>

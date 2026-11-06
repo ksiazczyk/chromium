@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PWA install path tracker implementation
+// summary: Implements PwaInstallPathTracker, recording the WebApk.Install.PathToInstall histogram for the install path used to install a PWA.
+// ---
+
 #include "components/webapps/browser/pwa_install_path_tracker.h"
 
 #include <string>

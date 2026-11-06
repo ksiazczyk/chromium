@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InstallPromptPrefs implementation
+// summary: Implements profile preference tracking of install prompt dismissals and ignores, suppressing prompts after repeated consecutive dismissals or ignores within time windows.
+// ---
+
 #include "components/webapps/browser/android/install_prompt_prefs.h"
 
 #include "base/time/time.h"

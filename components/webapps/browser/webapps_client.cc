@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Webapps client singleton implementation
+// summary: Implements the WebappsClient singleton accessor and a scoped testing override for the segmentation platform service used by webapps code.
+// ---
+
 #include "components/webapps/browser/webapps_client.h"
 
 #include <algorithm>

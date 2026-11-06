@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mediator of the add-to-homescreen MVC component
+// summary: Mediator in the add-to-homescreen MVC architecture, updating the property model as app information arrives from the C++ side.
+// ---
+
 package org.chromium.components.webapps;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

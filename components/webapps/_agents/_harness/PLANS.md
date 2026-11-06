@@ -1,3 +1,13 @@
+---
+type: guide
+title: Execution Plan Authoring Guide
+summary: Specifies requirements and structure for execution plans that track multi-CL Chromium implementation work in milestones with build and test verification.
+relations:
+  - references /components/webapps/_agents/_harness/DESIGNS.md
+  - references /docs/cl_tips.md
+  - references /tools/autotest.py
+---
+
 # Execution Plans (ExecPlans)
 
 <!--

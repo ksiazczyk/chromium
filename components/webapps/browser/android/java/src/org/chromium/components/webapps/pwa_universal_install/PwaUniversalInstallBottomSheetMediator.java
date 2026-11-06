@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PWA Universal Install Bottom Sheet Mediator
+// summary: Mediator that builds the bottom sheet's property model and sets its initial title and view state based on whether the web app is already installed.
+// ---
+
 package org.chromium.components.webapps.pwa_universal_install;
 
 import android.app.Activity;

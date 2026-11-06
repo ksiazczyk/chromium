@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Add to homescreen installer implementation
+// summary: Dispatches installs by app type, handling native apps, WebAPKs, and shortcuts via JNI and WebappsClient.
+// ---
+
 #include "components/webapps/browser/android/add_to_homescreen_installer.h"
 
 #include <utility>

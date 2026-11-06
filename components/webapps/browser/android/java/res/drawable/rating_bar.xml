@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Rating bar drawable
+summary: Android layer-list drawable for a rating bar that layers gray star drawables for the background and partial progress with a green star drawable for the filled progress.
+-->
+
 <layer-list xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:id="@android:id/background" android:drawable="@drawable/star_gray" />
     <item android:id="@android:id/secondaryProgress" android:drawable="@drawable/star_gray" />

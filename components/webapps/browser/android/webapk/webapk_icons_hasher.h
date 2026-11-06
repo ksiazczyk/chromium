@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebApkIconsHasher class declaration
+// summary: Declares the class that downloads WebAPK icons and computes Murmur2 hashes over the raw image bytes, invoking a callback when all are done.
+// ---
+
 #ifndef COMPONENTS_WEBAPPS_BROWSER_ANDROID_WEBAPK_WEBAPK_ICONS_HASHER_H_
 #define COMPONENTS_WEBAPPS_BROWSER_ANDROID_WEBAPK_WEBAPK_ICONS_HASHER_H_
 

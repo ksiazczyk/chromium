@@ -1,0 +1,4 @@
+# Docerion header of skills.json.
+type: config
+title: WebApps skills configuration
+summary: JSON configuration that inherits harness and internal webapps skills and lists skill entries such as webapps-dev and web-applications test-writing skills.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AddToHomescreenMediator class header
+// summary: Declares AddToHomescreenMediator, the C++ counterpart of the Java add-to-homescreen UI that forwards user actions to the installer.
+// ---
+
 #ifndef COMPONENTS_WEBAPPS_BROWSER_ANDROID_ADD_TO_HOMESCREEN_MEDIATOR_H_
 #define COMPONENTS_WEBAPPS_BROWSER_ANDROID_ADD_TO_HOMESCREEN_MEDIATOR_H_
 

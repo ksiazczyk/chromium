@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Webapps browser feature flag declarations
+// summary: Declares the webapps feature flags, their parameters, and constants like guardrail storage duration and minimum favicon size.
+// ---
+
 #ifndef COMPONENTS_WEBAPPS_BROWSER_FEATURES_H_
 #define COMPONENTS_WEBAPPS_BROWSER_FEATURES_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AddToHomescreenInstaller class header
+// summary: Declares the AddToHomescreenInstaller helper that installs a web app or Android native app and reports install progress events for UMA.
+// ---
+
 #ifndef COMPONENTS_WEBAPPS_BROWSER_ANDROID_ADD_TO_HOMESCREEN_INSTALLER_H_
 #define COMPONENTS_WEBAPPS_BROWSER_ANDROID_ADD_TO_HOMESCREEN_INSTALLER_H_
 

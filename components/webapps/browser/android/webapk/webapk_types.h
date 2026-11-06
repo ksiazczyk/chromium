@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAPK enums for update reasons, distributors, and install results
+// summary: Header defining enums that describe why a WebAPK update is requested, its distributor, the install result, and details shown on the default offline page.
+// ---
+
 #ifndef COMPONENTS_WEBAPPS_BROWSER_ANDROID_WEBAPK_WEBAPK_TYPES_H_
 #define COMPONENTS_WEBAPPS_BROWSER_ANDROID_WEBAPK_WEBAPK_TYPES_H_
 

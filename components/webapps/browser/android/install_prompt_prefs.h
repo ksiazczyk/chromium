@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InstallPromptPrefs class header
+// summary: Declares the static InstallPromptPrefs API for registering preferences and recording or querying install prompt dismiss, ignore, and click events.
+// ---
+
 #ifndef COMPONENTS_WEBAPPS_BROWSER_ANDROID_INSTALL_PROMPT_PREFS_H_
 #define COMPONENTS_WEBAPPS_BROWSER_ANDROID_INSTALL_PROMPT_PREFS_H_
 

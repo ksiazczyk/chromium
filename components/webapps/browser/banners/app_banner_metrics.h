@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App banner metrics declarations
+// summary: Declares append-only enums and tracking functions for app banner UMA metrics covering display, install, dismiss, user response, and before-install events.
+// ---
+
 #ifndef COMPONENTS_WEBAPPS_BROWSER_BANNERS_APP_BANNER_METRICS_H_
 #define COMPONENTS_WEBAPPS_BROWSER_BANNERS_APP_BANNER_METRICS_H_
 

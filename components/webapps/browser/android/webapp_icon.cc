@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebappIcon implementation
+// summary: Implements the WebappIcon class that tracks an icon URL, maskable purpose, and usages, computes the ideal pixel size, and stores raw icon data.
+// ---
+
 #include "components/webapps/browser/android/webapp_icon.h"
 
 #include "components/webapps/browser/android/webapps_icon_utils.h"

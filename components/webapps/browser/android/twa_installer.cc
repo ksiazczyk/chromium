@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TwaInstaller implementation
+// summary: Native side of the TwaInstaller JNI bridge that starts installing a web app as an auto-minted TWA through the Android WebApp service and forwards install events.
+// ---
+
 #include "components/webapps/browser/android/twa_installer.h"
 
 #include <utility>

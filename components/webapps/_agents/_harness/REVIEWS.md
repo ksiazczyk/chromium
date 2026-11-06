@@ -1,3 +1,12 @@
+---
+type: reference
+title: Adversarial Review Standards for Designs and Plans
+summary: Defines the skeptical design reviewer persona, six critique dimensions, and the structured report schema used to review designs and plans.
+relations:
+  - references /components/webapps/_agents/_harness/DESIGNS.md
+  - references /components/webapps/_agents/_harness/PLANS.md
+---
+
 # Adversarial Review Standards for Designs and Plans
 
 This document defines the evaluation criteria and critique schema used by the

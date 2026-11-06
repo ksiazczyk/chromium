@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Add to Homescreen dialog view
+// summary: Displays the Add to Homescreen dialog with an editable title, icon, and optional origin, showing a spinner until all data is available.
+// ---
+
 package org.chromium.components.webapps;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

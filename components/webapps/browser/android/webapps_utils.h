@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebappsUtils interface for WebAPK helpers
+// summary: Declares WebappsUtils static helpers for checking installed WebAPKs, manifest URL compatibility, install result toasts and pruning navigation history outside an app scope.
+// ---
+
 #ifndef COMPONENTS_WEBAPPS_BROWSER_ANDROID_WEBAPPS_UTILS_H_
 #define COMPONENTS_WEBAPPS_BROWSER_ANDROID_WEBAPPS_UTILS_H_
 

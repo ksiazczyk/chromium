@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AddToHomescreenParams struct header
+// summary: Defines the AddToHomescreenParams struct and AppType enum carrying app type, icon, shortcut info, install source, and status for install flows.
+// ---
+
 #ifndef COMPONENTS_WEBAPPS_BROWSER_ANDROID_ADD_TO_HOMESCREEN_PARAMS_H_
 #define COMPONENTS_WEBAPPS_BROWSER_ANDROID_ADD_TO_HOMESCREEN_PARAMS_H_
 

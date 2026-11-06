@@ -1,0 +1,4 @@
+# Docerion header of android_webapps_strings_ru.xtb.
+type: data
+title: Russian Android web apps translation bundle
+summary: XML translation bundle with Russian strings for installing web apps, creating shortcuts, and screenshots in the Chromium Android webapps UI.

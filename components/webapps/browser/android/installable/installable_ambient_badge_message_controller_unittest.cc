@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Installable ambient badge message controller unit tests
+// summary: Unit tests for the installable ambient badge message controller, using a mocked message dispatcher bridge and client to verify enqueue, install, and dismissal behavior.
+// ---
+
 #include "components/webapps/browser/android/installable/installable_ambient_badge_message_controller.h"
 
 #include "base/android/jni_android.h"

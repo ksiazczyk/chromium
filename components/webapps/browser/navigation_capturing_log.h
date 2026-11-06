@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NavigationCapturingLog class header
+// summary: Declares a class that stores a bounded list of debug log entries about navigation capturing, surfaced in the web app internals debug page and printed in failing tests.
+// ---
+
 #ifndef COMPONENTS_WEBAPPS_BROWSER_NAVIGATION_CAPTURING_LOG_H_
 #define COMPONENTS_WEBAPPS_BROWSER_NAVIGATION_CAPTURING_LOG_H_
 

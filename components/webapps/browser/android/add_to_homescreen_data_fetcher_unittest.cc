@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the add to homescreen data fetcher
+// summary: Tests manifest, icon, and installability fetching behavior and histograms of AddToHomescreenDataFetcher.
+// ---
+
 #include "components/webapps/browser/android/add_to_homescreen_data_fetcher.h"
 
 #include <memory>

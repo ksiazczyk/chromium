@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AddToHomescreenParams implementation
+// summary: Implements AddToHomescreenParams constructors and helpers that classify install types such as WebAPK, shortcut, TWA, and native apps.
+// ---
+
 #include "components/webapps/browser/android/add_to_homescreen_params.h"
 
 #include "components/webapps/browser/android/shortcut_info.h"

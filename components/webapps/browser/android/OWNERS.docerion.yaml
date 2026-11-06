@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Directory owners file for webapps Android
+summary: Assigns per-file review ownership of TWA installer files to the TWA_INSTALLER_OWNERS list.

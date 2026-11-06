@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App banner manager implementation
+// summary: Implements AppBannerManager, coordinating the app banner pipeline from manifest fetching and installability checks to showing banner UI for web and native apps.
+// ---
+
 #include "components/webapps/browser/banners/app_banner_manager.h"
 
 #include <algorithm>

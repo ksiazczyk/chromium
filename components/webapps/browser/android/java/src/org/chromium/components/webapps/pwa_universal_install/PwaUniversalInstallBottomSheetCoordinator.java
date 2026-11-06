@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PWA Universal Install Bottom Sheet Coordinator
+// summary: Coordinates the PWA universal install bottom sheet experience, handling installability checks, dialog timing, histogram metrics, and native bridge callbacks.
+// ---
+
 package org.chromium.components.webapps.pwa_universal_install;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

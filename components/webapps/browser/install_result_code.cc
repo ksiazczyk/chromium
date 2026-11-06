@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Install result code helpers
+// summary: Implements IsSuccess and IsNewInstall classification plus stream output for the InstallResultCode enum values.
+// ---
+
 #include "components/webapps/browser/install_result_code.h"
 
 #include <ostream>

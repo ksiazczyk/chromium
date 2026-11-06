@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Image visual diff API
+// summary: Declares CheckImageDiffMoreThanTenPercent, which asynchronously compares two SkBitmaps and reports whether their difference exceeds ten percent.
+// ---
+
 #ifndef COMPONENTS_WEBAPPS_BROWSER_IMAGE_VISUAL_DIFF_H_
 #define COMPONENTS_WEBAPPS_BROWSER_IMAGE_VISUAL_DIFF_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app install result codes
+// summary: Defines the InstallResultCode enum covering success and failure outcomes of web app installation, uninstallation and update, persisted for metrics.
+// ---
+
 #ifndef COMPONENTS_WEBAPPS_BROWSER_INSTALL_RESULT_CODE_H_
 #define COMPONENTS_WEBAPPS_BROWSER_INSTALL_RESULT_CODE_H_
 

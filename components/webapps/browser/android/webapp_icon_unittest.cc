@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for WebappIcon ideal sizes
+// summary: Verifies that WebappIcon returns the ideal pixel sizes for homescreen, splash, shortcut and adaptive launcher icons, including icons with multiple usages.
+// ---
+
 #include "components/webapps/browser/android/webapp_icon.h"
 
 #include "components/webapps/browser/android/webapps_icon_utils.h"

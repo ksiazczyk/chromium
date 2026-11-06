@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PWA Universal Install Properties
+// summary: Defines the property keys and view states for the PWA universal install bottom sheet's PropertyModel, plus a factory for creating the model.
+// ---
+
 package org.chromium.components.webapps.pwa_universal_install;
 
 import android.view.View.OnClickListener;

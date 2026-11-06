@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Image zoom view for PWA install screenshots
+// summary: Fullscreen dialog that displays a zoomed screenshot bitmap in the PWA install bottom sheet UI and dismisses on tap.
+// ---
+
 package org.chromium.components.webapps.bottomsheet;
 
 import android.content.Context;

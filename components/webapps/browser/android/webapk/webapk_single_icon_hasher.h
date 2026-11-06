@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebApkSingleIconHasher class declaration
+// summary: Declares the class that downloads one icon, computes its Murmur2 hash, handles timeouts, and sets icon data from an SkBitmap.
+// ---
+
 #ifndef COMPONENTS_WEBAPPS_BROWSER_ANDROID_WEBAPK_WEBAPK_SINGLE_ICON_HASHER_H_
 #define COMPONENTS_WEBAPPS_BROWSER_ANDROID_WEBAPK_WEBAPK_SINGLE_ICON_HASHER_H_
 

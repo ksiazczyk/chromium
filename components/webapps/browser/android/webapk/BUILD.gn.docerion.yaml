@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for webapk
+summary: Defines the build targets for the webapk component, including a java_cpp_enum srcjar generated from webapk_types.h.

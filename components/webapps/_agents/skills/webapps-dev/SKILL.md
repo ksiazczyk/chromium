@@ -4,6 +4,13 @@ description: >-
   How to develop, build, and test WebApps / PWA features across Desktop and
   Android. This includes installation & related features, TWAs, WebAPKs,
   etc.
+type: guide
+title: WebApps Development Skill
+summary: Agent skill guide for developing, building, and testing WebApps/PWA features on Desktop and Android, covering development and testing gotchas plus design and review workflows.
+relations:
+  - references /components/webapps/AGENTS.md
+  - references /components/webapps/docs/android_testing_guide.md
+  - references /tools/autotest.py
 ---
 
 # WebApps Development

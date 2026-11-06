@@ -1,0 +1,4 @@
+# Docerion header of skills.json.
+type: config
+title: Harness Skills Manifest
+summary: Manifest registering the harness-doc-writer and harness-updater skills for the quarantined AI agent harness.

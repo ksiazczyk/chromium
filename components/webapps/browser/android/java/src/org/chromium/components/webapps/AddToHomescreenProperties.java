@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Property keys for the add-to-homescreen model
+// summary: Defines the writable property keys, such as title, URL, icon, and app type, available on the add-to-homescreen PropertyModel.
+// ---
+
 package org.chromium.components.webapps;
 
 import android.graphics.Bitmap;

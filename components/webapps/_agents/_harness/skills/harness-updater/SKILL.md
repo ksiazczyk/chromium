@@ -4,6 +4,11 @@ description: >-
   Maintains an AI Agent Harness (`_agents/` directory and `AGENTS.md` files):
   repairs links and manifests, and routes new rules or procedures to the
   correct file. Guides where to put requested additions in the harness.
+type: guide
+title: Harness Updater
+summary: Skill instructions for maintaining an AI agent harness, covering automatic link and manifest repairs, routing user-requested additions, and AGENTS.md size and style guidance.
+relations:
+  - references /components/webapps/_agents/_harness/README.md
 ---
 
 # Harness Updater

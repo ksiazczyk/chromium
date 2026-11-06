@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebappsUtils implementation for WebAPK helpers
+// summary: Implements WebappsUtils helpers that check WebAPK installation, validate manifest URLs for WebAPK compatibility, show install toasts and prune pre-scope navigation history.
+// ---
+
 #include "components/webapps/browser/android/webapps_utils.h"
 
 #include <string>

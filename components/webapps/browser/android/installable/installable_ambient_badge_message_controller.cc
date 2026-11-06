@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Installable ambient badge message controller implementation
+// summary: Implements the Android controller that enqueues and dismisses the installable ambient badge message and forwards install, dismiss, and ignore actions to the client.
+// ---
+
 #include "components/webapps/browser/android/installable/installable_ambient_badge_message_controller.h"
 
 #include "base/command_line.h"

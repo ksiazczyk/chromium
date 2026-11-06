@@ -4,6 +4,13 @@ description: >-
   Workflow for authoring Technical Design Documents and Execution Plans with
   automated adversarial review. Use when asked to "write a design", "author an
   execution plan", or create documentation in any component harness.
+type: guide
+title: Harness Document Writer Skill
+summary: Agent skill workflow for authoring Technical Design Documents and Execution Plans, refining them through an adversarial critique loop and finalizing with human approval.
+relations:
+  - references /components/webapps/_agents/_harness/DESIGNS.md
+  - references /components/webapps/_agents/_harness/PLANS.md
+  - references /components/webapps/_agents/_harness/REVIEWS.md
 ---
 
 # Harness Document Writer

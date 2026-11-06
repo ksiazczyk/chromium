@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AddToHomescreenMediator implementation
+// summary: Implements the C++ side of the add-to-homescreen mediator, bridging the Java install UI to installer calls and passing app metadata, icons, and titles.
+// ---
+
 #include "components/webapps/browser/android/add_to_homescreen_mediator.h"
 
 #include <utility>

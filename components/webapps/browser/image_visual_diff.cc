@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Image visual diff comparison
+// summary: Implements a thread pool task that checks whether two bitmaps differ by more than ten percent across RGBA channels.
+// ---
+
 #include <cmath>
 
 #include "base/functional/callback.h"

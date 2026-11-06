@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Factory for PWA bottom sheet controllers
+// summary: Factory that creates PWA bottom sheet controllers and attaches or detaches them from a window.
+// ---
+
 package org.chromium.components.webapps.bottomsheet;
 
 import android.content.Context;

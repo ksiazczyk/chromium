@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppBannerManagerAndroid class header
+// summary: Declares AppBannerManagerAndroid, extending AppBannerManager to support native Play apps and own the Java-side banner manager.
+// ---
+
 #ifndef COMPONENTS_WEBAPPS_BROWSER_ANDROID_APP_BANNER_MANAGER_ANDROID_H_
 #define COMPONENTS_WEBAPPS_BROWSER_ANDROID_APP_BANNER_MANAGER_ANDROID_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebappsIconUtils interface for icon size queries
+// summary: Declares static utilities that query Java for web app and WebAPK icon sizes and generate launcher, splash and shortcut icons.
+// ---
+
 #ifndef COMPONENTS_WEBAPPS_BROWSER_ANDROID_WEBAPPS_ICON_UTILS_H_
 #define COMPONENTS_WEBAPPS_BROWSER_ANDROID_WEBAPPS_ICON_UTILS_H_
 

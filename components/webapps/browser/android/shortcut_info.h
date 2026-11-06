@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShortcutInfo struct header
+// summary: Declares the ShortcutInfo struct, share target structs, and the append-only shortcut source enum used to create home screen shortcuts and WebAPKs.
+// ---
+
 #ifndef COMPONENTS_WEBAPPS_BROWSER_ANDROID_SHORTCUT_INFO_H_
 #define COMPONENTS_WEBAPPS_BROWSER_ANDROID_SHORTCUT_INFO_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebappsUtilsTest
+// summary: Robolectric tests for WebappsUtils covering add-to-home intent support detection and homescreen shortcut behavior with ShortcutManager.
+// ---
+
 package org.chromium.components.webapps;
 
 import static org.junit.Assert.assertEquals;

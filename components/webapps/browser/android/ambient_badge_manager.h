@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AmbientBadgeManager class header
+// summary: Declares AmbientBadgeManager, which coordinates eligibility, display, and dismissal of the install ambient badge, including its UMA state enum.
+// ---
+
 #ifndef COMPONENTS_WEBAPPS_BROWSER_ANDROID_AMBIENT_BADGE_MANAGER_H_
 #define COMPONENTS_WEBAPPS_BROWSER_ANDROID_AMBIENT_BADGE_MANAGER_H_
 

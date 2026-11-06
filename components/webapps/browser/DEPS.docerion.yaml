@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Webapps browser include rules
+summary: Lists the include paths that code in the webapps browser directory is allowed to depend on.

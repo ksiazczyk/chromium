@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppDetailsDelegate
+// summary: Abstract delegate that asynchronously fetches details about an app package and notifies an observer when retrieval finishes.
+// ---
+
 package org.chromium.components.webapps;
 
 import org.chromium.build.annotations.NullMarked;
