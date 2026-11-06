@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test custom help bubble view implementation
+// summary: Implements a test bubble view with cancel, dismiss, action and snooze buttons that fulfills the CustomHelpBubbleUi interface for user education tests.
+// ---
+
 #include "components/user_education/test/test_custom_help_bubble_view.h"
 
 #include "ui/base/interaction/element_identifier.h"

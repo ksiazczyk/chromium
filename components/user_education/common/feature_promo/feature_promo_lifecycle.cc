@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feature promo lifecycle implementation
+// summary: Implements promo lifecycle business logic including show eligibility, reshow policies, rotating promo indexes, and promo data persistence via the storage service.
+// ---
+
 #include "components/user_education/common/feature_promo/feature_promo_lifecycle.h"
 
 #include <optional>

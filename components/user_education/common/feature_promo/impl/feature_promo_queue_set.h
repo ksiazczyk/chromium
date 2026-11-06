@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feature promo queue set class declaration
+// summary: Declares FeaturePromoQueueSet, a collection of promo queues sorted by priority, with APIs to queue, cancel, and pop eligible promos.
+// ---
+
 #ifndef COMPONENTS_USER_EDUCATION_COMMON_FEATURE_PROMO_IMPL_FEATURE_PROMO_QUEUE_SET_H_
 #define COMPONENTS_USER_EDUCATION_COMMON_FEATURE_PROMO_IMPL_FEATURE_PROMO_QUEUE_SET_H_
 

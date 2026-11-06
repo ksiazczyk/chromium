@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IncludeExcludeAccountIdFilter unit tests
+// summary: Unit tests verifying that the account ID filter includes, excludes and defaults accounts according to its include list, exclude list and included-by-default flag.
+// ---
+
 #include "components/user_manager/include_exclude_account_id_filter.h"
 
 #include <string>

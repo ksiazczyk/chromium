@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PreconditionListProvider interface
+// summary: Declares the PreconditionListProvider interface plus callback and composing providers that supply preconditions for queuing or showing promos.
+// ---
+
 #ifndef COMPONENTS_USER_EDUCATION_COMMON_FEATURE_PROMO_IMPL_PRECONDITION_LIST_PROVIDER_H_
 #define COMPONENTS_USER_EDUCATION_COMMON_FEATURE_PROMO_IMPL_PRECONDITION_LIST_PROVIDER_H_
 

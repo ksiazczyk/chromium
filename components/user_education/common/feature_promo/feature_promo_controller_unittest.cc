@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Feature promo controller unit tests
+// summary: Unit tests verifying IsPromoActive behavior across promo statuses such as not running, queued, bubble showing, and continued, using a mock controller.
+// ---
+
 #include "components/user_education/common/feature_promo/feature_promo_controller.h"
 
 #include "base/feature_list.h"

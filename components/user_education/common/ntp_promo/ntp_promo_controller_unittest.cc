@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NTP promo controller unit tests
+// summary: Unit tests covering promo selection, rotation terms, eligibility and metric logging for the New Tab Page promo controller.
+// ---
+
 #include "components/user_education/common/ntp_promo/ntp_promo_controller.h"
 
 #include "base/functional/callback_helpers.h"

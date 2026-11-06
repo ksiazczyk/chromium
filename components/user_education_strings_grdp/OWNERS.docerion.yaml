@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for user_education_strings_grdp
+summary: Delegates ownership of this directory to the OWNERS file in components/user_education via a file reference.

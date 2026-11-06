@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feature promo queue set implementation
+// summary: Implements FeaturePromoQueueSet, managing multiple priority-sorted promo queues for queueing, canceling, and identifying the next eligible promo.
+// ---
+
 #include "components/user_education/common/feature_promo/impl/feature_promo_queue_set.h"
 
 #include "base/containers/map_util.h"

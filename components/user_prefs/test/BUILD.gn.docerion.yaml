@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for user_prefs test support
+summary: Defines a testonly source_set named test_support that builds the test browser context with prefs and depends on keyed service, prefs, user_prefs, and content test support.

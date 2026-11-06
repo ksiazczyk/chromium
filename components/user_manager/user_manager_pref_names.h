@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User manager preference name constants
+// summary: Defines constant names for user_manager preferences stored in local state and profile preferences, covering multi-profile behavior, device-local accounts, owner account, and per-user metadata.
+// ---
+
 #ifndef COMPONENTS_USER_MANAGER_USER_MANAGER_PREF_NAMES_H_
 #define COMPONENTS_USER_MANAGER_USER_MANAGER_PREF_NAMES_H_
 

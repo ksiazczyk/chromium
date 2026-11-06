@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User education session manager implementation
+// summary: Implements UserEducationSessionManager, coordinating idle observation, session state updates, active and idle period metrics, and new-session notifications.
+// ---
+
 #include "components/user_education/common/session/user_education_session_manager.h"
 
 #include <utility>

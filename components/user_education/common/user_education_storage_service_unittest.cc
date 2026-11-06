@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User education storage service unit tests
+// summary: Unit tests verifying snooze count and keyed promo data behavior of the user education storage service.
+// ---
+
 #include "components/user_education/common/user_education_storage_service.h"
 
 #include <memory>

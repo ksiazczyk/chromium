@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TutorialDescription implementation
+// summary: Implements TutorialDescription step helpers, ScopedTutorialState, default next buttons, wait-for-any-of subsequences, and conditional callbacks such as AlwaysRun and RunIfPresent.
+// ---
+
 #include "components/user_education/common/tutorial/tutorial_description.h"
 
 #include <string_view>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feature promo registry implementation
+// summary: Implements registries that map base::Feature entries to feature promo and new badge specifications for in-product help.
+// ---
+
 #include "components/user_education/common/feature_promo/feature_promo_registry.h"
 
 #include "base/containers/map_util.h"

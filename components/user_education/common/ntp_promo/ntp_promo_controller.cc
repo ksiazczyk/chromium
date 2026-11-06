@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTP promo controller implementation
+// summary: Implements rotation and selection of New Tab Page promos, recording shown, clicked, completed and dismissed events in storage and metrics histograms.
+// ---
+
 #include "components/user_education/common/ntp_promo/ntp_promo_controller.h"
 
 #include <algorithm>

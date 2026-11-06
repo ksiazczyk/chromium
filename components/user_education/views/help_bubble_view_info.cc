@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HelpBubbleViewInfo struct implementation
+// summary: Implements constructors, move operations, and the destructor for HelpBubbleViewInfo, which pairs a bubble widget with its bubble view.
+// ---
+
 #include "components/user_education/views/help_bubble_view_info.h"
 
 namespace user_education {

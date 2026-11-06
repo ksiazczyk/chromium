@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for HelpBubbleView
+// summary: Unit tests for HelpBubbleView covering creation, buttons, accessibility, and anchoring, with timeout behavior tested in a separate browser test.
+// ---
+
 #include "components/user_education/views/help_bubble_view.h"
 
 #include <memory>

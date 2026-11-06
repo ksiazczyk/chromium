@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeDeviceOwnershipWaiter class declaration
+// summary: Declares a DeviceOwnershipWaiter fake for tests that executes the callback immediately without waiting for the device owner.
+// ---
+
 #ifndef COMPONENTS_USER_MANAGER_FAKE_DEVICE_OWNERSHIP_WAITER_H_
 #define COMPONENTS_USER_MANAGER_FAKE_DEVICE_OWNERSHIP_WAITER_H_
 

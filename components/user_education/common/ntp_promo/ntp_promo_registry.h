@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTP promo registry class declaration
+// summary: Declares a registry that maps promo identifiers to promo specifications and reports registered promos in insertion order.
+// ---
+
 #ifndef COMPONENTS_USER_EDUCATION_COMMON_NTP_PROMO_NTP_PROMO_REGISTRY_H_
 #define COMPONENTS_USER_EDUCATION_COMMON_NTP_PROMO_NTP_PROMO_REGISTRY_H_
 

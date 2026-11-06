@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feature promo controller class declaration
+// summary: Declares FeaturePromoControllerImpl, the class managing in-product help promo display in Top Chrome, including promo status, dismissal, queueing, and initialization APIs.
+// ---
+
 #ifndef COMPONENTS_USER_EDUCATION_COMMON_FEATURE_PROMO_IMPL_FEATURE_PROMO_CONTROLLER_IMPL_H_
 #define COMPONENTS_USER_EDUCATION_COMMON_FEATURE_PROMO_IMPL_FEATURE_PROMO_CONTROLLER_IMPL_H_
 

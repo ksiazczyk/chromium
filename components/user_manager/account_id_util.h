@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccountId dictionary serialization declarations
+// summary: Declares dictionary keys and functions for serializing, deserializing, and matching AccountId values.
+// ---
+
 #ifndef COMPONENTS_USER_MANAGER_ACCOUNT_ID_UTIL_H_
 #define COMPONENTS_USER_MANAGER_ACCOUNT_ID_UTIL_H_
 

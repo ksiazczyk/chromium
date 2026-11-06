@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Help bubble WebUI wrapper and factory declarations
+// summary: Declares HelpBubbleWebUI, a HelpBubble wrapper around the WebUI help bubble handler, and the factory that creates such bubbles for WebUI pages.
+// ---
+
 #ifndef COMPONENTS_USER_EDUCATION_WEBUI_HELP_BUBBLE_WEBUI_H_
 #define COMPONENTS_USER_EDUCATION_WEBUI_HELP_BUBBLE_WEBUI_H_
 

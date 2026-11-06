@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for user education WebUI
+summary: Defines the allowed include paths for code in the user education WebUI directory, covering content, Mojo bindings, views, and WebUI resources.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserType to string conversion
+// summary: Implements UserTypeToString, mapping each UserType enum value to a string literal used for logging and crash keys in the user manager.
+// ---
+
 #include "components/user_manager/user_type.h"
 
 namespace user_manager {

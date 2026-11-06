@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Highlighting menu button helper class declaration
+// summary: Declares HighlightingMenuButtonHelper, a helper for buttons whose in-product help promo should end and possibly highlight a menu item when the button opens a menu.
+// ---
+
 #ifndef COMPONENTS_USER_EDUCATION_COMMON_MENU_HIGHLIGHTING_MENU_BUTTON_HELPER_H_
 #define COMPONENTS_USER_EDUCATION_COMMON_MENU_HIGHLIGHTING_MENU_BUTTON_HELPER_H_
 

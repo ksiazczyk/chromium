@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestBrowserContextWithPrefs class declaration
+// summary: Declares a content::TestBrowserContext subclass that exposes a TestingPrefServiceSimple and its registry for use in user_prefs tests.
+// ---
+
 #ifndef COMPONENTS_USER_PREFS_TEST_TEST_BROWSER_CONTEXT_WITH_PREFS_H_
 #define COMPONENTS_USER_PREFS_TEST_TEST_BROWSER_CONTEXT_WITH_PREFS_H_
 

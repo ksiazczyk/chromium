@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserPrefs class implementation
+// summary: Implements UserPrefs static helpers that check initialization, report whether prefs are loaded, and get or set the PrefService attached to a SupportsUserData context.
+// ---
+
 #include "components/user_prefs/user_prefs.h"
 
 #include "base/check.h"

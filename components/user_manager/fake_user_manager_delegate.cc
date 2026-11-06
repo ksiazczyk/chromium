@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeUserManagerDelegate implementation
+// summary: Implements no-op delegate methods for the fake user manager, returning a fixed en-US locale and doing nothing for profile and cryptohome operations.
+// ---
+
 #include "components/user_manager/fake_user_manager_delegate.h"
 
 #include <string>

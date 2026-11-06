@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedUserManager implementation
+// summary: Implements the scoped replacement of the global UserManager singleton, shutting down and restoring the previous instance, mainly for testing.
+// ---
+
 #include "components/user_manager/scoped_user_manager.h"
 
 #include <utility>

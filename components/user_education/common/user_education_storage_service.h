@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User education storage service interface
+// summary: Declares the abstract service that stores and retrieves IPH promo, session, policy, new badge, product messaging, and NTP promo data.
+// ---
+
 #ifndef COMPONENTS_USER_EDUCATION_COMMON_USER_EDUCATION_STORAGE_SERVICE_H_
 #define COMPONENTS_USER_EDUCATION_COMMON_USER_EDUCATION_STORAGE_SERVICE_H_
 

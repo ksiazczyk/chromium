@@ -1,3 +1,13 @@
+---
+type: guide
+title: User Education Tutorials
+summary: Step-by-step guide for creating in-product tutorials, covering tutorial identifiers and metrics, registering descriptions and steps, using conditionals, adding entry points, and testing.
+relations:
+  - references /chrome/browser/ui/views/user_education/browser_user_education_service.cc
+  - references /chrome/browser/user_education/tutorial_identifiers.h
+  - references /components/user_education/help-bubbles.md
+---
+
 # User Education Tutorials
 
 Once you have the PRD spec for your tutorial, here are the steps you will follow

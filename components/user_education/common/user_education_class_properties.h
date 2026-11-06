@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User education class property declaration
+// summary: Declares the kHasInProductHelpPromoKey class property that help bubble factories set so elements can respond with highlights or color changes.
+// ---
+
 #ifndef COMPONENTS_USER_EDUCATION_COMMON_USER_EDUCATION_CLASS_PROPERTIES_H_
 #define COMPONENTS_USER_EDUCATION_COMMON_USER_EDUCATION_CLASS_PROPERTIES_H_
 

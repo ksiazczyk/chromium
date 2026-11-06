@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: New badge label implementation
+// summary: Implements NewBadgeLabel, managing badge padding, placement, sizing, painting, and accessible names when the New badge is shown.
+// ---
+
 #include "components/user_education/views/new_badge_label.h"
 
 #include <string_view>

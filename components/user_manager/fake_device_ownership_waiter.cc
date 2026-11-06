@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeDeviceOwnershipWaiter implementation
+// summary: Implements the test fake that posts the ownership callback without waiting for the actual device owner, handling guest and demo mode sessions.
+// ---
+
 #include "components/user_manager/fake_device_ownership_waiter.h"
 
 #include <utility>

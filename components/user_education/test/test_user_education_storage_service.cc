@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test user education storage service implementation
+// summary: Implements an in-memory storage service that reads, saves and resets promo, session, policy, new badge, product messaging and NTP promo data for tests.
+// ---
+
 #include "components/user_education/test/test_user_education_storage_service.h"
 
 #include "components/user_education/common/ntp_promo/ntp_promo_specification.h"

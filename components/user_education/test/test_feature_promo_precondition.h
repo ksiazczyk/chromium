@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test and mock feature promo precondition providers
+// summary: Declares TestPreconditionListProvider with per-feature precondition results and MockPreconditionListProvider, a gmock of PreconditionListProvider.
+// ---
+
 #ifndef COMPONENTS_USER_EDUCATION_TEST_TEST_FEATURE_PROMO_PRECONDITION_H_
 #define COMPONENTS_USER_EDUCATION_TEST_TEST_FEATURE_PROMO_PRECONDITION_H_
 

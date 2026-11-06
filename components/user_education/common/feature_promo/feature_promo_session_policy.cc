@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feature promo session policy implementation
+// summary: Implements promo priority and weight assignment plus session policy rules such as cooldowns that govern when promos may show.
+// ---
+
 #include "components/user_education/common/feature_promo/feature_promo_session_policy.h"
 
 #include "base/metrics/field_trial_params.h"

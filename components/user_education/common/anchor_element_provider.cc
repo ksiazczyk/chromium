@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the common anchor element provider
+// summary: Implements AnchorElementProviderCommon, which locates tracked UI elements by identifier, context and optional filter to serve as promo anchors.
+// ---
+
 #include "components/user_education/common/anchor_element_provider.h"
 
 #include <utility>

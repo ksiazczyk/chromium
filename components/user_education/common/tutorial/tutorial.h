@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tutorial class and builder interface
+// summary: Declares the Tutorial class and its Builder, which run multi-step user-education interactions built from a TutorialDescription using the InteractionSequence framework.
+// ---
+
 #ifndef COMPONENTS_USER_EDUCATION_COMMON_TUTORIAL_TUTORIAL_H_
 #define COMPONENTS_USER_EDUCATION_COMMON_TUTORIAL_TUTORIAL_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for user education views
+summary: Grants this directory include access to UI strings, the Views UI toolkit, and the variations component.

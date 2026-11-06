@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTP promo registry implementation
+// summary: Implements registration, lookup and clearing of New Tab Page promo specifications while preserving registration order.
+// ---
+
 #include "components/user_education/common/ntp_promo/ntp_promo_registry.h"
 
 #include <algorithm>

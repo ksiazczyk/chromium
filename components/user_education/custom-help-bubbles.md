@@ -1,3 +1,13 @@
+---
+type: guide
+title: Custom Help Bubbles
+summary: Explains how to create and register custom help bubble UI for feature promos using Views or WebUI bubble dialogs.
+relations:
+  - references /components/user_education/feature-promos.md
+  - references /components/user_education/test/test_custom_help_bubble_view.h
+  - references /components/user_education/views/help_bubble_view.h
+---
+
 # Custom Help Bubbles
 
 A custom help bubble is a UI used specifically for

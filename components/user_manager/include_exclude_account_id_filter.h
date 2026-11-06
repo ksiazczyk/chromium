@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IncludeExcludeAccountIdFilter header
+// summary: Declares a filter that decides whether an account ID belongs to a set using include and exclude lists plus a default inclusion flag, for example for ephemeral accounts.
+// ---
+
 #ifndef COMPONENTS_USER_MANAGER_INCLUDE_EXCLUDE_ACCOUNT_ID_FILTER_H_
 #define COMPONENTS_USER_MANAGER_INCLUDE_EXCLUDE_ACCOUNT_ID_FILTER_H_
 

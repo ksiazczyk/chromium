@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User affiliation unit tests
+// summary: Unit tests verifying that kiosk and public account users created for device-local accounts report affiliation.
+// ---
+
 #include "components/user_manager/user.h"
 
 #include "base/memory/raw_ptr.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TutorialRegistry class declaration
+// summary: Declares a registry mapping TutorialIdentifier to TutorialDescription, with subclasses overriding RegisterTutorials to add tutorials.
+// ---
+
 #ifndef COMPONENTS_USER_EDUCATION_COMMON_TUTORIAL_TUTORIAL_REGISTRY_H_
 #define COMPONENTS_USER_EDUCATION_COMMON_TUTORIAL_TUTORIAL_REGISTRY_H_
 

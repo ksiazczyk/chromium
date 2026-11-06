@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserType enum definition
+// summary: Defines the UserType enum for Chrome OS user types such as regular, child, guest, public account, and several kiosk variants, with string conversion and logging helpers.
+// ---
+
 #ifndef COMPONENTS_USER_MANAGER_USER_TYPE_H_
 #define COMPONENTS_USER_MANAGER_USER_TYPE_H_
 

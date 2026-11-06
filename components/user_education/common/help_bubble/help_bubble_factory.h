@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Help bubble factory interface
+// summary: Declares the HelpBubbleFactory interface that framework implementations use to decide whether they can show a bubble and to create it for a tracked element.
+// ---
+
 #ifndef COMPONENTS_USER_EDUCATION_COMMON_HELP_BUBBLE_HELP_BUBBLE_FACTORY_H_
 #define COMPONENTS_USER_EDUCATION_COMMON_HELP_BUBBLE_HELP_BUBBLE_FACTORY_H_
 

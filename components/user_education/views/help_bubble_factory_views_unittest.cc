@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Views help bubble factory
+// summary: Unit tests for HelpBubbleFactoryViews covering bubble creation, anchoring, and views that resize themselves when a help bubble appears.
+// ---
+
 #include "components/user_education/views/help_bubble_factory_views.h"
 
 #include <memory>

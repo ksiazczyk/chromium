@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Help bubble parameters
+// summary: Declares HelpBubbleParams and button parameters describing bubble content, arrow, buttons, progress, timeout, and platform-specific extended properties.
+// ---
+
 #ifndef COMPONENTS_USER_EDUCATION_COMMON_HELP_BUBBLE_HELP_BUBBLE_PARAMS_H_
 #define COMPONENTS_USER_EDUCATION_COMMON_HELP_BUBBLE_HELP_BUBBLE_PARAMS_H_
 

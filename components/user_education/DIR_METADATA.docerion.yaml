@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: User Education directory metadata
+summary: Applies the common metadata mixins to the user_education directory.

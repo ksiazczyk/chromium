@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceOwnershipWaiterImpl implementation
+// summary: Implements WaitForOwnershipFetched, running the callback immediately for guest or demo mode sessions and otherwise waiting for UserManager to fetch the device owner account.
+// ---
+
 #include "components/user_manager/device_ownership_waiter_impl.h"
 
 #include <utility>

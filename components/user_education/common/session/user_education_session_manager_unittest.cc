@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User education session manager unit tests
+// summary: Unit tests for UserEducationSessionManager covering session creation, idle policy defaults, and session state updates using a test clock, mocks, and storage service.
+// ---
+
 #include "components/user_education/common/session/user_education_session_manager.h"
 
 #include <memory>

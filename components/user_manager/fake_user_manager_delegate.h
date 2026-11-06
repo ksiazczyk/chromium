@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeUserManagerDelegate class declaration
+// summary: Declares a fake implementation of UserManagerImpl::Delegate for tests, with stubbed locale, profile, and cryptohome methods.
+// ---
+
 #ifndef COMPONENTS_USER_MANAGER_FAKE_USER_MANAGER_DELEGATE_H_
 #define COMPONENTS_USER_MANAGER_FAKE_USER_MANAGER_DELEGATE_H_
 

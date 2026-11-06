@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the product messaging controller
+// summary: Verifies queueing, priority, blocking, and superseding behavior of the controller using test session and storage doubles.
+// ---
+
 #include "components/user_education/product_messaging/product_messaging_controller.h"
 
 #include <concepts>

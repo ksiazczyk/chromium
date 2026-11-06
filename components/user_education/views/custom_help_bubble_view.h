@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Custom help bubble view factory helpers
+// summary: Provides template helpers that wrap custom dialog-based bubble views into feature promo help bubbles, handling accept, cancel, and close actions.
+// ---
+
 #ifndef COMPONENTS_USER_EDUCATION_VIEWS_CUSTOM_HELP_BUBBLE_VIEW_H_
 #define COMPONENTS_USER_EDUCATION_VIEWS_CUSTOM_HELP_BUBBLE_VIEW_H_
 

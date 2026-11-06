@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mocks for user education session components
+// summary: Declares test doubles such as TestIdleObserver, MockIdlePolicy, TestUserEducationSessionProvider and MockFeaturePromoSessionPolicy for user education session testing.
+// ---
+
 #ifndef COMPONENTS_USER_EDUCATION_TEST_USER_EDUCATION_SESSION_MOCKS_H_
 #define COMPONENTS_USER_EDUCATION_TEST_USER_EDUCATION_SESSION_MOCKS_H_
 

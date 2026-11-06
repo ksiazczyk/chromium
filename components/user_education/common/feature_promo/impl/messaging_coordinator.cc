@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MessagingCoordinator implementation
+// summary: Implements coordination between the feature promo controller and the product messaging controller, managing priority handles and promo states.
+// ---
+
 #include "components/user_education/common/feature_promo/impl/messaging_coordinator.h"
 
 #include "base/callback_list.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptohomeId strong alias type
+// summary: Defines the CryptohomeId strong alias over std::string for cryptohome account identifiers.
+// ---
+
 #ifndef COMPONENTS_USER_MANAGER_COMMON_TYPES_H_
 #define COMPONENTS_USER_MANAGER_COMMON_TYPES_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserManager interface for Chrome OS user management
+// summary: Declares the UserManager interface that tracks known users, sessions, user removal reasons, and notifies observers of user lifecycle events.
+// ---
+
 #ifndef COMPONENTS_USER_MANAGER_USER_MANAGER_H_
 #define COMPONENTS_USER_MANAGER_USER_MANAGER_H_
 

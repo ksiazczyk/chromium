@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multi-user sign-in policy controller class
+// summary: Declares the controller that decides whether a user may join a multi-user sign-in session and caches the policy-backed behavior pref in local state.
+// ---
+
 #ifndef COMPONENTS_USER_MANAGER_MULTI_USER_MULTI_USER_SIGN_IN_POLICY_CONTROLLER_H_
 #define COMPONENTS_USER_MANAGER_MULTI_USER_MULTI_USER_SIGN_IN_POLICY_CONTROLLER_H_
 

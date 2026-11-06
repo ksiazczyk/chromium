@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MessagingCoordinator unit tests
+// summary: Unit tests for MessagingCoordinator, checking state transitions, message queuing, and ready or preempted callbacks.
+// ---
+
 #include "components/user_education/common/feature_promo/impl/messaging_coordinator.h"
 
 #include <optional>

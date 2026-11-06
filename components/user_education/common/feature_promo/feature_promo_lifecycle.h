@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feature promo lifecycle interface
+// summary: Declares FeaturePromoLifecycle, which manages IPH promo lifecycle rules such as snoozing, reshowing, rotating entries, and bubble close handling.
+// ---
+
 #ifndef COMPONENTS_USER_EDUCATION_COMMON_FEATURE_PROMO_FEATURE_PROMO_LIFECYCLE_H_
 #define COMPONENTS_USER_EDUCATION_COMMON_FEATURE_PROMO_FEATURE_PROMO_LIFECYCLE_H_
 

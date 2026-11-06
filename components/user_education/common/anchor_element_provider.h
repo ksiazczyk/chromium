@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Anchor element provider interface and common implementation
+// summary: Declares the AnchorElementProvider abstract interface, the AnchorElementFilter callback and the AnchorElementProviderCommon class for resolving anchor elements.
+// ---
+
 #ifndef COMPONENTS_USER_EDUCATION_COMMON_ANCHOR_ELEMENT_PROVIDER_H_
 #define COMPONENTS_USER_EDUCATION_COMMON_ANCHOR_ELEMENT_PROVIDER_H_
 

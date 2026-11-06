@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User education session manager class declaration
+// summary: Declares UserEducationSessionProvider and UserEducationSessionManager, which govern user education sessions and notify clients when a new session starts.
+// ---
+
 #ifndef COMPONENTS_USER_EDUCATION_COMMON_SESSION_USER_EDUCATION_SESSION_MANAGER_H_
 #define COMPONENTS_USER_EDUCATION_COMMON_SESSION_USER_EDUCATION_SESSION_MANAGER_H_
 

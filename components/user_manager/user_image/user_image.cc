@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserImage class implementation with JPEG and PNG encoding
+// summary: Implements the UserImage class, encoding bitmaps to JPEG or PNG bytes for WebUI, choosing a suitable format, and providing a stub default login image.
+// ---
+
 #include "components/user_manager/user_image/user_image.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tutorial class implementation
+// summary: Implements the Tutorial class, converting tutorial description steps into interaction sequence steps with help bubbles, progress counting, and conditional subsequences.
+// ---
+
 #include "components/user_education/common/tutorial/tutorial.h"
 
 #include <algorithm>

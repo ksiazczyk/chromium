@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device-local account type conversion utility
+// summary: Maps policy DeviceLocalAccountType values such as kiosk and public session types to the corresponding UserType values.
+// ---
+
 #include "components/user_manager/user_manager_policy_util.h"
 
 #include "base/notreached.h"

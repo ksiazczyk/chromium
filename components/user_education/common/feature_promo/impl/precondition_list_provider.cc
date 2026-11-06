@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Precondition list provider implementations
+// summary: Implements callback-based and composing precondition list providers that assemble preconditions for feature promos.
+// ---
+
 #include "components/user_education/common/feature_promo/impl/precondition_list_provider.h"
 
 #include "components/user_education/common/feature_promo/feature_promo_precondition.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock anchor element provider declaration
+// summary: Declares a gmock mock of the AnchorElementProvider interface for use in user education tests.
+// ---
+
 #ifndef COMPONENTS_USER_EDUCATION_TEST_MOCK_ANCHOR_ELEMENT_PROVIDER_H_
 #define COMPONENTS_USER_EDUCATION_TEST_MOCK_ANCHOR_ELEMENT_PROVIDER_H_
 

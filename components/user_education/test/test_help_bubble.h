@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test help bubble, element and factory for user education tests
+// summary: Declares TestHelpBubble with simulation helpers, TestHelpBubbleElement and TestHelpBubbleFactory for exercising help bubble behavior in tests.
+// ---
+
 #ifndef COMPONENTS_USER_EDUCATION_TEST_TEST_HELP_BUBBLE_H_
 #define COMPONENTS_USER_EDUCATION_TEST_TEST_HELP_BUBBLE_H_
 

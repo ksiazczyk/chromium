@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserManager test helper header
+// summary: Declares TestHelper utilities to set up a UserManager test environment, registering users in local state and adding regular, guest, kiosk and public account users.
+// ---
+
 #ifndef COMPONENTS_USER_MANAGER_TEST_HELPER_H_
 #define COMPONENTS_USER_MANAGER_TEST_HELPER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JNI bridge for UserPrefs on Android
+// summary: Implements JNI functions that report whether native prefs are loaded and return the PrefService Java object for a given browser context handle.
+// ---
+
 #include <string>
 
 #include "components/prefs/pref_service.h"

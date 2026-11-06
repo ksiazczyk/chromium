@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build rules for the user education WebUI component
+summary: GN build file defining the Mojo bindings, WebUI source set, unit tests, and test support targets for the user education WebUI component.

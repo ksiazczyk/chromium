@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User class representing a Chrome OS user
+// summary: Declares the User class that represents information about a previously logged-in user, including account ID, display name, image, OAuth token status, and user type.
+// ---
+
 #ifndef COMPONENTS_USER_MANAGER_USER_H_
 #define COMPONENTS_USER_MANAGER_USER_H_
 

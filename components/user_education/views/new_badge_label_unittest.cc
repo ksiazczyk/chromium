@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: New badge label unit tests
+// summary: Unit tests verifying NewBadgeLabel accessible names, size behavior with and without the badge, and badge-related layout properties.
+// ---
+
 #include "components/user_education/views/new_badge_label.h"
 
 #include "base/memory/raw_ptr.h"

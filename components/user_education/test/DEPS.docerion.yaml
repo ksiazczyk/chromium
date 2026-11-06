@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the user education test directory
+summary: Grants the test directory permission to include headers from ui/views.

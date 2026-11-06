@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Feature promo precondition unit tests
+// summary: Unit tests verifying cached data handling, cache collisions, and error behavior of feature promo preconditions.
+// ---
+
 #include "components/user_education/common/feature_promo/feature_promo_precondition.h"
 
 #include "base/test/gtest_util.h"

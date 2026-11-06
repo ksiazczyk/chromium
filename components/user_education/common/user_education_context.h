@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User education context interface
+// summary: Declares the ref-counted UserEducationContext class describing where a promo can occur, with element context, default element filter and accelerator provider access.
+// ---
+
 #ifndef COMPONENTS_USER_EDUCATION_COMMON_USER_EDUCATION_CONTEXT_H_
 #define COMPONENTS_USER_EDUCATION_COMMON_USER_EDUCATION_CONTEXT_H_
 

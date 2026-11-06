@@ -1,3 +1,9 @@
+---
+type: readme
+title: user_prefs component README
+summary: Explains that the component provides the UserPrefs class for looking up user preferences by browser context and a home for PrefRegistrySyncable.
+---
+
 The //components/user_pref component provides:
 
 a) The UserPrefs class, where components dependent on looking up

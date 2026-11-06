@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserManagerImpl class declaration
+// summary: Declares UserManagerImpl, the base implementation of UserManager, including its delegate interface and legacy supervised and ARC kiosk user status enums.
+// ---
+
 #ifndef COMPONENTS_USER_MANAGER_USER_MANAGER_IMPL_H_
 #define COMPONENTS_USER_MANAGER_USER_MANAGER_IMPL_H_
 

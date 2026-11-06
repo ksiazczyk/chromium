@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Bug tracking metadata for user_manager
+summary: Maps the directory to the UI>Shell>StartScreen monorail component and a public Buganizer component ID.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test product message implementation
+// summary: Implements TestProductMessage, which queues a message with ProductMessagingController and tracks when it is shown and superseded.
+// ---
+
 #include "components/user_education/test/test_product_messaging_controller.h"
 
 #include "components/user_education/product_messaging/product_messaging_controller.h"

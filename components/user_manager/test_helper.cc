@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserManager test helper implementation
+// summary: Implements utilities that register persisted, child, kiosk, public account and owner users in local state and add such users to a UserManager for tests.
+// ---
+
 #include "components/user_manager/test_helper.h"
 
 #include <cstddef>

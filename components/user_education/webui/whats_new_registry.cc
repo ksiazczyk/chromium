@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: What's New registry implementation
+// summary: Implements WhatsNewModule, WhatsNewEdition and WhatsNewRegistry, which register What's New page content and compute active browser commands from feature state.
+// ---
+
 #include "components/user_education/webui/whats_new_registry.h"
 
 #include "base/metrics/field_trial_params.h"

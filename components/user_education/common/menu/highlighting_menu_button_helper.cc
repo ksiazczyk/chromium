@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Highlighting menu button helper implementation
+// summary: Implements HighlightingMenuButtonHelper::MaybeHighlight, which closes an in-product help promo anchored to a clicked button and highlights the associated menu item via the menu model delegate.
+// ---
+
 #include "components/user_education/common/menu/highlighting_menu_button_helper.h"
 
 #include "base/types/pass_key.h"

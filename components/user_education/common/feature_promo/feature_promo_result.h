@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feature promo result type
+// summary: Declares FeaturePromoResult, a boolean-like result carrying enumerated failure reasons for why a feature promo cannot currently show.
+// ---
+
 #ifndef COMPONENTS_USER_EDUCATION_COMMON_FEATURE_PROMO_FEATURE_PROMO_RESULT_H_
 #define COMPONENTS_USER_EDUCATION_COMMON_FEATURE_PROMO_FEATURE_PROMO_RESULT_H_
 

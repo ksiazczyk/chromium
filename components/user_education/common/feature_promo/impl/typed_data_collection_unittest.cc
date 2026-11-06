@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for typed data collection
+// summary: Unit tests covering insertion, lookup, containment, and destruction behavior of OwnedTypedDataCollection and UnownedTypedDataCollection.
+// ---
+
 #include "components/user_education/common/feature_promo/impl/typed_data_collection.h"
 
 #include <string>

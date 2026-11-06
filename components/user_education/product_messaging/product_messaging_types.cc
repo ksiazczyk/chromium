@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Product message key implementation
+// summary: Implements ordering, name lookup, and debug string formatting for ProductMessageKey and its message types.
+// ---
+
 #include "components/user_education/product_messaging/product_messaging_types.h"
 
 #include <array>

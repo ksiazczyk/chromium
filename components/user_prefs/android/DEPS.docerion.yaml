@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for user_prefs Android
+summary: Declares the allowed dependency directories for the user_prefs Android component, covering embedder support and content public APIs.

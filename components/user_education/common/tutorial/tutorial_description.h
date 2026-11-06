@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TutorialDescription and tutorial histograms declarations
+// summary: Declares the TutorialDescription struct with step and branch types plus the TutorialHistograms base and template for recording completion, abort step, and IPH metrics.
+// ---
+
 #ifndef COMPONENTS_USER_EDUCATION_COMMON_TUTORIAL_TUTORIAL_DESCRIPTION_H_
 #define COMPONENTS_USER_EDUCATION_COMMON_TUTORIAL_TUTORIAL_DESCRIPTION_H_
 

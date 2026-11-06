@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: USER_PREFS_EXPORT macro header
+// summary: Defines the USER_PREFS_EXPORT macro as dllexport, dllimport, or default visibility depending on the build configuration.
+// ---
+
 #ifndef COMPONENTS_USER_PREFS_USER_PREFS_EXPORT_H_
 #define COMPONENTS_USER_PREFS_USER_PREFS_EXPORT_H_
 

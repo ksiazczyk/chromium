@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Feature promo lifecycle unit tests
+// summary: Parameterized unit tests covering promo lifecycle behavior across promo types, subtypes, reshow policies, and storage interactions with test clocks and bubbles.
+// ---
+
 #include "components/user_education/common/feature_promo/feature_promo_lifecycle.h"
 
 #include <sstream>

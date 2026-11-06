@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for user_manager
+summary: Specifies allowed include dependencies for the directory, with specific rules for the sign-in policy controller, test helper, and unit tests.

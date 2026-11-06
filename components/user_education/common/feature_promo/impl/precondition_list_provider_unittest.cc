@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PreconditionListProvider unit tests
+// summary: Unit tests for precondition list providers, verifying that composing providers combine and evaluate preconditions correctly.
+// ---
+
 #include "components/user_education/common/feature_promo/impl/precondition_list_provider.h"
 
 #include <memory>

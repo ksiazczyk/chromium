@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feature promo queue implementation
+// summary: Implements FeaturePromoQueue, which holds promos at a priority, evaluates required and wait-for preconditions, and times out or fails ineligible entries.
+// ---
+
 #include "components/user_education/common/feature_promo/impl/feature_promo_queue.h"
 
 #include "base/feature_list.h"

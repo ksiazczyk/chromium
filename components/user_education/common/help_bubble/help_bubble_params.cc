@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Help bubble params implementation
+// summary: Defines constructors, move operations, and destructors for HelpBubbleButtonParams, HelpBubbleParams, and its ExtendedProperties class.
+// ---
+
 #include "components/user_education/common/help_bubble/help_bubble_params.h"
 
 namespace user_education {

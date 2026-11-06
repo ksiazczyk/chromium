@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the feature promo controller
+// summary: Unit tests for FeaturePromoControllerImpl covering promo queueing behavior, priorities, and show and dismiss flows across controller versions.
+// ---
+
 #include "components/user_education/common/feature_promo/impl/feature_promo_controller_impl.h"
 
 #include <memory>

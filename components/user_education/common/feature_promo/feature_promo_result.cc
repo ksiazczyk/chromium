@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feature promo result implementation
+// summary: Implements FeaturePromoResult success and failure values, including human-readable failure names and stream output for logging.
+// ---
+
 #include "components/user_education/common/feature_promo/feature_promo_result.h"
 
 #include <array>

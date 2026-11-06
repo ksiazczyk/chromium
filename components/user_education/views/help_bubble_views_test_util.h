@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test utilities for help bubble views
+// summary: Declares fake help bubble delegate, theme provider, and themed widget classes that let help bubble views be tested without browser dependencies.
+// ---
+
 #ifndef COMPONENTS_USER_EDUCATION_VIEWS_HELP_BUBBLE_VIEWS_TEST_UTIL_H_
 #define COMPONENTS_USER_EDUCATION_VIEWS_HELP_BUBBLE_VIEWS_TEST_UTIL_H_
 

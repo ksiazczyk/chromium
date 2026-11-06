@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceOwnershipWaiter interface
+// summary: Declares an interface that delays callbacks until the device owner is initialized, skipping the wait for guest, demo mode, and Linux builds.
+// ---
+
 #ifndef COMPONENTS_USER_MANAGER_DEVICE_OWNERSHIP_WAITER_H_
 #define COMPONENTS_USER_MANAGER_DEVICE_OWNERSHIP_WAITER_H_
 

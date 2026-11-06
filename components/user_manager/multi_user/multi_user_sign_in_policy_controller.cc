@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multi-user sign-in policy controller implementation
+// summary: Implements session access checks, caching of the multi-profile user behavior pref in local state, and observation of user pref and profile lifecycle changes.
+// ---
+
 #include "components/user_manager/multi_user/multi_user_sign_in_policy_controller.h"
 
 #include <utility>

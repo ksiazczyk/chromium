@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User education session test utility implementation
+// summary: Implements a utility that seizes control of a session manager, letting tests replace the clock, seed session data and simulate active and inactive periods.
+// ---
+
 #include "components/user_education/test/user_education_session_test_util.h"
 
 #include <memory>

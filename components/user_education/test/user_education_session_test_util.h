@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test utility for controlling user education sessions
+// summary: Declares UserEducationSessionTestUtil, which gives tests fine control over the clock and active state of a user education session manager during testing.
+// ---
+
 #ifndef COMPONENTS_USER_EDUCATION_TEST_USER_EDUCATION_SESSION_TEST_UTIL_H_
 #define COMPONENTS_USER_EDUCATION_TEST_USER_EDUCATION_SESSION_TEST_UTIL_H_
 

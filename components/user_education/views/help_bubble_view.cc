@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Help bubble dialog view implementation
+// summary: Implements HelpBubbleView, the BubbleDialogDelegateView that renders in-product help bubbles with title, body text, and buttons.
+// ---
+
 #include "components/user_education/views/help_bubble_view.h"
 
 #include <initializer_list>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: New badge specification
+// summary: Defines NewBadgeSpecification, which ties a "New" badge to a feature and metadata used on the User Education Internals Page.
+// ---
+
 #ifndef COMPONENTS_USER_EDUCATION_COMMON_NEW_BADGE_NEW_BADGE_SPECIFICATION_H_
 #define COMPONENTS_USER_EDUCATION_COMMON_NEW_BADGE_NEW_BADGE_SPECIFICATION_H_
 

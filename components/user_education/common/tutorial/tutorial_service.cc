@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TutorialService implementation
+// summary: Implements starting, canceling, restarting, and timing out tutorials, including broken-tutorial timeouts and help bubble management.
+// ---
+
 #include "components/user_education/common/tutorial/tutorial_service.h"
 
 #include <memory>

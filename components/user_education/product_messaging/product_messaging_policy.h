@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Product messaging policy interface
+// summary: Defines the abstract policy interface that determines how message types block, supersede, or order each other.
+// ---
+
 #ifndef COMPONENTS_USER_EDUCATION_PRODUCT_MESSAGING_PRODUCT_MESSAGING_POLICY_H_
 #define COMPONENTS_USER_EDUCATION_PRODUCT_MESSAGING_PRODUCT_MESSAGING_POLICY_H_
 

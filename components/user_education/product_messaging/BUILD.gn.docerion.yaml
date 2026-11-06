@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the product messaging component
+summary: Defines the product_messaging source set and its unit test target, including their sources and dependencies for the Chromium build.

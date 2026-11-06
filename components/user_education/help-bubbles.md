@@ -1,3 +1,13 @@
+---
+type: guide
+title: Help Bubbles
+summary: Describes the help bubble system, including arrows, anchor elements and identifiers used by IPH and tutorials.
+relations:
+  - references /chrome/browser/ui/browser_element_identifiers.cc
+  - references /chrome/browser/ui/browser_element_identifiers.h
+  - references /chrome/browser/ui/user_education/show_promo_in_page.h
+---
+
 # Help Bubbles
 
 [Help bubbles](./common/help_bubble/help_bubble.h) are the core visual component of both

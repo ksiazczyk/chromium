@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multi-user sign-in policy enum and API
+// summary: Defines the MultiUserSignInPolicy enum (unrestricted, primary-only, not-allowed) and exported helpers to stringify, parse, and fetch the policy for a user.
+// ---
+
 #ifndef COMPONENTS_USER_MANAGER_MULTI_USER_MULTI_USER_SIGN_IN_POLICY_H_
 #define COMPONENTS_USER_MANAGER_MULTI_USER_MULTI_USER_SIGN_IN_POLICY_H_
 

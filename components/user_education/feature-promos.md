@@ -1,3 +1,13 @@
+---
+type: guide
+title: Feature Promos / In-Product Help (IPH)
+summary: Step-by-step guide to declaring, registering, triggering, testing and rolling out in-product help promos.
+relations:
+  - references /chrome/browser/ui/views/user_education/browser_user_education_service.cc
+  - references /components/feature_engagement/public/feature_constants.cc
+  - references /components/feature_engagement/public/feature_constants.h
+---
+
 # Feature Promos / In-Product Help (IPH)
 
 Once you have the PRD spec for your promo, here are the steps you will follow to

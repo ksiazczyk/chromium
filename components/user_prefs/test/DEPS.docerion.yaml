@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for user_prefs test directory
+summary: Grants the user_prefs test directory include access to components/keyed_service/content and content/public/test headers.

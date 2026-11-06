@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Custom help bubble interfaces
+// summary: Declares the CustomHelpBubbleUi interface with its UserAction enum and callback registration, plus the CustomHelpBubble wrapper, for help bubbles backed by non-standard UI.
+// ---
+
 #ifndef COMPONENTS_USER_EDUCATION_COMMON_HELP_BUBBLE_CUSTOM_HELP_BUBBLE_H_
 #define COMPONENTS_USER_EDUCATION_COMMON_HELP_BUBBLE_CUSTOM_HELP_BUBBLE_H_
 

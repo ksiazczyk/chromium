@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User education session mocks implementation
+// summary: Implements test doubles for user education session components, including a controllable idle observer, idle policy mock, session provider fake and session manager mocks.
+// ---
+
 #include "components/user_education/test/user_education_session_mocks.h"
 
 #include <optional>

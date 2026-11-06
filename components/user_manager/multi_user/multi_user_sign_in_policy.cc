@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multi-user sign-in policy implementation
+// summary: Implements conversion between the MultiUserSignInPolicy enum and its pref string values and reads the policy for a given user from profile prefs.
+// ---
+
 #include "components/user_manager/multi_user/multi_user_sign_in_policy.h"
 
 #include "base/check_op.h"

@@ -1,0 +1,4 @@
+# Docerion header of user_education.mojom.
+type: source
+title: User Education Mojo interface for WebUI
+summary: Defines the Mojo structs and interfaces that expose a subset of user education features, such as feature promos and New badges, to trusted and untrusted WebUI.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IncludeExcludeAccountIdFilter implementation
+// summary: Implements an account ID filter that decides inclusion from a default flag plus explicit include and exclude account sets.
+// ---
+
 #include "components/user_manager/include_exclude_account_id_filter.h"
 
 #include <vector>

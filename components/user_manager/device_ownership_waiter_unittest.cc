@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DeviceOwnershipWaiterImpl unit tests
+// summary: Unit tests verifying that DeviceOwnershipWaiterImpl delays the callback until an owner is set and skips the delay on ChromeOS-on-Linux builds.
+// ---
+
 #include <memory>
 
 #include "base/test/scoped_chromeos_version_info.h"

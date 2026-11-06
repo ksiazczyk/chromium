@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Special user names and account IDs declarations
+// summary: Declares special user name constants, supervised and ARC kiosk domains, user ID canonicalization, and accessors for stub, sign-in, guest, and demo account IDs.
+// ---
+
 #ifndef COMPONENTS_USER_MANAGER_USER_NAMES_H_
 #define COMPONENTS_USER_MANAGER_USER_NAMES_H_
 

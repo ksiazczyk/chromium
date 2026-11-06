@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserManager component export macros
+// summary: Defines the USER_MANAGER_EXPORT macro controlling symbol visibility for the user_manager component in shared component builds.
+// ---
+
 #ifndef COMPONENTS_USER_MANAGER_USER_MANAGER_EXPORT_H_
 #define COMPONENTS_USER_MANAGER_USER_MANAGER_EXPORT_H_
 

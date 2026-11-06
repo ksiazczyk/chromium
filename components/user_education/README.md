@@ -1,3 +1,11 @@
+---
+type: readme
+title: User Education
+summary: Introduces Chrome's user education system for feature promos and tutorials and points to the getting started guide.
+relations:
+  - references /components/user_education/getting-started.md
+---
+
 # User Education
 
 User Education in Chrome is designed to introduce users to new and
