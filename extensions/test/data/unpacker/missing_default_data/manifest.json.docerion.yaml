@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest fixture for missing default locale data
+summary: Test manifest declaring default_locale 'sr' without corresponding locale data, used to verify unpacker validation of missing default data.

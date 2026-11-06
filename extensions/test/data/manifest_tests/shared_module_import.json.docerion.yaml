@@ -1,0 +1,4 @@
+# Docerion header of shared_module_import.json.
+type: test
+title: Shared module import manifest
+summary: Manifest fixture importing two shared modules by ID, one with a minimum version, for valid import testing.

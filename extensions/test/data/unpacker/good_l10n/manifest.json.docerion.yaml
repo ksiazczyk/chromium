@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: good_l10n extension manifest test fixture
+summary: Test fixture manifest for the good_l10n unpacker case, declaring a manifest version 2 extension with Serbian as its default locale.

@@ -1,0 +1,4 @@
+# Docerion header of shared_module_import_invalid_version.json.
+type: test
+title: Test manifest with invalid shared module import minimum version
+summary: Manifest v2 fixture with a shared module import whose minimum_version 'aaa' is not a valid version string, used to test import validation.

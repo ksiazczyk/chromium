@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test realm support helpers header
+// summary: Declares RealmBuilder helper functions for appending command-line arguments, routing parent capabilities, and adding font and test UI stack services in Fuchsia test realms.
+// ---
+
 #ifndef FUCHSIA_WEB_COMMON_TEST_TEST_REALM_SUPPORT_H_
 #define FUCHSIA_WEB_COMMON_TEST_TEST_REALM_SUPPORT_H_
 

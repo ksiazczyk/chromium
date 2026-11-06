@@ -1,0 +1,4 @@
+# Docerion header of message_serialization_invalid_format.json.
+type: test
+title: message_serialization_invalid_format
+summary: Test manifest fixture using a numeric message_serialization value to cover invalid format handling.

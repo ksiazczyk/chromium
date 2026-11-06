@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for fuchsia_web
+summary: Defines the gn_all group that aggregates Fuchsia WebEngine, cast runner, shell, and test targets so every target in the directory is reachable.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for test helper dependencies
+summary: Grants test_devtools_list_fetcher.cc permission to include headers from //net via specific include rules.

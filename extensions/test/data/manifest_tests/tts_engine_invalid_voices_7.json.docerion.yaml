@@ -1,0 +1,4 @@
+# Docerion header of tts_engine_invalid_voices_7.json.
+type: test
+title: TTS engine manifest with invalid event type (case 7)
+summary: Manifest v3 test fixture whose voice event_types include the unknown value "on vacation", exercising TTS event type validation.

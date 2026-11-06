@@ -1,0 +1,4 @@
+# Docerion header of file_handlers_invalid_type.json.
+type: test
+title: File handlers invalid type test manifest
+summary: Manifest test fixture with file_handlers types given as a string instead of a list to test MIME type container validation.

@@ -1,0 +1,4 @@
+# Docerion header of sandboxed_pages_valid_3.json.
+type: test
+title: Valid sandboxed pages manifest fixture with sandbox CSP
+summary: Manifest v2 fixture with a sandboxed page and a sandbox content security policy, used as a valid case in manifest tests.

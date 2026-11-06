@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for web_view test data
+summary: Sets the Chromium issue tracker component and Buganizer component ID for the web_view test data directory.

@@ -1,0 +1,4 @@
+# Docerion header of override_invalid_page.json.
+type: test
+title: override_invalid_page
+summary: Manifest version 3 test fixture with an unrecognized chrome_url_overrides key to test invalid page overrides.

@@ -1,0 +1,4 @@
+# Docerion header of override_newtab_and_history.json.
+type: test
+title: New tab and history override manifest test fixture
+summary: Manifest v3 test fixture that overrides both the new tab and history pages via chrome_url_overrides.

@@ -1,0 +1,4 @@
+# Docerion header of override_keyboard_page.json.
+type: test
+title: override_keyboard_page
+summary: Manifest version 3 test fixture overriding the keyboard page with a_page.html.

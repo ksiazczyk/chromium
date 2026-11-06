@@ -1,0 +1,4 @@
+# Docerion header of sandboxed_pages_invalid_2.json.
+type: test
+title: Sandboxed pages invalid non-string page fixture
+summary: Manifest v2 fixture with a non-string entry in sandbox.pages, used to test invalid sandboxed pages validation.

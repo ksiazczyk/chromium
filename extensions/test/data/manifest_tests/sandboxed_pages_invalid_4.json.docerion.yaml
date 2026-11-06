@@ -1,0 +1,4 @@
+# Docerion header of sandboxed_pages_invalid_4.json.
+type: test
+title: Sandboxed pages allow-same-origin fixture
+summary: Manifest v2 fixture with a sandbox CSP allowing same-origin access, used to test rejection of unsafe sandbox policies.

@@ -1,0 +1,4 @@
+# Docerion header of externally_connectable_matches_tls_channel_id.json.
+type: test
+title: Externally connectable matches with TLS channel ID test manifest
+summary: Manifest fixture with match patterns and accepts_tls_channel_id enabled for the ExternallyConnectableTest.MatchesWithTlsChannelId unit test.

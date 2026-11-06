@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestRealmRoot class declaration
+// summary: Declares TestRealmRoot, which manages a RealmBuilder realm, watches component events for abnormal terminations, and exposes the isolated archivist log client.
+// ---
+
 #ifndef FUCHSIA_WEB_COMMON_TEST_TEST_REALM_ROOT_H_
 #define FUCHSIA_WEB_COMMON_TEST_TEST_REALM_ROOT_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of web_app_shortcut_icons_invalid4.json.
+type: test
+title: Web app shortcut icons invalid manifest fixture 4
+summary: Manifest fixture where a shortcut icon size maps to an array instead of a path string, for testing invalid icon values.

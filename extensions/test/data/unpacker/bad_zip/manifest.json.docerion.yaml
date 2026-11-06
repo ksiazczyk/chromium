@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Bad zip test extension manifest
+summary: Manifest of the bad zip test extension, a valid package mangled by bad_zip.sh for unpacker unit testing.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake feedback service class declaration
+// summary: Declares a fake fuchsia.feedback service that silently accepts updates in tests using RealmBuilder.
+// ---
+
 #ifndef FUCHSIA_WEB_COMMON_TEST_FAKE_FEEDBACK_SERVICE_H_
 #define FUCHSIA_WEB_COMMON_TEST_FAKE_FEEDBACK_SERVICE_H_
 

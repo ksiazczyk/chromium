@@ -1,0 +1,4 @@
+# Docerion header of tts_engine_invalid_voices_2.json.
+type: test
+title: TTS engine manifest with non-array voices (case 2)
+summary: Manifest v3 test fixture where tts_engine voices is a string instead of an array, exercising type validation of the voices list.

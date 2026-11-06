@@ -1,0 +1,4 @@
+# Docerion header of csp_invalid_type_v3.json.
+type: test
+title: Manifest V3 invalid CSP type fixture
+summary: Test manifest that supplies content_security_policy as a string under Manifest V3, exercising CSP value type validation.

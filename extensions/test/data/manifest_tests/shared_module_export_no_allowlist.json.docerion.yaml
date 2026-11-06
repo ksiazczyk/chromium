@@ -1,0 +1,4 @@
+# Docerion header of shared_module_export_no_allowlist.json.
+type: test
+title: Shared module export without allowlist
+summary: Manifest fixture with an empty export object and no allowlist, used to test missing allowlist handling.

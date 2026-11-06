@@ -1,0 +1,4 @@
+# Docerion header of local_state.json.
+type: test
+title: Shell local state test fixture
+summary: Test fixture JSON setting hardware audio output to disabled, used as local state preferences data for shell tests.

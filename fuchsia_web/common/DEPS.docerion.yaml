@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for fuchsia_web common
+summary: Grants per-file include permissions so fuchsia_dir_scheme.cc can depend on url and init_logging.cc can depend on components/version_info.

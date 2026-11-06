@@ -1,0 +1,4 @@
+# Docerion header of sandboxed_pages_invalid_5.json.
+type: test
+title: Sandboxed pages allow-top-navigation app fixture
+summary: Manifest v2 platform app fixture with a sandbox CSP allowing top-level navigation, used to test rejection of unsafe sandbox policies in apps.

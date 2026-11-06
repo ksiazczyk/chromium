@@ -1,0 +1,4 @@
+# Docerion header of csp_invalid_1.json.
+type: test
+title: Invalid CSP array manifest fixture
+summary: Manifest v2 fixture with content_security_policy set to an array, an invalid type for CSP validation tests.

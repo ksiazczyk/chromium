@@ -1,0 +1,4 @@
+# Docerion header of tts_engine_invalid_voices_1.json.
+type: test
+title: TTS engine manifest with non-dictionary tts_engine (case 1)
+summary: Manifest v3 test fixture where tts_engine is a string instead of a dictionary, exercising type validation of the tts_engine manifest key.

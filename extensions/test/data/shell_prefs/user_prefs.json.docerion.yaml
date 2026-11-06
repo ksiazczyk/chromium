@@ -1,0 +1,4 @@
+# Docerion header of user_prefs.json.
+type: test
+title: Shell user preferences test fixture
+summary: Test fixture JSON with a homepage URL and last Chrome version, used as user preferences data for shell tests.

@@ -1,0 +1,4 @@
+# Docerion header of externally_connectable_tld.json.
+type: test
+title: Externally connectable TLD test manifest
+summary: Manifest fixture with a wildcard top-level-domain match pattern for the ExternallyConnectableTest.TLD unit test.

@@ -1,0 +1,4 @@
+# Docerion header of tts_engine_valid_voices.json.
+type: test
+title: TTS engine manifest with valid voices
+summary: Test manifest fixture declaring tts_engine voices with names, languages, genders and event types for manifest validation.

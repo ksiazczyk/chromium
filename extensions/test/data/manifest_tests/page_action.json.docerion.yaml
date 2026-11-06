@@ -1,0 +1,4 @@
+# Docerion header of page_action.json.
+type: test
+title: Page action manifest test fixture
+summary: Manifest v2 test fixture declaring a page action with a default icon and title but no popup.

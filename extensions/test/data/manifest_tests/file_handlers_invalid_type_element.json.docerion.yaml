@@ -1,0 +1,4 @@
+# Docerion header of file_handlers_invalid_type_element.json.
+type: test
+title: File handlers invalid type element test manifest
+summary: Manifest test fixture with a non-string element in file_handlers types to verify individual MIME type entry validation.

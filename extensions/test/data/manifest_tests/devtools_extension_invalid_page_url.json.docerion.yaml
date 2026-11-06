@@ -1,0 +1,4 @@
+# Docerion header of devtools_extension_invalid_page_url.json.
+type: test
+title: DevTools extension invalid page URL fixture
+summary: Test manifest using a data URL as devtools_page, exercising invalid DevTools page URL validation.

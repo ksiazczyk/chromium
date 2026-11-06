@@ -1,0 +1,4 @@
+# Docerion header of shared_module_export_allowlist_not_list.json.
+type: test
+title: Shared module export allowlist that is not a list
+summary: Manifest fixture where the export allowlist is a string rather than a list, used to test wrong field type handling.

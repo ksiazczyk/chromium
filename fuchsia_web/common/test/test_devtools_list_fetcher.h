@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DevTools list fetcher declaration
+// summary: Declares GetDevToolsListFromPort, which returns the DevTools list JSON for a localhost port or an empty value on error.
+// ---
+
 #ifndef FUCHSIA_WEB_COMMON_TEST_TEST_DEVTOOLS_LIST_FETCHER_H_
 #define FUCHSIA_WEB_COMMON_TEST_TEST_DEVTOOLS_LIST_FETCHER_H_
 

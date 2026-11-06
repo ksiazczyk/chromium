@@ -1,0 +1,4 @@
+# Docerion header of homepage_url_google_hosted.json.
+type: test
+title: 'Manifest test: Google-hosted update_url'
+summary: Test manifest fixture with the Google Web Store update_url to test Google-hosted extension handling.

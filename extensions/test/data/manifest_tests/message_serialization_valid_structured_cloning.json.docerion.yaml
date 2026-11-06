@@ -1,0 +1,4 @@
+# Docerion header of message_serialization_valid_structured_cloning.json.
+type: test
+title: message_serialization_valid_structured_cloning
+summary: Test manifest fixture with a valid structured_clone message_serialization setting.

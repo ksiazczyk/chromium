@@ -1,2 +1,8 @@
+---
+type: readme
+title: Dummy README keeping empty _locales test directory in git
+summary: Placeholder file that keeps the otherwise empty _locales directory present in git because it is required by the unpacker test.
+---
+
 This is a dummy file to make git happy.
 Git ignores empty directories, but this directory is needed for the test.

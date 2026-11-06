@@ -1,0 +1,4 @@
+# Docerion header of shared_module_export_and_import.json.
+type: test
+title: Shared module manifest with both export and import
+summary: Manifest fixture combining an empty export block with an import entry, used to test extensions that export and import.

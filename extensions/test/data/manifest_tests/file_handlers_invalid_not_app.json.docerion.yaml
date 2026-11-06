@@ -1,0 +1,4 @@
+# Docerion header of file_handlers_invalid_not_app.json.
+type: test
+title: File handlers invalid not app test manifest
+summary: Manifest test fixture declaring file_handlers without an app section to verify file handlers are rejected outside packaged apps.

@@ -1,0 +1,4 @@
+# Docerion header of sandbox_both_keys.json.
+type: test
+title: Sandbox both keys manifest fixture
+summary: Test manifest fixture for manifest version 3 that sets both the sandbox and content_security_policy sandbox keys, used to test their combined handling.

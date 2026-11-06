@@ -1,0 +1,4 @@
+# Docerion header of web_app_shortcut_icons_invalid3.json.
+type: test
+title: Web app shortcut icons invalid manifest fixture 3
+summary: Manifest fixture with shortcut icon size keys including a negative size, used to test rejection of invalid web_app_shortcut_icons entries.

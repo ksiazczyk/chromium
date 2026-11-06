@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test app manifest for webview touch events
+summary: Chrome app manifest declaring the webview permission, the test.js background script, and a partition exposing the guest resources.

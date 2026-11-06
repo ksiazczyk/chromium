@@ -1,0 +1,4 @@
+# Docerion header of homepage_url_externally_hosted.json.
+type: test
+title: 'Manifest test: externally hosted update_url'
+summary: Test manifest fixture with an external update_url to test externally hosted extension handling.

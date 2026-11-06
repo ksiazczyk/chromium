@@ -1,0 +1,4 @@
+# Docerion header of homepage_url_invalid.json.
+type: test
+title: 'Manifest test: invalid homepage_url'
+summary: Test manifest fixture with a homepage_url lacking a valid URL scheme for validation testing.

@@ -1,0 +1,4 @@
+# Docerion header of sandboxed_sw_mv3_with_csp.json.
+type: test
+title: MV3 manifest fixture with sandbox CSP and sandboxed service worker
+summary: Manifest v3 fixture combining a sandboxed service worker with a sandbox content security policy, used in manifest tests.

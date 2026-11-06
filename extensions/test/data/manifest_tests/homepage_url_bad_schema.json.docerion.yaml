@@ -1,0 +1,4 @@
+# Docerion header of homepage_url_bad_schema.json.
+type: test
+title: 'Manifest test: homepage_url with javascript: scheme'
+summary: 'Test manifest fixture with a homepage_url set to a javascript: URL to exercise invalid scheme handling.'

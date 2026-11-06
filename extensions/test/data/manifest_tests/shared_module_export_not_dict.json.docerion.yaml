@@ -1,0 +1,4 @@
+# Docerion header of shared_module_export_not_dict.json.
+type: test
+title: Shared module export that is not a dictionary
+summary: Manifest fixture where export is a list instead of a dictionary, used to test wrong export type handling.

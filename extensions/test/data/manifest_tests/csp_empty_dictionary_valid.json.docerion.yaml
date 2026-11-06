@@ -1,0 +1,4 @@
+# Docerion header of csp_empty_dictionary_valid.json.
+type: test
+title: Valid empty CSP dictionary manifest fixture
+summary: Manifest v3 fixture with an empty content_security_policy object, used as a valid case in CSP tests.

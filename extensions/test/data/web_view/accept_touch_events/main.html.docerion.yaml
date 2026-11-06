@@ -1,0 +1,4 @@
+# Docerion header of main.html.
+type: test
+title: Embedder page hosting the webview
+summary: HTML page for the embedder side of the test that contains the webview container and loads main.js.

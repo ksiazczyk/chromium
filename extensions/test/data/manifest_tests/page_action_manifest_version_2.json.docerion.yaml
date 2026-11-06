@@ -1,0 +1,4 @@
+# Docerion header of page_action_manifest_version_2.json.
+type: test
+title: Manifest v2 page action removed sub-features fixture
+summary: Manifest v2 test fixture using page action sub-features such as id, icons, name, and popup that are removed in manifest version 2.

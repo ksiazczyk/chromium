@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test realm support helpers implementation
+// summary: Implements RealmBuilder helpers that append command-line arguments to components or realms and route capabilities such as syslog, Vulkan, fonts, and the test UI stack.
+// ---
+
 #include "fuchsia_web/common/test/test_realm_support.h"
 
 #include <lib/sys/component/cpp/testing/realm_builder.h>

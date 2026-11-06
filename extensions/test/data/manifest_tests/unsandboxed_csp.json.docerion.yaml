@@ -1,0 +1,4 @@
+# Docerion header of unsandboxed_csp.json.
+type: test
+title: Manifest with sandbox pages and sandbox CSP
+summary: Test manifest fixture combining sandbox pages with a sandbox content security policy allowing scripts from google.com.

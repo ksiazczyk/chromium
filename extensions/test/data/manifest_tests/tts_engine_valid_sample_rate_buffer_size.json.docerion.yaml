@@ -1,0 +1,4 @@
+# Docerion header of tts_engine_valid_sample_rate_buffer_size.json.
+type: test
+title: TTS engine manifest with valid sample rate and buffer size
+summary: Test manifest fixture declaring a tts_engine with sample_rate and buffer_size values for extension manifest validation.

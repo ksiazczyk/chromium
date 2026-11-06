@@ -1,0 +1,4 @@
+# Docerion header of nacl_module_v3.json.
+type: test
+title: nacl_module_v3
+summary: Manifest version 3 test fixture declaring a Native Client module with a dummy.nmf path and PDF MIME type.

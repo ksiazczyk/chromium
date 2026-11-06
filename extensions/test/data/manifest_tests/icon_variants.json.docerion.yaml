@@ -1,0 +1,4 @@
+# Docerion header of icon_variants.json.
+type: test
+title: 'Manifest test: icon_variants'
+summary: Test manifest fixture declaring icon_variants with 16 and 48 pixel PNG icons.

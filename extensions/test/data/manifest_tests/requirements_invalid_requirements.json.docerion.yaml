@@ -1,0 +1,4 @@
+# Docerion header of requirements_invalid_requirements.json.
+type: test
+title: Invalid requirements manifest fixture
+summary: Test manifest fixture with the requirements key set to false instead of an object, used to exercise invalid requirements validation.

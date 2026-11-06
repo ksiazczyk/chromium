@@ -1,0 +1,4 @@
+# Docerion header of swiftshader_exclude.gni.
+type: config
+title: GN list of SwiftShader files to exclude
+summary: Defines a GN variable listing the SwiftShader shared library and ICD JSON files to exclude, likely from packaging or distribution.

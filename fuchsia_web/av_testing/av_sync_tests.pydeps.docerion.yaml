@@ -1,0 +1,4 @@
+# Docerion header of av_sync_tests.pydeps.
+type: config
+title: Python dependency list for av_sync_tests
+summary: Generated list of Python module dependencies of av_sync_tests.py used for packaging the test with vpython.

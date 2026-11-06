@@ -1,0 +1,4 @@
+# Docerion header of av_sync_tests.py.
+type: source
+title: Audio/video sync performance test runner
+summary: Executes audio and video performance tests against a smart display device, coordinating the camera recorder, local HTTP server and video analyzer.

@@ -1,0 +1,4 @@
+# Docerion header of video.html.
+type: source
+title: Video playback test page
+summary: HTML page that loads a video file from the videos directory based on a query parameter and plays it when clicked.

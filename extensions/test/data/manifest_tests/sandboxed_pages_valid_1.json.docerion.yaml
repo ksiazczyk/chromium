@@ -1,0 +1,4 @@
+# Docerion header of sandboxed_pages_valid_1.json.
+type: test
+title: Sandboxed pages valid fixture
+summary: Manifest v2 fixture with a simple valid sandbox pages declaration, used as a positive case for sandboxed pages validation.

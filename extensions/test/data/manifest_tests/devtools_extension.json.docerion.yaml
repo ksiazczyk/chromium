@@ -1,0 +1,4 @@
+# Docerion header of devtools_extension.json.
+type: test
+title: DevTools extension manifest fixture
+summary: Test manifest declaring a devtools_page of devtools.html, exercising DevTools extension manifest handling.

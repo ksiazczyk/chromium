@@ -10,4 +10,10 @@
 // @exclude_match http://www.google.com/foo*
 // ==/UserScript==
 
+// ---docerion
+// type: test
+// title: Basic user script with full metadata block
+// summary: User script fixture carrying a complete metadata header with include, exclude, match and exclude_match patterns, used to exercise metadata parsing.
+// ---
+
 alert("Hello! This is my script.");

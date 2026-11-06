@@ -1,0 +1,4 @@
+# Docerion header of shared_module_about_invalid_type.json.
+type: test
+title: Shared module manifest with invalid about_page type
+summary: Manifest fixture with an about_page given as a list, used to test rejection of a wrong data type for the about page field.

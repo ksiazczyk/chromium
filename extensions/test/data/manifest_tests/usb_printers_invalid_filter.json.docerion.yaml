@@ -1,0 +1,4 @@
+# Docerion header of usb_printers_invalid_filter.json.
+type: test
+title: USB printers invalid filter manifest test fixture
+summary: Manifest fixture with a usb_printers filter that specifies both productId and interfaceClass, used to test rejection of invalid filters.

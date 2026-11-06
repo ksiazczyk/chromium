@@ -1,0 +1,4 @@
+# Docerion header of homepage_url_empty.json.
+type: test
+title: 'Manifest test: empty homepage_url'
+summary: Test manifest fixture with an empty homepage_url value for manifest validation testing.

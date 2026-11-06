@@ -1,0 +1,4 @@
+# Docerion header of externally_connectable_empty_matches.json.
+type: test
+title: Manifest fixture with empty externally_connectable matches
+summary: Manifest fixture with an empty externally_connectable matches list, used by ExternallyConnectableTest.WarningNothingSpecified.

@@ -1,0 +1,4 @@
+# Docerion header of csp_dictionary_with_unsafe_wasm.json.
+type: test
+title: CSP dictionary with unsafe WASM manifest fixture
+summary: Manifest v3 fixture whose CSP allows 'wasm-unsafe-eval' in worker-src for WebAssembly-related CSP tests.

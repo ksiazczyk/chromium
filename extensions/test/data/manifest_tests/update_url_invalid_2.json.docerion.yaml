@@ -1,0 +1,4 @@
+# Docerion header of update_url_invalid_2.json.
+type: test
+title: Invalid update URL manifest fixture 2
+summary: Test manifest fixture with update_url set to a bare hostname lacking a scheme, expected to fail validation.

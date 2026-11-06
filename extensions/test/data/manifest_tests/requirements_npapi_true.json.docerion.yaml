@@ -1,0 +1,4 @@
+# Docerion header of requirements_npapi_true.json.
+type: test
+title: NPAPI true requirements manifest fixture
+summary: Test manifest fixture declaring requirements plugins npapi as true, used to exercise valid requirements handling.

@@ -1,0 +1,4 @@
+# Docerion header of message_serialization_invalid.json.
+type: test
+title: message_serialization_invalid
+summary: Test manifest fixture with an invalid message_serialization string value for extension manifest validation.

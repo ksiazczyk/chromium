@@ -1,0 +1,4 @@
+# Docerion header of kiosk_required_platform_version_empty.json.
+type: test
+title: Kiosk app manifest with empty required platform version
+summary: Test manifest fixture with an empty kiosk.required_platform_version string value.

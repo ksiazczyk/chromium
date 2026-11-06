@@ -1,0 +1,4 @@
+# Docerion header of messages.json.
+type: test
+title: Serbian locale message catalog test fixture
+summary: Valid Serbian locale message catalog used as good-case test data for the unpacker's localization handling.

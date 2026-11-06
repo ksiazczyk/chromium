@@ -1,0 +1,4 @@
+# Docerion header of tts_engine_invalid_sample_rate_1.json.
+type: test
+title: Test manifest with non-numeric TTS engine sample rate
+summary: Manifest v3 fixture with tts_engine sample_rate set to the string '1', used to test numeric sample rate validation.

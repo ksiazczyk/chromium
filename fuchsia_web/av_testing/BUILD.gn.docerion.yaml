@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the AV sync tests
+summary: Defines the testonly av_sync_tests python library target with its pydeps file, build dependencies and bundled data files.

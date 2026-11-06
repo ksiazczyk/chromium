@@ -1,0 +1,4 @@
+# Docerion header of csp_insecure_src.json.
+type: test
+title: Insecure CSP source manifest fixture
+summary: Manifest v3 fixture whose CSP uses 'unsafe-eval' in worker-src, representing an insecure policy case.

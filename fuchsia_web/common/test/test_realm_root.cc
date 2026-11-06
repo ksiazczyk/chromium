@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestRealmRoot implementation
+// summary: Implements the test realm root that builds a RealmBuilder realm, monitors component lifecycle events, and verifies clean component termination on teardown.
+// ---
+
 #include "fuchsia_web/common/test/test_realm_root.h"
 
 #include <fuchsia/component/decl/cpp/fidl.h>

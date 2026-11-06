@@ -1,0 +1,4 @@
+# Docerion header of externally_connectable_all_urls.json.
+type: test
+title: Manifest fixture matching all URLs in externally_connectable
+summary: Manifest fixture with externally_connectable matches set to <all_urls>, used by ExternallyConnectableTest.AllURLs.

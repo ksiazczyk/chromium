@@ -1,0 +1,4 @@
+# Docerion header of update_url_invalid_1.json.
+type: test
+title: Invalid update URL manifest fixture 1
+summary: Test manifest fixture with an empty update_url that should be rejected during manifest validation.

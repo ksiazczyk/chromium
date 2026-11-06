@@ -1,0 +1,4 @@
+# Docerion header of page_action_manifest_version_2b.json.
+type: test
+title: Manifest v2 page action object popup fixture
+summary: Manifest v2 test fixture where default_popup is an object, a value type that is not allowed for manifest version 2.

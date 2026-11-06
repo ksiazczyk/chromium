@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DevTools list fetcher implementation
+// summary: Implements GetDevToolsListFromPort, which requests the DevTools /json/list endpoint on localhost and parses the JSON response.
+// ---
+
 #include "fuchsia_web/common/test/test_devtools_list_fetcher.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of messages.json.
+type: test
+title: en_US locale messages test fixture
+summary: Locale messages catalog in en_US used as test data for the unpacker's missing default data scenario.

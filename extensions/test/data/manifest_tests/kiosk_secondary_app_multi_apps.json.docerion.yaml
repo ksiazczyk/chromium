@@ -1,0 +1,4 @@
+# Docerion header of kiosk_secondary_app_multi_apps.json.
+type: test
+title: Kiosk app manifest with multiple secondary apps
+summary: Test manifest fixture listing several kiosk_secondary_apps with per-app enabled_on_launch settings.

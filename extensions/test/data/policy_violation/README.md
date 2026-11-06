@@ -1,3 +1,12 @@
+---
+type: readme
+title: Policy Violation Test Data
+summary: Describes the test data for manually testing policy-violating extension behavior, covering ext.crx, its private key ext.pem, and the rsp.py response server.
+relations:
+  - documents /extensions/test/data/policy_violation/ext.crx
+  - documents /extensions/test/data/policy_violation/rsp.py
+---
+
 # Policy Violation Test Data
 The files in this directory assist with manual testing policy-violating
 extension behavior.

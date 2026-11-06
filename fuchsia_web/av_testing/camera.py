@@ -1,6 +1,13 @@
 # Copyright 2024 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Camera recording helper
+# summary: Starts an av_sync_record process that records camera video and camera info files with configurable fps, duration, frame limit and serial number.
+# ---
+
 """Starts an av_sync_record process to record the video from the camera."""
 
 import logging

@@ -10,4 +10,10 @@
 // @run-at         document-start
 // ==/UserScript==
 
+// ---docerion
+// type: test
+// title: Document-start run-at user script test
+// summary: Chromium test user script that runs at document-start and alerts document.readyState to verify the document-start injection point.
+// ---
+
 alert(document.readyState);

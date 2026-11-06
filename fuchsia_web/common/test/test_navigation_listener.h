@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestNavigationListener class declaration
+// summary: Declares a navigation event listener test helper with RunUntil methods for URL, title, load, and back/forward navigation state expectations.
+// ---
+
 #ifndef FUCHSIA_WEB_COMMON_TEST_TEST_NAVIGATION_LISTENER_H_
 #define FUCHSIA_WEB_COMMON_TEST_TEST_NAVIGATION_LISTENER_H_
 

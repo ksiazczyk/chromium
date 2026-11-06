@@ -1,0 +1,4 @@
+# Docerion header of file_handlers_valid.json.
+type: test
+title: File handlers valid test manifest
+summary: Valid manifest test fixture with text, image and directory file handlers, including a verb and include_directories, as a positive baseline case.

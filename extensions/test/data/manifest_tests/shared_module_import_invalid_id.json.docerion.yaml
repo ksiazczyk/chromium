@@ -1,0 +1,4 @@
+# Docerion header of shared_module_import_invalid_id.json.
+type: test
+title: Test manifest with invalid shared module import ID
+summary: Manifest v2 fixture with a shared module import whose ID 'xyz' is not a valid extension ID, used to test import validation.

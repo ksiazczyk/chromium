@@ -1,0 +1,4 @@
+# Docerion header of override_history.json.
+type: test
+title: override_history
+summary: Manifest version 3 test fixture overriding the browser history page with history.html.

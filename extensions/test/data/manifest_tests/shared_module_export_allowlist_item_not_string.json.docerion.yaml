@@ -1,0 +1,4 @@
+# Docerion header of shared_module_export_allowlist_item_not_string.json.
+type: test
+title: Shared module export allowlist item that is not a string
+summary: Manifest fixture whose export allowlist contains an object instead of a string, used to test wrong item type handling.

@@ -1,0 +1,4 @@
+# Docerion header of event_rules.json.
+type: test
+title: Manifest fixture with event rules for declarative tests
+summary: Manifest v2 fixture declaring event_rules with conditions and actions, used by the DeclarativeManifestTest.Valid unit test.

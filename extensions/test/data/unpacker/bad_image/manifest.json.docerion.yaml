@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Bad image test extension manifest
+summary: Manifest for a unit test package whose icon points to not_really_an_image.png, a file that is not a real image.

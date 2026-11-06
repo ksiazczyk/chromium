@@ -1,0 +1,4 @@
+# Docerion header of requirements_valid_empty.json.
+type: test
+title: Valid empty requirements manifest fixture
+summary: Test manifest fixture without a requirements key, used as a valid baseline for requirements validation.

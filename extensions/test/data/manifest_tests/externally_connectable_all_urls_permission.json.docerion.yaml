@@ -1,0 +1,4 @@
+# Docerion header of externally_connectable_all_urls_permission.json.
+type: test
+title: Manifest fixture with deprecated externally_connectable.all_urls permission
+summary: Manifest fixture combining the deprecated externally_connectable.all_urls permission with <all_urls> matches to exercise deprecated permission handling.

@@ -1,0 +1,4 @@
+# Docerion header of requirements_invalid_3d_features.json.
+type: test
+title: Invalid 3D features requirements manifest fixture
+summary: Test manifest fixture with requirements 3D features set to false instead of a feature list, used to exercise invalid requirements validation.

@@ -1,0 +1,4 @@
+# Docerion header of kiosk_secondary_app_no_secondary_app.json.
+type: test
+title: Kiosk app manifest without secondary apps
+summary: Test manifest fixture for a kiosk-enabled app that defines no kiosk_secondary_apps.

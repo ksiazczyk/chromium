@@ -1,0 +1,4 @@
+# Docerion header of externally_connectable_nothing_specified.json.
+type: test
+title: Externally connectable nothing specified test manifest
+summary: Manifest fixture with an empty externally_connectable object for the ExternallyConnectableTest.WarningNothingSpecified unit test.

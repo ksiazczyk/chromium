@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for missing_messages_file test extension
+summary: Web extension manifest for an unpacker test fixture that declares default_locale en_US and expects each locale to provide a messages.json file.

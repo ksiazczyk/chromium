@@ -1,0 +1,4 @@
+# Docerion header of kiosk_required_platform_version_invalid.json.
+type: test
+title: Kiosk app manifest with invalid required platform version
+summary: Test manifest fixture with a malformed kiosk.required_platform_version value for invalid-case testing.
