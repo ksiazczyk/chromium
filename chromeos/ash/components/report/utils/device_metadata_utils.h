@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device metadata utilities header
+// summary: Declares helpers for retrieving the Chrome release channel, Chrome milestone, and full hardware class of a ChromeOS device.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_REPORT_UTILS_DEVICE_METADATA_UTILS_H_
 #define CHROMEOS_ASH_COMPONENTS_REPORT_UTILS_DEVICE_METADATA_UTILS_H_
 

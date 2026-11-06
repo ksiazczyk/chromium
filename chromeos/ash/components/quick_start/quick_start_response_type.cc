@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuickStartResponseType stream output operator
+// summary: Implements the stream output operator that prints human-readable names for each QuickStartResponseType enum value.
+// ---
+
 #include "chromeos/ash/components/quick_start/quick_start_response_type.h"
 
 namespace ash::quick_start {

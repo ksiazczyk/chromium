@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test helpers for checked weekly time tests
+// summary: Implements helpers that build weekly time and interval dictionaries, lists and intervals from JSON or time deltas for use in unit tests.
+// ---
+
 #include "chromeos/ash/components/policy/weekly_time/test_support.h"
 
 #include <vector>

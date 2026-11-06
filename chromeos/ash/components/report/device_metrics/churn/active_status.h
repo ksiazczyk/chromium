@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActiveStatus class header
+// summary: Declares the ActiveStatus class that tracks months since inception and the last 18 months of device activity for churn analysis.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_REPORT_DEVICE_METRICS_CHURN_ACTIVE_STATUS_H_
 #define CHROMEOS_ASH_COMPONENTS_REPORT_DEVICE_METRICS_CHURN_ACTIVE_STATUS_H_
 

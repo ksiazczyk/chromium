@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuickStartMessage class declaration
+// summary: Declares the QuickStartMessage class that wraps JSON request and response payloads and handles encoding, decoding and sandbox-checked reading of messages.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_QUICK_START_QUICK_START_MESSAGE_H_
 #define CHROMEOS_ASH_COMPONENTS_QUICK_START_QUICK_START_MESSAGE_H_
 

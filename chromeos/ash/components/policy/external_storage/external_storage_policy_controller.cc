@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: External storage policy controller implementation
+// summary: Implements checks for external storage disabled, read-only, allowlisted and writeable states based on prefs.
+// ---
+
 #include "chromeos/ash/components/policy/external_storage/external_storage_policy_controller.h"
 
 #include "base/values.h"

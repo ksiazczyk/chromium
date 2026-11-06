@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Restriction schedule delegate implementation
+// summary: Implements the delegate that shows upcoming logout and post-logout system notifications for the restriction schedule.
+// ---
+
 #include "chromeos/ash/components/policy/restriction_schedule/device_restriction_schedule_controller_delegate_impl.h"
 
 #include <string>

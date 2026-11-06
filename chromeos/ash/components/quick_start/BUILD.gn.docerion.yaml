@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Quick Start build targets
+summary: GN build file defining the quick_start static library, a test support source set with the fake decoder, and unit test targets with their dependencies.

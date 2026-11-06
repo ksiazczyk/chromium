@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for local_auth_factors
+summary: Lists the owners responsible for reviewing changes to the local_auth_factors directory.

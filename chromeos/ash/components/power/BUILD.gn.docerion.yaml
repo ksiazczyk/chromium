@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the ash power component
+summary: Defines the GN build target for the power component and its unit test source set with their dependencies.

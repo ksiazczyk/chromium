@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scheduler configuration manager unit tests
+// summary: Unit tests for SchedulerConfigurationManager covering startup behavior, debug daemon availability, command line defaults, user preferences, and policy overrides.
+// ---
+
 #include "chromeos/ash/components/scheduler_config/scheduler_configuration_manager.h"
 
 #include <memory>

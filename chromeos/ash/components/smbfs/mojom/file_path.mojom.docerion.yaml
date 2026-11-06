@@ -1,0 +1,4 @@
+# Docerion header of file_path.mojom.
+type: source
+title: Mojom definition of the FilePath struct
+summary: Defines the smbfs.mojom FilePath struct that stores an absolute path to a file or directory within an SMB share, shared between Chrome and Chrome OS.

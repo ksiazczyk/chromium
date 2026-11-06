@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test helper declarations and fake constants
+// summary: Declares test helpers and fake constants such as a fake high entropy seed, fake timestamps and a fake device activate date for unit tests.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_REPORT_UTILS_TEST_UTILS_H_
 #define CHROMEOS_ASH_COMPONENTS_REPORT_UTILS_TEST_UTILS_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the process_snapshot component
+summary: Defines the ChromeOS-only process_snapshot component target and its unit test source set, listing sources and dependencies.

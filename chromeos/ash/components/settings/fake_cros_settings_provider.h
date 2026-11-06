@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake cros settings provider header
+// summary: Declares FakeCrosSettingsProvider, a fake provider with typed setters and trusted status control used in tests.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_SETTINGS_FAKE_CROS_SETTINGS_PROVIDER_H_
 #define CHROMEOS_ASH_COMPONENTS_SETTINGS_FAKE_CROS_SETTINGS_PROVIDER_H_
 

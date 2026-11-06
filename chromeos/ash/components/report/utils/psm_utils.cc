@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PSM identifier utilities implementation
+// summary: Generates salted HMAC-SHA256 PSM identifiers for RLWE private membership queries from a high entropy seed, use case, and window id.
+// ---
+
 #include "chromeos/ash/components/report/utils/psm_utils.h"
 
 #include "base/logging.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UnlockManagerImpl unit tests
+// summary: Unit tests for UnlockManagerImpl using mock messengers, proximity monitors and Bluetooth adapters plus fake lock handlers, remote device life cycles and power manager clients.
+// ---
+
 #include "chromeos/ash/components/proximity_auth/unlock_manager_impl.h"
 
 #include <memory>

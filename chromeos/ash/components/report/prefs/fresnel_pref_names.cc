@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fresnel preference name constants
+// summary: Defines the string constants for ChromeOS device active ping and churn tracking preference names used when storing timestamps and active status in local prefs.
+// ---
+
 #include "chromeos/ash/components/report/prefs/fresnel_pref_names.h"
 
 namespace ash::report::prefs {

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the external_storage component
+summary: Defines the GN targets building the external_storage policy component, its unit tests and its test support library.

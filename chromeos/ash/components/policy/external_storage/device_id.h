@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceId struct for USB vendor and product IDs
+// summary: Declares the DeviceId type that unpacks external storage policy values into a vendor/product ID pair.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_POLICY_EXTERNAL_STORAGE_DEVICE_ID_H_
 #define CHROMEOS_ASH_COMPONENTS_POLICY_EXTERNAL_STORAGE_DEVICE_ID_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the restriction schedule component
+summary: Defines the restriction_schedule source set and its unit test target, including public headers, sources and dependencies.

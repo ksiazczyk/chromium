@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PsmClientManager implementation
+// summary: Implements PsmClientManager by forwarding Private Membership RLWE client operations such as client creation, OPRF and query requests, and response processing to its delegate.
+// ---
+
 #include "chromeos/ash/components/report/device_metrics/use_case/psm_client_manager.h"
 
 #include <utility>

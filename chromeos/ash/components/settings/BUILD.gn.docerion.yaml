@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the settings component
+summary: Defines the settings component, a test_support static library, and a unit_tests source set with their sources and dependencies.

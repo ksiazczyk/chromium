@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ObservationImpl class header
+// summary: Declares the ObservationImpl use case that reports churn observation data for three-month periods after a successful cohort ping.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_REPORT_DEVICE_METRICS_CHURN_OBSERVATION_IMPL_H_
 #define CHROMEOS_ASH_COMPONENTS_REPORT_DEVICE_METRICS_CHURN_OBSERVATION_IMPL_H_
 

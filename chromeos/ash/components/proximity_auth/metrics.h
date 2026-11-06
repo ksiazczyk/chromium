@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proximity auth metrics declarations
+// summary: Declares the RemoteSecuritySettingsState enum and functions for recording proximity RSSI and remote security settings metrics.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_PROXIMITY_AUTH_METRICS_H_
 #define CHROMEOS_ASH_COMPONENTS_PROXIMITY_AUTH_METRICS_H_
 

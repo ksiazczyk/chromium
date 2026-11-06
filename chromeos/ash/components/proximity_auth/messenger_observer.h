@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MessengerObserver interface
+// summary: Observer interface for Messenger events such as unlock event delivery, remote status updates, unlock responses and channel disconnection.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_PROXIMITY_AUTH_MESSENGER_OBSERVER_H_
 #define CHROMEOS_ASH_COMPONENTS_PROXIMITY_AUTH_MESSENGER_OBSERVER_H_
 

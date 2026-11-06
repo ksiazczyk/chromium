@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake lock handler implementation
+// summary: Implements a fake LockHandler that records Smart Lock state, auth results and unlock calls for use in tests.
+// ---
+
 #include "chromeos/ash/components/proximity_auth/fake_lock_handler.h"
 
 namespace proximity_auth {

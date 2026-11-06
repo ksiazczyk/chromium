@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Timezone matching helper implementation
+// summary: Implements GetKnownTimezoneOrNull, which matches a timezone against a known list by ID, canonical ID, or matching rules.
+// ---
+
 #include "chromeos/ash/components/settings/timezone_settings_helper.h"
 
 #include "base/check.h"

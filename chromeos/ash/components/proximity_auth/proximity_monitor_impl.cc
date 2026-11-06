@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proximity monitor implementation
+// summary: Implements proximity monitoring by polling Bluetooth RSSI over a secure channel, using a rolling average and threshold to decide whether unlocking is allowed.
+// ---
+
 #include "chromeos/ash/components/proximity_auth/proximity_monitor_impl.h"
 
 #include <math.h>

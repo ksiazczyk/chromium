@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build file for device policy test support
+summary: Defines a test-only static library that compiles the device policy test helpers and links them against base, session manager, and policy dependencies.

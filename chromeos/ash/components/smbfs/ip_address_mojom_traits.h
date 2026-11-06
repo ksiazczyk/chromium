@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IPAddress Mojo traits declaration
+// summary: Declares Mojo StructTraits mapping smbfs mojom IPAddress messages to net::IPAddress values.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_SMBFS_IP_ADDRESS_MOJOM_TRAITS_H_
 #define CHROMEOS_ASH_COMPONENTS_SMBFS_IP_ADDRESS_MOJOM_TRAITS_H_
 

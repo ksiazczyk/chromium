@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System features disable list policy utils header
+// summary: Declares functions to register disabled system features prefs and to determine whether apps disabled by the SystemFeaturesDisableList policy are hidden or blocked.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_POLICY_SYSTEM_FEATURES_DISABLE_LIST_SYSTEM_FEATURES_DISABLE_LIST_POLICY_UTILS_H_
 #define CHROMEOS_ASH_COMPONENTS_POLICY_SYSTEM_FEATURES_DISABLE_LIST_SYSTEM_FEATURES_DISABLE_LIST_POLICY_UTILS_H_
 

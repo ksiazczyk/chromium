@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the report component
+summary: Lists the ChromeOS, components and third-party directories and headers that code in this directory is allowed to include.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WeeklyTimeIntervalChecked unit tests
+// summary: Unit tests covering WeeklyTimeIntervalChecked equality, dictionary parsing error cases, duration calculation, and containment behavior.
+// ---
+
 #include "chromeos/ash/components/policy/weekly_time/weekly_time_interval_checked.h"
 
 #include <array>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the settings directory
+summary: Restricts includes to ash constants, base, policy proto, prefs, user manager, GAIA, and ICU, allowing testing headers only in test files.

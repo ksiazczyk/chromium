@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device settings cache unit tests
+// summary: Unit tests verifying storing and retrieving policy data in the device settings cache, including handling of corrupt data.
+// ---
+
 #include "chromeos/ash/components/settings/device_settings_cache.h"
 
 #include "components/policy/proto/chrome_device_policy.pb.h"

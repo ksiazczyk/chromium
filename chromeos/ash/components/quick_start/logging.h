@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Start logging macros
+// summary: Header defining the QS_LOG macro and the ScopedLogMessage wrapper used for all Quick Start logging.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_QUICK_START_LOGGING_H_
 #define CHROMEOS_ASH_COMPONENTS_QUICK_START_LOGGING_H_
 

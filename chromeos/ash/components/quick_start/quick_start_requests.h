@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Start request builder declarations
+// summary: Declares functions that build Quick Start request messages, including bootstrap options, assertion, GetInfo, Wi-Fi credentials and bootstrap state messages.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_QUICK_START_QUICK_START_REQUESTS_H_
 #define CHROMEOS_ASH_COMPONENTS_QUICK_START_QUICK_START_REQUESTS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fresnel preference utilities implementation
+// summary: Restores local state timestamps and churn statuses from the preserved file and builds preserved file contents from local state preferences.
+// ---
+
 #include "chromeos/ash/components/report/utils/pref_utils.h"
 
 #include "base/logging.h"

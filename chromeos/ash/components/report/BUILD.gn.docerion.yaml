@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the report component
+summary: Defines GN build targets for Fresnel prefs, the service protobuf, utility sources and the ash_report component with their dependencies.

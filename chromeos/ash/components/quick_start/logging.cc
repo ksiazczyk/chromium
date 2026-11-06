@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Start scoped logging implementation
+// summary: Implements ScopedLogMessage, which emits logs when severity, vlog level, or the quick-start-verbose-logging command line switch allows it.
+// ---
+
 #include "chromeos/ash/components/quick_start/logging.h"
 
 #include "base/command_line.h"

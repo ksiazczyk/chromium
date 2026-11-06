@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RemoteDeviceLifeCycleImpl unit tests
+// summary: Unit tests for RemoteDeviceLifeCycleImpl verifying state transitions from finding a connection through authentication to an established secure channel using fake secure channel clients.
+// ---
+
 #include "chromeos/ash/components/proximity_auth/remote_device_life_cycle_impl.h"
 
 #include <stddef.h>

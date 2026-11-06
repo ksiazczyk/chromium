@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: One-day active use case implementation
+// summary: Implements the daily device active reporting use case, running PSM OPRF and query membership checks plus Fresnel check-ins with UMA logging.
+// ---
+
 #include "chromeos/ash/components/report/device_metrics/actives/one_day_impl.h"
 
 #include "base/metrics/histogram_functions.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proximity Auth system implementation
+// summary: Implements the main Proximity Auth system for Smart Lock, managing remote device life cycles, unlock handling and screen lock events for focused users.
+// ---
+
 #include "chromeos/ash/components/proximity_auth/proximity_auth_system.h"
 
 #include "chromeos/ash/components/multidevice/logging/logging.h"

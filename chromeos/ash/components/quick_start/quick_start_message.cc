@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Start message parsing
+// summary: Implements QuickStartMessage::ReadMessage, parsing JSON payloads and mapping message types such as bootstrap configurations, bootstrap options, and quick start payloads.
+// ---
+
 #include "chromeos/ash/components/quick_start/quick_start_message.h"
 
 #include <memory>

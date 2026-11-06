@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Churn observation use case implementation
+// summary: Implements the monthly churn observation use case, sending PSM membership checks and observation import data to the Fresnel service.
+// ---
+
 #include "chromeos/ash/components/report/device_metrics/churn/observation_impl.h"
 
 #include "ash/constants/ash_features.h"

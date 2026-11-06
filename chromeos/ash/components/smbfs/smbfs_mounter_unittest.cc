@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for SmbFsMounter
+// summary: Unit tests exercising the smbfs mount flow with mock delegates, bootstrap and SmbFs implementations, a test mounter subclass and multiprocess test support.
+// ---
+
 #include "chromeos/ash/components/smbfs/smbfs_mounter.h"
 
 #include <string.h>

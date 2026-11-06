@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Real PSM client manager delegate implementation
+// summary: Implements the real PsmClientManager delegate that creates and drives an actual PrivateMembershipRlweClient for OPRF and query requests and membership response processing.
+// ---
+
 #include "chromeos/ash/components/report/device_metrics/use_case/real_psm_client_manager.h"
 
 #include <utility>

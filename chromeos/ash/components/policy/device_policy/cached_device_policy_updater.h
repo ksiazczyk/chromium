@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CachedDevicePolicyUpdater class header
+// summary: Declares a test helper for updating device policy held by the fake session manager, with usage notes and accessors for policy data and payload.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_POLICY_DEVICE_POLICY_CACHED_DEVICE_POLICY_UPDATER_H_
 #define CHROMEOS_ASH_COMPONENTS_POLICY_DEVICE_POLICY_CACHED_DEVICE_POLICY_UPDATER_H_
 

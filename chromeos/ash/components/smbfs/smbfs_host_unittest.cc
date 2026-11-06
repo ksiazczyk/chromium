@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for SmbFsHost
+// summary: Unit tests verifying SmbFsHost behavior on Mojo disconnection of the delegate or smbfs, unmount on destruction, and credential request handling using mock delegates and a disk mount manager.
+// ---
+
 #include "chromeos/ash/components/smbfs/smbfs_host.h"
 
 #include "base/files/file_util.h"

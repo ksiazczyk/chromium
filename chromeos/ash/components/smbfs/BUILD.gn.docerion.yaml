@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for the smbfs component
+summary: GN build file defining the smbfs component sources, dependencies and the unit_tests source set.

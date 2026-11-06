@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CachedDevicePolicyUpdater implementation
+// summary: Implements a test helper that loads, modifies, and commits device policy cached in the FakeSessionManagerClient, enforcing a single Commit call.
+// ---
+
 #include "chromeos/ash/components/policy/device_policy/cached_device_policy_updater.h"
 
 #include <string>

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata including shared mixins
+summary: Points this directory's DIR_METADATA at the shared COMMON_METADATA file so it inherits the Buganizer component settings.

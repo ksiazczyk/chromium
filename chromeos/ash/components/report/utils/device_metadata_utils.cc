@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device metadata utilities implementation
+// summary: Implements helpers that map Chrome release channels, fetch the Chrome milestone, and read the device hardware class for Fresnel reporting.
+// ---
+
 #include "chromeos/ash/components/report/utils/device_metadata_utils.h"
 
 #include <string_view>

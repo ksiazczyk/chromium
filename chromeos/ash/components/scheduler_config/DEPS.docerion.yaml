@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for scheduler_config
+summary: Include rules allowing this directory to depend on debug daemon client headers and the scheduler configuration base header.

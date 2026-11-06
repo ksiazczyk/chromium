@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ProcessSnapshotServer
+// summary: Verifies that the first observer triggers an immediate refresh and that adding and removing observers adjusts or stops the refresh timer correctly.
+// ---
+
 #include "chromeos/ash/components/process_snapshot/process_snapshot_server.h"
 
 #include <memory>

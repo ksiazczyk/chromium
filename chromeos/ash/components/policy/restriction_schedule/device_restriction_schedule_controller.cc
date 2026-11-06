@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device restriction schedule controller implementation
+// summary: Implements the controller that enforces the device restriction schedule policy, tracking state changes and scheduling logout notifications.
+// ---
+
 #include "chromeos/ash/components/policy/restriction_schedule/device_restriction_schedule_controller.h"
 
 #include <algorithm>

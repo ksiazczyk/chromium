@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ActiveStatus unit tests
+// summary: Unit tests for ActiveStatus covering value get/set, new value calculation across months, and churn metadata generation using mock time and prefs.
+// ---
+
 #include "chromeos/ash/components/report/device_metrics/churn/active_status.h"
 
 #include "base/check.h"

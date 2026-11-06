@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DarkResumeController class declaration
+// summary: Declares the controller that decides whether to re-suspend or stay awake during dark resume based on wake locks.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_POWER_DARK_RESUME_CONTROLLER_H_
 #define CHROMEOS_ASH_COMPONENTS_POWER_DARK_RESUME_CONTROLLER_H_
 

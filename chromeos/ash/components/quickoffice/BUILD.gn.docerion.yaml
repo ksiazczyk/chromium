@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: QuickOffice build definition
+summary: Defines the quickoffice static library target, listing its preference source files and dependencies on base and pref_registry.

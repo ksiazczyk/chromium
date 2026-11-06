@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for process_snapshot
+summary: Grants specific files in the directory permission to include content browser and test headers.

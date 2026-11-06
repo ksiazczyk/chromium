@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: External storage policy test support helpers
+// summary: Declares test helpers that set the ExternalStorageDisabled, ExternalStorageReadOnly, and ExternalStorageAllowlist policies in a PrefService.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_POLICY_EXTERNAL_STORAGE_TEST_SUPPORT_H_
 #define CHROMEOS_ASH_COMPONENTS_POLICY_EXTERNAL_STORAGE_TEST_SUPPORT_H_
 

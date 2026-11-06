@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for device_local_account
+summary: Restricts include rules so the package must not depend on components/policy, avoiding circular dependencies while other policy code may depend on it.

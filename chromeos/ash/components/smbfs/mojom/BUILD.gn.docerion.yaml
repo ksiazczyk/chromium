@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the smbfs mojom bindings
+summary: GN build file that defines the smbfs mojom component target, listing the mojom sources and the C++ typemaps for FilePath and IPAddress.

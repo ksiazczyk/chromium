@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device local account type implementation
+// summary: Implements helpers that validate, generate, and parse device-local account user IDs, mapping account types to domain prefixes such as public-accounts and kiosk-apps.
+// ---
+
 #include "chromeos/ash/components/policy/device_local_account/device_local_account_type.h"
 
 #include <string_view>

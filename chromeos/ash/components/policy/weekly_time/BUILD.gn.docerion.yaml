@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the weekly_time component
+summary: Defines the weekly_time component, internal and checked source sets, test support and unit test targets for ChromeOS Ash.

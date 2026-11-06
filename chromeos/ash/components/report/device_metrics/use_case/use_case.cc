@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UseCase base class implementation
+// summary: Implements UseCaseParameters accessors and the UseCase base class, including network traffic annotations for Fresnel PSM check-membership and check-in requests.
+// ---
+
 #include "chromeos/ash/components/report/device_metrics/use_case/use_case.h"
 
 #include "chromeos/ash/components/report/device_metrics/use_case/psm_client_manager.h"

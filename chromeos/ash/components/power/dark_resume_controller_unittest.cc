@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DarkResumeController unit tests
+// summary: Tests dark resume re-suspend behavior using a fake power manager client and a test wake lock provider.
+// ---
+
 #include "chromeos/ash/components/power/dark_resume_controller.h"
 
 #include <memory>

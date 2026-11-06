@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SmbFsMounter implementation
+// summary: Implements SmbFsMounter, which mounts SMB shares as network storage via the DiskMountManager, using Mojo bootstrap IPC and Kerberos or account hash options, and reports results through a done callback.
+// ---
+
 #include "chromeos/ash/components/smbfs/smbfs_mounter.h"
 
 #include <utility>

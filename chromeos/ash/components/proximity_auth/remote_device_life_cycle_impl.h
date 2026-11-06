@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RemoteDeviceLifeCycleImpl header
+// summary: Header for the RemoteDeviceLifeCycle implementation declaring state transitions, connection attempt handling, and messenger creation for a remote device.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_PROXIMITY_AUTH_REMOTE_DEVICE_LIFE_CYCLE_IMPL_H_
 #define CHROMEOS_ASH_COMPONENTS_PROXIMITY_AUTH_REMOTE_DEVICE_LIFE_CYCLE_IMPL_H_
 

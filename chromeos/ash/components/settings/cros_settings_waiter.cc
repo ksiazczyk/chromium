@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrosSettingsWaiter implementation
+// summary: Implements a waiter that subscribes to given cros settings and blocks in Wait() until any of them is updated.
+// ---
+
 #include "chromeos/ash/components/settings/cros_settings_waiter.h"
 
 #include "base/callback_list.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake remote device life cycle implementation
+// summary: Implements a fake remote device life cycle that tracks its state and notifies observers of state changes during tests.
+// ---
+
 #include "chromeos/ash/components/proximity_auth/fake_remote_device_life_cycle.h"
 
 #include "chromeos/ash/services/secure_channel/public/cpp/client/client_channel.h"

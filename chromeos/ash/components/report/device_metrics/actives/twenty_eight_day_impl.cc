@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Twenty-eight day active use case implementation
+// summary: Implements the 28-day rolling window device active reporting use case with a two-phase PSM membership check and Fresnel import check-in.
+// ---
+
 #include "chromeos/ash/components/report/device_metrics/actives/twenty_eight_day_impl.h"
 
 #include "ash/constants/ash_features.h"

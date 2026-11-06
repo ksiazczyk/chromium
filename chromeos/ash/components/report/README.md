@@ -1,3 +1,9 @@
+---
+type: readme
+title: Measure Device Counts & Churn
+summary: Explains how the component measures device counts and churn with private set membership, including contacts, summary and developer notes on the active_ts_ field.
+---
+
 # Measure Device Counts & Churn
 
 ## Contact Information

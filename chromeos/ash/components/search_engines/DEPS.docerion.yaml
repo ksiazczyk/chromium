@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the search_engines component
+summary: Allows the component to include headers from the account_id and search_engines components.

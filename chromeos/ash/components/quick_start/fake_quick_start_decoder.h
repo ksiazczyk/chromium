@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Quick Start decoder header
+// summary: Header declaring the FakeQuickStartDecoder test double with setters for user verification, FIDO assertion, WiFi credentials, and bootstrap responses.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_QUICK_START_FAKE_QUICK_START_DECODER_H_
 #define CHROMEOS_ASH_COMPONENTS_QUICK_START_FAKE_QUICK_START_DECODER_H_
 

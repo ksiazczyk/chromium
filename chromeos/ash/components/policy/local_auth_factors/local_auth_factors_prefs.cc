@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local auth factors preference registration
+// summary: Registers profile preferences for local auth factors complexity, verified password and PIN complexity, and the allowed auth factors list.
+// ---
+
 #include "chromeos/ash/components/policy/local_auth_factors/local_auth_factors_prefs.h"
 
 #include "ash/constants/ash_pref_names.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test helper declarations for checked weekly time tests
+// summary: Declares test helpers for constructing weekly time and interval values used by the checked weekly time unit tests.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_POLICY_WEEKLY_TIME_TEST_SUPPORT_H_
 #define CHROMEOS_ASH_COMPONENTS_POLICY_WEEKLY_TIME_TEST_SUPPORT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuickStartMetrics class declaration
+// summary: Declares the QuickStartMetrics class with enums for screens, close reasons and exit reasons used to report Quick Start setup metrics.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_QUICK_START_QUICK_START_METRICS_H_
 #define CHROMEOS_ASH_COMPONENTS_QUICK_START_QUICK_START_METRICS_H_
 

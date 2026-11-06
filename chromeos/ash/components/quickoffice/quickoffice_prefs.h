@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuickOffice preferences header
+// summary: Declares the force file download preference name constant and the RegisterProfilePrefs function for the quickoffice namespace.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_QUICKOFFICE_QUICKOFFICE_PREFS_H_
 #define CHROMEOS_ASH_COMPONENTS_QUICKOFFICE_QUICKOFFICE_PREFS_H_
 

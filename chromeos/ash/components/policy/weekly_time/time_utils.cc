@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Weekly time timezone utilities implementation
+// summary: Implements timezone to GMT offset calculation with daylight saving handling, interval conversion to GMT, containment checks and next event lookup.
+// ---
+
 #include "chromeos/ash/components/policy/weekly_time/time_utils.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UseCase base class header
+// summary: Declares ChromeDeviceMetadataParameters, UseCaseParameters, and the UseCase base class shared by Fresnel reporting use cases such as 1DA, 28DA, and churn.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_REPORT_DEVICE_METRICS_USE_CASE_USE_CASE_H_
 #define CHROMEOS_ASH_COMPONENTS_REPORT_DEVICE_METRICS_USE_CASE_USE_CASE_H_
 

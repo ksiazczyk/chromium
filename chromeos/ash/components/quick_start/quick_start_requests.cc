@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Start request builders implementation
+// summary: Implements builders for Quick Start requests such as bootstrap options, FIDO GetInfo and GetAssertion, Wi-Fi credential requests and bootstrap state messages.
+// ---
+
 #include "chromeos/ash/components/quick_start/quick_start_requests.h"
 
 #include "base/base64.h"

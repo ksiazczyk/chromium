@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Buganizer metadata for the policy directory
+summary: Specifies the internal and public Buganizer issue tracker component IDs used for bugs filed against this directory.

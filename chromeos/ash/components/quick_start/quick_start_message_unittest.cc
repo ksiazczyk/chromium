@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: QuickStartMessage unit tests
+// summary: Unit tests verifying that QuickStartMessage reads plain and base64-encoded JSON payloads and fails on unexpected message types or missing payloads.
+// ---
+
 #include "chromeos/ash/components/quick_start/quick_start_message.h"
 
 #include "base/base64.h"

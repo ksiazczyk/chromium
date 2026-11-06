@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IdentityManagerProvider singleton implementation
+// summary: Implements the process-wide IdentityManagerProvider singleton with checks on construction, destruction and access via Get().
+// ---
+
 #include "chromeos/ash/components/signin/identity_manager_provider.h"
 
 #include "base/check.h"

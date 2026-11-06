@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password and PIN complexity validation implementation
+// summary: Implements complexity checks for passwords and PINs under the LocalAuthFactorsComplexity policy, mapping complexity levels to validation rules.
+// ---
+
 #include "chromeos/ash/components/policy/local_auth_factors/local_auth_factors_complexity.h"
 
 #include <algorithm>

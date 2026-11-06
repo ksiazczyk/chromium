@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick Start request unit tests
+// summary: Unit tests for request builders that check CBOR-encoded GetAssertion requests contain the expected relying party ID, client data hash and options.
+// ---
+
 #include "chromeos/ash/components/quick_start/quick_start_requests.h"
 
 #include "components/cbor/reader.h"

@@ -1,0 +1,4 @@
+# Docerion header of smbfs.mojom.
+type: source
+title: Mojom interfaces for the smbfs service
+summary: Defines the SmbFs, SmbFsBootstrap and SmbFsDelegate interfaces plus mount options, error enums and credential structs used to mount SMB shares.

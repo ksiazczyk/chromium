@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for system_features_disable_list
+summary: Declares the allowed include rules for CrosSettings, policy constants, and user_manager headers used within the system_features_disable_list component.

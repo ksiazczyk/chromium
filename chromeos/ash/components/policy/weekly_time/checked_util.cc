@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Checked weekly time utility implementations
+// summary: Implements helpers that parse weekly time interval lists, check containment, find the next interval event and add offsets in local time.
+// ---
+
 #include "chromeos/ash/components/policy/weekly_time/checked_util.h"
 
 #include <algorithm>

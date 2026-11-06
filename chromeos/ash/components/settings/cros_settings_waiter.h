@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrosSettingsWaiter class header
+// summary: Declares CrosSettingsWaiter, which waits for updates to specified cros settings and stops waiting when any of them changes.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_SETTINGS_CROS_SETTINGS_WAITER_H_
 #define CHROMEOS_ASH_COMPONENTS_SETTINGS_CROS_SETTINGS_WAITER_H_
 

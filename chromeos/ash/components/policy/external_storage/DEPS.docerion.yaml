@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for external_storage
+summary: Grants this directory include access to the ChromeOS ash and components disks modules.

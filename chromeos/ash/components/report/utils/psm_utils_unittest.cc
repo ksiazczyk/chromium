@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PSM identifier generation unit tests
+// summary: Unit tests verifying PSM identifier generation for valid inputs and that missing seed, use case or window id parameters yield no identifier.
+// ---
+
 #include "chromeos/ash/components/report/utils/psm_utils.h"
 
 #include "chromeos/ash/components/report/utils/test_utils.h"

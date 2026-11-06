@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for password and PIN complexity checks
+// summary: Tests password and PIN complexity validation across all complexity levels, covering length, character classes, repetitions and sequences.
+// ---
+
 #include "chromeos/ash/components/policy/local_auth_factors/local_auth_factors_complexity.h"
 
 #include <string>

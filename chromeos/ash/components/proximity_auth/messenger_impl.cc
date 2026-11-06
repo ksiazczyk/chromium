@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Easy Unlock messenger implementation
+// summary: Implements the Easy Unlock messenger, queueing JSON messages over the secure channel and dispatching remote status updates to observers.
+// ---
+
 #include "chromeos/ash/components/proximity_auth/messenger_impl.h"
 
 #include <memory>

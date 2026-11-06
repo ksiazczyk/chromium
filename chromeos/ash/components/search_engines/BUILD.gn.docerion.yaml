@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the ash search_engines component
+summary: Defines the static_library build target for the ChromeOS-side TemplateURLService accessor, listing its public header, sources, and dependencies.

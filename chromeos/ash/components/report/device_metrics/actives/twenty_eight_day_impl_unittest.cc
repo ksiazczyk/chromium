@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Twenty-eight day active use case unit tests
+// summary: Unit tests for the 28-day active use case, covering first and second phase membership response cases and direct check-in scenarios.
+// ---
+
 #include "chromeos/ash/components/report/device_metrics/actives/twenty_eight_day_impl.h"
 
 #include <memory>

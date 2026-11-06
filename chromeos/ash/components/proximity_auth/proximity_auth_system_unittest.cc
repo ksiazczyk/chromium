@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Proximity Auth system unit tests
+// summary: Unit tests for ProximityAuthSystem using mock unlock managers, fake remote device life cycles and a testable harness to verify device registration and lock screen behavior.
+// ---
+
 #include "chromeos/ash/components/proximity_auth/proximity_auth_system.h"
 
 #include <memory>

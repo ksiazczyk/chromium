@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Buganizer component metadata for the settings directory
+summary: Maps the directory to Buganizer components 1111617 and 1185520 for internal and public issue tracking.

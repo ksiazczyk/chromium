@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ProximityMonitorImpl unit tests
+// summary: Unit tests for ProximityMonitorImpl covering Bluetooth-based proximity state changes, RSSI thresholds, and observer notifications using mock adapters and fake secure channels.
+// ---
+
 #include "chromeos/ash/components/proximity_auth/proximity_monitor_impl.h"
 
 #include <memory>

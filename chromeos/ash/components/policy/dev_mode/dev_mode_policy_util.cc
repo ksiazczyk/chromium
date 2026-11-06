@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dev mode policy utility implementation
+// summary: Implements helpers that parse device policy to read the DeviceBlockDevmode setting and decide whether blocking developer mode is allowed.
+// ---
+
 #include "chromeos/ash/components/policy/dev_mode/dev_mode_policy_util.h"
 
 #include "ash/constants/ash_switches.h"

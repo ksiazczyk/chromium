@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Quick Start include rules
+summary: DEPS file listing the allowed include directories for nearby services, CBOR, metrics, and sandbox policy within this component.

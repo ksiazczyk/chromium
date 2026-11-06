@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Weekly time timezone utilities declarations
+// summary: Declares utilities for timezone to GMT offsets, converting weekly time intervals to GMT, containment checks and next event time lookup.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_POLICY_WEEKLY_TIME_TIME_UTILS_H_
 #define CHROMEOS_ASH_COMPONENTS_POLICY_WEEKLY_TIME_TIME_UTILS_H_
 

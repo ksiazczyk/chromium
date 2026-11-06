@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for DeviceId
+// summary: Tests DeviceId parsing from dictionaries, uint32 pairs, hex strings and disks, including invalid inputs.
+// ---
+
 #include "chromeos/ash/components/policy/external_storage/device_id.h"
 
 #include <optional>

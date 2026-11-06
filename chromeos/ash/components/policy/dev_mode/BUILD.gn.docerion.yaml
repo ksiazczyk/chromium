@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the dev_mode policy component
+summary: Defines the GN build target for the dev_mode component, listing its public header, sources and dependencies.

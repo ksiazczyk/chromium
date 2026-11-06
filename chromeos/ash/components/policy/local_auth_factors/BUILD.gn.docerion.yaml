@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the local_auth_factors component
+summary: Defines the local_auth_factors component build target with its sources, public headers and dependencies, plus the unit_tests source set.

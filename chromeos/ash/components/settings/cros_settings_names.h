@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Constant names for cros device settings
+// summary: Declares inline constexpr path names for all cros.* settings, covering accounts, allowlists, kiosk apps, and related device policies.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_SETTINGS_CROS_SETTINGS_NAMES_H_
 #define CHROMEOS_ASH_COMPONENTS_SETTINGS_CROS_SETTINGS_NAMES_H_
 

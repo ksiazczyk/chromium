@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stub PSM client manager delegate header
+// summary: Declares StubPsmClientManagerDelegate with setter methods for configuring test cipher keys, seeds, and canned PSM protocol responses used in unit tests.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_REPORT_DEVICE_METRICS_USE_CASE_STUB_PSM_CLIENT_MANAGER_H_
 #define CHROMEOS_ASH_COMPONENTS_REPORT_DEVICE_METRICS_USE_CASE_STUB_PSM_CLIENT_MANAGER_H_
 

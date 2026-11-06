@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DarkResumeController implementation
+// summary: Implements dark resume handling that re-suspends the device based on wake lock activity and hard timeout timers.
+// ---
+
 #include "chromeos/ash/components/power/dark_resume_controller.h"
 
 #include <utility>

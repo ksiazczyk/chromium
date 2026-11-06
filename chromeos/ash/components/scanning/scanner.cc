@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scanner class implementation
+// summary: Implements ScannerDeviceName constructors, comparison operators, and Scanner copy and assignment behavior in the ash namespace.
+// ---
+
 #include "chromeos/ash/components/scanning/scanner.h"
 
 namespace ash {

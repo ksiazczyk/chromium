@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CohortImpl class header
+// summary: Declares the CohortImpl use case that performs the monthly churn cohort PSM check-membership and check-in flow via network requests.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_REPORT_DEVICE_METRICS_CHURN_COHORT_IMPL_H_
 #define CHROMEOS_ASH_COMPONENTS_REPORT_DEVICE_METRICS_CHURN_COHORT_IMPL_H_
 

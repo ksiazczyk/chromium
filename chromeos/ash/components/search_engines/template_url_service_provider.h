@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TemplateURLServiceProvider interface
+// summary: Declares an abstract singleton that exposes the TemplateURLService for a given AccountId to ChromeOS callers without a dependency on the chrome-side Profile-keyed factory.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_SEARCH_ENGINES_TEMPLATE_URL_SERVICE_PROVIDER_H_
 #define CHROMEOS_ASH_COMPONENTS_SEARCH_ENGINES_TEMPLATE_URL_SERVICE_PROVIDER_H_
 

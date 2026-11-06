@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserLoginPermissionTracker header
+// summary: Declares UserLoginPermissionTracker, which checks whether a user is allowed to log in on the device via CrosSettings.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_SETTINGS_USER_LOGIN_PERMISSION_TRACKER_H_
 #define CHROMEOS_ASH_COMPONENTS_SETTINGS_USER_LOGIN_PERMISSION_TRACKER_H_
 
