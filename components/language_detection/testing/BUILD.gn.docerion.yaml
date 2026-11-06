@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Language detection testing build rules
+summary: Defines the test-only static library with language detection test utilities and bundles the valid TFLite model for unit tests.

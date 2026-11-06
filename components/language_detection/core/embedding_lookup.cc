@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TFLite embedding lookup custom op
+// summary: Implements a TFLite custom embedding lookup operator with support for quantized embeddings and configurable precision bits.
+// ---
+
 #include "components/language_detection/core/embedding_lookup.h"
 
 #include <type_traits>

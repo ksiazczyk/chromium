@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Migration delegate class declaration
+// summary: Declares a small class that strictly performs the migration functionality of SharedProtoDatabase between unique databases.
+// ---
+
 #ifndef COMPONENTS_LEVELDB_PROTO_INTERNAL_MIGRATION_DELEGATE_H_
 #define COMPONENTS_LEVELDB_PROTO_INTERNAL_MIGRATION_DELEGATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ULP metrics logger implementation
+// summary: Implements ULPMetricsLogger methods that record UMA histograms about User Language Profile initiation, including language counts, overlaps, and missing languages.
+// ---
+
 #include "components/language/core/browser/ulp_metrics_logger.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens URL utilities header
+// summary: Declares constants and helper functions for building and inspecting Google Lens request URLs, including query parameters, request ID encoding, and mime type mapping.
+// ---
+
 #ifndef COMPONENTS_LENS_LENS_URL_UTILS_H_
 #define COMPONENTS_LENS_LENS_URL_UTILS_H_
 

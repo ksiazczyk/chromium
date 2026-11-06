@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ULP language code locator implementation
+// summary: Implements UlpLanguageCodeLocator, returning language codes for a latitude and longitude from serialized quadtrees with results cached in local state prefs.
+// ---
+
 #include "components/language/content/browser/ulp_language_code_locator/ulp_language_code_locator.h"
 
 #include <memory>

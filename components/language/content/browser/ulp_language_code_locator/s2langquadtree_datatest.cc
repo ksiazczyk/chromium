@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: S2 language quadtree data tests
+// summary: Data-driven tests that check deserialized rank 0-2 quadtrees return the languages listed in CSV test data for sample coordinates.
+// ---
+
 #include <map>
 #include <string>
 #include <vector>

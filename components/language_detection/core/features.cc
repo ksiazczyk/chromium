@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Language detection feature flag definitions
+// summary: Defines the kLazyUpdateTranslateModel feature, enabled by default, which controls lazy initiation of TranslateAgent in ChromeRenderFrameObserver.
+// ---
+
 #include "components/language_detection/core/features.h"
 
 #include "base/feature_list.h"

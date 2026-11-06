@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens URL query parameter utilities implementation
+// summary: Builds and parses Lens Web URL query parameters for entry points, surfaces, invocation sources, and metadata.
+// ---
+
 #include "components/lens/lens_url_utils.h"
 
 #include <map>

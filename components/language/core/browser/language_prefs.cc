@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LanguagePrefs implementation
+// summary: Implements LanguagePrefs, registering and maintaining accept, selected, forced, and platform-specific language preferences in Chromium.
+// ---
+
 #include "components/language/core/browser/language_prefs.h"
 
 #include <algorithm>

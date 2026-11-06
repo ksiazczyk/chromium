@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proto database selector implementation
+// summary: Implements selection between unique and shared proto databases, including initialization state recording and migration handling.
+// ---
+
 #include "components/leveldb_proto/internal/proto_database_selector.h"
 
 #include <memory>

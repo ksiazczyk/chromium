@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: S2 language quadtree and serialized language tree declarations
+// summary: Declares the SerializedLanguageTree interface, a bitset-backed implementation and the S2LangQuadTreeNode quadtree that maps S2 cells to language codes.
+// ---
+
 #ifndef COMPONENTS_LANGUAGE_CONTENT_BROWSER_ULP_LANGUAGE_CODE_LOCATOR_S2LANGQUADTREE_H_
 #define COMPONENTS_LANGUAGE_CONTENT_BROWSER_ULP_LANGUAGE_CODE_LOCATOR_S2LANGQUADTREE_H_
 

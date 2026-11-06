@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Application locale utility
+// summary: Provides GetApplicationLocale, which resolves the application locale from local state preferences and platform defaults via l10n_util.
+// ---
+
 #include "components/language/core/browser/locale_util.h"
 
 #include "build/build_config.h"

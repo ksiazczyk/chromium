@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens overlay metrics implementation
+// summary: Implements Lens overlay metrics, converting invocation sources, interaction types, and MIME types to strings and recording usage metrics.
+// ---
+
 #include "components/lens/lens_overlay_metrics.h"
 
 #include <cstddef>

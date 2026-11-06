@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens upload chunker class declarations
+// summary: Declares LensUploadChunker, which manages chunking, compression, progress, and retries for uploading large files to the Lens server.
+// ---
+
 #ifndef COMPONENTS_LENS_LENS_UPLOAD_CHUNKER_H_
 #define COMPONENTS_LENS_LENS_UPLOAD_CHUNKER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens overlay permission utilities header
+// summary: Declares Lens Overlay preference names, the enterprise policy enum, and functions for checking permission to share page data with the server.
+// ---
+
 #ifndef COMPONENTS_LENS_LENS_OVERLAY_PERMISSION_UTILS_H_
 #define COMPONENTS_LENS_LENS_OVERLAY_PERMISSION_UTILS_H_
 

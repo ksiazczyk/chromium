@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tokenization utilities for ngram hashing
+// summary: Implements Unicode-aware tokenization with prefix and suffix markers, replacement of non-alphanumeric tokens, and lowercase conversion for ngram hashing.
+// ---
+
 #include "components/language_detection/core/ngram_hash_ops_utils.h"
 
 #include <cstring>

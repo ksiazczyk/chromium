@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LanguageProfileDelegate
+// summary: Interface for retrieving device language profile data as a preference-ordered list of language tags for a given account.
+// ---
+
 package org.chromium.components.language;
 
 import org.chromium.build.annotations.NullMarked;

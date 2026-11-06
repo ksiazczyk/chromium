@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LanguageDetectionModelProvider unit tests
+// summary: Unit tests verifying that the provider reports no valid model initially and that replacing and unloading a model file updates availability as expected.
+// ---
+
 #include "components/language_detection/core/browser/language_detection_model_provider.h"
 
 #include "base/test/task_environment.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens overlay metrics definitions
+// summary: Declares session-end metric structs and recording functions for Lens overlay permissions, interactions, and contextual searchbox usage.
+// ---
+
 #ifndef COMPONENTS_LENS_LENS_OVERLAY_METRICS_H_
 #define COMPONENTS_LENS_LENS_OVERLAY_METRICS_H_
 

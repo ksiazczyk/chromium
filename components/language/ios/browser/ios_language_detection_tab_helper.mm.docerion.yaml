@@ -1,0 +1,4 @@
+# Docerion header of ios_language_detection_tab_helper.mm.
+type: source
+title: IOSLanguageDetectionTabHelper implementation
+summary: Implements page language detection, text retrieval from JavaScript, content-language header extraction, and TFLite model evaluation metrics.

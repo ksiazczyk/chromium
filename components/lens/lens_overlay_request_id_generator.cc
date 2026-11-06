@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens overlay request ID generator implementation
+// summary: Implements generation, parsing, and updating of Lens Overlay request IDs, including sequence, analytics, context, and routing identifiers.
+// ---
+
 #include "components/lens/lens_overlay_request_id_generator.h"
 
 #include "base/base64url.h"

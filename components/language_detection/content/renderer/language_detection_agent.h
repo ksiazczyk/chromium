@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LanguageDetectionAgent class declaration
+// summary: Declares the RenderFrameObserver agent that handles language detection for translate and manages deferred model requests per render frame.
+// ---
+
 #ifndef COMPONENTS_LANGUAGE_DETECTION_CONTENT_RENDERER_LANGUAGE_DETECTION_AGENT_H_
 #define COMPONENTS_LANGUAGE_DETECTION_CONTENT_RENDERER_LANGUAGE_DETECTION_AGENT_H_
 

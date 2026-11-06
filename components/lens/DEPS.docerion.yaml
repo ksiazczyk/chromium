@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Lens component include dependency rules
+summary: Lists allowed include dependencies for the Lens component, with specific rules for unit tests and the tab contextualization controller.

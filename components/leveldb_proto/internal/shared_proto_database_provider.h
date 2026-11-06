@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedProtoDatabaseProvider class declaration
+// summary: Declares a helper class holding a weak pointer to ProtoDatabaseProvider so clients can request a shared SharedProtoDatabase instance on the correct sequence.
+// ---
+
 #ifndef COMPONENTS_LEVELDB_PROTO_INTERNAL_SHARED_PROTO_DATABASE_PROVIDER_H_
 #define COMPONENTS_LEVELDB_PROTO_INTERNAL_SHARED_PROTO_DATABASE_PROVIDER_H_
 

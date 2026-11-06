@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens overlay request ID generator header
+// summary: Declares the request ID generator class and the update modes used to create Lens Overlay request IDs for different request types.
+// ---
+
 #ifndef COMPONENTS_LENS_LENS_OVERLAY_REQUEST_ID_GENERATOR_H_
 #define COMPONENTS_LENS_LENS_OVERLAY_REQUEST_ID_GENERATOR_H_
 

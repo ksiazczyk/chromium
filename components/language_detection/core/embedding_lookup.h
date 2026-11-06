@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Embedding lookup custom op for TFLite language detection
+// summary: Declares Register_EMBEDDING_LOOKUP, a custom TFLite op that looks up embeddings for indices and returns their mean, supporting n-bit quantized embedding tables.
+// ---
+
 #ifndef COMPONENTS_LANGUAGE_DETECTION_CORE_EMBEDDING_LOOKUP_H_
 #define COMPONENTS_LANGUAGE_DETECTION_CORE_EMBEDDING_LOOKUP_H_
 

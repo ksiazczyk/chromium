@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the leveldb_proto component
+summary: Defines GN build targets for the LevelDB proto database component, including the proto library, main component sources, test support, and unit tests.

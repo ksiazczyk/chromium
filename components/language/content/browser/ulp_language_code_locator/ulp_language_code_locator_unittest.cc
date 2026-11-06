@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ULP language code locator unit tests
+// summary: Unit tests for UlpLanguageCodeLocator covering language lookup across quadtrees, idempotence and pref-based caching.
+// ---
+
 #include "components/language/content/browser/ulp_language_code_locator/ulp_language_code_locator.h"
 
 #include <bitset>

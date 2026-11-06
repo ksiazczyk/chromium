@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens feature flag declarations
+// summary: Declares the Lens feature flags with component export and comments describing what each flag enables.
+// ---
+
 #ifndef COMPONENTS_LENS_LENS_FEATURES_H_
 #define COMPONENTS_LENS_LENS_FEATURES_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LevelDB database class declaration
+// summary: Declares the LevelDB class that interacts with the third-party LevelDB module, exposing init, save, load and iterator operations.
+// ---
+
 #ifndef COMPONENTS_LEVELDB_PROTO_INTERNAL_LEVELDB_DATABASE_H_
 #define COMPONENTS_LEVELDB_PROTO_INTERNAL_LEVELDB_DATABASE_H_
 

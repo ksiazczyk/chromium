@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Language detection model implementation
+// summary: Implements loading the TFLite language detection model from file and running predictions, recording model state and timing via UMA histograms.
+// ---
+
 #include "components/language_detection/core/language_detection_model.h"
 
 #include <algorithm>

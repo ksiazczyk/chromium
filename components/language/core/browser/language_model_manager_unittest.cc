@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Language model manager unit tests
+// summary: Unit tests for LanguageModelManager verifying default and changed primary model types and retrieval of fluent and ULP language models.
+// ---
+
 #include "components/language/core/browser/language_model_manager.h"
 
 #include <memory>

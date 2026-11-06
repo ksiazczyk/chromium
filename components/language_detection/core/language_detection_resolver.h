@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TFLite op resolver for the language detection model
+// summary: Defines CreateLangIdResolver, registering the minimal set of builtin and custom TFLite ops required to run the language detection model.
+// ---
+
 #ifndef COMPONENTS_LANGUAGE_DETECTION_CORE_LANGUAGE_DETECTION_RESOLVER_H_
 #define COMPONENTS_LANGUAGE_DETECTION_CORE_LANGUAGE_DETECTION_RESOLVER_H_
 

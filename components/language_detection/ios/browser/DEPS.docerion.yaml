@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS
+summary: Declares include rules allowing keyed service and translate language detection dependencies for the iOS browser directory.

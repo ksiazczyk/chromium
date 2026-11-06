@@ -1,0 +1,4 @@
+# Docerion header of language_detection_java_script_feature.mm.
+type: source
+title: LanguageDetectionJavaScriptFeature implementation
+summary: Injects the language detection script into main frames and relays captured text messages to the tab helper.

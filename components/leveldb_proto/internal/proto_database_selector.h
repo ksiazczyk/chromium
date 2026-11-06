@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProtoDatabaseSelector class header
+// summary: Declares ProtoDatabaseSelector, which initializes proto databases as unique or shared, serializes transactions, and records UMA init states including migration outcomes.
+// ---
+
 #ifndef COMPONENTS_LEVELDB_PROTO_INTERNAL_PROTO_DATABASE_SELECTOR_H_
 #define COMPONENTS_LEVELDB_PROTO_INTERNAL_PROTO_DATABASE_SELECTOR_H_
 

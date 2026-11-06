@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the language content browser component
+summary: Grants include access to content/public/browser, net and the device geolocation service headers used by this component.

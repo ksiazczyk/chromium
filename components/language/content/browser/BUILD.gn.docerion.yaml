@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the language content browser component
+summary: Defines GN build targets for the geo language code locator, the browser static library and its unit tests with their dependencies.

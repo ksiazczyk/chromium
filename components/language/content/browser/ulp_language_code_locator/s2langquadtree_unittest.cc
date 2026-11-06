@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: S2 language quadtree unit tests
+// summary: Unit tests covering S2LangQuadTreeNode deserialization and language lookup for leaf, internal and absent cells.
+// ---
+
 #include "components/language/content/browser/ulp_language_code_locator/s2langquadtree.h"
 
 #include <string>

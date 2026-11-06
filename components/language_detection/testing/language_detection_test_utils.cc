@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Language detection test utilities implementation
+// summary: Implements helpers that locate, open, and load the valid language detection model file for use in tests.
+// ---
+
 #include "components/language_detection/testing/language_detection_test_utils.h"
 
 #include <memory>

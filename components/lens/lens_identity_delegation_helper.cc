@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens identity delegation helper implementation
+// summary: Fetches first-party identity delegation headers by validating accounts and SAPISID cookies, and records histograms for fetch status, errors, and timing.
+// ---
+
 #include "components/lens/lens_identity_delegation_helper.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ProtoDatabaseImpl unit tests
+// summary: Unit tests for ProtoDatabaseImpl covering unique and shared database initialization, migration and client struct support.
+// ---
+
 #include "components/leveldb_proto/internal/proto_database_impl.h"
 
 #include "base/files/file_util.h"

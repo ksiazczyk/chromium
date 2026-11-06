@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BackgroundFile implementation
+// summary: Implements BackgroundFile, which opens, replaces and closes files on a background task runner to avoid blocking IO on the main sequence.
+// ---
+
 #include "components/language_detection/core/background_file.h"
 
 #include "base/functional/bind.h"

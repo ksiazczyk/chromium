@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Lens component GN build targets
+summary: Defines GN build targets for the Lens component, including the lens static library, buildflag headers, mojo bindings, feature flags, and unit tests.

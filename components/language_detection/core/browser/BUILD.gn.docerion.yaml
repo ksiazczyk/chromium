@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the language detection model service
+summary: Defines the language_detection_model_service static library and its unit_tests source set, listing sources and dependencies for the browser language detection component.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Language detection core include rules
+summary: DEPS file listing the include rules that permit dependencies on optimization guide, translate, and third-party libraries such as tflite.

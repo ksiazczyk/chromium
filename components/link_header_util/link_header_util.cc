@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Link header splitting and parsing implementation
+// summary: Implements splitting of Link headers into individual values and parsing of values into URLs and parameters, including quoted string handling.
+// ---
+
 #include "components/link_header_util/link_header_util.h"
 
 #include <algorithm>

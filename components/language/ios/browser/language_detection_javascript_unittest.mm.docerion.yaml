@@ -1,0 +1,4 @@
+# Docerion header of language_detection_javascript_unittest.mm.
+type: test
+title: Language detection JavaScript unit tests for iOS
+summary: Objective-C++ unit tests that run the iOS language detection JavaScript in a web view and verify html lang attribute handling and buffered text capture.

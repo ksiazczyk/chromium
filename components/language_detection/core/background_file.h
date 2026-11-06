@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BackgroundFile class declaration
+// summary: Declares the BackgroundFile class, a wrapper around base::File that ensures file open and close operations run on a background task runner.
+// ---
+
 #ifndef COMPONENTS_LANGUAGE_DETECTION_CORE_BACKGROUND_FILE_H_
 #define COMPONENTS_LANGUAGE_DETECTION_CORE_BACKGROUND_FILE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Locale splitting and UI locale conversion
+// summary: Implements splitting a locale into main and tail parts, extracting the base language, and converting an input locale to an actual UI locale.
+// ---
+
 #include "components/language/core/common/locale_util.h"
 
 #include <stddef.h>

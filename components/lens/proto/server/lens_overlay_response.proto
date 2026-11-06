@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens overlay response protobuf definitions
+// summary: Proto2 definitions for LensOverlaySuggestInputs and LensOverlayUrlResponse messages carrying encoded signals, session ids, and page context for the Suggest server.
+// ---
+
 syntax = "proto2";
 
 package lens.proto;

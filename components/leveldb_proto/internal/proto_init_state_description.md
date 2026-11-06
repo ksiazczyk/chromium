@@ -1,3 +1,9 @@
+---
+type: reference
+title: leveldb_proto Initialization State Enum Descriptions
+summary: Documents each ProtoDatabaseInitState enum value, explaining where it is recorded in ProtoDatabaseSelector and what the resulting init or migration outcome means.
+---
+
 # leveldb_proto Initialization State Enum Descriptions
 
 [TOC]

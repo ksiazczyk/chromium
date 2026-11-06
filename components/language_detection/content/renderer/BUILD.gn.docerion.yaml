@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for language detection renderer
+summary: Defines the static library build targets for the language detection renderer and agent sources together with their dependencies.

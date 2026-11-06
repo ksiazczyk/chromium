@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AndroidLanguageMetricsBridgeTest
+// summary: Instrumented test verifying that the bridge reports the correct language hashes for the override language histogram.
+// ---
+
 package org.chromium.components.language;
 
 import androidx.test.filters.SmallTest;

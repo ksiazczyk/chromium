@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accept languages service implementation
+// summary: Implements the service that tracks the accept languages preference and matches language tags against the user's configured accept languages.
+// ---
+
 #include "components/language/core/browser/accept_languages_service.h"
 
 #include <stddef.h>

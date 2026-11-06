@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LanguageDetectionModelManager class declaration
+// summary: Declares the manager that ensures a valid language detection model is loaded by requesting a model file from the browser via the interface broker.
+// ---
+
 #ifndef COMPONENTS_LANGUAGE_DETECTION_CONTENT_RENDERER_LANGUAGE_DETECTION_MODEL_MANAGER_H_
 #define COMPONENTS_LANGUAGE_DETECTION_CONTENT_RENDERER_LANGUAGE_DETECTION_MODEL_MANAGER_H_
 

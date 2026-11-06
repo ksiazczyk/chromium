@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Language detection model provider implementation
+// summary: Implements the process-wide GetLanguageDetectionModel singleton, with a disabled feature flag that supplies a local model file path for testing.
+// ---
+
 #include "components/language_detection//core/language_detection_provider.h"
 
 #include "base/base_paths.h"

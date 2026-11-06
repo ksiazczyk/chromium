@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Language detection model class interface
+// summary: Declares the LanguageDetectionModel class with prediction methods, the Prediction struct, and the LanguageDetectionModelState enum for TFLite-based language detection.
+// ---
+
 #ifndef COMPONENTS_LANGUAGE_DETECTION_CORE_LANGUAGE_DETECTION_MODEL_H_
 #define COMPONENTS_LANGUAGE_DETECTION_CORE_LANGUAGE_DETECTION_MODEL_H_
 

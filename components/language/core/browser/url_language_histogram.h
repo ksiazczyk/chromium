@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL language histogram interface
+// summary: Declares the UrlLanguageHistogram KeyedService that tracks languages the user reads the web in and exposes top languages, frequencies, visit recording, and history clearing.
+// ---
+
 #ifndef COMPONENTS_LANGUAGE_CORE_BROWSER_URL_LANGUAGE_HISTOGRAM_H_
 #define COMPONENTS_LANGUAGE_CORE_BROWSER_URL_LANGUAGE_HISTOGRAM_H_
 

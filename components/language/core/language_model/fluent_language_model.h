@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FluentLanguageModel class header
+// summary: Declares the FluentLanguageModel class, a LanguageModel that exposes the user's fluent languages via a PrefService-backed TranslatePrefs instance.
+// ---
+
 #ifndef COMPONENTS_LANGUAGE_CORE_LANGUAGE_MODEL_FLUENT_LANGUAGE_MODEL_H_
 #define COMPONENTS_LANGUAGE_CORE_LANGUAGE_MODEL_FLUENT_LANGUAGE_MODEL_H_
 

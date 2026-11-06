@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Link header utility API declarations
+// summary: Declares the SplitLinkHeader and ParseLinkHeaderValue functions for parsing Link header values into URLs and lower-cased parameters.
+// ---
+
 #ifndef COMPONENTS_LINK_HEADER_UTIL_LINK_HEADER_UTIL_H_
 #define COMPONENTS_LINK_HEADER_UTIL_LINK_HEADER_UTIL_H_
 

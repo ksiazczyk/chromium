@@ -1,0 +1,4 @@
+# Docerion header of ulp_language_code_locator_helper.h.tmpl.
+type: source
+title: Jinja2 template for generated language quadtree header
+summary: Jinja2 template that renders serialized language tree data into a generated C++ header with language lists and bitsets.

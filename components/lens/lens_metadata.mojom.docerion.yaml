@@ -1,0 +1,4 @@
+# Docerion header of lens_metadata.mojom.
+type: source
+title: Lens Mojo metadata definitions
+summary: Mojo definitions for Lens image processing, including ImageFormat and Phase enums and a LatencyLog struct for latency logging.

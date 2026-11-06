@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens overlay MIME type enum
+// summary: Enumerates the persisted MIME types on which the Lens Overlay can be initialized, such as PDF, HTML, image, video, and JSON.
+// ---
+
 #ifndef COMPONENTS_LENS_LENS_OVERLAY_MIME_TYPE_H_
 #define COMPONENTS_LENS_LENS_OVERLAY_MIME_TYPE_H_
 

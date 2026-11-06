@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for quantization utilities
+// summary: Declares FloatToQuantized, QuantizedToFloat, and QuantizationParams for fixed-point quantization with cacheable parameters.
+// ---
+
 #ifndef COMPONENTS_LANGUAGE_DETECTION_CORE_QUANTIZATION_UTILS_H_
 #define COMPONENTS_LANGUAGE_DETECTION_CORE_QUANTIZATION_UTILS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LanguageProfileMetricsLogger
+// summary: Records user language profile initiation status metrics into overall, signed-in and signed-out enumerated histograms.
+// ---
+
 package org.chromium.components.language;
 
 import androidx.annotation.IntDef;

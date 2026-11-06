@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens metrics implementation
+// summary: Implements UMA histogram recording for camera open and result events and ambient search query entry points.
+// ---
+
 #include "components/lens/lens_metrics.h"
 
 #include "base/metrics/histogram_functions.h"

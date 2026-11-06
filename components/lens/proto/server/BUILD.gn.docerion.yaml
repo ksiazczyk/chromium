@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the Lens server proto library
+summary: GN build file that defines a proto_library target compiling lens_overlay_response.proto using the protobuf proto_library.gni rules.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for ngram tokenization utilities
+// summary: Declares the TokenizedOutput struct and the Tokenize and LowercaseUnicodeStr helpers used by the ngram hashing op.
+// ---
+
 #ifndef COMPONENTS_LANGUAGE_DETECTION_CORE_NGRAM_HASH_OPS_UTILS_H_
 #define COMPONENTS_LANGUAGE_DETECTION_CORE_NGRAM_HASH_OPS_UTILS_H_
 

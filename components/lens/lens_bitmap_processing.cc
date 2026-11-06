@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens image downscaling and encoding
+// summary: Implements downscaling and JPEG or WebP encoding of images for Lens uploads, logging processing phase metrics to client logs.
+// ---
+
 #include "components/lens/lens_bitmap_processing.h"
 
 #include <numbers>

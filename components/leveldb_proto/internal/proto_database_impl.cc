@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proto database callback helpers
+// summary: Implements helper functions that post update, load keys and destroy callbacks back onto the client task runner.
+// ---
+
 #include "components/leveldb_proto/internal/proto_database_impl.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GeoLanguageModel unit tests
+// summary: Verifies the returned language details for mocked locations inside and outside India using a mock IP geolocation provider.
+// ---
+
 #include "components/language/content/browser/geo_language_model.h"
 
 #include "base/functional/bind.h"

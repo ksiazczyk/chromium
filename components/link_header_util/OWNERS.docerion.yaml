@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for link_header_util
+summary: Lists the code owners and requires an additional security reviewer because the Link header is parsed at high privilege.

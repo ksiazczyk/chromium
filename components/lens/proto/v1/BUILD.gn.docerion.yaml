@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build file for the Lens latencies proto library
+summary: GN build configuration defining the lens_latencies_metadata_proto library target that compiles the Lens latencies protobuf source.

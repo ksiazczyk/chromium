@@ -1,0 +1,4 @@
+# Docerion header of features.gni.
+type: config
+title: Lens feature build flags
+summary: Declares build arguments controlling which Lens features are compiled in, such as desktop Lens, Android Lens overlay, and Google-branded features.

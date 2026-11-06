@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chinese script classifier implementation
+// summary: Implements the classifier that distinguishes zh-Hans and zh-Hant text using Unicode codepoint sets derived from ICU transliteration data.
+// ---
+
 #include "components/language_detection/core/chinese_script_classifier.h"
 
 #include <algorithm>

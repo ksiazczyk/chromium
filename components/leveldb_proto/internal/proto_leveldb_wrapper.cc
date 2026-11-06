@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProtoLevelDBWrapper implementation
+// summary: Implements ProtoLevelDBWrapper by running LevelDB init, update, load, and destroy operations on a sequenced task runner and posting callbacks back to callers.
+// ---
+
 #include "components/leveldb_proto/internal/proto_leveldb_wrapper.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ULP language code locator class declaration
+// summary: Declares UlpLanguageCodeLocator, a LanguageCodeLocator that returns languages from provided quadtrees and caches results in preferences.
+// ---
+
 #ifndef COMPONENTS_LANGUAGE_CONTENT_BROWSER_ULP_LANGUAGE_CODE_LOCATOR_ULP_LANGUAGE_CODE_LOCATOR_H_
 #define COMPONENTS_LANGUAGE_CONTENT_BROWSER_ULP_LANGUAGE_CODE_LOCATOR_ULP_LANGUAGE_CODE_LOCATOR_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn
+summary: GN build file defining the browser source_set with the iOS language detection model loader sources and its component dependencies.

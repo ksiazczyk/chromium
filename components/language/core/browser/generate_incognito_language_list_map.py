@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: script
+# title: Generator for the incognito language list map header
+# summary: Parses the locale settings grd file and xtb translations to generate a C++ header mapping language codes to incognito fallback language lists.
+# ---
+
 """Generates the C++ header mapping language codes to incognito fallback sets.
 
 Parses components_locale_settings.grd and corresponding translation .xtb files.

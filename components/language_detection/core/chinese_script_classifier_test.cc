@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chinese script classifier tests
+// summary: Tests the Chinese script classifier against simplified, traditional, ambiguous and non-Chinese inputs to verify the expected language codes.
+// ---
+
 #include "components/language_detection/core/chinese_script_classifier.h"
 
 #include <string>

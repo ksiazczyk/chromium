@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the content renderer
+summary: Defines include rules that allow this component to depend on the content public renderer API.

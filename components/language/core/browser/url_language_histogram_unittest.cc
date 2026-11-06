@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: URL language histogram unit tests
+// summary: Unit tests covering sorted top-language lists, frequency calculation, discarding of rare languages, and history clearing behavior of UrlLanguageHistogram.
+// ---
+
 #include "components/language/core/browser/url_language_histogram.h"
 
 #include "components/prefs/testing_pref_service.h"

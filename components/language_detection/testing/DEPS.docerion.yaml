@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Language detection testing dependency rules
+summary: Grants the testing directory include access to gtest for its tests.

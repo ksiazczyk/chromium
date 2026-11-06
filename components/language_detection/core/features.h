@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Language detection feature flag declarations
+// summary: Declares the kLazyUpdateTranslateModel base feature for export from the language detection component.
+// ---
+
 #ifndef COMPONENTS_LANGUAGE_DETECTION_CORE_FEATURES_H_
 #define COMPONENTS_LANGUAGE_DETECTION_CORE_FEATURES_H_
 

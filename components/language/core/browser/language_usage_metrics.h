@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LanguageUsageMetrics class header
+// summary: Declares LanguageUsageMetrics static methods for recording language usage histograms and mapping locales to language code hashes.
+// ---
+
 #ifndef COMPONENTS_LANGUAGE_CORE_BROWSER_LANGUAGE_USAGE_METRICS_H_
 #define COMPONENTS_LANGUAGE_CORE_BROWSER_LANGUAGE_USAGE_METRICS_H_
 

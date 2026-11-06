@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens Composebox user action enum
+// summary: Defines an enum of user interactions with the Lens Composebox side panel, with values persisted to logs and linked to histograms metadata.
+// ---
+
 #ifndef COMPONENTS_LENS_LENS_COMPOSEBOX_USER_ACTION_H_
 #define COMPONENTS_LENS_LENS_COMPOSEBOX_USER_ACTION_H_
 

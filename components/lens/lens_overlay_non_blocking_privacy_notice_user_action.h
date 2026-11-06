@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens overlay non-blocking privacy notice user action enum
+// summary: Defines an enum of user interactions with the non-blocking privacy notice in the Lens overlay, such as accepting, dismissing, or closing without accepting.
+// ---
+
 #ifndef COMPONENTS_LENS_LENS_OVERLAY_NON_BLOCKING_PRIVACY_NOTICE_USER_ACTION_H_
 #define COMPONENTS_LENS_LENS_OVERLAY_NON_BLOCKING_PRIVACY_NOTICE_USER_ACTION_H_
 

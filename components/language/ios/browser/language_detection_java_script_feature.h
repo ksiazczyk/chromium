@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LanguageDetectionJavaScriptFeature class declaration
+// summary: Declares the JavaScript feature that triggers language detection in web frames and handles its script messages.
+// ---
+
 #ifndef COMPONENTS_LANGUAGE_IOS_BROWSER_LANGUAGE_DETECTION_JAVA_SCRIPT_FEATURE_H_
 #define COMPONENTS_LANGUAGE_IOS_BROWSER_LANGUAGE_DETECTION_JAVA_SCRIPT_FEATURE_H_
 

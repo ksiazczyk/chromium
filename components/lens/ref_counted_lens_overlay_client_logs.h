@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ref-counted Lens overlay client logs wrapper
+// summary: Declares a thread-safe ref-counted wrapper that exposes the Lens overlay client logs proto so it can be passed across threads.
+// ---
+
 #ifndef CHROME_BROWSER_UI_LENS_REF_COUNTED_LENS_OVERLAY_CLIENT_LOGS_H_
 #define CHROME_BROWSER_UI_LENS_REF_COUNTED_LENS_OVERLAY_CLIENT_LOGS_H_
 

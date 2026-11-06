@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AndroidLanguageMetricsBridge
+// summary: Java bridge that reports app override language and app language prompt selections to native sparse histograms via JNI.
+// ---
+
 package org.chromium.components.language;
 
 import androidx.annotation.VisibleForTesting;

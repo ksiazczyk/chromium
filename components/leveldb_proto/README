@@ -1,3 +1,9 @@
+---
+type: readme
+title: LevelDB proto database component overview
+summary: Describes a LevelDB-based database for storing Protocol Buffers, with developer-chosen string keys and serialized proto values.
+---
+
 This component provides a database that can be used to store Protocol Buffers.
 
 It is based on LevelDB[1]. In this implementation, keys are strings chosen by

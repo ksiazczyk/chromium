@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Language model override API
+// summary: Declares the OverrideLanguageModel enum and functions for overriding translate triggering in India and choosing the language model.
+// ---
+
 #ifndef COMPONENTS_LANGUAGE_CORE_COMMON_LANGUAGE_UTIL_H_
 #define COMPONENTS_LANGUAGE_CORE_COMMON_LANGUAGE_UTIL_H_
 

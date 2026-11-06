@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: String clipping utility header
+// summary: Declares GetStringByClippingLastWord, a helper that truncates string contents to a length while terminating at the last space.
+// ---
+
 #ifndef COMPONENTS_LANGUAGE_IOS_BROWSER_STRING_CLIPPING_UTIL_H_
 #define COMPONENTS_LANGUAGE_IOS_BROWSER_STRING_CLIPPING_UTIL_H_
 

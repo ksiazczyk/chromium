@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LanguageDetectionModelService implementation
+// summary: Implements the keyed service that observes the Optimization Guide for language detection model updates and forwards model file paths or unloads to the provider.
+// ---
+
 #include "components/language_detection/core/browser/language_detection_model_service.h"
 
 #include "components/language_detection/core/browser/language_detection_model_provider.h"

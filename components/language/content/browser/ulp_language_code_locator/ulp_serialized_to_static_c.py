@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: script
+# title: Serialized ULP data to C++ header generator
+# summary: Python script that reads serialized ULP language quadtree data files and renders a C++ header from a Jinja2 template.
+# ---
+
 """Generate c++ structure containing serialized ULP language quad tree"""
 
 import argparse

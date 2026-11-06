@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the language detection model
+// summary: Tests LanguageDetectionModel behavior with empty, invalid, and unsupported model files, including async loading and expected histogram state samples.
+// ---
+
 #include "components/language_detection/core/language_detection_model.h"
 
 #include <memory>

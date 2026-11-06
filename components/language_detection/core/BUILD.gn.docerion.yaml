@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Language detection core build targets
+summary: GN build file defining the core component, internals static library and unit test targets for the language detection module.

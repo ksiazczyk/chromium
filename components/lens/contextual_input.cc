@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual input implementation
+// summary: Implements constructors and destructors for the ContextualInput and ContextualInputData structures used by Lens contextual search.
+// ---
+
 #include "components/lens/contextual_input.h"
 
 namespace lens {

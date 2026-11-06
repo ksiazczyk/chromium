@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FluentLanguageModel unit tests
+// summary: Tests FluentLanguageModel defaults and scoring of blocked languages, using testing pref services and a matcher that compares LanguageDetails entries.
+// ---
+
 #include "components/language/core/language_model/fluent_language_model.h"
 
 #include <cmath>

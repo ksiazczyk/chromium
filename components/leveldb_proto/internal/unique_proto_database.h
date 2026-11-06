@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UniqueProtoDatabase class declaration
+// summary: Declares a ProtoDatabase implementation that manages the lifecycle of a unique LevelDB instance, with virtual methods for initialization and data operations.
+// ---
+
 #ifndef COMPONENTS_LEVELDB_PROTO_INTERNAL_UNIQUE_PROTO_DATABASE_H_
 #define COMPONENTS_LEVELDB_PROTO_INTERNAL_UNIQUE_PROTO_DATABASE_H_
 

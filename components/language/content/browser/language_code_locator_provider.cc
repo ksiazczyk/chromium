@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Language code locator provider implementation
+// summary: Implements a factory that builds a ULP-based language code locator from three serialized language trees for the browser language component.
+// ---
+
 #include "components/language/content/browser/language_code_locator_provider.h"
 
 #include <memory>

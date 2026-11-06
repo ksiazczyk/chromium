@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens identity delegation helper interface
+// summary: Declares fetch status and account error reason enums plus the function that builds Authorization and X-Goog-AuthUser headers for identity delegation.
+// ---
+
 #ifndef COMPONENTS_LENS_LENS_IDENTITY_DELEGATION_HELPER_H_
 #define COMPONENTS_LENS_LENS_IDENTITY_DELEGATION_HELPER_H_
 

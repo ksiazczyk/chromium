@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: String clipping utility unit tests
+// summary: GoogleTest cases verifying that sentences are clipped at the last whitespace and that space-free text is truncated to the requested length.
+// ---
+
 #include "components/language/ios/browser/string_clipping_util.h"
 
 #include <stddef.h>

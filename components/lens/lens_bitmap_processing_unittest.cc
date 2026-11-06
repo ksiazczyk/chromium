@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Lens bitmap processing unit tests
+// summary: Unit tests for Lens bitmap downscaling and JPEG/WebP encoding, checking size limits, compression quality, and recorded phase latency metadata.
+// ---
+
 #include "components/lens/lens_bitmap_processing.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Language detection constants
+// summary: Defines the kUnknownLanguageCode constant used when the language of a page cannot be detected.
+// ---
+
 #ifndef COMPONENTS_LANGUAGE_DETECTION_CORE_CONSTANTS_H_
 #define COMPONENTS_LANGUAGE_DETECTION_CORE_CONSTANTS_H_
 

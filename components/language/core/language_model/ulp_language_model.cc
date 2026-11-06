@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ULPLanguageModel implementation
+// summary: Implements ULPLanguageModel, storing and returning ULP language details and enforcing that languages are added in order by score.
+// ---
+
 #include "components/language/core/language_model/ulp_language_model.h"
 
 #include "base/check.h"

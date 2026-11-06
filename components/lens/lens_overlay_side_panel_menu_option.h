@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens overlay side panel menu option enum
+// summary: Defines an enum of side panel more-options menu entries such as open in new tab, My Activity, learn more, and send feedback, for logging.
+// ---
+
 #ifndef COMPONENTS_LENS_LENS_OVERLAY_SIDE_PANEL_MENU_OPTION_H_
 #define COMPONENTS_LENS_LENS_OVERLAY_SIDE_PANEL_MENU_OPTION_H_
 

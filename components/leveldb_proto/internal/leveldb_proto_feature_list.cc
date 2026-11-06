@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LevelDB proto feature list definitions
+// summary: Defines the leveldb_proto feature flags kProtoDBSharedMigration and kLevelDBProtoAsyncWrite controlling shared database migration and asynchronous writes.
+// ---
+
 #include "components/leveldb_proto/internal/leveldb_proto_feature_list.h"
 
 namespace leveldb_proto {

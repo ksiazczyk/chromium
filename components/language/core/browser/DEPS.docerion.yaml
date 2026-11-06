@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the browser language component
+summary: Restricts includes in this directory to keyed service core, translate browser, and UI base localization dependencies.

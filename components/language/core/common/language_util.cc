@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Language model override utilities
+// summary: Implements the India-specific translate trigger override and selects the override language model based on experiment state.
+// ---
+
 #include "components/language/core/common/language_util.h"
 
 #include "base/feature_list.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GeoLanguageModel implementation
+// summary: Implements a language model that returns the current geo-inferred languages from GeoLanguageProvider as zero-scored language details.
+// ---
+
 #include "components/language/content/browser/geo_language_model.h"
 
 #include <algorithm>

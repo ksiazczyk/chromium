@@ -1,0 +1,4 @@
+# Docerion header of language_detection.mojom.
+type: source
+title: Language detection Mojo interface
+summary: Defines the ContentLanguageDetectionDriver interface and model status enum that let the renderer access the language detection model file.
