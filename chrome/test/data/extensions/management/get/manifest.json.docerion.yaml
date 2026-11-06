@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the management get test extension
+summary: Manifest version 2 manifest for the Get Test extension, granting the management permission and registering the persistent background script used by the test.

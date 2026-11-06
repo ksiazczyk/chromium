@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Launch App test extension background script
+// summary: Background script that uses chrome.management.launchApp to launch a packaged app and a non-app extension, sending messages when the expected deprecation or not-an-app errors occur.
+// ---
+
 const kChromeAppErrorPrefix = 'Chrome app';
 const kChromeAppErrorSuffix = 'is deprecated on Window, Mac, and Linux. ' +
     'See https://support.google.com/chrome/?p=chrome_app_deprecation for more ' +

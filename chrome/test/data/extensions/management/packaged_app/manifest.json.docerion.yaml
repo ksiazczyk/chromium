@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Packaged app test manifest
+summary: Manifest for the packaged_app test extension, version 0.1, defining main.html as the local launch page.

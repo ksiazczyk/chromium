@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the no-permission self-uninstall test extension
+summary: Manifest version 2 manifest for the self-uninstall test extension, declaring a persistent background page and no special permissions.

@@ -2,5 +2,11 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: test
+title: Background color content style fixture
+summary: Content style fixture that sets background colors for all elements and paragraph elements.
+*/
+
 * {background-color: beige !important}
 p {background-color: rgb(128,128,128)}

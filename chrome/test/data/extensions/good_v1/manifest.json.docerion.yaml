@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Good v1 test extension manifest
+summary: Manifest for the good_v1 test extension, declaring two content scripts for google.com and example.com plus name, version, key and update URL.

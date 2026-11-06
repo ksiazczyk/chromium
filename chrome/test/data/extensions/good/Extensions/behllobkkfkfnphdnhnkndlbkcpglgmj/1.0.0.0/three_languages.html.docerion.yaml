@@ -1,0 +1,4 @@
+# Docerion header of three_languages.html.
+type: test
+title: three_languages
+summary: Empty HTML page included as test data for the sample extension's multi-language test scenario.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Self uninstall helper test extension background script
+// summary: Background script of a test extension that listens for uninstall events, verifies the self-uninstalled extension is gone and reports success to the test harness.
+// ---
+
 // The name of the extension to uninstall, from manifest.json.
 const EXPECTED_NAME = 'Self Uninstall Test';
 

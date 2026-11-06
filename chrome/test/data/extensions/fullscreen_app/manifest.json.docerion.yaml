@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest of the fullscreen test app
+summary: Manifest version 2 app manifest for a Chrome app that attempts to open a fullscreen window via its background script.

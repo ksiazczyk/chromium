@@ -1,0 +1,4 @@
+# Docerion header of managed_storage.json.
+type: test
+title: Managed storage test schema
+summary: JSON schema defining string properties used as test data for managed storage in Chrome extension tests.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the managed storage policy test extension
+summary: Extension manifest declaring the test extension that verifies the managed namespace of the Storage API, referencing a managed schema and a background service worker.

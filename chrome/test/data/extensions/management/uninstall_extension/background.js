@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background script for uninstall policy test extension
+// summary: Test extension background script that finds the 'Auto-Update Test' extension, asserts it cannot be disabled, and verifies the expected error when uninstalling it via chrome.management.
+// ---
+
 // The name of the extension to uninstall, from manifest.json.
 const EXPECTED_NAME = 'Auto-Update Test';
 

@@ -1,0 +1,4 @@
+# Docerion header of main.html.
+type: test
+title: Main iframe test page
+summary: HTML test page that embeds frame1, frame2 and frame3 in iframes for extension tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Managed storage test extension background script
+// summary: Background service worker for the test extension that reports managed storage change events and policy values back to the browser test harness.
+// ---
+
 const events = [];
 
 const handleReply = function(reply) {

@@ -1,0 +1,4 @@
+# Docerion header of app.json.
+type: test
+title: Image loading tracker test extension manifest
+summary: Manifest for a test extension named 'test' with 16 and 24 pixel icons, serving as fixture data for the image loading tracker browser tests.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test extension manifest with Serbian default locale
+summary: Manifest for a version 1.0 test extension that sets Serbian as the default locale and resolves its name and description through localized __MSG__ placeholders.

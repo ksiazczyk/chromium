@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: App Test extension manifest
+summary: Test fixture manifest for a hosted app named App Test that launches its web URL over HTTPS.

@@ -3,3 +3,9 @@
 // found in the LICENSE file.
 
 // script2
+
+// ---docerion
+// type: test
+// title: Good v1 test extension content script 2
+// summary: Content script fixture injected by the good_v1 test extension on example.com pages, containing only a marker comment.
+// ---

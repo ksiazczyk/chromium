@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: test
+title: Heading style content style fixture
+summary: Content style fixture that renders heading elements with white text on a black background.
+*/
+
 h1 {color: white; background-color: black;}
 h2 {color: white; background-color: black;}
 h3 {color: white; background-color: black;}

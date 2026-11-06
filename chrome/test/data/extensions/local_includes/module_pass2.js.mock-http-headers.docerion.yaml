@@ -1,0 +1,4 @@
+# Docerion header of module_pass2.js.mock-http-headers.
+type: test
+title: Mock HTTP headers for module_pass2.js
+summary: Mock HTTP response headers served for module_pass2.js, returning 200 OK with application/javascript content type and permissive CORS.

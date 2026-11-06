@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Trivial hosted app test manifest
+summary: Manifest for the trivial hosted app test extension, defining the app URL, launch web URL, and icon.

@@ -3,3 +3,9 @@
 // found in the LICENSE file.
 
 // script2
+
+// ---docerion
+// type: test
+// title: Content script script2
+// summary: Minimal content script loaded by the test extension on example.com pages, containing only a marker comment.
+// ---

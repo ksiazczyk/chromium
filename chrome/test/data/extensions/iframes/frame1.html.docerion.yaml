@@ -1,0 +1,4 @@
+# Docerion header of frame1.html.
+type: test
+title: Frame 1 test page
+summary: Minimal HTML page titled Frame 1 used as an iframe test fixture for extension tests.

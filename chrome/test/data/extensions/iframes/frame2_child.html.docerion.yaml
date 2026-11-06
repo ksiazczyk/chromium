@@ -1,0 +1,4 @@
+# Docerion header of frame2_child.html.
+type: test
+title: Frame 2 Child test page
+summary: Minimal HTML page titled Frame 2 Child loaded as a nested iframe by frame2.html.

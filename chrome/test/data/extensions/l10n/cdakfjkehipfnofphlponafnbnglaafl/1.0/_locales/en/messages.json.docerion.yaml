@@ -1,0 +1,4 @@
+# Docerion header of messages.json.
+type: test
+title: English locale messages for l10n test extension
+summary: Provides English locale strings for name and description used as test data for Chrome extension localization.

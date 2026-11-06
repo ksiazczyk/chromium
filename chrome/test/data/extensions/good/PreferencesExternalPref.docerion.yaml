@@ -1,0 +1,4 @@
+# Docerion header of PreferencesExternalPref.
+type: test
+title: External pref extension preferences test fixture
+summary: Preferences fixture with an extension installed from an external preferences source for Chrome extension tests.

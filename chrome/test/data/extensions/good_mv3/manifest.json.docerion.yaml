@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the good_mv3 test extension
+summary: Manifest V3 extension manifest used as test data, declaring two content scripts for google.com and example.com.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the self uninstall helper test extension
+summary: Manifest declaring the Self Uninstall Helper test extension with the management permission and a persistent background script.

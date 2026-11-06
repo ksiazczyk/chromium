@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the Log onAuthRequired test extension
+summary: Manifest version 2 manifest for the test extension, granting tabs, webRequest, webRequestBlocking and all-URLs permissions and registering the background script.

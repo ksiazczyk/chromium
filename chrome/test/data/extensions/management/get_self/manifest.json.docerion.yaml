@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the getSelf test extension
+summary: Manifest version 2 manifest defining the no-permissions test extension with a persistent background script used by the getSelf management API test.

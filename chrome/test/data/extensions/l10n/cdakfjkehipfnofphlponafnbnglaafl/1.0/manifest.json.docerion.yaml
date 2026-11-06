@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Localization test extension manifest
+summary: Manifest for a test extension that uses Serbian as the default locale and message placeholders for name and description in Chrome's extension localization tests.

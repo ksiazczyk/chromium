@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for older version install test extension
+summary: Manifest of the version 0.9 test extension fixture, declaring a background script for testing installation of an older extension version.

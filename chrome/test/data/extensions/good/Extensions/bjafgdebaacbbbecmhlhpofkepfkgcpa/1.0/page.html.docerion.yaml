@@ -1,0 +1,4 @@
+# Docerion header of page.html.
+type: test
+title: Test extension page loading page.js
+summary: Minimal HTML page of the sample extension that loads page.js for messaging tests.

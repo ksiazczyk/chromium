@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for uninstall policy controlled test extension
+summary: Manifest for the test extension used in the uninstall policy browser test, requesting the management permission and loading background.js.

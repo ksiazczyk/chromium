@@ -1,6 +1,13 @@
 // Copyright 2013 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Test input method engine implementations for chrome.input.ime
+// summary: Background script of a sample test extension implementing base and test IME engines (IdentityIME, ToUpperIME, APIArgumentIME, EngineBridge) to exercise the chrome.input.ime API.
+// ---
+
 'use strict';
 
 /**

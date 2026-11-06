@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test extension page script for messaging tests
+// summary: Page script that handles runtime connect messages to test postMessage, disconnect, and port naming scenarios.
+// ---
+
 var win = window;
 if (typeof(contentWindow) != 'undefined') {
   win = contentWindow;
