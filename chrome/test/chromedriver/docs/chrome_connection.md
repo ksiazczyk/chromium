@@ -1,3 +1,13 @@
+---
+type: reference
+title: Chrome Connection
+summary: Explains how ChromeDriver connects to and controls Chrome through the Chrome, DevToolsClient, and WebView classes and their implementations.
+relations:
+  - documents /chrome/test/chromedriver/chrome/chrome.h
+  - documents /chrome/test/chromedriver/chrome/chrome_android_impl.h
+  - documents /chrome/test/chromedriver/chrome/chrome_desktop_impl.h
+---
+
 # Chrome Connection
 
 ## Overview

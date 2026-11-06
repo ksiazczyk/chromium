@@ -1,3 +1,11 @@
+---
+type: guide
+title: Testing
+summary: Describes ChromeDriver's test suites and how to build and run unit, Python integration, Web Platform, and JavaScript unit tests.
+relations:
+  - documents /chrome/test/chromedriver/test/run_py_tests.py
+---
+
 # Testing
 
 There are several test suites for verifying ChromeDriver's correctness:

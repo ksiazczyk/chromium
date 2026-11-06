@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FedCM WebDriver command implementations
+// summary: Implements FedCM WebDriver commands such as cancel dialog, select account, click dialog button, and get accounts via the FedCm tracker.
+// ---
+
 #include "chrome/test/chromedriver/fedcm_commands.h"
 
 #include "base/values.h"

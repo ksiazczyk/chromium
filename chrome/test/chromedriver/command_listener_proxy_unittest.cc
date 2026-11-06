@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CommandListenerProxy unit tests
+// summary: Unit tests verifying that CommandListenerProxy forwards BeforeCommand calls to the wrapped listener.
+// ---
+
 #include <string>
 
 #include "base/compiler_specific.h"

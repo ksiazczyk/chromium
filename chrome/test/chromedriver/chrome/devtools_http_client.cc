@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools HTTP client implementation
+// summary: Implements the DevToolsHttpClient that fetches browser info and web view info from the DevTools HTTP endpoint.
+// ---
+
 #include "chrome/test/chromedriver/chrome/devtools_http_client.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome interface header
+// summary: Declares the abstract Chrome interface for managing web views, windows, permissions, and browser info in ChromeDriver.
+// ---
+
 #ifndef CHROME_TEST_CHROMEDRIVER_CHROME_CHROME_H_
 #define CHROME_TEST_CHROMEDRIVER_CHROME_CHROME_H_
 

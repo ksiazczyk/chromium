@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Keycode text conversion unit tests
+// summary: Unit tests for key code and character conversion under a US keyboard layout, with some Linux cases disabled.
+// ---
+
 #include <string>
 
 #include "base/logging.h"

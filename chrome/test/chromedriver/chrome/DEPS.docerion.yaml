@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Chromedriver chrome DEPS include rules
+summary: Sets include rules that restrict which chromedriver code this directory may depend on.

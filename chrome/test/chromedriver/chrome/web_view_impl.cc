@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebViewImpl implementation
+// summary: Implements WebView for tabs, pages, and service workers, handling DevTools commands, element references, navigation, input events, and BiDi messaging.
+// ---
+
 #include "chrome/test/chromedriver/chrome/web_view_impl.h"
 
 #include <stddef.h>

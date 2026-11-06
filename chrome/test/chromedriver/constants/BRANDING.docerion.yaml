@@ -1,0 +1,4 @@
+# Docerion header of BRANDING.
+type: config
+title: ChromeDriver branding configuration
+summary: Defines branding values such as company, product, and browser capability names used to generate ChromeDriver version information.

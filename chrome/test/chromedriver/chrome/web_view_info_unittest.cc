@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebViewInfo type parsing tests
+// summary: Parameterized tests verifying WebViewInfo::ParseType maps supported DevTools target types and handles unknown or empty types correctly.
+// ---
+
 #include "chrome/test/chromedriver/chrome/web_view_info.h"
 
 #include "chrome/test/chromedriver/chrome/status.h"

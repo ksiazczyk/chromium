@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ADB client socket implementation
+// summary: Implements a TCP client socket for issuing ADB commands to Android devices, including transport queries, HTTP-over-ADB requests, and file sending.
+// ---
+
 #include "chrome/test/chromedriver/net/adb_client_socket.h"
 
 #include <stddef.h>

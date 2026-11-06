@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: script
+# title: ChromeDriver Python utilities
+# summary: Provides generic Python helpers for ChromeDriver scripts, including platform detection, temp directory management, and zip handling.
+# ---
+
 """Generic utilities for all python scripts."""
 
 import atexit

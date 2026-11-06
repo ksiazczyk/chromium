@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools endpoint header
+// summary: Declares the DevToolsEndpoint class describing a DevTools debugger endpoint such as a host and port or full URL.
+// ---
+
 #ifndef CHROME_TEST_CHROMEDRIVER_CHROME_DEVTOOLS_ENDPOINT_H_
 #define CHROME_TEST_CHROMEDRIVER_CHROME_DEVTOOLS_ENDPOINT_H_
 

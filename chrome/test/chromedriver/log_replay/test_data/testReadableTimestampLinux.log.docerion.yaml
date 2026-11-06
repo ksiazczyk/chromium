@@ -1,0 +1,4 @@
+# Docerion header of testReadableTimestampLinux.log.
+type: test
+title: Readable timestamp Linux test log
+summary: Replay fixture with Linux-style readable timestamps used to test timestamp parsing in chromedriver log replay.

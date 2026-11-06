@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAuthn command implementations
+// summary: Implements WebDriver WebAuthn commands for managing virtual authenticators and credentials, including base64url parameter conversions.
+// ---
+
 #include "chrome/test/chromedriver/webauthn_commands.h"
 
 #include <limits>

@@ -1,0 +1,4 @@
+# Docerion header of version.cc.in.
+type: source
+title: ChromeDriver version source template
+summary: Template for the generated version.cc, defining ChromeDriver version and branding string constants with placeholders filled in at build time.

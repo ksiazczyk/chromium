@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Prompt behavior unit tests
+// summary: Unit tests for ChromeDriver's PromptBehavior capability, covering valid and invalid prompt handling configurations.
+// ---
+
 #include "chrome/test/chromedriver/prompt_behavior.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: StubSyncWebSocket implementation
+// summary: Implements a stub WebSocket that parses sent commands and answers with queued or handler-generated responses for chromedriver tests.
+// ---
+
 #include "chrome/test/chromedriver/net/stub_sync_websocket.h"
 
 #include "base/functional/bind.h"

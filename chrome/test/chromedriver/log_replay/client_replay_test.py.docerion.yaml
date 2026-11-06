@@ -1,0 +1,4 @@
+# Docerion header of client_replay_test.py.
+type: test
+title: End-to-end tests for client-side replay
+summary: Runs run_py_tests.py cases, replays their logs, and checks that replayed responses match the logged ones.

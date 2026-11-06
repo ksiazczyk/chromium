@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Timeout unit tests
+// summary: Unit tests for the Timeout helper covering default state, duration setting, derived deadlines, and expired parent behavior.
+// ---
+
 #include "chrome/test/chromedriver/net/timeout.h"
 #include "base/check_op.h"
 #include "base/test/gtest_util.h"

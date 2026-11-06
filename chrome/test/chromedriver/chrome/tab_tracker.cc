@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab tracker implementation
+// summary: Listens for Target.detachedFromTarget DevTools events and removes or marks detached the matching tracked tab views.
+// ---
+
 #include "chrome/test/chromedriver/chrome/tab_tracker.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeRemoteImpl implementation
+// summary: Implements the remote debugging variant of ChromeImpl, rejecting desktop operations and treating quit as a no-op.
+// ---
+
 #include "chrome/test/chromedriver/chrome/chrome_remote_impl.h"
 
 #include <utility>

@@ -1,0 +1,4 @@
+# Docerion header of oneDevToolsEntry.log.
+type: test
+title: One DevTools entry log
+summary: Replay fixture containing a single DevTools HTTP request entry for chromedriver log replay tests.

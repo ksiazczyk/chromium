@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: ChromeDriver dependency include rules
+summary: Restricts ChromeDriver code from depending on browser code, with explicit exceptions for Chrome constants and allowed components.

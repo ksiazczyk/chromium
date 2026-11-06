@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Heap snapshot taker unit tests
+// summary: Tests HeapSnapshotTaker success and error cases with a stub DevTools client that simulates snapshot chunks and command failures.
+// ---
+
 
 #include "chrome/test/chromedriver/chrome/heap_snapshot_taker.h"
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mobile emulation override manager implementation
+// summary: Applies device metrics, touch emulation, and user agent with client hints overrides over DevTools for mobile device emulation.
+// ---
+
 #include "chrome/test/chromedriver/chrome/mobile_emulation_override_manager.h"
 
 #include "base/strings/string_number_conversions.h"

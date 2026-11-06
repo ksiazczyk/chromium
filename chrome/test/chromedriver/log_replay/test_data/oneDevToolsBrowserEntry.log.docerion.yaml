@@ -1,0 +1,4 @@
+# Docerion header of oneDevToolsBrowserEntry.log.
+type: test
+title: One DevTools browser entry log
+summary: Replay fixture containing a single DevTools WebSocket Log.enable command entry for chromedriver log replay tests.

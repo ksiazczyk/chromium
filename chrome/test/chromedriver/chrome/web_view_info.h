@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebViewInfo declarations
+// summary: Declares WebViewInfo with its target type enum and helpers, plus WebViewsInfo for storing and querying DevTools target information.
+// ---
+
 #ifndef CHROME_TEST_CHROMEDRIVER_CHROME_WEB_VIEW_INFO_H_
 #define CHROME_TEST_CHROMEDRIVER_CHROME_WEB_VIEW_INFO_H_
 

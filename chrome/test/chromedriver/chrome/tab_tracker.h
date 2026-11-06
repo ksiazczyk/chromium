@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab tracker header
+// summary: Declares TabTracker, a DevToolsEventListener that keeps the list of open tab views in sync with detached targets.
+// ---
+
 #ifndef CHROME_TEST_CHROMEDRIVER_CHROME_TAB_TRACKER_H_
 #define CHROME_TEST_CHROMEDRIVER_CHROME_TAB_TRACKER_H_
 

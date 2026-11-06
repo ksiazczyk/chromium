@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Session unit tests
+// summary: Unit tests for the Session class, covering target window lookup, frame switching, and BiDi channel splitting.
+// ---
+
 #include "chrome/test/chromedriver/session.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Element focus helper for send keys
+// summary: Injected JavaScript that focuses a target element before sending keys, handling shadow DOM, off-screen elements and non-focusable containers.
+// ---
+
 function focus(element, focusDocumentElement) {
   // Focus the target element in order to send keys to it.
   // First, the currently active element is blurred, if it is different from

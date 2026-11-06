@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window command declarations
+// summary: Declares ChromeDriver window command handlers for navigation, frames, script evaluation, element finding, and window management.
+// ---
+
 #ifndef CHROME_TEST_CHROMEDRIVER_WINDOW_COMMANDS_H_
 #define CHROME_TEST_CHROMEDRIVER_WINDOW_COMMANDS_H_
 

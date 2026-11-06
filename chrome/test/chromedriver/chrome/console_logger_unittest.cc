@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Console logger unit test
+// summary: Unit tests for the ChromeDriver console logger, using fake DevTools client and log implementations to verify console message entries are captured correctly.
+// ---
+
 #include "chrome/test/chromedriver/chrome/console_logger.h"
 
 #include <memory>

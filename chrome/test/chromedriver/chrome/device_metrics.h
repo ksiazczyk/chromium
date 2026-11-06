@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device metrics header
+// summary: Declares the DeviceMetrics struct holding screen width, height, device scale factor, touch and mobile flags used for device emulation.
+// ---
+
 #ifndef CHROME_TEST_CHROMEDRIVER_CHROME_DEVICE_METRICS_H_
 #define CHROME_TEST_CHROMEDRIVER_CHROME_DEVICE_METRICS_H_
 

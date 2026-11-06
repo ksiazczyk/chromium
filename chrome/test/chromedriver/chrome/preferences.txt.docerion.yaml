@@ -1,0 +1,4 @@
+# Docerion header of preferences.txt.
+type: config
+title: Chrome preferences for ChromeDriver test profiles
+summary: JSON preferences template that disables first-run, autofill, safebrowsing, and other Chrome features for profiles used in ChromeDriver tests.

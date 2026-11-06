@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ChromeDriver element commands
+// summary: Unit tests for element commands that exercise them against mock Chrome and WebView stubs.
+// ---
+
 #include "chrome/test/chromedriver/element_commands.h"
 
 #include <memory>

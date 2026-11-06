@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebSocket class and listener interface
+// summary: Declares the WebSocket client class and the WebSocketListener interface for receiving messages and close events.
+// ---
+
 #ifndef CHROME_TEST_CHROMEDRIVER_NET_WEBSOCKET_H_
 #define CHROME_TEST_CHROMEDRIVER_NET_WEBSOCKET_H_
 

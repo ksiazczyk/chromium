@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeDriver command implementations
+// summary: Implements ChromeDriver commands such as status reporting, session creation, BiDi session handling, and session command execution.
+// ---
+
 #include "chrome/test/chromedriver/commands.h"
 
 #include <stddef.h>

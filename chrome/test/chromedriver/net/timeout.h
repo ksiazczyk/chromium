@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Timeout helper class header
+// summary: Declares the Timeout class for tracking elapsed task time with an optional deadline set once and support for derived sub-task timeouts.
+// ---
+
 #ifndef CHROME_TEST_CHROMEDRIVER_NET_TIMEOUT_H_
 #define CHROME_TEST_CHROMEDRIVER_NET_TIMEOUT_H_
 

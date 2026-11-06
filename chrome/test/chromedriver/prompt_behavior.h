@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prompt behavior declarations
+// summary: Declares the PromptBehavior class and prompt handler configuration types used to handle dialogs according to session capabilities.
+// ---
+
 #ifndef CHROME_TEST_CHROMEDRIVER_PROMPT_BEHAVIOR_H_
 #define CHROME_TEST_CHROMEDRIVER_PROMPT_BEHAVIOR_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of testGetTitle_simple.log.
+type: test
+title: Simple GetTitle test log
+summary: Replay fixture with DevTools HTTP requests, responses and WebSocket commands used by the simple GetTitle log replay test.

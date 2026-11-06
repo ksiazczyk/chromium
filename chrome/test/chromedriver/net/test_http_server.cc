@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestHttpServer implementation
+// summary: Implements a threaded HTTP and WebSocket test server that accepts or rejects connections, echoes messages, and serves configured resources.
+// ---
+
 #include "chrome/test/chromedriver/net/test_http_server.h"
 
 #include <memory>

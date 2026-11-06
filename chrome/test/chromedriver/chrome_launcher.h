@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome launcher interface
+// summary: Declares LaunchChrome and internal helpers for processing extensions, preparing user data directories, and reading DevTools port files.
+// ---
+
 #ifndef CHROME_TEST_CHROMEDRIVER_CHROME_LAUNCHER_H_
 #define CHROME_TEST_CHROMEDRIVER_CHROME_LAUNCHER_H_
 

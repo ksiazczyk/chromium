@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Command executor and WebDriver endpoint definitions
+# summary: Defines the Command catalog of HTTP methods and WebDriver endpoint paths and sends requests to the ChromeDriver server on behalf of the test client.
+# ---
+
 import http.client
 import json
 import os

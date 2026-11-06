@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: POSIX pipe reader implementation
+// summary: Implements PipeReaderPosix, providing non-blocking asynchronous reads from a POSIX pipe using file descriptor watchers and completion callbacks.
+// ---
+
 #include "chrome/test/chromedriver/net/pipe_reader_posix.h"
 
 #include <errno.h>

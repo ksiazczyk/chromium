@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Heap snapshot taker implementation
+// summary: Implements taking a heap snapshot over DevTools by enabling the debugger, collecting garbage, and assembling snapshot chunks into a value.
+// ---
+
 
 #include "chrome/test/chromedriver/chrome/heap_snapshot_taker.h"
 

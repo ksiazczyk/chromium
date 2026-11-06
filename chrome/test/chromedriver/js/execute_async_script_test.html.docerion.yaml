@@ -1,0 +1,4 @@
+# Docerion header of execute_async_script_test.html.
+type: test
+title: Tests for asynchronous script execution
+summary: Browser test page covering error codes, argument passing and callback versus returned promise resolution for executeAsyncScript.

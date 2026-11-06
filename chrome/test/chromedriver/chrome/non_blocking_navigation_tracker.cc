@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Non-blocking navigation tracker implementation
+// summary: Implements a no-op PageLoadStrategy that never reports pending navigation and always identifies itself as non-blocking.
+// ---
+
 #include "chrome/test/chromedriver/chrome/non_blocking_navigation_tracker.h"
 
 NonBlockingNavigationTracker::~NonBlockingNavigationTracker() = default;

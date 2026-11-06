@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mobile device emulation header
+// summary: Declares the MobileDevice struct with device metrics, user agent, and client hints, plus helpers to find presets and guess platforms.
+// ---
+
 #ifndef CHROME_TEST_CHROMEDRIVER_CHROME_MOBILE_DEVICE_H_
 #define CHROME_TEST_CHROMEDRIVER_CHROME_MOBILE_DEVICE_H_
 

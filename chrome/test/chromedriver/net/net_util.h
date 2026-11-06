@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network utilities header
+// summary: Declares the NetAddress class and FetchUrl helpers that synchronously fetch HTTP GET responses for chromedriver.
+// ---
+
 #ifndef CHROME_TEST_CHROMEDRIVER_NET_NET_UTIL_H_
 #define CHROME_TEST_CHROMEDRIVER_NET_NET_UTIL_H_
 

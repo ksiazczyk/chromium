@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncWebSocket interface
+// summary: Defines the abstract SyncWebSocket interface for using a WebSocket on a background thread synchronously, with connect, send, and receive operations.
+// ---
+
 #ifndef CHROME_TEST_CHROMEDRIVER_NET_SYNC_WEBSOCKET_H_
 #define CHROME_TEST_CHROMEDRIVER_NET_SYNC_WEBSOCKET_H_
 

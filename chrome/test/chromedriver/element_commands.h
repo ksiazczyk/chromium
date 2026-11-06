@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeDriver element command declarations
+// summary: Declares the element command handlers for finding, clicking, tapping, flicking, clearing and sending keys to elements.
+// ---
+
 #ifndef CHROME_TEST_CHROMEDRIVER_ELEMENT_COMMANDS_H_
 #define CHROME_TEST_CHROMEDRIVER_ELEMENT_COMMANDS_H_
 

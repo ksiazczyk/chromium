@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Geolocation override manager implementation
+// summary: Implements applying geolocation overrides via Page.setGeolocationOverride on connection and top-frame navigation events.
+// ---
+
 #include "chrome/test/chromedriver/chrome/geolocation_override_manager.h"
 
 #include <memory>

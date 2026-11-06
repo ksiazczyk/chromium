@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FedCM commands unit tests
+// summary: Unit tests for the FedCM command handlers using a stub web view and DevTools client to simulate dialog events.
+// ---
+
 #include "chrome/test/chromedriver/fedcm_commands.h"
 
 #include "chrome/test/chromedriver/chrome/fedcm_tracker.h"

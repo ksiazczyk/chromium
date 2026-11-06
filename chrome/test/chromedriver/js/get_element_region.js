@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeDriver element region script
+// summary: JavaScript that returns the portion of an element that should be visible per the WebDriver spec, with special handling for SVG and image map area elements.
+// ---
+
 // Return the portion of the element that should be made visible.
 // Based on the WebDriver spec, this function only considers the first rectangle
 // returned by element.getClientRects function.

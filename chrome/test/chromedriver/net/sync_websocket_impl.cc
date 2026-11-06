@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncWebSocketImpl implementation
+// summary: Implements the synchronous WebSocket proxy, dispatching connect, send, and receive calls to a core on the network thread with retries and timeouts.
+// ---
+
 #include "chrome/test/chromedriver/net/sync_websocket_impl.h"
 
 #include <memory>

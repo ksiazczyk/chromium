@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Frame tracker implementation
+// summary: Implements tracking of frames, execution contexts and child targets over DevTools, mapping frame ids to contexts and WebViews.
+// ---
+
 #include "chrome/test/chromedriver/chrome/frame_tracker.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: script
+# title: Chrome repository path helpers
+# summary: Python helper that returns paths to the source root, the chrome test data directory, and the preferred build directory.
+# ---
+
 """Paths to common resources in the Chrome repository."""
 
 import os

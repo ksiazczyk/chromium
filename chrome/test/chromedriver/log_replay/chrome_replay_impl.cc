@@ -1,6 +1,13 @@
 // Copyright 2013 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: ChromeReplayImpl implementation
+// summary: Implements the ChromeReplayImpl browser class whose QuitImpl is a no-op so replay can run without a Chrome process.
+// ---
+
 #include "chrome/test/chromedriver/log_replay/chrome_replay_impl.h"
 
 #include "chrome/test/chromedriver/chrome/devtools_client.h"

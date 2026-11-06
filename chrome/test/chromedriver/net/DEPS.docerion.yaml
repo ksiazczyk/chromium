@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: ChromeDriver net directory dependency rules
+summary: Defines include rules restricting which chromedriver code the net directory may depend on, with exceptions for status, constants, net, and log_replay headers.

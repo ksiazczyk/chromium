@@ -1,0 +1,4 @@
+# Docerion header of get_element_region_test.html.
+type: test
+title: Element region script tests
+summary: HTML test page covering getElementRegion for client rects, SVG elements, image map areas, and partially or fully out-of-view elements.

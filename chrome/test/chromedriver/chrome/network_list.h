@@ -7,6 +7,12 @@
 //     chrome/test/chromedriver/chrome/
 //     third_party/WebKit/Source/devtools/front_end/toolbox/OverridesUI.js
 
+// ---docerion
+// type: source
+// title: Network list header
+// summary: Declares the kNetworks constant string holding the preset network condition definitions used by chromedriver.
+// ---
+
 #ifndef CHROME_TEST_CHROMEDRIVER_CHROME_NETWORK_LIST_H_
 #define CHROME_TEST_CHROMEDRIVER_CHROME_NETWORK_LIST_H_
 

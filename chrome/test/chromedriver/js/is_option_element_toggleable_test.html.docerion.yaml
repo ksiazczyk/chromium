@@ -1,0 +1,4 @@
+# Docerion header of is_option_element_toggleable_test.html.
+type: test
+title: Option element toggleable check tests
+summary: HTML test page verifying isOptionElementToggleable for non-option elements, options outside selects, and multiple versus single selects.

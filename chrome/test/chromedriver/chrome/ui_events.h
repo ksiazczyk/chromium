@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UI event types and constants
+// summary: Defines enums and structs for mouse, touch, and keyboard events and declares KeyEventBuilder for constructing key events.
+// ---
+
 #ifndef CHROME_TEST_CHROMEDRIVER_CHROME_UI_EVENTS_H_
 #define CHROME_TEST_CHROMEDRIVER_CHROME_UI_EVENTS_H_
 

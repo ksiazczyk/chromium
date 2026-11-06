@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Asynchronous WebDriver script executor
+// summary: Injected JavaScript that runs an asynchronous script with injected arguments and reports its result or error using WebDriver status codes.
+// ---
+
 /**
  * Enum for WebDriver status codes.
  * @enum {number}

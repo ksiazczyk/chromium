@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mobile device preset unit tests
+// summary: Unit tests verifying known mobile device presets, their client hints, device metrics, and user agent consistency.
+// ---
+
 #include "chrome/test/chromedriver/chrome/mobile_device.h"
 
 #include <string_view>

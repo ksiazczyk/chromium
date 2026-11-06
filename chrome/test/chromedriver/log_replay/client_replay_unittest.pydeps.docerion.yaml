@@ -1,0 +1,4 @@
+# Docerion header of client_replay_unittest.pydeps.
+type: config
+title: Python dependency list for client replay unit tests
+summary: Generated list of Python module dependencies for client_replay_unittest.py used by the Chromium build.

@@ -1,3 +1,13 @@
+---
+type: reference
+title: DevTools Event Listener
+summary: Describes how DevTools event listeners are registered with DevToolsClientImpl and notified of connections, events, and command responses.
+relations:
+  - references /chrome/test/chromedriver/docs/chrome_connection.md
+  - documents /chrome/test/chromedriver/chrome/devtools_event_listener.h
+  - documents /chrome/test/chromedriver/chrome/devtools_client_impl.cc
+---
+
 # DevTools Event Listener
 
 Each `DevToolsClientImpl` object contains a list of event listeners.

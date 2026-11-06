@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Alert command implementations
+// summary: Implements WebDriver alert commands to check, read, set text on, accept, and dismiss open dialogs.
+// ---
+
 #include "chrome/test/chromedriver/alert_commands.h"
 
 #include <memory>

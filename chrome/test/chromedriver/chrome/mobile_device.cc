@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mobile device emulation implementation
+// summary: Implements mobile device preset lookup, parsing of device metrics and client hints, and reduced user agent generation for emulation.
+// ---
+
 #include "chrome/test/chromedriver/chrome/mobile_device.h"
 
 #include <memory>

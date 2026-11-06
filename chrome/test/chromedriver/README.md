@@ -1,3 +1,13 @@
+---
+type: readme
+title: ChromeDriver
+summary: Explains ChromeDriver's purpose, architecture, build and testing workflow, code structure, release process, and how to contribute.
+relations:
+  - references /chrome/test/chromedriver/docs/chrome_connection.md
+  - references /chrome/test/chromedriver/docs/event_listener.md
+  - references /chrome/test/chromedriver/docs/run_javascript.md
+---
+
 # ChromeDriver
 
 This file contains high-level info about how ChromeDriver works and how to

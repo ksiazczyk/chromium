@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped temp directory with retry on deletion
+// summary: Implements a scoped temporary directory whose destructor retries recursive deletion for up to about one second.
+// ---
+
 #include "chrome/test/chromedriver/chrome/scoped_temp_dir_with_retry.h"
 
 #include "base/logging.h"

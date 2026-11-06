@@ -1,6 +1,13 @@
 // Copyright 2018 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: ReplayHttpClient implementation
+// summary: Implements a DevToolsHttpClient that matches HTTP requests against a ChromeDriver log and returns the logged DevTools HTTP responses.
+// ---
+
 #include "chrome/test/chromedriver/log_replay/replay_http_client.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeDriver capabilities declarations
+// summary: Declares the Switches, LoggingPrefs, PerfLoggingPrefs, and Capabilities types used to represent parsed WebDriver session options.
+// ---
+
 #ifndef CHROME_TEST_CHROMEDRIVER_CAPABILITIES_H_
 #define CHROME_TEST_CHROMEDRIVER_CAPABILITIES_H_
 

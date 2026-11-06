@@ -1,6 +1,13 @@
 // Copyright 2018 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: LogReplaySocket implementation
+// summary: Implements a SyncWebSocket that replays DevTools WebSocket responses and events from a recorded ChromeDriver log file instead of a live browser.
+// ---
+
 #include "chrome/test/chromedriver/log_replay/log_replay_socket.h"
 
 #include <memory>

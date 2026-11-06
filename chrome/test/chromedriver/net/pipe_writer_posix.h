@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PipeWriterPosix class header
+// summary: Declares PipeWriterPosix, a non-blocking pipe writer over the POSIX API with bind, write, close, and thread detach operations.
+// ---
+
 #ifndef CHROME_TEST_CHROMEDRIVER_NET_PIPE_WRITER_POSIX_H_
 #define CHROME_TEST_CHROMEDRIVER_NET_PIPE_WRITER_POSIX_H_
 

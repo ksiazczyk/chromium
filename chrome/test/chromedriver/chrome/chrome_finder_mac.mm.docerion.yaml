@@ -1,0 +1,4 @@
+# Docerion header of chrome_finder_mac.mm.
+type: source
+title: Mac application directory lookup for Chrome finder
+summary: Supplies macOS user and local application directories used when searching for installed Chrome browsers.

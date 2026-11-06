@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome launcher unit tests
+// summary: Unit tests for extension processing in the launcher, covering extension ID generation, CRX handling, and background page detection.
+// ---
+
 #include "chrome/test/chromedriver/chrome_launcher.h"
 
 #include <memory>

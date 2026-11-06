@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Window command unit tests
+// summary: Unit tests for ChromeDriver window commands using stub Chrome, DevTools client, and web view mocks.
+// ---
+
 #include "chrome/test/chromedriver/window_commands.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Download directory override manager unit tests
+// summary: Unit tests verifying the manager sends Browser.setDownloadBehavior commands with the expected download path when connected.
+// ---
+
 #include "chrome/test/chromedriver/chrome/download_directory_override_manager.h"
 #include "base/values.h"
 #include "chrome/test/chromedriver/chrome/recorder_devtools_client.h"

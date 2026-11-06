@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncWebSocketImpl class header
+// summary: Declares SyncWebSocketImpl, a synchronous WebSocket client for ChromeDriver with a thread-safe received message queue and notification callback.
+// ---
+
 #ifndef CHROME_TEST_CHROMEDRIVER_NET_SYNC_WEBSOCKET_IMPL_H_
 #define CHROME_TEST_CHROMEDRIVER_NET_SYNC_WEBSOCKET_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page tracker header
+// summary: Declares PageTracker, a DevTools event listener that tracks pages within a tab and exposes the currently active page view.
+// ---
+
 #ifndef CHROME_TEST_CHROMEDRIVER_CHROME_PAGE_TRACKER_H_
 #define CHROME_TEST_CHROMEDRIVER_CHROME_PAGE_TRACKER_H_
 

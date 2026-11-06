@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BidiTracker DevTools event handling
+// summary: Implements handling of Runtime.bindingCalled events to relay WebDriver BiDi responses from the browser to a callback.
+// ---
+
 #include "chrome/test/chromedriver/chrome/bidi_tracker.h"
 
 #include <stddef.h>

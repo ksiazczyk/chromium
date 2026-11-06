@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RecorderDevToolsClient class header
+// summary: Declares RecorderDevToolsClient and a Command struct that record DevTools commands issued during tests.
+// ---
+
 #ifndef CHROME_TEST_CHROMEDRIVER_CHROME_RECORDER_DEVTOOLS_CLIENT_H_
 #define CHROME_TEST_CHROMEDRIVER_CHROME_RECORDER_DEVTOOLS_CLIENT_H_
 

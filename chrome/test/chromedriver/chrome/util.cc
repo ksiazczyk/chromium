@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeDriver utility for JSON serialization
+// summary: Implements SerializeAsJson overloads that write base values, dictionaries, and strings as JSON, returning a Status error on failure.
+// ---
+
 #include "chrome/test/chromedriver/chrome/util.h"
 
 #include "base/json/json_writer.h"

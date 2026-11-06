@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device manager header
+// summary: Declares the Device and DeviceManager classes that acquire, lock and release Android devices for ChromeDriver automation sessions.
+// ---
+
 #ifndef CHROME_TEST_CHROMEDRIVER_CHROME_DEVICE_MANAGER_H_
 #define CHROME_TEST_CHROMEDRIVER_CHROME_DEVICE_MANAGER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session commands implementation
+// summary: Implements WebDriver session commands such as session initialization, quit, timeouts, window handling, and network conditions.
+// ---
+
 #include "chrome/test/chromedriver/session_commands.h"
 
 #include <algorithm>

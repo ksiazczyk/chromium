@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PipeConnection platform selection header
+// summary: Header that selects the platform-specific PipeConnection implementation, aliasing PipeConnectionWin on Windows and PipeConnectionPosix on POSIX.
+// ---
+
 #ifndef CHROME_TEST_CHROMEDRIVER_NET_PIPE_CONNECTION_H_
 #define CHROME_TEST_CHROMEDRIVER_NET_PIPE_CONNECTION_H_
 

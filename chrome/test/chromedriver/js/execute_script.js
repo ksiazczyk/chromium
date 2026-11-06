@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Synchronous WebDriver script executor
+// summary: Injected JavaScript that executes a script as an async function following the W3C Execute-Script specification, with argument handling left to callFunction.
+// ---
+
 /**
 * Execute the given script following the Execute-Script specification laid out
 * in the W3C WebDriver spec, except for serialization/deserialization of args,

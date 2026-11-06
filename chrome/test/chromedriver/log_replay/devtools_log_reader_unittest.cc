@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for DevToolsLogReader
+// summary: Unit tests verifying DevToolsLogReader parses sample HTTP and WebSocket log files, including timestamps and truncated JSON.
+// ---
+
 
 #include "chrome/test/chromedriver/log_replay/devtools_log_reader.h"
 

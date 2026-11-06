@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScopedTempDirWithRetry class header
+// summary: Declares ScopedTempDirWithRetry, a scoped temporary directory that automatically retries cleanup when deletion fails.
+// ---
+
 #ifndef CHROME_TEST_CHROMEDRIVER_CHROME_SCOPED_TEMP_DIR_WITH_RETRY_H_
 #define CHROME_TEST_CHROMEDRIVER_CHROME_SCOPED_TEMP_DIR_WITH_RETRY_H_
 

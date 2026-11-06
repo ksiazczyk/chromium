@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebView interface for ChromeDriver
+// summary: Defines the abstract WebView interface for controlling tabs, pages, and service workers via DevTools, covering navigation, events, and BiDi commands.
+// ---
+
 #ifndef CHROME_TEST_CHROMEDRIVER_CHROME_WEB_VIEW_H_
 #define CHROME_TEST_CHROMEDRIVER_CHROME_WEB_VIEW_H_
 

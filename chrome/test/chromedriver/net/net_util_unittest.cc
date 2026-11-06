@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network utilities unit tests
+// summary: Tests FetchUrl against a local HTTP server that returns success, 404, and connection-close responses.
+// ---
+
 #include "chrome/test/chromedriver/net/net_util.h"
 
 #include <memory>

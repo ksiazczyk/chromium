@@ -1,0 +1,4 @@
+# Docerion header of get_element_location_test.html.
+type: test
+title: Element location script tests
+summary: HTML test page that verifies getElementLocation and its rect helpers for parent, child, and detached elements using absolutely positioned divs.

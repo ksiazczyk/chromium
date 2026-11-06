@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncWebSocket factory implementation
+// summary: Creates SyncWebSocket instances, returning a live socket or a log replay socket when the devtools-replay command line switch is set.
+// ---
+
 #include "chrome/test/chromedriver/net/sync_websocket_factory.h"
 
 #include <memory>

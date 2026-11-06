@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClientHints and BrandVersion declarations
+// summary: Declares the ClientHints struct and BrandVersion type modeling User-Agent Client Hints mapped to Sec-CH-UA headers and capabilities.
+// ---
+
 #ifndef CHROME_TEST_CHROMEDRIVER_CHROME_CLIENT_HINTS_H_
 #define CHROME_TEST_CHROMEDRIVER_CHROME_CLIENT_HINTS_H_
 

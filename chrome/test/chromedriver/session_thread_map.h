@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session thread map header
+// summary: Defines SessionThreadInfo and the map associating session IDs with their dedicated threads and W3C mode.
+// ---
+
 #ifndef CHROME_TEST_CHROMEDRIVER_SESSION_THREAD_MAP_H_
 #define CHROME_TEST_CHROMEDRIVER_SESSION_THREAD_MAP_H_
 

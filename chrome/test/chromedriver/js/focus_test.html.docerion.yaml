@@ -1,0 +1,4 @@
+# Docerion header of focus_test.html.
+type: test
+title: Tests for element focusing
+summary: Browser test page checking focus behavior on text inputs, buttons, editable divs and transparent or nested elements.

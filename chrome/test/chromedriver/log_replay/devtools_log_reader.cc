@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools log reader implementation
+// summary: Implements LogEntry and DevToolsLogReader to parse DevTools commands, responses, and events out of a ChromeDriver log file.
+// ---
+
 #include "chrome/test/chromedriver/log_replay/devtools_log_reader.h"
 
 #include <iostream>

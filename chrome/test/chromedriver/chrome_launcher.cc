@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome launcher implementation
+// summary: Implements launching Chrome on desktop, Android, and remote targets with the proper switches, extensions, and DevTools connections for ChromeDriver.
+// ---
+
 #include "chrome/test/chromedriver/chrome_launcher.h"
 
 #include <stddef.h>

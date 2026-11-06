@@ -1,6 +1,13 @@
 // Copyright 2018 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: ChromeReplayImpl class declaration
+// summary: Declares a ChromeDesktopImpl subclass that ignores the Chrome process, enabling DevTools replay without launching Chrome.
+// ---
+
 #ifndef CHROME_TEST_CHROMEDRIVER_LOG_REPLAY_CHROME_REPLAY_IMPL_H_
 #define CHROME_TEST_CHROMEDRIVER_LOG_REPLAY_CHROME_REPLAY_IMPL_H_
 

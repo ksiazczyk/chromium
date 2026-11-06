@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: POSIX pipe connection implementation
+// summary: Implements PipeConnectionPosix as a SyncWebSocket over POSIX pipes, with reader and writer threads and routing of messages between Chrome and chromedriver.
+// ---
+
 #include "chrome/test/chromedriver/net/pipe_connection_posix.h"
 
 #include <list>

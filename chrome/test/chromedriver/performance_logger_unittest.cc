@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Performance logger unit tests
+// summary: Unit tests for PerformanceLogger using fake DevTools clients and logs to verify event handling and trace event logging.
+// ---
+
 #include "chrome/test/chromedriver/performance_logger.h"
 
 #include <stddef.h>

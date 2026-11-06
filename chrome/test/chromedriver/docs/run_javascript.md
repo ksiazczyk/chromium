@@ -1,3 +1,9 @@
+---
+type: reference
+title: Run JavaScript Code
+summary: Explains the sources of JavaScript code ChromeDriver runs, the DevTools Runtime.evaluate API, and the WebView methods used to execute scripts.
+---
+
 # Run JavaScript Code
 
 ChromeDriver often needs to send JavaScript code to Chrome for execution.

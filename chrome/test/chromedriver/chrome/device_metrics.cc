@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device metrics implementation
+// summary: Defines the DeviceMetrics constructor that initializes width, height, device scale factor, touch and mobile flags.
+// ---
+
 #include "chrome/test/chromedriver/chrome/device_metrics.h"
 
 DeviceMetrics::DeviceMetrics(int width,

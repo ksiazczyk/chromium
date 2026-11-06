@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigation tracker header
+// summary: Declares NavigationTracker, a PageLoadStrategy that reports whether a navigation is pending per frame.
+// ---
+
 #ifndef CHROME_TEST_CHROMEDRIVER_CHROME_NAVIGATION_TRACKER_H_
 #define CHROME_TEST_CHROMEDRIVER_CHROME_NAVIGATION_TRACKER_H_
 

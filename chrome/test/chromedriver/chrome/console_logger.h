@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConsoleLogger class declaration
+// summary: Declares ConsoleLogger, a DevTools event listener that converts console messages and exceptions into Log entries.
+// ---
+
 #ifndef CHROME_TEST_CHROMEDRIVER_CHROME_CONSOLE_LOGGER_H_
 #define CHROME_TEST_CHROMEDRIVER_CHROME_CONSOLE_LOGGER_H_
 

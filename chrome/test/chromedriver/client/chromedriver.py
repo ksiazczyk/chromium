@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: ChromeDriver test client for controlling a Chrome instance
+# summary: Client library that starts and controls a Chrome instance via ChromeDriver, executes session commands, maps responses to exceptions, and retries browser launch timeouts.
+# ---
+
 import psutil
 import sys
 import time

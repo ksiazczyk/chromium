@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncWebSocket factory header
+// summary: Declares the SyncWebSocketFactory callback type and the function that creates WebSocket factories for chromedriver.
+// ---
+
 #ifndef CHROME_TEST_CHROMEDRIVER_NET_SYNC_WEBSOCKET_FACTORY_H_
 #define CHROME_TEST_CHROMEDRIVER_NET_SYNC_WEBSOCKET_FACTORY_H_
 

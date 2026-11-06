@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Stub WebView implementation
+// summary: Implements StubWebView, a no-op WebView test double whose loads, script evaluations, and input dispatch succeed trivially.
+// ---
+
 #include "chrome/test/chromedriver/chrome/stub_web_view.h"
 
 #include "base/files/file_path.h"

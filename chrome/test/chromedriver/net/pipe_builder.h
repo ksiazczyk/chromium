@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PipeBuilder class header for building pipe connections
+// summary: Declares PipeBuilder, which constructs pipe-based SyncWebSocket connections for chromedriver with selectable asciiz or CBOR protocol modes.
+// ---
+
 #ifndef CHROME_TEST_CHROMEDRIVER_NET_PIPE_BUILDER_H_
 #define CHROME_TEST_CHROMEDRIVER_NET_PIPE_BUILDER_H_
 

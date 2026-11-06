@@ -1,0 +1,4 @@
+# Docerion header of call_function_test.html.
+type: test
+title: Tests for call_function serialization and references
+summary: Browser test page verifying serialization roundtrips, deep structures, element reference resolution and stale reference errors in call_function.js.

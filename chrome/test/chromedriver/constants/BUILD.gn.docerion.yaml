@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for ChromeDriver version header
+summary: GN build file that generates version.cc from the version.cc.in template using the Chrome VERSION, BRANDING, and last-change files as inputs.

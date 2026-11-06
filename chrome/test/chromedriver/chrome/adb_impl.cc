@@ -5,6 +5,12 @@
 // Commands used are documented here:
 // https://github.com/mozilla/libadb.js/blob/master/android-tools/adb-bin/SERVICES.TXT
 
+// ---docerion
+// type: source
+// title: Adb implementation over ADB client socket
+// summary: Implements the Adb interface by sending adb commands to the adb server over an ADB client socket with timeout handling.
+// ---
+
 #include "chrome/test/chromedriver/chrome/adb_impl.h"
 
 #include <string_view>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Basic geometric type implementations
+// summary: Implements the WebPoint, WebSize, and WebRect geometry types used by ChromeDriver.
+// ---
+
 #include "chrome/test/chromedriver/basic_types.h"
 
 WebPoint::WebPoint() : x(0), y(0) {}

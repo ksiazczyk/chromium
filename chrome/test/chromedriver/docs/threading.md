@@ -1,3 +1,13 @@
+---
+type: reference
+title: Threading
+summary: Explains ChromeDriver's command, I/O, and session threads, task-posting conventions, and thread transitions in common scenarios.
+relations:
+  - references /base/threading/thread.h
+  - references /base/task/task_runner.h
+  - documents /chrome/test/chromedriver/server/chromedriver_server.cc
+---
+
 # Threading
 
 ChromeDriver uses 3 types of threads:

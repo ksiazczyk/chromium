@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeDriver version constants header
+// summary: Declares external ChromeDriver version and branding string constants for use across the ChromeDriver code.
+// ---
+
 #ifndef CHROME_TEST_CHROMEDRIVER_CONSTANTS_VERSION_H_
 #define CHROME_TEST_CHROMEDRIVER_CONSTANTS_VERSION_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Timeout helper implementation
+// summary: Implements the Timeout helper that tracks task deadlines and remaining time, including nested sub-task timeout clamping.
+// ---
+
 #include "chrome/test/chromedriver/net/timeout.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeDriver utility unit tests
+// summary: Unit tests for ChromeDriver utilities, covering sole-file unzipping and the optional dictionary value getter functions.
+// ---
+
 #include "chrome/test/chromedriver/util.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebViewInfo and WebViewsInfo implementation
+// summary: Implements WebViewInfo target metadata and the WebViewsInfo collection, parsing DevTools target types and filling info from target lists.
+// ---
+
 #include "chrome/test/chromedriver/chrome/web_view_info.h"
 
 #include <memory>

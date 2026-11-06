@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chromedriver logging interface header
+// summary: Declares the abstract Log class with severity levels and timestamped entries, along with value and JSON display formatting helpers.
+// ---
+
 #ifndef CHROME_TEST_CHROMEDRIVER_CHROME_LOG_H_
 #define CHROME_TEST_CHROMEDRIVER_CHROME_LOG_H_
 

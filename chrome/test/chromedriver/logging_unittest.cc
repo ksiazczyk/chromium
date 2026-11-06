@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeDriver logging unit tests
+// summary: Unit tests for WebDriverLog level name conversion, entry filtering by level, and creation of performance and browser logs.
+// ---
+
 
 #include "chrome/test/chromedriver/logging.h"
 

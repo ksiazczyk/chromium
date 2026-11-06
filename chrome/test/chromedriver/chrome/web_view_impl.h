@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebViewImpl class declarations
+// summary: Declares WebViewImpl and factory methods for creating tab, page, and service worker web views backed by DevTools clients.
+// ---
+
 #ifndef CHROME_TEST_CHROMEDRIVER_CHROME_WEB_VIEW_IMPL_H_
 #define CHROME_TEST_CHROMEDRIVER_CHROME_WEB_VIEW_IMPL_H_
 

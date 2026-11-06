@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Recorder DevTools client implementation
+// summary: DevTools client stub that records every sent command and returns a fixed result for use in ChromeDriver tests.
+// ---
+
 #include "chrome/test/chromedriver/chrome/recorder_devtools_client.h"
 
 #include <memory>

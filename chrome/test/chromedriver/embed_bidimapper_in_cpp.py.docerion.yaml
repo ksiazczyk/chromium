@@ -1,0 +1,4 @@
+# Docerion header of embed_bidimapper_in_cpp.py.
+type: script
+title: Embed bidimapper JavaScript in C++
+summary: Script that embeds the bidi mapper JavaScript into generated C++ source files for ChromeDriver.

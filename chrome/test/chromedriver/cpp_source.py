@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: script
+# title: C++ source generator for embedded resources
+# summary: Python helper that generates C++ header and source files embedding string constants as global variables.
+# ---
+
 """Writes C++ header/cc source files for embedding resources into C++."""
 
 import datetime  # noqa: F401

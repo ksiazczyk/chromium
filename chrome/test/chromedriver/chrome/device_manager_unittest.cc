@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device manager unit test
+// summary: Unit tests for DeviceManager using fake ADB implementations to verify device acquisition, port forwarding and app data clearing behavior.
+// ---
+
 #include "chrome/test/chromedriver/chrome/device_manager.h"
 
 #include <memory>

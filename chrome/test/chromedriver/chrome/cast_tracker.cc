@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastTracker implementation
+// summary: Implements CastTracker, a DevTools event listener that records Cast sinks and issue messages from Cast.enable events.
+// ---
+
 #include "chrome/test/chromedriver/chrome/cast_tracker.h"
 
 #include "chrome/test/chromedriver/chrome/devtools_client.h"
