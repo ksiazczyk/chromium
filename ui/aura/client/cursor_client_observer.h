@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cursor client observer interface
+// summary: Defines the CursorClientObserver interface with callbacks for cursor visibility, size, display and system cursor size changes.
+// ---
+
 #ifndef UI_AURA_CLIENT_CURSOR_CLIENT_OBSERVER_H_
 #define UI_AURA_CLIENT_CURSOR_CLIENT_OBSERVER_H_
 

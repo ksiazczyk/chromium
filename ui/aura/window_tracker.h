@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window tracker class
+// summary: Declares WindowTracker, which tracks an ordered list of aura windows via observation and automatically removes destroyed windows.
+// ---
+
 #ifndef UI_AURA_WINDOW_TRACKER_H_
 #define UI_AURA_WINDOW_TRACKER_H_
 

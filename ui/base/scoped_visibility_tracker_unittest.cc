@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScopedVisibilityTracker unit tests
+// summary: Unit tests covering foreground duration tracking for never-visible, hidden-then-shown, initially-hidden, and duplicate notification scenarios.
+// ---
+
 #include "ui/base/scoped_visibility_tracker.h"
 
 #include <utility>

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for //ui/base
+summary: Specifies the owners responsible for reviewing //ui/base changes, with per-file rules for templates, class properties, build files, and Windows code.

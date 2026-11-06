@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Window destroyed waiter header
+// summary: Declares WindowDestroyedWaiter, a test utility that blocks until a given Aura window is destroyed.
+// ---
+
 #ifndef UI_AURA_TEST_WINDOW_DESTROYED_WAITER_H_
 #define UI_AURA_TEST_WINDOW_DESTROYED_WAITER_H_
 

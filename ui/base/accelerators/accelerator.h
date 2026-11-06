@@ -7,6 +7,12 @@
 // It has a copy constructor and assignment operator so that it can be copied.
 // It also defines the < operator so that it can be used as a key in a std::map.
 
+// ---docerion
+// type: source
+// title: Accelerator class header
+// summary: Declares the keyboard accelerator class that describes shortcuts registered with the FocusManager, including modifier masks and ChromeOS DomCode support.
+// ---
+
 #ifndef UI_BASE_ACCELERATORS_ACCELERATOR_H_
 #define UI_BASE_ACCELERATORS_ACCELERATOR_H_
 

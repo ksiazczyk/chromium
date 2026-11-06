@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestWindowTargeter header
+// summary: Declares a test WindowTargeter that always routes events to the received target, simplifying event targeting behavior in Aura tests.
+// ---
+
 #ifndef UI_AURA_TEST_TEST_WINDOW_TARGETER_H_
 #define UI_AURA_TEST_TEST_WINDOW_TARGETER_H_
 

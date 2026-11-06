@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Capture client observer interface
+// summary: Defines an observer interface notified when input capture changes from one window to another.
+// ---
+
 #ifndef UI_AURA_CLIENT_CAPTURE_CLIENT_OBSERVER_H_
 #define UI_AURA_CLIENT_CAPTURE_CLIENT_OBSERVER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Aura window search test helpers
+// summary: Provides template helpers to search window hierarchies, or all windows in the environment, for a window matching a predicate or title during Aura tests.
+// ---
+
 #ifndef UI_AURA_TEST_FIND_WINDOW_H_
 #define UI_AURA_TEST_FIND_WINDOW_H_
 

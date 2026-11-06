@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LayoutManager
+// summary: Declares the interface for objects that place child windows and respond to layout changes.
+// ---
+
 #ifndef UI_AURA_LAYOUT_MANAGER_H_
 #define UI_AURA_LAYOUT_MANAGER_H_
 

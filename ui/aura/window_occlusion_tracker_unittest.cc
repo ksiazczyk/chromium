@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Window occlusion tracker unit tests
+// summary: Extensive unit tests covering occlusion state computation for window visibility, animations, transforms, and multi-window scenarios.
+// ---
+
 #include "ui/aura/window_occlusion_tracker.h"
 
 #include "base/functional/callback_helpers.h"

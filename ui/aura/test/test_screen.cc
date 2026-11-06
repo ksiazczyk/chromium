@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test screen implementation
+// summary: Implements TestScreen, a test display that provides a primary display with configurable scale, rotation, color space, and work area insets for Aura tests.
+// ---
+
 #include "ui/aura/test/test_screen.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows native window occlusion tracker header
+// summary: Declares NativeWindowOcclusionTrackerWin and its WindowOcclusionCalculator, which track and compute occlusion states of HWNDs on Windows.
+// ---
+
 #ifndef UI_AURA_NATIVE_WINDOW_OCCLUSION_TRACKER_WIN_H_
 #define UI_AURA_NATIVE_WINDOW_OCCLUSION_TRACKER_WIN_H_
 

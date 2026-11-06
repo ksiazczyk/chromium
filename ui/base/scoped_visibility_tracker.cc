@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedVisibilityTracker implementation
+// summary: Implements tracking of total foreground time based on OnShown and OnHidden notifications using an injected tick clock.
+// ---
+
 #include "ui/base/scoped_visibility_tracker.h"
 
 #include <utility>

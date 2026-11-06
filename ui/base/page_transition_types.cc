@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page transition type helpers implementation
+// summary: Implements functions for validating, comparing, stripping qualifiers from, and describing Chromium page transition types.
+// ---
+
 #include "ui/base/page_transition_types.h"
 
 #include <ostream>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hit test component helpers implementation
+// summary: Implements ui::IsResizingComponent and ui::CanPerformDragOrResize, classifying window hit test components for dragging and resizing.
+// ---
+
 #include "ui/base/hit_test.h"
 
 namespace ui {

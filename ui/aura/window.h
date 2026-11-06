@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aura window class header
+// summary: Declares the aura::Window class, its event targeting policy, delete blockers and interfaces for layer ownership, event handling and frame sink clients.
+// ---
+
 #ifndef UI_AURA_WINDOW_H_
 #define UI_AURA_WINDOW_H_
 

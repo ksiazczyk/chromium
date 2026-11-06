@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accelerator map header
+// summary: Declares a template map wrapper for accelerators that supports ChromeOS positional lookup remapping based on DomCode for layout-independent shortcuts.
+// ---
+
 #ifndef UI_BASE_ACCELERATORS_ACCELERATOR_MAP_H_
 #define UI_BASE_ACCELERATORS_ACCELERATOR_MAP_H_
 

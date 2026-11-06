@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test focus client header
+// summary: Declares TestFocusClient, a minimal FocusClient and WindowObserver used to manage window focus in Aura tests.
+// ---
+
 #ifndef UI_AURA_TEST_TEST_FOCUS_CLIENT_H_
 #define UI_AURA_TEST_TEST_FOCUS_CLIENT_H_
 

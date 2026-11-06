@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window open disposition utilities header
+// summary: Declares ui::DispositionFromClick and ui::DispositionFromEventFlags, which translate mouse click and event flags into a WindowOpenDisposition such as opening a background tab.
+// ---
+
 #ifndef UI_BASE_WINDOW_OPEN_DISPOSITION_UTILS_H_
 #define UI_BASE_WINDOW_OPEN_DISPOSITION_UTILS_H_
 

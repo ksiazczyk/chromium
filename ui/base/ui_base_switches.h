@@ -4,6 +4,12 @@
 
 // Defines all the command-line switches used by ui/base.
 
+// ---docerion
+// type: source
+// title: UI base command-line switch definitions
+// summary: Declares the command-line switches used by ui/base, covering platform-specific UI behaviors such as overscroll effects, dark mode, caption style, and font settings.
+// ---
+
 #ifndef UI_BASE_UI_BASE_SWITCHES_H_
 #define UI_BASE_UI_BASE_SWITCHES_H_
 

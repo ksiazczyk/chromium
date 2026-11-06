@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WindowPositionInRootMonitor unit tests
+// summary: Unit tests verifying that the monitor's callback fires only when the watched window is attached to a root and its root-relative position changes.
+// ---
+
 #include "ui/aura_extra/window_position_in_root_monitor.h"
 
 #include "base/functional/bind.h"

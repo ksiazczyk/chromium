@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native window occlusion tracker header
+// summary: Declares NativeWindowOcclusionTracker, a shim between WindowOcclusionTracker and OS-specific window occlusion tracking implementations.
+// ---
+
 #ifndef UI_AURA_NATIVE_WINDOW_OCCLUSION_TRACKER_H_
 #define UI_AURA_NATIVE_WINDOW_OCCLUSION_TRACKER_H_
 

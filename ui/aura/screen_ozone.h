@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScreenOzone class header
+// summary: Declares the aura display::Screen implementation backed by ui::PlatformScreen provided by the Ozone platform.
+// ---
+
 #ifndef UI_AURA_SCREEN_OZONE_H_
 #define UI_AURA_SCREEN_OZONE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CursorClient interface
+// summary: Defines the interface receiving cursor change events, covering cursor setting, visibility, size, color, display and locking behavior.
+// ---
+
 #ifndef UI_AURA_CLIENT_CURSOR_CLIENT_H_
 #define UI_AURA_CLIENT_CURSOR_CLIENT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Aura event generator delegate implementation
+// summary: Implements EventGeneratorDelegateAura, mapping ui::test::EventGenerator operations onto Aura windows with screen position and coordinate conversions.
+// ---
+
 #include "ui/aura/test/event_generator_delegate_aura.h"
 
 #include "base/functional/bind.h"

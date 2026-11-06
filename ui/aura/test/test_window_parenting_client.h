@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestWindowParentingClient header
+// summary: Declares a test WindowParentingClient that supplies a default parent window during tests and unregisters itself from the root window on destruction.
+// ---
+
 #ifndef UI_AURA_TEST_TEST_WINDOW_PARENTING_CLIENT_H_
 #define UI_AURA_TEST_TEST_WINDOW_PARENTING_CLIENT_H_
 

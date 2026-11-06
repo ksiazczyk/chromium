@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the base global accelerator listener
+// summary: Tests the platform-independent GlobalAcceleratorListener base class behavior for registering accelerators, rejecting duplicates, and notifying observers.
+// ---
+
 #include "ui/base/accelerators/global_accelerator_listener/global_accelerator_listener.h"
 
 #include <memory>

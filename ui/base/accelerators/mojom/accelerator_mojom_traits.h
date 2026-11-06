@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo traits for ui::Accelerator
+// summary: Maps ui::Accelerator and its key state enum to and from their Mojom representations via Mojo traits templates.
+// ---
+
 #ifndef UI_BASE_ACCELERATORS_MOJOM_ACCELERATOR_MOJOM_TRAITS_H_
 #define UI_BASE_ACCELERATORS_MOJOM_ACCELERATOR_MOJOM_TRAITS_H_
 

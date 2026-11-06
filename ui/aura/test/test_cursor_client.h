@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test cursor client header
+// summary: Declares TestCursorClient, a fake CursorClient for tests that records cursor changes and supports cursor client observer notifications.
+// ---
+
 #ifndef UI_AURA_TEST_TEST_CURSOR_CLIENT_H_
 #define UI_AURA_TEST_TEST_CURSOR_CLIENT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux menu label accelerator conversion declarations
+// summary: Declares functions to convert Windows-style accelerators to GTK style and to strip them from labels.
+// ---
+
 #ifndef UI_BASE_ACCELERATORS_MENU_LABEL_ACCELERATOR_UTIL_LINUX_H_
 #define UI_BASE_ACCELERATORS_MENU_LABEL_ACCELERATOR_UTIL_LINUX_H_
 

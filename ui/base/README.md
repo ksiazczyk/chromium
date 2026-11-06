@@ -1,3 +1,11 @@
+---
+type: readme
+title: Overview of the //ui/base directory
+summary: Describes the low-level UI code reused across the Chromium UI stack, its toolkit-specific and platform-independent libraries, and its dependency constraints.
+relations:
+  - references /ui/base/OWNERS
+---
+
 # //ui/base
 
 This directory contains low-level code that is reused throughout the chromium UI

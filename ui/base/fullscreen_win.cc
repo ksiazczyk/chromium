@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows full-screen mode detection
+// summary: Implements IsFullScreenMode by checking platform, foreground window, and console full-screen states through Win32 APIs.
+// ---
+
 #include "ui/base/fullscreen_win.h"
 
 #include <windows.h>

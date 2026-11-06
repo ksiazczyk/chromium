@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows global accelerator listener implementation
+// summary: Implements the Windows global accelerator listener, registering global hot keys through SingletonHwndHotKeyObserver and forwarding WM_HOTKEY messages to the base class.
+// ---
+
 #include "ui/base/accelerators/global_accelerator_listener/global_accelerator_listener_win.h"
 
 #include <memory>

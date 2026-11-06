@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EventClient interface header
+// summary: Declares the EventClient interface that alters event processing for aura windows, plus helpers to set and get the event client on a root window.
+// ---
+
 #ifndef UI_AURA_CLIENT_EVENT_CLIENT_H_
 #define UI_AURA_CLIENT_EVENT_CLIENT_H_
 

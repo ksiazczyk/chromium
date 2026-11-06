@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window occlusion tracker class
+// summary: Declares WindowOcclusionTracker, which notifies tracked windows when their occlusion state changes, with scoped pause, exclude, and force-visible helpers.
+// ---
+
 #ifndef UI_AURA_WINDOW_OCCLUSION_TRACKER_H_
 #define UI_AURA_WINDOW_OCCLUSION_TRACKER_H_
 

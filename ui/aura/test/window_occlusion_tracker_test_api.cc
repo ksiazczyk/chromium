@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Window occlusion tracker test API implementation
+// summary: Implements the test API for WindowOcclusionTracker, allowing tests to create a tracker and inspect, pause, unpause and lock occlusion recomputation.
+// ---
+
 #include "ui/aura/test/window_occlusion_tracker_test_api.h"
 
 #include "base/memory/ptr_util.h"

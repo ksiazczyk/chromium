@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Default event generator delegate header
+// summary: Declares DefaultEventGeneratorDelegate, the default EventGeneratorDelegateAura subclass used to target events at the root window in tests.
+// ---
+
 #ifndef UI_AURA_TEST_DEFAULT_EVENT_GENERATOR_DELEGATE_H_
 #define UI_AURA_TEST_DEFAULT_EVENT_GENERATOR_DELEGATE_H_
 

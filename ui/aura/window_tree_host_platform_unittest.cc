@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WindowTreeHostPlatform unit tests
+// summary: Unit tests for WindowTreeHostPlatform using a stub platform window, covering bounds change processing and observer notification recursion.
+// ---
+
 #include "ui/aura/window_tree_host_platform.h"
 
 #include "base/memory/raw_ptr.h"

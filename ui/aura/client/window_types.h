@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window type enum
+// summary: Defines the WindowType enum listing window kinds such as normal, popup, control, menu and tooltip, fixed after window initialization.
+// ---
+
 #ifndef UI_AURA_CLIENT_WINDOW_TYPES_H_
 #define UI_AURA_CLIENT_WINDOW_TYPES_H_
 

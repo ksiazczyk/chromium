@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedWindowCaptureRequest implementation
+// summary: Implements a move-only scoped request that makes a non-root window individually capturable via a viz SubtreeCaptureId and cleans up on destruction.
+// ---
+
 #include "ui/aura/scoped_window_capture_request.h"
 
 #include "ui/aura/window.h"

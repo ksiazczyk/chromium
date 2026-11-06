@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Window occlusion tracker test API header
+// summary: Declares the WindowOcclusionTrackerTestApi class that gives tests access to occlusion tracker state, pausing and window locking.
+// ---
+
 #ifndef UI_AURA_TEST_WINDOW_OCCLUSION_TRACKER_TEST_API_H_
 #define UI_AURA_TEST_WINDOW_OCCLUSION_TRACKER_TEST_API_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Window destroyed waiter implementation
+// summary: Implements a WindowObserver-based waiter that runs a nested loop until the observed Aura window is destroyed.
+// ---
+
 #include "ui/aura/test/window_destroyed_waiter.h"
 
 #include <utility>

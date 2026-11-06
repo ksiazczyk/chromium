@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PropertyHandler implementation for class properties
+// summary: Implements PropertyHandler storage, retrieval, and cascading parent lookup of class properties, including acquiring properties from another handler.
+// ---
+
 #include "ui/base/class_property.h"
 
 #include <stdint.h>

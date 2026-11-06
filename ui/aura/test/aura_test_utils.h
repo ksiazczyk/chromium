@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Aura test utility function declarations
+// summary: Declares test helper functions for querying and manipulating WindowTreeHost state, including dispatcher swapping and throttled host inspection.
+// ---
+
 #ifndef UI_AURA_TEST_AURA_TEST_UTILS_H_
 #define UI_AURA_TEST_AURA_TEST_UTILS_H_
 

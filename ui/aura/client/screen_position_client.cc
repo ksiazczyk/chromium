@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScreenPositionClient implementation
+// summary: Implements point conversion helpers between window, root window and screen coordinates and the property accessors for ScreenPositionClient.
+// ---
+
 #include "ui/aura/client/screen_position_client.h"
 
 #include "ui/base/class_property.h"

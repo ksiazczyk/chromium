@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aura Env class declaration
+// summary: Declares aura::Env, a singleton tracking general Aura state such as mouse, touch, gesture recognizer and context factory.
+// ---
+
 #ifndef UI_AURA_ENV_H_
 #define UI_AURA_ENV_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test window delegate implementations
+// summary: Implements stubbed WindowDelegate variants for Aura tests, including a self-destroying delegate, a color-painting delegate, a hit-test-masked delegate and an event-counting delegate.
+// ---
+
 #include "ui/aura/test/test_window_delegate.h"
 
 #include "base/strings/stringprintf.h"

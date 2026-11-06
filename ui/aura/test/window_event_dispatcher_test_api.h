@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Window event dispatcher test API header
+// summary: Declares WindowEventDispatcherTestApi, letting tests inspect held pointer moves and wait for their dispatch in Aura.
+// ---
+
 #ifndef UI_AURA_TEST_WINDOW_EVENT_DISPATCHER_TEST_API_H_
 #define UI_AURA_TEST_WINDOW_EVENT_DISPATCHER_TEST_API_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Window occlusion change builder unit tests
+// summary: Unit tests verifying that occlusion changes are applied to single and multiple windows only when the change builder is committed.
+// ---
+
 #include "ui/aura/window_occlusion_change_builder.h"
 
 #include <memory>

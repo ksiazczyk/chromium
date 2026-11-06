@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WindowTreeHost test utilities implementation
+// summary: Implements test-only access to WindowTreeHost internals such as the last cursor request position, dispatcher replacement, IME disabling and occlusion tracking.
+// ---
+
 #include "ui/aura/test/aura_test_utils.h"
 #include "base/memory/raw_ptr.h"
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Exported class property type definitions
+// summary: Defines exported UI class property type specializations for bool, float, int, and std::u16string used across the ui_base component.
+// ---
+
 #include "ui/base/class_properties.h"
 
 #include <stdint.h>

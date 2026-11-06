@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WindowPositionInRootMonitor implementation
+// summary: Implements WindowPositionInRootMonitor, which observes a window and its ancestors and runs a callback when the window's root-relative position changes.
+// ---
+
 #include "ui/aura_extra/window_position_in_root_monitor.h"
 
 #include "ui/aura/window.h"

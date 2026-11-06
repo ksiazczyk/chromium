@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test window delegate declarations
+// summary: Declares TestWindowDelegate with all WindowDelegate methods stubbed out, plus derived test delegates such as ColorTestWindowDelegate and MaskedWindowDelegate.
+// ---
+
 #ifndef UI_AURA_TEST_TEST_WINDOW_DELEGATE_H_
 #define UI_AURA_TEST_TEST_WINDOW_DELEGATE_H_
 

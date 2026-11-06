@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Env input state controller implementation
+// summary: Updates Env's mouse button flags, touch IDs and last pointer locations in response to mouse and touch events.
+// ---
+
 #include "ui/aura/env_input_state_controller.h"
 
 #include "build/build_config.h"

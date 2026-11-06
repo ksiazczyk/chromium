@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS global accelerator listener implementation
+// summary: Implements the ChromeOS listener that registers and unregisters accelerators through a global delegate and forwards key presses.
+// ---
+
 #include "ui/base/accelerators/global_accelerator_listener/global_accelerator_listener_chromeos.h"
 
 #include "ui/base/accelerators/accelerator.h"

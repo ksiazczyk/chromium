@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedWindowEventTargetingBlocker class header
+// summary: Declares a scoped helper that temporarily blocks event targeting on a window and restores its original targeting policy afterwards.
+// ---
+
 #ifndef UI_AURA_SCOPED_WINDOW_EVENT_TARGETING_BLOCKER_H_
 #define UI_AURA_SCOPED_WINDOW_EVENT_TARGETING_BLOCKER_H_
 

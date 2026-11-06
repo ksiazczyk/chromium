@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window targeter implementation
+// summary: Implements hit-testing and event targeting for aura windows, including priority targets such as capture, mouse-press, and touch-locked windows.
+// ---
+
 #include "ui/aura/window_targeter.h"
 
 #include <tuple>

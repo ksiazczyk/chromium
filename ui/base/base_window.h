@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BaseWindow interface for window actions and state
+// summary: Declares the BaseWindow interface for performing actions on windows and querying state such as maximization, visibility, bounds, and z-order.
+// ---
+
 #ifndef UI_BASE_BASE_WINDOW_H_
 #define UI_BASE_BASE_WINDOW_H_
 

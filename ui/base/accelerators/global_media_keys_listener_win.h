@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows global media keys listener class declaration
+// summary: Declares GlobalMediaKeysListenerWin, a single-instance MediaKeysListener that watches media keys globally on Windows via RegisterHotKey.
+// ---
+
 #ifndef UI_BASE_ACCELERATORS_GLOBAL_MEDIA_KEYS_LISTENER_WIN_H_
 #define UI_BASE_ACCELERATORS_GLOBAL_MEDIA_KEYS_LISTENER_WIN_H_
 

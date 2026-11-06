@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android implementation of device form factor detection
+// summary: Detects TV, automotive, desktop, XR, tablet, or phone form factors using Android device info and a JNI call.
+// ---
+
 #include "ui/base/device_form_factor.h"
 
 #include "base/android/device_info.h"

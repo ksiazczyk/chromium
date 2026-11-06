@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UI base feature flag declarations
+// summary: Declares UI base feature flags, parameters, and query helpers like IsForcedColorsEnabled for consumers of the UI_BASE_FEATURES component.
+// ---
+
 #ifndef UI_BASE_UI_BASE_FEATURES_H_
 #define UI_BASE_UI_BASE_FEATURES_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DragDropClientObserver interface
+// summary: Declares the observer interface notified of drag-and-drop lifecycle events such as drag start, update, completion and cancellation.
+// ---
+
 #ifndef UI_AURA_CLIENT_DRAG_DROP_CLIENT_OBSERVER_H_
 #define UI_AURA_CLIENT_DRAG_DROP_CLIENT_OBSERVER_H_
 

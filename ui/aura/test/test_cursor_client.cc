@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test cursor client implementation
+// summary: Implements TestCursorClient, a stub CursorClient that tracks cursor visibility, locking, mouse event state, and SetCursor call counts for tests.
+// ---
+
 #include "ui/aura/test/test_cursor_client.h"
 
 #include "ui/aura/client/cursor_client_observer.h"

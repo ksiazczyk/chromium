@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedVisibilityTracker class declaration
+// summary: Declares a class that accumulates visible time from OnShown and OnHidden notifications and reports the total foreground duration.
+// ---
+
 #ifndef UI_BASE_SCOPED_VISIBILITY_TRACKER_H_
 #define UI_BASE_SCOPED_VISIBILITY_TRACKER_H_
 

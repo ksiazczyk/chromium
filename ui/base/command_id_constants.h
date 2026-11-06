@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Command ID constant for unbounded item lists
+// summary: Defines COMMAND_ID_FIRST_UNBOUNDED, the starting command ID for a variable number of items, kept above all Chrome command IDs.
+// ---
+
 #ifndef UI_BASE_COMMAND_ID_CONSTANTS_H_
 #define UI_BASE_COMMAND_ID_CONSTANTS_H_
 

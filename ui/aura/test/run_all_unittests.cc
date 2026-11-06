@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Aura unit tests entry point
+// summary: Main entry point for Aura unit tests, initializing the test suite, GL surface, resource bundle, and aura::Env before launching the unit tests.
+// ---
+
 #include "base/functional/bind.h"
 #include "base/path_service.h"
 #include "base/test/launcher/unit_test_launcher.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScreenOzone implementation
+// summary: Implements display::Screen on top of the Ozone PlatformScreen, forwarding display, cursor, idle time, and screen saver queries.
+// ---
+
 #include "ui/aura/screen_ozone.h"
 
 #include <memory>

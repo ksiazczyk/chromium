@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Aura Env test helper
+// summary: Test helper for manipulating aura::Env state in tests, including input state lookup, gesture recognizer replacement, and resetting mouse, touch, and event state.
+// ---
+
 #ifndef UI_AURA_TEST_ENV_TEST_HELPER_H_
 #define UI_AURA_TEST_ENV_TEST_HELPER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Aura component build definition
+summary: GN build file defining the aura component, listing its public headers, sources, dependencies and AURA_IMPLEMENTATION define.

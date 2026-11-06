@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CursorShapeClient interface
+// summary: Defines the CursorShapeClient interface for querying cursor data, plus accessors to set and get the client.
+// ---
+
 #ifndef UI_AURA_CLIENT_CURSOR_SHAPE_CLIENT_H_
 #define UI_AURA_CLIENT_CURSOR_SHAPE_CLIENT_H_
 

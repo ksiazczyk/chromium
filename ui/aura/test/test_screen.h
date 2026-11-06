@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestScreen header for a fake display::Screen in Aura tests
+// summary: Declares TestScreen, a minimal testing implementation of display::Screen that can create a host for the primary display and adjust scale factor, color space, rotation, UI scale and work area insets.
+// ---
+
 #ifndef UI_AURA_TEST_TEST_SCREEN_H_
 #define UI_AURA_TEST_TEST_SCREEN_H_
 

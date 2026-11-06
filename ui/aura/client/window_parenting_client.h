@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window parenting client interface
+// summary: Interface that helps locate a default parent for NULL-parented windows and provides ParentWindowWithContext to add windows to an appropriate parent.
+// ---
+
 #ifndef UI_AURA_CLIENT_WINDOW_PARENTING_CLIENT_H_
 #define UI_AURA_CLIENT_WINDOW_PARENTING_CLIENT_H_
 

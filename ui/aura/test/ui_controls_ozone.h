@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ozone UI controls class header
+// summary: Declares UIControlsOzone, a test helper that synthesizes and posts key, mouse and touch events for a given WindowTreeHost.
+// ---
+
 #ifndef UI_AURA_TEST_UI_CONTROLS_OZONE_H_
 #define UI_AURA_TEST_UI_CONTROLS_OZONE_H_
 

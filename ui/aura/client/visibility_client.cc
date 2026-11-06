@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Visibility client property helpers
+// summary: Implements setting and looking up the VisibilityClient for a window, crawling up the window hierarchy until a client is found.
+// ---
+
 #include "ui/aura/client/visibility_client.h"
 
 #include "ui/aura/window.h"

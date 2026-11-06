@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UI base path provider implementation
+// summary: Implements the ui path provider resolving keys such as DIR_LOCALES, UI_DIR_TEST_DATA, and UI_TEST_PAK with platform-specific logic.
+// ---
+
 #include "ui/base/ui_base_paths.h"
 
 #include "base/command_line.h"

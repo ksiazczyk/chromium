@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AuraTestHelper header
+// summary: Declares AuraTestHelper, a class owned by tests that creates a root window with the clients and objects needed to run tests on Aura.
+// ---
+
 #ifndef UI_AURA_TEST_AURA_TEST_HELPER_H_
 #define UI_AURA_TEST_AURA_TEST_HELPER_H_
 

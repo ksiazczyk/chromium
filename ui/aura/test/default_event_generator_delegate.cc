@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Default event generator delegate implementation
+// summary: Implements the default Aura event generator delegate that resolves event targets from the root window and supplies the screen position client.
+// ---
+
 #include "ui/aura/test/default_event_generator_delegate.h"
 
 #include "ui/aura/client/screen_position_client.h"

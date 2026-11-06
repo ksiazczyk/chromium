@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window observer interface
+// summary: Defines the WindowObserver interface with notifications for hierarchy changes, visibility, properties, bounds, stacking and window destruction.
+// ---
+
 #ifndef UI_AURA_WINDOW_OBSERVER_H_
 #define UI_AURA_WINDOW_OBSERVER_H_
 

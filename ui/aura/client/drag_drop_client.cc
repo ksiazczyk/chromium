@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DragDropClient property helpers
+// summary: Provides functions to set and get the DragDropClient property on a root window.
+// ---
+
 #include "ui/aura/client/drag_drop_client.h"
 
 #include "ui/aura/window.h"

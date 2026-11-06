@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped keyboard hook implementation
+// summary: Implements ScopedKeyboardHook, which releases system key event capture from the WindowTreeHost on destruction and reports locked keys.
+// ---
+
 #include "ui/aura/scoped_keyboard_hook.h"
 
 #include "ui/aura/window_tree_host.h"

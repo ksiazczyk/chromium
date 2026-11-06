@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test accelerator target implementation
+// summary: Implements TestAcceleratorTarget, a configurable AcceleratorTarget test double that counts accelerator presses and repeats.
+// ---
+
 #include "ui/base/accelerators/test_accelerator_target.h"
 
 namespace ui {

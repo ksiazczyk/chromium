@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FocusClient interface header
+// summary: Declares the FocusClient interface that manages window focus, including observer registration, focusing windows and retrieving the focused window.
+// ---
+
 #ifndef UI_AURA_CLIENT_FOCUS_CLIENT_H_
 #define UI_AURA_CLIENT_FOCUS_CLIENT_H_
 

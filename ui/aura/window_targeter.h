@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window targeter class
+// summary: Declares WindowTargeter, which finds event targets in window hierarchies and supports extended hit-test insets and extra shape rects.
+// ---
+
 #ifndef UI_AURA_WINDOW_TARGETER_H_
 #define UI_AURA_WINDOW_TARGETER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aura extra export macro header
+// summary: Defines the AURA_EXTRA_EXPORT macro used to export aura_extra functionality to consumers across component and non-component builds.
+// ---
+
 #ifndef UI_AURA_EXTRA_AURA_EXTRA_EXPORT_H_
 #define UI_AURA_EXTRA_AURA_EXTRA_EXPORT_H_
 

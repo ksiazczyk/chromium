@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Menu label mnemonic and escaping tests
+// summary: Unit tests for mnemonic extraction and ampersand escaping behavior in menu labels.
+// ---
+
 #include "ui/base/accelerators/menu_label_accelerator_util.h"
 
 #include "base/strings/utf_string_conversions.h"

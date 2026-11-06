@@ -1,0 +1,4 @@
+# Docerion header of accelerator.mojom.
+type: source
+title: Accelerator Mojom definitions
+summary: Defines the ui.mojom.Accelerator struct and AcceleratorKeyState enum mirroring ui::Accelerator for Mojo IPC.

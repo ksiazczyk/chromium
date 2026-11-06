@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ozone global accelerator listener implementation
+// summary: Implements the Ozone global accelerator listener and the GetInstance factory that selects platform listeners, including the Linux portal listener with GNOME-specific workarounds.
+// ---
+
 #include "ui/base/accelerators/global_accelerator_listener/global_accelerator_listener_ozone.h"
 
 #include "base/memory/ptr_util.h"

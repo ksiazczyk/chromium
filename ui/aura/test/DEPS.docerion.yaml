@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Aura test directory DEPS include rules
+summary: Defines the allowed include dependencies for the aura test directory, such as cc/test, viz test support, mojo embedder, ui/gl and ui/wm/core.

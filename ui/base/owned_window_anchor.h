@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Owned window anchor structure header
+// summary: Defines the OwnedWindowAnchor struct describing how system compositors such as Ozone/Wayland position owned windows like menus and tooltips.
+// ---
+
 #ifndef UI_BASE_OWNED_WINDOW_ANCHOR_H_
 #define UI_BASE_OWNED_WINDOW_ANCHOR_H_
 

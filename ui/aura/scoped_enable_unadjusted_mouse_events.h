@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped enable unadjusted mouse events header
+// summary: Declares a scoping class that enables unadjusted mouse input such as WM_INPUT while alive and exits that mode when destroyed.
+// ---
+
 #ifndef UI_AURA_SCOPED_ENABLE_UNADJUSTED_MOUSE_EVENTS_H_
 #define UI_AURA_SCOPED_ENABLE_UNADJUSTED_MOUSE_EVENTS_H_
 

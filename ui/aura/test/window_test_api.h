@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Window test API header
+// summary: Declares the WindowTestApi class exposing internal Window state and behavior, such as occlusion state and mouse containment, for use in tests.
+// ---
+
 #ifndef UI_AURA_TEST_WINDOW_TEST_API_H_
 #define UI_AURA_TEST_WINDOW_TEST_API_H_
 

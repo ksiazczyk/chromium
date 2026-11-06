@@ -1,0 +1,4 @@
+# Docerion header of global_accelerator_listener_mac.mm.
+type: source
+title: Mac global accelerator listener implementation
+summary: Implements the Mac global accelerator listener, registering hot keys with Carbon RegisterEventHotKey, handling media keys, and re-registering hot keys on keyboard layout changes.

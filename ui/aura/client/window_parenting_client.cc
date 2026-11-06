@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window parenting client implementation
+// summary: Implements storing and retrieving the WindowParentingClient on a root window and parenting windows with context, bounds and display id.
+// ---
+
 #include "ui/aura/client/window_parenting_client.h"
 
 #include "ui/aura/env.h"

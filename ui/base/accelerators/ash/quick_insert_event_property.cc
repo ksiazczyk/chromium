@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick insert event property implementation
+// summary: Implements setting and checking the quick insert property that marks events as intended for the quick insert key in accelerator handling.
+// ---
+
 #include "ui/base/accelerators/ash/quick_insert_event_property.h"
 
 #include <cstdint>

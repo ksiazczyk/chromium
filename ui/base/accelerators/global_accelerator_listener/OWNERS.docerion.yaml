@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the global accelerator listener directory
+summary: Delegates directory ownership to extensions/OWNERS and assigns a per-file owner for the Linux listener sources.

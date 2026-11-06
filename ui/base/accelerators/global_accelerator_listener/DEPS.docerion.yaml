@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the global accelerator listener directory
+summary: Specifies allowed include dependencies for the directory, with extra rules for Mac, Windows, Android and unit test files.

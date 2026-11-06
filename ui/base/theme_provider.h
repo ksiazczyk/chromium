@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThemeProvider interface for theme colors and images
+// summary: Abstract interface defining the API for providing theme tints, display properties, and bitmaps, with image methods excluded on Android.
+// ---
+
 #ifndef UI_BASE_THEME_PROVIDER_H_
 #define UI_BASE_THEME_PROVIDER_H_
 

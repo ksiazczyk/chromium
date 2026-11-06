@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestWindowParentingClient implementation
+// summary: Implements a test WindowParentingClient that registers itself on a root window and returns a configurable default parent for newly added child windows.
+// ---
+
 #include "ui/aura/test/test_window_parenting_client.h"
 
 #include "ui/aura/window.h"

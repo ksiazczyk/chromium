@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window stacking client globals
+// summary: Implements the global setter and getter for the process-wide WindowStackingClient instance.
+// ---
+
 #include "ui/aura/client/window_stacking_client.h"
 
 namespace aura {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Aura test window helper functions
+// summary: Implements helpers that create test windows via TestWindowBuilder, compare window and layer stacking order, and format child window IDs as a string for assertions.
+// ---
+
 #include "ui/aura/test/test_windows.h"
 
 #include <stddef.h>

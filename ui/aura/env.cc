@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aura Env implementation
+// summary: Implements the aura::Env singleton that tracks global input state, gesture recognition and event observers for Aura.
+// ---
+
 #include "ui/aura/env.h"
 
 #include <vector>

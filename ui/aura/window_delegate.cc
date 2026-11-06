@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window delegate default implementation
+// summary: Provides the default WindowDelegate implementation, returning false for RequiresDoubleTapGestureEvents.
+// ---
+
 #include "ui/aura/window_delegate.h"
 
 namespace aura {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AuraTestBase implementation
+// summary: Implements the AuraTestBase fixture that configures gesture recognition parameters, sets up the Aura test environment, and offers window creation and event dispatch helpers.
+// ---
+
 #include "ui/aura/test/aura_test_base.h"
 
 #include "base/command_line.h"

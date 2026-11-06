@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ViewProp interface
+// summary: Declares ViewProp, a replacement for Win32 SetProp that associates key/value pairs with views for Windows and Aura builds.
+// ---
+
 #ifndef UI_BASE_VIEW_PROP_H_
 #define UI_BASE_VIEW_PROP_H_
 

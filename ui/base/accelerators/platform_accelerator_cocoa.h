@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cocoa platform accelerator key equivalent helper
+// summary: Declares a macOS helper that maps a ui::Accelerator to an NSMenuItem key equivalent and modifier mask.
+// ---
+
 #ifndef UI_BASE_ACCELERATORS_PLATFORM_ACCELERATOR_COCOA_H_
 #define UI_BASE_ACCELERATORS_PLATFORM_ACCELERATOR_COCOA_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AuraTestBase test fixture header
+// summary: Declares AuraTestBase, the base class for Aura unit tests, exposing root window, host, event sink, screen and focus client accessors.
+// ---
+
 #ifndef UI_AURA_TEST_AURA_TEST_BASE_H_
 #define UI_AURA_TEST_AURA_TEST_BASE_H_
 

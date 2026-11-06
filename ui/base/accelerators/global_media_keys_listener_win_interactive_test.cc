@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Interactive tests for Windows media keys listener
+// summary: Interactive Windows tests that inject media key input and verify the global listener reports the expected accelerators to its delegate.
+// ---
+
 #include <windows.h>
 
 #include "base/functional/callback.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WindowPositionInRootMonitor class header
+// summary: Declares WindowPositionInRootMonitor, an aura::WindowObserver that notifies a callback when a window's position relative to the root changes while attached to a root.
+// ---
+
 #ifndef UI_AURA_EXTRA_WINDOW_POSITION_IN_ROOT_MONITOR_H_
 #define UI_AURA_EXTRA_WINDOW_POSITION_IN_ROOT_MONITOR_H_
 

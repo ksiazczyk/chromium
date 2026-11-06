@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux global accelerator listener implementation
+// summary: Implements the Linux global accelerator listener that binds and listens for global shortcuts through the org.freedesktop.portal.GlobalShortcuts D-Bus interface.
+// ---
+
 #include "ui/base/accelerators/global_accelerator_listener/global_accelerator_listener_linux.h"
 
 #include <algorithm>

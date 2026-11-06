@@ -1,0 +1,4 @@
+# Docerion header of README.chromium.
+type: readme
+title: Chromium README for the ui/base component
+summary: Explains that //ui/base acts as a gathering place for UI utilities needed by multiple top-level directories and should shrink over time.

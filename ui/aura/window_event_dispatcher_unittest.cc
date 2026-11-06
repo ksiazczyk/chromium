@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Window event dispatcher unit tests
+// summary: Unit tests covering aura event dispatch behavior, including non-client hit testing, key event consumption, capture and gesture handling.
+// ---
+
 #include "ui/aura/window_event_dispatcher.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HostFrameRateThrottler
+// summary: Declares a singleton that tracks and throttles the frame rate of occluded WindowTreeHosts.
+// ---
+
 #ifndef UI_AURA_HOST_FRAME_RATE_THROTTLER_H_
 #define UI_AURA_HOST_FRAME_RATE_THROTTLER_H_
 

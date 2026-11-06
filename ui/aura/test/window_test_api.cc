@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Window test API implementation
+// summary: Implements the WindowTestApi helper that lets tests check layer ownership, mouse containment, disable frame sink registration and set occlusion state.
+// ---
+
 #include "ui/aura/test/window_test_api.h"
 
 #include "ui/aura/window_event_dispatcher.h"

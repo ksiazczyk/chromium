@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EventInjector implementation
+// summary: Implements event injection into a WindowTreeHost, transforming located event coordinates for root transforms before dispatch.
+// ---
+
 #include "ui/aura/event_injector.h"
 
 #include <utility>

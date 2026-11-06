@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ozone UI controls implementation
+// summary: Implements UIControlsAura on Ozone by posting synthesized key, mouse and touch events to a WindowTreeHost for tests.
+// ---
+
 #include "ui/aura/test/ui_controls_ozone.h"
 
 #include <tuple>

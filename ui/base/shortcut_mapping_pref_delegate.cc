@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShortcutMappingPrefDelegate implementation
+// summary: Implements singleton instance storage and lifecycle management for the shortcut mapping preference delegate.
+// ---
+
 #include "ui/base/shortcut_mapping_pref_delegate.h"
 
 #include "base/check.h"
