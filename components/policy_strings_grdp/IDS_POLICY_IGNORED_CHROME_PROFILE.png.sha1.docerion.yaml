@@ -1,0 +1,4 @@
+# Docerion header of IDS_POLICY_IGNORED_CHROME_PROFILE.png.sha1.
+type: data
+title: SHA-1 checksum for IDS_POLICY_IGNORED_CHROME_PROFILE.png
+summary: Stores the SHA-1 hash that pins the expected content of the IDS_POLICY_IGNORED_CHROME_PROFILE.png image in the policy strings resources.

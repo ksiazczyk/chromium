@@ -1,0 +1,4 @@
+# Docerion header of IDS_POLICY_PROXY_INVALID_SCHEME_HOST_PORT.png.sha1.
+type: asset
+title: SHA1 checksum for IDS_POLICY_PROXY_INVALID_SCHEME_HOST_PORT.png
+summary: SHA1 checksum used to verify the invalid proxy scheme, host and port image in the policy strings resources.
