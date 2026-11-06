@@ -1,3 +1,13 @@
+---
+type: readme
+title: mini_installer Tests
+summary: Documents how to build, run, and configure the mini_installer test suite, covering states, validators, variables, conditions, actions, and tests.
+relations:
+  - documents /chrome/test/mini_installer/config/config.config
+  - documents /chrome/test/mini_installer/file_operations.py
+  - documents /chrome/test/mini_installer/installer_test.py
+---
+
 # mini_installer Tests
 
 Chromium's `mini_installer_tests` (driven by the

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DicReader class header
+// summary: Declares the DicReader class that reads Hunspell .dic files and returns an ordered word list with associated affix group IDs.
+// ---
+
 #ifndef CHROME_TOOLS_CONVERT_DICT_DIC_READER_H__
 #define CHROME_TOOLS_CONVERT_DICT_DIC_READER_H__
 

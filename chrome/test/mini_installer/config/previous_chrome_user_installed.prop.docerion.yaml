@@ -1,0 +1,4 @@
+# Docerion header of previous_chrome_user_installed.prop.
+type: test
+title: Previous user-level Chrome installed state property file
+summary: Property file asserting a previous-version user-level Chrome install by checking local app data files and user registry entries.

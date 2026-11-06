@@ -1,6 +1,13 @@
 # Copyright 2020 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: test
+# title: Process verification and cleanup operations
+# summary: Verifies that expected processes are running or absent and terminates processes so the machine state matches the test expectations.
+# ---
+
 import logging
 import psutil
 

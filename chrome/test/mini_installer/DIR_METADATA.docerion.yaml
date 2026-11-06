@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Issue tracker metadata for mini_installer tests
+summary: Maps the directory to the Installer component in Monorail and Buganizer for issue tracking.

@@ -1,6 +1,13 @@
 # Copyright 2021 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: test
+# title: Mini_installer integration test suite
+# summary: Houses the InstallerTest class that runs mini_installer test cases built from a JSON configuration, verifying machine states and executing actions between them.
+# ---
+
 """The primary module for the suite of mini_installer integration tests.
 
 This module houses the InstallerTest class. This is a somewhat special type of

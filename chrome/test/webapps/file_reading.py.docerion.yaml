@@ -1,0 +1,4 @@
+# Docerion header of file_reading.py.
+type: source
+title: File parsing logic for the Web App testing framework
+summary: Parses enums, actions, supported actions and coverage inputs that drive the web app integration testing framework.

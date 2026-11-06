@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Android driver factory for variations tests
+# summary: Defines Android and Webview driver factories that launch emulators, install Chrome or webview builds, push seed files, and create Selenium drivers.
+# ---
+
 import os
 import logging
 import posixpath

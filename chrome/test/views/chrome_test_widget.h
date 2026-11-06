@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome test widget header
+// summary: Declares a views::Widget subclass that provides a replaceable theme provider for Chrome widget tests.
+// ---
+
 #ifndef CHROME_TEST_VIEWS_CHROME_TEST_WIDGET_H_
 #define CHROME_TEST_VIEWS_CHROME_TEST_WIDGET_H_
 

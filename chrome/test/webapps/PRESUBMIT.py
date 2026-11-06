@@ -1,6 +1,13 @@
 # Copyright 2021 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: ci
+# title: Presubmit checks for the webapps test directory
+# summary: Runs the Python unit tests in this directory on upload as a presubmit check.
+# ---
+
 """Presubmit tests for /chrome/test/webapps.
 
 Runs Python unit tests in /chrome/test/webapps on upload.

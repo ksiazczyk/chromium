@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: 'DEPS: allowed includes for supervised user tests'
+summary: Grants this test directory include access to components/signin/public/identity_manager.

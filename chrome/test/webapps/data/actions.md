@@ -1,3 +1,11 @@
+---
+type: reference
+title: Critical User Journey Action Catalog for the dPWA product
+summary: Catalogs the actions that can be used to build critical user journeys for the dPWA product, with tables parsed as action templates by the test framework.
+relations:
+  - references /chrome/browser/web_applications/docs/integration-testing-framework.md
+---
+
 # Critical User Journey Action Catalog for the dPWA product
 
 This file catalogs all of the actions that can be used to build critical user journeys for the dPWA product.

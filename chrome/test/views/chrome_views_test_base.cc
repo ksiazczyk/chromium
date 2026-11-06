@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome views test base implementation
+// summary: Sets up browser task environment, Chrome color mixers, layout provider, ChromeOS Ash helpers, and disabled WebUI preloading for views unit tests.
+// ---
+
 #include "chrome/test/views/chrome_views_test_base.h"
 
 #include <memory>

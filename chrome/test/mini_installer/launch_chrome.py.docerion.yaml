@@ -1,0 +1,4 @@
+# Docerion header of launch_chrome.py.
+type: test
+title: Launch Chrome helper
+summary: Launches Chrome and waits up to 30 seconds for its window to appear, serving as an action within the installer test suite.

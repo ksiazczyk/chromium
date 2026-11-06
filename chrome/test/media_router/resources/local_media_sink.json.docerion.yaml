@@ -1,0 +1,4 @@
+# Docerion header of local_media_sink.json.
+type: test
+title: Test data for local media sinks
+summary: JSON test data defining two available test sinks for the local file casting source URN used by the getAvailableSinks API.

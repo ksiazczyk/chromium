@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Payment app install utility implementation
+// summary: Implements helpers that install payment apps with service workers and icons for use in PaymentRequest browser tests.
+// ---
+
 #include "chrome/test/payments/payment_app_install_util.h"
 
 #include <utility>

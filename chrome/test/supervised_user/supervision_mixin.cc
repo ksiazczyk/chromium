@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Supervision mixin implementation for supervised user tests
+// summary: Implements the SupervisionMixin that sets up an identity test environment, FakeGaia and API mocks so browser tests can sign in regular or supervised users.
+// ---
+
 #include "chrome/test/supervised_user/supervision_mixin.h"
 
 #include <memory>

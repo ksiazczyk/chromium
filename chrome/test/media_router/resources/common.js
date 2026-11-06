@@ -7,6 +7,12 @@
  *
  */
 
+// ---docerion
+// type: test
+// title: Common APIs for presentation integration tests
+// summary: Shared JavaScript helper for Media Router presentation integration tests that manages sessions, availability checks, video playback, and result reporting.
+// ---
+
 var startSessionPromise = null;
 var startedConnection = null;
 var reconnectedSession = null;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PermissionRequestManagerTestApi header
+// summary: Declares the test API class that lets browser tests wrap a PermissionRequestManager, add simple requests, and access the permission prompt bubble widget.
+// ---
+
 #ifndef CHROME_TEST_PERMISSIONS_PERMISSION_REQUEST_MANAGER_TEST_API_H_
 #define CHROME_TEST_PERMISSIONS_PERMISSION_REQUEST_MANAGER_TEST_API_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AffReader class header
+// summary: Declares the AffReader class that reads Hunspell .aff files and exposes affix rules, replacements, encoding conversion, and affix group lookups.
+// ---
+
 #ifndef CHROME_TOOLS_CONVERT_DICT_AFF_READER_H__
 #define CHROME_TOOLS_CONVERT_DICT_AFF_READER_H__
 

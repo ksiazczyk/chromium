@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DicReader implementation for .dic files
+// summary: Implements reading of Hunspell .dic and .dic_delta word lists, converting words to UTF-8 and mapping affix flags to indices.
+// ---
+
 #include "chrome/tools/convert_dict/dic_reader.h"
 
 #include <stddef.h>

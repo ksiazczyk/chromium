@@ -1,0 +1,4 @@
+# Docerion header of tests_default_cros.txt.
+type: test
+title: Default expected generated tests for ChromeOS
+summary: Expected default generated web app integration test snippet for ChromeOS used as generator test data.

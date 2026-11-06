@@ -1,0 +1,4 @@
+# Docerion header of weburl_links.txt.
+type: data
+title: Web URL list for Autofill-related sites
+summary: List of websites grouped into top level, direct link, and crawl site categories, retrieved from bugs filed against Autofill plus assorted well-known sites.

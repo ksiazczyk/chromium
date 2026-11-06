@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for chrome tools
+summary: Defines the allowed include directories for code under chrome/tools.

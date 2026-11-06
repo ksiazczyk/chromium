@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Variable Expander for Mini Installer Tests
+# summary: Expands variables such as brand and Chrome paths in mini installer test strings, deriving values from file metadata and the Windows registry.
+# ---
+
 import base64
 import hashlib
 import os

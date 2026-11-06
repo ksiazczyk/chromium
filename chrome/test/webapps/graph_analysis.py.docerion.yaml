@@ -1,0 +1,4 @@
+# Docerion header of graph_analysis.py.
+type: source
+title: Graph analysis functions for the web app testing framework
+summary: Builds action node graphs from coverage tests, generates Graphviz dot output, and trims graphs to actions supported on a given platform.

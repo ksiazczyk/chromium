@@ -1,0 +1,4 @@
+# Docerion header of webforms_aggregator_unittests.py.
+type: test
+title: Webforms aggregator unittests with mock sites
+summary: Serves mock websites locally and tests that the aggregator crawler detects registration forms on them.

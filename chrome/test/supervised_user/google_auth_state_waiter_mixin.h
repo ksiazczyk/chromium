@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Google auth state waiter mixin for browser tests
+// summary: Declares a browser test mixin that waits until the Google auth state of the profile reaches the expected value.
+// ---
+
 #ifndef CHROME_TEST_SUPERVISED_USER_GOOGLE_AUTH_STATE_WAITER_MIXIN_H_
 #define CHROME_TEST_SUPERVISED_USER_GOOGLE_AUTH_STATE_WAITER_MIXIN_H_
 

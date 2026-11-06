@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chromecast E2E UI mirroring browser test
+// summary: Defines a manual end-to-end UI test that mirrors an HTML5 video to a Chromecast receiver through the Cast dialog and verifies the route stays live.
+// ---
+
 #include "chrome/test/media_router/media_router_e2e_browsertest.h"
 
 #include "chrome/browser/ui/tabs/tab_strip_model.h"

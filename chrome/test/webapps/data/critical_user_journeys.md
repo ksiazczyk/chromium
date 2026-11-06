@@ -1,3 +1,11 @@
+---
+type: test
+title: Critical User Journeys for the dPWA Product
+summary: Lists the critical user journeys required for full test coverage of the dPWA product, with tables parsed as journeys by the integration testing framework.
+relations:
+  - references /chrome/browser/web_applications/docs/integration-testing-framework.md
+---
+
 # Critical User Journeys for the dPWA Product
 
 This file lists all critical user journeys that are required to have full test coverage of the dPWA product.

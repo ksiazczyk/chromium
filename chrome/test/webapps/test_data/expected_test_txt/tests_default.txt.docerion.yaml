@@ -1,0 +1,4 @@
+# Docerion header of tests_default.txt.
+type: test
+title: Default expected generated web app integration tests
+summary: Expected default generated web app integration test snippet used as test data for the generator.

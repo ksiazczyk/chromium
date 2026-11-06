@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the service_discovery_sniffer executable
+summary: Defines the testonly service_discovery_sniffer executable target with its sources and Chromium dependencies.

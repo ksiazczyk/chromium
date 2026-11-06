@@ -1,0 +1,4 @@
+# Docerion header of expected_coverage_win.tsv.
+type: test
+title: Expected coverage for Windows web app tests
+summary: Generated expected coverage matrix for Windows web app integration tests, listing state change and check action combinations with coverage markers.

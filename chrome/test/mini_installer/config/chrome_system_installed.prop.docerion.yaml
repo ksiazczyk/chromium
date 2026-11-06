@@ -1,0 +1,4 @@
+# Docerion header of chrome_system_installed.prop.
+type: test
+title: Chrome system-level installed expected state
+summary: Specifies the files and registry entries expected after a system-level Chrome installation, including update commands and elevation service keys.

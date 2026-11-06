@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Variations seed smoke tests
+# summary: Contains pytest smoke tests that launch Chrome with a variations seed, check page loading and rendering, and verify a crash seed.
+# ---
+
 import pytest
 
 from chrome.test.variations import drivers

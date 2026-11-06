@@ -1,0 +1,4 @@
+# Docerion header of run_mini_installer_tests.py.
+type: test
+title: Mini_installer test driver
+summary: Drives the mini_installer integration tests through typ, forwarding command-line options to child test processes via environment variables.

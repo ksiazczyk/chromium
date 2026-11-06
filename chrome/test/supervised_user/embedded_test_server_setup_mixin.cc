@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Embedded test server setup mixin for supervised user browser tests
+// summary: Implements a browser test mixin that initializes an embedded test server, maps configured host names to it and serves test data for supervised user tests.
+// ---
+
 #include "chrome/test/supervised_user/embedded_test_server_setup_mixin.h"
 
 #include <algorithm>

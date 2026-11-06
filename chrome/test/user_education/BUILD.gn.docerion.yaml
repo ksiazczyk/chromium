@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for user education test targets
+summary: Defines test-only source sets for the interactive feature promo test framework, its implementation, and the interactive UI tests target.

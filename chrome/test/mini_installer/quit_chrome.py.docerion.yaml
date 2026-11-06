@@ -1,0 +1,4 @@
+# Docerion header of quit_chrome.py.
+type: test
+title: Quit Chrome helper
+summary: Sends WM_CLOSE to Chrome's windows and waits for exit, force-killing the process if it does not shut down within the timeout.

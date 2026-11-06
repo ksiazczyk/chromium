@@ -1,0 +1,4 @@
+# Docerion header of chrome_dev_installed.prop.
+type: test
+title: Chrome Dev installed state expectations
+summary: Defines the expected files and registry entries for an installed Chrome Dev in the Windows mini_installer test suite.

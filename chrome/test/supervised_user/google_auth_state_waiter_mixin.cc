@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Google auth state waiter mixin implementation
+// summary: Implements a browser test mixin that blocks until the child account service reports the expected Google authentication state on desktop platforms.
+// ---
+
 #include "chrome/test/supervised_user/google_auth_state_waiter_mixin.h"
 
 #include "base/test/bind.h"

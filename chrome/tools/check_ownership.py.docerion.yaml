@@ -1,0 +1,4 @@
+# Docerion header of check_ownership.py.
+type: script
+title: Check //chrome ownership eligibility
+summary: Script that verifies whether a user meets commit, review, and subdirectory ownership requirements to become a //chrome OWNER.

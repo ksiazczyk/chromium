@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: ChromeOS driver factory for variations tests
+# summary: Provides a ChromeOS driver factory that starts a CrOS VM, launches the browser through telemetry with filtered startup args, and creates Selenium drivers.
+# ---
+
 import functools
 import os
 import socket

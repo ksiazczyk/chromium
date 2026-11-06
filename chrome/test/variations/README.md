@@ -1,3 +1,13 @@
+---
+type: readme
+title: Variations End-to-End tests
+summary: Explains how to run the variations seed end-to-end tests locally and on CI across platforms, Chrome channels and seed files.
+relations:
+  - references /chrome/test/variations/pytest.ini
+  - references /chrome/test/data/variations/variations_seed.json
+  - references /tools/android/avd/proto/android_30_google_apis_x86.textpb
+---
+
 # Variations End-to-End tests
 
 The files in this directory contain tests that check if the variations seed

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media Router UI for test base implementation
+// summary: Implements shared MediaRouterUiForTestBase logic including teardown, button clicking, and waiting for dialog creation.
+// ---
+
 #include "chrome/test/media_router/media_router_ui_for_test_base.h"
 
 #include <algorithm>

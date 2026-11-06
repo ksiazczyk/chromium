@@ -1,0 +1,4 @@
+# Docerion header of history-viz.py.
+type: script
+title: Visualize history database as GraphViz dot
+summary: Reads a Chrome History SQLite database and dumps a GraphViz .dot file for debugging history redirect flows.

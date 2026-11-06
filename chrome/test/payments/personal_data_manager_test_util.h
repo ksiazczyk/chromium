@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Personal data manager test utilities declarations
+// summary: Declares test helpers for adding autofill profiles and credit cards to the personal data manager and waiting for the save to complete.
+// ---
+
 #ifndef CHROME_TEST_PAYMENTS_PERSONAL_DATA_MANAGER_TEST_UTIL_H_
 #define CHROME_TEST_PAYMENTS_PERSONAL_DATA_MANAGER_TEST_UTIL_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of no_sinks.json.
+type: test
+title: Mock empty sink list response for media router tests
+summary: Test fixture JSON that makes the fake media router provider return no available sinks.

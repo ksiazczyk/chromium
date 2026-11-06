@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for Safe Browsing issue tracking
+summary: Maps the directory to the Services>Safebrowsing monorail component and a public Buganizer component for bug routing.

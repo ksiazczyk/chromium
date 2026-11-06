@@ -1,0 +1,4 @@
+# Docerion header of test_page.html.
+type: test
+title: Chromedriver test page
+summary: Minimal HTML page that the chromedriver test loads when verifying the installed Chrome browser.

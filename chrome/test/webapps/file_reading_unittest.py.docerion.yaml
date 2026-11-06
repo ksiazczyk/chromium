@@ -1,0 +1,4 @@
+# Docerion header of file_reading_unittest.py.
+type: test
+title: Unit tests for the file reading logic
+summary: Verifies parsing of markdown tables, enums, actions and coverage files using test data fixtures.

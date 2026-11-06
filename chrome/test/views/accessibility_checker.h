@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Accessibility checker header
+// summary: Declares AccessibilityChecker, a ChromeViewsDelegate and widget observer that reports accessibility violations as gtest failures.
+// ---
+
 #ifndef CHROME_TEST_VIEWS_ACCESSIBILITY_CHECKER_H_
 #define CHROME_TEST_VIEWS_ACCESSIBILITY_CHECKER_H_
 

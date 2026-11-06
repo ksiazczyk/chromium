@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the Safe Browsing tools directory
+summary: Declares the allowed include dependency on the Safe Browsing CSD protocol buffer header for this directory.

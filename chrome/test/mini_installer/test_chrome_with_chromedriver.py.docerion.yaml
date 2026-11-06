@@ -1,0 +1,4 @@
+# Docerion header of test_chrome_with_chromedriver.py.
+type: test
+title: Chrome testing with chromedriver
+summary: Uses Selenium chromedriver to exercise the installed Chrome, collecting crash reports and logs when failures or crashes occur.

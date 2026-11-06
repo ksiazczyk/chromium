@@ -1,0 +1,4 @@
+# Docerion header of framework_supported_actions.csv.
+type: data
+title: WebApps Framework Supported Actions by Platform
+summary: CSV matrix recording which webapps test framework actions are supported on Mac, Windows, Linux and ChromeOS.

@@ -1,0 +1,4 @@
+# Docerion header of coverage_mac.tsv.
+type: data
+title: Mac web app test coverage matrix
+summary: Generated TSV listing web app install, launch and update test scenarios for macOS with emoji-marked full and partial coverage (82% full, 93% partial).

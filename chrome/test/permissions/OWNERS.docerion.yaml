@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the permissions test directory
+summary: Delegates review ownership of this test directory to the permissions component's OWNERS file.

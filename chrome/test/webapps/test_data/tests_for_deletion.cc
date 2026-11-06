@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web apps test fixture for test deletion
+// summary: Generated browser test fixture that includes a test marked WAI_TEST_TO_DELETE for exercising test deletion.
+// ---
+
 #if BUILDFLAG(IS_WIN)
 #define MAYBE_WAI_3Chicken_1Chicken_2ChickenGreen \
   DISABLED_WAI_3Chicken_1Chicken_2ChickenGreen

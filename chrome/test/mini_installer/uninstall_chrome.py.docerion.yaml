@@ -1,0 +1,4 @@
+# Docerion header of uninstall_chrome.py.
+type: test
+title: Uninstall Chrome helper
+summary: Reads Chrome's uninstall command from the registry, runs it, and checks the installer's exit status to confirm a successful uninstall.

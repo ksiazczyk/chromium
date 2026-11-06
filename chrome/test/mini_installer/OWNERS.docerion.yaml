@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the mini_installer tests
+summary: Lists the owners responsible for reviewing changes to the mini_installer tests.

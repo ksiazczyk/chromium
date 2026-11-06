@@ -1,0 +1,4 @@
+# Docerion header of route_creation_timed_out.json.
+type: test
+title: Mock delayed route creation response for timeout tests
+summary: Test fixture JSON that delays route creation by 25 seconds so tests can exercise route timeout handling.

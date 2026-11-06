@@ -1,0 +1,4 @@
+# Docerion header of presentation_receiver.html.
+type: test
+title: Presentation API receiver page for integration tests
+summary: Receiver page for media router integration tests that replies to Presentation API connection messages and closes the connection on request.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Payment app install utility interface
+// summary: Declares the PaymentAppInstallUtil class used to install payment apps from browser tests, with options for icons.
+// ---
+
 #ifndef CHROME_TEST_PAYMENTS_PAYMENT_APP_INSTALL_UTIL_H_
 #define CHROME_TEST_PAYMENTS_PAYMENT_APP_INSTALL_UTIL_H_
 

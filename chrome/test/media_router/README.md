@@ -1,3 +1,11 @@
+---
+type: readme
+title: Media Router Integration and E2E Browser Tests
+summary: Describes the Media Router integration and end-to-end browser tests in this directory and what each test class covers.
+relations:
+  - documents /chrome/test/media_router/media_router_integration_ui_browsertest.cc
+---
+
 <!--
 Copyright 2017 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be

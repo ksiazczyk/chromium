@@ -1,0 +1,4 @@
+# Docerion header of close_route_with_error_on_send.json.
+type: test
+title: Test data for closing route with send error
+summary: JSON test data that sets closeRouteWithErrorOnSend to true so the test provider closes the route with an error when sending a message.

@@ -1,0 +1,4 @@
+# Docerion header of chrome_dev_not_installed.prop.
+type: test
+title: Chrome Dev not installed expected state
+summary: Defines the absent files and forbidden registry entries expected when Chrome Dev is not installed at user level.

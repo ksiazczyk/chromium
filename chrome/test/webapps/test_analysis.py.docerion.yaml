@@ -1,0 +1,4 @@
+# Docerion header of test_analysis.py.
+type: source
+title: Test analysis functions for the web app testing framework
+summary: Filters, expands, partitions and compares coverage tests, printing the changes needed to align existing browsertests with required coverage.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Access code cast integration browser tests
+// summary: Implements integration browser tests for the access code cast flow, exercising the dialog, sink service, sign-in and network interception with mocks.
+// ---
+
 #include "chrome/test/media_router/access_code_cast/access_code_cast_integration_browsertest.h"
 
 #include <algorithm>

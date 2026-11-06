@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Kids Management API mock setup mixin header
+// summary: Declares a browser test mixin that hosts the Kids Management API server mock for supervised user tests.
+// ---
+
 #ifndef CHROME_TEST_SUPERVISED_USER_API_MOCK_SETUP_MIXIN_H_
 #define CHROME_TEST_SUPERVISED_USER_API_MOCK_SETUP_MIXIN_H_
 

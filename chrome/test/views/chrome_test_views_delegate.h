@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome test views delegate
+// summary: Template test views delegate that installs a Chrome layout provider for use in Chrome tests.
+// ---
+
 #ifndef CHROME_TEST_VIEWS_CHROME_TEST_VIEWS_DELEGATE_H_
 #define CHROME_TEST_VIEWS_CHROME_TEST_VIEWS_DELEGATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Payment test event waiter declarations
+// summary: Defines the payments TestEvent enum and the EventWaiter class used to wait for expected event sequences in payment browser tests.
+// ---
+
 #ifndef CHROME_TEST_PAYMENTS_TEST_EVENT_WAITER_H_
 #define CHROME_TEST_PAYMENTS_TEST_EVENT_WAITER_H_
 

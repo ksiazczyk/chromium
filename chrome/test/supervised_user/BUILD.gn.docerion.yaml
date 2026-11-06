@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: 'BUILD.gn: supervised user test targets'
+summary: Defines test_support, child_accounts and live_tests targets with sources and dependencies for supervised user browser tests.

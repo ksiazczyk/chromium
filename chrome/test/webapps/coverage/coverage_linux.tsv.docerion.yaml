@@ -1,0 +1,4 @@
+# Docerion header of coverage_linux.tsv.
+type: data
+title: Linux web app test coverage matrix
+summary: Generated TSV listing web app install, launch and update test scenarios for Linux with emoji-marked full and partial coverage (80% full, 92% partial).

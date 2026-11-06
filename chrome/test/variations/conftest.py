@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Pytest fixtures and options for variations tests
+# summary: Registers pytest fixture plugins and command-line options, and sets up Java and build output paths for the variations test suite.
+# ---
+
 import logging
 import os
 import sys

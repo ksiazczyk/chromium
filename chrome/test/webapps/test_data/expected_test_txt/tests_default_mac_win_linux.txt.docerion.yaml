@@ -1,0 +1,4 @@
+# Docerion header of tests_default_mac_win_linux.txt.
+type: test
+title: Expected generated browser test text for Mac, Win and Linux
+summary: Holds script-generated IN_PROC_BROWSER_TEST_F definitions kept as expected output for web app integration tests across Mac, Windows and Linux.

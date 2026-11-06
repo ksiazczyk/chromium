@@ -1,0 +1,4 @@
+# Docerion header of fail_reconnect_session.json.
+type: test
+title: Test data for session reconnect failure
+summary: JSON test data that makes the joinRoute API fail with the error message Unknown route.

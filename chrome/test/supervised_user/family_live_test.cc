@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Family live test implementation for supervised user tests
+// summary: Implements the FamilyLiveTest base class that creates signed-in family member profiles, manages sync setup and waits for sync invalidations during live supervised user tests.
+// ---
+
 #include "chrome/test/supervised_user/family_live_test.h"
 
 #include <ostream>

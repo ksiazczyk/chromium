@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hunspell reader header
+// summary: 'Declares shared routines for reading Hunspell files: ReadLine, TrimLine, and StripComment used by the convert_dict tool.'
+// ---
+
 #ifndef CHROME_TOOLS_CONVERT_DICT_HUNSPELL_READER_H_
 #define CHROME_TOOLS_CONVERT_DICT_HUNSPELL_READER_H_
 

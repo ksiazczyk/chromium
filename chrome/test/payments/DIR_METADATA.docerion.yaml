@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the payments test directory
+summary: Points the directory metadata at the payments component's COMMON_METADATA mixins.

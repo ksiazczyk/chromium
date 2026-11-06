@@ -1,0 +1,4 @@
+# Docerion header of webforms_aggregator_tests.py.
+type: test
+title: Unit tests for the webforms aggregator
+summary: Unittest cases verifying that the retriever and crawlers can download pages and find registration pages.

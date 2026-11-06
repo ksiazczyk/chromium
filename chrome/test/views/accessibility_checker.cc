@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Accessibility checker implementation
+// summary: Runs accessibility paint checks on widgets as they become visible or hidden, catching violations such as those in the download shelf.
+// ---
+
 #include "chrome/test/views/accessibility_checker.h"
 
 #include "ui/views/accessibility/accessibility_paint_checks.h"

@@ -1,0 +1,4 @@
+# Docerion header of chrome_user_binaries_killed.prop.
+type: test
+title: Chrome user binaries killed registry state
+summary: Asserts the user-level Chrome binaries update registry key exists with an empty pv value after binaries are killed.

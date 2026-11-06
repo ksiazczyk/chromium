@@ -1,0 +1,4 @@
+# Docerion header of chrome_dev_not_inuse.prop.
+type: test
+title: Chrome Dev not in use process state
+summary: Asserts the Chrome Dev chrome.exe process is not running during mini_installer test runs.

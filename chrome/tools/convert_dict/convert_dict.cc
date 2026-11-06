@@ -11,6 +11,12 @@
 //
 // See PrintHelp() below for usage.
 
+// ---docerion
+// type: source
+// title: convert_dict tool entry point
+// summary: Command-line tool that converts Hunspell .aff/.dic pairs into the compact binary .bdic dictionary format and verifies the resulting serialized trie.
+// ---
+
 #include <stddef.h>
 #include <stdio.h>
 

@@ -1,6 +1,13 @@
 # Copyright 2023 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: test
+# title: Chrome and chromedriver downloader from GCS
+# summary: Downloads specific Chrome and chromedriver versions from a GCS bucket so webdriver tests can run them on Linux, Windows and Mac.
+# ---
+
 """Downloader module to download various versions of Chrome from GCS bucket.
 
 download_chrome_{platform}(version) returns a folder that contains Chrome

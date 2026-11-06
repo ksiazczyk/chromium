@@ -1,6 +1,13 @@
 # Copyright 2023 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: test
+# title: Driver utilities for extracting feature states in variations tests
+# summary: Selenium-based helper that opens the Chrome version page, parses the variations command line, and reports the enabled and disabled features for use by tests.
+# ---
+
 """Utility functions for extracting features."""
 
 import dataclasses  # noqa: F401

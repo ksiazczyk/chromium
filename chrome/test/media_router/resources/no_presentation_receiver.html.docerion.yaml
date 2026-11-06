@@ -1,0 +1,4 @@
+# Docerion header of no_presentation_receiver.html.
+type: test
+title: Receiver page without Presentation Receiver API
+summary: Intentionally empty receiver page used to test receiver pages that do not use the navigator.presentation.receiver API.

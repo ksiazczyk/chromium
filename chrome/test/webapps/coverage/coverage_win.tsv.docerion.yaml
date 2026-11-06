@@ -1,0 +1,4 @@
+# Docerion header of coverage_win.tsv.
+type: data
+title: Windows web app test coverage matrix
+summary: Generated TSV listing web app install, launch and update test scenarios for Windows with emoji-marked full and partial coverage (81% full, 93% partial).

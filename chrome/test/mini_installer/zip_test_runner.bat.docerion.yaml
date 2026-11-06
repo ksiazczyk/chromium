@@ -1,0 +1,4 @@
+# Docerion header of zip_test_runner.bat.
+type: script
+title: Zip Test Runner Batch Script
+summary: Windows batch script that installs the Python packages needed by the mini installer tests and runs run_mini_installer_tests.py with the given arguments.

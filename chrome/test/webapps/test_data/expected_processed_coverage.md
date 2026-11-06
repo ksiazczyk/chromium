@@ -1,3 +1,9 @@
+---
+type: test
+title: Expected processed coverage for web app tests
+summary: Generated markdown of expected processed coverage rows derived from the web app integration tests, grouped per source test.
+---
+
 # Generated from the first test:
 | MWLC | state_change_a(Chicken) |  check_a(Chicken) |
 | MWLC | state_change_a(Chicken) |  check_b(Chicken, Green) |

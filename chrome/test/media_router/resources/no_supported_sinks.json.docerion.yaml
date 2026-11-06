@@ -1,0 +1,4 @@
+# Docerion header of no_supported_sinks.json.
+type: test
+title: Mock desktop sink response for media router tests
+summary: Test fixture JSON that makes the fake media router provider report a desktop sink named test-sink-1.

@@ -1,0 +1,4 @@
+# Docerion header of chrome_beta_not_inuse.prop.
+type: test
+title: Chrome Beta not running check
+summary: Asserts that the Chrome Beta chrome.exe process is not running for mini_installer test scenarios.

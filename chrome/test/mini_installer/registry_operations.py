@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Registry verification and cleanup operations
+# summary: Verifies Windows registry keys and values against expectations and cleans registry state, supporting 32-bit and 64-bit registry views.
+# ---
+
 import logging
 import winreg
 

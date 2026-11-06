@@ -1,0 +1,4 @@
+# Docerion header of local_media_sink_route_fail.json.
+type: test
+title: Test data for local media sink route failure
+summary: JSON test data defining test sinks for the local file casting URN and setting canRoute to false so route creation fails.

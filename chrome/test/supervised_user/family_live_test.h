@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Family live test base class for supervised user tests
+// summary: Declares the FamilyLiveTest base class that loads head of household and child accounts from test account files and exposes family members for live tests.
+// ---
+
 #ifndef CHROME_TEST_SUPERVISED_USER_FAMILY_LIVE_TEST_H_
 #define CHROME_TEST_SUPERVISED_USER_FAMILY_LIVE_TEST_H_
 
