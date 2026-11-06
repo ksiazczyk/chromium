@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProcessBootstrapper helper for the example processes
+// summary: Helper class that sets up the main thread message pump, task queues, and Mojo IPC support for the codelab example processes.
+// ---
+
 #ifndef CODELABS_MOJO_EXAMPLES_PROCESS_BOOTSTRAPPER_H_
 #define CODELABS_MOJO_EXAMPLES_PROCESS_BOOTSTRAPPER_H_
 

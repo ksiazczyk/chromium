@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActivityReporter interface
+// summary: Defines the ActivityReporter interface and factory functions for reporting browser active use in a privacy-preserving way.
+// ---
+
 #ifndef COMPONENTS_ACTIVITY_REPORTER_ACTIVITY_REPORTER_H_
 #define COMPONENTS_ACTIVITY_REPORTER_ACTIVITY_REPORTER_H_
 

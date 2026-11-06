@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor feature flag declarations
+// summary: Declares the actor feature flags and parameters, with comments explaining navigation gating, sensitive origins, and surface handle migration behaviors.
+// ---
+
 #ifndef COMPONENTS_ACTOR_CORE_ACTOR_FEATURES_H_
 #define COMPONENTS_ACTOR_CORE_ACTOR_FEATURES_H_
 

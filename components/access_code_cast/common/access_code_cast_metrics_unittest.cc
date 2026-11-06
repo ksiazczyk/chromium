@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Access code cast metrics unit tests
+// summary: Unit tests verifying that AccessCodeCastMetrics records the expected histogram buckets using base HistogramTester.
+// ---
+
 #include "components/access_code_cast/common/access_code_cast_metrics.h"
 
 #include "base/metrics/histogram_functions.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the Rust exercise 1 solution
+summary: Defines a rust_static_library target for hellolib.rs and an executable target for hello.cc that links the Rust library and //base.

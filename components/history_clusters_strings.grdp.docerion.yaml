@@ -1,0 +1,4 @@
+# Docerion header of history_clusters_strings.grdp.
+type: data
+title: History clusters UI strings
+summary: Grit part with strings for the history clusters (Journeys) page, including group labels, menus, and search results text.

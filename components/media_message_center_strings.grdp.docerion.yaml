@@ -1,0 +1,4 @@
+# Docerion header of media_message_center_strings.grdp.
+type: data
+title: Media notification strings
+summary: Grit part with UI strings for media notification controls such as play, pause, seek, picture-in-picture, casting, mute, and accessibility labels.

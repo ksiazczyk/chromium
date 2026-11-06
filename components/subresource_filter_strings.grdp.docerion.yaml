@@ -1,0 +1,4 @@
+# Docerion header of subresource_filter_strings.grdp.
+type: data
+title: Subresource filter strings
+summary: Grit part with strings for the ads-blocked UI, including infobars, dialogs, and always-allow toggles for sites showing intrusive ads.

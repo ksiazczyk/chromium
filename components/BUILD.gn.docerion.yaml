@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build file for //components
+summary: Defines GN build targets, test pak bundling, and dependency restrictions such as disallowed //extensions dependencies for the Chromium components directory.

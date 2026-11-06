@@ -1,0 +1,4 @@
+# Docerion header of autofill_strings.grdp.
+type: data
+title: Autofill strings
+summary: Grit part defining UI strings for autofill features, including AI suggestions, reauth messages, insecure connection warnings, and deletion confirmations.

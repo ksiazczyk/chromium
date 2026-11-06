@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the threading and scheduling codelab
+summary: GN build file defining executables for the codelab examples, with the randomized task queues target built only when DCHECKs are enabled.

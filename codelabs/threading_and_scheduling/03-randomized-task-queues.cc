@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Randomized task queues example
+// summary: Demonstrates two same-priority TaskQueues served in random order via a randomized task selection seed, while tasks within each queue stay FIFO.
+// ---
+
 #include <string_view>
 
 #include "base/logging.h"

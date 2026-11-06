@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Activity reporter testing factory
+// summary: Declares CreateActivityReporterForTesting, which builds a reporter around a caller-supplied UpdateClient for unit tests.
+// ---
+
 #ifndef COMPONENTS_ACTIVITY_REPORTER_ACTIVITY_REPORTER_FOR_TESTING_H_
 #define COMPONENTS_ACTIVITY_REPORTER_ACTIVITY_REPORTER_FOR_TESTING_H_
 

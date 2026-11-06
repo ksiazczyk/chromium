@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Account Settings component build targets
+summary: Defines the account_settings static library, test_support and unit_tests targets with their sources and dependencies.

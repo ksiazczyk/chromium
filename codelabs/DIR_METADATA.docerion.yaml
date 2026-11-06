@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for codelabs
+summary: Maps the codelabs directory to the Infra>Documentation component, the infra-dev team email, and a public Buganizer component.

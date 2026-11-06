@@ -1,0 +1,4 @@
+# Docerion header of tab_groups_strings.grdp.
+type: data
+title: Tab groups strings
+summary: Grit part defining accessibility labels for the tab group color picker, one message per available color.

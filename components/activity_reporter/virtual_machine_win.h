@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows VM detection API and enums
+// summary: Declares the experimental Windows VM detection interface with persisted enums for hypervisor type, firmware vendor, and detection agreement.
+// ---
+
 #ifndef COMPONENTS_ACTIVITY_REPORTER_VIRTUAL_MACHINE_WIN_H_
 #define COMPONENTS_ACTIVITY_REPORTER_VIRTUAL_MACHINE_WIN_H_
 

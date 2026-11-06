@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page stability metric name definitions
+// summary: Defines the histogram metric name constants for actor renderer page stability and paint stability measurements.
+// ---
+
 #include "components/actor/core/page_stability_metrics_common.h"
 
 namespace actor {

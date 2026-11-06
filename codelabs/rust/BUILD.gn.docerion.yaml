@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Rust codelab BUILD.gn grouping exercise solutions
+summary: GN build file defining a test-only group that pulls in the solution targets for the four Rust codelab exercises.

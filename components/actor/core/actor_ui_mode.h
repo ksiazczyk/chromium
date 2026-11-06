@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor UI mode enum
+// summary: Defines the ActorUiMode enum describing coarse task UI states such as foreground, background, and Picture-in-Picture for journal annotation and UMA segmentation.
+// ---
+
 #ifndef COMPONENTS_ACTOR_CORE_ACTOR_UI_MODE_H_
 #define COMPONENTS_ACTOR_CORE_ACTOR_UI_MODE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of printing_component_strings.grdp.
+type: data
+title: Printing UI strings
+summary: Grit part with printing UI strings, including print preview printer names, the print compositor service name, and PWG job attribute labels for ChromeOS.

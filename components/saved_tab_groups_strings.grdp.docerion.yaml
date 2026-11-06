@@ -1,0 +1,4 @@
+# Docerion header of saved_tab_groups_strings.grdp.
+type: data
+title: Saved tab groups strings
+summary: Grit part with strings showing how long ago a synced tab group was created in the Tab Groups panel, with plural forms for minutes through years.

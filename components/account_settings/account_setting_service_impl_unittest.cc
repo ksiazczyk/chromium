@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AccountSettingServiceImpl unit tests
+// summary: Unit tests for the service implementation using a mocked sync bridge, covering loading, typed getters, feature gating and observer notifications.
+// ---
+
 #include "components/account_settings/account_setting_service_impl.h"
 
 #include <vector>

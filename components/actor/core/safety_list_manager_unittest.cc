@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Safety list manager unit tests
+// summary: Unit tests covering safety list parsing, lazy loading, navigation allow and block decisions, and payment iframe allowlist checks.
+// ---
+
 #include "components/actor/core/safety_list_manager.h"
 
 #include <cstddef>

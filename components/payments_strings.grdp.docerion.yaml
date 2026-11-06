@@ -1,0 +1,4 @@
+# Docerion header of payments_strings.grdp.
+type: data
+title: Payments UI strings
+summary: Grit part with UI strings for the Payment Request dialog, covering payment methods, contact details, shipping addresses, and order summary labels.

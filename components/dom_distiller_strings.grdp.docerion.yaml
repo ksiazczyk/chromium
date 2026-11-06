@@ -1,0 +1,4 @@
+# Docerion header of dom_distiller_strings.grdp.
+type: data
+title: DOM distiller and Reader Mode strings
+summary: Grit part with UI strings for the DOM distiller debug page and Reader Mode viewer, including font, color, and size customization options.

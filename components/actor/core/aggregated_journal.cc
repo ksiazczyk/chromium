@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aggregated journal implementation
+// summary: Implements the AggregatedJournal class that amalgamates journal entries across frames in a page, including pending async entries, observers, and vlog-style logging.
+// ---
+
 #include "components/actor/core/aggregated_journal.h"
 
 #include "base/base64.h"

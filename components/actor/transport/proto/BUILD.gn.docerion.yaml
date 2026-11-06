@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for actuation transport proto
+summary: Defines the actuation_transport_proto GN target compiling actuation_transport.proto with a dependency on the Optimization Guide proto.

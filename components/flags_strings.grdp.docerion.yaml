@@ -1,0 +1,4 @@
+# Docerion header of flags_strings.grdp.
+type: data
+title: Flags page UI strings
+summary: Grit part with strings for the about:flags page, including search placeholders, warnings, and experiment controls.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo solution demonstrating MathService IPC
+// summary: Codelab solution that divides two numbers by calling a MathService Mojo interface through a remote/receiver pipe and awaiting the result with TestFuture.
+// ---
+
 #include <string>
 
 #include "base/at_exit.h"

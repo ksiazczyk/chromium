@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners for the codelabs directory
+summary: Lists code owners for the codelabs directory, naming dom@chromium.org as owner for examples outside cpp101.

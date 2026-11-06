@@ -1,0 +1,4 @@
+# Docerion header of supervised_user_strings.grdp.
+type: data
+title: Supervised user block page strings
+summary: Grit part with strings for the supervised user block interstitial, including parent permission request messages, waiting states, and buttons.

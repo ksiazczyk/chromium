@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aggregated journal file serializer implementation
+// summary: Implements a journal serializer that writes perfetto trace packets to a file using a sequence-bound file writer on a background task runner.
+// ---
+
 #include "components/actor/core/aggregated_journal_file_serializer.h"
 
 #include "base/compiler_specific.h"

@@ -1,0 +1,4 @@
+# Docerion header of buildflags.gni.
+type: config
+title: Activity reporter build flags
+summary: Declares GN build arguments that control whether branded builds report active use and whether the legacy active-use definition signals the updater.

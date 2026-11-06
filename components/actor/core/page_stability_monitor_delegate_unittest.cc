@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page stability monitor delegate unit tests
+// summary: Unit tests for the page stability monitor delegate using fake metrics and delegates to verify event logging and metric callbacks.
+// ---
+
 #include "components/actor/core/page_stability_monitor_delegate.h"
 
 #include <memory>

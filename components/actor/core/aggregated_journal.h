@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aggregated journal class declaration
+// summary: Declares the AggregatedJournal class that collects journal entries across frames, with a ring buffer of entries, pending async entries, and observer support.
+// ---
+
 #ifndef COMPONENTS_ACTOR_CORE_AGGREGATED_JOURNAL_H_
 #define COMPONENTS_ACTOR_CORE_AGGREGATED_JOURNAL_H_
 

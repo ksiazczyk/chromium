@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safety list manager header
+// summary: Declares the SafetyListManager singleton that resolves allow or block decisions for navigations and payment iframe origins from lazily parsed safety lists.
+// ---
+
 #ifndef COMPONENTS_ACTOR_CORE_SAFETY_LIST_MANAGER_H_
 #define COMPONENTS_ACTOR_CORE_SAFETY_LIST_MANAGER_H_
 

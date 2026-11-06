@@ -1,0 +1,4 @@
+# Docerion header of permissions_strings.grdp.
+type: data
+title: Permissions UI strings
+summary: Grit part with infobar and permission prompt strings for site permissions such as geolocation, clipboard, NFC, VR, AR, idle detection, and notifications.

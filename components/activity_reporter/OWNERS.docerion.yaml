@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Activity reporter owners file
+summary: Delegates code ownership of this component to the chrome/updater owners file.

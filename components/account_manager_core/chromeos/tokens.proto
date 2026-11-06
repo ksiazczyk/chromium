@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account token protobuf schema
+// summary: Defines the proto2 schema for persisted account data, including account type, id, authentication token, and raw email fields.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

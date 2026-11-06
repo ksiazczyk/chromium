@@ -1,0 +1,4 @@
+# Docerion header of security_interstitials_strings.grdp.
+type: data
+title: Security interstitial strings
+summary: Grit part with strings for security error pages such as SSL warnings, captive portal login prompts, and MITM software interstitials.

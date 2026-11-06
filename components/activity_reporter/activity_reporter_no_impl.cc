@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: No-op activity reporter
+// summary: Implements a do-nothing ActivityReporter that is returned when activity reporting is disabled.
+// ---
+
 #include <memory>
 
 #include "base/sequence_checker.h"

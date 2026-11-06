@@ -1,0 +1,4 @@
+# Docerion header of privacy_sandbox_strings.grd.
+type: data
+title: Privacy sandbox strings
+summary: Grit file defining privacy sandbox UI strings and localized .pak output files for a wide range of languages.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sleep solution demonstrating delayed tasks
+// summary: Codelab solution that sleeps for a given number of seconds by posting a delayed quit closure to a sequenced task runner and running a RunLoop.
+// ---
+
 #include "base/at_exit.h"
 #include "base/command_line.h"
 #include "base/functional/bind.h"

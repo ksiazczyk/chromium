@@ -1,0 +1,4 @@
+# Docerion header of account_id.mojom.
+type: source
+title: Mojo definitions for AccountId and AccountType
+summary: Mojo IDL declaring the signin.mojom AccountType enum and the AccountId struct that mirrors the C++ AccountId class.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Actor transport BUILD.gn build targets
+summary: Defines the transport source_set and testonly unit_tests target with their sources and public dependencies for the actor transport component.

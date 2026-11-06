@@ -1,0 +1,4 @@
+# Docerion header of bookmark_component_strings.grdp.
+type: data
+title: Bookmark component strings
+summary: Grit part with strings for the bookmark editor, move dialog, bookmark bubble, manager input placeholders and the star tooltip.

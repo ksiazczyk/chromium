@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo traits mapping AccountId to its Mojom struct
+// summary: Header with EnumTraits and StructTraits converting between the C++ AccountId and signin.mojom AccountId messages.
+// ---
+
 #ifndef COMPONENTS_ACCOUNT_ID_MOJOM_ACCOUNT_ID_MOJOM_TRAITS_H_
 #define COMPONENTS_ACCOUNT_ID_MOJOM_ACCOUNT_ID_MOJOM_TRAITS_H_
 

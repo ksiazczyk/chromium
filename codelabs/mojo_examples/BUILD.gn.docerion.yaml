@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Mojo codelab examples build targets
+summary: GN build file defining the browser and renderer executable targets for the four Mojo codelab examples, excluded on iOS.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the actor internals browser static library
+summary: GN build file defining the browser static library with the actor internals handler sources and its base and Mojo bindings dependencies.

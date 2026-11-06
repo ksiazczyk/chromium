@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Task queue priorities example
+// summary: Demonstrates two TaskQueues with different priorities, showing that ordering across queues follows priority while tasks within a queue run in FIFO order.
+// ---
+
 #include <string_view>
 
 #include "base/logging.h"

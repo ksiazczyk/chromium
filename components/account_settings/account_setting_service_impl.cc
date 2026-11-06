@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccountSettingServiceImpl implementation
+// summary: Implements the account setting service by delegating queries to the sync bridge, checking feature requirements and notifying observers.
+// ---
+
 #include "components/account_settings/account_setting_service_impl.h"
 
 #include <memory>

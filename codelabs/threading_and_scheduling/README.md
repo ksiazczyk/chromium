@@ -1,3 +1,13 @@
+---
+type: readme
+title: Threading & scheduling codelab overview
+summary: Explains the threading and scheduling codelab examples, covering single task queues, queue priorities, randomized selection, and multi-thread task posting.
+relations:
+  - references /base/task/sequence_manager/sequence_manager.h
+  - documents /codelabs/threading_and_scheduling/01-single-task-queue.cc
+  - documents /codelabs/threading_and_scheduling/02-task-queue-priorities.cc
+---
+
 # Threading & scheduling
 
 This directory contains three examples of threading & primitives in Chromium's

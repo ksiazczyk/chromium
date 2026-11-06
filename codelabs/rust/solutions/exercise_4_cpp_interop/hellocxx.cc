@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: C++ main program calling into Rust
+// summary: Executable entry point that initializes the command line, prints a greeting from C++, and calls hello_from_rust via the cxx bridge.
+// ---
+
 #include <stdio.h>
 
 #include <string>

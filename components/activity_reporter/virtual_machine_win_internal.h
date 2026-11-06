@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Internal VM detection helpers for testing
+// summary: Exposes internal CPUID and SMBIOS classification helpers, such as vendor signature mapping and firmware string parsing, for use by tests.
+// ---
+
 #ifndef COMPONENTS_ACTIVITY_REPORTER_VIRTUAL_MACHINE_WIN_INTERNAL_H_
 #define COMPONENTS_ACTIVITY_REPORTER_VIRTUAL_MACHINE_WIN_INTERNAL_H_
 

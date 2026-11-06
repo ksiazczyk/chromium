@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account manager preference name constants
+// summary: Defines the preference name constants for account apps availability in ARC and its dictionary keys.
+// ---
+
 #include "components/account_manager_core/pref_names.h"
 
 namespace account_manager::prefs {

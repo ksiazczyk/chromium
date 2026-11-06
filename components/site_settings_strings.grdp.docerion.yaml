@@ -1,0 +1,4 @@
+# Docerion header of site_settings_strings.grdp.
+type: data
+title: Site settings strings
+summary: Grit part with labels for site settings permission types such as camera, ads, Bluetooth, background sync, and augmented reality.

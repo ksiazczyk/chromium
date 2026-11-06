@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccountId implementation
+// summary: Implements the AccountId class, covering comparison, validation, JSON serialization, deserialization, and storage key generation for user identification.
+// ---
+
 #include "components/account_id/account_id.h"
 
 #include <functional>

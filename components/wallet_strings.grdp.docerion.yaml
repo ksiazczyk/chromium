@@ -1,0 +1,4 @@
+# Docerion header of wallet_strings.grdp.
+type: data
+title: Wallet strings
+summary: Grit part with strings for Google Wallet consent and save dialogs for loyalty cards, event tickets, boarding passes, and other passes.

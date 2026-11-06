@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor logging macro
+// summary: Defines the ACTOR_LOG macro that prefixes actor framework log messages for use across the actor browser and renderer code.
+// ---
+
 #ifndef COMPONENTS_ACTOR_CORE_ACTOR_LOGGING_H_
 #define COMPONENTS_ACTOR_CORE_ACTOR_LOGGING_H_
 

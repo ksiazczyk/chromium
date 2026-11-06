@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declarations of the example Mojo interface implementations
+// summary: Declares ObjectAImpl and ObjectBImpl classes that bind associated receivers to frozen and default task queues.
+// ---
+
 #ifndef CODELABS_MOJO_EXAMPLES_MOJO_IMPLS_H_
 #define CODELABS_MOJO_EXAMPLES_MOJO_IMPLS_H_
 

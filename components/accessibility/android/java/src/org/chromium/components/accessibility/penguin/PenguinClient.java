@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PenguinClient
+// summary: Java-side JNI hook for the native Penguin client, exposing performAPICall variants that pass image, text, or web contents input to penguin_client.cc.
+// ---
+
 package org.chromium.components.accessibility.penguin;
 
 import android.graphics.Bitmap;

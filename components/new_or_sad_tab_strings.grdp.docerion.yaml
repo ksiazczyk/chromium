@@ -1,0 +1,4 @@
+# Docerion header of new_or_sad_tab_strings.grdp.
+type: data
+title: Sad tab and default tab title strings
+summary: Grit part with UI strings for default tab titles and the sad tab page shown on crashes or out-of-memory errors, including reload and feedback actions.

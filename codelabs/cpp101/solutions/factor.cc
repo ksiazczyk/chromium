@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Factor solution demonstrating ThreadPool tasks
+// summary: Codelab solution that finds a non-trivial factor of a number by posting the factoring work to base::ThreadPool while a repeated task prints status updates.
+// ---
+
 #include <optional>
 
 #include "base/at_exit.h"

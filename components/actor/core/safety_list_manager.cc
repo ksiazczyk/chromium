@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safety list manager implementation
+// summary: Implements parsing and lookup of actor safety lists that allow or block navigations and payment iframe origins, recording parse results in histograms.
+// ---
+
 #include "components/actor/core/safety_list_manager.h"
 
 #include <functional>

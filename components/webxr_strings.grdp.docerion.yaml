@@ -1,0 +1,4 @@
+# Docerion header of webxr_strings.grdp.
+type: data
+title: WebXR UI strings
+summary: Grit part supplying localized UI strings for WebXR, including ARCore install and update prompts and Cardboard VR settings messages, included from components_strings.grd.

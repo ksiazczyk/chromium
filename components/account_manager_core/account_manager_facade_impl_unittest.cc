@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AccountManagerFacadeImpl unit tests
+// summary: Unit tests for AccountManagerFacadeImpl covering observer notifications, account retrieval, persistent auth errors, and token fetching against a real AccountManager in ephemeral mode.
+// ---
+
 #include "components/account_manager_core/account_manager_facade_impl.h"
 
 #include <algorithm>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Activity reporter build definition
+summary: GN build rules for the activity reporter component, including buildflags, the Windows VM detection target and unit tests.

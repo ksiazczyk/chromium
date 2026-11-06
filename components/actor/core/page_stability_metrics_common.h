@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page stability metrics common declarations
+// summary: Declares the PageStabilityOutcome enum and the extern metric name constants shared by actor page stability metrics code.
+// ---
+
 #ifndef COMPONENTS_ACTOR_CORE_PAGE_STABILITY_METRICS_COMMON_H_
 #define COMPONENTS_ACTOR_CORE_PAGE_STABILITY_METRICS_COMMON_H_
 

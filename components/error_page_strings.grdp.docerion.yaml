@@ -1,0 +1,4 @@
+# Docerion header of error_page_strings.grdp.
+type: data
+title: Error page UI strings
+summary: Grit part defining UI strings for network error pages, including buttons, connection suggestions, and offline page messages.

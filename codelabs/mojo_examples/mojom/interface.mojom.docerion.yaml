@@ -1,0 +1,4 @@
+# Docerion header of interface.mojom.
+type: source
+title: Mojo interface definitions for the IPC codelab examples
+summary: Defines sample Mojo IPC interfaces (ObjectA, ObjectB, AssociatedProcess, GenericInterface, Process) used by the multi-process and associated-interface codelab examples.

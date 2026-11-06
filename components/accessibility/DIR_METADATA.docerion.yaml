@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for team contact and bug tracking
+summary: Records the Chrome accessibility core team email and the Buganizer component ID responsible for this directory.

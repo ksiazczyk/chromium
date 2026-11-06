@@ -1,0 +1,4 @@
+# Docerion header of paint_preview_strings.grdp.
+type: data
+title: Paint preview strings
+summary: Grit part containing the single display name string for the Paint Preview compositor service process shown in the system task manager.

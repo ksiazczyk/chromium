@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for account_id
+summary: GN build file defining the account_id component and a test_support source set, with dependencies on base and google_apis.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build file for the mojom codelab target
+summary: Defines the mojom GN target that compiles interface.mojom with dependencies on the IPC mojom targets.

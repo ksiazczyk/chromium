@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Account Settings include dependency rules
+summary: Specifies allowed include directories for the account_settings component, with extra sync test rules for unit test files.

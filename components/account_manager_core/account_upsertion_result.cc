@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccountUpsertionResult implementation
+// summary: Implements the factory methods and consistency checks of AccountUpsertionResult, the outcome type of account addition and re-authentication requests.
+// ---
+
 #include "components/account_manager_core/account_upsertion_result.h"
 
 #include "base/check_op.h"

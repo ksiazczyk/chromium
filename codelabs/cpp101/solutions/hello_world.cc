@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hello world solution using command-line switches
+// summary: Codelab solution that prints a greeting and name taken from command-line switches, with defaults when the switches are absent.
+// ---
+
 #include <stdio.h>
 
 #include <string>

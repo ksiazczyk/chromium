@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for actor internals browser
+summary: Defines include rules granting this directory access to the Mojo public C++ bindings.

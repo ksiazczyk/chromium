@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: C++ 101 codelab GN build targets
+summary: Defines the GN build targets for the C++ 101 codelab, grouping executables for the hello world, fibonacci, sleep, factor, and Mojo solutions.

@@ -1,0 +1,4 @@
+# Docerion header of external_intents_strings.grdp.
+type: data
+title: External intent UI strings
+summary: Grit part with strings for the Android prompt asking whether to continue to an external app from a website.

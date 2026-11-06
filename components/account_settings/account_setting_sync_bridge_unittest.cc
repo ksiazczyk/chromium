@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Account setting sync bridge unit tests
+// summary: Unit tests for the account setting sync bridge, using an in-memory data type store, a mock change processor and a mock observer.
+// ---
+
 #include "components/account_settings/account_setting_sync_bridge.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Aggregated journal unit tests
+// summary: Unit tests verifying that AggregatedJournal logs entries and proto events and notifies its observers.
+// ---
+
 #include "components/actor/core/aggregated_journal.h"
 
 #include "base/test/task_environment.h"

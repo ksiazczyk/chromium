@@ -1,0 +1,4 @@
+# Docerion header of print_media_strings.grdp.
+type: data
+title: Print media size strings
+summary: Grit part listing print preview media size names for standard paper formats such as the ISO A-series, in title case.

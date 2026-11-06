@@ -1,0 +1,4 @@
+# Docerion header of autofill_payments_strings.grdp.
+type: data
+title: Autofill payments strings
+summary: Grit part defining UI strings for saving and filling payment methods, including credit card, IBAN, Google Pay, and mandatory reauth prompts.

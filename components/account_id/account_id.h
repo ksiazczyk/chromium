@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccountId class header
+// summary: Declares the AccountId class that identifies users by email, account type, and Gaia ID, with factory methods, serialization, and logging support.
+// ---
+
 #ifndef COMPONENTS_ACCOUNT_ID_ACCOUNT_ID_H_
 #define COMPONENTS_ACCOUNT_ID_ACCOUNT_ID_H_
 

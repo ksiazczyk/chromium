@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: script
+# title: Presubmit checks for //components
+# summary: Runs SVG optimization, web development style, NotFatalUntil adoption, formatting, and Ruff checks on changes uploaded or committed in components.
+# ---
+
 
 def CheckChangeOnUpload(input_api, output_api):
     return _CommonChecks(input_api, output_api)

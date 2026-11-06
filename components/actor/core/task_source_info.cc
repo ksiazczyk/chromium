@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Task source info implementation
+// summary: Implements the constructor, destructor, and copy and move operations for the TaskSourceInfo struct.
+// ---
+
 #include "components/actor/core/task_source_info.h"
 
 namespace actor {

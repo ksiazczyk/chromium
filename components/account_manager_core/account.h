@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account and AccountKey declarations
+// summary: Defines the AccountType enum, the AccountKey identifier class and the Account struct for Chrome OS accounts.
+// ---
+
 #ifndef COMPONENTS_ACCOUNT_MANAGER_CORE_ACCOUNT_H_
 #define COMPONENTS_ACCOUNT_MANAGER_CORE_ACCOUNT_H_
 

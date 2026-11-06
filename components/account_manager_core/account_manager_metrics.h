@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account Manager metrics declarations
+// summary: Declares histogram names, the AccountAdditionSource enum of UI surfaces that launch account addition or re-auth, and the metric recording functions.
+// ---
+
 #ifndef COMPONENTS_ACCOUNT_MANAGER_CORE_ACCOUNT_MANAGER_METRICS_H_
 #define COMPONENTS_ACCOUNT_MANAGER_CORE_ACCOUNT_MANAGER_METRICS_H_
 

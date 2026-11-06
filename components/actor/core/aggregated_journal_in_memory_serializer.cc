@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aggregated journal in-memory serializer implementation
+// summary: Implements an in-memory journal serializer that stores trace packets in a size-bounded buffer and supports snapshots, size estimation, and clearing.
+// ---
+
 #include "components/actor/core/aggregated_journal_in_memory_serializer.h"
 
 #include "base/compiler_specific.h"

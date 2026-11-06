@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aggregated journal in-memory serializer declaration
+// summary: Declares an in-memory journal serializer that keeps trace packets in a byte-limited buffer with snapshot, size estimation, and clear operations.
+// ---
+
 #ifndef COMPONENTS_ACTOR_CORE_AGGREGATED_JOURNAL_IN_MEMORY_SERIALIZER_H_
 #define COMPONENTS_ACTOR_CORE_AGGREGATED_JOURNAL_IN_MEMORY_SERIALIZER_H_
 

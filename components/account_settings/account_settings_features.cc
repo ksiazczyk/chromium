@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account settings feature flag definition
+// summary: Defines the kAccountSettingContextKillSwitch feature that gates context-related account settings.
+// ---
+
 #include "components/account_settings/account_settings_features.h"
 
 namespace account_settings::features {

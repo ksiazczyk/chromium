@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Renderer process example with freezable task queue
+// summary: Renderer-side codelab example implementing the Process interface, binding associated receivers for ObjectA and ObjectB, and freezing the task queue ObjectA is bound to.
+// ---
+
 #include <memory>
 
 #include "base/command_line.h"

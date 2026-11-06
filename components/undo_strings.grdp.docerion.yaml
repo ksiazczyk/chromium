@@ -1,0 +1,4 @@
+# Docerion header of undo_strings.grdp.
+type: data
+title: Undo strings
+summary: Grit part with undo and redo menu titles for bookmark operations, provided in both sentence case and title case variants.

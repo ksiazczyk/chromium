@@ -1,0 +1,4 @@
+# Docerion header of parse_actor_trace_unittest.py.
+type: test
+title: Parse Actor Trace Unit Tests
+summary: Unit tests for the actor trace parser, verifying extraction of APC and screenshot step files from mocked trace data with parented and unparented events.

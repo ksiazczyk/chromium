@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AccountManager unit tests
+// summary: Unit tests for AccountManager covering account upsert, removal, token persistence, and access token fetching using GTest and GMock.
+// ---
+
 #include "components/account_manager_core/chromeos/account_manager.h"
 
 #include <optional>

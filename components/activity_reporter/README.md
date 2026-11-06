@@ -1,3 +1,12 @@
+---
+type: readme
+title: Activity reporter overview
+summary: Explains the component's purpose, its privacy and Incognito behavior, persistence in Local State and how active users are counted.
+relations:
+  - references /components/activity_reporter/BUILD.gn
+  - references /docs/updater/protocol_4.md
+---
+
 `activity_reporter` is responsible for reporting when the browser (or other
 embedder) is actively used to the browser's vendor. This enables the vendor to
 count the number of active users of the browser.

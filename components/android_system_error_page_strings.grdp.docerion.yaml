@@ -1,0 +1,4 @@
+# Docerion header of android_system_error_page_strings.grdp.
+type: data
+title: Android system error page strings
+summary: Grit part defining UI strings for error pages shown with Android system styling, including unavailable pages and blocked content messages.

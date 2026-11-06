@@ -1,0 +1,4 @@
+# Docerion header of components_variant_public_strings.grd.
+type: data
+title: Components variant public strings grit definition
+summary: Grit definition of variant UI strings that includes public .grdp parts and must stay in sync with an internal counterpart in the internal repo.

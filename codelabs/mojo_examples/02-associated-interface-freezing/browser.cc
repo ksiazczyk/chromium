@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser process example for Mojo associated interfaces
+// summary: Browser-side codelab example that launches a mock renderer process, sends a Mojo invitation, and binds associated remotes for ObjectA and ObjectB to send IPCs.
+// ---
+
 #include "base/command_line.h"
 #include "base/logging.h"
 #include "base/process/launch.h"

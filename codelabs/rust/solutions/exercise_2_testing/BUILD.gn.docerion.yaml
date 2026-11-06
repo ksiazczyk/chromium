@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build file for the Rust testing exercise solution
+summary: Defines GN targets for the Rust static library, its gtest unit tests, and the exercise_2_solution test executable.

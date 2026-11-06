@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Ownership file that delegates to the OWNERS file of chrome/browser/ui/webui/access_code_cast.

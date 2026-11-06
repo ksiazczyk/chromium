@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock account setting service header
+// summary: Declares a GoogleMock test double for AccountSettingService with mocked observer, getter and sync delegate methods.
+// ---
+
 #ifndef COMPONENTS_ACCOUNT_SETTINGS_MOCK_ACCOUNT_SETTING_SERVICE_H_
 #define COMPONENTS_ACCOUNT_SETTINGS_MOCK_ACCOUNT_SETTING_SERVICE_H_
 

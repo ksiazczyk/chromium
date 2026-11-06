@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Actor internals debug page styles
+summary: Styles the actor events table with track colors, error highlighting, and fade animations.
+*/
+
 th,
 td {
   border: 1px solid #ccc;

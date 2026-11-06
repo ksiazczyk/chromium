@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccountManager class declaration
+// summary: Declares the AccountManager class that manages ChromeOS accounts and tokens, including its observer interface, initialization, and access token fetching APIs.
+// ---
+
 #ifndef COMPONENTS_ACCOUNT_MANAGER_CORE_CHROMEOS_ACCOUNT_MANAGER_H_
 #define COMPONENTS_ACCOUNT_MANAGER_CORE_CHROMEOS_ACCOUNT_MANAGER_H_
 

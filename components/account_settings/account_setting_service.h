@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccountSettingService interface
+// summary: Declares the KeyedService interface for reading Google account settings, observing changes and obtaining the sync controller delegate.
+// ---
+
 #ifndef COMPONENTS_ACCOUNT_SETTINGS_ACCOUNT_SETTING_SERVICE_H_
 #define COMPONENTS_ACCOUNT_SETTINGS_ACCOUNT_SETTING_SERVICE_H_
 

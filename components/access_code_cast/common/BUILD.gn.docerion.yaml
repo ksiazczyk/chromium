@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Access Code Cast common build configuration
+summary: GN build file defining the metrics component and its unit test target for the access code cast common folder.

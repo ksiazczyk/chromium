@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for account_manager_core
+summary: Defines the GN build targets, sources and dependencies for the account_manager_core component, including test support and unit test sets.

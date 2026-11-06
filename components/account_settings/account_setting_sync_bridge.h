@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccountSettingSyncBridge class declaration
+// summary: Declares the DataTypeSyncBridge for ACCOUNT_SETTING with observer notifications, typed setting accessors and sync model overrides.
+// ---
+
 #ifndef COMPONENTS_ACCOUNT_SETTINGS_ACCOUNT_SETTING_SYNC_BRIDGE_H_
 #define COMPONENTS_ACCOUNT_SETTINGS_ACCOUNT_SETTING_SYNC_BRIDGE_H_
 

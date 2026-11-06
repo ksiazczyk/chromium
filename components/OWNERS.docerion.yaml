@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners list for //components
+summary: Lists last-resort owners for the directory and per-file owners for the string resource files, delegating them to the owning component teams.

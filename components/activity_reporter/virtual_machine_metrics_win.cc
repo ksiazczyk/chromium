@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VM detection metrics recording
+// summary: Runs Windows VM detection on a background thread and records UMA histograms for hypervisor type, firmware vendor, and CPUID/SMBIOS agreement.
+// ---
+
 #include "base/feature.h"
 #include "base/feature_list.h"
 #include "base/functional/bind.h"

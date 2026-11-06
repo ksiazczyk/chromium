@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Dependency allowlist for the accessibility component
+summary: Restricts includes in this directory to the content public browser API.

@@ -1,3 +1,9 @@
+---
+type: readme
+title: Actor Component
+summary: Introduces the Chrome Actor API component, explains its layered component design for sharing with iOS, and outlines the core, public, renderer, and transport directories.
+---
+
 # Actor Component
 
 This component contains common types for the Chrome Actor API

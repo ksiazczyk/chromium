@@ -1,0 +1,4 @@
+# Docerion header of send_tab_to_self_strings.grdp.
+type: data
+title: Send tab to self strings
+summary: Grit part with strings for push notifications and toasts shown when a user sends or receives tabs across their devices.

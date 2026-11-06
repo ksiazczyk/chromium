@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActuationTransportHandler implementation
+// summary: Implements the transport handler that parses actuation payloads, routes start task requests to the delegate, and sends responses upstream.
+// ---
+
 #include "components/actor/transport/actuation_transport_handler.h"
 
 #include <tuple>

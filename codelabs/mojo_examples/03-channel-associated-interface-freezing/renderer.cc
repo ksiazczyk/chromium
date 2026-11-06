@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Renderer process for the channel-associated interface freezing codelab
+// summary: Renderer-side example that accepts the Mojo invitation, initializes the IPC channel client, and binds ObjectA and ObjectB receivers to task queues, one initially frozen.
+// ---
+
 #include <memory>
 
 #include "base/at_exit.h"

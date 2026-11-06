@@ -1,0 +1,4 @@
+# Docerion header of dialog_strings.grdp.
+type: data
+title: HTTP POST warning dialog strings
+summary: Grit part defining strings for the dialog that warns users before re-submitting form data via HTTP POST.

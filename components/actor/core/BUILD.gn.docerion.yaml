@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Actor core build targets
+summary: GN build file defining source sets for task IDs, logging, journal serialization, features, core utilities, and unit tests of the actor core component.

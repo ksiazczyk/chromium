@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PenguinClient implementation
+// summary: Stub implementation of the PenguinClient class with PerformAPICall overloads and Android JNI entry points that currently perform no work.
+// ---
+
 #include "components/accessibility/penguin/penguin_client.h"
 
 #include <memory>

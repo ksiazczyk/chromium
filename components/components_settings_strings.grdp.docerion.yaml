@@ -1,0 +1,4 @@
+# Docerion header of components_settings_strings.grdp.
+type: data
+title: Components settings strings
+summary: Grit part with settings UI strings such as the Settings title, advanced settings show and hide links, and proxy settings button text.
