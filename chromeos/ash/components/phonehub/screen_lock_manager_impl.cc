@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScreenLockManagerImpl preference-backed implementation
+// summary: Implements ScreenLockManagerImpl, persisting the last-known screen lock status in user prefs and registering the pref.
+// ---
+
 #include "chromeos/ash/components/phonehub/screen_lock_manager_impl.h"
 
 #include "chromeos/ash/components/phonehub/pref_names.h"

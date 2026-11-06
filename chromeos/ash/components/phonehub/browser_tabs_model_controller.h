@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserTabsModelController class declaration
+// summary: Declares a controller that observes tab updates and multidevice feature states to set the browser tabs model on the phone model.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_PHONEHUB_BROWSER_TABS_MODEL_CONTROLLER_H_
 #define CHROMEOS_ASH_COMPONENTS_PHONEHUB_BROWSER_TABS_MODEL_CONTROLLER_H_
 

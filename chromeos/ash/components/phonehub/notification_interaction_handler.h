@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification interaction handler interface
+// summary: Declares the abstract NotificationInteractionHandler that forwards Phone Hub notification click events to registered NotificationClickHandler observers.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_PHONEHUB_NOTIFICATION_INTERACTION_HANDLER_H_
 #define CHROMEOS_ASH_COMPONENTS_PHONEHUB_NOTIFICATION_INTERACTION_HANDLER_H_
 

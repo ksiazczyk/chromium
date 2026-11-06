@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Invalid connection disconnector unit tests
+// summary: Unit tests for InvalidConnectionDisconnector using a fake connection manager and mock timer to verify disconnect flows during the grace period.
+// ---
+
 #include "chromeos/ash/components/phonehub/invalid_connection_disconnector.h"
 
 #include "base/memory/ptr_util.h"

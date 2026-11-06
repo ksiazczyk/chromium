@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CameraRollManager base implementation
+// summary: Implements observer registration, UI state access, and current item handling for the base CameraRollManager that tracks camera roll items from the Android device.
+// ---
+
 #include "chromeos/ash/components/phonehub/camera_roll_manager.h"
 
 #include "chromeos/ash/components/phonehub/camera_roll_item.h"

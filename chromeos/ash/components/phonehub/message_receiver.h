@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Message receiver interface
+// summary: Declares the MessageReceiver interface and its observer for receiving message updates from the remote phone, such as status snapshots, camera roll responses, and app list updates.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_PHONEHUB_MESSAGE_RECEIVER_H_
 #define CHROMEOS_ASH_COMPONENTS_PHONEHUB_MESSAGE_RECEIVER_H_
 

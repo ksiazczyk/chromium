@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PingManagerImpl class declaration for Phone Hub ping handling
+// summary: Declares the PingManagerImpl class that sends ping requests to the connected phone, tracks phone ping support, and handles ping response timeouts.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_PHONEHUB_PING_MANAGER_IMPL_H_
 #define CHROMEOS_ASH_COMPONENTS_PHONEHUB_PING_MANAGER_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake do not disturb controller header
+// summary: Declares FakeDoNotDisturbController, a test double with configurable DND state and an option to make state requests fail.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_PHONEHUB_FAKE_DO_NOT_DISTURB_CONTROLLER_H_
 #define CHROMEOS_ASH_COMPONENTS_PHONEHUB_FAKE_DO_NOT_DISTURB_CONTROLLER_H_
 

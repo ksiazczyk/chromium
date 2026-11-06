@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TetherController base class implementation
+// summary: Implements the TetherController base class with observer management, change notifications, and a stream operator for tether statuses.
+// ---
+
 #include "chromeos/ash/components/phonehub/tether_controller.h"
 
 namespace ash::phonehub {

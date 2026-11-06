@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake notification manager for tests
+// summary: Declares a fake NotificationManager that exposes helpers to set, remove and dismiss notifications and capture inline replies in tests.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_PHONEHUB_FAKE_NOTIFICATION_MANAGER_H_
 #define CHROMEOS_ASH_COMPONENTS_PHONEHUB_FAKE_NOTIFICATION_MANAGER_H_
 

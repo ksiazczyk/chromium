@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake connection scheduler header
+// summary: Declares FakeConnectionScheduler, a test double that records how often an immediate connection was requested.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_PHONEHUB_FAKE_CONNECTION_SCHEDULER_H_
 #define CHROMEOS_ASH_COMPONENTS_PHONEHUB_FAKE_CONNECTION_SCHEDULER_H_
 

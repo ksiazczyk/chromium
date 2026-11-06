@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Multidevice feature access manager unit tests
+// summary: Unit tests covering notification, camera roll, combined feature setup, and feature setup connection flows of the preference-backed access manager.
+// ---
+
 #include "chromeos/ash/components/phonehub/multidevice_feature_access_manager_impl.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserTabsModel implementation
+// summary: Implements the browser tabs model, sorting and truncating recent tab metadata and clearing it when tab sync is disabled.
+// ---
+
 #include "chromeos/ash/components/phonehub/browser_tabs_model.h"
 
 #include "chromeos/ash/components/multidevice/logging/logging.h"

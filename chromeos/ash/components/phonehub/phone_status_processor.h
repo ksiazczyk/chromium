@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Phone status processor
+// summary: Declares PhoneStatusProcessor, which receives phone status, app stream, and app list updates and updates Phone Hub models.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_PHONEHUB_PHONE_STATUS_PROCESSOR_H_
 #define CHROMEOS_ASH_COMPONENTS_PHONEHUB_PHONE_STATUS_PROCESSOR_H_
 

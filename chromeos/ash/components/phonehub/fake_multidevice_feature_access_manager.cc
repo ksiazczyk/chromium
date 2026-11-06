@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeMultideviceFeatureAccessManager implementation
+// summary: Fake MultideviceFeatureAccessManager for tests that simulates notification, camera roll and apps access statuses plus setup UI dismissal.
+// ---
+
 #include "chromeos/ash/components/phonehub/fake_multidevice_feature_access_manager.h"
 
 #include <algorithm>

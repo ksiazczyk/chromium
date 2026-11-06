@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Observer interface for recent app clicks
+// summary: Defines the RecentAppClickObserver interface that is notified when a user clicks a recent app with an open action in Phone Hub.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_PHONEHUB_RECENT_APP_CLICK_OBSERVER_H_
 #define CHROMEOS_ASH_COMPONENTS_PHONEHUB_RECENT_APP_CLICK_OBSERVER_H_
 

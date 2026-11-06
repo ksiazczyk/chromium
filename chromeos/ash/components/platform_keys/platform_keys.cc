@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform keys implementation
+// summary: Implements status messages, keystore error mapping and certificate list intersection helpers.
+// ---
+
 #include "chromeos/ash/components/platform_keys/platform_keys.h"
 
 #include <stdint.h>

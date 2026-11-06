@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Find My Device controller implementation
+// summary: Sends ring device requests through MessageSender and records Find My Device attempts in the user action recorder.
+// ---
+
 #include "chromeos/ash/components/phonehub/find_my_device_controller_impl.h"
 
 #include "chromeos/ash/components/multidevice/logging/logging.h"

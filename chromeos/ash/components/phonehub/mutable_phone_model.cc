@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MutablePhoneModel implementation
+// summary: Implements setters for phone name, status model, and browser tabs model that notify observers when the model changes.
+// ---
+
 #include "chromeos/ash/components/phonehub/mutable_phone_model.h"
 #include "chromeos/ash/components/multidevice/logging/logging.h"
 

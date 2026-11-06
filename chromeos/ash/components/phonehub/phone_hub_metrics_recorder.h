@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Phone Hub metrics recorder header
+// summary: Declares PhoneHubMetricsRecorder, which implements the secure channel NearbyMetricsRecorder interface for UMA metrics.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_PHONEHUB_PHONE_HUB_METRICS_RECORDER_H_
 #define CHROMEOS_ASH_COMPONENTS_PHONEHUB_PHONE_HUB_METRICS_RECORDER_H_
 

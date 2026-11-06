@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserActionRecorderImpl class header
+// summary: Declares UserActionRecorderImpl and its UserAction enum, which must stay in sync with the Phone Hub metrics definitions.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_PHONEHUB_USER_ACTION_RECORDER_IMPL_H_
 #define CHROMEOS_ASH_COMPONENTS_PHONEHUB_USER_ACTION_RECORDER_IMPL_H_
 

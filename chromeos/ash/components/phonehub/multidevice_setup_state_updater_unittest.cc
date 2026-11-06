@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Multidevice setup state updater unit tests
+// summary: Unit tests for MultideviceSetupStateUpdater, verifying Phone Hub is enabled based on host status and feature access states.
+// ---
+
 #include "chromeos/ash/components/phonehub/multidevice_setup_state_updater.h"
 
 #include "chromeos/ash/components/phonehub/fake_multidevice_feature_access_manager.h"

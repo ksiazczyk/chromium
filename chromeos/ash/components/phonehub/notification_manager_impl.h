@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification manager implementation header
+// summary: Declares NotificationManagerImpl, which sends notification actions to the phone and observes multidevice setup feature state changes.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_PHONEHUB_NOTIFICATION_MANAGER_IMPL_H_
 #define CHROMEOS_ASH_COMPONENTS_PHONEHUB_NOTIFICATION_MANAGER_IMPL_H_
 

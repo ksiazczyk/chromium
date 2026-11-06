@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserActionRecorder interface
+// summary: Abstract interface that records user actions taken via Phone Hub, such as opening the UI, tethering attempts, and notification replies.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_PHONEHUB_USER_ACTION_RECORDER_H_
 #define CHROMEOS_ASH_COMPONENTS_PHONEHUB_USER_ACTION_RECORDER_H_
 

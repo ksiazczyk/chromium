@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Icon decoder implementation unit tests
+// summary: Unit tests for IconDecoderImpl that verify batch icon decoding, including completed and failed decode requests, using a test decoder delegate.
+// ---
+
 #include "chromeos/ash/components/phonehub/icon_decoder_impl.h"
 
 #include <memory>

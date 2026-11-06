@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Phone Hub UI readiness recorder implementation
+// summary: Tracks the connection flow state and records UMA histograms for Phone Hub UI readiness latency and results.
+// ---
+
 #include "chromeos/ash/components/phonehub/phone_hub_ui_readiness_recorder.h"
 
 #include "base/metrics/histogram_functions.h"

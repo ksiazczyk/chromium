@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Message sender interface
+// summary: Declares the MessageSender interface for sending requests from the Chrome OS device to the phone, covering notification, battery, camera roll, feature setup, and ping messages.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_PHONEHUB_MESSAGE_SENDER_H_
 #define CHROMEOS_ASH_COMPONENTS_PHONEHUB_MESSAGE_SENDER_H_
 

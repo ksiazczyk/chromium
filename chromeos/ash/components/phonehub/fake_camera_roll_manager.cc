@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake camera roll manager implementation
+// summary: Implements the fake CameraRollManager that simulates downloads, simulated errors and UI state changes such as permissions and visibility.
+// ---
+
 #include "chromeos/ash/components/phonehub/fake_camera_roll_manager.h"
 
 #include "chromeos/ash/components/multidevice/logging/logging.h"

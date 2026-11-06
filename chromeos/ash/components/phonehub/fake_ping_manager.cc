@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake ping manager implementation
+// summary: Implements a fake PingManager that counts ping requests and tracks whether a response is pending for tests.
+// ---
+
 #include "chromeos/ash/components/phonehub/fake_ping_manager.h"
 
 namespace ash::phonehub {

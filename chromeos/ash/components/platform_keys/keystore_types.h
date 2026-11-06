@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keystore types header
+// summary: Defines keystore and certificate store types, algorithm parameter structs and signing scheme enums.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_PLATFORM_KEYS_KEYSTORE_TYPES_H_
 #define CHROMEOS_ASH_COMPONENTS_PLATFORM_KEYS_KEYSTORE_TYPES_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Message receiver base implementation
+// summary: Implements the MessageReceiver base class, notifying observers of received phone status snapshots, updates, feature setup responses, camera roll responses, and app stream updates.
+// ---
+
 #include "chromeos/ash/components/phonehub/message_receiver.h"
 
 #include "chromeos/ash/components/phonehub/proto/phonehub_api.pb.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Invalid connection disconnector implementation
+// summary: Implements InvalidConnectionDisconnector, which disconnects the phone when the phone status model stays empty after a 45-second grace period while connected.
+// ---
+
 #include "chromeos/ash/components/phonehub/invalid_connection_disconnector.h"
 
 #include "base/time/time.h"

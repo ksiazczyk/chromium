@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeatureStatusProviderImpl implementation
+// summary: Computes the current Phone Hub status from device sync, multidevice setup, Bluetooth, connection, session, and power state.
+// ---
+
 #include "chromeos/ash/components/phonehub/feature_status_provider_impl.h"
 
 #include <utility>

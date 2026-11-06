@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TetherControllerImpl header
+// summary: Declares TetherControllerImpl, which drives Instant Tethering connection flows through CrosNetworkConfig and MultiDeviceSetupClient.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_PHONEHUB_TETHER_CONTROLLER_IMPL_H_
 #define CHROMEOS_ASH_COMPONENTS_PHONEHUB_TETHER_CONTROLLER_IMPL_H_
 

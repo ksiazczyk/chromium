@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multidevice feature access manager interface
+// summary: Declares the manager tracking notification and camera roll access status on the connected Android phone, with access status enums and observer interface.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_PHONEHUB_MULTIDEVICE_FEATURE_ACCESS_MANAGER_H_
 #define CHROMEOS_ASH_COMPONENTS_PHONEHUB_MULTIDEVICE_FEATURE_ACCESS_MANAGER_H_
 

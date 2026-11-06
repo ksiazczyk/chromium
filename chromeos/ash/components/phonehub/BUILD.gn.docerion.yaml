@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Phone Hub BUILD.gn build configuration
+summary: Defines the GN build targets and source list for the ChromeOS Phone Hub component.

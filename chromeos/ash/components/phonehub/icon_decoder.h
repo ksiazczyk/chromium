@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Icon decoder interface
+// summary: Declares the IconDecoder interface for batch-decoding encoded icon data into images with unique result ids.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_PHONEHUB_ICON_DECODER_H_
 #define CHROMEOS_ASH_COMPONENTS_PHONEHUB_ICON_DECODER_H_
 

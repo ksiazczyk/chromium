@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake do not disturb controller implementation
+// summary: Implements the fake DoNotDisturbController that simulates DND state changes, request failures and state notifications for tests.
+// ---
+
 #include "chromeos/ash/components/phonehub/fake_do_not_disturb_controller.h"
 
 namespace ash::phonehub {

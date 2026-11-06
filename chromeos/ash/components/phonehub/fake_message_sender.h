@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeMessageSender header
+// summary: Declares a test fake of MessageSender that stores all sent requests and provides accessors for recent messages and call counts.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_PHONEHUB_FAKE_MESSAGE_SENDER_H_
 #define CHROMEOS_ASH_COMPONENTS_PHONEHUB_FAKE_MESSAGE_SENDER_H_
 

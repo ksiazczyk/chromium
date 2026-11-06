@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake onboarding UI tracker implementation
+// summary: Implements a fake OnboardingUiTracker that toggles onboarding UI visibility and counts Get Started interactions for tests.
+// ---
+
 #include "chromeos/ash/components/phonehub/fake_onboarding_ui_tracker.h"
 
 namespace ash::phonehub {

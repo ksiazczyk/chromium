@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Phone model test utilities header
+// summary: Declares fake phone status, browser tab, and notification data helpers for use in Phone Hub tests.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_PHONEHUB_PHONE_MODEL_TEST_UTIL_H_
 #define CHROMEOS_ASH_COMPONENTS_PHONEHUB_PHONE_MODEL_TEST_UTIL_H_
 

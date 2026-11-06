@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Phone Hub dependency include rules
+summary: Specifies which directories the Phone Hub component may include, with extra rules for tests.

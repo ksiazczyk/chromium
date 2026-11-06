@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BrowserTabsModelController unit tests
+// summary: Verifies that the phone model's browser tabs model is updated only when the task continuation feature is enabled.
+// ---
+
 #include "chromeos/ash/components/phonehub/browser_tabs_model_controller.h"
 
 #include "chromeos/ash/components/phonehub/fake_browser_tabs_model_provider.h"

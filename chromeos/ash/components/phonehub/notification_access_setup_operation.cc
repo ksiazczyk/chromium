@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification access setup operation implementation
+// summary: Implements status tracking and metrics reporting for the notification access setup flow with the phone.
+// ---
+
 #include "chromeos/ash/components/phonehub/notification_access_setup_operation.h"
 
 #include <algorithm>

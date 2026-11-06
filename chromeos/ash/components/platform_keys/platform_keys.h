@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform keys shared types and helper declarations
+// summary: Declares shared enums, status codes, and helper functions for the ChromeOS platform keys service, including certificate intersection and key attribute handling.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_PLATFORM_KEYS_PLATFORM_KEYS_H_
 #define CHROMEOS_ASH_COMPONENTS_PLATFORM_KEYS_PLATFORM_KEYS_H_
 

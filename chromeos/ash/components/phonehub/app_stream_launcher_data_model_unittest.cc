@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App stream launcher data model unit tests
+// summary: Unit tests for the App Stream launcher data model covering launcher visibility, state reset, and app list changes.
+// ---
+
 #include "chromeos/ash/components/phonehub/app_stream_launcher_data_model.h"
 #include <memory>
 #include <vector>

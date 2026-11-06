@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DoNotDisturb controller interface
+// summary: Defines the DoNotDisturbController interface for checking, observing and requesting the Do Not Disturb state of the connected phone.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_PHONEHUB_DO_NOT_DISTURB_CONTROLLER_H_
 #define CHROMEOS_ASH_COMPONENTS_PHONEHUB_DO_NOT_DISTURB_CONTROLLER_H_
 

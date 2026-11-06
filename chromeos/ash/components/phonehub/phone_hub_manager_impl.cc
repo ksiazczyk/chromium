@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PhoneHubManagerImpl implementation
+// summary: Implements PhoneHubManager as a KeyedService, wiring together Phone Hub controllers, processors, messaging, and secure channel connections.
+// ---
+
 #include "chromeos/ash/components/phonehub/phone_hub_manager_impl.h"
 
 #include <memory>

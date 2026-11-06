@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Phone model test utilities implementation
+// summary: Implements fake phone status, browser tab, and notification data used by Phone Hub unit tests.
+// ---
+
 #include "chromeos/ash/components/phonehub/phone_model_test_util.h"
 
 #include "base/containers/flat_map.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recent apps interaction handler implementation header
+// summary: Declares RecentAppsInteractionHandlerImpl, including preference registration and observer hooks for multidevice setup, access manager, and Eche connection status.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_PHONEHUB_RECENT_APPS_INTERACTION_HANDLER_IMPL_H_
 #define CHROMEOS_ASH_COMPONENTS_PHONEHUB_RECENT_APPS_INTERACTION_HANDLER_IMPL_H_
 

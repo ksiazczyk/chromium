@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeFindMyDeviceController implementation
+// summary: Fake FindMyDeviceController for tests that simulates phone ringing state changes and can be made to fail requests on demand.
+// ---
+
 #include "chromeos/ash/components/phonehub/fake_find_my_device_controller.h"
 
 namespace ash::phonehub {

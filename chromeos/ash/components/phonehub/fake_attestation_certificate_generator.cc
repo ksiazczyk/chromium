@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake attestation certificate generator
+// summary: Test fake that immediately reports a generated fake attestation certificate for use in PhoneHub tests.
+// ---
+
 #include "fake_attestation_certificate_generator.h"
 #include "chromeos/ash/components/phonehub/public/cpp/attestation_certificate_generator.h"
 

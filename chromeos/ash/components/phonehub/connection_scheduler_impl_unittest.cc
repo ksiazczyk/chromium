@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Connection scheduler implementation unit tests
+// summary: Tests connection attempts, backoff retry behavior, and disabled-feature handling using fake connection manager and feature status provider.
+// ---
+
 #include "chromeos/ash/components/phonehub/connection_scheduler_impl.h"
 
 #include <memory>

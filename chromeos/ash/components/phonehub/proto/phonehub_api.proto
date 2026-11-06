@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PhoneHub API protocol buffer definitions
+// summary: Protobuf schema defining the messages and enums for PhoneHub communication between a Chromebook and a connected Android phone.
+// ---
+
 syntax = "proto3";
 
 package ash.phonehub.proto;

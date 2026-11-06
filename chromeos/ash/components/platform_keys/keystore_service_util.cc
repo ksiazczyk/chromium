@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keystore service utility implementation
+// summary: Converts keystore algorithms to and from WebCrypto dictionaries and builds algorithm variants.
+// ---
+
 #include "chromeos/ash/components/platform_keys/keystore_service_util.h"
 
 #include <optional>

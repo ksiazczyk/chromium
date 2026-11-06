@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake camera roll download manager implementation
+// summary: Implements the fake CameraRollDownloadManager that simulates payload file creation, download progress updates and file deletion for tests.
+// ---
+
 #include "chromeos/ash/components/phonehub/fake_camera_roll_download_manager.h"
 
 #include <optional>

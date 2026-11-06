@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakePingManager class declaration
+// summary: Declares a fake PingManager that counts ping requests and tracks response state for use in PhoneHub tests.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_PHONEHUB_FAKE_PING_MANAGER_H_
 #define CHROMEOS_ASH_COMPONENTS_PHONEHUB_FAKE_PING_MANAGER_H_
 

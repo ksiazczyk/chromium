@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CrosStateSender unit tests
+// summary: Unit tests verifying that CrosStateSender sends ChromeOS state messages and retries with a doubling delay until the phone model is populated.
+// ---
+
 #include "chromeos/ash/components/phonehub/cros_state_sender.h"
 
 #include <memory>

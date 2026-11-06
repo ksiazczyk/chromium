@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DoNotDisturb controller implementation
+// summary: Implements DoNotDisturbController by tracking the phone's DND state and sending update notification mode requests via MessageSender.
+// ---
+
 #include "chromeos/ash/components/phonehub/do_not_disturb_controller_impl.h"
 
 #include "chromeos/ash/components/multidevice/logging/logging.h"

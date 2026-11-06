@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NotificationProcessor header
+// summary: Declares a helper class that processes inline reply-able notification protos and schedules notification additions and removals while decoding images asynchronously.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_PHONEHUB_NOTIFICATION_PROCESSOR_H_
 #define CHROMEOS_ASH_COMPONENTS_PHONEHUB_NOTIFICATION_PROCESSOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CameraRollManagerImpl class declaration
+// summary: Declares the concrete CameraRollManagerImpl, which observes message, multidevice setup, and connection events to manage camera roll items and downloads.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_PHONEHUB_CAMERA_ROLL_MANAGER_IMPL_H_
 #define CHROMEOS_ASH_COMPONENTS_PHONEHUB_CAMERA_ROLL_MANAGER_IMPL_H_
 

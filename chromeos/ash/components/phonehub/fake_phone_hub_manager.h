@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Phone Hub manager for tests
+// summary: Declares a fake PhoneHubManager that initializes fake versions of Phone Hub's core business logic for testing.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_PHONEHUB_FAKE_PHONE_HUB_MANAGER_H_
 #define CHROMEOS_ASH_COMPONENTS_PHONEHUB_FAKE_PHONE_HUB_MANAGER_H_
 

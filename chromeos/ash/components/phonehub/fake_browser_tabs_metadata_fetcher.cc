@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake browser tabs metadata fetcher
+// summary: Test fake that captures fetch requests so tests can respond with browser tabs metadata responses on demand.
+// ---
+
 #include "chromeos/ash/components/phonehub/fake_browser_tabs_metadata_fetcher.h"
 
 namespace ash::phonehub {

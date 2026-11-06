@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Message sender implementation
+// summary: Implements sending serialized Phone Hub protobuf messages, such as CrosState and notification requests, to the connected phone over a secure channel.
+// ---
+
 #include "chromeos/ash/components/phonehub/message_sender_impl.h"
 
 #include <netinet/in.h>

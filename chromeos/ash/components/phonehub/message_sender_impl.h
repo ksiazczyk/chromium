@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Message sender implementation header
+// summary: Declares MessageSenderImpl, which serializes and sends Phone Hub protobuf requests via the secure channel connection manager.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_PHONEHUB_MESSAGE_SENDER_IMPL_H_
 #define CHROMEOS_ASH_COMPONENTS_PHONEHUB_MESSAGE_SENDER_IMPL_H_
 

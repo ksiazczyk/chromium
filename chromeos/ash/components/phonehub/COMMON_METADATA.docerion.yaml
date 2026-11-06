@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Phone Hub common directory metadata
+summary: Declares the Buganizer component ID and team email used for the Phone Hub directory.

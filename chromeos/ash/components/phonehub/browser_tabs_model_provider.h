@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserTabsModelProvider class declaration
+// summary: Declares the provider that distributes browser tabs model information to observers and supports manual refresh requests.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_PHONEHUB_BROWSER_TABS_MODEL_PROVIDER_H_
 #define CHROMEOS_ASH_COMPONENTS_PHONEHUB_BROWSER_TABS_MODEL_PROVIDER_H_
 

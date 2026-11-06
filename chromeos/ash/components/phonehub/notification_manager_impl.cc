@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification manager implementation
+// summary: Implements dismissal and inline reply requests sent to the phone and clears notifications when the Phone Hub notifications feature is disabled.
+// ---
+
 #include "chromeos/ash/components/phonehub/notification_manager_impl.h"
 
 #include "base/containers/flat_set.h"

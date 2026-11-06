@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeatureStatusProvider interface header
+// summary: Declares the provider interface that exposes the current Phone Hub status and notifies observers of status changes and eligible hosts.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_PHONEHUB_FEATURE_STATUS_PROVIDER_H_
 #define CHROMEOS_ASH_COMPONENTS_PHONEHUB_FEATURE_STATUS_PROVIDER_H_
 

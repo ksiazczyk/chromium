@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Find My Device controller interface
+// summary: Defines the FindMyDeviceController interface for requesting phone ringing and reporting the current ringing status.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_PHONEHUB_FIND_MY_DEVICE_CONTROLLER_H_
 #define CHROMEOS_ASH_COMPONENTS_PHONEHUB_FIND_MY_DEVICE_CONTROLLER_H_
 

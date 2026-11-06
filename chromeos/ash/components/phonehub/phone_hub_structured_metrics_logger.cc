@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Phone Hub structured metrics logger implementation
+// summary: Logs Phone Hub discovery, connection and message events via structured metrics and registers phone information preferences.
+// ---
+
 #include "chromeos/ash/components/phonehub/phone_hub_structured_metrics_logger.h"
 
 #include <string>

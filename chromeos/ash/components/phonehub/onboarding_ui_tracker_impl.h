@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OnboardingUiTrackerImpl header
+// summary: Declares the pref-based OnboardingUiTracker implementation that drives the Phone Hub onboarding flow and observes feature state changes.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_PHONEHUB_ONBOARDING_UI_TRACKER_IMPL_H_
 #define CHROMEOS_ASH_COMPONENTS_PHONEHUB_ONBOARDING_UI_TRACKER_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OnboardingUiTracker base implementation
+// summary: Implements observer registration and change notification for the OnboardingUiTracker base class.
+// ---
+
 #include "chromeos/ash/components/phonehub/onboarding_ui_tracker.h"
 
 namespace ash::phonehub {

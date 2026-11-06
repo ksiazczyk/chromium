@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeFindMyDeviceController header
+// summary: Declares a test fake of FindMyDeviceController with setters for the ringing status and for simulated request failures.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_PHONEHUB_FAKE_FIND_MY_DEVICE_CONTROLLER_H_
 #define CHROMEOS_ASH_COMPONENTS_PHONEHUB_FAKE_FIND_MY_DEVICE_CONTROLLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TetherControllerImpl unit tests
+// summary: Unit tests covering TetherControllerImpl status computation, connection attempts, scanning, and disconnect flows with fake network helpers.
+// ---
+
 #include "chromeos/ash/components/phonehub/tether_controller_impl.h"
 
 #include <memory>

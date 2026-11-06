@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserTabsModelController implementation
+// summary: Updates the phone model's browser tabs model based on provider updates and the PhoneHub task continuation feature state.
+// ---
+
 #include "chromeos/ash/components/phonehub/browser_tabs_model_controller.h"
 
 namespace ash::phonehub {

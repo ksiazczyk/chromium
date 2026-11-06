@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Phone Hub preference name constants
+// summary: Defines the string constants for Phone Hub preferences covering access status, onboarding, screen lock, recent apps history, and connected phone information.
+// ---
+
 #include "chromeos/ash/components/phonehub/pref_names.h"
 
 namespace ash::phonehub::prefs {

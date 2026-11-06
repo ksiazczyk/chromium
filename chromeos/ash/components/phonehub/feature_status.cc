@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeatureStatus stream output operator
+// summary: Implements a human-readable stream output operator for the Phone Hub FeatureStatus enum values.
+// ---
+
 #include "chromeos/ash/components/phonehub/feature_status.h"
 
 namespace ash::phonehub {

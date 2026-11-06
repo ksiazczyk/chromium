@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeatureSetupResponseProcessor class header
+// summary: Declares a MessageReceiver observer that processes feature setup responses and forwards results to the multidevice feature access manager.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_PHONEHUB_FEATURE_SETUP_RESPONSE_PROCESSOR_H_
 #define CHROMEOS_ASH_COMPONENTS_PHONEHUB_FEATURE_SETUP_RESPONSE_PROCESSOR_H_
 

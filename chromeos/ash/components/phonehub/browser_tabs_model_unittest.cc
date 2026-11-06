@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BrowserTabsModel unit tests
+// summary: Tests model initialization, clearing metadata when tab sync is disabled, and truncation to the maximum number of recent tabs.
+// ---
+
 #include "chromeos/ash/components/phonehub/browser_tabs_model.h"
 
 #include "chromeos/ash/components/phonehub/phone_model_test_util.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Phone Hub histogram utility header
+// summary: Declares enums for Phone Hub opt-in entry points, tether connection, message, and Camera Roll download results, plus the logging functions used to report them as UMA histograms.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_PHONEHUB_UTIL_HISTOGRAM_UTIL_H_
 #define CHROMEOS_ASH_COMPONENTS_PHONEHUB_UTIL_HISTOGRAM_UTIL_H_
 

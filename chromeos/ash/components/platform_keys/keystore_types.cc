@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keystore type definitions implementation
+// summary: Provides default copy, move and destructor definitions for the keystore parameter and result types.
+// ---
+
 #include "chromeos/ash/components/platform_keys/keystore_types.h"
 
 namespace chromeos {

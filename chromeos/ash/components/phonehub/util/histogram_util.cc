@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Phone Hub histogram utility implementation
+// summary: Implements Phone Hub UMA logging functions that record opt-in entry points, tether connection results, message task completion results, and Camera Roll download metrics.
+// ---
+
 #include "chromeos/ash/components/phonehub/util/histogram_util.h"
 
 #include <string>

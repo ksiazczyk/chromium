@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multidevice setup state updater header
+// summary: Declares the updater that enables Phone Hub once a verified host exists and syncs feature states with notification and camera roll access.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_PHONEHUB_MULTIDEVICE_SETUP_STATE_UPDATER_H_
 #define CHROMEOS_ASH_COMPONENTS_PHONEHUB_MULTIDEVICE_SETUP_STATE_UPDATER_H_
 

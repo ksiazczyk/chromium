@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Find My Device controller implementation header
+// summary: Declares FindMyDeviceControllerImpl, which tracks ringing status and sends Find My Device messages to the phone.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_PHONEHUB_FIND_MY_DEVICE_CONTROLLER_IMPL_H_
 #define CHROMEOS_ASH_COMPONENTS_PHONEHUB_FIND_MY_DEVICE_CONTROLLER_IMPL_H_
 

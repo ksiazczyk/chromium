@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Phone model base implementation
+// summary: Implements observer add, remove and change notification for the PhoneModel base class.
+// ---
+
 #include "chromeos/ash/components/phonehub/phone_model.h"
 
 namespace ash::phonehub {

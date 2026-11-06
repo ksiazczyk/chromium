@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification processor
+// summary: Converts notification protos from the phone into internal Notification objects, including icon decoding and monochrome icon color handling.
+// ---
+
 #include "chromeos/ash/components/phonehub/notification_processor.h"
 
 #include "ash/constants/ash_features.h"

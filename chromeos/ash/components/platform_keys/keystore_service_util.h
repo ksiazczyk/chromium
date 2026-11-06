@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keystore service utility header
+// summary: Declares WebCrypto algorithm name constants and helpers for keystore algorithm conversion.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_PLATFORM_KEYS_KEYSTORE_SERVICE_UTIL_H_
 #define CHROMEOS_ASH_COMPONENTS_PLATFORM_KEYS_KEYSTORE_SERVICE_UTIL_H_
 

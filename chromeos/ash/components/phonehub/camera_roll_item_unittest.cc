@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CameraRollItem unit tests
+// summary: Unit tests verifying that CameraRollItem objects compare equal or unequal according to their metadata values.
+// ---
+
 #include "chromeos/ash/components/phonehub/camera_roll_item.h"
 
 #include "chromeos/ash/components/phonehub/proto/phonehub_api.pb.h"

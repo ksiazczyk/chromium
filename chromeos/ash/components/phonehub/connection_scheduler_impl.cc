@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Connection scheduler implementation
+// summary: Implements connection scheduling to the user's phone with an exponential backoff policy that reacts to feature status changes.
+// ---
+
 #include "chromeos/ash/components/phonehub/connection_scheduler_impl.h"
 
 #include "base/functional/bind.h"

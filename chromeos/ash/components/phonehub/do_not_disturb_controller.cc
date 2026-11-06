@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DoNotDisturb controller base implementation
+// summary: Implements the observer bookkeeping of DoNotDisturbController, adding and removing observers and notifying them of Do Not Disturb state changes.
+// ---
+
 #include "chromeos/ash/components/phonehub/do_not_disturb_controller.h"
 
 namespace ash::phonehub {

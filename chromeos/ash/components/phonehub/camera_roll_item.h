@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CameraRollItem class declaration
+// summary: Declares CameraRollItem, which holds the metadata and decoded thumbnail of a photo or video taken on the connected Android device.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_PHONEHUB_CAMERA_ROLL_ITEM_H_
 #define CHROMEOS_ASH_COMPONENTS_PHONEHUB_CAMERA_ROLL_ITEM_H_
 

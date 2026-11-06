@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Keystore service utility unit tests
+// summary: Unit tests verifying dictionary conversion and algorithm factory functions for keystore algorithms.
+// ---
+
 #include "chromeos/ash/components/platform_keys/keystore_service_util.h"
 
 #include <optional>

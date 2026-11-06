@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrOS state sender implementation
+// summary: Implements sending ChromeOS device state to the user's phone, with retry timers and optional attestation certificate generation.
+// ---
+
 #include "chromeos/ash/components/phonehub/cros_state_sender.h"
 #include "ash/constants/ash_features.h"
 

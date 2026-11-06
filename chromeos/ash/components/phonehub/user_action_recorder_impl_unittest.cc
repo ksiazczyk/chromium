@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User action recorder unit tests
+// summary: Unit tests verifying that each recorded Phone Hub user action increments the expected bucket of the CompletedUserAction histogram.
+// ---
+
 #include "chromeos/ash/components/phonehub/user_action_recorder_impl.h"
 
 #include <memory>

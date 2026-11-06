@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App stream launcher data model implementation
+// summary: Implements the App Stream Mini Launcher data model, managing the streamable app list, sorting, and observer notifications.
+// ---
+
 #include "chromeos/ash/components/phonehub/app_stream_launcher_data_model.h"
 
 #include <vector>

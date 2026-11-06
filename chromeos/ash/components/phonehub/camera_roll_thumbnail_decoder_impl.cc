@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CameraRollThumbnailDecoderImpl implementation
+// summary: Implements batch thumbnail decoding via the data decoder service, reusing existing images for unchanged camera roll items.
+// ---
+
 #include "chromeos/ash/components/phonehub/camera_roll_thumbnail_decoder_impl.h"
 
 #include "base/containers/flat_map.h"

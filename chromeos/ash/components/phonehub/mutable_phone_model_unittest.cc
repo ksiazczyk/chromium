@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MutablePhoneModel unit tests
+// summary: Tests that MutablePhoneModel setters update values and notify observers only when the model actually changes.
+// ---
+
 #include "chromeos/ash/components/phonehub/mutable_phone_model.h"
 
 #include "base/strings/utf_string_conversions.h"

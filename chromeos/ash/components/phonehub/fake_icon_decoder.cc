@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeIconDecoder implementation
+// summary: Fake IconDecoder for tests that records batch decode requests and lets tests complete the call with the captured items.
+// ---
+
 #include "chromeos/ash/components/phonehub/fake_icon_decoder.h"
 
 #include <utility>

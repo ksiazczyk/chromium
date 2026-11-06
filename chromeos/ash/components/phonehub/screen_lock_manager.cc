@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScreenLockManager base class implementation
+// summary: Implements the ScreenLockManager base class, providing observer registration and screen lock change notifications for Phone Hub.
+// ---
+
 #include "chromeos/ash/components/phonehub/screen_lock_manager.h"
 
 namespace ash::phonehub {

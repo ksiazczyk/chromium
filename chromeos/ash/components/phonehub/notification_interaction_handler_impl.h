@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification interaction handler implementation header
+// summary: Declares NotificationInteractionHandlerImpl, the concrete Phone Hub notification click handler class.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_PHONEHUB_NOTIFICATION_INTERACTION_HANDLER_IMPL_H_
 #define CHROMEOS_ASH_COMPONENTS_PHONEHUB_NOTIFICATION_INTERACTION_HANDLER_IMPL_H_
 
