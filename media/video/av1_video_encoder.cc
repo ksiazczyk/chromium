@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AV1 video encoder implementation
+// summary: Implements the AV1 software video encoder on top of libaom, including pixel format conversion, reference buffer mapping, and SVC scalability configuration.
+// ---
+
 #include "media/video/av1_video_encoder.h"
 
 #include <algorithm>

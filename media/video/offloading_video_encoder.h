@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Offloading video encoder header
+// summary: Declares OffloadingVideoEncoder, a VideoEncoder wrapper that offloads encoding work to a dedicated task runner and posts callbacks back.
+// ---
+
 #ifndef MEDIA_VIDEO_OFFLOADING_VIDEO_ENCODER_H_
 #define MEDIA_VIDEO_OFFLOADING_VIDEO_ENCODER_H_
 

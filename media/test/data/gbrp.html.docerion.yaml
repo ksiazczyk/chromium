@@ -1,0 +1,4 @@
+# Docerion header of gbrp.html.
+type: test
+title: GBRP video pixel verification test
+summary: Test page playing AV1, VP9, H.264 and optionally H.265 clips and comparing rendered frames against a reference image to verify GBRP color output.

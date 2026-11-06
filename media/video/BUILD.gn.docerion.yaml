@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for media/video
+summary: GN build file defining the media/video source set, its conditional codec encoder sources, a test_support library with fakes and mocks, and the unit_tests target.

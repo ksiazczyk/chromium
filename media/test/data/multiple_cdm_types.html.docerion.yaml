@@ -1,0 +1,4 @@
+# Docerion header of multiple_cdm_types.html.
+type: test
+title: Test page for multiple CDM types and crash isolation
+summary: Test page that creates Clear Key MediaKeySessions of different CDM types, crashes one CDM process, and verifies remaining sessions keep working.

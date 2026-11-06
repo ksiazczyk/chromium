@@ -1,0 +1,4 @@
+# Docerion header of puppets-640x360_in_640x480.nv12.yuv.json.
+type: data
+title: Puppets 640x360 in 640x480 NV12 frame metadata
+summary: Metadata for the 640x360 puppets frame inside a 640x480 NV12 buffer, adding the visible rectangle and a checksum.

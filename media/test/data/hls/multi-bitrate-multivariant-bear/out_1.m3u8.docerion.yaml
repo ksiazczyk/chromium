@@ -1,0 +1,4 @@
+# Docerion header of out_1.m3u8.
+type: test
+title: HLS media playlist out_1
+summary: Media playlist for the lower-bandwidth variant of the multi-bitrate bear HLS test stream, listing the out_10.ts segment.

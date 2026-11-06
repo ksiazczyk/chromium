@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoEncoderFallback implementation
+// summary: Implements a proxy video encoder that delegates to a main encoder and switches to a fallback encoder when initialization or encoding fails.
+// ---
+
 #include "media/video/video_encoder_fallback.h"
 
 #include "base/logging.h"

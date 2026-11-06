@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenH264 video encoder header
+// summary: Declares OpenH264VideoEncoder, a VideoEncoder implementation backed by the OpenH264 library with Annex B to AVC bitstream conversion support.
+// ---
+
 #ifndef MEDIA_VIDEO_OPENH264_VIDEO_ENCODER_H_
 #define MEDIA_VIDEO_OPENH264_VIDEO_ENCODER_H_
 

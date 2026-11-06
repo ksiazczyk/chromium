@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MSE segment player utilities
+// summary: Loads and appends media segments via MSE at configured intervals to simulate generic MSE video players.
+// ---
+
 // MSEPlayerUtils provides functionality to load and append media segments using
 // MSE API. The segments can be fetched at specified intervals to simulate
 // generic MSE video players.

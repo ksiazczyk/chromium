@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AV1 video encoder header
+// summary: Declares Av1VideoEncoder, a VideoEncoder implementation backed by the libaom encoder, with helpers for temporal IDs, color space, and frame duration handling.
+// ---
+
 #ifndef MEDIA_VIDEO_AV1_VIDEO_ENCODER_H_
 #define MEDIA_VIDEO_AV1_VIDEO_ENCODER_H_
 

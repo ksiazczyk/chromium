@@ -1,0 +1,4 @@
+# Docerion header of mp_mp4_avc1.m3u8.
+type: test
+title: HLS playlist for fragmented MP4 AVC1 test stream
+summary: HLS media playlist that references the init_0.mp4 initialization segment and bear0.mp4 segment for fragmented MP4 AVC1 playback testing.

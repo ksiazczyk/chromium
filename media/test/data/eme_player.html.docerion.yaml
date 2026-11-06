@@ -1,0 +1,4 @@
+# Docerion header of eme_player.html.
+type: test
+title: EME playback test application
+summary: Interactive test page for playing encrypted media with configurable key system, media type, and MSE or src loading, showing playback stats and logs.

@@ -4,6 +4,12 @@
 
 // This file contains global constant variables used by the application.
 
+// ---docerion
+// type: test
+// title: EME player global constants
+// summary: Defines global constants for the EME player app such as key system names, media types, test keys and document element IDs.
+// ---
+
 // Renewal message header. External Clear Key implementation returns this as
 // part of renewal messages.
 var EME_RENEWAL_MESSAGE_HEADER = 'RENEWAL';

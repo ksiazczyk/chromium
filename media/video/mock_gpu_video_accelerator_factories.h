@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock GPU video accelerator factories header
+// summary: Declares MockGpuVideoAcceleratorFactories with gmock methods covering decoder, encoder, task runner, and shared memory factory calls.
+// ---
+
 #ifndef MEDIA_VIDEO_MOCK_GPU_VIDEO_ACCELERATOR_FACTORIES_H_
 #define MEDIA_VIDEO_MOCK_GPU_VIDEO_ACCELERATOR_FACTORIES_H_
 

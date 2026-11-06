@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock video encode accelerator implementation
+// summary: Implements MockVideoEncodeAccelerator, a gmock test double that deletes itself when Destroy() is called.
+// ---
+
 #include "media/video/mock_video_encode_accelerator.h"
 
 #include "media/base/media_log.h"

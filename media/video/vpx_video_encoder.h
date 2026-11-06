@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VpxVideoEncoder class declaration
+// summary: Declares the libvpx-based video encoder class that wraps VP8 and VP9 encoding with frame pooling and color space handling.
+// ---
+
 #ifndef MEDIA_VIDEO_VPX_VIDEO_ENCODER_H_
 #define MEDIA_VIDEO_VPX_VIDEO_ENCODER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EME player test configuration
+// summary: Defines the test configuration object that loads query parameters and configures the player app and test options.
+// ---
+
 // Test configuration used by test page to configure the player app and other
 // test specific configurations.
 function TestConfig() {

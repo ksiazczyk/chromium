@@ -1,0 +1,4 @@
+# Docerion header of eme_and_get_display_media.html.
+type: test
+title: EME and getDisplayMedia output protection test page
+summary: Test page that sets up EME playback together with getDisplayMedia capture to check that recording restricts key status.

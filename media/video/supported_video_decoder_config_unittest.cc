@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SupportedVideoDecoderConfig unit tests
+// summary: Unit tests verifying that SupportedVideoDecoderConfig matches or rejects decoder configurations by profile, coded size, and encryption.
+// ---
+
 #include "media/base/supported_video_decoder_config.h"
 #include "media/base/test_helpers.h"
 #include "media/base/video_codecs.h"

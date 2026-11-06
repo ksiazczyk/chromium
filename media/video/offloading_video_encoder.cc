@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Offloading video encoder implementation
+// summary: Implements OffloadingVideoEncoder, which runs a wrapped video encoder on a dedicated task runner to move software encoding off the main thread.
+// ---
+
 #include "media/video/offloading_video_encoder.h"
 
 #include "base/task/bind_post_task.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock GPU video accelerator factories implementation
+// summary: Implements MockGpuVideoAcceleratorFactories, a test double for GpuVideoAcceleratorFactories used in media unit tests.
+// ---
+
 
 #include "media/video/mock_gpu_video_accelerator_factories.h"
 

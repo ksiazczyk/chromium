@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CDM unit test player
+// summary: Runs a specific test inside the CDM and reports success or failure via a special unit test result key message.
+// ---
+
 // CDM unit test player is used to run a specific test within the CDM. The test
 // result is reported via a special key message with UNIT_TEST_RESULT_HEADER
 // followed by 1 for success, and 0 for failure.

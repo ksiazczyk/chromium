@@ -1,0 +1,4 @@
+# Docerion header of cleaner.html.
+type: test
+title: Media resource cleanup page for Android tests
+summary: Helper page navigated to after tests so Android MediaCodec can release media resources before the next test runs.

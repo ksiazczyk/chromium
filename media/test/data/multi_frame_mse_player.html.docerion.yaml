@@ -1,0 +1,4 @@
+# Docerion header of multi_frame_mse_player.html.
+type: test
+title: Multi-frame MSE player test page
+summary: Test page that plays media segments via MSE in the main frame and in an iframe subframe using the same query parameters.

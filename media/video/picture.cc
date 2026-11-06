@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Picture and PictureBuffer implementation
+// summary: Implements the PictureBuffer and Picture classes that carry metadata about buffers and decoded frames used by video decode accelerator clients.
+// ---
+
 #include "media/video/picture.h"
 
 #include "base/check_op.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EME player test app utility functions
+// summary: Provides logging, option handling, base64url encoding, JWK key data creation, and license message helpers shared by the EME player test app and its players.
+// ---
+
 // Utils provide logging functions and other JS functions commonly used by the
 // app and media players.
 var Utils = new function() {

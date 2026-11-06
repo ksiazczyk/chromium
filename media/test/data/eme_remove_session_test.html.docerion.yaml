@@ -1,0 +1,4 @@
+# Docerion header of eme_remove_session_test.html.
+type: test
+title: Test that remove() succeeds on temporary sessions
+summary: Browser test page verifying remove() on temporary EME sessions, with helpers for Widevine and Clear Key key systems.

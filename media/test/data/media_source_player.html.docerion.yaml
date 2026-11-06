@@ -1,0 +1,4 @@
+# Docerion header of media_source_player.html.
+type: test
+title: Media Source Player
+summary: Test page playing media through Media Source Extensions, seeking to near the end of the stream and completing on the ended event.

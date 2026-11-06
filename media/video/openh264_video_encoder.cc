@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenH264 video encoder implementation
+// summary: Implements the software H.264 video encoder using the OpenH264 library, including parameter setup, SVC temporal layers, and output bitstream handling.
+// ---
+
 #include "media/video/openh264_video_encoder.h"
 
 #include <algorithm>

@@ -1,0 +1,4 @@
+# Docerion header of generate_hls.py.
+type: script
+title: HLS test content generator
+summary: Python script that uses ffmpeg to generate a wide range of HLS streams and manifests for testing HLS demuxers in Chrome and AndroidMediaPlayer.

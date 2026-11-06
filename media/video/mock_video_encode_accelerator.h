@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock video encode accelerator header
+// summary: Declares MockVideoEncodeAccelerator with mocked methods for initialization, encoding, flushing, and parameter changes.
+// ---
+
 #ifndef MEDIA_VIDEO_MOCK_VIDEO_ENCODE_ACCELERATOR_H_
 #define MEDIA_VIDEO_MOCK_VIDEO_ENCODE_ACCELERATOR_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of ten_byte_file.
+type: test
+title: Ten Byte Test File
+summary: Minimal ten-byte test file containing the digits 0 through 9, used as simple test data.

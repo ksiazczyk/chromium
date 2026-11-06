@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU video accelerator factories interface
+// summary: Declares the GpuVideoAcceleratorFactories interface specifying the factories and threading model needed to create hardware video decoders and encoders.
+// ---
+
 #ifndef MEDIA_VIDEO_GPU_VIDEO_ACCELERATOR_FACTORIES_H_
 #define MEDIA_VIDEO_GPU_VIDEO_ACCELERATOR_FACTORIES_H_
 

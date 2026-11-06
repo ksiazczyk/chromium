@@ -1,0 +1,4 @@
+# Docerion header of mp_ts_avc1.m3u8.
+type: test
+title: HLS playlist for MPEG-TS AVC1 test stream
+summary: HLS media playlist that references the bear0.ts MPEG-TS segment for AVC1 playback testing.

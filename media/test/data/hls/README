@@ -1,3 +1,9 @@
+---
+type: readme
+title: Notes on generating HLS manifests and support matrix tests
+summary: Notes with ffmpeg commands for generating multi-bitrate fragmented MP4 HLS manifests and instructions for building HLS support matrix test content.
+---
+
 # Notes on generating HLS manifests:
 
 ## Fragmented MP4 generation with multi-bitrate:

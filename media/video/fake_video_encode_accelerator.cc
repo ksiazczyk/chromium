@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake video encode accelerator implementation
+// summary: Implements a fake VideoEncodeAccelerator for tests that simulates encoding with configurable initialization, bitrate, frame size, and delay behavior.
+// ---
+
 #include "media/video/fake_video_encode_accelerator.h"
 
 #include "base/check.h"

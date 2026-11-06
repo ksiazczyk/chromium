@@ -1,0 +1,4 @@
+# Docerion header of puppets-640x360.nv12.yuv.json.
+type: data
+title: Puppets 640x360 NV12 frame metadata
+summary: Metadata for the 640x360 puppets NV12 raw video frame, recording pixel format, dimensions and a checksum.

@@ -1,0 +1,4 @@
+# Docerion header of eme_load_session_after_close_test.html.
+type: test
+title: Test that load() succeeds on a session just closed
+summary: Browser test page verifying that load() succeeds on a persistent EME session immediately after close(), using the external Clear Key system.
