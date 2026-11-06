@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Welcome Back screen consumer protocol
+// summary: Declares a protocol for setting the Welcome Back screen's item list, title, and user avatar.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WELCOME_BACK_UI_WELCOME_BACK_SCREEN_CONSUMER_H_
 #define IOS_CHROME_BROWSER_WELCOME_BACK_UI_WELCOME_BACK_SCREEN_CONSUMER_H_
 

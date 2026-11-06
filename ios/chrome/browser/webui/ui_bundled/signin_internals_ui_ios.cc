@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sign-in internals UI implementation
+// summary: Implements the sign-in internals WebUI controller and message handler that report sign-in status and cookie account information to the page.
+// ---
+
 #include "ios/chrome/browser/webui/ui_bundled/signin_internals_ui_ios.h"
 
 #include <string>

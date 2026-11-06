@@ -1,0 +1,4 @@
+# Docerion header of interstitial_ui_egtest.mm.
+type: test
+title: Earl Grey tests for the interstitials WebUI page
+summary: Earl Grey test case verifying that the interstitials demo pages, including SSL, captive portal, and Safe Browsing variants, load correctly.

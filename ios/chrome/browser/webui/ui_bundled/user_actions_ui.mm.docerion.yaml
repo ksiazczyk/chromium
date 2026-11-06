@@ -1,0 +1,4 @@
+# Docerion header of user_actions_ui.mm.
+type: source
+title: User actions WebUI controller implementation
+summary: Implements the UserActionsUI controller, wiring up the data source, resources and the user actions message handler.

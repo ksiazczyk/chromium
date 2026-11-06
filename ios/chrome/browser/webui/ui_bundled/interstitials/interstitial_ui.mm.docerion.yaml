@@ -1,0 +1,4 @@
+# Docerion header of interstitial_ui.mm.
+type: source
+title: InterstitialUI WebUI controller implementation
+summary: Implements the data source that dispatches requests to SSL, captive portal, Safe Browsing, and enterprise interstitial demo pages.

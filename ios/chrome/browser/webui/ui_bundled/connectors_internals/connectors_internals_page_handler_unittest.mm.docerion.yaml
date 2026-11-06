@@ -1,0 +1,4 @@
+# Docerion header of connectors_internals_page_handler_unittest.mm.
+type: test
+title: Connectors internals page handler unit tests
+summary: Unit tests for the page handler covering device trust state, signals reporting, and provisioning domain refresh behavior on iOS.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the inspect WebUI page
+summary: Defines GN targets that generate Mojo bindings, build the WebUI resources, and compile the native inspect UI sources.

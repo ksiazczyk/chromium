@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Welcome Back coordinator header
+// summary: Declares the WelcomeBackCoordinator interface that presents the Welcome Back screen using a base view controller, browser, and promos manager UI handler.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WELCOME_BACK_COORDINATOR_WELCOME_BACK_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_WELCOME_BACK_COORDINATOR_WELCOME_BACK_COORDINATOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Version page message handler header
+// summary: Declares the WebUI message handler that serves version page operations and responds to variation info requests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEBUI_UI_BUNDLED_VERSION_HANDLER_H_
 #define IOS_CHROME_BROWSER_WEBUI_UI_BUNDLED_VERSION_HANDLER_H_
 

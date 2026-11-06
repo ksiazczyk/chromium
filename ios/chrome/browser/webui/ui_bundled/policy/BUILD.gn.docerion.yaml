@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build configuration for the iOS policy WebUI
+summary: Defines the source set listing the policy WebUI controller sources and their build dependencies.

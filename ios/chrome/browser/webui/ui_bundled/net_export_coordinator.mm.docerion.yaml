@@ -1,0 +1,4 @@
+# Docerion header of net_export_coordinator.mm.
+type: source
+title: NetExportCoordinator implementation
+summary: Implements the net export coordinator, reading the net log file on a background thread and attaching it to an email, with an alert when mail is not configured.

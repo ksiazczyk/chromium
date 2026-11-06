@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile internals WebUI message handler header
+// summary: Declares the WebUIIOSMessageHandler subclass that registers the getProfilesList JavaScript message callback.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEBUI_UI_BUNDLED_PROFILE_INTERNALS_PROFILE_INTERNALS_HANDLER_H_
 #define IOS_CHROME_BROWSER_WEBUI_UI_BUNDLED_PROFILE_INTERNALS_PROFILE_INTERNALS_HANDLER_H_
 

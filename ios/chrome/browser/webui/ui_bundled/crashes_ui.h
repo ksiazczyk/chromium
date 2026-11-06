@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crashes WebUI controller header
+// summary: Declares CrashesUI, the WebUIIOSController backing the crashes page on iOS.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEBUI_UI_BUNDLED_CRASHES_UI_H_
 #define IOS_CHROME_BROWSER_WEBUI_UI_BUNDLED_CRASHES_UI_H_
 

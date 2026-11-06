@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Welcome back directory owners
+summary: Lists the email addresses of the people responsible for reviewing changes in the ios/chrome/browser/welcome_back directory.

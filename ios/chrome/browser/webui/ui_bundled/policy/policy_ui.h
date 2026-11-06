@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PolicyUI WebUI controller header
+// summary: Declares the WebUI controller for the iOS policy page, including Mojo interface binding and test page helpers.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEBUI_UI_BUNDLED_POLICY_POLICY_UI_H_
 #define IOS_CHROME_BROWSER_WEBUI_UI_BUNDLED_POLICY_POLICY_UI_H_
 

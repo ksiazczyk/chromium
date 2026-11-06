@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the Welcome Back model
+summary: Defines the model and features source sets for the Welcome Back screen with their sources, dependencies, and frameworks.

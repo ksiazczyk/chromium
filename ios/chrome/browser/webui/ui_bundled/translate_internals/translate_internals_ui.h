@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TranslateInternalsUI controller declaration
+// summary: Declares the WebUIIOS controller class that hosts the translate-internals page in the iOS browser.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEBUI_UI_BUNDLED_TRANSLATE_INTERNALS_TRANSLATE_INTERNALS_UI_H_
 #define IOS_CHROME_BROWSER_WEBUI_UI_BUNDLED_TRANSLATE_INTERNALS_TRANSLATE_INTERNALS_UI_H_
 

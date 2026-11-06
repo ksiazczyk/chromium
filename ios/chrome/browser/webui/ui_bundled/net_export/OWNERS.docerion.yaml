@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners reference for the net_export directory
+summary: Points to net/OWNERS to define the code owners responsible for this directory.

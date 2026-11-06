@@ -1,0 +1,4 @@
+# Docerion header of userdefaults_internals_ui.mm.
+type: source
+title: UserDefaultsInternalsUI implementation listing NSUserDefaults
+summary: Implements a data source that renders HTML tables of standard and app group NSUserDefaults keys and values, unavailable in incognito mode.

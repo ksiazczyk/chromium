@@ -1,0 +1,4 @@
+# Docerion header of connectors_internals_page_handler.mm.
+type: source
+title: Connectors internals page handler implementation
+summary: Implements the page handler, collecting device trust, client certificate, signals reporting, and provisioning domain state for the connectors internals WebUI page.

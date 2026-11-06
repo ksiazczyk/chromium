@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build file for the profile_internals source set
+summary: Defines the profile_internals source set, listing its four source files and dependencies on base, profile model and webui targets.

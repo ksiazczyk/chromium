@@ -1,0 +1,4 @@
+# Docerion header of show_mail_composer_context.mm.
+type: source
+title: ShowMailComposerContext implementation
+summary: Implements ShowMailComposerContext, copying and validating the email fields passed to its designated initializer.

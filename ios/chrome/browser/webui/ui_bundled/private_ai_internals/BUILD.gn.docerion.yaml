@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Private AI internals GN build targets
+summary: Defines source sets and dependencies for the private AI internals WebUI code and its Earl Grey EG2 tests.

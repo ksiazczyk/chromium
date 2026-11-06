@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS handler header for the Actor Internals WebUI page
+// summary: Declares the iOS handler for the Actor Internals WebUI page, which logs actor journal entries to a trace file and shares it via the iOS share menu.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEBUI_UI_BUNDLED_ACTOR_INTERNALS_ACTOR_INTERNALS_HANDLER_H_
 #define IOS_CHROME_BROWSER_WEBUI_UI_BUNDLED_ACTOR_INTERNALS_ACTOR_INTERNALS_HANDLER_H_
 

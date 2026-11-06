@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for regional capabilities internals
+summary: Defines the regional_capabilities_internals source set, listing its sources and the component and iOS Chrome dependencies needed to build the WebUI.

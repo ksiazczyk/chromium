@@ -1,0 +1,4 @@
+# Docerion header of terms_ui.mm.
+type: source
+title: Terms UI implementation
+summary: Implements the terms of service WebUI data source that reads the terms text from the application bundle and serves it as HTML.

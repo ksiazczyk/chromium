@@ -1,0 +1,4 @@
+# Docerion header of metrics_internals_handler.mm.
+type: source
+title: Metrics internals message handler implementation
+summary: Registers message callbacks for variations seed info, UMA and UKM data, service observers and the encryption public key.

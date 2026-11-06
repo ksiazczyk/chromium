@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TypeScript frontend rendering console logs on the inspect page
+// summary: Frontend script that connects to the Mojo handler and renders received console messages grouped by main frame and child frames.
+// ---
+
 import {PageCallbackRouter, PageHandlerFactory, PageHandlerRemote} from './inspect.mojom-webui.js';
 
 const callbackRouter = new PageCallbackRouter();

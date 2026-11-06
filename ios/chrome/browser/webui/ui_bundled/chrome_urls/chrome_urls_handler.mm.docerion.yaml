@@ -1,0 +1,4 @@
+# Docerion header of chrome_urls_handler.mm.
+type: source
+title: Chrome URLs page handler implementation
+summary: Implements the handler that collects and sorts WebUI hosts, flags internal ones, and toggles internal-only UIs via local state preferences.

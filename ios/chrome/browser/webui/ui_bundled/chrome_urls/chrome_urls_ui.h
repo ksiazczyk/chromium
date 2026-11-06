@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome URLs WebUI controller header
+// summary: Declares the WebUI controller class that registers the chrome-urls data source and binds the page handler factory.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEBUI_UI_BUNDLED_CHROME_URLS_CHROME_URLS_UI_H_
 #define IOS_CHROME_BROWSER_WEBUI_UI_BUNDLED_CHROME_URLS_CHROME_URLS_UI_H_
 

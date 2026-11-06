@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn targets for the webui model directory
+summary: Defines the model and unit_tests source sets for the iOS Chrome webui model directory, listing the net export tab helper sources and their dependencies.

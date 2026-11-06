@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User defaults internals WebUI controller header
+// summary: Declares the WebUIIOSController for the iOS user defaults internals page.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEBUI_UI_BUNDLED_USERDEFAULTS_INTERNALS_UI_H_
 #define IOS_CHROME_BROWSER_WEBUI_UI_BUNDLED_USERDEFAULTS_INTERNALS_UI_H_
 

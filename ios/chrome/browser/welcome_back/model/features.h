@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Welcome Back feature flag declarations
+// summary: Declares the kWelcomeBack feature, its variation enum, parameters, and helper functions for enabling and configuring the Welcome Back screen.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WELCOME_BACK_MODEL_FEATURES_H_
 #define IOS_CHROME_BROWSER_WELCOME_BACK_MODEL_FEATURES_H_
 

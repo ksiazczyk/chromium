@@ -1,0 +1,4 @@
+# Docerion header of welcome_back_mediator.mm.
+type: source
+title: Welcome Back mediator implementation
+summary: Implements the mediator that selects eligible feature items per experiment arm and updates the consumer with the title, avatar, and sign-in state.

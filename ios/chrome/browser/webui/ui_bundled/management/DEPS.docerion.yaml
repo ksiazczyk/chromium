@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the management directory
+summary: Declares the allowed include rules for the management WebUI directory, covering device signals, enterprise connectors, and analysis features.

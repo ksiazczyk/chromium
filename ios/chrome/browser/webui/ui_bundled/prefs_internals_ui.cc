@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prefs internals UI implementation
+// summary: Implements the data source and controller for the prefs-internals debug page, serving the profile's current preferences as JSON text.
+// ---
+
 #include "ios/chrome/browser/webui/ui_bundled/prefs_internals_ui.h"
 
 #include <string>

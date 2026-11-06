@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetExportTabHelperDelegate protocol header
+// summary: Declares the NetExportTabHelperDelegate protocol for showing UI that sends emails, including the mail composer with a context.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEBUI_MODEL_NET_EXPORT_TAB_HELPER_DELEGATE_H_
 #define IOS_CHROME_BROWSER_WEBUI_MODEL_NET_EXPORT_TAB_HELPER_DELEGATE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of version_ui.mm.
+type: source
+title: Version WebUI controller implementation
+summary: Implements the version page data source, populating localized strings, version and channel info, revision hash and copyright text.

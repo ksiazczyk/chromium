@@ -1,0 +1,4 @@
+# Docerion header of actor_internals_handler.mm.
+type: source
+title: iOS handler implementation for the Actor Internals WebUI page
+summary: Implements the iOS Actor Internals handler, serializing journal entries to a timestamped trace file on disk and presenting a share menu when logging stops.

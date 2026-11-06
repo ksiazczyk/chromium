@@ -1,0 +1,4 @@
+# Docerion header of profile_internals_handler.mm.
+type: source
+title: Profile internals WebUI message handler implementation
+summary: Implements the handler that iterates over profile attributes storage and returns profile names, flags and Gaia attributes to JavaScript.

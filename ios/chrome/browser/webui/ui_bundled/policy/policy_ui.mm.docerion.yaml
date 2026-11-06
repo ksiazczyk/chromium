@@ -1,0 +1,4 @@
+# Docerion header of policy_ui.mm.
+type: source
+title: PolicyUI WebUI controller implementation
+summary: Implements the policy page controller, setting up the HTML data source, localized strings and policy name listing.

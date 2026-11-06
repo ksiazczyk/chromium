@@ -1,0 +1,4 @@
+# Docerion header of internal_debug_pages_disabled_ui.mm.
+type: source
+title: InternalDebugPagesDisabledUI implementation
+summary: Implements the WebUI controller that builds an HTML data source with localized heading and body text explaining that internal debug pages are disabled.

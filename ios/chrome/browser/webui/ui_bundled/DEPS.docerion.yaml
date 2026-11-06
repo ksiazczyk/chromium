@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the ui_bundled directory
+summary: Lists the allowed include paths and per-file exceptions governing dependencies of code in the iOS WebUI ui_bundled directory.

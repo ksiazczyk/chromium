@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User actions WebUI controller header
+// summary: Declares the UserActionsUI controller class that serves the iOS user actions internals page.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEBUI_UI_BUNDLED_USER_ACTIONS_UI_H_
 #define IOS_CHROME_BROWSER_WEBUI_UI_BUNDLED_USER_ACTIONS_UI_H_
 

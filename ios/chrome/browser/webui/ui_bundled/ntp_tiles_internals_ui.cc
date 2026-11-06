@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTP tiles internals UI implementation
+// summary: Implements the most-visited-tiles internals WebUI page by bridging iOS favicon and tile services to the shared handler.
+// ---
+
 #include "ios/chrome/browser/webui/ui_bundled/ntp_tiles_internals_ui.h"
 
 #include <memory>

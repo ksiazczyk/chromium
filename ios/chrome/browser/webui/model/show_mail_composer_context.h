@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShowMailComposerContext class header
+// summary: Declares ShowMailComposerContext, an object holding recipients, subject, body, attachment file path and alert identifiers for opening the mail composer.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEBUI_MODEL_SHOW_MAIL_COMPOSER_CONTEXT_H_
 #define IOS_CHROME_BROWSER_WEBUI_MODEL_SHOW_MAIL_COMPOSER_CONTEXT_H_
 

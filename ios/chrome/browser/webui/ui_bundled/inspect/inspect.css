@@ -3,6 +3,12 @@
  * found in the LICENSE file.
  */
 
+/*docerion
+type: source
+title: Inspect page stylesheet
+summary: Defines styles for the inspect WebUI page, covering controls, tabs, frames, and console log message formatting.
+*/
+
 body {
   min-width: 500px;
 }

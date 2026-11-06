@@ -1,0 +1,4 @@
+# Docerion header of translate_internals_ui.mm.
+type: source
+title: TranslateInternalsUI controller implementation
+summary: Implements the translate-internals WebUI controller, registering the message handler and a data source with resources, language strings, and the language detection model version.

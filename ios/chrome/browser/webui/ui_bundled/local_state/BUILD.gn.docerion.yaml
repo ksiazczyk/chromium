@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the local_state WebUI
+summary: Defines the local_state source set with its sources and Chromium dependencies for the iOS build.

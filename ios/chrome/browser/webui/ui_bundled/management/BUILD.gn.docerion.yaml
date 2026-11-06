@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the management WebUI
+summary: Defines the source sets and dependencies for the management WebUI code and its Earl Grey test target.

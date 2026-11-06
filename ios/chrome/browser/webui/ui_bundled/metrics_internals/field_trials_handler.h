@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FieldTrialsHandler header
+// summary: Header declaring the iOS field trials message handler for the metrics internals debug page, delegating to the shared base handler.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEBUI_UI_BUNDLED_METRICS_INTERNALS_FIELD_TRIALS_HANDLER_H_
 #define IOS_CHROME_BROWSER_WEBUI_UI_BUNDLED_METRICS_INTERNALS_FIELD_TRIALS_HANDLER_H_
 

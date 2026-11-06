@@ -1,0 +1,4 @@
+# Docerion header of autofill_internals_ui_ios.mm.
+type: source
+title: Autofill internals WebUI controller implementation (iOS)
+summary: Implements the autofill internals controller, registering the HTML data source and the log router message handler for the profile.

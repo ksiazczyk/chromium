@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for actor_internals
+summary: Grants the actor_internals directory access to actor core, mojom, and iOS actor model headers.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Connectors internals BUILD.gn build targets
+summary: Defines the connectors_internals source set and its unit_tests target, listing their sources and dependencies in the iOS Chrome build.

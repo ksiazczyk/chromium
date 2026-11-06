@@ -1,0 +1,4 @@
+# Docerion header of net_export_tab_helper.mm.
+type: source
+title: NetExportTabHelper implementation
+summary: Implements NetExportTabHelper, forwarding mail composer requests to its delegate.

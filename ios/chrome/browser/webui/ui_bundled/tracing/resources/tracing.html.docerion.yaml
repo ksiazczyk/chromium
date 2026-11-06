@@ -1,0 +1,4 @@
+# Docerion header of tracing.html.
+type: source
+title: Perfetto tracing WebUI page
+summary: HTML page for the iOS Chrome tracing WebUI that lets users start and stop Perfetto trace recording and share the resulting .perfetto-trace file.

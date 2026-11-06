@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tracing WebUI controller header
+// summary: Declares the TracingMessageHandler and TracingUI classes that implement the iOS tracing WebUI, including handlers for starting and stopping Perfetto tracing sessions.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEBUI_UI_BUNDLED_TRACING_TRACING_UI_H_
 #define IOS_CHROME_BROWSER_WEBUI_UI_BUNDLED_TRACING_TRACING_UI_H_
 

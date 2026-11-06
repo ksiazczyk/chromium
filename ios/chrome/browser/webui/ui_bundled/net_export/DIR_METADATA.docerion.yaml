@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for net_export issue tracking
+summary: Declares the Monorail and Buganizer components used for issues and bugs in this directory.

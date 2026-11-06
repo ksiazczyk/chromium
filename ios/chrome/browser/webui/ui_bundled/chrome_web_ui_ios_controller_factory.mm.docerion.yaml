@@ -1,0 +1,4 @@
+# Docerion header of chrome_web_ui_ios_controller_factory.mm.
+type: source
+title: Chrome WebUI iOS controller factory implementation
+summary: Maps internal page hosts to their WebUI controller classes and returns error codes for unknown WebUI URLs on iOS.

@@ -1,0 +1,4 @@
+# Docerion header of interstitial_ui_util.mm.
+type: source
+title: Interstitial page factory function implementations
+summary: Implements factory functions that build demo interstitial pages using fake certificates and query-driven parameters.

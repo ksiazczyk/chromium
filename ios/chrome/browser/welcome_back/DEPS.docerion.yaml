@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Welcome back DEPS include rules
+summary: Defines the allowed include dependencies for the ios/chrome/browser/welcome_back directory, permitting imports from the promos manager standard promo display handler header.

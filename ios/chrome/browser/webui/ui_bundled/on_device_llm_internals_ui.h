@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: On-device LLM internals UI header
+// summary: Declares the WebUI controller for the on-device LLM internals debugging page.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEBUI_UI_BUNDLED_ON_DEVICE_LLM_INTERNALS_UI_H_
 #define IOS_CHROME_BROWSER_WEBUI_UI_BUNDLED_ON_DEVICE_LLM_INTERNALS_UI_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome URLs page handler header
+// summary: Declares the Mojo page handler class that serves the list of WebUI pages for the iOS chrome-urls page.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEBUI_UI_BUNDLED_CHROME_URLS_CHROME_URLS_HANDLER_H_
 #define IOS_CHROME_BROWSER_WEBUI_UI_BUNDLED_CHROME_URLS_CHROME_URLS_HANDLER_H_
 

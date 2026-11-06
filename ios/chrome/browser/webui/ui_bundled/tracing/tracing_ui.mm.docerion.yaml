@@ -1,0 +1,4 @@
+# Docerion header of tracing_ui.mm.
+type: source
+title: Tracing WebUI controller implementation
+summary: Implements the tracing WebUI message handler, registering start and stop callbacks that run Perfetto tracing sessions and write the trace file to the cache directory.

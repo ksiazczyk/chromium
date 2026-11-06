@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI service accessor helpers
+// summary: Provides helper functions that fetch identity, sync, sync invalidations, and user event services plus channel info for iOS WebUI pages.
+// ---
+
 #include "components/sync/invalidations/sync_invalidations_service.h"
 #include "ios/chrome/browser/shared/model/profile/profile_ios.h"
 #include "ios/chrome/browser/signin/model/identity_manager_factory.h"

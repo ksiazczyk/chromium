@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for actor_internals
+summary: Defines the actor_internals source set with its source files and dependencies for the iOS Chrome build.

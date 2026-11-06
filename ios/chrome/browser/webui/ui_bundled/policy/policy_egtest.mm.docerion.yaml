@@ -1,0 +1,4 @@
+# Docerion header of policy_egtest.mm.
+type: test
+title: Earl Grey tests for the iOS policy page
+summary: Earl Grey integration tests verifying the policy page table contents, logs page and local test policy actions.

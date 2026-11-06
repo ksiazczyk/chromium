@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the gcm directory
+summary: Empty OWNERS file that lists no specific code owners for the gcm WebUI directory.

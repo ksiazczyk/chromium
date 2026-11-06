@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the tracing WebUI folder
+summary: Defines the include rules that allow the tracing WebUI folder to depend on the iOS tracing controller header.

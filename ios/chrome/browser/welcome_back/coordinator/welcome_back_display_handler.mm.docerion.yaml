@@ -1,0 +1,4 @@
+# Docerion header of welcome_back_display_handler.mm.
+type: source
+title: Welcome Back display handler implementation
+summary: Implements the display handler that triggers the Welcome Back promo and returns its promo configuration with the associated feature engagement feature.

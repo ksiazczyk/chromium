@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RuntimeMutableFeaturesHandler header
+// summary: Header declaring the iOS message handler for the runtime mutable features tab of the metrics internals debug page.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEBUI_UI_BUNDLED_METRICS_INTERNALS_RUNTIME_MUTABLE_FEATURES_HANDLER_H_
 #define IOS_CHROME_BROWSER_WEBUI_UI_BUNDLED_METRICS_INTERNALS_RUNTIME_MUTABLE_FEATURES_HANDLER_H_
 

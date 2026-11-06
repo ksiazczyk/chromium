@@ -1,0 +1,4 @@
+# Docerion header of local_state_ui.mm.
+type: source
+title: Local State UI controller implementation
+summary: Implements the local-state WebUI controller and a message handler that serializes local state preferences to JSON for the page.

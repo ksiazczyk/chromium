@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Connectors internals DEPS include rules
+summary: Grants the connectors_internals directory include access to enterprise connectors, device trust, proxy, and device signals components.

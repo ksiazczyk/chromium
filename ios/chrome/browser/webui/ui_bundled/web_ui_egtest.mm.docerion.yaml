@@ -1,0 +1,4 @@
+# Docerion header of web_ui_egtest.mm.
+type: test
+title: WebUI pages Earl Grey tests
+summary: Earl Grey test case verifying user agent handling, version page content and navigation behavior of WebUI pages on iOS.

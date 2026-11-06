@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for issue tracker routing
+summary: Declares the Monorail component Services>CloudMessaging and the public Buganizer component used for issues in this directory.

@@ -1,0 +1,4 @@
+# Docerion header of ios_translate_internals_handler.mm.
+type: source
+title: iOS translate internals handler implementation
+summary: Implements the iOS translate internals handler, observing browser lists, web state lists, and language detection tab helpers to forward detection details to the WebUI.

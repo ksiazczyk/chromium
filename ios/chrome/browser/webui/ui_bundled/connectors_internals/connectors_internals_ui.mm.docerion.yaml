@@ -1,0 +1,4 @@
+# Docerion header of connectors_internals_ui.mm.
+type: source
+title: Connectors internals WebUI controller implementation
+summary: Implements the ConnectorsInternalsUI controller, adding the WebUI data source and resources and binding the Mojo PageHandler for the connectors internals page.
