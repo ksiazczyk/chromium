@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pinned tab collection consumer protocol
+// summary: Declares a protocol for idempotent insert, delete, update and selection operations on pinned tabs in a collection view.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TAB_SWITCHER_UI_BUNDLED_PINNED_TAB_COLLECTION_CONSUMER_H_
 #define IOS_CHROME_BROWSER_TAB_SWITCHER_UI_BUNDLED_PINNED_TAB_COLLECTION_CONSUMER_H_
 

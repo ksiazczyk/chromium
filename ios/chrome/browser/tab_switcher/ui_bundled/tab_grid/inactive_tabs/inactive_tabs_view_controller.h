@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Inactive Tabs View Controller Header
+// summary: Declares the InactiveTabsViewController interface and its delegate protocol for relaying back button and close-all inactive tabs interactions.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TAB_SWITCHER_UI_BUNDLED_TAB_GRID_INACTIVE_TABS_INACTIVE_TABS_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_TAB_SWITCHER_UI_BUNDLED_TAB_GRID_INACTIVE_TABS_INACTIVE_TABS_VIEW_CONTROLLER_H_
 

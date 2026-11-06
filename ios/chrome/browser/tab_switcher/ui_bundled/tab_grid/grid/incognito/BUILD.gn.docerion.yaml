@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Incognito tab grid GN build definition
+summary: Defines the GN source sets and dependencies for the incognito tab grid coordinator, mediator, UI and unit tests.

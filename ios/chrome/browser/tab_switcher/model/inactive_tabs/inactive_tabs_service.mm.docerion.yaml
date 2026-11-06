@@ -1,0 +1,4 @@
+# Docerion header of inactive_tabs_service.mm.
+type: source
+title: InactiveTabsService implementation
+summary: Implements the service, reacting to the Inactive Tabs time threshold pref by moving tabs between active and inactive browsers.

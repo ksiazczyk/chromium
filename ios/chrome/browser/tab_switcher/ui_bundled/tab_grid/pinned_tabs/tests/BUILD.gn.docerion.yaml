@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: test
+title: Pinned tabs tests build targets
+summary: GN build file defining the Earl Grey eg2_tests and unit_tests source sets with their dependencies for the pinned tabs test folder.

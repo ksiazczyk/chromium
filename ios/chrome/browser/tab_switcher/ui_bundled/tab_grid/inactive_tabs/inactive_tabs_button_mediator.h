@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Inactive tabs button mediator interface
+// summary: Declares a mediator that updates the tab grid button with the count of inactive tabs and the user setting.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TAB_SWITCHER_UI_BUNDLED_TAB_GRID_INACTIVE_TABS_INACTIVE_TABS_BUTTON_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_TAB_SWITCHER_UI_BUNDLED_TAB_GRID_INACTIVE_TABS_INACTIVE_TABS_BUTTON_MEDIATOR_H_
 

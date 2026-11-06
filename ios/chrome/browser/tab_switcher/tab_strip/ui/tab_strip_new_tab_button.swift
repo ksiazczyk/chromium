@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab strip new tab button
+// summary: Swift view containing the button that opens a new tab, with incognito-aware accessibility labels and tap handling via a delegate.
+// ---
+
 import UIKit
 import ios_chrome_browser_tab_switcher_tab_strip_ui_swift_constants
 

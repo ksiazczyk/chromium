@@ -1,0 +1,4 @@
+# Docerion header of inactive_tabs_user_education_coordinator.mm.
+type: source
+title: Inactive tabs user education coordinator implementation
+summary: Implements the user education coordinator, building a confirmation alert with a programmatically rendered tile image and handling presentation and actions.

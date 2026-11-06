@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Inactive tabs mediator interface
+// summary: Declares InactiveTabsMediator, which provides data to the inactive tabs grid and handles interactions, together with its delegate protocol for an empty grid.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TAB_SWITCHER_UI_BUNDLED_TAB_GRID_INACTIVE_TABS_INACTIVE_TABS_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_TAB_SWITCHER_UI_BUNDLED_TAB_GRID_INACTIVE_TABS_INACTIVE_TABS_MEDIATOR_H_
 

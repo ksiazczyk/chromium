@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab picker mediator interface
+// summary: Declares the TabPickerMediator, a BaseGridMediator and TabPickerMutator initialized with grid and picker consumers.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TAB_PICKER_COORDINATOR_TAB_PICKER_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_TAB_PICKER_COORDINATOR_TAB_PICKER_MEDIATOR_H_
 

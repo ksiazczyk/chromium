@@ -1,0 +1,4 @@
+# Docerion header of inactive_tabs_preamble_header.mm.
+type: source
+title: Inactive tabs preamble header implementation
+summary: Implements the preamble header view, rendering the localized inactive tabs explanation with the days threshold and handling taps on the settings link.

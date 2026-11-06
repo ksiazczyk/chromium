@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab strip item identifier
+// summary: Swift identifier representing tab strip items as either a tab or a group for use in a diffable data source, with equality, hashing and copying.
+// ---
+
 // The tab strip has two types of items: tabs and groups.
 // This should only be used in Objective-C, as Swift code can use enum
 // `TabStripItemIdentifier.Item` instead.

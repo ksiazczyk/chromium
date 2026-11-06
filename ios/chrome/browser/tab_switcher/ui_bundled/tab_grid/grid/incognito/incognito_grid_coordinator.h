@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Incognito grid coordinator header
+// summary: Declares the incognito tab grid coordinator, exposing its grid view controller, mediator, audience and browser setter.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TAB_SWITCHER_UI_BUNDLED_TAB_GRID_GRID_INCOGNITO_INCOGNITO_GRID_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_TAB_SWITCHER_UI_BUNDLED_TAB_GRID_GRID_INCOGNITO_INCOGNITO_GRID_COORDINATOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BaseGridViewController testing category
+// summary: Declares a testing category exposing private grid view controller properties like the diffable data source and collection view for tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TAB_SWITCHER_TAB_GRID_BASE_GRID_UI_BASE_GRID_VIEW_CONTROLLER_TESTING_H_
 #define IOS_CHROME_BROWSER_TAB_SWITCHER_TAB_GRID_BASE_GRID_UI_BASE_GRID_VIEW_CONTROLLER_TESTING_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Incognito grid view controller header
+// summary: Declares the incognito grid view controller with reauth consumption and handlers for grid and reauth commands.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TAB_SWITCHER_UI_BUNDLED_TAB_GRID_GRID_INCOGNITO_INCOGNITO_GRID_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_TAB_SWITCHER_UI_BUNDLED_TAB_GRID_GRID_INCOGNITO_INCOGNITO_GRID_VIEW_CONTROLLER_H_
 

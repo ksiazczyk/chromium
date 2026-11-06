@@ -1,0 +1,4 @@
+# Docerion header of tab_group_item_utils.mm.
+type: source
+title: Tab group item layout utilities implementation
+summary: Implements layout calculations for tab group item visuals, covering fetch request counts, summary tile favicon slots, and hidden tab counts.

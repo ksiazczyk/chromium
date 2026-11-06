@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the regular grid directory
+summary: Restricts which headers and directories may be included from the regular grid directory.

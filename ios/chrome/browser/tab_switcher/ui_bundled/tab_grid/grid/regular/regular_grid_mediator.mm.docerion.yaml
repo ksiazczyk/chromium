@@ -1,0 +1,4 @@
+# Docerion header of regular_grid_mediator.mm.
+type: source
+title: RegularGridMediator implementation
+summary: Implements regular grid mediator behavior such as tab and group updates, metrics, quick delete commands, and sync observation.

@@ -1,0 +1,4 @@
+# Docerion header of pinned_tabs_layout.mm.
+type: source
+title: PinnedTabsLayout implementation for the pinned tabs layout
+summary: Implements the horizontal pinned tabs layout with item sizing, centering, and insert and delete animations.

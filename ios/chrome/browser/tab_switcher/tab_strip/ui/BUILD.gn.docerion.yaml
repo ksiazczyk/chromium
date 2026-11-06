@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the tab strip UI
+summary: Defines Swift and Objective-C source sets, utility and constants targets, and unit tests for the iOS tab strip UI, along with their dependencies.

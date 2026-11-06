@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for tab switcher UI
+summary: Defines GN source sets for the tab switcher ui_bundled directory, covering items, tab group confirmation, utils and unit tests with their dependencies.

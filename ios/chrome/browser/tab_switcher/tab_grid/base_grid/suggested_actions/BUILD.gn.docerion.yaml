@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build configuration for suggested actions targets
+summary: Defines the suggested_actions source set and its unit_tests target with sources and dependencies for the GN build.

@@ -1,0 +1,4 @@
+# Docerion header of tab_utils.mm.
+type: source
+title: Tab switcher utility functions implementation
+summary: Implements tab grid layout metrics such as aspect ratio and column count, tab item creation, and duplicate identifier checks.

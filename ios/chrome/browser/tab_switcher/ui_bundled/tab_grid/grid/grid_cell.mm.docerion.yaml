@@ -1,0 +1,4 @@
+# Docerion header of grid_cell.mm.
+type: source
+title: GridCell implementation
+summary: Implements grid cell visuals, selection and grouping highlights, activity indicators, and accessibility identifiers.

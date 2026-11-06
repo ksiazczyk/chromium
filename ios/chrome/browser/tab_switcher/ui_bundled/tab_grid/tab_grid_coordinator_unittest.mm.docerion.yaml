@@ -1,0 +1,4 @@
+# Docerion header of tab_grid_coordinator_unittest.mm.
+type: test
+title: Tab grid coordinator unit tests
+summary: Unit tests for the tab grid coordinator covering dismissal transitions, page switching and related coordinator behavior.

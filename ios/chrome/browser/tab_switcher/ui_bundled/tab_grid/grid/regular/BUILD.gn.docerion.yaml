@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the regular tab grid
+summary: Defines the regular and regular_ui source sets with their sources and dependencies for the iOS Chrome regular tab grid.

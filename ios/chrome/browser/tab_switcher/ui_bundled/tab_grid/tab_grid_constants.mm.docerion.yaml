@@ -1,0 +1,4 @@
+# Docerion header of tab_grid_constants.mm.
+type: source
+title: Tab grid constants implementation
+summary: Defines the values of the tab grid histogram keys, accessibility identifiers, and layout constants.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Tab grid GN build configuration
+summary: Defines the tab_grid source sets, their sources, and dependencies for the GN build.

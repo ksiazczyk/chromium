@@ -1,0 +1,4 @@
+# Docerion header of pinned_tabs_view_controller.mm.
+type: source
+title: Pinned tabs view controller implementation
+summary: Implements the pinned tabs collection view, handling item display, selection, drag and drop, drop animations, and transition layouts.

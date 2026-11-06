@@ -1,0 +1,4 @@
+# Docerion header of item_utils.mm.
+type: source
+title: Item hash and comparison utilities implementation
+summary: Implements hash and equality functions for tab switcher and tab group items based on their identifiers.

@@ -1,0 +1,4 @@
+# Docerion header of grid_empty_state_view.mm.
+type: source
+title: TabGridEmptyStateView implementation
+summary: Implements the empty grid view with page-specific images, titles, and messages, including empty search results.

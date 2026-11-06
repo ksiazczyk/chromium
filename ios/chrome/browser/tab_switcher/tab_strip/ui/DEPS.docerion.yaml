@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for the tab strip UI
+summary: Restricts includes in this directory to the menu action factory and saved tab groups UI paths.

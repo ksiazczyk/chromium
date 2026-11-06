@@ -1,0 +1,4 @@
+# Docerion header of base_grid_coordinator.mm.
+type: source
+title: BaseGridCoordinator implementation
+summary: Implements the base grid coordinator, including tab group presentation, collaboration flows, and child coordinator management.

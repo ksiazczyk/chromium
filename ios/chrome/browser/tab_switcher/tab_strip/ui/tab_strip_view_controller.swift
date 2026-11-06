@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabStripViewController in Swift
+// summary: Swift view controller rendering the tab strip collection view, managing tab and group cells, selection, drag and drop, context menus and the new tab button.
+// ---
+
 import UIKit
 import ios_chrome_browser_shared_ui_util_util_swift
 import ios_chrome_browser_tab_switcher_tab_strip_ui_swift_constants

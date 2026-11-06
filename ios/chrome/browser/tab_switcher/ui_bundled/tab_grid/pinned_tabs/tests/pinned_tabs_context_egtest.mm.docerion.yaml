@@ -1,0 +1,4 @@
+# Docerion header of pinned_tabs_context_egtest.mm.
+type: test
+title: Pinned tabs context menu Earl Grey tests
+summary: Earl Grey tests verifying that tabs can be pinned and unpinned through the context menu on the tab grid.

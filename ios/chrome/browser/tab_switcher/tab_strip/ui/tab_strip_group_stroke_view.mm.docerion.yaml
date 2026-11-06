@@ -1,0 +1,4 @@
+# Docerion header of tab_strip_group_stroke_view.mm.
+type: source
+title: Tab strip group stroke view implementation
+summary: Implements the group stroke indicator view with CAShapeLayer-based leading and trailing paths, RTL flipping and trait change handling.

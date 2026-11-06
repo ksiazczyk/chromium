@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Base grid UI dependency include rules
+summary: Lists the allowed dependency include rules for code in the base grid UI directory.

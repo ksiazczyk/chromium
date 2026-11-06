@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake tab strip consumer for tests
+// summary: Declares a fake TabStripConsumer that records items, selection, item data and expanded groups passed during tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TAB_SWITCHER_TAB_STRIP_COORDINATOR_FAKE_TAB_STRIP_CONSUMER_H_
 #define IOS_CHROME_BROWSER_TAB_SWITCHER_TAB_STRIP_COORDINATOR_FAKE_TAB_STRIP_CONSUMER_H_
 

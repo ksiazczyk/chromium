@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for data sharing
+summary: Allows this directory to include headers from components/data_sharing/public.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabContextMenuProvider protocol
+// summary: Declares the TabContextMenuProvider protocol for objects that supply context menu configurations for tab and tab group cells.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TAB_SWITCHER_UI_BUNDLED_TAB_GRID_TAB_CONTEXT_MENU_TAB_CONTEXT_MENU_PROVIDER_H_
 #define IOS_CHROME_BROWSER_TAB_SWITCHER_UI_BUNDLED_TAB_GRID_TAB_CONTEXT_MENU_TAB_CONTEXT_MENU_PROVIDER_H_
 

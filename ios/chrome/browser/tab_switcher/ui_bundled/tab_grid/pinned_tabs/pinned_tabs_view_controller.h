@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pinned tabs view controller header
+// summary: Declares the PinnedTabsViewController collection view controller and its delegate protocol for pinned tab selection, moves, removals, and drag and drop events.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TAB_SWITCHER_UI_BUNDLED_TAB_GRID_PINNED_TABS_PINNED_TABS_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_TAB_SWITCHER_UI_BUNDLED_TAB_GRID_PINNED_TABS_PINNED_TABS_VIEW_CONTROLLER_H_
 

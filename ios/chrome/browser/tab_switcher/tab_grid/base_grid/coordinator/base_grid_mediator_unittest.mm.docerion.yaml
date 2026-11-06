@@ -1,0 +1,4 @@
+# Docerion header of base_grid_mediator_unittest.mm.
+type: test
+title: BaseGridMediator unit tests
+summary: Unit tests for the base grid mediator, covering grid behavior, metrics, and saved tab group interactions.

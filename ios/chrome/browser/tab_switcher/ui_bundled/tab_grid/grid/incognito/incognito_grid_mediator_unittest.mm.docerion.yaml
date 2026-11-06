@@ -1,0 +1,4 @@
+# Docerion header of incognito_grid_mediator_unittest.mm.
+type: test
+title: Incognito grid mediator unit tests
+summary: Unit tests for the incognito grid mediator covering close-all, close-other-tabs and policy-gated new tab behavior.

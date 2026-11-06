@@ -1,0 +1,4 @@
+# Docerion header of tab_strip_shared_group_egtest.mm.
+type: test
+title: Tab strip shared group Earl Grey tests
+summary: Earl Grey UI tests for shared tab groups on the tab strip, using a fake tab group sync service and an embedded test server.

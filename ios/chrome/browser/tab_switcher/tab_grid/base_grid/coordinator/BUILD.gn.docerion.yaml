@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for base grid coordinator
+summary: Defines the coordinator and mediator source sets with their sources and dependencies for the base grid.

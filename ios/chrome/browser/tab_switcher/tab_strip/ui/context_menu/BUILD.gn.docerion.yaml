@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for tab strip context menu
+summary: Defines the context_menu source_set, listing its Objective-C sources and dependencies on collaboration, share kit, menu, and tab switcher targets.

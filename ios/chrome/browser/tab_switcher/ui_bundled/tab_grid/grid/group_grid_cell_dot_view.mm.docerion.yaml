@@ -1,0 +1,4 @@
+# Docerion header of group_grid_cell_dot_view.mm.
+type: source
+title: GroupGridCellDotView implementation
+summary: Implements the group grid cell dot view, adjusting dot size for accessibility and switching between dot and facepile content.

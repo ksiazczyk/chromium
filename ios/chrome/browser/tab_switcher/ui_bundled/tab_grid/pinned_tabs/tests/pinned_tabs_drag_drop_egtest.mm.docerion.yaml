@@ -1,0 +1,4 @@
+# Docerion header of pinned_tabs_drag_drop_egtest.mm.
+type: test
+title: Pinned tabs drag and drop Earl Grey tests
+summary: Earl Grey tests exercising drag and drop of cells between the tab grid and the pinned view, including Chrome Next and iPad variants.

@@ -1,0 +1,4 @@
+# Docerion header of tab_snapshot_and_favicon_configurator.mm.
+type: source
+title: TabSnapshotAndFaviconConfigurator implementation
+summary: Implements asynchronous fetching of tab snapshots and favicons via the favicon loader and snapshot browser agent for tab groups and tab switcher items.

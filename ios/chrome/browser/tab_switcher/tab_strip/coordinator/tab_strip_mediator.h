@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab strip mediator interface
+// summary: Declares the mediator managing model interaction for the tab strip consumer, including group actions and disconnect handling.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TAB_SWITCHER_TAB_STRIP_COORDINATOR_TAB_STRIP_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_TAB_SWITCHER_TAB_STRIP_COORDINATOR_TAB_STRIP_MEDIATOR_H_
 

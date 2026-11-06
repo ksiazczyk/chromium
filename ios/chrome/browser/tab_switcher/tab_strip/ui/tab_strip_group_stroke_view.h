@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab strip group stroke view interface
+// summary: Declares a hidden-by-default view that draws the group stroke indicator on a tab strip cell with leading and trailing paths.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TAB_SWITCHER_TAB_STRIP_UI_TAB_STRIP_GROUP_STROKE_VIEW_H_
 #define IOS_CHROME_BROWSER_TAB_SWITCHER_TAB_STRIP_UI_TAB_STRIP_GROUP_STROKE_VIEW_H_
 

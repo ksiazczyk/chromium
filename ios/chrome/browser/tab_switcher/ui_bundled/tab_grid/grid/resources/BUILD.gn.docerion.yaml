@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Tab grid resources asset bundle build target
+summary: GN build target that bundles the tab grid asset catalog, including empty-state images for regular tabs, incognito tabs, and tab groups views, into iOS app resources.

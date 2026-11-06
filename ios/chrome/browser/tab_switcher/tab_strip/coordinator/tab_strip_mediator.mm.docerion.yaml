@@ -1,0 +1,4 @@
+# Docerion header of tab_strip_mediator.mm.
+type: source
+title: Tab strip mediator implementation
+summary: Implements the mediator handling tab moves, drag and drop, tab group management, sharing and sync updates for the consumer.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Tab grid include rules
+summary: Restricts which headers and directories outside the folder the tab grid code may include.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab picker empty state view interface
+// summary: Declares the view that informs the user there are no tabs to pick, conforming to the grid empty view protocol.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TAB_PICKER_UI_TAB_PICKER_EMPTY_STATE_VIEW_H_
 #define IOS_CHROME_BROWSER_TAB_PICKER_UI_TAB_PICKER_EMPTY_STATE_VIEW_H_
 

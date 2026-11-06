@@ -1,0 +1,4 @@
+# Docerion header of tab_grid_mode_holder.mm.
+type: source
+title: Tab grid mode holder implementation
+summary: Implements TabGridModeHolder, which stores the current tab grid mode, syncs it to TabGridState, and notifies registered observers on changes.

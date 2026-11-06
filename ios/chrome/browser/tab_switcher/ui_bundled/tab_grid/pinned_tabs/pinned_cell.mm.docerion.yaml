@@ -1,0 +1,4 @@
+# Docerion header of pinned_cell.mm.
+type: source
+title: PinnedCell implementation for the pinned tab cell
+summary: Implements the pinned tab cell UI, including favicon, snapshot view, title fader, constraints, and transition selection cell creation.

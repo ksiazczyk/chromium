@@ -1,0 +1,4 @@
+# Docerion header of regular_grid_view_controller.mm.
+type: source
+title: RegularGridViewController implementation
+summary: Implements the regular tab grid view controller, including tab group closure view selection, closure animations, and inactive tabs banner handling.

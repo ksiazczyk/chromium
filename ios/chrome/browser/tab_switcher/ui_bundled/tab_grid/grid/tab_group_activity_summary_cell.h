@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabGroupActivitySummaryCell interface
+// summary: Declares a collection view cell showing the activity summary of a shared tab group, with close and activity button delegate callbacks.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TAB_SWITCHER_UI_BUNDLED_TAB_GRID_GRID_TAB_GROUP_ACTIVITY_SUMMARY_CELL_H_
 #define IOS_CHROME_BROWSER_TAB_SWITCHER_UI_BUNDLED_TAB_GRID_GRID_TAB_GROUP_ACTIVITY_SUMMARY_CELL_H_
 

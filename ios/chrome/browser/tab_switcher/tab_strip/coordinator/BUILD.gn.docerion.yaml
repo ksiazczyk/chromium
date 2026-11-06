@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Tab strip coordinator build targets
+summary: Defines GN source sets for the tab strip coordinator, mediator utilities and test support fakes with their dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab strip UI constants
+// summary: Defines the TabStripConstants struct with layout, sizing, spacing and accessibility identifiers for tab strip cells, groups, the new tab button and separators.
+// ---
+
 import Foundation
 
 /// Struct that contains constants used in the Tab Strip UI.

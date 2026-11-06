@@ -1,0 +1,4 @@
+# Docerion header of inactive_tabs_mediator.mm.
+type: source
+title: Inactive tabs mediator implementation
+summary: Implements the mediator that observes the web state list and preferences, orders inactive tabs by recency, and pushes items and info updates to the consumer.

@@ -1,0 +1,4 @@
+# Docerion header of tab_grid_view_controller_unittest.mm.
+type: test
+title: Tab grid view controller unit tests
+summary: Unit tests for TabGridViewController that verify page configurations and keyboard action availability using OCMock and test fixtures.

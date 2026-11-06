@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabStripContextMenuHelper class interface
+// summary: Declares the helper that creates context menus for tab strip items, exposing mutator, command handler, incognito flag, and profile properties.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TAB_SWITCHER_TAB_STRIP_UI_CONTEXT_MENU_TAB_STRIP_CONTEXT_MENU_HELPER_H_
 #define IOS_CHROME_BROWSER_TAB_SWITCHER_TAB_STRIP_UI_CONTEXT_MENU_TAB_STRIP_CONTEXT_MENU_HELPER_H_
 

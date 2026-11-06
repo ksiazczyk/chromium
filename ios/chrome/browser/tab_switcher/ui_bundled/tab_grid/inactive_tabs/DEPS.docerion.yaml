@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the inactive tabs directory
+summary: Declares the allowed include rules for the inactive tabs directory, permitting the app bar constants header.

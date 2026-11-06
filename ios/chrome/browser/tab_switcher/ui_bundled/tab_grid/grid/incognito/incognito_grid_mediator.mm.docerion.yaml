@@ -1,0 +1,4 @@
+# Docerion header of incognito_grid_mediator.mm.
+type: source
+title: Incognito grid mediator implementation
+summary: Implements incognito grid actions such as closing tabs with metrics, policy checks and Family Link observation.

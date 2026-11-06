@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for tab picker UI resources
+summary: GN build configuration that bundles the tab picker empty-state image set from Assets.xcassets into the iOS app resources.

@@ -1,0 +1,4 @@
+# Docerion header of grid_mediator_test.mm.
+type: test
+title: GridMediatorTestClass test fixture implementation
+summary: Implements the grid mediator test fixture, setting up fake web states, services, and helpers used by mediator test cases.

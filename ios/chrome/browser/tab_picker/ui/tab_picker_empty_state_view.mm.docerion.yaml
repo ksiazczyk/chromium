@@ -1,0 +1,4 @@
+# Docerion header of tab_picker_empty_state_view.mm.
+type: source
+title: Tab picker empty state view implementation
+summary: Implements the empty state view with an image, title and subtitle in a scrollable, dynamic type aware layout.

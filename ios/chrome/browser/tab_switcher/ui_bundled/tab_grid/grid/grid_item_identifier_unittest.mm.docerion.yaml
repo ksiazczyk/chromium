@@ -1,0 +1,4 @@
+# Docerion header of grid_item_identifier_unittest.mm.
+type: test
+title: GridItemIdentifier unit tests
+summary: Unit tests verifying the type, properties, and equality behavior of GridItemIdentifier instances.

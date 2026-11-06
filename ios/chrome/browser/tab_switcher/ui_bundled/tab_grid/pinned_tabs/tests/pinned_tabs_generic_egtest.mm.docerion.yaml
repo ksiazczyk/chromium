@@ -1,0 +1,4 @@
+# Docerion header of pinned_tabs_generic_egtest.mm.
+type: test
+title: Pinned tabs generic consistency Earl Grey tests
+summary: Earl Grey tests checking general pinned tabs behavior and consistency in the tab grid using a query-title test server.

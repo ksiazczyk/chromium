@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab strip mediator delegate protocol header
+// summary: Declares the TabStripMediatorDelegate protocol with a method to obtain a FacePile provider for a given tab group ID and color.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TAB_SWITCHER_TAB_STRIP_COORDINATOR_TAB_STRIP_MEDIATOR_DELEGATE_H_
 #define IOS_CHROME_BROWSER_TAB_SWITCHER_TAB_STRIP_COORDINATOR_TAB_STRIP_MEDIATOR_DELEGATE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of inactive_tabs_egtest.mm.
+type: test
+title: Earl Grey tests for the inactive tabs UI
+summary: Earl Grey integration tests covering the inactive tabs grid, close-all actions, settings links and the user education screen.

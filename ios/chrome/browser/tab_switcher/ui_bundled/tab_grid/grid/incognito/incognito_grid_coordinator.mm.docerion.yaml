@@ -1,0 +1,4 @@
+# Docerion header of incognito_grid_coordinator.mm.
+type: source
+title: Incognito grid coordinator implementation
+summary: Implements the incognito grid coordinator, wiring reauth agents, context menus and incognito enablement state.

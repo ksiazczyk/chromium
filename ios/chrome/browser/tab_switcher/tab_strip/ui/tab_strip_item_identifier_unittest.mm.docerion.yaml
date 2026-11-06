@@ -1,0 +1,4 @@
+# Docerion header of tab_strip_item_identifier_unittest.mm.
+type: source
+title: Tab strip item identifier unit tests
+summary: Unit tests verifying properties, equality and hashing behavior of tab strip item identifiers for both tab and group items.

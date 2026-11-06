@@ -1,0 +1,4 @@
+# Docerion header of inactive_tabs_view_controller.mm.
+type: source
+title: Inactive Tabs View Controller Implementation
+summary: Implements the inactive tabs screen, embedding the grid view controller with a navigation bar and a bottom toolbar containing the Close All Inactive button.

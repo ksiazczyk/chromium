@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Swift bridge header for tab strip UI
+// summary: Umbrella header importing the Objective-C tab strip interfaces, commands, metrics and utilities so they can be consumed from Swift code.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TAB_SWITCHER_TAB_STRIP_UI_TAB_STRIP_UI_SWIFT_BRIDGE_H_
 #define IOS_CHROME_BROWSER_TAB_SWITCHER_TAB_STRIP_UI_TAB_STRIP_UI_SWIFT_BRIDGE_H_
 

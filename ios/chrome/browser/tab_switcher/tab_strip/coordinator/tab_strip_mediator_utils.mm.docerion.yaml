@@ -1,0 +1,4 @@
+# Docerion header of tab_strip_mediator_utils.mm.
+type: source
+title: Tab strip mediator utilities implementation
+summary: Implements creation of tab and group item identifiers and moving tab groups within or across browsers via the WebStateList.

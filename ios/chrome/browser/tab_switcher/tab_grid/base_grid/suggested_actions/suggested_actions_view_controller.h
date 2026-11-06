@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SuggestedActionsViewController interface
+// summary: Declares the suggested actions view controller shown on the tab grid and its delegate protocol for search in history and search in web interactions.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TAB_SWITCHER_TAB_GRID_BASE_GRID_SUGGESTED_ACTIONS_SUGGESTED_ACTIONS_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_TAB_SWITCHER_TAB_GRID_BASE_GRID_SUGGESTED_ACTIONS_SUGGESTED_ACTIONS_VIEW_CONTROLLER_H_
 

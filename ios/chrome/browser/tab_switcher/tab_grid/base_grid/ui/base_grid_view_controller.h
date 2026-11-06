@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base grid view controller interface
+// summary: Declares the base grid view controller, its delegate protocol for item selection, closing, dragging, and dropping, and related mutator interfaces.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TAB_SWITCHER_TAB_GRID_BASE_GRID_UI_BASE_GRID_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_TAB_SWITCHER_TAB_GRID_BASE_GRID_UI_BASE_GRID_VIEW_CONTROLLER_H_
 

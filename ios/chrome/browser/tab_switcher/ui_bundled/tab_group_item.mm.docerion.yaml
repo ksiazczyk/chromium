@@ -1,0 +1,4 @@
+# Docerion header of tab_group_item.mm.
+type: source
+title: Tab group item model implementation
+summary: Implements the tab group item model, exposing group title, colors, tab count, and collapsed state from the underlying TabGroup object.

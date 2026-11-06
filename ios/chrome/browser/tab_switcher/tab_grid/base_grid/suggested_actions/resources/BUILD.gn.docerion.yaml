@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Suggested actions resources build definition
+summary: GN build rule that bundles the suggested actions asset catalog images (history and web icons) as iOS app resources.

@@ -1,0 +1,4 @@
+# Docerion header of inactive_tabs_button_cell.mm.
+type: source
+title: InactiveTabsButtonCell implementation
+summary: Implements the inactive tabs button cell layout, styling, and accessibility in the regular tab grid.

@@ -1,0 +1,4 @@
+# Docerion header of grid_item_identifier.mm.
+type: source
+title: GridItemIdentifier implementation
+summary: Implements GridItemIdentifier factory methods, hashing, and equality comparisons for tab, group, and special grid items.

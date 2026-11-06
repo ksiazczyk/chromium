@@ -1,0 +1,4 @@
+# Docerion header of tab_strip_drag_drop_egtest.mm.
+type: test
+title: Tab strip drag and drop Earl Grey tests
+summary: Earl Grey UI tests verifying that long-press dragging a tab strip cell reorders tabs on iPad.

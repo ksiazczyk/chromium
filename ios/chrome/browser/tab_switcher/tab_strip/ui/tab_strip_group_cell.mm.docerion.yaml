@@ -1,0 +1,4 @@
+# Docerion header of tab_strip_group_cell.mm.
+type: source
+title: Tab strip group cell implementation
+summary: Implements the group cell UI with title label, face pile, group stroke view, notification dot, layout constraints and collapse or expand animations.

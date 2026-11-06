@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabSwitcherItem snapshot and favicon data source protocol
+// summary: Declares the protocol the tab switcher UI uses to fetch snapshots and favicons for tab switcher items.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TAB_SWITCHER_UI_BUNDLED_TAB_SWITCHER_ITEM_SNAPSHOT_AND_FAVICON_DATA_SOURCE_H_
 #define IOS_CHROME_BROWSER_TAB_SWITCHER_UI_BUNDLED_TAB_SWITCHER_ITEM_SNAPSHOT_AND_FAVICON_DATA_SOURCE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of pinned_tabs_mediator_unittest.mm.
+type: test
+title: Pinned tabs mediator unit tests
+summary: Unit tests for the pinned tabs mediator covering drag and drop sessions, web state list changes, snapshots and metrics.

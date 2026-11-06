@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BaseGridCoordinator interface header
+// summary: Declares the base coordinator for the tab grid, with APIs for tab groups, transitions, and close-all confirmation.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TAB_SWITCHER_TAB_GRID_BASE_GRID_COORDINATOR_BASE_GRID_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_TAB_SWITCHER_TAB_GRID_BASE_GRID_COORDINATOR_BASE_GRID_COORDINATOR_H_
 

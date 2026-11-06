@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RegularGridMediatorDelegate protocol
+// summary: Declares the delegate protocol for the regular grid mediator, covering face pile providers and close-all confirmation display.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TAB_SWITCHER_UI_BUNDLED_TAB_GRID_GRID_REGULAR_REGULAR_GRID_MEDIATOR_DELEGATE_H_
 #define IOS_CHROME_BROWSER_TAB_SWITCHER_UI_BUNDLED_TAB_GRID_GRID_REGULAR_REGULAR_GRID_MEDIATOR_DELEGATE_H_
 

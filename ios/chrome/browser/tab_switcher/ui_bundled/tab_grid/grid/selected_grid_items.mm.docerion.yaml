@@ -1,0 +1,4 @@
+# Docerion header of selected_grid_items.mm.
+type: source
+title: SelectedGridItems implementation
+summary: Implements selected grid item tracking, updating tab counts and shareable tab sets as items are added or removed.

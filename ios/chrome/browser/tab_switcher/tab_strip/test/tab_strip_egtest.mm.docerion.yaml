@@ -1,0 +1,4 @@
+# Docerion header of tab_strip_egtest.mm.
+type: test
+title: Tab strip Earl Grey tests
+summary: Earl Grey UI tests for opening tabs with the new tab button, switching tabs and sharing from the tab strip context menu.

@@ -1,0 +1,4 @@
+# Docerion header of disabled_grid_view_controller.mm.
+type: source
+title: DisabledGridViewController implementation
+summary: Renders the unavailable-grid title and message body and handles link interactions per page type.
