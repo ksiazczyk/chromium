@@ -9,6 +9,12 @@
 // Each test owns its capture session: it starts what it needs and stops it
 // before returning, so tests do not depend on run order.
 
+// ---docerion
+// type: test
+// title: enterprise.webrtc API JavaScript test suite
+// summary: Runs chrome.test cases against the enterprise.webrtc API, covering origin filter validation, capture session lifecycle, status reporting, and error handling without browser-side setup.
+// ---
+
 const TOO_MANY_ORIGINS = new Array(129).fill('https://example.com');
 
 chrome.test.runTests([

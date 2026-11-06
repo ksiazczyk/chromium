@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the downloads incognito split API test extension
+summary: Manifest version 3 extension manifest declaring incognito split mode, downloads permissions, host permissions, and web access to empty.html.

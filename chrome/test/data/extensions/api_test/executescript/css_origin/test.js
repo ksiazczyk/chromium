@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: test.js
+// summary: Browser test script that verifies insertCSS css_origin behavior for author, user, default and unknown origins via chrome.test.
+// ---
+
 chrome.test.getConfig(function(config) {
   const testUrl = `http://b.com:${config.testServer.port}` +
       '/extensions/api_test/executescript/css_origin/test.html';

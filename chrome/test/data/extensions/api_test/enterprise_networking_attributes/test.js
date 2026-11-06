@@ -6,6 +6,12 @@
 // Must be packed to ../enterprise_networking_attributes.crx using the private
 // key ../enterprise_networking_attributes.pem .
 
+// ---docerion
+// type: test
+// title: Networking attributes API test script
+// summary: Runs success and failure tests for getNetworkDetails using expected results passed via the custom test argument.
+// ---
+
 let expectedErrorMessage;
 let expectedResult;
 

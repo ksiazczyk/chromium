@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test extension manifest for persistent background tests
+summary: Manifest for the basic enterprise platformKeys test extension, declaring a persistent background script and the enterprise.platformKeys permission.

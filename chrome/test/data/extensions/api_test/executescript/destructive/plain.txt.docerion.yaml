@@ -1,0 +1,4 @@
+# Docerion header of plain.txt.
+type: test
+title: Plain text test document
+summary: Plain text resource loaded into a frame by the destructive executeScript extension test.

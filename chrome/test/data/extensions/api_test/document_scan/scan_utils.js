@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared helpers for document scan API tests
+// summary: Provides promise-based wrappers around chrome.documentScan calls such as listing, opening, scanning and closing, used by the API tests.
+// ---
+
 const OperationResult = chrome.documentScan.OperationResult;
 const OptionType = chrome.documentScan.OptionType;
 

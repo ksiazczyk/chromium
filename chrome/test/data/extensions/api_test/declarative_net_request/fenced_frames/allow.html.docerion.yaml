@@ -1,0 +1,4 @@
+# Docerion header of allow.html.
+type: test
+title: Allow fenced frame test page
+summary: Test page that embeds a fenced frame loading allowed_fenced_frame.html to exercise allow rule handling.

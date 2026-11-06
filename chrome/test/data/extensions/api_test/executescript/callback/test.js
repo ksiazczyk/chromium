@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for executeScript callback results
+// summary: Background script running chrome.test cases that check executeScript returns values of various types, including DOM objects converted to null, in the callback.
+// ---
+
 // NOTE: Throughout this file, `var` is often used in injected scripts
 // since multiple scripts may be injected into the same JS world and
 // we need to avoid redeclaration of variables.

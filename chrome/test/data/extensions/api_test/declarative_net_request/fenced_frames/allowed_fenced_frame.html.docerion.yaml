@@ -1,0 +1,4 @@
+# Docerion header of allowed_fenced_frame.html.
+type: test
+title: Allowed fenced frame placeholder page
+summary: Placeholder HTML served as the allowed fenced frame content, with its response headers defined in the mock-http-headers file.

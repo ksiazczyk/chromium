@@ -1,0 +1,4 @@
+# Docerion header of sandbox_frame.html.
+type: test
+title: Sandbox frame page
+summary: Page that embeds blocked_frame.html in an iframe inside the sandboxed container.

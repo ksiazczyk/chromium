@@ -1,0 +1,4 @@
+# Docerion header of test.html.
+type: test
+title: Test page with inline script canary
+summary: Background page for the default CSP test that defines an inline script canary which must not execute and loads the external test.js.

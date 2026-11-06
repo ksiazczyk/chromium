@@ -1,0 +1,4 @@
+# Docerion header of xml_document.xml.
+type: test
+title: XML test document
+summary: A small XML document with a CSS stylesheet used as a fixture for the executeScript destructive extension test.

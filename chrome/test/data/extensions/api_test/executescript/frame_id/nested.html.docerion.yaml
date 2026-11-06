@@ -1,0 +1,4 @@
+# Docerion header of nested.html.
+type: test
+title: Deeply nested frame test fixture
+summary: Test fixture page representing a deeply nested frame within the frame hierarchy under test.

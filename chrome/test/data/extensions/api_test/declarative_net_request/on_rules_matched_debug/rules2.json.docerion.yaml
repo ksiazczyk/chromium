@@ -1,0 +1,4 @@
+# Docerion header of rules2.json.
+type: test
+title: Static ruleset rules2
+summary: Second static ruleset with redirect and allow rules plus a third-party sub_frame block rule targeting sandboxed frames.

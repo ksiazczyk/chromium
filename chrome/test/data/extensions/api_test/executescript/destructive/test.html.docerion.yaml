@@ -1,0 +1,4 @@
+# Docerion header of test.html.
+type: test
+title: Test entry page
+summary: Entry page that loads test.js for the destructive executeScript extension test.

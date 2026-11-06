@@ -1,0 +1,4 @@
+# Docerion header of manifest_chrome_app.json.
+type: test
+title: Chrome app manifest for document scan API tests
+summary: Chrome app manifest that registers the background script and documentScan permission for the API browser tests.

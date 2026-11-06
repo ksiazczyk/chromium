@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the run_at executeScript test extension
+summary: Manifest for the test extension that exercises the run_at property of executeScript and insertCSS, registering the background test script and tabs permission.

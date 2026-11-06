@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the executeScript frame_after_load test extension
+summary: Manifest version 2 extension manifest that registers test.js as a persistent background script and requests tabs and a.com permissions.

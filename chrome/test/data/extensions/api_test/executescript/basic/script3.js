@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Injected script checking display style of the p element
+// summary: Script injected after inserting CSS text that reads the computed display style of element test2 and sets the tab title to verify the CSS took effect.
+// ---
+
 function getStyle(elem, name) {
   if (document.defaultView && document.defaultView.getComputedStyle) {
     name = name.replace(/([A-Z])/g, '-$1');

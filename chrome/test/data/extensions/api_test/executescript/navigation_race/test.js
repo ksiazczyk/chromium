@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ExecuteScript navigation race test script
+// summary: Browser test verifying that chrome.tabs.executeScript fails with a permission error when it races a navigation to a host the extension cannot access.
+// ---
+
 function executeCodeInTab(tabId, callback) {
   chrome.tabs.executeScript(
       tabId, {code: `document.title = \`hi, I'm on \${location};\``}, callback);

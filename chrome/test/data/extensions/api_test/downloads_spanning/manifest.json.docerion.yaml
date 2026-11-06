@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the downloads incognito spanning test extension
+summary: Manifest version 3 extension manifest declaring incognito spanning mode, downloads permissions, and web-accessible resources for the API test.

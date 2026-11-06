@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: manifest.json
+summary: Manifest for the css_origin test extension, registering the background script, tabs permission and the b.js content script.

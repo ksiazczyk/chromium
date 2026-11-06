@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for enterprise platform keys API tests
+summary: Delegates ownership of the enterprise platform keys API test directory to the chromeos platform keys OWNERS file.

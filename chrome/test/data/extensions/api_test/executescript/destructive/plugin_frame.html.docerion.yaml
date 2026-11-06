@@ -1,0 +1,4 @@
+# Docerion header of plugin_frame.html.
+type: test
+title: PDF plugin frame page
+summary: Test page that embeds plugin_file.pdf in an iframe for the destructive executeScript test.

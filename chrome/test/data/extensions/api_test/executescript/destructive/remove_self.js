@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Self-removing frame content script
+// summary: Content script that removes its own frame under varied timing and DOM mutation conditions during the test.
+// ---
+
 if (top === window) {
   testTop();
 } else if (

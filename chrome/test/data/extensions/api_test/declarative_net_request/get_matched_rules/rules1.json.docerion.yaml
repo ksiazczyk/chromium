@@ -1,0 +1,4 @@
+# Docerion header of rules1.json.
+type: test
+title: Static ruleset rules1 with two block rules
+summary: DeclarativeNetRequest static ruleset with two blocking main-frame rules on URL filters ab and abc, used by the getMatchedRules API test.

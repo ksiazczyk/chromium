@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the networkingAttributes API test extension
+summary: Defines the test extension with the enterprise.networkingAttributes permission and a fixed extension key.

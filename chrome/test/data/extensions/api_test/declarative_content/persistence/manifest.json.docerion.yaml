@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the declarative content persistence test extension
+summary: Manifest for the test extension that verifies persistence of declarative content rules, using split incognito mode with declarativeContent and storage permissions.

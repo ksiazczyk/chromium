@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background script for the executeScript after frame load test
+// summary: Background script that listens for completed tab loads, injects an iframe via chrome.tabs.executeScript, and verifies scripting still works after the frame loads.
+// ---
+
 let baseUrl =
     'http://a.com:PORT/extensions/api_test/executescript/frame_after_load/';
 

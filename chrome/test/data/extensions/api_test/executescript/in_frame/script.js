@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Injected script reporting frame element style
+// summary: Content script injected into every frame that reads the paragraph's computed display style and posts it to the extension over a runtime port.
+// ---
+
 function getStyle(elem, name) {
   if (document.defaultView && document.defaultView.getComputedStyle) {
     name = name.toLowerCase();

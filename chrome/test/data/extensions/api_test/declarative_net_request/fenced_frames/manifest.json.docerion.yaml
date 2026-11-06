@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: config
+title: Test extension manifest
+summary: Manifest for the test extension declaring declarativeNetRequest rule resources, permissions, host permissions, and the background service worker.

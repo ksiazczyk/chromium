@@ -1,0 +1,4 @@
+# Docerion header of fenced_frame.html.
+type: test
+title: Fenced frame test page
+summary: Placeholder page served as a fenced frame for the executeScript extension API test.

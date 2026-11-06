@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Declarative net request header modification test background script
+// summary: Background script for the declarativeNetRequest header modification browser test, with helpers to navigate tabs and verify request and response header changes.
+// ---
+
 // Navigates to |url| and invokes |callback| when the navigation is complete.
 function navigateTab(url, callback) {
   chrome.tabs.onUpdated.addListener(function updateCallback(_, info, tab) {

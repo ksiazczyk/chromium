@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the API not available test extension
+summary: Manifest for the test extension, pinning its extension key and requesting the enterprise.platformKeys permission while loading the background test script.

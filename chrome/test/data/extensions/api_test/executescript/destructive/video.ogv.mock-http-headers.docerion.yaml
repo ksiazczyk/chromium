@@ -1,0 +1,4 @@
+# Docerion header of video.ogv.mock-http-headers.
+type: test
+title: Mock HTTP headers for video.ogv
+summary: Supplies mock HTTP response headers that serve video.ogv as video/ogg so the test loads it as a media document.

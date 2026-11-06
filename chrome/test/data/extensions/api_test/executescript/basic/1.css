@@ -4,4 +4,10 @@
  * found in the LICENSE file.
  */
 
+/*docerion
+type: test
+title: CSS fixture for insertCSS file test
+summary: Stylesheet setting b elements to display:block, injected by the test to verify file-based CSS insertion via chrome.tabs.insertCSS.
+*/
+
 b {display:block;}

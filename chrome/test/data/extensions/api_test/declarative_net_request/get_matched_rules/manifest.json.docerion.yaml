@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test extension manifest for getMatchedRules
+summary: Manifest for the test extension declaring declarativeNetRequest permissions, two enabled static rulesets and a background service worker.

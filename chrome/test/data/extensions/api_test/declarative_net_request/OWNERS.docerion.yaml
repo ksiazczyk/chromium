@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Declarative Net Request API test OWNERS
+summary: OWNERS file for the declarative net request extension API test data, delegating ownership to the owners of the corresponding browser-side implementation.

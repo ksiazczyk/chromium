@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the redirect-to-data declarative webRequest test extension
+summary: Extension manifest for the declarative webRequest redirect-to-data API test, granting declarativeWebRequest, tabs and <all_urls> permissions and loading background.js.

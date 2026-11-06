@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Declarative API test background script
+// summary: Background script of a browser test extension that exercises the declarativeWebRequest API, validating rule handling for addRules, getRules and removeRules.
+// ---
+
 const declarative = chrome.declarative;
 
 const RequestMatcher = chrome.declarativeWebRequest.RequestMatcher;

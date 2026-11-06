@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IFrame setup script
+// summary: Writes iframes for the a.com, b.com and c.com hosts so the test can inject into multiple frames.
+// ---
+
 // document.write is not pretty, but it saves us from having to wait for the
 // DOM to load before adding iframes.  This means one less callback to wait on.
 function addIFrame(host) {

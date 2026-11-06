@@ -1,0 +1,4 @@
+# Docerion header of txt_frame.html.
+type: test
+title: Plain text frame page
+summary: Test page that embeds plain.txt in an iframe for the destructive executeScript test.

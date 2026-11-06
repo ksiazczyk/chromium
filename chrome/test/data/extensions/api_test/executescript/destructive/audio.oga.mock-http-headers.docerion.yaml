@@ -1,0 +1,4 @@
+# Docerion header of audio.oga.mock-http-headers.
+type: test
+title: Mock HTTP headers for the audio fixture
+summary: Mock HTTP response headers serving the audio fixture as audio/ogg so the browser renders it as a media document.

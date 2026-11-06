@@ -1,0 +1,4 @@
+# Docerion header of rules1.json.
+type: test
+title: rules1 ruleset with allow and block rules
+summary: Declarative Net Request ruleset covering allowAllRequests, method-based blocking, initiator and third-party conditions, and top-domain blocking used by the tests.

@@ -1,0 +1,4 @@
+# Docerion header of resource1.html.
+type: test
+title: Resource1 fenced frame test page
+summary: Test page that embeds a fenced frame loading resource1_fenced_frame.html as part of the rule matching tests.

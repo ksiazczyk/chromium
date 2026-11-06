@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Get scanner list access denied test
+// summary: Tests that chrome.documentScan.getScannerList returns ACCESS_DENIED with no scanners when the permission is not granted.
+// ---
+
 // These tests should be run with the get scanner list permission denied (and
 // the extension should not be trusted).
 chrome.test.runTests([() => {

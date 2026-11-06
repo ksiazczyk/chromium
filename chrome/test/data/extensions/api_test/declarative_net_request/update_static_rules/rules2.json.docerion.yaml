@@ -1,0 +1,4 @@
+# Docerion header of rules2.json.
+type: test
+title: Static ruleset rules2 with block rules
+summary: Static ruleset fixture with three block rules matching GET main-frame requests to rules2-1, rules2-2 and rules2-3.example.com, referenced by the test manifest.

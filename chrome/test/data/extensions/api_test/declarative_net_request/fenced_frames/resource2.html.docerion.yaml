@@ -1,0 +1,4 @@
+# Docerion header of resource2.html.
+type: test
+title: Test page embedding resource2 fenced frame
+summary: Test page that creates a fenced frame loading resource2_fenced_frame.html to exercise declarative net request rules.

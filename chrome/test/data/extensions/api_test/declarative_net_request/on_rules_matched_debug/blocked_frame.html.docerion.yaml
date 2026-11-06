@@ -1,0 +1,4 @@
+# Docerion header of blocked_frame.html.
+type: test
+title: Blocked frame placeholder page
+summary: Placeholder page that should be blocked by test rules when loaded inside a sandboxed frame.

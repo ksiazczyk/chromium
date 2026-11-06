@@ -1,0 +1,4 @@
+# Docerion header of resource2_fenced_frame.html.
+type: test
+title: Fenced frame page showing an image
+summary: Fenced frame content page that displays icon2.png so image blocking inside fenced frames can be tested.

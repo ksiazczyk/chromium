@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: dictationPrivate API test service worker
+// summary: Service worker test that listens for dictationPrivate stream events, asserts stream flags, context data, and API function behavior, and reports success or failure to the browser test.
+// ---
+
 // These stream IDs must match the values in the
 // DictationPrivateApiStartStreamFlagsTest parameterized test instantiation.
 const STREAM_ID_EXPECTING_EVAL_MODE = 1001;

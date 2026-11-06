@@ -1,0 +1,4 @@
+# Docerion header of srcdoc_html_frame.html.
+type: test
+title: srcdoc HTML frame page
+summary: Test page with an iframe whose srcdoc contains an HTML tag for the destructive executeScript test.

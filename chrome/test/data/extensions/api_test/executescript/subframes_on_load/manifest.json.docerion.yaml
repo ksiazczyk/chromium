@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Subframes on load test extension manifest
+summary: Manifest for the test extension that verifies executeScript injects into subframes once a tab has finished loading.

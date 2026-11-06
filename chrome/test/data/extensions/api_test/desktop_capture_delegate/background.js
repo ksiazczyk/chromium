@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Desktop capture delegate test background script
+// summary: Background script for the desktop capture delegation test extension that answers external messages by choosing a desktop media stream via chrome.desktopCapture.
+// ---
+
 chrome.runtime.onMessageExternal.addListener(function(
     message, sender, sendResponse) {
   if (message[0] === 'getStream') {

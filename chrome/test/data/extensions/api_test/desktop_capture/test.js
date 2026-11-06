@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Desktop Capture API browser test script
+// summary: Runs chrome.test cases covering chooseDesktopMedia source selection, picker cancellation, audio share approval, and getUserMedia stream retrieval across platforms.
+// ---
+
 // Returns whether the current platform is Android. Useful because the user
 // agent for desktop Android is still in flux.
 async function isAndroid() {

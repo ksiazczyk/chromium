@@ -1,0 +1,4 @@
+# Docerion header of prerender_blocked_url.html.
+type: test
+title: Prerendering page for the blocked main frame test
+summary: HTML page using speculation rules to prerender the block_main URL, which the test expects to be blocked.

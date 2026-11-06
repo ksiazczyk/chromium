@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DNS API test background script
+// summary: Runs chrome.test browser tests verifying chrome.dns.resolve for IP literals, hostnames, and unresolvable hostnames.
+// ---
+
 const testIPLiteralResolution = function() {
   const callback = function(resolveInfo) {
     chrome.test.assertEq(0, resolveInfo.resultCode);

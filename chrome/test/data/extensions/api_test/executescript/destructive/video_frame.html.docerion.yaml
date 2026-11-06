@@ -1,0 +1,4 @@
+# Docerion header of video_frame.html.
+type: test
+title: Video iframe test page
+summary: Test page that embeds video.ogv in an iframe for the executeScript destructive extension test.

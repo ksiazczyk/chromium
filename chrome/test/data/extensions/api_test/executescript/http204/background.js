@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background script driving the executeScript HTTP 204 test
+// summary: Extension background script that opens the test page, waits for frames to finish loading, and runs chrome.tabs insertCSS and executeScript checks against a frame that receives HTTP 204.
+// ---
+
 let config;
 const MAIN_HOST = 'b.com';
 const OTHER_HOST = 'c.com';

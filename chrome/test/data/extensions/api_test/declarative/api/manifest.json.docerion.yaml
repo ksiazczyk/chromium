@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Declarative API test extension manifest
+summary: Manifest for the declarative API browser test extension, granting declarativeWebRequest permissions and loading background.js.

@@ -1,0 +1,4 @@
+# Docerion header of frames.html.
+type: test
+title: Multi-frame test page with varied frame origins
+summary: Test fixture page assembling frames of different kinds, including srcdoc, sandboxed about:blank, same-origin, and cross-origin frames.

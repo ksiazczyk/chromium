@@ -1,0 +1,4 @@
+# Docerion header of modify_headers_rules.json.
+type: test
+title: Header modification test rules
+summary: Defines rules exercising modifyHeaders actions on request and response headers, alongside allow and block rules and set-cookie append operations.

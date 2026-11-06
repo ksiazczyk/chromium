@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: dictationPrivate allow test extension manifest
+summary: Manifest for the dictationPrivate API test extension, requesting the dictationPrivate permission and registering test.js as its service worker.

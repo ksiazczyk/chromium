@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: executeScript permissions test
+// summary: Runs chrome.test cases verifying that chrome.tabs.executeScript respects host permissions, including a navigation race and all-frames injection.
+// ---
+
 const RELATIVE_PATH = 'extensions/api_test/executescript/permissions/';
 let port;
 

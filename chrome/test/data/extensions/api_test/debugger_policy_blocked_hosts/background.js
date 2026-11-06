@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Debugger attach test background script
+// summary: Background service worker that tests attaching the debugger to a tab, asserting the expected rejection when policy blocks the host.
+// ---
+
 import {getSingleTab} from '/_test_resources/test_util/tabs_util.js';
 
 const protocolVersion = '1.3';

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test extension manifest for dynamic rules limits test
+summary: Manifest for the test extension declaring the declarativeNetRequest permission, an empty enabled ruleset, and the background service worker.

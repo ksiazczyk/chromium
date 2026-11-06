@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: 'Background script redirecting HTTP requests to a data: URI for API test'
+// summary: 'Registers a declarativeWebRequest rule that redirects HTTP requests to a fixed data: URI and uses chrome.test to verify the redirected tab shows the expected title.'
+// ---
+
 // |testTitle| needs to be the same as |kTestTitle| in declarative_apitest.cc.
 const testTitle = ':TEST:';
 const redirectDataURI =

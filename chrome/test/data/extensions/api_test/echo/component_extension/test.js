@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: chrome.echoPrivate API test script
+// summary: Runs browser tests asserting that chrome.echoPrivate.getRegistrationCode and getOobeTimestamp return the expected mocked values.
+// ---
+
 chrome.test.runTests([
   function getRegistrationCodeTest() {
     // Expected values from

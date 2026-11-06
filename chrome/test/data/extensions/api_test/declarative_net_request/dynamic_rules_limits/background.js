@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dynamic rules limits API test background script
+// summary: Background service worker for the test extension that verifies dynamic rule count limits for regex, unsafe, and regular declarativeNetRequest rules.
+// ---
+
 const updateDynamicRules = chrome.declarativeNetRequest.updateDynamicRules;
 const getDynamicRules = chrome.declarativeNetRequest.getDynamicRules;
 

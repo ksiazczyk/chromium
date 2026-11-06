@@ -1,0 +1,4 @@
+# Docerion header of behllobkkfkfnphdnhnkndlbkcpglgmj.json.
+type: test
+title: Expected developer API output for My extension 1
+summary: Expected JSON output for the developer API test describing extension My extension 1, including disable reasons, file and incognito access, and two active views.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Enterprise platform keys API test common helpers
+// summary: Shared JavaScript helpers for the enterprise.platformKeys API browser tests, providing test assertions, session and token flags, and embedded DER certificate fixtures.
+// ---
+
 'use strict';
 
 const assertEq = chrome.test.assertEq;

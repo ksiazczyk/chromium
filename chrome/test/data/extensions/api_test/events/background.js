@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Events API test background script
+// summary: Runs browser tests for chrome.action.onClicked listener management and verifies that two pages attaching to the same event does not trigger a DCHECK.
+// ---
+
 chrome.test.runTests([
   function listenerManagement() {
     function emptyFunction() {}

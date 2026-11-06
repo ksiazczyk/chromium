@@ -1,0 +1,4 @@
+# Docerion header of page_with_204_frame.html.
+type: test
+title: Test page embedding a HTTP 204 iframe
+summary: Test page containing an iframe that loads a URL returning HTTP 204, serving as the main fixture for the executeScript test.

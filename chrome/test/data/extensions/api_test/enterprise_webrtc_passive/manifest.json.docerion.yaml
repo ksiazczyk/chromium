@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Enterprise WebRTC passive test extension manifest
+summary: Manifest for a test extension that holds the enterprise.webrtc permission but runs nothing itself, letting browser tests inject scripts into its service worker.

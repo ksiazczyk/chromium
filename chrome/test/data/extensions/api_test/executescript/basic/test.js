@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser test runner for executeScript and insertCSS
+// summary: Background script that runs the chrome.test cases covering code and file injection, CSS insertion, DOM effects, and permission failures.
+// ---
+
 const pass = chrome.test.callbackPass;
 const fail = chrome.test.callbackFail;
 const assertEq = chrome.test.assertEq;

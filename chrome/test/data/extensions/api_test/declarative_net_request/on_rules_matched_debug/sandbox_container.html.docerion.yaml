@@ -1,0 +1,4 @@
+# Docerion header of sandbox_container.html.
+type: test
+title: Sandbox container page
+summary: Page that embeds sandbox_frame.html in a sandboxed iframe to exercise third-party frame rule matching.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test extension manifest
+summary: Manifest for the connect_external test extension declaring tabs and webNavigation permissions plus the content script.

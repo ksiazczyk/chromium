@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background script for declarative net request prerendering tests
+// summary: Test extension service worker that adds dynamic declarativeNetRequest block rules and runs chrome.test cases verifying rule matching in prerendered pages.
+// ---
+
 let testServerPort = 0;
 let matchedRuleInfos = [];
 let expectedCallback = null;

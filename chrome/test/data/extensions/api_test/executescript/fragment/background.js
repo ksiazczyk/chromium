@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background script for executeScript fragment navigation test
+// summary: Background page of a test extension that navigates a tab to a URL fragment, runs chrome.tabs.executeScript, and verifies the injected script executes after fragment navigation.
+// ---
+
 const gotRequest = false;
 let testUrl;
 

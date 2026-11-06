@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background script driving the executeScript file-after-close test
+// summary: Background script that opens the first web page, launches the extension page once it loads, and signals test pass when the second page is reached.
+// ---
+
 const server = 'http://b.com:PORT';
 const RELATIVE_PATH = '/extensions/api_test/executescript/file_after_close/';
 const extensionPage = chrome.runtime.getURL('extension_page.html');

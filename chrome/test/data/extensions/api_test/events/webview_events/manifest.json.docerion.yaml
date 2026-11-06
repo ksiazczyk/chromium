@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Webview events test extension manifest
+summary: Manifest for the webview events API test app, declaring a background script and the webview permission.
