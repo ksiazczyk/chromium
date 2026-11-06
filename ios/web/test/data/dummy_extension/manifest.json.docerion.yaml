@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Dummy Extension manifest
+summary: Minimal Manifest V3 manifest for a dummy extension used as test fixture data in iOS web tests.

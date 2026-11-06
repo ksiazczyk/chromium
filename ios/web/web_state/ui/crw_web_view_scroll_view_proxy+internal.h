@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CRWWebViewScrollViewProxy internal API header
+// summary: Declares an internal category on CRWWebViewScrollViewProxy exposing its observers and underlying scroll view for use only within //ios/web.
+// ---
+
 #ifndef IOS_WEB_WEB_STATE_UI_CRW_WEB_VIEW_SCROLL_VIEW_PROXY_INTERNAL_H_
 #define IOS_WEB_WEB_STATE_UI_CRW_WEB_VIEW_SCROLL_VIEW_PROXY_INTERNAL_H_
 

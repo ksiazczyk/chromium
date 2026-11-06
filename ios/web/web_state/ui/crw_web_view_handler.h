@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CRWWebViewHandler interface
+// summary: Declares the small CRWWebViewHandler base class providing a close lifecycle method and destruction state for web view handler subclasses.
+// ---
+
 #ifndef IOS_WEB_WEB_STATE_UI_CRW_WEB_VIEW_HANDLER_H_
 #define IOS_WEB_WEB_STATE_UI_CRW_WEB_VIEW_HANDLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShellBrowserState class declaration
+// summary: Declares the shell-specific BrowserState implementation that exposes the state path and request context for the iOS web shell.
+// ---
+
 #ifndef IOS_WEB_SHELL_SHELL_BROWSER_STATE_H_
 #define IOS_WEB_SHELL_SHELL_BROWSER_STATE_H_
 

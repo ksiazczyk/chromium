@@ -1,0 +1,4 @@
+# Docerion header of shell_actions.mm.
+type: test
+title: Shell actions implementation
+summary: Implements LongPressElementForContextMenu by delegating to ShellActionsAppInterface in the app process.

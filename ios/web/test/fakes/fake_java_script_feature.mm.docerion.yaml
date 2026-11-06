@@ -1,0 +1,4 @@
+# Docerion header of fake_java_script_feature.mm.
+type: test
+title: FakeJavaScriptFeature implementation
+summary: Implements FakeJavaScriptFeature with injected test scripts, message reply handling and helpers to trigger DOM changes, post messages and count JavaScript errors in tests.

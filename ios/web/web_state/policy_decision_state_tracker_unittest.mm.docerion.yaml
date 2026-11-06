@@ -1,0 +1,4 @@
+# Docerion header of policy_decision_state_tracker_unittest.mm.
+type: test
+title: PolicyDecisionStateTracker unit tests
+summary: Unit tests verifying PolicyDecisionStateTracker aggregates policy decisions and determines final results in synchronous and asynchronous flows.

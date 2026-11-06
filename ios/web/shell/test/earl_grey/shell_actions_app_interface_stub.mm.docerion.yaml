@@ -1,0 +1,4 @@
+# Docerion header of shell_actions_app_interface_stub.mm.
+type: test
+title: Shell actions app interface stub
+summary: Registers a stub ShellActionsAppInterface in the app main queue via the GREY_STUB_CLASS_IN_APP_MAIN_QUEUE macro.

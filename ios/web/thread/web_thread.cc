@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebThread implementation with Blink and legacy backends
+// summary: Implements WebThread statics and UI/IO task runner accessors, forwarding to ContentThreadImpl or WebThreadImpl depending on the USE_BLINK build flag.
+// ---
+
 #include "ios/web/public/thread/web_thread.h"
 
 #import "build/blink_buildflags.h"

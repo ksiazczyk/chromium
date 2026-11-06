@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CRWWebController interface
+// summary: Declares CRWWebController, an abstract controller managing a web view for rendering web content, including eviction and restoration under memory pressure.
+// ---
+
 #ifndef IOS_WEB_WEB_STATE_UI_CRW_WEB_CONTROLLER_H_
 #define IOS_WEB_WEB_STATE_UI_CRW_WEB_CONTROLLER_H_
 

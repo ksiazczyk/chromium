@@ -1,0 +1,4 @@
+# Docerion header of web_ui_ios_impl.mm.
+type: source
+title: WebUIIOSImpl implementation
+summary: Implements JavaScript invocation, message dispatch, and callback resolution for iOS WebUI pages.

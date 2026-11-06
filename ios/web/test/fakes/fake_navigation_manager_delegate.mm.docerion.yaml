@@ -1,0 +1,4 @@
+# Docerion header of fake_navigation_manager_delegate.mm.
+type: test
+title: FakeNavigationManagerDelegate implementation
+summary: Implements FakeNavigationManagerDelegate with stubbed delegate methods, returning the injected test web view and WebState while leaving other navigation callbacks empty.

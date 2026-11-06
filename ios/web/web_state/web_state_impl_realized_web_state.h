@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RealizedWebState class declaration
+// summary: Declares WebStateImpl::RealizedWebState, the internal class implementing the logic of a realized WebState and the NavigationManagerDelegate interface.
+// ---
+
 #ifndef IOS_WEB_WEB_STATE_WEB_STATE_IMPL_REALIZED_WEB_STATE_H_
 #define IOS_WEB_WEB_STATE_WEB_STATE_IMPL_REALIZED_WEB_STATE_H_
 

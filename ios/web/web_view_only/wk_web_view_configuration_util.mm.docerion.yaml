@@ -1,0 +1,4 @@
+# Docerion header of wk_web_view_configuration_util.mm.
+type: source
+title: WKWebView configuration utility implementation
+summary: Implements EnsureWebViewCreatedWithConfiguration, which creates a WKWebView for a WebState using a caller-supplied WKWebViewConfiguration.

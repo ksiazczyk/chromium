@@ -1,0 +1,4 @@
+# Docerion header of mojo_facade.mm.
+type: source
+title: MojoFacade implementation
+summary: Implements Mojo message handling for WebUI pages, including interface binding, message pipes, and handle watching.

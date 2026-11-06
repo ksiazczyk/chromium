@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShellMainDelegate class declaration
+// summary: Declares the shell's WebMainDelegate that installs the shell web client during startup.
+// ---
+
 #ifndef IOS_WEB_SHELL_SHELL_MAIN_DELEGATE_H_
 #define IOS_WEB_SHELL_SHELL_MAIN_DELEGATE_H_
 

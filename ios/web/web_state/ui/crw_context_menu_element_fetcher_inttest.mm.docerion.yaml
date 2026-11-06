@@ -1,0 +1,4 @@
+# Docerion header of crw_context_menu_element_fetcher_inttest.mm.
+type: test
+title: Context menu element fetcher integration tests
+summary: Integration tests verifying that the element fetcher triggers callbacks for fetched elements and that cancelled fetches never call back.

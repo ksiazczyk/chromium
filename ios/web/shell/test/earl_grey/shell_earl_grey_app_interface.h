@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shell Earl Grey app interface header
+// summary: Declares ShellEarlGreyAppInterface with methods to start loading a URL and query WebState loading status and text content for Earl Grey tests.
+// ---
+
 #ifndef IOS_WEB_SHELL_TEST_EARL_GREY_SHELL_EARL_GREY_APP_INTERFACE_H_
 #define IOS_WEB_SHELL_TEST_EARL_GREY_SHELL_EARL_GREY_APP_INTERFACE_H_
 

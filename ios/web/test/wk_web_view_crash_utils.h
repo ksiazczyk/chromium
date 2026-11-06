@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WKWebView crash simulation test utilities header
+// summary: Declares test helpers in the web namespace to simulate a WKWebView crash and to build terminated or healthy mock WKWebView objects for iOS web tests.
+// ---
+
 #ifndef IOS_WEB_TEST_WK_WEB_VIEW_CRASH_UTILS_H_
 #define IOS_WEB_TEST_WK_WEB_VIEW_CRASH_UTILS_H_
 

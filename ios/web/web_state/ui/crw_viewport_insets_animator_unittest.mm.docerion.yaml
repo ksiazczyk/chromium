@@ -1,0 +1,4 @@
+# Docerion header of crw_viewport_insets_animator_unittest.mm.
+type: test
+title: CRWViewportInsetsAnimator unit tests
+summary: Unit tests for CRWViewportInsetsAnimator covering animation completion, cancellation via stop, and clamping of spring overshoot insets.

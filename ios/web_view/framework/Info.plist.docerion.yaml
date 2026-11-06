@@ -1,0 +1,4 @@
+# Docerion header of Info.plist.
+type: config
+title: ChromeWebView framework bundle metadata
+summary: Apple property list providing bundle keys such as version, package type FMWK, and identifier for the ChromeWebView framework.

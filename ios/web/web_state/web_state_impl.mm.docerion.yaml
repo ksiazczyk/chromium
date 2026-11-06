@@ -1,0 +1,4 @@
+# Docerion header of web_state_impl.mm.
+type: source
+title: WebStateImpl implementation
+summary: Implements WebStateImpl, including detection of inefficient WebState realization and construction paths for new, restored, and cloned web states.

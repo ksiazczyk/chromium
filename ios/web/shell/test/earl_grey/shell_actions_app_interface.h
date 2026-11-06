@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shell actions app interface header
+// summary: Declares the ShellActionsAppInterface class with GREYAction helpers for testing ios_web_shell, callable from app or test code.
+// ---
+
 #ifndef IOS_WEB_SHELL_TEST_EARL_GREY_SHELL_ACTIONS_APP_INTERFACE_H_
 #define IOS_WEB_SHELL_TEST_EARL_GREY_SHELL_ACTIONS_APP_INTERFACE_H_
 

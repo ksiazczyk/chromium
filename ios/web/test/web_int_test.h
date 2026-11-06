@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebIntTest integration test fixture header
+// summary: Declares WebIntTest, a fixture for integration tests that load pages in a WebState and wait for navigations to complete.
+// ---
+
 #ifndef IOS_WEB_TEST_WEB_INT_TEST_H_
 #define IOS_WEB_TEST_WEB_INT_TEST_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of web_shell_test_case.mm.
+type: test
+title: WebShellTestCase implementation
+summary: Implements the base Earl Grey test case and lazily starts an embedded test server serving test HTTP files.

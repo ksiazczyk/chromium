@@ -1,0 +1,4 @@
+# Docerion header of web_state_observer_bridge_unittest.mm.
+type: test
+title: WebStateObserverBridge unit tests
+summary: Unit tests verifying that WebStateObserverBridge forwards observer callbacks such as navigation start, redirects and visibility changes to the Objective-C observer.

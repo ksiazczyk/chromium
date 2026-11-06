@@ -1,0 +1,4 @@
+# Docerion header of web_state_policy_decider_test_util.mm.
+type: source
+title: WebState policy decider test matcher implementation
+summary: Implements RequestInfoMatch and ResponseInfoMatch comparisons used by Google Mock matchers in the policy decider tests.

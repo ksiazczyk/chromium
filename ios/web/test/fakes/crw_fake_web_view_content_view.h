@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake web view content view header for tests
+// summary: Declares CRWFakeWebViewContentView, a test version of CRWWebViewContentView initialized with mock web view and scroll view objects.
+// ---
+
 #ifndef IOS_WEB_TEST_FAKES_CRW_FAKE_WEB_VIEW_CONTENT_VIEW_H_
 #define IOS_WEB_TEST_FAKES_CRW_FAKE_WEB_VIEW_CONTENT_VIEW_H_
 

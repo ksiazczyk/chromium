@@ -1,0 +1,4 @@
+# Docerion header of web_ui_metrics.mm.
+type: source
+title: WebUI Mojo metrics implementation
+summary: Records Mojo bridge action success or failure as histogram enumerations under IOS.WebUI.

@@ -1,0 +1,4 @@
+# Docerion header of mojo_test.test-mojom.
+type: test
+title: Mojo test interface definitions
+summary: Defines Mojo structs and interfaces used to test native-to-page messaging between WebUI test pages and native handlers.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the iOS web shell
+summary: Lists owners for the shell directory and routes reviews of mojom files to the IPC security owners.

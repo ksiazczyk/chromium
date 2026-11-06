@@ -1,0 +1,4 @@
+# Docerion header of keep_render_process_alive_inttest.mm.
+type: test
+title: KeepRenderProcessAlive integration tests
+summary: Integration tests verifying the web state view is added to or removed from the windowed container as the KeepRenderProcessAlive flag is toggled.

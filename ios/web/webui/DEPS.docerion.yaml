@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the webui directory
+summary: Specifies include rules that permit dependencies on mojo/public and ui/resources/grit within the webui directory.

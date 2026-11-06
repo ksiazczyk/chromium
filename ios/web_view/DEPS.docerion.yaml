@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for ios/web_view
+summary: Defines which include paths are allowed and disallowed for code in the ios/web_view directory.

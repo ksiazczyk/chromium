@@ -1,0 +1,4 @@
+# Docerion header of client_cert_auth_inttest.mm.
+type: test
+title: Client certificate authentication integration test
+summary: Integration test for WebStateDelegate::OnAuthRequired handling of client certificate challenges during mutual TLS handshakes.

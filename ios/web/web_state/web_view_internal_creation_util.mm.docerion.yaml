@@ -1,0 +1,4 @@
+# Docerion header of web_view_internal_creation_util.mm.
+type: source
+title: Web view internal creation utilities
+summary: Implements factory functions that build WKWebView and CRWWebView instances with frame, configuration, user agent, input view provider, edit menu builder, and inspector settings.

@@ -1,0 +1,4 @@
+# Docerion header of wk_web_view_configuration_provider.mm.
+type: source
+title: WKWebViewConfigurationProvider implementation
+summary: Implements WKWebViewConfigurationProvider, including per-BrowserState attachment, data store deletion for identifiers, and configuration setup with content rule lists and injected JavaScript.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI URL data manager backend interface
+// summary: Declares the internal IO-thread backend that registers WebUI data sources, creates the protocol handler, and tracks pending requests.
+// ---
+
 #ifndef IOS_WEB_WEBUI_URL_DATA_MANAGER_IOS_BACKEND_H_
 #define IOS_WEB_WEBUI_URL_DATA_MANAGER_IOS_BACKEND_H_
 

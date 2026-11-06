@@ -1,0 +1,4 @@
+# Docerion header of shell_web_client.mm.
+type: source
+title: ShellWebClient implementation
+summary: Implements the shell web client, including a Mojo WebUsageController that toggles web usage enabled on a WebState.

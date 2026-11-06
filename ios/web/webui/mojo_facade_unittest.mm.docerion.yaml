@@ -1,0 +1,4 @@
+# Docerion header of mojo_facade_unittest.mm.
+type: test
+title: Mojo facade unit tests
+summary: Unit tests for the MojoFacade class that handles Mojo message pipes and messages for iOS web UI.

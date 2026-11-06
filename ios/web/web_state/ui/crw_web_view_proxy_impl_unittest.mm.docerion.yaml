@@ -1,0 +1,4 @@
+# Docerion header of crw_web_view_proxy_impl_unittest.mm.
+type: test
+title: CRWWebViewProxyImpl unit tests
+summary: Unit tests verifying that CRWWebViewProxyImpl correctly delegates content insets, navigation gestures and link preview settings to the content view and web controller.

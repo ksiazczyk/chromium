@@ -1,0 +1,4 @@
+# Docerion header of web_state_impl_unittest.mm.
+type: test
+title: WebStateImpl unit tests
+summary: Unit tests for WebStateImpl covering weak pointers, policy deciders, JavaScript dialogs, and other WebState behaviors.

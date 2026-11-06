@@ -1,0 +1,4 @@
+# Docerion header of web_state_context_menu_bridge_unittest.mm.
+type: test
+title: Web state context menu bridge unit tests
+summary: Unit tests verifying that the iOS 13 context menu delegate methods are forwarded correctly through the web state delegate bridge.

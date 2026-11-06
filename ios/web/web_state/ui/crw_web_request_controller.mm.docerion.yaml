@@ -1,0 +1,4 @@
+# Docerion header of crw_web_request_controller.mm.
+type: source
+title: CRWWebRequestController implementation
+summary: Implements URL loading, WebUI creation and clearing, data and HTML loading, navigation context registration, and reload handling for the web controller.

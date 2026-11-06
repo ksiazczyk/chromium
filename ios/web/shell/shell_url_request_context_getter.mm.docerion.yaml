@@ -1,0 +1,4 @@
+# Docerion header of shell_url_request_context_getter.mm.
+type: source
+title: ShellURLRequestContextGetter implementation
+summary: Builds the shell's URL request context with a cookie store, disk HTTP cache, proxy resolution, and user agent settings.

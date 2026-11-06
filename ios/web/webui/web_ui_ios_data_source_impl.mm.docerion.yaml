@@ -1,0 +1,4 @@
+# Docerion header of web_ui_ios_data_source_impl.mm.
+type: source
+title: WebUIIOSDataSourceImpl implementation
+summary: Implements the iOS WebUI data source that serves resources and localized strings to WebUI pages.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebTaskEnvironment implementation for web tests
+// summary: Implements WebTaskEnvironment, providing UI and IO test threads with fake or real IO thread options and deterministic task flushing on teardown.
+// ---
+
 #include "ios/web/public/test/web_task_environment.h"
 
 #include <memory>

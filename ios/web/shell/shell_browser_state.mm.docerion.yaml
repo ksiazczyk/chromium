@@ -1,0 +1,4 @@
+# Docerion header of shell_browser_state.mm.
+type: source
+title: ShellBrowserState implementation
+summary: Implements ShellBrowserState by resolving the app data path and creating the shell URL request context getter.

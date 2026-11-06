@@ -1,0 +1,4 @@
+# Docerion header of fake_native_task_bridge.mm.
+type: test
+title: FakeNativeTaskBridge implementation
+summary: Implements FakeNativeTaskBridge, simulating download start, progress observation and completion callbacks so unit tests can exercise native download task behaviour.

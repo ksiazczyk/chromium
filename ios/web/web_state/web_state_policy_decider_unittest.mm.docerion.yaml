@@ -1,0 +1,4 @@
+# Docerion header of web_state_policy_decider_unittest.mm.
+type: test
+title: WebStatePolicyDecider PolicyDecision unit tests
+summary: Unit tests checking that PolicyDecision Allow, Cancel and CancelAndDisplayError produce the expected navigation and error display states.

@@ -1,0 +1,4 @@
+# Docerion header of url_data_manager_ios_backend.mm.
+type: source
+title: WebUI URL data manager backend implementation
+summary: Implements request handling for WebUI schemes, including security headers, resource path redirects, and response delivery.

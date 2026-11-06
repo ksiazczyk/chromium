@@ -1,0 +1,4 @@
+# Docerion header of web_state_observer.mm.
+type: source
+title: WebStateObserver implementation
+summary: Implements the WebStateObserver base class, enforcing that observers are removed from the WebState observer list before destruction.

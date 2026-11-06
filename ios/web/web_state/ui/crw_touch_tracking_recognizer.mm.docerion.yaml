@@ -1,0 +1,4 @@
+# Docerion header of crw_touch_tracking_recognizer.mm.
+type: source
+title: CRWTouchTrackingRecognizer implementation
+summary: Implements CRWTouchTrackingRecognizer, forwarding touch begin, end, and cancellation events to its tracking delegate.

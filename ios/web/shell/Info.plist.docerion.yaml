@@ -1,0 +1,4 @@
+# Docerion header of Info.plist.
+type: config
+title: iOS web shell application metadata
+summary: Application property list for the ios_web_shell bundle covering launch images, orientations, scene manifest, and permission usage descriptions.

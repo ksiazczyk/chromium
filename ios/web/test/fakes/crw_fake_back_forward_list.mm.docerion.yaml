@@ -1,0 +1,4 @@
+# Docerion header of crw_fake_back_forward_list.mm.
+type: test
+title: Implementation of the fake back forward list
+summary: Implements CRWFakeBackForwardList with OCMock-based list items, URL-driven history setup, and go-to-index simulation.

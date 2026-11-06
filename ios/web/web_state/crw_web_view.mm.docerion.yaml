@@ -1,0 +1,4 @@
+# Docerion header of crw_web_view.mm.
+type: source
+title: CRWWebView implementation
+summary: Implements the WKWebView subclass, wiring input view suppression, edit menu customization and clipboard data controls metrics.

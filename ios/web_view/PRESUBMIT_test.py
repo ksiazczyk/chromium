@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Tests for the ios/web_view presubmit checks
+# summary: Unit tests verifying that the public header inclusion check flags absolute path imports while allowing valid ones.
+# ---
+
 import os
 import sys
 import unittest

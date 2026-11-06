@@ -1,0 +1,4 @@
+# Docerion header of web_state_delegate.mm.
+type: source
+title: WebStateDelegate default implementation
+summary: Implements default WebStateDelegate behavior for navigation, dialogs, permissions, authentication, clipboard decisions, and context menu callbacks.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUIMessagingJavaScriptFeature header
+// summary: Declares a JavaScript feature that listens for WebUI script messages and forwards them to the WebState.
+// ---
+
 #ifndef IOS_WEB_WEBUI_WEB_UI_MESSAGING_JAVA_SCRIPT_FEATURE_H_
 #define IOS_WEB_WEBUI_WEB_UI_MESSAGING_JAVA_SCRIPT_FEATURE_H_
 

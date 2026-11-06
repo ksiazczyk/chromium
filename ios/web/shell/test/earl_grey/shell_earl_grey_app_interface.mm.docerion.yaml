@@ -1,0 +1,4 @@
+# Docerion header of shell_earl_grey_app_interface.mm.
+type: test
+title: Shell Earl Grey app interface implementation
+summary: Implements URL loading and WebState state queries against the shell's current WebState for the test helpers.

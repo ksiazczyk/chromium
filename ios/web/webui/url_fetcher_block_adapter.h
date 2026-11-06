@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL fetcher block adapter header for WebUI resource retrieval
+// summary: Declares URLFetcherBlockAdapter, a class that fetches WebUI resources through the network URLLoader and reports results to an Objective-C completion block.
+// ---
+
 #ifndef IOS_WEB_WEBUI_URL_FETCHER_BLOCK_ADAPTER_H_
 #define IOS_WEB_WEBUI_URL_FETCHER_BLOCK_ADAPTER_H_
 

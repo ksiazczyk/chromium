@@ -1,0 +1,4 @@
+# Docerion header of wk_content_rule_list_provider.mm.
+type: source
+title: WKContentRuleListProvider implementation
+summary: Implements compiling, removing, and installing content rule lists through WKContentRuleListStore.

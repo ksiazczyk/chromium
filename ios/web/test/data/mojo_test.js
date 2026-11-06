@@ -8,6 +8,12 @@
 // "fin" is received by the native page. Refer to
 // ios/web/webui/web_ui_mojo_inttest.mm for testing code.
 
+// ---docerion
+// type: test
+// title: Mojo test page script
+// summary: JavaScript for the WebUIMojoTest page that exchanges syn, ack and fin messages with native code to verify Mojo bindings.
+// ---
+
 let pageImpl;
 let browserProxy;
 

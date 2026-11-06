@@ -1,0 +1,4 @@
+# Docerion header of web_state_factory.mm.
+type: source
+title: WebState factory implementation
+summary: Factory that creates WebState instances, choosing ContentWebState or WebStateImpl depending on the USE_BLINK build flag.

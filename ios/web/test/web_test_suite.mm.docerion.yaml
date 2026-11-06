@@ -1,0 +1,4 @@
+# Docerion header of web_test_suite.mm.
+type: test
+title: WebTestSuite initialization for iOS web tests
+summary: Implements WebTestSuite, which registers web URL schemes, loads packed resources, and verifies custom WebKit usage for iOS web test runs.

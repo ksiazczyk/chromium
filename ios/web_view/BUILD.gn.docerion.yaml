@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: WebView build and packaging targets
+summary: GN build file defining license generation, framework packaging, and dSYM archive targets for the iOS WebView.

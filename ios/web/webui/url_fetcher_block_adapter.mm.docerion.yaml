@@ -1,0 +1,4 @@
+# Docerion header of url_fetcher_block_adapter.mm.
+type: source
+title: URL fetcher block adapter implementation
+summary: Implements URLFetcherBlockAdapter by issuing SimpleURLLoader requests and delivering response data and headers to the completion handler.

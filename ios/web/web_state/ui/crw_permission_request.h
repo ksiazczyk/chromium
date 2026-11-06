@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CRWPermissionRequest interface
+// summary: Declares CRWPermissionRequest, which encapsulates WKWebView permission prompts for media capture and geolocation and reports the user decision.
+// ---
+
 #ifndef IOS_WEB_WEB_STATE_UI_CRW_PERMISSION_REQUEST_H_
 #define IOS_WEB_WEB_STATE_UI_CRW_PERMISSION_REQUEST_H_
 

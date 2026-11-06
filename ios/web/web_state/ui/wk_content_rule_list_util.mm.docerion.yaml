@@ -1,0 +1,4 @@
+# Docerion header of wk_content_rule_list_util.mm.
+type: source
+title: WK content rule list utility implementation
+summary: Builds JSON content blocker rules for app-specific scheme resource blocking and mixed content auto-upgrade.

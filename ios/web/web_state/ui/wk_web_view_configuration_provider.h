@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WKWebViewConfigurationProvider header
+// summary: Declares WKWebViewConfigurationProvider, which manages the lifetime and setup of WKWebViewConfiguration and WKWebsiteDataStore instances associated with a BrowserState on the main thread.
+// ---
+
 #ifndef IOS_WEB_WEB_STATE_UI_WK_WEB_VIEW_CONFIGURATION_PROVIDER_H_
 #define IOS_WEB_WEB_STATE_UI_WK_WEB_VIEW_CONFIGURATION_PROVIDER_H_
 

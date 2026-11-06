@@ -1,0 +1,4 @@
+# Docerion header of web_state.mm.
+type: source
+title: WebState base class implementation
+summary: Implements WebState base class members such as CreateParams, OpenURLParams, InterfaceBinder, ScopedWebContentCoverer, and realization notification.

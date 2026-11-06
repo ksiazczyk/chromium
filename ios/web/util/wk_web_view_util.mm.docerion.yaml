@@ -1,0 +1,4 @@
+# Docerion header of wk_web_view_util.mm.
+type: source
+title: WKWebView PDF utility implementation
+summary: Implements CreateFullPagePdf by calling WKWebView's createPDFWithConfiguration and handling nil web views.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared resources data source for iOS WebUI
+// summary: Declares the data source class that serves shared WebUI resources for the iOS web layer.
+// ---
+
 #ifndef IOS_WEB_WEBUI_SHARED_RESOURCES_DATA_SOURCE_IOS_H_
 #define IOS_WEB_WEBUI_SHARED_RESOURCES_DATA_SOURCE_IOS_H_
 

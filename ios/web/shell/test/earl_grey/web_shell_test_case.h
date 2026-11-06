@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebShellTestCase base class header
+// summary: Declares the base test case class for web shell Earl Grey tests with an embedded test server property.
+// ---
+
 #ifndef IOS_WEB_SHELL_TEST_EARL_GREY_WEB_SHELL_TEST_CASE_H_
 #define IOS_WEB_SHELL_TEST_EARL_GREY_WEB_SHELL_TEST_CASE_H_
 

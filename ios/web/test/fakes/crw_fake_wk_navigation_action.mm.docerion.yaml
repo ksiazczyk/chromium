@@ -1,0 +1,4 @@
+# Docerion header of crw_fake_wk_navigation_action.mm.
+type: test
+title: CRWFakeWKNavigationAction fake implementation
+summary: Implements CRWFakeWKNavigationAction, a stub WKNavigationAction with synthesised sourceFrame, targetFrame, navigationType and request properties for iOS web unit tests.

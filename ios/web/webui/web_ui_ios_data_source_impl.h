@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI iOS data source implementation header
+// summary: Declares WebUIIOSDataSourceImpl, which supplies localized strings, load-time data, and resource path mappings to WebUI pages.
+// ---
+
 #ifndef IOS_WEB_WEBUI_WEB_UI_IOS_DATA_SOURCE_IMPL_H_
 #define IOS_WEB_WEBUI_WEB_UI_IOS_DATA_SOURCE_IMPL_H_
 

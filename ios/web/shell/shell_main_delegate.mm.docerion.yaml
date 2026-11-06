@@ -1,0 +1,4 @@
+# Docerion header of shell_main_delegate.mm.
+type: source
+title: ShellMainDelegate implementation
+summary: Implements startup completion for the shell by creating ShellWebClient and setting it as the global web client.

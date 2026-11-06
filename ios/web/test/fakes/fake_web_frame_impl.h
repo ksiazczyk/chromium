@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeWebFrameImpl header
+// summary: Declares FakeWebFrameImpl, a fake WebFrame and WebFrameInternal that records JavaScript calls and returns scripted results for testing frame JavaScript execution.
+// ---
+
 #ifndef IOS_WEB_TEST_FAKES_FAKE_WEB_FRAME_IMPL_H_
 #define IOS_WEB_TEST_FAKES_FAKE_WEB_FRAME_IMPL_H_
 

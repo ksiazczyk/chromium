@@ -1,0 +1,4 @@
+# Docerion header of crw_web_view_unittest.mm.
+type: test
+title: CRWWebView input view suppression unit tests
+summary: Unit tests verifying that CRWWebView suppresses and restores custom input views, accessory views and view controllers via shouldSuppressInputViews.

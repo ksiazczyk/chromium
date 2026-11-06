@@ -1,0 +1,4 @@
+# Docerion header of crw_fake_web_view_navigation_proxy.mm.
+type: test
+title: Implementation of the fake web view navigation proxy
+summary: Implements CRWFakeWebViewNavigationProxy using CRWFakeBackForwardList to provide URL, title, and back forward list data for tests.

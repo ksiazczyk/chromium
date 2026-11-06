@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CRWViewportInsetsAnimator interface
+// summary: Declares CRWViewportInsetsAnimator, a helper that interpolates viewport insets frame by frame with a CADisplayLink and reports progress.
+// ---
+
 #ifndef IOS_WEB_WEB_STATE_UI_CRW_VIEWPORT_INSETS_ANIMATOR_H_
 #define IOS_WEB_WEB_STATE_UI_CRW_VIEWPORT_INSETS_ANIMATOR_H_
 

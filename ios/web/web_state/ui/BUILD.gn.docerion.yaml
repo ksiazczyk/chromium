@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the iOS web state UI
+summary: Defines GN source sets and dependencies for the iOS web state UI, including the web controller, web view handler, and context menu controller targets.

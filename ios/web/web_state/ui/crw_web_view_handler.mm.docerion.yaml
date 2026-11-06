@@ -1,0 +1,4 @@
+# Docerion header of crw_web_view_handler.mm.
+type: source
+title: CRWWebViewHandler implementation
+summary: Implements the CRWWebViewHandler class, whose close method marks the web view handler as being destroyed.

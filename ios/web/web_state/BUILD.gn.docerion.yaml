@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for ios/web/web_state
+summary: Defines GN source sets, sources and dependencies for the iOS web_state module, including web state, web view, user interaction and policy decision targets.

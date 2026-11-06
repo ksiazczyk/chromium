@@ -1,0 +1,4 @@
+# Docerion header of crw_viewport_insets_animator.mm.
+type: source
+title: CRWViewportInsetsAnimator implementation
+summary: Implements CRWViewportInsetsAnimator using critically damped spring easing to animate viewport insets and clamp them to non-negative values.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL data manager implementation
+// summary: Implements URLDataManagerIOS, registering data sources on the IO thread and deleting them safely on the UI thread.
+// ---
+
 #include "ios/web/webui/url_data_manager_ios.h"
 
 #include <stddef.h>

@@ -1,0 +1,4 @@
+# Docerion header of js_test_util_internal.mm.
+type: test
+title: Internal JavaScript execution test utilities implementation
+summary: Implements synchronous and asynchronous JavaScript execution helpers for WKWebView, waiting for completion and reporting errors during iOS web tests.

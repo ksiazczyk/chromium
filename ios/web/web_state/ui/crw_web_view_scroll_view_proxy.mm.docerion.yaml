@@ -1,0 +1,4 @@
+# Docerion header of crw_web_view_scroll_view_proxy.mm.
+type: source
+title: CRWWebViewScrollViewProxy implementation
+summary: Implements the scroll view proxy wrapping the web view's UIScrollView, including key-value observer forwarding and delegate proxying.

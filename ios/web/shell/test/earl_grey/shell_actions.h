@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shell actions header for Earl Grey tests
+// summary: Declares the LongPressElementForContextMenu GREYAction that long-presses a web view element to open the context menu in ios_web_shell tests.
+// ---
+
 #ifndef IOS_WEB_SHELL_TEST_EARL_GREY_SHELL_ACTIONS_H_
 #define IOS_WEB_SHELL_TEST_EARL_GREY_SHELL_ACTIONS_H_
 

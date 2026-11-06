@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CRWWebViewNavigationProxy protocol header
+// summary: Declares a protocol exposing a subset of the WKWebView API, such as URL, title and back/forward list, to the NavigationManager.
+// ---
+
 #ifndef IOS_WEB_WEB_STATE_UI_CRW_WEB_VIEW_NAVIGATION_PROXY_H_
 #define IOS_WEB_WEB_STATE_UI_CRW_WEB_VIEW_NAVIGATION_PROXY_H_
 

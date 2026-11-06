@@ -1,0 +1,4 @@
+# Docerion header of crw_web_view_data_controls_unittest.mm.
+type: test
+title: CRWWebView data controls unit tests
+summary: Unit tests verifying that copy, paste and cut actions follow the data controls delegate decisions and record clipboard metrics.

@@ -1,0 +1,4 @@
+# Docerion header of crw_fake_web_view_content_view.mm.
+type: test
+title: Implementation of the fake web view content view
+summary: Implements CRWFakeWebViewContentView, exposing the mock web view and scroll view while disabling other initializers.

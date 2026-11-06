@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUIIOSImpl class header
+// summary: Declares the WebUIIOS implementation that manages message handlers, controller, and Mojo facade for a WebState.
+// ---
+
 #ifndef IOS_WEB_WEBUI_WEB_UI_IOS_IMPL_H_
 #define IOS_WEB_WEBUI_WEB_UI_IOS_IMPL_H_
 

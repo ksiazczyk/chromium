@@ -1,0 +1,4 @@
+# Docerion header of crw_web_view_scroll_view_delegate_proxy.mm.
+type: source
+title: CRWWebViewScrollViewDelegateProxy implementation
+summary: Implements forwarding of UIScrollView delegate callbacks to the proxy delegate and observers, rewriting the sender argument to the proxied scroll view.

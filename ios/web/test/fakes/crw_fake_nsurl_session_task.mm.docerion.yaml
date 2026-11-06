@@ -1,0 +1,4 @@
+# Docerion header of crw_fake_nsurl_session_task.mm.
+type: test
+title: Implementation of the fake NSURLSession task
+summary: Implements CRWFakeNSURLSessionTask with state changes on cancel and resume plus stubs required by NSHTTPCookieStorage.

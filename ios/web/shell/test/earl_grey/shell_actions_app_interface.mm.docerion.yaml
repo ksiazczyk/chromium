@@ -1,0 +1,4 @@
+# Docerion header of shell_actions_app_interface.mm.
+type: test
+title: Shell actions app interface implementation
+summary: Implements longPressElementForContextMenu by applying the web view long-press action to the shell's current WebState.

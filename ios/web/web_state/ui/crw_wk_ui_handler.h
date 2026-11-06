@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CRWWKUIHandler interface
+// summary: Declares CRWWKUIHandler, the object handling WKUIDelegate callbacks for the WKWebView.
+// ---
+
 #ifndef IOS_WEB_WEB_STATE_UI_CRW_WK_UI_HANDLER_H_
 #define IOS_WEB_WEB_STATE_UI_CRW_WK_UI_HANDLER_H_
 

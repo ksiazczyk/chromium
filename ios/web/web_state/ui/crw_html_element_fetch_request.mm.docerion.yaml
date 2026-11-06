@@ -1,0 +1,4 @@
+# Docerion header of crw_html_element_fetch_request.mm.
+type: source
+title: HTML element fetch request implementation
+summary: Implements the element fetch request, storing the creation time and completion handler and invalidating the handler on demand.

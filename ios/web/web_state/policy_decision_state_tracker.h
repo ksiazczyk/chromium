@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PolicyDecisionStateTracker header
+// summary: Header declaring PolicyDecisionStateTracker, which aggregates WebStatePolicyDecider responses and invokes a callback with the final policy decision.
+// ---
+
 #ifndef IOS_WEB_WEB_STATE_POLICY_DECISION_STATE_TRACKER_H_
 #define IOS_WEB_WEB_STATE_POLICY_DECISION_STATE_TRACKER_H_
 

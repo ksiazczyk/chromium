@@ -1,0 +1,4 @@
+# Docerion header of crw_context_menu_controller.mm.
+type: source
+title: Context menu controller implementation
+summary: Implements the context menu interaction delegate, converting long-press locations and building menu configuration from fetched element parameters.

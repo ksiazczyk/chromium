@@ -1,0 +1,4 @@
+# Docerion header of context_menu_egtest.mm.
+type: test
+title: Web shell context menu Earl Grey tests
+summary: Earl Grey 2 tests verifying that the web shell shows a context menu with a copy link option on long-pressed links.

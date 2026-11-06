@@ -1,0 +1,4 @@
+# Docerion header of wk_content_rule_list_provider_unittest.mm.
+type: test
+title: WKContentRuleListProvider unit tests
+summary: Unit tests for WKContentRuleListProvider covering rule list compilation, removal, and store persistence.

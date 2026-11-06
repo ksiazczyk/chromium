@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SerializedData class declaration
+// summary: Declares WebStateImpl::SerializedData, which stores the metadata and loaders needed to realize a WebState from serialized session data.
+// ---
+
 #ifndef IOS_WEB_WEB_STATE_WEB_STATE_IMPL_SERIALIZED_DATA_H_
 #define IOS_WEB_WEB_STATE_WEB_STATE_IMPL_SERIALIZED_DATA_H_
 

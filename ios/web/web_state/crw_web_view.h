@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CRWWebView interface
+// summary: Declares a WKWebView subclass with custom input view providers, edit menu building and clipboard data controls support.
+// ---
+
 #ifndef IOS_WEB_WEB_STATE_CRW_WEB_VIEW_H_
 #define IOS_WEB_WEB_STATE_CRW_WEB_VIEW_H_
 

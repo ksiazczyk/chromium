@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the web thread source set
+summary: GN build definition for the thread source set, compiling web_thread.cc with dependencies on ios/web threads and public headers, plus Blink-specific deps when enabled.

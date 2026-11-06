@@ -1,0 +1,4 @@
+# Docerion header of web_int_test.mm.
+type: test
+title: WebIntTest integration test fixture implementation
+summary: Implements WebIntTest, setting up a delegated WebState, waiting for page loads, and clearing WKWebView data during teardown.

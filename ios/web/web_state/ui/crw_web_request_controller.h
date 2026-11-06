@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CRWWebRequestController interface
+// summary: Declares the controller responsible for preparing and handling web requests, WebUI setup, URL loading, and reloads on behalf of CRWWebController.
+// ---
+
 #ifndef IOS_WEB_WEB_STATE_UI_CRW_WEB_REQUEST_CONTROLLER_H_
 #define IOS_WEB_WEB_STATE_UI_CRW_WEB_REQUEST_CONTROLLER_H_
 

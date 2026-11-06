@@ -1,0 +1,4 @@
+# Docerion header of web_state_observer_inttest.mm.
+type: test
+title: WebState observer integration tests
+summary: Integration tests exercising WebState observer notifications for navigation, titles, visible URLs and policy decisions against a live web state and embedded test server.

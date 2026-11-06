@@ -1,0 +1,4 @@
+# Docerion header of crw_wk_ui_handler.mm.
+type: source
+title: CRWWKUIHandler implementation
+summary: Implements WKUIDelegate handling including media capture permission histograms and open panel support.

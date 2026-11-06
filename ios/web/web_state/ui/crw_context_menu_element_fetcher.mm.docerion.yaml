@@ -1,0 +1,4 @@
+# Docerion header of crw_context_menu_element_fetcher.mm.
+type: source
+title: Context menu element fetcher implementation
+summary: Implements asynchronous DOM element fetching through JavaScript, tracking pending requests and cancelling them when the web state is destroyed.

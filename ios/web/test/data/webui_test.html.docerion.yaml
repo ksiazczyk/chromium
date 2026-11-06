@@ -1,0 +1,4 @@
+# Docerion header of webui_test.html.
+type: test
+title: WebUI test page
+summary: Simple WebUI test page containing a link that navigates to a second WebUI test page.

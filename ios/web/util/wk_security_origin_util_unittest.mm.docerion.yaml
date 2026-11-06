@@ -1,0 +1,4 @@
+# Docerion header of wk_security_origin_util_unittest.mm.
+type: test
+title: Unit tests for WKSecurityOrigin conversion
+summary: Unit tests for WKSecurityOrigin conversion using a stub class to cover nil, valid, default and non-default port cases.

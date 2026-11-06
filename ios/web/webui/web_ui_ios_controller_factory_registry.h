@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI controller factory registry header
+// summary: Declares the WebUIIOSControllerFactoryRegistry singleton that holds all registered WebUI controller factory instances.
+// ---
+
 #ifndef IOS_WEB_WEBUI_WEB_UI_IOS_CONTROLLER_FACTORY_REGISTRY_H_
 #define IOS_WEB_WEBUI_WEB_UI_IOS_CONTROLLER_FACTORY_REGISTRY_H_
 

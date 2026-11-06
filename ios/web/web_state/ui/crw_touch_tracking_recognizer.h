@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CRWTouchTrackingRecognizer interface
+// summary: Declares CRWTouchTrackingRecognizer, a UIGestureRecognizer subclass that notifies its delegate when touches begin and when they end or are cancelled.
+// ---
+
 #ifndef IOS_WEB_WEB_STATE_UI_CRW_TOUCH_TRACKING_RECOGNIZER_H_
 #define IOS_WEB_WEB_STATE_UI_CRW_TOUCH_TRACKING_RECOGNIZER_H_
 

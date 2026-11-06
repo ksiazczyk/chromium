@@ -1,0 +1,4 @@
+# Docerion header of app_delegate.mm.
+type: source
+title: AppDelegate implementation
+summary: Implements AppDelegate to start the web::WebMain engine on launch and tear it down when the app terminates.

@@ -1,0 +1,4 @@
+# Docerion header of web_usage_controller.mojom.
+type: source
+title: WebUsageController Mojo interface
+summary: Mojo interface bound to a WebState that enables or disables web usage for testing, returning empty results so tests can wait on completion.
