@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test encryptor header
+// summary: Declares TestEncryptor, an Encryptor subclass with setters that let tests control whether encryption and decryption report as available.
+// ---
+
 #ifndef COMPONENTS_OS_CRYPT_ASYNC_COMMON_TEST_ENCRYPTOR_H_
 #define COMPONENTS_OS_CRYPT_ASYNC_COMMON_TEST_ENCRYPTOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page context fetcher metrics header
+// summary: Declares Glic histogram names and enums for PDF extraction status, PDF request states and screenshot capture outcomes.
+// ---
+
 #ifndef COMPONENTS_PAGE_CONTENT_ANNOTATIONS_CONTENT_PAGE_CONTEXT_FETCHER_METRICS_H_
 #define COMPONENTS_PAGE_CONTENT_ANNOTATIONS_CONTENT_PAGE_CONTEXT_FETCHER_METRICS_H_
 

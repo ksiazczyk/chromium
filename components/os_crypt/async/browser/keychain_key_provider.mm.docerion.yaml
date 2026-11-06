@@ -1,0 +1,4 @@
+# Docerion header of keychain_key_provider.mm.
+type: source
+title: Keychain key provider implementation
+summary: Implements the Keychain key provider, fetching the Keychain password on a worker thread and deriving the v10 AES128CBC key with PBKDF2-HMAC-SHA1.

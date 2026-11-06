@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Per-file owners for DPAPI and secret portal providers
+summary: Lists per-file code owners for the DPAPI, freedesktop and secret portal files in this directory.

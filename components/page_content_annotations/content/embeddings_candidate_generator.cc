@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Embeddings candidate generator implementation
+// summary: Generates embeddings passage candidates from annotated page content or PDF text plus the page title and URL.
+// ---
+
 #include "components/page_content_annotations/content/embeddings_candidate_generator.h"
 
 #include <cstddef>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DPAPI key provider class declaration
+// summary: Declares the DPAPIKeyProvider class that provides forwards and backwards compatibility with OSCrypt's DPAPI support on Windows.
+// ---
+
 #ifndef COMPONENTS_OS_CRYPT_ASYNC_BROWSER_DPAPI_KEY_PROVIDER_H_
 #define COMPONENTS_OS_CRYPT_ASYNC_BROWSER_DPAPI_KEY_PROVIDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page context fetcher unit tests
+// summary: Unit tests for PageContextFetcher covering screenshot capture, PDF content fetching, inner text and metrics using fake PDF listeners and test renderer hosts.
+// ---
+
 #include "components/page_content_annotations/content/page_context_fetcher.h"
 
 #include <stdint.h>

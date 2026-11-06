@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Origin matcher Mojo traits implementation
+// summary: Implements Mojo StructTraits that serialize and deserialize OriginMatcher rules, validating subdomain matching rules when reading them from Mojo.
+// ---
+
 #include "components/origin_matcher/origin_matcher_mojom_traits.h"
 
 #include "base/strings/pattern.h"

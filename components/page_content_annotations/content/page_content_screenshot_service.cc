@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page content screenshot service implementation
+// summary: Implements the service that captures and composites page screenshots via paint preview for use in page content annotations.
+// ---
+
 #include "components/page_content_annotations/content/page_content_screenshot_service.h"
 
 #include <string>

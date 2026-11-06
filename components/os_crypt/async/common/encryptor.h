@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Encryptor class header
+// summary: Declares the thread-safe, reference-counted Encryptor class and its Key class used for encryption and decryption in os_crypt/async.
+// ---
+
 #ifndef COMPONENTS_OS_CRYPT_ASYNC_COMMON_ENCRYPTOR_H_
 #define COMPONENTS_OS_CRYPT_ASYNC_COMMON_ENCRYPTOR_H_
 

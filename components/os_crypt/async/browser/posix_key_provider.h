@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PosixKeyProvider class declaration
+// summary: Declares PosixKeyProvider, a KeyProvider implementation for the os_crypt_async component on POSIX platforms.
+// ---
+
 #ifndef COMPONENTS_OS_CRYPT_ASYNC_BROWSER_POSIX_KEY_PROVIDER_H_
 #define COMPONENTS_OS_CRYPT_ASYNC_BROWSER_POSIX_KEY_PROVIDER_H_
 

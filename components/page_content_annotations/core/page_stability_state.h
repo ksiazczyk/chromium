@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page stability monitoring session lifecycle states
+// summary: Declares the PageStabilityState enum describing lifecycle states of a page stability monitoring session, from initial through monitoring to callback invocation and done.
+// ---
+
 #ifndef COMPONENTS_PAGE_CONTENT_ANNOTATIONS_CORE_PAGE_STABILITY_STATE_H_
 #define COMPONENTS_PAGE_CONTENT_ANNOTATIONS_CORE_PAGE_STABILITY_STATE_H_
 

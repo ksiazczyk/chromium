@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DPAPI key provider implementation for Windows
+// summary: Implements retrieval of the OSCrypt key encrypted with Windows DPAPI from local state prefs, reporting status via histograms.
+// ---
+
 #include "components/os_crypt/async/browser/dpapi_key_provider.h"
 
 #include <windows.h>

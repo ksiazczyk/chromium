@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestSecretPortal implementation
+// summary: Implements the service side of the org.freedesktop.portal.Secret D-Bus interface, returning a test secret and token for tests.
+// ---
+
 #include "components/os_crypt/async/browser/test_secret_portal.h"
 
 #include <map>

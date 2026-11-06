@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passage embedding type declarations
+// summary: Declares the EmbeddingPassageType enum and the PassageEmbedding struct that pairs a page passage with its passage embedding.
+// ---
+
 #ifndef COMPONENTS_PAGE_CONTENT_ANNOTATIONS_CORE_PAGE_EMBEDDINGS_COMMON_H_
 #define COMPONENTS_PAGE_CONTENT_ANNOTATIONS_CORE_PAGE_EMBEDDINGS_COMMON_H_
 

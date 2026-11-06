@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for CategoryClassifierModelHandler
+// summary: Unit tests for CategoryClassifierModelHandler that verify model execution and input construction using a test model provider and an EDU classifier model.
+// ---
+
 #include "components/page_content_annotations/core/category_classifier_model_handler.h"
 
 #include <memory>

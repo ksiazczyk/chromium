@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page content annotations service implementation
+// summary: Implements the page content annotations service that annotates history visits, stores annotations, logs UKM metrics, and extracts related searches.
+// ---
+
 #include "components/page_content_annotations/core/page_content_annotations_service.h"
 
 #include <algorithm>

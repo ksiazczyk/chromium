@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the ownership component
+summary: GN build file that defines the ownership component sources, dependencies, and the unit_tests target for ChromeOS.

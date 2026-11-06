@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageServiceConsentHelper class declaration
+// summary: Declares a SyncServiceObserver helper that decides when images may be fetched for synced entities and enqueues requests until sync is ready.
+// ---
+
 #ifndef COMPONENTS_PAGE_IMAGE_SERVICE_IMAGE_SERVICE_CONSENT_HELPER_H_
 #define COMPONENTS_PAGE_IMAGE_SERVICE_IMAGE_SERVICE_CONSENT_HELPER_H_
 

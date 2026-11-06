@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test page content annotations service header
+// summary: Declares TestPageContentAnnotationsService, a testing subclass of PageContentAnnotationsService for use in unit tests.
+// ---
+
 #ifndef COMPONENTS_PAGE_CONTENT_ANNOTATIONS_CORE_TEST_PAGE_CONTENT_ANNOTATIONS_SERVICE_H_
 #define COMPONENTS_PAGE_CONTENT_ANNOTATIONS_CORE_TEST_PAGE_CONTENT_ANNOTATIONS_SERVICE_H_
 

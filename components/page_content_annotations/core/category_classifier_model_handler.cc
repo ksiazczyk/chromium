@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Category classifier model handler implementation
+// summary: Implements the category classifier model handler, including mean and max pooling of passage embeddings and construction of the model input vector.
+// ---
+
 #include "components/page_content_annotations/core/category_classifier_model_handler.h"
 
 #include <algorithm>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for os_crypt async common
+summary: Grants the directory include access to the crypto and mojo/public trees.

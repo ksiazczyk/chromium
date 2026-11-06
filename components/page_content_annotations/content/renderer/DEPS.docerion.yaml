@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the renderer directory
+summary: Specifies the allowed include paths for the page content annotations renderer directory, covering content, Mojo, Blink, and ui/base.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: On-device category classifier header
+// summary: Declares OnDeviceCategoryClassifier, which manages loading and execution of category classifier models and notifies observers of classification results.
+// ---
+
 #ifndef COMPONENTS_PAGE_CONTENT_ANNOTATIONS_CORE_ON_DEVICE_CATEGORY_CLASSIFIER_H_
 #define COMPONENTS_PAGE_CONTENT_ANNOTATIONS_CORE_ON_DEVICE_CATEGORY_CLASSIFIER_H_
 

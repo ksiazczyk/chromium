@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PageSettledMonitor browser tests
+// summary: Browser tests that verify PageSettledMonitor's state and milestone flow using mocked page stability monitors and delegate hooks.
+// ---
+
 #include "components/page_content_annotations/content/browser/page_settled_monitor.h"
 
 #include <memory>

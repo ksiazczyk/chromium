@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the OS crypt async browser component
+summary: Defines build targets, sources and platform-conditional dependencies for the os_crypt async browser code, including test support and per-platform key providers.

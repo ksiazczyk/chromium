@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebStateWrapper header with PageContentVisibility enum
+// summary: Declares the WebStateWrapper struct and the PageContentVisibility enum to wrap WebContents and WebState data uniformly across platforms.
+// ---
+
 #ifndef COMPONENTS_PAGE_CONTENT_ANNOTATIONS_CORE_WEB_STATE_WRAPPER_H_
 #define COMPONENTS_PAGE_CONTENT_ANNOTATIONS_CORE_WEB_STATE_WRAPPER_H_
 

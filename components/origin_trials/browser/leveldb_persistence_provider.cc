@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LevelDB persistence provider implementation
+// summary: Implements persistent origin trial token storage in a LevelDB proto database with an in-memory cache, revalidating tokens and cleaning up expired entries.
+// ---
+
 #include "components/origin_trials/browser/leveldb_persistence_provider.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the freedesktop secret key provider
+// summary: Tests FreedesktopSecretKeyProvider D-Bus interactions with mock bus and object proxies, including unlock prompts and KWallet flows.
+// ---
+
 #include "components/os_crypt/async/browser/freedesktop_secret_key_provider.h"
 
 #include <cstdint>

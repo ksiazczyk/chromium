@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OSCryptAsync unit tests
+// summary: Tests OSCryptAsync behavior including provider precedence for encryption, decryption across providers, key ring assembly, and initialization edge cases.
+// ---
+
 #include "components/os_crypt/async/browser/os_crypt_async.h"
 
 #include <optional>

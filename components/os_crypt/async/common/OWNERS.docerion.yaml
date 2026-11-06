@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS rules for Mojo and typemap files
+summary: Routes changes to *.mojom and *_mojom_traits files to the IPC security owners for review.

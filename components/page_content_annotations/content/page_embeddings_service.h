@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageEmbeddingsService class declaration
+// summary: Declares the PageEmbeddingsService keyed service, its Priority and UsageMode enums, observer interface, ScopedPriority helper, and candidate generator callback for computing page embeddings.
+// ---
+
 #ifndef COMPONENTS_PAGE_CONTENT_ANNOTATIONS_CONTENT_PAGE_EMBEDDINGS_SERVICE_H_
 #define COMPONENTS_PAGE_CONTENT_ANNOTATIONS_CONTENT_PAGE_EMBEDDINGS_SERVICE_H_
 

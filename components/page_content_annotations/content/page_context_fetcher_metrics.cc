@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page context fetcher metrics implementation
+// summary: Records UMA histograms for PDF text and bytes extraction, PDF contents requests and screenshot capture status in the page context fetcher.
+// ---
+
 #include "components/page_content_annotations/content/page_context_fetcher_metrics.h"
 
 #include "base/metrics/histogram_functions.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test encryptor implementation
+// summary: Implements TestEncryptor, an Encryptor subclass whose encryption and decryption availability can be overridden for use in higher-level tests.
+// ---
+
 #include "components/os_crypt/async/common/test_encryptor.h"
 
 #include "components/os_crypt/async/common/encryptor.h"

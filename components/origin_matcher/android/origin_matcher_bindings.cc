@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JNI bindings for OriginMatcher
+// summary: C++ JNI bridge that creates, destroys, matches, updates and serializes the native OriginMatcher on behalf of its Java counterpart.
+// ---
+
 #include "base/android/jni_android.h"
 #include "base/android/jni_array.h"
 #include "base/android/jni_string.h"

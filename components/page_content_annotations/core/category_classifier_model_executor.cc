@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Category classifier model executor implementation
+// summary: Implements preprocessing and postprocessing for the category classifier TFLite model, converting a float embedding input into a single probability output.
+// ---
+
 #include "components/page_content_annotations/core/category_classifier_model_executor.h"
 
 #include <optional>

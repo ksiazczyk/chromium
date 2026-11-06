@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Annotation type to string conversion
+// summary: Implements AnnotationTypeToString, mapping annotation types to strings used in UMA histogram names.
+// ---
+
 #include "components/page_content_annotations/core/page_content_annotation_type.h"
 
 #include "base/notreached.h"

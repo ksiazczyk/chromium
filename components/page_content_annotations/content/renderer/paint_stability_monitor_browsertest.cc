@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Paint stability monitor browser tests
+// summary: Browser tests verifying that PaintStabilityMonitor reaches paint stability after initial and subsequent paint timeouts across scenarios like no contentful paint and single paint updates.
+// ---
+
 #include "components/page_content_annotations/content/renderer/paint_stability_monitor.h"
 
 #include <memory>

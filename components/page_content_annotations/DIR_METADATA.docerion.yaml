@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Page content annotations DIR_METADATA
+summary: Component metadata file that inherits common metadata from the optimization guide component via a mixin.

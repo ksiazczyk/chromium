@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AnnotatedPageContentRequest class declaration
+// summary: Declares the AnnotatedPageContentRequest WebContentsObserver that manages the lifecycle of page content extraction for a WebContents main frame.
+// ---
+
 #ifndef COMPONENTS_PAGE_CONTENT_ANNOTATIONS_CONTENT_ANNOTATE_PAGE_CONTENT_REQUEST_H_
 #define COMPONENTS_PAGE_CONTENT_ANNOTATIONS_CONTENT_ANNOTATE_PAGE_CONTENT_REQUEST_H_
 

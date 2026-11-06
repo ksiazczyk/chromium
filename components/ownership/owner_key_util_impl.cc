@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Owner key utility implementation
+// summary: Implements OwnerKeyUtilImpl, which reads the owner public key from disk and generates RSA key pairs via NSS.
+// ---
+
 #include "components/ownership/owner_key_util_impl.h"
 
 #include <keythi.h>

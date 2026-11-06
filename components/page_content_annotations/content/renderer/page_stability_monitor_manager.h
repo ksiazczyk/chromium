@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageStabilityMonitorManager class declaration
+// summary: Declares the RenderFrameObserver factory that owns and manages PageStabilityMonitor instances through Mojo receiver sets.
+// ---
+
 #ifndef COMPONENTS_PAGE_CONTENT_ANNOTATIONS_CONTENT_RENDERER_PAGE_STABILITY_MONITOR_MANAGER_H_
 #define COMPONENTS_PAGE_CONTENT_ANNOTATIONS_CONTENT_RENDERER_PAGE_STABILITY_MONITOR_MANAGER_H_
 

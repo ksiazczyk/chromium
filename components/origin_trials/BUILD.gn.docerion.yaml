@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the origin trials component
+summary: Defines GN source sets and a proto library for browser-side origin trials support, covering persistence, token handling, proto utilities and unit tests.

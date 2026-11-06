@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AnnotatedPageContentRequest unit tests
+// summary: Unit tests covering the page content request state machine, including extraction triggers, PDF text handling, and recorded metrics.
+// ---
+
 #include "components/page_content_annotations/content/annotate_page_content_request.h"
 
 #include <cstdint>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Category classifier model executor header
+// summary: Declares CategoryClassifierModelExecutor, a BaseModelExecutor that runs models with float vector input and a single float output probability.
+// ---
+
 #ifndef COMPONENTS_PAGE_CONTENT_ANNOTATIONS_CORE_CATEGORY_CLASSIFIER_MODEL_EXECUTOR_H_
 #define COMPONENTS_PAGE_CONTENT_ANNOTATIONS_CORE_CATEGORY_CLASSIFIER_MODEL_EXECUTOR_H_
 

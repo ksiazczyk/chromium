@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page content annotations validator unit tests
+// summary: Unit tests for PageContentAnnotationsValidator covering validation runs enabled by feature flags and command-line switches.
+// ---
+
 #include "components/page_content_annotations/core/page_content_annotations_validator.h"
 
 #include "base/command_line.h"

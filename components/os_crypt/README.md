@@ -1,3 +1,9 @@
+---
+type: readme
+title: OS Crypt directory overview
+summary: Describes the OSCrypt implementations that bind data to the OS user and points to the sync and async interface READMEs.
+---
+
 ***OS Crypt***
 
 This directory contains `OSCrypt` implementations that support cryptographic

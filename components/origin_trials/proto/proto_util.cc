@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Origin trials proto conversion utilities implementation
+// summary: Implements helpers that serialize base::Time values and convert persisted trial tokens for an origin into TrialTokenDbEntries protobuf messages.
+// ---
+
 #include "components/origin_trials/proto/proto_util.h"
 
 namespace origin_trials_pb {

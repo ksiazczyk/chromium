@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page visibility model handler interface
+// summary: Declares the PageVisibilityModelHandler class, a model handler and job executor that produces content visibility annotation results from model output.
+// ---
+
 #ifndef COMPONENTS_PAGE_CONTENT_ANNOTATIONS_CORE_PAGE_VISIBILITY_MODEL_HANDLER_H_
 #define COMPONENTS_PAGE_CONTENT_ANNOTATIONS_CORE_PAGE_VISIBILITY_MODEL_HANDLER_H_
 

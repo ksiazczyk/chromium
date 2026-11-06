@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for page content annotations browser
+summary: Defines the browser source set for page content annotations, listing the page_settled_monitor sources and dependencies, with PDF-specific deps added conditionally.

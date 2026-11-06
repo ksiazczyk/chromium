@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page content annotations web contents observer declarations
+// summary: Declares the WebContents observer that dispatches page content to the annotations service and exposes content visibility scores.
+// ---
+
 #ifndef COMPONENTS_PAGE_CONTENT_ANNOTATIONS_CONTENT_PAGE_CONTENT_ANNOTATIONS_WEB_CONTENTS_OBSERVER_H_
 #define COMPONENTS_PAGE_CONTENT_ANNOTATIONS_CONTENT_PAGE_CONTENT_ANNOTATIONS_WEB_CONTENTS_OBSERVER_H_
 

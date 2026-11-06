@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageStabilityMonitor class declaration
+// summary: Declares a single-use RenderFrameObserver and Mojo PageStabilityMonitor that invokes a callback when the page is stable or the document goes away.
+// ---
+
 #ifndef COMPONENTS_PAGE_CONTENT_ANNOTATIONS_CONTENT_RENDERER_PAGE_STABILITY_MONITOR_H_
 #define COMPONENTS_PAGE_CONTENT_ANNOTATIONS_CONTENT_RENDERER_PAGE_STABILITY_MONITOR_H_
 

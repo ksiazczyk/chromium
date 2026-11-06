@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Freedesktop Secret Service key provider implementation
+// summary: Implements key retrieval via the org.freedesktop.secrets D-Bus interface, including prompt handling and KWallet fallback logic.
+// ---
+
 #include "components/os_crypt/async/browser/freedesktop_secret_key_provider.h"
 
 #include <algorithm>

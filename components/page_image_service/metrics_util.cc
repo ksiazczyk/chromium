@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metrics client ID string conversion
+// summary: Implements ClientIdToString, mapping PageImageService mojom ClientId values to non-empty strings used as UMA histogram suffixes.
+// ---
+
 #include "components/page_image_service/metrics_util.h"
 
 namespace page_image_service {

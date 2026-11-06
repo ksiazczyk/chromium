@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test page content annotator header
+// summary: Declares TestPageContentAnnotator, a stub annotator for unit tests with configurable visibility scores and hang behavior.
+// ---
+
 #ifndef COMPONENTS_PAGE_CONTENT_ANNOTATIONS_CORE_TEST_PAGE_CONTENT_ANNOTATOR_H_
 #define COMPONENTS_PAGE_CONTENT_ANNOTATIONS_CORE_TEST_PAGE_CONTENT_ANNOTATOR_H_
 

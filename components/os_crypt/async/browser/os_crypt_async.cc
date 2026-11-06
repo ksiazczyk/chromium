@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OSCryptAsync implementation
+// summary: Implements the OSCryptAsync factory that sorts key providers by precedence, builds the key ring from their keys, and vends initialized Encryptor instances.
+// ---
+
 #include "components/os_crypt/async/browser/os_crypt_async.h"
 
 #include <algorithm>

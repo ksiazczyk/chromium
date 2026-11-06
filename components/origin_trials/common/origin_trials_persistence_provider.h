@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OriginTrialsPersistenceProvider interface
+// summary: Declares the OriginTrialsPersistenceProvider interface for retrieving, saving, and clearing persisted origin trial tokens keyed by site.
+// ---
+
 #ifndef COMPONENTS_ORIGIN_TRIALS_COMMON_ORIGIN_TRIALS_PERSISTENCE_PROVIDER_H_
 #define COMPONENTS_ORIGIN_TRIALS_COMMON_ORIGIN_TRIALS_PERSISTENCE_PROVIDER_H_
 

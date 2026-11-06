@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageServiceHandler implementation
+// summary: Implements the mojo PageImageServiceHandler that forwards GetPageImageUrl requests to the ImageService and returns the resolved image URL or null to the caller.
+// ---
+
 #include "components/page_image_service/image_service_handler.h"
 
 #include "components/page_image_service/image_service.h"

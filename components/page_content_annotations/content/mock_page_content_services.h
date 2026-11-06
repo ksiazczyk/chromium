@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock page content services declarations
+// summary: Declares mock page content extraction and embeddings services and helper functions for creating test extraction results and embeddings.
+// ---
+
 #ifndef COMPONENTS_PAGE_CONTENT_ANNOTATIONS_CONTENT_MOCK_PAGE_CONTENT_SERVICES_H_
 #define COMPONENTS_PAGE_CONTENT_ANNOTATIONS_CONTENT_MOCK_PAGE_CONTENT_SERVICES_H_
 

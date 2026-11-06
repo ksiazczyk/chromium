@@ -1,0 +1,4 @@
+# Docerion header of algorithm.mojom.
+type: source
+title: algorithm.mojom encryption algorithm enum
+summary: Defines the os_crypt_async.mojom Algorithm enum listing the AES-256-GCM and AES-128-CBC encryption algorithms.

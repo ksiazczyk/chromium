@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page content annotations common implementation
+// summary: Implements WeightedIdentifier and BatchAnnotationResult helpers, including JSON and string serialization of annotation results.
+// ---
+
 #include "components/page_content_annotations/core/page_content_annotations_common.h"
 
 #include <algorithm>

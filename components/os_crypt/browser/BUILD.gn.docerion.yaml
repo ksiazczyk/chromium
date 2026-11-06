@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the os_crypt browser component
+summary: GN build file defining forwarding groups for browser, test support, and platform-specific key provider targets that point to the os_crypt async browser component.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: os_crypt common build targets
+summary: Defines GN targets for the os_crypt common component, including the switches and Mac keychain password source sets plus their unit tests.

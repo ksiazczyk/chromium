@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageImageService metrics utilities
+// summary: Defines UMA histogram names, backend, result, and consent status enums, plus helpers for recording PageImageService metrics sliced by client ID.
+// ---
+
 #ifndef COMPONENTS_PAGE_IMAGE_SERVICE_METRICS_UTIL_H_
 #define COMPONENTS_PAGE_IMAGE_SERVICE_METRICS_UTIL_H_
 

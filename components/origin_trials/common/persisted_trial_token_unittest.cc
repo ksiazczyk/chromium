@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PersistedTrialToken unit tests
+// summary: Contains GTest unit tests for PersistedTrialToken covering construction from blink tokens, partition membership, and sort ordering.
+// ---
+
 #include "components/origin_trials/common/persisted_trial_token.h"
 
 #include <string>

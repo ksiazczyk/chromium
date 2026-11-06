@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page content annotations command-line switches
+// summary: Defines command-line switches and helper functions controlling page content annotations logging and validation behavior.
+// ---
+
 #include "components/page_content_annotations/core/page_content_annotations_switches.h"
 
 #include "base/command_line.h"

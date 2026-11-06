@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OriginTrials class declaration
+// summary: Declares the OriginTrials KeyedService that implements the origin trials controller delegate for persistent trials in the browser process.
+// ---
+
 #ifndef COMPONENTS_ORIGIN_TRIALS_BROWSER_ORIGIN_TRIALS_H_
 #define COMPONENTS_ORIGIN_TRIALS_BROWSER_ORIGIN_TRIALS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF content fetcher declarations
+// summary: Declares the API to fetch PDF content (bytes or text) for a WebContents, plus testing helpers for converting extracted PDF bytes and text into results.
+// ---
+
 #ifndef COMPONENTS_PAGE_CONTENT_ANNOTATIONS_CONTENT_PDF_CONTENT_FETCHER_H_
 #define COMPONENTS_PAGE_CONTENT_ANNOTATIONS_CONTENT_PDF_CONTENT_FETCHER_H_
 

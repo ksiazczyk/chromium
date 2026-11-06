@@ -1,0 +1,4 @@
+# Docerion header of keychain_key_provider_unittest.mm.
+type: test
+title: Keychain key provider unit tests
+summary: Tests the Keychain key provider against a fake Keychain, covering successful key derivation plus not-found, auth-failed, and other error cases.

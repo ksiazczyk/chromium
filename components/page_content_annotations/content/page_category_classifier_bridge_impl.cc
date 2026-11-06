@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page category classifier bridge implementation
+// summary: Implements the bridge that observes the page embeddings service and forwards available embeddings to the on-device category classifier.
+// ---
+
 #include "components/page_content_annotations/content/page_category_classifier_bridge_impl.h"
 
 #include <optional>

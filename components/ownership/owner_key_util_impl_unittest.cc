@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OwnerKeyUtilImpl unit tests
+// summary: Unit tests for OwnerKeyUtilImpl that verify importing the owner public key from disk and failure handling for missing or empty key files.
+// ---
+
 #include "components/ownership/owner_key_util_impl.h"
 
 #include <stdint.h>

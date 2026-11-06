@@ -1,0 +1,4 @@
+# Docerion header of origin_matcher.mojom.
+type: source
+title: Mojo definitions for origin matcher rules
+summary: Defines Mojo structs for serializing OriginMatcher and its rules across process boundaries.

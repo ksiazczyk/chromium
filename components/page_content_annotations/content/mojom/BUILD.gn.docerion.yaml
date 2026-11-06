@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for page_content_annotations mojom target
+summary: Defines the mojom build target that compiles page_stability.mojom with a public dependency on Mojo base bindings.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Freedesktop Secret Service key provider declaration
+// summary: Declares FreedesktopSecretKeyProvider, which retrieves secrets from GNOME Keyring, KWallet or KeePassXC over D-Bus and falls back to PosixKeyProvider.
+// ---
+
 #ifndef COMPONENTS_OS_CRYPT_ASYNC_BROWSER_FREEDESKTOP_SECRET_KEY_PROVIDER_H_
 #define COMPONENTS_OS_CRYPT_ASYNC_BROWSER_FREEDESKTOP_SECRET_KEY_PROVIDER_H_
 

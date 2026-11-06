@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageSettledMonitor implementation
+// summary: Implements PageSettledMonitor, which tracks page stability, load completion, PDF loading, visual state updates and LCP delays to decide when a page has settled.
+// ---
+
 #include "components/page_content_annotations/content/browser/page_settled_monitor.h"
 
 #include <optional>

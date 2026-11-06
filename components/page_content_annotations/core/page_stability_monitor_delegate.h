@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page stability monitor delegate interface
+// summary: Declares the PageStabilityMonitorDelegate interface that lets features observe stability state transitions and events and override timeout configuration.
+// ---
+
 #ifndef COMPONENTS_PAGE_CONTENT_ANNOTATIONS_CORE_PAGE_STABILITY_MONITOR_DELEGATE_H_
 #define COMPONENTS_PAGE_CONTENT_ANNOTATIONS_CORE_PAGE_STABILITY_MONITOR_DELEGATE_H_
 

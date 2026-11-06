@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Internal origin matcher rule declarations
+// summary: Declares the OriginMatcherRule base class and its concrete rule types used by the matcher.
+// ---
+
 #ifndef COMPONENTS_ORIGIN_MATCHER_ORIGIN_MATCHER_INTERNAL_H_
 #define COMPONENTS_ORIGIN_MATCHER_ORIGIN_MATCHER_INTERNAL_H_
 

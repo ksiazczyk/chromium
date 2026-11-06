@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestPersistenceProvider header for origin trials tests
+// summary: Declares TestPersistenceProvider, an in-memory implementation of OriginTrialsPersistenceProvider used for testing origin trials token persistence.
+// ---
+
 #ifndef COMPONENTS_ORIGIN_TRIALS_TEST_TEST_PERSISTENCE_PROVIDER_H_
 #define COMPONENTS_ORIGIN_TRIALS_TEST_TEST_PERSISTENCE_PROVIDER_H_
 

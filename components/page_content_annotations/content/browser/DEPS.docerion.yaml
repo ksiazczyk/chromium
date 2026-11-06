@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for page content annotations browser
+summary: Sets include rules for the directory, allowing page load metrics, mojo bindings and blink associated interfaces, plus content shell access for the browser test.

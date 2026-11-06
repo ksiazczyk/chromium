@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: os_crypt DIR_METADATA
+summary: Sets the issue tracking component for the os_crypt directory in Monorail and Buganizer.

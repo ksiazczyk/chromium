@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows OSCrypt key initialization header
+// summary: Declares Init, InitWithExistingKey, and RegisterLocalPrefs for initializing the Windows v10 OSCrypt key from local state during browser startup.
+// ---
+
 #ifndef COMPONENTS_OS_CRYPT_ASYNC_BROWSER_OS_CRYPT_WIN_H_
 #define COMPONENTS_OS_CRYPT_ASYNC_BROWSER_OS_CRYPT_WIN_H_
 

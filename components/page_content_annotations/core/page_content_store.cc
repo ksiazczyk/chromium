@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page content store implementation
+// summary: Implements PageContentStore, an SQLite-backed store for PageContext protos with table creation, indexes, error recovery and encrypted page content entries.
+// ---
+
 #include "components/page_content_annotations/core/page_content_store.h"
 
 #include <set>

@@ -1,3 +1,11 @@
+---
+type: guide
+title: Page Content Extraction Service (PCES) guide
+summary: Developer guide explaining the PCES architecture, when to prefer it over the GetAIPageContent Mojo API, and usage examples for observers and on-demand content requests.
+relations:
+  - documents /components/page_content_annotations/content/page_content_extraction_service.h
+---
+
 # Page Content Extraction Service (PCES)
 
 The Page Content Extraction Service (PCES) is a browser-process coordination

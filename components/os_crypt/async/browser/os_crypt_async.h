@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OSCryptAsync class header
+// summary: Declares the OSCryptAsync class that vends Encryptor instances built from precedence-ranked key providers, with the highest-precedence encryption-capable provider used for encryption.
+// ---
+
 #ifndef COMPONENTS_OS_CRYPT_ASYNC_BROWSER_OS_CRYPT_ASYNC_H_
 #define COMPONENTS_OS_CRYPT_ASYNC_BROWSER_OS_CRYPT_ASYNC_H_
 

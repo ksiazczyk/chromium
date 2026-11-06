@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock owner key utility implementation
+// summary: Implements MockOwnerKeyUtil for tests, including a pre-generated RSA private key and helpers to configure or fail key operations.
+// ---
+
 #include "components/ownership/mock_owner_key_util.h"
 
 #include <nss.h>

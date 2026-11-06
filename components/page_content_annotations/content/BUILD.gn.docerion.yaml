@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for page content annotations content
+summary: Defines GN source sets for metrics, content extraction, page embeddings, test support, and unit tests with their dependencies in the page content annotations component.

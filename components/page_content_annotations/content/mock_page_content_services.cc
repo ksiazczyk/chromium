@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock page content services implementation
+// summary: Implements mock page content extraction and embeddings services plus helpers that build test extraction results and passage embeddings.
+// ---
+
 #include "components/page_content_annotations/content/mock_page_content_services.h"
 
 #include "base/memory/scoped_refptr.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AnnotatedPageContentRequest implementation
+// summary: Implements the AnnotatedPageContentRequest state machine that observes navigation and load events to extract annotated page content or PDF text.
+// ---
+
 #include "components/page_content_annotations/content/annotate_page_content_request.h"
 
 #include <cstddef>

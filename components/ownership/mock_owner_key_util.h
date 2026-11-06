@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock owner key utility class declaration
+// summary: Declares MockOwnerKeyUtil, a test-only OwnerKeyUtil that allows setting, importing, clearing, and simulating failures of owner keys.
+// ---
+
 #ifndef COMPONENTS_OWNERSHIP_MOCK_OWNER_KEY_UTIL_H_
 #define COMPONENTS_OWNERSHIP_MOCK_OWNER_KEY_UTIL_H_
 

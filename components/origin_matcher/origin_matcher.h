@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OriginMatcher class declaration
+// summary: Declares the OriginMatcher API and documents the supported rule syntax for wildcard subdomain matching.
+// ---
+
 #ifndef COMPONENTS_ORIGIN_MATCHER_ORIGIN_MATCHER_H_
 #define COMPONENTS_ORIGIN_MATCHER_ORIGIN_MATCHER_H_
 

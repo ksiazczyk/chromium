@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SecretPortalKeyProvider class declaration
+// summary: Declares the key provider that uses org.freedesktop.portal.Secret to fetch a secret, with init status enum, prefs and D-Bus constants.
+// ---
+
 #ifndef COMPONENTS_OS_CRYPT_ASYNC_BROWSER_SECRET_PORTAL_KEY_PROVIDER_H_
 #define COMPONENTS_OS_CRYPT_ASYNC_BROWSER_SECRET_PORTAL_KEY_PROVIDER_H_
 

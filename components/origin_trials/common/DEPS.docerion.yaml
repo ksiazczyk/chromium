@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for origin trials common
+summary: Defines the allowed include rules for the common origin trials component, permitting content, net, and blink trial token headers.

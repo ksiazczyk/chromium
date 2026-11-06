@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Simple page content verbalization implementation
+// summary: Converts AnnotatedPageContent and PDF text into passages by collecting text from content nodes and splitting it by word limits.
+// ---
+
 #include "components/page_content_annotations/core/simple_page_content_verbalization.h"
 
 #include "base/strings/strcat.h"

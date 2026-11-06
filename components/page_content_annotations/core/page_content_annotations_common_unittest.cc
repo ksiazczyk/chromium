@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page content annotations common unit tests
+// summary: Unit tests verifying that GenerateRapporNoisedScore bounds and buckets noised scores correctly.
+// ---
+
 #include "components/page_content_annotations/core/page_content_annotations_common.h"
 
 #include <cmath>

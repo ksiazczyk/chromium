@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SecretPortalKeyProvider unit tests
+// summary: Unit tests for SecretPortalKeyProvider using mock D-Bus bus and object proxies to simulate portal secret retrieval.
+// ---
+
 #include "components/os_crypt/async/browser/secret_portal_key_provider.h"
 
 #include <map>

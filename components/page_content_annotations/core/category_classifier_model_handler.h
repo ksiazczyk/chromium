@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Category classifier model handler header
+// summary: Declares CategoryClassifierModelHandler, which provides the required embedder version and builds input vectors from title-URL and passage embeddings.
+// ---
+
 #ifndef COMPONENTS_PAGE_CONTENT_ANNOTATIONS_CORE_CATEGORY_CLASSIFIER_MODEL_HANDLER_H_
 #define COMPONENTS_PAGE_CONTENT_ANNOTATIONS_CORE_CATEGORY_CLASSIFIER_MODEL_HANDLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page content annotation job executor implementation
+// summary: Implements job execution that schedules each job input for model execution and completes the job via a barrier closure.
+// ---
+
 #include "components/page_content_annotations/core/page_content_annotation_job_executor.h"
 
 #include "base/barrier_closure.h"

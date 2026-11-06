@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Origin matcher Mojo traits header
+// summary: Declares StructTraits templates that map OriginMatcher and its rule objects to Mojo data views for IPC serialization.
+// ---
+
 #ifndef COMPONENTS_ORIGIN_MATCHER_ORIGIN_MATCHER_MOJOM_TRAITS_H_
 #define COMPONENTS_ORIGIN_MATCHER_ORIGIN_MATCHER_MOJOM_TRAITS_H_
 

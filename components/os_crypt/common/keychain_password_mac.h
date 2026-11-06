@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeychainPassword class declaration for macOS
+// summary: Declares the KeychainPassword class that fetches or creates the OSCrypt password stored in the Mac keychain, along with the service and account name accessors.
+// ---
+
 #ifndef COMPONENTS_OS_CRYPT_COMMON_KEYCHAIN_PASSWORD_MAC_H_
 #define COMPONENTS_OS_CRYPT_COMMON_KEYCHAIN_PASSWORD_MAC_H_
 

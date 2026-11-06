@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the page image service Mojom directory
+summary: Lists directory owners and requires IPC security owner approval for mojom and mojom traits files.

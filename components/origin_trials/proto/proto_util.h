@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Origin trials proto conversion utilities header
+// summary: Declares time serialization helpers and ProtoFromTokens for converting persisted trial tokens into protobuf database entries.
+// ---
+
 #ifndef COMPONENTS_ORIGIN_TRIALS_PROTO_PROTO_UTIL_H_
 #define COMPONENTS_ORIGIN_TRIALS_PROTO_PROTO_UTIL_H_
 

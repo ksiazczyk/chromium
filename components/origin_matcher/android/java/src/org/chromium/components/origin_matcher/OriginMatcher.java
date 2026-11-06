@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OriginMatcher
+// summary: Thread-safe Java wrapper around the native origin_matcher implementation that matches origins against rules via JNI and must be cleaned up with destroy.
+// ---
+
 package org.chromium.components.origin_matcher;
 
 import android.net.Uri;

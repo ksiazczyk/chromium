@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: On-device category classifier implementation
+// summary: Implements the on-device category classifier, running education and shopping classifier models on page embeddings and notifying observers of the results.
+// ---
+
 #include "components/page_content_annotations/core/on_device_category_classifier.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PersistedTrialToken implementation
+// summary: Implements the PersistedTrialToken class, including partition site management, token matching, ordering, and debug stream output.
+// ---
+
 #include "components/origin_trials/common/persisted_trial_token.h"
 
 #include <tuple>

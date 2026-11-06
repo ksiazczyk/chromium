@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageServiceImpl class declaration
+// summary: Declares ImageServiceImpl, which fetches image URLs for pages and entities using Optimization Guide hints and Suggest, with batching state and consent helper plumbing.
+// ---
+
 #ifndef COMPONENTS_PAGE_IMAGE_SERVICE_IMAGE_SERVICE_IMPL_H_
 #define COMPONENTS_PAGE_IMAGE_SERVICE_IMAGE_SERVICE_IMPL_H_
 
