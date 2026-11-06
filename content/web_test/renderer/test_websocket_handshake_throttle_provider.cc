@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test WebSocket handshake throttle provider
+// summary: Implements a test WebSocket handshake throttle provider that delays handshakes by milliseconds taken from a content-shell-websocket-delay-ms URL query parameter.
+// ---
+
 #include "content/web_test/renderer/test_websocket_handshake_throttle_provider.h"
 
 #include <string_view>

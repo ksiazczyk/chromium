@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners for accessibility controller files
+summary: Assigns ownership of the accessibility controller and AX object proxy files to the accessibility team reviewers.

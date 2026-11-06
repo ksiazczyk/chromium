@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web test push messaging service header
+// summary: Declares WebTestPushMessagingService, a test implementation of the browser push messaging service used by the web test browser.
+// ---
+
 #ifndef CONTENT_WEB_TEST_BROWSER_WEB_TEST_PUSH_MESSAGING_SERVICE_H_
 #define CONTENT_WEB_TEST_BROWSER_WEB_TEST_PUSH_MESSAGING_SERVICE_H_
 

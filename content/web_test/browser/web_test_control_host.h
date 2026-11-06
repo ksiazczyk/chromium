@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web test control host and result printer declarations
+// summary: Declares the WebTestControlHost class that drives web tests from the browser process and the WebTestResultPrinter that formats text, image, and audio test output.
+// ---
+
 #ifndef CONTENT_WEB_TEST_BROWSER_WEB_TEST_CONTROL_HOST_H_
 #define CONTENT_WEB_TEST_BROWSER_WEB_TEST_CONTROL_HOST_H_
 

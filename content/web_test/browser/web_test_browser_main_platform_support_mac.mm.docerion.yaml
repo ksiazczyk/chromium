@@ -1,0 +1,4 @@
+# Docerion header of web_test_browser_main_platform_support_mac.mm.
+type: source
+title: Mac and iOS platform support for web test browser startup
+summary: Sets macOS user defaults to match Blink web test expectations, disables AppNap, suppresses popup menus, and exposes test TLS certificates to the sandbox.

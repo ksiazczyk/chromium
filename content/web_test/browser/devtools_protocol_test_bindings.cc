@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools protocol test bindings implementation
+// summary: Implements browser-side bindings that let inspector protocol tests drive DevTools through a fake agent host, including mapping test URLs and replaying scripted protocol message logs.
+// ---
+
 #include "content/web_test/browser/devtools_protocol_test_bindings.h"
 
 #include <string_view>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web test browser main runner implementation
+// summary: Implements the browser-process main runner for web tests, handling test lists, result output, and stdio redirection over TCP on Fuchsia and iOS.
+// ---
+
 #include "content/web_test/browser/web_test_browser_main_runner.h"
 
 #include <iostream>

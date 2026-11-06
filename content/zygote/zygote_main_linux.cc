@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Zygote startup and sandbox entry
+// summary: Implements ZygoteMain, entering the setuid or namespace sandbox, becoming init in a new PID namespace, and running the zygote request loop.
+// ---
+
 #include "content/zygote/zygote_main.h"
 
 #include <dlfcn.h>

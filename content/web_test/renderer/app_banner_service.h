@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App banner service class declaration
+// summary: Declares the test AppBannerService registered as a Mojo service for BeforeInstallPromptEvents when the test runner runs.
+// ---
+
 #ifndef CONTENT_WEB_TEST_RENDERER_APP_BANNER_SERVICE_H_
 #define CONTENT_WEB_TEST_RENDERER_APP_BANNER_SERVICE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web test cookie manager implementation
+// summary: Implements the CookieManagerAutomation mojom interface for web tests, forwarding cookie deletion and retrieval requests to the network service cookie manager.
+// ---
+
 #include "content/web_test/browser/web_test_cookie_manager.h"
 
 #include "content/public/browser/storage_partition.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web test device posture provider class declaration
+// summary: Declares WebTestDevicePostureProvider, which lets web tests set and clear device posture overrides for a render frame host.
+// ---
+
 #ifndef CONTENT_WEB_TEST_BROWSER_WEB_TEST_DEVICE_POSTURE_PROVIDER_H_
 #define CONTENT_WEB_TEST_BROWSER_WEB_TEST_DEVICE_POSTURE_PROVIDER_H_
 

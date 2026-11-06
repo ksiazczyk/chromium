@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Zygote class interface
+// summary: Declares the Zygote class and its handling of browser requests, forking with real PIDs, and child process bookkeeping.
+// ---
+
 #ifndef CONTENT_ZYGOTE_ZYGOTE_LINUX_H_
 #define CONTENT_ZYGOTE_ZYGOTE_LINUX_H_
 

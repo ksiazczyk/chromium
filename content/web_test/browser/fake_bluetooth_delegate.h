@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Bluetooth delegate class declaration
+// summary: Declares the FakeBluetoothDelegate class, which fakes Web Bluetooth permissions and maps device addresses to Web Bluetooth device IDs for web tests.
+// ---
+
 #ifndef CONTENT_WEB_TEST_BROWSER_FAKE_BLUETOOTH_DELEGATE_H_
 #define CONTENT_WEB_TEST_BROWSER_FAKE_BLUETOOTH_DELEGATE_H_
 

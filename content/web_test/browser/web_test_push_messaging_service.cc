@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web test push messaging service implementation
+// summary: Provides a fake PushMessagingService for web tests with fixed P-256 and authentication keys, handling subscriptions, unsubscription and service worker deletion events.
+// ---
+
 
 #include "content/web_test/browser/web_test_push_messaging_service.h"
 

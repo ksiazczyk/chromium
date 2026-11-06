@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test plugin class declaration
+// summary: Declares TestPlugin, a fake blink::WebPlugin implementation for testing that paints primitives over backgrounds and can accept touch events.
+// ---
+
 
 #ifndef CONTENT_WEB_TEST_RENDERER_TEST_PLUGIN_H_
 #define CONTENT_WEB_TEST_RENDERER_TEST_PLUGIN_H_

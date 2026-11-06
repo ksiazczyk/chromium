@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test plugin implementation for web tests
+// summary: Implements the fake blink::WebPlugin test plugin that paints configurable GL scenes and reports touch and input events during web tests.
+// ---
+
 #include "content/web_test/renderer/test_plugin.h"
 
 #include <stddef.h>

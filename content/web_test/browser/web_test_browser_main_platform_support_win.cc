@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows platform support for web test browser startup
+// summary: Side-loads the Ahem test font and verifies Windows system font, DPI, and theme settings required before running web tests.
+// ---
+
 #include "content/web_test/browser/web_test_browser_main_platform_support.h"
 
 #include <windows.h>

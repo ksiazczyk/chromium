@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for web test common
+summary: Defines allowed include dependencies for the content/web_test/common directory, permitting v8 includes and content public common headers.

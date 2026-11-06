@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web test browser context header
+// summary: Declares WebTestBrowserContext, a ShellBrowserContext subclass overriding service getters with web test implementations.
+// ---
+
 #ifndef CONTENT_WEB_TEST_BROWSER_WEB_TEST_BROWSER_CONTEXT_H_
 #define CONTENT_WEB_TEST_BROWSER_WEB_TEST_BROWSER_CONTEXT_H_
 

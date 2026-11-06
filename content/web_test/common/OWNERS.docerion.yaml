@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS rules for web test common
+summary: Assigns per-file ownership of IPC message and mojom files in this directory to the IPC security owners.

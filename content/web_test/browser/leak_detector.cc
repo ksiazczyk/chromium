@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web test leak detector implementation
+// summary: Implements the browser-side leak detector that counts live DOM objects via Mojo and reports increases between page loads as leaks during web tests.
+// ---
+
 #include "content/web_test/browser/leak_detector.h"
 
 #include <utility>

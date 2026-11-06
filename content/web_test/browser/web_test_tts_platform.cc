@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebTestTtsPlatform implementation
+// summary: Dummy text-to-speech platform for web tests that simulates start, end, pause and resume events without real speech output.
+// ---
+
 #include "content/web_test/browser/web_test_tts_platform.h"
 
 #include "base/functional/bind.h"

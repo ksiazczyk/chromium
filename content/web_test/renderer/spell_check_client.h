@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Spell check client header
+// summary: Declares SpellCheckClient, the web test spell checker client with enablement control, custom words and a resolved callback hook.
+// ---
+
 #ifndef CONTENT_WEB_TEST_RENDERER_SPELL_CHECK_CLIENT_H_
 #define CONTENT_WEB_TEST_RENDERER_SPELL_CHECK_CLIENT_H_
 

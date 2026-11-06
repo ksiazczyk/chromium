@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web test JavaScript dialog manager implementation
+// summary: Implements a JavaScript dialog manager for web tests that optionally dumps alert, confirm, prompt and beforeunload dialog messages to the test printer.
+// ---
+
 #include "content/web_test/browser/web_test_javascript_dialog_manager.h"
 
 #include <utility>

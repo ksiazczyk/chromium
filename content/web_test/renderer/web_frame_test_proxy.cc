@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebFrameTestProxy implementation
+// summary: Implements the RenderFrameImpl subclass used in web tests, injecting test-only frame behavior and installing test helper controllers.
+// ---
+
 #include "content/web_test/renderer/web_frame_test_proxy.h"
 
 #include "base/memory/raw_ptr.h"

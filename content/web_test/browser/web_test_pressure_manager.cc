@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web test pressure manager implementation
+// summary: Implements the WebPressureManagerAutomation Mojo interface so web tests can create, update and remove virtual compute pressure sources via WebContentsPressureManagerProxy.
+// ---
+
 #include "content/web_test/browser/web_test_pressure_manager.h"
 
 #include "content/browser/compute_pressure/web_contents_pressure_manager_proxy.h"

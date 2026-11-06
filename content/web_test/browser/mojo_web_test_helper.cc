@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo web test helper implementation
+// summary: Implements a self-owned Mojo service whose Reverse method returns the reversed input string, used to exercise Mojo from web tests.
+// ---
+
 #include "content/web_test/browser/mojo_web_test_helper.h"
 
 #include <memory>

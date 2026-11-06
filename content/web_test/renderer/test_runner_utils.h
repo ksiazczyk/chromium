@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test runner utilities declaration
+// summary: Declares TestRunnerUtils with a static helper that parses comma-separated key:value web settings strings into a map.
+// ---
+
 #ifndef CONTENT_WEB_TEST_RENDERER_TEST_RUNNER_UTILS_H_
 #define CONTENT_WEB_TEST_RENDERER_TEST_RUNNER_UTILS_H_
 

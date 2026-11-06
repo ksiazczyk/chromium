@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web test shell platform delegate implementation
+// summary: Provides platform-independent web test overrides of ShellPlatformDelegate, including headless-by-default behavior, pointer lock handling and insecure content rules.
+// ---
+
 #include "content/web_test/browser/web_test_shell_platform_delegate.h"
 
 #include "base/command_line.h"

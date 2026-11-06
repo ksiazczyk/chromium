@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebTestSpellChecker implementation
+// summary: Implements the web test spell checker that looks words up in a table of known misspelled words and reports their offsets.
+// ---
+
 #include "content/web_test/renderer/web_test_spell_checker.h"
 
 #include <stddef.h>

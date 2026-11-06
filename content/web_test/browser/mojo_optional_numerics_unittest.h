@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Optional numerics Mojo test params header
+// summary: Declares the Params class with SendNull and SendOptional methods for testing optional numerics serialization over Mojo in web tests.
+// ---
+
 #ifndef CONTENT_WEB_TEST_BROWSER_MOJO_OPTIONAL_NUMERICS_UNITTEST_H_
 #define CONTENT_WEB_TEST_BROWSER_MOJO_OPTIONAL_NUMERICS_UNITTEST_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Web test harness build targets
+summary: Defines GN build targets for the Chromium web test harness, including mojom bindings and common, browser, and renderer test libraries.

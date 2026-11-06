@@ -1,0 +1,4 @@
+# Docerion header of web_test_bluetooth_fake_adapter_setter.mojom.
+type: source
+title: Bluetooth fake adapter setter Mojo interface
+summary: Defines a Mojo interface for setting a mock Bluetooth adapter by name during web tests.

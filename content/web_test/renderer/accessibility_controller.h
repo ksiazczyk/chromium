@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility controller class declaration
+// summary: Declares the AccessibilityController class that manages accessibility bindings, element proxies, and notifications for web tests.
+// ---
+
 #ifndef CONTENT_WEB_TEST_RENDERER_ACCESSIBILITY_CONTROLLER_H_
 #define CONTENT_WEB_TEST_RENDERER_ACCESSIBILITY_CONTROLLER_H_
 

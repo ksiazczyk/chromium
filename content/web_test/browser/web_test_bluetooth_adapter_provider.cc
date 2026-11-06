@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web test Bluetooth adapter provider implementation
+// summary: Builds named mock Bluetooth adapters, devices, services and characteristics that web tests install via testRunner.setBluetoothFakeAdapter.
+// ---
+
 #include "content/web_test/browser/web_test_bluetooth_adapter_provider.h"
 
 #include <set>

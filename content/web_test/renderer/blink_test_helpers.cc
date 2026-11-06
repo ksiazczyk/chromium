@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web test helper functions
+// summary: Implements helpers that export test preferences to WebPreferences and rewrite file URLs for web tests and WPT resources.
+// ---
+
 #include "content/web_test/renderer/blink_test_helpers.h"
 
 #include <string_view>

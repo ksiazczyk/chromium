@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event sender implementation
+// summary: Implements the eventSender JavaScript bindings that synthesize mouse, keyboard, touch, pointer, and drag input events for web tests.
+// ---
+
 #include "content/web_test/renderer/event_sender.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web test FedCM manager implementation
+// summary: Implements browser-side automation of FedCM identity dialogs in web tests, exposing dialog type, title, account selection and dismissal over Mojo.
+// ---
+
 #include "content/web_test/browser/web_test_fedcm_manager.h"
 
 #include <optional>

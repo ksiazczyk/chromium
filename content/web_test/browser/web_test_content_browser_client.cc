@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebTestContentBrowserClient implementation
+// summary: Implements the web test content browser client that registers test Mojo interfaces, mock services such as clipboard and badge, and fake Bluetooth support.
+// ---
+
 #include "content/web_test/browser/web_test_content_browser_client.h"
 
 #include <algorithm>

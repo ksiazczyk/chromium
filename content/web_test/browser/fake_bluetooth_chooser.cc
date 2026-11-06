@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Bluetooth chooser implementation
+// summary: Implements a fake Bluetooth chooser that web tests control through Mojo to select, cancel or rescan devices and to report chooser and discovery events.
+// ---
+
 #include "content/web_test/browser/fake_bluetooth_chooser.h"
 
 #include <string>

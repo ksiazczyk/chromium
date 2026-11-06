@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test runner implementation
+// summary: Implements the TestRunner class, providing TestRunner JavaScript bindings, global test state management, and test completion logic for web tests.
+// ---
+
 #include "content/web_test/renderer/test_runner.h"
 
 #include <stddef.h>

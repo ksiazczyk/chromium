@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test runner utilities implementation
+// summary: Implements TestRunnerUtils::ParseWebSettingsString, which parses key:value pairs from a web settings string into a map.
+// ---
+
 #include "content/web_test/renderer/test_runner_utils.h"
 
 #include <string_view>

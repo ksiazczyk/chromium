@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web test Bluetooth chooser factory implementation
+// summary: Implements a Bluetooth chooser that records chooser events as strings instead of showing a dialog, letting tests control and inspect responses.
+// ---
+
 #include "content/web_test/browser/web_test_bluetooth_chooser_factory.h"
 
 #include "base/strings/utf_string_conversions.h"

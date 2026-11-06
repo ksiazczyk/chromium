@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for web settings string parsing
+// summary: Unit tests for TestRunnerUtils::ParseWebSettingsString covering basic, multiple, empty, invalid, and whitespace-trimming inputs.
+// ---
+
 #include "content/web_test/renderer/test_runner_utils.h"
 
 #include "testing/gmock/include/gmock/gmock.h"

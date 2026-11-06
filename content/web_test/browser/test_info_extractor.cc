@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web test info extractor implementation
+// summary: Parses web test names from the command line into TestInfo objects, resolving file paths and URLs, pixel hashes, print mode, and trace files.
+// ---
+
 #include "content/web_test/browser/test_info_extractor.h"
 
 #include <iostream>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web test download manager delegate implementation
+// summary: Implements the download manager delegate for web tests, opening downloaded HTML in the test window and reporting download starts to the test controller.
+// ---
+
 #include "content/web_test/browser/web_test_download_manager_delegate.h"
 
 #include "base/command_line.h"

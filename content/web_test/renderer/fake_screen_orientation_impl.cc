@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake screen orientation implementation for web tests
+// summary: Implements a renderer-side fake ScreenOrientation mojo service so web tests can lock, override and disable screen orientation.
+// ---
+
 #include "content/web_test/renderer/fake_screen_orientation_impl.h"
 
 #include <memory>

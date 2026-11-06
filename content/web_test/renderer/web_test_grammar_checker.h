@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebTestGrammarChecker class declaration
+// summary: Declares a minimal grammar checker for web tests that marks known grammar mistakes instead of performing real grammar checking.
+// ---
+
 #ifndef CONTENT_WEB_TEST_RENDERER_WEB_TEST_GRAMMAR_CHECKER_H_
 #define CONTENT_WEB_TEST_RENDERER_WEB_TEST_GRAMMAR_CHECKER_H_
 

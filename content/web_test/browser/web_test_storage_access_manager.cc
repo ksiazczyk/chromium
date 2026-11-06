@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebTestStorageAccessManager implementation
+// summary: Implements Storage Access API automation for web tests by validating origin patterns and toggling third-party cookie blocking through the cookie manager.
+// ---
+
 #include "content/web_test/browser/web_test_storage_access_manager.h"
 #include "content/public/browser/browser_context.h"
 #include "content/public/browser/storage_partition.h"

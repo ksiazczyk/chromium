@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility controller implementation
+// summary: Implements the accessibilityController JavaScript bindings that expose accessibility events, elements, and notification listeners to web tests.
+// ---
+
 #include "content/web_test/renderer/accessibility_controller.h"
 
 #include "content/web_test/renderer/web_frame_test_proxy.h"

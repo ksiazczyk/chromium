@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gamepad controller implementation for web tests
+// summary: Implements gin bindings exposing a gamepadController object so web tests can simulate gamepad connections, buttons, axes, touches and vibration.
+// ---
+
 #include "content/web_test/renderer/gamepad_controller.h"
 
 #include <algorithm>

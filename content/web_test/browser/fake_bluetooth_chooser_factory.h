@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Bluetooth chooser factory class declaration
+// summary: Declares the FakeBluetoothChooserFactory Mojo implementation that creates fake Bluetooth choosers and transfers their ownership on request.
+// ---
+
 #ifndef CONTENT_WEB_TEST_BROWSER_FAKE_BLUETOOTH_CHOOSER_FACTORY_H_
 #define CONTENT_WEB_TEST_BROWSER_FAKE_BLUETOOTH_CHOOSER_FACTORY_H_
 

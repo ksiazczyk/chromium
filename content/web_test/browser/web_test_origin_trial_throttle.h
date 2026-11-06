@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web test origin trial navigation throttle header
+// summary: Declares WebTestOriginTrialThrottle, a NavigationThrottle that exposes persistent origin trials via a request header for blink web tests.
+// ---
+
 #ifndef CONTENT_WEB_TEST_BROWSER_WEB_TEST_ORIGIN_TRIAL_THROTTLE_H_
 #define CONTENT_WEB_TEST_BROWSER_WEB_TEST_ORIGIN_TRIAL_THROTTLE_H_
 

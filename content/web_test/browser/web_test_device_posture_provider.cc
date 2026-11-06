@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web test device posture provider implementation
+// summary: Implements device posture automation for web tests by applying and clearing posture overrides through the WebContents device posture provider.
+// ---
+
 #include "content/web_test/browser/web_test_device_posture_provider.h"
 
 #include "content/browser/device_posture/device_posture_provider_impl.h"

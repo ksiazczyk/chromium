@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web test background fetch delegate header
+// summary: Declares WebTestBackgroundFetchDelegate, a BackgroundFetchDelegate for web tests that lazily creates an in-memory download service.
+// ---
+
 #ifndef CONTENT_WEB_TEST_BROWSER_WEB_TEST_BACKGROUND_FETCH_DELEGATE_H_
 #define CONTENT_WEB_TEST_BROWSER_WEB_TEST_BACKGROUND_FETCH_DELEGATE_H_
 

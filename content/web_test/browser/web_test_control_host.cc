@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web test control host browser-side implementation
+// summary: Implements the browser-side controller for web tests, coordinating test lifecycle, navigation, result printing, and interaction with renderer test helpers in the content shell.
+// ---
+
 #include "content/web_test/browser/web_test_control_host.h"
 
 #include <stddef.h>

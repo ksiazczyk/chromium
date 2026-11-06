@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web test shell platform delegate for Aura
+// summary: Aura implementation of WebTestShellPlatformDelegate that mostly delegates to the base ShellPlatformDelegate and shows the window when not running headless.
+// ---
+
 #include "content/web_test/browser/web_test_shell_platform_delegate.h"
 
 #include "content/shell/browser/shell.h"

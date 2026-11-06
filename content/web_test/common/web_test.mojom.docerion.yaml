@@ -1,0 +1,4 @@
+# Docerion header of web_test.mojom.
+type: source
+title: Web test Mojo interfaces
+summary: Defines the Mojo structs and interfaces for web test communication between the browser and renderer, covering test configuration, result dumps, and work queue items.

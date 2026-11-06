@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web test origin trial navigation throttle implementation
+// summary: Implements a navigation throttle that adds an X-Web-Test-Enabled-Origin-Trials header listing enabled persistent origin trials for web tests.
+// ---
+
 #include "content/web_test/browser/web_test_origin_trial_throttle.h"
 
 #include <string>

@@ -1,0 +1,4 @@
+# Docerion header of mojo_optional_numerics_unittest.mojom.
+type: test
+title: Optional numerics unittest Mojo interfaces
+summary: Defines Mojo interfaces used to test that JavaScript correctly encodes and decodes optional numeric types, enums, arrays, and maps in function parameters.

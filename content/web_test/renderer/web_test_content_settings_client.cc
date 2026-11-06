@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebTestContentSettingsClient implementation
+// summary: Implements a content settings client that consults test runner flags to allow or block storage access and insecure content in web tests.
+// ---
+
 #include "content/web_test/renderer/web_test_content_settings_client.h"
 
 #include "content/public/common/origin_util.h"

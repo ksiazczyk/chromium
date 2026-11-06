@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebTestTracingController implementation
+// summary: Starts and stops Perfetto tracing sessions for web tests and writes the collected trace data to a file, with platform-specific handling for Windows.
+// ---
+
 #include "content/web_test/browser/web_test_tracing_controller.h"
 
 #include "base/compiler_specific.h"

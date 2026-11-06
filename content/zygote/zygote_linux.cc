@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Zygote process implementation for Linux
+// summary: Implements the Zygote class that handles fork requests from the browser, reports child termination status, and reaps sandboxed child processes.
+// ---
+
 #include "content/zygote/zygote_linux.h"
 
 #include <errno.h>

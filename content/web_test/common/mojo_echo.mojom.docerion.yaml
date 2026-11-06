@@ -1,0 +1,4 @@
+# Docerion header of mojo_echo.mojom.
+type: source
+title: Mojo echo test interfaces for JS and C++ encoding
+summary: Defines Mojo echo interfaces used to verify that encoding and decoding between JavaScript and C++ works correctly for unions, including optional and nested variants.

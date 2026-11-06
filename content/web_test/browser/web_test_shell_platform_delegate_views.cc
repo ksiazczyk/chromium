@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebTestShellPlatformDelegate Views implementation
+// summary: Aura-based implementation of the web test shell platform delegate providing headless window behavior, including fixed cursor position and suppressed mousemove events.
+// ---
+
 #include "content/public/browser/render_widget_host_view.h"
 #include "content/public/browser/web_contents.h"
 #include "content/shell/browser/shell.h"

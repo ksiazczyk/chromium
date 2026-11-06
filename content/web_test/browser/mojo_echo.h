@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo echo test service header
+// summary: Declares the MojoEcho class with echo methods for unions, optional and nested unions, and arrays used to exercise Mojo bindings in web tests.
+// ---
+
 #ifndef CONTENT_WEB_TEST_BROWSER_MOJO_ECHO_H_
 #define CONTENT_WEB_TEST_BROWSER_MOJO_ECHO_H_
 

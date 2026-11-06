@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebTestSpellChecker class declaration
+// summary: Declares the web test spell checker API for checking words against known misspellings, caching, and multi-word misspellings.
+// ---
+
 #ifndef CONTENT_WEB_TEST_RENDERER_WEB_TEST_SPELL_CHECKER_H_
 #define CONTENT_WEB_TEST_RENDERER_WEB_TEST_SPELL_CHECKER_H_
 

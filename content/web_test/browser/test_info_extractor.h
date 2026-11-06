@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web test info extractor header
+// summary: Declares the TestInfo struct and TestInfoExtractor class that turn content_shell command line arguments into web test descriptors, including the run_web_tests protocol.
+// ---
+
 #ifndef CONTENT_WEB_TEST_BROWSER_TEST_INFO_EXTRACTOR_H_
 #define CONTENT_WEB_TEST_BROWSER_TEST_INFO_EXTRACTOR_H_
 

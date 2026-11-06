@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Layout dump header
+// summary: Declares DumpLayoutAsString and the TextResultType enum used to produce textual layout output in web tests.
+// ---
+
 #ifndef CONTENT_WEB_TEST_RENDERER_LAYOUT_DUMP_H_
 #define CONTENT_WEB_TEST_RENDERER_LAYOUT_DUMP_H_
 
