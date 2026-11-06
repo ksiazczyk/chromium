@@ -9,6 +9,12 @@
  * #include=cr-hidden-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: cr_toast_manager.css
+summary: Stylesheet for the cr-toast-manager element, laying out its content row and eliding collapsible text fragments.
+*/
+
 #content {
   display: flex;
   flex: 1;

@@ -8,6 +8,12 @@
  * uses CrSearchFieldMixin.
  */
 
+// ---docerion
+// type: source
+// title: cr-search-field custom element
+// summary: Defines the cr-search-field custom element, a Lit-based search field built on CrSearchFieldMixinLit with autofocus and icon override support.
+// ---
+
 import '../cr_icon_button/cr_icon_button.js';
 import '../cr_input/cr_input.js';
 import '../cr_icon/cr_icon.js';

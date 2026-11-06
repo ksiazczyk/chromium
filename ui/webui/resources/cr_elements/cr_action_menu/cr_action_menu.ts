@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrActionMenuElement implementation
+// summary: Implements the cr-action-menu custom element, handling dialog positioning with anchor alignment, focus management, and unbounded OS-window rendering.
+// ---
+
 import '../cr_shared_vars.css.js';
 
 import {assert, assertNotReachedCase} from '//resources/js/assert.js';

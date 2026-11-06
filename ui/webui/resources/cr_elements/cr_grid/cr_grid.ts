@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: cr_grid.ts
+// summary: Defines CrGridElement, a Lit component that displays children in a two-dimensional grid and supports arrow-key focus navigation.
+// ---
+
 import {assert, assertNotReachedCase} from '//resources/js/assert.js';
 import {isMac} from '//resources/js/platform.js';
 import {hasKeyModifiers} from '//resources/js/util.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy indicator HTML template
+// summary: Lit HTML template for the cr-policy-indicator element, rendering a cr-tooltip-icon bound to visibility, tooltip text, icon, and position properties.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {CrPolicyIndicatorElement} from './cr_policy_indicator.js';

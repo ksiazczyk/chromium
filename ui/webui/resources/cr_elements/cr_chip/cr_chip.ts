@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: cr-chip web component
+// summary: Defines the CrChipElement Lit custom element, a chip button with ripple support and disabled, selected and ARIA properties.
+// ---
+
 import {CrLitElement} from '//resources/lit/v3_0/lit.rollup.js';
 
 import {CrRippleMixin} from '../cr_ripple/cr_ripple_mixin.js';

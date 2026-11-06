@@ -10,6 +10,12 @@
  * #include=cr-hidden-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: cr-button element styles
+summary: Lit CSS styles for the cr-button element, defining default, action, tonal, and floating button variants plus disabled states, icon padding, ripple, and focus styling.
+*/
+
 :host {
   --cr-button-background-color: transparent;
   --cr-button-border-color:  var(--color-button-border,

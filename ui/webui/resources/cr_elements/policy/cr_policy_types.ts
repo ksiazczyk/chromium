@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy indicator types and strings
+// summary: Declares the CrPolicyIndicatorType enum and the CrPolicyStrings interface that hosts must set at runtime for indicator tooltips.
+// ---
+
 /**
  * Strings required for policy indicators. These must be set at runtime.
  * Chrome OS only strings may be undefined.

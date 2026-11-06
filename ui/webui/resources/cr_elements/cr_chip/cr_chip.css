@@ -8,6 +8,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: cr-chip element styles
+summary: Lit CSS styles for the cr-chip web component, defining chip button appearance with hover, focus, selected and disabled states.
+*/
+
 :host {
   --cr-chip-border-radius: 8px;
   --cr-chip-color: var(--color-chip-foreground,

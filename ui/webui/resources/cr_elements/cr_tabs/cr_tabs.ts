@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: cr-tabs tab selection control
+// summary: Implements the CrTabsElement custom element, a tablist control with keyboard navigation, RTL awareness, and an animated indicator that fires selected-changed events.
+// ---
+
 /**
  * @fileoverview 'cr-tabs' is a control used for selecting different sections or
  * tabs. cr-tabs was created to replace paper-tabs and paper-tab. cr-tabs

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Delegate for the focus row mixin
+// summary: Implements FocusRowDelegate to handle focus events, Enter key handling, and custom focus equivalents for focus row list items.
+// ---
+
 import {FocusRow} from '//resources/js/focus_row.js';
 import type {FocusRowDelegate} from '//resources/js/focus_row.js';
 

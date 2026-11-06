@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lit HTML template for the cr-url-list-item element
+// summary: Exports getHtml(), the Lit template rendering the anchor or button, icon container with favicon or folder images, metadata, badges and content slots of the cr-url-list-item element.
+// ---
+
 import {html, nothing} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {CrUrlListItemElement} from './cr_url_list_item.js';

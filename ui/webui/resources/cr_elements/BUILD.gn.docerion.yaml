@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for cr_elements
+summary: Defines the webui_cr_elements build target, listing the web component, TypeScript, and CSS files compiled for the shared WebUI elements.

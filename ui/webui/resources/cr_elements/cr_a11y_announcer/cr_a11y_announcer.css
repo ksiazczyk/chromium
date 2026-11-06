@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: cr_a11y_announcer.css
+summary: Lit style sheet that visually hides the cr-a11y-announcer element while keeping it available to screen readers.
+*/
+
 :host {
   clip: rect(0 0 0 0);
   height: 1px;

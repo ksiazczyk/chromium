@@ -12,6 +12,12 @@
  * #include=cr-radio-button-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: cr-card-radio-button Lit styles
+summary: Lit CSS styles for the cr-card-radio-button element, defining card background, elevation, hover and focus effects, and the checked checkmark placement.
+*/
+
 :host {
   background-color: var(--cr-card-background-color);
   border-radius: 8px;

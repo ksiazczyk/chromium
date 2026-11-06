@@ -38,6 +38,12 @@
     }
 */
 
+/*docerion
+type: source
+title: cr-input component styles
+summary: Stylesheet for the cr-input component covering disabled, readonly, invalid and error states, placeholder and URL input styling, and suffix slot layout.
+*/
+
 /* Disabled status should not impact suffix slot. */
 :host([disabled]) :-webkit-any(#label, #error, #input-container) {
   opacity: var(--cr-disabled-opacity);

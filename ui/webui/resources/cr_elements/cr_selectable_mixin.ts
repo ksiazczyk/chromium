@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrSelectableMixin for Lit elements
+// summary: Implements a Lit mixin that maintains a collection of selectable child elements, handling click selection, the selected property and iron-* activation events.
+// ---
+
 import {assert} from '//resources/js/assert.js';
 import type {CrLitElement, PropertyValues} from '//resources/lit/v3_0/lit.rollup.js';
 

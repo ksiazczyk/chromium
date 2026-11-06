@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: cr-tree base element class
+// summary: Abstract CrTreeBaseElement base class sharing child item add, remove, expansion, depth, and parent lookup behavior between the cr-tree and cr-tree-item elements.
+// ---
+
 import {assert} from '//resources/js/assert.js';
 import {CustomElement} from '//resources/js/custom_element.js';
 

@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: cr-lazy-list component styles
+summary: Styles for the cr-lazy-list element, applying content-visibility and contain-intrinsic-size to slotted list items and chunks to support lazy rendering while scrolling.
+*/
+
 :host {
   display: block;
   position: relative;

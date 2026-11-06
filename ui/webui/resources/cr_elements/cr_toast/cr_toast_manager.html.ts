@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: cr_toast_manager.html.ts
+// summary: Lit HTML template for the cr-toast-manager element, wrapping a cr-toast with a content div and a slot.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {CrToastManagerElement} from './cr_toast_manager.js';

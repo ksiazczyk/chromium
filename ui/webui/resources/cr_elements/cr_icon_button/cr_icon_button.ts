@@ -48,6 +48,12 @@
  * setting the |ironIcon| property to a comma-delimited list of keys.
  */
 
+// ---docerion
+// type: source
+// title: cr-icon-button element
+// summary: Defines the cr-icon-button Lit custom element, an icon button with ripple that accepts CSS class or iconset icons, handles keyboard activation, and supports RTL and multiple icons.
+// ---
+
 import '../cr_icon/cr_icon.js';
 
 import {isMac} from '//resources/js/platform.js';

@@ -8,6 +8,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: cr-icon-button styles
+summary: Stylesheet for the cr-icon-button web component, defining sizing, hover and focus states, disabled appearance, RTL flipping, masked icons, and dark or forced-colors support.
+*/
+
 :host {
   --cr-icon-button-fill-color: currentColor;
   --cr-icon-button-icon-start-offset: 0;

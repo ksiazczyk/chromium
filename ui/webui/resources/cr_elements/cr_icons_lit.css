@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Lit icon styles for cr-elements
+summary: Defines CSS classes that map icon names to SVG mask images and style .cr-icon elements, including dark mode and rounded icon variants for Lit-based WebUI components.
+*/
+
 .icon-arrow-back {
   --cr-icon-image: url(//resources/images/icon_arrow_back_old.svg);
 }

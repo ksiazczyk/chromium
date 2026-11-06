@@ -18,6 +18,12 @@
  *     by 'iron-list'.
  */
 
+// ---docerion
+// type: source
+// title: cr-infinite-list element wrapping cr-lazy-list
+// summary: Lit element that wraps cr-lazy-list to emulate iron-list behavior, adding focused-index tracking, focus restoration, and arrow key navigation for list items.
+// ---
+
 import '../cr_lazy_list/cr_lazy_list.js';
 
 import {assert} from '//resources/js/assert.js';

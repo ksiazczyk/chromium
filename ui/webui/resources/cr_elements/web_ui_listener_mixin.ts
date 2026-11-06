@@ -7,6 +7,12 @@
  * automatically remove WebUI listeners when detached.
  */
 
+// ---docerion
+// type: source
+// title: WebUI listener mixin for Polymer elements
+// summary: Polymer mixin that adds WebUI listeners and removes them automatically when the element is detached.
+// ---
+
 import type {WebUiListener} from '//resources/js/cr.js';
 import {addWebUiListener, removeWebUiListener} from '//resources/js/cr.js';
 import type {PolymerElement} from '//resources/polymer/v3_0/polymer/polymer_bundled.min.js';

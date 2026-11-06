@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile avatar selector Lit template
+// summary: Lit HTML template that renders the avatar grid as a radiogroup with avatar buttons, selection checkmarks, and per-avatar tooltips.
+// ---
+
 import {getImage} from '//resources/js/icon.js';
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 

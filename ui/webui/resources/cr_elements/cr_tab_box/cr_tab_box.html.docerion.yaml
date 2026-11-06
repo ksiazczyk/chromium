@@ -1,0 +1,4 @@
+# Docerion header of cr_tab_box.html.
+type: source
+title: cr-tab-box template and styles
+summary: HTML template defining the styling, tablist, and tab/panel slots used by the cr-tab-box custom element.

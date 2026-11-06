@@ -12,6 +12,12 @@
  * #include=cr-shared-style-lit cr-input-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: cr-search-field element styles
+summary: Lit CSS styles for the cr-search-field WebUI element, covering search and clear icons, input theming, and settings-refresh-2026 variants.
+*/
+
 :host {
   display: flex;
   user-select: none;

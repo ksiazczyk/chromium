@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrRadioGroupElement Lit component
+// summary: Lit element implementing the cr-radio-group WebUI component with selectable button tracking, keyboard navigation and disabled state handling.
+// ---
+
 import '../cr_radio_button/cr_radio_button.js';
 
 import {assert} from '//resources/js/assert.js';

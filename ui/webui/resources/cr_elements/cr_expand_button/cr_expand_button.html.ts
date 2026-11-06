@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTML template for the cr-expand-button element
+// summary: Lit HTML template for the cr-expand-button element, rendering a label slot and an icon button with expanded-state ARIA attributes.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {CrExpandButtonElement} from './cr_expand_button.js';

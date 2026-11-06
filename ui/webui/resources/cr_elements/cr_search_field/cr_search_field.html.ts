@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: cr-search-field Lit template
+// summary: Lit HTML template for the cr-search-field element, rendering the search icon, search input, and clear button with event bindings.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {CrSearchFieldElement} from './cr_search_field.js';

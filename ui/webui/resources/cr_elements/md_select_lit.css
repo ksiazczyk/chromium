@@ -8,6 +8,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Material Design select styles for Lit
+summary: Lit CSS styles for the md-select element covering appearance, dark mode, hover, focus, disabled, and RTL variants.
+*/
+
 .md-select {
   --md-arrow-width: 7px;
   --md-select-bg-color: transparent;

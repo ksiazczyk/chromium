@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: cr-loading-gradient custom element
+// summary: Defines the cr-loading-gradient Lit element, assigning unique IDs to slotted SVG clip paths so multiple instances do not interfere with each other.
+// ---
+
 import {assert} from '//resources/js/assert.js';
 import {CrLitElement} from '//resources/lit/v3_0/lit.rollup.js';
 

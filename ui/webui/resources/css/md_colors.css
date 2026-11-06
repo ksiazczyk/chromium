@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Material Design color variables
+summary: Defines Chrome-specific MD custom properties for background, toolbar, and loading message colors, including dark mode overrides.
+*/
+
 html {
   /* This is a custom, Chrome-specific color that does not have a --paper or
    * --google equivalent. */

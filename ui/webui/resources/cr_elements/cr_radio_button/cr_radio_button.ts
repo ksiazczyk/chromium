@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: cr-radio-button custom element
+// summary: Defines the cr-radio-button custom element, a Material Design radio button with ripple support built on the radio button mixin.
+// ---
+
 import {CrLitElement} from '//resources/lit/v3_0/lit.rollup.js';
 
 import {CrRippleMixin} from '../cr_ripple/cr_ripple_mixin.js';

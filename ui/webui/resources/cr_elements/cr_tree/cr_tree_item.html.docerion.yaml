@@ -1,0 +1,4 @@
+# Docerion header of cr_tree_item.html.
+type: source
+title: cr-tree-item element HTML template
+summary: HTML template styling tree item rows with expand icons, label icons, hover and selected states, RTL support, and dark or forced-colors adjustments.

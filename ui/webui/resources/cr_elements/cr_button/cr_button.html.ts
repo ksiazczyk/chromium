@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: cr-button HTML template
+// summary: Lit HTML template for the cr-button element that arranges the ripple background, prefix and suffix icon slots, the slotted content, and the hover background part.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {CrButtonElement} from './cr_button.js';

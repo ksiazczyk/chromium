@@ -9,6 +9,12 @@
  * #include=cr-hidden-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: cr-icon element styles
+summary: Lit CSS for the cr-icon element, centering it inline and sizing and coloring icons via iron-icon CSS variables with a 2026 refresh focus style.
+*/
+
 :host {
   align-items: center;
   display: inline-flex;

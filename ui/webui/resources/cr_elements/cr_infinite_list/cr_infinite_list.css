@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the cr-infinite-list element
+summary: Lit style stylesheet defining the host display, relative positioning, and vertical scrolling behavior of the cr-infinite-list element.
+*/
+
 :host {
   display: block;
   position: relative;

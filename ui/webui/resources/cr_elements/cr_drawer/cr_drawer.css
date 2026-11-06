@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the cr-drawer WebUI element
+summary: Lit CSS for the cr-drawer element, defining drawer width, dialog slide transitions, RTL alignment, dark mode colors, backdrop, and header styling.
+*/
+
 :host {
   --cr-drawer-width: 256px;
 }

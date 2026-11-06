@@ -12,6 +12,12 @@
  * #include=cr-hidden-style-lit cr-icons-lit cr-scrollable-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: cr-dialog component styles
+summary: Lit CSS styles for the cr-dialog modal component, defining dialog layout, backdrop, title, body, button and footer slots, with dark mode and forced-colors support.
+*/
+
 dialog {
   background-color: var(--cr-dialog-background-color, white);
   border: 0;

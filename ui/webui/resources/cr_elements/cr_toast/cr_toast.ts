@@ -4,6 +4,13 @@
 /**
  * @fileoverview A lightweight toast.
  */
+
+// ---docerion
+// type: source
+// title: cr_toast.ts
+// summary: Defines the cr-toast Lit element, a lightweight toast with auto-hide duration, focus-based timer handling, and screen reader alert role management.
+// ---
+
 import {CrLitElement} from '//resources/lit/v3_0/lit.rollup.js';
 import type {PropertyValues} from '//resources/lit/v3_0/lit.rollup.js';
 

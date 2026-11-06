@@ -1,3 +1,12 @@
+---
+type: readme
+title: Policy indicators
+summary: Explains when policy indicators appear for controlled settings and how to reuse the cr-policy-indicator element in WebUI pages.
+relations:
+  - references /chrome/browser/resources/settings/settings_ui/settings_ui.ts
+  - documents /ui/webui/resources/cr_elements/policy/cr_policy_indicator.ts
+---
+
 # Policy indicators
 
 Settings that can't be controlled by the current user often show an icon and a

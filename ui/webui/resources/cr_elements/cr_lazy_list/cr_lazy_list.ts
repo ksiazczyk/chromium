@@ -33,6 +33,12 @@
  * the UI for very large numbers of elements.
  */
 
+// ---docerion
+// type: source
+// title: cr-lazy-list incremental scrolling list component
+// summary: LitElement component that incrementally renders list items as the user scrolls, with support for chunked rendering, focus restoration, item templates, and a configurable scroll target.
+// ---
+
 import {assert} from '//resources/js/assert.js';
 import {getDeepActiveElement} from '//resources/js/util.js';
 import {CrLitElement, html, render} from '//resources/lit/v3_0/lit.rollup.js';

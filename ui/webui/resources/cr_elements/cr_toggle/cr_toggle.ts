@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: cr-toggle web component implementation
+// summary: Implements the CrToggleElement on/off switch with click, keyboard, and pointer-drag toggling, ripple effects, and ARIA switch semantics.
+// ---
+
 /**
  * Number of pixels required to move to consider the pointermove event as
  * intentional.

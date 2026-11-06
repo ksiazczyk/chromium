@@ -8,6 +8,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: cr_checkbox.css styles for the cr-checkbox component
+summary: Defines the Lit CSS for the cr-checkbox element, covering sizing variables, checked and unchecked colors, dark mode, disabled state, hover layer, ripple and forced-colors handling.
+*/
+
 :host {
   -webkit-tap-highlight-color: transparent;
   align-items: center;

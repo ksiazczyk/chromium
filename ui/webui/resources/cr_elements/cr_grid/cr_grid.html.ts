@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: cr_grid.html.ts
+// summary: Lit HTML template for the cr-grid element that renders the grid container with a keydown handler and a slot for child items.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {CrGridElement} from './cr_grid.js';

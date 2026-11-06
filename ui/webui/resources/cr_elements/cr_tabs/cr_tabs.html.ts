@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: cr-tabs HTML template
+// summary: Lit template function that renders each tab as a role=tab div with ARIA state, tabindex, optional icon, and the selection indicator for the cr-tabs element.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {CrTabsElement} from './cr_tabs.js';

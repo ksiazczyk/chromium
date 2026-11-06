@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: cr-view-manager element implementation
+// summary: Implements the CrViewManagerElement Lit component that switches between slotted views with configurable enter and exit animations such as fade and slide.
+// ---
+
 import {assert} from '//resources/js/assert.js';
 import {CrLitElement} from '//resources/lit/v3_0/lit.rollup.js';
 

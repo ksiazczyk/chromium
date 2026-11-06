@@ -13,3 +13,9 @@
 
 /* Purposefully empty since this style is generated at build time from the
  * equivalent Lit version. */
+
+/*docerion
+type: source
+title: Build-time placeholder for shared cr-element styles
+summary: Serves as a purposefully empty placeholder because the shared style is generated at build time from the equivalent Lit version.
+*/

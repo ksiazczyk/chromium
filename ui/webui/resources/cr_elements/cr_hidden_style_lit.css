@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Hidden element Lit styles
+summary: Lit CSS that forces display none for elements with the hidden attribute, included to avoid importing iron-positioning in every stylesheet.
+*/
+
 /* Included here so we don't have to include "iron-positioning" in every
  * stylesheet. See crbug.com/498405. */
 [hidden],

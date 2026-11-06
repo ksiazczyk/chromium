@@ -8,6 +8,12 @@
  * #import=./cr_shared_vars.css.js
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Action link Lit styles
+summary: Lit CSS for action-link elements defining pointer cursor, underline, link colors, and disabled and no-outline states.
+*/
+
 [is='action-link'] {
   cursor: pointer;
   display: inline-block;

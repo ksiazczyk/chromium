@@ -15,6 +15,12 @@
  * to an HTML string.
  * Otherwise its placeholders won't be expanded. */
 
+/*docerion
+type: source
+title: Material Design default text styles
+summary: MD variant of the text defaults, importing Roboto on Linux and declaring Google Sans Text on Android, with i18n placeholders for fonts.
+*/
+
 <if expr="is_linux">
 @import url(//resources/css/roboto.css);
 </if>

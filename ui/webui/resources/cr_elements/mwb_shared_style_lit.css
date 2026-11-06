@@ -9,6 +9,12 @@
  * #import=./mwb_shared_vars.css.js
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: MWB shared Lit styles
+summary: Lit CSS defining scrollbar colors and width plus background states for hovered and selected MWB list items.
+*/
+
 ::-webkit-scrollbar-thumb {
   background-color: var(--mwb-scrollbar-thumb-color);
 }

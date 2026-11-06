@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: cr-action-menu component styles
+summary: Lit CSS wrapper defining the cr-action-menu dialog styling, dropdown item appearance, focus outlines, and forced-colors adjustments.
+*/
+
 :host {
   --cr-hairline: 1px solid var(--color-menu-separator,
       var(--cr-fallback-color-divider));

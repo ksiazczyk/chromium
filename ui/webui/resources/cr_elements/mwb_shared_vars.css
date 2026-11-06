@@ -8,6 +8,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: MWB shared CSS variables
+summary: Defines MWB custom properties for colors, sizes and typography, with overrides for the dark color scheme.
+*/
+
 html {
   --mwb-background-color: white;
   --mwb-icon-button-fill-color: var(--google-grey-700);

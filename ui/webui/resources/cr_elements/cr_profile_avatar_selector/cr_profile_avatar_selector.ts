@@ -7,6 +7,12 @@
  * profile avatar icons and allows an avatar to be selected.
  */
 
+// ---docerion
+// type: source
+// title: cr-profile-avatar-selector element
+// summary: Defines the CrProfileAvatarSelectorElement custom element that displays profile avatar icons in a grid and notifies the owner of the selected avatar.
+// ---
+
 import '../cr_button/cr_button.js';
 import '../cr_grid/cr_grid.js';
 import '../cr_icon/cr_icon.js';

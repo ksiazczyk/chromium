@@ -8,6 +8,12 @@
  * #import=./mwb_shared_vars.css.js
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: MWB element shared Lit styles
+summary: Lit CSS styles shared by MWB elements, setting default cursors and sizing cr-icon-button from MWB custom properties.
+*/
+
 a,
 cr-button,
 cr-icon-button,

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: cr-button web component implementation
+// summary: Implements the CrButtonElement Lit web component, handling click and keyboard activation, disabled state, focus and tab behavior, icon slot detection, and ripple effects.
+// ---
+
 /**
  * @fileoverview 'cr-button' is a button which displays slotted elements. It can
  * be interacted with like a normal button using click as well as space and

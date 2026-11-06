@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: cr-ripple element styles
+summary: Lit CSS styles for the cr-ripple element, defining its absolute positioning, ripple opacity, color and circular shape.
+*/
+
 :host {
   bottom: 0;
   display: block;

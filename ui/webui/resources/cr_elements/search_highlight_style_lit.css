@@ -8,6 +8,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Search highlight Lit styles
+summary: Lit CSS styling the search bubble, its text and the arrow pointing at the anchor element, including placement above the anchor.
+*/
+
 .search-bubble {
   --search-bubble-color: #ffeb3b;  /* --paper-yellow-500 */
   position: absolute;

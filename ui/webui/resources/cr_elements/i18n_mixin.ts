@@ -10,6 +10,12 @@
  * handled by a C++ templatizer.
  */
 
+// ---docerion
+// type: source
+// title: I18n mixin for Polymer elements
+// summary: Polymer mixin providing i18n helpers that fetch translated strings from loadTimeData and sanitize substitutions for safe rendering.
+// ---
+
 import {loadTimeData} from '//resources/js/load_time_data.js';
 import type {SanitizeInnerHtmlOpts} from '//resources/js/parse_html_subset.js';
 import {parseHtmlSubset, sanitizeInnerHtml} from '//resources/js/parse_html_subset.js';

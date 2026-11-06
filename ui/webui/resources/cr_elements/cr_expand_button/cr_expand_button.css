@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Styles for the cr-expand-button element
+summary: Lit stylesheet for the cr-expand-button element, styling its disabled state, label padding, and icon button sizing.
+*/
+
 /* #css_wrapper_metadata_start
  * #type=style-lit
  * #import=../cr_shared_vars.css.js

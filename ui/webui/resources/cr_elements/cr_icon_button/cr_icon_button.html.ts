@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: cr-icon-button HTML template
+// summary: Lit HTML template for the cr-icon-button element, rendering the icon container and masked image that display the button's icon.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {CrIconButtonElement} from './cr_icon_button.js';

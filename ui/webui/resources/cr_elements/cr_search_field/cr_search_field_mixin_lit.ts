@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lit mixin for incremental search fields
+// summary: Lit mixin providing incremental search behavior, including debounced search events, value handling, and search text state for search field elements.
+// ---
+
 /**
  * Helper functions for implementing an incremental search field. See
  * <settings-subpage-search> for a simple implementation.

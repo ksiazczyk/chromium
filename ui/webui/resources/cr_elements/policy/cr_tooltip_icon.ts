@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrTooltipIconElement
+// summary: Defines the cr-tooltip-icon Lit element that shows an icon with an accessible tooltip and exposes the focusable indicator element.
+// ---
+
 import '../icons.html.js';
 import '../cr_icon/cr_icon.js';
 import '../cr_tooltip/cr_tooltip.js';

@@ -11,6 +11,12 @@
  * #include=cr-hidden-style-lit cr-icons-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Lit shared styles for cr-elements
+summary: Defines shared Lit CSS classes for WebUI, including separators, scrollable and selectable lists, rows, centered cards, tooltips, vertical tabs and typography.
+*/
+
 [actionable] {
   cursor: pointer;
 }

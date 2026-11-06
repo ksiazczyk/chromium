@@ -7,6 +7,12 @@
  * from Polymer's paper-progress.
  */
 
+// ---docerion
+// type: source
+// title: CrProgressElement progress bar component
+// summary: Defines the cr-progress Lit element with value, min, max, step, indeterminate and disabled properties, migrated from Polymer's paper-progress.
+// ---
+
 import type {PropertyValues} from '//resources/lit/v3_0/lit.rollup.js';
 import {CrLitElement} from '//resources/lit/v3_0/lit.rollup.js';
 

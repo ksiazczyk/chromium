@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Iconset interface and singleton registry
+// summary: Defines the Iconset interface and a singleton IconsetMap EventTarget that registers iconsets by unique id, looks them up, and signals additions via events.
+// ---
+
 import {assert} from '//resources/js/assert.js';
 
 export interface Iconset {

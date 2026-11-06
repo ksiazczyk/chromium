@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrSplitterElement draggable splitter custom element
+// summary: Implements the cr-splitter custom element that resizes an adjacent sibling panel when the user drags the splitter with mouse or touch events.
+// ---
+
 import {assert} from '//resources/js/assert.js';
 
 type MouseEventCallback = (e: MouseEvent) => void;

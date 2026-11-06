@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: cr-page-selector custom element
+// summary: Defines the cr-page-selector Lit element, a CrSelectableMixin-based page selector that shows only the selected slotted page, with show-all and nested-slots support.
+// ---
+
 import {CrLitElement} from '//resources/lit/v3_0/lit.rollup.js';
 
 import {CrSelectableMixin} from '../cr_selectable_mixin.js';

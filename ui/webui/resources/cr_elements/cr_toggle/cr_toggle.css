@@ -8,6 +8,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: cr-toggle component styles
+summary: Lit CSS styles defining colors, dimensions, and state visuals for the cr-toggle on/off switch, including disabled, focus, RTL, and forced-colors handling.
+*/
+
 :host {
   --cr-toggle-checked-bar-color:
       var(--color-toggle-button-track-on,
