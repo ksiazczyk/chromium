@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac domain enrollment and MDM status provider header
+// summary: Declares the Mac DomainEnrollmentStatusProvider and EnterpriseMDMManagementStatusProvider classes used to report local domain and cloud MDM authorities.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_COMMON_MANAGEMENT_PLATFORM_MANAGEMENT_STATUS_PROVIDER_MAC_H_
 #define COMPONENTS_POLICY_CORE_COMMON_MANAGEMENT_PLATFORM_MANAGEMENT_STATUS_PROVIDER_MAC_H_
 

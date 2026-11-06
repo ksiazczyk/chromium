@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Testing remote commands server implementation
+// summary: Implements a fake remote commands server that queues issued commands, serves them via FetchCommands, signs with a test key and verifies reported results.
+// ---
+
 #include "components/policy/core/common/remote_commands/test_support/testing_remote_commands_server.h"
 
 #include <iterator>

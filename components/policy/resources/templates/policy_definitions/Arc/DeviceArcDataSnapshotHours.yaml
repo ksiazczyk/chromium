@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DeviceArcDataSnapshotHours policy definition
+# summary: Deprecated ChromeOS device policy defining weekly time intervals when the ARC data snapshot update process may run for Managed Guest Sessions.
+# ---
+
 caption: Intervals when ARC data snapshot update process can be started for Managed
   Guest Sessions
 desc: 'If "DeviceArcDataSnapshotHours" policy is set, then the ARC data snapshotting

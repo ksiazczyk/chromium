@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: Cast Receiver policy group details
+# summary: Provides the caption and description for the Cast Receiver policy group shown in ChromeOS policy documentation.
+# ---
+
 caption: Cast Receiver
 desc: Configure the Cast Receiver in <ph name="PRODUCT_NAME">$2<ex>Google ChromeOS</ex></ph>.

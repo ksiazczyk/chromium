@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: Certificate management policy group details
+# summary: Group metadata for the certificate management policy group, providing its caption and description.
+# ---
+
 caption: Certificate management settings
 desc: Controls user and device policies for certificate management.

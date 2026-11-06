@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: IdleTimeoutActions policy definition
+# summary: Policy definition for IdleTimeoutActions, listing actions such as closing browsers or clearing browsing data that run when the IdleTimeout is reached.
+# ---
+
 caption: Actions to run when the computer is idle
 desc: |-
   List of actions to run when the timeout from the <ph name="IDLE_TIMEOUT_POLICY_NAME">IdleTimeout</ph> policy is reached.

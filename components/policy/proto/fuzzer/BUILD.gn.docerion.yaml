@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build rules for fuzzable policy protobufs
+summary: GN build file that defines full-runtime fuzzable proto library targets for the Chrome device policy, cloud policy, and policy common definitions protobufs used by libprotobuf-mutator fuzzers.

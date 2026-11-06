@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote command job implementation
+// summary: Implements the RemoteCommandJob base class that initializes, runs, expires and terminates enterprise remote commands received from the management server.
+// ---
+
 #include "components/policy/core/common/remote_commands/remote_command_job.h"
 
 #include <optional>

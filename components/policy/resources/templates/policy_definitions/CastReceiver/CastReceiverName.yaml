@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: CastReceiverName policy definition
+# summary: Defines the deprecated CastReceiverName policy that sets the Google Cast destination name advertised by the device, limited to 24 characters.
+# ---
+
 caption: Name of the <ph name="PRODUCT_NAME">Google Cast</ph> destination
 deprecated: true
 desc: |-

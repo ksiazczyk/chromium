@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Floating accessibility menu policy
+# summary: Chrome OS policy definition that controls whether the floating accessibility menu is shown in kiosk mode.
+# ---
+
 caption: Enables the floating accessibility menu
 default: false
 desc: |-

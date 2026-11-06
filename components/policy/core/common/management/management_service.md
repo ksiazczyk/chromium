@@ -1,3 +1,9 @@
+---
+type: reference
+title: ManagementService design documentation
+summary: Reference documentation for ManagementService, its status providers, caching, and the management authority enums.
+---
+
 # ManagementService
 
 ManagementService is an abstract class that exposes an interface to get an

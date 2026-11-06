@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: BrowserSwitcherParsingMode policy definition
+# summary: Defines the Chrome BrowserSwitcherParsingMode policy that controls how sitelist and greylist URL rules are parsed for Legacy Browser Support, with Default and IESiteListMode options.
+# ---
+
 caption: Sitelist parsing mode
 default: 0
 desc: |-

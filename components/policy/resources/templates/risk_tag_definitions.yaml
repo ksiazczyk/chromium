@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Risk tag definitions
+# summary: Defines risk tags with administrator and user-facing descriptions that classify the privacy and security impact of policies.
+# ---
+
 admin-sharing:
   description: |-
     Policies with this tag enable an administrator to log

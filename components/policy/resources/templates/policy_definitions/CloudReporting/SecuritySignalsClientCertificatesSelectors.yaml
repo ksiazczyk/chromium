@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: SecuritySignalsClientCertificatesSelectors policy definition
+# summary: Defines the policy that filters which client certificates are included in Chrome security signal reports sent to Google Workspace.
+# ---
+
 caption: Automatically select client certificates matching filters for <ph name="PRODUCT_NAME">$1<ex>Google Chrome</ex></ph> security signal reports.
 desc: |-
   Configures filters to select which client certificates are included in <ph name="PRODUCT_NAME">$1<ex>Google Chrome</ex></ph> security signal reports. These reports send browser and device posture information to <ph name="GOOGLE_WORKSPACE_PRODUCT_NAME">Google Workspace</ph>, which administrators can use to configure <ph name="GOOGLE_CONTEXT_AWARE_ACCESS">Context-Aware Access (CAA)</ph> rules.

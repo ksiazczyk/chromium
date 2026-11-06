@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped management service override for testing implementation
+// summary: Implements a scoped helper that sets fake management authorities on a ManagementService for tests and restores the previous state on destruction.
+// ---
+
 #include "components/policy/core/common/management/scoped_management_service_override_for_testing.h"
 
 namespace policy {

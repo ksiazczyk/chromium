@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: 'CACertificates: TLS certificates trusted for server authentication'
+# summary: Defines the policy listing base64-encoded TLS certificates that Chrome should trust for server authentication.
+# ---
+
 caption: TLS certificates that should be trusted by <ph name="PRODUCT_NAME">$1<ex>Google Chrome</ex></ph> for server authentication
 default: null
 desc: |-

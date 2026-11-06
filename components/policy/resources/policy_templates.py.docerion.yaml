@@ -1,0 +1,4 @@
+# Docerion header of policy_templates.py.
+type: script
+title: Policy templates generator script
+summary: Python script that assembles policy definitions from YAML templates into policy_templates.json and appends platform-specific sensitive policy notices.

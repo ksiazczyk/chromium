@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Policy proto build configuration
+summary: GN build file that compiles the policy protobuf files into the policy_proto component and wires up generated protobuf include paths.

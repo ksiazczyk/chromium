@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: Remote attestation policy group details
+# summary: Group metadata describing the remote attestation policy group that configures remote attestation with the TPM mechanism.
+# ---
+
 caption: Remote attestation
 desc: Configure the remote attestation with TPM mechanism.

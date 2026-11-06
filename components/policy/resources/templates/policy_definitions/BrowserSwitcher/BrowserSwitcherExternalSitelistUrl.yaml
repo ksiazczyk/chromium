@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: External sitelist URL policy
+# summary: Policy definition pointing to an XML site list of URLs to load in an alternative browser, in Internet Explorer SiteList format.
+# ---
+
 caption: URL of an XML file that contains URLs to load in an alternative browser.
 desc: |-
   Setting the policy to a valid URL has <ph name="PRODUCT_NAME">$1<ex>Google Chrome</ex></ph> download the site list from that URL and apply the rules as if they were set up with the <ph name="SITELIST_POLICY_NAME">BrowserSwitcherUrlList</ph> policy.

@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: Class management tools settings group details
+# summary: Group metadata for the Boca class management tools policy definitions, providing the group caption and description.
+# ---
+
 caption: Class management tools Settings
 desc: Controls settings for class management tools.

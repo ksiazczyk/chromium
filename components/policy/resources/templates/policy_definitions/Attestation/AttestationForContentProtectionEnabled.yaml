@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: AttestationForContentProtectionEnabled policy definition
+# summary: Defines the device policy controlling whether ChromeOS uses remote attestation (Verified Access) to obtain certificates for playing protected content.
+# ---
+
 caption: Enable the use of remote attestation for content protection for the device
 default: true
 desc: |-

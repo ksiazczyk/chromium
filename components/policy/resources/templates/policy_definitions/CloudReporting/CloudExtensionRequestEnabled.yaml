@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: CloudExtensionRequestEnabled policy definition
+# summary: Policy definition controlling whether users can send extension installation requests to the Google Admin console for approval.
+# ---
+
 caption: Enables <ph name="PRODUCT_NAME">$1<ex>Google Chrome</ex></ph> extension installation
   requests
 default: false

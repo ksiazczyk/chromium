@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DeviceLoginScreenVirtualKeyboardEnabled policy definition
+# summary: Chrome OS policy definition that controls the accessibility virtual keyboard on the login screen without affecting the touch virtual keyboard.
+# ---
+
 caption: Enable the accessibility virtual keyboard on the login screen
 default: null
 desc: |-

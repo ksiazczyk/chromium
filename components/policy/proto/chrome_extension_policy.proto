@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome extension policy protobuf definitions
+// summary: Defines the ExternalPolicyData message describing where to download per-extension policy data and how to verify it via a SHA-256 hash.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

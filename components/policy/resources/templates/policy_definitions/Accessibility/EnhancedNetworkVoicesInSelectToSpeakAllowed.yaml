@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: EnhancedNetworkVoicesInSelectToSpeakAllowed policy definition
+# summary: Chrome OS policy definition that allows or blocks enhanced network text-to-speech voices in Select-to-Speak, which send text to Google servers for synthesis.
+# ---
+
 caption: Allow the enhanced network text-to-speech voices in Select-to-speak
 default: true
 desc: |-

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote commands queue implementation
+// summary: Implements the queue that runs remote command jobs one at a time with execution timeout handling and observer notifications.
+// ---
+
 #include "components/policy/core/common/remote_commands/remote_commands_queue.h"
 
 #include <utility>

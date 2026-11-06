@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Accessibility policy group details
+# summary: Defines the caption and description shown for the ChromeOS accessibility settings policy group.
+# ---
+
 caption: Accessibility settings
 desc: Configure <ph name="PRODUCT_OS_NAME">$2<ex>Google ChromeOS</ex></ph> accessibility
   features.

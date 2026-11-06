@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Bruschetta installer configuration policy
+# summary: Policy template that sets installer metadata, such as display name and learn-more URL, for Bruschetta VMs on ChromeOS devices.
+# ---
+
 owners:
 - sidereal@google.com
 - file://chrome/browser/ash/guest_os/OWNERS

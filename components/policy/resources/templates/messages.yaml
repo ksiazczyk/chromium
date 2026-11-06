@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Policy documentation messages
+# summary: Provides caption and description strings used in generated policy documentation and Microsoft's Group Policy Editor.
+# ---
+
 deprecated_policy_desc:
   desc: Description shared by all deprecated policies, in Microsoft Windows' Group
     Policy Editor.

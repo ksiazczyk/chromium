@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ActiveDirectoryManagement atomic policy group
+# summary: Lists the policies that belong to the Active Directory management atomic group with its caption.
+# ---
+
 ActiveDirectoryManagement:
   caption: <ph name="MS_AD_NAME">Microsoft® Active Directory®</ph> management settings
   policies:

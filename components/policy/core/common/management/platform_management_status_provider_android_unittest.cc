@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android management status provider unit tests
+// summary: Parameterized unit tests verifying that AndroidManagementStatusProvider returns the expected enterprise authority for combinations of device and profile ownership.
+// ---
+
 #include "components/policy/core/common/management/platform_management_status_provider_android.h"
 
 #include "base/functional/bind.h"

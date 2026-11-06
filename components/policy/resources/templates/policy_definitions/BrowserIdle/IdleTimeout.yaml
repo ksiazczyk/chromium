@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: IdleTimeout policy definition
+# summary: Policy definition for IdleTimeout, setting the number of idle minutes without user input before the browser runs the actions configured by IdleTimeoutActions.
+# ---
+
 caption: Delay before running idle actions
 default: 0
 desc: |-

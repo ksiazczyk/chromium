@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote command test builders implementation
+// summary: Implements builder classes that construct enterprise management RemoteCommand and SignedData protos, signing data with a test key by default.
+// ---
+
 #include "components/policy/core/common/remote_commands/test_support/remote_command_builders.h"
 
 #include "components/policy/core/common/remote_commands/remote_commands_service.h"

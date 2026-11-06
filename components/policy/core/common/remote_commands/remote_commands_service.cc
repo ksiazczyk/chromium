@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RemoteCommandsService implementation
+// summary: Implements the service that fetches remote commands from DMServer via CloudPolicyClient, maps command types to UMA metrics and reports execution results back.
+// ---
+
 #include "components/policy/core/common/remote_commands/remote_commands_service.h"
 
 #include <algorithm>

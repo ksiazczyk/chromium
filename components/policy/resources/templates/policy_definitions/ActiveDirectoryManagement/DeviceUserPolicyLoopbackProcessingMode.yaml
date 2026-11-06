@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DeviceUserPolicyLoopbackProcessingMode policy definition
+# summary: Defines the deprecated device policy for how user policy from computer GPOs is processed in default, merge, or replace mode.
+# ---
+
 caption: User policy loopback processing mode
 deprecated: true
 default: 0

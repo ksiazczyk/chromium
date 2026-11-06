@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: 'CACertificateManagementAllowed: manage installed CA certificates'
+# summary: Defines the Chrome policy controlling whether users can manage installed CA certificates, with All, UserOnly, and None options.
+# ---
+
 caption: Allow users to manage installed CA certificates.
 default: 0
 desc: Setting the policy to All (0) or leaving it unset lets users edit trust settings

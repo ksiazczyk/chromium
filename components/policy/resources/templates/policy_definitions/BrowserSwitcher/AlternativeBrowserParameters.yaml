@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Alternative browser command-line parameters policy
+# summary: Policy definition for command-line parameters passed to the alternative browser, with URL and environment variable substitution.
+# ---
+
 caption: Command-line parameters for the alternative browser.
 desc: |-
   Setting the policy to a list of strings means each string is passed to the alternative browser as separate command-line parameters. On <ph name="MS_WIN_NAME">Microsoft® Windows®</ph>, the parameters are joined with spaces. On <ph name="MAC_OS_NAME">macOS</ph> and <ph name="LINUX_OS_NAME">Linux®</ph>, a parameter can have spaces and still be treated as a single parameter.

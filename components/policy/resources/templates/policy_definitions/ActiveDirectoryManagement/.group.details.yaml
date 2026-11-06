@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Active Directory management policy group details
+# summary: Provides the caption and description metadata for the Active Directory management policy group shown in policy templates.
+# ---
+
 caption: <ph name="MS_AD_NAME">Microsoft® Active Directory®</ph> management settings
 desc: Controls settings specific to <ph name="MS_AD_NAME">Microsoft® Active Directory®</ph>
   managed <ph name="PRODUCT_OS_NAME">$2<ex>Google ChromeOS</ex></ph> devices.

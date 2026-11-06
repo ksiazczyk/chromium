@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Chrome path for switching from alternative browser policy
+# summary: Policy definition setting the Chrome executable path or autodetection used when switching back from Internet Explorer.
+# ---
+
 caption: Path to Chrome for switching from the alternative browser.
 desc: |-
   This policy controls the command to use to open URLs in <ph name="PRODUCT_NAME">$1<ex>Google Chrome</ex></ph> when switching from <ph name="IE_PRODUCT_NAME">Internet Explorer®</ph>. This policy can be set to an executable file path or <ph name="PRODUCT_NAME_PLACEHOLDER">${chrome}</ph> to autodetect the location of <ph name="PRODUCT_NAME">$1<ex>Google Chrome</ex></ph>.

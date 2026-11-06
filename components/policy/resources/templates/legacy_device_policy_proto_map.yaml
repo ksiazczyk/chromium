@@ -6,6 +6,12 @@
 # Add deprecated policies here, though, if the proto field got deleted.
 
 
+# ---docerion
+# type: config
+# title: Legacy device policy proto mappings
+# summary: Maps legacy and deprecated device policies to chrome_device_policy.proto fields where automatic code generation is not possible.
+# ---
+
 # Add removed policies mapping here.
 ? ''
 :

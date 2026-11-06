@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Live Translate policy
+# summary: Policy definition that controls translation of live captions and depends on the LiveCaptionEnabled setting.
+# ---
+
 caption: Enable Live Translate
 default: null
 desc: |-

@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: Bruschetta policy group details
+# summary: Defines the caption and description for the Bruschetta policy group, which controls policies related to the Bruschetta subsystem.
+# ---
+
 caption: Bruschetta
 desc: Controls policies related to the Bruschetta subsystem.

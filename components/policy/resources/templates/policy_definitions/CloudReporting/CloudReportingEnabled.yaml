@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: CloudReportingEnabled policy definition
+# summary: Policy definition enabling upload of browser operation information to the Google Admin console for enrolled managed browsers.
+# ---
+
 caption: Enables <ph name="PRODUCT_NAME">$1<ex>Google Chrome</ex></ph> cloud reporting
 default: false
 desc: |-

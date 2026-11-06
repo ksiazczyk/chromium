@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Legacy Browser Support enable policy
+# summary: Main policy definition that enables or disables launching designated URLs in an alternate browser.
+# ---
+
 caption: Enable the Legacy Browser Support feature.
 default: false
 desc: |-

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RemoteCommandsService unit tests
+// summary: Unit tests for RemoteCommandsService using fake jobs, a testing remote commands server and histogram testers to verify command fetching and result reporting.
+// ---
+
 #include "components/policy/core/common/remote_commands/remote_commands_service.h"
 
 #include <stddef.h>

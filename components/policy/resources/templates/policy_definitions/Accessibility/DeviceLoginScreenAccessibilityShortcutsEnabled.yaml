@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DeviceLoginScreenAccessibilityShortcutsEnabled policy definition
+# summary: Device-only ChromeOS policy that controls whether accessibility features shortcuts are enabled on the login screen.
+# ---
+
 caption: Enable accessibility features shortcuts on the login screen
 default: null
 desc: |-

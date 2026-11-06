@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ArcBackupRestoreEnabled policy (deprecated)
+# summary: Deprecated ChromeOS policy that enabled the Android Backup Service; removed in ChromeOS 68 and replaced by ArcBackupRestoreServiceEnabled.
+# ---
+
 caption: Enable Android Backup Service
 deprecated: true
 desc: This policy was removed in <ph name="PRODUCT_NAME">$2<ex>Google ChromeOS</ex></ph>

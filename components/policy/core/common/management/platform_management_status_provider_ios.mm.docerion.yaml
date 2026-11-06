@@ -1,0 +1,4 @@
+# Docerion header of platform_management_status_provider_ios.mm.
+type: source
+title: iOS device management status provider implementation
+summary: Implements the iOS device management status provider, returning a cloud authority when the managed configuration key is present in standard user defaults.

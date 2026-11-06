@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Chrome switching command-line parameters policy
+# summary: Policy definition for parameters passed from Internet Explorer to Chrome when switching back, requiring the Legacy Browser Support add-in.
+# ---
+
 caption: Command-line parameters for switching from the alternative browser.
 desc: |-
   Setting the policy to a list of strings means the strings are joined with spaces and passed from <ph name="IE_PRODUCT_NAME">Internet Explorer®</ph> to <ph name="PRODUCT_NAME">$1<ex>Google Chrome</ex></ph> as command-line parameters. If a parameter contains <ph name="URL_PLACEHOLDER">${url}</ph>, <ph name="URL_PLACEHOLDER">${url}</ph> is replaced with the URL of the page to open. If no parameter contains <ph name="URL_PLACEHOLDER">${url}</ph>, the URL is appended at the end of the command line.

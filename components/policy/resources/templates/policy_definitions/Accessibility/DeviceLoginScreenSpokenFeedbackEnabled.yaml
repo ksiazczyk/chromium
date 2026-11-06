@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DeviceLoginScreenSpokenFeedbackEnabled policy definition
+# summary: Chrome OS policy definition that controls whether spoken feedback is enabled on the login screen.
+# ---
+
 caption: Enable the spoken feedback on the login screen
 default: null
 desc: |-

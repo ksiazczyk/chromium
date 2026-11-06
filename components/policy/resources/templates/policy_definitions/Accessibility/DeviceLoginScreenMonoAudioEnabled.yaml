@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DeviceLoginScreenMonoAudioEnabled policy definition
+# summary: Chrome OS policy definition that controls whether mono audio is enabled on the login screen, enforced at device level so users cannot override it.
+# ---
+
 caption: Enable mono audio on the login screen
 default: null
 desc: |-

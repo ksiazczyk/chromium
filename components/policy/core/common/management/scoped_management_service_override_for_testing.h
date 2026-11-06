@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped management service override for testing header
+// summary: Declares ScopedManagementServiceOverrideForTesting, an RAII helper that fakes management authorities on a ManagementService for the duration of a test.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_COMMON_MANAGEMENT_SCOPED_MANAGEMENT_SERVICE_OVERRIDE_FOR_TESTING_H_
 #define COMPONENTS_POLICY_CORE_COMMON_MANAGEMENT_SCOPED_MANAGEMENT_SERVICE_OVERRIDE_FOR_TESTING_H_
 

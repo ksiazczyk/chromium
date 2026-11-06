@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: High contrast mode policy
+# summary: Chrome OS policy definition that forces high contrast mode on or off, or leaves the choice to the user.
+# ---
+
 caption: Enable high contrast mode
 default: null
 desc: |-

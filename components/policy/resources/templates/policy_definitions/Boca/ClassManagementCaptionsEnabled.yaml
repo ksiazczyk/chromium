@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Class Tools captions feature policy definition
+# summary: Defines the ChromeOS policy that lets admins allow or prevent teachers from sending live caption transcriptions of their voice to students.
+# ---
+
 caption: Configure <ph name="CLASS_TOOLS_NAME">Class Tools</ph> caption feature
 default: true
 desc: |-

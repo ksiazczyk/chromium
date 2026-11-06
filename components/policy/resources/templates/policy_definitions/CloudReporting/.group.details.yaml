@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Cloud Reporting policy group details
+# summary: Describes the Cloud Reporting policy group and explains when its policies are ignored at the browser and profile levels.
+# ---
+
 caption: Cloud Reporting
 desc: |-
   Configure cloud reporting policies.

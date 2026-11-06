@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Google Workspace Cloud Upload policy definition
+# summary: Defines the ChromeOS enterprise policy that lets admins configure the Cloud Upload flow for Google Drive and Google Workspace with allowed, disallowed or automated values.
+# ---
+
 caption: Configures the <ph name="CLOUD_UPLOAD_NAME">Cloud Upload</ph> flow for <ph name="GOOGLE_DRIVE_NAME">Google Drive</ph> and <ph name="GOOGLE_WORKSPACE_NAME">Google Workspace</ph>
 default: allowed
 default_for_enterprise_users: disallowed

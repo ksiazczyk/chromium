@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DeviceLoginScreenCaretHighlightEnabled policy definition
+# summary: Device-only ChromeOS policy that controls the caret highlight accessibility feature on the login screen.
+# ---
+
 caption: Enable caret highlight on the login screen
 default: null
 desc: |-

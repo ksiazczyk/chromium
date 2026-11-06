@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DeviceLoginScreenHighContrastEnabled policy
+# summary: Defines the ChromeOS device policy that enables or disables the high contrast accessibility feature on the login screen.
+# ---
+
 caption: Enable the high contrast on the login screen
 default: null
 desc: |-

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Common schemas for policy properties
+# summary: Defines reusable YAML schemas for policy value types such as bookmarks, certificates, Parent Access Code and power settings.
+# ---
+
 BookmarkType:
   properties:
     children:

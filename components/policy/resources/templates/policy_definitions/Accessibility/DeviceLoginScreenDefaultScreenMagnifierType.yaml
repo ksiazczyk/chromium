@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DeviceLoginScreenDefaultScreenMagnifierType policy
+# summary: Defines the ChromeOS device policy choosing the default screen magnifier type (off, full-screen, or docked) at the sign-in screen.
+# ---
+
 caption: Set the default screen magnifier type enabled on the login screen
 default: null
 desc: |-

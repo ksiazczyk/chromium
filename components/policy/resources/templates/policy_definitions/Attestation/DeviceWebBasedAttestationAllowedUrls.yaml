@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DeviceWebBasedAttestationAllowedUrls policy definition
+# summary: Defines the list of HTTPS URLs allowed to receive device attestation responses during SAML authentication on the sign-in screen.
+# ---
+
 caption: URLs that will be granted access to perform the device attestation during
   SAML authentication
 desc: |-

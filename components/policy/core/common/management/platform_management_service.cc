@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PlatformManagementService implementation
+// summary: Implements the PlatformManagementService singleton and assembles the platform-specific management status providers.
+// ---
+
 #include "components/policy/core/common/management/platform_management_service.h"
 
 #include "base/no_destructor.h"

@@ -1,0 +1,4 @@
+# Docerion header of policy_templates.build.grd.
+type: config
+title: Policy templates build-time grit definitions
+summary: Grit resource definitions used by the Chromium build to generate localized policy template translations from per-language XTB files.

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: AttestationExtensionAllowlist policy definition
+# summary: Defines the list policy specifying which extensions are allowed to use the Enterprise Platform Keys API for remote attestation.
+# ---
+
 caption: Extensions allowed to to use the remote attestation API
 desc: |-
   Setting the policy specifies the allowed extensions to use the <ph name="ENTERPRISE_PLATFORM_KEYS_API">Enterprise Platform Keys API</ph> functions for remote attestation. Extensions must be on this list to use the API.

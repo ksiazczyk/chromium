@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ArcCertificatesSyncMode policy
+# summary: Policy definition that sets whether ChromeOS CA certificates are made available to ARC apps.
+# ---
+
 caption: Set certificate availability for ARC-apps
 default: 0
 desc: |-

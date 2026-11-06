@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DeviceLoginScreenSelectToSpeakEnabled policy definition
+# summary: Chrome OS policy definition that controls whether the Select-to-Speak accessibility feature is enabled on the login screen.
+# ---
+
 caption: Enable the select to speak on the login screen
 default: null
 desc: |-

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: External greylist URL policy
+# summary: Policy definition pointing to an XML site list of URLs that should never trigger a browser switch.
+# ---
+
 caption: URL of an XML file that contains URLs that should never trigger a browser
   switch.
 desc: |-

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ArcGoogleLocationServicesEnabled policy (deprecated)
+# summary: Deprecated policy definition that controlled Google location services for Android apps during initial ChromeOS setup.
+# ---
+
 caption: Control Android Google location services
 deprecated: true
 default: 0

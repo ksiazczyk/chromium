@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Legacy Browser Support policy group details
+# summary: Group metadata describing the Legacy Browser Support policies that configure switching between browsers.
+# ---
+
 caption: <ph name="LBS_PRODUCT_NAME">Legacy Browser Support</ph>
 desc: |-
   Configure policies to switch between browsers.

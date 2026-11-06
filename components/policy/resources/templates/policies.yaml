@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Policy ID to name mapping
+# summary: Lists numeric policy IDs and their corresponding Chromium policy names, with empty entries for removed policies.
+# ---
+
 policies:
   1: HomepageLocation
   2: HomepageIsNewTabPage

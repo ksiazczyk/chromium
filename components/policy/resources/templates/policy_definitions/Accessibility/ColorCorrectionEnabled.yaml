@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ColorCorrectionEnabled policy definition
+# summary: ChromeOS policy that enables color correction settings to help users with color vision deficiency perceive on-screen colors.
+# ---
+
 caption: Enable the color correction accessibility feature
 default: null
 desc: |-

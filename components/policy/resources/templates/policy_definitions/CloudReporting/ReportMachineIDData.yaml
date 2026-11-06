@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ReportMachineIDData policy definition
+# summary: Policy definition controlling whether machine identification information such as machine name and network addresses is reported.
+# ---
+
 caption: Report Machine Identification information
 default: true
 desc: |-

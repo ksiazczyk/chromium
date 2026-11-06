@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: Borealis policy group details
+# summary: Defines the caption and description metadata for the Borealis policy group in the ChromeOS policy templates.
+# ---
+
 caption: Borealis
 desc: Controls policies related to the <ph name="BOREALIS_NAME">Borealis</ph> subsystem.

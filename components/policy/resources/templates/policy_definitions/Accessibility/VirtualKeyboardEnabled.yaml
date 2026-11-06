@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: VirtualKeyboardEnabled policy definition
+# summary: Policy definition that enables or disables the accessibility virtual keyboard on Chrome OS without affecting the touch virtual keyboard.
+# ---
+
 caption: Enable the accessibility virtual keyboard
 default: null
 desc: |-

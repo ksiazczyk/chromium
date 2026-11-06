@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: 'CAHintCertificates: TLS certificates usable for path-building'
+# summary: Defines the policy listing certificates that are neither trusted nor distrusted but can serve as hints for TLS path-building.
+# ---
+
 caption: TLS certificates that are not trusted or distrusted but can be used in path-building for server authentication
 default: null
 desc: |-

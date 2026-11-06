@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: VirtualKeyboardFeatures policy definition
+# summary: Policy definition that toggles on-screen keyboard features such as auto-complete, handwriting and voice input, supported only in PWA Kiosk mode.
+# ---
+
 caption: Enable or disable various features on the on-screen keyboard
 desc: |-
   Enable or disable various features on the on-screen keyboard. This policy takes effect only when "VirtualKeyboardEnabled" policy is enabled.

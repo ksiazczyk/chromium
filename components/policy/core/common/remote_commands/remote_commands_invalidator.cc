@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote commands invalidator implementation
+// summary: Implements the invalidator that listens for server invalidations and triggers remote command fetches, recording metrics per policy invalidation scope.
+// ---
+
 #include "components/policy/core/common/remote_commands/remote_commands_invalidator.h"
 
 #include <string>

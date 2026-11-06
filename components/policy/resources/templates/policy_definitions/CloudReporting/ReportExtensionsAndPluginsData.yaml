@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ReportExtensionsAndPluginsData policy definition
+# summary: Policy definition controlling whether extension and plugin information is gathered and included in cloud reports.
+# ---
+
 caption: Report Extensions and Plugins information
 default: true
 desc: |-
