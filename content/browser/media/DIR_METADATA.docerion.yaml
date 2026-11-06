@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for content/browser/media
+summary: Points the directory metadata for content/browser/media at the shared mixins defined in //media/COMMON_METADATA.

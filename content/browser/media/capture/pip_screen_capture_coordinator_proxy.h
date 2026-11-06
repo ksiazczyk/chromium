@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PipScreenCaptureCoordinatorProxy interface
+// summary: Declares a proxy interface for safely observing Picture-in-Picture window state and active captures from sequences other than the UI thread.
+// ---
+
 #ifndef CONTENT_BROWSER_MEDIA_CAPTURE_PIP_SCREEN_CAPTURE_COORDINATOR_PROXY_H_
 #define CONTENT_BROWSER_MEDIA_CAPTURE_PIP_SCREEN_CAPTURE_COORDINATOR_PROXY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media devices utility implementation
+// summary: Implements helpers for media device salts, origins, and HMAC-based device IDs used to expose device information to renderers.
+// ---
+
 #include "content/browser/media/media_devices_util.h"
 
 #include <utility>

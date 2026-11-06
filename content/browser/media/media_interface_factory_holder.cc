@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media interface factory holder implementation
+// summary: Implements a holder that connects to the media service, exposes its InterfaceFactory, and handles reconnection after mojo pipe disconnection.
+// ---
+
 #include "content/browser/media/media_interface_factory_holder.h"
 
 namespace content {

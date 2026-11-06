@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ForwardingAudioStreamFactory class declaration
+// summary: Declares the WebContents-observing factory and its Core that manage audio input, output, and loopback stream creation for a WebContents.
+// ---
+
 #ifndef CONTENT_BROWSER_MEDIA_FORWARDING_AUDIO_STREAM_FACTORY_H_
 #define CONTENT_BROWSER_MEDIA_FORWARDING_AUDIO_STREAM_FACTORY_H_
 

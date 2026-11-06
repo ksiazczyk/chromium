@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DCOMPSurfaceRegistryBroker class declaration
+// summary: Declares the browser-process broker that lets the unprivileged Media Foundation utility process register DCOMP surface handles for GPU process access.
+// ---
+
 #ifndef CONTENT_BROWSER_MEDIA_DCOMP_SURFACE_REGISTRY_BROKER_H_
 #define CONTENT_BROWSER_MEDIA_DCOMP_SURFACE_REGISTRY_BROKER_H_
 

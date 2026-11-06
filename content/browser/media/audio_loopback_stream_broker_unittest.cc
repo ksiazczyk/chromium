@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Audio loopback stream broker unit tests
+// summary: Unit tests for AudioLoopbackStreamBroker using mock loopback sources, stream factories, and renderer clients to verify stream creation and cleanup.
+// ---
+
 #include "content/browser/media/audio_loopback_stream_broker.h"
 
 #include <memory>

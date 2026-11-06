@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Swap metrics driver implementation for Mac
+// summary: macOS implementation of SwapMetricsDriver that queries Mach host VM statistics to report swap-in, swap-out, compression and decompression counts to its delegate.
+// ---
+
 #include "content/browser/memory/swap_metrics_driver_impl_mac.h"
 
 #include <mach/mach.h>

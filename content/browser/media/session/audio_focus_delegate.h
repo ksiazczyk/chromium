@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioFocusDelegate interface header
+// summary: Defines the AudioFocusDelegate interface abstracting audio focus handling for MediaSessionImpl, including request, abandon and focus type query methods.
+// ---
+
 #ifndef CONTENT_BROWSER_MEDIA_SESSION_AUDIO_FOCUS_DELEGATE_H_
 #define CONTENT_BROWSER_MEDIA_SESSION_AUDIO_FOCUS_DELEGATE_H_
 

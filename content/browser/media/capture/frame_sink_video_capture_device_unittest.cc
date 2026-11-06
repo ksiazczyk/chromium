@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Frame sink video capture device unit tests
+// summary: Unit tests for FrameSinkVideoCaptureDevice using a mocked VIZ frame sink video capturer, exercising allocation, suspension and frame delivery across UI and device threads.
+// ---
+
 #include "content/browser/media/capture/frame_sink_video_capture_device.h"
 
 #include <algorithm>

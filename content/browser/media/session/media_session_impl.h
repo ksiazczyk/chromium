@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaSessionImpl class declaration
+// summary: Declares MediaSessionImpl, the MediaSession implementation that manages media session state and audio focus for a WebContents, including Android support hooks.
+// ---
+
 #ifndef CONTENT_BROWSER_MEDIA_SESSION_MEDIA_SESSION_IMPL_H_
 #define CONTENT_BROWSER_MEDIA_SESSION_MEDIA_SESSION_IMPL_H_
 

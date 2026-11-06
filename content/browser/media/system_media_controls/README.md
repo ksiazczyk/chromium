@@ -1,3 +1,13 @@
+---
+type: readme
+title: System Media Controls overview
+summary: Explains how System Media Controls work across Chromium, including instanced controls for desktop PWAs.
+relations:
+  - references /content/browser/media/system_media_controls/SMC_overview.jpg
+  - documents /content/browser/media/system_media_controls/system_media_controls_notifier.h
+  - documents /content/browser/media/system_media_controls/web_app_system_media_controls_manager.h
+---
+
 # Overview
 
 System Media Controls (SMC) refers to the system across Chromium that allows

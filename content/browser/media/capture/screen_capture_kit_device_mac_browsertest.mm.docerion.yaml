@@ -1,0 +1,4 @@
+# Docerion header of screen_capture_kit_device_mac_browsertest.mm.
+type: test
+title: ScreenCaptureKit device browser tests
+summary: Browser tests that capture a real window through ScreenCaptureKit using a fake picker, skipped on non-GPU bots and older macOS versions.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IOSurface capture device base implementation
+// summary: Implements the shared base for macOS capture devices that deliver frames as IOSurfaces, handling start/stop, frame refresh, resolution choice and letterboxing.
+// ---
+
 #include "content/browser/media/capture/io_surface_capture_device_base_mac.h"
 
 #include "media/base/video_util.h"

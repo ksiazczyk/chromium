@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Key system support implementation unit tests
+// summary: Unit tests for KeySystemSupportImpl covering capability updates, observer notifications, and protected content permission handling.
+// ---
+
 #include "content/browser/media/key_system_support_impl.h"
 
 #include <string>

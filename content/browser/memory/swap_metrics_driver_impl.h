@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Swap metrics driver implementation header
+// summary: Declares SwapMetricsDriverImpl, the platform-independent base class that runs a periodic timer and delegates platform-specific metric updates.
+// ---
+
 #ifndef CONTENT_BROWSER_MEMORY_SWAP_METRICS_DRIVER_IMPL_H_
 #define CONTENT_BROWSER_MEMORY_SWAP_METRICS_DRIVER_IMPL_H_
 

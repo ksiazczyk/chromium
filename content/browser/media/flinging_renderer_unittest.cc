@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FlingingRenderer unit tests
+// summary: Unit tests verifying FlingingRenderer seek, playback rate, and volume behavior against mock media and flinging controllers.
+// ---
+
 #include "content/browser/media/flinging_renderer.h"
 
 #include "base/functional/callback_helpers.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mouse cursor overlay controller unit test base header
+// summary: Declares a mock overlay and a shared test base class for mouse cursor overlay controller unit tests.
+// ---
+
 #ifndef CONTENT_BROWSER_MEDIA_CAPTURE_MOUSE_CURSOR_OVERLAY_CONTROLLER_UNITTEST_H_
 #define CONTENT_BROWSER_MEDIA_CAPTURE_MOUSE_CURSOR_OVERLAY_CONTROLLER_UNITTEST_H_
 

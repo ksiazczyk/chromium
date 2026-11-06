@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Key system support implementation
+// summary: Implements the browser-side per-render-frame KeySystemSupport mojo service, including protected content permissions and capability observation.
+// ---
+
 #include "content/browser/media/key_system_support_impl.h"
 
 #include "base/logging.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media WebContents observer implementation
+// summary: Implements MediaWebContentsObserver, which maintains per-player state and issues WebContents, audio, wake lock and power-experiment notifications for media player changes.
+// ---
+
 #include "content/browser/media/media_web_contents_observer.h"
 
 #include <algorithm>

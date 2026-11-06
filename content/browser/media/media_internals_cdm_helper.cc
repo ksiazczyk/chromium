@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media internals CDM helper implementation
+// summary: Implements helpers that turn content decryption module info, status reasons and capabilities into structured values for the media internals debugging UI.
+// ---
+
 #include "content/browser/media/media_internals_cdm_helper.h"
 
 #include <memory>

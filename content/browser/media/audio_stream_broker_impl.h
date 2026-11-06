@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio stream broker factory class declarations
+// summary: Declares AudioStreamBrokerFactoryImpl, which creates audio input, loopback, and output stream brokers for renderer clients.
+// ---
+
 #ifndef CONTENT_BROWSER_MEDIA_AUDIO_STREAM_BROKER_IMPL_H_
 #define CONTENT_BROWSER_MEDIA_AUDIO_STREAM_BROKER_IMPL_H_
 

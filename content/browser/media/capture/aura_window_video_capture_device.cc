@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aura window video capture device implementation
+// summary: Implements capture of an aura window's displayed contents as a video frame stream, tracking the target window on the UI thread.
+// ---
+
 #include "content/browser/media/capture/aura_window_video_capture_device.h"
 
 #include <optional>

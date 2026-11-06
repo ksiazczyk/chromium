@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PipScreenCaptureCoordinatorProxyImpl implementation
+// summary: Implements the cross-thread proxy that forwards PiP coordinator state changes to observers running on a different task runner.
+// ---
+
 #include "content/browser/media/capture/pip_screen_capture_coordinator_proxy_impl.h"
 
 #include "base/functional/bind.h"

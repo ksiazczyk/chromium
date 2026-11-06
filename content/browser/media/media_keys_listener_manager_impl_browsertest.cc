@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media keys listener manager browser tests
+// summary: Browser tests for MediaKeysListenerManagerImpl using mock listeners and delegates to verify media key routing and playback-state behavior.
+// ---
+
 #include "content/browser/media/media_keys_listener_manager_impl.h"
 
 #include "base/containers/flat_set.h"

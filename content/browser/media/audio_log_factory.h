@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioLogFactory class declaration
+// summary: Declares the content-layer AudioLogFactory that implements the Mojo AudioLogFactory interface to create audio logs.
+// ---
+
 #ifndef CONTENT_BROWSER_MEDIA_AUDIO_LOG_FACTORY_H_
 #define CONTENT_BROWSER_MEDIA_AUDIO_LOG_FACTORY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentProtectionWindow implementation
+// summary: Implements creation of a hidden child HWND on Windows that Media Foundation uses to select the GPU adapter driving the monitor where the browser window lives.
+// ---
+
 #include "content/browser/media/content_protection_window.h"
 
 #include "base/logging.h"

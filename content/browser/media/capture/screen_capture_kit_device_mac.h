@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScreenCaptureKit device factory header
+// summary: Declares a factory that creates a macOS ScreenCaptureKit video capture device with native picker and PiP exclusion support.
+// ---
+
 #ifndef CONTENT_BROWSER_MEDIA_CAPTURE_SCREEN_CAPTURE_KIT_DEVICE_MAC_H_
 #define CONTENT_BROWSER_MEDIA_CAPTURE_SCREEN_CAPTURE_KIT_DEVICE_MAC_H_
 

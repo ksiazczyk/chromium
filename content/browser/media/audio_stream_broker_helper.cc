@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio stream broker helper implementation
+// summary: Implements helpers that notify a render frame host when an audio stream starts or stops, so the renderer is not backgrounded while audio is active.
+// ---
+
 #include "content/browser/media/audio_stream_broker_helper.h"
 
 #include "base/functional/bind.h"

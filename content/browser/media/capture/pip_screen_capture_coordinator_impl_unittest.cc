@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PipScreenCaptureCoordinatorImpl unit tests
+// summary: Unit tests for the Picture-in-Picture screen capture coordinator, covering state notifications, capture tracking, and screen capture exclusion histogram behavior.
+// ---
+
 #include "content/browser/media/capture/pip_screen_capture_coordinator_impl.h"
 
 #include "base/functional/bind.h"

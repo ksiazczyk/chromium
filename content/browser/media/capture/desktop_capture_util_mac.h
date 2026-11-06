@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac desktop capture utility declarations
+// summary: Declares macOS helpers for resolving application audio capture IDs, creating ScreenCaptureKit devices, and mapping WebContents to native window IDs.
+// ---
+
 #ifndef CONTENT_BROWSER_MEDIA_CAPTURE_DESKTOP_CAPTURE_UTIL_MAC_H_
 #define CONTENT_BROWSER_MEDIA_CAPTURE_DESKTOP_CAPTURE_UTIL_MAC_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScreenCaptureKit fullscreen module header
+// summary: Declares a module that detects fullscreen slideshow presentations in supported apps and resets the capture stream to the fullscreen window.
+// ---
+
 #ifndef CONTENT_BROWSER_MEDIA_CAPTURE_SCREEN_CAPTURE_KIT_FULLSCREEN_MODULE_H_
 #define CONTENT_BROWSER_MEDIA_CAPTURE_SCREEN_CAPTURE_KIT_FULLSCREEN_MODULE_H_
 

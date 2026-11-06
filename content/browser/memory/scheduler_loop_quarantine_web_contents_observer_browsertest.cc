@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scheduler loop quarantine browser tests
+// summary: Browser tests verifying quarantine configuration and navigation exclusion behavior of the scheduler loop quarantine observer under PartitionAlloc.
+// ---
+
 #include "content/browser/memory/scheduler_loop_quarantine_web_contents_observer.h"
 
 #include <algorithm>

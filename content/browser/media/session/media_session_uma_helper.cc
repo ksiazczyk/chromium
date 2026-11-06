@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media session UMA helper implementation
+// summary: Implements UMA metric recording for media session active time and picture-in-picture durations.
+// ---
+
 #include "content/browser/media/session/media_session_uma_helper.h"
 
 #include <utility>

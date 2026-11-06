@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ProvisionFetcherImpl unit tests
+// summary: Unit tests verifying that ProvisionFetcherImpl Mojo connections are destroyed on cross-document navigation and on WebContents teardown.
+// ---
+
 #include "content/public/browser/provision_fetcher_impl.h"
 
 #include "base/run_loop.h"

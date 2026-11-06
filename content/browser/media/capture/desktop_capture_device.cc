@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DesktopCaptureDevice implementation for screen and window capture
+// summary: Implements a VideoCaptureDevice adapter that captures screens and windows through WebRTC desktop capturer code, handling frame conversion, throttling, and wake locks.
+// ---
+
 #include "content/browser/media/capture/desktop_capture_device.h"
 
 #include <stddef.h>

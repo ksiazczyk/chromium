@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media devices permission checker implementation
+// summary: Implements permission checks for microphone, camera, and speaker selection access to media devices on behalf of render frames, honoring permissions policy features.
+// ---
+
 #include "content/browser/media/media_devices_permission_checker.h"
 
 #include <utility>

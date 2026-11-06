@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Frame test utilities implementation
+// summary: Implements test helpers that convert video frames to sRGB bitmaps, adjust rects for fuzzy borders and compute or compare average colors of captured frames.
+// ---
+
 #include "content/browser/media/capture/frame_test_util.h"
 
 #include <stdint.h>

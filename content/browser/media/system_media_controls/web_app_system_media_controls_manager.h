@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAppSystemMediaControlsManager class declaration
+// summary: Declares the manager that owns instanced dPWA system media controls and resolves them by request ID.
+// ---
+
 #ifndef CONTENT_BROWSER_MEDIA_SYSTEM_MEDIA_CONTROLS_WEB_APP_SYSTEM_MEDIA_CONTROLS_MANAGER_H_
 #define CONTENT_BROWSER_MEDIA_SYSTEM_MEDIA_CONTROLS_WEB_APP_SYSTEM_MEDIA_CONTROLS_MANAGER_H_
 

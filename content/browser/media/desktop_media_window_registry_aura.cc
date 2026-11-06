@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aura DesktopMediaWindowRegistry implementation
+// summary: Implements the desktop media window registry on Aura, assigning IDs to windows and removing entries when windows are destroyed.
+// ---
+
 #include "base/containers/id_map.h"
 #include "base/no_destructor.h"
 #include "content/browser/media/desktop_media_window_registry.h"

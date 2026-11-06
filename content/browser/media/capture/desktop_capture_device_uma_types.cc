@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop capture UMA counter recording
+// summary: Records desktop capture events to the WebRTC.DesktopCaptureCounters UMA histogram via IncrementDesktopCaptureCounter.
+// ---
+
 #include "content/browser/media/capture/desktop_capture_device_uma_types.h"
 
 #include "base/metrics/histogram_macros.h"

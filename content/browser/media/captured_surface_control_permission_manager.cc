@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Captured surface control permission manager implementation
+// summary: Implements permission checks and requests for Captured Surface Control on behalf of capturing frames, using the permission controller and user activation.
+// ---
+
 #include "content/browser/media/captured_surface_control_permission_manager.h"
 
 #include "base/command_line.h"

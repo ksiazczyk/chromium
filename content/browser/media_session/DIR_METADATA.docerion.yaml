@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for media_session
+summary: Points the directory's Chromium metadata at the shared mixins in services/media_session/COMMON_METADATA.

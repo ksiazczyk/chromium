@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AudioInputStreamBroker unit tests
+// summary: Tests audio input stream creation through the broker using a mock stream factory and a mock renderer audio input stream factory client.
+// ---
+
 #include "content/browser/media/audio_input_stream_broker.h"
 
 #include <memory>

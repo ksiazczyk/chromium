@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media browser test base header
+// summary: Declares the MediaBrowserTest base class providing helpers to run media test pages, await titles, and encode error messages.
+// ---
+
 #ifndef CONTENT_BROWSER_MEDIA_MEDIA_BROWSERTEST_H_
 #define CONTENT_BROWSER_MEDIA_MEDIA_BROWSERTEST_H_
 

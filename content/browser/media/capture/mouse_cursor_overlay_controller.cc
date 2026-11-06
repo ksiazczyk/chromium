@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mouse cursor overlay controller core implementation
+// summary: Implements the shared logic that manages a mouse cursor overlay during frame sink video capture, including idle timeouts and throttled mouse event forwarding.
+// ---
+
 #include "content/browser/media/capture/mouse_cursor_overlay_controller.h"
 
 #include <cmath>

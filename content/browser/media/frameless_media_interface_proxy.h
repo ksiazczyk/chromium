@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FramelessMediaInterfaceProxy class declaration
+// summary: Declares the InterfaceFactory proxy used in frameless contexts such as WebRTC, WebCodecs workers, and early codec capability queries.
+// ---
+
 #ifndef CONTENT_BROWSER_MEDIA_FRAMELESS_MEDIA_INTERFACE_PROXY_H_
 #define CONTENT_BROWSER_MEDIA_FRAMELESS_MEDIA_INTERFACE_PROXY_H_
 

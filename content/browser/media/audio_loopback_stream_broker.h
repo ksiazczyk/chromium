@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioLoopbackStreamBroker class declaration
+// summary: Declares the broker for loopback audio input streams, which registers as a loopback sink on the source and creates the stream via the audio service.
+// ---
+
 #ifndef CONTENT_BROWSER_MEDIA_AUDIO_LOOPBACK_STREAM_BROKER_H_
 #define CONTENT_BROWSER_MEDIA_AUDIO_LOOPBACK_STREAM_BROKER_H_
 

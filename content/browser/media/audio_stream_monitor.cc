@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio stream monitor implementation
+// summary: Implements AudioStreamMonitor, which tracks the audible state of audio output streams per WebContents to drive tab audio indicators.
+// ---
+
 #include "content/browser/media/audio_stream_monitor.h"
 
 #include "base/functional/bind.h"

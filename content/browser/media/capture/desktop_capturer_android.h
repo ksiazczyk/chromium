@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Android desktop capturer class declaration
+// summary: Declares DesktopCapturerAndroid, a webrtc DesktopCapturer implementation for Android that interacts with a Java ScreenCapture object via JNI.
+// ---
+
 #ifndef CONTENT_BROWSER_MEDIA_CAPTURE_DESKTOP_CAPTURER_ANDROID_H_
 #define CONTENT_BROWSER_MEDIA_CAPTURE_DESKTOP_CAPTURER_ANDROID_H_
 

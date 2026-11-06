@@ -1,0 +1,4 @@
+# Docerion header of screen_capture_kit_fullscreen_module.mm.
+type: source
+title: ScreenCaptureKit fullscreen module for macOS screen capture
+summary: Implements the macOS ScreenCaptureKit fullscreen module, detecting fullscreen presentation windows such as PowerPoint, Keynote and OpenOffice and choosing the matching capture mode.

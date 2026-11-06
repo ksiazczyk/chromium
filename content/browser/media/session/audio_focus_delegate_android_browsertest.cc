@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android audio focus delegate browser test
+// summary: Browser test reproducing a crash after AudioFocusDelegateAndroid destruction on audio focus change, currently disabled everywhere as flaky.
+// ---
+
 #include <memory>
 
 #include "base/command_line.h"

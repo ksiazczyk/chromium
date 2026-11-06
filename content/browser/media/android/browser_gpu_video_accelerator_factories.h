@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserGpuVideoAcceleratorFactories class declaration
+// summary: Declares the browser-process GPU video accelerator factories that provide hardware video decoding contexts, used to generate video thumbnails.
+// ---
+
 #ifndef CONTENT_BROWSER_MEDIA_ANDROID_BROWSER_GPU_VIDEO_ACCELERATOR_FACTORIES_H_
 #define CONTENT_BROWSER_MEDIA_ANDROID_BROWSER_GPU_VIDEO_ACCELERATOR_FACTORIES_H_
 

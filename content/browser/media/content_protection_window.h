@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentProtectionWindow class declaration
+// summary: Declares the browser-side helper owning a hidden child HWND passed to the Media Foundation CDM for GPU adapter selection, with UMA status codes and topology-change handling.
+// ---
+
 #ifndef CONTENT_BROWSER_MEDIA_CONTENT_PROTECTION_WINDOW_H_
 #define CONTENT_BROWSER_MEDIA_CONTENT_PROTECTION_WINDOW_H_
 

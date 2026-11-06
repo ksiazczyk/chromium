@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Swap metrics driver implementation
+// summary: Implements the platform-independent SwapMetricsDriver logic that initializes, starts, stops and periodically updates swap metrics through a delegate.
+// ---
+
 #include "content/browser/memory/swap_metrics_driver_impl.h"
 
 #include <memory>

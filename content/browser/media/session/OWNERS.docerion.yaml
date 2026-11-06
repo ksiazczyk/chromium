@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the media session folder
+summary: OWNERS file that delegates code review ownership of the media session folder to the owners list in services/media_session.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media internals WebUI message handler
+// summary: Implements the WebUI message handler for the media internals debugging page, registering the getEverything callback and forwarding updates to the page as JavaScript.
+// ---
+
 #include "content/browser/media/media_internals_handler.h"
 
 #include "base/functional/bind.h"

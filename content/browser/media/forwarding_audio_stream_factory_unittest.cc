@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ForwardingAudioStreamFactory unit tests
+// summary: Unit tests covering audio stream creation and muting in ForwardingAudioStreamFactory using mock stream factories and brokers.
+// ---
+
 #include "content/browser/media/forwarding_audio_stream_factory.h"
 
 #include <memory>

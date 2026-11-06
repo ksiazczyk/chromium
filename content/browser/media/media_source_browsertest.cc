@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media Source browser tests
+// summary: Browser tests exercising Media Source Extensions playback across WebM, MP3, AAC and Opus content, including MIME type mismatch and codec parameter failure cases.
+// ---
+
 #include "base/command_line.h"
 #include "build/build_config.h"
 #include "content/browser/media/media_browsertest.h"

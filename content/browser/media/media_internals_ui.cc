@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaInternalsUI controller implementation
+// summary: Implements the WebUI controller for the media internals page, adding the message handler and configuring the data source, resources and content security policy.
+// ---
+
 #include "content/browser/media/media_internals_ui.h"
 
 #include "base/version_info/version_info.h"

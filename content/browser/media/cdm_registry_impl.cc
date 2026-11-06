@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CDM registry implementation
+// summary: Implements the CDM registry that tracks available CdmInfo entries and reports key system capability UMA metrics on Windows and Android.
+// ---
+
 #include "content/browser/media/cdm_registry_impl.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Captured Surface Control permission manager unit tests
+// summary: Unit tests for CapturedSurfaceControlPermissionManager covering permission prompts and simulated user responses via a mock permission controller.
+// ---
+
 #include <memory>
 #include <tuple>
 

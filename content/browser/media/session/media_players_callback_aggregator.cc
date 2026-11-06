@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaPlayersCallbackAggregator implementation
+// summary: Implements the ref-counted aggregator that runs a continuous-visibility callback when any media player meets the visibility threshold or when it is destroyed.
+// ---
+
 #include "content/browser/media/session/media_players_callback_aggregator.h"
 
 namespace content {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser GPU video accelerator factories implementation
+// summary: Implements browser-process GPU video accelerator factories for Android, establishing a GPU channel and creating raster contexts used for hardware video decoding such as video thumbnails.
+// ---
+
 #include "content/browser/media/android/browser_gpu_video_accelerator_factories.h"
 
 #include "base/functional/bind.h"

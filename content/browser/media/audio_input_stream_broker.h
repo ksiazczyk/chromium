@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioInputStreamBroker class declaration
+// summary: Declares AudioInputStreamBroker, which brokers a connection between a renderer client and the audio service for audio input streams.
+// ---
+
 #ifndef CONTENT_BROWSER_MEDIA_AUDIO_INPUT_STREAM_BROKER_H_
 #define CONTENT_BROWSER_MEDIA_AUDIO_INPUT_STREAM_BROKER_H_
 

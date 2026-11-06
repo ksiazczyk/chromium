@@ -1,0 +1,4 @@
+# Docerion header of screen_capture_kit_device_mac.mm.
+type: source
+title: ScreenCaptureKit device implementation for macOS
+summary: Implements the ScreenCaptureKit-based screen capture device, including frame geometry parsing and presenter overlay handling.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media session service accessor
+// summary: Implements GetMediaSessionService, returning the browser-wide MediaSessionServiceImpl singleton on the UI thread.
+// ---
+
 #include "content/public/browser/media_session_service.h"
 
 #include "base/no_destructor.h"

@@ -1,0 +1,4 @@
+# Docerion header of desktop_capture_util_mac.mm.
+type: source
+title: Mac desktop capture utility implementation
+summary: Implements macOS helpers that resolve process bundle IDs and application audio capture identifiers for browsers and PWAs, with UMA metrics.

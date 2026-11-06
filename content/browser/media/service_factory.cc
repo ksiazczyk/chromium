@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media service factory implementation
+// summary: Implements lazy launch and caching of CdmService and MediaFoundationService processes, including macOS seatbelt extension tokens and Windows GPU info monitoring.
+// ---
+
 #include "content/browser/media/service_factory.h"
 
 #include <map>

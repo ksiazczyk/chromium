@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux swap metrics driver header
+// summary: Declares SwapMetricsDriverImplLinux, which caches previous vmstat swap counters to compute per-interval swap-in and swap-out counts.
+// ---
+
 #ifndef CONTENT_BROWSER_MEMORY_SWAP_METRICS_DRIVER_IMPL_LINUX_H_
 #define CONTENT_BROWSER_MEMORY_SWAP_METRICS_DRIVER_IMPL_LINUX_H_
 

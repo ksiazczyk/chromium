@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake screen capture picker for macOS (header)
+// summary: Declares a factory for a fake macOS screen capture picker that auto-selects the browser's own window or an overlapping display for testing and automated environments.
+// ---
+
 #ifndef CONTENT_BROWSER_MEDIA_CAPTURE_FAKE_SCREEN_CAPTURE_PICKER_MAC_H_
 #define CONTENT_BROWSER_MEDIA_CAPTURE_FAKE_SCREEN_CAPTURE_PICKER_MAC_H_
 

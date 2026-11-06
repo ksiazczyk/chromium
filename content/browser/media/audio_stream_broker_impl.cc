@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio stream broker factory implementation
+// summary: Implements the audio stream broker factory that creates input, loopback, and output audio stream brokers for renderer audio streams.
+// ---
+
 #include "content/browser/media/audio_stream_broker_impl.h"
 
 #include <utility>

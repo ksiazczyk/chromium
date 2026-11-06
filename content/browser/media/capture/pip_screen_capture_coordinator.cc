@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PiP screen capture coordinator accessor
+// summary: Provides access to the picture-in-picture screen capture coordinator singleton, with an override hook for testing.
+// ---
+
 #include "content/browser/media/capture/pip_screen_capture_coordinator.h"
 
 #include "build/build_config.h"

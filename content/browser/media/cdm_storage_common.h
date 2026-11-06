@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CDM storage shared declarations
+// summary: Declares shared CDM storage types including the CdmStorageOpenError enum, database file name, CdmStorageBindingContext, and CdmFileId.
+// ---
+
 #ifndef CONTENT_BROWSER_MEDIA_CDM_STORAGE_COMMON_H_
 #define CONTENT_BROWSER_MEDIA_CDM_STORAGE_COMMON_H_
 

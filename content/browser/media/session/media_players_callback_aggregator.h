@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaPlayersCallbackAggregator class declaration
+// summary: Declares the aggregator MediaSessionImpl uses to combine visibility callbacks sent to renderer media players and reply to the browser once all finish.
+// ---
+
 #ifndef CONTENT_BROWSER_MEDIA_SESSION_MEDIA_PLAYERS_CALLBACK_AGGREGATOR_H_
 #define CONTENT_BROWSER_MEDIA_SESSION_MEDIA_PLAYERS_CALLBACK_AGGREGATOR_H_
 

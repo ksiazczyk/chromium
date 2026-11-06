@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CaptureScreenshot unit tests
+// summary: Tests the desktop_capture CaptureScreenshot helper using a fake desktop capturer to verify successful and failed screenshot capture flows.
+// ---
+
 #include "content/public/browser/desktop_capture.h"
 
 #include <memory>

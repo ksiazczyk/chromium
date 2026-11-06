@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Frame test utilities header
+// summary: Declares FrameTestUtil helpers for frame-to-bitmap conversion, safe include and exclude rects, approximate color checks and transform mapping in capture tests.
+// ---
+
 #ifndef CONTENT_BROWSER_MEDIA_CAPTURE_FRAME_TEST_UTIL_H_
 #define CONTENT_BROWSER_MEDIA_CAPTURE_FRAME_TEST_UTIL_H_
 

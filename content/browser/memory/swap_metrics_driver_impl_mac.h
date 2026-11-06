@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the Mac swap metrics driver implementation
+// summary: Declares SwapMetricsDriverImplMac, the macOS subclass of SwapMetricsDriverImpl that holds a Mach host port and the previous swap and compression counters.
+// ---
+
 #ifndef CONTENT_BROWSER_MEMORY_SWAP_METRICS_DRIVER_IMPL_MAC_H_
 #define CONTENT_BROWSER_MEMORY_SWAP_METRICS_DRIVER_IMPL_MAC_H_
 

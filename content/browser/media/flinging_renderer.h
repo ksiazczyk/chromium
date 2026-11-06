@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FlingingRenderer class declaration
+// summary: Declares the FlingingRenderer class that bridges media::Renderer commands to a MediaController for an existing cast session created via the PresentationService.
+// ---
+
 #ifndef CONTENT_BROWSER_MEDIA_FLINGING_RENDERER_H_
 #define CONTENT_BROWSER_MEDIA_FLINGING_RENDERER_H_
 

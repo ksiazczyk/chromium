@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media session visibility browser test base
+// summary: Parameterized browser test base class checking media session state when a tab is hidden, under media suspend and background resuming configurations.
+// ---
+
 #include <tuple>
 
 #include "base/command_line.h"

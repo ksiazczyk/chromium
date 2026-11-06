@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Encrypted media browser tests
+// summary: Browser tests for encrypted media playback across key systems and SRC or MSE sources, covering External Clear Key CDM paths in content shell.
+// ---
+
 #include <tuple>
 
 #include "base/command_line.h"

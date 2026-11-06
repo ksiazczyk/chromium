@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Screen capture browser test base implementation
+// summary: Implements shared helpers for screen capture browser tests, such as changing page colors, starting devices and navigating documents.
+// ---
+
 #include "content/browser/media/capture/content_capture_device_browsertest_base.h"
 
 #include <cmath>

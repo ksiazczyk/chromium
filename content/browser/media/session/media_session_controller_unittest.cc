@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MediaSessionController unit tests
+// summary: Unit tests for MediaSessionController using a fake audio focus delegate and a test MediaPlayer mojo receiver to verify session commands.
+// ---
+
 #include "content/browser/media/session/media_session_controller.h"
 
 #include <memory>

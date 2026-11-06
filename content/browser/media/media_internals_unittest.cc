@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MediaInternals unit tests
+// summary: Unit tests for MediaInternals that parse JSON update callbacks and verify audio stream data, video capture capabilities, and media session information.
+// ---
+
 #include "content/browser/media/media_internals.h"
 
 #include <stddef.h>

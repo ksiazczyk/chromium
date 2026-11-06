@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Memory directory metadata
+summary: Declares the PerformanceManager monorail component, the catan-team email and the Buganizer component ID for the memory directory.

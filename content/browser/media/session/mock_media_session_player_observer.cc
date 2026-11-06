@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock media session player observer implementation
+// summary: Implements a mock player observer that simulates media players and counts media session callbacks in tests.
+// ---
+
 #include "content/browser/media/session/mock_media_session_player_observer.h"
 #include "content/public/browser/render_frame_host.h"
 #include "testing/gtest/include/gtest/gtest.h"

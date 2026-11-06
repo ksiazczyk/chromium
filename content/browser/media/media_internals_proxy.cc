@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media internals proxy implementation
+// summary: Implements MediaInternalsProxy, bridging MediaInternals on the IO thread with the media-internals message handler on the UI thread and requesting all media data.
+// ---
+
 #include "content/browser/media/media_internals_proxy.h"
 
 #include "base/functional/bind.h"

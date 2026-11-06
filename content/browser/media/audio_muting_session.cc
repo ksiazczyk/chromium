@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio muting session implementation
+// summary: Implements AudioMutingSession, which binds a LocalMuter to mute audio playback for a group while a loopback stream runs.
+// ---
+
 #include "content/browser/media/audio_muting_session.h"
 
 namespace content {

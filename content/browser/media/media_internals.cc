@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaInternals implementation
+// summary: Implements the browser-side store of active media events, audio logs, and capture data that is reported to the media internals WebUI.
+// ---
+
 #include "content/browser/media/media_internals.h"
 
 #include <stddef.h>

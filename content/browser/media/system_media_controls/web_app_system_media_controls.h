@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAppSystemMediaControls class declaration
+// summary: Declares the wrapper storing a request ID plus the objects a dPWA needs to integrate with OS media controls.
+// ---
+
 #ifndef CONTENT_BROWSER_MEDIA_SYSTEM_MEDIA_CONTROLS_WEB_APP_SYSTEM_MEDIA_CONTROLS_H_
 #define CONTENT_BROWSER_MEDIA_SYSTEM_MEDIA_CONTROLS_WEB_APP_SYSTEM_MEDIA_CONTROLS_H_
 

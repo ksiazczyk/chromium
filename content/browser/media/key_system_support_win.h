@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows key system support header
+// summary: Declares GetMediaFoundationServiceCdmCapability, which returns the CdmCapability supported by a Windows Media Foundation CDM.
+// ---
+
 #ifndef CONTENT_BROWSER_MEDIA_KEY_SYSTEM_SUPPORT_WIN_H_
 #define CONTENT_BROWSER_MEDIA_KEY_SYSTEM_SUPPORT_WIN_H_
 

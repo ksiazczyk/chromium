@@ -1,0 +1,4 @@
+# Docerion header of desktop_media_window_registry_mac.mm.
+type: source
+title: Mac DesktopMediaWindowRegistry implementation
+summary: Implements the desktop media window registry on macOS, using NSWindow window numbers as DesktopMediaID identifiers.

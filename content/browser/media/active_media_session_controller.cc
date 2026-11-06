@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActiveMediaSessionController implementation
+// summary: Implements the controller that forwards media key presses and OS media control events to the active media session or a specific session by request ID.
+// ---
+
 #include "content/browser/media/active_media_session_controller.h"
 
 #include <algorithm>

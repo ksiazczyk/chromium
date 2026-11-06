@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AudioContextManager browser tests
+// summary: Browser tests verifying audible AudioContext playback start and stop notifications and UKM audible-time recording, with flaky cases disabled on several platforms.
+// ---
+
 #include "components/ukm/test_ukm_recorder.h"
 #include "content/public/browser/web_contents_observer.h"
 #include "content/public/test/browser_test.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Captured Surface Controller implementation
+// summary: Implements CapturedSurfaceController, which forwards wheel events and zoom level changes to a captured WebContents after permission checks.
+// ---
+
 #include "content/browser/media/captured_surface_controller.h"
 
 #include <cmath>

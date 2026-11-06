@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux swap metrics driver implementation
+// summary: Implements the Linux swap metrics driver, reading vmstat counters to report swap-in and swap-out counts to its delegate.
+// ---
+
 #include "content/browser/memory/swap_metrics_driver_impl_linux.h"
 
 #include <memory>

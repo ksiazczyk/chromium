@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DesktopCaptureDevice unit tests
+// summary: Unit tests for DesktopCaptureDevice covering frame formats, unpacked and inverted frames, refresh frames, and capture behavior with mock clients.
+// ---
+
 #include "content/browser/media/capture/desktop_capture_device.h"
 
 #include <stddef.h>

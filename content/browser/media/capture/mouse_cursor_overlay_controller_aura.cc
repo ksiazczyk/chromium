@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aura mouse cursor overlay controller implementation
+// summary: Implements the Aura mouse cursor overlay controller, observing window mouse events and reporting cursor positions for the captured view.
+// ---
+
 #include <optional>
 
 #include "base/memory/raw_ptr.h"

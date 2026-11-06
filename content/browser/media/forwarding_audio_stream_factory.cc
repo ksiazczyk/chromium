@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ForwardingAudioStreamFactory implementation
+// summary: Implements per-WebContents audio stream creation, brokering input, output, and loopback streams to the audio service on the UI and IO threads.
+// ---
+
 #include "content/browser/media/forwarding_audio_stream_factory.h"
 
 #include <utility>

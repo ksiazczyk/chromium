@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Audio stream monitor unit tests
+// summary: Unit tests for AudioStreamMonitor covering audible state tracking, indicator timing, stream monitoring lifecycle, and notification behavior.
+// ---
+
 #include "content/browser/media/audio_stream_monitor.h"
 
 #include <map>

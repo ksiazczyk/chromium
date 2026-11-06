@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MidiHost class header
+// summary: Declares MidiHost, which combines MidiManagerClient, MidiSessionProvider, and MidiSession roles to route MIDI data and port state between renderers and the MIDI service.
+// ---
+
 #ifndef CONTENT_BROWSER_MEDIA_MIDI_HOST_H_
 #define CONTENT_BROWSER_MEDIA_MIDI_HOST_H_
 

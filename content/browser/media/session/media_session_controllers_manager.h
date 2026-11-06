@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaSessionControllersManager class declaration
+// summary: Declares MediaSessionControllersManager, the delegate that manages per-player MediaSessionController instances and forwards player events such as play, pause, metadata, mute and picture-in-picture changes.
+// ---
+
 #ifndef CONTENT_BROWSER_MEDIA_SESSION_MEDIA_SESSION_CONTROLLERS_MANAGER_H_
 #define CONTENT_BROWSER_MEDIA_SESSION_MEDIA_SESSION_CONTROLLERS_MANAGER_H_
 

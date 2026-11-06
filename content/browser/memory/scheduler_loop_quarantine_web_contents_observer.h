@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scheduler loop quarantine WebContents observer header
+// summary: Declares the observer that delays scheduler loop quarantine setup until the first WebContents navigation commits to avoid startup metric regressions.
+// ---
+
 #ifndef CONTENT_BROWSER_MEMORY_SCHEDULER_LOOP_QUARANTINE_WEB_CONTENTS_OBSERVER_H_
 #define CONTENT_BROWSER_MEMORY_SCHEDULER_LOOP_QUARANTINE_WEB_CONTENTS_OBSERVER_H_
 

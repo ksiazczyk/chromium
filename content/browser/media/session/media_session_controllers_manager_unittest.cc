@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MediaSessionControllersManager unit tests
+// summary: Unit tests for MediaSessionControllersManager, parameterized over internal media session, audio focus and browser-initiated automatic picture-in-picture feature flags.
+// ---
+
 #include "content/browser/media/session/media_session_controllers_manager.h"
 
 #include <set>

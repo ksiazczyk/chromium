@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebContentsVideoCaptureDevice implementation
+// summary: Implements WebContentsVideoCaptureDevice, forwarding captured content sizes and utilization reports to the frame tracker and applying sub-capture targets.
+// ---
+
 #include "content/browser/media/capture/web_contents_video_capture_device.h"
 
 #include <utility>

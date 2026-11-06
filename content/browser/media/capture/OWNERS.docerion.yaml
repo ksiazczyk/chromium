@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the media capture directory
+summary: Lists the owners who must review changes, with per-file owners for specific capture files.

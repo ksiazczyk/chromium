@@ -1,0 +1,4 @@
+# Docerion header of native_screen_capture_picker_mac.mm.
+type: source
+title: macOS native screen capture picker implementation
+summary: Implements the macOS native screen capture picker on top of SCContentSharingPicker, with UMA logging and picker observation handling.

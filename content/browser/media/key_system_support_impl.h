@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Key system support class header
+// summary: Declares KeySystemSupportImpl, a DocumentUserData handling KeySystemSupport requests, observers, and permission state for a render frame.
+// ---
+
 #ifndef CONTENT_BROWSER_MEDIA_KEY_SYSTEM_SUPPORT_IMPL_H_
 #define CONTENT_BROWSER_MEDIA_KEY_SYSTEM_SUPPORT_IMPL_H_
 

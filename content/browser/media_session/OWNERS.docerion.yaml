@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for media_session
+summary: Delegates code review ownership of the media_session browser directory to services/media_session/OWNERS.

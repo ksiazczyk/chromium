@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaDeviceSaltAndOrigin and device ID helpers
+// summary: Declares the salt and origin value type plus functions to translate media device info into HMAC-hashed IDs suitable for renderer processes.
+// ---
+
 #ifndef CONTENT_BROWSER_MEDIA_MEDIA_DEVICES_UTIL_H_
 #define CONTENT_BROWSER_MEDIA_MEDIA_DEVICES_UTIL_H_
 

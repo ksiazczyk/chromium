@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mouse cursor overlay controller browser tests
+// summary: Browser tests for MouseCursorOverlayController covering cursor overlay behavior, captured mouse events and platform-specific setups with a mock overlay.
+// ---
+
 #include "content/browser/media/capture/mouse_cursor_overlay_controller.h"
 
 #include "base/run_loop.h"

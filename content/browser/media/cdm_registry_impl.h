@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CDM registry implementation header
+// summary: Declares the CdmRegistryImpl singleton that registers Content Decryption Modules, tracks key system capabilities, and observes GPU info updates.
+// ---
+
 #ifndef CONTENT_BROWSER_MEDIA_CDM_REGISTRY_IMPL_H_
 #define CONTENT_BROWSER_MEDIA_CDM_REGISTRY_IMPL_H_
 

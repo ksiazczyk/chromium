@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MidiHost unit tests
+// summary: Unit tests for MidiHost using a fake MIDI manager and factory to verify session startup, port handling, and dispatch of sent MIDI data events.
+// ---
+
 #include "content/browser/media/midi_host.h"
 
 #include <stddef.h>

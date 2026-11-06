@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android cursor renderer implementation
+// summary: Renders a default arrow cursor bitmap with size and hotspot helpers for the Android mouse cursor overlay during capture.
+// ---
+
 #include "content/browser/media/capture/android_cursor_renderer.h"
 
 #include "third_party/skia/include/core/SkCanvas.h"

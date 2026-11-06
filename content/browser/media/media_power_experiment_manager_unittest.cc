@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media power experiment manager unit tests
+// summary: Unit tests verifying that the power experiment starts and stops correctly as players begin and stop playing, including skipped-notification behavior.
+// ---
+
 #include "content/browser/media/media_power_experiment_manager.h"
 
 #include "base/functional/callback_helpers.h"
