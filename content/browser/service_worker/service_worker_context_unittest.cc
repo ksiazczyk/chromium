@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker context unit tests
+// summary: Unit tests for the browser-side service worker context, covering registration storage, user data, DevTools integration and context observer notifications.
+// ---
+
 #include "content/public/browser/service_worker_context.h"
 
 #include <stdint.h>

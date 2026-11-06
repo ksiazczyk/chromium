@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payment handler window support implementation
+// summary: Implements opening a payment handler window through the embedder, falling back to a normal window when the embedder does not support it.
+// ---
+
 #include "content/browser/service_worker/payment_handler_support.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker loader helpers unit tests
+// summary: Unit tests for the service worker loader helpers, focusing on path restriction checks with and without the Service-Worker-Allowed header.
+// ---
+
 #include "content/browser/service_worker/service_worker_loader_helpers.h"
 
 #include "content/browser/service_worker/embedded_worker_test_helper.h"

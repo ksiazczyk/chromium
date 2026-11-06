@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker registration unit tests
+// summary: Unit tests for ServiceWorkerRegistration covering registration lifecycle, lame duck termination, inflight requests, and service worker allow-listing behavior.
+// ---
+
 #include "content/browser/service_worker/service_worker_registration.h"
 
 #include <stdint.h>

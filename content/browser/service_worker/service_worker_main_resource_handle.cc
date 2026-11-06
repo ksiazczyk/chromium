@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service worker main resource handle implementation
+// summary: Implements ServiceWorkerMainResourceHandle, which manages the service worker client, isolation info and context for main resource requests during navigation.
+// ---
+
 #include "content/browser/service_worker/service_worker_main_resource_handle.h"
 
 #include <utility>

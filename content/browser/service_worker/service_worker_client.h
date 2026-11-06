@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service worker client header
+// summary: Declares ServiceWorkerClient, which represents a service worker client per the spec and tracks registration and running status.
+// ---
+
 #ifndef CONTENT_BROWSER_SERVICE_WORKER_SERVICE_WORKER_CLIENT_H_
 #define CONTENT_BROWSER_SERVICE_WORKER_SERVICE_WORKER_CLIENT_H_
 

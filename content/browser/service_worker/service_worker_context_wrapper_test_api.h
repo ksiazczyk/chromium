@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test API for the service worker context wrapper
+// summary: Exposes a small test-only API that lets tests set the storage partition on a ServiceWorkerContextWrapper instance.
+// ---
+
 #ifndef CONTENT_BROWSER_SERVICE_WORKER_SERVICE_WORKER_CONTEXT_WRAPPER_TEST_API_H_
 #define CONTENT_BROWSER_SERVICE_WORKER_SERVICE_WORKER_CONTEXT_WRAPPER_TEST_API_H_
 

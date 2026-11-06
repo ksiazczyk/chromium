@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service worker cache storage matcher implementation
+// summary: Implements matching a fetch request against cache storage to return a cached response for the service worker static routing API.
+// ---
+
 #include "content/browser/service_worker/service_worker_cache_storage_matcher.h"
 
 #include "base/functional/bind.h"

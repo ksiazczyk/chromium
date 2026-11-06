@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service worker registry class declaration
+// summary: Declares ServiceWorkerRegistry, the UI-thread manager of in-memory service worker registrations that communicates with ServiceWorkerStorageControl over Mojo.
+// ---
+
 #ifndef CONTENT_BROWSER_SERVICE_WORKER_SERVICE_WORKER_REGISTRY_H_
 #define CONTENT_BROWSER_SERVICE_WORKER_SERVICE_WORKER_REGISTRY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Per-process security state with C++ bridge
+// summary: Manages per-child-process security state in Rust via a cxx bridge to C++ ProcessLock, covering process locking, WebUI binding grants, and MIDI message permissions.
+// ---
+
 chromium::import! {
     "//base:feature";
 }

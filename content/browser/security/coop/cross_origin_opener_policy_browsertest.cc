@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: COOP browser tests
+// summary: Browser tests covering Cross-Origin-Opener-Policy navigation behavior across policy values such as same-origin, same-origin-plus-coep and same-origin-allow-popups.
+// ---
+
 #include "base/command_line.h"
 #include "base/strings/escape.h"
 #include "base/strings/stringprintf.h"

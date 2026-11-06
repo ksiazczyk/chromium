@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service worker cache writer header
+// summary: Declares ServiceWorkerCacheWriter, which updates the script cache on mismatch, and the WriteObserver interface for storage writes.
+// ---
+
 #ifndef CONTENT_BROWSER_SERVICE_WORKER_SERVICE_WORKER_CACHE_WRITER_H_
 #define CONTENT_BROWSER_SERVICE_WORKER_SERVICE_WORKER_CACHE_WRITER_H_
 

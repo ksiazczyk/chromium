@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base interface for service worker registration jobs
+// summary: Declares the ServiceWorkerRegisterJobBase interface for starting, aborting, and comparing registration, unregistration, and update jobs.
+// ---
+
 #ifndef CONTENT_BROWSER_SERVICE_WORKER_SERVICE_WORKER_REGISTER_JOB_BASE_H_
 #define CONTENT_BROWSER_SERVICE_WORKER_SERVICE_WORKER_REGISTER_JOB_BASE_H_
 

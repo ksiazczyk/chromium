@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SerialService implementation
+// summary: Implements the per-document browser-side serial service, handling port listing, chooser requests, watchers, and back-forward cache disabling.
+// ---
+
 #include "content/browser/serial/serial_service.h"
 
 #include <map>

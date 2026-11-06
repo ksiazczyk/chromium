@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the service worker code
+summary: Lists code owners for the service worker folder and related paths, with per-file ownership rules for type converters and HID, device and USB files.

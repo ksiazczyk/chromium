@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChildProcessSecurityPolicy unit tests
+// summary: Extensive unit test suite covering grants, isolated origins, process locking, and other ChildProcessSecurityPolicy behaviors.
+// ---
+
 #include <algorithm>
 #include <memory>
 #include <optional>

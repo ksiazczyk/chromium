@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service worker unregister job implementation
+// summary: Implements the unregistration job that finds a registration, resolves callbacks, and deletes it immediately or once controlled clients unload.
+// ---
+
 #include "content/browser/service_worker/service_worker_unregister_job.h"
 
 #include <utility>

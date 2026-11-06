@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Embedded worker test helper implementation
+// summary: Implements the in-process test helper that lets browser-side embedded worker code be tested without creating child processes.
+// ---
+
 #include "content/browser/service_worker/embedded_worker_test_helper.h"
 
 #include <string>

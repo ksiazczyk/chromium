@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: COOP reporter class declaration
+// summary: Declares the reporter that queues COOP violation reports to the reporting endpoint during navigation and after a document commits.
+// ---
+
 #ifndef CONTENT_BROWSER_SECURITY_COOP_CROSS_ORIGIN_OPENER_POLICY_REPORTER_H_
 #define CONTENT_BROWSER_SECURITY_COOP_CROSS_ORIGIN_OPENER_POLICY_REPORTER_H_
 

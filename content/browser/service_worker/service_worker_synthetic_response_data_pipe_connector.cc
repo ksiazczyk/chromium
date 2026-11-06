@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Synthetic response data pipe connector implementation
+// summary: Implements draining one Mojo data pipe and writing its buffered data into another producer handle for synthetic responses.
+// ---
+
 #include "content/browser/service_worker/service_worker_synthetic_response_data_pipe_connector.h"
 
 #include "base/sequence_checker.h"

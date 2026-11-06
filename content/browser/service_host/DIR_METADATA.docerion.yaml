@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Service host directory metadata
+summary: Declares the Internals>Sandbox component and the security-dev team email for the service_host directory.

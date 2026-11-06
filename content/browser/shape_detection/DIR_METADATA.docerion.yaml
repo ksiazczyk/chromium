@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Shape detection directory metadata
+summary: Declares the Blink>ShapeDetection monorail component, Buganizer component ID and device-dev team email for this directory.

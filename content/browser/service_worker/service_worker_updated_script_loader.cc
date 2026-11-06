@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service worker updated script loader implementation
+// summary: Implements the URLLoader that fetches updated service worker scripts and streams them to clients during update checks.
+// ---
+
 #include "content/browser/service_worker/service_worker_updated_script_loader.h"
 
 #include <memory>

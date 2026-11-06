@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service worker status to mojom state type converter
+// summary: Converts ServiceWorkerVersion status values into blink mojom ServiceWorkerState through a deprecated mojo TypeConverter kept as a temporary identifier.
+// ---
+
 #include "content/browser/service_worker/service_worker_type_converters.h"
 
 #include "base/notreached.h"

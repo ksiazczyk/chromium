@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: COOP reporter implementation
+// summary: Implements queueing of COOP breakage reports, including URL sanitization and navigation-to and navigation-away report bodies.
+// ---
+
 #include "content/browser/security/coop/cross_origin_opener_policy_reporter.h"
 
 #include "base/memory/raw_ptr.h"

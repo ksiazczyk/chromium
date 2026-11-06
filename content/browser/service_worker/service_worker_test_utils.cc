@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker test utilities implementation
+// summary: Implements shared test helpers, fakes, and navigation clients used by service worker unit and browser tests in the content layer.
+// ---
+
 #include "content/browser/service_worker/service_worker_test_utils.h"
 
 #include <algorithm>

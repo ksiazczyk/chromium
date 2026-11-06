@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service worker single script update checker implementation
+// summary: Implements byte-for-byte update checks that fetch a worker script from the network and compare it with the stored copy.
+// ---
+
 #include "content/browser/service_worker/service_worker_single_script_update_checker.h"
 
 #include <optional>

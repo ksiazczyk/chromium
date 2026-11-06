@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ServiceProcessTracker implementation
+// summary: Implements tracking of running service processes and dispatches launch, termination, and crash notifications to global and per-instance observers.
+// ---
+
 #include "content/browser/service_host/service_process_tracker.h"
 
 #include <map>

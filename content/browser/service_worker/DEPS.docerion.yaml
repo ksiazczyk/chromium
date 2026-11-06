@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the service worker folder
+summary: Sets include rules allowing storage service and LevelDB dependencies, with a special rule permitting network test headers in fake files.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UtilityProcessHost class declaration
+// summary: Declares the browser-side host for utility child processes, including launch options, client callbacks, and crash type definitions.
+// ---
+
 #ifndef CONTENT_BROWSER_SERVICE_HOST_UTILITY_PROCESS_HOST_H_
 #define CONTENT_BROWSER_SERVICE_HOST_UTILITY_PROCESS_HOST_H_
 

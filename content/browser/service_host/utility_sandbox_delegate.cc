@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UtilitySandboxedProcessLauncherDelegate implementation
+// summary: Implements the process launcher delegate that applies sandbox types and platform-specific policy when launching utility processes.
+// ---
+
 #include "content/browser/service_host/utility_sandbox_delegate.h"
 
 #include <optional>

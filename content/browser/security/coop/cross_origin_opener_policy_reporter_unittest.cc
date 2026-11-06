@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: COOP reporter unit tests
+// summary: Unit tests for the COOP reporter, verifying queued reports through a test network context and storage partition.
+// ---
+
 #include "content/browser/security/coop/cross_origin_opener_policy_reporter.h"
 
 #include <memory>

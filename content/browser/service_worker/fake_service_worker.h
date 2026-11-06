@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake service worker header
+// summary: Declares the FakeServiceWorker test double that answers service worker event dispatches with success and is owned by EmbeddedWorkerTestHelper.
+// ---
+
 #ifndef CONTENT_BROWSER_SERVICE_WORKER_FAKE_SERVICE_WORKER_H_
 #define CONTENT_BROWSER_SERVICE_WORKER_FAKE_SERVICE_WORKER_H_
 

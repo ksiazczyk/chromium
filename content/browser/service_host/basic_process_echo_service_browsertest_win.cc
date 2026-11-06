@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows basic process echo service browser test
+// summary: Windows browser test that runs an echo service fixture and parses its API shim audit log to verify thunk, call-site, and tripwire behavior.
+// ---
+
 #include <stddef.h>
 
 #include <memory>

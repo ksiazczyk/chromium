@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service worker registry implementation
+// summary: Implements ServiceWorkerRegistry, which manages in-memory service worker registrations and persists them via the storage service with reconnection and retry recovery.
+// ---
+
 #include "content/browser/service_worker/service_worker_registry.h"
 
 #include <type_traits>

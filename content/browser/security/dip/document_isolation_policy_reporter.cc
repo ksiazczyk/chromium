@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Document Isolation Policy reporter implementation
+// summary: Implements DocumentIsolationPolicyReporter, which queues CORP violation reports to configured endpoints and reporting observers via the network context.
+// ---
+
 #include "content/browser/security/dip/document_isolation_policy_reporter.h"
 
 #include <string_view>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Document Isolation Policy browser tests
+// summary: Browser tests covering Document Isolation Policy enforcement, including isolate-and-require-corp and credentialless values across site isolation configurations.
+// ---
+
 #include "services/network/public/cpp/document_isolation_policy.h"
 
 #include "base/command_line.h"

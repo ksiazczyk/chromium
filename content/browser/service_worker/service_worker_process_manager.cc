@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service worker process manager implementation
+// summary: Implements allocation, refcounting, and release of renderer processes used to run service workers on the UI thread.
+// ---
+
 #include "content/browser/service_worker/service_worker_process_manager.h"
 
 #include <stddef.h>

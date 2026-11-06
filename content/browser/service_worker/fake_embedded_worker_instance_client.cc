@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake embedded worker instance client implementation
+// summary: Implements a fake EmbeddedWorkerInstanceClient that answers start and stop messages without launching a real service worker thread during tests.
+// ---
+
 #include "content/browser/service_worker/fake_embedded_worker_instance_client.h"
 
 #include <utility>

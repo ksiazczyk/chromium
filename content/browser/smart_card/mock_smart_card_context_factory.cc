@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock smart card context factory implementation
+// summary: Implements a GoogleMock double for the SmartCardContextFactory and SmartCardContext Mojo interfaces, faking context creation, reader listing and connections for tests.
+// ---
+
 #include "content/browser/smart_card/mock_smart_card_context_factory.h"
 #include "base/test/gmock_callback_support.h"
 

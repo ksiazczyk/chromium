@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service worker registration status implementation
+// summary: Maps service worker status codes to registration error types and messages used for promise rejections, with crash logging for unexpected codes.
+// ---
+
 #include "content/browser/service_worker/service_worker_registration_status.h"
 
 #include <string>

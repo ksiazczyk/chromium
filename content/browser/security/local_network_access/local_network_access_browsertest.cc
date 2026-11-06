@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Local Network Access browser tests
+// summary: Chromium content-layer browser tests covering local network access request policies, subresource fetches, CORS handling, and IP address space behavior.
+// ---
+
 #include <memory>
 #include <set>
 #include <string>

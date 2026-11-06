@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: C++ shims for Rust policy helpers
+// summary: Implements small C++ helper functions for origin and site URL handling that the Rust implementation calls through the FFI bridge.
+// ---
+
 #include "content/browser/security/cpsp/child_process_security_policy_shim.h"
 
 #include "content/browser/isolated_origin_util.h"

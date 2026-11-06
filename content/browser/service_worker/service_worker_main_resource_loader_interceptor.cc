@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service worker main resource loader interceptor implementation
+// summary: Implements the navigation loader interceptor that creates service worker loaders for navigations, workers, prefetches and downloads.
+// ---
+
 #include "content/browser/service_worker/service_worker_main_resource_loader_interceptor.h"
 
 #include <memory>

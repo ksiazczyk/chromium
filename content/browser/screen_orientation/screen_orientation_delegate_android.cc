@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android screen orientation delegate implementation
+// summary: Android implementation of the screen orientation delegate that forwards lock and unlock requests to the Java provider via JNI and checks phone form factor.
+// ---
+
 #include "content/browser/screen_orientation/screen_orientation_delegate_android.h"
 
 #include "base/android/scoped_java_ref.h"

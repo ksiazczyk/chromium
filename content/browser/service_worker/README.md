@@ -1,3 +1,13 @@
+---
+type: readme
+title: Service workers
+summary: Documents Chromium's service worker implementation, covering an introduction, class overview, Mojo connections, directory structure, storage, eviction, metrics and testing.
+relations:
+  - references /content/browser/cache_storage/README.md
+  - references /net/disk_cache/README.md
+  - references /third_party/blink/public/README.md
+---
+
 # Service workers
 [content/browser/service_worker]: /content/browser/service_worker
 [content/renderer/service_worker]: /content/renderer/service_worker

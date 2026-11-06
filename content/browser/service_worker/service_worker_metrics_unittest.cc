@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker metrics unit tests
+// summary: Unit tests verifying that service worker metrics record the expected histogram samples for start timing and related events.
+// ---
+
 #include "content/browser/service_worker/service_worker_metrics.h"
 
 #include "base/test/metrics/histogram_tester.h"

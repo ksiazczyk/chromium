@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Document Isolation Policy reporter class declaration
+// summary: Declares the UI-thread DocumentIsolationPolicyReporter mojo endpoint, retained by setting objects like RenderFrameHostImpl to report policy violations.
+// ---
+
 #ifndef CONTENT_BROWSER_SECURITY_DIP_DOCUMENT_ISOLATION_POLICY_REPORTER_H_
 #define CONTENT_BROWSER_SECURITY_DIP_DOCUMENT_ISOLATION_POLICY_REPORTER_H_
 

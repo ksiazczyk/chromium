@@ -1,0 +1,4 @@
+# Docerion header of CHILD_PROCESS_SECURITY_POLICY_OWNERS.
+type: config
+title: ChildProcessSecurityPolicy owners list
+summary: Lists the owners responsible for reviewing changes to the ChildProcessSecurityPolicy directory.

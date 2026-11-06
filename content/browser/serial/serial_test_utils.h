@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Serial test mocks declaration
+// summary: Declares MockSerialDelegate with gmock methods and SerialTestContentBrowserClient for serial-related unit and browser tests.
+// ---
+
 #ifndef CONTENT_BROWSER_SERIAL_SERIAL_TEST_UTILS_H_
 #define CONTENT_BROWSER_SERIAL_SERIAL_TEST_UTILS_H_
 

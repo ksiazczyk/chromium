@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker installed scripts sender unit tests
+// summary: Unit tests verifying that installed service worker scripts are transferred to the renderer with the expected headers, body and metadata.
+// ---
+
 #include "content/browser/service_worker/service_worker_installed_scripts_sender.h"
 
 #include "base/functional/bind.h"

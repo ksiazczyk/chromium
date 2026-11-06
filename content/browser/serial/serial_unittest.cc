@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SerialService unit tests
+// summary: Unit tests for SerialService covering port enumeration, chooser requests, connection state events, and permission handling with fake port managers.
+// ---
+
 #include "base/barrier_closure.h"
 #include "base/command_line.h"
 #include "base/memory/raw_ptr.h"

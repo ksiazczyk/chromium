@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: COOP access report manager class declaration
+// summary: Declares the browser-process manager that monitors potential COOP breakages and holds a reporter, with a one-to-one relationship to a RenderFrameHost.
+// ---
+
 #ifndef CONTENT_BROWSER_SECURITY_COOP_CROSS_ORIGIN_OPENER_POLICY_ACCESS_REPORT_MANAGER_H_
 #define CONTENT_BROWSER_SECURITY_COOP_CROSS_ORIGIN_OPENER_POLICY_ACCESS_REPORT_MANAGER_H_
 

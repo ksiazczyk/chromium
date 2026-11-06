@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service worker HID delegate observer implementation
+// summary: Implements HID-specific device delegate behavior, dispatching HID device events to service workers and notifying HidService instances of permission changes.
+// ---
+
 #include "content/browser/service_worker/service_worker_hid_delegate_observer.h"
 
 #include <cstdint>

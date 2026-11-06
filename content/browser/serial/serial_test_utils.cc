@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Serial test delegate implementations
+// summary: Implements MockSerialDelegate and SerialTestContentBrowserClient used to fake serial delegate behavior in tests.
+// ---
+
 #include "content/browser/serial/serial_test_utils.h"
 
 #include <utility>

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: COOP directory metadata
+summary: Metadata for the COOP directory, listing the issue tracker component, public bug component ID and the owning team's email address.

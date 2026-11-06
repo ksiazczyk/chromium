@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service worker main resource loader interceptor header
+// summary: Declares ServiceWorkerMainResourceLoaderInterceptor with factory functions for navigation, worker, prefetch and download requests handled by service workers.
+// ---
+
 #ifndef CONTENT_BROWSER_SERVICE_WORKER_SERVICE_WORKER_MAIN_RESOURCE_LOADER_INTERCEPTOR_H_
 #define CONTENT_BROWSER_SERVICE_WORKER_SERVICE_WORKER_MAIN_RESOURCE_LOADER_INTERCEPTOR_H_
 

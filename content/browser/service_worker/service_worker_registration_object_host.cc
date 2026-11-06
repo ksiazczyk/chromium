@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service worker registration object host implementation
+// summary: Implements the browser-side Mojo host that exposes registration objects to renderers and forwards version changes, updates, and unregistration.
+// ---
+
 #include "content/browser/service_worker/service_worker_registration_object_host.h"
 
 #include "base/debug/crash_logging.h"

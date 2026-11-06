@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Serial directory metadata
+summary: DIR_METADATA file that applies the shared COMMON_METADATA mixins to the serial directory.

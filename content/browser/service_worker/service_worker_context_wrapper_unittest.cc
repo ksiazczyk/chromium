@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker context wrapper unit tests
+// summary: Unit tests for ServiceWorkerContextWrapper that use a disk-backed user data directory to exercise registration storage and wrapper initialisation.
+// ---
+
 #include "content/browser/service_worker/service_worker_context_wrapper.h"
 
 #include <memory>

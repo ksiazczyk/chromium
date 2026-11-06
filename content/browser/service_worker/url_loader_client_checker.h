@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL loader client checker declaration
+// summary: Declares URLLoaderClientCheckedRemote, a drop-in replacement for a URLLoaderClient mojo remote that checks method call order while investigating crbug 1346074.
+// ---
+
 #ifndef CONTENT_BROWSER_SERVICE_WORKER_URL_LOADER_CLIENT_CHECKER_H_
 #define CONTENT_BROWSER_SERVICE_WORKER_URL_LOADER_CLIENT_CHECKER_H_
 

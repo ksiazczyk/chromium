@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: COOP access report manager implementation
+// summary: Implements monitoring of potential COOP breakages by installing access monitors between main frames in different virtual browsing context groups.
+// ---
+
 #include "content/browser/security/coop/cross_origin_opener_policy_access_report_manager.h"
 
 #include <utility>

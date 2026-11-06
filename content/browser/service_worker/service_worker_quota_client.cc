@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service worker quota client implementation
+// summary: Implements the quota client that reports service worker storage usage and handles bucket deletion and storage cleanup for the quota system.
+// ---
+
 #include "content/browser/service_worker/service_worker_quota_client.h"
 
 #include <string>

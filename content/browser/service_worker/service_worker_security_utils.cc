@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service worker security utilities
+// summary: Provides service worker security helpers such as JavaScript registration permission, same-origin matching, web security disabled handling, and storage key checks.
+// ---
+
 #include "content/browser/service_worker/service_worker_security_utils.h"
 
 #include "base/command_line.h"

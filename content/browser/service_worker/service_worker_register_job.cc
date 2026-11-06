@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service worker register job implementation
+// summary: Implements the registration and update job that fetches scripts, runs install and activate phases, and stores new service worker versions.
+// ---
+
 #include "content/browser/service_worker/service_worker_register_job.h"
 
 #include <stdint.h>

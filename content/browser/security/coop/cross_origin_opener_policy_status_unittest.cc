@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CrossOriginOpenerPolicyStatus unit tests
+// summary: Unit tests verifying when navigations should swap browsing instances for various COOP value pairs across same-origin, cross-origin, and new popup scenarios.
+// ---
+
 #include "content/browser/security/coop/cross_origin_opener_policy_status.h"
 
 #include "base/test/scoped_feature_list.h"

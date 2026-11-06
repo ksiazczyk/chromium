@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test service worker observer helper
+// summary: Test helper that observes service worker version status changes and live versions, providing wait helpers for activation and status transitions.
+// ---
+
 #include "content/browser/service_worker/test_service_worker_observer.h"
 
 #include <utility>

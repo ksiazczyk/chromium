@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service worker registration implementation
+// summary: Implements the core service worker registration object, managing installing, waiting, and active versions plus uninstall and deletion lifecycle.
+// ---
+
 #include "content/browser/service_worker/service_worker_registration.h"
 
 #include <utility>

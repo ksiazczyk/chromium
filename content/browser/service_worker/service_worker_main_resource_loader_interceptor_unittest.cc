@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker main resource loader interceptor unit tests
+// summary: Unit tests for ShouldCreateForNavigation, checking interceptor creation across HTTP, HTTPS, FTP, external file schemes and request destinations.
+// ---
+
 #include "content/browser/service_worker/service_worker_main_resource_loader_interceptor.h"
 
 #include "content/public/test/browser_task_environment.h"

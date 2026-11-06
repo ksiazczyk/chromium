@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker internals browser tests
+// summary: Browser tests for the service worker internals debugging page, verifying registration, unregistration, and version state changes through the WebUI.
+// ---
+
 #include "content/public/browser/devtools_manager_delegate.h"
 #include "content/public/browser/devtools_agent_host.h"
 #include "content/browser/devtools/devtools_manager.h"

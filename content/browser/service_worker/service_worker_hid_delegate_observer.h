@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service worker HID delegate observer header
+// summary: Declares ServiceWorkerHidDelegateObserver, a broker between HidService and HidDelegate that tracks registrations using WebHID and delivers HID device events to service workers.
+// ---
+
 #ifndef CONTENT_BROWSER_SERVICE_WORKER_SERVICE_WORKER_HID_DELEGATE_OBSERVER_H_
 #define CONTENT_BROWSER_SERVICE_WORKER_SERVICE_WORKER_HID_DELEGATE_OBSERVER_H_
 

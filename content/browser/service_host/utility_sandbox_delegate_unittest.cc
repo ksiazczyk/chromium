@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Utility sandbox delegate unit tests
+// summary: Windows unit tests checking App Container and LPAC configuration for the utility sandbox delegate across feature states.
+// ---
+
 #include "content/browser/service_host/utility_sandbox_delegate.h"
 
 #include <memory>

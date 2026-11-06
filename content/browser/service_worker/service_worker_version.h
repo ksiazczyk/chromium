@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ServiceWorkerVersion class header
+// summary: Declares ServiceWorkerVersion, which represents one version of a service worker registration and manages its embedded worker, clients, and event handling.
+// ---
+
 #ifndef CONTENT_BROWSER_SERVICE_WORKER_SERVICE_WORKER_VERSION_H_
 #define CONTENT_BROWSER_SERVICE_WORKER_SERVICE_WORKER_VERSION_H_
 

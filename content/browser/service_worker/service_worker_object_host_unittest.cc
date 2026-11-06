@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker object host unit tests
+// summary: Unit tests for ServiceWorkerObjectHost covering extendable message events, state changes, and Mojo connection error handling.
+// ---
+
 #include "content/browser/service_worker/service_worker_object_host.h"
 
 #include <tuple>

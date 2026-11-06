@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service worker job coordinator implementation
+// summary: Implements coordination of in-flight service worker registration and unregistration jobs, queued per scope and storage key.
+// ---
+
 #include "content/browser/service_worker/service_worker_job_coordinator.h"
 
 #include <stddef.h>

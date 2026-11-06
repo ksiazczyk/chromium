@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service worker update checker implementation
+// summary: Implements byte-for-byte update checking of service worker scripts against the stored version as part of the spec update algorithm.
+// ---
+
 #include "content/browser/service_worker/service_worker_update_checker.h"
 
 #include <algorithm>

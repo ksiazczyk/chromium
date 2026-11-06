@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EmbeddedWorkerInstance class declaration
+// summary: Declares EmbeddedWorkerInstance, the interface for controlling an in-waiting or running embedded worker owned by ServiceWorkerVersion.
+// ---
+
 #ifndef CONTENT_BROWSER_SERVICE_WORKER_EMBEDDED_WORKER_INSTANCE_H_
 #define CONTENT_BROWSER_SERVICE_WORKER_EMBEDDED_WORKER_INSTANCE_H_
 

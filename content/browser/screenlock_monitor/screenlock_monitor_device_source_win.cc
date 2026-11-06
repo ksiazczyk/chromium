@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows screenlock device source (device_source_win.cc)
+// summary: Implements the Windows SessionMessageWindow that registers for WTS session notifications and maps session lock and unlock messages to screenlock events, with fake APIs for testing.
+// ---
+
 #include "content/browser/screenlock_monitor/screenlock_monitor_device_source.h"
 
 #include <memory>

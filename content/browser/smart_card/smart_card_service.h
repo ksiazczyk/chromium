@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Smart card service class declaration
+// summary: Declares the DocumentService-based SmartCardService that implements the SmartCardService Mojo interface Blink uses for the Web Smart Card API.
+// ---
+
 #ifndef CONTENT_BROWSER_SMART_CARD_SMART_CARD_SERVICE_H_
 #define CONTENT_BROWSER_SMART_CARD_SMART_CARD_SERVICE_H_
 

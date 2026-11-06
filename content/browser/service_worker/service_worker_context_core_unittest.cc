@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker context core unit tests
+// summary: Unit tests for ServiceWorkerContextCore covering service worker registration, activation, and registration lookup behavior.
+// ---
+
 #include "content/browser/service_worker/service_worker_context_core.h"
 
 #include <memory>

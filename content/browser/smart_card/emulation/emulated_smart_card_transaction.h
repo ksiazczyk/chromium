@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Emulated smart card transaction class declaration
+// summary: Declares EmulatedSmartCardTransaction, which implements the SmartCardTransaction Mojo interface for a transaction on an emulated smart card connection.
+// ---
+
 #ifndef CONTENT_BROWSER_SMART_CARD_EMULATION_EMULATED_SMART_CARD_TRANSACTION_H_
 #define CONTENT_BROWSER_SMART_CARD_EMULATION_EMULATED_SMART_CARD_TRANSACTION_H_
 

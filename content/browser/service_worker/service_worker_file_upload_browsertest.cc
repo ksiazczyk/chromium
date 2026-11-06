@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker file upload browser tests
+// summary: Browser tests for POST requests with file uploads intercepted by service workers, run against an embedded test server.
+// ---
+
 #include <string_view>
 
 #include "base/files/file_util.h"

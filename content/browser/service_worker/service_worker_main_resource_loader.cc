@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service worker main resource loader implementation
+// summary: Implements the URLLoader for navigation and shared worker main resource requests that go through a service worker, dispatching fetch events and handling responses and fallbacks.
+// ---
+
 #include "content/browser/service_worker/service_worker_main_resource_loader.h"
 
 #include <optional>

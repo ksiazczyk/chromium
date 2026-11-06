@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Emulated smart card context factory implementation
+// summary: Implements the SmartCardContextFactory Mojo interface, binding incoming receivers and forwarding context creation requests to the SmartCardEmulationManager.
+// ---
+
 #include "content/browser/smart_card/emulation/emulated_smart_card_context_factory.h"
 
 #include "content/browser/smart_card/emulation/emulated_smart_card_context.h"

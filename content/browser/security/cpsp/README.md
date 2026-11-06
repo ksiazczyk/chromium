@@ -1,3 +1,9 @@
+---
+type: readme
+title: ChildProcessSecurityPolicy overview and Rust migration
+summary: Explains the browser-side security reference monitor for child processes and the incremental migration from C++ to Rust behind the ChildProcessSecurityPolicyRust feature flag.
+---
+
 # ChildProcessSecurityPolicy
 
 This directory contains Chromium's reference monitor for enforcing security

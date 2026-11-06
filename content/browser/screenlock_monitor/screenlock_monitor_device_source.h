@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScreenlockMonitorDeviceSource header (device_source.h)
+// summary: 'Declares ScreenlockMonitorDeviceSource with platform-specific screenlock listeners: a Windows WTS session message window, macOS listening hooks, and a ChromeOS session manager observer.'
+// ---
+
 #ifndef CONTENT_BROWSER_SCREENLOCK_MONITOR_SCREENLOCK_MONITOR_DEVICE_SOURCE_H_
 #define CONTENT_BROWSER_SCREENLOCK_MONITOR_SCREENLOCK_MONITOR_DEVICE_SOURCE_H_
 

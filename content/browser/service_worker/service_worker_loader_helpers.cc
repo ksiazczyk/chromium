@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service worker loader helpers implementation
+// summary: Implements helper functions for service worker script loading, including scope restriction checks and response handling.
+// ---
+
 #include "content/browser/service_worker/service_worker_loader_helpers.h"
 
 #include <optional>

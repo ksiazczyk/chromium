@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UtilityProcessClient implementation
+// summary: Implements the client that reports utility process launch, termination, and crash events from UtilityProcessHost to the ServiceProcessTracker.
+// ---
+
 #include "content/browser/service_host/utility_process_client.h"
 
 #include <optional>

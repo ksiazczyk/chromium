@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shape Detection API browser tests
+// summary: Content browser tests that run FaceDetector on test images through a test HTML page and compare detected face bounding boxes with expected values.
+// ---
+
 #include "base/command_line.h"
 #include "base/strings/string_tokenizer.h"
 #include "build/build_config.h"

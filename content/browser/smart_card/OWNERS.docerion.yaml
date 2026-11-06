@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Smart card directory owners
+summary: Points to the Blink smart card renderer module OWNERS file so the same reviewers own the browser-side smart card code.

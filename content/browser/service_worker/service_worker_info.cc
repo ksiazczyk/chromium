@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service worker version and registration info implementation
+// summary: Implements constructors for ServiceWorkerVersionInfo and ServiceWorkerRegistrationInfo structs describing service worker versions and registrations for DevTools and internals.
+// ---
+
 #include "content/browser/service_worker/service_worker_info.h"
 
 #include "base/byte_size.h"

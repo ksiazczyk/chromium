@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Rust ChildProcessSecurityPolicy implementation
+// summary: Rust implementation of the policy singleton, with a CXX bridge exposing its API to C++ and calling back into C++ helpers for origins and site URLs.
+// ---
+
 use cxx::UniquePtr;
 use std::collections::{BTreeMap, BTreeSet, HashMap};
 use std::path::PathBuf;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SerialService class declaration
+// summary: Declares SerialService, a DocumentUserData Mojo service implementing the Web Serial API with port watching and permission revocation support.
+// ---
+
 #ifndef CONTENT_BROWSER_SERIAL_SERIAL_SERVICE_H_
 #define CONTENT_BROWSER_SERIAL_SERIAL_SERVICE_H_
 

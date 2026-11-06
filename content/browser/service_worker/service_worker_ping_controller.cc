@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service worker ping controller implementation
+// summary: Implements periodic pinging of a service worker to detect stalled or unresponsive workers and trigger ping timeouts.
+// ---
+
 #include "content/browser/service_worker/service_worker_ping_controller.h"
 
 #include "content/browser/service_worker/service_worker_version.h"

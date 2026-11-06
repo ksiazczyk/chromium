@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ServiceWorkerVersion browser tests
+// summary: Browser tests for ServiceWorkerVersion covering version lifecycle behavior, V8 script cache data, and blob side data in a full browser test environment.
+// ---
+
 #include "content/browser/service_worker/service_worker_version.h"
 
 #include <stddef.h>

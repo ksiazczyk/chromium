@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Synthetic response data pipe connector header
+// summary: Declares a class that reads response body data from a consumer pipe and transfers it to a producer pipe on demand.
+// ---
+
 #ifndef CONTENT_BROWSER_SERVICE_WORKER_SERVICE_WORKER_SYNTHETIC_RESPONSE_DATA_PIPE_CONNECTOR_H_
 #define CONTENT_BROWSER_SERVICE_WORKER_SERVICE_WORKER_SYNTHETIC_RESPONSE_DATA_PIPE_CONNECTOR_H_
 

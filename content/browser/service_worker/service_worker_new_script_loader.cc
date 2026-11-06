@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service worker new script loader implementation
+// summary: Implements the URLLoader that fetches scripts for installing service workers while writing responses into the script storage.
+// ---
+
 #include "content/browser/service_worker/service_worker_new_script_loader.h"
 
 #include <memory>

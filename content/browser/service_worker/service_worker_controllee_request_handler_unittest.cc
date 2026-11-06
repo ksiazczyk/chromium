@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker controllee request handler unit tests
+// summary: Unit tests for ServiceWorkerControlleeRequestHandler covering request interception by service workers, fallback behavior, and delete-and-start-over handling.
+// ---
+
 #include "content/browser/service_worker/service_worker_controllee_request_handler.h"
 
 #include <memory>

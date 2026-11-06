@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service worker ping controller header
+// summary: Declares the controller that periodically pings a service worker to detect stalls or busy synchronous loops and report timeouts.
+// ---
+
 #ifndef CONTENT_BROWSER_SERVICE_WORKER_SERVICE_WORKER_PING_CONTROLLER_H_
 #define CONTENT_BROWSER_SERVICE_WORKER_SERVICE_WORKER_PING_CONTROLLER_H_
 

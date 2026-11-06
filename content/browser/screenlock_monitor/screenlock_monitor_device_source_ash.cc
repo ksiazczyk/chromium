@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS Ash screenlock listener (device_source_ash.cc)
+// summary: Implements the ChromeOS ScreenLockListener that observes SessionManager state changes and forwards deduplicated screen lock and unlock events to the monitor.
+// ---
+
 #include "content/browser/screenlock_monitor/screenlock_monitor_device_source.h"
 
 #include "base/trace_event/trace_event.h"

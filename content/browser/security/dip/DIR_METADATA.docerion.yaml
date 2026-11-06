@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR metadata for the Document Isolation Policy directory
+summary: Directory metadata assigning the chrome-security-owp-team email and Buganizer component 1552691 to the DIP folder.

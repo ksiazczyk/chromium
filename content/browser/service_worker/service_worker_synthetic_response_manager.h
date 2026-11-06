@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Synthetic response manager header
+// summary: Declares the manager that initiates network requests, dispatches responses, and transfers synthetic response data between pipes.
+// ---
+
 #include "url/gurl.h"
 
 #ifndef CONTENT_BROWSER_SERVICE_WORKER_SERVICE_WORKER_SYNTHETIC_RESPONSE_MANAGER_H_

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android screen orientation delegate unit tests
+// summary: Unit tests for the Android delegate verifying that orientation lock support is restricted to phones under the kRestrictOrientationLockToPhones feature.
+// ---
+
 #include "content/browser/screen_orientation/screen_orientation_delegate_android.h"
 
 #include <optional>

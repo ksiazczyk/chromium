@@ -4,6 +4,12 @@
 
 // This file exposes services in the browser to the utility process.
 
+// ---docerion
+// type: source
+// title: Utility process host receiver bindings
+// summary: Binds browser-side services such as the font service and GPU client to Mojo receivers requested by the utility process.
+// ---
+
 #include "build/build_config.h"
 #include "content/browser/service_host/utility_process_host.h"
 #include "content/public/browser/content_browser_client.h"

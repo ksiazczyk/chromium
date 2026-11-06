@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker device delegate observer test fixture header
+// summary: Declares the ServiceWorkerDeviceDelegateObserverTest fixture with helpers to install service workers for device delegate observer tests.
+// ---
+
 #ifndef CONTENT_BROWSER_SERVICE_WORKER_SERVICE_WORKER_DEVICE_DELEGATE_OBSERVER_UNITTEST_H_
 #define CONTENT_BROWSER_SERVICE_WORKER_SERVICE_WORKER_DEVICE_DELEGATE_OBSERVER_UNITTEST_H_
 

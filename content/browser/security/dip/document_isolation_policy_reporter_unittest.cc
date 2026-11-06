@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Document Isolation Policy reporter unit tests
+// summary: Unit tests for DocumentIsolationPolicyReporter verifying CORP violation reports are queued with correct bodies to the network context and reporting observers.
+// ---
+
 #include "content/browser/security/dip/document_isolation_policy_reporter.h"
 
 #include <optional>

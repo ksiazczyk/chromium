@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Synthetic response data pipe connector unit tests
+// summary: Unit tests covering basic transfer, incremental reads with small pipe capacity, and peer-closed handling of the connector.
+// ---
+
 #include "content/browser/service_worker/service_worker_synthetic_response_data_pipe_connector.h"
 
 #include <string>

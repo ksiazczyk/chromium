@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Emulated smart card connection implementation
+// summary: Implements the SmartCardConnection Mojo interface for DevTools smart card emulation, forwarding disconnect, transmit, control, attribute, status and transaction calls to the emulation manager.
+// ---
+
 #include "content/browser/smart_card/emulation/emulated_smart_card_connection.h"
 
 #include "content/browser/smart_card/emulation/emulated_smart_card_context_factory.h"
