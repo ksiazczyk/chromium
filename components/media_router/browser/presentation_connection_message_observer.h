@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Presentation connection message observer header
+// summary: Declares an observer class that receives messages from the media sink connected to a media route, marked for future removal.
+// ---
+
 #ifndef COMPONENTS_MEDIA_ROUTER_BROWSER_PRESENTATION_CONNECTION_MESSAGE_OBSERVER_H_
 #define COMPONENTS_MEDIA_ROUTER_BROWSER_PRESENTATION_CONNECTION_MESSAGE_OBSERVER_H_
 

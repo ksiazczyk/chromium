@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media sink discovery callback
+// summary: MediaRouter callback that tracks discovered sinks for a route selector and notifies the discovery delegate when routes are added, removed or changed.
+// ---
+
 package org.chromium.components.media_router;
 
 import androidx.mediarouter.media.MediaRouteSelector;

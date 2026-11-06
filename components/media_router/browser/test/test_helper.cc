@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media router test helper implementations
+// summary: Implements mock issues, sinks, and routes observers plus a mock presentation connection proxy used by media router unit tests.
+// ---
+
 #include "components/media_router/browser/test/test_helper.h"
 
 #include "base/functional/bind.h"

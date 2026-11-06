@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base media route provider for CAF-based providers
+// summary: Abstract MediaRouteProvider with common CAF implementation for sink discovery, route management and Cast session handling, forwarding discovered sinks to the media router manager.
+// ---
+
 package org.chromium.components.media_router.caf;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

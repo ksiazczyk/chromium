@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Controller presentation service delegate class declaration
+// summary: Declares ControllerPresentationServiceDelegateImpl, a WebContents-scoped delegate that routes Presentation API calls from renderers to the Media Router.
+// ---
+
 #ifndef COMPONENTS_MEDIA_ROUTER_BROWSER_PRESENTATION_CONTROLLER_PRESENTATION_SERVICE_DELEGATE_IMPL_H_
 #define COMPONENTS_MEDIA_ROUTER_BROWSER_PRESENTATION_CONTROLLER_PRESENTATION_SERVICE_DELEGATE_IMPL_H_
 

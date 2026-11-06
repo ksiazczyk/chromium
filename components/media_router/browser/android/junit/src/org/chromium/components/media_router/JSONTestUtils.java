@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: JSON comparison utilities for media router tests
+// summary: Test utilities that compare JSON objects and arrays and provide Mockito matchers for expected JSON content.
+// ---
+
 package org.chromium.components.media_router;
 
 import org.json.JSONArray;

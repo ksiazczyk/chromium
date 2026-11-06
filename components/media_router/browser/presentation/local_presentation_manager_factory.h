@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local presentation manager factory class declaration
+// summary: Declares LocalPresentationManagerFactory with static accessors to get or create the LocalPresentationManager for a WebContents or BrowserContext.
+// ---
+
 #ifndef COMPONENTS_MEDIA_ROUTER_BROWSER_PRESENTATION_LOCAL_PRESENTATION_MANAGER_FACTORY_H_
 #define COMPONENTS_MEDIA_ROUTER_BROWSER_PRESENTATION_LOCAL_PRESENTATION_MANAGER_FACTORY_H_
 

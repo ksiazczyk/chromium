@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CafRemotingMediaRouteProviderTest
+// summary: Robolectric tests for CafRemotingMediaRouteProvider, covering sink observation, media source updates and route creation behavior.
+// ---
+
 package org.chromium.components.media_router.caf.remoting;
 
 import static org.junit.Assert.assertEquals;

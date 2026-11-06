@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaRouteChooserDialogManager for sink selection dialog
+// summary: Manages the Android dialog fragment that lets the user select a MediaSink, recording the discovered device count with a three-second delay for UMA.
+// ---
+
 package org.chromium.components.media_router;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

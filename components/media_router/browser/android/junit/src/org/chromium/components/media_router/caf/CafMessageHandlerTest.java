@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Robolectric tests for CafMessageHandler
+// summary: Robolectric unit tests for CafMessageHandler covering client records, session messages, and Cast API request handling.
+// ---
+
 package org.chromium.components.media_router.caf;
 
 import static org.junit.Assert.assertEquals;

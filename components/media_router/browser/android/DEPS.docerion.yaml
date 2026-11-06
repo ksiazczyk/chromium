@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for media router Android
+summary: Restricts which directories this media router Android code may include, allowing base, browser UI, media session, and UI Android dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Controller presentation service delegate unit tests
+// summary: Unit tests for ControllerPresentationServiceDelegateImpl covering default presentations, start and reconnect flows, screen availability, and observer notifications.
+// ---
+
 #include "components/media_router/browser/presentation/controller_presentation_service_delegate_impl.h"
 
 #include "base/functional/bind.h"

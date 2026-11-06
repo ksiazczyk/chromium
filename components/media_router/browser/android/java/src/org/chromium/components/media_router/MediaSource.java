@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaSource interface for parsing Cast source URNs
+// summary: Interface that abstracts parsing the Cast application id and other parameters from a media source URN, exposing route selector building and source/application ids.
+// ---
+
 package org.chromium.components.media_router;
 
 import androidx.mediarouter.media.MediaRouteSelector;

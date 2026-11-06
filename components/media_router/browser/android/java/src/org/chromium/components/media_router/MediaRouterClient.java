@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaRouterClient abstraction for embedders
+// summary: Abstract singleton class letting embedders implement behavior needed by shared Media Router code, such as contexts, tab intents, notifications and fragment managers.
+// ---
+
 package org.chromium.components.media_router;
 
 import android.annotation.SuppressLint;

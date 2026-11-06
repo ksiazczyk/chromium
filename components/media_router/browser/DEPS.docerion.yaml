@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Media Router browser include rules
+summary: Defines the allowed include dependencies for the media router browser directory, such as media/base, mojo, keyed_service, and content public APIs.

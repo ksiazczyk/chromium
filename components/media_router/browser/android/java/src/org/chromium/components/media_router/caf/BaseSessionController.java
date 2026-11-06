@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base Cast session controller with lifecycle and callbacks
+// summary: Abstract wrapper around CastSession that manages session lifecycle, route creation info and remote media client access, and notifies registered callbacks of state changes.
+// ---
+
 package org.chromium.components.media_router.caf;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

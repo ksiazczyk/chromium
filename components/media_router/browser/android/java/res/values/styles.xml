@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Cast and media router Android styles
+summary: Android resource XML defining styles for the cast media route button and cast screen title text used by Chromium's media router UI.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Cast and media playback notifications -->
     <style name="CastMediaRouteButton" parent="@style/Widget.MediaRouter.MediaRouteButton">

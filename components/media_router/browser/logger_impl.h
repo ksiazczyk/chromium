@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoggerImpl class header
+// summary: Declares LoggerImpl, the Media Router Mojo logger that stores log entries in a bounded deque, notifies observers, and exports logs as JSON.
+// ---
+
 #ifndef COMPONENTS_MEDIA_ROUTER_BROWSER_LOGGER_IMPL_H_
 #define COMPONENTS_MEDIA_ROUTER_BROWSER_LOGGER_IMPL_H_
 

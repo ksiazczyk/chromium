@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Robolectric shadow for CastContext
+// summary: Robolectric shadow that lets tests inject and retrieve a CastContext instance for Cast media router tests.
+// ---
+
 package org.chromium.components.media_router.caf;
 
 import android.content.Context;

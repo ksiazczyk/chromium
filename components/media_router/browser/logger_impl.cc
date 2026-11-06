@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media Router logger implementation
+// summary: Implements LoggerImpl, which records media router log entries with severity, category, and truncation limits in a bounded buffer.
+// ---
+
 #include "components/media_router/browser/logger_impl.h"
 
 #include <string_view>

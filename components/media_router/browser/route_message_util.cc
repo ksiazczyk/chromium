@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Route message conversion utilities implementation
+// summary: Implements helpers that convert route messages from JSON values, strings, and binary data into RouteMessage objects and back into PresentationConnectionMessage objects.
+// ---
+
 #include "components/media_router/browser/route_message_util.h"
 
 #include "base/json/json_writer.h"

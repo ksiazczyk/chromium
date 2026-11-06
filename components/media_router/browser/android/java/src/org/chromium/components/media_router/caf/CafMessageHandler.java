@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast message handler between Cast SDK and web pages
+// summary: Receives, processes and dispatches Cast messages between the Cast SDK and web pages, mapping media message types and tracking client requests to match responses.
+// ---
+
 package org.chromium.components.media_router.caf;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

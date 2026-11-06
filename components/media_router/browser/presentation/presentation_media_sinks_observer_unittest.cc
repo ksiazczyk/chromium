@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Presentation media sinks observer unit tests
+// summary: Unit tests verifying that PresentationMediaSinksObserver notifies the listener on screen availability changes and skips unchanged results.
+// ---
+
 #include "components/media_router/browser/presentation/presentation_media_sinks_observer.h"
 
 #include <memory>

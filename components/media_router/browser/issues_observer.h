@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Issues observer base class
+// summary: Declares the IssuesObserver base class that receives the current top media router issue or a notification when issues are cleared.
+// ---
+
 #ifndef COMPONENTS_MEDIA_ROUTER_BROWSER_ISSUES_OBSERVER_H_
 #define COMPONENTS_MEDIA_ROUTER_BROWSER_ISSUES_OBSERVER_H_
 

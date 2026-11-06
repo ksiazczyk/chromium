@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS reviewer list for media router Android
+summary: Lists the primary and backup reviewers for changes in this directory, with the media OWNERS file as a last resort suggestion.

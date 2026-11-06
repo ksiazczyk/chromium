@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebContentsPresentationManager implementation
+// summary: Implements the static Get and SetTestInstance accessors of WebContentsPresentationManager, returning the controller delegate for a WebContents or a test instance when one is set.
+// ---
+
 #include "components/media_router/browser/presentation/web_contents_presentation_manager.h"
 
 #include "components/media_router/browser/presentation/controller_presentation_service_delegate_impl.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaRouterDebugger interface header
+// summary: Declares the MediaRouterDebugger interface for fetching mirroring stats, observing mirroring stats updates, and enabling or disabling RTCP reports.
+// ---
+
 #ifndef COMPONENTS_MEDIA_ROUTER_BROWSER_MEDIA_ROUTER_DEBUGGER_H_
 #define COMPONENTS_MEDIA_ROUTER_BROWSER_MEDIA_ROUTER_DEBUGGER_H_
 

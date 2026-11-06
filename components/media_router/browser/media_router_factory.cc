@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaRouterFactory implementation
+// summary: Implements the browser context keyed service factory that lazily creates and returns MediaRouter instances for a given browser context.
+// ---
+
 #include "components/media_router/browser/media_router_factory.h"
 
 #include "build/build_config.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media router test helper declarations
+// summary: Declares mock observers and a mock presentation connection proxy, along with GMock matchers for issue titles and presentation connection messages.
+// ---
+
 #ifndef COMPONENTS_MEDIA_ROUTER_BROWSER_TEST_TEST_HELPER_H_
 #define COMPONENTS_MEDIA_ROUTER_BROWSER_TEST_TEST_HELPER_H_
 

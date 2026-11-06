@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Parser for Cast media source IDs and presentation URLs
+// summary: Parses the Cast application ID, client ID, auto-join policy and capabilities from Cast source IDs and presentation URLs to build MediaSource objects.
+// ---
+
 package org.chromium.components.media_router.caf;
 
 import android.net.Uri;

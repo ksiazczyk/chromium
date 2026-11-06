@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Presentation media sinks observer implementation
+// summary: Implements PresentationMediaSinksObserver, forwarding media sink query results to the screen availability listener only when availability changes.
+// ---
+
 #include "components/media_router/browser/presentation/presentation_media_sinks_observer.h"
 
 #include "components/media_router/browser/media_router.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Robolectric shadow for MediaRouter
+// summary: Robolectric shadow for MediaRouter that delegates route and callback operations to a configurable test implementation.
+// ---
+
 package org.chromium.components.media_router.caf;
 
 import android.content.Context;

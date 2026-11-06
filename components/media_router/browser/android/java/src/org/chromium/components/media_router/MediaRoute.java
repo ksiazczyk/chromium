@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaRoute class holding media route information
+// summary: Java class that stores all information about a media route created by a MediaRouteProvider, including its unique id, sink id, source URN and presentation id.
+// ---
+
 package org.chromium.components.media_router;
 
 import org.chromium.build.annotations.NullMarked;

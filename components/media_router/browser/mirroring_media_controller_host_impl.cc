@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mirroring media controller host implementation
+// summary: Implements the mirroring media controller host, handling media status updates, delayed freeze and unfreeze commands, and observer notifications.
+// ---
+
 #include "components/media_router/browser/mirroring_media_controller_host_impl.h"
 
 namespace media_router {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Controller presentation service delegate implementation
+// summary: Implements the controller-side presentation service delegate and PresentationFrame, handling presentation API calls, screen availability, and connections via the Media Router.
+// ---
+
 #include "components/media_router/browser/presentation/controller_presentation_service_delegate_impl.h"
 
 #include <algorithm>

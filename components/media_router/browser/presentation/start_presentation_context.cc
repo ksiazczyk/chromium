@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StartPresentationContext implementation
+// summary: Implements the StartPresentationContext helper that holds a PresentationRequest with success and error callbacks and invokes the right one based on the route creation or joining result.
+// ---
+
 #include "components/media_router/browser/presentation/start_presentation_context.h"
 
 #include "components/media_router/common/mojom/media_router.mojom.h"

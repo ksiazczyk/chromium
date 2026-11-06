@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Expanded cast controller layout
+summary: Android layout resource for the expanded cast controller, combining a background image, cast screen title, and a third-party media controller in a frame layout.
+-->
+
 <FrameLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"

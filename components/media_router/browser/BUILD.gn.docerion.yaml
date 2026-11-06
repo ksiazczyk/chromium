@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Media Router browser build configuration
+summary: GN build file defining the browser source set with its sources and dependencies, plus a test_support target for the media router component.

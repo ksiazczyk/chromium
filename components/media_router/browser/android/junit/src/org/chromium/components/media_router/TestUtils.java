@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock RouteInfo helper for media router tests
+// summary: Test helper that creates mock Android MediaRouter RouteInfo instances with a given id and name via reflection.
+// ---
+
 package org.chromium.components.media_router;
 
 import androidx.mediarouter.media.MediaRouter;

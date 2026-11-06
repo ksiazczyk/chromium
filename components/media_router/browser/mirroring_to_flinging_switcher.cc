@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mirroring to flinging switcher implementation
+// summary: Implements switching a mirroring session to a flinging session by joining the default presentation route when possible.
+// ---
+
 #include "components/media_router/browser/mirroring_to_flinging_switcher.h"
 
 #include "components/media_router/browser/media_router.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media Router metrics recording implementation
+// summary: Implements recording of Media Router usage histograms such as route request results, sink types, dialog locations, and presentation URL types.
+// ---
+
 #include "components/media_router/browser/media_router_metrics.h"
 
 #include <algorithm>

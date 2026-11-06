@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaRouterDialogController implementation
+// summary: Implements MediaRouterDialogController behavior for showing, hiding, and closing the Media Router dialog when the initiator WebContents is destroyed or navigates.
+// ---
+
 #include "components/media_router/browser/media_router_dialog_controller.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaSinksObserver class declaration
+// summary: Declares the base observer class for updates to sinks compatible with a media source, including initialization and origin filtering behavior.
+// ---
+
 #ifndef COMPONENTS_MEDIA_ROUTER_BROWSER_MEDIA_SINKS_OBSERVER_H_
 #define COMPONENTS_MEDIA_ROUTER_BROWSER_MEDIA_SINKS_OBSERVER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mirroring to flinging switcher unit tests
+// summary: Unit tests for the mirroring-to-flinging switcher using mock media router and presentation manager test doubles.
+// ---
+
 #include "components/media_router/browser/mirroring_to_flinging_switcher.h"
 
 #include "components/media_router/browser/media_router_factory.h"

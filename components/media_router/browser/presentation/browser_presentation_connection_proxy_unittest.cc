@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser presentation connection proxy unit tests
+// summary: Unit tests for BrowserPresentationConnectionProxy verifying text and binary message forwarding and connection setup with a mocked Media Router.
+// ---
+
 #include "components/media_router/browser/presentation/browser_presentation_connection_proxy.h"
 
 #include <memory>

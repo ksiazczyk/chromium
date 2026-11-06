@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for media router Android
+summary: Defines the Java library, JNI header generation, resources, and dependency targets for the media router Android component.

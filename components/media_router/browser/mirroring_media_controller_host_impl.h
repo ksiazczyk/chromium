@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mirroring media controller host implementation header
+// summary: Declares MirroringMediaControllerHostImpl, which hosts a MediaController and manages freeze state using a pause delay timer.
+// ---
+
 #ifndef COMPONENTS_MEDIA_ROUTER_BROWSER_MIRRORING_MEDIA_CONTROLLER_HOST_IMPL_H_
 #define COMPONENTS_MEDIA_ROUTER_BROWSER_MIRRORING_MEDIA_CONTROLLER_HOST_IMPL_H_
 

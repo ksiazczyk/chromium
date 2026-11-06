@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mirroring media controller host interface
+// summary: Declares MirroringMediaControllerHost, a per-route interface exposing freeze and unfreeze controls for mirroring sessions with observer notifications.
+// ---
+
 #ifndef COMPONENTS_MEDIA_ROUTER_BROWSER_MIRRORING_MEDIA_CONTROLLER_HOST_H_
 #define COMPONENTS_MEDIA_ROUTER_BROWSER_MIRRORING_MEDIA_CONTROLLER_HOST_H_
 

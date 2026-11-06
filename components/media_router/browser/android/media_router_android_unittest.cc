@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android media router unit tests
+// summary: Tests MediaRouterAndroid route handling with a mocked bridge, covering route creation, detachment, and presentation connection state changes.
+// ---
+
 #include "components/media_router/browser/android/media_router_android.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Robolectric tests for BaseNotificationController
+// summary: Robolectric unit tests verifying that BaseNotificationController shows media notifications with the cast device name when a session starts.
+// ---
+
 package org.chromium.components.media_router.caf;
 
 import static org.junit.Assert.assertEquals;

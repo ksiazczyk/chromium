@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaRouterDialogController class header
+// summary: Declares the abstract MediaRouterDialogController base class that shows and closes the Media Router dialog modal to an initiating WebContents.
+// ---
+
 #ifndef COMPONENTS_MEDIA_ROUTER_BROWSER_MEDIA_ROUTER_DIALOG_CONTROLLER_H_
 #define COMPONENTS_MEDIA_ROUTER_BROWSER_MEDIA_ROUTER_DIALOG_CONTROLLER_H_
 
