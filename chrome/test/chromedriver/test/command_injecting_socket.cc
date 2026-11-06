@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Command-injecting socket for ChromeDriver tests
+// summary: Implements a WebSocket wrapper that injects a DevTools command into the message stream and filters out its response for integration tests.
+// ---
+
 #include "chrome/test/chromedriver/test/command_injecting_socket.h"
 
 #include "base/compiler_specific.h"

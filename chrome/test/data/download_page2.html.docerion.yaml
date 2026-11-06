@@ -1,0 +1,4 @@
+# Docerion header of download_page2.html.
+type: test
+title: Download test page opening an empty window
+summary: Test page with a button that opens a new empty window, part of the download test fixtures.

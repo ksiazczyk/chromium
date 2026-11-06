@@ -1,0 +1,4 @@
+# Docerion header of mock-link-doctor.json.mock-http-headers.
+type: test
+title: Mock HTTP headers for Link Doctor fixture
+summary: Header file defining the HTTP 200 response with CORS headers served alongside the mock Link Doctor JSON in tests.

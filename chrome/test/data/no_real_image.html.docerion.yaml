@@ -1,0 +1,4 @@
+# Docerion header of no_real_image.html.
+type: test
+title: Test page with a non-existent image
+summary: Test page that loads a non-existent image to trigger a failed image request.

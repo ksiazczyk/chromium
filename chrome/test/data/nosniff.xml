@@ -1,1 +1,7 @@
+<!--docerion
+type: test
+title: Nosniff XML test body
+summary: Small XML body fixture served with nosniff headers for content-type sniffing tests.
+-->
+
 nosniff.xml - body

@@ -1,0 +1,4 @@
+# Docerion header of offsetparent.html.
+type: test
+title: offsetParent shadow DOM test page
+summary: Test page that records the offsetParent id of a light DOM child inside a host with a declarative shadow root.

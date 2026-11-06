@@ -1,0 +1,4 @@
+# Docerion header of worker_import_module.html.
+type: test
+title: Module worker import test page
+summary: HTML page that creates a module worker and sets the document title from the worker's message.

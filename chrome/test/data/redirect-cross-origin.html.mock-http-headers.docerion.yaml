@@ -1,0 +1,4 @@
+# Docerion header of redirect-cross-origin.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for the cross-origin redirect test page
+summary: Mock HTTP response headers that set the A=B cookie for the cross-origin redirect test page.

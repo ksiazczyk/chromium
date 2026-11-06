@@ -158,6 +158,12 @@
 // Create a JSON object only if one does not already exist. We create the
 // methods in a closure to avoid creating global variables.
 
+// ---docerion
+// type: source
+// title: json2.js JSON library
+// summary: Public domain JSON.org library providing JSON.stringify and JSON.parse, vendored for use in browser tests.
+// ---
+
 if (!this.JSON) {
     JSON = {};
 }

@@ -1,0 +1,4 @@
+# Docerion header of README.chromium.
+type: readme
+title: README.chromium for autotest test code
+summary: Metadata for the autotest test code, listing its upstream source URL, static update mechanism, BSD-3-Clause license, and non-security-critical, unshipped status.

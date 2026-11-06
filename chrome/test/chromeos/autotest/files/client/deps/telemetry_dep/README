@@ -1,3 +1,9 @@
+---
+type: readme
+title: telemetry_dep README
+summary: Explains that this dependency brings Telemetry files into an image and that dependent tests should add it in their setup() method.
+---
+
 # Copyright 2013 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.

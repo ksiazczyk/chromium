@@ -1,0 +1,4 @@
+# Docerion header of empty_with_404.html.mock-http-headers.
+type: test
+title: Mock HTTP headers returning 404
+summary: Mock HTTP response headers that serve empty_with_404.html with a 404 Not Found status in tests.

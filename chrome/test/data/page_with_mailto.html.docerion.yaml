@@ -1,0 +1,4 @@
+# Docerion header of page_with_mailto.html.
+type: test
+title: Test page that opens a mailto link
+summary: HTML test fixture that automatically opens the browser's mail handler via a mailto redirect triggered on page load.

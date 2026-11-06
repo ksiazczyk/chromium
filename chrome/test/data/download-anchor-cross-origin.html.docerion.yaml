@@ -1,0 +1,4 @@
+# Docerion header of download-anchor-cross-origin.html.
+type: test
+title: Cross-origin anchor download test page
+summary: Test page with a cross-origin link to a PNG that uses the download attribute to suggest a filename.

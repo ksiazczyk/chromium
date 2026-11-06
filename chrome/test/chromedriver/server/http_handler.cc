@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTP handler implementation
+// summary: Implements mapping of HTTP and WebSocket requests to ChromeDriver commands, including WebDriver BiDi session commands and W3C mode handling.
+// ---
+
 #include "chrome/test/chromedriver/server/http_handler.h"
 
 #include <stddef.h>

@@ -1,0 +1,4 @@
+# Docerion header of bad_server.pac.
+type: test
+title: Bad proxy PAC test file
+summary: Proxy auto-config script that always returns an unreachable proxy address, used to test proxy failure handling.

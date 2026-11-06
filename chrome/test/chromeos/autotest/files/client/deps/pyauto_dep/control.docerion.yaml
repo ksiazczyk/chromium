@@ -1,0 +1,4 @@
+# Docerion header of control.
+type: test
+title: Autotest control file for pyauto_dep
+summary: Autotest control file that sets up the pyauto_dep dependency for jobs via job.setup_dep.

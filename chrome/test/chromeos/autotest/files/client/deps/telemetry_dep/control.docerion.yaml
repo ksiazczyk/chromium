@@ -1,0 +1,4 @@
+# Docerion header of control.
+type: test
+title: Autotest control file for telemetry_dep
+summary: Autotest control file that sets up the telemetry_dep dependency for a test job.

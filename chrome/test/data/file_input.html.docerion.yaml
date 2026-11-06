@@ -1,0 +1,4 @@
+# Docerion header of file_input.html.
+type: test
+title: File input element test page
+summary: Minimal test page containing a single file input element for browser automation.

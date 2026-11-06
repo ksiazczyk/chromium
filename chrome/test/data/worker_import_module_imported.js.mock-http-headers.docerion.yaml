@@ -1,0 +1,4 @@
+# Docerion header of worker_import_module_imported.js.mock-http-headers.
+type: test
+title: Mock HTTP headers for worker_import_module_imported.js
+summary: Mock HTTP response headers serving the imported test module as JavaScript with a permissive CORS policy.

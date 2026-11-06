@@ -1,0 +1,4 @@
+# Docerion header of print_during_load_with_broken_pdf_then_navigate.html.
+type: test
+title: Print during load with broken PDF then navigate test page
+summary: Test page that embeds a missing 404.pdf, triggers printing during load, and navigates to a cross-site URL.

@@ -1,0 +1,4 @@
+# Docerion header of run_py_tests.pydeps.
+type: config
+title: ChromeDriver Python test runner dependency list
+summary: Generated list of Python module dependencies for the run_py_tests test runner, used by the build for packaging.

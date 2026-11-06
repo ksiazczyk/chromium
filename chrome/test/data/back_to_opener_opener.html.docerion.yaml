@@ -1,0 +1,4 @@
+# Docerion header of back_to_opener_opener.html.
+type: test
+title: Back to opener test opener page
+summary: Opener page containing a link that opens a new tab, used in back-to-opener navigation tests.

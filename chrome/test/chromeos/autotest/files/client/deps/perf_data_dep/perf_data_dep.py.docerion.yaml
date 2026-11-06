@@ -1,0 +1,4 @@
+# Docerion header of perf_data_dep.py.
+type: script
+title: perf_data_dep dependency installer
+summary: Installs the perf_data_dep dependency by updating the version directory, while the actual setup is performed by the Chrome ebuild.

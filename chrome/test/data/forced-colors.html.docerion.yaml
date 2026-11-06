@@ -1,0 +1,4 @@
+# Docerion header of forced-colors.html.
+type: test
+title: Forced colors media query test page
+summary: Test page that reports the forced-colors media query state through its document title.

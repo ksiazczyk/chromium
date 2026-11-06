@@ -1,3 +1,9 @@
+---
+type: readme
+title: chrome_test dependency README
+summary: Describes the chrome_test dependency, which installs Chrome test files including HTTP and FTP test servers into a test image.
+---
+
 # Copyright (c) 2010 The Chromium OS Authors. All rights reserved.
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.

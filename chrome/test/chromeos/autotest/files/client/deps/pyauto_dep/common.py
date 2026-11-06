@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: script
+# title: Autotest client module path setup
+# summary: Boilerplate Python module that inserts the autotest client directory into sys.path and initializes the autotest_lib.client package.
+# ---
+
 import os, sys
 dirname = os.path.dirname(sys.modules[__name__].__file__)
 client_dir = os.path.abspath(os.path.join(dirname, "../../"))

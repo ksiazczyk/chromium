@@ -1,0 +1,4 @@
+# Docerion header of control.
+type: test
+title: Autotest control file for perf_data_dep
+summary: Autotest control file that sets up the perf_data_dep dependency for the job.

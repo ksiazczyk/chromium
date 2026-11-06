@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SyncWebSocketWrapper implementation
+// summary: Implements a delegating wrapper around SyncWebSocket so integration tests can decorate the DevTools socket connection.
+// ---
+
 #include "chrome/test/chromedriver/test/sync_websocket_wrapper.h"
 
 #include "base/compiler_specific.h"

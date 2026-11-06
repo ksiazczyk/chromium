@@ -1,0 +1,4 @@
+# Docerion header of prefers-contrast.html.
+type: test
+title: Prefers-contrast media query test page
+summary: Test page that reports the active prefers-contrast media query value by setting the document title via matchMedia checks.

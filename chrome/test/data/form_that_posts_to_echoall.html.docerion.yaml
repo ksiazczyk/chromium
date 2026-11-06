@@ -1,0 +1,4 @@
+# Docerion header of form_that_posts_to_echoall.html.
+type: test
+title: Form posting to echoall
+summary: Test page with two forms that POST a text field to /echoall, one with default and one with multipart/form-data encoding.

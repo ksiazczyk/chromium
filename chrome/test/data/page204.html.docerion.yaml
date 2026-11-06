@@ -1,0 +1,4 @@
+# Docerion header of page204.html.
+type: test
+title: Blank page served with 204 status
+summary: Empty test page titled 'This page intentionally left blank' served with a 204 No Content response.

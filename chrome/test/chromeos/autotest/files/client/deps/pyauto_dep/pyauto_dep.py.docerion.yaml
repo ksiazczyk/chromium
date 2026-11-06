@@ -1,0 +1,4 @@
+# Docerion header of pyauto_dep.py.
+type: script
+title: pyauto_dep dependency setup script
+summary: Python setup script for the pyauto_dep dependency that is effectively a no-op because the Chrome ebuild performs the actual installation.

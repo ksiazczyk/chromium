@@ -1,0 +1,4 @@
+# Docerion header of worker_import_module.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for worker_import_module.html
+summary: Mock HTTP response headers serving the worker import test page with a fenced-frame Supports-Loading-Mode header.

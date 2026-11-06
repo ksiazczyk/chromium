@@ -1,0 +1,4 @@
+# Docerion header of prerenderer_geolocation_test.html.
+type: test
+title: Geolocation API during prerendering test page
+summary: Test page that exercises the Geolocation API while prerendering, tracking prerenderingchange events and deferred permission prompts.

@@ -1,0 +1,4 @@
+# Docerion header of popup_fencedframe.html.mock-http-headers.
+type: test
+title: Popup fenced frame mock HTTP headers
+summary: Mock HTTP response headers that mark the popup fenced frame page as supporting fenced-frame loading.

@@ -5,6 +5,12 @@
      found in the LICENSE file.
  -->
 
+<!--docerion
+type: test
+title: WebView shell main layout
+summary: Android layout resource for the chromedriver WebView test shell that fills the activity with a single full-size WebView.
+-->
+
 <WebView xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/webview"
     android:layout_width="fill_parent"

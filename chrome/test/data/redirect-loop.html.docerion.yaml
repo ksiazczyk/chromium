@@ -1,0 +1,4 @@
+# Docerion header of redirect-loop.html.
+type: test
+title: Redirect loop test page
+summary: Minimal page used as part of a redirect loop test scenario.

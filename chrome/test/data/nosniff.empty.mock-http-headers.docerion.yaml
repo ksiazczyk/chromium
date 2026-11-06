@@ -1,0 +1,4 @@
+# Docerion header of nosniff.empty.mock-http-headers.
+type: test
+title: Mock HTTP headers for nosniff.empty
+summary: 'Mock HTTP response headers serving an empty body as text/xml with X-Content-Type-Options: nosniff.'

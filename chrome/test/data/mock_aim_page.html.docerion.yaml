@@ -1,0 +1,4 @@
+# Docerion header of mock_aim_page.html.
+type: test
+title: Mock AIM page for side panel tests
+summary: Mock page that answers WebUI handshake pings and posts protobuf messages on thread-link clicks to drive the tab-to-side-panel transition in tests.

@@ -1,0 +1,4 @@
+# Docerion header of csp-sandbox.html.mock-http-headers.
+type: test
+title: csp-sandbox.html mock HTTP headers
+summary: Mock HTTP response headers that add a sandbox allow-scripts Content-Security-Policy to csp-sandbox.html.

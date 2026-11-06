@@ -1,0 +1,4 @@
+# Docerion header of setup_test_links.sh.
+type: script
+title: Symlink setup for telemetry test data
+summary: Shell script that links the telemetry_dep test data directory into the chrome_test dependency's source tree when it is missing.

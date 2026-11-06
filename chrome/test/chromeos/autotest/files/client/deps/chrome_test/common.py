@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Autotest client module path setup helper
+# summary: Helper module that configures Python paths so autotest_lib.client modules can be imported from the dependency.
+# ---
+
 import os, sys
 dirname = os.path.dirname(sys.modules[__name__].__file__)
 client_dir = os.path.abspath(os.path.join(dirname, "../../"))

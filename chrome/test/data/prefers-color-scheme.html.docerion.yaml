@@ -1,0 +1,4 @@
+# Docerion header of prefers-color-scheme.html.
+type: test
+title: Prefers color scheme page
+summary: Test page that sets its title to the active prefers-color-scheme value detected via matchMedia.

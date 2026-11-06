@@ -1,0 +1,4 @@
+# Docerion header of tab-restore-visibility.html.
+type: test
+title: Tab restore visibility readiness page
+summary: Test page that signals READY through domAutomationController for tab restore visibility tests.

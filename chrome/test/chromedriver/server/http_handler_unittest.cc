@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the HTTP handler
+// summary: GoogleTest suite verifying HTTP request handling, command routing, status codes, and WebSocket behavior of HttpHandler.
+// ---
+
 #include "chrome/test/chromedriver/server/http_handler.h"
 
 #include <memory>

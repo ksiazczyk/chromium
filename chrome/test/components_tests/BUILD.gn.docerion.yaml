@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: test
+title: Components tests browser_tests build target
+summary: GN build file defining the browser_tests source_set for components tests, listing the content language browsertest source and its dependencies.

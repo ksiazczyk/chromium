@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NavigationTracker integration test
+// summary: Integration test verifying that NavigationTracker loads a test page served by the test HTTP server and reads its content through a real Chrome connection.
+// ---
+
 #include "base/compiler_specific.h"
 #include "base/values.h"
 #include "chrome/test/chromedriver/chrome/devtools_client.h"

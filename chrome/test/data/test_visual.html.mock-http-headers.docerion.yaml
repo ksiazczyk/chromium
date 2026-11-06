@@ -1,0 +1,4 @@
+# Docerion header of test_visual.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for test_visual.html
+summary: Mock HTTP response headers serving test_visual.html with a 200 status and a fenced-frame Supports-Loading-Mode header.

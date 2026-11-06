@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTP server implementation
+// summary: Implements the ChromeDriver HTTP server with IPv4 and IPv6 listeners, host and origin validation, and WebSocket support.
+// ---
+
 #include "chrome/test/chromedriver/server/http_server.h"
 
 #include "base/compiler_specific.h"

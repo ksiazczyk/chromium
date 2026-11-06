@@ -1,0 +1,4 @@
+# Docerion header of accessibility_fail.html.
+type: test
+title: Accessibility fail test page
+summary: HTML page with an unlabeled button and search input used as the failing case in accessibility tests.

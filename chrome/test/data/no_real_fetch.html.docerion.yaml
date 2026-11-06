@@ -1,0 +1,4 @@
+# Docerion header of no_real_fetch.html.
+type: test
+title: Test page fetching a non-existent resource
+summary: Test page that performs a fetch of a non-existent page to trigger a failed network request.

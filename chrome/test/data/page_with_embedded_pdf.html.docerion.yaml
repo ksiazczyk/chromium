@@ -1,0 +1,4 @@
+# Docerion header of page_with_embedded_pdf.html.
+type: test
+title: Page with embedded PDF
+summary: Test page that embeds pdf/test.pdf using an embed element.

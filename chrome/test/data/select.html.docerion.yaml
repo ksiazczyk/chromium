@@ -1,0 +1,4 @@
+# Docerion header of select.html.
+type: test
+title: Select element focus test page
+summary: Simple page with a select element whose Apple option should be focused, used to test select element behavior.

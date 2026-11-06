@@ -1,4 +1,10 @@
 <?xml version="1.0"?>
+<!--docerion
+type: test
+title: OpenSearch description without a short name
+summary: OpenSearch description XML with an empty ShortName element, for tests involving a search engine without a name.
+-->
+
 <OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
 <ShortName/>
 <Description>Not a creative description.</Description>

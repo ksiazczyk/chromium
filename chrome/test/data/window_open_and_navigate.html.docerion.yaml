@@ -1,0 +1,4 @@
+# Docerion header of window_open_and_navigate.html.
+type: test
+title: Window open and navigate test page
+summary: Script fixture that opens a new window and navigates it after a short delay for testing window navigation.

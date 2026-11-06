@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chromedriver WebView shell main activity
+// summary: Android activity that hosts a WebView with JavaScript and debugging enabled, loading URLs from intents and showing progress and error toasts for chromedriver testing.
+// ---
+
 package org.chromium.chromedriver_webview_shell;
 
 import android.app.Activity;

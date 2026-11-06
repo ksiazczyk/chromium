@@ -1,0 +1,4 @@
+# Docerion header of cors-ok.txt.
+type: test
+title: CORS OK test resource
+summary: Plain text resource body served with permissive CORS headers for cross-origin fetch tests.

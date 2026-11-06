@@ -1,0 +1,4 @@
+# Docerion header of navigation-fetch-keepalive.html.
+type: test
+title: Navigation and fetch keepalive test helpers
+summary: Test page with helper functions that trigger navigation requests combined with fetch keepalive requests for browser tests.

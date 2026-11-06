@@ -1,0 +1,4 @@
+# Docerion header of href_translate_test.html.
+type: test
+title: HrefTranslate test page
+summary: Test page with links using hrefTranslate and hrefLang attributes to exercise translation of targeted pages.

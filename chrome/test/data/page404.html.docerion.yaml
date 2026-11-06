@@ -1,0 +1,4 @@
+# Docerion header of page404.html.
+type: test
+title: SUCCESS page served with 404 status
+summary: Test page titled SUCCESS that is served with a 404 Not Found response for error-page testing.

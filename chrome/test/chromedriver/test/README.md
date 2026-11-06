@@ -1,3 +1,12 @@
+---
+type: readme
+title: Run ChromeDriver tests locally
+summary: Instructions for running ChromeDriver tests locally, covering run_py_tests.py usage and Android support.
+relations:
+  - references /chrome/test/chromedriver/docs/testing.md
+  - documents /chrome/test/chromedriver/test/run_py_tests.py
+---
+
 # Run test(s) locally
 
 This file contains instruction summary to run test(s) under this folder locally.

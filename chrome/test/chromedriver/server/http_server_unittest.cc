@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for HTTP server request safety
+// summary: GoogleTest suite verifying that requests are allowed or rejected based on local origin, whitelisted IPs, and allowed origins.
+// ---
+
 #include "chrome/test/chromedriver/server/http_server.h"
 
 #include <string>

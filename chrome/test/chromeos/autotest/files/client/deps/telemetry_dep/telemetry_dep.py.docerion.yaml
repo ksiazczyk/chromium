@@ -1,0 +1,4 @@
+# Docerion header of telemetry_dep.py.
+type: script
+title: telemetry_dep dependency installer
+summary: Installs the telemetry_dep dependency via the Autotest version mechanism, though the actual installation is done by the Chrome ebuild so setup is a no-op.

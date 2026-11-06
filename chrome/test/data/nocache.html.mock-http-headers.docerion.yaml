@@ -1,0 +1,4 @@
+# Docerion header of nocache.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for nocache.html
+summary: Mock HTTP response headers returning 200 OK with a nocache Cache-Control header for the test page.

@@ -1,0 +1,4 @@
+# Docerion header of register_form.html.
+type: test
+title: Registration test form
+summary: Test page simulating the Chrome OS device registration form that exchanges postMessage data with the register host page to complete or skip registration.

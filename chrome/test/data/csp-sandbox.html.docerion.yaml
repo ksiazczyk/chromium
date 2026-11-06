@@ -1,0 +1,4 @@
+# Docerion header of csp-sandbox.html.
+type: test
+title: CSP sandbox test page
+summary: Test page served with a sandboxing CSP that should fail origin checks.

@@ -1,0 +1,4 @@
+# Docerion header of accessibility_pass.html.
+type: test
+title: Accessibility pass test page
+summary: HTML page with a labeled button and a placeholder search field used as the passing case in accessibility tests.

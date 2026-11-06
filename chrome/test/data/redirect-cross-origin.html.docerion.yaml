@@ -1,0 +1,4 @@
+# Docerion header of redirect-cross-origin.html.
+type: test
+title: Cross-origin redirect test page
+summary: Minimal page body served as the target of a cross-origin redirect test that also sets a cookie.

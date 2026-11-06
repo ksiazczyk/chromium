@@ -1,0 +1,4 @@
+# Docerion header of system-colors.html.
+type: test
+title: Icon with pseudo-element test page
+summary: Test page rendering a star icon via a CSS ::before pseudo-element, presumably for system color or rendering checks.

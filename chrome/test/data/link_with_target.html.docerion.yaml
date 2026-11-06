@@ -1,0 +1,4 @@
+# Docerion header of link_with_target.html.
+type: test
+title: Named target link test page
+summary: Page with a link targeting the named frame foo, positioned to receive mouse events, used to test target navigation.

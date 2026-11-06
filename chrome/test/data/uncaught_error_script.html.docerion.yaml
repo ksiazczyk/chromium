@@ -1,0 +1,4 @@
+# Docerion header of uncaught_error_script.html.
+type: test
+title: Test page throwing an uncaught script error
+summary: HTML fixture whose inline script throws an uncaught error, used to test error reporting in Chrome browser tests.

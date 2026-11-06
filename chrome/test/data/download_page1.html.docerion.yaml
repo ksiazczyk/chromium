@@ -1,0 +1,4 @@
+# Docerion header of download_page1.html.
+type: test
+title: Download test page opening a new window
+summary: Test page whose button opens a new window that navigates to download-test1.lib on load, triggering a download.

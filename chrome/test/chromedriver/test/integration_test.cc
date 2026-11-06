@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeDriver integration test base implementation
+// summary: Implements the IntegrationTest fixture that launches Chrome with the remote debugging pipe and connects a browser-wide DevTools client.
+// ---
+
 #include "chrome/test/chromedriver/test/integration_test.h"
 
 #include "base/compiler_specific.h"

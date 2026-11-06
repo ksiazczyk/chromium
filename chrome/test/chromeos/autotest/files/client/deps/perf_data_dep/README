@@ -1,3 +1,9 @@
+---
+type: readme
+title: perf_data_dep README
+summary: Explains that the perf_data_dep dependency brings Perf Data files into the image and that dependent tests must add it in their setup() method.
+---
+
 # Copyright 2013 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.

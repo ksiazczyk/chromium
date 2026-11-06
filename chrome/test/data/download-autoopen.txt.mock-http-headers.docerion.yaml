@@ -1,0 +1,4 @@
+# Docerion header of download-autoopen.txt.mock-http-headers.
+type: test
+title: Mock HTTP headers for download-autoopen.txt
+summary: Mock HTTP response headers served for download-autoopen.txt in download tests.

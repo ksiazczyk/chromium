@@ -1,0 +1,4 @@
+# Docerion header of vm_setup_state.py.
+type: script
+title: VM setup script for WebDriver-controlled Chromium OS VM
+summary: Prepares a Chromium OS virtual machine for WebDriver control by starting ChromeDriver on port 4444, meant to be run manually over SSH before snapshotting the VM image.

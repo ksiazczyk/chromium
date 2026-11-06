@@ -1,3 +1,9 @@
+---
+type: readme
+title: pyauto_dep dependency README
+summary: Explains that this dependency brings PyAuto files into the image and that dependent tests should add it in their setup() method.
+---
+
 # Copyright (c) 2011 The Chromium OS Authors. All rights reserved.
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.

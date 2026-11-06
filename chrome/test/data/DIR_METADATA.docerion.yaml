@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for chrome test data
+summary: Sets the Monorail and Buganizer issue tracking components for the chrome test data directory.
