@@ -1,0 +1,4 @@
+# Docerion header of server_urls.grd.
+type: config
+title: Metrics server URL resource definitions
+summary: GRIT resource file holding intentionally empty placeholder metrics server URL strings so forks do not send metrics to Google servers.

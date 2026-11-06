@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MetricsStateManager class declaration
+// summary: Declares MetricsStateManager, which manages metrics state preferences including the client ID, low entropy source, and clean exit beacon.
+// ---
+
 #ifndef COMPONENTS_METRICS_METRICS_STATE_MANAGER_H_
 #define COMPONENTS_METRICS_METRICS_STATE_MANAGER_H_
 

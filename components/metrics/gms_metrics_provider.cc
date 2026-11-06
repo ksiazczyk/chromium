@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GMS metrics provider implementation
+// summary: Implements a metrics provider that records the installed GMS Core version on Android as a sparse histogram, handling missing, unparsable and out-of-range versions.
+// ---
+
 #include "components/metrics/gms_metrics_provider.h"
 
 #include "base/android/device_info.h"

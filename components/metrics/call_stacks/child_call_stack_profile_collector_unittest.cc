@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChildCallStackProfileCollector unit tests
+// summary: Unit tests for caching and forwarding of collected profiles when the parent collector interface is provided or absent.
+// ---
+
 #include "components/metrics/call_stacks/child_call_stack_profile_collector.h"
 
 #include <memory>

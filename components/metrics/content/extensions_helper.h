@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionsHelper interface for extension process detection
+// summary: Abstract interface letting ContentStabilityMetricsProvider detect extension processes without depending directly on extensions code.
+// ---
+
 #ifndef COMPONENTS_METRICS_CONTENT_EXTENSIONS_HELPER_H_
 #define COMPONENTS_METRICS_CONTENT_EXTENSIONS_HELPER_H_
 

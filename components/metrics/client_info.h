@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClientInfo struct header
+// summary: Defines the ClientInfo struct that passes the metrics client ID, installation date and reporting-enabled date into the metrics component.
+// ---
+
 #ifndef COMPONENTS_METRICS_CLIENT_INFO_H_
 #define COMPONENTS_METRICS_CLIENT_INFO_H_
 

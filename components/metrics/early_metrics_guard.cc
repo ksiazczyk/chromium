@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Early metrics guard implementation
+// summary: Implements an RAII guard that tracks whether early startup metrics recording is currently active via a global flag.
+// ---
+
 #include "components/metrics/early_metrics_guard.h"
 
 #include "base/check.h"

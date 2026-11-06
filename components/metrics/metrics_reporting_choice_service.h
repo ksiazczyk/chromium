@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metrics reporting choice service header
+// summary: Declares MetricsReportingChoiceService, which monitors profile-level advanced reporting preferences and provides helpers for consent state, migration, and policy checks.
+// ---
+
 #ifndef COMPONENTS_METRICS_METRICS_REPORTING_CHOICE_SERVICE_H_
 #define COMPONENTS_METRICS_METRICS_REPORTING_CHOICE_SERVICE_H_
 class PrefService;

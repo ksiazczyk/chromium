@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metrics switches implementation
+// summary: Implements helpers that check and set metrics-related command-line switches such as metrics-recording-only and force-enable-metrics-reporting.
+// ---
+
 #include "components/metrics/metrics_switches.h"
 
 #include "base/check.h"

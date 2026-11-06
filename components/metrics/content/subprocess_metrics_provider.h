@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SubprocessMetricsProvider class header
+// summary: Declares SubprocessMetricsProvider, a singleton MetricsProvider that gathers and merges histograms stored in shared memory segments by subprocesses.
+// ---
+
 #ifndef COMPONENTS_METRICS_CONTENT_SUBPROCESS_METRICS_PROVIDER_H_
 #define COMPONENTS_METRICS_CONTENT_SUBPROCESS_METRICS_PROVIDER_H_
 

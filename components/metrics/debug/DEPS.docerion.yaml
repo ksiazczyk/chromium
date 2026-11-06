@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Metrics internals debug directory include rules
+summary: Defines allowed include dependencies for the directory, covering metrics, UKM, abseil time and federated compute headers.

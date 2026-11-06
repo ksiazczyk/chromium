@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for CallStackProfileBuilder
+// summary: Unit tests verifying profile completion, module hashing, metadata handling, and profile passing behavior of CallStackProfileBuilder.
+// ---
+
 #include "components/metrics/call_stacks/call_stack_profile_builder.h"
 
 #include <memory>

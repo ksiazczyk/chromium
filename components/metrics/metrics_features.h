@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metrics feature declarations
+// summary: Declares feature flags for structured metrics, log flushing and trimming, Android upload scheduling, per-profile metrics, and runtime mutability testing.
+// ---
+
 #ifndef COMPONENTS_METRICS_METRICS_FEATURES_H_
 #define COMPONENTS_METRICS_METRICS_FEATURES_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Runtime mutable features handler unit test
+// summary: Unit test verifying that uploading a serialized seed resolves the page callback and triggers seed simulation in the variations service.
+// ---
+
 #include "components/metrics/debug/runtime_mutable_features_handler_base.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MetricsUploadScheduler implementation
+// summary: Implements MetricsUploadScheduler, which schedules metric log uploads with exponential backoff on failures and special intervals for data usage caps.
+// ---
+
 #include "components/metrics/metrics_upload_scheduler.h"
 
 #include <stdint.h>

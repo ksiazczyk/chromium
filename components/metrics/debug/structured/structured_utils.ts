@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Structured metrics debug UI utilities
+// summary: Provides TypeScript types and DOM helpers that render the Structured Metrics summary and event tables with search filtering for the metrics debug page.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 
 /**

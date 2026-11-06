@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile metrics service header
+// summary: Declares ProfileMetricsService, a KeyedService that logs both global and per-profile histograms with a profile index suffix.
+// ---
+
 #ifndef COMPONENTS_METRICS_PROFILE_METRICS_SERVICE_H_
 #define COMPONENTS_METRICS_PROFILE_METRICS_SERVICE_H_
 

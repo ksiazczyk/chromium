@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android unconditional persistent histograms field trial implementation
+// summary: Implements a standalone simulated field trial that enrolls Android clients by channel to enable persistent histograms early in startup and caches the group for synthetic reporting.
+// ---
+
 #include "components/metrics/android_unconditional_persistent_histograms_field_trial.h"
 
 #include "base/memory/scoped_refptr.h"

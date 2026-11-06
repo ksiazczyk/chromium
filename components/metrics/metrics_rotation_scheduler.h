@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metrics rotation scheduler header
+// summary: Declares MetricsRotationScheduler, a MetricsScheduler subclass that drives MetricsService log rotation with init-task coordination and interval callbacks.
+// ---
+
 #ifndef COMPONENTS_METRICS_METRICS_ROTATION_SCHEDULER_H_
 #define COMPONENTS_METRICS_METRICS_ROTATION_SCHEDULER_H_
 

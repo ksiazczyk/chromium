@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MetricsProvider interface
+// summary: Declares the MetricsProvider interface that lets different classes fill in parts of UMA protos, with hooks for initialization, backgrounding, and independent metrics.
+// ---
+
 #ifndef COMPONENTS_METRICS_METRICS_PROVIDER_H_
 #define COMPONENTS_METRICS_METRICS_PROVIDER_H_
 

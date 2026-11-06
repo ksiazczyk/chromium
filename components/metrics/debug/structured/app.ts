@@ -2,6 +2,13 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 // <if expr="is_ios">
+
+// ---docerion
+// type: source
+// title: Structured metrics internals app element
+// summary: Custom element that fetches and periodically renders the structured metrics summary and recorded events, and supports key-value search filtering.
+// ---
+
 import 'chrome://resources/js/ios/web_ui.js';
 
 // </if>

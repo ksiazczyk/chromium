@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Persistent histograms setup
+// summary: Sets up persistent histogram allocation, spare file creation, and cleanup, including removal of stale Windows temp files.
+// ---
+
 #include "components/metrics/persistent_histograms.h"
 
 #include <string_view>

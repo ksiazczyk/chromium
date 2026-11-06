@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MetricsLogStore UMA log storage
+// summary: Declares MetricsLogStore, a LogStore implementation that stores initial and ongoing UMA logs in UnsentLogStore instances, prioritizes initial logs, and supports an alternate ongoing log store.
+// ---
+
 #ifndef COMPONENTS_METRICS_METRICS_LOG_STORE_H_
 #define COMPONENTS_METRICS_METRICS_LOG_STORE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Persistent synthetic trial observer
+// summary: Declares an observer that stores synthetic field trial changes in the persistent system profile.
+// ---
+
 #ifndef COMPONENTS_METRICS_PERSISTENT_SYNTHETIC_TRIAL_OBSERVER_H_
 #define COMPONENTS_METRICS_PERSISTENT_SYNTHETIC_TRIAL_OBSERVER_H_
 

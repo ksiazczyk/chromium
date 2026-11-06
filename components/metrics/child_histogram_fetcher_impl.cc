@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Child histogram fetcher implementation
+// summary: Implements the Mojo factory and fetcher that initialize the shared-memory histogram allocator in child processes and send histogram deltas to the browser process.
+// ---
+
 #include "components/metrics/child_histogram_fetcher_impl.h"
 
 #include <memory>

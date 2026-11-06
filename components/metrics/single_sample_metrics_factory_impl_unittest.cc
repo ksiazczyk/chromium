@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Single sample metrics factory implementation unit tests
+// summary: Unit tests for SingleSampleMetricsFactoryImpl verifying single provider creation, metric creation across threads, and that samples are only recorded when set.
+// ---
+
 #include "components/metrics/single_sample_metrics_factory_impl.h"
 
 #include "base/functional/bind.h"

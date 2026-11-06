@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Structured metrics debug provider class declaration
+// summary: Declares StructuredMetricsDebugProvider, a recorder observer that keeps a copy of recorded events for display on the debug page.
+// ---
+
 #ifndef COMPONENTS_METRICS_DEBUG_STRUCTURED_STRUCTURED_METRICS_DEBUG_PROVIDER_H_
 #define COMPONENTS_METRICS_DEBUG_STRUCTURED_STRUCTURED_METRICS_DEBUG_PROVIDER_H_
 

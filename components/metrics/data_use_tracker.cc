@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataUseTracker implementation for cellular UMA data limits
+// summary: Implements DataUseTracker, which records user and UMA cellular data use in prefs and decides whether UMA log uploads on cellular stay within the weekly quota and ratio limits.
+// ---
+
 #include "components/metrics/data_use_tracker.h"
 
 #include <memory>

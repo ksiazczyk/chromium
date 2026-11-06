@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Single sample metrics declarations
+// summary: Declares functions to initialize the single sample metrics factory and create Mojo-based single sample metrics providers.
+// ---
+
 #ifndef COMPONENTS_METRICS_SINGLE_SAMPLE_METRICS_H_
 #define COMPONENTS_METRICS_SINGLE_SAMPLE_METRICS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Histogram controller header
+// summary: Declares HistogramController, the browser-process singleton that manages child process histogram fetchers, pings them and collects histogram data.
+// ---
+
 #ifndef COMPONENTS_METRICS_HISTOGRAM_CONTROLLER_H_
 #define COMPONENTS_METRICS_HISTOGRAM_CONTROLLER_H_
 

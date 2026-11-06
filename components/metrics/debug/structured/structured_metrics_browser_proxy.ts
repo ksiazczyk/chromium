@@ -7,6 +7,12 @@
  * chrome://metrics-internals/structured page to interact with the browser.
  */
 
+// ---docerion
+// type: source
+// title: Browser proxy for the structured metrics internals page
+// summary: Browser proxy interface and singleton used by the internals page to fetch recorded structured metrics events and a service summary via message promises.
+// ---
+
 import {sendWithPromise} from 'chrome://resources/js/cr.js';
 
 import type {StructuredMetricEvent, StructuredMetricsSummary} from './structured_utils.js';

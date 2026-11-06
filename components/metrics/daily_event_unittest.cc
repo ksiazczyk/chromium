@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DailyEvent unit tests
+// summary: Unit tests for DailyEvent covering first-run, day-elapsed, clock-changed, and closure observer firing behavior using mock time and a testing pref service.
+// ---
+
 #include "components/metrics/daily_event.h"
 
 #include <optional>

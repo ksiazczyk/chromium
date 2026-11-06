@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enabled state provider implementation
+// summary: Implements metrics reporting enablement based on user consent and forced field trials, with an override for browser tests.
+// ---
+
 #include "components/metrics/enabled_state_provider.h"
 
 #include "base/base_switches.h"

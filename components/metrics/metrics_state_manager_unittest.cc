@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MetricsStateManager unit tests
+// summary: Unit tests for MetricsStateManager covering client ID generation, entropy sources, cloned install detection, and metrics reporting state.
+// ---
+
 #include "components/metrics/metrics_state_manager.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClonedInstallDetector class header
+// summary: Declares the ClonedInstallDetector class and ClonedInstallInfo struct for detecting cloned installs and managing related prefs and callbacks.
+// ---
+
 #ifndef COMPONENTS_METRICS_CLONED_INSTALL_DETECTOR_H_
 #define COMPONENTS_METRICS_CLONED_INSTALL_DETECTOR_H_
 

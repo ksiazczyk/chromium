@@ -1,0 +1,4 @@
+# Docerion header of app.html.
+type: source
+title: Structured metrics debug page HTML
+summary: HTML template for the structured metrics debug page, showing a summary table, an events table with key-value search, and templates for event details and metrics rows.

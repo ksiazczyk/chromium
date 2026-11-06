@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Histogram controller implementation
+// summary: Implements the browser-process singleton that registers child histogram fetchers over Mojo, pings child processes and collects their histogram data.
+// ---
+
 #include "components/metrics/histogram_controller.h"
 
 #include "base/check.h"

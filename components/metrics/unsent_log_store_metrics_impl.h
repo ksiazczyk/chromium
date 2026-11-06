@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unsent log store metrics implementation header
+// summary: Declares UnsentLogStoreMetricsImpl, the concrete implementation of the UnsentLogStoreMetrics interface for recording UMA histograms.
+// ---
+
 #ifndef COMPONENTS_METRICS_UNSENT_LOG_STORE_METRICS_IMPL_H_
 #define COMPONENTS_METRICS_UNSENT_LOG_STORE_METRICS_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Motherboard metrics provider unit tests
+// summary: Unit tests verifying that the provider asynchronously initializes and populates the system profile with motherboard and BIOS fields.
+// ---
+
 #include "components/metrics/motherboard_metrics_provider.h"
 
 #include <utility>

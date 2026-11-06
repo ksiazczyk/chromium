@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the content stability metrics provider
+// summary: Browser tests verifying stability metrics recorded for utility process launch failures and related child process events.
+// ---
+
 #include "components/metrics/content/content_stability_metrics_provider.h"
 
 #include <string>

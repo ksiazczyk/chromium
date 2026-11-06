@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unsent log store implementation
+// summary: Implements persistence of unsent metrics logs in preferences, with base64 encoding, compression, hashing, and HMAC signatures.
+// ---
+
 #include "components/metrics/unsent_log_store.h"
 
 #include <cmath>

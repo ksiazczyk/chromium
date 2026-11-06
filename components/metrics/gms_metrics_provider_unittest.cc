@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GMS metrics provider unit tests
+// summary: Unit tests for the GMS metrics provider using mocked version strings, covering stable and beta releases plus missing, invalid and out-of-range versions.
+// ---
+
 #include "components/metrics/gms_metrics_provider.h"
 
 #include "base/test/metrics/histogram_tester.h"

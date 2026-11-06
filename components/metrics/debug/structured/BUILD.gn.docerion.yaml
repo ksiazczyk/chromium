@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build file for the structured metrics debug library
+summary: Defines the static_library target for the structured metrics debug code, listing its C++ sources and dependencies on base, the structured metrics component, and metrics_proto.

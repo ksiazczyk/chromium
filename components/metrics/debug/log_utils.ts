@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Log display formatting helpers for metrics-internals
+// summary: TypeScript helpers that convert UMA log types, timestamps, log sizes and log events into human-readable strings for the debug page.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 
 import type {LogEvent} from './browser_proxy.js';

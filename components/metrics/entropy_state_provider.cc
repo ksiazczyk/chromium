@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EntropyStateProvider implementation
+// summary: Implements EntropyStateProvider by writing the low, old, and pseudo low entropy source values into the system profile metrics report.
+// ---
+
 #include "components/metrics/entropy_state_provider.h"
 
 #include "third_party/metrics_proto/system_profile.pb.h"

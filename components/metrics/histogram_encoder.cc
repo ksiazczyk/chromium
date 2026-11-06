@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Histogram encoder implementation
+// summary: Implements encoding of histogram deltas into UMA protobuf events, applying a configurable denylist of histogram names excluded from serialization.
+// ---
+
 #include "components/metrics/histogram_encoder.h"
 
 #include <algorithm>

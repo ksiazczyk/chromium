@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android metrics provider implementation
+// summary: Provides Android-specific stability metrics, logging whether the device is a low-RAM device for current and previous session UMA logs.
+// ---
+
 #include "components/metrics/android_metrics_provider.h"
 
 #include "base/metrics/histogram_macros.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LimitedEntropyRandomizationSourceTest
+// summary: JUnit unit tests verifying that LimitedEntropyRandomizationSource generates a 32-character uppercase hex value that is not all zeros.
+// ---
+
 package org.chromium.components.metrics;
 
 import static org.junit.Assert.assertEquals;

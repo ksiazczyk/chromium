@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Profile metrics service unit tests
+// summary: Unit tests verifying suffixed per-profile histogram logging, combined suffixes for high profile indices, and empty-context behavior.
+// ---
+
 #include "components/metrics/profile_metrics_service.h"
 
 #include "base/test/metrics/histogram_tester.h"

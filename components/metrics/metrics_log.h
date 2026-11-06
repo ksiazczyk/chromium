@@ -5,6 +5,12 @@
 // This file defines a set of user experience metrics data recorded by the
 // MetricsService. This is the unit of data that is sent to the server.
 
+// ---docerion
+// type: source
+// title: Metrics log class
+// summary: Declares the MetricsLog class and log metadata that define the unit of user experience metrics data recorded by the metrics service and sent to the server.
+// ---
+
 #ifndef COMPONENTS_METRICS_METRICS_LOG_H_
 #define COMPONENTS_METRICS_METRICS_LOG_H_
 

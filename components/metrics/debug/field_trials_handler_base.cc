@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Field trials handler base implementation
+// summary: Implements the base browser-side handler that lists field trial studies and groups, hashes their names, parses group identifiers, and applies forced group overrides for the metrics debug page.
+// ---
+
 #include "components/metrics/debug/field_trials_handler_base.h"
 
 #include <string_view>

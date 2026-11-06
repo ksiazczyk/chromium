@@ -1,0 +1,4 @@
+# Docerion header of clean_exit_beacon_ios.mm.
+type: source
+title: iOS user defaults clean exit beacon
+summary: Implements iOS-specific CleanExitBeacon static methods that store and read the exited-cleanly beacon in NSUserDefaults as a persistence workaround.

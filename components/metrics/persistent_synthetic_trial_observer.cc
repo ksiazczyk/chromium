@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Persistent synthetic trial observer implementation
+// summary: Persists synthetic field trial updates and removals into the global persistent system profile on the correct task runner.
+// ---
+
 #include "components/metrics/persistent_synthetic_trial_observer.h"
 
 #include "base/task/sequenced_task_runner.h"

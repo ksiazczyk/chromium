@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android metrics provider class declaration
+// summary: Declares AndroidMetricsProvider, a MetricsProvider that supplies Android-specific stability metrics to UMA logs.
+// ---
+
 #ifndef COMPONENTS_METRICS_ANDROID_METRICS_PROVIDER_H_
 #define COMPONENTS_METRICS_ANDROID_METRICS_PROVIDER_H_
 

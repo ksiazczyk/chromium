@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metrics server URL declarations
+// summary: Declares metrics and UKM MIME types and functions returning the metrics, Cast, UKM, DWA, and Private Metrics server URLs.
+// ---
+
 #ifndef COMPONENTS_METRICS_SERVER_URLS_H_
 #define COMPONENTS_METRICS_SERVER_URLS_H_
 

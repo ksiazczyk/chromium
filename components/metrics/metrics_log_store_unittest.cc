@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MetricsLogStore unit tests
+// summary: Unit tests for MetricsLogStore covering storing, staging, discarding, persisting, and reloading unsent UMA logs of initial and ongoing types.
+// ---
+
 #include "components/metrics/metrics_log_store.h"
 
 #include "components/metrics/metrics_logs_event_manager.h"

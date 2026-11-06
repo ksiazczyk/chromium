@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metrics internals handler base declaration
+// summary: Declares the platform-agnostic handler class and its delegate interface for serving metrics, UKM, and variations data to the metrics debug WebUI.
+// ---
+
 #ifndef COMPONENTS_METRICS_DEBUG_METRICS_INTERNALS_HANDLER_BASE_H_
 #define COMPONENTS_METRICS_DEBUG_METRICS_INTERNALS_HANDLER_BASE_H_
 

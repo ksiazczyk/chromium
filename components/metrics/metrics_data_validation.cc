@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metrics data validation implementation
+// summary: Implements pseudo metrics that apply configurable multiplicative and additive factors to samples for assessing field trial data reliability.
+// ---
+
 #include "components/metrics/metrics_data_validation.h"
 
 #include "base/feature_list.h"

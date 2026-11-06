@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LimitedEntropyRandomizationSource
+// summary: Java utility that generates a random 128-bit limited entropy randomization source as a 32-character uppercase hex string, mirroring the C++ EntropyState implementation for randomizing clients across limited-entropy studies.
+// ---
+
 package org.chromium.components.metrics;
 
 import org.chromium.base.Token;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Date changed helper header
+// summary: Declares date_changed_helper functions that report whether the local date changed since the last call, offered as a simple alternative to DailyEvent.
+// ---
+
 #ifndef COMPONENTS_METRICS_DATE_CHANGED_HELPER_H_
 #define COMPONENTS_METRICS_DATE_CHANGED_HELPER_H_
 

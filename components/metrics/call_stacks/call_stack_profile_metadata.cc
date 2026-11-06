@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Call stack profile metadata implementation
+// summary: Implements recording of profiler metadata and retroactive application of metadata items to stack samples in collected profiles.
+// ---
+
 #include "components/metrics/call_stacks/call_stack_profile_metadata.h"
 
 #include <algorithm>

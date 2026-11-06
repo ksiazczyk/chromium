@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metrics command-line switches
+// summary: Defines the metrics component's command-line switches for log export, upload intervals, server URL overrides, and reporting control.
+// ---
+
 #ifndef COMPONENTS_METRICS_METRICS_SWITCHES_H_
 #define COMPONENTS_METRICS_METRICS_SWITCHES_H_
 

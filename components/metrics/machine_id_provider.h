@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Machine ID provider class declaration
+// summary: Declares MachineIdProvider, which supplies platform-specific machine characteristics used as a machine id.
+// ---
+
 #ifndef COMPONENTS_METRICS_MACHINE_ID_PROVIDER_H_
 #define COMPONENTS_METRICS_MACHINE_ID_PROVIDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MetricsService unit tests
+// summary: Unit tests covering MetricsService log creation, staging, uploading, field trial recording, and stability metrics behavior.
+// ---
+
 #include "components/metrics/metrics_service.h"
 
 #include <stdint.h>

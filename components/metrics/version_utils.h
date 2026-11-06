@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metrics version utilities header
+// summary: Declares metrics helpers for building the version string, converting release channels to protobuf values, and getting the Android package name and operating system name.
+// ---
+
 #ifndef COMPONENTS_METRICS_VERSION_UTILS_H_
 #define COMPONENTS_METRICS_VERSION_UTILS_H_
 

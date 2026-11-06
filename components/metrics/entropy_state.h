@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EntropyState class header
+// summary: Declares the EntropyState class, which reads and manages low, pseudo low, old, high, and limited entropy source values from prefs for field trial randomization.
+// ---
+
 #ifndef COMPONENTS_METRICS_ENTROPY_STATE_H_
 #define COMPONENTS_METRICS_ENTROPY_STATE_H_
 

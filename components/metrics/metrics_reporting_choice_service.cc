@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metrics reporting choice service implementation
+// summary: Implements MetricsReportingChoiceService, which manages the three-level metrics consent state, advanced reporting profile preferences, and policy-based disabling of metrics reporting.
+// ---
+
 #include "components/metrics/metrics_reporting_choice_service.h"
 
 #include <optional>

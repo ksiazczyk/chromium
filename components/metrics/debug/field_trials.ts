@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Field trials tab web component
+// summary: Web component for the field trials tab that lists trials and groups with search filtering, localStorage-backed name unhashing and enrollment overrides.
+// ---
+
 import {CustomElement} from 'chrome://resources/js/custom_element.js';
 import {getTrustedHTML} from 'chrome://resources/js/static_types.js';
 

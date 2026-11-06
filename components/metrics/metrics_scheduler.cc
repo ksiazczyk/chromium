@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metrics scheduler implementation
+// summary: Implements MetricsScheduler, a timer-based scheduler that triggers metrics tasks with platform-dependent initial delays and supports done callbacks.
+// ---
+
 #include "components/metrics/metrics_scheduler.h"
 
 #include "build/build_config.h"

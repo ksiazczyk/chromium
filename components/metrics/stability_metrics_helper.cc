@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stability metrics helper implementation
+// summary: Implements StabilityMetricsHelper, recording renderer, extension, and utility process crash and launch events into stability histograms and the system profile proto.
+// ---
+
 #include "components/metrics/stability_metrics_helper.h"
 
 #include <stdint.h>

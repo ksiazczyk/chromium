@@ -4,6 +4,12 @@
 
 // ReportingService handles uploading serialized logs to a server.
 
+// ---docerion
+// type: source
+// title: Reporting service implementation
+// summary: Implements uploading of serialized metrics logs to a server, including upload scheduling, enabling and disabling reporting, and Android background uploads.
+// ---
+
 #include "components/metrics/reporting_service.h"
 
 #include <cstdio>

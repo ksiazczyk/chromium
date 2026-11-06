@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clean exit beacon unit tests
+// summary: Tests CleanExitBeacon behavior including crash streak metrics, malformed or missing beacon files, and beacon consistency histogram reporting.
+// ---
+
 #include "components/metrics/clean_exit_beacon.h"
 
 #include <memory>

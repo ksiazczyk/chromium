@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stability metrics helper interface and enums
+// summary: Declares StabilityMetricsHelper plus the StabilityEventType and RendererHostedContentType enums used to log stability metrics common to different embedders.
+// ---
+
 #ifndef COMPONENTS_METRICS_STABILITY_METRICS_HELPER_H_
 #define COMPONENTS_METRICS_STABILITY_METRICS_HELPER_H_
 

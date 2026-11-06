@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU metrics provider class declaration
+// summary: Declares GPUMetricsProvider, a MetricsProvider that adds GPU-related metrics to reported system profile data.
+// ---
+
 #ifndef COMPONENTS_METRICS_CONTENT_GPU_METRICS_PROVIDER_H_
 #define COMPONENTS_METRICS_CONTENT_GPU_METRICS_PROVIDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Demographic metrics provider implementation
+// summary: Implements the metrics provider that adds the synced user's noised birth year and gender to UMA and UKM reports when sync and feature conditions allow.
+// ---
+
 #include "components/metrics/demographics/demographic_metrics_provider.h"
 
 #include <optional>

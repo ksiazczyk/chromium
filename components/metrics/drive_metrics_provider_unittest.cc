@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Drive metrics provider unit tests
+// summary: Tests that drive seek-penalty metrics fall back to local state preferences and write results back to them correctly.
+// ---
+
 #include "components/metrics/drive_metrics_provider.h"
 
 #include "base/test/metrics/histogram_tester.h"

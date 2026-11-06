@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EnvironmentRecorder class header
+// summary: Declares the EnvironmentRecorder class, which stores system profile data in prefs for stability logs across Chrome launches.
+// ---
+
 #ifndef COMPONENTS_METRICS_ENVIRONMENT_RECORDER_H_
 #define COMPONENTS_METRICS_ENVIRONMENT_RECORDER_H_
 

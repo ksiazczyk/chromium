@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Reporting service unit tests
+// summary: Unit tests for ReportingService log uploading using a test log store, test service client, and staged log handling.
+// ---
+
 #include "components/metrics/reporting_service.h"
 
 #include <stdint.h>

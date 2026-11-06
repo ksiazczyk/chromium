@@ -1,3 +1,9 @@
+---
+type: readme
+title: Metrics component overview
+summary: Explains that the component contains MetricsService and supporting code for UMA and UKM reporting, with subdirectories for net, content and specialized functionality.
+---
+
 This component contains the code for MetricsService and supporting code, which
 is used for UMA reporting and for other metrics services like UKM.
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Date changed helper unit tests
+// summary: Unit tests for date_changed_helper covering unchanged dates, day-old and future preferences, and same-day checks using scoped clock overrides.
+// ---
+
 #include "components/metrics/date_changed_helper.h"
 
 #include "base/time/time.h"

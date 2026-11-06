@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataUseTracker header for cellular data use tracking
+// summary: Declares DataUseTracker, which tracks user and UMA cellular data usage in preferences and verifies whether UMA log uploads on cellular are allowed.
+// ---
+
 #ifndef COMPONENTS_METRICS_DATA_USE_TRACKER_H_
 #define COMPONENTS_METRICS_DATA_USE_TRACKER_H_
 

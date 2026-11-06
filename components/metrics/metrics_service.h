@@ -5,6 +5,12 @@
 // This file defines a service that collects information about the user
 // experience in order to help improve future versions of the app.
 
+// ---docerion
+// type: source
+// title: MetricsService class header
+// summary: Declares the MetricsService that collects user experience data and manages metrics recording, reporting, and log persistence.
+// ---
+
 #ifndef COMPONENTS_METRICS_METRICS_SERVICE_H_
 #define COMPONENTS_METRICS_METRICS_SERVICE_H_
 

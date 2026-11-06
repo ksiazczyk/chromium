@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the call stacks component
+summary: Defines allowed include paths for this directory, covering sampling profiler headers and the CrOS stack sampled metrics status proto.

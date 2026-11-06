@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metrics scheduler class header
+// summary: Declares the MetricsScheduler class that drives MetricsService uploading by scheduling recurring tasks with a one-shot timer.
+// ---
+
 #ifndef COMPONENTS_METRICS_METRICS_SCHEDULER_H_
 #define COMPONENTS_METRICS_METRICS_SCHEDULER_H_
 

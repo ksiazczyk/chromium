@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stability metrics provider interface
+// summary: Declares StabilityMetricsProvider, a MetricsProvider that stores and loads stability counts such as launches and crashes in local state prefs.
+// ---
+
 #ifndef COMPONENTS_METRICS_STABILITY_METRICS_PROVIDER_H_
 #define COMPONENTS_METRICS_STABILITY_METRICS_PROVIDER_H_
 

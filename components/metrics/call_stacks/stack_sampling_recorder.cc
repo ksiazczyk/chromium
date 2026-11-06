@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StackSamplingRecorder implementation
+// summary: Implements periodic writing of a status protobuf listing successfully stack-sampled processes and threads to a file for ChromeOS integration tests.
+// ---
+
 #include "components/metrics/call_stacks/stack_sampling_recorder.h"
 
 #include <sys/file.h>

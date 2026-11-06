@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Persistent synthetic trial observer unit tests
+// summary: Unit tests verifying that PersistentSyntheticTrialObserver records and updates synthetic field trials in the persistent system profile.
+// ---
+
 #include "components/metrics/persistent_synthetic_trial_observer.h"
 
 #include "base/test/task_environment.h"

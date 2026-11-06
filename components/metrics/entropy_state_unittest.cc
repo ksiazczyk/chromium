@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EntropyState unit tests
+// summary: Unit tests covering generation, persistence, validation, and reset behavior of the low, pseudo low, old, and high entropy sources in EntropyState.
+// ---
+
 #include "components/metrics/entropy_state.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Date changed helper implementation
+// summary: Implements helpers that detect whether the local calendar date has changed since the last call, storing the date in a preference and tolerating small midnight shifts such as time zone changes.
+// ---
+
 #include "components/metrics/date_changed_helper.h"
 
 #include "base/time/time.h"

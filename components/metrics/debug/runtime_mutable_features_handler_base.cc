@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Runtime mutable features handler implementation
+// summary: C++ implementation of the platform-agnostic handler that reports runtime-mutable feature states and handles seed fetching pause and seed upload.
+// ---
+
 #include "components/metrics/debug/runtime_mutable_features_handler_base.h"
 
 #include <string_view>

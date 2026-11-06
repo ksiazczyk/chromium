@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metrics services web contents observer class declaration
+// summary: Declares MetricsServicesWebContentsObserver, which notifies metrics services about loading events and unresponsive renderers through callbacks.
+// ---
+
 #ifndef COMPONENTS_METRICS_CONTENT_METRICS_SERVICES_WEB_CONTENTS_OBSERVER_H_
 #define COMPONENTS_METRICS_CONTENT_METRICS_SERVICES_WEB_CONTENTS_OBSERVER_H_
 

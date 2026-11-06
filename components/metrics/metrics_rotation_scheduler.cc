@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metrics rotation scheduler implementation
+// summary: Implements MetricsRotationScheduler, which schedules metrics log uploads and waits for the startup init task to complete before triggering rotation.
+// ---
+
 #include "components/metrics/metrics_rotation_scheduler.h"
 
 #include "base/metrics/histogram_macros.h"

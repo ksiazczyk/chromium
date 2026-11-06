@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Early metrics guard unit tests
+// summary: Tests the active flag behavior of EarlyMetricsGuard and that nested guards trigger a DCHECK failure.
+// ---
+
 #include "components/metrics/early_metrics_guard.h"
 
 #include "base/test/gtest_util.h"

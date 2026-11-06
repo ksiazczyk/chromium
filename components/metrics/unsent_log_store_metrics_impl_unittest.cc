@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unsent log store metrics implementation unit tests
+// summary: Unit tests verifying that UnsentLogStoreMetricsImpl records the expected UMA histograms, including feature-gated metadata metrics and edge cases.
+// ---
+
 #include "components/metrics/unsent_log_store_metrics_impl.h"
 
 #include "base/test/metrics/histogram_tester.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MetricsServiceObserver unit tests
+// summary: Unit tests verifying that MetricsServiceObserver is notified as UMA logs are created, staged, uploaded, and discarded, including log export behavior.
+// ---
+
 #include "components/metrics/metrics_service_observer.h"
 
 #include "base/base64.h"

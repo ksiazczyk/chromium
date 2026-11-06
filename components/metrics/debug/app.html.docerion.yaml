@@ -1,0 +1,4 @@
+# Docerion header of app.html.
+type: source
+title: Metrics internals page HTML template
+summary: HTML template for the metrics internals page with tabs for UMA, UKM, variations, field trials, runtime-mutable features and private metrics.

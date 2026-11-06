@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ComponentMetricsProvider class header
+// summary: Declares ComponentMetricsProvider and its delegate interface for reporting loaded component information in the system profile.
+// ---
+
 #ifndef COMPONENTS_METRICS_COMPONENT_METRICS_PROVIDER_H_
 #define COMPONENTS_METRICS_COMPONENT_METRICS_PROVIDER_H_
 

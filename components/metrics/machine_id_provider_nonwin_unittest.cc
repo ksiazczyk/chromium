@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Non-Windows machine ID provider unit tests
+// summary: Verifies GetMachineId returns a stable non-empty id when the hardware model name is available.
+// ---
+
 #include "components/metrics/machine_id_provider.h"
 
 #include "base/system/sys_info.h"

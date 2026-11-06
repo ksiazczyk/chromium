@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Motherboard metrics provider implementation
+// summary: Fills the system profile proto with motherboard and BIOS information gathered asynchronously on a background thread.
+// ---
+
 #include "components/metrics/motherboard_metrics_provider.h"
 
 #include <memory>

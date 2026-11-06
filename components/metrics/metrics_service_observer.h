@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metrics service observer header
+// summary: Declares the MetricsServiceObserver class that observes metrics logs, stores them in memory, and exports them to JSON with lifecycle events.
+// ---
+
 #ifndef COMPONENTS_METRICS_METRICS_SERVICE_OBSERVER_H_
 #define COMPONENTS_METRICS_METRICS_SERVICE_OBSERVER_H_
 

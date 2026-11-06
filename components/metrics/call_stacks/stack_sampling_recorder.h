@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StackSamplingRecorder class header
+// summary: Declares StackSamplingRecorder, which regularly writes stack sampling status data to a file for ChromeOS tast tests and is enabled by a command-line switch.
+// ---
+
 #ifndef COMPONENTS_METRICS_CALL_STACKS_STACK_SAMPLING_RECORDER_H_
 #define COMPONENTS_METRICS_CALL_STACKS_STACK_SAMPLING_RECORDER_H_
 

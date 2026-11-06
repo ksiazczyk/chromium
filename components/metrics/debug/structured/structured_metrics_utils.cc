@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Structured metrics utils implementation
+// summary: Implements GetStructuredMetricsSummary, which reports whether Structured Metrics recording is enabled and supplies the CrOS device ID for the debug page.
+// ---
+
 #include "components/metrics/debug/structured/structured_metrics_utils.h"
 
 #include "base/i18n/number_formatting.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Structured metrics utils header
+// summary: Declares GetStructuredMetricsSummary, a helper that collects summary information for the Structured Metrics service for the debug UI.
+// ---
+
 #ifndef COMPONENTS_METRICS_DEBUG_STRUCTURED_STRUCTURED_METRICS_UTILS_H_
 #define COMPONENTS_METRICS_DEBUG_STRUCTURED_STRUCTURED_METRICS_UTILS_H_
 

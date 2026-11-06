@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SubprocessMetricsProvider implementation
+// summary: Implements SubprocessMetricsProvider, which registers persistent histogram allocators from child processes and merges their histogram deltas for upload.
+// ---
+
 #include "components/metrics/content/subprocess_metrics_provider.h"
 
 #include <utility>

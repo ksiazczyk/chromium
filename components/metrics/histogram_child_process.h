@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Histogram child process interface
+// summary: Defines the interface child process types implement so HistogramController can bind a histogram fetcher and query process context for histogram collection.
+// ---
+
 #ifndef COMPONENTS_METRICS_HISTOGRAM_CHILD_PROCESS_H_
 #define COMPONENTS_METRICS_HISTOGRAM_CHILD_PROCESS_H_
 

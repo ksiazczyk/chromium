@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File metrics provider header
+// summary: Declares FileMetricsProvider, which polls registered metric files each upload cycle and merges their histograms into metrics reports.
+// ---
+
 #ifndef COMPONENTS_METRICS_FILE_METRICS_PROVIDER_H_
 #define COMPONENTS_METRICS_FILE_METRICS_PROVIDER_H_
 

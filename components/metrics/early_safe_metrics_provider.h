@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Early safe metrics provider interface
+// summary: Defines a marker interface for metrics providers that are safe to run during early startup without blocking I/O or double counting.
+// ---
+
 #ifndef COMPONENTS_METRICS_EARLY_SAFE_METRICS_PROVIDER_H_
 #define COMPONENTS_METRICS_EARLY_SAFE_METRICS_PROVIDER_H_
 
