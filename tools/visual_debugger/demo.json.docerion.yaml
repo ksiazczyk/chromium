@@ -1,0 +1,4 @@
+# Docerion header of demo.json.
+type: data
+title: Demo debug stream data
+summary: Sample debug stream JSON with draw calls that the app loads through its demo data button.

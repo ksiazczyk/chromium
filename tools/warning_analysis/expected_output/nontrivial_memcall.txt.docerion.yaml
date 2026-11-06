@@ -1,0 +1,4 @@
+# Docerion header of nontrivial_memcall.txt.
+type: data
+title: Expected output for nontrivial memory call warnings
+summary: Expected output for the nontrivial memory call check, listing one hit each in ANGLE Vulkan and Skia code.

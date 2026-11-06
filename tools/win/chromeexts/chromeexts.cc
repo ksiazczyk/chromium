@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Entry points and command dispatch for chromeexts
+// summary: Implements the debugger extension initialization and the Run functions that dispatch the hwnd, view, crashinfo, gwpasan, and help commands.
+// ---
+
 #include <dbgeng.h>
 #include <wrl/client.h>
 

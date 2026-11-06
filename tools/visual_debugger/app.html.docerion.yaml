@@ -1,0 +1,4 @@
+# Docerion header of app.html.
+type: source
+title: Visual debugger web app page
+summary: HTML page implementing the debugger UI with connection controls, save/load, filters, frame scrubbing and log panels.

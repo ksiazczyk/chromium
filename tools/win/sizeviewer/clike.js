@@ -1,6 +1,12 @@
 // CodeMirror, copyright (c) by Marijn Haverbeke and others
 // Distributed under an MIT license: http://codemirror.net/LICENSE
 
+// ---docerion
+// type: source
+// title: CodeMirror C-like syntax mode
+// summary: CodeMirror syntax-highlighting mode for C-like languages, vendored unmodified to render C++ source in the sizeviewer report.
+// ---
+
 (function(mod) {
   if (typeof exports == "object" && typeof module == "object") // CommonJS
     mod(require("../../lib/codemirror"));

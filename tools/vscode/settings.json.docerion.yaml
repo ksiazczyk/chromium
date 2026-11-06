@@ -1,0 +1,4 @@
+# Docerion header of settings.json.
+type: config
+title: Suggested VSCode editor settings
+summary: Suggested default VSCode settings for Chromium development covering indentation, formatting, file exclusions and clang-format.

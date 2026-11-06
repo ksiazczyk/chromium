@@ -1,0 +1,4 @@
+# Docerion header of ReadMe.txt.
+type: readme
+title: CreateTempFilesPerfEvaluation readme
+summary: Explains the motivation, the related Chromium bug, and how to build and run the temp file creation performance comparison tool.

@@ -1,0 +1,4 @@
+# Docerion header of fake_build_ninja.txt.
+type: test
+title: Fake build.ninja fixture for YCM extra conf unit tests
+summary: Fake build.ninja file used as a fixture by the Chromium YouCompleteMe extra-conf unit tests to exercise compile-command parsing.

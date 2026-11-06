@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Vim tools directory metadata
+summary: Declares the Monorail component and Buganizer component ID used for bug tracking of the tools/vim directory.

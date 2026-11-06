@@ -1,0 +1,4 @@
+# Docerion header of windbg32.bat.
+type: script
+title: Launch WinDbg for x86 processes
+summary: Batch helper that launches the 32-bit WinDbg debugger from a local install or the packaged Chromium toolchain.

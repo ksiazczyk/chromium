@@ -1,0 +1,4 @@
+# Docerion header of setenv.bat.
+type: script
+title: Add the Windows toolchain to PATH
+summary: Batch wrapper that runs setenv.py and executes the command it prints to set up the current toolchain environment.

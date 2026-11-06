@@ -1,6 +1,13 @@
 # Copyright 2022 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Presubmit check disallowing new JavaScript files
+# summary: Presubmit check that flags newly added .js files and requires new WebUI files to be written in TypeScript instead.
+# ---
+
 """Checks for new additions of JS (rather than TS) files."""
 
 

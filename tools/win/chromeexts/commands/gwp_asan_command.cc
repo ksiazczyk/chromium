@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GWP-ASan debugger command implementation
+// summary: Implements a debugger command that reads GWP-ASan minidump streams and prints allocation and free stack traces, symbolizing addresses and printing task traces.
+// ---
+
 #include "tools/win/chromeexts/commands/gwp_asan_command.h"
 
 #include <windows.h>

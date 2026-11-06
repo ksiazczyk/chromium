@@ -1,0 +1,4 @@
+# Docerion header of absl.natvis.
+type: config
+title: Abseil flat_hash_map debugger visualizer
+summary: Natvis visualizer that renders absl::flat_hash_map contents, handling both small-object and heap storage modes, in the Visual Studio debugger.

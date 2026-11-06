@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: HTML style checks for presubmit
+# summary: Implements regex-based presubmit checks enforcing the Chromium web development style guide on HTML resources.
+# ---
+
 """
 Presubmit for Chromium HTML resources. See chrome/browser/PRESUBMIT.py.
 """

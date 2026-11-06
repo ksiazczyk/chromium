@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Web dev style presubmit support
+# summary: Wires the HTML, JS and resource checkers into presubmit style checks and exposes helpers to disallow includes, new JS files and Polymer imports.
+# ---
+
 
 from . import html_checker
 from . import js_checker

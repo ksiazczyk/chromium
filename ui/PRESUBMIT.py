@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: script
+# title: Presubmit checks for ui
+# summary: Runs Ruff and patch formatting checks on ui changes as part of the presubmit process.
+# ---
+
 """Top-level presubmit script for //ui."""
 
 PRESUBMIT_VERSION = '2.0.0'

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Web Bluetooth tools directory metadata
+summary: Declares the Blink>Bluetooth monorail component, team email, and Buganizer component for the web_bluetooth tools directory.

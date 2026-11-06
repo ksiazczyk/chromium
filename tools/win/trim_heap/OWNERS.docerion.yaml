@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the trim_heap tool
+summary: Lists the people responsible for reviewing changes to the trim_heap tool directory.

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Ninja output directory helper
+# summary: Finds the most recently generated or built ninja output directory under a Chromium checkout for build tooling.
+# ---
+
 from __future__ import print_function
 
 import sys

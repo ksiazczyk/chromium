@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crash info debugger command implementation
+// summary: Implements a ChromeExts debugger command that detects crashpad minidumps and prints report and client IDs, process integrity level, and dump annotations.
+// ---
+
 #include "tools/win/chromeexts/commands/crash_info_command.h"
 
 #include <windows.h>

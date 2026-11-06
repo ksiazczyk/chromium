@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: Ruff configuration for the whats_new tools
+# summary: Extends the parent Ruff lint configuration and sets the indent width to 4 for the whats_new tool directory.
+# ---
+
 extend = "../.ruff.toml"
 indent-width = 4

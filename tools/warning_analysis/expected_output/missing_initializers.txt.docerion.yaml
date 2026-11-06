@@ -1,0 +1,4 @@
+# Docerion header of missing_initializers.txt.
+type: data
+title: Expected output for missing initializers warnings
+summary: Expected output for the missing initializers check, listing three hits in two third-party source files.

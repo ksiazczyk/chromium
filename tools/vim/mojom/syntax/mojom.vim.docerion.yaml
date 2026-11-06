@@ -1,0 +1,4 @@
+# Docerion header of mojom.vim.
+type: script
+title: Vim syntax file for Mojom
+summary: Defines Vim syntax highlighting for Mojom files, covering keywords, types, comments, literals, attributes and default highlight links.

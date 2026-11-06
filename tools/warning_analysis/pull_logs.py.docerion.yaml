@@ -1,0 +1,4 @@
+# Docerion header of pull_logs.py.
+type: script
+title: Pull tryjob build logs from Buildbucket
+summary: Uses the bb tool to download build logs for all tryjobs of a Gerrit CL, optionally filtering out uninteresting lines before saving them locally.

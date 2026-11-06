@@ -1,0 +1,4 @@
+# Docerion header of cc.natvis.
+type: config
+title: Build-agnostic viz DrawQuad debugger visualizers
+summary: Natvis display strings for viz DrawQuad subclasses, valid in both component and non-component builds.

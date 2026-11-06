@@ -34,6 +34,12 @@
 // Global variables are not necessarily a problem but it is useful to understand
 // them, and monitoring their changes can be instructive.
 
+// ---docerion
+// type: source
+// title: ShowGlobals PDB global variable scanner
+// summary: Scans PDB files and prints information about interesting global variables, such as duplicates and large globals, to help diagnose code bloat and inefficient globals.
+// ---
+
 #include <atlbase.h>
 
 #include <dia2.h>

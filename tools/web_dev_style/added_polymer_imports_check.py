@@ -1,6 +1,13 @@
 # Copyright 2025 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Presubmit check disallowing new Polymer imports
+# summary: Presubmit check that flags Polymer imports in newly added TypeScript files and recommends using Lit instead.
+# ---
+
 """Checks for new additions of Polymer (rather than Lit) imports."""
 
 from . import regex_check

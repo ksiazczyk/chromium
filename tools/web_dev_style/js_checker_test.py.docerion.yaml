@@ -1,0 +1,4 @@
+# Docerion header of js_checker_test.py.
+type: test
+title: JS checker unit tests
+summary: Unit tests for the JavaScript style checker, covering bind(this), <if>/<include> comment, chrome.send and other style checks.

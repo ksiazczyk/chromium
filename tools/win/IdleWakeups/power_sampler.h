@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PowerSampler class header
+// summary: Declares the PowerSampler class and function pointer types for querying CPU power data through the Intel Power Gadget API.
+// ---
+
 #ifndef TOOLS_WIN_IDLEWAKEUPS_POWER_SAMPLER_H_
 #define TOOLS_WIN_IDLEWAKEUPS_POWER_SAMPLER_H_
 

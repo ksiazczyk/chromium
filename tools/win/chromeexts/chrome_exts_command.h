@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeExtsCommand base class for debugger commands
+// summary: Declares the base class that all debugger extension commands subclass, providing argument parsing, output helpers, and a Run template for dispatch.
+// ---
+
 #ifndef TOOLS_WIN_CHROMEEXTS_CHROME_EXTS_COMMAND_H_
 #define TOOLS_WIN_CHROMEEXTS_CHROME_EXTS_COMMAND_H_
 

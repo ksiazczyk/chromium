@@ -1,0 +1,4 @@
+# Docerion header of server.py.
+type: source
+title: Local HTTP server for the debugger app
+summary: Python server that serves the app files, proxies DevTools discovery via /discover.json and opens the debugger in a browser.

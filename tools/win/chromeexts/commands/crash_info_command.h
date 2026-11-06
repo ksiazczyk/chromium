@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crash info debugger command header
+// summary: Declares the CrashInfoCommand class with Execute, annotation and misc info display methods, and dump file reading helpers for the crashpad debugger command.
+// ---
+
 #ifndef TOOLS_WIN_CHROMEEXTS_COMMANDS_CRASH_INFO_COMMAND_H_
 #define TOOLS_WIN_CHROMEEXTS_COMMANDS_CRASH_INFO_COMMAND_H_
 

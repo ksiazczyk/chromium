@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: JavaScript style checks for presubmit
+# summary: Implements regex-based presubmit checks for JavaScript resources and runs ESLint on affected files in batches.
+# ---
+
 """Presubmit script for Chromium JS resources.
 
 See chrome/browser/PRESUBMIT.py

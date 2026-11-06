@@ -1,0 +1,4 @@
+# Docerion header of html_checker_test.py.
+type: test
+title: Unit tests for HtmlChecker
+summary: Unit tests verifying that the HTML style checks flag violating lines and accept valid ones.

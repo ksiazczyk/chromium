@@ -1,3 +1,13 @@
+---
+type: readme
+title: Compiler warning analysis tools
+summary: Explains how pull_logs.py and collect_warnings.py automate discovering compiler warnings across Chromium CQ trybot builds, including the intended workflow and notable script options.
+relations:
+  - references /build/config/compiler/BUILD.gn
+  - references /build/config/compiler/compiler.gni
+  - documents /tools/warning_analysis/pull_logs.py
+---
+
 This folder contains scripts for discovering and cataloguing instances of
 compiler warnings in Chromium builds.
 

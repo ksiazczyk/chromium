@@ -1,0 +1,4 @@
+# Docerion header of unused_parameter.txt.
+type: data
+title: Expected output for unused parameter warnings
+summary: Expected output for the unused parameter check, listing 14 hits across five source files including V8 and accessibility code.

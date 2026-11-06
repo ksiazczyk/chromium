@@ -1,0 +1,4 @@
+# Docerion header of ShowGlobals.vcxproj.
+type: config
+title: ShowGlobals Visual Studio project file
+summary: MSBuild project file that configures the ShowGlobals application build, including toolset and Debug/Release settings for Win32 and x64.

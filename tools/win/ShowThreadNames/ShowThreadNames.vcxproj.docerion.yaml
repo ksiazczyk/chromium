@@ -1,0 +1,4 @@
+# Docerion header of ShowThreadNames.vcxproj.
+type: config
+title: Visual Studio project file for ShowThreadNames
+summary: MSBuild project file with compiler and linker settings for building the ShowThreadNames application in multiple configurations.

@@ -1,0 +1,4 @@
+# Docerion header of cc-non-component-build.natvis.
+type: config
+title: cc::ListContainer visualizer for non-component builds
+summary: Natvis visualizer for cc::ListContainer in non-component builds, identical to the component variant except for the allocator expression.

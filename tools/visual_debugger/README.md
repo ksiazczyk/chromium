@@ -1,3 +1,12 @@
+---
+type: readme
+title: Chromium Visual Debugger App
+summary: Documentation for the visual debugger covering launching, Android setup, usage, operation, performance, security and trace integration.
+relations:
+  - references /tools/visual_debugger/visual_debugger_communications.png
+  - references /components/viz/service/debugger/README.md
+  - references /components/viz/service/display/display.cc
+---
 
 # //tools/visual_debugger/
 

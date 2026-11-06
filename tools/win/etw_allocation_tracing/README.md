@@ -1,3 +1,13 @@
+---
+type: readme
+title: ETW allocation tracing
+summary: Documents Chromium's allocation ETW provider, its keywords and events, how to capture traces with the bundled WPR profile, and how to analyze allocation call stacks on Windows.
+relations:
+  - documents /tools/win/etw_allocation_tracing/chromium_allocation_tracing.wprp
+  - documents /base/allocator/etw_allocation_observer_win.cc
+  - documents /base/allocator/etw_allocation_observer_win.h
+---
+
 # ETW allocation tracing
 
 Chromium satisfies almost every allocation out of PartitionAlloc's own super

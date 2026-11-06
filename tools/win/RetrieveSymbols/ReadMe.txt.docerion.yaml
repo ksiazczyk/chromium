@@ -1,0 +1,4 @@
+# Docerion header of ReadMe.txt.
+type: readme
+title: RetrieveSymbols tool readme
+summary: Explains how to use RetrieveSymbols to download PE files and PDB symbols from symbol servers, with dumpbin-based usage examples for both PDB and PE lookups.

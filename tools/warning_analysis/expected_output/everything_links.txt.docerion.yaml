@@ -1,0 +1,4 @@
+# Docerion header of everything_links.txt.
+type: data
+title: Expected warning hits with source links in text format
+summary: Expected text output listing warning hits as crsrc.org source links with per-file hit counts and totals.

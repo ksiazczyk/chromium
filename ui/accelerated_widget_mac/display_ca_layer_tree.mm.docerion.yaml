@@ -1,0 +1,4 @@
+# Docerion header of display_ca_layer_tree.mm.
+type: source
+title: DisplayCALayerTree implementation
+summary: Implements the CALayer tree that displays compositor frames on macOS and iOS using remote layers or IOSurfaces.

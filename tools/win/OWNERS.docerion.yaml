@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for tools/win
+summary: Lists the code owners for the directory plus per-file owners for update_idl.py.

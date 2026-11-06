@@ -1,0 +1,4 @@
+# Docerion header of README.chromium.
+type: readme
+title: Sizeviewer third-party components README
+summary: Documents the origins of the sizeviewer tool's third-party files, including the code_tally.exe binary location, the Silk icon favicon, and unmodified CodeMirror 4.8.0 scripts.

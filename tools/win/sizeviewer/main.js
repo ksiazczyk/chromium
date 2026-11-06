@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sizeviewer treemap UI script
+// summary: Draws the treemap of DLL symbol sizes with Google Visualization and wires up CodeMirror views that highlight per-line sizes and contributing symbols.
+// ---
+
 google.load("visualization", "1", {packages:["treemap"]});
 google.setOnLoadCallback(drawChart);
 function drawChart() {

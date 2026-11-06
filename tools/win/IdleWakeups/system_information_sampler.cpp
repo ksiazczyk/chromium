@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System information sampler implementation
+// summary: Implements the system information sampler for the IdleWakeups tool, defining undocumented Windows process and thread structures to query per-process CPU and memory data via NtQuerySystemInformation.
+// ---
+
 #include "stdafx.h"
 
 #include <algorithm>

@@ -1,0 +1,4 @@
+# Docerion header of upload_whats_new_features.py.
+type: script
+title: Upload new What's New features
+summary: Script that validates and applies new What's New feature data from a milestone folder, then creates a branch, commits and uploads the changes as a CL.

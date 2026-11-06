@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for chromeexts dependencies
+summary: Specifies allowed include rules for the extension, permitting views debug headers, Crashpad minidump headers, and GWP-ASan crash handler dependencies.

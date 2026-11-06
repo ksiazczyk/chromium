@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build configs for embedding natvis visualizers
+summary: Defines GN configs that embed the directory's natvis files into PDBs via the /NATVIS linker flag for absl, chrome, blink and cc targets.

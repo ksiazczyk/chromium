@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Presubmit checks for web_dev_style
+# summary: Defines presubmit entry points that run the directory's unit tests and warns when the global ESLint config is modified.
+# ---
+
 
 PRESUBMIT_VERSION = '2.0.0'
 

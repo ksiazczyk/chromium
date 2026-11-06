@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows tool to list static initializers from PDB symbols
+// summary: C++ tool that uses the DIA SDK to open a PDB or executable and print dynamic initializer and atexit destructor symbols for a module.
+// ---
+
 #include <Windows.h>
 #include <dbghelp.h>
 #include <dia2.h>

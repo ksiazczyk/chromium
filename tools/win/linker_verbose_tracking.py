@@ -1,6 +1,13 @@
 # Copyright 2016 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Trace why object files are linked from VC++ linker verbose output
+# summary: Parses /verbose linker output to trace the dependency chain that pulls in an object file, helping identify binary size reductions.
+# ---
+
 """
 This script parses the /verbose output from the VC++ linker and uses it to
 explain why a particular object file is being linked in. It parses records

@@ -1,0 +1,4 @@
+# Docerion header of compact_blocklist.py.
+type: script
+title: Web Bluetooth GATT blocklist compaction script
+summary: Converts the Web Bluetooth GATT blocklist into the compact format expected by ContentBrowserClient#GetWebBluetoothBlocklist.

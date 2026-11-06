@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ShowGlobals .gitignore
+# summary: Ignores Visual Studio build output directories such as Release, Debug, ipch, x64, and .vs for the ShowGlobals tool.
+# ---
+
 Release/
 Debug/
 ipch/

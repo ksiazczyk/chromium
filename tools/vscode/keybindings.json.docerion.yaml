@@ -1,0 +1,4 @@
+# Docerion header of keybindings.json.
+type: config
+title: Custom VSCode keybindings
+summary: Defines custom keyboard shortcuts for running tasks, navigating diffs, toggling header/source and small-keyboard laptops.

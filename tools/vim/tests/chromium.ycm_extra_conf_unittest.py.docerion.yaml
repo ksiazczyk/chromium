@@ -1,0 +1,4 @@
+# Docerion header of chromium.ycm_extra_conf_unittest.py.
+type: test
+title: Unit tests for the Chromium YouCompleteMe config
+summary: Python unittest suite for chromium.ycm_extra_conf that verifies compile flag extraction using a fake Chromium source tree and ninja build data.

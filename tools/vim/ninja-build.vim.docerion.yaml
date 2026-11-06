@@ -1,0 +1,4 @@
+# Docerion header of ninja-build.vim.
+type: script
+title: Ninja compile and build commands for Vim
+summary: Adds Vim commands and key bindings to compile the current file or build ninja targets via autoninja.

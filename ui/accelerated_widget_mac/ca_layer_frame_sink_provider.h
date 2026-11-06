@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CALayerFrameSinkProvider header
+// summary: Declares the CALayerFrameSinkProvider Objective-C view class that hosts a CALayer frame sink, exposes a view handle, and supports lookup by handle on iOS.
+// ---
+
 #ifndef UI_ACCELERATED_WIDGET_MAC_CA_LAYER_FRAME_SINK_PROVIDER_H_
 #define UI_ACCELERATED_WIDGET_MAC_CA_LAYER_FRAME_SINK_PROVIDER_H_
 

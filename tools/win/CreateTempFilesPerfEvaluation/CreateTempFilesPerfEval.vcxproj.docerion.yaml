@@ -1,0 +1,4 @@
+# Docerion header of CreateTempFilesPerfEval.vcxproj.
+type: config
+title: Visual Studio project file for CreateTempFilesPerfEval
+summary: MSBuild project file with compiler and linker settings for building the temp file performance benchmark application.

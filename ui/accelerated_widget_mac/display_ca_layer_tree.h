@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplayCALayerTree header
+// summary: Declares DisplayCALayerTree, a CALayerFrameSink that displays compositor output using remote layers or IOSurface layers beneath a root CALayer.
+// ---
+
 #ifndef UI_ACCELERATED_WIDGET_MAC_DISPLAY_CA_LAYER_TREE_H_
 #define UI_ACCELERATED_WIDGET_MAC_DISPLAY_CA_LAYER_TREE_H_
 

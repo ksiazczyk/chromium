@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Draw call and filter logic
+// summary: Defines the Source, DrawCall and Filter classes that match debug sources and render draw calls with filter overrides.
+// ---
+
 // Represents a source for a draw call, or a log, etc.
 //
 class Source {

@@ -6,6 +6,12 @@
 // For more information see ReadMe.txt and this blog post:
 // https://randomascii.wordpress.com/2013/03/09/symbols-the-microsoft-way/
 
+// ---docerion
+// type: source
+// title: RetrieveSymbols symbol downloader source code
+// summary: Console tool that uses DbgHelp's SymFindFileInPath to download PDB files by GUID and age or PE files by date stamp and image size from symbol servers.
+// ---
+
 #include <stdio.h>
 #include <Windows.h>
 #include <DbgHelp.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Standard precompiled header includes
+// summary: Precompiled header that includes commonly used Windows and standard C headers for the IdleWakeups project.
+// ---
+
 #ifndef TOOLS_WIN_IDLEWAKEUPS_STDAFX_H_
 #define TOOLS_WIN_IDLEWAKEUPS_STDAFX_H_
 

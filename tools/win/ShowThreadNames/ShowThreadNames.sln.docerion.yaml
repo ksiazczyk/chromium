@@ -1,0 +1,4 @@
+# Docerion header of ShowThreadNames.sln.
+type: config
+title: Visual Studio solution for ShowThreadNames
+summary: Visual Studio solution file defining Debug and Release configurations for x86 and x64 builds of the ShowThreadNames project.

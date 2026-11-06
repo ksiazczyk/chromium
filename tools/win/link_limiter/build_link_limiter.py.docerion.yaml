@@ -1,0 +1,4 @@
+# Docerion header of build_link_limiter.py.
+type: script
+title: Build script for the Windows link limiter
+summary: Builds limiter.cc into limiter.exe with MSVC and copies it as lib.exe and link.exe shims used to limit concurrent linking.

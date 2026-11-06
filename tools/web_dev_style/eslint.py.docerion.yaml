@@ -1,0 +1,4 @@
+# Docerion header of eslint.py.
+type: script
+title: Runner script for ESLint
+summary: Wrapper that invokes ESLint with the repository's config through the bundled Node.js toolchain, using the repo root as cwd.

@@ -1,0 +1,4 @@
+# Docerion header of ca_renderer_layer_tree.mm.
+type: source
+title: CARendererLayerTree implementation
+summary: Implements construction and reuse of the CALayer hierarchy for the CoreAnimation renderer, covering clipping, transforms, IOSurface contents, and HDR headroom handling.

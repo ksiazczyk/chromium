@@ -1,0 +1,4 @@
+# Docerion header of launch.json.
+type: config
+title: VSCode debug launch configurations
+summary: Defines debug launch configurations for Chrome debug and release builds, unit tests, attaching to a running Chrome and Android devices.

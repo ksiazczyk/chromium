@@ -7,6 +7,12 @@
 // You can find some technical background for some of the code below
 // at http://marijnhaverbeke.nl/blog/#cm-internals .
 
+// ---docerion
+// type: source
+// title: CodeMirror editor library
+// summary: Unmodified CodeMirror 4.8.0 in-browser code editor library used by the sizeviewer report to display source files with per-line size annotations.
+// ---
+
 (function(mod) {
   if (typeof exports == "object" && typeof module == "object") // CommonJS
     module.exports = mod();

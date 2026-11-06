@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for ui JUnit tests
+summary: Defines the ui_junit_tests Robolectric target that aggregates Android JUnit test targets from ui subdirectories.

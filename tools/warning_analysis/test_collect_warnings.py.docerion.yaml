@@ -1,0 +1,4 @@
+# Docerion header of test_collect_warnings.py.
+type: test
+title: Unit tests for the warning collection script
+summary: Runs collect_warnings on sample build logs and compares the output to expected files, covering warning filtering, output formats, and Rust warning parsing.

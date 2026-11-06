@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Regex style check helper
+# summary: Helper that searches a line for a style-violation regex and formats an error message with a caret highlight of the offending part.
+# ---
+
 
 def RegexCheck(re, line_number, line, regex, msg):
   """Searches for |regex| in |line| to check for a particular style

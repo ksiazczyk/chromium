@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Bug tracker metadata for ui
+summary: Maps the ui directory to the UI component in Monorail and Buganizer for issue routing.

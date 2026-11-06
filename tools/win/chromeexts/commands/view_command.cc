@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: View debugger command implementation
+// summary: Implements a debugger command that reads view objects from the debuggee's virtual memory and wraps them to inspect the Views hierarchy during debugging.
+// ---
+
 #include "tools/win/chromeexts/commands/view_command.h"
 
 #include <windows.h>

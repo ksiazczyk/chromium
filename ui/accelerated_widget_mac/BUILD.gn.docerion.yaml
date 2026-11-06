@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for accelerated_widget_mac
+summary: GN build file defining the accelerated_widget_mac component and its unit test target with platform-specific sources, frameworks and dependencies.
