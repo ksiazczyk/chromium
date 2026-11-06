@@ -1,0 +1,4 @@
+# Docerion header of long_scrollable_page.json.
+type: test
+title: Long scrollable page layer tree fixture
+summary: JSON layer tree of a very tall scrollable page with scrollbar layers, used as test input for viz compositor tests.

@@ -1,0 +1,4 @@
+# Docerion header of 0396.json.
+type: test
+title: Twitch 2018 render pass fixture 0396
+summary: Serialized compositor render pass captured from Twitch in 2018, listing quads, shared quad states, texture resources, and damage rects as test data for viz rendering.

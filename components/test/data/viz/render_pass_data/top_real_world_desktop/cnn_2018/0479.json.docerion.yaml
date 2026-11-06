@@ -1,0 +1,4 @@
+# Docerion header of 0479.json.
+type: data
+title: Render pass data fixture 0479 for viz visualization tests
+summary: Serialized render pass data with quad lists, shared quad states, and damage rects used as a real-world desktop test fixture for the viz compositor.

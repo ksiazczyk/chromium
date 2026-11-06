@@ -1,0 +1,4 @@
+# Docerion header of layer_sort_cubes.json.
+type: test
+title: 3D cube layer sorting test fixture
+summary: JSON layer tree of 3D-transformed picture layers marked Is3DSorted, used to test layer sorting in the viz compositor.

@@ -1,0 +1,4 @@
+# Docerion header of 0074.json.
+type: test
+title: Yahoo Answers 2018 render pass fixture 0074
+summary: JSON test fixture recording a render pass with 45 quads, quad states, and color space details from a Yahoo Answers 2018 page, used for viz rendering tests.

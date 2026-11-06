@@ -1,0 +1,4 @@
+# Docerion header of 0044.json.
+type: test
+title: eBay 2018 render pass fixture 0044
+summary: JSON fixture describing render passes, quad lists, and shared quad states captured from the eBay 2018 desktop page for viz compositor testing.

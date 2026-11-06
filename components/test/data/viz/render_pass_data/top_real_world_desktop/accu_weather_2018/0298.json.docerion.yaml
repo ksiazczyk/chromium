@@ -1,0 +1,4 @@
+# Docerion header of 0298.json.
+type: test
+title: Accu Weather 2018 render pass test data 0298
+summary: Serialized viz render pass fixture from the Accu Weather 2018 desktop page, listing quads, shared quad states, color space and damage rects for rendering tests.

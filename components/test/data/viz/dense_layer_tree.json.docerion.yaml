@@ -1,0 +1,4 @@
+# Docerion header of dense_layer_tree.json.
+type: test
+title: Dense layer tree test fixture
+summary: JSON layer tree with many nested picture and texture layers, used as test input for viz compositor rendering tests.

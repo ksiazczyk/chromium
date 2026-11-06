@@ -1,0 +1,4 @@
+# Docerion header of touch_region_heavy.json.
+type: test
+title: Heavy touch region layer tree fixture
+summary: JSON layer tree with many layers and large touch regions, used to test touch region handling in the viz compositor.
