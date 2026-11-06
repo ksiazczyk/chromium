@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioTrackOutputStream class declaration
+// summary: Declares a muteable audio output stream based on the Android AudioTrack API, with callbacks invoked from Java.
+// ---
+
 #ifndef MEDIA_AUDIO_ANDROID_AUDIO_TRACK_OUTPUT_STREAM_H_
 #define MEDIA_AUDIO_ANDROID_AUDIO_TRACK_OUTPUT_STREAM_H_
 

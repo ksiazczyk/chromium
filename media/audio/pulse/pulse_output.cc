@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PulseAudio output stream implementation
+// summary: Implements PulseAudioOutputStream, which plays audio to PulseAudio sinks with volume control and peak detection.
+// ---
+
 #include "media/audio/pulse/pulse_output.h"
 
 #include <pulse/pulseaudio.h>

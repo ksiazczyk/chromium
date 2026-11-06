@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedAudioUnit class declaration and AUElement enum
+// summary: Declares the ScopedAudioUnit helper ensuring AudioUnits are properly disposed, plus the AUElement enum mapping output and input bus numbers.
+// ---
+
 #ifndef MEDIA_AUDIO_APPLE_SCOPED_AUDIO_UNIT_H_
 #define MEDIA_AUDIO_APPLE_SCOPED_AUDIO_UNIT_H_
 

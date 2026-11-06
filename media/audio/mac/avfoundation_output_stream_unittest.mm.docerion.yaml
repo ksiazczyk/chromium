@@ -1,0 +1,4 @@
+# Docerion header of avfoundation_output_stream_unittest.mm.
+type: test
+title: AVFoundationOutputStream unit tests
+summary: Tests for the AVFoundation output stream, covering queued output stream selection and the macOS playback feature flag.

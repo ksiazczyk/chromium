@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Audio session creation observer unit tests
+// summary: Verifies the session creation observer invokes its callback when OnSessionCreated is called.
+// ---
+
 #include "media/audio/win/audio_session_creation_observer_win.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AAudio input stream implementation
+// summary: Implements audio capture through AAudio, including timestamp discontinuity reporting, variable-sized callback FIFO handling, and device change recovery.
+// ---
+
 #include "media/audio/android/aaudio_input.h"
 
 #include "base/android/device_info.h"

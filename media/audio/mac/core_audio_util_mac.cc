@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CoreAudio utility functions
+// summary: Implements macOS CoreAudio helpers for reading device properties, logging, and aggregate device handling.
+// ---
+
 #include "media/audio/mac/core_audio_util_mac.h"
 
 #include <IOKit/audio/IOAudioTypes.h>

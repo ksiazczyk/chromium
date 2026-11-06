@@ -1,0 +1,4 @@
+# Docerion header of pulse_stub_header.fragment.
+type: source
+title: PulseAudio stub header fragment
+summary: C fragment included in generated PulseAudio stub files to define Pulse types, with const-pointer typedefs selected by PulseAudio major version.

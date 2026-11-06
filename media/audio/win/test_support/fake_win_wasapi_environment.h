@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeWinWASAPIEnvironment header
+// summary: Declares a helper class that mocks the Windows WASAPI environment, providing fake API implementations and injectable test error codes.
+// ---
+
 #ifndef MEDIA_AUDIO_WIN_TEST_SUPPORT_FAKE_WIN_WASAPI_ENVIRONMENT_H_
 #define MEDIA_AUDIO_WIN_TEST_SUPPORT_FAKE_WIN_WASAPI_ENVIRONMENT_H_
 

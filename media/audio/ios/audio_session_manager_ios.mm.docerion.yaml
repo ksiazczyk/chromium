@@ -1,0 +1,4 @@
+# Docerion header of audio_session_manager_ios.mm.
+type: source
+title: AudioSessionManagerIOS implementation
+summary: Objective-C++ implementation that configures the AVAudioSession category, input port, and output routing, and supplies hardware and device information to the audio manager.

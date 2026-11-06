@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AudioDevice unit tests
+// summary: Parameterized tests for AudioDevice covering creation, default detection, copy construction and copy assignment of devices with varied parameters.
+// ---
+
 #include "media/audio/android/audio_device.h"
 
 #include <memory>

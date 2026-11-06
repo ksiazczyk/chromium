@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CRAS audio input stream unit tests
+// summary: Unit tests for CrasInputStream using a mocked audio manager to exercise stream creation and capture behavior.
+// ---
+
 #include <stdint.h>
 
 #include <memory>

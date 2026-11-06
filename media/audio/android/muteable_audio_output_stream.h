@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MuteableAudioOutputStream interface
+// summary: Declares an AudioOutputStream extension that adds hardware mute control, needed because Android communication mode voice volume never reaches zero.
+// ---
+
 #ifndef MEDIA_AUDIO_ANDROID_MUTEABLE_AUDIO_OUTPUT_STREAM_H_
 #define MEDIA_AUDIO_ANDROID_MUTEABLE_AUDIO_OUTPUT_STREAM_H_
 

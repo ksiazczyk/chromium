@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AudioDeviceListenerMac unit tests
+// summary: Tests the device change listener by simulating CoreAudio property events with mocked device queries.
+// ---
+
 #include "media/audio/mac/audio_device_listener_mac.h"
 
 #include <CoreAudio/AudioHardware.h>

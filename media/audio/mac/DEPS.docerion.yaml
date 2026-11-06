@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for macOS audio directory
+summary: Grants the media/audio/mac directory access to third_party/ocmock for use in its Objective-C tests.

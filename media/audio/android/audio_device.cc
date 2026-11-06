@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioDevice implementation
+// summary: Implements the AudioDevice class for Android, including default device handling, copy and move semantics and association with a Bluetooth SCO device.
+// ---
+
 #include "media/audio/android/audio_device.h"
 
 #include <memory>

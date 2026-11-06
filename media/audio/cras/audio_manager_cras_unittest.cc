@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CRAS audio manager unit tests
+// summary: Unit tests for AudioManagerCras using a mocked CrasUtil to verify device enumeration and stream parameters.
+// ---
+
 #include "media/audio/cras/audio_manager_cras.h"
 
 #include "base/command_line.h"

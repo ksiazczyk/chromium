@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PulseAudio loopback manager class declaration
+// summary: Declares PulseLoopbackManager, which manages PulseLoopbackAudioStreams for reliable system audio loopback capture.
+// ---
+
 #ifndef MEDIA_AUDIO_PULSE_PULSE_LOOPBACK_MANAGER_H_
 #define MEDIA_AUDIO_PULSE_PULSE_LOOPBACK_MANAGER_H_
 

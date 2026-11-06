@@ -1,0 +1,4 @@
+# Docerion header of audio_loopback_input_mac_impl.mm.
+type: source
+title: SCKAudioInputStream implementation
+summary: Implements ScreenCaptureKit-based loopback capture, including the SharedHelper that safely delivers samples and errors.

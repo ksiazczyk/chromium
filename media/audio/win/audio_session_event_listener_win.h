@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio session event listener declaration
+// summary: Declares a COM listener for audio session events that signals device change on session disconnection.
+// ---
+
 #ifndef MEDIA_AUDIO_WIN_AUDIO_SESSION_EVENT_LISTENER_WIN_H_
 #define MEDIA_AUDIO_WIN_AUDIO_SESSION_EVENT_LISTENER_WIN_H_
 

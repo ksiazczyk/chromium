@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SCKAudioInputStream class declaration
+// summary: Declares an AudioInputStream that captures system audio loopback via the ScreenCaptureKit API on macOS.
+// ---
+
 #ifndef MEDIA_AUDIO_MAC_AUDIO_LOOPBACK_INPUT_MAC_IMPL_H_
 #define MEDIA_AUDIO_MAC_AUDIO_LOOPBACK_INPUT_MAC_IMPL_H_
 

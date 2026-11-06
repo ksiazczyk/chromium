@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake IAudioCaptureClient implementation
+// summary: Implements the fake capture client, handing out simulated audio buffers and packet sizes so WASAPIAudioInputStream can be tested without hardware.
+// ---
+
 #include "media/audio/win/test_support/fake_iaudio_capture_client.h"
 
 #include <wrl.h>

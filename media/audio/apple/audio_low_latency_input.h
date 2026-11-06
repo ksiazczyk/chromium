@@ -32,6 +32,13 @@
 //   2) The delay between the actual recording instant and the time when the
 //      data packet is provided as a callback.
 //
+
+// ---docerion
+// type: source
+// title: Low-latency audio input header
+// summary: Declares AUAudioInputStream, the Apple AudioInputStream using the AUHAL input Audio Unit for low-latency capture, including volume, mute, and AEC device controls.
+// ---
+
 #ifndef MEDIA_AUDIO_APPLE_AUDIO_LOW_LATENCY_INPUT_H_
 #define MEDIA_AUDIO_APPLE_AUDIO_LOW_LATENCY_INPUT_H_
 

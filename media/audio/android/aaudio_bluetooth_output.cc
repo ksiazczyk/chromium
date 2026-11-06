@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AAudio Bluetooth output stream implementation
+// summary: Implements AAudioBluetoothOutputStream, which wraps separate A2DP and SCO AAudio output streams and switches between them for playback to Bluetooth Classic devices.
+// ---
+
 #include "media/audio/android/aaudio_bluetooth_output.h"
 
 #include <aaudio/AAudio.h>

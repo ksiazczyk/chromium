@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Windows Core Audio utilities
+// summary: Tests CoreAudioUtil behavior including wave format wrapping, device counts, and audio client creation on an initialized COM thread.
+// ---
+
 #include "media/audio/win/core_audio_util_win.h"
 
 #include <stddef.h>

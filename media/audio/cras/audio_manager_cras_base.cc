@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CRAS audio manager base implementation
+// summary: Implements AudioManagerCrasBase, creating CRAS input and output streams and managing system AEC dump registration.
+// ---
+
 #include "media/audio/cras/audio_manager_cras_base.h"
 
 #include <stddef.h>

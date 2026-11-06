@@ -14,6 +14,13 @@
 // TODO(henrika): refactor and merge into existing thread implementation
 // for Windows to ensure that MMCSS can be enabled for all threads.
 //
+
+// ---docerion
+// type: source
+// title: AVRT wrapper header for MMCSS support
+// summary: Declares the avrt namespace that loads Avrt.dll and exposes wrappers for MMCSS thread characteristics and priority functions.
+// ---
+
 #ifndef MEDIA_AUDIO_WIN_AVRT_WRAPPER_WIN_H_
 #define MEDIA_AUDIO_WIN_AVRT_WRAPPER_WIN_H_
 

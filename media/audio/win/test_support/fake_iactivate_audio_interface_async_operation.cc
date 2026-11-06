@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake IActivateAudioInterfaceAsyncOperation implementation
+// summary: Implements the fake audio interface activation operation, returning a fake IAudioClient or simulated activation errors for WASAPI tests.
+// ---
+
 #include "media/audio/win/test_support/fake_iactivate_audio_interface_async_operation.h"
 
 #include <mmdeviceapi.h>

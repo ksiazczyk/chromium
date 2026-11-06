@@ -1,0 +1,4 @@
+# Docerion header of avfoundation_output_stream.mm.
+type: source
+title: AVFoundationOutputStream implementation
+summary: Implements macOS audio playback via AVFoundation sample buffer rendering, including CMSampleBuffer creation and the data feed loop.

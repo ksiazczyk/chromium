@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Apple audio manager interface
+// summary: Declares AudioManagerApple, the base audio manager for Apple platforms with virtual hooks for noise reduction, input volume, sample rate, and buffer size.
+// ---
+
 #ifndef MEDIA_AUDIO_APPLE_AUDIO_MANAGER_APPLE_H_
 #define MEDIA_AUDIO_APPLE_AUDIO_MANAGER_APPLE_H_
 

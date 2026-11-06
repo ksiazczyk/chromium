@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Core Audio utility for macOS device queries
+// summary: Declares CoreAudioUtilMac, a helper for enumerating macOS Core Audio devices and querying their IDs, labels, sources, transport types, defaults, and hardware latency.
+// ---
+
 #ifndef MEDIA_AUDIO_MAC_CORE_AUDIO_UTIL_MAC_H_
 #define MEDIA_AUDIO_MAC_CORE_AUDIO_UTIL_MAC_H_
 

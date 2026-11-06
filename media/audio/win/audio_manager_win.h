@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows audio manager class declaration
+// summary: Declares AudioManagerWin, the Windows AudioManager singleton for device queries and stream creation.
+// ---
+
 #ifndef MEDIA_AUDIO_WIN_AUDIO_MANAGER_WIN_H_
 #define MEDIA_AUDIO_WIN_AUDIO_MANAGER_WIN_H_
 

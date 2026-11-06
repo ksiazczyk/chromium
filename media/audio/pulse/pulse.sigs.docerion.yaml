@@ -1,0 +1,4 @@
+# Docerion header of pulse.sigs.
+type: data
+title: PulseAudio function signatures
+summary: Lists PulseAudio function signatures used by Chromium's media code, typically to generate dynamic-loading stubs.

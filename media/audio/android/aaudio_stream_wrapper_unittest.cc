@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AAudio stream wrapper unit tests
+// summary: Unit tests verifying that the deferred teardown helper outlives stream close on older Android APIs and that destroying the wrapper with pending tasks does not crash.
+// ---
+
 #include "media/audio/android/aaudio_stream_wrapper.h"
 
 #include <aaudio/AAudio.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioDuckerWin class header
+// summary: Declares the class responsible for ducking Windows applications, tracking ducked sessions and their original volumes for later restoration.
+// ---
+
 #ifndef MEDIA_AUDIO_WIN_AUDIO_DUCKER_WIN_H_
 #define MEDIA_AUDIO_WIN_AUDIO_DUCKER_WIN_H_
 

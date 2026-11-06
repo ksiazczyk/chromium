@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake IAudioCaptureClient header
+// summary: Declares a mock of the IAudioCaptureClient COM interface that serves simulated capture buffers for WASAPI input stream tests.
+// ---
+
 #ifndef MEDIA_AUDIO_WIN_TEST_SUPPORT_FAKE_IAUDIO_CAPTURE_CLIENT_H_
 #define MEDIA_AUDIO_WIN_TEST_SUPPORT_FAKE_IAUDIO_CAPTURE_CLIENT_H_
 

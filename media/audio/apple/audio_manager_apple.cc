@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Apple audio manager implementation
+// summary: Implements AudioManagerApple, including retrieval of an output device's channel layout from an AudioUnit via CoreAudio format properties.
+// ---
+
 #include "media/audio/apple/audio_manager_apple.h"
 
 #include <memory>

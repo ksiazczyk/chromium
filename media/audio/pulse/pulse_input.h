@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PulseAudio input stream class declaration
+// summary: Declares PulseAudioInputStream, an AudioInputStream implementation that reads audio from a PulseAudio source.
+// ---
+
 #ifndef MEDIA_AUDIO_PULSE_PULSE_INPUT_H_
 #define MEDIA_AUDIO_PULSE_PULSE_INPUT_H_
 

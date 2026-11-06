@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: waveOut PCM audio output stream header
+// summary: Declares PCMWaveOutAudioOutputStream, an AudioOutputStream implementation based on the Windows waveOut multimedia API.
+// ---
+
 #ifndef MEDIA_AUDIO_WIN_WAVEOUT_OUTPUT_WIN_H_
 #define MEDIA_AUDIO_WIN_WAVEOUT_OUTPUT_WIN_H_
 

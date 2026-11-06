@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PulseAudio audio manager implementation
+// summary: Implements AudioManagerPulse, which enumerates PulseAudio devices and creates input and output audio streams.
+// ---
+
 #include "media/audio/pulse/audio_manager_pulse.h"
 
 #include <algorithm>

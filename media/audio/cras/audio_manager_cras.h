@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CRAS audio manager class declaration
+// summary: Declares AudioManagerCras, the ChromeOS CRAS audio manager providing device enumeration and stream parameter handling.
+// ---
+
 #ifndef MEDIA_AUDIO_CRAS_AUDIO_MANAGER_CRAS_H_
 #define MEDIA_AUDIO_CRAS_AUDIO_MANAGER_CRAS_H_
 

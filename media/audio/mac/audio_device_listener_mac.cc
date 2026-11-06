@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioDeviceListenerMac implementation
+// summary: Implements CoreAudio property listeners that fire callbacks on default device, sample rate, and source changes on macOS.
+// ---
+
 #include "media/audio/mac/audio_device_listener_mac.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioDevice class header
+// summary: Declares the AudioDevice class that models an Android audio device with ID, type, name, sample rates and an optional associated Bluetooth SCO device.
+// ---
+
 #ifndef MEDIA_AUDIO_ANDROID_AUDIO_DEVICE_H_
 #define MEDIA_AUDIO_ANDROID_AUDIO_DEVICE_H_
 

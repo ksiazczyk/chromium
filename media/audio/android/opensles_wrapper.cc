@@ -10,6 +10,12 @@
 // loaded. For this, it need to be able to change their content and so import
 // the headers without const.  This is correct because OpenSLES.h is a C API.
 
+// ---docerion
+// type: source
+// title: OpenSL ES dynamic library loader
+// summary: Defines OpenSL ES symbol proxies and lazily loads libOpenSLES.so on first use, initializing interface IDs from the library.
+// ---
+
 // We include stdint.h here as a workaround for an issue caused by the
 // #define const below. The inclusion of OpenSLES headers on newer Android NDK
 // versions causes stdint.h to be included, which in turn includes __config.

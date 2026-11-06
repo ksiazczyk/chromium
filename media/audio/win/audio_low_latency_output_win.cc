@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WASAPI low-latency audio output for Windows
+// summary: Implements AudioOutputStream using Windows Core Audio WASAPI for low-latency rendering, with glitch detection and failure metric reporting.
+// ---
+
 #include "media/audio/win/audio_low_latency_output_win.h"
 
 #include <objbase.h>

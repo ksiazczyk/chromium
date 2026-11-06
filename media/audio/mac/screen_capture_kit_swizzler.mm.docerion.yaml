@@ -1,0 +1,4 @@
+# Docerion header of screen_capture_kit_swizzler.mm.
+type: source
+title: ScreenCaptureKit swizzler implementation
+summary: Implements swizzling of the private ScreenCaptureKit permission check so helper processes can skip the TCC daemon on macOS versions before 15.

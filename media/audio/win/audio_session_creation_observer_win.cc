@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio session creation observer implementation
+// summary: Implements IAudioSessionNotification to run a callback when the system creates a new audio session.
+// ---
+
 #include "media/audio/win/audio_session_creation_observer_win.h"
 
 #include <unknwn.h>

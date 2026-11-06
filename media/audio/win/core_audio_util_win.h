@@ -8,6 +8,12 @@
 // Also, all methods must be called on a valid COM thread. This can be done
 // by using the base::win::ScopedCOMInitializer helper class.
 
+// ---docerion
+// type: source
+// title: Core Audio utility class for Windows
+// summary: Declares the CoreAudioUtil class with helpers for MMDevice enumeration, wave formats, and audio clients, to be used on COM threads.
+// ---
+
 #ifndef MEDIA_AUDIO_WIN_CORE_AUDIO_UTIL_WIN_H_
 #define MEDIA_AUDIO_WIN_CORE_AUDIO_UTIL_WIN_H_
 

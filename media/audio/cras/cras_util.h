@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CRAS utility declarations for devices and audio effects
+// summary: Declares the CrasDevice struct and CrasUtil class for enumerating CRAS audio devices and querying AEC, AGC, NS and voice isolation support.
+// ---
+
 #ifndef MEDIA_AUDIO_CRAS_CRAS_UTIL_H_
 #define MEDIA_AUDIO_CRAS_CRAS_UTIL_H_
 

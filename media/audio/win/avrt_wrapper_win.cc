@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AVRT wrapper implementation for MMCSS on Windows
+// summary: Dynamically loads avrt.dll and wraps the MMCSS functions for prioritizing multimedia thread CPU access on Windows Vista and later.
+// ---
+
 #include "media/audio/win/avrt_wrapper_win.h"
 
 #include <iterator>

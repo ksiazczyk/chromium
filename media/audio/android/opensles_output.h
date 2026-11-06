@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenSLESOutputStream class declaration
+// summary: Declares a muteable audio output stream that plays PCM audio on Android through the OpenSLES API with buffer queue callbacks.
+// ---
+
 #ifndef MEDIA_AUDIO_ANDROID_OPENSLES_OUTPUT_H_
 #define MEDIA_AUDIO_ANDROID_OPENSLES_OUTPUT_H_
 

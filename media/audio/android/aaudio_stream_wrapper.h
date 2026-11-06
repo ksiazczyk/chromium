@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AAudio stream wrapper class declaration
+// summary: Declares AAudioStreamWrapper, a small wrapper around AAudioStream managing its lifetime, and the DataCallback interface invoked on AAudio's realtime thread.
+// ---
+
 #ifndef MEDIA_AUDIO_ANDROID_AAUDIO_STREAM_WRAPPER_H_
 #define MEDIA_AUDIO_ANDROID_AAUDIO_STREAM_WRAPPER_H_
 

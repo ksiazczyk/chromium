@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Low-latency audio input implementation
+// summary: Implements AUAudioInputStream, the Mac low-latency capture stream using the AUHAL input Audio Unit, with ducking, FIFO buffering, and startup success metrics.
+// ---
+
 #include "media/audio/apple/audio_low_latency_input.h"
 
 #include <CoreServices/CoreServices.h>

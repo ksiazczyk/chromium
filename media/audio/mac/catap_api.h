@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: CatapApi interface
+// summary: Abstract wrapper around CoreAudio system calls used by CatapAudioInputStream so the calls can be mocked in unit tests.
+// ---
+
 #ifndef MEDIA_AUDIO_MAC_CATAP_API_H_
 #define MEDIA_AUDIO_MAC_CATAP_API_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Audio session event listener unit tests
+// summary: Tests that the session event listener fires the device change callback on session disconnection.
+// ---
+
 #include "media/audio/win/audio_session_event_listener_win.h"
 
 #include <memory>

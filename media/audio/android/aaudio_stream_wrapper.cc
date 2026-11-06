@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AAudio stream wrapper implementation
+// summary: Implements AAudioStreamWrapper lifetime management together with helpers for glitch reporting, callback statistics, and deferred stream teardown on older Android APIs.
+// ---
+
 #include "media/audio/android/aaudio_stream_wrapper.h"
 
 #include <aaudio/AAudio.h>

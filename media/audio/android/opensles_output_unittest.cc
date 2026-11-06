@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OpenSLESOutputStream unit tests
+// summary: Tests OpenSLESOutputStream delay calculation and buffer queue behavior using fake OpenSLES play and buffer queue interfaces.
+// ---
+
 #include "media/audio/android/opensles_output.h"
 
 #include <SLES/OpenSLES.h>

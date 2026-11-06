@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Core Audio utility implementation for Windows
+// summary: Implements CoreAudioUtil helpers for Windows Core Audio, covering device enumeration, audio clients, formats, and share modes.
+// ---
+
 #include "media/audio/win/core_audio_util_win.h"
 
 #include <objbase.h>

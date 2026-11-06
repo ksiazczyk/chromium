@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unit tests for WASAPI audio input
+// summary: Unit tests for the WASAPI low-latency input stream, covering capture callbacks, activation timeouts, and application loopback capture.
+// ---
+
 #include "media/audio/win/audio_low_latency_input_win.h"
 
 #include <windows.h>

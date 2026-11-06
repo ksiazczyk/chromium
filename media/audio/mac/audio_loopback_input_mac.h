@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Loopback audio input factories for macOS
+// summary: Declares factory functions for ScreenCaptureKit and CATAP loopback input streams plus shared sample rate and buffer constants.
+// ---
+
 #ifndef MEDIA_AUDIO_MAC_AUDIO_LOOPBACK_INPUT_MAC_H_
 #define MEDIA_AUDIO_MAC_AUDIO_LOOPBACK_INPUT_MAC_H_
 

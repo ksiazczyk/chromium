@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux audio manager factory for Chromium media
+// summary: Creates the platform audio manager on Linux, selecting CRAS, PulseAudio, ALSA, or a fake manager depending on build flags and command-line switches.
+// ---
+
 #include <memory>
 
 #include "base/command_line.h"

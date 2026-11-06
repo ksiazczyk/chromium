@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioTrackOutputStream implementation
+// summary: Implements an Android output stream backed by the AudioTrack API, supporting PCM and bitstream encodings such as AC3, DTS, and IEC61937 via JNI.
+// ---
+
 #include "media/audio/android/audio_track_output_stream.h"
 
 #include <cmath>

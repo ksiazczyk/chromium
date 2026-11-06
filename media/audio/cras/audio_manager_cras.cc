@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CRAS audio manager implementation
+// summary: Implements AudioManagerCras, enumerating CRAS input and output devices and building stream parameters for ChromeOS.
+// ---
+
 #include "media/audio/cras/audio_manager_cras.h"
 
 #include <stddef.h>

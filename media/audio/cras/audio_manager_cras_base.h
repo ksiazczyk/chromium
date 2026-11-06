@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CRAS audio manager base class declaration
+// summary: Declares AudioManagerCrasBase, the shared base class for CRAS audio managers with stream factory and AEC dump methods.
+// ---
+
 #ifndef MEDIA_AUDIO_CRAS_AUDIO_MANAGER_CRAS_BASE_H_
 #define MEDIA_AUDIO_CRAS_AUDIO_MANAGER_CRAS_BASE_H_
 

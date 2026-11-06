@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Windows audio device enumeration
+// summary: Tests GetDeviceSuffixWin with real USB and Bluetooth IDs and smoke-tests full device enumeration against the host's audio hardware.
+// ---
+
 #include "media/audio/win/device_enumeration_win.h"
 
 #include "base/test/task_environment.h"

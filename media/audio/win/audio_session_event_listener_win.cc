@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio session event listener implementation
+// summary: Implements IAudioSessionEvents and runs a device change callback when an audio session disconnects.
+// ---
+
 #include "media/audio/win/audio_session_event_listener_win.h"
 
 #include "base/logging.h"
