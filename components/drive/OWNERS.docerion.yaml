@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners file for the drive component
+summary: Delegates code ownership for the drive directory to the sync file system owners list.

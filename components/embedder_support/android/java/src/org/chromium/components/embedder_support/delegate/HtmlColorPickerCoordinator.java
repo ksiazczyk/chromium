@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Color picker dialog coordinator
+// summary: Creates the color picker dialog, builds default and web-provided color suggestions, and handles simple and advanced view switching.
+// ---
+
 package org.chromium.components.embedder_support.delegate;
 
 import static org.chromium.components.embedder_support.delegate.HtmlColorPickerProperties.CHOSEN_COLOR;

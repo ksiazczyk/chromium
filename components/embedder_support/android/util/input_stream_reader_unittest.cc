@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InputStreamReader unit tests
+// summary: Unit tests for InputStreamReader using a mocked InputStream to verify byte-range seeking, skipping in steps, error propagation, and raw data reading behavior.
+// ---
+
 #include "components/embedder_support/android/util/input_stream_reader.h"
 
 #include "base/android/scoped_java_ref.h"

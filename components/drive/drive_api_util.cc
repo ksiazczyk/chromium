@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drive API utility implementation
+// summary: Implements Drive API helpers such as search query translation, resource ID canonicalization, MD5 digest computation, and hosted document checks.
+// ---
+
 #include "components/drive/drive_api_util.h"
 
 #include <array>

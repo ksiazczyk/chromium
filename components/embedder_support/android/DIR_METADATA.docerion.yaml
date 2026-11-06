@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for issue tracking
+summary: DIR_METADATA file mapping this directory to the Internals>Core component on Android and to a Buganizer component for issue tracking.

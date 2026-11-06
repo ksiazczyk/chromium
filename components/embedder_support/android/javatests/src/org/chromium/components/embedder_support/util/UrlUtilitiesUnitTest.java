@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UrlUtilities unit tests
+// summary: JUnit unit tests for the Android UrlUtilities helper, covering HTTP/HTTPS scheme detection, path stripping, and scheme stripping behavior.
+// ---
+
 package org.chromium.components.embedder_support.util;
 
 import static org.junit.Assert.assertEquals;

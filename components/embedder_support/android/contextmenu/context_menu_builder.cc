@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Context menu builder implementation
+// summary: Implements JNI helpers that build a Java ContextMenuParams object from native context menu parameters and retrieve the native pointer back from a Java object.
+// ---
+
 #include "components/embedder_support/android/contextmenu/context_menu_builder.h"
 
 #include "base/android/jni_android.h"

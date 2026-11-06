@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Origin trial policy class declaration
+// summary: Declares OriginTrialPolicyImpl, which implements the blink origin trial policy interface for public keys, disabled features and tokens, and secure origin checks.
+// ---
+
 #ifndef COMPONENTS_EMBEDDER_SUPPORT_ORIGIN_TRIALS_ORIGIN_TRIAL_POLICY_IMPL_H_
 #define COMPONENTS_EMBEDDER_SUPPORT_ORIGIN_TRIALS_ORIGIN_TRIAL_POLICY_IMPL_H_
 

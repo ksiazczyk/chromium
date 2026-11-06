@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Context menu UI interface
+// summary: Interface for displaying and dismissing the context menu from a list of items, with callbacks for item clicks and menu lifecycle events.
+// ---
+
 package org.chromium.components.embedder_support.contextmenu;
 
 import org.chromium.base.Callback;

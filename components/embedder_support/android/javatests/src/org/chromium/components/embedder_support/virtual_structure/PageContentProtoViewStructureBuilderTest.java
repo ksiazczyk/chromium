@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PageContentProtoViewStructureBuilderTest
+// summary: Android instrumentation tests verifying that PageContentProtoViewStructureBuilder embeds annotated page content protos into view structures, populates text, and skips incognito tabs.
+// ---
+
 package org.chromium.components.embedder_support.virtual_structure;
 
 import static org.junit.Assert.assertEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drive component export macros
+// summary: Defines COMPONENTS_DRIVE_EXPORT macros for symbol visibility when building the drive component as a shared library.
+// ---
+
 #ifndef COMPONENTS_DRIVE_DRIVE_EXPORT_H_
 #define COMPONENTS_DRIVE_DRIVE_EXPORT_H_
 

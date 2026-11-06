@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Embedder support feature flag Java accessor
+// summary: Java accessor for feature flags registered in native embedder_support code, exposing feature values through JNI.
+// ---
+
 package org.chromium.components.embedder_support.util;
 
 import org.jni_zero.JNINamespace;

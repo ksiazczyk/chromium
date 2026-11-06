@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InputStream unit tests
+// summary: Unit tests for the Java-backed InputStream wrapper, checking JNI conversion, reading empty, partial, and large streams, and verifying buffer contents.
+// ---
+
 #include "components/embedder_support/android/util/input_stream.h"
 
 #include <memory>

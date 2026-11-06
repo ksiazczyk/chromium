@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Java InputStream wrapper declaration
+// summary: Declares the InputStream class, a wrapper for Java InputStream objects that reads bytes into net buffers and is safe to pass between threads.
+// ---
+
 #ifndef COMPONENTS_EMBEDDER_SUPPORT_ANDROID_UTIL_INPUT_STREAM_H_
 #define COMPONENTS_EMBEDDER_SUPPORT_ANDROID_UTIL_INPUT_STREAM_H_
 

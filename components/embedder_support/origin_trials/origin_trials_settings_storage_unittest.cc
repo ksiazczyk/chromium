@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for origin trials settings storage
+// summary: Tests settings creation, population, cloning semantics and enforcement of the maximum disabled token limit.
+// ---
+
 #include "components/embedder_support/origin_trials/origin_trials_settings_storage.h"
 
 #include <cstdint>

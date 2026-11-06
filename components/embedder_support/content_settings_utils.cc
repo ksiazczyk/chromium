@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content settings checks for service and shared worker access
+// summary: Implements helpers that consult cookie and content settings to allow or deny service workers, shared workers, and worker storage access.
+// ---
+
 #include "components/embedder_support/content_settings_utils.h"
 
 #include "components/content_settings/browser/page_specific_content_settings.h"

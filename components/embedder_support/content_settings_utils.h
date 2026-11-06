@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declarations for worker content settings helpers
+// summary: Declares embedder_support functions mirroring ContentBrowserClient callbacks for allowing service workers, shared workers, and worker storage access.
+// ---
+
 #ifndef COMPONENTS_EMBEDDER_SUPPORT_CONTENT_SETTINGS_UTILS_H_
 #define COMPONENTS_EMBEDDER_SUPPORT_CONTENT_SETTINGS_UTILS_H_
 

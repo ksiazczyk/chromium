@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebResourceResponse unit tests
+// summary: Unit tests for WebResourceResponse verifying JNI conversion, reading all response fields, header handling including null header maps, and input stream transfer.
+// ---
+
 #include "components/embedder_support/android/util/web_resource_response.h"
 
 #include <map>

@@ -1,3 +1,9 @@
+---
+type: readme
+title: Android embedder support libraries overview
+summary: Explains that this directory collects Android libraries giving embedders typical implementations of content and component interfaces plus shared utilities.
+---
+
 Collection of Android libraries that provides embedders with
 typical implementations of content and component layer interfaces as well as
 utilities that are used across multiple embedders and have nowhere more

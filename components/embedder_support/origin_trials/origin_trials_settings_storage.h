@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Origin trials settings storage declaration
+// summary: Declares OriginTrialsSettingsStorage, the browser-side holder of origin trial settings populated from CLI flags or preferences.
+// ---
+
 #ifndef COMPONENTS_EMBEDDER_SUPPORT_ORIGIN_TRIALS_ORIGIN_TRIALS_SETTINGS_STORAGE_H_
 #define COMPONENTS_EMBEDDER_SUPPORT_ORIGIN_TRIALS_ORIGIN_TRIALS_SETTINGS_STORAGE_H_
 

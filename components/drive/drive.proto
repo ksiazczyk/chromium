@@ -5,6 +5,12 @@
 // Protocol buffer definitions for representing Drive files and directories,
 // and serializing them for the resource metadata database.
 
+// ---docerion
+// type: source
+// title: Drive resource metadata protocol buffer definitions
+// summary: Defines protocol buffer messages for representing Drive files and directories and serializing them for the resource metadata database.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

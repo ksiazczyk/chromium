@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PartitionResolver interface for partition token serialization
+// summary: Interface abstracting embedder-specific logic for tokenizing browser contexts into partition tokens and resolving those tokens back to browser contexts or simple factory keys asynchronously.
+// ---
+
 package org.chromium.components.embedder_support.browser_context;
 
 import org.chromium.base.Callback;

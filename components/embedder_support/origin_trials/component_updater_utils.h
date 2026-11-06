@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for origin trials component updater utilities
+// summary: Declares functions that read origin trial configuration from a component updater manifest into local state and set up command line switches and settings storage at startup.
+// ---
+
 #ifndef COMPONENTS_EMBEDDER_SUPPORT_ORIGIN_TRIALS_COMPONENT_UPDATER_UTILS_H_
 #define COMPONENTS_EMBEDDER_SUPPORT_ORIGIN_TRIALS_COMPONENT_UPDATER_UTILS_H_
 

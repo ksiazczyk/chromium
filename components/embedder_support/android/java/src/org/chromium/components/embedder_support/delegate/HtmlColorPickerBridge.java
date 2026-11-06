@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Color picker Java-native bridge
+// summary: JNI bridge that opens and closes the color picker dialog and forwards the chosen color from Java to native code.
+// ---
+
 package org.chromium.components.embedder_support.delegate;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

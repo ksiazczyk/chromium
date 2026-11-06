@@ -1,0 +1,4 @@
+# Docerion header of color_chooser_ios.mm.
+type: source
+title: C++ color chooser for iOS implementation
+summary: Implements ColorChooserIOS, creating the coordinator with the initial color and forwarding End, SetSelectedColor, and OnColorChosen to the WebContents.

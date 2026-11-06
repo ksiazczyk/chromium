@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebResourceResponse implementation
+// summary: Implements WebResourceResponse, which reads MIME type, charset, status, headers, and input stream data from a Java WebResourceResponseInfo, including multi-cookie header handling.
+// ---
+
 #include "components/embedder_support/android/util/web_resource_response.h"
 
 #include <memory>

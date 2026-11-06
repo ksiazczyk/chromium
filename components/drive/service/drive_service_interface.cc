@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drive service option struct definitions
+// summary: Defines constructors and destructors for the AddNewDirectoryOptions, UploadNewFileOptions and UploadExistingFileOptions structs used by the Drive service interface.
+// ---
+
 #include "components/drive/service/drive_service_interface.h"
 
 namespace drive {

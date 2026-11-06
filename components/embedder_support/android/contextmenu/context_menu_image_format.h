@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Context menu image format enum
+// summary: Defines a generated Java enum of context menu image formats with values for JPEG, PNG, and original format.
+// ---
+
 #ifndef COMPONENTS_EMBEDDER_SUPPORT_ANDROID_CONTEXTMENU_CONTEXT_MENU_IMAGE_FORMAT_H_
 #define COMPONENTS_EMBEDDER_SUPPORT_ANDROID_CONTEXTMENU_CONTEXT_MENU_IMAGE_FORMAT_H_
 

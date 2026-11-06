@@ -1,0 +1,4 @@
+# Docerion header of color_chooser_mediator_ios.mm.
+type: source
+title: iOS color chooser mediator implementation
+summary: Implements ColorChooserMediatorIOS, forwarding close and set-color actions to the consumer and converting the chosen UIColor to an SkColor.

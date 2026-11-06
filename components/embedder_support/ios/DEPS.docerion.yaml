@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for iOS embedder support
+summary: Lists the allowed include paths for dependencies such as Skia, Blink mojom choosers, and UI shell dialogs in this directory.

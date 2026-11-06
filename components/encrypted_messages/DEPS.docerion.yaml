@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the encrypted_messages component
+summary: Grants this directory access to includes from crypto and the BoringSSL headers.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS color chooser mediator header
+// summary: Declares ColorChooserMediatorIOS, which implements ColorChooserDelegateIOS and communicates with the color chooser and its consumer.
+// ---
+
 #ifndef COMPONENTS_EMBEDDER_SUPPORT_IOS_DELEGATE_COLOR_CHOOSER_COLOR_CHOOSER_MEDIATOR_IOS_H_
 #define COMPONENTS_EMBEDDER_SUPPORT_IOS_DELEGATE_COLOR_CHOOSER_COLOR_CHOOSER_MEDIATOR_IOS_H_
 

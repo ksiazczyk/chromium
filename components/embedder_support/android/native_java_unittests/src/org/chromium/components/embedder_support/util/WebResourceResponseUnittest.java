@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Java WebResourceResponse test helpers for native unit tests
+// summary: Creates WebResourceResponseInfo objects, including null and header-less variants, via JNI for the native web_resource_response_unittest.cc test.
+// ---
+
 package org.chromium.components.embedder_support.util;
 
 import org.jni_zero.CalledByNative;

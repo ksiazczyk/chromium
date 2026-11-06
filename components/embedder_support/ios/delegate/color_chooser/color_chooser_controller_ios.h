@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS color chooser controller header
+// summary: Declares ColorChooserControllerIOS, a UIColorPickerViewController subclass shown as a popover that forwards actions to the color chooser delegate.
+// ---
+
 #ifndef COMPONENTS_EMBEDDER_SUPPORT_IOS_DELEGATE_COLOR_CHOOSER_COLOR_CHOOSER_CONTROLLER_IOS_H_
 #define COMPONENTS_EMBEDDER_SUPPORT_IOS_DELEGATE_COLOR_CHOOSER_COLOR_CHOOSER_CONTROLLER_IOS_H_
 

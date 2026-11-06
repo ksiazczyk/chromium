@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File error helpers implementation
+// summary: Implements string conversion for FileError values, success checks, and mappings to base::File errors and GData API error codes.
+// ---
+
 #include "components/drive/file_errors.h"
 
 #include <type_traits>

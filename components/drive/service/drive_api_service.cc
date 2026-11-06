@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drive API service implementation
+// summary: Implements DriveAPIService, a thin wrapper around Google Drive API request classes providing file, change list, upload, download and batch operations for Chromium's drive component.
+// ---
+
 #include "components/drive/service/drive_api_service.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionUrlUtil
+// summary: Java utility that parses Chrome extension URLs, checks the scheme and extension ID host, and returns the canonical origin string while rejecting null or invalid input.
+// ---
+
 package org.chromium.components.embedder_support.util;
 
 import android.net.Uri;

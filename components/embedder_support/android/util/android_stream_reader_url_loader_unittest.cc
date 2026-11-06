@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Android stream reader URL loader
+// summary: Tests AndroidStreamReaderURLLoader using fake succeeding and failing input streams and test delegates to verify response headers, MIME types and status codes.
+// ---
+
 #include "components/embedder_support/android/util/android_stream_reader_url_loader.h"
 
 #include <utility>

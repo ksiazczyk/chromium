@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for resource metadata storage
+// summary: Unit tests for ResourceMetadataStorage covering changestamps, start page tokens, entry put and get operations, DB version upgrades, and storage validity checks.
+// ---
+
 #include "components/drive/resource_metadata_storage.h"
 
 #include <stddef.h>

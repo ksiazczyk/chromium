@@ -1,0 +1,4 @@
+# Docerion header of web_contents_delegate_android_strings.grd.
+type: config
+title: WebContentsDelegateAndroid localized strings GRIT resource definition
+summary: GRIT resource file defining localized Android string outputs for the WebContentsDelegateAndroid embedder support component across many languages.

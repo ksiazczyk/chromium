@@ -3,6 +3,12 @@
 // found in the LICENSE file.
 //
 
+// ---docerion
+// type: source
+// title: EncryptedMessage protobuf definition
+// summary: Defines the protobuf carrying the encrypted payload, server public key version, client public key, and the encryption algorithm identifier.
+// ---
+
 syntax = "proto2";
 
 package encrypted_messages;

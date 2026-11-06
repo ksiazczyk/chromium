@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Drive uploader unit tests
+// summary: Unit tests for the Drive uploader using a mock drive service to verify new, existing, multipart, and resumed uploads.
+// ---
+
 #include "components/drive/drive_uploader.h"
 
 #include <stddef.h>

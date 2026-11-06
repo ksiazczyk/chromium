@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DriveUploader implementation
+// summary: Implements file uploads to Google Drive with resumable, multipart, and batch upload methods, progress tracking, and UMA metrics.
+// ---
+
 #include "components/drive/drive_uploader.h"
 
 #include <algorithm>

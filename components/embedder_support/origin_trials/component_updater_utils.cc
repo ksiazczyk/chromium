@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Origin trials component updater config utilities
+// summary: Reads origin trial overrides such as public key, disabled features, and disabled tokens from a component updater manifest into local state prefs and applies them to the command line and settings storage.
+// ---
+
 #include "components/embedder_support/origin_trials/component_updater_utils.h"
 
 #include <string>

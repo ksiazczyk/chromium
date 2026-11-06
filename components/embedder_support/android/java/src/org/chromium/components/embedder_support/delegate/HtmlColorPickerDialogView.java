@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Color picker dialog view
+// summary: Alert dialog that inflates the color picker layout and wires buttons, suggestions view, view switching and dismissal callbacks.
+// ---
+
 package org.chromium.components.embedder_support.delegate;
 
 import static android.view.accessibility.AccessibilityNodeInfo.CollectionInfo.SELECTION_MODE_SINGLE;

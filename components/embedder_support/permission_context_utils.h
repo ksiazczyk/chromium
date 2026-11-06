@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permission context delegates and factory declaration
+// summary: Declares the PermissionContextDelegates struct and the CreateDefaultPermissionContexts factory used to construct default permission contexts.
+// ---
+
 #ifndef COMPONENTS_EMBEDDER_SUPPORT_PERMISSION_CONTEXT_UTILS_H_
 #define COMPONENTS_EMBEDDER_SUPPORT_PERMISSION_CONTEXT_UTILS_H_
 

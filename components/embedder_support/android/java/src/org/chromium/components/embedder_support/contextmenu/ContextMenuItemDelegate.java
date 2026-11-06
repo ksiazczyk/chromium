@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Context menu item delegate interface
+// summary: Delegate interface that performs actions based on context menu selections, such as downloads, clipboard saves, calls, email, and printing.
+// ---
+
 package org.chromium.components.embedder_support.contextmenu;
 
 import android.content.Context;

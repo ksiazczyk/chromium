@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ResponseDelegateImpl class declaration
+// summary: Declares ResponseDelegateImpl, an AndroidStreamReaderURLLoader::ResponseDelegate that completes URL requests using data from a Java WebResourceResponse object.
+// ---
+
 #ifndef COMPONENTS_EMBEDDER_SUPPORT_ANDROID_UTIL_RESPONSE_DELEGATE_IMPL_H_
 #define COMPONENTS_EMBEDDER_SUPPORT_ANDROID_UTIL_RESPONSE_DELEGATE_IMPL_H_
 

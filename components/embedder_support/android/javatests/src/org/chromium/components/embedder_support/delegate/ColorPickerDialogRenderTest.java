@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Color picker dialog render test
+// summary: JUnit render tests for the Chromium color picker dialog, capturing standard and advanced views in day and night modes.
+// ---
+
 package org.chromium.components.embedder_support.delegate;
 
 import android.app.Activity;

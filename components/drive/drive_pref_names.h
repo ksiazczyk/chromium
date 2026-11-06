@@ -4,6 +4,12 @@
 
 // Constants for the names of preferences related to Google Drive.
 
+// ---docerion
+// type: source
+// title: Drive preference name constants
+// summary: Declares constant strings for Google Drive related preferences such as disabling Drive, cellular sync, DriveFS logging, and bulk pinning.
+// ---
+
 #ifndef COMPONENTS_DRIVE_DRIVE_PREF_NAMES_H_
 #define COMPONENTS_DRIVE_DRIVE_PREF_NAMES_H_
 

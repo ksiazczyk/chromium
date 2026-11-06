@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the drive component
+summary: Specifies allowed include paths for the drive directory, with test-only exceptions for the resource metadata storage unit test.

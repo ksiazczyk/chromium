@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentView
+// summary: Android FrameLayout that hosts a WebContents in the Android view hierarchy, exposing View functionality such as input events, drag handling, accessibility, autofill and smart clip to the web contents.
+// ---
+
 package org.chromium.components.embedder_support.view;
 
 import static org.chromium.build.NullUtil.assertNonNull;

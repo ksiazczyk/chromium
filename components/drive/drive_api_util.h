@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drive API utility declarations
+// summary: Declares Drive API helper functions and Google Apps MIME type constants for query handling, resource IDs, and hosted document detection.
+// ---
+
 #ifndef COMPONENTS_DRIVE_DRIVE_API_UTIL_H_
 #define COMPONENTS_DRIVE_DRIVE_API_UTIL_H_
 

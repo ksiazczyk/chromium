@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drive service test utility declarations
+// summary: Declares test_util helpers for setting up standard and team drive test entries in a FakeDriveService used by Drive service tests.
+// ---
+
 #ifndef COMPONENTS_DRIVE_SERVICE_TEST_UTIL_H_
 #define COMPONENTS_DRIVE_SERVICE_TEST_UTIL_H_
 

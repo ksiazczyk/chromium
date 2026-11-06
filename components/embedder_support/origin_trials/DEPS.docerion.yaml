@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for origin trials
+summary: Declares the allowed include paths for the directory, covering component updater installer policies, prefs, content public, and blink origin trial headers.

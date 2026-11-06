@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the Android embedder support directory
+summary: Chromium DEPS file listing the allowed include paths for this directory plus per-file exceptions for the PageContentProtoViewStructureBuilder sources and tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password echo setting state singleton
+// summary: Singleton that monitors legacy or split password echo settings depending on a feature flag and notifies observers of changes.
+// ---
+
 package org.chromium.components.embedder_support.util;
 
 import org.chromium.base.ObserverList;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User agent string and client hint utilities implementation
+// summary: Implements user agent string construction, brand version lists with GREASE, user agent metadata, and platform version detection for client hints.
+// ---
+
 #include "components/embedder_support/user_agent_utils.h"
 
 #include <stdint.h>

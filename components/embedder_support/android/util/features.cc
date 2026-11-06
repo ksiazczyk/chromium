@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Embedder support feature flag definitions
+// summary: Defines feature flags for Android embedder support utilities, including a kill switch for Chrome scheme navigation and input stream optimizations, and exposes them to Java through JNI.
+// ---
+
 #include "components/embedder_support/android/util/features.h"
 
 #include <jni.h>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the delegate directory
+summary: Defines dependency include rules for the delegate directory, restricting content public Android imports to allowed paths.

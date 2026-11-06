@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClassLoaderContextWrapperFactory
+// summary: Factory that wraps Android application contexts in ClassLoaderContextWrapper instances so code loaded from a separate APK can reference both org.chromium and application classes, with optional resource override contexts.
+// ---
+
 package org.chromium.components.embedder_support.application;
 
 import android.content.ComponentCallbacks;

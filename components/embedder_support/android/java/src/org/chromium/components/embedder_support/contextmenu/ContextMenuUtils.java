@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Context menu utilities
+// summary: Provides utility methods for generating context menus, including a HeaderInfo builder carrying the title, alt text, and URLs shown in the menu header.
+// ---
+
 package org.chromium.components.embedder_support.contextmenu;
 
 import android.content.Context;

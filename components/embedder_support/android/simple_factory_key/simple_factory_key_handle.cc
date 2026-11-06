@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SimpleFactoryKeyHandle JNI implementation
+// summary: Implements the JNI bridge that converts a Java SimpleFactoryKeyHandle reference into the native SimpleFactoryKey pointer it wraps.
+// ---
+
 #include "components/embedder_support/android/simple_factory_key/simple_factory_key_handle.h"
 
 #include "base/android/jni_android.h"

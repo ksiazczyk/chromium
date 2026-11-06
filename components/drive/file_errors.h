@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drive file error enum and helpers
+// summary: Defines the FileError enum persisted in UMA histograms and declares helpers for conversion and string representation of Drive file errors.
+// ---
+
 #ifndef COMPONENTS_DRIVE_FILE_ERRORS_H_
 #define COMPONENTS_DRIVE_FILE_ERRORS_H_
 

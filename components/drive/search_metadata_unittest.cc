@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Drive metadata search highlighting
+// summary: Unit tests for the Drive metadata search FindAndHighlight function, verifying match detection and highlighting across case, accents, and non-ASCII text.
+// ---
+
 #include "components/drive/chromeos/search_metadata.h"
 
 #include <stddef.h>

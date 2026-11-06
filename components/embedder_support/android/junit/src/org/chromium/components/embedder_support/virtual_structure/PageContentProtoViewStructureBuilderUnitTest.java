@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for PageContentProtoViewStructureBuilder
+// summary: JUnit tests verifying that PageContentProtoViewStructureBuilder builds Android AssistStructure view nodes from AnnotatedPageContent protos, covering extraction errors, node text, and result histograms.
+// ---
+
 package org.chromium.components.embedder_support.virtual_structure;
 
 import static org.junit.Assert.assertArrayEquals;

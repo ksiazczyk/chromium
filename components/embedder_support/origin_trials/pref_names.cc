@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Origin trial preference name constants
+// summary: Defines the preference name strings for the origin trial public key, disabled features and disabled tokens.
+// ---
+
 #include "components/embedder_support/origin_trials/pref_names.h"
 
 namespace embedder_support {

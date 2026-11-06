@@ -1,0 +1,4 @@
+# Docerion header of file_select_helper_ios.mm.
+type: source
+title: FileSelectHelperIOS implementation for the iOS file chooser delegate
+summary: Implements FileSelectHelperIOS, converting HTML accept types into dialog file type filters, showing the select file dialog, and enumerating directories to return chosen files.

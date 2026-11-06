@@ -4,6 +4,13 @@ Copyright 2016 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: config
+title: Android color resources for the color picker
+summary: Defines color picker border and background color resources that reference baseline colors, with a TODO to update once a UX spec is available.
+-->
+
 <resources>
     <!-- TODO(crbug.com/40545033): update colors once UX spec available. -->
     <color name="color_picker_border_color">@color/hairline_stroke_color_baseline</color>

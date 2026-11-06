@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drive file system core utilities implementation
+// summary: Implements helpers for the Drive file system, including parsing GDoc files to read URLs and resource IDs, grand root path access, and changestamp to start page token conversion.
+// ---
+
 #include "components/drive/file_system_core_util.h"
 
 #include <stddef.h>

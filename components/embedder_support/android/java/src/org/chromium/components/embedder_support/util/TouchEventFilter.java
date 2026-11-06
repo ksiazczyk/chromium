@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touch event tool type filter
+// summary: Filters motion events whose tool types cannot be handled by Blink and records tool type values in a sparse histogram.
+// ---
+
 package org.chromium.components.embedder_support.util;
 
 import static android.view.MotionEvent.TOOL_TYPE_ERASER;

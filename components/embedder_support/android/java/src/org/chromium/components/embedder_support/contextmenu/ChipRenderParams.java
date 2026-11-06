@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Context menu chip render parameters
+// summary: Holds the fields needed to render a context menu chip, including title and icon resources, click and show callbacks, and the chip type.
+// ---
+
 package org.chromium.components.embedder_support.contextmenu;
 
 import androidx.annotation.DrawableRes;

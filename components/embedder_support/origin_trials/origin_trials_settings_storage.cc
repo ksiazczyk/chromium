@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Origin trials settings storage implementation
+// summary: Implements OriginTrialsSettingsStorage, storing disabled trial tokens with a 1024-entry cap and returning settings snapshots.
+// ---
+
 #include "components/embedder_support/origin_trials/origin_trials_settings_storage.h"
 
 #include "base/logging.h"

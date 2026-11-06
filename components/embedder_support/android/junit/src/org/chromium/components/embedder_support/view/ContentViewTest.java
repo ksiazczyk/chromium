@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: 'ContentViewTest: Robolectric unit tests for ContentView'
+// summary: Robolectric unit tests for ContentView, the Android view that displays web content in Chrome, covering pointer icons, autofill structure forwarding, and event handling with Mockito mocks.
+// ---
+
 package org.chromium.components.embedder_support.view;
 
 import static org.junit.Assert.assertEquals;

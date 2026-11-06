@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake Drive service unit tests
+// summary: Unit tests covering FakeDriveService behavior, including file, change and Team Drive listings, search queries, uploads, downloads and error conditions.
+// ---
+
 #include "components/drive/service/fake_drive_service.h"
 
 #include <stddef.h>

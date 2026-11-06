@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentViewRenderView
+// summary: Android FrameLayout with a SurfaceView that renders a single WebContents for a ContentView, managing the surface lifecycle and bridging to native rendering code via JNI.
+// ---
+
 package org.chromium.components.embedder_support.view;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

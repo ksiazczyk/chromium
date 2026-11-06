@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UrlUtilities JNI bindings
+// summary: Implements JNI functions exposing URL utilities to Java, including same-domain checks, domain and registry lookup, and Google domain, subdomain, and search URL detection.
+// ---
+
 #include <optional>
 #include <string>
 

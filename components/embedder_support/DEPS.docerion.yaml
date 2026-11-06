@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for embedder_support
+summary: Lists the directories whose headers code in the embedder_support component is allowed to include.

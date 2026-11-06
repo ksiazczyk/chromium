@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Resource metadata storage implementation
+// summary: Implements the LevelDB-backed storage for Drive resource metadata, managing resource entries, child-parent relationships, cache entries, key encoding, and DB versioning and recovery.
+// ---
+
 #include "components/drive/resource_metadata_storage.h"
 
 #include <stddef.h>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the Android delegate folder
+summary: Defines the allowed include dependencies for the Android web contents delegate directory, covering content, ui/android, printing, blink, and JNI headers.

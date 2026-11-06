@@ -4,6 +4,13 @@
      Use of this source code is governed by a BSD-style license that can be
      found in the LICENSE file.
 -->
+
+<!--docerion
+type: source
+title: Color picker advanced component layout
+summary: Android layout for the advanced HTML color picker, combining a label, a gradient view with border, and a SeekBar used to select a custom color.
+-->
+
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content">

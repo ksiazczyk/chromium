@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileSelectHelperIOS class header for the iOS file chooser delegate
+// summary: Declares the FileSelectHelperIOS class, which runs file chooser dialogs for iOS, handles selection callbacks, and manages directory enumeration for file uploads.
+// ---
+
 #ifndef COMPONENTS_EMBEDDER_SUPPORT_IOS_DELEGATE_FILE_CHOOSER_FILE_SELECT_HELPER_IOS_H_
 #define COMPONENTS_EMBEDDER_SUPPORT_IOS_DELEGATE_FILE_CHOOSER_FILE_SELECT_HELPER_IOS_H_
 
