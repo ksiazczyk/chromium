@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: History URL visit aggregates visibility score transformer unit tests
+// summary: Parameterized unit tests for removing visit aggregates whose visibility score is below a threshold.
+// ---
+
 #include "components/visited_url_ranking/internal/transformer/history_url_visit_aggregates_visibility_score_transformer.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History URL visit data fetcher implementation
+// summary: Implements fetching URL visit data from the history service, computing periodicity signals and filtering short visits while classifying local and foreign visits.
+// ---
+
 #include "components/visited_url_ranking/internal/history_url_visit_data_fetcher.h"
 
 #include <algorithm>

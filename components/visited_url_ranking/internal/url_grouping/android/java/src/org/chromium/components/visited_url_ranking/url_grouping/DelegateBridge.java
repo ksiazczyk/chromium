@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DelegateBridge for GroupSuggestionsService delegates
+// summary: Hosts registered Java delegates of the group suggestions service and forwards suggestion and feedback-dump notifications from the native side to them.
+// ---
+
 package org.chromium.components.visited_url_ranking.url_grouping;
 
 import org.jni_zero.CalledByNative;

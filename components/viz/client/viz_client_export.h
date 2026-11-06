@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VIZ_CLIENT_EXPORT symbol visibility macro header
+// summary: Defines the VIZ_CLIENT_EXPORT macro that controls dllexport, dllimport, or default visibility of viz client symbols in component builds.
+// ---
+
 #ifndef COMPONENTS_VIZ_CLIENT_VIZ_CLIENT_EXPORT_H_
 #define COMPONENTS_VIZ_CLIENT_VIZ_CLIENT_EXPORT_H_
 

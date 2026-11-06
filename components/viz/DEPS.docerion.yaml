@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Viz include dependency rules
+summary: Declares include rules restricting dependencies in viz, allowing common, cc/base, and UI headers while granting broader includes to tests and fuzzers.

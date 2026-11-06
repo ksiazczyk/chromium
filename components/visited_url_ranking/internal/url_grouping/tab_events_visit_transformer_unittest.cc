@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for TabEventsVisitTransformer
+// summary: Unit tests verifying that the transformer adds recent foreground selection counts from the tab event tracker to visit aggregates during transformation.
+// ---
+
 #include "components/visited_url_ranking/internal/url_grouping/tab_events_visit_transformer.h"
 
 #include <memory>

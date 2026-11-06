@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the visitedlink browser directory
+summary: Declares the allowed dependencies for this directory, permitting includes from content public browser, net and blink public common.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Default app URL visit aggregates transformer unit tests
+// summary: Tests that visits on the default app blocklist are removed while other URLs are kept.
+// ---
+
 #include "components/visited_url_ranking/internal/transformer/default_app_url_visit_aggregates_transformer.h"
 
 #include <iterator>

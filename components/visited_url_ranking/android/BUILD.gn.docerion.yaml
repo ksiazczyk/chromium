@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Visited URL Ranking Android build configuration
+summary: GN build file defining the visited_url_ranking Java library target and generating enum source jars from the component's public service header.

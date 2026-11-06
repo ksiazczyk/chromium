@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock group suggestions delegate header
+// summary: Declares MockGroupSuggestionsDelegate, a gmock implementation of GroupSuggestionsDelegate used to fake suggestion display and feedback dumping in tests.
+// ---
+
 #ifndef COMPONENTS_VISITED_URL_RANKING_INTERNAL_URL_GROUPING_MOCK_SUGGESTIONS_DELEGATE_H_
 #define COMPONENTS_VISITED_URL_RANKING_INTERNAL_URL_GROUPING_MOCK_SUGGESTIONS_DELEGATE_H_
 

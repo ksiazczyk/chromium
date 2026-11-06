@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for GroupingHeuristics
+// summary: Unit tests verifying that grouping heuristics produce the expected tab group suggestions based on visibility scores, recent foreground counts, and suggestion reasons.
+// ---
+
 #include "components/visited_url_ranking/internal/url_grouping/grouping_heuristics.h"
 
 #include "base/run_loop.h"

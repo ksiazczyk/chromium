@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Group suggestions tracker implementation
+// summary: Implements persistence of shown group suggestions in profile prefs, throttling of repeated suggestions and caching of computed results.
+// ---
+
 #include "components/visited_url_ranking/internal/url_grouping/group_suggestions_tracker.h"
 
 #include <cstdint>

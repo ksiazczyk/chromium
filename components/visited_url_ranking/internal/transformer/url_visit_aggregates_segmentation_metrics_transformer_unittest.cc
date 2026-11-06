@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: URL visit aggregates segmentation metrics transformer unit tests
+// summary: Unit tests for the segmentation metrics transformer, using mock segmentation platform service and database client to verify metric population on URL visit aggregates.
+// ---
+
 #include "components/visited_url_ranking/internal/transformer/url_visit_aggregates_segmentation_metrics_transformer.h"
 
 #include <memory>

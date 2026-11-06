@@ -1,3 +1,11 @@
+---
+type: reference
+title: Security model for visited links
+summary: Documents the security model for visited links, including process sandboxing, threat model, per-origin salts, accepted risks, and reporting guidance.
+relations:
+  - references /components/visitedlink/README.md
+---
+
 # Security Model for Visited Links (`//components/visitedlink`)
 
 This component maintains the hash table that Chromium uses to decide which links

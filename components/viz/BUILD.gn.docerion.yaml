@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Viz build targets for unit and performance tests
+summary: Defines GN targets for viz unit tests, performance tests, and Android Java bindings, wiring test suites from the client, common, host, and service subdirectories.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: URL visit aggregates transformer test support implementation
+// summary: Implements a helper that runs transformer transforms synchronously and returns status and results for tests.
+// ---
+
 #include "components/visited_url_ranking/internal/transformer/transformer_test_support.h"
 
 #include <utility>

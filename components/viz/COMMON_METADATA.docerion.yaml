@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Viz common issue tracking metadata
+summary: Sets the Chromium issue-tracking component, team email, and Buganizer component ID for the viz directory.

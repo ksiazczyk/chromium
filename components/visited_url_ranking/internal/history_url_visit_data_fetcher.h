@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History URL visit data fetcher class declaration
+// summary: Declares HistoryURLVisitDataFetcher, which fetches URL visit data from the history service using device info sync for visit source classification.
+// ---
+
 #ifndef COMPONENTS_VISITED_URL_RANKING_INTERNAL_HISTORY_URL_VISIT_DATA_FETCHER_H_
 #define COMPONENTS_VISITED_URL_RANKING_INTERNAL_HISTORY_URL_VISIT_DATA_FETCHER_H_
 

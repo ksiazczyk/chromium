@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Group suggestions service unit tests
+// summary: Unit tests for GroupSuggestionsServiceImpl verifying delegate registration, cached suggestions and tab event triggered computation.
+// ---
+
 #include "components/visited_url_ranking/internal/url_grouping/group_suggestions_service_impl.h"
 
 #include <optional>

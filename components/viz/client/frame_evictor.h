@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameEvictor header for tracking child surface visibility and eviction
+// summary: Declares FrameEvictor and FrameEvictorClient, which track a child's visibility state and surface embedding so the parent can collect and evict delegated frames via FrameEvictionManager.
+// ---
+
 #ifndef COMPONENTS_VIZ_CLIENT_FRAME_EVICTOR_H_
 #define COMPONENTS_VIZ_CLIENT_FRAME_EVICTOR_H_
 

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Presubmit checks for Viz source code
+# summary: Implements presubmit checks for viz C++ code covering linting, ASSERT versus DCHECK usage, std::abs qualification, and pass-by-value types.
+# ---
+
 """Presubmit checks used in viz"""
 
 import re

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab events visit transformer class declaration
+// summary: Declares a URLVisitAggregatesTransformer that attaches tab event data, such as recent foreground counts, to visit aggregates during signal fetching.
+// ---
+
 #ifndef COMPONENTS_VISITED_URL_RANKING_INTERNAL_URL_GROUPING_TAB_EVENTS_VISIT_TRANSFORMER_H_
 #define COMPONENTS_VISITED_URL_RANKING_INTERNAL_URL_GROUPING_TAB_EVENTS_VISIT_TRANSFORMER_H_
 

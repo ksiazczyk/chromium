@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Session URL visit data fetcher unit tests
+// summary: Unit tests for the session fetcher, building sample synced sessions and verifying aggregation of tabs across sources and result options.
+// ---
+
 #include "components/visited_url_ranking/internal/session_url_visit_data_fetcher.h"
 
 #include <memory>

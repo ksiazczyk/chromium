@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Visited link performance test
+// summary: Performance test measuring visited link add and query, table initialization, database flush, and cold and hot load timings via PerfResultReporter.
+// ---
+
 #include <algorithm>
 #include <string>
 #include <vector>

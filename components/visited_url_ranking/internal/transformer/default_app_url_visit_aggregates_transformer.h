@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default app URL visit aggregates transformer header
+// summary: Declares a transformer that removes URL visit aggregates whose URLs can be opened by default apps.
+// ---
+
 #ifndef COMPONENTS_VISITED_URL_RANKING_INTERNAL_TRANSFORMER_DEFAULT_APP_URL_VISIT_AGGREGATES_TRANSFORMER_H_
 #define COMPONENTS_VISITED_URL_RANKING_INTERNAL_TRANSFORMER_DEFAULT_APP_URL_VISIT_AGGREGATES_TRANSFORMER_H_
 

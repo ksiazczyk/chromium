@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for visitedlink common
+summary: Declares the include rules allowing this directory to depend on content public common, crypto obsolete, and net headers.

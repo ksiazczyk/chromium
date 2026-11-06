@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab grouping heuristics implementation
+// summary: Implements heuristics that detect recently opened, frequently switched and same-origin tabs to generate tab group suggestions.
+// ---
+
 #include "components/visited_url_ranking/internal/url_grouping/grouping_heuristics.h"
 
 #include <algorithm>

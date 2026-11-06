@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Visited link unit tests build definition
+summary: GN build file defining the unit_tests source set and its dependencies for the visitedlink component's tests.

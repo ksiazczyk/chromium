@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the visitedlink renderer
+summary: Defines the static_library build target for the visitedlink renderer, listing its sources and dependencies on base, content, blink, and the visitedlink common component.

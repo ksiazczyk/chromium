@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the visited_url_ranking component
+summary: Defines the include_rules allowlist of component and service directories that code in visited_url_ranking may depend on.

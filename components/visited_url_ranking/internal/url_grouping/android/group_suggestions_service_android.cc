@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Group suggestions service Android JNI bridge implementation
+// summary: Implements the C++/Java bridge for the group suggestions service on Android, converting tab events, user responses and group suggestions between native and Java via generated JNI headers.
+// ---
+
 #include "components/visited_url_ranking/internal/url_grouping/android/group_suggestions_service_android.h"
 
 #include <jni.h>

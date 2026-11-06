@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Java JNI bridge for the group suggestions service
+// summary: Java side of the JNI bridge implementing GroupSuggestionsService by delegating tab events, delegate registration and cached suggestion calls to the native C++ service.
+// ---
+
 package org.chromium.components.visited_url_ranking.url_grouping;
 
 import org.jni_zero.CalledByNative;

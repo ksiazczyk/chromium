@@ -1,3 +1,12 @@
+---
+type: readme
+title: 'Viz overview: terminology, directory structure and naming guidelines'
+summary: Explains Viz terminology, directory structure, dependency rules, runtime features, and Mojo naming guidelines for the compositing and GPU presentation code.
+relations:
+  - references /cc/README.md
+  - references /services/viz/README.md
+---
+
 # //components/viz
 
 Viz - short for visuals - is the client library and service implementations for

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Visited URL ranking service implementation unit tests
+// summary: Unit tests for the service implementation using mock fetchers, transformers, and segmentation platform service to verify fetch, rank, decorate, and action recording flows.
+// ---
+
 #include "components/visited_url_ranking/internal/visited_url_ranking_service_impl.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for visitedlink core
+summary: Grants the visitedlink core directory permission to include headers from //net.

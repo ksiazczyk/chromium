@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default app URL visit aggregates transformer implementation
+// summary: Removes URL visit aggregates whose URLs match hosts in the default app blocklist.
+// ---
+
 #include "components/visited_url_ranking/internal/transformer/default_app_url_visit_aggregates_transformer.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Visited link writer implementation
+// summary: Implements the unpartitioned visited link writer, managing the visited links hashtable, its on-disk file format and background thread disk I/O.
+// ---
+
 #include "components/visitedlink/browser/visitedlink_writer.h"
 
 #include <stdio.h>

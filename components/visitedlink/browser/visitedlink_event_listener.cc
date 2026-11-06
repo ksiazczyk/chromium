@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Visited link event listener implementation
+// summary: Implements buffering and coalescing of visited link updates and their delivery to renderer processes based on widget visibility.
+// ---
+
 #include "components/visitedlink/browser/visitedlink_event_listener.h"
 
 #include <memory>

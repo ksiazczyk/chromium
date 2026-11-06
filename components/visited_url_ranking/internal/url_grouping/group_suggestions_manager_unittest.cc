@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Group suggestions manager unit tests
+// summary: Unit tests for GroupSuggestionsManager covering suggestion computation, UKM metric logging and delegate notification.
+// ---
+
 #include "components/visited_url_ranking/internal/url_grouping/group_suggestions_manager.h"
 
 #include <optional>

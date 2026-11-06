@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History URL visit aggregates categories transformer implementation
+// summary: Removes history URL visit aggregates whose content annotations match blocklisted categories.
+// ---
+
 #include "components/visited_url_ranking/internal/transformer/history_url_visit_aggregates_categories_transformer.h"
 
 #include <string>

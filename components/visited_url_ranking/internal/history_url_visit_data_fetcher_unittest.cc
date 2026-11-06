@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: History URL visit data fetcher unit tests
+// summary: Unit tests for the history fetcher, using a mock history service and sample annotated visits to verify fetching, filtering, and periodicity signals.
+// ---
+
 #include "components/visited_url_ranking/internal/history_url_visit_data_fetcher.h"
 
 #include <map>

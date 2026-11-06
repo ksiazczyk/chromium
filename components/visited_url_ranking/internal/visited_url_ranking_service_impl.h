@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Visited URL ranking service implementation declaration
+// summary: Declares VisitedURLRankingServiceImpl, the internal implementation of the visited URL ranking service with fetchers, transformers, and request step status enums.
+// ---
+
 #ifndef COMPONENTS_VISITED_URL_RANKING_INTERNAL_VISITED_URL_RANKING_SERVICE_IMPL_H_
 #define COMPONENTS_VISITED_URL_RANKING_INTERNAL_VISITED_URL_RANKING_SERVICE_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmarks URL visit aggregates transformer implementation
+// summary: Marks URL visit aggregates as bookmarked by checking their associated URLs against the bookmark model.
+// ---
+
 #include "components/visited_url_ranking/internal/transformer/bookmarks_url_visit_aggregates_transformer.h"
 
 #include <set>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Group suggestions service Android bridge unit tests
+// summary: Unit tests for the Android group suggestions service bridge, using a test Java delegate and mock ranking service to verify event routing and suggestion behavior across the JNI boundary.
+// ---
+
 #include "components/visited_url_ranking/internal/url_grouping/android/group_suggestions_service_android.h"
 
 #include "base/android/jni_android.h"

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS
+summary: Defines allowed include rules for the viz client directory and forbids mojo bindings so the library stays agnostic about viz communication.

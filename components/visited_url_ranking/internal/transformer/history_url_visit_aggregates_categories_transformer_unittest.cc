@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: History URL visit aggregates categories transformer unit tests
+// summary: Parameterized unit tests verifying that visit aggregates with blocklisted categories are filtered out.
+// ---
+
 #include "components/visited_url_ranking/internal/transformer/history_url_visit_aggregates_categories_transformer.h"
 
 #include <iterator>

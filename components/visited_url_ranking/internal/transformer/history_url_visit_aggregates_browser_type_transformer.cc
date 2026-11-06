@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History URL visit aggregates browser type transformer implementation
+// summary: Filters out history URL visit aggregates whose context annotations record an authentication tab browser type.
+// ---
+
 #include "components/visited_url_ranking/internal/transformer/history_url_visit_aggregates_browser_type_transformer.h"
 
 namespace visited_url_ranking {

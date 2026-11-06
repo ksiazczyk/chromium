@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for TabEventTrackerImpl
+// summary: Unit tests verifying tab event tracking behavior, including callback triggering, per-tab selection counts, and time-window handling for tab switches.
+// ---
+
 #include "components/visited_url_ranking/internal/url_grouping/tab_event_tracker_impl.h"
 
 #include "base/test/mock_callback.h"

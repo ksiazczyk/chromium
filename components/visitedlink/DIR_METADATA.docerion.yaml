@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Bug tracking metadata for components/visitedlink
+summary: Maps the visitedlink directory to the Monorail component UI>Browser>History and Buganizer component 1456716 for issue tracking.

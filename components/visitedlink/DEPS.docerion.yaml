@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for components/visitedlink
+summary: Defines the include rules that allow the visitedlink component to depend on mojo, content public common, and service manager public code.

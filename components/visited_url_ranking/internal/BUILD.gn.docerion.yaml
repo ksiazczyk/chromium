@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for visited URL ranking internal targets
+summary: GN build file defining the internal static libraries for visited URL ranking fetchers, transformers, and URL grouping, plus a test_support source set.

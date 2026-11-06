@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VisitedLinkCommon header
+// summary: Declares the VisitedLinkCommon base class shared by the visited link reader and writer, with hash table lookup and fingerprint helper APIs.
+// ---
+
 #ifndef COMPONENTS_VISITEDLINK_COMMON_VISITEDLINK_COMMON_H_
 #define COMPONENTS_VISITEDLINK_COMMON_VISITEDLINK_COMMON_H_
 

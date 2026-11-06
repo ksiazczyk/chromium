@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for components/visitedlink
+summary: Lists kyraseevers@chromium.org and tiffanysong@google.com as the code owners responsible for reviewing changes in this directory.

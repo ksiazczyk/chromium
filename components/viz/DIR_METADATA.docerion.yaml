@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Viz directory metadata mixin reference
+summary: Applies the shared viz COMMON_METADATA settings to this directory via a mixin.

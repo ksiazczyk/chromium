@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Visited URL ranking service implementation
+// summary: Implements the internal VisitedURLRankingService, coordinating data fetchers, transformers, segmentation platform ranking, decoration, and user action recording.
+// ---
+
 #include "components/visited_url_ranking/internal/visited_url_ranking_service_impl.h"
 
 #include <array>

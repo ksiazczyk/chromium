@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ClientResourceProvider unit tests
+// summary: Parameterized unit tests covering resource transfer, release, and eviction behavior of ClientResourceProvider for both GPU and software resources.
+// ---
+
 #include "components/viz/client/client_resource_provider.h"
 
 #include <algorithm>

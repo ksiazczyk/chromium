@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Group suggestions tracker unit tests
+// summary: Unit tests for GroupSuggestionsTracker covering pref storage, overlapping tab and host throttling and cached suggestion behavior.
+// ---
+
 #include "components/visited_url_ranking/internal/url_grouping/group_suggestions_tracker.h"
 
 #include "base/hash/hash.h"

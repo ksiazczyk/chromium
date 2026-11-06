@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Group suggestions service Android bridge class declaration
+// summary: Declares the GroupSuggestionsServiceAndroid helper class that bridges the group suggestions service between C++ and Java, exposing tab event callbacks, cached suggestions and JNI type converters for user response metadata.
+// ---
+
 #ifndef COMPONENTS_VISITED_URL_RANKING_INTERNAL_URL_GROUPING_ANDROID_GROUP_SUGGESTIONS_SERVICE_ANDROID_H_
 #define COMPONENTS_VISITED_URL_RANKING_INTERNAL_URL_GROUPING_ANDROID_GROUP_SUGGESTIONS_SERVICE_ANDROID_H_
 
