@@ -1,3 +1,13 @@
+---
+type: readme
+title: IWA Component Test Support
+summary: Describes the hermetic test doubles, signing keys, and signed web bundle builders provided by this directory.
+relations:
+  - documents /components/webapps/isolated_web_apps/test_support/signing_keys.h
+  - documents /components/webapps/isolated_web_apps/test_support/fake_iwa_runtime_data_provider.cc
+  - documents /components/webapps/isolated_web_apps/test_support/fake_iwa_runtime_data_provider.h
+---
+
 # IWA Component Test Support (`components/webapps/isolated_web_apps/test_support`)
 
 This directory provides hermetic test doubles and bundle builders for testing

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAppUrlLoader class header
+// summary: Declares the WebAppUrlLoader callback-based wrapper around NavigationController::LoadUrl, including its result enum, URL comparison modes, and navigation throttle registration API.
+// ---
+
 #ifndef COMPONENTS_WEBAPPS_BROWSER_WEB_CONTENTS_WEB_APP_URL_LOADER_H_
 #define COMPONENTS_WEBAPPS_BROWSER_WEB_CONTENTS_WEB_APP_URL_LOADER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners File for the Isolated Web Apps Component
+summary: Points to PLATFORM_OWNERS to designate the code owners responsible for reviewing changes in this component.

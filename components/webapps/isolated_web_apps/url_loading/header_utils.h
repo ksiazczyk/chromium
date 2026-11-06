@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Isolated Web App header utilities declarations
+// summary: Declares the web_app::iwa helpers for obtaining CSP strings and setting required COOP, COEP, CORP, and CSP headers for isolated apps.
+// ---
+
 #ifndef COMPONENTS_WEBAPPS_ISOLATED_WEB_APPS_URL_LOADING_HEADER_UTILS_H_
 #define COMPONENTS_WEBAPPS_ISOLATED_WEB_APPS_URL_LOADING_HEADER_UTILS_H_
 

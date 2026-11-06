@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for UnusableSwbnFileError
+// summary: Checks error construction from raw errors, integrity block and metadata parse errors, and signature verifier errors.
+// ---
+
 #include "components/webapps/isolated_web_apps/error/unusable_swbn_file_error.h"
 
 #include "components/web_package/mojom/web_bundle_parser.mojom.h"

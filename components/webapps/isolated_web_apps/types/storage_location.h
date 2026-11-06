@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IWA storage location declarations
+// summary: Declares IsolatedWebAppStorageLocation variants for browser-owned bundles, unowned bundles, and proxy-served apps as persisted in the Web App database.
+// ---
+
 #ifndef COMPONENTS_WEBAPPS_ISOLATED_WEB_APPS_TYPES_STORAGE_LOCATION_H_
 #define COMPONENTS_WEBAPPS_ISOLATED_WEB_APPS_TYPES_STORAGE_LOCATION_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IwaVersion unit tests
+// summary: Parameterized unit tests covering valid and invalid IWA version strings, including error cases such as leading zeros, empty components, and overflow.
+// ---
+
 #include "components/webapps/isolated_web_apps/types/iwa_version.h"
 
 #include <cstdint>

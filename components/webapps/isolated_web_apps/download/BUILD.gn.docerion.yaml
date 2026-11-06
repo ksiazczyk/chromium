@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the IWA bundle downloader
+summary: Defines GN source sets for the bundle downloader and its unit tests, with their sources and dependencies.

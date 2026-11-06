@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Installable data implementation
+// summary: Implements the Screenshot and InstallableData constructors plus GetFirstError, which returns the first installability error or NO_ERROR_DETECTED.
+// ---
+
 #include "components/webapps/browser/installable/installable_data.h"
 
 #include <utility>

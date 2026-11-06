@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IsolatedWebAppBrowserContextServiceFactory class declaration
+// summary: Declares the exported base class for IWA keyed service factories, with GetBrowserContextToUse overridden so services are created only for IWA-capable browser contexts.
+// ---
+
 #ifndef COMPONENTS_WEBAPPS_ISOLATED_WEB_APPS_SERVICE_ISOLATED_WEB_APP_BROWSER_CONTEXT_SERVICE_FACTORY_H_
 #define COMPONENTS_WEBAPPS_ISOLATED_WEB_APPS_SERVICE_ISOLATED_WEB_APP_BROWSER_CONTEXT_SERVICE_FACTORY_H_
 

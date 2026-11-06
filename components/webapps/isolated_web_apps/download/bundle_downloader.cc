@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IsolatedWebAppDownloader implementation
+// summary: Implements temporary .swbn file handling and network download of full Signed Web Bundles or their leading 8 KiB.
+// ---
+
 #include "components/webapps/isolated_web_apps/download/bundle_downloader.h"
 
 #include <algorithm>

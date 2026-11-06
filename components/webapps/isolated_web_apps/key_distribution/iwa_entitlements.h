@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IWA entitlements header
+// summary: Declares IwaEntitlementsSet and GetEntitlementForFeature, which maps permissions policy features to entitlements for user-installed Isolated Web Apps.
+// ---
+
 #ifndef COMPONENTS_WEBAPPS_ISOLATED_WEB_APPS_KEY_DISTRIBUTION_IWA_ENTITLEMENTS_H_
 #define COMPONENTS_WEBAPPS_ISOLATED_WEB_APPS_KEY_DISTRIBUTION_IWA_ENTITLEMENTS_H_
 

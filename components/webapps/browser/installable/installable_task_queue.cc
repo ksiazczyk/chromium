@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InstallableTaskQueue implementation
+// summary: Implements a queue of pending installable tasks with operations to add tasks, advance to the next one, and reset all tasks with an error status.
+// ---
+
 #include "components/webapps/browser/installable/installable_task_queue.h"
 
 #include <map>

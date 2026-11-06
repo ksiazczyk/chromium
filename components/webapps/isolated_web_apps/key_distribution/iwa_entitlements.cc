@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IWA entitlements implementation
+// summary: Implements the mapping from permissions policy features to required entitlements for user-installed Isolated Web Apps, plus debug value serialization and equality for entitlement sets.
+// ---
+
 #include "components/webapps/isolated_web_apps/key_distribution/iwa_entitlements.h"
 
 #include "base/containers/fixed_flat_map.h"

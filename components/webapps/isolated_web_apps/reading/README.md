@@ -1,3 +1,13 @@
+---
+type: readme
+title: IWA Signed Web Bundle Reading & Caching
+summary: Describes the directory's key components for reading, signature verification, and caching of Signed Web Bundles for Isolated Web Apps.
+relations:
+  - documents /components/webapps/isolated_web_apps/reading/mojo_web_bundle_parser.cc
+  - documents /components/webapps/isolated_web_apps/reading/mojo_web_bundle_parser.h
+  - documents /components/webapps/isolated_web_apps/reading/response_reader.cc
+---
+
 # IWA Signed Web Bundle Reading & Caching (`components/webapps/isolated_web_apps/reading`)
 
 This directory implements reading, signature verification, and reader caching

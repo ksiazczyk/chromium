@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MlInstallOperationTracker class declaration
+// summary: Declares the tracker that reports user interaction with ML-driven install dialogs, including the MlInstallUserResponse enum for accepted, ignored, and cancelled outcomes.
+// ---
+
 #ifndef COMPONENTS_WEBAPPS_BROWSER_INSTALLABLE_ML_INSTALL_OPERATION_TRACKER_H_
 #define COMPONENTS_WEBAPPS_BROWSER_INSTALLABLE_ML_INSTALL_OPERATION_TRACKER_H_
 

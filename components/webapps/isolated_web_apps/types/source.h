@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IWA source type declarations
+// summary: Declares type-safe classes representing Isolated Web App sources as bundles or proxies, with dev/prod mode and file operation variants.
+// ---
+
 #ifndef COMPONENTS_WEBAPPS_ISOLATED_WEB_APPS_TYPES_SOURCE_H_
 #define COMPONENTS_WEBAPPS_ISOLATED_WEB_APPS_TYPES_SOURCE_H_
 

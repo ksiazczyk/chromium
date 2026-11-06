@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TestSignedWebBundleBuilder class declaration
+// summary: Declares TestSignedWebBundle and TestSignedWebBundleBuilder with BuildOptions for creating signed web bundles in isolated web app tests.
+// ---
+
 #ifndef COMPONENTS_WEBAPPS_ISOLATED_WEB_APPS_TEST_SUPPORT_TEST_SIGNED_WEB_BUNDLE_BUILDER_H_
 #define COMPONENTS_WEBAPPS_ISOLATED_WEB_APPS_TEST_SUPPORT_TEST_SIGNED_WEB_BUNDLE_BUILDER_H_
 

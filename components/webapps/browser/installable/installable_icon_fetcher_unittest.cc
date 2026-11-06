@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the installable icon fetcher
+// summary: Unit tests covering icon fetching from manifests and favicons, using a stub LargeIconService and generated test bitmaps.
+// ---
+
 #include "components/webapps/browser/installable/installable_icon_fetcher.h"
 
 #include <memory>

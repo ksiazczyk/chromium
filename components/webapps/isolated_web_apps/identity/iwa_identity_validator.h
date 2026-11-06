@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IwaIdentityValidator class declaration
+// summary: Declares the singleton validator implementing web_package::IdentityValidator, including a variant that disables soft key rotation for fresh installs and updates.
+// ---
+
 #ifndef COMPONENTS_WEBAPPS_ISOLATED_WEB_APPS_IDENTITY_IWA_IDENTITY_VALIDATOR_H_
 #define COMPONENTS_WEBAPPS_ISOLATED_WEB_APPS_IDENTITY_IWA_IDENTITY_VALIDATOR_H_
 

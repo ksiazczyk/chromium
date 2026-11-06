@@ -1,3 +1,9 @@
+---
+type: reference
+title: Android Web App Architectures (WebAPK and TWA)
+summary: Explains the architecture of WebAPKs and TWAs on Android, covering installation systems, component interactions, call flows, and testing.
+---
+
 # Android Web App Architectures (WebAPK and TWA)
 
 This document describes the architecture of Webapp, WebAPK, and Trusted Web

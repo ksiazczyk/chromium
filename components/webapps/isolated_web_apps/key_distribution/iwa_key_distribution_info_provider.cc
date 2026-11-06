@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IWA key distribution info provider implementation
+// summary: Implements the process-wide singleton that loads and parses IwaKeyDistribution protobuf data from the component updater or preloaded files and exposes runtime data to subscribers.
+// ---
+
 #include "components/webapps/isolated_web_apps/key_distribution/iwa_key_distribution_info_provider.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for IsolatedWebAppReaderRegistry
+// summary: Tests the reader registry, covering reader creation, caching, eviction, key rotation, and response reading errors.
+// ---
+
 #include <memory>
 #include <optional>
 

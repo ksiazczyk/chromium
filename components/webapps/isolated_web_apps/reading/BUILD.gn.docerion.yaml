@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the IWA reading source sets
+summary: Defines the GN source sets for the reading implementation and its unit tests, listing sources and their build dependencies.

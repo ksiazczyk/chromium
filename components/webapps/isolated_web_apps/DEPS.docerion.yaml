@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include Rules for the Isolated Web Apps Component
+summary: DEPS file listing the directories this component may include from, such as web_package, keyed_service, content public browser, mojo, net and network services.

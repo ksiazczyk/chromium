@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build config for the key distribution proto
+summary: Defines a proto_library target for key_distribution.proto with restricted visibility and lite C++ code generation.

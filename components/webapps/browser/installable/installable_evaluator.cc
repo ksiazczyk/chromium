@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Installable evaluator implementation
+// summary: Implements web app installability checks, validating manifest fields, start URL, name, display mode, icon sizes, and secure context requirements.
+// ---
+
 #include "components/webapps/browser/installable/installable_evaluator.h"
 
 #include <algorithm>

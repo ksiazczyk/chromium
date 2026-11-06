@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IsolatedWebAppResponseReader implementation
+// summary: Implements the IWA response reader, which serves bundle responses and strips query parameters from request URLs.
+// ---
+
 #include "components/webapps/isolated_web_apps/reading/response_reader.h"
 
 #include <memory>

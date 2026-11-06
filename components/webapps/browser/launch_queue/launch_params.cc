@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LaunchParams class implementation
+// summary: Implements the default constructors, destructor and assignment operators for the web app LaunchParams class in the webapps namespace.
+// ---
+
 #include "components/webapps/browser/launch_queue/launch_params.h"
 
 namespace webapps {

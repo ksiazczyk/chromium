@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Isolated-App Scheme Constants
+// summary: Defines the kIsolatedAppScheme constants for the isolated-app URL scheme used by Isolated Web Apps, in both narrow and UTF-16 forms.
+// ---
+
 #ifndef COMPONENTS_WEBAPPS_ISOLATED_WEB_APPS_SCHEME_H_
 #define COMPONENTS_WEBAPPS_ISOLATED_WEB_APPS_SCHEME_H_
 

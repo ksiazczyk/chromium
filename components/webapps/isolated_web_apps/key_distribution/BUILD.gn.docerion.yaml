@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for IWA key distribution
+summary: Defines the key_distribution source set and its unit_tests target, listing sources and dependencies for the IWA key distribution component.

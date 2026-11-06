@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Isolated Web App URL loader implementation
+// summary: Implements the self-owned URLLoader that reads HTTP responses and streams response bodies from a Signed Web Bundle via the reader registry.
+// ---
+
 #include "components/webapps/isolated_web_apps/url_loading/url_loader.h"
 
 #include <algorithm>

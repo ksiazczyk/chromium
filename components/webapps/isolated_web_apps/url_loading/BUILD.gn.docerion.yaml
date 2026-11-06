@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the IWA URL loading source set
+summary: GN build file defining the url_loading source_set with its sources, dependencies, and visibility for Isolated Web App URL loading.

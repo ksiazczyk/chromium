@@ -1,3 +1,13 @@
+---
+type: readme
+title: Isolated Web Apps Component Overview
+summary: Describes the browser-agnostic IWA building blocks, key responsibilities like bundle parsing, key distribution and URL loading, and maps the subdirectories.
+relations:
+  - references /chrome/browser/web_applications/isolated_web_apps/README.md
+  - references /components/web_package/signed_web_bundles/README.md
+  - references /components/webapps/isolated_web_apps/AGENTS.md
+---
+
 # Isolated Web Apps Component (`components/webapps/isolated_web_apps`)
 
 This directory contains the core, browser-agnostic logic for Isolated Web Apps

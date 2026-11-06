@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAppUrlLoader implementation
+// summary: Implements WebAppUrlLoader, which navigates a WebContents to a URL, compares the resolved URL using configurable comparison modes, and enforces redirect constraints with a navigation throttle.
+// ---
+
 #include "components/webapps/browser/web_contents/web_app_url_loader.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: bundle_operations.cc
+// summary: Implements asynchronous operations on Signed Web Bundle files, including insecure ID reading, full signature and integrity block validation, and closing cached readers before bundle updates or deletion.
+// ---
+
 #include "components/webapps/isolated_web_apps/bundle_operations/bundle_operations.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LaunchParams class header
+// summary: Defines the LaunchParams class holding web app launch data such as app ID, target URL, scope, file paths, write permissions and navigation timing.
+// ---
+
 #ifndef COMPONENTS_WEBAPPS_BROWSER_LAUNCH_QUEUE_LAUNCH_PARAMS_H_
 #define COMPONENTS_WEBAPPS_BROWSER_LAUNCH_QUEUE_LAUNCH_PARAMS_H_
 

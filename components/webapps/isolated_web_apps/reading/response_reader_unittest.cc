@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Isolated Web App response reader unit tests
+// summary: Unit tests for IsolatedWebAppResponseReader that build signed bundles on disk and verify trust checks and response reading behavior.
+// ---
+
 #include "components/webapps/isolated_web_apps/reading/response_reader.h"
 
 #include <memory>

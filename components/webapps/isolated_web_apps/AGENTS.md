@@ -1,3 +1,13 @@
+---
+type: guide
+title: Isolated Web Apps Component Agent Guidelines
+summary: Agent-facing rules for the component, covering canonical docs, layering invariants, testing guardrails, and commands for running unit tests and gn checks.
+relations:
+  - references /chrome/browser/web_applications/isolated_web_apps/AGENTS.md
+  - references /components/web_package/signed_web_bundles/AGENTS.md
+  - references /components/webapps/AGENTS.md
+---
+
 # Isolated Web Apps Core Component (`components/webapps/isolated_web_apps`)
 
 **Parent:** [WebApps Guidelines](/components/webapps/AGENTS.md)

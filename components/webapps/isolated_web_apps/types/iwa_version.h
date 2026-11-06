@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IwaVersion class header
+// summary: Declares the IwaVersion wrapper around base::Version with Create factory methods, a parse error enum, a four-component limit, and comparison operators.
+// ---
+
 #ifndef COMPONENTS_WEBAPPS_ISOLATED_WEB_APPS_TYPES_IWA_VERSION_H_
 #define COMPONENTS_WEBAPPS_ISOLATED_WEB_APPS_TYPES_IWA_VERSION_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Isolated Web App URL loader declarations
+// summary: Declares the IsolatedWebAppURLLoader class with its CreateAndStart factory method for loading responses from Signed Web Bundles.
+// ---
+
 #ifndef COMPONENTS_WEBAPPS_ISOLATED_WEB_APPS_URL_LOADING_URL_LOADER_H_
 #define COMPONENTS_WEBAPPS_ISOLATED_WEB_APPS_URL_LOADING_URL_LOADER_H_
 

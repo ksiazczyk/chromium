@@ -1,3 +1,13 @@
+---
+type: readme
+title: IWA URL Loading
+summary: Documents the directory that implements the isolated-app protocol handler and the URL loader factory for Isolated Web Apps, listing its key components.
+relations:
+  - documents /components/webapps/isolated_web_apps/url_loading/header_utils.cc
+  - documents /components/webapps/isolated_web_apps/url_loading/header_utils.h
+  - documents /components/webapps/isolated_web_apps/url_loading/url_loader.cc
+---
+
 # IWA URL Loading (`components/webapps/isolated_web_apps/url_loading`)
 
 This directory implements the `isolated-app://` protocol handler and

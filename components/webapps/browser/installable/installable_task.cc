@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InstallableTask implementation
+// summary: Implements the state machine that runs installability checks step by step, fetching metadata, manifest, primary icon, and screenshots, then reports results through a callback.
+// ---
+
 #include "components/webapps/browser/installable/installable_task.h"
 
 #include <algorithm>

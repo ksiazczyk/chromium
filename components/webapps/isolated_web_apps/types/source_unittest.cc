@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IWA source unit tests
+// summary: Unit tests verifying equality, dev mode flags, and mode/file operation behavior of the IWA source bundle and proxy classes.
+// ---
+
 #include "components/webapps/isolated_web_apps/types/source.h"
 
 #include <variant>

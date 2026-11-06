@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test web app origin association fetcher implementation
+// summary: Implements a test double fetcher that returns canned web app origin association file content for a given origin via a posted task.
+// ---
+
 #include "components/webapps/services/web_app_origin_association/test/test_web_app_origin_association_fetcher.h"
 
 #include <memory>

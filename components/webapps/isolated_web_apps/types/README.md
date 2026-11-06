@@ -1,3 +1,13 @@
+---
+type: readme
+title: IWA Core Domain Types README
+summary: Documents the validated strong value types used across the Isolated Web Apps stack, including IwaOrigin, IwaVersion, IwaSource, storage locations, and update types.
+relations:
+  - documents /components/webapps/isolated_web_apps/types/url_loading_types.h
+  - documents /components/webapps/isolated_web_apps/types/isolated_web_app_external_install_options.cc
+  - documents /components/webapps/isolated_web_apps/types/isolated_web_app_external_install_options.h
+---
+
 # IWA Core Domain Types (`components/webapps/isolated_web_apps/types`)
 
 This directory defines validated strong value types used across the Isolated Web

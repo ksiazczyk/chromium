@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InstallableTaskQueue unit test
+// summary: Unit test verifying that the task queue returns the current task, advances past completed tasks, and reports when no tasks remain.
+// ---
+
 #include "components/webapps/browser/installable/installable_task_queue.h"
 
 #include "components/webapps/browser/installable/installable_manager.h"

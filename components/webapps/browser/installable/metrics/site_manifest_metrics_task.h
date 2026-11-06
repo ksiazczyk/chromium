@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SiteManifestMetricsTask class declaration
+// summary: Declares the SiteManifestMetricsTask class that gathers manifest data for a site's web contents to emit Site.Manifest UKM events, stopping collection when the object is destroyed.
+// ---
+
 #ifndef COMPONENTS_WEBAPPS_BROWSER_INSTALLABLE_METRICS_SITE_MANIFEST_METRICS_TASK_H_
 #define COMPONENTS_WEBAPPS_BROWSER_INSTALLABLE_METRICS_SITE_MANIFEST_METRICS_TASK_H_
 

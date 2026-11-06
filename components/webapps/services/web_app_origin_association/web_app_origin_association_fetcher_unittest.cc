@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the web app origin association fetcher
+// summary: Verifies fetcher behavior with an embedded test server, covering successful fetches, redirects, and fetch result histograms.
+// ---
+
 #include "components/webapps/services/web_app_origin_association/web_app_origin_association_fetcher.h"
 
 #include <optional>

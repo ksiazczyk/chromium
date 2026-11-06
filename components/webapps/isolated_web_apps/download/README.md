@@ -1,3 +1,12 @@
+---
+type: readme
+title: IWA Bundle Downloader
+summary: Explains that the directory downloads Signed Web Bundles to temporary files and describes the key downloader components.
+relations:
+  - documents /components/webapps/isolated_web_apps/download/bundle_downloader.cc
+  - documents /components/webapps/isolated_web_apps/download/bundle_downloader.h
+---
+
 # IWA Bundle Downloader (`components/webapps/isolated_web_apps/download`)
 
 This directory implements network downloading of Signed Web Bundles (`.swbn`) to

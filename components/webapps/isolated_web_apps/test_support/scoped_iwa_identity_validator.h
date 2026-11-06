@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped IWA identity validator declarations
+// summary: Declares a test-only identity validator that routes validation to IwaIdentityValidator and resets the global instance on destruction.
+// ---
+
 #ifndef COMPONENTS_WEBAPPS_ISOLATED_WEB_APPS_TEST_SUPPORT_SCOPED_IWA_IDENTITY_VALIDATOR_H_
 #define COMPONENTS_WEBAPPS_ISOLATED_WEB_APPS_TEST_SUPPORT_SCOPED_IWA_IDENTITY_VALIDATOR_H_
 

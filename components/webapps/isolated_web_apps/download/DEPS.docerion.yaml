@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the download directory
+summary: Allows includes of network service public headers, plus extra test network headers for the unit test file.

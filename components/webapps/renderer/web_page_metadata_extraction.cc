@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web page metadata extraction from the document head
+// summary: Parses link and meta tags in the document head to collect icons, application name, description, application URL and mobile capability into a WebPageMetadata structure.
+// ---
+
 #include "components/webapps/renderer/web_page_metadata_extraction.h"
 
 #include <stddef.h>

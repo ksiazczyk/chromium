@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IWA update check and prepare result types
+// summary: Defines success and error enums for isolated web app update checks and the expected-based result type used to report update outcomes.
+// ---
+
 #ifndef COMPONENTS_WEBAPPS_ISOLATED_WEB_APPS_TYPES_UPDATE_CHECK_AND_PREPARE_RESULT_H_
 #define COMPONENTS_WEBAPPS_ISOLATED_WEB_APPS_TYPES_UPDATE_CHECK_AND_PREPARE_RESULT_H_
 

@@ -1,3 +1,11 @@
+---
+type: reference
+title: 'Deep Dive: TWA Launch Parameters Handling'
+summary: Explains how TWA launch parameters are routed across the JNI boundary to the web app launch queue, including scope protections and edge cases.
+relations:
+  - references /components/webapps/docs/projects/twa-launch-params/design.md
+---
+
 # Deep Dive: TWA Launch Parameters Handling
 
 This document provides a technical deep dive into how Trusted Web Activity (TWA)

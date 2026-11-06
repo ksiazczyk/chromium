@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: bundle_operations.h
+// summary: Declares the public API for reading a bundle ID without signature verification, validating Signed Web Bundle signatures, and closing a bundle before its file is deleted.
+// ---
+
 #ifndef COMPONENTS_WEBAPPS_ISOLATED_WEB_APPS_BUNDLE_OPERATIONS_BUNDLE_OPERATIONS_H_
 #define COMPONENTS_WEBAPPS_ISOLATED_WEB_APPS_BUNDLE_OPERATIONS_BUNDLE_OPERATIONS_H_
 

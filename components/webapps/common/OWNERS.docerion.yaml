@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for webapps common
+summary: Grants IPC security owners review rights over all Mojom files in the webapps common directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Installable data fetcher header
+// summary: Declares InstallableDataFetcher, which fetches the manifest, metadata, icons, and screenshots needed for installability and caches them in InstallablePageData.
+// ---
+
 #ifndef COMPONENTS_WEBAPPS_BROWSER_INSTALLABLE_INSTALLABLE_DATA_FETCHER_H_
 #define COMPONENTS_WEBAPPS_BROWSER_INSTALLABLE_INSTALLABLE_DATA_FETCHER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Isolated Web App policy key constants implementation
+// summary: Defines the string constants for the keys of the IsolatedWebAppInstallForceList policy preference.
+// ---
+
 #include "components/webapps/isolated_web_apps/types/isolated_web_app_policy_constants.h"
 
 namespace web_app {

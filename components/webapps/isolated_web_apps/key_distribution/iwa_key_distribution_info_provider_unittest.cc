@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IWA key distribution info provider unit tests
+// summary: Unit tests for IwaKeyDistributionInfoProvider covering key rotation data, allowlists, special permissions, and component update behavior using component updater mocks.
+// ---
+
 #include "components/webapps/isolated_web_apps/key_distribution/iwa_key_distribution_info_provider.h"
 
 #include <optional>

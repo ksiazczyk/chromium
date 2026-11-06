@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebAppUrlLoader unit tests
+// summary: Unit tests for WebAppUrlLoader covering redirects, load failures, URL comparison results, and PrepareForLoad flushing of stale load events.
+// ---
+
 #include "components/webapps/browser/web_contents/web_app_url_loader.h"
 
 #include <memory>

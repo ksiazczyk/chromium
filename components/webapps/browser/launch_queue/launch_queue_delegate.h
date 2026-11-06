@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LaunchQueueDelegate interface
+// summary: Declares the abstract delegate interface used by LaunchQueue for scope checks, path info lookup and launch parameter validation.
+// ---
+
 #ifndef COMPONENTS_WEBAPPS_BROWSER_LAUNCH_QUEUE_LAUNCH_QUEUE_DELEGATE_H_
 #define COMPONENTS_WEBAPPS_BROWSER_LAUNCH_QUEUE_LAUNCH_QUEUE_DELEGATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InstallableIconFetcher class declaration
+// summary: Declares the class that fetches the primary install icon from manifest icons or favicons and stores the result in InstallablePageData.
+// ---
+
 #ifndef COMPONENTS_WEBAPPS_BROWSER_INSTALLABLE_INSTALLABLE_ICON_FETCHER_H_
 #define COMPONENTS_WEBAPPS_BROWSER_INSTALLABLE_INSTALLABLE_ICON_FETCHER_H_
 

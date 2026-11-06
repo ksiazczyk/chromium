@@ -1,3 +1,12 @@
+---
+type: readme
+title: IWA Identity Validation
+summary: Explains that this directory validates the cryptographic identity of Signed Web Bundles against their SignedWebBundleId and key rotation rules, and introduces the IwaIdentityValidator component.
+relations:
+  - documents /components/webapps/isolated_web_apps/identity/iwa_identity_validator.cc
+  - documents /components/webapps/isolated_web_apps/identity/iwa_identity_validator.h
+---
+
 # IWA Identity Validation (`components/webapps/isolated_web_apps/identity`)
 
 This directory validates the cryptographic identity of Signed Web Bundles

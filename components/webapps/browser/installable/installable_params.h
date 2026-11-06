@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InstallableParams header with installability criteria
+// summary: Defines the InstallableParams struct and InstallableCriteria enum that specify which checks the InstallableManager performs, such as eligibility, manifest validation, icons, and screenshots.
+// ---
+
 #ifndef COMPONENTS_WEBAPPS_BROWSER_INSTALLABLE_INSTALLABLE_PARAMS_H_
 #define COMPONENTS_WEBAPPS_BROWSER_INSTALLABLE_INSTALLABLE_PARAMS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ValidManifestId unit tests
+// summary: Tests ValidManifestId creation, hashing, fragment stripping, comparison operators, and GURL equality handling.
+// ---
+
 #include "components/webapps/common/manifest_id.h"
 
 #include <optional>

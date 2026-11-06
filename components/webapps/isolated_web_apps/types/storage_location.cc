@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IWA storage location implementations
+// summary: Implements owned, unowned, and proxy IWA storage location variants, including bundle path resolution and debug value serialization.
+// ---
+
 #include "components/webapps/isolated_web_apps/types/storage_location.h"
 
 #include <string>

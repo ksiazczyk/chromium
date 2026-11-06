@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UpdateChannel implementation
+// summary: Implements the UpdateChannel class, including the default channel and validated creation from non-empty UTF-8 channel names.
+// ---
+
 #include "components/webapps/isolated_web_apps/types/update_channel.h"
 
 #include <string>

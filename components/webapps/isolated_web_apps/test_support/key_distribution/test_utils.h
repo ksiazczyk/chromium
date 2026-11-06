@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Key distribution test utilities header
+// summary: Declares test support types for the IWA key distribution component, including KeyDistributionComponent for injecting or uploading component data and a builder for configuring key rotations and access control in tests.
+// ---
+
 #ifndef COMPONENTS_WEBAPPS_ISOLATED_WEB_APPS_TEST_SUPPORT_KEY_DISTRIBUTION_TEST_UTILS_H_
 #define COMPONENTS_WEBAPPS_ISOLATED_WEB_APPS_TEST_SUPPORT_KEY_DISTRIBUTION_TEST_UTILS_H_
 

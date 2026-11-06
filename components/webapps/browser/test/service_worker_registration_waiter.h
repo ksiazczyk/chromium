@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker registration waiter header
+// summary: Declares the ServiceWorkerRegistrationWaiter class, a service worker context observer used in web app tests to await registration completion or storage.
+// ---
+
 #ifndef COMPONENTS_WEBAPPS_BROWSER_TEST_SERVICE_WORKER_REGISTRATION_WAITER_H_
 #define COMPONENTS_WEBAPPS_BROWSER_TEST_SERVICE_WORKER_REGISTRATION_WAITER_H_
 

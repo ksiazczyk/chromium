@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IWA URL loading helper utilities implementation
+// summary: Implements helpers for completing requests with synthetic HTTP responses, logging errors to the DevTools console, and forwarding dev-mode proxy requests.
+// ---
+
 #include "components/webapps/isolated_web_apps/url_loading/utils.h"
 
 #include <optional>

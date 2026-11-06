@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IwaClient Singleton Implementation
+// summary: Implements the IwaClient singleton by storing and checking the single global instance and providing GetInstance access for the embedder bridge.
+// ---
+
 #include "components/webapps/isolated_web_apps/client.h"
 
 namespace web_app {

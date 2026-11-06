@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtractWebPageMetadata function declaration
+// summary: Declares ExtractWebPageMetadata, which reads metadata from the document in a given frame and always returns a non-null metadata object.
+// ---
+
 #ifndef COMPONENTS_WEBAPPS_RENDERER_WEB_PAGE_METADATA_EXTRACTION_H_
 #define COMPONENTS_WEBAPPS_RENDERER_WEB_PAGE_METADATA_EXTRACTION_H_
 

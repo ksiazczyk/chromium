@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MojoWebBundleParser implementation
+// summary: Implements parsing of integrity blocks, metadata, and responses for (signed) web bundles through a Mojo parser service, using file-based data sources.
+// ---
+
 #include "components/webapps/isolated_web_apps/reading/mojo_web_bundle_parser.h"
 
 #include <memory>

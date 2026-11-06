@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN Build Targets for the Isolated Web Apps Component
+summary: Defines the component, source group, scheme and client targets with visibility and dependency restrictions, plus aggregation of subpackage unit tests.

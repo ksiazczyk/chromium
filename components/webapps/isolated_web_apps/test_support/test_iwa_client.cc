@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TestIwaClient implementation for isolated web apps
+// summary: Implements a test IwaClient whose RunWhenAppCloses and GetIwaSourceForRequest methods are unimplemented while it stores and returns the IwaRuntimeDataProvider.
+// ---
+
 #include "components/webapps/isolated_web_apps/test_support/test_iwa_client.h"
 
 #include "base/notreached.h"

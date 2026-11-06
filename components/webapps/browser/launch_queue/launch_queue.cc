@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LaunchQueue implementation
+// summary: Implements the launch queue that validates, scopes and sends launch parameters to a WebContents, building file system access entries for launched files and directories.
+// ---
+
 #include "components/webapps/browser/launch_queue/launch_queue.h"
 
 #include <memory>

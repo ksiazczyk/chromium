@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the web app origin association test directory
+summary: Declares the include rules allowing app service, web app origin association, network, and URL dependencies in this test directory.

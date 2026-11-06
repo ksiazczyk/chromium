@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Isolated Web App external install options implementation
+// summary: Implements parsing and validation of IsolatedWebAppInstallForceList policy entries into external install options covering update manifest URL, bundle ID, channel, and pinned version.
+// ---
+
 #include "components/webapps/isolated_web_apps/types/isolated_web_app_external_install_options.h"
 
 #include <optional>

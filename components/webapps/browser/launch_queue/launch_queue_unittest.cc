@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LaunchQueue unit tests
+// summary: Unit tests for LaunchQueue using a mock delegate and a fake WebLaunchService to verify enqueueing and delivery of launch parameters.
+// ---
+
 #include "components/webapps/browser/launch_queue/launch_queue.h"
 
 #include <memory>

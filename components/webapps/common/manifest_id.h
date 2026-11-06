@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ValidManifestId strong type declaration
+// summary: Declares the ValidManifestId strong type that parses web app manifest IDs per the W3C appmanifest id algorithm and strips URL fragments.
+// ---
+
 #ifndef COMPONENTS_WEBAPPS_COMMON_MANIFEST_ID_H_
 #define COMPONENTS_WEBAPPS_COMMON_MANIFEST_ID_H_
 

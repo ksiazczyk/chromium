@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Isolated Web App URL loader factory declarations
+// summary: Declares the IsolatedWebAppURLLoaderFactory with creation methods for frames and non-frame contexts, including same-origin enforcement options.
+// ---
+
 #ifndef COMPONENTS_WEBAPPS_ISOLATED_WEB_APPS_URL_LOADING_URL_LOADER_FACTORY_H_
 #define COMPONENTS_WEBAPPS_ISOLATED_WEB_APPS_URL_LOADING_URL_LOADER_FACTORY_H_
 

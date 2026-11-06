@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IWA source type implementations
+// summary: Implements bundle- and proxy-based Isolated Web App source classes, dev/prod file operation enums, conversions, and debug value serialization.
+// ---
+
 #include "components/webapps/isolated_web_apps/types/source.h"
 
 #include <ostream>
