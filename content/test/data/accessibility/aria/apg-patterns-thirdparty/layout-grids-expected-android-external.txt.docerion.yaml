@@ -1,0 +1,4 @@
+# Docerion header of layout-grids-expected-android-external.txt.
+type: test
+title: Layout grids expected Android external accessibility tree
+summary: Expected Android external-format accessibility tree for the ARIA Authoring Practices layout grids example, used as test expectation data.

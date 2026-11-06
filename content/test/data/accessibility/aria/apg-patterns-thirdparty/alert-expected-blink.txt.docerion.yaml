@@ -1,0 +1,4 @@
+# Docerion header of alert-expected-blink.txt.
+type: test
+title: Alert pattern expected Blink accessibility tree
+summary: Expected Blink accessibility tree snapshot for the ARIA alert example, with rootWebArea, generic containers, and a Trigger Alert button.

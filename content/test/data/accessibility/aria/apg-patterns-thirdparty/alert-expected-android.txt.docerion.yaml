@@ -1,0 +1,4 @@
+# Docerion header of alert-expected-android.txt.
+type: test
+title: Alert pattern expected Android accessibility tree
+summary: Expected Android accessibility tree snapshot for the ARIA alert example, showing a WebView, container view, and clickable Trigger Alert button.

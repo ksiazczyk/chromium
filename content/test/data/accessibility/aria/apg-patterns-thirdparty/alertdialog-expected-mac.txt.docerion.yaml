@@ -1,0 +1,4 @@
+# Docerion header of alertdialog-expected-mac.txt.
+type: test
+title: Alert dialog pattern expected macOS accessibility tree
+summary: Expected macOS accessibility tree snapshot for the ARIA alert dialog example, with AXApplicationAlertDialog subrole, heading, static text, and buttons.

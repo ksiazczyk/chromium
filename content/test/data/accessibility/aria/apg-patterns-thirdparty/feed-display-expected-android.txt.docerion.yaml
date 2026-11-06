@@ -1,0 +1,4 @@
+# Docerion header of feed-display-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for feed display
+summary: Expected Android accessibility tree snapshot for the feed display ARIA example, capturing the restaurant feed article with rating, location and bookmark button.

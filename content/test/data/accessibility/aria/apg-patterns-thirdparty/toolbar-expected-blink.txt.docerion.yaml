@@ -1,0 +1,4 @@
+# Docerion header of toolbar-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for toolbar example
+summary: Expected Blink accessibility tree snapshot for the ARIA toolbar example, used to verify the rendered accessibility structure of toolbar controls.

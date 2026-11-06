@@ -1,0 +1,4 @@
+# Docerion header of table-expected-mac.txt.
+type: test
+title: Table example expected macOS accessibility tree
+summary: Expected macOS accessibility tree for the Table Example, describing the students table with AXTable, AXRow, AXColumn and AXCell nodes.

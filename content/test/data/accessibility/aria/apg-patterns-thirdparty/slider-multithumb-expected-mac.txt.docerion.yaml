@@ -1,0 +1,4 @@
+# Docerion header of slider-multithumb-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for the multi-thumb slider example
+summary: Expected macOS AX accessibility tree snapshot for the horizontal multi-thumb slider example with the hotel price range heading and sliders.

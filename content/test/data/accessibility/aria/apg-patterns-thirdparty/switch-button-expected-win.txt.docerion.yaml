@@ -1,0 +1,4 @@
+# Docerion header of switch-button-expected-win.txt.
+type: test
+title: Switch button expected Windows accessibility tree
+summary: Expected Windows accessibility tree for the Switch Example Using HTML Button, with grouping, heading, and toggle button roles for the two switches.

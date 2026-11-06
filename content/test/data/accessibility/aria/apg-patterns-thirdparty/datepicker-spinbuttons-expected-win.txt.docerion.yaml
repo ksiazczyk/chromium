@@ -1,0 +1,4 @@
+# Docerion header of datepicker-spinbuttons-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for date picker spin buttons
+summary: Expected Windows accessibility tree snapshot for the date picker spin buttons example, using spinbutton and pushbutton roles.

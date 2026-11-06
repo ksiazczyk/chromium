@@ -1,0 +1,4 @@
+# Docerion header of switch-expected-mac.txt.
+type: test
+title: Switch example expected macOS accessibility tree
+summary: Expected macOS accessibility tree for the Switch Example, showing the Notifications switch exposed as an AXCheckBox with the AXSwitch subrole.

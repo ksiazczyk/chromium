@@ -1,0 +1,4 @@
+# Docerion header of feed-display-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility tree for feed display
+summary: Expected Android accessibility tree snapshot in external format for the feed display ARIA example, capturing the restaurant feed articles and bookmark buttons.

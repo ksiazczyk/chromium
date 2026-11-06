@@ -1,0 +1,4 @@
+# Docerion header of feed-expected-android-external.txt.
+type: test
+title: Feed example expected Android accessibility tree (external format)
+summary: Expected accessibility tree of the Infinite Scrolling Feed Example page in the Android external serialization format, used as test expectation data.

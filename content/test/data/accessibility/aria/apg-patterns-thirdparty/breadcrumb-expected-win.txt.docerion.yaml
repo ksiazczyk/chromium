@@ -1,0 +1,4 @@
+# Docerion header of breadcrumb-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for APG breadcrumb example
+summary: Expected Windows IAccessible2 tree for the WAI-ARIA breadcrumb example with document, landmark, list and link roles.

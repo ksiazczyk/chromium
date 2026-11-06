@@ -1,0 +1,4 @@
+# Docerion header of tabs-automatic-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for tabs automatic activation example
+summary: Expected Windows (IA2) accessibility tree snapshot of the ARIA tabs with automatic activation example, used to verify platform-specific accessibility output.

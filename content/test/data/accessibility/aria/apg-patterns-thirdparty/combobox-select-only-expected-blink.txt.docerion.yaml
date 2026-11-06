@@ -1,0 +1,4 @@
+# Docerion header of combobox-select-only-expected-blink.txt.
+type: test
+title: Select-only combobox expected Blink accessibility tree
+summary: Expected Blink accessibility tree for the Select-Only Combobox Example with roles, names and values.

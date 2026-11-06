@@ -1,0 +1,4 @@
+# Docerion header of slider-rating-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for rating slider
+summary: Expected Blink accessibility tree snapshot for the rating slider example, showing the slider's aria value text and its range bounds from zero to ten.

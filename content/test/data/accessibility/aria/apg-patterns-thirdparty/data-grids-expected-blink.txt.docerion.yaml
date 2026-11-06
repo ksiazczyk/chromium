@@ -1,0 +1,4 @@
+# Docerion header of data-grids-expected-blink.txt.
+type: test
+title: Data grids expected Blink accessibility tree
+summary: Expected Blink accessibility tree snapshot for the ARIA data grids example, with headings, grid rows, column headers, cells and links.

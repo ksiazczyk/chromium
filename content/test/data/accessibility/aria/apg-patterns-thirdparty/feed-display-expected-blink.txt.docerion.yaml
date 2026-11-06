@@ -1,0 +1,4 @@
+# Docerion header of feed-display-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for feed display
+summary: Expected Blink accessibility tree snapshot for the feed display ARIA example, describing the feed and article nodes of the restaurant list.

@@ -1,0 +1,4 @@
+# Docerion header of disclosure-image-description-expected-blink.txt.
+type: test
+title: Disclosure image description expected tree, Blink
+summary: Expected Blink accessibility tree snapshot of the disclosure image description example, including inline text boxes and ignored nodes, used as a test expectation.

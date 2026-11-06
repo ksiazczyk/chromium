@@ -1,0 +1,4 @@
+# Docerion header of datepicker-dialog-expected-android-external.txt.
+type: test
+title: Date picker dialog expected Android external accessibility tree
+summary: Expected Android accessibility tree snapshot in external format for the ARIA date picker dialog example, covering the date text field and Choose Date button.

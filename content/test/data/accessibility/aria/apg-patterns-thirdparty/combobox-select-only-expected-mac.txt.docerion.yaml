@@ -1,0 +1,4 @@
+# Docerion header of combobox-select-only-expected-mac.txt.
+type: test
+title: Select-only combobox expected Mac accessibility tree
+summary: Expected macOS accessibility tree for the Select-Only Combobox Example with AX roles, titles and values.

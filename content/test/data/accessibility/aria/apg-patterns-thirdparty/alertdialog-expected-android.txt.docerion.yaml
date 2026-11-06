@@ -1,0 +1,4 @@
+# Docerion header of alertdialog-expected-android.txt.
+type: test
+title: Alert dialog pattern expected Android accessibility tree
+summary: Expected Android accessibility tree snapshot for the ARIA alert dialog example with an AlertDialog, heading, discard-notes message, and No/Yes buttons.

@@ -1,0 +1,4 @@
+# Docerion header of combobox-autocomplete-both-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for combobox with both autocomplete
+summary: Expected Blink accessibility tree snapshot for the editable combobox with both list and inline autocomplete example, verifying roles and expanded states.

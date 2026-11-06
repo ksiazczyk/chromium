@@ -1,0 +1,4 @@
+# Docerion header of link-expected-mac.txt.
+type: test
+title: Link examples expected macOS accessibility tree
+summary: Expected macOS AX accessibility tree for the ARIA Authoring Practices link examples page, used as test expectation data.

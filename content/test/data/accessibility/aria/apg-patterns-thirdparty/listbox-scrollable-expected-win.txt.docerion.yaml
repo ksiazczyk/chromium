@@ -1,0 +1,4 @@
+# Docerion header of listbox-scrollable-expected-win.txt.
+type: test
+title: Listbox scrollable expected Win tree
+summary: Expected Windows accessibility tree snapshot of the scrollable listbox example, used as test data for accessibility tree comparisons.

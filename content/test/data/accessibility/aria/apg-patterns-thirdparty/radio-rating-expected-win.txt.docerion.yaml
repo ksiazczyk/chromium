@@ -1,0 +1,4 @@
+# Docerion header of radio-rating-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for the rating radio group example
+summary: Expected Windows (IA2) accessibility tree snapshot for the ARIA rating radio group example, listing the five star radio buttons for test verification.

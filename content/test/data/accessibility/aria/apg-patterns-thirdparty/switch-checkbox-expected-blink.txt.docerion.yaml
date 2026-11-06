@@ -1,0 +1,4 @@
+# Docerion header of switch-checkbox-expected-blink.txt.
+type: test
+title: Switch checkbox expected Blink accessibility tree
+summary: Expected Blink accessibility tree for the Switch Example Using HTML Checkbox Input, including the legend, labels, switches, and ignored invisible containers.

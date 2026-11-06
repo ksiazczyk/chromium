@@ -1,0 +1,4 @@
+# Docerion header of listbox-scrollable-expected-blink.txt.
+type: test
+title: Listbox scrollable expected Blink tree
+summary: Expected Blink accessibility tree snapshot of the scrollable listbox example, used as test data for accessibility tree comparisons.

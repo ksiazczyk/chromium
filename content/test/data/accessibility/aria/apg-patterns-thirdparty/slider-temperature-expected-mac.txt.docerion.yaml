@@ -1,0 +1,4 @@
+# Docerion header of slider-temperature-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for temperature slider example
+summary: Expected macOS (AX) accessibility tree snapshot for the vertical temperature slider ARIA example, used to verify platform accessibility output in tests.

@@ -1,0 +1,4 @@
+# Docerion header of quantity-spinbutton-expected-android-external.txt.
+type: test
+title: Quantity spinbutton expected Android external accessibility tree
+summary: Expected Android external accessibility tree snapshot for the quantity spin button example, detailing guests, kids, and animals spin buttons with ranges and status regions.

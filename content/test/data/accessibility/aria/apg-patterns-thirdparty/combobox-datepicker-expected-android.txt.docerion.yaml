@@ -1,0 +1,4 @@
+# Docerion header of combobox-datepicker-expected-android.txt.
+type: test
+title: Date picker combobox expected Android accessibility tree
+summary: Expected Android accessibility tree for the Date Picker Combobox Example, describing widget types, names, hints and states for the accessibility test.

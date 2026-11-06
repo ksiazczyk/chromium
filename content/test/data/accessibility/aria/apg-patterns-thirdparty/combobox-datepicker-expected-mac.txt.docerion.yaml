@@ -1,0 +1,4 @@
+# Docerion header of combobox-datepicker-expected-mac.txt.
+type: test
+title: Date picker combobox expected Mac accessibility tree
+summary: Expected macOS accessibility tree for the Date Picker Combobox Example with AX roles, titles and descriptions.

@@ -1,0 +1,4 @@
+# Docerion header of slider-temperature-expected-android-external.txt.
+type: test
+title: Expected external Android accessibility tree for temperature slider example
+summary: Expected Android external accessibility tree snapshot for the vertical temperature slider ARIA example, used to verify rendered accessibility output in tests.

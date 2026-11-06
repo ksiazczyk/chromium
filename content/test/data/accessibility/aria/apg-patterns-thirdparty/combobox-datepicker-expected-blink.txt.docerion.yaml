@@ -1,0 +1,4 @@
+# Docerion header of combobox-datepicker-expected-blink.txt.
+type: test
+title: Date picker combobox expected Blink accessibility tree
+summary: Expected Blink accessibility tree for the Date Picker Combobox Example, including ignored and invisible nodes such as the date grid.

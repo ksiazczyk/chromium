@@ -1,0 +1,4 @@
+# Docerion header of disclosure-navigation-hybrid-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility tree for disclosure navigation hybrid
+summary: Expected Android accessibility tree snapshot in external format for the disclosure navigation hybrid ARIA example, used as test data for Chromium accessibility tests.

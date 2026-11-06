@@ -1,0 +1,4 @@
+# Docerion header of slider-seek-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for media seek slider
+summary: Expected Android accessibility tree snapshot for the media seek slider example, with a SeekBar range up to 300 seconds and time labels from 0:00 to 5:00.

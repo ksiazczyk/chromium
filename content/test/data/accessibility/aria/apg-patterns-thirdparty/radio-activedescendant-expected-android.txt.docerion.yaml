@@ -1,0 +1,4 @@
+# Docerion header of radio-activedescendant-expected-android.txt.
+type: test
+title: Radio activedescendant expected Android accessibility tree
+summary: Expected Android accessibility tree snapshot for the radio group example using aria-activedescendant, listing radio buttons for crust and delivery options with checked states.

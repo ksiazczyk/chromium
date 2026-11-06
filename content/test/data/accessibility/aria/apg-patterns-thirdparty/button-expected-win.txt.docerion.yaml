@@ -1,0 +1,4 @@
+# Docerion header of button-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for APG button examples
+summary: Expected Windows IAccessible2 tree for the WAI-ARIA button examples with push button and toggle button roles.

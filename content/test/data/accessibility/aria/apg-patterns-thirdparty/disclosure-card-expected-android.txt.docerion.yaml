@@ -1,0 +1,4 @@
+# Docerion header of disclosure-card-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for disclosure card example
+summary: Expected Android accessibility tree snapshot for the disclosure (show/hide) card ARIA APG example, listing headings, list items, and collapsed detail buttons.

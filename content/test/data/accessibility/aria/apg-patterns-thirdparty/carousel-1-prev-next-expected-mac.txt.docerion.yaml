@@ -1,0 +1,4 @@
+# Docerion header of carousel-1-prev-next-expected-mac.txt.
+type: test
+title: Carousel prev-next expected macOS accessibility tree
+summary: Expected macOS AX accessibility tree snapshot for the auto-rotating carousel example with previous and next slide control buttons.

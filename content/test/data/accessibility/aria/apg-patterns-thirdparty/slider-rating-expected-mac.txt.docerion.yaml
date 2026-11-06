@@ -1,0 +1,4 @@
+# Docerion header of slider-rating-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for rating slider
+summary: Expected macOS accessibility tree snapshot for the rating slider example, with an AXSlider exposing the satisfaction rating prompt and value.

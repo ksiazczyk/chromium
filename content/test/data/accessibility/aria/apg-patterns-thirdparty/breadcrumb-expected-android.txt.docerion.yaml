@@ -1,0 +1,4 @@
+# Docerion header of breadcrumb-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for APG breadcrumb example
+summary: Expected Android accessibility tree snapshot for the WAI-ARIA breadcrumb example, listing views, links and static text nodes used in accessibility tests.

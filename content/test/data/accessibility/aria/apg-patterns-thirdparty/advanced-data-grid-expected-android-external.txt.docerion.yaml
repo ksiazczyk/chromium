@@ -1,0 +1,4 @@
+# Docerion header of advanced-data-grid-expected-android-external.txt.
+type: test
+title: Advanced data grid expected Android external accessibility tree
+summary: Expected Android accessibility tree in external format for the advanced data grid example, currently containing two introductory paragraphs.

@@ -1,0 +1,4 @@
+# Docerion header of listbox-scrollable-expected-mac.txt.
+type: test
+title: Listbox scrollable expected Mac tree
+summary: Expected macOS accessibility tree snapshot of the scrollable listbox example, used as test data for accessibility tree comparisons.

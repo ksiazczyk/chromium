@@ -1,0 +1,4 @@
+# Docerion header of alertdialog-expected-android-external.txt.
+type: test
+title: Alert dialog pattern expected Android external accessibility tree
+summary: Expected Android WebView accessibility tree snapshot for the ARIA alert dialog example, including the confirmation dialog, heading, message text, and No/Yes buttons.

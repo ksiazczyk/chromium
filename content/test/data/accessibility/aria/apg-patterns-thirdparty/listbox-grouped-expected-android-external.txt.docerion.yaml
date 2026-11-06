@@ -1,0 +1,4 @@
+# Docerion header of listbox-grouped-expected-android-external.txt.
+type: test
+title: Expected Android external tree for grouped listbox example
+summary: Expected Android external accessibility tree snapshot for the listbox example with grouped options, used to verify rendered accessibility output.

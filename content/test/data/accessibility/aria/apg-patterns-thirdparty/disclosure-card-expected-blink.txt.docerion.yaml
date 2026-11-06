@@ -1,0 +1,4 @@
+# Docerion header of disclosure-card-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for disclosure card example
+summary: Expected Blink accessibility tree snapshot for the disclosure card ARIA APG example, describing roles such as article, heading, and collapsed buttons.

@@ -1,0 +1,4 @@
+# Docerion header of tabs-actions-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for tabs with action buttons
+summary: Expected Windows accessibility tree snapshot for the tabs with action buttons example, covering the page tab list, menu buttons and the nurse shark tab panel.

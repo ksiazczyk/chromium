@@ -1,0 +1,4 @@
+# Docerion header of checkbox-expected-blink.txt.
+type: test
+title: Checkbox expected Blink accessibility tree
+summary: Expected Blink accessibility tree snapshot for the two-state checkbox example, used as test data for ARIA APG third-party pattern checks.

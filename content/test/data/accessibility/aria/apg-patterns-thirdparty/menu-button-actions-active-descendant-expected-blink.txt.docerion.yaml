@@ -1,0 +1,4 @@
+# Docerion header of menu-button-actions-active-descendant-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for menu-button-actions-active-descendant
+summary: Expected Blink accessibility tree snapshot for the ARIA actions menu button example using aria-activedescendant, used by accessibility tests.

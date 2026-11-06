@@ -1,0 +1,4 @@
+# Docerion header of disclosure-navigation-expected-android.txt.
+type: test
+title: Disclosure navigation expected tree, Android
+summary: Expected Android accessibility tree snapshot of the disclosure navigation menu example with navigation view, list items and page content region for test comparison.

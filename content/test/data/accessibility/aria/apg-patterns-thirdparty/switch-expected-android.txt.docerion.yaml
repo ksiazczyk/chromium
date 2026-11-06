@@ -1,0 +1,4 @@
+# Docerion header of switch-expected-android.txt.
+type: test
+title: Switch example expected Android accessibility tree
+summary: Expected Android accessibility tree for the Switch Example, describing the WebView hierarchy and the checkable Notifications switch with state Off.

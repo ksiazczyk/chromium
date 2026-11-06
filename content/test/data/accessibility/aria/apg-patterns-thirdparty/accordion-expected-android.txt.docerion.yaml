@@ -1,0 +1,4 @@
+# Docerion header of accordion-expected-android.txt.
+type: test
+title: Accordion expected Android accessibility tree
+summary: Expected Android accessibility tree for the ARIA accordion example, describing headings, buttons and text fields for accessibility test verification.

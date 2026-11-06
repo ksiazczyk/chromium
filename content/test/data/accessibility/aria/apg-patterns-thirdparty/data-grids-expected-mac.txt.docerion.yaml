@@ -1,0 +1,4 @@
+# Docerion header of data-grids-expected-mac.txt.
+type: test
+title: Data grids expected macOS accessibility tree
+summary: Expected macOS accessibility tree snapshot for the ARIA data grids example, using AX roles for the transactions table rows, columns and cells.

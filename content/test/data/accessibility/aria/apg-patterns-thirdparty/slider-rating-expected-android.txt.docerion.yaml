@@ -1,0 +1,4 @@
+# Docerion header of slider-rating-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for rating slider
+summary: Expected Android accessibility tree snapshot for the rating slider example, with a SeekBar exposing a range up to ten for the satisfaction rating.

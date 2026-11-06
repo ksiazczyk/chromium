@@ -1,0 +1,4 @@
+# Docerion header of slider-seek-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for media seek slider example
+summary: Expected Windows (MSAA/IA2) accessibility tree snapshot for the ARIA media seek slider example, used to verify platform accessibility output in tests.

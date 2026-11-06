@@ -1,0 +1,4 @@
+# Docerion header of link-expected-win.txt.
+type: test
+title: Link examples expected Windows accessibility tree
+summary: Expected Windows IAccessible2 accessibility tree for the ARIA Authoring Practices link examples page, used as test expectation data.

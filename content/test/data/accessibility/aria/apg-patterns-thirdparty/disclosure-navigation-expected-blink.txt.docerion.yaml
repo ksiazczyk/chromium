@@ -1,0 +1,4 @@
+# Docerion header of disclosure-navigation-expected-blink.txt.
+type: test
+title: Disclosure navigation expected tree, Blink
+summary: Expected Blink accessibility tree snapshot of the disclosure navigation menu example, listing collapsed buttons and landmark roles used as a test expectation.

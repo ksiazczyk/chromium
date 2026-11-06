@@ -1,0 +1,4 @@
+# Docerion header of disclosure-card-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for disclosure card example
+summary: Expected Windows accessibility tree snapshot for the disclosure card ARIA APG example using MSAA and IAccessible2 roles.

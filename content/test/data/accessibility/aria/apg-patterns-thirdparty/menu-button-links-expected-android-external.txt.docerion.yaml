@@ -1,0 +1,4 @@
+# Docerion header of menu-button-links-expected-android-external.txt.
+type: test
+title: Menu button links expected Android external accessibility tree
+summary: Expected Android accessibility tree with supplemental descriptions for the Navigation Menu Button Example, used as test data for the APG menu button links pattern.

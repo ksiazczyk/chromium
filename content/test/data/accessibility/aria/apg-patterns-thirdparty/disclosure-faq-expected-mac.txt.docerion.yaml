@@ -1,0 +1,4 @@
+# Docerion header of disclosure-faq-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for disclosure FAQ example
+summary: Expected macOS accessibility tree snapshot for the disclosure FAQ ARIA APG example with AX buttons for each parking question.

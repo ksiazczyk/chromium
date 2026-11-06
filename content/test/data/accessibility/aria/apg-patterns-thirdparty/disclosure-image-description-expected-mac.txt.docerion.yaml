@@ -1,0 +1,4 @@
+# Docerion header of disclosure-image-description-expected-mac.txt.
+type: test
+title: Disclosure image description expected tree, macOS
+summary: Expected macOS AX accessibility tree snapshot of the disclosure image description example, capturing image, static text and button output for test verification.

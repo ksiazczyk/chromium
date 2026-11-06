@@ -1,0 +1,4 @@
+# Docerion header of data-grids-expected-android-external.txt.
+type: test
+title: Data grids expected Android external accessibility tree
+summary: Expected Android accessibility tree snapshot in external format for the ARIA data grids example, listing roles, actions and collection info for the transactions grid.

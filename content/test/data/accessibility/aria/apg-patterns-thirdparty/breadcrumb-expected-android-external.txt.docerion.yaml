@@ -1,0 +1,4 @@
+# Docerion header of breadcrumb-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility tree for APG breadcrumb example
+summary: Expected Android accessibility tree in the external chromeRole format for the WAI-ARIA breadcrumb example, used as test data for Chromium accessibility tests.

@@ -1,0 +1,4 @@
+# Docerion header of accordion-expected-mac.txt.
+type: test
+title: Accordion expected Mac accessibility tree
+summary: Expected macOS accessibility tree for the ARIA accordion example, capturing AX roles and titles for test verification.

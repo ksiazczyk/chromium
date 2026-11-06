@@ -1,0 +1,4 @@
+# Docerion header of grid-combo-expected-blink.txt.
+type: test
+title: Grid combobox example expected Blink accessibility tree
+summary: Expected Blink accessibility tree snapshot of the Editable Combobox with Grid Popup Example page, used as test expectation data.

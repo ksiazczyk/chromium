@@ -1,0 +1,4 @@
+# Docerion header of radio-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for radio group with roving tabindex
+summary: Expected Blink accessibility tree snapshot for the APG radio group example using roving tabindex, covering the pizza crust and delivery radio groups and their buttons.

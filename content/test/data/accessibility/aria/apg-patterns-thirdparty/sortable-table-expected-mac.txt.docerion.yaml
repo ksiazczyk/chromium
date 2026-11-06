@@ -1,0 +1,4 @@
+# Docerion header of sortable-table-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for sortable table example
+summary: Expected macOS (AX) accessibility tree snapshot for the sortable table ARIA example, used to verify platform accessibility output in tests.

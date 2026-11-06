@@ -1,0 +1,4 @@
+# Docerion header of quantity-spinbutton-expected-android.txt.
+type: test
+title: Quantity spinbutton expected Android accessibility tree
+summary: Expected Android accessibility tree snapshot for the quantity spin button example, listing spin buttons, add and remove buttons, and live regions for adults, kids, and animals.

@@ -1,0 +1,4 @@
+# Docerion header of breadcrumb-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for APG breadcrumb example
+summary: Expected macOS AX accessibility tree for the WAI-ARIA breadcrumb example with a navigation landmark, list and link nodes.

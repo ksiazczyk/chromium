@@ -1,0 +1,4 @@
+# Docerion header of meter-expected-blink.txt.
+type: test
+title: Meter expected Blink accessibility tree
+summary: Expected Blink accessibility tree snapshot for the ARIA meter example, used to verify the rendered accessibility node structure.

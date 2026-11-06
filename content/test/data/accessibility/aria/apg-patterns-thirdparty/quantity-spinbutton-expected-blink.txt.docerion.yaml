@@ -1,0 +1,4 @@
+# Docerion header of quantity-spinbutton-expected-blink.txt.
+type: test
+title: Quantity spinbutton expected Blink accessibility tree
+summary: Expected Blink accessibility tree snapshot for the quantity spin button example, showing spin buttons with range values, buttons, and status nodes for adults, kids, and animals.

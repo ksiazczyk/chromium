@@ -1,0 +1,4 @@
+# Docerion header of treegrid-1-expected-blink.txt.
+type: test
+title: Treegrid example expected Blink accessibility tree
+summary: Expected Blink accessibility tree snapshot of the treegrid email inbox example, serving as a test baseline.

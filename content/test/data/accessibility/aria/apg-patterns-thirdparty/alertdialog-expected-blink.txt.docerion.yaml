@@ -1,0 +1,4 @@
+# Docerion header of alertdialog-expected-blink.txt.
+type: test
+title: Alert dialog pattern expected Blink accessibility tree
+summary: Expected Blink accessibility tree snapshot for the ARIA alert dialog example, covering alertDialog, heading, paragraph, and button nodes.

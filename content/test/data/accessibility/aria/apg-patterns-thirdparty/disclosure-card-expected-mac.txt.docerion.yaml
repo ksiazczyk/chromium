@@ -1,0 +1,4 @@
+# Docerion header of disclosure-card-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for disclosure card example
+summary: Expected macOS accessibility tree snapshot for the disclosure card ARIA APG example with AX roles for headings, articles, and detail buttons.

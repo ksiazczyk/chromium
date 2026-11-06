@@ -1,0 +1,4 @@
+# Docerion header of feed-expected-android.txt.
+type: test
+title: Feed example expected Android accessibility tree
+summary: Expected Android accessibility tree snapshot of the Infinite Scrolling Feed Example page, listing roles, names and states for the feed pattern test.

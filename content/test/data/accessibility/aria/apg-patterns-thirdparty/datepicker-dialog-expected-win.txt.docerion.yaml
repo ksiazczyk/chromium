@@ -1,0 +1,4 @@
+# Docerion header of datepicker-dialog-expected-win.txt.
+type: test
+title: Date picker dialog expected Windows accessibility tree
+summary: Expected Windows accessibility tree snapshot for the ARIA date picker dialog example with the date text field and Choose Date button.

@@ -1,0 +1,4 @@
+# Docerion header of table-expected-android-external.txt.
+type: test
+title: Table example expected Android accessibility tree (external format)
+summary: Expected Android accessibility tree in the external format for the Table Example, detailing the students table with column headers, rows and cells for test comparison.

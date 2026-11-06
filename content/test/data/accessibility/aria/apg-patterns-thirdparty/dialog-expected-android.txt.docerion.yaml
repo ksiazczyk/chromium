@@ -1,0 +1,4 @@
+# Docerion header of dialog-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for dialog example
+summary: Expected Android accessibility tree snapshot for the modal dialog example with the Add Delivery Address button.

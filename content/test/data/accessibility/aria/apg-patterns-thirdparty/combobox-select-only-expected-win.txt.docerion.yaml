@@ -1,0 +1,4 @@
+# Docerion header of combobox-select-only-expected-win.txt.
+type: test
+title: Select-only combobox expected Windows accessibility tree
+summary: Expected Windows IA2 accessibility tree for the Select-Only Combobox Example with roles, states and values.

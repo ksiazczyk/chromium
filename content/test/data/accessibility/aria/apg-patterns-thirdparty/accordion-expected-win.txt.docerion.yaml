@@ -1,0 +1,4 @@
+# Docerion header of accordion-expected-win.txt.
+type: test
+title: Accordion expected Win accessibility tree
+summary: Expected Windows IAccessible2 accessibility tree for the ARIA accordion example, capturing roles and states for test verification.

@@ -1,0 +1,4 @@
+# Docerion header of combobox-autocomplete-none-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for combobox without autocomplete
+summary: Expected Windows accessibility tree snapshot of the ARIA Editable Combobox without Autocomplete Example, used as a test expectation.

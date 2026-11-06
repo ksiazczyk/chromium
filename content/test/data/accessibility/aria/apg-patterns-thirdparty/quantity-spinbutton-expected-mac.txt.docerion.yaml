@@ -1,0 +1,4 @@
+# Docerion header of quantity-spinbutton-expected-mac.txt.
+type: test
+title: Quantity spinbutton expected Mac accessibility tree
+summary: Expected macOS accessibility tree snapshot for the quantity spin button example, describing incrementors, buttons, and status groups for the adults, kids, and animals fields.

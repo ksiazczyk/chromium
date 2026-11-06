@@ -1,0 +1,4 @@
+# Docerion header of combobox-select-only-expected-android-external.txt.
+type: test
+title: Select-only combobox expected Android external accessibility tree
+summary: Expected Android external-format accessibility tree for the Select-Only Combobox Example, listing views, actions and Chrome roles for the accessibility test.

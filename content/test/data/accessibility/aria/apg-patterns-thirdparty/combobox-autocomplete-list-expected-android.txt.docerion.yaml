@@ -1,0 +1,4 @@
+# Docerion header of combobox-autocomplete-list-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for combobox list autocomplete
+summary: Expected Android accessibility tree snapshot of the ARIA Editable Combobox With List Autocomplete Example, used as a test expectation.

@@ -1,0 +1,4 @@
+# Docerion header of layout-grids-expected-blink.txt.
+type: test
+title: Layout grids expected Blink accessibility tree
+summary: Expected Blink accessibility tree snapshot for the ARIA Authoring Practices layout grids example, used as test expectation data.

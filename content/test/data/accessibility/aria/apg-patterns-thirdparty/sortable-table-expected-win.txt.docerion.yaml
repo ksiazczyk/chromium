@@ -1,0 +1,4 @@
+# Docerion header of sortable-table-expected-win.txt.
+type: test
+title: Sortable table expected accessibility tree for Windows
+summary: Expected Windows accessibility tree snapshot for the Sortable Table Example APG pattern, listing roles and names for the table, sortable column headers, and student rows.

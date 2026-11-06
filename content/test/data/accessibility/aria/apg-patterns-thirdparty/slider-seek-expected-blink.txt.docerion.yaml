@@ -1,0 +1,4 @@
+# Docerion header of slider-seek-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for media seek slider
+summary: Expected Blink accessibility tree snapshot for the media seek slider example, showing the slider value of 90 seconds and the minute tick labels.

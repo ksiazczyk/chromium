@@ -1,0 +1,4 @@
+# Docerion header of switch-expected-android-external.txt.
+type: test
+title: Switch example expected Android accessibility tree (external format)
+summary: Expected Android accessibility tree in the external format for the Switch Example, listing the Notifications switch with its checkable and clickable state for test comparison.

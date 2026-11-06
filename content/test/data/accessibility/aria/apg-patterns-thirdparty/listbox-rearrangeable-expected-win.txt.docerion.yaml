@@ -1,0 +1,4 @@
+# Docerion header of listbox-rearrangeable-expected-win.txt.
+type: test
+title: Listbox rearrangeable expected Win tree
+summary: Expected Windows accessibility tree snapshot of the rearrangeable listbox example, used as test data for accessibility tree comparisons.

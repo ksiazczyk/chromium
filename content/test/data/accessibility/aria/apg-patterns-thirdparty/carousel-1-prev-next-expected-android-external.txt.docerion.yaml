@@ -1,0 +1,4 @@
+# Docerion header of carousel-1-prev-next-expected-android-external.txt.
+type: test
+title: Carousel prev-next expected Android external accessibility tree
+summary: Expected Android external-format accessibility tree snapshot for the auto-rotating carousel example with previous and next slide control buttons.

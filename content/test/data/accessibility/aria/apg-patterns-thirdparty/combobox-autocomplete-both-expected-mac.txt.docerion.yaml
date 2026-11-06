@@ -1,0 +1,4 @@
+# Docerion header of combobox-autocomplete-both-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for combobox with both autocomplete
+summary: Expected macOS accessibility tree snapshot for the editable combobox with both list and inline autocomplete example, verifying AX roles and autocomplete value.

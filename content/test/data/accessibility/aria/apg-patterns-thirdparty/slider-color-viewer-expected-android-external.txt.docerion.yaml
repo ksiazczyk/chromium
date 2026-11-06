@@ -1,0 +1,4 @@
+# Docerion header of slider-color-viewer-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility tree for the color viewer slider example
+summary: Expected Android accessibility tree snapshot in the external format for the color viewer slider example, detailing seek bars, headings and text fields with actions and ranges.

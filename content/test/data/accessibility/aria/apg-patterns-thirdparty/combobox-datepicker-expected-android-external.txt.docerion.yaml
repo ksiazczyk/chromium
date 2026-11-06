@@ -1,0 +1,4 @@
+# Docerion header of combobox-datepicker-expected-android-external.txt.
+type: test
+title: Date picker combobox expected Android external accessibility tree
+summary: Expected Android external-format accessibility tree for the Date Picker Combobox Example, listing views, actions and Chrome roles for the accessibility test.

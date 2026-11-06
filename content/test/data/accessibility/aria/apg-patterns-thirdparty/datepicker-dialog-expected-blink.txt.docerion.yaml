@@ -1,0 +1,4 @@
+# Docerion header of datepicker-dialog-expected-blink.txt.
+type: test
+title: Date picker dialog expected Blink accessibility tree
+summary: Expected Blink accessibility tree snapshot for the ARIA date picker dialog example, including visible controls and ignored invisible grid nodes.

@@ -1,0 +1,4 @@
+# Docerion header of table-expected-blink.txt.
+type: test
+title: Table example expected Blink accessibility tree
+summary: Expected Blink accessibility tree for the Table Example, capturing the students table with column headers, rows, cells and their static text nodes.

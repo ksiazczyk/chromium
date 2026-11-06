@@ -1,0 +1,4 @@
+# Docerion header of data-grids-expected-android.txt.
+type: test
+title: Data grids expected Android accessibility tree
+summary: Expected Android accessibility tree snapshot for the ARIA data grids example, describing the transactions grid rows, headers and cells for accessibility tests.

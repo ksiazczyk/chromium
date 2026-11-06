@@ -1,0 +1,4 @@
+# Docerion header of link-expected-blink.txt.
+type: test
+title: Link examples expected Blink accessibility tree
+summary: Expected Blink accessibility tree snapshot for the ARIA Authoring Practices link examples page, used as test expectation data.

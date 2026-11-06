@@ -1,0 +1,4 @@
+# Docerion header of radio-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for radio group with roving tabindex
+summary: Expected macOS accessibility tree snapshot for the APG radio group example using roving tabindex, with AXRadioGroup, AXHeading and AXRadioButton nodes.

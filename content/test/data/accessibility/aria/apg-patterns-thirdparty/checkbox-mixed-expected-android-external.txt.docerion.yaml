@@ -1,0 +1,4 @@
+# Docerion header of checkbox-mixed-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility tree for mixed-state checkbox example
+summary: Expected Android accessibility tree snapshot in external format for the ARIA mixed-state checkbox example, listing roles, names and checked states for test verification.
