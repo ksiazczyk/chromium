@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputPane-based on-screen keyboard display manager
+// summary: Declares the VirtualKeyboardController implementation that shows and dismisses the Windows on-screen keyboard via InputPane on Windows 10 and later.
+// ---
+
 #ifndef UI_BASE_IME_WIN_ON_SCREEN_KEYBOARD_DISPLAY_MANAGER_INPUT_PANE_H_
 #define UI_BASE_IME_WIN_ON_SCREEN_KEYBOARD_DISPLAY_MANAGER_INPUT_PANE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TSF event router implementation
+// summary: Implements TSF UI element and text edit sinks that route composition changes and candidate window events to the TSFEventRouter observer.
+// ---
+
 #include "ui/base/ime/win/tsf_event_router.h"
 
 #include <msctf.h>

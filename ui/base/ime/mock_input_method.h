@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockInputMethod class declaration
+// summary: Declares a mock InputMethod implementation for testing, obtainable as the global input method via SetUpInputMethodForTesting.
+// ---
+
 #ifndef UI_BASE_IME_MOCK_INPUT_METHOD_H_
 #define UI_BASE_IME_MOCK_INPUT_METHOD_H_
 

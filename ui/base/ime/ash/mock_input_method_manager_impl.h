@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockInputMethodManagerImpl test double
+// summary: Declares MockInputMethodManagerImpl, a test InputMethodManager implementation exposing state, component extension IME manager, and call counters.
+// ---
+
 #ifndef UI_BASE_IME_ASH_MOCK_INPUT_METHOD_MANAGER_IMPL_H_
 #define UI_BASE_IME_ASH_MOCK_INPUT_METHOD_MANAGER_IMPL_H_
 

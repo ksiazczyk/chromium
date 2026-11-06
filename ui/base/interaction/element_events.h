@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declaration of the element bounds changed event
+// summary: Declares an exported custom element event fired when a tracked element's bounds change while visible.
+// ---
+
 #ifndef UI_BASE_INTERACTION_ELEMENT_EVENTS_H_
 #define UI_BASE_INTERACTION_ELEMENT_EVENTS_H_
 

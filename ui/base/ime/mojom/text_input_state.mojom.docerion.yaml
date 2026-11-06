@@ -1,0 +1,4 @@
+# Docerion header of text_input_state.mojom.
+type: source
+title: Text input state Mojom definitions
+summary: Defines the TextInputState struct describing the editing state of the focused input field, plus ImeTextSpanInfo for IME text spans and their bounds.

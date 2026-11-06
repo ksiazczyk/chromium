@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InteractionSequence API for step-based UI interaction flows
+// summary: Header defining InteractionSequence, which tracks expected element shown, activated, hidden, and custom event steps for tests and tutorials.
+// ---
+
 #ifndef UI_BASE_INTERACTION_INTERACTION_SEQUENCE_H_
 #define UI_BASE_INTERACTION_INTERACTION_SEQUENCE_H_
 

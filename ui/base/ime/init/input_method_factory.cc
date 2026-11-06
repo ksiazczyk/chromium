@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input method factory implementation
+// summary: Creates platform-specific InputMethod instances, with mock and headless input method support plus hooks for testing.
+// ---
+
 #include "ui/base/ime/init/input_method_factory.h"
 
 #include "base/command_line.h"

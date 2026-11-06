@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux desktop environment info header
+// summary: Declares GetDesktopEnvironmentInfo, which returns desktop environment info as a list of values for the ui base component.
+// ---
+
 #ifndef UI_BASE_LINUX_LINUX_DESKTOP_H_
 #define UI_BASE_LINUX_LINUX_DESKTOP_H_
 

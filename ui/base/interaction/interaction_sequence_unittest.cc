@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InteractionSequence unit tests
+// summary: Extensive parameterized unit tests covering step types, step start modes, subsequences, and abort behavior of InteractionSequence.
+// ---
+
 #include "ui/base/interaction/interaction_sequence.h"
 
 #include <optional>

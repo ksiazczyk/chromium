@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TextInputMethod interface
+// summary: Defines the TextInputMethod interface that input method engines implement to handle focus, key events, composition, and assistive windows.
+// ---
+
 #ifndef UI_BASE_IME_ASH_TEXT_INPUT_METHOD_H_
 #define UI_BASE_IME_ASH_TEXT_INPUT_METHOD_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows-specific l10n_util declarations
+// summary: Header declaring Windows localization helpers for RTL layout, font adjustment, locale overrides, and wide string retrieval.
+// ---
+
 #ifndef UI_BASE_L10N_L10N_UTIL_WIN_H_
 #define UI_BASE_L10N_L10N_UTIL_WIN_H_
 

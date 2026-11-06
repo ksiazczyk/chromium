@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SurroundingTextTracker unit tests
+// summary: Unit tests covering state ranges, composition text extraction, composition updates and predicted surrounding text behavior of SurroundingTextTracker.
+// ---
+
 #include "ui/base/ime/surrounding_text_tracker.h"
 
 #include <string_view>

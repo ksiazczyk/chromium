@@ -1,0 +1,4 @@
+# Docerion header of l10n_util_mac.mm.
+type: source
+title: Mac localization string helper implementation
+summary: Implements macOS localized string retrieval, Windows-style label fixup, and Cocoa-based locale override.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GrammarFragment header
+// summary: Defines a struct holding a text range and a suggested replacement string for grammar edit markers.
+// ---
+
 #ifndef UI_BASE_IME_GRAMMAR_FRAGMENT_H_
 #define UI_BASE_IME_GRAMMAR_FRAGMENT_H_
 

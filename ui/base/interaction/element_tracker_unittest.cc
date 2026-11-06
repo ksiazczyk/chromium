@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ElementTracker unit tests
+// summary: Unit tests covering element tracking, safe casting, callback subscriptions, and element queries in the cross-platform ElementTracker.
+// ---
+
 #include "ui/base/interaction/element_tracker.h"
 
 #include "base/functional/callback_helpers.h"

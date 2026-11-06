@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux input method context interface
+// summary: Defines the LinuxInputMethodContext interface for dispatching key events to Linux input method frameworks and the delegate interface for commit and composition callbacks.
+// ---
+
 #ifndef UI_BASE_IME_LINUX_LINUX_INPUT_METHOD_CONTEXT_H_
 #define UI_BASE_IME_LINUX_LINUX_INPUT_METHOD_CONTEXT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Linux input method context implementation
+// summary: Implements a no-op LinuxInputMethodContext that does nothing, used when no real input method framework is available.
+// ---
+
 #include "ui/base/ime/linux/fake_input_method_context.h"
 
 namespace ui {

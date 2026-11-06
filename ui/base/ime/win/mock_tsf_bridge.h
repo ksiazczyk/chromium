@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock TSF bridge for tests
+// summary: Declares MockTSFBridge, a test double recording call counts and state so unit tests can verify TSF bridge interactions.
+// ---
+
 #ifndef UI_BASE_IME_WIN_MOCK_TSF_BRIDGE_H_
 #define UI_BASE_IME_WIN_MOCK_TSF_BRIDGE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputMethodManager interface for managing input methods
+// summary: Declares the InputMethodManager class that manages input methods, menu items, and observer notifications for method, candidate window, and IME menu changes.
+// ---
+
 #ifndef UI_BASE_IME_ASH_INPUT_METHOD_MANAGER_H_
 #define UI_BASE_IME_ASH_INPUT_METHOD_MANAGER_H_
 

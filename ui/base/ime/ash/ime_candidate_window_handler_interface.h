@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IME candidate window handler interface
+// summary: Interface for handling IME candidate window updates such as lookup table, preedit text, and cursor bounds in ash.
+// ---
+
 #ifndef UI_BASE_IME_ASH_IME_CANDIDATE_WINDOW_HANDLER_INTERFACE_H_
 #define UI_BASE_IME_ASH_IME_CANDIDATE_WINDOW_HANDLER_INTERFACE_H_
 

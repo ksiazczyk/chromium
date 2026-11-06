@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Locale-aware string sorting with ICU collators
+// summary: Header-only templates that sort and compare strings using ICU collators for locale-correct ordering.
+// ---
+
 #ifndef UI_BASE_L10N_L10N_UTIL_COLLATOR_H_
 #define UI_BASE_L10N_L10N_UTIL_COLLATOR_H_
 

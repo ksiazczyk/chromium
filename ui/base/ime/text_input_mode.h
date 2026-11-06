@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TextInputMode enum for input mode values
+// summary: Defines text input modes matching the HTML inputmode attribute, such as text, numeric, email and search.
+// ---
+
 #ifndef UI_BASE_IME_TEXT_INPUT_MODE_H_
 #define UI_BASE_IME_TEXT_INPUT_MODE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputMethodFuchsia implementation
+// summary: Implements the Fuchsia input method, dispatching key events, inserting characters, and dismissing the virtual keyboard when composition is cancelled.
+// ---
+
 #include "ui/base/ime/fuchsia/input_method_fuchsia.h"
 
 #include <lib/sys/cpp/component_context.h>

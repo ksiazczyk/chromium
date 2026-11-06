@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabTip on-screen keyboard display manager implementation
+// summary: Implements on-screen keyboard display and dismissal via TabTip.exe, detecting keyboard visibility and the occluded rectangle on older Windows versions.
+// ---
+
 #include "ui/base/ime/win/on_screen_keyboard_display_manager_tab_tip.h"
 
 #include <shobjidl.h>

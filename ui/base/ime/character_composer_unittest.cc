@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CharacterComposer unit tests
+// summary: Unit tests verifying dead key filtering, compose key sequences, and hexadecimal Unicode input handling in CharacterComposer.
+// ---
+
 #include "ui/base/ime/character_composer.h"
 
 #include <stdint.h>

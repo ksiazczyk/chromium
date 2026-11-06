@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: State observer base classes for interactive tests
+// summary: Declares base classes for observing state changes that interactive tests can wait on, including observation-based observers.
+// ---
+
 #ifndef UI_BASE_INTERACTION_STATE_OBSERVER_H_
 #define UI_BASE_INTERACTION_STATE_OBSERVER_H_
 

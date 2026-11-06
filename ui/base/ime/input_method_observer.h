@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputMethodObserver interface
+// summary: Observer interface notified of input method events such as focus changes, caret bounds, text input state and virtual keyboard visibility.
+// ---
+
 #ifndef UI_BASE_IME_INPUT_METHOD_OBSERVER_H_
 #define UI_BASE_IME_INPUT_METHOD_OBSERVER_H_
 

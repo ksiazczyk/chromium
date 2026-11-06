@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XDG shortcut conversion header
+// summary: Declares AcceleratorToXdgShortcut, which maps keyboard codes to XDG shortcut strings for keys supported by the chrome.commands API.
+// ---
+
 #ifndef UI_BASE_LINUX_XDG_SHORTCUT_H_
 #define UI_BASE_LINUX_XDG_SHORTCUT_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the ui base metadata directory
+summary: Lists the email addresses of the code owners responsible for changes in the ui/base/metadata directory.

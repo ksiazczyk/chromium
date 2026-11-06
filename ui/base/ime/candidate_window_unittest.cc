@@ -3,6 +3,12 @@
 // found in the LICENSE file.
 // TODO(nona): Add more tests.
 
+// ---docerion
+// type: test
+// title: Unit tests for the CandidateWindow class
+// summary: Verifies IsEqual, CopyFrom, and candidate entry behavior of CandidateWindow using sample data.
+// ---
+
 #include "ui/base/ime/candidate_window.h"
 
 #include <stddef.h>

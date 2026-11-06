@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input method ID helper functions
+// summary: Implements helpers that build and parse extension, component extension and Arc input method IDs and map engine IDs to input method IDs.
+// ---
+
 #include "ui/base/ime/ash/extension_ime_util.h"
 
 #include "base/strings/strcat.h"

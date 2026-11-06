@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the Linux input method directory
+summary: Lists the email addresses of the maintainers responsible for reviewing changes in the ui/base/ime/linux directory.

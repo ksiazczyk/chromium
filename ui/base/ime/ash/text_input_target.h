@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TextInputTarget interface
+// summary: Defines the TextInputTarget interface that applications implement to receive IME text commits, composition updates, and key events.
+// ---
+
 #ifndef UI_BASE_IME_ASH_TEXT_INPUT_TARGET_H_
 #define UI_BASE_IME_ASH_TEXT_INPUT_TARGET_H_
 

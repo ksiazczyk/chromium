@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TSF text store class declaration
+// summary: Declares TSFTextStore, the ITextStoreACP implementation that mediates between the Windows TSF manager and TextInputClient for IME composition and committed text.
+// ---
+
 #ifndef UI_BASE_IME_WIN_TSF_TEXT_STORE_H_
 #define UI_BASE_IME_WIN_TSF_TEXT_STORE_H_
 

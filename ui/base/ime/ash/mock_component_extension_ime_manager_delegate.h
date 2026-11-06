@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock component extension IME manager delegate declaration
+// summary: Declares a mock component extension IME manager delegate with setters and counters used to test IME loading behaviour.
+// ---
+
 #ifndef UI_BASE_IME_ASH_MOCK_COMPONENT_EXTENSION_IME_MANAGER_DELEGATE_H_
 #define UI_BASE_IME_ASH_MOCK_COMPONENT_EXTENSION_IME_MANAGER_DELEGATE_H_
 

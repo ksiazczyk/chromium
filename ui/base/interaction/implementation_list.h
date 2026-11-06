@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImplementationList container for framework singletons
+// summary: Template header holding an ordered, iterable list of implementation-specific singletons derived from a SafeCastable base class.
+// ---
+
 #ifndef UI_BASE_INTERACTION_IMPLEMENTATION_LIST_H_
 #define UI_BASE_INTERACTION_IMPLEMENTATION_LIST_H_
 

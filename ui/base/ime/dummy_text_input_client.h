@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DummyTextInputClient header
+// summary: Declares a no-op dummy implementation of TextInputClient whose methods do nothing, intended as a placeholder text input client.
+// ---
+
 #ifndef UI_BASE_IME_DUMMY_TEXT_INPUT_CLIENT_H_
 #define UI_BASE_IME_DUMMY_TEXT_INPUT_CLIENT_H_
 

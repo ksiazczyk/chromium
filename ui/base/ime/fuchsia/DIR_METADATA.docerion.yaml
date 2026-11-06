@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the Fuchsia input method folder
+summary: Applies the shared Fuchsia common metadata to this directory through a mixin entry.

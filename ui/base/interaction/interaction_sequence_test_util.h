@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InteractionSequence test utilities
+// summary: Test helpers offering GMock matchers for abort data and macros for awaiting asynchronous interaction sequence callbacks in run loops.
+// ---
+
 #ifndef UI_BASE_INTERACTION_INTERACTION_SEQUENCE_TEST_UTIL_H_
 #define UI_BASE_INTERACTION_INTERACTION_SEQUENCE_TEST_UTIL_H_
 

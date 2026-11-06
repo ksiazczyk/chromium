@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InputMethodMinimal unit tests
+// summary: Unit tests verifying that InputMethodMinimal inserts characters for key events and respects propagation stopping after IME dispatch.
+// ---
+
 #include "ui/base/ime/input_method_minimal.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IME assistive window handler interface
+// summary: Defines the interface for assistive window handling, covering suggestion display, button highlighting, caret bounds and announcements.
+// ---
+
 #ifndef UI_BASE_IME_ASH_IME_ASSISTIVE_WINDOW_HANDLER_INTERFACE_H_
 #define UI_BASE_IME_ASH_IME_ASSISTIVE_WINDOW_HANDLER_INTERFACE_H_
 

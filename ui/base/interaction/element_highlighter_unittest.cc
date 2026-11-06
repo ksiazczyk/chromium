@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ElementHighlighter
+// summary: Verifies highlighting decisions for supported, unsupported, and foreign-framework elements using test backends and fake contexts.
+// ---
+
 #include "ui/base/interaction/element_highlighter.h"
 
 #include <memory>

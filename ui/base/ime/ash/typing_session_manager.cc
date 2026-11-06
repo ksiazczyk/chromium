@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Typing session manager
+// summary: Tracks typing sessions and records session duration and characters-per-session histograms as input method usage metrics.
+// ---
+
 #include "ui/base/ime/ash/typing_session_manager.h"
 
 #include <stddef.h>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the ui_base_ime_win component
+summary: GN build file that compiles the Windows IME sources into the ui_base_ime_win component and declares its dependencies.

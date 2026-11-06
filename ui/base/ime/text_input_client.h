@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TextInputClient interface for text input support
+// summary: Interface implemented by views that need text input support, covering composition text, focus reasons and IME-related operations.
+// ---
+
 #ifndef UI_BASE_IME_TEXT_INPUT_CLIENT_H_
 #define UI_BASE_IME_TEXT_INPUT_CLIENT_H_
 

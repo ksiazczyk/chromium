@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SurroundingTextTracker class declaration
+// summary: Declares a tracker that predicts the latest surrounding text, selection and composition state while text editing requests are processed asynchronously.
+// ---
+
 #ifndef UI_BASE_IME_SURROUNDING_TEXT_TRACKER_H_
 #define UI_BASE_IME_SURROUNDING_TEXT_TRACKER_H_
 

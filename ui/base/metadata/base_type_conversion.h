@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Type conversion templates for metadata properties
+// summary: Declares the TypeConverter template, ArgType helper, and uniquifying macros that convert between property types and strings in the metadata system.
+// ---
+
 #ifndef UI_BASE_METADATA_BASE_TYPE_CONVERSION_H_
 #define UI_BASE_METADATA_BASE_TYPE_CONVERSION_H_
 

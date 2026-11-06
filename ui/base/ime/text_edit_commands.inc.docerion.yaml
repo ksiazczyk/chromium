@@ -1,0 +1,4 @@
+# Docerion header of text_edit_commands.inc.
+type: source
+title: Text edit command macro list
+summary: X-macro list of text edit command names, intentionally without header guard, meant to be included multiple times to generate C++ and Mojom definitions.

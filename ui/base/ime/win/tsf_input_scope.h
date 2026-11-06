@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TSF input scope helpers
+// summary: Declares functions to create ITfInputScope instances and set input scopes on windows, with a testing hook for observing SetInputScope calls.
+// ---
+
 #ifndef UI_BASE_IME_WIN_TSF_INPUT_SCOPE_H_
 #define UI_BASE_IME_WIN_TSF_INPUT_SCOPE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux input method context factory header
+// summary: Declares the LinuxInputMethodContextFactory callback plus functions to set ozone and test factories and create a platform-specific input method context.
+// ---
+
 #ifndef UI_BASE_IME_LINUX_LINUX_INPUT_METHOD_CONTEXT_FACTORY_H_
 #define UI_BASE_IME_LINUX_LINUX_INPUT_METHOD_CONTEXT_FACTORY_H_
 

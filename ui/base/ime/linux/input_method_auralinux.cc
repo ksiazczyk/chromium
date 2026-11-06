@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aura Linux input method implementation
+// summary: Implements the Aura Linux input method, handling key event dispatch, composition updates, and text commits through the Linux input method context.
+// ---
+
 #include "ui/base/ime/linux/input_method_auralinux.h"
 
 #include "base/auto_reset.h"

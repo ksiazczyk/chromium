@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InputMethodBase unit tests
+// summary: Unit tests verifying focused text input client change notifications and observer call ordering in InputMethodBase.
+// ---
+
 #include "ui/base/ime/input_method_base.h"
 
 #include <memory>

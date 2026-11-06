@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for ui/base/ime/init
+summary: Chromium DEPS file allowing the init component to include headers from ui/ozone/public.

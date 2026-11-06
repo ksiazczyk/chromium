@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InteractionTestUtil class declaration
+// summary: Declares the InteractionTestUtil class with ActionResult and InputType enums for running framework-independent UI interactions in tests.
+// ---
+
 #ifndef UI_BASE_INTERACTION_INTERACTION_TEST_UTIL_H_
 #define UI_BASE_INTERACTION_INTERACTION_TEST_UTIL_H_
 

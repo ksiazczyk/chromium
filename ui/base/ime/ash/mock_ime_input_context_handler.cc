@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockIMEInputContextHandler implementation
+// summary: Implements the MockIMEInputContextHandler test double, recording commit text, composition, autocorrect, grammar, and surrounding text operations.
+// ---
+
 #include "ui/base/ime/ash/mock_ime_input_context_handler.h"
 
 #include <string_view>

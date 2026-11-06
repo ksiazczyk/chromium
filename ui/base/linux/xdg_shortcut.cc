@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accelerator to XDG shortcut conversion
+// summary: Converts Chromium accelerators to XDG shortcut strings by mapping keyboard codes and modifier flags to the freedesktop shortcut format.
+// ---
+
 #include "ui/base/linux/xdg_shortcut.h"
 
 #include <vector>

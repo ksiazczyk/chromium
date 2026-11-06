@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for InputMethodDescriptor indicators
+// summary: Tests GetIndicator behavior of InputMethodDescriptor across various keyboard layouts, language codes, and special cases.
+// ---
+
 #include "ui/base/ime/ash/input_method_descriptor.h"
 
 #include <stddef.h>

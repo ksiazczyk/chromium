@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IME constants
+// summary: Defines constants for the key event property indicating that an event originated from a virtual keyboard.
+// ---
+
 #ifndef UI_BASE_IME_CONSTANTS_H_
 #define UI_BASE_IME_CONSTANTS_H_
 

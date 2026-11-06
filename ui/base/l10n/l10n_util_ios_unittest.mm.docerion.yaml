@@ -1,0 +1,4 @@
+# Docerion header of l10n_util_ios_unittest.mm.
+type: test
+title: iOS locale display name unit tests
+summary: Unit tests verifying GetDisplayNameForLocale error cases and formatting behavior on iOS.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for metadata base type conversion
+// summary: Tests conversions between strings and ints, optionals, enums, SkColors, shadow values, and other types handled by the metadata type converters.
+// ---
+
 #include "ui/base/metadata/base_type_conversion.h"
 
 #include <ranges>

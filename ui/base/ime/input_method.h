@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputMethod interface
+// summary: Defines the InputMethod interface encapsulating the native OS input method service, covering key event dispatch, focus handling and text input client management.
+// ---
+
 #ifndef UI_BASE_IME_INPUT_METHOD_H_
 #define UI_BASE_IME_INPUT_METHOD_H_
 

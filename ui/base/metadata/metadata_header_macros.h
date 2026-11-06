@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Macros for declaring class metadata in headers
+// summary: Provides METADATA_HEADER, METADATA_HEADER_BASE, and template variants that generate accessor declarations and internal metadata classes in View headers.
+// ---
+
 #ifndef UI_BASE_METADATA_METADATA_HEADER_MACROS_H_
 #define UI_BASE_METADATA_METADATA_HEADER_MACROS_H_
 

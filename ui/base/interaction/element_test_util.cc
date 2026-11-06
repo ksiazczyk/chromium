@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test element utilities implementation
+// summary: Implements platform-less test elements that simulate shown, activated, hidden and custom events so ElementTracker and interaction sequences can be exercised.
+// ---
+
 #include "ui/base/interaction/element_test_util.h"
 
 #include "base/test/bind.h"

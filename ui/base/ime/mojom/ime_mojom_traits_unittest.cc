@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for IME Mojom struct traits
+// summary: Verifies over Mojo IPC that every ui::TextInputType value round-trips unchanged through the IME struct traits.
+// ---
+
 #include <array>
 #include <utility>
 

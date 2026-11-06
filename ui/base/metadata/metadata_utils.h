@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metadata class checking utilities
+// summary: Provides IsClass and AsClass templates plus a static assertion macro for type-safe casts based on class metadata tags.
+// ---
+
 #ifndef UI_BASE_METADATA_METADATA_UTILS_H_
 #define UI_BASE_METADATA_METADATA_UTILS_H_
 

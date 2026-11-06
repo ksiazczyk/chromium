@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input method utility implementation
+// summary: 'Implements Ash input method utilities: display names, descriptor lookups, language-code mappings and legacy input method ID migration tables.'
+// ---
+
 #include "ui/base/ime/ash/input_method_util.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows input method base implementation
+// summary: Implements shared Windows input method logic, including IME requests, RTL keyboard detection, Ctrl+Shift direction switching, and on-screen keyboard controller creation.
+// ---
+
 #include "ui/base/ime/win/input_method_win_base.h"
 
 #include <stddef.h>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the ash IME component
+summary: Defines the source sets and component build targets for the ChromeOS ash input method code, including ime_types, typing_session_manager and the ui_base_ime_ash component.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Aura Linux input method
+// summary: Unit tests for InputMethodAuraLinux that simulate input method context actions and verify key event dispatch and composition behavior.
+// ---
+
 #include "ui/base/ime/linux/input_method_auralinux.h"
 
 #include <stddef.h>

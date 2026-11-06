@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit test for text edit command Mojom traits
+// summary: Checks that every ui::TextEditCommand value survives Mojo serialization and deserialization unchanged.
+// ---
+
 #include "ui/base/ime/mojom/text_edit_command_mojom_traits.h"
 
 #include "mojo/public/cpp/test_support/test_utils.h"

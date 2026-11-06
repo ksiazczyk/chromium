@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ImplementationList unit tests
+// summary: Unit tests verifying registration, subclass handling, iteration, and lookup behavior of ImplementationList.
+// ---
+
 #include "ui/base/interaction/implementation_list.h"
 
 #include <ranges>

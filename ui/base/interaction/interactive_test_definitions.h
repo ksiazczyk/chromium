@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Interactive test callback binding definitions
+// summary: Defines internal concepts and helpers for binding callables and extracting signatures when building interactive test steps.
+// ---
+
 #ifndef UI_BASE_INTERACTION_INTERACTIVE_TEST_DEFINITIONS_H_
 #define UI_BASE_INTERACTION_INTERACTIVE_TEST_DEFINITIONS_H_
 

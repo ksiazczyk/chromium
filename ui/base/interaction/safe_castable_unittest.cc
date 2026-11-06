@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SafeCastable unit tests
+// summary: Tests the IsA and AsA runtime type checks for safe cast targets, subclasses, and transitive hierarchies.
+// ---
+
 #include "ui/base/interaction/safe_castable.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

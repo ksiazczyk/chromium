@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InputMethodUtil unit tests
+// summary: Unit tests for InputMethodUtil covering medium names, descriptor lookups, language-code mappings and input method ID migration.
+// ---
+
 #include "ui/base/ime/ash/input_method_util.h"
 
 #include <stddef.h>

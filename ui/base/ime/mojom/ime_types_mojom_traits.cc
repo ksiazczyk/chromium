@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of IME Mojom type traits
+// summary: 'Implements Mojo EnumTraits and StructTraits conversions between ui:: IME enums and structs and their ui.mojom counterparts.'
+// ---
+
 #include "ui/base/ime/mojom/ime_types_mojom_traits.h"
 
 #include "base/notreached.h"

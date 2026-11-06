@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UKM recording declarations for input method metrics
+// summary: Declares functions to record UKM events under the InputMethod.NonCompliantApi and InputMethod.Assistive.Match metrics.
+// ---
+
 #ifndef UI_BASE_IME_ASH_INPUT_METHOD_UKM_H_
 #define UI_BASE_IME_ASH_INPUT_METHOD_UKM_H_
 

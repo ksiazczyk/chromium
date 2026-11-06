@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UKM metric recording for input method events
+// summary: Implements functions that record UKM metrics for non-compliant IME API operations and assistive match events.
+// ---
+
 #include "ui/base/ime/ash/input_method_ukm.h"
 
 #include "services/metrics/public/cpp/ukm_builders.h"

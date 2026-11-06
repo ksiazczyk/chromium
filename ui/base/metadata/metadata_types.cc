@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metadata types implementation
+// summary: Implements MetaDataProvider and ClassMetaData, including property flags operators, property changed callbacks, member lookup, and member iteration.
+// ---
+
 #include "ui/base/metadata/metadata_types.h"
 
 #include <string_view>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Time plural formatter implementation
+// summary: Implements ICU-based plural message formatting for elapsed and remaining time strings across units.
+// ---
+
 #include "ui/base/l10n/formatter.h"
 
 #include <limits.h>

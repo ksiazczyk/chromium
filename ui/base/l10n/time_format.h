@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TimeFormat class declarations
+// summary: Declares the TimeFormat API for producing localized time duration strings with format, length, cutoff, and month/year options.
+// ---
+
 #ifndef UI_BASE_L10N_TIME_FORMAT_H_
 #define UI_BASE_L10N_TIME_FORMAT_H_
 

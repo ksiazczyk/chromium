@@ -1,0 +1,4 @@
+# Docerion header of input_method_mac.mm.
+type: source
+title: InputMethodMac implementation
+summary: Implements Mac input method behavior, dispatching post-IME key events and cancelling composition through NSTextInputContext when focus changes.

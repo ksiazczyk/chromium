@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for ui/base/ime
+summary: Specifies allowed include rules for dependencies such as mojo, metrics, and ui/linux in ui/base/ime.

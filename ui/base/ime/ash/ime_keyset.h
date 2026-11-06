@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImeKeyset enum for virtual keyboard
+// summary: Defines the ImeKeyset enum used by the virtual keyboard to select key layouts such as emoji, handwriting, and voice for UMA reporting.
+// ---
+
 #ifndef UI_BASE_IME_ASH_IME_KEYSET_H_
 #define UI_BASE_IME_ASH_IME_KEYSET_H_
 

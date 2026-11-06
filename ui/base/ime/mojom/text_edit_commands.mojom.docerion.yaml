@@ -1,0 +1,4 @@
+# Docerion header of text_edit_commands.mojom.
+type: source
+title: Text edit commands Mojom enum
+summary: Defines the TextEditCommand enum of editing commands such as delete, move, scroll, undo, cut, copy and paste, kept in sync with text_edit_commands.inc.

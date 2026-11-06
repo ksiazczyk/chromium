@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the metadata class cache
+// summary: Implements the MetaDataCache singleton that stores registered ClassMetaData instances and the RegisterClassInfo entry point.
+// ---
+
 #include "ui/base/metadata/metadata_cache.h"
 
 #include <algorithm>

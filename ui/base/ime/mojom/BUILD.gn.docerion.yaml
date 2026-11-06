@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for IME Mojom targets
+summary: GN build file that defines the IME Mojom interface targets and the shared mojom traits component, including typemap configuration.

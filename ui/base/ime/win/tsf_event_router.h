@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TSF event router declaration
+// summary: Declares TSFEventRouter and its observer interface for monitoring TSF composition and candidate window events.
+// ---
+
 #ifndef UI_BASE_IME_WIN_TSF_EVENT_ROUTER_H_
 #define UI_BASE_IME_WIN_TSF_EVENT_ROUTER_H_
 

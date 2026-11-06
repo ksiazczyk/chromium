@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Component extension IME manager declarations
+// summary: Declares the engine and extension structs plus the manager class that tracks and loads component extension input methods.
+// ---
+
 #ifndef UI_BASE_IME_ASH_COMPONENT_EXTENSION_IME_MANAGER_H_
 #define UI_BASE_IME_ASH_COMPONENT_EXTENSION_IME_MANAGER_H_
 

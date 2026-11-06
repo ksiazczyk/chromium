@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock IME candidate window handler declaration
+// summary: Declares MockIMECandidateWindowHandler, a test double tracking candidate window update arguments and call counts.
+// ---
+
 #ifndef UI_BASE_IME_ASH_MOCK_IME_CANDIDATE_WINDOW_HANDLER_H_
 #define UI_BASE_IME_ASH_MOCK_IME_CANDIDATE_WINDOW_HANDLER_H_
 

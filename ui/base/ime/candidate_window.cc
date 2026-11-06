@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the IME candidate window model
+// summary: Implements equality checks, copying, and infolist entry generation for the IME candidate window model.
+// ---
+
 #include "ui/base/ime/candidate_window.h"
 
 #include <stddef.h>

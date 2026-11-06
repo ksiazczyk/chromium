@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockIMEEngineHandler test double
+// summary: Declares MockIMEEngineHandler, a mock TextInputMethod that records focus, key event, and surrounding text calls for use in IME tests.
+// ---
+
 #ifndef UI_BASE_IME_ASH_MOCK_IME_ENGINE_HANDLER_H_
 #define UI_BASE_IME_ASH_MOCK_IME_ENGINE_HANDLER_H_
 

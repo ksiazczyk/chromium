@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the Linux input method component
+summary: Defines the GN build target for the ui_base_ime_linux component, listing its sources, dependencies, and optional Pango-based composition text support.

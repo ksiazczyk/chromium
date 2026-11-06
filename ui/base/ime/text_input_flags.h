@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TextInputFlags enum for input field behavior flags
+// summary: Defines bit flags for autocomplete, autocorrect, spellcheck and autocapitalize behavior, kept in sync with Blink's WebTextInputFlags.
+// ---
+
 #ifndef UI_BASE_IME_TEXT_INPUT_FLAGS_H_
 #define UI_BASE_IME_TEXT_INPUT_FLAGS_H_
 

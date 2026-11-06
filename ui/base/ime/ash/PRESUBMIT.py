@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Presubmit checks for ash IME changes
+# summary: Runs presubmit checks that warn about a missing tast trybot request and about potential OOBE impact when input_method_util files are changed.
+# ---
+
 PRESUBMIT_VERSION = '2.0.0'
 
 

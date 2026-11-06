@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DummyInputMethod implementation
+// summary: Implements a no-op InputMethod whose operations do nothing, returning default values for all input method queries.
+// ---
+
 #include "ui/base/ime/dummy_input_method.h"
 #include "build/build_config.h"
 #include "ui/events/event.h"

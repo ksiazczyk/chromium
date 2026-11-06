@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockInputMethodManager implementation
+// summary: Implements MockInputMethodManager and its State class as a mostly no-op InputMethodManager substitute for testing.
+// ---
+
 #include "ui/base/ime/ash/mock_input_method_manager.h"
 
 #include <utility>

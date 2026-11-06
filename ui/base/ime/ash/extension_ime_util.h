@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension IME utility constants and ID conversion helpers
+// summary: Declares extension IME utility constants and functions that map extension and engine IDs to Chrome OS input method IDs.
+// ---
+
 #ifndef UI_BASE_IME_ASH_EXTENSION_IME_UTIL_H_
 #define UI_BASE_IME_ASH_EXTENSION_IME_UTIL_H_
 

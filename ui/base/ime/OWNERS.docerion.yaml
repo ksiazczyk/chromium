@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for ui/base/ime
+summary: Lists primary reviewers for the directory, including Chrome OS input method and Windows IME owners.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Polling state observers for interactive tests
+// summary: Defines observers that poll a value or element state on a timer for use with the InteractiveTestApi poll verbs.
+// ---
+
 #ifndef UI_BASE_INTERACTION_POLLING_STATE_OBSERVER_H_
 #define UI_BASE_INTERACTION_POLLING_STATE_OBSERVER_H_
 

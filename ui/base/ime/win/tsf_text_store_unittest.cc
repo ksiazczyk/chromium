@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TSF text store unit tests
+// summary: Unit tests for TSFTextStore that exercise composition, text editing and sink behaviour against a mocked TextInputClient.
+// ---
+
 #include "ui/base/ime/win/tsf_text_store.h"
 
 #include <initguid.h>  // for GUID_NULL and GUID_PROP_INPUTSCOPE

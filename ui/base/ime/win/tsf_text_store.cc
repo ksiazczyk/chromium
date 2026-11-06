@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TSF text store implementation
+// summary: Implements TSFTextStore, an ITextStoreACP COM object that lets the Windows TSF manager read and edit text and drives IME composition callbacks into TextInputClient.
+// ---
+
 #include "base/compiler_specific.h"
 
 #define INITGUID  // required for GUID_PROP_INPUTSCOPE

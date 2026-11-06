@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputMethodMinimal implementation
+// summary: Implements a minimal input method that supports only direct character insertion without composition or conversion.
+// ---
+
 #include "ui/base/ime/input_method_minimal.h"
 
 #include <stdint.h>

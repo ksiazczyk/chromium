@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ElementSpecifier implementation
+// summary: Implements ElementSpecifier constructors that accept an identifier or a name, plus stream output for debugging.
+// ---
+
 #include "ui/base/interaction/element_specifier.h"
 
 #include <ostream>

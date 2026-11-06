@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the Fuchsia input method component
+summary: Defines the ui_base_ime_fuchsia component target, listing its sources and its Fuchsia SDK and ui dependencies.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definitions for the ui metadata component
+summary: Defines the metadata component, metadata_headers source set, and metadata_tests target for ui/base/metadata along with their sources and dependencies.

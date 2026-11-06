@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for ui/base/ime input method components
+summary: Defines GN source sets and components for text input types, IME types, and the ui/base/ime input method library.

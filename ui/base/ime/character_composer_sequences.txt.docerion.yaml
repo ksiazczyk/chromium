@@ -1,0 +1,4 @@
+# Docerion header of character_composer_sequences.txt.
+type: data
+title: Character composer sequences for ChromeOS
+summary: Data table of compose key sequences mapping key combinations to composed Unicode characters for use by the ChromeOS character composer.

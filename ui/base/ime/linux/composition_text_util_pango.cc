@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pango composition text extraction implementation
+// summary: Implements extraction of composition text, underlines, and selection ranges from GTK/Pango preedit data for the Linux input method.
+// ---
+
 #include "ui/base/ime/linux/composition_text_util_pango.h"
 
 #include <pango/pango-attributes.h>

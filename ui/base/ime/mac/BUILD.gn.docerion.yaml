@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the ui_base_ime_mac component
+summary: GN build definition for the Mac input method component, listing its sources, export define, dependency on //ui/base/ime and the AppKit framework.

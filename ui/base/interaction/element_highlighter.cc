@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of ElementHighlighter
+// summary: Implements the singleton highlighter that delegates highlighting of tracked elements to registered framework backends.
+// ---
+
 #include "ui/base/interaction/element_highlighter.h"
 
 #include <memory>

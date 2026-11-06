@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeTextInputClient implementation
+// summary: Implements an in-memory fake TextInputClient that records text, composition, and inserted images for use in tests.
+// ---
+
 #include "ui/base/ime/fake_text_input_client.h"
 
 #include "base/check_op.h"

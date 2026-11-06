@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chromium language matcher implementation
+// summary: Builds the accepted and platform language tag lists and matchers used to match Chromium locales.
+// ---
+
 #include "ui/base/l10n/chromium_language_matcher.h"
 
 #include <iterator>

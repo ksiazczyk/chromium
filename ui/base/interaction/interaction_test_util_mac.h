@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac simulator for InteractionTestUtil
+// summary: Declares the Mac InteractionTestUtil simulator that adds native menu item selection support and Mac-specific native window lookup.
+// ---
+
 #ifndef UI_BASE_INTERACTION_INTERACTION_TEST_UTIL_MAC_H_
 #define UI_BASE_INTERACTION_INTERACTION_TEST_UTIL_MAC_H_
 

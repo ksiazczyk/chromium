@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SafeCastable lightweight RTTI base class
+// summary: Declares a minimal runtime type identification base class with macros for safely casting to platform-specific subtypes.
+// ---
+
 #ifndef UI_BASE_INTERACTION_SAFE_CASTABLE_H_
 #define UI_BASE_INTERACTION_SAFE_CASTABLE_H_
 

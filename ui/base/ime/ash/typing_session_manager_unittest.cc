@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Typing session manager unit tests
+// summary: Unit tests verifying that TypingSessionManager records session duration and character count histograms for manually and automatically ended sessions using a test clock.
+// ---
+
 #include "ui/base/ime/ash/typing_session_manager.h"
 
 #include <memory>

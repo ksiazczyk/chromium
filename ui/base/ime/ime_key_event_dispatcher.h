@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImeKeyEventDispatcher interface
+// summary: Declares the interface for objects that dispatch key events already processed by a ui::InputMethod.
+// ---
+
 #ifndef UI_BASE_IME_IME_KEY_EVENT_DISPATCHER_H_
 #define UI_BASE_IME_IME_KEY_EVENT_DISPATCHER_H_
 

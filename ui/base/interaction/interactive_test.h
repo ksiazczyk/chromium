@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InteractiveTestApi (Kombucha) declaration
+// summary: Declares InteractiveTestApi, the Kombucha mixin offering concise interactive UI test steps built on InteractionSequence, ElementTracker, and InteractionTestUtil.
+// ---
+
 #ifndef UI_BASE_INTERACTION_INTERACTIVE_TEST_H_
 #define UI_BASE_INTERACTION_INTERACTIVE_TEST_H_
 

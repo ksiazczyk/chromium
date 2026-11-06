@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputMethodBase class header
+// summary: Declares InputMethodBase, a helper base class providing functionality shared among ui::InputMethod implementations, including observer and client management.
+// ---
+
 #ifndef UI_BASE_IME_INPUT_METHOD_BASE_H_
 #define UI_BASE_IME_INPUT_METHOD_BASE_H_
 

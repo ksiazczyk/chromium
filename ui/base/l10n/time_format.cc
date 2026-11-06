@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TimeFormat implementation
+// summary: Implements localized formatting of time deltas as durations, remaining, or elapsed strings, choosing units and cutoffs for precision.
+// ---
+
 #include "ui/base/l10n/time_format.h"
 
 #include <limits>

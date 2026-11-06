@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the Windows IME directory
+summary: Lists the primary and secondary reviewers responsible for changes in ui/base/ime/win.
