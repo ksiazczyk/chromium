@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Layered window check declaration
+// summary: Declares NeedsToUseLayerWindow, which reports whether an HWND should use a layered window to support transparency.
+// ---
+
 #ifndef COMPONENTS_VIZ_COMMON_DISPLAY_USE_LAYERED_WINDOW_H_
 #define COMPONENTS_VIZ_COMMON_DISPLAY_USE_LAYERED_WINDOW_H_
 

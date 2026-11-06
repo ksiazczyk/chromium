@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DemoClient implementation
+// summary: Implements the demo client that builds and submits compositor frames to the display compositor over Mojo, including embedding and rotating child surfaces.
+// ---
+
 #include "components/viz/demo/client/demo_client.h"
 
 #include <array>

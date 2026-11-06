@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoHoleDrawQuad implementation
+// summary: Implements the VideoHoleDrawQuad constructors, SetNew and SetAll methods, MaterialCast, and traced-value output of the overlay plane ID for the kVideoHole material.
+// ---
+
 #include "components/viz/common/quads/video_hole_draw_quad.h"
 
 #include <stddef.h>

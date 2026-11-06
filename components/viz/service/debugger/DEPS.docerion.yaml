@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the viz debugger
+summary: Defines the allowed include dependencies for the viz debugger directory, permitting components/viz, ui/base, ui/gfx, and mojo/public.

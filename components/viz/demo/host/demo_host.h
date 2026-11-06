@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DemoHost class declaration
+// summary: Declares the DemoHost class, a HostFrameSinkClient responsible for managing the viz service and establishing the connection between demo clients and the service.
+// ---
+
 #ifndef COMPONENTS_VIZ_DEMO_HOST_DEMO_HOST_H_
 #define COMPONENTS_VIZ_DEMO_HOST_DEMO_HOST_H_
 

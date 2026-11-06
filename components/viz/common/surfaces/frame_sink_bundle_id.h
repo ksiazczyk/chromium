@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameSinkBundleId identifier
+// summary: Defines FrameSinkBundleId, which uniquely identifies a FrameSinkBundle and its client within the Viz compositing system, with hashing support.
+// ---
+
 #ifndef COMPONENTS_VIZ_COMMON_SURFACES_FRAME_SINK_BUNDLE_ID_H_
 #define COMPONENTS_VIZ_COMMON_SURFACES_FRAME_SINK_BUNDLE_ID_H_
 

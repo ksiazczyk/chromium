@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Picture draw quad implementation
+// summary: Implements PictureDrawQuad for on-demand tile rasterization, including setup, material casting, and trace value output.
+// ---
+
 #include "components/viz/common/quads/picture_draw_quad.h"
 
 #include <utility>

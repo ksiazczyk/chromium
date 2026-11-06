@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContextProvider interface header
+// summary: Declares the ContextProvider interface for binding a 3D context and accessing GLES2, shared images, capabilities, and loss notifications.
+// ---
+
 #ifndef COMPONENTS_VIZ_COMMON_GPU_CONTEXT_PROVIDER_H_
 #define COMPONENTS_VIZ_COMMON_GPU_CONTEXT_PROVIDER_H_
 

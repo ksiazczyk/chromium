@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CopyOutputRequest implementation
+// summary: Implements the CopyOutputRequest class for one-off copies of surface or layer output, covering result formats, destinations, scaling ratios, blit requests, and tracing.
+// ---
+
 #include "components/viz/common/frame_sinks/copy_output_request.h"
 
 #include <algorithm>

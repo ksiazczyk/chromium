@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoHoleDrawQuad class header
+// summary: Declares the VideoHoleDrawQuad used by Chromecast to activate a video overlay, carrying an overlay plane ID that identifies the video overlay frame origin for SetGeometry calls.
+// ---
+
 #ifndef COMPONENTS_VIZ_COMMON_QUADS_VIDEO_HOLE_DRAW_QUAD_H_
 #define COMPONENTS_VIZ_COMMON_QUADS_VIDEO_HOLE_DRAW_QUAD_H_
 

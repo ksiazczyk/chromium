@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Viz host DEPS file
+summary: Lists the include dependencies allowed for files in the viz host directory, referencing the viz README for dependency rules.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Viz host OWNERS file
+summary: Delegates per-file review ownership of the client frame sink video capturer files to the video capture team's owners.

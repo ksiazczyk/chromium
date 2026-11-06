@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CompositorFrameTransitionDirective unit tests
+// summary: Unit tests checking that directive getters reflect their parameters and that TransitionUtils computes pixel alignment offsets for various transforms.
+// ---
+
 #include "components/viz/common/quads/compositor_frame_transition_directive.h"
 
 #include "components/viz/common/transition_utils.h"

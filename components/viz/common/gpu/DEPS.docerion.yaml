@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS dependency rules for viz common gpu
+summary: Defines the allowed include dependencies for the components/viz/common/gpu directory.

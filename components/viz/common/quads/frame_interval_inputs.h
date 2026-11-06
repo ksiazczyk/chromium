@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Frame interval inputs declarations
+// summary: Declares FrameIntervalInputs and ContentFrameIntervalInfo structures describing client content frame intervals, input state, and scroll speed.
+// ---
+
 #ifndef COMPONENTS_VIZ_COMMON_QUADS_FRAME_INTERVAL_INPUTS_H_
 #define COMPONENTS_VIZ_COMMON_QUADS_FRAME_INTERVAL_INPUTS_H_
 

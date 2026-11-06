@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RegionCaptureBounds implementation
+// summary: Implements the RegionCaptureBounds map from region capture crop IDs to crop rectangles, including set, reset, empty instance, and string conversion operations.
+// ---
+
 #include "components/viz/common/surfaces/region_capture_bounds.h"
 
 #include <sstream>

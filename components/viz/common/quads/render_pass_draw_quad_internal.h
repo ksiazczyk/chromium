@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenderPassDrawQuadInternal class declaration
+// summary: Declares the RenderPassDrawQuadInternal draw quad holding mask, filter, and backdrop filter state for render pass quads.
+// ---
+
 #ifndef COMPONENTS_VIZ_COMMON_QUADS_RENDER_PASS_DRAW_QUAD_INTERNAL_H_
 #define COMPONENTS_VIZ_COMMON_QUADS_RENDER_PASS_DRAW_QUAD_INTERNAL_H_
 

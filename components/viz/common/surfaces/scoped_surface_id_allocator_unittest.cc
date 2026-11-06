@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScopedSurfaceIdAllocator unit tests
+// summary: Unit tests verifying callback invocation, allocation suppression, and lifetime transfer across move construction and move assignment of the scoped allocator.
+// ---
+
 #include "components/viz/common/surfaces/scoped_surface_id_allocator.h"
 
 #include "base/functional/bind.h"

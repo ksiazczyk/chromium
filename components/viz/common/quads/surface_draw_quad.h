@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SurfaceDrawQuad class header
+// summary: Declares a DrawQuad subclass referencing a SurfaceRange, with default background color, stretch, reflection, merge, and child filter quality overrides.
+// ---
+
 #ifndef COMPONENTS_VIZ_COMMON_QUADS_SURFACE_DRAW_QUAD_H_
 #define COMPONENTS_VIZ_COMMON_QUADS_SURFACE_DRAW_QUAD_H_
 

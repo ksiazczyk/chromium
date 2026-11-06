@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Viz host export macros
+// summary: Defines the VIZ_HOST_EXPORT macro controlling symbol visibility and import or export in component builds of the viz host library.
+// ---
+
 #ifndef COMPONENTS_VIZ_HOST_VIZ_HOST_EXPORT_H_
 #define COMPONENTS_VIZ_HOST_VIZ_HOST_EXPORT_H_
 

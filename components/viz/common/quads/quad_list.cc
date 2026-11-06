@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quad list implementation
+// summary: Implements the QuadList container that stores draw quads with material-specific copy insertion based on largest quad size and alignment.
+// ---
+
 #include "components/viz/common/quads/quad_list.h"
 
 #include "components/viz/common/quads/compositor_render_pass_draw_quad.h"

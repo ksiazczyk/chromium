@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PlatformColor best texture format helper
+// summary: Returns the most efficient supported texture and renderbuffer formats based on GPU capabilities and BGRA support.
+// ---
+
 #ifndef COMPONENTS_VIZ_COMMON_RESOURCES_PLATFORM_COLOR_H_
 #define COMPONENTS_VIZ_COMMON_RESOURCES_PLATFORM_COLOR_H_
 

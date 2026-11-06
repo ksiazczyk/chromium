@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TreesInVizTiming struct header
+// summary: Defines a struct of timestamps passed from viz clients to track stage times of the TreesInViz pipeline, from display tree update through prepare-to-draw, layer drawing, and compositor frame submission.
+// ---
+
 #ifndef COMPONENTS_VIZ_COMMON_QUADS_TREES_IN_VIZ_TIMING_H_
 #define COMPONENTS_VIZ_COMMON_QUADS_TREES_IN_VIZ_TIMING_H_
 

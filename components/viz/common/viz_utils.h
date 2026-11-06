@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Viz utility function declarations
+// summary: Declares viz helper functions for quad rectangles, filter-expanded rects, view transition transforms, file descriptor stats, and copy output request result sizing.
+// ---
+
 #ifndef COMPONENTS_VIZ_COMMON_VIZ_UTILS_H_
 #define COMPONENTS_VIZ_COMMON_VIZ_UTILS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Peak GPU memory callback declaration
+// summary: Declares the callback invoked by the GPU service to report peak memory usage and its per-source allocation breakdown to UMA histograms.
+// ---
+
 #ifndef COMPONENTS_VIZ_COMMON_RESOURCES_PEAK_GPU_MEMORY_CALLBACK_H_
 #define COMPONENTS_VIZ_COMMON_RESOURCES_PEAK_GPU_MEMORY_CALLBACK_H_
 

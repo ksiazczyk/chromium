@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HostFrameSinkManager class declaration
+// summary: Declares HostFrameSinkManager, a UI-thread wrapper of mojom::FrameSinkManager that manages frame sinks, hit-test data, and video capturers for the host.
+// ---
+
 #ifndef COMPONENTS_VIZ_HOST_HOST_FRAME_SINK_MANAGER_H_
 #define COMPONENTS_VIZ_HOST_HOST_FRAME_SINK_MANAGER_H_
 

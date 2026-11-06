@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the viz common library
+summary: GN build file defining the viz_common component target, its source list, buildflag headers, and related build settings.

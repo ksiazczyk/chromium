@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Picture draw quad declarations
+// summary: Declares PictureDrawQuad, a content draw quad carrying display item lists for on-demand tile rasterization.
+// ---
+
 #ifndef COMPONENTS_VIZ_COMMON_QUADS_PICTURE_DRAW_QUAD_H_
 #define COMPONENTS_VIZ_COMMON_QUADS_PICTURE_DRAW_QUAD_H_
 

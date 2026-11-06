@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Viz debugger internal test helper implementation
+// summary: Implements accessor, buffer capacity, and reset methods of VizDebuggerInternal, a test subclass of VizDebugger used by the debugger unit tests.
+// ---
+
 #include "components/viz/service/debugger/viz_debugger_unittests/viz_debugger_internal.h"
 
 #if VIZ_DEBUGGER_IS_ON()

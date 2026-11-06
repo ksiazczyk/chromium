@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedImageFormat utility functions
+// summary: Implements utilities for SharedImageFormat, including mapping formats to UMA enum values and supporting graphics types like SkColorType and GL formats.
+// ---
+
 #include "components/viz/common/resources/shared_image_format_utils.h"
 
 #include <GLES2/gl2.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Layered window check implementation
+// summary: Implements NeedsToUseLayerWindow, which checks an HWND property to decide whether a window needs layered window support for transparency on Windows.
+// ---
+
 #include "components/viz/common/display/use_layered_window.h"
 
 #include "ui/base/win/internal_constants.h"

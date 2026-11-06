@@ -1,0 +1,4 @@
+# Docerion header of viz_debugger.mojom.
+type: source
+title: VizDebugOutput Mojom interface definition
+summary: Defines the VizDebugOutput Mojom interface through which the viz service process sends debugger frame data to GpuHostImpl in the browser process.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SurfaceId comparison and string formatting implementation
+// summary: Implements SurfaceId methods for string conversion, ordering checks such as IsNewerThan, embed token comparison and smallest-id reduction.
+// ---
+
 #include "components/viz/common/surfaces/surface_id.h"
 
 #include <algorithm>

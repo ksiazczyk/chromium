@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocalSurfaceId
+// summary: Declares the LocalSurfaceId struct that identifies a surface among those created by a client, combining parent and child sequence numbers with an unguessable embed token.
+// ---
+
 #ifndef COMPONENTS_VIZ_COMMON_SURFACES_LOCAL_SURFACE_ID_H_
 #define COMPONENTS_VIZ_COMMON_SURFACES_LOCAL_SURFACE_ID_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameDeadline implementation
+// summary: Implements FrameDeadline helpers that convert a compositor frame deadline to wall time and format it as a string.
+// ---
+
 #include "components/viz/common/quads/frame_deadline.h"
 
 #include <cinttypes>

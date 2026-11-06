@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BlitRequest implementation
+// summary: Implements BlendBitmap and BlitRequest, which describe blitting copy output results into caller-owned textures with optional bitmap blending.
+// ---
+
 #include "components/viz/common/frame_sinks/blit_request.h"
 
 #include <utility>

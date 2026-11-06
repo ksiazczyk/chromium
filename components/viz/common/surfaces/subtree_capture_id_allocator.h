@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SubtreeCaptureIdAllocator for aura window capture IDs
+// summary: Defines an allocator that generates process-unique SubtreeCaptureIds by incrementing a counter, used for aura::Window capture.
+// ---
+
 #ifndef COMPONENTS_VIZ_COMMON_SURFACES_SUBTREE_CAPTURE_ID_ALLOCATOR_H_
 #define COMPONENTS_VIZ_COMMON_SURFACES_SUBTREE_CAPTURE_ID_ALLOCATOR_H_
 

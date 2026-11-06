@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Compositing mode reporter class declaration
+// summary: Declares the CompositingModeReporter implementation that tracks GPU versus software compositing and binds receivers and watchers.
+// ---
+
 #ifndef COMPONENTS_VIZ_HOST_COMPOSITING_MODE_REPORTER_IMPL_H_
 #define COMPONENTS_VIZ_HOST_COMPOSITING_MODE_REPORTER_IMPL_H_
 

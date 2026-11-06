@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: View transition utilities for render pass copying and logging
+// summary: Implements TransitionUtils for the view transition API, including deep copying render passes with quad filtering and converting compositor frames to debug strings.
+// ---
+
 #include "components/viz/common/transition_utils.h"
 
 #include <cmath>

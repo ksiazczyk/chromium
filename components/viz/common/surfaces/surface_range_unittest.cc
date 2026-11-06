@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SurfaceRange unit tests
+// summary: Unit tests verifying SurfaceRange inclusive and exclusive membership checks and validity across differing embed tokens and frame sinks.
+// ---
+
 #include "components/viz/common/surfaces/surface_range.h"
 #include "components/viz/common/surfaces/surface_id.h"
 

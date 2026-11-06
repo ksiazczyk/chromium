@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: View transition element resource ID implementation
+// summary: Implements the viz resource ID that identifies view transition element snapshots by transition token, local ID, and scope-snapshot flag, including equality and token matching.
+// ---
+
 #include "components/viz/common/view_transition_element_resource_id.h"
 
 #include "base/check_op.h"

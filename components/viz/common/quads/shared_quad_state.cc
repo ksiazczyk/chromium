@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedQuadState implementation
+// summary: Implements SharedQuadState constructors, equality comparison, SetAll overloads, and traced-value serialization of shared quad properties.
+// ---
+
 #include "components/viz/common/quads/shared_quad_state.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ContextCacheController unit tests
+// summary: Unit tests verifying visibility, busy, and shutdown behavior of ContextCacheController with a mocked ContextSupport.
+// ---
+
 #include "components/viz/common/gpu/context_cache_controller.h"
 
 #include <utility>

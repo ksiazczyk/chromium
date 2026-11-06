@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the shared_image_format viz component
+summary: Defines the shared_image_format viz component, listing its sources and dependencies on base, mojo, skia, and gfx.

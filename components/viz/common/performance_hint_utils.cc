@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Performance hint thread ID validation
+// summary: Implements a check that thread IDs from a sandboxed process do not belong to the current process, primarily for Android.
+// ---
+
 #include "components/viz/common/performance_hint_utils.h"
 
 #include <algorithm>

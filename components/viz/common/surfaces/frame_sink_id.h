@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameSinkId identifier
+// summary: Defines FrameSinkId, which uniquely identifies a CompositorFrameSink and its client and forms the first component of a SurfaceId.
+// ---
+
 #ifndef COMPONENTS_VIZ_COMMON_SURFACES_FRAME_SINK_ID_H_
 #define COMPONENTS_VIZ_COMMON_SURFACES_FRAME_SINK_ID_H_
 

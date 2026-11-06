@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameSinkIdAllocator class declaration
+// summary: Declares a class that generates FrameSinkIds with a fixed client ID and an incrementally increasing sink ID.
+// ---
+
 #ifndef COMPONENTS_VIZ_COMMON_SURFACES_FRAME_SINK_ID_ALLOCATOR_H_
 #define COMPONENTS_VIZ_COMMON_SURFACES_FRAME_SINK_ID_ALLOCATOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DemoService class declaration
+// summary: Declares the demo::DemoService class, which sets up the display compositor and connects to the host over the FrameSinkManager and FrameSinkManagerClient mojom APIs.
+// ---
+
 #ifndef COMPONENTS_VIZ_DEMO_SERVICE_DEMO_SERVICE_H_
 #define COMPONENTS_VIZ_DEMO_SERVICE_DEMO_SERVICE_H_
 

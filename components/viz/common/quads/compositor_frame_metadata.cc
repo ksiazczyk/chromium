@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CompositorFrameMetadata implementation
+// summary: Implements compositor frame metadata, providing clone support and serialization of scale, scroll, deadline, and surface fields for tracing.
+// ---
+
 #include "components/viz/common/quads/compositor_frame_metadata.h"
 
 #include "base/strings/stringprintf.h"

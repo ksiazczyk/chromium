@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VizDebuggerInternal test subclass declaration
+// summary: Declares VizDebuggerInternal, a VizDebugger subclass that exposes internal buffers, counters, filters, and the read-write lock for unit tests.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_DEBUGGER_VIZ_DEBUGGER_UNITTESTS_VIZ_DEBUGGER_INTERNAL_H_
 #define COMPONENTS_VIZ_SERVICE_DEBUGGER_VIZ_DEBUGGER_UNITTESTS_VIZ_DEBUGGER_INTERNAL_H_
 

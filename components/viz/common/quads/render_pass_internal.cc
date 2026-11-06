@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenderPassInternal implementation
+// summary: Implements RenderPassInternal construction, shared quad state creation, and quad replacement with solid color or hole punch quads.
+// ---
+
 #include "components/viz/common/quads/render_pass_internal.h"
 
 #include <stddef.h>

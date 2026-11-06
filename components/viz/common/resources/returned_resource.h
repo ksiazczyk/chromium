@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Returned resource structs for child compositors
+// summary: Declares ReturnedResource and ReturnedResourceViz structs passed from parent to child compositor, carrying IDs, sync tokens, release fences, counts, and lost flags.
+// ---
+
 #ifndef COMPONENTS_VIZ_COMMON_RESOURCES_RETURNED_RESOURCE_H_
 #define COMPONENTS_VIZ_COMMON_RESOURCES_RETURNED_RESOURCE_H_
 

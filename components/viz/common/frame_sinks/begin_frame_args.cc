@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BeginFrameArgs implementation
+// summary: Implements BeginFrameId, PossibleDeadline, and BeginFrameArgs helpers, including type naming, tracing, and string conversion for frame scheduling.
+// ---
+
 #include "components/viz/common/frame_sinks/begin_frame_args.h"
 
 #include <utility>

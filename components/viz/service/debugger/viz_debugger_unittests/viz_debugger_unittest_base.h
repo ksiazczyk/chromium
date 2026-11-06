@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Viz debugger test base class declaration
+// summary: Declares VisualDebuggerTestBase, TestFilter, and StaticSource, the shared fixtures and helpers for the VizDebugger unit tests.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_DEBUGGER_VIZ_DEBUGGER_UNITTESTS_VIZ_DEBUGGER_UNITTEST_BASE_H_
 #define COMPONENTS_VIZ_SERVICE_DEBUGGER_VIZ_DEBUGGER_UNITTESTS_VIZ_DEBUGGER_UNITTEST_BASE_H_
 

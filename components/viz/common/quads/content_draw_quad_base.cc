@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentDrawQuadBase implementation
+// summary: Implements the base class for content draw quads, setting texture coordinate rect, nearest-neighbor and anti-aliasing flags and tracing them.
+// ---
+
 #include "components/viz/common/quads/content_draw_quad_base.h"
 
 #include "base/trace_event/traced_value.h"

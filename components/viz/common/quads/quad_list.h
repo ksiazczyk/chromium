@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuadList draw quad container
+// summary: Defines a QuadList container of DrawQuad objects kept in front-to-back order, with back-to-front iteration helpers and copy insertion.
+// ---
+
 #ifndef COMPONENTS_VIZ_COMMON_QUADS_QUAD_LIST_H_
 #define COMPONENTS_VIZ_COMMON_QUADS_QUAD_LIST_H_
 

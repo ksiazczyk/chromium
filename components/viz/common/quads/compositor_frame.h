@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CompositorFrame class declaration
+// summary: Declares the complete compositor output structure with metadata, transferable resources, and an ordered render pass list ending in the root pass.
+// ---
+
 #ifndef COMPONENTS_VIZ_COMMON_QUADS_COMPOSITOR_FRAME_H_
 #define COMPONENTS_VIZ_COMMON_QUADS_COMPOSITOR_FRAME_H_
 

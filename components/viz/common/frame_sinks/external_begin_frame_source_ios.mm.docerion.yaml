@@ -1,0 +1,4 @@
+# Docerion header of external_begin_frame_source_ios.mm.
+type: source
+title: iOS external begin frame source implementation using CADisplayLink
+summary: Implements ExternalBeginFrameSourceIOS with a CADisplayLink wrapper that delivers VSync updates and manages preferred refresh rates up to 120Hz on iOS.

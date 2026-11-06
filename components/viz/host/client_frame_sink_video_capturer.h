@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client frame sink video capturer interface
+// summary: Declares the client library for FrameSinkVideoCapturer, including a reconnectable Overlay class, so clients survive Viz crashes.
+// ---
+
 #ifndef COMPONENTS_VIZ_HOST_CLIENT_FRAME_SINK_VIDEO_CAPTURER_H_
 #define COMPONENTS_VIZ_HOST_CLIENT_FRAME_SINK_VIDEO_CAPTURER_H_
 

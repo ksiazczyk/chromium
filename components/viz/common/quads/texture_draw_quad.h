@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TextureDrawQuad class header
+// summary: Declares a DrawQuad subclass for textured content with normalized texture coordinates, overlay priority, secure output, and video frame flags.
+// ---
+
 #ifndef COMPONENTS_VIZ_COMMON_QUADS_TEXTURE_DRAW_QUAD_H_
 #define COMPONENTS_VIZ_COMMON_QUADS_TEXTURE_DRAW_QUAD_H_
 

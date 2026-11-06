@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Viz command-line switch names and parsing helpers
+// summary: Defines command-line switch constants for surface deadlines, delegated ink rendering, frame rate limiting, hardware overlays, and debug visuals, plus functions that parse them.
+// ---
+
 #include "components/viz/common/switches.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Copy output utility declarations
+// summary: Declares ComputeResultRect and the RenderPassGeometry struct that describe copy output request geometry in draw and window coordinate spaces.
+// ---
+
 #ifndef COMPONENTS_VIZ_COMMON_FRAME_SINKS_COPY_OUTPUT_UTIL_H_
 #define COMPONENTS_VIZ_COMMON_FRAME_SINKS_COPY_OUTPUT_UTIL_H_
 

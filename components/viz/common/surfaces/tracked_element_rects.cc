@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tracked element rects implementation
+// summary: Implements string formatting for tracked element rects and lists, plus a shared global empty TrackedElementRects instance for the viz compositor.
+// ---
+
 #include "components/viz/common/surfaces/tracked_element_rects.h"
 
 #include <sstream>

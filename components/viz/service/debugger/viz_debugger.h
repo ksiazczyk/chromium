@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VizDebugger class declaration
+// summary: Declares the VizDebugger class with debug stream control, source registration, buffers, and color helpers, gated by the USE_VIZ_DEBUGGER build flag.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_DEBUGGER_VIZ_DEBUGGER_H_
 #define COMPONENTS_VIZ_SERVICE_DEBUGGER_VIZ_DEBUGGER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Offset tag declarations
+// summary: Declares OffsetTag, OffsetTagValue, OffsetTagConstraints, and OffsetTagDefinition for moving tagged quads via compositor offsets.
+// ---
+
 #ifndef COMPONENTS_VIZ_COMMON_QUADS_OFFSET_TAG_H_
 #define COMPONENTS_VIZ_COMMON_QUADS_OFFSET_TAG_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GpuHostImpl class declaration
+// summary: Declares GpuHostImpl, a mojom::GpuHost and GpuLogging implementation with a delegate interface for embedding the viz GPU service in a host process.
+// ---
+
 #ifndef COMPONENTS_VIZ_HOST_GPU_HOST_IMPL_H_
 #define COMPONENTS_VIZ_HOST_GPU_HOST_IMPL_H_
 

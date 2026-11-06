@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContextCacheController implementation
+// summary: Implements ContextCacheController, which frees cached GPU resources when all clients become invisible or idle.
+// ---
+
 #include "components/viz/common/gpu/context_cache_controller.h"
 
 #include <utility>

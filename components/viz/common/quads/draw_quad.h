@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DrawQuad base class declaration
+// summary: Declares the DrawQuad base class with the Material enum, quad rects, blending and shared quad state used by all draw quad types.
+// ---
+
 #ifndef COMPONENTS_VIZ_COMMON_QUADS_DRAW_QUAD_H_
 #define COMPONENTS_VIZ_COMMON_QUADS_DRAW_QUAD_H_
 

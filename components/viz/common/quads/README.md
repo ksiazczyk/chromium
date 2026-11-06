@@ -1,3 +1,9 @@
+---
+type: readme
+title: quads/ directory overview
+summary: Explains that the directory holds transport data structures for submitting frames from the viz client to the service, rooted at CompositorFrame.
+---
+
 # quads/
 
 This directory contains the transport data structures for submitting frames

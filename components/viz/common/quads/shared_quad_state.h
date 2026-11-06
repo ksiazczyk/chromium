@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedQuadState class header
+// summary: Declares SharedQuadState, which holds properties shared by adjacent DrawQuads such as transforms, clip rects, opacity, blend mode, and layer IDs.
+// ---
+
 #ifndef COMPONENTS_VIZ_COMMON_QUADS_SHARED_QUAD_STATE_H_
 #define COMPONENTS_VIZ_COMMON_QUADS_SHARED_QUAD_STATE_H_
 

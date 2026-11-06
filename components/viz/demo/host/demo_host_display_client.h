@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DemoHostDisplayClient class declaration
+// summary: Declares a viz::HostDisplayClient subclass for the demo host that supports attaching child windows to the browser on Windows.
+// ---
+
 #ifndef COMPONENTS_VIZ_DEMO_HOST_DEMO_HOST_DISPLAY_CLIENT_H_
 #define COMPONENTS_VIZ_DEMO_HOST_DEMO_HOST_DISPLAY_CLIENT_H_
 

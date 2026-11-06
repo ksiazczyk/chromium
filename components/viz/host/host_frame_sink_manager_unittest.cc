@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HostFrameSinkManager unit tests
+// summary: Unit tests for HostFrameSinkManager covering frame sink registration, invalidation, and compositor frame sink creation using mock and fake clients.
+// ---
+
 #include "components/viz/host/host_frame_sink_manager.h"
 
 #include <memory>

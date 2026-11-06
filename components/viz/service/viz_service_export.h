@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Viz service export macro
+// summary: C++ header defining the VIZ_SERVICE_EXPORT macro for exporting or importing symbols in component builds.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_VIZ_SERVICE_EXPORT_H_
 #define COMPONENTS_VIZ_SERVICE_VIZ_SERVICE_EXPORT_H_
 

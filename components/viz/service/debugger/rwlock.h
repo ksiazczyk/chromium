@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RWLock class declaration
+// summary: Declares the RWLock class, a read-write lock based on an atomic 32-bit state, exported from the viz service.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_DEBUGGER_RWLOCK_H_
 #define COMPONENTS_VIZ_SERVICE_DEBUGGER_RWLOCK_H_
 

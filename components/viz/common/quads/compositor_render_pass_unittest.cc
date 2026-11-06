@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CompositorRenderPass unit tests
+// summary: Unit tests verifying render pass copying, quad list comparison, and aggregation behavior for compositor render passes.
+// ---
+
 #include "components/viz/common/quads/compositor_render_pass.h"
 
 #include <stddef.h>

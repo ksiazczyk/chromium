@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the viz demo host directory
+summary: Defines the allowed include paths for the viz demo host component, granting access to demo common and client code, viz host, and privileged viz service interfaces.

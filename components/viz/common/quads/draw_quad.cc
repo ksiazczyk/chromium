@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DrawQuad implementation
+// summary: Implements the DrawQuad base class, initializing quad geometry, blending and shared state and serializing quad data into trace values.
+// ---
+
 #include "components/viz/common/quads/draw_quad.h"
 
 #include <stddef.h>

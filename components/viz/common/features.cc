@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Viz feature flag definitions
+// summary: Defines base Feature flags and field trial parameters controlling viz compositing, overlays, buffer queues, and frame pacing across platforms.
+// ---
+
 #include "components/viz/common/features.h"
 
 #include <algorithm>

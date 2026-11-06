@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CompositorRenderPassDrawQuad implementation
+// summary: Implements the draw quad that references a compositor render pass, setting mask resources, filters, and backdrop filter parameters.
+// ---
+
 #include "components/viz/common/quads/compositor_render_pass_draw_quad.h"
 
 #include "base/trace_event/traced_value.h"

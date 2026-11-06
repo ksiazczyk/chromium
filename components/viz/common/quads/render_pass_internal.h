@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenderPassInternal class declaration
+// summary: Declares RenderPassInternal, holding output and damage rects, transforms, copy requests, and the quad and shared quad state lists.
+// ---
+
 #ifndef COMPONENTS_VIZ_COMMON_QUADS_RENDER_PASS_INTERNAL_H_
 #define COMPONENTS_VIZ_COMMON_QUADS_RENDER_PASS_INTERNAL_H_
 

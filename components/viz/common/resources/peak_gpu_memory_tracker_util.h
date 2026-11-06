@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Peak GPU memory tracker utility declarations
+// summary: Declares the SequenceLocation enum and helper functions for generating and interpreting tracker sequence numbers.
+// ---
+
 #ifndef COMPONENTS_VIZ_COMMON_RESOURCES_PEAK_GPU_MEMORY_TRACKER_UTIL_H_
 #define COMPONENTS_VIZ_COMMON_RESOURCES_PEAK_GPU_MEMORY_TRACKER_UTIL_H_
 

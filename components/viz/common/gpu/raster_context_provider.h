@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RasterContextProvider interface header
+// summary: Declares the RasterContextProvider interface for raster 3D contexts, covering binding, locking, context loss observers, cache controller, shared images, and capabilities.
+// ---
+
 #ifndef COMPONENTS_VIZ_COMMON_GPU_RASTER_CONTEXT_PROVIDER_H_
 #define COMPONENTS_VIZ_COMMON_GPU_RASTER_CONTEXT_PROVIDER_H_
 

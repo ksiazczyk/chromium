@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Copy output geometry utilities
+// summary: Implements integer-math helpers that compute scaled result rectangles and render pass geometry for copy output requests, guarding against overflow and out-of-range values.
+// ---
+
 #include "components/viz/common/frame_sinks/copy_output_util.h"
 
 #include <stdint.h>

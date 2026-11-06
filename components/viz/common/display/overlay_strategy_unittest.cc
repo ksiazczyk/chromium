@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Overlay strategy parser unit tests
+// summary: Unit tests verifying that ParseOverlayStrategies handles empty lists, full strategy lists, and unrecognized strategy values.
+// ---
+
 #include "components/viz/common/display/overlay_strategy.h"
 
 #include <string>

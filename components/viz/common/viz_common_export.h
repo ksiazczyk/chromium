@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Viz common export macros
+// summary: Defines the VIZ_COMMON_EXPORT macro that controls DLL import and export of viz common symbols on Windows and symbol visibility on other platforms.
+// ---
+
 #ifndef COMPONENTS_VIZ_COMMON_VIZ_COMMON_EXPORT_H_
 #define COMPONENTS_VIZ_COMMON_VIZ_COMMON_EXPORT_H_
 

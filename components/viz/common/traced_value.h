@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Traced value class for Viz trace event snapshots
+// summary: Declares the TracedValue class and its Id wrapper for safely converting pointers to tracing IDs used in trace event snapshots.
+// ---
+
 #ifndef COMPONENTS_VIZ_COMMON_TRACED_VALUE_H_
 #define COMPONENTS_VIZ_COMMON_TRACED_VALUE_H_
 

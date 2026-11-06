@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Largest draw quad size and alignment declarations
+// summary: Declares functions returning the largest draw quad size and alignment used by quad list containers.
+// ---
+
 #ifndef COMPONENTS_VIZ_COMMON_QUADS_LARGEST_DRAW_QUAD_H_
 #define COMPONENTS_VIZ_COMMON_QUADS_LARGEST_DRAW_QUAD_H_
 

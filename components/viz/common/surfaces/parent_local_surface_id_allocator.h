@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ParentLocalSurfaceIdAllocator
+// summary: Declares a helper class for generating LocalSurfaceIds for a single FrameSink, with UpdateFromChild, Invalidate, GenerateId, and embed token accessors.
+// ---
+
 #ifndef COMPONENTS_VIZ_COMMON_SURFACES_PARENT_LOCAL_SURFACE_ID_ALLOCATOR_H_
 #define COMPONENTS_VIZ_COMMON_SURFACES_PARENT_LOCAL_SURFACE_ID_ALLOCATOR_H_
 

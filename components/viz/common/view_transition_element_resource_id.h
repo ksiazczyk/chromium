@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: View transition element resource ID class declaration
+// summary: Declares the ViewTransitionElementResourceId class with hashing, validity checks, and the ViewTransitionElementResourceRects map type for view transition snapshots.
+// ---
+
 #ifndef COMPONENTS_VIZ_COMMON_VIEW_TRANSITION_ELEMENT_RESOURCE_ID_H_
 #define COMPONENTS_VIZ_COMMON_VIEW_TRANSITION_ELEMENT_RESOURCE_ID_H_
 

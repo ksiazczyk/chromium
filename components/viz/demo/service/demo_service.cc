@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DemoService implementation
+// summary: Implements DemoService, which sets up the display compositor by creating the viz compositor thread runner, GPU init, an IO thread, and the GPU service, then connects to the host via the FrameSinkManager mojom API.
+// ---
+
 #include "components/viz/demo/service/demo_service.h"
 
 #include <memory>

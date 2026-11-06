@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Peak GPU memory callback implementation
+// summary: Reports peak GPU memory usage to UMA histograms, categorized by usage type and allocation source.
+// ---
+
 #include "components/viz/common/resources/peak_gpu_memory_callback.h"
 
 #include <memory>

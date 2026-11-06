@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client frame sink video capturer implementation
+// summary: Implements the reconnectable client-side frame sink video capturer that forwards capture settings to the remote and re-establishes lost connections.
+// ---
+
 #include "components/viz/host/client_frame_sink_video_capturer.h"
 
 #include <algorithm>

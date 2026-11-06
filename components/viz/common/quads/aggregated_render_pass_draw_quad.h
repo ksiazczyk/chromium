@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AggregatedRenderPassDrawQuad class declaration
+// summary: Declares a draw quad referencing an aggregated render pass by ID, with mask, filter, and blending properties plus a MaterialCast helper.
+// ---
+
 #ifndef COMPONENTS_VIZ_COMMON_QUADS_AGGREGATED_RENDER_PASS_DRAW_QUAD_H_
 #define COMPONENTS_VIZ_COMMON_QUADS_AGGREGATED_RENDER_PASS_DRAW_QUAD_H_
 

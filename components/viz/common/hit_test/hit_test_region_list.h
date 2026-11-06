@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hit-test region list, flags, and region structs
+// summary: Defines HitTestRegionFlags, AsyncHitTestReasons, HitTestRegion, and HitTestRegionList describing hit-test regions, their bounds, transforms, and front-to-back ordering.
+// ---
+
 #ifndef COMPONENTS_VIZ_COMMON_HIT_TEST_HIT_TEST_REGION_LIST_H_
 #define COMPONENTS_VIZ_COMMON_HIT_TEST_HIT_TEST_REGION_LIST_H_
 

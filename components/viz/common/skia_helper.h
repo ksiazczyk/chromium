@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skia helper declarations for overdraw and opacity filters
+// summary: Declares the SkiaHelper class with static helpers to create an overdraw color filter and an opacity image filter.
+// ---
+
 #ifndef COMPONENTS_VIZ_COMMON_SKIA_HELPER_H_
 #define COMPONENTS_VIZ_COMMON_SKIA_HELPER_H_
 

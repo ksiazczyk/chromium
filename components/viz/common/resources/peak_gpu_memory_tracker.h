@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PeakGpuMemoryTracker interface
+// summary: Defines the tracker interface that reports peak GPU memory usage to UMA on destruction, with a Usage enum for tracked user interactions.
+// ---
+
 #ifndef COMPONENTS_VIZ_COMMON_RESOURCES_PEAK_GPU_MEMORY_TRACKER_H_
 #define COMPONENTS_VIZ_COMMON_RESOURCES_PEAK_GPU_MEMORY_TRACKER_H_
 

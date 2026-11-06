@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Offset tag constraints unit tests
+// summary: Unit tests verifying clamping of offsets and visible rect expansion for offset tag constraints.
+// ---
+
 #include "components/viz/common/quads/offset_tag.h"
 
 #include "base/logging.h"

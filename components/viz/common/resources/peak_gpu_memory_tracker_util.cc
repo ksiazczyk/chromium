@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Peak GPU memory tracker sequence number utilities
+// summary: Generates unique sequence numbers for peak GPU memory trackers, using even numbers for the browser process and odd numbers for the GPU process.
+// ---
+
 #include "components/viz/common/resources/peak_gpu_memory_tracker_util.h"
 
 #include "base/notreached.h"

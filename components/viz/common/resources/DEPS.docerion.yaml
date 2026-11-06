@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for viz common resources
+summary: Specifies allowable include dependencies for the resources directory, with a special rule for shared_image_format.h.

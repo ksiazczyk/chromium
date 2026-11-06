@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video capture target definitions
+// summary: Defines the VideoCaptureSubTarget variant covering tab, subtree, and region capture, and the VideoCaptureTarget struct selecting a frame sink capture target.
+// ---
+
 #ifndef COMPONENTS_VIZ_COMMON_SURFACES_VIDEO_CAPTURE_TARGET_H_
 #define COMPONENTS_VIZ_COMMON_SURFACES_VIDEO_CAPTURE_TARGET_H_
 

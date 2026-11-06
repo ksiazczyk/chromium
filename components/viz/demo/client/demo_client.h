@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DemoClient class declaration
+// summary: Declares the DemoClient class that communicates with the display compositor via the CompositorFrameSink Mojo interfaces and manages embedding, resizing and frame submission.
+// ---
+
 #ifndef COMPONENTS_VIZ_DEMO_CLIENT_DEMO_CLIENT_H_
 #define COMPONENTS_VIZ_DEMO_CLIENT_DEMO_CLIENT_H_
 

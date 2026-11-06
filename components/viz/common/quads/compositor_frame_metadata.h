@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CompositorFrameMetadata class declaration
+// summary: Declares frame metadata fields such as device scale factor, scroll and page scale, deadlines, referenced surfaces, and frame token helpers.
+// ---
+
 #ifndef COMPONENTS_VIZ_COMMON_QUADS_COMPOSITOR_FRAME_METADATA_H_
 #define COMPONENTS_VIZ_COMMON_QUADS_COMPOSITOR_FRAME_METADATA_H_
 

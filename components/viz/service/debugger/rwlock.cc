@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RWLock implementation
+// summary: Implements an atomic read-write lock with read and write lock and unlock operations used by the viz debugger.
+// ---
+
 #include "components/viz/service/debugger/rwlock.h"
 
 namespace rwlock {
