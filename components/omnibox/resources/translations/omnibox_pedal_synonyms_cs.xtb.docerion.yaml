@@ -1,0 +1,4 @@
+# Docerion header of omnibox_pedal_synonyms_cs.xtb.
+type: data
+title: Czech omnibox pedal synonyms translation bundle
+summary: XML translation bundle with Czech synonym phrases for Chrome omnibox pedal actions such as account management, updates, and the dinosaur game.

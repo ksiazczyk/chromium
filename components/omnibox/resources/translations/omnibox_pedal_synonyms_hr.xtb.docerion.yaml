@@ -1,0 +1,4 @@
+# Docerion header of omnibox_pedal_synonyms_hr.xtb.
+type: data
+title: Omnibox pedal synonyms in Croatian
+summary: Croatian translation bundle with synonym phrases that help the Chrome omnibox match user queries to pedal actions such as sharing a page or updating the browser.

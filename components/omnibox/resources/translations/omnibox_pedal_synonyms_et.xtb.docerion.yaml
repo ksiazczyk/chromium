@@ -1,0 +1,4 @@
+# Docerion header of omnibox_pedal_synonyms_et.xtb.
+type: data
+title: Estonian omnibox pedal synonyms
+summary: Estonian translation bundle providing synonym phrases that trigger Chrome omnibox pedal actions.

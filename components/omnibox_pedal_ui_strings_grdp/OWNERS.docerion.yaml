@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file inheriting omnibox owners
+summary: Delegates code ownership of this directory to the components/omnibox OWNERS file.

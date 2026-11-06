@@ -1,0 +1,4 @@
+# Docerion header of omnibox_pedal_synonyms_ja.xtb.
+type: data
+title: Omnibox pedal synonyms in Japanese
+summary: Japanese translation bundle with synonym phrases that help the Chrome omnibox match user queries to pedal actions such as updating Chrome or creating calendar events.

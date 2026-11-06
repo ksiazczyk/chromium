@@ -1,0 +1,4 @@
+# Docerion header of omnibox_pedal_synonyms_sw.xtb.
+type: data
+title: Swahili omnibox pedal synonyms translation bundle
+summary: XML translation bundle with Swahili synonym phrases for Chrome omnibox pedals, covering localized queries for cookies, payments, sync and other browser actions.

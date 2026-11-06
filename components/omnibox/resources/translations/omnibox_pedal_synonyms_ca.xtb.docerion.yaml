@@ -1,0 +1,4 @@
+# Docerion header of omnibox_pedal_synonyms_ca.xtb.
+type: data
+title: Catalan omnibox pedal synonyms translation bundle
+summary: XML translation bundle with Catalan synonym phrases for Chrome omnibox pedal actions such as account management, page translation, and site permissions.

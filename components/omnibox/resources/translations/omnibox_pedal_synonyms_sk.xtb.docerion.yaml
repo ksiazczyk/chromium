@@ -1,0 +1,4 @@
+# Docerion header of omnibox_pedal_synonyms_sk.xtb.
+type: data
+title: Omnibox pedal synonyms in Slovak
+summary: Slovak XML translation bundle listing localized synonym phrases that trigger Chrome omnibox pedal actions, such as sharing a page or changing settings.

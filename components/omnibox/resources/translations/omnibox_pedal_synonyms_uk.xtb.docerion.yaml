@@ -1,0 +1,4 @@
+# Docerion header of omnibox_pedal_synonyms_uk.xtb.
+type: data
+title: Ukrainian omnibox pedal synonyms translation bundle
+summary: XML translation bundle with Ukrainian synonym phrases for Chrome omnibox pedals, mapping localized queries like accessibility settings or default browser setup to actions.

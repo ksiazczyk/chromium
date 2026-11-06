@@ -1,0 +1,4 @@
+# Docerion header of omnibox_pedal_synonyms_lv.xtb.
+type: data
+title: Omnibox pedal synonyms in Latvian
+summary: Latvian translation bundle with synonym phrases that help the Chrome omnibox match user queries to pedal actions such as managing cookies or setting the default browser.

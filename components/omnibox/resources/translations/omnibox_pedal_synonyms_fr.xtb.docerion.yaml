@@ -1,0 +1,4 @@
+# Docerion header of omnibox_pedal_synonyms_fr.xtb.
+type: data
+title: French omnibox pedal synonyms
+summary: French translation bundle providing synonym phrases that trigger Chrome omnibox pedal actions.

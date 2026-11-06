@@ -1,0 +1,4 @@
+# Docerion header of omnibox_pedal_synonyms_id.xtb.
+type: data
+title: Omnibox pedal synonyms in Indonesian
+summary: Indonesian translation bundle with synonym phrases that help the Chrome omnibox match user queries to pedal actions such as opening incognito tabs or managing payments.

@@ -1,0 +1,4 @@
+# Docerion header of omnibox_pedal_synonyms_he.xtb.
+type: data
+title: Hebrew omnibox pedal synonyms
+summary: Hebrew translation bundle providing synonym phrases that trigger Chrome omnibox pedal actions.

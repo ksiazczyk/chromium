@@ -1,0 +1,4 @@
+# Docerion header of omnibox_pedal_synonyms_th.xtb.
+type: data
+title: Thai omnibox pedal synonyms translation bundle
+summary: XML translation bundle with Thai synonym phrases for Chrome omnibox pedals, mapping localized queries such as incognito window closing or form creation to browser actions.

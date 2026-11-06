@@ -1,0 +1,4 @@
+# Docerion header of omnibox_pedal_synonyms_kn.xtb.
+type: data
+title: Omnibox pedal synonyms in Kannada
+summary: Kannada translation bundle with synonym phrases that help the Chrome omnibox match user queries to pedal actions such as managing site permissions or creating forms.

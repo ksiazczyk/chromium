@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for omnibox resources
+summary: Designates the reviewer for changes to the omnibox pedal synonyms grd file, such as adding or removing languages.

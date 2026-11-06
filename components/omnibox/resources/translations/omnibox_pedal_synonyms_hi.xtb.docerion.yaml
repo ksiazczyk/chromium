@@ -1,0 +1,4 @@
+# Docerion header of omnibox_pedal_synonyms_hi.xtb.
+type: data
+title: Omnibox pedal synonyms in Hindi
+summary: Hindi translation bundle with synonym phrases that help the Chrome omnibox match user queries to pedal actions like managing the Google account or creating notes.

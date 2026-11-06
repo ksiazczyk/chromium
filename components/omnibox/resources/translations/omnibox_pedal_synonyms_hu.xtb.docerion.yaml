@@ -1,0 +1,4 @@
+# Docerion header of omnibox_pedal_synonyms_hu.xtb.
+type: data
+title: Omnibox pedal synonyms in Hungarian
+summary: Hungarian translation bundle with synonym phrases that help the Chrome omnibox match user queries to pedal actions such as managing settings or creating Google documents.
