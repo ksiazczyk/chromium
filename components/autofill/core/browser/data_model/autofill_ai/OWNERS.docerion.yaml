@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for Autofill AI data model
+summary: Grants ownership of Mojo files to the IPC security owners via per-file rules.

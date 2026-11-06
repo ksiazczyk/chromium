@@ -1,0 +1,4 @@
+# Docerion header of transpile_entity_schema.py.
+type: script
+title: C++ code generator for the entity schema
+summary: Script that transpiles the Autofill AI entity schema into C++ enums, name lookups, and helper functions.

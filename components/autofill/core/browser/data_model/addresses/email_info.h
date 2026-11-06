@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EmailInfo form group declaration
+// summary: Declares the EmailInfo form group that stores a single email address value for autofill field types.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_DATA_MODEL_ADDRESSES_EMAIL_INFO_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_DATA_MODEL_ADDRESSES_EMAIL_INFO_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ValuablesDataManager class interface
+// summary: Declares the ValuablesDataManager KeyedService that caches Google Wallet loyalty cards, with observer support and no persistence for off-the-record profiles.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_DATA_MANAGER_VALUABLES_VALUABLES_DATA_MANAGER_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_DATA_MANAGER_VALUABLES_VALUABLES_DATA_MANAGER_H_
 

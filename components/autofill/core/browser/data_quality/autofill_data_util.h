@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill data utilities header
+// summary: Declares the data_util helpers, including name part splitting and joining, field type group bit flags, CJK name checks, and Payment Request card network data lookups.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_DATA_QUALITY_AUTOFILL_DATA_UTIL_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_DATA_QUALITY_AUTOFILL_DATA_UTIL_H_
 

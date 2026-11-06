@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Form data importer utilities
+// summary: Declares form import utilities including a timestamped same-origin queue for tracking submitted forms and support for multi-step address profile imports.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_FORM_IMPORT_FORM_DATA_IMPORTER_UTIL_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_FORM_IMPORT_FORM_DATA_IMPORTER_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill AI access manager implementation
+// summary: Implements authentication and server-side unmasking flows for Autofill AI entities, coordinating device re-auth and wallet server fetches before filling.
+// ---
+
 #include "components/autofill/core/browser/filling/autofill_ai/autofill_ai_access_manager.h"
 
 #include <memory>

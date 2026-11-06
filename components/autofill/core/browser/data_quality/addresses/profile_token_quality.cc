@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProfileTokenQuality implementation
+// summary: Implements tracking of observations on form submission that record whether autofilled profile values were accepted or edited, using Levenshtein distance and comparisons against other profiles.
+// ---
+
 #include "components/autofill/core/browser/data_quality/addresses/profile_token_quality.h"
 
 #include <stddef.h>

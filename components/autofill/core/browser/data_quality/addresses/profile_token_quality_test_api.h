@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ProfileTokenQuality test API header
+// summary: Declares a test API exposing observation adding, hash inspection, and randomization disabling for ProfileTokenQuality in tests.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_DATA_QUALITY_ADDRESSES_PROFILE_TOKEN_QUALITY_TEST_API_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_DATA_QUALITY_ADDRESSES_PROFILE_TOKEN_QUALITY_TEST_API_H_
 

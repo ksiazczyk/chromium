@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill i18n parsing expression components unit tests
+// summary: Unit tests verifying the parsing behavior of Decomposition, DecompositionCascade, ExtractPart and ExtractParts including anchoring and version suffix handling.
+// ---
+
 #include "components/autofill/core/browser/data_model/addresses/autofill_i18n_parsing_expression_components.h"
 
 #include <vector>

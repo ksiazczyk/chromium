@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccountNameEmailStore implementation
+// summary: Implements AccountNameEmailStore, which creates, updates and removes the automatically generated account name-and-email autofill profile based on signin, sync and pref state.
+// ---
+
 #include "components/autofill/core/browser/data_manager/addresses/account_name_email_store.h"
 
 #include <memory>

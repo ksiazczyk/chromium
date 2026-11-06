@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for payments field filling utilities
+// summary: GoogleTest suite verifying credit card field filling behavior, including expiration month select options, card number, and CVC filling scenarios.
+// ---
+
 #include "components/autofill/core/browser/filling/payments/field_filling_payments_util.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HomeAndWorkMetadataStore class declaration
+// summary: Declares HomeAndWorkMetadataStore, a workaround syncing Home and Work address metadata via prefs until CONTACT_INFO sync supports uploading it.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_DATA_MANAGER_ADDRESSES_HOME_AND_WORK_METADATA_STORE_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_DATA_MANAGER_ADDRESSES_HOME_AND_WORK_METADATA_STORE_H_
 

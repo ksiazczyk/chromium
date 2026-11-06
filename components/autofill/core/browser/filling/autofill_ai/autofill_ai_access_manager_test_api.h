@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill AI access manager test API
+// summary: Test access API that lets unit tests inject a mock device authenticator into AutofillAiAccessManager.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_FILLING_AUTOFILL_AI_AUTOFILL_AI_ACCESS_MANAGER_TEST_API_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_FILLING_AUTOFILL_AI_AUTOFILL_AI_ACCESS_MANAGER_TEST_API_H_
 

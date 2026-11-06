@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PaymentsDataManagerTestBase implementation
+// summary: Sets up and tears down in-memory profile and account web databases used by PaymentsDataManager tests.
+// ---
+
 #include "components/autofill/core/browser/data_manager/payments/payments_data_manager_test_base.h"
 
 #include "base/memory/scoped_refptr.h"

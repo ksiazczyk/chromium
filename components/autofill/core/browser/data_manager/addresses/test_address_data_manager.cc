@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test address data manager implementation
+// summary: Implements a synchronous, database-free AddressDataManager fake that lets tests add, update, remove and inspect autofill profiles and override country code, enabling and account-storage eligibility behaviour.
+// ---
+
 #include "components/autofill/core/browser/data_manager/addresses/test_address_data_manager.h"
 
 #include <memory>

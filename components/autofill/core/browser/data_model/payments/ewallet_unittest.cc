@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ewallet unit tests
+// summary: Unit tests for the Ewallet class verifying field values, FIDO enrollment state, comparison ordering and payment link support.
+// ---
+
 #include "components/autofill/core/browser/data_model/payments/ewallet.h"
 
 #include "components/autofill/core/browser/test_utils/autofill_test_util.h"

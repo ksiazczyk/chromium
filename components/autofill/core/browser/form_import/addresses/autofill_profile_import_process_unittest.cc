@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill profile import process unit tests
+// summary: Unit tests for the profile import process, covering import type determination, user decisions, strike-based blocking and resulting stored profiles.
+// ---
+
 #include "components/autofill/core/browser/form_import/addresses/autofill_profile_import_process.h"
 
 #include "base/test/metrics/histogram_tester.h"

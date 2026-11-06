@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill transliterator interface
+// summary: Declares functions for removing diacritics, lowercasing, and transliterating Japanese alternative names in autofill data.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_DATA_MODEL_TRANSLITERATOR_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_DATA_MODEL_TRANSLITERATOR_H_
 

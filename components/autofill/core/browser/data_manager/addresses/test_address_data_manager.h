@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test address data manager class declaration
+// summary: Declares TestAddressDataManager, a fully synchronous AddressDataManager without database access that offers setters for country codes, profile enabling and account-storage eligibility for use in tests.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_DATA_MANAGER_ADDRESSES_TEST_ADDRESS_DATA_MANAGER_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_DATA_MANAGER_ADDRESSES_TEST_ADDRESS_DATA_MANAGER_H_
 

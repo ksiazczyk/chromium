@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Buy Now Pay Later issuer data model
+// summary: Declares the BnplIssuer data model that stores Buy Now Pay Later issuer identifiers, eligible price ranges, and linked payment instruments.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_DATA_MODEL_PAYMENTS_BNPL_ISSUER_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_DATA_MODEL_PAYMENTS_BNPL_ISSUER_H_
 

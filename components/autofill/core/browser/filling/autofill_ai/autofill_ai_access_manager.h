@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill AI access manager header
+// summary: Declares AutofillAiAccessManager, which manages device re-authentication and server fetching of unmasked Autofill AI entities for BrowserAutofillManager.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_FILLING_AUTOFILL_AI_AUTOFILL_AI_ACCESS_MANAGER_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_FILLING_AUTOFILL_AI_AUTOFILL_AI_ACCESS_MANAGER_H_
 

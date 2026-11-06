@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PhoneNumber form group implementation
+// summary: Implements the PhoneNumber form group that stores whole phone numbers and parses region-aware phone parts for matching and filling.
+// ---
+
 #include "components/autofill/core/browser/data_model/addresses/phone_number.h"
 
 #include <limits.h>

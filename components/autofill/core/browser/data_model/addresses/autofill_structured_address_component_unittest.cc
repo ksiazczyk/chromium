@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AddressComponent unit tests
+// summary: Unit tests for the AddressComponent tree, covering parsing, formatting, merging and supported field types.
+// ---
+
 #include "components/autofill/core/browser/data_model/addresses/autofill_structured_address_component.h"
 
 #include <map>

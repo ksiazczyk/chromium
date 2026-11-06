@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CountryInfo implementation
+// summary: Implements reading and setting country names and two-letter ISO-3166 codes for standalone country information in Autofill AI entities.
+// ---
+
 #include "components/autofill/core/browser/data_model/autofill_ai/country_info.h"
 
 #include <string>

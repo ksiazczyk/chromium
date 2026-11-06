@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProfileTokenQuality class declaration
+// summary: Declares ProfileTokenQuality, which stores per-field-type observations of how autofilled profile values are accepted or edited, intended for quality assessment of profile tokens.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_DATA_QUALITY_ADDRESSES_PROFILE_TOKEN_QUALITY_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_DATA_QUALITY_ADDRESSES_PROFILE_TOKEN_QUALITY_H_
 

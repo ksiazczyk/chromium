@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test API exposing FormFiller testing operations
+// summary: Provides a FormFillerTestApi that lets tests adjust the refill time limits of a FormFiller instance.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_FILLING_FORM_FILLER_TEST_API_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_FILLING_FORM_FILLER_TEST_API_H_
 

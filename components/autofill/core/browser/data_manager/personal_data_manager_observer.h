@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PersonalDataManagerObserver interface
+// summary: Declares the deprecated PersonalDataManagerObserver interface for change notifications, recommending AddressDataManager or PaymentsDataManager observers instead.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_DATA_MANAGER_PERSONAL_DATA_MANAGER_OBSERVER_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_DATA_MANAGER_PERSONAL_DATA_MANAGER_OBSERVER_H_
 

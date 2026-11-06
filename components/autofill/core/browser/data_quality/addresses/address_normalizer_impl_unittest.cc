@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for address normalizer implementation
+// summary: Unit tests for AddressNormalizerImpl covering rule loading and synchronous and asynchronous normalization using test data sources.
+// ---
+
 #include "components/autofill/core/browser/data_quality/addresses/address_normalizer_impl.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AccountNameEmailStrikeManager unit tests
+// summary: Unit tests verifying that AccountNameEmailStrikeManager only reacts to suggestions and fills involving the kAccountNameEmail profile and updates prefs accordingly.
+// ---
+
 #include "components/autofill/core/browser/data_manager/addresses/account_name_email_strike_manager.h"
 
 #include <memory>

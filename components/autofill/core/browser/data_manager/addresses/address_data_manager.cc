@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AddressDataManager implementation
+// summary: Implements AddressDataManager, managing stored autofill address profiles including ordering, queued modifications, metrics and strike database integration.
+// ---
+
 #include "components/autofill/core/browser/data_manager/addresses/address_data_manager.h"
 
 #include <algorithm>

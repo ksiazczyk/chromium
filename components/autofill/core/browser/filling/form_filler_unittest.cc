@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the FormFiller class
+// summary: Contains extensive unit tests covering the filling, refilling, and field skipping behavior of FormFiller across profiles, cards, and OTPs.
+// ---
+
 #include <stddef.h>
 
 #include <algorithm>

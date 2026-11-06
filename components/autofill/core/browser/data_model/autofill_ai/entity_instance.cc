@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EntityInstance implementation
+// summary: Implements Autofill AI entity instances and attributes, including value normalization, suffix-based equality and Google Wallet integration URLs.
+// ---
+
 #include "components/autofill/core/browser/data_model/autofill_ai/entity_instance.h"
 
 #include <stddef.h>

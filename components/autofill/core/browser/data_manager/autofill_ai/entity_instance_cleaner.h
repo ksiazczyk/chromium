@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EntityInstanceCleaner class declaration
+// summary: Declares EntityInstanceCleaner, which applies cleanups on browser startup after sync is ready, limited to local entities.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_DATA_MANAGER_AUTOFILL_AI_ENTITY_INSTANCE_CLEANER_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_DATA_MANAGER_AUTOFILL_AI_ENTITY_INSTANCE_CLEANER_H_
 

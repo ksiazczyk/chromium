@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EntityDataManager unit tests
+// summary: Unit tests covering the asynchronous database operations of EntityDataManager, using fixtures for initially empty and initially populated databases.
+// ---
+
 #include "components/autofill/core/browser/data_manager/autofill_ai/entity_data_manager.h"
 
 #include <memory>

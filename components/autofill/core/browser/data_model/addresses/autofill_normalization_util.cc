@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill normalization utilities implementation
+// summary: Implements NormalizingIterator and NormalizeForComparison to lowercase text, strip diacritics and punctuation, and apply country rewriter rules for comparison.
+// ---
+
 #include "components/autofill/core/browser/data_model/addresses/autofill_normalization_util.h"
 
 #include <stdint.h>

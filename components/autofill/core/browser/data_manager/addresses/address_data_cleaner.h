@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AddressDataCleaner header
+// summary: Declares AddressDataCleaner, which applies address cleanups on browser startup after sync is ready and computes minimal incompatible type sets for deduplication metrics.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_DATA_MANAGER_ADDRESSES_ADDRESS_DATA_CLEANER_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_DATA_MANAGER_ADDRESSES_ADDRESS_DATA_CLEANER_H_
 

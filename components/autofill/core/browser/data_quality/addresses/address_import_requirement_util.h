@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Address import requirement validation header
+// summary: Declares functions that validate imported address profiles against country-specific requirements, remove or flag invalid values, and check migration eligibility.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_DATA_QUALITY_ADDRESSES_ADDRESS_IMPORT_REQUIREMENT_UTIL_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_DATA_QUALITY_ADDRESSES_ADDRESS_IMPORT_REQUIREMENT_UTIL_H_
 

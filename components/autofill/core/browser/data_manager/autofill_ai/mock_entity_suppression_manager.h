@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock entity suppression manager declarations
+// summary: Declares a gmock mock of the entity suppression manager interface for use in autofill AI tests.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_DATA_MANAGER_AUTOFILL_AI_MOCK_ENTITY_SUPPRESSION_MANAGER_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_DATA_MANAGER_AUTOFILL_AI_MOCK_ENTITY_SUPPRESSION_MANAGER_H_
 

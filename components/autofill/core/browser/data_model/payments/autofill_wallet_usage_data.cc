@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill wallet usage data implementation
+// summary: Implements VirtualCardUsageData and AutofillWalletUsageData constructors and equality operators.
+// ---
+
 #include "components/autofill/core/browser/data_model/payments/autofill_wallet_usage_data.h"
 
 #include "url/origin.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for entity and attribute instances
+// summary: Unit tests covering masking, record types, personal context sources, and info formatting of Autofill AI entity and attribute instances.
+// ---
+
 #include "components/autofill/core/browser/data_model/autofill_ai/entity_instance.h"
 
 #include "base/strings/string_number_conversions.h"

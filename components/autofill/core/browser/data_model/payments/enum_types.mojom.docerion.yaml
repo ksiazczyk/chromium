@@ -1,0 +1,4 @@
+# Docerion header of enum_types.mojom.
+type: source
+title: Autofill payments Mojom enum definitions
+summary: Defines Mojom enums for card benefit categories, issuers, benefit sources and virtual card enrollment states that must stay in sync with sync protocol protos.

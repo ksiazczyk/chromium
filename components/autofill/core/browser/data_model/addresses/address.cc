@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Address class implementation
+// summary: Implements the Address form group that stores structured address data, including merging, canonical state names, and finalization after import.
+// ---
+
 #include "components/autofill/core/browser/data_model/addresses/address.h"
 
 #include <stddef.h>

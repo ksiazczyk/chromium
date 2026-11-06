@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillProfile implementation
+// summary: Implements the AutofillProfile data model that combines address, name, email, phone and company form groups with record types and usage history.
+// ---
+
 #include "components/autofill/core/browser/data_model/addresses/autofill_profile.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Address field filling utility unit tests
+// summary: Unit tests for the address field filling utility, covering profile value filling, select field matching, and related behaviors.
+// ---
+
 #include "components/autofill/core/browser/filling/addresses/field_filling_address_util.h"
 
 #include <algorithm>

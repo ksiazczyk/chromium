@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test payments data manager implementation
+// summary: Implements the TestPaymentsDataManager fake, overriding database loads and payments operations so tests can run without a real profile database or sync services.
+// ---
+
 #include "components/autofill/core/browser/data_manager/payments/test_payments_data_manager.h"
 
 #include "base/strings/utf_string_conversions.h"

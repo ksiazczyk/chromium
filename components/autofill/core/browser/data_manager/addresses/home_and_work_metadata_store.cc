@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HomeAndWorkMetadataStore implementation
+// summary: Implements HomeAndWorkMetadataStore, which persists and applies Home and Work address metadata such as use counts through prefs.
+// ---
+
 #include "components/autofill/core/browser/data_manager/addresses/home_and_work_metadata_store.h"
 
 #include <stddef.h>

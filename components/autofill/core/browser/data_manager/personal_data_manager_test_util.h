@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PersonalDataManager test utilities header
+// summary: Declares mock observers, a PersonalDataChangedWaiter, and helper functions for waiting on asynchronous PersonalDataManager operations in tests.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_DATA_MANAGER_PERSONAL_DATA_MANAGER_TEST_UTIL_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_DATA_MANAGER_PERSONAL_DATA_MANAGER_TEST_UTIL_H_
 

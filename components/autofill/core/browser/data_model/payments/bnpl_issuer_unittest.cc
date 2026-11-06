@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Buy Now Pay Later issuer data model
+// summary: Unit tests covering getter and setter behavior, currency-based price ranges, and amount eligibility for the BnplIssuer data model.
+// ---
+
 #include "components/autofill/core/browser/data_model/payments/bnpl_issuer.h"
 
 #include <string>

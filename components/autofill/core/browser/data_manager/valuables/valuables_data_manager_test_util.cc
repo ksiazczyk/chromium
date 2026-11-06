@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ValuablesDataChangedWaiter implementation
+// summary: Implements the waiter that runs a run loop until the ValuablesDataManager fires OnValuablesDataChanged, logging the call site on timeout.
+// ---
+
 #include "components/autofill/core/browser/data_manager/valuables/valuables_data_manager_test_util.h"
 
 #include "base/functional/callback_helpers.h"

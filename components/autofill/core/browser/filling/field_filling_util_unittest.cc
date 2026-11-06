@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FieldFillingUtil unit tests
+// summary: Unit tests verifying select control option matching by value and contents and the behavior of GetObfuscatedValue.
+// ---
+
 #include "components/autofill/core/browser/filling/field_filling_util.h"
 
 #include <optional>

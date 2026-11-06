@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ValuableMetadata implementation
+// summary: Implements the constructors and destructor of the ValuableMetadata struct used for loyalty card metadata.
+// ---
+
 #include "components/autofill/core/browser/data_model/valuables/valuable_types.h"
 
 #include <stdint.h>

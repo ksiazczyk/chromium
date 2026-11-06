@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Structured address utilities
+// summary: Implements regular expression caches, token comparison results and helpers for parsing and characterizing names and addresses in structured address models.
+// ---
+
 #include "components/autofill/core/browser/data_model/addresses/autofill_structured_address_util.h"
 
 #include <stddef.h>

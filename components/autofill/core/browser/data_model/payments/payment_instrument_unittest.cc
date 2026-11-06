@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PaymentInstrument unit tests
+// summary: Unit tests verifying PaymentInstrument field values, payment rail support checks, and FIDO enrollment behavior.
+// ---
+
 #include "components/autofill/core/browser/data_model/payments/payment_instrument.h"
 
 #include "components/autofill/core/browser/data_model/payments/bank_account.h"

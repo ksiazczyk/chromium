@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credit card cloud token data implementation
+// summary: Implements the CreditCardCloudTokenData class, including expiration formatting, parsing, and field-by-field comparison of cloud token data.
+// ---
+
 #include "components/autofill/core/browser/data_model/payments/credit_card_cloud_token_data.h"
 
 #include <optional>

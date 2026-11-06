@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FillingProduct enum
+// summary: Defines the FillingProduct enum identifying the Autofill entity responsible for a behavior, persisted in UMA logs, with safe conversion and dense set traits.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_FILLING_FILLING_PRODUCT_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_FILLING_FILLING_PRODUCT_H_
 

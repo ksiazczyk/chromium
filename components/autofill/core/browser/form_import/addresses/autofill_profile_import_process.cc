@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill profile import process implementation
+// summary: Implements the profile import process, determining import types such as new profile, silent update, merge or migration and applying them to stored profiles.
+// ---
+
 #include "components/autofill/core/browser/form_import/addresses/autofill_profile_import_process.h"
 
 #include <algorithm>

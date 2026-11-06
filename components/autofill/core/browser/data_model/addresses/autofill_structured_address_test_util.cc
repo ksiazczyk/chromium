@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Structured address test utilities
+// summary: Implements helpers to set, verify and merge test values of address components, including stream output for debugging.
+// ---
+
 #include "components/autofill/core/browser/data_model/addresses/autofill_structured_address_test_util.h"
 
 #include <ostream>

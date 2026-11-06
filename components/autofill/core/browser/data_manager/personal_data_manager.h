@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PersonalDataManager class declaration
+// summary: Declares the PersonalDataManager KeyedService that caches autofill data from AutofillTable and delegates address and payments data handling to the respective data managers.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_DATA_MANAGER_PERSONAL_DATA_MANAGER_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_DATA_MANAGER_PERSONAL_DATA_MANAGER_H_
 

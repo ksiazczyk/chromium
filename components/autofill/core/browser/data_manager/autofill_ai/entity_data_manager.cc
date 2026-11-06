@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EntityDataManager implementation
+// summary: Implements EntityDataManager, which loads, adds, updates and removes autofill AI entity instances from the web database, handling metrics, strike databases and history deletion.
+// ---
+
 #include "components/autofill/core/browser/data_manager/autofill_ai/entity_data_manager.h"
 
 #include <algorithm>

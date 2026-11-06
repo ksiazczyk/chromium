@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FormAutofillHistory unit tests
+// summary: Unit tests covering FormAutofillHistory entries for normal fills and refills, history lookup, and reset behavior.
+// ---
+
 #include "components/autofill/core/browser/filling/form_autofill_history.h"
 
 #include <optional>

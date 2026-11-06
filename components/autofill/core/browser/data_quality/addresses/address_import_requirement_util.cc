@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Address import requirement validation implementation
+// summary: Implements country-specific checks that decide whether an autofill address profile meets the minimum requirements for import, logging violated requirements.
+// ---
+
 #include "components/autofill/core/browser/data_quality/addresses/address_import_requirement_util.h"
 
 #include <algorithm>

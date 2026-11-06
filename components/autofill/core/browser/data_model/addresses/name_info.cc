@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NameInfo form group implementation
+// summary: Implements the NameInfo form group that stores, parses, normalizes and merges full and alternative structured name components.
+// ---
+
 #include "components/autofill/core/browser/data_model/addresses/name_info.h"
 
 #include <stddef.h>

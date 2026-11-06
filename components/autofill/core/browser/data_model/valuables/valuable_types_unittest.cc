@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ValuableMetadata unit tests
+// summary: Unit tests verifying ValuableMetadata member values and equality comparisons across differing ids, dates, and counts.
+// ---
+
 #include "components/autofill/core/browser/data_model/valuables/valuable_types.h"
 
 #include "base/time/time.h"

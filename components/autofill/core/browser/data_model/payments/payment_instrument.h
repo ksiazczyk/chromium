@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaymentInstrument class declaration
+// summary: Declares the PaymentInstrument base class for payment instruments stored in the GPay backend, including PaymentRail and ActionRequired enums.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_DATA_MODEL_PAYMENTS_PAYMENT_INSTRUMENT_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_DATA_MODEL_PAYMENTS_PAYMENT_INSTRUMENT_H_
 

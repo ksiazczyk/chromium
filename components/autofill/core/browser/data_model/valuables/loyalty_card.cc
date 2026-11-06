@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoyaltyCard class implementation
+// summary: Implements the LoyaltyCard class, including validity checks, merchant domain affiliation matching, and usage recording for autofill valuables.
+// ---
+
 #include "components/autofill/core/browser/data_model/valuables/loyalty_card.h"
 
 #include <stdint.h>

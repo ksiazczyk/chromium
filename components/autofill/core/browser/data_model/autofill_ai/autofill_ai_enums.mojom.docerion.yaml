@@ -1,0 +1,4 @@
+# Docerion header of autofill_ai_enums.mojom.
+type: source
+title: Autofill AI entity type enums in Mojo
+summary: Defines the EntityTypeName Mojo enum for Autofill AI entity types such as passport and driver's license, shared between C++ and TypeScript.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill profile unit tests
+// summary: Extensive unit tests for AutofillProfile covering profile setup, merging, suggestion labels, token quality, and Android-specific behavior.
+// ---
+
 #include "components/autofill/core/browser/data_model/addresses/autofill_profile.h"
 
 #include <stddef.h>

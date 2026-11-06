@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payments field filling utilities implementation
+// summary: Implements credit card value filling for autofill fields, including heuristics for expiration month and year select controls and CVC handling.
+// ---
+
 #include "components/autofill/core/browser/filling/payments/field_filling_payments_util.h"
 
 #include <stddef.h>

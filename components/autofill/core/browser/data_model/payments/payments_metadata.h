@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaymentsMetadata struct declaration
+// summary: Declares the PaymentsMetadata struct holding ID, use count, use date, and billing address ID for payments data models.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_DATA_MODEL_PAYMENTS_PAYMENTS_METADATA_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_DATA_MODEL_PAYMENTS_PAYMENTS_METADATA_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FormGroup implementation
+// summary: Implements the FormGroup interface for matching, setting, and logging autofill field type values.
+// ---
+
 #include "components/autofill/core/browser/data_model/form_group.h"
 
 #include <string>

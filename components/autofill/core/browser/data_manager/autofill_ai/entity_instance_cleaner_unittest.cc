@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EntityInstanceCleaner unit tests
+// summary: Unit tests verifying milestone-based deduplication and the removal of duplicated local entities by EntityInstanceCleaner.
+// ---
+
 #include "components/autofill/core/browser/data_manager/autofill_ai/entity_instance_cleaner.h"
 
 #include "base/test/metrics/histogram_tester.h"

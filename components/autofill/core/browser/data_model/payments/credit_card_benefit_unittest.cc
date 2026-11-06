@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for credit card benefits
+// summary: Unit tests comparing flat rate, category, and merchant credit card benefits and verifying equality and ordering behavior.
+// ---
+
 #include "components/autofill/core/browser/data_model/payments/credit_card_benefit.h"
 
 #include "components/autofill/core/browser/data_model/payments/credit_card_benefit_test_api.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill i18n parsing expression components header
+// summary: Declares parsing process classes such as Decomposition and DecompositionCascade that transform unstructured address text into structured autofill field values.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_DATA_MODEL_ADDRESSES_AUTOFILL_I18N_PARSING_EXPRESSION_COMPONENTS_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_DATA_MODEL_ADDRESSES_AUTOFILL_I18N_PARSING_EXPRESSION_COMPONENTS_H_
 

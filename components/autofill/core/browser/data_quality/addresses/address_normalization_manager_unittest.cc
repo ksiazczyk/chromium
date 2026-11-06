@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for address normalization manager
+// summary: Unit tests checking that the normalization manager invokes its completion callback correctly for synchronous and delayed asynchronous normalization results.
+// ---
+
 #include "components/autofill/core/browser/data_quality/addresses/address_normalization_manager.h"
 
 #include <memory>

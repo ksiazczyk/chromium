@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Form data importer utilities implementation
+// summary: Implements form import utilities such as the MultiStepImportMerger that merges incomplete address profiles across multi-step form submissions.
+// ---
+
 #include "components/autofill/core/browser/form_import/form_data_importer_util.h"
 
 #include <algorithm>

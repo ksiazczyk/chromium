@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Field filling utility functions
+// summary: Implements shared filling helpers such as select control option matching, country and state value normalization, and obfuscated value formatting.
+// ---
+
 #include "components/autofill/core/browser/filling/field_filling_util.h"
 
 #include <stddef.h>

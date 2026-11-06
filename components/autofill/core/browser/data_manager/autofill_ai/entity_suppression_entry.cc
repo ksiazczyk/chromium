@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EntitySuppressionEntry implementation
+// summary: Computes suppression entries for an entity by hashing attribute values with SHA-256 for each merge constraint set with non-empty attributes.
+// ---
+
 #include "components/autofill/core/browser/data_manager/autofill_ai/entity_suppression_entry.h"
 
 #include <algorithm>

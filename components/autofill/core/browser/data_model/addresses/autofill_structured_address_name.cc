@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Structured address name components implementation
+// summary: Implements name address components such as first, middle and last name, including Hispanic/Latinx surname parsing.
+// ---
+
 #include "components/autofill/core/browser/data_model/addresses/autofill_structured_address_name.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Address normalizer interface
+// summary: Defines the AddressNormalizer interface for loading region validation rules and normalizing address profiles asynchronously or synchronously.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_DATA_QUALITY_ADDRESSES_ADDRESS_NORMALIZER_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_DATA_QUALITY_ADDRESSES_ADDRESS_NORMALIZER_H_
 

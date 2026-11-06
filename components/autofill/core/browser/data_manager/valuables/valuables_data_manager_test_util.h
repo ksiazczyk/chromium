@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ValuablesDataChangedWaiter test helper declaration
+// summary: Declares ValuablesDataChangedWaiter, a helper that lets tests block until the asynchronously operating ValuablesDataManager reports changed data.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_DATA_MANAGER_VALUABLES_VALUABLES_DATA_MANAGER_TEST_UTIL_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_DATA_MANAGER_VALUABLES_VALUABLES_DATA_MANAGER_TEST_UTIL_H_
 

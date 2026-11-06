@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccountNameEmailStrikeManager implementation
+// summary: Implements AccountNameEmailStrikeManager, which tracks whether the name-and-email profile suggestion was shown or filled and updates strike counter prefs and deletion metrics.
+// ---
+
 #include "components/autofill/core/browser/data_manager/addresses/account_name_email_strike_manager.h"
 
 #include <variant>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Select date matching unit tests
+// summary: Unit tests for the select date matching heuristics, verifying year, month, and day range detection across option value and text patterns.
+// ---
+
 #include "components/autofill/core/browser/filling/autofill_ai/select_date_matching.h"
 
 #include <numeric>

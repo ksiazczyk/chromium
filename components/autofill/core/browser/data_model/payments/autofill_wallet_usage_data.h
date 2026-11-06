@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill wallet usage data class declaration
+// summary: Declares wallet usage data types describing virtual card usage per merchant with strong-alias identifiers.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_DATA_MODEL_PAYMENTS_AUTOFILL_WALLET_USAGE_DATA_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_DATA_MODEL_PAYMENTS_AUTOFILL_WALLET_USAGE_DATA_H_
 

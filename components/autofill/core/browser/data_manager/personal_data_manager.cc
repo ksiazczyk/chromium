@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PersonalDataManager implementation
+// summary: Implements the PersonalDataManager that coordinates the AddressDataManager and PaymentsDataManager, observes history deletions, and notifies observers of autofill data changes.
+// ---
+
 #include "components/autofill/core/browser/data_manager/personal_data_manager.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UsageHistoryInformation unit tests
+// summary: Unit tests verifying that use dates are recorded correctly, ranking comparisons behave as expected and usage histories merge properly.
+// ---
+
 #include "components/autofill/core/browser/data_model/usage_history_information.h"
 
 #include <stddef.h>

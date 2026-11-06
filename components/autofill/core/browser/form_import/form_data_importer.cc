@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FormDataImporter implementation
+// summary: Implements the form data importer that extracts and processes address profiles and credit card data from submitted web forms into the user's Autofill data.
+// ---
+
 #include "components/autofill/core/browser/form_import/form_data_importer.h"
 
 #include <stddef.h>

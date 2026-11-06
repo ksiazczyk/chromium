@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CompanyInfo unit tests
+// summary: Unit tests verifying setting the company name and that validity checks filter out birth years and social titles.
+// ---
+
 #include "components/autofill/core/browser/data_model/addresses/company_info.h"
 
 #include "components/autofill/core/browser/field_types.h"
