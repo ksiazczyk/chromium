@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill test utilities header
+// summary: Declares common utilities shared among Autofill tests, including form group value helpers and pref service factories.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_TEST_UTILS_AUTOFILL_TEST_UTIL_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_TEST_UTILS_AUTOFILL_TEST_UTIL_H_
 

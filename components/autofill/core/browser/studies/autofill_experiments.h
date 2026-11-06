@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill experiments declarations
+// summary: Declares helper functions for autofill experiments covering credit card upload, FIDO authentication, IBAN settings and Touch To Fill support.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_STUDIES_AUTOFILL_EXPERIMENTS_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_STUDIES_AUTOFILL_EXPERIMENTS_H_
 

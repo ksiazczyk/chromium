@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill address UI utility implementation
+// summary: Implements conversion of libaddressinput address UI components into Autofill's own components, including format extensions and address formatting helpers for profiles.
+// ---
+
 #include "components/autofill/core/browser/ui/addresses/autofill_address_util.h"
 
 #include <stddef.h>

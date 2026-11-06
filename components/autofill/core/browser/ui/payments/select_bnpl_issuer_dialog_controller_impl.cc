@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Select BNPL issuer dialog controller implementation
+// summary: Implements the BNPL issuer selection dialog controller, showing the dialog, logging selection metrics and forwarding issuer selection or cancellation to callbacks.
+// ---
+
 #include "components/autofill/core/browser/ui/payments/select_bnpl_issuer_dialog_controller_impl.h"
 
 #include <memory>

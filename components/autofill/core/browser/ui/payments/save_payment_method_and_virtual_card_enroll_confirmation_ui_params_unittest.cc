@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Save payment method and virtual card enrollment confirmation UI params tests
+// summary: Unit tests verifying that confirmation dialog UI parameters are set correctly for save card, IBAN and virtual card scenarios under different wallet branding feature flags.
+// ---
+
 #include "components/autofill/core/browser/ui/payments/save_payment_method_and_virtual_card_enroll_confirmation_ui_params.h"
 
 #include <string>

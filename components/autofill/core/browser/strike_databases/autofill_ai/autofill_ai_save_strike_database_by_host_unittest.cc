@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AutofillAI save strike database by host unit tests
+// summary: Unit tests verifying id generation and host extraction for the by-host save strike database, including invalid ids and distinct keys.
+// ---
+
 #include "components/autofill/core/browser/strike_databases/autofill_ai/autofill_ai_save_strike_database_by_host.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

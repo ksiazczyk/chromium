@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill suggestion utility functions implementation
+// summary: Implements suggestion utilities including loading-state preparation, autocomplete-unrecognized suppression, filling product mapping, and undo suggestion creation.
+// ---
+
 #include "components/autofill/core/browser/suggestions/suggestion_util.h"
 
 #include <algorithm>

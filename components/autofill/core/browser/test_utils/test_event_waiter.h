@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EventWaiter test helper
+// summary: Defines a templated EventWaiter that waits for expected event sequences in tests using a RunLoop, with optional timeout support.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_TEST_UTILS_TEST_EVENT_WAITER_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_TEST_UTILS_TEST_EVENT_WAITER_H_
 

@@ -4,6 +4,12 @@
 
 // Data models to interface with Autofill API v1.
 
+// ---docerion
+// type: source
+// title: Autofill API v1 protocol definitions
+// summary: Defines protobuf messages for requesting field suggestions from the Autofill API v1, including page query requests and prediction responses.
+// ---
+
 syntax = "proto2";
 
 package autofill;

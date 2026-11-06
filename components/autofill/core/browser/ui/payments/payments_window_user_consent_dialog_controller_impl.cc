@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payments window user consent dialog controller implementation
+// summary: Implements the payments window user consent dialog controller, showing the dialog, running accept or cancel callbacks, and logging close results.
+// ---
+
 #include "components/autofill/core/browser/ui/payments/payments_window_user_consent_dialog_controller_impl.h"
 
 #include <string>

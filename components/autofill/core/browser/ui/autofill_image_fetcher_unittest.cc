@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill image fetcher unit tests
+// summary: Unit tests for AutofillImageFetcher covering image fetching, caching, URL resolution and retry behavior using a mock image fetcher.
+// ---
+
 #include "components/autofill/core/browser/ui/autofill_image_fetcher.h"
 
 #include "base/containers/span.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Email verification not signed-in strike database unit tests
+// summary: Unit and integration tests verifying the two-character hex ID generation, database traits, and strike accumulation and feature blocking behavior for the not signed-in email verification strike database.
+// ---
+
 #include "components/autofill/core/browser/strike_databases/evp/email_verification_not_signed_in_strike_database.h"
 
 #include <memory>

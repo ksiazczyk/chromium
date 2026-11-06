@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill progress dialog controller implementation
+// summary: Implements the progress dialog controller, showing and dismissing dialogs and logging progress dialog metrics.
+// ---
+
 #include "components/autofill/core/browser/ui/payments/autofill_progress_dialog_controller_impl.h"
 
 #include <string>

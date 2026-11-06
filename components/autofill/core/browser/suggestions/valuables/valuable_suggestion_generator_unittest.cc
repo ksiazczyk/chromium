@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Loyalty card suggestion generator unit tests
+// summary: Unit tests verifying loyalty card suggestion generation, including suggestion matchers, icon behavior, and merging with email suggestions.
+// ---
+
 #include "components/autofill/core/browser/suggestions/valuables/valuable_suggestion_generator.h"
 
 #include <variant>

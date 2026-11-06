@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Identity credential suggestion utility header
+// summary: Declares a helper wrapping IdentityCredentialDelegate::GetVerifiedAutofillSuggestions for use by the password manager.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_SUGGESTIONS_IDENTITY_CREDENTIAL_SUGGESTION_UTIL_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_SUGGESTIONS_IDENTITY_CREDENTIAL_SUGGESTION_UTIL_H_
 

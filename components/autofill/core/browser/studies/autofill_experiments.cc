@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill experiments implementation
+// summary: Implements autofill experiment helpers such as credit card upload enablement, suggestion disabling experiments and device authentication availability.
+// ---
+
 #include "components/autofill/core/browser/studies/autofill_experiments.h"
 
 #include <algorithm>

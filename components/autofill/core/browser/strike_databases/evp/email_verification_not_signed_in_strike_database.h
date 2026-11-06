@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Email verification not signed-in strike database
+// summary: Defines a history-clearable strike database limiting email verification attempts for signed-out users, with a one-byte hashed email ID, strike limit of 3, 20 stored entities, and 180-day expiry.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_STRIKE_DATABASES_EVP_EMAIL_VERIFICATION_NOT_SIGNED_IN_STRIKE_DATABASE_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_STRIKE_DATABASES_EVP_EMAIL_VERIFICATION_NOT_SIGNED_IN_STRIKE_DATABASE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Card unmask prompt options implementation
+// summary: Implements constructors and the destructor for the CardUnmaskPromptOptions struct that carries challenge option and unmask reason.
+// ---
+
 #include "components/autofill/core/browser/ui/payments/card_unmask_prompt_options.h"
 
 #include <optional>

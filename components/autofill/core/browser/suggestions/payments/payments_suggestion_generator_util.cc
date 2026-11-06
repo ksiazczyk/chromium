@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payments suggestion generator utilities implementation
+// summary: Implements shared helpers for building payment autofill suggestions, including card selection, BNPL updates and IBAN obfuscation.
+// ---
+
 #include "components/autofill/core/browser/suggestions/payments/payments_suggestion_generator_util.h"
 
 #include <stddef.h>

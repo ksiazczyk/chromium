@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autocomplete suggestion generator implementation
+// summary: Generates autocomplete suggestions for a trigger field from the user's past entries stored in the WebDataService.
+// ---
+
 #include "components/autofill/core/browser/suggestions/autocomplete_suggestion_generator.h"
 
 #include <algorithm>

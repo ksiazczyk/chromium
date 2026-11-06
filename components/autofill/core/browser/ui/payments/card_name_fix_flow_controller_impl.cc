@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Card name fix flow controller implementation
+// summary: Implements the cardholder name fix flow controller, showing the prompt, logging metrics and running the name accepted callback with trimmed input.
+// ---
+
 #include "components/autofill/core/browser/ui/payments/card_name_fix_flow_controller_impl.h"
 
 #include <string>

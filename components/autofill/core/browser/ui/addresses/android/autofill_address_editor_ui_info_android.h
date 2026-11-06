@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillAddressEditorUiInfoAndroid header
+// summary: Declares the C++ struct that carries the best language tag and the list of fields to display in Chrome's Android address editors, with JNI conversion helpers.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_UI_ADDRESSES_ANDROID_AUTOFILL_ADDRESS_EDITOR_UI_INFO_ANDROID_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_UI_ADDRESSES_ANDROID_AUTOFILL_ADDRESS_EDITOR_UI_INFO_ANDROID_H_
 

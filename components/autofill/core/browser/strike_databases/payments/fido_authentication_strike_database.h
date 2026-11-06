@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FIDO authentication strike database header
+// summary: Declares the strike database for offering FIDO authentication during card unmasking, with strike counts for declined offers, failed verification, and opt-outs.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_STRIKE_DATABASES_PAYMENTS_FIDO_AUTHENTICATION_STRIKE_DATABASE_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_STRIKE_DATABASES_PAYMENTS_FIDO_AUTHENTICATION_STRIKE_DATABASE_H_
 

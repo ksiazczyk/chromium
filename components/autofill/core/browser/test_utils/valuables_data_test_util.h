@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Loyalty card test utility declarations
+// summary: Declares factory functions returning fully populated test loyalty card instances for valuables data tests.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_TEST_UTILS_VALUABLES_DATA_TEST_UTIL_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_TEST_UTILS_VALUABLES_DATA_TEST_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockMerchantPromoCodeManager implementation
+// summary: Provides the constructor and destructor for the gmock mock of MerchantPromoCodeManager used in tests.
+// ---
+
 #include "components/autofill/core/browser/single_field_fillers/payments/mock_merchant_promo_code_manager.h"
 
 #include "components/autofill/core/browser/foundations/autofill_client.h"

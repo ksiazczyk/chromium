@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Compose suggestion generator implementation
+// summary: Implements ComposeSuggestionGenerator, which asks the AutofillComposeDelegate for a compose suggestion on text area or content editable fields and returns it via callback.
+// ---
+
 #include "components/autofill/core/browser/suggestions/compose/compose_suggestion_generator.h"
 
 #include <utility>

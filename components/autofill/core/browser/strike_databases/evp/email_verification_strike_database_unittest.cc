@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Email verification strike database unit tests
+// summary: Unit and integration tests verifying hashed ID generation, database traits, strike accumulation up to the limit, and feature blocking for the email verification strike database.
+// ---
+
 #include "components/autofill/core/browser/strike_databases/evp/email_verification_strike_database.h"
 
 #include <memory>

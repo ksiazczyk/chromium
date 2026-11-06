@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill AI suggestion generator unit tests
+// summary: Unit tests for the Autofill AI suggestion generator, verifying suggestion texts, labels, and behavior across entity types, sources, and feature states using GTest matchers.
+// ---
+
 #include "components/autofill/core/browser/suggestions/autofill_ai/autofill_ai_suggestion_generator.h"
 
 #include <memory>

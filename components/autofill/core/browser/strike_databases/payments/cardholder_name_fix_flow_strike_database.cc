@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cardholder name fix flow strike database implementation
+// summary: Implements the cardholder name fix flow strike database, returning a required seven-day delay since the last strike.
+// ---
+
 #include "components/autofill/core/browser/strike_databases/payments/cardholder_name_fix_flow_strike_database.h"
 
 #include <optional>

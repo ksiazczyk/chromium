@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Payments churned users strike database unit tests
+// summary: Unit tests verifying the strike limit and required delay behavior of the payments churned users strike database.
+// ---
+
 #include "components/autofill/core/browser/strike_databases/payments/payments_churned_users_strike_database.h"
 
 #include <memory>

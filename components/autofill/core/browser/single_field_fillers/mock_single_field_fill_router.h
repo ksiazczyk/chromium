@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock single field fill router header
+// summary: Declares MockSingleFieldFillRouter, a gmock-based mock of SingleFieldFillRouter that stubs form submission, query cancellation and suggestion handling for tests.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_SINGLE_FIELD_FILLERS_MOCK_SINGLE_FIELD_FILL_ROUTER_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_SINGLE_FIELD_FILLERS_MOCK_SINGLE_FIELD_FILL_ROUTER_H_
 

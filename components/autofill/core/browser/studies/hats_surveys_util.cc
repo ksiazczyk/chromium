@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill HaTS survey utilities implementation
+// summary: Implements triggering and data collection for HaTS surveys about autofill form submissions, OTP dismissal and personalization and trust.
+// ---
+
 #include "components/autofill/core/browser/studies/hats_surveys_util.h"
 
 #include <algorithm>

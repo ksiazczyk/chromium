@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PopupAnchorType enum for popup anchoring
+// summary: Defines the PopupAnchorType enum describing where an autofill popup anchors, such as a form field, the caret, the Android keyboard accessory, or a bottom sheet.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_UI_POPUP_OPEN_ENUMS_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_UI_POPUP_OPEN_ENUMS_H_
 

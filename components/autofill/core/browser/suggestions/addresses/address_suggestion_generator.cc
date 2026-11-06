@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Address suggestion generator implementation
+// summary: Implements generation of address autofill suggestions, including profile selection, prefix matching on typing, footer suggestions, and related metrics and logging.
+// ---
+
 #include "components/autofill/core/browser/suggestions/addresses/address_suggestion_generator.h"
 
 #include <stddef.h>

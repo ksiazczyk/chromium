@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabbedPaneTabType enum for Autofill dropdown tabs
+// summary: Defines the TabbedPaneTabType enum distinguishing the pay now and pay later tabs inside a tabbed pane of an Autofill dropdown.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_UI_TABBED_PANE_ENUMS_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_UI_TABBED_PANE_ENUMS_H_
 

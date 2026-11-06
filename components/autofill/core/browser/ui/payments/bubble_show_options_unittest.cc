@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bubble show options unit tests
+// summary: Unit tests verifying that FilledCardInformationBubbleOptions is only valid when all required card fields, CVC and card image are present.
+// ---
+
 #include "components/autofill/core/browser/ui/payments/bubble_show_options.h"
 
 #include "components/autofill/core/browser/test_utils/autofill_test_util.h"

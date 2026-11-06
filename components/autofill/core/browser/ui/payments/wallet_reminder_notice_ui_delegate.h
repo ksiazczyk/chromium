@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wallet reminder notice UI delegate interface
+// summary: Cross-platform UI delegate interface that requests the platform layer to show the Wallet Reminder Notice bottom sheet or dialog with legal message lines.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_UI_PAYMENTS_WALLET_REMINDER_NOTICE_UI_DELEGATE_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_UI_PAYMENTS_WALLET_REMINDER_NOTICE_UI_DELEGATE_H_
 

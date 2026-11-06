@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test autofill image fetcher header
+// summary: Declares TestAutofillImageFetcher, a simplistic AutofillImageFetcherBase implementation with a local URL-to-image cache used for testing.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_UI_TEST_AUTOFILL_IMAGE_FETCHER_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_UI_TEST_AUTOFILL_IMAGE_FETCHER_H_
 

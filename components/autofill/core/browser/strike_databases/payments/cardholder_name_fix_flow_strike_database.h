@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cardholder name fix flow strike database header
+// summary: Declares the cardholder name fix flow strike database with a three-strike limit and required unique IDs.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_STRIKE_DATABASES_PAYMENTS_CARDHOLDER_NAME_FIX_FLOW_STRIKE_DATABASE_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_STRIKE_DATABASES_PAYMENTS_CARDHOLDER_NAME_FIX_FLOW_STRIKE_DATABASE_H_
 

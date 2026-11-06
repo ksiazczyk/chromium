@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Merchant promo code suggestion generator unit tests
+// summary: Unit tests verifying that the merchant promo code suggestion generator produces promo code suggestions for autofill fields.
+// ---
+
 #include "components/autofill/core/browser/suggestions/payments/merchant_promo_code_suggestion_generator.h"
 
 #include "base/containers/to_vector.h"

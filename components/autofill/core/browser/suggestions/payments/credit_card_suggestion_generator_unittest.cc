@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Credit card suggestion generator unit tests
+// summary: Unit tests covering credit card, BNPL and footer suggestion generation, including metrics and feature-flag behavior.
+// ---
+
 #include "components/autofill/core/browser/suggestions/payments/credit_card_suggestion_generator.h"
 
 #include <memory>

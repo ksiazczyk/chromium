@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Compose suggestion generator unit tests
+// summary: Unit tests using a mock compose delegate to verify that compose suggestions are generated when the popup should trigger and omitted when it should not.
+// ---
+
 #include "components/autofill/core/browser/suggestions/compose/compose_suggestion_generator.h"
 
 #include "base/test/mock_callback.h"

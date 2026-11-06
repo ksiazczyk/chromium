@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill test profile factories implementation
+// summary: Implements helpers that build AutofillProfile test instances with predefined field values, verification statuses, and standard or variant profile shapes.
+// ---
+
 #include "components/autofill/core/browser/test_utils/test_profiles.h"
 
 #include <string_view>

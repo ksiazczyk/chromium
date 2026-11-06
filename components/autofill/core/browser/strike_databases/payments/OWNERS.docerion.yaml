@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Payments strike databases OWNERS
+summary: Points to the parent payments OWNERS file so this directory inherits its code owners.

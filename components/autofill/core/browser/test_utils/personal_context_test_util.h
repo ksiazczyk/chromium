@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Personal context test entity factories
+// summary: Declares factory functions for creating test personal context proto entities such as passports, driver's licenses, national IDs, orders, shipments, flight reservations, and vehicles.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_TEST_UTILS_PERSONAL_CONTEXT_TEST_UTIL_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_TEST_UTILS_PERSONAL_CONTEXT_TEST_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockAutofillSuggestionDelegate implementation
+// summary: Implements the mock suggestion delegate, defaulting GetQueriedFieldId and providing weak pointer support for tests.
+// ---
+
 #include "components/autofill/core/browser/ui/mock_autofill_suggestion_delegate.h"
 
 namespace autofill {

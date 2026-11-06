@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill testing pref service implementation
+// summary: Implements AutofillTestingPrefService, a testing PrefService specialization with a syncable pref registry for Autofill tests.
+// ---
+
 #include "components/autofill/core/browser/test_utils/autofill_testing_pref_service.h"
 
 #include "base/memory/ptr_util.h"

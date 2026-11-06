@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill ablation study declarations
+// summary: Declares the AutofillAblationStudy class, AblationGroup and form type enums that decide whether a site receives an ablated autofill experience.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_STUDIES_AUTOFILL_ABLATION_STUDY_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_STUDIES_AUTOFILL_ABLATION_STUDY_H_
 

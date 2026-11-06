@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Suggestion class unit tests
+// summary: Unit tests verifying Suggestion acceptability and selectability across suggestion types and the debug printing of icon fields.
+// ---
+
 #include "components/autofill/core/browser/suggestions/suggestion.h"
 
 #include "components/autofill/core/browser/suggestions/suggestion_type.h"

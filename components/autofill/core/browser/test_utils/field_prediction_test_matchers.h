@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Field prediction test matchers
+// summary: Provides gmock matchers that compare the type and source of FieldPrediction values in Autofill tests.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_TEST_UTILS_FIELD_PREDICTION_TEST_MATCHERS_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_TEST_UTILS_FIELD_PREDICTION_TEST_MATCHERS_H_
 

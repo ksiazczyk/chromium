@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autocomplete history manager unit tests
+// summary: Unit tests for the autocomplete history manager covering suggestion generation, saving of eligible form fields, and related metrics and policy behavior.
+// ---
+
 #include "components/autofill/core/browser/single_field_fillers/autocomplete/autocomplete_history_manager.h"
 
 #include <string>

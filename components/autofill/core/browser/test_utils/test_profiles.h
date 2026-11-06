@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill test profile helpers declaration
+// summary: Declares ProfileTestData and factory functions for standard, mergeable, Hiragana, Katakana, and other variant AutofillProfile test instances.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_TEST_UTILS_TEST_PROFILES_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_TEST_UTILS_TEST_PROFILES_H_
 

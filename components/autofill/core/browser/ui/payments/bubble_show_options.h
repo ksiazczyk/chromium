@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Filled card information bubble show options
+// summary: Defines the FilledCardInformationBubbleOptions struct holding masked card details, CVC and card image used to show the filled card information bubble.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_UI_PAYMENTS_BUBBLE_SHOW_OPTIONS_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_UI_PAYMENTS_BUBBLE_SHOW_OPTIONS_H_
 

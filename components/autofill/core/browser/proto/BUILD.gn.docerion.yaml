@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Autofill proto library build targets
+summary: Defines the fuzzable and AI-related protobuf library targets that build the Autofill browser proto sources.

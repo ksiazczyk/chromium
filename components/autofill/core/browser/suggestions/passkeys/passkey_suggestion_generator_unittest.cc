@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PasskeySuggestionGenerator unit tests
+// summary: Unit tests verifying that PasskeySuggestionGenerator returns inline QR code and hybrid sign-in suggestions from the password manager delegate on webauthn fields.
+// ---
+
 #include "components/autofill/core/browser/suggestions/passkeys/passkey_suggestion_generator.h"
 
 #include "base/functional/callback.h"

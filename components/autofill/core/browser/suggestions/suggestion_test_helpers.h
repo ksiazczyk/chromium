@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Suggestion test matcher helpers header
+// summary: Declares GMock matchers and helper templates for asserting on Autofill Suggestion fields like type, text, icons, labels, and payload in unit tests.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_SUGGESTIONS_SUGGESTION_TEST_HELPERS_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_SUGGESTIONS_SUGGESTION_TEST_HELPERS_H_
 

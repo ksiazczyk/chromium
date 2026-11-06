@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CountryComboboxModel unit tests
+// summary: Unit tests verifying the default country code for a German GeoIP locale and that every listed country has address UI components.
+// ---
+
 #include "components/autofill/core/browser/ui/country_combobox_model.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Suggestion test matcher helpers implementation
+// summary: Implements GMock matchers such as EqualsSuggestion, HasIcon, and HasIphFeature for comparing Autofill Suggestion objects in unit tests.
+// ---
+
 #include "components/autofill/core/browser/suggestions/suggestion_test_helpers.h"
 
 namespace autofill {

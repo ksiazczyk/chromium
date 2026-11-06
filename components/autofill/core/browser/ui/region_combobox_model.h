@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RegionComboboxModel for address region comboboxes
+// summary: Declares RegionComboboxModel, a ui::ComboboxModel supplying country regions or states for address entry with asynchronous loading and observer notifications.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_UI_REGION_COMBOBOX_MODEL_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_UI_REGION_COMBOBOX_MODEL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillAI save strike database by host implementation
+// summary: Implements building strike database ids from entity name and host and extracting the host back from such ids.
+// ---
+
 #include "components/autofill/core/browser/strike_databases/autofill_ai/autofill_ai_save_strike_database_by_host.h"
 
 #include <optional>

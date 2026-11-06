@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Card unmask OTP input dialog controller implementation
+// summary: Implements the OTP input dialog controller, handling OTP verification results, error states, and metrics logging.
+// ---
+
 #include "components/autofill/core/browser/ui/payments/card_unmask_otp_input_dialog_controller_impl.h"
 
 #include <stddef.h>

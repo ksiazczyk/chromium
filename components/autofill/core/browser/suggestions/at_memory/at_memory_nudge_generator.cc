@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AtMemoryNudgeGenerator implementation
+// summary: Implements the autofill suggestion generator that returns the inactivity nudge suggesting the user try searching in Chrome Memory.
+// ---
+
 #include "components/autofill/core/browser/suggestions/at_memory/at_memory_nudge_generator.h"
 
 #include <utility>

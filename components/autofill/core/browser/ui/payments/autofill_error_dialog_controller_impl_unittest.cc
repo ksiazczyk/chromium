@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill error dialog controller unit tests
+// summary: Unit tests verifying error dialog titles, descriptions and button labels for the various error dialog types.
+// ---
+
 #include "components/autofill/core/browser/ui/payments/autofill_error_dialog_controller_impl.h"
 
 #include <memory>

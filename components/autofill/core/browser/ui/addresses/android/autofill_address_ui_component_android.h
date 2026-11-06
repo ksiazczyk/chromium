@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillAddressUiComponentAndroid header
+// summary: Declares the C++ struct describing one field of the Chrome address editor UI, including its field type, localized label, required and full-line flags, plus JNI conversion.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_UI_ADDRESSES_ANDROID_AUTOFILL_ADDRESS_UI_COMPONENT_ANDROID_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_UI_ADDRESSES_ANDROID_AUTOFILL_ADDRESS_UI_COMPONENT_ANDROID_H_
 

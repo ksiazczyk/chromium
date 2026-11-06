@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SuggestionType to string conversion
+// summary: Maps each SuggestionType enum value to its string name for logging and debugging of Autofill suggestions.
+// ---
+
 #include "components/autofill/core/browser/suggestions/suggestion_type.h"
 
 #include <ostream>

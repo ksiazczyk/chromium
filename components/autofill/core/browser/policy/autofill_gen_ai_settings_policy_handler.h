@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill Gen AI settings policy handler header
+// summary: Declares the AutofillGenAiSettings policy handler and documents how it gates Gemini-dependent autofill preferences.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_POLICY_AUTOFILL_GEN_AI_SETTINGS_POLICY_HANDLER_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_POLICY_AUTOFILL_GEN_AI_SETTINGS_POLICY_HANDLER_H_
 

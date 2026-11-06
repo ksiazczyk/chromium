@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill progress dialog controller unit tests
+// summary: Unit tests for the autofill progress dialog controller using a test view implementation and histogram tester.
+// ---
+
 #include "components/autofill/core/browser/ui/payments/autofill_progress_dialog_controller_impl.h"
 
 #include <memory>

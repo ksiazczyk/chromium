@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Card unmask prompt controller implementation
+// summary: Implements the card unmask prompt controller, handling prompt display, verification results, CVC and expiration validation, and metrics logging.
+// ---
+
 #include "components/autofill/core/browser/ui/payments/card_unmask_prompt_controller_impl.h"
 
 #include <stddef.h>

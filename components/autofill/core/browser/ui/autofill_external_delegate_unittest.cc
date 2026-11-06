@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill external delegate unit tests
+// summary: Unit tests covering suggestion display, selection, filling, search and metrics behavior of AutofillExternalDelegate.
+// ---
+
 #include "components/autofill/core/browser/ui/autofill_external_delegate.h"
 
 #include <memory>

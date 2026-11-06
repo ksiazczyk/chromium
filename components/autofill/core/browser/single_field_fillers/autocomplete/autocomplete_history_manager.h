@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autocomplete history manager class declaration
+// summary: Declares the AutocompleteHistoryManager keyed service that receives form data from renderers and stores and retrieves autocomplete entries through the web data service.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_SINGLE_FIELD_FILLERS_AUTOCOMPLETE_AUTOCOMPLETE_HISTORY_MANAGER_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_SINGLE_FIELD_FILLERS_AUTOCOMPLETE_AUTOCOMPLETE_HISTORY_MANAGER_H_
 

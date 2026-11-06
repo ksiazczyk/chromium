@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestAutofillExternalDelegate implementation
+// summary: Implements TestAutofillExternalDelegate, recording shown and hidden suggestions and providing helpers to wait for and check popup results in autofill tests.
+// ---
+
 #include "components/autofill/core/browser/ui/test_autofill_external_delegate.h"
 
 #include "base/format_macros.h"

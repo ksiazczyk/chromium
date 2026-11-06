@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: State entries per country protocol
+// summary: Defines protobuf messages describing state canonical names, abbreviations and alternative names grouped by country code.
+// ---
+
 syntax = "proto2";
 
 package autofill;

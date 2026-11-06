@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DropdownKeyValueAndroid JNI bridge implementation
+// summary: Implements conversion of key-value pairs used to populate Android dropdown lists between C++ and Java.
+// ---
+
 #include "components/autofill/core/browser/ui/addresses/android/dropdown_key_value_android.h"
 
 #include <string>

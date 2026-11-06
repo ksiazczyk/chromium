@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestAutofillExternalDelegate for autofill popup tests
+// summary: Declares TestAutofillExternalDelegate, a test double for AutofillExternalDelegate that tracks queries and suggestions and offers popup assertion helpers.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_UI_TEST_AUTOFILL_EXTERNAL_DELEGATE_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_UI_TEST_AUTOFILL_EXTERNAL_DELEGATE_H_
 

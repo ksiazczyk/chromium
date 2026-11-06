@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RegionComboboxModel unit tests
+// summary: Unit tests for RegionComboboxModel verifying region items and separators and the behaviour when region data loading fails or returns no regions.
+// ---
+
 #include "components/autofill/core/browser/ui/region_combobox_model.h"
 
 #include <memory>

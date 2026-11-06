@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credit card suggestion generator implementation
+// summary: Implements generation of credit card, BNPL, scan card and other footer suggestions shown in the Autofill popup.
+// ---
+
 #include "components/autofill/core/browser/suggestions/payments/credit_card_suggestion_generator.h"
 
 #include <algorithm>

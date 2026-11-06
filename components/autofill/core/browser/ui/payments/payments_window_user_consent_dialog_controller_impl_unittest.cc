@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Payments window user consent dialog controller unit tests
+// summary: Unit tests verifying the consent dialog controller returns correct strings and triggers accept and cancel callbacks.
+// ---
+
 #include "components/autofill/core/browser/ui/payments/payments_window_user_consent_dialog_controller_impl.h"
 
 #include <string>
