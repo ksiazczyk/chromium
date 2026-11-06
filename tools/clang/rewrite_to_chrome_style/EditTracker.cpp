@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EditTracker.cpp
+// summary: Implements the EditTracker class that records renames per file and serializes them as lines for the Blink rebase helper.
+// ---
+
 #include "EditTracker.h"
 
 #include <assert.h>

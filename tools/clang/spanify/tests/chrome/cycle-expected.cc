@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: 'Spanify test expected output: cyclic buffer dependencies'
+// summary: Expected result for rewriting pointer assignment cycles, including cycles depending on first-party and third-party buffers.
+// ---
+
 #include <tuple>
 
 #include "base/containers/span.h"

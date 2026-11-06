@@ -6,6 +6,12 @@
 // be wrapped in one a second time; only `.data()` is appended. See
 // AdaptBinaryOpInMacro() in tools/clang/spanify/Spanifier.cpp for why.
 
+// ---docerion
+// type: test
+// title: Unsafe-todo no double wrap expected output
+// summary: Expected spanify output verifying that pointer arithmetic already inside ANGLE_UNSAFE_TODO or ANGLE_UNSAFE_BUFFERS macros is not wrapped twice, with only .data() appended.
+// ---
+
 #include <array>
 
 // The macros are defined here, with no effect, because the header that defines

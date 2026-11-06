@@ -1,0 +1,4 @@
+# Docerion header of process_crashreports.py.
+type: script
+title: Process and upload Clang crash reports
+summary: Finds Clang compiler crash reports in out/clang-crashreports, archives them into tarballs, and uploads them to Google Cloud Storage.

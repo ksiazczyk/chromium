@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Vertex attribute expected output
+// summary: Expected spanify output for vertex attribute setup where a dynamically indexed GLfloat array becomes std::array and the frontier call to glVertexAttrib4fv uses v.data().
+// ---
+
 #include <array>
 
 #include "third_party/mock_egl.h"

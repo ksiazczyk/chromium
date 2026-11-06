@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Pointer-to-array exclusion expected output
+// summary: Expected post-rewrite code for the pointer-to-array regression test, where uint8_t (*)[16] parameters are excluded from spanification.
+// ---
+
 #include <array>
 #include <cstdint>
 #include <span>

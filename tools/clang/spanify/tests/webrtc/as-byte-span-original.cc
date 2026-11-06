@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Byte span original input
+// summary: Original input for the byte-span test, using raw and const byte pointers from reinterpret_cast that should become std::span<std::byte>.
+// ---
+
 #include <cstddef>
 #include <tuple>
 

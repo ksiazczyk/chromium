@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Spanify test input for variable construction rewrites
+// summary: Original C++ test case with raw pointers and raw_ptr variables used to test spanification of variable declarations.
+// ---
+
 #include <array>
 #include <vector>
 

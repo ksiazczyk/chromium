@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Byte span expected output
+// summary: Expected post-rewrite code for the byte-span test, with reinterpret_cast byte pointers converted to std::span<std::byte> and const byte spans.
+// ---
+
 #include <cstddef>
 #include <span>
 #include <tuple>

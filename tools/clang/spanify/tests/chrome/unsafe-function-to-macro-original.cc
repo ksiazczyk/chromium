@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spanify test input for unsafe function to macro rewrites
+// summary: Original C++ test case with unsafe third-party function calls expected to be rewritten into UNSAFE_ macros.
+// ---
+
 #include <memory>
 #include <tuple>
 

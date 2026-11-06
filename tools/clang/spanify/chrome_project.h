@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome project spanification settings
+// summary: Defines the Chrome project configuration mapping span type names and include paths used by the clang spanify tool.
+// ---
+
 #ifndef TOOLS_CLANG_SPANIFY_CHROME_PROJECT_H_
 #define TOOLS_CLANG_SPANIFY_CHROME_PROJECT_H_
 

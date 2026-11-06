@@ -1,0 +1,4 @@
+# Docerion header of build_clang_tools_extra.py.
+type: script
+title: Build clang-tools-extra binaries
+summary: Fetches the LLVM monorepo and builds clang-tools-extra targets such as clangd and clangd-indexer.

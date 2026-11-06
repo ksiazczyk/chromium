@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spanify dereference expression test, original input
+// summary: Original input for the Dawn dereference expression spanify test, using char* members, parameters, and dereferences that should become dawn::Span<char>.
+// ---
+
 #include <vector>
 
 namespace dawn::internal {

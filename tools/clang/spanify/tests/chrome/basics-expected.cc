@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Spanify test expected output for basic rewrites
+// summary: Expected output of the spanify basics test, showing class members, parameters, return values and pointer arithmetic rewritten to base::span with checked_cast subspans.
+// ---
+
 #include <stdlib.h>
 
 #include <array>

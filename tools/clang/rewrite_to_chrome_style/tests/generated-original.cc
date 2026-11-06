@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Original generated code test input for Chrome style rewriter
+// summary: Blink-style test input checking that the rewriter skips generated names while still renaming non-generated ones.
+// ---
+
 #include "gen/thing.h"
 
 namespace blink {

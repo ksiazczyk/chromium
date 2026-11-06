@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spanify string concatenation test expected output
+// summary: Expected spanified output for char arrays initialized with string literals used in string concatenation scenarios.
+// ---
+
 #include <array>
 #include <cstdint>
 #include <string>

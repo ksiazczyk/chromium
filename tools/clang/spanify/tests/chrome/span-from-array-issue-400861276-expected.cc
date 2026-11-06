@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Span from array issue 400861276 test, expected output
+// summary: Expected output for the span-from-array test tied to issue 400861276, covering subspan rewrites of array pointer expressions.
+// ---
+
 #include <array>
 
 #include "base/containers/span.h"

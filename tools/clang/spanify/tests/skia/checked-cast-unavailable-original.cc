@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: 'Checked-cast-unavailable test: original input'
+// summary: Original input mimicking a Skia case where a spanified pointer is indexed with an int offset, which the tool should convert using SkTo<size_t>.
+// ---
+
 #include <cstdint>
 #include <cstring>
 

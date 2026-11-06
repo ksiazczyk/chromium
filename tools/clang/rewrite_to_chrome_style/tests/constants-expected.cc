@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Expected output for constants test
+// summary: Expected Chrome-style output of the constants test, covering global, class-static, and function-local constant renaming.
+// ---
+
 namespace blink {
 
 // Simple global constants.

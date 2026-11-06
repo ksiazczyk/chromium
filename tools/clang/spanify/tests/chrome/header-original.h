@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Spanify test header with cross-party declarations
+// summary: Header declaring ProcessBuffer functions across first-party and third-party boundaries for the spanify cross-header rewrite test.
+// ---
+
 #ifndef TOOLS_CLANG_SPANIFY_TESTS_CHROME_HEADER_ORIGINAL_H_
 #define TOOLS_CLANG_SPANIFY_TESTS_CHROME_HEADER_ORIGINAL_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of dashboard.py.
+type: script
+title: Clang toolchain dashboard generator
+summary: Generates the Chromium clang toolchain dashboard HTML from git history of toolchain rolls and component revisions.

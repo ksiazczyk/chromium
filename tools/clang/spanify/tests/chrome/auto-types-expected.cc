@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spanify test expected output for auto-typed pointers
+// summary: Expected output of the auto-types test showing which auto-declared buffer pointers the spanify tool rewrites to base::span and which remain unsupported.
+// ---
+
 #include <tuple>
 
 #include "base/containers/span.h"

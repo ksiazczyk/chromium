@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Spanifier Clang tool implementation
+// summary: Implements the Clang AST matcher-based rewriter that converts pointer types to spans across Chrome, PartitionAlloc, Dawn, Skia, ANGLE, and WebRTC projects.
+// ---
+
 #include <assert.h>
 
 #include <algorithm>

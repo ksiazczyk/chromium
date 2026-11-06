@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spanify test input for ignored-path frontier handling
+// summary: Original C++ test case with unsafe buffer use in a file excluded from rewriting, to check frontier behavior.
+// ---
+
 // Represents code that's excluded - i.e. not desirable to rewrite, even
 // if it uses buffers unsafely.
 #include "base/dummy_rewrite_bait_for_testing.h"

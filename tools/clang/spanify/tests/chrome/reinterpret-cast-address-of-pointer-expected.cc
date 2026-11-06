@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: reinterpret-cast-address-of-pointer expected test output
+// summary: Expected spanify output showing no rewrite when a pointer is written through reinterpret_cast or C-style casts.
+// ---
+
 #include <cstdint>
 
 #include "base/containers/span.h"

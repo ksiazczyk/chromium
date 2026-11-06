@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dawn project spanification settings
+// summary: Defines the Dawn project configuration mapping span types, unsafe-buffer macros, and include paths for the clang spanify tool.
+// ---
+
 #ifndef TOOLS_CLANG_SPANIFY_DAWN_PROJECT_H_
 #define TOOLS_CLANG_SPANIFY_DAWN_PROJECT_H_
 

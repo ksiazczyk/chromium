@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spanify test input for volatile const cases
+// summary: Original test input with const and volatile const int pointers used to verify the spanify tool's expected rewrites in the matching expected file.
+// ---
+
 #include <vector>
 
 namespace function_params_and_return {

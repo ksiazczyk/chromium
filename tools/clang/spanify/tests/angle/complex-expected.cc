@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spanify ANGLE complex case expected output
+// summary: Expected output of the spanify tool for a complex ANGLE case where a function parameter and a vector pointer become angle::Span.
+// ---
+
 #include <vector>
 
 #include "common/span.h"

@@ -23,6 +23,12 @@
 //                 └── (another_ns) [ns]
 //                     └── level_3_1()   <- 'span'
 
+// ---docerion
+// type: test
+// title: Spanify expected output for span qualification in nested namespaces
+// summary: Expected spanify output verifying progressively shorter span qualification at increasing namespace nesting depths.
+// ---
+
 #include "partition_alloc/partition_alloc_base/containers/span.h"
 
 void level_0() {

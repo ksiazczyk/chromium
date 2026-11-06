@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Operator test expected output
+// summary: Expected result confirming that overloaded equality operators are left unchanged by the rewrite tool.
+// ---
+
 namespace blink {
 
 struct Op {

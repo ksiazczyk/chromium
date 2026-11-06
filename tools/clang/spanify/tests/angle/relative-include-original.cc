@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spanify ANGLE relative include original input
+// summary: Input with raw arrays calling functions from relatively included first-party and vendored third-party headers to test include resolution.
+// ---
+
 #include "relative_include_helper.h"
 #include "third_party/relative_include_vendored.h"
 

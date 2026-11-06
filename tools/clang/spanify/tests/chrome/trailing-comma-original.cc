@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spanify test input for trailing comma array rewrites
+// summary: Original C++ test case with C array initializers, including trailing commas, that should be rewritten to std::array.
+// ---
+
 #include <tuple>
 
 struct A {

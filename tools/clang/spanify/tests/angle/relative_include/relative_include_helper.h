@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Relative include test helper header
+// summary: Test fixture header reachable only via a relative -I path, providing a function used to verify the spanify rewriter can rewrite headers whose paths clang reports in relative form, as in standalone ANGLE builds.
+// ---
+
 #ifndef TOOLS_CLANG_SPANIFY_TESTS_ANGLE_RELATIVE_INCLUDE_RELATIVE_INCLUDE_HELPER_H_
 #define TOOLS_CLANG_SPANIFY_TESTS_ANGLE_RELATIVE_INCLUDE_RELATIVE_INCLUDE_HELPER_H_
 

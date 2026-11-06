@@ -13,6 +13,12 @@
 // The two spellings denote the same type, so they must produce the same
 // rewrite.
 
+// ---docerion
+// type: test
+// title: 'Spanify test expected output: constexpr array type location'
+// summary: Expected result verifying that constexpr and const C arrays yield identical span rewrites despite Clang's QualifiedTypeLoc wrapping of ArrayTypeLoc.
+// ---
+
 #include <array>
 
 #include "base/containers/span.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spanify struct overlap expected output
+// summary: Expected rewrite output showing structs and unnamed classes with raw array pointer members converted to SkSpan fields via std::to_array.
+// ---
+
 #include <array>
 
 #include "include/core/SkSpan.h"

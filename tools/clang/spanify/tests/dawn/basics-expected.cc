@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spanify basics test, expected output
+// summary: Expected spanify rewrite result for the Dawn basics case, showing a raw array pointer converted to dawn::Span<int> and indexed as a buffer.
+// ---
+
 #include "src/utils/span.h"
 
 namespace dawn::internal {

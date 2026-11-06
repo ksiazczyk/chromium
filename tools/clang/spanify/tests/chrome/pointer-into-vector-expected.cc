@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spanify expected output for pointers into vector, array and string
+// summary: Expected spanify rewrite result showing pointer parameters into std::vector, std::array and std::string converted to base::span with subspan and checked_cast calls.
+// ---
+
 #include <array>
 #include <cstdint>
 #include <string>

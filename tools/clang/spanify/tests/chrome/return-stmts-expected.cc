@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Spanify expected output for return statement rewrites
+// summary: Expected result of converting pointer-returning functions to base::span return types, covering ternaries, std::exchange, subspan and byte spans.
+// ---
+
 #include <cstdint>
 #include <utility>
 #include <vector>

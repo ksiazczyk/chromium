@@ -1,0 +1,4 @@
+# Docerion header of test_tool.py.
+type: test
+title: Test harness for Chromium Clang tools
+summary: Test harness that runs Clang tools over test directories and compares results, optionally piping edits through extract and apply steps.

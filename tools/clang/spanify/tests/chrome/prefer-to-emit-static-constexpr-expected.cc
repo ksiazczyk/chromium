@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spanify expected output preferring static constexpr qualifier order
+// summary: Expected spanify rewrite showing a constexpr array converted with std::to_array while keeping the preferred static constexpr qualifier order.
+// ---
+
 #include <array>
 
 int UnsafeIndex();

@@ -1,6 +1,13 @@
 # Copyright 2026 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: script
+# title: Shared utilities for spanify scripts
+# summary: Python module with shared helpers for spanification scripts, providing scratch directory management and sorted application of collected edits.
+# ---
+
 """Shared utilities for spanification script configurations."""
 
 import functools

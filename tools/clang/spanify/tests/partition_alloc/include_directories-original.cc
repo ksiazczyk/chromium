@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spanify test input covering include directory handling
+// summary: Input for the spanify include-directories test with raw pointers that require span.h and safe_conversions.h includes after rewriting.
+// ---
+
 #include <cstdint>
 
 void requires_span_h() {

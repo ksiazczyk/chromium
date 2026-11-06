@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spanify expected output for qualified global array names
+// summary: Expected spanify rewrite wrapping a namespace-qualified global array in base::span with a checked_cast subspan for indexed access.
+// ---
+
 #include <array>
 #include <cstdint>
 

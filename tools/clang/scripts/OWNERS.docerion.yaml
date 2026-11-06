@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: 'OWNERS: Chromium committers responsible for updating clang'
+summary: Lists the Chromium committers responsible for updating the clang toolchain.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Boundary exclusion original input
+// summary: Original input for the boundary exclusion test, exercising the IsExcludedFromSubmodule classification path for regular and vendored WebRTC code.
+// ---
+
 #include "tools/clang/spanify/tests/third_party/webrtc/api/plain_webrtc.h"
 #include "tools/clang/spanify/tests/third_party/webrtc/common_audio/third_party/vendored_audio.h"
 

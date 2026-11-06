@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Template handling expected output
+// summary: Expected Chrome-style output covering k-prefixed constants and renaming of functions, methods and template arguments in template code.
+// ---
+
 #include <type_traits>
 
 namespace not_blink {

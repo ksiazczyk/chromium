@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Boundary exclusion expected output
+// summary: Expected post-rewrite code for the boundary exclusion test, where regular WebRTC submodule calls stay unchanged but vendored third_party calls become .data() frontiers.
+// ---
+
 #include <array>
 
 #include "tools/clang/spanify/tests/third_party/webrtc/api/plain_webrtc.h"

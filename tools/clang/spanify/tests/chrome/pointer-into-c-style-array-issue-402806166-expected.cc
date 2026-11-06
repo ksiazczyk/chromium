@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spanify pointer into C-style array expected test for issue 402806166
+// summary: Expected output of the spanify test for issue 402806166 covering rewrites when pointers into C-style arrays are passed to spanified functions.
+// ---
+
 #include <algorithm>
 
 #include "base/containers/span.h"

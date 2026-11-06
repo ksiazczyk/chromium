@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spanify test input for cross-header declarations
+// summary: Original test input with raw pointer functions declared in headers, testing spanify rewrites across first-party and third-party declarations.
+// ---
+
 #include "header-original.h"
 
 #include <vector>

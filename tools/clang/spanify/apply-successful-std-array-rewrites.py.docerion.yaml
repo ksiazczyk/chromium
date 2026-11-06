@@ -1,0 +1,4 @@
+# Docerion header of apply-successful-std-array-rewrites.py.
+type: script
+title: Apply successful std::array rewrites script
+summary: Applies collected std::array and std::to_array rewrites from patches that passed compilation evaluation.

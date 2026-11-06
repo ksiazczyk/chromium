@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spanify temporary unnamed span expected output
+// summary: Expected output for issue 408018846 building a string view from a spanified buffer via subspan and a size helper.
+// ---
+
 #include <array>
 #include <cstdint>
 #include <string_view>

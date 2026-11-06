@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WTF namespace renaming expected output
+// summary: Expected result fixture for the rewrite_to_chrome_style test, showing globals, functions, methods and fields in the WTF namespace renamed to Chrome style.
+// ---
+
 // Make sure things in namespace WTF are also renamed.
 namespace WTF {
 

@@ -28,6 +28,12 @@
 //         └── another_ns (ns)
 //             └── level_5()   <----- '::partition_alloc::internal::base::span'
 
+// ---docerion
+// type: test
+// title: Spanify expected output for shadowing namespaces
+// summary: Expected spanify output for namespaces that share names across different branches, checking correct qualification including a leading ::.
+// ---
+
 #include "partition_alloc/partition_alloc_base/containers/span.h"
 
 namespace partition_alloc {

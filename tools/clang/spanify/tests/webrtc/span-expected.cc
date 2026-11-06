@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Expected spanify rewrite of array pointer to std::span
+// summary: Expected output of the spanify tool showing a raw array pointer in webrtc code rewritten to a std::span.
+// ---
+
 #include <span>
 
 namespace webrtc {

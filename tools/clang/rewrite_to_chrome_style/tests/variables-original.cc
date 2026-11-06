@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Variable renaming test input
+// summary: Blink-style variable test case verifying that globals, locals, static locals and qualified references are renamed to Google style.
+// ---
+
 namespace blink {
 
 // Global variables

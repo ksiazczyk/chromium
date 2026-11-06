@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spanify template regression test input
+// summary: Original template test source whose pointer parameter is expected to be rewritten to base::span<T>.
+// ---
+
 int UnsafeIndex();  // Return out of bounds index.
 
 // Regression test. This shouldn't violate assertions.

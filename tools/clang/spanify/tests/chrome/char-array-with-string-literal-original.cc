@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: 'Spanify test input: char array with string literal'
+// summary: Input with character arrays of several widths initialized from string literals, used to check their rewrite to string_view or std::array.
+// ---
+
 #include <uchar.h>
 #include <wchar.h>
 

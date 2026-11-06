@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Function pointer variable spanify test, expected output
+// summary: Expected spanified output for function pointer variables and typedefs, covering parameters, return types and raw_span usage.
+// ---
+
 #include "base/containers/span.h"
 #include "base/memory/raw_ptr.h"
 #include "base/memory/raw_span.h"

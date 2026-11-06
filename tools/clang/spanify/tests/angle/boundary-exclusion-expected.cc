@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spanify ANGLE boundary exclusion expected output
+// summary: Expected output showing arrays passed to autogen, nested third-party and Chromium core functions rewritten with .data() frontier calls.
+// ---
+
 #include <array>
 
 #include "autogen/autogen_helper.h"

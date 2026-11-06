@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: 'Spanify test expected output: char array with string literal'
+// summary: Expected result of rewriting char, wchar_t, char16_t and char32_t arrays initialized from string literals to string_view or std::array.
+// ---
+
 #include <uchar.h>
 #include <wchar.h>
 

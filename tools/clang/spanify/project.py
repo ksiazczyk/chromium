@@ -4,6 +4,12 @@
 
 # This file contains the metadata for all projects supported by the spanify tool.
 
+# ---docerion
+# type: source
+# title: Spanify project metadata
+# summary: Stores spreadsheet IDs, submodules, and compile directories for each project supported by the spanify tool.
+# ---
+
 # yapf: disable
 PROJECTS = {
     # http://go/autospan-tracker

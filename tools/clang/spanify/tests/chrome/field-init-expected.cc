@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Field initializer spanify test, expected output
+// summary: Expected spanified output for class member initializers, documenting which pointer initializations are rewritten and which stay unchanged.
+// ---
+
 #include <tuple>
 #include <vector>
 

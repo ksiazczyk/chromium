@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spanify test input for safe array access rewrites
+// summary: Original C++ code mixing safe array indexing and pointer accesses that the spanify tool should selectively rewrite to spans.
+// ---
+
 void test_safe_array_access_basic() {
   int buffer[10];  // Expect no rewrite, because 0 < 10.
   buffer[0] = 0;

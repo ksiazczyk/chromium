@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spanify operator bool expected test
+// summary: Expected output of spanify regression tests covering base::span's lack of operator bool, including macro and nullptr comparison cases.
+// ---
+
 #include <tuple>
 #include <vector>
 

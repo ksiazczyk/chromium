@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Safe conversions expected output
+// summary: Expected post-rewrite code for the safe conversions test, with the buffer pointer turned into std::span and pointer arithmetic wrapped in base::checked_cast.
+// ---
+
 #include <cstdint>
 #include <span>
 

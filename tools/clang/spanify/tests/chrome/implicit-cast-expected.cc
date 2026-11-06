@@ -1,6 +1,13 @@
 // Copyright 2026 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Spanify expected output for implicit casts
+// summary: Expected spanify rewrite showing raw pointer assignment and short offset arithmetic converted to base::span with checked_cast.
+// ---
+
 #include <cstdint>
 #include <vector>
 

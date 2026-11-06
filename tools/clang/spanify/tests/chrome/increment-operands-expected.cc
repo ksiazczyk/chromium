@@ -5,6 +5,12 @@
 // The rewrite of an increment spells its operand twice, e.g. `s.ptr++` becomes
 // `s.ptr = s.ptr.subspan(1u)`.
 
+// ---docerion
+// type: test
+// title: Increment operands expected output
+// summary: Expected spanify output showing increment rewrites that spell the operand twice, covering member, parenthesized, side-effect, and cast-discarded cases.
+// ---
+
 #include <utility>
 #include <vector>
 

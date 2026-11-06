@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spanify template regression test expected output
+// summary: Expected spanified output of the template regression test, with the function parameter rewritten to base::span<T>.
+// ---
+
 #include "base/containers/span.h"
 
 int UnsafeIndex();  // Return out of bounds index.

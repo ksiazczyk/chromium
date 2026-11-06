@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Spanify test input for return statement rewrites
+// summary: Original pointer-based C++ code whose return statements and pointer arithmetic the spanify tool should convert to base::span return types.
+// ---
+
 #include <vector>
 
 // Expected rewrite:

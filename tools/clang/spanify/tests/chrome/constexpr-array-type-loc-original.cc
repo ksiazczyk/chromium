@@ -13,6 +13,12 @@
 // The two spellings denote the same type, so they must produce the same
 // rewrite.
 
+// ---docerion
+// type: test
+// title: 'Spanify test input: constexpr array type location'
+// summary: Input with constexpr and const C arrays exercising ArrayTypeLoc handling so both spellings produce the same span rewrite.
+// ---
+
 void Sink(const int* p);
 
 // Expected rewrite:

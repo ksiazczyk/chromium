@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: CMake build file for the spanify tool
+# summary: Defines the CMake build for the spanify Clang executable, linking LLVM and Clang libraries with sources from the raw_ptr_plugin.
+# ---
+
 set(LLVM_LINK_COMPONENTS
   X86AsmParser
   X86CodeGen

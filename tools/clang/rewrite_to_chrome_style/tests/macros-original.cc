@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Original macro handling test input for Chrome style rewriter
+// summary: Blink-style test input exercising macro definitions, token concatenation and macro-declared fields to pin down rewriter behavior.
+// ---
+
 #define DEFINE_TYPE_CASTS(thisType, argumentType, argumentName, predicate) \
   inline thisType* to##thisType(argumentType* argumentName) {              \
     if (!predicate)                                                        \

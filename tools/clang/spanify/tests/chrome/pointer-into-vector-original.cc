@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spanify original test input for pointers into vector, array and string
+// summary: Original test input for the spanify tool using raw pointers into std::vector, std::array and std::string to verify call-site and parameter spanification.
+// ---
+
 #include <array>
 #include <string>
 #include <vector>

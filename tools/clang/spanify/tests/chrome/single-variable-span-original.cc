@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Single-variable span rewrite test, original input
+// summary: Original C++ test input covering pointer-to-single-variable, array, vector, and field pointer cases with expected span rewrites for the spanify tool.
+// ---
+
 #include <array>
 #include <cstdint>
 #include <vector>

@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: Ruff configuration for the spanify tool
+# summary: Extends the repository-wide Ruff linter configuration and sets the indent width for Python files in the spanify tool directory.
+# ---
+
 extend = "../../.ruff.toml"
 indent-width = 4

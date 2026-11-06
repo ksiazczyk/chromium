@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Array with init list original input
+// summary: Input fixture with initializer-list C arrays of structs, nested arrays, strings and various qualifiers, paired with an expected spanify output file.
+// ---
+
 #include <string>
 #include <vector>
 

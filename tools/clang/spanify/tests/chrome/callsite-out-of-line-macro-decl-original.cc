@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spanify test input for macro-declared out-of-line functions
+// summary: Input for the macro declaration test, checking that spanify skips out-of-line functions declared through macros or with macro-defined pointer types.
+// ---
+
 #include <cstdint>
 
 #define DECLARE_OUT_OF_LINE_FUNC(name) void name(int* ptr)

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spanify ANGLE relative include expected output
+// summary: Expected output testing spanification when headers are reachable only via relative include paths, covering first-party and vendored third-party code.
+// ---
+
 #include <array>
 
 #include "relative_include_helper.h"

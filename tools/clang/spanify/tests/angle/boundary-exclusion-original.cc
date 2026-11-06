@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spanify ANGLE boundary exclusion original input
+// summary: Input with raw arrays passed to autogen, nested third-party and Chromium core functions to test boundary exclusion in ANGLE spanification.
+// ---
+
 #include "autogen/autogen_helper.h"
 #include "src/common/third_party/angle/nested_angle.h"
 #include "tools/clang/spanify/tests/common/external_chromium_core.h"

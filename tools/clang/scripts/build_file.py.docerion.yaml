@@ -1,0 +1,4 @@
+# Docerion header of build_file.py.
+type: script
+title: Build a single Chromium file for clang debugging
+summary: Rebuilds one Chromium source file using its compile database entry, with optional compiler, prefix and suffix overrides.

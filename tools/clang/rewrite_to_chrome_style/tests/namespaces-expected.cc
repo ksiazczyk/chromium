@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Namespace renaming expected output
+// summary: Expected Chrome-style result showing functions in blink and WTF namespaces renamed to PascalCase while blocklisted and outer namespaces stay unchanged.
+// ---
+
 namespace blink {
 
 // Stuff in blink:: should be renamed.

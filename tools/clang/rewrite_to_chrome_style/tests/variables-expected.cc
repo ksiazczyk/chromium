@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Variable renaming expected output
+// summary: Expected Chrome-style result showing globals, locals, statics and references renamed with g_ prefixes and snake_case conventions.
+// ---
+
 namespace blink {
 
 // Global variables

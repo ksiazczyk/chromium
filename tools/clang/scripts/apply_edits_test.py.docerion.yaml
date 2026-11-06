@@ -1,0 +1,4 @@
+# Docerion header of apply_edits_test.py.
+type: test
+title: Unit tests for apply_edits.py
+summary: Unit tests covering header basename detection and edit application logic in apply_edits.py.

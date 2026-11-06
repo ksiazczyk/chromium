@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Enum indices spanify test, original input
+// summary: Original code indexing buffers with unsigned and signed enum values that the spanify tool should rewrite into subspan calls.
+// ---
+
 enum UnsignedEnum : unsigned int { kA };
 enum SignedEnum : int { kB };
 

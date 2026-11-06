@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Expected function renaming test output for Chrome style rewriter
+// summary: Expected Chrome-style output showing function prototypes, definitions, calls and function pointers renamed, with swap and blocklist cases preserved.
+// ---
+
 namespace blink {
 
 namespace {

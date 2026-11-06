@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skia project settings for the spanify tool
+// summary: C++ header defining the SkiaProject class with Skia-specific span include paths, checked cast replacements, and exclusion rules for the spanify rewriter.
+// ---
+
 #ifndef TOOLS_CLANG_SPANIFY_SKIA_PROJECT_H_
 #define TOOLS_CLANG_SPANIFY_SKIA_PROJECT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spanify expected output for volatile const cases
+// summary: Expected rewrite output showing const and volatile const int pointers converted to base::span in function parameters, returns and local variables.
+// ---
+
 #include <vector>
 
 #include "base/containers/span.h"

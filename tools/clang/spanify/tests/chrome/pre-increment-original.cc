@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spanify original test input for pre-increment inside macros
+// summary: Original test input for the spanify tool covering a pointer incremented via a macro, a regression case for ++ written inside macro bodies.
+// ---
+
 // The `++` is in a macro body, so it can't be rewritten in place. `ptr` is
 // excluded and stays a pointer.
 #define PRE_INC(x) ++x

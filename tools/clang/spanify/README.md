@@ -1,3 +1,13 @@
+---
+type: readme
+title: Clang Spanification tool
+summary: Explains how to build, test, and use the tool that rewrites pointer type expressions to base::span and base::raw_span, including flags and troubleshooting.
+relations:
+  - documents /tools/clang/scripts/build.py
+  - documents /tools/clang/spanify/run_all_tests.py
+  - documents /tools/clang/spanify/rewrite_multiple_platforms.py
+---
+
 # Clang Spanification tool
 
 This tool generates cross-translation unit rewrites converting pointer type

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: 'Spanify test expected output: const pointer parameters and returns'
+// summary: Expected result of rewriting const int pointer return values and locals to base::span<const int> in function parameter and return tests.
+// ---
+
 #include <vector>
 
 #include "base/containers/span.h"

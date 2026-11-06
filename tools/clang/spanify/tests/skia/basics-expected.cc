@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: 'Spanify basics test: expected rewrite'
+// summary: Expected output for the basics spanify test, showing a raw array pointer rewritten into an SkSpan<int> while buffer usage stays unchanged.
+// ---
+
 #include "include/core/SkSpan.h"
 
 void fct() {

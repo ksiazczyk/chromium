@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: 'Class inheritance test: expected rewrite'
+// summary: Expected rewrite for the class inheritance test, spanifying virtual method parameters, overrides, and return types across SkRawStream-derived classes.
+// ---
+
 #include <vector>
 
 #include "include/core/SkSpan.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spanify non-int plus original test
+// summary: Original input of the spanify test verifying that pointer plus expressions with non-integer right-hand sides are not rewritten to subspan.
+// ---
+
 #include <string>
 #include <tuple>
 #include <vector>

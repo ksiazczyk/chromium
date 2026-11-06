@@ -1,6 +1,13 @@
 // Copyright 2026 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: 'Dereference expression test: original input'
+// summary: Original input for the dereference expression test, using raw pointers for struct members, parameters, and returns that should become SkSpan types.
+// ---
+
 #include <vector>
 
 struct S {

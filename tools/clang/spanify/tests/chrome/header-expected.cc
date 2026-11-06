@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spanify expected output for cross-header declarations
+// summary: Expected spanify rewrite verifying pointer-to-span changes when declarations and implementations live in different files, including third-party exclusions.
+// ---
+
 #include <vector>
 
 #include "./third_party/do_not_rewrite/header-original.h"

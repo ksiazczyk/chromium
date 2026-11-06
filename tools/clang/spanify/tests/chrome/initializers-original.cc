@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Initializers test input
+// summary: Original test input with raw_ptr members, pointer initializers, and conditional expressions used to verify spanify rewriting of initializers.
+// ---
+
 #include <vector>
 
 #include "base/memory/raw_ptr.h"

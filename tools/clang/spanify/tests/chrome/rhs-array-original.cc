@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spanify test input for right-hand-side array rewrite
+// summary: Original C++ code assigning an array to a const pointer and advancing it, serving as input for the spanify rewrite test.
+// ---
+
 #include <cstdint>
 
 void Test() {

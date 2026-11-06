@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Expected macro handling test output for Chrome style rewriter
+// summary: Expected Chrome-style output covering macro definitions, token concatenation and macro-declared fields that the rewriter must handle carefully.
+// ---
+
 #define DEFINE_TYPE_CASTS(thisType, argumentType, argumentName, predicate) \
   inline thisType* To##thisType(argumentType* argumentName) {              \
     if (!predicate)                                                        \

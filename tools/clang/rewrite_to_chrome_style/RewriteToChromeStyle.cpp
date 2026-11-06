@@ -12,6 +12,12 @@
 //   free functions and methods:
 //     void doThisThenThat() => void DoThisAndThat()
 
+// ---docerion
+// type: source
+// title: RewriteToChromeStyle.cpp
+// summary: Clang tool that rewrites Blink-style names to Chrome-style names for fields, variables, constants, and functions.
+// ---
+
 #include <assert.h>
 #include <algorithm>
 #include <memory>

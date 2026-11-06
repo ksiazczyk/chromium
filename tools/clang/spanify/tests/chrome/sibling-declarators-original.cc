@@ -5,6 +5,12 @@
 // Arrays declared together with other declarators are not rewritten: the edit
 // starts at the shared type and would delete the siblings.
 
+// ---docerion
+// type: test
+// title: Spanify test input for sibling declarator cases
+// summary: Original C++ code with arrays declared together with sibling declarators, verifying the spanify tool skips such rewrites.
+// ---
+
 unsigned UnsafeIndex();
 
 void SiblingLocals() {

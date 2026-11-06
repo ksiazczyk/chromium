@@ -5,6 +5,12 @@
 // Increments are rewritten with the span's own `subspan()`, as in every other
 // project.
 
+// ---docerion
+// type: test
+// title: Spanify ANGLE increments original input
+// summary: Input with raw pointer increments in loops, comma expressions and unsafe-buffer macros to test ANGLE spanification.
+// ---
+
 int Sum(const int* values, int count) {
   int sum = 0;
   // Expected rewrite:

@@ -1,0 +1,4 @@
+# Docerion header of analyze_includes.py.
+type: script
+title: Include graph analyzer
+summary: 'Analyzes #include graphs from a build log and emits JSON data used by include-analysis.html.'

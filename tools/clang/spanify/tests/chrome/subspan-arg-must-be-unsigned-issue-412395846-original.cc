@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spanify subspan unsigned argument test input
+// summary: Original test source for issue 412395846 on subspan argument signedness when spanifying array indexing.
+// ---
+
 #include <vector>
 
 int UnsafeIndex();

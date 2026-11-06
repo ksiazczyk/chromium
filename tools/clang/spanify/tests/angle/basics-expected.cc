@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spanify ANGLE basics expected output
+// summary: Expected output of the spanify tool for basic ANGLE cases covering vector-to-span rewrites, unsafe-buffer macros, struct arrays and static const arrays.
+// ---
+
 #include <array>
 #include <vector>
 

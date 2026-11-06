@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Pointer-to-array exclusion original input
+// summary: Original input for the pointer-to-array regression test covering crbug 501280389, ensuring pointers to arrays are not spanified into invalid syntax.
+// ---
+
 #include <cstdint>
 
 int UnsafeIndex();

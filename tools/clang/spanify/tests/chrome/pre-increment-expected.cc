@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spanify expected output for pre-increment inside macros
+// summary: Expected spanify result verifying that a pointer incremented through a macro body stays a pointer, as a regression test for ++ written inside macros.
+// ---
+
 // The `++` is in a macro body, so it can't be rewritten in place. `ptr` is
 // excluded and stays a pointer.
 #define PRE_INC(x) ++x

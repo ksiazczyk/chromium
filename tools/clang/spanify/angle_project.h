@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ANGLE project settings for spanification
+// summary: Defines the AngleProject class with span include paths, helper macro names, and exclusion rules for spanifying the ANGLE codebase.
+// ---
+
 #ifndef TOOLS_CLANG_SPANIFY_ANGLE_PROJECT_H_
 #define TOOLS_CLANG_SPANIFY_ANGLE_PROJECT_H_
 

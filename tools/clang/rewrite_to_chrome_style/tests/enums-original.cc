@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Original input for enums test
+// summary: Blink-style input for the enums test, exercising renaming of enum values in namespaces, classes, and enum classes.
+// ---
+
 namespace blink {
 
 enum EnumInNamespace {

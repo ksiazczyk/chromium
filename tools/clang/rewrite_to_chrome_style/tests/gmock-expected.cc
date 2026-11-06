@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Expected gmock test output for Chrome style rewriter
+// summary: Expected Chrome-style output for gmock code, showing MOCK_METHOD macros and EXPECT_CALL and ON_CALL matchers renamed correctly.
+// ---
+
 #include "gmock/gmock.h"
 
 namespace blink {

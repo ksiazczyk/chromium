@@ -1,0 +1,4 @@
+# Docerion header of evaluate_patches.py.
+type: script
+title: Patch compilation evaluation script
+summary: Evaluates whether generated spanification patches compile and reports results to a Google Sheets spreadsheet.

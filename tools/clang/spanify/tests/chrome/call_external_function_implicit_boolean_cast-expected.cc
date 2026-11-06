@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spanify test expected output for implicit boolean cast regression
+// summary: Expected output of a regression test ensuring implicit boolean casts of external function call results no longer violate spanify assertions.
+// ---
+
 #include <cstdlib>
 #include <vector>
 

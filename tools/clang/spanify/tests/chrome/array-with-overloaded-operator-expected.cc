@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Array with overloaded operator expected output
+// summary: Expected output fixture for a spanify regression test where operator+ is overloaded for a C array reference; its content matches the original input.
+// ---
+
 struct MyClass {};
 enum MyEnum { VALUE };
 

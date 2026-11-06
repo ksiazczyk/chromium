@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sizeof arithmetic spanification test, original input
+// summary: Original C++ input for the sizeof arithmetic test, using raw char arrays and pointer arithmetic with memcpy.
+// ---
+
 #include <array>
 #include <cstring>
 #include <tuple>

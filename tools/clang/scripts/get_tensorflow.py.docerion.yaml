@@ -1,0 +1,4 @@
+# Docerion header of get_tensorflow.py.
+type: script
+title: TensorFlow package fetcher for MLGO
+summary: Locates the TensorFlow pip package fetched via vpython for use by MLGO during LLVM compilation.

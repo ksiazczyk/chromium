@@ -23,6 +23,12 @@
 //                 └── (another_ns) [ns]
 //                     └── level_3_1()   <- 'span'
 
+// ---docerion
+// type: test
+// title: Spanify input for span qualification in nested namespaces
+// summary: Input for the spanify nested-namespace test, with raw pointers at several nesting depths awaiting span rewrites.
+// ---
+
 void level_0() {
   // This function doesn't share any namespace with target.
   // It is expected to use the full namespace path.

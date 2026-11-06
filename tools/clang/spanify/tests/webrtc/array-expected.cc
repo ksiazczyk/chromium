@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Array spanification expected output
+// summary: Expected post-rewrite code for the WebRTC array test, where the raw int array is converted to std::array and indexing triggers spanification.
+// ---
+
 #include <array>
 #include <tuple>
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spanify struct overlap original input
+// summary: Input fixture with a struct and an unnamed class holding raw array pointers, used to test the spanify rewriter's struct overlap case.
+// ---
+
 #include <array>
 
 typedef int Curve;
