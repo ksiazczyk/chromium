@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake WinRT GATT characteristic header for Bluetooth tests
+// summary: Declares a fake WinRT IGattCharacteristic implementation that BluetoothTestWinrt uses to simulate GATT characteristic reads and writes in tests.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_TEST_FAKE_GATT_CHARACTERISTIC_WINRT_H_
 #define DEVICE_BLUETOOTH_TEST_FAKE_GATT_CHARACTERISTIC_WINRT_H_
 

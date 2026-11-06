@@ -1,0 +1,4 @@
+# Docerion header of mock_bluetooth_central_manager_mac.mm.
+type: test
+title: Mock CBCentralManager implementation for macOS Bluetooth tests
+summary: Implements MockCentralManager, tracking scan and connect calls and returning fake connected peripherals for macOS Bluetooth tests.

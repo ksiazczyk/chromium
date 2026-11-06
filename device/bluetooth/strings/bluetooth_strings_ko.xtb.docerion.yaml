@@ -1,0 +1,4 @@
+# Docerion header of bluetooth_strings_ko.xtb.
+type: data
+title: Bluetooth strings translation bundle in Korean
+summary: XML translation bundle with Korean translations of Bluetooth device type labels, such as modem, keyboard, and phone, each including a device address placeholder.

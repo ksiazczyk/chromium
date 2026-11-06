@@ -1,0 +1,4 @@
+# Docerion header of mock_bluetooth_cbservice_mac.mm.
+type: test
+title: Mock CBService implementation for macOS Bluetooth tests
+summary: Implements MockCBService, managing a list of mock characteristics and masquerading as a CBService for macOS Bluetooth tests.

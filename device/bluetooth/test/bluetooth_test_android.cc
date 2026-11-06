@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android BluetoothTest implementation
+// summary: Implements the Android Bluetooth test fixture, driving Java fake adapters and GATT simulations over JNI.
+// ---
+
 #include "device/bluetooth/test/bluetooth_test_android.h"
 
 #include <algorithm>

@@ -1,0 +1,4 @@
+# Docerion header of bluetooth_test_mac.mm.
+type: test
+title: Mac Bluetooth test fixture implementation
+summary: Implements the Mac Bluetooth test fixture using CoreBluetooth mocks to simulate adapters, peripherals, advertisements, and GATT behaviour on macOS and iOS.

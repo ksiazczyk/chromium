@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeGattReadResultWinrt header
+// summary: Declares a fake Windows Runtime GATT read result that supplies canned values or error statuses in Windows Bluetooth tests.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_TEST_FAKE_GATT_READ_RESULT_WINRT_H_
 #define DEVICE_BLUETOOTH_TEST_FAKE_GATT_READ_RESULT_WINRT_H_
 

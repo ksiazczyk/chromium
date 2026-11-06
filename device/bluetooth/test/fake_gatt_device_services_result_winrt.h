@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeGattDeviceServicesResultWinrt header
+// summary: Declares a fake Windows Runtime GATT device services result used to simulate service discovery outcomes in Windows Bluetooth tests.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_TEST_FAKE_GATT_DEVICE_SERVICES_RESULT_WINRT_H_
 #define DEVICE_BLUETOOTH_TEST_FAKE_GATT_DEVICE_SERVICES_RESULT_WINRT_H_
 

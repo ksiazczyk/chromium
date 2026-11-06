@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BluetoothGattServerTest fixture implementation
+// summary: Implements the GATT server test fixture with setup helpers, delegate wiring, and byte-vector to integer value conversion utilities.
+// ---
+
 #include "device/bluetooth/test/bluetooth_gatt_server_test.h"
 
 #include "base/check_op.h"

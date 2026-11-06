@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BluetoothTestBase implementation
+// summary: Implements the cross-platform Bluetooth test fixture, defining fake adapter, device, and GATT UUID constants plus shared simulation helpers.
+// ---
+
 #include "device/bluetooth/test/bluetooth_test.h"
 
 #include <iterator>

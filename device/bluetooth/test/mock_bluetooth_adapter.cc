@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock Bluetooth adapter implementation for tests
+// summary: Implements MockBluetoothAdapter defaults, including observer forwarding, mock device management and advertisement registration for tests.
+// ---
+
 #include "device/bluetooth/test/mock_bluetooth_adapter.h"
 
 #include <memory>

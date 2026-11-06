@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake Bluetooth socket implementation
+// summary: Implements FakeBluetoothSocket, which records Receive, Send, Accept, and Disconnect calls so tests can inspect pending socket operations.
+// ---
+
 #include "device/bluetooth/test/fake_bluetooth_socket.h"
 
 namespace device {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock BluetoothGattDescriptor test double
+// summary: Declares a Google Mock subclass of BluetoothRemoteGattDescriptor with mocked read and write descriptor methods for Bluetooth tests.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_TEST_MOCK_BLUETOOTH_GATT_DESCRIPTOR_H_
 #define DEVICE_BLUETOOTH_TEST_MOCK_BLUETOOTH_GATT_DESCRIPTOR_H_
 

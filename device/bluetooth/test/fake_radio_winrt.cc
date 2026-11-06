@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake WinRT radio for Windows Bluetooth tests
+// summary: Implements fake WinRT Radio objects that simulate radio state changes, power failure and access errors for Windows Bluetooth tests.
+// ---
+
 #include "device/bluetooth/test/fake_radio_winrt.h"
 
 #include <utility>

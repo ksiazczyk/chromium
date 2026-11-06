@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeGattValueChangedEventArgsWinrt header
+// summary: Declares a fake Windows Runtime GATT value changed event arguments class carrying a canned characteristic value for Windows Bluetooth tests.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_TEST_FAKE_GATT_VALUE_CHANGED_EVENT_ARGS_WINRT_H_
 #define DEVICE_BLUETOOTH_TEST_FAKE_GATT_VALUE_CHANGED_EVENT_ARGS_WINRT_H_
 

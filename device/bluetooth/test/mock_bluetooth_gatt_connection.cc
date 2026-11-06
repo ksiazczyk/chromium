@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock BluetoothGattConnection implementation
+// summary: Implements the mock GATT connection, defaulting GetDeviceAddress to the given address and IsConnected to true.
+// ---
+
 #include "device/bluetooth/test/mock_bluetooth_gatt_connection.h"
 
 #include "device/bluetooth/bluetooth_adapter.h"

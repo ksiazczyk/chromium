@@ -1,0 +1,4 @@
+# Docerion header of bluetooth_strings_hu.xtb.
+type: data
+title: Bluetooth device type strings in Hungarian
+summary: Hungarian translation bundle with Bluetooth device type labels such as modem, keyboard, and phone, each including a device address placeholder.

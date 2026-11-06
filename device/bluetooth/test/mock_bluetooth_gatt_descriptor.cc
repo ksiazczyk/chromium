@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock BluetoothGattDescriptor implementation
+// summary: Implements default gmock behavior for the mock GATT descriptor, returning its identifier, UUID, value, characteristic, and permissions.
+// ---
+
 #include "device/bluetooth/test/mock_bluetooth_gatt_descriptor.h"
 
 #include "device/bluetooth/test/mock_bluetooth_gatt_characteristic.h"

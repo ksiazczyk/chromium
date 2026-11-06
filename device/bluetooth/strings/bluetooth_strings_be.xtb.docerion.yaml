@@ -1,0 +1,4 @@
+# Docerion header of bluetooth_strings_be.xtb.
+type: data
+title: Belarusian Bluetooth device type strings
+summary: Belarusian translation bundle providing localized Bluetooth device type labels such as modem, keyboard, mouse, and phone for the UI.

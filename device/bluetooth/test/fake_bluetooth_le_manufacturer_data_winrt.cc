@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake WinRT Bluetooth LE manufacturer data implementation
+// summary: Implements FakeBluetoothLEManufacturerData and its factory, faking IBluetoothLEManufacturerData with a company ID and data buffer for Windows Bluetooth tests.
+// ---
+
 #include "device/bluetooth/test/fake_bluetooth_le_manufacturer_data_winrt.h"
 
 #include <utility>

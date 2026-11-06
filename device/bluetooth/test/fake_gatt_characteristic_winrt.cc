@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake WinRT GATT Characteristic Implementation
+// summary: Implements a fake GattCharacteristic supporting descriptors, reads, writes and value-changed notifications for Windows Bluetooth tests.
+// ---
+
 #include "device/bluetooth/test/fake_gatt_characteristic_winrt.h"
 
 #include <string_view>

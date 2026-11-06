@@ -1,0 +1,4 @@
+# Docerion header of bluetooth_strings_hy.xtb.
+type: data
+title: Bluetooth device type strings in Armenian
+summary: Armenian translation bundle with Bluetooth device type labels such as modem, keyboard, and phone, each including a device address placeholder.

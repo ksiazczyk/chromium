@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock CoreBluetooth characteristic for macOS tests
+// summary: Declares MockCBCharacteristic, an Objective-C mock of a CoreBluetooth characteristic with methods to simulate reads, writes and notifications.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_TEST_MOCK_BLUETOOTH_CBCHARACTERISTIC_MAC_H_
 #define DEVICE_BLUETOOTH_TEST_MOCK_BLUETOOTH_CBCHARACTERISTIC_MAC_H_
 

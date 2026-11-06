@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fuchsia Bluetooth test fixture header
+// summary: Declares the Fuchsia Bluetooth test fixture class and aliases it as the common BluetoothTest fixture name for tests.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_TEST_BLUETOOTH_TEST_FUCHSIA_H_
 #define DEVICE_BLUETOOTH_TEST_BLUETOOTH_TEST_FUCHSIA_H_
 

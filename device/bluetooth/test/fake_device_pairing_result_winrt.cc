@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake WinRT Device Pairing Result Implementation
+// summary: Implements a fake IDevicePairingResult that returns a preset pairing result status for Windows Bluetooth tests.
+// ---
+
 #include "device/bluetooth/test/fake_device_pairing_result_winrt.h"
 
 namespace {

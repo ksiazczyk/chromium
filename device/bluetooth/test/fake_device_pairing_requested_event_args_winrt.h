@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake WinRT Pairing Requested Event Args Declarations
+// summary: Declares the fake IDevicePairingRequestedEventArgs class used to simulate pairing request events in Windows Bluetooth tests.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_TEST_FAKE_DEVICE_PAIRING_REQUESTED_EVENT_ARGS_WINRT_H_
 #define DEVICE_BLUETOOTH_TEST_FAKE_DEVICE_PAIRING_REQUESTED_EVENT_ARGS_WINRT_H_
 

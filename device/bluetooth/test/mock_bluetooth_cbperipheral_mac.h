@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock CBPeripheral header for macOS Bluetooth tests
+// summary: Declares MockCBPeripheral, an Objective-C mock of CBPeripheral exposing methods to fake service discovery, connection state and delegate events.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_TEST_MOCK_BLUETOOTH_CBPERIPHERAL_MAC_H_
 #define DEVICE_BLUETOOTH_TEST_MOCK_BLUETOOTH_CBPERIPHERAL_MAC_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of bluetooth_strings_ka.xtb.
+type: data
+title: Bluetooth device type strings in Georgian
+summary: Georgian translation bundle with Bluetooth device type labels such as modem, keyboard, and phone, each including a device address placeholder.

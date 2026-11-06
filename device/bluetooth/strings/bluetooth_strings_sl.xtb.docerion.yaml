@@ -1,0 +1,4 @@
+# Docerion header of bluetooth_strings_sl.xtb.
+type: data
+title: Bluetooth strings in Slovenian
+summary: XML translation bundle with Slovenian labels for Bluetooth device types such as modem, keyboard, mouse, phone, and gamepad, each including an address placeholder.

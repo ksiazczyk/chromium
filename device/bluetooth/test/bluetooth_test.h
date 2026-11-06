@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BluetoothTestBase declaration
+// summary: Declares the cross-platform Bluetooth test fixture that abstracts platform specifics for creating and controlling fake low-level Bluetooth objects.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_TEST_BLUETOOTH_TEST_H_
 #define DEVICE_BLUETOOTH_TEST_BLUETOOTH_TEST_H_
 

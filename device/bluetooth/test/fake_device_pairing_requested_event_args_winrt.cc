@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake WinRT Pairing Requested Event Args Implementation
+// summary: Implements a fake IDevicePairingRequestedEventArgs that reports pairing kind and PIN and forwards accept, deferral and completion calls in tests.
+// ---
+
 #include "device/bluetooth/test/fake_device_pairing_requested_event_args_winrt.h"
 
 #include <windows.foundation.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeLocalGattCharacteristic implementation
+// summary: Implements a fake local GATT characteristic exposing identifier, UUID, properties and permissions for local GATT service tests.
+// ---
+
 #include "device/bluetooth/test/fake_local_gatt_characteristic.h"
 
 #include "base/notimplemented.h"

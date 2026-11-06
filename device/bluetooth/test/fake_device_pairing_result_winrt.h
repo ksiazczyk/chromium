@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake WinRT Device Pairing Result Declarations
+// summary: Declares FakeDevicePairingResultWinrt, a fake IDevicePairingResult carrying a configurable pairing status.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_TEST_FAKE_DEVICE_PAIRING_RESULT_WINRT_H_
 #define DEVICE_BLUETOOTH_TEST_FAKE_DEVICE_PAIRING_RESULT_WINRT_H_
 

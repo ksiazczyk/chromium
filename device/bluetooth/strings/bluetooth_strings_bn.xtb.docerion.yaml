@@ -1,0 +1,4 @@
+# Docerion header of bluetooth_strings_bn.xtb.
+type: data
+title: Bengali Bluetooth device type strings
+summary: Bengali translation bundle providing localized Bluetooth device type labels such as modem, keyboard, mouse, and phone for the UI.

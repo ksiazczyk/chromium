@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BlueZ BluetoothTest implementation
+// summary: Implements the BlueZ Bluetooth test fixture for Linux and Chrome OS using fake D-Bus adapter and device clients.
+// ---
+
 #include "device/bluetooth/test/bluetooth_test_bluez.h"
 
 #include <string>

@@ -1,0 +1,4 @@
+# Docerion header of bluetooth_strings_lt.xtb.
+type: data
+title: Bluetooth strings translation bundle in Lithuanian
+summary: XML translation bundle with Lithuanian translations of Bluetooth device type labels, such as modem, keyboard, and phone, each including a device address placeholder.

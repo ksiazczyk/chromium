@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeGattSessionWinrt header
+// summary: Declares fake Windows Runtime GATT session and session statics classes used to simulate GATT connections in Windows Bluetooth tests.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_TEST_FAKE_GATT_SESSION_WINRT_H_
 #define DEVICE_BLUETOOTH_TEST_FAKE_GATT_SESSION_WINRT_H_
 

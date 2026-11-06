@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeBluetoothLeScannerTestUtil
+// summary: Java test utility exposing ChromeBluetoothLeScanner to C++ tests over JNI for starting, resuming, stopping and checking BLE scans.
+// ---
+
 package org.chromium.device.bluetooth;
 
 import org.jni_zero.CalledByNative;

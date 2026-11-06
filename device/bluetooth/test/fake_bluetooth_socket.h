@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake Bluetooth socket class declaration
+// summary: Declares FakeBluetoothSocket, a BluetoothSocket fake that captures callback arguments for Receive, Send, and Accept in tests.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_TEST_FAKE_BLUETOOTH_SOCKET_H_
 #define DEVICE_BLUETOOTH_TEST_FAKE_BLUETOOTH_SOCKET_H_
 

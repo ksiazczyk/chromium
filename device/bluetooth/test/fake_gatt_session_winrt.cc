@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeGattSessionWinrt implementation
+// summary: Implements a fake Windows Runtime GATT session that simulates connection, disconnection and error status changes for Windows Bluetooth tests.
+// ---
+
 #include "device/bluetooth/test/fake_gatt_session_winrt.h"
 
 #include <wrl/client.h>

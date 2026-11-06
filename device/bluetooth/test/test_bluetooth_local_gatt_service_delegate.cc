@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test local GATT service delegate implementation
+// summary: Implements a test delegate that answers GATT characteristic and descriptor read, write and prepare-write requests, optionally failing them, for GATT server tests.
+// ---
+
 #include "device/bluetooth/test/test_bluetooth_local_gatt_service_delegate.h"
 
 #include "base/functional/callback.h"

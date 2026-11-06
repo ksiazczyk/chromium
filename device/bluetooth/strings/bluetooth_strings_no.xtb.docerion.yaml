@@ -1,0 +1,4 @@
+# Docerion header of bluetooth_strings_no.xtb.
+type: data
+title: Bluetooth strings in Norwegian
+summary: Norwegian XML translation bundle with Bluetooth device type strings such as modem, keyboard, gamepad, and phone, each containing a device address placeholder.

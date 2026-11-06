@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake WinRT DeviceInformation Declarations
+// summary: Declares FakeDeviceInformationWinrt and FakeDeviceInformationStaticsWinrt, fakes of the WinRT device enumeration interfaces used in Bluetooth tests.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_TEST_FAKE_DEVICE_INFORMATION_WINRT_H_
 #define DEVICE_BLUETOOTH_TEST_FAKE_DEVICE_INFORMATION_WINRT_H_
 

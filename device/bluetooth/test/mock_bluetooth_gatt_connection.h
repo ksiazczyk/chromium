@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock BluetoothGattConnection test double
+// summary: Declares a Google Mock subclass of BluetoothGattConnection that fakes a connection to a device address for Bluetooth tests.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_TEST_MOCK_BLUETOOTH_GATT_CONNECTION_H_
 #define DEVICE_BLUETOOTH_TEST_MOCK_BLUETOOTH_GATT_CONNECTION_H_
 

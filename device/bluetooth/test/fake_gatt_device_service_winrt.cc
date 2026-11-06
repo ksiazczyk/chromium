@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake WinRT GATT device service implementation
+// summary: Implements a fake WinRT GATT device service that creates fake characteristics and simulates service opening and characteristic enumeration for Bluetooth tests.
+// ---
+
 #include "device/bluetooth/test/fake_gatt_device_service_winrt.h"
 
 #include <wrl/client.h>

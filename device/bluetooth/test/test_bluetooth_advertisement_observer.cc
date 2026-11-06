@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test Bluetooth advertisement observer implementation
+// summary: Implements a BluetoothAdvertisement observer that records when an advertisement is released for test verification.
+// ---
+
 #include "device/bluetooth/test/test_bluetooth_advertisement_observer.h"
 
 namespace device {

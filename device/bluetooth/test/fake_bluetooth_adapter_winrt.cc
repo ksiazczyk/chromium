@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake WinRT Bluetooth adapter implementation
+// summary: Implements fake WinRT Bluetooth adapter and adapter statics classes that return a configured address and default adapter for Windows tests.
+// ---
+
 #include "device/bluetooth/test/fake_bluetooth_adapter_winrt.h"
 
 #include <utility>

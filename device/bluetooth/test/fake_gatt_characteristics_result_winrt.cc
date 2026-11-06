@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake WinRT GATT characteristics result implementation
+// summary: Implements a fake GattCharacteristicsResult that returns a fixed set of fake characteristics and reports success, including UWP collection specializations required for the interface.
+// ---
+
 #include "device/bluetooth/test/fake_gatt_characteristics_result_winrt.h"
 
 #include "base/win/vector.h"

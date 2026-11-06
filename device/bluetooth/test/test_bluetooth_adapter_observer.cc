@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test Bluetooth adapter observer implementation
+// summary: Implements a BluetoothAdapter observer that counts adapter, device and GATT events and records the last reported values for test assertions.
+// ---
+
 #include "device/bluetooth/test/test_bluetooth_adapter_observer.h"
 
 #include <string>

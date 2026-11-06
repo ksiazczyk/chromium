@@ -1,0 +1,4 @@
+# Docerion header of bluetooth_strings_sw.xtb.
+type: data
+title: Swahili Bluetooth strings translation bundle
+summary: XML translation bundle with Swahili labels for Bluetooth device types such as modem, keyboard, mouse, car audio, and phone, keyed by numeric message IDs with an ADDRESS placeholder.

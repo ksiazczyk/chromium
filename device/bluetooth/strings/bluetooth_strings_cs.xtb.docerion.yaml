@@ -1,0 +1,4 @@
+# Docerion header of bluetooth_strings_cs.xtb.
+type: data
+title: Czech Bluetooth device strings
+summary: Translation bundle providing Czech labels for Bluetooth device types such as modem, keyboard, mouse, tablet, and phone, each with a device address placeholder.

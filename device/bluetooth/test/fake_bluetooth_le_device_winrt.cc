@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake WinRT Bluetooth LE device implementation
+// summary: Implements FakeBluetoothLEDeviceWinrt, a fake IBluetoothLEDevice that registers with BluetoothTestWinrt and serves fake GATT services for Windows Bluetooth tests.
+// ---
+
 #include "device/bluetooth/test/fake_bluetooth_le_device_winrt.h"
 
 #include <wrl/client.h>

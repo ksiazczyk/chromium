@@ -1,0 +1,4 @@
+# Docerion header of mock_bluetooth_cbcharacteristic_mac.mm.
+type: test
+title: Mock CBCharacteristic implementation for macOS Bluetooth tests
+summary: Implements MockCBCharacteristic, a CoreBluetooth CBCharacteristic stand-in that maps GATT characteristic properties to CB properties for macOS Bluetooth tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock Bluetooth advertisement for tests
+// summary: Declares a mock BluetoothAdvertisement whose Unregister call succeeds, for use in Bluetooth tests.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_TEST_MOCK_BLUETOOTH_ADVERTISEMENT_H_
 #define DEVICE_BLUETOOTH_TEST_MOCK_BLUETOOTH_ADVERTISEMENT_H_
 

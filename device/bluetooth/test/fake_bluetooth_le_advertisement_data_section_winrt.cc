@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake WinRT LE advertisement data section implementation
+// summary: Implements a fake WinRT LE advertisement data section that serves test-supplied data as an IBuffer.
+// ---
+
 #include "device/bluetooth/test/fake_bluetooth_le_advertisement_data_section_winrt.h"
 
 #include <wrl/client.h>
