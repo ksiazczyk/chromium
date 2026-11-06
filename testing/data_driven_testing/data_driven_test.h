@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataDrivenTest class header
+// summary: Declares the DataDrivenTest base class for data-driven tests that compare generated output against gold output files.
+// ---
+
 #ifndef TESTING_DATA_DRIVEN_TESTING_DATA_DRIVEN_TEST_H_
 #define TESTING_DATA_DRIVEN_TESTING_DATA_DRIVEN_TEST_H_
 

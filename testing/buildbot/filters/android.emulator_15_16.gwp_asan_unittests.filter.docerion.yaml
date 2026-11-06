@@ -1,0 +1,4 @@
+# Docerion header of android.emulator_15_16.gwp_asan_unittests.filter.
+type: test
+title: Test filter for gwp_asan_unittests on Android 15/16 emulators
+summary: Excludes CrashAnalyzer and LightweightDetectorAnalyzer GWP-Asan unit tests on Android 15/16 emulators, referencing crbug.com/328565730.

@@ -1,0 +1,4 @@
+# Docerion header of trees_in_viz.cc_unittests.filter.
+type: config
+title: TreesInViz cc_unittests filter
+summary: Excludes LayerTreeHostTestUIResource.RunMultiThread_DelegatingRenderer from cc_unittests in TreesInViz mode due to a UI resource deletion race condition.

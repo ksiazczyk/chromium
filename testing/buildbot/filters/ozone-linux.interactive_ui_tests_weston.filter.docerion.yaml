@@ -1,0 +1,4 @@
+# Docerion header of ozone-linux.interactive_ui_tests_weston.filter.
+type: config
+title: Ozone Linux Weston interactive UI tests filter
+summary: Excludes failing and flaky interactive UI tests on the Ozone Linux Wayland Weston bot, with per-test reasons.

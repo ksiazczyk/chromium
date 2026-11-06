@@ -1,0 +1,4 @@
+# Docerion header of linux-arm64-wayland-rel-fyi.interactive_ui_tests.filter.
+type: config
+title: Linux arm64 Wayland FYI interactive UI tests filter
+summary: Excludes flaky interactive UI tests such as notification, fullscreen, and omnibox tests on linux-arm64-wayland-rel-fyi.

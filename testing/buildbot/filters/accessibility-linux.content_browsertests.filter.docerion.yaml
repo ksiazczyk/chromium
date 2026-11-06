@@ -1,0 +1,4 @@
+# Docerion header of accessibility-linux.content_browsertests.filter.
+type: data
+title: Linux accessibility content_browsertests filter
+summary: Excludes flaky, redundant, or forced-accessibility-incompatible content browser tests when running content_browsertests on the Linux accessibility bot.

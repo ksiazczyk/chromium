@@ -1,0 +1,4 @@
+# Docerion header of android.device_10.proguard_rel.gin_unittests.filter.
+type: test
+title: Android 10 proguard_rel gin_unittests test filter
+summary: Excludes the V8PlatformAllocatorBTITest page protection check from gin_unittests on Android 10 proguard release builds.

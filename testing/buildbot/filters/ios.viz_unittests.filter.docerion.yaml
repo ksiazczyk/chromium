@@ -1,0 +1,4 @@
+# Docerion header of ios.viz_unittests.filter.
+type: test
+title: iOS viz_unittests test filter
+summary: Excludes viz_unittests pixel and renderer tests on iOS that fail with imperceptible pixel differences or Dawn encoding errors.

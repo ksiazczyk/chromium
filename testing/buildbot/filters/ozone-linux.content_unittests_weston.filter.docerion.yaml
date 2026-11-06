@@ -1,0 +1,4 @@
+# Docerion header of ozone-linux.content_unittests_weston.filter.
+type: config
+title: Ozone Linux Weston content unittests filter
+summary: Excludes WebUI URL loader range request unit tests that fail on the Ozone Linux Weston bot.

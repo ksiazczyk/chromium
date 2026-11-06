@@ -1,6 +1,13 @@
 # Copyright 2021 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: HTML result output module
+# summary: Generates human-readable HTML reports from aggregated flake test results, grouped by test and by configuration.
+# ---
+
 """Module for outputting results in a human-readable format."""
 
 import tempfile

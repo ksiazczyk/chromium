@@ -1,0 +1,4 @@
+# Docerion header of chromoting_test_files.txt.
+type: data
+title: Chromoting test files list
+summary: Lists Google Cloud Storage paths of files required for Remoting integration tests.

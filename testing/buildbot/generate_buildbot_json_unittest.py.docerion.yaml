@@ -1,0 +1,4 @@
+# Docerion header of generate_buildbot_json_unittest.py.
+type: test
+title: Buildbot JSON Generator Unit Tests
+summary: Unit tests for generate_buildbot_json.py that verify generated output using a fake filesystem and checked-in expectations.

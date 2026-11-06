@@ -1,0 +1,4 @@
+# Docerion header of android.webview_instrumentation_test_apk_bfcache_mutations.filter.
+type: config
+title: Android WebView bfcache mutations instrumentation test filter
+summary: Excludes WebView navigation header reuse and SafeBrowsing hardcoded URL tests from the bfcache mutations instrumentation test run.

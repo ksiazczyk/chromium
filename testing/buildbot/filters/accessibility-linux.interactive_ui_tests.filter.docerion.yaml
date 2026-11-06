@@ -1,0 +1,4 @@
+# Docerion header of accessibility-linux.interactive_ui_tests.filter.
+type: data
+title: Linux accessibility interactive_ui_tests filter
+summary: Excludes flaky and accessibility-incompatible interactive UI tests, such as tab strip tests that fail when a screen reader is active.

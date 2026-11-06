@@ -1,0 +1,4 @@
+# Docerion header of android.device_14_tablet.chrome_public_test_apk.filter.
+type: test
+title: Android 14 tablet chrome_public_test_apk test filter
+summary: Excludes numerous Chrome public test APK tests on Android 14 tablets, covering payments, sync, permissions, and tab management.

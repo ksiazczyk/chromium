@@ -1,0 +1,4 @@
+# Docerion header of android.emulator_13.content_shell_test_apk.filter.
+type: test
+title: Android 13 emulator content_shell_test_apk test filter
+summary: Empty test filter for content_shell_test_apk on the Android 13 emulator, currently excluding no tests.

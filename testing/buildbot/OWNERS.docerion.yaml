@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Per-file code owners for buildbot configs
+summary: Defines per-file reviewers for the buildbot configuration JSON files, grouped by platform and project.

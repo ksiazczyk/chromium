@@ -1,0 +1,4 @@
+# Docerion header of android.arm64_proguard_rel.crashpad_tests.filter.
+type: data
+title: Android arm64 proguard crashpad_tests filter
+summary: Excludes the StartHandlerInChild crashpad test case on the Android arm64 proguard release builder, referencing crbug 1514586.

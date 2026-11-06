@@ -1,0 +1,4 @@
+# Docerion header of fuchsia.views_examples_unittests.filter.
+type: config
+title: Fuchsia views_examples_unittests test filter
+summary: Excludes the ExamplesTest launch cases from views_examples_unittests on Fuchsia due to crbug.com/1241901.

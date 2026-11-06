@@ -1,0 +1,4 @@
+# Docerion header of android.samsung_a23.gl_tests.filter.
+type: config
+title: Android Samsung A23 gl_tests test filter
+summary: Excludes EXT blend func extended draw tests and a raster command buffer test from gl_tests on the Android Samsung A23 device builder.

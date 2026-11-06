@@ -1,0 +1,4 @@
+# Docerion header of android.emulator_12_12l_13.gl_tests.filter.
+type: test
+title: Android 12, 12L and 13 emulator gl_tests filter
+summary: Excludes GL tests that fail on Android 12, 12L and 13 emulators, including texture copy, map buffer range and BGRA_8888 readback cases.

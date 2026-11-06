@@ -1,0 +1,4 @@
+# Docerion header of android.device_14_tablet.content_browsertests.filter.
+type: test
+title: Android 14 tablet content_browsertests test filter
+summary: Excludes zoom, double-tap zoom, accessibility scrolling, and fullscreen browser tests on Android 14 tablets.

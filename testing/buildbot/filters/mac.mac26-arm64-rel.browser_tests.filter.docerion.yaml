@@ -1,0 +1,4 @@
+# Docerion header of mac.mac26-arm64-rel.browser_tests.filter.
+type: config
+title: Mac 26 ARM64 browser_tests test filter
+summary: Excludes failing browser tests, including SSO, capture and searchbox tests, on the macOS 26 ARM64 builder.

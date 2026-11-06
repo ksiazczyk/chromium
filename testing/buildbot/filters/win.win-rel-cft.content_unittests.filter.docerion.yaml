@@ -1,0 +1,4 @@
+# Docerion header of win.win-rel-cft.content_unittests.filter.
+type: config
+title: Content unittests filter for win-rel-cft
+summary: Excludes the failing AdAuctionServiceImplBAndATest suite from content_unittests on the Chrome for Testing win-rel trybots.

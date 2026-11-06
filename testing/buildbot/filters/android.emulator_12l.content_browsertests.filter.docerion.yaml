@@ -1,0 +1,4 @@
+# Docerion header of android.emulator_12l.content_browsertests.filter.
+type: test
+title: Android 12L emulator content_browsertests filter
+summary: Excludes WebRTC and WebRTC media recorder browser tests that fail on the Android 12L emulator, each tied to a crbug reference.

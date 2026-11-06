@@ -1,0 +1,4 @@
+# Docerion header of mac.mac11-arm64-rel.interactive_ui_tests.filter.
+type: config
+title: Mac 11 ARM64 interactive_ui_tests filter
+summary: Excludes the LocationIconViewTest.HideOnSecondClick test from interactive_ui_tests on mac11-arm64-rel.

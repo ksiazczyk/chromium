@@ -1,0 +1,4 @@
+# Docerion header of android.emulator_15_tablet.content_browsertests.filter.
+type: test
+title: Test filter for content_browsertests on Android 15 tablet emulator
+summary: Excludes zoom, accessibility, media and site-per-process browser tests on the Android 15 tablet emulator, each with a crbug.com reference.

@@ -1,0 +1,4 @@
+# Docerion header of android.emulator_16.content_browsertests.filter.
+type: test
+title: Test filter for content_browsertests on Android 16 emulator
+summary: Excludes the MediaTest.VideoBearWavPcm3kHz browser test on the Android 16 emulator, referencing crbug.com/382588633.

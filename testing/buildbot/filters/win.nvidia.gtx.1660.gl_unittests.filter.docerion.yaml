@@ -1,0 +1,4 @@
+# Docerion header of win.nvidia.gtx.1660.gl_unittests.filter.
+type: test
+title: win.nvidia.gtx.1660.gl_unittests test filter
+summary: Excludes all DCompPresenter tests from GL unit tests on the NVIDIA GTX 1660 Windows builder, referencing crbug 415086846.

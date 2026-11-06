@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for flake_suppressor_common
+summary: Lists the code owners responsible for reviewing changes to the flake suppressor common directory.

@@ -1,0 +1,4 @@
+# Docerion header of android.mte.base_unittests.filter.
+type: test
+title: Test filter for base_unittests on MTE-enabled Android device
+summary: Excludes PartitionAlloc thread cache, stack unwinding and sampling profiler unit tests on an MTE-enabled Android device, referencing crbug.com/330534320.

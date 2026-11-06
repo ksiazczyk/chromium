@@ -1,0 +1,4 @@
+# Docerion header of android.device.media_unittests.filter.
+type: test
+title: Android device media_unittests test filter
+summary: Excludes NDK video encoder error handling and ImageReaderGLOwner surface control tests from media_unittests on Android devices.

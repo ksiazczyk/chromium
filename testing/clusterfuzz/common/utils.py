@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Random and functional utility helpers
+# summary: Provides skewed random integers, weighted choices, function pipelines, and deep memoization used by the fuzzing helpers.
+# ---
+
 import copy
 import functools
 import math

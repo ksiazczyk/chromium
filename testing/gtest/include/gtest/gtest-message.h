@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: gtest-message.h forwarding header
+// summary: Forwarding header that re-exports Google Test's message API from third_party/googletest so Chromium code can include it via the stable testing/gtest path.
+// ---
+
 #ifndef TESTING_GTEST_INCLUDE_GTEST_GTEST_MESSAGE_H_
 #define TESTING_GTEST_INCLUDE_GTEST_GTEST_MESSAGE_H_
 

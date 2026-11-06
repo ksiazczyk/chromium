@@ -1,0 +1,4 @@
+# Docerion header of chromeos.amd64-generic.gl_tests_passthrough.filter.
+type: config
+title: ChromeOS amd64-generic gl_tests_passthrough filter
+summary: Excludes failing and flaky GL, WebGPU, and shader translator tests from gl_tests_passthrough on the amd64-generic ChromeOS builder.

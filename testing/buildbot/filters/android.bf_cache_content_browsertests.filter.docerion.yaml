@@ -1,0 +1,4 @@
+# Docerion header of android.bf_cache_content_browsertests.filter.
+type: test
+title: Android back/forward cache content browser tests filter
+summary: Excludes text fragment anchor and signed exchange prefetch browser tests from Android back/forward cache content browser test runs, with crbug references.

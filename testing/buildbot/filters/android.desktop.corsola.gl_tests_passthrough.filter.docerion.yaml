@@ -1,0 +1,4 @@
+# Docerion header of android.desktop.corsola.gl_tests_passthrough.filter.
+type: test
+title: Android desktop Corsola gl_tests passthrough filter
+summary: Excludes GPU fence and signal sync token tests from the Corsola gl_tests passthrough run on Android desktop.

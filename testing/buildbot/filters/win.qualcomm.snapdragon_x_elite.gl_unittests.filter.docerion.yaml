@@ -1,0 +1,4 @@
+# Docerion header of win.qualcomm.snapdragon_x_elite.gl_unittests.filter.
+type: test
+title: win.qualcomm.snapdragon_x_elite.gl_unittests test filter
+summary: Excludes CompPresenter software video swapchain and YUY2 swap chain pixel tests from GL unit tests on the Qualcomm Snapdragon X Elite Windows builder, referencing crbug 41496015.

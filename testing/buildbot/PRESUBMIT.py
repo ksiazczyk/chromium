@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Presubmit checks for buildbot config changes
+# summary: Presubmit script that enforces infra freezes, runs source-side spec generation, unit tests, JSON checks and pyl sync checks.
+# ---
+
 """Enforces json format.
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

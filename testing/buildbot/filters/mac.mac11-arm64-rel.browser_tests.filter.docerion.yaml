@@ -1,0 +1,4 @@
+# Docerion header of mac.mac11-arm64-rel.browser_tests.filter.
+type: config
+title: Mac 11 ARM64 browser_tests test filter
+summary: Excludes failing and flaky browser tests on the mac11-arm64-rel builder.

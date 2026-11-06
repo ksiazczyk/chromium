@@ -1,0 +1,4 @@
+# Docerion header of queries_unittest.py.
+type: test
+title: Unit tests for BigQuery query helpers
+summary: Unit tests for the BigQuery querier's result count retrieval and for BigQuery command generation with parameters and batch mode.

@@ -1,0 +1,4 @@
+# Docerion header of chromeos.services_unittests.filter.
+type: test
+title: ChromeOS services_unittests filter
+summary: Excludes disabled geolocation and screen manager tests from ChromeOS services_unittests runs, with TODO bug references.

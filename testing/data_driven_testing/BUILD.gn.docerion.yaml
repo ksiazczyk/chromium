@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for data_driven_testing
+summary: Defines the testonly static_library target for the data_driven_testing sources, with dependencies on base, gtest, and re2.

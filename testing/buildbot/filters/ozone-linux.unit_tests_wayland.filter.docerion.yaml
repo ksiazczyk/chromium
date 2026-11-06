@@ -1,0 +1,4 @@
+# Docerion header of ozone-linux.unit_tests_wayland.filter.
+type: config
+title: Ozone Linux Wayland unit tests filter
+summary: Excludes unit tests that depend on Wayland window activation and other currently unsupported features.

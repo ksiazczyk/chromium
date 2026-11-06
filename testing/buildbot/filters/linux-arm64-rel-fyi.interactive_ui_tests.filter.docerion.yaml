@@ -1,0 +1,4 @@
+# Docerion header of linux-arm64-rel-fyi.interactive_ui_tests.filter.
+type: test
+title: linux-arm64-rel-fyi interactive_ui_tests test filter
+summary: Excludes flaky interactive UI tests on the linux-arm64-rel-fyi bot, mainly tab drag and accessibility cases.

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Chromoting test directory metadata
+summary: Declares the issue tracker components used for bugs in the chromoting testing directory.

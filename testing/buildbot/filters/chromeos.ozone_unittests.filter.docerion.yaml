@@ -1,0 +1,4 @@
+# Docerion header of chromeos.ozone_unittests.filter.
+type: config
+title: ChromeOS ozone_unittests filter
+summary: Excludes DrmWindow and HardwareDisplayController tests from ozone_unittests on ChromeOS due to crbug.com/968349.

@@ -1,0 +1,4 @@
+# Docerion header of android.emulator_11_12.cc_unittests.filter.
+type: test
+title: Android 11 and 12 emulator cc_unittests filter
+summary: Excludes GPU raster and transfer cache unit tests from cc_unittests on Android 11 and 12 emulators lacking VK_KHR_external_memory_fd.

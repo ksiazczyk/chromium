@@ -1,0 +1,4 @@
+# Docerion header of fuchsia.debug.media_unittests.filter.
+type: test
+title: Fuchsia debug media unittests test filter
+summary: Excludes PaintCanvasVideoRendererWithGLTest cases from media_unittests on Fuchsia debug builds, referencing crbug.com/1241502.

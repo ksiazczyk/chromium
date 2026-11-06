@@ -1,0 +1,4 @@
+# Docerion header of accessibility-linux.browser_tests.filter.
+type: data
+title: Linux accessibility browser_tests filter
+summary: Lists browser tests excluded on the Linux accessibility bot, mostly flaky tests annotated with crbug references plus tests unsuitable for that bot.

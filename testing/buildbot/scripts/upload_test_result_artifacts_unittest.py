@@ -1,6 +1,13 @@
 # Copyright 2017 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: test
+# title: Upload test result artifacts unit tests
+# summary: Unit tests for the artifact upload script, covering test trie parsing, artifact validation, and upload behavior, plus optional network load tests.
+# ---
+
 """Tests for upload_test_result_artifacts."""
 
 import os

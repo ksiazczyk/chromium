@@ -1,0 +1,4 @@
+# Docerion header of chromeos.media_unittests.filter.
+type: config
+title: ChromeOS media_unittests filter
+summary: Excludes audio manager tests that fail from g_cras_audio_handler initialization errors and a flaky Cras input stream test.

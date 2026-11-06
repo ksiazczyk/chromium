@@ -1,0 +1,4 @@
+# Docerion header of ozone-linux.browser_tests_weston.filter.
+type: config
+title: Ozone Linux Weston browser tests filter
+summary: Excludes browser tests that fail or cannot work on the Ozone Linux Wayland Weston test bot, with reasons noted per test.

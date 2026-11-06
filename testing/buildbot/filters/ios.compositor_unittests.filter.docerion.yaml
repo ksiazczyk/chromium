@@ -1,0 +1,4 @@
+# Docerion header of ios.compositor_unittests.filter.
+type: test
+title: iOS compositor_unittests test filter
+summary: Excludes compositor unittests on iOS, including animation throughput reporter and layer tests, with TODO comments citing tracking bugs.

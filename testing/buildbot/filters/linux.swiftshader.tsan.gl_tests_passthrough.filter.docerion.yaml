@@ -1,0 +1,4 @@
+# Docerion header of linux.swiftshader.tsan.gl_tests_passthrough.filter.
+type: config
+title: SwiftShader TSan GL tests passthrough filter
+summary: Excludes failing GL, shared image, and WebGPU tests on the SwiftShader ThreadSanitizer builder.

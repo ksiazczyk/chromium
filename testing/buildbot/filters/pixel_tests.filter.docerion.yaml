@@ -1,0 +1,4 @@
+# Docerion header of pixel_tests.filter.
+type: config
+title: Pixel tests filter
+summary: Inclusion filter listing browser and interactive UI tests that support pixel tests for pixel test bot runs.

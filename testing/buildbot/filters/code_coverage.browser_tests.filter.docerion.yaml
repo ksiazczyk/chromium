@@ -1,0 +1,4 @@
+# Docerion header of code_coverage.browser_tests.filter.
+type: test
+title: Code coverage browser tests filter
+summary: Excludes password manager, credential manager, and other browser tests from browser test runs on the code coverage builder.

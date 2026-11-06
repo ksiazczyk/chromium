@@ -1,0 +1,4 @@
+# Docerion header of ozone-linux.interactive_ui_tests_mutter.filter.
+type: config
+title: Ozone Linux Mutter interactive UI tests filter
+summary: Excludes failing and flaky interactive UI tests on the Ozone Linux Wayland Mutter bot, with per-test reasons.

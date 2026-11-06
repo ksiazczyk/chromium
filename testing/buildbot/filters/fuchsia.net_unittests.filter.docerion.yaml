@@ -1,0 +1,4 @@
+# Docerion header of fuchsia.net_unittests.filter.
+type: test
+title: Fuchsia net unittests test filter
+summary: Excludes network tests from net_unittests on Fuchsia due to FD limits, unreadable-file helpers, slow emulated ARM stress tests, and flakiness.

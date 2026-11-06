@@ -1,0 +1,4 @@
+# Docerion header of linux_trusty_rel.browser_tests.filter.
+type: config
+title: Linux Trusty browser_tests filter
+summary: Selects the encrypted media browser tests to run on the linux_trusty_rel builder.

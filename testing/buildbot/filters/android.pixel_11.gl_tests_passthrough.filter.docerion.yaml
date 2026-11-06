@@ -1,0 +1,4 @@
+# Docerion header of android.pixel_11.gl_tests_passthrough.filter.
+type: config
+title: Android Pixel 11 gl_tests_passthrough test filter
+summary: Excludes the EXTMultisampleCompatibilityTest.DrawAndResolve case from gl_tests_passthrough on the Android Pixel 11 builder.

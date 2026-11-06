@@ -1,0 +1,4 @@
+# Docerion header of android.emulator_15.content_browsertests.filter.
+type: test
+title: Android 15 emulator content_browsertests test filter
+summary: Excludes media recorder, IndexedDB quota and WAV playback browser tests that fail on the Android 15 emulator.

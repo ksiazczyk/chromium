@@ -1,0 +1,4 @@
+# Docerion header of linux.linux-rel-cft.interactive_ui_tests.filter.
+type: config
+title: Chrome for Testing Linux interactive UI tests filter
+summary: Selects a smoke set of interactive UI tests for Chrome for Testing and excludes failing infobar-related tests.

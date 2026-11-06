@@ -1,0 +1,4 @@
+# Docerion header of android.emulator_11.media_unittests.filter.
+type: test
+title: Android 11 emulator media_unittests filter
+summary: Excludes PaintCanvasVideoRenderer media unit tests that do not run on the Android 11 emulator because it lacks fence sync support.

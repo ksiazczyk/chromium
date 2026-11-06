@@ -1,0 +1,4 @@
+# Docerion header of ios.blink_unittests.filter.
+type: test
+title: iOS blink_unittests test filter
+summary: Excludes blink_unittests tests on iOS, mostly spell check, serialization, and hit testing cases that currently fail on iOS Blink.

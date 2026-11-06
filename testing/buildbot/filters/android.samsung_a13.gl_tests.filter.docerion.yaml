@@ -1,0 +1,4 @@
+# Docerion header of android.samsung_a13.gl_tests.filter.
+type: config
+title: Android Samsung A13 gl_tests test filter
+summary: Excludes the RasterInProcessCommandBufferTest raster CHROMIUM case from gl_tests on the Android Samsung A13 device builder.

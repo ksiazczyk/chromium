@@ -1,0 +1,4 @@
+# Docerion header of android.emulator_12l_landscape.chrome_public_test_apk.filter.
+type: test
+title: Android 12L landscape emulator chrome_public_test_apk test filter
+summary: Excludes failing bookmark, incognito, tab management and webapp tests when running chrome_public_test_apk on the Android 12L landscape emulator.

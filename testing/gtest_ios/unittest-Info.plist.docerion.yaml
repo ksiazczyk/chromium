@@ -1,0 +1,4 @@
+# Docerion header of unittest-Info.plist.
+type: config
+title: unittest-Info.plist
+summary: iOS Info.plist for the gtest unit test app, defining bundle metadata, launch images, supported orientations, URL query schemes, and camera and microphone usage descriptions.

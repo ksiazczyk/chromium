@@ -1,6 +1,13 @@
 # Copyright 2014 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: script
+# title: Chromoting browser tests launcher
+# summary: Launches Chromoting browser tests on the bot, retrying on JID mismatches and browser start failures.
+# ---
+
 """Utility script to launch browser-tests on the Chromoting bot."""
 
 import argparse

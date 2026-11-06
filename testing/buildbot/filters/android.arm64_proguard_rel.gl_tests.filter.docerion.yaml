@@ -1,0 +1,4 @@
+# Docerion header of android.arm64_proguard_rel.gl_tests.filter.
+type: data
+title: Android arm64 proguard gl_tests filter
+summary: Excludes failing EXTBlendFuncExtended translator and WebGPU tests from gl_tests on the Android arm64 proguard release builder.

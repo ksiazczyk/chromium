@@ -1,0 +1,4 @@
+# Docerion header of ozone-linux.wayland_views_unittests.filter.
+type: config
+title: Ozone Linux Wayland views unittests filter
+summary: Excludes views unit tests that cannot work on Wayland, such as window activation and X11-specific behaviour.

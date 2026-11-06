@@ -1,0 +1,4 @@
+# Docerion header of fuchsia.ui_base_unittests.filter.
+type: config
+title: Fuchsia ui_base_unittests test filter
+summary: Excludes OSExchangeData, clipboard and L10n tests from ui_base_unittests on Fuchsia, citing Ozone/Aura failures and a flaky test bug.

@@ -1,0 +1,4 @@
+# Docerion header of generate_buildbot_json.py.
+type: script
+title: Buildbot JSON File Generator
+summary: Generates most of the JSON files in testing/buildbot from .pyl inputs such as waterfalls and test suites.

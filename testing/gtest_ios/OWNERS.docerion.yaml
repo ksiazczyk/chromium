@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for gtest_ios
+summary: Points to the shared iOS OWNERS group in infra/config/groups/ios/OWNERS as the owner set for the gtest_ios directory.

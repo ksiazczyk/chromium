@@ -1,0 +1,4 @@
+# Docerion header of linux-arm64-wayland-rel-fyi.content_browsertests.filter.
+type: config
+title: Linux arm64 Wayland FYI content browser tests filter
+summary: Excludes flaky back-forward cache and accessibility tests on the linux-arm64-wayland-rel-fyi builder.

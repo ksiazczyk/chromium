@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for iossim
+summary: Defines GN build targets for the iossim executable, building it with the host toolchain and copying it into the output directory.

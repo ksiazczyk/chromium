@@ -1,0 +1,4 @@
+# Docerion header of fuchsia.debug.viz_unittests.filter.
+type: test
+title: Fuchsia debug viz unittests test filter
+summary: Excludes readback pixel and SkiaOutputSurfaceImplTest cases from viz_unittests that fail on debug builds.

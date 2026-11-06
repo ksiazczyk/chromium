@@ -1,0 +1,4 @@
+# Docerion header of android.device_14_tablet.unit_tests.filter.
+type: test
+title: Android 14 tablet unit_tests test filter
+summary: Excludes signin manager and browsing data remover unit tests on Android 14 tablets.

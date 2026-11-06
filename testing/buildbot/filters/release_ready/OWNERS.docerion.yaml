@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for release ready filters
+summary: Lists the reviewers (currently infra, later release test content folks) who must approve changes to release ready filter files.

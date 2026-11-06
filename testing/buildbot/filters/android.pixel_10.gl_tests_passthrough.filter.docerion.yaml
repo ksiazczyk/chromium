@@ -1,0 +1,4 @@
+# Docerion header of android.pixel_10.gl_tests_passthrough.filter.
+type: config
+title: Android Pixel 10 gl_tests_passthrough test filter
+summary: Excludes GL clear framebuffer with scissor and sRGB texture tests from gl_tests_passthrough on the Android Pixel 10 builder.

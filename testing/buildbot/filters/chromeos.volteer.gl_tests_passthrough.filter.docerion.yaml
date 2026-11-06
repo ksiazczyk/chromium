@@ -1,0 +1,4 @@
+# Docerion header of chromeos.volteer.gl_tests_passthrough.filter.
+type: test
+title: ChromeOS volteer GL tests passthrough filter
+summary: Excludes failing GL helper, shader translator, and EGL image backing tests from GL tests passthrough runs on ChromeOS volteer.

@@ -1,0 +1,4 @@
+# Docerion header of android.emulator_10.media_unittests.filter.
+type: test
+title: Android 10 emulator media_unittests filter
+summary: Excludes media unit tests unsupported on the Android 10 emulator, including fence sync video renderer tests and AAC audio encoder tests.

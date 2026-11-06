@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataDrivenTest implementation
+// summary: Implements the DataDrivenTest helpers that read input files, generate results, and compare against or write gold output files for data-driven tests.
+// ---
+
 #include "testing/data_driven_testing/data_driven_test.h"
 
 #include "base/files/file_enumerator.h"

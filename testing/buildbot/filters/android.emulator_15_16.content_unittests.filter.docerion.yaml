@@ -1,0 +1,4 @@
+# Docerion header of android.emulator_15_16.content_unittests.filter.
+type: test
+title: Test filter for content_unittests on Android 15/16 emulators
+summary: Excludes AttributionOsLevelManager and FontUniqueNameLookup unit tests on Android 15/16 emulators, referencing crbug.com issues.

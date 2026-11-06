@@ -1,0 +1,4 @@
+# Docerion header of linux.asan.browser_tests.filter.
+type: config
+title: Linux ASan browser tests filter
+summary: Excludes the EULA dialog browser test that fails on the Linux ASan builder.

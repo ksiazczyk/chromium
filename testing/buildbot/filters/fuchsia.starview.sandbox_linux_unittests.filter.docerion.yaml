@@ -1,0 +1,4 @@
+# Docerion header of fuchsia.starview.sandbox_linux_unittests.filter.
+type: config
+title: Fuchsia starview sandbox_linux_unittests test filter
+summary: Long exclusion list disabling many sandbox_linux_unittests cases, including BaselinePolicy, BaselinePolicyAndroid, ParameterRestrictions and SandboxBPF tests, on Fuchsia starview.

@@ -1,0 +1,4 @@
+# Docerion header of linux.uhd_630.gl_tests_passthrough.filter.
+type: config
+title: Intel UHD 630 GL tests passthrough filter
+summary: Empty filter file for the Intel UHD 630 gl_tests_passthrough builder, excluding no tests.

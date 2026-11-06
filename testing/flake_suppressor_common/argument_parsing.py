@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Command-line argument parsing for the flake suppressor
+# summary: Defines and parses command-line options for the flake suppression script, including sampling periods, suppression thresholds, and output settings.
+# ---
+
 import argparse
 
 

@@ -1,0 +1,4 @@
+# Docerion header of android.emulator_14_15_16.unit_tests.filter.
+type: test
+title: Android 14-16 emulator unit_tests test filter
+summary: Excludes sign-in manager and browsing data remover unit tests that fail on Android 14-16 emulators.

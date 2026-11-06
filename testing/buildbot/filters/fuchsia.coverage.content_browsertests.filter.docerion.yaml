@@ -1,0 +1,4 @@
+# Docerion header of fuchsia.coverage.content_browsertests.filter.
+type: test
+title: Fuchsia coverage content browser tests filter
+summary: Excludes timing-out and failing browser tests from content browser test runs on the Fuchsia code coverage builder.

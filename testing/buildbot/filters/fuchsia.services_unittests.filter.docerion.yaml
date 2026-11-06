@@ -1,0 +1,4 @@
+# Docerion header of fuchsia.services_unittests.filter.
+type: test
+title: Fuchsia services unittests test filter
+summary: Empty filter file for services_unittests on Fuchsia, currently excluding no tests.

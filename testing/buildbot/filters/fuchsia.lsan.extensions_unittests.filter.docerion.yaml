@@ -1,0 +1,4 @@
+# Docerion header of fuchsia.lsan.extensions_unittests.filter.
+type: test
+title: Fuchsia LSan extensions unittests test filter
+summary: Excludes leaky extension API and event tests from extensions_unittests under Fuchsia LSan, since source-based leak suppressions are unsupported there.

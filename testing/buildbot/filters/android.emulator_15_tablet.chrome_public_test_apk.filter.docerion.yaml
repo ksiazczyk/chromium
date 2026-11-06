@@ -1,0 +1,4 @@
+# Docerion header of android.emulator_15_tablet.chrome_public_test_apk.filter.
+type: test
+title: Test filter for chrome_public_test_apk on Android 15 tablet emulator
+summary: Excludes flaky Chrome public test APK tests on the Android 15 tablet emulator, covering context search, downloads, safety hub and more, with crbug.com references.

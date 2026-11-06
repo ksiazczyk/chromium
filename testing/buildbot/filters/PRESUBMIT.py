@@ -1,6 +1,13 @@
 # Copyright 2017 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: script
+# title: Presubmit checks for filter file syntax
+# summary: Presubmit script that validates modified .filter files for common syntax errors and warns when a file mixes inclusions and exclusions.
+# ---
+
 """Presubmit script for //testing/buildbot/filters.
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

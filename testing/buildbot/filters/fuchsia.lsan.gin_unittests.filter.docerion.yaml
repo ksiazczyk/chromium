@@ -1,0 +1,4 @@
+# Docerion header of fuchsia.lsan.gin_unittests.filter.
+type: test
+title: Fuchsia LSan gin unittests test filter
+summary: Excludes Arguments, Converter, Interceptor, and Wrappable tests from gin_unittests under Fuchsia LSan because leak suppressions are unsupported.

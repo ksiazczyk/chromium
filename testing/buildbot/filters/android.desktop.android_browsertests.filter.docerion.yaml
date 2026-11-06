@@ -1,0 +1,4 @@
+# Docerion header of android.desktop.android_browsertests.filter.
+type: test
+title: Android desktop android_browsertests filter
+summary: Excludes installable manager, prerender, app banner, extension, and other failing browser tests from Android desktop android_browsertests runs, each annotated with a crbug link.

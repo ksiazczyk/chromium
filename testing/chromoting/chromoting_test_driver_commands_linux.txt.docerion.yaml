@@ -1,0 +1,4 @@
+# Docerion header of chromoting_test_driver_commands_linux.txt.
+type: data
+title: Linux chromoting test driver commands
+summary: Lists chromoting test driver command lines for pin-based authentication and reconnect performance tests.

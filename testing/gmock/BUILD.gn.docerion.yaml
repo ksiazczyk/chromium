@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for gmock
+summary: Defines testonly gmock and gmock_main source_set targets that Chromium code must use instead of reaching into third_party googletest directly.

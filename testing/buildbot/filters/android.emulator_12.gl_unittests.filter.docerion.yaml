@@ -1,0 +1,4 @@
+# Docerion header of android.emulator_12.gl_unittests.filter.
+type: test
+title: Android 12 emulator gl_unittests filter
+summary: Excludes a single GLImageCopyTest.CopyTexImage case from gl_unittests on the Android 12 emulator per crbug 1264644.

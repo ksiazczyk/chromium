@@ -1,0 +1,4 @@
+# Docerion header of win.intel.arc_b570.gl_tests_passthrough.filter.
+type: test
+title: win.intel.arc_b570.gl_tests_passthrough test filter
+summary: Excludes TranslatorVariants EXTBlendFuncExtended ESSL1 and ESSL3 draw tests from passthrough GL tests on the Intel Arc B570 Windows builder, referencing crbug 329482486.
