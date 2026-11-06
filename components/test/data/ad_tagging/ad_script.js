@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ad frame helper script
+// summary: Helper functions to create ad and fenced frames and to trigger navigations, downloads and history changes from ad scripts in tests.
+// ---
+
 'use strict';
 
 function createAdFencedFrame(url, name) {

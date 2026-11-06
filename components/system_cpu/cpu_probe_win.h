@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows CPU probe class declaration
+// summary: Declares CpuProbeWin, the Windows implementation of the CpuProbe interface that delivers CPU samples via a background helper.
+// ---
+
 #ifndef COMPONENTS_SYSTEM_CPU_CPU_PROBE_WIN_H_
 #define COMPONENTS_SYSTEM_CPU_CPU_PROBE_WIN_H_
 

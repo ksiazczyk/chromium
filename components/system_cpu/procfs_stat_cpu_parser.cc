@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: procfs /proc/stat CPU parser implementation
+// summary: Reads and parses per-core CPU time usage lines from /proc/stat on Linux, ignoring invalid or decreasing counter data.
+// ---
+
 #include "components/system_cpu/procfs_stat_cpu_parser.h"
 
 #include <stdint.h>

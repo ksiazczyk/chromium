@@ -1,0 +1,4 @@
+# Docerion header of toctou_frame_swap.html.
+type: test
+title: TOCTOU frame-swap attacker test page
+summary: Test page simulating an attacker that swaps a cross-origin victim iframe under the model-chosen click coordinate between observation and action.

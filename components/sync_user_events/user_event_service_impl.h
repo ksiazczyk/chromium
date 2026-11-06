@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User event service implementation header
+// summary: Declares UserEventServiceImpl, which forwards validated user events to the sync bridge and holds a random per-session ID.
+// ---
+
 #ifndef COMPONENTS_SYNC_USER_EVENTS_USER_EVENT_SERVICE_IMPL_H_
 #define COMPONENTS_SYNC_USER_EVENTS_USER_EVENT_SERVICE_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeUserEventService implementation
+// summary: Implements a test fake user event service that records user events so tests can verify them.
+// ---
+
 #include "components/sync_user_events/fake_user_event_service.h"
 
 using sync_pb::UserEventSpecifics;

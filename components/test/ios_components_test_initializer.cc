@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: iOS components test initializer implementation
+// summary: Creates a test network connection tracker instance needed by iOS component tests.
+// ---
+
 #include "components/test/ios_components_test_initializer.h"
 
 #include "services/network/test/test_network_connection_tracker.h"

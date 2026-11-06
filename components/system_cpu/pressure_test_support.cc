@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CPU pressure test double implementations
+// summary: Implements FakeCpuProbe and StreamingCpuProbe test doubles that deliver configurable or streamed CPU samples for tests.
+// ---
+
 #include "components/system_cpu/pressure_test_support.h"
 
 #include <utility>

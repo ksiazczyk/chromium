@@ -1,0 +1,4 @@
+# Docerion header of script_tool_cancel_reentrant.html.
+type: test
+title: Reentrant script tool cancellation test page
+summary: Registers nested tools where the outer tool invokes the inner one to test reentrant cancellation.

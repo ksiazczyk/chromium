@@ -1,0 +1,4 @@
+# Docerion header of scroll_to_tool_detached_frame_inner.html.
+type: test
+title: Scroll-to detached frame test page
+summary: Inner frame page with hidden until-found content whose beforematch handler removes the mid iframe, synchronously detaching the frame.

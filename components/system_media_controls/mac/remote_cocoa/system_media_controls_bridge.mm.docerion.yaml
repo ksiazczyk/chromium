@@ -1,0 +1,4 @@
+# Docerion header of system_media_controls_bridge.mm.
+type: source
+title: SystemMediaControlsBridge implementation
+summary: Implements the macOS media controls bridge, forwarding Mojo calls to the now playing info center and remote command center delegates.

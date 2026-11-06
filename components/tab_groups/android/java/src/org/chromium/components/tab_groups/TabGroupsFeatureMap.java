@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabGroupsFeatureMap Java feature flag accessor
+// summary: Singleton Java FeatureMap that exposes tab groups feature flags defined in native code, including the UpdateTabGroupColors flag with a safe default.
+// ---
+
 package org.chromium.components.tab_groups;
 
 import org.jni_zero.JNINamespace;

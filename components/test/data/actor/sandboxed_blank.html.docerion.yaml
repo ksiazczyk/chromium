@@ -1,0 +1,4 @@
+# Docerion header of sandboxed_blank.html.
+type: test
+title: Sandboxed blank test page
+summary: Blank HTML page titled Blank Page intended to be served with sandbox headers for actor tests.

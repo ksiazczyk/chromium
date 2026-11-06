@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockTabInterface implementation
+// summary: Implements a gmock MockTabInterface that routes GetUnownedUserDataHost calls to a default host so tests need not stub the method manually.
+// ---
+
 #include "components/tabs/public/mock_tab_interface.h"
 
 namespace tabs {

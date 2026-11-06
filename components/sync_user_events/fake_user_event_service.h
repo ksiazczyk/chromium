@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeUserEventService class declaration
+// summary: Declares a fake UserEventService for unit tests that stores recorded user events for inspection.
+// ---
+
 #ifndef COMPONENTS_SYNC_USER_EVENTS_FAKE_USER_EVENT_SERVICE_H_
 #define COMPONENTS_SYNC_USER_EVENTS_FAKE_USER_EVENT_SERVICE_H_
 

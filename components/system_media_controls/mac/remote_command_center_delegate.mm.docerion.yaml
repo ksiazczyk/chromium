@@ -1,0 +1,4 @@
+# Docerion header of remote_command_center_delegate.mm.
+type: source
+title: RemoteCommandCenterDelegate implementation
+summary: Implements handling of macOS media commands such as play, pause, stop and seek, forwarding them to observers through a Mojo remote that can be rebound for app shims.

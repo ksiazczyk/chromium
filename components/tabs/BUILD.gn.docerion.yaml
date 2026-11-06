@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Tabs component build targets
+summary: Defines GN source sets for the tabs component, covering public headers, implementations, test support mocks, and unit tests with their dependencies.

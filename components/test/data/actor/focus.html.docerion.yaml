@@ -1,0 +1,4 @@
+# Docerion header of focus.html.
+type: test
+title: Focus event handler test page
+summary: Test page with a text input that sets a flag when the focus event fires.

@@ -2,6 +2,13 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file.
  */
+
+/*docerion
+type: test
+title: Test stylesheet with vanilla font and image resources
+summary: Test stylesheet that loads a vanilla woff2 font and a pixel image to exercise resource loading in ad tagging tests.
+*/
+
 @font-face {
   font-family: 'Vanilla';
   src: url('font.woff2') format('woff2');

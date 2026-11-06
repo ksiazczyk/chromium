@@ -1,0 +1,4 @@
+# Docerion header of sandboxed_blank.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for sandboxed blank page
+summary: Mock HTTP response headers that serve sandboxed_blank.html with a sandbox Content-Security-Policy.

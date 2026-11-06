@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProcfsStatCpuParser class declaration
+// summary: Declares a parser that reads CPU time usage stats from procfs /proc/stat into per-core CoreTimes, with an injectable path for testing.
+// ---
+
 #ifndef COMPONENTS_SYSTEM_CPU_PROCFS_STAT_CPU_PARSER_H_
 #define COMPONENTS_SYSTEM_CPU_PROCFS_STAT_CPU_PARSER_H_
 

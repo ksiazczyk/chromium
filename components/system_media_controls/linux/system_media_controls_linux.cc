@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemMediaControlsLinux implementation
+// summary: Implements the MPRIS D-Bus service that exports player methods and properties so MPRIS clients can control playback and view media metadata.
+// ---
+
 #include "components/system_media_controls/linux/system_media_controls_linux.h"
 
 #include <memory>

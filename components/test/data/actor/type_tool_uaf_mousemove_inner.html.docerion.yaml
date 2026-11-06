@@ -1,0 +1,4 @@
+# Docerion header of type_tool_uaf_mousemove_inner.html.
+type: test
+title: Typing UAF mousemove inner frame page
+summary: Inner frame page that removes the cross-origin mid iframe on mousemove, detaching the frame for actor type-tool use-after-free tests.

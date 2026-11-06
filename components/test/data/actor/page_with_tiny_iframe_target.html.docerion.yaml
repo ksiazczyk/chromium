@@ -1,0 +1,4 @@
+# Docerion header of page_with_tiny_iframe_target.html.
+type: test
+title: Tiny Iframe Click Target Test Page
+summary: Deterministic page with a 20x20 iframe button for GlicActorGeneralUiTestHighDPI, exposing button bounds so tests can click stable DIP coordinates.

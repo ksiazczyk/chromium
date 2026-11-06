@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows CpuProbe implementation using PDH counters
+// summary: Implements the Windows CPU probe via PDH performance counters, choosing Hyper-V hypervisor counters when running in a VM.
+// ---
+
 #include "components/system_cpu/cpu_probe_win.h"
 
 #include <optional>

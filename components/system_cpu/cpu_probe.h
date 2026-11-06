@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CpuProbe interface for OS CPU load sampling
+// summary: Declares the CpuProbe interface abstracting per-platform CPU load retrieval with baseline sampling and per-sample callbacks.
+// ---
+
 #ifndef COMPONENTS_SYSTEM_CPU_CPU_PROBE_H_
 #define COMPONENTS_SYSTEM_CPU_CPU_PROBE_H_
 

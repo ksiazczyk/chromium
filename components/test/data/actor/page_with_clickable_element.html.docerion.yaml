@@ -1,0 +1,4 @@
+# Docerion header of page_with_clickable_element.html.
+type: test
+title: Page with Clickable Element
+summary: Test page with clickable, disabled and offscreen buttons that record mouse, pointer and click events to verify actor click behavior.

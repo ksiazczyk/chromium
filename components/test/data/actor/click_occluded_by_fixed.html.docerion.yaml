@@ -1,0 +1,4 @@
+# Docerion header of click_occluded_by_fixed.html.
+type: test
+title: Occluded Click Test Page
+summary: Test page placing a target behind fixed, embedded, top-layer, and positioned panels to exercise click hit-testing.

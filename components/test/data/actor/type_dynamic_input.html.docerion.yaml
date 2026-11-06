@@ -1,0 +1,4 @@
+# Docerion header of type_dynamic_input.html.
+type: test
+title: Dynamic input creation test page
+summary: Test page where clicking a readonly input clones it into an editable input covering the original, for testing typing into dynamically created elements.

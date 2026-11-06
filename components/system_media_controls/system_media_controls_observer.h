@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemMediaControlsObserver interface header
+// summary: Declares the SystemMediaControlsObserver interface with callbacks for service readiness and media control events such as play, pause, next, previous, stop, and seek.
+// ---
+
 #ifndef COMPONENTS_SYSTEM_MEDIA_CONTROLS_SYSTEM_MEDIA_CONTROLS_OBSERVER_H_
 #define COMPONENTS_SYSTEM_MEDIA_CONTROLS_SYSTEM_MEDIA_CONTROLS_OBSERVER_H_
 

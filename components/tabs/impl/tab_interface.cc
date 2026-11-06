@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of TabInterface deletion and WebContents lookup
+// summary: Implements tab self-deletion via TabDeleter and lookup helpers that retrieve a TabInterface from content::WebContents, with nullable MaybeGet variants.
+// ---
+
 #include "components/tabs/public/tab_interface.h"
 
 #include "components/tabs/public/tab_collection_types.h"

@@ -1,0 +1,4 @@
+# Docerion header of click_tool_uaf_inner.html.
+type: test
+title: Click UAF Inner Frame Page
+summary: Inner test frame that removes its cross-origin mid iframe on mousedown, detaching itself to trigger use-after-free conditions.

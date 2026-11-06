@@ -1,0 +1,4 @@
+# Docerion header of external_protocol.html.
+type: test
+title: External protocol iframe launch test page
+summary: Test page that launches a mailto external protocol by loading it in an iframe.

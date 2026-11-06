@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: iOS components test initializer header
+// summary: Declares IosComponentsTestInitializer, which holds common initialization logic for iOS component tests.
+// ---
+
 #ifndef COMPONENTS_TEST_IOS_COMPONENTS_TEST_INITIALIZER_H_
 #define COMPONENTS_TEST_IOS_COMPONENTS_TEST_INITIALIZER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of declarative_script_tool_pause.html.
+type: test
+title: Declarative Script Tool Pause and Resume Test
+summary: Test page whose declarative tool form omits toolautosubmit so submission pauses instead of auto-submitting.

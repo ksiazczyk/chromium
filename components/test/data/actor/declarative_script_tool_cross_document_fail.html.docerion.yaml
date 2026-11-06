@@ -1,0 +1,4 @@
+# Docerion header of declarative_script_tool_cross_document_fail.html.
+type: test
+title: Declarative script tool cross-document failure page
+summary: Minimal page that calls window.stop() to serve as a failure case for cross-document declarative tool tests.

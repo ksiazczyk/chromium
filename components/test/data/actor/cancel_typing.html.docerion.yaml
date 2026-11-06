@@ -1,0 +1,4 @@
+# Docerion header of cancel_typing.html.
+type: test
+title: Typing Event Logging Test Page
+summary: Test page that logs key and input events on a text field so tests can verify typing cancellation.

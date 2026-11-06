@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the CpuProbe base class
+// summary: Tests baseline sampling, repeated sample requests and destruction during sampling using fake probe implementations.
+// ---
+
 #include "components/system_cpu/cpu_probe.h"
 
 #include <memory>

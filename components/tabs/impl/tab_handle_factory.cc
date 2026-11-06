@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the session-mapped tab handle factory
+// summary: Implements a singleton factory that maintains bidirectional mappings between tab handle values and session IDs, plus the SupportsTabHandles helpers that use it.
+// ---
+
 #include "components/tabs/public/tab_handle_factory.h"
 
 #include "base/no_destructor.h"

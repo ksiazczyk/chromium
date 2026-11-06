@@ -1,0 +1,4 @@
+# Docerion header of download.html.
+type: test
+title: Download link test page
+summary: Test page offering a download link to a GIF that records when the link is clicked.

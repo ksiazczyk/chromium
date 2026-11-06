@@ -1,0 +1,4 @@
+# Docerion header of now_playing_info_center_delegate_cocoa.mm.
+type: source
+title: NowPlayingInfoCenterDelegateCocoa implementation
+summary: Implements the Cocoa object that stores and publishes now playing metadata such as title, artist, album, artwork and playback position to MPNowPlayingInfoCenter.

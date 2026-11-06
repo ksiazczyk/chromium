@@ -1,0 +1,4 @@
+# Docerion header of frame_factory.html.
+type: test
+title: Frame factory test page
+summary: Page that loads the frame creation and ad scripts so frames can be built inside document.write documents.

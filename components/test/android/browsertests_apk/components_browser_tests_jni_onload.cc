@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: JNI onload initialization for components browser tests APK
+// summary: Implements JNI_OnLoad for the components browser tests APK, overriding the Android UI message pump factory and installing the content browser test shell main delegate for native test startup.
+// ---
+
 #include <memory>
 
 #include "base/android/jni_android.h"

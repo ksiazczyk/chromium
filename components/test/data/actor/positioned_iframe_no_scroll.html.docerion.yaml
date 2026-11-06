@@ -1,0 +1,4 @@
+# Docerion header of positioned_iframe_no_scroll.html.
+type: test
+title: Positioned Iframe Test Case Without Scrolling
+summary: Non-scrollable test page with an iframe positioned in the bottom right corner for iframe interaction tests.

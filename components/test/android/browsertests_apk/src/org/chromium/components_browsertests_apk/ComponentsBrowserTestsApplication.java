@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ComponentsBrowserTestsApplication
+// summary: Application class for the components browser tests APK that sets the private data directory suffix and disables locale paks in the browser process.
+// ---
+
 package org.chromium.components_browsertests_apk;
 
 import android.content.Context;

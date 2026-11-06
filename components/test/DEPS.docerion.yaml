@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Components test include rules
+summary: DEPS file listing the includes allowed for the components test setup, with specific rules for the test suite and iOS initializer.

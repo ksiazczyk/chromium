@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android CPU frequency monitor implementation
+// summary: Implements the Android CPU frequency monitor that reads per-cluster scaling frequencies from sysfs files.
+// ---
+
 #include "components/system_cpu/cpu_freq_android.h"
 
 #include <fcntl.h>

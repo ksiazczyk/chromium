@@ -1,0 +1,4 @@
+# Docerion header of input.html.
+type: test
+title: Test page with text inputs and key event logging
+summary: Test page with several text inputs that log input, key and click events, including a key-preventing input and an offscreen disabled input, for actor browser tests.

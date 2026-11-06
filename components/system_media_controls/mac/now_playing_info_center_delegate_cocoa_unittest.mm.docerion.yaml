@@ -1,0 +1,4 @@
+# Docerion header of now_playing_info_center_delegate_cocoa_unittest.mm.
+type: test
+title: NowPlayingInfoCenterDelegateCocoa unit tests
+summary: Unit tests verifying that clearPosition preserves published metadata while clearMetadata resets the now playing info published to MPNowPlayingInfoCenter.

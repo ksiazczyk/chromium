@@ -1,0 +1,4 @@
+# Docerion header of script_tool_slow.html.
+type: test
+title: Slow echo script tool test page
+summary: Test page registering a modelContext echo tool whose execute resolves after a one-second delay, for testing slow tool responses.

@@ -1,0 +1,4 @@
+# Docerion header of type_tool_uaf_inner.html.
+type: test
+title: Typing UAF inner frame page
+summary: Inner frame page that removes the cross-origin mid iframe from the top window on keydown, used in actor type-tool use-after-free tests.

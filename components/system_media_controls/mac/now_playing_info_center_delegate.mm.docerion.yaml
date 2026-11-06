@@ -1,0 +1,4 @@
+# Docerion header of now_playing_info_center_delegate.mm.
+type: source
+title: NowPlayingInfoCenterDelegate implementation
+summary: Implements the delegate that converts playback status and metadata into MPNowPlayingInfoCenter updates, using a debounce timer for status and position changes.

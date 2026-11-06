@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabGroupVisualData implementation
+// summary: Implements the TabGroupVisualData constructors, validating integer color values against the tab group color label map before assigning a color ID.
+// ---
+
 #include "components/tab_groups/tab_group_visual_data.h"
 
 #include <string>

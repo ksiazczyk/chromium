@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the tab_groups component
+summary: Defines the tab_groups GN component with its sources and dependencies, plus Android Java, JNI, and resource targets.

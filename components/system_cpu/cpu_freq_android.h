@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android CPU frequency monitor declaration
+// summary: Declares CPUFreqMonitor, which samples per-core CPU frequencies on Android through a delegatable sysfs interface.
+// ---
+
 #ifndef COMPONENTS_SYSTEM_CPU_CPU_FREQ_ANDROID_H_
 #define COMPONENTS_SYSTEM_CPU_CPU_FREQ_ANDROID_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of script_tool_hang.html.
+type: test
+title: Hanging echo script tool page
+summary: Registers an echo tool whose execute never resolves, for testing hanging script tool calls.

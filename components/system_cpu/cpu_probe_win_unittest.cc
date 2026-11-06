@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows CPU probe unit tests
+// summary: Verifies that the Windows CPU probe returns CPU utilization samples in the valid 0.0 to 1.0 range and skips on OS errors.
+// ---
+
 #include "components/system_cpu/cpu_probe_win.h"
 
 #include <memory>

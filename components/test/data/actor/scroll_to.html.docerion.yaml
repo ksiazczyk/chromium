@@ -1,0 +1,4 @@
+# Docerion header of scroll_to.html.
+type: test
+title: Scroll-to target layout test page
+summary: Page containing in-viewport, offscreen, fixed, display-none and offscreen-fixed targets for testing scroll-to behavior.

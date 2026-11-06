@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CpuSample struct definition
+// summary: Defines the CpuSample struct representing average CPU core utilization on a scale from 0.0 to 1.0.
+// ---
+
 #ifndef COMPONENTS_SYSTEM_CPU_CPU_SAMPLE_H_
 #define COMPONENTS_SYSTEM_CPU_CPU_SAMPLE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of history_post_page_b.html.mock-http-headers.
+type: test
+title: History post page B mock HTTP headers
+summary: Mock HTTP response headers served for the history post page B test page, returning 200 OK with caching disabled.

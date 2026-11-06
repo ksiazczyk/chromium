@@ -1,0 +1,4 @@
+# Docerion header of script_tool_cancel.html.
+type: test
+title: Script tool cancellation test page
+summary: Registers a hanging tool that tracks abort signals and toolcancel events for cancellation testing.

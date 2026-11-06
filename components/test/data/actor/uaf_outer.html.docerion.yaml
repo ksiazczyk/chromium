@@ -1,0 +1,4 @@
+# Docerion header of uaf_outer.html.
+type: test
+title: uaf_outer.html
+summary: Test fixture HTML page embedding a mid-level iframe with the allow="tools" permission, serving as the outer layer of a nested-frame actor test setup.

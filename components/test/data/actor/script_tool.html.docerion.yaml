@@ -1,0 +1,4 @@
+# Docerion header of script_tool.html.
+type: test
+title: Basic script tool echo page
+summary: Test page registering an echo tool with document.modelContext for actor script tool tests.

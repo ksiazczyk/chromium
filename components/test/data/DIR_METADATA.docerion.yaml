@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA
+summary: Maps the test data directory to Monorail and Buganizer components for issue routing.

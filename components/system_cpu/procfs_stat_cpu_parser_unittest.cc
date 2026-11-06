@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ProcfsStatCpuParser unit tests
+// summary: Tests the /proc/stat parser against fake stat files covering production data, missing files, empty files and multi-core input.
+// ---
+
 #include "components/system_cpu/procfs_stat_cpu_parser.h"
 
 #include <memory>

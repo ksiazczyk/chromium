@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User event data type controller implementation
+// summary: Implements the USER_EVENTS data type controller, clearing metadata on stop and blocking sync when an explicit passphrase is in use.
+// ---
+
 #include "components/sync_user_events/user_event_data_type_controller.h"
 
 #include <utility>

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA
+summary: Monorail and Buganizer component metadata used for filing bugs against this directory.

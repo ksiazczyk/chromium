@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of TabGroup managing group state and visual data
+// summary: Implements the TabGroup class that tracks a tab group's ID, visual data, tab count and change callbacks, and locates its first and last tabs within the collection tree.
+// ---
+
 #include "components/tabs/public/tab_group.h"
 
 #include <memory>

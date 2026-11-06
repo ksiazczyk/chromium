@@ -1,0 +1,4 @@
+# Docerion header of page_with_full_viewport_link.html.
+type: test
+title: Full viewport link test page
+summary: Page containing a link that spans the entire viewport, used in ad tagging tests.

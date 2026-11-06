@@ -1,0 +1,4 @@
+# Docerion header of buildflags.gni.
+type: config
+title: buildflags.gni MPRIS argument declaration
+summary: GN import file declaring the use_mpris build argument that enables the MPRIS D-Bus media playback control implementation on Linux.

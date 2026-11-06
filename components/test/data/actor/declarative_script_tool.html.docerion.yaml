@@ -1,0 +1,4 @@
+# Docerion header of declarative_script_tool.html.
+type: test
+title: Declarative Script Tool test
+summary: Test page declaring a WebMCP tool through a form with toolautosubmit, required inputs and a submit handler.

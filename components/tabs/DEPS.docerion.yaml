@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Tabs include dependency rules
+summary: Specifies allowed include directories for the tabs component, with a special rule letting mock_tab_interface.h use unowned user data.

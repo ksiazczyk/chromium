@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the UnpinnedTabCollection
+// summary: Implements the unpinned tab collection that holds unpinned tabs, groups and splits, including moving a group collection to a destination tab index.
+// ---
+
 #include "components/tabs/public/unpinned_tab_collection.h"
 
 #include <memory>

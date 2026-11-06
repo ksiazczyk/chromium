@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for CoreTimes utilization
+// summary: Tests CoreTimes utilization math for balanced, empty, negative, and fractional time ranges between snapshots.
+// ---
+
 #include "components/system_cpu/core_times.h"
 
 #include <vector>

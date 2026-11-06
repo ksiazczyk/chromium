@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemMediaControlsWin class declaration
+// summary: Declares the Windows implementation of SystemMediaControls that connects to the System Media Transport Controls and exposes observer, playback, metadata and thumbnail methods.
+// ---
+
 #ifndef COMPONENTS_SYSTEM_MEDIA_CONTROLS_WIN_SYSTEM_MEDIA_CONTROLS_WIN_H_
 #define COMPONENTS_SYSTEM_MEDIA_CONTROLS_WIN_SYSTEM_MEDIA_CONTROLS_WIN_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NowPlayingInfoCenterDelegateCocoa interface
+// summary: Declares the Objective-C interface that manages the now playing info dictionary published to MPNowPlayingInfoCenter, including metadata and position fields.
+// ---
+
 #ifndef COMPONENTS_SYSTEM_MEDIA_CONTROLS_MAC_NOW_PLAYING_INFO_CENTER_DELEGATE_COCOA_H_
 #define COMPONENTS_SYSTEM_MEDIA_CONTROLS_MAC_NOW_PLAYING_INFO_CENTER_DELEGATE_COCOA_H_
 

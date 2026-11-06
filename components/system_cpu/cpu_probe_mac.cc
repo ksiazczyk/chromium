@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS CpuProbe implementation
+// summary: Implements the macOS CPU probe using HostProcessorInfoScanner on a blocking task runner to average per-core utilization.
+// ---
+
 #include "components/system_cpu/cpu_probe_mac.h"
 
 #include <stdint.h>

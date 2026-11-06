@@ -1,0 +1,4 @@
+# Docerion header of cross_document_nav.html.
+type: test
+title: Cross Document Navigation
+summary: Test page containing a link that navigates to another document for actor tests.

@@ -1,0 +1,4 @@
+# Docerion header of history_post_page_b.html.
+type: test
+title: History POST target page B
+summary: Target page displayed after the POST form submission in history navigation tests.

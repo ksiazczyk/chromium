@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group info and color-to-string helpers
+// summary: Implements TabGroupInfo holding a tab range and visual data, a color-to-string conversion, and a debug ToString output.
+// ---
+
 #include "components/tab_groups/tab_group_info.h"
 
 #include <ostream>

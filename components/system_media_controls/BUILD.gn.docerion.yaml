@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: System media controls BUILD.gn
+summary: Defines GN build targets for the system media controls component, including platform-specific sources for Windows, Linux (MPRIS), and macOS, plus unit tests and test support.

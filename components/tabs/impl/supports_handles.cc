@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SupportsHandles and HandleFactory implementation
+// summary: Implements the handle support base and HandleFactory that assign, free, and look up objects by 32-bit handle values.
+// ---
+
 #include "components/tabs/public/supports_handles.h"
 
 #include "base/types/pass_key.h"

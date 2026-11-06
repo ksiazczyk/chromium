@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CpuProbe factory and sampling base implementation
+// summary: Implements the CpuProbe factory that selects the platform-specific probe and handles baseline sampling and sample delivery.
+// ---
+
 #include "components/system_cpu/cpu_probe.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of mouse_move_tool_detached_frame_inner.html.
+type: test
+title: Inner frame that detaches on mousemove
+summary: Test page that removes its parent iframe on mousemove, synchronously detaching the frame, to test mouse move handling of detached frames.

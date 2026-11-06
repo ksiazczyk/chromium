@@ -1,0 +1,4 @@
+# Docerion header of sign_in_page.html.
+type: test
+title: Sign-in page test fixture
+summary: Mock sign-in page with a username and password form plus provider buttons simulating delayed FedCM and popup login flows.

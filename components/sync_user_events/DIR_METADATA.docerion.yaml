@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for sync_user_events
+summary: Points to the shared sync component metadata mixins for this directory.

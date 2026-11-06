@@ -1,0 +1,4 @@
+# Docerion header of abort_regression.html.
+type: test
+title: Abort regression test page
+summary: Test page that uses the Navigation API to set up history entries and undo navigations, reproducing a navigation abort regression.

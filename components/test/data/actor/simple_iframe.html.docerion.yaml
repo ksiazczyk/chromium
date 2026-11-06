@@ -1,0 +1,4 @@
+# Docerion header of simple_iframe.html.
+type: test
+title: Simple iframe test page
+summary: Page embedding blank.html in an iframe for iframe-related actor test scenarios.

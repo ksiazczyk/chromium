@@ -1,0 +1,4 @@
+# Docerion header of blank.html.
+type: test
+title: Blank Test Page
+summary: Minimal blank HTML page with a viewport meta tag, used as a simple fixture in actor tests.

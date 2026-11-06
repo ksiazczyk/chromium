@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Components unit test suite implementation
+// summary: Implements ComponentsTestSuite, initializing URL schemes, resource packs, content settings, and Mojo for components unit tests.
+// ---
+
 #include "components/test/components_test_suite.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User event service implementation
+// summary: Implements UserEventServiceImpl, validating event specifics, attaching session IDs, and logging recorded event types to UMA histograms.
+// ---
+
 #include "components/sync_user_events/user_event_service_impl.h"
 
 #include <utility>

@@ -1,3 +1,9 @@
+---
+type: readme
+title: sync_ui_strings_grdp README
+summary: Explains that the directory stores image SHA-1 hashes used as context screenshots to improve translations of sync UI strings, with a link to translation instructions.
+---
+
 This directory of image SHA-1 hashes is used to improve translations of UI
 strings through context images for translators.
 

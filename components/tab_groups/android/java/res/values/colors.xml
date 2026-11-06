@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Tab group color picker color resources
+summary: Android color resources defining regular, incognito, and refreshed light/dark variants for each tab group color used by the color picker UI and card color dot indicator.
+-->
+
 <resources>
     <!-- Colors used by the tab group color picker UI and for the small color dot indicator on the card. -->
     <color name="tab_group_color_picker_blue">@color/tab_group_color_picker_blue_dark</color>

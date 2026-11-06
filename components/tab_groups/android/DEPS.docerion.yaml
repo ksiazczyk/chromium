@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Tab groups Android include rules
+summary: DEPS file defining the include rules that allow the Android tab groups component to depend on browser UI styles and ui/android.

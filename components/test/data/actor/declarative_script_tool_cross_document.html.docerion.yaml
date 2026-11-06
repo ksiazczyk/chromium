@@ -1,0 +1,4 @@
+# Docerion header of declarative_script_tool_cross_document.html.
+type: test
+title: Declarative Script Tool with cross-document navigation test
+summary: Test page with a declarative WebMCP tool form that submits to a result page across documents.

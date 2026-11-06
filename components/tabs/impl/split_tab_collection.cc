@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SplitTabCollection implementation
+// summary: Implements the split tab collection, owning SplitTabData with the split id and visual data and exposing the split tab id.
+// ---
+
 #include "components/tabs/public/split_tab_collection.h"
 
 #include <memory>

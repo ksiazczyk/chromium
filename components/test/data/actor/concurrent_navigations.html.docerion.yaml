@@ -1,0 +1,4 @@
+# Docerion header of concurrent_navigations.html.
+type: test
+title: Concurrent Navigations Test Case
+summary: Test page embedding two blank.html iframes to exercise concurrent navigations.

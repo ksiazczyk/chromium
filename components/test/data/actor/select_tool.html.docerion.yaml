@@ -1,0 +1,4 @@
+# Docerion header of select_tool.html.
+type: test
+title: Select element test page
+summary: Page with plain, grouped, disabled, listbox, event-logging, non-option and offscreen select elements for testing the select tool.

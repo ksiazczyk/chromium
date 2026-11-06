@@ -1,0 +1,4 @@
+# Docerion header of frame_factory.html.mock-http-headers.
+type: test
+title: Frame factory mock HTTP headers
+summary: Mock HTTP response headers serving frame_factory.html with the fenced-frame supported loading mode.

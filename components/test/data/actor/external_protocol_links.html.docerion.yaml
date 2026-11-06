@@ -1,0 +1,4 @@
+# Docerion header of external_protocol_links.html.
+type: test
+title: External protocol links test page
+summary: Test page containing a mailto link for exercising external protocol handling.

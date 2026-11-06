@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the macOS CPU probe
+// summary: Verifies the macOS probe returns valid CPU utilization samples from production data after a baseline update.
+// ---
+
 #include "components/system_cpu/cpu_probe_mac.h"
 
 #include <memory>

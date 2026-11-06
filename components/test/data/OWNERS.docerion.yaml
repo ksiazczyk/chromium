@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Grants file approval rights to all users through a wildcard owner entry.
