@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test helpers for verifying SSL private keys
+// summary: Implements TestSSLPrivateKeyMatches, which signs test input with a key and verifies the signatures against an equivalent OpenSSL key for all advertised algorithms.
+// ---
+
 #include "net/ssl/ssl_private_key_test_util.h"
 
 #include <stdint.h>

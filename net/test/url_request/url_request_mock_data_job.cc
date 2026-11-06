@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: URLRequestMockDataJob implementation
+// summary: Implements a mock URLRequestJob that returns URL-specified data repeated a given number of times and can request a client certificate.
+// ---
+
 #include "net/test/url_request/url_request_mock_data_job.h"
 
 #include <memory>

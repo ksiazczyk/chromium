@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SSL handshake details enum
+// summary: Defines the SSLHandshakeDetails enum classifying TLS 1.2 and 1.3 handshakes by resumption, False Start, 0-RTT and HelloRetryRequest for histograms.
+// ---
+
 #ifndef NET_SSL_SSL_HANDSHAKE_DETAILS_H_
 #define NET_SSL_SSL_HANDSHAKE_DETAILS_H_
 

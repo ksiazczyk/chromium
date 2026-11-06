@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EmbeddedTestServer unit tests
+// summary: Unit tests for the embedded test server covering connection listeners, request handling, and proxy configurations.
+// ---
+
 #include "net/test/embedded_test_server/embedded_test_server.h"
 
 #include <array>

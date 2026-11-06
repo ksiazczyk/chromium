@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpConnection base class for the embedded test server
+// summary: Declares the HttpConnection base class that wraps a connection socket, accepts incoming data and dispatches parsed requests and responses.
+// ---
+
 #ifndef NET_TEST_EMBEDDED_TEST_SERVER_HTTP_CONNECTION_H_
 #define NET_TEST_EMBEDDED_TEST_SERVER_HTTP_CONNECTION_H_
 

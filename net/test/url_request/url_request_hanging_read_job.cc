@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: URLRequestHangingReadJob implementation
+// summary: Implements a mock URLRequestJob that returns headers but never completes response body reads, for testing hanging requests.
+// ---
+
 #include "net/test/url_request/url_request_hanging_read_job.h"
 
 #include <memory>

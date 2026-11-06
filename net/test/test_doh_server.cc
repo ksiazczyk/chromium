@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test DNS-over-HTTPS server implementation
+// summary: Implements a test DoH server on the embedded test server that serves configured DNS records, can fail requests, adds custom headers, and reports query counts.
+// ---
+
 #include "net/test/test_doh_server.h"
 
 #include <string.h>

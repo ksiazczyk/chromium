@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExpectationHandler class declaration
+// summary: Declares a helper for tests to register canned HTTP responses for URLs with a fluent ResponseBuilder API.
+// ---
+
 #ifndef NET_TEST_EMBEDDED_TEST_SERVER_EXPECTATION_HANDLER_H_
 #define NET_TEST_EMBEDDED_TEST_SERVER_EXPECTATION_HANDLER_H_
 

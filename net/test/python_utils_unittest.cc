@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Python utils unit test
+// summary: Runs a Python 3 print command through GetPython3Command and verifies the expected output is returned.
+// ---
+
 #include "net/test/python_utils.h"
 
 #include <string>

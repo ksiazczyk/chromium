@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android SSL platform key unit tests
+// summary: Parametrized tests verifying that wrapped Android Java private keys report algorithm preferences matching the defaults for RSA, ECDSA and ML-DSA keys.
+// ---
+
 #include "net/ssl/ssl_platform_key_android.h"
 
 #include <string>

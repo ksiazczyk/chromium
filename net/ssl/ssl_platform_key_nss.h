@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NSS SSL platform key declarations
+// summary: Declares FetchClientCertPrivateKey, which returns an SSLPrivateKey backed by the NSS private key matching a certificate's public key.
+// ---
+
 #ifndef NET_SSL_SSL_PLATFORM_KEY_NSS_H_
 #define NET_SSL_SSL_PLATFORM_KEY_NSS_H_
 

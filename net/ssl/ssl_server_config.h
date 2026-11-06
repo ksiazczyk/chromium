@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SSL server configuration structures
+// summary: Defines SSLServerCredential with certificate chain and key material, and SSLServerConfig holding protocol versions, cipher suites, early data and client certificate settings.
+// ---
+
 #ifndef NET_SSL_SSL_SERVER_CONFIG_H_
 #define NET_SSL_SSL_SERVER_CONFIG_H_
 

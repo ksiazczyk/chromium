@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dummy Android authenticator for SPNEGO/Kerberos testing
+// summary: Provides a minimal Android account authenticator that returns scripted SPNEGO tokens through JNI to test Kerberos support on Android.
+// ---
+
 package org.chromium.net.test;
 
 import android.accounts.AbstractAccountAuthenticator;

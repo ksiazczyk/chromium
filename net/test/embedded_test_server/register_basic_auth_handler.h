@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Basic auth handler registration interface
+// summary: Declares functions to register Basic and proxy Basic authentication handlers and to build URLs containing user and password.
+// ---
+
 #ifndef NET_TEST_EMBEDDED_TEST_SERVER_REGISTER_BASIC_AUTH_HANDLER_H_
 #define NET_TEST_EMBEDDED_TEST_SERVER_REGISTER_BASIC_AUTH_HANDLER_H_
 

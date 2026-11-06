@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test SSL private key helper declarations
+// summary: Declares CreateFailSigningSSLPrivateKey and WrapSSLPrivateKeyWithPreferences for building failing or preference-overriding keys in tests.
+// ---
+
 #ifndef NET_SSL_TEST_SSL_PRIVATE_KEY_H_
 #define NET_SSL_TEST_SSL_PRIVATE_KEY_H_
 

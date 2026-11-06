@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NSS certificate test utilities
+// summary: Implements NSS-specific test helpers that import sensitive keys and client certificates into slots and locate built-in root certificate slots.
+// ---
+
 #include "net/test/cert_test_util.h"
 
 #include <certdb.h>

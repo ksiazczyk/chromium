@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Revocation builder header
+// summary: Declares helpers to build signed OCSP responses and CRLs marking certificate serials as revoked for verification tests.
+// ---
+
 #ifndef NET_TEST_REVOCATION_BUILDER_H_
 #define NET_TEST_REVOCATION_BUILDER_H_
 

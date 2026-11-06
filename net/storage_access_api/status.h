@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Storage Access API status enum
+// summary: Header defining the StorageAccessApiStatus enum that tracks whether a context has opted into unpartitioned cookie access via the Storage Access API.
+// ---
+
 #ifndef NET_STORAGE_ACCESS_API_STATUS_H_
 #define NET_STORAGE_ACCESS_API_STATUS_H_
 

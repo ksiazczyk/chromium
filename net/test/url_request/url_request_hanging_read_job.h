@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: URLRequestHangingReadJob header
+// summary: Declares URLRequestHangingReadJob, a mock URLRequestJob that hangs when reading the response body, plus mock URL helpers.
+// ---
+
 #ifndef NET_TEST_URL_REQUEST_URL_REQUEST_HANGING_READ_JOB_H_
 #define NET_TEST_URL_REQUEST_URL_REQUEST_HANGING_READ_JOB_H_
 

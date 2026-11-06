@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebSocket close immediately handler implementation
+// summary: Implements WebSocketCloseImmediatelyHandler, which starts a clean closing handshake as soon as the WebSocket handshake completes.
+// ---
+
 #include "net/test/embedded_test_server/websocket_close_immediately_handler.h"
 
 namespace net::test_server {

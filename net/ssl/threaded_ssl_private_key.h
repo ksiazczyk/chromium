@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Threaded SSL private key header
+// summary: Declares ThreadedSSLPrivateKey, an SSLPrivateKey that runs key operations on a background task runner via a consumer-provided Delegate interface.
+// ---
+
 #ifndef NET_SSL_THREADED_SSL_PRIVATE_KEY_H_
 #define NET_SSL_THREADED_SSL_PRIVATE_KEY_H_
 

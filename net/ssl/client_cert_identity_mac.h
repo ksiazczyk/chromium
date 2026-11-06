@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac client certificate identity interface
+// summary: Declares ClientCertIdentityMac, a client certificate identity backed by a macOS SecIdentityRef.
+// ---
+
 #ifndef NET_SSL_CLIENT_CERT_IDENTITY_MAC_H_
 #define NET_SSL_CLIENT_CERT_IDENTITY_MAC_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Connection cost observer test implementation
+// summary: Implements a NetworkChangeNotifier observer that records connection cost change events and lets tests wait for the next change.
+// ---
+
 #include "net/test/test_connection_cost_observer.h"
 
 namespace net {

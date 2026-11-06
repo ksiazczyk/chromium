@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SSL config unit tests
+// summary: Unit tests for SSLConfig covering certificate verify flags, the default direct proxy chain and default session usage.
+// ---
+
 #include "net/ssl/ssl_config.h"
 
 #include "net/base/proxy_chain.h"

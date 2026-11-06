@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: URLRequestTestJobBackedByFile class header
+// summary: Declares a test URLRequestJob that reads responses from files, with virtual hooks letting subclasses observe open, seek, and read results.
+// ---
+
 #ifndef NET_TEST_URL_REQUEST_URL_REQUEST_TEST_JOB_BACKED_BY_FILE_H_
 #define NET_TEST_URL_REQUEST_URL_REQUEST_TEST_JOB_BACKED_BY_FILE_H_
 

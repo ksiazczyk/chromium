@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Install default WebSocket handlers for EmbeddedTestServer
+// summary: Declares helpers that install default WebSocket handlers such as the echo handler on an EmbeddedTestServer and build WebSocket URLs from HTTP or HTTPS URLs for local testing.
+// ---
+
 #ifndef NET_TEST_EMBEDDED_TEST_SERVER_INSTALL_DEFAULT_WEBSOCKET_HANDLERS_H_
 #define NET_TEST_EMBEDDED_TEST_SERVER_INSTALL_DEFAULT_WEBSOCKET_HANDLERS_H_
 

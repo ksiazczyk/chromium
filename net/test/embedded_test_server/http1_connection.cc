@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Http1Connection implementation
+// summary: Implements reading HTTP/1.1 requests from the socket and writing response headers and contents for the test server.
+// ---
+
 #include "net/test/embedded_test_server/http1_connection.h"
 
 #include <string_view>

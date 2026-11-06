@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SSL client session cache implementation
+// summary: Implements an LRU cache of BoringSSL TLS sessions keyed by server, privacy mode, and proxy, with expiration and memory pressure handling.
+// ---
+
 
 #include "net/ssl/ssl_client_session_cache.h"
 

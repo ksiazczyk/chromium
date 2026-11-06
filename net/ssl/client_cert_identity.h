@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client certificate identity interface
+// summary: Declares ClientCertIdentity, a client certificate with deferred private key acquisition, plus a sorter and identity list type.
+// ---
+
 #ifndef NET_SSL_CLIENT_CERT_IDENTITY_H_
 #define NET_SSL_CLIENT_CERT_IDENTITY_H_
 

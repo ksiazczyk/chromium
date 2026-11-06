@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for macOS SSL platform key
+// summary: Tests that macOS platform keys produce matching signatures and algorithm preferences across RSA and ECDSA key types, and reject unsupported key types.
+// ---
+
 #include "net/ssl/ssl_platform_key_mac.h"
 
 #include <CoreFoundation/CoreFoundation.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Http2Connection class declaration
+// summary: Declares the HTTP/2 connection supporting multiple concurrent request and response streams on a single connection.
+// ---
+
 #ifndef NET_TEST_EMBEDDED_TEST_SERVER_HTTP2_CONNECTION_H_
 #define NET_TEST_EMBEDDED_TEST_SERVER_HTTP2_CONNECTION_H_
 

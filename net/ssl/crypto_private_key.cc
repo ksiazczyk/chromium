@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crypto private key TLS signing implementation
+// summary: Wraps a crypto::keypair::PrivateKey as an SSLPrivateKey, mapping TLS signature algorithms including RSA, ECDSA, Ed25519 and ML-DSA.
+// ---
+
 #include "net/ssl/crypto_private_key.h"
 
 #include <string>

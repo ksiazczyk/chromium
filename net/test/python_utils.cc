@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Python 3 command helper implementation
+// summary: Builds the vpython3 command line, including unbuffered mode, used to launch Python 3 from net tests.
+// ---
+
 #include "net/test/python_utils.h"
 
 #include <memory>

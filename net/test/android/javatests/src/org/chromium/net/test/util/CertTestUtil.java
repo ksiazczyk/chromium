@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Certificate test utilities
+// summary: Utility methods for certificate handling in net tests, including PEM to DER conversion and public key SHA256 hashing.
+// ---
+
 package org.chromium.net.test.util;
 
 import android.util.Base64;

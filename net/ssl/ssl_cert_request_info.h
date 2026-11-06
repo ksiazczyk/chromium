@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SSL certificate request info class
+// summary: Declares SSLCertRequestInfo, a ref-counted object describing the server criteria for a client certificate requested during TLS client authentication.
+// ---
+
 #ifndef NET_SSL_SSL_CERT_REQUEST_INFO_H_
 #define NET_SSL_SSL_CERT_REQUEST_INFO_H_
 

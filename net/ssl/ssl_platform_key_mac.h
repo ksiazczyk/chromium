@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS SSL platform key declarations
+// summary: Declares functions to create an SSLPrivateKey backed by a macOS SecKey or an unexportable signing key for client certificate authentication.
+// ---
+
 #ifndef NET_SSL_SSL_PLATFORM_KEY_MAC_H_
 #define NET_SSL_SSL_PLATFORM_KEY_MAC_H_
 

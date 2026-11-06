@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WrapCryptoPrivateKey declaration
+// summary: Declares WrapCryptoPrivateKey, which adapts a crypto keypair private key for TLS signing or returns null for unsupported key types.
+// ---
+
 #ifndef NET_SSL_CRYPTO_PRIVATE_KEY_H_
 #define NET_SSL_CRYPTO_PRIVATE_KEY_H_
 

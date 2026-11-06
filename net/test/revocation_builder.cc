@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Revocation builder implementation
+// summary: Implements DER encoding helpers that build OCSP responses and CRLs for certificate revocation test scenarios.
+// ---
+
 #include "net/test/revocation_builder.h"
 
 #include <string_view>

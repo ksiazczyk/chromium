@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default SSL config service implementation
+// summary: Implements SSLConfigServiceDefaults, returning the default SSL context config and resolving ECH mode via an optional injected getter.
+// ---
+
 #include "net/ssl/ssl_config_service_defaults.h"
 
 namespace net {

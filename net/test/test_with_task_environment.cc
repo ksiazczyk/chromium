@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NetTaskEnvironment implementation
+// summary: Implements NetTaskEnvironment and WithTaskEnvironment test support, wiring up the NetTaskScheduler and scoped feature lists for net tests.
+// ---
+
 #include "net/test/test_with_task_environment.h"
 
 #include <memory>

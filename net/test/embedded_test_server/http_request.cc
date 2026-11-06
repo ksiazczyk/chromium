@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTP request parsing for the embedded test server
+// summary: Implements HttpRequest and HttpRequestParser, which parse incoming HTTP request lines, headers and content, including CONNECT and OPTIONS forms.
+// ---
+
 #include "net/test/embedded_test_server/http_request.h"
 
 #include <algorithm>

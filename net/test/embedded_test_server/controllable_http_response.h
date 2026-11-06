@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ControllableHttpResponse class header
+// summary: Declares ControllableHttpResponse for manually controlling a single HTTP response on the test server, plus its response manager utility.
+// ---
+
 #ifndef NET_TEST_EMBEDDED_TEST_SERVER_CONTROLLABLE_HTTP_RESPONSE_H_
 #define NET_TEST_EMBEDDED_TEST_SERVER_CONTROLLABLE_HTTP_RESPONSE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTP request and parser declarations
+// summary: Declares the HttpRequest struct, the supported HTTP method enum and the HttpRequestParser that incrementally parses requests for the test server.
+// ---
+
 #ifndef NET_TEST_EMBEDDED_TEST_SERVER_HTTP_REQUEST_H_
 #define NET_TEST_EMBEDDED_TEST_SERVER_HTTP_REQUEST_H_
 

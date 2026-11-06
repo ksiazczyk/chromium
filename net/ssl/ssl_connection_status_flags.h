@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SSL connection status flags
+// summary: Defines bitfield flags and helpers for SSLInfo connection status, encoding cipher suite, compression and SSL or QUIC version with stable persisted values.
+// ---
+
 #ifndef NET_SSL_SSL_CONNECTION_STATUS_FLAGS_H_
 #define NET_SSL_SSL_CONNECTION_STATUS_FLAGS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: URLRequestFailedJob header
+// summary: Declares URLRequestFailedJob, its failure phase enum, and static helpers that build mock URLs returning specified net errors.
+// ---
+
 #ifndef NET_TEST_URL_REQUEST_URL_REQUEST_FAILED_JOB_H_
 #define NET_TEST_URL_REQUEST_URL_REQUEST_FAILED_JOB_H_
 

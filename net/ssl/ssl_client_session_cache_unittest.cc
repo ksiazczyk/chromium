@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SSL client session cache unit tests
+// summary: Unit tests for session insertion, lookup, expiration, early data clearing, and memory pressure behavior of the SSL client session cache.
+// ---
+
 #include "net/ssl/ssl_client_session_cache.h"
 
 #include "base/memory_coordinator/memory_coordinator_features.h"

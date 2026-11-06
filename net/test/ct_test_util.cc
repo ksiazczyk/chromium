@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Certificate Transparency test data and helpers
+// summary: Provides CT test vectors and helpers for building SCTs, Merkle tree leaves, and signed tree heads used in net tests.
+// ---
+
 #include "net/test/ct_test_util.h"
 
 #include <stdint.h>

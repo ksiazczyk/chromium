@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ControllableHttpResponse implementation
+// summary: Implements ControllableHttpResponse, which lets tests wait for a request and manually send controlled response data from the test server.
+// ---
+
 #include "net/test/embedded_test_server/controllable_http_response.h"
 
 #include <memory>

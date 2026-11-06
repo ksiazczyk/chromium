@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SSLKeyLoggerImpl implementation
+// summary: Implements the file-based SSL key logger, buffering lines and writing them on a background task runner to avoid blocking shutdown.
+// ---
+
 #include "net/ssl/ssl_key_logger_impl.h"
 
 #include <stdio.h>

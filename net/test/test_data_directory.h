@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test data directory path helper declarations
+// summary: Declares functions returning file paths to net test data and certificate directories, including a relative client certificate path for SSLConfig.
+// ---
+
 #ifndef NET_TEST_TEST_DATA_DIRECTORY_H_
 #define NET_TEST_TEST_DATA_DIRECTORY_H_
 

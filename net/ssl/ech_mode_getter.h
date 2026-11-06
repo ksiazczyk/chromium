@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EchModeGetter interface declaration
+// summary: Declares the EchModeGetter interface for retrieving the ECH mode for a hostname, allowing platform-specific implementations.
+// ---
+
 #ifndef NET_SSL_ECH_MODE_GETTER_H_
 #define NET_SSL_ECH_MODE_GETTER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SSL client auth cache class
+// summary: Declares SSLClientAuthCache, a cache storing client certificate and private key decisions keyed by server host and port.
+// ---
+
 #ifndef NET_SSL_SSL_CLIENT_AUTH_CACHE_H_
 #define NET_SSL_SSL_CLIENT_AUTH_CACHE_H_
 

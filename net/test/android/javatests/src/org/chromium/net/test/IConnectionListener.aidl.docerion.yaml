@@ -1,0 +1,4 @@
+# Docerion header of IConnectionListener.aidl.
+type: test
+title: AIDL interface for test server connection listener callbacks
+summary: AIDL oneway callback interface notifying tests of accepted sockets and socket reads on the embedded test server.

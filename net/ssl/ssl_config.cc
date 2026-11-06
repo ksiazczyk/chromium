@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SSL config implementation
+// summary: Implements SSLConfig defaults for TLS protocol versions plus helpers for allowed bad certificates and certificate verification flags.
+// ---
+
 #include "net/ssl/ssl_config.h"
 
 #include "net/cert/cert_verifier.h"

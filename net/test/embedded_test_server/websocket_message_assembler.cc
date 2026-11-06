@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebSocket message assembler implementation
+// summary: Assembles incoming WebSocket frames into complete text or binary messages and reports protocol errors for invalid frame sequences.
+// ---
+
 #include "net/test/embedded_test_server/websocket_message_assembler.h"
 
 #include "base/containers/extend.h"

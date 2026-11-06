@@ -18,6 +18,12 @@
 // overlapped read has completed.  It does so by leveraging the
 // MessageLoop::WatchObject API.
 
+// ---docerion
+// type: test
+// title: URLRequestTestJobBackedByFile implementation
+// summary: Implements a test URLRequestJob that serves a response body read asynchronously from a file, including MIME type lookup, range handling, and stream filtering.
+// ---
+
 #include "net/test/url_request/url_request_test_job_backed_by_file.h"
 
 #include "base/byte_size.h"

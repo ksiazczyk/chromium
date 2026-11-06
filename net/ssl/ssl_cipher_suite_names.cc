@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SSL cipher suite name utilities
+// summary: Converts cipher suite values and SSL/TLS versions into human-readable names and computes the obsolete SSL status for protocol, cipher, key exchange and signature choices.
+// ---
+
 #include "net/ssl/ssl_cipher_suite_names.h"
 
 #include <ostream>

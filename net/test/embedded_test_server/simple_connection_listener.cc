@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Simple connection listener implementation
+// summary: Implements a connection listener that waits for an expected number of test server connections and can fail on additional ones.
+// ---
+
 #include "net/test/embedded_test_server/simple_connection_listener.h"
 
 #include "base/location.h"

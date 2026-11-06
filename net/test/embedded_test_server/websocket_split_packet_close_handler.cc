@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebSocket split packet close handler implementation
+// summary: Sends a WebSocket close frame split into two raw packets to exercise client handling of fragmented close frames.
+// ---
+
 #include "net/test/embedded_test_server/websocket_split_packet_close_handler.h"
 
 #include <memory>

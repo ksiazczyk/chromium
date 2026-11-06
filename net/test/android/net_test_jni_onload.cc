@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Net test JNI onload initialization implementation
+// summary: Implements net::test::OnJNIOnLoadInit by delegating to the base Android JNI initialization for net test libraries.
+// ---
+
 #include "net/test/android/net_test_jni_onload.h"
 
 #include "base/android/base_jni_init.h"

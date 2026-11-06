@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default WebSocket handler installation
+// summary: Registers the default WebSocket handlers on the embedded test server and provides helpers to convert server URLs into WebSocket URLs.
+// ---
+
 #include "net/test/embedded_test_server/install_default_websocket_handlers.h"
 
 #include <string_view>

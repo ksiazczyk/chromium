@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SSLPrivateKey interface for SSL client authentication
+// summary: Declares the SSLPrivateKey interface for asynchronously signing TLS handshake data, including provider naming, algorithm preferences and default preference lookup.
+// ---
+
 #ifndef NET_SSL_SSL_PRIVATE_KEY_H_
 #define NET_SSL_SSL_PRIVATE_KEY_H_
 

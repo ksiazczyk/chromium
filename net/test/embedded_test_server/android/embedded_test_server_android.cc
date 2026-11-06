@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EmbeddedTestServerAndroid JNI implementation
+// summary: Implements the native side of the Java EmbeddedTestServer, exposing start, shutdown, URL, SSL config and request-header capture methods over JNI.
+// ---
+
 #include "net/test/embedded_test_server/android/embedded_test_server_android.h"
 
 #include "base/android/jni_array.h"

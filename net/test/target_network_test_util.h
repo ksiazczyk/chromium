@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Target network checking test utility declarations
+// summary: Declares test doubles that validate socket creation, host resolution, and proxy resolution calls use the expected target network handles and that all expected calls occur.
+// ---
+
 #ifndef NET_TEST_TARGET_NETWORK_TEST_UTIL_H_
 #define NET_TEST_TARGET_NETWORK_TEST_UTIL_H_
 

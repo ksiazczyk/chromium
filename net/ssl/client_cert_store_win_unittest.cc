@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows client certificate store unit tests
+// summary: Instantiates the shared client cert store typed tests against the Windows implementation via a test delegate.
+// ---
+
 #include "net/ssl/client_cert_store_win.h"
 
 #include "net/ssl/client_cert_store_unittest-inl.h"

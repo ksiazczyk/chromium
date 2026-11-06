@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebSocket HSTS handler implementation
+// summary: Implements a WebSocket handler that adds a Strict-Transport-Security header to the handshake response.
+// ---
+
 #include "net/test/embedded_test_server/websocket_set_hsts_handler.h"
 
 #include "base/memory/scoped_refptr.h"

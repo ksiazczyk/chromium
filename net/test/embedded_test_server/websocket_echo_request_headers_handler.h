@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebSocket echo request headers handler header
+// summary: Declares a WebSocket handler that serializes handshake request headers to JSON and sends them back to the client.
+// ---
+
 #ifndef NET_TEST_EMBEDDED_TEST_SERVER_WEBSOCKET_ECHO_REQUEST_HEADERS_HANDLER_H_
 #define NET_TEST_EMBEDDED_TEST_SERVER_WEBSOCKET_ECHO_REQUEST_HEADERS_HANDLER_H_
 

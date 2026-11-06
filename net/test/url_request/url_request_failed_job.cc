@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: URLRequestFailedJob implementation
+// summary: Implements a mock URLRequestJob that fails with a given net error code at a chosen phase such as start or read, with URL handler setup.
+// ---
+
 #include "net/test/url_request/url_request_failed_job.h"
 
 #include <array>

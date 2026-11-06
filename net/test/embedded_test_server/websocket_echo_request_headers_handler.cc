@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebSocket echo request headers handler implementation
+// summary: Implements WebSocketEchoRequestHeadersHandler, which serializes the handshake request headers to JSON and sends them to the client as a text message.
+// ---
+
 #include "net/test/embedded_test_server/websocket_echo_request_headers_handler.h"
 
 #include "base/json/json_writer.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpConnection factory implementation
+// summary: Implements the HttpConnection::Create factory that instantiates an HTTP/1 or HTTP/2 connection object for the embedded test server.
+// ---
+
 #include "net/test/embedded_test_server/http_connection.h"
 
 #include "net/socket/stream_socket.h"

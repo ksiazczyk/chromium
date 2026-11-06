@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Empty client certificate store implementation
+// summary: Implements ClientCertStoreEmpty, which always returns an empty certificate list when queried for client certificates.
+// ---
+
 #include "net/ssl/client_cert_store_empty.h"
 
 #include <utility>

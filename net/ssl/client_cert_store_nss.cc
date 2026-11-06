@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NSS client certificate store implementation
+// summary: Implements ClientCertStoreNSS, querying NSS certificate databases on worker threads to find client certificates and private keys matching a server's certificate request.
+// ---
+
 
 #include "net/ssl/client_cert_store_nss.h"
 

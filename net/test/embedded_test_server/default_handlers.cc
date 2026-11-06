@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Default embedded test server handlers
+// summary: Implements the default request handlers of the embedded test server, providing endpoints for header echoing, caching, cookies and more.
+// ---
+
 #include "net/test/embedded_test_server/default_handlers.h"
 
 #include <ctime>

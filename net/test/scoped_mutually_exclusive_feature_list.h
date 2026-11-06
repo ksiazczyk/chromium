@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped mutually exclusive feature list helper
+// summary: Header-only helper for parameterized tests that enables one feature from a set and explicitly disables the others based on an enum parameter.
+// ---
+
 #ifndef NET_TEST_SCOPED_MUTUALLY_EXCLUSIVE_FEATURE_LIST_H_
 #define NET_TEST_SCOPED_MUTUALLY_EXCLUSIVE_FEATURE_LIST_H_
 

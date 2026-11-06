@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SSL private key default algorithm preferences
+// summary: Implements SSLPrivateKey::DefaultAlgorithmPreferences, mapping BoringSSL key types to preferred TLS signature algorithms for RSA, EC, Ed25519 and ML-DSA keys.
+// ---
+
 #include "net/ssl/ssl_private_key.h"
 
 #include "base/notreached.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SSL config service implementation
+// summary: Implements SSLContextConfig defaults for TLS named groups, trust anchor IDs and handshake padding, plus SSLConfigService observer notification of config changes.
+// ---
+
 #include "net/ssl/ssl_config_service.h"
 
 #include <tuple>

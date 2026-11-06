@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SSL private key test utility declarations
+// summary: Declares TestSSLPrivateKeyMatches, a helper that checks a key's type, size and advertised signature algorithms against a PKCS#8 serialized private key.
+// ---
+
 #ifndef NET_SSL_SSL_PRIVATE_KEY_TEST_UTIL_H_
 #define NET_SSL_SSL_PRIVATE_KEY_TEST_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTP CONNECT proxy handler for EmbeddedTestServer
+// summary: Declares HttpConnectProxyHandler, which lets the embedded test server act as an HTTP/1.x CONNECT proxy tunneling to selected destinations for tests.
+// ---
+
 #ifndef NET_TEST_EMBEDDED_TEST_SERVER_HTTP_CONNECT_PROXY_HANDLER_H_
 #define NET_TEST_EMBEDDED_TEST_SERVER_HTTP_CONNECT_PROXY_HANDLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows SSL platform key implementation
+// summary: Implements SSLPrivateKey backed by Windows CAPI and CNG providers, including SHA-256 probing and algorithm preferences for TLS client authentication.
+// ---
+
 #include "net/ssl/ssl_platform_key_win.h"
 
 #include <algorithm>

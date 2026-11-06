@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test data directory path helpers implementation
+// summary: Implements helpers returning source tree paths to the net directory, net data directory, and test certificate directories.
+// ---
+
 #include "net/test/test_data_directory.h"
 
 #include "base/base_paths.h"

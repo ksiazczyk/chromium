@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebSocket handler base class implementation
+// summary: Implements default WebSocketHandler behavior such as replying to pings with pongs and responding to close handshakes.
+// ---
+
 #include "net/test/embedded_test_server/websocket_handler.h"
 
 #include "base/memory/scoped_refptr.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SSLCertificateErrorJob implementation
+// summary: Implements a mock URLRequestJob that simulates an ERR_CERT_DATE_INVALID SSL certificate error and registers a handler for a mock hostname.
+// ---
+
 #include "net/test/url_request/ssl_certificate_error_job.h"
 
 #include <string>

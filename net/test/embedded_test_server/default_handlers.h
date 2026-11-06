@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Default handlers registration header
+// summary: Declares RegisterDefaultHandlers, which registers the built-in default request handlers on an EmbeddedTestServer for test compatibility.
+// ---
+
 #ifndef NET_TEST_EMBEDDED_TEST_SERVER_DEFAULT_HANDLERS_H_
 #define NET_TEST_EMBEDDED_TEST_SERVER_DEFAULT_HANDLERS_H_
 

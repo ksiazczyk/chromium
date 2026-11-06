@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SSL server config implementation
+// summary: Implements constructors, move operations and destructors for the SSLServerCredential and SSLServerConfig server-side TLS configuration types.
+// ---
+
 #include "net/ssl/ssl_server_config.h"
 
 #include "net/socket/ssl_client_socket.h"

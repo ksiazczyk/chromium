@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped disable exit on DFATAL header
+// summary: Declares a scoped helper that temporarily disables program exit on LOG(DFATAL) within a test block.
+// ---
+
 #ifndef NET_TEST_SCOPED_DISABLE_EXIT_ON_DFATAL_H_
 #define NET_TEST_SCOPED_DISABLE_EXIT_ON_DFATAL_H_
 

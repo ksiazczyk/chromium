@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Embedded DER test certificates
+// summary: Provides inline DER-encoded certificates and SPKI hashes, such as Google's 2009 certificate, used as test data for certificate verification tests.
+// ---
+
 #ifndef NET_TEST_TEST_CERTIFICATE_DATA_H_
 #define NET_TEST_TEST_CERTIFICATE_DATA_H_
 

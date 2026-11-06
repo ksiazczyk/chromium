@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Certificate Transparency test utility declarations
+// summary: Declares CT test helpers for SCTs, signed tree heads, consistency proofs, SCT lists, and verification result checks.
+// ---
+
 #ifndef NET_TEST_CT_TEST_UTIL_H_
 #define NET_TEST_CT_TEST_UTIL_H_
 

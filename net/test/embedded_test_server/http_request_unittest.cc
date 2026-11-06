@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for HTTP request parsing
+// summary: Unit tests verifying HttpRequestParser handles chunked input, multi-line headers, empty and chunked bodies, and requests split across chunks.
+// ---
+
 #include "net/test/embedded_test_server/http_request.h"
 
 #include <memory>

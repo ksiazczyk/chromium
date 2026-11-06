@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NetTestSuite test suite header
+// summary: Declares NetTestSuite, which initializes the test thread, a mock network change notifier and a rule-based host resolver for net tests.
+// ---
+
 #ifndef NET_TEST_NET_TEST_SUITE_H_
 #define NET_TEST_NET_TEST_SUITE_H_
 

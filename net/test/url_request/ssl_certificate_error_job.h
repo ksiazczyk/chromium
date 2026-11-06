@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SSLCertificateErrorJob header
+// summary: Declares SSLCertificateErrorJob, a mock URLRequestJob that simulates an invalid certificate date error for network tests.
+// ---
+
 #ifndef NET_TEST_URL_REQUEST_SSL_CERTIFICATE_ERROR_JOB_H_
 #define NET_TEST_URL_REQUEST_SSL_CERTIFICATE_ERROR_JOB_H_
 

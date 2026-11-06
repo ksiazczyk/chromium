@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test SSL private key helpers
+// summary: Implements helpers that create an SSLPrivateKey which always fails signing and a wrapper that restricts a key to a given set of signature algorithm preferences.
+// ---
+
 #include "net/ssl/test_ssl_private_key.h"
 
 #include <algorithm>

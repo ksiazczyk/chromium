@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: JNI entry point for net test library on Android
+// summary: Defines JNI_OnLoad for the net test shared library on Android, initializing the Java VM and running the net test startup hooks.
+// ---
+
 #include "base/android/jni_android.h"
 #include "net/test/android/net_test_jni_onload.h"
 

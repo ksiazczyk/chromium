@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac client certificate store declaration
+// summary: Declares ClientCertStoreMac, the macOS ClientCertStore implementation, including testing hooks for certificate filtering and preferred certificate ordering.
+// ---
+
 #ifndef NET_SSL_CLIENT_CERT_STORE_MAC_H_
 #define NET_SSL_CLIENT_CERT_STORE_MAC_H_
 

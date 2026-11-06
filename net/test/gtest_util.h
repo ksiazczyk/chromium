@@ -4,6 +4,12 @@
 //
 // Testing utilities that extend gtest.
 
+// ---docerion
+// type: test
+// title: gtest extensions for net tests
+// summary: Adds gmock matchers such as IsError, IsOk and string-view substring matching plus EXPECT_DFATAL and ASSERT_DFATAL macros for net tests.
+// ---
+
 #ifndef NET_TEST_GTEST_UTIL_H_
 #define NET_TEST_GTEST_UTIL_H_
 

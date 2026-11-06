@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SSL client auth cache implementation
+// summary: Implements a per-server cache of client certificate and private key decisions with lookup, add, remove, and clear operations.
+// ---
+
 #include "net/ssl/ssl_client_auth_cache.h"
 
 #include "base/check.h"

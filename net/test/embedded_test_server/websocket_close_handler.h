@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebSocket close handler for the embedded test server
+// summary: Declares WebSocketCloseHandler, a test server WebSocket handler that closes the connection on receiving "Goodbye" and passively reports close codes and reasons.
+// ---
+
 #ifndef NET_TEST_EMBEDDED_TEST_SERVER_WEBSOCKET_CLOSE_HANDLER_H_
 #define NET_TEST_EMBEDDED_TEST_SERVER_WEBSOCKET_CLOSE_HANDLER_H_
 

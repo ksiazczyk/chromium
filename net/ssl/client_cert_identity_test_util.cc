@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake client certificate identity test utility
+// summary: Provides FakeClientCertIdentity helpers that build test client certificate identities from certificate and key files or with failing signing.
+// ---
+
 #include "net/ssl/client_cert_identity_test_util.h"
 
 #include <memory>

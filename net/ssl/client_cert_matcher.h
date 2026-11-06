@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client certificate matcher interface
+// summary: Declares the ClientCertIssuerSource abstraction, an in-memory issuer source, and FilterMatchingClientCertIdentities for filtering client certs against server certificate requests.
+// ---
+
 #ifndef NET_SSL_CLIENT_CERT_MATCHER_H_
 #define NET_SSL_CLIENT_CERT_MATCHER_H_
 

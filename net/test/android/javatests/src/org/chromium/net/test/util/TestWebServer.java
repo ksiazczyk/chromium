@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test web server with prepared responses
+// summary: Local HTTP(S) test server that maps incoming requests to prepared responses for network tests.
+// ---
+
 package org.chromium.net.test.util;
 
 import android.util.Base64;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Private key loading test utilities header
+// summary: Declares key_util helpers for loading PEM-encoded private keys into EVP_PKEY and SSLPrivateKey objects in tests.
+// ---
+
 #ifndef NET_TEST_KEY_UTIL_H_
 #define NET_TEST_KEY_UTIL_H_
 
