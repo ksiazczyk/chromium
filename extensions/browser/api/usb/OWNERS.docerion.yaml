@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: USB API code owners
+summary: Lists the owners of the USB API and directs core API changes to the owners listed in chrome/browser/extensions/OWNERS.

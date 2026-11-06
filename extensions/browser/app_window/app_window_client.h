@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppWindowClient interface
+// summary: Declares the client interface that creates app and native app windows and opens DevTools for the app window system.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_APP_WINDOW_APP_WINDOW_CLIENT_H_
 #define EXTENSIONS_BROWSER_APP_WINDOW_APP_WINDOW_CLIENT_H_
 

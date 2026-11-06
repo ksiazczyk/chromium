@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SerialPortManager class declaration
+// summary: Declares the SerialPortManager BrowserContextKeyedAPI for device enumeration, port opening, receive event dispatch, and test binder overrides.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_SERIAL_SERIAL_PORT_MANAGER_H_
 #define EXTENSIONS_BROWSER_API_SERIAL_SERIAL_PORT_MANAGER_H_
 

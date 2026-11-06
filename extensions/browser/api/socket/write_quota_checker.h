@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Per-extension socket write quota checker declaration
+// summary: Declares WriteQuotaChecker, which takes and returns byte quotas per extension to cap pending socket writes, with a test-only scoped limit helper.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_SOCKET_WRITE_QUOTA_CHECKER_H_
 #define EXTENSIONS_BROWSER_API_SOCKET_WRITE_QUOTA_CHECKER_H_
 

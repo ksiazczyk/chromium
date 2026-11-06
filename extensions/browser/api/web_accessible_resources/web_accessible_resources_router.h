@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web accessible resources dynamic URL router header
+// summary: Declares TransformToDynamicURLIfNecessary, which returns the dynamic URL for a static extension resource URL when use_dynamic_url applies to the given extension.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_WEB_ACCESSIBLE_RESOURCES_WEB_ACCESSIBLE_RESOURCES_ROUTER_H_
 #define EXTENSIONS_BROWSER_API_WEB_ACCESSIBLE_RESOURCES_WEB_ACCESSIBLE_RESOURCES_ROUTER_H_
 

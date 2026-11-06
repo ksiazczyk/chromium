@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default RuntimeAPIDelegate method implementations
+// summary: Provides default implementations for the runtime API delegate, including the update check result constructor and stub options page and developer tools window behavior.
+// ---
+
 #include "extensions/browser/api/runtime/runtime_api_delegate.h"
 
 namespace extensions {

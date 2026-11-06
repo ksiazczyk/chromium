@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Backend task runner declarations
+// summary: Declares GetBackendTaskRunner, the singleton task runner for storage backend work, and IsOnBackendSequence for sequence checks.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_STORAGE_BACKEND_TASK_RUNNER_H_
 #define EXTENSIONS_BROWSER_API_STORAGE_BACKEND_TASK_RUNNER_H_
 

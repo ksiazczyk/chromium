@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRequest event details implementation
+// summary: Implements WebRequestEventDetails, building filtered dictionaries for webRequest events with request and response headers, auth info, security info, status lines, and request body data.
+// ---
+
 #include "extensions/browser/api/web_request/web_request_event_details.h"
 
 #include <string>

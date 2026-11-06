@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native app window interface
+// summary: Defines the interface for native implementations of packaged app windows, covering fullscreen, frameless windows, draggable regions, and size constraints.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_APP_WINDOW_NATIVE_APP_WINDOW_H_
 #define EXTENSIONS_BROWSER_APP_WINDOW_NATIVE_APP_WINDOW_H_
 

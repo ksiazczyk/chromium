@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Storage area namespace conversion helpers
+// summary: Implements conversions between StorageAreaNamespace values, their string names, and settings namespaces for the extensions storage API.
+// ---
+
 #include "extensions/browser/api/storage/storage_area_namespace.h"
 
 #include "base/notreached.h"

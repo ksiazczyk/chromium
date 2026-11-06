@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemInfoProvider base implementation
+// summary: Implements the SystemInfoProvider base class, building storage unit info and running queries on a sequenced task runner with queued UI-thread callbacks.
+// ---
+
 #include "extensions/browser/api/system_info/system_info_provider.h"
 
 #include "base/functional/bind.h"

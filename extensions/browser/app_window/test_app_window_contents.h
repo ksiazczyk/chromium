@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test app window contents header
+// summary: Declares TestAppWindowContents, a dummy AppWindowContents for unit tests, intended for use with AppWindow::SetAppWindowContentsForTesting.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_APP_WINDOW_TEST_APP_WINDOW_CONTENTS_H_
 #define EXTENSIONS_BROWSER_APP_WINDOW_TEST_APP_WINDOW_CONTENTS_H_
 

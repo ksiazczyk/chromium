@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension install status declarations
+// summary: Declares the ExtensionInstallStatus enum and synchronous and asynchronous functions that report a Web Store extension's install status, optionally including policy and manifest version checks.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_WEBSTORE_PRIVATE_EXTENSION_INSTALL_STATUS_H_
 #define EXTENSIONS_BROWSER_API_WEBSTORE_PRIVATE_EXTENSION_INSTALL_STATUS_H_
 

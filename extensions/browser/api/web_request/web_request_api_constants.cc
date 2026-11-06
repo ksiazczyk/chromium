@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRequest API constants definitions
+// summary: Defines string constants for webRequest API keys, event names, stages, and error messages used across the webRequest implementation.
+// ---
+
 #include "extensions/browser/api/web_request/web_request_api_constants.h"
 #include "extensions/buildflags/buildflags.h"
 

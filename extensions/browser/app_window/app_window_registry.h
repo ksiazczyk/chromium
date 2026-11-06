@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App window registry header
+// summary: Declares AppWindowRegistry, which tracks AppWindows for platform apps in a browser context and exposes observer notifications and lookup helpers.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_APP_WINDOW_APP_WINDOW_REGISTRY_H_
 #define EXTENSIONS_BROWSER_APP_WINDOW_APP_WINDOW_REGISTRY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UDPSocketEventDispatcher class declaration
+// summary: Declares UDPSocketEventDispatcher, a per-profile BrowserContextKeyedAPI that dispatches sockets.udp receive events to extensions.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_SOCKETS_UDP_UDP_SOCKET_EVENT_DISPATCHER_H_
 #define EXTENSIONS_BROWSER_API_SOCKETS_UDP_UDP_SOCKET_EVENT_DISPATCHER_H_
 

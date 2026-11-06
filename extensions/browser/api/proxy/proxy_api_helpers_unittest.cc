@@ -4,6 +4,12 @@
 
 // Unit tests for helper functions for the Chrome Extensions Proxy Settings API.
 
+// ---docerion
+// type: source
+// title: Unit tests for proxy API helpers
+// summary: Tests PAC data URL conversion and the extension preference parsing helper functions.
+// ---
+
 #include "extensions/browser/api/proxy/proxy_api_helpers.h"
 
 #include <memory>

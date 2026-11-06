@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declarations for the chrome.permissions extension API functions
+// summary: Declares the ExtensionFunction classes for permissions.contains, getAll, remove, and request, with test hooks for dialog behavior and user gesture bypass.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_PERMISSIONS_PERMISSIONS_API_H_
 #define EXTENSIONS_BROWSER_API_PERMISSIONS_PERMISSIONS_API_H_
 

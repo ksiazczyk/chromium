@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Serial extension API function implementations
+// summary: Implements the serial extension functions such as getDevices, connect, update, disconnect, and send, applying default connection options and error strings.
+// ---
+
 #include "extensions/browser/api/serial/serial_api.h"
 
 #include <algorithm>

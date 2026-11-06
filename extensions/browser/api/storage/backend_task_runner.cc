@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Backend task runner implementation
+// summary: Provides GetBackendTaskRunner, returning the extension file task runner used for storage backend work, and IsOnBackendSequence to verify the current sequence.
+// ---
+
 #include "extensions/browser/api/storage/backend_task_runner.h"
 
 #include "base/task/sequenced_task_runner.h"

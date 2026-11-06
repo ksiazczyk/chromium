@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the serial API
+summary: Defines the serial source_set, listing the API, connection, and port manager sources together with their public dependencies.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the virtual keyboard private API
+summary: Defines GN source sets and dependencies for the virtual keyboard private extension API, including a ChromeOS-specific dependency block.

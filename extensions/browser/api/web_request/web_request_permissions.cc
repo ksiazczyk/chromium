@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRequest permissions implementation
+// summary: Implements permission checks deciding whether extensions may access or modify web requests, including allowed schemes, host permissions, initiator checks, and policy-protected URL handling.
+// ---
+
 #include "extensions/browser/api/web_request/web_request_permissions.h"
 
 #include <string_view>

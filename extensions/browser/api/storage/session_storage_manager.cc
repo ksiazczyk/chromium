@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session storage manager implementation
+// summary: Implements the in-memory keyed service backing chrome.storage.session, including its browser context factory, value change tracking, and per-extension quota handling.
+// ---
+
 #include "extensions/browser/api/storage/session_storage_manager.h"
 
 #include "base/no_destructor.h"

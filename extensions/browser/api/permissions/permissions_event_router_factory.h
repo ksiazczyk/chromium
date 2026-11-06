@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the permissions event router factory
+// summary: Declares the PermissionsEventRouterFactory singleton responsible for creating the event router for the permissions API.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_PERMISSIONS_PERMISSIONS_EVENT_ROUTER_FACTORY_H_
 #define EXTENSIONS_BROWSER_API_PERMISSIONS_PERMISSIONS_EVENT_ROUTER_FACTORY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TestApiObserver interface
+// summary: Defines the observer interface that lets browser-side test code react to chrome.test pass, fail, message, and script result calls.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_TEST_TEST_API_OBSERVER_H_
 #define EXTENSIONS_BROWSER_API_TEST_TEST_API_OBSERVER_H_
 

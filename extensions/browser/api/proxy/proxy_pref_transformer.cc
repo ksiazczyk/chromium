@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProxyPrefTransformer implementation
+// summary: Converts proxy settings between the extension preference format and the browser preference format.
+// ---
+
 #include "extensions/browser/api/proxy/proxy_pref_transformer.h"
 
 #include <optional>

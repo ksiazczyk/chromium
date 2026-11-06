@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test app window contents implementation
+// summary: Implements a dummy AppWindowContents that wraps a WebContents with no-op behavior for use in unit tests.
+// ---
+
 #include "extensions/browser/app_window/test_app_window_contents.h"
 
 #include "content/public/browser/web_contents.h"

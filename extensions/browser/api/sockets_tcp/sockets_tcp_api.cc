@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the sockets.tcp extension API functions
+// summary: Implements the sockets.tcp extension API functions such as create, connect, send, disconnect, and socket property handling for resumable TCP sockets.
+// ---
+
 #include "extensions/browser/api/sockets_tcp/sockets_tcp_api.h"
 
 #include <memory>

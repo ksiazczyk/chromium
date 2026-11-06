@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RuntimeAPIDelegate interface declaration
+// summary: Declares the delegate interface for chrome.runtime API behavior, such as update checks, extension reloads, platform info, and device restarts, that clients vend through ExtensionsBrowserClient.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_RUNTIME_RUNTIME_API_DELEGATE_H_
 #define EXTENSIONS_BROWSER_API_RUNTIME_RUNTIME_API_DELEGATE_H_
 

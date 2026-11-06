@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for chrome.runtime.restartAfterDelay
+// summary: Tests the restartAfterDelay runtime API using a fake delegate and browser client that simulate successful device restarts and verify throttling behavior.
+// ---
+
 #include <utility>
 
 #include "base/memory/ptr_util.h"

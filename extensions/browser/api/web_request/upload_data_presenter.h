@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Upload data presenter interface declaration
+// summary: Declares the UploadDataPresenter interface along with RawDataPresenter and ParsedDataPresenter classes that represent request upload data as base::Value.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_WEB_REQUEST_UPLOAD_DATA_PRESENTER_H_
 #define EXTENSIONS_BROWSER_API_WEB_REQUEST_UPLOAD_DATA_PRESENTER_H_
 

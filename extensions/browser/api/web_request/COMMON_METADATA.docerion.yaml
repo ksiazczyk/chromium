@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Web request common metadata
+summary: Specifies the Monorail and Buganizer issue tracker components used for the web_request directory.

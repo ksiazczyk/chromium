@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestUdpEchoServer class declaration
+// summary: Declares TestUdpEchoServer, a test UDP server that echoes back everything it receives and reports the host and port it listens on.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_SOCKETS_UDP_TEST_UDP_ECHO_SERVER_H_
 #define EXTENSIONS_BROWSER_API_SOCKETS_UDP_TEST_UDP_ECHO_SERVER_H_
 

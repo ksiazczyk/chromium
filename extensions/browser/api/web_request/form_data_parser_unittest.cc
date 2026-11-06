@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Form data parser unit tests
+// summary: Unit tests verifying parsing of URL-encoded and multipart POST data, including chunked sources and malformed input.
+// ---
+
 #include "extensions/browser/api/web_request/form_data_parser.h"
 
 #include <stddef.h>

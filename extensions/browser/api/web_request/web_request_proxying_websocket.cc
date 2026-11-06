@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web request proxying WebSocket implementation
+// summary: Implements WebRequestProxyingWebSocket, which proxies WebSocket connections and dispatches web request API events to extensions.
+// ---
+
 #include "extensions/browser/api/web_request/web_request_proxying_websocket.h"
 
 #include "base/functional/bind.h"

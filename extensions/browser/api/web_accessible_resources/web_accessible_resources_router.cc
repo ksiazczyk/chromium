@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web accessible resources dynamic URL router implementation
+// summary: Implements TransformToDynamicURLIfNecessary, which rewrites an extension resource URL to its dynamic URL host when the Manifest V3 resource requires use_dynamic_url.
+// ---
+
 #include "extensions/browser/api/web_accessible_resources/web_accessible_resources_router.h"
 
 #include <optional>

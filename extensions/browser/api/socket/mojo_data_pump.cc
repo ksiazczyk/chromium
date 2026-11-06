@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo data pump implementation
+// summary: Implements MojoDataPump, which reads from and writes to Mojo data pipes and reports results through net-style completion callbacks.
+// ---
+
 #include "extensions/browser/api/socket/mojo_data_pump.h"
 
 #include <utility>

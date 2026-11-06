@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRequestEventRouterFactory declaration
+// summary: Declares WebRequestEventRouterFactory, a BrowserContextKeyedServiceFactory exposing static access to the WebRequestEventRouter service for a browser context.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_WEB_REQUEST_WEB_REQUEST_EVENT_ROUTER_FACTORY_H_
 #define EXTENSIONS_BROWSER_API_WEB_REQUEST_WEB_REQUEST_EVENT_ROUTER_FACTORY_H_
 

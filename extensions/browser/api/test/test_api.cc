@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of chrome.test extension functions
+// summary: Implements the chrome.test extension functions such as notifyPass, notifyFail, log, and sendMessage, plus queueing and broadcasting of test started and finished events.
+// ---
+
 #include "extensions/browser/api/test/test_api.h"
 
 #include <string>

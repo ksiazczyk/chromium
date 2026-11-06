@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StorageAreaNamespace enum and conversion declarations
+// summary: Declares the StorageAreaNamespace enum for local, sync, managed and session storage areas plus string and settings namespace conversion functions.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_STORAGE_STORAGE_AREA_NAMESPACE_H_
 #define EXTENSIONS_BROWSER_API_STORAGE_STORAGE_AREA_NAMESPACE_H_
 

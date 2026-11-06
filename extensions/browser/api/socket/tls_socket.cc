@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TLS socket implementation for extension socket APIs
+// summary: Implements TLSSocket, a client-only TLS socket created by upgrading a TCP socket through the secure() APIs, forwarding reads and writes over a mojo data pump.
+// ---
+
 #include "extensions/browser/api/socket/tls_socket.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: userScripts extension API function declarations
+// summary: Declares the ExtensionFunction classes backing the userScripts register, getScripts, unregister, update and execute API methods.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_USER_SCRIPTS_USER_SCRIPTS_API_H_
 #define EXTENSIONS_BROWSER_API_USER_SCRIPTS_USER_SCRIPTS_API_H_
 

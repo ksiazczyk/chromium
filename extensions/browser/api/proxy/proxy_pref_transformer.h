@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProxyPrefTransformer header
+// summary: Declares ProxyPrefTransformer, which converts proxy settings between the representation used by the Proxy Settings API and the representation used in preference stores, plugging into the ExtensionPreferences API.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_PROXY_PROXY_PREF_TRANSFORMER_H_
 #define EXTENSIONS_BROWSER_API_PROXY_PROXY_PREF_TRANSFORMER_H_
 

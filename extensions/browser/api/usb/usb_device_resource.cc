@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: USB device resource implementation
+// summary: Implements the UsbDeviceResource API resource that wraps a mojo remote to an open USB device and handles connection errors.
+// ---
+
 #include "extensions/browser/api/usb/usb_device_resource.h"
 
 #include <string>

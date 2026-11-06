@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the webstore_private directory
+summary: Lists the code owner responsible for reviewing changes in the webstore_private directory.

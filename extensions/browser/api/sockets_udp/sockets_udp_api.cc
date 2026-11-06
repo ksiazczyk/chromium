@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the sockets.udp extension API functions
+// summary: Implements the sockets.udp extension functions such as create, update, bind, send, setPaused, close, getInfo and getSockets, plus socket info helpers.
+// ---
+
 #include "extensions/browser/api/sockets_udp/sockets_udp_api.h"
 
 #include <memory>

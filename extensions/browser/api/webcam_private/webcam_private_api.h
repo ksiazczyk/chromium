@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebcamPrivateAPI service header
+// summary: Declares WebcamPrivateAPI, a BrowserContextKeyedAPI that manages webcam resources and provides webcam lookup, opening of serial webcams and device ID handling for the webcamPrivate extension API.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_WEBCAM_PRIVATE_WEBCAM_PRIVATE_API_H_
 #define EXTENSIONS_BROWSER_API_WEBCAM_PRIVATE_WEBCAM_PRIVATE_API_H_
 

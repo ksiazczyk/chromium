@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the permissions event router
+// summary: Declares the PermissionsEventRouter keyed service that listens to permission change events and routes them to extensions in the same profile.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_PERMISSIONS_PERMISSIONS_EVENT_ROUTER_H_
 #define EXTENSIONS_BROWSER_API_PERMISSIONS_PERMISSIONS_EVENT_ROUTER_H_
 

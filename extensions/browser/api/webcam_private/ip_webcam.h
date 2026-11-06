@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IpWebcam class declaration
+// summary: Declares the IpWebcam class that implements the Webcam interface for IP-based webcams identified by a device ID.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_WEBCAM_PRIVATE_IP_WEBCAM_H_
 #define EXTENSIONS_BROWSER_API_WEBCAM_PRIVATE_IP_WEBCAM_H_
 

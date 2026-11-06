@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Value store path and factory helpers
+// summary: Implements helpers that compute value store directories and create, delete or check value stores for a settings namespace and extension.
+// ---
+
 #include "extensions/browser/api/storage/value_store_util.h"
 
 #include "base/files/file_path.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the permissions event router
+// summary: Observes permission changes from the PermissionsManager and dispatches onAdded and onRemoved events to extensions, skipping policy-related updates.
+// ---
+
 #include "extensions/browser/api/permissions/permissions_event_router.h"
 
 #include <memory>

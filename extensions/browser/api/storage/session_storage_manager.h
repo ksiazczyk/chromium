@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session storage manager declarations
+// summary: Declares SessionStorageManager, a keyed service and extension registry observer managing chrome.storage.session values with get, set, remove, clear, and change notification APIs.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_STORAGE_SESSION_STORAGE_MANAGER_H_
 #define EXTENSIONS_BROWSER_API_STORAGE_SESSION_STORAGE_MANAGER_H_
 

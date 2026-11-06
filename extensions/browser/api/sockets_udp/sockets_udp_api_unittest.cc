@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the sockets.udp API
+// summary: Contains SocketsUdpUnitTest, which verifies that the sockets.udp create function returns a valid socket result.
+// ---
+
 #include "extensions/browser/api/sockets_udp/sockets_udp_api.h"
 
 #include <memory>

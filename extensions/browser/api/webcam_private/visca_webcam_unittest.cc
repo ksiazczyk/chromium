@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ViscaWebcam unit tests
+// summary: Tests ViscaWebcam commands such as zoom using a mocked serial connection to verify command sending and response handling.
+// ---
+
 #include "extensions/browser/api/webcam_private/visca_webcam.h"
 
 #include <vector>

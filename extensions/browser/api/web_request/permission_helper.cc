@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PermissionHelper keyed service implementation
+// summary: Implements the PermissionHelper keyed service that provides permission checks for web request handling, such as incognito access and hiding browser network requests.
+// ---
+
 #include "extensions/browser/api/web_request/permission_helper.h"
 
 #include "base/no_destructor.h"

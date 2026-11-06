@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRequestEventRouterFactory implementation
+// summary: Implements the KeyedService factory that provides a WebRequestEventRouter per browser context, sharing one instance between regular and incognito profiles.
+// ---
+
 #include "extensions/browser/api/web_request/web_request_event_router_factory.h"
 
 #include "components/keyed_service/content/browser_context_dependency_manager.h"

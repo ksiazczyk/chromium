@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for webstore_private
+summary: GN build file defining the webstore_private source set, its source files and its public and private dependencies for the Chrome Web Store private extension API.

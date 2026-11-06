@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebstorePrivate API delegate interface for embedder-specific functionality
+// summary: Abstract delegate interface letting the WebstorePrivate API in //extensions call embedder-specific Chrome functionality such as allowlists, identity, install dialogs, Safe Browsing checks and promotion eligibility.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_WEBSTORE_PRIVATE_WEBSTORE_PRIVATE_API_DELEGATE_H_
 #define EXTENSIONS_BROWSER_API_WEBSTORE_PRIVATE_WEBSTORE_PRIVATE_API_DELEGATE_H_
 

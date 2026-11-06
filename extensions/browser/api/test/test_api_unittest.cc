@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the test started and finished event queue
+// summary: Unit tests verifying that TestStartedAndFinishedEventQueue dispatches queued onTestStarted and onTestFinished events in FIFO order and no-ops when no events are pending.
+// ---
+
 #include "extensions/browser/api/test/test_api.h"
 
 #include <memory>

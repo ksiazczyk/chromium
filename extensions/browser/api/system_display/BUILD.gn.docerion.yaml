@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the system_display extension API
+summary: Defines GN source sets for the system.display extension API functions and the display info provider, with their dependencies in the extensions browser code.

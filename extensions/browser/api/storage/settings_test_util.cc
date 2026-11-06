@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Settings API test utilities implementation
+// summary: Implements helpers for extension settings API tests, creating sized test data, fetching storage areas and registering test extensions.
+// ---
+
 #include "extensions/browser/api/storage/settings_test_util.h"
 
 #include <memory>

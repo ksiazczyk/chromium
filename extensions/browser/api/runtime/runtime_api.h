@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RuntimeAPI class declaration
+// summary: Declares the browser-context-keyed RuntimeAPI class that dispatches runtime events to extensions and manages reloads, updates, options pages, and restart-after-delay requests.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_RUNTIME_RUNTIME_API_H_
 #define EXTENSIONS_BROWSER_API_RUNTIME_RUNTIME_API_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension web request event router header
+// summary: Declares the WebRequestEventRouter KeyedService, its event types, and the mojom::WebRequestHost interface for routing web request events.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_WEB_REQUEST_EXTENSION_WEB_REQUEST_EVENT_ROUTER_H_
 #define EXTENSIONS_BROWSER_API_WEB_REQUEST_EXTENSION_WEB_REQUEST_EVENT_ROUTER_H_
 

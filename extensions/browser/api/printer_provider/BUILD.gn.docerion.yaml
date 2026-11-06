@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the printer_provider extension API
+summary: GN build definition that creates the printer_provider source set, listing its sources and its public and internal dependencies.

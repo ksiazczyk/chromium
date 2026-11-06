@@ -4,6 +4,12 @@
 
 // Helper classes and functions used for the WebRequest API.
 
+// ---docerion
+// type: source
+// title: WebRequest API helper classes and functions
+// summary: Declares helper classes and functions for the extensions WebRequest API, including request and response header type enums, ExtraInfoSpec, and IgnoredAction used across web request handling.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_WEB_REQUEST_WEB_REQUEST_API_HELPERS_H_
 #define EXTENSIONS_BROWSER_API_WEB_REQUEST_WEB_REQUEST_API_HELPERS_H_
 

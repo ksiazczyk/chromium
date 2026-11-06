@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SerialConnection class declaration
+// summary: Declares the SerialConnection API resource that wraps a Mojo SerialPort remote for an open serial port, with callbacks for its asynchronous operations.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_SERIAL_SERIAL_CONNECTION_H_
 #define EXTENSIONS_BROWSER_API_SERIAL_SERIAL_CONNECTION_H_
 

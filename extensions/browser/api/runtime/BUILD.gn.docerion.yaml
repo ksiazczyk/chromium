@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the runtime API source set
+summary: Defines the runtime source set for the extensions browser runtime API, listing its sources and its public and private dependencies.

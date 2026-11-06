@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App firewall hole manager header
+// summary: Declares AppFirewallHole and AppFirewallHoleManager, which track firewall ports opened by apps and keep them open only while the app has a visible window.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_SOCKET_APP_FIREWALL_HOLE_MANAGER_H_
 #define EXTENSIONS_BROWSER_API_SOCKET_APP_FIREWALL_HOLE_MANAGER_H_
 

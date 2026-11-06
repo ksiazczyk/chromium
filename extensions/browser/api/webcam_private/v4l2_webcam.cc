@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V4L2 webcam PTZ implementation
+// summary: Controls V4L2 webcams through ioctl calls, including UVC extension unit mappings for Logitech CC3000e and Aver motor and preset controls.
+// ---
+
 #include "extensions/browser/api/webcam_private/v4l2_webcam.h"
 
 #include <errno.h>

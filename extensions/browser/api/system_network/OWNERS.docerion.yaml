@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the system_network API directory
+summary: Designates code owners for the directory by referencing the apps directory OWNERS file.

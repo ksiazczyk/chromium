@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IP webcam PTZ implementation
+// summary: Implements the IpWebcam PTZ controls by delegating pan, tilt and zoom calls to the IP peripheral D-Bus service client and stubbing unsupported features.
+// ---
+
 #include "extensions/browser/api/webcam_private/ip_webcam.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ExtensionWebRequestTimeTracker
+// summary: Verifies that ExtensionWebRequestTimeTracker records the expected UMA histograms for network delay, request time and blocking time.
+// ---
+
 #include "extensions/browser/api/web_request/web_request_time_tracker.h"
 
 #include <stddef.h>

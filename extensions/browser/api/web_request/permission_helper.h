@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PermissionHelper keyed service declaration
+// summary: Declares the PermissionHelper keyed service, an intermediate service that declares dependencies needed for WebRequest permissions and exposes process map and registry access.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_WEB_REQUEST_PERMISSION_HELPER_H_
 #define EXTENSIONS_BROWSER_API_WEB_REQUEST_PERMISSION_HELPER_H_
 

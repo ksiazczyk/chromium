@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the sockets_udp target
+summary: GN build rules that define the sockets_udp source set with its sources and public and private dependencies for the extension UDP socket API.

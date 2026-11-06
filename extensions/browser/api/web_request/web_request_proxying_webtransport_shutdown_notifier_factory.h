@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebTransport proxy shutdown notifier factory header
+// summary: Declares a shutdown notifier factory that lets WebTransport proxies destroy themselves before the browser context pointer becomes invalid, preventing use-after-free.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_WEB_REQUEST_WEB_REQUEST_PROXYING_WEBTRANSPORT_SHUTDOWN_NOTIFIER_FACTORY_H_
 #define EXTENSIONS_BROWSER_API_WEB_REQUEST_WEB_REQUEST_PROXYING_WEBTRANSPORT_SHUTDOWN_NOTIFIER_FACTORY_H_
 

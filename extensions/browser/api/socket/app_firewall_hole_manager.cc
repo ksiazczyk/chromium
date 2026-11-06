@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App firewall hole manager implementation
+// summary: Implements the keyed service factory and logic that opens and closes Chrome OS firewall holes for extension apps based on window visibility.
+// ---
+
 #include "extensions/browser/api/socket/app_firewall_hole_manager.h"
 
 #include <utility>

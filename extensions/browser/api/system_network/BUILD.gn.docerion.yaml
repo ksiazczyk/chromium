@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for system_network
+summary: GN build configuration defining the system_network source set with its sources and dependencies on content and the extensions common API.

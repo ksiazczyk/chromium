@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Form data parser fuzzer
+// summary: Fuzz target that feeds random headers and sources into FormDataParser to find crashes in form data parsing.
+// ---
+
 #include "extensions/browser/api/web_request/form_data_parser.h"
 
 #include <fuzzer/FuzzedDataProvider.h>

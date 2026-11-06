@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: USB API directory metadata
+summary: Maps the USB extension API directory to the Platform>Extensions>API monorail component and Buganizer component 1456781 for issue tracking.

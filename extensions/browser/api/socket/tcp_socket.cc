@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TCP socket implementation for extension socket APIs
+// summary: Implements TCPSocket and related resumable TCP socket classes, including connect, listen, accept, TLS version parsing, and data transfer via the mojo data pump.
+// ---
+
 #include "extensions/browser/api/socket/tcp_socket.h"
 
 #include <utility>

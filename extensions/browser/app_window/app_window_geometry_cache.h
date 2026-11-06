@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App window geometry cache header
+// summary: Declares AppWindowGeometryCache, a keyed service that saves and retrieves persisted geometry, screen bounds, and show state for extension app windows.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_APP_WINDOW_APP_WINDOW_GEOMETRY_CACHE_H_
 #define EXTENSIONS_BROWSER_APP_WINDOW_APP_WINDOW_GEOMETRY_CACHE_H_
 

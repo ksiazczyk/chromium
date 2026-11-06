@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StorageInfoProvider implementation
+// summary: Implements the singleton provider that collects storage device info and free disk space through StorageMonitor for the system.storage API.
+// ---
+
 #include "extensions/browser/api/system_storage/storage_info_provider.h"
 
 #include "base/system/sys_info.h"

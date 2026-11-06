@@ -4,6 +4,12 @@
 
 // Constants used for the WebRequest API.
 
+// ---docerion
+// type: source
+// title: WebRequest API constants declarations
+// summary: Declares string constants for webRequest API keys, event names, stages, and error messages shared by the webRequest implementation.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_WEB_REQUEST_WEB_REQUEST_API_CONSTANTS_H_
 #define EXTENSIONS_BROWSER_API_WEB_REQUEST_WEB_REQUEST_API_CONSTANTS_H_
 

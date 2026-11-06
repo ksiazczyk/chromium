@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SerialConnection implementation
+// summary: Implements the SerialConnection class, converting Mojo serial enums and handling open, send, receive, flush, and control-signal operations for a port.
+// ---
+
 #include "extensions/browser/api/serial/serial_connection.h"
 
 #include <algorithm>

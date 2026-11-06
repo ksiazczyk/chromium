@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Socket extension API function implementations
+// summary: Implements the chrome.socket and chrome.sockets API functions, covering socket lookup, DNS resolution, permission checks, port validation, and ChromeOS firewall hole handling for extension sockets.
+// ---
+
 #include "extensions/browser/api/socket/socket_api.h"
 
 #include <memory>

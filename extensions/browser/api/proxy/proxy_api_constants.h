@@ -4,6 +4,12 @@
 
 // Constants for the Chrome Extensions Proxy Settings API.
 
+// ---docerion
+// type: source
+// title: Proxy API constant declarations
+// summary: Declares the string constants for proxy configuration dictionary keys shared across the API.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_PROXY_PROXY_API_CONSTANTS_H_
 #define EXTENSIONS_BROWSER_API_PROXY_PROXY_API_CONSTANTS_H_
 

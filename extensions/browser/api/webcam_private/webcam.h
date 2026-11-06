@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Webcam base class and WebcamResource header
+// summary: Declares the abstract Webcam interface for pan, tilt, zoom, focus, preset and reset operations, plus the WebcamResource ApiResource wrapper that binds a webcam to an extension.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_WEBCAM_PRIVATE_WEBCAM_H_
 #define EXTENSIONS_BROWSER_API_WEBCAM_PRIVATE_WEBCAM_H_
 

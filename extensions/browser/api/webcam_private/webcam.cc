@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Webcam base class and resource
+// summary: Defines the Webcam base class and the WebcamResource API resource that associates a webcam with its owning extension and ID.
+// ---
+
 #include "extensions/browser/api/webcam_private/webcam.h"
 
 namespace extensions {

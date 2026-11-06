@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the system_storage extension API
+summary: GN build file defining the system_storage source set with its sources and dependencies for the system.storage extension API.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRequest API helper functions implementation
+// summary: Implements helper functions for the webRequest API, including cookie lifetime parsing, header modification tracking, and declarativeNetRequest action handling.
+// ---
+
 #include "extensions/browser/api/web_request/web_request_api_helpers.h"
 
 #include <stddef.h>

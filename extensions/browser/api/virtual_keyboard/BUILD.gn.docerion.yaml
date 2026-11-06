@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the virtual keyboard extension API
+summary: Defines the virtual_keyboard source_set with its sources and dependencies for ChromeOS extension builds.

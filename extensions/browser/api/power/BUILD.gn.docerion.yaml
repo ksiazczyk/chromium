@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the power extension API
+summary: Defines the power source_set listing power_api sources, ChromeOS-only activity reporter delegate files, and their build dependencies.

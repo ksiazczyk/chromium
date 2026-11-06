@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the system_cpu API
+summary: Defines the system_cpu source_set for the extensions browser CPU API, listing shared sources, platform-specific provider files, and dependencies.

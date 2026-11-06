@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the MemoryInfoProvider class
+// summary: Implements MemoryInfoProvider, a singleton that queries total and available physical memory via base::SysInfo and supports test initialization.
+// ---
+
 #include "extensions/browser/api/system_memory/memory_info_provider.h"
 
 #include "base/byte_size.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the virtual keyboard private API
+// summary: Tests the virtualKeyboardPrivate API functions using a mock delegate and a test extensions API client.
+// ---
+
 #include "extensions/browser/api/virtual_keyboard_private/virtual_keyboard_private_api.h"
 
 #include <memory>

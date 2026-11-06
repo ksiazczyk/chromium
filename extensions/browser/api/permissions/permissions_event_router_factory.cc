@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the permissions event router factory
+// summary: Implements the BrowserContextKeyedServiceFactory that builds PermissionsEventRouter instances with dependencies on the event router and permissions manager.
+// ---
+
 #include "extensions/browser/api/permissions/permissions_event_router_factory.h"
 
 #include "base/no_destructor.h"

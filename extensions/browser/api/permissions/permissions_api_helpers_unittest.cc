@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the permissions API helpers
+// summary: Unit tests covering packing and unpacking of permission sets, origin patterns, error cases, and usbDevices permission arguments.
+// ---
+
 #include "extensions/browser/api/permissions/permissions_api_helpers.h"
 
 #include <stddef.h>

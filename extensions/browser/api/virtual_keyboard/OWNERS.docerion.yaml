@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the virtual_keyboard directory
+summary: Lists the directory owner and points to the ash keyboard OWNERS file for review routing.

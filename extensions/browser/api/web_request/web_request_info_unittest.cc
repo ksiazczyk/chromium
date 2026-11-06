@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebRequestInfo unit tests
+// summary: Unit tests for WebRequestInfo covering request body creation from file uploads and correct classification of guest worker requests as web view requests.
+// ---
+
 #include "extensions/browser/api/web_request/web_request_info.h"
 
 #include "base/files/scoped_temp_dir.h"

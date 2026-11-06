@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Storage API unit tests
+// summary: Unit tests for the chrome.storage extension functions, using fake ValueStores, a test StorageFrontend and event router observers.
+// ---
+
 #include "extensions/browser/api/storage/storage_api.h"
 
 #include <stdint.h>

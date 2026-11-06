@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Socket base class implementation
+// summary: Implements the base Socket API resource, including write queuing, keep-alive and no-delay defaults, and IP endpoint helpers for extension sockets.
+// ---
+
 #include "extensions/browser/api/socket/socket.h"
 
 #include "base/functional/bind.h"

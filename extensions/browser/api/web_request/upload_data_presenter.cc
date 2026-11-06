@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Upload data presenter implementation
+// summary: Implements RawDataPresenter and ParsedDataPresenter, which convert request upload data into base::Value results either as raw bytes and file paths or as parsed form fields.
+// ---
+
 #include "extensions/browser/api/web_request/upload_data_presenter.h"
 
 #include <string_view>

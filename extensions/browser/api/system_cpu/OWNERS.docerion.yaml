@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the system_cpu API directory
+summary: Lists ningxin.hu@intel.com as the code owner of the system_cpu API directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VISCA webcam serial protocol implementation
+// summary: Implements PTZ control of VISCA cameras over a serial connection, defining command bytes for pan, tilt, zoom, focus and preset operations.
+// ---
+
 #include "extensions/browser/api/webcam_private/visca_webcam.h"
 
 #include <stddef.h>

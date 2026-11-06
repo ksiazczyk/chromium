@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Settings API test utilities header
+// summary: Declares helpers for extension settings API tests, including synchronous storage access and creation of test extensions with permissions.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_STORAGE_SETTINGS_TEST_UTIL_H_
 #define EXTENSIONS_BROWSER_API_STORAGE_SETTINGS_TEST_UTIL_H_
 

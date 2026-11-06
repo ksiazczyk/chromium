@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the virtualKeyboardPrivate extension API
+// summary: Implements the virtualKeyboardPrivate extension functions, including clipboard history item conversion, error strings, and delegate dispatch.
+// ---
+
 #include "extensions/browser/api/virtual_keyboard_private/virtual_keyboard_private_api.h"
 
 #include <optional>

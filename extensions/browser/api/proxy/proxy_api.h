@@ -5,6 +5,12 @@
 // Defines the Chrome Extensions Proxy Settings API relevant classes to realize
 // the API as specified in the extension API JSON.
 
+// ---docerion
+// type: source
+// title: ProxyEventRouter class declaration
+// summary: Declares the ProxyEventRouter singleton that routes proxy error events to listening extensions.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_PROXY_PROXY_API_H_
 #define EXTENSIONS_BROWSER_API_PROXY_PROXY_API_H_
 

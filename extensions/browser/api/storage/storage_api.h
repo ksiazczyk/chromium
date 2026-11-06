@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Storage extension API class declarations
+// summary: Declares SettingsFunction and the chrome.storage area extension function classes for get, getKeys, set, remove, clear and getBytesInUse.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_STORAGE_STORAGE_API_H_
 #define EXTENSIONS_BROWSER_API_STORAGE_STORAGE_API_H_
 

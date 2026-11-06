@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System network API header (system_network_api.h)
+// summary: Declares the SystemNetworkGetNetworkInterfacesFunction extension function backing the system.network.getNetworkInterfaces API.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_SYSTEM_NETWORK_SYSTEM_NETWORK_API_H_
 #define EXTENSIONS_BROWSER_API_SYSTEM_NETWORK_SYSTEM_NETWORK_API_H_
 

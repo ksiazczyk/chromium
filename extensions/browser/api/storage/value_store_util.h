@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Value store utility functions header
+// summary: Declares helpers that locate, create, delete and check ValueStore settings storage directories for extensions by settings namespace, model type and extension ID.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_STORAGE_VALUE_STORE_UTIL_H_
 #define EXTENSIONS_BROWSER_API_STORAGE_VALUE_STORE_UTIL_H_
 

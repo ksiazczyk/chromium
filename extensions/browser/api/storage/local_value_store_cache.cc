@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local value store cache implementation
+// summary: Implements the ValueStoreCache for the LOCAL namespace, creating quota-enforced per-extension stores and bypassing quota for extensions with the unlimited storage permission.
+// ---
+
 #include "extensions/browser/api/storage/local_value_store_cache.h"
 
 #include <stddef.h>

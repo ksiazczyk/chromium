@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App window geometry cache implementation
+// summary: Implements a keyed service that caches app window geometry per extension and window, evicting old entries and syncing changes to storage after a delay.
+// ---
+
 #include "extensions/browser/app_window/app_window_geometry_cache.h"
 
 #include <stdint.h>

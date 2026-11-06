@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppWebContentsHelper implementation
+// summary: Implements URL opening, pointer lock and media access permission handling for app window web contents on behalf of the app delegate.
+// ---
+
 #include "extensions/browser/app_window/app_web_contents_helper.h"
 
 #include "base/strings/stringprintf.h"

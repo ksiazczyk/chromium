@@ -11,6 +11,12 @@
 // caught this error before. In all other cases we are dealing with internal
 // errors and log to LOG(ERROR).
 
+// ---docerion
+// type: source
+// title: Proxy API helper function implementations
+// summary: Implements conversion between extension proxy preferences and browser proxy configuration, including PAC data URL handling.
+// ---
+
 #include "extensions/browser/api/proxy/proxy_api_helpers.h"
 
 #include <stddef.h>

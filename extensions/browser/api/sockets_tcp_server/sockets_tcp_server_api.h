@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: sockets.tcpServer API function class declarations
+// summary: Declares the extension API function classes for sockets.tcpServer, covering create, update, setPaused, listen, disconnect, close, getInfo, and getSockets operations.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_SOCKETS_TCP_SERVER_SOCKETS_TCP_SERVER_API_H_
 #define EXTENSIONS_BROWSER_API_SOCKETS_TCP_SERVER_SOCKETS_TCP_SERVER_API_H_
 
