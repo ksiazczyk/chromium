@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FilteredOfflineItemObserver implementation
+// summary: Implements registration and removal of per-item observers and forwards item update and removal events from the observed OfflineContentProvider.
+// ---
+
 #include "components/offline_items_collection/core/filtered_offline_item_observer.h"
 #include <utility>
 #include "base/observer_list.h"

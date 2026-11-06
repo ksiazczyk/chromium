@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declarations of NTP tile constants
+// summary: Declares New Tab Page tile constants such as the AI Mode tile URL and the maximum tile and custom link counts.
+// ---
+
 #ifndef COMPONENTS_NTP_TILES_CONSTANTS_H_
 #define COMPONENTS_NTP_TILES_CONSTANTS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTP tile section type enum
+// summary: Defines the SectionType enum ranking NTP tile sections such as personalized, social, news and travel from most to least important.
+// ---
+
 #ifndef COMPONENTS_NTP_TILES_SECTION_TYPE_H_
 #define COMPONENTS_NTP_TILES_SECTION_TYPE_H_
 

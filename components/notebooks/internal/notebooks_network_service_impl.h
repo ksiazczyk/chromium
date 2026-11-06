@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notebooks network service header
+// summary: Declares the internal NotebooksNetworkService implementation for creating and listing notebooks over the network.
+// ---
+
 #ifndef COMPONENTS_NOTEBOOKS_INTERNAL_NOTEBOOKS_NETWORK_SERVICE_IMPL_H_
 #define COMPONENTS_NOTEBOOKS_INTERNAL_NOTEBOOKS_NETWORK_SERVICE_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notebooks eligibility service implementation
+// summary: Implements NotebooksEligibilityServiceImpl, computing eligibility from profile state, the kNotebooks feature and sign-in, and notifying observers on changes.
+// ---
+
 #include "components/notebooks/internal/notebooks_eligibility_service_impl.h"
 
 #include "base/feature_list.h"

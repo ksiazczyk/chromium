@@ -1,0 +1,4 @@
+# Docerion header of default_popular_sites_with_popular_apps.json.
+type: data
+title: Default popular sites with popular apps
+summary: Default new tab page tile list that includes popular apps such as Wordle, Amazon, Facebook and YouTube, each with title, URL, icon and title source.

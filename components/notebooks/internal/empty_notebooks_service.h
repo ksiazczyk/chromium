@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Empty notebooks service header
+// summary: Declares EmptyNotebooksService, an empty NotebooksService implementation for use when the Notebooks feature is disabled.
+// ---
+
 #ifndef COMPONENTS_NOTEBOOKS_INTERNAL_EMPTY_NOTEBOOKS_SERVICE_H_
 #define COMPONENTS_NOTEBOOKS_INTERNAL_EMPTY_NOTEBOOKS_SERVICE_H_
 

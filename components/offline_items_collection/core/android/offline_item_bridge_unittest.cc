@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Offline item bridge unit tests
+// summary: Unit test verifying that the JNI bridge creates a default Java OfflineItem from a native OfflineItem via a Java-side test counterpart.
+// ---
+
 #include "components/offline_items_collection/core/android/offline_item_bridge.h"
 
 #include "base/android/jni_android.h"

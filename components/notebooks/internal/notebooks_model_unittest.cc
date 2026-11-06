@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Notebooks model unit tests
+// summary: Unit tests for NotebooksModel covering initial state, loading, add, update, remove, lookup and observer notification behaviour.
+// ---
+
 #include "components/notebooks/internal/notebooks_model.h"
 
 #include <optional>

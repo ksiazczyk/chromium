@@ -1,0 +1,4 @@
+# Docerion header of tile_type.mojom.
+type: source
+title: TileType Mojom enum
+summary: Defines the TileType Mojom enum categorizing NTP tiles as top sites, custom links or enterprise shortcuts for tracking and display.

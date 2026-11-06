@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notebooks model observer interface
+// summary: Declares the NotebooksModelObserver interface for receiving model loaded, added, updated and removed notifications.
+// ---
+
 #ifndef COMPONENTS_NOTEBOOKS_INTERNAL_NOTEBOOKS_MODEL_OBSERVER_H_
 #define COMPONENTS_NOTEBOOKS_INTERNAL_NOTEBOOKS_MODEL_OBSERVER_H_
 

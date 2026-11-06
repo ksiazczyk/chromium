@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for Notebooks Internals WebUI
+summary: Lists allowed include rules for the Notebooks Internals WebUI directory, covering generated resources, content browser APIs, Mojo bindings, and ui/webui.

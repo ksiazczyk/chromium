@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Offline content aggregator bridge implementation
+// summary: Implements the JNI bridge exposing the native OfflineContentAggregator to Java, forwarding item actions and delivering visuals, share info and item list callbacks.
+// ---
+
 #include "components/offline_items_collection/core/android/offline_content_aggregator_bridge.h"
 
 #include <memory>

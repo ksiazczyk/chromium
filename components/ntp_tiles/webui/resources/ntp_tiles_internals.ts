@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTP Tiles Internals page logic
+// summary: Lit-based TypeScript module that renders tile source and site state and lets users override popular sites settings on the internals page.
+// ---
+
 // <if expr="is_ios">
 import 'chrome://resources/js/ios/web_ui.js';
 

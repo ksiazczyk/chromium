@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for CustomLinksStore
+// summary: Unit tests verifying storing, retrieving and clearing custom links, persistence across shutdown and that the mobile scope uses its own pref key.
+// ---
+
 #include "components/ntp_tiles/custom_links_store.h"
 
 #include <stdint.h>

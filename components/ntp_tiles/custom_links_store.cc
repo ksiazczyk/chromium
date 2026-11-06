@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Custom links preference store implementation
+// summary: Implements reading, storing and clearing custom links in the profile's syncable preference list, clearing data on invalid entries and recording first-load metrics.
+// ---
+
 #include "components/ntp_tiles/custom_links_store.h"
 
 #include <stdint.h>

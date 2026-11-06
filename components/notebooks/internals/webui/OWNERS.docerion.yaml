@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS rules for Notebooks Internals WebUI
+summary: Sets review ownership rules for the directory, requiring IPC security owners to approve changes to .mojom files.

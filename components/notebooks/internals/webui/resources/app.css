@@ -6,6 +6,12 @@
  * #type=style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: CSS styles for the notebooks internals app
+summary: Lit style wrapper that lays out the page and styles its tables, including green and red classes for valid and invalid values.
+*/
+
 :host {
   display: block;
   padding: 16px;

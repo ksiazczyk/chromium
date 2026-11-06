@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for new or sad tab strings
+summary: Sets the owning team email and public Buganizer component for the new or sad tab strings directory.

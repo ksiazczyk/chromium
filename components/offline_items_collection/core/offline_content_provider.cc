@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OfflineContentProvider implementation
+// summary: Implements observer management and notification helpers for the OfflineContentProvider base class.
+// ---
+
 #include "components/offline_items_collection/core/offline_content_provider.h"
 #include "base/observer_list.h"
 

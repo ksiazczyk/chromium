@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShareCallback interface for share info responses
+// summary: Java callback interface counterpart of the C++ ShareCallback that delivers the OfflineItemShareInfo associated with a ContentId.
+// ---
+
 package org.chromium.components.offline_items_collection;
 
 import org.chromium.build.annotations.NullMarked;

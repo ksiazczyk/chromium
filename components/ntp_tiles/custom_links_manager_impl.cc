@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Custom links manager implementation
+// summary: Implements the CustomLinksManager interface for adding, updating, reordering and deleting custom New Tab Page links, persisted in profile preferences with AI Mode tile support.
+// ---
+
 #include "components/ntp_tiles/custom_links_manager_impl.h"
 
 #include <algorithm>

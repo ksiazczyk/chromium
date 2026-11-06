@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Definitions of NTP tile limits
+// summary: Defines platform-dependent limits for custom links and Most Visited tiles shown on the New Tab Page.
+// ---
+
 #include "components/ntp_tiles/constants.h"
 
 #include "build/build_config.h"

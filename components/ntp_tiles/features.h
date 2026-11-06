@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTP tiles feature flag declarations
+// summary: Declares NTP tiles feature flags, the AimButtonRefactorArm enum and the PopularSites field trial name used to configure the New Tab Page.
+// ---
+
 #ifndef COMPONENTS_NTP_TILES_FEATURES_H_
 #define COMPONENTS_NTP_TILES_FEATURES_H_
 

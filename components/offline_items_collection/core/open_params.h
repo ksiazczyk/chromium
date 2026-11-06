@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenParams definition
+// summary: Defines the OpenParams struct holding the launch location and incognito flag used when opening an OfflineItem.
+// ---
+
 #ifndef COMPONENTS_OFFLINE_ITEMS_COLLECTION_CORE_OPEN_PARAMS_H_
 #define COMPONENTS_OFFLINE_ITEMS_COLLECTION_CORE_OPEN_PARAMS_H_
 

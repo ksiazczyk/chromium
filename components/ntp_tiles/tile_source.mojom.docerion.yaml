@@ -1,0 +1,4 @@
+# Docerion header of tile_source.mojom.
+type: source
+title: TileSource Mojom enum
+summary: Defines the TileSource Mojom enum listing NTP tile origins such as top sites, popular, custom links, allowlist, homepage and enterprise shortcuts.

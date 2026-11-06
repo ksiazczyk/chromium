@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NoStatePrefetch utility functions implementation
+// summary: Implements NoStatePrefetch helpers that validate URL schemes and HTTP methods and compose prerender histogram names.
+// ---
+
 #include "components/no_state_prefetch/common/no_state_prefetch_utils.h"
 
 #include "base/metrics/histogram.h"

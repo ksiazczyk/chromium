@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: NoStatePrefetch common include dependency rules
+summary: Specifies allowed include dependencies for the NoStatePrefetch common directory, with an extra rule for the URL loader throttle.

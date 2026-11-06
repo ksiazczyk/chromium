@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notebooks Internals page handler implementation
+// summary: Implements the Notebooks Internals page handler that reports Notebooks feature flag state and profile eligibility and notifies the page of eligibility changes.
+// ---
+
 #include "components/notebooks/internals/webui/notebooks_internals_page_handler.h"
 
 #include <utility>

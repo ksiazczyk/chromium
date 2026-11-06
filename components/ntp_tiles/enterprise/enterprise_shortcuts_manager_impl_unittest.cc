@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for EnterpriseShortcutsManagerImpl
+// summary: Tests the enterprise shortcuts manager behavior, including loading policy links on startup and update, reorder, delete and undo operations under various permissions.
+// ---
+
 #include "components/ntp_tiles/enterprise/enterprise_shortcuts_manager_impl.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTPTile struct definition
+// summary: Defines the NTPTile struct representing a suggested site shown on the New Tab Page, including title, URL, favicon, and edit or delete permissions.
+// ---
+
 #ifndef COMPONENTS_NTP_TILES_NTP_TILE_H_
 #define COMPONENTS_NTP_TILES_NTP_TILE_H_
 

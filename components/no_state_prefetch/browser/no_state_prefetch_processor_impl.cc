@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NoStatePrefetchProcessorImpl browser-side implementation
+// summary: Implements the browser-side NoStatePrefetchProcessor mojo interface, validating initiator and referrer origins before starting or canceling prefetch.
+// ---
+
 #include "components/no_state_prefetch/browser/no_state_prefetch_processor_impl.h"
 
 #include "components/no_state_prefetch/browser/no_state_prefetch_link_manager.h"

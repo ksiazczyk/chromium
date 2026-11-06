@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTPTileImpression struct definition
+// summary: Defines the NTPTileImpression struct capturing tile impression details such as index, source, visual type, and icon type for usage metrics.
+// ---
+
 #ifndef COMPONENTS_NTP_TILES_NTP_TILE_IMPRESSION_H_
 #define COMPONENTS_NTP_TILES_NTP_TILE_IMPRESSION_H_
 

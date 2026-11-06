@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Offline item bridge implementation
+// summary: Implements conversion of native OfflineItem structs into Java OfflineItem objects, including data URL truncation and creation of item lists for JNI use.
+// ---
+
 #include "components/offline_items_collection/core/android/offline_item_bridge.h"
 
 #include "base/android/jni_string.h"

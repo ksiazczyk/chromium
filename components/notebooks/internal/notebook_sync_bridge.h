@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notebook sync bridge header
+// summary: Declares NotebookSyncBridge, the sync bridge for the NOTEBOOK data type that links the sync engine to the notebooks model and store.
+// ---
+
 #ifndef COMPONENTS_NOTEBOOKS_INTERNAL_NOTEBOOK_SYNC_BRIDGE_H_
 #define COMPONENTS_NOTEBOOKS_INTERNAL_NOTEBOOK_SYNC_BRIDGE_H_
 

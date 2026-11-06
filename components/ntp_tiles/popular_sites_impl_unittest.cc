@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PopularSitesImpl unit tests
+// summary: Unit tests for PopularSitesImpl covering fetch behavior, country and version overrides, caching, and parsing of popular sites JSON.
+// ---
+
 #include "components/ntp_tiles/popular_sites_impl.h"
 
 #include <map>

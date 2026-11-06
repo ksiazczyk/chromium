@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Notebooks service implementation unit tests
+// summary: Unit tests for NotebooksServiceImpl covering sync bridge setup, remote add and update changes, and observer notifications for notebook model events.
+// ---
+
 #include "components/notebooks/internal/notebooks_service_impl.h"
 
 #include <memory>

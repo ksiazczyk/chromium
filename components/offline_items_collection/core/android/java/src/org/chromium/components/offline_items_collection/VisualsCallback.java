@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VisualsCallback interface for offline item visuals
+// summary: Java interface mirroring the C++ offline_items_collection::VisualsCallback, invoked with a ContentId and its associated OfflineItemVisuals when visuals become available.
+// ---
+
 package org.chromium.components.offline_items_collection;
 
 import org.chromium.build.annotations.NullMarked;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NoStatePrefetchLinkManager class header
+// summary: Declares NoStatePrefetchLinkManager, a keyed service that receives renderer messages about link elements and controls the NoStatePrefetchManager accordingly.
+// ---
+
 #ifndef COMPONENTS_NO_STATE_PREFETCH_BROWSER_NO_STATE_PREFETCH_LINK_MANAGER_H_
 #define COMPONENTS_NO_STATE_PREFETCH_BROWSER_NO_STATE_PREFETCH_LINK_MANAGER_H_
 

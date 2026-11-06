@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenParams for opening an OfflineItem
+// summary: Parameter class for opening an OfflineItem, carrying the launch location and whether the item should be opened in incognito mode.
+// ---
+
 package org.chromium.components.offline_items_collection;
 
 import org.chromium.build.annotations.NullMarked;

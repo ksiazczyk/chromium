@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LaunchLocation enum of item launch origins
+// summary: Defines the LaunchLocation enum indicating where an offline item is launched from, such as download home, notification, progress bar, or download bubble.
+// ---
+
 #ifndef COMPONENTS_OFFLINE_ITEMS_COLLECTION_CORE_LAUNCH_LOCATION_H_
 #define COMPONENTS_OFFLINE_ITEMS_COLLECTION_CORE_LAUNCH_LOCATION_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Offline item share info bridge implementation
+// summary: Implements creation of Java OfflineItemShareInfo objects from the native share info, passing the share URI to Java.
+// ---
+
 #include "components/offline_items_collection/core/android/offline_item_share_info_bridge.h"
 
 #include "base/android/jni_string.h"

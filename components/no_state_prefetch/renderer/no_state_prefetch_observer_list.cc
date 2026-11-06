@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NoStatePrefetchObserverList implementation
+// summary: Implements attaching the observer list to a RenderFrame as user data and notifying observers of prefetching state changes.
+// ---
+
 #include "components/no_state_prefetch/renderer/no_state_prefetch_observer_list.h"
 
 #include "base/memory/ptr_util.h"

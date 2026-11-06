@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OfflineItem data class for offline content metadata
+// summary: Java counterpart of the C++ OfflineItem class holding display, content, request and progress metadata for an offline item, including a nested Progress class with indeterminate and percentage helpers.
+// ---
+
 package org.chromium.components.offline_items_collection;
 
 import org.chromium.build.annotations.NullMarked;

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the notebooks internals WebUI resources
+summary: Defines the build_webui target that compiles the notebooks internals page from its HTML, CSS, TypeScript files and generated Mojo bindings.

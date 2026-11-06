@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTP tiles internals WebUI message handler implementation
+// summary: Implements the WebUI message handler for the New Tab Page tiles internals debug page, registering callbacks for events, tile updates, and popular sites JSON, and sending tile and favicon data to the page.
+// ---
+
 #include "components/ntp_tiles/webui/ntp_tiles_internals_message_handler.h"
 
 #include <array>

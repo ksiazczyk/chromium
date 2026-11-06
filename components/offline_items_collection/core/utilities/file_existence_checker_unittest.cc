@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FileExistenceChecker unit tests
+// summary: gtest unit tests verifying that FileExistenceChecker reports no missing files when all test files exist and correctly identifies deleted files using a temp directory and test task runner.
+// ---
+
 #include "components/offline_items_collection/core/utilities/file_existence_checker.h"
 
 #include <vector>

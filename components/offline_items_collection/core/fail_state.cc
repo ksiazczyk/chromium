@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FailState enum validation implementation
+// summary: Implements ToFailState, which checks whether an integer value is a valid FailState enum value and writes it to the output parameter.
+// ---
+
 #include "components/offline_items_collection/core/fail_state.h"
 
 namespace offline_items_collection {

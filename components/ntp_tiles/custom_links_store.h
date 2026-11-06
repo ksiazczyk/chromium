@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CustomLinksStore class declaration
+// summary: Declares a helper class that reads, writes and clears custom link data in profile preferences, with scope-based pref key selection.
+// ---
+
 #ifndef COMPONENTS_NTP_TILES_CUSTOM_LINKS_STORE_H_
 #define COMPONENTS_NTP_TILES_CUSTOM_LINKS_STORE_H_
 

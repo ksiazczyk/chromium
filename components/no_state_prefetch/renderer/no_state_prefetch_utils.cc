@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: No-state prefetch media load deferral utilities
+// summary: Implements utilities that defer media player loading in background or prefetched pages until they become visible, unless media has played before.
+// ---
+
 #include "components/no_state_prefetch/renderer/no_state_prefetch_utils.h"
 
 #include "base/memory/weak_ptr.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ThrottledOfflineContentProvider
+// summary: Unit tests verifying passthrough, throttling, and coalescing of item updates in ThrottledOfflineContentProvider using mock providers and a mock time task runner.
+// ---
+
 #include "base/memory/raw_ptr.h"
 #include "components/offline_items_collection/core/offline_content_aggregator.h"
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NoStatePrefetchManager implementation
+// summary: Implements the core no-state prefetch manager that initiates and maintains prerendered views, including periodic cleanup, history and preloading attempt reporting.
+// ---
+
 #include "components/no_state_prefetch/browser/no_state_prefetch_manager.h"
 
 #include <stddef.h>

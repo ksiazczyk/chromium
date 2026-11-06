@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock offline content provider implementation
+// summary: Implements MockOfflineContentProvider behavior including stored items, optional visuals overrides, notification helpers and asynchronous item lookup callbacks.
+// ---
+
 #include "components/offline_items_collection/core/test_support/mock_offline_content_provider.h"
 
 #include "base/functional/bind.h"

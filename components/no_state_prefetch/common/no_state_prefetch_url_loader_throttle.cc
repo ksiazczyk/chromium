@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NoStatePrefetch URL loader throttle implementation
+// summary: Implements the NoStatePrefetch URL loader throttle that marks requests as prefetch, sets Sec-Purpose headers, defers favicons on Android, and cancels invalid requests.
+// ---
+
 #include "components/no_state_prefetch/common/no_state_prefetch_url_loader_throttle.h"
 
 #include "base/functional/bind.h"

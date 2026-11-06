@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UpdateDelta struct declaration
+// summary: Defines the UpdateDelta struct telling observers whether an offline item's state or visuals changed since the last update, with a helper to merge deltas.
+// ---
+
 #ifndef COMPONENTS_OFFLINE_ITEMS_COLLECTION_CORE_UPDATE_DELTA_H_
 #define COMPONENTS_OFFLINE_ITEMS_COLLECTION_CORE_UPDATE_DELTA_H_
 

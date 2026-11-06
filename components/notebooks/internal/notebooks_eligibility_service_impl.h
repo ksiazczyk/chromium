@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notebooks eligibility service header
+// summary: Declares NotebooksEligibilityServiceImpl, the internal NotebooksEligibilityService that observes IdentityManager for account changes.
+// ---
+
 #ifndef COMPONENTS_NOTEBOOKS_INTERNAL_NOTEBOOKS_ELIGIBILITY_SERVICE_IMPL_H_
 #define COMPONENTS_NOTEBOOKS_INTERNAL_NOTEBOOKS_ELIGIBILITY_SERVICE_IMPL_H_
 

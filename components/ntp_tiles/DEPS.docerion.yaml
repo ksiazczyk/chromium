@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for ntp_tiles
+summary: Lists the include rules specifying which Chromium components and directories code in ntp_tiles may depend on.

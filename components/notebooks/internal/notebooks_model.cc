@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notebooks model implementation
+// summary: Implements the in-memory NotebooksModel that stores notebooks by ID and notifies observers of load, add, update and remove changes.
+// ---
+
 #include "components/notebooks/internal/notebooks_model.h"
 
 #include <optional>

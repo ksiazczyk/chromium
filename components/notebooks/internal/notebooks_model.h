@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notebooks model header
+// summary: Declares the NotebooksModel class that manages the in-memory notebook collection and dispatches change notifications to observers.
+// ---
+
 #ifndef COMPONENTS_NOTEBOOKS_INTERNAL_NOTEBOOKS_MODEL_H_
 #define COMPONENTS_NOTEBOOKS_INTERNAL_NOTEBOOKS_MODEL_H_
 

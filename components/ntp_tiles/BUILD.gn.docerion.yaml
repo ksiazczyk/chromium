@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the ntp_tiles component
+summary: Defines the GN build targets, sources and dependencies for the ntp_tiles component, including pref name sets and test support.

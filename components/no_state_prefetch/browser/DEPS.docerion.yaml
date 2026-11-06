@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: NoStatePrefetch browser include rules
+summary: Defines allowed include paths for the browser directory, granting network-service includes only to unit test files.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NoStatePrefetchUtils unit tests
+// summary: Unit tests verifying that IsGoogleOriginURL correctly detects Google homepage and search origins across URL variants.
+// ---
+
 #include "components/no_state_prefetch/browser/no_state_prefetch_utils.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

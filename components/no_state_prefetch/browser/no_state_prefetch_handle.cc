@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NoStatePrefetchHandle implementation
+// summary: Implements the handle used by launchers to observe and query prefetch state, including navigation away, cancellation and load status.
+// ---
+
 #include "components/no_state_prefetch/browser/no_state_prefetch_handle.h"
 
 #include <algorithm>

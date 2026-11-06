@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Offline item test support stream operators
+// summary: Provides ostream operators for OfflineItem, OfflineItemState and FailState so tests print readable item details, defined here to avoid ODR violations.
+// ---
+
 #include <iostream>
 
 #include "base/notreached.h"

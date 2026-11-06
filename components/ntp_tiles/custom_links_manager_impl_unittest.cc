@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for CustomLinksManagerImpl
+// summary: Unit tests covering initialization, link add, update, reorder, delete, undo, AI Mode tile handling and desktop versus mobile pref scopes for custom links.
+// ---
+
 #include "components/ntp_tiles/custom_links_manager_impl.h"
 
 #include <stdint.h>

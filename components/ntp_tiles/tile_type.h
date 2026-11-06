@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TileType alias header
+// summary: Aliases the ntp_tiles TileType type to the Mojom TileType enum categorizing NTP tiles by origin.
+// ---
+
 #ifndef COMPONENTS_NTP_TILES_TILE_TYPE_H_
 #define COMPONENTS_NTP_TILES_TILE_TYPE_H_
 

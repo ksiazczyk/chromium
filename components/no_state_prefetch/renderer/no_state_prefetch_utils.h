@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: No-state prefetch media load deferral declarations
+// summary: Declares DeferMediaLoad and SetShouldDeferMediaLoad, which control whether media loading is postponed for a render frame during no-state prefetch.
+// ---
+
 #ifndef COMPONENTS_NO_STATE_PREFETCH_RENDERER_NO_STATE_PREFETCH_UTILS_H_
 #define COMPONENTS_NO_STATE_PREFETCH_RENDERER_NO_STATE_PREFETCH_UTILS_H_
 

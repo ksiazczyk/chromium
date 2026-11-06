@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PendingState enum
+// summary: Defines the PendingState enum describing why an offline item is pending, such as network or another download.
+// ---
+
 #ifndef COMPONENTS_OFFLINE_ITEMS_COLLECTION_CORE_PENDING_STATE_H_
 #define COMPONENTS_OFFLINE_ITEMS_COLLECTION_CORE_PENDING_STATE_H_
 

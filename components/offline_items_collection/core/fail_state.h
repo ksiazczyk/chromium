@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FailState enum of download failure reasons
+// summary: Defines the FailState enum describing why an offline item failed, covering file, network, server, and user-related causes, with a note that values are persisted.
+// ---
+
 #ifndef COMPONENTS_OFFLINE_ITEMS_COLLECTION_CORE_FAIL_STATE_H_
 #define COMPONENTS_OFFLINE_ITEMS_COLLECTION_CORE_FAIL_STATE_H_
 

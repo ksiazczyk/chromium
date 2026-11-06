@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTP tiles metrics recording implementation
+// summary: Records UMA histograms for NTP tile page impressions, tile impressions, clicks and tile sources such as popular, allowlist and custom links.
+// ---
+
 #include "components/ntp_tiles/metrics.h"
 
 #include <string>

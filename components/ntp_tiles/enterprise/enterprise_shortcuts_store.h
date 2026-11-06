@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EnterpriseShortcutsStore class declaration
+// summary: Declares a helper class for retrieving and persisting enterprise custom links from the profile's preferences, with change callbacks and policy checks.
+// ---
+
 #ifndef COMPONENTS_NTP_TILES_ENTERPRISE_ENTERPRISE_SHORTCUTS_STORE_H_
 #define COMPONENTS_NTP_TILES_ENTERPRISE_ENTERPRISE_SHORTCUTS_STORE_H_
 

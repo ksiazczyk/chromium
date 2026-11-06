@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EnterpriseShortcutsManager interface
+// summary: Declares the interface for managing enterprise-configured NTP custom links, covering retrieval, update, reorder, delete, undo and change notification.
+// ---
+
 #ifndef COMPONENTS_NTP_TILES_ENTERPRISE_ENTERPRISE_SHORTCUTS_MANAGER_H_
 #define COMPONENTS_NTP_TILES_ENTERPRISE_ENTERPRISE_SHORTCUTS_MANAGER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for EmptyNotebooksService
+// summary: Unit tests verifying that the empty service reports emptiness, returns nullopt for a notebook lookup and an empty notebook list.
+// ---
+
 #include "components/notebooks/internal/empty_notebooks_service.h"
 
 #include <memory>

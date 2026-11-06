@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NoStatePrefetchLinkManager implementation
+// summary: Implements handling of link rel=prerender elements, starting, canceling and abandoning link triggers that drive no-state prefetch.
+// ---
+
 #include "components/no_state_prefetch/browser/no_state_prefetch_link_manager.h"
 
 #include <algorithm>

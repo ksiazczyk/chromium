@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the no-state prefetch renderer
+summary: Restricts includes in this directory to content public APIs, media Mojo interfaces, Mojo bindings, and Blink public headers.

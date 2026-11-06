@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for no_state_prefetch
+summary: Maps the no_state_prefetch component to the Monorail component Internals>Preload and Buganizer component 1457018.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Notebooks eligibility service unit tests
+// summary: Unit tests for the notebooks eligibility service covering sign-in state, feature flag, profile eligibility and observer notifications.
+// ---
+
 #include "components/notebooks/internal/notebooks_eligibility_service_impl.h"
 
 #include <memory>

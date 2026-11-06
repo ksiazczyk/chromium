@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Offline item visuals bridge implementation
+// summary: Implements creation of Java OfflineItemVisuals objects from native visuals, converting the item icon into a Java bitmap.
+// ---
+
 #include "components/offline_items_collection/core/android/offline_item_visuals_bridge.h"
 
 #include "components/offline_items_collection/core/offline_item.h"

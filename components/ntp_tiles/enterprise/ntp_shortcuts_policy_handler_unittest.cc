@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NTPShortcuts policy handler unit tests
+// summary: Unit tests for the NTPShortcuts policy handler, covering valid entries, missing or empty fields, unknown fields, duplicated and invalid URLs.
+// ---
+
 #include "components/ntp_tiles/enterprise/ntp_shortcuts_policy_handler.h"
 
 #include <optional>

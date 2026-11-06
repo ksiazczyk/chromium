@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NoStatePrefetch final status names
+// summary: Maps each NoStatePrefetch FinalStatus enum value to a human-readable name for logging and histograms.
+// ---
+
 #include "components/no_state_prefetch/common/no_state_prefetch_final_status.h"
 
 #include <array>

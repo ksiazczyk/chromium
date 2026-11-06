@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThrottledOfflineContentProvider implementation
+// summary: Implements ThrottledOfflineContentProvider, which wraps an OfflineContentProvider and throttles and coalesces OnItemUpdated notifications to registered observers.
+// ---
+
 #include "components/offline_items_collection/core/throttled_offline_content_provider.h"
 
 #include <utility>

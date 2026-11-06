@@ -1,0 +1,4 @@
+# Docerion header of notebooks_internals.html.
+type: source
+title: Host page for the notebooks internals WebUI
+summary: Minimal HTML shell titled Notebooks Internals that mounts the notebooks-internals-app element and loads the app module.

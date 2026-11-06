@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NoStatePrefetchRenderFrameObserver class header
+// summary: Declares a render frame observer that binds the NoStatePrefetchMessages Mojo interface so no-state prefetching can be toggled for a frame.
+// ---
+
 #ifndef COMPONENTS_NO_STATE_PREFETCH_RENDERER_NO_STATE_PREFETCH_RENDER_FRAME_OBSERVER_H_
 #define COMPONENTS_NO_STATE_PREFETCH_RENDERER_NO_STATE_PREFETCH_RENDER_FRAME_OBSERVER_H_
 

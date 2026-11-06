@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTPTileImpression implementation
+// summary: Implements NTPTileImpression constructors that record a tile's position, source, visual type, and icon type for metrics reporting.
+// ---
+
 #include "components/ntp_tiles/ntp_tile_impression.h"
 
 namespace ntp_tiles {
