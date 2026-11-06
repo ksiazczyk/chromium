@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the createAppShortcut test extension
+summary: Manifest for the createAppShortcut test extension, declaring the management permission and a service worker background that runs the test script.

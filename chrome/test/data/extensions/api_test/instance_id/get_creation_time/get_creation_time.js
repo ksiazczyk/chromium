@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InstanceID getCreationTime API browser test
+// summary: Runs browser tests verifying that chrome.instanceID.getCreationTime returns zero before getID is called and a nonzero time afterwards.
+// ---
+
 async function getCreationTimeWithoutCallback() {
   try {
     const creationTime = await chrome.instanceID.getCreationTime();

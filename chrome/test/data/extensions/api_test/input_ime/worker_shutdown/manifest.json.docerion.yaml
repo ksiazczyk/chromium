@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the IME worker shutdown test extension
+summary: Manifest for the test extension named "input.ime wakes worker after shutdown", registering a Test IME input component with input and inputMethodPrivate permissions.

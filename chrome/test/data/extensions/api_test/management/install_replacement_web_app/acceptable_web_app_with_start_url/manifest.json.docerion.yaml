@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Web app manifest with start URL
+summary: Web app manifest declaring a 512px PNG icon and a start URL of pwa_start_url.html for the installable web app test fixture.

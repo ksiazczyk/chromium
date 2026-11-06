@@ -1,0 +1,4 @@
+# Docerion header of index.html.
+type: test
+title: Not Installable
+summary: Minimal HTML page serving as test data for the install_replacement_web_app extension API test, representing a web app that cannot be installed.

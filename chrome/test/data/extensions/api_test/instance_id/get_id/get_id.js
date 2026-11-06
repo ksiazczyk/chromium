@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InstanceID getID API browser tests
+// summary: Runs chrome.test cases for chrome.instanceID.getID, covering the promise form, the callback form, and repeated calls returning the same ID.
+// ---
+
 async function getIDWithoutCallback() {
   try {
     const id = await chrome.instanceID.getID();

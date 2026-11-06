@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Input IME API test background script
+// summary: Background script running chrome.test cases that exercise chrome.input.ime methods such as composition, candidates, menu items, and surrounding text deletion.
+// ---
+
 function setCompositionTest() {
   chrome.input.ime.setComposition(
       {

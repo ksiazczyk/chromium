@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Lazy background page wait-for-request test background script
+// summary: Test extension background script that starts a hanging request to keep the lazy background page alive until the request is killed.
+// ---
+
 const testServerHost = 'www.a.com';
 let testServerPort;
 function getServerURL(path) {

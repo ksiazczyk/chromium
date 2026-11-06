@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Incognito split-mode extension test background script
+// summary: Runs browser tests verifying that a split-mode incognito extension only sees windows, tab events, and messages from its own profile, including content script incognito checks.
+// ---
+
 const pass = chrome.test.callbackPass;
 const assertEq = chrome.test.assertEq;
 const assertTrue = chrome.test.assertTrue;

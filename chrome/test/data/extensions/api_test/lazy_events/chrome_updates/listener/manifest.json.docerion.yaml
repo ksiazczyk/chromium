@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the chrome updates listener test extension
+summary: Manifest version 2 definition for the test extension, configuring a non-persistent background script that listens for chrome updates.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Keybinding basics test extension manifest
+summary: Manifest for the keybinding basics test extension that defines commands with suggested keyboard shortcuts and a background service worker.

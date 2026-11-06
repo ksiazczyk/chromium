@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for keybinding update test extension
+summary: Manifest version 3 manifest for the test extension, registering the background service worker, the activeTab permission and the action title.

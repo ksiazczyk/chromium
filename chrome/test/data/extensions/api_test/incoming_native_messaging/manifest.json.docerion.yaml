@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for incoming native messaging test extension
+summary: Manifest version 2 configuration for the test extension, declaring a persistent background script and the nativeMessaging permission.

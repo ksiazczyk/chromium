@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the Extension Management API test extension
+summary: Manifest version 3 fixture that registers basics.js as a service worker and grants the management permission for the API test.

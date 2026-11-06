@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for keybinding tab parameter test extension
+summary: Manifest for the test extension that registers the toggle-feature command with a Ctrl+Shift+Y shortcut and a background script.

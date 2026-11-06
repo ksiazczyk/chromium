@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background script for keybinding tab parameter test
+// summary: Test extension background script that listens for the toggle-feature command and asserts the tab status and URL passed to the command listener.
+// ---
+
 // Called when the user activates the command.
 chrome.commands.onCommand.addListener(function(command, tab) {
   try {

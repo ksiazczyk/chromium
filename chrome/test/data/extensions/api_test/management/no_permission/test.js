@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Management API permission warnings test
+// summary: Browser test that calls chrome.management.getPermissionWarningsByManifest and asserts the expected warning for the clipboardRead permission.
+// ---
+
 const tests = [
   function permissionWarnings() {
     const manifestStr = `{

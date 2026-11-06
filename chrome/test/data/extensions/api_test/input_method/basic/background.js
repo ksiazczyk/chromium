@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Input method private API test background script
+// summary: Background script running chrome.test suites that exercise the inputMethodPrivate API, covering getting, setting and observing input methods, invalid input handling and dictionary loading.
+// ---
+
 const testParams = {
   initialInputMethod: '',
   newInputMethod: '',

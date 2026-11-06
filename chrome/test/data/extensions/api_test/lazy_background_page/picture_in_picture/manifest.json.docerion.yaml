@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Picture-in-Picture test extension manifest
+summary: Manifest for the lazy background page Picture-in-Picture test extension, declaring a non-persistent background page that runs background.js.

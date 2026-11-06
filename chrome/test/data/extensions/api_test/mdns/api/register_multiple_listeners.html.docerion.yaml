@@ -1,0 +1,4 @@
+# Docerion header of register_multiple_listeners.html.
+type: test
+title: mDNS multiple listeners test page
+summary: HTML page that loads register_multiple_listeners.js for the mDNS API browser test.

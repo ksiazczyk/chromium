@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for global media keys test extension
+summary: Manifest for the test extension that declares global MediaNextTrack and MediaStop commands, where only MediaNextTrack-global is expected to trigger a pass.

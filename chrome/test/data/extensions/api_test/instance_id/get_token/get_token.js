@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InstanceID getToken API tests
+// summary: Runs chrome.test cases that verify parameter validation and success paths of the chrome.instanceID.getToken extension API, including callback and promise usage.
+// ---
+
 function getTokenShouldFail() {
   chrome.test.fail('getToken should fail due to parameter validation.');
 }

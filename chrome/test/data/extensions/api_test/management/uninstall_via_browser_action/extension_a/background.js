@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background script of ExtensionA test extension
+// summary: Service worker that uninstalls ExtensionB via chrome.management.uninstall when the browser action is clicked, verifying the call runs with a user gesture.
+// ---
+
 chrome.action.onClicked.addListener(() => {
   // We should be running with a user gesture.
   chrome.test.assertTrue(chrome.test.isProcessingUserGesture());

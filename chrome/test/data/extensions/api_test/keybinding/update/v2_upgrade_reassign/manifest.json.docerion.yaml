@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: MV3 manifest for keybinding upgrade reassign test
+summary: Manifest for the v2_upgrade_reassign keybinding API test, defining an MV3 extension with a modified suggested_key to verify upgrading from MV2 to MV3 succeeds.

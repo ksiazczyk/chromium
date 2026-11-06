@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for ChromeOS keybinding conversion test extension
+summary: Defines a test extension with four Search+Shift arrow key commands used to verify non-conversion of Chrome OS shortcuts.

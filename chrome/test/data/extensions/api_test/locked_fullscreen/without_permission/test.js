@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Locked fullscreen window tests without permission
+// summary: Runs tests asserting that creating, entering, or leaving locked-fullscreen window states fails without the lockWindowFullscreenPrivate permission.
+// ---
+
 const errorMsg =
     'Cannot lock window to fullscreen or close a locked fullscreen ' +
     'window without lockWindowFullscreenPrivate manifest permission';

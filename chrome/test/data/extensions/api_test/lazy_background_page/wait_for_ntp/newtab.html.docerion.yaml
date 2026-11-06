@@ -1,0 +1,4 @@
+# Docerion header of newtab.html.
+type: test
+title: Empty new tab page override of the test extension
+summary: Empty HTML page referenced by the manifest as the new tab page override in the lazy background page test extension.

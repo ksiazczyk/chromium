@@ -1,0 +1,4 @@
+# Docerion header of messages.json.
+type: test
+title: German locale messages test fixture
+summary: German locale messages file containing a 'Hallo Welt!' string used as test data for the login screen extension API tests.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the InstanceID deleteToken test extension
+summary: Manifest v2 extension manifest that loads delete_token.js as a background script with the gcm permission to run the InstanceID API test.

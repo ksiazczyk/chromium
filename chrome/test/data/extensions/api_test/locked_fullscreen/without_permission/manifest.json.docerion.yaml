@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for locked fullscreen test extension without permission
+summary: Manifest for a test extension that exercises chrome.windows locked-fullscreen behavior without the lockWindowFullscreenPrivate permission.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: InstanceID incognito test extension manifest
+summary: Manifest for the InstanceID API test app, using split incognito mode, a background test script and the gcm permission.

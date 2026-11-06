@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Input IME test extension manifest
+summary: Manifest for the input.ime test extension, declaring input permissions, a service worker background, and a test IME input component.

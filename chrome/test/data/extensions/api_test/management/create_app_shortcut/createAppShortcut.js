@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: createAppShortcut management API test script
+// summary: Browser test script that exercises chrome.management.createAppShortcut, covering user gesture requirements, Mac packaged-app restrictions, and error cases for extensions and unknown IDs.
+// ---
+
 function testCreateAppShortcut(id, error) {
   chrome.test.runWithUserGesture(function() {
     if (!error) {

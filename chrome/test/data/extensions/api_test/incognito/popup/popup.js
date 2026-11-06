@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Incognito popup test script
+// summary: Runs a chrome.test check asserting that the current window is reported as incognito when the popup opens in incognito mode.
+// ---
+
 const pass = chrome.test.callbackPass;
 const assertEq = chrome.test.assertEq;
 const assertTrue = chrome.test.assertTrue;

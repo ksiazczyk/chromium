@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Keybinding update test extension manifest v2
+summary: Manifest for the v2 test extension used in the keybinding update API test, defining a service worker background, activeTab permission, and an Alt+Shift+F shortcut for the action.

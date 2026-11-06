@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for lazy events new version v2 test extension
+summary: Manifest version 2 extension manifest that registers background.js for the lazy events test where tabs.onCreated is added in version 2.

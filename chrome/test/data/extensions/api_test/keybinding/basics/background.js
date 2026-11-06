@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Keybinding basics test extension background script
+// summary: Background script of the keybinding basics test extension that sends test messages when the browser action is clicked or a command is activated.
+// ---
+
 // Called when the user clicks on the browser action.
 chrome.action.onClicked.addListener(function(windowId) {
   chrome.test.sendMessage('basics browser action');

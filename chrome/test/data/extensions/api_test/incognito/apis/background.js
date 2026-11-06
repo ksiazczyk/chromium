@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Incognito extension API test background script
+// summary: Runs browser tests verifying tab APIs, events, and content script incognito context detection across regular and incognito windows.
+// ---
+
 let normalWindow;
 let normalTab;
 let incognitoWindow;

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the input method test extension
+summary: Manifest for the experimental.inputMethod test extension, requesting the inputMethodPrivate permission and loading the background.js test script.

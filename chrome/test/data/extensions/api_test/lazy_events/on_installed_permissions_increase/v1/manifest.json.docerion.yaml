@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the onInstalled permissions increase test extension
+summary: Manifest version 2 manifest defining the lazy events test extension and its background.js script.

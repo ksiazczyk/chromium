@@ -1,0 +1,4 @@
+# Docerion header of page_with_script_src_csp.html.
+type: test
+title: Page With CSP
+summary: HTML test page with a script-src Content-Security-Policy meta tag used by the isolated world CSP extension API test.

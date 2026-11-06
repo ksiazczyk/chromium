@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: MDNS test extension manifest
+summary: Manifest for the test MDNS extension used by the mDNS API browser tests, requesting the mdns permission.

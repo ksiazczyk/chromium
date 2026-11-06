@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Lazy events test extension v1 manifest
+summary: Manifest for the version 1 lazy events test extension, declaring the background script used as the baseline before tabs.onCreated is added in version 2.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: IME menu test extension manifest
+summary: Manifest for the experimental inputMethod IME menu test extension, requesting the inputMethodPrivate permission and loading the background test script.

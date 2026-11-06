@@ -5,6 +5,12 @@
 // TODO(crbug.com/40698663): Merge this with common.js in the 'test' subdir,
 // once the remaining three tests are split out.
 
+// ---docerion
+// type: test
+// title: Shared helpers for chrome.management API tests
+// summary: Provides shared assertion and item-verification helpers, such as checkItem and checkItemInList, used by the chrome.management extension API browser tests.
+// ---
+
 const assertEq = chrome.test.assertEq;
 const assertFalse = chrome.test.assertFalse;
 const assertLastError = chrome.test.assertLastError;

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: MV3 manifest for keybinding MV2 to MV3 upgrade test
+summary: Manifest for an MV3 test extension verifying that upgrading from MV2 to MV3 succeeds while keeping an unmodified suggested_key action command.

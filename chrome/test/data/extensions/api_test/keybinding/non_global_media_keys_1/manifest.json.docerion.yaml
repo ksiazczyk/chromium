@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the non-global media keys test extension
+summary: Extension manifest declaring the MediaStop-non-global command with MediaStop as the suggested key for the keybinding API test.

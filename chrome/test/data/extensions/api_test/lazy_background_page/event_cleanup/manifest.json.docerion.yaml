@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Event cleanup test extension manifest
+summary: Manifest for the event cleanup test extension, declaring a version 2 manifest with a non-persistent background page that loads background.js.

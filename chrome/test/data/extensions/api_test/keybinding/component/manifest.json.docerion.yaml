@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Keybinding component test manifest
+summary: Extension manifest for the component keybinding API test, declaring a named command with the suggested key Ctrl+Shift+5 and a background script.

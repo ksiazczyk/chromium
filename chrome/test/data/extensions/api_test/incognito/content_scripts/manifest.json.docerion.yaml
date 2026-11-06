@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Incognito no script test extension manifest
+summary: Manifest for the 'incognito no script' test extension that checks content scripts do not inject JavaScript into incognito browsers.

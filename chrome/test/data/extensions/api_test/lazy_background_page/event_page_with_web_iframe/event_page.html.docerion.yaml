@@ -1,0 +1,4 @@
+# Docerion header of event_page.html.
+type: test
+title: Event page with web iframe test fixture
+summary: HTML fixture for the lazy background page API test that loads an event page containing an iframe pointing to a web page.

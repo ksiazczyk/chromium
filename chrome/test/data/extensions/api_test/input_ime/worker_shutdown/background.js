@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test IME extension background service worker
+// summary: Background service worker for the input.ime API test extension that sets the current input method, tracks focused text contexts, and commits uppercase text on key events.
+// ---
+
 let contextId = -1;
 
 // Set the current input method so this extension will receive IME events.

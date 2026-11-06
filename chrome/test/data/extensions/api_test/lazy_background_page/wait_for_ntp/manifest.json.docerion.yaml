@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest of the lazy background page NTP test extension
+summary: Manifest version 2 extension manifest that overrides the new tab page with newtab.html and registers a non-persistent background script for the test.

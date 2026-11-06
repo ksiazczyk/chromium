@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background script for the IME menu API test extension
+// summary: Runs chrome.test cases that set and update IME menu items and verify activation and menu list change events via inputMethodPrivate listeners.
+// ---
+
 const MENU_ITEMS = [
   {
     id: 'menu_a',

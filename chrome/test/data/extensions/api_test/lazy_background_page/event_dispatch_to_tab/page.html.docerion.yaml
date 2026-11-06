@@ -1,0 +1,4 @@
+# Docerion header of page.html.
+type: test
+title: Test extension page that loads the test runner
+summary: Minimal HTML page that includes runtest.js for the lazy background page event dispatch test.

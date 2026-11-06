@@ -1,3 +1,11 @@
+---
+type: readme
+title: Keybinding update test extension versions
+summary: Describes the subdirectory naming convention for extension versions used to test command shortcut handling during extension updates in browser tests.
+relations:
+  - references /chrome/browser/extensions/extension_keybinding_browsertest.cc
+---
+
 This directory contains different versions of extensions used to test the
 behavior of command shortcuts when an extension is updated.
 

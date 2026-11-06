@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Get Profile Type test extension manifest
+summary: Manifest for the browser test extension that exercises chrome.loginState.getProfileType(), registering test.js as a service worker with the loginState permission.

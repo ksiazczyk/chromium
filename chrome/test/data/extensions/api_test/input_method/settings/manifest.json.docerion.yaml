@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Input method settings test extension manifest
+summary: Manifest for the test app that requests the inputMethodPrivate permission and loads background.js to run the input method settings API tests.

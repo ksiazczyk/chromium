@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Management policy extension API test background script
+// summary: Background script running chrome.management API tests that verify enabling, disabling and uninstalling extensions succeeds or fails depending on management policy.
+// ---
+
 const callback = chrome.test.callback;
 
 // The names of the extensions to operate on, from their manifest.json files.

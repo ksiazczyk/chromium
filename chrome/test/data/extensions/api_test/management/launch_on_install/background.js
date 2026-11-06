@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Launch on install test background script
+// summary: Background service worker for the launch-on-install API test that launches installed apps and reports when the Chrome app deprecation error appears.
+// ---
+
 const kChromeAppErrorPrefix = 'Chrome app';
 const kChromeAppErrorSuffix = 'is deprecated on Window, Mac, and Linux. ' +
     'See https://support.google.com/chrome/?p=chrome_app_deprecation for more ' +

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for synthesized command test extension
+summary: Manifest for the test extension that declares a browser action and an unrelated-feature command, used to verify synthesized commands in the keybinding API test.

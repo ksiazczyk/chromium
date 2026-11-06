@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the shortcut propagation test extension
+summary: Manifest version 2 manifest for the test extension declaring the background and content scripts, tabs permission, and the Ctrl+Shift+F command under test.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the InstanceID getID test extension
+summary: Manifest for the test extension that loads get_id.js as a background script and requests the gcm permission needed for InstanceID.

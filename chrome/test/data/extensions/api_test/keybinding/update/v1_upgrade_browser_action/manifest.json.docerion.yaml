@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: MV2 browser action manifest for keybinding upgrade test
+summary: Manifest for a test extension with a browser action command bound to Alt+N, used to verify that upgrading from Manifest V2 to V3 succeeds.

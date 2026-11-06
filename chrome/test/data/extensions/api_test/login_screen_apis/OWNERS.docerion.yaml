@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for login screen API tests
+summary: Points to the OWNERS file responsible for the login screen extension code that these API tests exercise.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: In-session login screen API test background script
+// summary: Background service worker defining chrome.login and chrome.loginScreenStorage test cases that run when the browser test harness sends a test name.
+// ---
+
 const extensionId = 'abcdefghijklmnopabcdefghijklmnop';
 
 const extensionId1 = 'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa';

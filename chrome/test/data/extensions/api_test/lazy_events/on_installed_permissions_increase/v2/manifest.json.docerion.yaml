@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for onInstalled permissions increase test v2
+summary: Version 2 manifest of the lazy events test extension, requesting the <all_urls> permission to trigger a permissions increase on update.

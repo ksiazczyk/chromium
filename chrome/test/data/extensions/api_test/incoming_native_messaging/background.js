@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background script for incoming native messaging test
+// summary: Test extension background script that verifies the onConnectNative event, checks the native message sender fields, and exchanges messages with the native application.
+// ---
+
 const NATIVE_APP_NAME = 'com.google.chrome.test.initiator';
 const MESSAGE_TO_SEND = {
   request: 'foo',

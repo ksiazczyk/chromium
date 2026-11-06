@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Login screen APIs test extension background script
+// summary: Background service worker that runs Chrome test cases covering login screen UI windows, storage access restrictions, and login session APIs.
+// ---
+
 const cannotCreateMultipleWindowsErrorMessage =
     'Login screen extension UI already in use.';
 const cannotCloseNoWindowErrorMessage = 'No open window to close.';

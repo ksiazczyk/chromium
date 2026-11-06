@@ -1,0 +1,4 @@
+# Docerion header of messages.json.
+type: test
+title: Locale messages for login screen API test extension
+summary: Provides the 'Hello World!' locale message used by the test extension in the login screen APIs browser test.

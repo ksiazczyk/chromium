@@ -1,0 +1,4 @@
+# Docerion header of page_with_integrity_policy.html.
+type: test
+title: Page With Integrity Policy
+summary: HTML test page for the isolated world CSP extension API test, served with mock headers that set an Integrity-Policy blocking scripts.
