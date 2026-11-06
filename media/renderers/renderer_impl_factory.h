@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RendererImplFactory class declaration
+// summary: Declares the default RendererFactory that creates RendererImpl with audio and video decoders, including platform-specific handling for Android.
+// ---
+
 #ifndef MEDIA_RENDERERS_RENDERER_IMPL_FACTORY_H_
 #define MEDIA_RENDERERS_RENDERER_IMPL_FACTORY_H_
 

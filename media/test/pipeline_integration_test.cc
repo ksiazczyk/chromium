@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media pipeline integration tests
+// summary: Integration tests for the media pipeline covering demuxing, decoding, seeking, encrypted media and Media Source Extensions across many codecs.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

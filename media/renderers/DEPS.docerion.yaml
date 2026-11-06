@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for media renderers
+summary: DEPS file restricting allowed header includes in media/renderers to media subdirectories and ui/gfx, warning against adding net/ or ui/base.

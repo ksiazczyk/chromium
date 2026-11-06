@@ -1,0 +1,4 @@
+# Docerion header of webp.dict.
+type: data
+title: WebP fuzzer dictionary
+summary: AFL-derived fuzzer dictionary of WebP RIFF headers and chunk section tokens used to seed fuzzed WebP input.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaEngineNotifyImpl implementation
+// summary: Implements IMFMediaEngineNotify, translating Media Foundation engine events and errors into pipeline statuses, callbacks and UMA histograms.
+// ---
+
 #include "media/renderers/win/media_engine_notify_impl.h"
 
 #include <mferror.h>

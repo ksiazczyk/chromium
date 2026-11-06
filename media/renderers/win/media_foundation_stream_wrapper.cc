@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media Foundation stream wrapper implementation
+// summary: Implements the IMFMediaStream wrapper that feeds demuxer stream data to Media Foundation, dispatching to audio and video stream subclasses.
+// ---
+
 #include "media/renderers/win/media_foundation_stream_wrapper.h"
 
 #include <mferror.h>

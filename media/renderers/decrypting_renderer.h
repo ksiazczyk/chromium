@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DecryptingRenderer class header
+// summary: Declares DecryptingRenderer, a pass-through Renderer wrapper that handles decryption for AesDecryptor-based CDMs before delegating to an inner renderer.
+// ---
+
 #ifndef MEDIA_RENDERERS_DECRYPTING_RENDERER_H_
 #define MEDIA_RENDERERS_DECRYPTING_RENDERER_H_
 

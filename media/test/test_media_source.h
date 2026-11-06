@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestMediaSource header
+// summary: Declares TestMediaSource, a helper that emulates Media Source API calls on a ChunkDemuxer for pipeline tests and fuzzers.
+// ---
+
 #ifndef MEDIA_TEST_TEST_MEDIA_SOURCE_H_
 #define MEDIA_TEST_TEST_MEDIA_SOURCE_H_
 

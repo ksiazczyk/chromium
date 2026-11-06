@@ -16,6 +16,12 @@
 // queueing audio data and stretching/shrinking audio data when playback rate !=
 // 1.0 or 0.0.
 
+// ---docerion
+// type: source
+// title: AudioRendererImpl class header
+// summary: Declares AudioRendererImpl, the audio rendering unit that uses an AudioRendererSink and AudioRendererAlgorithm across render, media, and audio threads.
+// ---
+
 #ifndef MEDIA_RENDERERS_AUDIO_RENDERER_IMPL_H_
 #define MEDIA_RENDERERS_AUDIO_RENDERER_IMPL_H_
 

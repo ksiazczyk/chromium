@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RendererImplFactory implementation
+// summary: Creates audio and video decoders through a DecoderFactory and builds RendererImpl instances wired to audio and video renderer sinks.
+// ---
+
 #include "media/renderers/renderer_impl_factory.h"
 
 #include <memory>

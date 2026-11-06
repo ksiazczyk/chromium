@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media Foundation protection manager class declaration
+// summary: Declares the IMFContentProtectionManager and IMediaProtectionManager implementation used by the Media Foundation renderer for protected playback.
+// ---
+
 #ifndef MEDIA_RENDERERS_WIN_MEDIA_FOUNDATION_PROTECTION_MANAGER_H_
 #define MEDIA_RENDERERS_WIN_MEDIA_FOUNDATION_PROTECTION_MANAGER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media Foundation renderer integration tests
+// summary: Runs pipeline integration tests for the Media Foundation renderer, covering basic VP9 playback, media source playback, and seeking on Windows.
+// ---
+
 
 #include <mfapi.h>
 

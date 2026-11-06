@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media pipeline integration performance tests
+// summary: Performance benchmarks that measure clockless audio and video playback speed for codecs such as VP8, VP9, AV1 and MP4.
+// ---
+
 #include "media/base/test_data_util.h"
 #include "media/media_buildflags.h"
 #include "media/test/pipeline_integration_test_base.h"

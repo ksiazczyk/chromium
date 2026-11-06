@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media Foundation renderer unit tests
+// summary: Unit tests for MediaFoundationRenderer covering playback errors, UMA histograms, CDM proxy interactions, and media engine events.
+// ---
+
 #include "media/renderers/win/media_foundation_renderer.h"
 
 #include <windows.media.protection.h>

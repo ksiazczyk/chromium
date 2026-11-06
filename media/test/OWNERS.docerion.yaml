@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners rules for media test directory
+summary: Grants blanket approval for changes to test bundle data filelists through a per-file OWNERS rule.

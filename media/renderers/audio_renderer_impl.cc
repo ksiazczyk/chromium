@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioRendererImpl implementation
+// summary: Implements the audio renderer that decodes demuxed audio streams and outputs them through an audio sink, including bitstream passthrough output configuration.
+// ---
+
 #include "media/renderers/audio_renderer_impl.h"
 
 #include <math.h>

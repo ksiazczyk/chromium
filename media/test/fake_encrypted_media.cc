@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake encrypted media test support implementation
+// summary: Implements a fake encrypted media client that wires an AesDecryptor to a test app for handling EME session events in media tests.
+// ---
+
 #include "media/test/fake_encrypted_media.h"
 
 #include "base/functional/bind.h"

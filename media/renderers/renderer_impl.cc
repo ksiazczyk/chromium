@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RendererImpl implementation
+// summary: Implements the media Renderer interface by coordinating audio and video renderers, playback state, buffering, time source, and CDM attachment.
+// ---
+
 #include "media/renderers/renderer_impl.h"
 
 #include <memory>

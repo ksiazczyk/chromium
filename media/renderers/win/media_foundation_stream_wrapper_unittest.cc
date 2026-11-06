@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media Foundation stream wrapper unit tests
+// summary: Unit tests for MediaFoundationStreamWrapper that verify sample requests and queued media events using mock demuxer streams, Media Foundation COM mocks, and a test task runner.
+// ---
+
 #include "media/renderers/win/media_foundation_stream_wrapper.h"
 
 #include <mferror.h>

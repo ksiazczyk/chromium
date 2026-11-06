@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media Foundation protection manager implementation
+// summary: Implements the content protection manager that connects the CDM proxy and PMP server to the MFMediaEngine for playing protected content.
+// ---
+
 #include "media/renderers/win/media_foundation_protection_manager.h"
 
 #include <mferror.h>

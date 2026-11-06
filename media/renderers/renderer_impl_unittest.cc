@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RendererImpl unit tests
+// summary: GoogleTest suite exercising RendererImpl initialization, flushing, playback, CDM attachment, and track changes using mock audio and video renderers.
+// ---
+
 #include "media/renderers/renderer_impl.h"
 
 #include <stdint.h>

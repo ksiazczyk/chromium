@@ -1,0 +1,4 @@
+# Docerion header of mp4.dict.
+type: data
+title: AFL dictionary of MP4 box types for fuzzing
+summary: AFL fuzzing dictionary of MP4 FOURCC box type tokens used by media fuzzers.

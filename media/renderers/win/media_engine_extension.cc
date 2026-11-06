@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaEngineExtension implementation
+// summary: Implements IMFMediaEngineExtension so the Windows MFMediaEngine can resolve and load Chromium's custom media source.
+// ---
+
 #include "media/renderers/win/media_engine_extension.h"
 
 #include <mferror.h>

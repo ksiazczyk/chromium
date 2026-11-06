@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: test
+title: GN build targets for media tests
+summary: Defines GN source sets for media unit tests, pipeline integration tests, performance tests, and pipeline integration fuzzers with their codec variants.

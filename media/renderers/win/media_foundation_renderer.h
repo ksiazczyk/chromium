@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media Foundation renderer class declaration
+// summary: Declares MediaFoundationRenderer, the Renderer implementation that bridges Chromium playback to the Windows MFMediaEngine, with UMA error and frame detection enums.
+// ---
+
 #ifndef MEDIA_RENDERERS_WIN_MEDIA_FOUNDATION_RENDERER_H_
 #define MEDIA_RENDERERS_WIN_MEDIA_FOUNDATION_RENDERER_H_
 

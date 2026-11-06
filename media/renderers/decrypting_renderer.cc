@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DecryptingRenderer implementation
+// summary: Implements a Renderer wrapper that decrypts streams via DecryptingMediaResource when an AesDecryptor is present and passes clear streams to the inner renderer.
+// ---
+
 #include "media/renderers/decrypting_renderer.h"
 
 #include "base/functional/bind.h"

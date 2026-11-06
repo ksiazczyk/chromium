@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Presubmit checks for media/test
+# summary: Presubmit script that warns when media/test/data files change without updating the README and validates the media_bundle_data filelist for iOS.
+# ---
+
 """Top-level presubmit script for media/test/.
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

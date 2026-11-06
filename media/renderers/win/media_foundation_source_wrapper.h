@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media Foundation source wrapper class declaration
+// summary: Declares MediaFoundationSourceWrapper, an IMFMediaSource implementation wrapping Chromium media resources with rate control and input trust authority support.
+// ---
+
 #ifndef MEDIA_RENDERERS_WIN_MEDIA_FOUNDATION_SOURCE_WRAPPER_H_
 #define MEDIA_RENDERERS_WIN_MEDIA_FOUNDATION_SOURCE_WRAPPER_H_
 

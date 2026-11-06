@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media Foundation video stream implementation
+// summary: Implements the Media Foundation video stream, converting Chromium video rotation, color primaries, transfer functions, and HDR metadata into Media Foundation media type attributes.
+// ---
+
 #include "media/renderers/win/media_foundation_video_stream.h"
 
 #include <initguid.h>

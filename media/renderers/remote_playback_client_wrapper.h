@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote playback client wrapper interface
+// summary: Abstract wrapper exposing only the WebRemotePlaybackClient methods needed by FlingingRendererClientFactory, avoiding dependencies on the blink layer.
+// ---
+
 #ifndef MEDIA_RENDERERS_REMOTE_PLAYBACK_CLIENT_WRAPPER_H_
 #define MEDIA_RENDERERS_REMOTE_PLAYBACK_CLIENT_WRAPPER_H_
 
