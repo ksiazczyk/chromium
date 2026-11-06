@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Back-forward cache build targets
+summary: Defines the static_library and source_set build targets for the back_forward_cache component and its disabled reason enum header.

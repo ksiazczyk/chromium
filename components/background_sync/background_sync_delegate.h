@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BackgroundSyncDelegate interface declaration
+// summary: Defines the delegate interface embedders implement for keep-alive, UKM source ids, content settings, site engagement penalties and Android wakeup behavior.
+// ---
+
 #ifndef COMPONENTS_BACKGROUND_SYNC_BACKGROUND_SYNC_DELEGATE_H_
 #define COMPONENTS_BACKGROUND_SYNC_BACKGROUND_SYNC_DELEGATE_H_
 

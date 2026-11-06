@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Back-forward cache disabled reason ID enum
+// summary: Defines the DisabledReasonId enum listing Chrome-side reasons that disable back/forward caching, with stable values persisted to logs.
+// ---
+
 #ifndef COMPONENTS_BACK_FORWARD_CACHE_DISABLED_REASON_ID_H_
 #define COMPONENTS_BACK_FORWARD_CACHE_DISABLED_REASON_ID_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background Fetch delegate base implementation
+// summary: Implements the shared BackgroundFetchDelegateBase logic for creating download jobs, tracking progress, and handling pause, resume, abort, and upload data requests.
+// ---
+
 #include "components/background_fetch/background_fetch_delegate_base.h"
 
 #include <algorithm>

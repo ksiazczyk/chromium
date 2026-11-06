@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS pointer to components/autofill
+summary: Redirects code ownership for this directory to the OWNERS file in components/autofill.

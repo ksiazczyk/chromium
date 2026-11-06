@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS list for the background_sync directory
+summary: Names the directory code owners and delegates permission context files to the permissions component owners.

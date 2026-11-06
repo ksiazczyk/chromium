@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Background Fetch dependency include rules
+summary: Specifies the include rules allowing the component to depend on content settings, download service, content, mojo, network, blink, and gfx code.

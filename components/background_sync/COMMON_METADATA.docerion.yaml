@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: COMMON_METADATA with monorail and Buganizer component details
+summary: Declares the Blink>BackgroundSync monorail component, team email and public Buganizer component for this directory.

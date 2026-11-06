@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JobDetails struct for Background Fetch job state and progress
+// summary: Declares the JobDetails struct that tracks Background Fetch job state, download progress in bytes or files, and per-request data reported to the delegate client.
+// ---
+
 #ifndef COMPONENTS_BACKGROUND_FETCH_JOB_DETAILS_H_
 #define COMPONENTS_BACKGROUND_FETCH_JOB_DETAILS_H_
 

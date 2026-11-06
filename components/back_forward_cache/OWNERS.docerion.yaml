@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Back-forward cache code owners
+summary: Lists the owners responsible for reviewing changes to the back_forward_cache component, delegating to content OWNERS files and fergal@chromium.org.

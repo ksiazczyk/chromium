@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BackgroundSyncMetrics implementation
+// summary: Records UKM events for one-shot and periodic background sync registration and completion using source ids obtained through the delegate.
+// ---
+
 #include "components/background_sync/background_sync_metrics.h"
 
 #include "base/functional/bind.h"

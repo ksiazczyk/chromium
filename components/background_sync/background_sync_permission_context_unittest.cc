@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background sync permission context unit tests
+// summary: Unit tests verifying that background sync permission is granted by default for secure origins, denied for insecure origins, and blocked per origin.
+// ---
+
 #include "components/background_sync/background_sync_permission_context.h"
 
 #include <string>

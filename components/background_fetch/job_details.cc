@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background Fetch job details implementation
+// summary: Implements JobDetails helpers that track job state, downloaded and uploaded byte counts, and progress reporting for a background fetch job.
+// ---
+
 #include "components/background_fetch/job_details.h"
 
 #include "content/public/browser/background_fetch_description.h"

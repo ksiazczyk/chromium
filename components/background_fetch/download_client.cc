@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background Fetch download client implementation
+// summary: Implements the DownloadService client that forwards download lifecycle events such as start, update, failure, and success to the delegate base.
+// ---
+
 #include "components/background_fetch/download_client.h"
 
 #include <memory>
