@@ -1,0 +1,4 @@
+# Docerion header of IDS_SEA_PEN_LABEL.png.sha1.
+type: data
+title: SeaPen label SHA1 checksum
+summary: Stores the SHA1 hash of the reference PNG screenshot for the SeaPen label string.
