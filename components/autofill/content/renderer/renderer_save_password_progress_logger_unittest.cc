@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Renderer save password progress logger unit test
+// summary: Unit test verifying that the renderer save password progress logger forwards log messages to a fake password manager driver via Mojo.
+// ---
+
 #include "components/autofill/content/renderer/renderer_save_password_progress_logger.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Server prediction overrides
+// summary: Declares types and parsing of manual override strings that replace server field type predictions for autofill forms, keyed by form and field signature.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_CROWDSOURCING_SERVER_PREDICTION_OVERRIDES_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_CROWDSOURCING_SERVER_PREDICTION_OVERRIDES_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill log router factory header
+// summary: Declares AutofillLogRouterFactory, a keyed service factory that returns no LogRouter service for incognito browser contexts.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CONTENT_BROWSER_AUTOFILL_LOG_ROUTER_FACTORY_H_
 #define COMPONENTS_AUTOFILL_CONTENT_BROWSER_AUTOFILL_LOG_ROUTER_FACTORY_H_
 

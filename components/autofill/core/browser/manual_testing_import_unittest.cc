@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Manual testing import unit tests
+// summary: Tests that JSON descriptions of profiles, credit cards and entities are correctly converted and loaded into the data managers.
+// ---
+
 #include "components/autofill/core/browser/manual_testing_import.h"
 
 #include <optional>

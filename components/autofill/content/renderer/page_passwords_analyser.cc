@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page passwords analyser implementation
+// summary: Crawls the DOM to analyse password forms and logs developer-facing errors and warnings that improve Password Manager compatibility.
+// ---
+
 #include "components/autofill/content/renderer/page_passwords_analyser.h"
 
 #include <algorithm>

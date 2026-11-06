@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock Autofill crowdsourcing manager implementation
+// summary: Implements MockAutofillCrowdsourcingManager, a GoogleMock double whose query and upload requests return no results by default.
+// ---
+
 #include "components/autofill/core/browser/crowdsourcing/mock_autofill_crowdsourcing_manager.h"
 
 #include <vector>

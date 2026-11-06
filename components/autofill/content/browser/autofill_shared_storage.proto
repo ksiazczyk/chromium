@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill shared storage protobuf messages
+// summary: Defines protobuf messages describing autofill credit card data such as last four digits, network, and expiration for shared storage.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

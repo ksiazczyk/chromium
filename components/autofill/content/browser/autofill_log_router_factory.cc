@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill log router factory implementation
+// summary: Implements the browser-context-keyed service factory that provides the autofill internals LogRouter, optionally logging to the terminal.
+// ---
+
 #include "components/autofill/content/browser/autofill_log_router_factory.h"
 
 #include "components/autofill/core/browser/logging/log_router.h"

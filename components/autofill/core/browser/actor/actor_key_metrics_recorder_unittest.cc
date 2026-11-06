@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Actor key metrics recorder unit tests
+// summary: Unit tests verifying that filling assistance and related key metrics are recorded correctly for address and credit card fills.
+// ---
+
 #include "components/autofill/core/browser/actor/actor_key_metrics_recorder.h"
 
 #include <vector>

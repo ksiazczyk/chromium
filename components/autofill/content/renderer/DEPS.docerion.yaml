@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the autofill renderer
+summary: DEPS file listing the headers and modules this directory may include, with extra include allowances for test files.

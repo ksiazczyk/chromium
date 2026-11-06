@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillTriggerSource enum definition
+// summary: Defines the AutofillTriggerSource enum describing which surface or mechanism caused an autofill fill or preview, plus a conversion helper declaration.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_AUTOFILL_TRIGGER_SOURCE_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_AUTOFILL_TRIGGER_SOURCE_H_
 

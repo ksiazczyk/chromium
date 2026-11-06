@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestAutofillDriverInjector RAII helper
+// summary: RAII template that replaces production drivers with test AutofillDrivers in newly navigated frames of newly created WebContents.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CONTENT_BROWSER_TEST_AUTOFILL_DRIVER_INJECTOR_H_
 #define COMPONENTS_AUTOFILL_CONTENT_BROWSER_TEST_AUTOFILL_DRIVER_INJECTOR_H_
 

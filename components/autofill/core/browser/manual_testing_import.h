@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manual testing import declarations and JSON format
+// summary: Declares the manual testing import API and documents the command-line flags and JSON schema for profiles, credit cards and entities.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_MANUAL_TESTING_IMPORT_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_MANUAL_TESTING_IMPORT_H_
 

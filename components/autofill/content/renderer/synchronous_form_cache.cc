@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Synchronous form cache
+// summary: Implements a cache of previously extracted forms that is passed synchronously between functions to avoid redundant form extraction.
+// ---
+
 #include "components/autofill/content/renderer/synchronous_form_cache.h"
 
 #include <optional>

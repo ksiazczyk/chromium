@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillServerPrediction declaration
+// summary: Declares a struct bundling server prediction metadata for a form field, including password requirements and server predictions.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_AUTOFILL_SERVER_PREDICTION_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_AUTOFILL_SERVER_PREDICTION_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Query response parsing libFuzzer harness
+// summary: Proto fuzzer that runs ParseServerPredictionsFromQueryResponse on fuzzed AutofillQueryResponse messages against hardcoded form vectors.
+// ---
+
 #include <stdlib.h>
 
 #include <iostream>

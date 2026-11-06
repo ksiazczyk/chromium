@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page form analyser logger declaration
+// summary: Declares a logger that formats, buffers, and orders form analysis errors and warnings for output to the DevTools console.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CONTENT_RENDERER_PAGE_FORM_ANALYSER_LOGGER_H_
 #define COMPONENTS_AUTOFILL_CONTENT_RENDERER_PAGE_FORM_ANALYSER_LOGGER_H_
 

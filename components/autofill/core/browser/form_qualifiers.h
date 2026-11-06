@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Form qualifiers
+// summary: Declares the FormParsingPermission enum and functions determining which parsing operations Autofill may perform on a form, plus UKM upload eligibility.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_FORM_QUALIFIERS_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_FORM_QUALIFIERS_H_
 

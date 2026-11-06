@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentAutofillClient implementation
+// summary: Implements the content-layer AutofillClient base class, wiring WebContents access, the driver factory, and the password manager autofill helper.
+// ---
+
 #include "components/autofill/content/browser/content_autofill_client.h"
 
 #include <memory>

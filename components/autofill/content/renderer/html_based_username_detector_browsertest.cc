@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HTML-based username detector browser tests
+// summary: Browser tests validating username field predictions from HTML attributes across developer and user attribute groups.
+// ---
+
 #include "components/autofill/content/renderer/html_based_username_detector.h"
 
 #include <array>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Form autofill issues implementation
+// summary: Implements detection and emission of DevTools issues for invalid or suboptimal forms, such as labels without controls or empty autocomplete attributes.
+// ---
+
 #include "components/autofill/content/renderer/form_autofill_issues.h"
 
 #include <algorithm>

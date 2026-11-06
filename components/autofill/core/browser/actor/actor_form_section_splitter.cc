@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor form section splitter implementation
+// summary: Implements splitting of form sections into contact info and address parts, retargeting trigger fields and recording outcome metrics.
+// ---
+
 #include "components/autofill/core/browser/actor/actor_form_section_splitter.h"
 
 #include <memory>

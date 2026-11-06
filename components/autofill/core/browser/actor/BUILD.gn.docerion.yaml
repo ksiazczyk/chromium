@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the autofill actor component
+summary: Defines GN source sets for the actor autofill code, its test support utilities, and unit tests together with their dependencies.

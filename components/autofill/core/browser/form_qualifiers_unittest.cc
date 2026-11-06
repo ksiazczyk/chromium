@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Form qualifiers unit tests
+// summary: Unit tests for form parsing permissions, autofillability and related qualification logic, checking FormData and FormStructure equivalence.
+// ---
+
 #include "components/autofill/core/browser/form_qualifiers.h"
 
 #include "base/test/scoped_feature_list.h"

@@ -1,0 +1,4 @@
+# Docerion header of autofill_driver.mojom.
+type: source
+title: AutofillDriver mojom interface
+summary: Defines the AutofillDriver Mojo interface through which the renderer notifies the browser about forms seen, submissions, field edits, focus, and selection changes.

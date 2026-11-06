@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor form filling service implementation header
+// summary: Declares ActorFormFillingServiceImpl, which keeps state from GetSuggestions so subsequent filling can refer to suggestions by ID.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_ACTOR_ACTOR_FORM_FILLING_SERVICE_IMPL_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_ACTOR_ACTOR_FORM_FILLING_SERVICE_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillFormatString implementation
+// summary: Implements validation and field type compatibility checks for autofill format strings such as date, affix, and flight number formats.
+// ---
+
 #include "components/autofill/core/browser/autofill_format_string.h"
 
 #include <string>

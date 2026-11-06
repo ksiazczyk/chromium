@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentAutofillDriver implementation
+// summary: Implements the browser-side Autofill driver for one RenderFrameHost, including lifting renderer data and routing events through AutofillDriverRouter.
+// ---
+
 #include "components/autofill/content/browser/content_autofill_driver.h"
 
 #include <concepts>

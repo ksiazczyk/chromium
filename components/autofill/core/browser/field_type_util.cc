@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Field type utility implementation
+// summary: Implements field type helpers such as checking meaningful possible types, address line indices, expiration year length, and date or name type checks.
+// ---
+
 #include "components/autofill/core/browser/field_type_util.h"
 
 #include <stddef.h>

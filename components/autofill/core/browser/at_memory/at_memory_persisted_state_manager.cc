@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AtMemory persisted state manager implementation
+// summary: Implements persistence of AtMemory search state, accepted suggestions and metrics across popup open/close lifecycles.
+// ---
+
 #include "components/autofill/core/browser/at_memory/at_memory_persisted_state_manager.h"
 
 #include <algorithm>

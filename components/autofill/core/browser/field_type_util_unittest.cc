@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Field type utility unit tests
+// summary: Unit tests for the FieldHasMeaningfulPossibleFieldTypes and AddressLineIndex helpers.
+// ---
+
 #include "components/autofill/core/browser/field_type_util.h"
 
 #include "components/autofill/core/browser/autofill_field.h"

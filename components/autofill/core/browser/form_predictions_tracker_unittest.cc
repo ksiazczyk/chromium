@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Form predictions tracker unit tests
+// summary: Unit tests verifying that FormPredictionsTracker tracks form parsing and server prediction states and notifies waiting callbacks correctly.
+// ---
+
 #include "components/autofill/core/browser/form_predictions_tracker.h"
 
 #include "base/test/task_environment.h"

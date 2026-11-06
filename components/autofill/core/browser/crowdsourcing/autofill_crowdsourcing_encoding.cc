@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill crowdsourcing encoding implementation
+// summary: Implements encoding of autofill forms into query and upload request protobufs sent to the crowdsourcing server.
+// ---
+
 #include "components/autofill/core/browser/crowdsourcing/autofill_crowdsourcing_encoding.h"
 
 #include <stddef.h>

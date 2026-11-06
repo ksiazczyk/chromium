@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prefilled values detector implementation
+// summary: Implements detection of known username placeholder values and prefilled email-domain patterns so the password manager may override them.
+// ---
+
 #include "components/autofill/content/renderer/prefilled_values_detector.h"
 
 #include "base/containers/fixed_flat_set.h"

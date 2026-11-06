@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Randomized encoder implementation
+// summary: Implements the differential-privacy randomized encoder that encodes form and field metadata into pseudo-random chunks for crowdsourced uploads.
+// ---
+
 #include "components/autofill/core/browser/crowdsourcing/randomized_encoder.h"
 
 #include <stddef.h>

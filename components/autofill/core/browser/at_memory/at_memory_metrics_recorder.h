@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AtMemory metrics recorder header
+// summary: Declares the AtMemoryMetricsRecorder and persisted enums for query completion status, UI session outcomes and restored search state used in AtMemory metrics.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_AT_MEMORY_AT_MEMORY_METRICS_RECORDER_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_AT_MEMORY_AT_MEMORY_METRICS_RECORDER_H_
 

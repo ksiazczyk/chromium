@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FormStructureRationalizer implementation
+// summary: Implements rationalization of parsed field types, covering phone numbers, autocomplete attributes, credit cards and contenteditables.
+// ---
+
 #include "components/autofill/core/browser/form_structure_rationalizer.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill risk fingerprint browser tests
+// summary: Browser test verifying that fingerprint generation fills machine characteristics such as fonts, screen info, and geolocation data as expected.
+// ---
+
 #include "components/autofill/content/browser/risk/fingerprint.h"
 
 #include <stdint.h>

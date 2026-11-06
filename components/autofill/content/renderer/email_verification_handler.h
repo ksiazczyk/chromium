@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Email verification handler header
+// summary: Declares the EmailVerificationHandler class, which stores email verification tokens received from the browser and injects them into forms on submission.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CONTENT_RENDERER_EMAIL_VERIFICATION_HANDLER_H_
 #define COMPONENTS_AUTOFILL_CONTENT_RENDERER_EMAIL_VERIFICATION_HANDLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill annotations provider implementation
+// summary: Implements the optimization guide autofill annotations provider, mapping autofill forms, sections and field types into AI page content metadata for the actor integration.
+// ---
+
 #include "components/autofill/content/browser/integrators/actor/autofill_annotations_provider_impl.h"
 
 #include "base/containers/map_util.h"

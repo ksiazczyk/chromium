@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the autofill content mojom bindings
+summary: Defines the mojom GN target that builds autofill_agent.mojom and autofill_driver.mojom with dependencies on autofill types, mojo base, geometry, and URL mojoms.

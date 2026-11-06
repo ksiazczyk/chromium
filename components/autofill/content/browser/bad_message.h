@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill bad message checks declarations
+// summary: Declares helpers to validate autofill message arguments, killing the renderer when fields are missing from a form or a frame is prerendering.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CONTENT_BROWSER_BAD_MESSAGE_H_
 #define COMPONENTS_AUTOFILL_CONTENT_BROWSER_BAD_MESSAGE_H_
 

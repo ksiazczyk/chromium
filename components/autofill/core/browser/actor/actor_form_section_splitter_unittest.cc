@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Actor form section splitter unit tests
+// summary: Unit tests for ShouldSplitOutContactInfo and trigger field retargeting, including feature flag and histogram checks.
+// ---
+
 #include "components/autofill/core/browser/actor/actor_form_section_splitter.h"
 
 #include "base/test/metrics/histogram_tester.h"

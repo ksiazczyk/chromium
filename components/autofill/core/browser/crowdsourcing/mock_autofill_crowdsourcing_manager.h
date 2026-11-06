@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock Autofill crowdsourcing manager header
+// summary: Declares MockAutofillCrowdsourcingManager, which mocks StartQueryRequest and StartUploadRequest for use in Autofill tests.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_CROWDSOURCING_MOCK_AUTOFILL_CROWDSOURCING_MANAGER_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_CROWDSOURCING_MOCK_AUTOFILL_CROWDSOURCING_MANAGER_H_
 

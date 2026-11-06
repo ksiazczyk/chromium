@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ActorAutofillManager
+// summary: Verifies that form fills are logged as critical actions when a tab has an active actor task, using a mocked critical action service.
+// ---
+
 #include "components/autofill/core/browser/actor/actor_autofill_manager.h"
 
 #include <memory>

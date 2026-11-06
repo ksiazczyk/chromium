@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill renderer timing metrics implementation
+// summary: Implements ScopedCallTimer, which records UMA histograms for autofill renderer call durations and intervals since the last AutofillAgent reset and DOMContentLoaded event.
+// ---
+
 #include "components/autofill/content/renderer/timing.h"
 
 #include "base/logging.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TestContentAutofillClient test utility
+// summary: Declares a WebContents-associated variant of TestAutofillClient for use in content-layer autofill tests, best injected via TestAutofillClientInjector.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CONTENT_BROWSER_TEST_CONTENT_AUTOFILL_CLIENT_H_
 #define COMPONENTS_AUTOFILL_CONTENT_BROWSER_TEST_CONTENT_AUTOFILL_CLIENT_H_
 

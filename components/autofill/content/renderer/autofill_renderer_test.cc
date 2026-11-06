@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill renderer test fixture implementation
+// summary: Implements the AutofillRendererTest base fixture that wires a mock AutofillDriver and autofill agents for renderer tests.
+// ---
+
 #include "components/autofill/content/renderer/autofill_renderer_test.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor key metrics recorder header
+// summary: Declares ActorKeyMetricsRecorder, an AutofillManager observer that tracks actor-filled forms and per-product state for metrics recording.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_ACTOR_ACTOR_KEY_METRICS_RECORDER_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_ACTOR_ACTOR_KEY_METRICS_RECORDER_H_
 

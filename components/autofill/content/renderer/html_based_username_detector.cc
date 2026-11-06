@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTML-based username detector implementation
+// summary: Implements heuristics that identify username fields by analyzing HTML attribute values against categorized latin and non-latin word dictionaries.
+// ---
+
 #include "components/autofill/content/renderer/html_based_username_detector.h"
 
 #include <algorithm>

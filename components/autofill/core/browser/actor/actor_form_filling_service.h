@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActorFormFillingService interface
+// summary: Defines the interface for actor tooling to request autofill suggestions and fill chosen suggestions into form sections.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_ACTOR_ACTOR_FORM_FILLING_SERVICE_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_ACTOR_ACTOR_FORM_FILLING_SERVICE_H_
 

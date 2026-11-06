@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ContentAutofillDriverFactory test API implementation
+// summary: Implements test helpers to create the factory, stealthily exchange drivers, and simulate driver lifecycle state changes in tests.
+// ---
+
 #include "components/autofill/content/browser/content_autofill_driver_factory_test_api.h"
 
 #include "base/check.h"

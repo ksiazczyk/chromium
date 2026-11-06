@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Form structure implementation
+// summary: Implements FormStructure, the core representation of a parsed web form used for field classification, rationalization, sectioning and server interaction.
+// ---
+
 #include "components/autofill/core/browser/form_structure.h"
 
 #include <stddef.h>

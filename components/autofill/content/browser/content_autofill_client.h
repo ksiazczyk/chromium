@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentAutofillClient class declaration
+// summary: Declares the common base class for AutofillClients that use the //content layer, with one instance per WebContents and access to drivers and managers.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CONTENT_BROWSER_CONTENT_AUTOFILL_CLIENT_H_
 #define COMPONENTS_AUTOFILL_CONTENT_BROWSER_CONTENT_AUTOFILL_CLIENT_H_
 

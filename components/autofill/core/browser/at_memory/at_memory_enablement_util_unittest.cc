@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for AtMemory enablement utility
+// summary: Unit tests verifying MayPerformAtMemoryAction behavior, including feature flags, personal context eligibility, subscription checks and evaluation order of permission checks.
+// ---
+
 #include "components/autofill/core/browser/at_memory/at_memory_enablement_util.h"
 
 #include <memory>

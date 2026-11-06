@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Actor form filling service test API
+// summary: Test helper class exposing the private per-session filling errors of ActorFormFillingServiceImpl to simplify unit testing.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_ACTOR_ACTOR_FORM_FILLING_SERVICE_IMPL_TEST_API_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_ACTOR_ACTOR_FORM_FILLING_SERVICE_IMPL_TEST_API_H_
 

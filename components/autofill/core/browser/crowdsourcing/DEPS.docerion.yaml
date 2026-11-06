@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for crowdsourcing tests
+summary: Chromium DEPS rule that allows the crowdsourcing manager unit test to include headers from services/network/test.

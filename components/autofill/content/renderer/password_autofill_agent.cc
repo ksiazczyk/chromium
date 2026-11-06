@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password autofill agent implementation
+// summary: Renderer-side agent that fills and manages password credentials in web forms and communicates with the browser-side password manager driver.
+// ---
+
 #include "components/autofill/content/renderer/password_autofill_agent.h"
 
 #include <stddef.h>

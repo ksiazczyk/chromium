@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActorAutofillManager class declaration
+// summary: Declares an AutofillManager observer that manages actor-related autofill state for a tab and exposes key metrics recording.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_ACTOR_ACTOR_AUTOFILL_MANAGER_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_ACTOR_ACTOR_AUTOFILL_MANAGER_H_
 

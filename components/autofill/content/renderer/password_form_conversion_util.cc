@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password form conversion utilities implementation
+// summary: Implements conversion of web forms into FormData for the password manager, including detection of GAIA reauthentication and skip-save-password forms.
+// ---
+
 #include "components/autofill/content/renderer/password_form_conversion_util.h"
 
 #include <optional>

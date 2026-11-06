@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Server prediction overrides unit tests
+// summary: Unit tests verifying parsing of server prediction override strings, including malformed signatures, signature collisions, and pass-through behavior.
+// ---
+
 #include "components/autofill/core/browser/crowdsourcing/server_prediction_overrides.h"
 
 #include <string_view>

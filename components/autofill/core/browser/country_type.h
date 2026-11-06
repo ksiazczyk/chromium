@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Country code strong aliases
+// summary: Defines GeoIpCountryCode and AddressCountryCode strong alias types for uppercase ISO 3166-1 alpha-2 country codes.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_COUNTRY_TYPE_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_COUNTRY_TYPE_H_
 

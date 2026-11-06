@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS with security review rules for IPC files
+summary: Routes ownership of mojom, typemap, traits, and message files to IPC security owners because IPC changes can introduce sandbox escapes.

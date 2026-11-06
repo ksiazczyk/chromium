@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page form analyser logger implementation
+// summary: Buffers form analysis messages and flushes them to the DevTools console with node references, obfuscating valued password inputs.
+// ---
+
 #include "components/autofill/content/renderer/page_form_analyser_logger.h"
 
 #include <utility>

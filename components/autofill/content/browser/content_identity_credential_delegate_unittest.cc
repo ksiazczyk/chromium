@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ContentIdentityCredentialDelegate unit tests
+// summary: Tests the identity credential delegate with a mocked AutofillSource and test accounts, covering suggestion generation and acceptance notifications.
+// ---
+
 #include "components/autofill/content/browser/content_identity_credential_delegate.h"
 
 #include "base/test/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillType implementation
+// summary: Implements the AutofillType class, including normalization of field type sets and constraint sets for address, credit card, and other type categories.
+// ---
+
 #include "components/autofill/core/browser/autofill_type.h"
 
 #include <algorithm>

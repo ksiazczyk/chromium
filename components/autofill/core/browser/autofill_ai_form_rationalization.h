@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill AI form rationalization API
+// summary: Declares functions that determine and rationalize attribute type assignments of form fields for Autofill AI entity types.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_AUTOFILL_AI_FORM_RATIONALIZATION_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_AUTOFILL_AI_FORM_RATIONALIZATION_H_
 

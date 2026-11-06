@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AtMemory handler implementation
+// summary: Implements renderer-side AtMemory trigger detection via keyboard shortcuts and stateful filling of values into fields.
+// ---
+
 #include "components/autofill/content/renderer/at_memory_handler.h"
 
 #include <algorithm>

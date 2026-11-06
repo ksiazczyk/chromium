@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillFormatString declaration
+// summary: Declares the AutofillFormatString struct describing field formatting information, currently used only for filling Autofill AI data.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_AUTOFILL_FORMAT_STRING_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_AUTOFILL_FORMAT_STRING_H_
 

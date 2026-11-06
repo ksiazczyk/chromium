@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TestContentAutofillClient implementation
+// summary: Implements a WebContents-bound test autofill client that creates a BrowserAutofillManager and provides an OTP field detector.
+// ---
+
 #include "components/autofill/content/browser/test_content_autofill_client.h"
 
 #include <memory>

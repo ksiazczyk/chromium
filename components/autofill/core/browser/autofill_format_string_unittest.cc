@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AutofillFormatString unit tests
+// summary: Unit tests checking format string validity rules and which field types each format string type is compatible with.
+// ---
+
 #include "components/autofill/core/browser/autofill_format_string.h"
 
 #include "components/autofill/core/browser/field_types.h"

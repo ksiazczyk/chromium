@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor key metrics recorder implementation
+// summary: Implements tracking of actor form filling state and recording key metrics such as filling assistance when forms are submitted.
+// ---
+
 #include "components/autofill/core/browser/actor/actor_key_metrics_recorder.h"
 
 #include <string>

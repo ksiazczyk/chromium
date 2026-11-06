@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill trigger source conversion implementation
+// summary: Maps AutofillSuggestionTriggerSource values to AutofillTriggerSource, choosing popup or keyboard accessory depending on the Android build.
+// ---
+
 #include "components/autofill/core/browser/autofill_trigger_source.h"
 
 #include "base/notreached.h"

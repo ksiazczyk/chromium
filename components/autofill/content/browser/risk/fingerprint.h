@@ -9,6 +9,12 @@
 // generated with explicit user consent, including consent to gather geolocation
 // data.
 
+// ---docerion
+// type: source
+// title: Autofill risk fingerprint API
+// summary: Declares GetFingerprint, which asynchronously produces a machine and user fingerprint used for fraud prevention in Google Wallet purchases.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CONTENT_BROWSER_RISK_FINGERPRINT_H_
 #define COMPONENTS_AUTOFILL_CONTENT_BROWSER_RISK_FINGERPRINT_H_
 

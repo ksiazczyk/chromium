@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the autofill renderer directory
+summary: Lists domain expert owners and per-file rules that delegate password and username files to the password manager owners.

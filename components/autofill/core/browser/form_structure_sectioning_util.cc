@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Form structure sectioning utility implementation
+// summary: Implements AssignSections, which splits autofill forms into logical sections such as shipping, billing and credit card based on field types, focusability and autocomplete attributes.
+// ---
+
 #include "components/autofill/core/browser/form_structure_sectioning_util.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AtMemory manager implementation
+// summary: Implements the AtMemoryManager that handles queries to the AtMemoryQueryService, manages suggestion state and records session metrics for the AtMemory autofill feature.
+// ---
+
 #include "components/autofill/core/browser/at_memory/at_memory_manager.h"
 
 #include <stdint.h>

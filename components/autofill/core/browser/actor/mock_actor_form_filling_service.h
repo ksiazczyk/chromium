@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock actor form filling service
+// summary: Declares a gmock mock of the ActorFormFillingService interface so tests can stub suggestions, filling, preview, and scrolling calls.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_ACTOR_MOCK_ACTOR_FORM_FILLING_SERVICE_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_ACTOR_MOCK_ACTOR_FORM_FILLING_SERVICE_H_
 

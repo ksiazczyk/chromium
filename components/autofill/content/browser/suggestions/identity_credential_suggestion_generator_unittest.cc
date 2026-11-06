@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Identity credential suggestion generator unit tests
+// summary: Unit tests for the identity credential suggestion generator, using a mocked AutofillSource and test password forms to verify suggestion generation.
+// ---
+
 #include "components/autofill/content/browser/suggestions/identity_credential_suggestion_generator.h"
 
 #include "base/test/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FormStructure test API implementation
+// summary: Implements FormStructureTestApi helpers that set heuristic and server field types on a FormStructure for use in autofill tests.
+// ---
+
 #include "components/autofill/core/browser/form_structure_test_api.h"
 
 #include <ranges>

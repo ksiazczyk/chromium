@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTML-based username detector vocabulary
+// summary: Defines multilingual lists of negative keywords that mark form fields as non-username fields for the HTML-based username detector.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CONTENT_RENDERER_HTML_BASED_USERNAME_DETECTOR_VOCABULARY_H_
 #define COMPONENTS_AUTOFILL_CONTENT_RENDERER_HTML_BASED_USERNAME_DETECTOR_VOCABULARY_H_
 

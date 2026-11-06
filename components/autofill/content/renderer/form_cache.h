@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FormCache class declaration
+// summary: Declares FormCache, which manages forms in a single RenderFrame and reports the diff of new, changed, and removed forms since the last update.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CONTENT_RENDERER_FORM_CACHE_H_
 #define COMPONENTS_AUTOFILL_CONTENT_RENDERER_FORM_CACHE_H_
 

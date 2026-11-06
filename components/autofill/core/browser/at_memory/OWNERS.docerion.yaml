@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the at_memory directory
+summary: Lists the email addresses of the owners responsible for reviewing changes to the at_memory autofill directory.

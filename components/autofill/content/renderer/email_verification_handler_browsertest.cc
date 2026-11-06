@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Email verification handler browser tests
+// summary: Browser tests verifying that email verification tokens are injected into forms only when the email field value still matches the verified address.
+// ---
+
 #include "components/autofill/content/renderer/email_verification_handler.h"
 
 #include <optional>

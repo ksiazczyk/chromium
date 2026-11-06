@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActorAutofillManager implementation
+// summary: Implements per-tab actor autofill state, tracking the active actor task and logging form fills as critical actions.
+// ---
+
 #include "components/autofill/core/browser/actor/actor_autofill_manager.h"
 
 #include "base/feature_list.h"

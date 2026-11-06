@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Votes uploader test API
+// summary: Declares VotesUploaderTestApi, giving tests access to the task runner and a way to flush pending votes synchronously.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_CROWDSOURCING_VOTES_UPLOADER_TEST_API_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_CROWDSOURCING_VOTES_UPLOADER_TEST_API_H_
 

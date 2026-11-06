@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill data provider unit tests
+// summary: Unit tests verifying retrieval of addresses, cards, IBANs, entities and loyalty cards through the data provider.
+// ---
+
 #include "components/autofill/core/browser/at_memory/autofill_data_provider.h"
 
 #include <vector>

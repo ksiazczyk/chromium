@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Identity credential suggestion generator implementation
+// summary: Implements the generator that builds identity credential autofill suggestions for password fields from WebID accounts provided by the AutofillSource.
+// ---
+
 #include "components/autofill/content/browser/suggestions/identity_credential_suggestion_generator.h"
 
 #include <algorithm>

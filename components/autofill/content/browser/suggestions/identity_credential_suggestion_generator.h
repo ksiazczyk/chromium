@@ -3,6 +3,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Identity credential suggestion generator header
+// summary: Declares the IdentityCredentialSuggestionGenerator class, a SuggestionGenerator that produces identity credential suggestions using an injectable AutofillSource callback.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CONTENT_BROWSER_SUGGESTIONS_IDENTITY_CREDENTIAL_SUGGESTION_GENERATOR_H_
 #define COMPONENTS_AUTOFILL_CONTENT_BROWSER_SUGGESTIONS_IDENTITY_CREDENTIAL_SUGGESTION_GENERATOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test votes uploader header
+// summary: Declares TestVotesUploader, a VotesUploader subclass that runs vote uploads synchronously and checks expected submitted field types in tests.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_CROWDSOURCING_TEST_VOTES_UPLOADER_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_CROWDSOURCING_TEST_VOTES_UPLOADER_H_
 

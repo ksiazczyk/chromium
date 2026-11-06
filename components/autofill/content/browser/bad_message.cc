@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill bad message checks implementation
+// summary: Implements checks that validate autofill Mojo message arguments and report bad messages for unexpected fields or prerendering frames.
+// ---
+
 #include "components/autofill/content/browser/bad_message.h"
 
 #include <algorithm>

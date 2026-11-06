@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AutofillServerPrediction unit tests
+// summary: Unit tests checking that AutofillServerPrediction is built correctly from an AutofillField's server predictions.
+// ---
+
 #include "components/autofill/core/browser/autofill_server_prediction.h"
 
 #include "components/autofill/core/browser/autofill_field.h"

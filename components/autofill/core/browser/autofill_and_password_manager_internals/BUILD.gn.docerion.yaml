@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for autofill and password manager internals WebUI
+summary: GN build configuration that compiles the autofill and password manager internals WebUI from its HTML and TypeScript sources.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock form predictions tracker declarations
+// summary: Declares MockFormPredictionsTracker, a gmock mock of FormPredictionsTracker for use in tests.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_MOCK_FORM_PREDICTIONS_TRACKER_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_MOCK_FORM_PREDICTIONS_TRACKER_H_
 

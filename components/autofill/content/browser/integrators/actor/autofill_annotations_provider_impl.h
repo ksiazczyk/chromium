@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill annotations provider class declaration
+// summary: Declares AutofillAnnotationsProviderImpl, which supplies autofill field metadata and autofill availability to the optimization guide and is registered by the AutofillDriverFactory.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CONTENT_BROWSER_INTEGRATORS_ACTOR_AUTOFILL_ANNOTATIONS_PROVIDER_IMPL_H_
 #define COMPONENTS_AUTOFILL_CONTENT_BROWSER_INTEGRATORS_ACTOR_AUTOFILL_ANNOTATIONS_PROVIDER_IMPL_H_
 

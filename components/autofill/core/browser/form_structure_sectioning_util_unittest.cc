@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for form structure sectioning
+// summary: Unit tests verifying section assignment for forms, including the example form from the header comments and autocomplete-based sections.
+// ---
+
 #include "components/autofill/core/browser/form_structure_sectioning_util.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Votes uploader implementation
+// summary: Implements determining, buffering, and uploading autofill form votes to the crowdsourcing server, including quality metrics and survey triggering.
+// ---
+
 #include "components/autofill/core/browser/crowdsourcing/votes_uploader.h"
 
 #include <stddef.h>

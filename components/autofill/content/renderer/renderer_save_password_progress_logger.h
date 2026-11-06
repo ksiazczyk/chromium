@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Renderer save password progress logger
+// summary: Declares a logger specialization that sends save-password progress logs from the renderer to the browser process over IPC.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CONTENT_RENDERER_RENDERER_SAVE_PASSWORD_PROGRESS_LOGGER_H_
 #define COMPONENTS_AUTOFILL_CONTENT_RENDERER_RENDERER_SAVE_PASSWORD_PROGRESS_LOGGER_H_
 

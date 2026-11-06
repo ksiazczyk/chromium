@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Focus test utilities header
+// summary: Declares FocusTestUtils, a test helper that records the sequence of focus, blur and change events for form fields during renderer tests.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CONTENT_RENDERER_FOCUS_TEST_UTIL_H_
 #define COMPONENTS_AUTOFILL_CONTENT_RENDERER_FOCUS_TEST_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill crowdsourcing manager implementation
+// summary: Implements sending query and upload requests to the autofill server, including caching, retries and upload history.
+// ---
+
 #include "components/autofill/core/browser/crowdsourcing/autofill_crowdsourcing_manager.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Actor test utilities implementation
+// summary: Implements test helpers for Autofill Actor tests, including a test driver, a controllable credit card access manager, a test client, and a base test fixture.
+// ---
+
 #include "components/autofill/core/browser/actor/actor_test_util.h"
 
 #include "base/test/metrics/histogram_tester.h"

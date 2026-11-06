@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password form conversion utilities browsertest
+// summary: Browser tests that build password forms in HTML and verify their conversion into FormData, including GAIA reauthentication detection.
+// ---
+
 #include "components/autofill/content/renderer/password_form_conversion_util.h"
 
 #include <stddef.h>

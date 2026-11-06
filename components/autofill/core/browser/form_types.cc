@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Form type mapping implementation
+// summary: Maps field type groups to form types, provides string conversions for logging and checks whether a form has all credit card fields.
+// ---
+
 #include "components/autofill/core/browser/form_types.h"
 
 #include <algorithm>

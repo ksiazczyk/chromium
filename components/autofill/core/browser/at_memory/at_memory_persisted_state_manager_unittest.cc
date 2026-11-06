@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AtMemory persisted state manager unit tests
+// summary: Unit tests covering state restoration, suggestion expiry and reset behavior of the AtMemory persisted state manager.
+// ---
+
 #include "components/autofill/core/browser/at_memory/at_memory_persisted_state_manager.h"
 
 #include <memory>

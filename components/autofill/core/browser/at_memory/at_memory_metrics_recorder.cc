@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AtMemory metrics recorder implementation
+// summary: Implements recording of AtMemory metrics such as query completion status, UI session outcomes and PII fetch sources to histograms and UKM.
+// ---
+
 #include "components/autofill/core/browser/at_memory/at_memory_metrics_recorder.h"
 
 #include <algorithm>

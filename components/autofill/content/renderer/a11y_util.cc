@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility suggestion availability utility
+// summary: Maps AutofillSuggestionAvailability mojom values to Blink accessibility enums and applies them to form control elements.
+// ---
+
 #include "components/autofill/content/renderer/a11y_util.h"
 
 #include "third_party/blink/public/web/web_ax_object.h"

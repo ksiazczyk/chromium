@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AtMemory metrics recorder unit tests
+// summary: Unit tests verifying that AtMemoryMetricsRecorder logs histogram and UKM metrics for popup and search events.
+// ---
+
 #include "components/autofill/core/browser/at_memory/at_memory_metrics_recorder.h"
 
 #include <memory>

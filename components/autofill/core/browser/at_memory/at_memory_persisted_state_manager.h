@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AtMemory persisted state manager
+// summary: Declares the manager that keeps per-field AtMemory search state, metrics and previously filled suggestions.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_AT_MEMORY_AT_MEMORY_PERSISTED_STATE_MANAGER_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_AT_MEMORY_AT_MEMORY_PERSISTED_STATE_MANAGER_H_
 

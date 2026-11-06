@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Renderer save password progress logger
+// summary: Implements a logger that sends scrubbed save-password progress messages and element names to the browser via the password manager driver.
+// ---
+
 #include "components/autofill/content/renderer/renderer_save_password_progress_logger.h"
 
 #include <string>

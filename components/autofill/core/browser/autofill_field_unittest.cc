@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AutofillField unit tests
+// summary: Unit tests verifying AutofillField type resolution, including how server, autocomplete, and heuristic predictions interact.
+// ---
+
 #include "components/autofill/core/browser/autofill_field.h"
 
 #include <optional>
