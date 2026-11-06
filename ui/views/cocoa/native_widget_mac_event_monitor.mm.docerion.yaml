@@ -1,0 +1,4 @@
+# Docerion header of native_widget_mac_event_monitor.mm.
+type: source
+title: NativeWidgetMacEventMonitor implementation
+summary: Implements the constructor and destructor of the NativeWidgetMacEventMonitor class.

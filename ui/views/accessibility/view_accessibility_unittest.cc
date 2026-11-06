@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ViewAccessibility unit tests
+// summary: Unit tests for ViewAccessibility covering attribute setters, live region behavior, and accessibility event firing.
+// ---
+
 #include "ui/views/accessibility/view_accessibility.h"
 
 #include <algorithm>

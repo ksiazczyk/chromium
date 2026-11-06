@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AtomicViewAXTreeManager class declaration
+// summary: Declares a temporary tree manager that exposes a single View as a one-node accessibility tree, enabling UIA text providers and AXPosition objects until the ViewsAX project is completed.
+// ---
+
 #ifndef UI_VIEWS_ACCESSIBILITY_ATOMIC_VIEW_AX_TREE_MANAGER_H_
 #define UI_VIEWS_ACCESSIBILITY_ATOMIC_VIEW_AX_TREE_MANAGER_H_
 

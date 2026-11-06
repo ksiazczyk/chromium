@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Footnote container view implementation
+// summary: Implements FootnoteContainerView, a bubble footer container that mirrors its child's visibility and draws a rounded background with a top border.
+// ---
+
 #include "ui/views/bubble/footnote_container_view.h"
 
 #include <algorithm>

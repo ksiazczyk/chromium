@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SquareInkDropRipple class declaration
+// summary: Declares SquareInkDropRipple, an ink drop ripple animating between circle and rounded rectangle shapes per InkDropState.
+// ---
+
 #ifndef UI_VIEWS_ANIMATION_SQUARE_INK_DROP_RIPPLE_H_
 #define UI_VIEWS_ANIMATION_SQUARE_INK_DROP_RIPPLE_H_
 

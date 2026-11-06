@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bubble dialog button configuration helper declaration
+// summary: Declares ConfigureBubbleButtonForParams, a helper that configures bubble dialog delegate buttons from a ui::DialogModel button.
+// ---
+
 #ifndef UI_VIEWS_BUBBLE_BUBBLE_DIALOG_UTILS_H_
 #define UI_VIEWS_BUBBLE_BUBBLE_DIALOG_UTILS_H_
 

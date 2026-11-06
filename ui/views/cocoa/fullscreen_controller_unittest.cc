@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mac fullscreen controller unit tests
+// summary: GMock-based unit tests for the macOS native widget fullscreen controller, covering user-initiated and programmatic fullscreen transitions.
+// ---
+
 #include "base/test/run_until.h"
 #include "base/test/task_environment.h"
 #include "components/remote_cocoa/app_shim/native_widget_ns_window_fullscreen_controller.h"

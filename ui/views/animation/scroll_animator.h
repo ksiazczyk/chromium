@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScrollAnimator and ScrollDelegate declarations
+// summary: Declares the ScrollAnimator class and its ScrollDelegate interface for velocity-driven, decelerating fling scrolling.
+// ---
+
 #ifndef UI_VIEWS_ANIMATION_SCROLL_ANIMATOR_H_
 #define UI_VIEWS_ANIMATION_SCROLL_ANIMATOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXWindowObjWrapper class declaration
+// summary: Declares AXWindowObjWrapper, which exposes an aura Window to the Views accessibility object cache and observes window and input method changes to fire accessibility events.
+// ---
+
 #ifndef UI_VIEWS_ACCESSIBILITY_AX_WINDOW_OBJ_WRAPPER_H_
 #define UI_VIEWS_ACCESSIBILITY_AX_WINDOW_OBJ_WRAPPER_H_
 

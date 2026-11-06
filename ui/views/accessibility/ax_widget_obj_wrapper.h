@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXWidgetObjWrapper class declaration
+// summary: Declares AXWidgetObjWrapper, an AXAuraObjWrapper and WidgetObserver that describes a Widget for use with other accessibility classes.
+// ---
+
 #ifndef UI_VIEWS_ACCESSIBILITY_AX_WIDGET_OBJ_WRAPPER_H_
 #define UI_VIEWS_ACCESSIBILITY_AX_WIDGET_OBJ_WRAPPER_H_
 

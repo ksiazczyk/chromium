@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FloodFillInkDropRipple unit tests
+// summary: Unit tests verifying center point mapping for irregular clip bounds, maximum distance to corners, and final opacity and transform values for activated states.
+// ---
+
 #include "ui/views/animation/flood_fill_ink_drop_ripple.h"
 
 #include <cmath>

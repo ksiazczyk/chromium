@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ink drop ripple unit tests
+// summary: Parameterized unit tests for InkDropRipple derivatives, covering square and flood fill ripples across state transitions and animations.
+// ---
+
 #include "ui/views/animation/ink_drop_ripple.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ink drop highlight test API header
+// summary: Declares InkDropHighlightTestApi, a test API providing internal access to an InkDropHighlight and animation control via MultiLayerAnimatorTestController.
+// ---
+
 #ifndef UI_VIEWS_ANIMATION_TEST_INK_DROP_HIGHLIGHT_TEST_API_H_
 #define UI_VIEWS_ANIMATION_TEST_INK_DROP_HIGHLIGHT_TEST_API_H_
 

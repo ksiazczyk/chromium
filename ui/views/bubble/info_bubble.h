@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Info bubble class declaration
+// summary: Declares the InfoBubble class, which creates and manages an information bubble anchored to a view for errors or tooltips.
+// ---
+
 #ifndef UI_VIEWS_BUBBLE_INFO_BUBBLE_H_
 #define UI_VIEWS_BUBBLE_INFO_BUBBLE_H_
 

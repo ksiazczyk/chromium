@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SquareInkDropRipple unit tests
+// summary: Unit tests verifying transform calculations and state animation behavior of SquareInkDropRipple.
+// ---
+
 #include "ui/views/animation/square_ink_drop_ripple.h"
 
 #include <memory>

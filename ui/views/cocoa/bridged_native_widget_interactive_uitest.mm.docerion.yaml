@@ -1,0 +1,4 @@
+# Docerion header of bridged_native_widget_interactive_uitest.mm.
+type: test
+title: Bridged native widget interactive UI tests
+summary: Interactive UI tests verifying fullscreen state tracking and window behavior for bridged native widgets on macOS.

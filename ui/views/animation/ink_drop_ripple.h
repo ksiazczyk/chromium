@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ink drop ripple base class
+// summary: Declares the InkDropRipple base class that provides visual feedback animations for View state and manages ripple observers.
+// ---
+
 #ifndef UI_VIEWS_ANIMATION_INK_DROP_RIPPLE_H_
 #define UI_VIEWS_ANIMATION_INK_DROP_RIPPLE_H_
 

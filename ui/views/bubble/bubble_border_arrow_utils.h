@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bubble border arrow utilities declaration
+// summary: Declares helper functions for determining arrow sides, anchor points, offsets, insets, and sizes for bubble border arrows.
+// ---
+
 #ifndef UI_VIEWS_BUBBLE_BUBBLE_BORDER_ARROW_UTILS_H_
 #define UI_VIEWS_BUBBLE_BUBBLE_BORDER_ARROW_UTILS_H_
 

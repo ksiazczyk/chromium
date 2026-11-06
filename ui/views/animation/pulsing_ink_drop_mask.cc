@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pulsing ink drop mask implementation
+// summary: Implements PulsingInkDropMask, which paints a throb-animated rounded highlight for in-product help feature promos, handling internal padding and RTL layouts.
+// ---
+
 #include "ui/views/animation/pulsing_ink_drop_mask.h"
 
 #include "base/i18n/rtl.h"

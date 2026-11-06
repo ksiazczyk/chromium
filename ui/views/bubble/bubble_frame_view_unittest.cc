@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bubble frame view unit tests
+// summary: Unit tests for BubbleFrameView covering client sizing, borders, arrows, footnotes, and paint behavior of bubble frames.
+// ---
+
 #include "ui/views/bubble/bubble_frame_view.h"
 
 #include <algorithm>

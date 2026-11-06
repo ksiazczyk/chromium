@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ink drop utility functions
+// summary: Implements helpers that compute a subpixel correction transform for ink drop layers and detect when a platform high-contrast ink drop should be used for a view.
+// ---
+
 #include "ui/views/animation/ink_drop_util.h"
 
 #include <cmath>

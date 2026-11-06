@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Windows view accessibility delegate
+// summary: Tests IAccessible2 and UI Automation properties and patterns of Views on Windows, including names, states, and text range bounds.
+// ---
+
 #include "ui/views/accessibility/view_ax_platform_node_delegate_win.h"
 
 #include <oleacc.h>

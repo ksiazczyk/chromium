@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InkDrop base class implementation
+// summary: Implements the InkDrop base class with static install, remove, and factory helpers that configure hosts for square ripple, flood-fill ripple, or no auto-highlight behavior.
+// ---
+
 #include "ui/views/animation/ink_drop.h"
 
 #include <memory>

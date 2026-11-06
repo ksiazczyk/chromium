@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WidgetAXManager implementation
+// summary: Implements the per-Widget accessibility tree manager, including event serialization rules, tree hosting of child widgets, focus handling, and dispatch to BrowserAccessibilityManager.
+// ---
+
 #include "ui/views/accessibility/tree/widget_ax_manager.h"
 
 #include <utility>

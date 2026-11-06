@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Atomic view AX tree manager implementation
+// summary: Implements a single-node AX tree manager that exposes one view, such as a text field, as an atomic accessibility tree and refreshes its root data from the delegate.
+// ---
+
 #include "ui/views/accessibility/atomic_view_ax_tree_manager.h"
 
 #include <memory>

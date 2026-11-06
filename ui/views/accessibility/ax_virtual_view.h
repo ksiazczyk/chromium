@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXVirtualView class declaration
+// summary: Declares AXVirtualView, a virtual accessibility-only view that exposes lightweight UI objects such as tree and table contents, with parent-child management and platform node delegate support.
+// ---
+
 #ifndef UI_VIEWS_ACCESSIBILITY_AX_VIRTUAL_VIEW_H_
 #define UI_VIEWS_ACCESSIBILITY_AX_VIRTUAL_VIEW_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BubbleDialogModelHost class declaration
+// summary: Declares BubbleDialogModelHost, a DialogModelHost that presents a ui::DialogModel as an anchored bubble dialog with custom field support.
+// ---
+
 #ifndef UI_VIEWS_BUBBLE_BUBBLE_DIALOG_MODEL_HOST_H_
 #define UI_VIEWS_BUBBLE_BUBBLE_DIALOG_MODEL_HOST_H_
 

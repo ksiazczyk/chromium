@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InkDropHost unit tests
+// summary: Unit tests for InkDropHost covering ink drop creation, ink drop modes, mouse events triggering hover state, and related behavior via test APIs.
+// ---
+
 #include "ui/views/animation/ink_drop_host.h"
 
 #include <memory>

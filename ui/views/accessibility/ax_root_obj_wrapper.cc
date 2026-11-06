@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXRootObjWrapper implementation
+// summary: Implements the desktop root accessibility wrapper that serializes primary display bounds and orientation and fires load-complete events on display metric changes.
+// ---
+
 #include "ui/views/accessibility/ax_root_obj_wrapper.h"
 
 #include "ui/accessibility/ax_enums.mojom.h"

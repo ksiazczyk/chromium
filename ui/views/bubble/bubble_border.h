@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BubbleBorder class declaration
+// summary: Declares the border class that renders bubble borders with optional arrows, shadow styles, and arrow geometry constants.
+// ---
+
 #ifndef UI_VIEWS_BUBBLE_BUBBLE_BORDER_H_
 #define UI_VIEWS_BUBBLE_BUBBLE_BORDER_H_
 

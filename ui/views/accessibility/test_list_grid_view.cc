@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestListGridView implementation
+// summary: Implements TestListGridView, a test view with the listGrid role used to exercise row and column count accessibility APIs.
+// ---
+
 #include "ui/views/accessibility/test_list_grid_view.h"
 
 #include "ui/accessibility/ax_enums.mojom.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InkDropEventHandler implementation
+// summary: Implements the event handler that translates mouse, gesture, and view changes on the host view into ink drop state animations, with Windows touch handling rules.
+// ---
+
 #include "ui/views/animation/ink_drop_event_handler.h"
 
 #include <memory>

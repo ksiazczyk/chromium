@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WidgetAXManagerObserver interface
+// summary: Lightweight observer interface for WidgetAXManager lifecycle events, kept in its own header to avoid pulling the full manager definition into widely used headers.
+// ---
+
 #ifndef UI_VIEWS_ACCESSIBILITY_TREE_WIDGET_AX_MANAGER_OBSERVER_H_
 #define UI_VIEWS_ACCESSIBILITY_TREE_WIDGET_AX_MANAGER_OBSERVER_H_
 

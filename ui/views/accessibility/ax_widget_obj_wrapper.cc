@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXWidgetObjWrapper implementation
+// summary: Implements AXWidgetObjWrapper, which describes a Widget for accessibility, serializing its role, name, and bounds and removing it from the cache on widget destruction.
+// ---
+
 #include "ui/views/accessibility/ax_widget_obj_wrapper.h"
 
 #include <vector>

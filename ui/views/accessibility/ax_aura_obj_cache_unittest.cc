@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AXAuraObjCache unit tests
+// summary: Unit tests covering view removal, wrapper serialization, focus handling, and window management in the Aura accessibility object cache.
+// ---
+
 #include "ui/views/accessibility/ax_aura_obj_cache.h"
 
 #include <string>

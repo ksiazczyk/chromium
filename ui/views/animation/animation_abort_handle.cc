@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AnimationAbortHandle implementation
+// summary: Implements a handle that aborts all animations on its observed layers when destroyed, tracking animation state and layer lifetimes.
+// ---
+
 #include "ui/views/animation/animation_abort_handle.h"
 
 #include "ui/compositor/layer.h"

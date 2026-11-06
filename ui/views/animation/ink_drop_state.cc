@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ink drop state string conversion
+// summary: Implements ToString for the InkDropState enum, mapping each state such as HIDDEN and ACTIVATED to its name.
+// ---
+
 #include "ui/views/animation/ink_drop_state.h"
 
 #include <ostream>

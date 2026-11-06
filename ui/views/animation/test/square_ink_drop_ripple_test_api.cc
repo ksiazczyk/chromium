@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SquareInkDropRipple test API implementation
+// summary: Implements a test API giving tests access to SquareInkDropRipple transforms, current opacity and layer animators.
+// ---
+
 #include "ui/views/animation/test/square_ink_drop_ripple_test_api.h"
 
 #include <vector>

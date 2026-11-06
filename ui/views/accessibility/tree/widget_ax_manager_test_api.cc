@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WidgetAXManager test API implementation
+// summary: Implements the test helper that exposes WidgetAXManager internals, captures the last serialization, and lets tests wait for the next pending update.
+// ---
+
 #include "ui/views/accessibility/tree/widget_ax_manager_test_api.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BubbleSlideAnimator implementation
+// summary: Implements BubbleSlideAnimator, which animates a bubble widget between anchor views, updating bounds per frame and notifying slide progressed and complete callbacks.
+// ---
+
 #include "ui/views/animation/bubble_slide_animator.h"
 
 #include "base/time/time.h"

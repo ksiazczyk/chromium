@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FloodFillInkDropRipple class declaration
+// summary: Declares the FloodFillInkDropRipple class, its valid ink drop state transitions, constructors taking host size and clip insets, and duration controls.
+// ---
+
 #ifndef UI_VIEWS_ANIMATION_FLOOD_FILL_INK_DROP_RIPPLE_H_
 #define UI_VIEWS_ANIMATION_FLOOD_FILL_INK_DROP_RIPPLE_H_
 

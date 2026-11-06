@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestInkDropHost implementation
+// summary: Implements a test View host that installs ink drop factories and counts created ripples, highlights and layers.
+// ---
+
 #include "ui/views/animation/test/test_ink_drop_host.h"
 
 #include <memory>

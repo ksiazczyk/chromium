@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ViewsAXManager implementation
+// summary: Implements the manager that maintains and serializes the accessibility tree for Chromium Views, handling enable and disable, events, data changes, hit tests, and alerts on Aura.
+// ---
+
 #include "ui/views/accessibility/tree/views_ax_manager.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the accessibility alert window
+// summary: Tests that HandleAlert fires alert events through the cache delegate and that environment destruction cleans up the alert window.
+// ---
+
 #include "ui/views/accessibility/accessibility_alert_window.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

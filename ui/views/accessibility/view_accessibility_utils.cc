@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ViewAccessibilityUtils implementation
+// summary: Implements ViewAccessibilityUtils helpers for locating focused child widgets, merging AXNodeData attributes, and validating attribute usage during initialization.
+// ---
+
 #include "ui/views/accessibility/view_accessibility_utils.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SquareInkDropRipple implementation
+// summary: Implements a square ink drop ripple that animates between circles and rounded rectangles for each ink drop state.
+// ---
+
 #include "ui/views/animation/square_ink_drop_ripple.h"
 
 #include <algorithm>

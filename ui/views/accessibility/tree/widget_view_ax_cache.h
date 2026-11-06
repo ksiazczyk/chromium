@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WidgetViewAXCache class header
+// summary: Declares WidgetViewAXCache, which maps ViewAccessibility nodes by AXNodeID and snapshots children for stable tree serialization.
+// ---
+
 #ifndef UI_VIEWS_ACCESSIBILITY_TREE_WIDGET_VIEW_AX_CACHE_H_
 #define UI_VIEWS_ACCESSIBILITY_TREE_WIDGET_VIEW_AX_CACHE_H_
 

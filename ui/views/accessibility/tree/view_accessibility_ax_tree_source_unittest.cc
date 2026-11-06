@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ViewAccessibilityAXTreeSource unit tests
+// summary: Unit tests covering cache insert, get, and remove, root and id lookup, tree data population, child counts, and accessible action handling for ViewAccessibilityAXTreeSource.
+// ---
+
 #include "ui/views/accessibility/tree/view_accessibility_ax_tree_source.h"
 
 #include <memory>

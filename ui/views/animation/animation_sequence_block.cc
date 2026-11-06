@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AnimationSequenceBlock implementation
+// summary: Implements sequence blocks that set duration and animate layer properties such as bounds, opacity, color, clip rect, and transform.
+// ---
+
 #include "ui/views/animation/animation_sequence_block.h"
 
 #include <map>

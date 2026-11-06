@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ink drop impl test API implementation
+// summary: Implements InkDropImplTestApi, including highlight state helpers that access or set the highlight state on exit, for testing InkDropImpl internals.
+// ---
+
 #include "ui/views/animation/test/ink_drop_impl_test_api.h"
 
 #include <utility>

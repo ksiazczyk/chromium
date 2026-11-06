@@ -1,0 +1,4 @@
+# Docerion header of cocoa_mouse_capture_unittest.mm.
+type: test
+title: Cocoa mouse capture unit tests
+summary: Unit tests verifying that CocoaMouseCapture acquires, steals, and releases mouse capture and routes events correctly.

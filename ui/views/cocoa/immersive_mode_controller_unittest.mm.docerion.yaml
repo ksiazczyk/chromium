@@ -1,0 +1,4 @@
+# Docerion header of immersive_mode_controller_unittest.mm.
+type: test
+title: Immersive mode controller unit tests
+summary: Unit tests for the Cocoa immersive mode controller, setting up browser, overlay, and popup NSWindows to verify immersive mode and tabbed overlay behavior.

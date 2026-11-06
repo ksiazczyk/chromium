@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for BubbleDialogModelHost
+// summary: Unit tests verifying bubble dialog model hosting, including synchronous close, element identifiers, buttons, and field rendering.
+// ---
+
 #include "ui/views/bubble/bubble_dialog_model_host.h"
 
 #include <memory>

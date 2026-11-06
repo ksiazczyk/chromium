@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXAuraObjCache class declaration
+// summary: Declares a cache that assigns accessibility node IDs to Aura views, widgets, and windows, with lookup, removal, focus, and event dispatch support.
+// ---
+
 #ifndef UI_VIEWS_ACCESSIBILITY_AX_AURA_OBJ_CACHE_H_
 #define UI_VIEWS_ACCESSIBILITY_AX_AURA_OBJ_CACHE_H_
 

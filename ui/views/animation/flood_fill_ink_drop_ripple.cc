@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FloodFillInkDropRipple implementation
+// summary: Implements the flood-fill ink drop ripple that animates a circle expanding to fill the host view's clipped bounds, including layer setup and state animations.
+// ---
+
 #include "ui/views/animation/flood_fill_ink_drop_ripple.h"
 
 #include <algorithm>

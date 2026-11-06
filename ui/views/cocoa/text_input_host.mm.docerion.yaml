@@ -1,0 +1,4 @@
+# Docerion header of text_input_host.mm.
+type: source
+title: TextInputHost implementation
+summary: Implements TextInputHost, handling composition ranges, selection text, and text edit commands for Cocoa text input via the TextInputClient.

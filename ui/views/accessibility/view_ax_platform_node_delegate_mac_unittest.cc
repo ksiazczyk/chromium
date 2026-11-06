@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Mac view accessibility delegate
+// summary: Tests how the Mac platform node delegate resolves accessible names for dialogs relative to descriptions and window titles.
+// ---
+
 #include "ui/views/accessibility/view_ax_platform_node_delegate.h"
 
 #include <memory>

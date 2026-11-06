@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InkDropHighlightObserver interface
+// summary: Defines the observer interface notified when InkDropHighlight fade animations start and end, including the reason an animation ended.
+// ---
+
 #ifndef UI_VIEWS_ANIMATION_INK_DROP_HIGHLIGHT_OBSERVER_H_
 #define UI_VIEWS_ANIMATION_INK_DROP_HIGHLIGHT_OBSERVER_H_
 

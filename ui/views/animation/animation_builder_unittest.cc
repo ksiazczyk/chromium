@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AnimationBuilder unit tests
+// summary: Unit tests verifying AnimationBuilder sequences, durations, callbacks, repeats, and abort handle behavior on test layer owners.
+// ---
+
 #include "ui/views/animation/animation_builder.h"
 
 #include <memory>

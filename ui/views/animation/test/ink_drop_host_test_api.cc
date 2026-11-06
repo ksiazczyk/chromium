@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ink drop host test API implementation
+// summary: Implements the test API for InkDropHost, letting tests set ink drop modes, install ink drops, animate states and remove ink drop masks.
+// ---
+
 #include "ui/views/animation/test/ink_drop_host_test_api.h"
 
 #include <utility>

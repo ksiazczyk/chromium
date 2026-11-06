@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility alert window implementation
+// summary: Implements a hidden aura window that fires accessibility alert events with a text string to clients such as ChromeVox.
+// ---
+
 #include "ui/views/accessibility/accessibility_alert_window.h"
 
 #include "base/strings/utf_string_conversions.h"

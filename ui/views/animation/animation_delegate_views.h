@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AnimationDelegateViews class declaration
+// summary: Declares AnimationDelegateViews, a default delegate adapting CompositorAnimationRunner for gfx animations on views or widgets.
+// ---
+
 #ifndef UI_VIEWS_ANIMATION_ANIMATION_DELEGATE_VIEWS_H_
 #define UI_VIEWS_ANIMATION_ANIMATION_DELEGATE_VIEWS_H_
 

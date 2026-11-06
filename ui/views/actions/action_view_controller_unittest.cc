@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Action view controller unit tests
+// summary: Unit tests for ActionViewControllerTemplate covering reassigning action items and views using test buttons and action items.
+// ---
+
 #include "ui/views/actions/action_view_controller.h"
 
 #include <memory>

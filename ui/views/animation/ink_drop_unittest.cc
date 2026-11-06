@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ink drop unit tests for stub and impl
+// summary: Parameterized gtest suite covering InkDropStub and InkDropImpl behavior, including initial state, quick and slow action transitions, and layer removal after destruction.
+// ---
+
 #include "ui/views/animation/ink_drop.h"
 
 #include <memory>

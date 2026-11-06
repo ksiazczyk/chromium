@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BubbleSlideAnimator class declaration
+// summary: Declares BubbleSlideAnimator, which animates a BubbleDialogDelegateView bubble between anchor views, with duration, tween, snap, and callback APIs.
+// ---
+
 #ifndef UI_VIEWS_ANIMATION_BUBBLE_SLIDE_ANIMATOR_H_
 #define UI_VIEWS_ANIMATION_BUBBLE_SLIDE_ANIMATOR_H_
 

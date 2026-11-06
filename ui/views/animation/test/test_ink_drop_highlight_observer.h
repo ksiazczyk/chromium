@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test ink drop highlight observer header
+// summary: Declares an InkDropHighlightObserver test double that records animation start and end notifications.
+// ---
+
 #ifndef UI_VIEWS_ANIMATION_TEST_TEST_INK_DROP_HIGHLIGHT_OBSERVER_H_
 #define UI_VIEWS_ANIMATION_TEST_TEST_INK_DROP_HIGHLIGHT_OBSERVER_H_
 

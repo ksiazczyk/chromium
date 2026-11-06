@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXUpdateObserver interface declaration
+// summary: Declares the AXUpdateObserver interface that receives accessibility events, data changes, and child add or remove notifications for all views.
+// ---
+
 #ifndef UI_VIEWS_ACCESSIBILITY_AX_UPDATE_OBSERVER_H_
 #define UI_VIEWS_ACCESSIBILITY_AX_UPDATE_OBSERVER_H_
 

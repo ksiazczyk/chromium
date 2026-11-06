@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InkDropImpl class declaration
+// summary: Declares InkDropImpl, a functional InkDrop implementation with auto highlight modes that manages ripple and highlight animations for a host view.
+// ---
+
 #ifndef UI_VIEWS_ANIMATION_INK_DROP_IMPL_H_
 #define UI_VIEWS_ANIMATION_INK_DROP_IMPL_H_
 

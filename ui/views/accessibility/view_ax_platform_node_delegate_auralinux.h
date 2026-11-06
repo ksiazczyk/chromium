@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux view accessibility delegate header
+// summary: Declares ViewAXPlatformNodeDelegateAuraLinux, the Linux-specific accessibility delegate that adjusts accessible parenting and observes view hierarchy changes.
+// ---
+
 #ifndef UI_VIEWS_ACCESSIBILITY_VIEW_AX_PLATFORM_NODE_DELEGATE_AURALINUX_H_
 #define UI_VIEWS_ACCESSIBILITY_VIEW_AX_PLATFORM_NODE_DELEGATE_AURALINUX_H_
 

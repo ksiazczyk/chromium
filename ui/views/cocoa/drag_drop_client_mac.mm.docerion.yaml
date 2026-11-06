@@ -1,0 +1,4 @@
+# Docerion header of drag_drop_client_mac.mm.
+type: source
+title: DragDropClientMac implementation
+summary: Implements drag-and-drop sessions for MacViews, translating between the Views drag API and the macOS dragging API.

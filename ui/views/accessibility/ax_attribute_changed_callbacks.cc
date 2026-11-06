@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXAttributeChangedCallbacks implementation
+// summary: Implements registration and notification of callbacks for accessibility role, string, int, bool, state, and int-list attribute changes.
+// ---
+
 #include "ui/views/accessibility/ax_attribute_changed_callbacks.h"
 
 #include <utility>

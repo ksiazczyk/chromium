@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AnimationBuilder implementation
+// summary: Implements AnimationBuilder and its observer for scheduling layer animation sequences with started, ended, repeat, aborted, and scheduled callbacks.
+// ---
+
 #include "ui/views/animation/animation_builder.h"
 
 #include <algorithm>

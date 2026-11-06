@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestListGridView class declaration
+// summary: Declares TestListGridView, a test View for exercising row and column count accessibility APIs.
+// ---
+
 #ifndef UI_VIEWS_ACCESSIBILITY_TEST_LIST_GRID_VIEW_H_
 #define UI_VIEWS_ACCESSIBILITY_TEST_LIST_GRID_VIEW_H_
 

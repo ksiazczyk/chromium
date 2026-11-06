@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SlideOutController class declaration
+// summary: Declares SlideOutController, which turns swipe gestures into slide-out animations, with slide modes and swipe control support.
+// ---
+
 #ifndef UI_VIEWS_ANIMATION_SLIDE_OUT_CONTROLLER_H_
 #define UI_VIEWS_ANIMATION_SLIDE_OUT_CONTROLLER_H_
 

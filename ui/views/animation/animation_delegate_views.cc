@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AnimationDelegateViews implementation
+// summary: Implements the views animation delegate that attaches a compositor animation runner to animation containers as views join or leave widgets.
+// ---
+
 #include "ui/views/animation/animation_delegate_views.h"
 
 #include <memory>

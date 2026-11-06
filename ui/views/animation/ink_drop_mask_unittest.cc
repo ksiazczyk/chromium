@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ink drop mask unit tests
+// summary: Unit tests verifying that PathInkDropMask paints the expected path, using paint op matchers to check that a triangle path is drawn.
+// ---
+
 #include "ui/views/animation/ink_drop_mask.h"
 
 #include <algorithm>

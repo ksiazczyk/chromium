@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AnimationSequenceBlock class declaration
+// summary: Declares AnimationSequenceBlock, a single unit of a larger animation sequence with setters for target layer properties.
+// ---
+
 #ifndef UI_VIEWS_ANIMATION_ANIMATION_SEQUENCE_BLOCK_H_
 #define UI_VIEWS_ANIMATION_ANIMATION_SEQUENCE_BLOCK_H_
 

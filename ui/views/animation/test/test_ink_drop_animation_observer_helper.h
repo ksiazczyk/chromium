@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ink drop animation observer test helper
+// summary: Template helper that tracks ink drop animation observer events and provides GTest assertion predicates for them.
+// ---
+
 #ifndef UI_VIEWS_ANIMATION_TEST_TEST_INK_DROP_ANIMATION_OBSERVER_HELPER_H_
 #define UI_VIEWS_ANIMATION_TEST_TEST_INK_DROP_ANIMATION_OBSERVER_HELPER_H_
 

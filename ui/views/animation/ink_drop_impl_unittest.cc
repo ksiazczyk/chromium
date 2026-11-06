@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InkDropImpl unit tests
+// summary: Unit tests for InkDropImpl, including parameterized tests over AutoHighlightMode, verifying highlight and ripple animation behavior.
+// ---
+
 #include "ui/views/animation/ink_drop_impl.h"
 
 #include <memory>

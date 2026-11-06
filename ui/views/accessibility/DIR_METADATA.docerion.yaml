@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for views accessibility
+summary: Declares bug tracking metadata for the directory, mapping it to the UI>Accessibility monorail component and a Buganizer component.

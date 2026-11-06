@@ -1,0 +1,4 @@
+# Docerion header of bridged_native_widget_unittest.mm.
+type: test
+title: Bridged native widget unit tests
+summary: Extensive unit tests covering bridged native widget behavior, including text input, focus, and Cocoa-Views interactions.

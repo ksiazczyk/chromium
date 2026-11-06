@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NativeWidgetMacNSWindowHost class declaration
+// summary: Declares the browser-process portion of NativeWidgetMac, which communicates with the NativeWidgetNSWindowBridge that may live in an app shim process.
+// ---
+
 #ifndef UI_VIEWS_COCOA_NATIVE_WIDGET_MAC_NS_WINDOW_HOST_H_
 #define UI_VIEWS_COCOA_NATIVE_WIDGET_MAC_NS_WINDOW_HOST_H_
 

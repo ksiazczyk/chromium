@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BubbleBorder unit tests
+// summary: Unit tests covering arrow mirroring, arrow presence checks, and border geometry behavior of BubbleBorder.
+// ---
+
 #include "ui/views/bubble/bubble_border.h"
 
 #include <stddef.h>

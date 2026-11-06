@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WidgetFadeAnimator unit tests
+// summary: Unit tests for WidgetFadeAnimator covering fade-in, fade-out, cancel behavior, and parameterized slide-direction animations using a test animation container and widget test harness.
+// ---
+
 #include "ui/views/animation/widget_fade_animator.h"
 
 #include <memory>

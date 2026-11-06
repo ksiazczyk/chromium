@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InkDropImpl implementation
+// summary: Implements InkDropImpl and its highlight state machine, coordinating ripple and highlight animations with hover, focus, and ripple visibility changes.
+// ---
+
 #include "ui/views/animation/ink_drop_impl.h"
 
 #include <utility>

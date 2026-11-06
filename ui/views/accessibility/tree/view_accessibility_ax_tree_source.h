@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ViewAccessibilityAXTreeSource class declaration
+// summary: Declares the AXTreeSource adapter that exposes the Views hierarchy as an accessibility tree using ViewAccessibility nodes, with action handling, focus tracking, and serialization hooks.
+// ---
+
 #ifndef UI_VIEWS_ACCESSIBILITY_TREE_VIEW_ACCESSIBILITY_AX_TREE_SOURCE_H_
 #define UI_VIEWS_ACCESSIBILITY_TREE_VIEW_ACCESSIBILITY_AX_TREE_SOURCE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXAuraObjCache implementation
+// summary: Implements the cache that assigns IDs to and manages accessibility wrappers for Views, virtual views, widgets, and Aura windows, including popup focus override handling.
+// ---
+
 #include "ui/views/accessibility/ax_aura_obj_cache.h"
 
 #include <algorithm>

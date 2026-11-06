@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for BubbleDialogDelegateView
+// summary: Unit tests covering bubble dialog behavior such as titles, close buttons, focus, ink drop, metrics, and widget interactions.
+// ---
+
 #include "ui/views/bubble/bubble_dialog_delegate_view.h"
 
 #include <stddef.h>

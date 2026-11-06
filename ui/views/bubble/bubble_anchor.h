@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BubbleAnchor class declaration
+// summary: Declares a variant type that anchors a bubble to a view, a tracked element, or nothing, with accessors and anchor rect retrieval.
+// ---
+
 #ifndef UI_VIEWS_BUBBLE_BUBBLE_ANCHOR_H_
 #define UI_VIEWS_BUBBLE_BUBBLE_ANCHOR_H_
 

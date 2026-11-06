@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BubbleAnchor implementation
+// summary: Implements the BubbleAnchor variant class, returning the screen bounds of the anchored view or tracked element.
+// ---
+
 #include "ui/views/bubble/bubble_anchor.h"
 
 #include <variant>

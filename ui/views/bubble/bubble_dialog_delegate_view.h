@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BubbleDialogDelegateView class declaration
+// summary: Declares the Views bubble dialog delegate that anchors bubble dialogs to anchor views and manages their widgets, buttons, and focus behavior.
+// ---
+
 #ifndef UI_VIEWS_BUBBLE_BUBBLE_DIALOG_DELEGATE_VIEW_H_
 #define UI_VIEWS_BUBBLE_BUBBLE_DIALOG_DELEGATE_VIEW_H_
 

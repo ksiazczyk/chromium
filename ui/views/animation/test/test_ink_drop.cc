@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestInkDrop test double implementation
+// summary: Implements a no-op InkDrop test double that records the last requested ink drop state and hover flag.
+// ---
+
 #include "ui/views/animation/test/test_ink_drop.h"
 
 #include "ui/gfx/geometry/transform.h"

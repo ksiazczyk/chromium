@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tooltip icon class declaration
+// summary: Declares the TooltipIcon class, an image view that displays a help bubble on hover, plus its observer interface and view builder properties.
+// ---
+
 #ifndef UI_VIEWS_BUBBLE_TOOLTIP_ICON_H_
 #define UI_VIEWS_BUBBLE_TOOLTIP_ICON_H_
 

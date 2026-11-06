@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for views accessibility
+summary: Defines include rules for the views accessibility directory, allowing IAccessible2 headers and Mojo embedder includes for the Windows caret interactive UI test.

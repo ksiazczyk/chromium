@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXVirtualViewWrapper class declaration
+// summary: Declares AXVirtualViewWrapper, an AXAuraObjWrapper that wraps an AXVirtualView for use with AXTreeSourceViews.
+// ---
+
 #ifndef UI_VIEWS_ACCESSIBILITY_AX_VIRTUAL_VIEW_WRAPPER_H_
 #define UI_VIEWS_ACCESSIBILITY_AX_VIRTUAL_VIEW_WRAPPER_H_
 

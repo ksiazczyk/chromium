@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InkDropAnimationEndedReason enum
+// summary: Declares the InkDropAnimationEndedReason enum describing whether an ink drop animation completed successfully or was pre-empted, plus logging helpers.
+// ---
+
 #ifndef UI_VIEWS_ANIMATION_INK_DROP_ANIMATION_ENDED_REASON_H_
 #define UI_VIEWS_ANIMATION_INK_DROP_ANIMATION_ENDED_REASON_H_
 

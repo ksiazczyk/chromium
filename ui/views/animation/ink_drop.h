@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InkDrop base class declaration
+// summary: Declares the InkDrop interface that manages ink drop ripple lifetime and state, with factory methods for ripple styles and host size, theme, and transform callbacks.
+// ---
+
 #ifndef UI_VIEWS_ANIMATION_INK_DROP_H_
 #define UI_VIEWS_ANIMATION_INK_DROP_H_
 

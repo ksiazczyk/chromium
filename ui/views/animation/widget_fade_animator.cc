@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WidgetFadeAnimator implementation
+// summary: Implements fade in/out and slide animations for widgets, with optional close on hide and fade completion callbacks.
+// ---
+
 #include "ui/views/animation/widget_fade_animator.h"
 
 #include "base/i18n/rtl.h"
