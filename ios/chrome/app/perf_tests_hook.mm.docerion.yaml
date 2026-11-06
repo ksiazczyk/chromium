@@ -1,0 +1,4 @@
+# Docerion header of perf_tests_hook.mm.
+type: test
+title: Performance tests hook implementation
+summary: Implements tests hooks that disable first run, promos, field trials, and other features for performance test runs.

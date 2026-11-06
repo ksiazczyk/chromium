@@ -1,0 +1,4 @@
+# Docerion header of memory_warning_helper_unittest.mm.
+type: test
+title: MemoryWarningHelper unit tests
+summary: Tests memory pressure notification, foreground warning count reset, and out-of-memory flag behavior of MemoryWarningHelper.

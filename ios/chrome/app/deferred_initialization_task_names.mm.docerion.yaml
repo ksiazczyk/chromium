@@ -1,0 +1,4 @@
+# Docerion header of deferred_initialization_task_names.mm.
+type: source
+title: Deferred initialization task name definitions
+summary: Defines the NSString constants identifying the deferred startup initialization blocks used by the app.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MetricsMediator class header
+// summary: Declares MetricsMediator, which starts or stops metrics and crash reporting per user preferences and logs launch metrics.
+// ---
+
 #ifndef IOS_CHROME_APP_APPLICATION_DELEGATE_METRICS_MEDIATOR_H_
 #define IOS_CHROME_APP_APPLICATION_DELEGATE_METRICS_MEDIATOR_H_
 

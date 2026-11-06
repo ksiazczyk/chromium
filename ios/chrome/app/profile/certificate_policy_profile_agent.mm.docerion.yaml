@@ -1,0 +1,4 @@
+# Docerion header of certificate_policy_profile_agent.mm.
+type: source
+title: Certificate policy profile agent implementation
+summary: Implements eviction and repopulation of certificate policy caches from browser web states.

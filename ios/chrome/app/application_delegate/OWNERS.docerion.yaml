@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for application_delegate
+summary: Lists the code owner responsible for reviewing changes to this directory.

@@ -1,0 +1,4 @@
+# Docerion header of BackgroundContinuedProcessing+Info.plist.
+type: config
+title: Continued processing background Info.plist additions
+summary: Info.plist fragment enabling the background processing mode and continued processing BGTaskScheduler task identifiers.

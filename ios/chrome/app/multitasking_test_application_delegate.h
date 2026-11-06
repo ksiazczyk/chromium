@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Multitasking test application delegate
+// summary: Declares an application delegate subclass used to set up environments for multitasking tests.
+// ---
+
 #ifndef IOS_CHROME_APP_MULTITASKING_TEST_APPLICATION_DELEGATE_H_
 #define IOS_CHROME_APP_MULTITASKING_TEST_APPLICATION_DELEGATE_H_
 

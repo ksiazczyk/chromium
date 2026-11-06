@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Directory owners rules
+summary: Grants all committers permission to modify non-stable experimental settings under Settings.bundle.

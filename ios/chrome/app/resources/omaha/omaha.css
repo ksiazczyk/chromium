@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Omaha debug page stylesheet
+summary: Stylesheet for the Omaha debug page, laying out the label and value table with monospace value text and hidden rows shown by the script.
+*/
+
 body {
   background-color: white;
   color: black;

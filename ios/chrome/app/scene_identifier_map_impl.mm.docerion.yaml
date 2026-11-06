@@ -1,0 +1,4 @@
+# Docerion header of scene_identifier_map_impl.mm.
+type: source
+title: SceneIdentifierMapImpl implementation
+summary: Implements loading, saving and migration of the UISceneSession to SceneState identifier mapping stored in preferences.

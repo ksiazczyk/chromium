@@ -1,0 +1,4 @@
+# Docerion header of deferred_initialization_runner_unittest.mm.
+type: test
+title: DeferredInitializationRunner unit tests
+summary: Tests sequential execution of deferred blocks, synchronous runBlockNamed behavior and cancellation of pending blocks across runners.

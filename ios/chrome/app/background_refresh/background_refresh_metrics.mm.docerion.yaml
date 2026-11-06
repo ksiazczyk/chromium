@@ -1,0 +1,4 @@
+# Docerion header of background_refresh_metrics.mm.
+type: source
+title: Background refresh metrics definitions
+summary: Defines histogram name constants and a helper that records per-provider execution durations for iOS background refresh.

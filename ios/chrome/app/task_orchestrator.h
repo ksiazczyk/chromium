@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TaskOrchestrator interface
+// summary: Declares TaskOrchestrator, which queues TaskRequests and runs them once the required application lifecycle stage is reached.
+// ---
+
 #ifndef IOS_CHROME_APP_TASK_ORCHESTRATOR_H_
 #define IOS_CHROME_APP_TASK_ORCHESTRATOR_H_
 

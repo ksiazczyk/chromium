@@ -1,0 +1,4 @@
+# Docerion header of ios_resources.grd.
+type: config
+title: Grit resource list for iOS Chrome resources
+summary: Grit resource list bundling web UI pages such as the Omaha update page and tracing UI into ios_resources.pak.

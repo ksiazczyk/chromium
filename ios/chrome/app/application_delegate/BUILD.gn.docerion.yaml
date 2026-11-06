@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the application_delegate targets
+summary: Defines the source sets, unit test target and dependencies for the application_delegate directory.

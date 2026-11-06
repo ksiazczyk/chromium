@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Application storage metrics interface
+// summary: Declares a function logging storage usage metrics for the main and incognito profile directories.
+// ---
+
 #ifndef IOS_CHROME_APP_PROFILE_APPLICATION_STORAGE_METRICS_H_
 #define IOS_CHROME_APP_PROFILE_APPLICATION_STORAGE_METRICS_H_
 

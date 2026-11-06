@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URLOpener class interface for URL opening
+// summary: Declares the URLOpener class with class methods that handle URL opening and launch options for the application delegate.
+// ---
+
 #ifndef IOS_CHROME_APP_APPLICATION_DELEGATE_URL_OPENER_H_
 #define IOS_CHROME_APP_APPLICATION_DELEGATE_URL_OPENER_H_
 

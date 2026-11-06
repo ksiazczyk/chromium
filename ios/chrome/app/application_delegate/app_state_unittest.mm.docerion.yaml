@@ -1,0 +1,4 @@
+# Docerion header of app_state_unittest.mm.
+type: test
+title: AppState unit tests
+summary: Unit tests for the AppState class covering scene connections, init stage transitions, and startup behavior using fakes and OCMock.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background continued processing app agent header
+// summary: Declares an app agent that schedules iOS background continued processing tasks and returns context handles to callers.
+// ---
+
 #ifndef IOS_CHROME_APP_BACKGROUND_TASK_BACKGROUND_CONTINUED_PROCESSING_APP_AGENT_H_
 #define IOS_CHROME_APP_BACKGROUND_TASK_BACKGROUND_CONTINUED_PROCESSING_APP_AGENT_H_
 

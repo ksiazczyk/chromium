@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StartupTasks class declaration
+// summary: Declares the StartupTasks class handling Omaha initialization, Siri Shortcut logging and scheduled file deletion at startup.
+// ---
+
 #ifndef IOS_CHROME_APP_STARTUP_TASKS_H_
 #define IOS_CHROME_APP_STARTUP_TASKS_H_
 

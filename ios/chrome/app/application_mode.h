@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Application mode enum for iOS Chrome
+// summary: Declares the ApplicationMode enum that distinguishes the global normal and incognito modes of the application.
+// ---
+
 #ifndef IOS_CHROME_APP_APPLICATION_MODE_H_
 #define IOS_CHROME_APP_APPLICATION_MODE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of ios_chrome_repack.gni.
+type: config
+title: GN templates for repacking iOS Chrome resources
+summary: GN templates that pack localized strings and scalable image resources into iOS Chrome app bundles.

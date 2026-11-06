@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Legacy scene identifier map header
+// summary: Declares LegacySceneIdentifierMap, which assigns scene identifiers using the UISceneSession on iPad and a constant on iPhone.
+// ---
+
 #ifndef IOS_CHROME_APP_LEGACY_SCENE_IDENTIFIER_MAP_H_
 #define IOS_CHROME_APP_LEGACY_SCENE_IDENTIFIER_MAP_H_
 

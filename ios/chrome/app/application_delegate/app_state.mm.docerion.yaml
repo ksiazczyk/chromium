@@ -1,0 +1,4 @@
+# Docerion header of app_state.mm.
+type: source
+title: AppState implementation
+summary: Implements AppState with init stage transitions, observer lists, scene tracking and UI blocking.

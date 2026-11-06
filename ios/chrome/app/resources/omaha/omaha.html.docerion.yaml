@@ -1,0 +1,4 @@
+# Docerion header of omaha.html.
+type: source
+title: Omaha debug page
+summary: HTML page for the internal Omaha debug view, defining a table of labels and values such as last sent time, version, tries, and timer state.

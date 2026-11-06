@@ -1,0 +1,4 @@
+# Docerion header of discover_feed_provider.mm.
+type: source
+title: Discover feed provider implementation
+summary: Implements due-date checks, refresh intervals, task creation and service availability metrics for Discover feed background refresh.

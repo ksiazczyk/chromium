@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: iOS Chrome app build configuration (BUILD.gn)
+summary: Defines GN build targets, buildflag headers and arguments for building the iOS Chrome application and its entitlements.

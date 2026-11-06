@@ -1,0 +1,4 @@
+# Docerion header of Info.plist.
+type: config
+title: Chrome iOS app Info.plist
+summary: Main bundle configuration for the iOS Chrome app covering URL schemes, document types, icons, background modes, quick actions, and orientations.

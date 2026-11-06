@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabOpening protocol for opening tabs during launch
+// summary: Declares the TabOpening protocol used to dismiss modals and open normal or incognito tabs during application launch.
+// ---
+
 #ifndef IOS_CHROME_APP_APPLICATION_DELEGATE_TAB_OPENING_H_
 #define IOS_CHROME_APP_APPLICATION_DELEGATE_TAB_OPENING_H_
 

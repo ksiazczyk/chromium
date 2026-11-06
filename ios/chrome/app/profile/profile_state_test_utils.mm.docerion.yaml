@@ -1,0 +1,4 @@
+# Docerion header of profile_state_test_utils.mm.
+type: test
+title: Profile state test utilities
+summary: Test helper that advances a ProfileState through its init stages up to a requested stage for use in tests.

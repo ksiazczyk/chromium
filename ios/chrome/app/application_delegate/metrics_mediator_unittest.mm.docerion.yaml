@@ -1,0 +1,4 @@
+# Docerion header of metrics_mediator_unittest.mm.
+type: test
+title: MetricsMediator unit tests
+summary: Unit tests for MetricsMediator, covering widget histogram re-emission and metrics preference handling with mocks and fakes.

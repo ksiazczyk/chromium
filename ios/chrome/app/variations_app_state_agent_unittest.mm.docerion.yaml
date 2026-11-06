@@ -1,0 +1,4 @@
+# Docerion header of variations_app_state_agent_unittest.mm.
+type: test
+title: Variations app state agent unit tests
+summary: Unit tests for VariationsAppStateAgent that verify variations seed fetching and init stage transitions using mocked app state, seed fetcher, and scene state.

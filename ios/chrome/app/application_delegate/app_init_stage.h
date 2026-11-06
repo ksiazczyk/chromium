@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App initialization stage enum
+// summary: Defines the AppInitStage enum listing the sequential stages of the Chrome iOS app launch initialization.
+// ---
+
 #ifndef IOS_CHROME_APP_APPLICATION_DELEGATE_APP_INIT_STAGE_H_
 #define IOS_CHROME_APP_APPLICATION_DELEGATE_APP_INIT_STAGE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Change profile continuation callback type
+// summary: Defines the callback type invoked after a scene transitions to a new profile and declares a helper to chain two continuations.
+// ---
+
 #ifndef IOS_CHROME_APP_CHANGE_PROFILE_CONTINUATION_H_
 #define IOS_CHROME_APP_CHANGE_PROFILE_CONTINUATION_H_
 

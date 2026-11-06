@@ -1,0 +1,4 @@
+# Docerion header of main_controller_unittest.mm.
+type: test
+title: MainController unit tests
+summary: Unit tests verifying that MainController latches the launch reason and records the Startup.IOSLaunchReason histogram exactly once.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProfileController header
+// summary: Declares the controller for a single profile, owning its top-level UI controllers and loading the profile through a ProfileManagerIOS.
+// ---
+
 #ifndef IOS_CHROME_APP_PROFILE_PROFILE_CONTROLLER_H_
 #define IOS_CHROME_APP_PROFILE_PROFILE_CONTROLLER_H_
 

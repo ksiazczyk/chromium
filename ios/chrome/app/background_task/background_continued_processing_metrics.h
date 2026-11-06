@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background continued processing metrics definitions
+// summary: Defines the UMA histogram and result enum for outcomes of continued processing task requests submitted to BGTaskScheduler.
+// ---
+
 #ifndef IOS_CHROME_APP_BACKGROUND_TASK_BACKGROUND_CONTINUED_PROCESSING_METRICS_H_
 #define IOS_CHROME_APP_BACKGROUND_TASK_BACKGROUND_CONTINUED_PROCESSING_METRICS_H_
 

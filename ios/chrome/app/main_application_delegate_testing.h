@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MainApplicationDelegate testing header
+// summary: Exposes MainApplicationDelegate internals such as the shared MainController and AppState for use in tests.
+// ---
+
 #ifndef IOS_CHROME_APP_MAIN_APPLICATION_DELEGATE_TESTING_H_
 #define IOS_CHROME_APP_MAIN_APPLICATION_DELEGATE_TESTING_H_
 

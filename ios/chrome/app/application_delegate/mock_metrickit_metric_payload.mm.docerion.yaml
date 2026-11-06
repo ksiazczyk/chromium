@@ -1,0 +1,4 @@
+# Docerion header of mock_metrickit_metric_payload.mm.
+type: test
+title: Mock MetricKit payload helper implementation
+summary: Creates OCMock-based MetricKit mocks for metadata, measurements, memory metrics and histograms used in unit tests.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Background refresh GN build targets
+summary: Defines source sets, dependencies, and frameworks for the iOS background refresh code, headers, metrics, and unit tests.

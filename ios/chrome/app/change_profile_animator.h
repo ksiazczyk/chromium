@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Change profile animator interface
+// summary: Declares the object that animates profile transitions for a scene and waits for the profile to reach a given initialisation stage.
+// ---
+
 #ifndef IOS_CHROME_APP_CHANGE_PROFILE_ANIMATOR_H_
 #define IOS_CHROME_APP_CHANGE_PROFILE_ANIMATOR_H_
 

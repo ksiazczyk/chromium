@@ -1,0 +1,4 @@
+# Docerion header of memory_monitor.mm.
+type: source
+title: Memory monitor implementation
+summary: Periodically samples free memory and the remaining memory limit on a background thread, updating crash keys and available disk space for PreviousSessionInfo.

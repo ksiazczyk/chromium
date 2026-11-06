@@ -1,0 +1,4 @@
+# Docerion header of app_startup_parameters_unittest.mm.
+type: test
+title: App startup parameters unit tests
+summary: Unit tests for AppStartupParameters covering legacy and new startup flows, application mode fetching, timeouts and app switcher behavior.

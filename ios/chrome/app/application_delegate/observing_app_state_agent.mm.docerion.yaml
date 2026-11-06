@@ -1,0 +1,4 @@
+# Docerion header of observing_app_state_agent.mm.
+type: source
+title: Observing app state agent implementation
+summary: Implements scene-observing app agents that notify subclasses when the app enters foreground or background.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppStateAgent protocol
+// summary: Defines the protocol for app state agents that provide app-scoped functionality owned by AppState.
+// ---
+
 #ifndef IOS_CHROME_APP_APPLICATION_DELEGATE_APP_STATE_AGENT_H_
 #define IOS_CHROME_APP_APPLICATION_DELEGATE_APP_STATE_AGENT_H_
 

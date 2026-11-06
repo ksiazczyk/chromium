@@ -1,0 +1,4 @@
+# Docerion header of chrome_localize_strings_config.plist.
+type: config
+title: Chrome iOS localization strings configuration
+summary: Configuration listing iOS Chrome string IDs and output files used to generate localized .strings resources.

@@ -1,0 +1,4 @@
+# Docerion header of task_request.mm.
+type: source
+title: TaskRequest implementation
+summary: Implements TaskRequest, dispatching factory creation to URL context, user activity, and shortcut item subclasses and providing a testing task subclass.

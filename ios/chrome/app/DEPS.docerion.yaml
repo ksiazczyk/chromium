@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: iOS Chrome app dependency rules (DEPS)
+summary: Specifies allowed include dependencies and test-specific exceptions for code in the ios/chrome/app directory.

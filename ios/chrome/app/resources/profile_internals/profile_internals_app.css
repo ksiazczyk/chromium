@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Profile Internals app styles
+summary: Lit CSS styles for the profile internals app, defining profile name, attribute, and striped table row styling.
+*/
+
 :host {
   --odd-row-background-color: rgb(239, 243, 255);
   font-size: 2rem;

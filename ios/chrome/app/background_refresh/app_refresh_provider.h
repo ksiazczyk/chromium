@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App refresh provider interface
+// summary: Declares the AppRefreshProvider superclass and task protocol that features subclass to run background refresh work.
+// ---
+
 #ifndef IOS_CHROME_APP_BACKGROUND_REFRESH_APP_REFRESH_PROVIDER_H_
 #define IOS_CHROME_APP_BACKGROUND_REFRESH_APP_REFRESH_PROVIDER_H_
 

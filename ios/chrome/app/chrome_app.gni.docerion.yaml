@@ -1,0 +1,4 @@
+# Docerion header of chrome_app.gni.
+type: config
+title: Chrome app GN build template
+summary: Defines the chrome_app GN template for building Chrome-like iOS app bundles, including optional framework and browserkit extension targets.

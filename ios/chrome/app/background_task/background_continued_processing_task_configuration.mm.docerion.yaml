@@ -1,0 +1,4 @@
+# Docerion header of background_continued_processing_task_configuration.mm.
+type: source
+title: Background continued processing task configuration implementation
+summary: Implements the task configuration initializer and validated setters that apply defaults for progress and submission options.

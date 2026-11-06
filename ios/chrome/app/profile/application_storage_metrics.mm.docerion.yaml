@@ -1,0 +1,4 @@
+# Docerion header of application_storage_metrics.mm.
+type: source
+title: Application storage metrics implementation
+summary: Computes and logs histogram metrics for snapshot images, WebKit data, caches and application storage sizes.

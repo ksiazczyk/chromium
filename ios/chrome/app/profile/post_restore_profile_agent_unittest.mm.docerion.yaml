@@ -1,0 +1,4 @@
+# Docerion header of post_restore_profile_agent_unittest.mm.
+type: test
+title: PostRestoreProfileAgent unit tests
+summary: Unit tests for the post-restore profile agent using fake identities, a mock PromosManager, and test profiles to verify promo registration behavior.

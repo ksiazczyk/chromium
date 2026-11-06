@@ -1,0 +1,4 @@
+# Docerion header of enterprise_loading_screen_view_controller.mm.
+type: source
+title: Enterprise loading screen view controller implementation
+summary: Builds the enterprise loading screen UI with a spinner and managed-browser text, capping font size to avoid truncation.

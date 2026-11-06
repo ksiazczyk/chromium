@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App lifetime observer protocol
+// summary: Declares the AppLifetimeObserver protocol for observing application lifetime events such as backgrounding, termination and scene session discards.
+// ---
+
 #ifndef IOS_CHROME_APP_APP_LIFETIME_OBSERVER_H_
 #define IOS_CHROME_APP_APP_LIFETIME_OBSERVER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of welcome_back_screen_profile_agent_unittest.mm.
+type: test
+title: Welcome Back screen profile agent unit tests
+summary: Unit tests for the Welcome Back screen profile agent, covering promo registration results and active-days metrics using mock trackers and services.

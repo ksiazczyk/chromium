@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeTabOpener test double header
+// summary: Declares FakeTabOpener, a test double for the TabOpening protocol that records arguments of modal dismissal and tab opening calls.
+// ---
+
 #ifndef IOS_CHROME_APP_APPLICATION_DELEGATE_FAKE_TAB_OPENER_H_
 #define IOS_CHROME_APP_APPLICATION_DELEGATE_FAKE_TAB_OPENER_H_
 

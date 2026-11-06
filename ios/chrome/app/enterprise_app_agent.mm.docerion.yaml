@@ -1,0 +1,4 @@
+# Docerion header of enterprise_app_agent.mm.
+type: source
+title: Enterprise app agent implementation
+summary: Shows an enterprise loading screen during the enterprise init stage and dismisses it when cloud policy registration or fetch completes, with a timeout.

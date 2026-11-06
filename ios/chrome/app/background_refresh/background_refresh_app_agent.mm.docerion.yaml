@@ -1,0 +1,4 @@
+# Docerion header of background_refresh_app_agent.mm.
+type: source
+title: Background refresh app agent implementation
+summary: Implements BGTaskScheduler task handling and provider execution, with detailed device-only debugging instructions.

@@ -1,0 +1,4 @@
+# Docerion header of ExperimentalFeedRefresh.plist.
+type: config
+title: Feed refresh experimental settings pane
+summary: Child pane showing feed refresh timestamps and toggles plus fields to override background refresh cache age and scheduling.

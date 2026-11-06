@@ -1,0 +1,4 @@
+# Docerion header of background_continued_processing_task_context.mm.
+type: source
+title: Background continued processing task context implementation
+summary: Implements progress tracking with linear and asymptotic stepped algorithms plus completion and expiration handling for tasks.

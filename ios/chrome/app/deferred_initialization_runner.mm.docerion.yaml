@@ -1,0 +1,4 @@
+# Docerion header of deferred_initialization_runner.mm.
+type: source
+title: DeferredInitializationRunner implementation
+summary: Implements named block scheduling on a DeferredInitializationQueue, synchronous run by name and cancelling all pending blocks.

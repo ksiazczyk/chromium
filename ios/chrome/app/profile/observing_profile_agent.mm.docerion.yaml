@@ -1,0 +1,4 @@
+# Docerion header of observing_profile_agent.mm.
+type: source
+title: ObservingProfileAgent implementation
+summary: Implements the observing profile agent, registering and unregistering it as a profile state observer when added to or removed from a ProfileState.

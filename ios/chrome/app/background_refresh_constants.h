@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background app refresh task identifier declaration
+// summary: Declares the constant holding the identifier used to register and schedule background app refresh tasks.
+// ---
+
 #ifndef IOS_CHROME_APP_BACKGROUND_REFRESH_CONSTANTS_H_
 #define IOS_CHROME_APP_BACKGROUND_REFRESH_CONSTANTS_H_
 

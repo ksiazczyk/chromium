@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TaskRequestForURLContext interface
+// summary: Declares the TaskRequestForURLContext class and a factory method for creating task requests that handle URL opening contexts.
+// ---
+
 #ifndef IOS_CHROME_APP_TASK_REQUEST_URL_CONTEXT_H_
 #define IOS_CHROME_APP_TASK_REQUEST_URL_CONTEXT_H_
 

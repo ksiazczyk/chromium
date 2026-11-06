@@ -1,0 +1,4 @@
+# Docerion header of chrome_main.mm.
+type: source
+title: ChromeMain startup implementation
+summary: Implements ChromeMain, setting up crash reporting, path providers, pseudo-RTL defaults and Primes logging before launching the UIApplication.

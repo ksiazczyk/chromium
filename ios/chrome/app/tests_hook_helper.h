@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tests hook helper interface
+// summary: Declares a test-only helper that injects fake tabs into a browser's WebStateList until the list reaches a requested item count.
+// ---
+
 #ifndef IOS_CHROME_APP_TESTS_HOOK_HELPER_H_
 #define IOS_CHROME_APP_TESTS_HOOK_HELPER_H_
 

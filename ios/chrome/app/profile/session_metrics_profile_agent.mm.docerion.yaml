@@ -1,0 +1,4 @@
+# Docerion header of session_metrics_profile_agent.mm.
+type: source
+title: SessionMetricsProfileAgent implementation
+summary: Tracks foreground scene activity to measure profile session duration and report it to session duration and tab usage services.

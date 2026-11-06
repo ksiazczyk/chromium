@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProfileState interface
+// summary: Declares ProfileState, which tracks a single profile's init stage, connected scenes, agents, observers, and deferred initialization tasks.
+// ---
+
 #ifndef IOS_CHROME_APP_PROFILE_PROFILE_STATE_H_
 #define IOS_CHROME_APP_PROFILE_PROFILE_STATE_H_
 

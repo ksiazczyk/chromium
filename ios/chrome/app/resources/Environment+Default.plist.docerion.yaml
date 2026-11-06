@@ -1,0 +1,4 @@
+# Docerion header of Environment+Default.plist.
+type: config
+title: Default environment bundle settings
+summary: Default bundle settings for the iOS app, requiring the iPhone OS environment.

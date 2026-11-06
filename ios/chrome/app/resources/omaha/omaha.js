@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omaha debug page script
+// summary: JavaScript module that requests the Omaha debug information from the browser and fills in the page's table rows, toggling their visibility.
+// ---
+
 import 'chrome://resources/js/ios/web_ui.js';
 
 import {sendWithPromise} from 'chrome://resources/js/cr.js';

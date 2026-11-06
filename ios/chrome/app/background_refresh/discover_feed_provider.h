@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Discover feed provider header
+// summary: Declares DiscoverFeedProvider, an AppRefreshProvider subclass that schedules background refreshes for the Discover feed.
+// ---
+
 #ifndef IOS_CHROME_APP_BACKGROUND_REFRESH_DISCOVER_FEED_PROVIDER_H_
 #define IOS_CHROME_APP_BACKGROUND_REFRESH_DISCOVER_FEED_PROVIDER_H_
 

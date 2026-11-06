@@ -1,0 +1,4 @@
+# Docerion header of metrics_mediator.mm.
+type: source
+title: MetricsMediator implementation
+summary: Implements metrics mediation, logging startup, memory and tab metrics and updating the metrics service from preferences.

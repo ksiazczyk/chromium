@@ -1,0 +1,4 @@
+# Docerion header of task_request_shortcut_item_unittest.mm.
+type: test
+title: TaskRequestForShortcutItem unit tests
+summary: Unit tests verifying that shortcut item task requests open tabs with correct parameters and record metrics only upon execution.

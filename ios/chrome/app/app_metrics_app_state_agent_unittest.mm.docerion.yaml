@@ -1,0 +1,4 @@
+# Docerion header of app_metrics_app_state_agent_unittest.mm.
+type: test
+title: App metrics app state agent unit tests
+summary: Unit tests verifying that startup duration logging and tracking tasks happen once and in order, including behavior during safe mode startup.

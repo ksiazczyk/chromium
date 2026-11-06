@@ -1,0 +1,4 @@
+# Docerion header of x_callback_url_opener_egtest.mm.
+type: test
+title: Earl Grey tests for x-callback-url opening
+summary: Earl Grey tests verifying Chrome's handling of x-callback-url commands, including text search across sign-in and profile switching states.

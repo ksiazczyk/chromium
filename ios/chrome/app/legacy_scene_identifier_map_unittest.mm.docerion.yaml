@@ -1,0 +1,4 @@
+# Docerion header of legacy_scene_identifier_map_unittest.mm.
+type: test
+title: Legacy scene identifier map unit tests
+summary: Parameterized unit tests verifying LegacySceneIdentifierMap behavior for devices with and without multiple-scene support, including discarded session tracking and histograms.

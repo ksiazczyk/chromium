@@ -1,0 +1,4 @@
+# Docerion header of launch_screen_view_controller.mm.
+type: source
+title: Launch screen view controller implementation
+summary: Lays out the launch screen look-alike with logo and brand images matching LaunchScreen.xib so the transition is invisible to users.

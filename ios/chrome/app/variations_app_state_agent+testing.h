@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Variations app state agent testing category
+// summary: Declares a testing category on VariationsAppStateAgent with an initializer taking seed fetcher and group weights, plus experiment group name constants.
+// ---
+
 #ifndef IOS_CHROME_APP_VARIATIONS_APP_STATE_AGENT_TESTING_H_
 #define IOS_CHROME_APP_VARIATIONS_APP_STATE_AGENT_TESTING_H_
 

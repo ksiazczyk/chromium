@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App init stage navigation helpers for tests
+// summary: Implements helpers that return the next or previous AppInitStage value for use in tests.
+// ---
+
 #include "ios/chrome/app/application_delegate/app_init_stage_test_utils.h"
 
 #import <utility>

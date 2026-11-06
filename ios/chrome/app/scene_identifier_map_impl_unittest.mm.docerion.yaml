@@ -1,0 +1,4 @@
+# Docerion header of scene_identifier_map_impl_unittest.mm.
+type: test
+title: SceneIdentifierMapImpl unit tests
+summary: Unit tests for SceneIdentifierMapImpl covering identifier assignment, discarded sessions and migration, with and without multi-scene support.

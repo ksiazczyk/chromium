@@ -1,0 +1,4 @@
+# Docerion header of synced_set_up_profile_agent.mm.
+type: source
+title: Synced Set Up profile agent implementation
+summary: Implements the agent that triggers the Synced Set Up confirmation on foreground activation or final profile init, once per activation cycle, using cross-device pref tracking.

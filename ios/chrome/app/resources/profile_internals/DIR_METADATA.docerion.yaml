@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for profile_internals
+summary: Repository metadata marking the directory as iOS and inheriting signin component metadata mixins.

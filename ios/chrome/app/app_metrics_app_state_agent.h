@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App metrics app state agent declaration
+// summary: Declares AppMetricsAppStateAgent, the scene-observing agent responsible for logging app-scoped metrics.
+// ---
+
 #ifndef IOS_CHROME_APP_APP_METRICS_APP_STATE_AGENT_H_
 #define IOS_CHROME_APP_APP_METRICS_APP_STATE_AGENT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Deferred initialization task name declarations
+// summary: Declares extern NSString constants naming deferred startup blocks for preference observer initialization and startup attempt count reset.
+// ---
+
 #ifndef IOS_CHROME_APP_DEFERRED_INITIALIZATION_TASK_NAMES_H_
 #define IOS_CHROME_APP_DEFERRED_INITIALIZATION_TASK_NAMES_H_
 

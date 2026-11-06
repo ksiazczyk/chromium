@@ -1,0 +1,4 @@
+# Docerion header of post_restore_profile_agent.mm.
+type: source
+title: PostRestoreProfileAgent implementation
+summary: Implements the post-restore profile agent, registering or clearing the post-restore promo based on stored pre-restore identity and sign-in changes.

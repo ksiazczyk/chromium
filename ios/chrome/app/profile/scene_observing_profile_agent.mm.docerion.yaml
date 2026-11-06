@@ -1,0 +1,4 @@
+# Docerion header of scene_observing_profile_agent.mm.
+type: source
+title: SceneObservingProfileAgent implementation
+summary: Implements scene observation by registering as a scene observer and forwarding activation level transitions to subclasses.

@@ -1,0 +1,4 @@
+# Docerion header of Background+Info.plist.
+type: config
+title: Background mode Info.plist additions
+summary: Info.plist fragment enabling background fetch, remote notifications, and the chrome.app.refresh BGTaskScheduler task.

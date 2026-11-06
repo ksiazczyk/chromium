@@ -1,0 +1,4 @@
+# Docerion header of profile_state_observer_bridge.mm.
+type: source
+title: ProfileStateObserver bridge implementation
+summary: Implements ProfileStateObserverBridge, forwarding Objective-C profile state events to a registered C++ observer.

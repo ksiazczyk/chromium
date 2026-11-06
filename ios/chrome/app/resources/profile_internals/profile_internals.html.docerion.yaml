@@ -1,0 +1,4 @@
+# Docerion header of profile_internals.html.
+type: source
+title: Profile Internals debug page HTML
+summary: Entry HTML page for the Profile Internals debug page that loads the profile-internals-app web component.

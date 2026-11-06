@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SceneObservingProfileAgent header
+// summary: Declares a profile agent that observes the ProfileState and connected scenes to provide convenient synthetic events for subclasses.
+// ---
+
 #ifndef IOS_CHROME_APP_PROFILE_SCENE_OBSERVING_PROFILE_AGENT_H_
 #define IOS_CHROME_APP_PROFILE_SCENE_OBSERVING_PROFILE_AGENT_H_
 

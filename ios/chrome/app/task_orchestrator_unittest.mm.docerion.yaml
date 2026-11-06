@@ -1,0 +1,4 @@
+# Docerion header of task_orchestrator_unittest.mm.
+type: test
+title: TaskOrchestrator unit tests
+summary: Tests TaskOrchestrator task scheduling and execution across scenes, including change-profile continuations, using fakes and mocks.

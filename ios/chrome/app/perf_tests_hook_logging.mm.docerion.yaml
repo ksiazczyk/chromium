@@ -1,0 +1,4 @@
+# Docerion header of perf_tests_hook_logging.mm.
+type: test
+title: Performance tests app launch signal logging
+summary: Signals app launch via os_log, signposts, and printf so startup performance tests can detect launch.

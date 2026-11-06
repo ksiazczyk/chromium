@@ -1,0 +1,4 @@
+# Docerion header of features_unittest.mm.
+type: test
+title: Background continued processing features unit tests
+summary: Tests that background continued processing is enabled by default on iOS 26+ with the buildflag set and can be disabled through the killswitch feature.

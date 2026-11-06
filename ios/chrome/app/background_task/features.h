@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background continued processing feature flag declaration
+// summary: Declares the kEnableBackgroundContinuedProcessing killswitch flag and a helper reporting whether background continued processing is enabled.
+// ---
+
 #ifndef IOS_CHROME_APP_BACKGROUND_TASK_FEATURES_H_
 #define IOS_CHROME_APP_BACKGROUND_TASK_FEATURES_H_
 

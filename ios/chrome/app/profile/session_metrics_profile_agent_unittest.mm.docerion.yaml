@@ -1,0 +1,4 @@
+# Docerion header of session_metrics_profile_agent_unittest.mm.
+type: test
+title: SessionMetricsProfileAgent unit tests
+summary: Unit tests verifying session start and end tracking and related histogram metrics using fake services and test profiles.

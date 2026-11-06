@@ -1,0 +1,4 @@
+# Docerion header of Environment+Catalyst.plist.
+type: config
+title: Catalyst environment bundle settings
+summary: Catalyst-specific bundle settings such as the minimum macOS version and automatic termination support.

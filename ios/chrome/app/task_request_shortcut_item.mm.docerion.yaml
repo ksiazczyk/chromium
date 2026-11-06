@@ -1,0 +1,4 @@
+# Docerion header of task_request_shortcut_item.mm.
+type: source
+title: TaskRequestForShortcutItem implementation
+summary: Implements handling of app shortcut items such as new search, incognito search, voice search, QR scanner and Lens, recording launch metrics and user actions.

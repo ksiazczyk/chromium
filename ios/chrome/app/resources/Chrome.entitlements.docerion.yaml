@@ -1,0 +1,4 @@
+# Docerion header of Chrome.entitlements.
+type: config
+title: Chrome app entitlements
+summary: Entitlements plist granting app groups, autofill credential provider, and extended virtual addressing to the Chrome app.

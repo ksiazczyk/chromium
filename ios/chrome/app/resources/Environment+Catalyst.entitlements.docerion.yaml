@@ -1,0 +1,4 @@
+# Docerion header of Environment+Catalyst.entitlements.
+type: config
+title: Catalyst environment entitlements
+summary: Entitlements for the Mac Catalyst build enabling app sandbox, task debugging, and network client access.

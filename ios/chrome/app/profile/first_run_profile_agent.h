@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: First run profile agent interface
+// summary: Declares the profile agent that displays the first run UI and handles the kFirstRun profile init stage and its transitions.
+// ---
+
 #ifndef IOS_CHROME_APP_PROFILE_FIRST_RUN_PROFILE_AGENT_H_
 #define IOS_CHROME_APP_PROFILE_FIRST_RUN_PROFILE_AGENT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App init stage test utility declarations
+// summary: Declares functions returning the AppInitStage before or after a given stage for test code.
+// ---
+
 #ifndef IOS_CHROME_APP_APPLICATION_DELEGATE_APP_INIT_STAGE_TEST_UTILS_H_
 #define IOS_CHROME_APP_APPLICATION_DELEGATE_APP_INIT_STAGE_TEST_UTILS_H_
 

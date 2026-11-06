@@ -1,0 +1,4 @@
+# Docerion header of fake_tab_opener.mm.
+type: source
+title: FakeTabOpener implementation
+summary: Implements FakeTabOpener, storing URLs, application modes, and completion blocks from tab-opening calls during tests.

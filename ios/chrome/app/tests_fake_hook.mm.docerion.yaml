@@ -1,0 +1,4 @@
+# Docerion header of tests_fake_hook.mm.
+type: source
+title: Fake tests hook implementation
+summary: Provides default no-op tests_hook implementations, returning nil services and disabling nothing, for builds where real test hooks are not linked in.

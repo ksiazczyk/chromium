@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Profile directory include dependency rules
+summary: Grants file-specific include permissions for sources in the profile directory.

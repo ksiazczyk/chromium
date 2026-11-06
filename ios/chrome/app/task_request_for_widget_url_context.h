@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TaskRequestForWidgetURLContext interface
+// summary: Declares the TaskRequest subclass for WidgetKit URLs, exposing the parsed WidgetKit extension action for the request.
+// ---
+
 #ifndef IOS_CHROME_APP_TASK_REQUEST_FOR_WIDGET_URL_CONTEXT_H_
 #define IOS_CHROME_APP_TASK_REQUEST_FOR_WIDGET_URL_CONTEXT_H_
 

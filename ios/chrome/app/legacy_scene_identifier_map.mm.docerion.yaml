@@ -1,0 +1,4 @@
+# Docerion header of legacy_scene_identifier_map.mm.
+type: source
+title: Legacy scene identifier map implementation
+summary: Maps UISceneSession identifiers to scene states and records discarded scene sessions per profile, emitting a histogram for scenes discarded while still connected.

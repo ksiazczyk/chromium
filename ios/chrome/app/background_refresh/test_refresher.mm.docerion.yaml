@@ -1,0 +1,4 @@
+# Docerion header of test_refresher.mm.
+type: source
+title: Test refresher implementation
+summary: Implements a test-only refresher task that maps the app init stage and records it in a background refresh histogram.

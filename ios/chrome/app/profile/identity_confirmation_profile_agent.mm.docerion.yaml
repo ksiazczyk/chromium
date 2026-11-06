@@ -1,0 +1,4 @@
+# Docerion header of identity_confirmation_profile_agent.mm.
+type: source
+title: Identity confirmation profile agent implementation
+summary: Implements scene and profile state observation to show identity confirmation snackbars, including iPad split-screen deduplication logic.

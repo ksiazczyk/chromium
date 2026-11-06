@@ -1,0 +1,4 @@
+# Docerion header of startup_tasks.mm.
+type: source
+title: StartupTasks implementation
+summary: Implements startup tasks including starting Omaha, logging Siri Shortcuts to UMA and clearing now-playing info on resign active.

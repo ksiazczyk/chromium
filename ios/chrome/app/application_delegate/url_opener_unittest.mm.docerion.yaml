@@ -1,0 +1,4 @@
+# Docerion header of url_opener_unittest.mm.
+type: test
+title: Unit tests for URLOpener
+summary: Unit tests for URLOpener covering URL handling in the legacy startup flow using strict protocol mocks and stub startup information.

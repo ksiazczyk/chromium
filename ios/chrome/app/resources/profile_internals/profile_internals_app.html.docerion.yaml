@@ -1,0 +1,4 @@
+# Docerion header of profile_internals_app.html.
+type: source
+title: Profile Internals app Lit template
+summary: Lit HTML template rendering the profiles list with usernames, Gaia IDs, auth error state, attached Gaia IDs, and last active time.

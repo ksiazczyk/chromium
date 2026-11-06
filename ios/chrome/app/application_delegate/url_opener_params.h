@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URLOpenerParams interface for unified URL open parameters
+// summary: Declares URLOpenerParams, which unifies the URL and source application parameters from the different iOS URL opening APIs.
+// ---
+
 #ifndef IOS_CHROME_APP_APPLICATION_DELEGATE_URL_OPENER_PARAMS_H_
 #define IOS_CHROME_APP_APPLICATION_DELEGATE_URL_OPENER_PARAMS_H_
 

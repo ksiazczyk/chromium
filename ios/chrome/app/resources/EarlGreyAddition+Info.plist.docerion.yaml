@@ -1,0 +1,4 @@
+# Docerion header of EarlGreyAddition+Info.plist.
+type: config
+title: EarlGrey test Info.plist additions
+summary: Info.plist fragment for EarlGrey test builds, marking the app as an EarlGrey test and enabling file sharing.

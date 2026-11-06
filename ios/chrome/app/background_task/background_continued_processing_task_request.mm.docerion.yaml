@@ -1,0 +1,4 @@
+# Docerion header of background_continued_processing_task_request.mm.
+type: source
+title: Background continued processing task request implementation
+summary: Implements the task request initializer, validating that the identifier is non-empty and the configuration is present.

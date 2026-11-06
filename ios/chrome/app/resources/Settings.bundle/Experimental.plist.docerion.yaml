@@ -1,0 +1,4 @@
+# Docerion header of Experimental.plist.
+type: config
+title: Chrome iOS experimental settings pane
+summary: Defines the experimental preferences pane in the iOS Settings app, with toggles and fields for feed, UI, first run, locale, and other debugging options.

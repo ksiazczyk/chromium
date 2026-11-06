@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background continued processing task provider protocol
+// summary: Protocol supplying the continued processing task requests to schedule when background processing becomes available and notifying when it is no longer needed.
+// ---
+
 #ifndef IOS_CHROME_APP_BACKGROUND_TASK_BACKGROUND_CONTINUED_PROCESSING_TASK_PROVIDER_H_
 #define IOS_CHROME_APP_BACKGROUND_TASK_BACKGROUND_CONTINUED_PROCESSING_TASK_PROVIDER_H_
 

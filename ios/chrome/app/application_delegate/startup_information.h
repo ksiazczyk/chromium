@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StartupInformation protocol and iOS launch reason enum
+// summary: Declares the StartupInformation protocol and IOSLaunchReason enum that track startup state, launch reasons, and UMA timing metrics for the iOS app delegate.
+// ---
+
 #ifndef IOS_CHROME_APP_APPLICATION_DELEGATE_STARTUP_INFORMATION_H_
 #define IOS_CHROME_APP_APPLICATION_DELEGATE_STARTUP_INFORMATION_H_
 
