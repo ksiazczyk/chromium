@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ColorMode enum traits between mojom and C++
+// summary: Converts between ui::mojom::ColorMode and ui::ColorProviderKey::ColorMode for mojo serialization.
+// ---
+
 #ifndef UI_BASE_MOJOM_COLOR_MODE_MOJOM_TRAITS_H_
 #define UI_BASE_MOJOM_COLOR_MODE_MOJOM_TRAITS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User activity detector implementation
+// summary: Implements UserActivityDetector, which watches platform input events and notifies observers of user activity while ignoring synthesized mouse events around display power changes.
+// ---
+
 #include "ui/base/user_activity/user_activity_detector.h"
 
 #include <utility>

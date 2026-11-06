@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kalman filter implementation
+// summary: Implements a single-axis Kalman filter that estimates position, velocity and acceleration from noisy observations.
+// ---
+
 #include "ui/base/prediction/kalman_filter.h"
 
 #include "base/check_op.h"

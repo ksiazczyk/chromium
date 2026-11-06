@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DialogModelField implementation
+// summary: Implements DialogModelLabel with text replacements, links and emphasized text, plus DialogModelField base behavior for visibility, change callbacks and typed casts.
+// ---
+
 #include "ui/base/models/dialog_model_field.h"
 
 #include <string>

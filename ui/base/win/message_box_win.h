@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RTL-aware message box API
+// summary: Declares a wrapper around the Windows MessageBox function that handles RTL locale flags so callers need not add them.
+// ---
+
 #ifndef UI_BASE_WIN_MESSAGE_BOX_WIN_H_
 #define UI_BASE_WIN_MESSAGE_BOX_WIN_H_
 

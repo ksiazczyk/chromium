@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for Wayland display ID pair conversion utilities
+// summary: Declares the WaylandDisplayIdPair struct and functions converting between 64-bit display IDs and 32-bit high and low pairs.
+// ---
+
 #ifndef UI_BASE_WAYLAND_WAYLAND_DISPLAY_UTIL_H_
 #define UI_BASE_WAYLAND_WAYLAND_DISPLAY_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Internal Windows UI constants
+// summary: Defines window property and class name constants for touch mouse activation, legacy screen reader windows, and translucent compositor output.
+// ---
+
 #ifndef UI_BASE_WIN_INTERNAL_CONSTANTS_H_
 #define UI_BASE_WIN_INTERNAL_CONSTANTS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ListModel unit tests
+// summary: Unit tests verifying ListModel item addition, insertion, removal, deletion, moving and observer notification counts.
+// ---
+
 #include "ui/base/models/list_model.h"
 
 #include <stddef.h>

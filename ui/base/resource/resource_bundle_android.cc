@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android ResourceBundle implementation
+// summary: Android-specific ResourceBundle support that loads resources and locale pak files from APK assets and exposes their file descriptors.
+// ---
+
 #include "ui/base/resource/resource_bundle_android.h"
 
 #include <memory>

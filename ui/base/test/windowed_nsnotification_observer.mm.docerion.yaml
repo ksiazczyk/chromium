@@ -1,0 +1,4 @@
+# Docerion header of windowed_nsnotification_observer.mm.
+type: test
+title: Windowed NSNotification observer implementation
+summary: Implements the NSNotification observer that counts notifications and spins a RunLoop to wait for a minimum count with a timeout.

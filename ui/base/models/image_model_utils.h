@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Image model utilities declaration
+// summary: Declares GetDefaultDisabledIconFromImageModel, a helper for creating disabled-state icons from an ImageModel.
+// ---
+
 #ifndef UI_BASE_MODELS_IMAGE_MODEL_UTILS_H_
 #define UI_BASE_MODELS_IMAGE_MODEL_UTILS_H_
 

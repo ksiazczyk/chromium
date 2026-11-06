@@ -6,6 +6,12 @@
 // (key, value) pairs of data.  It's used to store static resources like
 // translation strings and images.
 
+// ---docerion
+// type: source
+// title: DataPack class declaration
+// summary: Declares DataPack, a read-only view of a .pak file mapping resource IDs to data, with packed entries, aliases, iterators, and data sources.
+// ---
+
 #ifndef UI_BASE_RESOURCE_DATA_PACK_H_
 #define UI_BASE_RESOURCE_DATA_PACK_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS pointer device implementation
+// summary: Implements pointer device queries for iOS, reporting a coarse pointer, five touch points, and hover only when a mouse is attached.
+// ---
+
 #include "ui/base/pointer/pointer_device.h"
 
 #include <utility>

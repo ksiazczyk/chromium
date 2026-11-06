@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User activity detector unit tests
+// summary: Unit tests verifying that UserActivityDetector notifies observers for key, mouse, and other input events, including notification throttling and display power change handling.
+// ---
+
 #include "ui/base/user_activity/user_activity_detector.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedOleInitializer implementation
+// summary: Implements scoped OLE/COM initialization for a thread, including early OLEAUT32 delayload resolution and handling of resource exhaustion errors.
+// ---
+
 #include "ui/base/win/scoped_ole_initializer.h"
 
 #include <ole2.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TreeNodeIterator template
+// summary: Defines a template iterator over the descendants of a tree node, with an optional prune callback that skips entire branches during traversal.
+// ---
+
 #ifndef UI_BASE_MODELS_TREE_NODE_ITERATOR_H_
 #define UI_BASE_MODELS_TREE_NODE_ITERATOR_H_
 

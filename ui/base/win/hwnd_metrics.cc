@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window frame thickness metrics
+// summary: Computes resizable window frame thickness in pixels or DIPs from monitor or window metrics, with headless support.
+// ---
+
 #include "ui/base/win/hwnd_metrics.h"
 
 #include "ui/display/screen.h"

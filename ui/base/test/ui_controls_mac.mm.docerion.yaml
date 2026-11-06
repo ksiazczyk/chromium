@@ -1,0 +1,4 @@
+# Docerion header of ui_controls_mac.mm.
+type: test
+title: Mac ui_controls implementation for synthesizing test input events
+summary: macOS implementation of ui_controls that posts synthesized keyboard and mouse events to the application event queue for use in interactive and fuzzing tests.

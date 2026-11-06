@@ -1,0 +1,4 @@
+# Docerion header of attributed_string.mojom.
+type: source
+title: AttributedString mojom for macOS
+summary: Defines mojo-serializable structs for CFAttributedString font attributes, deliberately limiting serialization for security when messaging from renderer to browser.

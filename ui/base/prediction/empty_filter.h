@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EmptyFilter class declaration
+// summary: Declares EmptyFilter, a fake InputFilter used mainly for testing that returns the input position as the filtered result.
+// ---
+
 #ifndef UI_BASE_PREDICTION_EMPTY_FILTER_H_
 #define UI_BASE_PREDICTION_EMPTY_FILTER_H_
 

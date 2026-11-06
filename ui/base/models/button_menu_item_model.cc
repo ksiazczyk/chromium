@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ButtonMenuItemModel implementation
+// summary: Implements ui::ButtonMenuItemModel, which models rows of buttons inside a menu item and delegates labels, enabled state, accelerators and activation to a Delegate.
+// ---
+
 #include "ui/base/models/button_menu_item_model.h"
 
 #include "ui/base/l10n/l10n_util.h"

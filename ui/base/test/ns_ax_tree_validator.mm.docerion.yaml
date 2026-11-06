@@ -1,0 +1,4 @@
+# Docerion header of ns_ax_tree_validator.mm.
+type: test
+title: macOS accessibility tree validator implementation
+summary: Implements validation of NSAccessibility parent-child invariants, including a workaround for a macOS 14 NSThemeWidgetZoomMenuRemoteView issue.

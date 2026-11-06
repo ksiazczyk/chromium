@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ComboboxModel base implementation
+// summary: Provides default implementations for the ComboboxModel data model, including observer notification on destruction and empty defaults for icons, separators, colors and checkmark config.
+// ---
+
 #include "ui/base/models/combobox_model.h"
 
 #include "ui/base/models/combobox_model_observer.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Jstemplate builder implementation
+// summary: Builds WebUI HTML by applying template replacements and embedding loadTimeData source and JSON data in script tags.
+// ---
+
 #include "ui/base/webui/jstemplate_builder.h"
 
 #include <optional>

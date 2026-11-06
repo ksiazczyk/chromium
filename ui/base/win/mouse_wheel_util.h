@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mouse wheel rerouting utilities for Windows
+// summary: Declares helpers that mark an HWND as supporting mouse wheel rerouting and forward wheel messages to the window under the pointer instead of the active window.
+// ---
+
 #ifndef UI_BASE_WIN_MOUSE_WHEEL_UTIL_H_
 #define UI_BASE_WIN_MOUSE_WHEEL_UTIL_H_
 

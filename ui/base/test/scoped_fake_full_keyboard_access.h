@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped fake full keyboard access header
+// summary: Declares a singleton test helper that swizzles [NSApp isFullKeyboardAccessEnabled] to return a controllable state.
+// ---
+
 #ifndef UI_BASE_TEST_SCOPED_FAKE_FULL_KEYBOARD_ACCESS_H_
 #define UI_BASE_TEST_SCOPED_FAKE_FULL_KEYBOARD_ACCESS_H_
 

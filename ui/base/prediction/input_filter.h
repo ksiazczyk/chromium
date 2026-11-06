@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputFilter interface
+// summary: Defines the InputFilter interface for smoothing a sequence of input coordinates and timestamps into a filtered path.
+// ---
+
 #ifndef UI_BASE_PREDICTION_INPUT_FILTER_H_
 #define UI_BASE_PREDICTION_INPUT_FILTER_H_
 

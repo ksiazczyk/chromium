@@ -1,0 +1,4 @@
+# Docerion header of ui_image_test_utils_unittest.mm.
+type: test
+title: UIImage test utilities unit tests
+summary: Unit tests covering image creation and pixel-based equality checks for the UIImage test utilities.

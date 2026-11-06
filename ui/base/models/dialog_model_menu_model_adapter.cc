@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dialog model menu model adapter implementation
+// summary: Implements the MenuModel interface on top of a DialogModel so dialog fields can be presented as menu items with labels, icons, and enabled state.
+// ---
+
 #include "ui/base/models/dialog_model_menu_model_adapter.h"
 
 #include "ui/base/models/dialog_model.h"

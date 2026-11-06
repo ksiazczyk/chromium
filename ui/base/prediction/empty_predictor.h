@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EmptyPredictor class declaration
+// summary: Declares EmptyPredictor, an InputPredictor subclass that does not generate any prediction and is used for testing.
+// ---
+
 #ifndef UI_BASE_PREDICTION_EMPTY_PREDICTOR_H_
 #define UI_BASE_PREDICTION_EMPTY_PREDICTOR_H_
 

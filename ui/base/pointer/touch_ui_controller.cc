@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touch UI controller implementation
+// summary: Implements the touch UI controller, recording digitizer and posture histograms and reacting to Windows tablet mode changes.
+// ---
+
 #include "ui/base/pointer/touch_ui_controller.h"
 
 #include <memory>

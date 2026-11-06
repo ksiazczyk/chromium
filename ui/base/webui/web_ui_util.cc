@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI utility functions
+// summary: Provides helpers for WebUI pages such as PNG data URLs, click dispositions, scale factor and frame index parsing, and default CSS text values.
+// ---
+
 #include "ui/base/webui/web_ui_util.h"
 
 #include <optional>

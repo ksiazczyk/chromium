@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Linear resampling unit tests
+// summary: Unit tests for linear resampling, checking predictor naming, prediction availability, minimum delta behavior, and frame-based resampling accuracy.
+// ---
+
 #include "ui/base/prediction/linear_resampling.h"
 
 #include "base/test/scoped_feature_list.h"

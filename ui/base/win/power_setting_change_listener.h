@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Power setting change listener interface
+// summary: Defines the PowerSettingChangeListener interface and a scoped RAII wrapper for objects that want to observe Windows power setting changes.
+// ---
+
 #ifndef UI_BASE_WIN_POWER_SETTING_CHANGE_LISTENER_H_
 #define UI_BASE_WIN_POWER_SETTING_CHANGE_LISTENER_H_
 

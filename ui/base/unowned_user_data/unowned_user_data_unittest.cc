@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ScopedUnownedUserData and UnownedUserDataHost
+// summary: Unit tests verifying scoped registration, independence of types, and duplicate-entry checks for unowned user data.
+// ---
+
 #include "testing/gtest/include/gtest/gtest.h"
 #include "ui/base/unowned_user_data/scoped_unowned_user_data.h"
 #include "ui/base/unowned_user_data/unowned_user_data_host.h"

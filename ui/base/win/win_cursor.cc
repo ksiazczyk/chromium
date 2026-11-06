@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WinCursor implementation
+// summary: Implements the ref-counted WinCursor platform cursor that wraps an HCURSOR and optionally destroys it with DestroyIcon on deletion.
+// ---
+
 #include "ui/base/win/win_cursor.h"
 
 #include <windows.h>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for ui/base test targets
+summary: Chromium DEPS rules granting extra include permissions to run_all_unittests.cc and skia_gold_pixel_diff.cc in the ui/base test directory.

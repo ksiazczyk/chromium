@@ -1,0 +1,4 @@
+# Docerion header of truncated-header.pak.
+type: data
+title: Truncated-header.pak test fixture
+summary: Four-byte PAK file with a truncated header, used as a fixture by the data pack unit tests to exercise handling of malformed pack files.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OneEuroFilter unit tests
+// summary: Verifies that the One Euro filter keeps filtered point values within the 0 to 1 input range.
+// ---
+
 #include "ui/base/prediction/one_euro_filter.h"
 
 #include "base/rand_util.h"

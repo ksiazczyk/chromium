@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pointer device shared implementation
+// summary: Provides shared pointer and hover type queries plus a scoped testing override, with platform files supplying the underlying implementation.
+// ---
+
 #include "ui/base/pointer/pointer_device.h"
 
 #include <utility>

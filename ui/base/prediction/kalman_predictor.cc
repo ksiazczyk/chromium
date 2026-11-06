@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kalman predictor implementation
+// summary: Implements an input predictor that uses per-axis Kalman filters to predict pointer position from velocity and acceleration.
+// ---
+
 #include "ui/base/prediction/kalman_predictor.h"
 
 #include <algorithm>

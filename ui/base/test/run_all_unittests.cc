@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ui_base_unittests test runner
+// summary: Main entry point for the ui_base_unittests binary that initializes the test suite, resource bundles and platform-specific paths on Mac, iOS, Android, Windows and other platforms.
+// ---
+
 #include "base/files/file_path.h"
 #include "base/functional/bind.h"
 #include "base/path_service.h"

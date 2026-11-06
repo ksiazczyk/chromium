@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Byte formatting API header
+// summary: Declares the ui namespace API for formatting byte quantities and speeds, including the DataUnits enum and unit selection helper.
+// ---
+
 #ifndef UI_BASE_TEXT_BYTES_FORMATTING_H_
 #define UI_BASE_TEXT_BYTES_FORMATTING_H_
 

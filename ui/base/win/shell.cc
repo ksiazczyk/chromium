@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows shell helper implementation
+// summary: Implements ShellExecuteEx-based helpers to open files and folders and to manage taskbar app id, icon, relaunch details and pinning properties for windows.
+// ---
+
 #include "ui/base/win/shell.h"
 
 // clang-format off

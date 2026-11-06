@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default pointer device implementation
+// summary: Supplies a default implementation reporting a fine pointer with hover support and no touch capability.
+// ---
+
 #include <optional>
 #include <utility>
 #include <vector>

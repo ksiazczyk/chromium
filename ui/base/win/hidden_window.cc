@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hidden parent window implementation
+// summary: Implements GetHiddenWindow, creating a disabled tool window used as a temporary parent for background tabs.
+// ---
+
 #include "ui/base/win/hidden_window.h"
 
 #include "base/notreached.h"

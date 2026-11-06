@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PredictionMetricsHandler unit tests
+// summary: Tests the prediction metrics computation and histogram reporting of PredictionMetricsHandler using base::HistogramTester.
+// ---
+
 #include "ui/base/prediction/prediction_metrics_handler.h"
 
 #include <memory>

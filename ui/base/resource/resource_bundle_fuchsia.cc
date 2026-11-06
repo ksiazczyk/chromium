@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia ResourceBundle implementation
+// summary: Fuchsia implementation of ResourceBundle common resource loading that reuses the shared Chrome resource loading path.
+// ---
+
 #include "ui/base/resource/resource_bundle.h"
 
 #include "base/base_paths.h"

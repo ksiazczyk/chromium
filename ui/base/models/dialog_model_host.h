@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DialogModelHost interface
+// summary: Declares the platform-agnostic DialogModelHost interface that toolkit integrations implement to close dialogs and react to button changes.
+// ---
+
 #ifndef UI_BASE_MODELS_DIALOG_MODEL_HOST_H_
 #define UI_BASE_MODELS_DIALOG_MODEL_HOST_H_
 

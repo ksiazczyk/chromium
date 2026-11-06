@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touch input wrapper header
+// summary: Declares GetTouchInputInfoWrapper, a wrapper for GetTouchInputInfo that returns FALSE on Windows versions before 7.
+// ---
+
 #ifndef UI_BASE_WIN_TOUCH_INPUT_H_
 #define UI_BASE_WIN_TOUCH_INPUT_H_
 

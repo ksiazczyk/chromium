@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ListModelObserver interface
+// summary: Observer interface with callbacks invoked after list items are added, removed, moved or changed in a ListModel.
+// ---
+
 #ifndef UI_BASE_MODELS_LIST_MODEL_OBSERVER_H_
 #define UI_BASE_MODELS_LIST_MODEL_OBSERVER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of framework-Info.plist.
+type: config
+title: Info.plist for the ui-unittests framework
+summary: macOS bundle metadata defining the ui-unittests framework identifier, package type, and executable name.

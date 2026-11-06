@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session change observer implementation
+// summary: Implements WTS session notification registration via a singleton manager and dispatches session lock and unlock events to SessionChangeObserver callbacks.
+// ---
+
 #include "ui/base/win/session_change_observer.h"
 
 #include <wtsapi32.h>

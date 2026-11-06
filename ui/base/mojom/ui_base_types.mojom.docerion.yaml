@@ -1,0 +1,4 @@
+# Docerion header of ui_base_types.mojom.
+type: source
+title: UI base Mojom type definitions
+summary: Defines the ModalType enum in the ui.mojom module, specifying window modality levels from non-modal to system-modal on ChromeOS.

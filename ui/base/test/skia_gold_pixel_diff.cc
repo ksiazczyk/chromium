@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Skia Gold pixel diff implementation
+// summary: Implements SkiaGoldPixelDiff, which uploads screenshots to the Skia Gold server via goldctl for pixel test comparison across platforms.
+// ---
+
 #include "ui/base/test/skia_gold_pixel_diff.h"
 
 #include <memory>

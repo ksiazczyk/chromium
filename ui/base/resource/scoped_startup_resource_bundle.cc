@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedStartupResourceBundle implementation
+// summary: Implements a scoper that initializes a temporary ResourceBundle for string access during startup and cleans it up on exit.
+// ---
+
 #include "ui/base/resource/scoped_startup_resource_bundle.h"
 
 #include <string>

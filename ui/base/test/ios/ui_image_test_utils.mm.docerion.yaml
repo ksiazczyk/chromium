@@ -1,0 +1,4 @@
+# Docerion header of ui_image_test_utils.mm.
+type: source
+title: UIImage test utilities implementation
+summary: Implements the image test helpers, rendering solid-color UIImages and comparing pixel data for equality.

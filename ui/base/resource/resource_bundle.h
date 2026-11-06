@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ResourceBundle class declaration
+// summary: Declares the ResourceBundle class, the central facility for loading images, fonts and other resources once, together with its delegate interface.
+// ---
+
 #ifndef UI_BASE_RESOURCE_RESOURCE_BUNDLE_H_
 #define UI_BASE_RESOURCE_RESOURCE_BUNDLE_H_
 

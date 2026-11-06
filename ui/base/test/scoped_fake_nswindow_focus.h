@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped fake NSWindow focus header
+// summary: Declares a test helper that simulates NSWindow key and main status through method swizzling, avoiding the need for interactive UI tests.
+// ---
+
 #ifndef UI_BASE_TEST_SCOPED_FAKE_NSWINDOW_FOCUS_H_
 #define UI_BASE_TEST_SCOPED_FAKE_NSWINDOW_FOCUS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ResourceScaleFactor enum and helpers
+// summary: Defines the ResourceScaleFactor enum and functions to set, query and scope supported scale factors per platform.
+// ---
+
 #ifndef UI_BASE_RESOURCE_RESOURCE_SCALE_FACTOR_H_
 #define UI_BASE_RESOURCE_RESOURCE_SCALE_FACTOR_H_
 

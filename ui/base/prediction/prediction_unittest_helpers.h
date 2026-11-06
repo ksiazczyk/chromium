@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Prediction unit test helpers
+// summary: Provides a shared static test timestamp used by input prediction unit tests.
+// ---
+
 #ifndef UI_BASE_PREDICTION_PREDICTION_UNITTEST_HELPERS_H_
 #define UI_BASE_PREDICTION_PREDICTION_UNITTEST_HELPERS_H_
 

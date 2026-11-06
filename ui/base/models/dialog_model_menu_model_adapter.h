@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DialogModelMenuModelAdapter class declaration
+// summary: Declares an adapter that hosts a DialogModel and exposes its fields through the MenuModel interface.
+// ---
+
 #ifndef UI_BASE_MODELS_DIALOG_MODEL_MENU_MODEL_ADAPTER_H_
 #define UI_BASE_MODELS_DIALOG_MODEL_MENU_MODEL_ADAPTER_H_
 

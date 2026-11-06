@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Resource allowlist template
+// summary: Provides a constexpr function template that marks referenced resource IDs so unused resources can be filtered from shipped .pak files.
+// ---
+
 #ifndef UI_BASE_RESOURCE_ALLOWLIST_H_
 #define UI_BASE_RESOURCE_ALLOWLIST_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows cursor factory implementation
+// summary: Maps Chromium cursor types to system and bundled Windows cursor resources and creates image cursors for the ui/base cursor stack.
+// ---
+
 #include "ui/base/win/win_cursor_factory.h"
 
 #include <windows.h>

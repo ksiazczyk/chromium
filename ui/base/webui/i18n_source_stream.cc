@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: I18nSourceStream implementation
+// summary: Implements a net filter source stream that replaces $i18n{} placeholders in WebUI resources with translation strings, handling tags split across reads.
+// ---
+
 #include "ui/base/webui/i18n_source_stream.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Workstation lock state API
+// summary: Declares IsWorkstationLocked, which reports whether the Windows screen is currently locked.
+// ---
+
 #ifndef UI_BASE_WIN_LOCK_STATE_H_
 #define UI_BASE_WIN_LOCK_STATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock touch UI controller header
+// summary: Declares a TouchUiController subclass that returns mock connected pointer devices instead of real platform data.
+// ---
+
 #ifndef UI_BASE_POINTER_MOCK_TOUCH_UI_CONTROLLER_H_
 #define UI_BASE_POINTER_MOCK_TOUCH_UI_CONTROLLER_H_
 

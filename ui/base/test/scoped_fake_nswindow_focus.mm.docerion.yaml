@@ -1,0 +1,4 @@
+# Docerion header of scoped_fake_nswindow_focus.mm.
+type: test
+title: Scoped fake NSWindow focus implementation
+summary: Implements swizzled NSWindow and NSApplication focus methods that track a fake focused window and post the corresponding focus notifications.

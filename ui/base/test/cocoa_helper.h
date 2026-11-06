@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cocoa test helper declarations
+// summary: Declares CocoaTestHelperWindow and the CocoaTest base class that manage test NSWindows, key window faking, and autorelease pools for AppKit tests.
+// ---
+
 #ifndef UI_BASE_TEST_COCOA_HELPER_H_
 #define UI_BASE_TEST_COCOA_HELPER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedStartupResourceBundle for early startup localized strings
+// summary: Declares ScopedStartupResourceBundle, a scoped helper that ensures a loaded shared ResourceBundle exists for localized string access during early startup phases in Chromium's UI base layer.
+// ---
+
 #ifndef UI_BASE_RESOURCE_SCOPED_STARTUP_RESOURCE_BUNDLE_H_
 #define UI_BASE_RESOURCE_SCOPED_STARTUP_RESOURCE_BUNDLE_H_
 

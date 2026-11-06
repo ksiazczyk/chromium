@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of UserDataFactory scoped overrides
+// summary: Implements UserDataFactory entry management and the scoped override lifecycle used for test-time instance injection.
+// ---
+
 #include "ui/base/unowned_user_data/user_data_factory.h"
 
 #include <utility>

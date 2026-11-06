@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the unowned_user_data component
+summary: Defines the unowned_user_data component build targets and unit test source set, restricted to supported platforms.

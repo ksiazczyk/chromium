@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClipboardBuffer enum traits for Blink mojom
+// summary: Maps ui::ClipboardBuffer to blink::mojom::ClipboardBuffer for mojo serialization, a conversion used only in tests.
+// ---
+
 #ifndef UI_BASE_MOJOM_CLIPBOARD_BLINK_MOJOM_TRAITS_H_
 #define UI_BASE_MOJOM_CLIPBOARD_BLINK_MOJOM_TRAITS_H_
 

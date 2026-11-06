@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Least squares predictor header
+// summary: Declares the LeastSquaresPredictor class, which predicts input positions using a quadratic least squares regression over stored points and timestamps.
+// ---
+
 #ifndef UI_BASE_PREDICTION_LEAST_SQUARES_PREDICTOR_H_
 #define UI_BASE_PREDICTION_LEAST_SQUARES_PREDICTOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputPredictor base class implementation
+// summary: Implements default resample-latency behavior for the InputPredictor base class, returning zero offset and no internal latency handling.
+// ---
+
 #include "ui/base/prediction/input_predictor.h"
 
 namespace ui {

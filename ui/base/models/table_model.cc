@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TableModel implementation
+// summary: Implements TableModel defaults such as icons, tooltips, accessibility names for headers and rows, and locale-aware value comparison using an ICU collator.
+// ---
+
 #include "ui/base/models/table_model.h"
 
 #include "base/check.h"

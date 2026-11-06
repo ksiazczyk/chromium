@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shell unit tests for OpenFileViaShell
+// summary: Unit tests for ui::win shell file opening, exercising files with spaces in extensions via a detached thread and a shell_test_helper.exe sentinel file.
+// ---
+
 #include "ui/base/win/shell.h"
 
 #include <shlobj.h>

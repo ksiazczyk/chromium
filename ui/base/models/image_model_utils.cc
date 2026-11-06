@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Image model utilities implementation
+// summary: Implements a helper that derives a default disabled icon from an ImageModel by recoloring vector icons or applying transparency to images.
+// ---
+
 #include "ui/base/models/image_model_utils.h"
 
 #include "ui/base/models/image_model.h"

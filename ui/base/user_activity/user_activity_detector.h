@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserActivityDetector class declaration
+// summary: Declares the UserActivityDetector singleton that observes platform events, tracks the last activity time, and throttledly notifies registered UserActivityObserver instances.
+// ---
+
 #ifndef UI_BASE_USER_ACTIVITY_USER_ACTIVITY_DETECTOR_H_
 #define UI_BASE_USER_ACTIVITY_USER_ACTIVITY_DETECTOR_H_
 

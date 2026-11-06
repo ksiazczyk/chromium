@@ -1,0 +1,4 @@
+# Docerion header of cocoa_helper.mm.
+type: test
+title: Cocoa test helper implementation
+summary: Implements the fake key window behavior, full keyboard access overrides, and window cleanup used by CocoaTest-based AppKit unit tests.

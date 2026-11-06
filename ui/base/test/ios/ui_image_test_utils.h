@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UIImage test utilities header
+// summary: Declares iOS test helpers for creating solid-color UIImages and comparing images by pixel data.
+// ---
+
 #ifndef UI_BASE_TEST_IOS_UI_IMAGE_TEST_UTILS_H_
 #define UI_BASE_TEST_IOS_UI_IMAGE_TEST_UTILS_H_
 

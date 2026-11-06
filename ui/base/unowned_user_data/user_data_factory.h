@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserDataFactory for injecting feature instances in tests
+// summary: Declares UserDataFactory, which lets features objects create subsystems while allowing tests to override construction with injected instances.
+// ---
+
 #ifndef UI_BASE_UNOWNED_USER_DATA_USER_DATA_FACTORY_H_
 #define UI_BASE_UNOWNED_USER_DATA_USER_DATA_FACTORY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Skia Gold pixel diff test utility
+// summary: Declares SkiaGoldPixelDiff, a utility class for Skia Gold pixel tests that compares screenshots against golden images with test environment keys.
+// ---
+
 #ifndef UI_BASE_TEST_SKIA_GOLD_PIXEL_DIFF_H_
 #define UI_BASE_TEST_SKIA_GOLD_PIXEL_DIFF_H_
 

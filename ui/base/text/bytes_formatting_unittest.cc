@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Byte formatting unit tests
+// summary: Unit tests verifying unit selection and formatted output of byte sizes across a range of values and DataUnits.
+// ---
+
 #include "ui/base/text/bytes_formatting.h"
 
 #include <array>

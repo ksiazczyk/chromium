@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Linear predictor unit tests
+// summary: Unit tests for the first and second order linear predictors, covering predictor names, required event counts, predicted values, and constant motion cases.
+// ---
+
 #include "ui/base/prediction/linear_predictor.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

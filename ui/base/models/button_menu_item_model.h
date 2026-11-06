@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ButtonMenuItemModel class declaration
+// summary: Declares ui::ButtonMenuItemModel, a model for button rows in menu items, with button types, item accessors and a Delegate interface for commands, labels and accelerators.
+// ---
+
 #ifndef UI_BASE_MODELS_BUTTON_MENU_ITEM_MODEL_H_
 #define UI_BASE_MODELS_BUTTON_MENU_ITEM_MODEL_H_
 

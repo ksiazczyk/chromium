@@ -1,0 +1,4 @@
+# Docerion header of resource_bundle_ios.mm.
+type: source
+title: iOS ResourceBundle implementation
+summary: iOS implementation of ResourceBundle that loads scale-specific pak files from the app bundle and builds native images from their data.

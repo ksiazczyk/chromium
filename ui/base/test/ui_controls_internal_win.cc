@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows UI controls internal implementation
+// summary: Implements Windows-specific injection of key, mouse and touch events for tests, including drag-loop unblock nudges.
+// ---
+
 #include "ui/base/test/ui_controls_internal_win.h"
 
 #include <windows.h>

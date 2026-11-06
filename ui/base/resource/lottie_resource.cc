@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lottie still image resource implementation
+// summary: Implements rendering Lottie animations as still ImageSkia images with theme color mapping for light, dark, and elevated dark modes.
+// ---
+
 #include "ui/base/resource/lottie_resource.h"
 
 #include <memory>

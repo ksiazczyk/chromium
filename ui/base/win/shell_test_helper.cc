@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shell test helper executable
+// summary: Standalone helper program that writes an executed.txt sentinel file to the current directory to signal that it ran successfully.
+// ---
+
 #include "base/containers/span.h"
 #include "base/files/file_path.h"
 #include "base/files/file_util.h"

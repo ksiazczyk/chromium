@@ -1,0 +1,4 @@
+# Docerion header of keyboard_appearance_listener.mm.
+type: source
+title: Keyboard appearance listener implementation
+summary: Implements the keyboard visibility listener by observing keyboard show and hide notifications.

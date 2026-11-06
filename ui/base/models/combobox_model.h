@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ComboboxModel interface
+// summary: Declares the abstract data model for combo boxes with item counts, labels, secondary text, icons, separators, default index, checkmark config, dropdown colors and observer management.
+// ---
+
 #ifndef UI_BASE_MODELS_COMBOBOX_MODEL_H_
 #define UI_BASE_MODELS_COMBOBOX_MODEL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linear predictor class header
+// summary: Declares the LinearPredictor class, a linear model predictor offering first and second order equations depending on the number of queued input events.
+// ---
+
 #ifndef UI_BASE_PREDICTION_LINEAR_PREDICTOR_H_
 #define UI_BASE_PREDICTION_LINEAR_PREDICTOR_H_
 

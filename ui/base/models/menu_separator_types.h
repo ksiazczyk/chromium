@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Menu separator types
+// summary: Defines the MenuSeparatorType enum describing separator styles such as normal, double, upper, lower, spacing, vertical and padded.
+// ---
+
 #ifndef UI_BASE_MODELS_MENU_SEPARATOR_TYPES_H_
 #define UI_BASE_MODELS_MENU_SEPARATOR_TYPES_H_
 

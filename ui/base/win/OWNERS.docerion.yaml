@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for ui/base/win
+summary: Lists the reviewers responsible for ui/base/win and delegates cursor-specific files to the cursor OWNERS.

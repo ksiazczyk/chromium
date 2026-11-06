@@ -1,0 +1,4 @@
+# Docerion header of window_open_disposition.mojom.
+type: source
+title: Window open disposition Mojom definitions
+summary: Defines the WindowOpenDisposition enum and ClickModifiers struct that describe how clicked links open tabs, popups, or windows.

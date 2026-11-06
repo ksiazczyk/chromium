@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DialogModel class declaration
+// summary: Declares DialogModel, the toolkit-agnostic data and behavior model for dialogs, with buttons, fields, delegates and documented usage examples for views and Android hosts.
+// ---
+
 #ifndef UI_BASE_MODELS_DIALOG_MODEL_H_
 #define UI_BASE_MODELS_DIALOG_MODEL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ResourceHandle interface
+// summary: Abstract interface for accessing resources in a pack by id, exposing text encoding, static memory and scale factor.
+// ---
+
 #ifndef UI_BASE_RESOURCE_RESOURCE_HANDLE_H_
 #define UI_BASE_RESOURCE_RESOURCE_HANDLE_H_
 

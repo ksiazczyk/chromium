@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows shell helper declarations
+// summary: Declares functions to open files and folders via the Windows shell and to set app id, icon, relaunch details and pinning behavior for windows.
+// ---
+
 #ifndef UI_BASE_WIN_SHELL_H_
 #define UI_BASE_WIN_SHELL_H_
 

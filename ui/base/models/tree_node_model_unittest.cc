@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tree node model unit tests
+// summary: Unit tests for ui::TreeNodeModel verifying node addition, removal, DeleteAll, index lookups and TreeModelObserver notifications.
+// ---
+
 #include "ui/base/models/tree_node_model.h"
 
 #include <memory>

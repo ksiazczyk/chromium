@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Skia Gold pixel diff unit tests
+// summary: Unit tests for SkiaGoldPixelDiff using a mocked process launch to verify screenshot comparison, switch handling and dry-run behavior.
+// ---
+
 #include "ui/base/test/skia_gold_pixel_diff.h"
 
 #include "base/command_line.h"

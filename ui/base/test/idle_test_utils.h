@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Idle provider test utilities
+// summary: Declares ScopedIdleProviderForTest, a scoped helper that swaps in a test IdleTimeProvider for idle polling during tests.
+// ---
+
 #ifndef UI_BASE_TEST_IDLE_TEST_UTILS_H_
 #define UI_BASE_TEST_IDLE_TEST_UTILS_H_
 

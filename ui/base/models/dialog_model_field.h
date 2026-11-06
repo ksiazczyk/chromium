@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dialog model field declarations
+// summary: Declares DialogModelLabel and the DialogModelField class hierarchy for dialog elements such as checkboxes, comboboxes, textfields, paragraphs, sections and menu items.
+// ---
+
 #ifndef UI_BASE_MODELS_DIALOG_MODEL_FIELD_H_
 #define UI_BASE_MODELS_DIALOG_MODEL_FIELD_H_
 

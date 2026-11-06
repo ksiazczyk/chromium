@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Least squares predictor unit tests
+// summary: Unit tests verifying prediction availability, linear and quadratic prediction accuracy, constant-timestamp handling, and time interval computation for the least squares predictor.
+// ---
+
 #include "ui/base/prediction/least_squares_predictor.h"
 #include "testing/gtest/include/gtest/gtest.h"
 #include "ui/base/prediction/input_predictor_unittest_helpers.h"

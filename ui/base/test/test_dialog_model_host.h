@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestDialogModelHost header
+// summary: Declares TestDialogModelHost, a DialogModelHost test double for exercising dialog models in tests.
+// ---
+
 #ifndef UI_BASE_TEST_TEST_DIALOG_MODEL_HOST_H_
 #define UI_BASE_TEST_TEST_DIALOG_MODEL_HOST_H_
 

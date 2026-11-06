@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Input predictor unit test base class
+// summary: Declares the InputPredictorTest base class with helpers for validating input predictor results in unit tests.
+// ---
+
 #ifndef UI_BASE_PREDICTION_INPUT_PREDICTOR_UNITTEST_HELPERS_H_
 #define UI_BASE_PREDICTION_INPUT_PREDICTOR_UNITTEST_HELPERS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows ResourceBundle helper declarations
+// summary: Declares Windows helpers to set the resources data DLL and to load theme icons and cursors from it.
+// ---
+
 #ifndef UI_BASE_RESOURCE_RESOURCE_BUNDLE_WIN_H_
 #define UI_BASE_RESOURCE_RESOURCE_BUNDLE_WIN_H_
 

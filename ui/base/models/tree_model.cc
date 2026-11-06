@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TreeModel implementation
+// summary: Provides default TreeModel method implementations, where SetTitle is unsupported by default and GetIconIndex returns no icon index.
+// ---
+
 #include "ui/base/models/tree_model.h"
 
 #include "base/notreached.h"

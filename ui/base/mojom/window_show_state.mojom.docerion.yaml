@@ -1,0 +1,4 @@
+# Docerion header of window_show_state.mojom.
+type: source
+title: Window show state Mojom enum
+summary: Defines the stable, extensible WindowShowState enum persisted by ChromeOS full restore and read back by possibly newer Chrome versions.

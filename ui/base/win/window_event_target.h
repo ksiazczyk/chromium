@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WindowEventTarget interface
+// summary: Declares the WindowEventTarget interface for forwarding Win32 mouse, pointer, keyboard, touch, input and scroll messages between related windows.
+// ---
+
 #ifndef UI_BASE_WIN_WINDOW_EVENT_TARGET_H_
 #define UI_BASE_WIN_WINDOW_EVENT_TARGET_H_
 

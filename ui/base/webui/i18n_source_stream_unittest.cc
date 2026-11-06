@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: I18nSourceStream unit tests
+// summary: Parameterized tests verifying $i18n{} replacement across varied buffer sizes, read sizes, and synchronous or asynchronous mock stream modes.
+// ---
+
 #include "ui/base/webui/i18n_source_stream.h"
 
 #include <stdint.h>

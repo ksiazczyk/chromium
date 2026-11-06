@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the unowned_user_data directory
+summary: Declares include rules allowing base, googletest, and ui/base dependencies for the directory.

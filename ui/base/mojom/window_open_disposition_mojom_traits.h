@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window open disposition Mojom traits
+// summary: Converts between the native WindowOpenDisposition enum and its ui.mojom counterpart using mojo EnumTraits mappings.
+// ---
+
 #ifndef UI_BASE_MOJOM_WINDOW_OPEN_DISPOSITION_MOJOM_TRAITS_H_
 #define UI_BASE_MOJOM_WINDOW_OPEN_DISPOSITION_MOJOM_TRAITS_H_
 

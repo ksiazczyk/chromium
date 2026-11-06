@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedFileWriter class declaration
+// summary: Declares ScopedFileWriter, a convenience class for writing data to a file with deferred error handling.
+// ---
+
 #ifndef UI_BASE_RESOURCE_SCOPED_FILE_WRITER_H_
 #define UI_BASE_RESOURCE_SCOPED_FILE_WRITER_H_
 

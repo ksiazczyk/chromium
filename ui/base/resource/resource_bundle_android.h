@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android ResourceBundle helpers
+// summary: Declares Android helpers for loading pak files from APKs and retrieving file descriptors and regions for resource and locale packs.
+// ---
+
 #ifndef UI_BASE_RESOURCE_RESOURCE_BUNDLE_ANDROID_H_
 #define UI_BASE_RESOURCE_RESOURCE_BUNDLE_ANDROID_H_
 

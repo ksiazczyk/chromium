@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped preferred scroller style Mac test helper
+// summary: Declares ScopedPreferredScrollerStyle, a scoped helper that overrides the macOS scrollbar style between overlay and legacy for tests.
+// ---
+
 #ifndef UI_BASE_TEST_SCOPED_PREFERRED_SCROLLER_STYLE_MAC_H_
 #define UI_BASE_TEST_SCOPED_PREFERRED_SCROLLER_STYLE_MAC_H_
 

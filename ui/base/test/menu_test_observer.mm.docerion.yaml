@@ -1,0 +1,4 @@
+# Docerion header of menu_test_observer.mm.
+type: test
+title: Menu test observer implementation
+summary: Implements MenuTestObserver by listening for menu tracking notifications to update open state and invoke the open callback.

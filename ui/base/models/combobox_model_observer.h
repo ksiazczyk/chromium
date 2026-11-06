@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ComboboxModelObserver interface
+// summary: Declares the observer interface for ComboboxModel with callbacks invoked when the model changes and when the model is being destroyed.
+// ---
+
 #ifndef UI_BASE_MODELS_COMBOBOX_MODEL_OBSERVER_H_
 #define UI_BASE_MODELS_COMBOBOX_MODEL_OBSERVER_H_
 

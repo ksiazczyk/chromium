@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dialog model unit tests
+// summary: Tests DialogModel button behavior, including unique ids, accelerators, callbacks, and forwarding of button parameters.
+// ---
+
 #include "ui/base/models/dialog_model.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners file for ui/base/webui
+summary: Delegates code ownership review to the shared WebUI platform owners file.

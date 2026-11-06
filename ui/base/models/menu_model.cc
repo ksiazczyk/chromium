@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MenuModel base implementation
+// summary: Provides default MenuModel behavior such as item visibility, labels, minor text and icons, badges, colors and delegate management.
+// ---
+
 #include "ui/base/models/menu_model.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock resource bundle delegate header
+// summary: Declares a gmock implementation of ResourceBundle::Delegate that stubs pack loading and resource lookup calls for tests.
+// ---
+
 #ifndef UI_BASE_RESOURCE_MOCK_RESOURCE_BUNDLE_DELEGATE_H_
 #define UI_BASE_RESOURCE_MOCK_RESOURCE_BUNDLE_DELEGATE_H_
 

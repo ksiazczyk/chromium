@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sample .pak file byte arrays
+// summary: Defines byte arrays of sample, compressed, scaled, and corrupt .pak files used as fixtures for DataPack tests.
+// ---
+
 #include "ui/base/resource/data_pack_literal.h"
 #include "ui/base/resource/resource_bundle.h"
 
