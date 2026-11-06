@@ -1,0 +1,4 @@
+# Docerion header of actions_spotlight_manager.mm.
+type: source
+title: Actions spotlight manager implementation
+summary: Implements Spotlight action indexing and maps Spotlight queries to app startup parameters while recording usage histograms.

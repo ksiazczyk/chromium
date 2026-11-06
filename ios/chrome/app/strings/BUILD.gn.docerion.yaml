@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for iOS string resources
+summary: Defines grit targets that compile the iOS .grd string files into localized pak resources and generated grit headers.

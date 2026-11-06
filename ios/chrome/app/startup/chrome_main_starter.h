@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeMainStarter interface
+// summary: Declares ChromeMainStarter, whose startChromeMain method performs the one-time setup needed by common Chrome code at app startup.
+// ---
+
 #ifndef IOS_CHROME_APP_STARTUP_CHROME_MAIN_STARTER_H_
 #define IOS_CHROME_APP_STARTUP_CHROME_MAIN_STARTER_H_
 

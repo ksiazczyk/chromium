@@ -1,0 +1,4 @@
+# Docerion header of ios_google_chrome_strings.grd.
+type: data
+title: Google Chrome-branded iOS string resources
+summary: Defines iOS-specific translatable UI strings for the Google Chrome-branded build, with localized pak outputs for many locales.

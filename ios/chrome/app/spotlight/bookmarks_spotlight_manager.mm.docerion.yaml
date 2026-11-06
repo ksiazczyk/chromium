@@ -1,0 +1,4 @@
+# Docerion header of bookmarks_spotlight_manager.mm.
+type: source
+title: Bookmarks spotlight manager implementation
+summary: Implements batched bookmark indexing into Spotlight, including initial index limits, reindex scheduling and bookmark model observation.

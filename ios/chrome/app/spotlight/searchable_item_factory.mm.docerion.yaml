@@ -1,0 +1,4 @@
+# Docerion header of searchable_item_factory.mm.
+type: source
+title: SearchableItemFactory implementation
+summary: Implements searchable item creation including favicon fetching, fallback icon rendering, and Spotlight ID computation.

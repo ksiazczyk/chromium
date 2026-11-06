@@ -1,0 +1,4 @@
+# Docerion header of ios_chrome_main_delegate.mm.
+type: source
+title: IOSChromeMainDelegate implementation
+summary: Completes basic startup by initializing Skia graphics and setting up logging for Chrome on iOS.

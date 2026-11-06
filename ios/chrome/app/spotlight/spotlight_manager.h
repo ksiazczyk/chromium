@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SpotlightManager class header
+// summary: Declares the manager that indexes profile elements such as bookmarks and top sites in the systemwide Spotlight index.
+// ---
+
 #ifndef IOS_CHROME_APP_SPOTLIGHT_SPOTLIGHT_MANAGER_H_
 #define IOS_CHROME_APP_SPOTLIGHT_SPOTLIGHT_MANAGER_H_
 

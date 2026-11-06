@@ -1,0 +1,4 @@
+# Docerion header of open_tabs_spotlight_manager.mm.
+type: source
+title: OpenTabsSpotlightManager implementation
+summary: Implements OpenTabsSpotlightManager, observing browser and web state changes to keep the Spotlight index in sync with open non-incognito tabs.

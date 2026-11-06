@@ -1,0 +1,4 @@
+# Docerion header of base_spotlight_manager_unittest.mm.
+type: test
+title: Base spotlight manager unit tests
+summary: Unit tests verifying BaseSpotlightManager initialization, shutdown and background notification handling with fake dependencies.

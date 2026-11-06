@@ -1,0 +1,4 @@
+# Docerion header of app_startup_utils.mm.
+type: source
+title: App startup utility implementations
+summary: Implements caller app identification from bundle IDs, first-party checks and allowlists for AI summarization and application mode experiments.

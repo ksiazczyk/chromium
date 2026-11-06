@@ -1,0 +1,4 @@
+# Docerion header of provider_registration.mm.
+type: source
+title: Provider registration for Chrome startup
+summary: Registers the iOS provider API at startup and overrides the crash report platform and hardware model name when Raccoon is enabled.

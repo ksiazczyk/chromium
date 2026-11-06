@@ -1,0 +1,4 @@
+# Docerion header of setup_debugging.mm.
+type: source
+title: Debugging setup implementation
+summary: Swizzles UIColor and UIImage loading methods in debug builds to trigger DCHECKs when missing colors or images are requested, with a small exception list.

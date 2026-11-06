@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App startup utility declarations
+// summary: Declares helpers that classify the app that launched Chrome and check experiment allowlists and field trial saving.
+// ---
+
 #ifndef IOS_CHROME_APP_STARTUP_APP_STARTUP_UTILS_H_
 #define IOS_CHROME_APP_STARTUP_APP_STARTUP_UTILS_H_
 

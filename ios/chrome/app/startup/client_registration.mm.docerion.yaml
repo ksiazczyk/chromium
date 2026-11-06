@@ -1,0 +1,4 @@
+# Docerion header of client_registration.mm.
+type: source
+title: ClientRegistration implementation
+summary: Registers the Chrome web client and the cookie store client used by the network stack during startup.

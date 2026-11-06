@@ -1,0 +1,4 @@
+# Docerion header of chrome_app_startup_parameters_googlechromes_fuzzer.mm.
+type: test
+title: Chrome app startup parameters googlechromes scheme fuzzer
+summary: Fuzzer that feeds arbitrary bytes as a googlechromes scheme URL into ChromeAppStartupParameters to check robustness of startup parameter parsing.

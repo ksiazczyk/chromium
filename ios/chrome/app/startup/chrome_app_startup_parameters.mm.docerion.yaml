@@ -1,0 +1,4 @@
+# Docerion header of chrome_app_startup_parameters.mm.
+type: source
+title: Chrome app startup parameters implementation
+summary: Implements startup URL parsing, external action handling, Smart App Banner detection and UMA logging for launch sources.

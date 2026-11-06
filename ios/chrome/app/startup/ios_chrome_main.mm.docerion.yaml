@@ -1,0 +1,4 @@
+# Docerion header of ios_chrome_main.mm.
+type: source
+title: IOSChromeMain implementation
+summary: Implements IOSChromeMain by running web::WebMain startup and recording process start time and pre-main duration.

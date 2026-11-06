@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS rules for string resource files
+summary: Sets per-file owner rules so changes to .grd and .xtb translation files can be approved by any reviewer.

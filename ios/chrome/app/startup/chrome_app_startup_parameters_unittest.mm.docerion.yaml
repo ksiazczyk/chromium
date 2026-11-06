@@ -1,0 +1,4 @@
+# Docerion header of chrome_app_startup_parameters_unittest.mm.
+type: test
+title: Chrome app startup parameters unit tests
+summary: Unit tests for ChromeAppStartupParameters URL parsing and launch source detection under the legacy startup flow.

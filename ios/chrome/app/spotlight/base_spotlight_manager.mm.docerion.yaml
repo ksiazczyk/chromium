@@ -1,0 +1,4 @@
+# Docerion header of base_spotlight_manager.mm.
+type: source
+title: Base spotlight manager implementation
+summary: Implements BaseSpotlightManager lifecycle behavior, cancelling item generation on shutdown and tracking app background state.

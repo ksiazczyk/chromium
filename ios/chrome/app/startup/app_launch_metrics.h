@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App launch metrics constants and enums
+// summary: Declares UMA histogram names and enums for app launch sources, caller apps, WidgetKit actions and session start actions.
+// ---
+
 #ifndef IOS_CHROME_APP_STARTUP_APP_LAUNCH_METRICS_H_
 #define IOS_CHROME_APP_STARTUP_APP_LAUNCH_METRICS_H_
 

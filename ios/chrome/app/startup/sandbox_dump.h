@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sandbox dump declaration
+// summary: Declares DumpSandboxIfRequested, which copies the sandboxed directories accessible to Chrome into the document directory so they can be reached with Finder.
+// ---
+
 #ifndef IOS_CHROME_APP_STARTUP_SANDBOX_DUMP_H_
 #define IOS_CHROME_APP_STARTUP_SANDBOX_DUMP_H_
 

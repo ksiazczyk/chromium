@@ -1,0 +1,4 @@
+# Docerion header of ios_strings.grd.
+type: data
+title: Main iOS string resources for translation
+summary: Defines the main set of iOS-specific translatable UI strings, generating localized pak files and a grit header for each locale.

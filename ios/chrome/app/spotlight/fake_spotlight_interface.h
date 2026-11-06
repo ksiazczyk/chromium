@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeSpotlightInterface class header
+// summary: Declares a fake SpotlightInterface subclass with counters for indexing and deletion calls, intended mainly for testing.
+// ---
+
 #ifndef IOS_CHROME_APP_SPOTLIGHT_FAKE_SPOTLIGHT_INTERFACE_H_
 #define IOS_CHROME_APP_SPOTLIGHT_FAKE_SPOTLIGHT_INTERFACE_H_
 
