@@ -1,0 +1,4 @@
+# Docerion header of translate_overlay_tab_helper_unittest.mm.
+type: test
+title: Translate overlay tab helper unit tests
+summary: Unit tests for the Translate overlay tab helper, covering banner request insertion and placeholder handling during translation.

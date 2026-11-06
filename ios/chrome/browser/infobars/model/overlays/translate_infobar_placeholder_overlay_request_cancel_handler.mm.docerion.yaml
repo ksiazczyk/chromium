@@ -1,0 +1,4 @@
+# Docerion header of translate_infobar_placeholder_overlay_request_cancel_handler.mm.
+type: source
+title: Translate infobar placeholder cancel handler implementation
+summary: Implements the Translate placeholder cancel handler, cancelling the overlay request when the translation finished observer fires.

@@ -1,0 +1,4 @@
+# Docerion header of infobar_save_card_modal_consumer.mm.
+type: source
+title: Save card infobar modal pref key definitions
+summary: Defines the string values of the pref keys passed to the save card modal consumer, covering card number, expiration, cardholder name, CVC, and logo details.

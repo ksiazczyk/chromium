@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Infobar overlay browser agent header
+// summary: Declares the InfobarOverlayBrowserAgent class that handles model-layer updates for infobars, including registration of interaction handlers and an overlay visibility observer.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INFOBARS_MODEL_OVERLAYS_BROWSER_AGENT_INFOBAR_OVERLAY_BROWSER_AGENT_H_
 #define IOS_CHROME_BROWSER_INFOBARS_MODEL_OVERLAYS_BROWSER_AGENT_INFOBAR_OVERLAY_BROWSER_AGENT_H_
 

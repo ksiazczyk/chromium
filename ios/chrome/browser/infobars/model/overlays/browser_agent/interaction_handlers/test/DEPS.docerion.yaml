@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for infobar interaction handler test mocks
+summary: Grants specific include exceptions allowing test mocks to depend on reading list and autofill save card infobar delegate headers.

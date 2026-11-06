@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Confirm infobar factory helper declarations
+// summary: Declares helper functions to create confirm infobars, including a high-priority variant that owns a given delegate.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INFOBARS_MODEL_INFOBAR_UTILS_H_
 #define IOS_CHROME_BROWSER_INFOBARS_MODEL_INFOBAR_UTILS_H_
 

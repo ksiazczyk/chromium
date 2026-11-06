@@ -1,0 +1,4 @@
+# Docerion header of infobar_constants.mm.
+type: source
+title: Infobar UI constants definitions
+summary: Defines values for infobar constants such as background color, top padding, and button accessibility identifiers.

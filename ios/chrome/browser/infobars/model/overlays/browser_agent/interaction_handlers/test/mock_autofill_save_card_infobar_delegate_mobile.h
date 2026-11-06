@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock autofill save card infobar delegate for tests
+// summary: Declares a gmock-based mock of the iOS save credit card infobar delegate together with a factory for creating test instances.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INFOBARS_MODEL_OVERLAYS_BROWSER_AGENT_INTERACTION_HANDLERS_TEST_MOCK_AUTOFILL_SAVE_CARD_INFOBAR_DELEGATE_MOBILE_H_
 #define IOS_CHROME_BROWSER_INFOBARS_MODEL_OVERLAYS_BROWSER_AGENT_INTERACTION_HANDLERS_TEST_MOCK_AUTOFILL_SAVE_CARD_INFOBAR_DELEGATE_MOBILE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of infobar_banner_transition_driver.mm.
+type: source
+title: Infobar banner transition driver implementation
+summary: Implements the UIViewControllerTransitioningDelegate that supplies the banner animator and presentation controller for banner transitions.

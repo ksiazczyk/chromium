@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InfobarBannerInteractionHandler class header
+// summary: Declares InfobarBannerInteractionHandler, a subclassable handler for infobar banner interaction events such as visibility changes and button taps.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INFOBARS_MODEL_OVERLAYS_BROWSER_AGENT_INTERACTION_HANDLERS_COMMON_INFOBAR_BANNER_INTERACTION_HANDLER_H_
 #define IOS_CHROME_BROWSER_INFOBARS_MODEL_OVERLAYS_BROWSER_AGENT_INTERACTION_HANDLERS_COMMON_INFOBAR_BANNER_INTERACTION_HANDLER_H_
 

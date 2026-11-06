@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Infobars model test build definition
+summary: Defines the testonly source_set that builds the fake and mock infobar classes for iOS Chrome infobars model tests.

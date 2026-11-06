@@ -1,0 +1,4 @@
+# Docerion header of infobar_modal_completion_notifier.mm.
+type: source
+title: Infobar modal completion notifier implementation
+summary: Implements the modal completion notifier, tracking active modal request counts per infobar and notifying observers once all modal requests complete.

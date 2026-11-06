@@ -1,0 +1,4 @@
+# Docerion header of infobar_overlay_util_unittest.mm.
+type: test
+title: Infobar overlay utility unit tests
+summary: Unit tests verifying that the infobar overlay utility functions return the correct infobar, type, overlay type, and request index.

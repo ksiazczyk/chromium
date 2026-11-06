@@ -1,0 +1,4 @@
+# Docerion header of test_infobar_delegate.mm.
+type: test
+title: Test infobar delegate implementation
+summary: Implements the test infobar delegate, adding a confirm infobar with the configured message to the infobar manager.

@@ -1,0 +1,4 @@
+# Docerion header of infobar_translate_modal_constants.mm.
+type: source
+title: Translate infobar modal accessibility identifier constants implementation
+summary: Defines the accessibility identifier string constants used by the Translate infobar modal UI.

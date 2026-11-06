@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Infobar manager app interface header
+// summary: Declares app-side helpers to verify infobar counts and add test infobars to the active tab.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INFOBARS_UI_BUNDLED_INFOBAR_MANAGER_APP_INTERFACE_H_
 #define IOS_CHROME_BROWSER_INFOBARS_UI_BUNDLED_INFOBAR_MANAGER_APP_INTERFACE_H_
 

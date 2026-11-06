@@ -1,0 +1,4 @@
+# Docerion header of save_address_profile_infobar_modal_interaction_handler_unittest.mm.
+type: test
+title: Unit tests for the save address profile infobar modal interaction handler
+summary: Verifies that the main action accepts the profile and that cancel and no-thanks actions report the corresponding user decisions.

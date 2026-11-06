@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for save address profile modals
+summary: Defines the modals source_set and its unit_tests target with sources and dependencies for the save address profile infobar UI.

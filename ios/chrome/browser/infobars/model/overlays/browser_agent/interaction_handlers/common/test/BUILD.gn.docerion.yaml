@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build file for infobar interaction handler test mocks
+summary: GN build file defining a test-only source set that bundles the mock banner and modal infobar interaction handlers with gmock and base dependencies.

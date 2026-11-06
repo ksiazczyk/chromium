@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InfobarBadgeTabHelper class header
+// summary: Declares a WebStateUserData tab helper that tracks infobar badge states and notifies observers and a delegate.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INFOBARS_MODEL_INFOBAR_BADGE_TAB_HELPER_H_
 #define IOS_CHROME_BROWSER_INFOBARS_MODEL_INFOBAR_BADGE_TAB_HELPER_H_
 

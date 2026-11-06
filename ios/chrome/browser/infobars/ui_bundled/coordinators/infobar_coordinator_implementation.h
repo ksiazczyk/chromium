@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Infobar coordinator subclass requirements protocol
+// summary: Declares the protocol of methods that InfobarCoordinator subclasses must implement to configure and drive their infobar UI.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INFOBARS_UI_BUNDLED_COORDINATORS_INFOBAR_COORDINATOR_IMPLEMENTATION_H_
 #define IOS_CHROME_BROWSER_INFOBARS_UI_BUNDLED_COORDINATORS_INFOBAR_COORDINATOR_IMPLEMENTATION_H_
 

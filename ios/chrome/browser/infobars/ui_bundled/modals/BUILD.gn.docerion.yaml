@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for infobar modals
+summary: Defines the modals and public source sets with their source files and dependencies for the iOS infobar modal UI.

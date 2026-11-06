@@ -1,0 +1,4 @@
+# Docerion header of default_infobar_banner_interaction_handler.mm.
+type: source
+title: Default infobar banner interaction handler implementation
+summary: Implements DefaultInfobarBannerInteractionHandler, forwarding banner modal and dismissal events to the base handler only for the matching infobar type.

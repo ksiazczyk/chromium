@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Infobar banner transition driver interface
+// summary: Declares the transition delegate that drives infobar banner presentation and can complete a running presentation transition early.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INFOBARS_UI_BUNDLED_PRESENTATION_INFOBAR_BANNER_TRANSITION_DRIVER_H_
 #define IOS_CHROME_BROWSER_INFOBARS_UI_BUNDLED_PRESENTATION_INFOBAR_BANNER_TRANSITION_DRIVER_H_
 

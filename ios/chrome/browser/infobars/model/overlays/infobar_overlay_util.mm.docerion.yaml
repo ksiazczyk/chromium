@@ -1,0 +1,4 @@
+# Docerion header of infobar_overlay_util.mm.
+type: source
+title: Infobar overlay utility implementation
+summary: Implements helper functions that read infobar data from overlay request configs and locate infobar requests in overlay request queues.

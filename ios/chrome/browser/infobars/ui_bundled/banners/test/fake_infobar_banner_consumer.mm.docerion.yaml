@@ -1,0 +1,4 @@
+# Docerion header of fake_infobar_banner_consumer.mm.
+type: test
+title: FakeInfobarBannerConsumer test fake implementation
+summary: Implements the FakeInfobarBannerConsumer test fake declared in the matching header for use in infobar banner tests.

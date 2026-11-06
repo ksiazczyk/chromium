@@ -1,0 +1,4 @@
+# Docerion header of infobar_ios_unittest.mm.
+type: test
+title: InfoBarIOS unit tests
+summary: Unit tests verifying that accepted state changes notify observers and that infobar destruction triggers the InfobarDestroyed callback.

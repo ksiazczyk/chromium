@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for autofill address profile infobar handlers
+summary: Restricts the include dependency on autofill_ui_type_util.h to the save address profile modal interaction handler implementation.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Infobar overlay browser agent build targets
+summary: Defines GN source sets for the infobar overlay browser agent, its utility helpers and the corresponding unit tests with their dependencies.

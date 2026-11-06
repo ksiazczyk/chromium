@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Infobar coordinator subclassing category
+// summary: Objective-C category exposing modal dismissal methods of InfobarCoordinator to its subclasses.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INFOBARS_UI_BUNDLED_COORDINATORS_INFOBAR_COORDINATOR_SUBCLASSING_H_
 #define IOS_CHROME_BROWSER_INFOBARS_UI_BUNDLED_COORDINATORS_INFOBAR_COORDINATOR_SUBCLASSING_H_
 

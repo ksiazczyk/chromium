@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake infobar translate modal consumer interface
+// summary: Declares FakeInfobarTranslateModalConsumer, a test double storing translate infobar preferences such as languages and button settings.
+// ---
+
 #import "ios/chrome/browser/infobars/ui_bundled/coordinators/infobar_translate_modal_consumer.h"
 
 #ifndef IOS_CHROME_BROWSER_INFOBARS_UI_BUNDLED_MODALS_TEST_FAKE_INFOBAR_TRANSLATE_MODAL_CONSUMER_H_

@@ -1,0 +1,4 @@
+# Docerion header of pdf_egtest.mm.
+type: test
+title: Earl Grey tests for PDF tab switching regressions
+summary: Earl Grey integration tests verifying that swiping between tabs containing PDFs does not crash, as regression tests for crbug/981893.

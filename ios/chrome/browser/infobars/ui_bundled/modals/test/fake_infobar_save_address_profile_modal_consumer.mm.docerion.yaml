@@ -1,0 +1,4 @@
+# Docerion header of fake_infobar_save_address_profile_modal_consumer.mm.
+type: test
+title: Fake infobar save address profile modal consumer implementation
+summary: Implements the fake save address profile modal consumer by filling its properties from a preferences dictionary.

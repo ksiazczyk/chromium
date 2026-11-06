@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InfoBarIOS class header
+// summary: Declares the iOS InfoBar class with infobar type, accepted state, banner presentation flags, observer list and weak pointer support.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INFOBARS_MODEL_INFOBAR_IOS_H_
 #define IOS_CHROME_BROWSER_INFOBARS_MODEL_INFOBAR_IOS_H_
 

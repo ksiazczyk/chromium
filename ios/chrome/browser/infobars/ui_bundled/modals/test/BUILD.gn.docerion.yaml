@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for infobar modal test fakes
+summary: GN build file defining a testonly source set that bundles the fake infobar password, save address profile, and translate modal consumers.

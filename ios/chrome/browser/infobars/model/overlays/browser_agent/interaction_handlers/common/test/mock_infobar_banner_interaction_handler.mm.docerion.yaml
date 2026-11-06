@@ -1,0 +1,4 @@
+# Docerion header of mock_infobar_banner_interaction_handler.mm.
+type: test
+title: Mock infobar banner interaction handler implementation
+summary: Implements the mock banner interaction handler, constructing it with overlay request support that accepts all requests.

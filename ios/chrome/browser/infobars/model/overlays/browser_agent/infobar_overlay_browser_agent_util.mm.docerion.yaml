@@ -1,0 +1,4 @@
+# Docerion header of infobar_overlay_browser_agent_util.mm.
+type: source
+title: Infobar overlay browser agent utility implementation
+summary: Attaches the infobar overlay browser agent to a browser and registers default and specific interaction handlers for infobar types such as password save, translate and confirm.

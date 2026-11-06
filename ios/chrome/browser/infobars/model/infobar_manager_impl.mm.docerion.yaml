@@ -1,0 +1,4 @@
+# Docerion header of infobar_manager_impl.mm.
+type: source
+title: InfoBarManagerImpl implementation
+summary: Implements navigation event handling, navigation details creation, URL opening and WebState lifetime management for the iOS infobar manager.

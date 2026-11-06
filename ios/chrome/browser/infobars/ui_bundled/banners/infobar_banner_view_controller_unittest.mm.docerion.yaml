@@ -1,0 +1,4 @@
+# Docerion header of infobar_banner_view_controller_unittest.mm.
+type: test
+title: Infobar banner view controller unit tests
+summary: Unit tests verifying banner button press delegation, title, subtitle and button text configuration, subtitle hiding, and the scroll view label hierarchy.

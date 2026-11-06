@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Save card infobar modal delegate protocol
+// summary: Declares the InfobarSaveCardModalDelegate protocol for saving a card with cardholder and expiration details and for dismissing the modal while opening a link in a new tab.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INFOBARS_UI_BUNDLED_MODALS_INFOBAR_SAVE_CARD_MODAL_DELEGATE_H_
 #define IOS_CHROME_BROWSER_INFOBARS_UI_BUNDLED_MODALS_INFOBAR_SAVE_CARD_MODAL_DELEGATE_H_
 

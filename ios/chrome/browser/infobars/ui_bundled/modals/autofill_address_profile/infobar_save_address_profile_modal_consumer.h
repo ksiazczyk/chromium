@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InfobarSaveAddressProfileModalConsumer protocol header
+// summary: Declares the consumer protocol that pushes preference data to the Save Address Profile UI, together with the preference dictionary keys.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INFOBARS_UI_BUNDLED_MODALS_AUTOFILL_ADDRESS_PROFILE_INFOBAR_SAVE_ADDRESS_PROFILE_MODAL_CONSUMER_H_
 #define IOS_CHROME_BROWSER_INFOBARS_UI_BUNDLED_MODALS_AUTOFILL_ADDRESS_PROFILE_INFOBAR_SAVE_ADDRESS_PROFILE_MODAL_CONSUMER_H_
 

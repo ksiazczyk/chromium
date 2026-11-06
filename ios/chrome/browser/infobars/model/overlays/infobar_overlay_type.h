@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Infobar overlay type enum
+// summary: Defines the InfobarOverlayType enum distinguishing banner and modal overlays displayed for a single infobar.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INFOBARS_MODEL_OVERLAYS_INFOBAR_OVERLAY_TYPE_H_
 #define IOS_CHROME_BROWSER_INFOBARS_MODEL_OVERLAYS_INFOBAR_OVERLAY_TYPE_H_
 

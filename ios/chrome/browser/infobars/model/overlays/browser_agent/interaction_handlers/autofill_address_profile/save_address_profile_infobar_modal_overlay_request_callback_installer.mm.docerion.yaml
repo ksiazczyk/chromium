@@ -1,0 +1,4 @@
+# Docerion header of save_address_profile_infobar_modal_overlay_request_callback_installer.mm.
+type: source
+title: Save Address Profile Infobar Modal Overlay Request Callback Installer
+summary: Implements callback installation for save address profile infobar modal overlay requests, dispatching cancel and no-thanks actions to the interaction handler and removing the infobar.

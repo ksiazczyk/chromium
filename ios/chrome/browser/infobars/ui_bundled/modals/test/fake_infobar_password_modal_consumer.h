@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake infobar password modal consumer interface
+// summary: Declares FakeInfobarPasswordModalConsumer, a test double exposing values passed to the password infobar modal consumer interface.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INFOBARS_UI_BUNDLED_MODALS_TEST_FAKE_INFOBAR_PASSWORD_MODAL_CONSUMER_H_
 #define IOS_CHROME_BROWSER_INFOBARS_UI_BUNDLED_MODALS_TEST_FAKE_INFOBAR_PASSWORD_MODAL_CONSUMER_H_
 

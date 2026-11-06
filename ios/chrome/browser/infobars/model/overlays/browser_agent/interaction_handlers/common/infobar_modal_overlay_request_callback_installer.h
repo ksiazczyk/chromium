@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Infobar modal overlay request callback installer header
+// summary: Declares a subclassable callback installer that forwards infobar modal main action responses to the modal interaction handler.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INFOBARS_MODEL_OVERLAYS_BROWSER_AGENT_INTERACTION_HANDLERS_COMMON_INFOBAR_MODAL_OVERLAY_REQUEST_CALLBACK_INSTALLER_H_
 #define IOS_CHROME_BROWSER_INFOBARS_MODEL_OVERLAYS_BROWSER_AGENT_INTERACTION_HANDLERS_COMMON_INFOBAR_MODAL_OVERLAY_REQUEST_CALLBACK_INSTALLER_H_
 

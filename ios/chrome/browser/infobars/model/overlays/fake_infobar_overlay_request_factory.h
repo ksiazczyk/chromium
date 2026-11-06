@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake infobar overlay request factory header
+// summary: Declares a fake request factory for tests that only creates requests configured with an InfobarOverlayRequestConfig.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INFOBARS_MODEL_OVERLAYS_FAKE_INFOBAR_OVERLAY_REQUEST_FACTORY_H_
 #define IOS_CHROME_BROWSER_INFOBARS_MODEL_OVERLAYS_FAKE_INFOBAR_OVERLAY_REQUEST_FACTORY_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of infobar_overlay_request_inserter.mm.
+type: source
+title: Infobar overlay request inserter implementation
+summary: Implements insertion of banner and modal infobar overlay requests, wiring cancel handlers, placeholder requests, and suppression of infobar types.

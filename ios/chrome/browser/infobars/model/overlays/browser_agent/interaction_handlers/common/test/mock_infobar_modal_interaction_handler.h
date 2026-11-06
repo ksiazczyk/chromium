@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock infobar modal interaction handler header
+// summary: Declares a gmock mock of InfobarModalInteractionHandler with mocked main action, modal installer creation, and visibility change callbacks for tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INFOBARS_MODEL_OVERLAYS_BROWSER_AGENT_INTERACTION_HANDLERS_COMMON_TEST_MOCK_INFOBAR_MODAL_INTERACTION_HANDLER_H_
 #define IOS_CHROME_BROWSER_INFOBARS_MODEL_OVERLAYS_BROWSER_AGENT_INTERACTION_HANDLERS_COMMON_TEST_MOCK_INFOBAR_MODAL_INTERACTION_HANDLER_H_
 

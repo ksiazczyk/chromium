@@ -1,0 +1,4 @@
+# Docerion header of infobar_translate_table_view_controller.mm.
+type: source
+title: Translate infobar modal table view controller implementation
+summary: Implements the Translate infobar modal content, showing source and target languages, translate and show-original buttons, and observing translate preference changes.

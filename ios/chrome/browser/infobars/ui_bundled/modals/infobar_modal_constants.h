@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Infobar modal shared constants header
+// summary: Declares accessibility identifiers for the modal view and cancel button plus a cancel button user action key.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INFOBARS_UI_BUNDLED_MODALS_INFOBAR_MODAL_CONSTANTS_H_
 #define IOS_CHROME_BROWSER_INFOBARS_UI_BUNDLED_MODALS_INFOBAR_MODAL_CONSTANTS_H_
 

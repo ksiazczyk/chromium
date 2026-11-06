@@ -1,0 +1,4 @@
+# Docerion header of infobar_interaction_handler.mm.
+type: source
+title: InfobarInteractionHandler implementation
+summary: Implements InfobarInteractionHandler, creating banner and modal callback installers and dispatching infobar visibility changes to the matching overlay handler.

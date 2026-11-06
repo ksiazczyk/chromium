@@ -1,0 +1,4 @@
+# Docerion header of mock_autofill_save_card_infobar_delegate_mobile.mm.
+type: test
+title: Implementation of the mock autofill save card infobar delegate
+summary: Implements the mock save card infobar delegate and its factory, building local or upload save card UI info for tests.

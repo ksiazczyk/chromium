@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Infobar banner animator interface
+// summary: Declares the InfobarBannerAnimator that animates an infobar banner dropping from the top of the screen during presentation and dismissal.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INFOBARS_UI_BUNDLED_PRESENTATION_INFOBAR_BANNER_ANIMATOR_H_
 #define IOS_CHROME_BROWSER_INFOBARS_UI_BUNDLED_PRESENTATION_INFOBAR_BANNER_ANIMATOR_H_
 

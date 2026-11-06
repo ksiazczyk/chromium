@@ -1,0 +1,4 @@
+# Docerion header of infobar_modal_overlay_request_cancel_handler.mm.
+type: source
+title: Infobar modal overlay request cancel handler implementation
+summary: Implements the modal overlay request cancel handler, cancelling requests when the modal completion notifier reports completion for the associated infobar.

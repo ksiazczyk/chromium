@@ -1,0 +1,4 @@
+# Docerion header of infobar_permissions_table_view_controller.mm.
+type: source
+title: InfobarPermissionsTableViewController implementation
+summary: Implements the permissions infobar modal with a description item and camera and microphone permission switches, recording presentation and dismissal metrics.

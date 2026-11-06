@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build config for iOS Chrome PDF integration tests
+summary: Defines the eg2_tests testonly source set that builds pdf_egtest.mm with Earl Grey, XCTest, and net test support dependencies.

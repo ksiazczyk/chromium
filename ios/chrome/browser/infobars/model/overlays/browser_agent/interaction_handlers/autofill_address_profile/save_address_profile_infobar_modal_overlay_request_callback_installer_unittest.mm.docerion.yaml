@@ -1,0 +1,4 @@
+# Docerion header of save_address_profile_infobar_modal_overlay_request_callback_installer_unittest.mm.
+type: test
+title: Save Address Profile Infobar Modal Callback Installer Unit Tests
+summary: Unit tests verifying that the save address profile infobar modal callback installer handles cancel and no-thanks responses for overlay requests.

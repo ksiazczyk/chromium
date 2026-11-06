@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake translate overlay tab helper header
+// summary: Declares a fake TranslateOverlayTabHelper used in tests to simulate translate state change callbacks.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INFOBARS_MODEL_OVERLAYS_FAKE_TRANSLATE_OVERLAY_TAB_HELPER_H_
 #define IOS_CHROME_BROWSER_INFOBARS_MODEL_OVERLAYS_FAKE_TRANSLATE_OVERLAY_TAB_HELPER_H_
 

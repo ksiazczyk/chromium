@@ -1,0 +1,4 @@
+# Docerion header of fake_infobar_overlay_request_factory.mm.
+type: source
+title: Fake infobar overlay request factory implementation
+summary: Implements the fake factory by creating a generic infobar overlay request config for the given infobar and overlay type.

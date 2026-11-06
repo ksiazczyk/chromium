@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Infobar UI constants declarations
+// summary: Declares colors, padding, accessibility identifiers, and banner presentation durations for infobars.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INFOBARS_UI_BUNDLED_INFOBAR_CONSTANTS_H_
 #define IOS_CHROME_BROWSER_INFOBARS_UI_BUNDLED_INFOBAR_CONSTANTS_H_
 

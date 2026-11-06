@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Infobar banner delegate protocol
+// summary: Declares handlers for banner button presses, banner dismissal, and presenting the associated infobar modal.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INFOBARS_UI_BUNDLED_BANNERS_INFOBAR_BANNER_DELEGATE_H_
 #define IOS_CHROME_BROWSER_INFOBARS_UI_BUNDLED_BANNERS_INFOBAR_BANNER_DELEGATE_H_
 

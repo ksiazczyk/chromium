@@ -1,0 +1,4 @@
+# Docerion header of infobar_modal_completion_notifier_unittest.mm.
+type: test
+title: Infobar modal completion notifier unit tests
+summary: Unit tests verifying that observers are notified when all modal requests for an infobar have been completed or cancelled.

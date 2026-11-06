@@ -1,0 +1,4 @@
+# Docerion header of test_infobar_badge_tab_helper_delegate.mm.
+type: test
+title: Test infobar badge tab helper delegate implementation
+summary: Implements the test badge tab helper delegate, tracking badge items per infobar type for password save tests.

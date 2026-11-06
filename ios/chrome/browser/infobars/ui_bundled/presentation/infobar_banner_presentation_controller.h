@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Infobar banner presentation controller interface
+// summary: Declares the InfobarBannerPresentationController, an overlay presentation controller that positions the infobar banner via a banner positioner.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INFOBARS_UI_BUNDLED_PRESENTATION_INFOBAR_BANNER_PRESENTATION_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_INFOBARS_UI_BUNDLED_PRESENTATION_INFOBAR_BANNER_PRESENTATION_CONTROLLER_H_
 

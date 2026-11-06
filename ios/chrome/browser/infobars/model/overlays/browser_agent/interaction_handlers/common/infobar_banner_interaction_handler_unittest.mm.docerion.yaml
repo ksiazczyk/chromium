@@ -1,0 +1,4 @@
+# Docerion header of infobar_banner_interaction_handler_unittest.mm.
+type: test
+title: InfobarBannerInteractionHandler unit tests
+summary: Unit tests verifying that the banner handler inserts a modal overlay request on show-modal taps and notifies the delegate of user-initiated dismissal.

@@ -1,0 +1,4 @@
+# Docerion header of infobar_save_address_profile_modal_consumer.mm.
+type: source
+title: Consumer preference key constant definitions
+summary: Defines the NSString constants for the preference keys used to configure the save address profile modal.

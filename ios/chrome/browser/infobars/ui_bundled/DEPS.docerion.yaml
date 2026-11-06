@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for infobars UI
+summary: Restricts which headers and directories code in this folder is allowed to include.

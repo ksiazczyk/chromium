@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for infobar overlays
+summary: Defines GN source sets for the infobar overlay model code, utilities, test support fakes and unit tests.

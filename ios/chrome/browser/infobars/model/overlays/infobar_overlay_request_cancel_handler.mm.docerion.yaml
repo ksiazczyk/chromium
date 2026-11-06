@@ -1,0 +1,4 @@
+# Docerion header of infobar_overlay_request_cancel_handler.mm.
+type: source
+title: Infobar overlay request cancel handler implementation
+summary: Implements the base infobar overlay request cancel handler, observing InfoBarManager removal and replacement events to cancel the associated request.

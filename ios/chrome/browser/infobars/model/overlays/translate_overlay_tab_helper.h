@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Translate overlay tab helper header
+// summary: Declares a WebState-scoped tab helper that observes Translate infobars and inserts banner overlay requests when translation finishes.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INFOBARS_MODEL_OVERLAYS_TRANSLATE_OVERLAY_TAB_HELPER_H_
 #define IOS_CHROME_BROWSER_INFOBARS_MODEL_OVERLAYS_TRANSLATE_OVERLAY_TAB_HELPER_H_
 

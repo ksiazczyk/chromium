@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for permissions infobar modals
+summary: Specifies the allowed include rules for code in the permissions infobar modal directory.

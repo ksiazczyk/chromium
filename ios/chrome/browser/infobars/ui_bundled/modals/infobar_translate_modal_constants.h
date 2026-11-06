@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Translate infobar modal accessibility identifier constants declaration
+// summary: Declares accessibility identifier constants for the Translate infobar modal's table view, language items and action buttons.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INFOBARS_UI_BUNDLED_MODALS_INFOBAR_TRANSLATE_MODAL_CONSTANTS_H_
 #define IOS_CHROME_BROWSER_INFOBARS_UI_BUNDLED_MODALS_INFOBAR_TRANSLATE_MODAL_CONSTANTS_H_
 

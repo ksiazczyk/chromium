@@ -1,0 +1,4 @@
+# Docerion header of default_infobar_overlay_request_factory_unittest.mm.
+type: test
+title: Unit tests for the default infobar overlay request factory
+summary: Verifies that the factory creates the expected banner and modal overlay requests for password, address profile and other infobar types.

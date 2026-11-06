@@ -1,0 +1,4 @@
+# Docerion header of infobar_overlay_browser_agent_unittest.mm.
+type: test
+title: Infobar overlay browser agent unit tests
+summary: Parameterized unit tests for InfobarOverlayBrowserAgent using mock interaction handlers, fake request supports and fake overlay presentation contexts.

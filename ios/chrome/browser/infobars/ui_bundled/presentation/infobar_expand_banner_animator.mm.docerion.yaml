@@ -1,0 +1,4 @@
+# Docerion header of infobar_expand_banner_animator.mm.
+type: source
+title: Infobar expand banner animator implementation
+summary: Implements a placeholder animation that expands the banner into a modal, fading the presenting view during presentation and dismissal.

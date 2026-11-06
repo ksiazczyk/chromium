@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InfobarInteractionHandler class declaration
+// summary: Declares InfobarInteractionHandler, a subclassable helper that manages model-layer updates for infobar banner and modal UI interactions per InfobarType.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INFOBARS_MODEL_OVERLAYS_BROWSER_AGENT_INTERACTION_HANDLERS_INFOBAR_INTERACTION_HANDLER_H_
 #define IOS_CHROME_BROWSER_INFOBARS_MODEL_OVERLAYS_BROWSER_AGENT_INTERACTION_HANDLERS_INFOBAR_INTERACTION_HANDLER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of translate_infobar_placeholder_overlay_request_cancel_handler_unittest.mm.
+type: test
+title: Translate infobar placeholder cancel handler unit tests
+summary: Unit tests for the Translate placeholder cancel handler, verifying placeholder request cancellation when translation finishes.

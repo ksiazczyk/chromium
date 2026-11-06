@@ -1,0 +1,4 @@
+# Docerion header of fake_infobar_ios.mm.
+type: test
+title: Fake infobar iOS implementation
+summary: Implements FakeInfobarIOS constructors that wrap a FakeInfobarDelegate with a default confirm infobar type.

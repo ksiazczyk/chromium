@@ -1,0 +1,4 @@
+# Docerion header of instructions_bottom_sheet_view_controller.mm.
+type: source
+title: InstructionsBottomSheetViewController implementation
+summary: Builds an InstructionView from the given title and steps, configures top-aligned layout and bottom sheet detents on view load.

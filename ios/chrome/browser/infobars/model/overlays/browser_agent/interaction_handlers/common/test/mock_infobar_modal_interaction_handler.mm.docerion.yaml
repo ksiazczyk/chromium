@@ -1,0 +1,4 @@
+# Docerion header of mock_infobar_modal_interaction_handler.mm.
+type: test
+title: Mock infobar modal interaction handler implementation
+summary: Implements the mock modal interaction handler with default constructor and destructor bodies.

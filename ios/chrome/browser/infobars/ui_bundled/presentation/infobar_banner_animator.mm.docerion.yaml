@@ -1,0 +1,4 @@
+# Docerion header of infobar_banner_animator.mm.
+type: source
+title: Infobar banner animator implementation
+summary: Implements the banner presentation and dismissal animation using a UIViewPropertyAnimator with spring damping and interactive transition support.

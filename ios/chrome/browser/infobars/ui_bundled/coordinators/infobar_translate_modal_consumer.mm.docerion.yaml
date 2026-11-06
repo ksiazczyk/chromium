@@ -1,0 +1,4 @@
+# Docerion header of infobar_translate_modal_consumer.mm.
+type: source
+title: Translate modal consumer pref key constants
+summary: Defines the NSString constants backing the translate modal consumer preference keys declared in the header.

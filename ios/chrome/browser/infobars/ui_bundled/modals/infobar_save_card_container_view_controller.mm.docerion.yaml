@@ -1,0 +1,4 @@
+# Docerion header of infobar_save_card_container_view_controller.mm.
+type: source
+title: Save card infobar modal container view controller implementation
+summary: Implements the save card infobar modal container with a scroll view, close and save buttons, button stack layout, and infobar metrics recording.

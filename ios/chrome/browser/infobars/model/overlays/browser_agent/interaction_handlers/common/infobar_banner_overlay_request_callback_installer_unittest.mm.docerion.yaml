@@ -1,0 +1,4 @@
+# Docerion header of infobar_banner_overlay_request_callback_installer_unittest.mm.
+type: test
+title: Infobar banner overlay request callback installer unit tests
+summary: Unit tests verifying that dispatched banner overlay responses invoke the corresponding InfobarBannerInteractionHandler methods via a mock handler.

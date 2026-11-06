@@ -1,0 +1,4 @@
+# Docerion header of fake_infobar_translate_modal_consumer.mm.
+type: test
+title: Fake infobar translate modal consumer implementation
+summary: Implements the fake translate modal consumer by populating its properties from a preferences dictionary.

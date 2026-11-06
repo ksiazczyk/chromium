@@ -1,0 +1,4 @@
+# Docerion header of infobar_save_address_profile_view_controller_unittest.mm.
+type: test
+title: Unit tests for InfobarSaveAddressProfileViewController
+summary: Exercises the view controller across save, save-in-account, migration, and update modal states using OCMock and test preference dictionaries.

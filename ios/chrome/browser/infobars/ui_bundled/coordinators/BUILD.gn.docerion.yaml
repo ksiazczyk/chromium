@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for infobar coordinators
+summary: Defines the coordinators and translate_public source sets with their sources and dependencies for the GN build.

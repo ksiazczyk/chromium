@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InfobarSaveAddressProfileModalDelegate protocol header
+// summary: Declares the delegate protocol handling save address profile modal actions such as showing the edit view and declining migration.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INFOBARS_UI_BUNDLED_MODALS_AUTOFILL_ADDRESS_PROFILE_INFOBAR_SAVE_ADDRESS_PROFILE_MODAL_DELEGATE_H_
 #define IOS_CHROME_BROWSER_INFOBARS_UI_BUNDLED_MODALS_AUTOFILL_ADDRESS_PROFILE_INFOBAR_SAVE_ADDRESS_PROFILE_MODAL_DELEGATE_H_
 

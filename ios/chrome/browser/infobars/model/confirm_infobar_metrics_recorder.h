@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Confirm infobar metrics recorder interface
+// summary: Declares the class and histogram names used to record Confirm Infobar UMA events and accept times.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INFOBARS_MODEL_CONFIRM_INFOBAR_METRICS_RECORDER_H_
 #define IOS_CHROME_BROWSER_INFOBARS_MODEL_CONFIRM_INFOBAR_METRICS_RECORDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Infobar banner accessibility utility declarations
+// summary: Declares functions to update VoiceOver accessibility of the presenting view controller when a banner is presented or dismissed.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INFOBARS_UI_BUNDLED_BANNERS_INFOBAR_BANNER_ACCESSIBILITY_UTIL_H_
 #define IOS_CHROME_BROWSER_INFOBARS_UI_BUNDLED_BANNERS_INFOBAR_BANNER_ACCESSIBILITY_UTIL_H_
 

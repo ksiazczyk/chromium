@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InstructionsBottomSheetViewController header
+// summary: Declares InstructionsBottomSheetViewController, a bottom sheet view controller initialized with a title and a list of instruction strings.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INSTRUCTIONS_BOTTOM_SHEET_UI_INSTRUCTIONS_BOTTOM_SHEET_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_INSTRUCTIONS_BOTTOM_SHEET_UI_INSTRUCTIONS_BOTTOM_SHEET_VIEW_CONTROLLER_H_
 

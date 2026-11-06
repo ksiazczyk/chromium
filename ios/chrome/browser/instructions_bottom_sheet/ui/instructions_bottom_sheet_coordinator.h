@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InstructionsBottomSheetCoordinator header
+// summary: Declares the InstructionsBottomSheetCoordinator Chrome coordinator, initialized with a base view controller, browser, title, and instruction steps.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INSTRUCTIONS_BOTTOM_SHEET_UI_INSTRUCTIONS_BOTTOM_SHEET_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_INSTRUCTIONS_BOTTOM_SHEET_UI_INSTRUCTIONS_BOTTOM_SHEET_COORDINATOR_H_
 
