@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WaylandSurface unit tests
+// summary: Unit tests for WaylandSurface covering output enter/leave tracking and sub-1.0 fractional buffer scale handling with and without viewporter support.
+// ---
+
 #include "ui/ozone/platform/wayland/host/wayland_surface.h"
 
 #include <drm_fourcc.h>

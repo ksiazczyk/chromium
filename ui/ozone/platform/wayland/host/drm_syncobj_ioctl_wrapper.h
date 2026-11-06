@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DrmSyncobjIoctlWrapper class declaration
+// summary: Declares a virtual wrapper around libdrm syncobj ioctl APIs so DRM synchronization operations can be mocked in tests.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_HOST_DRM_SYNCOBJ_IOCTL_WRAPPER_H_
 #define UI_OZONE_PLATFORM_WAYLAND_HOST_DRM_SYNCOBJ_IOCTL_WRAPPER_H_
 

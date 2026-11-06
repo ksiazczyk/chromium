@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland frame manager implementation
+// summary: Implements the Wayland frame manager, which tracks pending frames, submission and presentation acknowledgements, overlay configurations, and presentation feedback for surfaces.
+// ---
+
 #include "ui/ozone/platform/wayland/host/wayland_frame_manager.h"
 
 #include <presentation-time-client-protocol.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland touch input implementation
+// summary: Implements WaylandTouch, which listens to wl_touch events and forwards touch press, release, motion, cancel, shape and frame events to its delegate.
+// ---
+
 #include "ui/ozone/platform/wayland/host/wayland_touch.h"
 
 #include "base/logging.h"

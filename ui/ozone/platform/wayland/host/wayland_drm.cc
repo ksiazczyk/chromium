@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland DRM buffer factory implementation
+// summary: Implements the WaylandDrm wrapper around the wl_drm protocol, which authenticates the DRM device and creates wl_buffers backed by dmabuf prime file descriptors.
+// ---
+
 #include "ui/ozone/platform/wayland/host/wayland_drm.h"
 
 #include <fcntl.h>

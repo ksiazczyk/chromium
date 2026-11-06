@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland image description implementation
+// summary: Implements the wp_image_description_v1 wrapper, converting protocol primaries, transfer functions, and luminances into gfx color spaces and display color spaces.
+// ---
+
 #include "ui/ozone/platform/wayland/host/wayland_wp_image_description.h"
 
 #include "base/logging.h"

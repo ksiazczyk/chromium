@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DMABUF buffer backing implementation
+// summary: Implements WaylandBufferBackingDmabuf, requesting wl_buffer creation from the buffer factory using a dmabuf file descriptor, strides, offsets, and modifiers.
+// ---
+
 #include "ui/ozone/platform/wayland/host/wayland_buffer_backing_dmabuf.h"
 
 #include "ui/ozone/platform/wayland/host/wayland_buffer_factory.h"

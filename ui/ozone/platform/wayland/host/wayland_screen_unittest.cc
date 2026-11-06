@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WaylandScreen unit tests
+// summary: Unit tests for WaylandScreen covering display addition, removal, metrics changes, bounds, and scale factor behavior using a mock Wayland server and test outputs.
+// ---
+
 #include "ui/ozone/platform/wayland/host/wayland_screen.h"
 
 #include <wayland-server-protocol.h>

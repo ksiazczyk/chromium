@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland buffer factory implementation
+// summary: Implements WaylandBufferFactory, which creates dmabuf and shared memory wl_buffers by delegating to the zwp_linux_dmabuf, wl_drm, and wl_shm wrappers.
+// ---
+
 #include "ui/ozone/platform/wayland/host/wayland_buffer_factory.h"
 
 #include <memory>

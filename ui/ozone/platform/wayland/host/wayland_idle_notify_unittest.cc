@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wayland idle notifier unit tests
+// summary: Tests ExtIdleNotifier against a fake ext_idle_notifier_v1 server global, checking notification requests, timeouts, and idled and resumed events.
+// ---
+
 #include "ui/ozone/platform/wayland/host/wayland_idle_notify.h"
 
 #include <ext-idle-notify-v1-server-protocol.h>

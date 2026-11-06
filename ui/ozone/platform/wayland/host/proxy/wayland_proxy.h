@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WaylandProxy interface for input emulation
+// summary: Declares the abstract WaylandProxy interface and its Delegate, exposing core Ozone/Wayland functionality such as registry access, surfaces, shm buffers, and window focus events to test-only input emulation.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_HOST_PROXY_WAYLAND_PROXY_H_
 #define UI_OZONE_PLATFORM_WAYLAND_HOST_PROXY_WAYLAND_PROXY_H_
 

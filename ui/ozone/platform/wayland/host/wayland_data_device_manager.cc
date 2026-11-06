@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland data device manager implementation
+// summary: Implements WaylandDataDeviceManager, binding wl_data_device_manager and creating the data device and data sources used for data exchange.
+// ---
+
 #include "ui/ozone/platform/wayland/host/wayland_data_device_manager.h"
 
 #include <memory>

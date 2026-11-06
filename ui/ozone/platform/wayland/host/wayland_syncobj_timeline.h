@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WaylandSyncobjTimeline class declarations
+// summary: Declares WaylandSyncobjTimeline and its acquire and release subclasses that manage DRM syncobj sync points and fence signaling for Wayland buffer management.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_HOST_WAYLAND_SYNCOBJ_TIMELINE_H_
 #define UI_OZONE_PLATFORM_WAYLAND_HOST_WAYLAND_SYNCOBJ_TIMELINE_H_
 

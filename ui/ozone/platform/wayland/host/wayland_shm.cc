@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WaylandShm implementation
+// summary: Implements the WaylandShm wrapper that binds the wl_shm global and creates wl_buffer objects backed by shared memory file descriptors.
+// ---
+
 #include "ui/ozone/platform/wayland/host/wayland_shm.h"
 
 #include "base/logging.h"

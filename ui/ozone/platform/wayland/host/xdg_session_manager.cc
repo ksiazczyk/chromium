@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XdgSessionManager implementation
+// summary: Implements XdgSessionManager, binding the xx_session_manager_v1 global and creating, restoring and removing sessions on behalf of PlatformSessionManager.
+// ---
+
 #include "ui/ozone/platform/wayland/host/xdg_session_manager.h"
 
 #include <xx-session-management-v1-client-protocol.h>

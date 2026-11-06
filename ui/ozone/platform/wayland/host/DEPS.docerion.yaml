@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the Wayland host directory
+summary: Defines include_rules for ui/ozone/platform/wayland/host, permitting crash, DBus, viz resources, net MIME, and ui/base/linux dependencies.

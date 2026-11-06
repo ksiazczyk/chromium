@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Zwp text input v3 interface declarations
+// summary: Declares the ZwpTextInputV3Client callback interface, the ZwpTextInputV3 wrapper API, and the ZwpTextInputV3Impl class for the zwp_text_input_v3 Wayland protocol.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_HOST_ZWP_TEXT_INPUT_V3_H_
 #define UI_OZONE_PLATFORM_WAYLAND_HOST_ZWP_TEXT_INPUT_V3_H_
 

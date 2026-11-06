@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wayland overlay config traits unit tests
+// summary: Unit tests that round-trip overlay and matrix transform variants through the traits test service to verify Mojo serialization.
+// ---
+
 #include <variant>
 
 #include "base/test/task_environment.h"

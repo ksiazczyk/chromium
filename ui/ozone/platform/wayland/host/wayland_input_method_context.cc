@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland input method context implementation
+// summary: Implements the Wayland input method context, handling preedit, commit, surrounding text, key events, and virtual keyboard control via zwp_text_input v1 and v3.
+// ---
+
 #include "ui/ozone/platform/wayland/host/wayland_input_method_context.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WaylandConnection implementation
+// summary: Implements WaylandConnection initialization, binding of Wayland protocol objects and feature managers, display flushing, and input device handling for the Ozone Wayland platform.
+// ---
+
 #include "ui/ozone/platform/wayland/host/wayland_connection.h"
 
 #include <content-type-v1-client-protocol.h>

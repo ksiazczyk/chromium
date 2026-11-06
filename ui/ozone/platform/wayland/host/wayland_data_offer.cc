@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WaylandDataOffer implementation
+// summary: Implements the wrapper for wl_data_offer, handling MIME type acceptance and rejection, data reception via pipes, and drag-and-drop action negotiation.
+// ---
+
 #include "ui/ozone/platform/wayland/host/wayland_data_offer.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XdgToplevel wrapper for xdg-shell toplevel windows
+// summary: Declares the XdgToplevel wrapper used by WaylandToplevelWindow to set window states, metadata, decorations, and trigger interactive move and resize via xdg-shell.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_HOST_XDG_TOPLEVEL_H_
 #define UI_OZONE_PLATFORM_WAYLAND_HOST_XDG_TOPLEVEL_H_
 

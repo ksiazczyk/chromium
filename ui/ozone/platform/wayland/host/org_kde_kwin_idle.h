@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KDE Wayland idle manager wrapper
+// summary: Declares the OrgKdeKwinIdle class that wraps the org_kde_kwin_idle Wayland interface and reports user idle time when available.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_HOST_ORG_KDE_KWIN_IDLE_H_
 #define UI_OZONE_PLATFORM_WAYLAND_HOST_ORG_KDE_KWIN_IDLE_H_
 

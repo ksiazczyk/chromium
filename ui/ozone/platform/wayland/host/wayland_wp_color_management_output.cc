@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland color management output
+// summary: Wraps the wp_color_management_output_v1 protocol object to fetch a display's color spaces and update the output when its image description changes.
+// ---
+
 #include "ui/ozone/platform/wayland/host/wayland_wp_color_management_output.h"
 
 #include "base/logging.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toplevel icon manager wrapper
+// summary: Declares the ToplevelIconManager class that sets up the global xdg_toplevel_icon_manager_v1 instance for the Wayland connection.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_HOST_TOPLEVEL_ICON_MANAGER_H_
 #define UI_OZONE_PLATFORM_WAYLAND_HOST_TOPLEVEL_ICON_MANAGER_H_
 

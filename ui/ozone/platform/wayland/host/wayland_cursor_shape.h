@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland cursor shape class declaration
+// summary: Declares WaylandCursorShape, which wraps the cursor-shape protocol to support Wayland server-side cursors for pointers and tablet tools.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_HOST_WAYLAND_CURSOR_SHAPE_H_
 #define UI_OZONE_PLATFORM_WAYLAND_HOST_WAYLAND_CURSOR_SHAPE_H_
 

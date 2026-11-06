@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WaylandTablet implementation
+// summary: Implements the WaylandTablet wrapper for zwp_tablet_v2, handling name, id, path, done and removed events for graphics tablets.
+// ---
+
 #include "ui/ozone/platform/wayland/host/wayland_tablet.h"
 
 #include <tablet-unstable-v2-client-protocol.h>

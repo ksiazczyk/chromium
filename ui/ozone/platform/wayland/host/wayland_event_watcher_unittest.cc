@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wayland event watcher crash key tests
+// summary: Tests that various critical Wayland protocol errors, such as resource errors and out-of-memory conditions, produce the correct wayland_error crash key values.
+// ---
+
 #include <wayland-server-core.h>
 
 #include "base/debug/crash_logging.h"

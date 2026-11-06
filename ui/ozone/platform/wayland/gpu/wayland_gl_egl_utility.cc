@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland GL EGL utility implementation
+// summary: Supplies Wayland-specific EGL display attributes for ANGLE, including GBM and SwiftShader platform configuration.
+// ---
+
 #include "ui/ozone/platform/wayland/gpu/wayland_gl_egl_utility.h"
 
 #include <algorithm>

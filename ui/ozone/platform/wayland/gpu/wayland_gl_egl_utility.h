@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WaylandGLEGLUtility class header
+// summary: Declares the Wayland platform EGL utility that provides additional EGL attributes to EGL initialization.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_GPU_WAYLAND_GL_EGL_UTILITY_H_
 #define UI_OZONE_PLATFORM_WAYLAND_GPU_WAYLAND_GL_EGL_UTILITY_H_
 

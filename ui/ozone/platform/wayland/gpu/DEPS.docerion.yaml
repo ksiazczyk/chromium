@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the Wayland GPU directory
+summary: Sets include rules for the Wayland Ozone GPU directory, allowing headers from components/viz/common/resources.

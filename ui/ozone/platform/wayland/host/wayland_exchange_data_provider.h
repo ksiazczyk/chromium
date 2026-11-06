@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WaylandExchangeDataProvider class declaration
+// summary: Declares the Wayland exchange data provider, which builds mime type lists and adds or extracts clipboard data for drag-and-drop operations.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_HOST_WAYLAND_EXCHANGE_DATA_PROVIDER_H_
 #define UI_OZONE_PLATFORM_WAYLAND_HOST_WAYLAND_EXCHANGE_DATA_PROVIDER_H_
 

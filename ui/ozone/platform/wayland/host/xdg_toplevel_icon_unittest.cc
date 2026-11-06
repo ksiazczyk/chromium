@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for xdg-toplevel-icon protocol support
+// summary: Unit tests verifying toplevel icon handling over the xdg-toplevel-icon-v1 protocol, including app icon precedence and padding of non-square icons.
+// ---
+
 #include "third_party/skia/include/core/SkBitmap.h"
 #include "ui/ozone/platform/wayland/test/wayland_test.h"
 

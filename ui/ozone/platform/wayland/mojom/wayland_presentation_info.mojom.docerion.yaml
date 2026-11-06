@@ -1,0 +1,4 @@
+# Docerion header of wayland_presentation_info.mojom.
+type: source
+title: Wayland presentation info Mojo struct
+summary: Defines a struct pairing a frame id with a presentation feedback value for Wayland presentation timing events.

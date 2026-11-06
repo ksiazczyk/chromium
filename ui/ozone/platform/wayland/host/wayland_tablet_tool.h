@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland tablet tool class declaration
+// summary: Declares the WaylandTabletTool class wrapping a zwp_tablet_tool_v2 object, with listener callbacks and buffered frame state for handling tablet input.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_HOST_WAYLAND_TABLET_TOOL_H_
 #define UI_OZONE_PLATFORM_WAYLAND_HOST_WAYLAND_TABLET_TOOL_H_
 

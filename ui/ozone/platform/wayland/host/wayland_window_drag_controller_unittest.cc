@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WaylandWindowDragController unit tests
+// summary: Unit tests for the Wayland window drag controller, exercising drag session states, pointer and touch input, and drop handling against a test Wayland server.
+// ---
+
 #include "ui/ozone/platform/wayland/host/wayland_window_drag_controller.h"
 
 #include <linux/input-event-codes.h>

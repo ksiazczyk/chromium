@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wayland frame manager unit tests
+// summary: Unit tests for WaylandFrameManager that verify frame recording and surface commit behavior using a mock Wayland server and buffer manager.
+// ---
+
 #include "ui/ozone/platform/wayland/host/wayland_frame_manager.h"
 
 #include <memory>

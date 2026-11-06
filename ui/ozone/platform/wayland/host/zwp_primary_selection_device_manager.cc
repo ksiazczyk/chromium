@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ZwpPrimarySelectionDeviceManager implementation
+// summary: Implements binding of zwp_primary_selection_device_manager_v1 and creation of primary selection devices and sources for the Wayland seat.
+// ---
+
 #include "ui/ozone/platform/wayland/host/zwp_primary_selection_device_manager.h"
 
 #include <primary-selection-unstable-v1-client-protocol.h>

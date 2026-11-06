@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland overlay prioritizer wrapper
+// summary: Declares the OverlayPrioritizer class that wraps the overlay_prioritizer Wayland interface and creates overlay prioritized surfaces.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_HOST_OVERLAY_PRIORITIZER_H_
 #define UI_OZONE_PLATFORM_WAYLAND_HOST_OVERLAY_PRIORITIZER_H_
 

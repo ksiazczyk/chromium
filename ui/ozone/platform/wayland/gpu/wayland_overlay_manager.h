@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland overlay manager interface
+// summary: Declares WaylandOverlayManager, the Ozone Wayland extension of OverlayManagerOzone that validates overlay candidates before their buffers are forwarded to the Wayland server as subsurfaces.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_GPU_WAYLAND_OVERLAY_MANAGER_H_
 #define UI_OZONE_PLATFORM_WAYLAND_GPU_WAYLAND_OVERLAY_MANAGER_H_
 

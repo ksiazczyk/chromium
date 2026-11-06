@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland bubble window implementation
+// summary: Implements WaylandBubble, showing bubble and popup windows as subsurfaces of a parent Wayland window with activation, bounds, and input region handling.
+// ---
+
 #include "ui/ozone/platform/wayland/host/wayland_bubble.h"
 
 #include "ui/gfx/geometry/rect.h"

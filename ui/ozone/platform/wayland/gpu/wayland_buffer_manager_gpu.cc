@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland buffer manager GPU-side implementation
+// summary: Implements the GPU-side Wayland buffer manager that forwards buffer creation and swap calls to the browser process over Mojo.
+// ---
+
 #include "ui/ozone/platform/wayland/gpu/wayland_buffer_manager_gpu.h"
 
 #include <drm_fourcc.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XDG activation class declaration
+// summary: Declares XdgActivation, which implements the xdg_activation_v1 Wayland protocol for requesting activation tokens and activating surfaces.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_HOST_XDG_ACTIVATION_H_
 #define UI_OZONE_PLATFORM_WAYLAND_HOST_XDG_ACTIVATION_H_
 

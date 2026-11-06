@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WaylandPopup implementation
+// summary: Implements WaylandPopup, a WaylandWindow subclass that creates and manages xdg_popup-based popup windows such as menus, including anchoring, bounds translation, and scale handling.
+// ---
+
 #include "ui/ozone/platform/wayland/host/wayland_popup.h"
 
 #include <optional>

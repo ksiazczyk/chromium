@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FractionalScaleManager class declaration
+// summary: Declares the global object registrar that instantiates the wp_fractional_scale_manager_v1 interface for the Wayland connection.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_HOST_FRACTIONAL_SCALE_MANAGER_H_
 #define UI_OZONE_PLATFORM_WAYLAND_HOST_FRACTIONAL_SCALE_MANAGER_H_
 

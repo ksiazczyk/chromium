@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WaylandCursorFactory class declaration
+// summary: Declares WaylandCursorFactory, a BitmapCursorFactory that produces asynchronously loaded Wayland cursor objects and observes cursor theme changes.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_HOST_WAYLAND_CURSOR_FACTORY_H_
 #define UI_OZONE_PLATFORM_WAYLAND_HOST_WAYLAND_CURSOR_FACTORY_H_
 

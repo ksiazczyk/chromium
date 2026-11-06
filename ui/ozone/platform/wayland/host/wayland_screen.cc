@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WaylandScreen implementation
+// summary: Implements WaylandScreen, the PlatformScreen for Wayland that tracks displays from Wayland outputs and handles rotation, scale factors, image formats, screensaver, idle time, and GPU info.
+// ---
+
 #include "ui/ozone/platform/wayland/host/wayland_screen.h"
 
 #include <set>

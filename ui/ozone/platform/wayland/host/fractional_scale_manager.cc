@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fractional scale manager implementation
+// summary: Binds the wp_fractional_scale_manager_v1 Wayland global when the feature is enabled and marks the connection as supporting viewporter surface scaling.
+// ---
+
 #include "ui/ozone/platform/wayland/host/fractional_scale_manager.h"
 
 #include <fractional-scale-v1-client-protocol.h>

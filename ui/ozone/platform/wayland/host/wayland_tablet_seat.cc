@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WaylandTabletSeat implementation
+// summary: Implements WaylandTabletSeat, which tracks tablets and tablet tools added to a zwp_tablet_seat_v2 and removes them when they are gone.
+// ---
+
 #include "ui/ozone/platform/wayland/host/wayland_tablet_seat.h"
 
 #include <tablet-unstable-v2-client-protocol.h>

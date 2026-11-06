@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WaylandSeat unit tests
+// summary: Unit test verifying that repeated wl_seat capability events recreate the keyboard, pointer, and touch devices on the client so stale devices are not retained.
+// ---
+
 #include "ui/ozone/platform/wayland/host/wayland_seat.h"
 #include "testing/gtest/include/gtest/gtest.h"
 #include "ui/events/devices/device_data_manager.h"

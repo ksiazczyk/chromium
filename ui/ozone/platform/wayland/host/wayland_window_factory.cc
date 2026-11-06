@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WaylandWindow factory
+// summary: Implements WaylandWindow::Create, choosing bubble, popup, or toplevel window classes based on the requested platform window type and parent availability.
+// ---
+
 #include <memory>
 
 #include "base/logging.h"

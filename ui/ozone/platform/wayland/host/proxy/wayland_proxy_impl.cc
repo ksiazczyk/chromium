@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WaylandProxyImpl implementation
+// summary: Implements WaylandProxy on top of WaylandConnection, providing registry, surface, window, shm buffer, and flush operations and forwarding window manager observer events to the delegate.
+// ---
+
 #include "ui/ozone/platform/wayland/host/proxy/wayland_proxy_impl.h"
 
 #include <algorithm>

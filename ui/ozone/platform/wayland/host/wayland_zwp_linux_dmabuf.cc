@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: zwp linux dmabuf buffer factory implementation
+// summary: Implements the zwp_linux_dmabuf_v1 wrapper that binds the protocol, collects supported formats and modifiers, and creates wl_buffers backed by dmabuf file descriptors.
+// ---
+
 #include "ui/ozone/platform/wayland/host/wayland_zwp_linux_dmabuf.h"
 
 #include <drm_fourcc.h>

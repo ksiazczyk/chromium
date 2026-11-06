@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland output implementation
+// summary: Implements WaylandOutput, which binds wl_output globals and tracks output metrics such as scale factor, transforms, and color management state.
+// ---
+
 #include "ui/ozone/platform/wayland/host/wayland_output.h"
 
 #include <xdg-output-unstable-v1-client-protocol.h>

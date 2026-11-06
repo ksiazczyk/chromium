@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland keyboard implementation
+// summary: Implements WaylandKeyboard, handling wl_keyboard keymap, key, and modifier events, auto-repeat, and keyboard shortcut inhibition hooks.
+// ---
+
 #include "ui/ozone/platform/wayland/host/wayland_keyboard.h"
 
 #include <keyboard-extension-unstable-v1-client-protocol.h>

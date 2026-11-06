@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WaylandTablet class declaration
+// summary: Declares the WaylandTablet class that wraps a zwp_tablet_v2 object and stores the tablet name plus vendor and product identifiers.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_HOST_WAYLAND_TABLET_H_
 #define UI_OZONE_PLATFORM_WAYLAND_HOST_WAYLAND_TABLET_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of wayland_buffer_manager.mojom.
+type: source
+title: Wayland buffer manager Mojo interface
+summary: Defines the Mojo interface between the browser and GPU processes for creating, managing and committing Wayland dmabuf, shm and single-pixel buffers.

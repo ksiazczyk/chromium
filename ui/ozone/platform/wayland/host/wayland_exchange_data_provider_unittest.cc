@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wayland exchange data provider unit tests
+// summary: Unit tests covering extraction of pickled custom data, filenames as URI lists, and application/octet-stream file contents in the Wayland exchange data provider.
+// ---
+
 
 #include "ui/ozone/platform/wayland/host/wayland_exchange_data_provider.h"
 

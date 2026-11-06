@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IME span style struct
+// summary: Defines the SpanStyle struct describing byte offset, length and optional preedit style of an IME text span for Wayland text input.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_HOST_SPAN_STYLE_H_
 #define UI_OZONE_PLATFORM_WAYLAND_HOST_SPAN_STYLE_H_
 

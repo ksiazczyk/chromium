@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland begin frame source implementation
+// summary: Implements BeginFrameSourceWayland, driving begin frames from Wayland frame callbacks and presentation feedback, with vsync interval subsampling and stall recovery.
+// ---
+
 #include "ui/ozone/platform/wayland/host/begin_frame_source_wayland.h"
 
 #include <algorithm>

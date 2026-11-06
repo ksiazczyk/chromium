@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland output manager implementation
+// summary: Implements WaylandOutputManager, which tracks Wayland outputs, initializes xdg and color management extensions, and creates the platform screen.
+// ---
+
 #include "ui/ozone/platform/wayland/host/wayland_output_manager.h"
 
 #include <algorithm>

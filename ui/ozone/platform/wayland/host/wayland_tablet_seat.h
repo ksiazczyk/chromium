@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WaylandTabletSeat class declaration
+// summary: Declares the WaylandTabletSeat class that wraps zwp_tablet_seat_v2 and maintains maps of tablets and tablet tools per seat.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_HOST_WAYLAND_TABLET_SEAT_H_
 #define UI_OZONE_PLATFORM_WAYLAND_HOST_WAYLAND_TABLET_SEAT_H_
 

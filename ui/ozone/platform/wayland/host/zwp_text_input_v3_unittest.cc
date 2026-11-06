@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Zwp text input v3 unit tests
+// summary: Unit tests for the zwp_text_input_v3 wrapper, checking enable, disable, reset, content type, and surrounding text requests against a mock Wayland server.
+// ---
+
 #include "ui/ozone/platform/wayland/host/zwp_text_input_v3.h"
 
 #include <text-input-unstable-v3-client-protocol.h>

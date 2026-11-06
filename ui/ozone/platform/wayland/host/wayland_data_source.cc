@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland data source implementation
+// summary: Implements the DataSource template that writes offered data to file descriptors on a background thread and handles send, cancel, and drag-and-drop finish events.
+// ---
+
 
 #include "ui/ozone/platform/wayland/host/wayland_data_source.h"
 

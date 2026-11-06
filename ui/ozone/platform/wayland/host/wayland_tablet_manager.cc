@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WaylandTabletManager implementation
+// summary: Implements the WaylandTabletManager that binds the zwp_tablet_manager_v2 global and creates tablet seats for Wayland seats.
+// ---
+
 #include "ui/ozone/platform/wayland/host/wayland_tablet_manager.h"
 
 #include <tablet-unstable-v2-client-protocol.h>

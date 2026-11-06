@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XdgPopup implementation for xdg-shell popups
+// summary: Implements XdgPopup, translating anchor, gravity and constraint adjustment values into xdg-positioner parameters and handling popup configuration, grabbing and repositioning.
+// ---
+
 #include "ui/ozone/platform/wayland/host/xdg_popup.h"
 
 #include <xdg-shell-client-protocol.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland buffer manager host implementation
+// summary: Implements the browser-side WaylandBufferManagerHost, which creates wl_buffers from dmabuf or shared memory handles and manages buffers associated with Wayland windows.
+// ---
+
 #include "ui/ozone/platform/wayland/host/wayland_buffer_manager_host.h"
 
 #include <sys/ioctl.h>

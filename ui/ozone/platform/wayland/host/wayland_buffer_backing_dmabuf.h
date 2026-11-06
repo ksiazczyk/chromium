@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DMABUF buffer backing class declaration
+// summary: Declares WaylandBufferBackingDmabuf, a WaylandBufferBacking that manages wl_buffers backed by a dmabuf buffer with format and plane metadata.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_HOST_WAYLAND_BUFFER_BACKING_DMABUF_H_
 #define UI_OZONE_PLATFORM_WAYLAND_HOST_WAYLAND_BUFFER_BACKING_DMABUF_H_
 

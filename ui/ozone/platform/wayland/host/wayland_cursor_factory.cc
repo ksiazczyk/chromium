@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WaylandCursorFactory implementation
+// summary: Implements the Wayland CursorFactory, asynchronously loading cursor themes, caching cursors, and rescaling cursor images to integer scales required by Wayland.
+// ---
+
 #include "ui/ozone/platform/wayland/host/wayland_cursor_factory.h"
 
 #include <wayland-cursor.h>

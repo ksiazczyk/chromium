@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XdgPopup class header
+// summary: Declares the XdgPopup wrapper for xdg-shell popup objects, used by WaylandPopup to anchor popups, set geometry, grab the pointer and handle configure events.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_HOST_XDG_POPUP_H_
 #define UI_OZONE_PLATFORM_WAYLAND_HOST_XDG_POPUP_H_
 

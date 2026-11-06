@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland single pixel buffer backing implementation
+// summary: Implements WaylandBufferBackingSinglePixel, which creates a one-pixel solid-color wl_buffer through the single pixel buffer protocol for the Wayland Ozone platform.
+// ---
+
 #include "ui/ozone/platform/wayland/host/wayland_buffer_backing_single_pixel.h"
 
 #include "ui/ozone/platform/wayland/host/single_pixel_buffer.h"

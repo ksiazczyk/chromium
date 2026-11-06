@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU surface submission and presentation interface
+// summary: Defines the WaylandSurfaceGpu interface through which GPU-process surfaces receive submission and presentation callbacks from WaylandBufferManagerGpu.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_GPU_WAYLAND_SURFACE_GPU_H_
 #define UI_OZONE_PLATFORM_WAYLAND_GPU_WAYLAND_SURFACE_GPU_H_
 

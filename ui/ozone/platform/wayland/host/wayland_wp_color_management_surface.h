@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland color management surface wrapper declaration
+// summary: Declares a wrapper around wp_color_management_surface_v1 and its feedback object for applying color spaces and observing preferred image description changes on a Wayland surface.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_HOST_WAYLAND_WP_COLOR_MANAGEMENT_SURFACE_H_
 #define UI_OZONE_PLATFORM_WAYLAND_HOST_WAYLAND_WP_COLOR_MANAGEMENT_SURFACE_H_
 

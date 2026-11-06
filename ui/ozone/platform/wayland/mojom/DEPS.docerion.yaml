@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for Wayland mojom traits files
+summary: Grants the overlay config mojom traits files access to the crash key header and SkColor4f mojom traits header.

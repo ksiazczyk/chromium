@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GLSurfaceWayland implementation
+// summary: Implements the Wayland EGL window GL surface, handling wl_egl_window creation, resizing, EGL config choice, and swap buffer behavior.
+// ---
+
 #include "ui/ozone/platform/wayland/gpu/gl_surface_wayland.h"
 
 #include <wayland-egl.h>

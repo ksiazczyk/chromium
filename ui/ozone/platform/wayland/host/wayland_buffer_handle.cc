@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland buffer handle implementation
+// summary: Implements WaylandBufferHandle, a wl_buffer wrapper that determines the buffer synchronization method and handles buffer creation and release notifications.
+// ---
+
 #include "ui/ozone/platform/wayland/host/wayland_buffer_handle.h"
 
 #include <ostream>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WaylandClipboard class declaration
+// summary: Declares WaylandClipboard, a PlatformClipboard wrapper around Wayland data device protocols that caches clipboard contents to support asynchronous, lazy data transfer between Wayland clients.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_HOST_WAYLAND_CLIPBOARD_H_
 #define UI_OZONE_PLATFORM_WAYLAND_HOST_WAYLAND_CLIPBOARD_H_
 

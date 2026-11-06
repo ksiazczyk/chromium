@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland window drag controller implementation
+// summary: Implements WaylandWindowDragController, which drives interactive window dragging over Wayland using the data device and extended drag protocols.
+// ---
+
 #include "ui/ozone/platform/wayland/host/wayland_window_drag_controller.h"
 
 #include <extended-drag-unstable-v1-client-protocol.h>

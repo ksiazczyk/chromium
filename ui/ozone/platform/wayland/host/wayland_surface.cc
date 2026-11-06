@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WaylandSurface implementation
+// summary: Implements the WaylandSurface wrapper of wl_surface, covering buffer attach, damage, viewport scaling, color management, blending, and overlay priority.
+// ---
+
 #include "ui/ozone/platform/wayland/host/wayland_surface.h"
 
 #include <alpha-compositing-unstable-v1-client-protocol.h>

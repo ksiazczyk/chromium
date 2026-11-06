@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland data drag controller implementation
+// summary: Implements mouse- and touch-driven drag-and-drop sessions over the Wayland data device protocol, including portal MIME types and W3C compatibility handling.
+// ---
+
 #include "ui/ozone/platform/wayland/host/wayland_data_drag_controller.h"
 
 #include <viewporter-client-protocol.h>

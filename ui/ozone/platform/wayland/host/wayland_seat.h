@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WaylandSeat class declaration
+// summary: Declares WaylandSeat, a wrapper around the Wayland wl_seat object that owns the keyboard, pointer, touch, and tablet seat input device objects.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_HOST_WAYLAND_SEAT_H_
 #define UI_OZONE_PLATFORM_WAYLAND_HOST_WAYLAND_SEAT_H_
 

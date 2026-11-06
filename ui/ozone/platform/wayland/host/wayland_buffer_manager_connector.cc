@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland buffer manager GPU connector implementation
+// summary: Implements WaylandBufferManagerConnector, which links the browser-side WaylandBufferManagerHost with the GPU-side WaylandBufferManagerGpu over Mojo.
+// ---
+
 #include "ui/ozone/platform/wayland/host/wayland_buffer_manager_connector.h"
 
 #include "base/functional/bind.h"

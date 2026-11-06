@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GNOME Mutter idle monitor D-Bus client implementation
+// summary: Implements a client for the org.gnome.Mutter.IdleMonitor D-Bus service that tracks system idle time and idle and active watch signals.
+// ---
+
 #include "ui/ozone/platform/wayland/host/org_gnome_mutter_idle_monitor.h"
 
 #include "base/logging.h"

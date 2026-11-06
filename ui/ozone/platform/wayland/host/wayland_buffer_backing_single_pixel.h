@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland single pixel buffer backing class declaration
+// summary: Declares WaylandBufferBackingSinglePixel, a buffer backing that manages single pixel solid color wl_buffers for the Wayland Ozone platform.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_HOST_WAYLAND_BUFFER_BACKING_SINGLE_PIXEL_H_
 #define UI_OZONE_PLATFORM_WAYLAND_HOST_WAYLAND_BUFFER_BACKING_SINGLE_PIXEL_H_
 

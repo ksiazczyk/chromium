@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SerialTracker implementation
+// summary: Implements SerialTracker, which stores, resets, and retrieves recent Wayland serials for mouse, touch, and key input events, including lookup of the most recent serial across types.
+// ---
+
 #include "ui/ozone/platform/wayland/host/wayland_serial_tracker.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wayland clipboard unit tests
+// summary: Unit tests for WaylandClipboard that exercise clipboard read and write flows against a test Wayland server with mock data devices, selection sources, and input objects.
+// ---
+
 #include "ui/ozone/platform/wayland/host/wayland_clipboard.h"
 
 #include <linux/input.h>

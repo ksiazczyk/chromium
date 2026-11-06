@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: XDG activation unit tests
+// summary: Unit tests for XdgActivation covering token requests, surface selection, request timeouts, and token requests on window show.
+// ---
+
 #include "ui/ozone/platform/wayland/host/xdg_activation.h"
 
 #include "base/functional/bind.h"

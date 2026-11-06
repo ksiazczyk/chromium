@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VulkanImplementationWayland implementation
+// summary: Implements the Wayland Vulkan backend, initializing the Vulkan instance and selecting external memory and semaphore device extensions.
+// ---
+
 #include "ui/ozone/platform/wayland/gpu/vulkan_implementation_wayland.h"
 
 #include <vulkan/vulkan_wayland.h>

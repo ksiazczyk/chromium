@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland menu utilities implementation
+// summary: Implements WaylandMenuUtils, which reports the current keyboard modifier state from the Wayland event source for menu handling.
+// ---
+
 #include "ui/ozone/platform/wayland/host/wayland_menu_utils.h"
 
 #include "ui/ozone/platform/wayland/host/wayland_connection.h"

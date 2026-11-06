@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland exchange data provider implementation
+// summary: Implements the OSExchangeData provider for Wayland, mapping clipboard and drag-and-drop mime types to data formats and extracting string, HTML, URI list and file contents data.
+// ---
+
 #include "ui/ozone/platform/wayland/host/wayland_exchange_data_provider.h"
 
 #include <cstdint>

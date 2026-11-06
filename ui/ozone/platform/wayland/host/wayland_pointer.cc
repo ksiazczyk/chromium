@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland pointer implementation
+// summary: Implements WaylandPointer, which wraps wl_pointer and translates enter, leave, motion, button, and axis events for its delegate.
+// ---
+
 #include "ui/ozone/platform/wayland/host/wayland_pointer.h"
 
 #include <linux/input.h>

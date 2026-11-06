@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland overlay config Mojo traits implementation
+// summary: Implements Mojo serialization and deserialization for WaylandOverlayConfig and the transform union, with validation and crash keys for invalid values.
+// ---
+
 #include "ui/ozone/platform/wayland/mojom/wayland_overlay_config_mojom_traits.h"
 
 #include <string_view>

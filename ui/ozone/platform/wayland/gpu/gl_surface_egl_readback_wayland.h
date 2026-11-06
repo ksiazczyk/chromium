@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GLSurfaceEglReadbackWayland class declaration
+// summary: Declares GLSurfaceEglReadbackWayland, which reads GL pixels into shared memory regions registered as Wayland buffers for display.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_GPU_GL_SURFACE_EGL_READBACK_WAYLAND_H_
 #define UI_OZONE_PLATFORM_WAYLAND_GPU_GL_SURFACE_EGL_READBACK_WAYLAND_H_
 

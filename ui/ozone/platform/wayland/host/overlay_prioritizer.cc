@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland overlay prioritizer implementation
+// summary: Implements binding of the overlay_prioritizer global and creation of overlay prioritized surfaces for the Wayland connection.
+// ---
+
 #include "ui/ozone/platform/wayland/host/overlay_prioritizer.h"
 
 #include <overlay-prioritizer-client-protocol.h>

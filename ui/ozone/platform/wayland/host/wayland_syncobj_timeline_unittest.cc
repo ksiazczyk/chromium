@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WaylandSyncobjTimeline unit tests
+// summary: Unit tests for the syncobj timeline classes covering creation, sync point import and export, fence availability callbacks, and DRM ioctl failure handling.
+// ---
+
 #include "ui/ozone/platform/wayland/host/wayland_syncobj_timeline.h"
 
 #include <xf86drm.h>

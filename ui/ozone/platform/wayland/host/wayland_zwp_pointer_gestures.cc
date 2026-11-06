@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland pointer gestures implementation
+// summary: Implements WaylandZwpPointerGestures, binding the zwp_pointer_gestures_v1 protocol and dispatching pinch and hold gesture events to its delegate.
+// ---
+
 #include "ui/ozone/platform/wayland/host/wayland_zwp_pointer_gestures.h"
 
 #include <wayland-util.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Zwp text input v1 unit tests
+// summary: Unit tests for the zwp_text_input_v1 wrapper, verifying preedit string styling and keysym timestamp propagation using a mock Wayland server and test client.
+// ---
+
 #include "ui/ozone/platform/wayland/host/zwp_text_input_v1.h"
 
 #include <sys/mman.h>

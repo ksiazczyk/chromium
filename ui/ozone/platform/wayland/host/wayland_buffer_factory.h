@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland buffer factory class declaration
+// summary: Declares WaylandBufferFactory, a factory wrapping the Wayland objects that create wl_buffers and exposing dmabuf and shared memory buffer creation capabilities.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_HOST_WAYLAND_BUFFER_FACTORY_H_
 #define UI_OZONE_PLATFORM_WAYLAND_HOST_WAYLAND_BUFFER_FACTORY_H_
 

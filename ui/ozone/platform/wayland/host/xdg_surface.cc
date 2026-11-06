@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XdgSurface implementation
+// summary: Implements XdgSurface, creating xdg_surface objects, acknowledging configure serials and setting window geometry for Wayland windows.
+// ---
+
 #include "ui/ozone/platform/wayland/host/xdg_surface.h"
 
 #include <xdg-shell-client-protocol.h>
