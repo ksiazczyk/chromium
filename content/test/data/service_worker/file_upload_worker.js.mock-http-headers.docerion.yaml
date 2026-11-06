@@ -1,0 +1,4 @@
+# Docerion header of file_upload_worker.js.mock-http-headers.
+type: test
+title: file_upload_worker.js.mock-http-headers
+summary: Mock HTTP headers serving file_upload_worker.js with 200 OK, a JavaScript content type and Service-Worker-Allowed scope.

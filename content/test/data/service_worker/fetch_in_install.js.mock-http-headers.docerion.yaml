@@ -1,0 +1,4 @@
+# Docerion header of fetch_in_install.js.mock-http-headers.
+type: test
+title: fetch_in_install.js.mock-http-headers
+summary: Mock HTTP headers serving fetch_in_install.js with a 200 OK response and JavaScript content type.

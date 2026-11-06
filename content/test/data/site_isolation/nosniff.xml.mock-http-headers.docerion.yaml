@@ -1,0 +1,4 @@
+# Docerion header of nosniff.xml.mock-http-headers.
+type: test
+title: Mock HTTP headers for nosniff.xml
+summary: 'Serves nosniff.xml as text/xml with X-Content-Type-Options: nosniff for site isolation tests.'

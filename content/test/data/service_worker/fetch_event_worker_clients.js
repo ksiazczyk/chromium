@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker worker clients count test
+// summary: Service worker test script that reports the number of worker clients from clients.matchAll for a counting endpoint.
+// ---
+
 self.onfetch = function(event) {
     const pathname = new URL(event.request.url).pathname;
     if (pathname != '/service_worker/count_worker_clients') {

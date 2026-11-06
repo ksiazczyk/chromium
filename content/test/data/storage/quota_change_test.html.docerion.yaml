@@ -1,0 +1,4 @@
+# Docerion header of quota_change_test.html.
+type: test
+title: Quota change test page
+summary: HTML test page that loads the common and quota change test scripts and runs the test on page load.

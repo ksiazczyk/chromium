@@ -1,0 +1,4 @@
+# Docerion header of fetch_cross_origin.html.
+type: test
+title: Cross origin fetch test page
+summary: Test page that fetches the URL given in the query string with a custom header and shows the result in the title.

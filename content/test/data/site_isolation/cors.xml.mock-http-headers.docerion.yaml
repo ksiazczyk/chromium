@@ -1,0 +1,4 @@
+# Docerion header of cors.xml.mock-http-headers.
+type: test
+title: CORS XML mock HTTP headers
+summary: Mock HTTP headers that serve cors.xml as text/xml with a wildcard Access-Control-Allow-Origin for site isolation tests.

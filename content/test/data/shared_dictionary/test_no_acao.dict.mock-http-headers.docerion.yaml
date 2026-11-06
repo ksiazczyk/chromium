@@ -1,0 +1,4 @@
+# Docerion header of test_no_acao.dict.mock-http-headers.
+type: test
+title: Mock HTTP headers for test_no_acao.dict
+summary: Mock HTTP response headers for test_no_acao.dict that deliberately omit Access-Control-Allow-Origin while setting Use-As-Dictionary.

@@ -1,0 +1,4 @@
+# Docerion header of compressed.data.mock-http-headers.
+type: test
+title: Mock HTTP headers for shared dictionary path test
+summary: Test fixture with mock HTTP response headers declaring dcb content encoding and an HTML content type, used by shared dictionary tests.

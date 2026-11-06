@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker test script for offline and fetch handling modes
+// summary: Service worker test script whose fetch handler responds with network fetches, offline pages, delayed responses, cache additions or redirects depending on URL parameters.
+// ---
+
 function sleep(delay) {
   return new Promise(resolve => {
     setTimeout(() => {

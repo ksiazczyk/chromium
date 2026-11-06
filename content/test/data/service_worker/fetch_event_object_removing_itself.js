@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fetch event listener removal service worker
+// summary: Service worker test fixture that removes a fetch event listener while the event is being dispatched.
+// ---
+
 let obj = {};
 function victim() {}
 

@@ -1,1 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
+<!--docerion
+type: test
+title: Valid XML site isolation test fixture
+summary: Minimal XML document containing only an XML declaration, used as test data for site isolation.
+-->

@@ -1,0 +1,4 @@
+# Docerion header of fetch_from_page.html.
+type: test
+title: Test page fetching a URL from a query parameter
+summary: HTML test page that fetches a URL supplied by a query parameter and returns the response text or the error.

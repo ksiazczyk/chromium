@@ -1,0 +1,4 @@
+# Docerion header of js.txt.
+type: test
+title: js.txt JavaScript payload as text
+summary: JavaScript snippet saved with a .txt extension as test data for site isolation MIME handling tests.

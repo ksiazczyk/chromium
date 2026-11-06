@@ -1,0 +1,4 @@
+# Docerion header of html4_dtd.txt.
+type: test
+title: HTML4 DTD text fixture
+summary: Text file with the same HTML 4.01 DTD document content, for testing text-served HTML in site isolation.

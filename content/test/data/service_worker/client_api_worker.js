@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker exercising client navigation API
+// summary: Service worker test script that navigates a client on message commands and opens windows in response to notification clicks.
+// ---
+
 self.addEventListener('message', async (event) => {
   if (event.data.command == 'navigate') {
     const url = event.data.url;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker serving fetch events from cache
+// summary: Service worker test script that caches a resource during install and answers fetch events by matching it in the cache.
+// ---
+
 const name = 'test_cache';
 const resource = '/service_worker/v8_cache_test.js';
 

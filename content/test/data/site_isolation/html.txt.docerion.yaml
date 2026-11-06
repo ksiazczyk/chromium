@@ -1,0 +1,4 @@
+# Docerion header of html.txt.
+type: test
+title: HTML content served as plain text
+summary: HTML content fixture served with the text/plain MIME type to test MIME handling in site isolation.

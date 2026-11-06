@@ -1,0 +1,4 @@
+# Docerion header of static_router_corp.html.
+type: test
+title: Service Worker Static Router CORP check test page
+summary: HTML test page that registers a static router service worker, caches a cross-origin resource, and loads it as an image.

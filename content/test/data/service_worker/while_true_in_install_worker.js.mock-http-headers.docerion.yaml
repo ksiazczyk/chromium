@@ -1,0 +1,4 @@
+# Docerion header of while_true_in_install_worker.js.mock-http-headers.
+type: test
+title: Mock HTTP headers for the infinite install loop worker
+summary: Mock HTTP response headers serving the infinite install loop worker script with a 200 status and a text/javascript content type.

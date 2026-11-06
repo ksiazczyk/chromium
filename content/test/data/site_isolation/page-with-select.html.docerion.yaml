@@ -1,0 +1,4 @@
+# Docerion header of page-with-select.html.
+type: test
+title: Test page with a focused select element
+summary: HTML test page showing a select element with options that is focused via script, for site isolation UI tests.

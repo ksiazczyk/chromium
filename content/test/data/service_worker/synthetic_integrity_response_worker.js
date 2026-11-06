@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Synthetic integrity response service worker
+// summary: Service worker test fixture that responds with scripts carrying valid or invalid signature and digest headers for integrity checks.
+// ---
+
 const kSignatureInput = 'sig=("unencoded-digest";sf);' +
     'keyid="JrQLj5P/89iXES9+vFgrIy29clF9CC/oPPsw3c5D0bs=";' +
     'tag="ed25519-integrity"';

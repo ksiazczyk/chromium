@@ -1,0 +1,4 @@
+# Docerion header of nosniff.html.
+type: test
+title: nosniff.html JSONP page served with nosniff
+summary: HTML file with JSONP content served alongside a nosniff header to test MIME sniffing prevention.

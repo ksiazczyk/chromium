@@ -1,0 +1,4 @@
+# Docerion header of echo_request_headers.js.mock-http-headers.
+type: test
+title: Mock HTTP headers for echo_request_headers.js
+summary: Mock HTTP headers served with echo_request_headers.js, marking the script as JavaScript content.

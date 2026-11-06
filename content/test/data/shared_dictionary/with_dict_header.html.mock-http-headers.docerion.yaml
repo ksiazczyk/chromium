@@ -1,0 +1,4 @@
+# Docerion header of with_dict_header.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for with_dict_header.html
+summary: Mock HTTP response headers serving with_dict_header.html with a Link rel=compression-dictionary pointing to test.dict.

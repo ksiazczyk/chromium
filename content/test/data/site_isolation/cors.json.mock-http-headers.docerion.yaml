@@ -1,0 +1,4 @@
+# Docerion header of cors.json.mock-http-headers.
+type: test
+title: Mock HTTP headers for CORS JSON data
+summary: Mock HTTP headers that serve the CORS JSON fixture as application/json with permissive cross-origin access.

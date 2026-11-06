@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Static router CORP check service worker
+// summary: Service worker adding a static router cache route for /service_worker/cache_corp_check to test CORP checks on cached responses.
+// ---
+
 self.addEventListener('install', e => {
   e.addRoutes([{
     condition: {

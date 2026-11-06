@@ -1,0 +1,4 @@
+# Docerion header of one_subframe.html.
+type: test
+title: Test page embedding an iframe from a URL parameter
+summary: Test page that appends an iframe named subframe_name pointing to the subframe_url query parameter.

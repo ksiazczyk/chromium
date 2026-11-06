@@ -1,0 +1,4 @@
+# Docerion header of fetch_event_pass_through.js.mock-http-headers.
+type: test
+title: Fetch pass-through mock HTTP headers
+summary: Mock HTTP response headers that serve fetch_event_pass_through.js with a service worker allowed scope.

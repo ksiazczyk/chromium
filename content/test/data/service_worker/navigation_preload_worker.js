@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker test script for navigation preload
+// summary: Service worker test script that enables navigation preload on activation and answers navigations with the preloaded response or an offline fallback.
+// ---
+
 self.addEventListener('activate', event => {
   event.waitUntil(self.registration.navigationPreload.enable());
 });

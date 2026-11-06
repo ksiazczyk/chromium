@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Common helpers for storage test pages
+// summary: Shared JavaScript helpers that print debug output and report pass or fail status for the storage web tests.
+// ---
+
 function debug(message) {
   document.getElementById('status').textContent += `\n${message}`;
 }

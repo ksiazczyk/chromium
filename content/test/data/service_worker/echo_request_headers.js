@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker that echoes request headers
+// summary: Service worker test script that responds to fetches with ?dump_headers by returning a JSON dump of the request headers.
+// ---
+
 self.addEventListener('fetch', event => {
   const url = new URL(event.request.url);
   if (url.search != '?dump_headers')

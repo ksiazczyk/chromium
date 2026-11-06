@@ -1,0 +1,4 @@
+# Docerion header of html4_dtd.html.
+type: test
+title: HTML4 DTD document fixture
+summary: HTML document using an HTML 4.01 strict DTD as a test fixture for site isolation.

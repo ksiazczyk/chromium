@@ -1,0 +1,4 @@
+# Docerion header of create_service_worker_from_coop.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for create_service_worker_from_coop.html
+summary: 'Mock HTTP response headers serving the COOP registration page with Cross-Origin-Opener-Policy: same-origin.'

@@ -1,0 +1,4 @@
+# Docerion header of location_redirect.html.
+type: test
+title: location redirect host page
+summary: Host page with a default title that embeds an iframe loading the first location redirect frame.

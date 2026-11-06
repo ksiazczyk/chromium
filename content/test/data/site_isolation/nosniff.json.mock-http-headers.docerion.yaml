@@ -1,0 +1,4 @@
+# Docerion header of nosniff.json.mock-http-headers.
+type: test
+title: Mock HTTP headers for nosniff.json
+summary: Mock response headers serving the JSON fixture with an application/json content type and the nosniff option enabled.

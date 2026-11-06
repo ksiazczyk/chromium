@@ -1,0 +1,4 @@
+# Docerion header of cors.json.
+type: test
+title: CORS-accessible JSON data
+summary: Test fixture with JSON data accessible via CORS for site isolation tests.

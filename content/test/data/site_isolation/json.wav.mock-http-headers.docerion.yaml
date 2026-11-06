@@ -1,0 +1,4 @@
+# Docerion header of json.wav.mock-http-headers.
+type: test
+title: json.wav.mock-http-headers MIME override for JSON payload
+summary: Mock HTTP headers that serve the JSON payload as audio/x-wav to test MIME handling in site isolation tests.

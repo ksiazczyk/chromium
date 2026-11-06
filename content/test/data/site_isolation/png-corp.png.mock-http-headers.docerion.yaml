@@ -1,0 +1,4 @@
+# Docerion header of png-corp.png.mock-http-headers.
+type: test
+title: Mock HTTP headers for png-corp.png
+summary: 'Serves png-corp.png as image/png with Cross-Origin-Resource-Policy: same-origin for site isolation tests.'

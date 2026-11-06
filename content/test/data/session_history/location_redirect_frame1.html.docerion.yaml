@@ -1,0 +1,4 @@
+# Docerion header of location_redirect_frame1.html.
+type: test
+title: location redirect frame 1
+summary: Frame script that navigates its location to the second redirect frame page.

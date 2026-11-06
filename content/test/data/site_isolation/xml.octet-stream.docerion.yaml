@@ -1,0 +1,4 @@
+# Docerion header of xml.octet-stream.
+type: test
+title: XML content with octet-stream suffix
+summary: XML declaration content named with an octet-stream suffix so it is served as application/octet-stream in site isolation tests.

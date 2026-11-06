@@ -1,1 +1,7 @@
+<!--docerion
+type: test
+title: jsonp.xml JSONP payload with XML extension
+summary: JSONP callback payload stored with an .xml extension for site isolation content-type tests.
+-->
+
 runMe({ "name" : "chromium" });

@@ -1,0 +1,4 @@
+# Docerion header of fenced_frame.html.
+type: test
+title: Fenced frame helper page for service worker browser tests
+summary: Helper page for ServiceWorkerFencedFrameBrowserTest that registers a service worker and triggers a background fetch through it.

@@ -1,0 +1,4 @@
+# Docerion header of race_network_request_from_fetch_handler.html.
+type: test
+title: Race network request fetch handler response page
+summary: Simple test page whose body marks the response as coming from the service worker fetch handler in race network request tests.

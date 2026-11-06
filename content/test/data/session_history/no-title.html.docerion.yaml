@@ -1,0 +1,4 @@
+# Docerion header of no-title.html.
+type: test
+title: page without a title
+summary: Minimal page with no title element, used to test handling of untitled documents.

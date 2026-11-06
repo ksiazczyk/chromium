@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fenced frame service worker
+// summary: Service worker test fixture that claims clients and performs background fetch requests when messaged.
+// ---
+
 self.addEventListener('install', e => e.waitUntil(skipWaiting()));
 self.addEventListener('activate', e => e.waitUntil(clients.claim()));
 

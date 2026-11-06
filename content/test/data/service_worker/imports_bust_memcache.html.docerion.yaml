@@ -1,0 +1,4 @@
+# Docerion header of imports_bust_memcache.html.
+type: test
+title: ServiceWorker import memcache busting test page
+summary: Test page that registers, unregisters and re-registers a worker with an import to verify script cache behavior in the ImportsBustMemcache browser test.

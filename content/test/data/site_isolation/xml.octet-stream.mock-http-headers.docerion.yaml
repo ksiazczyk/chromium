@@ -1,0 +1,4 @@
+# Docerion header of xml.octet-stream.mock-http-headers.
+type: test
+title: Mock HTTP headers for xml.octet-stream
+summary: Mock response headers returning 200 OK with Content-Type application/octet-stream for the paired test file.

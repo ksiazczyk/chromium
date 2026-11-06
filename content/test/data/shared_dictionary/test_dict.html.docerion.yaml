@@ -1,0 +1,4 @@
+# Docerion header of test_dict.html.
+type: test
+title: Test dictionary HTML page
+summary: Test page for shared dictionary web tests, served through its mock headers file with a Use-As-Dictionary header.

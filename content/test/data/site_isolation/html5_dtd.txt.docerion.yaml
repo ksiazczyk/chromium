@@ -1,0 +1,4 @@
+# Docerion header of html5_dtd.txt.
+type: test
+title: HTML5 DTD test data as text
+summary: Text copy of the HTML5 doctype page, letting the same content be served with a plain text type.

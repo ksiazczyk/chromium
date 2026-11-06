@@ -1,0 +1,4 @@
+# Docerion header of sync.js.mock-http-headers.
+type: test
+title: Mock HTTP headers for sync.js
+summary: Mock HTTP response headers that serve sync.js with a 200 status and JavaScript content type in service worker tests.

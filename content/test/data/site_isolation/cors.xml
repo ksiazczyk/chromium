@@ -1,1 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
+<!--docerion
+type: test
+title: CORS-accessible XML document
+summary: Test fixture with an XML document accessible via CORS for site isolation tests.
+-->

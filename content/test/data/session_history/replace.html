@@ -1,3 +1,9 @@
+<!--docerion
+type: test
+title: Location replace redirect test page
+summary: Test page that redirects on load with location.replace to the URL given in the query string, replacing the current history entry.
+-->
+
 <html>
 <head><title>redirecting</title></head>
 <body onload="location.replace(location.search.substring(1))">redirecting...</body>

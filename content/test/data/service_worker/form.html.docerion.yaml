@@ -1,0 +1,4 @@
+# Docerion header of form.html.
+type: test
+title: form.html test page
+summary: Test page with a multipart form posting to the target URL parameter, including XHR helpers for form data and blob uploads.

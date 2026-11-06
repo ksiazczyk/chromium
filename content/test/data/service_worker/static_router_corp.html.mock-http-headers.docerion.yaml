@@ -1,0 +1,4 @@
+# Docerion header of static_router_corp.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for static_router_corp.html
+summary: Mock HTTP headers adding Cross-Origin-Embedder-Policy require-corp and Cross-Origin-Opener-Policy same-origin to the test page.

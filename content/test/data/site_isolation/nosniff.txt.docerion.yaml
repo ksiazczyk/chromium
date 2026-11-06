@@ -1,0 +1,4 @@
+# Docerion header of nosniff.txt.
+type: test
+title: Text fixture for nosniff tests
+summary: Plain text fixture containing JavaScript content, used to test nosniff MIME type handling in site isolation tests.

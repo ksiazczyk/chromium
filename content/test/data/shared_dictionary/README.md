@@ -1,3 +1,11 @@
+---
+type: readme
+title: Shared Dictionary Tests
+summary: Explains that the directory holds shared dictionary browser test files and shows how to build compressed test data with the brotli command and a SHA-256 hash.
+relations:
+  - documents /content/test/data/shared_dictionary/path/compressed.data
+---
+
 # Shared Dictionary Tests
 
 - This directory contains files for shared dictionary related browser tests.

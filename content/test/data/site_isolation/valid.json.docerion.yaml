@@ -1,0 +1,4 @@
+# Docerion header of valid.json.
+type: test
+title: Simple JSON test resource
+summary: Minimal JSON object with a name field used as test data for site isolation tests.

@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: JSON list JavaScript fixture for nosniff tests
+// summary: JavaScript array fixture illustrating that JSON lists cannot be protected by content sniffing alone without a JSON mime type, nosniff header, or parser-breaking prefix.
+// ---
+
 ["we can't protect JSON lists through sniffing alone",
  "... unless we are willing to buffer the entire response.",
  "Protection can be obtained by supplying a JSON mime type and setting the ",

@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Service worker test script for race network request behaviors
+// summary: Service worker test script that simulates slow responses, fallbacks, custom responses and pass-through fetches to exercise race network request behavior.
+// ---
+
 const composeCustomResponse = () => {
   const headers = new Headers();
   headers.append('Content-Type', 'text/html');

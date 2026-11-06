@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker caching a script with a code cache hint
+// summary: Service worker test script that stores a fetched script in the cache with the CacheStorageCodeCacheHint header set to none during install.
+// ---
+
 self.addEventListener('install', evt => {
   evt.waitUntil(async function() {
     const cache_name = 'cache_name';

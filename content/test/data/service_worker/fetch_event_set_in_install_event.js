@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker fetch handler set in install event test
+// summary: Service worker test script that installs its fetch handler during the install event and replies with a 301 response.
+// ---
+
 this.oninstall = function(event){
     this.onfetch = function(fetchevent) {
         var headers = new Headers;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fetch event service worker
+// summary: Service worker test fixture that answers fetch events with a delayed 301 response and custom headers.
+// ---
+
 this.onfetch = function(event) {
     var headers = new Headers;
     headers.set('Content-Language', 'fi');

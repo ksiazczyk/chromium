@@ -1,0 +1,4 @@
+# Docerion header of js.json.
+type: test
+title: JavaScript test data served as JSON
+summary: JSON-named copy of a JavaScript snippet, for content type detection tests.

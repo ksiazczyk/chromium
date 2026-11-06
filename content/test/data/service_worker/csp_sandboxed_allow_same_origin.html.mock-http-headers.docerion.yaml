@@ -1,0 +1,4 @@
+# Docerion header of csp_sandboxed_allow_same_origin.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for csp_sandboxed_allow_same_origin.html
+summary: Serves the page with a Content-Security-Policy sandbox allowing both scripts and same-origin access.

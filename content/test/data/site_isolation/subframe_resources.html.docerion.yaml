@@ -1,0 +1,4 @@
+# Docerion header of subframe_resources.html.
+type: test
+title: Test page loading videos in a subframe
+summary: Test page that loads a configurable number of video subresources from a URL parameter and messages the parent when all are done.
