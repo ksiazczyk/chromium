@@ -1,0 +1,4 @@
+# Docerion header of cwv_credit_card.mm.
+type: source
+title: CWVCreditCard implementation
+summary: Implements the CWVCreditCard wrapper exposing cardholder name, number, CVC, network, expiration, bank name and record type from the C++ autofill CreditCard.

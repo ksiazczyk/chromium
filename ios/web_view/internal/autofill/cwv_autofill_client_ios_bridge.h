@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CWVAutofillClientIOSBridge protocol header
+// summary: Declares the CWVAutofillClientIOSBridge protocol that bridges AutofillClient payments, unmasking, and progress dialog methods to the iOS WebView embedder.
+// ---
+
 #ifndef IOS_WEB_VIEW_INTERNAL_AUTOFILL_CWV_AUTOFILL_CLIENT_IOS_BRIDGE_H_
 #define IOS_WEB_VIEW_INTERNAL_AUTOFILL_CWV_AUTOFILL_CLIENT_IOS_BRIDGE_H_
 

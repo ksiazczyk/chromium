@@ -1,0 +1,4 @@
+# Docerion header of cwv_unsafe_url_handler_unittest.mm.
+type: test
+title: Unit tests for CWVUnsafeURLHandler
+summary: Unit tests verifying handler initialization against the unsafe resource, that the HTML callback fires only once, and that proceeding updates the allow list and reloads the web state.

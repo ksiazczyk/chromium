@@ -1,0 +1,4 @@
+# Docerion header of web_view_bulk_leak_check_service_factory.mm.
+type: source
+title: WebView bulk leak check service factory implementation
+summary: Implements the bulk leak check service factory, building a password_manager::BulkLeakCheckService per browser state from the identity manager and shared URL loader factory.

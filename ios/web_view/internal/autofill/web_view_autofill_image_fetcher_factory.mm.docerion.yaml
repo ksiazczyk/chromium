@@ -1,0 +1,4 @@
+# Docerion header of web_view_autofill_image_fetcher_factory.mm.
+type: source
+title: Autofill image fetcher keyed service factory
+summary: Implements the factory that builds a per-browser-state WebViewAutofillImageFetcherImpl keyed service for fetching autofill card art images.

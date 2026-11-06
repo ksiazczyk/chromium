@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the passwords directory
+summary: Defines per-file ownership so that KeyedService factory files in this directory are co-owned by the password manager components owners.

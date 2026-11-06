@@ -1,0 +1,4 @@
+# Docerion header of web_view_io_thread.mm.
+type: source
+title: WebViewIOThread implementation
+summary: Implements WebViewIOThread, creating a default system network delegate and returning an empty release channel string.

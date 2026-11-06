@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebView Affiliation Service Factory Header
+// summary: Declares the ios_web_view singleton factory that provides an AffiliationService keyed to each browser state.
+// ---
+
 #ifndef IOS_WEB_VIEW_INTERNAL_AFFILIATIONS_WEB_VIEW_AFFILIATION_SERVICE_FACTORY_H_
 #define IOS_WEB_VIEW_INTERNAL_AFFILIATIONS_WEB_VIEW_AFFILIATION_SERVICE_FACTORY_H_
 

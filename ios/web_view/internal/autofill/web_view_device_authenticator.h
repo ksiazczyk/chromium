@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device authenticator header
+// summary: Declares the ChromeWebView DeviceAuthenticator that delegates the reauthentication prompt to the embedder through the CWVAutofillClientIOSBridge.
+// ---
+
 #ifndef IOS_WEB_VIEW_INTERNAL_AUTOFILL_WEB_VIEW_DEVICE_AUTHENTICATOR_H_
 #define IOS_WEB_VIEW_INTERNAL_AUTOFILL_WEB_VIEW_DEVICE_AUTHENTICATOR_H_
 

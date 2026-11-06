@@ -1,0 +1,4 @@
+# Docerion header of web_view_affiliation_service_factory.mm.
+type: source
+title: WebView Affiliation Service Factory Implementation
+summary: Implements the factory, building an AffiliationServiceImpl with a sequenced task runner and the affiliation database path.

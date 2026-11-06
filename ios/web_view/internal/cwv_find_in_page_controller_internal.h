@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CWVFindInPageController internal header
+// summary: Declares the internal designated initializer that creates a find-in-page controller for a web::WebState.
+// ---
+
 #ifndef IOS_WEB_VIEW_INTERNAL_CWV_FIND_IN_PAGE_CONTROLLER_INTERNAL_H_
 #define IOS_WEB_VIEW_INTERNAL_CWV_FIND_IN_PAGE_CONTROLLER_INTERNAL_H_
 

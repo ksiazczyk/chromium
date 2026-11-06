@@ -1,0 +1,4 @@
+# Docerion header of cwv_autofill_profile.mm.
+type: source
+title: CWVAutofillProfile implementation
+summary: Implements CWVAutofillProfile, wrapping autofill::AutofillProfile and exposing name, address, company, phone, and email fields as Objective-C properties.

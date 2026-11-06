@@ -1,0 +1,4 @@
+# Docerion header of repack.gni.
+type: config
+title: GN templates for repacking scaled WebView resources
+summary: GN template file providing reusable repack templates that bundle scaled pak resources at given scale percentages and generate bundle_data targets for iOS WebView.

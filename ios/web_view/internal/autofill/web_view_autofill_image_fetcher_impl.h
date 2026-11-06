@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill image fetcher implementation header
+// summary: Declares WebViewAutofillImageFetcherImpl, the ChromeWebView AutofillImageFetcher that fetches and rescales card art images for iOS.
+// ---
+
 #ifndef IOS_WEB_VIEW_INTERNAL_AUTOFILL_WEB_VIEW_AUTOFILL_IMAGE_FETCHER_IMPL_H_
 #define IOS_WEB_VIEW_INTERNAL_AUTOFILL_WEB_VIEW_AUTOFILL_IMAGE_FETCHER_IMPL_H_
 

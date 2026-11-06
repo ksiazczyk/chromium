@@ -1,0 +1,4 @@
+# Docerion header of web_view_safe_browsing_helper_factory.mm.
+type: source
+title: WebViewSafeBrowsingHelperFactory implementation
+summary: Implements WebViewSafeBrowsingHelperFactory, building SafeBrowsingHelper instances from browser state prefs and the application context's Safe Browsing service.

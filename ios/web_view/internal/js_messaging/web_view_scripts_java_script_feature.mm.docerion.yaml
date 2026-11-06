@@ -1,0 +1,4 @@
+# Docerion header of web_view_scripts_java_script_feature.mm.
+type: source
+title: WebViewScriptsJavaScriptFeature implementation
+summary: Implements creation per BrowserState, script storage, and conversion of stored scripts into FeatureScript entries, updating WKWebView configuration when scripts change.

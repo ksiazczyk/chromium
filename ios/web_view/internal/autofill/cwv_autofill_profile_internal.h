@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CWVAutofillProfile internal header
+// summary: Internal header exposing the designated initializer and the wrapped autofill::AutofillProfile of CWVAutofillProfile.
+// ---
+
 #ifndef IOS_WEB_VIEW_INTERNAL_AUTOFILL_CWV_AUTOFILL_PROFILE_INTERNAL_H_
 #define IOS_WEB_VIEW_INTERNAL_AUTOFILL_CWV_AUTOFILL_PROFILE_INTERNAL_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of web_view_url_language_histogram_factory.mm.
+type: source
+title: WebViewUrlLanguageHistogramFactory implementation
+summary: Implements the factory that builds a UrlLanguageHistogram and registers its browser state preferences.

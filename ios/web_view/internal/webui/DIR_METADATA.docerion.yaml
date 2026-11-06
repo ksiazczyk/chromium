@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the webui folder
+summary: Points the webui directory to the common WebUI metadata mixins shared across the codebase.

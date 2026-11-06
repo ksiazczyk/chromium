@@ -1,0 +1,4 @@
+# Docerion header of cwv_credit_card_otp_verifier.mm.
+type: source
+title: CWVCreditCardOTPVerifier implementation
+summary: Implements the OTP card unmask verifier, bridging the C++ OTP input dialog controller and view callbacks to the Objective-C delegate.

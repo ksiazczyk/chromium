@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebViewTranslateClient class declaration
+// summary: Declares WebViewTranslateClient, the iOS WebView implementation of the Chromium TranslateClient interface that drives page translation, reverts, and translation offers.
+// ---
+
 #ifndef IOS_WEB_VIEW_INTERNAL_TRANSLATE_WEB_VIEW_TRANSLATE_CLIENT_H_
 #define IOS_WEB_VIEW_INTERNAL_TRANSLATE_WEB_VIEW_TRANSLATE_CLIENT_H_
 

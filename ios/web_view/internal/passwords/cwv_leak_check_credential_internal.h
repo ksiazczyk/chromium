@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CWVLeakCheckCredential internal header
+// summary: Internal header declaring the private initializer that wraps a LeakCheckCredential and the internal credential accessor for CWVLeakCheckCredential.
+// ---
+
 #ifndef IOS_WEB_VIEW_INTERNAL_PASSWORDS_CWV_LEAK_CHECK_CREDENTIAL_INTERNAL_H_
 #define IOS_WEB_VIEW_INTERNAL_PASSWORDS_CWV_LEAK_CHECK_CREDENTIAL_INTERNAL_H_
 

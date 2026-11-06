@@ -1,0 +1,4 @@
+# Docerion header of cwv_global_state.mm.
+type: source
+title: CWVGlobalState implementation
+summary: Implements the CWVGlobalState singleton that starts the web engine, applies early init flags, and manages the user agent and Google API credentials.

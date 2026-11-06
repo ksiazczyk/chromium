@@ -1,0 +1,4 @@
+# Docerion header of cwv_trusted_vault_utils.mm.
+type: source
+title: CWVTrustedVaultUtils implementation
+summary: Implements UMA logging helpers for trusted vault registration state, HTTP responses, and key distribution failures.

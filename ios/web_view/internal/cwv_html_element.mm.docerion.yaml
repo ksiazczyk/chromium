@@ -1,0 +1,4 @@
+# Docerion header of cwv_html_element.mm.
+type: source
+title: CWVHTMLElement implementation
+summary: Implements the CWVHTMLElement model object holding a hyperlink, media source, and text.

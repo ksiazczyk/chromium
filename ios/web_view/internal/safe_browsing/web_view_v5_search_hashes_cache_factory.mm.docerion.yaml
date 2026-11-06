@@ -1,0 +1,4 @@
+# Docerion header of web_view_v5_search_hashes_cache_factory.mm.
+type: source
+title: WebView V5 search hashes cache factory implementation
+summary: Implements the factory that creates a V5 search hashes cache keyed service for each browser state in iOS WebView.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CWV autofill utility header
+// summary: Declares CWVLegalMessagesFromLegalMessageLines, which converts autofill legal message lines into attributed strings suitable for UI display.
+// ---
+
 #ifndef IOS_WEB_VIEW_INTERNAL_AUTOFILL_CWV_AUTOFILL_UTIL_H_
 #define IOS_WEB_VIEW_INTERNAL_AUTOFILL_CWV_AUTOFILL_UTIL_H_
 

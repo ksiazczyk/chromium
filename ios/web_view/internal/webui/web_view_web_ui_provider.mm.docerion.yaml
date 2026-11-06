@@ -1,0 +1,4 @@
+# Docerion header of web_view_web_ui_provider.mm.
+type: source
+title: WebUI service provider for ios/web_view
+summary: Provides WebUI pages with access to the identity manager, sync service, and sync invalidations service, and reports the stable channel.

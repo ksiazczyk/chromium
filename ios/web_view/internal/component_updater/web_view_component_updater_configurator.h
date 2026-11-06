@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebView component updater configurator header
+// summary: Declares MakeComponentUpdaterConfigurator, which returns an update_client::Configurator for updating components in iOS WebView.
+// ---
+
 #ifndef IOS_WEB_VIEW_INTERNAL_COMPONENT_UPDATER_WEB_VIEW_COMPONENT_UPDATER_CONFIGURATOR_H_
 #define IOS_WEB_VIEW_INTERNAL_COMPONENT_UPDATER_WEB_VIEW_COMPONENT_UPDATER_CONFIGURATOR_H_
 

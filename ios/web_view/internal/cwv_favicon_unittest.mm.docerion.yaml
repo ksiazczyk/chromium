@@ -1,0 +1,4 @@
+# Docerion header of cwv_favicon_unittest.mm.
+type: test
+title: CWVFavicon unit tests
+summary: Tests CWVFavicon factory initialization from web::FaviconURL entries, verifying URL, type and size conversion.

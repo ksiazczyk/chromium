@@ -1,0 +1,4 @@
+# Docerion header of web_view_data_type_store_service_factory.mm.
+type: source
+title: WebView data type store service factory implementation
+summary: Implements the keyed service factory that creates a sync data type store service for each WebViewBrowserState in iOS WebView.

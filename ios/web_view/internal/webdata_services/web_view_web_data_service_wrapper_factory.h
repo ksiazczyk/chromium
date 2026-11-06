@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebViewWebDataServiceWrapperFactory header
+// summary: Declares the ios_web_view singleton factory that owns WebDataServiceWrapper instances per browser state and exposes accessors for autofill and token web data.
+// ---
+
 #ifndef IOS_WEB_VIEW_INTERNAL_WEBDATA_SERVICES_WEB_VIEW_WEB_DATA_SERVICE_WRAPPER_FACTORY_H_
 #define IOS_WEB_VIEW_INTERNAL_WEBDATA_SERVICES_WEB_VIEW_WEB_DATA_SERVICE_WRAPPER_FACTORY_H_
 

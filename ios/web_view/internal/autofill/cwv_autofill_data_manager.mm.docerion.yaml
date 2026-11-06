@@ -1,0 +1,4 @@
+# Docerion header of cwv_autofill_data_manager.mm.
+type: source
+title: CWVAutofillDataManager implementation
+summary: Implements CWVAutofillDataManager, wrapping the personal data manager and password store to fetch profiles, credit cards, and passwords.

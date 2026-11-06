@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CWVVCNEnrollmentManager internal header
+// summary: Internal header declaring the designated initializer and the enrollment completion handler for the CWVVCNEnrollmentManager class.
+// ---
+
 #ifndef IOS_WEB_VIEW_INTERNAL_AUTOFILL_CWV_VCN_ENROLLMENT_MANAGER_INTERNAL_H_
 #define IOS_WEB_VIEW_INTERNAL_AUTOFILL_CWV_VCN_ENROLLMENT_MANAGER_INTERNAL_H_
 

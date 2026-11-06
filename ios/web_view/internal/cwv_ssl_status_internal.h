@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CWVSSLStatus internal header
+// summary: 'Declares the private initWithInternalStatus: initializer that wraps a web::SSLStatus in a CWVSSLStatus instance.'
+// ---
+
 #ifndef IOS_WEB_VIEW_INTERNAL_CWV_SSL_STATUS_INTERNAL_H_
 #define IOS_WEB_VIEW_INTERNAL_CWV_SSL_STATUS_INTERNAL_H_
 

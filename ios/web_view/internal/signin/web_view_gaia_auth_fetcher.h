@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebViewGaiaAuthFetcher header
+// summary: Declares WebViewGaiaAuthFetcher, the GaiaAuthFetcher implementation for ios/web_view that customizes Gaia fetcher creation.
+// ---
+
 #ifndef IOS_WEB_VIEW_INTERNAL_SIGNIN_WEB_VIEW_GAIA_AUTH_FETCHER_H_
 #define IOS_WEB_VIEW_INTERNAL_SIGNIN_WEB_VIEW_GAIA_AUTH_FETCHER_H_
 

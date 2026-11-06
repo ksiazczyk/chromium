@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ApplicationContext class header
+// summary: Declares the ApplicationContext singleton that exposes global application state such as preferences, network context, locale, NetLog, and services.
+// ---
+
 #ifndef IOS_WEB_VIEW_INTERNAL_APP_APPLICATION_CONTEXT_H_
 #define IOS_WEB_VIEW_INTERNAL_APP_APPLICATION_CONTEXT_H_
 

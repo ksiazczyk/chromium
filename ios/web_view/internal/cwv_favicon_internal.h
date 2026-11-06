@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CWVFavicon internal header
+// summary: Declares internal factory and initializer methods that convert vectors of web::FaviconURL into arrays of CWVFavicon.
+// ---
+
 #ifndef IOS_WEB_VIEW_INTERNAL_CWV_FAVICON_INTERNAL_H_
 #define IOS_WEB_VIEW_INTERNAL_CWV_FAVICON_INTERNAL_H_
 

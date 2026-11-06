@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CWVReuseCheckService internal header
+// summary: Internal header declaring the designated initializer that associates a CWVReuseCheckService with an affiliation service.
+// ---
+
 #ifndef IOS_WEB_VIEW_INTERNAL_PASSWORDS_CWV_REUSE_CHECK_SERVICE_INTERNAL_H_
 #define IOS_WEB_VIEW_INTERNAL_PASSWORDS_CWV_REUSE_CHECK_SERVICE_INTERNAL_H_
 

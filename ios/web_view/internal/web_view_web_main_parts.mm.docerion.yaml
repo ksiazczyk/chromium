@@ -1,0 +1,4 @@
+# Docerion header of web_view_web_main_parts.mm.
+type: source
+title: WebView web main parts implementation
+summary: Runs startup stages for the iOS WebView, loading resource packs, feature flags, field trials, and the translate service.

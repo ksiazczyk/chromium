@@ -1,0 +1,4 @@
+# Docerion header of cwv_vcn_enrollment_manager_unittest.mm.
+type: test
+title: CWVVCNEnrollmentManager unit tests
+summary: Unit tests covering initialization, enroll and decline callbacks, and deallocation behavior of the CWVVCNEnrollmentManager.

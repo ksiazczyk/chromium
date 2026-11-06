@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebView password requirements service factory header
+// summary: Declares WebViewPasswordRequirementsServiceFactory, a keyed-service singleton that supplies a PasswordRequirementsService per WebViewBrowserState.
+// ---
+
 #ifndef IOS_WEB_VIEW_INTERNAL_PASSWORDS_WEB_VIEW_PASSWORD_REQUIREMENTS_SERVICE_FACTORY_H_
 #define IOS_WEB_VIEW_INTERNAL_PASSWORDS_WEB_VIEW_PASSWORD_REQUIREMENTS_SERVICE_FACTORY_H_
 

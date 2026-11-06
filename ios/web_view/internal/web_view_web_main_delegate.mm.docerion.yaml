@@ -1,0 +1,4 @@
+# Docerion header of web_view_web_main_delegate.mm.
+type: source
+title: WebView web main delegate implementation
+summary: Completes startup by locating the framework bundle, initializing logging, and registering component updater path providers.

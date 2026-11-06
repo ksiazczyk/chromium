@@ -1,0 +1,4 @@
+# Docerion header of application_context.mm.
+type: source
+title: ApplicationContext implementation
+summary: Implements ApplicationContext, initializing preferences, the WebView IO thread, network context, OSCrypt, SafeBrowsing, and component update services.

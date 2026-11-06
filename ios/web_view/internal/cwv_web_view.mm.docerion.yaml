@@ -1,0 +1,4 @@
+# Docerion header of cwv_web_view.mm.
+type: source
+title: CWVWebView implementation
+summary: Core implementation of the CWVWebView web view, wiring navigation, safe browsing, autofill, passwords, translation and session restoration to the Chromium web state.

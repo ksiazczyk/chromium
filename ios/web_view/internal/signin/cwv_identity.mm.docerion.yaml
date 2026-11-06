@@ -1,0 +1,4 @@
+# Docerion header of cwv_identity.mm.
+type: source
+title: CWVIdentity implementation
+summary: Implements the CWVIdentity Objective-C class holding email, full name, and GAIA ID, with a debug description.

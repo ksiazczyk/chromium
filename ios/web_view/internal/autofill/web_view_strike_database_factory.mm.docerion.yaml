@@ -1,0 +1,4 @@
+# Docerion header of web_view_strike_database_factory.mm.
+type: source
+title: WebView Strike Database Factory Implementation
+summary: Implements the StrikeDatabase factory, creating the database from the browser state's proto database provider and state path.

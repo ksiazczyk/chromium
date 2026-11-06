@@ -1,0 +1,4 @@
+# Docerion header of cwv_autofill_controller.mm.
+type: source
+title: CWVAutofillController implementation
+summary: Implements CWVAutofillController, coordinating autofill, suggestions, credit card unmasking, and password management for iOS WebView.

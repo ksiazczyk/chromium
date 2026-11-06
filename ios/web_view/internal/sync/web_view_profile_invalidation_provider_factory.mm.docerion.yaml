@@ -1,0 +1,4 @@
+# Docerion header of web_view_profile_invalidation_provider_factory.mm.
+type: source
+title: WebView profile invalidation provider factory implementation
+summary: Implements the factory that builds ProfileInvalidationProvider instances, depending on the GCM and Instance ID profile service factories.

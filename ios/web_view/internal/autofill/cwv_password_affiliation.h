@@ -3,6 +3,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password affiliation preference header
+// summary: Declares the password affiliation matching preference key and functions to register, enable and query the preference.
+// ---
+
 #ifndef IOS_WEB_VIEW_INTERNAL_AUTOFILL_CWV_PASSWORD_AFFILIATION_H_
 #define IOS_WEB_VIEW_INTERNAL_AUTOFILL_CWV_PASSWORD_AFFILIATION_H_
 

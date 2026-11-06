@@ -1,0 +1,4 @@
+# Docerion header of cwv_credit_card_otp_verifier_unittest.mm.
+type: test
+title: CWVCreditCardOTPVerifier unit tests
+summary: Unit tests for the OTP-based credit card unmask verifier, exercising OTP entry, resending and dialog behaviour through a fake unmask delegate.

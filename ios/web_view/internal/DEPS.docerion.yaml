@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the ios/web_view/internal directory
+summary: Defines the allowed include paths and per-file exceptions for the internal WebView code in a DEPS dependency file.

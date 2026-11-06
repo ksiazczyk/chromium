@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebView sync invalidations service factory header
+// summary: Declares the keyed service factory that returns a SyncInvalidationsService for each WebView browser state, which may be null when invalidations are unsupported.
+// ---
+
 #ifndef IOS_WEB_VIEW_INTERNAL_SYNC_WEB_VIEW_SYNC_INVALIDATIONS_SERVICE_FACTORY_H_
 #define IOS_WEB_VIEW_INTERNAL_SYNC_WEB_VIEW_SYNC_INVALIDATIONS_SERVICE_FACTORY_H_
 

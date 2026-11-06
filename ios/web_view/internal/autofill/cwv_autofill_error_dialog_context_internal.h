@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CWVAutofillErrorDialogContext internal header
+// summary: Internal Objective-C header declaring an initializer that wraps the C++ autofill::AutofillErrorDialogContext struct in CWVAutofillErrorDialogContext.
+// ---
+
 #ifndef IOS_WEB_VIEW_INTERNAL_AUTOFILL_CWV_AUTOFILL_ERROR_DIALOG_CONTEXT_INTERNAL_H_
 #define IOS_WEB_VIEW_INTERNAL_AUTOFILL_CWV_AUTOFILL_ERROR_DIALOG_CONTEXT_INTERNAL_H_
 

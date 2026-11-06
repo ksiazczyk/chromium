@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebViewBrowserState class declaration
+// summary: Declares the WebView implementation of web::BrowserState with access to preferences, request context, recording state and download manager.
+// ---
+
 #ifndef IOS_WEB_VIEW_INTERNAL_WEB_VIEW_BROWSER_STATE_H_
 #define IOS_WEB_VIEW_INTERNAL_WEB_VIEW_BROWSER_STATE_H_
 

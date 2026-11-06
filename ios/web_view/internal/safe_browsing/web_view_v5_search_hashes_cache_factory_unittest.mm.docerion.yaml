@@ -1,0 +1,4 @@
+# Docerion header of web_view_v5_search_hashes_cache_factory_unittest.mm.
+type: test
+title: WebView V5 search hashes cache factory unit tests
+summary: Unit tests verifying the cache factory returns non-null, distinct instances for regular and incognito browser states.

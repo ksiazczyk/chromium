@@ -1,0 +1,4 @@
+# Docerion header of cwv_sync_controller.mm.
+type: source
+title: CWVSyncController implementation
+summary: Implements the CWVSyncController that bridges the sync service, identity manager, and prefs for iOS WebView.

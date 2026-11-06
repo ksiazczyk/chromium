@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebViewJavaScriptDialogPresenter class declaration
+// summary: Declares the presenter that forwards JavaScript alert, confirm and prompt dialogs to the CWVUIDelegate.
+// ---
+
 #ifndef IOS_WEB_VIEW_INTERNAL_WEB_VIEW_JAVA_SCRIPT_DIALOG_PRESENTER_H_
 #define IOS_WEB_VIEW_INTERNAL_WEB_VIEW_JAVA_SCRIPT_DIALOG_PRESENTER_H_
 

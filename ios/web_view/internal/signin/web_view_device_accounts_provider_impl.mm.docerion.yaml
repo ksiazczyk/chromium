@@ -1,0 +1,4 @@
+# Docerion header of web_view_device_accounts_provider_impl.mm.
+type: source
+title: WebViewDeviceAccountsProviderImpl implementation
+summary: Implements the device accounts provider for iOS web view, converting CWVSyncController data source results into access tokens and GoogleServiceAuthError values.

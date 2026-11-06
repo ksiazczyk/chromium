@@ -1,0 +1,4 @@
+# Docerion header of cwv_preview_element_info_unittest.mm.
+type: test
+title: CWVPreviewElementInfo unit tests
+summary: Unit tests verifying that CWVPreviewElementInfo initialization stores the given link URL.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CWVCardUnmaskChallengeOption internal header
+// summary: Declares the internal initializer that builds the Objective-C challenge option wrapper from a C++ autofill struct.
+// ---
+
 #ifndef IOS_WEB_VIEW_INTERNAL_AUTOFILL_CWV_CARD_UNMASK_CHALLENGE_OPTION_INTERNAL_H_
 #define IOS_WEB_VIEW_INTERNAL_AUTOFILL_CWV_CARD_UNMASK_CHALLENGE_OPTION_INTERNAL_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of account_capabilities_fetcher_ios_web_view_unittest.mm.
+type: test
+title: AccountCapabilitiesFetcherIOSWebView unit tests
+summary: Unit tests verifying that account capability fetching is disabled and completes without returning capabilities.

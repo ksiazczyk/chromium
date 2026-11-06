@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebView Strike Database Factory Header
+// summary: Declares a singleton keyed-service factory that owns strike_database StrikeDatabase instances and associates them with ios_web_view WebViewBrowserState.
+// ---
+
 #ifndef IOS_WEB_VIEW_INTERNAL_AUTOFILL_WEB_VIEW_STRIKE_DATABASE_FACTORY_H_
 #define IOS_WEB_VIEW_INTERNAL_AUTOFILL_WEB_VIEW_STRIKE_DATABASE_FACTORY_H_
 

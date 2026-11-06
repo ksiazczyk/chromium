@@ -1,0 +1,4 @@
+# Docerion header of web_view_download_manager.mm.
+type: source
+title: WebViewDownloadManager implementation
+summary: Implements the download delegate that hands created CWVDownloadTask objects to the web view's navigation delegate.

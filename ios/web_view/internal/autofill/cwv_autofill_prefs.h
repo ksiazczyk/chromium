@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CWVAutofill preferences header
+// summary: Declares autofill preference keys and functions to register, migrate, and toggle settings such as address sync, VCN usage, and scoped form activity.
+// ---
+
 #ifndef IOS_WEB_VIEW_INTERNAL_AUTOFILL_CWV_AUTOFILL_PREFS_H_
 #define IOS_WEB_VIEW_INTERNAL_AUTOFILL_CWV_AUTOFILL_PREFS_H_
 

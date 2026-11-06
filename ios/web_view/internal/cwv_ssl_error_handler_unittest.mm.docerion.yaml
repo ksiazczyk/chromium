@@ -1,0 +1,4 @@
+# Docerion header of cwv_ssl_error_handler_unittest.mm.
+type: test
+title: CWVSSLErrorHandler unit tests
+summary: Unit tests covering CWVSSLErrorHandler initialization, error page HTML display, and overriding SSL errors with a page reload.

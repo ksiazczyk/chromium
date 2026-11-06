@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI controller factory declaration
+// summary: Declares the singleton factory that creates WebUIIOSController instances for WebUI URLs supported by ios/web_view.
+// ---
+
 #ifndef IOS_WEB_VIEW_INTERNAL_WEBUI_WEB_VIEW_WEB_UI_IOS_CONTROLLER_FACTORY_H_
 #define IOS_WEB_VIEW_INTERNAL_WEBUI_WEB_VIEW_WEB_UI_IOS_CONTROLLER_FACTORY_H_
 

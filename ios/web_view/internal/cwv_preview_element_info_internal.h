@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CWVPreviewElementInfo internal header
+// summary: 'Declares the private initWithLinkURL: initializer used internally to construct CWVPreviewElementInfo instances.'
+// ---
+
 #ifndef IOS_WEB_VIEW_INTERNAL_CWV_PREVIEW_ELEMENT_INFO_INTERNAL_H_
 #define IOS_WEB_VIEW_INTERNAL_CWV_PREVIEW_ELEMENT_INFO_INTERNAL_H_
 

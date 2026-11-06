@@ -1,0 +1,4 @@
+# Docerion header of cwv_profile_scoped_configuration_unittest.mm.
+type: test
+title: CWVProfileScopedConfiguration unit tests
+summary: Unit tests covering profile-scoped web view configurations, including multiton caching, profile path isolation, and cleanup of profile directories on iOS 17 and later.

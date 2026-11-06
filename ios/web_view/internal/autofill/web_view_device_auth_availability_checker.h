@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device auth availability checker header
+// summary: Declares the ChromeWebView DeviceAuthAvailabilityChecker that reports biometric and screen lock authentication capability via LAContext.
+// ---
+
 #ifndef IOS_WEB_VIEW_INTERNAL_AUTOFILL_WEB_VIEW_DEVICE_AUTH_AVAILABILITY_CHECKER_H_
 #define IOS_WEB_VIEW_INTERNAL_AUTOFILL_WEB_VIEW_DEVICE_AUTH_AVAILABILITY_CHECKER_H_
 

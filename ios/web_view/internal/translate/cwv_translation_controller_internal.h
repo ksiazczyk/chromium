@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CWVTranslationController internal header
+// summary: Declares internal initializer and translate step update methods for CWVTranslationController so C++ details stay hidden from the public header.
+// ---
+
 #ifndef IOS_WEB_VIEW_INTERNAL_TRANSLATE_CWV_TRANSLATION_CONTROLLER_INTERNAL_H_
 #define IOS_WEB_VIEW_INTERNAL_TRANSLATE_CWV_TRANSLATION_CONTROLLER_INTERNAL_H_
 

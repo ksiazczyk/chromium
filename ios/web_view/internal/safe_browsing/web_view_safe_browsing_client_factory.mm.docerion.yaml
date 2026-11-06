@@ -1,0 +1,4 @@
+# Docerion header of web_view_safe_browsing_client_factory.mm.
+type: source
+title: WebViewSafeBrowsingClientFactory implementation
+summary: Implements WebViewSafeBrowsingClientFactory, building WebViewSafeBrowsingClient instances from browser state prefs and the v5 get-hash protocol manager factory.

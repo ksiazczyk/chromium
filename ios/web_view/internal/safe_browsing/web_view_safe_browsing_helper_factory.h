@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebViewSafeBrowsingHelperFactory interface
+// summary: Declares WebViewSafeBrowsingHelperFactory, a singleton keyed service factory that creates SafeBrowsingHelper instances for each browser state.
+// ---
+
 #ifndef IOS_WEB_VIEW_INTERNAL_SAFE_BROWSING_WEB_VIEW_SAFE_BROWSING_HELPER_FACTORY_H_
 #define IOS_WEB_VIEW_INTERNAL_SAFE_BROWSING_WEB_VIEW_SAFE_BROWSING_HELPER_FACTORY_H_
 

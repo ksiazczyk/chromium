@@ -1,0 +1,4 @@
+# Docerion header of cwv_ssl_util.mm.
+type: source
+title: CWV SSL utility for certificate status conversion
+summary: Maps Chromium net certificate status flags to CWVCertStatus values so the iOS WebView can report SSL certificate errors.

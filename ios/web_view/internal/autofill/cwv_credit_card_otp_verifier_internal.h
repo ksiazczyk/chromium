@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CWVCreditCardOTPVerifier internal header
+// summary: Declares the internal initializer and callbacks for dialog dismissal and OTP unmask verification results.
+// ---
+
 #ifndef IOS_WEB_VIEW_INTERNAL_AUTOFILL_CWV_CREDIT_CARD_OTP_VERIFIER_INTERNAL_H_
 #define IOS_WEB_VIEW_INTERNAL_AUTOFILL_CWV_CREDIT_CARD_OTP_VERIFIER_INTERNAL_H_
 

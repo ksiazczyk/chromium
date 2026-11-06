@@ -1,0 +1,4 @@
+# Docerion header of web_view_device_authenticator.mm.
+type: source
+title: Device authenticator implementation
+summary: Implements device reauthentication by forwarding prompts to the embedder bridge and managing a single pending authentication callback with cancellation.

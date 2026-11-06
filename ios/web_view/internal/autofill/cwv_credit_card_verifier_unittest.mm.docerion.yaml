@@ -1,0 +1,4 @@
+# Docerion header of cwv_credit_card_verifier_unittest.mm.
+type: test
+title: CWVCreditCardVerifier unit tests
+summary: Unit tests for CWVCreditCardVerifier using a fake card unmask delegate to verify unmask flows and verification result handling.

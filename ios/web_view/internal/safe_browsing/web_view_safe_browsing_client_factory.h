@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebViewSafeBrowsingClientFactory interface
+// summary: Declares WebViewSafeBrowsingClientFactory, a singleton keyed service factory that associates SafeBrowsingClient instances with WebViewBrowserState objects.
+// ---
+
 #ifndef IOS_WEB_VIEW_INTERNAL_SAFE_BROWSING_WEB_VIEW_SAFE_BROWSING_CLIENT_FACTORY_H_
 #define IOS_WEB_VIEW_INTERNAL_SAFE_BROWSING_WEB_VIEW_SAFE_BROWSING_CLIENT_FACTORY_H_
 

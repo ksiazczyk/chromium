@@ -1,0 +1,4 @@
+# Docerion header of cwv_leak_check_service_unittest.mm.
+type: test
+title: CWVLeakCheckService unit tests
+summary: Unit tests for CWVLeakCheckService using a fake bulk leak check to verify credential queuing, leak results and observer notifications without network access.

@@ -1,0 +1,4 @@
+# Docerion header of cwv_autofill_suggestion.mm.
+type: source
+title: CWVAutofillSuggestion implementation
+summary: Implements CWVAutofillSuggestion, wrapping a FormSuggestion with form and field identifiers, a password flag, and GUID extraction from the payload.

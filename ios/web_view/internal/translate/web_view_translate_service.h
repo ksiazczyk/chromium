@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebViewTranslateService class declaration
+// summary: Declares a singleton managing resources required for the Translate feature, including a listener that gates translate requests on network availability.
+// ---
+
 #ifndef IOS_WEB_VIEW_INTERNAL_TRANSLATE_WEB_VIEW_TRANSLATE_SERVICE_H_
 #define IOS_WEB_VIEW_INTERNAL_TRANSLATE_WEB_VIEW_TRANSLATE_SERVICE_H_
 

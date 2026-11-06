@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CWVTranslationLanguageDetectionDetails internal header
+// summary: Declares the internal factory method that builds a CWVTranslationLanguageDetectionDetails from the C++ translate::LanguageDetectionDetails struct.
+// ---
+
 #ifndef IOS_WEB_VIEW_INTERNAL_TRANSLATE_CWV_TRANSLATION_LANGUAGE_DETECTION_DETAILS_INTERNAL_H_
 #define IOS_WEB_VIEW_INTERNAL_TRANSLATE_CWV_TRANSLATION_LANGUAGE_DETECTION_DETAILS_INTERNAL_H_
 

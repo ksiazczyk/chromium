@@ -1,0 +1,4 @@
+# Docerion header of cwv_reuse_check_service_unittest.mm.
+type: test
+title: CWVReuseCheckService unit tests
+summary: Unit tests verifying reuse checking across saved passwords using fake and mock affiliation services and affiliated group setup.

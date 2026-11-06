@@ -1,0 +1,4 @@
+# Docerion header of web_view_gaia_auth_fetcher_unittest.mm.
+type: test
+title: WebViewGaiaAuthFetcher unit tests
+summary: Unit test verifying that ListAccounts requests fail as expected through a test Gaia auth consumer.

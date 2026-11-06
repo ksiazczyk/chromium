@@ -1,0 +1,4 @@
+# Docerion header of cwv_download_task.mm.
+type: source
+title: CWVDownloadTask implementation
+summary: Implements the public download task API over web::DownloadTask with progress updates, cancellation and error reporting.

@@ -1,0 +1,4 @@
+# Docerion header of web_view_url_request_context_getter.mm.
+type: source
+title: WebView URL request context getter implementation
+summary: Builds the URLRequestContext with cookie store, HTTP cache, proxy service, and WebUI protocol handler for the iOS WebView.

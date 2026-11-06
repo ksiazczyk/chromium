@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CWVWeakCheckUtils internal header
+// summary: Internal header declaring the initializer for the CWVWeakCheckUtils weak password helper.
+// ---
+
 #ifndef IOS_WEB_VIEW_INTERNAL_PASSWORDS_CWV_WEAK_CHECK_UTILS_INTERNAL_H_
 #define IOS_WEB_VIEW_INTERNAL_PASSWORDS_CWV_WEAK_CHECK_UTILS_INTERNAL_H_
 

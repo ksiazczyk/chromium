@@ -1,0 +1,4 @@
+# Docerion header of cwv_navigation_action.mm.
+type: source
+title: CWVNavigationAction implementation
+summary: Implements the CWVNavigationAction model object holding the request, user-initiated flag, and navigation type.

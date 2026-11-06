@@ -1,0 +1,4 @@
+# Docerion header of cwv_back_forward_list_item.mm.
+type: source
+title: CWVBackForwardListItem implementation
+summary: Implements a back/forward list item that copies title, URL and unique ID from a navigation item and compares items by ID.

@@ -1,0 +1,4 @@
+# Docerion header of cwv_favicon.mm.
+type: source
+title: CWVFavicon implementation
+summary: Implements CWVFavicon, converting web::FaviconURL icon types, URLs and sizes into the public favicon model objects.

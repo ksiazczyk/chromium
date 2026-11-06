@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CWVCreditCardVerifier internal header
+// summary: Internal category header declaring the designated initializer and unmask verification result and risk data callbacks of CWVCreditCardVerifier.
+// ---
+
 #ifndef IOS_WEB_VIEW_INTERNAL_AUTOFILL_CWV_CREDIT_CARD_VERIFIER_INTERNAL_H_
 #define IOS_WEB_VIEW_INTERNAL_AUTOFILL_CWV_CREDIT_CARD_VERIFIER_INTERNAL_H_
 

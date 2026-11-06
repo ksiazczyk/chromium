@@ -1,0 +1,4 @@
+# Docerion header of cwv_translation_language_detection_details.mm.
+type: source
+title: CWVTranslationLanguageDetectionDetails implementation
+summary: Implements CWVTranslationLanguageDetectionDetails, wrapping Chromium language detection details such as content language, model reliability, no-translate flag, and reliability score.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CWVLookalikeURLHandler internal header
+// summary: Declares the designated initializer of CWVLookalikeURLHandler taking a web state, lookalike URL info, and an HTML callback.
+// ---
+
 #ifndef IOS_WEB_VIEW_INTERNAL_CWV_LOOKALIKE_URL_HANDLER_INTERNAL_H_
 #define IOS_WEB_VIEW_INTERNAL_CWV_LOOKALIKE_URL_HANDLER_INTERNAL_H_
 

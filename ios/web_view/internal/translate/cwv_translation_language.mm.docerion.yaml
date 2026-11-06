@@ -1,0 +1,4 @@
+# Docerion header of cwv_translation_language.mm.
+type: source
+title: CWVTranslationLanguage implementation
+summary: Implements the CWVTranslationLanguage model holding language code, localized and native names, with equality and hash based only on the language code.

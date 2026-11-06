@@ -1,0 +1,4 @@
+# Docerion header of web_view_device_auth_availability_checker.mm.
+type: source
+title: Device auth availability checker implementation
+summary: Checks biometric and device passcode availability using a fresh LAContext each time so enrollment changes are picked up immediately.

@@ -1,0 +1,4 @@
+# Docerion header of web_view_instance_id_profile_service_factory.mm.
+type: source
+title: WebView Instance ID profile service factory implementation
+summary: Builds InstanceIDProfileService instances that depend on the GCM profile service factory for the given browser state.

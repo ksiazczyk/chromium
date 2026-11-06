@@ -1,0 +1,4 @@
+# Docerion header of cwv_web_view_configuration.mm.
+type: source
+title: CWVWebViewConfiguration implementation
+summary: Implements web view configuration managing default, incognito, non-persistent and profile-scoped browser states and their keyed services.

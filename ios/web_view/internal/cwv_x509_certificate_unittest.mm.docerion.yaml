@@ -1,0 +1,4 @@
+# Docerion header of cwv_x509_certificate_unittest.mm.
+type: test
+title: CWVX509Certificate unit tests
+summary: Unit tests verifying CWVX509Certificate initialization, issuer display name and valid expiry against a test certificate.

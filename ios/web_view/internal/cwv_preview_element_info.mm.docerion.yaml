@@ -1,0 +1,4 @@
+# Docerion header of cwv_preview_element_info.mm.
+type: source
+title: CWVPreviewElementInfo implementation
+summary: Implements CWVPreviewElementInfo, which stores the link URL of a previewed element.

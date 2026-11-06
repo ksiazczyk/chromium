@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebViewSafeBrowsingClient interface
+// summary: Declares WebViewSafeBrowsingClient, a SafeBrowsingClient subclass exposing prefs, the v5 get-hash protocol manager, and hooks for unsafe resource decisions in ios/web_view.
+// ---
+
 #ifndef IOS_WEB_VIEW_INTERNAL_SAFE_BROWSING_WEB_VIEW_SAFE_BROWSING_CLIENT_H_
 #define IOS_WEB_VIEW_INTERNAL_SAFE_BROWSING_WEB_VIEW_SAFE_BROWSING_CLIENT_H_
 

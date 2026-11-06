@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CWVHTMLElement internal header
+// summary: Declares the designated initializer of CWVHTMLElement for internal creation with hyperlink, media source, and text.
+// ---
+
 #ifndef IOS_WEB_VIEW_INTERNAL_CWV_HTML_ELEMENT_INTERNAL_H_
 #define IOS_WEB_VIEW_INTERNAL_CWV_HTML_ELEMENT_INTERNAL_H_
 

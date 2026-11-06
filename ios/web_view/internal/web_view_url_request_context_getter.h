@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebView URL request context getter header
+// summary: Declares the WebView implementation of net::URLRequestContextGetter that supplies the network context for the iOS WebView.
+// ---
+
 #ifndef IOS_WEB_VIEW_INTERNAL_WEB_VIEW_URL_REQUEST_CONTEXT_GETTER_H_
 #define IOS_WEB_VIEW_INTERNAL_WEB_VIEW_URL_REQUEST_CONTEXT_GETTER_H_
 

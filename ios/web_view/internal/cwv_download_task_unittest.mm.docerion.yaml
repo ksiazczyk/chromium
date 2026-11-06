@@ -1,0 +1,4 @@
+# Docerion header of cwv_download_task_unittest.mm.
+type: test
+title: CWVDownloadTask unit tests
+summary: Unit tests covering successful, failed and cancelled download flows of CWVDownloadTask using a fake download task and an OCMock delegate.

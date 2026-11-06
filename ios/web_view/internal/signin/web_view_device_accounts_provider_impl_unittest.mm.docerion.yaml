@@ -1,0 +1,4 @@
+# Docerion header of web_view_device_accounts_provider_impl_unittest.mm.
+type: test
+title: WebViewDeviceAccountsProviderImpl unit tests
+summary: Unit tests verifying access token fetching and device account listing through a mocked CWVSyncControllerDataSource.

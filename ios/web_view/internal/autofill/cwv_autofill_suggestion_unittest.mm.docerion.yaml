@@ -1,0 +1,4 @@
+# Docerion header of cwv_autofill_suggestion_unittest.mm.
+type: test
+title: CWVAutofillSuggestion unit tests
+summary: Unit tests verifying CWVAutofillSuggestion initialization, property mapping and GUID payload handling.

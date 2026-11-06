@@ -1,0 +1,4 @@
+# Docerion header of nsobject_description_utils.mm.
+type: source
+title: NSObject description utilities implementation
+summary: Implements CWVPropertiesDescription by copying the class property list via the Objective-C runtime and joining each property's name and value into a newline-separated string.

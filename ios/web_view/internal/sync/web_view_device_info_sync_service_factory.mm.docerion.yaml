@@ -1,0 +1,4 @@
+# Docerion header of web_view_device_info_sync_service_factory.mm.
+type: source
+title: WebView device info sync service factory implementation
+summary: Builds the device info sync service for a browser state, wiring a device info sync client with prefs, sync invalidations, and data type store dependencies.

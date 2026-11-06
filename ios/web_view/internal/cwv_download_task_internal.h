@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CWVDownloadTask internal header
+// summary: Declares the private initializer that wraps a web::DownloadTask inside the public CWVDownloadTask Objective-C class.
+// ---
+
 #ifndef IOS_WEB_VIEW_INTERNAL_CWV_DOWNLOAD_TASK_INTERNAL_H_
 #define IOS_WEB_VIEW_INTERNAL_CWV_DOWNLOAD_TASK_INTERNAL_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of cwv_ssl_error_handler.mm.
+type: source
+title: CWVSSLErrorHandler implementation
+summary: Implements CWVSSLErrorHandler, which exposes SSL error details, displays error page HTML, and allows overriding fatal certificate errors by reloading the page.

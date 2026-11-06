@@ -1,0 +1,4 @@
+# Docerion header of cwv_metrics_provider.mm.
+type: source
+title: CWVMetricsProvider implementation
+summary: Implements the CWVMetricsProvider singleton that wraps a metrics HistogramManager and returns histogram deltas as NSData from consumeMetrics.

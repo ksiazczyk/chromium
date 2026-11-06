@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CWVX509Certificate internal header
+// summary: Internal header declaring the designated initializer that wraps a net::X509Certificate in a CWVX509Certificate.
+// ---
+
 #ifndef IOS_WEB_VIEW_INTERNAL_CWV_X509_CERTIFICATE_INTERNAL_H_
 #define IOS_WEB_VIEW_INTERNAL_CWV_X509_CERTIFICATE_INTERNAL_H_
 

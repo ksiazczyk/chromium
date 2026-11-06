@@ -1,0 +1,4 @@
+# Docerion header of web_view_web_client.mm.
+type: source
+title: WebView web client implementation
+summary: Implements the WebView web client, wiring user agent, resources, JavaScript features, and security interstitial error pages.

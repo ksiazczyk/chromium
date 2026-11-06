@@ -1,0 +1,4 @@
+# Docerion header of cwv_translation_policy_unittest.mm.
+type: test
+title: CWVTranslationPolicy unit tests
+summary: Unit tests verifying the initialization and policy types of the ask, never, and auto-translate CWVTranslationPolicy variants.

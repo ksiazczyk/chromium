@@ -1,0 +1,4 @@
+# Docerion header of cwv_translation_controller_unittest.mm.
+type: test
+title: CWVTranslationController unit tests
+summary: Unit tests for CWVTranslationController covering language detection, translation steps, and delegate behavior using gtest and OCMock with a mocked translate client.

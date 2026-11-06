@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebView V5 search hashes cache factory header
+// summary: Declares the singleton keyed service factory that owns a V5 search hashes cache for each active browser state.
+// ---
+
 #ifndef IOS_WEB_VIEW_INTERNAL_SAFE_BROWSING_WEB_VIEW_V5_SEARCH_HASHES_CACHE_FACTORY_H_
 #define IOS_WEB_VIEW_INTERNAL_SAFE_BROWSING_WEB_VIEW_V5_SEARCH_HASHES_CACHE_FACTORY_H_
 

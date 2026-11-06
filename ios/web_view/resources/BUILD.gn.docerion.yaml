@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: iOS WebView resources build targets
+summary: GN build file that groups and defines repack targets bundling locale strings, general pak resources, and multi-scale assets for the iOS WebView app bundle.

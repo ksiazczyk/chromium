@@ -1,0 +1,4 @@
+# Docerion header of web_view_gcm_profile_service_factory.mm.
+type: source
+title: WebView GCM profile service factory implementation
+summary: Creates GCMProfileService instances for browser states, including UI-thread proxy-resolving socket requests and task runner setup.

@@ -1,0 +1,4 @@
+# Docerion header of web_view_gaia_auth_fetcher.mm.
+type: source
+title: WebViewGaiaAuthFetcher implementation
+summary: Implements WebViewGaiaAuthFetcher, which dispatches ListAccounts requests as not implemented because ios/web_view does not manage Gaia auth cookies.

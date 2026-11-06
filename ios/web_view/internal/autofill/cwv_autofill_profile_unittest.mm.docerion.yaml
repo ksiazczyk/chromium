@@ -1,0 +1,4 @@
+# Docerion header of cwv_autofill_profile_unittest.mm.
+type: test
+title: CWVAutofillProfile unit tests
+summary: Unit tests verifying CWVAutofillProfile initialization and that all profile properties read and write the underlying autofill profile correctly.

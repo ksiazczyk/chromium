@@ -1,0 +1,4 @@
+# Docerion header of cwv_translation_policy.mm.
+type: source
+title: CWVTranslationPolicy implementation
+summary: Implements CWVTranslationPolicy factory methods for ask, never, and auto-translate policies with an optional target language.

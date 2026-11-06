@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebViewScriptsJavaScriptFeature class header
+// summary: Declares WebViewScriptsJavaScriptFeature, a per-BrowserState JavaScript feature that stores optional scripts for all frames and main frame at document start and end.
+// ---
+
 #ifndef IOS_WEB_VIEW_INTERNAL_JS_MESSAGING_WEB_VIEW_SCRIPTS_JAVA_SCRIPT_FEATURE_H_
 #define IOS_WEB_VIEW_INTERNAL_JS_MESSAGING_WEB_VIEW_SCRIPTS_JAVA_SCRIPT_FEATURE_H_
 
