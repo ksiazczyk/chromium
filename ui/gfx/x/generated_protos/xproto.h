@@ -21,6 +21,12 @@
 //    xproto \
 //    xtest
 
+// ---docerion
+// type: source
+// title: Generated core X11 protocol header
+// summary: Auto-generated declarations for the core X11 protocol, defining fundamental enums and types such as Window, Atom, EventMask, and KeyButMask.
+// ---
+
 #ifndef UI_GFX_X_GENERATED_PROTOS_XPROTO_H_
 #define UI_GFX_X_GENERATED_PROTOS_XPROTO_H_
 

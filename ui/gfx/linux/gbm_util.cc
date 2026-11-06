@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GBM usage flag conversion helpers
+// summary: Maps gfx buffer usages and native pixmap usage sets to the corresponding GBM buffer object usage flags.
+// ---
+
 #include "ui/gfx/linux/gbm_util.h"
 
 #include "base/notreached.h"

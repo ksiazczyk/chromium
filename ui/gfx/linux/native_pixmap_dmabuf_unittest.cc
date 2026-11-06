@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NativePixmapDmaBuf unit tests
+// summary: Parameterized unit tests verifying conversion between NativePixmapHandle and NativePixmapDmaBuf for single- and multi-plane formats.
+// ---
+
 #include "ui/gfx/linux/native_pixmap_dmabuf.h"
 
 #include <fcntl.h>

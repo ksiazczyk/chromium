@@ -1,0 +1,4 @@
+# Docerion header of range_mac.mm.
+type: source
+title: macOS NSRange conversions for gfx::Range
+summary: Implements conversion between gfx::Range and NSRange, including handling of invalid and out-of-bounds NSRange values.

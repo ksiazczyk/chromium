@@ -21,6 +21,12 @@
 //    xproto \
 //    xtest
 
+// ---docerion
+// type: source
+// title: Generated X11 Render extension protocol bindings
+// summary: Declares the generated x11::Render class with picture operations, formats, errors and request types for the X11 Render extension, version 0.11.
+// ---
+
 #ifndef UI_GFX_X_GENERATED_PROTOS_RENDER_H_
 #define UI_GFX_X_GENERATED_PROTOS_RENDER_H_
 

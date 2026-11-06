@@ -1,0 +1,4 @@
+# Docerion header of overlay_priority_hint.mojom.
+type: source
+title: OverlayPriorityHint Mojom enum
+summary: Defines the Mojo enum mirroring gfx::OverlayPriorityHint values used to hint overlay compositing priority.

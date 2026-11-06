@@ -1,0 +1,4 @@
+# Docerion header of hdr_static_metadata.mojom.
+type: source
+title: HDRStaticMetadata Mojom definition
+summary: Defines the Mojo transport struct for gfx::HDRStaticMetadata with max, max average and min luminance values plus a supported EOTF mask.

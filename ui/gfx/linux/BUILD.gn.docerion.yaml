@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for Linux gfx DRM, GBM and X11 support
+summary: Defines GN source sets for DRM utilities, GBM buffer support, optional X11 GBM support and test mocks in ui/gfx/linux.

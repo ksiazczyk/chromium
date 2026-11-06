@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dmabuf client native pixmap factory declaration
+// summary: Declares the factory function that creates a dmabuf-based client native pixmap factory for Linux.
+// ---
+
 #ifndef UI_GFX_LINUX_CLIENT_NATIVE_PIXMAP_FACTORY_DMABUF_H_
 #define UI_GFX_LINUX_CLIENT_NATIVE_PIXMAP_FACTORY_DMABUF_H_
 

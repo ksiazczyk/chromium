@@ -1,0 +1,4 @@
+# Docerion header of menu_text_elider_mac.mm.
+type: source
+title: Menu item title elider implementation
+summary: Implements menu item title eliding with middle ellipsis measured against a cached system menu font.

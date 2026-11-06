@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeyboardState interface for keycode and keysym conversion
+// summary: Declares the KeyboardState interface used by the X11 Connection to convert between keycodes and keysyms, plus a factory function.
+// ---
+
 #ifndef UI_GFX_X_KEYBOARD_STATE_H_
 #define UI_GFX_X_KEYBOARD_STATE_H_
 

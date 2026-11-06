@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CrashIdHelper unit tests
+// summary: Unit tests verifying CurrentCrashId behavior for single ids, nested message loops, and joined id lists.
+// ---
+
 #include "ui/gfx/win/crash_id_helper.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

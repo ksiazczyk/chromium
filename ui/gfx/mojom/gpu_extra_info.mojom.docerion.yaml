@@ -1,0 +1,4 @@
+# Docerion header of gpu_extra_info.mojom.
+type: source
+title: GpuExtraInfo mojom definition
+summary: Defines Mojo structs for ANGLEFeature and GpuExtraInfo, mirroring gfx::GpuExtraInfo with a list of features queried from ANGLE.

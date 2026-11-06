@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HDRMetadata Mojo struct traits implementation
+// summary: Implements the mojo StructTraits Read function that maps HDRMetadata mojom fields into Skia HDR metadata objects on gfx::HDRMetadata.
+// ---
+
 #include "ui/gfx/mojom/hdr_metadata_mojom_traits.h"
 
 #include "third_party/skia/include/private/SkHdrMetadata.h"

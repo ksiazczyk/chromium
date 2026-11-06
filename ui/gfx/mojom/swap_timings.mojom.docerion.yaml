@@ -1,0 +1,4 @@
+# Docerion header of swap_timings.mojom.
+type: source
+title: Mojom definition of gfx::SwapTimings
+summary: Defines the Mojo struct mirroring gfx::SwapTimings, holding the swap start and end TimeTicks values.

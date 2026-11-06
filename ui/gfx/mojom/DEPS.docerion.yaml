@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the gfx Mojom directory
+summary: Restricts includes in the directory to Mojo public headers, with per-file exceptions for specific Mojom traits headers.

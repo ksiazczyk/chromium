@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GLX visual picker header
+// summary: Declares PickBestVisuals, which finds X11 visuals supporting GL and double buffering, with an alpha channel only when wanted.
+// ---
+
 #ifndef UI_GFX_X_VISUAL_PICKER_GLX_H_
 #define UI_GFX_X_VISUAL_PICKER_GLX_H_
 

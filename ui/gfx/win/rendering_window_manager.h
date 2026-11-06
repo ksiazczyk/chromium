@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Rendering window manager interface
+// summary: Declares the RenderingWindowManager singleton that tracks which parent HWNDs have a child window the GPU process renders into.
+// ---
+
 #ifndef UI_GFX_WIN_RENDERING_WINDOW_MANAGER_H_
 #define UI_GFX_WIN_RENDERING_WINDOW_MANAGER_H_
 

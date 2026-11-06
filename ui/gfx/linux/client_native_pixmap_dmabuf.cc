@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client native pixmap dmabuf implementation
+// summary: Implements mapping, CPU access, DMA_BUF sync ioctls and configuration checks for dmabuf-backed client native pixmaps on Linux.
+// ---
+
 #include "ui/gfx/linux/client_native_pixmap_dmabuf.h"
 
 #include <fcntl.h>

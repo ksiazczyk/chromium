@@ -21,6 +21,12 @@
 //    xproto \
 //    xtest
 
+// ---docerion
+// type: source
+// title: Generated X11 error parser registration for all extensions
+// summary: Implements Connection::InitErrorParsers, registering error parsers for every supported X11 extension including GLX, RandR, Render and others.
+// ---
+
 #include "ui/gfx/x/connection.h"
 #include "ui/gfx/x/error.h"
 #include "ui/gfx/x/xproto_internal.h"

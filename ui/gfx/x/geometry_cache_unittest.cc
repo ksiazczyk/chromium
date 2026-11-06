@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GeometryCache unit tests
+// summary: Unit tests for GeometryCache covering construction, bounds retrieval, geometry updates, and bounds-changed callback invocation on a live X11 connection.
+// ---
+
 #include "ui/gfx/x/geometry_cache.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

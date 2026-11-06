@@ -21,6 +21,12 @@
 //    xproto \
 //    xtest
 
+// ---docerion
+// type: source
+// title: Generated DRI3 extension implementation
+// summary: Generated C++ implementation of the X11 DRI3 extension, covering version queries, buffer and pixmap sharing, and fence requests with FD passing.
+// ---
+
 #include "dri3.h"
 
 #include <unistd.h>

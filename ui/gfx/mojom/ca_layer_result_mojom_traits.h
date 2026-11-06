@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CALayerResult Mojo traits header
+// summary: Declares Mojo EnumTraits converting gfx::CALayerResult to and from the Mojo enum, guarded to compile only on Apple platforms.
+// ---
+
 #ifndef UI_GFX_MOJOM_CA_LAYER_RESULT_MOJOM_TRAITS_H_
 #define UI_GFX_MOJOM_CA_LAYER_RESULT_MOJOM_TRAITS_H_
 

@@ -21,6 +21,12 @@
 //    xproto \
 //    xtest
 
+// ---docerion
+// type: source
+// title: Generated X11 ScreenSaver extension protocol implementation
+// summary: Implements request serialization plus event, reply and error reading for the generated x11::ScreenSaver class of the X11 ScreenSaver extension.
+// ---
+
 #include "screensaver.h"
 
 #include <unistd.h>

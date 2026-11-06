@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PropertyCache unit tests
+// summary: Unit tests verifying synchronous and asynchronous property retrieval, change-event handling, and typed accessors of PropertyCache.
+// ---
+
 #include "ui/gfx/x/property_cache.h"
 
 #include <memory>

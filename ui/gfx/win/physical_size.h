@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Display physical size interface
+// summary: Declares the PhysicalDisplaySize struct and GetPhysicalSizeForDisplays, which returns the physical size of all connected displays.
+// ---
+
 #ifndef UI_GFX_WIN_PHYSICAL_SIZE_H_
 #define UI_GFX_WIN_PHYSICAL_SIZE_H_
 

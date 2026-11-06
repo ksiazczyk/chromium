@@ -1,0 +1,4 @@
+# Docerion header of linear_gradient.mojom.
+type: source
+title: LinearGradient Mojom definition
+summary: Defines Mojo transport structs for gfx::LinearGradient and its Step type, holding an angle and up to eight fraction and alpha steps.

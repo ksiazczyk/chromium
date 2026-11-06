@@ -1,0 +1,4 @@
+# Docerion header of README.txt.
+type: readme
+title: Generated X11 protocol files README
+summary: Explains how to regenerate the generated X11 protocol sources by enabling a GN argument and running gen_xproto.py through Ninja, then copying and formatting the output.

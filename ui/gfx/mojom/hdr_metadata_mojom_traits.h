@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HDR metadata Mojo traits header
+// summary: Declares Mojo StructTraits that map gfx::HDRMetadata, including CLLI, MDCV and adaptive global tone mapping data, to its Mojom wire format.
+// ---
+
 #ifndef UI_GFX_MOJOM_HDR_METADATA_MOJOM_TRAITS_H_
 #define UI_GFX_MOJOM_HDR_METADATA_MOJOM_TRAITS_H_
 

@@ -21,6 +21,12 @@
 //    xproto \
 //    xtest
 
+// ---docerion
+// type: source
+// title: Generated X11 ScreenSaver extension protocol bindings
+// summary: Declares the generated x11::ScreenSaver class with state kinds, notify events and requests such as QueryVersion, QueryInfo and SelectInput.
+// ---
+
 #ifndef UI_GFX_X_GENERATED_PROTOS_SCREENSAVER_H_
 #define UI_GFX_X_GENERATED_PROTOS_SCREENSAVER_H_
 

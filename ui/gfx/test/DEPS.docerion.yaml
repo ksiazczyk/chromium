@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for gfx unit tests
+summary: Grants run_all_unittests.cc access to the Mojo embedder, resource bundle, and UI base path headers needed by the gfx test binary.

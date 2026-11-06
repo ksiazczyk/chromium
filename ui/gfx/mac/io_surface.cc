@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IOSurface creation and pixel format helpers
+// summary: Implements IOSurface creation and maps CVPixelFormats to shared image formats with color range and capability flags.
+// ---
+
 #include "ui/gfx/mac/io_surface.h"
 
 #include <Availability.h>

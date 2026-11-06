@@ -1,0 +1,4 @@
+# Docerion header of color_space.mojom.
+type: source
+title: ColorSpace mojom definitions
+summary: Defines Mojo enums and a ColorSpace struct mirroring gfx::ColorSpace with primaries, transfer, matrix, range identifiers, and custom parameters.

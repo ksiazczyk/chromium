@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dmabuf client native pixmap factory implementation
+// summary: Implements a client native pixmap factory that imports dmabuf handles and validates their size, format and usage on Linux.
+// ---
+
 #include "ui/gfx/linux/client_native_pixmap_factory_dmabuf.h"
 
 #include <utility>

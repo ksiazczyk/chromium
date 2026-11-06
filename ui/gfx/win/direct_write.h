@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DirectWrite utility declarations
+// summary: Declares functions for DirectWrite initialization, global factory access, font sideloading for testing, and localized font name retrieval.
+// ---
+
 #ifndef UI_GFX_WIN_DIRECT_WRITE_H_
 #define UI_GFX_WIN_DIRECT_WRITE_H_
 

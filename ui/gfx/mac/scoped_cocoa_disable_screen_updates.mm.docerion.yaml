@@ -1,0 +1,4 @@
+# Docerion header of scoped_cocoa_disable_screen_updates.mm.
+type: source
+title: Scoped Cocoa disable screen updates implementation
+summary: Implements the ScopedCocoaDisableScreenUpdates RAII helper, which begins and ends NSAnimationContext grouping so Cocoa screen updates are suppressed for the object's lifetime.

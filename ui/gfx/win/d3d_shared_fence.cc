@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D3DSharedFence implementation
+// summary: Implements creation and management of shared D3D11 and D3D12 fences, including shared handle duplication and fence value handling.
+// ---
+
 #include "ui/gfx/win/d3d_shared_fence.h"
 
 #include "base/debug/alias.h"

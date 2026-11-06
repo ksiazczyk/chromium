@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Color space conversion to CoreVideo image buffer keys
+// summary: Declares functions converting a gfx::ColorSpace to and from CoreVideo kCVImageBuffer primaries, transfer, and matrix keys.
+// ---
+
 #ifndef UI_GFX_MAC_COLOR_SPACE_UTIL_H_
 #define UI_GFX_MAC_COLOR_SPACE_UTIL_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS delegating mojom files to security reviewers
+summary: Assigns ownership of mojom, traits, and typemap files to the IPC security owners with no parent approval.

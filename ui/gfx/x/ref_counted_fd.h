@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RefCountedFD class declaration
+// summary: Declares RefCountedFD, a reference-counted file descriptor wrapper used for X11 request argument forwarding.
+// ---
+
 #ifndef UI_GFX_X_REF_COUNTED_FD_H_
 #define UI_GFX_X_REF_COUNTED_FD_H_
 

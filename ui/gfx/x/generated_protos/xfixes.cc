@@ -21,6 +21,12 @@
 //    xproto \
 //    xtest
 
+// ---docerion
+// type: source
+// title: Generated X11 XFixes extension protocol implementation
+// summary: Auto-generated implementation of the X11 XFixes extension, reading its selection and cursor notify events and errors and encoding requests such as QueryVersion.
+// ---
+
 #include "xfixes.h"
 
 #include <unistd.h>

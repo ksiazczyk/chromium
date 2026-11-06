@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo traits for gfx::SelectionBound
+// summary: Converts the gfx::SelectionBound type enum and edge point fields to and from their Mojo representation via EnumTraits and StructTraits.
+// ---
+
 #ifndef UI_GFX_MOJOM_SELECTION_BOUND_MOJOM_TRAITS_H_
 #define UI_GFX_MOJOM_SELECTION_BOUND_MOJOM_TRAITS_H_
 

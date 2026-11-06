@@ -21,6 +21,12 @@
 //    xproto \
 //    xtest
 
+// ---docerion
+// type: source
+// title: Generated X11 Shape extension protocol implementation
+// summary: Implements request serialization plus event, reply and error reading for the generated x11::Shape class of the X11 Shape extension.
+// ---
+
 #include "shape.h"
 
 #include <unistd.h>

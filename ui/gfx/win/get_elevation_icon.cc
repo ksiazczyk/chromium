@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Elevation icon retrieval
+// summary: Implements GetElevationIcon, which fetches the Windows UAC security shield stock icon and converts it to a SkBitmap when User Account Control is enabled.
+// ---
+
 #include "ui/gfx/win/get_elevation_icon.h"
 
 #include <windows.h>

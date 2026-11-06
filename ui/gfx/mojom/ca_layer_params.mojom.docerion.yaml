@@ -1,0 +1,4 @@
+# Docerion header of ca_layer_params.mojom.
+type: source
+title: CALayerParams Mojom definitions for macOS CoreAnimation
+summary: Defines CAContext, CALayerContent, and CALayerParams Mojom types describing macOS CoreAnimation layer content and geometry.

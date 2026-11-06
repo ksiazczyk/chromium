@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Delegated ink point Mojom traits header
+// summary: Declares the mojo StructTraits mapping between gfx::DelegatedInkPoint and its Mojom data view, with point, timestamp, and pointer ID accessors.
+// ---
+
 #ifndef UI_GFX_MOJOM_DELEGATED_INK_POINT_MOJOM_TRAITS_H_
 #define UI_GFX_MOJOM_DELEGATED_INK_POINT_MOJOM_TRAITS_H_
 

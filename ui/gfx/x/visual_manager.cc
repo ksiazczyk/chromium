@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VisualManager implementation
+// summary: Implements selection and management of X11 visuals, including opaque and transparent ARGB visuals and compositor selection tracking.
+// ---
+
 #include "ui/gfx/x/visual_manager.h"
 
 #include <bitset>

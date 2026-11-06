@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Font render params Mojom traits header
+// summary: Declares mojo EnumTraits converting between gfx::FontRenderParams hinting and subpixel rendering enums and their Mojom counterparts.
+// ---
+
 #ifndef UI_GFX_MOJOM_FONT_RENDER_PARAMS_MOJOM_TRAITS_H_
 #define UI_GFX_MOJOM_FONT_RENDER_PARAMS_MOJOM_TRAITS_H_
 

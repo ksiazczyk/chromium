@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GBM usage flag conversion declarations
+// summary: Declares functions that convert buffer usage enums into GBM buffer object usage flags.
+// ---
+
 #ifndef UI_GFX_LINUX_GBM_UTIL_H_
 #define UI_GFX_LINUX_GBM_UTIL_H_
 

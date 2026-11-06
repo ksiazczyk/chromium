@@ -21,6 +21,12 @@
 //    xproto \
 //    xtest
 
+// ---docerion
+// type: source
+// title: Generated X11 RandR extension protocol bindings
+// summary: Declares the generated x11::RandR class with enums, errors, requests and replies for the X11 Resize and Rotate extension, version 1.6.
+// ---
+
 #ifndef UI_GFX_X_GENERATED_PROTOS_RANDR_H_
 #define UI_GFX_X_GENERATED_PROTOS_RANDR_H_
 

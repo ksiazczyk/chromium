@@ -21,6 +21,12 @@
 //    xproto \
 //    xtest
 
+// ---docerion
+// type: source
+// title: Generated DRI3 extension header
+// summary: Generated C++ header declaring the Dri3 class with request, reply, and error types for the X11 DRI3 extension.
+// ---
+
 #ifndef UI_GFX_X_GENERATED_PROTOS_DRI3_H_
 #define UI_GFX_X_GENERATED_PROTOS_DRI3_H_
 

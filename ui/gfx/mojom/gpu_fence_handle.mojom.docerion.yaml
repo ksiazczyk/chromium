@@ -1,0 +1,4 @@
+# Docerion header of gpu_fence_handle.mojom.
+type: source
+title: GpuFenceHandle mojom definition
+summary: Defines the Mojo GpuFenceHandle struct holding a platform fence handle, using a native file descriptor on POSIX and a native handle on Windows.

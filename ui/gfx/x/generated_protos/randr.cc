@@ -21,6 +21,12 @@
 //    xproto \
 //    xtest
 
+// ---docerion
+// type: source
+// title: Generated RandR extension implementation
+// summary: Generated C++ implementation of the X11 RandR extension, including error classes and serialization for display configuration requests and replies.
+// ---
+
 #include "randr.h"
 
 #include <unistd.h>

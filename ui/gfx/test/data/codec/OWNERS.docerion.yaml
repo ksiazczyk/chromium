@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Codec test data OWNERS
+summary: Points to the OWNERS file of ui/gfx/codec, delegating review ownership for the codec test data directory.

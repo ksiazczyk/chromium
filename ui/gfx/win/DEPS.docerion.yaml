@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for ui/gfx/win
+summary: Defines the allowed include dependencies for the ui/gfx/win directory, permitting includes from components/crash.

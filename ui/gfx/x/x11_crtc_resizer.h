@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11CrtcResizer class declaration
+// summary: Declares a helper class for DesktopResizerX11 that manages the layout and resizing of active CRTCs without extra server round-trips.
+// ---
+
 #ifndef UI_GFX_X_X11_CRTC_RESIZER_H_
 #define UI_GFX_X_X11_CRTC_RESIZER_H_
 

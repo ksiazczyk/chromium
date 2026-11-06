@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped DC map mode helper
+// summary: RAII helper that sets a GDI map mode on a device context and restores the previous mode on destruction.
+// ---
+
 #ifndef UI_GFX_WIN_SCOPED_SET_MAP_MODE_H_
 #define UI_GFX_WIN_SCOPED_SET_MAP_MODE_H_
 

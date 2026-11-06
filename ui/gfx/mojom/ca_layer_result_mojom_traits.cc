@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CALayerResult Mojo traits implementation
+// summary: Implements conversion between gfx::CALayerResult and its Mojo enum for Apple builds, hitting NOTREACHED for unmapped error codes.
+// ---
+
 #include "ui/gfx/mojom/ca_layer_result_mojom_traits.h"
 
 #include "base/notreached.h"

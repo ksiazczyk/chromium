@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo traits for gfx::SwapTimings
+// summary: Maps the gfx::SwapTimings swap start and end timestamps to and from its Mojo representation via StructTraits.
+// ---
+
 #ifndef UI_GFX_MOJOM_SWAP_TIMINGS_MOJOM_TRAITS_H_
 #define UI_GFX_MOJOM_SWAP_TIMINGS_MOJOM_TRAITS_H_
 

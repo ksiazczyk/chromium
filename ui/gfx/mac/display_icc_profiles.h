@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplayICCProfiles map declaration
+// summary: Declares DisplayICCProfiles, a map from color spaces to display ICC profile data used for power-efficient IOSurface compositing.
+// ---
+
 #ifndef UI_GFX_MAC_DISPLAY_ICC_PROFILES_H_
 #define UI_GFX_MAC_DISPLAY_ICC_PROFILES_H_
 

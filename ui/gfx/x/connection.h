@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 connection class declaration
+// summary: Declares x11::Connection with window manager and size hints, sequence ID comparison helpers, and the main interface to the X server.
+// ---
+
 #ifndef UI_GFX_X_CONNECTION_H_
 #define UI_GFX_X_CONNECTION_H_
 

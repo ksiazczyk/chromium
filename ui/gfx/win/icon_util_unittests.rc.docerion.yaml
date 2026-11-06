@@ -1,0 +1,4 @@
+# Docerion header of icon_util_unittests.rc.
+type: asset
+title: Resource script for icon_util unit tests
+summary: Visual C++ resource script that embeds the test application icon into the icon_util unit test binary.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mask filter info Mojo traits header
+// summary: Declares Mojo StructTraits that expose gfx::MaskFilterInfo rounded corner bounds, gradient mask and clip id for serialization.
+// ---
+
 #ifndef UI_GFX_MOJOM_MASK_FILTER_INFO_MOJOM_TRAITS_H_
 #define UI_GFX_MOJOM_MASK_FILTER_INFO_MOJOM_TRAITS_H_
 

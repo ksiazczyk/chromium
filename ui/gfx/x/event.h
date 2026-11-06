@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 event class declaration
+// summary: Declares the x11::Event class wrapping X11 events with type-erased lazy parsing, send-event and fabricated flags, and sequence tracking.
+// ---
+
 #ifndef UI_GFX_X_EVENT_H_
 #define UI_GFX_X_EVENT_H_
 

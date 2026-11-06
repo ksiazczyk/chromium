@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window cache header
+// summary: Declares WindowCache and helpers that cache X11 window state, including geometry, properties, shape rects and stacking order.
+// ---
+
 #ifndef UI_GFX_X_WINDOW_CACHE_H_
 #define UI_GFX_X_WINDOW_CACHE_H_
 

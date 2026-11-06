@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the X11 graphics component
+summary: Defines the gfx_x11 component, Xlib library loaders, and generation or copying of X11 protocol sources for the ui/gfx/x directory.

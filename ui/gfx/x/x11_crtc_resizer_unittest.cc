@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: X11 CRTC resizer unit tests
+// summary: Unit tests checking CRTC layout behavior such as shifting to make room and keeping horizontal, vertical, and edge alignments.
+// ---
+
 #include "ui/gfx/x/x11_crtc_resizer.h"
 
 #include <inttypes.h>

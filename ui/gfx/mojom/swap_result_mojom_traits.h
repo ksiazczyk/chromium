@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo traits for gfx::SwapResult
+// summary: Maps gfx::SwapResult enum values such as ACK, FAILED and SKIPPED to and from their Mojo counterparts via EnumTraits.
+// ---
+
 #ifndef UI_GFX_MOJOM_SWAP_RESULT_MOJOM_TRAITS_H_
 #define UI_GFX_MOJOM_SWAP_RESULT_MOJOM_TRAITS_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for ui/gfx/win
+summary: Lists code owners for the directory, with per-file owners for DirectWrite font code and Direct3D related classes.

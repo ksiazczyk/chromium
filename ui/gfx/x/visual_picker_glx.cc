@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GLX visual picker implementation
+// summary: Implements picking of the best X11 visuals for GL by scoring GLX visual configs for double buffering, alpha and other properties.
+// ---
+
 #include "ui/gfx/x/visual_picker_glx.h"
 
 #include <algorithm>

@@ -1,0 +1,4 @@
+# Docerion header of display_color_spaces.mojom.
+type: source
+title: Display color spaces Mojom definition
+summary: Defines the ContentColorUsage enum and DisplayColorSpaces struct describing display color spaces, formats, primaries, and luminance limits.

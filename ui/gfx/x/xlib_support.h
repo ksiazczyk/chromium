@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Xlib support declarations
+// summary: Declares InitXlib, SetXlibErrorHandler, XlibFree, and the scoped XlibDisplay class that exposes an xcb connection.
+// ---
+
 #ifndef UI_GFX_X_XLIB_SUPPORT_H_
 #define UI_GFX_X_XLIB_SUPPORT_H_
 

@@ -21,6 +21,12 @@
 //    xproto \
 //    xtest
 
+// ---docerion
+// type: source
+// title: Generated X11 XKB extension protocol header
+// summary: Auto-generated declarations for the X11 XKB keyboard extension, defining its event, control, and map enums along with event, error, and request types.
+// ---
+
 #ifndef UI_GFX_X_GENERATED_PROTOS_XKB_H_
 #define UI_GFX_X_GENERATED_PROTOS_XKB_H_
 

@@ -21,6 +21,12 @@
 //    xproto \
 //    xtest
 
+// ---docerion
+// type: source
+// title: Generated BIG-REQUESTS extension implementation
+// summary: Generated C++ implementation of the X11 BIG-REQUESTS extension, sending the Enable request and parsing its reply over the X connection.
+// ---
+
 #include "bigreq.h"
 
 #include <unistd.h>

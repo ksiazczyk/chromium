@@ -9,6 +9,12 @@
 # with xcbgen, a python library that parses the files into python data
 # structures for us.
 
+# ---docerion
+# type: script
+# title: X11 protocol C++ binding generator
+# summary: Python script that generates C++ header and source bindings for the X11 protocol and its extensions from xcbproto's xcbgen-parsed XML definitions.
+# ---
+
 import argparse
 import collections
 import itertools

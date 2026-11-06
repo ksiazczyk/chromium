@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Read and write buffers for the X11 protocol
+// summary: Implements read and write buffers plus sized memory adapters used to parse replies and build X11 protocol messages.
+// ---
+
 #include "ui/gfx/x/xproto_types.h"
 
 #include <xcb/xcbext.h>

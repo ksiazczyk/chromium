@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PropertyCache class for X11 window properties
+// summary: Declares PropertyCache, which watches and caches X11 window property values and invokes a callback when properties change.
+// ---
+
 #ifndef UI_GFX_X_PROPERTY_CACHE_H_
 #define UI_GFX_X_PROPERTY_CACHE_H_
 

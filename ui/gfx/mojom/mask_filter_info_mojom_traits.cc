@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mask filter info Mojo traits implementation
+// summary: Implements deserialization of gfx::MaskFilterInfo from Mojom, handling the gradient mask and optional clip id.
+// ---
+
 #include "ui/gfx/mojom/mask_filter_info_mojom_traits.h"
 
 namespace mojo {

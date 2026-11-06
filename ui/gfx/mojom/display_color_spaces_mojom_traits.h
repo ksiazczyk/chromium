@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Display color spaces Mojom traits header
+// summary: Declares mojo EnumTraits and StructTraits for gfx::DisplayColorSpaces and ContentColorUsage, exported for shared use.
+// ---
+
 #ifndef UI_GFX_MOJOM_DISPLAY_COLOR_SPACES_MOJOM_TRAITS_H_
 #define UI_GFX_MOJOM_DISPLAY_COLOR_SPACES_MOJOM_TRAITS_H_
 

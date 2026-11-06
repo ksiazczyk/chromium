@@ -21,6 +21,12 @@
 //    xproto \
 //    xtest
 
+// ---docerion
+// type: source
+// title: Generated X11 XKB extension protocol implementation
+// summary: Auto-generated implementation of the X11 XKB keyboard extension, reading its keyboard errors and events such as new keyboard, map, and state notifications.
+// ---
+
 #include "xkb.h"
 
 #include <unistd.h>

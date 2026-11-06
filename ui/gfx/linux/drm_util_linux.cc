@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DRM format conversion utilities
+// summary: Converts between viz shared image formats and DRM FourCC formats and validates or names DRM formats.
+// ---
+
 #include "ui/gfx/linux/drm_util_linux.h"
 
 #include <drm_fourcc.h>

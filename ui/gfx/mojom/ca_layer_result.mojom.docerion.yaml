@@ -1,0 +1,4 @@
+# Docerion header of ca_layer_result.mojom.
+type: source
+title: CALayerResult mojom enum
+summary: Defines the gfx.mojom CALayerResult enum listing success and failure codes for Apple CALayer rendering, mirroring gfx::CALayerResult.

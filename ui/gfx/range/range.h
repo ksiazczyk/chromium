@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the gfx::Range integer range class
+// summary: Defines a forward or reverse integer range class with validity checks, intersection, containment, and NSRange support on Apple platforms.
+// ---
+
 #ifndef UI_GFX_RANGE_RANGE_H_
 #define UI_GFX_RANGE_RANGE_H_
 

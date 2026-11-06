@@ -21,6 +21,12 @@
 //    xproto \
 //    xtest
 
+// ---docerion
+// type: source
+// title: Generated XTEST extension client implementation
+// summary: Auto-generated C++ implementation of the X11 XTEST extension client, serializing requests such as GetVersion, CompareCursor, FakeInput and GrabControl and parsing their replies over the X connection.
+// ---
+
 #include "xtest.h"
 
 #include <unistd.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrashIdHelper class declaration
+// summary: Declares the CrashIdHelper class, an RAII-based helper that logs the id of the window or widget dispatching events into crash dumps.
+// ---
+
 #ifndef UI_GFX_WIN_CRASH_ID_HELPER_H_
 #define UI_GFX_WIN_CRASH_ID_HELPER_H_
 

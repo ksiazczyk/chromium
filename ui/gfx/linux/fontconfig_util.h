@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FontConfig utility declarations for gfx
+// summary: Declares helpers to initialize the global FontConfig, access FcPattern font properties, and derive font render parameters on Linux.
+// ---
+
 #ifndef UI_GFX_LINUX_FONTCONFIG_UTIL_H_
 #define UI_GFX_LINUX_FONTCONFIG_UTIL_H_
 

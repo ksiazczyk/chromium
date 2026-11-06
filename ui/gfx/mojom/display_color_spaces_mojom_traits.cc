@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Display color spaces Mojom traits implementation
+// summary: Implements mojo enum and struct traits that convert between gfx::DisplayColorSpaces, gfx::ContentColorUsage, and their Mojom representations.
+// ---
+
 #include "ui/gfx/mojom/display_color_spaces_mojom_traits.h"
 
 #include "base/notreached.h"

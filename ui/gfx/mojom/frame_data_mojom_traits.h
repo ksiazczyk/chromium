@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameData Mojo struct traits header
+// summary: Declares mojo StructTraits that map the seq and swap_trace_id fields between gfx::FrameData and its FrameData mojom representation.
+// ---
+
 #ifndef UI_GFX_MOJOM_FRAME_DATA_MOJOM_TRAITS_H_
 #define UI_GFX_MOJOM_FRAME_DATA_MOJOM_TRAITS_H_
 

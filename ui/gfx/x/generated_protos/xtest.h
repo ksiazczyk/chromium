@@ -21,6 +21,12 @@
 //    xproto \
 //    xtest
 
+// ---docerion
+// type: source
+// title: Generated XTEST extension client header
+// summary: Auto-generated header declaring the x11::Test class with request and reply structs and methods for the X11 XTEST extension, including GetVersion, CompareCursor, FakeInput and GrabControl.
+// ---
+
 #ifndef UI_GFX_X_GENERATED_PROTOS_XTEST_H_
 #define UI_GFX_X_GENERATED_PROTOS_XTEST_H_
 

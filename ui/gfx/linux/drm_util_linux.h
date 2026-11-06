@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DRM format conversion utility declarations
+// summary: Declares helpers for converting shared image formats to and from DRM FourCC formats and lists the supported formats.
+// ---
+
 #ifndef UI_GFX_LINUX_DRM_UTIL_LINUX_H_
 #define UI_GFX_LINUX_DRM_UTIL_LINUX_H_
 

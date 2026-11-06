@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped Cocoa screen update disabler
+// summary: Declares a scoped RAII class that disables Cocoa screen updates while alive, relying on Cocoa's one-second limit.
+// ---
+
 #ifndef UI_GFX_MAC_SCOPED_COCOA_DISABLE_SCREEN_UPDATES_H_
 #define UI_GFX_MAC_SCOPED_COCOA_DISABLE_SCREEN_UPDATES_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DelegatedInkMetadata Mojo traits header
+// summary: Declares StructTraits exposing DelegatedInkMetadata fields and null handling for Mojo serialization of delegated ink metadata.
+// ---
+
 #ifndef UI_GFX_MOJOM_DELEGATED_INK_METADATA_MOJOM_TRAITS_H_
 #define UI_GFX_MOJOM_DELEGATED_INK_METADATA_MOJOM_TRAITS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window cache implementation
+// summary: Implements WindowCache, which maintains a cached state of all X11 windows and resolves the window at a given point.
+// ---
+
 #include "ui/gfx/x/window_cache.h"
 
 #include <algorithm>

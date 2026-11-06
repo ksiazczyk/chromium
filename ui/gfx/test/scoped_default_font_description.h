@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped default font description helper
+// summary: RAII helper that sets a default font description for a test and resets it when the scope exits.
+// ---
+
 #ifndef UI_GFX_TEST_SCOPED_DEFAULT_FONT_DESCRIPTION_H_
 #define UI_GFX_TEST_SCOPED_DEFAULT_FONT_DESCRIPTION_H_
 

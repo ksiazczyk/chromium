@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GBM support over X11 implementation
+// summary: Obtains an authenticated DRM file descriptor via X11 DRI3, creates a GbmDevice, and probes supported buffer usage and format combinations.
+// ---
+
 #include "ui/gfx/linux/gbm_support_x11.h"
 
 #include <fcntl.h>

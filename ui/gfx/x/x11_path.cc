@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skia to X region conversion
+// summary: Converts Skia regions and paths into lists of X11 Rectangle structures for use as X regions.
+// ---
+
 #include "ui/gfx/x/x11_path.h"
 
 #include <memory>

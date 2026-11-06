@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TextAnalysisSource header for DirectWrite text analysis
+// summary: Declares a WRL runtime class implementing IDWriteTextAnalysisSource, constructed through a factory Create method.
+// ---
+
 #ifndef UI_GFX_WIN_TEXT_ANALYSIS_SOURCE_H_
 #define UI_GFX_WIN_TEXT_ANALYSIS_SOURCE_H_
 

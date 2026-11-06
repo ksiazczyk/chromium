@@ -1,0 +1,4 @@
+# Docerion header of rrect_f.mojom.
+type: source
+title: Mojom definition of gfx::RRectF
+summary: Defines the Mojo struct and RRectFType enum for rounded rectangles, mirroring gfx::RRectF with rect and corner radii vectors.

@@ -1,0 +1,4 @@
+# Docerion header of range.mojom.
+type: source
+title: Mojom definitions for Range and RangeF structs
+summary: Declares stable gfx.mojom structs Range and RangeF representing integer and float start-end pairs for Mojo IPC.

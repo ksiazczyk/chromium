@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PropertyCache implementation
+// summary: Implements a cache of X11 window properties that fetches values on creation and refreshes them when property change events arrive.
+// ---
+
 #include "ui/gfx/x/property_cache.h"
 
 #include <limits>

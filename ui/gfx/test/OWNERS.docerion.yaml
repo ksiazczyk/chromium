@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS rules for the gfx test directory
+summary: Assigns owners for font-related files and allows anyone to update test bundle data filelists.

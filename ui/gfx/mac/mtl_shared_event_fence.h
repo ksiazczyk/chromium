@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metal shared event fence wrapper
+// summary: Declares MTLSharedEventFence, a wrapper pairing a Metal shared event with an expected fence value for backpressure.
+// ---
+
 #ifndef UI_GFX_MAC_MTL_SHARED_EVENT_FENCE_H_
 #define UI_GFX_MAC_MTL_SHARED_EVENT_FENCE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SkColor equality macros for tests
+// summary: Declares assertion helpers and the EXPECT_SKCOLOR_EQ and EXPECT_SKCOLOR_CLOSE macros for comparing Skia colors in tests.
+// ---
+
 #ifndef UI_GFX_TEST_SK_COLOR_EQ_H_
 #define UI_GFX_TEST_SK_COLOR_EQ_H_
 

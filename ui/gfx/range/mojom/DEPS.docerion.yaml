@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the range mojom directory
+summary: Grants include access only to mojo/public and ui/gfx/range for code in this directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 CRTC resizer implementation
+// summary: Implements X11CrtcResizer, which fetches, arranges, resizes, and applies RandR CRTC configurations when resizing the desktop.
+// ---
+
 #include "ui/gfx/x/x11_crtc_resizer.h"
 
 #include <algorithm>

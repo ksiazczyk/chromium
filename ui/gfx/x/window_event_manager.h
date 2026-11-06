@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window event manager header
+// summary: Declares ScopedEventSelector and WindowEventManager for selecting and deselecting X11 window events across multiple clients.
+// ---
+
 #ifndef UI_GFX_X_WINDOW_EVENT_MANAGER_H_
 #define UI_GFX_X_WINDOW_EVENT_MANAGER_H_
 

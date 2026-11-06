@@ -1,0 +1,4 @@
+# Docerion header of delegated_ink_metadata.mojom.
+type: source
+title: DelegatedInkMetadata mojom struct
+summary: Defines the DelegatedInkMetadata Mojo struct carrying point, diameter, color, timestamps, presentation area, and hover state.

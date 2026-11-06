@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo traits for gfx::PresentationFeedback
+// summary: Maps gfx::PresentationFeedback fields to and from its Mojo representation via StructTraits, including Apple-specific CALayer error handling.
+// ---
+
 #ifndef UI_GFX_MOJOM_PRESENTATION_FEEDBACK_MOJOM_TRAITS_H_
 #define UI_GFX_MOJOM_PRESENTATION_FEEDBACK_MOJOM_TRAITS_H_
 

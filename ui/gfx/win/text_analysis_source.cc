@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TextAnalysisSource implementation for DirectWrite
+// summary: Implements the IDWriteTextAnalysisSource COM interface for a fixed text chunk with a uniform locale, reading direction and number substitution.
+// ---
+
 #include "ui/gfx/win/text_analysis_source.h"
 
 #include <string_view>

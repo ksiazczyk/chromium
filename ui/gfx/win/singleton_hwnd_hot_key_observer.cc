@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SingletonHwndHotKeyObserver implementation
+// summary: Implements registration of unique hot key IDs on the singleton HWND and forwards matching WM_HOTKEY messages to the owning callback.
+// ---
+
 #include "ui/gfx/win/singleton_hwnd_hot_key_observer.h"
 
 #include <windows.h>

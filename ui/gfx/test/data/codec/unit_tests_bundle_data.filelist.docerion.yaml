@@ -1,0 +1,4 @@
+# Docerion header of unit_tests_bundle_data.filelist.
+type: config
+title: Codec unit tests bundle data filelist
+summary: Generated list of checkerboard PNG test images to include in the iOS unit test bundle for codec tests.

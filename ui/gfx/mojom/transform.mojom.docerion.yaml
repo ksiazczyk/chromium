@@ -1,0 +1,4 @@
+# Docerion header of transform.mojom.
+type: source
+title: Transform Mojom definition
+summary: Defines the gfx.mojom Transform struct, holding either a 2D axis transform or a column-major 4x4 matrix, with null data meaning identity.

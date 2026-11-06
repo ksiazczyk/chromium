@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo traits for gfx::RRectF
+// summary: Converts gfx::RRectF types, rect and corner radii to and from their Mojo representation, building results via RRectFBuilder.
+// ---
+
 #ifndef UI_GFX_MOJOM_RRECT_F_MOJOM_TRAITS_H_
 #define UI_GFX_MOJOM_RRECT_F_MOJOM_TRAITS_H_
 

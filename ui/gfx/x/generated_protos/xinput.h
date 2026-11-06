@@ -21,6 +21,12 @@
 //    xproto \
 //    xtest
 
+// ---docerion
+// type: source
+// title: Generated X11 XInput extension protocol header
+// summary: Auto-generated declarations for the X11 XInput extension, defining device, event, and feedback enums plus its event, error, and request structures.
+// ---
+
 #ifndef UI_GFX_X_GENERATED_PROTOS_XINPUT_H_
 #define UI_GFX_X_GENERATED_PROTOS_XINPUT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows message map macros without ATL
+// summary: Header providing CR_BEGIN_MSG_MAP_EX style message map macros adapted from WTL atlcrack.h for cracked window message handlers without ATL.
+// ---
+
 #ifndef UI_GFX_WIN_MSG_UTIL_H_
 #define UI_GFX_WIN_MSG_UTIL_H_
 

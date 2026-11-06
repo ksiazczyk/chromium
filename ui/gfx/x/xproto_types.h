@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Core types for the X11 protocol implementation
+// summary: Declares unsized and sized ref-counted memory types, read and write buffers, sequence types, and shared constants for the X11 protocol code.
+// ---
+
 #ifndef UI_GFX_X_XPROTO_TYPES_H_
 #define UI_GFX_X_XPROTO_TYPES_H_
 

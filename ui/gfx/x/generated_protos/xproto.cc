@@ -21,6 +21,12 @@
 //    xproto \
 //    xtest
 
+// ---docerion
+// type: source
+// title: Generated core X11 protocol implementation
+// summary: Auto-generated implementation of the core X11 protocol, decoding connection setup data and encoding requests, replies, events, and errors for the X server connection.
+// ---
+
 #include "xproto.h"
 
 #include <unistd.h>

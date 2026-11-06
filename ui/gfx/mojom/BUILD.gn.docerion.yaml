@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for gfx Mojom bindings
+summary: Defines the gfx Mojom bindings target, listing .mojom sources, typemaps, and dependencies for generating C++, Blink, and Java bindings.
