@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 cursor loader implementation
+// summary: Implements XCursorLoader, a port of libxcursor that locates cursor themes, parses X resources, and loads or creates X11 cursors asynchronously.
+// ---
+
 #include "ui/base/x/x11_cursor_loader.h"
 
 #include <dlfcn.h>

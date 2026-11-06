@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 cursor loader header
+// summary: Declares XCursorLoader, a libxcursor port that loads system cursors by name and synchronously creates cursors from bitmaps or image sequences.
+// ---
+
 #ifndef UI_BASE_X_X11_CURSOR_LOADER_H_
 #define UI_BASE_X_X11_CURSOR_LOADER_H_
 

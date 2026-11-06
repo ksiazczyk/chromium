@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User activity power manager notifier implementation
+// summary: Implements notifying the Chrome OS power manager of user activity via D-Bus, mapping key events and input to activity types with rate limiting.
+// ---
+
 #include "ui/chromeos/user_activity_power_manager_notifier.h"
 
 #include "ui/base/user_activity/user_activity_detector.h"

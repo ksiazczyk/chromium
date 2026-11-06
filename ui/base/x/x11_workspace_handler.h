@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11WorkspaceHandler header for workspace change monitoring
+// summary: Declares X11WorkspaceHandler, which listens for global X11 workspace changes on the root window and notifies a delegate when the current workspace ID changes.
+// ---
+
 #ifndef UI_BASE_X_X11_WORKSPACE_HANDLER_H_
 #define UI_BASE_X_X11_WORKSPACE_HANDLER_H_
 

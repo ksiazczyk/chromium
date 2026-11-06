@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 OS exchange data provider implementation
+// summary: Implements the X11 drag-and-drop data provider that owns the XdndSelection, exposes offered clipboard formats, and tracks renderer taint and drag metadata.
+// ---
+
 #include "ui/base/x/x11_os_exchange_data_provider.h"
 
 #include <stdint.h>

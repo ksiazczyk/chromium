@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 selection owner class declaration
+// summary: Declares the SelectionOwner class that tracks and offers X11 selection data to other windows and handles selection and property events.
+// ---
+
 #ifndef UI_BASE_X_SELECTION_OWNER_H_
 #define UI_BASE_X_SELECTION_OWNER_H_
 

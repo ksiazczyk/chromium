@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 global shortcut listener implementation
+// summary: Grabs global key combinations on the X11 root window and dispatches key press events for registered shortcuts.
+// ---
+
 #include "ui/base/x/x11_global_shortcut_listener.h"
 
 #include <stddef.h>

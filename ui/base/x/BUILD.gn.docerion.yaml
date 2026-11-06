@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the ui_base_x component
+summary: Defines the ui_base_x component with its sources and dependencies, plus GL, test support and unit test targets for X11 UI base code.

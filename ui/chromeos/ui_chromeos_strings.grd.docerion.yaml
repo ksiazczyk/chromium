@@ -1,0 +1,4 @@
+# Docerion header of ui_chromeos_strings.grd.
+type: config
+title: UI ChromeOS localized strings resource definition
+summary: GRIT resource file defining localized UI ChromeOS strings and the per-language .pak output files generated for many locales.

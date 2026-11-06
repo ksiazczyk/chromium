@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS device type name utilities
+// summary: Implements helpers that return localized ChromeOS device type names, such as Chromebook or Chromebox, in singular and plural forms.
+// ---
+
 #include "ui/chromeos/devicetype_utils.h"
 
 #include "base/notreached.h"

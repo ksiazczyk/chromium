@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UI ChromeOS export macro header
+// summary: Defines the UI_CHROMEOS_EXPORT macro controlling symbol visibility for component builds of the ui/chromeos library.
+// ---
+
 #ifndef UI_CHROMEOS_UI_CHROMEOS_EXPORT_H_
 #define UI_CHROMEOS_UI_CHROMEOS_EXPORT_H_
 

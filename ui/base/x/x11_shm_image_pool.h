@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 shared memory image pool class
+// summary: Declares XShmImagePool, which creates XImages backed by shared memory shared with the X11 server and manages cached frames and swap callbacks.
+// ---
+
 #ifndef UI_BASE_X_X11_SHM_IMAGE_POOL_H_
 #define UI_BASE_X_X11_SHM_IMAGE_POOL_H_
 

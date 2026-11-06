@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 selection requester class declaration
+// summary: Declares SelectionRequester, which requests and receives data from the X11 server through the selection system used by clipboard and drag and drop.
+// ---
+
 #ifndef UI_BASE_X_SELECTION_REQUESTER_H_
 #define UI_BASE_X_SELECTION_REQUESTER_H_
 

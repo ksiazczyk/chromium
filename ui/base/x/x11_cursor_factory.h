@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 cursor factory header
+// summary: Declares X11CursorFactory, the CursorFactory implementation for X11 that also observes Linux cursor theme name and size changes.
+// ---
+
 #ifndef UI_BASE_X_X11_CURSOR_FACTORY_H_
 #define UI_BASE_X_X11_CURSOR_FACTORY_H_
 

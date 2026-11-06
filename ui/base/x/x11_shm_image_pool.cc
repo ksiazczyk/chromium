@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 shared memory image pool implementation
+// summary: Implements a pool of shared-memory-backed XImages for software rendering, handling segment resizing, MIT-SHM availability checks, and buffer swapping.
+// ---
+
 #include "ui/base/x/x11_shm_image_pool.h"
 
 #include <sys/ipc.h>

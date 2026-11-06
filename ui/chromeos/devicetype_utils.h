@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS device type utility declarations
+// summary: Declares ui namespace functions for substituting and retrieving localized ChromeOS device type names and their resource IDs.
+// ---
+
 #ifndef UI_CHROMEOS_DEVICETYPE_UTILS_H_
 #define UI_CHROMEOS_DEVICETYPE_UTILS_H_
 

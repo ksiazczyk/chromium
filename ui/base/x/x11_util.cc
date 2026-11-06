@@ -6,6 +6,12 @@
 // ported from XCB since we can't use XCB on Ubuntu while its 32-bit support
 // remains woefully incomplete.
 
+// ---docerion
+// type: source
+// title: X11 utility functions implementation
+// summary: Implements X11 helper functions for pixmap drawing, extension and SHM support queries, motion event coalescing, screen saver control, and window property handling.
+// ---
+
 #include "ui/base/x/x11_util.h"
 
 #include <sys/ipc.h>

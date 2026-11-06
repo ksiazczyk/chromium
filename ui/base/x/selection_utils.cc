@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 selection data utilities implementation
+// summary: Implements helpers for X11 selection data such as text and URI atom lists, format maps and conversions between atoms and strings.
+// ---
+
 #include "ui/base/x/selection_utils.h"
 
 #include <stdint.h>

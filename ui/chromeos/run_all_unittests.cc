@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit test entry point for ui/chromeos
+// summary: Main entry point for the ui_chromeos_unittests target that initializes the test suite, GL surface, Aura environment, and Mojo before running tests.
+// ---
+
 #include <memory>
 
 #include "base/compiler_specific.h"

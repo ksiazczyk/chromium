@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 EGL utility header
+// summary: Declares helpers that provide platform extra display attributes and custom alpha and buffer sizes for EGL on X11.
+// ---
+
 #ifndef UI_BASE_X_X11_GL_EGL_UTILITY_H_
 #define UI_BASE_X_X11_GL_EGL_UTILITY_H_
 

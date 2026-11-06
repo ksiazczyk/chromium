@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XrandrIntervalOnlyVSyncProvider header
+// summary: Declares the XrandrIntervalOnlyVSyncProvider class, a gfx::VSyncProvider that supplies vertical sync parameters based on the XRandr refresh interval.
+// ---
+
 #ifndef UI_BASE_X_X11_XRANDR_INTERVAL_ONLY_VSYNC_PROVIDER_H_
 #define UI_BASE_X_X11_XRANDR_INTERVAL_ONLY_VSYNC_PROVIDER_H_
 

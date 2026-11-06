@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for ui/chromeos
+summary: Specifies the directories and headers that files in ui/chromeos may include, with a special rule for run_all_unittests.cc.

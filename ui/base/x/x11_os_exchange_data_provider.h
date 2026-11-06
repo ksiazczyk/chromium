@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 OS exchange data provider class declaration
+// summary: Declares XOSExchangeDataProvider, the X11 implementation of OSExchangeDataProvider for offering and retrieving drag data such as strings, URLs, files, and HTML.
+// ---
+
 #ifndef UI_BASE_X_X11_OS_EXCHANGE_DATA_PROVIDER_H_
 #define UI_BASE_X_X11_OS_EXCHANGE_DATA_PROVIDER_H_
 

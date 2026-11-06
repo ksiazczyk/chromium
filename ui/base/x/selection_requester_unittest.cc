@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the X11 selection requester
+// summary: Tests SelectionRequester conversion requests, type negotiation, timeouts and incremental INCR transfers against an X11 connection.
+// ---
+
 #include "ui/base/x/selection_requester.h"
 
 #include <stddef.h>

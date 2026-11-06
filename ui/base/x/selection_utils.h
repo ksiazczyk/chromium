@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 selection data utilities declarations
+// summary: Declares selection helpers including atom lists, SelectionFormatMap and SelectionData for handling X11 selection data in multiple formats.
+// ---
+
 #ifndef UI_BASE_X_SELECTION_UTILS_H_
 #define UI_BASE_X_SELECTION_UTILS_H_
 

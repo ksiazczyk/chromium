@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 cursor factory implementation
+// summary: Implements the X11 CursorFactory, creating default, image, and animated cursors via XCursorLoader and clearing cached cursors on cursor theme changes.
+// ---
+
 #include "ui/base/x/x11_cursor_factory.h"
 
 #include "third_party/skia/include/core/SkBitmap.h"

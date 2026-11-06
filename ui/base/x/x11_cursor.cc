@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 cursor implementation
+// summary: Implements X11Cursor, a ref-counted PlatformCursor wrapper that stores an X11 cursor resource, notifies load callbacks, and frees the cursor on destruction.
+// ---
+
 #include "ui/base/x/x11_cursor.h"
 
 #include "base/memory/scoped_refptr.h"

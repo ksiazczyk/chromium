@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 desktop window move client implementation
+// summary: Implements X11DesktopWindowMoveClient, which runs an X11 move loop and repositions a window as it is dragged with the mouse.
+// ---
+
 #include "ui/base/x/x11_desktop_window_move_client.h"
 
 #include "base/check.h"

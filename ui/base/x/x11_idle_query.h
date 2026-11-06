@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IdleQueryX11 header
+// summary: Declares IdleQueryX11, which reports user idle time obtained from the X11 screensaver extension.
+// ---
+
 #ifndef UI_BASE_X_X11_IDLE_QUERY_H_
 #define UI_BASE_X_X11_IDLE_QUERY_H_
 

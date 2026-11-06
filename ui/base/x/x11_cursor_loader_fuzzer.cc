@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: X11 cursor loader fuzzer
+// summary: Fuzz test harness that feeds random data and a preferred size to ParseCursorFile to check the robustness of the X11 cursor file parser.
+// ---
+
 #include <stdint.h>
 
 #include <tuple>

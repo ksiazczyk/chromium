@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shill error string helper declarations
+// summary: Declares the shill_error namespace function that converts a shill error code and network ID into a localized error string.
+// ---
+
 #ifndef UI_CHROMEOS_SHILL_ERROR_H_
 #define UI_CHROMEOS_SHILL_ERROR_H_
 

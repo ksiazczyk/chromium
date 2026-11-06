@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 clipboard helper header
+// summary: Declares the XClipboardHelper class providing core X11 clipboard integration such as selection ownership, async reads, and event dispatch for both X11 backends.
+// ---
+
 #ifndef UI_BASE_X_X11_CLIPBOARD_HELPER_H_
 #define UI_BASE_X_X11_CLIPBOARD_HELPER_H_
 

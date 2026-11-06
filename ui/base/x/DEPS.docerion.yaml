@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for ui/base/x dependencies
+summary: Sets DEPS include rules allowing dependencies on dbus, device event log, EGL headers, ui/gl, ui/linux and platform window defaults.

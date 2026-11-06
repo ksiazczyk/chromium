@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 screensaver status check
+// summary: Detects whether an X11 screensaver is active by watching MIT-SCREENSAVER events and the xscreensaver status property, skipping checks in headless mode.
+// ---
+
 #include "ui/base/x/x11_screensaver.h"
 
 #include <memory>

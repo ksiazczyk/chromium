@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: X11 cursor loader unit tests
+// summary: Unit tests verifying that ParseCursorFile parses X cursor files correctly and selects the best matching image size.
+// ---
+
 #include "ui/base/x/x11_cursor_loader.h"
 
 #undef Bool

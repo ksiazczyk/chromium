@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for ui/chromeos
+summary: Defines the ui_chromeos component target with its sources and dependencies, plus the ui_chromeos_unittests test target.

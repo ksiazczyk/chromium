@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 software bitmap presenter header
+// summary: Declares X11SoftwareBitmapPresenter, which paints software-rendered Skia bitmaps to X11 windows with optional multi-buffering backed by a shared memory image pool.
+// ---
+
 #ifndef UI_BASE_X_X11_SOFTWARE_BITMAP_PRESENTER_H_
 #define UI_BASE_X_X11_SOFTWARE_BITMAP_PRESENTER_H_
 

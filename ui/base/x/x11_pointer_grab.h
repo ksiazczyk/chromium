@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 pointer grab API
+// summary: Declares functions for grabbing, ungrabbing, and querying the X11 pointer grab state, including changing the cursor used during an active grab.
+// ---
+
 #ifndef UI_BASE_X_X11_POINTER_GRAB_H_
 #define UI_BASE_X_X11_POINTER_GRAB_H_
 

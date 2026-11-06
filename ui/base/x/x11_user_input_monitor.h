@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 user input monitor header
+// summary: Declares XUserInputMonitor, an X11 event observer that tracks keyboard input counts on the IO thread, kept separate from UserInputMonitorLinux.
+// ---
+
 #ifndef UI_BASE_X_X11_USER_INPUT_MONITOR_H_
 #define UI_BASE_X_X11_USER_INPUT_MONITOR_H_
 

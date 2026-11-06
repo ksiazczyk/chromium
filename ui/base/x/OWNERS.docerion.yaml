@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for ui/base/x
+summary: Delegates ownership to the X11 platform owners and assigns drag-and-drop owners for selection and OS exchange data provider files.

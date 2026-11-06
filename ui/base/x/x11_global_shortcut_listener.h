@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 global shortcut listener header
+// summary: Declares XGlobalShortcutListener, an X11 platform event dispatcher for registering and detecting global keyboard shortcuts.
+// ---
+
 #ifndef UI_BASE_X_X11_GLOBAL_SHORTCUT_LISTENER_H_
 #define UI_BASE_X_X11_GLOBAL_SHORTCUT_LISTENER_H_
 
