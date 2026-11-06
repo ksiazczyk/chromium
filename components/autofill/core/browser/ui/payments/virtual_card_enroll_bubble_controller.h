@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Virtual card enrollment bubble controller interface
+// summary: Interface exposing controller functionality to virtual card enrollment bubbles, covering UI model access, enrollment state and bubble actions.
+// ---
+
 #include "base/functional/callback_forward.h"
 #include "build/buildflag.h"
 #include "components/autofill/core/browser/metrics/payments/virtual_card_enrollment_metrics.h"

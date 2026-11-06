@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SupportedCountriesCache unit tests
+// summary: Unit tests verifying that the supported-countries cache reuses results for repeated locales, caches each locale independently, and caches empty results.
+// ---
+
 #include "components/autofill/core/browser/ui/addresses/android/supported_countries_cache.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Single field fill router unit tests
+// summary: Unit tests verifying that SingleFieldFillRouter routes form submission, query cancellation and suggestion events to the correct single-field filler managers.
+// ---
+
 #include "components/autofill/core/browser/single_field_fillers/single_field_fill_router.h"
 
 #include "base/functional/callback_helpers.h"

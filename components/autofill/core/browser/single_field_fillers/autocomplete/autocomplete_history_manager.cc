@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autocomplete history manager implementation
+// summary: Implements the per-profile autocomplete history manager that decides which form fields are saveable, stores entries via the web data service, and generates autocomplete suggestions.
+// ---
+
 #include "components/autofill/core/browser/single_field_fillers/autocomplete/autocomplete_history_manager.h"
 
 #include <algorithm>

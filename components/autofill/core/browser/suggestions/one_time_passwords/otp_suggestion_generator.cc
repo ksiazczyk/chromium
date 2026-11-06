@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: OTP suggestion generator implementation
+// summary: Implements building of autofill suggestions for one-time passwords, including Gmail OTP entries with sender labels and an open-Gmail action.
+// ---
+
 #include "components/autofill/core/browser/suggestions/one_time_passwords/otp_suggestion_generator.h"
 
 #include <string>

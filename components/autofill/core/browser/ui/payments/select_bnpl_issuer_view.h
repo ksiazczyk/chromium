@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Select BNPL issuer view interface
+// summary: Cross-platform UI interface that prompts the user to select a BNPL issuer and updates the dialog once issuer data returns from the server.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_UI_PAYMENTS_SELECT_BNPL_ISSUER_VIEW_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_UI_PAYMENTS_SELECT_BNPL_ISSUER_VIEW_H_
 

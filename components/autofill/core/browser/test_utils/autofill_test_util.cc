@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill test utilities implementation
+// summary: Implements shared helpers for Autofill tests that create profiles, credit cards, IBANs, suggestions and testing pref services.
+// ---
+
 #include "components/autofill/core/browser/test_utils/autofill_test_util.h"
 
 #include <stdint.h>

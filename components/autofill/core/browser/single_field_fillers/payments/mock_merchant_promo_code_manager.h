@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockMerchantPromoCodeManager class declaration
+// summary: Declares a gmock subclass of MerchantPromoCodeManager that stubs suggestion and metrics methods for testing.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_SINGLE_FIELD_FILLERS_PAYMENTS_MOCK_MERCHANT_PROMO_CODE_MANAGER_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_SINGLE_FIELD_FILLERS_PAYMENTS_MOCK_MERCHANT_PROMO_CODE_MANAGER_H_
 

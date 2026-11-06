@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillAddressEditorUiInfoAndroid JNI bridge implementation
+// summary: Implements the C++ counterpart of the Java AutofillAddressEditorUIInfo class, passing the language tag and address editor field components between C++ and Java via JNI.
+// ---
+
 #include "components/autofill/core/browser/ui/addresses/android/autofill_address_editor_ui_info_android.h"
 
 #include <string>

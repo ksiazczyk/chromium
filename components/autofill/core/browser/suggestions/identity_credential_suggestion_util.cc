@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Identity credential suggestion utility implementation
+// summary: Builds identity credential suggestions for a field type by delegating to the IdentityCredentialDelegate.
+// ---
+
 #include "components/autofill/core/browser/suggestions/identity_credential_suggestion_util.h"
 
 #include <vector>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill ablation study implementation
+// summary: Implements the ablation study that pseudorandomly assigns sites and form types to ablation groups based on a per-client seed and 14-day windows.
+// ---
+
 #include "components/autofill/core/browser/studies/autofill_ablation_study.h"
 
 #include <stddef.h>

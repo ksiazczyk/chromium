@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill form test utilities header
+// summary: Declares test case descriptions, form flags and expected field type values used in Autofill form structure parsing tests.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_TEST_UTILS_AUTOFILL_FORM_TEST_UTIL_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_TEST_UTILS_AUTOFILL_FORM_TEST_UTIL_H_
 

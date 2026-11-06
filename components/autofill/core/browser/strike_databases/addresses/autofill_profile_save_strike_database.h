@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill profile save strike database
+// summary: Defines a strike database that counts declined Autofill profile saves per host and stops prompting after three strikes, with 180-day expiry.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_STRIKE_DATABASES_ADDRESSES_AUTOFILL_PROFILE_SAVE_STRIKE_DATABASE_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_STRIKE_DATABASES_ADDRESSES_AUTOFILL_PROFILE_SAVE_STRIKE_DATABASE_H_
 

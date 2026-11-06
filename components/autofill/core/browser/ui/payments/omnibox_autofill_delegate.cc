@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox autofill delegate implementation
+// summary: Implements the omnibox autofill delegate that manages credit card autofill suggestions from the omnibox, including filtering, selection, and visibility handling.
+// ---
+
 #include "components/autofill/core/browser/ui/payments/omnibox_autofill_delegate.h"
 
 #include <algorithm>

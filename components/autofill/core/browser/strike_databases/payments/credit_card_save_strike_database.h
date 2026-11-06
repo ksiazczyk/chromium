@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credit card save strike database header
+// summary: Declares the strike database for credit card saves, both local and upload, with a three-strike limit and 183-day expiry.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_STRIKE_DATABASES_PAYMENTS_CREDIT_CARD_SAVE_STRIKE_DATABASE_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_STRIKE_DATABASES_PAYMENTS_CREDIT_CARD_SAVE_STRIKE_DATABASE_H_
 

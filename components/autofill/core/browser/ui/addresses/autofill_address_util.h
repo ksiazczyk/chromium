@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill address UI utility header
+// summary: Declares the AutofillAddressUIComponent struct, icon type enum, and functions to obtain and extend country-specific address components and formatted addresses.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_UI_ADDRESSES_AUTOFILL_ADDRESS_UTIL_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_UI_ADDRESSES_AUTOFILL_ADDRESS_UTIL_H_
 

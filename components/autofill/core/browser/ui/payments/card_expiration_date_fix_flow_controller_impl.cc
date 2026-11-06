@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Card expiration date fix flow controller implementation
+// summary: Implements the expiration date fix flow controller, showing the prompt, logging metrics and running the save card callback on acceptance.
+// ---
+
 #include "components/autofill/core/browser/ui/payments/card_expiration_date_fix_flow_controller_impl.h"
 
 #include <utility>

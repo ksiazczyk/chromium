@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Virtual card enrollment UI model implementation
+// summary: Implements the virtual card enrollment UI model by loading localized strings for dialog titles, buttons and messages, including wallet branding variants.
+// ---
+
 #include "components/autofill/core/browser/ui/payments/virtual_card_enroll_ui_model.h"
 
 #include "base/feature_list.h"

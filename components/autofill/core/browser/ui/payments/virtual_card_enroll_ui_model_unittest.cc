@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the virtual card enrollment UI model
+// summary: Unit tests verifying default model properties with and without wallet branding v2 and parameterized cancel action text scenarios.
+// ---
+
 #include "components/autofill/core/browser/ui/payments/virtual_card_enroll_ui_model.h"
 
 #include "components/autofill/core/browser/payments/test_legal_message_line.h"

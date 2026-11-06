@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cardholder name fix flow strike database unit tests
+// summary: Unit tests verifying strike properties, the strike workflow, and the enforced delay and max strike decisions.
+// ---
+
 #include "components/autofill/core/browser/strike_databases/payments/cardholder_name_fix_flow_strike_database.h"
 
 #include <memory>

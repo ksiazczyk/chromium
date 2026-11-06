@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autocomplete suggestion generator header
+// summary: Declares the SuggestionGenerator for autocomplete, which fetches past user entries asynchronously and converts them into suggestions.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_SUGGESTIONS_AUTOCOMPLETE_SUGGESTION_GENERATOR_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_SUGGESTIONS_AUTOCOMPLETE_SUGGESTION_GENERATOR_H_
 

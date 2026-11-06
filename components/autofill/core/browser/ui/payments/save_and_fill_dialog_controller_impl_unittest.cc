@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Save and Fill dialog controller unit tests
+// summary: Unit tests for SaveAndFillDialogControllerImpl covering dialog strings, validation of card number, CVC, expiration date and name, and dialog state behavior.
+// ---
+
 #include "components/autofill/core/browser/ui/payments/save_and_fill_dialog_controller_impl.h"
 
 #include "base/strings/stringprintf.h"

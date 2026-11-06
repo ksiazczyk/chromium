@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Save and fill availability strong alias
+// summary: Defines a strong boolean alias indicating whether the save and fill feature is available.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_SUGGESTIONS_PAYMENTS_SAVE_AND_FILL_SUGGESTION_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_SUGGESTIONS_PAYMENTS_SAVE_AND_FILL_SUGGESTION_H_
 

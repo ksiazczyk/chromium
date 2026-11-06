@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill progress UI type enum
+// summary: Defines the AutofillProgressUiType enum listing progress UI variants for card, IBAN, 3DS and BNPL unmasking flows.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_UI_PAYMENTS_AUTOFILL_PROGRESS_UI_TYPE_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_UI_PAYMENTS_AUTOFILL_PROGRESS_UI_TYPE_H_
 

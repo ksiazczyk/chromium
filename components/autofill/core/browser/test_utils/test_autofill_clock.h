@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TestAutofillClock class declaration
+// summary: Declares TestAutofillClock, a test helper that replaces the AutofillClock with a controllable test clock and resets it automatically.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_TEST_UTILS_TEST_AUTOFILL_CLOCK_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_TEST_UTILS_TEST_AUTOFILL_CLOCK_H_
 

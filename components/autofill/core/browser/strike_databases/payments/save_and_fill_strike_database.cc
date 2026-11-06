@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Save and fill strike database implementation
+// summary: Implements the required seven-day delay since the last strike for the save and fill strike database.
+// ---
+
 #include "components/autofill/core/browser/strike_databases/payments/save_and_fill_strike_database.h"
 
 #include <optional>

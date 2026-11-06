@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: In-memory test strike database implementation
+// summary: Implements an in-memory strike database that records and clears strikes without persistent storage.
+// ---
+
 #include "components/autofill/core/browser/strike_databases/payments/test_strike_database.h"
 
 #include "components/strike_database/strike_data.pb.h"

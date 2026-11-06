@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Suggestion utility unit tests
+// summary: Unit tests for PrepareLoadingStateSuggestions verifying that selected suggestions are marked loading while other suggestions and children are disabled.
+// ---
+
 #include "components/autofill/core/browser/suggestions/suggestion_util.h"
 
 #include <vector>

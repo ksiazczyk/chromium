@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockAutofillImageFetcher interface
+// summary: Declares a GoogleMock mock of AutofillImageFetcherBase stubbing image fetching for card art, Pix account and valuable images in tests.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_UI_MOCK_AUTOFILL_IMAGE_FETCHER_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_UI_MOCK_AUTOFILL_IMAGE_FETCHER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Card unmask OTP input dialog controller implementation unit tests
+// summary: Parameterized unit tests for the OTP input dialog controller, checking dialog cancellation and metrics across challenge types and card types.
+// ---
+
 #include "components/autofill/core/browser/ui/payments/card_unmask_otp_input_dialog_controller_impl.h"
 
 #include "base/strings/strcat.h"

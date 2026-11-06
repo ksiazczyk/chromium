@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test credit card save strike database
+// summary: Declares a test subclass of the credit card save strike database used in tests.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_STRIKE_DATABASES_PAYMENTS_TEST_CREDIT_CARD_SAVE_STRIKE_DATABASE_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_STRIKE_DATABASES_PAYMENTS_TEST_CREDIT_CARD_SAVE_STRIKE_DATABASE_H_
 

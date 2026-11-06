@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Save payment method and virtual card enrollment confirmation UI params
+// summary: Creates UI parameters for save card, IBAN and virtual card enrollment confirmation dialogs, including titles, descriptions, wallet branding and failure button text.
+// ---
+
 #include "components/autofill/core/browser/ui/payments/save_payment_method_and_virtual_card_enroll_confirmation_ui_params.h"
 
 #include <string>

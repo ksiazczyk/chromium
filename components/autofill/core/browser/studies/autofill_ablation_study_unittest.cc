@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill ablation study unit tests
+// summary: Unit tests verifying ablation group assignment, day window calculations and feature parameters across different timezones.
+// ---
+
 #include "components/autofill/core/browser/studies/autofill_ablation_study.h"
 
 #include "base/strings/string_number_conversions.h"

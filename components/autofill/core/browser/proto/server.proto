@@ -4,6 +4,12 @@
 
 // Data models to interface with legacy Autofill API.
 
+// ---docerion
+// type: source
+// title: Legacy Autofill server API protocol
+// summary: Defines protobuf data models for the legacy Autofill API, including randomized value encodings and form metadata sent to the server.
+// ---
+
 syntax = "proto2";
 
 package autofill;

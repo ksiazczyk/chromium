@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CountryComboboxModel implementation
+// summary: Builds a sorted country list for address entry comboboxes, placing the GeoIP-derived default country first and filtering regions without address input rules.
+// ---
+
 #include "components/autofill/core/browser/ui/country_combobox_model.h"
 
 #include <stddef.h>

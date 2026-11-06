@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BNPL terms of service controller unit tests
+// summary: Unit tests for the BNPL ToS controller covering dialog display, linked issuers, legal messages and accept or cancel callbacks.
+// ---
+
 #include "components/autofill/core/browser/ui/payments/bnpl_tos_controller_impl.h"
 
 #include <memory>

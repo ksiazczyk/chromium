@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillTapjackingProtector interface
+// summary: Declares an abstract base class that protects sensitive Autofill actions such as payments authorization by triggering device authentication or a confirmation dialog.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_UI_AUTOFILL_TAPJACKING_PROTECTOR_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_UI_AUTOFILL_TAPJACKING_PROTECTOR_H_
 

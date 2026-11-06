@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill testing pref service header
+// summary: Declares AutofillTestingPrefService, a TestingPrefServiceBase specialization with a convenience accessor for its pref registry.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_TEST_UTILS_AUTOFILL_TESTING_PREF_SERVICE_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_TEST_UTILS_AUTOFILL_TESTING_PREF_SERVICE_H_
 

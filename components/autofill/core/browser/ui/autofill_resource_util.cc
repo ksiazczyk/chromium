@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill resource utility implementation
+// summary: Maps Autofill suggestion icon types to their resource IDs, including old and new card art icons and Android-specific icon resources.
+// ---
+
 #include "components/autofill/core/browser/ui/autofill_resource_util.h"
 
 #include "base/containers/fixed_flat_map.h"

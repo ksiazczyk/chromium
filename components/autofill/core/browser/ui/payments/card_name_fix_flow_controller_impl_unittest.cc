@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Card name fix flow controller implementation unit tests
+// summary: Unit tests for the cardholder name fix flow controller, verifying dialog events and metrics logging for shown, accepted, and edited names.
+// ---
+
 #include "components/autofill/core/browser/ui/payments/card_name_fix_flow_controller_impl.h"
 
 #include <stddef.h>

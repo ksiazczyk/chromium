@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Virtual card enrollment strike database unit tests
+// summary: Unit tests verifying the IsLastOffer behavior and strike counting of the virtual card enrollment strike database.
+// ---
+
 #include "components/autofill/core/browser/strike_databases/payments/virtual_card_enrollment_strike_database.h"
 
 #include <memory>

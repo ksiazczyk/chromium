@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill experiments unit tests
+// summary: Unit tests covering credit card upload enablement scenarios, related metrics logging and device authentication behavior.
+// ---
+
 #include "components/autofill/core/browser/studies/autofill_experiments.h"
 
 #include "base/functional/callback_helpers.h"

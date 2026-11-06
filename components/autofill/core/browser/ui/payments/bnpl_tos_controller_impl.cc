@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BNPL terms of service controller implementation
+// summary: Implements the BNPL ToS dialog controller, providing dialog strings, wallet link text, metrics logging and accept or cancel handling.
+// ---
+
 #include "components/autofill/core/browser/ui/payments/bnpl_tos_controller_impl.h"
 
 #include <stddef.h>

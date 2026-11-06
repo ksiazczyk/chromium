@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill AI suggestion generator implementation
+// summary: Implements the Autofill AI suggestion generator, building AI-based autofill suggestions for form fields from entity data, permissions, labels, and record type priorities.
+// ---
+
 #include "components/autofill/core/browser/suggestions/autofill_ai/autofill_ai_suggestion_generator.h"
 
 #include <stddef.h>

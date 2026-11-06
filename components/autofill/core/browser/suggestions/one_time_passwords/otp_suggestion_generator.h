@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OtpSuggestionGenerator class declaration
+// summary: Declares the OtpSuggestionGenerator for the one-time password filling product and the BuildOtpSuggestions helper that turns OTP tokens into suggestions.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_SUGGESTIONS_ONE_TIME_PASSWORDS_OTP_SUGGESTION_GENERATOR_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_SUGGESTIONS_ONE_TIME_PASSWORDS_OTP_SUGGESTION_GENERATOR_H_
 

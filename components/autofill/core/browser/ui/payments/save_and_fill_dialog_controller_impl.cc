@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Save and Fill dialog controller implementation
+// summary: Implements the Save and Fill dialog controller, managing local, upload, and pending dialog states, input validation, and metrics logging.
+// ---
+
 #include "components/autofill/core/browser/ui/payments/save_and_fill_dialog_controller_impl.h"
 
 #include <stddef.h>

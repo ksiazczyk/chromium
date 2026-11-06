@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MerchantPromoCodeManager unit tests
+// summary: Tests promo code field detection, suggestion generation and selection, and page-load funnel metrics using test autofill clients and managers.
+// ---
+
 #include "components/autofill/core/browser/single_field_fillers/payments/merchant_promo_code_manager.h"
 
 #include <list>

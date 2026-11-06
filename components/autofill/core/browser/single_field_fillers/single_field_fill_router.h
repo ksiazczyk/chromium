@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Single field fill router header
+// summary: Declares SingleFieldFillRouter, owned by AutofillClient, which directs single-field fill requests to Autocomplete, IBAN or merchant promo code fillers.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_SINGLE_FIELD_FILLERS_SINGLE_FIELD_FILL_ROUTER_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_SINGLE_FIELD_FILLERS_SINGLE_FIELD_FILL_ROUTER_H_
 

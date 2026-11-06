@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Filled card information bubble options
+// summary: Implements FilledCardInformationBubbleOptions and validates the filled card name, number, expiration date, CVC and image fields.
+// ---
+
 #include "components/autofill/core/browser/ui/payments/bubble_show_options.h"
 
 namespace autofill {

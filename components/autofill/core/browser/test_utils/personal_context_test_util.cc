@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Personal context test utilities implementation
+// summary: Implements helpers that build personal context proto entities for passports, driver licenses, national IDs, orders and shipments in tests.
+// ---
+
 #include "components/autofill/core/browser/test_utils/personal_context_test_util.h"
 
 #include "base/strings/utf_string_conversions.h"

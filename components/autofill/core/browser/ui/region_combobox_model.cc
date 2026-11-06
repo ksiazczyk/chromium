@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RegionComboboxModel implementation
+// summary: Implements RegionComboboxModel, loading region data asynchronously via RegionDataLoader and serving combobox items with separators and a loading placeholder.
+// ---
+
 #include "components/autofill/core/browser/ui/region_combobox_model.h"
 
 #include <stddef.h>

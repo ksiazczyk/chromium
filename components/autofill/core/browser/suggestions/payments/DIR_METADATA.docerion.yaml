@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for the payments suggestions folder
+summary: Maps the folder to the Chromium issue tracker components UI>Browser>Autofill>Payments and a Buganizer component ID.

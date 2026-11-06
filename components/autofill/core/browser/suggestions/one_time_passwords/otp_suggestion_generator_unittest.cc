@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OTP suggestion generator unit tests
+// summary: Unit tests verifying OTP suggestion generation for SMS and Gmail tokens, including sender address handling and suggestion contents.
+// ---
+
 #include "components/autofill/core/browser/suggestions/one_time_passwords/otp_suggestion_generator.h"
 
 #include <string>

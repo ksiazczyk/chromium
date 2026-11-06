@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Card unmask prompt controller unit tests
+// summary: Unit tests for CardUnmaskPromptControllerImpl covering prompt behavior, verification results, and WebAuthn offers using test doubles.
+// ---
+
 #include "components/autofill/core/browser/ui/payments/card_unmask_prompt_controller_impl.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TestAutofillClock implementation
+// summary: Implements TestAutofillClock, which swaps a manipulable SimpleTestClock into AutofillClock and restores the previous clock on destruction.
+// ---
+
 #include "components/autofill/core/browser/test_utils/test_autofill_clock.h"
 
 #include <memory>

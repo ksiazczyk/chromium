@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill image fetcher implementation
+// summary: Implements fetching, resolving and caching of credit card art, Pix account and valuable images for Autofill entries on desktop and iOS.
+// ---
+
 #include "components/autofill/core/browser/ui/autofill_image_fetcher.h"
 
 #include <memory>

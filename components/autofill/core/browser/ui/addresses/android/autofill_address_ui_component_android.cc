@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillAddressUiComponentAndroid JNI bridge implementation
+// summary: Implements conversion of a single address editor field descriptor (field type, label, required and full-line flags) between C++ and Java.
+// ---
+
 #include "components/autofill/core/browser/ui/addresses/android/autofill_address_ui_component_android.h"
 
 #include <string>

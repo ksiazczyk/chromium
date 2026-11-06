@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payments churned users strike database
+// summary: Defines a simple strike database limiting churned user payment offers to two strikes with a seven-day delay and 180-day expiry.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_STRIKE_DATABASES_PAYMENTS_PAYMENTS_CHURNED_USERS_STRIKE_DATABASE_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_STRIKE_DATABASES_PAYMENTS_PAYMENTS_CHURNED_USERS_STRIKE_DATABASE_H_
 

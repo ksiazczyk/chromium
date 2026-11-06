@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IBAN suggestion generator unit tests
+// summary: Unit tests verifying IBAN suggestion content, nicknames, icons and platform-specific display behavior.
+// ---
+
 #include "components/autofill/core/browser/suggestions/payments/iban_suggestion_generator.h"
 
 #include "base/strings/utf_string_conversions.h"

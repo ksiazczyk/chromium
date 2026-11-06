@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill error dialog controller implementation
+// summary: Implements the error dialog controller, showing and dismissing dialogs, logging metrics and resolving error texts per error type.
+// ---
+
 #include "components/autofill/core/browser/ui/payments/autofill_error_dialog_controller_impl.h"
 
 #include <string>

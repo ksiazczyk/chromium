@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Entity data test utilities header
+// summary: Declares option structs and factory functions for test entity instances like passports, driver licenses and vehicles.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_TEST_UTILS_ENTITY_DATA_TEST_UTIL_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_TEST_UTILS_ENTITY_DATA_TEST_UTIL_H_
 

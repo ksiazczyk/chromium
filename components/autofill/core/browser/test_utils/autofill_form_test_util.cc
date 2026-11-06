@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill form test utilities implementation
+// summary: Implements helpers that build form fields and form structures by field role for Autofill form parsing tests.
+// ---
+
 #include "components/autofill/core/browser/test_utils/autofill_form_test_util.h"
 
 #include <string_view>

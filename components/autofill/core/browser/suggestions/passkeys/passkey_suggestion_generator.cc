@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasskeySuggestionGenerator implementation
+// summary: Implements the autofill suggestion generator that produces WebAuthn passkey suggestions, such as inline QR code and sign-in-with-another-device entries, for webauthn-annotated fields on desktop platforms.
+// ---
+
 #include "components/autofill/core/browser/suggestions/passkeys/passkey_suggestion_generator.h"
 
 #include <optional>

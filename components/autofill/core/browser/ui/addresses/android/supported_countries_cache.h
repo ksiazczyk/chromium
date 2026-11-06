@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SupportedCountriesCache header
+// summary: Declares a cache that memoizes the localized list of supported countries per application locale, using an injected builder callback and sequence-checked access.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_UI_ADDRESSES_ANDROID_SUPPORTED_COUNTRIES_CACHE_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_UI_ADDRESSES_ANDROID_SUPPORTED_COUNTRIES_CACHE_H_
 

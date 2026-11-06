@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Virtual card enrollment strike database implementation
+// summary: Implements last-offer detection and the required enrollment delay for the virtual card enrollment strike database.
+// ---
+
 #include "components/autofill/core/browser/strike_databases/payments/virtual_card_enrollment_strike_database.h"
 
 #include <stddef.h>

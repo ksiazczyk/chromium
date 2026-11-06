@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Address suggestion strike database
+// summary: Declares a strike database that records ignored address suggestions and stops showing them after a strike limit, keyed by form, field and host.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_STRIKE_DATABASES_ADDRESSES_ADDRESS_SUGGESTION_STRIKE_DATABASE_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_STRIKE_DATABASES_ADDRESSES_ADDRESS_SUGGESTION_STRIKE_DATABASE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill Gen AI settings policy handler implementation
+// summary: Implements the AutofillGenAiSettings policy handler, mapping enterprise policies to Gemini and autofill feature preferences.
+// ---
+
 #include "components/autofill/core/browser/policy/autofill_gen_ai_settings_policy_handler.h"
 
 #include <memory>

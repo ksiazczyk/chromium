@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Select BNPL issuer dialog controller unit tests
+// summary: Unit tests for the BNPL issuer selection dialog controller covering getters, dialog title, issuer updates and selection or cancellation callbacks.
+// ---
+
 #include "components/autofill/core/browser/ui/payments/select_bnpl_issuer_dialog_controller_impl.h"
 
 #include <memory>

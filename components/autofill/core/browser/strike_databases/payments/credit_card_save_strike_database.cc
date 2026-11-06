@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credit card save strike database implementation
+// summary: Implements the credit card save strike database delay, configurable via the AutofillUpstreamEnforceStrikeDelay feature.
+// ---
+
 #include "components/autofill/core/browser/strike_databases/payments/credit_card_save_strike_database.h"
 
 #include <optional>

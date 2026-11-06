@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestAutofillImageFetcher implementation
+// summary: Implements TestAutofillImageFetcher, a stub that skips network fetches and serves credit card and other images from a local cache for autofill UI tests.
+// ---
+
 #include "components/autofill/core/browser/ui/test_autofill_image_fetcher.h"
 
 #include "ui/gfx/image/image.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Merchant promo code suggestion generator implementation
+// summary: Implements generation of promo code suggestions from Autofill offers, with code labels, expiry dates and a manage offers footer.
+// ---
+
 #include "components/autofill/core/browser/suggestions/payments/merchant_promo_code_suggestion_generator.h"
 
 #include <algorithm>

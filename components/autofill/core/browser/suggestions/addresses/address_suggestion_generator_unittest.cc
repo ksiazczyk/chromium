@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Address suggestion generator unit tests
+// summary: Unit tests covering address suggestion generation, including profile suggestions, footer suggestions, suppression histograms, and record-type matching.
+// ---
+
 #include "components/autofill/core/browser/suggestions/addresses/address_suggestion_generator.h"
 
 #include <memory>

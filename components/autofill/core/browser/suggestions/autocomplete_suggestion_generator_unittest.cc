@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autocomplete suggestion generator unit tests
+// summary: Unit tests for the autocomplete suggestion generator using a mocked WebDataService and test forms.
+// ---
+
 #include "components/autofill/core/browser/suggestions/autocomplete_suggestion_generator.h"
 
 #include "base/test/mock_callback.h"

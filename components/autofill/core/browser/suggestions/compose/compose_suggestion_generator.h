@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ComposeSuggestionGenerator class declaration
+// summary: Declares ComposeSuggestionGenerator, a SuggestionGenerator subclass that produces compose suggestions using a trigger source and a callback-based GenerateSuggestions API.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_SUGGESTIONS_COMPOSE_COMPOSE_SUGGESTION_GENERATOR_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_SUGGESTIONS_COMPOSE_COMPOSE_SUGGESTION_GENERATOR_H_
 

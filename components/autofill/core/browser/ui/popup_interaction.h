@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PopupInteraction enum for popup usage metrics
+// summary: Defines the PopupInteraction enum persisted to UMA logs that records user interactions with desktop autofill popups, such as popup shown and suggestion accepted.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_UI_POPUP_INTERACTION_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_UI_POPUP_INTERACTION_H_
 

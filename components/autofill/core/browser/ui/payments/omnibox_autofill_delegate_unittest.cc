@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Omnibox autofill delegate unit tests
+// summary: Unit tests for the omnibox autofill delegate, covering chip display decisions, metrics, and driver interactions when autofill is offered from the omnibox.
+// ---
+
 #include "components/autofill/core/browser/ui/payments/omnibox_autofill_delegate.h"
 
 #include <memory>

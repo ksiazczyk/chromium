@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Merchant promo code manager implementation
+// summary: Implements per-tab handling of merchant promo code fields, including offer retrieval, suggestion hooks, in-product help display, and funnel metrics.
+// ---
+
 #include "components/autofill/core/browser/single_field_fillers/payments/merchant_promo_code_manager.h"
 
 #include <algorithm>

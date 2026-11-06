@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Loyalty card suggestion generator implementation
+// summary: Implements generation of autofill suggestions for loyalty cards, including icon handling, manage-loyalty-cards entries, and feature-flag checks.
+// ---
+
 #include "components/autofill/core/browser/suggestions/valuables/valuable_suggestion_generator.h"
 
 #include <stddef.h>

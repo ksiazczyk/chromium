@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payments churned users UI delegate interface
+// summary: Cross-platform UI delegate interface for showing the Payments Churned Users resurrection UI that prompts users to re-enable payments autofill.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_UI_PAYMENTS_PAYMENTS_CHURNED_USERS_UI_DELEGATE_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_UI_PAYMENTS_PAYMENTS_CHURNED_USERS_UI_DELEGATE_H_
 

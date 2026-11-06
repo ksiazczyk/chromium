@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CVC storage strike database implementation
+// summary: Implements the CVC storage strike database, returning a required seven-day delay since the last strike.
+// ---
+
 #include "components/autofill/core/browser/strike_databases/payments/cvc_storage_strike_database.h"
 
 #include <optional>

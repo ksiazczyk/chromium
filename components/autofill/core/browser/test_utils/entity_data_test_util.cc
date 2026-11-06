@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Entity data test utilities implementation
+// summary: Implements factory functions that build test EntityInstance objects such as passports, driver licenses and vehicles.
+// ---
+
 #include "components/autofill/core/browser/test_utils/entity_data_test_util.h"
 
 #include "base/containers/to_vector.h"

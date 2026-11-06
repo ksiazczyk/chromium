@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillAiSuggestionGenerator class declaration
+// summary: Declares the AutofillAiSuggestionGenerator class, a SuggestionGenerator that produces Autofill AI suggestions for a form and trigger field via callback interfaces.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_SUGGESTIONS_AUTOFILL_AI_AUTOFILL_AI_SUGGESTION_GENERATOR_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_SUGGESTIONS_AUTOFILL_AI_AUTOFILL_AI_SUGGESTION_GENERATOR_H_
 

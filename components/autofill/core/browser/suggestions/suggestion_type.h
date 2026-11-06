@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SuggestionType enum for Autofill suggestions
+// summary: Defines the SuggestionType enum of Autofill suggestion item identifiers, with stable numeric values persisted to logs and usage notes for adding entries.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_SUGGESTIONS_SUGGESTION_TYPE_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_SUGGESTIONS_SUGGESTION_TYPE_H_
 

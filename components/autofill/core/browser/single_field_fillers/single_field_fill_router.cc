@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Single field fill router implementation
+// summary: Implements SingleFieldFillRouter, which routes single-field form filling requests to the autocomplete history, IBAN and merchant promo code managers.
+// ---
+
 #include "components/autofill/core/browser/single_field_fillers/single_field_fill_router.h"
 
 #include <stddef.h>

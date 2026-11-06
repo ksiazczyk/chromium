@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Loyalty card test utilities implementation
+// summary: Implements factory functions that create two fully populated test loyalty cards with merchant names, program details, and card numbers.
+// ---
+
 #include "components/autofill/core/browser/test_utils/valuables_data_test_util.h"
 
 #include "components/autofill/core/browser/data_model/valuables/loyalty_card.h"

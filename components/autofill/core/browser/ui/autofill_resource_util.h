@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill resource utility header
+// summary: Declares GetIconResourceID, which returns the icon resource ID corresponding to a given Autofill suggestion icon.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_UI_AUTOFILL_RESOURCE_UTIL_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_UI_AUTOFILL_RESOURCE_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Address suggestion strike database implementation
+// summary: Implements ID generation for the address suggestion strike database by combining form and field signatures with the URL host.
+// ---
+
 #include "components/autofill/core/browser/strike_databases/addresses/address_suggestion_strike_database.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Suggestion implementation
+// summary: Implements the Suggestion struct, including printable string conversion of texts, icons and acceptability plus Android payload support.
+// ---
+
 #include "components/autofill/core/browser/suggestions/suggestion.h"
 
 #include <stddef.h>

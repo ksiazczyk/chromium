@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockAutofillSuggestionDelegate interface
+// summary: Declares a GoogleMock mock of AutofillSuggestionDelegate stubbing suggestion shown, hidden, filtered, selected and accepted callbacks for tests.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_UI_MOCK_AUTOFILL_SUGGESTION_DELEGATE_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_UI_MOCK_AUTOFILL_SUGGESTION_DELEGATE_H_
 

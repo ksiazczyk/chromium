@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DropdownKeyValueAndroid header
+// summary: Declares the C++ key-value pair struct used to populate Android dropdown lists, together with JNI conversion helpers.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_UI_ADDRESSES_ANDROID_DROPDOWN_KEY_VALUE_ANDROID_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_UI_ADDRESSES_ANDROID_DROPDOWN_KEY_VALUE_ANDROID_H_
 

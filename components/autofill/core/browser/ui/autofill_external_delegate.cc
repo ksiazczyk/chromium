@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill external delegate implementation
+// summary: Implements the delegate that drives in-browser Autofill and Autocomplete suggestion display, selection, filling and related metrics for the popup UI.
+// ---
+
 #include "components/autofill/core/browser/ui/autofill_external_delegate.h"
 
 #include <stddef.h>

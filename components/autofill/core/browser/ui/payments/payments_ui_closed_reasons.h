@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payments UI closed reasons enum
+// summary: Defines the PaymentsUiClosedReason enum listing why payments bubbles and dialogs close, with values persisted to logs.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_UI_PAYMENTS_PAYMENTS_UI_CLOSED_REASONS_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_UI_PAYMENTS_PAYMENTS_UI_CLOSED_REASONS_H_
 

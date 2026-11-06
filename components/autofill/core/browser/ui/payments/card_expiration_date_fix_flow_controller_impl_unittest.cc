@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Card expiration date fix flow controller unit tests
+// summary: Unit tests checking that the expiration date fix flow prompt logs shown, accepted and dismissed events and forwards the entered month and year.
+// ---
+
 #include "components/autofill/core/browser/ui/payments/card_expiration_date_fix_flow_controller_impl.h"
 
 #include <stddef.h>

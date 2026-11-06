@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CountryComboboxModel interface
+// summary: Declares a ui::ComboboxModel supplying countries for address forms, with the default country at the top and separator entries for non-country items.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_UI_COUNTRY_COMBOBOX_MODEL_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_UI_COUNTRY_COMBOBOX_MODEL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SupportedCountriesCache implementation
+// summary: Implements per-locale memoization of the supported-country dropdown list, building each locale's entries once through an injected builder callback.
+// ---
+
 #include "components/autofill/core/browser/ui/addresses/android/supported_countries_cache.h"
 
 #include <string>

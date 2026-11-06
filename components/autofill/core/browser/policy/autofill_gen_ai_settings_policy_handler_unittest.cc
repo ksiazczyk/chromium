@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the autofill Gen AI settings policy handler
+// summary: Verifies policy validation and pref application for AutofillGenAiSettings, including behavior when the Gemini app is disabled.
+// ---
+
 #include "components/autofill/core/browser/policy/autofill_gen_ai_settings_policy_handler.h"
 
 #include <memory>
