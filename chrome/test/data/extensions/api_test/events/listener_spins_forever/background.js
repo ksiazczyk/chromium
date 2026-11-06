@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background service worker that spins forever on navigation
+// summary: Test extension service worker that asynchronously acks the install event and loops infinitely in a webNavigation.onBeforeNavigate listener to prevent renderer acknowledgement in browser tests.
+// ---
+
 chrome.runtime.onInstalled.addListener((details) => {
   // Asynchronously send the message that the listener fired so that the event
   // is considered ack'd in the browser C++ code.

@@ -1,0 +1,4 @@
+# Docerion header of xhtml_document.xhtml.
+type: test
+title: Valid XHTML test document
+summary: A minimal valid XHTML document used as a fixture for the executeScript destructive extension test.

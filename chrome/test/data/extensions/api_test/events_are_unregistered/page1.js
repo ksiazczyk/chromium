@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Event listener registration test script
+// summary: Registers extension event listeners in several filtered and unfiltered configurations, then navigates to the second page so the C++ side can assert the events were unregistered.
+// ---
+
 'use strict';
 
 // Register for events in 4 configurations, then navigate to page2.html, which

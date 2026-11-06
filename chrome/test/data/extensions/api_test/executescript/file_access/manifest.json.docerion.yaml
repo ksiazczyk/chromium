@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the executeScript file access test extension
+summary: Manifest version 2 extension definition with background script and tabs plus all-URLs permissions used by the file access API test.

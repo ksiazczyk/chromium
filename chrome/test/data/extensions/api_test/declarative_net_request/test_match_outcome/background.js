@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Declarative Net Request testMatchOutcome API test
+// summary: Browser test script that exercises chrome.declarativeNetRequest.testMatchOutcome against the extension's rulesets, covering invalid inputs, rule matches, redirects and header modifications.
+// ---
+
 function testMatchOutcome(options) {
   return new Promise(resolve => {
     chrome.declarativeNetRequest.testMatchOutcome(options, resolve);

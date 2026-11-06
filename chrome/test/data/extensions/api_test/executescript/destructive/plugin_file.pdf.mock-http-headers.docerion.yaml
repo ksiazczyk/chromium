@@ -1,0 +1,4 @@
+# Docerion header of plugin_file.pdf.mock-http-headers.
+type: test
+title: Mock HTTP headers for the PDF plugin file
+summary: Mock HTTP response headers that serve plugin_file.pdf as a plugin document for the test.

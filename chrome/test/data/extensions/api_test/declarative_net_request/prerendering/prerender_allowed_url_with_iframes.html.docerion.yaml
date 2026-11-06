@@ -1,0 +1,4 @@
+# Docerion header of prerender_allowed_url_with_iframes.html.
+type: test
+title: Prerendering page for the allowed iframe test
+summary: HTML page using speculation rules to prerender show_iframes.html so that subframe request blocking can be tested.

@@ -1,0 +1,4 @@
+# Docerion header of resource2_fenced_frame.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for resource2 fenced frame
+summary: Mock HTTP response headers that serve resource2 with the fenced-frame loading mode for the declarative net request test.

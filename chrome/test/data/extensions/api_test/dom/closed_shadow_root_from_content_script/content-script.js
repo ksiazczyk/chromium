@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content script testing chrome.dom shadow root access
+// summary: Content script for an extension API test that verifies chrome.dom.openOrClosedShadowRoot returns a closed shadow root and throws for non-HTMLElement arguments.
+// ---
+
 chrome.test.runTests([function() {
   const host = document.getElementById('host');
   const shadowRoot = chrome.dom.openOrClosedShadowRoot(host);

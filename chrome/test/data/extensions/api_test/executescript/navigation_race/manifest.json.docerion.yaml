@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Navigation race extension manifest
+summary: Manifest for the navigation race test extension, defining a persistent background script with tabs and b.com host permissions.

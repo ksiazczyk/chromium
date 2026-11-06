@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test extension manifest
+summary: Manifest for the debugger reload and reset history API test extension, requesting debugger and tabs permissions and loading the background test script.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: executeScript fenced frame API test
+// summary: Runs chrome.tabs.executeScript tests checking injection into navigated fenced frames and exclusion of un-navigated ones.
+// ---
+
 const listenOnce = chrome.test.listenOnce;
 const listenForever = chrome.test.listenForever;
 

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the chrome.dom shadow root test
+summary: Manifest version 2 extension manifest that registers the background page used by the chrome.dom closed shadow root API test.

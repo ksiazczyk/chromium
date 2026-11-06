@@ -1,0 +1,4 @@
+# Docerion header of modifyheaders.json.
+type: test
+title: modifyheaders ruleset for header modification tests
+summary: Declarative Net Request ruleset that appends Content-Security-Policy response headers and allows requests on modify-headers.example domains for the test extension.

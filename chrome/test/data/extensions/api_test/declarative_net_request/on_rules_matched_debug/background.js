@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: onRuleMatchedDebug test extension background script
+// summary: Background service worker driving chrome.test cases that verify rules reported by the declarativeNetRequest onRuleMatchedDebug event for dynamic and static rulesets.
+// ---
+
 // Navigates to |url| and invokes |callback| when the navigation is complete.
 function navigateTab(url, expectedTabUrl, callback) {
   chrome.tabs.onUpdated.addListener(function updateCallback(_, info, tab) {

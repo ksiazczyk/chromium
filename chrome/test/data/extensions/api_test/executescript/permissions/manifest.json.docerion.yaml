@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: config
+title: Test extension manifest
+summary: Manifest for the test extension, declaring tabs permission and a.com and b.com host permissions.

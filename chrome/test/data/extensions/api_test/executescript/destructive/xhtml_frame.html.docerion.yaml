@@ -1,0 +1,4 @@
+# Docerion header of xhtml_frame.html.
+type: test
+title: XHTML iframe test page
+summary: Test page that embeds xhtml_document.xhtml in an iframe for the executeScript destructive extension test.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Webview events API test script
+// summary: Background script that creates a webview, registers event and context menu listeners, and reports pass or fail via chrome.test.
+// ---
+
 chrome.app.runtime.onLaunched.addListener(function() {
   const webview = document.createElement('webview');
   webview.src = 'data:text/html,<html><body>hello world</body></html>';

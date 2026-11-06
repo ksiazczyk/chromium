@@ -1,0 +1,4 @@
+# Docerion header of inter_phase_rules.json.
+type: test
+title: Inter-phase declarativeNetRequest rules
+summary: Defines block and allow rules of varying priorities to verify how rules from different request phases interact when response header conditions are involved.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Removed frames executeScript regression tests
+// summary: Background test script running regression tests for crbug.com/40422771 that inject scripts into frames and delete iframes mid-execution.
+// ---
+
 // A simple helper to keep track of how many responses are received, and fail
 // if it receives a "fail" message. It's unfortunate that these are never
 // cleaned up, but, realistically, doesn't matter.

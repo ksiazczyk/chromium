@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Hosted app test manifest
+summary: Manifest for a hosted app extension fixture used in the developer API browser test, declaring a web-launch app with offline support and an update URL.

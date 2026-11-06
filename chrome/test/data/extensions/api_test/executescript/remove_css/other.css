@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: test
+title: Alternate green CSS file for injection testing
+summary: 'Second stylesheet with the same green #main rule, likely used for file-based CSS removal tests.'
+*/
+
 #main {
   color: green !important;
 }

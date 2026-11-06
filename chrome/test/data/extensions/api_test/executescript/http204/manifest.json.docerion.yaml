@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the executeScript HTTP 204 test extension
+summary: Manifest version 2 extension manifest registering the background script and content scripts that run at document start, end, and idle for the HTTP 204 executeScript test.

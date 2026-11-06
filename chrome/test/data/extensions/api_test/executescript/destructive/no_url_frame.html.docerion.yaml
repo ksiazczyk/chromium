@@ -1,0 +1,4 @@
+# Docerion header of no_url_frame.html.
+type: test
+title: URL-less frame test page
+summary: Test page containing an iframe without a src as a fixture for the destructive executeScript extension tests.

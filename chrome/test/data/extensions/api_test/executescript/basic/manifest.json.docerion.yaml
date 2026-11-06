@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the executeScript and insertCSS test extension
+summary: Manifest version 2 extension definition with tabs permission and a persistent background script running the API tests.

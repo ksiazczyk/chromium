@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Declarative Net Request fenced frame test runner
+// summary: Extension service worker that runs tests verifying how declarativeNetRequest rules match fenced frame requests and checks matched rule info and frame collapse.
+// ---
+
 let expectedCallback;
 let tab;
 

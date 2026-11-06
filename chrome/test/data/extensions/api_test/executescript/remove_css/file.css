@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: test
+title: Green CSS file for injection testing
+summary: 'Stylesheet setting #main to green with !important, used by the test when injecting CSS from a file.'
+*/
+
 #main {
   color: green !important;
 }

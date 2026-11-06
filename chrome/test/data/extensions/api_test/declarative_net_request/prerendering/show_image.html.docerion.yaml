@@ -1,0 +1,4 @@
+# Docerion header of show_image.html.
+type: test
+title: Image test page loading block_image
+summary: Page loaded in prerender that requests the block_image URL to verify image blocking rules apply in prerendered pages.

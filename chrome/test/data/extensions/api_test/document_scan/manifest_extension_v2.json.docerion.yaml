@@ -1,0 +1,4 @@
+# Docerion header of manifest_extension_v2.json.
+type: test
+title: Manifest v2 extension for document scan API tests
+summary: Manifest v2 extension definition granting documentScan and localhost permissions for the API browser tests.

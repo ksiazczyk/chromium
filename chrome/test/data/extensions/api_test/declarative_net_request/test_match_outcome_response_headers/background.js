@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background test script for response header matching
+// summary: Runs browser tests for chrome.declarativeNetRequest.testMatchOutcome, covering response header matching, malformed header arguments, and interactions between rules from different request phases.
+// ---
+
 function testMatchOutcome(options) {
   return new Promise(resolve => {
     chrome.declarativeNetRequest.testMatchOutcome(options, resolve);

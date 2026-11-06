@@ -1,0 +1,4 @@
+# Docerion header of prerender_allowed_url_with_image.html.
+type: test
+title: Prerendering page for the allowed image test
+summary: HTML page using speculation rules to prerender show_image.html so that image request blocking can be tested.

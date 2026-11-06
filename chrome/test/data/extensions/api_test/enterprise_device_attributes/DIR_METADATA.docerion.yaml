@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for enterprise device attributes tests
+summary: Points to the Buganizer component used for issues in this test directory.

@@ -1,0 +1,4 @@
+# Docerion header of inner.html.
+type: test
+title: Inner frame test page
+summary: Minimal HTML page served as the inner frame content during the executeScript frame_after_load extension API test.

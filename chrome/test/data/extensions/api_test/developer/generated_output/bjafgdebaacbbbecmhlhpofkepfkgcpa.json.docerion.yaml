@@ -1,0 +1,4 @@
+# Docerion header of bjafgdebaacbbbecmhlhpofkepfkgcpa.json.
+type: test
+title: Expected developer API output for My extension 3
+summary: Expected JSON output for the developer API test describing extension My extension 3, an enabled unpacked extension with no runtime errors and no active views.

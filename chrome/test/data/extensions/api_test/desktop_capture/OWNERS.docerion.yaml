@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for desktop_capture API tests
+summary: Delegates ownership of the desktop_capture API test data to the owners of the desktop_capture API implementation directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Document scan API function existence test
+// summary: Verifies that all chrome.documentScan API functions such as scan, getScannerList, openScanner and readScanData are available.
+// ---
+
 chrome.test.runTests([
   function apiFunctionExists() {
     chrome.test.assertTrue(!!chrome.documentScan);

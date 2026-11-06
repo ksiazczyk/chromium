@@ -1,0 +1,4 @@
+# Docerion header of frame.html.
+type: test
+title: Same-origin frame test fixture
+summary: Test fixture page labeled as a same-origin frame that embeds nested.html for the frameId API tests.

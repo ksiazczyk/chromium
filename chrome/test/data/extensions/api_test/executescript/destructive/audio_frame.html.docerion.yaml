@@ -1,0 +1,4 @@
+# Docerion header of audio_frame.html.
+type: test
+title: Audio frame test page
+summary: Test page embedding the audio fixture in an iframe for the destructive executeScript extension tests.

@@ -6,6 +6,12 @@
 // Must be packed to ../enterprise_device_attributes.crx using the private key
 // ../enterprise_device_attributes.pem .
 
+// ---docerion
+// type: test
+// title: Basic tests for the enterprise deviceAttributes API
+// summary: Runs browser tests comparing directory device ID, serial number, asset ID, annotated location and hostname against expected values from a custom argument.
+// ---
+
 chrome.test.getConfig(function(config) {
   const customArg = JSON.parse(config.customArg);
   const expectedDirectoryDeviceId = customArg.expectedDirectoryDeviceId;

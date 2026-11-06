@@ -1,0 +1,4 @@
+# Docerion header of header_matching_rules.json.
+type: test
+title: Response header matching rules
+summary: Defines declarativeNetRequest rules that block requests based on response headers and excluded response headers for the testMatchOutcome tests.

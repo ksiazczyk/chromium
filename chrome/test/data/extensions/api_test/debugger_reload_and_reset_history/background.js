@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Debugger reload and reset history test background script
+// summary: Background script that attaches the debugger to a tab, reloads the page, and asserts that resetting navigation history is rejected while a pending reload entry exists.
+// ---
+
 const protocolVersion = '1.3';
 
 chrome.test.getConfig(config => chrome.test.runTests([

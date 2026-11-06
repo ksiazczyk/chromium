@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background script testing user gesture passing to executeScript
+// summary: Background script that opens a page on the test server and asserts a script injected via chrome.tabs.executeScript runs in a user gesture context.
+// ---
+
 chrome.test.getConfig(function(config) {
   const relativePath = '/extensions/api_test/executescript/run_at/test.html';
   const testUrl = `http://b.com:${config.testServer.port}${relativePath}`;

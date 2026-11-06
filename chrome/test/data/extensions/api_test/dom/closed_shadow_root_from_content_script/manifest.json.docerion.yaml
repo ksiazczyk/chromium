@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the chrome.dom shadow root test extension
+summary: Manifest version 2 extension manifest that injects the test content script into pages on 127.0.0.1 to test closed shadow root access via chrome.dom.

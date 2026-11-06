@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: chrome.echoPrivate API test extension manifest
+summary: Manifest for the chrome.echoPrivate API test component extension, declaring the echoPrivate permission and a background test script.

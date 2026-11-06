@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Start scan permission denied test
+// summary: Verifies that startScan returns ACCESS_DENIED when the start scan permission is denied while scanner listing is allowed.
+// ---
+
 // These tests should be run with the get scanner list permission allowed and
 // the start scan permission denied (and the extension should not be trusted).
 chrome.test.runTests([

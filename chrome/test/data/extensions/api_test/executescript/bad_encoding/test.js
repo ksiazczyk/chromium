@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test that executeScript fails on non-UTF8 script files
+// summary: Browser test that opens a tab and expects chrome.tabs.executeScript to fail loading bad_encoding.js because it is not UTF-8 encoded.
+// ---
+
 
 chrome.test.getConfig(function(config) {
   const testUrl = `http://a.com:${config.testServer.port}/`;

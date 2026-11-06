@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the block Chrome signin test extension
+summary: Manifest for a test extension that registers a declarativeNetRequest rule resource used to block the Chrome sign-in page.

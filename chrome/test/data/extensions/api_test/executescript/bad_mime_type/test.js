@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: executeScript bad MIME type API test
+// summary: Browser test that verifies chrome.tabs.executeScript fails when injecting a file that is not supported JavaScript, expecting a specific error message.
+// ---
+
 chrome.test.getConfig(function(config) {
   const testUrl = `http://a.com:${config.testServer.port}/`;
 

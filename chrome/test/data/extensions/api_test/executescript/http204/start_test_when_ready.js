@@ -7,6 +7,12 @@
 // start the test anyway even if the document_idle script was not detected in
 // the child frame.
 
+// ---docerion
+// type: test
+// title: Test helper that waits for child frame readiness
+// summary: Waits up to two seconds for the child frame's document_idle script to run, then signals the background to start the test even if script injection was not detected.
+// ---
+
 // Wait for at most 2 seconds.
 const kMaxDelayMs = 2000;
 

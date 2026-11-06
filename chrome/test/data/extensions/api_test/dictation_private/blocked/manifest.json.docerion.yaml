@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: dictationPrivate blocked test extension manifest
+summary: Manifest for a test extension that requests the dictationPrivate permission and runs test.js as its service worker.

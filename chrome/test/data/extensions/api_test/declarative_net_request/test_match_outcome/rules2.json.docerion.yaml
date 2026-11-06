@@ -1,0 +1,4 @@
+# Docerion header of rules2.json.
+type: test
+title: rules2 ruleset with block and redirect rules
+summary: Declarative Net Request ruleset that blocks requests to block.example and redirects script requests on allowed and not-allowed redirect domains for the tests.

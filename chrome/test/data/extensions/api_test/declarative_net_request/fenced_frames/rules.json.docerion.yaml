@@ -1,0 +1,4 @@
+# Docerion header of rules.json.
+type: test
+title: Declarative net request rules for fenced frame tests
+summary: Declarative net request ruleset that blocks and allows frames and images to verify fenced frame handling in the extension API test.

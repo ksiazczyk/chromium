@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the executeScript fragment navigation test extension
+summary: Manifest v2 extension manifest declaring the persistent background script, tabs and host permissions, and the content script used by the fragment navigation API test.

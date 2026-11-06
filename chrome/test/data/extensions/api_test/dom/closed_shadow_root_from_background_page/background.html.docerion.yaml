@@ -1,0 +1,4 @@
+# Docerion header of background.html.
+type: test
+title: Background page for the closed shadow root test
+summary: Minimal background page hosting a div element and loading the test script for the chrome.dom closed shadow root extension test.

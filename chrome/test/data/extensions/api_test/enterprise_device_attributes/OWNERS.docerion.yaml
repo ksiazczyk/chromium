@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for enterprise device attributes tests
+summary: Delegates review ownership to the OWNERS file of the enterprise device attributes API.

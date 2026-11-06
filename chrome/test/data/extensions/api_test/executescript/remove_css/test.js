@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser test for insertCSS and removeCSS across frames
+// summary: Background test script that inserts and removes CSS across all frames and verifies resulting colors via the content script.
+// ---
+
 'use strict';
 
 // Original color.

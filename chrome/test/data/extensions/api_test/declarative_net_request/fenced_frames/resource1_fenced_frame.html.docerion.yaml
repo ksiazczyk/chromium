@@ -1,0 +1,4 @@
+# Docerion header of resource1_fenced_frame.html.
+type: test
+title: Fenced frame page with image
+summary: Fenced frame content page containing an image, icon1.png, used to test resource requests originating from fenced frames.

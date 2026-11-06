@@ -1,0 +1,4 @@
+# Docerion header of accept_danger.html.
+type: test
+title: Accept danger test page
+summary: HTML page of the downloads API test extension that loads accept_danger.js to run the acceptDanger test logic.

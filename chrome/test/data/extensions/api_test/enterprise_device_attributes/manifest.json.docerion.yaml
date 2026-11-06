@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: config
+title: Manifest for the basic tests extension
+summary: Manifest version 3 extension manifest requesting the enterprise.deviceAttributes permission for the test extension.

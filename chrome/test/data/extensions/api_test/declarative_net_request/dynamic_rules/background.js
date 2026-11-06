@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background script for dynamic rules API tests
+// summary: Runs browser tests for the declarativeNetRequest updateDynamicRules and getDynamicRules APIs, covering adding, removing, filtering rules, duplicate IDs and regex memory limits.
+// ---
+
 function updateDynamicRules(options, expectedError) {
   return new Promise(resolve => {
     chrome.declarativeNetRequest.updateDynamicRules(options, () => {

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the listener spins forever test extension
+summary: Manifest V3 extension manifest registering background.js as the service worker with the webNavigation permission for the event dispatch API test.

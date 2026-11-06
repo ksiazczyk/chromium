@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Destructive executeScript test runner
+// summary: Runs subtests that remove frames at document_start and document_end across blank, srcdoc, media, plugin and text pages.
+// ---
+
 // This script is run multiple times with different configurations. The content
 // scripts need to determine synchronously which subtest is being run. This
 // state is communicated via the URL.

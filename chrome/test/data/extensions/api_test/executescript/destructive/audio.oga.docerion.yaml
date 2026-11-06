@@ -1,0 +1,4 @@
+# Docerion header of audio.oga.
+type: test
+title: Empty audio test fixture
+summary: Empty Ogg audio file serving as a media resource fixture for the destructive executeScript extension tests.

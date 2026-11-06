@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for document scan API tests
+summary: Points to the OWNERS file of the chrome.documentScan API implementation for review ownership of these tests.

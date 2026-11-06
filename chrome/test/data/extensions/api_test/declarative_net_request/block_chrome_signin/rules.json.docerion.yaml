@@ -1,0 +1,4 @@
+# Docerion header of rules.json.
+type: test
+title: DNR ruleset blocking accounts.google.com main frames
+summary: DeclarativeNetRequest ruleset that blocks main frame requests to accounts.google.com for the sign-in blocking test.

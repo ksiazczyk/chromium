@@ -1,0 +1,4 @@
+# Docerion header of rules1.json.
+type: test
+title: Static ruleset rules1
+summary: Static ruleset with a block rule for abc* URLs and a redirect rule from redir1.com to redir2.com used by the onRuleMatchedDebug test.

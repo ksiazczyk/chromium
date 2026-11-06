@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: updateStaticRules API test background script
+// summary: Background service worker running chrome.test cases that verify updateStaticRules, getDisabledRuleIds and updateEnabledRulesets behavior for static rules and rulesets.
+// ---
+
 async function updateStaticRules(options, expectedError) {
   if (expectedError) {
     await chrome.test.assertPromiseRejects(

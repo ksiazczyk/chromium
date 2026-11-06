@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: isRegexSupported API test background script
+// summary: Background service worker that runs chrome.test cases verifying declarativeNetRequest.isRegexSupported for supported, invalid, and memory-limit-exceeded regexes.
+// ---
+
 function isRegexSupported(regexOptions) {
   return new Promise(resolve => {
     chrome.declarativeNetRequest.isRegexSupported(regexOptions, resolve);

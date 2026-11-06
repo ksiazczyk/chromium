@@ -1,0 +1,4 @@
+# Docerion header of xhtml_document.xhtml.mock-http-headers.
+type: test
+title: Mock HTTP headers for xhtml_document.xhtml
+summary: Serves xhtml_document.xhtml with the application/xhtml+xml content type during the test.

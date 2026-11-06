@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Declarative content persistence test background script
+// summary: Background script of the declarative content API test extension that adds page rules once and reports readiness, verifying rule persistence across runs via chrome.storage.local.
+// ---
+
 const hostPrefix =
     chrome.extension.inIncognitoContext ? 'test_split' : 'test_normal';
 

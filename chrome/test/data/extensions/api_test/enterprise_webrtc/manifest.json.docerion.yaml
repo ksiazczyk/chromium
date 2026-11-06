@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the enterprise.webrtc API test extension
+summary: Chrome extension manifest that requests the enterprise.webrtc permission and registers test.js as a service worker running the API test suite on load.

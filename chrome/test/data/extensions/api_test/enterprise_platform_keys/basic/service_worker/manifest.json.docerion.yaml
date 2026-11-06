@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for basic enterprise.platformKeys service worker test extension
+summary: Manifest for the basic enterprise.platformKeys API test extension, declaring a service worker background and the enterprise.platformKeys permission.

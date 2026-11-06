@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser test for the executeScript script size limit
+// summary: Runs tests asserting that executeScript loads small.js successfully while big.js fails with a resource size exceeded error.
+// ---
+
 function getFileTooLargeError(fileName) {
   return `Could not load file: '${fileName}'. Resource size exceeded.`;
 }

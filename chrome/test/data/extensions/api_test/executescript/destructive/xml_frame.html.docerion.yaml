@@ -1,0 +1,4 @@
+# Docerion header of xml_frame.html.
+type: test
+title: XML iframe test page
+summary: Test page that embeds xml_document.xml in an iframe for the executeScript destructive extension test.

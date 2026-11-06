@@ -1,0 +1,4 @@
+# Docerion header of outer.html.
+type: test
+title: Outer document test page
+summary: Minimal HTML page opened as the main document in the tab used by the executeScript frame_after_load extension API test.

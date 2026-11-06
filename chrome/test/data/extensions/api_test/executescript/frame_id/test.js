@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: executeScript and insertCSS frameId browser tests
+// summary: Browser test script that resolves frame IDs via webNavigation and verifies executeScript and insertCSS targeting per frame, including permission-restricted frames.
+// ---
+
 const pass = chrome.test.callbackPass;
 const fail = chrome.test.callbackFail;
 const assertEq = chrome.test.assertEq;

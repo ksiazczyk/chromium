@@ -1,0 +1,4 @@
+# Docerion header of rules_file_empty.json.
+type: test
+title: Empty declarativeNetRequest ruleset fixture
+summary: Empty JSON ruleset referenced by the test extension manifest, giving the extension a valid but rule-free starting ruleset for dynamic rule tests.

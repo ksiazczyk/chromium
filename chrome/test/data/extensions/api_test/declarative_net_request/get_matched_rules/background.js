@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: getMatchedRules test extension background script
+// summary: Background service worker that runs chrome.test cases verifying getMatchedRules reports matched static, dynamic and session rules with correct rule info and timestamps.
+// ---
+
 // Navigates to |url| and invokes |callback| when the navigation is complete.
 function navigateTab(url, callback) {
   chrome.tabs.onUpdated.addListener(function updateCallback(_, info, tab) {

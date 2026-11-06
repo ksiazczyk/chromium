@@ -1,0 +1,4 @@
+# Docerion header of rules_file_empty.json.
+type: test
+title: Empty declarative net request rules file
+summary: Empty rules file loaded by the test extension so tests can add header modification rules dynamically.

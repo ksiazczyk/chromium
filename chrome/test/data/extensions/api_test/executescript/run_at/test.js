@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background script testing executeScript run_at behavior
+// summary: Extension background script that opens the test page, injects a script at document_start, and asserts the resulting tab title is 'Injected'.
+// ---
+
 const RELATIVE_PATH = '/extensions/api_test/executescript/run_at/test.html';
 
 chrome.test.getConfig(function(config) {

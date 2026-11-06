@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test extension manifest
+summary: Manifest for the test extension declaring the rules1 and rules2 rule resources plus declarativeNetRequest, feedback, tabs, and host permissions.

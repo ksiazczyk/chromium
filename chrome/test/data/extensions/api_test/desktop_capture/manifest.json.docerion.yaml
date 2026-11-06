@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the Desktop Capture API test extension
+summary: Manifest v2 extension definition that loads test.js as a background script and requests the desktopCapture permission for API testing.

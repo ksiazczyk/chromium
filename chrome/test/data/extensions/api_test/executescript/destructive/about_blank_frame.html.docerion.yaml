@@ -1,0 +1,4 @@
+# Docerion header of about_blank_frame.html.
+type: test
+title: About blank frame test page
+summary: Test page embedding an about:blank iframe as a fixture for the destructive executeScript extension tests.

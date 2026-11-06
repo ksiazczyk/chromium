@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Subframe injection test script
+// summary: Background script that waits for tab load completion, injects code into all frames, and asserts pings from both the main frame and the iframe.
+// ---
+
 chrome.tabs.onUpdated.addListener(function(tabId, changeInfo, tab) {
   // If we want to inject into subframes using execute script, we need to wait
   // for the tab to finish loading. Otherwise, the frames that would be injected

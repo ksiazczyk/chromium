@@ -1,0 +1,4 @@
+# Docerion header of bad_mime_type.json.
+type: test
+title: Fixture script with JSON extension for bad MIME type test
+summary: JavaScript code stored under a .json name so loading it as a content script fails, serving as the fixture for the bad MIME type executeScript test.

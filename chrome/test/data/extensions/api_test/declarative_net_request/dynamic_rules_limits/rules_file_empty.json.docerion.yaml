@@ -1,0 +1,4 @@
+# Docerion header of rules_file_empty.json.
+type: test
+title: Empty declarativeNetRequest ruleset file
+summary: Empty ruleset JSON file referenced by the test extension manifest to satisfy the declarative_net_request rule_resources requirement.

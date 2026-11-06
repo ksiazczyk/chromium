@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: DNS API test extension manifest
+summary: Manifest for the end-to-end chrome.dns test app, loading background.js and requesting the dns permission.

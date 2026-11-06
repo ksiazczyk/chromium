@@ -1,0 +1,4 @@
+# Docerion header of manifest_extension_v3.json.
+type: test
+title: Manifest v3 extension for document scan API tests
+summary: Manifest v3 extension definition granting documentScan permission and localhost host permissions for the API browser tests.

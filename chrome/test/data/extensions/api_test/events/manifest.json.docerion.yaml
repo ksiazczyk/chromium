@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Events API test extension manifest
+summary: Manifest version 3 definition for the events API test extension, registering background.js as its service worker and declaring an action.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Document scan API perform scan tests
+// summary: Runs browser tests for the chrome.documentScan API, covering scanner listing, opening, option groups, closing and scan flows with permissions allowed.
+// ---
+
 // These tests should be run with get scanner list permission allowed and start
 // scan permission allowed (or the extension should be trusted).
 chrome.test.runTests([

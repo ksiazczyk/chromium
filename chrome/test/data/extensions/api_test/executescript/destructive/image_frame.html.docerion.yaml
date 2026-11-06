@@ -1,0 +1,4 @@
+# Docerion header of image_frame.html.
+type: test
+title: Image frame test page
+summary: Test page embedding the image fixture in an iframe for the destructive executeScript extension tests.

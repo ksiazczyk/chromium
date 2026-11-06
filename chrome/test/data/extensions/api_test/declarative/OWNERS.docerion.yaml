@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for declarative extension API test data
+summary: Inherits code ownership from the declarative extensions API implementation by referencing its OWNERS file, applying the same reviewer rules to the test data directory.
