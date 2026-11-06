@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Snackbar facility for snackbar tests
+// summary: Test facility for snackbars at the bottom of the activity, matching expected message and button text and supporting programmatic dismissal to commit pending closures.
+// ---
+
 package org.chromium.chrome.test.transit.ui;
 
 import static androidx.test.espresso.matcher.ViewMatchers.withId;

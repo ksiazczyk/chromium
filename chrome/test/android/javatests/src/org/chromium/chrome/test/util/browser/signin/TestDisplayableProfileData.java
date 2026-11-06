@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestDisplayableProfileData
+// summary: Provides standard DisplayableProfileData test instances for known test accounts to use in signin-related tests.
+// ---
+
 package org.chromium.chrome.test.util.browser.signin;
 
 import android.graphics.drawable.BitmapDrawable;

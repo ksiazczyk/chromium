@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Context menu facility for Android transit tests
+// summary: Defines a scrollable facility representing an opened context menu, declaring the menu list view and the header item for Chrome Android transit tests.
+// ---
+
 package org.chromium.chrome.test.transit.context_menu;
 
 import static androidx.test.espresso.matcher.ViewMatchers.withId;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ActivityTestUtils
+// summary: Provides helpers to wait for and capture activities launched during Chrome Android instrumentation tests.
+// ---
+
 package org.chromium.chrome.test.util;
 
 import static org.hamcrest.Matchers.is;

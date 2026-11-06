@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab switcher card facility base class
+// summary: Abstract base class for card facilities in the Hub Tab Switcher, declaring title and card view elements plus optional position checks and long-press helpers.
+// ---
+
 package org.chromium.chrome.test.transit.hub;
 
 import static androidx.test.espresso.matcher.ViewMatchers.hasDescendant;

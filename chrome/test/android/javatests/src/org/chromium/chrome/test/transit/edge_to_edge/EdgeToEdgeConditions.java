@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Edge-to-edge test conditions
+// summary: Defines test conditions that provide the edge-to-edge controller, bottom controls stacker and bottom chin when the features are enabled.
+// ---
+
 package org.chromium.chrome.test.transit.edge_to_edge;
 
 import org.chromium.base.test.transit.ConditionStatusWithResult;

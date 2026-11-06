@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabSwitcherTabCardContextMenuFacility
+// summary: Test facility modeling the context menu shown on long press or right click of a tab switcher card, with items like share, group, pin and close.
+// ---
+
 package org.chromium.chrome.test.transit.hub;
 
 import static androidx.test.espresso.matcher.ViewMatchers.withId;

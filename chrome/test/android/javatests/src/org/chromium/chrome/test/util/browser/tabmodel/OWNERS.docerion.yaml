@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: OWNERS file that inherits code owners from chrome/browser/tabmodel/OWNERS for this test utility directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BookmarkTestRule
+// summary: Test rule that opens the bookmark manager and tears it down on both phone and tablet layouts.
+// ---
+
 package org.chromium.chrome.test.util;
 
 import static org.chromium.base.ThreadUtils.runOnUiThreadBlocking;

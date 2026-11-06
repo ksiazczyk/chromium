@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: New Tab Page test utilities
+// summary: Helpers for waiting until the NTP is loaded and creating fake site suggestions for Chrome tests.
+// ---
+
 package org.chromium.chrome.test.util;
 
 import android.content.Context;

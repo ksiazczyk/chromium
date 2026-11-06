@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the Chrome Public test support APK
+summary: Defines the chrome_public_test_support_apk target, attaching the Android manifest and test dependency Java libraries for Chrome Android tests.

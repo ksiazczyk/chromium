@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake OfflinePageBridge test utility
+// summary: Fake implementation of OfflinePageBridge for testing its clients, allowing tests to set offline page items and control when page selection requests are answered.
+// ---
+
 package org.chromium.chrome.test.util.browser.offlinepages;
 
 import org.chromium.base.Callback;

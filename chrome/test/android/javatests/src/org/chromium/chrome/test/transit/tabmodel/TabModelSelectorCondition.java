@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab model selector condition
+// summary: Test condition that resolves the TabModelSelector from a ChromeActivity and provides it as its result.
+// ---
+
 package org.chromium.chrome.test.transit.tabmodel;
 
 import org.chromium.base.test.transit.ConditionStatusWithResult;

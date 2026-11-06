@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome transition triggers
+// summary: Collection of Chrome-specific triggers to start transitions, such as invoking menu actions and closing tabs programmatically.
+// ---
+
 package org.chromium.chrome.test.transit;
 
 import androidx.test.platform.app.InstrumentationRegistry;

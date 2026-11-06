@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Edge-to-edge bottom chin test facility
+// summary: Test facility that waits for the edge-to-edge bottom chin browser control layer and optionally verifies whether the page opted into edge-to-edge.
+// ---
+
 package org.chromium.chrome.test.transit.edge_to_edge;
 
 import org.chromium.base.test.transit.Condition;

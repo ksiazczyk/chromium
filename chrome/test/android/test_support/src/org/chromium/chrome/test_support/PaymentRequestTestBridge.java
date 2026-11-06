@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PaymentRequest test bridge
+// summary: JNI test bridge providing test delegates and observers to control PaymentRequest behavior from C++ tests.
+// ---
+
 package org.chromium.chrome.test_support;
 
 import android.text.TextUtils;

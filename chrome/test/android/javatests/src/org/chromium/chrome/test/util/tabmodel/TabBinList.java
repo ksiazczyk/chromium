@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabBinList test data class for tab switcher grouping
+// summary: Test utility data class describing how tabs are grouped into cards in the Tab Switcher, mapping each tab ID to its card index and position within the group.
+// ---
+
 package org.chromium.chrome.test.util.tabmodel;
 
 import java.util.ArrayList;

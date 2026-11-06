@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebappTestPage
+// summary: Computes URLs of web app banner test pages with manifest and action query parameters and navigates tabs for webapp tests.
+// ---
+
 package org.chromium.chrome.test.util.browser.webapps;
 
 import android.net.Uri;

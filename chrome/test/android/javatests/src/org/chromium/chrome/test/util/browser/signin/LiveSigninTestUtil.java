@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LiveSigninTestUtil
+// summary: Utility that adds live accounts to the device and signs them in for testing without Sync or with Sync consent, with the implementation selected at build time.
+// ---
+
 package org.chromium.chrome.test.util.browser.signin;
 
 import org.hamcrest.Matchers;

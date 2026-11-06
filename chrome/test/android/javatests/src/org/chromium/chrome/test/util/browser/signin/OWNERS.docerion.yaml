@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Owners file that delegates code review responsibility to the Android owners file of the signin components directory.

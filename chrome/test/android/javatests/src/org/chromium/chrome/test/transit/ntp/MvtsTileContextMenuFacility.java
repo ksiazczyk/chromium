@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Most visited tile context menu facility
+// summary: Models the context menu of a Most Visited Tiles tile, offering actions such as open in new tab, remove, pin and unpin that drive NTP state changes.
+// ---
+
 package org.chromium.chrome.test.transit.ntp;
 
 import static androidx.test.espresso.matcher.ViewMatchers.withId;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Omnibox test utilities
+// summary: Utility methods and classes for testing the omnibox, including URL bar input, suggestion retrieval, and dropdown interactions.
+// ---
+
 package org.chromium.chrome.test.util;
 
 import static org.junit.Assert.assertNotNull;

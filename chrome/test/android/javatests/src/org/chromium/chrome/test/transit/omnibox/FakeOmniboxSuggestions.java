@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake omnibox suggestions test helper
+// summary: Test helper that installs a fake AutocompleteController to simulate omnibox suggestions and autocomplete results received from the server.
+// ---
+
 package org.chromium.chrome.test.transit.omnibox;
 
 import static org.mockito.ArgumentMatchers.any;

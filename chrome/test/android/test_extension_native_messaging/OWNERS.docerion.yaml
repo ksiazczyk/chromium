@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Test extension native messaging owners
+summary: OWNERS file that delegates review ownership to the OWNERS file of the extensions messaging API directory.

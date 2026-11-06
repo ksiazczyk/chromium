@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Add to Group submenu facility for app menu tests
+// summary: Facility representing the Add to Group submenu popup in the Chrome app menu, letting tests select or expect tab group items.
+// ---
+
 package org.chromium.chrome.test.transit;
 
 import static androidx.test.espresso.matcher.ViewMatchers.hasDescendant;

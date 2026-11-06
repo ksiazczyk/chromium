@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test rule reusing one ChromeTabbedActivity across a batch
+// summary: JUnit test rule that reuses the same ChromeTabbedActivity throughout a batched transit test run, chaining the activity test rule with the batched public transit rule.
+// ---
+
 package org.chromium.chrome.test.transit;
 
 import android.annotation.SuppressLint;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BottomBarTestUtils
+// summary: Helpers to check bottom bar visibility and locate bottom bar or toolbar views during tests.
+// ---
+
 package org.chromium.chrome.test.util;
 
 import android.app.Activity;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PopupOnLoadPageStation
+// summary: Page station for popup_test.html that opens two pop-ups on load, supporting scenarios where pop-ups are blocked or where two new tabs are expected.
+// ---
+
 package org.chromium.chrome.test.transit.testhtmls;
 
 import android.util.Pair;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Regular tab switcher station
+// summary: Test station for the regular tab switcher pane, handling empty state, new tab creation, and the archive message card.
+// ---
+
 package org.chromium.chrome.test.transit.hub;
 
 import static androidx.test.espresso.matcher.ViewMatchers.isSelected;

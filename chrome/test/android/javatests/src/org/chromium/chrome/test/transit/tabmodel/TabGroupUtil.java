@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab group test utilities
+// summary: Test utilities that build English strings for tab and item counts plus tab grouping and closing snackbar messages.
+// ---
+
 package org.chromium.chrome.test.transit.tabmodel;
 
 /** Utilities for testing tab groups. */

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PageInteractableOrHiddenCondition for loaded tabs
+// summary: Test condition fulfilled when the loaded tab is user interactable or hidden.
+// ---
+
 package org.chromium.chrome.test.transit.page;
 
 import org.chromium.base.test.transit.ConditionStatus;

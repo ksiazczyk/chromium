@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab strip test utilities
+// summary: Helpers to access compositor tab strip helpers, find tabs by ID, simulate clicks, and wait for animations to settle in tests.
+// ---
+
 package org.chromium.chrome.test.util;
 
 import android.app.Instrumentation;

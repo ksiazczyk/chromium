@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CctPageStation for Custom Tab pages
+// summary: Test station representing a web or native page shown within a Custom Tab activity, declaring web contents and frame info conditions.
+// ---
+
 package org.chromium.chrome.test.transit.page;
 
 import org.chromium.base.test.transit.Element;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab switcher list editor test facility
+// summary: Test facility for the Select Tabs multi-selection UI of the Hub Tab Switcher, supporting selecting tabs and groups and opening the editor app menu.
+// ---
+
 package org.chromium.chrome.test.transit.hub;
 
 import static androidx.test.espresso.action.ViewActions.click;

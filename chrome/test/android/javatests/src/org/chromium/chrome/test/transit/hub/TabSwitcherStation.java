@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabSwitcherStation
+// summary: Abstract base station for Hub tab switcher transit tests, declaring shared elements such as the tab grid, search box and new tab button.
+// ---
+
 package org.chromium.chrome.test.transit.hub;
 
 import static androidx.test.espresso.action.ViewActions.click;

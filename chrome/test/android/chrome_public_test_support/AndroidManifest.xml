@@ -4,6 +4,13 @@ Copyright 2014 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: test
+title: Android manifest for the Chrome Public test support APK
+summary: Declares the test support APK's activities and services, including a deep link activity and a Trusted Web Activity service used by Chrome Android tests.
+-->
+
   <manifest xmlns:android="http://schemas.android.com/apk/res/android"
       xmlns:tools="http://schemas.android.com/tools"
       package="org.chromium.chrome.tests.support">

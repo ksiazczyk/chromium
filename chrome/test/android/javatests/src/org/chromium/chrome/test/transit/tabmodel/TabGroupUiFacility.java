@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab group UI facility
+// summary: Test facility representing the bottom tab strip UI, declaring its view element and an enter condition for the expected grouped tab IDs.
+// ---
+
 package org.chromium.chrome.test.transit.tabmodel;
 
 import static androidx.test.espresso.matcher.ViewMatchers.withId;

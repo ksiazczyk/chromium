@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Common metadata for Chrome Android tests
+summary: Declares the monorail component, Android OS, and buganizer component used for issues in Chrome Android test code.

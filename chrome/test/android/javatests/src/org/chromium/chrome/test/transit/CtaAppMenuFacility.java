@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Base facility for ChromeTabbedActivity app menus
+// summary: Abstract base class for app menu facilities opened from the ChromeTabbedActivity three-dot menu, providing access to the app menu coordinator for testing.
+// ---
+
 package org.chromium.chrome.test.transit;
 
 import org.chromium.base.test.transit.Station;

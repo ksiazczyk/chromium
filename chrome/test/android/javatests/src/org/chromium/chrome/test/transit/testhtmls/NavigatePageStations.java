@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NavigatePageStations
+// summary: Abstract helper providing page station builders for the navigate one.html, two.html, three.html and simple.html test pages with expected URLs and titles.
+// ---
+
 package org.chromium.chrome.test.transit.testhtmls;
 
 import org.chromium.chrome.test.transit.page.BasePageStation.Builder;

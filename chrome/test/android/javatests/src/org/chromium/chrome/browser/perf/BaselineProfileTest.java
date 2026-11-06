@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Baseline profile generation test for Chrome on Android
+// summary: JUnit test that collects an Android baseline profile for Chrome by launching a CCT intent against a locally hosted test page and waiting for it to load.
+// ---
+
 package org.chromium.chrome.browser.perf;
 
 import static com.google.common.truth.Truth.assertThat;

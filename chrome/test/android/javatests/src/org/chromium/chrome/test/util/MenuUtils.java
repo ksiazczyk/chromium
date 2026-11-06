@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Menu test utilities
+// summary: Provides helpers to invoke Chrome menu items synchronously and trigger activities from menu presses in Android instrumentation tests.
+// ---
+
 package org.chromium.chrome.test.util;
 
 import android.app.Instrumentation;

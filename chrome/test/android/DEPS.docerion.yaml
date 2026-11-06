@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for Chrome Android tests
+summary: Specifies allowed dependency include rules and per-file exceptions for Chrome Android test code.

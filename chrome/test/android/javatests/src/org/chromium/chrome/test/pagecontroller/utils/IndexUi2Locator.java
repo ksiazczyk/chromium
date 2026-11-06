@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IndexUi2Locator
+// summary: Locator that returns the ith node among the nodes found by another IUi2Locator.
+// ---
+
 package org.chromium.chrome.test.pagecontroller.utils;
 
 import androidx.annotation.NonNull;

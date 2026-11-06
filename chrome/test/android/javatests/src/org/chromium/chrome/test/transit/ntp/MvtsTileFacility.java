@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Most visited tile facility
+// summary: Represents a single Most Visited Tiles tile on the New Tab Page, supporting navigation to its URL and opening its context menu.
+// ---
+
 package org.chromium.chrome.test.transit.ntp;
 
 import org.chromium.base.test.transit.Facility;

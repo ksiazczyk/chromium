@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA
+summary: Chromium directory metadata file that inherits mixins from the components/sync common metadata.

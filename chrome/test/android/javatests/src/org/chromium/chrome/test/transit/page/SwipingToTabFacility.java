@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SwipingToTabFacility
+// summary: Test facility representing the toolbar swipe state while moving between two tabs, finishing the drag to arrive at a page station.
+// ---
+
 package org.chromium.chrome.test.transit.page;
 
 import org.chromium.base.test.transit.Facility;

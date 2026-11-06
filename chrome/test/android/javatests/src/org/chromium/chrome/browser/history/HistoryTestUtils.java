@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: History test utilities
+// summary: Shared helper class for Android browsing history tests, providing assertions that check the contents, headers and footers of a HistoryAdapter.
+// ---
+
 package org.chromium.chrome.browser.history;
 
 import org.junit.Assert;

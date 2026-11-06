@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the context menu transit test directory
+summary: Delegates ownership of this test directory to the owners of the browser context menu code.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ui2LocatorsTest unit tests
+// summary: Robolectric unit tests for the Ui2Locators factory, covering child index, child depth, resource id, and resource name locators with mocked UI nodes.
+// ---
+
 package org.chromium.chrome.test.pagecontroller.utils;
 
 import static org.junit.Assert.assertEquals;

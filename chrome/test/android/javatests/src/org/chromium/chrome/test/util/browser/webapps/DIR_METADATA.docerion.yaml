@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Webapps test utilities DIR_METADATA
+summary: Points the webapps test utility directory to the shared Chrome webapps common metadata via a mixin.

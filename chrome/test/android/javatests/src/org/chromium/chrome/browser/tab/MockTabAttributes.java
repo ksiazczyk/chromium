@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockTabAttributes test user data
+// summary: Attaches test attributes to a MockTab, recording whether it was restored from disk.
+// ---
+
 package org.chromium.chrome.browser.tab;
 
 import org.chromium.base.UserData;

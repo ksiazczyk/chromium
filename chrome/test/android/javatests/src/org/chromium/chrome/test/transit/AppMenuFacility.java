@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App menu facility base class
+// summary: Base facility modeling the app menu opened from the toolbar, declaring menu items and providing shared menu item IDs and helpers.
+// ---
+
 package org.chromium.chrome.test.transit;
 
 import static androidx.test.espresso.matcher.ViewMatchers.withId;

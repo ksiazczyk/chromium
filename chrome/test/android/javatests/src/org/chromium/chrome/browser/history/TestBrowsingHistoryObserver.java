@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestBrowsingHistoryObserver
+// summary: Test double implementing BrowsingHistoryObserver that stores the latest history query results and signals completion via a CallbackHelper.
+// ---
+
 package org.chromium.chrome.browser.history;
 
 import org.chromium.base.test.util.CallbackHelper;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Most Visited Tiles section facility
+// summary: Represents the Most Visited Tiles section of the New Tab Page, declaring tile items, separators and the add-new button for transit tests.
+// ---
+
 package org.chromium.chrome.test.transit.ntp;
 
 import static androidx.test.espresso.matcher.ViewMatchers.withId;

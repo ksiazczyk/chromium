@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Utils page controller utility methods
+// summary: General-purpose helpers for the page controller, including elapsed time tracking, safe sleeping, and nullable list conversions.
+// ---
+
 package org.chromium.chrome.test.pagecontroller.utils;
 
 import android.os.SystemClock;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestContentProvider
+// summary: Android content provider used in Chrome instrumentation tests to serve test resources, set data paths, and track or reset resource request counts.
+// ---
+
 /** Content provider for testing content URLs. */
 package org.chromium.chrome.test;
 

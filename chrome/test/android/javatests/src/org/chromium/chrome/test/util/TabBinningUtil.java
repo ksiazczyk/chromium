@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab binning test utilities
+// summary: Bins tabs into groups representing tab switcher cards and computes expected card positions for test assertions.
+// ---
+
 package org.chromium.chrome.test.util;
 
 import org.junit.Assert;

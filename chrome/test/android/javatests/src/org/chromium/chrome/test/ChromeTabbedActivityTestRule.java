@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeTabbedActivityTestRule for ChromeTabbedActivity tests
+// summary: Activity test rule that launches and drives ChromeTabbedActivity in instrumentation tests, including starting the main activity from the launcher or a given URL.
+// ---
+
 package org.chromium.chrome.test;
 
 import android.app.ActivityOptions;

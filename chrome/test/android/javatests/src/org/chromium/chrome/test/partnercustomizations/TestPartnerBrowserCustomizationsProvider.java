@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test partner browser customizations provider
+// summary: Test content provider simulating partner customizations, serving homepage and disable-incognito/bookmarks-editing flags for Chrome tests.
+// ---
+
 package org.chromium.chrome.test.partnercustomizations;
 
 import android.content.ContentProvider;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Lens intent fulfilled condition
+// summary: Test condition that verifies the Google Lens intent is launched from Tips Notifications with the expected entry point.
+// ---
+
 package org.chromium.chrome.test.transit.notifications;
 
 import static org.mockito.ArgumentMatchers.any;

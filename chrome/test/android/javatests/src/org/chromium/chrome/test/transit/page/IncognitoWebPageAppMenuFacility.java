@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IncognitoWebPageAppMenuFacility for incognito web pages
+// summary: Test facility modeling the app menu items shown when pressing the menu button in an incognito tab displaying a web page.
+// ---
+
 package org.chromium.chrome.test.transit.page;
 
 import org.chromium.chrome.browser.incognito.IncognitoUtils;

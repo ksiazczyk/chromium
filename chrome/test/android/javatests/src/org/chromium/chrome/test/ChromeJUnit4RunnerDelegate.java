@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeJUnit4RunnerDelegate for parameterized //chrome JUnit4 tests
+// summary: Runner delegate that lets //chrome JUnit4 tests run as parameterized tests by delegating test method computation and instantiation to the parameterized runner common.
+// ---
+
 package org.chromium.chrome.test;
 
 import org.junit.runners.model.FrameworkMethod;

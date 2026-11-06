@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Base ChromeTabbedActivity transit test rule
+// summary: Base class for Public Transit integration tests that start ChromeTabbedActivity, exposing activity, tab, profile, and URL loading helpers.
+// ---
+
 package org.chromium.chrome.test.transit;
 
 import android.app.Activity;

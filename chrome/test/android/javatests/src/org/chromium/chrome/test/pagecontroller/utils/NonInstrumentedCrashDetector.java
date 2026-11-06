@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NonInstrumentedCrashDetector
+// summary: Utility that detects crashes of the APK-under-test from Breakpad dumps for test suites where MonitoringInstrumentation detection does not work.
+// ---
+
 package org.chromium.chrome.test.pagecontroller.utils;
 
 import static org.junit.Assert.assertTrue;

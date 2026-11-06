@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockTabCreatorManager for tab model tests
+// summary: Mock TabCreatorManager that supplies regular and incognito MockTabCreator instances backed by a TabModelSelector for tests.
+// ---
+
 package org.chromium.chrome.test.util.browser.tabmodel;
 
 import org.chromium.chrome.browser.tabmodel.TabCreatorManager;

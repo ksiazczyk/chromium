@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Signed-out account menu test facility
+// summary: Test facility modeling the account menu popup shown when the toolbar sign-in button is clicked while signed out, exposing its views and a back-press dismiss action.
+// ---
+
 package org.chromium.chrome.test.transit.signin;
 
 import static androidx.test.espresso.matcher.ViewMatchers.withId;

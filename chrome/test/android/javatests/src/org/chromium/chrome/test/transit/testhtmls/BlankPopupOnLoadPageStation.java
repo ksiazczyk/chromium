@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BlankPopupOnLoadPageStation
+// summary: Page station for popup_blank_test.html that loads the page in the current tab and expects the pop-up to be blocked with a pop-up blocked message shown.
+// ---
+
 package org.chromium.chrome.test.transit.testhtmls;
 
 import android.util.Pair;

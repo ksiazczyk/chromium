@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AdvancedProtectionTestRule
+// summary: JUnit rule that installs a fake OS additional security provider to test advanced protection behavior.
+// ---
+
 package org.chromium.chrome.test.util;
 
 import org.junit.rules.ExternalResource;

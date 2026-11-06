@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SettingsStation for Chrome settings screens
+// summary: Station representing a Chrome settings screen, declaring its fragment and search box elements and providing scrolling to a given preference.
+// ---
+
 package org.chromium.chrome.test.transit.settings;
 
 import static androidx.test.espresso.matcher.ViewMatchers.withId;

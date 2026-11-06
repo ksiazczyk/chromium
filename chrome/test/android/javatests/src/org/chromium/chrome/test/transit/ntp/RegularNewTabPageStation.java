@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Regular New Tab Page station
+// summary: Represents the regular New Tab Page screen in transit tests, declaring the search box, logo, URL bar and native page load conditions.
+// ---
+
 package org.chromium.chrome.test.transit.ntp;
 
 import static androidx.test.espresso.matcher.ViewMatchers.isAssignableFrom;

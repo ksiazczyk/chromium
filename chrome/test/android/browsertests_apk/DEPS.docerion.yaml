@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for browsertests_apk
+summary: Specifies include rules that allow the browsertests_apk folder to depend on the content shell Android browsertests sources.

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Trusted Web Activity test directory metadata
+summary: Maps the directory to the UI>Browser>Mobile>TrustedWebActivities Monorail component and a Buganizer component ID for issue tracking.

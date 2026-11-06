@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebContentsPresentCondition
+// summary: Test condition fulfilled when the supplied tab has live WebContents, returning them as its result.
+// ---
+
 package org.chromium.chrome.test.transit.page;
 
 import org.chromium.base.test.transit.ConditionStatusWithResult;

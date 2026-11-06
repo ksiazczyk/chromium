@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TopBottomLinksPageStation
+// summary: Page station for a test page with links at the top and bottom, separated by more than a viewport, used for scrolling and edge-to-edge test scenarios.
+// ---
+
 package org.chromium.chrome.test.transit.testhtmls;
 
 import android.util.Pair;

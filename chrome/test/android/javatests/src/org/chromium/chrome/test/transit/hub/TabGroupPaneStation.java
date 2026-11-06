@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab groups pane station
+// summary: Test station representing the Hub tab groups pane, declaring the group list, new group button and search elements with actions to create groups and open search.
+// ---
+
 package org.chromium.chrome.test.transit.hub;
 
 import static androidx.test.espresso.matcher.ViewMatchers.withId;

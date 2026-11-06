@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ActivityWithDeepLink test activity
+// summary: Test activity that accepts browsable intents to a notifications deep link on example.com, required for TestTrustedWebActivityService to be found.
+// ---
+
 package org.chromium.chrome.browser.browserservices;
 
 import android.app.Activity;

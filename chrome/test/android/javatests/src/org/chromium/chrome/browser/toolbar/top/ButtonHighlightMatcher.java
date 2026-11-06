@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Hamcrest matcher for toolbar button highlighting
+// summary: Provides a custom Hamcrest matcher used in toolbar tests to check whether a view, such as a toolbar button, is highlighted via a PulseDrawable or ViewHighlighter.
+// ---
+
 package org.chromium.chrome.browser.toolbar.top;
 
 import android.graphics.drawable.LayerDrawable;

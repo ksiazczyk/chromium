@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestTrustedWebActivityService test stub
+// summary: Test TrustedWebActivityService for TrustedWebActivityClientTest that handles notifications, token storage, and extra commands for location and contact permissions.
+// ---
+
 package org.chromium.chrome.browser.browserservices;
 
 import android.app.Notification;

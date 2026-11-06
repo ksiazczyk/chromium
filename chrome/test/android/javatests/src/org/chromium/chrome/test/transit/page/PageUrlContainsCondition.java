@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PageUrlContainsCondition
+// summary: Test condition that verifies the loaded tab's URL contains an expected substring.
+// ---
+
 package org.chromium.chrome.test.transit.page;
 
 import static org.chromium.base.test.transit.Condition.whether;

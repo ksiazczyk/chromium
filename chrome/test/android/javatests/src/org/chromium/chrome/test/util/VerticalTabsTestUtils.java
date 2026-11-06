@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Vertical tabs test utilities
+// summary: Test helpers for vertical tabs and tab strip mode, including a toggle that waits for UI transitions and auto-reverts when the test finishes.
+// ---
+
 package org.chromium.chrome.test.util;
 
 import static androidx.test.espresso.matcher.ViewMatchers.withId;

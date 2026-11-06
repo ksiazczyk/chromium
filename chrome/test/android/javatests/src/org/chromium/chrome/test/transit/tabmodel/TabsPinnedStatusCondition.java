@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tabs pinned status condition
+// summary: UI-thread condition fulfilled when the pinned state of the provided tab IDs in a TabModel matches the expected pinned or unpinned value.
+// ---
+
 package org.chromium.chrome.test.transit.tabmodel;
 
 import org.chromium.base.test.transit.ConditionStatus;

@@ -1,0 +1,4 @@
+# Docerion header of test.html.
+type: test
+title: Test page for baseline profile collection
+summary: Minimal HTML page served by the embedded test server as the target page while the baseline profile test drives Chrome.

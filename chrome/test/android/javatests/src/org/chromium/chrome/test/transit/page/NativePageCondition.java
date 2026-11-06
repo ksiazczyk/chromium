@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NativePageCondition for expected native page type
+// summary: Test condition fulfilled when the loaded tab shows a native page of the expected type, providing the typed native page as its result.
+// ---
+
 package org.chromium.chrome.test.transit.page;
 
 import org.chromium.base.test.transit.ConditionStatusWithResult;

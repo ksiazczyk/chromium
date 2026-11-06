@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SadTab test rule
+// summary: JUnit rule that installs a stubbed SadTab instance so tests can show or hide the sad tab UI and check its state.
+// ---
+
 package org.chromium.chrome.test.util;
 
 import android.content.Context;

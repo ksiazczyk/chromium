@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestEdgeToEdgeController
+// summary: Stub EdgeToEdgeController implementation for tests that reports a configurable bottom inset and no-ops adjuster and observer registration.
+// ---
+
 package org.chromium.chrome.test.util.browser.edge_to_edge;
 
 import org.chromium.chrome.browser.ui.edge_to_edge.EdgeToEdgeController;

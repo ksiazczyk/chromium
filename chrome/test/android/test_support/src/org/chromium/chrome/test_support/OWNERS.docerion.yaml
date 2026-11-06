@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for test_support
+summary: Per-file ownership rule delegating review of PaymentRequestTestBridge.java to the payments component OWNERS.

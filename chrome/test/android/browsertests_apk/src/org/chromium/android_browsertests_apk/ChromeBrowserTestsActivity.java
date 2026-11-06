@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeBrowserTestsActivity
+// summary: Android activity extending ChromeTabbedActivity that sets up command-line flags, a private data directory, and the native test harness for running Chrome browser tests.
+// ---
+
 package org.chromium.android_browsertests_apk;
 
 import android.content.Intent;

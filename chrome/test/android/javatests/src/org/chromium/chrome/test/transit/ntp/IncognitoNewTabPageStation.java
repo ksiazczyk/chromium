@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Incognito New Tab Page station
+// summary: Represents the Incognito New Tab Page screen in transit tests, declaring its URL bar, icon, gone-incognito text and app menu entry point.
+// ---
+
 package org.chromium.chrome.test.transit.ntp;
 
 import static androidx.test.espresso.matcher.ViewMatchers.withId;

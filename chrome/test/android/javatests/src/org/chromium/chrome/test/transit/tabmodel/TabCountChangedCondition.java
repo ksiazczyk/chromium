@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab count changed condition
+// summary: Test condition that waits until the number of tabs in a TabModel changes by an expected amount, reporting starting, expected and current counts.
+// ---
+
 package org.chromium.chrome.test.transit.tabmodel;
 
 import static org.chromium.chrome.test.util.ChromeTabUtils.getTabCountOnUiThread;

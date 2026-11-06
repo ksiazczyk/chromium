@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: test
+title: Trusted Web Activity test Java library build definition
+summary: Defines the Android Java library with test helper classes such as TestTrustedWebActivityService and MessengerService used for Trusted Web Activity tests.

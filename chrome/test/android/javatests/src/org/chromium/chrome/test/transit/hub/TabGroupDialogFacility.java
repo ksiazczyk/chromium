@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab group dialog test facility
+// summary: Test facility modeling the dialog shown when a tab group is opened from the Tab Switcher, exposing toolbar, tabs list, color icon and title input elements for UI journeys.
+// ---
+
 package org.chromium.chrome.test.transit.hub;
 
 import static androidx.test.espresso.action.ViewActions.replaceText;

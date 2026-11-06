@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeActivityTestRule for tests using ChromeActivity
+// summary: JUnit test rule that starts ChromeActivity-based tests with an embedded test server and disables the offline indicator and in-product help while slowing pulse animations.
+// ---
+
 package org.chromium.chrome.test;
 
 import static org.junit.Assert.assertNotNull;

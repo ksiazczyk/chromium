@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Delegates code ownership of the edge-to-edge transit tests to the edge-to-edge browser UI OWNERS file.

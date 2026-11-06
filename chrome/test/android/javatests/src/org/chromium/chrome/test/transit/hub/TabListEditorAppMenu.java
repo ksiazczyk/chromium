@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab list editor app menu test facility
+// summary: Test facility for the app menu shown in the Select Tabs state of the Hub Tab Switcher, with items to close, group, bookmark, pin and share selected tabs.
+// ---
+
 package org.chromium.chrome.test.transit.hub;
 
 import static androidx.test.espresso.matcher.ViewMatchers.withText;

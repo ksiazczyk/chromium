@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick Delete snackbar test facility
+// summary: Test facility for the snackbar shown after deleting browsing data, computing the expected message for each selected deletion time period.
+// ---
+
 package org.chromium.chrome.test.transit.quick_delete;
 
 import org.chromium.chrome.browser.browsing_data.TimePeriod;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick Delete dialog test facility
+// summary: Test facility modeling the confirmation dialog shown when Delete browsing data is chosen from the Chrome app menu, exposing the time period spinner, info rows, and delete confirmation flow.
+// ---
+
 package org.chromium.chrome.test.transit.quick_delete;
 
 import static androidx.test.espresso.matcher.ViewMatchers.withId;

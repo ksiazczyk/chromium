@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockTabModel for tab model tests
+// summary: Mock TabModel extending EmptyTabModel that handles tab creation and queries, including a comprehensive tab list simulating tabs pending closure.
+// ---
+
 package org.chromium.chrome.test.util.browser.tabmodel;
 
 import androidx.annotation.NonNull;

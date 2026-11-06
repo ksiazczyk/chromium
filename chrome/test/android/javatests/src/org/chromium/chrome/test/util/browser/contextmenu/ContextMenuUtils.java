@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Context menu test utilities for Chrome Android
+// summary: Provides helper methods to open context menus via long press or right click and select menu items in Android instrumentation tests.
+// ---
+
 package org.chromium.chrome.test.util.browser.contextmenu;
 
 import static androidx.test.espresso.intent.Intents.intended;

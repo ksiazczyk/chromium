@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Grants review ownership of this directory to the omnibox Android component owners via a file reference.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: JNI onload initialization for Android browser tests
+// summary: Native JNI_OnLoad hook that initializes the Chrome test launcher, network service test helper and UI controls for the Android browser tests APK.
+// ---
+
 #include <memory>
 
 #include "base/android/jni_android.h"

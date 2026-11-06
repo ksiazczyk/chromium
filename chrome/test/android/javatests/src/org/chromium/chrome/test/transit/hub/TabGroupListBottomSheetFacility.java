@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab group list bottom sheet test facility
+// summary: Test facility for the bottom sheet that lists tab groups when moving tabs into a group, including the new tab group row and actions to add tabs to a group.
+// ---
+
 package org.chromium.chrome.test.transit.hub;
 
 import static androidx.test.espresso.action.ViewActions.click;

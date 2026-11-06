@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UiLocatorHelper retrying locator helper
+// summary: Wraps IUi2Locators with retry and timeout support to reduce flakiness and exposes convenience methods for text, description, and checked state.
+// ---
+
 package org.chromium.chrome.test.pagecontroller.utils;
 
 import androidx.annotation.NonNull;

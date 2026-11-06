@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test rule for loading native in reduced mode
+// summary: Test rule that loads native libraries in reduced (minimal browser) mode with the required flags and asserts the minimal browser, not the full browser, started.
+// ---
+
 package org.chromium.chrome.test;
 
 import org.junit.Assert;

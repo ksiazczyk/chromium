@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Omnibox suggestions mode facility
+// summary: Test facility representing the omnibox focused in suggestions mode, declaring the suggestions dropdown and popped-out location bar depending on platform.
+// ---
+
 package org.chromium.chrome.test.transit.omnibox;
 
 import static org.chromium.base.test.transit.ViewElement.unscopedOption;
