@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PlaceholderSettingsForTest
+// summary: Placeholder PreferenceFragmentCompat implementing EmbeddableSettingsPage with a static page title for use in tests.
+// ---
+
 package org.chromium.components.browser_ui.settings;
 
 import android.content.Context;

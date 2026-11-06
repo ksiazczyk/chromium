@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SpinnerPreference dropdown preference
+// summary: Android preference for the Chromium settings UI that presents a dropdown spinner for choosing among a list of options, with single-line layout and containment background styling support.
+// ---
+
 package org.chromium.components.browser_ui.settings;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

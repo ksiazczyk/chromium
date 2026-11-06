@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: test
+title: Test search grandchild preferences screen
+summary: Android preference screen fixture containing a single grandchild preference, used by settings search tests.
+-->
+
 <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
     <Preference
         android:key="grandchild_item"

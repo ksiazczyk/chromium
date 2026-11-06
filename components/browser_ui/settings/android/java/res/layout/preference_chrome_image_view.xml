@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Chrome preference image view layout
+summary: Defines an ImageView widget for preference rows that is hidden by default and enforces the minimum touch target size.
+-->
+
 <ImageView
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"

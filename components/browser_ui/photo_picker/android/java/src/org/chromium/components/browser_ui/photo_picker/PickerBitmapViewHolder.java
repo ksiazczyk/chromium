@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Photo picker view holder
+// summary: RecyclerView view holder that displays a picker bitmap and caches decoded thumbnails through the decoder service callback.
+// ---
+
 package org.chromium.components.browser_ui.photo_picker;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

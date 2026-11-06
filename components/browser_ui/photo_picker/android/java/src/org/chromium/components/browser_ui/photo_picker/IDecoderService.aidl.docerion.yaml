@@ -1,0 +1,4 @@
+# Docerion header of IDecoderService.aidl.
+type: source
+title: IDecoderService AIDL interface
+summary: AIDL interface used by the photo picker to start image decoding jobs in a separate process.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeButtonPreference
+// summary: Preference widget with a configurable button that supports managed preferences, multiline titles, background tinting and click listeners.
+// ---
+
 package org.chromium.components.browser_ui.settings;
 
 import android.content.Context;

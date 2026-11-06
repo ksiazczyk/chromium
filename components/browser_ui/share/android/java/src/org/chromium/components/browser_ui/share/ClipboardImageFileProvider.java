@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClipboardImageFileProvider implementation of Clipboard.ImageFileProvider
+// summary: Stores, retrieves and clears metadata about the last image copied to the Android clipboard in shared preferences.
+// ---
+
 package org.chromium.components.browser_ui.share;
 
 import static org.chromium.components.browser_ui.share.ClipboardConstants.CLIPBOARD_SHARED_URI;

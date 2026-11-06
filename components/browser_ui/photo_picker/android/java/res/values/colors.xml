@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Photo Picker Android Color Resources
+summary: Defines color resources for the Android photo picker, mapping tile background and special tile text colors to shared baseline colors.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Please see src/ui/android/java/res/values/colors.xml for the shared common colors. -->
     <color name="photo_picker_tile_bg_color">@color/baseline_neutral_80</color>

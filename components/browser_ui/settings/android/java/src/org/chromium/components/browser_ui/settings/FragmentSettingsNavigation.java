@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FragmentSettingsNavigation injection interface
+// summary: Interface for injecting a SettingsNavigation instance into fragments in components that need access to settings navigation.
+// ---
+
 package org.chromium.components.browser_ui.settings;
 
 import org.chromium.build.annotations.NullMarked;

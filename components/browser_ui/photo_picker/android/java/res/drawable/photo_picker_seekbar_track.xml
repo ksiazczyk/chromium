@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Photo picker seek bar track drawable
+summary: Layer-list drawable defining the video seek bar track's background and playback progress lines, with the buffering line omitted since videos are available on disk.
+-->
+
 <!-- A SeekBar track is composed of up to three components:
 
 1) A line for showing playback progress (android:id/progress).

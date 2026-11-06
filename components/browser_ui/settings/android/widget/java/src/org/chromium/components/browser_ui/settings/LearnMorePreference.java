@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Learn more link preference
+// summary: Preference showing a clickable Learn more link with a configurable setting name used in its accessibility description.
+// ---
+
 package org.chromium.components.browser_ui.settings;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

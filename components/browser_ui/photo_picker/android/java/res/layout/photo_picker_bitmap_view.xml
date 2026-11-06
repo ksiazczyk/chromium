@@ -7,6 +7,12 @@
 
 <!-- Represents a single item in the Photo Picker. -->
 
+<!--docerion
+type: source
+title: Photo picker bitmap view layout
+summary: Android layout for a single photo picker item, defining the bitmap thumbnail, selection indicators, video play controls, and special camera/gallery tiles.
+-->
+
 <view class="org.chromium.components.browser_ui.photo_picker.PickerBitmapView"
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"

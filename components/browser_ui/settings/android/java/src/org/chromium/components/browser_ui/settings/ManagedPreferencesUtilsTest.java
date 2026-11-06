@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ManagedPreferencesUtilsTest
+// summary: Robolectric tests verifying toast messages and managed icon selection behavior of ManagedPreferencesUtils.
+// ---
+
 package org.chromium.components.browser_ui.settings;
 
 import static androidx.preference.PreferenceViewHolder.createInstanceForTests;

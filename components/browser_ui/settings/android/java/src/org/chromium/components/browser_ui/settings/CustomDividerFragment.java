@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CustomDividerFragment interface for divider customization
+// summary: Interface letting settings fragments customize divider visibility and start and end padding in embedded preference pages.
+// ---
+
 package org.chromium.components.browser_ui.settings;
 
 import org.chromium.build.annotations.NullMarked;

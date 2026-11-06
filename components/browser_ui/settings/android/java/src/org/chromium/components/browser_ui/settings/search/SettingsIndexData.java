@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SettingsIndexData
+// summary: Singleton collection of searchable preference entries with match scoring and text normalization used to power Android settings search.
+// ---
+
 package org.chromium.components.browser_ui.settings.search;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

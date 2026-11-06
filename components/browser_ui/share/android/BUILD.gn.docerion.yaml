@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for browser_ui share Android
+summary: Defines GN build targets for the share component's Android code, including native and Java libraries, JNI headers, resources, and instrumentation and Robolectric tests.

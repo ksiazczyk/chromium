@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PhotoPickerDialog tests
+// summary: Instrumented tests for the photo picker dialog covering selection, animations, video playback, and decoder service integration.
+// ---
+
 package org.chromium.components.browser_ui.photo_picker;
 
 import android.content.ContentResolver;

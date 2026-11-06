@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility delegate for expandable preferences
+// summary: Reusable accessibility delegate that reports expanded state and exposes expand and collapse actions to accessibility services for a preference.
+// ---
+
 package org.chromium.components.browser_ui.settings;
 
 import android.os.Bundle;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SettingsCustomTabLauncher interface
+// summary: Interface for opening URLs in custom tabs, including a client interface for injecting the launcher into fragments.
+// ---
+
 package org.chromium.components.browser_ui.settings;
 
 import android.content.Context;

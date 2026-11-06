@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for SettingsIndexData
+// summary: JUnit Robolectric tests covering the SettingsIndexData model, including entry add/remove, duplicate handling, orphan pruning, text normalization, search, and scoring.
+// ---
+
 package org.chromium.components.browser_ui.settings.search;
 
 import static org.junit.Assert.assertEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Photo picker sandbox bridge C++ source
+// summary: Implements a JNI entry point that starts the seccomp BPF sandbox for the photo picker image decoder on Android.
+// ---
+
 #include "base/android/android_info.h"
 #include "base/android/jni_android.h"
 #include "base/android/scoped_java_ref.h"

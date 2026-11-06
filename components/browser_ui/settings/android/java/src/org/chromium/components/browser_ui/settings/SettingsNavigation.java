@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SettingsNavigation
+// summary: Interface for navigating Chrome's Settings, enumerating the available settings fragments and supporting highlighting a preference when opening one.
+// ---
+
 package org.chromium.components.browser_ui.settings;
 
 import android.app.Activity;

@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: List divider drawable
+summary: Shape drawable providing a custom 1dp list divider because Android's list divider color attributes are private.
+-->
+
 <!-- The attributes we could use to change the color of Android's list_divider_material,
      ?attr/colorListDivider and ?attr/opacityListDivider, are private. So, we use our own drawable
      that mirrors the Android one. -->

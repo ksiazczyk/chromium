@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the share browser UI directory
+summary: Lists the directory owners, inherits owners from send_tab_to_self, and assigns per-file owners for ShareHelper and ShareParams files.

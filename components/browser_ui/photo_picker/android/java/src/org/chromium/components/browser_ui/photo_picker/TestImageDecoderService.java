@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test image decoder service
+// summary: Android service that binds an ImageDecoder to serve image decoding requests, provided for use in tests.
+// ---
+
 package org.chromium.components.browser_ui.photo_picker;
 
 import android.app.Service;

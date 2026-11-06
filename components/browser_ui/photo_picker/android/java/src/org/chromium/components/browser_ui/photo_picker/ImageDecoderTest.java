@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ImageDecoder instrumented tests
+// summary: Instrumented tests for ImageDecoder and the AIDL interfaces used for out-of-process image decoding, binding to a test decoder service.
+// ---
+
 package org.chromium.components.browser_ui.photo_picker;
 
 import android.content.ComponentName;

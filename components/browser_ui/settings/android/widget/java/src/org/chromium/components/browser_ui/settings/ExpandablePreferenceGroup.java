@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Expandable preference group with expand and collapse arrow
+// summary: Preference group that can be toggled between expanded and collapsed states, showing an arrow and updating its accessibility description accordingly.
+// ---
+
 package org.chromium.components.browser_ui.settings;
 
 import android.content.Context;

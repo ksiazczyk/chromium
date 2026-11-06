@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Photo picker bitmap metadata model
+// summary: Model holding metadata for a photo picker tile, including URI, last-modified time, and tile type, sorted newest first.
+// ---
+
 package org.chromium.components.browser_ui.photo_picker;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

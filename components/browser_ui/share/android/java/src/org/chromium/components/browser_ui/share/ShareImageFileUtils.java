@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShareImageFileUtils for shared image file operations
+// summary: Utility class managing temporary image files and URIs for sharing, including the shared files directory and clipboard file checks.
+// ---
+
 package org.chromium.components.browser_ui.share;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

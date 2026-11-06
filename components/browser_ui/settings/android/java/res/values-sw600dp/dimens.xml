@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Tablet dimension resources for settings preferences
+summary: Defines the pref_spinner_padding_end dimension (16dp) used by the settings UI on tablet-sized Android screens.
+-->
+
 <resources>
     <dimen name="pref_spinner_padding_end">16dp</dimen>
 </resources>

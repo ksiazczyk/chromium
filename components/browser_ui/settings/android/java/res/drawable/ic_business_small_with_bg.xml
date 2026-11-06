@@ -4,6 +4,13 @@ Copyright 2024 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: asset
+title: Small business icon with oval background
+summary: Layer-list drawable that places the small business icon bitmap centered on an oval surface background.
+-->
+
 <layer-list
     xmlns:android="http://schemas.android.com/apk/res/android">
     <item

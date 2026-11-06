@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EmbeddableSettingsPage base interface
+// summary: Base interface for embeddable settings page fragments that provide page titles and main menu keys for the multi-column settings UI.
+// ---
+
 package org.chromium.components.browser_ui.settings;
 
 import org.chromium.base.supplier.MonotonicObservableSupplier;

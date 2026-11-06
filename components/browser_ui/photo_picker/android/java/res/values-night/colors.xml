@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Photo picker dark theme colors
+summary: Android night-mode resource file that sets the photo picker tile and special tile background colors to the dark secondary background color.
+-->
+
 <resources>
     <color name="photo_picker_tile_bg_color">@color/default_bg_color_secondary_dark</color>
     <color name="photo_picker_special_tile_bg_color">@color/default_bg_color_secondary_dark</color>

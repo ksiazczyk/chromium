@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS referencing Android settings owners
+summary: Delegates directory ownership to the OWNERS file of the Chrome Android settings source directory.

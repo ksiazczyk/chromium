@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeBaseCheckBoxPreferenceTest
+// summary: Tests verifying managed and unmanaged behavior of ChromeBaseCheckBoxPreference, including icons and disclaimer text.
+// ---
+
 package org.chromium.components.browser_ui.settings;
 
 import static androidx.test.espresso.Espresso.onView;

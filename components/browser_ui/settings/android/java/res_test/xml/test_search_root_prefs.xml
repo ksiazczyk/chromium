@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: test
+title: Test search root preferences screen
+summary: Android preference screen fixture covering simple, categorized, fragment-linked, and skippable text preferences for settings search parser tests.
+-->
+
 <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
     <!-- Scenario 1: Simple Preference outside a category -->
     <Preference

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Intent helper header
+// summary: Declares the SendEmail function in the browser_ui namespace, which triggers a send email intent with recipient, subject, body, chooser title, and attachment.
+// ---
+
 #ifndef COMPONENTS_BROWSER_UI_SHARE_ANDROID_INTENT_HELPER_H_
 #define COMPONENTS_BROWSER_UI_SHARE_ANDROID_INTENT_HELPER_H_
 

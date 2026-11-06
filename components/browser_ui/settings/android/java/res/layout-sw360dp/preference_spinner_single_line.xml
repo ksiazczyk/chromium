@@ -7,6 +7,12 @@ found in the LICENSE file.
 
 <!-- Layout used by SpinnerPreference if singleLine is set to true. -->
 
+<!--docerion
+type: source
+title: Single-line spinner preference layout for sw360dp screens
+summary: Android layout XML used by SpinnerPreference when singleLine is set, arranging the preference title and spinner horizontally on sw360dp devices.
+-->
+
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     style="@style/PreferenceLayout"
     android:layout_width="match_parent"

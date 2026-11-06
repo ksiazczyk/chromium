@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DecoderServiceHost client for the decoder service
+// summary: Host that binds to the sandboxed DecoderService, dispatches image and video decoding requests and delivers results to picker clients.
+// ---
+
 package org.chromium.components.browser_ui.photo_picker;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

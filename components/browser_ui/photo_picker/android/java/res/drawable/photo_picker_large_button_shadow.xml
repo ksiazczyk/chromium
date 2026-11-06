@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Photo picker large button shadow drawable
+summary: Oval Android shape drawable sized to the zoom button dimension that provides the background shadow for the photo picker's large button.
+-->
+
 <shape xmlns:android="http://schemas.android.com/apk/res/android"
     android:shape="oval">
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileEnumWorkerTask media file enumeration worker
+// summary: Worker task that enumerates image and video files from MediaStore on disk and reports the list back to the photo picker.
+// ---
+
 package org.chromium.components.browser_ui.photo_picker;
 
 import android.Manifest;

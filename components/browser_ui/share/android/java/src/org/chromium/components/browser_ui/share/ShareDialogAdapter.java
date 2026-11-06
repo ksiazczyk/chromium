@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShareDialogAdapter for the share target list
+// summary: Array adapter that renders the list of activities a web page can be shared with, including their labels and icons.
+// ---
+
 package org.chromium.components.browser_ui.share;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

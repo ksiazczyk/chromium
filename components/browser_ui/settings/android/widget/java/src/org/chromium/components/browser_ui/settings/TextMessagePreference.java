@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TextMessagePreference informational text preference
+// summary: Android preference that displays non-selectable informational text with a summary that can contain links, plus accessibility live region and content description support.
+// ---
+
 package org.chromium.components.browser_ui.settings;
 
 import android.content.Context;

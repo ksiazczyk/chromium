@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CardPreference
+// summary: Preference wrapper for a material card with an icon, a text message and an optional close button for Chrome settings.
+// ---
+
 package org.chromium.components.browser_ui.settings;
 
 import static org.chromium.components.browser_ui.widget.containment.ContainmentUiUtils.parseContainmentAttributes;

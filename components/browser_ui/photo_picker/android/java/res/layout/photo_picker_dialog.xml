@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Photo picker dialog layout
+summary: Android layout for the photo picker dialog root, holding the selectable list area, a zoom-in button, and the video playback container.
+-->
+
 <org.chromium.ui.widget.OptimizedFrameLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Intent helper JNI implementation
+// summary: Implements the SendEmail function in browser_ui, forwarding email details to the Java IntentHelper class over JNI to trigger a send email intent.
+// ---
+
 #include "components/browser_ui/share/android/intent_helper.h"
 
 #include <jni.h>

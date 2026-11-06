@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Android settings preference styles and theme
+summary: Defines styles and the preference theme for titles, summaries, fragments, and preference types in Chrome Android settings.
+-->
+
 <resources>
     <style name="PreferenceTitle">
         <item name="android:ellipsize">end</item>

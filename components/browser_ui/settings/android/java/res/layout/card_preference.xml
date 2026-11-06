@@ -7,6 +7,12 @@ found in the LICENSE file.
 
 <!-- Layout used by CardPreference. -->
 
+<!--docerion
+type: asset
+title: CardPreference layout
+summary: Android layout for CardPreference showing an icon, title, clickable summary and a dismiss button in a card.
+-->
+
 <org.chromium.components.browser_ui.widget.MaterialCardViewNoShadow
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"

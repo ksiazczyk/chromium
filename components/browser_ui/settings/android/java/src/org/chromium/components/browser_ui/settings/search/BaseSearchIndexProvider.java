@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BaseSearchIndexProvider
+// summary: Basic SearchIndexProvider implementation that indexes Android settings preferences from a preference XML resource, with an option to hide entries from search results.
+// ---
+
 package org.chromium.components.browser_ui.settings.search;
 
 import android.content.Context;

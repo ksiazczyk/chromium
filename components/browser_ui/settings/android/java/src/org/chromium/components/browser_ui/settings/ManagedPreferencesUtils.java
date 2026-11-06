@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ManagedPreferencesUtils for policy-managed settings
+// summary: Utilities for policy-managed preferences, providing toasts, managed icons and boolean policy state handling for settings.
+// ---
+
 package org.chromium.components.browser_ui.settings;
 
 import android.content.Context;

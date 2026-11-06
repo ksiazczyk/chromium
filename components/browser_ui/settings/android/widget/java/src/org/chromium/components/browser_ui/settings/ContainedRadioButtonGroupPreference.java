@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contained radio button group preference base class
+// summary: Abstract base preference for groups of radio buttons that makes the preference background transparent so the contained styled radio buttons remain visible.
+// ---
+
 package org.chromium.components.browser_ui.settings;
 
 import android.content.Context;

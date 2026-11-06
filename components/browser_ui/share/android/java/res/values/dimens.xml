@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Share sheet favicon dimension resource
+summary: Android resource XML defining the 48dp share_preview_favicon_size dimension used for the favicon in the Android share sheet preview.
+-->
+
 <resources>
   <!-- Android share sheet -->
   <dimen name="share_preview_favicon_size">48dp</dimen>

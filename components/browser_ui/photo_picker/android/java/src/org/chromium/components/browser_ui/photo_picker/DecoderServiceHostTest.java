@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DecoderServiceHostTest
+// summary: Instrumentation tests verifying that DecoderServiceHost decodes images and videos and reports status and result callbacks correctly.
+// ---
+
 package org.chromium.components.browser_ui.photo_picker;
 
 import android.content.Context;

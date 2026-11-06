@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Zoom out icon
+summary: Android vector drawable showing a magnifier with a minus sign, used as the zoom-out control in the photo picker.
+-->
+
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="32dp"
     android:height="32dp"
