@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Google Photos photos by album ID element tests
+// summary: WebUI test suite covering the photo grid for a selected album, including error display, pagination, and setting album photos as wallpaper.
+// ---
+
 import 'chrome://personalization/strings.m.js';
 
 import type {GooglePhotosAlbum, GooglePhotosPhoto, SetErrorAction, WallpaperGridItemElement} from 'chrome://personalization/js/personalization_app.js';

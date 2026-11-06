@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Emoji picker test utilities
+// summary: Shared helper functions for emoji picker WebUI tests, including deep element queries, condition waits, event simulation, and picker setup.
+// ---
+
 import type {EmojiGroupComponent} from 'chrome://emoji-picker/emoji_picker.js';
 import {EMOJI_PICKER_READY, EmojiPickerApiProxy, EmojiPickerApp} from 'chrome://emoji-picker/emoji_picker.js';
 import {assert} from 'chrome://resources/js/assert.js';

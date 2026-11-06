@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ambient preview large element tests
+// summary: WebUI test suite covering the large ambient preview element's zero state message and turn-on navigation to the ambient subpage.
+// ---
+
 import 'chrome://personalization/strings.m.js';
 
 import {AmbientObserver, AmbientPreviewBase, AmbientPreviewLargeElement, Paths, PersonalizationActionName, PersonalizationRouterElement, TopicSource} from 'chrome://personalization/js/personalization_app.js';

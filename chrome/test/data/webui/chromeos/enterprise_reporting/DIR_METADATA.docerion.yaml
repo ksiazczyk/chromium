@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for enterprise reporting tests
+summary: DIR_METADATA entry that points to the shared COMMON_METADATA file of the enterprise reporting resources directory.

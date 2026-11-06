@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Network health WebUI tests build definition
+summary: Defines the GN build target that compiles the ChromeOS network health WebUI test suites and their TypeScript dependencies.

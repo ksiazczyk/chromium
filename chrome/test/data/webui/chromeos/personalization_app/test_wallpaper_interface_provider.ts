@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wallpaper provider test mock
+// summary: Fake WallpaperProviderInterface implementation with sample collections, images and Google Photos data for wallpaper tests.
+// ---
+
 import type {CurrentAttribution, CurrentWallpaper, DefaultImageSymbol, GooglePhotosAlbum, GooglePhotosPhoto, WallpaperCollection, WallpaperImage, WallpaperObserverInterface, WallpaperObserverRemote, WallpaperProviderInterface} from 'chrome://personalization/js/personalization_app.js';
 import {GooglePhotosEnablementState, kDefaultImageSymbol, OnlineImageType, WallpaperLayout, WallpaperType} from 'chrome://personalization/js/personalization_app.js';
 import {loadTimeData} from 'chrome://resources/js/load_time_data.js';

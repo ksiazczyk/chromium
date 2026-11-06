@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Parent access UI handler tests
+// summary: Verifies that parent access callbacks are parsed into the correct error, parent verified, and ignore server message types.
+// ---
+
 import 'chrome://webui-test/chromeos/mojo_webui_test_support.js';
 
 import {ParentAccessServerMessageType, ParentAccessUiHandler} from 'chrome://parent-access/parent_access_ui.mojom-webui.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Parent access test utilities
+// summary: Shared helpers that build ParentAccessParams fixtures for web and extension approval flows and clear the document body between tests.
+// ---
+
 import type {ExtensionApprovalsParams, ExtensionPermission, ParentAccessParams, WebApprovalsParams} from 'chrome://parent-access/parent_access_ui.mojom-webui.js';
 import {ParentAccessParams_FlowType} from 'chrome://parent-access/parent_access_ui.mojom-webui.js';
 

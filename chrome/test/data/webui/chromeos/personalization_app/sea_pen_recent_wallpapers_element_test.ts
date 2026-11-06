@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sea Pen recent wallpapers element tests
+// summary: WebUI tests for the SeaPenRecentWallpapersElement, verifying display of recently used Sea Pen wallpapers, loading placeholders, menu icon buttons, and action menus.
+// ---
+
 import 'chrome://personalization/strings.m.js';
 import 'chrome://webui-test/chromeos/mojo_webui_test_support.js';
 

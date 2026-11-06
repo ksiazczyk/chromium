@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Graduation test directory owners
+summary: Delegates ownership approvals for this test directory to the child accounts OWNERS file.

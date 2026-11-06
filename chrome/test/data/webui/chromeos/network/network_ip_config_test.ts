@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network IP config element tests
+// summary: WebUI tests for the network-ip-config element covering the automatic IP configuration toggle and its policy enforcement behavior.
+// ---
+
 import 'chrome://os-settings/strings.m.js';
 import 'chrome://resources/ash/common/network/network_ip_config.js';
 

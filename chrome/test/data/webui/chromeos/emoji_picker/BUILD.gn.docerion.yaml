@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Emoji picker WebUI tests GN build configuration
+summary: Defines the GN build target that compiles the emoji picker WebUI test files and wires them to the C++ browsertest.

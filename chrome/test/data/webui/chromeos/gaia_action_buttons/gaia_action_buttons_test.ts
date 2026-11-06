@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Gaia action buttons WebUI test
+// summary: TypeScript mocha tests verifying that GAIA primary and secondary action buttons show, hide, label and enable or disable correctly in response to authenticator events.
+// ---
+
 import 'chrome://chrome-signin/gaia_action_buttons/gaia_action_buttons.js';
 
 import type {CrButtonElement} from '//resources/ash/common/cr_elements/cr_button/cr_button.js';

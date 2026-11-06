@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wallpaper collections element tests
+// summary: WebUI tests for the wallpaper collections grid covering loading, error display, tile rendering and time-of-day wallpapers.
+// ---
+
 import 'chrome://personalization/strings.m.js';
 
 import type {WallpaperCollection, WallpaperImage} from 'chrome://personalization/js/personalization_app.js';

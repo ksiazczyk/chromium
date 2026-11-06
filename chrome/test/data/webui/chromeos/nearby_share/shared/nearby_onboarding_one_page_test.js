@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Nearby one-page onboarding tests
+// summary: WebUI tests for the one-page onboarding element covering rendering, visibility label, device name focus, and validation results.
+// ---
+
 import 'chrome://nearby/strings.m.js';
 import 'chrome://nearby/shared/nearby_onboarding_one_page.js';
 import 'chrome://webui-test/chromeos/mojo_webui_test_support.js';

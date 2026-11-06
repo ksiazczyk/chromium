@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock emoji picker API proxy for tests
+// summary: Test double of the EmojiPickerApiProxy that serves canned paginated GIF responses and base64 placeholder images for emoji picker tests.
+// ---
+
 import type {GifSubcategoryData, PaginatedGifResponses, VisualContent} from 'chrome://emoji-picker/emoji_picker.js';
 import {EmojiPickerApiProxy} from 'chrome://emoji-picker/emoji_picker.js';
 

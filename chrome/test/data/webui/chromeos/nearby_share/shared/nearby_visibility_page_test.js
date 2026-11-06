@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Nearby visibility page WebUI test
+// summary: Tests that the Nearby Share visibility page renders and that its action button enables the sharing settings.
+// ---
+
 import 'chrome://nearby/strings.m.js';
 import 'chrome://nearby/shared/nearby_visibility_page.js';
 import 'chrome://webui-test/chromeos/mojo_webui_test_support.js';

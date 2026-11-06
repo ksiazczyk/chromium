@@ -1,6 +1,13 @@
 // Copyright 2021 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Personalization main element tests
+// summary: Tests the personalization main element, checking ambient preview presence and time-of-day banner display and dismissal.
+// ---
+
 import 'chrome://personalization/strings.m.js';
 
 import type {SetShouldShowTimeOfDayBannerAction} from 'chrome://personalization/js/personalization_app.js';

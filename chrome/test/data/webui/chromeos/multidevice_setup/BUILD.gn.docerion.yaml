@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Multidevice setup WebUI tests build configuration
+summary: Defines the GN build target for the multidevice setup WebUI tests, listing the test files, TypeScript path mappings and dependencies.

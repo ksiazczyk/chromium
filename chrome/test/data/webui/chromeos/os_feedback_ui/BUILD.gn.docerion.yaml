@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for os_feedback_ui WebUI tests
+summary: Defines the GN build target that compiles and runs the os_feedback_ui TypeScript test suites together with the C++ browser test.

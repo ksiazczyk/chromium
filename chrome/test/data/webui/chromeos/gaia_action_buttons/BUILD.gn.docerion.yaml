@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for gaia_action_buttons WebUI tests
+summary: GN build definition that assembles the WebUI mocha tests for the ChromeOS gaia_action_buttons element, wiring TypeScript sources, type definitions and dependencies.

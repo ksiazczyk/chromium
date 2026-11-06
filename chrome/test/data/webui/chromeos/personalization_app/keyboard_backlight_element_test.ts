@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Keyboard backlight element tests
+// summary: WebUI test suite for the keyboard backlight subpage, covering color preset selection, backlight state loading, and related store actions.
+// ---
+
 import 'chrome://personalization/strings.m.js';
 
 import type {SetCurrentBacklightStateAction, SetShouldShowNudgeAction, SetWallpaperColorAction} from 'chrome://personalization/js/personalization_app.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network proxy input element WebUI tests
+// summary: WebUI tests for the network-proxy-input element covering focus behavior, change event dispatch, and editable host and port inputs.
+// ---
+
 import 'chrome://os-settings/strings.m.js';
 import 'chrome://resources/ash/common/network/network_proxy_input.js';
 

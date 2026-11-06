@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sea Pen template query element tests
+// summary: WebUI tests for the SeaPenTemplateQueryElement, verifying template chips, dropdown options, search and recreate buttons, and thumbnail loading text.
+// ---
+
 import 'chrome://personalization/strings.m.js';
 import 'chrome://webui-test/chromeos/mojo_webui_test_support.js';
 

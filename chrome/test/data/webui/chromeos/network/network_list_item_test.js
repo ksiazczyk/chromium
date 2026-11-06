@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network list item element tests
+// summary: WebUI tests for the network-list-item element covering icon visibility, cellular SIM states, event handling, and keyboard interaction.
+// ---
+
 import 'chrome://os-settings/strings.m.js';
 import 'chrome://resources/ash/common/network/network_list_item.js';
 

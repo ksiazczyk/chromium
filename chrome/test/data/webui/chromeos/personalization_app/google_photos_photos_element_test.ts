@@ -1,6 +1,13 @@
 // Copyright 2022 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Google Photos photos element tests
+// summary: WebUI test suite for the Google Photos photos grid, covering date-based sections, keyboard focus movement, loading, and wallpaper selection.
+// ---
+
 import 'chrome://personalization/strings.m.js';
 
 import type {GooglePhotosPhoto, GooglePhotosPhotosSection, SetErrorAction, WallpaperGridItemElement} from 'chrome://personalization/js/personalization_app.js';

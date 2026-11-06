@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Graduation WebUI Mocha browser test
+// summary: Parameterized browser test that enables the Graduation feature and runs the app, takeout UI, and welcome screen Mocha test suites for the ChromeOS Graduation WebUI.
+// ---
+
 #include <string>
 
 #include "ash/constants/ash_features.h"

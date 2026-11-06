@@ -8,6 +8,12 @@
  * blocked by the policy SecondaryGoogleAccountUsage.
  */
 
+// ---docerion
+// type: test
+// title: Inline login sign-in blocked by policy page tests
+// summary: WebUI tests verifying that the inline login flow shows the policy-blocked page with the correct title and body when a secondary account sign-in is blocked by policy.
+// ---
+
 import 'chrome://chrome-signin/inline_login_app.js';
 
 import type {InlineLoginAppElement} from 'chrome://chrome-signin/inline_login_app.js';

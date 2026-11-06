@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Firmware update app tests
+// summary: Tests the firmware update app page, including confirmation dialogs, the update flow and update cards.
+// ---
+
 import 'chrome://accessory-update/firmware_update_app.js';
 
 import {fakeFirmwareUpdates} from 'chrome://accessory-update/fake_data.js';

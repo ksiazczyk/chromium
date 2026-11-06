@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OS Feedback WebUI browser test suite
+// summary: Browser test harness that runs the Mocha test suites for the OS feedback WebUI, with several flaky cases disabled.
+// ---
+
 #include "ash/webui/os_feedback_ui/url_constants.h"
 #include "base/strings/stringprintf.h"
 #include "chrome/test/base/web_ui_mocha_browser_test.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Confirmation page WebUI tests
+// summary: Tests the os-feedback confirmation page element, covering online and offline messages, help resources, and recorded post-submit actions.
+// ---
+
 import 'chrome://webui-test/chromeos/mojo_webui_test_support.js';
 
 import type {ConfirmationPageElement} from 'chrome://os-feedback/confirmation_page.js';

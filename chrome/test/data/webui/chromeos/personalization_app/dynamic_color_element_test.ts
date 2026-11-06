@@ -4,6 +4,12 @@
 
 /** @fileoverview Test suite for dynamic-color-element component.  */
 
+// ---docerion
+// type: test
+// title: Dynamic color element tests
+// summary: WebUI test suite for the dynamic color element, covering color scheme selection, static colors, and toggle behavior.
+// ---
+
 import 'chrome://personalization/strings.m.js';
 
 import type {SetColorSchemeAction, SetSampleColorSchemesAction, SetStaticColorAction} from 'chrome://personalization/js/personalization_app.js';

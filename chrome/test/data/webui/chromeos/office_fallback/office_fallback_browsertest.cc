@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Office fallback browser test
+// summary: Browser test fixture that loads the ChromeOS office fallback WebUI and runs its mocha test suite for non-managed users.
+// ---
+
 #include "ash/constants/webui_url_constants.h"
 #include "chrome/browser/ui/webui/ash/cloud_upload/cloud_upload_dialog_browsertest.h"
 #include "content/public/test/browser_test.h"

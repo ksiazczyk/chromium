@@ -4,6 +4,12 @@
 
 /** @fileoverview Test suite for wallpaper-fullscreen component.  */
 
+// ---docerion
+// type: test
+// title: Wallpaper fullscreen element tests
+// summary: WebUI tests for the wallpaper fullscreen preview element covering visibility toggling and fullscreen state transitions.
+// ---
+
 import 'chrome://personalization/strings.m.js';
 
 import type {CurrentWallpaper, DisplayableImage, GooglePhotosPhoto, WallpaperImage} from 'chrome://personalization/js/personalization_app.js';

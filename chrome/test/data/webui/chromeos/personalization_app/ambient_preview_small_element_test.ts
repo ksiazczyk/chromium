@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ambient preview small element tests
+// summary: WebUI test suite covering the small ambient preview element's zero state message and placeholder rendering while loading.
+// ---
+
 import 'chrome://personalization/strings.m.js';
 
 import {AmbientObserver, AmbientPreviewSmallElement, PersonalizationRouterElement, TopicSource} from 'chrome://personalization/js/personalization_app.js';

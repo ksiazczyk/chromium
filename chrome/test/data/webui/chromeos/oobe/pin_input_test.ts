@@ -1,6 +1,13 @@
 // Copyright 2020 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Security token PIN input tests
+// summary: TypeScript WebUI tests for the OOBE security token PIN dialog, covering completed events in the basic flow, error handling and PIN input validity.
+// ---
+
 import 'chrome://oobe/components/security_token_pin.js';
 
 import {CrButtonElement} from '//resources/ash/common/cr_elements/cr_button/cr_button.js';

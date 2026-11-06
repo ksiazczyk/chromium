@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Webview manager tests
+// summary: Tests access token injection on outgoing webview requests and the allow and block request filtering of the webview manager.
+// ---
+
 import 'chrome://webui-test/chromeos/mojo_webui_test_support.js';
 
 import {WebviewManager} from 'chrome://parent-access/webview_manager.js';

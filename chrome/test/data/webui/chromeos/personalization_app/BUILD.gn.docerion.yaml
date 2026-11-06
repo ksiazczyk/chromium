@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Personalization app WebUI tests build file
+summary: GN build definition that compiles the personalization app WebUI test suites, browser tests, and their TypeScript dependencies.

@@ -7,6 +7,12 @@
  * and manipulate state.
  */
 
+// ---docerion
+// type: test
+// title: Test personalization store mock
+// summary: Mock PersonalizationStore that records dispatched actions and state snapshots and replaces the store singleton during WebUI tests.
+// ---
+
 import type {Actions, PersonalizationState} from 'chrome://personalization/js/personalization_app.js';
 import {emptyState, PersonalizationStore, reduce} from 'chrome://personalization/js/personalization_app.js';
 import {TestStore} from 'chrome://webui-test/test_store.js';

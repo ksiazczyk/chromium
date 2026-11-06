@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network proxy element WebUI tests
+// summary: WebUI tests for the network-proxy element covering proxy type change events and enabling the add-exception button only when input has a value.
+// ---
+
 import 'chrome://os-settings/strings.m.js';
 import 'chrome://resources/ash/common/network/network_proxy.js';
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Healthd internals browser test
+// summary: Browser test that loads the ChromeOS healthd internals WebUI and runs its mocha test suite with the healthd internals tabs feature enabled.
+// ---
+
 #include <string>
 
 #include "ash/constants/ash_features.h"

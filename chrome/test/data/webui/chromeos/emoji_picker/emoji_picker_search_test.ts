@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Emoji picker search tests
+// summary: WebUI tests for emoji search results, including combined emoji and emoticon results and Enter key triggering a single result click.
+// ---
+
 import type {EmojiPickerApp, EmojiSearch} from 'chrome://emoji-picker/emoji_picker.js';
 import {EMOJI_TEXT_BUTTON_CLICK} from 'chrome://emoji-picker/emoji_picker.js';
 import {assert} from 'chrome://resources/js/assert.js';

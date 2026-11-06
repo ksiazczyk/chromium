@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Graduation Takeout UI tests
+// summary: Mocha tests for the Takeout transfer screen covering webview URLs, loading spinner visibility and navigation buttons.
+// ---
+
 import 'chrome://graduation/js/graduation_takeout_ui.js';
 import 'chrome://graduation/strings.m.js';
 

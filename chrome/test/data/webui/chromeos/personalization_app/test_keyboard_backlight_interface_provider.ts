@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test keyboard backlight interface provider
+// summary: Test double implementing the keyboard backlight provider interface with mock zone counts, zone colors, backlight state, and observer events for personalization app tests.
+// ---
+
 import type {CurrentBacklightState, KeyboardBacklightObserverInterface, KeyboardBacklightObserverRemote, KeyboardBacklightProviderInterface} from 'chrome://personalization/js/personalization_app.js';
 import {BacklightColor} from 'chrome://personalization/js/personalization_app.js';
 import type {SkColor} from 'chrome://resources/mojo/skia/public/mojom/skcolor.mojom-webui.js';

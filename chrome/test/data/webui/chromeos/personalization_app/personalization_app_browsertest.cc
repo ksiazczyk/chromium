@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Personalization app browser tests
+// summary: Browser test harness that runs the individual Polymer element Mocha tests for the ChromeOS Personalization WebUI, covering ambient, avatar, dynamic color, Google Photos, keyboard backlight, and other subpages.
+// ---
+
 #include "ash/public/cpp/ambient/ambient_client.h"
 #include "ash/webui/personalization_app/test/personalization_app_mojom_banned_mocha_test_base.h"
 #include "chrome/browser/ash/system_web_apps/apps/personalization_app/personalization_app_mocha_test_base.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Search page WebUI tests
+// summary: Tests the feedback search page, including the description input, untrusted iframe, help content search, and flow navigation.
+// ---
+
 import 'chrome://os-feedback/search_page.js';
 import 'chrome://webui-test/chromeos/mojo_webui_test_support.js';
 

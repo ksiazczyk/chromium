@@ -6,6 +6,12 @@
  * @fileoverview Test suite for google-photos-shared-album-dialog component.
  */
 
+// ---docerion
+// type: test
+// title: Google Photos shared album dialog element tests
+// summary: WebUI test suite verifying the shared album dialog fires accept, cancel, and close events when its buttons are clicked.
+// ---
+
 import 'chrome://personalization/strings.m.js';
 
 import {AcceptEvent, GooglePhotosSharedAlbumDialogElement} from 'chrome://personalization/js/personalization_app.js';

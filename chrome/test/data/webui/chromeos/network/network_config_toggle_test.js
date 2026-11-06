@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network config toggle element tests
+// summary: WebUI tests for the network-config-toggle element verifying placement of the policy indicator to the left or right of the toggle.
+// ---
+
 import 'chrome://resources/ash/common/network/network_config_toggle.js';
 
 import {flush} from 'chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js';

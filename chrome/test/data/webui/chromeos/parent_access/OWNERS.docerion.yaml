@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners for parent access tests
+summary: Delegates code ownership for this test directory to the parent access WebUI OWNERS file.

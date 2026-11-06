@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network config VPN tests
+// summary: WebUI tests for VPN configuration in the network-config element, covering IPsec and L2TP properties, certificate selection, and policy handling.
+// ---
+
 import 'chrome://os-settings/strings.m.js';
 import 'chrome://resources/ash/common/network/network_config.js';
 

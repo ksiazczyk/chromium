@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Inline login welcome page tests
+// summary: WebUI tests for the inline login welcome page, covering reauthentication skipping, the OK button flow, the skip-welcome checkbox, and the back button behavior.
+// ---
+
 import 'chrome://chrome-signin/inline_login_app.js';
 
 import type {InlineLoginAppElement} from 'chrome://chrome-signin/inline_login_app.js';

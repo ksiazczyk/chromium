@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Emoji picker GIF category test suite
+// summary: Shared mocha suite for GIF category behavior using a test API proxy, covering buttons, groups and scrolling.
+// ---
+
 import type {EmojiPickerApp} from 'chrome://emoji-picker/emoji_picker.js';
 import {EMOJI_IMG_BUTTON_CLICK, EmojiPickerApiProxy, TRENDING_GROUP_ID} from 'chrome://emoji-picker/emoji_picker.js';
 import type {CrIconButtonElement} from 'chrome://resources/ash/common/cr_elements/cr_icon_button/cr_icon_button.js';

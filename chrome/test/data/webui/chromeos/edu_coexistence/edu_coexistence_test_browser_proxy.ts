@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test browser proxy for edu coexistence
+// summary: Provides a fake EduCoexistenceBrowserProxy with default coexistence parameters for use in the test suites.
+// ---
+
 import type {EduCoexistenceBrowserProxy} from 'chrome://chrome-signin/edu_coexistence/edu_coexistence_browser_proxy.js';
 import type {EduCoexistenceParams} from 'chrome://chrome-signin/edu_coexistence/edu_coexistence_controller.js';
 import type {AuthCompletedCredentials} from 'chrome://chrome-signin/gaia_auth_host/authenticator.js';

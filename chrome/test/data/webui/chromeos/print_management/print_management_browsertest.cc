@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Print management WebUI browser test
+// summary: Browser test fixture that loads the print management WebUI and runs its Mocha test suite.
+// ---
+
 #include <string>
 
 #include "ash/webui/print_management/url_constants.h"

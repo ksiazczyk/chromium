@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for Extended Updates WebUI tests
+summary: GN build file that defines the build_webui_tests target compiling the Extended Updates TypeScript tests and C++ browser test together with their TypeScript dependencies.

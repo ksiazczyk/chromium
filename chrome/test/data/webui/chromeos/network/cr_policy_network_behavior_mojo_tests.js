@@ -4,6 +4,12 @@
 
 /** @fileoverview Suite of tests for CrPolicyIndicatorBehavior. */
 
+// ---docerion
+// type: test
+// title: CrPolicyNetworkBehaviorMojo tests
+// summary: Tests the CrPolicyNetworkBehaviorMojo behavior across policy sources, checking controlled, enforced, recommended, and extension-controlled states.
+// ---
+
 import {CrPolicyIndicatorType} from 'chrome://resources/ash/common/cr_policy_indicator_behavior.js';
 import {CrPolicyNetworkBehaviorMojo} from 'chrome://resources/ash/common/network/cr_policy_network_behavior_mojo.js';
 import {PolicySource} from 'chrome://resources/mojo/chromeos/services/network_config/public/mojom/network_types.mojom-webui.js';

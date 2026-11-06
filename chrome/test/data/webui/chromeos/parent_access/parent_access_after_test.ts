@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Parent access after screen tests
+// summary: Checks that the approve and deny buttons on the after screen complete the flow with the expected approved or declined result.
+// ---
+
 import 'chrome://webui-test/chromeos/mojo_webui_test_support.js';
 import 'chrome://parent-access/parent_access_after.js';
 import 'chrome://parent-access/strings.m.js';

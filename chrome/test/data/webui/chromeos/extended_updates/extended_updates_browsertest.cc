@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extended Updates browser tests
+// summary: WebUI Mocha browser test harness that runs the Extended Updates app tests and verifies dialog metrics and that the dialog is not shown when the user is not eligible.
+// ---
+
 #include "ash/constants/ash_features.h"
 #include "ash/constants/webui_url_constants.h"
 #include "ash/system/extended_updates/extended_updates_metrics.h"

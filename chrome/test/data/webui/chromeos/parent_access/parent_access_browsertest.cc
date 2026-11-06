@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Parent access WebUI Mocha browser test runner
+// summary: Browser test harness that loads the parent access WebUI and runs its Mocha test suites covering the app, controller, UI handler, webview manager and extension approvals.
+// ---
+
 #include "ash/constants/webui_url_constants.h"
 #include "base/strings/strcat.h"
 #include "chrome/test/base/web_ui_mocha_browser_test.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User preview element tests
+// summary: WebUI tests for the user preview element covering user info fetching, avatar image sources and enterprise-managed display.
+// ---
+
 import 'chrome://personalization/strings.m.js';
 
 import type {DefaultUserImage, UserImage} from 'chrome://personalization/js/personalization_app.js';

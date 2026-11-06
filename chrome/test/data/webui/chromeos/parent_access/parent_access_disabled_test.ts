@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Parent access disabled screen tests
+// summary: Checks that clicking the OK button on the disabled screen reports the disabled result to the test handler.
+// ---
+
 import 'chrome://webui-test/chromeos/mojo_webui_test_support.js';
 import 'chrome://parent-access/parent_access_disabled.js';
 import 'chrome://parent-access/strings.m.js';

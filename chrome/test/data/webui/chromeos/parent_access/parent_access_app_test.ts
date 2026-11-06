@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Parent access app screen flow tests
+// summary: Tests screen transitions of the parent access app across the web approvals and extension approvals flows, including authentication and after screens.
+// ---
+
 import 'chrome://webui-test/chromeos/mojo_webui_test_support.js';
 import 'chrome://parent-access/parent_access_app.js';
 import 'chrome://parent-access/strings.m.js';

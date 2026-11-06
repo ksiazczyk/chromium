@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network list element WebUI tests
+// summary: WebUI tests for the network-list element, verifying that focusing the list focuses the first item regardless of previous focus.
+// ---
+
 import 'chrome://os-settings/strings.m.js';
 import 'chrome://resources/ash/common/network/network_list.js';
 

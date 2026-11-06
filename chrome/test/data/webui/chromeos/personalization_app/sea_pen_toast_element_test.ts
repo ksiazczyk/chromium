@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sea Pen toast element tests
+// summary: WebUI tests for the SeaPenToastElement, verifying error message display and that dismissing the toast hides the container and resets the error.
+// ---
+
 import {SeaPenToastElement} from 'chrome://personalization/js/personalization_app.js';
 import {assertEquals} from 'chrome://webui-test/chai_assert.js';
 import {flushTasks, waitAfterNextRender} from 'chrome://webui-test/polymer_test_util.js';

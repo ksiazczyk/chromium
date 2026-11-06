@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wallpaper observer tests
+// summary: WebUI test suite verifying that the wallpaper observer dispatches store actions when the wallpaper changes, including null wallpaper and fullscreen state transitions.
+// ---
+
 import 'chrome://personalization/strings.m.js';
 
 import type {SetSelectedImageAction} from 'chrome://personalization/js/personalization_app.js';

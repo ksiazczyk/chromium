@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for office fallback WebUI tests
+summary: Defines the build_webui_tests target that wires the TypeScript app test and the C++ browser test with TypeScript path mappings and dependencies.

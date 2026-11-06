@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Avatar list element tests
+// summary: WebUI test suite for the avatar list element, covering default and profile image selection and camera button visibility.
+// ---
+
 import 'chrome://personalization/strings.m.js';
 
 import {AvatarCameraMode, AvatarListElement, UserActionName, UserImageObserver} from 'chrome://personalization/js/personalization_app.js';

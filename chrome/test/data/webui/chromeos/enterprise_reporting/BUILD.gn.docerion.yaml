@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Enterprise reporting WebUI tests build definition
+summary: GN build file that defines the WebUI test target for the ChromeOS enterprise reporting UI, wiring the C++ browser test and TypeScript test files together.

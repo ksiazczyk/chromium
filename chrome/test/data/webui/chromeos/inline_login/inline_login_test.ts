@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Inline login app default view tests
+// summary: WebUI tests covering the default inline login behavior when the welcome page is skipped, including initialization, WebUI and authenticator callbacks, and back and OK button handling.
+// ---
+
 import 'chrome://chrome-signin/inline_login_app.js';
 
 import type {InlineLoginAppElement} from 'chrome://chrome-signin/inline_login_app.js';

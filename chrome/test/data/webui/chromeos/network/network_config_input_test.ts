@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network config input element tests
+// summary: WebUI tests for the network-config-input element verifying Enter key event propagation and visibility toggling via the hidden attribute.
+// ---
+
 import 'chrome://resources/ash/common/network/network_config_input.js';
 
 import type {NetworkConfigInputElement} from 'chrome://resources/ash/common/network/network_config_input.js';

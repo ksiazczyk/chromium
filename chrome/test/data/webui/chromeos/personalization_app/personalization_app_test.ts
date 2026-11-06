@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Personalization app end-to-end WebUI tests
+// summary: End-to-end test suite for the ChromeOS personalization WebUI, covering page loading, wallpaper previews, ambient mode, dynamic color, Google Photos, and Sea Pen features.
+// ---
+
 import type {DynamicColorElement, GooglePhotosAlbumsElement, GooglePhotosCollectionElement, GooglePhotosSharedAlbumDialogElement, PersonalizationThemeElement, SeaPenFeedbackElement, SeaPenImagesElement, SeaPenRecentWallpapersElement, SeaPenTemplateQueryElement, WallpaperCollectionsElement, WallpaperImagesElement} from 'chrome://personalization/js/personalization_app.js';
 import {getThemeProvider, PersonalizationRouterElement, SeaPenFreeformElement, SeaPenInputQueryElement, SeaPenPaths, SeaPenRouterElement, SeaPenSamplesElement, setTransitionsEnabled, WallpaperGridItemElement} from 'chrome://personalization/js/personalization_app.js';
 import type {CrButtonElement} from 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';

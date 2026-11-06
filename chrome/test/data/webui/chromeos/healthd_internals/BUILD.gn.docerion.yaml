@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build configuration for healthd_internals WebUI tests
+summary: Defines the GN build_webui_tests target that builds and wires up the healthd-internals browser test and TypeScript test with their path mappings and dependencies.

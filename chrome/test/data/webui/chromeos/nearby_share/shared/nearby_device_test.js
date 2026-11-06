@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Nearby device element tests
+// summary: WebUI tests verifying the nearby-device element renders the device name and share target image, including the blank image case.
+// ---
+
 import 'chrome://nearby/shared/nearby_device.js';
 import 'chrome://webui-test/chromeos/mojo_webui_test_support.js';
 

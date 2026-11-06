@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File attachment WebUI tests
+// summary: Tests the file attachment element of the feedback UI, including the file dialog, size limits, and error messages.
+// ---
+
 import 'chrome://os-feedback/file_attachment.js';
 import 'chrome://os-feedback/strings.m.js';
 import 'chrome://webui-test/chromeos/mojo_webui_test_support.js';

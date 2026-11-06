@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension approvals before-screen tests
+// summary: Verifies that the extension approvals before screen renders correctly with and without permissions and with permission details.
+// ---
+
 import 'chrome://webui-test/chromeos/mojo_webui_test_support.js';
 import 'chrome://parent-access/parent_access_before.js';
 import 'chrome://parent-access/strings.m.js';

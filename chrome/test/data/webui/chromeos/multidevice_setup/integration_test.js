@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Multidevice setup WebUI integration tests
+// summary: Integration test suite for the MultiDevice setup WebUI, using fake delegates, Mojo services and browser proxies to exercise navigation and host device setting.
+// ---
+
 import 'chrome://multidevice-setup/strings.m.js';
 import 'chrome://resources/ash/common/multidevice_setup/multidevice_setup.js';
 

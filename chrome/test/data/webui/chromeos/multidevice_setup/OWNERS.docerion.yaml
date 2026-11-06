@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for multidevice setup tests
+summary: Points to the OWNERS file of the multidevice component to determine reviewers for this test directory.

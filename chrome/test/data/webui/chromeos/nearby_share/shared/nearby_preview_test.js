@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Nearby preview element tests
+// summary: WebUI tests verifying the nearby-preview element renders its component tag and payload preview title.
+// ---
+
 import 'chrome://nearby/shared/nearby_preview.js';
 import 'chrome://webui-test/chromeos/mojo_webui_test_support.js';
 

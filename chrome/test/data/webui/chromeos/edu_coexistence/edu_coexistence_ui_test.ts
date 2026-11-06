@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Edu coexistence UI test suite
+// summary: Tests the EduCoexistenceUi element, including disabling the Gaia back button after it is used.
+// ---
+
 import 'chrome://chrome-signin/edu_coexistence/edu_coexistence_ui.js';
 
 import {EduCoexistenceBrowserProxyImpl} from 'chrome://chrome-signin/edu_coexistence/edu_coexistence_browser_proxy.js';

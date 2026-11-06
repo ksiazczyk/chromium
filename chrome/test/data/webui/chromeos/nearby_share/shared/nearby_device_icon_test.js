@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Nearby device icon element tests
+// summary: WebUI tests verifying the nearby-device-icon element renders the correct icon for each share target type.
+// ---
+
 import 'chrome://nearby/shared/nearby_device_icon.js';
 import 'chrome://webui-test/chromeos/mojo_webui_test_support.js';
 

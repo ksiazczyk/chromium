@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: .gitignore for generated tsconfig.json
+# summary: Ignores the tsconfig.json generated for the firmware update WebUI tests.
+# ---
+
 # Generated from ash/webui/personalization_app/tools/gen_tsconfig.py
 tsconfig.json

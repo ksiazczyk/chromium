@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Routine group element WebUI test suite
+// summary: Tests the routine-group element's expansion toggle, running spinner and result icon states across routine scenarios.
+// ---
+
 import 'chrome://connectivity-diagnostics/strings.m.js';
 import 'chrome://resources/ash/common/network_health/routine_group.js';
 

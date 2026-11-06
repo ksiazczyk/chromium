@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Personalization app SeaPen browser test
+// summary: Browser test that runs SeaPen controller and UI mocha tests, creating fake SeaPen wallpaper images from template and free-text queries saved to disk.
+// ---
+
 #include "ash/constants/ash_features.h"
 #include "ash/public/cpp/wallpaper/sea_pen_image.h"
 #include "ash/wallpaper/sea_pen_wallpaper_manager.h"

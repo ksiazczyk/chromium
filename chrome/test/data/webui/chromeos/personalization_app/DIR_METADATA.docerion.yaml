@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for personalization app tests
+summary: Metadata file that mixes in the common metadata from the ChromeOS personalization app directory.

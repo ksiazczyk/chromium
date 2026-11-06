@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: network-choose-mobile element tests
+// summary: Tests the network-choose-mobile element, checking scan button enablement across connection and scanning states and the disabled UI state.
+// ---
+
 import 'chrome://os-settings/strings.m.js';
 import 'chrome://resources/ash/common/network/network_choose_mobile.js';
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Inline login WebUI Mocha browser tests
+// summary: C++ browser test harness that runs the inline login Mocha suites for the add account, welcome, and sign-in blocked by policy pages via the chrome-signin host.
+// ---
+
 #include "base/command_line.h"
 #include "base/strings/stringprintf.h"
 #include "chrome/common/webui_url_constants.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Inline login WebUI tests build definition
+summary: GN build configuration that assembles the ChromeOS inline login WebUI test target, listing the C++ browser test and TypeScript test sources with path mappings and dependencies.

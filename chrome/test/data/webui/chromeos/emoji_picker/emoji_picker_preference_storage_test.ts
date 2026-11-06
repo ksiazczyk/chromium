@@ -11,6 +11,12 @@
  *  - Group 5: multi-part emojis with tone and gender, e.g. 👬
  */
 
+// ---docerion
+// type: test
+// title: Emoji picker preference storage tests
+// summary: WebUI tests for emoji variant preference storage, covering migration from history, global preference updates, and incognito behavior.
+// ---
+
 import {initialiseEmojiPickerForTest} from './emoji_picker_test_util.js';
 
 suite('emoji-picker-global-variants', () => {

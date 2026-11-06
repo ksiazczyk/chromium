@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Nearby Share v3 WebUI browser test runner
+// summary: Browser test fixture that runs the Nearby Share v3 mocha suites for device icon, device, onboarding, page template, preview, progress, visibility, and contact visibility pages.
+// ---
+
 #include "chrome/common/webui_url_constants.h"
 #include "chrome/test/base/web_ui_mocha_browser_test.h"
 #include "content/public/test/browser_test.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Edu coexistence WebUI mocha browser test
+// summary: C++ browser test that runs the edu_coexistence TypeScript mocha suites in the chrome-signin WebUI.
+// ---
+
 #include "ash/constants/ash_switches.h"
 #include "base/command_line.h"
 #include "base/strings/strcat.h"

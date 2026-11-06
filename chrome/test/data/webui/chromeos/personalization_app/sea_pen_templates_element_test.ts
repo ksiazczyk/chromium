@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sea Pen templates element tests
+// summary: WebUI test for the SeaPenTemplatesElement that checks the number of displayed templates and the info text shown on hover.
+// ---
+
 import 'chrome://personalization/strings.m.js';
 import 'chrome://webui-test/chromeos/mojo_webui_test_support.js';
 

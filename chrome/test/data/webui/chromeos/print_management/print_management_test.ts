@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Print management WebUI mocha test suite
+// summary: Mocha and chai tests for the print management WebUI covering print job entries, active and completed jobs, printer setup info, and handler interactions.
+// ---
+
 import 'chrome://print-management/print_management.js';
 import 'chrome://webui-test/chromeos/mojo_webui_test_support.js';
 

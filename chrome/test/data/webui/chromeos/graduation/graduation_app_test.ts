@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Graduation app WebUI tests
+// summary: Mocha tests for the Graduation app element covering screen navigation, authentication, error and offline states.
+// ---
+
 import 'chrome://graduation/js/graduation_app.js';
 
 import {GraduationApp, Screens, ScreenSwitchEvents} from 'chrome://graduation/js/graduation_app.js';

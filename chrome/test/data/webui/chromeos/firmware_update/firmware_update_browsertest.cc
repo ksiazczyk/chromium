@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Firmware update WebUI browser test harness
+// summary: Browser test suite that runs the Mocha JavaScript tests for the ChromeOS firmware update WebUI, covering the fake update controller and provider, dialog, app, peripheral updates list and update card.
+// ---
+
 #include "ash/webui/firmware_update_ui/url_constants.h"
 #include "chrome/test/base/web_ui_mocha_browser_test.h"
 #include "content/public/test/browser_test.h"

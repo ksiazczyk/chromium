@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Firmware update dialog tests
+// summary: Tests the firmware update dialog's states, progress display and button behavior during updates.
+// ---
+
 import 'chrome://accessory-update/firmware_update_dialog.js';
 
 import {fakeFirmwareUpdate, fakeFirmwareUpdateWithReboot} from 'chrome://accessory-update/fake_data.js';

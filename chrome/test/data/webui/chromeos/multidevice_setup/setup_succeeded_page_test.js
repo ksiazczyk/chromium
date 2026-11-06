@@ -7,6 +7,12 @@
  * SetupSucceededPage.
  */
 
+// ---docerion
+// type: test
+// title: Setup succeeded page tests
+// summary: Tests page-specific behavior of the SetupSucceededPage, verifying the settings link opens multi-device settings, and exports a reusable test browser proxy.
+// ---
+
 import 'chrome://multidevice-setup/strings.m.js';
 import 'chrome://resources/ash/common/multidevice_setup/setup_succeeded_page.js';
 
