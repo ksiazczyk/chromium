@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: PPAPI IDL linter
+# summary: Walks the IDL AST to warn about missing comments, enum values, labels, inconsistent interface names, and parameter annotations.
+# ---
+
 """Lint for IDL"""
 
 import os

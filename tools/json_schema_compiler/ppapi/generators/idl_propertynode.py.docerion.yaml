@@ -1,0 +1,4 @@
+# Docerion header of idl_propertynode.py.
+type: source
+title: Hierarchical property system for the IDL AST
+summary: Implements property nodes that resolve keys through parent inheritance, with a self-test verifying property lookup behavior.

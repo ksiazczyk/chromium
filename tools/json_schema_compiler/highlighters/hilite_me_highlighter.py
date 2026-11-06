@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Hilite.me web service highlighter
+# summary: Highlighter that calls the hilite.me HTTP API to syntax-highlight code, noting it is slow and requires internet, and lists its supported styles.
+# ---
+
 import urllib
 import urllib2
 

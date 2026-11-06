@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Plain pre-wrap highlighter
+# summary: Highlighter that wraps code in a plain HTML pre element without any syntax highlighting.
+# ---
+
 import cgi
 
 

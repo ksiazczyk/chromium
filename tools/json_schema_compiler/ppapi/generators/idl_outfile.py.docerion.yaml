@@ -1,0 +1,4 @@
+# Docerion header of idl_outfile.py.
+type: source
+title: Generator output file writer
+summary: Writes generated files only when content changes, optionally running clang-format and diffing, to preserve timestamps in builds.
