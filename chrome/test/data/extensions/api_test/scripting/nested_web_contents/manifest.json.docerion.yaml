@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Scripting API test extension manifest
+summary: Manifest for the nested web contents scripting API test extension, granting scripting, tabs, and webNavigation permissions with host access to a.com and b.com.

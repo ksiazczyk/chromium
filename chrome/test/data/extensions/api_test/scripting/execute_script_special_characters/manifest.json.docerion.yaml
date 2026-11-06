@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the executeScript special characters test extension
+summary: Manifest v3 configuration declaring the worker.js module service worker, scripting and tabs permissions, and example.com host permissions.

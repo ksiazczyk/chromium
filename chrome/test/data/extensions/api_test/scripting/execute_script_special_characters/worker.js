@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker tests for executeScript with special characters
+// summary: 'Runs chrome.test cases checking that script file names with # and %23 are loaded without URL transformation and that escaped names of missing scripts error.'
+// ---
+
 import {getInjectedElementIds, openTab} from '/_test_resources/test_util/tabs_util.js';
 
 chrome.test.runTests([

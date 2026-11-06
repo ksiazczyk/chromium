@@ -1,0 +1,4 @@
+# Docerion header of serial_arduino_test.ino.
+type: test
+title: Arduino echo sketch for manual serial testing
+summary: Arduino sketch that opens serial at 57600 baud and echoes received characters back, used for manual testing with the SerialApiTest.SerialExtension browser test.

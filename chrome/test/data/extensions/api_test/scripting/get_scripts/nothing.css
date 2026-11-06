@@ -1,0 +1,5 @@
+/*docerion
+type: test
+title: Empty CSS fixture for registered content scripts
+summary: Empty stylesheet registered as CSS in a content script so the test can verify how getRegisteredContentScripts reports CSS files.
+*/

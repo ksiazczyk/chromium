@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: chrome.serial test app manifest
+summary: Manifest for the chrome.serial end-to-end test app, declaring the serial permission and loading background.js as the background script.

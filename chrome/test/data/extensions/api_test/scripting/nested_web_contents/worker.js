@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Nested web contents scripting test service worker
+// summary: Service worker test that asserts only the main frame is returned by webNavigation.getAllFrames and targeted by chrome.scripting.executeScript, excluding nested WebContents frames.
+// ---
+
 import {getSingleTab} from '/_test_resources/test_util/tabs_util.js';
 
 function injectedFunction() {

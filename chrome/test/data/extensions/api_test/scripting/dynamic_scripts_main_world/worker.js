@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker running the dynamic script injection tests
+// summary: Test service worker that registers content scripts in the main and isolated worlds, opens a test page, and asserts the resulting document title.
+// ---
+
 import {openTab} from '/_test_resources/test_util/tabs_util.js';
 
 // Inject a script  which changes the page's title based on the execution world

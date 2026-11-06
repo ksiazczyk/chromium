@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the dynamic content script test extension
+summary: Manifest version 3 extension manifest that registers the test service worker and requests the scripting permission for the API test.

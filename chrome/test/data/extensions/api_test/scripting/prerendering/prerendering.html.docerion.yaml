@@ -1,0 +1,4 @@
+# Docerion header of prerendering.html.
+type: test
+title: Prerendered target page for scripting API tests
+summary: Simple page titled prerendering that loads empty.js and serves as the prerendering target in the test.

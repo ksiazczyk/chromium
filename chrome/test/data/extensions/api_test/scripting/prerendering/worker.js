@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker running scripting API prerendering tests
+// summary: Extension service worker that identifies the prerendered frame via webRequest and runs chrome.scripting tests against it.
+// ---
+
 let tabId = 0;
 let prerenderingFrameId = 0;
 let prerenderingDocumentId = 0;

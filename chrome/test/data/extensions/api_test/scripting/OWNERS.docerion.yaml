@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the scripting API test directory
+summary: Points to the OWNERS file of the scripting extension API implementation so the same reviewers own the API test data.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Dynamic script parameters test extension manifest
+summary: Manifest for the dynamic content script parameters test extension, declaring a module service worker, scripting and tabs permissions, and a.com host permissions.

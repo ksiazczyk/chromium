@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the incognito disallowed scripting test extension
+summary: Manifest for the incognito disallowed test extension, declaring a background service worker, the scripting permission, and example.com host permissions.

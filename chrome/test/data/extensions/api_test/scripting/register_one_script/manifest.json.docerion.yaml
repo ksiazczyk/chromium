@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: config
+title: Manifest for the register-one-script test extension
+summary: Manifest of the test extension used to verify that requests matching dynamic scripts are resumed when the extension is quickly unloaded.

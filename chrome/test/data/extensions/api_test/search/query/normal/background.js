@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Search query API browser test background script
+// summary: Runs chrome.test browser tests for chrome.search.query, covering empty text errors and CURRENT_TAB, NEW_TAB, NEW_WINDOW, and tabId dispositions.
+// ---
+
 const assertEq = chrome.test.assertEq;
 const assertFalse = chrome.test.assertFalse;
 const assertLastError = chrome.test.assertLastError;

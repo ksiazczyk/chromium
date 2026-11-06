@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker tests for executeScript size limit
+// summary: Service worker running chrome.test cases verifying that executeScript rejects single and combined scripts exceeding the size limit.
+// ---
+
 import {getInjectedElementIds, openTab} from '/_test_resources/test_util/tabs_util.js';
 
 function getFileTooLargeError(fileName) {

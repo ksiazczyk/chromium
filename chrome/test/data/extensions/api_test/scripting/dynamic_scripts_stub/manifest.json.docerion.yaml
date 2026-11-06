@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Dynamic Content Scripts Stub extension manifest
+summary: Manifest for the stub extension used in scripting API tests, declaring the scripting permission and example.com host access.

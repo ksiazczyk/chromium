@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the main world dynamic script test extension
+summary: Manifest V3 manifest for the test extension, declaring the scripting and tabs permissions, host permissions, and its module service worker.

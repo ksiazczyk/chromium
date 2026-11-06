@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dynamic script parameters test service worker
+// summary: Service worker running chrome.test cases that verify content script parameter availability, modification, isolated-world visibility, and per-context isolation for chrome.scripting.
+// ---
+
 import {openTab} from '/_test_resources/test_util/tabs_util.js';
 
 chrome.test.runTests([

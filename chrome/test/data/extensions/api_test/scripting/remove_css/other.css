@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: test
+title: other.css additional green color fixture
+summary: 'Additional CSS fixture with the same green #main rule as file.css, used by the removeCSS tests.'
+*/
+
 #main {
   color: green !important;
 }

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the incognito split search API test extension
+summary: Manifest for the test extension used by the search API browser test, granting search and tabs permissions and setting incognito mode to split.
