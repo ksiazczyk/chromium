@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyscallSet implementation
+// summary: Implements SyscallSet iterators and validity checks over valid system call number ranges for Intel, ARM, and MIPS architectures.
+// ---
+
 #include "sandbox/linux/bpf_dsl/syscall_set.h"
 
 #include <stdint.h>

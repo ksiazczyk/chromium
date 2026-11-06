@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Registry-backed RLZ value store header
+// summary: Declares RlzValueStoreRegistry, an RlzValueStore implementation that persists RLZ values in the Windows registry.
+// ---
+
 #ifndef RLZ_WIN_LIB_RLZ_VALUE_STORE_REGISTRY_H_
 #define RLZ_WIN_LIB_RLZ_VALUE_STORE_REGISTRY_H_
 

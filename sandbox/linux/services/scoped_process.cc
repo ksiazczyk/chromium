@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedProcess implementation
+// summary: Implements ScopedProcess, which forks a child process to run a callback, synchronizes over a pipe, and kills and reaps the child on destruction.
+// ---
+
 
 #include "sandbox/linux/services/scoped_process.h"
 

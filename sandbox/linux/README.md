@@ -1,3 +1,13 @@
+---
+type: readme
+title: The Linux Sandbox
+summary: Explains how the Linux sandbox works, describing the setuid, namespace, and seccomp BPF mechanisms Chrome uses and the planned Landlock support.
+relations:
+  - references /docs/design/sandbox.md
+  - references /docs/linux/suid_sandbox_development.md
+  - references /sandbox/policy/linux/landlock_gpu_policy_android.cc
+---
+
 # The Linux Sandbox
 
 The Linux sandbox provides an API for restricting the capabilities of a process.

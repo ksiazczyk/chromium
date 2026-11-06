@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the suid sandbox client directory
+summary: DEPS file granting this directory include access to sandbox/linux/services.

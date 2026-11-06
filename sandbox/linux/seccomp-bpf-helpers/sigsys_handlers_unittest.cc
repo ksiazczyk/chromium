@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for SIGSYS trap handlers
+// summary: Verifies that SIGSYS handlers crash with the expected messages when socket, sockopt, ioctl and other restricted syscalls are invoked under test seccomp-BPF policies.
+// ---
+
 #include "sandbox/linux/seccomp-bpf-helpers/sigsys_handlers.h"
 
 #include <fcntl.h>

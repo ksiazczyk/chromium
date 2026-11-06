@@ -9,6 +9,12 @@
 // extracted here. We only include definitions needed for checking the Landlock
 // version, as we just need to determine if the system supports Landlock.
 
+// ---docerion
+// type: source
+// title: Linux Landlock definitions
+// summary: Defines Landlock ruleset and path-beneath structures plus filesystem access flags for checking Landlock support.
+// ---
+
 #ifndef SANDBOX_LINUX_SYSTEM_HEADERS_LINUX_LANDLOCK_H_
 #define SANDBOX_LINUX_SYSTEM_HEADERS_LINUX_LANDLOCK_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Per-architecture syscall range macros
+// summary: Defines MIN_SYSCALL and MAX_SYSCALL macros for x86, ARM, MIPS and ARM64 Linux syscall number ranges.
+// ---
+
 #ifndef SANDBOX_LINUX_BPF_DSL_LINUX_SYSCALL_RANGES_H_
 #define SANDBOX_LINUX_BPF_DSL_LINUX_SYSCALL_RANGES_H_
 

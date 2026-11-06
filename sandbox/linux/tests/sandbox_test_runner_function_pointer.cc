@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Function pointer sandbox test runner implementation
+// summary: Implements a SandboxTestRunner subclass whose Run method invokes a test function supplied as a plain function pointer.
+// ---
+
 #include "sandbox/linux/tests/sandbox_test_runner_function_pointer.h"
 
 #include "base/check.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrokerChannel implementation
+// summary: Creates a SOCK_SEQPACKET Unix socket pair that serves as the message-boundary-preserving IPC channel between broker reader and writer endpoints.
+// ---
+
 #include "sandbox/linux/syscall_broker/broker_channel.h"
 
 #include <sys/socket.h>

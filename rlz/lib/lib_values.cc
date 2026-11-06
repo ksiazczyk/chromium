@@ -4,6 +4,12 @@
 
 // Key and value names of the location of the RLZ shared state.
 
+// ---docerion
+// type: source
+// title: RLZ library value and name constants
+// summary: Defines CGI argument names, financial ping server details, ping intervals, and access point and event name mappings for the RLZ library.
+// ---
+
 #include "rlz/lib/lib_values.h"
 
 #include <optional>

@@ -1,0 +1,4 @@
+# Docerion header of zip2msi.py.
+type: script
+title: Build MSI installer from a zip archive
+summary: Generates a Windows .msi installer from a zip archive or unpacked directory using WiX candle/light parameters from parameters.json.

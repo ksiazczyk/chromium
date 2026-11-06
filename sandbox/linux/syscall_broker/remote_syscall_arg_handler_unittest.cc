@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Remote syscall argument handler unit tests
+// summary: Tests reading file paths from remote process memory across page boundaries, with null termination and inaccessible last-page scenarios.
+// ---
+
 #include "sandbox/linux/syscall_broker/remote_syscall_arg_handler.h"
 
 #include <sys/mman.h>

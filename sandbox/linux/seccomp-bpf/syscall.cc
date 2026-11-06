@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Syscall implementation with assembly entry points
+// summary: Implements the Syscall class with architecture-specific file-scope assembly that performs system calls with low-level control for the seccomp BPF sandbox.
+// ---
+
 
 #include "sandbox/linux/seccomp-bpf/syscall.h"
 

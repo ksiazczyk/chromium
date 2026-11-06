@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Sandbox library build targets
+summary: Build configuration for the sandbox library, defining the common source set, sandbox_unittests target, platform-forwarding sandbox group, and a buildflags header.

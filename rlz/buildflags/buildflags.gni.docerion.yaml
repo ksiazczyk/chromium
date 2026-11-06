@@ -1,0 +1,4 @@
+# Docerion header of buildflags.gni.
+type: config
+title: RLZ buildflags GN arguments
+summary: Declares the enable_rlz GN argument and asserts RLZ is only enabled on Windows, Apple and ChromeOS platforms.

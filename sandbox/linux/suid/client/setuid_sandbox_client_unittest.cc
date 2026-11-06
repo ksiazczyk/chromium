@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SetuidSandboxClient unit tests
+// summary: Unit tests that fake the setuid sandbox environment and verify the client's API version and namespace status checks.
+// ---
+
 #include "sandbox/linux/suid/client/setuid_sandbox_client.h"
 
 #include <memory>

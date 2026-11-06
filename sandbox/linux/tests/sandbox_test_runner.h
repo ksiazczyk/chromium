@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sandbox test runner base class interface
+// summary: Declares the abstract SandboxTestRunner interface that sandbox tests implement, including an override to control leak checking.
+// ---
+
 #ifndef SANDBOX_LINUX_TESTS_SANDBOX_TEST_RUNNER_H_
 #define SANDBOX_LINUX_TESTS_SANDBOX_TEST_RUNNER_H_
 

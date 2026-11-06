@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sandbox data size limit constants
+// summary: Declares kDataSizeLimit, the sandbox data memory limit used for RLIMIT_DATA on POSIX and job memory limits on Windows, with 64-bit and 32-bit variants.
+// ---
+
 #ifndef SANDBOX_CONSTANTS_H_
 #define SANDBOX_CONSTANTS_H_
 

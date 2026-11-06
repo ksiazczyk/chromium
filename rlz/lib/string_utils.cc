@@ -4,6 +4,12 @@
 //
 // String manipulation functions used in the RLZ library.
 
+// ---docerion
+// type: source
+// title: RLZ string utilities implementation
+// summary: Implements RLZ library string helpers, including an ASCII character check and conversion of byte spans to hex-encoded strings.
+// ---
+
 #include "rlz/lib/string_utils.h"
 
 #include "base/strings/string_number_conversions.h"

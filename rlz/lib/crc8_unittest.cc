@@ -4,6 +4,12 @@
 //
 // Uniitest for data encryption functions.
 
+// ---docerion
+// type: test
+// title: CRC-8 unit tests
+// summary: Unit tests comparing Crc8 checksums against externally calculated values and checking detection of corrupted data and empty spans.
+// ---
+
 #include "rlz/lib/crc8.h"
 
 #include <stddef.h>

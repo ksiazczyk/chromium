@@ -4,6 +4,12 @@
 //
 // Macros specific to the RLZ library.
 
+// ---docerion
+// type: source
+// title: RLZ library assertion macros
+// summary: Declares the ASSERT_STRING and VERIFY macros for the RLZ library, with support for muting expected assertions in debug builds.
+// ---
+
 #ifndef RLZ_LIB_ASSERT_H_
 #define RLZ_LIB_ASSERT_H_
 

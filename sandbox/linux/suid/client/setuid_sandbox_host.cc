@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Setuid sandbox host implementation
+// summary: Implements host-side launch setup for the setuid sandbox, including saving unsafe environment variables and preparing the launch environment.
+// ---
+
 #include "sandbox/linux/suid/client/setuid_sandbox_host.h"
 
 #include <fcntl.h>

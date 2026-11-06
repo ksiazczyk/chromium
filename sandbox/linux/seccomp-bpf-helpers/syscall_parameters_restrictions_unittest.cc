@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for syscall parameter restrictions
+// summary: Tests the syscall parameter restriction helpers, checking allowed clock IDs and crash behavior for denied parameters under BPF test policies.
+// ---
+
 #include "sandbox/linux/seccomp-bpf-helpers/syscall_parameters_restrictions.h"
 
 #include <errno.h>

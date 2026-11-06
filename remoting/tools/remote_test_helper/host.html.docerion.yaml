@@ -1,0 +1,4 @@
+# Docerion header of host.html.
+type: source
+title: Host page
+summary: Minimal HTML host page of the remote test helper that loads the JSON-RPC library and the host event handlers.

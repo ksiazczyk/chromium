@@ -4,6 +4,12 @@
 //
 // A test for ZLib's checksum function.
 
+// ---docerion
+// type: test
+// title: CRC32 unit tests
+// summary: Unit tests verifying rlz_lib Crc32 results for byte spans and strings against externally calculated checksum values.
+// ---
+
 #include "rlz/lib/crc32.h"
 
 #include <string_view>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sandbox feature support implementations
+// summary: Implements sandbox feature checks, including the Windows version check that determines App Container (LPAC) sandbox support.
+// ---
+
 #include "sandbox/features.h"
 
 #if BUILDFLAG(IS_WIN)

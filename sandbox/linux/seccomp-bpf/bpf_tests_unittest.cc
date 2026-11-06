@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for BPF test macros
+// summary: Unit tests exercising the BPF_TEST macros, the BPFTesterCompatibilityDelegate and policy behaviour such as the ENOSYS ptrace policy.
+// ---
+
 #include "sandbox/linux/seccomp-bpf/bpf_tests.h"
 
 #include <errno.h>

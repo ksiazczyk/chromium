@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrokerFilePermission class header
+// summary: Declares BrokerFilePermission with factory methods such as ReadOnly, ReadWrite and ConnectOnlyRecursive for defining allowlisted path permissions.
+// ---
+
 #ifndef SANDBOX_LINUX_SYSCALL_BROKER_BROKER_FILE_PERMISSION_H_
 #define SANDBOX_LINUX_SYSCALL_BROKER_BROKER_FILE_PERMISSION_H_
 

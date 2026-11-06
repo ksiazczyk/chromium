@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RLZ product state clearing header
+// summary: Declares ClearProductState, a best-effort function that clears all product-specific RLZ state from the registry when a product is uninstalled.
+// ---
+
 #ifndef RLZ_LIB_RLZ_LIB_CLEAR_H_
 #define RLZ_LIB_RLZ_LIB_CLEAR_H_
 

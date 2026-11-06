@@ -4,6 +4,12 @@
 //
 // Library functions related to the OEM Deal Confirmation Code.
 
+// ---docerion
+// type: source
+// title: OEM Deal Confirmation Code implementation for Windows
+// summary: Implements MachineDealCode functions that validate, normalize, store and parse the OEM Deal Confirmation Code in the registry and ping responses.
+// ---
+
 #include "rlz/win/lib/machine_deal.h"
 
 #include <windows.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyscallDispatcher implementation
+// summary: Implements validation and dispatch of brokered syscalls such as stat, unlinkat, and AF_UNIX connect and bind, including abstract namespace handling.
+// ---
+
 #include "sandbox/linux/syscall_broker/syscall_dispatcher.h"
 
 #include <fcntl.h>

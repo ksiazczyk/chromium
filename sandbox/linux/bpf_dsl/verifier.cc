@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Verifier implementation
+// summary: Implements EvaluateBPF, an interpreter that runs sandbox-generated BPF programs against seccomp data to verify their results.
+// ---
+
 #include "sandbox/linux/bpf_dsl/verifier.h"
 
 #include <stddef.h>

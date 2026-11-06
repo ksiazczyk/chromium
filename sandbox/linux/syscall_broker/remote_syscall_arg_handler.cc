@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote syscall argument handler implementation
+// summary: Implements reading file paths and writing data in a remote sandboxed process's memory using process_vm_readv and process_vm_writev with error handling.
+// ---
+
 #include "sandbox/linux/syscall_broker/remote_syscall_arg_handler.h"
 
 #include <string.h>

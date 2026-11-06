@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Yama header for ptrace restriction control
+// summary: Declares the sandbox::Yama class that detects the Yama LSM module and restricts or disables which processes can ptrace the current process.
+// ---
+
 #ifndef SANDBOX_LINUX_SERVICES_YAMA_H_
 #define SANDBOX_LINUX_SERVICES_YAMA_H_
 

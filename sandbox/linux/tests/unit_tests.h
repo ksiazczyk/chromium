@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Linux sandbox unit test macros and declarations
+// summary: Declares UnitTests helpers and macros such as SANDBOX_DEATH_TEST, DEATH_* and DISABLE_ON_* for building sandbox death tests across platforms and sanitizers.
+// ---
+
 #ifndef SANDBOX_LINUX_TESTS_UNIT_TESTS_H_
 #define SANDBOX_LINUX_TESTS_UNIT_TESTS_H_
 

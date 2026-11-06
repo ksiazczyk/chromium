@@ -4,6 +4,12 @@
 //
 // Library functions related to the Financial Server ping.
 
+// ---docerion
+// type: source
+// title: Financial server ping implementation
+// summary: Implements RLZ financial server ping logic, including request formation, ping timing, and sending pings via the network service.
+// ---
+
 #include "rlz/lib/financial_ping.h"
 
 #include <stdint.h>

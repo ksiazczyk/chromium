@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BaselinePolicyAndroid class declaration
+// summary: Declares the BaselinePolicyAndroid class, which extends the Linux baseline policy for programs running in the Android runtime environment.
+// ---
+
 #ifndef SANDBOX_LINUX_SECCOMP_BPF_HELPERS_BASELINE_POLICY_ANDROID_H_
 #define SANDBOX_LINUX_SECCOMP_BPF_HELPERS_BASELINE_POLICY_ANDROID_H_
 

@@ -4,6 +4,12 @@
 //
 // String manipulation functions used in the RLZ library.
 
+// ---docerion
+// type: source
+// title: RLZ string utilities header
+// summary: Declares the RLZ library string helpers IsAscii and BytesToString used for ASCII checks and hex encoding of byte data.
+// ---
+
 #ifndef RLZ_LIB_STRING_UTILS_H_
 #define RLZ_LIB_STRING_UTILS_H_
 

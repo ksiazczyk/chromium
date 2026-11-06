@@ -4,6 +4,12 @@
 //
 // Crc8 utility functions.
 
+// ---docerion
+// type: source
+// title: CRC-8 utility interface
+// summary: Declares the rlz_lib Crc8 class with static Generate and Verify methods for 8-bit checksums over byte spans.
+// ---
+
 #ifndef RLZ_LIB_CRC8_H_
 #define RLZ_LIB_CRC8_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners of the rlz directory
+summary: Lists the owners who review changes to the rlz directory, with no parent owners inherited.

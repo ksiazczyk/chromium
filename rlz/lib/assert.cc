@@ -4,6 +4,12 @@
 //
 // Macros specific to the RLZ library.
 
+// ---docerion
+// type: source
+// title: RLZ library assertion support
+// summary: Defines the rlz_lib expected assertion state used to mute expected asserts when MUTE_EXPECTED_ASSERTS is enabled.
+// ---
+
 #include "rlz/lib/assert.h"
 
 namespace rlz_lib {

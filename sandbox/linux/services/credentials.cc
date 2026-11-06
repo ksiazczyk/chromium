@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credentials implementation
+// summary: Implements the Credentials class for dropping capabilities, chrooting to a safe empty directory, and moving processes to new user namespaces.
+// ---
+
 
 #include "sandbox/linux/services/credentials.h"
 

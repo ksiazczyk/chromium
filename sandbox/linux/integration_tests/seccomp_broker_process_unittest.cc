@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Seccomp broker process unit tests
+// summary: Integration tests for the syscall broker process used with seccomp sandboxing, covering file open, access and permission handling through trap handlers.
+// ---
+
 #include <errno.h>
 #include <fcntl.h>
 #include <netinet/in.h>

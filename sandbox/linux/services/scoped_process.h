@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedProcess header
+// summary: Declares the ScopedProcess class that forks a child running a closure, waits for its exit, and destroys it when the object goes out of scope.
+// ---
+
 #ifndef SANDBOX_LINUX_SERVICES_SCOPED_PROCESS_H_
 #define SANDBOX_LINUX_SERVICES_SCOPED_PROCESS_H_
 

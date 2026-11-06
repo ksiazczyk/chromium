@@ -5,6 +5,12 @@
 // A helper library to keep track of a user's key by SID.
 // Used by RLZ libary. Also to be used by SearchWithGoogle library.
 
+// ---docerion
+// type: source
+// title: Registry access helpers for RLZ
+// summary: Provides helpers to read and write ASCII RLZ registry values and to check user key access, including integrity level and SYSTEM restrictions.
+// ---
+
 #include "rlz/win/lib/registry_util.h"
 
 #include <windows.h>

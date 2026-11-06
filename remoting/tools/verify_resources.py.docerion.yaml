@@ -1,0 +1,4 @@
+# Docerion header of verify_resources.py.
+type: script
+title: Verify localized resource strings
+summary: Checks that GRD resource files define all localized strings used in source, HTML, Jinja2 and manifest files, and warns about unused messages.

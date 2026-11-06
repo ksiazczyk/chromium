@@ -5,6 +5,12 @@
 // The following is the C version of code from base/process_utils_linux.cc.
 // We shouldn't link against C++ code in a setuid binary.
 
+// ---docerion
+// type: source
+// title: OOM score adjustment implementation for Linux
+// summary: Implements AdjustOOMScore in C, writing oom_score_adj or falling back to the older oom_adj with scaled values via /proc for the setuid sandbox.
+// ---
+
 // Needed for O_DIRECTORY, must be defined before fcntl.h is included
 // (and it can be included earlier than the explicit #include below
 // in some versions of glibc).

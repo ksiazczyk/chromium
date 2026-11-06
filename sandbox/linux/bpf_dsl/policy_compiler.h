@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PolicyCompiler interface
+// summary: Declares PolicyCompiler, which transforms bpf_dsl policies into BPF programs executable by the Linux kernel.
+// ---
+
 #ifndef SANDBOX_LINUX_BPF_DSL_POLICY_COMPILER_H_
 #define SANDBOX_LINUX_BPF_DSL_POLICY_COMPILER_H_
 

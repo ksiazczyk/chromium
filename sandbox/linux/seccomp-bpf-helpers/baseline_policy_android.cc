@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android baseline seccomp-BPF policy implementation
+// summary: Implements the Android variant of the baseline policy, adding allowances for the Android runtime such as binder, ashmem, incfs and userfaultfd ioctls.
+// ---
+
 #include "sandbox/linux/seccomp-bpf-helpers/baseline_policy_android.h"
 
 #include <errno.h>

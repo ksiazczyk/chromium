@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Broker command definitions and safety helpers
+// summary: Defines the BrokerCommand enum, the BrokerCommandSet bitset and async-signal-safe permission check helpers shared by the client and broker sides.
+// ---
+
 #ifndef SANDBOX_LINUX_SYSCALL_BROKER_BROKER_COMMAND_H_
 #define SANDBOX_LINUX_SYSCALL_BROKER_BROKER_COMMAND_H_
 

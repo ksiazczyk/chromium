@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Syscall unit tests
+// summary: Tests for the Syscall class covering invalid calls returning ENOSYS, well-known kernel entry points, trivial syscalls, and argument passing via BPF traps.
+// ---
+
 #include "sandbox/linux/seccomp-bpf/syscall.h"
 
 #include <asm/unistd.h>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Allowed include rules for rlz
+summary: Declares the directories that code in the rlz folder may include, such as net, dbus, ChromeOS ash components and zlib.

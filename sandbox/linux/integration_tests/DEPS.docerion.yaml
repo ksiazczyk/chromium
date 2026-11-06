@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Integration tests include rules
+summary: DEPS file defining include rules that grant the integration tests access to sandbox Linux bpf_dsl, seccomp-bpf, services, syscall_broker and system_headers directories.

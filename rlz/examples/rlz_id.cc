@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: rlz_id example program
+// summary: Example program that retrieves the RLZ machine ID and prints it to standard output.
+// ---
+
 #include "rlz/lib/machine_id.h"
 
 int main() {

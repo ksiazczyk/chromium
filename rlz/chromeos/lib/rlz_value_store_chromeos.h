@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS RLZ value store header
+// summary: Declares the RlzValueStoreChromeOS class, a ChromeOS implementation of the RlzValueStore interface for reading and writing RLZ data.
+// ---
+
 #ifndef RLZ_CHROMEOS_LIB_RLZ_VALUE_STORE_CHROMEOS_H_
 #define RLZ_CHROMEOS_LIB_RLZ_VALUE_STORE_CHROMEOS_H_
 

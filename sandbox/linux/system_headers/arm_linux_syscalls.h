@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARM Linux syscall number definitions
+// summary: Defines ARM EABI Linux syscall numbers, generated from the kernel's calls.S, for sandbox builds on 32-bit ARM.
+// ---
+
 // Generated from the Linux kernel's calls.S.
 #ifndef SANDBOX_LINUX_SYSTEM_HEADERS_ARM_LINUX_SYSCALLS_H_
 #define SANDBOX_LINUX_SYSTEM_HEADERS_ARM_LINUX_SYSCALLS_H_

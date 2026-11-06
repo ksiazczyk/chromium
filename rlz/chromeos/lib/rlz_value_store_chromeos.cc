@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS RLZ value store implementation
+// summary: Implements RlzValueStoreChromeOS, persisting RLZ ping times, access point RLZs, and product and stateful events in a JSON file with cross-process locking on ChromeOS.
+// ---
+
 #include "rlz/chromeos/lib/rlz_value_store_chromeos.h"
 
 #include <algorithm>

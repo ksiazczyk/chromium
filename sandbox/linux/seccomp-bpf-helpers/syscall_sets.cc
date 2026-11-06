@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Syscall set classification implementation
+// summary: Implements SyscallSets predicates that partition Linux syscalls on i386, x86_64 and ARM into categories used by seccomp-BPF sandbox policies.
+// ---
+
 #include "sandbox/linux/seccomp-bpf-helpers/syscall_sets.h"
 
 #include "build/build_config.h"

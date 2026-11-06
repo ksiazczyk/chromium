@@ -1,0 +1,4 @@
+# Docerion header of register_local_nm_hosts.sh.
+type: script
+title: Register local native messaging hosts
+summary: Installs or removes native messaging host manifests for the remoting hosts across Chrome and Chromium channels.

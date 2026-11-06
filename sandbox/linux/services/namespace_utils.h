@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NamespaceUtils header
+// summary: Declares NamespaceUtils, async-signal-safe helpers for uid/gid mapping files and unprivileged Linux namespace support checks.
+// ---
+
 #ifndef SANDBOX_LINUX_SERVICES_NAMESPACE_UTILS_H_
 #define SANDBOX_LINUX_SERVICES_NAMESPACE_UTILS_H_
 

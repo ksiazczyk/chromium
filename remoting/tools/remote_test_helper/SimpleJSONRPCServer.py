@@ -1,6 +1,13 @@
 # Copyright 2014 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: SimpleJSONRPCServer module
+# summary: Python module that reimplements SimpleXMLRPCServer to speak JSON-RPC instead of XML-RPC for the remote test helper.
+# ---
+
 """Module to implement the SimpleXMLRPCServer module using JSON-RPC.
 
 This module uses SimpleXMLRPCServer as the base and only overrides those

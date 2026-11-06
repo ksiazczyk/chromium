@@ -5,6 +5,12 @@
 // A library to manage RLZ information for access-points shared
 // across different client applications.
 
+// ---docerion
+// type: source
+// title: RLZ library core implementation
+// summary: Implements the core RLZ library logic, including access point support checks, RLZ normalization, event parsing from ping responses, and financial ping handling.
+// ---
+
 #include "rlz/lib/rlz_lib.h"
 
 #include <algorithm>

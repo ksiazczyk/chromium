@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrokerProcess class declaration
+// summary: Declares BrokerProcess, a forked broker process that sandboxed code can use via IPC to perform allowlisted file operations before entering the sandbox.
+// ---
+
 #ifndef SANDBOX_LINUX_SYSCALL_BROKER_BROKER_PROCESS_H_
 #define SANDBOX_LINUX_SYSCALL_BROKER_BROKER_PROCESS_H_
 

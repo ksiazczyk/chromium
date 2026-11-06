@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RLZ value store interface
+// summary: Defines the abstract RlzValueStore interface for persisting RLZ data across platforms and the ScopedRlzValueStoreLock that guards cross-process access to the store.
+// ---
+
 #ifndef RLZ_LIB_RLZ_VALUE_STORE_H_
 #define RLZ_LIB_RLZ_VALUE_STORE_H_
 

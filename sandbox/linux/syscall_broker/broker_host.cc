@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrokerHost IPC request handling implementation
+// summary: Implements BrokerHost, which receives system call requests from sandboxed processes over IPC and performs access, open, mkdir, stat, rename, and related operations according to the broker policy.
+// ---
+
 #include "sandbox/linux/syscall_broker/broker_host.h"
 
 #include <errno.h>

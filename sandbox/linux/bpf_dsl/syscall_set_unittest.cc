@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SyscallSet unit tests
+// summary: Unit tests verifying that SyscallSet iteration is monotonic, covers valid ranges, and returns the expected invalid syscall boundary values.
+// ---
+
 #include "sandbox/linux/bpf_dsl/syscall_set.h"
 
 #include <stddef.h>

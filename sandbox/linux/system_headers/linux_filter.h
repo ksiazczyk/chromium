@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux BPF filter definitions
+// summary: Defines classic BPF socket filter structures and macros from linux/filter.h used to build seccomp filters.
+// ---
+
 #ifndef SANDBOX_LINUX_SYSTEM_HEADERS_LINUX_FILTER_H_
 #define SANDBOX_LINUX_SYSTEM_HEADERS_LINUX_FILTER_H_
 

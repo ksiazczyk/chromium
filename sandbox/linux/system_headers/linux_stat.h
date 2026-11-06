@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux stat system header
+// summary: Defines kernel_stat and kernel_stat64 structures for each supported architecture to read file metadata via raw syscalls.
+// ---
+
 #ifndef SANDBOX_LINUX_SYSTEM_HEADERS_LINUX_STAT_H_
 #define SANDBOX_LINUX_SYSTEM_HEADERS_LINUX_STAT_H_
 

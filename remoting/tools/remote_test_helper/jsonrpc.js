@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JSON-RPC browser client
+// summary: Browser-side JSON-RPC client that builds JSON-RPC 2.0 requests and posts them to the server's /RPC2 endpoint.
+// ---
+
 var jsonRpc = {};
 jsonRpc.responseObject = null;
 

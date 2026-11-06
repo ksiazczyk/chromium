@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NamespaceSandbox unit tests
+// summary: Unit tests verifying that NamespaceSandbox launches child processes in new user, PID and network namespaces and can chroot and drop capabilities.
+// ---
+
 #include "sandbox/linux/services/namespace_sandbox.h"
 
 #include <signal.h>

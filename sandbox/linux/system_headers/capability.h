@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux capability definitions
+// summary: Provides Linux capability version 3 macros and structures such as CAP_SYS_ADMIN and CAP_SYS_CHROOT for sandbox code.
+// ---
+
 #ifndef SANDBOX_LINUX_SYSTEM_HEADERS_CAPABILITY_H_
 #define SANDBOX_LINUX_SYSTEM_HEADERS_CAPABILITY_H_
 

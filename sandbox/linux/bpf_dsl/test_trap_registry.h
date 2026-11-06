@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestTrapRegistry header
+// summary: Declares TestTrapRegistry, a TrapRegistry subclass for tests that maps handlers to trap IDs using an in-memory map.
+// ---
+
 #ifndef SANDBOX_LINUX_BPF_DSL_TEST_TRAP_REGISTRY_H_
 #define SANDBOX_LINUX_BPF_DSL_TEST_TRAP_REGISTRY_H_
 

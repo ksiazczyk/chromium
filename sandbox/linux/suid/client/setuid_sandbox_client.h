@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SetuidSandboxClient class declaration
+// summary: Declares the helper class used by a process after being launched through the setuid sandbox, covering chrooting and sandbox status checks.
+// ---
+
 #ifndef SANDBOX_LINUX_SUID_CLIENT_SETUID_SANDBOX_CLIENT_H_
 #define SANDBOX_LINUX_SUID_CLIENT_SETUID_SANDBOX_CLIENT_H_
 

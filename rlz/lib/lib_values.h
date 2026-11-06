@@ -4,6 +4,12 @@
 //
 // Key and value names of the location of the RLZ shared state.
 
+// ---docerion
+// type: source
+// title: RLZ library value constants header
+// summary: Declares ping CGI variable names, financial server constants, and functions to convert between access point, event and product enums and their names.
+// ---
+
 #ifndef RLZ_LIB_LIB_VALUES_H_
 #define RLZ_LIB_LIB_VALUES_H_
 

@@ -4,6 +4,12 @@
 
 // Note: any code in this file MUST be async-signal safe.
 
+// ---docerion
+// type: source
+// title: SIGSYS crash handler implementation
+// summary: Implements async-signal-safe SIGSYS handlers that log seccomp violations, record crash keys with syscall details, and crash or return errors on blocked syscalls.
+// ---
+
 #include "sandbox/linux/seccomp-bpf-helpers/sigsys_handlers.h"
 
 #include <fcntl.h>

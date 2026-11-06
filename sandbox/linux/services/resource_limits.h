@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ResourceLimits header
+// summary: Declares ResourceLimits, a small wrapper around setrlimit for lowering and adjusting soft and hard resource limits.
+// ---
+
 #ifndef SANDBOX_LINUX_SERVICES_RESOURCE_LIMITS_H_
 #define SANDBOX_LINUX_SERVICES_RESOURCE_LIMITS_H_
 

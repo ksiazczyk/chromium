@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for remoting tools
+summary: DEPS file that allows code in the tools directory to include headers from remoting/host.

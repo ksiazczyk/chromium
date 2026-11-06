@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Syscall wrappers unit tests
+// summary: Unit tests for the syscall wrappers, verifying clone variants, getresuid/getresgid, signal sets, and stat structure behavior across platforms.
+// ---
+
 #include "sandbox/linux/services/syscall_wrappers.h"
 
 #include <fcntl.h>

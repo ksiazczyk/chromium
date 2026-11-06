@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Supplementary branding scope for RLZ
+// summary: Declares a scope class that segments RLZ persistence per supplementary brand, with examples for recording events and financial pings.
+// ---
+
 #ifndef RLZ_LIB_SUPPLEMENTARY_BRANDING_H_
 #define RLZ_LIB_SUPPLEMENTARY_BRANDING_H_
 

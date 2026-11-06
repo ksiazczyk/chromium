@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TrapRegistry interface
+// summary: Defines the TrapRegistry interface for registering async-signal-safe trap handlers associated with non-zero 16-bit trap IDs.
+// ---
+
 #ifndef SANDBOX_LINUX_BPF_DSL_TRAP_REGISTRY_H_
 #define SANDBOX_LINUX_BPF_DSL_TRAP_REGISTRY_H_
 

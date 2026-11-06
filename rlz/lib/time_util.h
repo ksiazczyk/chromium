@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RLZ time utility header
+// summary: Declares GetSystemTimeAsInt64, which returns system time relative to a fixed past point in multiples of 100 nanoseconds for disk storage.
+// ---
+
 #ifndef RLZ_LIB_TIME_UTIL_H_
 #define RLZ_LIB_TIME_UTIL_H_
 

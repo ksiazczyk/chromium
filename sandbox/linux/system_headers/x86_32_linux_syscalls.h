@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: x86 32-bit Linux syscall numbers
+// summary: Defines 32-bit x86 syscall numbers generated from the Linux kernel's syscall_32.tbl for building seccomp policies.
+// ---
+
 // Generated from the Linux kernel's syscall_32.tbl.
 #ifndef SANDBOX_LINUX_SYSTEM_HEADERS_X86_32_LINUX_SYSCALLS_H_
 #define SANDBOX_LINUX_SYSTEM_HEADERS_X86_32_LINUX_SYSCALLS_H_

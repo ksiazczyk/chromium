@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Host page event handlers
+// summary: JavaScript that captures key, mouse and drag events on the host page and reports them to the test server via JSON-RPC.
+// ---
+
 // Mirrored in src/chrome/test/remoting/remote_test_helper.h
 var Action = {
   Error: 0,

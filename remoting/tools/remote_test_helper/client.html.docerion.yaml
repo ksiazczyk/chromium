@@ -1,0 +1,4 @@
+# Docerion header of client.html.
+type: source
+title: Client page
+summary: Minimal HTML client page of the remote test helper that loads the JSON-RPC browser library.

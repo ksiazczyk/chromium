@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrokerProcess fork and syscall brokering implementation
+// summary: Implements BrokerProcess, which forks a broker child process, sets up the IPC channel, and decides which syscalls should be trapped and forwarded to the broker.
+// ---
+
 #include "sandbox/linux/syscall_broker/broker_process.h"
 
 #include <fcntl.h>

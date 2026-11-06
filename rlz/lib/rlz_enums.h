@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RLZ access point, product and event enums
+// summary: Defines the rlz_lib enumerations for access points, products and events used to identify search entry points and RLZ reporting across client applications.
+// ---
+
 #ifndef RLZ_LIB_RLZ_ENUMS_H_
 #define RLZ_LIB_RLZ_ENUMS_H_
 

@@ -4,6 +4,12 @@
 //
 // Information about the current process.
 
+// ---docerion
+// type: source
+// title: Process privilege check interface
+// summary: Declares the ProcessInfo class with cached static checks for running as SYSTEM and having admin or high elevation rights.
+// ---
+
 #ifndef RLZ_WIN_LIB_PROCESS_INFO_H_
 #define RLZ_WIN_LIB_PROCESS_INFO_H_
 

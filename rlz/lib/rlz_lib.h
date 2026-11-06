@@ -8,6 +8,12 @@
 // All functions return true on success and false on error.
 // This implemenation is thread safe.
 
+// ---docerion
+// type: source
+// title: RLZ library public API header
+// summary: Declares the thread-safe public RLZ functions for recording, clearing and reading product events and access point RLZ values, with documented registry access requirements.
+// ---
+
 
 #ifndef RLZ_LIB_RLZ_LIB_H_
 #define RLZ_LIB_RLZ_LIB_H_

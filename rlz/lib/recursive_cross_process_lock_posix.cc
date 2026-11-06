@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recursive cross-process lock implementation for POSIX
+// summary: Implements a recursive cross-process mutex on POSIX by combining an in-process pthread mutex with a flock-based file lock, including acquisition with timeout and release logic.
+// ---
+
 #include "rlz/lib/recursive_cross_process_lock_posix.h"
 
 #include <errno.h>

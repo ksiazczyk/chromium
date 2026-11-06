@@ -4,6 +4,12 @@
 //
 // Unit test for string manipulation functions used in the RLZ library.
 
+// ---docerion
+// type: test
+// title: RLZ string utilities unit tests
+// summary: Unit tests verifying IsAscii for valid and invalid characters and BytesToString hex encoding, including empty and null input handling.
+// ---
+
 #include "rlz/lib/string_utils.h"
 
 #include <stddef.h>

@@ -4,6 +4,12 @@
 //
 // Library functions related to the Financial Server ping.
 
+// ---docerion
+// type: source
+// title: Financial server ping interface
+// summary: Declares the FinancialPing class for forming PSO server requests, deciding ping timing, updating last ping times, and pinging the server.
+// ---
+
 #ifndef RLZ_LIB_FINANCIAL_PING_H_
 #define RLZ_LIB_FINANCIAL_PING_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote syscall argument handler declarations
+// summary: Declares helpers for writing data and reading file paths from a remote process's address space, plus result codes and internal chunking constants.
+// ---
+
 #ifndef SANDBOX_LINUX_SYSCALL_BROKER_REMOTE_SYSCALL_ARG_HANDLER_H_
 #define SANDBOX_LINUX_SYSCALL_BROKER_REMOTE_SYSCALL_ARG_HANDLER_H_
 

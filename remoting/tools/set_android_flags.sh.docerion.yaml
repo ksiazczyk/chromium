@@ -1,0 +1,4 @@
+# Docerion header of set_android_flags.sh.
+type: script
+title: Set test flags in the Chromoting Android app
+summary: Shell script that sets test flags in the Chromoting Android app by editing its Chromoting.xml shared preferences over adb.

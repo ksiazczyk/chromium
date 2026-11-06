@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped temporary file interface
+// summary: Declares ScopedTemporaryFile, a helper that opens a temporary file on creation and removes it on destruction without needing JNI on Android.
+// ---
+
 #ifndef SANDBOX_LINUX_TESTS_SCOPED_TEMPORARY_FILE_H_
 #define SANDBOX_LINUX_TESTS_SCOPED_TEMPORARY_FILE_H_
 

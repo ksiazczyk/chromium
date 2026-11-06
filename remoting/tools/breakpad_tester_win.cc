@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows Breakpad crash tester
+// summary: Windows command-line tool that injects a remote thread into a process by PID to force a crash for Breakpad testing.
+// ---
+
 #include <windows.h>
 
 #include <stdlib.h>

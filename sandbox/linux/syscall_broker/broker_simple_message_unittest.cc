@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BrokerSimpleMessage unit tests
+// summary: Unit tests verifying that BrokerSimpleMessage correctly sends, receives, and matches message contents including data, ints, and file descriptors.
+// ---
+
 #include "sandbox/linux/syscall_broker/broker_simple_message.h"
 
 #include <linux/kcmp.h>

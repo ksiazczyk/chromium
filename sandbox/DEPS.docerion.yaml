@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Sandbox include dependency rules
+summary: Include rules that forbid the core sandbox library from depending on sandbox/policy files.

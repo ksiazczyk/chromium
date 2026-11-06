@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Trap SIGSYS handler test
+// summary: Sandbox test that registers the global Trap registry and raises SIGSYS to verify the SigSysAction signal handler is installed and does not terminate the process.
+// ---
+
 #include "sandbox/linux/seccomp-bpf/trap.h"
 
 #include <signal.h>

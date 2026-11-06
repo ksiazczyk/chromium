@@ -1,0 +1,4 @@
+# Docerion header of rlz_value_store_mac.mm.
+type: source
+title: RlzValueStoreMac implementation storing RLZ data in a plist
+summary: Implements the macOS RLZ value store, reading and writing ping times, access point RLZs and product events in a plist file.

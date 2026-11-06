@@ -5,6 +5,12 @@
 // The following is duplicated from base/process_utils.h.
 // We shouldn't link against C++ code in a setuid binary.
 
+// ---docerion
+// type: source
+// title: Process utility header for the setuid sandbox
+// summary: Declares AdjustOOMScore, a C-only helper to adjust a process's Linux OOM killer score without linking C++ code into the setuid binary.
+// ---
+
 #ifndef SANDBOX_LINUX_SUID_PROCESS_UTIL_H_
 #define SANDBOX_LINUX_SUID_PROCESS_UTIL_H_
 

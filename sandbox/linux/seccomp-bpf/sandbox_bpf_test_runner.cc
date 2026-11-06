@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SandboxBPFTestRunner implementation
+// summary: Implements the test runner that starts a seccomp-bpf sandbox and executes the delegate's test function, skipping when kernel support is missing.
+// ---
+
 #include "sandbox/linux/seccomp-bpf/sandbox_bpf_test_runner.h"
 
 #include <fcntl.h>

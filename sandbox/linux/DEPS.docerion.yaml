@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for sandbox/linux
+summary: DEPS file restricting includes in sandbox/linux by blocking most dependencies and explicitly allowing base, build, testing, and sandbox test headers.

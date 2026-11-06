@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for seccomp-bpf-helpers
+summary: Defines the include rules restricting which sandbox directories this folder may depend on.

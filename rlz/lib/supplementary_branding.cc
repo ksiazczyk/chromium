@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Supplementary branding implementation
+// summary: Implements the SupplementaryBranding scope that stores the active supplementary brand and locks the RLZ value store for its lifetime.
+// ---
+
 #include "rlz/lib/supplementary_branding.h"
 
 #include <string>

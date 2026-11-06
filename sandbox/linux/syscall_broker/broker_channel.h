@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrokerChannel class header
+// summary: Declares BrokerChannel, a small class that creates a pipe-like communication channel based on a connection-oriented Unix socket.
+// ---
+
 #ifndef SANDBOX_LINUX_SYSCALL_BROKER_BROKER_CHANNEL_H_
 #define SANDBOX_LINUX_SYSCALL_BROKER_BROKER_CHANNEL_H_
 

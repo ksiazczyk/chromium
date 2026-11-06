@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cross-platform RLZ time utility
+// summary: Implements GetSystemTimeAsInt64 using base::Time as microseconds since the Unix epoch multiplied by ten.
+// ---
+
 #include "rlz/lib/time_util.h"
 
 #include "base/time/time.h"

@@ -4,6 +4,12 @@
 //
 // Main entry point for all unit tests.
 
+// ---docerion
+// type: test
+// title: RLZ test helpers implementation
+// summary: Implements test helper classes that set up isolated machine state for RLZ tests, including temporary Windows registry hive overrides and platform-specific store setup.
+// ---
+
 #include "rlz_test_helpers.h"
 
 #include <stddef.h>

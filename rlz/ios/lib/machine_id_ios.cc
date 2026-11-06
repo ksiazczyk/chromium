@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RLZ library iOS machine ID implementation
+// summary: Implements rlz_lib::GetRawMachineId on iOS by filling the output with the device identifier from base/ios device_util and reporting additional data.
+// ---
+
 #include <string>
 
 #include "base/ios/device_util.h"

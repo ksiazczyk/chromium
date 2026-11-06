@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RLZ library cross-process mutex implementation
+// summary: Implements LibMutex, a named Windows mutex with a five-second timeout that serializes RLZ registry key access across processes.
+// ---
+
 #include "rlz/win/lib/lib_mutex.h"
 
 #include <windows.h>

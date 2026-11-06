@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DumpBPF interface
+// summary: Declares the DumpBPF class with methods to print a BPF program to stderr or return it as a string.
+// ---
+
 #ifndef SANDBOX_LINUX_BPF_DSL_DUMP_BPF_H_
 #define SANDBOX_LINUX_BPF_DSL_DUMP_BPF_H_
 

@@ -4,6 +4,12 @@
 //
 // Library functions related to the OEM Deal Confirmation Code.
 
+// ---docerion
+// type: source
+// title: OEM Deal Confirmation Code interface
+// summary: Declares the MachineDealCode class for setting, reading and parsing the OEM Deal Confirmation Code used for RLZ initialization.
+// ---
+
 #ifndef RLZ_WIN_LIB_MACHINE_DEAL_H_
 #define RLZ_WIN_LIB_MACHINE_DEAL_H_
 

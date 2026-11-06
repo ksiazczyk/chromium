@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BPF DSL seccomp sandbox unit tests
+// summary: Integration tests exercising the bpf_dsl seccomp sandbox API, including policy evaluation, trap handlers and verbose API testing under the Linux sandbox.
+// ---
+
 #include <errno.h>
 #include <fcntl.h>
 #include <pthread.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BPF DSL public API for seccomp policies
+// summary: Declares the domain-specific language for writing seccomp-BPF policies, including Allow, Error, Kill, Trace, Trap, If, and Switch constructs.
+// ---
+
 #ifndef SANDBOX_LINUX_BPF_DSL_BPF_DSL_H_
 #define SANDBOX_LINUX_BPF_DSL_BPF_DSL_H_
 

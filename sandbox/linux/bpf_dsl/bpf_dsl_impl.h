@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Internal interfaces for BPF DSL expressions
+// summary: Defines the internal BoolExprImpl and ResultExprImpl interfaces that expression implementations use to compile into CodeGen nodes.
+// ---
+
 #ifndef SANDBOX_LINUX_BPF_DSL_BPF_DSL_IMPL_H_
 #define SANDBOX_LINUX_BPF_DSL_BPF_DSL_IMPL_H_
 
