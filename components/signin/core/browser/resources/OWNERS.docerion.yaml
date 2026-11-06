@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners for signin internals resources
+summary: OWNERS file that delegates review of trivial or mechanical JS, CSS and HTML changes to the WebUI platform owners.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account preview heuristic implementation
+// summary: Implements the heuristic that computes preview preferences and selects preferred accounts for sign-in promos based on sync data quartile scores.
+// ---
+
 #include "components/signin/core/browser/account_preview_heuristic.h"
 
 #include <algorithm>

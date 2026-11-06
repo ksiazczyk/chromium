@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Site isolation feature declarations
+// summary: Declares the site isolation feature flags and memory threshold parameter names in the site_isolation namespace.
+// ---
+
 #ifndef COMPONENTS_SITE_ISOLATION_FEATURES_H_
 #define COMPONENTS_SITE_ISOLATION_FEATURES_H_
 

@@ -1,3 +1,12 @@
+---
+type: reference
+title: GaiaCookieManagerService Architecture
+summary: Architecture documentation for GaiaCookieManagerService covering Gaia cookie operations, the multilogin and ListAccounts server APIs, request queue optimization, and cookie change detection.
+relations:
+  - documents /components/signin/internal/identity_manager/gaia_cookie_manager_service.h
+  - references /components/signin/internal/identity_manager/oauth_multilogin_helper.h
+---
+
 # GaiaCookieManagerService Architecture
 
 Freshness: 2026-09-02

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Token binding helper implementation
+// summary: Implements TokenBindingHelper, which caches refresh token binding keys in memory and asynchronously creates binding key assertions using unexportable keys.
+// ---
+
 #include "components/signin/internal/identity_manager/token_binding_helper.h"
 
 #include <algorithm>

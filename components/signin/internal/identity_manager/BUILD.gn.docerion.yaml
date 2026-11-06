@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Identity Manager Build Definition
+summary: GN build file defining the identity_manager source set, its platform-specific sources, dependencies, and conditional Dice and ChromeOS support.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for signin core browser
+summary: Declares allowed include rules and per-file exceptions for dependencies of the sign-in browser code.

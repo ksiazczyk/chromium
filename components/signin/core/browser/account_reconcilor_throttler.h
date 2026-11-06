@@ -1,6 +1,13 @@
 // Copyright 2021 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Account reconcilor throttler header
+// summary: Declares AccountReconcilorThrottler, which rate-limits repeated multilogin requests to prevent reconciliation request loops.
+// ---
+
 #ifndef COMPONENTS_SIGNIN_CORE_BROWSER_ACCOUNT_RECONCILOR_THROTTLER_H_
 #define COMPONENTS_SIGNIN_CORE_BROWSER_ACCOUNT_RECONCILOR_THROTTLER_H_
 

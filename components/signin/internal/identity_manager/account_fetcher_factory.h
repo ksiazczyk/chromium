@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account Fetcher Factory Interface
+// summary: Abstract factory interface for creating account info and account capabilities fetchers, with an optional prefetch preparation hook.
+// ---
+
 #ifndef COMPONENTS_SIGNIN_INTERNAL_IDENTITY_MANAGER_ACCOUNT_FETCHER_FACTORY_H_
 #define COMPONENTS_SIGNIN_INTERNAL_IDENTITY_MANAGER_ACCOUNT_FETCHER_FACTORY_H_
 

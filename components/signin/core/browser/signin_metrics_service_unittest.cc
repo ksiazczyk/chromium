@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Signin metrics service unit tests
+// summary: Unit tests verifying signin metrics recording, including signin pending and sync paused resolution and web signin start times.
+// ---
+
 #include "components/signin/core/browser/signin_metrics_service.h"
 
 #include <string_view>

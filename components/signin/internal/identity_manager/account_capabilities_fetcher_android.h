@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android Account Capabilities Fetcher Interface
+// summary: Declares the Android implementation of AccountCapabilitiesFetcher that delegates capability fetching to a Java counterpart via JNI.
+// ---
+
 #ifndef COMPONENTS_SIGNIN_INTERNAL_IDENTITY_MANAGER_ACCOUNT_CAPABILITIES_FETCHER_ANDROID_H_
 #define COMPONENTS_SIGNIN_INTERNAL_IDENTITY_MANAGER_ACCOUNT_CAPABILITIES_FETCHER_ANDROID_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test profile OAuth2 token service delegate for ChromeOS
+// summary: Implements a testable wrapper around the ChromeOS profile OAuth2 token service delegate, forwarding token, auth error, and credential operations for use in tests.
+// ---
+
 #include "components/signin/internal/identity_manager/test_profile_oauth2_token_service_delegate_chromeos.h"
 
 #include <limits>

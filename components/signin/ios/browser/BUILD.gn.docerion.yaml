@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the iOS signin browser component
+summary: GN build configuration defining the source sets, dependencies and unit test target for the iOS sign-in browser component.

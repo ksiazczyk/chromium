@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Site engagement preference name definitions
+// summary: Defines the kSiteEngagementLastUpdateTime preference name, which records the last time an engagement event was noted for a profile to prevent decay during long inactivity.
+// ---
+
 #include "components/site_engagement/core/pref_names.h"
 
 namespace site_engagement {

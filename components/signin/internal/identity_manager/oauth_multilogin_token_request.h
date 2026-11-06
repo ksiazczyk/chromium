@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OAuthMultiloginTokenRequest class declaration
+// summary: Declares a consumer holding the data for an OAuth token request for one account, where destroying the instance cancels the request.
+// ---
+
 #ifndef COMPONENTS_SIGNIN_INTERNAL_IDENTITY_MANAGER_OAUTH_MULTILOGIN_TOKEN_REQUEST_H_
 #define COMPONENTS_SIGNIN_INTERNAL_IDENTITY_MANAGER_OAUTH_MULTILOGIN_TOKEN_REQUEST_H_
 

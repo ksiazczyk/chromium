@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mutable Profile OAuth2 Token Service Delegate Header
+// summary: Declares the delegate that persists and manages profile OAuth2 refresh tokens, including loading them from the token web database, revoking them, and reporting account startup states for signin metrics.
+// ---
+
 #ifndef COMPONENTS_SIGNIN_INTERNAL_IDENTITY_MANAGER_MUTABLE_PROFILE_OAUTH2_TOKEN_SERVICE_DELEGATE_H_
 #define COMPONENTS_SIGNIN_INTERNAL_IDENTITY_MANAGER_MUTABLE_PROFILE_OAUTH2_TOKEN_SERVICE_DELEGATE_H_
 

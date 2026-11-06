@@ -1,3 +1,11 @@
+---
+type: readme
+title: Site Isolation support in components/site_isolation/
+summary: Explains that the directory provides cross-platform Site Isolation support such as partial isolation, preference management, and memory thresholds, with core code in content/browser/.
+relations:
+  - references /docs/process_model_and_site_isolation.md
+---
+
 # Site Isolation support in components/site_isolation/
 
 This directory provides support for [Site

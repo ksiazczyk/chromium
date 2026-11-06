@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Account preview data service implementation unit tests
+// summary: Unit tests covering the account preview data service implementation, including fetching, caching, preference persistence, and metrics behavior.
+// ---
+
 #include "components/signin/core/browser/account_preview_data_service_impl.h"
 
 #include "base/functional/callback_forward.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dice header helper implementation
+// summary: Implements parsing of Dice signin, signout and linked accounts response headers and building Dice request headers for Gaia requests.
+// ---
+
 #include "components/signin/core/browser/dice_header_helper.h"
 
 #include <vector>

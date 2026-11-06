@@ -1,0 +1,4 @@
+# Docerion header of account_consistency_service.mm.
+type: source
+title: AccountConsistencyService implementation
+summary: Implements the account consistency service, setting CHROME_CONNECTED cookies, restoring Gaia cookies and handling manage accounts responses.

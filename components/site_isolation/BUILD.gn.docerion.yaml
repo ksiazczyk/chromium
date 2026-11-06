@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Site isolation GN build targets
+summary: Defines the site_isolation source set and its unit test target together with their build dependencies.

@@ -1,0 +1,4 @@
+# Docerion header of ANDROID_OWNERS.
+type: config
+title: Android owners for the signin component
+summary: Lists the default Android reviewers and review group email for load-balancing signin code reviews.

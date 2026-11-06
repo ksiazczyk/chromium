@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Site isolation policy implementation
+// summary: Implements site isolation policy decisions, including Android memory thresholds, enterprise policy applicability, and persistence of isolated origins in user prefs.
+// ---
+
 #include "components/site_isolation/site_isolation_policy.h"
 
 #include "base/byte_size.h"

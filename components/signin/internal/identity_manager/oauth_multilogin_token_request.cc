@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OAuthMultiloginTokenRequest implementation
+// summary: Implements a single-account OAuth token request consumer that reports token success or failure to its callback via the access token manager.
+// ---
+
 #include "components/signin/internal/identity_manager/oauth_multilogin_token_request.h"
 
 #include "base/types/expected.h"

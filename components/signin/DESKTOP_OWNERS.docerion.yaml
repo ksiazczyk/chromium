@@ -1,0 +1,4 @@
+# Docerion header of DESKTOP_OWNERS.
+type: config
+title: Desktop owners for the signin component
+summary: Lists the default desktop reviewers and review group email for load-balancing signin code reviews.

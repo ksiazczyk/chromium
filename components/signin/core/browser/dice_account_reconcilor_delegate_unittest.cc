@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dice account reconcilor delegate unit tests
+// summary: Unit tests covering cookie-based consistency mode and secondary token revocation behavior of the Dice account reconcilor delegate.
+// ---
+
 #include "components/signin/core/browser/dice_account_reconcilor_delegate.h"
 
 #include "base/test/scoped_feature_list.h"

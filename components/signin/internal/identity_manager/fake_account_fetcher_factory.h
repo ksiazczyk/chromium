@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake account fetcher factory header
+// summary: Declares FakeAccountFetcherFactory, a test fake of AccountFetcherFactory that creates fetchers and exposes helpers to complete, update, or fail account capabilities fetches.
+// ---
+
 #ifndef COMPONENTS_SIGNIN_INTERNAL_IDENTITY_MANAGER_FAKE_ACCOUNT_FETCHER_FACTORY_H_
 #define COMPONENTS_SIGNIN_INTERNAL_IDENTITY_MANAGER_FAKE_ACCOUNT_FETCHER_FACTORY_H_
 

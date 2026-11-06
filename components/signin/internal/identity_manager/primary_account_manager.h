@@ -15,6 +15,12 @@
 // On ChromeOS signout is not possible, so that functionality is if-def'd out on
 // that platform.
 
+// ---docerion
+// type: source
+// title: PrimaryAccountManager class declaration
+// summary: Declares the manager tracking the primary account, its observer interface, account removal options and histogram enums for initialization states.
+// ---
+
 #ifndef COMPONENTS_SIGNIN_INTERNAL_IDENTITY_MANAGER_PRIMARY_ACCOUNT_MANAGER_H_
 #define COMPONENTS_SIGNIN_INTERNAL_IDENTITY_MANAGER_PRIMARY_ACCOUNT_MANAGER_H_
 

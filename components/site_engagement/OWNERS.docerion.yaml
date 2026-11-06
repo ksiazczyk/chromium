@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Site engagement OWNERS
+summary: Defines code owners for the site_engagement directory by delegating to the chrome/browser/lookalikes OWNERS file.

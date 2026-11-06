@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Site isolation include dependency rules
+summary: Specifies the allowed include rules for the directory, with an extra rule for the unit test file.

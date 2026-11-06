@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Token binding helper header
+// summary: Declares TokenBindingHelper, which manages an in-memory cache of refresh token binding keys and provides asynchronous binding key assertion generation.
+// ---
+
 #ifndef COMPONENTS_SIGNIN_INTERNAL_IDENTITY_MANAGER_TOKEN_BINDING_HELPER_H_
 #define COMPONENTS_SIGNIN_INTERNAL_IDENTITY_MANAGER_TOKEN_BINDING_HELPER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccountsMutatorImpl implementation
+// summary: Implements AccountsMutator to add, update, and remove accounts and refresh tokens via the token service, account tracker, and primary account manager.
+// ---
+
 #include "components/signin/internal/identity_manager/accounts_mutator_impl.h"
 
 #include "components/prefs/pref_service.h"

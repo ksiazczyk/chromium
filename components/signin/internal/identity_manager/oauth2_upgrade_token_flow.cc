@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OAuth2 Upgrade Token Flow Implementation
+// summary: Implements the GAIA flow that upgrades a refresh token with token binding, sending the binding registration JWT and recording result and duration metrics.
+// ---
+
 #include "components/signin/internal/identity_manager/oauth2_upgrade_token_flow.h"
 
 #include <optional>

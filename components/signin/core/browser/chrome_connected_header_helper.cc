@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome connected header helper implementation
+// summary: Builds the CHROME_CONNECTED cookie and X-Chrome-Connected request header and parses the X-Chrome-Manage-Accounts response header for account consistency.
+// ---
+
 #include "components/signin/core/browser/chrome_connected_header_helper.h"
 
 #include <vector>

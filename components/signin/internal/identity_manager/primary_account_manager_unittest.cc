@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PrimaryAccountManager unit tests
+// summary: Unit tests verifying primary account set, clear and consent behaviors, preference restoration and related sign-in and sign-out metrics.
+// ---
+
 #include "components/signin/internal/identity_manager/primary_account_manager.h"
 
 #include <memory>

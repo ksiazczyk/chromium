@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DiagnosticsProviderImpl class declaration
+// summary: Declares the concrete DiagnosticsProvider implementation that exposes signin diagnostics from the token and cookie services.
+// ---
+
 #ifndef COMPONENTS_SIGNIN_INTERNAL_IDENTITY_MANAGER_DIAGNOSTICS_PROVIDER_IMPL_H_
 #define COMPONENTS_SIGNIN_INTERNAL_IDENTITY_MANAGER_DIAGNOSTICS_PROVIDER_IMPL_H_
 

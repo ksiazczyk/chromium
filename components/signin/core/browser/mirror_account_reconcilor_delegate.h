@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mirror account reconcilor delegate declaration
+// summary: Declares MirrorAccountReconcilorDelegate, an AccountReconcilorDelegate specialized for Mirror that observes IdentityManager.
+// ---
+
 #ifndef COMPONENTS_SIGNIN_CORE_BROWSER_MIRROR_ACCOUNT_RECONCILOR_DELEGATE_H_
 #define COMPONENTS_SIGNIN_CORE_BROWSER_MIRROR_ACCOUNT_RECONCILOR_DELEGATE_H_
 

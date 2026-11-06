@@ -1,3 +1,9 @@
+---
+type: readme
+title: Signin component overview
+summary: Explains the purpose of the cross-platform Gaia identity component and its directory structure.
+---
+
 This component supports cross-platform access to and mutation of the user's Gaia
 identities. The core interfaces of interest to most consumers reside in
 public/identity_manager; see its README.md for documentation of those

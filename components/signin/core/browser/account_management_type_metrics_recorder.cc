@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccountManagementTypeMetricsRecorder implementation
+// summary: Records histograms about whether accounts are consumer or enterprise managed once refresh tokens are loaded.
+// ---
+
 #include "components/signin/core/browser/account_management_type_metrics_recorder.h"
 
 #include "base/metrics/histogram_functions.h"

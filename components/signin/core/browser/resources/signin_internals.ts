@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TypeScript logic for the signin internals page
+// summary: Lit-based TypeScript that fetches and renders signin, token, cookie and account capability data for the signin internals WebUI.
+// ---
+
 // <if expr="is_ios">
 import 'chrome://resources/js/ios/web_ui.js';
 // </if>

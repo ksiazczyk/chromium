@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccountTrackerService unit tests
+// summary: Unit tests for AccountTrackerService covering account tracking, preference persistence, migration, and avatar image handling.
+// ---
+
 #include "components/signin/internal/identity_manager/account_tracker_service.h"
 
 #include <algorithm>

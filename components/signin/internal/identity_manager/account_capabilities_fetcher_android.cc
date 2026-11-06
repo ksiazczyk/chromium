@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android Account Capabilities Fetcher Implementation
+// summary: Implements the Android account capabilities fetcher over JNI, passing a heap-allocated callback to its Java counterpart and converting results back to native.
+// ---
+
 #include "components/signin/internal/identity_manager/account_capabilities_fetcher_android.h"
 
 #include "base/android/jni_android.h"

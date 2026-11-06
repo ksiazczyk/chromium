@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Site isolation policy header
+// summary: Declares the SiteIsolationPolicy class offering embedder-shared decisions on isolation modes, enterprise policies, and persisted or OAuth-related isolated origins.
+// ---
+
 #ifndef COMPONENTS_SITE_ISOLATION_SITE_ISOLATION_POLICY_H_
 #define COMPONENTS_SITE_ISOLATION_SITE_ISOLATION_POLICY_H_
 

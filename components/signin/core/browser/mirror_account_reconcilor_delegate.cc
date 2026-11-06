@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mirror account reconcilor delegate implementation
+// summary: Implements the account reconcilor delegate for Mirror, enabling or disabling reconciliation based on the primary account state.
+// ---
+
 #include "components/signin/core/browser/mirror_account_reconcilor_delegate.h"
 
 #include "base/logging.h"

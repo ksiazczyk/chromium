@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Account preview heuristic unit tests
+// summary: Unit tests for the account preview heuristic covering preferred data type ranking, quartile classification, and account selection priorities.
+// ---
+
 #include "components/signin/core/browser/account_preview_heuristic.h"
 
 #include <optional>

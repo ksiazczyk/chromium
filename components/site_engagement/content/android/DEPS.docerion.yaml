@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Site engagement Android dependency include rules
+summary: DEPS file listing the directories that code in the Android site engagement folder may include from.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signin cookie settings utilities header
+// summary: Declares helper functions that check whether signin cookies are allowed and whether they are cleared on exit.
+// ---
+
 #ifndef COMPONENTS_SIGNIN_CORE_BROWSER_COOKIE_SETTINGS_UTIL_H_
 #define COMPONENTS_SIGNIN_CORE_BROWSER_COOKIE_SETTINGS_UTIL_H_
 

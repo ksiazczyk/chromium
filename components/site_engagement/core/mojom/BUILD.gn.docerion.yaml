@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for site engagement Mojo bindings
+summary: GN build file defining the mojo_bindings target that compiles site_engagement_details.mojom and depends on the url Mojom types.

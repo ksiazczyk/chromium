@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake profile OAuth2 token service delegate implementation
+// summary: Implements the fake ProfileOAuth2TokenServiceDelegate for tests, faking refresh token availability, access token fetchers, and binding key registration behavior.
+// ---
+
 #include "components/signin/internal/identity_manager/fake_profile_oauth2_token_service_delegate.h"
 
 #include <algorithm>

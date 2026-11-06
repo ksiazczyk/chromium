@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Site engagement metrics header
+// summary: Declares the SiteEngagementMetrics class managing the UMA histograms for the Site Engagement Service.
+// ---
+
 #ifndef COMPONENTS_SITE_ENGAGEMENT_CONTENT_SITE_ENGAGEMENT_METRICS_H_
 #define COMPONENTS_SITE_ENGAGEMENT_CONTENT_SITE_ENGAGEMENT_METRICS_H_
 

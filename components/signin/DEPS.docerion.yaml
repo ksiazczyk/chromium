@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Dependency rules for the signin component
+summary: Specifies allowed include paths and dependency restrictions for the signin component and its subdirectories.

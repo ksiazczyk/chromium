@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AboutSigninInternals implementation (about_signin_internals.cc)
+// summary: Collects authentication, sign-in and token information to propagate to the about:signin-internals page.
+// ---
+
 #include "components/signin/core/browser/about_signin_internals.h"
 
 #include <stddef.h>

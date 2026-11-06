@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccountTrackerService implementation
+// summary: Implements AccountTrackerService, which retrieves and caches GAIA account information and persists accounts and avatar images to disk.
+// ---
+
 #include "components/signin/internal/identity_manager/account_tracker_service.h"
 
 #include <stddef.h>

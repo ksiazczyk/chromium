@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OAuth2 Token Service Delegate Base Unit Tests
+// summary: Tests the default ProfileOAuth2TokenServiceDelegate behavior, including refresh token revocation notifications, multilogin token invalidation and auth error states.
+// ---
+
 #include "components/signin/internal/identity_manager/profile_oauth2_token_service_delegate.h"
 
 #include <stddef.h>

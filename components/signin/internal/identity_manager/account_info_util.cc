@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccountInfo utility functions implementation
+// summary: Implements parsing of GAIA server responses and serialization of AccountInfo and AccountCapabilities to and from JSON dictionaries.
+// ---
+
 #include "components/signin/internal/identity_manager/account_info_util.h"
 
 #include <algorithm>

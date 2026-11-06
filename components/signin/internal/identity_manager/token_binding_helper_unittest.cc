@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Token binding helper unit tests
+// summary: Unit tests for TokenBindingHelper covering binding key caching, assertion generation, and related histograms using mock and fake unexportable key providers.
+// ---
+
 #include "components/signin/internal/identity_manager/token_binding_helper.h"
 
 #include <memory>

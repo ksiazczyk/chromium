@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Site isolation policy unit tests
+// summary: Unit tests for the site isolation policy, covering memory thresholds, persisted origins, isolation modes, and command-line switch interactions.
+// ---
+
 #include "components/site_isolation/site_isolation_policy.h"
 
 #include "base/base_switches.h"

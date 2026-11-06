@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WaitForNetworkCallbackHelperIOS unit tests
+// summary: Verifies that network calls run immediately when online and are delayed until connectivity returns when offline.
+// ---
+
 #include "components/signin/ios/browser/wait_for_network_callback_helper_ios.h"
 
 #include <memory>

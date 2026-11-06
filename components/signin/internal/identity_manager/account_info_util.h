@@ -9,6 +9,12 @@
 // - Deserializing objects received from server responses.
 // - Serializing / deserializing objects for permanent storage.
 
+// ---docerion
+// type: source
+// title: AccountInfo serialization utilities
+// summary: Declares utility functions to serialize and deserialize AccountInfo and AccountCapabilities for server responses and permanent storage.
+// ---
+
 #ifndef COMPONENTS_SIGNIN_INTERNAL_IDENTITY_MANAGER_ACCOUNT_INFO_UTIL_H_
 #define COMPONENTS_SIGNIN_INTERNAL_IDENTITY_MANAGER_ACCOUNT_INFO_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test account preview data service implementation
+// summary: Implements a fake AccountPreviewDataService for tests with controllable preferences and deferrable callbacks.
+// ---
+
 #include "components/signin/core/browser/test_account_preview_data_service.h"
 
 #include <utility>

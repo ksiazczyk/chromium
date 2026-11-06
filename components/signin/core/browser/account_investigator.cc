@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccountInvestigator implementation (account_investigator.cc)
+// summary: Watches relations between the Chrome sign-in account and cookie jar accounts and reports metrics on change and periodically.
+// ---
+
 #include "components/signin/core/browser/account_investigator.h"
 
 #include <algorithm>

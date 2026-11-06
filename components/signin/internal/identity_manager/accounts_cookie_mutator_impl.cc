@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccountsCookieMutatorImpl implementation
+// summary: Implements AccountsCookieMutator by setting accounts in GAIA cookies, triggering cookie jar updates, and logging out all accounts through the GaiaCookieManagerService.
+// ---
+
 #include "components/signin/internal/identity_manager/accounts_cookie_mutator_impl.h"
 
 #include <utility>

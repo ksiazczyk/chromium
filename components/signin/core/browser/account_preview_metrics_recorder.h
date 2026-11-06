@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account preview metrics recorder header
+// summary: Declares AccountPreviewMetricsRecorder, which records metrics for account preview data and the selection and switching heuristics.
+// ---
+
 #ifndef COMPONENTS_SIGNIN_CORE_BROWSER_ACCOUNT_PREVIEW_METRICS_RECORDER_H_
 #define COMPONENTS_SIGNIN_CORE_BROWSER_ACCOUNT_PREVIEW_METRICS_RECORDER_H_
 

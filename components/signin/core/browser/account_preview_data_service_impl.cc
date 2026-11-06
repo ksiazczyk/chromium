@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account preview data service implementation
+// summary: Implements the account preview data service, fetching preview data, persisting preferences, and recording metrics for signed-in accounts.
+// ---
+
 #include "components/signin/core/browser/account_preview_data_service_impl.h"
 
 #include <absl/container/flat_hash_set.h>

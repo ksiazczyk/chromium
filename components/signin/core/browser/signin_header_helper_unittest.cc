@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Signin header helper unit tests
+// summary: Unit tests covering construction and removal of sign-in request headers, mirror request cookies and related header helper behavior.
+// ---
+
 #include "components/signin/core/browser/signin_header_helper.h"
 
 #include <memory>

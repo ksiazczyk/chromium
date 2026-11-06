@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android profile OAuth2 token service delegate implementation
+// summary: Implements the Android token service delegate, fetching OAuth2 tokens through the native Android account manager via JNI.
+// ---
+
 #include "components/signin/internal/identity_manager/profile_oauth2_token_service_delegate_android.h"
 
 #include <algorithm>

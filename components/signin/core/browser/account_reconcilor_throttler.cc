@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account reconcilor throttler implementation
+// summary: Implements a request bucket throttler that limits repeated identical multilogin requests issued by the account reconcilor.
+// ---
+
 #include "components/signin/core/browser/account_reconcilor_throttler.h"
 
 #include "base/metrics/histogram_functions.h"

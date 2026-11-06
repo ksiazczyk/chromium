@@ -1,0 +1,4 @@
+# Docerion header of account_consistency_service_unittest.mm.
+type: test
+title: AccountConsistencyService unit tests
+summary: Unit tests for the account consistency service covering CHROME_CONNECTED cookie handling, Gaia cookie restoration and manage accounts responses.

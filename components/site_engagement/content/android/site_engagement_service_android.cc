@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Site engagement service Android JNI implementation
+// summary: Implements the native side of the SiteEngagementServiceAndroid JNI bridge, exposing score lookup and base score reset to Java.
+// ---
+
 #include "components/site_engagement/content/android/site_engagement_service_android.h"
 
 #include "base/android/jni_android.h"

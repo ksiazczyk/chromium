@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Account reconcilor delegate unit tests
+// summary: Parameterized tests checking the account reordering logic of AccountReconcilorDelegate across many token and cookie account scenarios.
+// ---
+
 #include "components/signin/core/browser/account_reconcilor_delegate.h"
 
 #include <algorithm>

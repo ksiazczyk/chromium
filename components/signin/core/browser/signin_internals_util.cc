@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signin internals utility implementation
+// summary: Implements conversion of signin status fields to preference-prefixed string names used by the signin internals reporting.
+// ---
+
 #include "components/signin/core/browser/signin_internals_util.h"
 
 #include <sstream>

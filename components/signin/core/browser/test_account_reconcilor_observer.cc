@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test account reconcilor observer implementation
+// summary: Implements a test observer that counts AccountReconcilor state changes and blocks until a requested state is reached.
+// ---
+
 #include "components/signin/core/browser/test_account_reconcilor_observer.h"
 
 using ::signin_metrics::AccountReconcilorState;

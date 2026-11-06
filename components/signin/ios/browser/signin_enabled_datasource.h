@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SigninEnabledDataSource interface header
+// summary: Declares the SigninEnabledDataSource interface whose SigninEnabled() method reports whether sign-in is not disabled.
+// ---
+
 #ifndef COMPONENTS_SIGNIN_IOS_BROWSER_SIGNIN_ENABLED_DATASOURCE_H_
 #define COMPONENTS_SIGNIN_IOS_BROWSER_SIGNIN_ENABLED_DATASOURCE_H_
 

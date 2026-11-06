@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ManageAccountsDelegate interface
+// summary: Declares the delegate interface for reacting to Gaia manage accounts actions such as adding an account, going incognito or showing promos.
+// ---
+
 #ifndef COMPONENTS_SIGNIN_IOS_BROWSER_MANAGE_ACCOUNTS_DELEGATE_H_
 #define COMPONENTS_SIGNIN_IOS_BROWSER_MANAGE_ACCOUNTS_DELEGATE_H_
 

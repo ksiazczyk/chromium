@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include Rules for Identity Manager Internals
+summary: DEPS file restricting which directories the internal identity manager code may include, with a special rule for a ChromeOS unit test.

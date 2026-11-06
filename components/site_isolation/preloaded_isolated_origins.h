@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Preloaded isolated origins header
+// summary: Declares the function that retrieves the browser-specific list of isolated origins to be loaded at startup.
+// ---
+
 #ifndef COMPONENTS_SITE_ISOLATION_PRELOADED_ISOLATED_ORIGINS_H_
 #define COMPONENTS_SITE_ISOLATION_PRELOADED_ISOLATED_ORIGINS_H_
 

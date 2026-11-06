@@ -1,3 +1,13 @@
+---
+type: readme
+title: Identity Manager Internal Implementation
+summary: Documents the internal architecture behind the public IdentityManager APIs, covering layering, event dispatch, interfaces, invariants, side effects, and verification.
+relations:
+  - documents /components/signin/internal/identity_manager/account_fetcher_service.h
+  - documents /components/signin/internal/identity_manager/account_tracker_service.h
+  - references /components/signin/internal/identity_manager/docs/gaia_cookie_manager_service.md
+---
+
 # Identity Manager Internal Implementation
 
 Freshness: 2026-09-02

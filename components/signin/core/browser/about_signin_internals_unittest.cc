@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for AboutSigninInternals
+// summary: Tests AboutSigninInternals behavior such as account capability override checks across release channels.
+// ---
+
 #include "components/signin/core/browser/about_signin_internals.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signin metrics service implementation
+// summary: Implements recording of sign-in metrics such as signin pending and sync paused resolution times, with state persisted in preferences.
+// ---
+
 #include "components/signin/core/browser/signin_metrics_service.h"
 
 #include <optional>

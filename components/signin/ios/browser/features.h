@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signin iOS feature helper declarations
+// summary: Declares the startup sign-in promo helper and switch names for Gaia cookie update delays and capabilities API wait thresholds.
+// ---
+
 #ifndef COMPONENTS_SIGNIN_IOS_BROWSER_FEATURES_H_
 #define COMPONENTS_SIGNIN_IOS_BROWSER_FEATURES_H_
 

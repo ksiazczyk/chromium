@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Site Engagement Service Java bridge
+// summary: Java wrapper around the native Site Engagement Service that lets Android code retrieve and reset per-URL engagement scores for a browser context via JNI.
+// ---
+
 package org.chromium.components.site_engagement;
 
 import org.jni_zero.CalledByNative;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeAccountCapabilitiesFetcher implementation
+// summary: Implements a fake AccountCapabilitiesFetcher that tests can use to manually complete, update, or fail capability fetches.
+// ---
+
 #include "components/signin/internal/identity_manager/fake_account_capabilities_fetcher.h"
 
 #include <optional>

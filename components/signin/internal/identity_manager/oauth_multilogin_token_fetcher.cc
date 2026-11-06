@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OAuthMultiloginTokenFetcher implementation
+// summary: Implements parallel fetching of OAuth access tokens for multiple accounts during multilogin, handling per-account requests, retries and UMA metrics for fetch outcomes.
+// ---
+
 #include "components/signin/internal/identity_manager/oauth_multilogin_token_fetcher.h"
 
 #include <algorithm>

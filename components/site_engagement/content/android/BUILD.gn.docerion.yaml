@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Site engagement Android Java and JNI build targets
+summary: GN build file defining the Android Java library for SiteEngagementService and the generated JNI headers it depends on.

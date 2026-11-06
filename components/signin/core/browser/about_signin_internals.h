@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AboutSigninInternals header (about_signin_internals.h)
+// summary: Declares the AboutSigninInternals keyed service that reports sign-in status to observers of signin internals UI.
+// ---
+
 #ifndef COMPONENTS_SIGNIN_CORE_BROWSER_ABOUT_SIGNIN_INTERNALS_H_
 #define COMPONENTS_SIGNIN_CORE_BROWSER_ABOUT_SIGNIN_INTERNALS_H_
 

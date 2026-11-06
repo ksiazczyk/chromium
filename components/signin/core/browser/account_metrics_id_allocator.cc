@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account metrics ID allocator implementation
+// summary: Allocates stable per-account metrics IDs from signin prefs, capped at 99, and records Signin.AccountInPref.AssignedId histogram samples.
+// ---
+
 #include "components/signin/core/browser/account_metrics_id_allocator.h"
 
 #include "base/logging.h"

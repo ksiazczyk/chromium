@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SiteEngagementService implementation
+// summary: Implements the per-profile site engagement service that stores, updates, and queries origin engagement scores and periodically logs engagement metrics.
+// ---
+
 #include "components/site_engagement/content/site_engagement_service.h"
 
 #include <stddef.h>

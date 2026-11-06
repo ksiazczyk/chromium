@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Site isolation feature flags
+// summary: Defines base::Feature flags for partial site isolation modes, including password and OAuth site isolation and Android memory thresholds.
+// ---
+
 #include "components/site_isolation/features.h"
 
 #include "build/build_config.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OAuth2 Upgrade Token Flow Unit Tests
+// summary: Unit tests verifying request configuration, dark launch behavior without device ID, and success, network and server error handling of the upgrade token flow.
+// ---
+
 #include "components/signin/internal/identity_manager/oauth2_upgrade_token_flow.h"
 
 #include <optional>

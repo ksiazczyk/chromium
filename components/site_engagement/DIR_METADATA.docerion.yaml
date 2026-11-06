@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Site engagement DIR_METADATA
+summary: Declares the Monorail component (Internals>SiteEngagement) and public Buganizer component ID used for issues in this directory.

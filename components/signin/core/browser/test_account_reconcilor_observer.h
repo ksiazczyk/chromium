@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test account reconcilor observer
+// summary: Declares a scoped AccountReconcilor observer test helper that counts events and waits for reconcilor state changes.
+// ---
+
 #ifndef COMPONENTS_SIGNIN_CORE_BROWSER_TEST_ACCOUNT_RECONCILOR_OBSERVER_H_
 #define COMPONENTS_SIGNIN_CORE_BROWSER_TEST_ACCOUNT_RECONCILOR_OBSERVER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dice response params unit tests
+// summary: Unit tests for DiceResponseParams validity and initiator account resolution within signin info.
+// ---
+
 #include "components/signin/core/browser/dice_response_params.h"
 
 #include <memory>

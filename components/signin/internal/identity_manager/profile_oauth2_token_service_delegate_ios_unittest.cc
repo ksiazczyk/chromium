@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: iOS OAuth2 Token Service Delegate Unit Tests
+// summary: Unit tests for the iOS token service delegate using a fake device accounts provider, checking token availability, revocation and auth error changes.
+// ---
+
 #include "components/signin/internal/identity_manager/profile_oauth2_token_service_delegate_ios.h"
 
 #include "base/functional/callback_helpers.h"

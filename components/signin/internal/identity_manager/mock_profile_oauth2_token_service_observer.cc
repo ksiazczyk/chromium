@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock profile OAuth2 token service observer
+// summary: Implements a gmock observer class that attaches to a ProfileOAuth2TokenService or its delegate so tests can observe token service events.
+// ---
+
 #include "components/signin/internal/identity_manager/mock_profile_oauth2_token_service_observer.h"
 
 #include "base/scoped_observation.h"

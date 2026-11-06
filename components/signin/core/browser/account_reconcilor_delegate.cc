@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account reconcilor delegate implementation
+// summary: Implements default AccountReconcilorDelegate behavior, including multilogin parameters and reordering of Chrome accounts for reconciliation.
+// ---
+
 #include "components/signin/core/browser/account_reconcilor_delegate.h"
 
 #include <algorithm>

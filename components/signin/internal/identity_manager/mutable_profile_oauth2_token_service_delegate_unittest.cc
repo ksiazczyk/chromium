@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mutable Profile OAuth2 Token Service Delegate Unit Tests
+// summary: Unit tests covering loading, persisting, revoking and binding of OAuth2 refresh tokens in the mutable profile token service delegate.
+// ---
+
 #include "components/signin/internal/identity_manager/mutable_profile_oauth2_token_service_delegate.h"
 
 #include <map>

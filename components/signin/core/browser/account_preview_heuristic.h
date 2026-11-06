@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account preview heuristic header
+// summary: Declares the account preview heuristic, its selection reasons, and result structures for choosing the preferred account for sign-in promos.
+// ---
+
 #ifndef COMPONENTS_SIGNIN_CORE_BROWSER_ACCOUNT_PREVIEW_HEURISTIC_H_
 #define COMPONENTS_SIGNIN_CORE_BROWSER_ACCOUNT_PREVIEW_HEURISTIC_H_
 

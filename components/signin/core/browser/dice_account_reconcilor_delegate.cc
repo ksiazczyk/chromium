@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dice account reconcilor delegate implementation
+// summary: Implements the Dice-specific account reconcilor delegate, revoking secondary tokens and matching refresh tokens with accounts in the Gaia cookie.
+// ---
+
 #include "components/signin/core/browser/dice_account_reconcilor_delegate.h"
 
 #include <algorithm>

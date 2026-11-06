@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sign-in status metrics provider helpers header
+// summary: Declares enums and structs for profile sign-in and sync status metrics plus helpers that emit the corresponding histograms.
+// ---
+
 #ifndef COMPONENTS_SIGNIN_CORE_BROWSER_SIGNIN_STATUS_METRICS_PROVIDER_HELPERS_H_
 #define COMPONENTS_SIGNIN_CORE_BROWSER_SIGNIN_STATUS_METRICS_PROVIDER_HELPERS_H_
 

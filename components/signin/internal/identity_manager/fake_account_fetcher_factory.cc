@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake account fetcher factory implementation
+// summary: Implements FakeAccountFetcherFactory, a test fake of AccountFetcherFactory that creates account info and capabilities fetchers and lets tests complete or update capability fetches manually.
+// ---
+
 #include "components/signin/internal/identity_manager/fake_account_fetcher_factory.h"
 
 #include "base/functional/bind.h"

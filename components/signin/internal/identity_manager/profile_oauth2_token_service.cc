@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile OAuth2 token service implementation
+// summary: Implements the service that fetches and manages OAuth2 access tokens for accounts using OAuth2 login refresh tokens.
+// ---
+
 #include "components/signin/internal/identity_manager/profile_oauth2_token_service.h"
 
 #include "base/check_op.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OAuthMultiloginTokenFetcher unit tests
+// summary: Unit tests covering success, failure and retry behavior of the multilogin token fetcher using a fake OAuth2 token service and test signin client.
+// ---
+
 #include "components/signin/internal/identity_manager/oauth_multilogin_token_fetcher.h"
 
 #include <map>

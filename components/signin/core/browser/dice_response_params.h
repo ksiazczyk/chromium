@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dice response params declaration
+// summary: Declares DiceResponseParams and its signin, signout and enable sync info structs describing parameters received in Dice response headers.
+// ---
+
 #ifndef COMPONENTS_SIGNIN_CORE_BROWSER_DICE_RESPONSE_PARAMS_H_
 #define COMPONENTS_SIGNIN_CORE_BROWSER_DICE_RESPONSE_PARAMS_H_
 

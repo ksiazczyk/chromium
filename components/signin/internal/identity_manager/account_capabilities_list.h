@@ -16,6 +16,12 @@
 // expanded differently in some places. The macro has the following signature:
 // ACCOUNT_CAPABILITY(cpp_label, java_label, name).
 
+// ---docerion
+// type: source
+// title: Account Capabilities Identifier List
+// summary: Macro-expanded list of account capability identifiers and their server-side values, included to generate capability name constants.
+// ---
+
 // Here we rely on build_config.h to not introduce any symbols that can be
 // textually inserted in the code. If that changes in the future, this header
 // should be removed from this file and included transitively instead.

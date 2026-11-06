@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccountsMutatorImpl class declaration
+// summary: Declares the concrete AccountsMutator implementation for adding, updating, removing, and moving accounts, with ChromeOS and Dice-specific code paths.
+// ---
+
 #ifndef COMPONENTS_SIGNIN_INTERNAL_IDENTITY_MANAGER_ACCOUNTS_MUTATOR_IMPL_H_
 #define COMPONENTS_SIGNIN_INTERNAL_IDENTITY_MANAGER_ACCOUNTS_MUTATOR_IMPL_H_
 

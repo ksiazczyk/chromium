@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WaitForNetworkCallbackHelperIOS class declaration
+// summary: Declares the iOS network change observer that queues callbacks issued while offline and invokes them once the device is online.
+// ---
+
 #ifndef COMPONENTS_SIGNIN_IOS_BROWSER_WAIT_FOR_NETWORK_CALLBACK_HELPER_IOS_H_
 #define COMPONENTS_SIGNIN_IOS_BROWSER_WAIT_FOR_NETWORK_CALLBACK_HELPER_IOS_H_
 

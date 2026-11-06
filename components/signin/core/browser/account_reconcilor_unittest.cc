@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Account reconcilor unit tests
+// summary: Extensive unit tests for AccountReconcilor covering reconciliation triggers, cookie account updates, throttling and error handling.
+// ---
+
 #include "components/signin/core/browser/account_reconcilor.h"
 
 #include <algorithm>

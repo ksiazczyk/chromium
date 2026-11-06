@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Site engagement service Android wrapper declaration
+// summary: Declares SiteEngagementServiceAndroid, a UI-thread wrapper that exposes the native site engagement service to Java.
+// ---
+
 #ifndef COMPONENTS_SITE_ENGAGEMENT_CONTENT_ANDROID_SITE_ENGAGEMENT_SERVICE_ANDROID_H_
 #define COMPONENTS_SITE_ENGAGEMENT_CONTENT_ANDROID_SITE_ENGAGEMENT_SERVICE_ANDROID_H_
 

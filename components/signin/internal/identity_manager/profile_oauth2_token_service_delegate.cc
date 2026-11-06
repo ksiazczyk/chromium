@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile OAuth2 token service delegate implementation
+// summary: Implements shared token service delegate behavior, including backoff policy and names for refresh token operation sources.
+// ---
+
 #include "components/signin/internal/identity_manager/profile_oauth2_token_service_delegate.h"
 
 #include "base/auto_reset.h"

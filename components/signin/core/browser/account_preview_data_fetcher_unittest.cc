@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Account preview data fetcher unit tests
+// summary: Unit tests covering successful and failing fetches of account preview statistics and entity previews, including histogram and 429 handling.
+// ---
+
 #include "components/signin/core/browser/account_preview_data_fetcher.h"
 
 #include <memory>

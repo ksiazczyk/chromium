@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OAuth Multilogin Helper Implementation
+// summary: Implements the OAuth multilogin flow that fetches login-scoped access tokens, calls the multilogin endpoint and sets returned cookies, with device bound session support.
+// ---
+
 #include "components/signin/internal/identity_manager/oauth_multilogin_helper.h"
 
 #include <algorithm>

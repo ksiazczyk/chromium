@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signin header helper declarations
+// summary: Declares SigninHeaderHelper, RequestAdapter, ManageAccountsParams and Gaia service types used to manage sign-in related HTTP headers.
+// ---
+
 #ifndef COMPONENTS_SIGNIN_CORE_BROWSER_SIGNIN_HEADER_HELPER_H_
 #define COMPONENTS_SIGNIN_CORE_BROWSER_SIGNIN_HEADER_HELPER_H_
 
