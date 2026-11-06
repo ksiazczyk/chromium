@@ -1,0 +1,4 @@
+# Docerion header of IDS_IOS_DEFAULT_PAGE_MODE_DESKTOP_SUBTITLE.png.sha1.
+type: data
+title: Default page mode desktop subtitle image SHA1
+summary: Stores the SHA1 hash of the PNG image for the default page mode desktop subtitle message in the iOS Chromium strings.
