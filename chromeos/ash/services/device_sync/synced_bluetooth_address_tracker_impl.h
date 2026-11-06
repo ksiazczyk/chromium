@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Synced Bluetooth address tracker implementation header
+// summary: Declares SyncedBluetoothAddressTrackerImpl, which stores the last synced Bluetooth address in prefs and observes Bluetooth adapter presence changes.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_DEVICE_SYNC_SYNCED_BLUETOOTH_ADDRESS_TRACKER_IMPL_H_
 #define CHROMEOS_ASH_SERVICES_DEVICE_SYNC_SYNCED_BLUETOOTH_ADDRESS_TRACKER_IMPL_H_
 

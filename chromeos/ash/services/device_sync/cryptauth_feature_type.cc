@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptAuthFeatureType implementation
+// summary: Implements string, GCM hash and software-feature mappings for the CryptAuthFeatureType enum used by the CryptAuth v2 DeviceSync backend.
+// ---
+
 #include "chromeos/ash/services/device_sync/cryptauth_feature_type.h"
 
 #include "ash/constants/ash_features.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptAuth task metrics logging enums and helpers
+// summary: Declares result enums and logging functions for CryptAuth Enrollment and DeviceSync task success metrics.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_DEVICE_SYNC_CRYPTAUTH_TASK_METRICS_LOGGER_H_
 #define CHROMEOS_ASH_SERVICES_DEVICE_SYNC_CRYPTAUTH_TASK_METRICS_LOGGER_H_
 

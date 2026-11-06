@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake CryptAuthEciesEncryptor test double declarations
+// summary: Declares FakeCryptAuthEciesEncryptor and its factory, a test double for ECIES batch encryption and decryption used in tests.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_DEVICE_SYNC_FAKE_CRYPTAUTH_ECIES_ENCRYPTOR_H_
 #define CHROMEOS_ASH_SERVICES_DEVICE_SYNC_FAKE_CRYPTAUTH_ECIES_ENCRYPTOR_H_
 

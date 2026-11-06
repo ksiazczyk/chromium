@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptAuthKeyBundle header
+// summary: Declares CryptAuthKeyBundle, a named group of related CryptAuthKeys where at most one key is active, with methods to add, activate, deactivate and delete keys.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_DEVICE_SYNC_CRYPTAUTH_KEY_BUNDLE_H_
 #define CHROMEOS_ASH_SERVICES_DEVICE_SYNC_CRYPTAUTH_KEY_BUNDLE_H_
 

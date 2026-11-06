@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RemoteDeviceProviderImpl unit tests
+// summary: Unit tests for RemoteDeviceProviderImpl that use fake v2 device managers and loaders to verify remote device loading and observer notifications.
+// ---
+
 #include "chromeos/ash/services/device_sync/remote_device_provider_impl.h"
 
 #include <memory>

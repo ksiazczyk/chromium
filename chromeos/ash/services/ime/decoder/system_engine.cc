@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemEngine implementation for the IME shared library
+// summary: Implements SystemEngine by initializing MojoMode entry points of the IME shared library, binding the ConnectionFactory receiver pipe, and reporting input method connection state.
+// ---
+
 #include "chromeos/ash/services/ime/decoder/system_engine.h"
 
 #include "base/files/file_path.h"

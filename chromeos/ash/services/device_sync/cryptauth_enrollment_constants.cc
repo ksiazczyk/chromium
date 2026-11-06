@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptAuth enrollment constants
+// summary: Defines constant strings for CryptAuth enrollment, such as key names, HKDF salts, and the client version.
+// ---
+
 #include "chromeos/ash/services/device_sync/cryptauth_enrollment_constants.h"
 
 namespace ash {

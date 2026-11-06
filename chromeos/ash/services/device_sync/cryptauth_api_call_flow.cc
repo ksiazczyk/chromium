@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptAuthApiCallFlow implementation
+// summary: Implements the OAuth2-based API call flow that sends POST and GET requests to the CryptAuth service and maps HTTP response codes to network request errors.
+// ---
+
 #include "chromeos/ash/services/device_sync/cryptauth_api_call_flow.h"
 
 #include "base/strings/string_number_conversions.h"

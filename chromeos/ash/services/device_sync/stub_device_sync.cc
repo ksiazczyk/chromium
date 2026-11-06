@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stub DeviceSync implementation
+// summary: Provides a stub DeviceSync for Linux CrOS builds that fakes enrollment, sync, and software feature state handling with a fake phone and computer.
+// ---
+
 #include "chromeos/ash/services/device_sync/stub_device_sync.h"
 
 #include <algorithm>

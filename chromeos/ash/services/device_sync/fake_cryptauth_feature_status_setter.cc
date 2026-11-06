@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake CryptAuthFeatureStatusSetter implementation
+// summary: Implements a fake CryptAuthFeatureStatusSetter that records SetFeatureStatus requests and a factory that creates fake instances for use in tests.
+// ---
+
 #include "chromeos/ash/services/device_sync/fake_cryptauth_feature_status_setter.h"
 
 namespace ash {

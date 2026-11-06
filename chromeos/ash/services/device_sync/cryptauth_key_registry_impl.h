@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptAuthKeyRegistryImpl header
+// summary: Declares CryptAuthKeyRegistryImpl, which keeps the in-memory key bundle map in sync with a persistent preference across process restarts.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_DEVICE_SYNC_CRYPTAUTH_KEY_REGISTRY_IMPL_H_
 #define CHROMEOS_ASH_SERVICES_DEVICE_SYNC_CRYPTAUTH_KEY_REGISTRY_IMPL_H_
 

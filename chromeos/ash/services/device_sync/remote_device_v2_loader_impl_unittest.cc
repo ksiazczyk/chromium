@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RemoteDeviceV2LoaderImpl unit tests
+// summary: Unit tests for RemoteDeviceV2LoaderImpl that verify conversion of CryptAuthDevices into RemoteDevices across combinations of metadata, public keys, and beacon seeds.
+// ---
+
 #include "chromeos/ash/services/device_sync/remote_device_v2_loader_impl.h"
 
 #include <algorithm>

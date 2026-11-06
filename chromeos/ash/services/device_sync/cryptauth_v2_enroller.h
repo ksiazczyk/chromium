@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptAuthV2Enroller interface
+// summary: Declares the client end of the CryptAuth v2 Enrollment protocol, documenting the SyncKeys and EnrollKeys request/response steps.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_DEVICE_SYNC_CRYPTAUTH_V2_ENROLLER_H_
 #define CHROMEOS_ASH_SERVICES_DEVICE_SYNC_CRYPTAUTH_V2_ENROLLER_H_
 

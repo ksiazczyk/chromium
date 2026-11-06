@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock CryptAuthClient and factory implementation
+// summary: Implements a gmock CryptAuthClient and a factory that creates strict or nice mocks and notifies observers on client creation.
+// ---
+
 #include "chromeos/ash/services/device_sync/mock_cryptauth_client.h"
 
 #include <memory>

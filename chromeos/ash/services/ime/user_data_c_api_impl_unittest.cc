@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User data C API implementation unit test
+// summary: Unit test that verifies UserDataCApiImpl serializes requests, passes them to the shared library entry point, and handles the returned response proto.
+// ---
+
 #include "chromeos/ash/services/ime/user_data_c_api_impl.h"
 
 #include "base/logging.h"

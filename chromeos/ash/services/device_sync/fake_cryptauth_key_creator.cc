@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake CryptAuthKeyCreator implementation
+// summary: Implements a fake CryptAuthKeyCreator that records key creation requests and a factory returning fake instances for use in tests.
+// ---
+
 #include "chromeos/ash/services/device_sync/fake_cryptauth_key_creator.h"
 
 #include <utility>

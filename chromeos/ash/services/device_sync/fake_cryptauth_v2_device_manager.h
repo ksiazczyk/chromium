@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake CryptAuthV2DeviceManager header
+// summary: Declares FakeCryptAuthV2DeviceManager, a test double that queues ForceDeviceSyncNow requests and exposes synced devices and timing state.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_DEVICE_SYNC_FAKE_CRYPTAUTH_V2_DEVICE_MANAGER_H_
 #define CHROMEOS_ASH_SERVICES_DEVICE_SYNC_FAKE_CRYPTAUTH_V2_DEVICE_MANAGER_H_
 

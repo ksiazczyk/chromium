@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CryptAuth v2 device sync test device definitions
+// summary: Defines local and remote test devices, group keys, and metadata packets shared by CryptAuth v2 device sync tests.
+// ---
+
 #include "chromeos/ash/services/device_sync/cryptauth_v2_device_sync_test_devices.h"
 
 #include "base/check_op.h"

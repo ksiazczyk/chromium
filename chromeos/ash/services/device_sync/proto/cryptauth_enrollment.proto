@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptAuth v2 Enrollment protocol messages
+// summary: Defines SyncKeys and EnrollKeys request and response messages for the CryptAuth v2 Enrollment protocol.
+// ---
+
 // Contains the request and response messages used in the CryptAuth v2
 // Enrollment protocol. Specifically,
 //   (1) SyncKeysRequest: The client submits information about their current set

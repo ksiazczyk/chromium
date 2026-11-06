@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CryptAuthFeatureType unit tests
+// summary: Tests round-trip conversions of CryptAuthFeatureType between strings, GCM hashes and software features, including expected encoded hash values.
+// ---
+
 #include "chromeos/ash/services/device_sync/cryptauth_feature_type.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

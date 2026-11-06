@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptAuthApiCallFlow class declaration
+// summary: Declares CryptAuthApiCallFlow, the Google API call flow underlying all CryptAuth requests, supporting serialized proto POST bodies and query-parameter GET requests.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_DEVICE_SYNC_CRYPTAUTH_API_CALL_FLOW_H_
 #define CHROMEOS_ASH_SERVICES_DEVICE_SYNC_CRYPTAUTH_API_CALL_FLOW_H_
 

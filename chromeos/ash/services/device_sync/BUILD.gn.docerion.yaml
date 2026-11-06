@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build configuration for device_sync
+summary: Defines the GN static library targets and source lists for the ChromeOS device_sync service, including the main device_sync library.

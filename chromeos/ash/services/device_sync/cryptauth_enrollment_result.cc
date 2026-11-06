@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptAuth enrollment result implementation
+// summary: Implements CryptAuthEnrollmentResult, which stores the result code and client directive of a CryptAuth v2 enrollment attempt and provides success checks and debug output.
+// ---
+
 #include "chromeos/ash/services/device_sync/cryptauth_enrollment_result.h"
 
 namespace ash {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptAuthKeyProofComputerImpl implementation
+// summary: Implements CryptAuthKeyProofComputer, computing symmetric key proofs with HKDF-derived HMAC-SHA256 and asymmetric proofs with ECDSA-SHA256 signatures.
+// ---
+
 #include "chromeos/ash/services/device_sync/cryptauth_key_proof_computer_impl.h"
 
 #include <vector>

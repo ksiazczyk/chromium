@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptAuthDeviceRegistry class declaration
+// summary: Declares CryptAuthDeviceRegistry, which stores the devices managed by CryptAuth v2 DeviceSync in a map from Instance ID to CryptAuthDevice.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_DEVICE_SYNC_CRYPTAUTH_DEVICE_REGISTRY_H_
 #define CHROMEOS_ASH_SERVICES_DEVICE_SYNC_CRYPTAUTH_DEVICE_REGISTRY_H_
 

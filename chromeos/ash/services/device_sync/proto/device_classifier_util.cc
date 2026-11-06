@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device classifier utility implementation
+// summary: Returns a DeviceClassifier proto populated with the OS version, Chrome device type and browser software version.
+// ---
+
 #include "chromeos/ash/services/device_sync/proto/device_classifier_util.h"
 
 #include <vector>

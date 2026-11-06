@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input method user data service implementation
+// summary: Implements the Mojo input method user data service, converting Japanese dictionary requests into protobuf calls to the shared library C API.
+// ---
+
 #include "chromeos/ash/services/ime/input_method_user_data_service_impl.h"
 
 #include "chromeos/ash/services/ime/ime_shared_library_wrapper.h"

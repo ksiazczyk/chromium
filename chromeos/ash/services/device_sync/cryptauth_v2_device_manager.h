@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceSync v2 device manager interface
+// summary: Interface for syncing the user's CryptAuth v2 BetterTogether devices, exposing sync status and force-sync controls.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_DEVICE_SYNC_CRYPTAUTH_V2_DEVICE_MANAGER_H_
 #define CHROMEOS_ASH_SERVICES_DEVICE_SYNC_CRYPTAUTH_V2_DEVICE_MANAGER_H_
 

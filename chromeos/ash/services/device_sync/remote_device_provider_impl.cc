@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RemoteDeviceProviderImpl implementation
+// summary: Implements RemoteDeviceProvider for v2 DeviceSync, reloading remote devices through RemoteDeviceV2Loader when a device sync finishes and the device registry changed.
+// ---
+
 #include "chromeos/ash/services/device_sync/remote_device_provider_impl.h"
 
 #include "base/check.h"

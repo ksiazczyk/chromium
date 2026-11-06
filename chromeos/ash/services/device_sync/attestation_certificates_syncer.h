@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Attestation certificates syncer interface
+// summary: Defines the interface for obtaining and uploading attestation certificates to CryptAuth, including sync status methods.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_DEVICE_SYNC_ATTESTATION_CERTIFICATES_SYNCER_H_
 #define CHROMEOS_ASH_SERVICES_DEVICE_SYNC_ATTESTATION_CERTIFICATES_SYNCER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Japanese dictionary proto and mojom conversion implementation
+// summary: Implements conversion of Japanese IME dictionary data between proto and mojom types, including a mapping table for 45 part-of-speech types.
+// ---
+
 #include "chromeos/ash/services/ime/user_data/japanese_dictionary.h"
 
 #include "base/containers/fixed_flat_map.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CryptAuthDeviceNotifierImpl unit tests
+// summary: Unit tests for CryptAuthDeviceNotifierImpl covering success, failure, and timeout paths of BatchNotifyGroupDevices requests using mock CryptAuth clients.
+// ---
+
 #include "chromeos/ash/services/device_sync/cryptauth_device_notifier_impl.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake CryptAuthFeatureStatusSetter header
+// summary: Declares FakeCryptAuthFeatureStatusSetter, which records feature status change requests with callbacks, plus a factory exposing created instances for tests.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_DEVICE_SYNC_FAKE_CRYPTAUTH_FEATURE_STATUS_SETTER_H_
 #define CHROMEOS_ASH_SERVICES_DEVICE_SYNC_FAKE_CRYPTAUTH_FEATURE_STATUS_SETTER_H_
 

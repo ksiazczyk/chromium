@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for device_sync dependencies
+summary: Declares the allowed include dependencies for the device_sync directory, such as multidevice, GCM driver, crypto, and securemessage.

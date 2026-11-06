@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptAuth v2 DeviceSync protocol messages
+// summary: Defines request and response messages for CryptAuth v2 DeviceSync operations such as SyncMetadata and batched feature status queries.
+// ---
+
 // Contains the request and response messages used in the CryptAuth v2
 // DeviceSync protocol. Specifically,
 //

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptAuthV2Enroller base class
+// summary: Implements the CryptAuthV2Enroller base class, enforcing a single Enroll() call and forwarding enrollment results to the callback.
+// ---
+
 #include "chromeos/ash/services/device_sync/cryptauth_v2_enroller.h"
 
 #include <utility>

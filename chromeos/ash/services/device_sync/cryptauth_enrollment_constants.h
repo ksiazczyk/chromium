@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptAuth enrollment constant declarations
+// summary: Declares constants used in CryptAuth v2 enrollment, including key pair names, key derivation and key proof salts, and the client version.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_DEVICE_SYNC_CRYPTAUTH_ENROLLMENT_CONSTANTS_H_
 #define CHROMEOS_ASH_SERVICES_DEVICE_SYNC_CRYPTAUTH_ENROLLMENT_CONSTANTS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake CryptAuthEciesEncryptor implementation
+// summary: Implements a fake CryptAuthEciesEncryptor and factory that record batch encryption or decryption and finish attempts on demand in tests.
+// ---
+
 #include "chromeos/ash/services/device_sync/fake_cryptauth_ecies_encryptor.h"
 
 namespace ash {

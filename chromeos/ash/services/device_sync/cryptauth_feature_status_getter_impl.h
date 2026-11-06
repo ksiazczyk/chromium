@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptAuth feature status getter implementation header
+// summary: Declares CryptAuthFeatureStatusGetterImpl, a CryptAuthClient-based implementation of feature status retrieval that guarantees callbacks via internal timeouts.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_DEVICE_SYNC_CRYPTAUTH_FEATURE_STATUS_GETTER_IMPL_H_
 #define CHROMEOS_ASH_SERVICES_DEVICE_SYNC_CRYPTAUTH_FEATURE_STATUS_GETTER_IMPL_H_
 

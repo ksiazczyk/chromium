@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RemoteDeviceProviderImpl class header
+// summary: Declares the concrete RemoteDeviceProvider that handles v2 DeviceSync data, observing CryptAuthV2DeviceManager and exposing the list of synced remote devices.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_DEVICE_SYNC_REMOTE_DEVICE_PROVIDER_IMPL_H_
 #define CHROMEOS_ASH_SERVICES_DEVICE_SYNC_REMOTE_DEVICE_PROVIDER_IMPL_H_
 

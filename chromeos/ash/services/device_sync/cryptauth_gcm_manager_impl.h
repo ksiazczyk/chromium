@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptAuthGCMManagerImpl header
+// summary: Declares CryptAuthGCMManagerImpl, a GCMAppHandler that manages GCM registration and message handling for CryptAuth, with a factory for testing.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_DEVICE_SYNC_CRYPTAUTH_GCM_MANAGER_IMPL_H_
 #define CHROMEOS_ASH_SERVICES_DEVICE_SYNC_CRYPTAUTH_GCM_MANAGER_IMPL_H_
 

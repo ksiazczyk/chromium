@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CryptAuthFeatureStatusSetterImpl unit tests
+// summary: Unit tests for CryptAuthFeatureStatusSetterImpl covering BatchSetFeatureStatuses requests for BetterTogether, Smart Lock and Instant Tethering feature status changes.
+// ---
+
 #include "chromeos/ash/services/device_sync/cryptauth_feature_status_setter_impl.h"
 
 #include <memory>

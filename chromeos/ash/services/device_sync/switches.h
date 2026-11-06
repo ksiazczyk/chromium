@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptAuth URL override switch declarations
+// summary: Declares the CryptAuth command-line switch constants for overriding Google API host URLs, documented alongside their definitions in the .cc file.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_DEVICE_SYNC_SWITCHES_H_
 #define CHROMEOS_ASH_SERVICES_DEVICE_SYNC_SWITCHES_H_
 

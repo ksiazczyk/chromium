@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptAuth feature status getter base implementation
+// summary: Implements the CryptAuthFeatureStatusGetter base class, enforcing single-use semantics and dispatching retrieved feature status results to a callback.
+// ---
+
 #include "chromeos/ash/services/device_sync/cryptauth_feature_status_getter.h"
 
 #include <utility>

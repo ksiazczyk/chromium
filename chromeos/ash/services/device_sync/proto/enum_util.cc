@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptAuth enum conversion utilities
+// summary: Implements string-to-enum, enum-to-string and stream output conversions for CryptAuth DeviceType and SoftwareFeature enums.
+// ---
+
 #include "chromeos/ash/services/device_sync/proto/enum_util.h"
 
 namespace ash {

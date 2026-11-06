@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CryptAuthGCMManagerImpl unit tests
+// summary: Tests CryptAuthGCMManagerImpl using mock GCM driver and instance ID objects, covering registration IDs and incoming CryptAuth messages.
+// ---
+
 #include "chromeos/ash/services/device_sync/cryptauth_gcm_manager_impl.h"
 
 #include "base/strings/string_number_conversions.h"

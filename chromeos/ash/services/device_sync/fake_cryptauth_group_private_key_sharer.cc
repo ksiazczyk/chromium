@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake CryptAuthGroupPrivateKeySharer implementation
+// summary: Implements a fake CryptAuthGroupPrivateKeySharer that stores attempt inputs and finishes attempts, with a factory creating fake instances for tests.
+// ---
+
 #include "chromeos/ash/services/device_sync/fake_cryptauth_group_private_key_sharer.h"
 
 #include "chromeos/ash/services/device_sync/cryptauth_key.h"

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for device_sync
+summary: Points to the multidevice OWNERS file and assigns IPC security owners to type converter files.

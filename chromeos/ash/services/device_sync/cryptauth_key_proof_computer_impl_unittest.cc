@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CryptAuthKeyProofComputerImpl unit tests
+// summary: Unit tests for CryptAuthKeyProofComputerImpl using RFC 6979 P-256 test keys and RFC 5869 HKDF test vectors to verify key proof computation.
+// ---
+
 #include "chromeos/ash/services/device_sync/cryptauth_key_proof_computer_impl.h"
 
 #include <array>

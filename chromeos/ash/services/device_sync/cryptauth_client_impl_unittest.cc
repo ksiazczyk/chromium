@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CryptAuthClientImpl unit tests
+// summary: Unit tests for CryptAuthClientImpl using a mock API call flow and identity test environment to verify CryptAuth v1 and v2 request handling.
+// ---
+
 #include "chromeos/ash/services/device_sync/cryptauth_client_impl.h"
 
 #include <memory>

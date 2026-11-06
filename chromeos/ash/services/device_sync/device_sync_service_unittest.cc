@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DeviceSync service unit tests
+// summary: Service-level unit tests for DeviceSyncImpl using fake CryptAuth components, a test identity environment, fake GCM driver and test remote devices.
+// ---
+
 #include <memory>
 #include <optional>
 #include <string>

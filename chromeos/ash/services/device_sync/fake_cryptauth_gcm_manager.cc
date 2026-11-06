@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake CryptAuthGCMManager implementation
+// summary: Implements a test fake for CryptAuthGCMManager that simulates GCM registration and delivers re-enroll and re-sync push messages to observers.
+// ---
+
 #include "chromeos/ash/services/device_sync/fake_cryptauth_gcm_manager.h"
 
 namespace ash {

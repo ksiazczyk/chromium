@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Japanese dictionary conversion header
+// summary: Declares functions that convert Japanese dictionary entries between the proto and mojom representations used by the ChromeOS IME service.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_IME_USER_DATA_JAPANESE_DICTIONARY_H_
 #define CHROMEOS_ASH_SERVICES_IME_USER_DATA_JAPANESE_DICTIONARY_H_
 

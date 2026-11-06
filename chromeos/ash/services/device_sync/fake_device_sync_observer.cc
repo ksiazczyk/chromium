@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake DeviceSyncObserver implementation
+// summary: Implements a fake DeviceSyncObserver Mojo test double that counts enrollment-finished and new-devices-synced events.
+// ---
+
 #include "chromeos/ash/services/device_sync/fake_device_sync_observer.h"
 
 namespace ash {

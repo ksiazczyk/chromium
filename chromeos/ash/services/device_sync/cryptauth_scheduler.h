@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptAuth Enrollment and DeviceSync scheduler interface
+// summary: Interface that schedules CryptAuth Enrollment and DeviceSync requests and notifies delegates when attempts are due.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_DEVICE_SYNC_CRYPTAUTH_SCHEDULER_H_
 #define CHROMEOS_ASH_SERVICES_DEVICE_SYNC_CRYPTAUTH_SCHEDULER_H_
 

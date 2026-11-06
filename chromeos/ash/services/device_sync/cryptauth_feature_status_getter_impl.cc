@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptAuth feature status getter implementation
+// summary: Implements CryptAuthFeatureStatusGetterImpl, which uses CryptAuthClient to make BatchGetFeatureStatuses API calls with timeout handling and metrics logging.
+// ---
+
 #include "chromeos/ash/services/device_sync/cryptauth_feature_status_getter_impl.h"
 
 #include <array>

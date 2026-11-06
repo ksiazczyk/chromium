@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptAuthKeyCreatorImpl implementation
+// summary: Implements CryptAuthKeyCreator, generating the client ephemeral Diffie-Hellman key pair and deriving symmetric keys with HKDF for CryptAuth v2 Enrollment.
+// ---
+
 #include "chromeos/ash/services/device_sync/cryptauth_key_creator_impl.h"
 
 #include "base/functional/bind.h"

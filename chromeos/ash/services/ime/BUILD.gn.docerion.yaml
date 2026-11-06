@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the ChromeOS IME service
+summary: GN build file defining the ChromeOS Ash IME service targets, including constants, shared library wrapper, service library, sandbox hook, unit tests, and test support.

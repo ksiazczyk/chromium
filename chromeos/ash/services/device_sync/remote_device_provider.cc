@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RemoteDeviceProvider base class implementation
+// summary: Implements observer add, remove and device-list-changed notification helpers for the RemoteDeviceProvider base class.
+// ---
+
 #include "chromeos/ash/services/device_sync/remote_device_provider.h"
 
 namespace ash {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake RemoteDeviceV2Loader header
+// summary: Declares FakeRemoteDeviceV2Loader and FakeRemoteDeviceV2LoaderFactory test doubles that capture Load() inputs and created instances.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_DEVICE_SYNC_FAKE_REMOTE_DEVICE_V2_LOADER_H_
 #define CHROMEOS_ASH_SERVICES_DEVICE_SYNC_FAKE_REMOTE_DEVICE_V2_LOADER_H_
 

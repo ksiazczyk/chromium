@@ -1,3 +1,9 @@
+---
+type: readme
+title: ChromeOS IME Mojo service overview
+summary: Explains the ChromeOS IME Mojo service, its three-part architecture, shared library support for advanced IME features, and links to the design document.
+---
+
 An IME Mojo service provides core IME functionality.
 
 IME on ChromeOS consists of three parts:

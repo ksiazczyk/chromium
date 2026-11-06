@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptAuth v2 common proto definitions
+// summary: Defines shared messages and enums such as key types, certificates, policy references, and client metadata for CryptAuth v2 protocols.
+// ---
+
 // Contains messages and data types used by request, response, and directive
 // messages in the CryptAuth v2 Enrollment protocol.
 syntax = "proto3";

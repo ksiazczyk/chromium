@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptAuthV2EnrollerImpl header
+// summary: Declares CryptAuthV2EnrollerImpl, a CryptAuthV2Enroller implementation that uses CryptAuthClient instances for enrollment API calls.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_DEVICE_SYNC_CRYPTAUTH_V2_ENROLLER_IMPL_H_
 #define CHROMEOS_ASH_SERVICES_DEVICE_SYNC_CRYPTAUTH_V2_ENROLLER_IMPL_H_
 

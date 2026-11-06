@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptAuthDeviceActivityGetterImpl implementation
+// summary: Implements CryptAuthDeviceActivityGetter by making GetDevicesActivityStatus API calls via CryptAuthClient, with state timeouts and execution time metrics logging.
+// ---
+
 #include "chromeos/ash/services/device_sync/cryptauth_device_activity_getter_impl.h"
 
 #include <array>

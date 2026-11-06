@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptAuth device registry implementation header
+// summary: Declares CryptAuthDeviceRegistryImpl, which keeps the Instance ID to CryptAuthDevice map persisted across process restarts via preferences.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_DEVICE_SYNC_CRYPTAUTH_DEVICE_REGISTRY_IMPL_H_
 #define CHROMEOS_ASH_SERVICES_DEVICE_SYNC_CRYPTAUTH_DEVICE_REGISTRY_IMPL_H_
 

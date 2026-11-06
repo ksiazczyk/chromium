@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptAuthMetadataSyncer
+// summary: Declares CryptAuthMetadataSyncer, which handles the SyncMetadata portion of the CryptAuth v2 DeviceSync protocol, including group key exchange with CryptAuth servers.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_DEVICE_SYNC_CRYPTAUTH_METADATA_SYNCER_H_
 #define CHROMEOS_ASH_SERVICES_DEVICE_SYNC_CRYPTAUTH_METADATA_SYNCER_H_
 

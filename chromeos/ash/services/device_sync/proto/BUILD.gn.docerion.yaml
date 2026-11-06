@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for DeviceSync proto and util targets
+summary: GN build file defining the proto, util, and test_support targets for the DeviceSync proto directory.

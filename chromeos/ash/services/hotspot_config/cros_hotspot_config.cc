@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrosHotspotConfig implementation
+// summary: Implements the CrosHotspotConfig mojo service, delegating enable, disable, config, and info operations to the network subsystem handlers and notifying observers.
+// ---
+
 #include "chromeos/ash/services/hotspot_config/cros_hotspot_config.h"
 
 #include "chromeos/ash/components/network/hotspot_controller.h"

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the ime directory
+summary: Delegates code ownership to the input method component owners and assigns sandbox owners to the sandbox hook files.

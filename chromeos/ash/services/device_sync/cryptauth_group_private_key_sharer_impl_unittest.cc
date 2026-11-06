@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CryptAuthGroupPrivateKeySharerImpl unit tests
+// summary: Unit tests for the group private key sharer using mock CryptAuth clients, a fake ECIES encryptor and mock timers to verify the share flow.
+// ---
+
 #include "chromeos/ash/services/device_sync/cryptauth_group_private_key_sharer_impl.h"
 
 #include <memory>

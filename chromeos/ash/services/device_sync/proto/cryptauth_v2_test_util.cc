@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CryptAuth v2 test utility implementation
+// summary: Builds sample CryptAuth v2 proto messages and defines test constants used by device sync unit tests.
+// ---
+
 #include "chromeos/ash/services/device_sync/proto/cryptauth_v2_test_util.h"
 
 #include "base/no_destructor.h"

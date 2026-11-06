@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemEngine class declaration
+// summary: Declares SystemEngine, an enhanced input engine that wraps the MojoMode C API entry points of the built-in CrOS first-party IME shared library for handling key events.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_IME_DECODER_SYSTEM_ENGINE_H_
 #define CHROMEOS_ASH_SERVICES_IME_DECODER_SYSTEM_ENGINE_H_
 

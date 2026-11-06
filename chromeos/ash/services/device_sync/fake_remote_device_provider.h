@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake RemoteDeviceProvider header
+// summary: Declares FakeRemoteDeviceProvider, a test double for RemoteDeviceProvider with a settable synced remote device list.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_DEVICE_SYNC_FAKE_REMOTE_DEVICE_PROVIDER_H_
 #define CHROMEOS_ASH_SERVICES_DEVICE_SYNC_FAKE_REMOTE_DEVICE_PROVIDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CryptAuthV2DeviceManagerImpl unit tests
+// summary: Unit tests for the CryptAuth v2 device manager, using fake schedulers, registries, and syncers to verify device sync result handling.
+// ---
+
 #include "chromeos/ash/services/device_sync/cryptauth_v2_device_manager_impl.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeDeviceSync implementation
+// summary: Implements the FakeDeviceSync test double that queues mojom callbacks so tests can invoke pending DeviceSync responses manually.
+// ---
+
 #include "chromeos/ash/services/device_sync/fake_device_sync.h"
 
 #include <optional>

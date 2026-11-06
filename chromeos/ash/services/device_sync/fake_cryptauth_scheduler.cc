@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake CryptAuthScheduler implementation
+// summary: Implements the fake CryptAuthScheduler that records enrollment and device sync requests and results, and reports configurable scheduling state for tests.
+// ---
+
 #include "chromeos/ash/services/device_sync/fake_cryptauth_scheduler.h"
 
 #include "base/check.h"

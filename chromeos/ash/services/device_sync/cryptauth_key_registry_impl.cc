@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptAuthKeyRegistryImpl implementation
+// summary: Implements CryptAuthKeyRegistry, persisting CryptAuth key bundles in a preference and loading the persisted bundles into memory on construction.
+// ---
+
 #include "chromeos/ash/services/device_sync/cryptauth_key_registry_impl.h"
 
 #include "base/memory/ptr_util.h"

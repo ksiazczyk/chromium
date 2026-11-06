@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stub DeviceSync factory declaration
+// summary: Declares SetStubDeviceSyncFactory, which initializes a stub DeviceSync and installs its factory as the DeviceSyncImpl custom factory.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_DEVICE_SYNC_STUB_DEVICE_SYNC_H_
 #define CHROMEOS_ASH_SERVICES_DEVICE_SYNC_STUB_DEVICE_SYNC_H_
 

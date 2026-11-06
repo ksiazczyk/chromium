@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptAuthKeyBundle implementation
+// summary: Implements CryptAuthKeyBundle, including name-to-string conversions, dictionary deserialization and validation of active keys and duplicate handles.
+// ---
+
 #include "chromeos/ash/services/device_sync/cryptauth_key_bundle.h"
 
 #include <algorithm>

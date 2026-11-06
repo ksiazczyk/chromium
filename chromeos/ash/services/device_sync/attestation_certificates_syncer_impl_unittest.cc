@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Attestation certificates syncer unit tests
+// summary: Tests certificate updates, last-sync timestamp handling, and sync scheduling behavior near certificate expiry using fake dependencies.
+// ---
+
 #include "chromeos/ash/services/device_sync/attestation_certificates_syncer_impl.h"
 
 #include "ash/constants/ash_features.h"

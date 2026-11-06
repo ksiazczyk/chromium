@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImeService Mojo service implementation
+// summary: Implements the ImeService Mojo service, binding input engines and the user data service, and routing client connections to the decoder engine.
+// ---
+
 #include "chromeos/ash/services/ime/ime_service.h"
 
 #include <memory>

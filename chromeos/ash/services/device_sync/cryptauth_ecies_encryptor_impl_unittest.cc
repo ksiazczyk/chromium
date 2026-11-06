@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CryptAuthEciesEncryptorImpl unit tests
+// summary: Unit tests verifying encryption and decryption of the SecureMessage-based ECIES encryptor, including batch operations.
+// ---
+
 #include "chromeos/ash/services/device_sync/cryptauth_ecies_encryptor_impl.h"
 
 #include <optional>

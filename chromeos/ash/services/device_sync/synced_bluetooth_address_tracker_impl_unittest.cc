@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the synced Bluetooth address tracker
+// summary: Unit tests covering Bluetooth address retrieval, pref storage, feature flag handling, and sync scheduling behavior of SyncedBluetoothAddressTrackerImpl.
+// ---
+
 #include "chromeos/ash/services/device_sync/synced_bluetooth_address_tracker_impl.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptAuthDeviceNotifier interface
+// summary: Declares CryptAuthDeviceNotifier, which sends GCM messages to devices in the BetterTogether group via the CryptAuth v2 BatchNotifyGroupDevices protocol step.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_DEVICE_SYNC_CRYPTAUTH_DEVICE_NOTIFIER_H_
 #define CHROMEOS_ASH_SERVICES_DEVICE_SYNC_CRYPTAUTH_DEVICE_NOTIFIER_H_
 

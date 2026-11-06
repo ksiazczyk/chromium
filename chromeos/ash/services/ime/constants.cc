@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IME directory path constants implementation
+// summary: Defines file path constants for bundled and user input method directories, with Google-branded paths and non-branded placeholder fallbacks.
+// ---
+
 #include "chromeos/ash/services/ime/constants.h"
 
 #include <string.h>

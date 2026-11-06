@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IME shared library wrapper implementation
+// summary: Loads the CrOS IME decoder shared library, resolves its C API entry points, and bridges library logging to Chrome.
+// ---
+
 #include "chromeos/ash/services/ime/ime_shared_library_wrapper.h"
 
 #include "base/files/file_path.h"

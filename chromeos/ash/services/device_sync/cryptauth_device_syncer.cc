@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptAuth device syncer base class
+// summary: Implements the CryptAuthDeviceSyncer base class, enforcing a single Sync() call per object and invoking the finished callback.
+// ---
+
 #include "chromeos/ash/services/device_sync/cryptauth_device_syncer.h"
 
 #include <utility>

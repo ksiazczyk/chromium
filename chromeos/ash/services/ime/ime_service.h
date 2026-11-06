@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImeService class header
+// summary: Declares the ImeService class, which implements the Chrome OS IME service Mojo interfaces, input engine management, and platform access hooks.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_IME_IME_SERVICE_H_
 #define CHROMEOS_ASH_SERVICES_IME_IME_SERVICE_H_
 

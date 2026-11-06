@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeDeviceSync header
+// summary: Declares FakeDeviceSync, a test double DeviceSync implementation that queues callbacks and reports configurable success for forced enrollment and sync.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_DEVICE_SYNC_FAKE_DEVICE_SYNC_H_
 #define CHROMEOS_ASH_SERVICES_DEVICE_SYNC_FAKE_DEVICE_SYNC_H_
 

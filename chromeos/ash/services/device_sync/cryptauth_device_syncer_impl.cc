@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptAuth device syncer implementation
+// summary: Implements the CryptAuth v2 DeviceSync flow using CryptAuthClient API calls, with internal timeouts and async execution time metrics.
+// ---
+
 #include "chromeos/ash/services/device_sync/cryptauth_device_syncer_impl.h"
 
 #include <utility>

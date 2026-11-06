@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CryptAuth scheduler unit tests
+// summary: Unit tests for CryptAuthSchedulerImpl covering persisted scheduling state, retries, and network connectivity changes.
+// ---
+
 #include "chromeos/ash/services/device_sync/cryptauth_scheduler_impl.h"
 
 #include <memory>

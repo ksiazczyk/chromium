@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptAuthClientImpl implementation
+// summary: Implements CryptAuthClient, building CryptAuth v1 and v2 endpoint URLs, fetching access tokens, and dispatching requests via CryptAuthApiCallFlow.
+// ---
+
 #include "chromeos/ash/services/device_sync/cryptauth_client_impl.h"
 
 #include <memory>

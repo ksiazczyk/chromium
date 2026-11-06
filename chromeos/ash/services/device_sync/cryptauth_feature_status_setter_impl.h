@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptAuth feature status setter implementation header
+// summary: Declares CryptAuthFeatureStatusSetterImpl, a queued, timeout-handling implementation of CryptAuthFeatureStatusSetter built on CryptAuthClient.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_DEVICE_SYNC_CRYPTAUTH_FEATURE_STATUS_SETTER_IMPL_H_
 #define CHROMEOS_ASH_SERVICES_DEVICE_SYNC_CRYPTAUTH_FEATURE_STATUS_SETTER_IMPL_H_
 

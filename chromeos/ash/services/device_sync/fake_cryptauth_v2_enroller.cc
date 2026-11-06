@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake CryptAuthV2Enroller implementation
+// summary: Implements the fake CryptAuthV2Enroller test double that records enrollment attempt inputs and finishes attempts with a chosen result.
+// ---
+
 #include "chromeos/ash/services/device_sync/fake_cryptauth_v2_enroller.h"
 
 #include "chromeos/ash/components/multidevice/logging/logging.h"

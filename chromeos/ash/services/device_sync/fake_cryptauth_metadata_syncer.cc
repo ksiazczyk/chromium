@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake CryptAuthMetadataSyncer implementation
+// summary: Implements the fake CryptAuthMetadataSyncer test double that records sync attempt inputs and lets tests finish attempts with chosen results.
+// ---
+
 #include "chromeos/ash/services/device_sync/fake_cryptauth_metadata_syncer.h"
 
 namespace ash {

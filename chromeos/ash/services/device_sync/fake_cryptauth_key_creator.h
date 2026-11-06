@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake CryptAuthKeyCreator header
+// summary: Declares a CryptAuthKeyCreator test fake that stores the keys to create, the server ephemeral DH key and the callback, plus a fake factory.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_DEVICE_SYNC_FAKE_CRYPTAUTH_KEY_CREATOR_H_
 #define CHROMEOS_ASH_SERVICES_DEVICE_SYNC_FAKE_CRYPTAUTH_KEY_CREATOR_H_
 

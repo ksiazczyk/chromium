@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptAuth feature status getter interface
+// summary: Declares CryptAuthFeatureStatusGetter, the base class handling the BatchGetFeatureStatuses portion of the CryptAuth v2 DeviceSync protocol.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_DEVICE_SYNC_CRYPTAUTH_FEATURE_STATUS_GETTER_H_
 #define CHROMEOS_ASH_SERVICES_DEVICE_SYNC_CRYPTAUTH_FEATURE_STATUS_GETTER_H_
 

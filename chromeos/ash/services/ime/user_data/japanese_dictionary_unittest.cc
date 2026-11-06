@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Japanese dictionary conversion unit tests
+// summary: Unit tests verifying that Japanese dictionary entries and part-of-speech types convert correctly between proto and mojom representations.
+// ---
+
 #include "chromeos/ash/services/ime/user_data/japanese_dictionary.h"
 
 #include "chromeos/ash/services/ime/public/cpp/shared_lib/proto/japanese_dictionary.pb.h"

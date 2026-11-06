@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptAuthV2DeviceManager implementation
+// summary: Implements the v2 device manager, coordinating scheduler, GCM, and forced DeviceSync requests and recording result metrics.
+// ---
+
 #include "chromeos/ash/services/device_sync/cryptauth_v2_device_manager_impl.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptAuthKeyCreator interface for CryptAuth v2 key creation
+// summary: Declares the CryptAuthKeyCreator interface that creates symmetric and asymmetric keys for CryptAuth v2 Enrollment, deriving symmetric keys via a Diffie-Hellman handshake with the CryptAuth server.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_DEVICE_SYNC_CRYPTAUTH_KEY_CREATOR_H_
 #define CHROMEOS_ASH_SERVICES_DEVICE_SYNC_CRYPTAUTH_KEY_CREATOR_H_
 

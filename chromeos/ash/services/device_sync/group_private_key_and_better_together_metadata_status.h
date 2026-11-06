@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Group private key and Better Together metadata status enums
+// summary: Declares status enums for group private key decryption and Better Together metadata processing, shared with the DeviceSync mojom interface.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_DEVICE_SYNC_GROUP_PRIVATE_KEY_AND_BETTER_TOGETHER_METADATA_STATUS_H_
 #define CHROMEOS_ASH_SERVICES_DEVICE_SYNC_GROUP_PRIVATE_KEY_AND_BETTER_TOGETHER_METADATA_STATUS_H_
 

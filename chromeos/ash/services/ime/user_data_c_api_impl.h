@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User data C API implementation header
+// summary: Declares UserDataCApiImpl, which implements UserDataCApiInterface by forwarding user data requests to the IME shared library entry points.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_IME_USER_DATA_C_API_IMPL_H_
 #define CHROMEOS_ASH_SERVICES_IME_USER_DATA_C_API_IMPL_H_
 

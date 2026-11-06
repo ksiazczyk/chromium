@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptAuthKeyRegistry class header
+// summary: Declares CryptAuthKeyRegistry, which stores CryptAuth v2 key bundles and provides virtual methods to query and modify keys and key directives.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_DEVICE_SYNC_CRYPTAUTH_KEY_REGISTRY_H_
 #define CHROMEOS_ASH_SERVICES_DEVICE_SYNC_CRYPTAUTH_KEY_REGISTRY_H_
 

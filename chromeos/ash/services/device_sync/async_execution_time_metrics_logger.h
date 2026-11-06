@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Async execution time metrics logger header
+// summary: Declares LogAsyncExecutionTimeMetric and the maximum async execution time constant used for histogram buckets.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_DEVICE_SYNC_ASYNC_EXECUTION_TIME_METRICS_LOGGER_H_
 #define CHROMEOS_ASH_SERVICES_DEVICE_SYNC_ASYNC_EXECUTION_TIME_METRICS_LOGGER_H_
 

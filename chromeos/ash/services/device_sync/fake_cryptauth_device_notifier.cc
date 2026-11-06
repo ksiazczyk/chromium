@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake CryptAuthDeviceNotifier implementation
+// summary: Implements a fake CryptAuthDeviceNotifier and factory that record NotifyDevices requests and creation arguments for use in tests.
+// ---
+
 #include <utility>
 
 #include "chromeos/ash/services/device_sync/fake_cryptauth_device_notifier.h"

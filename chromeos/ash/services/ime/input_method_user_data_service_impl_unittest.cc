@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Input method user data service unit tests
+// summary: Unit tests for the user data service that use a mocked C API to verify Japanese dictionary fetch, add, edit, and delete flows.
+// ---
+
 #include "chromeos/ash/services/ime/input_method_user_data_service_impl.h"
 
 #include <string>

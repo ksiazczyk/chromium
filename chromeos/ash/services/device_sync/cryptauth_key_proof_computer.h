@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptAuthKeyProofComputer interface
+// summary: Declares the CryptAuthKeyProofComputer interface that computes key proofs via HMAC-SHA256 for symmetric keys and ECDSA signatures for asymmetric keys.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_DEVICE_SYNC_CRYPTAUTH_KEY_PROOF_COMPUTER_H_
 #define CHROMEOS_ASH_SERVICES_DEVICE_SYNC_CRYPTAUTH_KEY_PROOF_COMPUTER_H_
 

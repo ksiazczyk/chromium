@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceSyncBase class declaration
+// summary: Declares the base DeviceSync Mojo implementation with receiver and observer management and a Shutdown hook for derived classes.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_DEVICE_SYNC_DEVICE_SYNC_BASE_H_
 #define CHROMEOS_ASH_SERVICES_DEVICE_SYNC_DEVICE_SYNC_BASE_H_
 

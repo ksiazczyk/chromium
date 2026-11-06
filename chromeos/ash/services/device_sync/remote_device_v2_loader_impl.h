@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RemoteDeviceV2LoaderImpl class header
+// summary: Declares the concrete loader that converts CryptAuthDevices to RemoteDevices, deriving a PSK when a device public key is available and leaving fields empty otherwise.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_DEVICE_SYNC_REMOTE_DEVICE_V2_LOADER_IMPL_H_
 #define CHROMEOS_ASH_SERVICES_DEVICE_SYNC_REMOTE_DEVICE_V2_LOADER_IMPL_H_
 

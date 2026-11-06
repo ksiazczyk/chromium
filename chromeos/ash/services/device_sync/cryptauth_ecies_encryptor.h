@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptAuthEciesEncryptor interface
+// summary: Declares the CryptAuthEciesEncryptor interface for encrypting and decrypting payloads with ECIES, singly or in batches.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_DEVICE_SYNC_CRYPTAUTH_ECIES_ENCRYPTOR_H_
 #define CHROMEOS_ASH_SERVICES_DEVICE_SYNC_CRYPTAUTH_ECIES_ENCRYPTOR_H_
 

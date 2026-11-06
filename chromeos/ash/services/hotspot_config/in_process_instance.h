@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-process hotspot config instance header
+// summary: Declares BindToInProcessInstance and OverrideInProcessInstanceForTesting for binding the hotspot config service within the browser process.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_HOTSPOT_CONFIG_IN_PROCESS_INSTANCE_H_
 #define CHROMEOS_ASH_SERVICES_HOTSPOT_CONFIG_IN_PROCESS_INSTANCE_H_
 
