@@ -1,0 +1,4 @@
+# Docerion header of before-after-block-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for before-after-block
+summary: Expected Blink accessibility tree dump verifying that block-display ::before pseudo-element content appears in the tree.

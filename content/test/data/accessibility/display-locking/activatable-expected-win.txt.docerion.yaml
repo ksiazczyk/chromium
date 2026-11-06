@@ -1,0 +1,4 @@
+# Docerion header of activatable-expected-win.txt.
+type: test
+title: Activatable expected accessibility tree for Windows
+summary: Expected Windows accessibility tree dump for the activatable display-locking test page using MSAA and IAccessible2 roles.

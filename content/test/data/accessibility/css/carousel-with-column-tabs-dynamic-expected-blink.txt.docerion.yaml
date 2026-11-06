@@ -1,0 +1,4 @@
+# Docerion header of carousel-with-column-tabs-dynamic-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for dynamic carousel column tabs test
+summary: Expected Blink accessibility tree snapshot after a carousel with column scroll-marker tabs is scrolled to a later position.

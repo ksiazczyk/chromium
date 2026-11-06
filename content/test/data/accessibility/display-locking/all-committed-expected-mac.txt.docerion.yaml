@@ -1,0 +1,4 @@
+# Docerion header of all-committed-expected-mac.txt.
+type: test
+title: All-committed expected accessibility tree for macOS
+summary: Expected macOS accessibility tree dump for the all-committed display-locking test covering locked and normal text nodes.

@@ -1,0 +1,4 @@
+# Docerion header of language-expected-auralinux.txt.
+type: test
+title: Expected accessibility tree for language test on Linux
+summary: Expected Linux accessibility tree snapshot for the CSS language test, listing language attributes exposed for Spanish and French text.

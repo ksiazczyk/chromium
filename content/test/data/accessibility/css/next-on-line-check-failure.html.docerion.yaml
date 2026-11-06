@@ -1,0 +1,4 @@
+# Docerion header of next-on-line-check-failure.html.
+type: test
+title: Next on line check failure accessibility test page
+summary: Accessibility test page that appends a ul with a counter-based ::before and 65536 columns on load to trigger a next-on-line check failure.

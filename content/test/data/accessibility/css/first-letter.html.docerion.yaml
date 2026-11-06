@@ -1,0 +1,4 @@
+# Docerion header of first-letter.html.
+type: test
+title: First-letter CSS test page
+summary: HTML test page styling first letters of headings and a paragraph, including a before pseudo-element, for accessibility tree verification.

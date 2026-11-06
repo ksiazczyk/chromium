@@ -1,0 +1,4 @@
+# Docerion header of pseudo-element-picker-icon-override-content-alternative-text.html.
+type: test
+title: Picker icon override content alternative text test page
+summary: HTML test page overriding the select picker icon content with alternative text for accessibility tree verification.

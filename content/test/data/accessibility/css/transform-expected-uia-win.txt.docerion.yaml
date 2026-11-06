@@ -1,0 +1,4 @@
+# Docerion header of transform-expected-uia-win.txt.
+type: test
+title: Transform accessibility test expectation for UIA on Windows
+summary: Expected UIA accessibility tree snapshot for the CSS transform test, with bounding rectangles of groups and text after the transform is applied.

@@ -1,0 +1,4 @@
+# Docerion header of language-expected-mac.txt.
+type: test
+title: Expected macOS accessibility output for language test
+summary: Expected macOS AX API output for the language test, showing AXLanguage values for Spanish and French content.

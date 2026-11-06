@@ -1,0 +1,4 @@
+# Docerion header of all-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for the all test
+summary: Expected Windows accessibility tree for the all display-locking test, using document, section and static text roles.

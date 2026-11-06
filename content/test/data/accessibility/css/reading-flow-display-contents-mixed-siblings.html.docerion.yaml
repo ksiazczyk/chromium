@@ -1,0 +1,4 @@
+# Docerion header of reading-flow-display-contents-mixed-siblings.html.
+type: test
+title: Reading flow display contents mixed siblings test page
+summary: 'HTML test page verifying that buttons inside display: contents elements follow flex reading-flow order defined by the CSS order property.'

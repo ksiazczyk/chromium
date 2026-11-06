@@ -1,0 +1,4 @@
+# Docerion header of before-after-code-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for before-after-code test
+summary: Expected Android assist-data output for the before-after-code test, capturing text sizes, styles and generated before and after content in the accessibility tree.

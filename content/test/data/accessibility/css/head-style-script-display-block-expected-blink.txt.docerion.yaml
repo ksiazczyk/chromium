@@ -1,0 +1,4 @@
+# Docerion header of head-style-script-display-block-expected-blink.txt.
+type: test
+title: Head style script display block expected Blink output
+summary: Expected Blink accessibility tree output for the display block test, showing style and script contents exposed as static text inside generic containers.

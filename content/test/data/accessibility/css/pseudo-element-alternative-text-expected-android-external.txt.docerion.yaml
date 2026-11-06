@@ -1,0 +1,4 @@
+# Docerion header of pseudo-element-alternative-text-expected-android-external.txt.
+type: test
+title: Pseudo-element alternative text expected Android external tree
+summary: Expected Android external-format accessibility tree for the pseudo-element alternative text test page, showing an image with content description 'alternative text' plus static text nodes.

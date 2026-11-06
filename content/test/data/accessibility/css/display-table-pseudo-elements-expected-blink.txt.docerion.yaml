@@ -1,0 +1,4 @@
+# Docerion header of display-table-pseudo-elements-expected-blink.txt.
+type: test
+title: Expected accessibility tree for display table pseudo-elements
+summary: Expected Blink accessibility tree output for headings styled with table-display pseudo-elements.

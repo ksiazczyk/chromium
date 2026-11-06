@@ -1,0 +1,4 @@
+# Docerion header of visibility-expected-blink.txt.
+type: test
+title: Visibility accessibility test expectation for Blink
+summary: Expected Blink accessibility tree snapshot for the visibility test, listing static text and inline text boxes for the visible links.

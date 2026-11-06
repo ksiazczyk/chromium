@@ -1,0 +1,4 @@
+# Docerion header of display-list-item.html.
+type: test
+title: Display list item test page
+summary: 'HTML test page with display: list-item elements inside and outside a list role to check list marker accessibility.'

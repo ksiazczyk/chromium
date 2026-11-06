@@ -1,0 +1,4 @@
+# Docerion header of dom-element-css-alternative-text-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for CSS alternative text test
+summary: Expected Android accessibility tree listing an image with content_description alternative text for the CSS content alternative text test.

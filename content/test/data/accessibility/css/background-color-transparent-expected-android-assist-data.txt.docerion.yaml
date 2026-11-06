@@ -1,0 +1,4 @@
+# Docerion header of background-color-transparent-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for background-color-transparent
+summary: Expected Android assist data snapshot for the background-color-transparent test, listing view text, sizes and background colors.

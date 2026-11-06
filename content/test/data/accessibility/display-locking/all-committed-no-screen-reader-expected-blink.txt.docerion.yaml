@@ -1,0 +1,4 @@
+# Docerion header of all-committed-no-screen-reader-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for all-committed without screen reader
+summary: Expected Blink accessibility tree snapshot for the all-committed display-locking test run without a screen reader, showing offscreen nodes inside committed locked elements.

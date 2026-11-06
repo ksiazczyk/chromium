@@ -1,0 +1,4 @@
+# Docerion header of pseudo-element-check-mark-expected-auralinux.txt.
+type: test
+title: Pseudo-element check mark expected AuraLinux tree
+summary: Expected AuraLinux accessibility tree for the pseudo-element check mark test page, showing a Pets combo box with Dog, Cat and Donkey menu items.

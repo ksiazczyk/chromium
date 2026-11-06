@@ -1,0 +1,4 @@
+# Docerion header of color-expected-win.txt.
+type: test
+title: Expected Windows accessibility output for CSS color test
+summary: Expected Windows IA2 accessibility output for the CSS color test, recording roles, offsets, colors and hypertext for the page nodes.

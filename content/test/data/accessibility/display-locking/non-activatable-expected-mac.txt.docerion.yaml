@@ -1,0 +1,4 @@
+# Docerion header of non-activatable-expected-mac.txt.
+type: test
+title: Non-activatable expected Mac accessibility tree
+summary: Expected macOS accessibility tree for the non-activatable display-locking test, listing an empty group under the web area.

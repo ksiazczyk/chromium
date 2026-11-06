@@ -1,0 +1,4 @@
+# Docerion header of font-size-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for the font-size test
+summary: Expected Android accessibility assist-data output for the font-size test page, listing text sizes for each paragraph with px and pt font sizes.

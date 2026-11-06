@@ -1,0 +1,4 @@
+# Docerion header of reading-flow-shadow-dom-slot-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for reading flow shadow DOM slot test
+summary: Expected Blink accessibility tree output for the reading flow shadow DOM slot test, showing buttons reordered by CSS order in slot order.

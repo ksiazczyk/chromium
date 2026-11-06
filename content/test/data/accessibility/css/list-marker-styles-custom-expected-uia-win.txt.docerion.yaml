@@ -1,0 +1,4 @@
+# Docerion header of list-marker-styles-custom-expected-uia-win.txt.
+type: test
+title: List marker styles custom expected UIA Win accessibility tree
+summary: Expected UI Automation tree on Windows for the custom list marker styles test, listing list items with marker and label text names.

@@ -1,0 +1,4 @@
+# Docerion header of visibility-expected-mac.txt.
+type: test
+title: Visibility accessibility test expectation for macOS
+summary: Expected macOS accessibility tree snapshot for the visibility test, listing static text nodes for the visible links.

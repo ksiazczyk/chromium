@@ -1,0 +1,4 @@
+# Docerion header of dom-element-css-alternative-text-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for CSS alternative text test
+summary: Expected Android assist-data accessibility snapshot showing a span exposed as an image with alternative text for the CSS content alternative text test.

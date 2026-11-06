@@ -1,0 +1,4 @@
+# Docerion header of reading-flow-pseudo-elements-expected-blink.txt.
+type: test
+title: Reading flow pseudo-elements expected Blink output
+summary: Expected Blink accessibility tree for the reading flow test with ::before and ::after pseudo-elements participating in the order.

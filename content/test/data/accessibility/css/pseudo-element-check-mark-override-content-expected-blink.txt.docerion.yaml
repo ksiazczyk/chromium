@@ -1,0 +1,4 @@
+# Docerion header of pseudo-element-check-mark-override-content-expected-blink.txt.
+type: test
+title: Expected a11y tree for pseudo-element check-mark override content in Blink
+summary: Expected Blink accessibility tree output for a select whose option check-mark pseudo-element content is overridden.

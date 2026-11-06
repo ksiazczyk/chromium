@@ -1,0 +1,4 @@
+# Docerion header of alt-text.html.
+type: test
+title: CSS alt text accessibility test page
+summary: HTML test page exercising alternative text for CSS-generated content via the content property and pseudo-elements.

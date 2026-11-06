@@ -1,0 +1,4 @@
+# Docerion header of selectmenu.html.
+type: test
+title: Selectmenu content-visibility test page
+summary: Test page that sets content-visibility hidden on a selectmenu element after computing an accessible node.

@@ -1,0 +1,4 @@
+# Docerion header of anchor-positioning-without-details-expected-blink.txt.
+type: test
+title: Without details test expected accessibility tree for Blink
+summary: Expected Blink accessibility tree output for anchor positioning cases without aria-details relationships.

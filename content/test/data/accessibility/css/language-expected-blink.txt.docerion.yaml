@@ -1,0 +1,4 @@
+# Docerion header of language-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for language test
+summary: Expected Blink accessibility tree for the language test, showing language attributes on paragraphs and static text nodes.

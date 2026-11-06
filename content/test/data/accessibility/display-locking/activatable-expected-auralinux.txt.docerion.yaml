@@ -1,0 +1,4 @@
+# Docerion header of activatable-expected-auralinux.txt.
+type: test
+title: Activatable expected accessibility tree for Linux
+summary: Expected Linux accessibility tree dump for the activatable display-locking test page, listing sections, static text and a locked button.

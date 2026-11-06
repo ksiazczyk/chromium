@@ -1,0 +1,4 @@
+# Docerion header of before-after-code-expected-uia-win.txt.
+type: test
+title: Expected Windows UIA accessibility tree for before-after-code test
+summary: Expected Windows UIA accessibility tree for the before-after-code test, describing groups and text nodes for generated before and after content.

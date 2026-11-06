@@ -1,0 +1,4 @@
+# Docerion header of target-current-html-anchor-role-expected-blink.txt.
+type: test
+title: Expected Blink tree for target-current anchor role
+summary: Expected Blink accessibility tree output showing the aria-current state on the active anchor link within a scroll-target group.

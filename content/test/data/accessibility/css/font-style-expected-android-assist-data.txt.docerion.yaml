@@ -1,0 +1,4 @@
+# Docerion header of font-style-expected-android-assist-data.txt.
+type: test
+title: Font style expected Android assist data
+summary: Expected Android assist data accessibility tree output for the font-style CSS test, listing text views with style flags for bold, italic, underline and other formatting.

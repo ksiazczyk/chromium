@@ -1,0 +1,4 @@
+# Docerion header of reading-flow-out-of-flow-position-expected-blink.txt.
+type: test
+title: Reading flow out-of-flow position expected Blink output
+summary: Expected Blink accessibility tree for the reading flow test covering absolute and fixed position elements outside the flex re-order.

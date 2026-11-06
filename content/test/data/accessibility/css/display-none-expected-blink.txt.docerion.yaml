@@ -1,0 +1,4 @@
+# Docerion header of display-none-expected-blink.txt.
+type: test
+title: Expected accessibility tree for display:none test
+summary: Expected Blink accessibility tree snapshot for the display:none CSS accessibility test.

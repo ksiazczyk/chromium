@@ -1,0 +1,4 @@
+# Docerion header of pseudo-element-picker-icon-override-content-expected-blink.txt.
+type: test
+title: Expected a11y tree for picker icon override content in Blink
+summary: Expected Blink accessibility tree output for a select whose picker icon content is overridden.

@@ -1,0 +1,4 @@
+# Docerion header of target-current-html-anchor-role-dynamic-expected-blink.txt.
+type: test
+title: Expected Blink tree for dynamic target-current anchor role
+summary: Expected Blink accessibility tree output after scrolling changes which anchor link carries the aria-current state.

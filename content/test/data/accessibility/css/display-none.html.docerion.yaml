@@ -1,0 +1,4 @@
+# Docerion header of display-none.html.
+type: test
+title: Accessibility test page for display:none
+summary: HTML test page with a display:none container of links used to verify hidden elements are ignored in the accessibility tree.

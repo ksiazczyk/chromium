@@ -1,0 +1,4 @@
+# Docerion header of table-cell-bad-parent-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for table cell bad parent test
+summary: 'Expected Blink accessibility tree output for spans with display: table-cell whose parent is not a table, showing resulting generic containers and text.'

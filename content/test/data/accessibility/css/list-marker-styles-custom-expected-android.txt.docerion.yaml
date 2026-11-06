@@ -1,0 +1,4 @@
+# Docerion header of list-marker-styles-custom-expected-android.txt.
+type: test
+title: Expected Android accessibility output for list marker styles test
+summary: Expected Android accessibility tree for the custom list marker styles test, mapping list-style-type values to widget views and marker text.

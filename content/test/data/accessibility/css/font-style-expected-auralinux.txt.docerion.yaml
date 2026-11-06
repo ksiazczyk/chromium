@@ -1,0 +1,4 @@
+# Docerion header of font-style-expected-auralinux.txt.
+type: test
+title: Font style expected Aura Linux output
+summary: Expected Aura Linux accessibility tree output for the font-style test, recording weight, style, underline and text position attributes on static text objects.

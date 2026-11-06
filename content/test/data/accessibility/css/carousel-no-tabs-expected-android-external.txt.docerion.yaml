@@ -1,0 +1,4 @@
+# Docerion header of carousel-no-tabs-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility tree for carousel-no-tabs test
+summary: Expected Android external accessibility tree for the carousel-no-tabs test, listing carousel buttons and items without tab semantics.

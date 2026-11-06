@@ -1,0 +1,4 @@
+# Docerion header of language-expected-android.txt.
+type: test
+title: Expected Android tree for language test
+summary: Expected Android accessibility tree snapshot with a focused WebView and TextViews named Espanyol and Comment allez-vous.

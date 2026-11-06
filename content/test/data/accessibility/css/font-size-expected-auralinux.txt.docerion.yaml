@@ -1,0 +1,4 @@
+# Docerion header of font-size-expected-auralinux.txt.
+type: test
+title: Expected AuraLinux output for the font-size test
+summary: Expected Linux accessibility tree for the font-size test page, showing paragraph and static text sizes in points for each font-size value.

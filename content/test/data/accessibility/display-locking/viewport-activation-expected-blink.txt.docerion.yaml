@@ -1,0 +1,4 @@
+# Docerion header of viewport-activation-expected-blink.txt.
+type: test
+title: Viewport activation expected Blink accessibility tree
+summary: Expected Blink accessibility tree for the viewport-activation test, distinguishing offscreen and laid-out static text.

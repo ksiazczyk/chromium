@@ -1,0 +1,4 @@
+# Docerion header of non-activatable-no-screen-reader-expected-blink.txt.
+type: test
+title: Non-activatable expected Blink tree without screen reader
+summary: Expected Blink accessibility tree for the non-activatable test without a screen reader, showing ignored generic containers.

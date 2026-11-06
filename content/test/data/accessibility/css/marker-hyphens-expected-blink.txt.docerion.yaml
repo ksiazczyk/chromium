@@ -1,0 +1,4 @@
+# Docerion header of marker-hyphens-expected-blink.txt.
+type: test
+title: Marker hyphens expected Blink accessibility tree
+summary: Expected Blink accessibility tree for the marker hyphens test, checking soft hyphen handling in list marker names.

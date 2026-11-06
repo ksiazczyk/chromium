@@ -1,0 +1,4 @@
+# Docerion header of carousel-no-tabs-expected-android-assist-data.txt.
+type: test
+title: Empty expected Android assist data for carousel-no-tabs test
+summary: Empty expected Android assist-data file for the carousel-no-tabs accessibility test, indicating that no assist data output is expected.

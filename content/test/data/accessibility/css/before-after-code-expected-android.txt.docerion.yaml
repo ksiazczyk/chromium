@@ -1,0 +1,4 @@
+# Docerion header of before-after-code-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for before-after-code test
+summary: Expected Android accessibility tree for the before-after-code test, showing the view hierarchy with accessible names for generated before and after content.

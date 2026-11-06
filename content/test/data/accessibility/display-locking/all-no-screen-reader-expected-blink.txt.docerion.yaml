@@ -1,0 +1,4 @@
+# Docerion header of all-no-screen-reader-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for all test without screen reader
+summary: Expected Blink accessibility tree for the all display-locking test without a screen reader, omitting the contents of locked subtrees.

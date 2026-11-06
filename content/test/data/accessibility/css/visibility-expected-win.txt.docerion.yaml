@@ -1,0 +1,4 @@
+# Docerion header of visibility-expected-win.txt.
+type: test
+title: Visibility expected accessibility tree for Windows
+summary: Expected Windows accessibility tree dump for the CSS visibility test, listing the document role and the two visible links.

@@ -1,0 +1,4 @@
+# Docerion header of pseudo-element-check-mark-expected-blink.txt.
+type: test
+title: Pseudo-element check mark expected Blink tree
+summary: Expected Blink accessibility tree for the pseudo-element check mark test page, showing a Pets select with a popup listing Dog, Cat and Donkey options.

@@ -1,0 +1,4 @@
+# Docerion header of viewport-activation-expected-mac.txt.
+type: test
+title: Viewport activation expected Mac accessibility tree
+summary: Expected macOS accessibility tree for the viewport-activation test with static text values for each section.

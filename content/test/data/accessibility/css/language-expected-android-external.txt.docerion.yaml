@@ -1,0 +1,4 @@
+# Docerion header of language-expected-android-external.txt.
+type: test
+title: Expected Android external output for language test
+summary: Expected Android external-format snapshot listing focusable and action details for TextViews representing Spanish and French text.

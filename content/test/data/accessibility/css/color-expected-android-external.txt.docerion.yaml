@@ -1,0 +1,4 @@
+# Docerion header of color-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility output for CSS color test
+summary: Expected Android external accessibility snapshot for the CSS color test, describing the WebView nodes exposed for the red-on-blue paragraph and the editable div.

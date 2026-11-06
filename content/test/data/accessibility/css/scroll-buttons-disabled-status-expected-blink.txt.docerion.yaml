@@ -1,0 +1,4 @@
+# Docerion header of scroll-buttons-disabled-status-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for scroll buttons disabled status test
+summary: Expected Blink accessibility tree output showing a disabled scroll button on a scroller with its disabled restriction state.

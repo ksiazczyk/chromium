@@ -1,0 +1,4 @@
+# Docerion header of non-activatable-expected-win.txt.
+type: test
+title: Non-activatable expected Windows accessibility tree
+summary: Expected Windows accessibility tree for the non-activatable display-locking test, showing a document with an empty section.

@@ -1,0 +1,4 @@
+# Docerion header of font-size-zero-expected-blink.txt.
+type: test
+title: Expected Blink output for the font-size-zero test
+summary: Expected Blink accessibility tree for the font-size-zero test page, showing zero font sizes for invisible spans and paragraphs.

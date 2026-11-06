@@ -1,0 +1,4 @@
+# Docerion header of pseudo-element-picker-icon-expected-blink.txt.
+type: test
+title: Expected a11y tree for pseudo-element picker icon in Blink
+summary: Expected Blink accessibility tree output for a customizable select with a styled picker icon.

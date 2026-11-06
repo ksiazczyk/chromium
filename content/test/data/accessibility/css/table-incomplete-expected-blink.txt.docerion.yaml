@@ -1,0 +1,4 @@
+# Docerion header of table-incomplete-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for incomplete CSS table
+summary: Expected Blink accessibility tree output for the incomplete CSS table test, showing the table, row group, row and named cells.

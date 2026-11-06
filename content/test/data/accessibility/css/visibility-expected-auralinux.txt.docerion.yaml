@@ -1,0 +1,4 @@
+# Docerion header of visibility-expected-auralinux.txt.
+type: test
+title: Visibility accessibility test expectation for Linux
+summary: Expected Linux accessibility tree snapshot for the visibility test, showing only the static text of the visible links.

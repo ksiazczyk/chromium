@@ -1,0 +1,4 @@
+# Docerion header of all-committed-expected-auralinux.txt.
+type: test
+title: All-committed expected accessibility tree for Linux
+summary: Expected Linux accessibility tree dump for the all-committed display-locking test, showing committed and non-activatable locked content.

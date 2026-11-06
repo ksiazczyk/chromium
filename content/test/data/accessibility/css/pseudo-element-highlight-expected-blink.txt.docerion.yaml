@@ -1,0 +1,4 @@
+# Docerion header of pseudo-element-highlight-expected-blink.txt.
+type: test
+title: Expected a11y tree for pseudo-element highlight in Blink
+summary: Expected Blink accessibility tree output for text marked by a CSS custom highlight pseudo-element.

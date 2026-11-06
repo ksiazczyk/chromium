@@ -1,0 +1,4 @@
+# Docerion header of pseudo-elements-expected-android.txt.
+type: test
+title: Pseudo-elements expected accessibility tree for Android
+summary: Expected Android WebView accessibility tree snapshot for the CSS pseudo-elements test, showing a focusable heading named '[ Foo ]'.

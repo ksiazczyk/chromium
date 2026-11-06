@@ -1,0 +1,4 @@
+# Docerion header of all-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for the all test
+summary: Expected Blink accessibility tree for the all display-locking test, including offscreen nodes inside activatable locked elements.

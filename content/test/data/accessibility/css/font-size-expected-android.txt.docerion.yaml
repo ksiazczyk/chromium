@@ -1,0 +1,4 @@
+# Docerion header of font-size-expected-android.txt.
+type: test
+title: Expected Android output for the font-size test
+summary: Expected Android accessibility tree for the font-size test page, listing TextView nodes named after each px and pt font-size value.

@@ -1,0 +1,4 @@
+# Docerion header of font-size-expected-win.txt.
+type: test
+title: Expected Windows output for the font-size test
+summary: Expected Windows accessibility tree for the font-size test page, listing IA2 paragraph and static text roles with their font-size values.

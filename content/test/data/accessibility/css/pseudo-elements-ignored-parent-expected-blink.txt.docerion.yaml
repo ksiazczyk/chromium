@@ -1,0 +1,4 @@
+# Docerion header of pseudo-elements-ignored-parent-expected-blink.txt.
+type: test
+title: Pseudo-elements ignored parent expected tree for Blink
+summary: Expected Blink accessibility tree for the ignored-parent pseudo-elements test, showing ignored divs whose ::before and ::after content is exposed.

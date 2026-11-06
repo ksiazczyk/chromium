@@ -1,0 +1,4 @@
+# Docerion header of pseudo-element-picker-icon.html.
+type: test
+title: Pseudo-element picker icon test page
+summary: HTML test page rendering a select element with base-select appearance to exercise the picker icon pseudo-element in accessibility tests.

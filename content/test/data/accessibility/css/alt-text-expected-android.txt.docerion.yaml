@@ -1,0 +1,4 @@
+# Docerion header of alt-text-expected-android.txt.
+type: test
+title: Expected Android tree for CSS alt text accessibility test
+summary: Expected Android accessibility tree snapshot for the CSS alt text test page.

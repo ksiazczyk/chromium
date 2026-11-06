@@ -1,0 +1,4 @@
+# Docerion header of pseudo-element-positioned-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for positioned pseudo-elements
+summary: Expected Android assist-data accessibility snapshot for the positioned pseudo-elements test page.

@@ -1,0 +1,4 @@
+# Docerion header of interactivity-inert.html.
+type: test
+title: Interactivity inert accessibility test page
+summary: Test page with two buttons where one uses the CSS interactivity:inert property to verify inert content is excluded from the accessibility tree.

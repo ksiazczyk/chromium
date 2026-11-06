@@ -1,0 +1,4 @@
+# Docerion header of list-marker-styles-custom-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for list marker styles test
+summary: Expected Blink accessibility tree for the custom list marker styles test, showing list items, markers and listStyle values.

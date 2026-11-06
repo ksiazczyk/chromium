@@ -1,0 +1,4 @@
+# Docerion header of counter-text.html.
+type: test
+title: Counter text test page
+summary: HTML test page using CSS counters and ::before content on ordered list items to expose counter text to accessibility.

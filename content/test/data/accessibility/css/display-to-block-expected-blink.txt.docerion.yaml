@@ -1,0 +1,4 @@
+# Docerion header of display-to-block-expected-blink.txt.
+type: test
+title: Expected accessibility tree for display-to-block test
+summary: Expected Blink accessibility tree after a hidden element is switched to display:block.

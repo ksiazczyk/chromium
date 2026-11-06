@@ -1,0 +1,4 @@
+# Docerion header of viewport-activation-expected-auralinux.txt.
+type: test
+title: Viewport activation expected Linux accessibility tree
+summary: Expected Linux accessibility tree for the viewport-activation test, marking which offscreen sections become visible on activation.

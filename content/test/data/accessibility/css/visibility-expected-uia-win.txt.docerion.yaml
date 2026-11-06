@@ -1,0 +1,4 @@
+# Docerion header of visibility-expected-uia-win.txt.
+type: test
+title: Visibility accessibility test expectation for UIA on Windows
+summary: Expected UIA accessibility tree snapshot for the visibility test, listing text elements for the visible links.

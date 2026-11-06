@@ -1,0 +1,4 @@
+# Docerion header of table-custom-row-element-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for custom table row element test
+summary: Expected Windows accessibility tree snapshot verifying that a custom element styled as a table row still exposes its shadow DOM cells as table cells.

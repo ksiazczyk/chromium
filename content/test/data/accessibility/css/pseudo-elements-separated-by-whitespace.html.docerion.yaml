@@ -1,0 +1,4 @@
+# Docerion header of pseudo-elements-separated-by-whitespace.html.
+type: test
+title: Pseudo-elements separated by whitespace test page
+summary: HTML test page using ::before and ::after brackets on spans to check how whitespace between elements affects the accessibility tree.

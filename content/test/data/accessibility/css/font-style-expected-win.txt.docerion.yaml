@@ -1,0 +1,4 @@
+# Docerion header of font-style-expected-win.txt.
+type: test
+title: Font style expected Windows output
+summary: Expected Windows accessibility tree output for the font-style test, capturing IA2 font weight, style, underline and line-through attributes on static text.

@@ -1,0 +1,4 @@
+# Docerion header of visibility-to-hidden-expected-blink.txt.
+type: test
+title: Visibility to hidden expected Blink accessibility tree
+summary: Expected Blink accessibility tree for the visibility-to-hidden test, showing ignored containers and the done marker after the transition.
