@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FactorAuthView interface declaration
+// summary: Declares the common interface for auth factor views shown on the login, lock, or in-session screens.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_AUTH_PANEL_IMPL_FACTOR_AUTH_VIEW_H_
 #define CHROMEOS_ASH_COMPONENTS_AUTH_PANEL_IMPL_FACTOR_AUTH_VIEW_H_
 

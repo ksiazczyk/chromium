@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake attestation flow implementation
+// summary: Implements FakeAttestationFlow, which asynchronously returns a fake or supplied certificate with success status for testing purposes.
+// ---
+
 #include "chromeos/ash/components/attestation/fake_attestation_flow.h"
 
 #include <optional>

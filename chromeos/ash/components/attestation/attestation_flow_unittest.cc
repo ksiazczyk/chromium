@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Attestation flow unit tests
+// summary: Unit tests for the attestation flow covering certificate retrieval and enrollment sequences using fake DBus clients and mock server proxies.
+// ---
+
 #include "chromeos/ash/components/attestation/attestation_flow.h"
 
 #include <memory>

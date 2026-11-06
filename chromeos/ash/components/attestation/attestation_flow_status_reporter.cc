@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Attestation flow status reporter implementation
+// summary: Implements AttestationFlowStatusReporter, encoding proxy availability and flow outcome flags into a ChromeOS.Attestation.AttestationFlowStatus UMA histogram entry.
+// ---
+
 #include "chromeos/ash/components/attestation/attestation_flow_status_reporter.h"
 
 #include "base/logging.h"

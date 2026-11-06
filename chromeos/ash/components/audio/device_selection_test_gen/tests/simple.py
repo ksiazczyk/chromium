@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Simple USB device selection test scenario
+# summary: Simulates plugging three USB audio devices with successive selection changes and an unplug to exercise basic device selection behavior.
+# ---
+
 
 from dsp import T, Simulator
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Attestation features implementation
+// summary: Implements the AttestationFeatures singleton that reports attestation availability and RSA/ECC key support via the attestation D-Bus client.
+// ---
+
 #include "chromeos/ash/components/attestation/attestation_features.h"
 
 #include "base/check.h"

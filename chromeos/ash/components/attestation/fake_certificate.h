@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake certificate header
+// summary: Declares helper functions that create self-signed fake certificates in DER or PEM encoding for use in unit tests.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_ATTESTATION_FAKE_CERTIFICATE_H_
 #define CHROMEOS_ASH_COMPONENTS_ATTESTATION_FAKE_CERTIFICATE_H_
 

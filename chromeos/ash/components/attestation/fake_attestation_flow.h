@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake attestation flow header
+// summary: Declares FakeAttestationFlow, a fake AttestationFlow subclass that returns either a fake or supplied certificate.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_ATTESTATION_FAKE_ATTESTATION_FLOW_H_
 #define CHROMEOS_ASH_COMPONENTS_ATTESTATION_FAKE_ATTESTATION_FLOW_H_
 

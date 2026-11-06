@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Attestation features interface
+// summary: Declares the AttestationFeatures interface exposing attestation availability and supported certified key types, with singleton lifecycle methods.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_ATTESTATION_ATTESTATION_FEATURES_H_
 #define CHROMEOS_ASH_COMPONENTS_ATTESTATION_ATTESTATION_FEATURES_H_
 

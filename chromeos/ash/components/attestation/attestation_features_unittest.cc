@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Attestation features unit tests
+// summary: Unit tests for AttestationFeatures covering successful feature retrieval, missing key support, unavailable attestation, and error handling.
+// ---
+
 #include "chromeos/ash/components/attestation/attestation_features.h"
 
 #include "base/logging.h"

@@ -1,0 +1,4 @@
+# Docerion header of tast_control_flaky_tests.txt.
+type: config
+title: Flaky Tast test control list
+summary: Lists flaky Chrome OS Tast tests with bug references and optional board qualifiers so test tooling can treat them specially.

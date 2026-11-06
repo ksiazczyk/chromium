@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccountManagerFactory class declaration
+// summary: Declares the factory that provides separate AccountManager instances per profile path to support multi-signin on ChromeOS.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_ACCOUNT_MANAGER_ACCOUNT_MANAGER_FACTORY_H_
 #define CHROMEOS_ASH_COMPONENTS_ACCOUNT_MANAGER_ACCOUNT_MANAGER_FACTORY_H_
 

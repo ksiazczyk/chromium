@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: If correctly implemented audio device selection handler
+# summary: Handler that tracks user-activated and known devices to decide audio device switches on plug, unplug and select events.
+# ---
+
 from dsp import BaseHandler, Device, State
 
 

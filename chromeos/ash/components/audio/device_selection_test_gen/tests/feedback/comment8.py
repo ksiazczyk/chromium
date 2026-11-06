@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: 'Feedback test: headphone unplug falls back to internal speaker'
+# summary: Simulates plugging a monitor and a headphone and verifies the internal speaker becomes the activated device after the headphone is unplugged.
+# ---
+
 from dsp import Simulator, T
 
 

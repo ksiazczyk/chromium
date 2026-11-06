@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Device Selection Playground for audio device behavior
+# summary: Python model of a device selection playground that simulates plugging, unplugging and switching audio devices to define selection behavior.
+# ---
+
 
 """
 dsp.py - Device Selection Playground

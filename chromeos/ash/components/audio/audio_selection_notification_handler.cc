@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio selection notification handler implementation
+// summary: Implements notifications shown when audio devices are hotplugged, letting users switch to newly connected input or output devices.
+// ---
+
 #include "chromeos/ash/components/audio/audio_selection_notification_handler.h"
 
 #include <cstring>

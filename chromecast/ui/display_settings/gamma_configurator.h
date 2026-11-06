@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GammaConfigurator class declaration
+// summary: Declares GammaConfigurator, which applies calibrated gamma LUTs to the display configurator and supports toggling color inversion.
+// ---
+
 #ifndef CHROMECAST_UI_DISPLAY_SETTINGS_GAMMA_CONFIGURATOR_H_
 #define CHROMECAST_UI_DISPLAY_SETTINGS_GAMMA_CONFIGURATOR_H_
 

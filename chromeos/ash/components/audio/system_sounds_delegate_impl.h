@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemSoundsDelegateImpl header
+// summary: Declares SystemSoundsDelegateImpl, the ash system sounds delegate that initializes and plays requested system sounds.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_AUDIO_SYSTEM_SOUNDS_DELEGATE_IMPL_H_
 #define CHROMEOS_ASH_COMPONENTS_AUDIO_SYSTEM_SOUNDS_DELEGATE_IMPL_H_
 

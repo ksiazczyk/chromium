@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Attestation directory include rules
+summary: Defines allowed include dependencies for the attestation directory, including detailed restrictions on Abseil headers.

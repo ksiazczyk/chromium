@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Audio device selection test base implementation
+// summary: Implements shared test setup for audio selection tests using a fake CRAS audio client and test preferences.
+// ---
+
 #include "chromeos/ash/components/audio/audio_device_selection_test_base.h"
 
 #include "base/strings/stringprintf.h"

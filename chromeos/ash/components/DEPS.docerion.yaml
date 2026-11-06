@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Dependency rules for //chromeos/ash/components
+summary: DEPS include rules that forbid dependencies between components and on ash code, with a few allowed exceptions.

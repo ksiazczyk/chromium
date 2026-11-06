@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the chromeos directory
+summary: Restricts allowed dependencies to keep chromeos a low-level system library and explicitly excludes UI includes.

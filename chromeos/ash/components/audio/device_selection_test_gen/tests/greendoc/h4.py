@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: 'h4: HDMI replug keeps internal speaker output'
+# summary: Simulates replugging an HDMI monitor while the internal speaker is selected and expects audio output from the internal speaker.
+# ---
+
 from dsp import Simulator, T
 
 

@@ -1,3 +1,9 @@
+---
+type: readme
+title: Chrome OS directory overview
+summary: Explains the directory's purpose, ash-chrome and lacros-chrome terminology, crosapi, and code layout rules.
+---
+
 # Chrome OS
 
 This directory contains low-level support for Chrome running on Chrome OS.

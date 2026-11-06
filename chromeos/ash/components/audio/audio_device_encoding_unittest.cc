@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Audio device encoding unit tests
+// summary: Unit tests verifying that audio device sets are encoded correctly, both alone and combined with before-and-after device sets.
+// ---
+
 #include "chromeos/ash/components/audio/audio_device_encoding.h"
 
 #include "chromeos/ash/components/audio/audio_device.h"

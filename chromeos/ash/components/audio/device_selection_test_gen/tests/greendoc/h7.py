@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: 'h7: Headphone unplug falls back to internal speaker'
+# summary: Simulates connecting and disconnecting a headphone while the internal speaker is selected and expects output from the internal speaker.
+# ---
+
 from dsp import Simulator, T
 
 

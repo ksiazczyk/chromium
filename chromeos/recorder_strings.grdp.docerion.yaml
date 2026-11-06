@@ -1,0 +1,4 @@
+# Docerion header of recorder_strings.grdp.
+type: data
+title: Recorder app localized strings
+summary: Grit part included from chromeos_strings.grd holding Recorder app UI strings, including generative AI feature messages.

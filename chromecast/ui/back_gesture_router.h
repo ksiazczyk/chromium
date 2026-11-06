@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BackGestureRouter class header
+// summary: Declares BackGestureRouter, a helper class for exposing back gesture events to a remote process via a delegate.
+// ---
+
 #ifndef CHROMECAST_UI_BACK_GESTURE_ROUTER_H_
 #define CHROMECAST_UI_BACK_GESTURE_ROUTER_H_
 

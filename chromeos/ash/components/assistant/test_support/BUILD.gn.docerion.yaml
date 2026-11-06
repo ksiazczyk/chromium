@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Assistant test_support build target
+summary: Defines the testonly static_library target test_support that bundles expect_utils.h with base and gtest/gmock dependencies for Chrome OS builds.

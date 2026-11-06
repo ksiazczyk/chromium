@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioDevice struct and device type enum
+// summary: Declares the AudioDevice struct and AudioDeviceType enum describing ChromeOS audio devices, their priorities and usage flags.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_AUDIO_AUDIO_DEVICE_H_
 #define CHROMEOS_ASH_COMPONENTS_AUDIO_AUDIO_DEVICE_H_
 

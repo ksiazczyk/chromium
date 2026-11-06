@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrightnessAnimation class declaration
+// summary: Declares BrightnessAnimation, a gfx::LinearAnimation subclass that animates display brightness to a target value over a given duration.
+// ---
+
 #ifndef CHROMECAST_UI_DISPLAY_SETTINGS_BRIGHTNESS_ANIMATION_H_
 #define CHROMECAST_UI_DISPLAY_SETTINGS_BRIGHTNESS_ANIMATION_H_
 

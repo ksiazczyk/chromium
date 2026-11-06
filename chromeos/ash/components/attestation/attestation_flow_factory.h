@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Attestation flow factory class header
+// summary: Declares AttestationFlowFactory, which initializes a server proxy and provides the default attestation flow and a fallback solution.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_ATTESTATION_ATTESTATION_FLOW_FACTORY_H_
 #define CHROMEOS_ASH_COMPONENTS_ATTESTATION_ATTESTATION_FLOW_FACTORY_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build configuration for the account_manager component
+summary: Defines the GN build target for the account_manager component, listing its sources, dependencies, and export define.

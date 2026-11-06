@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gamma configurator implementation
+// summary: Implements gamma LUT loading and application, including inverting the calibrated gamma table to support display color inversion.
+// ---
+
 #include "chromecast/ui/display_settings/gamma_configurator.h"
 
 #include <limits>

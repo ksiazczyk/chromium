@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Chromecast UI mojom build file
+summary: GN build configuration that defines the mojom target compiling the Chromecast UI interface definitions.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Attestation flow status reporter unit tests
+// summary: Unit tests that iterate over all valid flag combinations of the status reporter and verify the resulting UMA histogram entries.
+// ---
+
 #include "chromeos/ash/components/attestation/attestation_flow_status_reporter.h"
 
 #include "base/test/metrics/histogram_tester.h"

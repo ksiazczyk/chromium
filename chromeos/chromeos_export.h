@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome OS export macro header
+// summary: Defines the CHROMEOS_EXPORT macro controlling symbol visibility and import or export in component builds.
+// ---
+
 #ifndef CHROMEOS_CHROMEOS_EXPORT_H_
 #define CHROMEOS_CHROMEOS_EXPORT_H_
 

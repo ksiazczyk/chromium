@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: 'Scenario 7: headphone plug and unplug with HDMI selected'
+# summary: Simulates selecting HDMI device A, then plugging and unplugging a headphone jack, expecting HDMI to stay active.
+# ---
+
 from dsp import Simulator, T
 
 

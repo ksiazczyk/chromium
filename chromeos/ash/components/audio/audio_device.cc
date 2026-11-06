@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioDevice implementation
+// summary: Implements AudioDevice helpers such as device type priority, type string conversion and parsing of D-Bus node type strings.
+// ---
+
 #include "chromeos/ash/components/audio/audio_device.h"
 
 #include <stdint.h>

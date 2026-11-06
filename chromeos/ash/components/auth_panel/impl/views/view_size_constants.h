@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password view size constants
+// summary: Defines layout constants such as paddings, spacings, sizes and corner radii used by the auth panel password view and its row, icons and submit button.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_AUTH_PANEL_IMPL_VIEWS_VIEW_SIZE_CONSTANTS_H_
 #define CHROMEOS_ASH_COMPONENTS_AUTH_PANEL_IMPL_VIEWS_VIEW_SIZE_CONSTANTS_H_
 

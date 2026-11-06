@@ -1,3 +1,9 @@
+---
+type: readme
+title: About //chromeos/ash/components
+summary: Explains that the directory holds ash-chrome-only components, their dependency isolation, and the Lacros migration history.
+---
+
 # About //chromeos/ash/components
 
 This directory contains components that are used by ash-chrome only.

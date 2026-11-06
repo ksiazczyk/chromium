@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio selection notification handler declaration
+// summary: Declares the handler that creates and displays audio selection notifications for hotplugged input and output devices.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_AUDIO_AUDIO_SELECTION_NOTIFICATION_HANDLER_H_
 #define CHROMEOS_ASH_COMPONENTS_AUDIO_AUDIO_SELECTION_NOTIFICATION_HANDLER_H_
 

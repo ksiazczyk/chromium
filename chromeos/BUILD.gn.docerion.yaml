@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the chromeos directory
+summary: Defines the chromeos_unittests target, test support library, build flags and Tast test runners for Chrome OS builds.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ColorTemperatureAnimation class declaration
+// summary: Declares ColorTemperatureAnimation, which animates display color temperature between values and can animate back to a neutral temperature.
+// ---
+
 #ifndef CHROMECAST_UI_DISPLAY_SETTINGS_COLOR_TEMPERATURE_ANIMATION_H_
 #define CHROMECAST_UI_DISPLAY_SETTINGS_COLOR_TEMPERATURE_ANIMATION_H_
 

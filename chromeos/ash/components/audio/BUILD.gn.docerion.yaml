@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Audio component GN build configuration
+summary: Defines the audio component, in-process audio config and unit test targets with their sources and dependencies for ChromeOS Ash.

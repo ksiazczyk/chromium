@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Integrated attestation flow implementation
+// summary: Implements the integrated attestation flow that checks enrollment preparations, waits for TPM readiness, and requests certificates from the Chrome OS Privacy CA.
+// ---
+
 #include "chromeos/ash/components/attestation/attestation_flow_integrated.h"
 
 #include <algorithm>

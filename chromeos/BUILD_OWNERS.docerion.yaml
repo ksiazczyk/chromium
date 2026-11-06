@@ -1,0 +1,4 @@
+# Docerion header of BUILD_OWNERS.
+type: config
+title: Owners of build files in chromeos
+summary: Names the CrOS Build Team members who review changes to build files in this directory.

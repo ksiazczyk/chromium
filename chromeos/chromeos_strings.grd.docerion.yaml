@@ -1,0 +1,4 @@
+# Docerion header of chromeos_strings.grd.
+type: data
+title: Chrome OS localized strings
+summary: Grit resource file defining Chrome OS UI strings and their translations into many languages.

@@ -1,0 +1,4 @@
+# Docerion header of revert_custom_chrome.sh.
+type: script
+title: Restore the original Chrome build after a custom install
+summary: Shell script that restores the archived non-custom Chrome build to /opt/google/chrome, undoing the effects of download_custom_chrome.sh.

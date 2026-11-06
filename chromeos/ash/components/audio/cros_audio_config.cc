@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrosAudioConfig base implementation
+// summary: Implements the CrosAudioConfig Mojo API base class, managing observers and assembling audio system properties for ChromeOS.
+// ---
+
 #include "chromeos/ash/components/audio/cros_audio_config.h"
 
 #include <utility>

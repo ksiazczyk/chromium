@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceActivateType enum
+// summary: Defines the DeviceActivateType enum indicating what source activated an audio device, such as priority, user action, restored state or camera.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_AUDIO_DEVICE_ACTIVATE_TYPE_H_
 #define CHROMEOS_ASH_COMPONENTS_AUDIO_DEVICE_ACTIVATE_TYPE_H_
 

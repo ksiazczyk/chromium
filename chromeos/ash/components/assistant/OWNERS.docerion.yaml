@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the assistant component
+summary: Directs code reviews to the assistive code review queue instead of individual reviewers.

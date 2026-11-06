@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the account_manager directory
+summary: Declares the allowed include dependency on components/account_manager_core for code in this directory.

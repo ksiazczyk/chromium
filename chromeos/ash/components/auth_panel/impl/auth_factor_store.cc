@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthFactorStore implementation
+// summary: Implements the store that tracks the auth panel UI state and handles user actions such as password submission and caps lock toggling.
+// ---
+
 #include "chromeos/ash/components/auth_panel/impl/auth_factor_store.h"
 
 #include "ash/public/cpp/ime_controller.h"

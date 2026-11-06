@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake certificate generation
+// summary: Generates self-signed fake certificates in DER or PEM form from constant test key material, designed for fast use in unit tests.
+// ---
+
 #include "chromeos/ash/components/attestation/fake_certificate.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: 'm3: Headphone unplug returns to selected HDMI monitor'
+# summary: Simulates selecting HDMI monitor1, then plugging and unplugging a headphone, expecting output from HDMI monitor1.
+# ---
+
 from dsp import Simulator, T
 
 

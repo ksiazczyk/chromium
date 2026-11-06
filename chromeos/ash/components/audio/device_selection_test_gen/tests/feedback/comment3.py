@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: 'Feedback test: line out speaker reactivated after replug'
+# summary: Simulates plugging and unplugging monitors and a line out speaker, verifying the line out speaker is reactivated when everything is replugged.
+# ---
+
 from dsp import Simulator, T
 
 

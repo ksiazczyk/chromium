@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthPanel view controller implementation
+// summary: Implements the AuthPanel view that lays out factor auth views and reacts to auth factor status changes and authentication results.
+// ---
+
 #include "chromeos/ash/components/auth_panel/impl/auth_panel.h"
 
 #include <memory>

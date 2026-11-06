@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplaySettingsManager interface
+// summary: Declares the DisplaySettingsManager abstract interface with a color temperature config, brightness delegate, and methods for gamma calibration, color inversion, and Mojo receivers.
+// ---
+
 #ifndef CHROMECAST_UI_DISPLAY_SETTINGS_MANAGER_H_
 #define CHROMECAST_UI_DISPLAY_SETTINGS_MANAGER_H_
 

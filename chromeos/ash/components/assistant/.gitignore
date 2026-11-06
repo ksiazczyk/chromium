@@ -1,1 +1,7 @@
+# ---docerion
+# type: config
+# title: Git ignore rules for the assistant component
+# summary: Ignores the libassistant directory in version control within the assistant component folder.
+# ---
+
 libassistant

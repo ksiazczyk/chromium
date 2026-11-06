@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Audio device ID unit tests
+// summary: Unit tests verifying device ID string generation, comma-separated device set IDs and parsing of device ID strings.
+// ---
+
 #include "chromeos/ash/components/audio/audio_device_id.h"
 
 #include <cstdint>

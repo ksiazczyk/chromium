@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for //chromeos/ash/components
+summary: Ownership file granting all reviewers approval rights for changes to BUILD.gn via a per-file rule.

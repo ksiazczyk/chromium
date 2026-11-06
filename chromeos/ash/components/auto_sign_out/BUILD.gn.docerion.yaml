@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build configuration for the auto_sign_out component
+summary: Defines the auto_sign_out component sources and dependencies plus the unit_tests source set for the Automatic Sign-Out feature.
