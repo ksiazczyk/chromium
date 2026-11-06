@@ -1,0 +1,4 @@
+# Docerion header of blocked_badge_custom.icon.
+type: asset
+title: Blocked badge vector icon
+summary: Defines a 32dp blocked badge icon with a red rounded square and a white X drawn using explicit path colors.

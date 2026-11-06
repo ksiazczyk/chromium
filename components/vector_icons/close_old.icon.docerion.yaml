@@ -1,0 +1,4 @@
+# Docerion header of close_old.icon.
+type: asset
+title: Old close icon
+summary: Legacy close icon definition with a 24x24 glyph plus a 16x16 stroke variant optimized for 1x scale factor devices.

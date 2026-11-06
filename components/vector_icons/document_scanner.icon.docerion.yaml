@@ -1,0 +1,4 @@
+# Docerion header of document_scanner.icon.
+type: asset
+title: Document scanner vector icon
+summary: Vector icon definition for a document scanner glyph, specifying canvas dimensions and path commands for rendering in Chrome UI.

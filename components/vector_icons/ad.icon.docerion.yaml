@@ -1,0 +1,4 @@
+# Docerion header of ad.icon.
+type: asset
+title: Ad icon
+summary: Defines vector path data for a 16 pixel ad icon used in Chrome UI.

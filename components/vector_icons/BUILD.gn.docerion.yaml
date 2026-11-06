@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for vector icons
+summary: Defines the aggregate_vector_icons target listing all .icon sources and enabling generated unit tests for the components/vector_icons directory.

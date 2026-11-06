@@ -1,0 +1,4 @@
+# Docerion header of flight.icon.
+type: asset
+title: Flight icon
+summary: Defines vector path data for the flight airplane icon used in Chrome UI.

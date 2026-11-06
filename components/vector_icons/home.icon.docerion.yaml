@@ -1,0 +1,4 @@
+# Docerion header of home.icon.
+type: asset
+title: Home vector icon
+summary: Defines the home icon as vector path commands on a 20dp canvas.

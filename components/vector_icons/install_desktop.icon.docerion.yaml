@@ -1,0 +1,4 @@
+# Docerion header of install_desktop.icon.
+type: asset
+title: Install desktop vector icon
+summary: Defines the vector path data for the 20 dp desktop installation icon used in Chrome UI.

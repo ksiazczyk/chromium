@@ -1,0 +1,4 @@
+# Docerion header of dogfood_old.icon.
+type: asset
+title: Dogfood icon, old style
+summary: Vector icon definition drawing the old-style dogfood glyph with path commands on a 24dp canvas.

@@ -1,0 +1,4 @@
+# Docerion header of ethernet_old.icon.
+type: asset
+title: Ethernet icon, legacy variant
+summary: Defines path data for the legacy 24dp ethernet connection vector icon with chevrons and dots.

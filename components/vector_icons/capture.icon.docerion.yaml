@@ -1,0 +1,4 @@
+# Docerion header of capture.icon.
+type: asset
+title: Capture vector icon
+summary: Vector icon definition drawing the capture glyph, a framed rectangle with an inner bar, on a 20x20 canvas with nonzero fill rule.

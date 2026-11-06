@@ -1,0 +1,4 @@
+# Docerion header of image_search_old.icon.
+type: asset
+title: Image search vector icon, old style
+summary: Defines the vector path data for the old-style 16 dp image search icon used in Chrome UI.

@@ -1,0 +1,4 @@
+# Docerion header of ads_click.icon.
+type: asset
+title: Ads click vector icon
+summary: Defines the ads click vector icon as path drawing commands on a 24dp canvas for Chrome's native UI.

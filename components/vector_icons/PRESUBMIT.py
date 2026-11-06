@@ -1,6 +1,13 @@
 # Copyright 2026 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: script
+# title: Presubmit checks for new vector icon files
+# summary: Presubmit script that collects newly added .icon files and runs the shared icon_checker tool to validate their icon names.
+# ---
+
 """Presubmit script for components/vector_icons.
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

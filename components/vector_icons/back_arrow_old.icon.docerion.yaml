@@ -1,0 +1,4 @@
+# Docerion header of back_arrow_old.icon.
+type: asset
+title: Legacy toolbar back arrow vector icon
+summary: Defines the legacy back arrow icon at 32dp and 16dp sizes, with a note to rename it to toolbar_back_arrow.

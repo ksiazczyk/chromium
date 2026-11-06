@@ -1,0 +1,4 @@
+# Docerion header of https_valid_old.icon.
+type: asset
+title: Old valid HTTPS vector icon
+summary: Defines the older valid HTTPS lock icon as vector path commands at 24dp, 20dp and 16dp canvas sizes.

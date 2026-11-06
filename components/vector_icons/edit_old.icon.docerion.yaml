@@ -1,0 +1,4 @@
+# Docerion header of edit_old.icon.
+type: asset
+title: Edit icon, legacy variant
+summary: Defines path data for the legacy 48dp edit (pencil) vector icon used in Chrome UI.

@@ -1,0 +1,4 @@
+# Docerion header of link.icon.
+type: asset
+title: Link icon
+summary: Vector icon definition drawing a chain-link glyph on a 20 dp canvas using nonzero fill for Chrome UI.

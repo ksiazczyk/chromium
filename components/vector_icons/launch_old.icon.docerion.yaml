@@ -1,0 +1,4 @@
+# Docerion header of launch_old.icon.
+type: asset
+title: Launch icon (old style)
+summary: Vector icon definition drawing the legacy launch (open-in-new) glyph on an 18 dp canvas with RTL flipping for Chrome UI.

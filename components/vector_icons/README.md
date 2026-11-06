@@ -1,3 +1,12 @@
+---
+type: readme
+title: Vectorized icons in native Chrome UI
+summary: Explains the .icon vector format, SVG conversion with skiafy, adding and using icons in code, and answers FAQs about vector icons in Chrome.
+relations:
+  - references /docs/google_chrome_branded_builds.md
+  - references /components/vector_icons/BUILD.gn
+---
+
 # Vectorized icons in native Chrome UI
 
 ## Background

@@ -1,0 +1,4 @@
+# Docerion header of hide_image.icon.
+type: asset
+title: Hide image vector icon
+summary: Defines the hide image icon as vector path commands on a 20dp canvas.

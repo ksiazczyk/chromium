@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Macros for vector icon C++ templates
+// summary: Header defining macros shared by vector icon targets' vector_icons.cc.template files to declare icon path elements and representations.
+// ---
+
 #ifndef COMPONENTS_VECTOR_ICONS_CC_MACROS_H_
 #define COMPONENTS_VECTOR_ICONS_CC_MACROS_H_
 

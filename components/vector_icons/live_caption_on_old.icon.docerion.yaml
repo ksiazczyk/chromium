@@ -1,0 +1,4 @@
+# Docerion header of live_caption_on_old.icon.
+type: asset
+title: Live Caption on icon (old style)
+summary: Vector icon definition drawing the legacy Live Caption glyph, a captioned video frame, on a 20 dp canvas.

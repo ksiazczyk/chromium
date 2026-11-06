@@ -1,0 +1,4 @@
+# Docerion header of midi_old.icon.
+type: asset
+title: MIDI icon, legacy variant
+summary: Vector path definition for the legacy 24-pixel MIDI keyboard icon used in the older Chrome UI.

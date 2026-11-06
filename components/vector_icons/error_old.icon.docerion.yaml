@@ -1,0 +1,4 @@
+# Docerion header of error_old.icon.
+type: asset
+title: Error icon, legacy variant
+summary: Defines path data for the legacy 16dp circular error icon with exclamation mark.

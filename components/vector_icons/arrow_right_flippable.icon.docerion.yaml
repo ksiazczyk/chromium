@@ -1,0 +1,4 @@
+# Docerion header of arrow_right_flippable.icon.
+type: asset
+title: Flippable right arrow vector icon
+summary: Defines a 16dp right arrow icon marked to flip horizontally when the UI is laid out right-to-left.

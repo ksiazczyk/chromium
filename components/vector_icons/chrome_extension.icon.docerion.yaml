@@ -1,0 +1,4 @@
+# Docerion header of chrome_extension.icon.
+type: asset
+title: Chrome extension vector icon
+summary: Vector icon definition drawing the Chrome extension glyph as path data on a 20x20 canvas for Chromium UI.

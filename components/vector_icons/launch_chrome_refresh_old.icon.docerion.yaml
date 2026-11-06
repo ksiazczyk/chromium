@@ -1,0 +1,4 @@
+# Docerion header of launch_chrome_refresh_old.icon.
+type: asset
+title: Launch vector icon, Chrome Refresh variant
+summary: Defines the 20 dp launch (open in new window) vector icon in the Chrome Refresh style, mirroring in right-to-left locales.
