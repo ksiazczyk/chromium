@@ -3,6 +3,13 @@ Copyright 2014 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: test
+title: Guest page spawning a filesystem-requesting worker
+summary: Guest page that creates a worker to request filesystem access and reports the granted or denied outcome to the embedder via postMessage.
+-->
+
 <html>
   <head>
     <script type="text/javascript">

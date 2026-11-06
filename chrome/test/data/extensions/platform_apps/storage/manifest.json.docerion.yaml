@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Platform app storage test manifest
+summary: Manifest for a test platform app that verifies localStorage and WebSQL are disallowed, loading test.js as its background script.

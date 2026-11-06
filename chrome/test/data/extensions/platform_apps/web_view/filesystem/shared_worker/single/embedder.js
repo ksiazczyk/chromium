@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Webview filesystem test embedder script
+// summary: Sets up the webview guest, handles filesystem permission requests, and runs allow and deny test cases via post message exchange.
+// ---
+
 var embedder = {};
 embedder.test = {};
 embedder.baseGuestURL = '';

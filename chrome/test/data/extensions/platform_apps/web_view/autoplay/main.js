@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Webview autoplay test controller
+// summary: Loads the guest page into the webview and asserts autoplay is rejected with a NotAllowedError console message.
+// ---
+
 chrome.test.getConfig(function(config) {
   var guestUrl = 'http://localhost:' + config.testServer.port +
       '/extensions/platform_apps/web_view/autoplay/guest.html';

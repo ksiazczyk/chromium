@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Webview page logic for window name and findability tests
+// summary: Implements setWindowName and findWindowByName on the embedded page and registers the corresponding message handlers.
+// ---
+
 function setWindowName(name) {
   window.name = name;
 }

@@ -3,6 +3,13 @@ Copyright 2013 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: test
+title: Webview close on loadcommit test page
+summary: HTML page embedding a webview that loads a data URL, serving as the app window content for the close-on-loadcommit browser test.
+-->
+
 <html>
 <body>
   <webview src="data:text/html,<html><body>Close on loadcommit</body></html>"

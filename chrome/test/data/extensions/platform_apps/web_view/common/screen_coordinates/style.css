@@ -4,6 +4,13 @@
  * found in the LICENSE file.
  */
 /* TODO(lazyboy): We probably don't need this anymore. */
+
+/*docerion
+type: test
+title: WebView screen coordinates test stylesheet
+summary: Minimal stylesheet injected into the screen coordinates test pages, setting body margin and padding, though a TODO suggests it may no longer be needed.
+*/
+
 body {
   margin: 100;
   padding: 0;

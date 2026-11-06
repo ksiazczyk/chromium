@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Packaged app document, window, and history restrictions tests
+// summary: JavaScript tests asserting that restricted document, window, and history APIs are unavailable in packaged apps.
+// ---
+
 var assertEq = chrome.test.assertEq;
 var assertTrue = chrome.test.assertTrue;
 var fail = chrome.test.fail;

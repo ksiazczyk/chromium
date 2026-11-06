@@ -1,0 +1,4 @@
+# Docerion header of guest.html.
+type: test
+title: Guest page messaging a component extension
+summary: Webview guest page that sends a runtime message to a component extension and posts the guestProcessId result back to the embedder.

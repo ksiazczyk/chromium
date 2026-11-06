@@ -1,0 +1,4 @@
+# Docerion header of guest.html.
+type: test
+title: WebView clearData cookie test guest page
+summary: Guest HTML page that sets and reads test cookies and reports their values to the embedder over postMessage during the clearData test.

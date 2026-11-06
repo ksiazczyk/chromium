@@ -1,0 +1,4 @@
+# Docerion header of guest.html.
+type: test
+title: Guest page for webview download tests
+summary: Guest page loaded inside the webviews, providing a container for download links and loading guest.js.

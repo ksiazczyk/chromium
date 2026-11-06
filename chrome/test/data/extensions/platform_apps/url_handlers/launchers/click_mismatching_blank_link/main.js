@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Link click dispatcher for the mismatching blank link test
+// summary: Points the mismatching link at the test server and dispatches a synthetic click so the pre-installed handler app intercepts it.
+// ---
+
 chrome.test.getConfig(function(config) {
   var port = config ? config.testServer.port : '0';
 

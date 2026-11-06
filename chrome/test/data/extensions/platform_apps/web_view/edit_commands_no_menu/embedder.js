@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Embedder test logic for webview edit commands
+// summary: Sets up a webview guest, exchanges postMessage channel messages, and verifies the caret sits at the start of the line after the end-of-line edit command.
+// ---
+
 var embedder = {};
 embedder.tests = {};
 embedder.baseGuestURL = '';

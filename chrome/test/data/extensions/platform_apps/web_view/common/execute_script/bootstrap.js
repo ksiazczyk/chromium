@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Webview executeScript all-frames test bootstrap
+// summary: Bootstrap embedder script for the webview executeScript browser test, loading a guest and verifying script injection across all frames.
+// ---
+
 config.IS_CHROME_TEST = true;
 // No TestServer.
 config.IS_JS_ONLY_GUEST = true;

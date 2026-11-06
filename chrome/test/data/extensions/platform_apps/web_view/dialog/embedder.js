@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Embedder-side test logic for webview JavaScript dialogs
+// summary: Sets up a webview guest, injects inject_dialog.js, and runs alert, confirm, and prompt dialog tests that report pass or fail via chrome.test messages.
+// ---
+
 var embedder = {};
 embedder.tests = {};
 embedder.baseGuestURL = '';

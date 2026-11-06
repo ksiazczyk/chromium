@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the window.open launcher test app
+summary: Chrome App manifest defining the launcher test app with test.js as its background script.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Webview background page tests
+// summary: JavaScript tests verifying that webview elements load inside background pages and that auth-required requests are cancelled without crashing.
+// ---
+
 var pass = chrome.test.callbackPass;
 
 var WEBVIEW_SRC = "data:text/html,<body>One</body>";

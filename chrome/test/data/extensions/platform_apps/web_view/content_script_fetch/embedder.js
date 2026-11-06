@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Embedder logic for the webview content script fetch test
+// summary: Sets up the webview guest, registers the content script rule, exchanges messages with the guest, and reports test pass or fail.
+// ---
+
 var embedder = {};
 embedder.test = {};
 embedder.baseGuestURL = '';

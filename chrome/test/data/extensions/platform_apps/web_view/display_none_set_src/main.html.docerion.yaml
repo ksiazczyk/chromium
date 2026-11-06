@@ -1,0 +1,4 @@
+# Docerion header of main.html.
+type: test
+title: Test app page with webview container
+summary: HTML page for the display:none webview test app that hosts a webview container and loads main.js.

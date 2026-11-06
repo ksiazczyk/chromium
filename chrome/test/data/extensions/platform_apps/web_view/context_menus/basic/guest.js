@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Guest page script for webview context menus test
+// summary: Guest-side script that inserts an input element so context menus have content and relays postMessage communication with the embedder.
+// ---
+
 var LOG = function(msg) { window.console.log(msg); };
 LOG('Guest script loading.');
 

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the DOM storage isolation test app
+summary: Chrome app manifest declaring the webview permission and main.js as the background script for the test app.

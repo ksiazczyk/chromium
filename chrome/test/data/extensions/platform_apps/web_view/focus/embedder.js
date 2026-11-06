@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebView focus test embedder logic
+// summary: Embedder script that sets up the webview guest, runs the named focus and input method tests, and reports pass or fail to Chrome's test harness.
+// ---
+
 var g_webview = null;
 var embedder = {};
 var seenFocusCount = 0;

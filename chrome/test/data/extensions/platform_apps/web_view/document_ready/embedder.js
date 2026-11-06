@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebView partition attribute test embedder script
+// summary: Runs on DOMContentLoaded to attempt redefining the webview name property, set a persistent partition, and assert both behaviors via chrome.test.
+// ---
+
 document.addEventListener('DOMContentLoaded', function(e) {
   var webview = document.querySelector('webview');
 

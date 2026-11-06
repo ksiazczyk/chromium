@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the restore window state test app
+summary: Platform app manifest that registers test.js as the background script for the window state restore test.

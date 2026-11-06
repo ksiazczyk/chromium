@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Open mismatching target URL via window.open in launcher test
+// summary: Builds a URL to the mismatching target page on the test server, opens it with window.open so it is redirected to the handler app, and signals that the launcher is done.
+// ---
+
 chrome.test.getConfig(function(config) {
   var port = config ? config.testServer.port : '0';
   var href =

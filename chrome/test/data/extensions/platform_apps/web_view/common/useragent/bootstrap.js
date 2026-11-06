@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebView user agent override test bootstrap
+// summary: Browser test bootstrap that embeds a webview, sets and clears user agent overrides, and asserts the guest reports the expected user agent.
+// ---
+
 config.IS_CHROME_TEST = true;
 // No TestServer.
 config.IS_JS_ONLY_GUEST = true;

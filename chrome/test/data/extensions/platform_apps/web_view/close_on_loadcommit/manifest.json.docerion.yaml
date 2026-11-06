@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the webview close on loadcommit test app
+summary: Chrome app manifest granting the webview permission and registering test.js as the background script for the close-on-loadcommit test app.

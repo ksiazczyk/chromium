@@ -2,6 +2,13 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 //
+
+// ---docerion
+// type: test
+// title: Embedder script controlling webview setup and focus verification
+// summary: Sets up the webview, handles test commands such as hide, reset and verify, and reports focus and keyup state via test messages.
+// ---
+
 'use strict';
 
 var isOopif = false;

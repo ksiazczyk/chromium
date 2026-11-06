@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Guest script for the advance focus test
+// summary: Injected guest script that creates two buttons, counts focus events on the first button, and reports them to the embedder.
+// ---
+
 var embedder = null;
 var button1FocusCount = 0;
 

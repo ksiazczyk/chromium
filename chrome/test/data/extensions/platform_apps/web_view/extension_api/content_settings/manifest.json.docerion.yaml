@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the content settings test extension
+summary: Manifest version 2 definition of the test extension, requesting the contentSettings permission and loading the background script.

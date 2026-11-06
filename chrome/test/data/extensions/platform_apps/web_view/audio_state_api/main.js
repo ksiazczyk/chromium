@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Webview audio state API test logic
+// summary: Drives the webview audio test by playing audio in the guest, asserting getAudioState, isAudioMuted, setAudioMuted and audiostatechanged behavior.
+// ---
+
 var audioUrl;
 
 function audioTests() {

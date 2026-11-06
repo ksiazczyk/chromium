@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Guest page script for cookies and downloads
+// summary: Sets a cookie derived from the URL fragment and starts a download when it receives a start-download message.
+// ---
+
 function setupMessageHandler() {
   window.onmessage = function(e) {
     if (e.data.command === 'start-download') {

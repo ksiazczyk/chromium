@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: config
+title: Platform app manifest for webview filesystem test
+summary: Chrome platform app manifest granting the webview permission and defining the partition used by the filesystem shared worker test app.

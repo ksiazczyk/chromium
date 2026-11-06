@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Simple URL handler app manifest
+summary: Manifest for the simple test platform app, registering a URL handler that matches localhost target pages.

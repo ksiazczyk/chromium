@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content script signaling test for web view extension API
+// summary: Content script that logs to the console and signals the embedder that it ran by mutating an element's text and dispatching a bubbling bridge event.
+// ---
+
 window.console.log('Hello world from content_script');
 window.console.log(window.location.href);
 

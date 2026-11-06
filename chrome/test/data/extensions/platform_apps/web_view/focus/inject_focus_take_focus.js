@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Guest script for the take focus test
+// summary: Injected guest script that reports when its input gains focus and provides the input's center coordinates for simulated clicks.
+// ---
+
 var embedder = null;
 
 var LOG = function(msg) {

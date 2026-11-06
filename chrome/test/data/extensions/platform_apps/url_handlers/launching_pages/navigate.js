@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Navigation helper script for URL handler launch tests
+// summary: Shared script that clicks links, submits a form, or calls window.open() to trigger the navigation scenarios used by the URL handler launch test pages.
+// ---
+
 (function() {
   var target_dir = '/extensions/platform_apps/url_handlers/common/';
   var link = document.getElementById('link');

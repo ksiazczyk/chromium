@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Touchpad pinch test app manifest
+summary: Manifest for the touchpad pinch synthetic wheel event test app, declaring the background script that opens the test window.

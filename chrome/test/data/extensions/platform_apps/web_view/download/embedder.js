@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Webview download permission embedder script
+// summary: Creates the webview guest and handles download permission requests by denying, allowing, or ignoring them based on the requested URL.
+// ---
+
 var embedder = {};
 embedder.baseGuestURL = '';
 embedder.guestURL = '';

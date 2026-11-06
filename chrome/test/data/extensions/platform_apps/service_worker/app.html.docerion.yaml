@@ -1,0 +1,4 @@
+# Docerion header of app.html.
+type: test
+title: Platform app service worker test page
+summary: HTML page of the platform app service worker test that loads app.js to run the browser test.

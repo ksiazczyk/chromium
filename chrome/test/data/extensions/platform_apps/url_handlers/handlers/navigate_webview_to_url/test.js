@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background script redirecting the webview to the launch URL
+// summary: Handles app launch, opens main.html, and points the embedded webview at the launched URL to verify no endless redirect loop occurs.
+// ---
+
 chrome.app.runtime.onLaunched.addListener(function (launchData) {
   // Complete correctness of launchData is tested in another test.
   chrome.test.assertNe('undefined', typeof launchData);

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Speech recognition background page test script
+// summary: Chrome test script that starts webkitSpeechRecognition on app launch and asserts a successful start or a transcript matching 'Pictures of the moon' via the fake speech recognition manager.
+// ---
+
 chrome.app.runtime.onLaunched.addListener(function() {
   chrome.test.runTests([
     function testWebkitSpeechRecognition() {

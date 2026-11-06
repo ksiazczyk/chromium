@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Guest message channel and style reporting script
+// summary: Guest-side script that establishes a postMessage channel with the embedder and reports computed style values back for verification.
+// ---
+
 window.console.log('Guest script loading.');
 
 // The window reference of the embedder to send post message reply.

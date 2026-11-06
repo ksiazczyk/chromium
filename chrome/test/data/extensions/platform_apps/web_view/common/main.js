@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebView test app bootstrap loader
+// summary: On page load it reads the test config and injects the per-test-directory bootstrap.js script into the guest, failing the test if loading fails.
+// ---
+
 var startTest = function(testDir) {
   LOG('startTest: ' + testDir);
   // load bootstrap script.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content script signaling execution to the embedder
+// summary: Content script that logs a message and signals the embedder via a bridge element event and text mutation so late listeners can still detect it ran.
+// ---
+
 window.console.log('Hello world from content_script');
 
 // Signal back to the embedder via event and text content change.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Messaging framework for inter-window communication
+// summary: Implements message, handler, and agent classes that route requests between the host app window and guest webviews.
+// ---
+
 // This namespace automates the process of running taks which require
 // communication in between different |window|'s. Communication is through
 // posting "Messaging.Message" objects to different windows. The messages are

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cookie agent logic for the sample page
+// summary: Registers an agent that sets, reads, and clears document cookies when requested by the test manager.
+// ---
+
 function initialize() {
   var messageHandler = Messaging.GetHandler();
   var cookieAgent = new Messaging.Agent('agent_cookie');

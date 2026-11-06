@@ -1,0 +1,4 @@
+# Docerion header of guest.html.
+type: test
+title: WebView clearData test guest page
+summary: Guest HTML page that sets a persistent and a session cookie and reports their values back to the embedder over postMessage.

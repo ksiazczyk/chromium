@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Webview content script allowlist test logic
+// summary: Test script that creates a webview, reloads it to expose potential renderer crashes, and reports TEST_PASSED once the content script has run.
+// ---
+
 // This test makes sure webview properly loads and content script is run.
 onload = function() {
   var contentScriptRan = false;

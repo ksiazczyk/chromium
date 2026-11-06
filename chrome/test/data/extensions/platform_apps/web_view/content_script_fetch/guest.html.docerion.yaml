@@ -1,0 +1,4 @@
+# Docerion header of guest.html.
+type: test
+title: Guest page loaded in the webview
+summary: Minimal guest page that does nothing itself and serves as the target where the injected content script runs.

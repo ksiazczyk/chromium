@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: XHR download script for the url handler test app
+// summary: JavaScript that fetches target.html via XMLHttpRequest and reports success or failure on the page.
+// ---
+
 (function() {
   var href =
       '/extensions/platform_apps/url_handlers/xhr_downloader/target.html';

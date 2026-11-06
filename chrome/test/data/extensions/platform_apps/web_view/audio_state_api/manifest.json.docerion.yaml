@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test extension manifest for webview audio state
+summary: Manifest version 2 app manifest granting the webview permission and registering test.js as the background script for the audio state tests.

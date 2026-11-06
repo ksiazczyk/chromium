@@ -1,0 +1,4 @@
+# Docerion header of main.html.
+type: test
+title: WebView partition attribute test main page
+summary: HTML page for the webview document-ready test that hosts a webview element and loads the embedder test script.

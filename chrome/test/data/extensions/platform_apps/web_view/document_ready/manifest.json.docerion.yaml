@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test app manifest for webview partition attribute check
+summary: Chrome app manifest declaring the webview permission and test.js background script for the partition attribute test.

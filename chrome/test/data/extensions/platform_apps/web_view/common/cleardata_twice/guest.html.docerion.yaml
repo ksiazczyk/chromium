@@ -1,0 +1,4 @@
+# Docerion header of guest.html.
+type: test
+title: WebView clearData test guest page
+summary: Simple guest HTML page for the clearData test that listens for postMessages and establishes a reply channel with the embedder.
