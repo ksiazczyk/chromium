@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CDM factory header
+// summary: Defines the CdmFactory interface, CreateCdmStatus enum, and creation callback used to build content decryption modules.
+// ---
+
 #ifndef MEDIA_BASE_CDM_FACTORY_H_
 #define MEDIA_BASE_CDM_FACTORY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DJB2 hash unit test
+// summary: Verifies DJB2Hash results for an empty buffer and a small test array against expected hash values.
+// ---
+
 #include "media/base/djb2.h"
 
 #include <stdint.h>

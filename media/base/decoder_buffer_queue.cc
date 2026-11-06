@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DecoderBufferQueue implementation
+// summary: Implements a queue of DecoderBuffers that tracks memory usage, in-order timestamps and the total duration of buffered encoded data.
+// ---
+
 #include "media/base/decoder_buffer_queue.h"
 
 #include "base/logging.h"

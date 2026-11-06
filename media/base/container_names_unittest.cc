@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Container name detection unit tests
+// summary: Unit tests verifying DetermineContainer correctly identifies container formats from sample buffers, including small buffers and edge-case inputs.
+// ---
+
 #include "media/base/container_names.h"
 
 #include <stdint.h>

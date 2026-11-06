@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioBuffer implementation
+// summary: Implements the ref-counted AudioBuffer and its AudioBufferMemoryPool for copying, holding and reading audio data.
+// ---
+
 #include "media/base/audio_buffer.h"
 
 #include <array>

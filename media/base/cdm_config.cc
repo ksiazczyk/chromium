@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CDM config implementation
+// summary: Implements stream output of CdmConfig fields such as key system and hardware-secure codec flags for logging.
+// ---
+
 #include "media/base/cdm_config.h"
 
 #include <ostream>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DecoderBuffer implementation
+// summary: Implements DecoderBuffer construction, copying, shared memory mapping and external memory adapters, plus side data and end-of-stream handling.
+// ---
+
 #include "media/base/decoder_buffer.h"
 
 #include <sstream>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Callback timeout helpers
+// summary: Header providing wrappers that run a timeout handler or invoke the original callback with default arguments when it does not run before a deadline.
+// ---
+
 #ifndef MEDIA_BASE_CALLBACK_TIMEOUT_HELPERS_H_
 #define MEDIA_BASE_CALLBACK_TIMEOUT_HELPERS_H_
 

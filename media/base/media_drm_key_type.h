@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaDrmKeyType enum
+// summary: Defines the MediaDrmKeyType enum mirroring the Android MediaDrm KEY_TYPE constants for streaming, offline and release keys.
+// ---
+
 #ifndef MEDIA_BASE_MEDIA_DRM_KEY_TYPE_H_
 #define MEDIA_BASE_MEDIA_DRM_KEY_TYPE_H_
 

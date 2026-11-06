@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AudioLimiter performance benchmark
+// summary: Performance benchmark measuring how much audio data per millisecond the AudioLimiter can process with and without gain limiting.
+// ---
+
 #include "media/base/audio_limiter.h"
 
 #include <algorithm>

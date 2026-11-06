@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeySystemInfo interface header
+// summary: Declares the KeySystemInfo interface for querying registered key system properties such as supported codecs, init data types, and EME config rules.
+// ---
+
 #ifndef MEDIA_BASE_KEY_SYSTEM_INFO_H_
 #define MEDIA_BASE_KEY_SYSTEM_INFO_H_
 

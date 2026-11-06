@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CdmCallbackPromise
+// summary: Header defining CdmCallbackPromise, a CDM promise template that resolves or rejects via caller-supplied callbacks.
+// ---
+
 #ifndef MEDIA_BASE_CDM_CALLBACK_PROMISE_H_
 #define MEDIA_BASE_CDM_CALLBACK_PROMISE_H_
 

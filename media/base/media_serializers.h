@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media serializers for base::Value conversion
+// summary: Provides template specializations that serialize media types such as configs, statuses, and vectors into base::Value for logging.
+// ---
+
 #ifndef MEDIA_BASE_MEDIA_SERIALIZERS_H_
 #define MEDIA_BASE_MEDIA_SERIALIZERS_H_
 

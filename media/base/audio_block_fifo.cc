@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioBlockFifo implementation
+// summary: Implements the block-based audio FIFO, including push, push-silence, consume, clear and capacity increase over AudioBus blocks.
+// ---
+
 #include "media/base/audio_block_fifo.h"
 
 #include <stdint.h>

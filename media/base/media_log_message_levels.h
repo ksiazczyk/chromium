@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media log message level enum header
+// summary: Declares the MediaLogMessageLevel enum (error, warning, info, debug) and a function to convert levels to strings for media player logging.
+// ---
+
 #ifndef MEDIA_BASE_MEDIA_LOG_MESSAGE_LEVELS_H_
 #define MEDIA_BASE_MEDIA_LOG_MESSAGE_LEVELS_H_
 

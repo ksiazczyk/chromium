@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Encoder status readable names
+// summary: Maps EncoderStatus error codes to human-readable messages covering encoder, GL, and D3D12 failures.
+// ---
+
 #include "media/base/encoder_status.h"
 
 #include "base/notreached.h"

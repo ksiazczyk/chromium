@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataSource media data interface
+// summary: Defines the DataSource and DataSourceInfo interfaces for reading media data with preload, streaming, origin taint, redirect and bitrate reporting.
+// ---
+
 #ifndef MEDIA_BASE_DATA_SOURCE_H_
 #define MEDIA_BASE_DATA_SOURCE_H_
 

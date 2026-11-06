@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BitReader implementation
+// summary: Implements BitReader, which reads, skips, and accounts for bits in a byte stream using 64-bit registers with refill logic.
+// ---
+
 #include "media/base/bit_reader.h"
 
 #include "base/bits.h"

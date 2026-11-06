@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android demuxer memory limits
+// summary: Selects demuxer audio and video memory limits on Android based on low-end device status and total physical memory.
+// ---
+
 #include "media/base/demuxer_memory_limit.h"
 
 #include "base/android/android_info.h"

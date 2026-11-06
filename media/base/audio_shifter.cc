@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioShifter implementation
+// summary: Implements AudioShifter, which buffers audio between a push-based source and a pull-based sink and dynamically resamples to compensate for clock drift.
+// ---
+
 #include "media/base/audio_shifter.h"
 
 #include <algorithm>

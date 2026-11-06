@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DJB2 hash header
+// summary: Declares DJB2Hash and the default seed, documenting single-shot and incremental hashing usage for table lookups and realtime applications.
+// ---
+
 #ifndef MEDIA_BASE_DJB2_H_
 #define MEDIA_BASE_DJB2_H_
 

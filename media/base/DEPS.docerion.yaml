@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for media/base
+summary: Defines allowed include directories for media/base, permitting ash constants and the Widevine CDM common header.

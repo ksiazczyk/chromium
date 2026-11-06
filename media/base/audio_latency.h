@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioLatency class header
+// summary: Declares the AudioLatency class with latency type categories and static methods for computing audio buffer sizes on each platform.
+// ---
+
 #ifndef MEDIA_BASE_AUDIO_LATENCY_H_
 #define MEDIA_BASE_AUDIO_LATENCY_H_
 

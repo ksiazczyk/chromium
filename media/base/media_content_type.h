@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaContentType enum for MediaSession
+// summary: Defines player content types used by MediaSession for audio focus handling, plus a helper that derives the type from a player's duration.
+// ---
+
 #ifndef MEDIA_BASE_MEDIA_CONTENT_TYPE_H_
 #define MEDIA_BASE_MEDIA_CONTENT_TYPE_H_
 

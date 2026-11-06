@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bitrate class header
+// summary: Declares the Bitrate class with constant, variable, and external bitrate modes and safe uint32_t factory methods.
+// ---
+
 #ifndef MEDIA_BASE_BITRATE_H_
 #define MEDIA_BASE_BITRATE_H_
 

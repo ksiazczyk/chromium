@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaDrmStorage interface
+// summary: Declares the MediaDrmStorage interface for storing and retrieving persistent Media DRM data such as origin IDs and persistent license sessions.
+// ---
+
 #ifndef MEDIA_BASE_MEDIA_DRM_STORAGE_H_
 #define MEDIA_BASE_MEDIA_DRM_STORAGE_H_
 

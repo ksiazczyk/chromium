@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioRenderer interface
+// summary: Declares the AudioRenderer interface for initializing, flushing, and controlling audio playback of demuxer streams, including volume and latency settings.
+// ---
+
 #ifndef MEDIA_BASE_AUDIO_RENDERER_H_
 #define MEDIA_BASE_AUDIO_RENDERER_H_
 

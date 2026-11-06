@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedImageFormat and video pixel format conversions
+// summary: Implements bidirectional conversion between viz SharedImageFormat and media VideoPixelFormat values, logging a warning and returning nullopt for unsupported formats.
+// ---
+
 #include "media/base/format_utils.h"
 #include "base/logging.h"
 

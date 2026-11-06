@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioBufferConverter header
+// summary: Declares AudioBufferConverter, which converts AudioBuffers of any format to a common output format using an AudioConverter.
+// ---
+
 #ifndef MEDIA_BASE_AUDIO_BUFFER_CONVERTER_H_
 #define MEDIA_BASE_AUDIO_BUFFER_CONVERTER_H_
 

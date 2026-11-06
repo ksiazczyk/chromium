@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChannelMixingMatrix implementation
+// summary: Builds the transformation matrix mapping input channels to output channels, validating layouts and handling special cases like 5.1 back channel upmixing.
+// ---
+
 #include "media/base/channel_mixing_matrix.h"
 
 #include <stddef.h>

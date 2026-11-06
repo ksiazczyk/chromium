@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Key system name helper unit tests
+// summary: Unit tests verifying IsClearKey, IsSubKeySystemOf and IsExternalClearKey behavior across various key system strings.
+// ---
+
 #include "media/base/key_system_names.h"
 
 #include "media/cdm/clear_key_cdm_common.h"

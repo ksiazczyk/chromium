@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media log type enforcement macros header
+// summary: Provides templates and macros that bind media log properties and events to their allowed value types and serialization behavior.
+// ---
+
 #ifndef MEDIA_BASE_MEDIA_LOG_TYPE_ENFORCEMENT_H_
 #define MEDIA_BASE_MEDIA_LOG_TYPE_ENFORCEMENT_H_
 

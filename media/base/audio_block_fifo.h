@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioBlockFifo block-based audio FIFO
+// summary: Declares a thread-unsafe first-in first-out container of AudioBus blocks that deinterleaves incoming audio data.
+// ---
+
 #ifndef MEDIA_BASE_AUDIO_BLOCK_FIFO_H_
 #define MEDIA_BASE_AUDIO_BLOCK_FIFO_H_
 

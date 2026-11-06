@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media content type duration mapping
+// summary: Maps a media duration to a persistent or transient MediaContentType using a five-second threshold, treating zero duration as persistent.
+// ---
+
 #include "media/base/media_content_type.h"
 
 #include "base/time/time.h"

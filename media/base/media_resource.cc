@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaResource implementation
+// summary: Implements the MediaResource base class, including the GetFirstStream helper that finds the first demuxer stream of a given type.
+// ---
+
 #include "media/base/media_resource.h"
 
 #include "base/no_destructor.h"

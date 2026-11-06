@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChannelLayout enum declarations
+// summary: Declares the ChannelLayout enum listing audio channel orderings such as mono, stereo, 5.1, and 7.1, with values logged to UMA.
+// ---
+
 #ifndef MEDIA_BASE_CHANNEL_LAYOUT_H_
 #define MEDIA_BASE_CHANNEL_LAYOUT_H_
 

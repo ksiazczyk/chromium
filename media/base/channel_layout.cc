@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Channel layout implementation
+// summary: Implements audio channel layout helpers, including the FFmpeg-based channel ordering table for supported layouts such as mono, stereo, and surround.
+// ---
+
 #include "media/base/channel_layout.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CdmCallbackPromise implementation
+// summary: Implements CdmCallbackPromise, settling CDM promises through stored resolve and reject callbacks and rejecting on destruction if unsettled.
+// ---
+
 #include "media/base/cdm_callback_promise.h"
 
 #include "base/check.h"

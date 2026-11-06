@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Build-time DVLOG override header
+// summary: Overrides DVLOG macros at build time when logging override is enabled, mapping them to VLOG, LOG(INFO), or no-ops per platform.
+// ---
+
 #ifndef MEDIA_BASE_LOGGING_OVERRIDE_IF_ENABLED_H_
 #define MEDIA_BASE_LOGGING_OVERRIDE_IF_ENABLED_H_
 

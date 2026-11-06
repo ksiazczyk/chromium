@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioDiscardHelper implementation
+// summary: Implements timestamp tracking and discard padding handling for decoded audio buffers, including delayed discard for Vorbis.
+// ---
+
 #include "media/base/audio_discard_helper.h"
 
 #include <algorithm>

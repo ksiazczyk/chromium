@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Frame buffer pool unit tests
+// summary: Unit tests covering basic allocation and release, forced allocation errors, deferred destruction of stale buffers, and zero-initialized memory.
+// ---
+
 #include "media/base/frame_buffer_pool.h"
 
 #include <algorithm>

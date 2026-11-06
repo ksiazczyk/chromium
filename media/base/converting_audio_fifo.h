@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Converting audio FIFO interface
+// summary: Declares ConvertingAudioFifo, which buffers input audio, converts it to the requested output parameters, and exposes converted output via peek and pop.
+// ---
+
 #ifndef MEDIA_BASE_CONVERTING_AUDIO_FIFO_H_
 #define MEDIA_BASE_CONVERTING_AUDIO_FIFO_H_
 

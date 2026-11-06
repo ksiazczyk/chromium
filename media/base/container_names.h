@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media container name enum and detection API
+// summary: Declares the MediaContainerName enum of supported container formats and the DetermineContainer function that detects a container type from a byte buffer.
+// ---
+
 #ifndef MEDIA_BASE_CONTAINER_NAMES_H_
 #define MEDIA_BASE_CONTAINER_NAMES_H_
 

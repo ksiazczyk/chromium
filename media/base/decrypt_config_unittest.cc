@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DecryptConfig unit tests
+// summary: Tests construction of CENC and CBCS decrypt configurations, subsample entries, encryption patterns, and config matching.
+// ---
+
 #include "media/base/decrypt_config.h"
 
 #include <sstream>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CaptureVersion unit tests
+// summary: Unit tests verifying CaptureVersion string output and comparison operators across combinations of source and sub_capture versions.
+// ---
+
 #include "media/base/capture_version.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

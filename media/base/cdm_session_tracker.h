@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CdmSessionTracker declarations
+// summary: Declares CdmSessionTracker, which tracks CDM session IDs and closes remaining sessions via a session-closed callback.
+// ---
+
 #ifndef MEDIA_BASE_CDM_SESSION_TRACKER_H_
 #define MEDIA_BASE_CDM_SESSION_TRACKER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IntervalMap container header
+// summary: Header defining IntervalMap, a template mapping key ranges to values with optimized interval set and increment operations, plus its const iterator.
+// ---
+
 #ifndef MEDIA_BASE_INTERVAL_MAP_H_
 #define MEDIA_BASE_INTERVAL_MAP_H_
 

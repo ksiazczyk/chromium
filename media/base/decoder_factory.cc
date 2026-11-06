@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DecoderFactory base implementation
+// summary: Provides default empty implementations of the DecoderFactory methods for creating audio and video decoders.
+// ---
+
 #include "media/base/decoder_factory.h"
 
 #include "base/task/sequenced_task_runner.h"

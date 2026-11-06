@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media log record struct header
+// summary: Defines the MediaLogRecord struct carrying a player id, record type, parameters, and timestamp for media player log entries.
+// ---
+
 #ifndef MEDIA_BASE_MEDIA_LOG_RECORD_H_
 #define MEDIA_BASE_MEDIA_LOG_RECORD_H_
 

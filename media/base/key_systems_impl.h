@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeySystemsImpl class declaration
+// summary: Declares KeySystemsImpl, the concrete KeySystems implementation that tracks registered key system info and pending capability queries.
+// ---
+
 #ifndef MEDIA_BASE_KEY_SYSTEMS_IMPL_H_
 #define MEDIA_BASE_KEY_SYSTEMS_IMPL_H_
 

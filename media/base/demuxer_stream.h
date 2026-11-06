@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DemuxerStream interface header
+// summary: Defines the DemuxerStream abstract interface for reading media buffers, with stream types, read statuses, decoder config accessors, and StreamLiveness.
+// ---
+
 #ifndef MEDIA_BASE_DEMUXER_STREAM_H_
 #define MEDIA_BASE_DEMUXER_STREAM_H_
 

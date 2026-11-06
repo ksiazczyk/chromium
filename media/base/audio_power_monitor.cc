@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio power monitor implementation
+// summary: Implements AudioPowerMonitor, which scans audio buffers to compute an exponentially weighted average power in dBFS and detect clipping.
+// ---
+
 #include "media/base/audio_power_monitor.h"
 
 #include <algorithm>

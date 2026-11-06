@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio point header
+// summary: Declares the media Point alias over gfx::Point3F and the exported PointsToString helper for rendering point lists as text.
+// ---
+
 #ifndef MEDIA_BASE_AUDIO_POINT_H_
 #define MEDIA_BASE_AUDIO_POINT_H_
 

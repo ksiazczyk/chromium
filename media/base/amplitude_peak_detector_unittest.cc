@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the amplitude peak detector
+// summary: GTest suite covering peak detection for silent, quiet, and loud samples across channels, sample positions, and sample formats.
+// ---
+
 
 #include "media/base/amplitude_peak_detector.h"
 

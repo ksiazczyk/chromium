@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CallbackRegistry
+// summary: Thread-safe header defining CallbackRegistry and CallbackRegistration for registering, unregistering and notifying repeating callbacks across threads.
+// ---
+
 #ifndef MEDIA_BASE_CALLBACK_REGISTRY_H_
 #define MEDIA_BASE_CALLBACK_REGISTRY_H_
 

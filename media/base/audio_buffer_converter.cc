@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioBufferConverter implementation
+// summary: Implements conversion of AudioBuffer input to target audio parameters, handling resampling, flushing and config changes.
+// ---
+
 #include "media/base/audio_buffer_converter.h"
 
 #include <algorithm>

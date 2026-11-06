@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Demuxer memory limits
+// summary: Declares functions and per-platform constants for maximum audio and video data a demuxer may keep in memory.
+// ---
+
 #ifndef MEDIA_BASE_DEMUXER_MEMORY_LIMIT_H_
 #define MEDIA_BASE_DEMUXER_MEMORY_LIMIT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeySystemCapability implementation
+// summary: Implements KeySystemCapability, which holds software and hardware CDM capability or query status for a key system and detects pending queries.
+// ---
+
 #include "media/base/key_system_capability.h"
 
 #include "media/base/cdm_capability.h"

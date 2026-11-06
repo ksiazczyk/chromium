@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChannelMixer class header
+// summary: Declares ChannelMixer, which converts audio between channel layouts using a conversion matrix with a fast path for pure channel remapping.
+// ---
+
 #ifndef MEDIA_BASE_CHANNEL_MIXER_H_
 #define MEDIA_BASE_CHANNEL_MIXER_H_
 

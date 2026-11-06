@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EncryptionScheme enum header
+// summary: Declares the EncryptionScheme enum with unencrypted, CENC AES-CTR and CBCS AES-CBC modes as defined by ISO/IEC 23001-7:2016.
+// ---
+
 #ifndef MEDIA_BASE_ENCRYPTION_SCHEME_H_
 #define MEDIA_BASE_ENCRYPTION_SCHEME_H_
 

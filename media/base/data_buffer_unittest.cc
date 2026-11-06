@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DataBuffer unit tests
+// summary: Unit tests covering DataBuffer construction with zero and non-zero capacity, copying, end-of-stream buffers, timestamps, durations and read/write behavior.
+// ---
+
 #include "media/base/data_buffer.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AudioConverter unit tests
+// summary: Unit tests verifying AudioConverter mixes and resamples multiple audio inputs across sample rates and channel layouts.
+// ---
+
 #include "media/base/audio_converter.h"
 
 #include <stddef.h>

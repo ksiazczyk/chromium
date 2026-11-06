@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BitstreamBuffer class header
+// summary: Declares BitstreamBuffer for passing encoded bitstream data in shared memory with offsets, timestamps, and decryption settings.
+// ---
+
 #ifndef MEDIA_BASE_BITSTREAM_BUFFER_H_
 #define MEDIA_BASE_BITSTREAM_BUFFER_H_
 

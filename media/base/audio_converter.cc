@@ -8,6 +8,12 @@
 // Delay estimates are provided to InputCallbacks based on the frame delay
 // information reported via the resampler and FIFO units.
 
+// ---docerion
+// type: source
+// title: AudioConverter implementation
+// summary: Implements audio conversion between formats using MultiChannelSincResampler, ChannelMixer, and AudioPullFifo buffering.
+// ---
+
 #include "media/base/audio_converter.h"
 
 #include <algorithm>

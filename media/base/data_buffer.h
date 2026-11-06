@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataBuffer media buffer class declaration
+// summary: Declares the ref-counted DataBuffer class that owns a fixed-capacity byte buffer with timestamp, duration, size and end-of-stream handling for media data.
+// ---
+
 #ifndef MEDIA_BASE_DATA_BUFFER_H_
 #define MEDIA_BASE_DATA_BUFFER_H_
 

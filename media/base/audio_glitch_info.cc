@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio glitch info implementation
+// summary: Implements AudioGlitchInfo with string formatting, trace events, UMA histogram logging, and an accumulator for glitch statistics.
+// ---
+
 #include "media/base/audio_glitch_info.h"
 
 #include <utility>

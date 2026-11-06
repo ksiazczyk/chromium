@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioTimestampHelper implementation
+// summary: Implements AudioTimestampHelper, which converts accumulated audio frame counts into timestamps and durations relative to a base timestamp.
+// ---
+
 #include "media/base/audio_timestamp_helper.h"
 
 #include <cmath>

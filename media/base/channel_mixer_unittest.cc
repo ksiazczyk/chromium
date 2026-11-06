@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChannelMixer unit tests
+// summary: Tests that all possible channel layout conversions can be constructed and that mixed output channels are scaled correctly.
+// ---
+
 #include "media/base/channel_mixer.h"
 
 #include <algorithm>

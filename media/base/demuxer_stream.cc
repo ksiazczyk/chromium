@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DemuxerStream implementation
+// summary: Implements helper functions and default behavior for the DemuxerStream interface, including stream type, status, and liveness name lookups.
+// ---
+
 #include "media/base/demuxer_stream.h"
 
 namespace media {

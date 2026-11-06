@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeAudioRendererSink implementation
+// summary: Implements a fake AudioRendererSink with a state machine that forwards render calls to the configured callback for testing.
+// ---
+
 #include "media/base/fake_audio_renderer_sink.h"
 
 #include <array>

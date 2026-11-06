@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio power monitor class declaration
+// summary: Declares AudioPowerMonitor, a thread-safe signal power meter that reports dBFS levels and clip status from scanned AudioBus data.
+// ---
+
 #ifndef MEDIA_BASE_AUDIO_POWER_MONITOR_H_
 #define MEDIA_BASE_AUDIO_POWER_MONITOR_H_
 

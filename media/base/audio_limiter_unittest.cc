@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AudioLimiter unit tests
+// summary: Unit tests covering AudioLimiter passthrough behavior, gain limiting, partial buffer processing and flush semantics.
+// ---
+
 #include "media/base/audio_limiter.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio hash implementation
+// summary: Implements AudioHash, computing a bucketed running sum of AudioBus samples with sine mixing for equivalence comparison.
+// ---
+
 
 #include "media/base/audio_hash.h"
 

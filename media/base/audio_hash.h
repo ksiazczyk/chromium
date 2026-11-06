@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio hash class declaration
+// summary: Declares AudioHash, a tolerant running hash of AudioBus data designed for comparing audio streams within a dBFS threshold.
+// ---
+
 #ifndef MEDIA_BASE_AUDIO_HASH_H_
 #define MEDIA_BASE_AUDIO_HASH_H_
 

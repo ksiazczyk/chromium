@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioLimiter class header
+// summary: Declares AudioLimiter, a look-ahead limiter that clamps output samples to the [-1.0, 1.0] range with gain reduction linked across channels.
+// ---
+
 #ifndef MEDIA_BASE_AUDIO_LIMITER_H_
 #define MEDIA_BASE_AUDIO_LIMITER_H_
 

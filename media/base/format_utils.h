@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Format conversion utility declarations
+// summary: Declares exported functions that convert between viz SharedImageFormat and media VideoPixelFormat.
+// ---
+
 #ifndef MEDIA_BASE_FORMAT_UTILS_H_
 #define MEDIA_BASE_FORMAT_UTILS_H_
 

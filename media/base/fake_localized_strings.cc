@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake localized strings provider
+// summary: Provides fake media localized strings such as audio device names so tests get non-empty resource strings.
+// ---
+
 #include "base/strings/utf_string_conversions.h"
 #include "media/base/localized_strings.h"
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CaptureVersion implementation
+// summary: Implements CaptureVersion::ToString, formatting the source and sub_capture version numbers that identify the state of a capture session.
+// ---
+
 #include "media/base/capture_version.h"
 
 #include "base/strings/stringprintf.h"

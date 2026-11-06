@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ColorPlaneLayout class header
+// summary: Declares ColorPlaneLayout, which encapsulates a color plane's memory layout as stride, offset and size in bytes.
+// ---
+
 #ifndef MEDIA_BASE_COLOR_PLANE_LAYOUT_H_
 #define MEDIA_BASE_COLOR_PLANE_LAYOUT_H_
 

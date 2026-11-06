@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioDecoder interface
+// summary: Defines the abstract AudioDecoder base class with Initialize, Decode, and Reset callbacks for decoding audio buffers.
+// ---
+
 #ifndef MEDIA_BASE_AUDIO_DECODER_H_
 #define MEDIA_BASE_AUDIO_DECODER_H_
 

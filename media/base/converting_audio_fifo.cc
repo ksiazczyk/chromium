@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Converting audio FIFO implementation
+// summary: Implements a FIFO that uses AudioConverter to convert pushed audio buses into an output format, with bus pooling, buffered duration tracking, and flush modes.
+// ---
+
 #include "media/base/converting_audio_fifo.h"
 
 #include <memory>

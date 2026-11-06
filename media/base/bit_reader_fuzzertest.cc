@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BitReader fuzzer entry point
+// summary: LibFuzzer entry point that drives BitReader with random read and skip operations to fuzz its behavior on arbitrary input.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

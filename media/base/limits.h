@@ -4,6 +4,12 @@
 
 // Contains limit definition constants for the media subsystem.
 
+// ---docerion
+// type: source
+// title: Media subsystem limits
+// summary: Defines constants for media limits such as maximum video dimensions, canvas size, sample rates, channel counts and EME parameter lengths.
+// ---
+
 #ifndef MEDIA_BASE_LIMITS_H_
 #define MEDIA_BASE_LIMITS_H_
 

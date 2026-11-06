@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Converting audio FIFO unit tests
+// summary: Parameterized unit tests covering ConvertingAudioFifo construction, push, flush, and conversion across channel, sample rate, and buffer size combinations.
+// ---
+
 #include "media/base/converting_audio_fifo.h"
 
 #include <algorithm>

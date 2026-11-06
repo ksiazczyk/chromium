@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Audio FIFO unit tests
+// summary: Unit tests verifying AudioFifo construction, push, consume with offsets, clearing, and frame counting behavior.
+// ---
+
 #include "media/base/audio_fifo.h"
 
 #include <algorithm>

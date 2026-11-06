@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default demuxer memory limits
+// summary: Returns default or low demuxer audio and video memory limits depending on whether the device is low-end.
+// ---
+
 #include "media/base/demuxer_memory_limit.h"
 
 #include "base/system/sys_info.h"

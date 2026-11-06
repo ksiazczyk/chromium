@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CdmPromiseAdapter implementation
+// summary: Implements CdmPromiseAdapter, which maps CDM promises to integer IDs for IPC and JNI and resolves, rejects, or clears outstanding promises with tracing.
+// ---
+
 #include "media/base/cdm_promise_adapter.h"
 
 #include <utility>

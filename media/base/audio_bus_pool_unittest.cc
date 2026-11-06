@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AudioBusPool unit tests
+// summary: Unit tests covering AudioBusPool construction, LIFO reuse of buses, preallocation counts, and max capacity behavior.
+// ---
+
 #include "media/base/audio_bus_pool.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media log property key to string conversion
+// summary: Implements MediaLogPropertyKeyToString, mapping each MediaLogProperty enum value such as resolution, bitrate, and decoder names to its string form.
+// ---
+
 #include "media/base/media_log_properties.h"
 
 #include <string>

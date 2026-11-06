@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Frame rate estimator implementation
+// summary: Implements a bucketed frame rate estimator that requires a stable window of frame duration samples before reporting an FPS value.
+// ---
+
 #include "media/base/frame_rate_estimator.h"
 
 #include <array>

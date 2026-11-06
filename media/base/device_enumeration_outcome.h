@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device enumeration outcome enum
+// summary: Defines an enum and helper for logging audio and video device enumeration outcomes, with stable values persisted to logs.
+// ---
+
 #ifndef MEDIA_BASE_DEVICE_ENUMERATION_OUTCOME_H_
 #define MEDIA_BASE_DEVICE_ENUMERATION_OUTCOME_H_
 

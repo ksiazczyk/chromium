@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaResource interface
+// summary: Defines the abstract MediaResource interface for retrieving media resources as collections of DemuxerStream objects.
+// ---
+
 #ifndef MEDIA_BASE_MEDIA_RESOURCE_H_
 #define MEDIA_BASE_MEDIA_RESOURCE_H_
 

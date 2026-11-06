@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CallbackHolder unit tests
+// summary: Unit tests for CallbackHolder verifying that callbacks set before or after a hold are run immediately or deferred until the held callback is released.
+// ---
+
 #include "media/base/callback_holder.h"
 
 #include "base/functional/bind.h"

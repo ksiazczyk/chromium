@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bitrate unit tests
+// summary: Unit tests verifying the string output of Bitrate for constant and variable bitrate modes.
+// ---
+
 #include "media/base/bitrate.h"
 
 #include <string>

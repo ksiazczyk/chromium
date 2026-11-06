@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DecryptConfig interface
+// summary: Declares DecryptConfig holding the key ID, initialization vector, subsample entries, and encryption pattern a decryptor needs to decrypt a media sample.
+// ---
+
 #ifndef MEDIA_BASE_DECRYPT_CONFIG_H_
 #define MEDIA_BASE_DECRYPT_CONFIG_H_
 

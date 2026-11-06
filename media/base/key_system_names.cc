@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Key system name helper functions
+// summary: Implements helpers that identify Clear Key, External Clear Key and sub key systems by name in the Chromium media stack.
+// ---
+
 #include "media/base/key_system_names.h"
 
 #include <string_view>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Libvpx thread wrapper implementation
+// summary: Initializes Media's libvpx worker interface by adapting the shared codec worker implementation to vpx_thread.h.
+// ---
+
 #include "media/base/libvpx_thread_wrapper.h"
 
 #include "media/base/codec_worker_impl.h"

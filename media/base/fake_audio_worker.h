@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeAudioWorker header
+// summary: Declares a fake audio worker that invokes a provided callback at regular intervals like a real audio consumer or producer would.
+// ---
+
 #ifndef MEDIA_BASE_FAKE_AUDIO_WORKER_H_
 #define MEDIA_BASE_FAKE_AUDIO_WORKER_H_
 

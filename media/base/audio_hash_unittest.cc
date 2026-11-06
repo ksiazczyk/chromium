@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Audio hash unit tests
+// summary: Unit tests verifying that AudioHash is stable for identical data and sensitive to sample, channel, and bus ordering.
+// ---
+
 #include "media/base/audio_hash.h"
 
 #include <memory>

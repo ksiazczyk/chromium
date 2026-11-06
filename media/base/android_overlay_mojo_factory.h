@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android overlay Mojo factory callback
+// summary: Declares the AndroidOverlayMojoFactoryCB callback type for creating Android overlays through a Mojo factory.
+// ---
+
 #ifndef MEDIA_BASE_ANDROID_OVERLAY_MOJO_FACTORY_H_
 #define MEDIA_BASE_ANDROID_OVERLAY_MOJO_FACTORY_H_
 

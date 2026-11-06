@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Localized strings provider
+// summary: Implements the media localized string hook, returning UTF-8 and UTF-16 strings through a settable provider function.
+// ---
+
 #include "media/base/localized_strings.h"
 
 #include "base/strings/utf_string_conversions.h"

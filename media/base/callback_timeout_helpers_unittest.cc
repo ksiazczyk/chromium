@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Callback timeout helpers unit tests
+// summary: Unit tests for the callback timeout wrappers using mock time to verify timeout handler and default invoke behavior on run, timeout and destruction.
+// ---
+
 #include "media/base/callback_timeout_helpers.h"
 
 #include "base/test/mock_callback.h"

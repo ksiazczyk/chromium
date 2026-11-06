@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaLog implementation
+// summary: Implements the MediaLog class that records media events, messages, properties and errors and forwards them to a parent log for the media-internals viewer.
+// ---
+
 #include "media/base/media_log.h"
 
 #include <utility>

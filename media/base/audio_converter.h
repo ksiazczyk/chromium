@@ -15,6 +15,12 @@
 // and channel down mixing are done prior to resampling.  Likewise, channel up
 // mixing is performed after resampling.
 
+// ---docerion
+// type: source
+// title: AudioConverter header
+// summary: Declares AudioConverter, which mixes, resamples, and buffers audio data between two sets of AudioParameters.
+// ---
+
 #ifndef MEDIA_BASE_AUDIO_CONVERTER_H_
 #define MEDIA_BASE_AUDIO_CONVERTER_H_
 

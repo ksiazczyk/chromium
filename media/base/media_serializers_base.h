@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base media serializer templates
+// summary: Defines the generic MediaSerializer template, string handling, and the MediaSerialize helper used to convert values to base::Value.
+// ---
+
 #ifndef MEDIA_BASE_MEDIA_SERIALIZERS_BASE_H_
 #define MEDIA_BASE_MEDIA_SERIALIZERS_BASE_H_
 

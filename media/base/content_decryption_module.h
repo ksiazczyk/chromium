@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content decryption module interface
+// summary: Defines the ContentDecryptionModule interface representing the CDM in the Encrypted Media Extensions spec, with session types, message types, and HDCP versions.
+// ---
+
 #ifndef MEDIA_BASE_CONTENT_DECRYPTION_MODULE_H_
 #define MEDIA_BASE_CONTENT_DECRYPTION_MODULE_H_
 

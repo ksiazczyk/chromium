@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioDecoderConfig class declaration
+// summary: Declares AudioDecoderConfig holding codec, channel layout, sample format, encryption, and extra data for audio decoders.
+// ---
+
 #ifndef MEDIA_BASE_AUDIO_DECODER_CONFIG_H_
 #define MEDIA_BASE_AUDIO_DECODER_CONFIG_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data buffer implementation
+// summary: Implements DataBuffer, a ref-counted byte buffer for media data supporting copies, appends, and end-of-stream buffer creation.
+// ---
+
 #include "media/base/data_buffer.h"
 
 #include <utility>

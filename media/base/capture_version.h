@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CaptureVersion
+// summary: Header defining CaptureVersion, which orders capture source changes and track mutations such as cropTo during screen sharing.
+// ---
+
 #ifndef MEDIA_BASE_CAPTURE_VERSION_H_
 #define MEDIA_BASE_CAPTURE_VERSION_H_
 

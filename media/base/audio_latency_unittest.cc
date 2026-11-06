@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AudioLatency unit tests
+// summary: Unit tests verifying AudioLatency buffer size calculations across platforms, sample rates and hardware buffer constraints.
+// ---
+
 #include "media/base/audio_latency.h"
 
 #include <stdint.h>

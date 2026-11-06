@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CDM initialized promise header
+// summary: Declares CdmInitializedPromise, which holds a content decryption module until initialization completes.
+// ---
+
 #ifndef MEDIA_BASE_CDM_INITIALIZED_PROMISE_H_
 #define MEDIA_BASE_CDM_INITIALIZED_PROMISE_H_
 

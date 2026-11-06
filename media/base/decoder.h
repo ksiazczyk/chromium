@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Decoder interface and decoder type enums
+// summary: Declares audio and video decoder type enums used for UKM reporting, decoder name helpers and the base Decoder interface with platform and decryption queries.
+// ---
+
 #ifndef MEDIA_BASE_DECODER_H_
 #define MEDIA_BASE_DECODER_H_
 

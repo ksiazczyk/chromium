@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioCodecs header
+// summary: Defines the AudioCodec and AudioCodecProfile enums plus helpers to convert codec IDs to and from codec and profile names.
+// ---
+
 #ifndef MEDIA_BASE_AUDIO_CODECS_H_
 #define MEDIA_BASE_AUDIO_CODECS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Encoder status codes
+// summary: Defines the EncoderStatus error code enum for encoder failures, with values persisted to logs and kept consistent with histograms.
+// ---
+
 #ifndef MEDIA_BASE_ENCODER_STATUS_H_
 #define MEDIA_BASE_ENCODER_STATUS_H_
 

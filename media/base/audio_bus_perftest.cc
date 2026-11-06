@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AudioBus performance tests
+// summary: Benchmarks AudioBus interleaved conversion and copy performance using the perf test reporter.
+// ---
+
 #include "media/base/audio_bus.h"
 
 #include <stdint.h>

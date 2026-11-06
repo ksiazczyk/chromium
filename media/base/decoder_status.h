@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DecoderStatus codes and trace helper
+// summary: Defines DecoderStatus error codes persisted to logs and the ScopedDecodeTrace class that keeps decode traces unique and properly closed.
+// ---
+
 #ifndef MEDIA_BASE_DECODER_STATUS_H_
 #define MEDIA_BASE_DECODER_STATUS_H_
 

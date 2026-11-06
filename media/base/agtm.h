@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AGTM T.35 metadata helper declarations
+// summary: Declares media namespace helpers that match AGTM ITU-T T.35 codes and set AGTM metadata on HDR metadata objects.
+// ---
+
 #ifndef MEDIA_BASE_AGTM_H_
 #define MEDIA_BASE_AGTM_H_
 

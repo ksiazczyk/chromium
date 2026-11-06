@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Libaom thread wrapper implementation
+// summary: Initializes Media's libaom worker interface by adapting the shared codec worker implementation to aom_thread.h.
+// ---
+
 #include "base/logging.h"
 #include "media/base/codec_worker_impl.h"
 #include "media/base/libvpx_thread_wrapper.h"

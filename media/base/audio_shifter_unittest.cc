@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AudioShifter unit tests
+// summary: Parameterized unit tests that verify AudioShifter keeps input and output in sync under varying packet sizes, clock rates, and latencies.
+// ---
+
 #include "media/base/audio_shifter.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Key system UMA and UKM reporting names
+// summary: Maps key systems such as Widevine, PlayReady and Clear Key to stable names for UMA logging and integer values for UKM reporting.
+// ---
+
 #include "media/base/key_systems.h"
 
 #include <optional>

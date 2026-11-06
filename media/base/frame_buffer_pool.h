@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameBufferPool thread-safe memory pool
+// summary: Declares a ref-counted, thread-safe pool of CPU memory for video frames, with buffer allocation, release callbacks, testing hooks, and shutdown semantics.
+// ---
+
 #ifndef MEDIA_BASE_FRAME_BUFFER_POOL_H_
 #define MEDIA_BASE_FRAME_BUFFER_POOL_H_
 

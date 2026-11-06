@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Buffering state string conversion
+// summary: Implements BufferingStateToString, producing readable strings for buffering states and their change reasons.
+// ---
+
 #include "media/base/buffering_state.h"
 
 #include <string>

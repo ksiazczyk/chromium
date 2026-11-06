@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioPushFifo header
+// summary: Declares AudioPushFifo, an overflow-free FIFO that re-buffers pushed audio to a desired buffer size and delivers it via a callback.
+// ---
+
 #ifndef MEDIA_BASE_AUDIO_PUSH_FIFO_H_
 #define MEDIA_BASE_AUDIO_PUSH_FIFO_H_
 

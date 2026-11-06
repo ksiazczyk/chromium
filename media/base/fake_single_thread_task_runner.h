@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeSingleThreadTaskRunner header
+// summary: Declares a fake SingleThreadTaskRunner that runs queued tasks based on a SimpleTestTickClock with FIFO ordering.
+// ---
+
 #ifndef MEDIA_BASE_FAKE_SINGLE_THREAD_TASK_RUNNER_H_
 #define MEDIA_BASE_FAKE_SINGLE_THREAD_TASK_RUNNER_H_
 

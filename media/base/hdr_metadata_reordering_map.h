@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HDR metadata reordering map header
+// summary: Declares HdrMetadataReorderingMap, a helper that indexes per-frame HDR metadata by timestamp for decoders producing frames in presentation order.
+// ---
+
 #ifndef MEDIA_BASE_HDR_METADATA_REORDERING_MAP_H_
 #define MEDIA_BASE_HDR_METADATA_REORDERING_MAP_H_
 

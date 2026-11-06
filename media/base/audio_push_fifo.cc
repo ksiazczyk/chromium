@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioPushFifo implementation
+// summary: Implements AudioPushFifo, re-buffering pushed audio into fixed-size batches delivered synchronously through an output callback.
+// ---
+
 #include "media/base/audio_push_fifo.h"
 
 #include <algorithm>

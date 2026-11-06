@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media log property enum and type support header
+// summary: Defines the MediaLogProperty enum listing all loggable media player properties and declares the value types each property supports.
+// ---
+
 #ifndef MEDIA_BASE_MEDIA_LOG_PROPERTIES_H_
 #define MEDIA_BASE_MEDIA_LOG_PROPERTIES_H_
 

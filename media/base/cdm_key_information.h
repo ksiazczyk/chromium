@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CdmKeyInformation declarations
+// summary: Declares the CdmKeyInformation struct with its KeyStatus enum and key_id, status, and system_code fields used by the content decryption module.
+// ---
+
 #ifndef MEDIA_BASE_CDM_KEY_INFORMATION_H_
 #define MEDIA_BASE_CDM_KEY_INFORMATION_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BitReader unit tests
+// summary: Unit tests verifying BitReader bit reading, skipping beyond the stream end, variable skip patterns, and bits-read accounting.
+// ---
+
 #include "media/base/bit_reader.h"
 
 #include <stddef.h>

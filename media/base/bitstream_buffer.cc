@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BitstreamBuffer implementation
+// summary: Implements conversion of shared-memory bitstream buffers into DecoderBuffers, including decryption settings and bounds checks.
+// ---
+
 #include "media/base/bitstream_buffer.h"
 
 #include "base/numerics/checked_math.h"

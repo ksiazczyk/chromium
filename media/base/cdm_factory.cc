@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CDM factory implementation
+// summary: Implements the CdmFactory constructor and destructor for the base factory class.
+// ---
+
 #include "media/base/cdm_factory.h"
 
 namespace media {

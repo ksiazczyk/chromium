@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Audio power monitor unit tests
+// summary: Parameterized unit tests covering AudioPowerMonitor power readings and clipping detection across multiple test scenarios.
+// ---
+
 #include "media/base/audio_power_monitor.h"
 
 #include <limits>

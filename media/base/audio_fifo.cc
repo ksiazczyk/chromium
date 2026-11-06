@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio FIFO implementation
+// summary: Implements AudioFifo as a ring buffer over an AudioBus, handling wrap-around copies for push and consume operations.
+// ---
+
 #include "media/base/audio_fifo.h"
 
 #include <cstring>

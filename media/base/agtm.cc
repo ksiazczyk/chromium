@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AGTM T.35 metadata parsing implementation
+// summary: Implements detection of the AGTM ITU-T T.35 prefix and stores analytic graphics tone mapping metadata into HDR metadata structures.
+// ---
+
 #include "media/base/agtm.h"
 
 #include <array>

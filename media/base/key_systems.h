@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeySystems interface for registered key systems
+// summary: Defines the KeySystems interface used to query supported key systems, capabilities, encryption schemes, robustness and session support.
+// ---
+
 #ifndef MEDIA_BASE_KEY_SYSTEMS_H_
 #define MEDIA_BASE_KEY_SYSTEMS_H_
 

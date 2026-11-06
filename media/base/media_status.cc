@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaStatus implementation
+// summary: Implements MediaStatus constructors and the equality operator comparing playback state fields.
+// ---
+
 #include "media/base/media_status.h"
 
 #include <tuple>
