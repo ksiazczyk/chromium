@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IME adapter Android implementation
+// summary: Native JNI side of the Android IME adapter that dispatches Java key events and input method results to the renderer and handles composition spans and stylus writing gestures.
+// ---
+
 #include "content/browser/android/ime_adapter_android.h"
 
 #include <android/input.h>

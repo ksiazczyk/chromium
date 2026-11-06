@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BackForwardCache subframe navigation throttle implementation
+// summary: Implements a navigation throttle that defers subframe navigations while their page is in the back/forward cache and resumes them on restore.
+// ---
+
 #include "content/browser/back_forward_cache/back_forward_cache_subframe_navigation_throttle.h"
 
 #include "content/browser/renderer_host/frame_tree_node.h"

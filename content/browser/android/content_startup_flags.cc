@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android content startup flags
+// summary: Force-appends Android-specific command line switches for content features such as viewport, text selection, low-end device GPU handling and VR devices.
+// ---
+
 #include "content/browser/android/content_startup_flags.h"
 
 #include "base/android/android_info.h"

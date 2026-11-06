@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Progressive accessibility browser tests
+// summary: Browser tests verifying that WebContents receive accessibility mode flags only when revealed, including event recording on hidden contents under the progressive accessibility feature.
+// ---
+
 #include <algorithm>
 #include <array>
 

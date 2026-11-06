@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android text granularity movement browser tests
+// summary: Browser test verifying text navigation by character, word, and line granularity on Android accessibility nodes, including backward traversal.
+// ---
+
 #include <optional>
 #include <set>
 #include <string>

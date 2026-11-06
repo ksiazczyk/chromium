@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GinJavaMethodInvocationHelper unit tests
+// summary: Unit tests for GinJavaMethodInvocationHelper covering object retrieval and method invocation using null and counting delegate stubs.
+// ---
+
 #include "content/browser/android/java/gin_java_method_invocation_helper.h"
 
 #include <stddef.h>

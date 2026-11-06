@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Echo AI manager implementation
+// summary: Implements the echo AIManager that creates mock language model, summarizer, writer, rewriter, proofreader, and semantic embedder sessions for content shell testing.
+// ---
+
 #include "content/browser/ai/echo_ai_manager_impl.h"
 
 #include "base/no_destructor.h"

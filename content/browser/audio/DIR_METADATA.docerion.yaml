@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Audio directory metadata
+summary: DIR_METADATA file that assigns the services/audio common metadata mixins to the content browser audio directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NFC host unit tests
+// summary: Unit tests for the Android NFC host, covering permission handling and Mojo NFC remote binding.
+// ---
+
 #include "content/browser/android/nfc_host.h"
 
 #include "base/memory/raw_ptr.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content URL loader factory header for Android
+// summary: Declares the self-deleting URLLoaderFactory that serves requests for the Android content scheme when the network service is enabled.
+// ---
+
 #ifndef CONTENT_BROWSER_ANDROID_CONTENT_URL_LOADER_FACTORY_H_
 #define CONTENT_BROWSER_ANDROID_CONTENT_URL_LOADER_FACTORY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppWebMessagePort native implementation
+// summary: Implements the native side of the Java AppWebMessagePort, converting between Java message port objects and blink message port descriptors over Mojo.
+// ---
+
 #include "content/browser/android/app_web_message_port.h"
 
 #include <memory>

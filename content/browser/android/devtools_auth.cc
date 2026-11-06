@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools connection authentication check
+// summary: Checks Unix socket credentials to decide whether a user, such as root or shell, may connect to DevTools on Android.
+// ---
+
 #include "content/public/browser/android/devtools_auth.h"
 
 #include <pwd.h>

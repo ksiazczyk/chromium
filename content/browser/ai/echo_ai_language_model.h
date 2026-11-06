@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Echo AI language model header
+// summary: Declares EchoAILanguageModel, a test implementation of blink::mojom::AILanguageModel that echoes back prompt text and supports mock tool call generation.
+// ---
+
 #ifndef CONTENT_BROWSER_AI_ECHO_AI_LANGUAGE_MODEL_H_
 #define CONTENT_BROWSER_AI_ECHO_AI_LANGUAGE_MODEL_H_
 

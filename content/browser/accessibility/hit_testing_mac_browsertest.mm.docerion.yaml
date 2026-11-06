@@ -1,0 +1,4 @@
+# Docerion header of hit_testing_mac_browsertest.mm.
+type: test
+title: Mac accessibility hit testing browser test
+summary: macOS browser test verifying that accessibilityHitTest returns the expected elements for points in the main frame and iframes.

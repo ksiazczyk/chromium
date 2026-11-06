@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Snapshot AX Tree Browser Test
+// summary: Browser test that requests an accessibility tree snapshot from web contents and asserts the resulting node roles.
+// ---
+
 #include "base/functional/bind.h"
 #include "base/functional/callback.h"
 #include "base/test/scoped_feature_list.h"

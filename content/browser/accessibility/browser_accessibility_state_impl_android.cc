@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android browser accessibility state implementation
+// summary: Detects Android accessibility services such as TalkBack and Switch Access, distinguishes password-related services, and records assistive technology usage histograms.
+// ---
+
 #include "content/browser/accessibility/browser_accessibility_state_impl_android.h"
 
 #include <algorithm>

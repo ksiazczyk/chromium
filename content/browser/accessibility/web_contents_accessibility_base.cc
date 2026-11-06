@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web Contents Accessibility Base Implementation
+// summary: Implements the Android JNI bridge between the browser accessibility tree and the Java WebContentsAccessibility layer.
+// ---
+
 #include "content/browser/accessibility/web_contents_accessibility_base.h"
 
 #include <algorithm>

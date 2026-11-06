@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android launcher thread header
+// summary: Declares the LauncherThread class, which should be accessed through BrowserThread(Impl) rather than directly from native code.
+// ---
+
 #ifndef CONTENT_BROWSER_ANDROID_LAUNCHER_THREAD_H_
 #define CONTENT_BROWSER_ANDROID_LAUNCHER_THREAD_H_
 

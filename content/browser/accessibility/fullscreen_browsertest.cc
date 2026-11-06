@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Accessibility fullscreen browser test
+// summary: Browser test verifying that accessibility nodes outside the fullscreen element are ignored while fullscreen mode is active.
+// ---
+
 #include "content/browser/web_contents/web_contents_impl.h"
 #include "content/common/features.h"
 #include "content/public/test/accessibility_notification_waiter.h"

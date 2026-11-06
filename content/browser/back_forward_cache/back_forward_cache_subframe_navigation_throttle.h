@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BackForwardCacheSubframeNavigationThrottle class header
+// summary: Declares a navigation throttle that defers subframe navigations in back/forward cached pages until the page is restored.
+// ---
+
 #ifndef CONTENT_BROWSER_BACK_FORWARD_CACHE_BACK_FORWARD_CACHE_SUBFRAME_NAVIGATION_THROTTLE_H_
 #define CONTENT_BROWSER_BACK_FORWARD_CACHE_BACK_FORWARD_CACHE_SUBFRAME_NAVIGATION_THROTTLE_H_
 

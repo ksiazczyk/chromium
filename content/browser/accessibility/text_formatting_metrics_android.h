@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android Text Formatting Metrics Header
+// summary: Declares histogram metric name constants and the TextFormattingMetricsRecorder class for Android text formatting.
+// ---
+
 #ifndef CONTENT_BROWSER_ACCESSIBILITY_TEXT_FORMATTING_METRICS_ANDROID_H_
 #define CONTENT_BROWSER_ACCESSIBILITY_TEXT_FORMATTING_METRICS_ANDROID_H_
 

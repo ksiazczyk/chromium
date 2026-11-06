@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Select popup class declaration
+// summary: Declares the SelectPopup class that displays popup menus for HTML select elements on Android and notifies the renderer of chosen items.
+// ---
+
 #ifndef CONTENT_BROWSER_ANDROID_SELECT_POPUP_H_
 #define CONTENT_BROWSER_ANDROID_SELECT_POPUP_H_
 

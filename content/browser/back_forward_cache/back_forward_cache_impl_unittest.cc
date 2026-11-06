@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BackForwardCacheImpl unit tests
+// summary: Unit tests for BackForwardCacheImpl covering cross-origin subframe blocking, frame trees, and memory pressure eviction behavior.
+// ---
+
 #include "content/browser/back_forward_cache/back_forward_cache_impl.h"
 
 #include "base/memory/memory_pressure_listener_registry.h"

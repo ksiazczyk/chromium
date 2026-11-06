@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Accessibility hit testing browser test header
+// summary: Declares the AccessibilityHitTestingBrowserTest class with helpers for hit tests, coordinate conversion, and tree formatting.
+// ---
+
 #ifndef CONTENT_BROWSER_ACCESSIBILITY_HIT_TESTING_BROWSERTEST_H_
 #define CONTENT_BROWSER_ACCESSIBILITY_HIT_TESTING_BROWSERTEST_H_
 

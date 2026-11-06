@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Accessibility IPC error browser test
+// summary: Browser test that verifies accessibility behavior when an IPC error prevents creating a BrowserAccessibilityManager and re-enabling is disallowed.
+// ---
+
 #include <stddef.h>
 
 #include <optional>

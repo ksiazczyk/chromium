@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Aura Linux Orca process detection unit tests
+// summary: Unit tests verifying that IsOrcaProcess recognizes Orca launched via setproctitle or prctl and rejects unrelated Python processes.
+// ---
+
 #include "content/browser/accessibility/browser_accessibility_state_impl_auralinux.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

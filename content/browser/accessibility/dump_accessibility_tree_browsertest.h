@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dump accessibility tree browser test header
+// summary: Declares the DumpAccessibilityTreeTest class and test type constants for snapshotting and verifying the platform accessibility tree.
+// ---
+
 #ifndef CONTENT_BROWSER_ACCESSIBILITY_DUMP_ACCESSIBILITY_TREE_BROWSERTEST_H_
 #define CONTENT_BROWSER_ACCESSIBILITY_DUMP_ACCESSIBILITY_TREE_BROWSERTEST_H_
 

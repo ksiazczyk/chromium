@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Java interfaces provider implementation
+// summary: Creates Java-side Mojo interface registries and exposes global and per-WebContents Java interface providers.
+// ---
+
 #include "content/browser/android/java_interfaces_impl.h"
 
 #include <jni.h>

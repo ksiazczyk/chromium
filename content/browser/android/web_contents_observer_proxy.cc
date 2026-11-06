@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebContents observer proxy implementation for Android
+// summary: Forwards native WebContentsObserver events such as navigation, loading, visibility and media changes to the corresponding Java observer.
+// ---
+
 #include "content/browser/android/web_contents_observer_proxy.h"
 
 #include <string>

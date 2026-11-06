@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IME text span JNI conversion
+// summary: Converts Mojo ImeTextSpanInfo objects into the Java ImeTextSpan array used by the Android text input pipeline.
+// ---
+
 #include "content/browser/android/ime_text_span.h"
 
 #include <jni.h>

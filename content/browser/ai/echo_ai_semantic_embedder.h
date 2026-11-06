@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EchoAISemanticEmbedder class declaration
+// summary: Declares EchoAISemanticEmbedder, a test AISemanticEmbedder implementation that returns placeholder embeddings.
+// ---
+
 #ifndef CONTENT_BROWSER_AI_ECHO_AI_SEMANTIC_EMBEDDER_H_
 #define CONTENT_BROWSER_AI_ECHO_AI_SEMANTIC_EMBEDDER_H_
 

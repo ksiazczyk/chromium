@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Render widget host connector browser test fixture
+// summary: Test fixture header for RenderWidgetHostConnector browser tests, using ImeAdapterAndroid as the connector.
+// ---
+
 #ifndef CONTENT_BROWSER_ANDROID_RENDER_WIDGET_HOST_CONNECTOR_BROWSERTEST_H_
 #define CONTENT_BROWSER_ANDROID_RENDER_WIDGET_HOST_CONNECTOR_BROWSERTEST_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android launcher thread native implementation
+// summary: Implements the LauncherThread singleton that exposes the task runner of Android's Java launcher handler thread to native code via JNI.
+// ---
+
 #include "content/browser/android/launcher_thread.h"
 
 #include "base/task/single_thread_task_runner.h"

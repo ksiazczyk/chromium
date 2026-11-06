@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Select popup implementation for Android
+// summary: Implements the native Android select popup that shows and hides popup menus for select elements and reports selected items back through JNI.
+// ---
+
 #include "content/browser/android/select_popup.h"
 
 #include "base/android/jni_android.h"

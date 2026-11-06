@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped mode collection unit tests
+// summary: Unit tests for ScopedModeCollection covering adding and removing scopers, nested modes, delegate filtering, and scopers outliving their collection.
+// ---
+
 #include "content/browser/accessibility/scoped_mode_collection.h"
 
 #include <memory>

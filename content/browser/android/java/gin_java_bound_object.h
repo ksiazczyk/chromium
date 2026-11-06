@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GinJavaBoundObject class declaration
+// summary: Declares a thread-safe wrapper holding a weak global reference to a Java object bound into JavaScript, tracking names, holders, and methods.
+// ---
+
 #ifndef CONTENT_BROWSER_ANDROID_JAVA_GIN_JAVA_BOUND_OBJECT_H_
 #define CONTENT_BROWSER_ANDROID_JAVA_GIN_JAVA_BOUND_OBJECT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia accessibility tree formatter header
+// summary: Declares AccessibilityTreeFormatterFuchsia, a formatter that produces human-readable accessibility tree dumps for Fuchsia semantics nodes.
+// ---
+
 #ifndef CONTENT_BROWSER_ACCESSIBILITY_ACCESSIBILITY_TREE_FORMATTER_FUCHSIA_H_
 #define CONTENT_BROWSER_ACCESSIBILITY_ACCESSIBILITY_TREE_FORMATTER_FUCHSIA_H_
 

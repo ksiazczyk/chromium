@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Message payload conversion unit tests
+// summary: Unit tests verifying round-trip conversion of strings, ArrayBuffers and SharedArrayBuffers between Java and native message payloads.
+// ---
+
 #include "content/public/browser/android/message_payload.h"
 
 #include <cstddef>

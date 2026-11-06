@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Synchronous compositor sync call bridge implementation
+// summary: Implements the cross-thread bridge that coordinates waiting and signaling for synchronous compositor frames between the browser UI and IO threads.
+// ---
+
 #include "content/browser/android/synchronous_compositor_sync_call_bridge.h"
 
 #include <memory>

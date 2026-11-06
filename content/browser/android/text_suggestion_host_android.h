@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android text suggestion host header
+// summary: Declares TextSuggestionHostAndroid, the browser-side bridge between the Java text suggestion menu and Blink's TextSuggestionHost Mojo interface.
+// ---
+
 #ifndef CONTENT_BROWSER_ANDROID_TEXT_SUGGESTION_HOST_ANDROID_H_
 #define CONTENT_BROWSER_ANDROID_TEXT_SUGGESTION_HOST_ANDROID_H_
 

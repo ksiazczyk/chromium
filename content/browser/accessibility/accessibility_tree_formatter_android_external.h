@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: External Android accessibility tree formatter header
+// summary: Declares the external Android tree formatter that outputs AccessibilityNodeInfo strings for each node.
+// ---
+
 #ifndef CONTENT_BROWSER_ACCESSIBILITY_ACCESSIBILITY_TREE_FORMATTER_ANDROID_EXTERNAL_H_
 #define CONTENT_BROWSER_ACCESSIBILITY_ACCESSIBILITY_TREE_FORMATTER_ANDROID_EXTERNAL_H_
 

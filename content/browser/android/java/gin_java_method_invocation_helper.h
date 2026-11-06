@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GinJavaMethodInvocationHelper class declaration
+// summary: Declares a helper that resolves and invokes Java methods on background threads, with delegate interfaces for dispatcher and object access.
+// ---
+
 #ifndef CONTENT_BROWSER_ANDROID_JAVA_GIN_JAVA_METHOD_INVOCATION_HELPER_H_
 #define CONTENT_BROWSER_ANDROID_JAVA_GIN_JAVA_METHOD_INVOCATION_HELPER_H_
 

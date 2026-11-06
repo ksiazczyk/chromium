@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android UI event handler implementation
+// summary: Routes Android UI events such as motion, key, scroll, fling and mouse wheel events between the Java layer and the WebContents render widget host view.
+// ---
+
 #include "content/browser/android/content_ui_event_handler.h"
 
 #include "base/time/time.h"

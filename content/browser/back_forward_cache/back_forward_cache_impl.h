@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Back/forward cache implementation class declaration
+// summary: Declares BackForwardCacheImpl and related feature flags controlling cache behavior, eviction, unload handling and not-restored reason reporting.
+// ---
+
 #ifndef CONTENT_BROWSER_BACK_FORWARD_CACHE_BACK_FORWARD_CACHE_IMPL_H_
 #define CONTENT_BROWSER_BACK_FORWARD_CACHE_BACK_FORWARD_CACHE_IMPL_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the Android selection folder
+summary: Grants the Android selection browser code permission to include headers from the ui/menus directory.

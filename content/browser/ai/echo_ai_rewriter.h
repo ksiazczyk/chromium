@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EchoAIRewriter class declaration
+// summary: Declares EchoAIRewriter, a test AIRewriter implementation that echoes the input text back for testing.
+// ---
+
 #ifndef CONTENT_BROWSER_AI_ECHO_AI_REWRITER_H_
 #define CONTENT_BROWSER_AI_ECHO_AI_REWRITER_H_
 

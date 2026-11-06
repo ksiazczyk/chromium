@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IME adapter Android header
+// summary: Declares ImeAdapterAndroid, which forwards key events and input method updates between the Java side and the renderer via the host view.
+// ---
+
 #ifndef CONTENT_BROWSER_ANDROID_IME_ADAPTER_ANDROID_H_
 #define CONTENT_BROWSER_ANDROID_IME_ADAPTER_ANDROID_H_
 

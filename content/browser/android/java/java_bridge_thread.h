@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Java bridge background thread header
+// summary: Declares JavaBridgeThread, a Java handler thread used by the Java bridge so callbacks run on a thread with a prepared Looper.
+// ---
+
 #ifndef CONTENT_BROWSER_ANDROID_JAVA_JAVA_BRIDGE_THREAD_H_
 #define CONTENT_BROWSER_ANDROID_JAVA_JAVA_BRIDGE_THREAD_H_
 

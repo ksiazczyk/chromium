@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BackgroundSyncNetworkObserverAndroid class header
+// summary: Declares a background sync network observer that keeps listening for network changes while the browser is backgrounded so sync events can still fire.
+// ---
+
 #ifndef CONTENT_BROWSER_ANDROID_BACKGROUND_SYNC_NETWORK_OBSERVER_ANDROID_H_
 #define CONTENT_BROWSER_ANDROID_BACKGROUND_SYNC_NETWORK_OBSERVER_ANDROID_H_
 

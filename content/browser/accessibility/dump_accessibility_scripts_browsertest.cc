@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dump accessibility scripts browser test
+// summary: Browser test that loads HTML pages, runs accessibility scripts, and compares their formatted output against expected baselines across platforms.
+// ---
+
 #include "base/command_line.h"
 #include "base/strings/string_util.h"
 #include "build/build_config.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GinJavaBoundObjectDelegate implementation
+// summary: Implements a delegate that forwards local reference, method lookup, and safe annotation queries to a GinJavaBoundObject.
+// ---
+
 #include "content/browser/android/java/gin_java_bound_object_delegate.h"
 
 namespace content {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Accessibility action browser tests
+// summary: Browser tests that exercise accessibility actions on web content nodes, including node lookup by role and image data URL handling.
+// ---
+
 #include <algorithm>
 #include <optional>
 #include <string>

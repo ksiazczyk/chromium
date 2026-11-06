@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Common directory metadata for attribution reporting
+summary: Shared directory metadata setting the monorail component, team email, and Buganizer component for the attribution reporting folder.

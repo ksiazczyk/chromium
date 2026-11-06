@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Accessibility hit testing browser test
+// summary: Implements parameterized browser tests for accessibility hit testing across device scale factors, including coordinate conversions and hit test actions.
+// ---
+
 #include "content/browser/accessibility/hit_testing_browsertest.h"
 
 #include "base/check.h"

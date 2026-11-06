@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXStyleData struct header
+// summary: Defines the AXStyleData struct that maps text styling information such as links, colors, and font families to text ranges for accessibility.
+// ---
+
 #ifndef CONTENT_BROWSER_ACCESSIBILITY_AX_STYLE_DATA_H_
 #define CONTENT_BROWSER_ACCESSIBILITY_AX_STYLE_DATA_H_
 

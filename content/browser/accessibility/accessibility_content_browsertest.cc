@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Accessibility content browser test fixture implementation
+// summary: Implements a content browser test fixture that enables complete accessibility mode and loads accessibility trees from URLs or HTML.
+// ---
+
 #include "content/browser/accessibility/accessibility_content_browsertest.h"
 
 #include <string>

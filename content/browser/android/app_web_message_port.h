@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppWebMessagePort class header
+// summary: Declares the native AppWebMessagePort class that bridges Java-owned web message ports to Mojo message pipes on the UI thread.
+// ---
+
 #ifndef CONTENT_BROWSER_ANDROID_APP_WEB_MESSAGE_PORT_H_
 #define CONTENT_BROWSER_ANDROID_APP_WEB_MESSAGE_PORT_H_
 

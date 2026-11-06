@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android accessibility tree formatter
+// summary: Builds a serializable dump of the Android accessibility tree, including platform attributes and default property filters.
+// ---
+
 #include "content/browser/accessibility/accessibility_tree_formatter_android.h"
 
 #include <string>

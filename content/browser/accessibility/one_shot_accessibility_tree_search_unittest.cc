@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: One-shot accessibility tree search unit tests
+// summary: Unit tests for one-shot accessibility tree search, building test accessibility trees with platform-specific managers for Android, Fuchsia, and other platforms.
+// ---
+
 #include "ui/accessibility/platform/one_shot_accessibility_tree_search.h"
 
 #include <memory>

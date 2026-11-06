@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Accessibility events dump browser tests
+// summary: Browser tests that execute a page's go() function and verify the platform accessibility events fired, comparing results to per-platform expectation files.
+// ---
+
 #include <stddef.h>
 
 #include <memory>

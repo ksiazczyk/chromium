@@ -1,0 +1,4 @@
+# Docerion header of browser_accessibility_cocoa_browsertest.mm.
+type: test
+title: BrowserAccessibilityCocoa browser tests
+summary: Browser tests exercising the macOS Cocoa accessibility implementation, including large tables, AX frames and attribute values.

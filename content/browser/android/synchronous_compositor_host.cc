@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Synchronous compositor host implementation
+// summary: Implements the browser-side host of the Android synchronous compositor, handling hardware and software demand draws, shared memory buffers, and mojo channels.
+// ---
+
 #include "content/browser/android/synchronous_compositor_host.h"
 
 #include <algorithm>

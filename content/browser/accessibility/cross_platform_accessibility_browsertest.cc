@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cross-platform accessibility browser tests
+// summary: Large browser test suite verifying accessibility tree behavior and unique node ids across Windows, Mac, Android and other platforms.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

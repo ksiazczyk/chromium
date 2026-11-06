@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser accessibility state implementation
+// summary: Implements the process-wide browser accessibility state, including screen reader detection, AX mode bundles, scoped mode management, and auto-disabling accessibility for hidden WebContents.
+// ---
+
 #include "content/browser/accessibility/browser_accessibility_state_impl.h"
 
 #include <stddef.h>

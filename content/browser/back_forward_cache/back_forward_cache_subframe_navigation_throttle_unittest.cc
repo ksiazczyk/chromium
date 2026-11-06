@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BackForwardCache subframe navigation throttle unit tests
+// summary: Unit tests for the subframe navigation throttle, covering deferral while a frame is cached and resumption after restore.
+// ---
+
 #include "content/browser/back_forward_cache/back_forward_cache_subframe_navigation_throttle.h"
 
 #include <memory>

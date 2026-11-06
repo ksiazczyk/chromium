@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Accessibility line layout browser test
+// summary: Browser test checking next-on-line and previous-on-line links between accessibility nodes during line layout updates.
+// ---
+
 #include "build/build_config.h"
 #include "content/browser/web_contents/web_contents_impl.h"
 #include "content/public/test/accessibility_notification_waiter.h"

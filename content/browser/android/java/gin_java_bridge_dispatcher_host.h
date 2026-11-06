@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GinJavaBridgeDispatcherHost class declaration
+// summary: Declares the per-WebContents host managing named Java objects, frame wrappers, and GinJavaBridge Mojo interfaces on a background thread.
+// ---
+
 #ifndef CONTENT_BROWSER_ANDROID_JAVA_GIN_JAVA_BRIDGE_DISPATCHER_HOST_H_
 #define CONTENT_BROWSER_ANDROID_JAVA_GIN_JAVA_BRIDGE_DISPATCHER_HOST_H_
 

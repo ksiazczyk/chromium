@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Render accessibility host header
+// summary: Declares the RenderAccessibilityHost Mojo endpoint that receives renderer accessibility events off the main thread and forwards them to the browser UI thread.
+// ---
+
 #ifndef CONTENT_BROWSER_ACCESSIBILITY_RENDER_ACCESSIBILITY_HOST_H_
 #define CONTENT_BROWSER_ACCESSIBILITY_RENDER_ACCESSIBILITY_HOST_H_
 

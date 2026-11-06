@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JavaType implementation
+// summary: Implements JavaType creation from binary names and JNI name and signature generation for scalar, string, object, and array types.
+// ---
+
 #include "content/browser/android/java/java_type.h"
 
 #include <memory>

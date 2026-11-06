@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: jni_reflect implementation
+// summary: Implements JNI helper functions that wrap Java reflection APIs to query class names, methods, parameter and return types, staticness and annotations.
+// ---
+
 #include "content/browser/android/java/jni_reflect.h"
 
 #include "base/android/jni_android.h"

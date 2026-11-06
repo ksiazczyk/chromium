@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NFC host implementation
+// summary: Implements NFCHost, which enforces WebNFC security policies such as frame and permission checks and maps NFC context IDs to WebContents on Android.
+// ---
+
 #include "content/browser/android/nfc_host.h"
 
 #include <utility>

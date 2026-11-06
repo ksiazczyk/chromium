@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Audio service browser tests
+// summary: Browser tests exercising the audio service with mock audio managers and input streams, including system echo cancellation availability scenarios.
+// ---
+
 #include "content/public/browser/audio_service.h"
 
 #include <stddef.h>

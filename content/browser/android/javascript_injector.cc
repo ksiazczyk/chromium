@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JavaScript injector implementation
+// summary: Implements the WebContents-scoped injector that adds and removes Java objects exposed to JavaScript, flushing BFCache and prerendered pages on changes.
+// ---
+
 #include "content/browser/android/javascript_injector.h"
 
 #include <vector>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the java bridge directory
+summary: Defines include rules allowing this directory to depend on content/child for the Java bridge bindings.

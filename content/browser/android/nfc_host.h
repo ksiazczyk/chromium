@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NFC host header
+// summary: Declares NFCHost, a WebContentsObserver that connects WebNFC requests to the Android NFC system APIs via the device service.
+// ---
+
 #ifndef CONTENT_BROWSER_ANDROID_NFC_HOST_H_
 #define CONTENT_BROWSER_ANDROID_NFC_HOST_H_
 

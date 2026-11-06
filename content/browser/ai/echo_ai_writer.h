@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EchoAIWriter class declaration
+// summary: Declares EchoAIWriter, a test AIWriter implementation that echoes the input text back for testing.
+// ---
+
 #ifndef CONTENT_BROWSER_AI_ECHO_AI_WRITER_H_
 #define CONTENT_BROWSER_AI_ECHO_AI_WRITER_H_
 

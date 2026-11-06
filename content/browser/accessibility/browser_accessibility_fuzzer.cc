@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BrowserAccessibility fuzzer
+// summary: Fuzzer that builds accessibility trees with fuzzed roles and states and calls tree-walking functions to find crashes in BrowserAccessibility code.
+// ---
+
 #include "ui/accessibility/platform/browser_accessibility.h"
 
 #include <fuzzer/FuzzedDataProvider.h>

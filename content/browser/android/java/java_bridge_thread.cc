@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Java bridge background thread implementation
+// summary: Implements JavaBridgeThread, a background Java handler thread whose task runner supports Java bridge callbacks with a prepared Looper.
+// ---
+
 #include "content/browser/android/java/java_bridge_thread.h"
 
 #include "base/lazy_instance.h"

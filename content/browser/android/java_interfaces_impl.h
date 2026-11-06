@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Java interfaces provider header
+// summary: Declares helpers to obtain global Java interface providers and to bind interface registries for WebContents and render frames.
+// ---
+
 #ifndef CONTENT_BROWSER_ANDROID_JAVA_INTERFACES_IMPL_H_
 #define CONTENT_BROWSER_ANDROID_JAVA_INTERFACES_IMPL_H_
 

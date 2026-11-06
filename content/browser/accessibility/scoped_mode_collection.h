@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped mode collection header
+// summary: Declares ScopedModeCollection, which tracks scoped accessibility modes, maintains their union as the effective mode, and notifies a delegate of changes.
+// ---
+
 #ifndef CONTENT_BROWSER_ACCESSIBILITY_SCOPED_MODE_COLLECTION_H_
 #define CONTENT_BROWSER_ACCESSIBILITY_SCOPED_MODE_COLLECTION_H_
 

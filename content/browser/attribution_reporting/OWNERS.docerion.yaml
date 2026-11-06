@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the attribution reporting directory
+summary: Lists code owners and delegates mojom and mojom traits files to the IPC security owners.

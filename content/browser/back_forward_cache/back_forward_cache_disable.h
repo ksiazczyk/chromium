@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content-side back-forward cache disable reason IDs
+// summary: Defines the DisabledReasonId enum listing content features that prevent a frame from being stored in the back/forward cache.
+// ---
+
 #ifndef CONTENT_BROWSER_BACK_FORWARD_CACHE_BACK_FORWARD_CACHE_DISABLE_H_
 #define CONTENT_BROWSER_BACK_FORWARD_CACHE_BACK_FORWARD_CACHE_DISABLE_H_
 

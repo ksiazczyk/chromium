@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser accessibility state implementation for Windows
+// summary: Implements Windows-specific accessibility state tracking, detecting assistive technologies such as JAWS, NVDA and Narrator and recording UIA client process metrics.
+// ---
+
 #include "content/browser/accessibility/browser_accessibility_state_impl_win.h"
 
 #include <windows.h>  // Must be in front of other Windows header files.

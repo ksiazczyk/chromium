@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Render accessibility host unit tests
+// summary: Unit tests verifying that RenderAccessibilityHost rejects accessibility messages containing invalid renderer node IDs and accepts messages with valid IDs.
+// ---
+
 #include "content/browser/accessibility/render_accessibility_host.h"
 
 #include <memory>

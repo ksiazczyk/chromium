@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Touch Accessibility Aura Browser Test
+// summary: Browser test checking that touch exploration events send hover events over an HTML table in Aura.
+// ---
+
 #include <optional>
 #include <tuple>
 

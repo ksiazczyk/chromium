@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAuthn client data JSON JNI bridge
+// summary: Android JNI implementation that builds WebAuthn client data JSON from Java arguments, including payment options deserialized from a Java byte buffer.
+// ---
+
 #include "content/browser/webauth/client_data_json.h"
 
 #include <jni.h>

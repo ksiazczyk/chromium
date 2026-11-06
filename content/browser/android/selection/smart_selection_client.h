@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Smart selection client header
+// summary: Declares the native client that fetches selected text with surrounding context for the Java smart selection client tied to a WebContents.
+// ---
+
 #ifndef CONTENT_BROWSER_ANDROID_SELECTION_SMART_SELECTION_CLIENT_H_
 #define CONTENT_BROWSER_ANDROID_SELECTION_SMART_SELECTION_CLIENT_H_
 

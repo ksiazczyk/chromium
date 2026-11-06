@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: External Android accessibility tree formatter
+// summary: Builds a tree of Android AccessibilityNodeInfo strings so external accessibility output can be dumped for inspection.
+// ---
+
 #include "content/browser/accessibility/accessibility_tree_formatter_android_external.h"
 
 #include <string>

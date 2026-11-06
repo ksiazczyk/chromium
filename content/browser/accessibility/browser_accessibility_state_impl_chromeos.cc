@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS browser accessibility state implementation
+// summary: ChromeOS-specific accessibility state implementation that reports ChromeVox as the active assistive technology and maintains a matching crash key.
+// ---
+
 #include "content/browser/accessibility/browser_accessibility_state_impl.h"
 
 #include "base/debug/crash_logging.h"

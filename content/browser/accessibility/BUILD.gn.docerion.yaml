@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Content accessibility BUILD.gn
+summary: GN build rules that generate Java enum sources from the Android browser accessibility manager header.

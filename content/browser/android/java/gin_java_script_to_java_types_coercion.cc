@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JavaScript to Java type coercion implementation
+// summary: Implements conversion of JavaScript values to Java values, replicating Java's type conversion rules for the Android Java bridge.
+// ---
+
 #include "content/browser/android/java/gin_java_script_to_java_types_coercion.h"
 
 #include <stdint.h>

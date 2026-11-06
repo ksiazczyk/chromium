@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android overlay provider JNI implementation
+// summary: Implements the AndroidOverlayProvider singleton that asks the Java side whether screen overlays are supported.
+// ---
+
 #include "content/browser/android/android_overlay_provider_impl.h"
 
 // Must come after all headers that specialize FromJniType() / ToJniType().

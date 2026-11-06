@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Render widget host connector browser tests
+// summary: Browser tests verifying connector wiring when render widget host views are created, swapped, or destroyed early.
+// ---
+
 #include "content/browser/android/render_widget_host_connector_browsertest.h"
 
 #include "content/public/test/browser_test.h"

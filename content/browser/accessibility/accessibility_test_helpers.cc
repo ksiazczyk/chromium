@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Accessibility test helpers implementation
+// summary: Implements helpers that find the first accessibility node matching a role, name, value or string attribute for use in browser tests.
+// ---
+
 #include "content/browser/accessibility/accessibility_test_helpers.h"
 
 #include "base/functional/function_ref.h"

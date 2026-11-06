@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NavigationHandle JNI proxy header
+// summary: Declares NavigationHandleProxy, the JNI bridge between the C++ and Java NavigationHandle classes.
+// ---
+
 #ifndef CONTENT_BROWSER_ANDROID_NAVIGATION_HANDLE_PROXY_H_
 #define CONTENT_BROWSER_ANDROID_NAVIGATION_HANDLE_PROXY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Echo AI decision model header
+// summary: Declares EchoAIDecisionModel, a deterministic mock of blink::mojom::AIDecisionModel used for web platform tests when no real on-device model service is bound.
+// ---
+
 #ifndef CONTENT_BROWSER_AI_ECHO_AI_DECISION_MODEL_H_
 #define CONTENT_BROWSER_AI_ECHO_AI_DECISION_MODEL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows UIA text provider browser tests
+// summary: Browser tests for the Windows UI Automation text provider, checking text ranges and content exposed by accessibility nodes.
+// ---
+
 #include "ui/accessibility/platform/ax_platform_node_textprovider_win.h"
 
 #include <optional>

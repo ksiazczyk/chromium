@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Back-forward cache document eligibility result class
+// summary: Declares BackForwardCacheCanStoreDocumentResult, which stores not-restored reasons, blocking feature details and disabled reasons for caching a page.
+// ---
+
 #ifndef CONTENT_BROWSER_BACK_FORWARD_CACHE_BACK_FORWARD_CACHE_CAN_STORE_DOCUMENT_RESULT_H_
 #define CONTENT_BROWSER_BACK_FORWARD_CACHE_BACK_FORWARD_CACHE_CAN_STORE_DOCUMENT_RESULT_H_
 
