@@ -1,0 +1,4 @@
+# Docerion header of extension_page.html.
+type: test
+title: Extension page HTML for the exception test
+summary: HTML page fixture that loads extension_page.js, whose thrown exception the test observes via the debugger.

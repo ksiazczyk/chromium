@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Message sender test extension manifest
+summary: Manifest for the message sender API test extension, fixing its extension ID with a key and registering the background script and the web-accessible public page.

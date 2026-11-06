@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Automation tests for loading tabs and WebView tree structure
+// summary: Browser tests checking the WebView automation tree structure for a loaded tab and that focus events are delivered for a focused button.
+// ---
+
 const html = '<button>alpha</button><input type="text">hello</input>';
 
 function getAllWebViews() {

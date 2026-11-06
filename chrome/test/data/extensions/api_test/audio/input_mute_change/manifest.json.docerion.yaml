@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the chrome.audio.OnInputMuteChanged test app
+summary: Manifest version 2 app manifest that registers background.js and requests the audio permission for the onMuteChanged browser test.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Automation node property access validity test
+// summary: Browser test that iterates all properties of automation nodes to ensure native getters do not crash.
+// ---
+
 const allTests = [function testAutomationNodeProperties() {
   const automationRootNode = rootNode;
   const automationNode = automationRootNode.firstChild;

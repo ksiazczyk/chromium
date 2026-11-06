@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Force layout focus event test
+// summary: Browser test checking that a focus event fires on a valid accessibility object after forced layout.
+// ---
+
 const allTests = [
   function testForceLayoutFiresFocus() {
     const node = rootNode.find({role: 'button'});

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Bluetooth discovery callback test manifest
+summary: Manifest for the Chrome test app that loads runtest.js and requests Bluetooth permission for the discovery callback API test.

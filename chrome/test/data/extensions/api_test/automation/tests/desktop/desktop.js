@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Automation getDesktop tests
+// summary: Tests chrome.automation.getDesktop, including repeated and nested calls returning the same desktop root node.
+// ---
+
 const allTests = [
   function testGetDesktop() {
     chrome.automation.getDesktop(function(rootNode) {

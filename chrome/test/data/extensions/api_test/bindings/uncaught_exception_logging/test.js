@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test verifying uncaught exception logging via the debugger API
+// summary: Browser test that attaches the debugger to tabs and checks Runtime.exceptionThrown events for exceptions raised in the extension page and an injected content script.
+// ---
+
 function verifyException(expectedMessage, tabId) {
   function onDebuggerEvent(debuggee, method, params) {
     if (debuggee.tabId === tabId && method === 'Runtime.exceptionThrown') {

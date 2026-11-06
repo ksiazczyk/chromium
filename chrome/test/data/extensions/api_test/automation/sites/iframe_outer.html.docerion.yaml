@@ -1,0 +1,4 @@
+# Docerion header of iframe_outer.html.
+type: test
+title: Automation test page with outer iframe
+summary: Test fixture page embedding iframe_inner.html for automation API tests involving iframes.

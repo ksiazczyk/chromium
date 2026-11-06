@@ -1,0 +1,4 @@
+# Docerion header of fencedframe_inner.html.
+type: test
+title: Fenced frame inner test page
+summary: Simple HTML page with an Inner button that is loaded inside a fenced frame during the automation API test.

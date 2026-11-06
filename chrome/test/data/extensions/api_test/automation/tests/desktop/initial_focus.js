@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Automation test for initial focus of an autofocus input
+// summary: Browser test verifying that an input with the autofocus attribute receives focus when its page loads.
+// ---
+
 const allTests = [
   function testInitialFocus() {
     const url = `data:text/html,<!doctype html>${

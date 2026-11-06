@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Audio API test extension manifest
+summary: Manifest for the Audio API test extension, declaring the audio permission and loading test.js as the background script.

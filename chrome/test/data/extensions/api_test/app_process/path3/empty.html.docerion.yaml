@@ -1,0 +1,4 @@
+# Docerion header of empty.html.
+type: test
+title: App process test page titled Unmodified
+summary: Minimal HTML page titled Unmodified that serves as the popup target in the app_process extension API test.

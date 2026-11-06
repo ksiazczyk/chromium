@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tabs test for tree change observers
+// summary: Browser test covering tree change observers for created and removed nodes and the liveRegionTreeChanges filter, with notes on unsafe observer removal during iteration.
+// ---
+
 const allTests = [
   function testTreeChangedObserverForCreatingNode() {
     const addButton = rootNode.find({attributes: {name: 'Add'}});

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: API test for bluetoothLowEnergy.setAdvertisingInterval
+// summary: Chained calls to setAdvertisingInterval with valid, out-of-bounds, and min-greater-than-max intervals, failing on unexpected errors or unexpected successes.
+// ---
+
 function failOnError() {
   if (chrome.runtime.lastError) {
     chrome.test.fail(chrome.runtime.lastError.message);

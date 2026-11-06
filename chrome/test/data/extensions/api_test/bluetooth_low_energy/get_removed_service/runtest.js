@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test script for getService on a removed Bluetooth LE service
+// summary: Listens for service added and removed events and verifies that getService succeeds while the service exists and fails after removal.
+// ---
+
 chrome.bluetoothLowEnergy.onServiceAdded.addListener(function(result) {
   // getService should return this service.
   chrome.bluetoothLowEnergy.getService(result.instanceId, function(service) {

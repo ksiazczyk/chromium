@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BLE connect and reconnect test script
+// summary: Runs chrome.test assertions that connecting to a device succeeds, a second connect fails with 'Already connected', and a third connect succeeds.
+// ---
+
 const deviceAddress0 = '11:22:33:44:55:66';
 const ble = chrome.bluetoothLowEnergy;
 

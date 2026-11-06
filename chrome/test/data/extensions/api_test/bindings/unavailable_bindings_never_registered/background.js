@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background script for the unavailable bindings test
+// summary: Extension API test background script asserting that chrome.alarms and chrome.storage stay unregistered without permissions, and that storage calls throw once the storage permission is removed.
+// ---
+
 function assertAlarmsIsNotRegistered() {
   chrome.test.assertFalse('alarms' in chrome, 'alarms is registered');
 }

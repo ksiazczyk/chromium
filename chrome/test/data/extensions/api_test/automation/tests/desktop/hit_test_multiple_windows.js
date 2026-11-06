@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Automation test for hit testing across multiple windows
+// summary: Browser test using hitTestWithReply to verify hit testing returns the correct button nodes across two separately created windows.
+// ---
+
 const allTests = [
   async function testTwoWindows() {
     const url1 = `data:text/html,${

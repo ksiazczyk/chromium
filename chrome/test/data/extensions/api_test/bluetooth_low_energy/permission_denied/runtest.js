@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bluetooth Low Energy permission-denied test script
+// summary: Test script that asserts each Bluetooth Low Energy API call fails with a 'Permission denied' error when the manifest lacks the bluetooth permission.
+// ---
+
 function testGetServices() {
   chrome.test.assertEq(2, services.length);
 

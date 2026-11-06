@@ -1,0 +1,4 @@
+# Docerion header of iframe.html.
+type: test
+title: Popup opener test page
+summary: Test fixture whose script opens empty.html in a small popup window for the app_process extension API test.

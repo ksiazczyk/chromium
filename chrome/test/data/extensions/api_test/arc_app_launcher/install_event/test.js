@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ARC app install event API test
+// summary: Browser test that reads the expected package name from the test config, listens for arcAppsPrivate.onInstalled, and launches the installed ARC app.
+// ---
+
 let expectedPackageName = null;
 
 chrome.test.runTests([

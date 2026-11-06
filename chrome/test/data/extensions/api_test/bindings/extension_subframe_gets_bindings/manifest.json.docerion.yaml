@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test extension manifest
+summary: Manifest for the extension_subframe_gets_bindings API test extension, granting the tabs permission and exposing page.html as a web accessible resource.

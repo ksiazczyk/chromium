@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the module system test extension
+summary: Manifest version 2 extension definition that registers background.js for the bindings module system API test.

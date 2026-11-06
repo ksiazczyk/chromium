@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for BLE registerAdvertisement kiosk test app
+summary: Manifest for a Chrome extension API test app that enables kiosk mode and Bluetooth Low Energy peripheral permissions to exercise registerAdvertisement.

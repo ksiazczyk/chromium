@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bluetooth Low Energy service events test script
+// summary: Registers listeners for the Bluetooth Low Energy onServiceAdded, onServiceChanged and onServiceRemoved events and asserts the expected service instance IDs during the API test.
+// ---
+
 function testServiceEvents() {
   chrome.test.assertEq(2, Object.keys(addedServices).length);
   chrome.test.assertEq(1, Object.keys(changedServices).length);

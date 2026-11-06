@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the Bluetooth LE start/stop notifications test
+summary: Extension manifest that sets up the test app with the bluetooth.low_energy permission, UUID 1234, and runtest.js as its background script.

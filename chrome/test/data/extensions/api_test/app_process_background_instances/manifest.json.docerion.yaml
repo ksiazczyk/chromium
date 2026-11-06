@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for app_process_background_instances test
+summary: Manifest for a Chrome extension API test app that verifies apps without background JavaScript are not consolidated into one process.

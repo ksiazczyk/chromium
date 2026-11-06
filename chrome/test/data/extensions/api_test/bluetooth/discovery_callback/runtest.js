@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bluetooth discovery callback test script
+// summary: Starts Bluetooth discovery, records devices reported via onDeviceAdded, then asserts the discovered device names match the expected list.
+// ---
+
 const kExpectedDeviceNames = ['d1'];
 
 function testDiscovery() {

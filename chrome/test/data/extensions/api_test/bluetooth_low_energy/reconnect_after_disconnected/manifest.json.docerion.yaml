@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the BLE reconnect after disconnected API test
+summary: Chrome extension manifest that defines the test app with bluetooth.low_energy permission and runtest.js as its background script.

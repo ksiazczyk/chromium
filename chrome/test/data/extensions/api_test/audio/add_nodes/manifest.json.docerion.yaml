@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Audio add_nodes test extension manifest
+summary: Manifest for the chrome.audio.OnNodesChangedAddNodes browser test app, loading background.js and requesting the audio permission.

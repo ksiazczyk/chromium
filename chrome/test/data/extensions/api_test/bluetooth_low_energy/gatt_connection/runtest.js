@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bluetooth Low Energy GATT connect and disconnect API test
+// summary: Queued browser test that exercises chrome.bluetoothLowEnergy connect and disconnect, expecting specific success and error outcomes.
+// ---
+
 const deviceAddress0 = '11:22:33:44:55:66';
 const deviceAddress1 = '77:88:99:AA:BB:CC';
 const badDeviceAddress = 'bad-address';

@@ -1,0 +1,4 @@
+# Docerion header of webview_frame.html.
+type: test
+title: Test page with an outer button and a WebView
+summary: HTML fixture hosting an outer button and a webview containing an inner button used by the location test.

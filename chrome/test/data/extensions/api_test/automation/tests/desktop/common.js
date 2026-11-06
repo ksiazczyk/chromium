@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared helpers for desktop automation tests
+// summary: Provides shared utilities such as node lookup, tab creation, test setup, and polling helpers used by the desktop automation API tests.
+// ---
+
 const assertEq = chrome.test.assertEq;
 const assertFalse = chrome.test.assertFalse;
 const assertTrue = chrome.test.assertTrue;

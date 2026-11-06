@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BLE registerAdvertisement kiosk permission test
+// summary: Registers a Bluetooth Low Energy broadcast advertisement and asserts registration fails with Permission denied when the kiosk app is not autolaunched.
+// ---
+
 const advertisement = {
   type: 'broadcast',
   serviceUuids: ['1234'],

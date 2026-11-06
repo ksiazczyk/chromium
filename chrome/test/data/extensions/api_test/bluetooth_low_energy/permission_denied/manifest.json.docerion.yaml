@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for Bluetooth Low Energy permission-denied test
+summary: Manifest for a test extension that exercises the Bluetooth Low Energy API without declaring the bluetooth permission.

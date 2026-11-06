@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Invalidate context extension API test background script
+// summary: Runs chrome.test cases checking that extension bindings, storage, runtime and ports stop working after the frame context is removed.
+// ---
+
 let frame;
 let frameRuntime;
 let frameStorage;

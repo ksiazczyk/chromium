@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: config
+title: Manifest for the chrome.automation.sanityCheck test extension
+summary: Manifest for the chrome.automation.sanityCheck extension that enables desktop automation and windows permissions for the Automation API tests.

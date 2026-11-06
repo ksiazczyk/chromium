@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Automation test for element location inside a WebView
+// summary: Runs a chrome.automation test that opens a webview frame and asserts the screen positions of outer and inner buttons.
+// ---
+
 const assertTrue = chrome.test.assertTrue;
 
 const EventType = chrome.automation.EventType;

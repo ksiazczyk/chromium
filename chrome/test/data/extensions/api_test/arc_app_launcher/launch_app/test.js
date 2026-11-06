@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ARC app launcher API browser test
+// summary: Browser test that checks chrome.arcAppsPrivate.getLaunchableApps returns the expected package and that launchApp fails for an invalid package name but succeeds for a valid one.
+// ---
+
 chrome.app.runtime.onLaunched.addListener(function() {
   let expectedPackageName = null;
 

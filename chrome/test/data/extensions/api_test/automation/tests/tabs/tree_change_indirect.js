@@ -10,6 +10,12 @@
 // TODO(accessibility): Verify that the following line really works.
 // return rootNode.find({ htmlId: id });
 
+// ---docerion
+// type: test
+// title: Tabs test for indirectly sourced labels and descriptions
+// summary: Browser test checking that names and descriptions referenced from elsewhere in the tree update when the related content changes, using tree_change_indirect.html.
+// ---
+
 const allTests = [
   function testUpdateRelatedNamesAndDescriptions() {
     const cats = rootNode.find({role: 'checkBox'});

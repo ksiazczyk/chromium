@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bluetooth Low Energy registerAdvertisement test script
+// summary: Registers a broadcast advertisement via chrome.bluetoothLowEnergy, then unregisters it and reports success or failure through chrome.test.
+// ---
+
 const registerAdvertisement = chrome.bluetoothLowEnergy.registerAdvertisement;
 const unregisterAdvertisement =
     chrome.bluetoothLowEnergy.unregisterAdvertisement;

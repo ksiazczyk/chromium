@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for externally connectable everywhere test extension
+summary: Manifest for a Chrome extension API test fixture that declares the extension externally connectable from any 127.0.0.1 port.

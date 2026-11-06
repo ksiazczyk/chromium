@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test that createService is denied outside kiosk mode
+// summary: Extension test script that calls chrome.bluetoothLowEnergy.createService and expects the call to fail with a Permission denied error when not in kiosk mode.
+// ---
+
 const service = {
   uuid: '00001234-0000-1000-8000-00805f9b34fb',
   isPrimary: true,

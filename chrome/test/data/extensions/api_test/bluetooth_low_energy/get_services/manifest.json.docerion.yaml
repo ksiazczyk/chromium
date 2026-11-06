@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Bluetooth Low Energy getServices test manifest
+summary: Chrome extension manifest for the getServices API test app, declaring the background test script and the bluetooth.low_energy permission.

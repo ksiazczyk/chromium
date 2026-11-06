@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Automation action result hijack regression test
+// summary: Regression test ensuring forged automation events from another tree cannot hijack an action result callback, so only the real victim-tree result is honored.
+// ---
+
 const allTests = [async function testActionResultHijack() {
   // Find the text field inside the Victim tab's tree,
   // waiting for the tree to load if necessary using listeners (no polling).

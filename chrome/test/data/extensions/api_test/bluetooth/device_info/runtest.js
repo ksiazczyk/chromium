@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bluetooth device info API test
+// summary: JavaScript test that asserts chrome.bluetooth.getDevices returns the expected device names, classes, IDs, types and UUIDs.
+// ---
+
 function testDeviceInfo() {
   chrome.test.assertEq(2, devices.length);
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Automation event listener tests
+// summary: Browser test covering focus event listeners, bubbling, capture, stopPropagation, hitTestWithReply, and multiple listeners.
+// ---
+
 const allTests = [
   function testEventListenerTarget() {
     const cancelButton = rootNode.firstChild.children[2];

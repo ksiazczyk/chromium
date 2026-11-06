@@ -1,0 +1,4 @@
+# Docerion header of iframe-top.html.
+type: test
+title: Iframe top test page
+summary: Test host page that embeds iframe-button.html in an iframe and swaps its source to iframe-button2.html on navigation.

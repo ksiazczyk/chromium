@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: External message listener test background script
+// summary: Background script for the external_message_listener API test that records externally received messages and resolves a completion promise when the expected 'from_sender' message arrives.
+// ---
+
 let resolve;
 const completionPromise = new Promise((res) => {
   resolve = res;

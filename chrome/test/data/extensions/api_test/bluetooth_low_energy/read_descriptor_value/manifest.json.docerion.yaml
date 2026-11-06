@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the Bluetooth Low Energy readDescriptorValue API test
+summary: Manifest v2 extension manifest that sets up the test app with the runtest.js background script and Bluetooth Low Energy permissions for UUID 1234.

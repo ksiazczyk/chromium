@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bluetooth onAdapterStateChanged event test script
+// summary: Test script that listens for chrome.bluetooth.onAdapterStateChanged events and asserts the adapter's powered, available, and discovering values match the expected states.
+// ---
+
 function testEvents() {
   chrome.test.assertEq(kExpectedValues.length, states.length);
 

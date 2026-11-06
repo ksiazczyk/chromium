@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the invalidate context test extension
+summary: Manifest v2 extension definition registering background.js and the storage permission used by the context invalidation tests.

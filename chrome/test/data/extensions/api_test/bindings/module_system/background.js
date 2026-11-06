@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Module system background page test
+// summary: Browser test background script asserting the module system is available in the extension window but not exposed to a cross-origin iframe.
+// ---
+
 chrome.test.assertTrue(chrome.hasOwnProperty('runtime'));
 
 const iframe = document.createElement('iframe');

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Last Error bindings API test script
+// summary: Browser test script verifying that chrome.runtime.lastError is set only within the callback context after a failing tabs API call.
+// ---
+
 async function testLastError() {
   // Make sure lastError is not yet set
   if (chrome.tabs.lastError) {

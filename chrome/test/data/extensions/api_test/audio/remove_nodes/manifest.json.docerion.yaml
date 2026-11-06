@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Audio remove_nodes test extension manifest
+summary: Manifest for the chrome.audio.OnNodesChangedRemoveNodes test app, declaring the background script and the audio permission used by the browser test.

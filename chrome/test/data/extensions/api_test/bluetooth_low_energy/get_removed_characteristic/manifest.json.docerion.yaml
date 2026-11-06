@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the Bluetooth LE getCharacteristic removed-characteristic test
+summary: Manifest for a Chrome extension app used to test the Bluetooth Low Energy getCharacteristic API against a removed characteristic.

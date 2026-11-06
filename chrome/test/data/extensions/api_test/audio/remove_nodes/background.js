@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Audio remove_nodes test background script
+// summary: Background script for the chrome.audio OnNodesChanged extension browser test that listens for onDeviceListChanged and asserts the expected Jabra Mic device list.
+// ---
+
 chrome.test.runTests([
   function waitForDeviceChangedEventTests() {
     chrome.test.listenOnce(chrome.audio.onDeviceListChanged, function(devices) {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bluetooth getDevices API test script
+// summary: Calls chrome.bluetooth.getDevices and asserts that two devices named d1 and d2 are returned, reporting success or failure via the chrome.test API.
+// ---
+
 function testGetDevices() {
   chrome.test.assertEq(2, devices.length);
   chrome.test.assertEq('d1', devices[0].name);

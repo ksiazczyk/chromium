@@ -1,6 +1,13 @@
 // Copyright 2022 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Automation API fenced frame focus tests
+// summary: Defines and runs browser tests that wait for the fenced frame to load and verify the inner button is reachable through the automation tree
+// ---
+
 const listenOnce = chrome.test.listenOnce;
 const listenForever = chrome.test.listenForever;
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background scripts test script b
+// summary: Asserts that background scripts run in order and are injected into the document body, then reports pass.
+// ---
+
 // We're just testing that multiple scripts get added to a page in-order
 // and are run.
 chrome.test.assertEq('hi!', test);

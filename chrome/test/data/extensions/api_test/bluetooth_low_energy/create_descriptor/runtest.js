@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bluetooth Low Energy createDescriptor API test script
+// summary: Drives the createDescriptor API test by creating a service and characteristic, then calling createDescriptor with an invalid and a valid characteristic ID while checking error handling.
+// ---
+
 function failOnError(result) {
   if (chrome.runtime.lastError || !result) {
     chrome.test.fail(chrome.runtime.lastError.message);

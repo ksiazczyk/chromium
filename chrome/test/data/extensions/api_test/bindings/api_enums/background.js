@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser test script checking API enums on chrome APIs
+// summary: Runs browser test assertions that API enums like management.LaunchType, notifications.PermissionLevel, runtime.PlatformArch and omnibox.OnInputEnteredDisposition exist with the expected values.
+// ---
+
 chrome.test.runTests([
   function() {
     // Test management (backed by a json file) api enums.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bluetooth Low Energy characteristic properties test
+// summary: Fetches 12 characteristics and asserts their reported properties match the expected combinations of BLE characteristic property flags.
+// ---
+
 let error;
 
 function testCharacteristicProperties() {

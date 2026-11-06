@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: lastError test extension manifest
+summary: Manifest for the lastError test extension used by browser tests to check lastError setting for callbacks.

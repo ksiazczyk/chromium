@@ -1,0 +1,4 @@
+# Docerion header of iframe-button.html.
+type: test
+title: Iframe button test page
+summary: Test fixture page with a button that calls the parent frame's navigation function when clicked.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Install event test app manifest
+summary: Manifest for the install event test extension, declaring the arcAppsPrivate permission and a background page that runs test.js.

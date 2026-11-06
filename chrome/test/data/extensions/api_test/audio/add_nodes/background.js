@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Audio add_nodes test background script
+// summary: Background script of a test extension that listens for chrome.audio.onDeviceListChanged and asserts the expected list of output audio devices.
+// ---
+
 chrome.test.runTests([
   function waitForDeviceChangedEventTests() {
     chrome.test.listenOnce(chrome.audio.onDeviceListChanged, function(devices) {

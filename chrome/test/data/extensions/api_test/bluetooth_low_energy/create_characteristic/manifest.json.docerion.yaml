@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the Bluetooth Low Energy createCharacteristic API test
+summary: Manifest for the test extension app that runs runtest.js with Bluetooth Low Energy and peripheral permissions for the createCharacteristic API test.

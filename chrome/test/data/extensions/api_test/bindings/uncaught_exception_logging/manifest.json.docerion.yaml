@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the error logging test extension
+summary: Manifest for the test extension that throws uncaught exceptions in a chrome.tabs.query callback and requests debugger permissions.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the Bluetooth LE get removed service test
+summary: Manifest for the Chrome extension test app that exercises getService on a removed Bluetooth LE service.

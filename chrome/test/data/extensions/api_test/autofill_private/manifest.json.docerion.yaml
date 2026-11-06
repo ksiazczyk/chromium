@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the autofillPrivate API test extension
+summary: Manifest of the test extension requesting the autofillPrivate permission to exercise the chrome.autofillPrivate interface.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test for the notifyCharacteristicValueChanged API
+// summary: Browser test script that creates a BLE service and characteristic, then verifies notifyCharacteristicValueChanged fails for an invalid ID and succeeds for a valid one.
+// ---
+
 function failOnError(result) {
   if (chrome.runtime.lastError || !result) {
     chrome.test.fail(chrome.runtime.lastError.message);

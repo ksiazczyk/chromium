@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Automation test for text field focus across windows
+// summary: Browser test verifying that focus events fire only for the text field in the focused window when focusing inputs across two Chrome windows.
+// ---
+
 const allTests = [
   function testFocusAcrossWindows() {
     // Create two windows with focusable text fields in them.

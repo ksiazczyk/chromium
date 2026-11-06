@@ -1,0 +1,4 @@
+# Docerion header of freeze.html.
+type: test
+title: Frozen chrome object lazy bindings test page
+summary: Test page that freezes the chrome object and repeatedly triggers lazy bindings to verify nothing crashes.
