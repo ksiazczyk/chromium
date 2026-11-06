@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock devices changed observer header
+// summary: Declares a gmock implementation of the mojom DevicesChangedObserver interface for use in video capture service tests.
+// ---
+
 #ifndef SERVICES_VIDEO_CAPTURE_TEST_MOCK_DEVICES_CHANGED_OBSERVER_H_
 #define SERVICES_VIDEO_CAPTURE_TEST_MOCK_DEVICES_CHANGED_OBSERVER_H_
 

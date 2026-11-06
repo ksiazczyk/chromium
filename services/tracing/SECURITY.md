@@ -1,3 +1,9 @@
+---
+type: reference
+title: Security considerations for the tracing service
+summary: Documents the tracing service security model, trust boundaries between producers, service, and consumers, and key risks such as sensitive data handling and exfiltration.
+---
+
 # Security Considerations for the Tracing Service
 
 This document outlines the security model, trust boundaries, and key security considerations for the Chromium Tracing Service (located in `//services/tracing`). It is intended for developers, security reviewers, and automated security analysis tools.

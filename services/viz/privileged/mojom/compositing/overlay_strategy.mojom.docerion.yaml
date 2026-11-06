@@ -1,0 +1,4 @@
+# Docerion header of overlay_strategy.mojom.
+type: source
+title: OverlayStrategy Mojo enum
+summary: Defines the Mojo enum of overlay compositing strategies, mirroring viz::OverlayStrategy without its unusable values.

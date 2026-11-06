@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UnwindTestHelper for JNI unwinding tests
+// summary: Java test helper that blocks and unblocks the current thread through JNI callbacks so native stack unwinding can be tested.
+// ---
+
 package org.chromium.tracing;
 
 import android.os.ConditionVariable;

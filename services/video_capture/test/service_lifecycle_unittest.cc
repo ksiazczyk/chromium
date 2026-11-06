@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Video capture service lifecycle unit tests
+// summary: Unit tests covering the video capture service lifecycle, including quitting when clients disconnect and device enumeration after reconnecting.
+// ---
+
 #include "base/command_line.h"
 #include "base/functional/bind.h"
 #include "base/run_loop.h"

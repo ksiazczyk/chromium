@@ -1,0 +1,4 @@
+# Docerion header of gpu_logging.mojom.
+type: source
+title: GpuLogging Mojom interface
+summary: Defines a Mojom interface that sends GPU process log messages to the browser process over a dedicated channel, with messages recorded for display on the GPU debugging page.

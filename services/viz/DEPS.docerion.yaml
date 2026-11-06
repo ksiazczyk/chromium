@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Viz directory include rules
+summary: Defines the allowed include dependencies for code in services/viz, permitting includes from components/viz.

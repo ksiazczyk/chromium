@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definitions for viz privileged GPU Mojom targets
+summary: GN build file defining the Mojom targets, sources, dependencies, typemaps, and platform-enabled features for the viz privileged GPU interfaces.

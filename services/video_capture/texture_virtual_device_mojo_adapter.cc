@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Texture virtual device adapter implementation
+// summary: Implements the texture virtual device Mojo adapter, forwarding shared image buffer handles and ready frames to connected video frame handlers.
+// ---
+
 #include "services/video_capture/texture_virtual_device_mojo_adapter.h"
 
 #include "base/check_op.h"

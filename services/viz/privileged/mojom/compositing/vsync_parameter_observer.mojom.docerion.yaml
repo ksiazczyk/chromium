@@ -1,0 +1,4 @@
+# Docerion header of vsync_parameter_observer.mojom.
+type: source
+title: VSyncParameterObserver Mojo interface
+summary: Defines a Mojo observer notified when a display compositor's vsync timebase or refresh interval changes.

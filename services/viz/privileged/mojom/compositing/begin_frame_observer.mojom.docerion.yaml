@@ -1,0 +1,4 @@
+# Docerion header of begin_frame_observer.mojom.
+type: source
+title: BeginFrameObserver Mojom interface
+summary: Defines the standalone BeginFrameObserver Mojom interface that receives begin frame notifications without being tied to a CompositorFrameSink.

@@ -1,3 +1,12 @@
+---
+type: readme
+title: Perfetto in Chrome
+summary: Overview of the Perfetto integration in Chrome, its directory structure, and step-by-step instructions for adding a new tracing data source.
+relations:
+  - documents /services/tracing/perfetto/producer_host.cc
+  - documents /services/tracing/public/mojom/perfetto_service.mojom
+---
+
 # Perfetto in Chrome
 
 [TOC]

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock video capture device test fixture header
+// summary: Declares the MockVideoCaptureDeviceTest fixture providing reusable setup for tests that use a single mock capture device.
+// ---
+
 #ifndef SERVICES_VIDEO_CAPTURE_TEST_MOCK_VIDEO_CAPTURE_DEVICE_TEST_H_
 #define SERVICES_VIDEO_CAPTURE_TEST_MOCK_VIDEO_CAPTURE_DEVICE_TEST_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU memory buffer virtual device adapter implementation
+// summary: Implements a virtual capture device that forwards GPU memory buffer handles and ready frames from a producer to a connected video frame handler.
+// ---
+
 #include "services/video_capture/gpu_memory_buffer_virtual_device_mojo_adapter.h"
 
 #include <utility>

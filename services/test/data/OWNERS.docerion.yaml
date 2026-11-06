@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file granting access to everyone
+summary: OWNERS file that grants ownership of this test data directory to all users.

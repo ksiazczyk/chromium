@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: script
+# title: Presubmit checks for services/viz
+# summary: Runs the shared viz presubmit checks on uploaded changes to C and C++ source files under services/viz.
+# ---
+
 """Top-level presubmit script for services/viz."""
 
 def CheckChangeOnUpload(input_api, output_api):

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for viz privileged mojom
+summary: GN build file defining the mojom bindings target for viz_main.mojom and the testonly unit_tests source set.

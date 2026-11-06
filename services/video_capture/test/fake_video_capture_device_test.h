@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake video capture device test fixture header
+// summary: Declares the FakeVideoCaptureDeviceTest fixture that creates remotes to the fake devices provided by the fake device factory.
+// ---
+
 #ifndef SERVICES_VIDEO_CAPTURE_TEST_FAKE_VIDEO_CAPTURE_DEVICE_TEST_H_
 #define SERVICES_VIDEO_CAPTURE_TEST_FAKE_VIDEO_CAPTURE_DEVICE_TEST_H_
 

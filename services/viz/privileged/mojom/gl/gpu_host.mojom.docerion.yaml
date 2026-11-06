@@ -1,0 +1,4 @@
+# Docerion header of gpu_host.mojom.
+type: source
+title: GpuHost Mojom interface
+summary: Defines the Mojo interface for the GPU process to report initialization, context lifecycle, GPU info updates, and shader disk cache events to the GPU host.

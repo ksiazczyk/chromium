@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Echo service include rules
+summary: Allows the echo service directory to include headers from components/os_crypt/async/common.

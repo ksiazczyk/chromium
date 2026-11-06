@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the device media to Mojo adapter
+// summary: Unit tests verifying that the adapter stops the device when the receiver closes the connection and releases the instance synchronously afterwards.
+// ---
+
 #include "services/video_capture/device_media_to_mojo_adapter.h"
 
 #include "base/functional/callback_helpers.h"

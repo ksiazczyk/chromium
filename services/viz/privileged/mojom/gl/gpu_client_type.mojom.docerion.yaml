@@ -1,0 +1,4 @@
+# Docerion header of gpu_client_type.mojom.
+type: source
+title: GpuClientType Mojom enum
+summary: Defines the viz.mojom.GpuClientType enum identifying kinds of GPU channel clients such as browser, renderer, video capture, and XR.

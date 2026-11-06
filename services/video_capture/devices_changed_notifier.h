@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Devices changed notifier header
+// summary: Declares DevicesChangedNotifier, which publishes notifications about video capture device changes to registered observers.
+// ---
+
 #ifndef SERVICES_VIDEO_CAPTURE_DEVICES_CHANGED_NOTIFIER_H_
 #define SERVICES_VIDEO_CAPTURE_DEVICES_CHANGED_NOTIFIER_H_
 

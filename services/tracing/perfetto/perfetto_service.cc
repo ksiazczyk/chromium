@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PerfettoService implementation
+// summary: Implements the central PerfettoService that wraps the Perfetto tracing service, parses producer PIDs, and connects producers and consumers.
+// ---
+
 #include "services/tracing/perfetto/perfetto_service.h"
 
 #include <utility>

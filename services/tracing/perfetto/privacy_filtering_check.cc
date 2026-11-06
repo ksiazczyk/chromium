@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Privacy filtering implementation
+// summary: Recursively copies only allowed fields from serialized Perfetto trace protos, removing privacy-sensitive content based on the generated tables.
+// ---
+
 #include "services/tracing/perfetto/privacy_filtering_check.h"
 
 #include <string.h>

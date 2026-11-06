@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for compositing Mojom files
+summary: Routes review of all Mojom and Mojom traits files in this directory to the ipc/SECURITY_OWNERS reviewers with no parent lookup.

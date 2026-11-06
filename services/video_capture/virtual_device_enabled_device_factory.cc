@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Virtual device enabled device factory implementation
+// summary: Implements a DeviceFactory decorator that adds shared memory, texture, and GPU memory buffer virtual devices on top of an optional wrapped factory.
+// ---
+
 #include "services/video_capture/virtual_device_enabled_device_factory.h"
 
 #include <algorithm>

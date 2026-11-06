@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mojom traits unit tests for viz
+// summary: Fuzztest-based property tests exercising mojom serialization traits for viz renderer settings, occlusion culler settings, and overlay strategies.
+// ---
+
 #include <utility>
 
 #include "build/build_config.h"

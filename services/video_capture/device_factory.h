@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceFactory interface declaration
+// summary: Declares the abstract factory for enumerating capture devices, creating devices, and adding shared memory, texture, and GPU memory buffer virtual devices.
+// ---
+
 #ifndef SERVICES_VIDEO_CAPTURE_DEVICE_FACTORY_H_
 #define SERVICES_VIDEO_CAPTURE_DEVICE_FACTORY_H_
 

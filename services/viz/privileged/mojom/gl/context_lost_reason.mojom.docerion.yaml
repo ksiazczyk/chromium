@@ -1,0 +1,4 @@
+# Docerion header of context_lost_reason.mojom.
+type: source
+title: ContextLostReason Mojom enum
+summary: Defines the viz.mojom.ContextLostReason enum enumerating reasons a GPU context can be lost, such as guilty, innocent, or out of memory.

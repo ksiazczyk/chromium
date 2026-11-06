@@ -1,0 +1,4 @@
+# Docerion header of content-sniffer-test4.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for content-sniffer-test4.html
+summary: Mock HTTP response headers served with the content-sniffer-test4.html fixture, returning a plain 200 OK response.

@@ -1,0 +1,4 @@
+# Docerion header of frame_sink_video_capture.mojom.
+type: source
+title: FrameSinkVideoCapture Mojom interfaces
+summary: Defines Mojom interfaces for capturing video frames from frame sinks, including the capturer, consumer callbacks, and capture target types.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Echo service owners
+summary: Sets the echo service directory owners to everyone, so any reviewer can approve changes.

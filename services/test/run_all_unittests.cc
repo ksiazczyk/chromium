@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Services unit test runner entry point
+// summary: Implements the ServiceTestSuite main function that initializes UI resources, Mojo IPC support, and perfetto tracing before launching services unit tests.
+// ---
+
 #include "base/files/file.h"
 #include "base/functional/bind.h"
 #include "base/i18n/icu_util.h"

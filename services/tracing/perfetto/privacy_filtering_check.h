@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrivacyFilteringCheck class declaration
+// summary: Declares PrivacyFilteringCheck, which removes blocked fields from traces and reports stats about the filtered trace content.
+// ---
+
 #ifndef SERVICES_TRACING_PERFETTO_PRIVACY_FILTERING_CHECK_H_
 #define SERVICES_TRACING_PERFETTO_PRIVACY_FILTERING_CHECK_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of expected_proto.pbtxt.
+type: test
+title: Screen AI expected proto test fixture
+summary: Expected protobuf text fixture describing a tree of UI elements with bounding boxes and attributes, used to verify screen_ai service test output.

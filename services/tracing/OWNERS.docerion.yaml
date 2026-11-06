@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Tracing service owners
+summary: Delegates ownership review of the tracing service directory to the base/trace_event OWNERS file.

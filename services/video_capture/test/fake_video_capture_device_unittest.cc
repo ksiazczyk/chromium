@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake video capture device unit tests
+// summary: Unit tests verifying that frame callbacks arrive from I420 and MJPEG fake devices through push video stream subscriptions.
+// ---
+
 #include <algorithm>
 
 #include "base/memory/ref_counted.h"

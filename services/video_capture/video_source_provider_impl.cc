@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video source provider implementation
+// summary: Implements VideoSourceProvider, handing out source infos and video sources and registering shared memory, texture, and GPU memory buffer virtual devices.
+// ---
+
 #include "services/video_capture/video_source_provider_impl.h"
 
 #include "base/functional/bind.h"

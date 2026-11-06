@@ -1,0 +1,4 @@
+# Docerion header of echo_preload_library.def.
+type: config
+title: Echo preload library module definition
+summary: Windows module definition file exporting FnCallsDelayloadFn from echo_preload_library.dll for the echo service tests.

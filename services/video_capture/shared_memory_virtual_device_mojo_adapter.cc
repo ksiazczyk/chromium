@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared memory virtual device adapter implementation
+// summary: Implements the shared memory virtual device Mojo adapter, validating frame info and managing a shared memory buffer pool for virtual video capture devices.
+// ---
+
 #include "services/video_capture/shared_memory_virtual_device_mojo_adapter.h"
 
 #include <algorithm>

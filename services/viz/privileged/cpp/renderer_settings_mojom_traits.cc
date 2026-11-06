@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Renderer settings mojom traits implementation
+// summary: Implements Read functions that deserialize renderer, debug renderer, and occlusion culler settings from mojom data views into viz structs.
+// ---
+
 #include "services/viz/privileged/cpp/renderer_settings_mojom_traits.h"
 
 #include "build/build_config.h"

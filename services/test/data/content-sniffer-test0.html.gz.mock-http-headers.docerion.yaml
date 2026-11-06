@@ -1,0 +1,4 @@
+# Docerion header of content-sniffer-test0.html.gz.mock-http-headers.
+type: test
+title: Mock HTTP headers for gzipped content sniffer test 0
+summary: Mock HTTP response headers marking the gzipped content sniffer test 0 fixture as gzip encoded.

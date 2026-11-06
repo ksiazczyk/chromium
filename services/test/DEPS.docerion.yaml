@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Services test DEPS include rules
+summary: Grants the services test directory access to //ui so the test runner can initialize the UI stack.

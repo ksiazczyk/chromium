@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProducerHost implementation for the Perfetto tracing service
+// summary: Implements the service-side Perfetto producer host that binds producer clients, maps their shared memory buffers, and forwards data source setup, start, stop, and commit messages to the tracing service.
+// ---
+
 #include "services/tracing/perfetto/producer_host.h"
 
 #include <utility>

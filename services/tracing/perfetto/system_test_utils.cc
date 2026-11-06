@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockSystemService implementation for Perfetto system tests
+// summary: Implements a mock Perfetto system service that starts a real tracing service on producer and consumer sockets and manages TMPDIR so tests run hermetically.
+// ---
+
 #include "services/tracing/perfetto/system_test_utils.h"
 
 #include <cstdio>

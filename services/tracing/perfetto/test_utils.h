@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock producer and consumer class declarations for Perfetto tests
+// summary: Declares MockProducer and mock consumer classes used by Perfetto tracing tests to simulate producers and consumers of the tracing service.
+// ---
+
 #ifndef SERVICES_TRACING_PERFETTO_TEST_UTILS_H_
 #define SERVICES_TRACING_PERFETTO_TEST_UTILS_H_
 

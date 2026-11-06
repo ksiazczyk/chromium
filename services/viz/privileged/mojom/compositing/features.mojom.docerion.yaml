@@ -1,0 +1,4 @@
+# Docerion header of features.mojom.
+type: source
+title: EnableVizTestApis feature definition
+summary: Defines the EnableVizTestApis Mojom feature, disabled by default, that gates the Viz test APIs.

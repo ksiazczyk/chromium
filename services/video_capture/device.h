@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device base class declaration
+// summary: Declares an abstract Device base extending mojom::Device with in-process start and stop hooks for capture devices.
+// ---
+
 #ifndef SERVICES_VIDEO_CAPTURE_DEVICE_H_
 #define SERVICES_VIDEO_CAPTURE_DEVICE_H_
 

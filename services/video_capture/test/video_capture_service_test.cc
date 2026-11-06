@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Video capture service test fixture implementation
+// summary: Implements the VideoCaptureServiceTest fixture that sets up the service with fake devices and provides helpers for adding shared memory and texture virtual devices.
+// ---
+
 #include "services/video_capture/test/video_capture_service_test.h"
 
 #include "base/command_line.h"

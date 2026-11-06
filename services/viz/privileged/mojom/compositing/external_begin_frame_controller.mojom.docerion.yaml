@@ -1,0 +1,4 @@
+# Docerion header of external_begin_frame_controller.mojom.
+type: source
+title: ExternalBeginFrameController Mojom interfaces
+summary: Defines Mojom interfaces for manually issuing external BeginFrames to a Display and for clients to control begin frame needs and preferred intervals.

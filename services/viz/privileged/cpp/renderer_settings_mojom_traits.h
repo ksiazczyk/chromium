@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Renderer settings mojom traits declarations
+// summary: Declares mojo StructTraits exposing viz renderer, debug renderer, and occlusion culler settings fields for mojom serialization.
+// ---
+
 #ifndef SERVICES_VIZ_PRIVILEGED_CPP_RENDERER_SETTINGS_MOJOM_TRAITS_H_
 #define SERVICES_VIZ_PRIVILEGED_CPP_RENDERER_SETTINGS_MOJOM_TRAITS_H_
 

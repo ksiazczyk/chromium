@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared memory virtual device adapter unit tests
+// summary: Unit tests for the shared memory virtual device adapter, covering frame buffer requests, pixel format support, and frame delivery using mock producer and frame handler.
+// ---
+
 #include "services/video_capture/shared_memory_virtual_device_mojo_adapter.h"
 
 #include <algorithm>

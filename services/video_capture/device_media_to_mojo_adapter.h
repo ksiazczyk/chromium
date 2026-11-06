@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device media to Mojo adapter header
+// summary: Declares DeviceMediaToMojoAdapter, a mojom::Device implementation backed by a given media::VideoCaptureDevice instance.
+// ---
+
 #ifndef SERVICES_VIDEO_CAPTURE_DEVICE_MEDIA_TO_MOJO_ADAPTER_H_
 #define SERVICES_VIDEO_CAPTURE_DEVICE_MEDIA_TO_MOJO_ADAPTER_H_
 

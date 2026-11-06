@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake device descriptor test fixture header
+// summary: Declares the FakeDeviceDescriptorTest fixture that obtains fake device descriptors by enumerating the devices of the fake device factory.
+// ---
+
 #ifndef SERVICES_VIDEO_CAPTURE_TEST_FAKE_DEVICE_DESCRIPTOR_TEST_H_
 #define SERVICES_VIDEO_CAPTURE_TEST_FAKE_DEVICE_DESCRIPTOR_TEST_H_
 

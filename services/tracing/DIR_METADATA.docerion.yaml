@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Tracing service issue tracker metadata
+summary: Maps the directory to the Speed>Tracing monorail component and a Buganizer component ID for issue routing.
